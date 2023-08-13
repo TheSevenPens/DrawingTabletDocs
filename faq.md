@@ -16,8 +16,7 @@ YES, It is possible, but be prepared for potential limitations. Read more here: 
 
 ### Q: What size drawing tablet should I get?
 
-See the full write up here: [tablet size](guides/core-features/choosing-the-right-tablet-size.md)\
-
+See the full write up here: [tablet size](guides/core-features/choosing-the-right-tablet-size.md)
 
 ### Q: Should I update the tablet firmware?
 
