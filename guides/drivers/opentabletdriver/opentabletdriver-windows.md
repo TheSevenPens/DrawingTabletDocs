@@ -171,6 +171,17 @@ NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical appl
 * The tablet will be shown in the Window title at the top
 * But if you want to force it to detect or re-detect Click **Tablets** > **Detect tablet**
 
+## Checkpoint #1
+
+* **Should work**
+  * Open Tablet Driver should know your tablet is there and which model it is
+  * OTD should be able to detect the pen position
+* **Does not work yet**
+  * tablet buttons
+  * pen buttons
+  * pressure pressure
+  * pen tilt
+
 ## Installing the Windows Ink plugin in OpenTabletDriver
 
 * In the OpenTabletDriver app, navigate to **Plugins** > **Open Plugin Manager**
@@ -263,6 +274,16 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * Click the minimize on the OpenTabletDriver app
 * If you need to find the OTD app again, you can find it in the taskbar in the area that is often called the "System Tray".
 * ![](<../../../.gitbook/assets/image (181).png>)
+
+## Checkpoint #2
+
+* **Should work**
+  * Open Tablet Driver should know your tablet is there and which model it is
+  * OTD should be able to detect the pen position
+  * tablet buttons
+  * pen buttons
+  * pressure pressure
+  * pen tilt
 
 ## Configuration your drawing application
 
