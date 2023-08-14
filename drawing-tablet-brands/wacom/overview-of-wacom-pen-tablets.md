@@ -171,7 +171,7 @@ You can find Wacom diagonal wobble samples here: [Wacom diagonal wobble samples]
 The cause of the increased cursor lag in the Intuos is that the tablet hardware processes the pen position data to make it smoother.
 
 * One by Wacom -> no hardware smoothing
-* Intuos -> some hardware smoothing
+* Intuos -> no hardware smoothing when drawing/dragging. hardware smoothing on hover.
 * Intuos Pro -> no hardware smoothing
 
 ## Wireless/Bluetooth
