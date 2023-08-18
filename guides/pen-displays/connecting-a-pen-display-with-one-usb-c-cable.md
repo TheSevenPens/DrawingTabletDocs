@@ -69,7 +69,12 @@ Port used on tablet: Upper USB-C port
 * Unknown USB-C cable: VERIFIED TO WORK.
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
 
-&#x20;**Wacom One (DTC-133)**
+**Wacom One 12 "(Gen 2)" (DTC-121)**
+
+* Unknown USB-C cable: NOT TESTED
+* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.&#x20;
+
+**Wacom One (Gen 1) (DTC-133)**
 
 * Unknown USB-C cable: VERIFIED TO **NOT WORK**
 * CableMatters Thunderbolt 3 cable: VERIFIED TO **NOT WORK**.
