@@ -319,6 +319,10 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * This will open a new Explorer window pointing to a folder called **Startup**
 * &#x20;Move the OTD shortcut to the **Startup** folder in that explorer window
 
+## Pressure Curve
+
+By default OpenTabletDriver does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-smoothing-1.md)
+
 ## Smoothing
 
 By default OpenTabletDriver performs no smoothing on the pen data. This is desirable because&#x20;
