@@ -93,12 +93,12 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## iPad apps for creative work
 
-* [Clip Studio Paint](../guides/applications/clip-studio-paint.md) (My favorite for illustration!)&#x20;
-* [Procreate](../guides/applications/procreate.md) (#1 iPad app for drawing)
+* [Clip Studio Paint](../applications/clip-studio-paint.md) (My favorite for illustration!)&#x20;
+* [Procreate](../applications/procreate.md) (#1 iPad app for drawing)
 * [Concepts](using-an-ipad-as-a-drawing-tablet.md#concepts) &#x20;
 * [Infinite Painter](using-an-ipad-as-a-drawing-tablet.md#infinite-painter)  &#x20;
-* [Medibang](../guides/applications/medibang.md)  &#x20;
-* [Paint Tool Sai](../guides/applications/painttool-sai.md) &#x20;
+* [Medibang](../applications/medibang.md)  &#x20;
+* [Paint Tool Sai](../applications/painttool-sai.md) &#x20;
 * [ArtRage](using-an-ipad-as-a-drawing-tablet.md#artrage)  &#x20;
 
 ## How I use iPads
@@ -112,12 +112,12 @@ I use these iPad models with an Apple Pencil 2:
 
 I primarily these use iPad apps&#x20;
 
-* [Procreate](../guides/applications/procreate.md)
-* [Clip Studio Paint](../guides/applications/clip-studio-paint.md) &#x20;
+* [Procreate](../applications/procreate.md)
+* [Clip Studio Paint](../applications/clip-studio-paint.md) &#x20;
 
 I occasionally use these iPad apps
 
-* [Concepts](../guides/applications/concepts-app.md)  &#x20;
+* [Concepts](../applications/concepts-app.md)  &#x20;
 
 ## Transferring files between iPads and Windows
 

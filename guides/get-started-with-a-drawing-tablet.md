@@ -66,11 +66,11 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 
 ## Apps
 
-There's a big list of apps here: [**applications**](applications/)&#x20;
+There's a big list of apps here: [**applications**](../applications/)&#x20;
 
-Install [**Krita**](applications/krita.md). It is a FREE and good drawing app and useful to testing things out with the pen.
+Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app and useful to testing things out with the pen.
 
-I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](applications/clip-studio-paint.md).
+I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint.md).
 
 **Magma** ([https://magma.com/index](https://magma.com/index)) is capable web-based drawing program that does have a free tier. I don't use magma often, but it seems very capable.&#x20;
 

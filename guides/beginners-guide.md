@@ -198,7 +198,7 @@ Any application on your computer, will treat the pen just as if you have a mouse
 
 **Pen-aware applications** know you are using a pen and take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications.
 
-More here: [**applications**](applications/)&#x20;
+More here: [**applications**](../applications/)&#x20;
 
 ## Touch support
 

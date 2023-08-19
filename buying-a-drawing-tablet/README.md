@@ -220,7 +220,7 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 ## Applications
 
-There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../guides/applications/).
+There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/).
 
 ## Scenarios
 
