@@ -1,4 +1,4 @@
-# Buying a drawing tablet&#x20;
+# Buying a drawing tablet
 
 Updated: 2023/07/02
 
@@ -45,7 +45,7 @@ More here: [7P notes: Wacom 2023 drawing tablet refresh](../7p-notes/7p-notes-wa
 
 ## My notes on drawing tablets
 
-I own A LOT of drawing tablets.&#x20;
+I own A LOT of drawing tablets. Sometimes I take notes on them to share my experience. Please remember, I am not a tablet reviewer, so my notes reflect what I found interesting: [**7P notes**](../7p-notes/)&#x20;
 
 ## Pen computers
 
