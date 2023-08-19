@@ -4,6 +4,8 @@
 
 Sometimes you may want to see the same canvas on two displays.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-19 032531.jpg" alt=""><figcaption></figcaption></figure>
+
 This is useful in a couple of cases:
 
 * Work on the canvas on display A, but see a full screen version of the canvas on display B
