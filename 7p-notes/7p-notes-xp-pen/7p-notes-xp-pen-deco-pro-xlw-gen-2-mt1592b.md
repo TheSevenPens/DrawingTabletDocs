@@ -52,12 +52,16 @@ Four indicator lights are just past the corners of ther active area. They will l
 
 **Pointer lag**
 
-Position smoothing is causing some pointer lag. The effect is subtle. But I think even someone who is not a tablet expert would feel that something is just a little "off" even if they didn't have the words to describe it. To me it feels like there's a little bit of drift of the pointer when I stop moving.
+Initial reaction: Position smoothing is causing some pointer lag. The effect is subtle. But I think even someone who is not a tablet expert would feel that something is just a little "off" even if they didn't have the words to describe it. To me it feels like there's a little bit of drift of the pointer when I stop moving.
 
 * Compared to the Wacom Intuos Pro Large (PTH-860): The XP pen I think has a little more pointer lag. Again it is subtle.
 * Compared to the Huion Giano G930L: Not sure.  I will have to dive deeper into it.
 
-I'm going to give it more time to fully evaluate this effect.&#x20;
+I'm going to give it more time to fully evaluate this effect.
+
+
+
+&#x20;
 
 **16K Pressure levels**
 
@@ -76,6 +80,10 @@ Low - which is good.&#x20;
 <figure><img src="../../.gitbook/assets/image (335).png" alt="" width="375"><figcaption></figcaption></figure>
 
 It has more wobble than the Wacom Intuos Pro Large (PTH-860). XP-Pen should be doing better here since it is targeted at a pro audience.
+
+**Disabled buttons impact on drawing**
+
+Good: If you disable the two pen buttons in the driver, and then press the buttons while drawing it doesn't seem to interrupt drawing. I tested this with Clip Studio Paint and Krita.
 
 
 
