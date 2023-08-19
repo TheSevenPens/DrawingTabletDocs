@@ -13,17 +13,23 @@ This is useful in a couple of cases:
 
 Some applications support this generic capability of putting the canvas on two displays simultaneously, but not all do.
 
-Here are the ones I have confirmed that do support it: Krita, Photoshop.
+Here are the ones I have confirmed that do support it: Clip Studio Paint, Krita, and Photoshop.
 
-Instructions below
+## Clip Studio Paint&#x20;
+
+Let's say you have a document window already open called \<title>
+
+* Click Window > Canvas > New Window
+* A new window showing the canvas for \<title will appear>
+* Drag that window to another display
+* Now any changes you make in one canvas will be reflected in the other
 
 ## Krita instructions
 
 Let's say you have a document window already open called \<title>\
 
 
-Click **Window > New Window**&#x20;
-
+* Click **Window > New Window**&#x20;
 * This creates a second new Krita application window that will have no documents in it.&#x20;
 * Go to the original Krita application window and **Click Window > New View \<title>**
 * Now you will see the document **\<title>** on both application windows.&#x20;
