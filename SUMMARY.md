@@ -84,6 +84,7 @@
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
       * [Using OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
+      * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)
     * [Uninstalling manufacturer tablet drivers](guides/drivers/uninstalling-manufacturer-tablet-drivers.md)
   * [Windows](guides/windows/README.md)
     * [Disable ripple effect rings in Windows](guides/windows/disable-ripple-effect-rings-in-windows.md)

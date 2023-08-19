@@ -4,39 +4,9 @@
 
 OpenTabletDriver lets you configure smoothing via plug-ins.
 
-The best plug-in for smoothing is called **Slimy Scylla** created by tablet enthusiast Kuuube.&#x20;
+## Installing the Slimy Scylla plug-in
 
-It is extremely powerful and configurable.
-
-## Installing Slimy Syclla
-
-Launch the OpenTableDriver UI
-
-Navigate to **Plugins** > **Open Plugin Manager**&#x20;
-
-<img src="../../../.gitbook/assets/image (215).png" alt="" data-size="original">
-
-The plugin manager will look like this
-
-<img src="../../../.gitbook/assets/image (323).png" alt="" data-size="original">
-
-Click on **Slimy Scylla** in the list on the left.
-
-Then click **Install**.
-
-![](<../../../.gitbook/assets/image (212).png>)
-
-Close the plugin manager
-
-In the OpenTabletDriver app, click on **Filters**
-
-![](<../../../.gitbook/assets/image (241).png>)
-
-If Slimy Scylla is installed you will see many filters with names that start with "Slimy Scylla"
-
-![](<../../../.gitbook/assets/image (42).png>)
-
-If you want to use a filter make sure to enable it and to press SAVE.
+Instructions for installing Slimy Scylla are here: [**Slimy Scylla**](opentabletdriver-smoothing-1.md)&#x20;
 
 ## Position smoothing&#x20;
 
