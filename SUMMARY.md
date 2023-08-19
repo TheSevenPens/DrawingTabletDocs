@@ -139,6 +139,8 @@
     * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 (2nd Gen)](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
     * [7P notes: TourBox](7p-notes/7p-notes-other/7p-notes-tourbox.md)
 * [Applications](applications/README.md)
+  * [Tips](applications/tips/README.md)
+    * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
   * [Fresco](applications/fresco.md)
   * [Concepts app](applications/concepts-app.md)
   * [HiPaint](applications/hipaint.md)
