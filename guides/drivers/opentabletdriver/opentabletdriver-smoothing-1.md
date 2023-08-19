@@ -1,48 +1,68 @@
-# Pressure curve OpenTabletDriver
+# Slimy Scylla
 
 ## Overview
 
-OpenTabletDriver lets you configure the pressure curve via plug-ins.
+**Slimy Scylla** is created by tablet enthusiast Kuuube.&#x20;
 
-## Installing the Slimy Scylla plug-in
+It is extremely powerful and configurable.
 
-Instructions for installing Slimy Scylla are here: [**Slimy Scylla**](opentabletdriver-smoothing-2.md)&#x20;
+It features many amazing filters:
 
-## Configuring the pressure curve
+<img src="../../../.gitbook/assets/image (342).png" alt="" data-size="original">
 
-In the Filters tab, enable Slimy Scylla Pressure Curve
+##
 
-<div align="left">
+## Installing Slimy Scylla
 
-<figure><img src="../../../.gitbook/assets/image (343).png" alt="" width="375"><figcaption></figcaption></figure>
+Launch the OpenTableDriver UI
 
-</div>
+Navigate to **Plugins** > **Open Plugin Manager**&#x20;
 
+<img src="../../../.gitbook/assets/image (215).png" alt="" data-size="original">
 
+The plugin manager will look like this
+
+<img src="../../../.gitbook/assets/image (323).png" alt="" data-size="original">
+
+Click on **Slimy Scylla** in the list on the left.
+
+Then click **Install**.
+
+![](<../../../.gitbook/assets/image (212).png>)
+
+Close the plugin manager
+
+In the OpenTabletDriver app, click on **Filters**
+
+![](<../../../.gitbook/assets/image (241).png>)
+
+If Slimy Scylla is installed you will see many filters with names that start with "Slimy Scylla"
+
+![](<../../../.gitbook/assets/image (42).png>)
+
+If you want to use a filter make sure to enable it and to press SAVE.
+
+## Position smoothing&#x20;
+
+There are several filters that involve smoothing the position of the pen.
+
+* Position Smoothing Moving Average
+* Position Smoothing Pulled String
+* Position Smoothing Exponential Moving Average &#x20;
+
+The one I recommend using is **Position Smoothing Exponental Moving Average**
+
+## Configuring Position Smoothing Exponential Moving Average
 
 This is what the configuration looks like:&#x20;
 
-
-
-<figure><img src="../../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 If you want to enable the filter, click **Enable Smily Scylla ...** at the top and click **Apply**.
 
-The controls here will let you configure the pressure curve.
+**Amount** = how much smoothing (range 0.0 to 1.0). Try 0.1 to start with
 
-Unfortunately, there is no interactive view of the pressure curve inside the OTD UX.
-
-However, this link shows you the effect of the settings visually and lets you play with the settings interactively : [https://www.desmos.com/calculator/xo0y9dc9ye](https://www.desmos.com/calculator/xo0y9dc9ye)&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
-
-Remember once you make changes to the settings, always click **Apply** in OTD
-
-
-
-Docs are here: [https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md](https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md)&#x20;
-
-
+**Always Apply to Hover** = to leave this unchecked.&#x20;
 
 Slimy Scylla docs here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs)
 

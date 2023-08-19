@@ -321,7 +321,7 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 
 ## Pressure Curve
 
-By default OpenTabletDriver does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-smoothing-1.md)
+By default OpenTabletDriver does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
 
 ## Smoothing
 
