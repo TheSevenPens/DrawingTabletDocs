@@ -83,7 +83,7 @@ It has more wobble than the Wacom Intuos Pro Large (PTH-860). XP-Pen should be d
 
 **Disabled buttons impact on drawing**
 
-Good: If you disable the two pen buttons in the driver, and then press the buttons while drawing it doesn't seem to interrupt drawing. I tested this with Clip Studio Paint and Krita.
+Good: If you disable the two pen buttons in the driver, and then press the buttons while drawing it doesn't seem to interrupt drawing. I tested this with Clip Studio Paint and Krita on Windows 11.
 
 
 
