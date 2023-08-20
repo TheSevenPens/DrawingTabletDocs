@@ -83,6 +83,7 @@
   * [Drivers](guides/drivers/README.md)
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
       * [Using OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+      * [Uninstalling OpenTabletDriver on Windows](guides/drivers/opentabletdriver/uninstalling-opentabletdriver-on-windows.md)
       * [Page](guides/drivers/opentabletdriver/page.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
       * [Pressure curve OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
