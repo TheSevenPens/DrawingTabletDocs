@@ -204,7 +204,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 * Change it to **Windows Ink Absolute Mode**
   * If you leave it set to Absolute Mode, you will not be able to take advantage of pressure sensitivity and tilt.
   * NOTE: You will only see Windows Ink Absolute Mode listed if you previously enabled the Windows Ink plugin
-  * NOTE: "Relative mode" is equiavalent to "Mouse mode"
+  * NOTE: "Relative mode" is equivalent to "Mouse mode"
 
 ![](<../../../.gitbook/assets/image (85).png>)
 
@@ -233,13 +233,13 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 ### Configuring the eraser
 
-* You only need to do this if you pen has an eraser
+* You only need to do this if your pen has an eraser
 * Under **Eraser Settings > Eraser Bindings**&#x20;
   * Change **Type** to **Windows Ink**
   * Change **Button** to **Pen Tip**
   * Click **Apply**
 
-## More about pen Buttons
+## More about pen buttons
 
 You can bind the pen buttons to several kinds of actions:
 
@@ -258,7 +258,8 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 
 ## Tablet Buttons
 
-* OpenTabletDriver does support buttons on your tablet. For example, for a Wacom Intuos Pro Large (PTH-860) all eight button shows up in the **Auxiliary Settings** tab. Each button shows up as an **Auxiliary Binding** in this tab.
+* OTD does support buttons on your tablet.&#x20;
+* In the **Auxiliary Settings** tab, each button shows up as an **Auxiliary Binding**.
 * ![](<../../../.gitbook/assets/image (302).png>)
 * In the screenshot above one of the buttons has been set to match the "e" key.
 
@@ -294,14 +295,14 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * Download and install Krita from https://krita.org/&#x20;
 * Launch Krita
 * Go to **Settings** > **Configure Krita > Tablet settings > Tablet Input API**
-* Select the Windows Ink option (not the WinTab option)
+* Select the **Windows Ink** option (not the **WinTab** option)
 * Click **OK**
 * Restart Krita (You MUST restart Krita)
 * Create a new document
 * Pick a brush that supports pressure sensitivity
 * Start drawing and verify the brush responds to pressure.
 
-![](<../../../.gitbook/assets/image (271).png>)
+
 
 ## How to automatically start OpenTabletDriver when Windows starts
 
@@ -342,6 +343,6 @@ See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalli
 
 ## Application data directory
 
-* OpenTabletDriver stores information in its application data directory
+* OTD stores information in its application data directory
 * More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
 * If you are doing more advanced things with OTD you should be familiar with this folder.
