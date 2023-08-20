@@ -184,17 +184,15 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 ## Installing the Windows Ink plugin in OpenTabletDriver
 
 * In the OTD app, navigate to **Plugins** > **Open Plugin Manager**
-* You will see a list of plug-ins
-* Find the one called **Windows Ink**, click on it, then click **Install**&#x20;
-* One you install it, the Windows Ink plugin will appear at the top of the plugin list
+* Click on the **Windows Ink** plugin , then click **Install**&#x20;
+* The Windows Ink plugin will appear at the top of the plugin list
 * Close the **Plugin Manager** window
 
-## Configuring Tablet to Display Mapping
+## Configuring tablet to display mapping
 
-* In the OTD App
-* In the the Output tab, in the **Tablet** Section
-* Right click anywhere in theTablert section and then select **Lock Aspect Ratio**.
-* In the the Output tab, in the **Display** Section, right-click anywhere in the **Display** section and select **Set to Display** and then select the specific display you want to use with the tablet.
+* In the OTD App, go to **Output** > **Tablet** Section
+* In **Output** > **Display**, right-click anywhere and pick **Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
+* In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
 * ![](<../../../.gitbook/assets/image (9).png>)
 
 ## Configuring Windows Ink in OpenTabletDriver
@@ -208,7 +206,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 ![](<../../../.gitbook/assets/image (85).png>)
 
-## Configuring the Pen
+## Configuring the pen
 
 ### Overview
 
@@ -256,7 +254,7 @@ For **Windows Ink** here are the options:
 
 If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
 
-## Tablet Buttons
+## Tablet buttons
 
 * OTD does support buttons on your tablet.&#x20;
 * In the **Auxiliary Settings** tab, each button shows up as an **Auxiliary Binding**.
@@ -316,7 +314,7 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * This will open a new Explorer window pointing to a folder called **Startup**
 * &#x20;Move the OTD shortcut to the **Startup** folder in that explorer window
 
-## Pressure Curve
+## Pressure curve
 
 By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
 
