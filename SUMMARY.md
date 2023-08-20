@@ -146,6 +146,7 @@
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
   * [Fresco](applications/fresco.md)
   * [Concepts app](applications/concepts-app.md)
+  * [Blender](applications/blender.md)
   * [HiPaint](applications/hipaint.md)
   * [Infinite Painter](applications/infinite-painter.md)
   * [Medibang](applications/medibang.md)
