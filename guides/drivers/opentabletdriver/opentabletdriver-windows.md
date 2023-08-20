@@ -294,13 +294,10 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 
 * Download and install Krita from https://krita.org/&#x20;
 * Launch Krita
-* Go to **Settings** > **Configure Krita**
-* Go to **Tablet settings**
-* Under **Tablet Input API**
-  * Select the Windows Ink option (not the WinTab option)
+* Go to **Settings** > **Configure Krita > Tablet settings > Tablet Input API**
+* Select the Windows Ink option (not the WinTab option)
 * Click **OK**
-* Restart Krita
-  * You MUST restart Krita
+* Restart Krita (You MUST restart Krita)
 * Create a new document
 * Pick a brush that supports pressure sensitivity
 * Start drawing and verify the brush responds to pressure.
