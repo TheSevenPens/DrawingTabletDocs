@@ -22,39 +22,25 @@ This document **does not** replace the OpenTabletDriver documentation ([https://
 
 Using OpenTabletDriver for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
 
-## **Windows Pen APIs**
+## **Windows Ink**
 
-There are two Pen APIs in the Windows ecosystem:
-
-* WinTAB - an older "standard"
-* Windows Ink - a built-in feature of Microsoft Windows
-
-OpenTabletDriver does support **Windows Ink**.
-
-OpenTabletDriver does NOT support **WinTab**.&#x20;
-
-As of 2023:
-
-* Most creative apps support Windows Ink and WinTab.&#x20;
-* Some apps - for example Microsoft OneNote - only support Windows Ink.&#x20;
-* A few apps - usually very old ones - only support WinTab.&#x20;
-
-The apps that are known to support Windows Ink include:
-
-* Clip Studio Paint
-* Krita
-* Photoshop
-* Illustrator
+* There are two Pen APIs in the Windows ecosystem: **WinTab** which is older, and **Windows Ink** which is newer.
+* OTD only supports **Windows Ink** so any apps you want to use it with must also support Windows Ink.
+* Most creative apps support Windows Ink - Clip Studio Paint, Krita, Photoshop.
+* If you want pressure sensitivity, tilt, etc. - you must **you MUST configure OTD to use Windows Ink** and configure your apps to also use Windows Ink.&#x20;
 
 ## **Known issues**
 
-* If you want pressure sensitivity, tilt, etc. - you must **you MUST configure OpenTabletDriver to use Windows Ink** and configure your apps to also use Windows Ink.&#x20;
-* You must completely **uninstall existing tablet drivers** on your machine. OpenTabletDriver will not work correctly if there are any remnants of other tablet drivers.
+* You must completely **uninstall existing tablet drivers** on your machine. OTD will not work correctly if there are any remnants of other tablet drivers.
 * There are some restrictions on what you can bind the pen buttons to. These are described later in the doc.
-* <mark style="color:red;">**DO NOT run OpenTabletDriver as administrator**</mark>. It will not work correctly if you do.
-* OpenTabletDriver **does not support touch input**.
-* OpenTabletDriver **does not support tablet dials**.
-* OpenTabletDriver **does not support pen barrel rotation**.
+* <mark style="color:red;">**DO NOT run OTD as administrator**</mark>. It will not work correctly if you do.
+
+## Tablet features not supported by OpenTabletDriver
+
+* OTD does NOT support touch input.
+* OTD does NOT support tablet rotary dials.
+* OTD does NOT support pen barrel rotation.
+* OTD does NOT support bluetooth connections.
 
 ## Usage notes
 
@@ -109,7 +95,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * OTD works with many tablets, but not all. Please see [**this list of tablets that OTD supports**](https://opentabletdriver.net/Tablets).
 * To validate everything working this document uses the Krita painting app. But you can use any app you want.
 
-## **Preparation**
+## **Preparing your system**
 
 * Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.)
 * NOTE: Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
