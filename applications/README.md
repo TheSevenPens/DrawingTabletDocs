@@ -16,30 +16,41 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 
 ## Pen-aware applications
 
-* Creative
-  * [ArtRage](./#artrage)   (Windows, macOS, iOS, Android)
-  * Aggie.io - [https://aggie.io](https://aggie.io) (web)
-  * [Clip Studio Paint](clip-studio-paint.md)    (Windows, MacOS, Android, iOS)
-  * [Concepts](./#concepts)  (Windows, Android, iOS)
-  * Adobe [Fresco](fresco.md)  (Windows, iOS, MacOS)
-  * [Firealpaca](fireaplaca.md)   (Windows, MacOS)
-  * [HiPaint](hipaint.md) (Android, iOS)
-  * [Infinite Painter](./#infinite-painter)   (Andoid, iOS)
-  * [Krita](krita.md)  (Windows, Linux, MacOS)
-  * Magma - [https://magma.com/](https://magma.com/) (web)
-  * [Medibang](medibang.md)   (Windows, MacOS)
-  * [Paint Tool Sai](painttool-sai.md)  (Windows)
-  * [Painter](painter.md)  (Windows, MacOS)
-  * [Procreate](procreate.md) (iOS)
-  * [Rebelle](rebelle.md)   (Windows, MacOS)
-  * Sketchbook Pro (MacOS, Windows, Android, iOS)
-* Photoediting
-  * Photopea - [https://www.photopea.com/](https://www.photopea.com/) (web)
-  * Adobe [Photoshop](photoshop.md)   (Windows, MacOS)
-* Note-taking
-  * Microsoft OneNote (Windows, MacOS, Android, iOS)
-* Whiteboarding
-  * Microsoft Whiteboard (Windows)
+### Creative 2D
+
+* [ArtRage](./#artrage)   (Windows, macOS, iOS, Android)
+* Aggie.io - [https://aggie.io](https://aggie.io) (web)
+* [Clip Studio Paint](clip-studio-paint.md)    (Windows, MacOS, Android, iOS)
+* [Concepts](./#concepts)  (Windows, Android, iOS)
+* Adobe [Fresco](fresco.md)  (Windows, iOS, MacOS)
+* [Firealpaca](fireaplaca.md)   (Windows, MacOS)
+* [HiPaint](hipaint.md) (Android, iOS)
+* [Infinite Painter](./#infinite-painter)   (Andoid, iOS)
+* [Krita](krita.md)  (Windows, Linux, MacOS)
+* Magma - [https://magma.com/](https://magma.com/) (web)
+* [Medibang](medibang.md)   (Windows, MacOS)
+* [Paint Tool Sai](painttool-sai.md)  (Windows)
+* [Painter](painter.md)  (Windows, MacOS)
+* [Procreate](procreate.md) (iOS)
+* [Rebelle](rebelle.md)   (Windows, MacOS)
+* Sketchbook Pro (MacOS, Windows, Android, iOS)
+
+### 3D&#x20;
+
+* [Blender](blender.md)  (Linux, MacOS, Windows, BSD)
+
+### Photoediting
+
+* Photopea - [https://www.photopea.com/](https://www.photopea.com/) (web)
+* Adobe [Photoshop](photoshop.md)   (Windows, MacOS)
+
+### Note-taking
+
+* Microsoft OneNote (Windows, MacOS, Android, iOS)
+
+### Whiteboarding
+
+* Microsoft Whiteboard (Windows)
 
 ## Roundups & reviews
 
