@@ -23,6 +23,7 @@ Key content to explore:
 * [**Buying a drawing tablet**](buying-a-drawing-tablet/)&#x20;
 * [**Drawing tablet brands**](drawing-tablet-brands/)    &#x20;
 * [**Guides**](guides/)&#x20;
+* [**Applications**](applications/) &#x20;
 * [**Troubleshooting**](troubleshooting/)&#x20;
 * [**Reviews**](https://docs.thesevenpens.com/drawtab/reviews) &#x20;
 * [**Accessories**](accessories/)&#x20;
