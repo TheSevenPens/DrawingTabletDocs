@@ -124,9 +124,7 @@ Follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-ma
 ## Installing VMulti
 
 * **VMulti** is a prerequisite for using **OpenTabletDriver** correctly on Windows for drawing applications.
-* Go to [https://github.com/X9VoiD/vmulti-bin/releases/tag/v1.0](https://github.com/X9VoiD/vmulti-bin/releases/tag/v1.0)&#x20;
-* Scroll down on the page, under **Assets** you'll see a file called **Driver.zip**
-* Download **Driver.zip**
+* Download VMulti from this location:L [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
 * Rename Driver.zip to VMulti\_Driver.zip&#x20;
   * NOTE: This renaming step is it make it easier to keep track of these files later
 * Move VMulti\_Driver.zip to your Documents folder
@@ -135,17 +133,17 @@ Follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-ma
 * Right click on the **64** folder and select **Open in Terminal** &#x20;
 * The terminal will launch and the current directory will be set to the 64 folder
 * run **install\_hiddriver.bat**&#x20;
-  * NOTE: this bat file if needed will restart your computer without warning. So close any applications and save any docs before you run this .bat file.
+  * NOTE: This bat file - if needed - may restart your computer without warning. So, close any applications and save any docs before you run this .bat file.
 
 ## Installing the version of .NET Runtime needed by OpenTabletDriver
 
-OpenTabletDriver requires a specific version of the .NET Runtime
+OTD requires a specific version of the .NET Runtime
 
 You can directly download and installed the version of .NET Runtime needed by downloading it from this link: [https://opentabletdriver.net/framework](https://opentabletdriver.net/framework)&#x20;
 
 ## Installing OpenTabletDriver
 
-NOTE: Strictly speaking, OTDis not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
+NOTE: Strictly speaking, OTD is not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
 
 * Download **OpenTabletDriver.win-x64.zip** from [https://opentabletdriver.net/Release/Download/OpenTabletDriver.win-x64.zip](https://opentabletdriver.net/Release/Download/OpenTabletDriver.win-x64.zip)&#x20;
 * Move this zip file to your **Documents** folder&#x20;
