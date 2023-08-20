@@ -37,7 +37,8 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 
 ### 3D&#x20;
 
-* [Blender](blender.md)  (Linux, MacOS, Windows, BSD)
+* [Blender](blender.md) (Linux, MacOS, Windows, BSD)
+* Spline - [https://spline.design/](https://spline.design/) - (web)
 
 ### Photoediting
 
