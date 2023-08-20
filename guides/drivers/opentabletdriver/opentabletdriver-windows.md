@@ -124,7 +124,7 @@ Follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-ma
 ## Installing VMulti
 
 * **VMulti** is a prerequisite for using **OpenTabletDriver** correctly on Windows for drawing applications.
-* Download VMulti from this location:L [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
+* Download VMulti from this location: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
 * Rename Driver.zip to VMulti\_Driver.zip&#x20;
   * NOTE: This renaming step is it make it easier to keep track of these files later
 * Move VMulti\_Driver.zip to your Documents folder
@@ -152,7 +152,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
   * OpenTabletDriver.UX.Wpf.exe
   * OpenTabletDriver.Daemon.exe
 * Launch **OpenTabletDriver.UX.Wpf.exe**
-  * If this gives you a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. The installation is quick. Then re-launch OpenTabletDriver.UX.Wpf.exe.
+  * If you see a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. Then launch OpenTabletDriver.UX.Wpf.exe.
   * This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
 * You will likely be greeted by a window titled **OpenTabletDriver Guide**.&#x20;
   * Click the X in the upper right hand corner to close the guide.
