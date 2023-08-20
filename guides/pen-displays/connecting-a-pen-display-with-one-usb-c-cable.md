@@ -79,6 +79,10 @@ Port used on tablet: Upper USB-C port
 * Unknown USB-C cable: VERIFIED TO **NOT WORK**
 * CableMatters Thunderbolt 3 cable: VERIFIED TO **NOT WORK**.
 
+## Resources
+
+* Here is a list from Huion about devices that can use a single USB-C cable: [https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)&#x20;
+
 ## Other resources
 
 * Brad Colbow connecting the Huion Kamvas 13 with a single USB-C cable: See 6:00 in this video: [https://youtu.be/ku8x1q\_nhFQ](https://youtu.be/ku8x1q\_nhFQ)
