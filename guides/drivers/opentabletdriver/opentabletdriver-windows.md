@@ -64,11 +64,11 @@ Many manufacturer drivers support having a setting for your entire system and a 
 
 For example, you can change have a pen button be a right click for all applications but be a double-click for Krita.
 
-However, OpenTabletDriver only supports system-wide settings. So any settings in OpenTabletDriver will affect EVERY applications.&#x20;
+However, OTD only supports system-wide settings. So any settings in OTD will affect EVERY application.&#x20;
 
 ### Pen hover height
 
-By default, OpenTabletDriver **has no restriction on the hover height of your pen**. Most drivers impose an artificial limit of about 10mm for a pen. But you'll often find with OpenTabletDriver that the hover height is increased substantially.&#x20;
+By default, OTD **has no restriction on the hover height of your pen**. Most drivers impose an artificial limit of about 10mm for a pen. But you'll often find with OTD that the hover height is increased substantially.&#x20;
 
 The maximum hover height is dependent on the specific model of tablet involved. For example with a Wacom Intuos Pro (PTH-860) my hover height goes from 10mm with the Wacom Driver to 20mm with Open Tablet driver.
 
@@ -80,7 +80,7 @@ Technically, OpenTabletDriver isn't "installed". It's just a tool that you can d
 
 ## **Supported tablets**
 
-Although OpenTabletDriver supports many tablets, it does not support all of them.
+Although OTD supports many tablets, it does not support all of them.
 
 Consult the list here to verify that your tablet is supported by OpenTabletDriver: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 
@@ -117,7 +117,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 ## Uninstalling manufacturer tablet drivers
 
-In order to use OpenTabletDriver, you MUST completely uninstall any other tablet device drivers.
+In order to use OTD, you MUST completely uninstall any other tablet device drivers.
 
 Follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
 
@@ -145,7 +145,7 @@ You can directly download and installed the version of .NET Runtime needed by do
 
 ## Installing OpenTabletDriver
 
-NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
+NOTE: Strictly speaking, OTDis not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
 
 * Download **OpenTabletDriver.win-x64.zip** from [https://opentabletdriver.net/Release/Download/OpenTabletDriver.win-x64.zip](https://opentabletdriver.net/Release/Download/OpenTabletDriver.win-x64.zip)&#x20;
 * Move this zip file to your **Documents** folder&#x20;
@@ -155,26 +155,27 @@ NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical appl
   * OpenTabletDriver.Daemon.exe
 * Launch **OpenTabletDriver.UX.Wpf.exe**
   * If this gives you a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. The installation is quick. Then re-launch OpenTabletDriver.UX.Wpf.exe.
-  * This message does not always come up, so I recommend that you install the .NET Runtime before you use OpenTabletDriver.
+  * This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
 * You will likely be greeted by a window titled **OpenTabletDriver Guide**.&#x20;
-  * If you want to learn about OpenTabletDriver keep clicking **Next** and then finally **Close**.&#x20;
-  * If this is your first time with OpenTabletDriver, I highly suggest reading through this guide.&#x20;
-  * You can close this window at anytime by clicking X in the upper right hand corner of the window.
-  * You can get back to this guide at any time in OpenTabletDriver by navigating to **Help** > **Show guide**.
-* If the OpenTablerDriver UI is running you will see it in the notification area on your taskbar
-* ![](<../../../.gitbook/assets/image (146).png>)
-* ![](<../../../.gitbook/assets/image (103).png>)
+  * Click the X in the upper right hand corner to close the guide.
+  * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
 
-## **Detecting your Tablet**
+## Verify OpenTabletDriver is running
 
-* OpenTabletDriver will automatically try to detect your tablet
+* If the OTD UI is running you will see it in the notification area on your taskbar
+
+![](<../../../.gitbook/assets/image (146).png>)![](<../../../.gitbook/assets/image (103).png>)
+
+## **Detecting your tablet**
+
+* OTD will automatically try to detect your tablet
 * The tablet will be shown in the Window title at the top
-* But if you want to force it to detect or re-detect Click **Tablets** > **Detect tablet**
+* To force detection click **Tablets** > **Detect tablet**
 
 ## Checkpoint #1
 
 * **Should work**
-  * Open Tablet Driver should know your tablet is there and which model it is
+  * OTD should detect your tablet is there and which model it is
   * OTD should be able to detect the pen position
 * **Does not work yet**
   * tablet buttons
@@ -184,7 +185,7 @@ NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical appl
 
 ## Installing the Windows Ink plugin in OpenTabletDriver
 
-* In the OpenTabletDriver app, navigate to **Plugins** > **Open Plugin Manager**
+* In the OTD app, navigate to **Plugins** > **Open Plugin Manager**
 * You will see a list of plug-ins
 * Find the one called **Windows Ink**, click on it, then click **Install**&#x20;
 * One you install it, the Windows Ink plugin will appear at the top of the plugin list
@@ -192,7 +193,7 @@ NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical appl
 
 ## Configuring Tablet to Display Mapping
 
-* In the OpenTabletDriver App
+* In the OTD App
 * In the the Output tab, in the **Tablet** Section
 * Right click anywhere in theTablert section and then select **Lock Aspect Ratio**.
 * In the the Output tab, in the **Display** Section, right-click anywhere in the **Display** section and select **Set to Display** and then select the specific display you want to use with the tablet.
@@ -200,7 +201,7 @@ NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical appl
 
 ## Configuring Windows Ink in OpenTabletDriver
 
-* In the OpenTabletDriver app, on the bottom left there will a drop down that specifies the "mode" OTD is running in
+* In the OTD app, on the bottom left there will a drop down that specifies the "mode" OTD is running in
 * By default it is set to **Absolute Mode**
 * Change it to **Windows Ink Absolute Mode**
   * If you leave it set to Absolute Mode, you will not be able to take advantage of pressure sensitivity and tilt.
@@ -213,33 +214,32 @@ NOTE: Strictly speaking, OpenTabletDriver is not "installed" like a typical appl
 
 ### Overview
 
-* In the OpenTabletDriver app, navigate to the **Pen Settings** tab
+* In the OTD app, navigate to the **Pen Settings** tab
 * To summarize, you'll want your Pen Settings to look like this:
 * ![](<../../../.gitbook/assets/image (296).png>)
 
 ### Configuring the pen tip
 
-* Under **Tip Settings**, next to **Tip Binding** click the THREE DOTS button
-  * This opens up the **Advanced Binding Editor** window
+* Under **Tip Settings** >**Tip Binding**&#x20;
+  * Click the THREE DOTS button
   * Change **Type** to **Windows Ink**
-  * Change **Button** to **Pen Tip**
-  * Click **Apply**
+    * Change **Button** to **Pen Tip**
+    * Click **Apply**
 
 ### Configuring the pen buttons
 
-* Under **Pen Buttons**, for each **Pen Button \<NUMBER>**&#x20;
-  * Click the THREE DOTS button to open the **Advanced Binding Editor**. The binding editor assigns the button to perform a mouse right-click.
-    * Change **Type** to **Windows Ink**
-    * Change **Button** to **Pen Button**
-    * Click **Apply**
+* Under **Pen Buttons**, for each **Pen Binding 1** and **Pen Binding 2** configure both as:
+  * Change **Type** to **Windows Ink**
+  * Change **Button** to **Pen Button**
+  * Click **Apply**
 
 ### Configuring the eraser
 
-* Under **Eraser Settings**
-  * Next to **Eraser Bindings** click the THREE DOTS button to open the **Advanced Binding Editor**
-    * Change **Type** to **Windows Ink**
-    * Change **Button** to **Pen Tip**
-    * Click **Apply**
+* You only need to do this if you pen has an eraser
+* Under **Eraser Settings > Eraser Bindings**&#x20;
+  * Change **Type** to **Windows Ink**
+  * Change **Button** to **Pen Tip**
+  * Click **Apply**
 
 ## More about pen Buttons
 
@@ -269,16 +269,17 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * Click **Save** at the bottom
 * Click **Apply** at the bottom
 
-## Minimize the OpenTabletDriver app
+## Minimizing the OpenTabletDriver app
 
-* Click the minimize on the OpenTabletDriver app
-* If you need to find the OTD app again, you can find it in the taskbar in the area that is often called the "System Tray".
-* ![](<../../../.gitbook/assets/image (181).png>)
+* You don't have to keep the OTD app visible all the time, you can minimize the app at any time
+* If you need to open OTD app again, you can find it in the taskbar
+
+![](<../../../.gitbook/assets/image (181).png>)
 
 ## Checkpoint #2
 
 * **Should work**
-  * Open Tablet Driver should know your tablet is there and which model it is
+  * OTD should know your tablet is there and which model it is
   * OTD should be able to detect the pen position
   * tablet buttons
   * pen buttons
@@ -318,11 +319,11 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 
 ## Pressure Curve
 
-By default OpenTabletDriver does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
+By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
 
 ## Smoothing
 
-By default OpenTabletDriver performs no smoothing on the pen data. This is desirable because&#x20;
+By default OTD performs no smoothing on the pen data. This is desirable because&#x20;
 
 * it gives you a VERY responsive drawing experience
 * Gives you complete control about the smoothing
@@ -343,24 +344,6 @@ See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalli
 
 ## Application data directory
 
-No matter where OpenTabletDriver is installed, when it is running, it will put its data into a user-specific application data folder on Windows.
-
-The location of the folder is here in Windows: `%localappdata%\OpenTabletDriver` &#x20;
-
-This expands to a path that should look like:
-
-`C:\Users\username\AppData\Local\OpenTabletDriver`
-
-This is what my folder looks like:
-
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
-
-### ProTip: Quickly get to the AppData folder by pressing WINDOWS+R and typing appdata.
-
-It will open a window directly to that folder.
-
-![](<../../../.gitbook/assets/image (32).png>)
-
-
-
-###
+* OpenTabletDriver stores information in its application data directory
+* More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
+* If you are doing more advanced things with OTD you should be familiar with this folder.
