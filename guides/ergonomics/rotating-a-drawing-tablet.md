@@ -29,3 +29,13 @@ Most drawing tablets support these rotations:
 
 ![](../../.gitbook/assets/image.png)
 
+
+
+## Rotating in the operating system
+
+### Windows
+
+* Open **Display Settings**
+* Select the display of the pen tablet
+* Find the setting called **Orientation** and change it as needed.
+
