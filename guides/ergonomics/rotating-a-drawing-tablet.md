@@ -18,5 +18,9 @@ Most drawing tablets support these rotations:
 * Physically rotate the tablet
 * You can perform these steps in any order.
 
+## Rotating in the Driver
 
+### XP-Pen driver
+
+![](../../.gitbook/assets/image.png)
 
