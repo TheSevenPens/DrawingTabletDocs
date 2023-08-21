@@ -4,8 +4,9 @@ For various reasons you may want to rotate your tablet to use it in a different 
 
 Most drawing tablets support these rotations:
 
-* Some only support two orientations&#x20;
 * Some support all four orientations
+* Some only support two orientations&#x20;
+* Some support only a single orientation&#x20;
 
 <figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,6 +23,8 @@ Most drawing tablets support these rotations:
 ## Rotating in the Driver
 
 ### Wacom
+
+Note that not all Wacom tablets have an Orientation option.
 
 ![](<../../.gitbook/assets/image (353).png>)
 
