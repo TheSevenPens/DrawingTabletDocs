@@ -71,15 +71,17 @@ Consult the list here to verify that your tablet is supported by OpenTabletDrive
 
 In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you will also have to install that component. I do not have any drawing tablets that require Zdig WinUSB so using Zadig WinUSB is NOT covered in this document.
 
-## <mark style="color:red;">**Warning about manufacturer support**</mark>
-
-<mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
-
 ## Getting help
+
+### Use the OTD discord to get help
 
 * If you need help, join the OpenTabletDriver Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
 * DO ask questions in the `#support-windows` channel
 * DO NOT ask for support via DMs.
+
+### Do not get help from your tablet manufacturer
+
+<mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
 
 ## Important notes
 
