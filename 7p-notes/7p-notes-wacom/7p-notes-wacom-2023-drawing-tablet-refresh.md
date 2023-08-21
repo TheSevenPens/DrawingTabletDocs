@@ -24,11 +24,7 @@ On Wacom's website you may see some other things that look like model numbers
 
 This diagram is my summary how their consumer line of tablets is evolving
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 ## Branding
 
