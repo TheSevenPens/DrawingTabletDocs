@@ -94,7 +94,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * OTD works with many tablets, but not all. Please see [**this list of tablets that OTD supports**](https://opentabletdriver.net/Tablets).
 * To validate everything working this document uses the Krita painting app. But you can use any app you want.
 
-## **Preparing your computer**
+## **Prepare your computer**
 
 * Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.).&#x20;
   * To be absolutely sure you have completely removed the drivers follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
@@ -194,7 +194,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 <figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-### Configuring the pen tip
+### Configure the pen tip
 
 * Under **Tip Settings** >**Tip Binding**&#x20;
   * Click the THREE DOTS button
@@ -296,11 +296,11 @@ Learn more here: [**Configure smoothing in applications**](../../drawing/configu
 
 More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
 
-## Uninstalling
+## Other topics
+
+### Uninstalling
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
-
-## Other topics
 
 ### More about pen buttons
 
