@@ -241,7 +241,7 @@ All drawing tablets work for people who are right-handed or left-handed.&#x20;
 
 If the drawing tablet has a symmetrical shape, there's no difference on how either hand works with the tablet.
 
-However, when the tablet has buttons on the right or the left (typically the buttons are on the left) you may want to physically rotate the tablet by 180 degrees so that the tablet buttons are on the right. Of course if you just rotate the tablet this way, when you try to draw the movements on the screen will not match the movements of your hand. In this case, you simply need to go to the tablet driver and indicate that you are using it in this rotated way and then it will work normally.&#x20;
+But if buttons are only on one side, then sometimes you'll want to physically flip the tablet around so that the buttons or ports one the opposite side. This is supported by most tablets. See: [Rotating a drawing tablet](ergonomics/rotating-a-drawing-tablet.md) &#x20;
 
 ## How a drawing tablet is different from using a mouse
 
