@@ -24,7 +24,7 @@ On Wacom's website you may see some other things that look like model numbers
 
 This diagram is my summary how their consumer line of tablets is evolving
 
-![](<../../.gitbook/assets/image (346).png>)
+<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 ## Branding
 
@@ -108,7 +108,7 @@ I have discovered an issue with the lower end of pressure range with the new pen
 
 The new pen seems to have a very high IAF.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
 
 I also tested both pens using the CTC-6110WL using OpenTabletDriver. Here are my observations:
 
