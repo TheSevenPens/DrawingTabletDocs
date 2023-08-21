@@ -17,6 +17,7 @@ Most drawing tablets support these rotations:
   * In the system's display settings, rotate the the the desktop on the pen display
 * Physically rotate the tablet
 * You can perform these steps in any order.
+* Here is a demonstration of how to rotate a pen display: [https://youtu.be/\_OkANovOxBQ](https://youtu.be/\_OkANovOxBQ)&#x20;
 
 ## Rotating in the Driver
 
