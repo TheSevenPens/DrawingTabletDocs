@@ -33,9 +33,10 @@ Most drawing tablets support these rotations:
 
 ## Rotating in the operating system
 
-### Windows
+* Windows instructions: [https://support.microsoft.com/en-us/windows/change-screen-orientation-f7ab1ff8-971d-58a5-b8ee-bc113bbf3acb](https://support.microsoft.com/en-us/windows/change-screen-orientation-f7ab1ff8-971d-58a5-b8ee-bc113bbf3acb)&#x20;
+* MacOS instructions: [https://support.apple.com/guide/mac-help/rotate-the-image-on-your-display-mh11534](https://support.apple.com/guide/mac-help/rotate-the-image-on-your-display-mh11534)
 
-* Open **Display Settings**
-* Select the display of the pen tablet
-* Find the setting called **Orientation** and change it as needed.
+
+
+
 
