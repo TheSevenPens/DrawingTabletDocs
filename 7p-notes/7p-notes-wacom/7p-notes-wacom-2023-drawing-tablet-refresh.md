@@ -24,22 +24,34 @@ On Wacom's website you may see some other things that look like model numbers
 
 This diagram is my summary how their consumer line of tablets is evolving
 
-<figure><img src="../../.gitbook/assets/Slide1 (1).PNG" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (346).png>)
 
-### Key points
+## Branding
 
 * "Wacom One" now includes both pen displays and pen tablets
-* To disambiguate the discussion the tablets:
-  * I will refer to this new series launched in 2023 as "Wacom One (Gen 2)" even though Wacom is just calling it "Wacom One"
-  * I will refer the the old series as "Wacom One (Gen 1)" because this is what Wacom is calling it. Though sometimes it is referred to as "Wacom One 2019 (Gen 1)"
-* **My speculation:** Wacom looks to stop using the "Wacom Intuos" brand starting now.
 * The successors to the Wacom Intuos pen tablets (CTL-4100\*, CTL-6100\*) are: the Wacom One (Gen2) pen tablets (CTC-4110WL, CTC-6110WL).
-* &#x20;pen tablet series is being rebranded and joining the "Wacom One (Gen 2)" line&#x20;
+* **My speculation:** Wacom looks to stop using the "Wacom Intuos" brand starting now.
+
+## Disambiguating models
+
+To disambiguate the discussion the tablets:
+
+* I will refer to this new series launched in 2023 as "Wacom One (Gen 2)" even though Wacom is just calling it "Wacom One"
+* I will refer the the old series as "Wacom One (Gen 1)" because this is what Wacom is calling it. Though sometimes it is referred to as "Wacom One 2019 (Gen 1)"
+
+## Fate of the One by Wacom series
+
 * The One by Wacom series ...
   * Existing models: CTL-472, CTL-672
-  * Wacom announced nothing about this series. They have communicated nothing about its status.
-  * We do not know if are going to be any updates to this series
+* Wacom announced nothing about this series. They have communicated nothing about its status.
+* We do not know if are going to be any updates to this series
+
+## Purchase advice
+
 * **Purchase advice:** Because there are many similarly named tables: <mark style="color:red;">**ALWAYS LOOKING AT THE MODEL NUMBERS**</mark> if you are going to make a purchase
+
+## Intuos Pro
+
 * No mention made of the Intuos Pro series.&#x20;
 
 ## **Wireless support for pen tablets**&#x20;
