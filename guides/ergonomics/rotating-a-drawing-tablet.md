@@ -20,6 +20,10 @@ Most drawing tablets support these rotations:
 
 ## Rotating in the Driver
 
+### Wacom
+
+![](<../../.gitbook/assets/image (353).png>)
+
 ### XP-Pen driver
 
 ![](../../.gitbook/assets/image.png)
