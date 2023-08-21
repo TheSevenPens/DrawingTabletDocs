@@ -171,7 +171,8 @@ Picture above from this video: ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/
 ## Pen displays > display panel
 
 * Native resolution: HD (2K): 1920x1080
-* Refresh rate: 60Hz (assumed that this isn't changing from Gen 1)
+* Refresh rate: 60Hz&#x20;
+* The new display panels have a wider color gamut. They are clearly better than the old Wacom One Gen 1 tablet.&#x20;
 
 ## Pen tablets > USB port
 
