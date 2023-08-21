@@ -12,37 +12,31 @@ This document is for creatives that meet three criteria:
 
 Read this first: [**OpenTabletDriver**](./)&#x20;
 
-## How does this document relate to the OpenTabletDriver documentation?
+## OpenTabletDriver documentation
 
-This document describes the detailed steps I follow to setup OpenTabletDriver on Windows for drawing and my usage notes about the process.
+This document describes the detailed steps I follow to setup OTD on Windows for drawing and my usage notes about the process.
 
-This document **does not** replace the OpenTabletDriver documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki))
+This document **does not** replace the official OTD documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki))
 
 ## Skills required
 
-Using OpenTabletDriver for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
+Using OTD for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
 
-## **Windows Ink**
+## Usage notes
+
+### **Windows Ink & WinTab**
 
 * There are two Pen APIs in the Windows ecosystem: **WinTab** which is older, and **Windows Ink** which is newer.
 * OTD only supports **Windows Ink** so any apps you want to use it with must also support Windows Ink.
 * Most creative apps support Windows Ink - Clip Studio Paint, Krita, Photoshop.
 * If you want pressure sensitivity, tilt, etc. - you must **you MUST configure OTD to use Windows Ink** and configure your apps to also use Windows Ink.&#x20;
 
-## **Known issues**
-
-* You must completely **uninstall existing tablet drivers** on your machine. OTD will not work correctly if there are any remnants of other tablet drivers.
-* There are some restrictions on what you can bind the pen buttons to. These are described later in the doc.
-* <mark style="color:red;">**DO NOT run OTD as administrator**</mark>. It will not work correctly if you do.
-
-## Tablet features not supported by OpenTabletDriver
+### Tablet features not supported by OpenTabletDriver
 
 * OTD does NOT support touch input.
 * OTD does NOT support tablet rotary dials.
 * OTD does NOT support pen barrel rotation.
 * OTD does NOT support bluetooth connections.
-
-## Usage notes
 
 ### System vs application settings
 
@@ -64,6 +58,11 @@ You can install a plug-in to control the hover height and have whatever limit yo
 
 Technically, OpenTabletDriver isn't "installed". It's just a tool that you can download and run from any location on your computer. &#x20;
 
+### **Running OTD as admin**
+
+* <mark style="color:red;">**DO NOT run OTD as administrator**</mark>.&#x20;
+* OTD will not work correctly if you do.
+
 ## **Supported tablets**
 
 Although OTD supports many tablets, it does not support all of them.
@@ -76,9 +75,9 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 <mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
 
-## If you need help, join the OpenTabletDriver Discord server
+## Getting help
 
-* DO join the OTD Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
+* If you need help, join the OpenTabletDriver Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
 * DO ask questions in the `#support-windows` channel
 * DO NOT ask for support via DMs.
 
@@ -95,19 +94,14 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * OTD works with many tablets, but not all. Please see [**this list of tablets that OTD supports**](https://opentabletdriver.net/Tablets).
 * To validate everything working this document uses the Krita painting app. But you can use any app you want.
 
-## **Preparing your system**
+## **Preparing your computer**
 
-* Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.)
-* NOTE: Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
-* Download and install Krita from https://krita.org/&#x20;
+* Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.).&#x20;
+  * To be absolutely sure you have completely removed the drivers follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
+* Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
+* Download and install Krita from [https://krita.org/](https://krita.org/) . We will use Krita to test that OTD is installed correctly.&#x20;
 
-## Uninstalling manufacturer tablet drivers
-
-In order to use OTD, you MUST completely uninstall any other tablet device drivers.
-
-Follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
-
-## Installing VMulti
+## Install VMulti
 
 * **VMulti** is a prerequisite for using **OpenTabletDriver** correctly on Windows for drawing applications.
 * Download VMulti from this location: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
@@ -121,13 +115,12 @@ Follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-ma
 * run **install\_hiddriver.bat**&#x20;
   * NOTE: This bat file - if needed - may restart your computer without warning. So, close any applications and save any docs before you run this .bat file.
 
-## Installing the version of .NET Runtime needed by OpenTabletDriver
+## Install the .NET Runtime&#x20;
 
-OTD requires a specific version of the .NET Runtime
+* OTD requires a specific version of the .NET Runtime
+* You can directly download and installed the version of .NET Runtime needed by downloading it from this link: [https://opentabletdriver.net/framework](https://opentabletdriver.net/framework)&#x20;
 
-You can directly download and installed the version of .NET Runtime needed by downloading it from this link: [https://opentabletdriver.net/framework](https://opentabletdriver.net/framework)&#x20;
-
-## Installing OpenTabletDriver
+## Install OpenTabletDriver
 
 NOTE: Strictly speaking, OTD is not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
 
@@ -150,7 +143,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 ![](<../../../.gitbook/assets/image (146).png>)![](<../../../.gitbook/assets/image (103).png>)
 
-## **Detecting your tablet**
+## **Detect your tablet**
 
 * OTD will automatically try to detect your tablet
 * The tablet will be shown in the Window title at the top
@@ -167,21 +160,21 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
   * pressure pressure
   * pen tilt
 
-## Installing the Windows Ink plugin in OpenTabletDriver
+## Install the Windows Ink plugin
 
 * In the OTD app, navigate to **Plugins** > **Open Plugin Manager**
 * Click on the **Windows Ink** plugin , then click **Install**&#x20;
 * The Windows Ink plugin will appear at the top of the plugin list
 * Close the **Plugin Manager** window
 
-## Configuring tablet to display mapping
+## Configure tablet to display mapping
 
 * In the OTD App, go to **Output** > **Tablet** Section
 * In **Output** > **Display**, right-click anywhere and pick **Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
 * ![](<../../../.gitbook/assets/image (9).png>)
 
-## Configuring Windows Ink in OpenTabletDriver
+## Configure Windows Ink
 
 * In the OTD app, on the bottom left there will a drop down that specifies the "mode" OTD is running in
 * By default it is set to **Absolute Mode**
@@ -192,13 +185,14 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 ![](<../../../.gitbook/assets/image (85).png>)
 
-## Configuring the pen
+## Configure the pen
 
 ### Overview
 
 * In the OTD app, navigate to the **Pen Settings** tab
 * To summarize, you'll want your Pen Settings to look like this:
-* ![](<../../../.gitbook/assets/image (296).png>)
+
+<figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 ### Configuring the pen tip
 
@@ -208,37 +202,20 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
     * Change **Button** to **Pen Tip**
     * Click **Apply**
 
-### Configuring the pen buttons
+### Configure the pen buttons
 
-* Under **Pen Buttons**, for each **Pen Binding 1** and **Pen Binding 2** configure both as:
+* Under **Pen Buttons**, for  **Pen Binding 1** and **Pen Binding 2** configure them as:
   * Change **Type** to **Windows Ink**
   * Change **Button** to **Pen Button**
-  * Click **Apply**
+* Click **Apply**
 
-### Configuring the eraser
+### Configure the eraser
 
 * You only need to do this if your pen has an eraser
 * Under **Eraser Settings > Eraser Bindings**&#x20;
   * Change **Type** to **Windows Ink**
   * Change **Button** to **Pen Tip**
-  * Click **Apply**
-
-## More about pen buttons
-
-You can bind the pen buttons to several kinds of actions:
-
-![](<../../../.gitbook/assets/image (14).png>)
-
-* **Mouse Button Binding** is not supported
-* **Key Binding** is supported
-* **Multi-Key Bindings** is supported
-* **Windows Ink Bindings** are supported
-
-For **Windows Ink** here are the options:
-
-&#x20;![](<../../../.gitbook/assets/image (239).png>)
-
-If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
+* Click **Apply**
 
 ## Tablet buttons
 
@@ -247,12 +224,12 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * ![](<../../../.gitbook/assets/image (302).png>)
 * In the screenshot above one of the buttons has been set to match the "e" key.
 
-## Saving OpenTabletDriver configuration
+## Save OpenTabletDriver configuration
 
 * Click **Save** at the bottom
 * Click **Apply** at the bottom
 
-## Minimizing the OpenTabletDriver app
+## Minimize the OpenTabletDriver app
 
 * You don't have to keep the OTD app visible all the time, you can minimize the app at any time
 * If you need to open OTD app again, you can find it in the taskbar
@@ -269,12 +246,7 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
   * pressure pressure
   * pen tilt
 
-## Configuration your drawing application
-
-* Go to your drawing app and Enable Windows Ink for that app
-* The specific instructions vary per app, but the next section will talk about Krita specifically
-
-### Verifying it all works in Krita
+## Verify everything works in Krita
 
 * Download and install Krita from https://krita.org/&#x20;
 * Launch Krita
@@ -286,7 +258,10 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * Pick a brush that supports pressure sensitivity
 * Start drawing and verify the brush responds to pressure.
 
+## Configure your drawing application
 
+* Go to your drawing app and enable Windows Ink for that app
+* The specific instructions vary per app, but the next section will talk about Krita specifically
 
 ## How to automatically start OpenTabletDriver when Windows starts
 
@@ -300,11 +275,11 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * This will open a new Explorer window pointing to a folder called **Startup**
 * &#x20;Move the OTD shortcut to the **Startup** folder in that explorer window
 
-## Pressure curve
+## Configure Pressure curve
 
 By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
 
-## Smoothing
+## Configure Smoothing
 
 By default OTD performs no smoothing on the pen data. This is desirable because&#x20;
 
@@ -325,7 +300,26 @@ More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
 
-## Application data directory
+## Other topics
+
+### More about pen buttons
+
+You can bind the pen buttons to several kinds of actions:
+
+![](<../../../.gitbook/assets/image (14).png>)
+
+* **Mouse Button Binding** is not supported
+* **Key Binding** is supported
+* **Multi-Key Bindings** is supported
+* **Windows Ink Bindings** are supported
+
+For **Windows Ink** here are the options:
+
+&#x20;![](<../../../.gitbook/assets/image (239).png>)
+
+If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
+
+### Application data directory
 
 * OTD stores information in its application data directory
 * More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
