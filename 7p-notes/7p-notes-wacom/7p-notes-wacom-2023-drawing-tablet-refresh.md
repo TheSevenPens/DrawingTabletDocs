@@ -178,6 +178,12 @@ Picture above from this video: ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/
 * The predecessor Intuos pen tablets used a micro USB slot
 * The Wacom One (Gen 2) pen tablets now use a more common USB-C port
 
+## Legs
+
+The new Wacom One (Gen 2) pen displays do not have any legs. They lay flat on the desk.
+
+The old Wacom One (Gen 1) pen display has legs on the back. You can lay the display flat on the desk or you can pull out the legs and draw at and angle.
+
 ## User manuals
 
 * Wacom One 13 touch - [https://101.wacom.com/userhelp/en/toc/dth134.html](https://101.wacom.com/userhelp/en/toc/dth134.html) &#x20;
