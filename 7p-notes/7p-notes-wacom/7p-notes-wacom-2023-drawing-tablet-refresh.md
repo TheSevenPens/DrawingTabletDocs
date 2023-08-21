@@ -121,7 +121,10 @@ I also tested both pens using the CTC-6110WL using OpenTabletDriver. Here are my
 * With the NEW Wacom One pen - when there is pressure the MSB range starts from 04 (occasionally I will see a 03)
 * How to translate these numbers. &#x20;
 
-&#x20;
+### **Number of pen buttons**
+
+* New pen (CP92303B2Z) -> 2 buttons
+* Old pen (CP91300B2Z) -> 1 button
 
 ## **Pen display connectivity**
 
