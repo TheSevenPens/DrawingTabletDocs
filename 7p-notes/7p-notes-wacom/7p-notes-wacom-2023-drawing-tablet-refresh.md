@@ -79,6 +79,8 @@ Notice that the model numbers can look very similar. Here are the highlited diff
 * New pen: CP9<mark style="color:red;">**2303**</mark>B2Z
 * Old pen: CP9<mark style="color:red;">**1300**</mark>B2Z
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
+
 ### **Pen support**
 
 * All the Wacom One (Gen 2) tablets are compatible with the new pen.&#x20;
@@ -112,7 +114,7 @@ I have discovered an issue with the lower end of pressure range with the new pen
 
 The new pen seems to have a very high IAF.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 I also tested both pens using the CTC-6110WL using OpenTabletDriver. Here are my observations:
 
