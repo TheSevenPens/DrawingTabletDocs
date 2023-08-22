@@ -124,14 +124,20 @@ Pen displays DO NOT have batteries. They must get their power from a cable that 
 
 Both pen tablets and pen displays must be used with a computer.
 
-## Operating system requirements
+## Operating system information
 
-* All drawing tablets are compatible with Windows and MacOS.
-* Some are compatible with Linux
+### OS compatibility
+
+* The issue of compatibility is not with the hardware, it is with the drivers that you need to install on your computer.
+* Windows & MacOS
+  * All modern drawing tablets drivers are compatible with Windows and MacOS.
+* Linux:
+  * Some tablets have drivers that are compatible with Linux
+  * NOTE: I don't have any experience with using tablets with Linux. So I can't really speak to how well they work in this scenario.&#x20;
 
 ### Windows: 32-bit vs 64-bit&#x20;
 
-If you have a 32-bit Windows computer, you should verify whether the tablet driver works on those systems. Some tablet manufacturers have dropped support in their drivers for those 32-bit Windows systems. This means that you might be forced to use older drivers.&#x20;
+If you have a 32-bit Windows computer, you should verify whether the tablet driver works on those systems by contacting their support. Some tablet manufacturers have dropped support in their drivers for those 32-bit Windows systems. This means that you might be forced to use older drivers.&#x20;
 
 Wacom: [https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-](https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-)
 
