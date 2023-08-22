@@ -24,7 +24,7 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 
 ## Usage notes
 
-### **Windows Ink & WinTab**
+### **Windows Ink & WinTab**&#x20;
 
 * There are two Pen APIs in the Windows ecosystem: **WinTab** which is older, and **Windows Ink** which is newer.
 * OTD only supports **Windows Ink** so any apps you want to use it with must also support Windows Ink.
@@ -85,16 +85,11 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 ## Important notes
 
-* These instructions are for x64 operating systems only
-* The instructions cover this specific version of OTD: v0.6.1.0
+* The instructions cover this specific version of OTD: v0.6.2.0
+* These instructions are for x64 operating systems only. OTD does not support 32-bit versions of Windows.
 * I only tested this on these versions of Windows:
-  * Windows 11 64bit (version 10.0.22621)
-  * Windows 10 64bit &#x20;
-* You MUST enable **Windows Ink** in **OpenTabletDriver** and your drawing applications if you want to use features like pressure sensitivity, tilt, etc.
-* You MUST install a driver called **VMulti** in order to use Windows Ink with OpenTabletDriver.
-* Installing VMulti requires administrator permissions on your PC.
-* OTD works with many tablets, but not all. Please see [**this list of tablets that OTD supports**](https://opentabletdriver.net/Tablets).
-* To validate everything working this document uses the Krita painting app. But you can use any app you want.
+  * Windows 11 64-bit (version 10.0.22621)
+  * Windows 10 64-bit &#x20;
 
 ## **Prepare your computer**
 
@@ -105,7 +100,8 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 ## Install VMulti
 
-* **VMulti** is a prerequisite for using **OpenTabletDriver** correctly on Windows for drawing applications.
+* <mark style="color:red;">You MUST install</mark> <mark style="color:red;"></mark><mark style="color:red;">**VMulti**</mark> <mark style="color:red;"></mark><mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet.</mark>
+* NOTE: Installing VMulti requires administrator permissions on your computer.
 * Download VMulti from this location: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
 * Rename Driver.zip to VMulti\_Driver.zip&#x20;
   * NOTE: This renaming step is it make it easier to keep track of these files later
