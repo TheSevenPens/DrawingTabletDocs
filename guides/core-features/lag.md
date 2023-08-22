@@ -16,6 +16,7 @@ The details on lag are described in this video series:
 
 * Drawing tablet lag - Episode 1: Basics ([https://youtu.be/CRwzPJPA\_5A](https://youtu.be/CRwzPJPA\_5A)) Apr 28, 2023
 * Drawing tablet lag - Episode 2: Pointer lag ([https://youtu.be/tNj6vxx0FWM](https://youtu.be/tNj6vxx0FWM))  Aug 7, 2023
+* Drawing tablet lag - Episode 3: Position smoothing in the tablet firmware and tablet driver ([https://youtu.be/sWvluY9w-Bk](https://youtu.be/sWvluY9w-Bk))  Aug 7, 2023
 
 ## Notes on brush lag
 

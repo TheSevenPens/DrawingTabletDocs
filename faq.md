@@ -10,7 +10,7 @@ A list of brands and my take on some of them are here: [**drawing tablet brands*
 
 It depends on what is important to you. An iPad can make an excellent drawing tablet. But it comes with its own tradeoffs. Read more here: [using an iPad as a drawing tablet](buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
-### Q: Can I use a drawing tablet with my iPad or iPhone.
+### Q: Can I use a drawing tablet with my iPad or iPhone?
 
 It is possible in some cases.
 
