@@ -2,52 +2,56 @@
 
 ## Overview
 
-The NO SIGNAL message is what your pen display tells you when it isn't receiving a video signal from another device. This error is one of the most challenging to diagnose and fix because so many factors can go into it.
+The NO SIGNAL message is what your pen display tells you when it isn't receiving a display or video signal from another device. This error is one of the most challenging to diagnose and fix because so many factors can go into it.
+
+The error often simply presents as literally a message that says "NO SIGNAL".
+
+On some displays the message is "NO SIGNAL. POWER SAVING".&#x20;
 
 In this guide, I'll provide every tactic I know about to help. But I also, want you to be prepared that it may be unresolvable and you may need to contact your tablet manufacturer.
 
-## Understanding pen displays as devices
+## What you computer thinks of pen displays
+
+Troubleshooting the the "no signal" problem starts with understanding how your computer interprets an attached pen display.
 
 Pen displays are a single physical device that you connect to a computer.
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-However, your personal computer thinks of it as two separate devices. The only difference for you is that those two separate devices are surrounded by a single plastic shell. The computer is, of course, unaware of this plastic shell.
+However, your computer thinks of the pen display as two separate devices:
 
-These are the devices the computer sees:
-
-* a pen tablet (that is, a drawing tablet without a screen)
+* a pen tablet (aka screenless tablet)
 * a monitor/display
 
 <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-In fact, your computer or operating system in many ways has no idea these devices are related in any way. This will be true EVEN IF only a single cable is used to connect your pen display to your computer.
+In fact, your computer and operating system has no idea that these devices are related in any way.
 
-Your tablet driver will of course know that these two devices are related.
+Even if a single cable is used to connect your pen display to your computer, it will continue to believe two devices are part of the same pen display.
 
-Understanding this relationship between devices and how your computer and operating system interprets your devices will help in using and troubleshooting pen displays.
+On the other hand, your tablet driver will of course know that these two devices are related.
 
-## Tablet Drivers
+## Tablet drivers
 
-Keeping in mind that pen displays are two separate devices to your PC, your should understand what the **tablet drivers usually DO NOT have control over the display signal being sent to the tablet**. So, don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very unlikely to help the NO SIGNAL problem.
+**Tablet drivers usually DO NOT have control over the display signal being sent to the tablet**.&#x20;
 
-## Does the computer recognize that you have attached a displays
+So, don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very unlikely to help the NO SIGNAL problem.
 
-Keeping in mind the computer will interpert the pen display as a monitor. It's important to understand if the computer itself thinks there is an additional monitor plugged into the computer.
+## Does the computer think you attached a display?
+
+It is important to understand if the computer itself thinks there is an additional monitor plugged into the computer.
 
 Presumably, your computer already has one screen, so when you plug in your tablet it should at least recognize that there are two screens (one coming from the pen display).
 
-For example In Windows, the **Display Settings** app should show two displays:
+In Windows, the **Display Settings** app should show two displays:
 
 ![](<../.gitbook/assets/image (276).png>)&#x20;
 
-In macOS (Ventura) here what two displays would look like.
+In macOS (Ventura) two displays looks like this:
 
 ![](<../.gitbook/assets/image (235).png>)
 
-If your pen display is plugged into the computer and the computer doesn't think there is an extra monitor attached (i.e. the pen display) then it certainly isn't going to send a signal to the pen display.
-
-if you are seeing only a single display shown in your computers settings, then of course the pen display will show "NO SIGNAL" because the computer doesn't believe there is anything there to send the signal to.
+If your computer doesn't think there is a display attached, it certainly isn't going to send a signal to it.
 
 ## Things to verify
 
@@ -76,8 +80,6 @@ If you are getting power from your computer or a hub, instead try to get power t
   * Other sources also recommend that you try leaving it disconnected for an extended period of time - like 30 minutes before you reconnect.&#x20;
 * **Do not** rely on just pressing the ON/OFF button while the pen display is connected.
 
-
-
 ## Try different HDMI ports
 
 Your computer may have multiple HDMI ports, try different ones.
@@ -91,7 +93,7 @@ Your computer may have multiple HDMI ports, try different ones.
 
 * if you PC has a DisplayPort output, try an HDMI to DisplayPort adapter.
 
-## Display adapters capabilities
+## Display adapter capabilities
 
 * Make sure the adapter is capable of handling the resolution and framerate that your pen display supports. For example: you pen display may support 4K at 60Hz. But your adapter might only support up to 4K at 30Hz. &#x20;
 * Sometimes adapters themselves can be the source of the NO SIGNAL problem. Sometimes a different adapter might work. In some cases, an you have to NOT use an adapter. &#x20;
