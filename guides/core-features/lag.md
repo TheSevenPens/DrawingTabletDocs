@@ -6,9 +6,9 @@ Unlike a pen and paper system, where there is essentially an instantaneous feeli
 
 In the context of drawing tablets, I use the word log to describe how things are "following" the physical pen.&#x20;
 
-## Terms
+## Overview
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Companion videos
 

@@ -110,7 +110,7 @@ I have discovered an issue with the lower end of pressure range with the new pen
 
 The new pen seems to have a very high IAF.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
