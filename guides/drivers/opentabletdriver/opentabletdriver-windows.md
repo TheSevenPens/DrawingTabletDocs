@@ -103,11 +103,10 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * <mark style="color:red;">You MUST install</mark> <mark style="color:red;"></mark><mark style="color:red;">**VMulti**</mark> <mark style="color:red;"></mark><mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet.</mark>
 * NOTE: Installing VMulti requires administrator permissions on your computer.
 * Download VMulti from this location: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
-* Rename Driver.zip to VMulti\_Driver.zip&#x20;
-  * NOTE: This renaming step is it make it easier to keep track of these files later
-* Move VMulti\_Driver.zip to your Documents folder
-* Right click on VMulti\_Driver.zip and select Extract All
-* This will create a folder called VMulti\_Driver that contains two folders **32** and **64**
+* Create a folder called VMulti in your Documents folder
+* Move Driver.zip to your Documents\VMulti folder
+* Right click on Driver.zip and select Extract All
+* This will create a folder called Driver that contains two folders **32** and **64**
 * Right click on the **64** folder and select **Open in Terminal** &#x20;
 * The terminal will launch and the current directory will be set to the 64 folder
 * run **install\_hiddriver.bat**&#x20;
