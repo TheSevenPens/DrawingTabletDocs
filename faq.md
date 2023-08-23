@@ -2,11 +2,11 @@
 
 ## General
 
-### Q: What brands of drawing tablet exist?
+### Q: Which drawing tablet brands are available?
 
 A list of brands and my take on some of them are here: [**drawing tablet brands**](drawing-tablet-brands/)
 
-### Q: Which is better an iPad or a drawing tablet?
+### Q: Which an iPad better than a drawing tablet?
 
 It depends on what is important to you. An iPad can make an excellent drawing tablet. But it comes with its own tradeoffs. Read more here: [using an iPad as a drawing tablet](buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
