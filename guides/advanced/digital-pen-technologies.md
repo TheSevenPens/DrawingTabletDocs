@@ -44,11 +44,10 @@ MPP is very similar to AES.
 
 ## Reddit threads
 
-[https://www.reddit.com/r/stylus/comments/kg660r/wacom\_aes\_vs\_emr\_vs\_ntrig/](https://www.reddit.com/r/stylus/comments/kg660r/wacom\_aes\_vs\_emr\_vs\_ntrig/)
-
-[https://www.reddit.com/r/stylus/comments/pyosk5/mpp\_vs\_aes\_for\_digital\_drawing/](https://www.reddit.com/r/stylus/comments/pyosk5/mpp\_vs\_aes\_for\_digital\_drawing/)&#x20;
-
-&#x20;
+* r/stylus: Wacom AES vs EMR vs N-Trig ([link](https://www.reddit.com/r/stylus/comments/kg660r/wacom\_aes\_vs\_emr\_vs\_ntrig/))
+* r/stylus: MPP vs AES? For digital drawing ([link](https://www.reddit.com/r/stylus/comments/pyosk5/mpp\_vs\_aes\_for\_digital\_drawing/))&#x20;
+* r/stylus: AES, EMR or both? How Apple Pencil exactly works? ([link](https://www.reddit.com/r/stylus/comments/cimn3i/aes\_emr\_or\_both\_how\_apple\_pencil\_exactly\_works/))
+* r/stylus: Apple pencil (Active capacitive pen）vs Wacom feel EMR ([link](https://www.reddit.com/r/stylus/comments/k0fcrb/apple\_pencil\_active\_capacitive\_penvs\_wacom\_feel/))
 
 ## References
 
