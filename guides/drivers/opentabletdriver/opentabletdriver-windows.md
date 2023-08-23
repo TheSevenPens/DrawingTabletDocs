@@ -293,7 +293,7 @@ Learn more here: [**Configure smoothing in applications**](../../drawing/configu
 
 More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
 
-## Other topics
+## Appendix
 
 ### Uninstalling
 
