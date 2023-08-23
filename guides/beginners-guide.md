@@ -188,10 +188,6 @@ Depending on the situation and model involved they can use:
 
 It's very important you understand how a pen display will connect to your computer before you purchase it. More here: [**connecting a pen display to a computer**](pen-displays/connecting-a-pen-display.md)&#x20;
 
-### Pen computers
-
-A pen computer does not need to be connected to a computer.
-
 ## Applications
 
 Any application on your computer, will treat the pen just as if you have a mouse. So, broadly speaking, **all applications are compatible with drawing tablet**.
