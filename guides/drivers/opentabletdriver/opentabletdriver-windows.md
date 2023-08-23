@@ -255,12 +255,12 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 * Pick a brush that supports pressure sensitivity
 * Start drawing and verify the brush responds to pressure.
 
-## Configure your drawing application
+## Configure your drawing application to use Windows Ink
 
-* Go to your drawing app and enable Windows Ink for that app
-* The specific instructions vary per app, but the next section will talk about Krita specifically
+* The specific instructions vary per app.&#x20;
+* Instructions for specific apps: [Configure Windows Ink for apps](../../windows/windows-ink/configure-windows-ink-for-apps.md)
 
-## How to automatically start OpenTabletDriver when Windows starts
+## Automatically start OpenTabletDriver when Windows starts
 
 * Right click on OpenTabletDriver.UX.Wpf.exe
 * Select **Create Shortcut**
