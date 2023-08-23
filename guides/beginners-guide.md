@@ -233,17 +233,13 @@ Learn more here: [**Surface texture**](core-features/surface-texture.md)&#x20;
 
 ## Right-handed vs left-handed use
 
-All drawing tablets work for people who are right-handed or left-handed.&#x20;
+All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](ergonomics/rotating-a-drawing-tablet.md).
 
-If the drawing tablet has a symmetrical shape, there's no difference on how either hand works with the tablet.
+## Drawing with versus using a mouse
 
-But if buttons are only on one side, then sometimes you'll want to physically flip the tablet around so that the buttons or ports one the opposite side. This is supported by most tablets. See: [Rotating a drawing tablet](ergonomics/rotating-a-drawing-tablet.md) &#x20;
+A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md).
 
-## How a drawing tablet is different from using a mouse
-
-A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [absolute versus relative positioning](core-features/absolute-versus-relative-positioning.md)&#x20;
-
-Using the tablet driver, you can make tablet and pen work more like a mouse by using [mouse mode](core-features/mouse-mode.md).
+Using the tablet driver, you can make tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
 
 ## Using a drawing tablet with an iOS device
 
