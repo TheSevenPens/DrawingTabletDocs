@@ -1,6 +1,6 @@
 # Buying a drawing tablet
 
-Updated: 2023/07/02
+Updated: 2023/08/23
 
 ## Intro
 
