@@ -10,6 +10,16 @@ On some displays the message is "NO SIGNAL. POWER SAVING".&#x20;
 
 In this guide, I'll provide every tactic I know about to help. But I also, want you to be prepared that it may be unresolvable and you may need to contact your tablet manufacturer.
 
+### Why it says "NO SIGNAL. POWER SAVING"
+
+At first glace the message "NO SIGNAL. POWER SAVING" may indicate that there is a power problem.
+
+But that's not what this message means.
+
+It means "The pen display am not receiving a display signal. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down."
+
+So, ultimately it is a power saving message.  &#x20;
+
 ## What you computer thinks of pen displays
 
 Troubleshooting the the "no signal" problem starts with understanding how your computer interprets an attached pen display.
@@ -24,13 +34,15 @@ Even if a single cable is used to connect your pen display to your computer, it 
 
 On the other hand, your tablet driver will of course know that these two devices are related.
 
+###
+
 ## Tablet drivers
 
 **Tablet drivers usually DO NOT have control over the display signal being sent to the tablet**.&#x20;
 
 So, don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very unlikely to help the NO SIGNAL problem.
 
-## Does the computer think you attached a display?
+## Does the computer see that you attached a display?
 
 It is important to understand if the computer itself thinks there is an additional monitor plugged into the computer.
 
@@ -56,17 +68,14 @@ Try connecting your pen display to another source of HDMI input. This can be any
 
 ### Verify that your computer can send an HDMI signal&#x20;
 
-Try connecting a monitor the the same HDMI port you want to use with your pen display.
+Try connecting a monitor the the same HDMI port you want to use with your pen display.&#x20;
 
 ### Verify cable connections
 
-Verify that your cables are fully connected. Sometimes they can sit in a port without fully "locking" in.
+Verify that your cables are fully connected.&#x20;
 
-### Verify power
-
-Lack of enough power for the pen display can also cause the NO SIGNAL problem.
-
-If you are getting power from your computer or a hub, instead try to get power to the pen display directly from the wall.
+* Sometimes cables can sit in a port without fully "locking" in.
+* Check for lint or any other foreign objects in the port. They can prevent the connection from working
 
 ## Physically disconnect your pen display from power
 
@@ -103,7 +112,7 @@ Your computer may have multiple HDMI ports, try different ones.
 
 ## Try using your pen display as your only display
 
-* If you have a computer, disconnect all other displays and then **only** connect your pen display. Sometimes computer do get tripped up when multiple displays are being used, so by trying this procedure you help force it to use the pen display.&#x20;
+* If you have a computer, disconnect all other displays and then **only** connect your pen display. Sometimes computers get tripped up when multiple displays are being used, so by trying this procedure you help force it to use the pen display.&#x20;
 * If that works, start reconnecting the other displays until they are all plugged back in and working.
 
 ## Check if there is any difference when using mirror vs extend for your desktop
@@ -122,15 +131,17 @@ Suppose your graphics card has 4 physical HDMI outputs. It's possible your card 
 
 Read the documentation for your graphics card to verify how many it supports.&#x20;
 
-## Refresh Rates
+## Refresh rates
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Refresh Rate the computer is using for the display.
 
 Sometimes a misconfigured refresh rate causes the computer to not send a signal. For example, I have seen this happen with a  Windows Update, my pen display worked, but then after the update I saw the NO SIGNAL error. Somehow the refresh rate had been set to some unsupported value, once I changed it back to 60Hz it all worked again.
 
-So always verify the rate.
+So always verify the refresh rate.
 
 Start with a lower refresh rate, and build up to higher ones.
+
+Typically pen displays only go up to 60Hz.&#x20;
 
 ## Display resolution
 
@@ -146,11 +157,9 @@ See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/commen
 
 The reason this process might work is not clear. It could be because depowering the pen display was the reason. It could be because the connection to the other computer altered something in the pen display. In any case, it is worth a try if you continue to have problems.
 
+## Wacom One 2019 gen-1 cable orientation
 
-
-## Wacom One
-
-The Wacom One is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
+The Wacom One 2019 gen-1 is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
 
 ## Firmware updates
 
@@ -158,14 +167,14 @@ It sometimes happens that monitors require firmware updates to make getting a di
 
 IMPORTANT: Don't install firmware updates on the general hope they will improve things. Please consult your manufacturer and support team to verify whether they recommend a firmware update to solve the problem.
 
-## It worked before
+## Possible triggers&#x20;
 
 This is one of the most surprising things about the NO SIGNAL problem is that it can occur to an existing working system. It's happened to me.
 
 Here's what can trigger it
 
 * A GPU driver update
-* an Operating System update
+* An Operating System update
 
 ## Other resources
 
