@@ -14,16 +14,9 @@ In this guide, I'll provide every tactic I know about to help. But I also, want 
 
 Troubleshooting the the "no signal" problem starts with understanding how your computer interprets an attached pen display.
 
-Pen displays are a single physical device that you connect to a computer.
+Pen displays are a single physical device that you connect to a computer. However, your computer thinks of the pen display as two separate devices: (1) a pen tablet (aka screenless tablet) and (2) a monitor/display
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
-
-However, your computer thinks of the pen display as two separate devices:
-
-* a pen tablet (aka screenless tablet)
-* a monitor/display
-
-<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
 In fact, your computer and operating system has no idea that these devices are related in any way.
 
