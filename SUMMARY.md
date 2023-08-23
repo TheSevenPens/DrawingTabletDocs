@@ -180,6 +180,7 @@
   * [Troubleshoot WiFi and Internet problems with drawing tablets](troubleshooting/troubleshoot-wifi-and-internet-problems-with-drawing-tablets.md)
   * [Troubleshoot tablet not connected](troubleshooting/troubleshoot-tablet-not-connected.md)
   * [Testing pressure in the tablet driver](troubleshooting/testing-pressure-in-the-tablet-driver.md)
+  * [Troubleshoot display detection](troubleshooting/troubleshoot-display-detection.md)
   * [Troubleshoot pen acting like a mouse](troubleshooting/troubleshoot-pen-acting-like-a-mouse.md)
 * [Accessories](accessories/README.md)
   * [Cables](accessories/cables.md)

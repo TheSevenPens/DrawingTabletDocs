@@ -53,6 +53,8 @@ In macOS (Ventura) two displays looks like this:
 
 If your computer doesn't think there is a display attached, it certainly isn't going to send a signal to it.
 
+So if you don't see this detection, follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
+
 ## Things to verify
 
 ### Verify that the pen display can receive an HDMI signal
@@ -151,29 +153,7 @@ See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/commen
 
 The reason this process might work is not clear. It could be because depowering the pen display was the reason. It could be because the connection to the other computer altered something in the pen display. In any case, it is worth a try if you continue to have problems.
 
-## Using NVIDIA Rigorous Display Detection
 
-If your computer is not even detecting the existence of the display, and it has an NVIDIA GPU, the NVIDIA Control Panel have a feature called **Rigorous Display Detection** which help.
-
-* Open the **NVIDIA Control Panel**
-* Navigate to **Display > Set up multiple displays >  Select the displays you want to use**&#x20;
-* Click on **My display is not shown**&#x20;
-* This will launch the **Detect Missing Display** dialog
-* Click **Rigorous Display Detection**
-
-
-
-![](<../.gitbook/assets/image (293).png>)
-
-
-
-![](<../.gitbook/assets/image (6).png>)
-
-## Use Intel Graphics Command Center to detect your display
-
-If your computer is a laptop or similar device that has an embedded Intel GPU, on Windows you can use the Intel Graphics Commend Center app to potentially detect additional displays.
-
-You can download the Intel Graphics Comment Center from the Microsoft Store.
 
 ## Wacom One
 
