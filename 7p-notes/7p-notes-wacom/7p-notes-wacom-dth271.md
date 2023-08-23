@@ -432,7 +432,9 @@ Ultimately we need to hear from color professionals to see if indeed the Cintiq 
 ## Reddit threads
 
 * [https://www.reddit.com/r/wacom/comments/14fmkvv/i\_am\_disappointed\_to\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/14fmkvv/i\_am\_disappointed\_to\_cintiq\_pro\_27/)&#x20;
-*
+* [https://www.reddit.com/r/wacom/comments/15zgsoq/for\_the\_few\_that\_are\_thinking\_about\_getting\_the/](https://www.reddit.com/r/wacom/comments/15zgsoq/for\_the\_few\_that\_are\_thinking\_about\_getting\_the/) &#x20;
+
+
 
 ## Alternatives
 
@@ -498,6 +500,7 @@ I haven't tried a comparable XP-Pen model, so I can't comment on any comparison.
 
 ## Change log
 
+* 2023/08/23 - Add link to reddit thread about the stand
 * 2023/06/21 - Moved notes on Wacom Pro Pen 3 to a separate doc
 * 2023/05/30 - Added info on the Xencelabs Pen Display 24&#x20;
 * 2023/05/30 - Added link to the Wacom support article listing compatible pens
