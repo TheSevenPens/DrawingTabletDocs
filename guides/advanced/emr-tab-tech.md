@@ -18,13 +18,16 @@ The OLD EMR pen design can be seen in [**this teardown of the Huion PEN80 pen**]
 
 Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts, different manufacturers can tweak this design in their implementation.
 
+## **Pen technologies**
+
+Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen technologies**](digital-pen-technologies.md)&#x20;
+
 ## **General resources**
 
 * **Understanding Inductors** ([https://youtu.be/d73e3QiMdSU](https://youtu.be/d73e3QiMdSU))
 * **The beauty of LC Oscillations!** ([https://youtu.be/2\_y\_3\_3V-so](https://youtu.be/2\_y\_3\_3V-so))&#x20;
 * **LC Oscillator Tank Circuit** ([https://youtu.be/nh4q7mIhLrY](https://youtu.be/nh4q7mIhLrY))&#x20;
 * **Digital Art Tablet Guides** - The Insides of Some Tablet Pens! https://digitalarttabletguides.wordpress.com/2019/03/21/a-note-about-tablet-pens/&#x20;
-* **AES VS EMR | Choosing Between Wacom, iPad Pro, and Microsoft Surface Tech** ([https://www.slrlounge.com/aes-vs-emr-choosing-between-wacom-ipad-pro-and-microsoft-surface-tech/](https://www.slrlounge.com/aes-vs-emr-choosing-between-wacom-ipad-pro-and-microsoft-surface-tech/))
 * This video shows the internals of a Huion PW100 pen ([https://youtu.be/21LObZYVyLs](https://youtu.be/21LObZYVyLs))
 
 ## **Wacom resources**
