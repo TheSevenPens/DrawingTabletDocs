@@ -235,7 +235,7 @@ Learn more here: [**Surface texture**](core-features/surface-texture.md)&#x20;
 
 All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](ergonomics/rotating-a-drawing-tablet.md).
 
-## Drawing with versus using a mouse
+## Drawing with vs using a mouse
 
 A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md).
 
