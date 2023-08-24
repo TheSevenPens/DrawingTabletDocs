@@ -105,8 +105,8 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * Download VMulti from this location: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
 * Create a folder called VMulti in your Documents folder
 * Move Driver.zip to your Documents\VMulti folder
-* Right click on Driver.zip and select Extract All
-* This will create a folder called Driver that contains two folders **32** and **64**
+* Right click on Driver.zip and select **Extract All**
+* This will create a folder called **Driver** that contains two folders **32** and **64**
 * Right click on the **64** folder and select **Open in Terminal** &#x20;
 * The terminal will launch and the current directory will be set to the 64 folder
 * run **install\_hiddriver.bat**&#x20;
@@ -127,15 +127,15 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 * This will create a folder called **OpenTabletDriver.win-x64** that contains two files:
   * OpenTabletDriver.UX.Wpf.exe
   * OpenTabletDriver.Daemon.exe
+
+## Launch OpenTabletDriver for the first time
+
 * Launch **OpenTabletDriver.UX.Wpf.exe**
   * If you see a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. Then launch OpenTabletDriver.UX.Wpf.exe.
   * This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
 * You will likely be greeted by a window titled **OpenTabletDriver Guide**.&#x20;
   * Click the X in the upper right hand corner to close the guide.
   * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
-
-## Verify OpenTabletDriver is running
-
 * If the OTD UI is running you will see it in the notification area on your taskbar
 
 ![](<../../../.gitbook/assets/image (146).png>)![](<../../../.gitbook/assets/image (103).png>)
@@ -191,27 +191,15 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 <figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-### Configure the pen tip
-
 * Under **Tip Settings** >**Tip Binding**&#x20;
-  * Click the THREE DOTS button
-  * Change **Type** to **Windows Ink**
-    * Change **Button** to **Pen Tip**
-    * Click **Apply**
-
-### Configure the pen buttons
-
-* Under **Pen Buttons**, for  **Pen Binding 1** and **Pen Binding 2** configure them as:
-  * Change **Type** to **Windows Ink**
-  * Change **Button** to **Pen Button**
-* Click **Apply**
-
-### Configure the eraser
-
-* You only need to do this if your pen has an eraser
+  * Change **Type** to **Windows Ink** and change **Button** to **Pen Tip**
+* Under **Pen Buttons** > **Pen Binding 1**&#x20;
+  * Change **Type** to **Windows Ink** and change **Button** to **Pen Button**
+* Under **Pen Buttons** > **Pen Binding 2**&#x20;
+  * Change **Type** to **Windows Ink** and change **Button** to **Pen Button**
 * Under **Eraser Settings > Eraser Bindings**&#x20;
-  * Change **Type** to **Windows Ink**
-  * Change **Button** to **Pen Tip**
+  * NOTE: You only need to do this if your pen has an eraser
+  * Change **Type** to **Windows Ink** and change **Button** to **Pen Tip**
 * Click **Apply**
 
 ## Tablet buttons
