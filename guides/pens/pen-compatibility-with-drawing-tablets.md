@@ -27,5 +27,7 @@ If you need to replace a pen, find out the model number that is compatible with 
 ## Resources
 
 * Huion's guide to finding compatible pens: ([https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-](https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-))
-* [Kuuube's Wacom tablet mastersheet](../../resources/kuuubes-wacom-tablet-mastersheet.md) &#x20;
+* [Wacom pen compatibility](../../drawing-tablet-brands/wacom/wacom-pen-compatibility.md) &#x20;
+
+
 
