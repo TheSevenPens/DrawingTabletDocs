@@ -2,7 +2,7 @@
 
 ## Overview
 
-<mark style="color:red;">**D**</mark><mark style="color:red;">**rawing tablets tablets are very specific about which pens they work with. Never buy a pen without verifying compatibility first. The best way to confirm compatibility is to contact support.**</mark>
+<mark style="color:red;">**Drawing tablets tablets are very specific about which pens they work with. Never buy a pen without verifying compatibility first. The best way to confirm compatibility is to contact support.**</mark>
 
 ## **Key points**
 
@@ -19,8 +19,6 @@ If you need to replace a pen, find out the model number that is compatible with 
 
 {% embed url="https://youtu.be/cKBSpIVeZJk" %}
 
-##
-
 ## What causes pen incompatibility
 
 * There may be real hardware incompatibilities between a tablet and a pen
@@ -28,5 +26,6 @@ If you need to replace a pen, find out the model number that is compatible with 
 
 ## Resources
 
+* Huion's guide to finding compatible pens: ([https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-](https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-))
 * [Kuuube's Wacom tablet mastersheet](../../resources/kuuubes-wacom-tablet-mastersheet.md) &#x20;
 
