@@ -192,16 +192,24 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 <figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **Tip Settings** >**Tip Binding** and click the thee dots (...)
-* Change **Type** to **Windows Ink** and change **Button** to **Pen Tip**, then  click **Apply**.
+  * **Type** -> **Windows Ink**
+  * **Button** -> **Pen Tip**
+  * click **Apply**.
 * Navigate to **Pen Buttons** > **Pen Binding 1** and click the thee dots (...)
-* Change **Type** to **Windows Ink** and change **Button** to **Pen Button**, then  click **Apply**.
+  * **Type** -> **Windows Ink,**
+  * **Button** -> **Pen Button**
+  * click **Apply**.
 * Navigate to **Pen Buttons** > **Pen Binding 2** and click the thee dots (...)
-* Change **Type** to **Windows Ink** and change **Button** to **Pen Button**, then  click **Apply**.
+  * **Type** -> **Windows Ink**
+  * **Button** -> **Pen Button**
+  * click **Apply**.
 * Navigate to **Eraser Settings > Eraser Bindings** and click the thee dots (...)
-* NOTE: You only need to do this if your pen has an eraser
-* Change **Type** to **Windows Ink** and change **Button** to **Pen Tip**, then  click **Apply**.
+  * NOTE: You only need to do this if your pen has an eraser
+  * **Type** -> **Windows Ink**
+  * **Button** -> **Pen Tip**
+  * click **Apply**.
 
-
+At the bottom of the OTD UI, click **Apply**.
 
 ## Tablet buttons
 
