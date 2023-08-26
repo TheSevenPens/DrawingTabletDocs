@@ -4,22 +4,19 @@ Updated: 2023/08/23
 
 ## Intro
 
-The goal of this document is to:
+I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
 
-* Help you make an informed choice
-* Prevent you from buying something that won't meet your expectations
-* Save you money
-* Prevent you from permanently damaging your tablet and pen&#x20;
+## Read the beginner's guide if needed
 
-## Read this first
+If you are new to drawing table, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
 
-Before you read this document, look at my [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
+## My recommendations
 
-## Recommendations
+If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
 
-My curated list of [**tablet recommendations**](recommendations/) should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers and multiple price ranges.&#x20;
-
+{% hint style="info" %}
 I strongly urge you to read this buying guide and beginner's guide completely before you jump directly to the recommendations. &#x20;
+{% endhint %}
 
 ## Choosing a device type
 
