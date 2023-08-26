@@ -138,4 +138,14 @@ If you do remove the film, you will be drawing on the glass of the display. To a
 
 [https://www.reddit.com/r/huion/comments/13ikmph/](https://www.reddit.com/r/huion/comments/13ikmph/) - This reddit post has an video thet perfectly demonstrates the shimmering effect of the sparkle.
 
-[https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/](https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/) &#x20;
+[https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/](https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/)   -&#x20;
+
+
+
+## References
+
+[https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays)
+
+[https://www.youtube.com/watch?v=8iTGUNAxPOc](https://www.youtube.com/watch?v=8iTGUNAxPOc)
+
+[https://jamesferwerda.files.wordpress.com/2015/06/j18\_ferwerda14\_jsid.pdf](https://jamesferwerda.files.wordpress.com/2015/06/j18\_ferwerda14\_jsid.pdf)
