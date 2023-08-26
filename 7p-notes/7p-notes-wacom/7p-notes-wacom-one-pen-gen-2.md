@@ -123,13 +123,13 @@ I have confirmed this issue in these cases
 * Using
   * Wacom driver&#x20;
   * OpenTablet driver
-* Wioth these applications
+* With these applications
   * Krita
   * Clip Studio Paint&#x20;
 * With these Wacom tablets
   * Wacom One 13 touch (DTH-134) a pen display
   * Wacom One M (CTC-6110WL) a pen tablet
-* And I have have one other person (Kuuube) confirm the same behavior with the CTC-6110WL
+* And I have had one other person (Kuuube) confirm the same behavior with the Wacom One S (CTC-4110WL)
 
 ## Workarounds
 
