@@ -45,12 +45,6 @@ If decide on Wacom, and want a pen tablet, then this guide will help: [**Overvie
 
 I own A LOT of drawing tablets. Sometimes I take notes on them to share my experience. Please remember, I am not a tablet reviewer, so my notes reflect what I found interesting: [**7P notes**](../7p-notes/)&#x20;
 
-## Pen computers
-
-Even though some people love using pen computers, I do not in general recommend getting one.
-
-More here along with alternatives: [**I don't recommend pen computers**](the-case-against-pen-computers.md)&#x20;
-
 ## Pen tablets vs pen displays
 
 <mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark>
