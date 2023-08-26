@@ -1,4 +1,4 @@
-# 7p notes: Wacom One Pen (Gen 2)
+# 7P notes: Wacom One Pen (Gen 2) (CP92303B2Z)
 
 <mark style="color:red;">**PLEASE READ THIS INFORMATION ABOUT THE NEW GEN 2 PEN. I AM CURRENTLY INVESTIGATING AN ISSUE WITH IT. I RECOMMEND YOU DON'T GET THE NEW PEN UNTIL MY INVESTGATION HAS CONCLUDED.**</mark>
 
@@ -62,7 +62,7 @@ So no improvements to pen pressure levels. As a reminder, all you really need ar
 
 
 
-## <mark style="color:red;">**Pressure range**</mark>
+## <mark style="color:red;">**Pressure range \[UNDER INVESTIGATION]**</mark>
 
 ### <mark style="color:red;">Problem with pressure range</mark>
 
