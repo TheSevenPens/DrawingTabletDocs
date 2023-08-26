@@ -52,15 +52,20 @@ So no improvements to pen pressure levels. As a reminder, all you really need ar
 * New pen (CP92303B2Z) -> supports tilt
 * Old pen (CP91300B2Z) -> does not support tilt
 
-## Backwards compatibility
+## Compatibility
 
-* New pen (CP92303B2Z) -> Does not work with Wacom One (Gen 1) (DTC-133) tablet
+### Backwards compatibility
 
-## Forwards compatibility
+* New pen (CP92303B2Z) -> **Does not work** with Wacom One (Gen 1) (DTC-133) tablet
+
+### Forwards compatibility
 
 * Old pen (CP91300B2Z) -> Does work with new new Wacom One (Gen 2) tablets
 
+### Samsung Galaxy S compatibility
 
+* I confirmed both pens work with the Samsung Galaxy S8 Ultra.
+* I confirmed that the Samsung S Pen works with both the Wacom One (Gen 1) tablet and the Wacom One (Gen 2) tablets&#x20;
 
 ## <mark style="color:red;">**Pressure range \[UNDER INVESTIGATION]**</mark>
 
@@ -87,6 +92,22 @@ The issue is the pen hardware.
 
 * It does not have to do with the tablet driver
 * It does not have to do with the tablet hardware
+
+## Explanation of the problem
+
+EMR pens sense pressure and report that pressure to the tablet which then passes it on to the computer.&#x20;
+
+Let's simplify the problem. Instead of handling 4096 presure levels, let's pretend there are 10. So the pressure levels go from 0 to 9. 0 means no pressure. 9 means max pressure. So the pen will be reporting a pressure reading around like 200 times a second.
+
+Now let's think about to things: (a) What the pen is physically capable of detecting. (b) what it tells the tablet.
+
+
+
+
+
+
+
+
 
 ### Testing scenarios
 
