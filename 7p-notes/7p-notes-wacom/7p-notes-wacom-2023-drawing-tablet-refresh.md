@@ -97,11 +97,7 @@ So, I expect the low parallax story will continue for the Wacom One (Gen 2).
 
 ## **Tablet Buttons**
 
-
-
-Curious the Wacom One (Gen 2) pen tablets no longer have buttons on the tablets. Even though their predecessors - CTL-4100 and CTL6100 - did have buttons.&#x20;
-
-This is a disappointment. I am concerned that tablet buttons are going to be limited to their Intuos Pro line going forward.
+The Wacom One (Gen 2) pen tablets no longer have buttons on the tablets. Even though their predecessors - CTL-4100 and CTL6100 - did have buttons. This is a disappointment.&#x20;
 
 ## Pen display > OSD
 
