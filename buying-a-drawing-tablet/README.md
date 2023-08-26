@@ -18,7 +18,7 @@ If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](re
 I strongly urge you to read this buying guide and beginner's guide completely before you jump directly to the recommendations. &#x20;
 {% endhint %}
 
-## Choosing a device type
+## Choosing the type of drawing tablet
 
 The most fundamental choice to make is the kind of drawing tablet you want:
 
@@ -26,19 +26,20 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 * pen display (EMR sensor + screen; requires a computer)
 * pen computer (EMR sensor + screen + CPU + storage; does not require a computer)
 
+To keep it short:
+
+* Get a pen tablet (no screen) unless you are absolutely sure you MUST have a pen display (has a screen)
+* Do not get a pen computer, instead get an alternative like an iPad. More here along with alternatives:  [**I don't recommend pen computers**](the-case-against-pen-computers.md) &#x20;
+
 ## Brands
 
-There are several drawing tablet brands. Wacom is the most well-known. This guide on [**brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
+This is the second important choice to make.
 
-**If you want a safe choice, go with Wacom.**&#x20;
+**If you want a safe choice, go with Wacom.** They are also the most expensive. Lately (since 2021) **competitors like Huion, XP-Pen, and Xencelabs** are closing the gap with Wacom.
 
-If a Wacom pen tablet is what you want, this guide will help: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
+This guide on [**brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
 
-## Before you read
-
-As of Aug 10 2023, Wacom has announced new tablets. You may want to hold off on a purchase decision until these tablets are available.
-
-More here: [7P notes: Wacom 2023 drawing tablet refresh](../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
+If decide on Wacom, and want a pen tablet, then this guide will help: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
 
 ## My notes on drawing tablets
 

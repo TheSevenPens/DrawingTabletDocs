@@ -1,10 +1,12 @@
 # Overview of Wacom pen tablets
 
-## Before you read
+## Wacom's lineup of pen tablets is changing
 
-As of Aug 10 2023, Wacom has announced new tablets. You may want to hold off on a purchase decision until these tablets are available.
+{% hint style="info" %}
+As of Aug 10 2023, Wacom has announced new consumer tablets. I am evaluating them now and plan to update [**my recommendations**](../../buying-a-drawing-tablet/recommendations/) in September 2023. Until I finish my evalution, I do not recommend purchasing those tablets.
 
 More here: [7P notes: Wacom 2023 drawing tablet refresh](../../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
+{% endhint %}
 
 ## Overview
 
