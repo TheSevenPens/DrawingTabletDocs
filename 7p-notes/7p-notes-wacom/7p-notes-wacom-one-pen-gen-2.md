@@ -33,8 +33,6 @@ Notice that the model numbers can look very similar. Here are the highlighted di
 * Wacom One Pen (Gen 1) -> CP91300B2Z
 * Wacom One Pen (Gen 2) -> CP92303B2Z
 
-NOTE: If you own an existing Wacom One (Gen 1) pen display. It is unknown if the it;s pen (CP91300B2Z) will be compatible with the Wacom One (Gen 1) pen displays
-
 ### **Pressure levels**
 
 * One by Wacom (CTL-472, CTL-672) -> 2048
@@ -44,13 +42,55 @@ NOTE: If you own an existing Wacom One (Gen 1) pen display. It is unknown if the
 
 So no improvements to pen pressure levels. As a reminder, all you really need are 2048 pressure levels and it is the pressure range that is more important.
 
-## **Pressure range**
+### **Number of pen buttons**
 
-### <mark style="color:red;">Issue with pressure range</mark>
+* New pen (CP92303B2Z) -> 2 buttons
+* Old pen (CP91300B2Z) -> 1 button
 
-The problem manifests as: The new Wacom One Pen (Gen 2) has a MUCH higher Initial Activation Force than the Wacom One Pen (Gen 2) &#x20;
+### **Tilt**
 
-### I have confirmed this issue in these cases
+* New pen (CP92303B2Z) -> supports tilt
+* Old pen (CP91300B2Z) -> does not support tilt
+
+## Backwards compatibility
+
+* New pen (CP92303B2Z) -> Does not work with Wacom One (Gen 1) (DTC-133) tablet
+
+## Forwards compatibility
+
+* Old pen (CP91300B2Z) -> Does work with new new Wacom One (Gen 2) tablets
+
+
+
+## <mark style="color:red;">**Pressure range**</mark>
+
+### <mark style="color:red;">Problem with pressure range</mark>
+
+The problem:&#x20;
+
+* The new Wacom One Pen (Gen 2) has a MUCH higher Initial Activation Force than the Wacom One Pen (Gen 2) &#x20;
+* As a result the new Gen 2 pen has a noticeably smaller effective pressure range than the Gen 1 pen
+
+
+
+### Effect of the pressure problem
+
+Summary: Even the lightest physical pressure you put on the pen will cause a higher pressure to be reported to the computer. This will interfere with your drawing.&#x20;
+
+Look at the effects in the Wacom Center's pressure test area below.
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Location of the problem
+
+The issue is the pen hardware.
+
+* It does not have to do with the tablet driver
+* It does not have to do with the tablet hardware
+
+### Testing scenarios
+
+I have confirmed this issue in these cases
 
 * With these tablets:
   * DTC-121
@@ -67,19 +107,6 @@ The problem manifests as: The new Wacom One Pen (Gen 2) has a MUCH higher Initia
   * Wacom One M (CTC-6110WL) a pen tablet
 * And I have have one other person (Kuuube) confirm the same behavior with the CTC-6110WL
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+## Workarounds
 
-
-
-I also tested both pens using the CTC-6110WL using OpenTabletDriver. Here are my observations:
-
-* NOTE: Pressure in both pens is reported in two bytes. So there is a MSB and LSB
-* With the OLD Wacom One pen - when there is pressure the MSB range starts from 01
-* With the NEW Wacom One pen - when there is pressure the MSB range starts from 04 (occasionally I will see a 03)
-* How to translate these numbers. &#x20;
-
-### **Number of pen buttons**
-
-* New pen (CP92303B2Z) -> 2 buttons
-* Old pen (CP91300B2Z) -> 1 button
-
+While you cannot change how the pen works. You
