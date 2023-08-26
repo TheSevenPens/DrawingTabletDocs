@@ -84,7 +84,7 @@ Summary: Even the lightest physical pressure you put on the pen will cause a hig
 
 Look at the effects in the Wacom Center's pressure test area below.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Location of the problem
 
@@ -97,17 +97,20 @@ The issue is the pen hardware.
 
 EMR pens sense pressure and report that pressure to the tablet which then passes it on to the computer.&#x20;
 
-Let's simplify the problem. Instead of handling 4096 pressure levels, let's pretend there are 10. So the pressure levels go from 0 to 9. 0 means no pressure. 9 means max pressure. So the pen will be reporting a pressure reading around like 200 times a second.
+To make it easy to explain let's simplify the problem. Pretend there are only 10 pressure levels that go from 0 to 9. 0 means no pressure. 9 means max pressure.&#x20;
 
-Now let's think about to things: (a) What the pen is physically capable of detecting. (b) what it tells the tablet.
+Keep two things in mind:
+
+* (a) What the pen is physically capable of detecting.&#x20;
+* (b) What the pen reports to the tablet.
+
+Essentially the new pen simply does not report the lower pressure values to the tablet.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+This can be observed in the pressure test region of the Wacom Center app. The blue bar at the bottom of the test area shows the current pressure. With the old pen I can keep the blue bar very small by applying light pressure. With the new pen no matter how little pressure I apply the blue bar won't get any smaller. &#x20;
 
-
-
-
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Testing scenarios
 
