@@ -43,7 +43,7 @@ If decide on Wacom, and want a pen tablet, then this guide will help: [**Overvie
 
 ## My notes on drawing tablets
 
-I own A LOT of drawing tablets. Sometimes I take notes on them to share my experience. Please remember, I am not a tablet reviewer, so my notes reflect what I found interesting: [**7P notes**](../7p-notes/)&#x20;
+I own A LOT of drawing tablets. Sometimes I take notes on them to share my experience. Please remember, I don't write tablet reviews. I just provide my notes reflect what I found interesting. See my here: [**7P notes**](../7p-notes/)&#x20;
 
 ## Pen tablets vs pen displays
 
@@ -68,16 +68,16 @@ This guide on [**choosing the right tablet size**](../guides/core-features/choos
 
 ## **ExpressKeys**&#x20;
 
-ExpressKeys are additional inputs (buttons and dials) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)
+ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)
 
 ## Model years
 
 Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
 
-Some general guidelines:&#x20;
+General guidelines:&#x20;
 
 * **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
-* **Huion & XP-Pen** - I recommend you only get models released in 2020 or later. &#x20;
+* **Huion & XP-Pen** - I recommend you only get models released in 2021 or later. &#x20;
 
 ## Pen display topics
 
@@ -94,7 +94,7 @@ Some general guidelines:&#x20;
 
 The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets.md).
 
-## Connectivity: wired vs wireless
+## Connectivity: wired and wireless
 
 Pen tablets can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth.
 
@@ -114,7 +114,9 @@ Pen displays DO NOT have batteries. They must get their power from a cable that 
 
 ## Requirement to use a computer&#x20;
 
-Both pen tablets and pen displays must be used with a computer.
+* Pen tablets must be used with a computer.
+* Pen displays must be used with a computer.
+* Pen computers ARE computers and can be used by themselves.
 
 ## Operating system information
 
