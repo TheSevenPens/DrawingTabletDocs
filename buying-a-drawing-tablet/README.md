@@ -22,49 +22,34 @@ I strongly urge you to read this buying guide and beginner's guide completely be
 
 The most fundamental choice to make is the kind of drawing tablet you want:
 
-* pen tablet (EMR sensor; requires a computer)
-* pen display (EMR sensor + screen; requires a computer)
-* pen computer (EMR sensor + screen + CPU + storage; does not require a computer)
+* **pen tablet** (EMR sensor; requires a computer)
+* **pen display** (EMR sensor + screen; requires a computer)
+* **pen computer** (EMR sensor + screen + CPU + storage; does not require a computer because it is a computer)
 
-To keep it short:
+To keep it simple:
 
-* Get a pen tablet (no screen) unless you are absolutely sure you MUST have a pen display (has a screen)
+* Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen).
 * Do not get a pen computer, instead get an alternative like an iPad. More here along with alternatives:  [**I don't recommend pen computers**](the-case-against-pen-computers.md) &#x20;
 
 ## Brands
 
-This is the second important choice to make.
-
-**If you want a safe choice, go with Wacom.** They are also the most expensive. Lately (since 2021) **competitors like Huion, XP-Pen, and Xencelabs** are closing the gap with Wacom.
+**If you want a safe choice, go with Wacom.** They are also the most expensive. Since 2021 **competitors like Huion, XP-Pen, and Xencelabs** are closing the gap with Wacom.
 
 This guide on [**brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
 
-If decide on Wacom, and want a pen tablet, then this guide will help: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
+If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
 
 ## My notes on drawing tablets
 
-I own A LOT of drawing tablets. Sometimes I take notes on them to share my experience. Please remember, I don't write tablet reviews. I just provide my notes reflect what I found interesting. See my here: [**7P notes**](../7p-notes/)&#x20;
+I own A LOT of drawing tablets. Although I don't write tablet reviews, I do share notes of what I find interesting. See my notes here: [**7P notes**](../7p-notes/)&#x20;
 
 ## Pen tablets vs pen displays
 
-<mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark>
-
-Many people try pen displays and learn they don't enjoy using them and go back to pen tablets. For others, pen displays are the only kind of drawing tablet they can use. And then there are many people who switch between them depending on the need.
-
-If you are unsure about which one to get or not sure how committed you are to using a drawing tablet, I recommend starting with a pen tablet.&#x20;
-
-Throughout this buying guide, you'll see areas where pen tablets and pen computers are compared. This should help you make your choice.
-
-Videos:
-
-* **Teoh on Tech -** 9 things to know about pen displays before you buy one ([https://youtu.be/Ez7l1C49ClE](https://youtu.be/Ez7l1C49ClE)) Jan 6, 2023
-* **EyeKooDrawsStuff** - What drawing tablet to buy... a screenless graphics tablet or pen display?  ([https://youtu.be/SpOmAvvXePE](https://youtu.be/SpOmAvvXePE)) July 10, 2023
+<mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark> Throughout this buying guide, you'll see areas where pen tablets and pen computers are compared. More here: [**Pen tablets vs pen displays**](./#pen-tablets-vs-pen-displays)
 
 ## Size
 
-Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs.&#x20;
-
-This guide on [**choosing the right tablet size**](../guides/core-features/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
+Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/core-features/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
 
 ## **ExpressKeys**&#x20;
 

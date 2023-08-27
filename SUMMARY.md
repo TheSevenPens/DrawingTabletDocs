@@ -7,6 +7,7 @@
 * [Frequently asked questions](faq.md)
 * [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
   * [Buying used drawing tablets](buying-a-drawing-tablet/buying-used-drawing-tablets.md)
+  * [Pen tablets vs pen displays](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
   * [Drawing tablet recommendations](buying-a-drawing-tablet/recommendations/README.md)
     * [Pen tablet recommendations by price range](buying-a-drawing-tablet/recommendations/pen-tablets.md)
     * [Pen display recommendations by price range](buying-a-drawing-tablet/recommendations/pen-displays.md)
