@@ -267,7 +267,6 @@ Once you get your tablet, you'll need to take care of it and perform some simple
 ## Resources
 
 * Brad Colbow - Dream Digital Art Setup on a Budget ([https://youtu.be/xVN4tt27u6s](https://youtu.be/xVN4tt27u6s)) Aug 7, 2023
-* Brad Colbow - Best Drawing Tablets for Beginners - What I Recommend  ([https://youtu.be/Dh49NwMt1yw](https://youtu.be/Dh49NwMt1yw)) May 8 2023
 
 ## Reviews&#x20;
 
