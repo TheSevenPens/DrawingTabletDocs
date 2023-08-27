@@ -62,7 +62,7 @@ The Wacom One (Gen 2) pen tablets all support wireless as indicated by their mod
 
 <mark style="color:red;">**PLEASE READ THIS INFORMATION ABOUT THE NEW GEN 2 PEN. I AM CURRENTLY INVESTIGATING AN ISSUE WITH IT. I RECOMMEND YOU DON'T GET THE NEW PEN UNTIL MY INVESTGATION HAS CONCLUDED.**</mark>
 
-**See this:** [7p notes: Wacom One Pen (Gen 2)](7p-notes-wacom-one-pen-gen-2.md)&#x20;
+**See this:** [7p notes: Wacom One Pen (Gen 2)](broken-reference)&#x20;
 
 ### **Pressure levels**
 
