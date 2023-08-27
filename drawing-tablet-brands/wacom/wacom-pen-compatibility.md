@@ -10,7 +10,7 @@
 
 ## Kuuube's Wacom tablet and pen compatibility mastersheet
 
-[**Kuuube's Wacom pen compatibility mastersheet**](../../resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md)
+[**Kuuube's Wacom pen compatibility mastersheet**](../../resources/kuuubes-wacom-pen-compatibility-mastersheet.md)
 
 ### Highlighted compatibility pairs for pen tablets
 
