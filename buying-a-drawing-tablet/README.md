@@ -120,24 +120,9 @@ If you have a 32-bit Windows computer, you should verify whether the tablet driv
 
 Wacom: [https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-](https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-)
 
-
-
 ## Hardware reliability
 
 Pen tablets overall are much simpler devices than pen displays. As a consequence they are much more reliable.
-
-## Fall damage
-
-You should never let your tablet drop to the floor. It can be damaged.
-
-A pen tablet, has fewer moving parts and most of the time nothing bad will happen to it.
-
-However, If you drop a pen display, you almost certainly will cause significant damage that cannot be repaired. For example, any of these things can happen:
-
-* The pen displays will not turn on again
-* The screen will crack
-* The display panel will break and not show a full screen or will show random color patterns
-* The ports can get damaged, preventing it from getting a display signal&#x20;
 
 ## Model names vs model numbers
 
@@ -262,11 +247,7 @@ Pen tablets do not have legs. If you want to place them at an angle, you will ne
 
 ## Maintaining your tablet
 
-Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/)     &#x20;
-
-## Resources
-
-* Brad Colbow - Dream Digital Art Setup on a Budget ([https://youtu.be/xVN4tt27u6s](https://youtu.be/xVN4tt27u6s)) Aug 7, 2023
+Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
 
 ## Reviews&#x20;
 

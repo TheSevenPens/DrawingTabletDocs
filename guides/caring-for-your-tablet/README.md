@@ -6,6 +6,17 @@ Pens are the most sensitive component because they have some small parts and som
 
 A fall onto a floor - especially if it hits the nib directly - can completely break the internals of your pen. The impact can make the pen completely non-functional or make it stop working in specific ways.
 
+## <mark style="color:red;">Do not let your tablet drop to the floor</mark>
+
+A **pen tablet**, has fewer moving parts and most of the time nothing bad will happen to it.
+
+However, If you drop a **pen display**, you almost certainly will cause significant damage that cannot be repaired. For example, any of these things can happen:
+
+* The pen displays will not turn on again
+* The screen will crack
+* The display panel will break and not show a full screen or will show random color patterns
+* The ports can get damaged, preventing it from getting a display signal&#x20;
+
 ## Avoid getting your tablet or pen wet&#x20;
 
 Keep water away from your tablet and pen.If you get them wet, consult this guide on dealing with potential damage: [Dealing with water damage](dealing-with-water-damage.md).
