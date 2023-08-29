@@ -6,4 +6,5 @@
 * Model year: 2019
 * Active Area Diagonal: 7"
 * 7PENS owns: YES
+* Pen buttons: only 1
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)&#x20;

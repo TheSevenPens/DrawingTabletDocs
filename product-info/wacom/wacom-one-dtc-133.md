@@ -6,7 +6,8 @@
 * Model year: 2020
 * Active Area Diagonal: 13.25"
 * Resolution: 2K
-* 7PENS owns this tablet: YES.&#x20;
+* 7PENS owns this tablet: YES
+* Pen buttons: only 1
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTC133.html](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)&#x20;
 
 ## Reviews
