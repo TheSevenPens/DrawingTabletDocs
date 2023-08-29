@@ -8,13 +8,11 @@ As of August of 2023 I have been using a TourBox device for over two years. For 
 
 ## Adjustment time
 
-When I first acquired this device, I used it for about a month and then quit. It was very difficult for me to remember to use the device. I would often end up falling back to using my normal keyboard shortcuts.
+When I first acquired this device, I used it for about a month and then quit. It was very difficult for me to remember to use the device. I would often end up falling back to using my normal keyboard shortcuts. And so I put it back in its box and left it there untouched for a couple of months.
 
-I could not adjust to it. And so I put it back in its box and left it there untouched for a couple of months.
+After a particularly frustrating drawing session where I had to heavily use the keyboard, I decided to try to commit to retraining myself on the TourBox device. I brought it out of storage, and made a concerted effort to make it part of my workflow.
 
-After some time I had a particularly frustrating drawing session where I was heavily using the keyboard. And I kept feeling like hitting the keyboard shortcuts was slowing me down. And for that reason I decided to try to retrain myself on the TourBox device. So I brought it out of storage. And made a concerted effort to use the device.
-
-It took a lot of reading about the device, experimenting with different configuration options, and forcing myself to avoid using the keyboard. But eventually after about six months my brain was fully trained to use the device instead of relying on keyboard shortcuts. I think it was well worth that investment of time. Because it made me much more productive.
+It took a lot of reading about the device, experimenting with different configuration options, and forcing myself to avoid using the keyboard. Eventually after about six months my brain was fully trained to use the device instead of relying on keyboard shortcuts. It was well worth that investment of time, because it made me much more productive.
 
 ## What I like about the TourBox
 
@@ -24,13 +22,11 @@ Another great thing about the TourBox is that the TourBox console - the accompan
 
 The software is also updated quite frequently.
 
-The TourBox NEO supports only a wired USB connection.
+Connectivity: The TourBox NEO supports only a wired USB connection. The TourBox ULTRA supports both wired and Bluetooth connection. One negative of the ultra for me is that it uses normal non rechargeable batteries. So that's kind of irritating to have to replace them every now and then.
 
-The TourBox ULTRA supports both wired and Bluetooth connection. One negative of the ultra for me is that it uses normal non rechargeable batteries. So that's kind of irritating to have to replace them every now and then.
+## What could be better
 
-## Ways in which the TourBox could be better for me
-
-I wish the dials and wheels had a little more resistance to movement. I have this scroll wheel set to control my brush size. And sometimes I accidentally brush against it and change my brush size and I don't notice that until later. I don't use the large spinning dial at all. I had it set to rotate the canvas. But then I was accidentally rotating my canvas far too often. So now I do not use the dial it all.
+I wish the dials and wheels had a little more resistance to movement. I have this scroll wheel set to control my brush size. And sometimes I accidentally brush against it and change my brush size and I don't notice that until later. I don't use the large spinning dial at all. I had it set to rotate the canvas. However then I was accidentally rotating my canvas far too often. So now I do not use the dial it all.
 
 The software is very highly configurable. The TourBox has keys that can use as modifiers with other keys. O for example one of the keys can act like a shift key. But not all keys can be programmed this way. And there is one key that I wish I could program this way because it would give me more opportunities to bind tools to the buttons on the tour box.
 
