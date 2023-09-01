@@ -1,8 +1,38 @@
 # Drawing tablet brands
 
-## Introduction notes
+## Introduction&#x20;
 
+There are many tablet brands. And picking the brand of the tablet is one of the most important decisions you will need to make.
 
+## History
+
+Wacom has been the leading tablet brand for decades. And for a long time they were essentially the only tablet brand because Wacom invented the EMR technology that is used in drawing tablets back in the 1980s.
+
+Other tablet brands started appearing in the 2000s
+
+* Huion founded in 2011
+* XP-Pen founded in 2005
+* and there are many others
+
+For a long time these brands lagged behind Wacom’s technology. For example, they would often have pens that required a battery whereas all of Wacom's pens have always been batteryless - And instead get their power from just being close to the tablet. The reason these other tablet brands lagged behind for a while. Wacom held many.was vedry simple patents for drawing tablets. Eventually those patents expired (around 2010) and these other brands could use EMR technology.
+
+So as of 2023 the situation is something like this:
+
+\-          Wacom continues to make the highest quality and most reliable tablets. But also they are the most expensive
+
+o   Wacom's pro line of pen tablets (intuos pro) are easily the best pen tablets ever made
+
+o   Wacom's pro line of pen displays (cintiq pro) are easily the best pen displays ever made
+
+\-          Huion and XP pen in particular since about 2021 have been releasing some really solid devices
+
+o   And although they have a large lineup of products that can be a little confusing
+
+o   if you're looking at their very latest tablets that are being released in 2022 or 2023
+
+o   these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
+
+\-          One thing you'll notice about Wacom is that they tend to keep certain features in their professional line of products. In fact over time they have tended to remove features from their consumer tablets and move them only to the pro line. Other manufacturers tend to have the same features on consumer and professional lines.
 
 ## Support
 
