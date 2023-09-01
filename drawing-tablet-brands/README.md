@@ -2,9 +2,18 @@
 
 ## Introduction notes
 
+
+
+## Support
+
 No brand's products are consistently perfect.&#x20;
 
-All brands will eventually ship a product that has defective units or that will have sporadic problems with their drivers, etc. At some point you will need help. This is why it is **critical** to choose a brand that supports its customers well and for which you can reach our to other users to answer questions.
+All brands will eventually ship a product that has defective units or that will have sporadic problems with their drivers, etc. So, at some point you will need help.
+
+This is why you MUST choose a brand that:
+
+* Supports its customers well
+* has enough other people using their tablets, so that you can get help from the community.
 
 ## Pre-reading
 
