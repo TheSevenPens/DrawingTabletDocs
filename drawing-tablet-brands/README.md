@@ -4,6 +4,13 @@
 
 There are many tablet brands. And picking the brand of the tablet is one of the most important decisions you will need to make.
 
+## Pre-reading
+
+If you are here you may be new to drawing tablets or may want to purchase one. These two guides will help you:
+
+* [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
+* [Buying a drawing tablet](../buying-a-drawing-tablet/)
+
 ## History
 
 Wacom has been the leading tablet brand for decades. And for a long time they were essentially the only tablet brand because Wacom invented the EMR technology that is used in drawing tablets back in the 1980s.
@@ -14,25 +21,24 @@ Other tablet brands started appearing in the 2000s
 * XP-Pen founded in 2005
 * and there are many others
 
-For a long time these brands lagged behind Wacom’s technology. For example, they would often have pens that required a battery whereas all of Wacom's pens have always been batteryless - And instead get their power from just being close to the tablet. The reason these other tablet brands lagged behind for a while. Wacom held many.was vedry simple patents for drawing tablets. Eventually those patents expired (around 2010) and these other brands could use EMR technology.
+For a long time these brands lagged behind Wacom’s technology. For example, they would often have pens that required a battery whereas all of Wacom's pens have always been batteryless - And instead get their power from just being close to the tablet. The reason these other tablet brands lagged behind for a while was very simple: Wacom held the core patents for drawing tablets. Eventually those patents expired (before 2010 if I recall correctly) and these other brands could then use EMR technology.&#x20;
+
+## Current state of the market
 
 So as of 2023 the situation is something like this:
 
-\-          Wacom continues to make the highest quality and most reliable tablets. But also they are the most expensive
+* Wacom continues to make the highest quality and most reliable tablets. But also they are the most expensive
+  * Wacom's pro line of pen tablets (intuos pro) are easily the best pen tablets ever made
+  * Wacom's pro line of pen displays (cintiq pro) are easily the best pen displays ever made
+* Huion and XP pen since about 2021 have been releasing some really solid devices
+  * And although they have a large lineup of products that can be a little confusing
+  * And if you're looking at their very latest tablets that are being released in 2022 or 2023 - these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
+* Xencelabs (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support.&#x20;
+* And after those four brands there are many others that seem to focus more on budget consumer offerings.
 
-o   Wacom's pro line of pen tablets (intuos pro) are easily the best pen tablets ever made
+## Feature availability
 
-o   Wacom's pro line of pen displays (cintiq pro) are easily the best pen displays ever made
-
-\-          Huion and XP pen in particular since about 2021 have been releasing some really solid devices
-
-o   And although they have a large lineup of products that can be a little confusing
-
-o   if you're looking at their very latest tablets that are being released in 2022 or 2023
-
-o   these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
-
-\-          One thing you'll notice about Wacom is that they tend to keep certain features in their professional line of products. In fact over time they have tended to remove features from their consumer tablets and move them only to the pro line. Other manufacturers tend to have the same features on consumer and professional lines.
+One thing you'll notice about Wacom is that they tend to keep certain features in their professional line of products. In fact over time they have tended to remove features from their consumer tablets and move them only to the pro line. Other manufacturers tend to have the same features on consumer and professional lines.
 
 ## Support
 
@@ -43,14 +49,7 @@ All brands will eventually ship a product that has defective units or that will 
 This is why you MUST choose a brand that:
 
 * Supports its customers well
-* has enough other people using their tablets, so that you can get help from the community.
-
-## Pre-reading
-
-If you are here you may be new to drawing tablets or may want to purchase one. These two guides will help you:
-
-* [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
-* [Buying a drawing tablet](../buying-a-drawing-tablet/)&#x20;
+* has enough other people using their tablets, so that you can get help from the community.&#x20;
 
 ## Tiers
 
@@ -165,11 +164,11 @@ Included brands:
 * Ugee - [https://www.ugee.com/](https://www.ugee.com/)
 * Veikk - [https://www.veikk.com/](https://www.veikk.com/)
 
-## Tier 4: Everyone else
+## Tier 4: Every other brand
 
 Save yourself problems and avoid any tier 4 products.&#x20;
 
-## Digitizers vs Brands
+## Digitizers vs brands
 
 All drawing tablets have multiple components, but the primary component is the EMR sensor - which also called the **digitizer**.
 
@@ -185,7 +184,7 @@ And despite all the many brands of drawing tablets you see, there are only a cou
 
 **UCLogic digitizers** are used in Gaomon, Huion, Veikk, and Parblo tablets.
 
-## The role of online forums in ranking brands
+## Online community forums
 
 There are some active online forums for drawing tablets such as various subreddits such as:
 
