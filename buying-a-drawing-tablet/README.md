@@ -67,12 +67,11 @@ General guidelines:&#x20;
 ## Pen display topics
 
 * **Connection** - Make sure you have an understanding of [**how a pen display is going to connect to your computer**](../guides/pen-displays/connecting-a-pen-display.md).
-* **Single cable connection** - SOME pen displays work with only a single USB-C cable and some don't support that. Even if they do support it, your computer may not. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md) &#x20;
+* **Single cable connection** - SOME pen displays work with only a single USB-C cable. Some don't. Even if a pen display support its, your computer may not. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md) &#x20;
 * **Anti-glare sparkle** - Understand the impact of [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md). Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. &#x20;
-* **Display Resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
+* **Display resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
-* **Lamination** - Lamination decreases parallax substantially. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
-* **Needs a computer** - A pen display still requires you to have a computer to use it.
+* **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
 
 ## Surface protection
@@ -145,17 +144,17 @@ If you are getting a pen display, then you should absolutely research how much p
 
 ## **Drawing: getting strokes right the first time**
 
-Because you can see exactly where the stroke is going to be, Many people who use pen displays say that they get the stroke right the first time.&#x20;
+With a **pen display** you can see exactly where the stroke is going to be. Many people who use pen displays say that they get the stroke right the first time.&#x20;
 
-And they say that with a pen tablet, they would have to make the stroke several times to get it right and press undo to erase the mistakes.&#x20;
+Some people feel that with a **pen tablet**, they would have to make the stroke several times to get it right and press undo to erase the mistakes.&#x20;
 
-I would generally agree with that. and when I want to do some line work quicker than normal, I will often move from a pen tablet to a pen display to get.
+I would generally agree with these statements. When I want to do some line work faster than normal, I will often switch from a pen tablet to a pen display.
 
 ## Drawing: matching hand movements and drawing
 
 With a **pen display**, things are natural. You see the pen in the same place the stroke is being drawn - just like a piece of paper.
 
-One of the downsides to this is of course, your own hand and the pen will block your eyes from seeing the display - just like paper. The easy solution to this is to reposition your eyes or take advantage of the canvas zoom and rotation features of your drawing app.
+One of the downsides to this is, your own hand and the pen will block your eyes from seeing the display - just like paper. The easy solution to this is to reposition your eyes or take advantage of the canvas zoom and rotation features of your drawing app.
 
 With a **pen tablet**, you are looking at a monitor but drawing somewhere else with your hand. Fundamentally this is no different than using a mouse.&#x20;
 
