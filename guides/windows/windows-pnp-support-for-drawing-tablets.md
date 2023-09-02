@@ -16,7 +16,7 @@ But if Windows is using its PNP support the pointer will look like this.
 
 ![](<../../.gitbook/assets/PXL\_20230902\_135357961 (1).jpg>)
 
-(NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone)
+(NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone camera)
 
 ## Limitations of PNP mode
 

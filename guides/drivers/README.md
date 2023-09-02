@@ -18,7 +18,7 @@ If you plug the tablet into a Windows or Mac, then one of two things will happen
 * (A) The drawing tablet won't work at all.&#x20;
   * Touching the pen to the tablet won't move the mouse pointer
   * The computer may not recognize that a tablet is connected
-* (B) On Windows it may work in a very rudimentary way work due some basic PNP (Plug-and-Play) tablet driver support. See: [Windows PNP support for drawing tablets](windows-pnp-support-for-drawing-tablets.md).&#x20;
+* (B) On Windows it may work in a very rudimentary way work due some basic PNP (Plug-and-Play) tablet driver support. See: [Windows PNP support for drawing tablets](../windows/windows-pnp-support-for-drawing-tablets.md).&#x20;
 
 ## OpenTabletDriver
 
