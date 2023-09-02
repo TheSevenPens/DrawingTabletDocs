@@ -5,7 +5,7 @@
 ## **Basics**
 
 * **Cost:** $80
-* Model year: 2019. Is a little older than the current generation of Huion tablets but works very well.
+* Model year: 2019.
 * Active Area Diagonal: 12"
 * 7PENS owns: YES
 * User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)&#x20;

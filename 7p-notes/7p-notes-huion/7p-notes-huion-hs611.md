@@ -6,7 +6,7 @@ The Huion HS611 is a decent drawing tablet.&#x20;
 
 **Age**
 
-This is a slightly older Huion model from 2019 using the slightly older PW507 pen. &#x20;
+This is a slightly older Huion model from 2019 using the slightly older PW507 pen. If you have to get it, then it will work fine. But I think now you'll find the newer and better Huion pen tablets at the same price point as the HS611.&#x20;
 
 **Design**
 

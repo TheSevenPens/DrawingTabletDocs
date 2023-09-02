@@ -23,7 +23,7 @@
 ## $100 to $200
 
 * SMALL [**Wacom Intuos Pro Small** (PTH-460)](../../product-info/wacom/wacom-intuos-pro-small-pth-460.md) $200&#x20;
-* MEDIUM Wacom One M (CTC-4610WL) $?? <mark style="color:red;">**STILL UNDER EVALUATION**</mark>
+* MEDIUM Wacom One M (CTC-6110WL) $?? <mark style="color:red;">**STILL UNDER EVALUATION**</mark>
 * MEDIUM [**Wacom Intuos Medium** (CTL-6100)](../../product-info/wacom/wacom-intuos-medium-ctl-6100.md) $200
 
 ## $200 to $300
