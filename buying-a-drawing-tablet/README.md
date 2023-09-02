@@ -146,7 +146,15 @@ The operating system pointer (i.e. the mouse pointer) will lag behind the physic
 
 If you are getting a pen display, then you should absolutely research how much pointer lag it has. More here: [**Lag**](../guides/core-features/lag.md)&#x20;
 
-##
+## Surface texture
+
+If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper.
+
+Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
+
+## Right-handed vs left-handed use
+
+All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md).
 
 ## **Pressure**
 
