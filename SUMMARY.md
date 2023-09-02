@@ -28,6 +28,7 @@
 * [Guides](guides/README.md)
   * [Beginner's guide to drawing tablets](guides/beginners-guide.md)
   * [Get started with a drawing tablet](guides/get-started-with-a-drawing-tablet.md)
+  * [The drawing experience](guides/the-drawing-experience.md)
   * [Caring for your tablet](guides/caring-for-your-tablet/README.md)
     * [Dealing with water damage](guides/caring-for-your-tablet/dealing-with-water-damage.md)
     * [Cleaning a drawing tablet](guides/caring-for-your-tablet/cleaning-a-drawing-tablet.md)
