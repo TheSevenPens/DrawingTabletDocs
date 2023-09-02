@@ -15,8 +15,10 @@ Windows and Macs do not have built in drivers for drawing tablets.
 
 If you plug the tablet into a Windows or Mac, then one of two things will happen:
 
-* The drawing tablet won't work at all
-* Or you will be able to use the pen to point and maybe to click. But there won't be any pressure sensitivity, or tilt. Drawing with it usually won't be very smooth. The computer just treats the drawing tablet as a kind of mouse.
+* (A) The drawing tablet won't work at all.&#x20;
+  * Touching the pen to the tablet won't move the mouse pointer
+  * The computer may not recognize that a tablet is connected
+* (B) On Windows it may work in a very rudimentary way work due some basic PNP (Plug-and-Play) tablet driver support. See: [Windows PNP support for drawing tablets](windows-pnp-support-for-drawing-tablets.md).&#x20;
 
 ## OpenTabletDriver
 

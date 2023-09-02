@@ -9,7 +9,7 @@ The problem: Wacom makes two very different devices with confusingly similar nam
 
 A **One by Wacom** looks like this (it does not have a screen):
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 A **Wacom One** looks like this (it has a screen):
 

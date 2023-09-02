@@ -90,6 +90,7 @@
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
       * [Pressure curve OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
       * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)
+    * [Windows PNP support for drawing tablets](guides/drivers/windows-pnp-support-for-drawing-tablets.md)
     * [Uninstalling manufacturer tablet drivers](guides/drivers/uninstalling-manufacturer-tablet-drivers.md)
   * [Windows](guides/windows/README.md)
     * [Disable ripple effect rings in Windows](guides/windows/disable-ripple-effect-rings-in-windows.md)

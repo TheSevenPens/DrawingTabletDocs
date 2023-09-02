@@ -4,7 +4,7 @@
 
 ## Overview
 
-### **The new Wacom One Pen: (**CP92303B2Z)
+### \*\*The new Wacom One Pen: (\*\*CP92303B2Z)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-08-10 133804.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -23,13 +23,13 @@ Notice that the model numbers can look very similar. Here are the highlighted di
 
 ### **Pen support**
 
-* All the Wacom One (Gen 2) tablets are compatible with the new Wacom One Pen (Gen 2).&#x20;
+* All the Wacom One (Gen 2) tablets are compatible with the new Wacom One Pen (Gen 2).
 * This is good. It eliminates a huge source of confusion around pen compatibility.
 
 ### **Pen evolution**
 
 * One by Wacom (CTL-472, CTL-672) -> Wacom Pen 2K (LP-190K)
-* Intuos (CTL-4100\*, CTL-6100\*) -> Wacom Pen 4K (LP-1100K)&#x20;
+* Intuos (CTL-4100\*, CTL-6100\*) -> Wacom Pen 4K (LP-1100K)
 * Wacom One Pen (Gen 1) -> CP91300B2Z
 * Wacom One Pen (Gen 2) -> CP92303B2Z
 
@@ -65,26 +65,24 @@ So no improvements to pen pressure levels. As a reminder, all you really need ar
 ### Samsung Galaxy S compatibility
 
 * I confirmed both pens work with the Samsung Galaxy S8 Ultra.
-* I confirmed that the Samsung S Pen works with both the Wacom One (Gen 1) tablet and the Wacom One (Gen 2) tablets&#x20;
+* I confirmed that the Samsung S Pen works with both the Wacom One (Gen 1) tablet and the Wacom One (Gen 2) tablets
 
 ## <mark style="color:red;">**Pressure range \[UNDER INVESTIGATION]**</mark>
 
 ### <mark style="color:red;">Problem with pressure range</mark>
 
-The problem:&#x20;
+The problem:
 
-* The new Wacom One Pen (Gen 2) has a MUCH higher Initial Activation Force than the Wacom One Pen (Gen 2) &#x20;
+* The new Wacom One Pen (Gen 2) has a MUCH higher Initial Activation Force than the Wacom One Pen (Gen 2)
 * As a result the new Gen 2 pen has a noticeably smaller effective pressure range than the Gen 1 pen
-
-
 
 ### Effect of the pressure problem
 
-Summary: Even the lightest physical pressure you put on the pen will cause a higher pressure to be reported to the computer. This will interfere with your drawing.&#x20;
+Summary: Even the lightest physical pressure you put on the pen will cause a higher pressure to be reported to the computer. This will interfere with your drawing.
 
 Look at the effects in the Wacom Center's pressure test area below.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Location of the problem
 
@@ -95,22 +93,22 @@ The issue is the pen hardware.
 
 ## Explanation of the problem
 
-EMR pens sense pressure and report that pressure to the tablet which then passes it on to the computer.&#x20;
+EMR pens sense pressure and report that pressure to the tablet which then passes it on to the computer.
 
-To make it easy to explain let's simplify the problem. Pretend there are only 10 pressure levels that go from 0 to 9. 0 means no pressure. 9 means max pressure.&#x20;
+To make it easy to explain let's simplify the problem. Pretend there are only 10 pressure levels that go from 0 to 9. 0 means no pressure. 9 means max pressure.
 
 Keep two things in mind:
 
-* (a) What the pen is physically capable of detecting.&#x20;
+* (a) What the pen is physically capable of detecting.
 * (b) What the pen reports to the tablet.
 
 Essentially the new pen simply does not report the lower pressure values to the tablet.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-This can be observed in the pressure test region of the Wacom Center app. The blue bar at the bottom of the test area shows the current pressure. With the old pen I can keep the blue bar very small by applying light pressure. With the new pen no matter how little pressure I apply the blue bar won't get any smaller. &#x20;
-
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+This can be observed in the pressure test region of the Wacom Center app. The blue bar at the bottom of the test area shows the current pressure. With the old pen I can keep the blue bar very small by applying light pressure. With the new pen no matter how little pressure I apply the blue bar won't get any smaller.
+
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Testing scenarios
 
@@ -121,11 +119,11 @@ I have confirmed this issue in these cases
   * CTC-6110WL
 * On three 3 different machines
 * Using
-  * Wacom driver&#x20;
+  * Wacom driver
   * OpenTablet driver
 * With these applications
   * Krita
-  * Clip Studio Paint&#x20;
+  * Clip Studio Paint
 * With these Wacom tablets
   * Wacom One 13 touch (DTH-134) a pen display
   * Wacom One M (CTC-6110WL) a pen tablet
