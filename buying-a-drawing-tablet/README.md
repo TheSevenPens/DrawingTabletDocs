@@ -47,26 +47,37 @@ I own A LOT of drawing tablets. Although I don't write tablet reviews, I do shar
 
 <mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark> Throughout this buying guide, you'll see areas where pen tablets and pen computers are compared. More here: [**Pen tablets vs pen displays**](./#pen-tablets-vs-pen-displays)
 
-## Size
-
-Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/core-features/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
-
-## **ExpressKeys**&#x20;
-
-ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)
-
-## Model years
-
-Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
-
-General guidelines:&#x20;
-
-* **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
-* **Huion & XP-Pen** - I recommend you only get models released in 2021 or later. &#x20;
-
 ## The drawing experience
 
 Drawing with a drawing tablet ideally is very similar to drawing paper. But there are key differences. And especially there is a big difference between pen displays and pen tablets. You should absolutely understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](./#the-drawing-experience)
+
+## **Core drawing tablet features**
+
+### **Pressure**
+
+* **Number of pressure levels -** These days all tablet manufacturers list 8192 pressure levels. Realistically though 2048 is all you need.&#x20;
+* **Pressure range** - more important than number of pressure levels is the pressure range. Wacom pens are generally known for having a very wide pressure range including a very low Initial Activation Force (IAF) which makes it easier to draw finer lines. Read more about [**pressure**](../guides/core-features/pen-pressure.md).
+
+### **Tilt**
+
+* **Tilt** support can be very useful for for certain kinds of artwork. Though, many people rarely or never use this feature.
+* Wacom's consumer pen tablets such as **One by Wacom** and **Intuos** do not offer tilt. For some people that's fine since they never or rarely use tilt. Only Wacom's Intuos Pro line supports tilt.&#x20;
+* Non-Wacom brands tend to have tilt on every tablet no matter the cost.
+* Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
+
+### **Accuracy > EMR sensing resolution**&#x20;
+
+This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm.&#x20;
+
+Without getting into the details despite all manufacturers advertising 5080 LPI for their tablets, Wacom's resolution is better. Having said that, the ways in which other manufacturers are different will not be noticeable to you when drawing.
+
+### Accuracy > Diagonal wobble
+
+All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble/).
+
+### **ExpressKeys**&#x20;
+
+ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)
 
 ## Pen display topics
 
@@ -78,33 +89,23 @@ Drawing with a drawing tablet ideally is very similar to drawing paper. But ther
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
 
-## Surface protection
-
-The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets.md).
-
 ## Connectivity: wired and wireless
 
-Pen tablets can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth.
+**Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth.
 
-Pen displays require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display.&#x20;
+**Pen displays** require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display.&#x20;
 
 ## Power: power requirements
 
-Pen tablets require minimal amounts of power. They get enough power from a normal USB 2.0 port.
+**Pen tablets** require minimal amounts of power. They get enough power from a normal USB 2.0 port.
 
-Pen displays require much more power than a pen tablet due to the embedded display panel. They may have a power adapter that you need to plug into the wall. Or they may be able to be powered with through a USB-C cable.
+**Pen displays** require much more power than a pen tablet due to the embedded display panel. They may have a power adapter that you need to plug into the wall. Or they may be able to be powered with through a USB-C cable.
 
 ## Power: batteries
 
-Pen tablets that have wireless support have built-in batteries that can usually last the entire day and do recharge quickly when they are plugged back in.
+**Pen tablets** that have wireless support have built-in batteries that can usually last the entire day and do recharge quickly when they are plugged back in.
 
-Pen displays DO NOT have batteries. They must get their power from a cable that is either attached to a computer or to power coming from a wall.
-
-## Requirement to use a computer&#x20;
-
-* Pen tablets must be used with a computer.
-* Pen displays must be used with a computer.
-* Pen computers ARE computers and can be used by themselves.
+**Pen displays** DO NOT have batteries. They must get their power from a cable that is either attached to a computer or to power coming from a wall.
 
 ## Operating system information
 
@@ -123,65 +124,6 @@ If you have a 32-bit Windows computer, you should verify whether the tablet driv
 
 Wacom: [https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-](https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-)
 
-## Hardware reliability
-
-Pen tablets overall are much simpler devices than pen displays. As a consequence they are much more reliable.
-
-## Model names vs model numbers
-
-Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
-
-Here is an example. Wacom has two tablets with similar names but that are very different: **Wacom One** (a pen display) and **One by Wacom** (a pen tablet). More about the differences here: [Wacom One vs One by Wacom](../drawing-tablet-brands/wacom/wacom-one-vs-one-by-wacom.md)&#x20;
-
-* NEVER order by using the name of the tablet alone.
-* ALWAYS verify you have ordered correct model number.
-
-## Pointer lag
-
-The operating system pointer (i.e. the mouse pointer) will lag behind the physical tip of the pen as you move it.&#x20;
-
-* Pen tablets have virtually no pointer lag.
-* Apple iPads with the Apple pencil have very little pointer lag.&#x20;
-* Pen displays have very noticeable pointer lag. None come close to an iPad or a pen tablet. &#x20;
-
-If you are getting a pen display, then you should absolutely research how much pointer lag it has. More here: [**Lag**](../guides/core-features/lag.md)&#x20;
-
-## Surface texture
-
-If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper.
-
-Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
-
-## Right-handed vs left-handed use
-
-All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md).
-
-## **Pressure**
-
-* **Number of pressure levels -** These days all tablet manufacturers list 8192 pressure levels. Realistically though 2048 is all you need.&#x20;
-* **Pressure range** - more important than number of pressure levels is the pressure range. Wacom pens are generally known for having a very wide pressure range including a very low Initial Activation Force (IAF) which makes it easier to draw finer lines. Read more about [**pressure**](../guides/core-features/pen-pressure.md).
-
-## **Tilt**
-
-* **Tilt** support can be very useful for for certain kinds of artwork. Though, many people rarely or never use this feature.
-* Wacom's consumer pen tablets such as **One by Wacom** and **Intuos** do not offer tilt. For some people that's fine since they never or rarely use tilt. Only Wacom's Intuos Pro line supports tilt.&#x20;
-* Non-Wacom brands tend to have tilt on every tablet no matter the cost.
-* Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
-
-## **EMR sensing resolution**&#x20;
-
-This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm.&#x20;
-
-Without getting into the details despite all manufacturers advertising 5080 LPI for their tablets, Wacom's resolution is better. Having said that, the ways in which other manufacturers are different will not be noticeable to you when drawing.
-
-## Diagonal wobble
-
-All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble/).
-
-## Buying used drawing tablets
-
-If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used-drawing-tablets.md)    &#x20;
-
 ## Applications
 
 There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/).
@@ -198,13 +140,23 @@ So if you intend to using a drawing tablet for playing **osu!,** then **DO NOT**
 
 So for osu!, consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
 
-## Size / Thickness
+## Ergonomics
+
+### Size
+
+Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/core-features/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
+
+### Thickness
 
 Pen tablets are very then these days - about 8mm.
 
 Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm.&#x20;
 
-## Ergonomics
+### Surface texture
+
+If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper.
+
+Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
 
 ### Posture
 
@@ -226,11 +178,47 @@ Many pen displays (not not all) have foldable legs on the back. This allows you 
 
 Pen tablets do not have legs. If you want to place them at an angle, you will need to find some other solution.
 
+### Right-handed vs left-handed use
+
+All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md).
+
 ## Maintaining your tablet
 
 Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
 
-## Reviews&#x20;
+### Surface protection
+
+The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets.md).
+
+## Other guidance
+
+### Model years
+
+Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
+
+General guidelines:&#x20;
+
+* **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
+* **Huion & XP-Pen** - I recommend you only get models released in 2021 or later. &#x20;
+
+### Buying used drawing tablets
+
+If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used-drawing-tablets.md)    &#x20;
+
+### Hardware reliability
+
+Pen tablets overall are much simpler devices than pen displays. As a consequence they are much more reliable.
+
+### Model names vs model numbers
+
+Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
+
+Here is an example. Wacom has two tablets with similar names but that are very different: **Wacom One** (a pen display) and **One by Wacom** (a pen tablet). More about the differences here: [Wacom One vs One by Wacom](../drawing-tablet-brands/wacom/wacom-one-vs-one-by-wacom.md)&#x20;
+
+* NEVER order by using the name of the tablet alone.
+* ALWAYS verify you have ordered correct model number.
+
+### Reviews&#x20;
 
 <mark style="color:red;">**Never purchase a tablet without looking at the reviews first.**</mark>
 
