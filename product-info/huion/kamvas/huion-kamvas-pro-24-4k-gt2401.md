@@ -11,9 +11,9 @@
 
 ## My notes
 
-* [My notes on Huion Kamvas 24 Pro 4K](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-24-pro-4k.md)&#x20;
+* [My notes on Huion Kamvas 24 Pro 4K](../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-24-pro-4k.md)&#x20;
 * Notes:
-  * Exhibits moderate [anti-glare sparkle](../../guides/pen-displays/anti-glare-sparkle.md)
+  * Exhibits moderate [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
 
 ## Reviews
 

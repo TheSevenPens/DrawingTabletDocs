@@ -1,4 +1,4 @@
-# Huion Kamvas 24 Pro 4K (GT2401)
+# Huion Kamvas Pro 24 4K (GT2401)
 
 ## &#x20;Basics
 
@@ -11,5 +11,5 @@
 
 ## My notes
 
-* [My notes on Huion Kamvas 24 Pro 4K](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-24-pro-4k.md)&#x20;
-* Exhibits moderate [anti-glare sparkle](../../guides/pen-displays/anti-glare-sparkle.md)
+* [My notes on Huion Kamvas 24 Pro 4K](../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-24-pro-4k.md)&#x20;
+* Exhibits moderate [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)

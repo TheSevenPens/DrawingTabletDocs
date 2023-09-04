@@ -11,7 +11,7 @@
 
 ## My notes
 
-* Exhibits moderate [anti-glare sparkle](../../guides/pen-displays/anti-glare-sparkle.md) &#x20;
+* Exhibits moderate [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md) &#x20;
 
 ## Reviews
 

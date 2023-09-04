@@ -11,7 +11,7 @@
 
 ## My notes
 
-* Exhibits very strong [anti-glare sparkle](../../guides/pen-displays/anti-glare-sparkle.md)
+* Exhibits very strong [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
 
 ## Reviews
 

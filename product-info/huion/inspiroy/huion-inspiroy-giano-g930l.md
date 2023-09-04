@@ -10,7 +10,7 @@
 
 ## My notes
 
-* [My notes on Huion Giano G930L](../../7p-notes/7p-notes-huion/7p-notes-huion-giano-g930l.md)  &#x20;
+* [My notes on Huion Giano G930L](../../../7p-notes/7p-notes-huion/7p-notes-huion-giano-g930l.md)  &#x20;
 
 ## Reviews
 

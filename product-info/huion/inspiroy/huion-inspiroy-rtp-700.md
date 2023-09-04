@@ -10,4 +10,4 @@
 
 ## My notes
 
-* [My notes on Huion Inspiroy RTP-700](../../7p-notes/7p-notes-huion/7p-notes-huion-rtp-700.md)
+* [My notes on Huion Inspiroy RTP-700](../../../7p-notes/7p-notes-huion/7p-notes-huion-rtp-700.md)

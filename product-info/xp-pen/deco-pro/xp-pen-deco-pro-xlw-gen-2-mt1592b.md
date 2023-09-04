@@ -4,7 +4,7 @@
 
 * Product site: [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)&#x20;
 * 7PENS owns: YES
-* [My notes on this tablet](../../7p-notes/7p-notes-xp-pen/7p-notes-xp-pen-deco-pro-xlw-gen-2-mt1592b.md) &#x20;
+* [My notes on this tablet](../../../7p-notes/7p-notes-xp-pen/7p-notes-xp-pen-deco-pro-xlw-gen-2-mt1592b.md) &#x20;
 
 ## Reviews
 
