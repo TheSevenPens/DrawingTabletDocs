@@ -15,7 +15,7 @@ Removing them manually is challenging, so use this tool provided by the OpenTabl
 * Download [TabletDriverCleanup.zip](https://github.com/X9VoiD/WinUSBCleanup/releases/latest)&#x20;
 * Extract all contents of the zip file to any location
 * Right-click on `TabletDriverCleanup.exe` and click **Run as administrator**&#x20;
-* the cleanup tool will open a terminal window and show the results of its cleaning. In the example below it did not find any leftover driver components to uninstall.
+* The cleanup tool will open a terminal window and show the results of its cleaning. In the example below it did not find any leftover driver components to uninstall.
   * ![](<../../.gitbook/assets/Screenshot 2023-03-01 125517.png>)
 
 ##
