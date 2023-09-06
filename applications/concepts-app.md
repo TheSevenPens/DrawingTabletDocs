@@ -7,6 +7,7 @@
 
 ## Videos
 
+* Concepts App - Start Creating with Concepts in Only Ten Minutes ([https://youtu.be/tO-q6PTHKnE](https://youtu.be/tO-q6PTHKnE)) Sep 1, 2023
 * Teoh on Tech - Why I prefer Concepts over Procreate Aug 1, 2022 ([https://youtu.be/5ORoSQ8Q0fM](https://youtu.be/5ORoSQ8Q0fM))
 * Teoh on Tech - My Digital Art Style & Concepts app workflow Jan 10, 2023 ([https://youtu.be/w2Jt40q4nus](https://youtu.be/w2Jt40q4nus))
 * Teoh on Tech - 10 more tips for Concepts App Apr 15, 2023([https://youtu.be/z46PvZnw1\_E](https://youtu.be/z46PvZnw1\_E))
