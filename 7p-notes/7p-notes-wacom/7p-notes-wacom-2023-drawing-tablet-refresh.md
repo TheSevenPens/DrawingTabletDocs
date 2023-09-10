@@ -27,8 +27,8 @@ This diagram is my summary how their consumer line of tablets is evolving
 
 To disambiguate the discussion the tablets:
 
-* I will refer to this new series launched in 2023 as "Wacom One (Gen 2)" even though Wacom is just calling it "Wacom One"
-* I will refer the the old series as "Wacom One (Gen 1)" because this is what Wacom is calling it. Though sometimes it is referred to as "Wacom One 2019 (Gen 1)"
+* I will refer to this new series launched in 2023 as "Wacom One (GEN2)" even though Wacom is just calling it "Wacom One"
+* I will refer the the old series as "Wacom One (GEN1)" because this is what Wacom is calling it. Though sometimes it is referred to as "Wacom One 2019 (GEN1)"
 
 ## Fate of the One by Wacom series
 
@@ -41,13 +41,11 @@ To disambiguate the discussion the tablets:
 
 * **Purchase advice:** Because there are many similarly named tables: <mark style="color:red;">**ALWAYS LOOKING AT THE MODEL NUMBERS**</mark> if you are going to make a purchase
 
-## Intuos Pro
-
-* No mention made of the Intuos Pro series.&#x20;
+&#x20;
 
 ## **Wireless support for pen tablets**&#x20;
 
-The Wacom One (Gen 2) pen tablets all support wireless as indicated by their model numbers that include the "WL" code.&#x20;
+The Wacom One (GEN2) pen tablets all support wireless as indicated by their model numbers that include the "WL" code.&#x20;
 
 ## **Pressure problems**
 
