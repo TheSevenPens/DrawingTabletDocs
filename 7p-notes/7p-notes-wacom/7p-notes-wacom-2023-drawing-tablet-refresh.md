@@ -1,12 +1,8 @@
 # 7P notes: Wacom 2023 drawing tablet refresh
 
-Last updated: 10/8/2023 8:10PM PST
+Last updated: 9/10/2023 4:00PM PST
 
-On Aug 10 2023, Wacom started rolling out new consumer drawing tablets. These are my notes on what I am learning about the tablets. My goal is to make it easier to understand how these new products relate to what is in market today.
 
-I'll keep updating as a learn more.
-
-Send feedback to @thesevenpens on twitter.
 
 ## 4 new consumer drawing tablets announced
 
@@ -14,11 +10,6 @@ Send feedback to @thesevenpens on twitter.
 * Wacom One 12 (DTC-121) a pen display
 * Wacom One S (CTC-4110WL) a pen tablet
 * Wacom One M (CTC-6110WL) a pen tablet
-
-On Wacom's website you may see some other things that look like model numbers
-
-* DTCW2AB -> seems to be a series identifier referring to the new pen displays (DTH-134, DTC-121)
-* CTCW1AB -> seems to be a series identifier referring to the new pen tablets (CTC-4110WL, CTC-6110WL)
 
 ## Understanding product evolution
 
@@ -58,11 +49,15 @@ To disambiguate the discussion the tablets:
 
 The Wacom One (Gen 2) pen tablets all support wireless as indicated by their model numbers that include the "WL" code.&#x20;
 
-## **Pen**
+## **Pressure problems**
 
-<mark style="color:red;">**PLEASE READ THIS INFORMATION ABOUT THE NEW GEN 2 PEN. I AM CURRENTLY INVESTIGATING AN ISSUE WITH IT. I RECOMMEND YOU DON'T GET THE NEW PEN UNTIL MY INVESTGATION HAS CONCLUDED.**</mark>
+The Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues.
 
-**See this:**[ 7p notes: Wacom One Pen (Gen 2](7p-notes-wacom-one-pen-gen-2.md))&#x20;
+See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
+
+## Notes on the new Wacom One Pen (GEN2)
+
+**See this:**[ 7p notes: Wacom One Pen (GEN2](7p-notes-wacom-one-pen-gen-2.md))&#x20;
 
 ### **Pressure levels**
 
