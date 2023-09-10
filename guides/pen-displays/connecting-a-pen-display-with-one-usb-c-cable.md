@@ -26,7 +26,6 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 **Cables tested**
 
-* Unknown USB-C cable confirmed to support enough power, data, and display signal
 * CableMatters \[Intel Certified] 20Gps Thunderbolt 3 cable (6.6 ft) supporting 100W charging. ([amazon link](https://www.amazon.com/dp/B01AS8U9KE))
 
 **Cable end thickness**
@@ -38,45 +37,50 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 Port used on tablet: Lower USB-C port
 
-* Unknown USB-C cable: VERIFIED TO WORK.
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
 
 **Huion Kamvas Pro 13 2.5K (GT1302)**
 
 Port used on tablet: Upper USB-C port
 
-* Unknown USB-C cable: VERIFIED TO WORK.
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
 
 **Huion Kamvas Pro 16 Plus 4k (GT1562)**
 
 Port used on tablet: Lower USB-C port&#x20;
 
-* Unknown USB-C cable: VERIFIED TO WORK.
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
 
-**XP Pen Artist 12 2nd Gen (CD120FH)**
+**XP-Pen Artist 12 (Gen2)  (CD120FH)**
 
 Port used on tablet: Upper USB-C port
 
-* Unknown USB-C cable: VERIFIED TO WORK.
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
 
-&#x20;**XP Pen Artist 13 2nd Gen (CD130FH)**
+&#x20;**XP-Pen Artist 13 (Gen2)  (CD130FH)**
 
 Port used on tablet: Upper USB-C port
 
-* Unknown USB-C cable: VERIFIED TO WORK.
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
 
-**Wacom One 12 "(Gen 2)" (DTC-121)**
+**XP-Pen Artist Pro 16 (Gen2) (MD160QH)**
 
-* Unknown USB-C cable: NOT TESTED
+* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
+
+**Wacom One 13 touch (Gen2) (DTH-134)**
+
+Port used on tablet: Left USB-C port
+
+* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
+
+**Wacom One 12 (Gen2) (DTC-121)**
+
+Port used on tablet: Left USB-C port
+
 * CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.&#x20;
 
-**Wacom One (Gen 1) (DTC-133)**
+**Wacom One (Gen1) (DTC-133)**
 
-* Unknown USB-C cable: VERIFIED TO **NOT WORK**
 * CableMatters Thunderbolt 3 cable: VERIFIED TO **NOT WORK**.
 
 ## Resources
