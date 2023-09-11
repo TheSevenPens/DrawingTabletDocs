@@ -183,7 +183,7 @@
   * [Troubleshoot hooks at start of strokes](troubleshooting/troubleshoot-hooks-at-start-of-strokes.md)
   * [Troubleshoot shoelaces at end of strokes](troubleshooting/troubleshoot-shoelaces-at-end-of-strokes.md)
   * [Troubleshoot straight lines at start of stokes](troubleshooting/troubleshoot-straight-lines-at-start-of-stokes.md)
-  * [Troubleshoot pen not drawing inside vertical or horizontal bands across tablet](troubleshooting/troubleshoot-pen-not-drawing-inside-vertical-or-horizontal-bands-across-tablet.md)
+  * [Troubleshoot pen not drawing in vertical or horizontal bands](troubleshooting/troubleshoot-pen-not-drawing-inside-vertical-or-horizontal-bands-across-tablet.md)
   * [Troubleshoot WiFi and Internet problems with drawing tablets](troubleshooting/troubleshoot-wifi-and-internet-problems-with-drawing-tablets.md)
   * [Troubleshoot tablet not connected](troubleshooting/troubleshoot-tablet-not-connected.md)
   * [Testing pressure in the tablet driver](troubleshooting/testing-pressure-in-the-tablet-driver.md)

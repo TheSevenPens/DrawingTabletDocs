@@ -1,29 +1,36 @@
-# Troubleshoot pen not drawing inside vertical or horizontal bands across tablet
+# Troubleshoot pen not drawing in vertical or horizontal bands
 
-This will manifest as a vertical or horizontal area that the pen seems to ignore. This region will extend across the fulla active area of the tablet.
+## Overview
 
-If you draw strokes they will be missing area
+This will manifest as a vertical or horizontal bands that the pen seems to ignore. These bands will extend across the full active area of the tablet.
 
-Horizontal bands
+## Examples
 
+If normal strokes look like this:
 
+![](<../.gitbook/assets/7P Pen skipping bands - NONE.png>)
 
+Then missing horizontal bands will look like this:
 
+![](<../.gitbook/assets/7P Pen skipping bands - horizontal.png>)
 
-Causes
+And missing vertical bands will look like this:
 
-* Usually it seems to be a hardware issue
-* It might also be cause be interference
+![](<../.gitbook/assets/7P Pen skipping bands - vertical.png>)
 
-Things to try
+## Causes
 
-* Basics
-  * Restart computer
-  * Reinstall driver
-  * Test tablet with another computer
-  * If the problem persists, [**contact support**](../guides/general/contacting-support.md).
+* Usually it seems to be a hardware issue. Something is wrong with the tablet itself.
+* It **might** also be cause be electromagnetic interference
 
-Reddit threads
+## Things to try
+
+* Restart computer
+* Reinstall driver
+* Test tablet with another computer
+* If the problem persists, [**contact support**](../guides/general/contacting-support.md).
+
+## Reddit threads
 
 * [https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/](https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/)&#x20;
 *
