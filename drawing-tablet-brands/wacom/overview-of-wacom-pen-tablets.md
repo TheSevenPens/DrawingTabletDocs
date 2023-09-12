@@ -12,11 +12,11 @@ More here: [7P notes: Wacom 2023 drawing tablet refresh](../../7p-notes/7p-notes
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet.
 
-Wacom has three separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
+Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
 
 ## Basic information (model numbers, sizes, prices)
 
-<figure><img src="../../.gitbook/assets/7P SLIDE current wacom tablets (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Product pages
 
@@ -28,9 +28,14 @@ Wacom has three separate lines of pen tablets. This document will help you under
 
 When I refer to the model names - it means the exact model numbers shown above.
 
-## One by Wacom vs Wacom One
+## Wacom One GEN2 pen tablets
 
-The **One by Wacom** is different than the **Wacom One**. Very different. It's a source a lot of confusion for people so be sure to read this document:  [Wacom One vs One by Wacom](wacom-one-vs-one-by-wacom.md)&#x20;
+These are intended to be upgrades to the consumer level Intuos tablets.
+
+Currently they suffer from pressure issues and I do not recommend purchasing them
+
+* Wacom One S GEN2 (CTC-4110WL)&#x20;
+* Wacom One M GEN2 (CTC-6110WL)&#x20;
 
 ## Wacom recommendation summary
 
