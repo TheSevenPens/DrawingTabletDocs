@@ -2,7 +2,11 @@
 
 Last updated: 9/10/2023 4:00PM PST
 
+## <mark style="color:red;">**I currently do not recommend these tablets**</mark>
 
+The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues.
+
+See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
 ## 4 new consumer drawing tablets announced
 
@@ -47,7 +51,7 @@ To disambiguate the discussion the tablets:
 
 The Wacom One (GEN2) pen tablets all support wireless as indicated by their model numbers that include the "WL" code.&#x20;
 
-## **Pressure problems**
+## <mark style="color:red;">**Pressure problems**</mark>
 
 The Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues.
 
