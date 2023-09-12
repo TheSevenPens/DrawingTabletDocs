@@ -17,16 +17,16 @@
 ## $300 to $500
 
 * SMALL [**Wacom One 2019 Gen 1**](../../product-info/wacom/wacom-one/wacom-one-dtc-133.md) (DTC-133) $400&#x20;
-* SMALL **Wacom One 12** (DTC-121) $?? <mark style="color:red;">**STILL UNDER EVALUATION**</mark>
-* <mark style="color:red;">MEDIUM</mark> <mark style="color:red;"></mark><mark style="color:red;">**NOT RECOMMENDED:**</mark> [**XP-Pen Artist 16 (2nd Gen)** (CD160FH)](../../product-info/xp-pen/xp-pen-artist/xp-pen-artist-16-2nd-gen-cd160fh-1.md) $400
+* SMALL **Wacom One 12** (DTC-121) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
+* SMALL [**XP-Pen Artist 16 Gen2** (CD160FH)](../../product-info/xp-pen/xp-pen-artist/xp-pen-artist-16-2nd-gen-cd160fh-1.md) $400 <mark style="color:red;">**UNDER EVALUATION**</mark>
 * LARGE [**Huion Kamvas 22** (GS2201)](../../product-info/huion/huion-kamvas/huion-kamvas-22-gs2201.md) $450
 
 ## **$500 to $1000**
 
-* SMALL **Wacom One 13 touch** (DTH-134) $?? <mark style="color:red;">**STILL UNDER EVALUATION**</mark>
+* SMALL **Wacom One 13 touch** (DTH-134) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * MEDIUM [**Wacom Cintiq 16** (DTK-1660)](../../product-info/wacom/wacom-cintiq/wacom-cintiq-16-dtk-1660.md) $650
 * MEDIUM [**Huion Kamvas Pro 16 Plus 4k** (GT1562)](../../product-info/huion/huion-kamvas-pro/huion-kamvas-pro-16-plus-4k-gt1562.md) $900
-* MEDIUM XP-Pen Artist Pro 16 (Gen 2) (MD160QH) $??? <mark style="color:red;">**STILL UNDER EVALUATION**</mark>
+* MEDIUM **XP-Pen Artist Pro 16 GEN2** (MD160QH) $600 <mark style="color:red;">**UNDER EVALUATION**</mark>
 * LARGE [**Huion Kamvas 22 Plus** (GS2202)](../../product-info/huion/huion-kamvas/huion-kamvas-22-plus-gs2202.md) $550&#x20;
 * LARGE [**Huion Kamvas 24 Plus** (GS2402)](../../product-info/huion/huion-kamvas/huion-kamvas-24-plus-gs2402.md) $900&#x20;
 
