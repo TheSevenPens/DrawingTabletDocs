@@ -1,13 +1,5 @@
 # Overview of Wacom pen tablets
 
-## Wacom's lineup of pen tablets is changing
-
-{% hint style="info" %}
-As of Aug 10 2023, Wacom has announced new consumer tablets. I am evaluating them now and plan to update [**my recommendations**](../../buying-a-drawing-tablet/recommendations/) in September 2023. Until I finish my evalution, I do not recommend purchasing those tablets.
-
-More here: [7P notes: Wacom 2023 drawing tablet refresh](../../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
-{% endhint %}
-
 ## Overview
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet.
@@ -36,6 +28,8 @@ Currently they suffer from pressure issues and I do not recommend purchasing the
 
 * Wacom One S GEN2 (CTC-4110WL)&#x20;
 * Wacom One M GEN2 (CTC-6110WL)&#x20;
+
+More here: [7P notes: Wacom 2023 drawing tablet refresh](../../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
 
 ## Wacom recommendation summary
 
