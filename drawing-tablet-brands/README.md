@@ -98,12 +98,16 @@ Like Wacom they both have a wide variety of products available.
 
 * Good price vs cost
 * Their latest offerings since 2020 are very usable for creative tasks.
-* They introduce new models frequently - much more often than Wacom&#x20;
+* They introduce new models frequently - much more often than Wacom.
+* Their consumer level tablets tend to have more features than Wacom's consumer models (tilt &  tablet buttons, dials, knobs)
 
 ### How Huion and XP-PEN could do better
 
+* Huion pen displays - especially the high PPI ones tend to show more AG sparkle. more here: [Anti-glare sparkle](../guides/pen-displays/anti-glare-sparkle.md).
+* XP-pen tablets tend to exhibit slightly more pointer lag than Wacom or Huion. More here: [lag](../guides/core-features/lag.md).
 * Improve their Core EMR tech and specs - while on paper equivalent to Wacom are still trailing. For many artists they may not notice this, but tablet enthusiasts do certainly notice it. (Will be a topic for a future video)
 * Improve customer support. Both Huion and XP-Pen struggle with customer support. They tend to take more time to respond.&#x20;
+* Reliability - Huion and XP-pen a little lag behind Wacom. &#x20;
 * They offer too many products - with new models (with newer tech) and older models (with older tech) sitting alongside them. This makes it confusing to buyers.
 * They should monitor and answer questions on [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/) and [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
 
