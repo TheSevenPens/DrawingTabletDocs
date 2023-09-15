@@ -41,6 +41,7 @@ These are various options people have reported using.
 
 * North Bayou F100A
 * North Bayou F80
+  * [https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/](https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/)
 * Ergotron HX&#x20;
 * Ergotron LX
 
