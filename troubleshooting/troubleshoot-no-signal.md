@@ -10,15 +10,15 @@ On some displays the message is "NO SIGNAL. POWER SAVING".&#x20;
 
 In this guide, I'll provide every tactic I know about to help. But I also, want you to be prepared that it may be unresolvable and you may need to contact your tablet manufacturer.
 
-### Why it says "NO SIGNAL. POWER SAVING"
+### Why it might say "NO SIGNAL. POWER SAVING"
 
-At first glace the message "NO SIGNAL. POWER SAVING" may indicate that there is a power problem.
+For some tablets, the NO SIGNAL message says something about power - a message like "NO SIGNAL. POWER SAVING".
 
-But that's not what this message means.
+The "POWER SAVING" does NOT indicate a power power problem.
 
-It means "The pen display am not receiving a display signal. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down."
+It means "The pen display is not receiving a display signal from the computer. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down."
 
-So, ultimately it is a power saving message.  &#x20;
+So, ultimately it is trying to be helpful to save you money, not to tell you that the tablet is having problems getting enough power.
 
 ## What you computer thinks of pen displays
 
