@@ -54,6 +54,8 @@ Each product line uses different pens. And the pens can only be used within that
 
 * One by Wacom
   * Wacom Pen 2K (LP-190K) <- this is default pen that comes with the tablet
+* Wacom One
+  * Wacom One Pen GEN2 (CP-923)&#x20;
 * Intuos
   * Wacom Pen 4K (LP-1100K) <- this is default pen that comes with the tablet
 * Intuos Pro
@@ -89,9 +91,10 @@ Each product line uses different pens. And the pens can only be used within that
 
 Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) &#x20;
 
-**Pressure levels**
+**Tablet support for pressure levels**
 
 * One by Wacom ->2048
+* Wacom One GEN -> 4096
 * Intuos -> 4096
 * Intuos Pro -> 8192&#x20;
 
@@ -122,6 +125,7 @@ The Pro Pen 2 has the greatest range, followed by the Wacom Pen 2K, and then the
 Notice that **tilt** is only supported on the Intuos Pro models. Not all art requires tilt, some artists use that feature but many do not
 
 * One by Wacom -> no tilt
+* Wacom One GEN2 -> supports tilt
 * Intuos -> no tilt
 * Intuos Pro -> supports tilt
 
@@ -134,6 +138,7 @@ Lean more here: [**Pen tilt**](../../guides/core-features/pen-tilt.md)&#x20;
 Resolution means how many separate points the tablet can distinguish (i.e. resolve) in a given length. This is specified as Lines Per Inch (LPI) though it is also useful to think about it as lines per millimeter (LPMM)
 
 * One by Wacom -> 2048 LPI = 80.62 LPMM
+* Wacom One GEN2 = Unknown
 * Intuos -> 2540 LPI = 100 LPMM
 * Intuos Pro -> 5080 LPI = 200 LPMM&#x20;
 
@@ -145,17 +150,18 @@ Accuracy = tablet & computer know the correct position of the tip of the pen.
 
 As far as I have observed all three tablets are very accurate.
 
-## Accuracy / Cursor lag&#x20;
+## Accuracy / Pointer lag&#x20;
 
-Cursor lag is the difference between the physical position of the pen and where the operating system pointer (the cursor) is drawn.
+Pointer lag is the difference between the physical position of the pen and where the operating system pointer is drawn.
 
-Pen tablets in general display very little cursor lag. In comparison, all pen displays all show very noticeable lag.
+Pen tablets in general display very little pointer lag. In comparison, all pen displays all show very noticeable lag.
 
-* One by Wacom -> almost no cursor lag
-* Intuos -> very minor cursor lag
-* Intuos Pro -> almost not cursor lag
+* One by Wacom -> almost no pointer lag
+* Wacom One GEN2 -> very minor pointer lag
+* Intuos -> very minor pointer lag
+* Intuos Pro -> almost no pointer lag
 
-For creative tasks, I don't think you would notice the slightly greater lag of the Intuos models. But if you do want to least lag possible, then the One by Wacom or Intuos Pro will give you that.
+For creative tasks, the pointer lag of any of these tablets is not noticable.
 
 Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
 
@@ -163,22 +169,22 @@ Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
 
 The Intuos Pro models exhibit less wobble than the Intuos of One by Wacom. But all three are acceptable.&#x20;
 
-Learn more here: [Diagonal wobble](../../guides/core-features/diagonal-wobble/)&#x20;
-
 You can find Wacom diagonal wobble samples here: [Wacom diagonal wobble samples](../../guides/core-features/diagonal-wobble/wacom-diagonal-wobble-examples.md)
 
-## Smoothing
+## Position smoothing
 
-The cause of the increased cursor lag in the Intuos is that the tablet hardware processes the pen position data to make it smoother.
+Position smoothing can cause extra pointer lag.
 
 * One by Wacom -> no hardware smoothing
+* Wacom One GEN2 -> unknown
 * Intuos -> no hardware smoothing when drawing/dragging. hardware smoothing on hover.
 * Intuos Pro -> no hardware smoothing
 
 ## Wireless/Bluetooth
 
 * One by Wacom -> does NOT support wireless
-* Intuos -> The models with WL in their name support wireless with Bluetooth
+* Wacom One GEN2 -> these pen tablets all suport wirless via Bluetooth
+* Intuos -> The models with WL in their name support wireless via Bluetooth
 * Intuos Pro -> all models support wireless via Bluetooth
 
 ## USB port on tablet
@@ -186,8 +192,9 @@ The cause of the increased cursor lag in the Intuos is that the tablet hardware 
 The consumer series use older USB ports than the professional series.
 
 * One by Wacom -> Micro USB B
+* Wacom One GEN2 -> USB-C
 * Intuos -> Micro USB B
-* Intuos Pro -> USB C
+* Intuos Pro -> USB-C
 
 A photo of a micro USB B plug
 
@@ -219,11 +226,13 @@ The size of the tablet is based on it's active area which is the region on the t
 
 * One by Wacom SMALL (CTL-472) -> 5.98in x 3.74in, diag=7.06in
 * One by Wacom MEDIUM (CTL-672) -> 8.5in x 5.31in, diag = 10.03in
-* Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) -> 5.98in x 3.74in diag=7.06in
-* Wacom Intuos MEDIUM (CTL-6100WL) -> 8.5in x 5.31in diag=10.03
-* Intuos Pro Intuos Pro SMALL (PTH-460) -> 6.30in x 3.94in diag=7.43
-* Intuos Pro MEDIUM (PTH-660) -> AR = 8.82in x 5.83in diag = 10.57
-* Intuos Pro LARGE (PTH-860) -> AR = 12.34in x 8.50in diag=14.91
+* Wacom One S (CTC-411WL) -> 5.98in x 3.74in, diag=7.06in
+* Wacom One M (CTC-611WL) -> 8.5in x 5.31in, diag=10.03
+* Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) -> 5.98in x 3.74in, diag=7.06in
+* Wacom Intuos MEDIUM (CTL-6100WL) -> 8.5in x 5.31in, diag=10.03
+* Intuos Pro Intuos Pro SMALL (PTH-460) -> 6.30in x 3.94in, diag=7.43
+* Intuos Pro MEDIUM (PTH-660) -> AR = 8.82in x 5.83in, diag = 10.57
+* Intuos Pro LARGE (PTH-860) -> AR = 12.34in x 8.50in, diag=14.91
 
 <figure><img src="../../.gitbook/assets/7P SLIDE Wacom Pen Tablet Sizes.png" alt=""><figcaption></figcaption></figure>
 
@@ -233,6 +242,8 @@ The aspect ratios of all these tablets vary.
 
 * One by Wacom SMALL (CTL-472) -> AR = 1.44
 * One by Wacom MEDIUM (CTL-672) -> AR = 1.47
+* Wacom One S (CTC-411WL) -> AR=1.60
+* Wacom One M (CTC-611WL) -> AT=1.60
 * Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) -> AR=1.60
 * Wacom Intuos MEDIUM (CTL-6100WL) -> AR=1.60
 * Intuos Pro Intuos Pro SMALL (PTH-460) -> AR = 1.440
@@ -273,21 +284,23 @@ In any case, I advise everyone to always pay attention to their nibs and replace
 
 ## Future versions
 
-Wacom has not updated these product lines in a few years. This is understandable, there's nothing wrong with these models.&#x20;
+The Intuos models were recently updated in AUgust of 2023, being replaced by the One by Wacom pen tablets.
 
-Having said that since Wacom has upgraded its professional Cintiq line of pen displays in late 2022, there is a natural expectation that updates to their pen tablets may be coming. Wacom has unfortunately not signaled anything about new pen tablet products.
+Wacom has not updated the other tablet series in a few years. This is understandable, there's nothing wrong with these models.&#x20;
+
+Having said that since Wacom has upgraded its professional Cintiq line of pen displays in late 2022, there is a natural expectation that updates to their Intuos Pro pen tablets may be coming. Wacom has unfortunately not signaled anything about new Intuos Pro pen tablet products.
 
 ## Notes on pen tablet models
 
-### Intuos Pro (Gen 1 and Gen 2)
+### Intuos Pro (GEN1 and GEN2)
 
 There are two Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
 
-* The current generation (sometimes referred to as "Gen 2")
+* The current generation (sometimes referred to as "GEN2")
   * Intuos Pro Small (PTH-460) -> 2019
   * Intuos Pro Medium (PTH-660) -> 2017
   * Intuos Pro Large (PTH-860) -> 2017
-* The older generation (sometimes referred to as "Gen 1")
+* The older generation (sometimes referred to as "GEN2")
   * Intuos Pro Large (PTH-851) -> 2013
   * Intuos Pro Medium (PTH-651) -> 2013
   * Intuos Pro Small (PTH-451) -> 2013
