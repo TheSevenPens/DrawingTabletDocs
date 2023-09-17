@@ -169,7 +169,7 @@ Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
 
 The Intuos Pro models exhibit less wobble than the Intuos of One by Wacom. But all three are acceptable.&#x20;
 
-You can find Wacom diagonal wobble samples here: [Wacom diagonal wobble samples](../../guides/core-features/diagonal-wobble/wacom-diagonal-wobble-examples.md)
+You can find Wacom diagonal wobble samples here: [Wacom diagonal wobble samples](broken-reference)
 
 ## Position smoothing
 
