@@ -2,8 +2,11 @@
 
 Pen support is OS-specific. You'll have to find an use the proper pen APIs on your operating System.
 
-## **Windows**
+## **Windows**&#x20;
 
+Windows has several APIs to talk to drawing tablets
+
+* [**Windows PNP support for drawing tablets**](../windows/windows-pnp-support-for-drawing-tablets.md) - This is incredibly rudimentary support. &#x20;
 * **WinTab** - [https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab](https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab) This is the older but still heavily used API. Even though the API is defined by Wacom, other graphics tablet manufacturers use this same API.
 * **Windows Ink** [https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough](https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough) This is the newer and much more sophisticated API.
 
