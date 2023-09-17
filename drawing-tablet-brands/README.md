@@ -23,17 +23,15 @@ Other tablet brands started appearing in the 2000s
 
 For a long time these brands lagged behind Wacom’s technology. For example, they would often have pens that required a battery whereas all of Wacom's pens have always been batteryless - And instead get their power from just being close to the tablet. The reason these other tablet brands lagged behind for a while was very simple: Wacom held the core patents for drawing tablets. Eventually those patents expired (before 2010 if I recall correctly) and these other brands could then use EMR technology.&#x20;
 
-## Current state of the market
+## Current state of the market (2023)
 
-So as of 2023 the situation is something like this:
-
-* Wacom continues to make the highest quality and most reliable tablets. But also they are the most expensive
-  * Wacom's pro line of pen tablets (intuos pro) are easily the best pen tablets ever made
-  * Wacom's pro line of pen displays (cintiq pro) are easily the best pen displays ever made
-* Huion and XP pen since about 2021 have been releasing some really solid devices
+* **Wacom** continues to make the highest quality and most reliable tablets. But also they are the most expensive
+  * Wacom's pro line of pen tablets (intuos pro) continue to be the best pen tablets ever made
+  * Wacom's pro line of pen displays (cintiq pro) continue to be the best pen displays ever made
+* **Huion and XP** pen since about 2021 have been releasing some really solid devices
   * And although they have a large lineup of products that can be a little confusing
   * And if you're looking at their very latest tablets that are being released in 2022 or 2023 - these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
-* Xencelabs (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support.&#x20;
+* **Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support.&#x20;
 * And after those four brands there are many others that seem to focus more on budget consumer offerings.
 
 ## Feature availability
@@ -97,7 +95,7 @@ Like Wacom they both have a wide variety of products available.
 ## What HUION and XP-PEN do well:
 
 * Good price vs cost
-* Their latest offerings since 2020 are very usable for creative tasks.
+* Their latest offerings since 2021 are very usable for creative tasks.
 * They introduce new models frequently - much more often than Wacom.
 * Their consumer level tablets tend to have more features than Wacom's consumer models (tilt &  tablet buttons, dials, knobs)
 
@@ -110,9 +108,6 @@ Like Wacom they both have a wide variety of products available.
 * Reliability - Huion and XP-pen a little lag behind Wacom. &#x20;
 * They offer too many products - with new models (with newer tech) and older models (with older tech) sitting alongside them. This makes it confusing to buyers.
 * They should monitor and answer questions on [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/) and [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
-
-### Unknowns&#x20;
-
 * Long-term reliability unknown compared to Wacom. This can't be helped, they have only been around since 2011 (Huion) and 2005 (XP-Pen). And their true EMR tablets (the ones where the pens do not have a battery) have only been around since the late 2010s.
 
 ### Tablets I own:
@@ -208,9 +203,8 @@ However it is also true that online forums can be a great source to help you mak
 
 ## Discussions
 
-[https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - pod has great comments on some things he thinks wacom does better. This is in response to someone saying their pen feels weird.
-
-[https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) -= brands compared
+* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - pod has great comments on some things he thinks wacom does better. This is in response to someone saying their pen feels weird.
+* [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) -= brands compared
 
 &#x20;
 
