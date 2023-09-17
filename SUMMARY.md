@@ -132,7 +132,7 @@
     * [7P notes: Huion RTP-700](7p-notes/7p-notes-huion/7p-notes-huion-rtp-700.md)
     * [7P notes: Huion Inspiroy Dial 2](7p-notes/7p-notes-huion/7p-notes-huion-inspiroy-dial-2.md)
   * [7P notes: Wacom](7p-notes/7p-notes-wacom/README.md)
-    * [7P notes: Wacom 2023 drawing tablet refresh](7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)
+    * [7P notes: Wacom One GEN2 drawing tablets](7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)
     * [7P notes: Wacom One Pen (GEN2) (CP-923)](7p-notes/7p-notes-wacom/7p-notes-wacom-one-pen-gen-2.md)
     * [7P notes: Wacom Intuos Pro (PTH-x60)](7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-pth-x60.md)
     * [7P notes: Wacom Pro Pen 3](7p-notes/7p-notes-wacom/7p-notes-wacom-pro-pen-3.md)

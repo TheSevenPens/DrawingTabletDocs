@@ -1,14 +1,12 @@
-# 7P notes: Wacom 2023 drawing tablet refresh
+# 7P notes: Wacom One GEN2 drawing tablets
 
 Last updated: 9/10/2023 4:00PM PST
 
 ## <mark style="color:red;">**I currently do not recommend these tablets**</mark>
 
-The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues.
+The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
-See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
-
-## 4 new consumer drawing tablets announced
+## List of Wacom One GEN2 tablets
 
 * Wacom One 13 touch (DTH-134) a pen display
 * Wacom One 12 (DTC-121) a pen display
@@ -130,7 +128,7 @@ The old Wacom One (Gen 1) pen display has legs on the back. You can lay the disp
 * Wacom One S - [https://101.wacom.com/userhelp/en/toc/ctc4110wl.html](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html)&#x20;
 * Wacom One M - [https://101.wacom.com/userhelp/en/toc/ctc6110wl.html](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html)
 
-## Wacom videos Wacom One (Gen 2)
+## Wacom videos&#x20;
 
 There are many videos on Wacom's youtube channel ([https://www.youtube.com/@wacom](https://www.youtube.com/@wacom)) showing various aspects of the Wacom One (Gen 2) series. Here are few select ones:&#x20;
 
@@ -141,11 +139,7 @@ There are many videos on Wacom's youtube channel ([https://www.youtube.com/@waco
 
 ## Legs
 
-The old Wacom One (Gen 1) pen display had foldable legs.
-
-The new model does not.
-
-Instead you must a separate stand.
+The old Wacom One (Gen 1) pen display had foldable legs. The new GEN pen displays do not. Instead you must a separate stand.
 
 Wacom is offering a very unique design for their stand.
 
@@ -153,7 +147,21 @@ Wacom is offering a very unique design for their stand.
 
 ## VESA mounting
 
-Neither the Wacom One (Gen 1) or the Wacom One (Gen 2) pen displays are vesa mountable.
+Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable.
+
+## Diagonal wobble
+
+### Wacom One 12 GEN2 (DTC-121)
+
+![](<../../.gitbook/assets/Wacom One 12 GEN2 (DTC-121) wobble.png>)
+
+### Wacom One 13 touch GEN (DTH-134)
+
+### ![](<../../.gitbook/assets/Wacom One 13 touch GEN2 (DTH-134) wobble.png>)
+
+### Wacom One M GEN2  (CTC-6110WL)
+
+![](<../../.gitbook/assets/Wacom M GEN2 (CTC-6110WL) wobble (1).png>)
 
 ## Reviews
 

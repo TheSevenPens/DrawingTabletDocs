@@ -43,17 +43,15 @@ If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on 
   * The wobble is present with EMR pens
   * The wobble is present with non-EMR pen technologies such as MPP, AES, and the Apple pencil.
 
-## Examples
+## Diagonal Wobble samples
 
-These examples were created by creating a 4K image in Krita and drawing a 10cm line over 3 seconds using a smooth plastic ruler.
+These examples were created by creating a 4K image in Krita and drawing (roughly) a 10cm line over 3 seconds using a smooth plastic ruler.
 
-* [Huion diagonal wobble examples](huion-diagonal-wobble-examples.md) &#x20;
-* [Wacom diagonal wobble examples](wacom-diagonal-wobble-examples.md) &#x20;
-* [XP-Pen diagonal wobble examples](xp-pen-diagonal-wobble-examples.md) &#x20;
+[https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC](https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC)
 
-### Diagonal wobble in XP-Pen&#x20;
+## Diagonal wobble in XP-Pen&#x20;
 
-Some recent models with XP-Pen feature some excessing [**diagonal wobble**](./). This is something you should check into when looking into these models.
+Some recent models with XP-Pen feature some excessive [**diagonal wobble**](./). This is something you should check into when looking into these models.
 
 Here are examples of of the line wobble in recent XP-Pen
 
