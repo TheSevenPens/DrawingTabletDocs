@@ -14,7 +14,7 @@ I covered wobble extensively in this video on pen display accuracy ([https://you
 
 If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on diagonal lines.
 
-<figure><img src="../../.gitbook/assets/Artboard 1-80.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Artboard 1-80.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Characteristics
 
@@ -51,13 +51,13 @@ These examples were created by creating a 4K image in Krita and drawing (roughly
 
 ## Diagonal wobble in XP-Pen&#x20;
 
-Some recent models with XP-Pen feature some excessive [**diagonal wobble**](diagonal-wobble.md). This is something you should check into when looking into these models.
+Some recent models with XP-Pen feature some excessive [**diagonal wobble**](./). This is something you should check into when looking into these models.
 
 Here are examples of of the line wobble in recent XP-Pen
 
 * XP Pen Deco LW 8:06 in this video : [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)
-* XP Pen Artist 16 (2nd gen) 7:04 in this video: [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)
-* XP Pen Artist 12 (2nd Gen) 5:45 in this video: [https://youtu.be/O6OzBT7BLsA?t=345](https://youtu.be/O6OzBT7BLsA?t=345)
+* XP Pen Artist 16 (GEN2) 7:04 in this video: [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)
+* XP Pen Artist 12 (GEN2) 5:45 in this video: [https://youtu.be/O6OzBT7BLsA?t=345](https://youtu.be/O6OzBT7BLsA?t=345)
 
 ## Discussions
 

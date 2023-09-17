@@ -73,7 +73,7 @@ Without getting into the details despite all manufacturers advertising 5080 LPI 
 
 ### Accuracy > Diagonal wobble
 
-All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble.md).
+All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble/).
 
 ### **ExpressKeys**&#x20;
 
