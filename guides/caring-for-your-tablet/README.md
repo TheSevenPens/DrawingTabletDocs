@@ -2,9 +2,7 @@
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
-Pens are the most sensitive component because they have some small parts and some moving parts.
-
-A fall onto a floor - especially if it hits the nib directly - can completely break the internals of your pen. The impact can make the pen completely non-functional or make it stop working in specific ways.
+Pens are the most sensitive component because they have some small parts and some moving parts. A fall onto a floor - especially if it hits the nib directly - can completely break the internals of your pen. The impact can make the pen completely non-functional or make it stop working in specific ways.
 
 ## <mark style="color:red;">Do not let your tablet drop to the floor</mark>
 
@@ -35,7 +33,7 @@ Monitor your nibs and replace then when they are getting too worn down. Nibs tha
 
 To remove a nib see this guide: [**Removing nibs**](removing-the-nib-from-a-pen.md)
 
-## Don't void your warrant
+## Don't void your warranty
 
 Avoid doing any of these things:
 
