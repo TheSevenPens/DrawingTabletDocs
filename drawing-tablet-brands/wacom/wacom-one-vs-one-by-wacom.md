@@ -4,20 +4,15 @@ If you are new to Wacom, you should understand this issue because it is a consta
 
 The problem: Wacom makes two very different devices with confusingly similar names:
 
-* **One by Wacom** (CTL-472 and CTL-672) - a series of entry-level consumer pen tablets (without a screen)
-* **Wacom One** (DTC-133) - an entry-level consumer pen display (that does have a screen).
+**"One by Wacom"** refers to any of 2 pen tablets
 
-A **One by Wacom** looks like this (it does not have a screen):
+* One by Wacom Small (CTL-472)&#x20;
+* One by Wacom medium (CTL-672)&#x20;
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+**"Wacom One"** can refer to any of 5 drawing tablets
 
-A **Wacom One** looks like this (it has a screen):
-
-![](<../../.gitbook/assets/image (292).png>)
-
-
-
-
-
-##
-
+* Wacom One GEN1 (DTC-133) - a pen display&#x20;
+* Wacom One 12 GEN2 (DTC-121) - a pen display
+* Wacom One 13 touch GEN2 (DTH-134) - a pen display
+* Wacom One S GEN2 (CTC-4110WL) - a pen tablet&#x20;
+* Wacom One M GEN2 (CTC-6110WL) - a pen tablet
