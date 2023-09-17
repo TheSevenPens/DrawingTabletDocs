@@ -2,10 +2,11 @@
 
 This a **very** incomplete list, but does cover many pens in use for the past few years.
 
-* Wacom One Pen (CP91300B2Z)
-* Pen 4K (LP-1100K)
-* Pen 2K (LP-190K)&#x20;
-* Pro Pen 3 (ACP50000DZ)
+* Wacom One pen GEN1 (CP-913)
+* Wacom One pen GEN2 (CP-923)
+* 4K pen (LP-1100K)
+* 2K pen (LP-190K)&#x20;
+* Pro Pen 3 (ACP-50000DZ)
   * note how different the model number format is compared to the Pro Pen 2 (KP-504E).
   * This pen was introduced in 2022 with the release of the Wacom Cintiq Pro 27
 * Pro Pen 2 (KP-504E)&#x20;
