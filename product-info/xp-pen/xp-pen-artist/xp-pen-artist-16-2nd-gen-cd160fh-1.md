@@ -14,7 +14,7 @@
 
 ## Reviews
 
-* Brad Colbow - XP-Pen Artist 16 (2nd Gen) Review ([https://youtu.be/4czV7jv9mPg](https://youtu.be/4czV7jv9mPg)) Jun 1, 2022
-* Teoh on Tech - XP-Pen Artist 16 (2nd Gen) pen display review ([https://youtu.be/0yKRSAE8\_Ng](https://youtu.be/0yKRSAE8\_Ng)) May 26, 2022
-* Teoh on Tech - XP-Pen Artist 16 (2nd Gen) Cursor Tracking & Offset test ([https://youtu.be/\_\_NHuTlg-lE](https://youtu.be/\_\_NHuTlg-lE)) Jun 6, 2022
+* Brad Colbow - XP-Pen Artist 16 GEN2 Review ([https://youtu.be/4czV7jv9mPg](https://youtu.be/4czV7jv9mPg)) Jun 1, 2022
+* Teoh on Tech - XP-Pen Artist 16 GEN2 pen display review ([https://youtu.be/0yKRSAE8\_Ng](https://youtu.be/0yKRSAE8\_Ng)) May 26, 2022
+* Teoh on Tech - XP-Pen Artist 16 GEN2 Cursor Tracking & Offset test ([https://youtu.be/\_\_NHuTlg-lE](https://youtu.be/\_\_NHuTlg-lE)) Jun 6, 2022
 

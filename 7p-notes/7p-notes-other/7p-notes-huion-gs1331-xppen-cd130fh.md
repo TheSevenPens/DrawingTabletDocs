@@ -1,4 +1,4 @@
-# 7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 (2nd Gen)
+# 7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2
 
 ## One-sentence summary
 
@@ -7,7 +7,7 @@ These are very similar tablets, but overall I would pick the Huion Kamvas 13 as 
 ## Model tested
 
 * Huion Kamvas 13 (GS1331)&#x20;
-* XP-Pen Artist 13 (2nd Gen) (CD130FH)
+* XP-Pen Artist 13 GEN2 (CD130FH)
 
 ## Evaluation notes
 
