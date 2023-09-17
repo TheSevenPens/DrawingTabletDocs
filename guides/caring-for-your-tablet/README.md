@@ -19,47 +19,26 @@ However, If you drop a **pen display**, you almost certainly will cause signific
 
 ## Avoid getting your tablet or pen wet&#x20;
 
-Keep water away from your tablet and pen.If you get them wet, consult this guide on dealing with potential damage: [Dealing with water damage](dealing-with-water-damage.md).
+Keep water away from your tablet and pen. If you get them wet, consult this guide on dealing with potential damage: [**Dealing with water damage**](dealing-with-water-damage.md).
 
 ## Cleaning your tablet
 
-See this doc: [Cleaning a drawing tablet](cleaning-a-drawing-tablet.md) &#x20;
-
-Some people recommend lightly cleaning your pen displays before you start drawing. They
+Periodically, clean your tablet. See this doc: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md). Some people recommend lightly cleaning your pen displays before you start drawing.&#x20;
 
 ## Storing your pen
 
 Store your pens so that the nib is not experiencing constant pressure. Some tablet users suggest that if the nib has a constant pressure applied to it, over time the pressure could damage the pressure sensor.&#x20;
 
-## Pen nibs
+## Pen nib maintenance
 
-Monitor your nibs! and replace then when they are getting too worn down. Also nibs that are worn down to flat surface may be scratching up your tablet.
-
-See more here: [**Nib wear**](nib-wear.md)
+Monitor your nibs and replace then when they are getting too worn down. Nibs that are worn down to flat surface may be scratching up your tablet. See more here: [**Nib wear**](nib-wear.md)
 
 To remove a nib see this guide: [**Removing nibs**](removing-the-nib-from-a-pen.md)
 
-## Avoid doing things that void your warranty
+## Don't void your warrant
 
-Typically these include doing any of these things:
+Avoid doing any of these things:
 
-* disassembling the tablet
-* disassembling the pen
-* using metal nibs with the pen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Disassembling the tablet
+* Disassembling the pen
+* Using metal nibs with the pen
