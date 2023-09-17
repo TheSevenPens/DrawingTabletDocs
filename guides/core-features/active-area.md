@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The active area of a drawing tablet is the rectangle region of the tablet's surface that is sensitive to the EMR pen.
+The **active area** of a drawing tablet is the rectangle region of the tablet's surface that detects the EMR pen. Some drawing tablet manufacturers (Wacom & XP-pen) use the term **active area** while others (Huion) use the term **working area**.
 
 When we talk about the "size" of the drawing tablet, we are referring to the active area.
 
 ## Active area of pen tablets
 
-The active area of a pen tablet is usually designated by marks on the surfaceof the tablet. Usually it will be either at the four corners of the active area or there will be a pattern of dots across the entire active area.
+The active area of a pen tablet is usually designated by marks on the surface. Sometimes it is marked at its four corners. Some tablets show a grid of of dots.
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,13 +20,9 @@ The active area of a pen display is very easy to detect because it is the exact 
 
 ## Size
 
-Usually when we discuss the size of an active area, we talk about its diagonal length. Drawing tablets vary quite a bit in their active area size. More here: [**Active area size**](active-area-size.md)&#x20;
+Usually when we discuss the size of an active area, we talk about its diagonal length. Drawing tablets vary quite a bit in their active area size. More here: [**Active area size**](active-area-size.md).
 
-## Aspect Ratio
+## Aspect ratio
 
 The relationship between the width and height of the active area is its aspect ratio. More here: [**Active area aspect ratio**](active-area-aspect-ratio.md).
-
-
-
-
 
