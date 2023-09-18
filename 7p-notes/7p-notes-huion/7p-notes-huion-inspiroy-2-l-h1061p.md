@@ -1,6 +1,10 @@
 # 7P notes: Huion Inspiroy 2 L (H1061P)
 
-I only tried this tablet for about a week. I liked it very much.
+<mark style="color:red;">**I DO NOT RECOMMEND THIS THIS TABLET CURRENTLY**</mark>
+
+I only tried this tablet for about a week. I liked it very much initially.&#x20;
+
+\[Update Sept 2023] a reddit told me about some bad pressure handling. I confirmed this is the case. Until Huion issues a firmware or driver fix for this problem I cannot recommend this tablet. &#x20;
 
 **Drawing experience**
 

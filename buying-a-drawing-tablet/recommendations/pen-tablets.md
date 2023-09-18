@@ -18,7 +18,7 @@
 * MEDIUM Huion Inspiroy 2 M (H951P) $70
 * MEDIUM [**Huion Inspiroy RTP-700**](../../product-info/huion/huion-inspiroy/huion-inspiroy-rtp-700.md)  $93&#x20;
 * MEDIUM [**One by Wacom Medium** (CTL-672)](../../product-info/wacom/one-by-wacom/one-by-wacom-medium-ctl-672.md) $100&#x20;
-* MEDIUM [**Huion Inspiroy 2 L (H1061P)**](../../product-info/huion/huion-inspiroy/huion-inspiroy-2-l-h1061p.md) $90 &#x20;
+* MEDIUM [**Huion Inspiroy 2 L (H1061P)**](../../product-info/huion/huion-inspiroy/huion-inspiroy-2-l-h1061p.md) $90 <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
 
 ## $100 to $200
 
