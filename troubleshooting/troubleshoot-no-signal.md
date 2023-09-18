@@ -20,11 +20,9 @@ For some tablets, the NO SIGNAL message **seems** says something about power - a
 
 It means "The pen display is not receiving a display signal from the computer. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down." So, ultimately this message is telling you the tablet is trying to save you money.&#x20;
 
-## What your computer thinks of pen displays
+## How your computer interprets a pen display
 
-Troubleshooting the the NO SIGNAL problem starts with understanding how your computer interprets an attached pen display.
-
-Pen displays are a single physical device that you connect to a computer. However, your computer thinks of the pen display as two separate devices:&#x20;
+Troubleshooting the the NO SIGNAL problem starts with understanding how your computer interprets an attached pen display. Pen displays are a single physical device that you connect to a computer. However, your computer thinks of the pen display as two separate devices:&#x20;
 
 * a pen tablet (aka screenless tablet)&#x20;
 * and a monitor/display
@@ -33,13 +31,15 @@ Pen displays are a single physical device that you connect to a computer. Howeve
 
 Your computer and operating system have no idea that these two devices are related in any way. Even if a single cable is used to connect your pen display to your computer, it will continue to believe two devices are part of the same pen display. On the other hand, your tablet driver will know that these two devices are related.
 
+The reason it is important to understand this is that the NO SIGNAL issue is a display issue, not a pen tablet issue. &#x20;
+
 ## Tablet drivers
 
 So, In general, messing around the tablet drivers WILL NOT HELP. So, don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very unlikely to help the NO SIGNAL problem.
 
-## Does the computer see the attached display?
+## Things to verify
 
-It is important to understand if the computer itself thinks there is an additional monitor plugged into the computer.
+### Verify that the computer see the attached display
 
 Presumably, your computer already has one screen, so when you plug in your tablet it should at least recognize that there are two screens (one coming from the pen display).
 
@@ -50,8 +50,6 @@ In your operating system's **Display Settings**, you should see two displays. An
 | <img src="../.gitbook/assets/image (356).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (235).png>) |
 
 If your computer doesn't think there is a display attached, it certainly isn't going to send a signal to it. So if you don't see this detection, follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
-
-## Things to verify
 
 ### Verify that the pen display can receive an HDMI signal
 
@@ -70,10 +68,11 @@ Verify that your cables are fully connected.&#x20;
 
 ## Physically disconnect your pen display from power
 
-* Turn off your pen display and DISCONNECT ALL THE CABLES, then plug it back in.&#x20;
-  * Some sourced recommend that while disconnected to hold the power button down for long time (30 seconds) before you reconnect.&#x20;
-  * Other sources also recommend that you try leaving it disconnected for an extended period of time - like 30 minutes before you reconnect.&#x20;
-* **Do not** rely on just pressing the ON/OFF button while the pen display is connected.
+* Turn off your pen display and **DISCONNECT ALL THE CABLES**, then plug it back in.&#x20;
+* **DO NOT** just press the ON/OFF button while the pen display is connected. Actually DISCONNECT ALL THE CABLES
+* Some variations to try
+  * Some people recommend to disconnect, then hold the tablet power button down for long time (30 seconds), and then reconnect. &#x20;
+  * Some people recommend that you try leaving the tablet disconnected for an extended period of time - like 30 minutes before you reconnect.&#x20;
 
 ## Try different HDMI ports
 
@@ -84,20 +83,32 @@ Your computer may have multiple HDMI ports, try different ones.
 * If you have a PC with a graphics card, you may have HDMI ports on the graphics card and on your motherboard.
 * Always try the HDMI port on your graphics card first.
 
-## Try DisplayPort ports
+## HDMI adapter
 
-* if you PC has a DisplayPort output, try an HDMI to DisplayPort adapter.
+### Try a DisplayPort to HDMI adapter
 
-## Display adapter capabilities
+if your PC has a DisplayPort output, male DisplayPort to female HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md).
 
-* Make sure the adapter is capable of handling the resolution and framerate that your pen display supports. For example: you pen display may support 4K at 60Hz. But your adapter might only support up to 4K at 30Hz. &#x20;
-* Sometimes adapters themselves can be the source of the NO SIGNAL problem. Sometimes a different adapter might work. In some cases, an you have to NOT use an adapter. &#x20;
+### Try NOT using an HDMI Adapter
+
+Sometimes adapters themselves can be the source of the NO SIGNAL problem. Sometimes a different adapter might work. In some cases, an you have to NOT use an adapter. &#x20;
 
 ## Try USB-C
 
-* If your pen display supports USB-C for a display signal and if you have a USB-C port on your PC. That USB-C port **may** support sending a display signal over that port.&#x20;
-  * NOTE: To find out if your USB-C port supports a display signal, you will likely have to read the documentation from your manufacturer. It's not possible to simply look at a port and determine if it supports a display signal.&#x20;
-  * One easy sign that a USB-C port supports a display signal is if it has a lightning symbol above it. This means it is a Thunderbolt 3 or Thunderbolt 4 port.
+If your pen display supports USB-C for a display signal, there are some options to try.&#x20;
+
+### OPTION 1: USB-C to USB-C
+
+If your computer can send a display signal over USB-C and you have a USB-C cable that supports a display signal, then try using that USB-C cable to send the display signal.
+
+### OPTION 2: USB-C to HDMI Adapter
+
+You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md).
+
+### How to verify that your computer USB-C port support sending a display signal&#x20;
+
+* NOTE: To find out if your USB-C port supports a display signal, you will likely have to read the documentation from your manufacturer. It's not possible to simply look at a port and determine if it supports a display signal.&#x20;
+* One easy sign that a USB-C port supports a display signal is if it has a lightning symbol above it. This means it is a Thunderbolt 3 or Thunderbolt 4 port.
 * Get a USB-C cable that supports a display signal. Remember that not all USB C cables to support a display signal. The USB-C cables that do for sure carry a display signal are Thunderbolt 3 and Thunderbolt 4 cables. With every other cable you are going to have to check with the manufacturer or documentation.
 * If needed consider a USB-C to HDMI adapter.
 
@@ -122,7 +133,9 @@ Suppose your graphics card has 4 physical HDMI outputs. It's possible your card 
 
 Read the documentation for your graphics card to verify how many it supports.&#x20;
 
-## Refresh rates
+## Display signal properties
+
+### Display refresh rates
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Refresh Rate the computer is using for the display.
 
@@ -134,7 +147,7 @@ Start with a lower refresh rate, and build up to higher ones.
 
 Typically pen displays only go up to 60Hz.&#x20;
 
-## Display resolution
+### Display resolution
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Resolution the computer is using for the display.
 
@@ -148,11 +161,11 @@ See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/commen
 
 The reason this process might work is not clear. It could be because depowering the pen display was the reason. It could be because the connection to the other computer altered something in the pen display. In any case, it is worth a try if you continue to have problems.
 
-## Wacom One 2019 gen-1 cable orientation
+## Wacom One GEN1 cable orientation
 
 The Wacom One 2019 gen-1 is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
 
-## Firmware updates
+## Tablet firmware updates
 
 It sometimes happens that monitors require firmware updates to make getting a display signal work. For example: [This ASUS monitor required a firmware update](https://www.asus.com/lk/support/FAQ/1045839/) to get video to work over USB C.   &#x20;
 
