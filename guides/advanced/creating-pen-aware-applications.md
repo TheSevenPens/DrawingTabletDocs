@@ -52,11 +52,11 @@ As part of the Python Computer Graphics kit, the wintab module allows you to use
 
 ### XPPen Tablet SDK
 
-[https://www.xp-pen.com/developer](https://www.xp-pen.com/developer) -
+[https://www.xp-pen.com/developer](https://www.xp-pen.com/developer)&#x20;
 
 ### Huion SDK
 
-Huion does not puclish an SDK.
+Huion does not publish an SDK.
 
 
 
