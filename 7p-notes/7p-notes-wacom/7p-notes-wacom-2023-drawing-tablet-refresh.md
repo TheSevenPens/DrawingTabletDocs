@@ -165,5 +165,8 @@ Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable
 
 ## Reviews
 
-* Tom's Guide - Wacom One 13 touch hands-on review - [https://www.tomsguide.com/reviews/wacom-one-13-touch](https://www.tomsguide.com/reviews/wacom-one-13-touch)&#x20;
+* Tom's Guide - Wacom One 13 touch hands-on review - [https://www.tomsguide.com/reviews/wacom-one-13-touch](https://www.tomsguide.com/reviews/wacom-one-13-touch) &#x20;
+* Aaron Rutten - ([https://youtu.be/w7QLQFOK\_eU  ](https://youtu.be/w7QLQFOK\_eU))
+
+
 
