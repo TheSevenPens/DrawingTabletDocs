@@ -8,7 +8,23 @@ I only tried this tablet for about a week. I liked it very much initially.&#x20;
 
 **Drawing experience**
 
-It felt nice to draw on. To me on par with the Huion Giano G930L which I really enjoy.
+Overall felt good bud has bad pressure handling.
+
+**Pressure problems**
+
+Tablet experiences extremely unstable pressure causing extreme pulsing of strokes.&#x20;
+
+Example: With Krita Ink3 GPen brush with default settings and size set to 400 pixels.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+
+The pulsing is also visible in smaller brushes - for example 100 pixels.&#x20;
+
+You will not notice with small brushes for example 5 pixels.
+
+Huion needs to address this problem with an update.
+
+This behavior confirmed by two more people.
 
 **Pen**
 
@@ -32,7 +48,7 @@ I really enjoyed the flexibility of how the buttons work with the group keys. Ev
 
 **Compared RTP-700**
 
-I think it's better choice than the RTP-700 because it has real buttons, unlike the capacitive buttons of the RTP-700.&#x20;
+I think it's better choice than the RTP-700 because it has physical buttons, unlike the capacitive buttons of the RTP-700.&#x20;
 
 **Compared to the XP Deco LW**
 
