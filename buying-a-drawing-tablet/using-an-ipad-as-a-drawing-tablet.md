@@ -8,36 +8,46 @@ iPads are very interesting alternative to a drawing tablet. Especially if you wa
 
 Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to keep consistent with rest of my documentation.
 
-## Benefits of using an iPad as drawing tablet
+## iPad benefits
 
-* Basics
-  * The display is fantastic - great color and bright for a pen display
-  * Does not require a computer to be attached
-* Mobility
-  * All iPad models use WiFi.&#x20;
-  * Some models can also use a mobile data plan like a phone.&#x20;
-  * It has great battery life
-* Drawing
-  * The Apple pencil is very responsive and supports pressure and tilt
-  * iPad apps are optimized to make the most of the screen real estate available and to be responsive to touch. &#x20;
-  * Newer Apple iPad Pro models use the Apple Pencil 2 - which support pen hover
-  * Very little pointer lag. Apple iPads have much less lag than pen displays or pen computers. The pointer is comparable to a pen tablet.
+### Basics
+
+* The display is fantastic - great color and bright for a pen display
+* Does not require a computer to be attached
+
+### Mobility
+
+* All iPad models use WiFi.&#x20;
+* Some models can also use a mobile data plan like a phone.&#x20;
+* It has great battery life
+
+### Drawing
+
+* The Apple pencil is very responsive and supports pressure and tilt
+* iPad apps are optimized to make the most of the screen real estate available and to be responsive to touch. &#x20;
+* Newer Apple iPad Pro models use the Apple Pencil 2 - which support pen hover
+* Very little pointer lag. Apple iPads have much less lag than pen displays or pen computers. The pointer is comparable to a pen tablet.
 
 ## Challenges with using iPad as a drawing tablet
 
-* Apps
-  * Not all PC applications are available on iPad.&#x20;
-  * Applications on iPad may not be as full-featured as their PC equivalents.
-  * Some popular drawing apps like Clip Studio Paint are available on iOS, MacOS, Windows.&#x20;
-  * The most popular drawing app on the iPad, ProCreate, does not have a version for MacOS or Windows. This may be an issue for you if you want to use the same app on your desktop as well as on your iPad.&#x20;
-* Drawing
-  * Slippery glass surface when using the Apple Pencil. This can be mitigating by purchasing a screen protector which provides a more textured surface.
-  * Noticeable diagonal wobble when drawing slowly. But this doesn't seem to hinder people.
-* Apple Pencil
-  * Apple Pencil does not have buttons like a normal drawing tablet pen
-  * Apple Pencil does not have an eraser unlike some EMR pens.
-  * Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
-  * Not all iPads support the use of the Apple Pencil. See: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
+### Apps
+
+* Not all PC applications are available on iPad.&#x20;
+* Applications on iPad may not be as full-featured as their PC equivalents.
+* Some popular drawing apps like Clip Studio Paint are available on iOS, MacOS, Windows.&#x20;
+* The most popular drawing app on the iPad, ProCreate, does not have a version for MacOS or Windows. This may be an issue for you if you want to use the same app on your desktop as well as on your iPad.&#x20;
+
+### Drawing
+
+* Slippery glass surface when using the Apple Pencil. This can be mitigating by purchasing a screen protector which provides a more textured surface.
+* Noticeable diagonal wobble when drawing slowly. But this doesn't seem to hinder people.
+
+### Apple Pencil
+
+* Apple Pencil does not have buttons like a normal drawing tablet pen
+* Apple Pencil does not have an eraser unlike some EMR pens.
+* Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
+* Not all iPads support the use of the Apple Pencil. See: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
 
 ## Surface texture
 
@@ -103,27 +113,7 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## How I use iPads
 
-I use iPads for drawing - but mostly when I am at not my desk or when I am mobile. Otherwise when sitting at my desk I prefer to use a pen tablet or pen display.&#x20;
-
-I use these iPad models with an Apple Pencil 2:
-
-* Apple iPad Pro (12.9 inch) (3rd gen) - Does NOT support hover
-* Apple iPad Pro (11 inch) (4rd gen) - Does support hover.
-
-I primarily these use iPad apps&#x20;
-
-* [Procreate](../applications/procreate.md)
-* [Clip Studio Paint](../applications/clip-studio-paint.md) &#x20;
-
-I occasionally use these iPad apps
-
-* [Concepts](../applications/concepts-app.md)  &#x20;
-
-## Transferring files between iPads and Windows
-
-One easy way to send files easily back and forth between an iPad and Windows is to use a file syncing service. For example OneDrive - which is what I use.
-
-I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple PCs and my iPad. This allows me to edit them with whatever device I want. And changes are automatically synced to all the devices. &#x20;
+My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-notes-other/7p-notes-apple-ipad-pro.md) &#x20;
 
 ## Videos
 

@@ -146,6 +146,7 @@
     * [7P notes: XP-Pen Deco Pro XLW Gen2 (MT1592B)](7p-notes/7p-notes-xp-pen/7p-notes-xp-pen-deco-pro-xlw-gen-2-mt1592b.md)
   * [7P notes: Other](7p-notes/7p-notes-other/README.md)
     * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
+    * [7P notes: Apple iPad Pro](7p-notes/7p-notes-other/7p-notes-apple-ipad-pro.md)
     * [7P notes: TourBox](7p-notes/7p-notes-other/7p-notes-tourbox.md)
 * [Applications](applications/README.md)
   * [Tips](applications/tips/README.md)
