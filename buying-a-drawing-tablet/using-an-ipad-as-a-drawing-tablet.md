@@ -28,7 +28,7 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 * Newer Apple iPad Pro models use the Apple Pencil 2 - which support pen hover
 * Very little pointer lag. Apple iPads have much less lag than pen displays or pen computers. The pointer is comparable to a pen tablet.
 
-## Challenges with using iPad as a drawing tablet
+## &#x20;iPad challenges
 
 ### Apps
 
@@ -117,22 +117,19 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-n
 
 ## Videos
 
-* Tim Mcburnie - iPad vs. Wacom ([https://youtu.be/hBnEE367878](https://youtu.be/hBnEE367878))
-* Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs))
-* Anastasia Berry - iPad or Display Tablet | What's Better for Drawing? ([https://youtu.be/VOyQbBBuRrc](https://youtu.be/VOyQbBBuRrc))
-* Brad Colbow - How the iPad Became my Go To Drawing Tablet ([https://youtu.be/c2ewLZplxY8](https://youtu.be/c2ewLZplxY8))
-* Teoh on Tech - iPad vs Pen Displays: Which to get for Digital Art ([https://youtu.be/GJ6fVe3p-ec](https://youtu.be/GJ6fVe3p-ec))
-* Teoh on tech - Can you do graphic design on iPad (vs computer) ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs))
-* Teoh on tech - Why I prefer Concepts over Procreate for drawing ([https://youtu.be/5ORoSQ8Q0fM](https://youtu.be/5ORoSQ8Q0fM))
-* Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!  - ([https://youtu.be/ZpcKfipVy24](https://youtu.be/ZpcKfipVy24))
+* Tim Mcburnie - iPad vs. Wacom ([https://youtu.be/hBnEE367878](https://youtu.be/hBnEE367878)) Feb 19, 2022
+* Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs)) Oct 1, 2022
+* Anastasia Berry - iPad or Display Tablet | What's Better for Drawing? ([https://youtu.be/VOyQbBBuRrc](https://youtu.be/VOyQbBBuRrc)) Feb 9, 2022
+* Brad Colbow - How the iPad Became my Go To Drawing Tablet ([https://youtu.be/c2ewLZplxY8](https://youtu.be/c2ewLZplxY8)) Jun 24, 2019
+* Teoh on Tech - iPad vs Pen Displays: Which to get for Digital Art ([https://youtu.be/GJ6fVe3p-ec](https://youtu.be/GJ6fVe3p-ec)) Jun 10, 2021
+* Teoh on tech - Can you do graphic design on iPad (vs computer) ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs)) Oct 1, 2022
+* Teoh on tech - Why I prefer Concepts over Procreate for drawing ([https://youtu.be/5ORoSQ8Q0fM](https://youtu.be/5ORoSQ8Q0fM)) Aug 1, 2022
+* Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!  - ([https://youtu.be/ZpcKfipVy24](https://youtu.be/ZpcKfipVy24)) Nov 1, 2022
 
 ## Other resources
 
 * [https://www.shutterstock.com/blog/graphics-tablet-vs-screen-tablet](https://www.shutterstock.com/blog/graphics-tablet-vs-screen-tablet)  &#x20;
 * [https://www.makeuseof.com/ipad-vs-drawing-tablet-for-drawing/](https://www.makeuseof.com/ipad-vs-drawing-tablet-for-drawing/)  &#x20;
 * [https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/](https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/)&#x20;
-
-
-
 * [https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/](https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/) &#x20;
 * &#x20;[https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/](https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/)  &#x20;
