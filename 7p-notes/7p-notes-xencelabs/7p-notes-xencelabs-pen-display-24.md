@@ -8,8 +8,6 @@ I had a chance to play with the Xencelabs Pen display in early May at a Xencelab
 
 Rating: TYPICAL Seemed to be about \~10mm (I didn't have a ruler).&#x20;
 
-NOTE: Did not test with OpenTabletDriver which does not enforce height limit unlike every other driver&#x20;
-
 **Edge & Corner accuracy**&#x20;
 
 Rating: EXCELLENT.&#x20;
@@ -24,9 +22,12 @@ Rating: VERY GOOD. \[LESS IS BETTER] Slight Sparkle only noticeable when eye is 
 
 Rating: Slightly above TYPICAL RANGE \[LESS IS BETTER]&#x20;
 
-Wacom Cintiq Pro clearly has less lag (Which is GOOD) Comparable but not quite matching Huion Kamvas 24 Pro 4K (Which is Typical) - just a little more than the Huion.&#x20;
+Comparisons:
 
-NOTE: Did not try with OpenTabletDriver. So not clear how much of lag is in firmware versus driver&#x20;
+* Wacom Cintiq Pro has a bit less lag&#x20;
+* Comparable to but the Huion Kamvas 24 Pro 4K (Which is Typical) - maybe just a little more than the Huion.&#x20;
+
+NOTE: I did not try with OpenTabletDriver. So not clear how much of lag is in firmware versus driver&#x20;
 
 **Etched glass texture**
 
@@ -44,4 +45,7 @@ Rating: TYPICAL I did not measure, but seemed typical for a non-Wacom pen. Achie
 
 Rating: DID NOT TEST
 
-I didn't have my plastic ruler with me
+I didn't have my plastic ruler with me.
+
+
+
