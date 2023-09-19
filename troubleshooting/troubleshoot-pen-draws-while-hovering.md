@@ -23,7 +23,13 @@ More here: [testing pressure in the tablet driver](testing-pressure-in-the-table
 
 **Adjust the pressure curve**
 
-In the driver, try dragging the lower left point of the pressure curve to the right until the pen stops drawing while hovering.&#x20;
+Sometimes a pen is reporting pressure even when it isn't in contact with anything.&#x20;
+
+In the tablet driver, try dragging the lower left point of the pressure curve to the right until the pen stops drawing while hovering.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**If nothing helps**
 
 If the problem continues, then [**contact support**](../guides/general/contacting-support.md).
 
