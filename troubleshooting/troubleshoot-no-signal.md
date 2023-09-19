@@ -6,6 +6,8 @@ When your pen display shows a NO SIGNAL message it is telling you that it is not
 
 In this guide, I'll provide every tactic I know about to help. But I also, want you to be prepared that it may be unresolvable and you may need to contact your tablet manufacturer.
 
+<figure><img src="../.gitbook/assets/PXL_20221202_033015550.MP smaller.jpg" alt=""><figcaption></figcaption></figure>
+
 ## What you can tell from the message
 
 The fact that you are seeing a NO SIGNAL message already tells you a few things:
