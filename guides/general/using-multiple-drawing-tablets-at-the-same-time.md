@@ -1,6 +1,6 @@
 # Using multiple drawing tablets at the same time
 
-## Summary
+## It DOES work
 
 You CAN use multiple drawing tablets at the same time with your computer. However, you need to be aware about the specific scenarios in which this will work and some issues that might encounter.
 
@@ -8,18 +8,16 @@ You CAN use multiple drawing tablets at the same time with your computer. Howeve
 
 These document describes my experience with Windows. I have not tested it with MacOS.
 
-## Scenario
+## The scenario that works
 
 Let's be explicit on the scenario that works:
 
 * 2 or more drawing tablets attached to the same computer
-* where you are using then pen only one of them at one time
+* where you are using then pen with only one of them at one time
 
-## A single tablet driver
+## You must use a single tablet driver
 
 For you to use multiple tablets, a single driver must be installed and that driver must be compatible with each tablet.&#x20;
-
-## Multiple tablet drivers will not work
 
 You cannot successfully use two separate tablet drivers even if you successfully install them.
 
@@ -37,9 +35,9 @@ In the Huion app, you can switch at the bottom
 
 In the XP-Pen app, you can switch in the upper left
 
-## Pens
+## Pen compatibility
 
-Each tablet can use a different compatible pen.&#x20;
+Each tablet can use a different pen.&#x20;
 
 Of course, if you intend to switch between tablets it is convenient if you can use the same pen with each tablet.&#x20;
 
@@ -47,7 +45,7 @@ Of course, if you intend to switch between tablets it is convenient if you can u
 
 You can use both pen tablets and pen displays together with the same computer&#x20;
 
-## Driver confusion
+## The tablet can get confused
 
 Tablet drivers can occasionally get confused when you have multiple tablets. In my experience this has happened when I've been plugging them in and unplugging them back in very rapidly.
 
@@ -55,11 +53,9 @@ In those cases, I saw issues like it wouldn't let me use one of the tablets. The
 
 In general I have not seen this kind of problem simply not rapidly attaching and detaching tablets to a computer.
 
-## Scenario: Simultaneous drawing will not work
+## Simultaneous drawing will not work
 
-Sometimes people want to use two tablets on a computer because they have two children and want each to be able to draw at the same time.
-
-This scenario does not work.
+Sometimes people want to use two tablets on a computer because they have two children and want each to be able to draw at the same time. This scenario does not work.
 
 Let's suppose both children are drawing simultaneous on their individual tablet. The pens will "fight" and the pointer will bounce back and forth rapidly and it will be impossible to draw.&#x20;
 
