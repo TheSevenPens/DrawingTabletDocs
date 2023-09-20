@@ -6,6 +6,12 @@ Last updated: 9/10/2023 4:00PM PST
 
 The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
+## Which models I own
+
+* Wacom One 13 touch GEN2 (DTH-134)
+* Wacom One 12 (DTC-121)
+* Wacom One M GEN2 (CTC-6110WL)
+
 ## Understanding product evolution
 
 This diagram is my summary how their consumer line of tablets is evolving
@@ -16,7 +22,6 @@ This diagram is my summary how their consumer line of tablets is evolving
 
 * "Wacom One" now includes both pen displays and pen tablets
 * The successors to the Wacom Intuos pen tablets (CTL-4100\*, CTL-6100\*) are: the Wacom One (Gen2) pen tablets (CTC-4110WL, CTC-6110WL).
-* **My speculation:** Wacom looks to stop using the "Wacom Intuos" brand starting now.
 
 ## Disambiguating models
 
@@ -24,17 +29,6 @@ To disambiguate the discussion the tablets:
 
 * I will refer to this new series launched in 2023 as "Wacom One (GEN2)" even though Wacom is just calling it "Wacom One"
 * I will refer the the old series as "Wacom One (GEN1)" because this is what Wacom is calling it. Though sometimes it is referred to as "Wacom One 2019 (GEN1)"
-
-## Fate of the One by Wacom series
-
-* The One by Wacom series ...
-  * Existing models: CTL-472, CTL-672
-* Wacom announced nothing about this series. They have communicated nothing about its status.
-* We do not know if are going to be any updates to this series
-
-## Purchase advice
-
-* **Purchase advice:** Because there are many similarly named tables: <mark style="color:red;">**ALWAYS LOOKING AT THE MODEL NUMBERS**</mark> if you are going to make a purchase
 
 ## **Wireless support for pen tablets**&#x20;
 
