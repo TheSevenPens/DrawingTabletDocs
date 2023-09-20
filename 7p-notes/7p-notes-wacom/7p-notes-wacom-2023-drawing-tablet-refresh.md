@@ -6,13 +6,6 @@ Last updated: 9/10/2023 4:00PM PST
 
 The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
-## List of Wacom One GEN2 tablets
-
-* Wacom One 13 touch (DTH-134) a pen display
-* Wacom One 12 (DTC-121) a pen display
-* Wacom One S (CTC-4110WL) a pen tablet
-* Wacom One M (CTC-6110WL) a pen tablet
-
 ## Understanding product evolution
 
 This diagram is my summary how their consumer line of tablets is evolving
@@ -42,8 +35,6 @@ To disambiguate the discussion the tablets:
 ## Purchase advice
 
 * **Purchase advice:** Because there are many similarly named tables: <mark style="color:red;">**ALWAYS LOOKING AT THE MODEL NUMBERS**</mark> if you are going to make a purchase
-
-&#x20;
 
 ## **Wireless support for pen tablets**&#x20;
 
@@ -121,22 +112,6 @@ The new Wacom One (Gen 2) pen displays do not have any legs. They lay flat on th
 
 The old Wacom One (Gen 1) pen display has legs on the back. You can lay the display flat on the desk or you can pull out the legs and draw at and angle.
 
-## User manuals
-
-* Wacom One 13 touch - [https://101.wacom.com/userhelp/en/toc/dth134.html](https://101.wacom.com/userhelp/en/toc/dth134.html) &#x20;
-* Wacom One 12 - [https://101.wacom.com/userhelp/en/toc/dtc121.html](https://101.wacom.com/userhelp/en/toc/dtc121.html)&#x20;
-* Wacom One S - [https://101.wacom.com/userhelp/en/toc/ctc4110wl.html](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html)&#x20;
-* Wacom One M - [https://101.wacom.com/userhelp/en/toc/ctc6110wl.html](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html)
-
-## Wacom videos&#x20;
-
-There are many videos on Wacom's youtube channel ([https://www.youtube.com/@wacom](https://www.youtube.com/@wacom)) showing various aspects of the Wacom One (Gen 2) series. Here are few select ones:&#x20;
-
-* Wacom One product trailer ([https://youtu.be/3iyeURJRRNs](https://youtu.be/3iyeURJRRNs)) Aug 8 2023
-* Wacom Center for Android ([https://youtu.be/sf8r\_zxLl7o](https://youtu.be/sf8r\_zxLl7o)) Aug 8 2023
-* Multi-touch on Wacom One 13 touch ([https://youtu.be/u4kK5M\_SxyM](https://youtu.be/u4kK5M\_SxyM)) Aug 9 2023
-* On-Screen Display Button (OSD) ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/-vwMZf1nbVU)) Aug 10, 2023
-
 ## Legs
 
 The old Wacom One (Gen 1) pen display had foldable legs. The new GEN pen displays do not. Instead you must a separate stand.
@@ -163,10 +138,7 @@ Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable
 
 ![](<../../.gitbook/assets/Wacom M GEN2 (CTC-6110WL) wobble (1).png>)
 
-## Reviews
 
-* Tom's Guide - Wacom One 13 touch hands-on review - [https://www.tomsguide.com/reviews/wacom-one-13-touch](https://www.tomsguide.com/reviews/wacom-one-13-touch) &#x20;
-* Aaron Rutten - ([https://youtu.be/w7QLQFOK\_eU  ](https://youtu.be/w7QLQFOK\_eU))
 
 
 
