@@ -45,7 +45,7 @@ Of course, if you intend to switch between tablets it is convenient if you can u
 
 You can use both pen tablets and pen displays together with the same computer&#x20;
 
-## The tablet can get confused
+## The tablet driver can get confused
 
 Tablet drivers can occasionally get confused when you have multiple tablets. In my experience this has happened when I've been plugging them in and unplugging them back in very rapidly.
 
