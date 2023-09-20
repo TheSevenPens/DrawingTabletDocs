@@ -72,21 +72,20 @@ Let's suppose both children are drawing simultaneous on their individual tablet.
 **Wacom Setup 2**
 
 * Wacom Intuos Pro Large (PTH-860)
-* Wacom Intuos 4 XL
+* Wacom Intuos 4 XL (PTK-1240)
 
 **Huion Setup 1**
 
-* Huion Kamvas 22 Plus
+* Huion Kamvas 22 Plus (GS2202)
 * Huion Giano (G930L)
-* Huion Kamvas 13
+* Huion Kamvas 13 (GS1331)
 
 **Huion Setup 2**
 
-* Huion Kamvas 24 Pro 4k
-* Huion Kamvas 13
+* Huion Kamvas 24 Pro 4K (GT2401)
+* Huion Kamvas 13 (GS1331)
 
 **XP-Pen Setup 1**
 
-* XP-Pen Artist Pro 16 GEN2
-* XP-Pen Deco Pro XLW GEN2
-
+* XP-Pen Artist Pro 16 GEN2 (MD160QH)
+* XP-Pen Deco Pro XLW GEN2 (MT1592B)
