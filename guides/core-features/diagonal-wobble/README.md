@@ -45,9 +45,11 @@ If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on 
 
 ## Diagonal Wobble samples
 
-These examples were created by creating a 4K image in Krita and drawing (roughly) a 10cm line over 3 seconds using a smooth plastic ruler.
+These are my wobble samples across a number of tablets.&#x20;
 
 [https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC](https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC)
+
+All were created using my a standard testing process: [**Diagonal wobble testing**](../../../resources/process/diagonal-wobble-testing.md).
 
 ## Diagonal wobble in XP-Pen&#x20;
 

@@ -49,7 +49,6 @@
     * [Pen barrel rotation](guides/core-features/pen-barrel-rotation.md)
     * [Lag](guides/core-features/lag.md)
     * [Diagonal wobble](guides/core-features/diagonal-wobble/README.md)
-    * [Diagonal wobble testing](guides/core-features/diagonal-wobble-testing.md)
     * [Surface texture](guides/core-features/surface-texture.md)
     * [ExpressKeys](guides/core-features/expresskeys.md)
     * [Absolute versus relative positioning](guides/core-features/absolute-versus-relative-positioning.md)
@@ -289,3 +288,5 @@
     * [Kuuube's Wacom pen compatibility mastersheet](resources/kuuubes-wacom-pen-compatibility-mastersheet.md)
   * [YouTube channels](resources/youtube-channels.md)
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
+  * [Process](resources/process/README.md)
+    * [Diagonal wobble testing](resources/process/diagonal-wobble-testing.md)
