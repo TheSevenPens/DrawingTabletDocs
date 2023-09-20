@@ -119,6 +119,7 @@
     * [Using a drawing tablet with a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
     * [Using a drawing tablet with an iOS device](guides/general/using-a-drawing-tablet-with-an-ios-device.md)
     * [Using a drawing tablet with an Android device](guides/general/using-a-drawing-tablet-with-an-android-device.md)
+    * [Using multiple drawing tablets at the same time](guides/general/using-multiple-drawing-tablets-at-the-same-time.md)
     * [Contacting support](guides/general/contacting-support.md)
 * [7P notes](7p-notes/README.md)
   * [7P notes: Huion](7p-notes/7p-notes-huion/README.md)
