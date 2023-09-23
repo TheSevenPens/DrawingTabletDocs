@@ -2,15 +2,17 @@
 
 ## Using a nib remover
 
-When you bought your drawing tablet, it likely came with a nib remover.&#x20;
-
-It's usually a piece of metal that allows you to latch onto the nib and pull it out. Or often it's a metal hole in a pen holder.
-
-**Xencelabs nib remover**
+When you bought your drawing tablet, it likely came with a nib remover. It's usually either a piece of metal or a metal part of a pen stand
 
 Xencelabs has a a simple ring of metal. Using it, you pinch and pull out the nib from the pen.
 
 ![](../../.gitbook/assets/xencelabs\_nib\_remover.jpg)
+
+
+
+The XP-Pen has a nib remover built into a pen case. See the metal ring below.
+
+<figure><img src="../../.gitbook/assets/XP-Pen nib remover 20923_09_22 small (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Alternatives to nib removers
 
