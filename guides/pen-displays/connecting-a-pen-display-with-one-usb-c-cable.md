@@ -32,6 +32,8 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 * For the CableMatters Usb-C cable, the **cable ends are a little too thick** to be plugged into some ports.
 * I had to remove some plastic from one of the ends to fit it into the tablets using a knife.&#x20;
+* ![](<../../.gitbook/assets/Whittled USBC (1).jpg>)![](<../../.gitbook/assets/Whittled USBC (3) (2).jpg>)
+* This plastic was tough to cut. I didn't do a very clean job but it **just barely** fits into the port - the fit is very snug and I should probably remove just a little more.
 
 **Huion Kamvas 13 (GS1331)**
 
