@@ -1,10 +1,10 @@
-# Xencelabs Pen Display 24
+# Xencelabs Pen Display 24 (LPH2412U-A)
 
 ## Basics
 
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)
 * 7P owns this tablet?: NO
-* My notes: [7P notes: Xencelabs Pen Display 24](../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md)  &#x20;
+* My notes: [7P notes: Xencelabs Pen Display 24](7p-notes-xencelabs-pen-display-24.md)  &#x20;
 
 ## Reviews
 

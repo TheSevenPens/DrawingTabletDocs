@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen Deco Pro XLW Gen 2 (MT1592B)
+# 7P notes: XP-Pen Deco Pro XLW Gen2 (MT1592B)
 
 ## Overview
 
@@ -67,7 +67,7 @@ I'm going to give it more time to fully evaluate this effect.
 
 Obligatory 16K pressure level screenshot. This is what it shows in the driver.&#x20;
 
-![](<../../.gitbook/assets/image (334).png>)
+![](<../../../../.gitbook/assets/image (334).png>)
 
 
 
@@ -77,7 +77,7 @@ Currently no noticeable impact on my drawing. Will continue to evaluate.
 
 Low - which is good.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (335).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (335).png" alt="" width="375"><figcaption></figcaption></figure>
 
 It has more wobble than the Wacom Intuos Pro Large (PTH-860). XP-Pen should be doing better here since it is targeted at a pro audience.
 

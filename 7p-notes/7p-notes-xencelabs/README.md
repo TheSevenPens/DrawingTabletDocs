@@ -1,2 +1,0 @@
-# 7P notes: Xencelabs
-

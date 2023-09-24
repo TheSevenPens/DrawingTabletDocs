@@ -41,7 +41,7 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 
 ## My notes on drawing tablets
 
-I own A LOT of drawing tablets. Although I don't write tablet reviews, I do share notes of what I find interesting. See my notes here: [**7P notes**](../7p-notes/)&#x20;
+I own A LOT of drawing tablets. Although I don't write tablet reviews, I do share notes of what I find interesting. See my notes here: [**7P notes**](../7p-notes.md)&#x20;
 
 ## Pen tablets vs pen displays
 

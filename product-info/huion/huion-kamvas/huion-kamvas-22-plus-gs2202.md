@@ -10,7 +10,7 @@
 
 ## My notes
 
-* [My notes on Huion Kamvas 22 Plus](../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-22-plus.md)&#x20;
+* [My notes on Huion Kamvas 22 Plus](7p-notes-huion-kamvas-22-plus.md)&#x20;
 * Notes:
   * Exhibits low [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
 

@@ -6,7 +6,7 @@ The tablet comes with the Wacom Pro Pen 3 (ACP50000DZ).&#x20;
 
 ### Pressure&#x20;
 
-Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../guides/core-features/pen-pressure.md)  &#x20;
+Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../../guides/core-features/pen-pressure.md)  &#x20;
 
 #### Pressure levels
 
@@ -28,7 +28,7 @@ Before you continue, you should read this document because it clarifies what is 
 
 #### Pressure range&#x20;
 
-* Background: Read this document to understand pressure range before you continue: [**Pen pressure**](../../guides/core-features/pen-pressure.md)
+* Background: Read this document to understand pressure range before you continue: [**Pen pressure**](../../../guides/core-features/pen-pressure.md)
 * The Pro Pen 3 has the typical wide pressure range from Wacom and is excellent.
   * Unfortunately there are no clear published specs from Wacom on other manufacturers on these pressure range values. So we have to evaluate it subjectively for now.
 * Comparing pressure range to competitors (again this is subjective)
@@ -68,7 +68,7 @@ This is a very normal EMR pen that lives up to previous models in terms of quali
 
 
 
-<figure><img src="../../.gitbook/assets/pen disassembled-numbered.jpg" alt=""><figcaption><p>Components used in my pen configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pen disassembled-numbered.jpg" alt=""><figcaption><p>Components used in my pen configuration</p></figcaption></figure>
 
 * 1 pen body with tip - the front
 * 2 pen body rear
@@ -78,7 +78,7 @@ This is a very normal EMR pen that lives up to previous models in terms of quali
 
 When my pen is fully assembled it looks like this:
 
-<figure><img src="../../.gitbook/assets/pen assembled.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pen assembled.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3 button strip
 
@@ -117,7 +117,7 @@ When my pen is fully assembled it looks like this:
   * Wacom mentioned on twitter and during their demo event they would release an update that would make the Pro Pen 3 work on select older tablets.
     * Twitter post: [https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA](https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA)\
       \
-      ![](<../../.gitbook/assets/image (286).png>)
+      ![](<../../../.gitbook/assets/image (286).png>)
   * Wacom has not published that update
   * Wacom has not identified which older tablets will be updated to be compatible with the Pro Pen 3
 * What happens when you try using the Pro Pen 3 with an older tablet
@@ -132,13 +132,13 @@ When my pen is fully assembled it looks like this:
 * Pressure levels: 8192
 * Nothing special here or different here. Every recently produced pen says it supports this many levels.
 * I continue to maintain that 2048 levels is all you need for creative applications. Some say even fewer pressure levels are needed.
-* Learn more: [**Pen pressure**](../../guides/core-features/pen-pressure.md)
+* Learn more: [**Pen pressure**](../../../guides/core-features/pen-pressure.md)
 
 ### Barrel rotation
 
 * The Pro Pen 3 does not support barrel rotation.
 * This was very disappointing. Even though
-* Learn more: [**Pen Barrel rotation**](../../guides/core-features/pen-barrel-rotation.md)  &#x20;
+* Learn more: [**Pen Barrel rotation**](../../../guides/core-features/pen-barrel-rotation.md)  &#x20;
 
 ### Eraser
 

@@ -2,7 +2,7 @@
 
 ### Basics
 
-* My notes: [7P notes: Waacom One GEN2 drawing tablets](../../../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
+* My notes: [7P notes: Waacom One GEN2 drawing tablets](7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
 
 ## List of Wacom One GEN2 tablets
 

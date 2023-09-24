@@ -12,7 +12,7 @@
 
 ## My notes
 
-* [My notes on Huion HS611](../../../7p-notes/7p-notes-huion/7p-notes-huion-hs611.md)&#x20;
+* [My notes on Huion HS611](7p-notes-huion-hs611.md)&#x20;
 
 ## Reviews
 

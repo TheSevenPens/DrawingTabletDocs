@@ -1,4 +1,4 @@
-# 7P notes: Xencelabs Medium Pen Tablet (BPH1212W-A)
+# 7P notes: Xencelabs Pen Tablet Medium (BPH1212W-A)
 
 **Summary**
 
@@ -18,5 +18,5 @@ It's in the same price range as Wacom.
 
 With my standard slow-drawing, wobble test, the wobble results were OK. This good be a bit better. But I don't think you'll typically notice the wobble in practice.&#x20;
 
-![](<../../.gitbook/assets/Xencelabs Pen Tablet Medium (BPH1212W-A).png>)
+![](<../../../.gitbook/assets/Xencelabs Pen Tablet Medium (BPH1212W-A).png>)
 

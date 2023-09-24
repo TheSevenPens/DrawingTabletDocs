@@ -27,7 +27,7 @@
 
 * Many others have created very thoughtful reviews
 * Please consult them to get a more complete understanding of this tablet
-* You can find other reviews of the Wacom Cintiq Pro 27 in [Wacom reviews](../../product-info/wacom/).
+* You can find other reviews of the Wacom Cintiq Pro 27 in [Wacom reviews](../).
 
 ## Components
 
@@ -61,7 +61,7 @@
 
 ### Pointer lag&#x20;
 
-* **Background:** [**lag**](../../guides/core-features/lag.md)
+* **Background:** [**lag**](../../../guides/core-features/lag.md)
 * **In absolute terms**, The Cintiq Pro 27 has shows moderate pointer lag.&#x20;
   * Pen tablets (like the Intuos Pro Large PTH-860) have much less lag than this Cintiq. These have EXCELLENT lag.
   * Apple iPads have much less lag than this Cintiq, but not quite as little as pen displaces. These have EXCELLENT log.
@@ -70,7 +70,7 @@
 
 ### Tilt
 
-* More here: [**Pen tilt**](../../guides/core-features/pen-tilt.md)&#x20;
+* More here: [**Pen tilt**](../../../guides/core-features/pen-tilt.md)&#x20;
 * Tilt support with the Cintiq Pro 27 is standard for Wacom: EXCELLENT.
   * Tilt is smooth, accurate, and responsive.
   * Tilt works correctly at edges and corners.
@@ -78,7 +78,7 @@
 
 ### Pen tracking accuracy
 
-* Background: [**pen tracking**](../../guides/core-features/pen-tracking.md) &#x20;
+* Background: [**pen tracking**](../../../guides/core-features/pen-tracking.md) &#x20;
 * Wacom does not publish pen tracking accuracy numbers
 * But we can compare it to other tablets that do have published numbers
 * Here are the accuracy numbers for the Huion Kamvas Pro 24 4K (GT2401) as
@@ -100,7 +100,7 @@
 
 Pressure is a feature of the pen you use with the tablet.
 
-See my [**notes on the Wacom Pro Pen 3**](7p-notes-wacom-pro-pen-3.md) that comes with the tablet.
+See my [**notes on the Wacom Pro Pen 3**](../wacom-intuos-pro/7p-notes-wacom-pro-pen-3.md) that comes with the tablet.
 
 ### **Diagonal wobble**
 
@@ -120,7 +120,7 @@ Cintiq Pro 27 wobble (below)
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -128,7 +128,7 @@ Wacom Intuos Pro Large (PTH-860) wobble (Below).
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (122).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -136,7 +136,7 @@ Wacom Intuos Pro Large (PTH-860) wobble (Below).
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -144,7 +144,7 @@ Wacom Intuos Pro Large (PTH-860) wobble (Below).
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (152).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (152).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -188,7 +188,7 @@ Wacom Intuos Pro Large (PTH-860) wobble (Below).
 
 ### **Anti-glare treatment and sparkle**
 
-* Background: [Anti-glare sparkle](../../guides/pen-displays/anti-glare-sparkle.md)&#x20;
+* Background: [Anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)&#x20;
   * Reflections on your pen display would make it difficult to draw. To reduce reflections, manufacturers give an anti-glare (AG) treatment to the display/ The AG treatment is either etched glass or an AG film applied on top of the glass
 * The Cintiq Pro 27 uses AG etched glass
 * The AG sparkle from the etched glass is GOOD (i.e. low) for a display of this size and resolution&#x20;
@@ -294,7 +294,7 @@ My usage: I left it at **Native**.
 * You CAN angle it so that the surface is **perpendicular to the floor**.&#x20;
   * However, then essentially the bottom edge is directly touching your desk. So it isn't very useful in that position if you just want to use it as a monitor with this stand.
 * You can angle it so that the surface is facing completely upwards and **parallel to the floor**.
-  * ![](<../../.gitbook/assets/image (258).png>)
+  * ![](<../../../.gitbook/assets/image (258).png>)
 
 ### Height adjustability
 
@@ -310,7 +310,7 @@ My usage: I left it at **Native**.
 * It is still unclear to me why the Cintiq Pro 27 needs fans when many other devices don't. For example, is the Huion Pro 24 4K is silent and is just very slightly warm to the touch. There are many other examples of devices.&#x20;
 *   The fans are located on the top edge of the display
 
-    <figure><img src="../../.gitbook/assets/PXL_20221123_223627476_annotated.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/PXL_20221123_223627476_annotated.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Fan noise
 
@@ -354,7 +354,7 @@ The Wacom Cintiq Pro 27 comes with the Wacom Pro Pen 3.
 
 The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
 
-See my [**notes on the Wacom Pro Pen 3**](7p-notes-wacom-pro-pen-3.md).
+See my [**notes on the Wacom Pro Pen 3**](../wacom-intuos-pro/7p-notes-wacom-pro-pen-3.md).
 
 ## Touch&#x20;
 
@@ -372,7 +372,7 @@ See my [**notes on the Wacom Pro Pen 3**](7p-notes-wacom-pro-pen-3.md).
 
 There are three buttons on the tablet (top right if you are facing the tablet)
 
-<figure><img src="../../.gitbook/assets/PXL_20221124_191236997-cleaned-annotated (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PXL_20221124_191236997-cleaned-annotated (1).jpg" alt=""><figcaption></figcaption></figure>
 
 These buttons are the
 

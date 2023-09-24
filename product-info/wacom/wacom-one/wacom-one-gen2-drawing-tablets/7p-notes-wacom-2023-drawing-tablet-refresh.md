@@ -16,7 +16,7 @@ The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with p
 
 This diagram is my summary how their consumer line of tablets is evolving
 
-<figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 ## Branding
 
@@ -67,11 +67,11 @@ The Wacom One (Gen 2) pen displays can be connected three ways
 
 Wacom estore says there is "no parallax"
 
-![](<../../.gitbook/assets/image (341).png>)
+![](<../../../../.gitbook/assets/image (341).png>)
 
 This is a physical impossibility in a pen display that has a piece of glass over the display panel. I demonstrated this clearly in my video on pen display accuracy: [https://youtu.be/M4rEk\_RNBrM](https://youtu.be/M4rEk\_RNBrM)&#x20;
 
-That being said the Wacom One (Gen 1) did not have much parallax. You can see photos of it here: [parallax](../../guides/pen-displays/parallax.md)&#x20;
+That being said the Wacom One (Gen 1) did not have much parallax. You can see photos of it here: [parallax](../../../../guides/pen-displays/parallax.md)&#x20;
 
 So, I expect the low parallax story will continue for the Wacom One (Gen 2).
 
@@ -83,7 +83,7 @@ The Wacom One (Gen 2) pen tablets no longer have buttons on the tablets. Even th
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-10 184306.jpg" alt="" width="358"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-08-10 184306.jpg" alt="" width="358"><figcaption></figcaption></figure>
 
 </div>
 
@@ -112,7 +112,7 @@ The old Wacom One (Gen 1) pen display had foldable legs. The new GEN pen display
 
 Wacom is offering a very unique design for their stand.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-10 201447.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-08-10 201447.jpg" alt=""><figcaption></figcaption></figure>
 
 ## VESA mounting
 
@@ -122,15 +122,15 @@ Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable
 
 ### Wacom One 12 GEN2 (DTC-121)
 
-![](<../../.gitbook/assets/Wacom One 12 GEN2 (DTC-121) wobble.png>)
+![](<../../../../.gitbook/assets/Wacom One 12 GEN2 (DTC-121) wobble.png>)
 
 ### Wacom One 13 touch GEN (DTH-134)
 
-### ![](<../../.gitbook/assets/Wacom One 13 touch GEN2 (DTH-134) wobble.png>)
+### ![](<../../../../.gitbook/assets/Wacom One 13 touch GEN2 (DTH-134) wobble.png>)
 
 ### Wacom One M GEN2  (CTC-6110WL)
 
-![](<../../.gitbook/assets/Wacom M GEN2 (CTC-6110WL) wobble (1).png>)
+![](<../../../../.gitbook/assets/Wacom M GEN2 (CTC-6110WL) wobble (1).png>)
 
 
 
