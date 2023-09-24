@@ -1,4 +1,4 @@
-# Huion pen models
+# Huion pens
 
 ## PenTech
 

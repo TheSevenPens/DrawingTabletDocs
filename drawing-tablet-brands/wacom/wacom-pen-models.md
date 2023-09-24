@@ -1,4 +1,4 @@
-# Wacom pen models
+# Wacom pens
 
 This a **very** incomplete list, but does cover many pens in use for the past few years.
 

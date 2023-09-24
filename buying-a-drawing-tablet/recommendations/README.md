@@ -6,7 +6,7 @@ Before you look at the recommendations, I recommend you read:
 
 * [Beginner's guide to drawing tablets](../../guides/beginners-guide.md)
 * [Buying a drawing tablet](../)
-* [Drawing tablet brands](../../drawing-tablet-brands.md)&#x20;
+* [Drawing tablet brands](../../drawing-tablet-brands/)&#x20;
 
 ## The recommendations
 
