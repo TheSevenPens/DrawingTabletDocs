@@ -6,18 +6,11 @@ PenTech 1.0, 2.0, 3.0 -> [https://support.huion.com/en/support/solutions/article
 
 ## Huion pen history
 
-* PW550 - 2023
-* PW110 - 2023
-* PW400 - 2022
-* PW517 - 2020
-* PW507 - 2018
-* PW500 - 2018
-* PW100 - 2017 or earlier (?)
-* PE330 - 2016 or earlier (?)
-* PE150 - 2016 or earlier (?)
-* PEN80 - 2016 or earlier (?)
 
-## Partial Huion Pen Compatibility
+
+<table><thead><tr><th>Model Identifier</th><th width="197">Launch Year</th><th>Pen Technology</th></tr></thead><tbody><tr><td>PW550</td><td>2023</td><td>EMR</td></tr><tr><td>PW110</td><td>2023</td><td>EMR</td></tr><tr><td>PW400</td><td>2022</td><td>EMR</td></tr><tr><td>PW517</td><td>2020</td><td>EMR</td></tr><tr><td>PW507</td><td>2018</td><td>EMR</td></tr><tr><td>PW500</td><td>2018</td><td>EMR</td></tr><tr><td>PW100</td><td> 2017 or earlier (?)</td><td>EMR</td></tr><tr><td>PE330 </td><td>2016 or earlier (?)</td><td>NOT EMR</td></tr><tr><td>PE150 </td><td>2016 or earlier (?)</td><td>NOT EMR</td></tr><tr><td>PEN80</td><td>2016 or earlier (?) </td><td>NOT EMR</td></tr></tbody></table>
+
+## Huion pen compatibility (partial)
 
 PW517  [https://store.huion.com/products/battery-free-pen-pw517](https://store.huion.com/products/battery-free-pen-pw517)
 

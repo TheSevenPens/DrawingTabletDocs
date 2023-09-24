@@ -9,7 +9,7 @@ The problem: Wacom makes two very different devices with confusingly similar nam
 * One by Wacom Small (CTL-472)&#x20;
 * One by Wacom medium (CTL-672)&#x20;
 
-**"Wacom One"** can refer to any of 5 drawing tablets
+**"Wacom One"** can refer to any of 5 drawing tablets in two generations
 
 * Wacom One GEN1 (DTC-133) - a pen display&#x20;
 * Wacom One 12 GEN2 (DTC-121) - a pen display
