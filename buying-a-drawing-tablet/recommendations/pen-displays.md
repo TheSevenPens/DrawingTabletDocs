@@ -7,7 +7,7 @@
   * These drawing tablets have to be used with a computer. They do not work standalone.
 * Make sure you know about [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
 * More information: [**product info links**](../../product-info/)   &#x20;
-* [**7P notes on 13" pen displays**](../../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+* [**7P notes on 13" pen displays**](../../7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 * Pen displays have more pointer lag than pen tablets. More here: [lag](../../guides/core-features/lag.md)&#x20;
 
 ## $200 to $300 &#x20;
@@ -34,11 +34,11 @@
 
 * MEDIUM [**Wacom Cintiq Pro 16** (DTH-167)](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-16-dth-167.md) $1500
 * LARGE [**Wacom Cintiq 22** (DTK-2260)](../../product-info/wacom/wacom-cintiq/wacom-cintiq-22-dtk-2260.md) $1200
-* LARGE [**Huion Kamvas 24 Pro 4K** (GT2401)](../../product-info/huion/huion-kamvas/huion-kamvas-pro-24-4k-gt2401.md) $1300 ([my notes](../../product-info/huion/huion-kamvas-pro/huion-kamvas-24-pro-4k-gt2401/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
+* LARGE [**Huion Kamvas 24 Pro 4K** (GT2401)](../../product-info/huion/huion-kamvas/huion-kamvas-pro-24-4k-gt2401.md) $1300 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
 
 ## $1500 - $2000
 
-* LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/xencelabs-pen-display-24/) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([my notes](../../product-info/xencelabs/xencelabs-pen-display-24/7p-notes-xencelabs-pen-display-24.md))
+* LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/xencelabs-pen-display-24.md) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([my notes](../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md))
 
 ## $2000 - $3000
 

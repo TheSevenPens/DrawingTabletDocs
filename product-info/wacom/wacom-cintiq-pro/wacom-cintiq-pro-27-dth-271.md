@@ -8,7 +8,7 @@
 
 ## My notes
 
-* **The Seven Pens -** Nov 2022 [7P notes: Wacom Cintiq Pro 27](7p-notes-wacom-dth271.md)
+* **The Seven Pens -** Nov 2022 [7P notes: Wacom Cintiq Pro 27](../../../7p-notes/7p-notes-wacom/7p-notes-wacom-dth271.md)
 
 ## **Reviews**
 

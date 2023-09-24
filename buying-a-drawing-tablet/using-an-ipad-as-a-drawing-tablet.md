@@ -113,7 +113,7 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## How I use iPads
 
-My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../product-info/7p-notes-other/7p-notes-apple-ipad-pro.md) &#x20;
+My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-notes-other/7p-notes-apple-ipad-pro.md) &#x20;
 
 ## Videos
 
