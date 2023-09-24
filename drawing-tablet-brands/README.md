@@ -70,7 +70,7 @@ This is why you MUST choose a brand that:
 
 The leading brand out there is **Wacom** ([https://www.wacom.com](https://www.wacom.com)). They have a variety of products and different price points that should fit everyone's needs. If you don't want to weigh the pros and cons of different brands and want an easy answer then choose Wacom.&#x20;
 
-My experience: I currently own 19 Wacom tablets (2 pen displays and 17 pen tablets). I have extensively used a tablet from every professional Intuos series.&#x20;
+My experience: I currently own 19 Wacom tablets (2 pen displays and 17 pen tablets). I have extensively used a tablet from every Intuos Pro series.&#x20;
 
 ### What Wacom does well
 
@@ -82,9 +82,9 @@ My experience: I currently own 19 Wacom tablets (2 pen displays and 17 pen table
 
 ### How Wacom could do better
 
-* Introduce new models. The product line has not significantly advanced in a few years.
 * More competitive pricing. Competitors are encroaching on Wacom space and gaining traction in features and reliability. The price premium Wacom commands for their professional products is starting to feel like like too much of a tax.
-* Straighten out their product naming. Specifically their **One by Wacom** pen tablet has a name too similar to their **Wacom One** pen display.
+* Straighten out their product naming. Specifically their **One by Wacom** pen tablet has a name too similar to their **Wacom One** pen displays.
+* Their new Wacom One GEN2 consumer tablets and pens have some pressure issues: [https://youtu.be/415ngQOHiME?si=ImWg8OOB7OENcuUU](https://youtu.be/415ngQOHiME?si=ImWg8OOB7OENcuUU)
 
 ## Tier 2: Huion and XP-Pen
 
@@ -143,13 +143,18 @@ I used a Xencelabs Medium tablet (BPH1212W-A) for about six months. I was very s
   * Their pen tablets are exactly 16x9 aspect ratio
   * The front edge of their pen tablets are slightly slopped so there's less of a hard edge hitting your wrist
 * The "feel" and quality of materials is excellent - Wacom tier.
-* Their driver experience is easily the most user-friendly and attractive of any tablet brand.
+* Their driver experience is easily the most well thought-out, user-friendly and attractive of any tablet brand.
+* Their tablets come with 2 pens. This is great because if you are having difficulties you se if switching pens helps.
 * I don't have any direct experience with their support. I haven't needed to contact them for any issue.
 
 ### How Xencelabs could do better
 
 * Their EMR tech is the same place as XP-Pen. If they are going to challenge Wacom at the same price point this should improve.&#x20;
 * There aren't that many Xencelabs users out there - so if you need community help there are very few people in the community who can help.
+* As of September 2023, their Windows driver does not support connecting multiple Xencelabs tablets being connected at the same time. In my observation, their driver becomes extremely confused when multiple Xencelabs tablets are plugged in and it requires a driver restart to get it back to normal. All of Wacom, Huion, XP-pens drivers handle multiple tablets at the same time.
+* As of September 2023, they have some portfolio gaps
+  * They don't have a LARGE pen tablet model - something comparable to the Wacom Intuos Large, Huion Giano G930L, XP-Pen Deco Pro XLW GEN2.
+  * They don't have a pen display in the 16" size.
 
 ## Tier 3: The small players
 
