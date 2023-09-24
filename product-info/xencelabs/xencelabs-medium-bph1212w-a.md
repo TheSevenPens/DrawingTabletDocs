@@ -8,9 +8,9 @@
 
 ## Reviews
 
-* Teoh on Tech - [https://www.youtube.com/watch?v=Vrwifey6168](https://www.youtube.com/watch?v=Vrwifey6168)&#x20;
-* Brad Colbow - [https://www.youtube.com/watch?v=d3vIa8cBzwI](https://www.youtube.com/watch?v=d3vIa8cBzwI)&#x20;
-* Aaron Rutten - [https://www.youtube.com/watch?v=4m2yqJ3wFgI](https://www.youtube.com/watch?v=4m2yqJ3wFgI) &#x20;
-* ManyLearn - [https://www.youtube.com/watch?v=uS63-2e32i8](https://www.youtube.com/watch?v=uS63-2e32i8)&#x20;
+* Teoh on Tech - Xencelabs Pen Tablet Medium: Premium Entry From a New Company ([https://www.youtube.com/watch?v=Vrwifey6168](https://www.youtube.com/watch?v=Vrwifey6168)) Apr 8, 2021&#x20;
+* Brad Colbow- Xencelabs Pen Tablet Review ([https://www.youtube.com/watch?v=d3vIa8cBzwI](https://www.youtube.com/watch?v=d3vIa8cBzwI)) Apr 30, 2021&#x20;
+* Aaron Rutten - XENCELABS Tablet Review - Just a Rebranded XP-Pen/Ugee? ([https://www.youtube.com/watch?v=4m2yqJ3wFgI](https://www.youtube.com/watch?v=4m2yqJ3wFgI)) May 14, 2021&#x20;
+* ManyLearn - Xencelabs tablet review by a long-term Wacom user ([https://www.youtube.com/watch?v=uS63-2e32i8](https://www.youtube.com/watch?v=uS63-2e32i8)) Apr 13, 2022
 
 ##

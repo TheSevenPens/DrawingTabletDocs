@@ -8,8 +8,9 @@
 
 ## Reviews
 
-* Brad Colbow Xencelabs Pen Display 24 Review Jun 4 2023 ([https://youtu.be/sr76rKKO4iQ](https://youtu.be/sr76rKKO4iQ))
-* Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro- ([https://www.youtube.com/watch?v=Woe0\_XSUtLE](https://www.youtube.com/watch?v=Woe0\_XSUtLE))
+* Brad Colbow - Xencelabs Pen Display 24 Review ([https://youtu.be/sr76rKKO4iQ](https://youtu.be/sr76rKKO4iQ))  Jun 4 2023
+* Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro- ([https://www.youtube.com/watch?v=Woe0\_XSUtLE](https://www.youtube.com/watch?v=Woe0\_XSUtLE)) Sep 14, 2023
+* Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts ( [https://www.youtube.com/watch?v=jLEj12-um3A](https://www.youtube.com/watch?v=jLEj12-um3A)) Mar 28, 2023
 * [https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/)&#x20;
 
 
