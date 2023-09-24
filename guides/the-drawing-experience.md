@@ -4,7 +4,7 @@ description: What it feels like to draw on a drawing tablet
 
 # The drawing experience
 
-## **Drawing: getting strokes right the first time**
+## G**etting strokes right the first time**
 
 With a **pen display** you can see exactly where the stroke is going to be. Many people who use pen displays say that they get the stroke right the first time.&#x20;
 
@@ -12,7 +12,7 @@ Some people feel that with a **pen tablet**, they would have to make the stroke 
 
 I would generally agree with these statements. When I want to do some line work faster than normal, I will often switch from a pen tablet to a pen display.
 
-## Drawing: matching hand movements and drawing
+## Matching hand movements and drawing
 
 With a **pen display**, things are natural. You see the pen in the same place the stroke is being drawn - just like a piece of paper.
 
@@ -26,11 +26,11 @@ One advantage of this disconnect is that the pen and your hand do not block your
 
 Still, some people struggle with the disconnect .Usually they can train themselves out of this within a complex of weeks. But some people just can't get used to it.
 
-## Drawing: quality of art you can make
+## Quality of art you can make
 
 Some people worry that the quality of art they want to produce can only be produced by a pen display. You shouldn't let that worry you. People have been producing amazing art with pen tablets for decades. There are definitely some benefits to using a pen display, but the quality of art than can be made is not a factor.
 
-## Drawing: matching aspect ratios
+## Matching aspect ratios
 
 With a pen display, the active are and the screen have the same size. This means the pen will draw exactly where you see it draw.
 
