@@ -34,7 +34,7 @@
 
 * MEDIUM [**Wacom Cintiq Pro 16** (DTH-167)](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-16-dth-167.md) $1500
 * LARGE [**Wacom Cintiq 22** (DTK-2260)](../../product-info/wacom/wacom-cintiq/wacom-cintiq-22-dtk-2260.md) $1200
-* LARGE [**Huion Kamvas 24 Pro 4K** (GT2401)](../../product-info/huion/huion-kamvas/huion-kamvas-pro-24-4k-gt2401.md) $1300 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-24-pro-4k.md))
+* LARGE [**Huion Kamvas 24 Pro 4K** (GT2401)](../../product-info/huion/huion-kamvas/huion-kamvas-pro-24-4k-gt2401.md) $1300 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
 
 ## $1500 - $2000
 
