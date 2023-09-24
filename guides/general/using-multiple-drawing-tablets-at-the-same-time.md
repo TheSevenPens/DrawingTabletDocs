@@ -59,9 +59,16 @@ Sometimes people want to use two tablets on a computer because they have two chi
 
 Let's suppose both children are drawing simultaneous on their individual tablet. The pens will "fight" and the pointer will bounce back and forth rapidly and it will be impossible to draw.&#x20;
 
+## Support by brand
+
+* Wacom - YES
+* Huion - YES
+* XP-Pen - YES
+* Xencelabs - NO. As of September 2023, If you try it, the driver will tell you it is not yet supported. So in the future I do expect this to work.
+
 ## Setups I tested
 
-**Wacom Setup 1**
+**Wacom Setup 1** (tested in September 2023)
 
 * Wacom Cintiq Pro 27 (DTH-271)
 * Wacom One 13 touch (DTH-134)
@@ -69,23 +76,31 @@ Let's suppose both children are drawing simultaneous on their individual tablet.
 * Wacom Intuos Pro Large (PTH-860)
 * Wacom Intuos M (CTC-6100WL)
 
-**Wacom Setup 2**
+**Wacom Setup 2** (tested in September 2023)
 
 * Wacom Intuos Pro Large (PTH-860)
 * Wacom Intuos 4 XL (PTK-1240)
 
-**Huion Setup 1**
+**Huion Setup 1** (tested in September 2023)
 
 * Huion Kamvas 22 Plus (GS2202)
 * Huion Giano (G930L)
 * Huion Kamvas 13 (GS1331)
 
-**Huion Setup 2**
+**Huion Setup 2** (tested in September 2023)
 
 * Huion Kamvas 24 Pro 4K (GT2401)
 * Huion Kamvas 13 (GS1331)
 
-**XP-Pen Setup 1**
+**XP-Pen Setup 1** (tested in September 2023)
 
 * XP-Pen Artist Pro 16 GEN2 (MD160QH)
 * XP-Pen Deco Pro XLW GEN2 (MT1592B)
+
+**Xencelabs Setup 1** (tested in September 2023)
+
+THIS DOES NOT WORK
+
+* Xencelabs Pen Tablet Medium
+* Xencelabs Pen Display 24
+*
