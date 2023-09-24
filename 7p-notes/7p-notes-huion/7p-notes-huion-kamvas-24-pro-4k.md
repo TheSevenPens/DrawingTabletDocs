@@ -39,6 +39,14 @@ There are two cables running from the tablet.
 * display signal and data - I connect it via a single USB-C Thunderbolt 3 cable to one my Surface Pro 8's 2 USB-C Thunderbolt 4 ports.
 * power - I connect it using Huions power adapter to the wall.&#x20;
 
+**Diagonal wobble**
+
+Rating: VERY GOOD (LOW AMOUNT OF WOBBLE)
+
+Wobble is minor and only noticeable in very slow strokes.
+
+![](<../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2).png>)
+
 
 
 
