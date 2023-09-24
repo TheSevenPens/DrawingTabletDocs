@@ -82,7 +82,7 @@
     * [Pen teardown: Huion PEN80](guides/pens/pen-teardown-huion-pen80.md)
   * [Drivers](guides/drivers/README.md)
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
-      * [Using OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+      * [Install OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
       * [OpenTabletDriver application data directory](guides/drivers/opentabletdriver/opentabletdriver-application-data-directory.md)
       * [Uninstalling OpenTabletDriver on Windows](guides/drivers/opentabletdriver/uninstalling-opentabletdriver-on-windows.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
