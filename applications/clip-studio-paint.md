@@ -2,7 +2,7 @@
 
 ## Basics
 
-* Site: https://clipstudio.net  &#x20;
+* Site: [https://clipstudio.net](https://clipstudio.net)   &#x20;
 * Good for: lots of art styles, especially good for illustration
 * Wikipedia: [https://en.wikipedia.org/wiki/Clip\_Studio\_Paint](https://en.wikipedia.org/wiki/Clip\_Studio\_Paint)&#x20;
 * Available for: Windows, macOS, iPadOS, iOS, Android, Chrome OS

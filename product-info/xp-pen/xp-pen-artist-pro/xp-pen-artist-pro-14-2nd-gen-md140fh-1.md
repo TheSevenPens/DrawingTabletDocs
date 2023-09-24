@@ -1,9 +1,9 @@
-# XP-Pen Artist Pro 16 Gen2 (MD160QH)
+# XP-Pen Artist Pro 16 GEN2 (MD160QH)
 
 ## Basics
 
 * Product link: [https://www.xp-pen.com/product/artist-pro-16-gen-2.html](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)&#x20;
-* [my notes](7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)  &#x20;
+* [my notes](../../../7p-notes/7p-notes-xp-pen/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)  &#x20;
 
 ## Reviews
 
