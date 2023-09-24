@@ -6,17 +6,29 @@ Had a good experience with this tablet after using for six months.
 
 It's in the same price range as Wacom.
 
-**Build quality** - very solid. Comparable to Wacom Intuos Pro.
+**Build quality**&#x20;
 
-**Basic drawing** - very good. I forgot I wasn't using a Wacom Intuos Pro tablet.
+Rating: very good.&#x20;
 
-**Diagonal wobble** - did not test.
+Comparable to Wacom Intuos Pro GEN2.
 
-**Driver** - Driver UX is very friendly and modern in appearance.
+**Basic drawing**&#x20;
 
-**Diagonal Wobble** -&#x20;
+Rating: very good.&#x20;
 
-With my standard slow-drawing, wobble test, the wobble results were OK. This good be a bit better. But I don't think you'll typically notice the wobble in practice.&#x20;
+I forgot I wasn't using a Wacom Intuos Pro tablet.
+
+**Driver**&#x20;
+
+Rating: Excellent
+
+Driver UX is very friendly and modern in appearance.
+
+**Diagonal Wobble**
+
+Rating: OK (LOW)
+
+With my standard slow-drawing wobble test I did see some wobble. This could be a bit better for a pro tablet. I don't think you'll typically notice the wobble in practice.&#x20;
 
 ![](<../../.gitbook/assets/Xencelabs Pen Tablet Medium (BPH1212W-A).png>)
 
