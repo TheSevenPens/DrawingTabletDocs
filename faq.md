@@ -4,7 +4,7 @@
 
 ### Q: Which drawing tablet brands are available?
 
-A list of brands and my take on some of them are here: [**drawing tablet brands**](drawing-tablet-brands/)
+A list of brands and my take on some of them are here: [**drawing tablet brands**](drawing-tablet-brands.md)
 
 ### Q: Which an iPad better than a drawing tablet?
 

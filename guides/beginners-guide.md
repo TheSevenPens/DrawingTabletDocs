@@ -136,7 +136,7 @@ Many people try pen displays and learn they don't enjoy using them and go back t
 
 ## Drawing tablet brands
 
-Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [**Drawing Tablet Brands**](../drawing-tablet-brands/)
+Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [**Drawing Tablet Brands**](../drawing-tablet-brands.md)
 
 ## Core tablet features and specs
 

@@ -35,9 +35,9 @@ To keep it simple:
 
 **If you want a safe choice, go with Wacom.** They are also the most expensive. Since 2021 **competitors like Huion, XP-Pen, and Xencelabs** are closing the gap with Wacom.
 
-This guide on [**brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
+This guide on [**brands**](../drawing-tablet-brands.md) will help understand how to compare the brands.
 
-If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
+If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-info/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
 
 ## My notes on drawing tablets
 
@@ -213,7 +213,7 @@ Pen tablets overall are much simpler devices than pen displays. As a consequence
 
 Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
 
-Here is an example. Wacom has two tablets with similar names but that are very different: **Wacom One** (a pen display) and **One by Wacom** (a pen tablet). More about the differences here: [Wacom One vs One by Wacom](../drawing-tablet-brands/wacom/wacom-one-vs-one-by-wacom.md)&#x20;
+Here is an example. Wacom has two tablets with similar names but that are very different: **Wacom One** (a pen display) and **One by Wacom** (a pen tablet). More about the differences here: [Wacom One vs One by Wacom](../product-info/wacom/wacom-one-vs-one-by-wacom.md)&#x20;
 
 * NEVER order by using the name of the tablet alone.
 * ALWAYS verify you have ordered correct model number.

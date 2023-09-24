@@ -12,7 +12,7 @@ Buying a used tablet is an alternative if you want to save a little money
 
 Wacom products have always been the most reliable and higher quality devices. So even going back years, their models work well  Because Wacom professional pen tablets are the very highest quality, those make great choices for buying used.
 
-More here: [drawing tablet brands](../drawing-tablet-brands/) &#x20;
+More here: [drawing tablet brands](../drawing-tablet-brands.md) &#x20;
 
 ## Buying used Wacom Intuos professional tablets
 
