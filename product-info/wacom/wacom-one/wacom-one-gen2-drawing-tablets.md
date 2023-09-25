@@ -29,6 +29,7 @@ There are many videos on Wacom's YouTube channel ([https://www.youtube.com/@waco
 
 ## Reviews
 
+* Brad Colbow - Wacom One 13 Touch Review - ([https://www.youtube.com/watch?v=VXtQvhrV6WY](https://www.youtube.com/watch?v=VXtQvhrV6WY)) Sep 25, 2023
 * Aaron Rutten - Wacom One 13 1st Gen. VS 2nd Gen. (2023) - Comparison - ([https://www.youtube.com/watch?v=lQGeqT6YA7Y](https://www.youtube.com/watch?v=lQGeqT6YA7Y))
 * Aaron Rutten - Wacom One 12 & 13 Touch (2023) - Review - ([https://www.youtube.com/watch?v=X\_FrZGl0lYM](https://www.youtube.com/watch?v=X\_FrZGl0lYM))
 * Aaron Rutten - 2023 Wacom One Small & Medium - Review  - ([https://www.youtube.com/watch?v=w7QLQFOK\_eU](https://www.youtube.com/watch?v=w7QLQFOK\_eU))
