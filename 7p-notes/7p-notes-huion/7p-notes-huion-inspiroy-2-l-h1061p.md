@@ -4,11 +4,11 @@
 
 I only tried this tablet for about a week. I liked it very much initially.&#x20;
 
-\[Update Sept 2023] a reddit told me about some bad pressure handling. I confirmed this is the case. Until Huion issues a firmware or driver fix for this problem I cannot recommend this tablet. &#x20;
+\[Update Sept 2023] a Reddit user told me about some bad pressure handling. I confirmed this is the case. Until Huion issues a firmware or driver fix for this problem I cannot recommend this tablet. &#x20;
 
 **Drawing experience**
 
-Overall felt good bud has bad pressure handling.
+Overall felt good, but has bad pressure handling.
 
 **Pressure problems**
 
@@ -36,7 +36,7 @@ I tried it with a PW517 pen it worked.
 
 **Size**
 
-Huion puts L in the name of this tablet to identify it is as a "large" tablet. However this tablet is close to size to medium tablets like the Wacom Intuos Pro medium (PTH-660) it is nowhere close to the true large size of something like the Wacom Intuos Pro Large (PTH-860) or the Huion Giano G930L.
+Huion puts L in the name of this tablet to identify it is as a "large" tablet. However this tablet is close to size to medium tablets like the Wacom Intuos Pro medium (PTH-660) it is nowhere close to the true large size of something like the Wacom Intuos Pro Large (PTH-860) or the Huion Inspiroy Giano G930L.
 
 **Wireless**
 
@@ -48,13 +48,13 @@ I really enjoyed the flexibility of how the buttons work with the group keys. Ev
 
 **Compared RTP-700**
 
-I think it's better choice than the RTP-700 because it has physical buttons, unlike the capacitive buttons of the RTP-700.&#x20;
+This model has physical buttons, unlike the capacitive buttons of the RTP-700.&#x20;
 
 **Compared to the XP Deco LW**
 
-Similar drawing experience, but I like the extra buttons capabilities and the scroller of the Inspiroy 2 L.
+Similar drawing experience (except for the pressure issue), but I like the extra buttons capabilities and the scroller of the Inspiroy 2 L.
 
-However, I do think the Huion PW517 pen has a lower (better) initial activation force than the pen that comes with the XP Deco LW.
+The Huion PW517 pen has a lower (better) initial activation force than the pen that comes with the XP Deco LW.
 
 
 
