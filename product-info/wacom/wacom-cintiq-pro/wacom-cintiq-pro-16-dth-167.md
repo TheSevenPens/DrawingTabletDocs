@@ -14,3 +14,4 @@
 * Brad Colbow - ([https://www.youtube.com/watch?v=0B8cNzyO4bs](https://www.youtube.com/watch?v=0B8cNzyO4bs) ) Mar 7, 2022
 * Aaron Rutten - ([https://www.youtube.com/watch?v=v9pWwWE\_vRM](https://www.youtube.com/watch?v=v9pWwWE\_vRM) ) Oct 26, 2021
 * MobileTechReview - ([https://www.youtube.com/watch?v=IU-QOOB2AsU](https://www.youtube.com/watch?v=IU-QOOB2AsU) ) Jan 11, 2022
+* Aaron Blaise ([https://www.youtube.com/watch?v=oROcuvimy18](https://www.youtube.com/watch?v=oROcuvimy18)) Dec 21, 2021
