@@ -14,12 +14,14 @@ I measure diagonal wobble using a simple procedure
 
 ## Testing process
 
+* Verify the plastic ruler has no rough spots or pumps that would affect the measurement. It should be smooth.
 * For pen tablets, set the active area to a single display.
 * For pen tablets, set the driver to match the aspect ratio of the tablet to the display.
 * Set Krita zoom to 100%.
 * Trace usually at least five 10cm lines at 45 degrees using the plastic ruler.&#x20;
-  * Draw the line from the lower left to the upper right
+  * Draw the line from the lower left to the upper right.
   * Take 3 seconds to draw the line.
+  * The pen is tilted at about 30 degrees from vertical.
 * Save as a PNG
 
 
