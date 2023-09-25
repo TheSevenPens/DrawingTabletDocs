@@ -24,8 +24,3 @@ I measure diagonal wobble using a simple procedure
   * The pen is tilted at about 30 degrees from vertical.
 * Save as a PNG
 
-
-
-&#x20;
-
-These examples were created by creating a 4K image in Krita and drawing (roughly) a 10cm line over 3 seconds using a smooth plastic ruler.
