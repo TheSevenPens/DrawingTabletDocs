@@ -46,4 +46,4 @@
 
 ## $3000 to $4000
 
-* LARGE [**Wacom Cintiq Pro 27**](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-27-dth-271.md) $3500
+* LARGE [**Wacom Cintiq Pro 27**](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-27-dth-271/) $3500
