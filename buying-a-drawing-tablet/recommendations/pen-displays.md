@@ -16,7 +16,7 @@
 
 ## $300 to $500
 
-* SMALL [**Wacom One 2019 Gen 1**](../../product-info/wacom/wacom-one/wacom-one-dtc-133.md) (DTC-133) $400&#x20;
+* SMALL [**Wacom One 2019 Gen 1**](../../product-info/wacom/wacom-one/wacom-one-dtc-133/) (DTC-133) $400&#x20;
 * SMALL **Wacom One 12** (DTC-121) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * SMALL [**XP-Pen Artist 16 Gen2** (CD160FH)](../../product-info/xp-pen/xp-pen-artist/xp-pen-artist-16-2nd-gen-cd160fh-1.md) $400 <mark style="color:red;">**UNDER EVALUATION**</mark>
 * LARGE [**Huion Kamvas 22** (GS2201)](../../product-info/huion/huion-kamvas/huion-kamvas-22-gs2201.md) $450
