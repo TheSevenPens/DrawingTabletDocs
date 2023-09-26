@@ -77,7 +77,11 @@ All drawing tablets all have some wobble when moving the pen at an angle - it is
 
 ### **ExpressKeys**&#x20;
 
-ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)
+ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)&#x20;
+
+## Touch
+
+A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support.md)
 
 ## Pen display topics
 

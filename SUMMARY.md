@@ -104,6 +104,7 @@
     * [Noise](guides/ergonomics/noise.md)
     * [Using a drawing tablet in bed](guides/ergonomics/using-a-drawing-tablet-in-bed.md)
     * [Heat](guides/ergonomics/heat.md)
+  * [Touch support](guides/touch-support.md)
   * [General](guides/general/README.md)
     * [Electromagnetic Interference](guides/general/electromagnetic-interference.md)
     * [Using a drawing tablet with a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)

@@ -196,15 +196,11 @@ Any application on your computer, will treat the pen just as if you have a mouse
 
 More here: [**applications**](../applications/)&#x20;
 
-## Touch support
+## Touch&#x20;
 
-Only a very small number of drawing tablets are touch sensitive. Mostly these are the Wacom Cintiq Pro line and the Wacom Intuos Pro line.
+A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. So if you do get a tablet with touch support, set your expectaions accordingly.
 
-In my opinion, no drawing tablet offers a great touch experience. Some are truly terrible. Even the ones with the best touch support are NOT comparable to a laptop trackpad or an iPad which are much better.&#x20;
-
-The very first thing I do with my tablets that support touch is disable the touch feature.
-
-The recent Cintiq Pro 16 and 27 models from Wacom introduced in 2021 and 2022 have much better touch than older Wacom models, but it is not as good as what you would get from an iPad.
+More here: [Touch support](touch-support.md)&#x20;
 
 ## Pen nibs
 

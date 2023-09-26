@@ -210,9 +210,14 @@ A photo of a USB C plug that goes into the Intuos Pro port
 
 ## Touch support
 
-Only the Intuos Pro model supports touch. Touch can be enabled/disabled with a physical switch on the side of the tablet.
+Only some of the tablets support touch:
+
+* The Intuos Pro model supports touch. Touch can be enabled/disabled with a physical switch on the side of the tablet.
+* The Wacom One 13 touch GEN2 DTH-134  model supports touch. Touch can be enabled/disabled with a physical switch on the side of the tablet.
 
 In my opinion the touch support is not good. The touch pad on any laptop you use will be far better and more responsive. Also the touch support has poor palm rejection. Disabling touch is the first thing I do with an Intuos Pro tablet.
+
+Note that touch works much better on Window systems than on Macs. This is not Wacom's fault, it is due to how well Windows supports touch compared to MacOS.
 
 ## Tablet design
 
