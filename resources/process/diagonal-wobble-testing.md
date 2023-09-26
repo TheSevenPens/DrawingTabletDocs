@@ -24,3 +24,20 @@ I measure diagonal wobble using a simple procedure
   * The pen is tilted at about 30 degrees from vertical.
 * Save as a PNG
 
+## Evaluation wobble (DRAFT)
+
+**Considerations**
+
+* **MAGNITUDE** - how wobble is physical displaced from "center" of line.
+* **PRESENCE AT VELOCITY** - Is wobble visible in slow, medium, fast strokes
+
+**Scale**
+
+* **VERY LOW** - Strokes easily confused for a perfectly straight line
+* **LOW** - lines mostly straight with occasional and minor wobble
+* **MEDIUM** - moderate Wobble visible in majority of lines
+* **HIGH** - moderate wobble available in lots of lines
+* **VERR HIGH** - lots of wobbling in lines
+
+
+
