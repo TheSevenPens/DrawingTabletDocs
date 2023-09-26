@@ -6,8 +6,9 @@
   * Be aware there is an older model from 2016 also (DTH-1620)
 * Resolution: 4K
 * Active Area Diagonal: 15.5"
-* 7PENS: NO
+* 7PENS: YES
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) &#x20;
+* [My notes on this tablet](7p-notes-wacom-cintiq-pro-16-dth-167.md)&#x20;
 
 ## Reviews
 
