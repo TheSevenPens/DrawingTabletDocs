@@ -8,7 +8,7 @@ A list of brands and my take on some of them are here: [**drawing tablet brands*
 
 ### Q: Which an iPad better than a drawing tablet?
 
-It depends on what is important to you. An iPad can make an excellent drawing tablet. But it comes with its own tradeoffs. Read more here: [using an iPad as a drawing tablet](buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
+&#x20;Read : [using an iPad as a drawing tablet](buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
 ### Q: Can I use a drawing tablet with my iPad or iPhone?
 
@@ -32,8 +32,7 @@ Be deliberate and cautious in installing them. Only install new firmware if the 
 
 ### Q: Should I get a pen tablet or pen display?
 
-* Brad Colbow - 5 Reason A Simple Drawing Tablet is Better - March 2, 2020 ([https://youtu.be/0w6Hd\_Btf8M](https://youtu.be/0w6Hd\_Btf8M))
-* Teoh on Tech - Pen Display vs Pen Tablets for Digital Art. Which is better? 1/31/2021 ([https://youtu.be/HpMLgPHEaZU](https://youtu.be/HpMLgPHEaZU))
+See this: [**Pen tablets vs pen displays**](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
 
 ## Pen Displays
 
@@ -45,7 +44,7 @@ Read more here: [anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md).
 
 ### Q: Can I use a pen display as a normal monitor?
 
-Answer: YES. But there are some things you shold consider if you want to use it this way: [Using a pen display as a monitor](guides/pen-displays/using-a-pen-display-as-a-monitor.md)
+Answer: YES. But there are some things you should consider if you want to use it this way: [**Using a pen display as a monitor**](guides/pen-displays/using-a-pen-display-as-a-monitor.md)
 
 ### Q: Why does my pen display show an after image?
 
