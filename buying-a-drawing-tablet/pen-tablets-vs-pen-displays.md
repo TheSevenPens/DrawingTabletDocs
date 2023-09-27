@@ -50,6 +50,18 @@ Just like pen-and-paper, using a pen display means you will be seeing your hand 
 
 With pen tablets you always see exactly what you are drawing.&#x20;
 
+## Physical size and weight (winner: pen tablets)
+
+Pen tablets are considerable thinner and weigh less.
+
+## Portability
+
+Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.
+
+Also with a pen display, you will need to protect it more because it is more sensitive to damage.
+
+
+
 ### Videos
 
 * **Teoh on Tech -** 9 things to know about pen displays before you buy one ([https://youtu.be/Ez7l1C49ClE](https://youtu.be/Ez7l1C49ClE)) Jan 6, 2023
