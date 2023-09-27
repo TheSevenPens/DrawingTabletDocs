@@ -21,3 +21,17 @@ Model: "Wooden Grip for Wacom Pro Pen 2 (KP-504E) \[Thick Bodied with Button hol
 
 <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
+## Make your own grip
+
+Some people make their own grips using
+
+* Raquetball tape
+* Hockey tape
+* Suguru (See this [reddit thread](https://www.reddit.com/r/huion/comments/mcefso/comment/gs3ew7e/?utm\_source=share\&utm\_medium=web2x\&context=3))
+
+
+
+Reddit threads
+
+
+
