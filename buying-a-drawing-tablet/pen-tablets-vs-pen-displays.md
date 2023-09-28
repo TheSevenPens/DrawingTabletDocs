@@ -1,5 +1,7 @@
 # Pen tablets vs pen displays
 
+## Introduction
+
 Many people try pen displays and learn they don't enjoy using them and go back to pen tablets. For others, pen displays are the only kind of drawing tablet they can use. And then there are many people who switch between them depending on the need.
 
 If you are unsure about which one to get or not sure how committed you are to using a drawing tablet, I recommend starting with a pen tablet.&#x20;
@@ -21,6 +23,14 @@ Pen tablets are very simple devices compared to pen displays and have fewer thin
 ## Cabling (winner: pen tablets)
 
 Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure.
+
+More here: [Connecting a pen display](../guides/pen-displays/connecting-a-pen-display.md)&#x20;
+
+
+
+
+
+
 
 ## Pointer lag (winner: pen tablets)
 
@@ -59,8 +69,6 @@ Pen tablets are considerable thinner and weigh less.
 Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.
 
 Also with a pen display, you will need to protect it more because it is more sensitive to damage.
-
-
 
 ### Videos
 
