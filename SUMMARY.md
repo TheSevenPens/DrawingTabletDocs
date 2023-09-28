@@ -24,6 +24,7 @@
     * [Cleaning a drawing tablet](guides/caring-for-your-tablet/cleaning-a-drawing-tablet.md)
     * [Removing the nib from a pen](guides/caring-for-your-tablet/removing-the-nib-from-a-pen.md)
     * [Surface wear on pen tablets](guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
+    * [Surface wear on pen displays](guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)
     * [Nib wear](guides/caring-for-your-tablet/nib-wear.md)
   * [Core features](guides/core-features/README.md)
     * [Erasing](guides/core-features/erasing.md)
