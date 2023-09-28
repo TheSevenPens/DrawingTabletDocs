@@ -27,6 +27,11 @@ Periodically, clean your tablet. See this doc: [**Cleaning a drawing tablet**](c
 
 Store your pens so that the nib is not experiencing constant pressure. Some tablet users suggest that if the nib has a constant pressure applied to it, over time the pressure could damage the pressure sensor.&#x20;
 
+## Surface wear
+
+* [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md) &#x20;
+* [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)&#x20;
+
 ## Pen nib maintenance
 
 Monitor your nibs and replace then when they are getting too worn down. Nibs that are worn down to flat surface may be scratching up your tablet. See more here: [**Nib wear**](nib-wear.md)
