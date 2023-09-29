@@ -45,11 +45,20 @@ These are various options people have reported using.
 * Ergotron HX&#x20;
 * Ergotron LX
 
+## Wobble
+
+All monitor arms have some amount of wobble. Some have more and some have less. But NONE of them feel "rock solid"
+
+One thing that will help reduce the wobble is if the bottom of the pen display rests on something like your desk.
+
+If you want to have ZERO wobble you need to use a stand with your pen display.
+
 ## Monitor arms I use
 
 * Ergotron HX
   * with Wacom Cintiq Pro 27
   * with Huion Kamvas 24 Pro 4K
+  * Note: The Ergotron HX has less wobble than the Ergotron LX, but still has some wobble.
 * Ergotron LX&#x20;
   * with Huion Kamvas 22 Plus
 
