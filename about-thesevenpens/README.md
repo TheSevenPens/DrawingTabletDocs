@@ -32,9 +32,9 @@ I have multiple desks with a combination of PCs and laptops for trying out diffe
 
 ## **Relationship to tablet manufacturers**
 
-I don't have any relationship with tablet manufacturers such as Wacom, Huion, XP-Pen, etc. I'm just an enthusiast.
-
-I do not receive tablets from manufacturers. Every tablet I have is a personal purchase.
+* I don't have any relationship with tablet manufacturers such as Wacom, Huion, XP-Pen, etc. I'm just an enthusiast.
+* I do not receive tablets from manufacturers. Every tablet I have is a personal purchase.
+* I do attend public demo events either online or in person if I can.
 
 &#x20;&#x20;
 
