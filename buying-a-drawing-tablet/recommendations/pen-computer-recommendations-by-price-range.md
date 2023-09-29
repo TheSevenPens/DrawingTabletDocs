@@ -29,8 +29,10 @@ Instead of pen computers, explore alternatives such as:&#x20;
 
 ## $1000 to $2000
 
-* **Surface Pro 8 (and above)** (starting at $900)
+* [**Surface Pro 8**](../../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
   * 7PENS owns: YES
+* [**Surface Pro 9**](../../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
+  * 7PENS owns: NO
 * **Apple iPad pro 12.9 inch 6th gen** (starting at $1100)
   * Supports Apple Pencil 2
   * Processor: m2
