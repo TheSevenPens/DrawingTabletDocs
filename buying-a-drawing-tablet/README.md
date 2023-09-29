@@ -39,9 +39,9 @@ This guide on [**brands**](../drawing-tablet-brands/) will help understand how t
 
 If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
 
-## My notes on drawing tablets
+## Product info
 
-I own A LOT of drawing tablets. Although I don't write tablet reviews, I do share notes of what I find interesting. See my notes here: [**7P notes**](broken-reference)&#x20;
+I have links to information, reviews, and my notes on tablets in the [product info](../product-info/) section.
 
 ## Pen tablets vs pen displays
 

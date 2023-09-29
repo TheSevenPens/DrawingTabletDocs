@@ -1,5 +1,9 @@
 # Pen tablets vs pen displays
 
+## Context
+
+The [**buying guide**](./) covers all these topics in detail. This document is a quick summary of those topics.
+
 ## Introduction
 
 Many people try pen displays and learn they don't enjoy using them and go back to pen tablets. For others, pen displays are the only kind of drawing tablet they can use. And then there are many people who switch between them depending on the need.
@@ -26,12 +30,6 @@ Pen tablets work with a single USB cable (And some are wireless). Pen displays a
 
 More here: [Connecting a pen display](../guides/pen-displays/connecting-a-pen-display.md)&#x20;
 
-
-
-
-
-
-
 ## Pointer lag (winner: pen tablets)
 
 Pen tablets have less pointer lag than pen displays. More here: [lag](../guides/core-features/lag.md) &#x20;
@@ -40,7 +38,7 @@ Pen tablets have less pointer lag than pen displays. More here: [lag](../guides/
 
 Many  pen tablets are wireless. No pen displays are wireless.
 
-## Taking notes: (winner; pen displays)
+## Taking notes: (winner: pen displays)
 
 Even though I don't recommend taking notes with pen displays. They are better at it for the simple reason they work more like a pen and paper.
 
