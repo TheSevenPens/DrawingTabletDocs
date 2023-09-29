@@ -110,24 +110,12 @@ Like Wacom they both have a wide variety of products available.
 * They should monitor and answer questions on [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/) and [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
 * Long-term reliability unknown compared to Wacom. This can't be helped, they have only been around since 2011 (Huion) and 2005 (XP-Pen). And their true EMR tablets (the ones where the pens do not have a battery) have only been around since the late 2010s.
 
-### Tablets I own:
-
-* 3 Huion pen displays
-* 4 Huion pen tablets
-* 2 XP-Pen pen displays
-* 1 XP-Pen pen tablet
-
-All my Huion and XP-Pen tablets have worked well since I had them.
-
-My experience with Huion tablets: [Notes on using Huion tablets](broken-reference)
-
 ## Survey of Huion users (2023)
 
-In early 2023, reddit user Sunny-Throwaway ran a survey on the Huion subreddit. There were 20 respondents and that is not a large sample size but it is interesting to look through.
+In early 2023, reddit user Sunny-Throwaway (account now deleted) ran a survey on the Huion subreddit. There were 20 respondents and that is not a large sample size but it is interesting to look through.
 
-Reddit post about the results: ([https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/](https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/))
-
-Direct link to the results: [https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics](https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics)&#x20;
+* Reddit post about the results: ([https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/](https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/))
+* Direct link to the results: [https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics](https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics)&#x20;
 
 ## Tier 2: Xencelabs
 
