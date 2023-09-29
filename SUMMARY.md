@@ -133,6 +133,7 @@
   * [PaintTool Sai](applications/painttool-sai.md)
   * [Procreate](applications/procreate.md)
 * [Troubleshooting](troubleshooting/README.md)
+  * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)
   * [Reset Wacom Intuos Pro tablets](troubleshooting/reset-wacom-intuos-pro-tablets.md)
   * [Troubleshoot pointer stuck in upper-left corner](troubleshooting/troubleshoot-pointer-stuck-in-upper-left-corner.md)
   * [Common drawing troubleshooting steps](troubleshooting/common-drawing-troubleshooting-steps.md)

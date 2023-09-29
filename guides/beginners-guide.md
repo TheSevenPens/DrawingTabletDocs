@@ -134,11 +134,11 @@ Many people try pen displays and learn they don't enjoy using them and go back t
 * **Document markup and review** - They are useful for going through documents and annotating them with other notes and corrections.
 * **Note taking** - Especially with pen computers, students for example, take them to their classes and write down their notes digitally. More here: [**Taking notes with drawing tablets**](use-cases/taking-notes-with-drawing-tablets.md)&#x20;
 
-## Drawing tablet brands
+## Brands
 
 Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [**Drawing Tablet Brands**](../drawing-tablet-brands/)
 
-## Core tablet features and specs
+## Core features&#x20;
 
 **Accurate detection of pen position** - any modern tablet does a good job with this. However, no drawing tablet is perfectly accurate. Learn more here:  [**pen tracking**](core-features/pen-tracking.md)&#x20;
 
@@ -152,7 +152,7 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. For some people ExpressKeys are important and they want a lot of them. Some other people never use the ExpressKeys. ExpressKeys can be configured. For example you can set them to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](core-features/expresskeys.md) &#x20;
 
-## Active area size
+## Size (active area size)
 
 The active area is the region on the tablet that your draw on. Size for a tablet is the diagonal of the active area. Most often this size is expressed as inches.
 
@@ -237,17 +237,10 @@ But some people want to try connecting those tablets to iPads. In general it doe
 
 At some point, something is going to go wrong. You should be prepared for it.
 
-Typically here's what people encounter:
+More here:
 
-* They lose or damage their pen. Replacement pens are **expensive** - it may cost a significant portion of what you paid for the tablet.
-* The pen no longer reports pressure or the pressure is stuck at 100%.
-* The tablet driver starts acting oddly. Usually solved by restarting the computer and sometimes by installing an older driver.
-* The tablet driver cannot detect the tablet.
-* The tablet driver cannot detect the pen
-* The pen display doesn't show anything
-* The pen display shows a NO SIGNAL message&#x20;
-
-I have put together a list of troubleshooting articles to help. More here [**troubleshooting**](../troubleshooting/)&#x20;
+* &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
+* &#x20;[**troubleshooting**](../troubleshooting/)  &#x20;
 
 ## Additional learning
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pen computers are drawing tablets with screens that you can use without being attached to a computer or a source of power. Essentially they are laptops that support the use of an EMR pen.
+Pen computers are drawing tablets with screens that you can use without being attached to a computer or a source of power. Essentially they are laptops that work with an EMR pen.
 
 Even though some people love using pen computers, I do not in general recommend buying one.
 
