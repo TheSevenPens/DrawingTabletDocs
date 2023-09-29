@@ -70,7 +70,7 @@ Key attributes:
 
 A typical pen display looks like this
 
-<img src="../.gitbook/assets/image (211).png" alt="" data-size="original">
+![](<../.gitbook/assets/image (7)2.png>)
 
 A pen display may look like a laptop or an iPad. However unlike those devices you should be aware that the tablet will always have to have at least one cord coming from it that is connected to a computer.&#x20;
 
