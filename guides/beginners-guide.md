@@ -118,11 +118,11 @@ Even though they are not pen computers, I often talk about them when I discuss p
 
 Often when I see people describe what they want in a drawing tablet, their list of requirements sounds exactly like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
-## Pen tablets vs Pen displays
+## Pen tablets vs pen displays
 
-Pen displays are NOT an inherently better choice than pen tablets.&#x20;
+Pen displays are NOT an inherently better choice than pen tablets. Many people try pen displays and learn they don't enjoy using them and go back to pen tablets.
 
-Many people try pen displays and learn they don't enjoy using them and go back to pen tablets.
+More info: [**Pen tablets vs Pen displays**](beginners-guide.md#pen-tablets-vs-pen-displays) &#x20;
 
 ## What people do with their tablets
 
@@ -251,4 +251,3 @@ More here:
 * **Aaron Rutten - How to Use a DRAWING TABLET for Beginners (2022)**([https://youtu.be/OFw4jcBjQKs](https://youtu.be/OFw4jcBjQKs)) Sep 11, 2022
 * **Marc Brunet - THE BEGINNER'S GUIDE TO DIGITAL ART (from an art teacher)** ([https://youtu.be/O40KGoCmpNA](https://youtu.be/O40KGoCmpNA)) Dec 12, 2020
 * **Marc Brunet - 5 Steps to Learn to Draw** ([https://youtu.be/TCLfxzGDZHk](https://youtu.be/TCLfxzGDZHk)) Dec 11, 2022
-
