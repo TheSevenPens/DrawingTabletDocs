@@ -18,6 +18,10 @@ It has 3 ports located on the top edge:
 
 I have it connected with a thunderbolt 3 cable and the power adapter that it came with.
 
+## Using single USB-C cable
+
+Unlike many other 16" pen displays, a single USB-C cable is not enough to power this tablet. You Still have to use their supplied power adapter.
+
 ## Temperature
 
 Fans keep it cool. At the default brightness, the tablet is cool to the touch.
