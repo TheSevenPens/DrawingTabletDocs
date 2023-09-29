@@ -2,11 +2,11 @@
 
 ## Overview
 
-* This page is about **pen displays** - also called **screen tablets**
-  * These drawing tablets DO have a screen&#x20;
-  * These drawing tablets have to be used with a computer. They do not work standalone.
+This these are recommendations for **pen displays** (aka **screen tablets**)
+
+* These drawing tablets DO have a screen&#x20;
+* These drawing tablets have to be used with a computer. They do not work standalone.
 * Make sure you know about [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
-* More information: [**product info links**](../../product-info/)   &#x20;
 * [**7P notes on 13" pen displays**](../../7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 * Pen displays have more pointer lag than pen tablets. More here: [lag](../../guides/core-features/lag.md)&#x20;
 

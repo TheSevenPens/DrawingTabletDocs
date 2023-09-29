@@ -2,9 +2,10 @@
 
 ## Overview
 
-* This page is about **pen tablets** - also called **screenless tablets**
-  * These drawing tablets that DO NOT have a screen.
-  * These drawing tablets have to be used with a computer. They do not work standalone.
+These are recommendations for **pen tablets** (aka **screenless tablets**)
+
+* These drawing tablets that DO NOT have a screen.
+* These drawing tablets have to be used with a computer. They do not work standalone.
 
 ## $50 to $100&#x20;
 
