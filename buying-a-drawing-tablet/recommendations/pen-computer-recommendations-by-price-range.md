@@ -1,10 +1,8 @@
-# Pen computer recommendations by price range
+# Pen computer recommendations
 
 ## Overview
 
-**Pen computers** are drawing tablets that can be used by themselves, without being attached to a computer. [**I don't recommend pen computers**](../the-case-against-pen-computers.md).&#x20;
-
-Instead of pen computers, explore alternatives such as:&#x20;
+**Pen computers** are drawing tablets that can be used by themselves, without being attached to a computer. [**I don't recommend pen computers**](../the-case-against-pen-computers.md) and instead recommend that you explore alternatives such as:&#x20;
 
 * The Apple iPad. [**iPads are excellent pen-computers / drawing tablets**](../using-an-ipad-as-a-drawing-tablet.md).&#x20;
 * The **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.
