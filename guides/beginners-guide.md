@@ -99,30 +99,13 @@ Because pen computers have a CPU, they are running an operating system. Currentl
 
 Some people love using pen computers but I don't think pen computers are good choice for the vast majority of people. More here: [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
 
-## Alternatives to pen computers
-
-There are other devices very similar to pen computers. These include:
-
-* Apple iPad Pros that can be used with the Apple Pencil.&#x20;
-* Microsoft Surface Pro&#x20;
-* Samsung Galaxy Tab S8
-
-These devices can run a variety of operating systems.
-
-* Microsoft Windows
-* Apple iOS
-
-Even though they are not pen computers, I often talk about them when I discuss pen computers, because they share so many characteristics.&#x20;
-
-### Apple iPads
+## Apple iPads
 
 Often when I see people describe what they want in a drawing tablet, their list of requirements sounds exactly like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
 ## Pen tablets vs pen displays
 
-Pen displays are NOT an inherently better choice than pen tablets. Many people try pen displays and learn they don't enjoy using them and go back to pen tablets.
-
-More info: [**Pen tablets vs Pen displays**](beginners-guide.md#pen-tablets-vs-pen-displays) &#x20;
+Pen displays are NOT an inherently better choice than pen tablets. Many people try pen displays and learn they don't enjoy using them and go back to pen tablets. They each have strengths and weaknesses. More here: [**Pen tablets vs Pen displays**](beginners-guide.md#pen-tablets-vs-pen-displays) &#x20;
 
 ## What people do with their tablets
 
@@ -204,16 +187,7 @@ More here: [Touch support](touch-support.md)&#x20;
 
 ## Pen nibs
 
-At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt.
-
-As you move your nib over a tablet, over time it will wear down. Before it wears down too much you should replace your nib with a fresh one. Tablets come with extra nibs and some tool to help grasp the nib to remove it.&#x20;
-
-Depending on how you draw you may wear through your nibs fast or very slowly. If you run out of spare nibs, you can always purchase more from your tablet manufacturer. They are very cheap.
-
-it's important you don't let your nib wear down too much. For two reasons:
-
-* If it wears down too much, you will not be able to easily remove it from your pen
-* If it develops a flat edge that flat edge can have sharp corners that can damage the surface of your tablet.&#x20;
+At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [**nib wear**](caring-for-your-tablet/nib-wear.md)  &#x20;
 
 ## Ergonomics
 
