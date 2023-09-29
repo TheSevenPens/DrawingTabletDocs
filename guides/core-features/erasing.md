@@ -12,9 +12,9 @@
   * Wacom Pro Pen 2 (KP-504E) [https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html](https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html)&#x20;
   * Wacom Pro Pen Slim (KP-301E) [https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html](https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html)
 
-### App support for erasers
+## App support for erasers
 
-* Drawing apps have to know what to do with the eraser, and not all make use of the eraser function.
+Drawing apps have to know what to do with the eraser, and not all make use of the eraser function.
 
 {% hint style="info" %}
 Remember that a specific tablet is compatible with only specific pens. Avoid buying a pen that has an eraser and assuming it will work with your tablet. Always check with the manufacturer.

@@ -9,9 +9,9 @@ For many devices such a phones and TVs, people make a big deal about having the 
 * Avoids your pen uncomfortably "dropping off" if you are making strokes near the edge of the active area
 * Provides a place for you rest your wrist or forearm so that the edge of the tablet is not digging into them. &#x20;
 
-## Technical benefits
+## Drawing benefits
 
-The EMR sensor (digitizer) needs to be a bit wider than the active area so that it is still accurate at the edges. A wider bezel gives it that space.
+The EMR sensor (digitizer) needs to be a bit wider than the active area so that it is still accurate at the edges. A wider bezel provides that extra space for the digitizer.
 
 ## Reddit threads
 

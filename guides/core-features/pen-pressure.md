@@ -21,8 +21,6 @@ With either technique, the key point is that the pressure is measured by the pen
   * A larger pressure range is even more important than the number of pressure levels&#x20;
   * Wacom historically is known for a wide pressure range with their pens.
 
-
-
 <figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
 ## Initial Activation Force
@@ -40,8 +38,6 @@ With either technique, the key point is that the pressure is measured by the pen
 * Huion's and XP-Pens seem to be around 3gf.&#x20;
 * In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip).
 
-
-
 ## Disabling pressure
 
 Sometimes it is useful to disable pen pressure. For options on how to do so go here: [**Disable pen pressure**](disable-pen-pressure.md).
@@ -56,4 +52,4 @@ Sometimes it is useful to disable pen pressure. For options on how to do so go h
 * Comments on pen pressure levels and ranges for Wacom products: [https://www.reddit.com/r/wacom/comments/10l0ujb/comment/j5u1v3z/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/wacom/comments/10l0ujb/comment/j5u1v3z/?utm\_source=share\&utm\_medium=web2x\&context=3)&#x20;
 * Comparison of minimal gram-force ("initial activation force"/"initial activation pressure") recognized by various digital pens and digitizers ( [https://www.reddit.com/r/stylus/comments/opc44f/comparison\_of\_minimal\_gramforce\_initial/](https://www.reddit.com/r/stylus/comments/opc44f/comparison\_of\_minimal\_gramforce\_initial/))
 * Initial Activation Force / Initial Activation Pressure Cintiq Pro 16 2021? ([https://www.reddit.com/r/wacom/comments/v9989o/initial\_activation\_force\_initial\_activation/](https://www.reddit.com/r/wacom/comments/v9989o/initial\_activation\_force\_initial\_activation/))
-*
+

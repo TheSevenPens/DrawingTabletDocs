@@ -16,4 +16,8 @@ SOME tablet drivers let you simply turn off pressure so that it isn't reported t
 
 XP-Pen drivers have this feature.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/image (332).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>

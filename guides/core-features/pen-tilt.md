@@ -6,14 +6,22 @@ Tilt is easy to understand. Imagine you hold the then pen completely perpendicul
 
 If the tablet is completely perpendicular, the shadow is a perfect circle that centered where the tip of the pen touches the tablet.dd
 
-<figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (321).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 Now keep left the top of the pen "fall" a bit. The shadow looks quite different. It begins at the tip and ends at the other side of the pen. it clearly is not a circle. What you are seeing is the tilt of the pen. Notice that the tilt has two components:
 
 * a tilt in the y direction&#x20;
 * a tilt in the x direction.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## How tilt is measured
 
@@ -68,7 +76,11 @@ Sometimes when drawing it can be useful to turn off tilt. There are options
 
 XP-Pen drivers have this feature.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/image (333).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 
 

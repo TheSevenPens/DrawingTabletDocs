@@ -10,7 +10,11 @@ In the diagram below, the pen is oriented perpendicular to the tablet and you ca
 
 
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## Availability
 
@@ -20,6 +24,4 @@ Barrel rotation is a **very rare feature** on pens. As far as I know, only Wacom
 * ZP-600
 
 Keep in mind these pens only work with specific Wacom tablets.
-
-
 
