@@ -53,7 +53,7 @@ Key attributes:
 
 Below is an example of a pen tablet (One by Wacom, model number CTL-472) &#x20;
 
-<img src="../.gitbook/assets/image (68).png" alt="" data-size="original">
+![](../.gitbook/assets/image.png)
 
 Pen tablets vary from $40 to $500. But you can find a good or even excellent drawing experience at many price points.
 
@@ -86,7 +86,7 @@ Pen displays range in cost from $300 to $3500.&#x20;
 
 **Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work.
 
-![](<../.gitbook/assets/image (227).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 Pen computers include devices such as:
 

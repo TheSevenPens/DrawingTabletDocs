@@ -1,19 +1,22 @@
 # 7P notes: Wacom Pro Pen 3
 
-## Overview
+## Pro Pen 3
 
-The tablet comes with the Wacom Pro Pen 3 (ACP50000DZ).&#x20;
+The Wacom Pro Pen 3 (ACP50000DZ) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.&#x20;
 
-### Pressure&#x20;
+## Pressure&#x20;
+
+### Background
 
 Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../../guides/core-features/pen-pressure.md)  &#x20;
 
-#### Pressure levels
+### Pressure levels
 
 * Pro Pen 3 supports 8192 pressure levels.
 * Nothing special here. All modern tablets/pens say they support this number of pressure levels.
+* I continue to maintain that 2048 levels is all you need for creative applications. Some say even fewer pressure levels are needed.
 
-#### Pressure response for drawing
+### Pressure response for drawing
 
 * Pressure response is how the pressure translates to drawing strokes in creative application
 * Pressure response is EXCELLENT across the following scenarios:
@@ -26,7 +29,7 @@ Before you continue, you should read this document because it clarifies what is 
       * For example, sudden flicks to end a line in Clip Studio Paint look a little different than the same motion in Photoshop. But this seems normal.
     * For the Pro Pen 3 with the Wacom Cintiq Pro 27 the begging and ends of strokes felt as good as they always have.&#x20;
 
-#### Pressure range&#x20;
+### Pressure range&#x20;
 
 * Background: Read this document to understand pressure range before you continue: [**Pen pressure**](../../../guides/core-features/pen-pressure.md)
 * The Pro Pen 3 has the typical wide pressure range from Wacom and is excellent.
@@ -35,11 +38,11 @@ Before you continue, you should read this document because it clarifies what is 
   * For the Huion PW517 pen I have to push a certain amount to get to max pressure
   * For the Pro Pen 3, I have to push I guess twice as hard to get to max pressure. In fact I have to push so hard that I'm almost worried I'm pushing too much. Again this is good.
 
-#### Initial activation force
+### Initial activation force
 
 * The Pro Pen 3 has a typical low IAF for Wacom Pro pens - EXCELLENT.&#x20;
 
-#### Comparing Initial Activation Force
+### Comparing Initial Activation Force
 
 * Wacom does not publish IAF numbers
 * I don't know of any clear way to measure it.
@@ -50,13 +53,7 @@ Before you continue, you should read this document because it clarifies what is 
   * Result for Wacom Pro Pen 3: The weight of the Wacom pen itself consistently draws a stroke
   * Result for Huion PW517: The weight Huion pen itself the will inconsistently draw a stroke. Sometimes it draws. Sometimes it doesn't.
 
-##
-
-## Pro Pen 3
-
-This is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
-
-### Customizability
+## Customizability
 
 * Unlike previous Wacom pens, the Pro Pen 3 is very modular and customizable
 * Grip options
@@ -64,9 +61,7 @@ This is a very normal EMR pen that lives up to previous models in terms of quali
   * flared grip - gives it same basic shape as the pro pen 2
   * non-flared grip
 
-### My pen configuration
-
-
+## My pen configuration
 
 <figure><img src="../../../.gitbook/assets/pen disassembled-numbered.jpg" alt=""><figcaption><p>Components used in my pen configuration</p></figcaption></figure>
 
@@ -88,7 +83,7 @@ When my pen is fully assembled it looks like this:
 * So, in Wacom driver, I simply disable the third button.
 * I was afraid the button strip would easily come out of the pen. It is securely in there and hasn't popped out even when I have dropped the pen to the floor accidentally.
 
-### The feeling of drawing with the pen
+## Drawing experience
 
 * NOTE: This relates to the physical feeling of holding, moving, pressing the pen against the glass. This has nothing to do with how pressure works or how it works with apps.
 * SUMMARY: The feeling is EXCELLENT
@@ -97,12 +92,12 @@ When my pen is fully assembled it looks like this:
 * To me the differences between the Pro Pen 3 and the Pro Pen 2 are slight and subtle.&#x20;
 * Other people feel that the difference is more obvious.
 
-### Solidity
+## Solidity
 
 * Because the pen is very modular, I was afraid that it would feel unstable.
 * Actually, it's incredibly solid feeling.
 
-### Grip feeling
+## Grip feeling
 
 * The grip is made of two pieces. Inside it a shell of plastic which is surrounded by the rubber grip material.
 * Overall it the grip is much more firm than the grip of the pro pen 2&#x20;
@@ -110,7 +105,7 @@ When my pen is fully assembled it looks like this:
 * Very difficult to bend when the Grip is installed.
 * **The grip can be damaged with sufficient force.** If you squeeze the grip when it is not on the pen, you will initially find it hard to bend however much if the rigidity is due to the plastic shell inside. If you keep exerting pressure you will break the plastic and it won't fit as well when you place it on the pen.
 
-### Compatibility with older Wacom tablets
+## Compatibility with older Wacom tablets
 
 * Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 * Possibility of future compatibility
@@ -127,20 +122,13 @@ When my pen is fully assembled it looks like this:
   * With OpenTabletDriver
     * The tablet does sense the pens position - but the cursor is "bouncing around" many times a second- it is unusable for drawing
 
-### Pressure features
-
-* Pressure levels: 8192
-* Nothing special here or different here. Every recently produced pen says it supports this many levels.
-* I continue to maintain that 2048 levels is all you need for creative applications. Some say even fewer pressure levels are needed.
-* Learn more: [**Pen pressure**](../../../guides/core-features/pen-pressure.md)
-
-### Barrel rotation
+## Barrel rotation
 
 * The Pro Pen 3 does not support barrel rotation.
 * This was very disappointing. Even though
 * Learn more: [**Pen Barrel rotation**](../../../guides/core-features/pen-barrel-rotation.md)  &#x20;
 
-### Eraser
+## Eraser
 
 * The pen does not include an eraser at the other end. Instead, use one of the 3 buttons as the eraser.
 
