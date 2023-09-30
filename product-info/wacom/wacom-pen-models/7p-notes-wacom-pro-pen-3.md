@@ -18,29 +18,32 @@ Before you continue, you should read this document because it clarifies what is 
 
 ### Pressure response for drawing
 
-* Pressure response is how the pressure translates to drawing strokes in creative application
-* Pressure response is EXCELLENT across the following scenarios:
-  * Small pressure produces for light strokes&#x20;
-  * It is easy to create many small slight strokes quickly (example: hatch lines)&#x20;
-  * Varying pressure as you draw changes stroke width very smoothly&#x20;
-  * It is easy to maintain even pressure and line width.
-  * Nice tapering at beginning and end of strokes
-    * How the beginning and ends of strokes look is highly depending on the app and the brush settings.
-      * For example, sudden flicks to end a line in Clip Studio Paint look a little different than the same motion in Photoshop. But this seems normal.
-    * For the Pro Pen 3 with the Wacom Cintiq Pro 27 the begging and ends of strokes felt as good as they always have.&#x20;
+RATING: EXCELLENT
+
+Pressure response is how changes in pressure translates to drawing strokes in creative application
+
+I tried it in these scenarios
+
+* Small pressure produces for light strokes&#x20;
+* It is easy to create many small slight strokes quickly (example: hatch lines)&#x20;
+* Varying pressure as you draw changes stroke width very smoothly&#x20;
+* It is easy to maintain even pressure and line width.
+* Nice tapering at beginning and end of strokes
+  * How the beginning and ends of strokes look is highly depending on the app and the brush settings.
+    * For example, sudden flicks to end a line in Clip Studio Paint look a little different than the same motion in Photoshop. But this seems normal.
+  * For the Pro Pen 3 with the Wacom Cintiq Pro 27 the begging and ends of strokes felt as good as they always have.&#x20;
 
 ### Pressure range&#x20;
 
-* Background: Read this document to understand pressure range before you continue: [**Pen pressure**](../../../guides/core-features/pen-pressure.md)
-* The Pro Pen 3 has the typical wide pressure range from Wacom and is excellent.
-  * Unfortunately there are no clear published specs from Wacom on other manufacturers on these pressure range values. So we have to evaluate it subjectively for now.
-* Comparing pressure range to competitors (again this is subjective)
-  * For the Huion PW517 pen I have to push a certain amount to get to max pressure
-  * For the Pro Pen 3, I have to push I guess twice as hard to get to max pressure. In fact I have to push so hard that I'm almost worried I'm pushing too much. Again this is good.
+Rating: EXCELLENT
+
+The Pro Pen 3 has the typical wide pressure range from Wacom. Unfortunately there are no clear published specs from Wacom on other manufacturers on these pressure range values. So we have to evaluate it subjectively for now. To me it seems similar to that of the Wacom Pro Pen 2 which has a very wide pressure range.
 
 ### Initial activation force
 
-* The Pro Pen 3 has a typical low IAF for Wacom Pro pens - EXCELLENT.&#x20;
+Rating: EXCELLENT
+
+The Pro Pen 3 has a typical low IAF for Wacom Pro pen.NOTE: I am not skilled enough to measure it, but to me the Pro Pen 3 IAF feels like the Pro Pen 2 which has an IAF of <1gf.&#x20;
 
 ### Comparing Initial Activation Force
 
@@ -94,8 +97,9 @@ When my pen is fully assembled it looks like this:
 
 ## Solidity
 
-* Because the pen is very modular, I was afraid that it would feel unstable.
-* Actually, it's incredibly solid feeling.
+RATING: EXCELLENT
+
+Because the pen is very modular, I was afraid that it would feel unstable. Actually, it's incredibly solid feeling.
 
 ## Grip feeling
 
@@ -107,30 +111,28 @@ When my pen is fully assembled it looks like this:
 
 ## Compatibility with older Wacom tablets
 
-* Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
-* Possibility of future compatibility
-  * Wacom mentioned on twitter and during their demo event they would release an update that would make the Pro Pen 3 work on select older tablets.
-    * Twitter post: [https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA](https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA)\
-      \
-      ![](<../../../.gitbook/assets/image (286).png>)
-  * Wacom has not published that update
-  * Wacom has not identified which older tablets will be updated to be compatible with the Pro Pen 3
-* What happens when you try using the Pro Pen 3 with an older tablet
-  * With Wacom's latest drivers
-    * Nothing happens
-    * The drivers don't reveal that the pen even exists.
-  * With OpenTabletDriver
-    * The tablet does sense the pens position - but the cursor is "bouncing around" many times a second- it is unusable for drawing
+Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
+
+**Possibility of future compatibility.** Wacom mentioned on twitter and during their demo event they would release an update that would make the Pro Pen 3 work on select older tablets.
+
+* Twitter post: [https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA](https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA)\
+  \
+  ![](<../../../.gitbook/assets/image (286).png>)
+* Wacom has not published that update
+* Wacom has not identified which older tablets will be updated to be compatible with the Pro Pen 3
+
+**What happens when you try using the Pro Pen 3 with an older tablet**
+
+* With Wacom's latest drivers
+  * Nothing happens
+  * The drivers don't reveal that the pen even exists.
+* With OpenTabletDriver
+  * The tablet does sense the pens position - but the cursor is "bouncing around" many times a second- it is unusable for drawing
 
 ## Barrel rotation
 
-* The Pro Pen 3 does not support barrel rotation.
-* This was very disappointing. Even though
-* Learn more: [**Pen Barrel rotation**](../../../guides/core-features/pen-barrel-rotation.md)  &#x20;
+The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../../guides/core-features/pen-barrel-rotation.md)  &#x20;
 
 ## Eraser
 
-* The pen does not include an eraser at the other end. Instead, use one of the 3 buttons as the eraser.
-
-##
-
+The pen **DOES NOT include** an eraser at the other end. Instead, use one of the 3 buttons as the eraser.
