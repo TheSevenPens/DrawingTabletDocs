@@ -2,13 +2,13 @@
 
 ## Pressure
 
-Pressure is the physical force being exerted on its tip.
+Pressure is the physical force being exerted on its tip. Remember that it is the pen that measure the pressure, not the tablet surface.&#x20;
 
 ## Pressure range
 
-* **Pressure range** = the range of physical force the pen is capable of sensing and outputting as pressure
+* The **pressure range** is the range of physical force the pen is capable of sensing and outputting as pressure
 * A wide pressure range is desirable. It contributes a lot to a good pressure experience.&#x20;
-* A low minimum force required for a pen to sense pressure can be just as important as a high maximum.
+* A low minimum pressure can be just as important as a high maximum pressure.
 * Pen experts I've talked to say that
   * A larger pressure range is even more important than the number of pressure levels&#x20;
   * Wacom historically is known for a wide pressure range with their pens.
@@ -17,18 +17,32 @@ Pressure is the physical force being exerted on its tip.
 
 ## Initial Activation Force
 
-* Initial Activation Force is the minimum amount of pressure required for the pen to report there is any pressure.
-* In other words, it is the lower bound of the pressure range
-* A lower Initial activation force is considered good because it allows you to draw finer details better.&#x20;
-* Some people really notice the IAF and do not like higher IAF. I'm not as sensitive to it.&#x20;
-* Wacom is known for low IAF.
-* A common way people think about IAF is "does the weight of the pen itself cause the pen to report pressure".
+The **Initial Activation Force** is the minimum amount of pressure required for the pen to report that there is any pressure. In other words, it is another name for the lower bound of the pressure range
+
+A lower Initial activation force is considered good because it allows you to draw finer details better.&#x20;
+
+Low is subjective but here are some guidelines
+
+* An EXCELLENT IAF would be < 1gf&#x20;
+* An GOOD IAF would be 3 gf&#x20;
+
+## IAF sensitivity
+
+Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
+
+Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
 
 ## Initial activation force compared
 
-* Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1 gf
-* Huion's and XP-Pens seem to be around 3gf.&#x20;
+* Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
+* Huion's, XP-Pen, and Xenelabs have a higher IAF - their lowest seems to be around 3gf.&#x20;
 * In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip).
+
+## Pressure levels
+
+These days tablet brands say that they can handle 8K (8192) levels of pressure. Some tablets even claim to support 16K pressure levels.
+
+Don't get caught up in hype about pressure levels. I claim you only need 2048 levels of pressure (and probably even less than that). As a quick example watch this 35 second video: [https://youtu.be/V-79hS5sRQw](https://youtu.be/V-79hS5sRQw)&#x20;
 
 ## Disabling pressure
 
