@@ -21,4 +21,4 @@ Instead of pen computers, it would be better to look at related devices such as 
 * Apple iPad Pro - See: [Using an iPad as a drawing tablet](using-an-ipad-as-a-drawing-tablet.md)&#x20;
 * Microsoft Surface Pro 8 (and above).
 
-More here: [Pen computer recommendations by price range](recommendations/pen-computer-recommendations-by-price-range.md)&#x20;
+More here: [Pen computer recommendations by price range](recommendations/pen-computer-recommendations.md)&#x20;

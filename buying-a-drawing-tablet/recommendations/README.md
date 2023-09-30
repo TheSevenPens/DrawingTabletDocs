@@ -10,9 +10,9 @@ Before you look at the recommendations, I recommend you read:
 
 ## The recommendations by device type
 
-* [**Pen tablets**](pen-tablets.md) (tablets without a screen. Example: Wacom Intuos, etc.)
-* [**Pen displays**](pen-displays.md) (tablets with a screen. Example: Wacom Cintiq, etc.)
-* [**Pen computers**](pen-computer-recommendations-by-price-range.md) (tablets with a screen that don't need a PC. Example: Apple iPad)
+* [**Pen tablets**](pen-tablets-recommendations.md) (tablets without a screen. Example: Wacom Intuos, etc.)
+* [**Pen displays**](pen-displays-recommendations.md) (tablets with a screen. Example: Wacom Cintiq, etc.)
+* [**Pen computers**](pen-computer-recommendations.md) (tablets with a screen that don't need a PC. Example: Apple iPad)
 
 ## Notes on recommendations
 

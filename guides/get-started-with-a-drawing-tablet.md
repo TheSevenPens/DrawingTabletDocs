@@ -20,9 +20,6 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 * You can go to the manufacturer site and download the driver and install now before your tablet even arrives.&#x20;
 * If the tablet driver is installed, when you connect the tablet with USB cable the driver will just detect the tablet and the pen will work as soon as it comes close to the tablet (about 10mm)
 * The drivers install an app you can use to configure the driver. The apps have different names depending on your tablet brand
-  * Wacom: Wacom Tablet Properties
-  * Huion: HuionTablet
-  * XP-Pen: PenTablet
 * More here: [**drivers**](drivers/)
 
 ## Connect the tablet

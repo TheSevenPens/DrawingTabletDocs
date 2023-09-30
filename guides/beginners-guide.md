@@ -68,7 +68,7 @@ Key attributes:
 * They DO have an embedded display
 * They REQUIRE A COMPUTER to be used.
 
-A typical pen display looks like this
+A pen display looks like this (cords connecting to the computer are not shown)
 
 ![](<../.gitbook/assets/image (7)2.png>)
 
@@ -87,11 +87,6 @@ Pen displays range in cost from $300 to $3500.&#x20;
 **Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work.
 
 ![](<../.gitbook/assets/image (1).png>)
-
-Pen computers include devices such as:
-
-* Wacom Mobile Studio Pro
-* Huion Kamvas Studio&#x20;
 
 Pen computers can cost anywhere from $1000 to $3500.
 
@@ -125,7 +120,7 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 **Accurate detection of pen position** - any modern tablet does a good job with this. However, no drawing tablet is perfectly accurate. Learn more here:  [**pen tracking**](core-features/pen-tracking.md)&#x20;
 
-**Hover** - Tablets can even detect the position of the pen when it is not touching the surface of the tablet. Usually up to a distance of 10 mm. This hover feature is very important, because it lets you see where your strokes are going to be drawn before you draw them.  And the hover feature makes it convenient to use the pen like a mouse to simply click on buttons or drag windows around, etc. All drawing tablets support hover. More here: [**Pen hover**](core-features/pen-hover.md)&#x20;
+**Hover** - Tablets can even detect the position of the pen when it is not touching the surface of the tablet - usually up to a distance of 10 mm. Hover is important, because you can see where your strokes are going to be drawn before you draw them.  All drawing tablets support hover. More here: [**Pen hover**](core-features/pen-hover.md)&#x20;
 
 **Pen Pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](core-features/pen-pressure.md).&#x20;
 
