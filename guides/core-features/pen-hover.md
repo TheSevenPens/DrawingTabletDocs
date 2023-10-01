@@ -2,18 +2,17 @@
 
 ## Overview&#x20;
 
-In the context of drawing tablets, it means that the pen's position can be detected even if the pen doesn't touch the tablet and whether you can see the brush outline/cursor while the pen hovers.
+All drawing tablets detect the position of the pen - **even if the pen is not touching the tablet**.
 
-All drawing tablets support pen hover.
+If you think about it, this is how the tablet MUST work, because the EMR sensor (aka the digitizer) is below the surface (plastic or glass) that the pen touches. So, obviously the pen is **always** detected at a distance.
+
+This explains why we are able to place a sheet of paper or a plastic cover over the tablet, and the pen will still be detected correctly.&#x20;
 
 ## Benefits of hover
 
 * You can reposition the pointer without drawing or clicking.
 * You can see where your drawing stroke is going to be before you start the stroke
-
-## Importance of hover
-
-For some people seeing the brush outline/cursor during hover is very important, but for others it is isn't very important. This video demonstrates why it is important: [https://youtu.be/ZpcKfipVy24 ](https://youtu.be/ZpcKfipVy24)
+* For some art styles it is very important: [https://youtu.be/ZpcKfipVy24 ](https://youtu.be/ZpcKfipVy24)
 
 ## Hover height
 
