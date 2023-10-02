@@ -17,11 +17,7 @@ Pressure is the physical force being exerted on its tip. Remember that it is the
 
 Tablet expert [Kuuube](../../resources/kuuube/), has independently measured the pressure ranges and many pens. Below are his measurements for several Wacom pens.
 
-| Pen                       | 1% pressure | 100% pressure |
-| ------------------------- | ----------- | ------------- |
-| Wacom Pro Pen 2 (KP-504E) | <1gf        | 794gf         |
-| Wacom Pen 4K (LP-1100K)   | <1gf        | 226gf         |
-| Wacom Pen 2K (LP-190K)    | <1gf        | 320gf         |
+<table><thead><tr><th width="336.3333333333333">Pen</th><th width="163">1% pressure</th><th>100% pressure</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>&#x3C;1gf</td><td>794gf</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>&#x3C;1gf</td><td>751gf</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>275-510gf</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>&#x3C;1gf</td><td>299gf</td></tr><tr><td>Wacom Pen 4K (LP-1100K)</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td>Wacom Pen 2K (LP-190K)</td><td>&#x3C;1gf</td><td>320gf</td></tr></tbody></table>
 
 ## Initial Activation Force
 
