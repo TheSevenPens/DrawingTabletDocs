@@ -36,10 +36,10 @@ Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
 Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
 
-## Initial activation force compared
+## IAF across brands
 
 * Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
-* Huion's, XP-Pen, and Xenelabs have a higher IAF - their lowest seems to be around 3gf.&#x20;
+* Huion's, XP-Pen, and Xencelabs have a higher IAF - their lowest seems to be around 3gf.&#x20;
 * In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip).
 
 ## Pressure levels
