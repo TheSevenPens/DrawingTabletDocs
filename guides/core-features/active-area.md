@@ -8,9 +8,13 @@ When we talk about the "size" of the drawing tablet, we are referring to the act
 
 ## Active area of pen tablets
 
-The active area of a pen tablet is usually designated by marks on the surface. Sometimes it is marked at its four corners. Some tablets show a grid of of dots.
+The active area of a pen tablet is usually designated by marks on the surface.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
+The active area is usually marked in some way on the surface. Sometimes it is marked at its four corners. Some tablets show a grid of of dots.
+
+![](<../../.gitbook/assets/XP-Pen Deco LW (smaller).jpg>)![](<../../.gitbook/assets/Huion Inspiroy HS611 (smaller) (1).jpg>)
 
 ## Active area of pen displays
 
