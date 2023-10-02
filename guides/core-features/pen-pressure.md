@@ -13,7 +13,15 @@ Pressure is the physical force being exerted on its tip. Remember that it is the
   * A larger pressure range is even more important than the number of pressure levels&#x20;
   * Wacom historically is known for a wide pressure range with their pens.
 
-<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+## Pressure ranges compared
+
+Tablet expert [Kuuube](../../resources/kuuube/), has independently measured the pressure ranges and many pens. Below are his measurements for several Wacom pens.
+
+| Pen                       | 1% pressure | 100% pressure |
+| ------------------------- | ----------- | ------------- |
+| Wacom Pro Pen 2 (KP-504E) | <1gf        | 794gf         |
+| Wacom Pen 4K (LP-1100K)   | <1gf        | 226gf         |
+| Wacom Pen 2K (LP-190K)    | <1gf        | 320gf         |
 
 ## Initial Activation Force
 
