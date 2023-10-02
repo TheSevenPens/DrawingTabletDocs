@@ -1,6 +1,6 @@
 # Color tint on edges of display
 
-Some pen displays exhibit a color tint at the edges of the display.&#x20;
+Some pen displays exhibit a color tint at the edges of the display. Often it is a purple or lilac color. Some devices exhibit it as a yellowish or orange color. Is NOT pixelated or rough - has very smooth look.
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,11 +33,6 @@ Apparently, pressure at the edges of the display causes this effect in the OCA l
 Overall it is uncommon.&#x20;
 
 It is present in NONE of the display devices I have that are laminated.
-
-## Appearance
-
-* Often it is a purple or lilac color. Some devices exhibit it as a yellowish color.
-* Is NOT pixelated or rough - has very smooth look
 
 ## Manufacturer pages
 
