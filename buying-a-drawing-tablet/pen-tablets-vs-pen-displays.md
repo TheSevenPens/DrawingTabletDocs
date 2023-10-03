@@ -10,7 +10,7 @@ Many people try pen displays and learn they don't enjoy using them and go back t
 
 If you are unsure about which one to get or not sure how committed you are to using a drawing tablet, I recommend starting with a pen tablet.&#x20;
 
-## Posture (winner: it depends)
+## Posture (winner: pen tablets)
 
 Pen displays usually require someone to lean over a bit and looking down at the tablet to draw. That can place strain on your lower back. Many people give up on pen displays for this reason.
 
