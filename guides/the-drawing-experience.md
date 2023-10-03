@@ -10,21 +10,21 @@ With a **pen display** you can see exactly where the stroke is going to be. Many
 
 Some people feel that with a **pen tablet**, they would have to make the stroke several times to get it right and press undo to erase the mistakes.&#x20;
 
-I would generally agree with these statements. When I want to do some line work faster than normal, I will often switch from a pen tablet to a pen display.
+I generally agree with these statements. When I want to do line work faster with less UNDOs, I often use pen display instead of a pen tablet.
 
 ## Matching hand movements and drawing
 
-With a **pen display**, things are natural. You see the pen in the same place the stroke is being drawn - just like a piece of paper.
+With a **pen display**, things are natural. You see the pen in the same place the stroke is being drawn - just like when you use pen and paper.
 
-One of the downsides to this is, your own hand and the pen will block your eyes from seeing the display - just like paper. The easy solution to this is to reposition your eyes or take advantage of the canvas zoom and rotation features of your drawing app.
+And just like pen-and-paper, your own hand and the pen will block your eyes from seeing the display. The easy solution to this is to reposition your eyes or take advantage of the canvas zoom and rotation features of your drawing app.
 
 With a **pen tablet**, you are looking at a monitor but drawing somewhere else with your hand. Fundamentally this is no different than using a mouse.&#x20;
 
 Just like a mouse, the operating system and drawing programs will usually show the position of the pen on the canvas, so you will have some visual feedback of the position of the pen even if you are not drawing.
 
-One advantage of this disconnect is that the pen and your hand do not block your visibility of what you are drawing. That is a nice convenience.
+One advantage of this disconnect between what you see and what your hand is doing, is that the pen and your hand do not block your visibility of what you are drawing. That can be convenient.
 
-Still, some people struggle with the disconnect .Usually they can train themselves out of this within a complex of weeks. But some people just can't get used to it.
+Still, some people struggle with the disconnect. Usually they can train themselves out of this within a complex of weeks. But some people just can't get used to it.
 
 ## Quality of art you can make
 
