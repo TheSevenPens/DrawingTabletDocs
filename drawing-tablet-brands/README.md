@@ -189,15 +189,10 @@ In online communities reddit you may notice that the vast majority of posts are 
 
 However it is also true that online forums can be a great source to help you make choices about brands. For example, if you see a lot of questions/problems about a certain model, that should factor into your purchase decision.  &#x20;
 
-## Notes
-
-* In general I would recommend the S tier and A tier for doing artwork. Of course specific tablet models have their strengths and weakness, so don't rely on the brand name as the only factor for a purchase decision.
-* What differentiates the A tier from the B tier? The customer support experience and the ability to get answers and help from others users in online communities.
-
 ## Discussions
 
-* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - pod has great comments on some things he thinks wacom does better. This is in response to someone saying their pen feels weird.
-* [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) -= brands compared
+* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - user [Pod\_\_](https://www.reddit.com/user/Pod\_\_/) has great comments on some things he thinks wacom does better. This is in response to someone saying their pen feels weird.
+* [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) - brands compared
 
 &#x20;
 
