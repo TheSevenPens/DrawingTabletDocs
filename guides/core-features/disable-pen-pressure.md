@@ -8,7 +8,7 @@ Sometimes when drawing it can be useful to turn off pressure. There are several 
 
 ## **OPTION 1 Use Brush settings to disable using pressure**
 
-Drawing apps that use brushes may let you control how pressere affects the brush. So, you can configure specific brushes to ignore pressure. Examples of applications that support this are Clip Studio Paint and Krita.
+Drawing apps that use brushes may let you control how pressure affects the brush. So, you can configure specific brushes to ignore pressure. Examples of applications that support this are Clip Studio Paint and Krita.
 
 ## OPTION 2 Use a flat pressure curve
 
@@ -28,4 +28,3 @@ XP-Pen drivers have this feature.
 
 </div>
 
-OPTION 3
