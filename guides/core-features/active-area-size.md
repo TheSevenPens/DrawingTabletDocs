@@ -12,12 +12,6 @@ But most often we will talk about active area sizes using the **diagonal length*
 
 If you need help picking the right size for your tablet, consult [**choosing the right tablet size**](choosing-the-right-tablet-size.md).
 
-## Diagonal length
-
-The diagonal length is simple to calculate.
-
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
-
 ## Size in tablet names
 
 You can often see the diagonal length in the names of pen displays. For example:
@@ -49,10 +43,3 @@ Sometimes we are given the diagonal of the active area and its aspect ratio, but
 In this case it is very easy to calculate the height and width.
 
 <figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
-
-&#x20;
-
-
-
