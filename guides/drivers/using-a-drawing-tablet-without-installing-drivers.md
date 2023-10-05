@@ -35,7 +35,7 @@ What OTD provides by default:
 * Moving the pen moves the pointer
 * Clicking and drawing
 
-What does work by default:
+What OTD does NOT provide by default:
 
 * pressure
 * tilt&#x20;
