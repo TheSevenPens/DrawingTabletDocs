@@ -26,9 +26,9 @@ If you have a Windows computer with no driver installed, and then you attach a t
 
 ## Windows using OpenTabletDriver
 
-[OpenTabletDriver](opentabletdriver/) is a special kind of driver. It's called a "user mode" driver.
+If you can't install a driver, another option is [OpenTabletDriver](opentabletdriver/).&#x20;
 
-A normal tablet driver has to be installed. The driver components have to be placed in a specific location and affect how the operating system works. But OpenTabletDriver isn't "installed" at all. It's just a program you run. You can copy the OTD executable files to your machine and start it. While OTD is running, a connected tablet will work.
+Is a special kind of driver. It's called a "user mode" driver. A normal tablet driver has to be installed. The driver components have to be placed in a specific location and affect how the operating system works. But OTD isn't "installed" at all. It's just a program you run. You can copy the OTD executable files to your machine and start it. While OTD is running, a connected tablet will work.
 
 What OTD provides by default:
 
