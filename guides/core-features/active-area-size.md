@@ -35,11 +35,3 @@ By looking at the Wacom's product line and naming, we can establish a decent fra
 If we look at how drawing tablet models are distributed along this scale we'll see that there is a lot of variation.
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-## Finding the width and height from the diagonal and aspect ratio
-
-Sometimes we are given the diagonal of the active area and its aspect ratio, but not the exact height and width.
-
-In this case it is very easy to calculate the height and width.
-
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
