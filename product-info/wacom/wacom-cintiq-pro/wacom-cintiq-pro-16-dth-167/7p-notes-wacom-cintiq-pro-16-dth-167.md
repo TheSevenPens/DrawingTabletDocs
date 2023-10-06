@@ -28,5 +28,11 @@ Fans keep it cool. At the default brightness, the tablet is cool to the touch.
 
 Testing now with maximum brightness.
 
+## Diagonal Wobble
+
+Rating: VERY GOOD
+
+<figure><img src="../../../../.gitbook/assets/Wacom DTH-167 Wobble.png" alt=""><figcaption></figcaption></figure>
+
 
 
