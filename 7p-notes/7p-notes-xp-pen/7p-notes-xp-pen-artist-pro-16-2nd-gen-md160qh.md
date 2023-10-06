@@ -34,3 +34,9 @@ YES. I tried the cable that it came with and a Thunderbolt 3 cable.
 
 None
 
+**Diagonal wobble**
+
+RATING: OK
+
+<figure><img src="../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH).png" alt=""><figcaption></figcaption></figure>
+
