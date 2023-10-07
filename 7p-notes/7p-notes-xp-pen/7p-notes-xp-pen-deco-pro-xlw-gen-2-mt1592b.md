@@ -75,11 +75,19 @@ Currently no noticeable impact on my drawing. Will continue to evaluate.
 
 **Diagonal wobble**
 
-Low - which is good.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (335).png" alt="" width="375"><figcaption></figcaption></figure>
+Rating: OK
 
 It has more wobble than the Wacom Intuos Pro Large (PTH-860). XP-Pen should be doing better here since it is targeted at a pro audience.
+
+Notice that wobble is present even in the fast stroke.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/XP-Pen Deco Pro XLW GEN2 (MT1592B).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
 
 **Disabled buttons impact on drawing**
 

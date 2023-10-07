@@ -30,7 +30,11 @@ If you want to enable the filter, click **Enable Smily Scylla ...** at the top a
 
 **Always Apply to Hover** = to leave this unchecked.&#x20;
 
-Slimy Scylla docs here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs)
+
+
+## Slimy Scylla documentation
+
+here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs)
 
 
 

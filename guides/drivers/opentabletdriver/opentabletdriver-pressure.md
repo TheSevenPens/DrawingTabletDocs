@@ -10,7 +10,7 @@ Instructions for installing Slimy Scylla are here: [**Slimy Scylla**](opentablet
 
 ## Configuring the pressure curve
 
-In the Filters tab, enable Slimy Scylla Pressure Curve
+In the **Filters** tab, enable **Slimy Scylla Pressure Curve** &#x20;
 
 <div align="left">
 
@@ -18,33 +18,27 @@ In the Filters tab, enable Slimy Scylla Pressure Curve
 
 </div>
 
-
-
 This is what the configuration looks like:&#x20;
-
-
 
 <figure><img src="../../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
-If you want to enable the filter, click **Enable Smily Scylla ...** at the top and click **Apply**.
+To enable the filter, click **Enable Smily Scylla** and click **Apply**.
 
-The controls here will let you configure the pressure curve.
+The settings here will let you configure the pressure curve. Unfortunately, there is no interactive view of the pressure curve inside the OTD UX. However, you can use the demos tool to play with the settings interactively and see the pressure curve [https://www.desmos.com/calculator/xo0y9dc9ye](https://www.desmos.com/calculator/xo0y9dc9ye)&#x20;
 
-Unfortunately, there is no interactive view of the pressure curve inside the OTD UX.
+<div align="left">
 
-However, this link shows you the effect of the settings visually and lets you play with the settings interactively : [https://www.desmos.com/calculator/xo0y9dc9ye](https://www.desmos.com/calculator/xo0y9dc9ye)&#x20;
+<figure><img src="../../../.gitbook/assets/image (345).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+</div>
 
 Remember once you make changes to the settings, always click **Apply** in OTD
 
+## Slimy Scylla documentation
 
+[https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs)
 
-Docs are here: [https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md](https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md)&#x20;
-
-
-
-Slimy Scylla docs here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs)
+[https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md](https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md)&#x20;
 
 
 

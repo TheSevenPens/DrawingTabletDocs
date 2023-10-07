@@ -38,5 +38,5 @@ None
 
 RATING: OK
 
-<figure><img src="../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH).png" alt=""><figcaption></figcaption></figure>
+
 
