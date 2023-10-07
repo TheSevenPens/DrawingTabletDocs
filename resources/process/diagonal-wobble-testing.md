@@ -1,6 +1,6 @@
 # Diagonal wobble testing
 
-I measure diagonal wobble using a simple procedure
+I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble/) using a simple procedure
 
 ## Resources
 

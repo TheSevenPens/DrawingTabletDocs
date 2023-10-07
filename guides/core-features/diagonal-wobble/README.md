@@ -55,6 +55,36 @@ Tilt **could** affect the wobble.&#x20;
 
 Most often I have not seen tilt have an affect on wobble, but I have tablet where an extreme tilt angle (an angle that would not be used in drawing) causes a massive wobble. I haven't tested all my tablets at extreme tilt, so I am not sure how common this is.
 
+## How much does wobble matter
+
+All tablets have wobble.
+
+But for most, you would only notice the wobble when TRYING to find the wobble. In other words, it won't affect your normal drawing.
+
+The real problem comes when the you notice the wobble creating alterations to the strokes that you didn't intend.&#x20;
+
+It also depends on what you are doing. You might notice wobble more if you are doing line art but not notice it at all if you are using an airbrush.
+
+## Mitigating diagonal wobble
+
+**OPTION 1 : Turn on smoothing**
+
+Applications have different brush smoothing options. Explore those to see if they eliminate or reduce the wobble.
+
+**OPTION 2 : Zoom in**
+
+Try zooming in on the canvas in (for example by 2X) and drawing the same stroke. The wobble will technically still be there but because it is a happening on the physical moment of the pen, if you zoom 2X with the canvas in it will have 1/2 the effect on the stroke.
+
+**OPTION 3 : Draw a faster**
+
+Wobble is often something that occurs when you are drawing slower. Try drawing the stroke faster, in most tablets this eliminates the wobble.
+
+If your strokes are small and drawing faster would cause you to have less control, then try zooming in more. This will make your physical stroke longer, but keep them the same size on the canvas.
+
+**OPTION 3: Use vector tools and brushes**
+
+Instead of drawing your stroke manually, if your application supports it, use vector strokes.&#x20;
+
 ## Diagonal Wobble samples
 
 These are my wobble samples across a number of tablets.&#x20;
