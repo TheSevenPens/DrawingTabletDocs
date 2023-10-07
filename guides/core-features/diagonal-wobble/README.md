@@ -10,9 +10,9 @@ You might also see this referred to as: "jitter"
 
 I covered wobble extensively in this video on pen display accuracy ([https://youtu.be/M4rEk\_RNBrM](https://youtu.be/M4rEk\_RNBrM))
 
-## What it looks like (exaggerated)
+## Appearance&#x20;
 
-If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on diagonal lines.
+If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on diagonal lines. The diagram below exaggerates the wobble
 
 <figure><img src="../../../.gitbook/assets/Artboard 1-80.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -43,6 +43,18 @@ If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on 
   * The wobble is present with EMR pens
   * The wobble is present with non-EMR pen technologies such as MPP, AES, and the Apple pencil.
 
+## Pen velocity
+
+If there is wobble, it tends to show up at **slow speeds**. This is a bit expected.&#x20;
+
+If the wobble shows up at **faster speeds**, that is unusual.
+
+## Tilt
+
+Tilt **could** affect the wobble.&#x20;
+
+Most often I have not seen tilt have an affect on wobble, but I have tablet where an extreme tilt angle (an angle that would not be used in drawing) causes a massive wobble. I haven't tested all my tablets at extreme tilt, so I am not sure how common this is.
+
 ## Diagonal Wobble samples
 
 These are my wobble samples across a number of tablets.&#x20;
@@ -51,11 +63,11 @@ These are my wobble samples across a number of tablets.&#x20;
 
 All were created using my a standard testing process: [**Diagonal wobble testing**](../../../resources/process/diagonal-wobble-testing.md).
 
-## Diagonal wobble in XP-Pen&#x20;
+## Brand-specific notes
 
-Some recent models with XP-Pen feature some excessive [**diagonal wobble**](./). This is something you should check into when looking into these models.
+### XP-Pen&#x20;
 
-Here are examples of of the line wobble in recent XP-Pen
+Some recent models with XP-Pen feature some excessive [**diagonal wobble**](./). This is something you should check into when looking into these models. Here are examples of of the line wobble in recent XP-Pen:
 
 * XP Pen Deco LW 8:06 in this video : [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)
 * XP Pen Artist 16 (GEN2) 7:04 in this video: [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)
