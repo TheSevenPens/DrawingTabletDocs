@@ -60,17 +60,7 @@ Also, leaving the HDMI cable unplugged will not damage the tablet.
 
 ### Q: How do I make my pen display mirror what is on my monitor?
 
-#### Windows (11)
-
-* Open **Display Settings**
-* Select the display of your tablet
-* Then select **Duplicate**
-
-#### Mac OS (Monterey)
-
-* Go to **Displays > Display Settings**
-* Select your monitor, then set **Use As** to **Primary Display**
-* Then select your tablet display and set **Use As** to **Mirror**.
+See this: [Mirroring or extending your desktop to a pen display](guides/pen-displays/mirroring-or-extending-your-desktop-to-a-pen-display.md)&#x20;
 
 ### Q: How do I enable mouse mode on a pen display?
 

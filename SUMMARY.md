@@ -50,6 +50,7 @@
     * [Configure smoothing in applications](guides/drawing/configure-smoothing-in-applications.md)
     * [Enable tilt for brushes](guides/drawing/enable-tilt-for-brushes.md)
   * [Pen displays](guides/pen-displays/README.md)
+    * [Mirroring or extending your desktop to a pen display](guides/pen-displays/mirroring-or-extending-your-desktop-to-a-pen-display.md)
     * [Using a pen display as a pen tablet](guides/pen-displays/using-a-pen-display-as-a-pen-tablet.md)
     * [Anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md)
     * [Lamination](guides/pen-displays/lamination.md)
