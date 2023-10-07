@@ -21,7 +21,8 @@ I measure diagonal wobble using a simple procedure
 * Trace usually at least five 10cm lines at 45 degrees using the plastic ruler.&#x20;
   * Draw the line from the lower left to the upper right.
   * Take 3 seconds to draw the line.
-  * The pen is tilted at about 30 degrees from vertical.
+  * The pen is tilted at about 30 to 40 degrees from vertical.
+  * To make it simple, I use load a PNG template to help guide the lines.
 * Save as a PNG
 
 ## Evaluation wobble (DRAFT)
@@ -29,7 +30,7 @@ I measure diagonal wobble using a simple procedure
 **Considerations**
 
 * **MAGNITUDE** - how wobble is physical displaced from "center" of line.
-* **PRESENCE AT VELOCITY** - Is wobble visible in slow, medium, fast strokes
+* **VELOCITY** - Is wobble visible in slow, medium, fast strokes
 
 **Scale**
 
@@ -41,3 +42,8 @@ I measure diagonal wobble using a simple procedure
 
 
 
+## Template
+
+This is version 3 of my wobble template. This is a 4000x2000 PNG image.
+
+<figure><img src="../../.gitbook/assets/Wobble Template V3.png" alt=""><figcaption></figcaption></figure>
