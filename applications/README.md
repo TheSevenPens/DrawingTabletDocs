@@ -25,7 +25,7 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 * Adobe [Fresco](fresco.md)  (Windows, iOS, MacOS)
 * [Firealpaca](fireaplaca.md)   (Windows, MacOS)
 * [HiPaint](hipaint.md) (Android, iOS)
-* [Infinite Painter](./#infinite-painter)   (Andoid, iOS)
+* [Infinite Painter](./#infinite-painter)   (Android, iOS)
 * [Krita](krita.md)  (Windows, Linux, MacOS)
 * Magma - [https://magma.com/](https://magma.com/) (web)
 * [Medibang](medibang.md)   (Windows, MacOS)
@@ -48,7 +48,7 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 
 ### Note-taking
 
-* Microsoft OneNote (Windows, MacOS, Android, iOS)
+* [Microsoft OneNote](microsoft-onenote.md) (Windows, MacOS, Android, iOS)
 
 ### Whiteboarding
 
