@@ -117,6 +117,7 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-n
 
 ## Videos
 
+* PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes! ([https://www.youtube.com/watch?v=QNgtQDwW9P4](https://www.youtube.com/watch?v=QNgtQDwW9P4)) Oct 11, 2019
 * Tim Mcburnie - iPad vs. Wacom ([https://youtu.be/hBnEE367878](https://youtu.be/hBnEE367878)) Feb 19, 2022
 * Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs)) Oct 1, 2022
 * Anastasia Berry - iPad or Display Tablet | What's Better for Drawing? ([https://youtu.be/VOyQbBBuRrc](https://youtu.be/VOyQbBBuRrc)) Feb 9, 2022

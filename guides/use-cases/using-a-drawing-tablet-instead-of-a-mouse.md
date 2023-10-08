@@ -30,5 +30,7 @@ When drawing I held it like you would normally hold a pen, but when I switched t
 
 Here's a detailed write up of someone's experience: ([https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/](https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/))
 
+## Videos
 
+* PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse! ([https://www.youtube.com/watch?v=9yTA1P8SrqI](https://www.youtube.com/watch?v=9yTA1P8SrqI)) Feb 24, 2020
 
