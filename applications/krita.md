@@ -12,5 +12,5 @@
 
 ## Videos
 
-* Jenna Drawing - HOW TO PAINT IN KRITA ([https://youtu.be/Z06RRp81iDM](https://youtu.be/Z06RRp81iDM))
-* Brad Colbow - The Best Free Drawing App Just Got Better - Krita 5.0  ([https://youtu.be/jE02xGd2CCY](https://youtu.be/jE02xGd2CCY))
+* Jenna Drawing - HOW TO PAINT IN KRITA ([https://youtu.be/Z06RRp81iDM](https://youtu.be/Z06RRp81iDM)) Sep 12, 2020
+* Brad Colbow - The Best Free Drawing App Just Got Better - Krita 5.0  ([https://youtu.be/jE02xGd2CCY](https://youtu.be/jE02xGd2CCY)) Jan 5, 2022
