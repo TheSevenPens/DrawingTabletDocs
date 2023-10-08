@@ -52,11 +52,12 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 
 ### Whiteboarding
 
-* Microsoft Whiteboard (Windows)
+* [Microsoft Whiteboard](microsoft-whiteboard.md) (Windows, iOS, iPadOS, Android)
+* [Freeform](freeform.md) (iOS, iPadOS, MacOS)
 
 ## Roundups & reviews
 
-* Teoh on Tech - Pupular drawing apps on iPad: 2023 survey results ([https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb](https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb))
+* Teoh on Tech - Popular drawing apps on iPad: 2023 survey results ([https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb](https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb))
 * Teoh on Tech - Popular drawing apps on Android - Survey results are out ([https://youtu.be/-HMcZqv33eo](https://youtu.be/-HMcZqv33eo)) Jul 27, 2023
 * Teoh on Tech - Best drawing apps for Windows tablets ([https://youtu.be/00OWlj75gA0](https://youtu.be/00OWlj75gA0)) June 3, 2003   &#x20;
 * Aaron Rutton - Top 7 Digital Art Software (2021-2022) ([https://youtu.be/OCGtwZ4MCNY](https://youtu.be/OCGtwZ4MCNY)) 2022/12/11&#x20;
