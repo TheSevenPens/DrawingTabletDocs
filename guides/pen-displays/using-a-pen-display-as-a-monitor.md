@@ -74,7 +74,7 @@ Learn more here: [**Anti-glare sparkle**](anti-glare-sparkle.md)
 
 Many monitors come with built-in speakers. They usually sound terrible, but they can be useful.
 
-Most often, pen displays do not have any speakers.
+As far as I am aware, no pen displays do not have speakers.
 
 ## Multiple simultaneous inputs: Picture-by-picture, Picture-in-picture
 
