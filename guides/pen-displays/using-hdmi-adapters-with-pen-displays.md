@@ -28,12 +28,24 @@ These are the ones I personally use:
 
 These will be MALE DVI to FEMALE HDMI.
 
-Quality: There is no loss in quality when using this kind of adapter
+I don't have any direct experience with DVI to HDMI, but some people seem to have had success.
+
+note that there are multiple DCI port shapes
+
+<figure><img src="../../.gitbook/assets/image (361).png" alt="" width="134"><figcaption></figcaption></figure>
+
+Videos:
+
+* ZachEberly -DVI-D to HDMI Adapter TESTING! | Questions and Answers!! \[2020] ([https://www.youtube.com/watch?v=oaFlLtkOh\_c](https://www.youtube.com/watch?v=oaFlLtkOh\_c))
 
 Reddit threads:
 
 * ([https://www.reddit.com/r/wacom/comments/13kqia7/will\_this\_hdmi\_to\_dvi\_adapter\_work\_with\_a\_cintiq/](https://www.reddit.com/r/wacom/comments/13kqia7/will\_this\_hdmi\_to\_dvi\_adapter\_work\_with\_a\_cintiq/))
-*
+
+Other resources:\
+\- [https://en.wikipedia.org/wiki/Digital\_Visual\_Interface](https://en.wikipedia.org/wiki/Digital\_Visual\_Interface)&#x20;
+
+
 
 ## VGA to HDMI adapters
 
