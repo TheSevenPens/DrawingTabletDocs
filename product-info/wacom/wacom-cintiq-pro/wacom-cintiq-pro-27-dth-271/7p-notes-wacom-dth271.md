@@ -118,10 +118,7 @@ Rating: OK&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Wacom Cintiq Pro 27 (DTH-271).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Compare to some other diagonal samples from my notes:
-
-* [Huion Kamvas Pro 24 4K](../../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md) &#x20;
-* [Xencelabs Pen Display 24](../../../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md)&#x20;
+Compare to some other diagonal samples linked from here: [diagonal wobble](../../../../guides/core-features/diagonal-wobble/)&#x20;
 
 ## **Display**
 
