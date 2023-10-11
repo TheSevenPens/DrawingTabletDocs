@@ -82,9 +82,11 @@ Verify that your cables are fully connected.&#x20;
 
 ## HDMI connect options
 
-## Try different HDMI ports
+### Try different HDMI ports
 
 Your computer may have multiple HDMI ports, try different ones.
+
+
 
 ## Try graphics card HDMI ports before motherboard HDMI ports
 
