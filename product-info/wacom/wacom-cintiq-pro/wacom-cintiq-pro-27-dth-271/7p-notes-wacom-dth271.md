@@ -112,41 +112,16 @@ See my [**notes on the Wacom Pro Pen 3**](../../wacom-pen-models/7p-notes-wacom-
   * Huion Kamvas Pro 24
   * Huion Kamvas 13 and XP-Pen Artist 13 (2nd Gen).
 
-### Diagonal wobble samples
+### Diagonal wobble&#x20;
 
-Click on the images below to zoom into the wobble sample
+Rating: OK&#x20;
 
-Cintiq Pro 27 wobble (below)
+<figure><img src="../../../../.gitbook/assets/Wacom Cintiq Pro 27 (DTH-271).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<div align="left">
+Compare to some other diagonal samples from my notes:
 
-<figure><img src="../../../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-Wacom Intuos Pro Large (PTH-860) wobble (Below).
-
-<div align="left">
-
-<figure><img src="../../../../.gitbook/assets/image (122).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-**Wobble from a Huion Kamvas 24 Pro**
-
-<div align="left">
-
-<figure><img src="../../../../.gitbook/assets/image (50).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-**Huion Kamvas 13 wobble (below)**
-
-<div align="left">
-
-<figure><img src="../../../../.gitbook/assets/image (152).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+* [Huion Kamvas Pro 24 4K](../../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md) &#x20;
+* [Xencelabs Pen Display 24](../../../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md)&#x20;
 
 ## **Display**
 
