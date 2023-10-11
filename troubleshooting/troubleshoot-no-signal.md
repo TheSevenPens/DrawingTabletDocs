@@ -82,41 +82,33 @@ Verify that your cables are fully connected.&#x20;
 
 ## HDMI connect options
 
-### Try different HDMI ports
+### Use a different HDMI ports
 
 Your computer may have multiple HDMI ports, try different ones.
 
+### Graphics card HDMI vs motherboard HDMI
 
+* If the computer PC has graphics card, it have HDMI ports
+* Always first try the HDMI port on your graphics card first - it's better to use them than HDMI ports on your motherboard
+* Some people suggest that motherboard ports NEVER work. This is NOT true. It is highly dependent on the specific machine. I can confirm I have several computers where the motherboard does work&#x20;
 
-## Try graphics card HDMI ports before motherboard HDMI ports
+## USB-C connection options
 
-* If you have a PC with a graphics card, you may have HDMI ports on the graphics card and on your motherboard.
-* Always try the HDMI port on your graphics card first.
+**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you.
 
-### Try a different port that supports a display signal
+More here: [USB-C support for display signal](../guides/pen-displays/usb-c-support-for-display-signal.md)&#x20;
 
-Your computer may have different ports that : Display
+### USB-C to USB-C
 
-### Try a DisplayPort to HDMI adapter
+If your tablet has a USB-C port and your computer has a USB-C port that supports a display signal, then you might be able to use a USB-C to USB-C cable.
 
-if your PC has a DisplayPort output, male DisplayPort to female HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md). &#x20;
-
-If your pen display supports USB-C for a display signal, there are some options to try.&#x20;
-
-### OPTION 1: USB-C to USB-C
-
-If your computer can send a display signal over USB-C and you have a USB-C cable that supports a display signal, then try using that USB-C cable to send the display signal.
-
-### OPTION 2: USB-C to HDMI Adapter
+### USB-C to HDMI
 
 You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md).
 
-### How to verify that your computer USB-C port support sending a display signal&#x20;
+## Converting other ports to HDMI
 
-* NOTE: To find out if your USB-C port supports a display signal, you will likely have to read the documentation from your manufacturer. It's not possible to simply look at a port and determine if it supports a display signal.&#x20;
-* One easy sign that a USB-C port supports a display signal is if it has a lightning symbol above it. This means it is a Thunderbolt 3 or Thunderbolt 4 port.
-* Get a USB-C cable that supports a display signal. Remember that not all USB C cables to support a display signal. The USB-C cables that do for sure carry a display signal are Thunderbolt 3 and Thunderbolt 4 cables. With every other cable you are going to have to check with the manufacturer or documentation.
-* If needed consider a USB-C to HDMI adapter.
+if your PC has a DisplayPort or DVI output, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md). &#x20;
 
 ### Try NOT using an HDMI Adapter
 
@@ -163,7 +155,7 @@ If your computer recognizes that a display is attached but you are still getting
 
 First try a very low resolution first and then build up to higher resolutions.
 
-## Get it to work with another computer then reattach to your computer
+## Get the tablet to work with another computer then reattach to your computer
 
 Some users report that if they are getting NO SIGNAL with their pen display, they have been able to connect the pen display to another computer where it does work. And then once it worked, they reattached it back to the first computer where it then began working.
 
