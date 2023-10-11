@@ -12,5 +12,6 @@
 * Brad Colbow- Xencelabs Pen Tablet Review ([https://www.youtube.com/watch?v=d3vIa8cBzwI](https://www.youtube.com/watch?v=d3vIa8cBzwI)) Apr 30, 2021&#x20;
 * Aaron Rutten - XENCELABS Tablet Review - Just a Rebranded XP-Pen/Ugee? ([https://www.youtube.com/watch?v=4m2yqJ3wFgI](https://www.youtube.com/watch?v=4m2yqJ3wFgI)) May 14, 2021&#x20;
 * ManyLearn - Xencelabs tablet review by a long-term Wacom user ([https://www.youtube.com/watch?v=uS63-2e32i8](https://www.youtube.com/watch?v=uS63-2e32i8)) Apr 13, 2022
+* /u//BeckleyBak/ on reddit - Xencelabs Pen Display 24 review ([https://www.reddit.com/r/drawingtablet/comments/173v9je/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/173v9je/xencelabs\_pen\_display\_24\_review/)) 2023/10/09
 
 ##
