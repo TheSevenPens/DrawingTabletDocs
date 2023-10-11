@@ -16,11 +16,15 @@ The fact that you are seeing a NO SIGNAL message already tells you a few things:
 * The backlight inside the display panel is working
 * There is nothing wrong with the display panel itself.
 
-### Why the message might say "NO SIGNAL. POWER SAVING"
+### Why the message might say "POWER SAVING"
 
-For some tablets, the NO SIGNAL message **seems** says something about power - a message like "NO SIGNAL. POWER SAVING". The "POWER SAVING" does NOT indicate a power problem.
+For some tablets, the NO SIGNAL message is accompanied bya POWER SAVING message.&#x20;
 
-It means "The pen display is not receiving a display signal from the computer. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down." So, ultimately this message is telling you the tablet is trying to save you money.&#x20;
+POWER SAVING is **NOT** indicating a problem with POWER.
+
+POWER SAVING means "The pen display is not receiving a display signal from the computer. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down."&#x20;
+
+So, ultimately this message is telling you the tablet is trying to save you money not that there is a power problem.&#x20;
 
 ## How your computer interprets a pen display
 
@@ -76,6 +80,8 @@ Verify that your cables are fully connected.&#x20;
   * Some people recommend to disconnect, then hold the tablet power button down for long time (30 seconds), and then reconnect. &#x20;
   * Some people recommend that you try leaving the tablet disconnected for an extended period of time - like 30 minutes before you reconnect.&#x20;
 
+## HDMI connect options
+
 ## Try different HDMI ports
 
 Your computer may have multiple HDMI ports, try different ones.
@@ -85,17 +91,13 @@ Your computer may have multiple HDMI ports, try different ones.
 * If you have a PC with a graphics card, you may have HDMI ports on the graphics card and on your motherboard.
 * Always try the HDMI port on your graphics card first.
 
-## HDMI adapter
+### Try a different port that supports a display signal
+
+Your computer may have different ports that : Display
 
 ### Try a DisplayPort to HDMI adapter
 
-if your PC has a DisplayPort output, male DisplayPort to female HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md).
-
-### Try NOT using an HDMI Adapter
-
-Sometimes adapters themselves can be the source of the NO SIGNAL problem. Sometimes a different adapter might work. In some cases, an you have to NOT use an adapter. &#x20;
-
-## Try USB-C
+if your PC has a DisplayPort output, male DisplayPort to female HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md). &#x20;
 
 If your pen display supports USB-C for a display signal, there are some options to try.&#x20;
 
@@ -113,6 +115,10 @@ You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen di
 * One easy sign that a USB-C port supports a display signal is if it has a lightning symbol above it. This means it is a Thunderbolt 3 or Thunderbolt 4 port.
 * Get a USB-C cable that supports a display signal. Remember that not all USB C cables to support a display signal. The USB-C cables that do for sure carry a display signal are Thunderbolt 3 and Thunderbolt 4 cables. With every other cable you are going to have to check with the manufacturer or documentation.
 * If needed consider a USB-C to HDMI adapter.
+
+### Try NOT using an HDMI Adapter
+
+Sometimes adapters themselves can be the source of the NO SIGNAL problem. Sometimes a different adapter might work. In some cases, an you have to NOT use an adapter.
 
 ## Try using your pen display as your only display
 
