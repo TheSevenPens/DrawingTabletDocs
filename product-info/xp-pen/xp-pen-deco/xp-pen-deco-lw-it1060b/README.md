@@ -3,8 +3,8 @@
 ## Basics
 
 * Cost: 90$
-* Model Year: ?
-* NOTE: The Deco LW version supports wireless while the [**Deco L version**](../xp-pen-deco-l-it1060.md) does not
+* Model Year: 2021
+* NOTE: This is the wireless version of XP-Pen Deco L (IT1060B)&#x20;
 * 7PENS owns: YES&#x20;
 * User manual: [https://www.xp-pen.com/user-manual/deco-lw.html](https://www.xp-pen.com/user-manual/deco-lw.html)&#x20;
 * [My notes on this tablet](7p-notes-xp-pen-deco-lw-it1060b.md)&#x20;

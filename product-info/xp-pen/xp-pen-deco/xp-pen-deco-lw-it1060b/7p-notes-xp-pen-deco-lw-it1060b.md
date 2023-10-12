@@ -2,6 +2,10 @@
 
 
 
+## Summary
+
+Fine tablet for drawing.&#x20;
+
 ## Diagonal wobble
 
 Rating: LOW
