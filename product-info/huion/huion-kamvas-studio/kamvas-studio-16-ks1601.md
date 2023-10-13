@@ -1,4 +1,9 @@
-# Kamvas Studio 16 (KS1601)
+# Huion Kamvas Studio 16 (KS1601)
+
+## Basics
+
+* Product page: [https://www.huion.com/products/pen\_computer/KamvasStudio/kamvas-studio-16.html](https://www.huion.com/products/pen\_computer/KamvasStudio/kamvas-studio-16.html)&#x20;
+* 7Pens owns: NO
 
 ## Reviews
 
