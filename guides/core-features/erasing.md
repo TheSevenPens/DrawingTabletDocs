@@ -8,7 +8,7 @@
 * **XP-Pen** - XP-Pen has two models with an eraser:
   * XP-Pen P06 [https://www.xp-pen.com/product/75.html](https://www.xp-pen.com/product/75.html)
   * XP-Pen X3 Pro Smart Chip Stylus [https://www.xp-pen.com/product/x3-pro-smart-chip-stylus.html](https://www.xp-pen.com/product/x3-pro-smart-chip-stylus.html)&#x20;
-* **Wacom** - Many Wacom Pro Pens have an eraser. Some examples&#x20;
+* **Wacom** - Many Wacom professional pens have an eraser. Some examples&#x20;
   * Wacom Pro Pen 2 (KP-504E) [https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html](https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html)&#x20;
   * Wacom Pro Pen Slim (KP-301E) [https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html](https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html)
 
