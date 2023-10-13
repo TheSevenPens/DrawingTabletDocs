@@ -97,6 +97,8 @@ A few drawing tablets support touch. Overall touch is not great. I do not recomm
 
 **Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth.
 
+**Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
+
 **Pen displays** require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display.&#x20;
 
 ## Power: power requirements

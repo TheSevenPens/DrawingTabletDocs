@@ -1,35 +1,22 @@
 # Beginner's guide to drawing tablets
 
-You will find this guide useful if you:
+## Introduction
 
-* are exploring if drawing tablets are right for you
-* about to buy one
-* need to buy one as a gift
-* acquired one but have never used one before&#x20;
+If you are new to drawing tablets, after reading this guide you'll understand how these devices work and be prepared to use one or to purchase one.&#x20;
 
-This guide reflects **my opinions** on many topics.
-
-## Planning on buying a drawing tablet?
-
-I wrote a buying guide that should help: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). That buying guide also links to my [**recommendations**](../buying-a-drawing-tablet/recommendations/).
-
-However, I highly recommend that your **READ THIS DOCUMENT FIRST**, before looking at the buying guide and recommendations.&#x20;
+Read this document first, then take a look at my guide to [**Buying a drawing tablet**](../buying-a-drawing-tablet/). It has links to  my [**recommendations**](../buying-a-drawing-tablet/recommendations/).&#x20;
 
 ## Basics
 
-A drawing tablet is a device that lets you use a pen as an input device.
+A drawing tablet is a device that lets you use a **digital pen** (also called a **stylus**) as an input device.
 
-Drawing tablets come with a digital **pen** (often called a **stylus**). If you move the pen on the tablet, that action will move your operating system pointer around (a.k.a. your mouse cursor) the same way on your screen.&#x20;
+If you move the pen on the tablet, that action will move your operating system pointer around (a.k.a. your mouse cursor) the same way on your screen.&#x20;
 
-A drawing tablet and its pen sense:
+A drawing tablet senses the position of the pen on the tablet, how the pen is tilted. The pen senses how much pressure is applied at the tip.
 
-* The position of the pen on the tablet
-* The pressure applied at the tip of the pen
-* How the pen is tilted&#x20;
+Detection of pressure and tilt are very important to creative applications. For example, more pressure could be translated as a darker stroke or a thicker brush stroke.
 
-Pressure and tilt can be used to change how digital brushes draw things in creative applications. For example, more pressure could be translated as a darker stroke or maybe a thicker brush stroke.
-
-## Core technology: Electromagnetic Resonance (EMR)
+## Electromagnetic Resonance (EMR)
 
 The fundamental technology behind drawing tablets is called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
 
@@ -51,26 +38,18 @@ Key attributes:
 * They REQUIRE A COMPUTER to be used.
 * They REQUIRE A MONITOR attached the the computer or that the computer is a laptop.
 
-Below is an example of a pen tablet (One by Wacom, model number CTL-472) &#x20;
-
-![](../.gitbook/assets/image.png)
-
 Pen tablets vary from $40 to $500. But you can find a good or even excellent drawing experience at many price points.
 
 The key skill required to use a pen tablet is that you must adjust to your hand drawing on one surface (the tablet) while you are looking at another surface (your monitor). Most people can adjust to this immediately or within a few days, but some people find this weird to do and for them a **pen display** or **pen computer** might be a better choice.
 
 ## Pen displays
 
-Pen displays are drawing tablets that have a display panel. They are also called: "screen tablets", "display tablets".
+Pen displays are drawing tablets that have an embedded display panel. They are also called: "screen tablets", "display tablets".
 
 Key attributes:
 
 * They DO have an embedded display
 * They REQUIRE A COMPUTER to be used.
-
-A pen display looks like this (cords connecting to the computer are not shown)
-
-![](<../.gitbook/assets/image (7)2.png>)
 
 A pen display may look like a laptop or an iPad. However unlike those devices you should be aware that the tablet will always have to have at least one cord coming from it that is connected to a computer.&#x20;
 
@@ -86,8 +65,6 @@ Pen displays range in cost from $300 to $3500.&#x20;
 
 **Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work.
 
-![](<../.gitbook/assets/image (1).png>)
-
 Pen computers can cost anywhere from $1000 to $3500.
 
 Because pen computers have a CPU, they are running an operating system. Currently pen computers use Microsoft Windows.
@@ -96,7 +73,7 @@ Some people love using pen computers but I don't think pen computers are good ch
 
 ## Apple iPads
 
-Often when I see people describe what they want in a drawing tablet, their list of requirements sounds exactly like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
+Often when I see people describe what they want in a drawing tablet, it sounds exactly like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
 ## Pen tablets vs pen displays
 
@@ -118,23 +95,23 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 ## Core features&#x20;
 
-**Accurate detection of pen position** - any modern tablet does a good job with this. However, no drawing tablet is perfectly accurate. Learn more here:  [**pen tracking**](core-features/pen-tracking.md)&#x20;
+* **Tracking pen position** - any modern drawing tablet does a good job with this. Learn more here: [**Pen tracking**](core-features/pen-tracking.md)&#x20;
+* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [**Pen hover**](core-features/pen-hover.md)&#x20;
+* **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](core-features/pen-pressure.md).&#x20;
+* **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](core-features/pen-tilt.md).
+* **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](pens/pen-buttons.md)&#x20;
+* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](core-features/expresskeys.md) &#x20;
+* **Touch** - A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. More here: [touch support](touch-support.md)&#x20;
 
-**Hover** - Tablets can even detect the position of the pen when it is not touching the surface of the tablet - usually up to a distance of 10 mm. Hover is important, because you can see where your strokes are going to be drawn before you draw them.  All drawing tablets support hover. More here: [**Pen hover**](core-features/pen-hover.md)&#x20;
+More here: [Touch support](touch-support.md)&#x20;
 
-**Pen Pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](core-features/pen-pressure.md).&#x20;
+## The active area
 
-**Pen tilt** - useful if you intend to use a creative application where brushes respond to tilt. Learn more here: [**pen tilt**](core-features/pen-tilt.md).
+The active area is the region on the tablet that your draw on. More here: [active area](core-features/active-area.md).
 
-**Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. Though you can figure them to do other things. More here: [**pen buttons**](pens/pen-buttons.md)&#x20;
+## Size (of the active area)
 
-**ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. For some people ExpressKeys are important and they want a lot of them. Some other people never use the ExpressKeys. ExpressKeys can be configured. For example you can set them to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](core-features/expresskeys.md) &#x20;
-
-## Size (active area size)
-
-The active area is the region on the tablet that your draw on. Size for a tablet is the diagonal of the active area. Most often this size is expressed as inches.
-
-There's a lot that goes into picking the right size for you. So it's worth spending time thinking about this. To learn how to find the right size, look here: [**Choosing the right tablet size**](core-features/choosing-the-right-tablet-size.md)
+When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](core-features/choosing-the-right-tablet-size.md)
 
 ## Drivers
 
@@ -142,29 +119,9 @@ When you connect a tablet to your computer, the computer needs to know how to us
 
 ## Connecting the tablet to the computer
 
-### Pen tablets
+All **pen tablets** can be connected with a single USB cable. Many pen tablets (but not all) can be connected wirelessly - for example via Bluetooth.&#x20;
 
-All pen tablets can be connected with a single USB cable.&#x20;
-
-And many pen tablets (but not all) can be connected wirelessly - for example via Bluetooth.&#x20;
-
-Be aware that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
-
-### Pen displays
-
-Pen displays do NOT have any wireless options. There is always at least one cable used with a pen display.
-
-Pen displays are more varied than pen tablets in the cabling works
-
-Depending on the situation and model involved they can use:
-
-* one cable (one cable for power+data+video signal)
-* two cables (one for power and one for data + video signal)
-* three cables (one for power, one for data, one for video signal)
-* a 3-in-1 cable&#x20;
-  * This is like the three cable option except that the three cables are fused together into a single USB cable at one end.
-
-It's very important you understand how a pen display will connect to your computer before you purchase it. More here: [**connecting a pen display to a computer**](pen-displays/connecting-a-pen-display.md)&#x20;
+**Pen displays** do NOT have any wireless options. There is always at least one cable used with a pen display. Pen displays are more varied than pen tablets in how the cabling works. In truth, connecting a pen display can be very complicated. It's very important you understand how a pen display will connect to your computer before you purchase a pen display. More here: [**connecting a pen display to a computer**](pen-displays/connecting-a-pen-display.md)&#x20;
 
 ## Applications
 
@@ -173,12 +130,6 @@ Any application on your computer, will treat the pen just as if you have a mouse
 **Pen-aware applications** know you are using a pen and take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications.
 
 More here: [**applications**](../applications/)&#x20;
-
-## Touch&#x20;
-
-A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. So if you do get a tablet with touch support, set your expectaions accordingly.
-
-More here: [Touch support](touch-support.md)&#x20;
 
 ## Pen nibs
 
