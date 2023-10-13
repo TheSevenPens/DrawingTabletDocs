@@ -16,7 +16,7 @@ I have personally seen this problem with 2 separate Inspiroy 2 L models. And I k
 
 I cannot say that every model has this problem, but it seems frequent enough that I would avoid this tablet.
 
-## **Pressure problems**
+## <mark style="color:red;">**Pressure problems**</mark>
 
 Tablet experiences extremely unstable pressure causing extreme pulsing of strokes.&#x20;
 
@@ -26,11 +26,11 @@ Example: With Krita Ink3 GPen brush with default settings and size set to 400 pi
 
 The pulsing is also visible in smaller brushes - for example 100 pixels.&#x20;
 
-You will not notice with small brushes for example 5 pixels.
+The effect is not noticeable with small brushes for example 5 pixels.
 
 Huion needs to address this problem with an update.
 
-This behavior confirmed by two more people.
+This behavior seems hardware-related. It occurs with both when using the Huion driver and OpenTabletDriver.
 
 ## **Pen**
 
