@@ -28,7 +28,7 @@ The fundamental technology behind drawing tablets is called Electromagnetic Reso
 
 </div>
 
-## Pen tablets
+### Pen tablets
 
 Pen tablets are the simplest and least expensive kind of drawing tablet. They are often called: "screenless tablets" or "non-screen tablets".
 
@@ -38,11 +38,11 @@ Key attributes:
 * They REQUIRE A COMPUTER to be used.
 * They REQUIRE A MONITOR attached the the computer or that the computer is a laptop.
 
-Pen tablets vary from $40 to $500. But you can find a good or even excellent drawing experience at many price points.
-
 The key skill required to use a pen tablet is that you must adjust to your hand drawing on one surface (the tablet) while you are looking at another surface (your monitor). Most people can adjust to this immediately or within a few days, but some people find this weird to do and for them a **pen display** or **pen computer** might be a better choice.
 
-## Pen displays
+Pen tablets cost between $40 to $500.&#x20;
+
+### Pen displays
 
 Pen displays are drawing tablets that have an embedded display panel. They are also called: "screen tablets", "display tablets".
 
@@ -59,17 +59,15 @@ It is easiest to understand pen displays as plastic box with two separate device
 
 Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](pen-displays/using-a-pen-display-as-a-monitor.md).
 
-Pen displays range in cost from $300 to $3500.&#x20;
+Pen displays cost between $300 to $3500.&#x20;
 
-## Pen computers
+### Pen computers
 
-**Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work.
+**Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows.
 
-Pen computers can cost anywhere from $1000 to $3500.
+Some people love using pen computers but I don't think pen computers are good choice for the vast majority of people. I recommend other devices such as the Apple iPad. More here: [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
 
-Because pen computers have a CPU, they are running an operating system. Currently pen computers use Microsoft Windows.
-
-Some people love using pen computers but I don't think pen computers are good choice for the vast majority of people. More here: [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
+Pen computers cost between $1000 to $3500.
 
 ## Apple iPads
 
@@ -149,9 +147,7 @@ Using the tablet driver, you can make tablet and pen work more like a mouse by u
 
 ## Using a drawing tablet with an iOS device
 
-Normally you'll be connecting a pen tablet or pen displays to a computer.&#x20;
-
-But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](general/using-a-drawing-tablet-with-an-ios-device.md).
+Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](general/using-a-drawing-tablet-with-an-ios-device.md).
 
 ## The typical problems people have with drawing tablets
 
