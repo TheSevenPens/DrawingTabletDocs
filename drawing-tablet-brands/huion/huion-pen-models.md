@@ -2,7 +2,16 @@
 
 ## PenTech
 
-PenTech 1.0, 2.0, 3.0 -> [https://support.huion.com/en/support/solutions/articles/44001952712-what-is-huion-pentech-3-0-technology-](https://support.huion.com/en/support/solutions/articles/44001952712-what-is-huion-pentech-3-0-technology-)
+Huion uses the name "PenTech" for their EMR pen technology and even has version numbers to help it has evolved over the years.
+
+The key changes are:
+
+* Pentech 1.0 - NON-EMR. Pen has a replaceable battery.
+* Pentech 1.1 - NON-EMR. Pen has a rechargeable battery
+* Pentech 2.0 - EMR. Pen no longer has batter. Gets power from the tablet.
+* Pentech 3.0 - EMR. Pressure now detected through a pressure sensor instead of relying on moving the ferrite core. This is a more reliable design and is how Wacom has been doing it for decades.
+
+Much more here: [What is Huion Pentech 3.0 technology?](https://support.huion.com/en/support/solutions/articles/44001952712-what-is-huion-pentech-3-0-technology-)
 
 ## Huion pen history
 

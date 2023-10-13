@@ -197,7 +197,7 @@
     * [Huion KeyDial](product-info/huion/huion-keydial/README.md)
       * [Huion KeyDial Mini KD100](product-info/huion/huion-keydial/huion-mini-keydial-kd100.md)
       * [Huion Keydial Mini K20](product-info/huion/huion-keydial/huion-k20-keydial-mini.md)
-    * [Huion pens](product-info/huion/huion-pen-models.md)
+    * [Huion pens](drawing-tablet-brands/huion/huion-pen-models.md)
   * [Microsoft](product-info/microsoft/README.md)
     * [Microsoft Surface Pro 8](product-info/microsoft/microsoft-surface-pro-8.md)
     * [Microsoft Surface Pro 9](product-info/microsoft/microsoft-surface-pro-9.md)
