@@ -54,9 +54,9 @@ This is not a permanent change and is not screen burn in ([https://en.wikipedia.
 
 ### Q: Can I use a pen display without plugging in the HDMI cable?
 
-Answer: YES but it depends on the model of pen display you have. Many pen displays will work exactly like pen tablets if you don't plug in the HDMI input.
+Answer: YES.
 
-Also, leaving the HDMI cable unplugged will not damage the tablet.
+More here: [Using a pen display as a pen tablet](guides/pen-displays/using-a-pen-display-as-a-pen-tablet.md)&#x20;
 
 ### Q: How do I make my pen display mirror what is on my monitor?
 
