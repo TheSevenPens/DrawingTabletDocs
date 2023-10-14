@@ -22,7 +22,7 @@
 
 ## Adobe Photoshop
 
-Older versions of Photoshop supported disabling the use of windows Ink by using a "PSUserConfig.txt" file.
+See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuring-photoshop-to-not-use-windows-ink.md)&#x20;
 
-As of 2023 the most recent versions of Photoshop no longer respect the Winks Ink setting in PSUserConfig.txt and Photoshop requires the use of Windows Ink in your tablet driver.
+
 
