@@ -117,6 +117,7 @@
     * [Using a drawing tablet with an Android device](guides/general/using-a-drawing-tablet-with-an-android-device.md)
     * [Using multiple drawing tablets at the same time](guides/general/using-multiple-drawing-tablets-at-the-same-time.md)
     * [Contacting support](guides/general/contacting-support.md)
+  * [Linux](guides/linux.md)
 * [Applications](applications/README.md)
   * [Tips](applications/tips/README.md)
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
