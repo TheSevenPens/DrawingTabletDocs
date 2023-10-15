@@ -474,6 +474,8 @@ I haven't tried a comparable XP-Pen model, so I can't comment on any comparison.
 
 ## Miscellaneous
 
+### Connecting to an iPad Pro
+
 As an experiment I connected an iPad Pro to the Cintiq Pro 27 using a Thunderbolt 3 cable.
 
 Specific iPad Pro model used: Apple iPad Pro (11 inch) (4rd gen)
@@ -487,8 +489,13 @@ Specific iPad Pro model used: Apple iPad Pro (11 inch) (4rd gen)
 * The iPad Pro was not able to use the touch support of the Cintiq Pro 27 at all.
 * The image on the Cintiq Pro 27 looked washed out - and I tried all color profiles on the Cintiq Pro 27. This seems to be an issue with the iPad Pro and some displays in general. See [https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1\_ipad\_pro\_washed\_out\_colors\_using\_external/](https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1\_ipad\_pro\_washed\_out\_colors\_using\_external/)&#x20;
 
+### Connecting to a Samsung Galaxy S8 Ultra
+
+This did not work at all. I tried connecting them with a Thunderbolt 3 cable but the Cintiq Pro gave the "NO SIGNAL" message and the S8 Ultra did not even detect that a display was attached.
+
 ## Change log
 
+* 2023/10/15 - Add info about connecting an Samsung Galaxy S8 Ultra to the Cintiq Pro 27
 * 2023/10/15 - Add info about connecting an iPad Pro to the Cintiq Pro 27
 * 2023/08/23 - Add link to reddit thread about the stand
 * 2023/06/21 - Moved notes on Wacom Pro Pen 3 to a separate doc
