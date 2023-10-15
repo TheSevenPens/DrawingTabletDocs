@@ -17,3 +17,7 @@
 * Brad Colbow ([https://www.youtube.com/watch?v=EFvpOWZDGUU](https://www.youtube.com/watch?v=EFvpOWZDGUU))
 * Create Now Sleep Later ([https://youtu.be/VPbAUF7AZhA](https://youtu.be/VPbAUF7AZhA))
 * Aaron Rutten ([https://www.youtube.com/watch?v=D4DFFH-hPr8](https://www.youtube.com/watch?v=D4DFFH-hPr8))
+
+## Reddit threads
+
+* ([https://www.reddit.com/r/wacom/comments/kkfip3/summary\_of\_pens\_including\_double\_button\_pens/](https://www.reddit.com/r/wacom/comments/kkfip3/summary\_of\_pens\_including\_double\_button\_pens/))
