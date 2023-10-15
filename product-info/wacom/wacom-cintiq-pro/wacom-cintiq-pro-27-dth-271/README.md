@@ -5,10 +5,7 @@
 * Model Year: 2022
 * Resolution: 4K
 * 7PENS owns: YES.
-
-## My notes
-
-* **The Seven Pens -** Nov 2022 [7P notes: Wacom Cintiq Pro 27](7p-notes-wacom-dth271.md)
+* [7P notes: Wacom Cintiq Pro 27](7p-notes-wacom-dth271.md)
 
 ## **Reviews**
 
