@@ -2,7 +2,7 @@
 
 My notes are in progress. I have only just received this tablet and haven't had much time to use it.
 
-**Design**
+## **Design**
 
 I like the overall design. Looks and feels very premium.
 
@@ -10,31 +10,31 @@ One minor nit. The USB-C cable connects at the top edge this meand you see the c
 
 XP-Pen logo on bottom of tablet.&#x20;
 
-**Ergonomics > Legs**
+## **Ergonomics > Legs**
 
 Two foldable legs on the back allow it to be propped up at an angle. However, I just use a spare HUION stand for a better angle.
 
-**Resolution**
+## **Resolution**
 
 Native resolution is 2560x1600
 
 Excellent resolution. Big improvement over an HD screen.
 
-**Aspect Ratio**
+## **Aspect Ratio**
 
 16:10 instead of 16:9
 
 I like the 16:10 Aspect ratio
 
-**Can be connected with a single USB-C cable?**
+## **Can be connected with a single USB-C cable?**
 
 YES. I tried the cable that it came with and a Thunderbolt 3 cable.
 
-**Express Keys**
+## **Express Keys**
 
 None
 
-**Diagonal wobble**
+## **Diagonal wobble**
 
 RATING: OK
 
