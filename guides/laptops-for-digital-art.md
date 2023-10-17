@@ -42,11 +42,15 @@ I use 2 Thunderbolt 3 cables from the Surface Pro 9 to connec two 4K 60Hz displa
 
 Even though the Surface Pro can be used for drawing with it's own pen, I prefer to use attached drawing tablets.
 
-Specifically I use these tablets with my Surface Pro 9:
+**Connected tablets**&#x20;
+
+Most often, I use these tablets with my Surface Pro 9:
 
 * Wacom Intuos Pro (PTH-860)
 * Wacom Cintiq Pro 27 (DTH-271)
 * Wacom Cintiq Pro 16 (DTH-167)
+
+Though I've used every kind successfully: Huion, XP-Pen, and Xencelabs.
 
 ## Videos
 
