@@ -1,5 +1,37 @@
 # Laptops for digital art
 
+## Recommended specs
+
+These are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
+
+* **Memory**
+  * NOT ENOUGH: 4GB
+  * OK: 8GB
+  * GOOD: 16GB
+  * EXCELLENT: 32GB
+* **I/O Ports**
+  * If you want to connect a modern pen display with a USB-C cable should have a USB-C port that supports DP-Alt mode and that is available for use to connect with your pen display.&#x20;
+    * All Thunderbolt 3 and Thunderbolt 4 ports support DP alt mode.
+    * Remember: Your USB-C cable ALSO needs to support DP alt mode.
+
+## Connecting to a pen display
+
+Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](pen-displays/connecting-a-pen-display.md)&#x20;
+
+## Notes on power consumption
+
+* If your pen display is going to draw power from the laptop it is going to limit the time your laptop can work on battery power.
+* So in these cases&#x20;
+  * (1) the laptop should be connected to a power from the wall.
+  * (2) or the pen display should be getting power from another source.
+
+## Specific laptops I recommend
+
+* [Surface Pro 8](../product-info/microsoft/microsoft-surface-pro-8.md)&#x20;
+* [Surface Pro 9](../product-info/microsoft/microsoft-surface-pro-9.md)&#x20;
+* Surface Laptop Studio&#x20;
+* Surface Laptop 5
+
 ## What I use
 
 I've been using a Surface Pro 8 with 32GB of RAM and 500GB of storage for two years now.
@@ -16,35 +48,9 @@ Specifically I use these tablets with my Surface Pro 9:
 * Wacom Cintiq Pro 27 (DTH-271)
 * Wacom Cintiq Pro 16 (DTH-167)
 
-## Recommended specs
-
-These are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
-
-* Memory
-  * OK-ish: 8GB
-  * GOOD: 16GB
-  * EXCELLENT: 32GB
-* Ports
-  * If you want to connect a modern pen display your laptop should have a USB-C port that supports DP-Alt mode and that is available for use to connect with your pen display.&#x20;
-    * All Thunderbolt 3 and Thunderbolt 4 ports support DP alt mode.&#x20;
-
-##
-
-## Notes on power consumption
-
-* If your pen display is going to draw power from the laptop it is going to limit the time your laptop can work on battery power.
-* So in these cases&#x20;
-  * (1) the laptop should be connected to a power from the wall.
-  * (2) or the pen display should be getting power from another source.
-
-## Specific laptops I recommend
-
-* [Surface Pro 8](../product-info/microsoft/microsoft-surface-pro-8.md)
-* [Surface Pro 9](../product-info/microsoft/microsoft-surface-pro-9.md)
-
 ## Videos
 
-* Brad Colbow - Top 5 Laptops for Artists 2021 - ([https://www.youtube.com/watch?v=U6sBdsr5sdg](https://www.youtube.com/watch?v=U6sBdsr5sdg))&#x20;
+* Brad Colbow - Top 5 Laptops for Artists 2021 - ([https://www.youtube.com/watch?v=U6sBdsr5sdg](https://www.youtube.com/watch?v=U6sBdsr5sdg)) &#x20;
 
 ## Resources
 
