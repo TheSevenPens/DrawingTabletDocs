@@ -65,6 +65,8 @@ Pen displays cost between $300 to $3500.&#x20;
 
 **Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows.
 
+These are also called "Standalone drawing tablets".
+
 Some people love using pen computers but I don't think pen computers are good choice for the vast majority of people. I recommend other devices such as the Apple iPad. More here: [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
 
 Pen computers cost between $1000 to $3500.
