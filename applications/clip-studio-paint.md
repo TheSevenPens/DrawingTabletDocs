@@ -10,6 +10,7 @@
 ## Getting started
 
 * Trent Kaniuga - Total BEGINNERS guide to drawing in Clip Studio Paint 2022 ([https://youtu.be/6cwfkCl8fwo](https://youtu.be/6cwfkCl8fwo))
+* Reddit: u/raghav4882 - Use CSP to learn drawing from scratch: [https://www.reddit.com/r/ClipStudio/comments/16ltxhu/use\_csp\_to\_learn\_drawing\_from\_scratch/](https://www.reddit.com/r/ClipStudio/comments/16ltxhu/use\_csp\_to\_learn\_drawing\_from\_scratch/)
 
 ## Tutorials
 
@@ -20,7 +21,8 @@
 
 * Brad Colbow - 10 Things I Love About Clip Studio Paint ([https://youtu.be/lmx4QPvIRtQ](https://youtu.be/lmx4QPvIRtQ))
 * Loading Artist - How to draw FAST using Clip Studio Paint's "secret features" ([https://youtu.be/Uel2DS8L9zA](https://youtu.be/Uel2DS8L9zA))
-* JP Art - 50 Quick Tips & Tricks You Need ([https://youtu.be/CQ3V5i5xm0g](https://youtu.be/CQ3V5i5xm0g))
+* JP Art - 50 Quick Tips & Tricks You Need ([https://youtu.be/CQ3V5i5xm0g](https://youtu.be/CQ3V5i5xm0g))&#x20;
+* Reddit - u/Trevor-On-Reddit ([https://www.reddit.com/r/ClipStudio/comments/179atr6/just\_started\_out\_any\_brush\_recommendations](https://www.reddit.com/r/ClipStudio/comments/179atr6/just\_started\_out\_any\_brush\_recommendations))
 
 ## Deep knowledge
 
