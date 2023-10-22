@@ -16,25 +16,13 @@ Pen displays rarely have high refresh rates. Typically they will be 60Hz. Higher
 
 ## Display inputs and cabling
 
-A monitor often has a variety of inputs. For example, most of the monitors I have support these display inputs:
-
-* HDMI 2.0
-* Display Port
-* USB-C
+A monitor often has a variety of inputs. For example, most of the monitors I have support these display inputs such as HDMI, DisplayPort, USB-C.
 
 Some pen displays have a variety of inputs. The Wacom Cintiq pro 27 DTH271 is a great example of one. It supports all of the inputs mentioned above.
 
-But many pen displays are going the route of only supporting USB-C for input of a display signal.
+But most modern pen displays now have only USB-C ports - usually two. One for a display signal & data and one for additional power if needed.
 
-Often you will see that a pen display  that has only a single USB-C port to which must be attached a special 3-in-1 cable.
-
-The 3-in-1 cable has a USB-C on one end that splits into 3 outputs on the other end:
-
-* HDMI  - display signal
-* USB A - sends pen/tablet data
-* USB C - intended for power delivery only
-
-If the USB-C port is used for 3-in-1 display, you should also be aware that the USB-C port may have a proprietary design and may only work with that 3-in-1 cable. Using other cables may even damage the tablet or the computer. So if you want to use your own cable, contact your manufacturer's support team first.
+See: [Connecting a pen display](connecting-a-pen-display.md)&#x20;
 
 ## Aspect ratio
 
