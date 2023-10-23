@@ -55,3 +55,9 @@ If you have the opportunity to examine the tablet before you decide to buy, here
 
     * If you are buying on locally, see test it with your computer. For example, if you plan to use it with a laptop, bring that laptop with you to see if the connections work.&#x20;
 
+
+
+## Reddit threads
+
+* [https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/)&#x20;
+*
