@@ -45,7 +45,7 @@ I have links to information, reviews, and my notes on tablets in the [product in
 
 ## Pen tablets vs pen displays
 
-<mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark> Throughout this buying guide, you'll see areas where pen tablets and pen computers are compared. More here: [**Pen tablets vs pen displays**](./#pen-tablets-vs-pen-displays)
+<mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark> Throughout this buying guide, you'll see areas where pen tablets and pen computers are compared. More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
 
 ## The drawing experience
 
