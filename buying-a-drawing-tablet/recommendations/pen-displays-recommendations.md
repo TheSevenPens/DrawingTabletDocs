@@ -27,7 +27,7 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 * MEDIUM [**Wacom Cintiq 16** (DTK-1660)](../../product-info/wacom/wacom-cintiq/wacom-cintiq-16-dtk-1660.md) $650
 * MEDIUM [**Huion Kamvas Pro 16 Plus 4k** (GT1562)](../../product-info/huion/huion-kamvas-pro/huion-kamvas-pro-16-plus-4k-gt1562.md) $900
 * MEDIUM **XP-Pen Artist Pro 16 GEN2** (MD160QH) $600 <mark style="color:red;">**UNDER EVALUATION**</mark>
-* LARGE [**Huion Kamvas 22 Plus** (GS2202)](../../product-info/huion/huion-kamvas/huion-kamvas-22-plus-gs2202.md) $550&#x20;
+* LARGE [**Huion Kamvas 22 Plus** (GS2202)](../../product-info/huion/huion-kamvas/huion-kamvas-22-plus-gs2202/) $550&#x20;
 * LARGE [**Huion Kamvas 24 Plus** (GS2402)](../../product-info/huion/huion-kamvas/huion-kamvas-24-plus-gs2402.md) $900&#x20;
 
 ## $1000 to $1500
