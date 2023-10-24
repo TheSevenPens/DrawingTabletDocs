@@ -49,7 +49,7 @@ I have links to information, reviews, and my notes on tablets in the [product in
 
 ## The drawing experience
 
-Drawing with a drawing tablet ideally is very similar to drawing paper. But there are key differences. And especially there is a big difference between pen displays and pen tablets. You should absolutely understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](./#the-drawing-experience)
+Drawing with a drawing tablet ideally is very similar to drawing paper. But there are key differences. And especially there is a big difference between pen displays and pen tablets. You should absolutely understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../guides/the-drawing-experience.md)
 
 ## **Core drawing tablet features**
 
