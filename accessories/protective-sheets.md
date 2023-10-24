@@ -73,7 +73,11 @@ Foxbox: [**https://foxbox.io/**](https://foxbox.io/)
 
 Foxbox makes **customized** protective covers. You can add an image to your cover to personalize it in any way you want.
 
-&#x20;**Can be used for pen displays?** NO. They are opaque.
+**Can be used for pen displays?** NO. They are opaque.
+
+Here's the foxbox cover I ordered for my Wacom Intuos Pro (PTH-860):&#x20;
+
+<figure><img src="../.gitbook/assets/foxbox cover for pth-860 2023_10_23.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## atFoliX screen protectors
 
