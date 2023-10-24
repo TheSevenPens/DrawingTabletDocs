@@ -134,3 +134,4 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-n
 * [https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/](https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/)&#x20;
 * [https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/](https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/) &#x20;
 * &#x20;[https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/](https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/)  &#x20;
+* [https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/)
