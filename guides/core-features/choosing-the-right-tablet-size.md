@@ -32,23 +32,14 @@ Here's what you should consider in your choice
 
 ## Size recommendations
 
-### For pen tablets
-
-* starter tablet -> SMALL&#x20;
-* drawing, sketching, painting, etc. -> MEDIUM. LARGE if you know you need it.
-* photo editing -> SMALL works fine. Get MEDIUM if you want
-* using as mouse replacement -> SMALL works fine.&#x20;
-* note taking -> I don't recommend pen tablets for note taking.
-
-NOTE: SMALL pen tablets may work better in general for young children
-
-### For pen displays
-
-* starter tablet -> SMALL&#x20;
-* drawing, sketching, painting, etc. -> MEDIUM to LARGE&#x20;
-* photo editing -> SMALL / MEDIUM&#x20;
-* using as mouse replacement -> I don't recommend a pen display as a mouse replacement
-* note taking -> I don't recommend pen displays for note taking.
+|                              | Pen tablet                                                                            | Pen display                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Starter tablet               | <p><strong>MEDIUM</strong></p><p><strong>SMALL</strong> if budget is a constraint</p> | <p><strong>MEDIUM</strong></p><p><strong>SMALL</strong> if budget is a constraint</p> |
+| Drawing, Sketching, Painting | <p><strong>MEDIUM</strong></p><p><strong>LARGE</strong> if you know you need it</p>   | <p><strong>MEDIUM</strong></p><p><strong>LARGE</strong> if you know you need it</p>   |
+| Photo Editing                | **SMALL** is enough                                                                   | **SMALL** or **MEDIUM**                                                               |
+| Note taking                  | <p><strong>MEDIUM</strong><br>(I don't recommend pen tablets for note taking)</p>     | **SMALL** (I don't recommend pen displays for note taking)                            |
+| Mouse replacement            | **SMALL**                                                                             | N/A                                                                                   |
+| For children                 | **SMALL**                                                                             | **SMALL**                                                                             |
 
 ## Notes on pen tablet sizes&#x20;
 
