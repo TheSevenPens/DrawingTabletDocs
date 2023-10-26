@@ -128,6 +128,7 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-n
 * Teoh on tech - Why I prefer Concepts over Procreate for drawing ([https://youtu.be/5ORoSQ8Q0fM](https://youtu.be/5ORoSQ8Q0fM)) Aug 1, 2022
 * Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!  - ([https://youtu.be/ZpcKfipVy24](https://youtu.be/ZpcKfipVy24)) Nov 1, 2022
 * Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art ([https://www.youtube.com/watch?v=MJN8e8k-w-I](https://www.youtube.com/watch?v=MJN8e8k-w-I)) Oct 25, 2023
+* Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad ([https://www.youtube.com/watch?v=DDcdJu\_gUb0](https://www.youtube.com/watch?v=DDcdJu\_gUb0)) Apr 13, 2023
 
 ## Other resources
 
