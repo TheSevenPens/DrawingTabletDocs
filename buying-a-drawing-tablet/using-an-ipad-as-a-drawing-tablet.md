@@ -126,6 +126,7 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-n
 * Teoh on tech - Can you do graphic design on iPad (vs computer) ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs)) Oct 1, 2022
 * Teoh on tech - Why I prefer Concepts over Procreate for drawing ([https://youtu.be/5ORoSQ8Q0fM](https://youtu.be/5ORoSQ8Q0fM)) Aug 1, 2022
 * Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!  - ([https://youtu.be/ZpcKfipVy24](https://youtu.be/ZpcKfipVy24)) Nov 1, 2022
+* Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art ([https://www.youtube.com/watch?v=MJN8e8k-w-I](https://www.youtube.com/watch?v=MJN8e8k-w-I)) Oct 25, 2023
 
 ## Other resources
 
@@ -134,4 +135,5 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../7p-notes/7p-n
 * [https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/](https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/)&#x20;
 * [https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/](https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/) &#x20;
 * &#x20;[https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/](https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/)  &#x20;
-* [https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/)
+* [https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/)&#x20;
+*

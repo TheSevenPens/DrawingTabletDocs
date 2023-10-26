@@ -290,6 +290,7 @@
   * [Protective cases](accessories/protective-cases.md)
   * [Protective sheets](accessories/protective-sheets.md)
   * [Sketchboard Pro for iPad](accessories/sketchboard-pro-for-ipad.md)
+  * [Sketchslate for iPad](accessories/sketchslate-for-ipad.md)
   * [TourBox](accessories/tourbox.md)
 * [Resources](resources/README.md)
   * [Kuuube](resources/kuuube/README.md)
