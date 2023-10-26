@@ -99,6 +99,7 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## Stands
 
+* more here: [iPad stands](../accessories/ipad-stands/)   &#x20;
 * Adam Duff - ULTIMATE iPad Pro Stand Buyers Guide For ARTISTS - ([https://youtu.be/I4M1HzcAjEM](https://youtu.be/I4M1HzcAjEM))
 
 ## iPad apps for creative work
