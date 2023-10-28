@@ -8,7 +8,21 @@ You can use a pen display like a regular monitor. However, there are a few thing
 
 It's completely safe.&#x20;
 
-I use my Kamvas 22 Plus as a second display and leave it on 24/7 and my computer is set to never sleep so it is always showing something. I've done this with other pen displays also.
+I've used multiple pen displays as a second display and leave them on 24/7 and my computers are set to never sleep so they are always showing something.&#x20;
+
+Specific pen displays I have used this way (each has been continuously turned on and showing something for several months at least):
+
+* Wacom Cintiq Pro 16 DTH-167
+* Wacom Cintiq Pro 27 DTH-271
+* XP-Pen Artist Pro 16 GEN2 MD160QH
+* Wacom One GEN1 (DTC-133)
+* Wacom One 13 GEN2 (DTH-134)
+* Wacom One 12 GEN2 (DTC-121)
+* Huion Kamvas 22 Plus (GS2202)
+* Huion Kamvas 13 (GS1331)
+* Huion Kamvas Pro 16 Plus 4k (GT1562)
+* Huion Kamvas Pro 24 4K (GT2401)
+* Xencelabs Pen Display 24 (LPH2412U-A)
 
 ## Refresh Rate
 
@@ -22,13 +36,15 @@ Some pen displays have a variety of inputs. The Wacom Cintiq pro 27 DTH271 is a 
 
 But most modern pen displays now have only USB-C ports - usually two. One for a display signal & data and one for additional power if needed.
 
-See: [Connecting a pen display](connecting-a-pen-display.md)&#x20;
+See: [**Connecting a pen display**](connecting-a-pen-display.md)&#x20;
 
 ## Aspect ratio
 
 Typically monitors have to aspect ratios: 16:9 and 16:10. And there are variety of widescreen or ultra-widescreen monitors that support many other aspect ratios.
 
 Pen displays have much less diversity of aspect ratios. The vast majority of modern pen displays are exactly 16:9. A very small number are 16:10.
+
+Learn more: [**active area aspect ratio**](../core-features/active-area-aspect-ratio.md)&#x20;
 
 ## Display panel technology
 
@@ -44,19 +60,21 @@ As of January 2023, while you can find monitors that use OLED, no pen displays s
 
 Most often monitors support VESA mounting so you can attach them to a stand or an arm.
 
-Many pen displays support VESA mounting also. However, the pen displays that are 16" or smaller often do not support VESA mounting. LIkely they do not support VESA mounting because these sizes of pen displays are to thin to do so.
+Many pen displays support VESA mounting also. However, the pen displays that are 16" or smaller often do not support VESA mounting. Likely they do not support VESA mounting because these sizes of pen displays are to thin to do so.
+
+More here: [**Using monitor arms with a pen display**](using-monitor-arms-with-a-pen-display.md)&#x20;
 
 ## Power cabling
 
 Monitors tend to have the normal power cables and adapters.
 
-Modern pen displays tend to support getting power via their USB C ports.&#x20;
+Modern pen displays tend to support getting power via their USB C ports. &#x20;
 
 ## Anti-glare sparkle
 
-It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticable. Some people are very irritated by the visual effect of this anti-glare sparkle.
+It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle.
 
-Learn more here: [**Anti-glare sparkle**](anti-glare-sparkle.md)
+More here: [**Anti-glare sparkle**](anti-glare-sparkle.md)
 
 ## Speakers
 
@@ -74,11 +92,13 @@ This is not something found on pen displays. Or at least it is very rare.
 
 ## Heat
 
-It's common question whether pen displays would get to hot if they are continually used. Pen displays don't get any hotter than a normal monitor.&#x20;
+It's common question whether pen displays would get to hot if they are continually used. Pen displays don't get any hotter than a normal monitor. More here: [**Heat**](../ergonomics/heat.md)
 
 ## Noise
 
 Monitors are almost always completely silent and don't even have fans.
 
 However, some pen displays - notably some Wacom Cintiq Pro models - have fans are are known for fan noise. If you are sensitive to noise research this first.&#x20;
+
+
 
