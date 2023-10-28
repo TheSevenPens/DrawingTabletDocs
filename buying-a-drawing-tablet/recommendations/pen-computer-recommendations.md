@@ -2,6 +2,8 @@
 
 ## Overview
 
+Read this first: [**Buying a drawing tablet**](../) &#x20;
+
 **Pen computers** are drawing tablets that can be used by themselves, without being attached to a computer. [**I don't recommend pen computers**](../the-case-against-pen-computers.md) and instead recommend that you explore alternatives such as:&#x20;
 
 * The Apple iPad. [**iPads are excellent pen-computers / drawing tablets**](../using-an-ipad-as-a-drawing-tablet.md).&#x20;

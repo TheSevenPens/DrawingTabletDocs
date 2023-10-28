@@ -2,6 +2,8 @@
 
 ## Overview
 
+Read this first: [**Buying a drawing tablet**](../) &#x20;
+
 These are recommendations for **pen tablets** (aka **screenless tablets**)
 
 * These drawing tablets that DO NOT have a screen.

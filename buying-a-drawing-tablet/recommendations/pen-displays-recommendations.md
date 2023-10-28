@@ -2,6 +2,8 @@
 
 ## Overview
 
+Read this first: [**Buying a drawing tablet**](../) &#x20;
+
 This these are recommendations for **pen displays** (aka **screen tablets**)
 
 * These drawing tablets DO have a screen&#x20;
