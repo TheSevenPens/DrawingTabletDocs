@@ -12,7 +12,7 @@ I use my Kamvas 22 Plus as a second display and leave it on 24/7 and my computer
 
 ## Refresh Rate
 
-Pen displays rarely have high refresh rates. Typically they will be 60Hz. Higher refresh rates are rare. As of January 2022, only a single pen display (Wacom Cintiq pro 27 DTH271) supports up to 120Hz.
+Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [**Pen display refresh rate**](pen-display-refresh-rate.md)&#x20;
 
 ## Display inputs and cabling
 

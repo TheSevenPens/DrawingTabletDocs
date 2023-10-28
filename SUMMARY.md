@@ -66,6 +66,7 @@
     * [Using HDMI splitters with pen displays](guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
     * [Using HDMI adapters with pen displays](guides/pen-displays/using-hdmi-adapters-with-pen-displays.md)
     * [Color tint on edges of display](guides/pen-displays/color-tint-on-edges-of-display.md)
+    * [Pen display refresh rate](guides/pen-displays/pen-display-refresh-rate.md)
     * [USB-C support for display signal](guides/pen-displays/usb-c-support-for-display-signal.md)
   * [Pens](guides/pens/README.md)
     * [Pen buttons](guides/pens/pen-buttons.md)
