@@ -4,6 +4,8 @@ Buying a used tablet is an alternative if you want to save a little money
 
 ## My experience with used drawing tablets
 
+I have bought and worked with MANY used drawing tablets - 26 used tablets as of October 2023. You can see the list here: [my tablets](../about-thesevenpens/my-tablets.md)&#x20;
+
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used I own many used pen tablets, some over 25+ years old that still work.
 * **pen displays** - I have purchased one used pen display. So, I don't have a lot of experience with this.&#x20;
 * **pen computers** - I have no experience with used pen computers. And in general I do not recommend pen computers. See: [The case against pen computers](the-case-against-pen-computers.md)&#x20;
