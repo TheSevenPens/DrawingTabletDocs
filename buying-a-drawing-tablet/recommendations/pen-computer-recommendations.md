@@ -12,12 +12,12 @@ Read this first: [**Buying a drawing tablet**](../) &#x20;
 
 ## $200 to $300
 
-* [**SAMSUNG Galaxy Tab S6 Lite 2020 version**](../../product-info/samsung/samsung-galaxy-tab-s6/samsung-galaxy-tab-s6-lite-2020.md)&#x20;
+* [**SAMSUNG Galaxy Tab S6 Lite 2020 version** ](../../product-info/samsung/samsung-galaxy-tab-s6.md)
   * NOTE: get the 2022 version if you can
 
 ## $300 to $400
 
-* [**SAMSUNG Galaxy Tab S6 Lite 2022 version**](../../product-info/samsung/samsung-galaxy-tab-s6/samsung-galaxy-tab-s6-lite-2022.md)
+* [**SAMSUNG Galaxy Tab S6 Lite 2022 version**](../../product-info/samsung/samsung-galaxy-tab-s6.md)
 
 ## $500 to $1000
 
