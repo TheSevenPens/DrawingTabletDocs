@@ -211,6 +211,7 @@
     * [Samsung Galaxy Tab S6 Lite 2020](product-info/samsung/samsung-galaxy-tab-s6-lite-2020.md)
     * [Samsung Galaxy Tab S9 Ultra](product-info/samsung/samsung-galaxy-tab-s9-ultra.md)
     * [Samsung Galaxy Tab S9 FE](product-info/samsung/samsung-galaxy-tab-s9-fe.md)
+    * [Samsung S Pen](product-info/samsung/samsung-s-pen.md)
     * [Samsung Galaxy Tab S8 Ultra](product-info/samsung/samsung-galaxy-tab-s8-ultra.md)
   * [Wacom](product-info/wacom/README.md)
     * [Overview of Wacom pen tablets](drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md)
