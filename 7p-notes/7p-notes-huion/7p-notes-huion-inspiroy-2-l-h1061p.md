@@ -22,7 +22,7 @@ Tablet experiences extremely unstable pressure causing extreme pulsing of stroke
 
 Example: With Krita Ink3 GPen brush with default settings and size set to 400 pixels.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
 The pulsing is also visible in smaller brushes - for example 100 pixels.&#x20;
 
