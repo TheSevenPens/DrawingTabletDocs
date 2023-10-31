@@ -51,10 +51,7 @@ I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble/) usi
 * **HIGH** - moderate wobble available in lots of lines
 * **VERR HIGH** - lots of wobbling in lines
 
+## Wobble testing template image
 
+<figure><img src="../../.gitbook/assets/Wobble Template V7.png" alt=""><figcaption></figcaption></figure>
 
-## Template
-
-This is version 5 of my wobble template. This is a 4000x2000 PNG image.
-
-<figure><img src="../../.gitbook/assets/Wobble Template V6.png" alt=""><figcaption></figcaption></figure>
