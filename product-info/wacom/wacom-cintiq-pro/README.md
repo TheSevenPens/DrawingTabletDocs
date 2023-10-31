@@ -43,7 +43,7 @@
 
 * Wacom Cintiq Pro 22 ([https://www.youtube.com/watch?v=XIau-8KOtQQ](https://www.youtube.com/watch?v=XIau-8KOtQQ))
 
-## Wacom Cintiq Pro 27 (DTH-271)
+## Cintiq Pro 27 (DTH-271)
 
 **Basics**
 

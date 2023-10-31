@@ -2,14 +2,14 @@
 
 ## Wacom Cintiq 27 QHD (DTK-2700)
 
-### Reviews
+**Reviews**
 
 * Aaron Rutten ([https://youtu.be/rzzB2\_iiJQA](https://youtu.be/rzzB2\_iiJQA)) Nov 7, 2016
 * Jazza ([https://youtu.be/G8SYYpnXmHk) F](https://youtu.be/G8SYYpnXmHk)eb 7, 2016&#x20;
 
 ## Wacom Cintiq 22 (DTK-2260)
 
-### Basics
+**Basics**
 
 * Cost: $1200
 * Model year: 2019
@@ -18,7 +18,7 @@
 * 7PENS owns: NO
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
 
-### Reviews
+**Reviews**
 
 * Aaron Rutten - Wacom Cintiq Pro 27 Review (In-Depth)
   * ([https://youtu.be/LybW8WZBrrg](https://youtu.be/LybW8WZBrrg))
@@ -33,7 +33,7 @@
 
 ## Wacom Cintiq 16 (DTK-1660)
 
-### Basics
+**Basics**
 
 * Cost: $650
 * Model Year: 2018
@@ -42,7 +42,7 @@
 * 7PENS owns this tablet: NO
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)&#x20;
 
-### Reviews
+**Reviews**
 
 * Brad Colbow ([https://www.youtube.com/watch?v=ye8R0LAbkiE](https://www.youtube.com/watch?v=ye8R0LAbkiE)) Jan 8, 2019
 * Ross Draws ([https://youtu.be/6\_tMU5z6s9s](https://youtu.be/6\_tMU5z6s9s)) Feb 22, 2019

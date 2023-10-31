@@ -10,7 +10,7 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 
 ## Wacom Intuos Pro Small 2019 (PTH-460)
 
-### Basics
+**Basics**
 
 * Model year: 2019
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-460.html](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html)
@@ -20,7 +20,7 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 
 ## Wacom Intuos Pro Medium 2017 (PTH-660)
 
-### Basics
+**Basics**
 
 * Cost: $300
 * Model year: 2017
@@ -29,14 +29,14 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/PTH-660.html](https://101.wacom.com/UserHelp/en/TOC/PTH-660.html)
 * 7P Notes: [7P notes: Wacom Intuos Pro Medium 2017 (PTH-660)](../../../7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-medium-pth-660.md)&#x20;
 
-### Reviews
+**Reviews**
 
 * Brad Colbow - [https://youtu.be/bbOGvAW3o-M](https://youtu.be/bbOGvAW3o-M)   &#x20;
 * Claudio Juliano - [https://youtu.be/lKJYuRQfLkc](https://youtu.be/lKJYuRQfLkc)&#x20;
 
 ## Wacom Intuos Pro Large 2017 (PTH-860)
 
-## Basics
+**Basics**
 
 * Cost: $500 (on sale for $400)
 * Model Year: 2017
