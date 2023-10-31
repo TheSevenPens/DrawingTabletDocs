@@ -29,7 +29,7 @@ Currently they suffer from pressure issues and I do not recommend purchasing the
 * Wacom One S GEN2 (CTC-4110WL)&#x20;
 * Wacom One M GEN2 (CTC-6110WL)&#x20;
 
-More here: [7P notes: Wacom 2023 drawing tablet refresh](../../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
+More here: [7P notes: Wacom 2023 drawing tablet refresh](../../product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
 
 ## Wacom recommendation summary
 
