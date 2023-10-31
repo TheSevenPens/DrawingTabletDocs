@@ -25,17 +25,17 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 
 ## $100 to $200
 
-* SMALL [**Wacom Intuos Pro Small** (PTH-460)](../../product-info/wacom/wacom-intuos-pro/wacom-intuos-pro-small-pth-460.md) $200&#x20;
+* SMALL [**Wacom Intuos Pro**](../../product-info/wacom/wacom-intuos-pro/) **Small** (PTH-460) $200&#x20;
 * MEDIUM [**Wacom One M**](../../product-info/wacom/wacom-one/wacom-one-gen2-drawing-tablets.md) (CTC-6110WL) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../7p-notes/7p-notes-wacom/7p-notes-wacom-2023-drawing-tablet-refresh.md)**)**
 * MEDIUM [**Wacom Intuos Medium** (CTL-6100)](../../product-info/wacom/wacom-intuos/wacom-intuos-medium-ctl-6100.md) $200
 
 ## $200 to $300
 
-* MEDIUM [**Wacom Intuos Pro Medium** (PTH-660)](../../product-info/wacom/wacom-intuos-pro/wacom-intuos-pro-medium-pth-660.md) $300 ([my notes](../../7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-medium-pth-660.md))
+* MEDIUM [**Wacom Intuos Pro**](../../product-info/wacom/wacom-intuos-pro/) **Medium** (PTH-660) $300 ([my notes](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-medium-pth-660.md))
 * LARGE [**Huion Inspiroy Giano** (G930L)](../../product-info/huion/huion-inspiroy/huion-inspiroy-giano-g930l.md) $200 (on sale for $180) ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-giano-g930l.md))
 * LARGE [**XP-Pen Deco Pro XLW GEN2**](../../product-info/xp-pen/xp-pen-deco-pro/xp-pen-deco-pro-xlw-gen-2-mt1592b.md) (MT1592B) $?? <mark style="color:red;">**UNDER EVALUATION**</mark> ([my notes](../../product-info/xp-pen/xp-pen-deco-pro/xp-pen-deco-pro-xlw-gen-2-mt1592b.md))&#x20;
 
 ## $300 to $500
 
-* LARGE [**Wacom Intuos Pro Large** (PTH-860)](../../product-info/wacom/wacom-intuos-pro/wacom-intuos-pro-large-pth-860.md) $500 ([my notes](../../7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-large-pth-860.md))
+* LARGE [**Wacom Intuos Pro**](../../product-info/wacom/wacom-intuos-pro/) **Large** (PTH-860) $500 ([my notes](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md))
 
