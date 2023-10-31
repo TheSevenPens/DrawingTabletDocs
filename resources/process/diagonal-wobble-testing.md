@@ -4,25 +4,36 @@ I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble/) usi
 
 ## Resources
 
-**Template** - I built a standard 1000x1000 pixel PNG I use that has gridlines at every 100 pixels. A Python script generates these images.
+**Diagonal template image** - a standard PNG file created with using Adobe Illustrator. This provides visual guides that make it easier for the testing. Image is shown later in this doc.
 
 **Ruler** - I use a simple plastic ruler. I do not use metal rulers because they might interfere with the EMR tech in the pen.
 
 **Driver** - I use the latest manufacturer driver. For very old tablets that don't have recent drivers, I use OpenTabletDriver.
 
-**Application** - I use Krita&#x20;
+**Application** - Krita&#x20;
 
 ## Testing process
 
-* Verify the plastic ruler has no rough spots or pumps that would affect the measurement. It should be smooth.
-* For pen tablets, set the active area to a single display.
-* For pen tablets, set the driver to match the aspect ratio of the tablet to the display.
-* Set Krita zoom to 100%.
-* Trace usually at least five 10cm lines at 45 degrees using the plastic ruler.&#x20;
+* Verify the plastic ruler has no rough spots or bumps that would affect the measurement. It should be smooth.
+* Tablet configuration
+  * For pen tablets, set the active area to a single display.
+  * For pen tablets, set the driver to match the aspect ratio of the tablet to the display.
+* App configruation
+  * Load the diagonal template image
+  * Set Krita zoom to 100%.
+  * Set Brush to **Ink-2 Fineliner** with default brush settings and set size to 5 pixels.
+  *
+
+      <div align="left">
+
+      <figure><img src="../../.gitbook/assets/image (363).png" alt="" width="320"><figcaption></figcaption></figure>
+
+      </div>
+* Drawing
+  * The template requires 3 sets of lines drawn at different speeds - 3 lines for each speed
   * Draw the line from the lower left to the upper right.
-  * Take 3 seconds to draw the line.
-  * The pen is tilted at about 30 to 40 degrees from vertical.
-  * To make it simple, I use load a PNG template to help guide the lines.
+    * Follow the specified speed as much as possible
+    * pen tilt = about 30 to 40 degrees from vertical.
 * Save as a PNG
 
 ## Evaluation wobble (DRAFT)

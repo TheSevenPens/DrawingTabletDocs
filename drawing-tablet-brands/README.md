@@ -102,7 +102,9 @@ Like Wacom they both have a wide variety of products available.
 ### How Huion and XP-PEN could do better
 
 * Huion pen displays - especially the high PPI ones tend to show more AG sparkle. more here: [Anti-glare sparkle](../guides/pen-displays/anti-glare-sparkle.md).
-* XP-pen tablets tend to exhibit slightly more pointer lag than Wacom or Huion. More here: [lag](../guides/core-features/lag.md).
+* Pointer lag:
+  * XP-pen pen displays tend to exhibit slightly more pointer lag than Wacom or Huion. More here: [lag](../guides/core-features/lag.md).&#x20;
+  * XP-Pen and Huion's pen tablets seem to have the same level of pointer lag.&#x20;
 * Improve their Core EMR tech and specs - while on paper equivalent to Wacom are still trailing. For many artists they may not notice this, but tablet enthusiasts do certainly notice it. (Will be a topic for a future video)
 * Improve customer support. Both Huion and XP-Pen struggle with customer support. They tend to take more time to respond.&#x20;
 * Reliability - Huion and XP-pen a little lag behind Wacom. &#x20;
