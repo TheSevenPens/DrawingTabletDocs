@@ -9,7 +9,7 @@ Read this first: [**Buying a drawing tablet**](../) &#x20;
 * The Apple iPad. [**iPads are excellent pen-computers / drawing tablets**](../using-an-ipad-as-a-drawing-tablet.md).&#x20;
 * The **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.
 * Several of the Samsung Galaxy Tab S series of tablets will work well. Specifically, the **SAMSUNG Galaxy Tab S6 Lite** (2022 version) is a good a low-cost option.
-* [Samsung Galaxy Tab S9](../../product-info/samsung/samsung-galaxy-tab-s9.md)     &#x20;
+* [Samsung Galaxy Tab S9](../../product-info/samsung/samsung-galaxy-tab-s9/)     &#x20;
 
 ## $200 to $300
 
@@ -24,7 +24,7 @@ Read this first: [**Buying a drawing tablet**](../) &#x20;
 
 * **Apple iPad Air (4th gen and later)** ($600)
   * 7PENS owns: NO
-* [**Samsung Galaxy Tab S9 FE**](../../product-info/samsung/samsung-galaxy-tab-s9.md) ($600)
+* [**Samsung Galaxy Tab S9 FE**](../../product-info/samsung/samsung-galaxy-tab-s9/) ($600)
 * **Apple iPad Pro 11 inch (4th gen and later)** (starting at $800)
   * Supports Apple Pencil 2
   * Processor: m2
