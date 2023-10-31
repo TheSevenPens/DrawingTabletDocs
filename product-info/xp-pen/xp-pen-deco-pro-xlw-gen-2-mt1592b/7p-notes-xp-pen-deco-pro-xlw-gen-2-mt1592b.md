@@ -37,7 +37,7 @@ Good: If you disable the two pen buttons in the driver, and then press the butto
 
 Obligatory 16K pressure level screenshot. This is what it shows in the driver.&#x20;
 
-![](<../../.gitbook/assets/image (334).png>)
+![](<../../../.gitbook/assets/image (334).png>)
 
 There is no noticeable impact on my drawing.&#x20;
 
@@ -87,7 +87,7 @@ Notice that wobble is present even in the fast stroke.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/XP-Pen Deco Pro XLW GEN2 (MT1592B).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/XP-Pen Deco Pro XLW GEN2 (MT1592B).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -33,7 +33,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 
 * MEDIUM [**Wacom Intuos Pro**](../../product-info/wacom/wacom-intuos-pro/) **Medium** (PTH-660) $300 ([my notes](../../7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-medium-pth-660.md))
 * LARGE [**Huion Inspiroy Giano** (G930L)](../../product-info/huion/huion-inspiroy/huion-inspiroy-giano-g930l.md) $200 (on sale for $180) ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-giano-g930l.md))
-* LARGE [**XP-Pen Deco Pro XLW GEN2**](../../product-info/xp-pen/xp-pen-deco-pro/xp-pen-deco-pro-xlw-gen-2-mt1592b.md) (MT1592B) $?? <mark style="color:red;">**UNDER EVALUATION**</mark> ([my notes](../../product-info/xp-pen/xp-pen-deco-pro/xp-pen-deco-pro-xlw-gen-2-mt1592b.md))&#x20;
+* LARGE [**XP-Pen Deco Pro XLW GEN2**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/) (MT1592B) $?? <mark style="color:red;">**UNDER EVALUATION**</mark> ([my notes](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/))&#x20;
 
 ## $300 to $500
 
