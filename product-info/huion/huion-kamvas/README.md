@@ -2,14 +2,14 @@
 
 ## Huion Kamvas 12 (GS1161)
 
-### Reviews
+Reviews
 
 * Brad Colbow -([https://youtu.be/57QFFMuhxUU](https://youtu.be/57QFFMuhxUU))
 * Teoh Yi Chie - ([https://youtu.be/KW\_GwmGhwb0](https://youtu.be/KW\_GwmGhwb0))
 
 ## Huion Kamvas 13 (GS1331)
 
-### Basics
+Basics
 
 * Cost: $240 (on sale for $210)
 * Model year: 2020
@@ -18,11 +18,11 @@
 * 7PENS owns this tablet: YES.
 * User manual: [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)&#x20;
 
-### My notes
+My notes
 
 * Exhibits moderate [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md) &#x20;
 
-### Reviews
+Reviews
 
 * Teoh on Tech: [https://www.youtube.com/watch?v=yn1eJFsrFnY](https://www.youtube.com/watch?v=yn1eJFsrFnY)&#x20;
 * Brad Colbow: [https://www.youtube.com/watch?v=ku8x1q\_nhFQ](https://www.youtube.com/watch?v=ku8x1q\_nhFQ) &#x20;
@@ -30,7 +30,7 @@
 
 ## Huion Kamvas 16 (GS1562)
 
-### Basics
+Basics
 
 Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html)&#x20;
 
@@ -38,14 +38,14 @@ Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](ht
 
 
 
-### Reviews
+Reviews
 
 * Teoh Yi Chie (Mar 6 2021) ([https://youtu.be/KW\_GwmGhwb0](https://youtu.be/KW\_GwmGhwb0))
 * Brad Colbow (Jan 11 2021) ([https://youtu.be/57QFFMuhxUU](https://youtu.be/57QFFMuhxUU))
 
 ## Huion Kamvas 22 (GS2201)
 
-### Basics
+Basics
 
 * Cost: $450 (on sale for $400)
 * Model Year: 2020
@@ -58,7 +58,7 @@ Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](ht
 
 ## Huion Kamvas 22 Plus (GS2202)
 
-### Basics
+Basics
 
 * $550 (on sale for $500)
 * Model Year: 2020
@@ -66,13 +66,13 @@ Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](ht
 * Active Area Diagonal: 21.5"
 * 7PENS owns: YES
 
-### My notes
+My notes
 
 * [My notes on Huion Kamvas 22 Plus](7p-notes-huion-kamvas-22-plus.md)&#x20;
 * Notes:
   * Exhibits low [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
 
-### Reviews
+Reviews
 
 * Brad Colbow - ([https://youtu.be/GJxGzJgfYGA](https://youtu.be/GJxGzJgfYGA))
 * Nemanja Sekulic - ([https://youtu.be/mlYTRD2KmeY](https://youtu.be/mlYTRD2KmeY))
@@ -80,7 +80,7 @@ Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](ht
 
 ## Huion Kamvas 24 (GS2401)
 
-### Basics
+Basics
 
 * Cost: $1900
 * Model Year: 2021
@@ -90,13 +90,13 @@ Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](ht
 * Product page: [https://www.huion.com/products/pen\_display/Kamvas/kamvas-24.html  ](https://www.huion.com/products/pen\_display/Kamvas/kamvas-24.html)
 * User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90)
 
-### Reviews
+Reviews
 
 * Adam Duff - Huion Kamvas 24 Plus Review ([https://youtu.be/1xL\_rz6csbo](https://youtu.be/1xL\_rz6csbo)) Oct 14, 2023
 
 ## Huion Kamvas 24 Plus (GS2402)
 
-### Basics
+Basics
 
 * Cost: $900 (on sale for $720)
 * Model Year: 2021

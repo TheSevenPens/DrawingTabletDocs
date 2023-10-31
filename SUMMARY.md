@@ -224,7 +224,6 @@
   * [XP-Pen](product-info/xp-pen/README.md)
     * [XP-Pen Deco](product-info/xp-pen/xp-pen-deco/README.md)
       * [7P notes: XP-Pen Deco LW (IT1060B)](product-info/xp-pen/xp-pen-deco/xp-pen-deco-lw-it1060b/7p-notes-xp-pen-deco-lw-it1060b.md)
-    * [XP-Pen Deco Pro](product-info/xp-pen/xp-pen-deco-pro.md)
     * [XP-Pen Artist GEN2](product-info/xp-pen/xp-pen-artist-gen2.md)
     * [XP-Pen Artist Pro GEN2](product-info/xp-pen/xp-pen-artist-pro-gen2/README.md)
       * [7P notes: XP-Pen Artist Pro 16 GEN2 (MD160QH)](product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)

@@ -2,7 +2,7 @@
 
 ## Huion Inspiroy Dial 2 (Q630M)
 
-## Reviews
+Reviews
 
 * Teoh on tech - ([https://youtu.be/OCNsJ1gqnZ0](https://youtu.be/OCNsJ1gqnZ0)) Aug 16, 2022
 * Create now sleep later - ([https://youtu.be/mXKoWtvKDi0](https://youtu.be/mXKoWtvKDi0)) Aug 26, 2022&#x20;
@@ -10,7 +10,7 @@
 
 ## Huion Inspiroy Giano (G930L)
 
-### Basics
+Basics
 
 * Cost: $200 (on sale for $180)
 * Model year: 2022
@@ -18,11 +18,11 @@
 * 7PENS owns: YES&#x20;
 * User manual: [https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf](https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf)&#x20;
 
-### My notes
+My notes
 
 * [My notes on Huion Giano G930L](../../../7p-notes/7p-notes-huion/7p-notes-huion-giano-g930l.md)  &#x20;
 
-### Reviews
+Reviews
 
 * Teoh on Tech - [https://www.youtube.com/watch?v=2XcP\_Db9e\_w](https://www.youtube.com/watch?v=2XcP\_Db9e\_w)&#x20;
 * Brad Colbow - [https://www.youtube.com/watch?v=DiRwtSonevY](https://www.youtube.com/watch?v=DiRwtSonevY)  &#x20;
@@ -33,13 +33,13 @@
 
 ## Huion Inspiroy 2 L (H1061P)
 
-### Basics
+Basics
 
 * Product site: [https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html](https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html)&#x20;
 * 7P owns this tablet: YES
 * [My notes on this tablet](../../../7p-notes/7p-notes-huion/7p-notes-huion-inspiroy-2-l-h1061p.md)  &#x20;
 
-### Reviews
+Reviews
 
 * Teoh on tech ([https://youtu.be/mgDDBJf96U8](https://youtu.be/mgDDBJf96U8)) Feb 15, 2023
 * Create Now Sleep Later ([https://youtu.be/L6mgOluUApE](https://youtu.be/L6mgOluUApE)) Apr 24, 2023
@@ -50,7 +50,7 @@
 
 ## Huion Inspiroy HS611
 
-## **Basics**
+**Basics**
 
 * **Cost:** $80
 * Model year: 2019.
@@ -58,7 +58,7 @@
 * 7PENS owns: YES
 * User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)&#x20;
 
-## My notes
+My notes
 
 * [My notes on Huion HS611](../../../7p-notes/7p-notes-huion/7p-notes-huion-hs611.md)&#x20;
 
