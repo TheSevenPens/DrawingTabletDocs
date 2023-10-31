@@ -1,4 +1,4 @@
-# 7P notes: Wacom Intuos Pro Medium (PTH-660)
+# 7P notes: Wacom Intuos Pro Medium 2017 (PTH-660)
 
 This is a fantastic all-around tablet. It's the best for its size.
 

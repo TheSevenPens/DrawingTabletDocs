@@ -1,4 +1,4 @@
-# 7P notes: Wacom Intuos Pro Large (PTH-860)
+# 7P notes: Wacom Intuos Pro Large 2017 (PTH-860)
 
 Since 2021 I've been using the **PTH-860**.&#x20;
 
