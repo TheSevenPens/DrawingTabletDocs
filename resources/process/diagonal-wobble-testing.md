@@ -55,6 +55,6 @@ I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble/) usi
 
 ## Template
 
-This is version 4 of my wobble template. This is a 4000x2000 PNG image.
+This is version 5 of my wobble template. This is a 4000x2000 PNG image.
 
-<figure><img src="../../.gitbook/assets/Wobble Template V4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Wobble Template V6.png" alt=""><figcaption></figcaption></figure>
