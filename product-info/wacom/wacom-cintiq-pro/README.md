@@ -10,7 +10,7 @@
 * Active Area Diagonal: 15.5"
 * 7PENS: YES
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) &#x20;
-* [My notes on this tablet](7p-notes-wacom-cintiq-pro-16-dth-167.md)&#x20;
+* [My notes on this tablet](wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md)&#x20;
 
 ### Reviews
 
@@ -50,7 +50,7 @@
 * Model Year: 2022
 * Resolution: 4K
 * 7PENS owns: YES.
-* [7P notes: Wacom Cintiq Pro 27](7p-notes-wacom-dth271.md)
+* [7P notes: Wacom Cintiq Pro 27](wacom-cintiq-pro-27-dth-271/7p-notes-wacom-dth271.md)
 
 ## **Reviews**
 
