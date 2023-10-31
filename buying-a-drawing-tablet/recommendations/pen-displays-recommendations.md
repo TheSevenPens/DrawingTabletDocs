@@ -36,7 +36,7 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 * MEDIUM [**Wacom Cintiq Pro**](../../product-info/wacom/wacom-cintiq-pro/) **16** (DTH-167) $1500 ([my notes](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md))
 * LARGE [**Wacom Cintiq 22**](../../product-info/wacom/wacom-cintiq.md) (DTK-2260) $1200
-* LARGE [**Huion Kamvas Pro**](../../product-info/huion/huion-kamvas-pro/) **24 4K (GT2401)** $1300 ([my notes](../../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
+* LARGE [**Huion Kamvas Pro**](../../product-info/huion/huion-kamvas-pro/) **24 4K (GT2401)** $1300 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
 
 ## $1500 - $2000
 
