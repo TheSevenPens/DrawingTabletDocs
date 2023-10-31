@@ -219,7 +219,6 @@
       * [One by Wacom Small (CTL-472)](product-info/wacom/one-by-wacom/one-by-wacom-small-ctl-472.md)
       * [One by Wacom Medium (CTL-672)](product-info/wacom/one-by-wacom/one-by-wacom-medium-ctl-672.md)
     * [Wacom Intuos Pro](product-info/wacom/wacom-intuos-pro/README.md)
-      * [7P notes: Wacom Intuos Pro (PTH-x60)](7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-pth-x60.md)
       * [7P notes: Wacom Intuos 4 XL (PTK-1240)](7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-4-xl-ptk-1240.md)
       * [7P notes: Wacom Intuos Pro Large 2017 (PTH-860)](7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-large-pth-860.md)
       * [7P notes: Wacom Intuos Pro Medium 2017 (PTH-660)](7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-medium-pth-660.md)

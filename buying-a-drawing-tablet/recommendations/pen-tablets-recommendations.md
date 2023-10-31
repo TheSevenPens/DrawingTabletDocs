@@ -11,7 +11,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 
 ## $50 to $100&#x20;
 
-* SMALL [**One by Wacom Small** (CTL-472)](../../product-info/wacom/one-by-wacom/one-by-wacom-small-ctl-472.md) $50&#x20;
+* SMALL [**One by Wacom**](../../product-info/wacom/one-by-wacom/) **Small** (CTL-472) $50&#x20;
 * SMALL [**Huion RTS-300**](../../product-info/huion/huion-inspiroy/huion-inspiroy-rts-300.md) $52&#x20;
 * SMALL [**Wacom One S GEN2 (CTC-4110WL)**](../../product-info/wacom/wacom-one/wacom-one-gen2-drawing-tablets.md) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * SMALL [**Wacom Intuos Small** (CTL-4100)](../../product-info/wacom/wacom-intuos/wacom-intuos-small-ctl-4100.md) $75&#x20;
@@ -20,7 +20,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 * MEDIUM [**XP-Pen Deco LW**](../../product-info/xp-pen/xp-pen-deco/xp-pen-deco-lw-it1060b/) (IT1060B) $90 ([my notes](../../product-info/xp-pen/xp-pen-deco/xp-pen-deco-lw-it1060b/7p-notes-xp-pen-deco-lw-it1060b.md))
 * MEDIUM **Huion Inspiroy 2 M** (H951P) $70 <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * MEDIUM [**Huion Inspiroy RTP-700**](../../product-info/huion/huion-inspiroy/huion-inspiroy-rtp-700.md)  $93&#x20;
-* MEDIUM [**One by Wacom Medium** (CTL-672)](../../product-info/wacom/one-by-wacom/one-by-wacom-medium-ctl-672.md) $100&#x20;
+* MEDIUM [**One by Wacom**](../../product-info/wacom/one-by-wacom/) **Medium** (CTL-672) $100&#x20;
 * MEDIUM [**Huion Inspiroy 2 L (H1061P)**](../../product-info/huion/huion-inspiroy/huion-inspiroy-2-l-h1061p.md) $90 <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../7p-notes/7p-notes-huion/7p-notes-huion-inspiroy-2-l-h1061p.md)**)**
 
 ## $100 to $200
