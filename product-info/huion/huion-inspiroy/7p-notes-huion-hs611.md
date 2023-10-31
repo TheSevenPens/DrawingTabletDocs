@@ -28,4 +28,4 @@ In addition, at the top there are some additional media control keys which are c
 
 It does exhibit some wobble at slow speeds but in normal drawing I didn't notice it much.
 
-![](<../../.gitbook/assets/Huion Inspiroy HS611 (HS611) wobble.png>)
+![](<../../../.gitbook/assets/Huion Inspiroy HS611 (HS611) wobble.png>)
