@@ -40,7 +40,7 @@ Testing now with maximum brightness.
 
 Rating: VERY GOOD
 
-<figure><img src="../../../../.gitbook/assets/Wacom DTH-167 Wobble.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Wacom DTH-167 Wobble (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
