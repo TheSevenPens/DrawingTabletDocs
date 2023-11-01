@@ -211,7 +211,7 @@
     * [Wacom One GEN1](product-info/wacom/wacom-one-dtc-133/README.md)
       * [7P notes: Wacom One GEN1 (DTC-133)](product-info/wacom/wacom-one-dtc-133/7p-notes-wacom-one-gen1-dtc-133.md)
     * [Wacom One GEN2 drawing tablets](product-info/wacom/wacom-one-gen2-drawing-tablets/README.md)
-      * [7P notes: Wacom One GEN2 drawing tablets](product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-2023-drawing-tablet-refresh.md)
+      * [7P notes: Wacom One GEN2 drawing tablets](product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-one-gen2-drawing-tablets.md)
       * [7P notes: Wacom One Pen (GEN2) (CP-923)](product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-one-pen-gen-2.md)
     * [Wacom pens](product-info/wacom/wacom-pen-models/README.md)
       * [7P notes: Wacom Pro Pen 3](product-info/wacom/wacom-pen-models/7p-notes-wacom-pro-pen-3.md)

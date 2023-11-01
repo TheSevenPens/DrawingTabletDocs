@@ -26,7 +26,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 ## $100 to $200
 
 * SMALL [**Wacom Intuos Pro**](../../product-info/wacom/wacom-intuos-pro/) **Small** (PTH-460) $200&#x20;
-* MEDIUM [**Wacom One M**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/) (CTC-6110WL) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-2023-drawing-tablet-refresh.md)**)**
+* MEDIUM [**Wacom One M**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/) (CTC-6110WL) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-one-gen2-drawing-tablets.md)**)**
 * MEDIUM [**Wacom Intuos**](../../product-info/wacom/wacom-intuos.md) **Medium** (CTL-6100) $200
 
 ## $200 to $300

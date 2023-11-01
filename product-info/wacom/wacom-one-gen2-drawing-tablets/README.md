@@ -1,6 +1,6 @@
 # Wacom One GEN2 drawing tablets
 
-[**My notes on these tablets**](7p-notes-wacom-2023-drawing-tablet-refresh.md)
+[**My notes on these tablets**](7p-notes-wacom-one-gen2-drawing-tablets.md)
 
 ## User manuals
 
