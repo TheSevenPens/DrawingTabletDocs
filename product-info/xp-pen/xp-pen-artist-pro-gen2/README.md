@@ -2,7 +2,9 @@
 
 ## XP-Pen Artist Pro 14 GEN2 (MD140FH)
 
-Product link: [https://www.xp-pen.com/product/artist-pro-14-gen-2.html](https://www.xp-pen.com/product/artist-pro-14-gen-2.html)&#x20;
+Basics
+
+* Product link: [https://www.xp-pen.com/product/artist-pro-14-gen-2.html](https://www.xp-pen.com/product/artist-pro-14-gen-2.html)&#x20;
 
 Reviews
 
@@ -14,10 +16,11 @@ Reviews
 
 ## XP-Pen Artist Pro 16 GEN2 (MD160QH)
 
+[**Read my notes on this tablet**](7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)  &#x20;
+
 Basics
 
 * Product link: [https://www.xp-pen.com/product/artist-pro-16-gen-2.html](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)&#x20;
-* [my notes](7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)  &#x20;
 
 Reviews
 

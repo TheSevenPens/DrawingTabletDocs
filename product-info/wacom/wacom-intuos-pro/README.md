@@ -20,6 +20,8 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 
 ## Wacom Intuos Pro Medium 2017 (PTH-660)
 
+[**My notes on these tablets**](../../../7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-medium-pth-660.md)&#x20;
+
 **Basics**
 
 * Cost: $300
@@ -27,7 +29,6 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 * Active Area Diagonal: 11"
 * 7PENS owns: YES
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/PTH-660.html](https://101.wacom.com/UserHelp/en/TOC/PTH-660.html)
-* 7P Notes: [7P notes: Wacom Intuos Pro Medium 2017 (PTH-660)](../../../7p-notes/7p-notes-wacom/7p-notes-wacom-intuos-pro-medium-pth-660.md)&#x20;
 
 **Reviews**
 
@@ -36,6 +37,8 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 
 ## Wacom Intuos Pro Large 2017 (PTH-860)
 
+[**My notes on this tablet**](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2035/7p-notes/wacom/7p-notes-wacom-intuos-pro-large-pth-860)
+
 **Basics**
 
 * Cost: $500 (on sale for $400)
@@ -43,4 +46,4 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 * Active Area Diagonal: 15"
 * 7PENS owns: YES&#x20;
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)&#x20;
-* My notes: [7P notes: Wacom Intuos Pro Large (PTH-860)](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2035/7p-notes/wacom/7p-notes-wacom-intuos-pro-large-pth-860)
+

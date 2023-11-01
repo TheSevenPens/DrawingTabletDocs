@@ -1,24 +1,6 @@
 # Wacom One GEN2 drawing tablets
 
-### Basics
-
-*
-* My notes: [7P notes: Waacom One GEN2 drawing tablets](7p-notes-wacom-2023-drawing-tablet-refresh.md)&#x20;
-
-## Wacom One GEN1 tablets
-
-* Wacom One GEN1 (DTC-133)
-
-## List of Wacom One GEN2 tablets
-
-* Wacom One 13 touch (DTH-134) a pen display
-* Wacom One 12 (DTC-121) a pen display
-* Wacom One S (CTC-4110WL) a pen tablet
-* Wacom One M (CTC-6110WL) a pen tablet
-
-## Wacom One GEN1 (DTC-133)
-
-
+[**My notes on these tablets**](7p-notes-wacom-2023-drawing-tablet-refresh.md)
 
 ## User manuals
 

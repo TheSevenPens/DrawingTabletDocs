@@ -193,7 +193,7 @@ However it is also true that online forums can be a great source to help you mak
 
 ## Discussions
 
-* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - user [Pod\_\_](https://www.reddit.com/user/Pod\_\_/) has great comments on some things he thinks wacom does better. This is in response to someone saying their pen feels weird.
+* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - user [Pod\_\_](https://www.reddit.com/user/Pod\_\_/) has great comments on some things he thinks Wacom does better.
 * [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) - brands compared
 
 &#x20;
