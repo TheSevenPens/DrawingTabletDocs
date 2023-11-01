@@ -68,15 +68,10 @@ Players do **advanced customization** of osu! through OpenTabletDriver plug-ins.
 
 ### Picking a drawing tablet for osu!
 
-If you are interested in playing osu! seriously with a drawing tablet, do not rely on recommendations from drawing tablet reviewers or myself because we focus on the needs of the creatives. The needs of osu! players demand much more from tablets.
-
-So, for use! use [**Kuuube's tablet buying guide**](../../resources/kuuubes-tablet-buying-guide.md).&#x20;
+More here: [Buying a drawing tablet for osu!](../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md) &#x20;
 
 ## **FPS games**
 
 Players using drawing tablets for FPS games is less common than for Rhythm games, but this is the preferred input device for some people.
 
 * example: ([video](https://youtu.be/9yVK859vZRs))&#x20;
-
-
-

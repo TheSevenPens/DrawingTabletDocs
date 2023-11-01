@@ -142,9 +142,7 @@ I don't recommend drawing tablets for note taking. Devices like an iPad work muc
 
 ### Playing osu!
 
-So if you intend to using a drawing tablet for playing **osu!,** then **DO NOT** rely on my recommendations at this site. My recommendations are for drawing, and if you are playing osu! you need to consider other factors and will have more demanding requirements.&#x20;
-
-So for osu!, consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
+If you want to play osu!, there are very specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](buying-a-drawing-tablet-for-osu.md) &#x20;
 
 ## Ergonomics
 

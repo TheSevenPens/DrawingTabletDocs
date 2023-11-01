@@ -42,8 +42,8 @@ Since many readers will be coming here looking for a recommendation among these 
   * If you want to spend less get a One by Wacom MEDIUM (CTL-672)&#x20;
 * **Photo-editing** - i.e. you aren't doing anything that requires "strokes" - then the One by Wacom SMALL (CTL-472) is fine.
 * **Using the tablet as a basic mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
-* **Taking notes**. I don't recommend any of these tablets. Use an iPad instead. More here: [Taking notes with drawing tablets](../../guides/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
-* **Play Osu!** - One by Wacom SMALL (CTL-472) or One by Wacom SMALL MEDIUM (CTL-672) are great choices also the Intuos Pro models. The Intuos models have a little more lag so you should avoid them for this purpose. For more information regarding tablets for Osu! consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
+* **Taking notes**. I don't recommend any of these tablets. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../guides/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
+* **Play Osu!** - One by Wacom SMALL (CTL-472) or One by Wacom SMALL MEDIUM (CTL-672) are th ebest choices also the Intuos Pro models. The Intuos models have a little more position smoothing lag when hovering so you should avoid them for osu!. For more information regarding tablets for osu! consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
 * **Exploring drawing tablets**&#x20;
   * Start with a One by Wacom SMALL (CTL-472) for general usage.&#x20;
   * Start with a One by Wacom MEDIUM (CTL-672) if you intend to draw on it.
