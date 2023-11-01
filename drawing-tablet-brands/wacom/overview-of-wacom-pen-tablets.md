@@ -14,6 +14,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 * **One by Wacom** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
 * **Intuos** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos)
+* **Wacom One GEN2** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
 * **Intuos Pro** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
 ## Model numbers&#x20;
@@ -29,7 +30,7 @@ Currently they suffer from pressure issues and I do not recommend purchasing the
 * Wacom One S GEN2 (CTC-4110WL)&#x20;
 * Wacom One M GEN2 (CTC-6110WL)&#x20;
 
-More here: [7P notes: Wacom 2023 drawing tablet refresh](../../product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
+More here: [7P notes: Wacom One GEN2](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
 
 ## Wacom recommendation summary
 
@@ -52,36 +53,14 @@ Since many readers will be coming here looking for a recommendation among these 
 
 Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there.
 
-* One by Wacom
-  * Wacom Pen 2K (LP-190K) <- this is default pen that comes with the tablet
-* Wacom One
-  * Wacom One Pen GEN2 (CP-923)&#x20;
-* Intuos
-  * Wacom Pen 4K (LP-1100K) <- this is default pen that comes with the tablet
-* Intuos Pro
-  * Pro Pen 2 (KP-504E) <- this is default pen that comes with the tablet
-  * Pro Pen 3D (KP-505)
-  * Pro Pen Slim (KP-301E)&#x20;
-  * Pro Pen (KP-503E)
-  * Grip Pen (KP-501E)
-  * Art Pen (KP-701E)
-  * Classic Pen (KP-300E)&#x20;
-  * Airbrush Pen (KP-400E)
+| Tablet         | Pen that comes with tablet   |
+| -------------- | ---------------------------- |
+| One by Wacom   |  Wacom Pen 2K (LP-190K)      |
+| Wacom One GEN2 | Wacom One Pen GEN2 (CP-923)  |
+| Intuos         | Wacom Pen 4K (LP-1100K)      |
+| Intuos Pro     | Pro Pen 2 (KP-504E)          |
 
-## **Pen cost**
-
-**Don't lose your pen or break it.** The cost of a replacement pen may surprise you:
-
-* Wacom Pen 2K (LP-190K) ->  $30 (price from Wacom store)
-* Wacom Pen 4K (LP-1100K) -> $30 (price from Wacom store)&#x20;
-* Pro Pen 2 (KP-504E) -> $90 (price from Wacom store)
-* Pro Pen 3D (KP-505) -> $100 (price from Wacom store)
-* Pro Pen Slim (KP-301E) -> ?
-* Pro Pen (KP-503E) - ?
-* Grip Pen (KP-501E) - $70 (price from Wacom store)
-* Art Pen (KP-701E) - ?
-* Classic Pen (KP-300E) - $70 (price from Wacom store)
-* Airbrush Pen (KP-400E) - $100 (price from Wacom store)
+More here: [**Wacom pen compatibility**](wacom-pen-compatibility.md)&#x20;
 
 ## Pen photos
 
@@ -94,7 +73,7 @@ Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) 
 **Tablet support for pressure levels**
 
 * One by Wacom ->2048
-* Wacom One GEN -> 4096
+* Wacom One GEN2 -> 4096
 * Intuos -> 4096
 * Intuos Pro -> 8192&#x20;
 
@@ -110,15 +89,7 @@ Wacom Pro Pens tend to have both much higher-quality sensors and more pressure l
 
 **Comparing the default pens in terms of pressure**
 
-The Pro Pen 2 has the greatest range, followed by the Wacom Pen 2K, and then the Wacom Pen 4K.
-
-<figure><img src="../../.gitbook/assets/7P SLIDE Pressure Range (2).jpg" alt=""><figcaption></figcaption></figure>
-
-### Notes on pressure
-
-* Data on pressure ranges comes from Kuuube’s “[Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU)”
-* All pressure numbers are estimates
-* Pressure ranges vary on different copies of the same pen model.&#x20;
+The Pro Pen 2 has the greatest range, followed by the Wacom Pen 2K, and then the Wacom Pen 4K. Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md)  &#x20;
 
 ## Tilt
 
@@ -138,6 +109,7 @@ Lean more here: [**Pen tilt**](../../guides/core-features/pen-tilt.md)&#x20;
 Resolution means how many separate points the tablet can distinguish (i.e. resolve) in a given length. This is specified as Lines Per Inch (LPI) though it is also useful to think about it as lines per millimeter (LPMM)
 
 * One by Wacom -> 2048 LPI = 80.62 LPMM
+* Wacom One GEN1 = Unknown
 * Wacom One GEN2 = Unknown
 * Intuos -> 2540 LPI = 100 LPMM
 * Intuos Pro -> 5080 LPI = 200 LPMM&#x20;
@@ -157,11 +129,9 @@ Pointer lag is the difference between the physical position of the pen and where
 Pen tablets in general display very little pointer lag. In comparison, all pen displays all show very noticeable lag.
 
 * One by Wacom -> almost no pointer lag
-* Wacom One GEN2 -> very minor pointer lag
-* Intuos -> very minor pointer lag
+* Wacom One GEN2 -> almost no pointer lag
+* Intuos -> almost no pointer lag
 * Intuos Pro -> almost no pointer lag
-
-For creative tasks, the pointer lag of any of these tablets is not noticable.
 
 Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
 

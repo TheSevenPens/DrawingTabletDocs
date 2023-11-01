@@ -19,13 +19,13 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 ## $300 to $500
 
 * SMALL [**Wacom One 2019 GEN1**](../../product-info/wacom/wacom-one-dtc-133/) (DTC-133) $400&#x20;
-* SMALL [**Wacom One 12** GEN2](../../product-info/wacom/wacom-one-gen2-drawing-tablets/) (DTC-121) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
+* SMALL [**Wacom One 12** GEN2](../../product-info/wacom/wacom-one-gen2/) (DTC-121) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * SMALL [**XP-Pen Artis**](../../product-info/xp-pen/xp-pen-artist-gen2.md)**t 16 Gen2** (CD160FH) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * LARGE [**Huion Kamvas**](../../product-info/huion/huion-kamvas/) **22** (GS2201) $450
 
 ## **$500 to $1000**
 
-* SMALL [**Wacom One 13 touch** **GEN2**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/) (DTH-134) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
+* SMALL [**Wacom One 13 touch** **GEN2**](../../product-info/wacom/wacom-one-gen2/) (DTH-134) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * MEDIUM [**Wacom Cintiq**](../../product-info/wacom/wacom-cintiq.md) **16** (DTK-1660) $650
 * MEDIUM [**Huion Kamvas Pro**](../../product-info/huion/huion-kamvas-pro/) **16 Plus 4k** (GT1562) $900&#x20;
 * MEDIUM [**XP-Pen Artist Pro**](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md) **16 GEN2** (MD160QH) $600 <mark style="color:red;">**UNDER EVALUATION**</mark>

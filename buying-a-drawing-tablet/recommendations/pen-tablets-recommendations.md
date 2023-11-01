@@ -13,7 +13,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 
 * SMALL [**One by Wacom**](../../product-info/wacom/one-by-wacom.md) **Small** (CTL-472) $50&#x20;
 * SMALL [**Huion RTS-300**](../../product-info/huion/huion-inspiroy-r-series.md) $52&#x20;
-* SMALL [**Wacom One S GEN2 (CTC-4110WL)**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
+* SMALL [**Wacom One S GEN2 (CTC-4110WL)**](../../product-info/wacom/wacom-one-gen2/) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * SMALL [**Wacom Intuos**](../../product-info/wacom/wacom-intuos.md) **Small** (CTL-4100) $75&#x20;
 * MEDIUM  [**Huion Inspiroy RTM-500**](../../product-info/huion/huion-inspiroy-r-series.md) $73
 * MEDIUM [**Huion HS611 (HS611)**](broken-reference) $80 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-hs611.md))
@@ -26,7 +26,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 ## $100 to $200
 
 * SMALL [**Wacom Intuos Pro**](../../product-info/wacom/wacom-intuos-pro/) **Small** (PTH-460) $200&#x20;
-* MEDIUM [**Wacom One M**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/) (CTC-6110WL) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../product-info/wacom/wacom-one-gen2-drawing-tablets/7p-notes-wacom-one-gen2-drawing-tablets.md)**)**
+* MEDIUM [**Wacom One M**](../../product-info/wacom/wacom-one-gen2/) (CTC-6110WL) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)**)**
 * MEDIUM [**Wacom Intuos**](../../product-info/wacom/wacom-intuos.md) **Medium** (CTL-6100) $200
 
 ## $200 to $300
