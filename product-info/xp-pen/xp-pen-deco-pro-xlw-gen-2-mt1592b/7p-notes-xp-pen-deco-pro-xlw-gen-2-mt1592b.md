@@ -1,8 +1,8 @@
 # 7P notes: XP-Pen Deco Pro XLW GEN2 (MT1592B)
 
-## Overview
+## Notes
 
-Starting on 7/26/2023 I installed this tablet and am using it for all my drawing for at least one month. I am still evaluating the tablet.
+I used this tablet from 2023/07/26 to 2023/11/01 and have been very happy with it.
 
 ## **Build quality and design**
 
