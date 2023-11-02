@@ -2,32 +2,26 @@
 
 ## Overview
 
-If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet.
+If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
 Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
-
-## Basic information (model numbers, sizes, prices)
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## Product pages
 
 * **One by Wacom** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
 * **Intuos** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos)
 * **Wacom One GEN2** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
 * **Intuos Pro** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Wacom One GEN2 pen tablets
 
-The Wacom One GEN2 pen are intended to be upgrades to the consumer level Intuos tablets. Currently they suffer from pressure issues and I do not recommend purchasing them. More here: [7P notes: Wacom One GEN2](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
+The Wacom One GEN2 pen are intended to be upgrades to the consumer-level Intuos tablets. Currently Wacom One GEN2 tablets seem to suffer from pressure issues and I do not recommend purchasing them. More here: [7P notes: Wacom One GEN2](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
 
-## Wacom recommendation summary
-
-Since many readers will be coming here looking for a recommendation among these tablets, let me summarize.
+## Recommendation summary
 
 * **Sketching, digital painting, illustration**, etc. -&#x20;
   * If budget permits, get a Wacom Intuos Pro MEDIUM (PTH-660).&#x20;
-  * If you tend do draw with larger gestures then consider a Wacom Intuos Pro LARGE (PTH-860).
+  * If you tend do draw with larger gestures then consider a Wacom Intuos Pro LARGE (PTH-860).&#x20;
   * If you want to spend less get a One by Wacom MEDIUM (CTL-672) or a Intuos Medium (CTL-6100, CTL-6100WL)&#x20;
 * **Photo-editing** - i.e. you aren't doing anything that requires "strokes" - then the One by Wacom SMALL (CTL-472) is fine.
 * **Using the tablet as a mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
@@ -36,11 +30,16 @@ Since many readers will be coming here looking for a recommendation among these 
 * **Exploring drawing tablets** - this is if you are not sure if you are going to use a drawing tablet, but just want to dabble without spending a lot.&#x20;
   * Start with a One by Wacom SMALL (CTL-472) for general usage.&#x20;
   * Start with a One by Wacom MEDIUM (CTL-672) if you intend to draw on it.
+* **Want the best and don't care about the cost.** Either:
+  * Wacom Intuos Pro Large (PTH-860)
+  * Wacom Intuos Pro Medium (PTH-660)
 * **Picking the right size** - More information about picking the right size: [**tablet size**](../../guides/core-features/choosing-the-right-tablet-size.md).
 
 ## Pens
 
 Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there. More here: [**Wacom pen compatibility**](wacom-pen-compatibility.md)&#x20;
+
+<mark style="color:red;">REMEMBER: You cannot MIX AND MATCH these pens. For example, it is not possible to use the amazing Wacom Pro Pen 2 with the One by Wacom, Wacom Oner, or Intuos tablets.</mark>
 
 | Tablet                                                                             | Pen that comes with tablet   |
 | ---------------------------------------------------------------------------------- | ---------------------------- |
@@ -51,7 +50,11 @@ Each product line uses different pens. And the pens can only be used within that
 
 ## Pen photos
 
-<figure><img src="../../.gitbook/assets/7P SLIDE current wacom default pens.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/7P SLIDE current wacom default pens.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ## Pen pressure
 
@@ -65,11 +68,13 @@ Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) 
 
 More than pressure levels, the **pressure range** has a greater impact on your drawing experience. And this is driven by the quality of the pressure sensor in the pen. &#x20;
 
-**Pens compared**
+**Pens compared**&#x20;
+
+Min pressure and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
 
 <table><thead><tr><th>Pen</th><th width="144">levels</th><th width="176">min pressure (IAF)</th><th>max pressure</th></tr></thead><tbody><tr><td>Wacom Pen 2K (LP-190K)</td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td></tr><tr><td>Wacom One Pen GEN2 (CP-923) </td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td></tr><tr><td>Wacom Pen 4K (LP-1100K)</td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E) </td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td></tr></tbody></table>
 
-## Tilt
+## Pen Tilt
 
 Only some of Wacom pen tablets support tilt.&#x20;
 
@@ -80,7 +85,7 @@ Only some of Wacom pen tablets support tilt.&#x20;
 
 Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [**Pen tilt**](../../guides/core-features/pen-tilt.md)&#x20;
 
-## Resolution
+## Tablet resolution
 
 Resolution means how many separate points the tablet can distinguish (i.e. resolve) in a given length. This is specified as Lines Per Inch (LPI) though it is also useful to think about it as lines per millimeter (LPMM)
 
@@ -93,19 +98,15 @@ You will not notice the difference between 2048 LPI and 5080 LPI.
 
 ## Accuracy
 
-Accuracy = tablet & computer know the correct position of the tip of the pen.
+Accuracy = tablet & computer know the correct position of the tip of the pen. As far as I have observed, all three tablets are very accurate.
 
-As far as I have observed all three tablets are very accurate.
+## Pointer lag&#x20;
 
-## Accuracy / Pointer lag&#x20;
-
-Pointer lag is the difference between the physical position of the pen and where the operating system pointer is drawn.
-
-Pen tablets in general display very little pointer lag. In comparison, all pen displays all show very noticeable lag.
+Pointer lag is the difference between the physical position of the pen and where the operating system pointer is drawn. Pen tablets in general display very little pointer lag. In comparison, all pen displays all show very noticeable lag.
 
 * One by Wacom -> almost no pointer lag
 * Wacom One GEN2 -> almost no pointer lag
-* Intuos -> almost no pointer lag (has a extra lag on hover)
+* Intuos -> almost no pointer lag (has a extra lag due to position smoothing on hover)
 * Intuos Pro -> almost no pointer lag
 
 Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
@@ -170,43 +171,29 @@ The One by Wacom and Intuos models feel a more plasticy/cheaper. Also I just don
 
 ## Active Area
 
-The size of the tablet is based on it's active area which is the region on the tablet that is sensitive to the EMR pen. Besides the height and width of this area it is also convenient to discuss them in terms of their diagonal lenths
+The size of the tablet is based on it's active area which is the region on the tablet that is sensitive to the EMR pen. Besides the height and width of this area it is also convenient to discuss them in terms of their diagonal lengths.
 
-* One by Wacom SMALL (CTL-472) -> 5.98in x 3.74in, diag=7.06in
-* One by Wacom MEDIUM (CTL-672) -> 8.5in x 5.31in, diag = 10.03in
-* Wacom One S (CTC-411WL) -> 5.98in x 3.74in, diag=7.06in
-* Wacom One M (CTC-611WL) -> 8.5in x 5.31in, diag=10.03
-* Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) -> 5.98in x 3.74in, diag=7.06in
-* Wacom Intuos MEDIUM (CTL-6100WL) -> 8.5in x 5.31in, diag=10.03
-* Intuos Pro Intuos Pro SMALL (PTH-460) -> 6.30in x 3.94in, diag=7.43
-* Intuos Pro MEDIUM (PTH-660) -> AR = 8.82in x 5.83in, diag = 10.57
-* Intuos Pro LARGE (PTH-860) -> AR = 12.34in x 8.50in, diag=14.91
+**Aspect Ratio**: Most monitors are 16:9 (1.78) or 16:10 (1.60) If the Aspect Ratio of the tablet does not match the monitor, that means your strokes will be slightly distorted. So, remember to enable the **Force Proportions** checkbox to have undistorted strokes. More info here: [https://youtu.be/9oAvsJk5ESU](https://youtu.be/9oAvsJk5ESU)&#x20;
 
-## Aspect Ratio
 
-The aspect ratios of all these tablets vary.
 
-* One by Wacom SMALL (CTL-472) -> AR = 1.44
-* One by Wacom MEDIUM (CTL-672) -> AR = 1.47
-* Wacom One S (CTC-411WL) -> AR=1.60
-* Wacom One M (CTC-611WL) -> AT=1.60
-* Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) -> AR=1.60
-* Wacom Intuos MEDIUM (CTL-6100WL) -> AR=1.60
-* Intuos Pro Intuos Pro SMALL (PTH-460) -> AR = 1.440
-* Intuos Pro MEDIUM (PTH-660) -> AR = 1.514
-* Intuos Pro LARGE (PTH-860) -> AR = 1.44
+| Tablet                                              | Active Area Size  | Active Area Diagonal | Active Area Aspect Ratio |
+| --------------------------------------------------- | ----------------- | -------------------- | ------------------------ |
+| One by Wacom SMALL (CTL-472)                        |  5.98in x 3.74in  | 7.06in               | 1.44                     |
+| One by Wacom MEDIUM (CTL-672)                       |  8.5in x 5.31in   | 10.03in              | 1.47                     |
+| Wacom One S (CTC-4110WL)                            |  5.98in x 3.74in  | 7.06in               | 1.60                     |
+| Wacom One M (CTC-611WL)                             |  8.5in x 5.31in   | 10.03                | 1.60                     |
+| Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) |  5.98in x 3.74in  | 7.06in               | 1.60                     |
+| Wacom Intuos MEDIUM (CTL-6100WL)                    |  8.5in x 5.31in   | 10.03                | 1.60                     |
+| Intuos Pro Intuos Pro SMALL (PTH-460                |  6.30in x 3.94in  | 7.43                 | 1.440                    |
+| Intuos Pro MEDIUM (PTH-660)                         |  8.82in x 5.83in  | 10.57                | 1.514                    |
+| Intuos Pro LARGE (PTH-860)                          |  12.34in x 8.50in | 14.91                | 1.44                     |
 
-Most monitors are 16:9 (1.78) or 16:10 (1.60)&#x20;
 
-If the Aspect Ratio of the tablet does not match the monitor, that means your strokes will be slightly distorted. So, remember to enable the **Force Proportions** checkbox to have undistorted strokes.&#x20;
-
-More info here: [https://youtu.be/9oAvsJk5ESU](https://youtu.be/9oAvsJk5ESU)&#x20;
 
 ## Reliability
 
-All of these are very reliable tablets.
-
-Their pens are also very reliable. **But remember, DO NOT drop your pens.** they are much more delicate than the tablets and you can break from a fall.&#x20;
+All of these are very reliable tablets. Their pens are also very reliable. **But remember, DO NOT drop your pens.** they are much more delicate than the tablets and you can break from a fall.&#x20;
 
 ## Drivers
 
@@ -216,9 +203,9 @@ The same Wacom driver works with all three product lines.
 
 The Intuos Pro has a more textured surface, the Intuos and One by Wacom have less texture.
 
-The Intuos Pro MEDIUM and LARGE models have a surface that is replaceable with a **Texture Sheet**.
+**Intuos Pro texture**
 
-Wacom has three kinds of texture sheets: Standard, Smooth, and Rough. These texture sheets are often sold out and the smooth one is EXTREMELY rare. Besides giving you the texture feeling you want, they are useful if you've scratched up the surface of your tablet and want to make it feel like new.   &#x20;
+The Intuos Pro MEDIUM and LARGE models have a surface that is replaceable with a **Texture Sheet**.Wacom has three kinds of texture sheets: Standard, Smooth, and Rough. These texture sheets are often sold out and the smooth one is EXTREMELY rare. Besides giving you the texture feeling you want, they are useful if you've scratched up the surface of your tablet and want to make it feel like new.   &#x20;
 
 ## Nib wear
 
@@ -230,11 +217,19 @@ In any case, I advise everyone to always pay attention to their nibs and replace
 
 ## Future versions
 
-The Intuos models were recently updated in AUgust of 2023, being replaced by the One by Wacom pen tablets.
+**Intuos**
 
-Wacom has not updated the other tablet series in a few years. This is understandable, there's nothing wrong with these models.&#x20;
+In August of 2023, The Intuos models seem to be replaced by the One by Wacom GEN2 pen tablets.
+
+**One by Wacom**
+
+No sign of any udpates coming
+
+**Intuos Pro**
 
 Having said that since Wacom has upgraded its professional Cintiq line of pen displays in late 2022, there is a natural expectation that updates to their Intuos Pro pen tablets may be coming. Wacom has unfortunately not signaled anything about new Intuos Pro pen tablet products.
+
+
 
 ## Notes on pen tablet models
 
