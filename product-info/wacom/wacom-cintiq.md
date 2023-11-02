@@ -20,16 +20,10 @@
 
 **Reviews**
 
-* Aaron Rutten - Wacom Cintiq Pro 27 Review (In-Depth)
-  * ([https://youtu.be/LybW8WZBrrg](https://youtu.be/LybW8WZBrrg))
-  * Oct 14, 2022
-* Brad Colbow ([https://youtu.be/662QvZMik4U](https://youtu.be/662QvZMik4U))
-* Aaron Rutten ([https://youtu.be/xBPNyYX6zi8](https://youtu.be/xBPNyYX6zi8))
+* Brad Colbow ([https://youtu.be/662QvZMik4U](https://youtu.be/662QvZMik4U)) Jul 18, 2019
+* Aaron Rutten ([https://youtu.be/xBPNyYX6zi8](https://youtu.be/xBPNyYX6zi8)) Jul 17, 201
 * MobileTechReview ([https://youtu.be/662QvZMik4U](https://youtu.be/662QvZMik4U))
 * Adam Duff ([https://youtu.be/lzWbJP-Cyic](https://youtu.be/lzWbJP-Cyic)) Sep 29, 2015
-* **Brad Colbow - Wacom Cintiq Pro 27 Review**&#x20;
-  * [https://youtu.be/x59b4nR3Y3E](https://youtu.be/x59b4nR3Y3E) -
-  * Oct 14, 2022
 
 ## Wacom Cintiq 16 (DTK-1660)
 
