@@ -48,7 +48,9 @@ Each product line uses different pens. And the pens can only be used within that
 | <p><strong>Intuos</strong></p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) </p> | Wacom Pen 4K (LP-1100K)      |
 | <p><strong>Intuos Pro</strong><br>(PTH-460, PTH-660, PTH-860)</p>                  | Pro Pen 2 (KP-504E)          |
 
-## Pen photos
+
+
+Of the pens identified, the Wacom Pro Pen 2 is the best in terms of design, materials, shape, weight distribution.&#x20;
 
 <div align="left">
 
@@ -60,11 +62,7 @@ Each product line uses different pens. And the pens can only be used within that
 
 Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) &#x20;
 
-**Pressure levels**
-
-2048 pressure levels is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.&#x20;
-
-**Pressure range**
+2048 **pressure levels** is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.&#x20;
 
 More than pressure levels, the **pressure range** has a greater impact on your drawing experience. And this is driven by the quality of the pressure sensor in the pen. &#x20;
 
@@ -140,54 +138,42 @@ The consumer series use older USB ports than the professional series.
 * Intuos -> Micro USB B
 * Intuos Pro -> USB-C
 
-A photo of a micro USB B plug
-
-![](<../../.gitbook/assets/image (231).png>)
-
-A photo of a USB C plug that goes into the Intuos Pro port
-
-![](<../../.gitbook/assets/USB-C plug.jpg>)
-
 ## ExpressKeys
 
-<table><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>No ExpressKeys</td></tr><tr><td>Intuos</td><td>4 at the top</td></tr><tr><td>Intuos Pro</td><td>8 on the left </td></tr></tbody></table>
+<table><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>No ExpressKeys</td></tr><tr><td>Wacom One GEN2</td><td>No ExpressKeys</td></tr><tr><td>Intuos</td><td>4 at the top</td></tr><tr><td>Intuos Pro</td><td>8 on the left </td></tr></tbody></table>
 
 ## Touch support
 
 Only some of the tablets support touch:
 
-* The Intuos Pro model supports touch. Touch can be enabled/disabled with a physical switch on the side of the tablet.
-* The Wacom One 13 touch GEN2 DTH-134  model supports touch. Touch can be enabled/disabled with a physical switch on the side of the tablet.
+* Intuos Pro Large
+* Intuos Pro Medium
+* Intuos Pro Small
+* Wacom One 13 touch GEN2
 
-In my opinion the touch support is not good. The touch pad on any laptop you use will be far better and more responsive. Also the touch support has poor palm rejection. Disabling touch is the first thing I do with an Intuos Pro tablet.
+For these tablets, touch can be enabled/disabled with a physical switch on the side of the tablet.
 
-Note that touch works much better on Window systems than on Macs. This is not Wacom's fault, it is due to how well Windows supports touch compared to MacOS.
+**How good is the touch support?**
+
+In my opinion the touch support is not great. The touch pad on any laptop you use will be far better and more responsive. Also the touch support has poor palm rejection. Disabling touch is the first thing I do with an tablet that supports it.
+
+Touch works much better on Window systems than on Macs. This is not Wacom's fault, it is due to how well Windows supports touch compared to MacOS.
 
 ## Tablet design
 
 With the Intuos Pro tablets and pens - everything feels great to me. The texture the weight of the pen, etc.
 
-The One by Wacom and Intuos models feel a more plasticy/cheaper. Also I just don't enjoy how their pens feel in my hand.&#x20;
+The One by Wacom, Wacom ONE GEN2, and Intuos models feel a more plasticy/cheaper. Also I just don't enjoy how their pens feel in my hand.&#x20;
 
 ## Active Area
 
 The size of the tablet is based on it's active area which is the region on the tablet that is sensitive to the EMR pen. Besides the height and width of this area it is also convenient to discuss them in terms of their diagonal lengths.
 
-**Aspect Ratio**: Most monitors are 16:9 (1.78) or 16:10 (1.60) If the Aspect Ratio of the tablet does not match the monitor, that means your strokes will be slightly distorted. So, remember to enable the **Force Proportions** checkbox to have undistorted strokes. More info here: [https://youtu.be/9oAvsJk5ESU](https://youtu.be/9oAvsJk5ESU)&#x20;
+**Aspect Ratio**: Most monitors are 16:9 (1.78) or 16:10 (1.60) If the Aspect Ratio of the tablet does not match the monitor, that means your strokes will be slightly distorted. <mark style="color:red;">So, remember to enable the</mark> <mark style="color:red;"></mark><mark style="color:red;">**Force Proportions**</mark> <mark style="color:red;"></mark><mark style="color:red;">checkbox to have undistorted strokes</mark>. More info here: [https://youtu.be/9oAvsJk5ESU](https://youtu.be/9oAvsJk5ESU)&#x20;
 
 
 
-| Tablet                                              | Active Area Size  | Active Area Diagonal | Active Area Aspect Ratio |
-| --------------------------------------------------- | ----------------- | -------------------- | ------------------------ |
-| One by Wacom SMALL (CTL-472)                        |  5.98in x 3.74in  | 7.06in               | 1.44                     |
-| One by Wacom MEDIUM (CTL-672)                       |  8.5in x 5.31in   | 10.03in              | 1.47                     |
-| Wacom One S (CTC-4110WL)                            |  5.98in x 3.74in  | 7.06in               | 1.60                     |
-| Wacom One M (CTC-611WL)                             |  8.5in x 5.31in   | 10.03                | 1.60                     |
-| Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL) |  5.98in x 3.74in  | 7.06in               | 1.60                     |
-| Wacom Intuos MEDIUM (CTL-6100WL)                    |  8.5in x 5.31in   | 10.03                | 1.60                     |
-| Intuos Pro Intuos Pro SMALL (PTH-460                |  6.30in x 3.94in  | 7.43                 | 1.440                    |
-| Intuos Pro MEDIUM (PTH-660)                         |  8.82in x 5.83in  | 10.57                | 1.514                    |
-| Intuos Pro LARGE (PTH-860)                          |  12.34in x 8.50in | 14.91                | 1.44                     |
+<table><thead><tr><th>Tablet</th><th width="152">Size</th><th width="113">Diagonal</th><th>Aspect Ratio</th></tr></thead><tbody><tr><td>One by Wacom SMALL (CTL-472)</td><td> 5.98in x 3.74in</td><td>7.06in</td><td>1.44</td></tr><tr><td>One by Wacom MEDIUM (CTL-672)</td><td> 8.5in x 5.31in</td><td>10.03in</td><td>1.47</td></tr><tr><td>Wacom One S (CTC-4110WL)</td><td> 5.98in x 3.74in</td><td>7.06in</td><td>1.60</td></tr><tr><td>Wacom One M (CTC-611WL)</td><td> 8.5in x 5.31in</td><td>10.03</td><td>1.60</td></tr><tr><td>Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL)</td><td> 5.98in x 3.74in</td><td>7.06in</td><td>1.60</td></tr><tr><td>Wacom Intuos MEDIUM (CTL-6100WL)</td><td> 8.5in x 5.31in</td><td>10.03</td><td>1.60</td></tr><tr><td>Intuos Pro Intuos Pro SMALL (PTH-460</td><td> 6.30in x 3.94in</td><td>7.43</td><td>1.440</td></tr><tr><td>Intuos Pro MEDIUM (PTH-660)</td><td> 8.82in x 5.83in</td><td>10.57</td><td>1.514</td></tr><tr><td>Intuos Pro LARGE (PTH-860)</td><td> 12.34in x 8.50in</td><td>14.91</td><td>1.44</td></tr></tbody></table>
 
 
 
@@ -229,11 +215,9 @@ No sign of any udpates coming
 
 Having said that since Wacom has upgraded its professional Cintiq line of pen displays in late 2022, there is a natural expectation that updates to their Intuos Pro pen tablets may be coming. Wacom has unfortunately not signaled anything about new Intuos Pro pen tablet products.
 
-
-
 ## Notes on pen tablet models
 
-### Intuos Pro (GEN1 and GEN2)
+### Intuos Pro
 
 There are two Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
 
@@ -241,7 +225,7 @@ There are two Intuos Pro generations and unfortunately the have the same name "I
   * Intuos Pro Small (PTH-460) -> 2019
   * Intuos Pro Medium (PTH-660) -> 2017
   * Intuos Pro Large (PTH-860) -> 2017
-* The older generation (sometimes referred to as "GEN2")
+* The older generation (sometimes referred to as "GEN1")
   * Intuos Pro Large (PTH-851) -> 2013
   * Intuos Pro Medium (PTH-651) -> 2013
   * Intuos Pro Small (PTH-451) -> 2013
