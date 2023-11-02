@@ -17,20 +17,9 @@ Wacom has several separate lines of pen tablets. This document will help you und
 * **Wacom One GEN2** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
 * **Intuos Pro** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
-## Model numbers&#x20;
-
-When I refer to the model names - it means the exact model numbers shown above.
-
 ## Wacom One GEN2 pen tablets
 
-These are intended to be upgrades to the consumer level Intuos tablets.
-
-Currently they suffer from pressure issues and I do not recommend purchasing them
-
-* Wacom One S GEN2 (CTC-4110WL)&#x20;
-* Wacom One M GEN2 (CTC-6110WL)&#x20;
-
-More here: [7P notes: Wacom One GEN2](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
+The Wacom One GEN2 pen are intended to be upgrades to the consumer level Intuos tablets. Currently they suffer from pressure issues and I do not recommend purchasing them. More here: [7P notes: Wacom One GEN2](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
 
 ## Wacom recommendation summary
 
@@ -39,82 +28,68 @@ Since many readers will be coming here looking for a recommendation among these 
 * **Sketching, digital painting, illustration**, etc. -&#x20;
   * If budget permits, get a Wacom Intuos Pro MEDIUM (PTH-660).&#x20;
   * If you tend do draw with larger gestures then consider a Wacom Intuos Pro LARGE (PTH-860).
-  * If you want to spend less get a One by Wacom MEDIUM (CTL-672)&#x20;
+  * If you want to spend less get a One by Wacom MEDIUM (CTL-672) or a Intuos Medium (CTL-6100, CTL-6100WL)&#x20;
 * **Photo-editing** - i.e. you aren't doing anything that requires "strokes" - then the One by Wacom SMALL (CTL-472) is fine.
-* **Using the tablet as a basic mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
-* **Taking notes**. I don't recommend any of these tablets. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../guides/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
-* **Play Osu!** - One by Wacom SMALL (CTL-472) or One by Wacom SMALL MEDIUM (CTL-672) are th ebest choices also the Intuos Pro models. The Intuos models have a little more position smoothing lag when hovering so you should avoid them for osu!. For more information regarding tablets for osu! consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
-* **Exploring drawing tablets**&#x20;
+* **Using the tablet as a mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
+* **Taking notes**. I don't recommend pen tablets in general for taking notes. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../guides/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
+* **Play Osu!** - One by Wacom SMALL (CTL-472) or One by Wacom SMALL MEDIUM (CTL-672) are the best choices. For more information regarding tablets for osu! and other tablet options consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
+* **Exploring drawing tablets** - this is if you are not sure if you are going to use a drawing tablet, but just want to dabble without spending a lot.&#x20;
   * Start with a One by Wacom SMALL (CTL-472) for general usage.&#x20;
   * Start with a One by Wacom MEDIUM (CTL-672) if you intend to draw on it.
 * **Picking the right size** - More information about picking the right size: [**tablet size**](../../guides/core-features/choosing-the-right-tablet-size.md).
 
 ## Pens
 
-Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there.
+Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there. More here: [**Wacom pen compatibility**](wacom-pen-compatibility.md)&#x20;
 
-| Tablet         | Pen that comes with tablet   |
-| -------------- | ---------------------------- |
-| One by Wacom   |  Wacom Pen 2K (LP-190K)      |
-| Wacom One GEN2 | Wacom One Pen GEN2 (CP-923)  |
-| Intuos         | Wacom Pen 4K (LP-1100K)      |
-| Intuos Pro     | Pro Pen 2 (KP-504E)          |
-
-More here: [**Wacom pen compatibility**](wacom-pen-compatibility.md)&#x20;
+| Tablet                                                                             | Pen that comes with tablet   |
+| ---------------------------------------------------------------------------------- | ---------------------------- |
+| <p><strong>One by Wacom</strong><br>(CTL-472, CTL-672)</p>                         |  Wacom Pen 2K (LP-190K)      |
+| <p><strong>Wacom One GEN2 pen tablets</strong></p><p>(CTC-4100WL, CTC-6110WL)</p>  | Wacom One Pen GEN2 (CP-923)  |
+| <p><strong>Intuos</strong></p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) </p> | Wacom Pen 4K (LP-1100K)      |
+| <p><strong>Intuos Pro</strong><br>(PTH-460, PTH-660, PTH-860)</p>                  | Pro Pen 2 (KP-504E)          |
 
 ## Pen photos
 
 <figure><img src="../../.gitbook/assets/7P SLIDE current wacom default pens.jpg" alt=""><figcaption></figcaption></figure>
 
-## Pressure
+## Pen pressure
 
 Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) &#x20;
 
-**Tablet support for pressure levels**
+**Pressure levels**
 
-* One by Wacom ->2048
-* Wacom One GEN2 -> 4096
-* Intuos -> 4096
-* Intuos Pro -> 8192&#x20;
+2048 pressure levels is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.&#x20;
 
-2048 pressure levels is all you need for creative work.
-
-Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.&#x20;
-
-**Pressure range vs Pressure levels**
+**Pressure range**
 
 More than pressure levels, the **pressure range** has a greater impact on your drawing experience. And this is driven by the quality of the pressure sensor in the pen. &#x20;
 
-Wacom Pro Pens tend to have both much higher-quality sensors and more pressure levels, so it is easy to attribute the improved drawing experience to the pressure levels despite that not being the case.
+**Pens compared**
 
-**Comparing the default pens in terms of pressure**
-
-The Pro Pen 2 has the greatest range, followed by the Wacom Pen 2K, and then the Wacom Pen 4K. Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md)  &#x20;
+<table><thead><tr><th>Pen</th><th width="144">levels</th><th width="176">min pressure (IAF)</th><th>max pressure</th></tr></thead><tbody><tr><td>Wacom Pen 2K (LP-190K)</td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td></tr><tr><td>Wacom One Pen GEN2 (CP-923) </td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td></tr><tr><td>Wacom Pen 4K (LP-1100K)</td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E) </td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td></tr></tbody></table>
 
 ## Tilt
 
-Notice that **tilt** is only supported on the Intuos Pro models. Not all art requires tilt, some artists use that feature but many do not
+Only some of Wacom pen tablets support tilt.&#x20;
 
 * One by Wacom -> no tilt
 * Wacom One GEN2 -> supports tilt
 * Intuos -> no tilt
 * Intuos Pro -> supports tilt
 
-Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt.
-
-Lean more here: [**Pen tilt**](../../guides/core-features/pen-tilt.md)&#x20;
+Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [**Pen tilt**](../../guides/core-features/pen-tilt.md)&#x20;
 
 ## Resolution
 
 Resolution means how many separate points the tablet can distinguish (i.e. resolve) in a given length. This is specified as Lines Per Inch (LPI) though it is also useful to think about it as lines per millimeter (LPMM)
 
+You will not notice the difference between 2048 LPI and 5080 LPI.
+
 * One by Wacom -> 2048 LPI = 80.62 LPMM
-* Wacom One GEN1 = Unknown
 * Wacom One GEN2 = Unknown
 * Intuos -> 2540 LPI = 100 LPMM
 * Intuos Pro -> 5080 LPI = 200 LPMM&#x20;
-
-You will not notice the difference between 2048 LPI and 5080 LPI.
 
 ## Accuracy
 
@@ -130,7 +105,7 @@ Pen tablets in general display very little pointer lag. In comparison, all pen d
 
 * One by Wacom -> almost no pointer lag
 * Wacom One GEN2 -> almost no pointer lag
-* Intuos -> almost no pointer lag
+* Intuos -> almost no pointer lag (has a extra lag on hover)
 * Intuos Pro -> almost no pointer lag
 
 Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
@@ -139,11 +114,9 @@ Learn more here: [**Lag**](../../guides/core-features/lag.md) &#x20;
 
 The Intuos Pro models exhibit less wobble than the Intuos of One by Wacom. But all three are acceptable.&#x20;
 
-You can find Wacom diagonal wobble samples here: [Wacom diagonal wobble samples](broken-reference)
-
 ## Position smoothing
 
-Position smoothing can cause extra pointer lag.
+Position smoothing can cause extra pointer lag.&#x20;
 
 * One by Wacom -> no hardware smoothing
 * Wacom One GEN2 -> unknown
@@ -153,7 +126,7 @@ Position smoothing can cause extra pointer lag.
 ## Wireless/Bluetooth
 
 * One by Wacom -> does NOT support wireless
-* Wacom One GEN2 -> these pen tablets all suport wirless via Bluetooth
+* Wacom One GEN2 -> these pen tablets all support wirless via Bluetooth
 * Intuos -> The models with WL in their name support wireless via Bluetooth
 * Intuos Pro -> all models support wireless via Bluetooth
 
@@ -193,7 +166,7 @@ Note that touch works much better on Window systems than on Macs. This is not Wa
 
 With the Intuos Pro tablets and pens - everything feels great to me. The texture the weight of the pen, etc.
 
-The One by Wacom and Intuos models feel a more plasticy/cheaper and less luxurious. Also I just don't enjoy how their pens feel in my hand.&#x20;
+The One by Wacom and Intuos models feel a more plasticy/cheaper. Also I just don't enjoy how their pens feel in my hand.&#x20;
 
 ## Active Area
 
@@ -208,8 +181,6 @@ The size of the tablet is based on it's active area which is the region on the t
 * Intuos Pro Intuos Pro SMALL (PTH-460) -> 6.30in x 3.94in, diag=7.43
 * Intuos Pro MEDIUM (PTH-660) -> AR = 8.82in x 5.83in, diag = 10.57
 * Intuos Pro LARGE (PTH-860) -> AR = 12.34in x 8.50in, diag=14.91
-
-<figure><img src="../../.gitbook/assets/7P SLIDE Wacom Pen Tablet Sizes.png" alt=""><figcaption></figcaption></figure>
 
 ## Aspect Ratio
 
