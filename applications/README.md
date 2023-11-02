@@ -34,18 +34,25 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 * [Procreate](procreate.md) (iOS)
 * [Rebelle](rebelle.md) (Windows, MacOS)
 * Sketchbook Pro (MacOS, Windows, Android, iOS)
+
+### Vector
+
+* Affinity Designer (Windows, MacOS)
+* Adobe Illustrator (Windows, MacOS)
+* [Inkscape](https://gitlab.com/inkscape/inkscape) (Windows, MacOS, Linux)
 * VectorInk (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
 
 ### 3D&#x20;
 
-* [Blender](blender.md) (Linux, MacOS, Windows, BSD)
 * Autodesk Maya - &#x20;
+* [Blender](blender.md) (Linux, MacOS, Windows, BSD)
 * Spline - [https://spline.design/](https://spline.design/) - (web)
 
 ### Photoediting
 
+* Adobe [Photoshop](photoshop.md) (Windows, MacOS)
+* Affinity Photo
 * Photopea - [https://www.photopea.com/](https://www.photopea.com/) (web)
-* Adobe [Photoshop](photoshop.md)   (Windows, MacOS)
 
 ### Note-taking
 
