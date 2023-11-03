@@ -11,6 +11,6 @@
 
 **Reviews**
 
-* Teoh on Tech - XPPen Deco Pro (gen 2) review - Get the right size - ([https://youtu.be/h8NG0zmYdtE](https://youtu.be/h8NG0zmYdtE)) Jul 25, 2023
-* Joseph Montanez - XP-Pen Deco Pro Gen2 XL - Review ([https://youtu.be/pRLBRTWPlQU](https://youtu.be/pRLBRTWPlQU)) Jun 20, 2023
+* Teoh on Tech - [XPPen Deco Pro (gen 2) review](https://youtu.be/h8NG0zmYdtE) Jul 25, 2023
+* Joseph Montanez - [XP-Pen Deco Pro Gen2 XL - Review](https://youtu.be/pRLBRTWPlQU) Jun 20, 2023
 

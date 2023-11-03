@@ -53,9 +53,9 @@ Nibs are typically made of plastic or felt. And the material choice will affect 
 
 Here's some videos related to this topic:
 
-* Mink - Tips for increasing your Pen Nibs’ lifespan - ([https://youtu.be/t2nJ4k4YJl0](https://youtu.be/t2nJ4k4YJl0))
-* Aaron Rutten - When to CHANGE Drawing Tablet Pen Nibs - ([https://youtu.be/iI6X41Jhm9g](https://youtu.be/iI6X41Jhm9g))&#x20;
-* Aaron Rutten - Wearing Down Nibs & Tablet Scratches - ([https://youtu.be/Ws\_gXgdmKX0](https://youtu.be/Ws\_gXgdmKX0))&#x20;
+* Mink -[ Tips for increasing your Pen Nibs’ lifespan](https://youtu.be/t2nJ4k4YJl0)&#x20;
+* Aaron Rutten - [When to CHANGE Drawing Tablet Pen Nibs](https://youtu.be/iI6X41Jhm9g)&#x20;
+* Aaron Rutten - [Wearing Down Nibs & Tablet Scratches](https://youtu.be/Ws\_gXgdmKX0)&#x20;
 
 For me what works best is just buying more nibs because they are cheap and easy to replace.
 
