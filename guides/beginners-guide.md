@@ -24,7 +24,7 @@ The fundamental technology behind drawing tablets is called Electromagnetic Reso
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/7P SLIDE Types of Tablets (5).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7P SLIDE Types of Tablets.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
