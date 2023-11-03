@@ -13,6 +13,16 @@ For you to fully use the features of your drawing tablet you need to install dri
 
 In **some** cases it is possible to use a tablet without drivers. More here: [Using a tablet without installing drivers](using-a-drawing-tablet-without-installing-drivers.md).&#x20;
 
+## Driver compatibility with multiple tablets&#x20;
+
+A specific version of a tablet driver tends to be compatible with a range of tablets from a specific manufacturer.&#x20;
+
+For example Wacom's windows are compatible with wide range of their tablets.
+
+Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
+
+![](<../../.gitbook/assets/image (366).png>)&#x20;
+
 ## OpenTabletDriver
 
 * An alternative to manufacturer-provided drivers is **OpenTabletDriver** ([https://opentabletdriver.net/](https://opentabletdriver.net/))
