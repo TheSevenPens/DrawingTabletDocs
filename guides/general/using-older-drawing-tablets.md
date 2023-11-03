@@ -16,13 +16,13 @@ Models I have specifically used with Windows 11:
 
 ## Common reasons why people want to use an older tablet
 
-* They bought the tablet a long time ago but I haven't used it recently.
+* They bought the tablet a long time ago but haven't used it recently.
 * It was a tablet that was gifted to them
 * They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-a-drawing-tablet/buying-used-drawing-tablets.md))
 
 ## Drivers overview
 
-Drivers are allow a tablet to be used with a computer. They are really important when you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. Without the drivers a drawing tablet may not function at all or may work just essentially as a mouse with no pressure sensitivity and no tilt. More here: [**drivers**](../drivers/)
+Drivers allow a tablet to be used with a computer. They are really important when you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. Without the drivers a drawing tablet may not function at all or may work just essentially as a mouse with no pressure sensitivity and no tilt. More here: [**drivers**](../drivers/)
 
 ## Driver compatibility with multiple tablets&#x20;
 
