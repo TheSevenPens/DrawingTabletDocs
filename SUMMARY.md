@@ -115,6 +115,7 @@
     * [Heat](guides/ergonomics/heat.md)
   * [Touch support](guides/touch-support.md)
   * [General](guides/general/README.md)
+    * [Using older drawing tablets](guides/general/using-older-drawing-tablets.md)
     * [Electromagnetic Interference](guides/general/electromagnetic-interference.md)
     * [Using a drawing tablet with a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
     * [Using a drawing tablet with an iOS device](guides/general/using-a-drawing-tablet-with-an-ios-device.md)
