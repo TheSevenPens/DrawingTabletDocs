@@ -2,15 +2,17 @@
 
 ## Overview
 
-Most often people are using tablets that have been very recently manufactured - in just the past few years. However sometimes people need to use tablets that are much older.
+Most often people use tablets that have been very recently manufactured - in just the past few years. However, sometimes people ask about using tablets that are older. In summary, the primary issue that determines whether you can use an older tablet comes down to tablet drivers.
 
 ## My experience
 
-As of 2023 I have used tablets that were manufactured 25 years ago on my windows 11 system. So it is certainly possible to use an older tablet with a modern computer for creative purposes.
+As of 2023 I have used tablets that were manufactured 25 years ago on my windows 11 system. So it is certainly possible to use an older tablet with a modern computer for creative purposes and was able to use pressure and tilt.
 
-## The reality
+Models I have specifically used with Windows 11:
 
-While it is possible there are some things you should be aware of that might complicate this situation. Largely these problems have to deal with drivers and how they relate to applications and the operating system.
+* Wacom Intuos 4 XL (PTK-1240) - using Wacom drivers and OpenTabletDriver. This tablet was released in 2009.
+* Wacom Intuos 3 12x12 (PTZ-1230) - using OpenTabletDriver. This tablet was released in 2004.
+* Wacom Intuos 2 12x18 (XD-1218-U) - Using OpenTabletDriver. This tablet was released in 2001.
 
 ## Common reasons why people want to use an older tablet
 
@@ -20,11 +22,21 @@ While it is possible there are some things you should be aware of that might com
 
 ## Drivers overview
 
-Drivers are what allow a tablet to be used with a computer. They are really required when you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. Without the drivers a drawing tablet may not function at all or may work just essentially as a mouse with no pressure sensitivity and no tilt. More here: [**drivers**](../drivers/)
+Drivers are allow a tablet to be used with a computer. They are really important when you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. Without the drivers a drawing tablet may not function at all or may work just essentially as a mouse with no pressure sensitivity and no tilt. More here: [**drivers**](../drivers/)
+
+## Driver compatibility with multiple tablets&#x20;
+
+A specific version of a tablet driver tends to be compatible with a range of tablets from a specific manufacturer.&#x20;
+
+For example Wacom's windows are compatible with wide range of their tablets.
+
+Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
+
+![](<../../.gitbook/assets/image (366).png>)&#x20;
 
 ## Driver updates
 
-a specific version of a tablet driver tends to be compatible with a range of tablets from a specific manufacturer. Drivers have to be updated over time because there are new tablets that they need to support and also changes to the underlying operating system may require the drivers to be updated.
+Drivers have to be updated over time because there are new tablets that they need to support and also changes to the underlying operating system may require the drivers to be updated.
 
 ## Driver compatibility issues
 
@@ -55,7 +67,7 @@ A common issue is that the operating system has changed since the driver was fir
 
 OpenTabletDriver is compatible with many older tablets. The key issues when using OTD are:
 
-* it is more challenging to set up especially if you want to use features like pressure sensitivity and tilt
+* OTD is more challenging to set up especially if you want to use features like pressure sensitivity and tilt
 * OTD does not support features like pressure sensitivity and tilt are on MacOS, but they are supported on Windows
 
 If you are interested in using open tablet driver I have created a detailed guide to explain how to set it up on windows: [**Install OpenTabletDriver on Windows**](../drivers/opentabletdriver/opentabletdriver-windows.md)&#x20;
