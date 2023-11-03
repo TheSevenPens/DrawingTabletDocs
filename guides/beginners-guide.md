@@ -103,13 +103,13 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 * **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](core-features/expresskeys.md) &#x20;
 * **Touch** - A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. More here: [touch support](touch-support.md)&#x20;
 
-More here: [Touch support](touch-support.md)&#x20;
-
 ## The active area
 
 The active area is the region on the tablet that your draw on. More here: [active area](core-features/active-area.md).
 
-## Size (of the active area)
+## Tablet size
+
+**Tablet size = size of the active area**
 
 When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](core-features/choosing-the-right-tablet-size.md)
 
@@ -160,12 +160,7 @@ More here:
 * &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
 * &#x20;[**troubleshooting**](../troubleshooting/)  &#x20;
 
-## Additional learning
+## Other topics to explore
 
-* **Brad Colbow - How to Use a Drawing Tablet** ([https://youtu.be/Sb8FtNJOGS4](https://youtu.be/Sb8FtNJOGS4)) Oct 4, 2022
-* **Nadiaxel - Beginner's Guide to Become a Digital Artist - Drawing Tablets & Apps** ([https://youtu.be/bzeXcn6Amwo](https://youtu.be/bzeXcn6Amwo)) Jul 4, 2022
-* **Brad Colbow - Digital Art for Beginners (2020 Edition)** ([https://youtu.be/0RmGV5wALG0](https://youtu.be/0RmGV5wALG0)) Feb 24, 2020&#x20;
-* **Trent Kaniuga - Getting started with digital art Tools and practices** ([https://youtu.be/8OsiACxQwvM](https://youtu.be/8OsiACxQwvM)) Mar 2, 2022
-* **Aaron Rutten - How to Use a DRAWING TABLET for Beginners (2022)**([https://youtu.be/OFw4jcBjQKs](https://youtu.be/OFw4jcBjQKs)) Sep 11, 2022
-* **Marc Brunet - THE BEGINNER'S GUIDE TO DIGITAL ART (from an art teacher)** ([https://youtu.be/O40KGoCmpNA](https://youtu.be/O40KGoCmpNA)) Dec 12, 2020
-* **Marc Brunet - 5 Steps to Learn to Draw** ([https://youtu.be/TCLfxzGDZHk](https://youtu.be/TCLfxzGDZHk)) Dec 11, 2022
+* [**Learning to use a drawing tablet**](learning-to-use-a-drawing-tablet.md) &#x20;
+* [**Learning digital art**](learning-digital-art.md)  &#x20;

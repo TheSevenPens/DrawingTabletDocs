@@ -18,6 +18,8 @@
 * [Drawing tablet brands](drawing-tablet-brands/README.md)
 * [Guides](guides/README.md)
   * [Beginner's guide to drawing tablets](guides/beginners-guide.md)
+  * [Learning digital art](guides/learning-digital-art.md)
+  * [Learning to use a drawing tablet](guides/learning-to-use-a-drawing-tablet.md)
   * [Get started with a drawing tablet](guides/get-started-with-a-drawing-tablet.md)
   * [The drawing experience](guides/the-drawing-experience.md)
   * [Caring for your tablet](guides/caring-for-your-tablet/README.md)
