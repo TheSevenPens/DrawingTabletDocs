@@ -41,7 +41,7 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 
 ## Product info
 
-I have links to information, reviews, and my notes on tablets in the [product info](../product-info/) section.
+I have links to information, reviews, and my notes on tablets in the [**product info**](../product-info/) section.
 
 ## Pen tablets vs pen displays
 
@@ -55,31 +55,27 @@ Drawing with a drawing tablet ideally is very similar to drawing paper. But ther
 
 ### **Pressure**
 
-* **Number of pressure levels -** These days all tablet manufacturers list 8192 pressure levels. Realistically though 2048 is all you need.&#x20;
-* **Pressure range** - more important than number of pressure levels is the pressure range. Wacom pens are generally known for having a very wide pressure range including a very low Initial Activation Force (IAF) which makes it easier to draw finer lines. Read more about [**pressure**](../guides/core-features/pen-pressure.md).
+These days all tablet manufacturers specify 8192 **pressure levels**. Realistically though 2048 is all you need. More important than number of pressure levels is the **pressure range**. Wacom pens are generally known for having a wide pressure range including a very low Initial Activation Force (IAF) which makes it easier to draw finer lines. Read more about [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
 
 ### **Tilt**
 
-* **Tilt** support can be very useful for for certain kinds of artwork. Though, many people rarely or never use this feature.
-* Wacom's consumer pen tablets such as **One by Wacom** and **Intuos** do not offer tilt. For some people that's fine since they never or rarely use tilt. Only Wacom's Intuos Pro line supports tilt.&#x20;
-* Non-Wacom brands tend to have tilt on every tablet no matter the cost.
-* Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
+Tilt support can be very useful for for certain kinds of artwork. Almost all modern tablets support tilt, except for some consumer tablets such as One by Wacom (CTL-472, CTL-672) and Wacom Intuos (CTL-6100, CTL-6100WL, CTL-4100, CTL-6100WL). Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
 
-### **Accuracy > EMR sensing resolution**&#x20;
+### **EMR resolution**&#x20;
 
-This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm.&#x20;
+This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
 
-Without getting into the details despite all manufacturers advertising 5080 LPI for their tablets, Wacom's resolution is better. Having said that, the ways in which other manufacturers are different will not be noticeable to you when drawing.
-
-### Accuracy > Diagonal wobble
+### Be aware: diagonal wobble
 
 All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble/).
+
+## **Secondary features**
 
 ### **ExpressKeys**&#x20;
 
 ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)&#x20;
 
-## Touch
+### Touch
 
 A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support.md)
 
@@ -134,16 +130,6 @@ Wacom: [https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-sup
 
 There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/).
 
-## Scenarios
-
-### Taking notes
-
-I don't recommend drawing tablets for note taking. Devices like an iPad work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
-
-### Playing osu!
-
-If you want to play osu!, there are very specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](buying-a-drawing-tablet-for-osu.md) &#x20;
-
 ## Ergonomics
 
 ### Size
@@ -185,6 +171,14 @@ Pen tablets do not have legs. If you want to place them at an angle, you will ne
 ### Right-handed vs left-handed use
 
 All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md).
+
+## Taking notes
+
+I don't recommend drawing tablets for note taking. Devices like an iPad work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+
+## Playing osu!
+
+If you want to play osu!, there are very specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](buying-a-drawing-tablet-for-osu.md) &#x20;
 
 ## Maintaining your tablet
 
@@ -233,4 +227,3 @@ Some reviewers to explore:
 * **Brad Colbow** ([https://www.youtube.com/c/thebradcolbow)](https://www.youtube.com/c/thebradcolbow)
 * **Aaron Rutten** ([https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
 * **Adam Duff** ([https://www.youtube.com/@AdamDuffArt) ](https://www.youtube.com/@AdamDuffArt)
-
