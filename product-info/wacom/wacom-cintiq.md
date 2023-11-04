@@ -21,9 +21,8 @@
 **Reviews**
 
 * Brad Colbow ([https://youtu.be/662QvZMik4U](https://youtu.be/662QvZMik4U)) Jul 18, 2019
-* Aaron Rutten ([https://youtu.be/xBPNyYX6zi8](https://youtu.be/xBPNyYX6zi8)) Jul 17, 201
-* MobileTechReview ([https://youtu.be/662QvZMik4U](https://youtu.be/662QvZMik4U))
-* Adam Duff ([https://youtu.be/lzWbJP-Cyic](https://youtu.be/lzWbJP-Cyic)) Sep 29, 2015
+* Aaron Rutten ([https://youtu.be/xBPNyYX6zi8](https://youtu.be/xBPNyYX6zi8)) Jul 17, 2019
+* MobileTechReview ([https://www.youtube.com/watch?v=03XtX5Gg76g](https://www.youtube.com/watch?v=03XtX5Gg76g)) Jul 19, 2019
 
 ## Wacom Cintiq 16 (DTK-1660)
 

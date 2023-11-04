@@ -44,9 +44,6 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 ## $2000 - $3000
 
-* MEDIUM [**Wacom Cintiq Pro 17**](../../product-info/wacom/wacom-cintiq-pro/) (DTH-172) $2500
-* LARGE [**Wacom Cintiq Pro 22** ](../../product-info/wacom/wacom-cintiq-pro/)(DTH-227) $3000
-
 ## $3000 to $4000
 
 * LARGE [**Wacom Cintiq Pro 27**](../../product-info/wacom/wacom-cintiq-pro/) $3500 ([my notes](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-27-dth-271/7p-notes-wacom-dth271.md))

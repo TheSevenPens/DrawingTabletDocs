@@ -10,7 +10,6 @@ Its competitor is the Wacom Intuos Pro Large (PTH-860), and the Giano has some i
 
 * The Giano G930L costs about $200 where the Wacom Intuos Pro Large (PTH-860) costs about $500
 * The Giano's active area is slightly larger than the Wacom Intuos Pro
-* The Giano's&#x20;
 
 ## **Pen**
 
@@ -36,6 +35,8 @@ There's a monochromatic OLED display on the upper left of the tablet. This is a 
 
 Large tablets require some adjustment to work with. If you are interested learning more about howe your workflow and desk may need to adjust watch this video: [https://youtu.be/YCmVugc3w\_g](https://youtu.be/YCmVugc3w\_g)&#x20;
 
+## Pressure pulsing
 
+Minor pressure pulsing visible at lower pressure. Will mostly be be visible with strokes using large brushes.
 
 ##
