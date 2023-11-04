@@ -28,7 +28,7 @@ For a long time these brands lagged behind Wacom’s technology. For example, th
 * **Wacom** continues to make the highest quality and most reliable tablets. But also they are the most expensive
   * Wacom's pro line of pen tablets (intuos pro) continue to be the best pen tablets ever made
   * Wacom's pro line of pen displays (cintiq pro) continue to be the best pen displays ever made
-* **Huion and XP** pen since about 2021 have been releasing some really solid devices
+* **Huion and XP-pen** since about 2021 have been releasing some really solid devices
   * And although they have a large lineup of products that can be a little confusing
   * And if you're looking at their very latest tablets that are being released in 2022 or 2023 - these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
 * **Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support.&#x20;
@@ -63,14 +63,13 @@ This is why you MUST choose a brand that:
   * Parblo - [https://www.parblo.com/](https://www.parblo.com/)
   * Ugee - [https://www.ugee.com/](https://www.ugee.com/)
   * Veikk - [https://www.veikk.com/](https://www.veikk.com/)&#x20;
-* **Tier 4 Tier - Avoid**
-  * Everyone else
+* **Tier 4 Tier - Everyone else: Avoid**
 
 ## Tier 1: Wacom
 
-The leading brand out there is **Wacom** ([https://www.wacom.com](https://www.wacom.com)). They have a variety of products and different price points that should fit everyone's needs. If you don't want to weigh the pros and cons of different brands and want an easy answer then choose Wacom.&#x20;
+The undisputed leading brand is **Wacom** ([https://www.wacom.com](https://www.wacom.com)). They have a variety of products and different price points that should fit everyone's needs. If you don't want to weigh the pros and cons of different brands and want an easy answer then choose Wacom.&#x20;
 
-My experience: I currently own 19 Wacom tablets (2 pen displays and 17 pen tablets). I have extensively used a tablet from every Intuos Pro series.&#x20;
+My experience: I currently own 39 Wacom tablets (6 pen displays and 33 pen tablets). I have extensively used every tablet in their professional series.&#x20;
 
 ### What Wacom does well
 
@@ -135,12 +134,12 @@ I used a Xencelabs Medium tablet (BPH1212W-A) for about six months. I was very s
 * The "feel" and quality of materials is excellent - Wacom tier.
 * Their driver experience is easily the most well thought-out, user-friendly and attractive of any tablet brand.
 * Their tablets come with 2 pens. This is great because if you are having difficulties you se if switching pens helps.
-* I don't have any direct experience with their support. I haven't needed to contact them for any issue.
+* I don't have any direct experience with their support. I haven't needed to contact them for any issue. But from what I have seen Xencelabs support is extremely good.
 
 ### How Xencelabs could do better
 
 * Their EMR tech is the same place as XP-Pen. If they are going to challenge Wacom at the same price point this should improve.&#x20;
-* There aren't that many Xencelabs users out there - so if you need community help there are very few people in the community who can help.
+* There aren't that many Xencelabs users out there - so if you need community help there are very few people in the community who can help and you'll need to rely Xencelab's customer support.
 * As of September 2023, their Windows driver does not support connecting multiple Xencelabs tablets being connected at the same time. In my observation, their driver becomes extremely confused when multiple Xencelabs tablets are plugged in and it requires a driver restart to get it back to normal. All of Wacom, Huion, XP-pens drivers handle multiple tablets at the same time.
 * As of September 2023, they have some portfolio gaps
   * They don't have a LARGE pen tablet model - something comparable to the Wacom Intuos Large, Huion Giano G930L, XP-Pen Deco Pro XLW GEN2.
