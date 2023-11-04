@@ -26,26 +26,20 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 * **pen display** (EMR sensor + screen; requires a computer)
 * **pen computer** (EMR sensor + screen + CPU + storage; does not require a computer because it is a computer)
 
-To keep it simple:
+Basic guidelines:
 
-* Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen).
+* Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
 * Do not get a pen computer, instead get an alternative like an iPad. More here along with alternatives:  [**I don't recommend pen computers**](the-case-against-pen-computers.md) &#x20;
 
 ## Brands
 
-**If you want a safe choice, go with Wacom.** They are also the most expensive. Since 2021 **competitors like Huion, XP-Pen, and Xencelabs** are closing the gap with Wacom.
+**If you want a safe choice, go with Wacom.** They are also the most expensive. Competitors such as Huion, XP-Pen, and Xencelabs are closing the gap with Wacom. This [**guide on drawing tablet brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
 
-This guide on [**brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
-
-If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future I'll add a doc covering Wacom pen displays.&#x20;
+If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## Product info
 
 I have links to information, reviews, and my notes on tablets in the [**product info**](../product-info/) section.
-
-## Pen tablets vs pen displays
-
-<mark style="color:red;">**Pen displays are NOT inherently than pen tablets. It really depends on how you draw, your body and ergonomic situation, etc.**</mark> Throughout this buying guide, you'll see areas where pen tablets and pen computers are compared. More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
 
 ## The drawing experience
 
