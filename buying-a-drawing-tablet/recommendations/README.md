@@ -25,10 +25,10 @@ Before you look at the recommendations, I recommend you read:
 
 ### **Resources**
 
-* Brad Colbow "Best Drawing Tablet By Price" ([https://youtu.be/nENQ-TLBYvI](https://youtu.be/nENQ-TLBYvI)) Jun 20, 2022
-* Aaron Rutten "The 10 Best DRAWING TABLETS of 2022" ([https://youtu.be/fNy1hnlKxuY](https://youtu.be/fNy1hnlKxuY)) Nov 1, 2022
-* Brad Colbow - Best Drawing Tablets for Beginners - What I Recommend  ([https://youtu.be/Dh49NwMt1yw](https://youtu.be/Dh49NwMt1yw)) May 8 2023
-* Brad Colbow - Dream Digital Art Setup on a Budget ([https://youtu.be/xVN4tt27u6s](https://youtu.be/xVN4tt27u6s)) Aug 7, 2023
+* Brad Colbow - [Best Drawing Tablet By Price](https://youtu.be/nENQ-TLBYvI) Jun 20, 2022
+* Aaron Rutten - [The 10 Best DRAWING TABLETS of 2022](https://youtu.be/fNy1hnlKxuY) Nov 1, 2022
+* Brad Colbow -[ Best Drawing Tablets for Beginners - What I Recommend](https://youtu.be/Dh49NwMt1yw) May 8 2023
+* Brad Colbow - [Dream Digital Art Setup on a Budget](https://youtu.be/xVN4tt27u6s) Aug 7, 2023
 
 ##
 

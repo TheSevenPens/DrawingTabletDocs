@@ -7,7 +7,7 @@ Apps will fall into two categories:
 * **pen-aware apps** - these apps know about pens, pressure, tilt, etc. and can take advantage of those features
 * **other apps** - these apps don't know about pens. So when you use a pen with them, the application treats them just like a mouse. In fact the app has no idea you are using a pen. The pen will work for basic tasks. For example the pen can move the operating system pointer, you can press down with the pen to draw or click, the buttons may work. However, the app won't do anything special with pen capabilities like tilt, or pressure sensitivity.
 
-## The pen aware apps I recommend
+## The pen-aware apps I recommend
 
 * [**Clip Studio Paint**](clip-studio-paint.md) - Medium Cost, Advanced, very powerful, multiplatform. Great for comics
 * [**Krita**](krita.md) - FREE, Advanced, multiplatform. Very powerful
