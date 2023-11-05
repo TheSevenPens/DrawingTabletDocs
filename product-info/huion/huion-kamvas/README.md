@@ -4,8 +4,8 @@
 
 Reviews
 
-* Brad Colbow -([https://youtu.be/57QFFMuhxUU](https://youtu.be/57QFFMuhxUU))
-* Teoh Yi Chie - ([https://youtu.be/KW\_GwmGhwb0](https://youtu.be/KW\_GwmGhwb0))
+* Teoh Yi Chie - [Huion Kamvas 12 (2021): Review + Kamvas 16 size comparison](https://youtu.be/KW\_GwmGhwb0)  (Mar 6 2021)
+* Brad Colbow  [Huion Kamvas 12 Review](https://youtu.be/57QFFMuhxUU) (Jan 11 2021)&#x20;
 
 ## Huion Kamvas 13 (GS1331)
 
@@ -24,9 +24,9 @@ My notes
 
 Reviews
 
-* Teoh on Tech: [https://www.youtube.com/watch?v=yn1eJFsrFnY](https://www.youtube.com/watch?v=yn1eJFsrFnY)&#x20;
-* Brad Colbow: [https://www.youtube.com/watch?v=ku8x1q\_nhFQ](https://www.youtube.com/watch?v=ku8x1q\_nhFQ) &#x20;
-* Create Now Sleep Later: [https://youtu.be/rgaqRLhct0A](https://youtu.be/rgaqRLhct0A)&#x20;
+* Teoh on Tech:[ Review: Huion Kamvas 13 Pen Display](https://www.youtube.com/watch?v=yn1eJFsrFnY) May 1, 2020
+* Brad Colbow: [Huion Kamvas 13 Review (2020 version)](https://www.youtube.com/watch?v=ku8x1q\_nhFQ) Mar 26, 2020
+* Create Now Sleep Later:[ Huion Kamvas 13 Review: Huion beats Wacom?](https://youtu.be/rgaqRLhct0A)  Apr 17, 2020 &#x20;
 
 ## Huion Kamvas 16 (GS1562)
 
@@ -35,13 +35,6 @@ Basics
 Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html)&#x20;
 
 7P has this tablet: NO
-
-
-
-Reviews
-
-* Teoh Yi Chie (Mar 6 2021) ([https://youtu.be/KW\_GwmGhwb0](https://youtu.be/KW\_GwmGhwb0))
-* Brad Colbow (Jan 11 2021) ([https://youtu.be/57QFFMuhxUU](https://youtu.be/57QFFMuhxUU))
 
 ## Huion Kamvas 22 (GS2201)
 
@@ -54,9 +47,9 @@ Basics
 * 7PENS owns this tablet: NO
 * Unknown AG sparkle
 
-
-
 ## Huion Kamvas 22 Plus (GS2202)
+
+[**My notes on this tablet**](7p-notes-huion-kamvas-22-plus.md)&#x20;
 
 Basics
 
@@ -66,17 +59,10 @@ Basics
 * Active Area Diagonal: 21.5"
 * 7PENS owns: YES
 
-My notes
-
-* [My notes on Huion Kamvas 22 Plus](7p-notes-huion-kamvas-22-plus.md)&#x20;
-* Notes:
-  * Exhibits low [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
-
 Reviews
 
-* Brad Colbow - ([https://youtu.be/GJxGzJgfYGA](https://youtu.be/GJxGzJgfYGA))
-* Nemanja Sekulic - ([https://youtu.be/mlYTRD2KmeY](https://youtu.be/mlYTRD2KmeY))
-* Teoh on Tech - ([https://youtu.be/aXXdPzw1FFk](https://youtu.be/aXXdPzw1FFk))
+* Brad Colbow - [Huion Kamvas 22 Plus Review](https://youtu.be/GJxGzJgfYGA) Sep 8, 2020
+* Nemanja Sekulic -[ Huion Kamvas 22 Plus - Display Tablet Review](https://youtu.be/mlYTRD2KmeY) Mar 4, 2022
 
 ## Huion Kamvas 24 (GS2401)
 
@@ -90,9 +76,7 @@ Basics
 * Product page: [https://www.huion.com/products/pen\_display/Kamvas/kamvas-24.html  ](https://www.huion.com/products/pen\_display/Kamvas/kamvas-24.html)
 * User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90)
 
-Reviews
 
-* Adam Duff - Huion Kamvas 24 Plus Review ([https://youtu.be/1xL\_rz6csbo](https://youtu.be/1xL\_rz6csbo)) Oct 14, 2023
 
 ## Huion Kamvas 24 Plus (GS2402)
 
@@ -104,4 +88,12 @@ Basics
 * Active Area Diagonal: 23.75"
 * 7PENS owns: NO
 * User manual: [https://www.huion.com/user-manual-92](https://www.huion.com/user-manual-92)&#x20;
+
+Reviews
+
+* Adam Duff - Huion Kamvas 24 Plus Review ([https://youtu.be/1xL\_rz6csbo](https://youtu.be/1xL\_rz6csbo)) Oct 14, 2023
+
+## Other
+
+Teoh on Tech -[ Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) Aug 9, 2021
 

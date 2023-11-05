@@ -4,9 +4,8 @@
 
 **Reviews**
 
-* Teoh on tech - ([https://youtu.be/OCNsJ1gqnZ0](https://youtu.be/OCNsJ1gqnZ0)) Aug 16, 2022
-* Create now sleep later - ([https://youtu.be/mXKoWtvKDi0](https://youtu.be/mXKoWtvKDi0)) Aug 26, 2022&#x20;
-* Brad Colbow - ([https://youtu.be/sSRoVgFl0UU](https://youtu.be/sSRoVgFl0UU))
+* Teoh on tech -[ Huion Inspiroy Dial 2 (Q630M) review](https://youtu.be/OCNsJ1gqnZ0) Aug 16, 2022
+* Create now sleep later - [Huion Inspiroy Dial 2 (Q630M) Graphic Tablet Review](https://youtu.be/mXKoWtvKDi0) Aug 26, 2022&#x20;
 
 ## Huion Inspiroy Giano (G930L)
 
@@ -22,10 +21,10 @@
 
 **Reviews**
 
-* Teoh on Tech - [https://www.youtube.com/watch?v=2XcP\_Db9e\_w](https://www.youtube.com/watch?v=2XcP\_Db9e\_w)&#x20;
-* Brad Colbow - [https://www.youtube.com/watch?v=DiRwtSonevY](https://www.youtube.com/watch?v=DiRwtSonevY)  &#x20;
-* Create Now Sleep Later - [https://www.youtube.com/watch?v=CcrTe2J5Ho8](https://www.youtube.com/watch?v=CcrTe2J5Ho8)&#x20;
-* Anna Sok \_ Art - [https://www.youtube.com/watch?v=03auOS8lgAE  ](https://www.youtube.com/watch?v=03auOS8lgAE)
+* Teoh on Tech - [Huion Inspiroy Giano G930L (review): Largest Bluetooth Drawing Tablet](https://www.youtube.com/watch?v=2XcP\_Db9e\_w) May 25, 2022
+* Brad Colbow -[ Huion Inspiroy Giano Review](https://www.youtube.com/watch?v=DiRwtSonevY) Jul 6, 2022
+* Create Now Sleep Later - [Huion Inspiroy Giano Review | LARGE Graphics Pen Tablet](https://www.youtube.com/watch?v=CcrTe2J5Ho8)  Aug 8, 2022
+* Anna Sok \_ Art - [IT'S HUGE! Huion Inspiroy Giano Review](https://www.youtube.com/watch?v=03auOS8lgAE) Oct 4, 2022
 
 ## Huion Inspiroy 2 L (H1061P)
 

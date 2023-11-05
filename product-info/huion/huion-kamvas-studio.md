@@ -9,8 +9,8 @@ Basics
 
 Reviews
 
-* Teoh on tech - ([https://youtu.be/35nqNXZs0Fk](https://youtu.be/35nqNXZs0Fk))
-* Brad Colblow - ([https://youtu.be/KO72uuKHZU8](https://youtu.be/KO72uuKHZU8))
+* Teoh on tech - [Huion Kamvas Studio 16 (review): 15.8-inch Surface Pro alternative](https://youtu.be/35nqNXZs0Fk) Mar 13, 2023&#x20;
+* Brad Colblow -[ Huion Kamvas Studio 16 Review](https://youtu.be/KO72uuKHZU8) Mar 21, 2023
 
 ## Huion Kamvas Studio 24 (KS2401)
 
@@ -21,4 +21,5 @@ Basics
 
 Reviews
 
-* Brad Colbow - ([https://youtu.be/sSRoVgFl0UU](https://youtu.be/sSRoVgFl0UU))
+* Brad Colbow - [Huion Kamvas Studio 24 Review](https://youtu.be/sSRoVgFl0UU) Mar 14, 2023
+
