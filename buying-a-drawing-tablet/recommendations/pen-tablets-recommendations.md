@@ -17,7 +17,7 @@ These are recommendations for **pen tablets** (aka **screenless tablets**)
 * MEDIUM [**Huion HS611**](broken-reference) $80 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-hs611.md))
 * MEDIUM [**XP-Pen Deco**](../../product-info/xp-pen/xp-pen-deco/) **LW** (IT1060B) $90 ([my notes](../../product-info/xp-pen/xp-pen-deco/xp-pen-deco-lw-it1060b/7p-notes-xp-pen-deco-lw-it1060b.md))
 * MEDIUM [**Huion Inspiroy 2 M (H951P)**](../../product-info/huion/huion-inspiroy/) $70 <mark style="color:red;">**NOT RECOMMENDED**</mark>
-* MEDIUM [**Huion Inspiroy RTP-700**](../../product-info/huion/huion-inspiroy-r-series.md)  $93 (<mark style="color:red;">**QUALIFIED RECOMMENDATION**</mark> - minor pressure pulsing present at low pressure visible in very large brushes)
+* MEDIUM [**Huion Inspiroy RTP-700**](../../product-info/huion/huion-inspiroy-r-series/)  $93 (<mark style="color:red;">**QUALIFIED RECOMMENDATION**</mark> - minor pressure pulsing present at low pressure visible in very large brushes)
 * MEDIUM [**One by Wacom**](../../product-info/wacom/one-by-wacom.md) **Medium** (CTL-672) $100&#x20;
 * MEDIUM [**Huion Inspiroy 2 L (H1061P**](../../product-info/huion/huion-inspiroy/)**)** $90 <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[**my notes**](../../7p-notes/7p-notes-huion/7p-notes-huion-inspiroy-2-l-h1061p.md)**)**
 

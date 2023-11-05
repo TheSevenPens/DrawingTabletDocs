@@ -23,6 +23,8 @@ Basics
 
 ## Huion Inspiroy RTP-700
 
+[**My notes on this tablet**](7p-notes-huion-inspiroy-rtp-700.md)
+
 Basics
 
 * Cost: $93
@@ -30,10 +32,7 @@ Basics
 * Active Area Diagonal: 13"
 * 7PENS owns: YES.
 * User manual: [https://www.huion.com/user-manual-95](https://www.huion.com/user-manual-95)
-
-My notes
-
-* [My notes on Huion Inspiroy RTP-700](broken-reference)
+*
 
 
 
