@@ -48,7 +48,7 @@ Even though I don't recommend taking notes with pen displays. They are better at
 
 A pen tablet will most likely survive falling off your desk. A pen display will most likely be damaged in unrepairable ways.
 
-## Power requirements (winner: pen displays)
+## Power requirements (winner: pen tablets)
 
 A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much.
 
