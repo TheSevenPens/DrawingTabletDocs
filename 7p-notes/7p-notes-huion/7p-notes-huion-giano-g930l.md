@@ -37,6 +37,6 @@ Large tablets require some adjustment to work with. If you are interested learni
 
 ## Pressure pulsing
 
-Minor pressure pulsing visible at lower pressure. Will mostly be be visible with strokes using large brushes.
+Some pressure pulsing visible at lower pressure. Will mostly be be visible with strokes using large brushes.
 
 ##

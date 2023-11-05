@@ -59,6 +59,6 @@
 
 **Reviews**
 
-* Teoh on Tech - [https://www.youtube.com/watch?v=1RcUCSL5azU](https://www.youtube.com/watch?v=1RcUCSL5azU)&#x20;
-* Brad Colbow - [https://www.youtube.com/watch?v=IHV7LsbxqsU](https://www.youtube.com/watch?v=IHV7LsbxqsU) &#x20;
-* Nemanja Sekulic - [https://www.youtube.com/watch?v=WEXXbXDrd-Y](https://www.youtube.com/watch?v=WEXXbXDrd-Y)&#x20;
+* Teoh on Tech -[ Review: Huion HS611 drawing tablet (10 x 6", tilt, Android)](https://www.youtube.com/watch?v=1RcUCSL5azU) Feb 14, 2021
+* Brad Colbow -[ Huion HS611 Review](https://www.youtube.com/watch?v=IHV7LsbxqsU) Mar 23, 2020&#x20;
+* Nemanja Sekulic - [Huion HS611 Drawing Tablet review | All you need?](https://www.youtube.com/watch?v=WEXXbXDrd-Y) Apr 28, 2020&#x20;
