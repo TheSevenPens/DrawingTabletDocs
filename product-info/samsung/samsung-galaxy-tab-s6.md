@@ -5,7 +5,7 @@
 ### Basics
 
 * If you are a beginner budget is constrained you might find that this slightly older tablet might meet your needs and is still not too expensive ($230)
-* 7PENS owns: NO
+* 7PENS owns: YES
 
 ### Videos
 
