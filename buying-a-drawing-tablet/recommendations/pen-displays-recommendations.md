@@ -20,7 +20,7 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 * SMALL [**Wacom One 2019 GEN1**](../../product-info/wacom/wacom-one-dtc-133/) (DTC-133) $400&#x20;
 * SMALL [**Wacom One 12 GEN2**](../../product-info/wacom/wacom-one-gen2/) (DTC-121) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)
-* SMALL [**XP-Pen Artist 16 GEN2**](../../product-info/xp-pen/xp-pen-artist-gen2.md)  (CD160FH) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (due to excessive diagonal wobble)&#x20;
+* SMALL [**XP-Pen Artist 16 GEN2**](../../product-info/xp-pen/xp-pen-artist-gen2/)  (CD160FH) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (due to excessive diagonal wobble)&#x20;
 * LARGE [**Huion Kamvas 22**](../../product-info/huion/huion-kamvas/) (GS2201) $450
 
 ## **$500 to $1000**

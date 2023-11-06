@@ -16,13 +16,9 @@
 
 ## Huion Kamvas 16 (GS1562)
 
-Basics
-
 * Product page: [https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html](https://www.huion.com/pen\_display/Kamvas/kamvas-16-2021.html)&#x20;
 
 ## Huion Kamvas 22 (GS2201)
-
-Basics
 
 * Model Year: 2020
 
@@ -30,7 +26,6 @@ Basics
 
 * [**My notes on this tablet**](7p-notes-huion-kamvas-22-plus.md)&#x20;
 * Model Year: 2020
-* 7PENS owns: YES
 * [Brad Colbow review of Huion Kamvas 22 Plus](https://youtu.be/GJxGzJgfYGA) Sep 8, 2020
 * [Nemanja Sekulic review of Huion Kamvas 22 Plus](https://youtu.be/mlYTRD2KmeY) Mar 4, 2022
 
@@ -48,5 +43,5 @@ Basics
 
 ## Other
 
-Teoh on Tech -[ Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) Aug 9, 2021
+* Teoh on Tech -[ Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) Aug 9, 2021
 

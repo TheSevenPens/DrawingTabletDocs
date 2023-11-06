@@ -16,7 +16,7 @@ Wacom, Xencelabs, Huion, etc. make "remotes" that essentially offload the work o
 
 ## **Creative controllers**
 
-This is a very specialized category as it is intended for creatives and not gaming. The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [**Tourbox**](tourbox.md)&#x20;
+This is a very specialized category as it is intended for creatives and not gaming. The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [**Tourbox**](tourbox/)&#x20;
 
 ## Gaming keypads
 

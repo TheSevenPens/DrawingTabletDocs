@@ -12,7 +12,7 @@ The Huion Kamvas 22 is one of the best price-to-performance pen displays in the 
 
 **Pointer lag** - normal for a pen display
 
-**Express Keys** - It has none. So, I use keyboard shorts with this device: [tourbox](../../../accessories/tourbox.md)
+**Express Keys** - It has none. So, I use keyboard shorts with this device: [tourbox](../../../accessories/tourbox/)
 
 **Corner Accuracy** - Seems to me about +/- 3mm. A little on the high side, but it will not interfere with drawing.
 
