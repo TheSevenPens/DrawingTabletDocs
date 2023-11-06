@@ -12,6 +12,7 @@
     * [Pen tablet recommendations](buying-a-drawing-tablet/recommendations/pen-tablets-recommendations.md)
     * [Pen display recommendations](buying-a-drawing-tablet/recommendations/pen-displays-recommendations.md)
     * [Pen computer recommendations](buying-a-drawing-tablet/recommendations/pen-computer-recommendations.md)
+    * [Pen computer alternative recommendations](buying-a-drawing-tablet/recommendations/pen-computer-alternative-recommendations.md)
   * [Using an iPad as a drawing tablet](buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
   * [The case against pen computers](buying-a-drawing-tablet/the-case-against-pen-computers.md)
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)

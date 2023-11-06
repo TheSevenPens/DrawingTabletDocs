@@ -12,7 +12,7 @@ Before you look at the recommendations, I recommend you read:
 
 * [**Pen tablets**](pen-tablets-recommendations.md) (tablets without a screen. Example: Wacom Intuos, etc.)
 * [**Pen displays**](pen-displays-recommendations.md) (tablets with a screen. Example: Wacom Cintiq, etc.)
-* [**Pen computers**](pen-computer-recommendations.md) (tablets with a screen that don't need a PC. Example: Apple iPad)
+* [**Pen computers**](pen-computer-recommendations.md) (tablets with a screen that don't need a PC. Wacom Mobile Studio Pro)
 
 ## Notes on recommendations
 
