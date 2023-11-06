@@ -27,20 +27,20 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 * SMALL [**Wacom One 13 touch** **GEN2**](../../product-info/wacom/wacom-one-gen2/) (DTH-134) $600 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)&#x20;
 * MEDIUM [**Wacom Cintiq 16**](../../product-info/wacom/wacom-cintiq.md) (DTK-1660) $650
-* MEDIUM [**Huion Kamvas Pro 16 Plus 4K**](../../product-info/huion/huion-kamvas-pro/) (GT1562) $900 (<mark style="color:red;">**QUALIFIED RECOMMENDATION**</mark> - has a lot of AG sparkle)&#x20;
+* MEDIUM [**Huion Kamvas Pro 16 Plus 4K**](../../product-info/huion/huion-kamvas-pro/) (GT1562) $900 (has a lot of AG sparkle)&#x20;
 * MEDIUM [**XP-Pen Artist Pro 16 GEN2**](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md) (MD160QH) $600 <mark style="color:red;">**UNDER EVALUATION**</mark>
 * LARGE [**Huion Kamvas 22 Plus**](../../product-info/huion/huion-kamvas/) (GS2202) $550&#x20;
 * LARGE [**Huion Kamvas 24 Plus**](../../product-info/huion/huion-kamvas/) (GS2402) $900&#x20;
 
 ## $1000 to $1500
 
-* MEDIUM [**Wacom Cintiq Pro 16**](../../product-info/wacom/wacom-cintiq-pro/) (DTH-167) $1500 ([my notes](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md))
+* MEDIUM [**Wacom Cintiq Pro 16**](../../product-info/wacom/wacom-cintiq-pro/) (DTH-167) $1500 ([<mark style="background-color:red;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md))
 * LARGE [**Wacom Cintiq 22**](../../product-info/wacom/wacom-cintiq.md) (DTK-2260) $1200
-* LARGE [**Huion Kamvas Pro 24 4K**](../../product-info/huion/huion-kamvas-pro/) **(GT2401)** $1300 ([my notes](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
+* LARGE [**Huion Kamvas Pro 24 4K**](../../product-info/huion/huion-kamvas-pro/) **(GT2401)** $1300 ([<mark style="background-color:red;">my notes</mark>](../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
 
 ## $1500 - $2000
 
-* LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/xencelabs-pen-display-24.md) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([my notes](../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md))
+* LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/xencelabs-pen-display-24.md) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([<mark style="background-color:red;">**my notes**</mark>](../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md))
 
 ## $2000 - $3000
 
