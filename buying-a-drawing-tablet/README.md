@@ -1,6 +1,6 @@
 # Buying a drawing tablet
 
-Updated: 2023/08/23
+Updated: 2023/11/06
 
 ## Intro
 
@@ -138,9 +138,7 @@ Pen displays are thicker. Smaller pen displays can be around 10mm but as their s
 
 ### Surface texture
 
-If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper.
-
-Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
+If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
 
 ### Posture
 
@@ -165,6 +163,14 @@ Pen tablets do not have legs. If you want to place them at an angle, you will ne
 ### Right-handed vs left-handed use
 
 All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md).
+
+### Noise
+
+You may have strong preferences about **noise**. Generally drawing tablets are considered very quiet, and some are completely silent. More details here: [**Noise**](./#noise)&#x20;
+
+### Heat
+
+Drawing tablets are either room temperature or slightly warm depending on the kind of drawing tablet. More here: [**Heat**](../guides/ergonomics/heat.md)&#x20;
 
 ## Taking notes
 
@@ -201,7 +207,14 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 Pen tablets overall are much simpler devices than pen displays. As a consequence they are much more reliable.
 
+## Troubleshooting
 
+At some point, something is going to go wrong. You should be prepared for it.
+
+More here:
+
+* &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
+* &#x20;[**troubleshooting**](../troubleshooting/)  &#x20;
 
 ## Things to check before you buy a tablet
 

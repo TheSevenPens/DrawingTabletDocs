@@ -73,11 +73,7 @@ Pen computers cost between $1000 to $3500.
 
 ## Apple iPads
 
-Often when I see people describe what they want in a drawing tablet, it sounds exactly like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
-
-## Pen tablets vs pen displays
-
-Pen displays are NOT an inherently better choice than pen tablets. Many people try pen displays and learn they don't enjoy using them and go back to pen tablets. They each have strengths and weaknesses. More here: [**Pen tablets vs Pen displays**](beginners-guide.md#pen-tablets-vs-pen-displays) &#x20;
+Technically, Apple iPads are not drawing tablets. But they can work well in that role. Often when I see people describe what they want in a drawing tablet, it sounds **exactly** like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
 ## What people do with their tablets
 
@@ -127,19 +123,11 @@ All **pen tablets** can be connected with a single USB cable. Many pen tablets (
 
 Any application on your computer, will treat the pen just as if you have a mouse. So, broadly speaking, **all applications are compatible with drawing tablet**.
 
-**Pen-aware applications** know you are using a pen and take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications.
-
-More here: [**applications**](../applications/)&#x20;
+If the tablet driver is installed, then **Pen-aware applications** take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications. More here: [**applications**](../applications/)&#x20;
 
 ## Pen nibs
 
 At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [**nib wear**](caring-for-your-tablet/nib-wear.md)  &#x20;
-
-## Ergonomics
-
-You may have strong preferences about **noise**. Generally drawing tablets are considered very quiet, and some are completely silent. More details here: [**Noise**](beginners-guide.md#noise)&#x20;
-
-Drawing tablets are either room temperature or slightly warm depending on the kind of drawing tablet. More here: [**Heat**](ergonomics/heat.md)&#x20;
 
 ## Drawing with a tablet vs a mouse
 
@@ -150,15 +138,6 @@ Using the tablet driver, you can make tablet and pen work more like a mouse by u
 ## Using a drawing tablet with an iOS device
 
 Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](general/using-a-drawing-tablet-with-an-ios-device.md).
-
-## The typical problems people have with drawing tablets
-
-At some point, something is going to go wrong. You should be prepared for it.
-
-More here:
-
-* &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
-* &#x20;[**troubleshooting**](../troubleshooting/)  &#x20;
 
 ## Other topics to explore
 
