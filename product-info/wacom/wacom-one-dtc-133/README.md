@@ -16,10 +16,10 @@
 
 **Reviews**
 
-* Teoh On Tech ([https://www.youtube.com/watch?v=Hv2dpHkLAOE](https://www.youtube.com/watch?v=Hv2dpHkLAOE))
-* Brad Colbow ([https://www.youtube.com/watch?v=EFvpOWZDGUU](https://www.youtube.com/watch?v=EFvpOWZDGUU))
-* Create Now Sleep Later ([https://youtu.be/VPbAUF7AZhA](https://youtu.be/VPbAUF7AZhA))
-* Aaron Rutten ([https://www.youtube.com/watch?v=D4DFFH-hPr8](https://www.youtube.com/watch?v=D4DFFH-hPr8))
+* [Teoh On Tech review of Wacom One GEN1](https://www.youtube.com/watch?v=Hv2dpHkLAOE)
+* [Brad Colbow review of Wacom One GEN1](https://www.youtube.com/watch?v=EFvpOWZDGUU) &#x20;
+* [Create Now Sleep Later review of Wacom One GEN1](https://youtu.be/VPbAUF7AZhA) &#x20;
+* [Aaron Rutten review of Wacom One GEN1](https://www.youtube.com/watch?v=D4DFFH-hPr8) &#x20;
 
 **Reddit threads**
 
