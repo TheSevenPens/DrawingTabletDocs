@@ -40,7 +40,7 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 ## $1500 - $2000
 
-* LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/xencelabs-pen-display-24.md) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([<mark style="background-color:red;">**my notes**</mark>](../../7p-notes/7p-notes-xencelabs/7p-notes-xencelabs-pen-display-24.md))
+* LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([<mark style="background-color:red;">**my notes**</mark>](../../product-info/xencelabs/7p-notes-xencelabs-pen-display-24.md))
 
 ## $2000 - $3000
 
