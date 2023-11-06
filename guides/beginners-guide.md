@@ -53,12 +53,6 @@ Key attributes:
 
 A pen display may look like a laptop or an iPad. However unlike those devices you should be aware that the tablet will always have to have at least one cord coming from it that is connected to a computer.&#x20;
 
-Pen displays need a lot more power than a pen tablet and they do not have a battery. So at least one of the cables connecting the pen display must provide enough power. Sometimes a laptop or PC can provide enough power, however, somtimes you must connect a cable to a power adaptor.
-
-It is easiest to understand pen displays as plastic box with two separate devices inside it: (1) a pen tablet and (2) a monitor. In fact that's exactly what your computer thinks this device is.&#x20;
-
-Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](pen-displays/using-a-pen-display-as-a-monitor.md).
-
 Pen displays cost between $300 to $3500.&#x20;
 
 ### Pen computers
@@ -67,13 +61,13 @@ Pen displays cost between $300 to $3500.&#x20;
 
 These are also called "Standalone drawing tablets".
 
-Some people love using pen computers but I don't think pen computers are good choice for the vast majority of people. I recommend other devices such as the Apple iPad. More here: [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
+Some people love using pen computers but [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
 
 Pen computers cost between $1000 to $3500.
 
 ## Apple iPads
 
-Technically, Apple iPads are not drawing tablets. But they can work well in that role. Often when I see people describe what they want in a drawing tablet, it sounds **exactly** like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
+Apple iPads are not drawing tablets. But they can work well in that role. Often when I see people describe what they want in a drawing tablet, it sounds **exactly** like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
 ## What people do with their tablets
 
@@ -101,11 +95,9 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 ## The active area
 
-The active area is the region on the tablet that your draw on. More here: [active area](core-features/active-area.md).
+The active area is the region on the tablet that your draw on. More here: [**active area**](core-features/active-area.md).
 
 ## Tablet size
-
-**Tablet size = size of the active area**
 
 When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](core-features/choosing-the-right-tablet-size.md)
 
@@ -134,10 +126,6 @@ At the end of the pen that touches the tablet is a little replaceable nib. Mostl
 A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md).
 
 Using the tablet driver, you can make tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
-
-## Using a drawing tablet with an iOS device
-
-Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](general/using-a-drawing-tablet-with-an-ios-device.md).
 
 ## Other topics to explore
 

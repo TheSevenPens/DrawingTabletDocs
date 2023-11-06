@@ -82,6 +82,7 @@ A few drawing tablets support touch. Overall touch is not great. I do not recomm
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
+* Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/pen-displays/using-a-pen-display-as-a-monitor.md).
 
 ## Connectivity: wired and wireless
 
@@ -220,4 +221,8 @@ More here:
 
 Before you commit to buying a tablet, here are some things to work through: [**Before-purchase checklist**](before-purchase-checklist.md).
 
-###
+## Miscellaneous topics
+
+### Using a drawing tablet with an iOS device
+
+Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](../guides/general/using-a-drawing-tablet-with-an-ios-device.md).
