@@ -201,23 +201,10 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 Pen tablets overall are much simpler devices than pen displays. As a consequence they are much more reliable.
 
-### Model names vs model numbers
 
-Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
 
-Here is an example. Wacom has two tablets with similar names but that are very different: **Wacom One** (a pen display) and **One by Wacom** (a pen tablet). More about the differences here: [Wacom One vs One by Wacom](../drawing-tablet-brands/wacom/wacom-one-vs-one-by-wacom.md)&#x20;
+## Things to check before you buy a tablet
 
-* NEVER order by using the name of the tablet alone.
-* ALWAYS verify you have ordered correct model number.
+Before you commit to buying a tablet, here are some things to work through: [**Before-purchase checklist**](before-purchase-checklist.md).
 
-### Reviews&#x20;
-
-<mark style="color:red;">**Never purchase a tablet without looking at the reviews first.**</mark>
-
-Some reviewers to explore:
-
-* **Teoh on Tech** ([https://www.youtube.com/@teohontech7141](https://www.youtube.com/@teohontech7141)) Teoh has the most in-depth reviews of tablets of anyone I have seen.
-* **Create Now Sleep Later** ([https://www.youtube.com/c/Createnowsleeplater)](https://www.youtube.com/c/Createnowsleeplater)
-* **Brad Colbow** ([https://www.youtube.com/c/thebradcolbow)](https://www.youtube.com/c/thebradcolbow)
-* **Aaron Rutten** ([https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
-* **Adam Duff** ([https://www.youtube.com/@AdamDuffArt) ](https://www.youtube.com/@AdamDuffArt)
+###

@@ -15,6 +15,7 @@
   * [Using an iPad as a drawing tablet](buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
   * [The case against pen computers](buying-a-drawing-tablet/the-case-against-pen-computers.md)
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
+  * [Before-purchase checklist](buying-a-drawing-tablet/before-purchase-checklist.md)
 * [Drawing tablet brands](drawing-tablet-brands/README.md)
 * [Guides](guides/README.md)
   * [Beginner's guide to drawing tablets](guides/beginners-guide.md)
