@@ -5,5 +5,5 @@
 
 ## Videos
 
-Winged Canvas - MediBang VS Clip Studio Paint: Which Should I Use? ([https://www.youtube.com/watch?v=XS6uw2OxZ9w](https://www.youtube.com/watch?v=XS6uw2OxZ9w)) Mar 21, 2023
+* [Winged Canvas - MediBang VS Clip Studio Paint: Which Should I Use?](https://www.youtube.com/watch?v=XS6uw2OxZ9w) Mar 21, 2023
 
