@@ -22,9 +22,7 @@ Excellent resolution. Big improvement over an HD screen.
 
 ## **Aspect Ratio**
 
-16:10 instead of 16:9
-
-I like the 16:10 Aspect ratio
+16:10 instead of 16:9. I like the 16:10 Aspect ratio.&#x20;
 
 ## **Can be connected with a single USB-C cable?**
 
@@ -38,5 +36,5 @@ None
 
 RATING: OK
 
-<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (2).png" alt=""><figcaption></figcaption></figure>
 
