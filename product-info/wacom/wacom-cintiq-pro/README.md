@@ -15,6 +15,7 @@
 
 * Model Year: 2023
 * Product Page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html)&#x20;
+* [Brad Colbow review of Cintiq Pro 17](https://www.youtube.com/watch?v=JBn727A9pAc) &#x20;
 
 ## Cintiq Pro 22 (DTH-227)
 
