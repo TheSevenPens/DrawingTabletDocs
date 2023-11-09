@@ -8,7 +8,8 @@
 
 ## Huion Kamvas Pro 16 Plus 4K (GT1562)
 
-* **My notes on this tablet -** Exhibits very strong [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
+* **My notes on this tablet**
+  * Exhibits very strong [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
 * Model Year: 2021
 * User manual: [https://www.huion.com/manaul\_pdf/en/Kamvas%20Pro%2016%20Plus%20(4K).pdf](https://www.huion.com/manaul\_pdf/en/Kamvas%20Pro%2016%20Plus%20\(4K\).pdf)
 * [Teoh on Tech review of Huion Kamvas Pro 16 Plus 4K ](https://www.youtube.com/watch?v=0sfbhhXoR8E)Jun 10, 2021

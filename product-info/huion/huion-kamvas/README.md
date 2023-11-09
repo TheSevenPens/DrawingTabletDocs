@@ -43,5 +43,5 @@
 
 ## Other
 
-* Teoh on Tech -[ Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) Aug 9, 2021
+* [Teoh on Tech - Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) Aug 9, 2021
 
