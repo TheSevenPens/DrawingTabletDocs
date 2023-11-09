@@ -49,6 +49,13 @@ Nibs are typically made of plastic or felt. And the material choice will affect 
 * Some tablets like the Wacom Intuos Pro have replaceable **texture sheets**. In Wacom's case there are three texture styles: standard, smooth, rough. Try the smooth texture sheet.
 * I do NOT recommend [**using a metal nib**](../pens/using-metal-nibs.md).
 
+## When should you replace you nib?
+
+I recommend you replace you nib when:
+
+* Most of the tip has become flat
+* The nib is getting short - inb remover tools need to be able to grasp enough of the nib to pull it out. If you let them get to short, they are going to be stuck or very difficult to remove.
+
 ## Resources
 
 Here's some videos related to this topic:
