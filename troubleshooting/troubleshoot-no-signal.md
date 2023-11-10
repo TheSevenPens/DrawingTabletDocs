@@ -57,6 +57,12 @@ In your operating system's **Display Settings**, you should see two displays. An
 
 If your computer doesn't think there is a display attached, it certainly isn't going to send a signal to it. So if you don't see this detection, follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
 
+## Verify that you operating system is trying to use the display.
+
+Sometimes you operating system knows the display is there, but it is deliberately not sending a display signal to it.
+
+For example, in Windows for the display in your tablet, Windows might be configured to "show desktop only on Display \<X>" - change it to one of the other options that will use the tablet display.&#x20;
+
 ### Verify that the pen display can receive an HDMI signal
 
 Try connecting your pen display to another source of HDMI input. This can be anything: another PC, a laptop, a XBOX, a camera, anything that sends a signal via an HDMI port.
