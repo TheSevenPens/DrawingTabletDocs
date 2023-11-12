@@ -4,6 +4,10 @@
 
 There are various kinds of protectors available to help you preserve your investment in your tablet. Chiefly they protect against permanent scratches in your tablet. You'll want to avoid these scratches because if they get big enough they can be irritating to draw. Also they can be large enough to deflect the tip of the pen - making it impossible to draw a smooth straight line because the pen will suddenly move as it jumps while moving over the scratch.
 
+## Why they work
+
+The EMR signal of a in a drawing tablet and pen travels right through non-metallic materials. It's clear this must be true since with a pen tablet the signal passes right through the plastic surface of a pen tablet. Likewise, for a pen display the signal passes through glass.
+
 ## Pen displays vs pen tablets
 
 Some of the protection options are only relevant for pen tablets because they are not transparent. Pen displays will need something close to transparent to be used. For each option I have indicated whether it can be used for a pen display.
