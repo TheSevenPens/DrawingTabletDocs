@@ -147,11 +147,9 @@ Both Huion and XP-pen models tested exhibit the typical pointer lag present with
 Manufacturers don't publish lag numbers. So, this is subjective:
 
 * The Huion has about the same amount of lag as the Wacom One
-* The XP-Pen model has maybe 30% more lag than the Huion model&#x20;
+* The XP-Pen model has a bit more more lag than the Huion model&#x20;
 
-Both tables can be successfully used for creative applications. But Huion is the clear winner here over the XP-Pen model.&#x20;
-
-None of these come close to the pointer lag apparent in an Apple iPad. For that matter neither does the Wacom Cintiq Pro 27.&#x20;
+Both tables can be successfully used for creative applications. But Huion is the winner here over the XP-Pen model.
 
 ### Parallax
 
