@@ -177,6 +177,7 @@
     * [7P notes: Apple iPad Pro](product-info/apple/7p-notes-apple-ipad-pro.md)
   * [Huion](product-info/huion/README.md)
     * [Huion Kamvas Pro](product-info/huion/huion-kamvas-pro/README.md)
+      * [7P notes: Huion Kamvas Pro 16 Plus 4K (GT1562)](product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)
       * [7P notes: Huion Kamvas Pro 24 4K (GT2401)](7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md)
     * [Huion Kamvas Studio](product-info/huion/huion-kamvas-studio/README.md)
     * [Huion Kamvas](product-info/huion/huion-kamvas/README.md)
