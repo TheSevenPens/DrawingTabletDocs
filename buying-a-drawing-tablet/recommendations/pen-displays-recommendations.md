@@ -27,7 +27,7 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 * SMALL [**Wacom One 13 touch** **GEN2**](../../product-info/wacom/wacom-one-gen2/) (DTH-134) $600 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)&#x20;
 * MEDIUM [**Wacom Cintiq 16**](../../product-info/wacom/wacom-cintiq.md) (DTK-1660) $650
-* MEDIUM [**Huion Kamvas Pro 16 Plus 4K**](../../product-info/huion/huion-kamvas-pro/) (GT1562) $900 (has a lot of AG sparkle)&#x20;
+* MEDIUM [**Huion Kamvas Pro 16 Plus 4K**](../../product-info/huion/huion-kamvas-pro/) (GT1562) $900 ([<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)) (has a lot of AG sparkle)&#x20;
 * MEDIUM [**XP-Pen Artist Pro 16 GEN2**](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md) (MD160QH) $600 ([<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
 * LARGE [**Huion Kamvas 22 Plus**](../../product-info/huion/huion-kamvas/) (GS2202) $550 ([<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-22-plus.md))
 * LARGE [**Huion Kamvas 24 Plus**](../../product-info/huion/huion-kamvas/) (GS2402) $900&#x20;
