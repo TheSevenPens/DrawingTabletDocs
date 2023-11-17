@@ -54,7 +54,7 @@ Nibs are typically made of plastic or felt. And the material choice will affect 
 I recommend you replace you nib when:
 
 * Most of the tip has become flat
-* The nib is getting short - inb remover tools need to be able to grasp enough of the nib to pull it out. If you let them get to short, they are going to be stuck or very difficult to remove.
+* The nib is getting short - nib remover tools need to be able to grasp enough of the nib to pull it out. If you let them get to short, they are going to be stuck or very difficult to remove.
 
 ## Resources
 
