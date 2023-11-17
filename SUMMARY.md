@@ -143,6 +143,7 @@
   * [Krita](applications/krita.md)
   * [Medibang Paint](applications/medibang.md)
   * [Microsoft Whiteboard](applications/microsoft-whiteboard.md)
+  * [Microsoft PowerPoint](applications/microsoft-powerpoint.md)
   * [Microsoft OneNote](applications/microsoft-onenote.md)
   * [Painter](applications/painter.md)
   * [PaintTool Sai](applications/painttool-sai.md)
