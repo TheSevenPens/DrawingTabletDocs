@@ -8,4 +8,4 @@
 
 ## Videos
 
-* Brad Colbow - HiPaint - A Procreate Clone for Android - ([https://youtu.be/PeIJGLkwLKU](https://youtu.be/PeIJGLkwLKU)) May 15, 2023
+* [Brad Colbow - HiPaint - A Procreate Clone for Android](https://youtu.be/PeIJGLkwLKU) May 15, 2023

@@ -4,7 +4,7 @@
 
 If you are new to drawing tablets, after reading this guide you'll understand how these devices work and be prepared to use one or to purchase one.&#x20;
 
-Read this document first, then take a look at my guide to [**Buying a drawing tablet**](../buying-a-drawing-tablet/). It has links to  my [**recommendations**](../recommendations/).&#x20;
+Read this document first, then take a look at my guide to [**Buying a drawing tablet**](../buying-a-drawing-tablet/). It has links to  my [**recommendations**](../buying-a-drawing-tablet/recommendations/).&#x20;
 
 ## Basics
 

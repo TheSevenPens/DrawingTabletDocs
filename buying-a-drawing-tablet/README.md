@@ -12,7 +12,7 @@ If you are new to drawing table, read this first: [**Beginner's guide to drawing
 
 ## My recommendations
 
-If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](../recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
+If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
 
 {% hint style="info" %}
 I strongly urge you to read this buying guide and beginner's guide completely before you jump directly to the recommendations. &#x20;

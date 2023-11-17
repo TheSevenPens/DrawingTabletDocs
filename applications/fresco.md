@@ -13,5 +13,5 @@ Adobe focusing on Fresco for when people want to do drawing and painting, sendin
 
 ## **Videos**
 
-* Adobe Fresco Tutorial for Beginners: Getting Started in 2023! Feb 28, 2023 ([https://youtu.be/pW2QpieN4fE](https://youtu.be/pW2QpieN4fE))
-* What's new in Adobe Fresco? Feb 15, 2023 ([https://youtu.be/6\_RC3P2TOoU](https://youtu.be/6\_RC3P2TOoU))
+* [Adobe Fresco Tutorial for Beginners: Getting Started in 2023!](https://youtu.be/pW2QpieN4fE) Feb 28, 2023&#x20;
+* [What's new in Adobe Fresco?](https://youtu.be/6\_RC3P2TOoU) Feb 15, 2023&#x20;
