@@ -8,7 +8,7 @@
 
 ## Videos
 
-* Grant Abbitt - How to Set Up a Graphics Tablet | Blender 2.8 & 2.79 ([https://www.youtube.com/watch?v=L2Jgyek33rQ](https://www.youtube.com/watch?v=L2Jgyek33rQ)) Dec 24, 2018
+* [Grant Abbitt - How to Set Up a Graphics Tablet | Blender 2.8 & 2.79](https://www.youtube.com/watch?v=L2Jgyek33rQ) Dec 24, 2018
 
 
 
