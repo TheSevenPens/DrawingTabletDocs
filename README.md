@@ -22,6 +22,7 @@ Key content to explore:
 * [**Beginner's guide to drawing tablets**](guides/beginners-guide.md)
 * [**Buying a drawing tablet**](buying-a-drawing-tablet/)&#x20;
 * [**Drawing tablet brands**](drawing-tablet-brands/)    &#x20;
+* [**Recommendations**](buying-a-drawing-tablet/recommendations/)
 * [**Guides**](guides/)&#x20;
 * [**Applications**](applications/) &#x20;
 * [**Troubleshooting**](troubleshooting/)&#x20;
