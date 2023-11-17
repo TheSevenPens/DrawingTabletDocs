@@ -50,64 +50,34 @@ This is why you MUST choose a brand that:
 * Supports its customers well
 * Has enough other people using their tablets, so that you can get help from the community.&#x20;
 
-## Tier 1
+## Tiers
 
-Most products excellent
+I segment the brands into tiers, to make it easier to steer people to help set expectations and guide recommendations.
+
+**Tier 1** is currently just one brand, Wacom. Most of their products are excellent with some exceptions. Best drawing experience. I consider them a safe choice.&#x20;
 
 * Wacom - [https://www.wacom.com/](https://www.wacom.com/) ([**my notes on wacom**](7p-notes-wacom.md))
 
-## **Tier 2**
-
-**Some** products very good. Research your choice. Not as refined drawing experience as Tier 1.&#x20;
+**Tier 2** trails Wacom in tech. Customer support is also trailing but improving. Community is large so you can find help from others. Large porfolio of tablets - too large actually. Research your choice and you should find something that works well for you. Drawing experience good, typically you may find you need to perform more customization (pressure curves, etc.) to get the drawing experience that works for you. &#x20;
 
 [**My notes on Huion and Xencelabs**](7p-notes-huion-and-xp-pen.md)&#x20;
 
 * Huion - [https://huion.com/](https://huion.com/)&#x20;
 * XP-Pen - [https://www.xp-pen.com/](https://www.xp-pen.com/)&#x20;
 
-## Tier 3
-
-Generally have smaller portfolios, less responsive customer support, and smaller communities.
-
-Many of these share the same technology as the Tier 2 brands.
+**Tier 3** - All these brands the same technology as the Tier 2 brands. In fact they are even owned by the same companies. But have smaller portfolios, less responsive customer support, and smaller communities.&#x20;
 
 * Xencelabs - [https://www.xencelabs.com/us](https://www.xencelabs.com/us) ([**my notes on xencelabs**](7p-notes-xencelabs.md))
 * Artisul - [https://artisul.com/](https://artisul.com/)
 * Gaomon - [https://www.gaomon.net/](https://www.gaomon.net/)&#x20;
 * Ugee - [https://www.ugee.com/](https://www.ugee.com/)
 
-## Tier 4
-
-Very small portfolios. Don't have much information on these brands.
+**Tier 4** - Very small portfolios. Don't have much information on these brands.
 
 * Veikk - [https://www.veikk.com/](https://www.veikk.com/)
 * Parblo&#x20;
 
-## Tier 5
-
-Everyone else. Avoid
-
-
-
-##
-
-##
-
-## Tier 3: The small players
-
-I don't recommend tier 3 brands. They just don't have much presence in market and the customer support is lacking.&#x20;
-
-Included brands:
-
-* Artisul - [https://artisul.com/](https://artisul.com/)
-* Gaomon - [https://www.gaomon.net/](https://www.gaomon.net/)
-*
-* Ugee - [https://www.ugee.com/](https://www.ugee.com/)
-* Veikk - [https://www.veikk.com/](https://www.veikk.com/)
-
-## Tier 4: Every other brand
-
-Save yourself problems and avoid any tier 4 products.&#x20;
+**Tier 5** - Everyone else. Avoid&#x20;
 
 ## Digitizers vs brands
 
