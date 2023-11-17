@@ -168,14 +168,17 @@ All drawing tablets have multiple components, but the primary component is the E
 And despite all the many brands of drawing tablets you see, there are only a couple of manufacturers of digitizers. These are:
 
 * Wacom
-* UGEE
-* UCLogic ([https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.](https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.))
+* Hanvon Ugee
+* Huion (and UCLogic)
+  * UCLogic ([https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.](https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.))
 
 **Wacom digitizers** are used in only Wacom tablets. These are the best digitizers.
 
 **Ugee digitizers** are used in Xencelabs and XP-pen tablets
 
-**UCLogic digitizers** are used in Gaomon, Huion, Veikk, and Parblo tablets.
+**Huion digitizers** are used in Gaomon, Huion, Veikk, and Parblo tablets.
+
+**UCLogic digitizers** are used in Artisul tablets.
 
 ## Online community forums
 
