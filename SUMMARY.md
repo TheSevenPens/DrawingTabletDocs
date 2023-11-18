@@ -18,7 +18,7 @@
   * [Pen computer recommendations](buying-a-drawing-tablet/recommendations/pen-computer-recommendations.md)
   * [Pen computer alternative recommendations](buying-a-drawing-tablet/recommendations/pen-computer-alternative-recommendations.md)
 * [Drawing tablet brands](drawing-tablet-brands/README.md)
-  * [7p notes: Huion and XP-Pen](drawing-tablet-brands/7p-notes-huion-and-xp-pen.md)
+  * [7P notes: Huion and XP-Pen](drawing-tablet-brands/7p-notes-huion-and-xp-pen.md)
   * [7P notes: Xencelabs](drawing-tablet-brands/7p-notes-xencelabs.md)
   * [7P notes: Wacom](drawing-tablet-brands/7p-notes-wacom.md)
 * [Guides](guides/README.md)

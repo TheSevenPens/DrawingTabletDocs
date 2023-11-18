@@ -1,6 +1,6 @@
-# 7p notes: Huion and XP-Pen
+# 7P notes: Huion and XP-Pen
 
-## Tier 2: Huion and XP-Pen
+## Overview
 
 **HUION** ([https://www.huion.com/](https://www.huion.com/)) and **XP-PEN** ([https://www.xp-pen.com/](https://www.xp-pen.com/)) are the next big tablet brands. Their recent (2021, 2022) models have been pretty good - but still trail Wacom a bit in quality and reliability. In general I think they offer 90% of what you get with a WACOM but at a substantial price reduction.&#x20;
 

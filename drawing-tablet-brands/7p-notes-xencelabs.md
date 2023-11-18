@@ -1,6 +1,6 @@
 # 7P notes: Xencelabs
 
-## Tier 2: Xencelabs
+## Overview
 
 Xencelabs ([https://www.xencelabs.com/](https://www.xencelabs.com/)) is trying to position itself as a direct competitor to Wacom - as you can see from the pricing of their products.
 
