@@ -7,8 +7,7 @@
 
 ## Huion Kamvas 13 (GS1331)
 
-* My notes: Exhibits moderate [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md) &#x20;
-* Model year: 2020
+* [**My notes on this tablet**](7p-notes-huion-kamvas-13-gs1331.md)
 * User manual: [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)&#x20;
 * [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) May 1, 2020
 * [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q\_nhFQ) Mar 26, 2020

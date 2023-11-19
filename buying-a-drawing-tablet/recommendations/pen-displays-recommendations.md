@@ -10,11 +10,10 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 * pen displays have to be used with a computer. They do not work standalone.
 * Make sure you know about [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
 * [**7P notes on 13" pen displays**](../../7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
-* Pen displays have more pointer lag than pen tablets. More here: [lag](../../guides/core-features/lag.md)&#x20;
 
 ## $200 to $300 &#x20;
 
-* SMALL [**Huion Kamvas 13** (GS1331](../../product-info/huion/huion-kamvas/)) $240&#x20;
+* SMALL [**Huion Kamvas 13** (GS1331](../../product-info/huion/huion-kamvas/)) $240 ([**my notes**](../../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
 
 ## $300 to $500
 

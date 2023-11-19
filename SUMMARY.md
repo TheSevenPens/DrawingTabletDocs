@@ -185,6 +185,7 @@
       * [7P notes: Huion Kamvas Pro 24 4K (GT2401)](7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md)
     * [Huion Kamvas Studio](product-info/huion/huion-kamvas-studio/README.md)
     * [Huion Kamvas](product-info/huion/huion-kamvas/README.md)
+      * [7P notes: Huion Kamvas 13 (GS1331)](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md)
       * [7P notes: Huion Kamvas 22 Plus](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-22-plus.md)
     * [Huion Inspiroy R-series](product-info/huion/huion-inspiroy-r-series/README.md)
       * [7P Notes: Huion Inspiroy RTP-700](product-info/huion/huion-inspiroy-r-series/7p-notes-huion-inspiroy-rtp-700.md)
