@@ -4,6 +4,8 @@
 
 There are many tablet brands. And picking the brand of the tablet is one of the most important decisions you will need to make.
 
+## Video
+
 I covered brands extensively in this video: [https://youtu.be/kw7fKQik3YY](https://youtu.be/kw7fKQik3YY)&#x20;
 
 ## Pre-reading
@@ -13,23 +15,27 @@ If you are here you may be new to drawing tablets or may want to purchase one. T
 * [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
 * [Buying a drawing tablet](../buying-a-drawing-tablet/)
 
-## Simplified drawing tablet history
+## Simplified and condensed history drawing tablet
 
 **1980 - 2000**
 
-Wacom (founded 1983) has been the leading tablet brand for decades. And for a long time they were essentially the only tablet brand. Wacom brought the EMR technology to drawing tablets back in the 1980s.
+Wacom (founded 1983). Wacom brings the EMR technology to drawing tablets.
 
 **2000 - 2020**
 
-Other tablet brands started appearing in the 2000s (Huion: 2011, XP-Pen: 2005) For a long time these brands lagged behind Wacom’s technology. For example, they would often have pens that required a battery whereas all of Wacom's pens have always been batteryless for a very long time - And instead get their power from just being close to the tablet. The reason these other tablet brands lagged behind for a while was very simple: Wacom held the core patents for drawing tablets.
+Other tablet brands started appearing in the 2000s (Huion: 2011, XP-Pen: 2005).
+
+For a long time these brands lagged behind Wacom’s technology because Wacom held the core patents for drawing tablets.
 
 **2010 - 2020**
 
-Eventually those Wacom patents expired (before 2010 if I recall correctly) and these other brands could then use EMR technology to provide the full batteryless experience.
+Eventually Wacom patents expired (by \~2010?) and then other brands could then use EMR technology to provide the full batteryless experience.
 
 **2020 - ?**
 
-There are a lot of tablet brands but Wacom still reigns. Xencelabs (founded: 2019) entered the market and specifically targets professional creative users.&#x20;
+There are a lot of tablet brands but Wacom still reigns.&#x20;
+
+Xencelabs (founded: 2019) entered the market and specifically targets professional creative users.&#x20;
 
 ## Current state of the market (2023)
 
@@ -39,8 +45,9 @@ There are a lot of tablet brands but Wacom still reigns. Xencelabs (founded: 201
 * **Huion and XP-pen** since about 2021 have been releasing some really solid devices
   * And although they have a large lineup of products that can be a little confusing
   * And if you're looking at their very latest tablets that are being released in 2022 or 2023 - these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
-* And after those brands there are many others that seem to focus more on budget consumer offerings.&#x20;
-  * One exception to the focus on budget consumer offerings is **Xencelabs** (founded 2019) - a new brand focused only on professional tablets and have a very strong focus on customer support.
+* **Others**
+  * After Wacom, Huion, XP-Pen, there are many other brands that focus on budget or consumer tablets.&#x20;
+  * **Xencelabs** (founded 2019) - a new brand focused only on professional tablets and have a very strong focus on customer support.
 
 ## Customer support
 
@@ -88,18 +95,13 @@ All drawing tablets have multiple components, but the primary component is the E
 
 And despite all the many brands of drawing tablets you see, there are only a couple of manufacturers of digitizers. These are:
 
-* Wacom
-* Hanvon Ugee
-* Huion (and UCLogic)
-  * UCLogic ([https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.](https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.))
-
-**Wacom digitizers** are used in only Wacom tablets. These are the best digitizers.
-
-**Ugee digitizers** are used in Xencelabs and XP-pen tablets
-
-**Huion digitizers** are used in Gaomon, Huion, Veikk, and Parblo tablets.
-
-**UCLogic digitizers** are used in Artisul tablets.
+* **Wacom**
+  * Wacom digitizers are used in their own products.
+* **Hanvon Ugee**.&#x20;
+  * Supplies digitizers for: Xencelabs and XP-pen tablets
+* **Huion**&#x20;
+  * Supplies digitizers for: Gaomon, Huion, Veikk tablets. And for Artisul taablets through their acquisition of UCLogic.
+  * Huion acquired UCLogic in 2019 ([https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.](https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.))
 
 ## Online community forums
 
@@ -109,8 +111,9 @@ There are some active online forums for drawing tablets such as various subreddi
 * [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/)&#x20;
 * [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
 * [https://www.reddit.com/r/xencelabs/](https://www.reddit.com/r/xencelabs/)
+* [https://www.reddit.com/r/drawingtablet/](https://www.reddit.com/r/drawingtablet/)&#x20;
 
-In online communities reddit you may notice that the vast majority of posts are complaints. Do not necessarily be concerned by this. It is true for any online community discussing any product. Most people only post when they have a problem. The completely satisfied users who don't have problems users rarely post about how good or seamless their experience has been.
+In online communities on reddit you may notice that the vast majority of posts are complaints. Do not necessarily be concerned by this. It is true for any online community discussing any product. Most people only post when they have a problem. The completely satisfied users who don't have problems users rarely post about how good or seamless their experience has been.
 
 However it is also true that online forums can be a great source to help you make choices about brands. For example, if you see a lot of questions/problems about a certain model, that should factor into your purchase decision.  &#x20;
 
