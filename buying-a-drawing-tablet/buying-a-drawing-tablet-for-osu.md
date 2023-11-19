@@ -7,7 +7,7 @@ If you are interested in playing osu! seriously with a drawing tablet, do not re
 To keep it simple, the are two excellent tablets for playing osu!:
 
 * One by Wacom Small (CTL-472)
-* One by Wacom Medium (CTL-472)
+* One by Wacom Medium (CTL-672)
 
 If you want to explore other tablet options for osu!, the definitive document to consult is [**Kuuube's tablet buying guide**](../resources/kuuubes-tablet-buying-guide.md).&#x20;
 
