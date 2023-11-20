@@ -32,5 +32,5 @@ Here's a detailed write up of someone's experience: ([https://www.reddit.com/r/w
 
 ## Videos
 
-* PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse! ([https://www.youtube.com/watch?v=9yTA1P8SrqI](https://www.youtube.com/watch?v=9yTA1P8SrqI)) Feb 24, 2020
+* [PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse!](https://www.youtube.com/watch?v=9yTA1P8SrqI) Feb 24, 2020
 

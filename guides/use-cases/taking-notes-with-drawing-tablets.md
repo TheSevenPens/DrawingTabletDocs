@@ -29,6 +29,6 @@ If you need to take notes and especially if you need to be mobile, then in my op
 
 ## Videos
 
-* Teoh on Tech - Best tablet for note taking in 2023: Xiaomi v OnePlus v Apple v Samsung ([https://www.youtube.com/watch?v=ywnQpqv9AHQ](https://www.youtube.com/watch?v=ywnQpqv9AHQ)) Oct 7, 2023
-* Teoh on Tech - Onyx Boox Note Air3 C e-Ink tablet (review) ([https://www.youtube.com/watch?v=7WHAGFYjhT8](https://www.youtube.com/watch?v=7WHAGFYjhT8)) Oct 16, 2023
+* [Teoh on Tech - Best tablet for note taking in 2023: Xiaomi v OnePlus v Apple v Samsung](https://www.youtube.com/watch?v=ywnQpqv9AHQ) Oct 7, 2023
+* [Teoh on Tech - Onyx Boox Note Air3 C e-Ink tablet (review)](https://www.youtube.com/watch?v=7WHAGFYjhT8) Oct 16, 2023
 
