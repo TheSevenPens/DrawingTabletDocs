@@ -1,5 +1,7 @@
 # Pen computer alternative recommendations
 
+Because [**I don't recommend pen computers**](../the-case-against-pen-computers.md), I have provided this list of suggested alternatives.&#x20;
+
 ## Apple iPads
 
 [**iPads are excellent pen-computers / drawing tablets**](../using-an-ipad-as-a-drawing-tablet.md).
