@@ -245,6 +245,7 @@
     * [XP-Pen Shortcut Remote](product-info/xp-pen/xp-pen-shortcut-remote.md)
     * [XP-Pen Deco Pro GEN2](product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/README.md)
       * [7P notes: XP-Pen Deco Pro XLW GEN2 (MT1592B)](product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/7p-notes-xp-pen-deco-pro-xlw-gen-2-mt1592b.md)
+  * [Ugee](product-info/ugee.md)
   * [Miscellaneous](7p-notes/7p-notes-other/README.md)
     * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 * [Accessories](accessories/README.md)
