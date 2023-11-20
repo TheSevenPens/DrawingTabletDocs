@@ -171,7 +171,7 @@
   * [Troubleshoot straight lines at start of stokes](troubleshooting/troubleshoot-straight-lines-at-start-of-stokes.md)
   * [Troubleshoot pen not drawing in vertical or horizontal bands](troubleshooting/troubleshoot-pen-not-drawing-inside-vertical-or-horizontal-bands-across-tablet.md)
   * [Troubleshoot WiFi and Internet problems with drawing tablets](troubleshooting/troubleshoot-wifi-and-internet-problems-with-drawing-tablets.md)
-  * [Troubleshoot tablet not detected by tablet driver](troubleshooting/troubleshoot-tablet-not-connected.md)
+  * [Troubleshoot tablet not detected by tablet driver](troubleshooting/troubleshoot-tablet-not-detected.md)
   * [Testing pressure in the tablet driver](troubleshooting/testing-pressure-in-the-tablet-driver.md)
   * [Troubleshoot display detection](troubleshooting/troubleshoot-display-detection.md)
   * [Troubleshoot driver no longer supports a drawing tablet](troubleshooting/troubleshoot-driver-no-longer-supports-a-drawing-tablet.md)
