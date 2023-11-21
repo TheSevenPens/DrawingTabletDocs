@@ -250,6 +250,7 @@
     * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 * [Accessories](accessories/README.md)
   * [Cables](accessories/cables.md)
+  * [Drawing gloves](accessories/drawing-gloves.md)
   * [Extension cables](accessories/extension-cables.md)
   * [Keyboards](accessories/keyboards.md)
   * [Auxiliary input devices](accessories/auxiliary-input-devices.md)
