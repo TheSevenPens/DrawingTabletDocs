@@ -236,6 +236,7 @@
     * [7P notes: Xencelabs Pen Tablet Medium (BPH1212W-A)](product-info/xencelabs/7p-notes-xencelabs-medium-pen-tablet.md)
     * [7P notes: Xencelabs Pen Display 24 (LPH2412U-A)](product-info/xencelabs/7p-notes-xencelabs-pen-display-24.md)
   * [XP-Pen](product-info/xp-pen/README.md)
+    * [XP-Pen Artist](product-info/xp-pen/xp-pen-artist.md)
     * [XP-Pen Deco](product-info/xp-pen/xp-pen-deco/README.md)
       * [7P notes: XP-Pen Deco LW (IT1060B)](product-info/xp-pen/xp-pen-deco/xp-pen-deco-lw-it1060b/7p-notes-xp-pen-deco-lw-it1060b.md)
     * [XP-Pen Artist GEN2](product-info/xp-pen/xp-pen-artist-gen2/README.md)
