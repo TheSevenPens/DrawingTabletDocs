@@ -12,6 +12,10 @@
 * [Teoh on Tech review of XP-Pen Artist 13 GEN2](https://youtu.be/-q\_eFIuibnc)  &#x20;
 * [Create Now Sleep Later review of XP-Pen Artist 13 GEN2](https://youtu.be/NJRYgW63dyM) &#x20;
 
+## XP-Pen Artist 14 GEN2 (MD140FH)
+
+[Brad Colbow review of XP-Pen Artist 14 GEN2 ](https://www.youtube.com/watch?v=Pf-UyPBf\_9o)Jun 26, 2023
+
 ## XP-Pen Artist 16 GEN2 (CD160FH)
 
 * [**my notes on this tablet**](7p-notes-xp-pen-artist-16-gen2-cd160fh.md)
