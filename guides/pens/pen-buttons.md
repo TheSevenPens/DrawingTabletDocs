@@ -10,18 +10,14 @@
 
 These are the default settings for Wacom pens with two buttons.
 
-* lower button (the one closer to the nib) set to perform a **mouse right-click**
-* upper button (the one further away from the nib) set to perform a **mouse double-click**
+* **lower button** (the one closer to the nib) set to perform a **mouse right-click**
+* **upper button** (the one further away from the nib) set to perform a **mouse left double-click**
 
 ## Other configurations for pen buttons
 
 &#x20;Other things people configure their buttons to do:
 
-* send a **CTRL-Z keypress** to perform UNDO
-* send a **mouse left click**
-* send a **SPACE** key
-
-What the buttons do is function of how they are configured in the tablet driver and how the application is configured.  For example, holding down SPACE in many apps will pan the drawing canvas.&#x20;
-
-
+* a **CTRL-Z keypress** to perform UNDO
+* **SPACE** key - in many apps, SPACE + dragging pen will pan the drawing canvas
+* **CTRL+SPACE** - in many apps, this will zoom into and out of the canvas (Krita, Photoshop, Illustrator)&#x20;
 
