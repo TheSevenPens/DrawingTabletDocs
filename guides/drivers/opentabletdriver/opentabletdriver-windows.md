@@ -168,7 +168,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 ## Configure tablet to display mapping
 
 * In the OTD App, go to **Output** > **Tablet** Section
-* In **Output** > **Display**, right-click anywhere and pick **Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
+* In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
 * ![](<../../../.gitbook/assets/image (9).png>)
 
@@ -178,8 +178,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 * By default it is set to **Absolute Mode**
 * Change it to **Windows Ink Absolute Mode**
   * If you leave it set to Absolute Mode, you will not be able to take advantage of pressure sensitivity and tilt.
-  * NOTE: You will only see Windows Ink Absolute Mode listed if you previously enabled the Windows Ink plugin
-  * NOTE: "Relative mode" is equivalent to "Mouse mode"
+  * NOTE: You will only see Windows Ink Absolute Mode listed if you previously enabled the Windows Ink plugin.
 
 ![](<../../../.gitbook/assets/image (85).png>)
 
@@ -192,23 +191,16 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 
 <figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-* Navigate to **Tip Settings** >**Tip Binding** and click the thee dots (...)
-  * **Type** -> **Windows Ink**
-  * **Button** -> **Pen Tip**
-  * click **Apply**.
-* Navigate to **Pen Buttons** > **Pen Binding 1** and click the thee dots (...)
-  * **Type** -> **Windows Ink,**
-  * **Button** -> **Pen Button**
-  * click **Apply**.
-* Navigate to **Pen Buttons** > **Pen Binding 2** and click the thee dots (...)
-  * **Type** -> **Windows Ink**
-  * **Button** -> **Pen Button**
-  * click **Apply**.
-* Navigate to **Eraser Settings > Eraser Bindings** and click the thee dots (...)
-  * NOTE: You only need to do this if your pen has an eraser
-  * **Type** -> **Windows Ink**
-  * **Button** -> **Pen Tip**
-  * click **Apply**.
+
+
+
+
+| Setting                               | Value                                                                                                                      |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Tip Settings** >**Tip Binding**     | <p><strong>Type</strong> -> <strong>Windows Ink</strong></p><p><strong>Button</strong> -> <strong>Pen Tip</strong></p>     |
+| **Pen Buttons** > **Pen Binding 1**   | <p><strong>Type</strong> -> <strong>Windows Ink,</strong></p><p><strong>Button</strong> -> <strong>Pen Button</strong></p> |
+| **Pen Buttons** > **Pen Binding 2**   | <p><strong>Type</strong> -> <strong>Windows Ink</strong></p><p><strong>Button</strong> -> <strong>Pen Button</strong></p>  |
+| **Eraser Settings > Eraser Bindings** | <p><strong>Type</strong> -> <strong>Windows Ink</strong></p><p><strong>Button</strong> -> <strong>Pen Tip</strong></p>     |
 
 At the bottom of the OTD UI, click **Apply**.
 
