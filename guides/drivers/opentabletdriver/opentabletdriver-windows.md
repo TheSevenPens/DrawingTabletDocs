@@ -1,4 +1,4 @@
-# Using OpenTabletDriver on Windows
+# Install OpenTabletDriver on Windows
 
 ## **Overview**
 
@@ -96,19 +96,19 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.).&#x20;
   * To be absolutely sure you have completely removed the drivers follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
 * Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
-* Download and install Krita from [https://krita.org/](https://krita.org/) . We will use Krita to test that OTD is installed correctly.&#x20;
+* Download and install Krita from [https://krita.org/](https://krita.org/) . We will use Krita to test that OTD is installed correctly.
+* Create a folder somehere on your computer called "OpenTabletDriver". I will use "C:\OpenTabletDriver" for the examples in this doc.&#x20;
 
-## Install VMulti
+## Install VMulti driver
 
 * <mark style="color:red;">You MUST install</mark> <mark style="color:red;"></mark><mark style="color:red;">**VMulti**</mark> <mark style="color:red;"></mark><mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet.</mark>
 * NOTE: Installing VMulti requires administrator permissions on your computer.
-* Download VMulti from this location: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/Driver.zip)&#x20;
-* Create a folder called VMulti in your Documents folder
-* Move Driver.zip to your Documents\VMulti folder
-* Right click on Driver.zip and select **Extract All**
-* This will create a folder called **Driver** that contains two folders **32** and **64**
-* Right click on the **64** folder and select **Open in Terminal** &#x20;
-* The terminal will launch and the current directory will be set to the 64 folder
+* Download **VMulti.Driver.zip** from this location
+  * [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip)
+* Right click on VMulti.Driver.zip and select **Extract All**
+* This will create folder called **VMulti.Driver**&#x20;
+* Copy the VMulti.Driver folder to the C:\OpenTabletDriver
+* Start a CMD shell running with Administrator privileges and CD to the C:\OpenTabletDriver\VMulti.Driver folder&#x20;
 * run **install\_hiddriver.bat**&#x20;
   * NOTE: This bat file - if needed - may restart your computer without warning. So, close any applications and save any docs before you run this .bat file.
 
@@ -121,12 +121,13 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 NOTE: Strictly speaking, OTD is not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
 
-* Download **OpenTabletDriver.win-x64.zip** from [https://opentabletdriver.net/Release/Download/OpenTabletDriver.win-x64.zip](https://opentabletdriver.net/Release/Download/OpenTabletDriver.win-x64.zip)&#x20;
+* Download **OpenTabletDriver.win-x64.zip** from [https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip)
 * Move this zip file to your **Documents** folder&#x20;
 * Right-click on **OpenTabletDriver.win-x64.zip** and click **Extract All**
 * This will create a folder called **OpenTabletDriver.win-x64** that contains two files:
   * OpenTabletDriver.UX.Wpf.exe
   * OpenTabletDriver.Daemon.exe
+* Copy the **OpenTabletDriver.win-x64** folder to c:\OpenTabletDriver&#x20;
 
 ## Launch OpenTabletDriver for the first time
 
