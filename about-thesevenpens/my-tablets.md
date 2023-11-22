@@ -8,5 +8,5 @@ I have a lot of tablets. All of these tablets are **personal purchases**.&#x20;
 * Many tablets were purchased used from eBay
 * I use [**OpenTabletDriver**](../guides/drivers/opentabletdriver/) instead of the manufacturer driver for older tablets.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

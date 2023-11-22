@@ -35,5 +35,15 @@ If none of these suggestions are helping, then [**contact support**](../guides/g
 * Sometimes this problem is sporadic. I've had it personally occur with a tablet and after about 30 minutes of restarts, things just started working again.
 * Some vendors like Huion recommend disabling antivirus when reinstalling the drivers. I do not recommend this, but some people say it has helped.
 
+## Reference: Driver UX
+
+#### XP-Pen
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 ##
 
