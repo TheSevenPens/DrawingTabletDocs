@@ -1,8 +1,8 @@
-# Troubleshoot display detection
+# Troubleshoot display not detected by computer
 
 To use your pen display, your computer must be able to detect the display panel inside it.
 
-Most of the time, when you plug in your tablet to your comptuer this will work automatically.
+Most of the time, when you plug in your tablet to your computer this will work automatically.
 
 Unfortunately, sometimes your computer can sometimes have difficulty.
 
