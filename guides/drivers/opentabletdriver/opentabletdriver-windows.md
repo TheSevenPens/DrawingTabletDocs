@@ -85,7 +85,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 ## Important notes
 
-* The instructions cover this specific version of OTD: v0.6.2.0
+* The instructions cover this specific version of OTD: v0.6.3.0
 * These instructions are for x64 operating systems only. OTD does not support 32-bit versions of Windows.
 * I only tested this on these versions of Windows:
   * Windows 11 64-bit (version 10.0.22621)
