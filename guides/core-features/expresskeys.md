@@ -10,7 +10,11 @@
 
 <figure><img src="../../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt=""><figcaption></figcaption></figure>
 
-## Disabling ExpressKeys
+## Other names
+
+Huion calls these buttons "Press Keys"
+
+## Disabling Express Keys
 
 Some people love using these kind of inputs, but some people do not like them because either they
 
