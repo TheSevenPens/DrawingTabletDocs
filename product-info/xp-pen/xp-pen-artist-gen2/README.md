@@ -11,6 +11,7 @@
 
 * [Teoh on Tech review of XP-Pen Artist 13 GEN2](https://youtu.be/-q\_eFIuibnc)  &#x20;
 * [Create Now Sleep Later review of XP-Pen Artist 13 GEN2](https://youtu.be/NJRYgW63dyM) &#x20;
+* [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](../../../7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 
 ## XP-Pen Artist 14 GEN2 (MD140FH)
 
