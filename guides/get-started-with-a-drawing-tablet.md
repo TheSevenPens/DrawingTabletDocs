@@ -8,6 +8,11 @@ I suggest you first read [**the beginner's guide**](beginners-guide.md)&#x20;
 
 If you don't have a drawing tablet, then try this [**detailed buying guide**](../buying-a-drawing-tablet/).&#x20;
 
+## Get prepped
+
+* Make sure you know how to [**contact support**](general/contacting-support.md) for your tablet manufacturer&#x20;
+* Read the manual for your tablet. You don't need to even open the box. You can download the manual from the manufacturer website.
+
 ## Don't drop the pen
 
 * If drop the pen to the floor, usually it will be unharmed.
@@ -27,6 +32,10 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 * Pen tablet - There will be a simple USB cord. These days the cords are all USB-C cords.
   * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first
 * Pen display - There are several options. See [**connecting a pen display**](pen-displays/connecting-a-pen-display.md)
+
+## The NO SIGNAL problem with pen displays
+
+If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md)
 
 ## How the pen works with the tablet
 
@@ -52,7 +61,7 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 * The active area can be mapped to 1 of your displays or multiple displays.&#x20;
 * For now, map the active area to a single display.
 
-## Match aspect ratios between the active area and your display&#x20;
+## Match aspect ratios between the active area and your display
 
 * This step is needed for pen tablets (the ones without a screen). You don't have to do this for other kinds of tablets.
 * <mark style="color:red;">**This step is important for pen tablets.**</mark> If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
@@ -61,11 +70,17 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
   * Huion: In Working Area, this is called "Screen Ratio" &#x20;
   * XP-Pen: this is called "Screen Ratio"
 
+## Windows&#x20;
+
+* Perform this configuration: [**Disable the press-and-hold ring in Windows**](windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
+
 ## Apps
 
 There's a big list of apps here: [**applications**](../applications/)&#x20;
 
-Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app and useful to testing things out with the pen.
+**Install Krita**
+
+Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app. Eve if you are not going to draw anything, it is useful for testing and troubleshooting.
 
 I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint.md).
 
