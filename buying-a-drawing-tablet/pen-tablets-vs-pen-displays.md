@@ -72,7 +72,7 @@ Also with a pen display, you will need to protect it more because it is more sen
 
 ### Videos
 
-* **Teoh on Tech -** 9 things to know about pen displays before you buy one ([https://youtu.be/Ez7l1C49ClE](https://youtu.be/Ez7l1C49ClE)) Jan 6, 2023
-* **EyeKooDrawsStuff** - What drawing tablet to buy... a screenless graphics tablet or pen display?  ([https://youtu.be/SpOmAvvXePE](https://youtu.be/SpOmAvvXePE)) July 10, 2023
-* **Paintable** - Do you NEED a Screen Tablet? | Honest Huion Kamvas Pro 24 Review ([https://www.youtube.com/watch?v=9b-8ZUE6tkg](https://www.youtube.com/watch?v=9b-8ZUE6tkg))
+* [**Teoh on Tech -** 9 things to know about pen displays before you buy one](https://youtu.be/Ez7l1C49ClE) Jan 6, 2023
+* [**EyeKooDrawsStuff** - What drawing tablet to buy... a screenless graphics tablet or pen display?](https://youtu.be/SpOmAvvXePE) July 10, 2023
+* [**Paintable** - Do you NEED a Screen Tablet? | Honest Huion Kamvas Pro 24 Review](https://www.youtube.com/watch?v=9b-8ZUE6tkg) Mar 30, 2023
 

@@ -17,13 +17,13 @@ The key benefit of this device is that instead of using the keyboard while you a
 
 ## Tourbox NEO
 
-* Brad Colbow ([https://youtu.be/sQT7Gctw\_gk](https://youtu.be/sQT7Gctw\_gk)) - Sep 4, 2020
-* uricksaladbar ([https://youtu.be/BroG89gnGnk](https://youtu.be/BroG89gnGnk)) - Oct 29, 2021
+* [Brad Colbow review of TourBox NEO](https://youtu.be/sQT7Gctw\_gk) Sep 4, 2020
+* [uricksaladbar review of TourBox NEO](https://youtu.be/BroG89gnGnk) Oct 29, 2021
 
 ## Tourbox Elite
 
-* Nadiaxel ([https://youtu.be/yH\_zSxUHSw0](https://youtu.be/yH\_zSxUHSw0)) Jun 15, 2023
-* BoroCG ([https://youtu.be/4BChI1SvIdE](https://youtu.be/4BChI1SvIdE)) Dec 2, 2021&#x20;
+* [Nadiaxel review of TourBox ELITE](https://youtu.be/yH\_zSxUHSw0) Jun 15, 2023
+* [BoroCG review of TourBox ELITE](https://youtu.be/4BChI1SvIdE) Dec 2, 2021&#x20;
 
 
 

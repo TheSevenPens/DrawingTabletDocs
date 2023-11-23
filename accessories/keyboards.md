@@ -32,5 +32,5 @@ This device is intended to keep your keyboard easily accessible when using a lar
 
 **Videos**
 
-* CreateNowSleepLater - CinTweak Universal Keyboard Tray for Wacom Cintiq, Huion, and XPPen Review ([https://youtu.be/iuDreUS767M](https://youtu.be/iuDreUS767M))
+* [CreateNowSleepLater - CinTweak Universal Keyboard Tray for Wacom Cintiq, Huion, and XPPen Review](https://youtu.be/iuDreUS767M)&#x20;
 

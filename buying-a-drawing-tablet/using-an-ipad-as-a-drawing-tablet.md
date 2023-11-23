@@ -117,17 +117,17 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../product-info/
 
 ## Videos
 
-* PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes! ([https://www.youtube.com/watch?v=QNgtQDwW9P4](https://www.youtube.com/watch?v=QNgtQDwW9P4)) Oct 11, 2019
-* Tim Mcburnie - iPad vs. Wacom ([https://youtu.be/hBnEE367878](https://youtu.be/hBnEE367878)) Feb 19, 2022
-* Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs)) Oct 1, 2022
-* Anastasia Berry - iPad or Display Tablet | What's Better for Drawing? ([https://youtu.be/VOyQbBBuRrc](https://youtu.be/VOyQbBBuRrc)) Feb 9, 2022
-* Brad Colbow - How the iPad Became my Go To Drawing Tablet ([https://youtu.be/c2ewLZplxY8](https://youtu.be/c2ewLZplxY8)) Jun 24, 2019
-* Teoh on Tech - iPad vs Pen Displays: Which to get for Digital Art ([https://youtu.be/GJ6fVe3p-ec](https://youtu.be/GJ6fVe3p-ec)) Jun 10, 2021
-* Teoh on tech - Can you do graphic design on iPad (vs computer) ([https://youtu.be/R68\_Q7CiCzs](https://youtu.be/R68\_Q7CiCzs)) Oct 1, 2022
-* Teoh on tech - Why I prefer Concepts over Procreate for drawing ([https://youtu.be/5ORoSQ8Q0fM](https://youtu.be/5ORoSQ8Q0fM)) Aug 1, 2022
-* Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!  - ([https://youtu.be/ZpcKfipVy24](https://youtu.be/ZpcKfipVy24)) Nov 1, 2022
-* Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art ([https://www.youtube.com/watch?v=MJN8e8k-w-I](https://www.youtube.com/watch?v=MJN8e8k-w-I)) Oct 25, 2023
-* Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad ([https://www.youtube.com/watch?v=DDcdJu\_gUb0](https://www.youtube.com/watch?v=DDcdJu\_gUb0)) Apr 13, 2023
+* [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) Oct 11, 2019
+* [Tim Mcburnie - iPad vs. Wacom](https://youtu.be/hBnEE367878) Feb 19, 2022
+* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68\_Q7CiCzs) Oct 1, 2022
+* [Anastasia Berry - iPad or Display Tablet | What's Better for Drawing?](https://youtu.be/VOyQbBBuRrc) Feb 9, 2022
+* [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) Jun 24, 2019
+* [Teoh on Tech - iPad vs Pen Displays: Which to get for Digital Art](https://youtu.be/GJ6fVe3p-ec) Jun 10, 2021
+* [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68\_Q7CiCzs) Oct 1, 2022
+* [Teoh on tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
+* [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) Nov 1, 2022
+* [Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art](https://www.youtube.com/watch?v=MJN8e8k-w-I) Oct 25, 2023
+* [Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad](https://www.youtube.com/watch?v=DDcdJu\_gUb0) Apr 13, 2023
 
 ## Other resources
 
