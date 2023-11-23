@@ -426,7 +426,7 @@ Key points
 
 ### Huion Kamvas 24 Pro 4K ($1300)
 
-I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. More here on this tablet: [7P notes on Huion models](broken-reference).
+I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [My notes on this tablet](../../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md).
 
 Comparing the Wacom Cintiq Pro 27 the Huion Kamvas 24 Pro 4K.&#x20;
 
@@ -457,14 +457,14 @@ The Huion may represent a better practical choice for many people because the Hu
 
 ### Xencelabs Pen Display 24
 
-My experience with this tablet is here: [7P notes on Xencelabs tablets](broken-reference)&#x20;
+[My experience with this tablet](../../../xencelabs/7p-notes-xencelabs-pen-display-24.md).
 
 The Cintiq pro is superior in general to the Xencelabs Pen Display 24.
 
 Some key differences:
 
-* The Xencelabs Pen Display 24 has clearly better edge and corner accuracy
-* The Xencelabs had clearly more pointer lag than the Cintiq Pro 27. This is something Xencelabs needs to be better at.&#x20;
+* The Xencelabs Pen Display 24 is a bit better at edge and corner accuracy
+* The Xencelabs had a bit more more pointer lag than the Cintiq Pro 27.&#x20;
 
 ### XP-Pen alternatives
 
