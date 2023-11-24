@@ -99,7 +99,7 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## Accessories
 
-* [iPad stands](../accessories/ipad-stands.md)
+* [iPad stands](../accessories/stands/ipad-stands.md)
 
 ## iPad apps for creative work
 

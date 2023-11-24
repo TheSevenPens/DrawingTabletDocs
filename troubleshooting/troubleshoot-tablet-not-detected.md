@@ -41,7 +41,7 @@ If none of these suggestions are helping, then [**contact support**](../guides/g
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

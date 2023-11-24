@@ -217,6 +217,10 @@ More here:
 * &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
 * &#x20;[**troubleshooting**](../troubleshooting/)  &#x20;
 
+## Accessories
+
+There are some interesting accessories for a tablet. Explore some options here: [**Accessories**](./#accessories) &#x20;
+
 ## Things to check before you buy a tablet
 
 Before you commit to buying a tablet, here are some things to work through: [**Before-purchase checklist**](before-purchase-checklist.md).
