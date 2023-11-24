@@ -25,4 +25,7 @@ See the Moko store on Amazon: ([https://www.amazon.com/stores/MoKo/page/2017E8BA
 
 * eyeglass cases
 * cases meant for pens or pencils
+* Examples of small cases for pens:&#x20;
+  * [https://www.amazon.com/dp/B01FWE0DQY/ref=sspa\_dk\_detail\_2?pd\_rd\_i=B01FWE0DQY](https://www.amazon.com/dp/B01FWE0DQY/ref=sspa\_dk\_detail\_2?pd\_rd\_i=B01FWE0DQY)
+  *
 
