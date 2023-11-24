@@ -181,6 +181,10 @@ I don't recommend drawing tablets for note taking. Devices like an iPad work muc
 
 If you want to play osu!, there are very specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](buying-a-drawing-tablet-for-osu.md) &#x20;
 
+## Using a drawing tablet with an iOS device
+
+Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](../guides/general/using-a-drawing-tablet-with-an-ios-device.md).
+
 ## Maintaining your tablet
 
 Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
@@ -225,8 +229,8 @@ There are some interesting accessories for a tablet. Explore some options here: 
 
 Before you commit to buying a tablet, here are some things to work through: [**Before-purchase checklist**](before-purchase-checklist.md).
 
-## Miscellaneous topics
+## Getting started with your tablet
 
-### Using a drawing tablet with an iOS device
+Once you get your tablet, here's a guide to setting it up for the first time: [Get started with a drawing tablet](../guides/get-started-with-a-drawing-tablet.md)&#x20;
 
-Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](../guides/general/using-a-drawing-tablet-with-an-ios-device.md).
+###

@@ -10,7 +10,7 @@ Here's a good example for Parblo
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="188"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="188"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure>
 
 </div>
 
