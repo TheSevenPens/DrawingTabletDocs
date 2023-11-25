@@ -6,6 +6,12 @@ It typically looks like this:
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+The power end can work in different ways depending on which 3-in-1 cable you have
+
+&#x20;
+
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+
 Why do these cables exist?
 
 * simplifies the physical design of the tablet
