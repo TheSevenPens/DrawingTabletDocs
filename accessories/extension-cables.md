@@ -21,6 +21,12 @@ I used it in these ways:
 
 ### ![](<../.gitbook/assets/image (51).png>)
 
+## Be aware of how deeply the port is housed in the pen display
+
+The specific USB-C extender above has a USB-port that fits into some pen displays, but some other pen displays have their USB-C port deeper inside and this cable cannot fit into those areas.
+
+For example, this extender does NOT go deep enough to fit into a Huion Kamvas 13.&#x20;
+
 ### Links
 
 * Teoh on Tech: Using Extension Cables with Pen Displays or Graphics Tablets ([https://www.youtube.com/watch?v=y7kvIGbnjzo](https://www.youtube.com/watch?v=y7kvIGbnjzo))
