@@ -22,6 +22,7 @@ Even though this series is from 2017 it still dominates any pen tablet out there
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/PTH-660.html](https://101.wacom.com/UserHelp/en/TOC/PTH-660.html)
 * [Brad Colbow review of Wacom Intuos Pro Medium](https://youtu.be/bbOGvAW3o-M)&#x20;
 * [Claudio Juliano Wacom Intuos Pro Medium](https://youtu.be/lKJYuRQfLkc)&#x20;
+* [EyeKooDrawsStuff review of Intuos Pro Medium](https://www.youtube.com/watch?v=XozM9fs9Jlc) May 13, 2022
 
 ## Wacom Intuos Pro Large 2017 (PTH-860)
 

@@ -4,6 +4,10 @@
 
 * [Teoh on Tech review of UGEE UE12 Plus](https://www.youtube.com/watch?v=9TPd3Zl6thY) Nov 10, 2023
 
+## UGEE M708
+
+* [EyekooDrawsStuff - Testing the Ugee M708 in Krita](https://www.youtube.com/watch?v=7-VJ5feZbIw) Jun 27, 2023
+
 ## UGEE M9808
 
 * [Teoh on Tech review of UGEE M908 ](https://www.youtube.com/watch?v=aBp2Rk2vsoM)Nov 25, 2023

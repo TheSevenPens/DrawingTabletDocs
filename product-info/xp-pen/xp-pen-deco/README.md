@@ -11,9 +11,13 @@
 * [Brad Colbow review of XP-Pen Deco L (IT1060)](https://youtu.be/0VaH-UTRL7A) Feb 16, 2022
 * [Teoh on Tech review of XP-Pen Deco L (IT1060)](https://youtu.be/ohKeCxLL2a0) Feb 19, 2022
 
+## XP-Pen Deco MW
+
+* [EyeKooDrawsStuff - review of XP-Pen Deco MW](https://www.youtube.com/watch?v=nSd9Iry-2tY) Dec 15, 2022
+
 ## XP-Pen Deco LW (IT1060B)
 
-* [**My notes on this tablet**](xp-pen-deco-lw-it1060b/7p-notes-xp-pen-deco-lw-it1060b.md)&#x20;
+* [**My notes on this tablet**](7p-notes-xp-pen-deco-lw-it1060b.md)&#x20;
 * Model Year: 2021
 * NOTE: This is the wireless version of XP-Pen Deco L (IT1060B)&#x20;
 * User manual: [https://www.xp-pen.com/user-manual/deco-lw.html](https://www.xp-pen.com/user-manual/deco-lw.html)&#x20;
