@@ -1,5 +1,9 @@
 # Ugee
 
+## UGEE UE12
+
+* [Teoh on Tech review of UGEE UE12 Plus](https://www.youtube.com/watch?v=9TPd3Zl6thY) Nov 10, 2023
+
 ## UGEE M9808
 
 * [Teoh on Tech review of UGEE M908 ](https://www.youtube.com/watch?v=aBp2Rk2vsoM)Nov 25, 2023
