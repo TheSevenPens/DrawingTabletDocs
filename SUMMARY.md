@@ -272,5 +272,5 @@
     * [Aspect ratio math](resources/process/aspect-ratio-math.md)
     * [Diagonal wobble testing](resources/process/diagonal-wobble-testing.md)
   * [Koneko\_w](resources/koneko\_w.md)
-  * [XP-Pen Deco](resources/xp-pen-deco/README.md)
-    * [7P notes: XP-Pen Deco LW (IT1060B)](resources/xp-pen-deco/7p-notes-xp-pen-deco-lw-it1060b.md)
+  * [XP-Pen Deco](product-info/xp-pen/xp-pen-deco/README.md)
+    * [7P notes: XP-Pen Deco LW (IT1060B)](product-info/xp-pen/xp-pen-deco/xp-pen-deco-lw-it1060b/7p-notes-xp-pen-deco-lw-it1060b.md)

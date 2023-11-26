@@ -2,7 +2,7 @@
 
 ## **Overall**
 
-In summary this is a very nice tablet. Wacom Cintiq Pro models are still better (and cost MUCH more) but this tablet is good overall.&#x20;
+In summary this is a very nice tablet. Wacom Cintiq Pro models are still better (and cost MUCH more) but this tablet is good overall and I have enjoyed using it.
 
 ## **Design**
 
@@ -12,7 +12,7 @@ One minor nit. The USB-C cable connects at the top edge this means you see the c
 
 XP-Pen logo on bottom of tablet.&#x20;
 
-## **Ergonomics > Legs**
+## **Ergonomics > legs**
 
 Two foldable legs on the back allow it to be propped up at an angle. However, I just use a spare HUION stand for a better angle.
 
@@ -52,7 +52,7 @@ I can mitigate that in Clip Studio paint by turning on the **Stabilization > Adj
 
 None. But the tablet does come with a remote with programmable keys.
 
-## **Pewn tracking > corner accuracy**
+## **Pen tracking > corner accuracy**
 
 Very good
 
