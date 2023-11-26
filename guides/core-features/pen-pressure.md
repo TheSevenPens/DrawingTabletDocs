@@ -30,17 +30,25 @@ Low is subjective but here are some guidelines
 * An EXCELLENT IAF would be < 1gf&#x20;
 * An GOOD IAF would be 3 gf&#x20;
 
-## IAF sensitivity
+## Min pressure (IAF) importance
 
 Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
 Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
 
-## IAF across brands
+## Min pressure (IAF) across brands
 
 * Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
 * Huion's, XP-Pen, and Xencelabs have a higher IAF - their lowest seems to be around 3gf.&#x20;
 * In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip).
+
+## Max pressure across brands
+
+Keep in mind there's a variations even with pens of the same model.
+
+* Wacom Pro Pen 2 = \~800gf.
+* XP-Pen X3 Pro Pen = one of my pens has a max of 325gf and the other 400gf
+* Xencelabs claims that the pen that comes with their pen display has a max pressure of 500gf but I have not tested it.
 
 ## Pressure levels
 
