@@ -59,7 +59,9 @@
 
 
 
+## Other resources
 
+* [Techquickie - Why DisplayPort Is Still Better Than HDMI](https://www.youtube.com/watch?v=qr-ACsQ1BXA) Aug 11, 2023
 
 &#x20;
 
