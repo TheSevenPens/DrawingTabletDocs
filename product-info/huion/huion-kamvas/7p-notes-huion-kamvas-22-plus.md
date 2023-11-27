@@ -32,6 +32,12 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 **Heat** - display stays cool. I leave it on 24/7 and it has no hot spots.
 
+**3-in-1 cable**
+
+It comes with a proprietary 3-in-1 cable.&#x20;
+
+As the user manual illustrates. You cannot use this with a single USB-C cable or even two USB-C cables. You must always use the 3-in-1 cable in some form for power. Sometimes I have set it up with the 3-in-1 cable connected in the top USB-C port and then the power end connected to the wall. And in the bottom port, I use a Thunderbolt 3 cable to get the display signal and data to the pen display.
+
 **Diagonal wobble** - very good. has extremely low wobble.
 
 ![](<../../../.gitbook/assets/Huion Kamvas 22 Plus (GS2202) wobble.png>)
