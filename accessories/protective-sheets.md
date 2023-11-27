@@ -6,7 +6,7 @@ There are various kinds of protectors available to help you preserve your invest
 
 ## Why they work
 
-The EMR signal of a in a drawing tablet and pen travels right through non-metallic materials. It's clear this must be true since with a pen tablet the signal passes right through the plastic surface of a pen tablet. Likewise, for a pen display the signal passes through glass.
+The EMR signal travels right through non-metallic materials. It's clear this must be true since with a pen tablet the signal passes right through the plastic surface of a pen tablet. Likewise, for a pen display the signal passes through glass.
 
 ## Pen displays vs pen tablets
 
