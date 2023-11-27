@@ -57,6 +57,7 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 ### Note-taking
 
 * [Microsoft OneNote](microsoft-onenote.md) (Windows, MacOS, Android, iOS)
+* [Samsung Notes](samsung-notes.md) (select Samsung PCs and tablets)
 
 ### Whiteboarding
 
