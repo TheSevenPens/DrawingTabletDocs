@@ -32,7 +32,6 @@ Unfortunately these texture sheets are often out of stock and are very hard to f
 
 ## Installation
 
-Here's an example of how to install a texture sheet: [https://www.youtube.com/watch?v=AJ6\_6710w0M](https://www.youtube.com/watch?v=AJ6\_6710w0M)
+Here's an example of how to install a texture sheet:&#x20;
 
-
-
+[Brian Matiash - How To Install Wacom Intuos Pro Texture Sheets On Your Tablet](https://www.youtube.com/watch?v=AJ6\_6710w0M) Mar 13, 2017
