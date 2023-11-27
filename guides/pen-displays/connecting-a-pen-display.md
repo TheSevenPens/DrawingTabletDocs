@@ -1,4 +1,4 @@
-# Connecting a pen display
+# Connecting a pen display to your computer
 
 ## Background
 
@@ -57,6 +57,8 @@ This is a special kind of cable.&#x20;
   * A HDMI cable
 
 These 3-in-1 cable are proprietary cables. And if you need to replace it, you'll need to buy it from the manufacturer. You cannot swap for example a Huion 3-in-1 cable with an XP-pen 3-in-1 cable. Sometimes even within a specific manufacturer, you cannot swap 3-in-1 cables between different models.
+
+more here: [**3-in-1 cables**](../../accessories/cables/3-in-1-cables-for-drawing-tablets.md)
 
 ## Connecting via HDMI
 
