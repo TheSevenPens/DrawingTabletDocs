@@ -67,7 +67,7 @@
     * [Display connector types](guides/pen-displays/display-connector-types.md)
     * [Clamping wide-gamut displays to sRGB](guides/pen-displays/clamping-wide-gamut-displays-to-srgb.md)
     * [Using a pen display as a monitor](guides/pen-displays/using-a-pen-display-as-a-monitor.md)
-    * [Connecting a pen display to your computer](guides/pen-displays/connecting-a-pen-display.md)
+    * [Connecting a pen display to a computer](guides/pen-displays/connecting-a-pen-display.md)
     * [Connecting a pen display with one USB-C cable](guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md)
     * [Using monitor arms with a pen display](guides/pen-displays/using-monitor-arms-with-a-pen-display.md)
     * [Calibrate pen position on a pen display](guides/pen-displays/calibrate-pen-position-on-a-pen-display.md)

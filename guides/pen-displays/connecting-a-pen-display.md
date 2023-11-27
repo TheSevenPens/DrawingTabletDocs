@@ -1,17 +1,11 @@
-# Connecting a pen display to your computer
+# Connecting a pen display to a computer
 
 ## Background
 
-Remember that a pen display is a plastic box that contains two separate devices:
+Remember that essentially a pen display is a plastic box that contains two separate devices:
 
 * a pen tablet
 * a display (i.e. a monitor)
-
-## Connectors
-
-* This document is going to talk about connectors a lot.
-* So you need to know what they look like first.&#x20;
-* Read this guide on [**different display connector types**](display-connector-types.md) before you continue.
 
 ## Inputs & outputs
 
@@ -24,6 +18,12 @@ We need to account for 5 things to use a pen display.
 | Data from computer | tablet component  | used for things like updating firmware           |
 | Power to display   | display component | much more power needed than the tablet component |
 | Display signal     | display component | What is shown by the tablet                      |
+
+## Connectors
+
+* This document is going to talk about connectors a lot.
+* So you need to know what they look like first.&#x20;
+* Read this guide on [**different display connector types**](display-connector-types.md) before you continue.
 
 ## Cabling options
 
