@@ -10,6 +10,12 @@ I have bought and worked with MANY used drawing tablets - 26 used tablets as of 
 * **pen displays** - I have purchased one used pen display. So, I don't have a lot of experience with this.&#x20;
 * **pen computers** - I have no experience with used pen computers. And in general I do not recommend pen computers. See: [The case against pen computers](the-case-against-pen-computers.md)&#x20;
 
+## General considerations
+
+Because the used tablets might be older models, you should prepare for issues that might arise due to their age. More here: [Using older drawing tablets](../guides/general/using-older-drawing-tablets.md)&#x20;
+
+In particular you may need to use older drivers. This comes with its own set of complications. More here: [Using older tablet drivers](../guides/drivers/using-older-tablet-drivers.md)
+
 ## Which tablet brands to consider buying used
 
 Wacom products have always been the most reliable and higher quality devices. So even going back years, their models work well  Because Wacom professional pen tablets are the very highest quality, those make great choices for buying used.
