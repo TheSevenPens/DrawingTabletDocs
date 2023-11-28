@@ -1,4 +1,4 @@
-# Troubleshoot tablet not detected by tablet driver
+# Troubleshoot tablet driver does not detect tablet
 
 ## Overview
 
@@ -36,6 +36,10 @@ If none of these suggestions are helping, then [**contact support**](../guides/g
 * Some vendors like Huion recommend disabling antivirus when reinstalling the drivers. I do not recommend this, but some people say it has helped.
 
 ## Reference: Driver UX
+
+#### Huion
+
+#### ![](<../.gitbook/assets/Huion device disconnected.png>)
 
 #### XP-Pen
 
