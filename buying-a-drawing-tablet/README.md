@@ -10,6 +10,13 @@ I want to help you make an informed choice when purchasing a drawing tablet. My 
 
 If you are new to drawing table, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
 
+## Video series (in progress)
+
+If you prefer a watching a video ...
+
+* [7P - Drawing Tablet Buying Guide (2023) Episode 1](https://www.youtube.com/watch?v=QpAJOOKaQUM) Nov 10, 2023
+* [7P - Drawing Tablet Buying Guide ](https://www.youtube.com/watch?v=kw7fKQik3YY)[(2023) ](https://www.youtube.com/watch?v=QpAJOOKaQUM)[Episode 2](https://www.youtube.com/watch?v=kw7fKQik3YY) Nov 16, 2023
+
 ## My recommendations
 
 If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
