@@ -92,7 +92,7 @@
       * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)
     * [Using a drawing tablet without installing drivers](guides/drivers/using-a-drawing-tablet-without-installing-drivers.md)
     * [Uninstalling manufacturer tablet drivers](guides/drivers/uninstalling-manufacturer-tablet-drivers.md)
-    * [Using tablet older drivers](guides/drivers/using-tablet-older-drivers.md)
+    * [Using older tablet drivers](guides/drivers/using-older-tablet-drivers.md)
   * [Windows](guides/windows/README.md)
     * [Windows PNP support for drawing tablets](guides/windows/windows-pnp-support-for-drawing-tablets.md)
     * [Disable ripple effect rings in Windows](guides/windows/disable-ripple-effect-rings-in-windows.md)
