@@ -5,7 +5,7 @@ I love creative tech. I've been using drawing tablets for a long time and wanted
 * My YouTube channel: [https://www.youtube.com/@thesevenpens](https://www.youtube.com/@thesevenpens) &#x20;
 * My notes on drawing tablets: [https://docs.thesevenpens.com/drawtab/](https://docs.thesevenpens.com/drawtab/)&#x20;
 * I tweet occasionally: [https://twitter.com/TheSevenPens](https://twitter.com/TheSevenPens)&#x20;
-* I moderate Reddit's [/r/drawingtablet](https://www.reddit.com/r/drawingtablet/)&#x20;
+* I moderate Reddit's [/r/drawingtablet](https://www.reddit.com/r/drawingtablet/) and [/r/huion](https://www.reddit.com/r/huion/)&#x20;
 * I keep my code on GitHub: [https://github.com/TheSevenPens](https://github.com/TheSevenPens)&#x20;
 
 ## Why "TheSevenPens"?
