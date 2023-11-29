@@ -19,6 +19,24 @@ The "tablet not connected" problem is fundamentally that your computer cannot "s
 * Try the tablet with another computer.
   * If it doesn't work there, then that suggest the tablet itself is having problems.
   * If it does work there, then retry with your own computer.&#x20;
+* Try unplugging other USB devices leaving only the tablet.&#x20;
+* If you have a USB hub, try not using it. Instead connect the devices one-by-one back into the computer, starting with the tablet.
+
+## Windows > power options for the tablet
+
+Some people say this has helped them. I'm not sure.&#x20;
+
+In **device manager**, select **View > By container**
+
+Find your tablet
+
+Under will be a list of devices
+
+for each device under the tablet, right-click and select **Properties**
+
+Uncheck **Power Management > Allow the computer to turn off this device to save power** if that option exists for the device.
+
+
 
 ## Manufacturer support pages
 
