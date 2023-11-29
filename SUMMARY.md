@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [About TheSevenPens](about-thesevenpens/README.md)
   * [My tablet setups](about-thesevenpens/my-tablet-setups.md)
-  * [My tablets](about-thesevenpens/my-tablets.md)
+  * [My drawing tablets](about-thesevenpens/my-tablets.md)
 * [Frequently asked questions](faq.md)
 * [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
   * [Buying used drawing tablets](buying-a-drawing-tablet/buying-used-drawing-tablets.md)
