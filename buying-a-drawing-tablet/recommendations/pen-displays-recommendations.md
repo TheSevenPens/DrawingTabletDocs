@@ -13,7 +13,7 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 
 ## $200 to $300 &#x20;
 
-* SMALL [**Huion Kamvas 13** (GS1331](../../product-info/huion/huion-kamvas/)) $240 ([**my notes**](../../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
+* SMALL [**Huion Kamvas 13** (GS1331](../../product-info/huion/huion-kamvas/)) $240 ([<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
 
 ## $300 to $500
 
@@ -42,6 +42,9 @@ This these are recommendations for **pen displays** (aka **screen tablets**)
 * LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([<mark style="background-color:green;">**my notes**</mark>](../../product-info/xencelabs/7p-notes-xencelabs-pen-display-24.md))
 
 ## $2000 - $3000
+
+* LARGE [**Wacom Cintiq Pro 17**](../../product-info/wacom/wacom-cintiq-pro/) $2500
+* LARGE [**Wacom Cintiq Pro 22**](../../product-info/wacom/wacom-cintiq-pro/) $3000
 
 ## $3000 to $4000
 
