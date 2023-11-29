@@ -4,16 +4,22 @@
 
 Only a very small number of drawing tablets are touch sensitive.&#x20;
 
-## **Specific tablets that support touch**
+## **Tablets that support touch**
 
 Here is a **partial** list:
 
-* SOME of the Wacom Cintiq Pro line
-  * examples: Cintiq Pro 16 (DTK-167), Cintiq Pro 27 (DTK-271)
-* SOME of the Wacom Intuos Pro line
-  * examples: Intuos Pro Small (PTH-460), Intuos Pro Medium (PTH-660), Intuos Pro Large (PTH-860)
-* SOME of the Wacom One line
-  * Wacom One 13 touch GEN2 (DTH-134)
+* Wacom Cintiq Pro 16 (DTK-167)
+* Wacom Cintiq Pro 17 (DTH-172)
+* Wacom Cintiq Pro 22 (DTH-227)
+* Wacom Cintiq Pro 27 (DTK-271)
+* Wacom Intuos Pro Small (PTH-460)
+* Wacom Intuos Pro Medium (PTH-660)
+* Wacom Intuos Pro Large (PTH-860)
+* Wacom Intuos Pro Large (PTH-451)
+* Wacom Intuos Pro Large (PTH-651)
+* Wacom Intuos Pro Large (PTH-851)
+* Wacom One 13 touch GEN2 (DTH-134)
+* XP-Pen Artist Pro 16TP (MD160U)
 
 ## **Quality of touch support**
 
