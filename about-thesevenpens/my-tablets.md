@@ -8,5 +8,5 @@ description: I have a lot of tablets
 * Many of these tablets were bought used: [**Buying used drawing tablets**](../buying-a-drawing-tablet/buying-used-drawing-tablets.md)&#x20;
 * Some of these tablets are quite old - 10 years, 20+ years. Even though they work perfectly their age does make it more complex to use them. More here: [**Using older drawing tablets**](../guides/general/using-older-drawing-tablets.md)&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-29 200904.png" alt=""><figcaption></figcaption></figure>
 
