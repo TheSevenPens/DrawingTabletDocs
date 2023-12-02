@@ -49,7 +49,17 @@ Wobble is minor and only noticeable in very slow strokes.
 
 ![](<../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2).png>)
 
+**Connection quirks**
 
+When connected to my Surface pro 8 via USB-C, when the Surface Pro sleeps, every 20 seconds the Kamvas shows a no signal and power saving message and the Surface Pro keeps playing The "USB device connected" & "USB device disconnected" sounds, this pattern reoccurs every 20 seconds ad infinitum.
+
+To stop it, I simply disconnect the USB-C cable from the Surface Pro.
+
+I'm not sure what the issue is but I suspect its some interaction with the sleep mode of the Surface Pro.
+
+I did not see this in the other devices I tried, so I am not sure how prevalant it is.&#x20;
+
+Once the Surface Pro is awake, everything works normally.
 
 
 
