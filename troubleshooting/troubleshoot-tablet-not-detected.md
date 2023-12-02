@@ -13,14 +13,21 @@ The "tablet not connected" problem is fundamentally that your computer cannot "s
 * Try a different USB port.
 * Try a different USB cable - make sure the USB cable supports data and not just power.
 * Look at the USB ports and ends of the USB cables and verify they are clean. Remove any lint, etc. that you find.
+* If you have a USB hub, try not using it. Instead connect the devices one-by-one back into the computer, starting with the tablet.
 * Uninstall and reinstall the driver.
 * If you are using a pen display, verify it is getting enough power.
-* On Windows, try uninstalling the driver, restarting the computer, then plug in the tablet and check if the pen moved the pointer and clicks. If this works it may indicate that the tablet driver has a problem.
 * Try the tablet with another computer.
   * If it doesn't work there, then that suggest the tablet itself is having problems.
   * If it does work there, then retry with your own computer.&#x20;
 * Try unplugging other USB devices leaving only the tablet.&#x20;
-* If you have a USB hub, try not using it. Instead connect the devices one-by-one back into the computer, starting with the tablet.
+
+## Windows > Check if Windows PNP drivers work
+
+Windows has some limited built-in support for tablets. Not all tablets work with Windows PNP, but many do.
+
+Try uninstalling your manufacturer tablet driver. The restart your computer. Then see if the tablet works correctly.
+
+If it does work correctly, it points to a problem with the manufacturer tablet driver.
 
 ## Windows > power options for the tablet
 
@@ -35,8 +42,6 @@ Under will be a list of devices
 for each device under the tablet, right-click and select **Properties**
 
 Uncheck **Power Management > Allow the computer to turn off this device to save power** if that option exists for the device.
-
-
 
 ## Manufacturer support pages
 
@@ -67,5 +72,5 @@ If none of these suggestions are helping, then [**contact support**](../guides/g
 
 </div>
 
-##
+
 
