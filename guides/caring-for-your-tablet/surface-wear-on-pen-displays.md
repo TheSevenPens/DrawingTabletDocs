@@ -65,6 +65,12 @@ One benefit of protective sheets is if they do get damaged you can generally rep
 
 More here: [**protective sheets**](../../accessories/protective-sheets.md)
 
+## Examples of damage
 
+### Example 1
+
+![](../../.gitbook/assets/20qku3ezm38a1.jpg)
+
+From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/)&#x20;
 
 &#x20;

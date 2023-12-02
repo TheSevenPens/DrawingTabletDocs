@@ -30,30 +30,17 @@ Wacom makes Texture Sheets available for some of its tablets: [**Wacom texture s
 
 **Can be used for pen displays?** NO. They are completely opaque.
 
-## XP-Pen protective sheets for pen tablets
+## XP-Pen&#x20;
 
-XP-Pen offers some films
-
-* [for Artist 12](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-12.html)
-* [for Artist 12 Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-12-pro.html)
-* [for Artist 22 GEN2](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-22-2nd-gen.html)&#x20;
-* [for Artist 22E Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-22e-pro.html)
-* [for Artist 22R Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-22r-pro.html)
-* [for Artist 24 Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-24-pro.html)
-* [for Artist 13.3/ Artist 13.3 Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-13-3-pro.html)
-* [for Artist 15.6 /Artist 15.6 Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-artist-15-6-pro-innovator-16.html)
-* [for Artist 12 GEN2](https://www.xp-pen.com/store/buy/paper-like-screen-protector-for-artist-12-2nd-gen.html)
-* [for Deco series](https://www.storexppen.com/buy/70.html)
-* [for Deco Mini 7/ 7W](https://www.xp-pen.com/store/buy/tablet-protective-film-for-deco-mini7-mini7w.html)
-* [for Deco Pro](https://www.xp-pen.com/store/buy/tablet-protective-film-for-deco-pro-series-tablet.html)
-* [for Innovator 16 & Artist Pro 16](https://www.xp-pen.com/store/buy/protective-film-for-artist-pro-16-innovator-16.html)&#x20;
-* [for Star 03](https://www.xp-pen.com/store/buy/tablet-protective-film-for-star-03.html)
+[XP-Pen offers protective sheets for their tablets](../product-info/xp-pen/xp-pen-protective-sheets.md)
 
 ## ePlastic polycarbonate sheets (velvet lexan)
 
 Fellow tablet enthusiast, Kuuube, uses velvet lexan sheets.
 
-&#x20;ePlastics 0.010" X 24" X 48" VELVET/MATTE ([https://www.eplastics.com/AF0102448-8B35-VEL-MATTE](https://www.eplastics.com/AF0102448-8B35-VEL-MATTE))
+**Product**
+
+ePlastics 0.010" X 24" X 48" VELVET/MATTE ([https://www.eplastics.com/AF0102448-8B35-VEL-MATTE](https://www.eplastics.com/AF0102448-8B35-VEL-MATTE))
 
 **Size and cutting**
 
@@ -69,8 +56,8 @@ These sheets do NOT come with an adhesive.&#x20;
 
 They can be secured done to the tablet with:
 
-* regular tape (I use gaffer tape)
-* &#x20;adhesive transfer tape such as: [https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/](https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/)
+* regular tape. I sometimes use gaffer tape on the edges. It is ugly and inelegant, but it works.
+* adhesive transfer tape such as: [https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/](https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/)
 
 **Can be used for pen displays?** NO. They are not transparent enough.
 
@@ -114,13 +101,9 @@ These are listen on amazon and eBay for a variety of sizes and products. I've ne
 
 * Review of the HealingShield Screen Protector for Wacom One DTC133 ([https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/](https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/))
 
-## Examples of damage
+## Touch support
 
-### Example 1
-
-![](../.gitbook/assets/20qku3ezm38a1.jpg)
-
-From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/)&#x20;
+If your tablet supports touch, then placing a plastic protective sheet on top will not interefere with touch. And it makes sense that it would will work, because the touch sensor is already underneath a layer of plastic of a pen tablet or under a layer of glass for a pen display. So adding another layer of plastic should not affect touch support.
 
 ## iPad options
 
