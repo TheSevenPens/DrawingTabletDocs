@@ -109,6 +109,7 @@
     * [Creating pen-aware applications](guides/advanced/creating-pen-aware-applications.md)
     * [Digital pen technologies](guides/advanced/digital-pen-technologies.md)
     * [EMR technology in drawing tablets](guides/advanced/emr-tab-tech.md)
+    * [Patrick Lauke's PenTracker](guides/advanced/patrick-laukes-pentracker.md)
   * [Use cases](guides/use-cases/README.md)
     * [Gaming with a drawing tablet](guides/use-cases/gaming-with-a-drawing-tablet.md)
     * [Taking notes with drawing tablets](guides/use-cases/taking-notes-with-drawing-tablets.md)

@@ -22,13 +22,7 @@ Windows has several APIs to talk to drawing tablets
 
 ## PenTracker
 
-[https://patrickhlauke.github.io/touch/pen-tracker/](https://patrickhlauke.github.io/touch/pen-tracker/) -&#x20;
-
-![](<../../.gitbook/assets/image (64).png>)
-
-Source code for pen-tracker is here: [https://github.com/patrickhlauke/touch/tree/gh-pages/pen-tracker](https://github.com/patrickhlauke/touch/tree/gh-pages/pen-tracker)&#x20;
-
-[https://patrickhlauke.github.io/getting-touchy-presentation/](https://patrickhlauke.github.io/getting-touchy-presentation/) -&#x20;
+[Patrick Lauke's PenTracker](patrick-laukes-pentracker.md)&#x20;
 
 ## cgikit.wintab (Python)
 
