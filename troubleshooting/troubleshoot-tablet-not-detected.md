@@ -2,9 +2,9 @@
 
 ## Overview
 
-The "tablet not connected" problem is fundamentally that your computer cannot "see" the device even though it is plugged in via USB cable.
+The "tablet not connected/detected" problem is fundamentally that your computer cannot "see" the device even though it is plugged in via USB cable.
 
-**IMPORTANT**: If pen display and see a "NO SIGNAL" message, go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).
+**IMPORTANT**: If you have a pen display and see a "NO SIGNAL" message, that is a different kind oof problem. Go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).&#x20;
 
 ## Basic troubleshooting&#x20;
 
