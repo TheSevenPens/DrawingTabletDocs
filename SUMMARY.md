@@ -254,6 +254,7 @@
   * [Ugee](product-info/ugee.md)
   * [Miscellaneous](7p-notes/7p-notes-other/README.md)
     * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
+  * [ASUS](product-info/asus.md)
 * [Accessories](accessories/README.md)
   * [Cables](accessories/cables/README.md)
     * [3-in-1 cables for drawing tablets](accessories/cables/3-in-1-cables-for-drawing-tablets.md)
