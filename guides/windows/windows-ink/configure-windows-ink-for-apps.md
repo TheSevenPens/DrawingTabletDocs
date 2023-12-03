@@ -30,7 +30,8 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 * Navigate to **Edit > Settings > Tools > Tablet Input Method**
 * There are three options there: **Low Precision**, **High Precision**, **Windows Ink**&#x20;
-* The default is **Low Precision**.
+* The default is **Low Precision**.&#x20;
+* Restart Affinity Photo/Designer once you change this setting.
 
 <div align="left">
 
@@ -41,7 +42,8 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 ## ArtRage Vitae
 
 * Navigate to **Edit > ArtRage Preferences > Input Device > Tablet Options > Use Wintab** checkbox.
-* The checkbox is enabled by default
+* The checkbox is enabled by default.&#x20;
+* Restart Artrage once you change this setting.
 
 <div align="left">
 
