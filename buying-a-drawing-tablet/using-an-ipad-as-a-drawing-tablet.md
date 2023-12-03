@@ -128,6 +128,7 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../product-info/
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) Nov 1, 2022
 * [Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art](https://www.youtube.com/watch?v=MJN8e8k-w-I) Oct 25, 2023
 * [Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad](https://www.youtube.com/watch?v=DDcdJu\_gUb0) Apr 13, 2023
+* [Studio Fudelio - Why You Don't Need a Wacom Pen Displa](https://www.youtube.com/watch?v=7Mc8QDrPy6o)y Nov 26, 2023
 
 ## Other resources
 
