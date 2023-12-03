@@ -39,6 +39,7 @@
     * [Active area](guides/core-features/active-area.md)
     * [Active area size](guides/core-features/active-area-size.md)
     * [Active area aspect ratio](guides/core-features/active-area-aspect-ratio.md)
+    * [Matching aspect ratios](guides/core-features/active-area-aspect-ratio-1.md)
     * [Bezel](guides/core-features/bezel.md)
     * [Pen tilt](guides/core-features/pen-tilt.md)
     * [Pen pressure](guides/core-features/pen-pressure.md)

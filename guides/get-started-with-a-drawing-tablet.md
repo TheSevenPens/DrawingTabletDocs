@@ -63,12 +63,9 @@ If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Tr
 
 ## Match aspect ratios between the active area and your display
 
-* This step is needed for pen tablets (the ones without a screen). You don't have to do this for other kinds of tablets.
+* This step is needed for pen tablets (the ones without a screen). You don't have to do this for other kinds of tablets.&#x20;
 * <mark style="color:red;">**This step is important for pen tablets.**</mark> If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
-* Change the active area settings to use the same aspect ratio as the screen.
-  * Wacom: in Mapping, enable "Force Proportions"
-  * Huion: In Working Area, this is called "Screen Ratio" &#x20;
-  * XP-Pen: this is called "Screen Ratio"
+* Change the active area settings to use the same aspect ratio as the screen. Explanation and instruction here: [**Matching aspect ratios**](core-features/active-area-aspect-ratio-1.md).&#x20;
 
 ## Windows&#x20;
 
