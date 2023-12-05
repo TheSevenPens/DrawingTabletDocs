@@ -12,7 +12,7 @@
 ## Various tools and libraries
 
 * **PenInspector** - [https://github.com/borco/peninspector](https://github.com/borco/peninspector)&#x20;
-* [**PenTracker** by Patrick Lauke](patrick-laukes-pentracker.md)&#x20;
+* [**PenTracker** by Patrick Lauke](pentracker-by-patrick-lauke.md)&#x20;
 * [**cgikit.wintab**](https://cgkit.sourceforge.net/doc2/wintab.html) - As part of the Python Computer Graphics kit, the wintab module allows you to use Pyhon to get pen data via the WinTab interface.
 
 ## Using HTML5 canvas with stylus
