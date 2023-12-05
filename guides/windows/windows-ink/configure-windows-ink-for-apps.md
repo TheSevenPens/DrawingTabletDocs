@@ -51,5 +51,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 </div>
 
+## Other applications
 
+Many other apps covere here: [https://opentabletdriver.net/Wiki/FAQ/WindowsAppSpecific](https://opentabletdriver.net/Wiki/FAQ/WindowsAppSpecific)&#x20;
 
