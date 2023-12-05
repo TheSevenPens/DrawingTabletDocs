@@ -12,6 +12,12 @@ The EMR signal of a in a drawing tablet and pen travels right through non-metall
 
 Some of the protection options are only relevant for pen tablets because they are not transparent. Pen displays will need something close to transparent to be used. For each option I have indicated whether it can be used for a pen display.
 
+## Amount of anti-glare sparkle
+
+For pen displays that use clear sheets, you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. more here: [**anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).
+
+Some people are very sensitive to the amount of sparkle. So factor that into your choice.
+
 ## Built-in screen protection on pen displays
 
 Some pen displays arrive with a film already on top of the screen. The purpose of this screen is to prevent glare and protect the glass.  It may be possible to replace that film.&#x20;
