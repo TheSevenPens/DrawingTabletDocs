@@ -1,6 +1,6 @@
 # Buying a drawing tablet
 
-Updated: 2023/11/06
+Updated: 2023/12/06
 
 ## Intro
 
@@ -82,11 +82,10 @@ A few drawing tablets support touch. Overall touch is not great. I do not recomm
 
 ## Pen display topics
 
-* **Connection** - Make sure you have an understanding of [**how a pen display is going to connect to your computer**](../guides/pen-displays/connecting-a-pen-display.md).
-* **Single cable connection** - SOME pen displays work with only a single USB-C cable. Some don't. Even if a pen display support its, your computer may not. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md) &#x20;
-* **Anti-glare sparkle** - Understand the impact of [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md). Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. &#x20;
+* **Connection** - Make sure you have an understanding of [**how a pen display is going to connect to your computer**](../guides/pen-displays/connecting-a-pen-display.md). SOME pen displays work with only a single USB-C cable. Some don't. Even if a pen display support its, your computer may not. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md) &#x20;
+* **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them. This will produce a kind sparkle effect. Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. More here: [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).  &#x20;
 * **Display resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
-* **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
+* **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. This is another thing, some people are more sensitive to. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
 * Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/pen-displays/using-a-pen-display-as-a-monitor.md).
