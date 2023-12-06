@@ -2,11 +2,19 @@
 
 I don't have any direct experience with this. Some tablets do support it.
 
-## Notes
+## General topics
 
-* You may not be able to use the full active area of your tablet
+* You may not be able to use the full active area of your tablet.
 * There are no manufacturer drivers to install, so you have to rely on the built in support on the android device.
-* If your tablet has buttons, dials, etc. As far as I know there is no way to configure what those buttons do with an android device
+* If your tablet has buttons, dials, etc. As far as I know there is no way to configure what those buttons do with an android device.
+* The built-in support for tablets does not include any way to control the pressure curve of the pen. So, you'll have to resort to controlling pressure curves in the applications you use on your android device.
+* For a list of applications that work on Android go here: [**Applications**](../../applications/).
+
+## Considerations with a pen display and an android device
+
+* Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
+* The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
+* Your phone is unlikely to provide enough power for the display panel of the pen display, so you'll need to supply more power to the tablet through some other port on the tablet.
 
 ## Videos
 
