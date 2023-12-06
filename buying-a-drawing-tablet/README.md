@@ -199,6 +199,10 @@ Once you get your tablet, you'll need to take care of it and perform some simple
 
 The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets.md).
 
+## Buying used drawing tablets
+
+If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used-drawing-tablets.md)    &#x20;
+
 ## Other guidance
 
 ### Model years
@@ -210,26 +214,16 @@ General guidelines:&#x20;
 * **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
 * **Huion & XP-Pen** - I recommend you only get models released in 2021 or later. &#x20;
 
-### Buying used drawing tablets
-
-If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used-drawing-tablets.md)    &#x20;
-
-### Hardware reliability
-
-Pen tablets overall are much simpler devices than pen displays. As a consequence they are much more reliable.
-
 ## Troubleshooting
 
 At some point, something is going to go wrong. You should be prepared for it.
 
-More here:
-
 * &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
-* &#x20;[**troubleshooting**](../troubleshooting/)  &#x20;
+* &#x20;T[**roubleshooting guides**](../troubleshooting/)  &#x20;
 
 ## Accessories
 
-There are some interesting accessories for a tablet. Explore some options here: [**Accessories**](./#accessories) &#x20;
+There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessories/)
 
 ## Things to check before you buy a tablet
 
@@ -237,6 +231,6 @@ Before you commit to buying a tablet, here are some things to work through: [**B
 
 ## Getting started with your tablet
 
-Once you get your tablet, here's a guide to setting it up for the first time: [Get started with a drawing tablet](../guides/get-started-with-a-drawing-tablet.md)&#x20;
+Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../guides/get-started-with-a-drawing-tablet.md)&#x20;
 
 ###
