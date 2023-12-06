@@ -18,7 +18,6 @@
 * [reddit - first 48 hours with samsung galaxy s9 FE](https://www.reddit.com/r/Android/comments/1732g1v/my\_first\_48\_hours\_with\_the\_samsung\_galaxy\_tab\_s9) Oct 08, 2023
 * [Teoh on Tech - Samsung Tab S9 FE handwriting & note taking review](https://www.youtube.com/watch?v=11i6ZK8Tpu8) Nov 14, 2023
 
+## Samsung Galaxy Tab S9 FE+
 
-
-
-
+* [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW\_TV0fRY) Dec 5, 2023
