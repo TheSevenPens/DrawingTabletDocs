@@ -31,9 +31,12 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 * [Medibang](medibang.md)   (Windows, MacOS)
 * [Paint Tool Sai](painttool-sai.md)  (Windows)
 * [Painter](painter.md)  (Windows, MacOS)
+* pixilart - [https://www.pixilart.com/](https://www.pixilart.com/)  (web)
 * [Procreate](procreate.md) (iOS)
 * [Rebelle](rebelle.md) (Windows, MacOS)
 * Sketchbook Pro (MacOS, Windows, Android, iOS)
+*
+*
 
 ### Vector
 
@@ -47,6 +50,7 @@ For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has
 * Autodesk Maya - &#x20;
 * [Blender](blender.md) (Linux, MacOS, Windows, BSD)
 * Spline - [https://spline.design/](https://spline.design/) - (web)
+* [https://voxelcanvas.me/](https://voxelcanvas.me/) - (web)
 
 ### Photoediting
 
