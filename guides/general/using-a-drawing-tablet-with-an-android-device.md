@@ -16,6 +16,23 @@ I don't have any direct experience with this. Some tablets do support it.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
 * Your phone is unlikely to provide enough power for the display panel of the pen display, so you'll need to supply more power to the tablet through some other port on the tablet.
 
+## Android setups I have tried
+
+**Setup 1: Huion Kamvas 13 + Samsung Galaxy Tab S8 Ultra + Microsoft Surface Thunderbolt 4 Dock**&#x20;
+
+* S8 Ultra connected to the dock
+* Kamvas top USB-C port connected to Huion 3-in-1 cable&#x20;
+* 3-in-1 cable red USB-A end (for power) connected to dock.
+* 3-in-1 cable black USB-A end (for data ) connected to dock.
+* 3-in-1 cable HDMI end not connected
+* Thunderbolt 3 cable connect to lower USB-C port on Kamvas
+* Result:
+  * I was able to paint with pressure using the Infinite Painter app on the Kamvas 13 screen.
+
+**Other setup notes**
+
+* Samsung Galaxy S9 FE does not work with an external monitor so I was unable to get it to work a drawing tablet.
+
 ## Videos
 
 * [Wacom - How to Setup your Wacom Intuos for Android - English](https://www.youtube.com/watch?v=JFTjUCiEy1s) Nov 7, 2019
