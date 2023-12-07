@@ -8,7 +8,11 @@
 * Dials
 * Touch-sensitive strips
 
-<figure><img src="../../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## Other names
 
@@ -72,7 +76,7 @@ These are great for "paired" tasks
 
 ### Wacom Intuos Pro Large PTH-860
 
-![](../../.gitbook/assets/wacompth860expresskeys.jpg)
+<img src="../../.gitbook/assets/wacompth860expresskeys.jpg" alt="" data-size="original">
 
 
 
@@ -97,30 +101,3 @@ These are great for "paired" tasks
 ![](<../../.gitbook/assets/image (288).png>)
 
 ![](<../../.gitbook/assets/image (82).png>)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
