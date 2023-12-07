@@ -1,8 +1,12 @@
 # Using a drawing tablet with an Android device
 
-I don't have any direct experience with this. Some tablets do support it.
+## Overview
 
-## General topics
+Depending on the android device you have and the specific tablet you may be able to use your android device with your drawing tablet.
+
+Do not assume a tablet works with an android device. Check with a manufacturer before trying this. Also be clear on how the tablet will connect to the android device. And for pen displays you need to account for how the tablet will get power.
+
+## General considerations
 
 * You may not be able to use the full active area of your tablet.
 * There are no manufacturer drivers to install, so you have to rely on the built in support on the android device.
@@ -10,7 +14,11 @@ I don't have any direct experience with this. Some tablets do support it.
 * The built-in support for tablets does not include any way to control the pressure curve of the pen. So, you'll have to resort to controlling pressure curves in the applications you use on your android device.
 * For a list of applications that work on Android go here: [**Applications**](../../applications/).
 
-## Considerations with a pen display and an android device
+## Considerations for a pen tablet
+
+* Bluetooth. I don't know if this will work. I haven't ever tried.
+
+## Considerations for a pen display
 
 * Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
@@ -35,9 +43,14 @@ I don't have any direct experience with this. Some tablets do support it.
 
 ## Videos
 
+Pen tablets
+
 * [Wacom - How to Setup your Wacom Intuos for Android - English](https://www.youtube.com/watch?v=JFTjUCiEy1s) Nov 7, 2019
-* [Brad Colbow - The Wacom One's New Android Drawing Features Explained](https://youtu.be/qF6cyT0bq8g) Jan 20, 2020
 * [Aaron Rutten - Wacom Intuos on ANDROID - Review](https://www.youtube.com/watch?v=tMWwTuNO\_7A) Nov 21, 2019
+
+Pen displays
+
+* [Brad Colbow - The Wacom One's New Android Drawing Features Explained](https://youtu.be/qF6cyT0bq8g) Jan 20, 2020
 * [XPPEN - Artist 12 (2nd Gen) Connection with Smartphone(Android)](https://www.youtube.com/watch?v=Q11XAvbirtQ) Dec 27, 2021
 * [Teoh on Tech Android and Pen Display Workflow for Artist (featuring Huion Kamvas)](https://www.youtube.com/watch?v=VCalf9rbQ9U)Jul 12, 2021
-* [Huion How to connect Kamvas Pro 13&16(2.5K) to Android phone](https://www.youtube.com/watch?v=8y-Dfp3AApc) Jan 11, 2022
+* [Huion How to connect Kamvas Pro 13&16 (2.5K) to Android phone](https://www.youtube.com/watch?v=8y-Dfp3AApc) Jan 11, 2022
