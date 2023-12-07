@@ -64,3 +64,24 @@ The Huion PW517 pen has a lower (better) initial activation force than the pen t
 
 
 
+## Pressure instability testing
+
+## Test 1 on 2023/12/6
+
+* firmware: T21m 221228
+* app: Krita
+* brush: ink-3 G pen, 500px
+* driver: v15.6.2.80
+* comments: strong pulsing effect at lower pressues. Size of brush jumps dramatically up and down.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Test 2 on 2023/12/6
+
+* firmware: T21m 221228
+* app: Krita
+* brush: ink-3 G pen, 500px
+* driver: v15.7.6.753
+* comments: pulsing still strongly present at lower pressures but with this driver the effect is smoother.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
