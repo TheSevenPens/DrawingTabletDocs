@@ -2,19 +2,25 @@
 
 ## Overview
 
-When your pen display shows a NO SIGNAL message it is telling you that it is not receiving a display signal from the computer. Solving this problem challenging to diagnose and fix because so many factors are involved.
+The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen display. Most often this can be fixed. But it can be challenging to diagnose the cause because there are so many factors involved.
 
-In this guide, I'll provide every tactic I know about to help. But I also, want you to be prepared that it may be unresolvable and you may need to contact your tablet manufacturer.
+<figure><img src="../.gitbook/assets/PXL_20221202_033015550.MP smaller.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/PXL_20221202_033015550.MP smaller.jpg" alt=""><figcaption></figcaption></figure>
+What it means:  The "NO SIGNAL" message tells you that the pen display is not receiving a display signal from the computer.&#x20;
+
+## About this guide
+
+This guide lists every piece of information and tactic I am aware of that might help.&#x20;
+
+However, it may be that even this guide is not enough to help. And ultimately you should be prepared to contact your tablet manufacturer's customer support team.
 
 ## What you can tell from the message
 
 The fact that you are seeing a NO SIGNAL message already tells you a few things:
 
-* The pen display is getting enough power
-* The backlight inside the display panel is working
-* There is nothing wrong with the display panel itself.
+* **The pen display is getting enough power.** If it wasn't getting enough power, you wouldn't see this message.
+* **The backlight inside the display panel is working.** If the backlight wasn't working, this message would not be visible or incredibly difficult to read.&#x20;
+* **There is nothing wrong with the display panel itself.** The fact that it is showing you anything at all tells you the display panel is working.
 
 ### Why the message might say "POWER SAVING"
 
