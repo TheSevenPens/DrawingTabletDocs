@@ -110,9 +110,15 @@ A few drawing tablets support touch. Overall touch is not great. I do not recomm
 
 **Pen displays** DO NOT have batteries. They must get their power from a cable that is either attached to a computer or to power coming from a wall.
 
-## Operating system information
+## Computer compartibility
 
-### OS compatibility
+Drawing tablets work with:
+
+* Macs
+* PCs&#x20;
+* Chromebooks to some extent. More here: [Using drawing tablets with Chromebooks](../guides/general/using-a-drawing-tablet-with-a-chromebook.md)&#x20;
+
+## OS compatibility
 
 * The issue of compatibility is not with the hardware, it is with the drivers that you need to install on your computer.
 * Windows & MacOS
