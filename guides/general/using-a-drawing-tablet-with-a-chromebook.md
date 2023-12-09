@@ -4,15 +4,8 @@
 
 Apparently YES. But it depends on the tablet you have. You need to verify the compatibility with your tablet manufacturer.
 
-**Wacom**
+* [Wacom - Connect Wacom One with Chromebook 1](https://www.youtube.com/watch?v=6-TQN7S0yes) Nov 11, 2021
+* [Huion - Draw on Huion Kamvas Pro 16 with Chromebook](https://www.youtube.com/watch?v=twoB3GBHTSM) Mar 28, 2021&#x20;
+* [Brad Colbow - Can you Draw On A Chromebook?](https://www.youtube.com/watch?v=dWvY7pwVrBA) (Testing One by Wacom and XP-Pen Deco) Feb 22, 2021
+* [Aaron Rutten - Low-Cost Digital Art Setup: Wacom + CHROMEBOOK](https://www.youtube.com/watch?v=O7ciUtNE\_uw) Jan 26, 2021&#x20;
 
-* [https://www.youtube.com/watch?v=6-TQN7S0yes](https://www.youtube.com/watch?v=6-TQN7S0yes) - Wacom's video on using the Wacom One pen display with a Chromebook
-
-**Huion**
-
-* [https://www.youtube.com/watch?v=twoB3GBHTSM](https://www.youtube.com/watch?v=twoB3GBHTSM) - Huion's video on using a Kamvas Pro 16 with a Chromebook&#x20;
-
-**Other videos about using drawing tablets with Chromebooks**&#x20;
-
-* [https://www.youtube.com/watch?v=dWvY7pwVrBA](https://www.youtube.com/watch?v=dWvY7pwVrBA) (focused on pen tablets) &#x20;
-* [https://www.youtube.com/watch?v=O7ciUtNE\_uw](https://www.youtube.com/watch?v=O7ciUtNE\_uw) (focused on pen tablets)
