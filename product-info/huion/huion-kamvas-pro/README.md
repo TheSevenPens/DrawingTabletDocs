@@ -23,5 +23,8 @@
 
 * [**My notes on this tablet**](../../../7p-notes/7p-notes-huion/7p-notes-huion-kamvas-pro-24-4k-gt2401.md)&#x20;
 * Model Year: 2021
-* User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90)
+* User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90) &#x20;
+* [MossCharmly 2 year review Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=XwD\_7x2S-7g) Dec 9, 2023
+* [Brad Colbow review of Review of Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=HvQxDrzgbOo) Aug 2, 2021
+* [Teoh Yi Chie review of Huion Kamvas Pro 24 4K ](https://www.youtube.com/watch?v=r8k5qsgJXlM)Aug 17, 2021
 

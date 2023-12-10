@@ -16,12 +16,7 @@
 * [Create Now Sleep Later review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=CcrTe2J5Ho8) Aug 8, 2022
 * [Anna Sok review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=03auOS8lgAE) Oct 4, 2022
 
-## Huion Inspiroy 2 L (H1061P)
-
-* [**My notes on this tablet**](../../../7p-notes/7p-notes-huion/7p-notes-huion-inspiroy-2-l-h1061p.md)
-* Product site: [https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html](https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html)   &#x20;
-* [Teoh on tech review of Huion Inspiroy 2 L](https://youtu.be/mgDDBJf96U8) Feb 15, 2023
-* [Create Now Sleep Later review of Huion Inspiroy 2 L](https://youtu.be/L6mgOluUApE) Apr 24, 2023
+##
 
 ## Huion Inspiroy HS611
 
