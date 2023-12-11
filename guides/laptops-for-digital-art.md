@@ -38,7 +38,7 @@ I've been using a Surface Pro 8 with 32GB of RAM and 500GB of storage for two ye
 
 I connect it the Microsoft Surface Dock 2 for power and network connectivity.
 
-I use 2 Thunderbolt 3 cables from the Surface Pro 9 to connec two 4K 60Hz displays (one of those will be the a 4K pen display)&#x20;
+I use two  Thunderbolt 3 cables from the Surface Pro 9 to connect two 4K 60Hz displays (one of those will be the a 4K pen display)&#x20;
 
 Even though the Surface Pro can be used for drawing with it's own pen, I prefer to use attached drawing tablets.
 
@@ -54,7 +54,7 @@ Though I've used every kind successfully: Huion, XP-Pen, and Xencelabs.
 
 ## Videos
 
-* Brad Colbow - Top 5 Laptops for Artists 2021 - ([https://www.youtube.com/watch?v=U6sBdsr5sdg](https://www.youtube.com/watch?v=U6sBdsr5sdg)) &#x20;
+* [Brad Colbow - Top 5 Laptops for Artists 2021](https://www.youtube.com/watch?v=U6sBdsr5sdg) &#x20;
 
 ## Resources
 
@@ -62,6 +62,6 @@ Though I've used every kind successfully: Huion, XP-Pen, and Xencelabs.
 
 ## Places to find other suggestions
 
-* Reddit: r/SuggestALaptop   ([https://www.reddit.com/r/SuggestALaptop/](https://www.reddit.com/r/SuggestALaptop/))
-* Reddit: r/DigitalPainting ([https://www.reddit.com/r/DigitalPainting/](https://www.reddit.com/r/DigitalPainting/))
+* Reddit: [r/SuggestALaptop](https://www.reddit.com/r/SuggestALaptop/) &#x20;
+* Reddit: [r/DigitalPainting](https://www.reddit.com/r/DigitalPainting/) &#x20;
 
