@@ -14,7 +14,7 @@ layout:
 
 # Welcome
 
-Location: [https://docs.thesevenpens.com/drawtab/](https://docs.thesevenpens.com/drawtab/)&#x20;
+This site: [https://docs.thesevenpens.com/drawtab/](https://docs.thesevenpens.com/drawtab/)&#x20;
 
 * [**FAQ (frequently asked questions)**](https://docs.thesevenpens.com/drawtab/faq)&#x20;
 * [**Beginner's guide to drawing tablets**](guides/beginners-guide.md)
@@ -29,3 +29,4 @@ Location: [https://docs.thesevenpens.com/drawtab/](https://docs.thesevenpens.com
 * [**Resources**](resources/)
 
 If you have questions or comments contact me at [**thesevenpens@outlook.com**](https://twitter.com/TheSevenPens)  &#x20;
+
