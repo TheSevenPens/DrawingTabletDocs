@@ -77,6 +77,7 @@
     * [Color tint on edges of display](guides/pen-displays/color-tint-on-edges-of-display.md)
     * [Pen display refresh rate](guides/pen-displays/pen-display-refresh-rate.md)
     * [USB-C support for display signal](guides/pen-displays/usb-c-support-for-display-signal.md)
+    * [Anti-glare film](guides/pen-displays/anti-glare-film.md)
   * [Pens](guides/pens/README.md)
     * [Pen buttons](guides/pens/pen-buttons.md)
     * [Pen compatibility with drawing tablets](guides/pens/pen-compatibility-with-drawing-tablets.md)
