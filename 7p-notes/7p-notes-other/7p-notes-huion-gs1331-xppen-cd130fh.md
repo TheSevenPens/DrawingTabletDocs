@@ -1,13 +1,14 @@
-# 7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2
+# 7P notes: 13" pen displays compared
 
-## One-sentence summary
+## Tablets discussed
+
+* Huion Kamvas 13  (GS1331) - ([user manual](https://www.huion.com/user-manual-70) | [product page](https://www.huion.com/pen\_display/Kamvas/kamvas-13.html) | model year 2020)
+* XP-Pen Artist 13 GEN2 (CD130FH) - ( [user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf) | [product page](https://www.xp-pen.com/product/1263.html) | model year 2022)
+* With some reference to Wacom One GEN 1 (DTC-133)
+
+## Summary
 
 These are very similar tablets, but overall I would pick the Huion Kamvas 13 as the winner. The overall experience was better.&#x20;
-
-## Model tested
-
-* Huion Kamvas 13 (GS1331)&#x20;
-* XP-Pen Artist 13 GEN2 (CD130FH)
 
 ## Evaluation notes
 
@@ -25,51 +26,29 @@ These are very similar tablets, but overall I would pick the Huion Kamvas 13 as 
   * The tables of specs come from the Huion and XP-Pen websites. For some specs, I did some testing to come up with the numbers.
 * **Variances**
   * Please remember that how tablets work can vary even with tablets that have the same model number. I cannot guarantee everyone will experience what I encountered.
-* **User manuals**
-  * Huion - [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)&#x20;
-  * XP-Pen - [https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20(2nd%20Gen)(English).pdf](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf)&#x20;
 * **Pen labeling**
   * I used gaffer tape to identify the pens. Green = XP-PEN, Red=Huion.
 
-## Basic model information
+## Pens
 
-| Tablet                               | XP-Pen Artist 13 (2nd gen)               | Huion Kamvas 13                                          |
-| ------------------------------------ | ---------------------------------------- | -------------------------------------------------------- |
-| <p> </p><p>Model  number</p><p> </p> | <p> </p><p>CD130FH</p><p> </p>           | <p> </p><p>GS1331</p><p> </p>                            |
-| Model year                           | 2022                                     | 2020                                                     |
-| Manufacturer                         | XPPEN                                    | HUION                                                    |
-| Model type                           | PENDISPLAY                               | PENDISPLAY                                               |
-| Product page                         | https://www.xp-pen.com/product/1263.html | https://www.huion.com/pen\_display/Kamvas/kamvas-13.html |
+* X-Pen Artist 13 GEN2 - X3 ELITE
+* Huion Kamvas 13 - PW517
+* Wacom One GEN1 - CP-913
 
-## Core tablet specs
+## Center versus Corner Accuracies
 
-|                                                | X-Pen Artist 13 (2nd gen)                              | Huion Kamvas 13        |
-| ---------------------------------------------- | ------------------------------------------------------ | ---------------------- |
-| Active Area width                              | 293.76 mm x 165.24 mm                                  |  293.76 mm x 165.24 mm |
-| Num pressure levels                            |  8192                                                  |  8192                  |
-| Tilt                                           | ±60°                                                   | ±60°                   |
-| Read speed                                     | Not specified                                          | 266                    |
-| Tablet resolution (Lines per inch)             | 5080                                                   | 5080                   |
-| Default Pen model                              | X3 ELITE                                               | PW517                  |
-| <p>Pen sensing height</p><p>(hover height)</p> | Not specified - based on testing with a ruler is 10 mm | 10 mm                  |
-| Accuracy at Center                             | ±0.5 mm                                                | ±0.5 mm                |
-| Accuracy at Corner                             | ±1 mm                                                  | ±3 mm                  |
-| Technology                                     | EMR                                                    | EMR                    |
-
-### Center versus Corner Accuracies
-
-In my testing
+In my testing&#x20;
 
 * Both have similar center accuracy. I agree with their listed specs of ±0.5mm
 * Both have similar corner accuracy. I measured at ± 2mm&#x20;
 
 Accuracy in both tablets is very good for a pen display
 
-### Diagonal wobble
+## Diagonal wobble
 
 Both tablets have excellent diagonal wobble (i.e. very low amounts of diagonal wobble) with both slow and fast strokes.
 
-XP-Pen Artist 13 \[2nd gen] (CD130FH) wobble
+XP-Pen Artist 13 GEN2 (CD130FH) wobble
 
 ![](<../../.gitbook/assets/XP-Pen Artist 13 \[2nd gen] (CD130FH) wobble.png>)
 
@@ -85,22 +64,7 @@ Compare it to the most expensive pen tablet wacom makes the Wacom Intuos Pro Lar
 
 Both the Huion and XP pen are on par with&#x20;
 
-## Display specs
-
-| Anti-glare treatment                        | AG FILM                                             | AG FILM                                     |
-| ------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
-| Laminated display                           | YES                                                 | <p>YES</p><p> </p>                          |
-| Display Resolution                          | 1920x1080                                           | 1920x1080                                   |
-| <p> </p><p>Display Refresh Rate</p><p> </p> | Not Specified - in my testing supports 60Hz         | Not Specified - in my testing supports 60Hz |
-|  Viewing Angles (Horiz/Vert)                |  178°/178°                                          |  178°/178°                                  |
-| Disp Tech                                   | IPS                                                 | IPS                                         |
-| Disp Bit Depth                              | 8 bits per channel                                  | 8 bits per channel                          |
-| Disp Contrast ratio                         | 1000:1                                              | 1000:1                                      |
-| Disp Brightness                             | 220 cd/m^2                                          | 220 cd/m^2                                  |
-| Display Response Rate                       | not specified                                       | 25ms                                        |
-| Display Gamuts                              | <p>92% NTSC</p><p>130% sRGB</p><p>96% Adobe RGB</p> |  120.0% sRGB                                |
-
-### Anti-glare sparkle
+## Anti-glare sparkle
 
 Both tablets exhibit some anti-glare sparkle. Ideally tablets should exhibit no sparkle.
 
@@ -116,7 +80,7 @@ The XP-Pen tablet is clearly the winner over the Huion tablet for AG sparkle.
 
 ## Drawing Experience
 
-### Drawing
+
 
 Both tablets handle these cases well
 
@@ -128,7 +92,7 @@ Both tablets handle these cases well
 
 Overall drawing experience is very good for both tablets.
 
-### Pressure range
+## Pressure range
 
 * Remember: Pressure is detected by the pen, not the tablet.&#x20;
 * The lower bound on the pressure range is called the Initial Activation Force.
@@ -140,7 +104,7 @@ Overall drawing experience is very good for both tablets.
   * Huion Giano (G930L) -> draws a continuous line
 * Between the two, Huion is the clear winner with its lower IAF.
 
-### Pointer lag
+## Pointer lag
 
 Both Huion and XP-pen models tested exhibit the typical pointer lag present with all pen displays. The lag is comparable to the Wacom One pen display (DTC-133).
 
@@ -151,7 +115,7 @@ Manufacturers don't publish lag numbers. So, this is subjective:
 
 Both tables can be successfully used for creative applications. But Huion is the winner here over the XP-Pen model.
 
-### Parallax
+## Parallax
 
 Thanks to their laminated displays both have very good parallax. They match that of Wacom One.
 
@@ -159,9 +123,7 @@ Below is a parallax photo for several pen tablet models. The XP-Pen parallax sim
 
 ![](<../../.gitbook/assets/image (86).png>)
 
-## Cabling
-
-### Connecting with a 3 in 1 cable
+## Connecting with a 3 in 1 cable
 
 Both tablets come with a 3-in-1 cable.&#x20;
 
@@ -175,15 +137,9 @@ The other 3 ends are:
   * if your computer can provide enough power you can plug the cable into the computer
   * Or you can connect to a USB power adapter. Neither tablet comes with a USB power adapter.
 
-### Connecting with one USB-C cable
+## Connecting with one USB-C cable
 
 For both tablets, I was able to use a single USB-C cable to connect them to the computer. More here: [Connecting a pen display with one USB-C cable](../../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
-
-
-
-
-
-&#x20;
 
 
 

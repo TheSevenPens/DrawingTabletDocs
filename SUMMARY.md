@@ -263,7 +263,7 @@
     * [XP-Pen pens](product-info/xp-pen/xp-pen-pens.md)
   * [Ugee](product-info/ugee.md)
   * [Miscellaneous](7p-notes/7p-notes-other/README.md)
-    * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
+    * [7P notes: 13" pen displays compared](7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
   * [ASUS](product-info/asus.md)
 * [Accessories](accessories/README.md)
   * [Cables](accessories/cables/README.md)
