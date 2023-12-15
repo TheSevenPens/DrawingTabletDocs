@@ -267,6 +267,7 @@
 * [Accessories](accessories/README.md)
   * [Cables](accessories/cables/README.md)
     * [3-in-1 cables for drawing tablets](accessories/cables/3-in-1-cables-for-drawing-tablets.md)
+  * [Cable adapters](accessories/cable-adapters.md)
   * [Drawing gloves](accessories/drawing-gloves.md)
   * [Extension cables](accessories/extension-cables.md)
   * [Keyboards](accessories/keyboards.md)
