@@ -2,9 +2,11 @@
 
 ## Introduction
 
-SOME (very few) drawing tablets have a "reset" feature. Try performing this procedure on your tablet.
+SOME (very few) drawing tablets have a "reset" feature.&#x20;
 
-## Wacom resent steps for Intuos Pro
+Check your user manual or contact support to see if your tablet has this feature
+
+## Wacom reset steps for Intuos Pro
 
 Wacom has a reset procedure for their **Intuos Pro** tablets that may resolve Bluetooth issues, as well as other unusual problems that users may encounter.&#x20;
 
