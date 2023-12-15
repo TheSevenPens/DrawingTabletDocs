@@ -1,5 +1,9 @@
 # Pen computer alternative recommendations
 
+## Overview
+
+Read this first: [**Buying a drawing tablet**](../) &#x20;
+
 Because [**I don't recommend pen computers**](../the-case-against-pen-computers.md), I have provided this list of suggested alternatives.&#x20;
 
 ## Apple iPads
