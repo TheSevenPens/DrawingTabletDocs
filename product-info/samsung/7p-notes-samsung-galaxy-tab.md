@@ -17,7 +17,7 @@ The tablets I own:
 
 RATING: Very good
 
-All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Cintiq Pro.
+All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
 
 ## Drawing feeling
 
@@ -27,11 +27,11 @@ The S Pen uses standard Wacom EMR and delivers a consistent drawing experience t
 
 ## Pen Buttons
 
-The S Pen has a physical button, unlike the Apple iPad&#x20;
+The S Pen has a physical button, unlike the Apple iPad.
 
 ## System lag
 
-The S8 and S9 are incredible responsive.
+The S8 and S9 are incredibly responsive and I don't notice any lag.
 
-The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive enough.&#x20;
+The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive.&#x20;
 
