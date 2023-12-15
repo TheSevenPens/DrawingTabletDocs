@@ -277,6 +277,7 @@
   * [Protective sheets](accessories/protective-sheets.md)
   * [TourBox](accessories/tourbox/README.md)
     * [7P notes: TourBox](accessories/tourbox/7p-notes-tourbox.md)
+  * [Clip Studio Tabmate](accessories/clip-studio-tabmate.md)
   * [Stands](accessories/stands/README.md)
     * [iPad stands](accessories/stands/ipad-stands.md)
 * [Resources](resources/README.md)

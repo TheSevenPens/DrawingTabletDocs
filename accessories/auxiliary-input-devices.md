@@ -18,6 +18,8 @@ Wacom, Xencelabs, Huion, etc. make "remotes" that essentially offload the work o
 
 This is a very specialized category as it is intended for creatives and not gaming. The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [**Tourbox**](tourbox/)&#x20;
 
+The Clip Studio Tabmate is an interesting case. It is is a controller that is built to work with a specific application: Clip Studio Paint. more here: [**Clip Studio Tabmate**](clip-studio-tabmate.md)&#x20;
+
 ## Gaming keypads
 
 Although they are intended for gaming, programmable gaming keypads are also popular for shortcuts.
