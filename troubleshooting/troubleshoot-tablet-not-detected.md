@@ -9,17 +9,29 @@ The "tablet not connected/detected" problem is fundamentally that your computer 
 ## Basic troubleshooting&#x20;
 
 * Restart the computer. This sometimes resolves the problem.
-* Unplug and re-plug the USB cable
-* Try a different USB port.
-* Try a different USB cable - make sure the USB cable supports data and not just power.
-* Look at the USB ports and ends of the USB cables and verify they are clean. Remove any lint, etc. that you find.
-* If you have a USB hub, try not using it. Instead connect the devices one-by-one back into the computer, starting with the tablet.
 * Uninstall and reinstall the driver.
 * If you are using a pen display, verify it is getting enough power.
-* Try the tablet with another computer.
-  * If it doesn't work there, then that suggest the tablet itself is having problems.
-  * If it does work there, then retry with your own computer.&#x20;
-* Try unplugging other USB devices leaving only the tablet.&#x20;
+
+## USB-connection options
+
+* Try unplugging other USB devices leaving only the tablet then plug devices back in.&#x20;
+* If you have a USB hub, try not using it.&#x20;
+* Look at the USB ports and ends of the USB cables and verify they are clean. Remove any lint, etc. that you find.
+* Try a different USB cable - make sure the USB cable supports data and not just power.
+* Try a different USB port.
+* Unplug and re-plug the USB cable
+* Check your tablet documentation. Some tablets have a "reset" option.&#x20;
+
+## Try the tablet with another computer
+
+The issue may be specific with your computer, so try with another computer.
+
+* If it doesn't work there, then that suggest the tablet itself is having problems.
+* If it does work there, then retry with your own computer.&#x20;
+
+## Reset the tablet
+
+* This is an option for SOME tablets. More here: [**Reset a drawing tablet**](reset-wacom-intuos-pro-tablets.md)
 
 ## Windows > Check if Windows PNP drivers work
 
@@ -73,6 +85,4 @@ driver version: 3.4.12(104e65f)&#x20;
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
-
-
 
