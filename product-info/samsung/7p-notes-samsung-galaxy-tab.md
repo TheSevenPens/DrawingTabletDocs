@@ -6,7 +6,7 @@ The tablets I own:
 
 * Samsung Galaxy Tab S8 Ultra <- RECOMMENDED
 * Samsung Galaxy Tab S9 FE <- HIGHLY RECOMMENDED. Great value at reasonable cost.
-* Samsung Galaxy Tab S6 LITE <- great budget choice for beginners
+* Samsung Galaxy Tab S6 LITE (2022 edition) <- RECOMMENDED as great budget choice for esp. for beginners
 
 ## Size
 
