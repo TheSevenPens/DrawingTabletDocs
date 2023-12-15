@@ -14,7 +14,9 @@ Because [**I don't recommend pen computers**](../the-case-against-pen-computers.
 
 ## Samsung Galaxy Tab&#x20;
 
-Several of the Samsung Galaxy Tab S series of tablets will work well. &#x20;
+The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the role of a drawing tablet.
+
+[**My notes on Samsung Galaxy Tab devices**](../../product-info/samsung/7p-notes-samsung-galaxy-tab.md). &#x20;
 
 * [**Samsung Galaxy Tab S6 Lite (2022 version)**](../../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.&#x20;
 * [**Samsung Galaxy Tab S9 FE** ](../../product-info/samsung/samsung-galaxy-tab-s9/)($500) excellent mid-budget option
