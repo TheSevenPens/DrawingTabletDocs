@@ -39,8 +39,9 @@ Others like (myself included) work fine with a 3gf IAF. I definitely notice the 
 ## Min pressure (IAF) across brands
 
 * Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
-* Huion's, XP-Pen, and Xencelabs have a higher IAF - their lowest seems to be around 3gf.&#x20;
-* In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip).
+* Huion's, XP-Pen have a higher IAF - their lowest seems to be around 3gf.&#x20;
+* The Xencelabs pen (or their display tablet) Xencelabs says the max pressure is 500 gf. I have not tested it yet. The 500gf number is stated at 3:13 in this video: [https://www.youtube.com/watch?v=qAWOfUR29gw](https://www.youtube.com/watch?v=qAWOfUR29gw)&#x20;
+* In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip). But that might just be due to normal variations in pens.
 
 ## Max pressure across brands
 
@@ -48,7 +49,9 @@ Keep in mind there's a variations even with pens of the same model.
 
 * Wacom Pro Pen 2 = \~800gf.
 * XP-Pen X3 Pro Pen = one of my pens has a max of 325gf and the other 400gf
-* Xencelabs claims that the pen that comes with their pen display has a max pressure of 500gf but I have not tested it.
+*   Xencelabs pen (or their display tablet) Xencelabs says the max pressure is 500 gf. I have not tested it yet. The 500gf number is stated at 3:13 in this video: [https://www.youtube.com/watch?v=qAWOfUR29gw](https://www.youtube.com/watch?v=qAWOfUR29gw)&#x20;
+
+
 
 ## Pressure levels
 
