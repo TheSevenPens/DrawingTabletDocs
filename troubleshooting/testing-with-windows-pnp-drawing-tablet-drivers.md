@@ -12,13 +12,16 @@ More here: [**Windows PNP support for drawing tablets** ](../guides/windows/wind
 
 * First uninstall your manufacturer's tablet driver
 * Restart your computer
-* NOTES:
-  * You do NOT need to disconnect your tablet
 * The try to reproduce the problem that occured.
+
+## Notes
+
+* You do NOT need to disconnect your tablet.
+* Some tablets do not work with Windows PNP drivers. This is usually a deliberate choice of the tablet manufacturer. So if the tablet isn't working with the PNP drivers, don't worry.&#x20;
 
 ## The pointer
 
-When WIndows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this&#x20;
+When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this&#x20;
 
 \\![](<../.gitbook/assets/image (371).png>)
 
