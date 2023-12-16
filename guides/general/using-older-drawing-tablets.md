@@ -37,5 +37,17 @@ if the latest drivers do not work with the tablet that you have, then you have t
 * Use [**Using older tablet drivers** ](../drivers/using-older-tablet-drivers.md)
 * Use [**OpenTabletDriver**](../drivers/opentabletdriver/)
 
+## Cabling
+
+These days all drawing tablets have ports so the tablet is separate from cables and those ports are almost always now USB-C ports.
+
+Some older tablets - for example the Wacom Intuos 4 XL - have permanently attached USB cables.If&#x20;
+
+Some older pen tablets that have ports, do not use USB-C ports, but instead micro-USB or occasionally mini-USB.
+
+Some older pen displays use proprietary ports and connectors.&#x20;
+
+
+
 ##
 
