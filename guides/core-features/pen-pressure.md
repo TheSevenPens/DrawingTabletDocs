@@ -15,9 +15,18 @@ Pressure is the physical force being exerted on its tip. Remember that it is the
 
 ## Pressure ranges compared
 
-Tablet expert [Kuuube](../../resources/kuuube/), has independently measured the pressure ranges and many pens. Below are his measurements for several Wacom pens.
+* Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
+* In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip). But that might just be due to normal variations in pens.
 
-<table><thead><tr><th width="336.3333333333333">Pen</th><th width="163">min pressure</th><th>max pressure</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>&#x3C;1gf</td><td>794gf</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>&#x3C;1gf</td><td>751gf</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>275-510gf</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>&#x3C;1gf</td><td>299gf</td></tr><tr><td>Wacom Pen 4K (LP-1100K)</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td>Wacom Pen 2K (LP-190K)</td><td>&#x3C;1gf</td><td>320gf</td></tr><tr><td>Wacom One Pen GEN1 (CP-913)</td><td>5gf</td><td>358gf</td></tr><tr><td>Wacom One Pen GEN2 (CP-923)</td><td>8gf</td><td>291gf</td></tr></tbody></table>
+<table><thead><tr><th width="254.33333333333331">Pen</th><th width="135">minpressure</th><th>max pressure</th><th>Source</th></tr></thead><tbody><tr><td><p>Wacom Pro Pen 2</p><p>(KP-504E)</p></td><td>&#x3C;1gf</td><td>794gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Pro Pen Slim</p><p>(KP-301E)</p></td><td>&#x3C;1gf</td><td>751gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Grip Pen</p><p>(KP-501E)</p></td><td>&#x3C;1gf</td><td>275-510gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Pro Pen</p><p>(KP-503E)</p></td><td>&#x3C;1gf</td><td>299gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Pen 4K</p><p>(LP-1100K)</p></td><td>&#x3C;1gf</td><td>226gf</td><td>[1]</td></tr><tr><td><p>Wacom Pen 2K</p><p>(LP-190K)</p></td><td>&#x3C;1gf</td><td>320gf</td><td>[1]</td></tr><tr><td><p>Wacom One Pen GEN1</p><p>(CP-913)</p></td><td>5gf</td><td>358gf</td><td>[1]</td></tr><tr><td><p>Wacom One Pen GEN2</p><p>(CP-923)</p></td><td>8gf</td><td>291gf</td><td>[1]</td></tr><tr><td><p>Xencelabs Pen</p><p>(for pen display 24)</p></td><td>3gf </td><td>500gf</td><td>[2]</td></tr><tr><td>Huion PW517</td><td>unknown;<br>expected to be near 3gf</td><td>unknown</td><td>n/a</td></tr><tr><td>XP-Pen X3 Pro Pen</td><td>unknown;<br>expected to be near 3gf</td><td>325gf-400gf</td><td>[3]</td></tr></tbody></table>
+
+\[1] measurements done by Kuuube
+
+\[2] The numbers are stated at 3:13 in this video: [https://www.youtube.com/watch?v=qAWOfUR29gw](https://www.youtube.com/watch?v=qAWOfUR29gw)&#x20;
+
+\[3] measurements done by TheSevenPens
+
+##
 
 ## Initial Activation Force
 
@@ -35,23 +44,6 @@ Low is subjective but here are some guidelines
 Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
 Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
-
-## Min pressure (IAF) across brands
-
-* Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
-* Huion's, XP-Pen have a higher IAF - their lowest seems to be around 3gf.&#x20;
-* The Xencelabs pen (or their display tablet) Xencelabs says the max pressure is 500 gf. I have not tested it yet. The 500gf number is stated at 3:13 in this video: [https://www.youtube.com/watch?v=qAWOfUR29gw](https://www.youtube.com/watch?v=qAWOfUR29gw)&#x20;
-* In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip). But that might just be due to normal variations in pens.
-
-## Max pressure across brands
-
-Keep in mind there's a variations even with pens of the same model.
-
-* Wacom Pro Pen 2 = \~800gf.
-* XP-Pen X3 Pro Pen = one of my pens has a max of 325gf and the other 400gf
-*   Xencelabs pen (or their display tablet) Xencelabs says the max pressure is 500 gf. I have not tested it yet. The 500gf number is stated at 3:13 in this video: [https://www.youtube.com/watch?v=qAWOfUR29gw](https://www.youtube.com/watch?v=qAWOfUR29gw)&#x20;
-
-
 
 ## Pressure levels
 
