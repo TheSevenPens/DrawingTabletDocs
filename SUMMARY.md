@@ -177,6 +177,7 @@
   * [Troubleshoot WiFi and Internet problems with drawing tablets](troubleshooting/troubleshoot-wifi-and-internet-problems-with-drawing-tablets.md)
   * [Troubleshoot tablet driver does not detect tablet](troubleshooting/troubleshoot-tablet-not-detected.md)
   * [Testing pressure in the tablet driver](troubleshooting/testing-pressure-in-the-tablet-driver.md)
+  * [Testing with Windows PNP drawing tablet drivers](troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)
   * [Troubleshoot computer does not detect display](troubleshooting/troubleshoot-display-detection.md)
   * [Troubleshoot driver no longer supports a drawing tablet](troubleshooting/troubleshoot-driver-no-longer-supports-a-drawing-tablet.md)
   * [Troubleshoot pen acting like a mouse](troubleshooting/troubleshoot-pen-acting-like-a-mouse.md)
