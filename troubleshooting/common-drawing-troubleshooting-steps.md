@@ -30,7 +30,13 @@ NOTES:
 
 * I recommend always testing with Krita because Krita is free and has configurable brushes that let you test our specific pen features such as pressure and tilt.
 
-## Windows Ink
+## Windows > Windows PNP drivers
+
+Try this: [Testing with Windows PNP drawing tablet drivers](testing-with-windows-pnp-drawing-tablet-drivers.md)
+
+Often it can be a clue to what is going on.
+
+## Windows > Windows Ink
 
 If you are using a Mac, skip this section. It does not apply to you.
 
