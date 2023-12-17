@@ -2,11 +2,21 @@
 
 ## Overview
 
-Wacom has three professional pen tablets currently in production
+Wacom has three professional pen tablets currently in production. These are the best pen tablets ever made. Even though this series is from 2017 it still dominates any pen tablet out there today in 2023.
 
-These are the best pen tablets ever made.&#x20;
+## Models
 
-Even though this series is from 2017 it still dominates any pen tablet out there today in 2023.
+Current models:  PTH-\*60
+
+* Wacom Intuos Pro Small 2019 (PTH-460)
+* Wacom Intuos Pro Medium 2017 (PTH-660)
+* Wacom Intuos Pro Large 2017 (PTH-860)
+
+Older models: PTK-\*51
+
+* Intuos Pro Large (2013) (PTH-851)&#x20;
+* Intuos Pro Medium (2013) (PTH-651)&#x20;
+* Intuos Pro Small (2013) (PTH-451 )
 
 ## Wacom Intuos Pro Small 2019 (PTH-460)
 

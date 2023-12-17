@@ -235,6 +235,7 @@
     * [Wacom Cintiq](product-info/wacom/wacom-cintiq.md)
     * [Wacom Cintiq Pro](product-info/wacom/wacom-cintiq-pro/README.md)
       * [7P notes: Wacom Cintiq Pro 16 (DTH-167)](product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md)
+      * [7P notes: Wacom Cintiq Pro 22 (DTH-227)](product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-cintiq-pro-22-dth-227.md)
       * [7P notes: Wacom Cintiq Pro 27 (DTH-271)](product-info/wacom/wacom-cintiq-pro/wacom-cintiq-pro-27-dth-271/7p-notes-wacom-dth271.md)
     * [Wacom One GEN1](product-info/wacom/wacom-one-dtc-133/README.md)
       * [7P notes: Wacom One GEN1 (DTC-133)](product-info/wacom/wacom-one-dtc-133/7p-notes-wacom-one-gen1-dtc-133.md)

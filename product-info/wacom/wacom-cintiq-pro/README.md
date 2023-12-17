@@ -19,6 +19,7 @@
 
 ## Cintiq Pro 22 (DTH-227)
 
+* [**My notes on this tablet**](7p-notes-wacom-cintiq-pro-22-dth-227.md) &#x20;
 * Model year 2023
 * Product page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html)&#x20;
 
