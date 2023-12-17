@@ -14,8 +14,6 @@ Learn more about the active area here:
 
 {% embed url="https://youtu.be/lGAhzRcMS3s" %}
 
-
-
 ## Size categories
 
 I've given convenient labels ("small", "medium", "large") to drawing tablets. This will make it easier to talk about their sizes. The sizes here are approximate.
@@ -61,7 +59,9 @@ medium tablets are the minimum size I would recommend for anyone who is interest
 
 In general I advise against getting a LARGE pen tablet unless you already have experience using one or are highly confident your art style will benefit from it and you are ready to deal with the ergonomic issues that come from using one.
 
-Watch this video to learn more about he reality of using LARGE tablets: **The SevenPens - Is a LARGE pen tablet right for you?** ([https://youtu.be/YCmVugc3w\_g](https://youtu.be/YCmVugc3w\_g))&#x20;
+Watch this video to learn more about he reality of using LARGE tablets:&#x20;
+
+{% embed url="https://youtu.be/YCmVugc3w_g" %}
 
 ### Extra large tablets
 
@@ -69,7 +69,9 @@ Watch this video to learn more about he reality of using LARGE tablets: **The Se
 * Are no longer in production -  only Wacom made them and the most recent models series - the Wacom Intuos 4 XL is from 2011.
 * Require lots of adjustment to your work style due to their size
 
-Watch this video to learn about the reality of using EXTRA LARGE pen tablets: **The Seven Pens - Is an EXTRA LARGE Pen tablet right for you**? ([https://youtu.be/Tv\_qX1Z9-wI](https://youtu.be/Tv\_qX1Z9-wI))&#x20;
+Watch this video to learn about the reality of using EXTRA LARGE pen tablets:&#x20;
+
+{% embed url="https://youtu.be/Tv_qX1Z9-wI" %}
 
 ## Matching pen tablet size to monitor size
 
@@ -97,9 +99,8 @@ This video helps explain the thinking behind it:
 
 ## **Videos**
 
-* Tim McBurnie - Which Size Wacom Is Right For You? ([https://youtu.be/hyfj\_Ek77qM](https://youtu.be/hyfj\_Ek77qM)) Nov 28, 2022
-* Aaron Rutten - What Size Drawing Tablet Should I Get? ([https://youtu.be/qd4OEaqV-rI](https://youtu.be/qd4OEaqV-rI)) &#x20;
-* The Seven Pens - What size drawing tablet should you get? ([https://youtu.be/lGAhzRcMS3s](https://youtu.be/lGAhzRcMS3s))&#x20;
-* The SevenPens - Is a LARGE pen tablet right for you? (Wacom Intuos Pro Large PTH-860) ([https://youtu.be/YCmVugc3w\_g](https://youtu.be/YCmVugc3w\_g))&#x20;
-* The Seven Pens - Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240) ([https://youtu.be/Tv\_qX1Z9-wI](https://youtu.be/Tv\_qX1Z9-wI))&#x20;
-
+* [Tim McBurnie - Which Size Wacom Is Right For You?](https://youtu.be/hyfj\_Ek77qM) Nov 28, 2022
+* [Aaron Rutten - What Size Drawing Tablet Should I Get?](https://youtu.be/qd4OEaqV-rI) Mar 18, 2022
+* [The Seven Pens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s)  Mar 8, 2022
+* [The SevenPens - Is a LARGE pen tablet right for you?](https://youtu.be/YCmVugc3w\_g) Jun 27, 2022
+* [The Seven Pens - Is an EXTRA LARGE Pen tablet right for you?](https://youtu.be/Tv\_qX1Z9-wI) Jul 25, 2022
