@@ -27,10 +27,16 @@ Before you buy a laptop, please ensure that you are clear how you intend to conn
 
 ## Specific laptops I recommend
 
+### Windows
+
 * [Surface Pro 8](../product-info/microsoft/microsoft-surface-pro-8.md)&#x20;
 * [Surface Pro 9](../product-info/microsoft/microsoft-surface-pro-9.md)&#x20;
 * Surface Laptop Studio&#x20;
 * Surface Laptop 5
+
+### Macs
+
+* I'm sure Macs are fine, but I only on December 2023 did I start playing with a MacBook Pro. So I haven't really used on enough to have an opinion yet. But many people have great experiences with them.
 
 ## What I use
 
