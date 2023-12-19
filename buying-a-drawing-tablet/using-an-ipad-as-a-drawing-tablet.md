@@ -134,8 +134,7 @@ My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../product-info/
 
 * [https://www.shutterstock.com/blog/graphics-tablet-vs-screen-tablet](https://www.shutterstock.com/blog/graphics-tablet-vs-screen-tablet)  &#x20;
 * [https://www.makeuseof.com/ipad-vs-drawing-tablet-for-drawing/](https://www.makeuseof.com/ipad-vs-drawing-tablet-for-drawing/)  &#x20;
-* [https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/](https://www.reddit.com/r/ArtistLounge/comments/nebr8k/reasons\_why\_you\_use\_an\_ipad\_over\_graphic/)&#x20;
-* [https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/](https://www.reddit.com/r/ArtistLounge/comments/uey1qy/graphics\_tablet\_display\_or\_ipad/) &#x20;
-* &#x20;[https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/](https://www.reddit.com/r/productivity/comments/ukmdpn/should\_i\_buy\_an\_ipad\_or\_a\_graphic\_tablet\_for\_note/)  &#x20;
-* [https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/)&#x20;
-*
+* r/ArtistLounge [Reasons why you use an Ipad over Graphic tablet/pen display + pc and viceversa?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 5/17/2021
+* r/ArtistLounge [Graphics Tablet, Display, or iPad?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 4/29/2022
+* r/productivity [Should I buy an ipad or a graphic tablet for note taking?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 5/7/2022
+* r/ArtistLounge [Interested in getting an iPad for drawing, has it improved your life?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 10/23/2023\\
