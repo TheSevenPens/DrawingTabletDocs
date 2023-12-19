@@ -3,6 +3,7 @@
 ## Gaomon WH851 Pen Tablet
 
 * [https://gaomon.net/products/wh851-pen-tablet](https://gaomon.net/products/wh851-pen-tablet)
+* [Teoh on Tech - Gaomon WH851 wireless pen tablet with 16K pressure (review)](https://www.youtube.com/watch?v=kUXk4z2ORqY) - Dec 18, 2023
 
 ## Gaomon S620 Pen Tablet
 
