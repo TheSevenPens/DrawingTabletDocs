@@ -1,8 +1,6 @@
 # 7P notes: Wacom One GEN2 drawing tablets
 
-Last updated: 9/10/2023 4:00PM PST
-
-## <mark style="color:red;">**I currently do not recommend these tablets**</mark>
+## <mark style="color:red;">**I do not recommend the Wacom One GEN2 tablets**</mark>
 
 The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 

@@ -37,8 +37,8 @@ A possible negative is that often these displays not only restrict the color gam
 ## References
 
 * **Taming the Wide Gamut using sRGB Emulation** ([https://pcmonitors.info/articles/taming-the-wide-gamut-using-srgb-emulation/](https://pcmonitors.info/articles/taming-the-wide-gamut-using-srgb-emulation/))
-* **sRGB clamp - what is it and how can it affect user experience** ([https://www.reddit.com/r/Monitors/comments/qes94q/srgb\_clamp\_what\_is\_it\_and\_how\_can\_it\_affect\_user/](https://www.reddit.com/r/Monitors/comments/qes94q/srgb\_clamp\_what\_is\_it\_and\_how\_can\_it\_affect\_user/))
-* **sRGB clamp for NVIDIA GPUs** ([https://www.reddit.com/r/Monitors/comments/pakpy9/srgb\_clamp\_for\_nvidia\_gpus/](https://www.reddit.com/r/Monitors/comments/pakpy9/srgb\_clamp\_for\_nvidia\_gpus/))
+* r/Monitors - [sRGB clamp - what is it and how can it affect user experience.](https://www.reddit.com/r/Monitors/comments/qes94q/srgb\_clamp\_what\_is\_it\_and\_how\_can\_it\_affect\_user/) 10/24/2021
+* r/Monitors - [sRGB clamp for NVIDIA GPUs](https://www.reddit.com/r/Monitors/comments/pakpy9/srgb\_clamp\_for\_nvidia\_gpus/) 8/24/2021
 * **novideo\_rgb** tool ([https://github.com/ledoge/novideo\_srgb](https://github.com/ledoge/novideo\_srgb))
 * **Blog: Wide Colour Gamut & SRGB Clamp** ([https://youtu.be/blcWTkv1bvQ](https://youtu.be/blcWTkv1bvQ))
 * **What Is sRGB Emulation Mode And Why Is It Important?** ([https://www.displayninja.com/what-is-srgb-emulation-mode/](https://www.displayninja.com/what-is-srgb-emulation-mode/))

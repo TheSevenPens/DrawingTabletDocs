@@ -403,10 +403,8 @@ Ultimately we need to hear from color professionals to see if indeed the Cintiq 
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/14fmkvv/i\_am\_disappointed\_to\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/14fmkvv/i\_am\_disappointed\_to\_cintiq\_pro\_27/)&#x20;
-* [https://www.reddit.com/r/wacom/comments/15zgsoq/for\_the\_few\_that\_are\_thinking\_about\_getting\_the/](https://www.reddit.com/r/wacom/comments/15zgsoq/for\_the\_few\_that\_are\_thinking\_about\_getting\_the/) &#x20;
-
-
+* r/wacom - [I am disappointed to Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/14fmkvv/i\_am\_disappointed\_to\_cintiq\_pro\_27/) 6/21/2023
+* r/wacom - [For the few that are thinking about getting the new Cintiq Pro 27 stand, I highly discourage it...](https://www.reddit.com/r/wacom/comments/15zgsoq/for\_the\_few\_that\_are\_thinking\_about\_getting\_the/) 8/23/2023
 
 ## Alternatives
 
@@ -487,7 +485,7 @@ Specific iPad Pro model used: Apple iPad Pro (11 inch) (4rd gen)
 **What did not work**
 
 * The iPad Pro was not able to use the touch support of the Cintiq Pro 27 at all.
-* The image on the Cintiq Pro 27 looked washed out - and I tried all color profiles on the Cintiq Pro 27. This seems to be an issue with the iPad Pro and some displays in general. See [https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1\_ipad\_pro\_washed\_out\_colors\_using\_external/](https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1\_ipad\_pro\_washed\_out\_colors\_using\_external/)&#x20;
+* The image on the Cintiq Pro 27 looked washed out - and I tried all color profiles on the Cintiq Pro 27. This seems to be an issue with the iPad Pro and some displays in general. See: r/iPadPro - [M1 iPad Pro washed out colors using external monitor.](https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1\_ipad\_pro\_washed\_out\_colors\_using\_external/) 7/26/2023
 
 ### Connecting to a Samsung Galaxy S8 Ultra
 

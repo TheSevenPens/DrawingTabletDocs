@@ -114,7 +114,9 @@ I don't know of any way to remove the anti-glare sparkle if it is due to etched 
 
 However, some people have had luck reducing the sparkle by adding a film on top of the AG glass.
 
-Here is an example: [https://www.reddit.com/r/wacom/comments/1455ay0/cintiq\_24\_pro\_oem\_screen\_protector/](https://www.reddit.com/r/wacom/comments/1455ay0/cintiq\_24\_pro\_oem\_screen\_protector/)&#x20;
+Here is an example:&#x20;
+
+* r/wacom - [Cintiq 24 Pro OEM screen protector](https://www.reddit.com/r/wacom/comments/1455ay0/cintiq\_24\_pro\_oem\_screen\_protector/) 6/9/2023
 
 ### **AG Film**
 
@@ -132,15 +134,10 @@ If the tablet's film is not designed to be removed, you could still do it, but I
 
 If you do remove the film, you will be drawing on the glass of the display. To avoid scratching that glass, you may want to search for a film that can protect it, but that does not have any anti-glare treatment.  See [protective sheets](../../accessories/protective-sheets.md).&#x20;
 
-
-
 ## Reddit threads
 
-[https://www.reddit.com/r/huion/comments/13ikmph/](https://www.reddit.com/r/huion/comments/13ikmph/) - This reddit post has an video thet perfectly demonstrates the shimmering effect of the sparkle.
-
-[https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/](https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/)   -&#x20;
-
-
+* r/huion - [https://www.reddit.com/r/huion/comments/13ikmph/](https://www.reddit.com/r/huion/comments/13ikmph/) - This deleted reddit post has an video thet perfectly demonstrates the shimmering effect of the sparkle.
+* r/huion - [Is this normal? Possible display issue? noisy output?](https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/) 11/23/2022
 
 ## References
 

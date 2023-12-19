@@ -30,5 +30,5 @@ Like Wacom they both have a wide variety of products available.
 
 In early 2023, reddit user Sunny-Throwaway (account now deleted) ran a survey on the Huion subreddit. There were 20 respondents and that is not a large sample size but it is interesting to look through.
 
-* Reddit post about the results: ([https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/](https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/))
+* r/huion - [\[UPDATE\] Huion Tablet Survey - College Project](https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/) 3/19/2023
 * Direct link to the results: [https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics](https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics)&#x20;

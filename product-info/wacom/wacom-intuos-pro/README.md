@@ -6,13 +6,13 @@ Wacom has three professional pen tablets currently in production. These are the 
 
 ## Models
 
-Current models:  PTH-\*60
+Current models:  PTH-x60
 
 * Wacom Intuos Pro Small 2019 (PTH-460)
 * Wacom Intuos Pro Medium 2017 (PTH-660)
 * Wacom Intuos Pro Large 2017 (PTH-860)
 
-Older models: PTK-\*51
+Older models: PTK-x51
 
 * Intuos Pro Large (2013) (PTH-851)&#x20;
 * Intuos Pro Medium (2013) (PTH-651)&#x20;
