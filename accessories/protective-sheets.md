@@ -105,7 +105,7 @@ These are listen on amazon and eBay for a variety of sizes and products. I've ne
 
 **Can be used for pen displays?** YES.
 
-* Review of the HealingShield Screen Protector for Wacom One DTC133 ([https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/](https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/))
+* r/wacom - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/) 3/19/2023
 
 ## Touch support
 
