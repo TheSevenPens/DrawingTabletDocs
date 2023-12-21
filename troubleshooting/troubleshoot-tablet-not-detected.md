@@ -9,7 +9,8 @@ The "tablet not connected/detected" problem is fundamentally that your computer 
 ## Basic troubleshooting&#x20;
 
 * Restart the computer. This sometimes resolves the problem.
-* Uninstall and reinstall the driver.
+* Uninstall and reinstall the driver. Then restart the computer.
+* Check if there is a more recent version of the driver. Install it. Then restart the computer.
 * If you are using a pen display, verify it is getting enough power.
 
 ## USB-connection options
