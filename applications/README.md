@@ -1,7 +1,5 @@
 # Applications
 
-##
-
 ## Applications that come with a drawing tablet
 
 Most drawing tablets come with a limited-time trial license to some applications. Usually these trials last anywhere from 3 to 6 months. After this time, you'll have to pay for the app. Some are subscription and some are one-time-purchases.
