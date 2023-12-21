@@ -1,13 +1,17 @@
 # Applications
 
-## Overview
+##
 
-Apps will fall into two categories:
+## Applications that come with a drawing tablet
+
+Most drawing tablets come with a limited-time trial license to some applications. Usually these trials last anywhere from 3 to 6 months. After this time, you'll have to pay for the app. Some are subscription and some are one-time-purchases.
+
+## Applications and how they work with pens
 
 * **pen-aware apps** - these apps know about pens, pressure, tilt, etc. and can take advantage of those features
 * **other apps** - these apps don't know about pens. So when you use a pen with them, the application treats them just like a mouse. In fact the app has no idea you are using a pen. The pen will work for basic tasks. For example the pen can move the operating system pointer, you can press down with the pen to draw or click, the buttons may work. However, the app won't do anything special with pen capabilities like tilt, or pressure sensitivity.
 
-## The pen-aware apps I use and recommend
+## Apps I use and recommend
 
 * [**Clip Studio Paint**](clip-studio-paint.md) - Medium Cost, Advanced, very powerful, multiplatform. Great for comics. For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has made me as productive.
 * [**Krita**](krita.md) - FREE, Advanced, multiplatform. Very powerful. I use this when I want a natural media painting style. It's also the standard app I use for testing tablets.
@@ -16,53 +20,53 @@ Apps will fall into two categories:
 
 ### Creative 2D
 
-* [ArtRage](./#artrage)   (Windows, macOS, iOS, Android)
-* Aggie.io - [https://aggie.io](https://aggie.io) (web)
-* [Clip Studio Paint](clip-studio-paint.md)    (Windows, MacOS, Android, iOS)
-* [Concepts](./#concepts)  (Windows, Android, iOS)
-* Adobe [Fresco](fresco.md)  (Windows, iOS, MacOS)
-* [Firealpaca](fireaplaca.md)   (Windows, MacOS)
-* [HiPaint](hipaint.md) (Android, iOS)
-* [Infinite Painter](./#infinite-painter)   (Android, iOS)
-* [Krita](krita.md)  (Windows, Linux, MacOS)
-* Magma - [https://magma.com/](https://magma.com/) (web)
-* [Medibang](medibang.md)   (Windows, MacOS)
-* [Paint Tool Sai](painttool-sai.md)  (Windows)
-* [Painter](painter.md)  (Windows, MacOS)
-* pixilart - [https://www.pixilart.com/](https://www.pixilart.com/)  (web)
-* [Procreate](procreate.md) (iOS)
-* [Rebelle](rebelle.md) (Windows, MacOS)
-* Sketchbook Pro (MacOS, Windows, Android, iOS)
+* [**ArtRage**](./#artrage) (Windows, macOS, iOS, Android)
+* **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
+* [**Clip Studio Paint**](clip-studio-paint.md) (Windows, MacOS, Android, iOS)
+* [**Concepts**](./#concepts) (Windows, Android, iOS)
+* **Adobe** [**Fresco**](fresco.md) (Windows, iOS, MacOS)
+* [**Firealpaca**](fireaplaca.md) (Windows, MacOS)
+* [**HiPaint**](hipaint.md) (Android, iOS)
+* [**Infinite Painter**](./#infinite-painter) (Android, iOS)
+* [**Krita**](krita.md)  (Windows, Linux, MacOS)
+* **Magma** - [https://magma.com/](https://magma.com/) (web)
+* [**Medibang**](medibang.md) (Windows, MacOS)
+* [**Paint Tool Sai**](painttool-sai.md)  (Windows)
+* [**Painter**](painter.md)  (Windows, MacOS)
+* **pixilart** - [https://www.pixilart.com/](https://www.pixilart.com/)  (web)
+* [**Procreate**](procreate.md) (iOS)
+* [**Rebelle**](rebelle.md) (Windows, MacOS)
+* **Sketchbook Pro** (MacOS, Windows, Android, iOS)
 
 ### Vector
 
-* Affinity Designer (Windows, MacOS)
-* Adobe Illustrator (Windows, MacOS)
-* [Inkscape](https://gitlab.com/inkscape/inkscape) (Windows, MacOS, Linux)
-* VectorInk (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
+* **Affinity Designer** (Windows, MacOS)
+* **Adobe Illustrator** (Windows, MacOS)
+* [**Inkscape**](https://gitlab.com/inkscape/inkscape) (Windows, MacOS, Linux)
+* **VectorInk** (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
 
 ### 3D&#x20;
 
-* Autodesk Maya&#x20;
-* [Blender](blender.md) (Linux, MacOS, Windows, BSD)
-* Spline - [https://spline.design/](https://spline.design/) - (web)
-* [https://voxelcanvas.me/](https://voxelcanvas.me/) - (web)
+* **Autodesk Maya**&#x20;
+* [**Blender**](blender.md) (Linux, MacOS, Windows, BSD)
+* **Spline** - [https://spline.design/](https://spline.design/) - (web)
+* [**https://voxelcanvas.me/**](https://voxelcanvas.me/) - (web)
 
 ### Photoediting
 
-* Adobe [Photoshop](photoshop.md) (Windows, MacOS)
-* Affinity Photo
-* Photopea - [https://www.photopea.com/](https://www.photopea.com/) (web)
+* **Adobe** [**Photoshop**](photoshop.md) (Windows, MacOS)
+* **Affinity Photo**
+* **Photopea** - [https://www.photopea.com/](https://www.photopea.com/) (web)
 
 ### Note-taking
 
-* [Microsoft OneNote](microsoft-onenote.md) (Windows, MacOS, Android, iOS)
-* [Samsung Notes](samsung-notes.md) (select Samsung PCs and tablets)
+* [**Microsoft OneNote**](microsoft-onenote.md) (Windows, MacOS, Android, iOS)
+* [**Samsung Notes**](samsung-notes.md) (select Samsung PCs and tablets)
 
 ### Whiteboarding
 
-* [Microsoft Whiteboard](microsoft-whiteboard.md) (Windows, iOS, iPadOS, Android)
-* [Freeform](freeform.md) (iOS, iPadOS, MacOS)
+* [**Microsoft Whiteboard**](microsoft-whiteboard.md) (Windows, iOS, iPadOS, Android)
+* [**Freeform**](freeform.md) (iOS, iPadOS, MacOS)
 
 ## Roundups & reviews
 
