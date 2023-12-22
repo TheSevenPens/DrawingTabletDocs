@@ -246,6 +246,7 @@
     * [Wacom pens](product-info/wacom/wacom-pen-models/README.md)
       * [7P notes: Wacom Pro Pen 3](product-info/wacom/wacom-pen-models/7p-notes-wacom-pro-pen-3.md)
     * [Wacom pen compatibility](drawing-tablet-brands/wacom/wacom-pen-compatibility.md)
+    * [Wacom Intuos 2](product-info/wacom/wacom-intuos-2.md)
   * [Xencelabs](product-info/xencelabs/README.md)
     * [Xencelabs Quick Keys](product-info/xencelabs/xencelabs-quick-keys.md)
     * [7P notes: Xencelabs Pen Tablet Medium (BPH1212W-A)](product-info/xencelabs/7p-notes-xencelabs-medium-pen-tablet.md)
