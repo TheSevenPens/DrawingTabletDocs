@@ -135,7 +135,7 @@ Wacom: [https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-sup
 
 ## Applications
 
-There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/).
+There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/). Here are the apps I specifically use: [**Recommended apps**](../applications/recommended-apps.md)&#x20;
 
 ## Ergonomics
 
@@ -225,7 +225,7 @@ General guidelines:&#x20;
 At some point, something is going to go wrong. You should be prepared for it.
 
 * &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
-* &#x20;T[**roubleshooting guides**](../troubleshooting/)  &#x20;
+* &#x20;[**Troubleshooting guides**](../troubleshooting/)  &#x20;
 
 ## Accessories
 
