@@ -9,10 +9,9 @@ Most drawing tablets come with a limited-time trial license to some applications
 * **pen-aware apps** - these apps know about pens, pressure, tilt, etc. and can take advantage of those features
 * **other apps** - these apps don't know about pens. So when you use a pen with them, the application treats them just like a mouse. In fact the app has no idea you are using a pen. The pen will work for basic tasks. For example the pen can move the operating system pointer, you can press down with the pen to draw or click, the buttons may work. However, the app won't do anything special with pen capabilities like tilt, or pressure sensitivity.
 
-## Apps I use and recommend
+## Recommendations
 
-* [**Clip Studio Paint**](clip-studio-paint.md) - Medium Cost, Advanced, very powerful, multiplatform. Great for comics. For the kind of art I do, I am a huge fan of Clip Studio Paint. Nothing else has made me as productive.
-* [**Krita**](krita.md) - FREE, Advanced, multiplatform. Very powerful. I use this when I want a natural media painting style. It's also the standard app I use for testing tablets.
+If you are interested in the apps I use and personally recommend: [**recommended apps**](recommended-apps.md)
 
 ## Pen-aware applications
 
