@@ -87,3 +87,13 @@ driver version: 3.4.12(104e65f)&#x20;
 
 </div>
 
+**Wacom / Wacom Center**
+
+Date: 2023/12/23
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 at 10.03.09 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
