@@ -25,13 +25,15 @@ RATING: Very good
 
 The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil though it is not as good as the Wacom Pro Pen 2 in terms of pressure range.
 
-## Pen Buttons
+## S Pen > Pen Buttons
 
-The S Pen has a physical button, unlike the Apple iPad.
+The S Pen has one physical button, unlike the Apple iPad. This also differs from the pens of most drawing tablets like the Wacom Intuos or Wacom Intuos Pro. Those pens have two buttons, and some have three.
+
+More here: [Samsung S Pen](samsung-s-pen.md)
 
 ## System lag
 
-The S8 and S9 are incredibly responsive and I don't notice any lag.
+The S8 and S9 are incredibly responsive and I don't notice much lag. They seemed as responsive as an iPad.
 
 The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive.&#x20;
 
