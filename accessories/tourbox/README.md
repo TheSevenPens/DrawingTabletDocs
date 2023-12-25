@@ -8,14 +8,16 @@ TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an 
 
 Essentially it is like a keyboard/keypad that looks like a game controller - where the buttons are completely customizable. A single key or dial can even be set do perform different functions for different applications.
 
-[My notes on using the TourBox](7p-notes-tourbox.md)
-
 The key benefit of this device is that instead of using the keyboard while you are drawing - which frequently, you can use the TourBox instead to perform common actions like
 
 * zoom in / zoom out
 * undo / redo
 * change brush size
 * switch tools
+
+## How I use it
+
+[**My notes on using the TourBox**](7p-notes-tourbox.md)
 
 ## Tourbox NEO
 
