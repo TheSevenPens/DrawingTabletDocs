@@ -4,7 +4,11 @@
 
 Pens are the most sensitive component because they have some small parts and some moving parts. A fall onto a floor - especially if it hits the nib directly - can completely break the internals of your pen. The impact can make the pen completely non-functional or make it stop working in specific ways.
 
-## <mark style="color:red;">Do not let your tablet drop to the floor</mark>
+## <mark style="color:red;">Dop not place excessive pressure on your pen tip!</mark>
+
+Normal drawing is fine. But don't \*mash\* it or hit it on a surface. You can damage the pressure sensor or you might break the nib. Use it for drawing on your tablet and nothing else.
+
+## <mark style="color:red;">Do not let your tablet drop to the floor!</mark>
 
 A **pen tablet**, has fewer moving parts and most of the time nothing bad will happen to it.
 
