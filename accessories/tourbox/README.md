@@ -4,6 +4,8 @@
 
 TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an input device that simplifies doing artwork with a drawing tablet.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-25 122056.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 Essentially it is like a keyboard/keypad that looks like a game controller - where the buttons are completely customizable. A single key or dial can even be set do perform different functions for different applications.
 
 [My notes on using the TourBox](7p-notes-tourbox.md)
