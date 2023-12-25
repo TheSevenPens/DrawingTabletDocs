@@ -16,7 +16,7 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 **Thunderbolt** - Both Thunderbolt 3 and Thunderbolt 4 cables and ports are capable of being used for this scenario. &#x20;
 
-## Combinations I have personally tested and confirmed to work
+## Testing setup&#x20;
 
 **Computer tested**
 
@@ -35,61 +35,22 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 * ![](<../../.gitbook/assets/Whittled USBC (1).jpg>)![](<../../.gitbook/assets/Whittled USBC (3) (2).jpg>)
 * This plastic was tough to cut. I didn't do a very clean job but it **just barely** fits into the port - the fit is very snug and I should probably remove just a little more.
 
-**Huion Kamvas 13 (GS1331)**
+## Testing results
 
-Port used on tablet: Lower USB-C port
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-**Huion Kamvas Pro 13 2.5K (GT1302)**
-
-Port used on tablet: Upper USB-C port
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-**Huion Kamvas Pro 16 Plus 4k (GT1562)**
-
-Port used on tablet: Lower USB-C port&#x20;
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-**XP-Pen Artist 12 (Gen2)  (CD120FH)**
-
-Port used on tablet: Upper USB-C port
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-&#x20;**XP-Pen Artist 13 (Gen2)  (CD130FH)**
-
-Port used on tablet: Upper USB-C port
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-**XP-Pen Artist Pro 16 (Gen2) (MD160QH)**
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-**Wacom One 13 touch (Gen2) (DTH-134)**
-
-Port used on tablet: Left USB-C port
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.
-
-**Wacom One 12 (Gen2) (DTC-121)**
-
-Port used on tablet: Left USB-C port
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO WORK.&#x20;
-
-**Wacom One (Gen1) (DTC-133)**
-
-* CableMatters Thunderbolt 3 cable: VERIFIED TO **NOT WORK**.
+| Tablet                                                                                                    | Cable                            | Results                                                  |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------- |
+| <p><strong>Huion Kamvas 13 (GS1331)</strong></p><p>Port used on tablet: Lower USB-C port</p>              | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| <p><strong>Huion Kamvas Pro 13 2.5K (GT1302)</strong></p><p>Port used on tablet: Upper USB-C port</p>     | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| <p><strong>Huion Kamvas Pro 16 Plus 4k (GT1562)</strong></p><p>Port used on tablet: Lower USB-C port </p> | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| <p><strong>XP-Pen Artist 12 (Gen2)  (CD120FH)</strong></p><p>Port used on tablet: Upper USB-C port</p>    | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+|  **XP-Pen Artist 13 (Gen2)  (CD130FH)**                                                                   | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| **XP-Pen Artist Pro 16 (Gen2) (MD160QH)**                                                                 | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| <p><strong>Wacom One 13 touch (Gen2) (DTH-134)</strong></p><p>Port used on tablet: Left USB-C port</p>    | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| **Wacom One 12 (Gen2) (DTC-121)**Port used on tablet: Left USB-C port                                     | CableMatters Thunderbolt 3 cable | VERIFIED TO WORK                                         |
+| **Wacom One (Gen1) (DTC-133)**                                                                            | CableMatters Thunderbolt 3 cable | VERIFIED TO <mark style="color:red;">**NOT WORK**</mark> |
 
 ## Resources
 
 * Here is a list from Huion about devices that can use a single USB-C cable: [https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)&#x20;
-
-## Other resources
-
 * Brad Colbow connecting the Huion Kamvas 13 with a single USB-C cable: See 6:00 in this video: [https://youtu.be/ku8x1q\_nhFQ](https://youtu.be/ku8x1q\_nhFQ)
 * Teoh on Tech connecting the XP-Pen Artist 13 (2nd gen) using a single USB-C cable. See 4:30 in the video:  [https://youtu.be/Exj2PZu4MHM](https://youtu.be/Exj2PZu4MHM)
