@@ -32,6 +32,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**Medibang**](medibang.md) (Windows, MacOS)
 * [**Paint Tool Sai**](painttool-sai.md)  (Windows)
 * [**Painter**](painter.md)  (Windows, MacOS)
+* [**Paintstorm Studio**](paintstorm-studio.md)  (Windows, macOS, iOS, Linux)
 * **pixilart** - [https://www.pixilart.com/](https://www.pixilart.com/)  (web)
 * [**Procreate**](procreate.md) (iOS)
 * [**Rebelle**](rebelle.md) (Windows, MacOS)

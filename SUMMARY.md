@@ -154,6 +154,7 @@
   * [Microsoft PowerPoint](applications/microsoft-powerpoint.md)
   * [Microsoft OneNote](applications/microsoft-onenote.md)
   * [Painter](applications/painter.md)
+  * [Paintstorm Studio](applications/paintstorm-studio.md)
   * [PaintTool Sai](applications/painttool-sai.md)
   * [Photoshop](applications/photoshop.md)
   * [Procreate](applications/procreate.md)
