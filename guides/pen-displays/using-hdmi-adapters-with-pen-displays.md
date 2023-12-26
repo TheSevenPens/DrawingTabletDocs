@@ -24,6 +24,16 @@ These are the ones I personally use:
 * Display Port - For a 2K display at 60Hz: [https://www.amazon.com/gp/product/B00K2E4T88/](https://www.amazon.com/gp/product/B00K2E4T88/)&#x20;
 * Mini DisplayPort - for 2K display at 60Hz: [https://www.amazon.com/gp/product/B00K0UDJFI](https://www.amazon.com/gp/product/B00K0UDJFI)
 
+## USB-C to HDMI adapters
+
+I've had good luck with the "Amazon Basics Premium Aluminum USB-C to HDMI Cable Adapter (Thunderbolt 3 Compatible) 4K@60Hz, 6-Foot, Black". Note that is an entire cable, not just an adapter. link: [https://www.amazon.com/dp/B083KV1BR3](https://www.amazon.com/dp/B083KV1BR3)&#x20;
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/amazon-basics usb-to-hdmi cable (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
 ## DVI to HDMI adapters
 
 These will be MALE DVI to FEMALE HDMI.
