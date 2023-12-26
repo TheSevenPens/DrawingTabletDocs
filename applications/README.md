@@ -24,6 +24,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * **Adobe** [**Fresco**](fresco.md) (Windows, iOS, MacOS)
 * [**Firealpaca**](fireaplaca.md) (Windows, MacOS)
 * [**HiPaint**](hipaint.md) (Android, iOS)
+* [**Ibis Paint**](ibis-paint.md) (Windows, iOS, Android)
 * [**Infinite Painter**](./#infinite-painter) (Android, iOS)
 * [**Krita**](krita.md)  (Windows, Linux, MacOS)
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;

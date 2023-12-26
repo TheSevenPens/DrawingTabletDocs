@@ -146,6 +146,7 @@
   * [Freeform](applications/freeform.md)
   * [Fresco](applications/fresco.md)
   * [HiPaint](applications/hipaint.md)
+  * [Ibis Paint](applications/ibis-paint.md)
   * [Infinite Painter](applications/infinite-painter.md)
   * [Krita](applications/krita.md)
   * [Medibang Paint](applications/medibang.md)
