@@ -16,6 +16,7 @@
 ## XP-Pen Artist 15.6 Pro
 
 * [https://www.xp-pen.com/store/buy/artist-15-6-pro.html](https://www.xp-pen.com/store/buy/artist-15-6-pro.html)
+* User manual: [https://download01.xp-pen.com/file/2019/09/Artist%2012%20Pro,%2013.3%20Pro%20&%2015.6%20Pro%20User%20Manual(English).pdf](https://download01.xp-pen.com/file/2019/09/Artist%2012%20Pro,%2013.3%20Pro%20&%2015.6%20Pro%20User%20Manual\(English\).pdf)&#x20;
 * [Brad Colbow - XP-Pen Artist 15.6 Pro review](https://www.youtube.com/watch?v=xDmFzYZclyk) 2019/1/28&#x20;
 * [Marc Brunet - XP-PEN ARTIST 15.6 PRO REVIEW ](https://www.youtube.com/watch?v=ZHAcc5r6qb4)2020/2/13
 * [Nadiaxel - XP-PEN Artist 15.6 Pro 【 Unboxing and Testing 】](https://www.youtube.com/watch?v=MxqvULDw3EY) 2019/5/17
