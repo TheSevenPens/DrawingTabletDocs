@@ -49,7 +49,15 @@ Others like (myself included) work fine with a 3gf IAF. I definitely notice the 
 
 These days tablet brands say that they can handle 8K (8192) levels of pressure. Some tablets even claim to support 16K pressure levels.
 
-Don't get caught up in hype about pressure levels. I claim you only need 2048 levels of pressure (and probably even less than that). As a quick example watch this 35 second video: [https://youtu.be/V-79hS5sRQw](https://youtu.be/V-79hS5sRQw)&#x20;
+
+
+## Pressure level hype
+
+<mark style="color:red;">**Don't get caught up in hype about pressure levels**</mark>.&#x20;
+
+I claim you only need 2048 levels of pressure (and probably even less than that). As a quick example watch this 35 second video: [https://youtu.be/V-79hS5sRQw](https://youtu.be/V-79hS5sRQw)&#x20;
+
+{% embed url="https://youtu.be/V-79hS5sRQw" %}
 
 ## Disabling pressure
 
