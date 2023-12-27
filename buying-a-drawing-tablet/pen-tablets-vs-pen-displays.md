@@ -1,8 +1,14 @@
 # Pen tablets vs pen displays
 
-## Context
+## Overview
 
-The [**buying guide**](./) covers all these topics in detail. This document is a quick summary of those topics.
+Choosing between a pen tablet vs a pen display can be hard. There is no right answer that covers everyone. This page will summarize the differences. If you want more information, consult the [**buying guide**](./) which covers all these topics in detail.&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/7P SLIDE Pen Tablets vs Pen Displays.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ## Introduction
 
