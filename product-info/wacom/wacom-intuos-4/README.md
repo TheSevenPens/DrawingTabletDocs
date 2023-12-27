@@ -6,10 +6,7 @@ Wacom launched the Intuos 4 in 2009. These are professional pen tablets.
 
 ## Models
 
-* Intuos 4 Small (PTK-640)
-* Intuos 4 Medium (PTK-640)
-* Intuos 4 Large (PTK-840)
-* Intuos 4 XL (PTK-1240)
+<table><thead><tr><th width="131">Model ID</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTK-840</td><td>Intuos4 Large</td></tr><tr><td>PTK-640</td><td>Intuos4 Medium</td></tr><tr><td>PTK-440</td><td>Intuos4 Small</td></tr><tr><td>PTK-1240</td><td>Intuos4 XL</td></tr></tbody></table>
 
 ## Using a Wacom Intuos 4 in 2023 or later
 
