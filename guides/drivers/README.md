@@ -1,6 +1,22 @@
 # Drivers
 
-For you to fully use the features of your drawing tablet you need to install drivers in your computer.
+
+
+## Overview
+
+To fully use all the features of your drawing tablet, you must to install drivers in your computer.
+
+## The importance of installing tablet drivers
+
+Without tablet drivers you won't be able to:
+
+* Use tilt
+* Use pressure
+* Configure the buttons on the pen
+* Configure buttons on the tablet
+* Control which display the tablet is mapped to
+* Ensure that you have matching aspect ratios between your tablet and display so that you are drawing without distortion
+* Control the pressure curve of the pen - though you will still be able to control it in those applications that support it.&#x20;
 
 ## Driver downloads
 
