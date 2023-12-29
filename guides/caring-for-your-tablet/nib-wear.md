@@ -6,7 +6,11 @@ Nib wears down due to friction caused by the nib moving against the tablet surfa
 
 **Many factors** influence how fast a nib wears down and people have **vastly different experiences**. For some people a nib may last years. Some people seem to go through a nib in a week.
 
-<figure><img src="../../.gitbook/assets/Artboard 1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/7P SLIDE Nib Wear.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ## Examples
 
@@ -55,6 +59,12 @@ I recommend you replace you nib when:
 
 * Most of the tip has become flat
 * The nib is getting short - nib remover tools need to be able to grasp enough of the nib to pull it out. If you let them get to short, they are going to be stuck or very difficult to remove.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/7P SLIDE Nib Wear 2.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ## Resources
 
