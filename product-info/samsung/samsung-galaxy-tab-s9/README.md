@@ -13,11 +13,12 @@
 
 ## Samsung Galaxy Tab S9 FE
 
-* [Teoh on Tech review of Samsung Tab S9 FE and FE Plus](https://www.youtube.com/watch?v=lZI9gB3siNs) Oct 30, 2023&#x20;
-* [Brad Colbow Review of Samsung Galaxy Tab S9 FE Review](https://www.youtube.com/watch?v=8Pb7OAERdZg) Oct 23, 2023
-* [reddit - first 48 hours with samsung galaxy s9 FE](https://www.reddit.com/r/Android/comments/1732g1v/my\_first\_48\_hours\_with\_the\_samsung\_galaxy\_tab\_s9) Oct 08, 2023
-* [Teoh on Tech - Samsung Tab S9 FE handwriting & note taking review](https://www.youtube.com/watch?v=11i6ZK8Tpu8) Nov 14, 2023
+* [Teoh on Tech review of Samsung Tab S9 FE and FE Plus](https://www.youtube.com/watch?v=lZI9gB3siNs) 2023/10/30&#x20;
+* [Brad Colbow Review of Samsung Galaxy Tab S9 FE Review](https://www.youtube.com/watch?v=8Pb7OAERdZg) 2023/10/23
+* [reddit - first 48 hours with samsung Galaxy s9 FE](https://www.reddit.com/r/Android/comments/1732g1v/my\_first\_48\_hours\_with\_the\_samsung\_galaxy\_tab\_s9) 2023/10/08
+* [Teoh on Tech - Samsung Galaxy Tab S9 FE handwriting & note taking review](https://www.youtube.com/watch?v=11i6ZK8Tpu8) 2023/11/14
+* [Draw Your Weapon review of Samsung Galaxy Tab S9 FE](https://drawyourweapon.com/galaxy-tab-s9-fe-artisreview/) 2023/12/29
 
 ## Samsung Galaxy Tab S9 FE+
 
-* [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW\_TV0fRY) Dec 5, 2023
+* [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW\_TV0fRY) 2023/12/05
