@@ -1,11 +1,5 @@
 # Huion Inspiroy
 
-## Huion Inspiroy Dial 2 (Q630M)
-
-* [**my notes on this tablet**](../../../7p-notes/7p-notes-huion/7p-notes-huion-inspiroy-dial-2.md)
-* [Teoh on Tech review of Huion Inspiroy Dial 2](https://youtu.be/OCNsJ1gqnZ0) Aug 16, 2022
-* [Create Now Sleep Later review of Huion Inspiroy Dial 2](https://youtu.be/mXKoWtvKDi0) Aug 26, 2022&#x20;
-
 ## Huion Inspiroy Giano (G930L)
 
 * [**My notes on this tablet**](../../../7p-notes/7p-notes-huion/7p-notes-huion-giano-g930l.md)  &#x20;
@@ -16,7 +10,7 @@
 * [Create Now Sleep Later review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=CcrTe2J5Ho8) Aug 8, 2022
 * [Anna Sok review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=03auOS8lgAE) Oct 4, 2022
 
-##
+
 
 ## Huion Inspiroy HS611
 
