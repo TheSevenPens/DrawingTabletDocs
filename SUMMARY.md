@@ -78,7 +78,7 @@
     * [Color tint on edges of display](guides/pen-displays/color-tint-on-edges-of-display.md)
     * [Pen display refresh rate](guides/pen-displays/pen-display-refresh-rate.md)
     * [USB-C support for display signal](guides/pen-displays/usb-c-support-for-display-signal.md)
-    * [Using an iPad as a pen display](guides/pen-displays/using-an-ipad-as-a-pen-display.md)
+    * [Using an iPad with your computer as a pen display](guides/pen-displays/using-an-ipad-with-your-computer-as-a-pen-display.md)
     * [Anti-glare film](guides/pen-displays/anti-glare-film.md)
   * [Pens](guides/pens/README.md)
     * [Pen buttons](guides/pens/pen-buttons.md)
