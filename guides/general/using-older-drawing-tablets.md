@@ -47,6 +47,14 @@ Some older pen tablets that have ports, do not use USB-C ports, but instead micr
 
 Some older pen displays use proprietary ports and connectors.&#x20;
 
+## Resources
+
+* [Draw your weapon - Old Wacom tablets? Still great for digital art](https://drawyourweapon.com/looking-at-old-wacom-drawing-tablet/) 2021/10/01
+
+
+
+
+
 
 
 ##

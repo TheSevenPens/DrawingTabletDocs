@@ -311,3 +311,7 @@ If you specify **Pen Button**, the effective behavior you will get in an applica
 * OTD stores information in its application data directory
 * More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
 * If you are doing more advanced things with OTD you should be familiar with this folder.
+
+## Resources
+
+* r/huion - [OpenTablet Driver guide for Huion Kamvas 24 4k on windows 10 (but maybe other tablets too) in particular for paintin](https://www.reddit.com/r/huion/comments/17q61pl/opentablet\_driver\_guide\_for\_huion\_kamvas\_24\_4k\_on/)g 2023/11/07&#x20;
