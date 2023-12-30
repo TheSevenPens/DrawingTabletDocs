@@ -1,4 +1,4 @@
-# Using an iPad as a pen display
+# Using an iPad with your computer as a pen display
 
 ## Intro
 
@@ -7,3 +7,4 @@
 ## Resources
 
 * [EyekooDrawsStuff - EasyCanvas Review - your iPad as a drawing tablet and extended display](https://www.youtube.com/watch?v=ooIMrv5UjKg) Dec 30, 2023
+* [Brad Colbow - Testing Luna Display and Astropad on Windows](https://www.youtube.com/watch?v=ysZziCPWGOY) 2021/12/06&#x20;
