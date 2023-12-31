@@ -1,5 +1,9 @@
 # Caring for your tablet
 
+## Introduction
+
+With a little care and light maintenance your tablet will keep working for a long time. Here are some basic tips.
+
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
 Pens are the most sensitive component because they have some small parts and some moving parts. A fall onto a floor - especially if it hits the nib directly - can completely break the internals of your pen. The impact can make the pen completely non-functional or make it stop working in specific ways.
@@ -25,13 +29,15 @@ Keep water away from your tablet and pen. If you get them wet, consult this guid
 
 ## Cleaning your tablet
 
-Periodically, clean your tablet. See this doc: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md). Some people recommend lightly cleaning your pen displays before you start drawing.&#x20;
+Periodically, clean your tablet. Some people recommend lightly cleaning your pen displays before you start drawing. More here: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md).&#x20;
 
 ## Storing your pen
 
 Store your pens so that the nib is not experiencing constant pressure. Some tablet users suggest that if the nib has a constant pressure applied to it, over time the pressure could damage the pressure sensor.&#x20;
 
 ## Surface wear
+
+The surface of your tablet will be in contact with your pen, that contact and the friction that comes from it will cause some wear. It's good for you to understand what this wear will look like and how you can control it. Read the two documents below.
 
 * [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md) &#x20;
 * [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)&#x20;
