@@ -1,5 +1,9 @@
 # Wacom Cintiq Pro
 
+## Models
+
+<table><thead><tr><th width="131">Model ID</th><th width="107.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>DTH-1320</td><td>2016</td><td>Cintiq Pro 13</td></tr><tr><td>DTH-1620</td><td>2016</td><td>Cintiq Pro 16 (2016)</td></tr><tr><td>DTH-167</td><td>2021</td><td>Cintiq Pro 16 (2021)</td></tr><tr><td>DTH-172</td><td>2023</td><td>Cintiq Pro 17</td></tr><tr><td>DTH-227</td><td>2023</td><td>Cintiq Pro 22</td></tr><tr><td>DTK-2420</td><td>2017</td><td>Cintiq Pro 24</td></tr><tr><td>DTH-2420</td><td>2017</td><td>Cintiq Pro 24 Touch</td></tr><tr><td>DTH-271</td><td>2022</td><td>Cintiq Pro 27</td></tr><tr><td>DTH-3220</td><td>2018</td><td>Cintiq Pro 32</td></tr></tbody></table>
+
 ## Cintiq Pro 16 (DTH-167)&#x20;
 
 * [**My notes on this tablet**](wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md)
@@ -33,6 +37,15 @@
 * [Brad Colbow review of Cintiq Pro 27](https://youtu.be/x59b4nR3Y3E) Oct 14, 2022
 * [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) Oct 28, 2022
 * [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) Nov, 2022
+
+## Cintiq Pro 16 (DTH-1620)
+
+* Model year: 2016
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH-1620.html](https://101.wacom.com/UserHelp/en/TOC/DTH-1620.html)
+* r/wacom - Wacom Cintiq Pro 16 Video Review 2012/03/29
+* [Unskilled Guy - Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=JQxsD\_EfGAE) 2017/3/30
+* [Unskilled Guy - How To: Native 4k @ 60hz On Wacom Cintiq Pro 16 w/Wacom Link](https://www.youtube.com/watch?v=emQS0UlcmOs) 2017/3/31&#x20;
+* [MobileTechReview - Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=g4RMx17npmU) 2017/7/17
 
 ## General
 
