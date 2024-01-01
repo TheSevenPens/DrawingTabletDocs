@@ -12,6 +12,7 @@
 ## XP-Pen Artist Pro 16 GEN2 (MD160QH)
 
 * [**Read my notes on this tablet**](7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)  &#x20;
+* User manual: [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)&#x20;
 * Product link: [https://www.xp-pen.com/product/artist-pro-16-gen-2.html](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)&#x20;
 * [Teoh on Tech review of XPPen Artist Pro 16 (gen 2) review](https://youtu.be/sc4tebm4TTw?si=Y18\_c25g6BUvzwk3) Sep 9, 2023
 * [Grant Abbitt review of XPPen Artist Pro 2nd Gen](https://youtu.be/d3Th\_HD0tbE?si=5tIvFmxSM2nvS1jh) Aug 20, 2023
