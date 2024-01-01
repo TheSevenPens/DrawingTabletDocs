@@ -13,10 +13,19 @@ Read this first: [**Buying a drawing tablet**](../) &#x20;
   * Pen requires a battery
   * Get a Samsung Galaxy Tab S6 LITE (2022) edition instead for something at this price point.
 
+## $1000 to $2000
+
+* **Huion Kamvas Studio 16** ($1700) <mark style="color:red;">NOT A RECOMMENDATION</mark>&#x20;
+  * Screen size: 16"
+  * Resolution: 2560x1440
+
 ## $2000 to $3000
 
 * **Wacom MobileStudio Pro 13** ($2500) <mark style="color:red;">NOT A RECOMMENDATION</mark>&#x20;
   * Screen size: 13.3"
+  * Resolution: 2560x1440
+* **Huion Kamvas Studio 24** ($2400) <mark style="color:red;">NOT A RECOMMENDATION</mark>&#x20;
+  * Screen size: 24"
   * Resolution: 2560x1440
 
 ## $3000 to $4000
