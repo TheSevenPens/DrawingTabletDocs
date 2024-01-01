@@ -8,7 +8,7 @@ Wacom has three professional pen tablets currently in production. These are the 
 
 The most recent Intuos Pro models are the PTH-x60 series from 2017 & 2019.
 
-<table><thead><tr><th width="131">Model ID</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-860</td><td>Intuos Pro Large (2017)</td></tr><tr><td>PTH-660</td><td>Intuos Pro Medium (2017)</td></tr><tr><td>PTH-460</td><td>Intuos Pro Small (2019)</td></tr><tr><td>PTH-851</td><td>Intuos Pro Large (2013)</td></tr><tr><td>PTH-651</td><td>Intuos Pro Medium (2013)</td></tr><tr><td>PTH-451</td><td>Intuos Pro Small (2013)</td></tr></tbody></table>
+<table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-860</td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td>PTH-660</td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td>PTH-460</td><td>2019</td><td>Intuos Pro Small (2019)</td></tr><tr><td>PTH-851</td><td>2013</td><td>Intuos Pro Large (2013)</td></tr><tr><td>PTH-651</td><td>2013</td><td>Intuos Pro Medium (2013)</td></tr><tr><td>PTH-451</td><td>2013</td><td>Intuos Pro Small (2013)</td></tr></tbody></table>
 
 ## Wacom Intuos Pro Small 2019 (PTH-460)
 
