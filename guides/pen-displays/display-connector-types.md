@@ -29,19 +29,27 @@ Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/
 
 Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/wiki/DisplayPort)
 
-## USB
+## USB-C
+
+The important thing to remember about USB-C is that it is a popular connector type, but it often not clear what a given cable or port support. For example:
+
+* Some ports and cables support power only
+* Some ports and cables support power + data
+* Some ports and cables support power + data + display signal
+* Some ports may not deliver as much power as you need
+* Some cables may not support as much power as you need
 
 ### USB-C connectors
 
 ![](<../../.gitbook/assets/usb-c connectors.jpg>)
 
-([https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C))
+Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
-### USB-A connectors
+## USB-A connectors
+
+USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
 
 ![](../../.gitbook/assets/usba\_connectors.jpg)
-
-
 
 ## Thunderbolt
 
