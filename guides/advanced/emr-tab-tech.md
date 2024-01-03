@@ -18,6 +18,17 @@ The OLD EMR pen design can be seen in [**this teardown of the Huion PEN80 pen**]
 
 Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts, different manufacturers can tweak this design in their implementation.
 
+## **Active EMR vs Passive EMR**
+
+Active vs Passive refers to how the EMR pen gets its power.
+
+* With Passive EMR, the pen gets its power from the tablet.
+* With Active EMR, the pen gets its power from a battery inside the pen. That battery may be replaceable or rechargable.
+
+Modern EMR pens are Passive EMR. DO NOT Buy as tablet that uses a Passive EMR pen.
+
+Mixing and matching: You cannot use an Active EMR pen with a tablet that supports Passive EMR pens. And likewise you cannot use a Passive EMR pen with a tablet that supports an Active EMR pen.
+
 ## **Pen technologies**
 
 Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen technologies**](digital-pen-technologies.md)&#x20;
