@@ -2,40 +2,34 @@
 
 ## Background
 
-Remember that essentially a pen display is a plastic box that contains two separate devices:
-
-* a pen tablet
-* a display (i.e. a monitor)
+Remember that essentially a pen display is a plastic box that contains two separate devices: (1) a pen tablet and (2) a display.
 
 ## Inputs & outputs
 
-We need to account for 5 things to use a pen display.
+We need to account for 4 things to use a pen display.
 
-| Input or Output    | Needed by         | Notes                                            |
-| ------------------ | ----------------- | ------------------------------------------------ |
-| Power to tablet    | tablet component  | very little power is needed                      |
-| Data to computer   | tablet component  | for example, pen position data is sent           |
-| Data from computer | tablet component  | used for things like updating firmware           |
-| Power to display   | display component | much more power needed than the tablet component |
-| Display signal     | display component | What is shown by the tablet                      |
+| Input or Output  | Needed by         | Notes                                                                                                                           |
+| ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Power to tablet  | tablet component  | very little power is needed                                                                                                     |
+| Data             | tablet component  | for example, pen position data is sent to the computer. Also the computer can send data to the tablet such as a firmware update |
+| Power to display | display component | much more power needed than the tablet component                                                                                |
+| Display signal   | display component | What is shown by the tablet                                                                                                     |
 
-## Connectors
+## Display connector types
 
-* This document is going to talk about connectors a lot.
-* So you need to know what they look like first.&#x20;
-* Read this guide on [**different display connector types**](display-connector-types.md) before you continue.
+This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](display-connector-types.md) before you continue.
 
 ## Cabling options
 
-Those five components are distributed over cabling differently, depending on the the cabling option involved.&#x20;
+Those four components are distributed over cabling differently, depending on the the cabling option involved.&#x20;
 
 ### Option A: one USB-C cable
 
-Some pen displays can run on a single USB-C cable. This used to be uncommon. But Increasingly many pen displays support this option. More here: [Connecting a pen display with one USB-C cable](connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
+Some pen displays can run on a single USB-C cable. This used to be uncommon. But Increasingly many pen displays support this option. More here: [**Connecting a pen display with one USB-C cable**](connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
 
 ### Option B: 3 cables&#x20;
 
-* One USB cable for pen tablet (power, data in, data out)
+* One USB cable for pen tablet (power, data)
 * One power cable for the display power
 * One display cable to carry the display signal - This will almost always be an HDMI cable. Though some tablets support alternate connector types for the display signal
 
@@ -58,7 +52,7 @@ This is a special kind of cable.&#x20;
 
 These 3-in-1 cable are proprietary cables. And if you need to replace it, you'll need to buy it from the manufacturer. You cannot swap for example a Huion 3-in-1 cable with an XP-pen 3-in-1 cable. Sometimes even within a specific manufacturer, you cannot swap 3-in-1 cables between different models.
 
-more here: [**3-in-1 cables**](../../accessories/cables/3-in-1-cables-for-drawing-tablets.md)
+More here: [**3-in-1 cables**](../../accessories/cables/3-in-1-cables-for-drawing-tablets.md)
 
 ## Connecting via HDMI
 
