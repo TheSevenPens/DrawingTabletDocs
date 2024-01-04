@@ -126,3 +126,7 @@ If you need to make an HDMI connection but have no HDMI ports you can convert ot
 ## Dealing with NO SIGNAL
 
 When you've connected your display you might see it show a message saying NO SIGNAL. Here is a [**troubleshooting guide to work through the NO SIGNAL problem**](../../troubleshooting/troubleshoot-no-signal.md).
+
+## What about connecting a pen display mobile devices?
+
+Go here: [**Connecting a pen display to a mobile device**](connecting-a-pen-display-to-a-mobile-device.md)
