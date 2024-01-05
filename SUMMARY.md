@@ -44,6 +44,7 @@
     * [Bezel](guides/core-features/bezel.md)
     * [Pen tilt](guides/core-features/pen-tilt.md)
     * [Pen pressure](guides/core-features/pen-pressure.md)
+    * [Pen pressure curve](guides/core-features/pen-pressure-curve.md)
     * [Disable pen pressure](guides/core-features/disable-pen-pressure.md)
     * [Pen hover](guides/core-features/pen-hover.md)
     * [Pen tracking](guides/core-features/pen-tracking.md)

@@ -70,6 +70,14 @@ With pen tablets you always see exactly what you are drawing.&#x20;
 
 Pen tablets are considerable thinner and weigh less.
 
+## Drawing experience (winner: pen tablets)
+
+In summary pen displays have these advantages
+
+
+
+Much more here: [https://docs.thesevenpens.com/drawtab/guides/the-drawing-experience](https://docs.thesevenpens.com/drawtab/guides/the-drawing-experience)
+
 ## Portability
 
 Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.
