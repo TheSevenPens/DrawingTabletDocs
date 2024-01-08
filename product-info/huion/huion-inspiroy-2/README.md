@@ -1,5 +1,11 @@
 # Huion Inspiroy 2
 
+## Models
+
+* Inspiroy 2 S (H641P)
+* Inspiroy 2 M (H951P)
+* Inspiroy 2 L (H1061P)
+
 ## Huion Inspiroy 2 L (H1061P)
 
 * [**My notes on this tablet**](7p-notes-huion-inspiroy-2-l-h1061p.md)
