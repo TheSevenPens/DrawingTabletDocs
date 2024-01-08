@@ -8,7 +8,7 @@ It manifests as a longer "string" at the end of your stroke. These ends can be r
 
 ## Examples
 
-![](<../.gitbook/assets/image (87).png>)![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (113).png>)![](<../.gitbook/assets/image (71).png>)
 
 ## Things to try
 
@@ -26,7 +26,7 @@ It manifests as a longer "string" at the end of your stroke. These ends can be r
 
 The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with these shoelace effect.
 
-![](<../.gitbook/assets/image (157).png>)
+![](<../.gitbook/assets/image (183).png>)
 
 
 

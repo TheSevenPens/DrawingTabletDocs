@@ -21,7 +21,7 @@ Unfortunately, sometimes your computer can sometimes have difficulty.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (373).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (399).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,11 +37,11 @@ If your computer is not even detecting the existence of the display, and it has 
 
 
 
-![](<../.gitbook/assets/image (293).png>)
+![](<../.gitbook/assets/image (319).png>)
 
 
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 ## Use Intel Graphics Command Center to detect your display
 

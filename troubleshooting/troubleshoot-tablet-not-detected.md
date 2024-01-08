@@ -83,7 +83,7 @@ driver version: 3.4.12(104e65f)&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

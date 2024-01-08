@@ -139,7 +139,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
   * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
 * If the OTD UI is running you will see it in the notification area on your taskbar
 
-![](<../../../.gitbook/assets/image (146).png>)![](<../../../.gitbook/assets/image (103).png>)
+![](<../../../.gitbook/assets/image (172).png>)![](<../../../.gitbook/assets/image (129).png>)
 
 ## **Detect your tablet**
 
@@ -170,7 +170,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 * In the OTD App, go to **Output** > **Tablet** Section
 * In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
-* ![](<../../../.gitbook/assets/image (9).png>)
+* ![](<../../../.gitbook/assets/image (35).png>)
 
 ## Configure Windows Ink
 
@@ -180,7 +180,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
   * If you leave it set to Absolute Mode, you will not be able to take advantage of pressure sensitivity and tilt.
   * NOTE: You will only see Windows Ink Absolute Mode listed if you previously enabled the Windows Ink plugin.
 
-![](<../../../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (111).png>)
 
 ## Configure the pen
 
@@ -189,7 +189,7 @@ NOTE: Strictly speaking, OTD is not "installed" like a typical application. Inst
 * In the OTD app, navigate to the **Pen Settings** tab
 * To summarize, you'll want your Pen Settings to look like this:
 
-<figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -208,7 +208,7 @@ At the bottom of the OTD UI, click **Apply**.
 
 * OTD does support buttons on your tablet.&#x20;
 * In the **Auxiliary Settings** tab, each button shows up as an **Auxiliary Binding**.
-* ![](<../../../.gitbook/assets/image (302).png>)
+* ![](<../../../.gitbook/assets/image (328).png>)
 * In the screenshot above one of the buttons has been set to match the "e" key.
 
 ## Save OpenTabletDriver configuration
@@ -221,7 +221,7 @@ At the bottom of the OTD UI, click **Apply**.
 * You don't have to keep the OTD app visible all the time, you can minimize the app at any time
 * If you need to open OTD app again, you can find it in the taskbar
 
-![](<../../../.gitbook/assets/image (181).png>)
+![](<../../../.gitbook/assets/image (207).png>)
 
 ## Checkpoint #2
 
@@ -293,7 +293,7 @@ See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalli
 
 You can bind the pen buttons to several kinds of actions:
 
-![](<../../../.gitbook/assets/image (14).png>)
+![](<../../../.gitbook/assets/image (40).png>)
 
 * **Mouse Button Binding** is not supported
 * **Key Binding** is supported
@@ -302,7 +302,7 @@ You can bind the pen buttons to several kinds of actions:
 
 For **Windows Ink** here are the options:
 
-&#x20;![](<../../../.gitbook/assets/image (239).png>)
+&#x20;![](<../../../.gitbook/assets/image (265).png>)
 
 If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
 

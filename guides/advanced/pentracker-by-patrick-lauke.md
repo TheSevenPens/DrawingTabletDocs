@@ -1,4 +1,4 @@
-# Patrick Lauke's PenTracker
+# PenTracker by Patrick Lauke
 
 ## Overview
 
@@ -6,7 +6,7 @@ This site ([https://patrickhlauke.github.io/touch/pen-tracker/](https://patrickh
 
 Start using your pen on the site and you'll see some information in the upper left hand corder.
 
-![](<../../.gitbook/assets/image (64).png>)
+![](<../../.gitbook/assets/image (90).png>)
 
 ## Additional information
 

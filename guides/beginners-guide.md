@@ -4,41 +4,31 @@
 
 If you are new to drawing tablets, after reading this guide you'll understand how these devices work and be prepared to use one or to purchase one.&#x20;
 
-Read this document first, then take a look at my guide to [**Buying a drawing tablet**](../buying-a-drawing-tablet/). It has links to  my [**recommendations**](../buying-a-drawing-tablet/recommendations/).&#x20;
+Read this document first, then take a look at my guide to [**Buying a drawing tablet**](../buying-a-drawing-tablet/). It has links to  my [**recommendations**](../recommendations/).&#x20;
 
 ## Basics
 
-A drawing tablet is a device that lets you use a **digital pen** (also called a **stylus**) as an input device.
+A drawing tablet is a device that lets you use a **digital pen** (also called a **stylus**) as an input device.&#x20;
 
-If you move the pen on the tablet, that action will move your operating system pointer around (a.k.a. your mouse cursor) the same way on your screen.&#x20;
+As you move the pen on the tablet, your operating system pointer around (a.k.a. your mouse cursor) will move the same way on your screen.&#x20;
 
 A drawing tablet senses the position of the pen on the tablet, how the pen is tilted. The pen senses how much pressure is applied at the tip.
 
 Detection of pressure and tilt are very important to creative applications. For example, more pressure could be translated as a darker stroke or a thicker brush stroke.
 
-## Electromagnetic Resonance (EMR)
+## Device options for drawing tablets &#x20;
 
-The fundamental technology behind drawing tablets is called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
-
-## Three types of drawing tablets&#x20;
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/7P SLIDE Types of Tablets.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/7P SLIDE Types of Tablets.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Pen tablets
 
 Pen tablets are the simplest and least expensive kind of drawing tablet. They are often called: "screenless tablets" or "non-screen tablets".
 
-Key attributes:
-
 * They DO NOT have an embedded display
 * They REQUIRE A COMPUTER to be used.
 * They REQUIRE A MONITOR attached the the computer or that the computer is a laptop.
 
-The key skill required to use a pen tablet is that you must adjust to your hand drawing on one surface (the tablet) while you are looking at another surface (your monitor). Most people can adjust to this immediately or within a few days, but some people find this weird to do and for them a **pen display** or **pen computer** might be a better choice.
+The key skill required to use a pen tablet is that you must adjust to your hand drawing on one surface (the tablet) while you are looking at another surface (your monitor). Most people can adjust to this immediately or within a few days, but some people find this weird and for them one of the other device options may be a better choice.
 
 Pen tablets cost between $40 to $500.&#x20;
 
@@ -57,17 +47,23 @@ Pen displays cost between $300 to $3500.&#x20;
 
 ### Pen computers
 
-**Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words they are like laptops. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows.
-
-These are also called "Standalone drawing tablets".
-
-Some people love using pen computers but [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
+**Pen computers** are essentially mobile pen displays with their own CPU and storage - in other words - they are like laptops. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows.
 
 Pen computers cost between $1000 to $3500.
 
-## Apple iPads
+Some people love using pen computers but [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
 
-Apple iPads are not drawing tablets. But they can work well in that role. Often when I see people describe what they want in a drawing tablet, it sounds **exactly** like an iPad. Learn more about the pros and cons of using an iPad as a drawing tablet here: [**using an ipad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
+### Mobile computers with pen support
+
+These are NOT drawing tablets, but because they are very very similar to pen computers in that they are standalone and you can use a pen to draw with them - we can talk about them as an viable alternative to a pen computer.
+
+But the key difference is a pen computer is intended for drawing, whereas a mobile computer with pen support is meant for general purpose use, but also you can use a pen do draw.
+
+Sometimes the drawing experience with a mobile computers can really rival that of a pen computer. Sometimes they even use the same pen technology. But other times, they use a different technology and the drawing experience is not as good or may be missing features. So you have to carefully choose which devices you pick here.
+
+In this category I think the Apple iPad provides the most compelling experience, followed closely by a Samsung Galaxy Tab S9.
+
+More here: [**Using an iPad as a drawing tablet**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md)
 
 ## What people do with their tablets
 
@@ -126,6 +122,10 @@ At the end of the pen that touches the tablet is a little replaceable nib. Mostl
 A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md).
 
 Using the tablet driver, you can make tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
+
+## Electromagnetic Resonance (EMR)
+
+The fundamental technology behind drawing tablets is called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
 
 ## Other topics to explore
 

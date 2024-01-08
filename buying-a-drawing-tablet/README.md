@@ -19,7 +19,7 @@ If you prefer a watching a video ...
 
 ## My recommendations
 
-If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
+If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](../recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
 
 {% hint style="info" %}
 I strongly urge you to read this buying guide and beginner's guide completely before you jump directly to the recommendations. &#x20;
@@ -42,7 +42,7 @@ Basic guidelines:
 
 **If you want a safe choice, go with Wacom.** They are also the most expensive. Competitors such as Huion, XP-Pen, and Xencelabs are closing the gap with Wacom. This [**guide on drawing tablet brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
 
-If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablet-brands/wacom/overview-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
+If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-info/wacom/overview-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## Product info
 
@@ -68,7 +68,7 @@ This is how accurately the tablet can sense different positions of the pen. In o
 
 ### Be aware: diagonal wobble
 
-All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble/).
+All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble.md).
 
 ## **Secondary features**
 

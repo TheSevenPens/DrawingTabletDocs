@@ -7,7 +7,7 @@
 * Under **Additional pen settings**
 * Uncheck **Show visual effects**
 
-![](<../../.gitbook/assets/image (247).png>)
+![](<../../.gitbook/assets/image (273).png>)
 
 
 

@@ -2,7 +2,7 @@
 
 <mark style="color:red;">**I DO NOT RECOMMEND THIS TABLET DUE TO EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
 
-* Learn more here: [**diagonal wobble**](../../../guides/core-features/diagonal-wobble/)&#x20;
+* Learn more here: [**diagonal wobble**](../../../guides/core-features/diagonal-wobble.md)&#x20;
 * This pen display exhibits more diagonal wobble than is acceptable.
 * A little bit of wobble common to drawing tablets and is acceptable and can be adjusted for
 * However, this tablet exhibits excessive wobble and exhibits it with fast strokes. This is unacceptable.

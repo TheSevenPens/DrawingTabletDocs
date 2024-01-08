@@ -6,7 +6,7 @@
 
 ## Cintiq Pro 16 (DTH-167)&#x20;
 
-* [**My notes on this tablet**](wacom-cintiq-pro-16-dth-167/7p-notes-wacom-cintiq-pro-16-dth-167.md)
+* [**My notes on this tablet**](7p-notes-wacom-cintiq-pro-16-dth-167.md)
 * Model year: 2021.&#x20;
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 * Be aware there is an older model from 2016 also (DTH-1620)
@@ -30,7 +30,7 @@
 
 ## Cintiq Pro 27 (DTH-271)
 
-* [**My notes on this tablet**](wacom-cintiq-pro-27-dth-271/7p-notes-wacom-dth271.md)
+* [**My notes on this tablet**](7p-notes-wacom-dth271.md)
 * Model Year: 2022
 * [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq\_pro\_27\_honest\_review/) Nov 2022
 * [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) Oct 14, 2022

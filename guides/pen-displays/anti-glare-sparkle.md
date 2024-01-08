@@ -39,33 +39,33 @@ The the pictures below show screens that are showing black, white, and gray pixe
 
 The one on the right represents an mor extreme example . You can clearly see that different "color grains"
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 2
 
 It could also look like this - this is  a very close up view
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 3&#x20;
 
 I found this in a reddit post. The AG sparkle is everywhere but is most noticeable in the green area.
 
-![](<../../.gitbook/assets/image (208).png>)
+![](<../../.gitbook/assets/image (234).png>)
 
 ## How manufacturers refer to the AG treatment
 
 **Huion Kamvas Pro 24 (4K) \[GT2401]**
 
-<img src="../../.gitbook/assets/image (229).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (255).png" alt="" data-size="original">
 
 **XP-Pen Artist Pro 16TP \[MD160U]**
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (119).png>)
 
 **Wacom One \[DTC133]**
 
-![](<../../.gitbook/assets/image (160).png>)
+![](<../../.gitbook/assets/image (186).png>)
 
 ##
 

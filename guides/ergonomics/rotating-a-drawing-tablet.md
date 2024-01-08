@@ -8,7 +8,7 @@ Most drawing tablets support these rotations:
 * Some only support two orientations&#x20;
 * Some support only a single orientation&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## **Summary of steps**&#x20;
 
@@ -26,11 +26,11 @@ Most drawing tablets support these rotations:
 
 Note that not all Wacom tablets have an Orientation option.
 
-![](<../../.gitbook/assets/image (353).png>)
+![](<../../.gitbook/assets/image (379).png>)
 
 ### XP-Pen driver
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 
 

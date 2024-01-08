@@ -12,7 +12,7 @@ In the diagram below, the pen is oriented perpendicular to the tablet and you ca
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

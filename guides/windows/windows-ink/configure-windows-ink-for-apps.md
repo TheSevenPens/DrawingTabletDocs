@@ -7,7 +7,7 @@
 * In the **Tablet Input API** section, you can choose to enable or disable Windows Ink
   * **Wintab** = do not use Windows Ink
   * **Tablet PC** = use Windows Ink
-  * ![](<../../../.gitbook/assets/image (224).png>)
+  * ![](<../../../.gitbook/assets/image (250).png>)
   * Once you've made the change, restart Clip Studio Paint
 
 ## Krita
@@ -17,7 +17,7 @@
 * In the **Tablet Input API** section:
   * Select **WinTab** to disable Windows Ink
   * Select **Windows 8+ Pointer Input (Windows Ink)** to enable Windows Ink
-* ![](<../../../.gitbook/assets/image (10).png>)
+* ![](<../../../.gitbook/assets/image (36).png>)
 * Once you've made your change, restart Krita.
 
 ## Adobe Photoshop
@@ -35,7 +35,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (369).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (395).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -47,7 +47,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (370).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (396).png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 

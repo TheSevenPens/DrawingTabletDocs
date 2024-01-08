@@ -12,7 +12,7 @@ Wacom, Xencelabs, Huion, etc. make "remotes" that essentially offload the work o
 
 * [XP-Pen Shortcut Remote](../product-info/xp-pen/xp-pen-shortcut-remote.md)&#x20;
 * [Xencelabs Quick Keys](../product-info/xencelabs/xencelabs-quick-keys.md)&#x20;
-* [Huion KeyDial](../product-info/huion/huion-keydial/)&#x20;
+* [Huion KeyDial](../product-info/huion/huion-keydial.md)&#x20;
 
 ## **Creative controllers**
 

@@ -8,7 +8,7 @@ If the tablet is completely perpendicular, the shadow is a perfect circle that c
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (321).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (347).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -19,7 +19,7 @@ Now keep left the top of the pen "fall" a bit. The shadow looks quite different.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ Now keep left the top of the pen "fall" a bit. The shadow looks quite different.
 * Some applications don't use the tilt data at all. An example would be most note taking applications like OneNote. They tend to recognize pressure but not tilt.
 * Other applications do recognize tilt but the use of the tilt data is only for specific brushes. So for example, typically a "pencil" brush would support tilt. But other kinds of  brushes may not. Even then, these brushes has settings that let you customize whether and how tilt is used for the brush.
 * Here's a good example for a brush in Krita. You can seee that the Rotation of the brush is set to the Drawing Angle, but that it could also be set to the tilt.
-* ![](<../../.gitbook/assets/image (62).png>)
+* ![](<../../.gitbook/assets/image (88).png>)
 
 
 
@@ -78,7 +78,7 @@ XP-Pen drivers have this feature.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (333).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (359).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

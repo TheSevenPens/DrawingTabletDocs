@@ -4,7 +4,7 @@ The Huion PEN80 is a VERY OLD Huion pen. It use a an Active EMR pen - meaning it
 
 I've mentioned the Huion PEN80 my 2022 EMR video as an example of one older method in which pressure information is transmitted from the pen to the tablet. c
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
 ## Notes
 

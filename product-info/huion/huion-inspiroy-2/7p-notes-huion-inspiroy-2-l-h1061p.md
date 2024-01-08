@@ -22,7 +22,7 @@ Tablet experiences extremely unstable pressure causing extreme pulsing of stroke
 
 Example: With Krita Ink3 GPen brush with default settings and size set to 400 pixels.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 The pulsing is also visible in smaller brushes - for example 100 pixels.&#x20;
 
@@ -84,4 +84,4 @@ The Huion PW517 pen has a lower (better) initial activation force than the pen t
 * driver: v15.7.6.753
 * comments: pulsing still strongly present at lower pressures but with this driver the effect is smoother.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

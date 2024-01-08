@@ -10,13 +10,13 @@ There are two locations in the Wacom Tablet Properties app where you can see the
 
 First, you can see the pressure under the Pen tab. It is shown in the **Current Pressure** bar.&#x20;
 
-![](<../.gitbook/assets/image (91).png>)
+![](<../.gitbook/assets/image (117).png>)
 
 Second, you can also click **Customize** which will bring up the Pen Feel Details dialog.
 
 Here you can draw in the **Try Here** section and see how the pen draws with pressure.
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../.gitbook/assets/image (93).png>)
 
 ## Huion pressure test region
 
@@ -24,11 +24,11 @@ Open the **HuionTablet** app. Then navigate to **Digital Pen** > **Pressure Sens
 
 Draw in the **Pressure Test** area.
 
-![](<../.gitbook/assets/image (136).png>)
+![](<../.gitbook/assets/image (162).png>)
 
 ## Xencelabs pressure test region
 
 Open the Xencelabs app, then select the  pen you are using, then draw in the region to the right of the pressure curve.
 
-![](<../.gitbook/assets/image (291).png>)
+![](<../.gitbook/assets/image (317).png>)
 

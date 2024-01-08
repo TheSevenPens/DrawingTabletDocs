@@ -2,17 +2,20 @@
 
 ## Overview
 
-Windows has built-in tablet drivers through it's Plug-and-play framework.
+Windows has built-in tablet drivers through its Plug-and-play framework. More here: [**Windows PNP support for drawing tablets** ](../guides/windows/windows-pnp-support-for-drawing-tablets.md)
 
-This tablet driver is extremely basic, but is  useful for diagnosing problems with a tablet. Suppose you have a problem with your tablet. The problem might be with the manufacturer's tablet driver. So by trying your tablet with the Windows PNP drivers, and seeing what happens we might be able to see if the problem is in the driver or not.
+## Using Windows PNP tablet drivers to investiaate problems
 
-More here: [**Windows PNP support for drawing tablets** ](../guides/windows/windows-pnp-support-for-drawing-tablets.md)
+The Windows PNP tablet driver is extremely basic. However, you can use it to diagnose problems with a drawing tablet.&#x20;
+
+* if a problem occurs with both the manufacturer tablet driver and the Windows PNP tablet driver, then the problem is likely not related to drivers.
+* if a problem only occurs with the manufacturer driver, then it you know the problem is driver related.
 
 ## **Instructions**
 
 * First uninstall your manufacturer's tablet driver
-* Restart your computer
-* The try to reproduce the problem that occured.
+* Restart your computer.&#x20;
+* The try to reproduce the problem.
 
 ## Notes
 
@@ -23,11 +26,6 @@ More here: [**Windows PNP support for drawing tablets** ](../guides/windows/wind
 
 When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this&#x20;
 
-\\![](<../.gitbook/assets/image (371).png>)
+<img src="../.gitbook/assets/image (397).png" alt="" data-size="original">
 
 If you see it look like the normal mouse pointer when you use the pen, that usually means the manufacturer driver is being used.
-
-
-
-
-

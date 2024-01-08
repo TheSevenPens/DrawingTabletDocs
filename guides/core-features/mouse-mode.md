@@ -34,7 +34,7 @@ Here's an example of the Wacom driver vs Huion driver in Krita on Windows.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (246).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (272).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@ In **Wacom Tablet Properties** app, select your pen, navigate to the **Mapping**
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,7 +74,7 @@ Once you enable mouse mode, you'll see some new configuration options.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -84,7 +84,7 @@ In the Huion driver, click **Digital Pen**, then enable or disable **Mouse Mode*
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

@@ -10,7 +10,7 @@ It will also manifest as a small delay when first moving a slider. As you move t
 
 ## Examples
 
-## ![](<../.gitbook/assets/image (305).png>)
+## ![](<../.gitbook/assets/image (331).png>)
 
 ## Things to try
 

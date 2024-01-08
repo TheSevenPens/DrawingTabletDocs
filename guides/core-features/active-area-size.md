@@ -28,10 +28,10 @@ For pen tablets, manufacturers often use descriptive names such as "small", "lar
 
 By looking at the Wacom's product line and naming, we can establish a decent framework understanding how descriptive words like "small" and "large" map to numbers. Note that the size names are different for pen displays and pen tablets.
 
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 ## Distribution of active area sizes&#x20;
 
 If we look at how drawing tablet models are distributed along this scale we'll see that there is a lot of variation.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>

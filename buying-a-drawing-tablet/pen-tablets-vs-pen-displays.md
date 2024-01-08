@@ -18,6 +18,10 @@ If you are unsure about which one to get or not sure how committed you are to us
 
 <mark style="color:red;">**Pen displays are not inherently**</mark><mark style="color:red;">** **</mark>_<mark style="color:red;">**better**</mark>_<mark style="color:red;">** **</mark><mark style="color:red;">**than pen tablets. It depends on how you draw, your body and ergonomic situation, etc.**</mark>&#x20;
 
+## Need to be used a computer (tie)
+
+Both pen tablets and pen displays need a computer to work. They can't be used standlone like an Apple iPad.
+
 ## Posture (winner: pen tablets)
 
 Pen displays usually require someone to lean over a bit and looking down at the tablet to draw. That can place strain on your lower back. Many people give up on pen displays for this reason.

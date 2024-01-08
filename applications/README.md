@@ -26,6 +26,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**HiPaint**](hipaint.md) (Android, iOS)
 * [**Ibis Paint**](ibis-paint.md) (Windows, iOS, Android)
 * [**Infinite Painter**](./#infinite-painter) (Android, iOS)
+* [**Kleki**](kleki.md) (web)
 * [**Krita**](krita.md)  (Windows, Linux, MacOS)
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)

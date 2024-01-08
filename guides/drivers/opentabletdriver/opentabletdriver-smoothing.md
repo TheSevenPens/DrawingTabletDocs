@@ -22,7 +22,7 @@ The one I recommend using is **Position Smoothing Exponental Moving Average**
 
 This is what the configuration looks like:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 If you want to enable the filter, click **Enable Smily Scylla ...** at the top and click **Apply**.
 

@@ -88,16 +88,16 @@ These are great for "paired" tasks
 
 ## &#x20;Example UI from Wacom Tablet Properties App
 
-![](<../../.gitbook/assets/image (325).png>)
+![](<../../.gitbook/assets/image (351).png>)
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../.gitbook/assets/image (160).png>)
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (105).png>)
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (61).png>)
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../../.gitbook/assets/image (143).png>)
 
-![](<../../.gitbook/assets/image (288).png>)
+![](<../../.gitbook/assets/image (314).png>)
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../../.gitbook/assets/image (108).png>)

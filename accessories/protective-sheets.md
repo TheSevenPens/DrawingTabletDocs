@@ -32,7 +32,7 @@ Some specific examples of pen displays with replaceable sheets:
 
 ## Wacom texture sheets for Intuos Pro pen tablets
 
-Wacom makes Texture Sheets available for some of its tablets: [**Wacom texture sheets**](../drawing-tablet-brands/wacom/wacom-texture-sheets.md)&#x20;
+Wacom makes Texture Sheets available for some of its tablets: [**Wacom texture sheets**](../product-info/wacom/wacom-texture-sheets.md)&#x20;
 
 **Can be used for pen displays?** NO. They are completely opaque.
 

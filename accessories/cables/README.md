@@ -11,7 +11,7 @@ For my pen tablets, none of them are connected to the PC with the cable provided
 The specific USB 2.0 cables I use are these:
 
 [https://www.amazon.com/dp/B0851N5MS1 ](https://www.amazon.com/dp/B0851N5MS1)[\
-](https://www.amazon.com/dp/B0851N5MS1) ![](<../../.gitbook/assets/image (326).png>)
+](https://www.amazon.com/dp/B0851N5MS1) ![](<../../.gitbook/assets/image (352).png>)
 
 Specifically I use these with these tablets:
 

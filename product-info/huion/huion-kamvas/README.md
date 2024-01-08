@@ -12,7 +12,7 @@
 * [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) May 1, 2020
 * [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q\_nhFQ) Mar 26, 2020
 * [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A)  Apr 17, 2020 &#x20;
-* [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](../../../7p-notes/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+* [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](../../7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
 ## Huion Kamvas 16 (GS1562)
 

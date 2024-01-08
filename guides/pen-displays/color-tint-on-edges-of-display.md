@@ -2,19 +2,19 @@
 
 Some pen displays exhibit a color tint at the edges of the display. Often it is a purple or lilac color. Some devices exhibit it as a yellowish or orange color. Is NOT pixelated or rough - has very smooth look.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 Unlike backlight bleed, the tint is often visible even on a very bright or pure white background
 
-<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 The tint is greatly exaggerated in these diagrams. In reality in can be very subtle.
 
-<figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 
 Keep in mind the topic being discussed here is when the tint as at the edges, not when the tint is evenly distributed over the entire display.
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 ## Examples
 
