@@ -92,7 +92,7 @@ There are quite a few. See this list: [Subreddits for drawing tablets](resources
 
 ### Q: Can I replace the surface of my pen tablet?
 
-See: [**Protective sheets**](accessories/protective-sheets.md)
+See: [**Protective sheets**](accessories/protective-sheets/)
 
 ### Q: What should I do if I spilled water on my tablet or pen?
 

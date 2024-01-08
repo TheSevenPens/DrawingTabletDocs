@@ -203,7 +203,7 @@ Once you get your tablet, you'll need to take care of it and perform some simple
 
 ### Surface protection
 
-The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets.md).
+The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets/).
 
 ## Buying used drawing tablets
 

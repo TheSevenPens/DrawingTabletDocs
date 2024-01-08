@@ -14,7 +14,7 @@ Some of the protection options are only relevant for pen tablets because they ar
 
 ## Amount of anti-glare sparkle
 
-For pen displays that use clear sheets, you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. more here: [**anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).
+For pen displays that use clear sheets, you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. more here: [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md).
 
 Some people are very sensitive to the amount of sparkle. So factor that into your choice.
 
@@ -30,94 +30,43 @@ Some specific examples of pen displays with replaceable sheets:
 
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
 
-## Wacom texture sheets for Intuos Pro pen tablets
-
-Wacom makes Texture Sheets available for some of its tablets: [**Wacom texture sheets**](../product-info/wacom/wacom-texture-sheets.md)&#x20;
-
-**Can be used for pen displays?** NO. They are completely opaque.
-
-## XP-Pen&#x20;
-
-[XP-Pen offers protective sheets for their tablets](../product-info/xp-pen/xp-pen-protective-sheets.md)
-
-## ePlastic polycarbonate sheets (velvet lexan)
-
-Fellow tablet enthusiast, Kuuube, uses velvet lexan sheets.
-
-**Product**
-
-ePlastics 0.010" X 24" X 48" VELVET/MATTE ([https://www.eplastics.com/AF0102448-8B35-VEL-MATTE](https://www.eplastics.com/AF0102448-8B35-VEL-MATTE))
-
-**Size and cutting**
-
-These sheets from ePlastics are very large: 24"x48". When you order them you can specify how to cut them to fit your tablet exactly. You will also have to pay for the cuts. The burden on getting the correct dimensions is on you. You will receive the exact dimensions you wanted and you will receive any excess leftover parts of the sheet.&#x20;
-
-**Texture**
-
-One side has a texture and the other is smoother but not slippery. So depending on yuor preference, you can place that side up.
-
-**Attaching to the tablet**
-
-These sheets do NOT come with an adhesive.&#x20;
-
-They can be secured done to the tablet with:
-
-* regular tape. I sometimes use gaffer tape on the edges. It is ugly and inelegant, but it works.
-* adhesive transfer tape such as: [https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/](https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/)
-
-**Can be used for pen displays?** NO. They are not transparent enough.
-
-## Photodon screen protectors
-
-Photodon ([https://www.photodon.com/](https://www.photodon.com/))
-
-Installation process: [https://www.youtube.com/watch?v=xnykx7BvKC4](https://www.youtube.com/watch?v=xnykx7BvKC4)
-
-**Film choices**
-
-Photodon has different types of film. Some have more anti-glare effect and some have less. Instead of guessing which one will work for you, order Photodon's sample kits so you can try out a little piece of the screen protection before you decide to purchase the full sheet.&#x20;
-
-Of the films they have, the one that reduced glare but didn't add too much AG sparkle was the Photodon MXT AG film. Photodon ranks this as a "50%" reduction in glare.&#x20;
-
-<figure><img src="../.gitbook/assets/7P Photodon.jpg" alt="" width="375"><figcaption><p>Picure from Photodon showing how much the different films disperse light.</p></figcaption></figure>
-
-**Can be used for pen displays?** YES.
-
-I experimented with some Photodon films in June of 2026. You can see my experiments here: [https://youtu.be/3x5pfmbsQys](https://youtu.be/3x5pfmbsQys)&#x20;
-
-## Foxbox
-
-Foxbox: [**https://foxbox.io/**](https://foxbox.io/)
-
-Foxbox makes **customized** protective covers. You can add an image to your cover to personalize it in any way you want.
-
-**Can be used for pen displays?** NO. They are opaque.
-
-**Texture:** These covers are more textured than the standard Wacom surface.&#x20;
-
-**Thickness:** 0.3mm (I measured with a digital caliper)
-
-Here's the foxbox cover I ordered for my Wacom Intuos Pro (PTH-860):&#x20;
-
-<figure><img src="../.gitbook/assets/foxbox cover for pth-860 2023_10_23.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-## atFoliX screen protectors
-
-These are listen on amazon and eBay for a variety of sizes and products. I've never tried them.
-
-**Can be used for pen displays?** YES.
-
-## HealingShield screen protectors
-
-**Can be used for pen displays?** YES.
-
-* r/wacom - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/) 3/19/2023
-
 ## Touch support
 
 If your tablet supports touch, then placing a plastic protective sheet on top will not interefere with touch. And it makes sense that it would will work, because the touch sensor is already underneath a layer of plastic of a pen tablet or under a layer of glass for a pen display. So adding another layer of plastic should not affect touch support.
 
-## iPad options
+## Options for protective films
+
+### **Wacom texture sheets**
+
+Wacom makes Texture Sheets available for its Intuos Pro pen tablets. More here: [**Wacom texture sheets**](../../product-info/wacom/wacom-texture-sheets.md)&#x20;
+
+### **XP-Pen protective sheets**
+
+[**XP-Pen offers protective sheets for their tablets**](../../product-info/xp-pen/xp-pen-protective-sheets.md)
+
+### ePlastic polycarbonate sheets (velvet lexan)
+
+[**ePlastic polycarbonate sheets (velvet lexan)**](eplastic-polycarbonate-sheets-velvet-lexan.md)
+
+### Photodon screen protectors
+
+Photodon sells pre-cut and custom-sized protectors for all kinds of devices including many drawing tablets. They have anti-glare films at different strengths so you can pick what works best for you. More here: [**Photodon screen protectors**](photodon-screen-protectors.md)
+
+### Foxbox&#x20;
+
+These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. More here: [**Foxbox covers**](foxbox-covers.md)
+
+### atFoliX&#x20;
+
+These are listen on amazon and eBay for a variety of sizes and products. I've never tried them. Can be used for pen displays.
+
+### HealingShield&#x20;
+
+Another brand that can beused for pen displays.
+
+* r/wacom - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/) 3/19/2023
+
+### iPad options
 
 * Paperlike for iPad [https://paperlike.com/products/paperlike-for-ipad](https://paperlike.com/products/paperlike-for-ipad)&#x20;
 * Bellemond

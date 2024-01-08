@@ -17,7 +17,7 @@ You can start at a corner and **gently** and **slowly** start lifting it up. And
 
 ## Replacing the film
 
-First, you should realize than manufacturers might sell replacement films for their tablets. But even if they do not, you can find third party films that are pre-cut for your tablet or for which you can order them cut to a specific size. More here on your options: [**protective sheets**](../../accessories/protective-sheets.md)&#x20;
+First, you should realize than manufacturers might sell replacement films for their tablets. But even if they do not, you can find third party films that are pre-cut for your tablet or for which you can order them cut to a specific size. More here on your options: [**protective sheets**](../../accessories/protective-sheets/)&#x20;
 
 **How much anti-glare sparkle do you want?**
 
