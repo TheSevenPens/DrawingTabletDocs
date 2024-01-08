@@ -30,32 +30,28 @@ Here's what you should consider in your choice
 
 ## Size recommendations
 
-|                                                                                                                                                       | Pen tablet                                                                            | Pen display                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Starter tablet**                                                                                                                                    | <p><strong>MEDIUM</strong></p><p><strong>SMALL</strong> if budget is a constraint</p> | <p><strong>MEDIUM</strong></p><p><strong>SMALL</strong> if budget is a constraint</p> |
-| **Drawing, Sketching, Painting**                                                                                                                      | <p><strong>MEDIUM</strong></p><p><strong>LARGE</strong> if you know you need it</p>   | <p><strong>MEDIUM</strong></p><p><strong>LARGE</strong> if you know you need it</p>   |
-| **Photo Editing**                                                                                                                                     | **SMALL** is enough                                                                   | **SMALL** or **MEDIUM**                                                               |
-| <p><strong>Note taking</strong><br>(more here:<a href="../use-cases/taking-notes-with-drawing-tablets.md"> Taking notes with drawing tablets</a>)</p> | <p><strong>MEDIUM</strong><br>(I don't recommend pen tablets for note taking)</p>     | **SMALL** (I don't recommend pen displays for note taking)                            |
-|                                                                                                                                                       |                                                                                       |                                                                                       |
-| **Mouse replacement**                                                                                                                                 | **SMALL**                                                                             | N/A                                                                                   |
-| (More here: [Using a drawing tablet instead of a mouse](../use-cases/using-a-drawing-tablet-instead-of-a-mouse.md))                                   |                                                                                       |                                                                                       |
-| **For children**                                                                                                                                      | **SMALL**                                                                             | **SMALL**                                                                             |
+|                                                                                                                                                                             | Pen tablet                                                                                       | Pen display                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| **Starter tablet**                                                                                                                                                          | <p><strong>MEDIUM (11")</strong></p><p><strong>SMALL (7")</strong> if budget is a constraint</p> | <p><strong>MEDIUM (16")</strong></p><p><strong>SMALL (13")</strong> if budget is a constraint</p> |
+| **Drawing, Sketching, Painting**                                                                                                                                            | <p><strong>MEDIUM (11")</strong></p><p><strong>LARGE (15")</strong> if you know you need it</p>  | <p><strong>MEDIUM (16")</strong></p><p><strong>LARGE (24")</strong> if you know you need it</p>   |
+| **Photo Editing**                                                                                                                                                           | **SMALL (7")** is enough                                                                         | **SMALL** **(13")** or **MEDIUM**                                                                 |
+| <p><strong>Note taking</strong><br>(more here:<a href="../use-cases/taking-notes-with-drawing-tablets.md"> Taking notes with drawing tablets</a>)</p>                       | <p><strong>MEDIUM (11")</strong><br>(I don't recommend pen tablets for note taking)</p>          | **SMALL  (13")** (I don't recommend pen displays for note taking)                                 |
+| <p><strong>Mouse replacement</strong><br>(More here: <a href="../use-cases/using-a-drawing-tablet-instead-of-a-mouse.md">Using a drawing tablet instead of a mouse</a>)</p> | **SMALL (7")**                                                                                   | N/A                                                                                               |
+| **For children**                                                                                                                                                            | **SMALL (7")**                                                                                   | **SMALL  (13")**                                                                                  |
 
-## Notes on pen tablet sizes&#x20;
-
-### **Small pen tablets**
+## **Small pen tablets (7")**
 
 **Small** pen tablets are good for scenarios where the focus is less on creating strokes. For example, if you need to simply use a tablet as a replacement for a mouse, then a small tablet will work fine. One creative task that works great with small tablets in photo editing - since it doesn't typically require "drawing".&#x20;
 
 Most people who are drawing would find using a small tablet, to feel very "cramped".
 
-### Medium pen tablets
+## Medium pen tablets (11")
 
 **Medium** pen tablets are the best combination of size, cost, and ergonomics for most people interested in drawing tablets and is my standard recommendation.
 
 medium tablets are the minimum size I would recommend for anyone who is interested in drawing, sketching, painting, or any creative task that requires drawing with strokes.
 
-### Large pen tablets
+## Large pen tablets (15")
 
 In general I advise against getting a LARGE pen tablet unless you already have experience using one or are highly confident your art style will benefit from it and you are ready to deal with the ergonomic issues that come from using one.
 
@@ -63,7 +59,7 @@ Watch this video to learn more about he reality of using LARGE tablets:&#x20;
 
 {% embed url="https://youtu.be/YCmVugc3w_g" %}
 
-### Extra large tablets
+## Extra large pen tablets (23")
 
 * Are very specialized and not appropriate for most people
 * Are no longer in production -  only Wacom made them and the most recent models series - the Wacom Intuos 4 XL is from 2011.
@@ -79,12 +75,12 @@ There is a relationship between the size of a pen tablet and the size of your mo
 
 My general guidance works out like this:
 
-| Pen tablet Size Catgogory | Pen tablet size diagonal | Monitor Size |
-| ------------------------- | ------------------------ | ------------ |
-| Extra Large               | 22"                      | 40" - 50"    |
-| Large                     | 15"                      | 30" - 40"    |
-| Medium                    | 11"                      | 20" - 30"    |
-| Small                     | 7"                       | 20" - 25"    |
+| Pen tablet Size Catgogory | Monitor Size |
+| ------------------------- | ------------ |
+| Extra Large (23")         | 40" - 50"    |
+| Large (15")               | 30" - 40"    |
+| Medium (11")              | 20" - 30"    |
+| Small (7")                | 20" - 25"    |
 
 This table is based on my preferences - you might find you find that difference combinations work better.
 
@@ -92,10 +88,13 @@ This video helps explain the thinking behind it:
 
 {% embed url="https://www.youtube.com/watch?v=HWyCl6JwSAw" %}
 
-## Notes on pen display size
+## Pen display size
 
-* SMALL pen displays may be good choices for children.
-* If you are drawing the minimum size I would recommend is MEDIUM, though many people work very effectively with SMALL pen displays. My standard recommendation though is LARGE.
+* **SMALL (13")** pen displays may be good choices for children.
+* If you are drawing the minimum size I would recommend is **MEDIUM (16")**, though many people work very effectively with SMALL pen displays.&#x20;
+* I think the best balance is around 20" to 22" - these provide enough space to draw on without being to cumbersome, occupying too much space on a desk, or being difficult to move.
+* **LARGE (24")** are great but they do occupy a lot of space so ensure you have a desk that is big enough.
+* **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch of the display, the more anti-glare sparkle you will notice. For example using the same anti-glare treatment a 4K 24" display will show less AG sparkle, than a 4K 16" display.&#x20;
 
 ## **Videos**
 
