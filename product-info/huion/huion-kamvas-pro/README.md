@@ -1,7 +1,21 @@
 # Huion Kamvas Pro
 
+## Huion Kamvas Pro 27
+
+* Model Year: 2024
+* product page: [https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-27.html](https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-27.html)&#x20;
+* GT2701
+* [陈瑜璟 - Huion Kamvas Pro 27 开箱，全球首发](https://www.youtube.com/watch?v=n4Jly9fYHjo) Dec 16, 2023&#x20;
+
+## Huion Kamvas Pro 19 (GT-1902)
+
+* Model Year: 2024
+* product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
+* [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) Jan 9, 2024
+
 ## Huion Kamvas Pro 13 2.5K (GT1302)
 
+* Model Year: 2022
 * Product page: [https://www.huion.com/pen\_display/KamvasPro/kamvas-pro-13-2k.html](https://www.huion.com/pen\_display/KamvasPro/kamvas-pro-13-2k.html)&#x20;
 * [Brad Colbow Review of Huion Kamvas Pro 13 2.5K](https://youtu.be/8Zqmvccypuc) Feb 7, 2022
 * [Anastasia Berry of Huion Kamvas Pro 13 2.5K](https://youtu.be/UXPdIF1cZp0) Jun 13, 2022
