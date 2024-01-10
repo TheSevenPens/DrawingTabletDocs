@@ -2,12 +2,8 @@
 
 ## Overview
 
-Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/) &#x20;
+It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/) first. These are recommendations for tablets that have have screens. If you are looking for a tablet without a screen go here: [**pen tablet recommendations**](pen-tablets-recommendations.md). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](pen-computer-recommendations.md).
 
-This these are recommendations for **pen displays** (aka **screen tablets**)
-
-* pen displays DO have a screen&#x20;
-* pen displays have to be used with a computer. They do not work standalone.
 * Make sure you know about [**anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
 * [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 

@@ -18,7 +18,7 @@ Before looking at recommendations, I suggest you read:
 **Those that are standalone tablets -** all have a screen, storage, RAM, networking
 
 * [**Pen computers**](pen-computer-recommendations.md)&#x20;
-* [**Mobile computers with pen support**](mobile-computer-recommendations.md) (Example: Apple iPad)&#x20;
+* [**Mobile computers with pen support**](../misc/mobile-computer-recommendations.md) (Example: Apple iPad)&#x20;
 
 ## Notes on recommendations
 

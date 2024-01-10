@@ -42,4 +42,4 @@ Instead of pen computers, I recommend looking at similar devices that support pe
 * Samsung Galaxy Tab&#x20;
 * Microsoft Surface Pro 8 (and above)
 
-More here: [Pen computer alternative recommendations](../recommendations/mobile-computer-recommendations.md)&#x20;
+More here: [Pen computer alternative recommendations](../misc/mobile-computer-recommendations.md)&#x20;

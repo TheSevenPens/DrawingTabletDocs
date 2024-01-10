@@ -1,35 +1,64 @@
-# Pen computer recommendations
+# Standalone drawing tablet recommendations
 
 ## Overview
 
-Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/) &#x20;
+Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). There are two kinds of standalone drawing tablets:
 
-**Pen computers** are drawing tablets that can be used by themselves, without being attached to a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md) and instead recommend that you explore [**mobile computers that support pens**](mobile-computer-recommendations.md) such as the Apple iPad or Samsung Galaxy Tab S tablet.
+* **pen computers** - drawing tablets that you can carry around and use without a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)
+* **mobile computers with pen support** - These are not drawing but they can work just like one and your best choice for a standalone tablet. These include products such as Apple iPad Pros, Samsung Galaxy S series tablets, and the Microsoft Surface Pro.
 
-## $200 to $300
+## Apple iPads
 
-* **Huion Kamvas Slate 10** <mark style="color:red;">NOT A RECOMMENDATION</mark>
-  * Screen size: 10"
-  * Pen requires a battery
-  * Get a Samsung Galaxy Tab S6 LITE (2022) edition instead for something at this price point.
+[**iPads are excellent pen-computers / drawing tablets**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md).
 
-## $1000 to $2000
+* **Apple iPad Air (4th gen and later)** ($600)
+* **Apple iPad Pro 11 inch (4th gen and later)** (starting at $800)
+  * Supports Apple Pencil 2
+* **Apple iPad pro 12.9 inch 6th gen** (starting at $1100)
+  * Supports Apple Pencil 2
 
-* **Huion Kamvas Studio 16** ($1700) <mark style="color:red;">NOT A RECOMMENDATION</mark>&#x20;
-  * Screen size: 16"
-  * Resolution: 2560x1440
+## Samsung Galaxy Tab S series
 
-## $2000 to $3000
+The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the role of a drawing tablet.
 
-* **Wacom MobileStudio Pro 13** ($2500) <mark style="color:red;">NOT A RECOMMENDATION</mark>&#x20;
-  * Screen size: 13.3"
-  * Resolution: 2560x1440
-* **Huion Kamvas Studio 24** ($2400) <mark style="color:red;">NOT A RECOMMENDATION</mark>&#x20;
-  * Screen size: 24"
-  * Resolution: 2560x1440
+[**My notes on Samsung Galaxy Tab devices**](../product-info/samsung/7p-notes-samsung-galaxy-tab.md). &#x20;
 
-## $3000 to $4000
+* [**Samsung Galaxy Tab S6 Lite (2022 version)**](../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.&#x20;
+* [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option
+* [**Samsung Galaxy Tab S9 Ultra** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($1000) top-of-the-line performance.    &#x20;
 
-* **Wacom MobileStudio Pro 16** ($3500) <mark style="color:red;">NOT A RECOMMENDATION</mark>
-  * Screen Size: 15.6"
-  * Resolution: 3840x2160
+## Microsoft Surface Pro
+
+The **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.
+
+* [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
+* [**Surface Pro 9**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
+
+Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
+
+
+
+## Pen computers (which I don't recommend)
+
+Even though I do NOT recommend them, for completeness here is a list of SOME pen computers.
+
+### **Low budget**
+
+* **Huion Kamvas Slate 10**&#x20;
+
+### **Mid budget**
+
+* **Huion Kamvas Studio 16** ($1700)
+
+### **High budget**
+
+* **Wacom MobileStudio Pro 13** ($2500)
+* **Huion Kamvas Studio 24** ($2400)
+
+### **Super-high budget**
+
+* **Wacom MobileStudio Pro 16** ($3500)
+
+## Other resources&#x20;
+
+* [**Teoh on Tech - iPad vs Android and Windows tablets (artist perspective)**](https://youtu.be/CJCZSI3H7mk) Jan 5, 2024

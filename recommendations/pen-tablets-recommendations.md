@@ -2,12 +2,7 @@
 
 ## Overview
 
-Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/)&#x20;
-
-These are recommendations for **pen tablets** (aka **screenless tablets**)
-
-* Pen tablets DO NOT have a screen.
-* Pen tablets have to be used with a computer. They do not work standalone.
+It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/) first. These are recommendations for tablets that don't have screens. If you are looking for a tablet with a screen go here: [**pen display recommendations**](pen-displays-recommendations.md). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](pen-computer-recommendations.md).
 
 ## $50 to $100&#x20;
 

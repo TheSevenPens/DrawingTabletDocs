@@ -1,6 +1,8 @@
 # Mobile computer recommendations
 
-## Overview
+## <mark style="color:red;">Go here:</mark> [**Standalone drawing tablet recommendations**](../recommendations/pen-computer-recommendations.md).
+
+##
 
 Mobile computers that have pen support can play the role of a standalone drawing tablet. And [**I recommend them instead of pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md),&#x20;
 
