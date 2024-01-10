@@ -2,7 +2,7 @@
 
 ## Overview
 
-If you need to take notes and especially if you need to be mobile, rather than a drawing tablet I recommend either [**mobile computers with pen support**](../../misc/mobile-computer-recommendations.md) or explore dedicated note-taking devices.
+If you need to take notes and especially if you need to be mobile, rather than a drawing tablet I recommend either [**mobile computers with pen support**](../../recommendations/mobile-computer-recommendations.md) or explore dedicated note-taking devices.
 
 ## Dedicated note taking devices
 

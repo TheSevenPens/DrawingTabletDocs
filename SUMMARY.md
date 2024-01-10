@@ -310,4 +310,4 @@
     * [Diagonal wobble testing](resources/process/diagonal-wobble-testing.md)
   * [Koneko\_w](resources/koneko\_w.md)
 * [Misc](misc/README.md)
-  * [Mobile computer recommendations](misc/mobile-computer-recommendations.md)
+  * [Mobile computer recommendations](recommendations/mobile-computer-recommendations.md)
