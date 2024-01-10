@@ -1,10 +1,10 @@
 # Drawing tablet recommendations
 
-## Background
+## Overview
 
-Before looking at recommendations, I suggest you read: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). These are tablets I would personally recommend. These recommendations are centered around using the tablets for **drawing**.
+If you are new to drawing tablets, I suggest you read the [**beginner's guide**](../guides/beginners-guide.md).&#x20;
 
-## Recommendations by device type
+Below, here are tablets I would personally recommend separated by device type. These recommendations are centered around using the tablets for **drawing**.
 
 * [**Pen tablets**](pen-tablets-recommendations.md) (No screen + require a computer)
 * [**Pen displays**](pen-displays-recommendations.md) (Have a screen + require a computer)
