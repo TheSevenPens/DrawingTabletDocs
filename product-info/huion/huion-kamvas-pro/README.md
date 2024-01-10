@@ -1,10 +1,9 @@
 # Huion Kamvas Pro
 
-## Huion Kamvas Pro 27
+## Huion Kamvas Pro 27 (GT2701)
 
 * Model Year: 2024
 * product page: [https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-27.html](https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-27.html)&#x20;
-* GT2701
 * [陈瑜璟 - Huion Kamvas Pro 27 开箱，全球首发](https://www.youtube.com/watch?v=n4Jly9fYHjo) Dec 16, 2023&#x20;
 
 ## Huion Kamvas Pro 19 (GT-1902)
