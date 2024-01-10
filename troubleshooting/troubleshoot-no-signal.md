@@ -45,6 +45,8 @@ Your computer and operating system have no idea that these two devices are relat
 
 The reason it is important to understand this is that the NO SIGNAL issue is a display issue, not a pen tablet issue. &#x20;
 
+Another consequence of this "two devices" behvaior, is that even though you may be experiencing a "no signal" error, you can still use your tablet as a pen tablet (a screenless tablet). In fact this is often feature of drawing tablets, some people occasionally want to use them as pen tablets without the screen.&#x20;
+
 ## Tablet drivers
 
 So, In general, messing around the tablet drivers WILL NOT HELP. So, don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very unlikely to help the NO SIGNAL problem.
