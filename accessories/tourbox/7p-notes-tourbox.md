@@ -52,7 +52,5 @@ In windows there's also an interesting limitation. This has to deal with apps li
 
 ## How I configure my TourBox
 
-<figure><img src="../../.gitbook/assets/7P SLIDE Tourbox.jpg" alt=""><figcaption></figcaption></figure>
-
-##
+<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
