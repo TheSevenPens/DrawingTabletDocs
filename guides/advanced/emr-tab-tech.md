@@ -29,6 +29,20 @@ Modern EMR pens are Passive EMR. DO NOT Buy as tablet that uses a Passive EMR pe
 
 Mixing and matching: You cannot use an Active EMR pen with a tablet that supports Passive EMR pens. And likewise you cannot use a Passive EMR pen with a tablet that supports an Active EMR pen.
 
+## **Resonant frequency**
+
+The exact resonant frequency used by the pen will vary.
+
+In the case of the Wacom Bamboo Fun tablet (CTH-661) the frequency is around 750KHz. Source: the last 10 seconds of this scanlime video: [https://www.youtube.com/watch?v=oKVCwPn6OPI](https://www.youtube.com/watch?v=oKVCwPn6OPI)&#x20;
+
+## **How fast does the tablet switch between sensing the pen and sending it power?**
+
+We don't know.
+
+We suspect this is MUCH faster than a typical pen report rate of 200Hz.
+
+
+
 ## **Pen technologies**
 
 Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen technologies**](digital-pen-technologies.md)&#x20;
