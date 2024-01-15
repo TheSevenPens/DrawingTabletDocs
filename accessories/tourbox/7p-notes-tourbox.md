@@ -57,5 +57,4 @@ With Windows there's also an interesting limitation. It has to deal with apps li
 
 Partial setup for Clip Studio Paint
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/7P SLIDE Tourbox.png" alt=""><figcaption></figcaption></figure>
