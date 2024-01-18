@@ -1,5 +1,17 @@
 # OpenTabletDriver usage notes
 
+## Getting help with OpenTabletDriver
+
+### Use the OTD discord to get help
+
+* If you need help, join the OpenTabletDriver Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
+* DO ask questions in the `#support-windows` channel
+* DO NOT ask for support via DMs.
+
+### Do not bother asking from help from your tablet manufacturer
+
+<mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
+
 ### Limitations of OpenTabletDriver
 
 * OTD does NOT support touch input.
@@ -7,6 +19,11 @@
 * OTD does NOT support pen barrel rotation.
 * OTD does NOT support wireless or bluetooth connections.
 * OTD does NOT support per-application configuration. All OTD settings are system-wide.
+
+### **Running OTD as admin**
+
+* <mark style="color:red;">**DO NOT run OTD as administrator**</mark>.&#x20;
+* OTD will not work correctly if you do.
 
 ### **Windows Ink & WinTab**&#x20;
 

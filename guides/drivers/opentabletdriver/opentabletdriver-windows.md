@@ -10,30 +10,11 @@ What follows are the detailed steps I use to install OTD on Windows. This docume
 
 Using OTD for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
 
-## Usage notes for OpenTabletDriver on Windows
-
-### **Running OTD as admin**
-
-* <mark style="color:red;">**DO NOT run OTD as administrator**</mark>.&#x20;
-* OTD will not work correctly if you do.
-
 ## **Supported tablets**
 
 Although OTD supports many (200+) tablets but not all of them. Consult the complete list here: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 
 In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you will also have to install that component. I do not have any drawing tablets that require Zadig WinUSB so using Zadig WinUSB is NOT covered in this document.
-
-## Getting help with OpenTabletDriver
-
-### Use the OTD discord to get help
-
-* If you need help, join the OpenTabletDriver Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
-* DO ask questions in the `#support-windows` channel
-* DO NOT ask for support via DMs.
-
-### Do not get help from your tablet manufacturer
-
-<mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
 
 ## Important notes
 
@@ -93,17 +74,6 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * The tablet will be shown in the Window title at the top
 * To force detection click **Tablets** > **Detect tablet**
 
-## Checkpoint #1
-
-* **Should work**
-  * OTD should detect your tablet is there and which model it is
-  * OTD should be able to detect the pen position
-* **Does not work yet**
-  * tablet buttons
-  * pen buttons
-  * pressure pressure
-  * pen tilt
-
 ## Install the Windows Ink plugin
 
 * In the OTD app, navigate to **Plugins** > **Open Plugin Manager**
@@ -120,11 +90,8 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 ## Configure Windows Ink
 
-* In the OTD app, on the bottom left there will a drop down that specifies the "mode" OTD is running in
-* By default it is set to **Absolute Mode**
-* Change it to **Windows Ink Absolute Mode**
-  * If you leave it set to Absolute Mode, you will not be able to take advantage of pressure sensitivity and tilt.
-  * NOTE: You will only see Windows Ink Absolute Mode listed if you previously enabled the Windows Ink plugin.
+* In the OTD app, on the bottom change to mode dropdown from **Absolute Mode** to **Windows Ink Absolute Mode**
+* NOTE: You will only see **Windows Ink Absolute Mode** listed if you previously enabled the Windows Ink plugin.
 
 ![](<../../../.gitbook/assets/image (111).png>)
 
@@ -135,11 +102,11 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * In the OTD app, navigate to the **Pen Settings** tab
 * To summarize, you'll want your Pen Settings to look like this:
 
-<figure><img src="../../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (322).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
+</div>
 
 | Setting                               | Value                                                                                                                      |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -152,10 +119,9 @@ At the bottom of the OTD UI, click **Apply**.
 
 ## Tablet buttons
 
-* OTD does support buttons on your tablet.&#x20;
 * In the **Auxiliary Settings** tab, each button shows up as an **Auxiliary Binding**.
 * ![](<../../../.gitbook/assets/image (328).png>)
-* In the screenshot above one of the buttons has been set to match the "e" key.
+* In the screenshot above, one of the buttons has been set to match the "e" key.
 
 ## Save OpenTabletDriver configuration
 
@@ -168,28 +134,6 @@ At the bottom of the OTD UI, click **Apply**.
 * If you need to open OTD app again, you can find it in the taskbar
 
 ![](<../../../.gitbook/assets/image (207).png>)
-
-## Checkpoint #2
-
-* **Should work**
-  * OTD should know your tablet is there and which model it is
-  * OTD should be able to detect the pen position
-  * tablet buttons
-  * pen buttons
-  * pressure pressure
-  * pen tilt
-
-## Verify everything works in Krita
-
-* Download and install Krita from https://krita.org/&#x20;
-* Launch Krita
-* Go to **Settings** > **Configure Krita > Tablet settings > Tablet Input API**
-* Select the **Windows Ink** option (not the **WinTab** option)
-* Click **OK**
-* Restart Krita (You MUST restart Krita)
-* Create a new document
-* Pick a brush that supports pressure sensitivity
-* Start drawing and verify the brush responds to pressure.
 
 ## Configure your drawing application to use Windows Ink
 
@@ -210,11 +154,11 @@ At the bottom of the OTD UI, click **Apply**.
 
 ## Customizing your experience
 
-## Pressure curve
+### Pressure curve
 
 By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
 
-## Smoothing
+### Smoothing
 
 By default OTD performs no smoothing on the pen data. This is desirable because&#x20;
 
@@ -231,7 +175,7 @@ Learn more here: [**Configure smoothing in applications**](../../drawing/configu
 
 More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
 
-## Uninstalling
+## Uninstalling OTD
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
 
