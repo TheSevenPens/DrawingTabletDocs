@@ -12,21 +12,6 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 
 ## Usage notes for OpenTabletDriver on Windows
 
-### **Windows Ink & WinTab**&#x20;
-
-* There are two Pen APIs in the Windows ecosystem: **WinTab** which is older, and **Windows Ink** which is newer.
-* OTD only supports **Windows Ink** so any apps you want to use it with must also support Windows Ink.
-* Most creative apps support Windows Ink - Clip Studio Paint, Krita, Photoshop.
-* If you want pressure sensitivity, tilt, etc. - you must **you MUST configure OTD to use Windows Ink** and configure your apps to also use Windows Ink.&#x20;
-
-### Limitations of OpenTabletDriver
-
-* OTD does NOT support touch input.
-* OTD does NOT support tablet rotary dials.
-* OTD does NOT support pen barrel rotation.
-* OTD does NOT support wireless or bluetooth connections.
-* OTD does NOT support per-application configuration. All OTD settings are system-wide.
-
 ### **Running OTD as admin**
 
 * <mark style="color:red;">**DO NOT run OTD as administrator**</mark>.&#x20;
@@ -223,11 +208,13 @@ At the bottom of the OTD UI, click **Apply**.
 * This will open a new Explorer window pointing to a folder called **Startup**
 * &#x20;Move the OTD shortcut to the **Startup** folder in that explorer window
 
-## Configure Pressure curve
+## Customizing your experience
+
+## Pressure curve
 
 By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
 
-## Configure Smoothing
+## Smoothing
 
 By default OTD performs no smoothing on the pen data. This is desirable because&#x20;
 
@@ -244,44 +231,9 @@ Learn more here: [**Configure smoothing in applications**](../../drawing/configu
 
 More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
 
-## Appendix
-
-### Uninstalling
+## Uninstalling
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
-
-### More about pen buttons
-
-You can bind the pen buttons to several kinds of actions:
-
-![](<../../../.gitbook/assets/image (40).png>)
-
-* **Mouse Button Binding** is not supported
-* **Key Binding** is supported
-* **Multi-Key Bindings** is supported
-* **Windows Ink Bindings** are supported
-
-For **Windows Ink** here are the options:
-
-&#x20;![](<../../../.gitbook/assets/image (265).png>)
-
-If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
-
-
-
-### Pen hover height
-
-By default, OTD **has no restriction on the hover height of your pen**. Most drivers impose an artificial limit of about 10mm for a pen. But you'll often find with OTD that the hover height is increased substantially.&#x20;
-
-The maximum hover height is dependent on the specific model of tablet involved. For example with a Wacom Intuos Pro (PTH-860) my hover height goes from 10mm with the Wacom Driver to 20mm with Open Tablet driver.
-
-You can install a plug-in to control the hover height and have whatever limit you want.
-
-### Application data directory
-
-* OTD stores information in its application data directory
-* More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
-* If you are doing more advanced things with OTD you should be familiar with this folder.
 
 ## Resources
 

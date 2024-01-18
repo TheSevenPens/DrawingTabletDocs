@@ -44,6 +44,23 @@ If you want those pressure and tilt, you have to install an additional component
 
 If you are interested in using OTD as your tablet driver on Windows and want to use features like pressure and tilt, I wrote a detailed step-by-step guide to help you: [Install OpenTabletDriver on Windows](opentabletdriver/opentabletdriver-windows.md)&#x20;
 
+### More about pen buttons
+
+You can bind the pen buttons to several kinds of actions:
+
+![](<../../.gitbook/assets/image (40).png>)
+
+* **Mouse Button Binding** is not supported
+* **Key Binding** is supported
+* **Multi-Key Bindings** is supported
+* **Windows Ink Bindings** are supported
+
+For **Windows Ink** here are the options:
+
+&#x20;![](<../../.gitbook/assets/image (265).png>)
+
+If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
+
 ## MacOS without installing driver
 
 I haven't tested a Mac for this yet.

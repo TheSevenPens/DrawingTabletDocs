@@ -93,6 +93,7 @@
       * [Install OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
       * [OpenTabletDriver application data directory](guides/drivers/opentabletdriver/opentabletdriver-application-data-directory.md)
       * [Uninstalling OpenTabletDriver on Windows](guides/drivers/opentabletdriver/uninstalling-opentabletdriver-on-windows.md)
+      * [OpenTabletDriver usage notes](guides/drivers/opentabletdriver/opentabletdriver-usage-notes.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
       * [Pressure curve OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
       * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)
