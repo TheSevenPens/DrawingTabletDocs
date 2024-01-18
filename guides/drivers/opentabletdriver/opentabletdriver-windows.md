@@ -2,27 +2,15 @@
 
 ## **Overview**
 
-This document is for creatives that meet three criteria:
+This document is for creative users are interested in using OpenTabletDriver on Windows and want to use pen features such as pressure sensitivity, tilt, etc. If you don't know much about OpenTabletDriver, read this introduction first: [**OpenTabletDriver**](./).
 
-* they use drawing tablets on Microsoft Windows with applications that can use Windows Ink API such as Clip Studio Paint, Krita, Photoshop, etc.&#x20;
-* they need creative features such as pressure sensitivity, tilt, etc.
-* they cannot use the drivers from tablet manufacturer.
-
-## Introduction to OpenTabletDriver
-
-Read this first: [**OpenTabletDriver**](./)&#x20;
-
-## OpenTabletDriver documentation
-
-This document describes the detailed steps I follow to setup OTD on Windows for drawing and my usage notes about the process.
-
-This document **does not** replace the official OTD documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki))
+What follows are the detailed steps I use to install OTD on Windows. This document **does not** replace the official OTD documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki))
 
 ## Skills required
 
 Using OTD for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
 
-## Usage notes
+## Usage notes for OpenTabletDriver on Windows
 
 ### **Windows Ink & WinTab**&#x20;
 
@@ -31,32 +19,13 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 * Most creative apps support Windows Ink - Clip Studio Paint, Krita, Photoshop.
 * If you want pressure sensitivity, tilt, etc. - you must **you MUST configure OTD to use Windows Ink** and configure your apps to also use Windows Ink.&#x20;
 
-### Tablet features not supported by OpenTabletDriver
+### Limitations of OpenTabletDriver
 
 * OTD does NOT support touch input.
 * OTD does NOT support tablet rotary dials.
 * OTD does NOT support pen barrel rotation.
-* OTD does NOT support bluetooth connections.
-
-### System vs application settings
-
-Many manufacturer drivers support having a setting for your entire system and a setting for specific applications. Wacom, Huion, and XP-Pen all support this is their drivers.
-
-For example, you can change have a pen button be a right click for all applications but be a double-click for Krita.
-
-However, OTD only supports system-wide settings. So any settings in OTD will affect EVERY application.&#x20;
-
-### Pen hover height
-
-By default, OTD **has no restriction on the hover height of your pen**. Most drivers impose an artificial limit of about 10mm for a pen. But you'll often find with OTD that the hover height is increased substantially.&#x20;
-
-The maximum hover height is dependent on the specific model of tablet involved. For example with a Wacom Intuos Pro (PTH-860) my hover height goes from 10mm with the Wacom Driver to 20mm with Open Tablet driver.
-
-You can install a plug-in to control the hover height and have whatever limit you want.
-
-### Installation
-
-Technically, OpenTabletDriver isn't "installed". It's just a tool that you can download and run from any location on your computer. &#x20;
+* OTD does NOT support wireless or bluetooth connections.
+* OTD does NOT support per-application configuration. All OTD settings are system-wide.
 
 ### **Running OTD as admin**
 
@@ -65,13 +34,11 @@ Technically, OpenTabletDriver isn't "installed". It's just a tool that you can d
 
 ## **Supported tablets**
 
-Although OTD supports many tablets, it does not support all of them.
+Although OTD supports many (200+) tablets but not all of them. Consult the complete list here: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 
-Consult the list here to verify that your tablet is supported by OpenTabletDriver: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
+In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you will also have to install that component. I do not have any drawing tablets that require Zadig WinUSB so using Zadig WinUSB is NOT covered in this document.
 
-In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you will also have to install that component. I do not have any drawing tablets that require Zdig WinUSB so using Zadig WinUSB is NOT covered in this document.
-
-## Getting help
+## Getting help with OpenTabletDriver
 
 ### Use the OTD discord to get help
 
@@ -94,23 +61,21 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 ## **Prepare your computer**
 
 * Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.).&#x20;
-  * To be absolutely sure you have completely removed the drivers follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
+* To be absolutely sure you have completely removed the drivers follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
 * Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
 * Download and install Krita from [https://krita.org/](https://krita.org/) . We will use Krita to test that OTD is installed correctly.
-* Create a folder somehere on your computer called "OpenTabletDriver". I will use "C:\OpenTabletDriver" for the examples in this doc.&#x20;
+* Create a folder somewhere on your computer called "OpenTabletDriver". I will use "C:\OpenTabletDriver" for the examples in this doc.&#x20;
 
-## Install VMulti driver
+## Install the VMulti driver
 
-* <mark style="color:red;">You MUST install</mark> <mark style="color:red;"></mark><mark style="color:red;">**VMulti**</mark> <mark style="color:red;"></mark><mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet.</mark>
-* NOTE: Installing VMulti requires administrator permissions on your computer.
-* Download **VMulti.Driver.zip** from this location
-  * [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip)
-* Right click on VMulti.Driver.zip and select **Extract All**
-* This will create folder called **VMulti.Driver**&#x20;
-* Copy the VMulti.Driver folder to the C:\OpenTabletDriver
-* Start a CMD shell running with Administrator privileges and CD to the C:\OpenTabletDriver\VMulti.Driver folder&#x20;
-* run **install\_hiddriver.bat**&#x20;
-  * NOTE: This bat file - if needed - may restart your computer without warning. So, close any applications and save any docs before you run this .bat file.
+<mark style="color:red;">You MUST install</mark> <mark style="color:red;"></mark><mark style="color:red;">**VMulti driver**</mark> <mark style="color:red;"></mark><mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet on Windows.</mark>
+
+* Download **VMulti.Driver.zip** from: [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip)
+* Right click the zip and select **Extract All**.
+* This will create folder called **VMulti.Driver**.&#x20;
+* Copy the VMulti.Driver folder to the C:\OpenTabletDriver.
+* Right click on **install\_hiddriver.bat** and select **Run as Administrator**
+  * NOTE: This bat file may restart your computer without warning. So, close any applications and save any docs before you run it.
 
 ## Install the .NET Runtime&#x20;
 
@@ -119,19 +84,15 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 ## Install OpenTabletDriver
 
-NOTE: Strictly speaking, OTD is not "installed" like a typical application. Instead it is simply downloaded and can be run from any location.&#x20;
-
 * Download **OpenTabletDriver.win-x64.zip** from [https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip)
 * Move this zip file to your **Documents** folder&#x20;
 * Right-click on **OpenTabletDriver.win-x64.zip** and click **Extract All**
-* This will create a folder called **OpenTabletDriver.win-x64** that contains two files:
-  * OpenTabletDriver.UX.Wpf.exe
-  * OpenTabletDriver.Daemon.exe
-* Copy the **OpenTabletDriver.win-x64** folder to c:\OpenTabletDriver&#x20;
+* This will create a folder called **OpenTabletDriver.win-x64**
+* Copy the **OpenTabletDriver.win-x64** folder to **c:\OpenTabletDriver**&#x20;
 
 ## Launch OpenTabletDriver for the first time
 
-* Launch **OpenTabletDriver.UX.Wpf.exe**
+* In the **OpenTabletDriver.win-x64** folder, launch **OpenTabletDriver.UX.Wpf.exe**
   * If you see a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. Then launch OpenTabletDriver.UX.Wpf.exe.
   * This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
 * You will likely be greeted by a window titled **OpenTabletDriver Guide**.&#x20;
@@ -305,6 +266,16 @@ For **Windows Ink** here are the options:
 &#x20;![](<../../../.gitbook/assets/image (265).png>)
 
 If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
+
+
+
+### Pen hover height
+
+By default, OTD **has no restriction on the hover height of your pen**. Most drivers impose an artificial limit of about 10mm for a pen. But you'll often find with OTD that the hover height is increased substantially.&#x20;
+
+The maximum hover height is dependent on the specific model of tablet involved. For example with a Wacom Intuos Pro (PTH-860) my hover height goes from 10mm with the Wacom Driver to 20mm with Open Tablet driver.
+
+You can install a plug-in to control the hover height and have whatever limit you want.
 
 ### Application data directory
 
