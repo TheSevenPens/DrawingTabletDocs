@@ -38,15 +38,16 @@ Surface Pro 7 ands below do not have good pens for drawing. They exhibit too muc
 
 
 
-## Pen computers (which I don't recommend)
+## Pen computers
 
-Even though I do NOT recommend them, for completeness here is a list of SOME pen computers.
+Even though as a policy, I do NOT recommend them, for completeness here is a list of SOME pen computers.
 
 ### **Low budget**
 
-* **Huion Kamvas Slate 10**&#x20;
+* **Huion Kamvas Slate 10 **<mark style="color:red;">**SPECIFICALLY NOT RECOMMENDED**</mark>
+  * [Brad Colbow review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=7emiFxdCzWk) Jan 17, 2024
 
-### **Mid budget**
+### **Mid budget**&#x20;
 
 * **Huion Kamvas Studio 16** ($1700)
 
