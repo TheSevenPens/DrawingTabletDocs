@@ -1,20 +1,36 @@
-# Connecting a pen display with one USB-C cable
+# Connecting a pen display with a single USB-C cable
 
 ## Overview
 
 It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
-## Key points
+## Key requirements
 
-**Scenario support:** The manufacturer must say this this is possible. Just because their tablet has a USB-C port is not enough.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**Power:** Pen displays require a lot of power for the display. So typically this works when you are using a tablet that is 16" or smaller.
+## **Notes on support for DP alt mode**
 
-**USB-C Port on the computer:** Must support enough data, power and be capable of carrying a display signal. USB-C ports support that. You have to check with your computer manufacturer.&#x20;
+* Not all USB-C ports support DP alt mode.&#x20;
+* If a USB-C port is a thunderbolt port then it supports DP-Alt mode.
+  * Sometimes thunderbolt ports are labelled with a the thunderbolt lighting symbol.&#x20;
+  * Sometimes they are not labelled. In this case you must contact the manufacturer.
+* Not all cables support DP alt mode
+  * Thunderbolt 2 and 4 USB-C cable DO support DP alt mode
 
-**USB-C cable:** Must support enough data, power and be capable of carrying a display signal. USB-C ports support that. You have to check with your computer manufacturer. You manufacturer may sell a specific cable that they say should be used.
+## Notes on power support
 
-**Thunderbolt** - Both Thunderbolt 3 and Thunderbolt 4 cables and ports are capable of being used for this scenario. &#x20;
+* Thunderbolt USB-C cables do support carrying enough power
+* Even if the cable supports power, your computers USB-C port may not supply enough power.
+* The size of the pen display affects how much power is needed.&#x20;
+  * It's very likely that if your USB-C port can deliver enough power a 13" pen display
+  * At 16", some pen displays require additional power usually from a power adapter that is plugged into a wall.&#x20;
+  * Above 16" most often in my experience a single USB-C cable is not enough and these pen displays require additional power.&#x20;
+
+## Manufacturer cables vs third-party cables
+
+I recommend you get the USB-C cables the manufacturer recommends for use with a single USB-C cable configuration - primarily because these are known to work with the device and will fit into the well that contains the port.
+
+I sometimes use thunderbolt 3 cables, but sometimes have to shave off a bit of plastic from the end to make them fit into the pen display.&#x20;
 
 ## Testing setup&#x20;
 
