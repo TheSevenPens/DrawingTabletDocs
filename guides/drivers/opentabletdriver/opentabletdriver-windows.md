@@ -2,34 +2,31 @@
 
 ## **Overview**
 
-This document is for creative users are interested in using OpenTabletDriver on Windows and want to use pen features such as pressure sensitivity, tilt, etc. If you don't know much about OpenTabletDriver, read this introduction first: [**OpenTabletDriver**](./).
+This document is for creative users are interested in using OpenTabletDriver on Windows and want to use pen features such as pressure sensitivity, tilt, etc. If you don't know much about OpenTabletDriver, read this introduction first: [**OpenTabletDriver**](./). You should also familiarize yourself with these [**usage notes for OpenTabletDriver**](opentabletdriver-usage-notes.md).
 
-What follows are the detailed steps I use to install OTD on Windows. This document **does not** replace the official OTD documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki))
+What follows are the detailed steps I use to install OTD on Windows. This document **does not** replace the official OTD documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki)).&#x20;
 
-## Skills required
+### Skills required
 
 Using OTD for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
 
-## **Supported tablets**
+### **Supported tablets**
 
 Although OTD supports many (200+) tablets but not all of them. Consult the complete list here: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 
 In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you will also have to install that component. I do not have any drawing tablets that require Zadig WinUSB so using Zadig WinUSB is NOT covered in this document.
 
-## Important notes
+### Important notes
 
 * The instructions cover this specific version of OTD: v0.6.3.0
 * These instructions are for x64 operating systems only. OTD does not support 32-bit versions of Windows.
-* I only tested this on these versions of Windows:
-  * Windows 11 64-bit (version 10.0.22621)
-  * Windows 10 64-bit &#x20;
+* I tested these instructions on Windows 11 64-bit (version 10.0.22621)
 
 ## **Prepare your computer**
 
 * Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.).&#x20;
 * To be absolutely sure you have completely removed the drivers follow this guide: [Uninstalling manufacturer tablet drivers](../uninstalling-manufacturer-tablet-drivers.md)
 * Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
-* Download and install Krita from [https://krita.org/](https://krita.org/) . We will use Krita to test that OTD is installed correctly.
 * Create a folder somewhere on your computer called "OpenTabletDriver". I will use "C:\OpenTabletDriver" for the examples in this doc.&#x20;
 
 ## Install the VMulti driver
@@ -48,23 +45,22 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * OTD requires a specific version of the .NET Runtime
 * You can directly download and installed the version of .NET Runtime needed by downloading it from this link: [https://opentabletdriver.net/framework](https://opentabletdriver.net/framework)&#x20;
 
-## Install OpenTabletDriver
+## Download and extract OpenTabletDriver
 
-* Download **OpenTabletDriver.win-x64.zip** from [https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip)
-* Move this zip file to your **Documents** folder&#x20;
-* Right-click on **OpenTabletDriver.win-x64.zip** and click **Extract All**
+* Download [**OpenTabletDriver.win-x64.zip**](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip) and put it in your **Documents** folder&#x20;
+* Right-click on **OpenTabletDriver.win-x64.zip**, then select **Extract All**
 * This will create a folder called **OpenTabletDriver.win-x64**
 * Copy the **OpenTabletDriver.win-x64** folder to **c:\OpenTabletDriver**&#x20;
 
-## Launch OpenTabletDriver for the first time
+## Launch the OpenTabletDriver app for the first time
 
 * In the **OpenTabletDriver.win-x64** folder, launch **OpenTabletDriver.UX.Wpf.exe**
-  * If you see a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. Then launch OpenTabletDriver.UX.Wpf.exe.
-  * This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
-* You will likely be greeted by a window titled **OpenTabletDriver Guide**.&#x20;
+* That launches the OTD app
+* If you see a message that .NET 6 Desktop Runtime X64 is not installed, then follow its instructions to install that runtime. Then launch OpenTabletDriver.UX.Wpf.exe. This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
+* The **OpenTabletDriver Guide** may automatically start&#x20;
   * Click the X in the upper right hand corner to close the guide.
   * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
-* If the OTD UI is running you will see it in the notification area on your taskbar
+* When the OTD app is running, this icon will appear in your taskbar
 
 <figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -115,7 +111,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 | **Pen Buttons** > **Pen Binding 2**   | <p><strong>Type</strong> -> <strong>Windows Ink</strong></p><p><strong>Button</strong> -> <strong>Pen Button</strong></p>  |
 | **Eraser Settings > Eraser Bindings** | <p><strong>Type</strong> -> <strong>Windows Ink</strong></p><p><strong>Button</strong> -> <strong>Pen Tip</strong></p>     |
 
-At the bottom of the OTD UI, click **Apply**.
+At the bottom of the OTD app, click **Apply**.
 
 ## Tablet buttons
 
@@ -142,15 +138,15 @@ At the bottom of the OTD UI, click **Apply**.
 
 ## Automatically start OpenTabletDriver when Windows starts
 
-* Right click on OpenTabletDriver.UX.Wpf.exe
+* Right-click on OpenTabletDriver.UX.Wpf.exe
 * Select **Create Shortcut**
-* Right click on the shortcut, Select Properties
-* Under **Run**, Select **Minimized**
+* Right click on the shortcut, then select **Properties**
+* Under **Run**, select **Minimized**
 * Click **OK**
 * Press WINDOWS+R to bring up the **Run** window
-* In **Open**, enter **shell:startup**
+* In **Open**, type `shell:startup`
 * This will open a new Explorer window pointing to a folder called **Startup**
-* &#x20;Move the OTD shortcut to the **Startup** folder in that explorer window
+* Move the shortcut to the **Startup** folder in that explorer window
 
 ## Customizing your experience
 
@@ -181,4 +177,4 @@ See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalli
 
 ## Resources
 
-* r/huion - [OpenTablet Driver guide for Huion Kamvas 24 4k on windows 10 (but maybe other tablets too) in particular for paintin](https://www.reddit.com/r/huion/comments/17q61pl/opentablet\_driver\_guide\_for\_huion\_kamvas\_24\_4k\_on/)g 2023/11/07&#x20;
+* r/huion - [OpenTablet Driver guide for Huion Kamvas 24 4k on windows 10 (but maybe other tablets too) in particular for painting](https://www.reddit.com/r/huion/comments/17q61pl/opentablet\_driver\_guide\_for\_huion\_kamvas\_24\_4k\_on/) 2023/11/07&#x20;
