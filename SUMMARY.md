@@ -167,6 +167,7 @@
   * [Rebelle](applications/rebelle.md)
   * [Samsung Notes](applications/samsung-notes.md)
   * [Recommended apps](applications/recommended-apps.md)
+  * [Inkscape](applications/inkscape.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)
   * [Reset a drawing tablet](troubleshooting/reset-wacom-intuos-pro-tablets.md)

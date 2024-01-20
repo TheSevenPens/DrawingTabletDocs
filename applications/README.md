@@ -43,7 +43,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 
 * **Affinity Designer** (Windows, MacOS)
 * **Adobe Illustrator** (Windows, MacOS)
-* [**Inkscape**](https://gitlab.com/inkscape/inkscape) (Windows, MacOS, Linux)
+* [**Inkscape**](inkscape.md) (Windows, MacOS, Linux)
 * **VectorInk** (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
 
 ### 3D&#x20;
