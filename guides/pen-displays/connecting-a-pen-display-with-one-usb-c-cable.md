@@ -8,16 +8,17 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## **Does your USB-C port and cable support DP alt mode?**
+## **DP alt mode support**
 
 To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](usb-c-displayport-alt-mode.md)&#x20;
 
+## Power support
 
-
-## Notes on power support
-
-* Thunderbolt USB-C cables do support carrying enough power
-* Even if the cable supports power, your computers USB-C port may not supply enough power.
+* Cables
+  * Thunderbolt USB-C cables do support carrying enough power
+* Ports
+  * Even if the cable supports power, your computers USB-C port may not supply enough power.
+* Power needed
 * The size of the pen display affects how much power is needed.&#x20;
   * It's very likely that if your USB-C port can deliver enough power a 13" pen display
   * At 16", some pen displays require additional power usually from a power adapter that is plugged into a wall.&#x20;
@@ -25,7 +26,7 @@ To find out if you ports and cables support DP alt mode, read this**:** [USB-C D
 
 ## Manufacturer cables vs third-party cables
 
-I recommend you get the USB-C cables the manufacturer recommends for use with a single USB-C cable configuration - primarily because these are known to work with the device and will fit into the well that contains the port.
+I recommend you get the USB-C cables the manufacturer provides for use with a single USB-C cable configuration - primarily because these are known to work with the device and will fit into the well that contains the port.
 
 I sometimes use thunderbolt 3 cables, but sometimes have to shave off a bit of plastic from the end to make them fit into the pen display.&#x20;
 
@@ -50,7 +51,7 @@ I sometimes use thunderbolt 3 cables, but sometimes have to shave off a bit of p
 
 ## Testing results
 
-<table><thead><tr><th>Tablet</th><th width="98">Port</th><th>Cable</th><th>Results</th></tr></thead><tbody><tr><td><p><strong>Huion Kamvas 13</strong></p><p><strong>(GS1331)</strong></p></td><td>lower</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Huion Kamvas Pro 13 2.5K</strong></p><p><strong>(GT1302)</strong></p></td><td>upper</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Huion Kamvas Pro 16 Plus 4k (GT1562)</strong></td><td>lower</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>XP-Pen Artist 12 GEN2</strong></p><p><strong>(CD120FH)</strong></p></td><td>upper</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p> <strong>XP-Pen Artist 13 GEN2</strong></p><p><strong>(CD130FH)</strong></p></td><td>?</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>XP-Pen Artist Pro 16 GEN2 (MD160QH)</strong></td><td>left</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Wacom One 13 touch GEN2 (DTH-134)</strong></td><td>left</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One 12 GEN2</strong></p><p><strong>(DTC-121)</strong></p></td><td>left</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One GEN1</strong></p><p><strong>(DTC-133)</strong></p></td><td>only 1 port</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO <mark style="color:red;"><strong>NOT WORK</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th>Tablet</th><th width="98">Port</th><th>Cable</th><th>Results</th></tr></thead><tbody><tr><td><p><strong>Huion Kamvas 13</strong></p><p><strong>(GS1331)</strong></p></td><td>lower</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Huion Kamvas Pro 13 2.5K</strong></p><p><strong>(GT1302)</strong></p></td><td>upper</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Huion Kamvas Pro 16 Plus 4k (GT1562)</strong></td><td>lower</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>XP-Pen Artist 12 GEN2</strong></p><p><strong>(CD120FH)</strong></p></td><td>upper</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p> <strong>XP-Pen Artist 13 GEN2</strong></p><p><strong>(CD130FH)</strong></p></td><td>upper</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>XP-Pen Artist Pro 16 GEN2 (MD160QH)</strong></td><td>left</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Wacom One 13 touch GEN2 (DTH-134)</strong></td><td>left</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One 12 GEN2</strong></p><p><strong>(DTC-121)</strong></p></td><td>left</td><td>CableMatters Thunderbolt 3 cable</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One GEN1</strong></p><p><strong>(DTC-133)</strong></p></td><td>only 1 port</td><td>CableMatters Thunderbolt 3 cable</td><td><p>This pen display does not support using a single USB-C connection. I tested it anyway and </p><p>VERIFIED that it did <mark style="color:red;"><strong>NOT WORK</strong></mark></p></td></tr></tbody></table>
 
 ## Resources
 
