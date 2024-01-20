@@ -6,16 +6,13 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 ## Key requirements
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## **Notes on support for DP alt mode**
+## **Does your USB-C port and cable support DP alt mode?**
 
-* Not all USB-C ports support DP alt mode.&#x20;
-* If a USB-C port is a thunderbolt port then it supports DP-Alt mode.
-  * Sometimes thunderbolt ports are labelled with a the thunderbolt lighting symbol.&#x20;
-  * Sometimes they are not labelled. In this case you must contact the manufacturer.
-* Not all cables support DP alt mode
-  * Thunderbolt 2 and 4 USB-C cable DO support DP alt mode
+To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](usb-c-displayport-alt-mode.md)&#x20;
+
+
 
 ## Notes on power support
 

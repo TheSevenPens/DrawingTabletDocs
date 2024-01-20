@@ -116,7 +116,7 @@ Your computer may have multiple HDMI ports, try different ones.
 
 **IF** your computer has a USB-C port that supports a display signal there are a couple of options for you.
 
-More here: [USB-C support for display signal](../guides/pen-displays/usb-c-support-for-display-signal.md)&#x20;
+More here: [USB-C support for display signal](../guides/pen-displays/usb-c-displayport-alt-mode.md)&#x20;
 
 ### USB-C to USB-C
 
