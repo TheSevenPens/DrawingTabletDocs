@@ -34,11 +34,11 @@ While this seems like a good thing, it also means you cannot configure the table
 
 ## Buttons and Dials
 
-Because there is nor manufacturer driver, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
+Because there is no manufacturer driver, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
 
 ## Pressure curve
 
-Because there is nor manufacturer driver, there is no way to control what the pressure curve within the driver.
+Because there is no manufacturer driver, there is no way to control what the pressure curve within the driver.
 
 You will have to rely on the pressure curve control in your applications - if it has them.
 
