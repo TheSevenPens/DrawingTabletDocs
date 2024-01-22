@@ -30,15 +30,13 @@ This is pretty rare, but I've seen people do it.
 
 If you can reliably tile your windows to the left half and right half, this is an alternative arrangement
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
 
 It loses active area on the tablet, but may be easier to work with in terms of resizing windows.
 
 Some widescreen monitors, support presenting themselves to a computer as two separate monitors. Usually this requires two separate cables for two separate video signals.
 
 In this case you can map the tablet to one the monitors.
-
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 This still loses some active area on the tablet, but now it is very easy to get windows into the appropriate regions.
 
