@@ -40,6 +40,7 @@
     * [Active area size](guides/core-features/active-area-size.md)
     * [Active area aspect ratio](guides/core-features/active-area-aspect-ratio.md)
     * [Matching aspect ratios](guides/core-features/matching-aspect-ratios.md)
+    * [Active Area Mapping for pen tablets and widescreen monitors](guides/core-features/active-area-mapping-for-pen-tablets-and-widescreen-monitors.md)
     * [Bezel](guides/core-features/bezel.md)
     * [Pen tilt](guides/core-features/pen-tilt.md)
     * [Pen pressure](guides/core-features/pen-pressure.md)

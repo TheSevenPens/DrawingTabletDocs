@@ -4,7 +4,7 @@ A 3-in-one cable is a special kind of connection cable used for pen displays.
 
 It typically looks like this:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The power end can work in different ways depending on which 3-in-1 cable you have
 
@@ -14,7 +14,7 @@ The power end can work in different ways depending on which 3-in-1 cable you hav
 
 Older 3-in-1 cables may have a proprietary connection to the tablet instead of a regular USB-C connection.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Why do these cables exist?
 
