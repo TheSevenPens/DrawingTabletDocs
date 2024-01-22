@@ -7,7 +7,9 @@ Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). The
 * **pen computers** - drawing tablets that you can carry around and use without a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)
 * **mobile computers with pen support** - These are not drawing but they can work just like one and your best choice for a standalone tablet. These include products such as Apple iPad Pros, Samsung Galaxy S series tablets, and the Microsoft Surface Pro.
 
-## Apple iPads
+## Mobile computers with pen support
+
+### Apple iPads
 
 [**iPads are excellent pen-computers / drawing tablets**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md).
 
@@ -17,7 +19,7 @@ Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). The
 * **Apple iPad pro 12.9 inch 6th gen** (starting at $1100)
   * Supports Apple Pencil 2
 
-## Samsung Galaxy Tab S series
+### Samsung Galaxy Tab S series
 
 The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the role of a drawing tablet.
 
@@ -27,7 +29,14 @@ The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the
 * [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option
 * [**Samsung Galaxy Tab S9 Ultra** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($1000) top-of-the-line performance.    &#x20;
 
-## Microsoft Surface Pro
+### Huion Kamvas Slate
+
+**Huion Kamvas Slate 10 **<mark style="color:red;">**SPECIFICALLY NOT RECOMMENDED**</mark>
+
+* [Brad Colbow review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=7emiFxdCzWk) Jan 17, 2024
+* [Teoh on Tech review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=-wWSCy3yLWA) Jan 21, 2024&#x20;
+
+### Microsoft Surface Pro
 
 The **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.
 
@@ -42,10 +51,7 @@ Surface Pro 7 ands below do not have good pens for drawing. They exhibit too muc
 
 Even though as a policy, I do NOT recommend them, for completeness here is a list of SOME pen computers.
 
-### **Low budget**
 
-* **Huion Kamvas Slate 10 **<mark style="color:red;">**SPECIFICALLY NOT RECOMMENDED**</mark>
-  * [Brad Colbow review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=7emiFxdCzWk) Jan 17, 2024
 
 ### **Mid budget**&#x20;
 
