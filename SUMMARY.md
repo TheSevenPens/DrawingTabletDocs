@@ -204,6 +204,7 @@
     * [Gaomon Pro Pen Display](product-info/gaomon/gaomon-pro-pen-display.md)
   * [Huion](product-info/huion/README.md)
     * [Huion Kamvas Pro](product-info/huion/huion-kamvas-pro/README.md)
+      * [7P notes: Huion Kamvas Pro 19 (GT1902)](product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-19-gt1902.md)
       * [7P notes: Huion Kamvas Pro 16 Plus 4K (GT1562)](product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)
       * [7P notes: Huion Kamvas Pro 24 4K (GT2401)](product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-24-4k-gt2401.md)
     * [Huion Kamvas Studio](product-info/huion/huion-kamvas-studio.md)
