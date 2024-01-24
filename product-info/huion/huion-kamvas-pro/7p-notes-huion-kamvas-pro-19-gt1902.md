@@ -21,6 +21,10 @@ Please keep in mind these are my initial reactions on my first day of using the 
 
 **Touch on Windows** - Will try this soon.
 
+**PW600 and PW660S pen max pressure** - 510gf (slightly \*more\* than Huion specified).&#x20;
+
+
+
 
 
 &#x20;
