@@ -76,6 +76,14 @@ If you have a **DVI** port, you may be able to find an adapter that works. I don
 
 If you have a **USB-C port THAT SUPPORTS A DISPLAY SIGNAL**, then you could buy a USB-C to- HDMI adapter. I have used one of these and found it to work, but it is flaky - working with some USB-C ports but not others.&#x20;
 
+## Input lag
+
+There are many threads on this, some linked below - and there isn't a clear consensus. Some claim that there is no additional lag, some claim it does. Overall I haven't noticed that splitters that I have personally used have introduce any lag into the signal.
+
+* Do HDMI Splitters add LAG to your games ??? [https://www.youtube.com/watch?v=N-4IGVKkWvs](https://www.youtube.com/watch?v=N-4IGVKkWvs)
+* [https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/](https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/)&#x20;
+* [https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/](https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/)
+
 
 
 
