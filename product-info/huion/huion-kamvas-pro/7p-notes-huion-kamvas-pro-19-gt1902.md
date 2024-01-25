@@ -4,13 +4,15 @@ Please keep in mind these are my initial reactions on my first day of using the 
 
 ## **Display**
 
-**Refresh rate** - Up to 60Hz. Does not support 120Hz.
+**Refresh rate** - NORMAL. Up to 60Hz which is standard for pen displays in 2024. Does not support 120Hz.
 
-**Display > Anti-Glare sparkle** - BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 4 to 5 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome.
+**Anti-Glare sparkle** - OK. This is a big. BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome.&#x20;
+
+**Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem.&#x20;
 
 ## Compatibility
 
-**Compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
+**Backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
 
 ## **Connections**
 
@@ -39,13 +41,15 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 
 **Legs** - YES. Two legs
 
-**Noise** - None. No fans
+**Noise** - GOOD. No noise because no fans
 
-**Heat** - After running at 100% brightness for 30 min: room temperature on the left side. Just very slightly warmer on the right.&#x20;
+**Heat** - EXCELLENT. After running at 100% brightness for 12 hours: room temperature on the left side. Just very slightly warmer on the right.&#x20;
 
 ## Pens and Pressure
 
-**Pens** - comes with the PW600 and PW600S pens. Having two pens is convenient.
+**Pens** - comes with the PW600 and PW600S pens.&#x20;
+
+**Driver &** Pens - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
 
 **Pen buttons** - GOOD. the PW600 has 3 buttons. The PW600S has two buttons.
 
