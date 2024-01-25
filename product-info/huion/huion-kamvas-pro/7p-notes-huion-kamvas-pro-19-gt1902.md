@@ -23,6 +23,7 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 
 * **Corner/Edge accuracy** - NORMAL. Good on the right side, a little more inaccurate on the left. These affects are only in the last 2mm and should did not affect my normal usage of the tablet.
 * **Pointer lag** - NORMAL - standard for modern pen displays.
+* **Parallax** - NORMAL - standard for modern pen displays.
 
 ## Touch
 
@@ -45,7 +46,9 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 
 **Pen button feel** - the buttons on both pens have a nicer "crisper" clicking action than the buttons of the PW517 which feel a bit soft/mushy in comparison
 
-**PW600 and PW660S pen max pressure** - 510gf (slightly \*more\* than the 500gf that Huion specified). This amount of variance is normal.
+**Pen IAF** - Huion says 2gf for both pens. Seems accurate. A little more sensitive than the PW517 pen which is at about 3gf.
+
+**Pen maximum pressure** - I measured both pens at 510gf (slightly \*more\* than the 500gf that Huion specified). This amount of variance is normal.
 
 **Pressure Transition Instability** - You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Great tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets.&#x20;
 
