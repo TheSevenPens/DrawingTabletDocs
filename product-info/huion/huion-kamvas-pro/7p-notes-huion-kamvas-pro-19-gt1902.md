@@ -19,6 +19,11 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 * Power: I have it connected with its USB-C power cable to the provided power adapter.
 * Data and display signal: I connected it with a Cable Matters Thunderbolt 3 cable to my Microsoft Surface Thunderbolt Dock which is then connected to a M3 MacBook Pro.
 
+## Basics
+
+* **Corner/Edge accuracy** - NORMAL. Good on the right side, a little more inaccurate on the left. These affects are only in the last 2mm and should did not affect my normal usage of the tablet.
+* **Pointer lag** - NORMAL - standard for modern pen displays.
+
 ## Touch
 
 * **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
