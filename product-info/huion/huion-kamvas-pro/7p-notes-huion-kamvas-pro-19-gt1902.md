@@ -2,6 +2,20 @@
 
 Please keep in mind these are my initial reactions on my first day of using the tablet.
 
+## Basics
+
+* **Corner/Edge accuracy** - NORMAL. Good on the right side, a little more inaccurate on the left. These affects are only in the last 2mm and should did not affect my normal usage of the tablet.
+* **Pointer lag** - NORMAL - standard for modern pen displays.
+* **Parallax** - NORMAL - standard for modern pen displays.
+
+
+
+## Diagonal wobble
+
+GOOD. LOW amounts of wobble in stroke.
+
+<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## **Display**
 
 **Refresh rate** - NORMAL. Up to 60Hz which is standard for pen displays in 2024. Does not support 120Hz.
@@ -21,11 +35,9 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 * Power: I have it connected with its USB-C power cable to the provided power adapter.
 * Data and display signal: I connected it with a Cable Matters Thunderbolt 3 cable to my Microsoft Surface Thunderbolt Dock which is then connected to a M3 MacBook Pro.
 
-## Basics
+##
 
-* **Corner/Edge accuracy** - NORMAL. Good on the right side, a little more inaccurate on the left. These affects are only in the last 2mm and should did not affect my normal usage of the tablet.
-* **Pointer lag** - NORMAL - standard for modern pen displays.
-* **Parallax** - NORMAL - standard for modern pen displays.
+
 
 ## Touch
 
