@@ -12,8 +12,6 @@ NO STATEMENT YET.  I am still actively evaluating this tablet. Overall experienc
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
 
-
-
 ## Diagonal wobble
 
 GOOD. LOW amounts of wobble in stroke.
@@ -24,9 +22,9 @@ GOOD. LOW amounts of wobble in stroke.
 
 **Refresh rate** - NORMAL. Up to 60Hz which is standard for pen displays in 2024. Does not support 120Hz.
 
-**Anti-Glare sparkle** - OK. This is a big. BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome.&#x20;
+**Anti-Glare sparkle** - OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle.
 
-**Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem.&#x20;
+**Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) has a slightly soft experience, this Huion has a little more softness than that.
 
 ## Compatibility
 
