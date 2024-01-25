@@ -28,7 +28,8 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 ## Touch
 
 * **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
-* **Touch on Windows** - Will try this soon.
+* **Touch on Windows** - Still evaluating.
+  * ONE ISSUE: Touch on the tablet will map to whichever display is your "main monitor". Huion should change this in the driver so that touch will always map to the pen display regardless of what is selected as your main monitor.&#x20;
 
 ## **Ergonomics**
 
