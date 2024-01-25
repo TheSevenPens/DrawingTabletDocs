@@ -38,6 +38,10 @@ I could not use it with a single USB-C cable. Huion did not say that single-cabl
 
 **Legs** - YES. Two legs
 
+**Noise** - None. No fans
+
+**Heat** - After running at 100% brightness for 30 min: room temperature on the left side. Just very slightly warmer on the right.&#x20;
+
 ## Pens and Pressure
 
 **Pens** - comes with the PW600 and PW600S pens. Having two pens is convenient.
