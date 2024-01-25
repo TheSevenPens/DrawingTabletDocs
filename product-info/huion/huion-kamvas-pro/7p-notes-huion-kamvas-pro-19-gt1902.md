@@ -2,6 +2,10 @@
 
 Please keep in mind these are my initial reactions on my first day of using the tablet.
 
+## Recommendation
+
+NO STATEMENT YET.  I am still actively evaluating this tablet. Overall experience so far is positive.
+
 ## Basics
 
 * **Corner/Edge accuracy** - NORMAL. Good on the right side, a little more inaccurate on the left. These affects are only in the last 2mm and should did not affect my normal usage of the tablet.
