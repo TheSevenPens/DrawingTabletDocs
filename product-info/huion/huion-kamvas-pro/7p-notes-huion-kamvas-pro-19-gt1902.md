@@ -30,22 +30,29 @@ GOOD. LOW amounts of wobble in stroke.
 
 **Backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
 
-## **Connections**
+## **Connections and cabling**
+
+**Single USB-C cable connection?**
 
 I could not use it with a single USB-C cable. Huion did not say that single-cable operation was a feature - so I am not surprised. Tablets above 16 inches generally require additional power.
 
 * Power: I have it connected with its USB-C power cable to the provided power adapter.
-* Data and display signal: I connected it with a Cable Matters Thunderbolt 3 cable to my Microsoft Surface Thunderbolt Dock which is then connected to a M3 MacBook Pro.
+* Data and display signal: I used the supplied USB-C cable to connect it to my Microsoft Surface Thunderbolt Dock. I connected the dock to a Microsoft Surface Pro 8. For MacOS testing I connected the dock to an M3 MacBook Pro.
 
-##
+**Using third party USB-C cables for display signal & data**
 
+I tried a Cable Matters USB-C Thunderbolt cable. It did work, however sometimes slight movements of the cable cause the tablet to lose the display signal and data.
 
+Upon closer examination, the Huion USB-C cable plug is slightly longer than the CableMatters cable. So there is a slight difference on how some third party cables can connect.
+
+For this reason I recommend using the supplied Huion USB-C cable.
 
 ## Touch
 
 * **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
 * **Touch on Windows** - Still evaluating.
-  * ONE ISSUE: Touch on the tablet will map to whichever display is your "main monitor". Huion should change this in the driver so that touch will always map to the pen display regardless of what is selected as your main monitor.&#x20;
+  * Touch on the tablet will map to whichever display is your "main monitor". Huion should change this in the driver so that touch will always map to the pen display regardless of what is selected as your main monitor.&#x20;
+  * Palm rejection is OK-ish. Not comparable to an iPad. To often I accidentally pressed something on the screen because of my palm.&#x20;
 
 ## **Ergonomics**
 
