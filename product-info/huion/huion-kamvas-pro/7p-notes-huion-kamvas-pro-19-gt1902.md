@@ -58,13 +58,15 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Weight** - lighter than I expected. I noticed it immediately when I picked up the box.&#x20;
 
-**VESA mounting** - YES. There are VESA holes for mounting on the back
+**VESA mounting** - YES. There are e 75 mm × 75 mm VESA holes for mounting on the back.&#x20;
 
 **Legs** - YES. Two legs
 
 **Noise** - GOOD. No noise because no fans
 
 **Heat** - EXCELLENT. After running at 100% brightness for 12 hours: room temperature on the left side. Just very slightly warmer on the right.&#x20;
+
+**Stand** - It does not come with a stand. Instead I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
 
 ## Pens and Pressure
 
