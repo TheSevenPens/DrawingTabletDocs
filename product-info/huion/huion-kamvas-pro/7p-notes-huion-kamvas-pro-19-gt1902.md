@@ -84,3 +84,5 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets.&#x20;
 
+**Pen button stroke interruptions** - older Huion pens would stop drawing when you pressed the pen buttons - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
+
