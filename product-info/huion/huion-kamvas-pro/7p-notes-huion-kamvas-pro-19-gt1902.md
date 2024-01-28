@@ -86,3 +86,5 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pen button stroke interruptions** - older Huion pens would stop drawing when you pressed the pen buttons - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 
+**PW600/PW600S compatiblity with older tablets** - The new pens are NOT compatible with older Huion tablets.
+
