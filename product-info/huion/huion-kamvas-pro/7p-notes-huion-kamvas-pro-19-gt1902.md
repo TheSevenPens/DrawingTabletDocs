@@ -51,8 +51,9 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 * **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
 * **Touch on Windows** - Still evaluating.
-  * Touch on the tablet will map to whichever display is your "main monitor". Huion should change this in the driver so that touch will always map to the pen display regardless of what is selected as your main monitor.&#x20;
-  * Palm rejection is OK-ish and typical for Touch on pen displays. Not comparable to an iPad. To often I accidentally pressed something on the screen because of my palm. I would say it's very on part with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
+  * Touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
+  * There is a way to map it back to the tablet. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter)
+  * Palm rejection is OK-ish and TYPICAL for Touch on pen displays. Touch support is comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm. I would say it's very on part with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
 
 ## **Ergonomics**
 
