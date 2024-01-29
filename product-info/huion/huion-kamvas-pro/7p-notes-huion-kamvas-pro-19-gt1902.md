@@ -52,7 +52,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
 * **Touch on Windows** - Still evaluating.
   * Touch on the tablet will map to whichever display is your "main monitor". Huion should change this in the driver so that touch will always map to the pen display regardless of what is selected as your main monitor.&#x20;
-  * Palm rejection is OK-ish. Not comparable to an iPad. To often I accidentally pressed something on the screen because of my palm.&#x20;
+  * Palm rejection is OK-ish and typical for Touch on pen displays. Not comparable to an iPad. To often I accidentally pressed something on the screen because of my palm. I would say it's very on part with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
 
 ## **Ergonomics**
 
