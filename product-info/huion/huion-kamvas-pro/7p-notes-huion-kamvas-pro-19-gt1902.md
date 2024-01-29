@@ -99,7 +99,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * PW600 = 16g
 * PW600S = 14g
 
-**Issue with the PW600 pen** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I didn't drop the pen when this problem started so I am not sure what happened. The PW600S pen continued to work. I will order a new PW600 pen and disassenble the PW600 pen for reference.
+**Issue with the PW600 pen & nib** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
 
 
 
