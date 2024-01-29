@@ -26,6 +26,8 @@ GOOD. LOW amounts of wobble in stroke.
 
 **Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) has a slightly soft experience, this Huion has a little more softness than that.
 
+**Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%.
+
 ## Compatibility
 
 **Backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
@@ -69,6 +71,8 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Stand** - It does not come with a stand. Instead I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
 
+**surface texture** - it feels slightly more textured than the Huion Kamvas Pro 24 4K
+
 ## Pens and Pressure
 
 **Pens** - comes with the PW600 and PW600S pens.&#x20;
@@ -88,4 +92,12 @@ For this reason I recommend using the supplied Huion USB-C cable.
 **Pen button stroke interruptions** - older Huion pens would stop drawing when you pressed the pen buttons - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 
 **PW600/PW600S compatiblity with older tablets** - The new pens are NOT compatible with older Huion tablets.
+
+**Pen weight** - I measured with a digital scale
+
+* PW517 = 14g
+* PW600 = 16g
+* PW600S = 14g
+
+
 
