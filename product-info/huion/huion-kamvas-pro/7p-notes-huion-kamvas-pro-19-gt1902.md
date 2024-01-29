@@ -54,7 +54,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
 * **Touch on Windows** - Still evaluating.
   * Touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
-  * There is a way to map it back to the tablet. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter)
+  * There is a way to map it back to the tablet. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter). When I first tried this, it fixed the touch problem, but it had an odd interaction with the pen - when I used the pen on the tablet, the pointer always stayed near the top border. After I uninstalled the driver, restarted the computer, and reinstalled the driver, the problem went away and the pen worked normally.
   * Palm rejection is OK-ish and TYPICAL for Touch on pen displays. Touch support is comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm. I would say it's very on part with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
 
 ## **Ergonomics**
@@ -98,6 +98,8 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * PW517 = 14g
 * PW600 = 16g
 * PW600S = 14g
+
+**Issue with the PW600 pen** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I didn't drop the pen when this problem started so I am not sure what happened. The PW600S pen continued to work. I will order a new PW600 pen and disassenble the PW600 pen for reference.
 
 
 
