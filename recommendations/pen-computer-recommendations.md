@@ -44,12 +44,14 @@ The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the
 
 ### Microsoft Surface Pro
 
-The **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.
+If you are looking for running desktop apps, then the **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.&#x20;
 
 * [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
 * [**Surface Pro 9**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 
 Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
+
+I find the drawing experience to be OK / Tolerable with the Surface Pro. It doesn't match what you get from the iPad or the Samsung Galaxy Tab series.
 
 ## Pen computers
 
