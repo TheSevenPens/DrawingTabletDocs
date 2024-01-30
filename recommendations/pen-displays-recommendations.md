@@ -31,7 +31,9 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 * MEDIUM [**Wacom Cintiq Pro 16**](../product-info/wacom/wacom-cintiq-pro/) (DTH-167) $1500 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-cintiq-pro-16-dth-167.md))
 * LARGE [**Wacom Cintiq 22**](../product-info/wacom/wacom-cintiq.md) (DTK-2260) $1200
+* LARGE[ **Huion Kamvas Pro 19 (GT1902)**](../product-info/huion/huion-kamvas-pro/) $1100  <mark style="color:red;">**UNDER EVALUATION**</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-19-gt1902.md)) &#x20;
 * LARGE [**Huion Kamvas Pro 24 4K**](../product-info/huion/huion-kamvas-pro/) **(GT2401)** $1300 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-24-4k-gt2401.md))
+*
 
 ## $1500 - $2000
 
