@@ -8,7 +8,7 @@ NO STATEMENT YET.  I am still actively evaluating this tablet. Overall experienc
 
 ## Basics
 
-* **Corner/Edge accuracy** - NORMAL. Good on the right side, a little more inaccurate on the left. These affects are only in the last 2mm and should did not affect my normal usage of the tablet. And I didn't even bother performing any calibration to address it.
+* **Corner/Edge accuracy** - NORMAL. This is only visible in the last 2mm and did not affect my normal usage of the tablet. It was so minor, I didn't even bother performing any calibration to address it.
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
 
