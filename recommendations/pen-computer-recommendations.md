@@ -36,6 +36,10 @@ The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the
 * [Brad Colbow review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=7emiFxdCzWk) Jan 17, 2024
 * [Teoh on Tech review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=-wWSCy3yLWA) Jan 21, 2024&#x20;
 
+### XP-Pen Magic Drawing Pad&#x20;
+
+* [Teoh on Tech review of XP-Pen Magic Drawing Pad](https://www.youtube.com/watch?v=gVfGU\_3-SyY) Jan 29,2024
+
 ### Microsoft Surface Pro
 
 The **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.
@@ -45,13 +49,9 @@ The **Surface Pro 8** (and above) is a good choice when combined with Surface Pr
 
 Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
 
-
-
 ## Pen computers
 
 Even though as a policy, I do NOT recommend them, for completeness here is a list of SOME pen computers.
-
-
 
 ### **Mid budget**&#x20;
 
