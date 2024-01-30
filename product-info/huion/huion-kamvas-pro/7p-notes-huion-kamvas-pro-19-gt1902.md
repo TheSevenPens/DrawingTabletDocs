@@ -89,9 +89,9 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets.&#x20;
 
-**Pen button stroke interruptions** - older Huion pens would stop drawing when you pressed the pen buttons - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
+**Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 
-**PW600/PW600S compatiblity with older tablets** - The new pens are NOT compatible with older Huion tablets.
+**PW600/PW600S compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
 
 **Pen weight** - I measured with a digital scale
 
@@ -100,6 +100,8 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * PW600S = 14g
 
 **Issue with the PW600 pen & nib** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
+
+**Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
 
 
 
