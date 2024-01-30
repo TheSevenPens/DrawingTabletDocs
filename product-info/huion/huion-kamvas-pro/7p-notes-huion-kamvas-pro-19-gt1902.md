@@ -16,7 +16,7 @@ NO STATEMENT YET.  I am still actively evaluating this tablet. Overall experienc
 
 GOOD. LOW amounts of wobble in stroke.
 
-<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Display**
 
@@ -51,33 +51,33 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 ## Touch
 
-* **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So no surprise.
-* **Touch on Windows** - Still evaluating.
-  * Touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
-  * There is a way to map it back to the tablet. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter). When I first tried this, it fixed the touch problem, but it had an odd interaction with the pen - when I used the pen on the tablet, the pointer always stayed near the top border. After I uninstalled the driver, restarted the computer, and reinstalled the driver, the problem went away and the pen worked normally.
-  * Palm rejection is OK-ish and TYPICAL for Touch on pen displays. Touch support is comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm. I would say it's very on part with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
+* **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So, no surprise.
+* **Touch on Windows** - Still under evaluation.
+  * By default, touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
+  * You can map touch back to the tablet when it is not the main monitor. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter). When I first tried this, it fixed the touch problem, but it had an odd interaction with the pen - when I used the pen on the tablet, the pointer always stayed near the top border. After I uninstalled the driver, restarted the computer, and reinstalled the driver, the problem went away and the pen worked normally.
+* **Palm rejection**: OK-ish. Very TYPICAL for Touch on pen displays. Touch support is not comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm. I would say it's very on par with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
 
 ## **Ergonomics**
 
 **Weight** - lighter than I expected. I noticed it immediately when I picked up the box.&#x20;
 
-**VESA mounting** - YES. There are e 75 mm × 75 mm VESA holes for mounting on the back.&#x20;
+**VESA mounting** - YES. There are 75 mm × 75 mm VESA holes for mounting on the back.&#x20;
 
 **Legs** - YES. Two legs
 
-**Noise** - GOOD. No noise because no fans
+**Noise** - EXCELLENT. No noise because no fans
 
-**Heat** - EXCELLENT. After running at 100% brightness for 12 hours: room temperature on the left side. Just very slightly warmer on the right.&#x20;
+**Heat** - EXCELLENT. After running at 100% brightness for 4 days: room temperature on the left side. Just very slightly warmer on the right.&#x20;
 
-**Stand** - It does not come with a stand. Instead I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
+**Stand** - It does not come with a stand. Instead, I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
 
-**surface texture** - it feels slightly more textured than the Huion Kamvas Pro 24 4K
+**Surface texture** - it feels slightly more textured than the Huion Kamvas Pro 24 4K
 
 ## Pens and Pressure
 
 **Pens** - comes with the PW600 and PW600S pens.&#x20;
 
-**Driver &** Pens - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
+**Driver & Pens** - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
 
 **Pen buttons** - GOOD. the PW600 has 3 buttons. The PW600S has two buttons.
 
@@ -102,6 +102,3 @@ For this reason I recommend using the supplied Huion USB-C cable.
 **Issue with the PW600 pen & nib** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
-
-
-
