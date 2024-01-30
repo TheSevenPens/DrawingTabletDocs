@@ -31,12 +31,14 @@ The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the
 
 ### Huion Kamvas Slate
 
-**Huion Kamvas Slate 10 **<mark style="color:red;">**SPECIFICALLY NOT RECOMMENDED**</mark>
+**Huion Kamvas Slate 10 **<mark style="color:red;">**NOT RECOMMENDED**</mark>
 
 * [Brad Colbow review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=7emiFxdCzWk) Jan 17, 2024
 * [Teoh on Tech review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=-wWSCy3yLWA) Jan 21, 2024&#x20;
 
 ### XP-Pen Magic Drawing Pad&#x20;
+
+<mark style="color:red;">**NO COMMENT YET**</mark>
 
 * [Teoh on Tech review of XP-Pen Magic Drawing Pad](https://www.youtube.com/watch?v=gVfGU\_3-SyY) Jan 29,2024
 
