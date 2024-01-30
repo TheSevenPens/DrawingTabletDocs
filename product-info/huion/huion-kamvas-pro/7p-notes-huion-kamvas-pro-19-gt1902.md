@@ -102,3 +102,9 @@ For this reason I recommend using the supplied Huion USB-C cable.
 **Issue with the PW600 pen & nib** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
+
+## Other topics
+
+**Sound** - there's a headphone jack for audio. Some of you may find this convenient.
+
+In Windows if you connect the tablet, it may **appear** that windows has lost sound output. What is happening here is Windows can automatically switch its default audio to a new audio device - which is what this tablet is. Of course, it doesn't have speakers, so you won't hear anything unless you have a headphone connected.&#x20;
