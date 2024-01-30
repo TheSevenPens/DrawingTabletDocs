@@ -6,9 +6,9 @@ If you are new to drawing tablets, I suggest you read the [**beginner's guide**]
 
 Below, here are tablets I would personally recommend separated by device type. These recommendations are centered around using the tablets for **drawing**.
 
-* [**Pen tablets**](pen-tablets-recommendations.md) (No screen + require a computer)
-* [**Pen displays**](pen-displays-recommendations.md) (Have a screen + require a computer)
-* [**Standalone drawing tablets**](pen-computer-recommendations.md) (do not require a computer)
+* [**Pen tablets**](pen-tablet-recommendations.md) (No screen + require a computer)
+* [**Pen displays**](pen-display-recommendations.md) (Have a screen + require a computer)
+* [**Standalone drawing tablets**](standalone-drawing-tablet-recommendations.md) (do not require a computer)
 
 ### **Resources**
 

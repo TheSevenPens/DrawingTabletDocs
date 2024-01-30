@@ -4,8 +4,8 @@
 
 Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). There are two kinds of standalone drawing tablets:
 
-* **pen computers** - drawing tablets that you can carry around and use without a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)
 * **mobile computers with pen support** - These are not drawing but they can work just like one and your best choice for a standalone tablet. These include products such as Apple iPad Pros, Samsung Galaxy S series tablets, and the Microsoft Surface Pro.
+* **pen computers** - drawing tablets that you can carry around and use without a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)
 
 ## Mobile computers with pen support
 

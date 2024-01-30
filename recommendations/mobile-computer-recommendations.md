@@ -1,6 +1,6 @@
 # Mobile computer recommendations
 
-## <mark style="color:red;">Go here:</mark> [**Standalone drawing tablet recommendations**](pen-computer-recommendations.md).
+## <mark style="color:red;">Go here:</mark> [**Standalone drawing tablet recommendations**](standalone-drawing-tablet-recommendations.md).
 
 ##
 
