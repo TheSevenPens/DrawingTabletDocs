@@ -42,15 +42,15 @@ If you are in a creative application that draws strokes,&#x20;
 
 The most common mapping of pen input to stroke is how pressure is handled. Typically, pressure is either:
 
-* ignored - it has no effect on the brush. this is common for very simple brushes
-* brush size - more pressure gives a bigger brush
-* brush opacity - more pressure gives a more opaque brush
+* pressure -> ignored - it has no effect on the brush. this is common for very simple brushes
+* pressure -> brush size - more pressure gives a bigger brush
+* pressure -> brush opacity - more pressure gives a more opaque brush
 
 ## Tilt
 
 Tilt typically is treated like this:
 
-* Ignored
-* brush size - for example a pencil brushes may get wider as the pen is tilted to simulate how a real pencil makes wider marks on paper as it is tilted.
-* brush rotation - enabling the tilt to orient the brush.
+* tilt -> Ignored
+* tilt -> brush size - for example a pencil brushes may get wider as the pen is tilted to simulate how a real pencil makes wider marks on paper as it is tilted.
+* tilt -> brush rotation - enabling the tilt to orient the brush shape
 
