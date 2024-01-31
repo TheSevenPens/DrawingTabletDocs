@@ -19,10 +19,17 @@ If you need to replace a pen, find out the model number that is compatible with 
 
 {% embed url="https://youtu.be/cKBSpIVeZJk" %}
 
-## What causes pen incompatibility
+## What causes pen incompatibility?
 
-* There may be real hardware incompatibilities between a tablet and a pen
-* In some cases the incompatibility is not due to the hardware, but due to the drivers specifically restricting a specific combination and pen and tablet from not working.&#x20;
+### Tech differences
+
+* Different pens use different resonant frequencies for their EMR signal. So pens that don't use the same frequency as the tablets expect will not be compatible
+* Different pens use different techniques for transmitting some kinds of information back to the tablet, and these techniques have to also be supported by the tablet to work.&#x20;
+* This is sometimes why you can for example try using brand X pen with brand UY tablet, and the tablet might be able to sense the position of the pen, but not the button presses, or pressure.&#x20;
+
+### Non-tech causes
+
+**Driver selectively excludes pens** - I know of at least one case with Wacom where the pen and tablet would actually work but the Wacom driver prevents it. The way around this is to use [**opentabletdriver** ](../drivers/opentabletdriver/)which does not have that restriction.&#x20;
 
 ## Resources
 
