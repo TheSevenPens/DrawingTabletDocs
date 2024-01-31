@@ -6,7 +6,7 @@ Using a pen tablet with a widescreen monitor presents some challenges and some n
 
 Normally a pen tablet aspect ratio has an aspect ratio of around 16:10 but monitors often have an aspect ratio of 16:9. By default this distorts shapes drawn on the pen tablet so that they appear stretched slightly in one direction. The solution is to force the tablet's active area aspect ratio to match that of the monitor.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Because the aspect ratios are close (1.6 vs 1.78), we lose a little bit of active area on the tablet, but now the drawing is without distortion.&#x20;
 
@@ -14,7 +14,7 @@ Because the aspect ratios are close (1.6 vs 1.78), we lose a little bit of activ
 
 But in the widescreen case, the aspect ratios are quite different (1.6 vs 2.33). So, if we match the tablet's aspect ratio to the monitor, we lose much more active area.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Options for widescreen monitors
 

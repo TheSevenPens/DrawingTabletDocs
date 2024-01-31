@@ -58,6 +58,7 @@
     * [Mouse mode](guides/core-features/mouse-mode.md)
     * [Choosing the right tablet size](guides/core-features/choosing-the-right-tablet-size.md)
   * [Drawing](guides/drawing/README.md)
+    * [Getting smoother lines](guides/drawing/getting-smoother-lines.md)
     * [How a brush engine uses pen data](guides/drawing/how-a-brush-engine-uses-pen-data.md)
     * [Configure smoothing in applications](guides/drawing/configure-smoothing-in-applications.md)
     * [Enable tilt for brushes](guides/drawing/enable-tilt-for-brushes.md)
