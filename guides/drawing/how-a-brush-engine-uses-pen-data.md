@@ -2,17 +2,7 @@
 
 ## Introduction
 
-Somewhere between 100 to 250 times a second, you tablet is sending data to your computer.
-
-The tablet driver receives that data, may process it in some way, and then sends it to your operating system and applications
-
-Each report of the tablet contains information like this
-
-* The x,y position of the pen
-* The pressure reading. 0 = no pressure or some positive integer if there is pressure
-* Tilt - composed of two valaues. x tilt and y tilt
-
-The report contains other interesting things, but these are the critical ones for drawing strokes&#x20;
+The tablet sends "tablet reports" to the computer at somewhere around 200 reports per second. Each report contains information like pen position, pressure, tilt, button info, etc. More here: [**tablet reports**](../advanced/tablet-reports.md). A brush engine's responsibility is to take that information and use it to draw a stroke in a drawing application.
 
 ## Brush engines
 
@@ -20,9 +10,11 @@ In a creative applications that draws strokes - applications such as clip studio
 
 Among its responsibilities is to take this pen data and combine it to draw a stroke.
 
-Your drawing apps typically feature different brushes: pen, pencil, watercolor, etc.
+## Brush engines vs brushes
 
-A single brush engine could flexible enough to handle these kinds of brushes, but it's probably simpler to think of them as different brush engines - one for each kind of brush.
+Your drawing apps typically feature different brushes: pen, pencil, watercolor, etc. You could think of separate brush engines for each kind of brush. In reality a single brush engine may handle multiple kinds of brushes.
+
+## Applying pen data to the brush
 
 But what all these brush engines have in common is that they transform the pen data in various ways to affect how the brush works.
 

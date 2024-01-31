@@ -116,6 +116,7 @@
       * [Configuring Photoshop to NOT use Windows Ink](guides/windows/windows-ink/configuring-photoshop-to-not-use-windows-ink.md)
       * [Configure Windows Ink in the tablet driver](guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md)
   * [Advanced](guides/advanced/README.md)
+    * [Tablet reports](guides/advanced/tablet-reports.md)
     * [Creating pen-aware applications](guides/advanced/creating-pen-aware-applications.md)
     * [Digital pen technologies](guides/advanced/digital-pen-technologies.md)
     * [EMR technology in drawing tablets](guides/advanced/emr-tab-tech.md)
