@@ -22,3 +22,8 @@ Here is a snippet:
 >
 > Once released the tablet will turn back on, and the memory on the tablet is now reset to default.
 
+## Huion reset steps
+
+Apparently some Huion pen displays have a reset feature. I've never tried it so I don't know how well this works. &#x20;
+
+* [https://support.huion.com/en/support/solutions/articles/44002370321-osd-settings-is-blank-in-the-driver-windows-](https://support.huion.com/en/support/solutions/articles/44002370321-osd-settings-is-blank-in-the-driver-windows-)&#x20;
