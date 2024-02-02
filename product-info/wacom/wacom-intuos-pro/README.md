@@ -19,7 +19,7 @@ The most recent Intuos Pro models are the PTH-x60 series from 2017 & 2019.
 
 ## Wacom Intuos Pro Medium 2017 (PTH-660)
 
-* [**My notes on these tablets**](7p-notes-wacom-intuos-pro-medium-pth-660.md)&#x20;
+* [<mark style="background-color:green;">**My notes on these tablets**</mark>](7p-notes-wacom-intuos-pro-medium-pth-660.md)&#x20;
 * Model year: 2017
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/PTH-660.html](https://101.wacom.com/UserHelp/en/TOC/PTH-660.html)
 * [Brad Colbow review of Wacom Intuos Pro Medium](https://youtu.be/bbOGvAW3o-M)&#x20;
@@ -28,7 +28,7 @@ The most recent Intuos Pro models are the PTH-x60 series from 2017 & 2019.
 
 ## Wacom Intuos Pro Large 2017 (PTH-860)
 
-* [**My notes on this tablet**](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2035/7p-notes/wacom/7p-notes-wacom-intuos-pro-large-pth-860)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2035/7p-notes/wacom/7p-notes-wacom-intuos-pro-large-pth-860)
 * Model Year: 2017
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)&#x20;
 

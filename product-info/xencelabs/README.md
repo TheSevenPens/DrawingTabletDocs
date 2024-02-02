@@ -4,7 +4,7 @@
 
 
 
-* **My notes:** [**7P notes: Xencelabs Pen Display 24**](7p-notes-xencelabs-pen-display-24.md)  &#x20;
+* <mark style="background-color:green;">**My notes:**</mark> [<mark style="background-color:green;">**7P notes: Xencelabs Pen Display 24**</mark>](7p-notes-xencelabs-pen-display-24.md)  &#x20;
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)
 * [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) Jun 4 2023
 * [Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0\_XSUtLE) Sep 14, 2023
@@ -14,7 +14,7 @@
 
 ## Xencelabs Pen Tablet Medium (BPH1212W-A)
 
-* **My notes:** [**7P notes: Xencelabs Medium**](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2049/product-info/xencelabs/7p-notes-xencelabs-medium)
+* <mark style="background-color:green;">**My notes:**</mark> [<mark style="background-color:green;">**7P notes: Xencelabs Medium**</mark>](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2049/product-info/xencelabs/7p-notes-xencelabs-medium)
 * Product page: [https://www.xencelabs.com/us/products/explore-pen-tablet-medium](https://www.xencelabs.com/us/products/explore-pen-tablet-medium)
 * [Teoh on Tech - Xencelabs Pen Tablet Medium: Premium Entry From a New Company](https://www.youtube.com/watch?v=Vrwifey6168) Apr 8, 2021&#x20;
 * [Brad Colbow review of Xencelabs Pen Tablet](https://www.youtube.com/watch?v=d3vIa8cBzwI) Apr 30, 2021&#x20;

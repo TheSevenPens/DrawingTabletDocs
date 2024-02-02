@@ -7,7 +7,7 @@
 
 ## Huion Kamvas 13 (GS1331)
 
-* [**My notes on this tablet**](7p-notes-huion-kamvas-13-gs1331.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-kamvas-13-gs1331.md)
 * User manual: [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)&#x20;
 * [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) May 1, 2020
 * [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q\_nhFQ) Mar 26, 2020
@@ -24,7 +24,7 @@
 
 ## Huion Kamvas 22 Plus (GS2202)
 
-* [**My notes on this tablet**](7p-notes-huion-kamvas-22-plus.md)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-kamvas-22-plus.md)&#x20;
 * Model Year: 2020
 * [Brad Colbow review of Huion Kamvas 22 Plus](https://youtu.be/GJxGzJgfYGA) Sep 8, 2020
 * [Nemanja Sekulic review of Huion Kamvas 22 Plus](https://youtu.be/mlYTRD2KmeY) Mar 4, 2022
