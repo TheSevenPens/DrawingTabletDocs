@@ -2,9 +2,27 @@
 
 ## Overview
 
-The "tablet not connected/detected" problem is fundamentally that your computer cannot "see" the device even though it is plugged in via USB cable.
+The "tablet not connected/detected" problem is fundamentally that your driver cannot "see" , "find", or "communicate" with the drawing tablet even though it is plugged in via USB cable. The driver will often claim that the tablet "is not connected" or "is not detected".
 
-**IMPORTANT**: If you have a pen display and see a "NO SIGNAL" message, that is a different kind oof problem. Go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).&#x20;
+## Driver versus operating system
+
+What makes this confusing is that sometimes your computer's operating system have differing views of this topic.
+
+For example, your operating system may "beep" when you plug the tablet in. And even may list it as a device, even though the driver insists nothing is connected"
+
+## What is (not) being being detected
+
+Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen.&#x20;
+
+When a driver is saying your tablet is not connected, it is talking about this digitizer
+
+The digitizer is the primary component of a pen tablet (screenless tablet) though some pen tablets have other components. You may for example see your tablet detected as a keyboard because it has some keyboard like buttons.
+
+For a pen display (screen tablet) there is of course another component - the screen. Your computer detects the screen completely separately from the tablet digitizer.
+
+## NO SIGNAL
+
+Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitzer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).&#x20;
 
 ## Basic troubleshooting&#x20;
 
@@ -60,6 +78,10 @@ Uncheck **Power Management > Allow the computer to turn off this device to save 
 
 * **Wacom**: What does the error message “A supported tablet is not found on the system” or "No Wacom device connected to your computer" mean and how do I fix it? ([link](https://support.wacom.com/hc/en-us/articles/1500006339862))
 * **Huion**: What To Do When Huion Driver Shows Device Disconnected?  ([link](https://support.huion.com/en/support/solutions/articles/44001163422-what-to-do-when-huion-driver-shows-device-disconnected-))
+
+## Time
+
+Sometimes just waiting out the problem is all you can do. Some people report that they leave their tablet disconnected from their computer for a few days, and then afterwards it just starts working again.
 
 ## Still not solved?
 
