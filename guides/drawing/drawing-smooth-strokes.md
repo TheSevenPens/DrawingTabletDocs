@@ -1,4 +1,4 @@
-# Getting smoother lines
+# Drawing smooth strokes
 
 ## Overview
 
@@ -6,10 +6,12 @@ When you draw a stroke with a drawing tablet, your stroke will not be perfectly 
 
 ## Causes
 
-* All tablets have a degree of [diagonal wobble](../core-features/diagonal-wobble.md) that can appear in your stroke.&#x20;
-* Tablet sometimes exhibit a little bit of noise in their stroke - it's similar to wobble in that it deviates from a smooth line, but it does so in a more random way.
-* Your hand and arm and way of moving them over the tablet can cause imperfections in your stroke.
-* Drawing slower is more prone to introducing errors into your strokes.
+* Tablet hardware and driver
+  * All tablets have a degree of [diagonal wobble](../core-features/diagonal-wobble.md) that can appear in your stroke.&#x20;
+  * Tablet sometimes exhibit a little bit of noise in their stroke - it's similar to wobble in that it deviates from a smooth line, but it does so in a more random way.
+* You and how you draw
+  * Your hand and arm and way of moving them over the tablet can cause imperfections in your stroke.
+  * Drawing slower is more prone to introducing errors into your strokes.
 
 ## Option: Drawing style
 
@@ -62,4 +64,9 @@ Applications like Krita also support vector tools. If you are having problems wi
 
 
 
-&#x20;
+## &#x20;
+
+
+
+
+
