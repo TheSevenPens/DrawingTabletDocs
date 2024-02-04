@@ -1,13 +1,13 @@
 # XP-Pen Artist
 
-## XP-Pen Artist 12
+## XP-Pen Artist 12 GEN1
 
 * [https://www.xp-pen.com/store/buy/artist-12.html](https://www.xp-pen.com/store/buy/artist-12.html) &#x20;
 * [Trent Kaniuga - XP-Pen Artist 12 pen tablet review (Draw on the screen $250)](https://www.youtube.com/watch?v=ELta6WVVtNY) 2019/1/10
 * [Brad Colbow - Review: XP Pen Artist 12 Drawing Tablet](https://www.youtube.com/watch?v=cQkSqfHtCCg) 2018/10/8
 * [Nadiaxel - XP-PEN Artist 12 // A CHEAPER display tablet【 Unboxing and Testing 】](https://www.youtube.com/watch?v=0Kxj8YMB7e0) 2018/10/4
 
-## XP-Pen Artist 5.6
+## XP-Pen Artist 15.6
 
 * [https://www.xp-pen.com/store/buy/artist-15-6.html](https://www.xp-pen.com/store/buy/artist-15-6.html) &#x20;
 * [Brad Colbow - XP-Pen Artist 15.6 Review (8192 levels of pressure version)](https://www.youtube.com/watch?v=oJiV4oQJlbA) 2018/1/22
