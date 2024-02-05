@@ -6,7 +6,7 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 ## Key requirements
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **DP alt mode support**
 

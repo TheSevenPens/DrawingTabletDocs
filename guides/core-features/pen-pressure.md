@@ -1,45 +1,22 @@
 # Pen pressure
 
-## Pressure
+## Overview
 
-Pressure is the physical force being exerted on its tip. Remember that it is the pen that measure the pressure, not the tablet surface.&#x20;
+**Pressure** is the physical force being exerted on its tip. Remember that it is the pen that measure the pressure, not the tablet surface.&#x20;
 
-## Pressure range
+The **Initial Activation Force** (IAF) is the smallest amount of pressure that an EMR pen will detect and report. The **maximum pressure** the maximum amount of pressure that an EMR pen can detect and report. The **pressure range** is the range of physical force the pen is capable of sensing and outputting as pressure. In other words its lower bound is the IAF and its upper bound is the maximum pressure.
 
-* The **pressure range** is the range of physical force the pen is capable of sensing and outputting as pressure
-* A wide pressure range is desirable. It contributes a lot to a good pressure experience.&#x20;
-* A low minimum pressure can be just as important as a high maximum pressure.
-* Pen experts I've talked to say that
-  * A larger pressure range is even more important than the number of pressure levels&#x20;
-  * Wacom historically is known for a wide pressure range with their pens.
+* A wide pressure range is very desirable. It contributes a lot to a good pressure experience. A wider pressure range is even more important than the number of pressure levels.
+* A lower IAF is good because it allows you to draw finer details better. &#x20;
+* To see all the data I have collected about pressure ranges consult this tablet: [**Pen pressure range comparison**](pen-pressure-range-comparison.md)
 
-## Pressure ranges compared
+## Rating scale for IAF and max pressure
 
-* Wacom's is known for low IAF for their pro line of pens. For example, the Wacom Pro Pen 2 seems to have an IAF of less than 1gf
-* In my experience, I feel that the Huion pens I have tried (PW517) have a slightly lower IAF than the XP-Pens I have used (X3 Elite, X3 Pro Smart Chip). But that might just be due to normal variations in pens.
+Based on my analysis of pen pressure ranges, I have developed this simple rating scale for IAF and max pressure. This represents my initial thinking and I expect to revise this in the future based on feedback.
 
-<table><thead><tr><th width="254.33333333333331">Pen</th><th width="135">minpressure</th><th>max pressure</th><th>Source</th></tr></thead><tbody><tr><td><p>Wacom Pro Pen 2</p><p>(KP-504E)</p></td><td>&#x3C;1gf</td><td>794gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Pro Pen Slim</p><p>(KP-301E)</p></td><td>&#x3C;1gf</td><td>751gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Grip Pen</p><p>(KP-501E)</p></td><td>&#x3C;1gf</td><td>275-510gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Pro Pen</p><p>(KP-503E)</p></td><td>&#x3C;1gf</td><td>299gf [1]</td><td>[1]</td></tr><tr><td><p>Wacom Pen 4K</p><p>(LP-1100K)</p></td><td>&#x3C;1gf</td><td>226gf</td><td>[1]</td></tr><tr><td><p>Wacom Pen 2K</p><p>(LP-190K)</p></td><td>&#x3C;1gf</td><td>320gf</td><td><p>[1] </p><p>As comparison ] my readings for three different pens: 300gf, 310gf, 320gf</p></td></tr><tr><td><p>Wacom One Pen GEN1</p><p>(CP-913)</p></td><td>5gf</td><td>358gf</td><td>[1]</td></tr><tr><td><p>Wacom One Pen GEN2</p><p>(CP-923)</p></td><td>8gf</td><td>291gf</td><td>[1]</td></tr><tr><td><p>Xencelabs Pen</p><p>(for pen display 24)</p></td><td>3gf </td><td>500gf</td><td>[2]</td></tr><tr><td>Huion PW517</td><td>unknown;<br>expected to be near 3gf</td><td>150gf to 220gf</td><td>[3] max pressure: my readings on 4 different pens were 150gf, 150gf, 220gf, 380gf. I don't know if I trust the 380gf number.</td></tr><tr><td>XP-Pen X3 Pro Pen</td><td>unknown;<br>expected to be near 3gf</td><td>380gf </td><td>[3] for max pressure</td></tr><tr><td>XP-Pen X3 Elite </td><td>unknown</td><td>400gf</td><td>[3] for max pressure</td></tr><tr><td>XP-Pen X3 Elite Plus</td><td>unknown;<br>expected to be near 3gf</td><td>?</td><td></td></tr><tr><td>Huion PW600 and PW600S</td><td>expected to be 2gf</td><td>510gf</td><td>[3] for max pressure</td></tr><tr><td>Apple Pencil 2</td><td>unknown</td><td>500gf</td><td><p>[3] for max pressure </p><p>my readings for 4 different apple pencil 2s' max pressure : 490gf, 500gf 510gf,515gf,</p></td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-\[1] measurements done by Kuuube
-
-\[2] The numbers are stated at 3:13 in this video: [https://www.youtube.com/watch?v=qAWOfUR29gw](https://www.youtube.com/watch?v=qAWOfUR29gw)&#x20;
-
-\[3] measurements done by TheSevenPens
-
-##
-
-## Initial Activation Force
-
-The **Initial Activation Force** is the minimum amount of pressure required for the pen to report that there is any pressure. In other words, it is another name for the lower bound of the pressure range
-
-A lower Initial activation force is considered good because it allows you to draw finer details better.&#x20;
-
-Low is subjective but here are some guidelines
-
-* An EXCELLENT IAF would be < 1gf&#x20;
-* An GOOD IAF would be 3 gf&#x20;
-
-## Min pressure (IAF) importance
+## The importance of low IAF
 
 Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
@@ -48,8 +25,6 @@ Others like (myself included) work fine with a 3gf IAF. I definitely notice the 
 ## Pressure levels
 
 These days tablet brands say that they can handle 8K (8192) levels of pressure. Some tablets even claim to support 16K pressure levels.
-
-
 
 ## Pressure level hype
 
