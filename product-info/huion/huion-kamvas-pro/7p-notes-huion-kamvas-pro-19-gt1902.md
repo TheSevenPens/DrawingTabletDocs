@@ -103,6 +103,8 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
 
+**Pen tilt compensation** - tilt compensation is very good. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles.
+
 ## Other topics
 
 **Sound** - there's a headphone jack for audio. Some of you may find this convenient.
