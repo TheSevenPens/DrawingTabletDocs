@@ -42,17 +42,7 @@ The 2 cable setup is how I use my Wacom Cintiq Pro 27.&#x20;
 
 ### Option D: 3-in-one cable
 
-This is a special kind of cable.&#x20;
-
-* One end will have a single USB-C connection
-* The other end it will have the different connections. Typically these will be:
-  * A power connector for the display. This could be USB-C or USB-A or something else. Usually they are clearly marked as "power only"
-  * A USB A to handle the pen tablet data input/output &#x20;
-  * A HDMI cable
-
-These 3-in-1 cable are proprietary cables. And if you need to replace it, you'll need to buy it from the manufacturer. You cannot swap for example a Huion 3-in-1 cable with an XP-pen 3-in-1 cable. Sometimes even within a specific manufacturer, you cannot swap 3-in-1 cables between different models.
-
-More here: [**3-in-1 cables**](../../accessories/cables/3-in-1-cables-for-drawing-tablets.md)
+This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](../../accessories/cables/3-in-1-cables-for-drawing-tablets.md)
 
 ## Connecting via HDMI
 
