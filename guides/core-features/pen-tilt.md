@@ -64,6 +64,10 @@ Now keep left the top of the pen "fall" a bit. The shadow looks quite different.
 
 
 
+## Tilt compensation
+
+
+
 ## Disabling tilt
 
 Pen tilt information is always sent from the tablet to the tablet driver and from there to the operating system and then to pen-aware applications.
