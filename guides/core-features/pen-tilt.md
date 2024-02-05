@@ -66,6 +66,13 @@ Now keep left the top of the pen "fall" a bit. The shadow looks quite different.
 
 ## Tilt compensation
 
+To calculate the location of the pen, the tablet must take into account how much the pen is tilted. This process is called **tilt compensation**.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* no tablet has perfect tilt compensation
+* At extreme title angles you might see some deviation. This is normal.
+
 
 
 ## Disabling tilt

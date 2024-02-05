@@ -12,7 +12,7 @@ Here's an example of Windows 11 detecting showing the Huion Kamvas Pro 24 (GT240
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
