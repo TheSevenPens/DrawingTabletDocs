@@ -53,7 +53,6 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 ## Change log
 
-* 2022/02/05 - Removed listing for Huion Kamvas Pro 16 Plus 4K (GT1562)
 * 2022/02/05 - Added recommendation for Kamvas Pro 27&#x20;
 * 2022/02/05 - Added recommendation tag to Kamvas Pro 19&#x20;
 * 2024/02/04 - Added XP-Pen Artist 22 Plus to recommendations
