@@ -40,6 +40,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 ## $1500 - $2000
 
 * LARGE [**Xencelabs Pen Display 24**](../product-info/xencelabs/) (LPH2412U-A) $1800  <mark style="color:red;">**UNDER EVALUATION**</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xencelabs/7p-notes-xencelabs-pen-display-24.md))
+* LARGE[ **Huion Kamvas Pro 27 (GT2701)**](../product-info/huion/huion-kamvas-pro/) $2000&#x20;
 
 ## $2000 - $3000
 
@@ -52,6 +53,9 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 ## Change log
 
+* 2022/02/05 - Removed listing for Huion Kamvas Pro 16 Plus 4K (GT1562)
+* 2022/02/05 - Added recommendation for Kamvas Pro 27&#x20;
+* 2022/02/05 - Added recommendation tag to Kamvas Pro 19&#x20;
 * 2024/02/04 - Added XP-Pen Artist 22 Plus to recommendations
 * 2023/02/04 - Added XP-Pen Artist 13 to recommendations
 * 2023/02/04 - Marked Huion Kamvas Pro 16 4K Plus as NOT RECOMMENDED due to AG sparkle and better options being available.&#x20;
