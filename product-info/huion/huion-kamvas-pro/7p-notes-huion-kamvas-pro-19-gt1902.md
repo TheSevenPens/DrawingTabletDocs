@@ -2,9 +2,9 @@
 
 Please keep in mind these are my initial reactions on my first day of using the tablet.
 
-## Recommendation
+## Summary
 
-NO STATEMENT YET.  I am still actively evaluating this tablet. Overall experience so far is positive.
+I do recommend this tablet. The drawing experience is the best Huion's ever had. Is it as good as a Cintiq Pro? No. But it is very good.
 
 ## Basics
 
@@ -55,7 +55,11 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * **Touch on Windows** - Still under evaluation.
   * By default, touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
   * You can map touch back to the tablet when it is not the main monitor. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter). When I first tried this, it fixed the touch problem, but it had an odd interaction with the pen - when I used the pen on the tablet, the pointer always stayed near the top border. After I uninstalled the driver, restarted the computer, and reinstalled the driver, the problem went away and the pen worked normally.
-* **Palm rejection**: OK-ish. Very TYPICAL for Touch on pen displays. Touch support is not comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm. I would say it's very on par with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.
+* **Palm rejection**: OK. Very TYPICAL for Touch on pen displays.&#x20;
+  * Touch support is not comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm.&#x20;
+  * I would say it's very on par with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.&#x20;
+  * Brad Colbow in his review of the Kamvas Pro 27 noticed that the palm rejection didn't seem to result in accidental drawing, but rather accidental clicks. I had the same experience.
+  * Note: I used the tablet without using any drawing glove. In theory a drawing glove would help with the palm-rejection.&#x20;
 
 ## **Ergonomics**
 
