@@ -20,7 +20,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**ArtRage**](./#artrage) (Windows, macOS, iOS, Android)
 * **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
 * [**Clip Studio Paint**](clip-studio-paint.md) (Windows, MacOS, Android, iOS)
-* [**Concepts**](./#concepts) (Windows, Android, iOS)
+* [**Concepts**](concepts-app.md) (Windows, Android, iOS)
 * **Adobe** [**Fresco**](fresco.md) (Windows, iOS, MacOS)
 * [**Firealpaca**](fireaplaca.md) (Windows, MacOS)
 * [**HiPaint**](hipaint.md) (Android, iOS)
