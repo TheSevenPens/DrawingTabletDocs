@@ -175,7 +175,7 @@
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)
   * [Reset a drawing tablet](troubleshooting/reset-wacom-intuos-pro-tablets.md)
-  * [Troubleshoot pointer stuck in upper-left corner](troubleshooting/troubleshoot-pointer-stuck-in-upper-left-corner.md)
+  * [Troubleshoot pointer stuck in corner of screen](troubleshooting/troubleshoot-pointer-stuck-in-upper-left-corner.md)
   * [Common drawing troubleshooting steps](troubleshooting/common-drawing-troubleshooting-steps.md)
   * [Troubleshoot drawing problems](troubleshooting/troubleshoot-drawing-problems.md)
   * [Troubleshoot the NO SIGNAL problem](troubleshooting/troubleshoot-no-signal.md)
