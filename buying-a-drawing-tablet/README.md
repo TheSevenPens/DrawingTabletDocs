@@ -175,7 +175,7 @@ Pen tablets do not have legs. If you want to place them at an angle, you will ne
 
 ### Right-handed vs left-handed use
 
-All drawing tablets work for people who are right-handed or left-handed. For those tablets with buttons or ports on one side, you may you find it more convenient to rotate the tablet around so that the buttons or ports are one the opposite side. This rotation. This is supported by most tablets. See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md).
+All drawing tablets work for people who are right-handed or left-handed. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet to be used correctly in a left-handed way. See [**handedness of drawing tablets**](../guides/ergonomics/handedness-of-drawing-tablets.md).&#x20;
 
 ### Noise
 

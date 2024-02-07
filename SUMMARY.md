@@ -127,6 +127,7 @@
     * [Taking notes with drawing tablets](guides/use-cases/taking-notes-with-drawing-tablets.md)
     * [Using a drawing tablet instead of a mouse](guides/use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
   * [Ergonomics](guides/ergonomics/README.md)
+    * [Handedness of drawing tablets](guides/ergonomics/handedness-of-drawing-tablets.md)
     * [Rotating a drawing tablet](guides/ergonomics/rotating-a-drawing-tablet.md)
     * [Using a drawing tablet on your lap](guides/ergonomics/using-a-drawing-tablet-on-your-lap.md)
     * [Noise](guides/ergonomics/noise.md)
