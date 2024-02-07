@@ -2,7 +2,7 @@
 
 ## Overview
 
-When working with pen displays you'll encounter lots of different connector types. This is a visual map of those connectors.
+When working with pen displays tablets you'll encounter lots of different connector types. This is a visual map of those connectors.
 
 ## Terminology
 
@@ -11,25 +11,29 @@ When working with pen displays you'll encounter lots of different connector type
 
 ## HDMI connectors
 
-![](<../../.gitbook/assets/image (1).jpg>)
-
 Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HDMI)
 
-## DisplayPort
+![](<../../.gitbook/assets/image (1).jpg>)
 
-### DisplayPort connectors
+## DisplayPort connectors
+
+
+
+Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/wiki/DisplayPort)
+
+Normal-sized DisplayPort connectors
 
 ![](../../.gitbook/assets/DisplayPort\_connectors.jpg)
 
-Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/wiki/DisplayPort)
-
-### Mini DisplayPort connectors
+Mini-DisplayPort connectors
 
 ![](../../.gitbook/assets/minidisplayport\_connectors.webp)
 
-Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/wiki/DisplayPort)
+## USB-C connectors
 
-## USB-C
+![](<../../.gitbook/assets/usb-c connectors.jpg>)
+
+Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
 The important thing to remember about USB-C is that it is a popular connector type, but it often not clear what a given cable or port support. For example:
 
@@ -39,21 +43,7 @@ The important thing to remember about USB-C is that it is a popular connector ty
 * Some ports may not deliver as much power as you need
 * Some cables may not support as much power as you need
 
-### USB-C connectors
-
-![](<../../.gitbook/assets/usb-c connectors.jpg>)
-
-Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
-
-## USB-A connectors
-
-USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
-
-![](../../.gitbook/assets/usba\_connectors.jpg)
-
-## Thunderbolt
-
-### Thunderbolt 3 and 4 connectors
+## Thunderbolt 3 and 4 connectors
 
 Thunderbolt 3 and 4 use the same USB-C port shape.&#x20;
 
@@ -63,11 +53,17 @@ Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.w
 
 ![](../../.gitbook/assets/thunderbolt34.jpg)
 
-### Thunderbolt 2 connectors
+## Thunderbolt 2 connectors
 
 Thunderbolt 2 connectors use the min-DisplayPort connector type. And again by definition they can carry a display signal.
 
 ![](../../.gitbook/assets/thunderbolt2.jpg)
+
+## USB-A connectors
+
+USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
+
+![](../../.gitbook/assets/usba\_connectors.jpg)
 
 ## Other resources
 
