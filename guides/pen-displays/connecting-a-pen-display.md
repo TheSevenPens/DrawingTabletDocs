@@ -1,10 +1,8 @@
 # Connecting a pen display to a computer
 
-## Background
+## Inputs & outputs
 
 Remember that essentially a pen display is a plastic box that contains two separate devices: (1) a pen tablet and (2) a display.
-
-## Inputs & outputs
 
 We need to account for 4 things to use a pen display.
 
@@ -113,4 +111,11 @@ When you've connected your display you might see it show a message saying NO SIG
 
 ## What about connecting a pen display mobile devices?
 
-Go here: [**Connecting a pen display to a mobile device**](connecting-a-pen-display-to-a-mobile-device.md)
+Go here: [**Connecting a pen display to a mobile device**](connecting-a-pen-display-to-a-mobile-device.md)&#x20;
+
+## What about wireless connectivity?
+
+No pen displays connect wirelessly. They all require at least one cable to connect to your computer.&#x20;
+
+
+
