@@ -6,20 +6,11 @@ Only a very small number of drawing tablets are touch sensitive.&#x20;
 
 ## **Tablets that support touch**
 
-Here is a **partial** list:
+Here is list all the tablets I know of that support touch.&#x20;
 
-* Wacom Cintiq Pro 16 (DTK-167)
-* Wacom Cintiq Pro 17 (DTH-172)
-* Wacom Cintiq Pro 22 (DTH-227)
-* Wacom Cintiq Pro 27 (DTK-271)
-* Wacom Intuos Pro Small (PTH-460)
-* Wacom Intuos Pro Medium (PTH-660)
-* Wacom Intuos Pro Large (PTH-860)
-* Wacom Intuos Pro Large (PTH-451)
-* Wacom Intuos Pro Large (PTH-651)
-* Wacom Intuos Pro Large (PTH-851)
-* Wacom One 13 touch GEN2 (DTH-134)
-* XP-Pen Artist Pro 16TP (MD160U)
+| Pen tablet                                                                                                                                                                                                                                  | Pen display                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Wacom Intuos Pro Small (PTH-460)</p><p>Wacom Intuos Pro Medium (PTH-660)</p><p>Wacom Intuos Pro Large (PTH-860)</p><p>Wacom Intuos Pro Large (PTH-451)</p><p>Wacom Intuos Pro Large (PTH-651)</p><p>Wacom Intuos Pro Large (PTH-851)</p> | <p>Wacom Cintiq Pro 16 (DTK-167)</p><p>Wacom Cintiq Pro 17 (DTH-172)</p><p>Wacom Cintiq Pro 22 (DTH-227)</p><p>Wacom Cintiq Pro 27 (DTK-271)</p><p>Wacom One 13 touch GEN2 (DTH-134)<br>XP-Pen Artist Pro 16TP (MD160U)<br>Huion Kamvas Pro 19 (GT1902)<br>Huion Kamvas Pro 27 (GT2701)</p> |
 
 ## **Quality of touch support**
 
@@ -30,6 +21,8 @@ In my opinion, no drawing tablet offers a great touch experience. Some are truly
 If you do have a tablet that supports touch, it will work MUCH better on Windows. Windows has had deep touch support for a very long time.
 
 MacOS does not have as good support for touch.
+
+Note that some tablets only have touch support on Windows but have no touch support on MacOS at all.
 
 ## **Compared to the iPad**
 
