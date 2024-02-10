@@ -11,11 +11,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 * **Wacom One GEN2** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
 * **Intuos Pro** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/7P SLIDE current wacom tablets.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
 
 ## Wacom One GEN2 pen tablets
 
