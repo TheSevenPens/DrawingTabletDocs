@@ -19,7 +19,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 ## Wacom One GEN2 pen tablets
 
-The Wacom One GEN2 pen are intended to be upgrades to the consumer-level Intuos tablets. Currently Wacom One GEN2 tablets seem to suffer from pressure issues and I do not recommend purchasing them. More here: [7P notes: Wacom One GEN2](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
+The Wacom One GEN2 pen are intended to be upgrades to the consumer-level Intuos tablets. Currently Wacom One GEN2 tablets seem to suffer from pressure issues and I do not recommend purchasing them. More here: [7P notes: Wacom One GEN2](wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
 
 ## Recommendation summary
 
@@ -70,11 +70,17 @@ Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) 
 
 More than pressure levels, the **pressure range** has a greater impact on your drawing experience. And this is driven by the quality of the pressure sensor in the pen. &#x20;
 
-**Pens compared**&#x20;
+**Pens pressure range compared**&#x20;
 
-Min pressure and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
+<table><thead><tr><th width="233">Pen</th><th width="144">levels</th><th width="176">IAF</th><th>max pressure</th><th>source</th></tr></thead><tbody><tr><td><p>Wacom Pen 2K</p><p>(LP-190K)</p></td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td><td>[1]</td></tr><tr><td><p>Wacom One PenGEN2</p><p>(CP-923) </p></td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td><td>[1]</td></tr><tr><td><p>Wacom Pen 4K</p><p>(LP-1100K)</p></td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td><td>[1]</td></tr><tr><td><p>Wacom Pro Pen 2</p><p>(KP-504E) </p></td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td><td>[1]</td></tr></tbody></table>
 
-<table><thead><tr><th>Pen</th><th width="144">levels</th><th width="176">min pressure (IAF)</th><th>max pressure</th></tr></thead><tbody><tr><td>Wacom Pen 2K (LP-190K)</td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td></tr><tr><td>Wacom One Pen GEN2 (CP-923) </td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td></tr><tr><td>Wacom Pen 4K (LP-1100K)</td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E) </td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td></tr></tbody></table>
+Notes:
+
+* \[1] Min pressure and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
+* Learn more about [**pen pressure**](../../guides/core-features/pen-pressure.md)&#x20;
+* Learn more about how [**pen pressure ranges compare across pens**](../../guides/core-features/pen-pressure-range-comparison.md)  &#x20;
+
+
 
 ## Pen Tilt
 
@@ -119,7 +125,7 @@ The Intuos Pro models exhibit less wobble than the Intuos of One by Wacom. But a
 
 ## Position smoothing
 
-Position smoothing can cause extra pointer lag.&#x20;
+Position smoothing in hardware can cause extra pointer lag.&#x20;
 
 * One by Wacom -> no hardware smoothing
 * Wacom One GEN2 -> unknown
