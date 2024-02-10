@@ -89,6 +89,8 @@
     * [Pen buttons](guides/pens/pen-buttons.md)
     * [Pen compatibility with drawing tablets](guides/pens/pen-compatibility-with-drawing-tablets.md)
     * [Using metal nibs](guides/pens/using-metal-nibs.md)
+    * [Pen weight](guides/pens/pen-weight.md)
+    * [Pen weight comparison](guides/pens/pen-weight-comparison.md)
     * [Connecting a pen to a drawing tablet](guides/pens/connecting-a-pen-to-a-drawing-tablet.md)
     * [Pen teardown: Huion PEN80](guides/pens/pen-teardown-huion-pen80.md)
   * [Drivers](guides/drivers/README.md)
