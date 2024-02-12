@@ -64,16 +64,9 @@ This is why you MUST choose a brand that:
 
 I segment the brands into tiers, to make it easier to steer people to help set expectations and guide recommendations.
 
-**Tier 1** is currently just one brand, Wacom. Most of their products are excellent with some exceptions. Best drawing experience. I consider them a safe choice.&#x20;
+**Tier 1** is currently just one brand, Wacom. Most of their products are excellent with some exceptions. Best drawing experience. I consider them a safe choice. More here:  [**my notes on wacom**](7p-notes-wacom.md)
 
-* Wacom - [https://www.wacom.com/](https://www.wacom.com/) ([**my notes on wacom**](7p-notes-wacom.md))
-
-**Tier 2** trails Wacom in tech. Customer support is also trailing but improving. Community is large so you can find help from others. Large porfolio of tablets - too large actually. Research your choice and you should find something that works well for you. Drawing experience good, typically you may find you need to perform more customization (pressure curves, etc.) to get the drawing experience that works for you. &#x20;
-
-[**My notes on Huion and Xencelabs**](7p-notes-huion-and-xp-pen.md)&#x20;
-
-* Huion - [https://huion.com/](https://huion.com/)&#x20;
-* XP-Pen - [https://www.xp-pen.com/](https://www.xp-pen.com/)&#x20;
+**Tier 2** trails Wacom in tech. Customer support is also trailing but improving. Community is large so you can find help from others. Large porfolio of tablets - too large actually. Research your choice and you should find something that works well for you. Drawing experience good, typically you may find you need to perform more customization (pressure curves, etc.) to get the drawing experience that works for you.  More here: [**My notes on Tier 2 drawing tablet brands**](7p-notes-tier-2-drawing-tablet-brands.md) &#x20;
 
 **Tier 3** - All these brands the same technology as the Tier 2 brands. In fact they are even owned by the same companies. But have smaller portfolios, less responsive customer support, and smaller communities.&#x20;
 

@@ -1,4 +1,4 @@
-# 7P notes: Huion and XP-Pen
+# 7P notes: Tier 2 drawing tablet brands
 
 ## Overview
 
@@ -26,9 +26,3 @@ Like Wacom they both have a wide variety of products available.
 * They should monitor and answer questions on [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/) and [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
 * Long-term reliability unknown compared to Wacom. This can't be helped, they have only been around since 2011 (Huion) and 2005 (XP-Pen). And their true EMR tablets (the ones where the pens do not have a battery) have only been around since the late 2010s.
 
-## Survey of Huion users (2023)
-
-In early 2023, reddit user Sunny-Throwaway (account now deleted) ran a survey on the Huion subreddit. There were 20 respondents and that is not a large sample size but it is interesting to look through.
-
-* r/huion - [\[UPDATE\] Huion Tablet Survey - College Project](https://www.reddit.com/r/huion/comments/11vbg9d/update\_huion\_tablet\_survey\_college\_project/) 3/19/2023
-* Direct link to the results: [https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics](https://docs.google.com/forms/d/1wWcAHNYmea94cAF-rjdNrQWVg28pXJrIHqp1Del4jSY/viewanalytics)&#x20;
