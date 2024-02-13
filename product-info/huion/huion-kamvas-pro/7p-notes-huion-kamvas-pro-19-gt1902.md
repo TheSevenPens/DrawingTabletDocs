@@ -4,19 +4,15 @@ Please keep in mind these are my initial reactions on my first day of using the 
 
 ## Summary
 
-I do recommend this tablet. The drawing experience is the best Huion's ever had. Is it as good as a Cintiq Pro? No. But it is very good.
+I do recommend this tablet. The drawing experience is the best Huion's ever had.&#x20;
+
+Is it as good as a Cintiq Pro? No. But it is VERY GOOD.
 
 ## Basics
 
 * **Corner/Edge accuracy** - NORMAL. This is only visible in the last 2mm and did not affect my normal usage of the tablet. It was so minor, I didn't even bother performing any calibration to address it.
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
-
-## Diagonal wobble
-
-GOOD. LOW amounts of wobble in stroke.
-
-<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Display**
 
@@ -27,6 +23,8 @@ GOOD. LOW amounts of wobble in stroke.
 **Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) has a slightly soft experience, this Huion has a little more softness than that.
 
 **Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%.
+
+**Parallax** - VERY GOOD. Ithas very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my obvservatin.
 
 ## Compatibility
 
@@ -71,7 +69,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Noise** - EXCELLENT. No noise because no fans
 
-**Heat** - EXCELLENT. After running at 100% brightness for 4 days: room temperature on the left side. Just very slightly warmer on the right.&#x20;
+**Heat** - EXCELLENT. After running at 100% brightness for 10 days: room temperature on the left side. Just very slightly warmer on the right.&#x20;
 
 **Stand** - It does not come with a stand. Instead, I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
 
@@ -107,7 +105,13 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
 
-**Pen tilt compensation** - tilt compensation is very good. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles.
+**Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles.
+
+## Diagonal wobble
+
+GOOD. LOW amounts of wobble in stroke.
+
+<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Other topics
 
