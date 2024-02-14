@@ -26,8 +26,8 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**HiPaint**](hipaint.md) (Android, iOS)
 * [**Ibis Paint**](ibis-paint.md) (Windows, iOS, Android)
 * [**Infinite Painter**](./#infinite-painter) (Android, iOS)
-* [**Kleki**](kleki.md) (web)
-* [**Krita**](krita.md)  (Windows, Linux, MacOS)
+* [**Kleki**](kleki.md) (web) <mark style="background-color:purple;">**FREE**</mark>
+* [**Krita**](krita.md)  (Windows, Linux, MacOS) <mark style="background-color:purple;">**FREE**</mark>
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
 * [**Medibang**](medibang.md) (Windows, MacOS)
@@ -43,13 +43,13 @@ If you are interested in the apps I use and personally recommend: [**recommended
 
 * **Affinity Designer** (Windows, MacOS)
 * **Adobe Illustrator** (Windows, MacOS)
-* [**Inkscape**](inkscape.md) (Windows, MacOS, Linux)
+* [**Inkscape**](inkscape.md) (Windows, MacOS, Linux) <mark style="background-color:purple;">**FREE**</mark>
 * **VectorInk** (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
 
 ### 3D&#x20;
 
 * **Autodesk Maya**&#x20;
-* [**Blender**](blender.md) (Linux, MacOS, Windows, BSD)
+* [**Blender**](blender.md) (Linux, MacOS, Windows, BSD) <mark style="background-color:purple;">**FREE**</mark>
 * **Spline** - [https://spline.design/](https://spline.design/) - (web)
 * [**https://voxelcanvas.me/**](https://voxelcanvas.me/) - (web)
 
@@ -66,7 +66,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 
 ### Whiteboarding
 
-* [**Microsoft Whiteboard**](microsoft-whiteboard.md) (Windows, iOS, iPadOS, Android)
+* [**Microsoft Whiteboard**](microsoft-whiteboard.md) (Windows, iOS, iPadOS, Android) <mark style="background-color:purple;">**FREE**</mark>&#x20;
 * [**Freeform**](freeform.md) (iOS, iPadOS, MacOS)
 
 ## Roundups & reviews
