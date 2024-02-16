@@ -32,6 +32,7 @@
     * [Removing the nib from a pen](guides/caring-for-your-tablet/removing-the-nib-from-a-pen.md)
     * [Surface wear on pen tablets](guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
     * [Surface wear on pen displays](guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)
+    * [False scratches](guides/caring-for-your-tablet/false-scratches.md)
     * [Removing and replacing the surface film on a pen display](guides/caring-for-your-tablet/removing-and-replacing-the-surface-film-on-a-pen-display.md)
     * [Nib wear](guides/caring-for-your-tablet/nib-wear.md)
   * [Core features](guides/core-features/README.md)

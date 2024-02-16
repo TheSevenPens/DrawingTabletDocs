@@ -29,9 +29,7 @@ As you drag your pen on the surface you will eventually notice two forms of text
 * thin or think marks
 * broad areas where the texture has been worn off
 
-These texture erosion marks can be very difficult to see. Depending on the lighting, they may be invisible, lighter than the texture color, or darker than the texture color.d
-
-d
+These texture erosion marks can be very difficult to see. Depending on the lighting, they may be invisible, lighter than the texture color, or darker than the texture color.
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,13 +65,9 @@ Texture erosion is typically benign. While it is unattractive and sometimes visi
 
 [https://www.reddit.com/r/wacom/comments/144a6lk/is\_my\_wacom\_intous\_pro\_m\_okay/](https://www.reddit.com/r/wacom/comments/144a6lk/is\_my\_wacom\_intous\_pro\_m\_okay/)&#x20;
 
-## False scratches
+## Things that look like scratches but aren't
 
-Often users will encounter something that looks like a scratch on ther pen tablet. But they find they can clean the tablet and the scratch will go away.
-
-That means these are not real scratches because they are temporary.
-
-They are caused by the pen displacing material on the surface - usually oil from skin or even little bits of the nib that have worn away.
+False scratches are things that look like scratches but are really the result of a tablet surface that isn't clean. More here: [**False scratches**](false-scratches.md) &#x20;
 
 ## Scratches
 
