@@ -1,15 +1,19 @@
 # Using HDMI adapters with pen displays
 
-Sometimes you will run into a situation where your pen display needs an HDMI port, but all you have is some other kind of port.
+## Before you begin
 
-Depending on the port you can get an adapter that will convert it to HDMI.
+You may want to familiarize yourself with this doc before you continue if you are not experienced connection options: [**Connecting a pen display to a computer**](connecting-a-pen-display.md)
+
+## Overview
+
+Sometimes you will run into a situation where your pen display needs an HDMI port, but all you have is some other kind of port. Depending on the port you can get an adapter that will convert it to HDMI.
 
 ## Order of preference of ports to use for using an adapter
 
 It would be best not to use an adapter, but if you have to you should try the other ports in this order.
 
 * DisplayPort
-* USB-C (remember not all USB-C ports support sending a display signal)
+* USB-C (remember not all USB-C ports support sending a display signal).
 * DVI
 * VGA
 
@@ -25,6 +29,8 @@ These are the ones I personally use:
 * Mini DisplayPort - for 2K display at 60Hz: [https://www.amazon.com/gp/product/B00K0UDJFI](https://www.amazon.com/gp/product/B00K0UDJFI)
 
 ## USB-C to HDMI adapters
+
+Not all USB-C ports carry a display signal. You need one that can. Read more here: [**USB-C DisplayPort alt mode**](usb-c-displayport-alt-mode.md)
 
 I've had good luck with the "Amazon Basics Premium Aluminum USB-C to HDMI Cable Adapter (Thunderbolt 3 Compatible) 4K@60Hz, 6-Foot, Black". Note that is an entire cable, not just an adapter. link: [https://www.amazon.com/dp/B083KV1BR3](https://www.amazon.com/dp/B083KV1BR3)&#x20;
 
@@ -48,11 +54,11 @@ note that there are multiple DCI port shapes
 
 Videos:
 
-* ZachEberly -DVI-D to HDMI Adapter TESTING! | Questions and Answers!! \[2020] ([https://www.youtube.com/watch?v=oaFlLtkOh\_c](https://www.youtube.com/watch?v=oaFlLtkOh\_c))
+* [ZachEberly -DVI-D to HDMI Adapter TESTING! | Questions and Answers!!](https://www.youtube.com/watch?v=oaFlLtkOh\_c) \[2020]&#x20;
 
 Reddit threads:
 
-* ([https://www.reddit.com/r/wacom/comments/13kqia7/will\_this\_hdmi\_to\_dvi\_adapter\_work\_with\_a\_cintiq/](https://www.reddit.com/r/wacom/comments/13kqia7/will\_this\_hdmi\_to\_dvi\_adapter\_work\_with\_a\_cintiq/))
+* [/r/wacom - will this hdmi to dvi adapter work with a cintiq ](https://www.reddit.com/r/wacom/comments/13kqia7/will\_this\_hdmi\_to\_dvi\_adapter\_work\_with\_a\_cintiq/)&#x20;
 
 Other resources:\
 \- [https://en.wikipedia.org/wiki/Digital\_Visual\_Interface](https://en.wikipedia.org/wiki/Digital\_Visual\_Interface)&#x20;
@@ -61,9 +67,7 @@ Other resources:\
 
 ## VGA to HDMI adapters
 
-VGA is a very old display technology.
-
-You should use it as a last resort.
+VGA is a very old display technology. You should use it as a last resort.
 
 Quality: Because VGA is analog and must be converted to a digital signal for HDMI, it is possible you might see some degradation in quality.  &#x20;
 
@@ -79,8 +83,6 @@ You need to make sure your adapter supports the **resolution** and **refresh rat
 ## General flakiness
 
 Generally these adapters "just work". But sometimes there are odd quirks on some computers and they just don't work or not work correctly.
-
-&#x20;
 
 
 
