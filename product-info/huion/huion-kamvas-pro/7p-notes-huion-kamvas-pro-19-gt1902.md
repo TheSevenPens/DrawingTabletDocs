@@ -1,12 +1,10 @@
 # 7P notes: Huion Kamvas Pro 19 (GT1902)
 
-Please keep in mind these are my initial reactions on my first day of using the tablet.
-
 ## Summary
 
 I do recommend this tablet. The drawing experience is the best Huion's ever had.&#x20;
 
-Is it as good as a Cintiq Pro? No. But it is VERY GOOD.
+Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD.
 
 ## Basics
 
@@ -24,7 +22,7 @@ Is it as good as a Cintiq Pro? No. But it is VERY GOOD.
 
 **Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%.
 
-**Parallax** - VERY GOOD. Ithas very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my obvservatin.
+**Parallax** - VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation.
 
 ## Compatibility
 
@@ -102,6 +100,8 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * PW600S = 14g
 
 **Issue with the PW600 pen & nib** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
+
+**Default nib** - The default pre-installed nib on both the PW600 and PW600s pens is the felt nib, no the plasti nib.&#x20;
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
 
