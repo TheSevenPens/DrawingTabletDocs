@@ -1,8 +1,12 @@
-# Using an iPad as a drawing tablet
+---
+description: Using an iPad as a drawing tablet
+---
+
+# 7P notes: Apple iPad
 
 ## Overview
 
-iPads are very interesting alternative to a drawing tablet. Especially if you want to be mobile and do not want to be attached to a computer
+iPads - specifically those that use the Apple Pencil 2 - are very compelling alternative to a typical EMR standalone drawing tablet. They are lightweight, mobile, have a great display, a rich app ecosystem, and the drawing experience, while different is very similar to that of a drawing tablet.
 
 ## Terminology
 
@@ -53,7 +57,7 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 
 * When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".&#x20;
 * Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
-* For protective sheets for iPads there are some options here: [**Protective sheets**](../accessories/protective-sheets/)&#x20;
+* For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/protective-sheets/)&#x20;
 
 ## Pencil support
 
@@ -68,7 +72,7 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 
 ## Pen hover
 
-Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../guides/core-features/pen-hover.md)&#x20;
+Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../guides/core-features/pen-hover.md)&#x20;
 
 Hover support in iPads:
 
@@ -77,13 +81,13 @@ Hover support in iPads:
 
 ## **Parallax**&#x20;
 
-iPads that support the Apple Pencil have EXCELLENT parallax compared to even the best pen displays. More here: [Parallax](../guides/pen-displays/parallax.md)&#x20;
+iPads that support the Apple Pencil have EXCELLENT parallax compared to even the best pen displays. More here: [Parallax](../../guides/pen-displays/parallax.md)&#x20;
 
 ## Pointer lag
 
 * iPads have incredibly little pointer lag. &#x20;
 * Pen displays have much more pointer lag than an iPad.&#x20;
-* More here: [lag](../guides/core-features/lag.md)&#x20;
+* More here: [lag](../../guides/core-features/lag.md)&#x20;
 
 ## **Anti-glare sparkle**
 
@@ -99,21 +103,21 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## Accessories
 
-* [iPad stands](../accessories/stands/ipad-stands.md)
+* [iPad stands](../../accessories/stands/ipad-stands.md)
 
 ## iPad apps for creative work
 
-* [Clip Studio Paint](../applications/clip-studio-paint.md) (My favorite for illustration!)&#x20;
-* [Procreate](../applications/procreate.md) (#1 iPad app for drawing)
+* [Clip Studio Paint](../../applications/clip-studio-paint.md) (My favorite for illustration!)&#x20;
+* [Procreate](../../applications/procreate.md) (#1 iPad app for drawing)
 * [Concepts](using-an-ipad-as-a-drawing-tablet.md#concepts) &#x20;
 * [Infinite Painter](using-an-ipad-as-a-drawing-tablet.md#infinite-painter)  &#x20;
-* [Medibang](../applications/medibang.md)  &#x20;
-* [Paint Tool Sai](../applications/painttool-sai.md) &#x20;
+* [Medibang](../../applications/medibang.md)  &#x20;
+* [Paint Tool Sai](../../applications/painttool-sai.md) &#x20;
 * [ArtRage](using-an-ipad-as-a-drawing-tablet.md#artrage)  &#x20;
 
 ## How I use iPads
 
-My notes on how I use iPads is here: [7P notes: Apple iPad Pro](../product-info/apple/7p-notes-apple-ipad-pro.md) &#x20;
+My notes on how I use iPads is here: [7P notes: Apple iPad Pro](7p-notes-apple-ipad-pro.md) &#x20;
 
 ## Videos
 

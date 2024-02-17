@@ -38,7 +38,7 @@ You cannot take these devices into a local retail store for the tablet manufactu
 
 Instead of pen computers, I recommend looking at similar devices that support pen input such as :
 
-* Apple iPad Pro - See: [Using an iPad as a drawing tablet](using-an-ipad-as-a-drawing-tablet.md)&#x20;
+* Apple iPad Pro - See: [Using an iPad as a drawing tablet](../product-info/apple/using-an-ipad-as-a-drawing-tablet.md)&#x20;
 * Samsung Galaxy Tab&#x20;
 * Microsoft Surface Pro 8 (and above)
 

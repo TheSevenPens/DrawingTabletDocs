@@ -11,7 +11,7 @@ Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). The
 
 ### Apple iPads
 
-[**iPads are excellent pen-computers / drawing tablets**](../buying-a-drawing-tablet/using-an-ipad-as-a-drawing-tablet.md).
+[<mark style="background-color:green;">**My notes on using Apple iPads as standalone drawing tablets**</mark>](../product-info/apple/using-an-ipad-as-a-drawing-tablet.md)
 
 * **Apple iPad Air (4th gen and later)** ($600)
 * **Apple iPad Pro 11 inch (4th gen and later)** (starting at $800)
@@ -21,9 +21,7 @@ Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). The
 
 ### Samsung Galaxy Tab S series
 
-The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the role of a drawing tablet.
-
-[**My notes on Samsung Galaxy Tab devices**](../product-info/samsung/7p-notes-samsung-galaxy-tab.md). &#x20;
+[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab devices**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab.md) &#x20;
 
 * [**Samsung Galaxy Tab S6 Lite (2022 version)**](../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.&#x20;
 * [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option
@@ -36,14 +34,10 @@ The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the
 
 ### Microsoft Surface Pro
 
-If you are looking for running desktop apps, then the **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.&#x20;
+[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro.md)
 
 * [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
 * [**Surface Pro 9**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
-
-Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
-
-I find the drawing experience to be OK / Tolerable with the Surface Pro. It doesn't match what you get from the iPad or the Samsung Galaxy Tab series.
 
 ## Pen computers
 
