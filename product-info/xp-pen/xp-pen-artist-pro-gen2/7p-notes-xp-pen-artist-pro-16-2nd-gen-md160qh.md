@@ -30,6 +30,8 @@ More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md)&#x2
 
 **Pen eraser** -  HAS AN ERASER. I don't use erasers so I have no further comment about it.&#x20;
 
+**Pen pressure levels** - 16K. Ignore this. it is hype. All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure).
+
 ## **Display**&#x20;
 
 **Resolution** - Native resolution is 2560x1600. Excellent resolution. Big improvement over an HD screen.
