@@ -4,7 +4,7 @@ The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can p
 
 The tablets I own:
 
-* Samsung Galaxy Tab S8 Ultra <- RECOMMENDED
+* Samsung Galaxy Tab S8 Ultra <- RECOMMENDED.
 * Samsung Galaxy Tab S9 FE <- HIGHLY RECOMMENDED. Great value at reasonable cost.
 * Samsung Galaxy Tab S6 LITE (2022 edition) <- RECOMMENDED as great budget choice for esp. for beginners
 
@@ -19,11 +19,13 @@ RATING: Very good
 
 All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
 
-## Drawing feeling
+## Drawing feeling with Samsung S Pen
 
-RATING: Very good
+RATING: GOOD. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil though it is not as good as the Wacom Pro Pen 2 in terms of pressure range.
 
-The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil though it is not as good as the Wacom Pro Pen 2 in terms of pressure range.
+## Drawing feeling with Wacom One GEN1 Pen CP-913
+
+RATING: VERY GOOD.  The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  I usually use the CP-913 that came with my Wacom One (DTC-133).
 
 ## S Pen > Pen Buttons
 
