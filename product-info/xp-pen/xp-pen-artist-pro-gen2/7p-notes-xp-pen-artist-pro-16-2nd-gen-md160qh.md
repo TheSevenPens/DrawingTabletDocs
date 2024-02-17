@@ -14,60 +14,58 @@ One minor nit. The USB-C cable connects at the top edge this means you see the c
 
 XP-Pen logo on bottom of tablet.&#x20;
 
-##
-
 ## **Pen**
 
-It uses the new **XP-Pen X3 Pro Pen**. This pen feels nice to use and has typical min pressure (IAF) for non-wacom tablets. More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md)&#x20;
+The tablet comes with the the new **XP-Pen X3 Pro Pen**.&#x20;
 
-## **Resolution**
+Overall: This pen feels nice to use
 
-Native resolution is 2560x1600
+**Pen pressure**
 
-Excellent resolution. Big improvement over an HD screen.
+**IAF**: GOOD. IAF= 3gf (as stated by XP-Pen)
 
-## **Anti-glare sparkle**
+**Max pressure:** GOOD. 380gf in my testing. I tested two pens. So probably, XP-Pen is designed this pen for 400gf max pressure. And my 380gf is just some natural variance.&#x20;
 
-RATING: GOOD.&#x20;
+More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md)&#x20;
 
-Low amount of AG sparkle. more here: [**Anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md).
+## **Display**&#x20;
 
-## **Aspect Ratio**
+**Resolution** - Native resolution is 2560x1600. Excellent resolution. Big improvement over an HD screen.
 
-It has a 16:10 aspect ratio instead of the much more common 16:9 aspect ratio.
+**Refresh rate** - TYPICAL. 60Hz. Normal for pen displays.
 
-After using it for a few days, I actually like the 16:10 aspect ratio.  &#x20;
+**Anti-glare sparkle -** GOOD. Low amount of AG sparkle. more here: [**Anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md).
 
-## **Single USB-C cable connection**
+**Sharpness** - GOOD. The AG treatment does not add any blurriness.
+
+**Parallax** - GOOD. Little parallax.
+
+**Aspect Ratio** - 16:10. So it is a little more squarish than the much more common 16:9 aspect ratio. After using it for a few days, I actually like the 16:10 aspect ratio.&#x20;
+
+## **Connections and cabling**
+
+**Single USB-C cable connection?**
 
 YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md)
 
-## **Pointer lag**
+## **Basics**
 
-Slightly better than normal for a pen display.
+**Pointer lag -** TYPICAL. Slightly better than normal for a pen display.
 
-## **Line steadiness**
+**Line steadiness -** OK. The line have a little bit of unsteadiness when moving slow. I can mitigate that in Clip Studio paint by turning on the **Stabilization > Adjust by Speed** option and setting it to stabilize when drawing slowly.&#x20;
 
-RATING: OK
-
-The line have a little bit of unsteadiness when moving slow. I can mitigate that in Clip Studio paint by turning on the **Stabilization > Adjust by Speed** option and setting it to stabilize when drawing slowly.&#x20;
-
-## **Corner accuracy**
-
-RATING: VERY GOOD.
-
-Compared to other tablets has very minor inaccuracy at edges and corners.
+**Corner accuracy** VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corners.
 
 ## **Diagonal wobble**
 
-RATING: OK. Totally acceptable.
+RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it.
 
 <figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (2).png" alt=""><figcaption></figcaption></figure>
 
-## **Ergonomics > legs**
+## **Ergonomics**
 
-It has two foldable legs on the back allow it to be propped up at an angle. However, I just use a spare HUION stand for a better angle.
+**Legs.** YES - It has two foldable legs on the back allow it to be propped up at an angle. However, I just use a spare HUION stand for a better angle.
 
 ## **Express Keys**
 
-None. The tablet does come with a remote with programmable keys.
+NONE. The tablet does come with a remote with programmable keys.
