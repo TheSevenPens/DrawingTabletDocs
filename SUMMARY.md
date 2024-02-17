@@ -216,6 +216,7 @@
       * [7P notes: Huion Kamvas Pro 16 Plus 4K (GT1562)](product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)
       * [7P notes: Huion Kamvas Pro 24 4K (GT2401)](product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-24-4k-gt2401.md)
     * [Huion Kamvas Studio](product-info/huion/huion-kamvas-studio.md)
+    * [Huion Kamvas Slate](product-info/huion/huion-kamvas-slate.md)
     * [Huion Kamvas](product-info/huion/huion-kamvas/README.md)
       * [7P notes: Huion Kamvas 13 (GS1331)](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md)
       * [7P notes: Huion Kamvas 22 Plus (GS2202)](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-22-plus.md)

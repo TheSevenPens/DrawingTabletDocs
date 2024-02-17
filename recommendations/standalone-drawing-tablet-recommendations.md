@@ -29,18 +29,10 @@ The Samsung Galaxy Tab S series of tablets and their S Pen will work well in the
 * [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option
 * [**Samsung Galaxy Tab S9 Ultra** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($1000) top-of-the-line performance.    &#x20;
 
-### Huion Kamvas Slate
+### Devices from Huion and XP-Pen
 
-**Huion Kamvas Slate 10 **<mark style="color:red;">**NOT RECOMMENDED**</mark>
-
-* [Brad Colbow review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=7emiFxdCzWk) Jan 17, 2024
-* [Teoh on Tech review of Huion Kamvas Slate 10](https://www.youtube.com/watch?v=-wWSCy3yLWA) Jan 21, 2024&#x20;
-
-### XP-Pen Magic Drawing Pad&#x20;
-
-<mark style="color:red;">**NO COMMENT YET**</mark>
-
-* [Teoh on Tech review of XP-Pen Magic Drawing Pad](https://www.youtube.com/watch?v=gVfGU\_3-SyY) Jan 29,2024
+* [**Huion Kamvas Slate 10**](../product-info/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
+* [**XP-Pen Magic Drawing Pad**](../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>
 
 ### Microsoft Surface Pro
 
