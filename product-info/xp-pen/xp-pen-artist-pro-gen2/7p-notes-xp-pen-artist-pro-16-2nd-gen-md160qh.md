@@ -14,19 +14,21 @@ One minor nit. The USB-C cable connects at the top edge this means you see the c
 
 XP-Pen logo on bottom of tablet.&#x20;
 
-## **Pen**
+## **Pen & Pressure**
 
 The tablet comes with the the new **XP-Pen X3 Pro Pen**.&#x20;
 
 Overall: This pen feels nice to use
 
-**Pen pressure**
+**Pen IAF**: GOOD. IAF= 3gf (as stated by XP-Pen)
 
-**IAF**: GOOD. IAF= 3gf (as stated by XP-Pen)
-
-**Max pressure:** GOOD. 380gf in my testing. I tested two pens. So probably, XP-Pen is designed this pen for 400gf max pressure. And my 380gf is just some natural variance.&#x20;
+**Pen Max pressure:** GOOD. 380gf in my testing. I tested two pens. So probably, XP-Pen is designed this pen for 400gf max pressure. And my 380gf is just some natural variance.&#x20;
 
 More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md)&#x20;
+
+**Pressure transition instability** - VERY GOOD. Saw no "pulsing" at low pressure.
+
+**Pen eraser** -  HAS AN ERASER. I don't use erasers so I have no further comment about it.&#x20;
 
 ## **Display**&#x20;
 
