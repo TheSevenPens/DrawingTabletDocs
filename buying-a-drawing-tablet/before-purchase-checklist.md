@@ -1,15 +1,15 @@
 # Before-purchase checklist
 
-### Read the manual
+## Read the manual
 
-Key things to understand:
+Read it to clearly understand these things:
 
-* Driver installation procedure
-* Wireless connection procedure
+* How to install the driver&#x20;
 * Verify how it will connect to your computer this is especially important if you are using a pen display.
-  * For a pen display, you may want to use it with a single USB-C cable. Verify this in the manual. and if your computer has a USB-C port that supports DP-Alt Mode. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display.md).&#x20;
+  * For a pen display, you may want to use it with a single USB-C cable. Verify this in the manual. and if your computer has a USB-C port that supports DP-Alt Mode. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display.md).
+* If the tablet supports wireless, how to initiate a wireless connection &#x20;
 
-## **Be prepared to handle issues**
+## **Be prepared to handle common problems**
 
 * Ensure you know how to contact customer support.&#x20;
 * Ensure you know the warranty and how (if needed) you can can return the tablet to the manufacturer or to the retailer (example: Amazon) you bought it from&#x20;
@@ -17,7 +17,7 @@ Key things to understand:
 * I have a list of troubleshooting docs here: [Troubleshooting](../troubleshooting/)&#x20;
 * The most complex problem for pen displays is usually the "NO SIGNAL" problem. If it happens, this guide will help: [Troubleshoot the NO SIGNAL problem](../troubleshooting/troubleshoot-no-signal.md)  &#x20;
 
-### Check the reviews&#x20;
+## Check the reviews&#x20;
 
 <mark style="color:red;">**Never purchase a tablet without looking at the reviews first.**</mark>
 
@@ -29,7 +29,7 @@ Some reviewers to explore:
 * **Aaron Rutten** ([https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
 * **Adam Duff** ([https://www.youtube.com/@AdamDuffArt) ](https://www.youtube.com/@AdamDuffArt)
 
-### Verify the model number, not just the model name
+## Verify the model number, not just the model name
 
 Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
 
