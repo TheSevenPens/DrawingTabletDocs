@@ -9,26 +9,26 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 ## $200 to $300 &#x20;
 
-* SMALL [**Huion Kamvas 13** (GS1331](../product-info/huion/huion-kamvas/)) $240 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
-* SMALL [**XP-Pen Artist 13 GEN2** (CD130FH)](../product-info/xp-pen/xp-pen-artist-gen2/) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-16-gen2-cd160fh.md))
+* SMALL [**Huion Kamvas 13 (GS1331)**](../product-info/huion/huion-kamvas/) $240 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
+* SMALL [**XP-Pen Artist 13 GEN2 (CD130FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-16-gen2-cd160fh.md))
 
 ## $300 to $500
 
-* SMALL [**Wacom One 2019 GEN1**](../product-info/wacom/wacom-one-dtc-133/) (DTC-133) $400&#x20;
-* SMALL **XP-Pen Artist Pro 14 GEN2** $420
-* SMALL [**Wacom One 12 GEN2**](../product-info/wacom/wacom-one-gen2/) (DTC-121) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)
-* SMALL [**XP-Pen Artist 16 GEN2**](../product-info/xp-pen/xp-pen-artist-gen2/)  (CD160FH) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (due to excessive diagonal wobble)&#x20;
-* LARGE [**Huion Kamvas 22**](../product-info/huion/huion-kamvas/) (GS2201) $450
+* SMALL [**Wacom One 2019 GEN1 (DTC-133)**](../product-info/wacom/wacom-one-dtc-133/) $400&#x20;
+* SMALL [**XP-Pen Artist 14 GEN2 (MD140FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) $420
+* SMALL [**Wacom One 12 GEN2 (DTC-121)**](../product-info/wacom/wacom-one-gen2/) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)
+* SMALL [**XP-Pen Artist 16 GEN2 (CD160FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (due to excessive diagonal wobble)&#x20;
+* LARGE [**Huion Kamvas 22 (GS2201)**](../product-info/huion/huion-kamvas/) $450
 
 ## **$500 to $1000**
 
-* SMALL [**Wacom One 13 touch** **GEN2**](../product-info/wacom/wacom-one-gen2/) (DTH-134) $600 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)&#x20;
-* MEDIUM [**Wacom Cintiq 16**](../product-info/wacom/wacom-cintiq.md) (DTK-1660) $650
-* MEDIUM [**Huion Kamvas Pro 16 Plus 4K**](../product-info/huion/huion-kamvas-pro/) (GT1562) $900 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)) <mark style="color:red;">**NOT RECOMMENDED DUE TO HIGH AG SPARKLE**</mark>&#x20;
-* MEDIUM [**XP-Pen Artist Pro 16 GEN2**](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md) (MD160QH) $600 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
+* SMALL [**Wacom One 13 touch** **GEN2 (DTH0134)**](../product-info/wacom/wacom-one-gen2/) $600 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)&#x20;
+* MEDIUM [**Wacom Cintiq 16 (DTK-1660)**](../product-info/wacom/wacom-cintiq.md) $650
+* MEDIUM [**Huion Kamvas Pro 16 Plus 4K (GT1562)**](../product-info/huion/huion-kamvas-pro/) $900 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)) <mark style="color:red;">**NOT RECOMMENDED DUE TO HIGH AG SPARKLE**</mark>&#x20;
+* MEDIUM [**XP-Pen Artist Pro 16 GEN2 (MD160QH)** ](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)$600 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
 * LARGE [**XP-Pen Artist 22 Plus (MD220FH)**](../product-info/xp-pen/xp-pen-artist.md) $470&#x20;
-* LARGE [**Huion Kamvas 22 Plus**](../product-info/huion/huion-kamvas/) (GS2202) $550 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-22-plus.md))
-* LARGE [**Huion Kamvas 24 Plus**](../product-info/huion/huion-kamvas/) (GS2402) $900&#x20;
+* LARGE [**Huion Kamvas 22 Plus (GS2202)**](../product-info/huion/huion-kamvas/) $550 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-22-plus.md))
+* LARGE [**Huion Kamvas 24 Plus (GS2402)**](../product-info/huion/huion-kamvas/) $900&#x20;
 
 ## $1000 to $1500
 

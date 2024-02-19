@@ -15,7 +15,7 @@
 
 ## XP-Pen Artist 14 GEN2 (MD140FH)
 
-[Brad Colbow review of XP-Pen Artist 14 GEN2 ](https://www.youtube.com/watch?v=Pf-UyPBf\_9o)Jun 26, 2023
+* [Brad Colbow review of XP-Pen Artist 14 GEN2 ](https://www.youtube.com/watch?v=Pf-UyPBf\_9o)Jun 26, 2023
 
 ## XP-Pen Artist 16 GEN2 (CD160FH)
 

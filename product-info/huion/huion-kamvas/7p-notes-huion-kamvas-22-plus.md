@@ -1,8 +1,10 @@
-# 7P notes: Huion Kamvas 22 Plus
+# 7P notes: Huion Kamvas 22 Plus (GS2202)
 
 **Summary**
 
 The Huion Kamvas 22 is one of the best price-to-performance pen displays in the market.&#x20;
+
+NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH) though, I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
 
 **Price** - It normally costs about $450 but I see it discounted often to $400
 
