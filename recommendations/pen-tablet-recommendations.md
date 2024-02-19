@@ -14,12 +14,15 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 * MEDIUM [**Huion Inspiroy RTP-700**](../product-info/huion/huion-inspiroy-r-series/)  $93 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-r-series/7p-notes-huion-inspiroy-rtp-700.md))
 * MEDIUM [**One by Wacom Medium**](../product-info/wacom/one-by-wacom/) (CTL-672) $100 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-one-by-wacom-medium-ctl-672.md))
 * MEDIUM [**Huion Inspiroy 2 L (H1061P)** ](../product-info/huion/huion-inspiroy-2/)$90 <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-2/7p-notes-huion-inspiroy-2-l-h1061p.md)**)**
+*
 
 ## $100 to $200
 
 * SMALL [**Wacom Intuos Pro Small**](../product-info/wacom/wacom-intuos-pro/) (PTH-460) $200&#x20;
 * MEDIUM [**Wacom One M**](../product-info/wacom/wacom-one-gen2/) (CTC-6110WL) $?? <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)**)**
 * MEDIUM [**Wacom Intuos Medium**](../product-info/wacom/wacom-intuos.md) (CTL-6100) $200
+* SMALL/MEDIUM  [**XP-Pen Deco Pro MW GEN2**](../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/) $140
+* MEDIUM [**XP-Pen Deco Pro LW GEN2**](../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/) $170
 
 ## $200 to $300
 
