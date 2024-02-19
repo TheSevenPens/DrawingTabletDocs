@@ -1,14 +1,18 @@
 # Using a drawing tablet on Windows
 
-### Summary
+## Summary
 
 Drawing tablets have excellent compatibility with any Windows computer.
 
 ## Drivers
 
-Even though windows has built-in drivers for drawing tablets, they are very primitive and you should always install the manufacturer-provided tablet drivers.&#x20;
+### Manufacturer tablet drivers versus Windows PNP tablet driver
 
-For more about Windows built-in drivers: [**Windows PNP support for drawing tablets**](windows-pnp-support-for-drawing-tablets.md) &#x20;
+Even though windows has a built-in PNP driver for drawing tablets, they are very primitive and you should always install the manufacturer-provided tablet drivers. For more about Windows built-in PNP drivers: [**Windows PNP support for drawing tablets**](windows-pnp-support-for-drawing-tablets.md) &#x20;
+
+### Only install one tablet driver
+
+I don't recommend installing two different tablet drivers. In my experience they can interfere with each other. For example do not install a Huion driver AND a Wacom driver.
 
 ### Windows: 32-bit vs 64-bit&#x20;
 
