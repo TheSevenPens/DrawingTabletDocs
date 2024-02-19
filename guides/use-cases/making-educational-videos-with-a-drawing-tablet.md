@@ -23,13 +23,15 @@ Sal Khan uses a Wacom Intuos Pro Medium for his videos. That is an AMAZING table
 
 **Which specific model of Intuos Pro he is using?**
 
-It does NOT look to be the latest model of Intuos Pro Medium (PTH-660). You can tell this because in one of his videos he shows the tablet and I can see some things that clearly mark it as an older tablet.
+It does NOT look to be the latest model of Intuos Pro Medium (PTH-660). You can tell this because in [**one of his videos**](https://www.youtube.com/watch?v=qcqPMKAVM04) he shows the tablet and I can see some things that clearly mark it as an older tablet.
 
 * The pen does not look like the Wacom Pro Pen 2 that comes with the PTH-660
 * The USB-cable connects with a thicker end and is not the L-shaped connector that comes PTH-660&#x20;
 * The back of the tablet has the older Wacom branding.&#x20;
 
-## Video resources
+Note that the Khan Academy has this document [**What software program/equipment is used to make Khan Academy videos?**](https://support.khanacademy.org/hc/en-us/articles/202483430-What-software-program-equipment-is-used-to-make-Khan-Academy-videos) In that doc, they say he uses a Wacom Bamboo tablet. I suspect this probably was true at some point, but he clearly no longer uses it.&#x20;
+
+## Resources
 
 * [Teach with Khan - Sal's Tips for Creating Blackboard Videos for Remote Learning](https://www.youtube.com/watch?v=qcqPMKAVM04) - this is the video where he shows that he uses Wacom Intuos Pro Medium tablet.
 * [Khan Academy - Be Like Sal: 3 Ways a Tablet Can Energize Your Digital Teaching!](https://www.youtube.com/watch?v=ITsSBEkEo0c) Dec 9, 2020
