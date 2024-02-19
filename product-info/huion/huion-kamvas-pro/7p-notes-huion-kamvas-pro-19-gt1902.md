@@ -115,14 +115,14 @@ GOOD. LOW amounts of wobble in stroke.
 
 ## Compared to the Huion Kamvas Pro 24 4K (GT2401)
 
-The Huion Kamvas Pro 24 4K (GT2401) was Huion's flashship pen display for a few years.&#x20;
+The Huion Kamvas Pro 24 4K (GT2401) was Huion's flagship pen display for a few years. And now the the Kamvas Pro 19 and Kamvas Pro 27 tablets represent the new flagship tablets.  &#x20;
 
-There are clear improvements in these areas.
+The new tablets have clear improvements in these areas.
 
 * Pressure handling through the new PenTech 4.0  is clearly better.
 * The new pens have an eraser and that night be important for you
-* The new in the Kamvas Pro 19 and Kamvas Pro 27 tablets have less AG sparkle&#x20;
-* The new tablets have touch
+* The new tablets have less AG sparkle&#x20;
+* The new tablets have touch&#x20;
 
 There are a few areas that might not compare as well though
 
