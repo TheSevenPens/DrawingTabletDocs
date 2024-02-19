@@ -125,25 +125,10 @@ General guidelines:&#x20;
 * **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
 * **Huion & XP-Pen** - I recommend you only get models released in 2021 or later. &#x20;
 
-## Troubleshooting
+## Preparing for a drawing tablet
 
-At some point, something is going to go wrong. You should be prepared for it.
-
-* &#x20;[**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md)  &#x20;
-* &#x20;[**Troubleshooting guides**](../troubleshooting/)  &#x20;
-
-## Accessories
-
-There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessories/)
-
-## Things to check before you buy a tablet
-
-Before you commit to buying a tablet, here are some things to work through: [**Before-purchase checklist**](before-purchase-checklist.md).
-
-## Getting started with your tablet
-
-Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../guides/get-started-with-a-drawing-tablet.md)&#x20;
-
-## Maintaining your tablet
-
-Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
+* **Troubleshooting -** At some point, something is going to go wrong. I highly suggest you familiarize yourself with the [**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md) and be aware of these [**Troubleshooting guides**](../troubleshooting/).
+* **Accessories** - There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessories/)
+* **Purchasing** - Before you actually purchase the tablet. Go through this [**Before-purchase checklist**](before-purchase-checklist.md).
+* **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../guides/get-started-with-a-drawing-tablet.md)&#x20;
+* **Maintenance** - Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
