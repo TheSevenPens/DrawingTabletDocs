@@ -19,7 +19,15 @@ For this you want high reliability and durability and you DO NOT need to spend a
 
 ## Which tablet does Sal Khan use?
 
-Sal Khan uses a Wacom Intuos Pro Medium (It looks like a earlier version and not the latest PTH-660) for his videos. That is an AMAZING tablet, but honestly overkill. You can get by with a much less expensive tablet.&#x20;
+Sal Khan uses a Wacom Intuos Pro Medium for his videos. That is an AMAZING tablet, but honestly overkill. You can get by with a much less expensive tablet.
+
+**Which specific model of Intuos Pro he is using?**
+
+It does NOT look to be the latest model of Intuos Pro Medium (PTH-660). You can tell this because in one of his videos he shows the tablet and I can see some things that clearly mark it as an older tablet.
+
+* The pen does not look like the Wacom Pro Pen 2 that comes with the PTH-660
+* The USB-cable connects with a thicker end and is not the L-shaped connector that comes PTH-660&#x20;
+* The back of the tablet has the older Wacom branding.&#x20;
 
 ## Video resources
 
