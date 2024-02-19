@@ -9,7 +9,7 @@ For this you want high reliability and durability and you DO NOT need to spend a
 **Pen tablets (no screen)**
 
 * One by Wacom Medium (CTL-672)
-* Wacom Intuos Medium (CTL-4100) - the only real advantage of this tablet is that it has buttons on the tablet that you can assign shortcut keys for.
+* Wacom Intuos Medium (CTL-6100 or CTL-6100WL) - the only real advantage of this tablet is that it has buttons on the tablet that you can assign shortcut keys for. The CTL-6100WL also supports wireless connection.
 
 **Pen displays (have a screen)**
 
