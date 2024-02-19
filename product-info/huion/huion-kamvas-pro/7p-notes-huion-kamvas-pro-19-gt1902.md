@@ -113,6 +113,25 @@ GOOD. LOW amounts of wobble in stroke.
 
 <figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
 
+## Compared to the Huion Kamvas Pro 24 4K (GT2401)
+
+The Huion Kamvas Pro 24 4K (GT2401) was Huion's flashship pen display for a few years.&#x20;
+
+There are clear improvements in these areas.
+
+* Pressure handling through the new PenTech 4.0  is clearly better.
+* The new pens have an eraser and that night be important for you
+* The new in the Kamvas Pro 19 and Kamvas Pro 27 tablets have less AG sparkle&#x20;
+* The new tablets have touch
+
+There are a few areas that might not compare as well though
+
+* The new anti-glare treatment gives a slightly soft look to the pixels in the Kamvas Pro 19 at least. I didn't test the Kamvas Pro 27 so not sure how much the softness is present in that model.
+* Currently there is no exact match in terms of size to the 24". Drawing on 19" feels very different than 24".&#x20;
+* The new tablets are a bit more expensive for their size.
+
+But for other areas, the Kamvas Pro 24 4K was already a good pen display. So for this reason, if you already have a Huion Kamvas Pro 24 4K (GT2401) then these new tablets are NOT an immediate "MUST BUY". If you are happy with how your Kamvas Pro 24 4K is working, then keep it. I would suggest at least waiting to see if Huion releases something closer to a 24" size.&#x20;
+
 ## Other topics
 
 **Sound** - there's a headphone jack for audio. Some of you may find this convenient.
