@@ -6,13 +6,15 @@ Drawing tablets are heavily used for creating educational content. For example y
 
 For this you want high reliability and durability and you DO NOT need to spend a lot of money buying a fancy tablet. And for those reasons I'll keep the recommendations short:
 
-Pen tablets (no screen)
+**Pen tablets (no screen)**
 
 * One by Wacom Medium (CTL-672)
 * Wacom Intuos Medium (CTL-4100) - the only real advantage of this tablet is that it has buttons on the tablet that you can assign shortcut keys for.
 
-Pen displays (have a screen)
+**Pen displays (have a screen)**
 
+* XP-Pen Artist 12 GEN2 (CD120FH)
+* XP-Pen Artist 13 GEN2 (CD130FH)
 * Wacom One GEN1 (DTC-133)
 
 ## Which tablet does Sal Khan use?

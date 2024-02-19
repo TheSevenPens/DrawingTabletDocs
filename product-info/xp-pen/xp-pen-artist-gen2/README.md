@@ -9,9 +9,9 @@
 
 ## XP-Pen Artist 13 GEN2 (CD130FH)
 
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 * [Teoh on Tech review of XP-Pen Artist 13 GEN2](https://youtu.be/-q\_eFIuibnc)  &#x20;
 * [Create Now Sleep Later review of XP-Pen Artist 13 GEN2](https://youtu.be/NJRYgW63dyM) &#x20;
-* [<mark style="background-color:green;">7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2</mark>](../../7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 
 ## XP-Pen Artist 14 GEN2 (MD140FH)
 
@@ -19,7 +19,7 @@
 
 ## XP-Pen Artist 16 GEN2 (CD160FH)
 
-* [**my notes on this tablet**](7p-notes-xp-pen-artist-16-gen2-cd160fh.md)
+* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-xp-pen-artist-16-gen2-cd160fh.md)
 * Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)&#x20;
 * [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) Jun 1, 2022
 * [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8\_Ng) May 26, 2022
