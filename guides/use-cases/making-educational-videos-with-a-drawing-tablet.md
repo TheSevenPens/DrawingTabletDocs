@@ -7,7 +7,7 @@ Drawing tablets are heavily used for creating educational content. For example y
 For this you want high reliability and durability. And for that reason I'll keep the recommendations simple:
 
 * One by Wacom Medium (CTL-672)
-* Wacom Intuos Medium (CTL-4100) - the only real advanage of this tablet is that it has buttons on the tablet that you can assign shortcut keys for.
+* Wacom Intuos Medium (CTL-4100) - the only real advantage of this tablet is that it has buttons on the tablet that you can assign shortcut keys for.
 
 ## Which tablet does Sal Khan use?
 
