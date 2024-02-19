@@ -115,6 +115,7 @@
     * [PenTracker by Patrick Lauke](guides/advanced/pentracker-by-patrick-lauke.md)
   * [Use cases](guides/use-cases/README.md)
     * [Gaming with a drawing tablet](guides/use-cases/gaming-with-a-drawing-tablet.md)
+    * [Making educational videos with a drawing tablet](guides/use-cases/making-educational-videos-with-a-drawing-tablet.md)
     * [Taking notes with drawing tablets](guides/use-cases/taking-notes-with-drawing-tablets.md)
     * [Using a drawing tablet instead of a mouse](guides/use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
   * [Ergonomics](guides/ergonomics/README.md)

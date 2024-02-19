@@ -98,8 +98,10 @@ Drawing tablets work with:
 
 ## Usage scenarios
 
-* **Drawing** - Drawing with a drawing tablet ideally is very similar to drawing paper. But there are key differences. And especially there is a big difference between pen displays and pen tablets. You should absolutely understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../guides/the-drawing-experience.md)
-* **Taking notes** - I don't recommend drawing tablets for note taking. Devices like an iPad work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+* **Drawing** - Drawing with a drawing tablet very similar to but different from drawing on paper. And there is a big difference between how it feels to draw with pen displays versus pen tablets. You must understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../guides/the-drawing-experience.md) and here [**Learning digital art**](../guides/learning-digital-art.md)
+* **Taking notes** - I don't typically recommend drawing tablets for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+* **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../guides/use-cases/making-educational-videos-with-a-drawing-tablet.md)
+* **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../guides/use-cases/gaming-with-a-drawing-tablet.md)&#x20;
 * **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](buying-a-drawing-tablet-for-osu.md) &#x20;
 
 ## Applications
