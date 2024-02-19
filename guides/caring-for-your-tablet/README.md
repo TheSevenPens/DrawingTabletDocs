@@ -42,6 +42,8 @@ The surface of your tablet will be in contact with your pen, that contact and th
 * [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md) &#x20;
 * [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)&#x20;
 
+There are options to protect the surface from damage. See: [**protective sheets**](../../accessories/protective-sheets/).
+
 ## Pen nib maintenance
 
 Monitor your nibs and replace then when they are getting too worn down. Nibs that are worn down to flat surface may be scratching up your tablet. See more here: [**Nib wear**](nib-wear.md)

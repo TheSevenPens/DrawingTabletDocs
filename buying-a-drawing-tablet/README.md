@@ -1,7 +1,5 @@
 # Buying a drawing tablet
 
-Updated: 2023/12/06
-
 ## Introduction
 
 I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
@@ -48,10 +46,6 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 
 I have links to information, reviews, and my notes on tablets in the [**product info**](../product-info/) section.
 
-## The drawing experience
-
-Drawing with a drawing tablet ideally is very similar to drawing paper. But there are key differences. And especially there is a big difference between pen displays and pen tablets. You should absolutely understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../guides/the-drawing-experience.md)
-
 ## **Core drawing tablet features**
 
 * **Pressure -** These days all tablet manufacturers specify 8192 **pressure levels**. Realistically though 2048 is all you need. More important than number of pressure levels is the **pressure range**. Wacom pens are generally known for having a wide pressure range including a very low Initial Activation Force (IAF) which makes it easier to draw finer lines. Read more about [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
@@ -79,16 +73,6 @@ Drawing with a drawing tablet ideally is very similar to drawing paper. But ther
 * **Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
 * **Pen displays** require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display.&#x20;
 
-## Power: power requirements
-
-* **Pen tablets** require minimal amounts of power. They get enough power from a normal USB 2.0 port.
-* **Pen displays** require much more power than a pen tablet due to the embedded display panel. They may have a power adapter that you need to plug into the wall. Or they may be able to be powered with through a USB-C cable.
-
-## Power: batteries
-
-* **Pen tablets** that have wireless support have built-in batteries that can usually last the entire day and do recharge quickly when they are plugged back in.
-* **Pen displays** DO NOT have batteries. They must get their power from a cable that is either attached to a computer or to power coming from a wall.
-
 ## Computer compatibility
 
 Drawing tablets work with:
@@ -100,49 +84,37 @@ Drawing tablets work with:
 * Android devices to some extent. More here: [**Using a drawing tablet with an Android device**](../guides/operating-systems/using-a-drawing-tablet-with-an-android-device.md) &#x20;
 * Chromebooks to some extent. More here: [**Using drawing tablets with Chromebooks**](../guides/operating-systems/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
 
-## Applications
-
-There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/). Here are the apps I specifically use: [**Recommended apps**](../applications/recommended-apps.md)&#x20;
-
 ## Ergonomics
 
 * **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/core-features/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
 * **Thickness** - Pen tablets are very then these days - about 8mm. Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm.&#x20;
 * **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
 * **Posture** - With a pen tablet, your torso will naturally have a more vertical posture. This is because you will be looking at your monitor while you hand rests on the pen tablet which is on your desk.  With a pen display, you will be leaning over a bit to draw since you must look at the pen tablet on you desk. You may experience lower back pain or strain on your neck from looking down.&#x20;
-* **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [Using monitor arms with a pen display](../guides/pen-displays/using-monitor-arms-with-a-pen-display.md)&#x20;
+* **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [**Using monitor arms with a pen display**](../guides/pen-displays/using-monitor-arms-with-a-pen-display.md)&#x20;
 * **Legs** - Many pen displays (not not all) have foldable legs on the back. This allows you to keep the pen display at a slight angle on your desk which makes it a bit easier to see and draw on. Pen tablets do not have legs. If you want to place them at an angle, you will need to find some other solution.
 * **Right-handed vs left-handed use** - All drawing tablets work for people who are right-handed or left-handed. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet to be used correctly in a left-handed way. See [**handedness of drawing tablets**](../guides/ergonomics/handedness-of-drawing-tablets.md).&#x20;
 * **Noise** - You may have strong preferences about **noise**. Generally drawing tablets are considered very quiet, and some are completely silent. More details here: [**Noise**](./#noise)&#x20;
 * **Heat** - Drawing tablets are either room temperature or slightly warm depending on the kind of drawing tablet. More here: [**Heat**](../guides/ergonomics/heat.md)&#x20;
 
-## Taking notes
+## Usage scenarios
 
-I don't recommend drawing tablets for note taking. Devices like an iPad work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+* **Drawing** - Drawing with a drawing tablet ideally is very similar to drawing paper. But there are key differences. And especially there is a big difference between pen displays and pen tablets. You should absolutely understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../guides/the-drawing-experience.md)
+* **Taking notes** - I don't recommend drawing tablets for note taking. Devices like an iPad work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+* **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](buying-a-drawing-tablet-for-osu.md) &#x20;
 
-## Playing osu!
+## Applications
 
-If you want to play osu!, there are very specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](buying-a-drawing-tablet-for-osu.md) &#x20;
-
-## Using a drawing tablet with an iOS device
-
-Normally you'll be connecting a pen tablet or pen displays to a computer. But some people want to try connecting those tablets to iPads. In general it doesn't work, but for a small number of specific combinations of tablets and apps, it does work. See more here: [Using a drawing tablet with an iOS device](../guides/general/using-a-drawing-tablet-with-an-ios-device.md).
-
-## Maintaining your tablet
-
-Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
-
-### Surface protection
-
-The surface of a tablet is subject to wear. You should understand what options there are to protect the surface. See: [**protective sheets**](../accessories/protective-sheets/).
+There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/). Here are the apps I specifically use: [**Recommended apps**](../applications/recommended-apps.md)&#x20;
 
 ## Buying used drawing tablets
 
 If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used-drawing-tablets.md)    &#x20;
 
-## Other guidance
+## Power
 
-### Model years
+Depending on the kind of tablet it will draw different amounts of power. Pen tablets requrie very little. Pen displays need much more. Some pen tablets even have batteries so that they can work wirelessly. More here: [Powering a drawing tablet](../guides/core-features/powering-a-drawing-tablet.md)&#x20;
+
+## Model years
 
 Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
 
@@ -169,3 +141,7 @@ Before you commit to buying a tablet, here are some things to work through: [**B
 ## Getting started with your tablet
 
 Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../guides/get-started-with-a-drawing-tablet.md)&#x20;
+
+## Maintaining your tablet
+
+Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
