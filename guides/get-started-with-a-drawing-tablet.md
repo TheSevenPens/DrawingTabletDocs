@@ -69,7 +69,7 @@ If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Tr
 
 ## Windows&#x20;
 
-* Perform this configuration: [**Disable the press-and-hold ring in Windows**](windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
+* Perform this configuration: [**Disable the press-and-hold ring in Windows**](operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
 
 ## Apps
 

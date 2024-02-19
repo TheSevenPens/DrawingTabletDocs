@@ -78,8 +78,6 @@ Pen tablets are considerable thinner and weigh less.
 
 In summary pen displays have these advantages
 
-
-
 Much more here: [https://docs.thesevenpens.com/drawtab/guides/the-drawing-experience](https://docs.thesevenpens.com/drawtab/guides/the-drawing-experience)
 
 ## Portability
@@ -88,7 +86,7 @@ Given their size and weight and need for a single cable (or even wireless capabi
 
 Also with a pen display, you will need to protect it more because it is more sensitive to damage.
 
-### Videos
+## Videos
 
 * [**Teoh on Tech -** 9 things to know about pen displays before you buy one](https://youtu.be/Ez7l1C49ClE) Jan 6, 2023
 * [**EyeKooDrawsStuff** - What drawing tablet to buy... a screenless graphics tablet or pen display?](https://youtu.be/SpOmAvvXePE) July 10, 2023

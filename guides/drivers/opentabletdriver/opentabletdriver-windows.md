@@ -134,7 +134,7 @@ At the bottom of the OTD app, click **Apply**.
 ## Configure your drawing application to use Windows Ink
 
 * The specific instructions vary per app.&#x20;
-* Instructions for specific apps: [Configure Windows Ink for apps](../../windows/windows-ink/configure-windows-ink-for-apps.md)
+* Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
 
 ## Automatically start OpenTabletDriver when Windows starts
 

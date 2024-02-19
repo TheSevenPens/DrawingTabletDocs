@@ -16,10 +16,10 @@ When you press down with the pen, you’ll see a “glowing ring” and when you
 
 What is happening is that Windows is treating you pressing and holding as if you want to do a normal “right click” with the mouse.
 
-![](<../../../.gitbook/assets/Press-and-Hold Ring.gif>)
+![](<../../../../.gitbook/assets/Press-and-Hold Ring.gif>)
 
 ### Dynamic Feedback Rings
 
 Dynamic feedback (aka Pen Feedback) is all the little rings that appear when you press down with the pen.
 
-![](../../../.gitbook/assets/dynamic-feedback-rings.gif)
+![](../../../../.gitbook/assets/dynamic-feedback-rings.gif)

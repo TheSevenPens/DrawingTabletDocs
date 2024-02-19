@@ -2,13 +2,13 @@
 
 Updated: 2023/12/06
 
-## Intro
+## Introduction
 
 I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
 
-## Read the beginner's guide if needed
-
-If you are new to drawing table, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
+{% hint style="info" %}
+If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
+{% endhint %}
 
 ## Video series (in progress)
 
@@ -94,17 +94,11 @@ Drawing with a drawing tablet ideally is very similar to drawing paper. But ther
 Drawing tablets work with:
 
 * Macs
-* PCs running Windows
-* PCs running Linux. More here: [**Using a drawing tablet with Linux**](../guides/linux.md) &#x20;
+* PCs running Windows. More here: [**Using a drawing tablet on Windows**](../guides/operating-systems/windows/using-a-drawing-tablet-on-windows.md) &#x20;
+* PCs running Linux. More here: [**Using a drawing tablet with Linux**](../guides/operating-systems/linux.md) &#x20;
 * iPads to a very limited extent. More here: [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ios-device.md)  &#x20;
-* Android devices to some extent. More here: [**Using a drawing tablet with an Android device**](../guides/general/using-a-drawing-tablet-with-an-android-device.md) &#x20;
-* Chromebooks to some extent. More here: [**Using drawing tablets with Chromebooks**](../guides/general/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
-
-### Windows: 32-bit vs 64-bit&#x20;
-
-If you have a 32-bit Windows computer, you should verify whether the tablet driver works on those systems by contacting their support. Some tablet manufacturers have dropped support in their drivers for those 32-bit Windows systems. This means that you might be forced to use older drivers.
-
-Wacom: [https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-](https://support.wacom.com/hc/en-us/articles/1500006262281-Does-Wacom-support-Windows-32-bit-Operating-Systems-)
+* Android devices to some extent. More here: [**Using a drawing tablet with an Android device**](../guides/operating-systems/using-a-drawing-tablet-with-an-android-device.md) &#x20;
+* Chromebooks to some extent. More here: [**Using drawing tablets with Chromebooks**](../guides/operating-systems/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
 
 ## Applications
 
