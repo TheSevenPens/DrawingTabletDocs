@@ -204,6 +204,7 @@
   * [Troubleshoot computer does not detect display](troubleshooting/troubleshoot-display-detection.md)
   * [Troubleshoot driver no longer supports a drawing tablet](troubleshooting/troubleshoot-driver-no-longer-supports-a-drawing-tablet.md)
   * [Troubleshoot no sound after plugging in drawing tablet](troubleshooting/troubleshoot-no-sound-after-plugging-in-drawing-tablet.md)
+  * [Troubleshoot pen display doesn't show anything](troubleshooting/troubleshoot-pen-display-doesnt-show-anything.md)
   * [Troubleshoot pen acting like a mouse](troubleshooting/troubleshoot-pen-acting-like-a-mouse.md)
 * [Product info](product-info/README.md)
   * [Apple](product-info/apple/README.md)
