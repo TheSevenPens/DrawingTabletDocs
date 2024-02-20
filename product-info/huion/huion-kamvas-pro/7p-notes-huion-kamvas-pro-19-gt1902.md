@@ -151,3 +151,5 @@ But for other areas, the Kamvas Pro 24 4K was already a good pen display. So for
 **Sound** - there's a headphone jack for audio. Some of you may find this convenient.
 
 In Windows if you connect the tablet, it may **appear** that windows has lost sound output. What is happening here is Windows can automatically switch its default audio to a new audio device - which is what this tablet is. Of course, it doesn't have speakers, so you won't hear anything unless you have a headphone connected.&#x20;
+
+**Driver > Active Area mapping on resume from sleep on Windows** - On Windows, when resuming from sleep the Huion driver can occasionally become be confused about how to map the active area of the tablet to the screen. It may choose the wrong screen. It map span across both screens. When it does this it may not track the pen position correctly. This is resolved just by restarting Windows. This is a well-known issue with Huion drivers. Not a serious problem but a minor irritation.&#x20;
