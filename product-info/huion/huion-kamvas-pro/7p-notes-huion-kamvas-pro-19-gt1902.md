@@ -20,6 +20,20 @@ Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD.
 
 **Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) has a slightly soft experience, this Huion has a little more softness than that.
 
+Wacom Cintiq Pro 22&#x20;
+
+&#x20;![](<../../../.gitbook/assets/wacom-cintiq-pro-22-sharpness (1).jpg>)
+
+Huion Kamvas Pro 19
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/huion-kamvas-pro-19-sharpness.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+
+
 **Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%.
 
 **Parallax** - VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation.
