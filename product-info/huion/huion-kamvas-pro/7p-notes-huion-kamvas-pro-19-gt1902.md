@@ -4,7 +4,7 @@
 
 I do recommend this tablet. The drawing experience is the best Huion's ever had.&#x20;
 
-Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD.
+Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a few limitations and minor issues you should be aware of.
 
 ## Basics
 
