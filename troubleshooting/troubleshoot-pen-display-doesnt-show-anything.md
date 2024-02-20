@@ -14,6 +14,8 @@ If your computer does detect the display, but you still see just a back screen, 
 
 Unfortunately this is not an easy or cheap think to repair. Most people simply just get a new tablet or if it is under warranty have the tablet replaced.
 
+* [r/monitors - Anyone know how to fix a extremely dim monitor screen?](https://www.reddit.com/r/Monitors/comments/yg67kk/anyone\_know\_how\_to\_fix\_a\_extremely\_dim\_monitor/) 2022/10/28
+
 ## Check if the display works with another source of display signal
 
 For example, connect it to another computer or X-BOX or DVD player. If you see something, then it tells you that the pen display is capable of showing something but that the problem is somewhere else.&#x20;
