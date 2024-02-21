@@ -38,13 +38,11 @@ Pen tablets are very simple devices compared to pen displays and have fewer thin
 
 ## Cabling (winner: pen tablets)
 
-Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure.
-
-More here: [Connecting a pen display](../guides/pen-displays/connecting-a-pen-display.md)&#x20;
+Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/pen-displays/connecting-a-pen-display.md)&#x20;
 
 ## Pointer lag (winner: pen tablets)
 
-Pen tablets have less pointer lag than pen displays. More here: [lag](../guides/core-features/lag.md) &#x20;
+Pen tablets have less pointer lag than pen displays. More here: [**lag**](../guides/core-features/lag.md) &#x20;
 
 ## Wireless: (winner: pen tablets)
 
@@ -52,7 +50,7 @@ Many  pen tablets are wireless. No pen displays are wireless.
 
 ## Taking notes: (winner: pen displays)
 
-Even though I don't recommend taking notes with pen displays. They are better at it for the simple reason they work more like a pen and paper.
+Even though I don't recommend taking notes with pen displays. They are better at it for the simple reason they work more like a pen and paper. More here: [**taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md).
 
 ## Fall damage: (winner: pen tablet)
 
@@ -60,9 +58,7 @@ A pen tablet will most likely survive falling off your desk. A pen display will 
 
 ## Power requirements (winner: pen tablets)
 
-A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much.
-
-A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster.
+A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much. A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster. More here: [**powering a drawing tablet**](../guides/core-features/powering-a-drawing-tablet.md).&#x20;
 
 ## Being able to see what you draw (winner: pen tablets)
 
@@ -74,17 +70,13 @@ With pen tablets you always see exactly what you are drawing.&#x20;
 
 Pen tablets are considerable thinner and weigh less.
 
-## Drawing experience (winner: pen tablets)
+## Drawing experience (winner: pen displays)
 
-In summary pen displays have these advantages
+Pen displays have a more natural feel: [**The drawing experience**](../guides/the-drawing-experience.md)&#x20;
 
-Much more here: [https://docs.thesevenpens.com/drawtab/guides/the-drawing-experience](https://docs.thesevenpens.com/drawtab/guides/the-drawing-experience)
+## Portability (winner: pen tablets)
 
-## Portability
-
-Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.
-
-Also with a pen display, you will need to protect it more because it is more sensitive to damage.
+Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you. Also with a pen display, you will need to protect it more because it is more sensitive to damage.
 
 ## Videos
 
