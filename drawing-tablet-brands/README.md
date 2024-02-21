@@ -4,16 +4,10 @@
 
 There are many tablet brands. And picking the brand of the tablet is one of the most important decisions you will need to make.
 
-## Video
+Notes:
 
-I covered brands extensively in this video: [https://youtu.be/kw7fKQik3YY](https://youtu.be/kw7fKQik3YY)&#x20;
-
-## Pre-reading
-
-If you are here you may be new to drawing tablets or may want to purchase one. These two guides will help you:
-
-* [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
-* [Buying a drawing tablet](../buying-a-drawing-tablet/)
+* I covered brands extensively in this video in late 2023: [https://youtu.be/kw7fKQik3YY](https://youtu.be/kw7fKQik3YY)&#x20;
+* If you are not familiar with drawing tablets, please read the [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
 
 ## Simplified history
 
@@ -66,7 +60,7 @@ I segment the brands into tiers, to make it easier to steer people to help set e
 * Veikk - [https://www.veikk.com/](https://www.veikk.com/)
 * Parblo&#x20;
 
-**Tier 5** - Everyone else. Avoid&#x20;
+**Tier 5** - Everyone else. Avoid.&#x20;
 
 ## Digitizers vs brands
 
@@ -76,25 +70,15 @@ And despite all the many brands of drawing tablets you see, there are only a cou
 
 * **Wacom**
   * Wacom digitizers are used in their own products.
-* **Hanvon Ugee**.&#x20;
+* **Hanvon Ugee**
   * Supplies digitizers for: Xencelabs and XP-pen tablets
 * **Huion**&#x20;
-  * Supplies digitizers for: Gaomon, Huion, Veikk tablets. And for Artisul taablets through their acquisition of UCLogic.
+  * Supplies digitizers for: Gaomon, Huion, Veikk tablets. And for Artisul tablets through their acquisition of UCLogic.
   * Huion acquired UCLogic in 2019 ([https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.](https://ja.wikipedia.org/wiki/UC-Logic\_Technology\_Corp.))
 
-## Online community forums
+## Online communities
 
-There are some active online forums for drawing tablets such as various subreddits such as:
-
-* [https://www.reddit.com/r/wacom/](https://www.reddit.com/r/wacom/)
-* [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/)&#x20;
-* [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
-* [https://www.reddit.com/r/xencelabs/](https://www.reddit.com/r/xencelabs/)
-* [https://www.reddit.com/r/drawingtablet/](https://www.reddit.com/r/drawingtablet/)&#x20;
-
-In online communities on reddit you may notice that the vast majority of posts are complaints. Do not necessarily be concerned by this. It is true for any online community discussing any product. Most people only post when they have a problem. The completely satisfied users who don't have problems users rarely post about how good or seamless their experience has been.
-
-However it is also true that online forums can be a great source to help you make choices about brands. For example, if you see a lot of questions/problems about a certain model, that should factor into your purchase decision.  &#x20;
+Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [**Drawing tablet communities**](../resources/drawing-tablet-communities.md)  &#x20;
 
 ## Discussions
 
