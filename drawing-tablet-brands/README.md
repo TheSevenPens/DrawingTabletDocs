@@ -15,39 +15,25 @@ If you are here you may be new to drawing tablets or may want to purchase one. T
 * [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
 * [Buying a drawing tablet](../buying-a-drawing-tablet/)
 
-## Simplified and condensed history drawing tablet
+## Simplified history
 
-**1980 - 2000**
+* **1980 - 2000 -** Wacom (founded 1983). Wacom brings the EMR technology to drawing tablets.
+* **2000 - 2020 -** Other tablet brands started appearing in the 2000s (Huion: 2011, XP-Pen: 2005). For a long time these brands lagged behind Wacom’s technology because Wacom held the core patents for drawing tablets.
+* **2010 - 2020 -** Eventually Wacom patents expired (by \~2010?) and then other brands could then use EMR technology to provide the full battery-free experience.
+* **2020 - now -** There are a lot of tablet brands but Wacom still reigns. Xencelabs (founded in 2019) entered the market and specifically targets professional creative users.&#x20;
 
-Wacom (founded 1983). Wacom brings the EMR technology to drawing tablets.
-
-**2000 - 2020**
-
-Other tablet brands started appearing in the 2000s (Huion: 2011, XP-Pen: 2005).
-
-For a long time these brands lagged behind Wacom’s technology because Wacom held the core patents for drawing tablets.
-
-**2010 - 2020**
-
-Eventually Wacom patents expired (by \~2010?) and then other brands could then use EMR technology to provide the full batteryless experience.
-
-**2020 - ?**
-
-There are a lot of tablet brands but Wacom still reigns.&#x20;
-
-Xencelabs (founded: 2019) entered the market and specifically targets professional creative users.&#x20;
-
-## Current state of the market (2023)
+## Current state of the market (2024)
 
 * **Wacom** continues to make the highest quality and most reliable tablets. But also they are the most expensive
   * Wacom's pro line of pen tablets (Intuos pro) continue to be the best pen tablets ever made
   * Wacom's pro line of pen displays (Cintiq pro) continue to be the best pen displays ever made
-* **Huion and XP-pen** since about 2021 have been releasing some really solid devices
+* **Huion and XP-pen** since about 2021 have been releasing solid devices
   * And although they have a large lineup of products that can be a little confusing
-  * And if you're looking at their very latest tablets that are being released in 2022 or 2023 - these very latest models are especially strong contenders both in the consumer and in the professional space. And they tend to costs much less.
-* **Others**
-  * After Wacom, Huion, XP-Pen, there are many other brands that focus on budget or consumer tablets.&#x20;
-  * **Xencelabs** (founded 2019) - a new brand focused only on professional tablets and have a very strong focus on customer support.
+  * In 2023 and 2024 Huion and XP have released models with upgraded tech that are challenging Wacom's professional line. These include:
+    * Huion:Kamvas Pro 19, Kamvas Pro 27
+    * XP-Pen: Deco Pro GEN2, Artist Pro GEN2
+* **Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support.
+* **Others -** After Wacom, Huion, XP-Pen, there are many other brands that focus on budget or consumer tablets.&#x20;
 
 ## Customer support
 
