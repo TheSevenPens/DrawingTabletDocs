@@ -209,7 +209,7 @@
 * [Product info](product-info/README.md)
   * [Apple](product-info/apple/README.md)
     * [7P notes: Apple iPad](product-info/apple/using-an-ipad-as-a-drawing-tablet.md)
-    * [7P notes: Apple iPad Pro](product-info/apple/7p-notes-apple-ipad-pro.md)
+    * [7P notes: How I use iPads](product-info/apple/7p-notes-how-i-use-ipads.md)
   * [Gaomon](product-info/gaomon/README.md)
     * [Gaomon Pen Tablet](product-info/gaomon/gaomon-pen-tablet.md)
     * [Gaomon Pro Pen Tablet](product-info/gaomon/gaomon-pro-pen-tablet.md)

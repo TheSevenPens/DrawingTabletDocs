@@ -2,7 +2,7 @@
 
 ## Apple iPad
 
-* [7P notes: Apple iPad Pro](7p-notes-apple-ipad-pro.md) &#x20;
+* [7P notes: Apple iPad Pro](7p-notes-how-i-use-ipads.md) &#x20;
 
 ## Apple Pencil USB-C
 
