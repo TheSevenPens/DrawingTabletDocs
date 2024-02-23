@@ -167,6 +167,7 @@
   * [Kleki](applications/kleki.md)
   * [Krita](applications/krita.md)
   * [Medibang Paint](applications/medibang.md)
+  * [Medibang Paint Pro](applications/medibang-1.md)
   * [Microsoft Whiteboard](applications/microsoft-whiteboard.md)
   * [Microsoft PowerPoint](applications/microsoft-powerpoint.md)
   * [Microsoft OneNote](applications/microsoft-onenote.md)

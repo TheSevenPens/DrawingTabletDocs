@@ -30,7 +30,8 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**Krita**](krita.md)  (Windows, Linux, MacOS) <mark style="background-color:purple;">**FREE**</mark>
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
-* [**Medibang**](medibang.md) (Windows, MacOS)
+* [**Medibang Paint**](medibang.md) (Windows, MacOS)
+* Medibang Pro (iOS)
 * [**Paint Tool Sai**](painttool-sai.md)  (Windows)
 * [**Painter**](painter.md)  (Windows, MacOS)
 * [**Paintstorm Studio**](paintstorm-studio.md)  (Windows, macOS, iOS, Linux)
