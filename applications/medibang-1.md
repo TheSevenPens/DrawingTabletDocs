@@ -1,6 +1,7 @@
-# Medibang Paint Pro
+# Medibang Pro
 
-* Medibang Pro
+## Basic
+
 * Platforms: iOS
 
 ## Videos

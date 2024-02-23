@@ -31,7 +31,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
 * [**Medibang Paint**](medibang.md) (Windows, MacOS)
-* Medibang Pro (iOS)
+* [Medibang Pro](medibang-1.md) (iOS)
 * [**Paint Tool Sai**](painttool-sai.md)  (Windows)
 * [**Painter**](painter.md)  (Windows, MacOS)
 * [**Paintstorm Studio**](paintstorm-studio.md)  (Windows, macOS, iOS, Linux)

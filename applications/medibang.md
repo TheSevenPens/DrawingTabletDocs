@@ -1,6 +1,8 @@
 # Medibang Paint
 
-* Site: [https://medibangpaint.com/en/](https://medibangpaint.com/en/)
+## Basics
+
+* Site: [https://medibangpaint.com/en/pc/](https://medibangpaint.com/en/pc/)&#x20;
 * Platforms: Windows, macOS, iOS, Android
 
 ## Videos
