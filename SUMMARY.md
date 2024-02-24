@@ -50,7 +50,7 @@
     * [Pen hover](guides/core-features/pen-hover.md)
     * [Pen tracking](guides/core-features/pen-tracking.md)
     * [Pen barrel rotation](guides/core-features/pen-barrel-rotation.md)
-    * [Pen nib retraction](guides/core-features/pen-nib-retraction.md)
+    * [Pen nib travel](guides/core-features/pen-nib-travel.md)
     * [Lag](guides/core-features/lag.md)
     * [Diagonal wobble](guides/core-features/diagonal-wobble.md)
     * [Surface texture](guides/core-features/surface-texture.md)
