@@ -7,7 +7,7 @@ There are many tablet brands. And picking the brand of the tablet is one of the 
 Notes:
 
 * I covered brands extensively in this video in late 2023: [https://youtu.be/kw7fKQik3YY](https://youtu.be/kw7fKQik3YY)&#x20;
-* If you are not familiar with drawing tablets, please read the [Beginner's guide to drawing tablets](../basics/beginners-guide.md)
+* If you are not familiar with drawing tablets, please read the [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
 
 ## Simplified history
 

@@ -31,7 +31,7 @@ In the tablet driver, try dragging the lower left point of the pressure curve to
 
 **If nothing helps**
 
-If the problem continues, then [**contact support**](../basics/contacting-support.md).
+If the problem continues, then [**contact support**](../guides/general/contacting-support.md).
 
 
 

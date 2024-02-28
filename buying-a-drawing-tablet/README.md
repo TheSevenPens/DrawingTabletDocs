@@ -5,7 +5,7 @@
 I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
 
 {% hint style="info" %}
-If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md). This buying guide builds on the beginner's guide.
+If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
 {% endhint %}
 
 ## Video series (in progress)
@@ -98,10 +98,10 @@ Drawing tablets work with:
 
 ## Usage scenarios
 
-* **Drawing** - Drawing with a drawing tablet very similar to but different from drawing on paper. And there is a big difference between how it feels to draw with pen displays versus pen tablets. You must understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../guides/the-drawing-experience.md) and here [**Learning digital art**](../basics/learning-digital-art.md)
-* **Taking notes** - I don't typically recommend drawing tablets for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../basics/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
-* **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../basics/use-cases/making-educational-videos-with-a-drawing-tablet.md)
-* **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/use-cases/gaming-with-a-drawing-tablet.md)&#x20;
+* **Drawing** - Drawing with a drawing tablet very similar to but different from drawing on paper. And there is a big difference between how it feels to draw with pen displays versus pen tablets. You must understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../basics/the-drawing-experience.md) and here [**Learning digital art**](../guides/learning-digital-art.md)
+* **Taking notes** - I don't typically recommend drawing tablets for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+* **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../guides/use-cases/making-educational-videos-with-a-drawing-tablet.md)
+* **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../guides/use-cases/gaming-with-a-drawing-tablet.md)&#x20;
 * **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](buying-a-drawing-tablet-for-osu.md) &#x20;
 
 ## Applications
@@ -130,5 +130,5 @@ General guidelines:&#x20;
 * **Troubleshooting -** At some point, something is going to go wrong. I highly suggest you familiarize yourself with the [**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md) and be aware of these [**Troubleshooting guides**](../troubleshooting/).
 * **Accessories** - There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessories/)
 * **Purchasing** - Before you actually purchase the tablet. Go through this [**Before-purchase checklist**](before-purchase-checklist.md).
-* **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/get-started-with-a-drawing-tablet.md)&#x20;
+* **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../guides/get-started-with-a-drawing-tablet.md)&#x20;
 * **Maintenance** - Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).

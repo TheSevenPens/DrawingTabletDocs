@@ -2,7 +2,7 @@
 
 ## Overview
 
-If you are new to drawing tablets, I suggest you read the [**beginner's guide**](../basics/beginners-guide.md).&#x20;
+If you are new to drawing tablets, I suggest you read the [**beginner's guide**](../guides/beginners-guide.md).&#x20;
 
 Below, here are tablets I would personally recommend separated by device type. These recommendations are centered around using the tablets for **drawing**.
 

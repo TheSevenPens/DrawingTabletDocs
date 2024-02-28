@@ -85,7 +85,7 @@ Sometimes just waiting out the problem is all you can do. Some people report tha
 
 ## Still not solved?
 
-If none of these suggestions are helping, then [**contact support**](../basics/contacting-support.md).
+If none of these suggestions are helping, then [**contact support**](../guides/general/contacting-support.md).
 
 ## Notes
 

@@ -13,4 +13,4 @@ Most people buy drawing tablet to create digital art. I've collected some links 
 
 ## Equipment
 
-* [Laptops for digital art](../guides/laptops-for-digital-art.md) &#x20;
+* [Laptops for digital art](laptops-for-digital-art.md) &#x20;

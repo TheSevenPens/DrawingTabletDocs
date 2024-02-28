@@ -81,21 +81,21 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 ## Core features&#x20;
 
-* **Tracking pen position** - any modern drawing tablet does a good job with this. Learn more here: [**Pen tracking**](../guides/core-features/pen-tracking.md)&#x20;
-* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [**Pen hover**](../guides/core-features/pen-hover.md)&#x20;
-* **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](../guides/core-features/pen-pressure.md).&#x20;
-* **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](../guides/core-features/pen-tilt.md).
-* **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](../guides/pens/pen-buttons.md)&#x20;
-* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](../guides/core-features/expresskeys.md) &#x20;
-* **Touch** - A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. More here: [touch support](../guides/touch-support.md)&#x20;
+* **Tracking pen position** - any modern drawing tablet does a good job with this. Learn more here: [**Pen tracking**](core-features/pen-tracking.md)&#x20;
+* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [**Pen hover**](core-features/pen-hover.md)&#x20;
+* **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](core-features/pen-pressure.md).&#x20;
+* **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](core-features/pen-tilt.md).
+* **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](pens/pen-buttons.md)&#x20;
+* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](core-features/expresskeys.md) &#x20;
+* **Touch** - A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. More here: [touch support](touch-support.md)&#x20;
 
 ## The active area
 
-The active area is the region on the tablet that your draw on. More here: [**active area**](../guides/core-features/active-area.md).
+The active area is the region on the tablet that your draw on. More here: [**active area**](core-features/active-area.md).
 
 ## Tablet size
 
-When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](../guides/core-features/choosing-the-right-tablet-size.md)
+When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](core-features/choosing-the-right-tablet-size.md)
 
 ## Drivers
 
@@ -105,7 +105,7 @@ When you connect a tablet to your computer, the computer needs to know how to us
 
 All **pen tablets** can be connected with a single USB cable. Many pen tablets (but not all) can be connected wirelessly - for example via Bluetooth.&#x20;
 
-**Pen displays** do NOT have any wireless options. There is always at least one cable used with a pen display. Pen displays are more varied than pen tablets in how the cabling works. In truth, connecting a pen display can be very complicated. It's very important you understand how a pen display will connect to your computer before you purchase a pen display. More here: [**connecting a pen display to a computer**](../guides/pen-displays/connecting-a-pen-display.md)&#x20;
+**Pen displays** do NOT have any wireless options. There is always at least one cable used with a pen display. Pen displays are more varied than pen tablets in how the cabling works. In truth, connecting a pen display can be very complicated. It's very important you understand how a pen display will connect to your computer before you purchase a pen display. More here: [**connecting a pen display to a computer**](pen-displays/connecting-a-pen-display.md)&#x20;
 
 ## Applications
 
@@ -115,17 +115,17 @@ If the tablet driver is installed, then **Pen-aware applications** take advantag
 
 ## Pen nibs
 
-At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [**nib wear**](../guides/caring-for-your-tablet/nib-wear.md)  &#x20;
+At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [**nib wear**](caring-for-your-tablet/nib-wear.md)  &#x20;
 
 ## Drawing with a tablet vs a mouse
 
-A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](../guides/core-features/absolute-versus-relative-positioning.md).
+A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md).
 
-Using the tablet driver, you can make tablet and pen work more like a mouse by using [**mouse mode**](../guides/core-features/mouse-mode.md).
+Using the tablet driver, you can make tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
 
 ## Electromagnetic Resonance (EMR)
 
-The fundamental technology behind drawing tablets is called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](../guides/advanced/emr-tab-tech.md)&#x20;
+The fundamental technology behind drawing tablets is called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
 
 ## Other topics to explore
 
