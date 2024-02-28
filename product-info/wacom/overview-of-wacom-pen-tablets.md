@@ -58,6 +58,10 @@ Of the pens identified, the Wacom Pro Pen 2 is the best in terms of design, mate
 
 </div>
 
+## Overall drawing experience
+
+All of the tablets except the Wacom One GEN2 tablets have a very very good drawing experience. The Intuos Pro PTH-x860 series definitely the best of all of them though - largely driven by the amazing pressure handling of the Wacom Pro Pen 2.&#x20;
+
 ## Pen pressure
 
 Learn more here: [**Pen pressure**](../../guides/core-features/pen-pressure.md) &#x20;
@@ -76,7 +80,7 @@ Notes:
 * Learn more about [**pen pressure**](../../guides/core-features/pen-pressure.md)&#x20;
 * Learn more about how [**pen pressure ranges compare across pens**](../../guides/core-features/pen-pressure-range-comparison.md)  &#x20;
 
-
+##
 
 ## Pen Tilt
 
