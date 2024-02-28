@@ -14,6 +14,14 @@ In some tablets the model number is printed, but in a more hidden location. For 
 
 Occasionally, you may find that the model number has been worn off the tablet. In this case, you'll have to try other options.
 
+Here's an example from the packaging of the XP-Pen Deco LW
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/PXL_20240228_060309518.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
 ## Model number is shown in the driver
 
 If you have installed compatible tablet drivers for your drawing tablet usually there's some place where the drivers will tell you the exact model number.
@@ -54,13 +62,21 @@ As of 2024/02/27 the driver app does not provide any way to see the model number
 
 If you got your tablet inside its original packaging, the model number may be printed somewhere.
 
+Here's an example from the packaging of the Huion Inspiroy 2 L.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/PXL_20240228_060224168.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 ## Find the model number in the documentation
 
 If you have the original documentation that came with the tablet, it might also contain the model number.
 
 ## Find the model number based on photos
 
-sometimes you don't have the driver and you don't see the model number so you're going to have to go just by the way the device looks.
+Sometimes you don't have the driver and you don't see the model number so you're going to have to go just by the way the device looks.
 
 And for this you need the help of either customer support from your drawing tablet manufacturer or you need help from the community.
 
