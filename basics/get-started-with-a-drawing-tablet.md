@@ -10,7 +10,7 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 
 ## Get prepped
 
-* Make sure you know how to [**contact support**](general/contacting-support.md) for your tablet manufacturer&#x20;
+* Make sure you know how to [**contact support**](contacting-support.md) for your tablet manufacturer&#x20;
 * Read the manual for your tablet. You don't need to even open the box. You can download the manual from the manufacturer website.
 
 ## Don't drop the pen
@@ -25,13 +25,13 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 * You can go to the manufacturer site and download the driver and install now before your tablet even arrives.&#x20;
 * If the tablet driver is installed, when you connect the tablet with USB cable the driver will just detect the tablet and the pen will work as soon as it comes close to the tablet (about 10mm)
 * The drivers install an app you can use to configure the driver. The apps have different names depending on your tablet brand
-* More here: [**drivers**](drivers/)
+* More here: [**drivers**](../guides/drivers/)
 
 ## Connect the tablet
 
 * Pen tablet - There will be a simple USB cord. These days the cords are all USB-C cords.
   * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first
-* Pen display - There are several options. See [**connecting a pen display**](pen-displays/connecting-a-pen-display.md)
+* Pen display - There are several options. See [**connecting a pen display**](../guides/pen-displays/connecting-a-pen-display.md)
 
 ## The NO SIGNAL problem with pen displays
 
@@ -53,7 +53,7 @@ If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Tr
   * Huion calls this the "Working Area"
   * I will always call it the "active area" because that is the oldest term for it.
 * Go into the driver and and find the active area and get familiar with what it looks like. It's one of the most common things you'll need to adjust.
-* More here: [**Active Area**](core-features/active-area.md)
+* More here: [**Active Area**](../guides/core-features/active-area.md)
 
 ## Map the Active Area to a single display
 
@@ -65,11 +65,11 @@ If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Tr
 
 * This step is needed for pen tablets (the ones without a screen). You don't have to do this for other kinds of tablets.&#x20;
 * <mark style="color:red;">**This step is important for pen tablets.**</mark> If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
-* Change the active area settings to use the same aspect ratio as the screen. Explanation and instruction here: [**Matching aspect ratios**](core-features/matching-aspect-ratios.md).&#x20;
+* Change the active area settings to use the same aspect ratio as the screen. Explanation and instruction here: [**Matching aspect ratios**](../guides/core-features/matching-aspect-ratios.md).&#x20;
 
 ## Windows&#x20;
 
-* Perform this configuration: [**Disable the press-and-hold ring in Windows**](operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
+* Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
 
 ## Apps
 

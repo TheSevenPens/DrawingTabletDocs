@@ -50,7 +50,7 @@ Many  pen tablets are wireless. No pen displays are wireless.
 
 ## Taking notes: (winner: pen displays)
 
-Even though I don't recommend taking notes with pen displays. They are better at it for the simple reason they work more like a pen and paper. More here: [**taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md).
+Even though I don't recommend taking notes with pen displays. They are better at it for the simple reason they work more like a pen and paper. More here: [**taking notes with drawing tablets**](../basics/use-cases/taking-notes-with-drawing-tablets.md).
 
 ## Fall damage: (winner: pen tablet)
 
