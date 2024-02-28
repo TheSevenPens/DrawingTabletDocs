@@ -1,4 +1,4 @@
-# Finding the drawing tablet model number
+# Finding the model number of a drawing tablet
 
 ## Overview
 
