@@ -34,10 +34,20 @@ Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a
 
 **Single USB-C cable connection?**
 
+No ... but some people have made it work.
+
+This gets a little confusing. Let me summarize buy saying: (1) I have not gotten it to work with 1 cable and (2) at least one person has. (3) And as of 2024/02/28 Huion's documentation on this topic indicates that the tablet does require an additional cable for power.&#x20;
+
 I could not use it with a single USB-C cable. Huion did not say that single-cable operation was a feature - so I am not surprised. Tablets above 16 inches generally require additional power.
 
 * Power: I have it connected with its USB-C power cable to the provided power adapter.
 * Data and display signal: I used the supplied USB-C cable to connect it to my Microsoft Surface Thunderbolt Dock. I connected the dock to a Microsoft Surface Pro 8. For MacOS testing I connected the dock to an M3 MacBook Pro.
+
+However this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/)
+
+And here is Huion's document where they list the tablet as requiring additional power:
+
+[https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)
 
 **Using third party USB-C cables for display signal & data**
 
