@@ -6,7 +6,7 @@ Read it to clearly understand these things:
 
 * How to install the driver&#x20;
 * Verify how it will connect to your computer this is especially important if you are using a pen display.
-  * For a pen display, you may want to use it with a single USB-C cable. Verify this in the manual. and if your computer has a USB-C port that supports DP-Alt Mode. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display.md).
+  * For a pen display, you may want to use it with a single USB-C cable. Verify this in the manual. and if your computer has a USB-C port that supports DP-Alt Mode. More here: [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display.md).
 * If the tablet supports wireless, how to initiate a wireless connection &#x20;
 
 ## **Be prepared to handle common problems**

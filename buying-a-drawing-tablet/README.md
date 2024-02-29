@@ -64,7 +64,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 ## Pen display topics
 
-* **Connection** - Make sure you have an understanding of [**how a pen display is going to connect to your computer**](../guides/pen-displays/connecting-a-pen-display.md). SOME pen displays work with only a single USB-C cable. Some don't. Even if a pen display support its, your computer may not. More here: [**Connecting a pen display with one USB-C cable**](../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md) &#x20;
+* **Connection** - Make sure you have an understanding of [**how a pen display is going to connect to your computer**](../guides/connections-and-cabling/connecting-a-pen-display.md). SOME pen displays work with only a single USB-C cable. Some don't. Even if a pen display support its, your computer may not. More here: [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md) &#x20;
 * **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them. This will produce a kind sparkle effect. Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. More here: [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).  &#x20;
 * **Display resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. This is another thing, some people are more sensitive to. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;

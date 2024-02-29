@@ -38,7 +38,7 @@ Pen tablets are very simple devices compared to pen displays and have fewer thin
 
 ## Cabling (winner: pen tablets)
 
-Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/pen-displays/connecting-a-pen-display.md)&#x20;
+Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
 
 ## Pointer lag (winner: pen tablets)
 

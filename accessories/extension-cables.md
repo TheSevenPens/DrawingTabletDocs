@@ -6,7 +6,7 @@ Sometimes your cable's just aren't long enough. to solve that problem you can pu
 
 You just have to make sure that the cable you purchase supports what you need. For example, an extension cable for a pen tablet is very easy to Purchas because a pen tablet doesn't require much power or data. However, if you want to use an USB-C extension cable for a pen display, you may need to ensure that is supports sending enough power or a display signal depending on hwo you intend to use the cable.
 
-To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../guides/pen-displays/connecting-a-pen-display.md).
+To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md).
 
 ## The extension cable I use for pen displays
 

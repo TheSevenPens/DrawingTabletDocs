@@ -50,7 +50,7 @@ More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md)&#x2
 
 **Single USB-C cable connection?**
 
-YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md)
+YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)
 
 ## **Basics**
 

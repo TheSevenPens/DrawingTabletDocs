@@ -139,7 +139,7 @@ The other 3 ends are:
 
 ## Connecting with one USB-C cable
 
-For both tablets, I was able to use a single USB-C cable to connect them to the computer. More here: [Connecting a pen display with one USB-C cable](../../guides/pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
+For both tablets, I was able to use a single USB-C cable to connect them to the computer. More here: [Connecting a pen display with one USB-C cable](../../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
 
 
 

@@ -10,7 +10,7 @@ It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
 
 ## **DP alt mode support**
 
-To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](usb-c-displayport-alt-mode.md)&#x20;
+To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md)&#x20;
 
 ## Power support
 

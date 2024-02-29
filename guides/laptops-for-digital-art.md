@@ -16,7 +16,7 @@ These are based my experience doing on doing 2D illustration using Krita and Cli
 
 ## Connecting to a pen display
 
-Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](pen-displays/connecting-a-pen-display.md)&#x20;
+Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](connections-and-cabling/connecting-a-pen-display.md)&#x20;
 
 ## Notes on power consumption
 

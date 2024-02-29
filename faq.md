@@ -106,7 +106,7 @@ Answer: YES, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to y
 
 ### Q: How do I connect my pen to my drawing tablet?
 
-More here: [Connecting a pen to a drawing tablet](guides/pens/connecting-a-pen-to-a-drawing-tablet.md)
+More here: [Connecting a pen to a drawing tablet](guides/connections-and-cabling/connecting-a-pen-to-a-drawing-tablet.md)
 
 ## Drivers
 

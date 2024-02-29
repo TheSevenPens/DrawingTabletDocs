@@ -21,7 +21,7 @@ I don't use these devices myself. Here are some popular ones.
 
 * **Connection.** Pen displays need to be connected to a computer. Although many pen tablets can work wirelessly.
 * **Power.** Pen displays need to be connected to a significant source of power. Even if the tablet can get power from a computer, a laptop may not supply enough power (even if the laptop is plugged into power) or the power requirement may drain the laptop battery quickly.
-* **Complex connection.** Ideally you would use a single cable to connect a pen display to a computer. But for various reasons this is not always possible. As an alternative you may be required to have a more complex cabling arrangement - often using a 3-in-1 cable. More here about [**using one USB-C cable with a pen display**](../pen-displays/connecting-a-pen-display-with-one-usb-c-cable.md).&#x20;
+* **Complex connection.** Ideally you would use a single cable to connect a pen display to a computer. But for various reasons this is not always possible. As an alternative you may be required to have a more complex cabling arrangement - often using a 3-in-1 cable. More here about [**using one USB-C cable with a pen display**](../connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md).&#x20;
 * **Pointer lag.** Pen displays have a lot of pointer lag - this can be very difficult to deal with when taking notes - especially if you write fast. More here: [**lag**](../core-features/lag.md) &#x20;
 * **Dropping the tablet.** If you are note taking in a location where you might drop your pen display, in many cases you will either experience a cracked screen or simply break the tablet entirely. &#x20;
 

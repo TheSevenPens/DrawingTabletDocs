@@ -105,7 +105,7 @@ When you connect a tablet to your computer, the computer needs to know how to us
 
 All **pen tablets** can be connected with a single USB cable. Many pen tablets (but not all) can be connected wirelessly - for example via Bluetooth.&#x20;
 
-**Pen displays** do NOT have any wireless options. There is always at least one cable used with a pen display. Pen displays are more varied than pen tablets in how the cabling works. In truth, connecting a pen display can be very complicated. It's very important you understand how a pen display will connect to your computer before you purchase a pen display. More here: [**connecting a pen display to a computer**](pen-displays/connecting-a-pen-display.md)&#x20;
+**Pen displays** do NOT have any wireless options. There is always at least one cable used with a pen display. Pen displays are more varied than pen tablets in how the cabling works. In truth, connecting a pen display can be very complicated. It's very important you understand how a pen display will connect to your computer before you purchase a pen display. More here: [**connecting a pen display to a computer**](connections-and-cabling/connecting-a-pen-display.md)&#x20;
 
 ## Applications
 

@@ -31,7 +31,7 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 
 * Pen tablet - There will be a simple USB cord. These days the cords are all USB-C cords.
   * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first
-* Pen display - There are several options. See [**connecting a pen display**](pen-displays/connecting-a-pen-display.md)
+* Pen display - There are several options. See [**connecting a pen display**](connections-and-cabling/connecting-a-pen-display.md)
 
 ## The NO SIGNAL problem with pen displays
 

@@ -15,7 +15,7 @@ We need to account for 4 things to use a pen display.
 
 ## Display connector types
 
-This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](display-connector-types.md) before you continue.
+This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](../pen-displays/display-connector-types.md) before you continue.
 
 ## Cabling options
 
@@ -40,7 +40,7 @@ The 2 cable setup is how I use my Wacom Cintiq Pro 27.&#x20;
 
 ### Option D: 3-in-one cable
 
-This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](../../accessories/cables/3-in-1-cables-for-drawing-tablets.md)
+This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](3-in-1-cables-for-drawing-tablets.md)
 
 ## Connecting via HDMI
 
@@ -103,7 +103,7 @@ Second, both motherboard HDMI and the graphics card need to use memory to do the
 
 ## What if you don't have any HDMI ports?
 
-If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](using-hdmi-adapters-with-pen-displays.md)&#x20;
+If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../pen-displays/using-hdmi-adapters-with-pen-displays.md)&#x20;
 
 ## Dealing with NO SIGNAL
 

@@ -40,7 +40,7 @@ Some pen displays have a variety of inputs. The Wacom Cintiq pro 27 DTH271 is a 
 
 But most modern pen displays now have only USB-C ports - usually two. One for a display signal & data and one for additional power if needed.
 
-See: [**Connecting a pen display**](connecting-a-pen-display.md)&#x20;
+See: [**Connecting a pen display**](../connections-and-cabling/connecting-a-pen-display.md)&#x20;
 
 ## Aspect ratio
 
