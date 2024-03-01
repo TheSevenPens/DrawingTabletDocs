@@ -60,11 +60,9 @@ A pen tablet will most likely survive falling off your desk. A pen display will 
 
 A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much. A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster. More here: [**powering a drawing tablet**](../guides/core-features/powering-a-drawing-tablet.md).&#x20;
 
-## Being able to see what you draw (winner: pen tablets)
+## Hand hiding what you are drawing (winner: pen tablet)
 
-Just like pen-and-paper, using a pen display means you will be seeing your hand and the pen. This pens that your hand and pen are covering up what you are drawing. Some people find this a bit irritating.
-
-With pen tablets you always see exactly what you are drawing.&#x20;
+Just like pen-and-paper, using a pen display means you will be seeing your hand and pen above what you draw.. This means that your hand and pen are covering up what you are drawing. Some people find this a bit irritating - but of course it is the same as what happens with paper IRL.
 
 ## Physical size and weight (winner: pen tablets)
 
