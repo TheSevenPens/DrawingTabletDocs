@@ -12,7 +12,7 @@ Learn more about the active area here:
 
 ## Companion Video
 
-{% embed url="https://youtu.be/lGAhzRcMS3s" %}
+{% embed url="https://youtu.be/lGAhzRcMS3s" fullWidth="false" %}
 
 ## Size categories
 
@@ -71,22 +71,7 @@ Watch this video to learn about the reality of using EXTRA LARGE pen tablets:&#x
 
 ## Matching pen tablet size to monitor size
 
-There is a relationship between the size of a pen tablet and the size of your monitor that you should pay attention to. They both have different sizes and certain combinations may work better than others.
-
-My general guidance works out like this:
-
-| Pen tablet Size Catgogory | Monitor Size |
-| ------------------------- | ------------ |
-| Extra Large (23")         | 40" - 50"    |
-| Large (15")               | 30" - 40"    |
-| Medium (11")              | 20" - 30"    |
-| Small (7")                | 20" - 25"    |
-
-This table is based on my preferences - you might find you find that difference combinations work better.
-
-This video helps explain the thinking behind it:
-
-{% embed url="https://www.youtube.com/watch?v=HWyCl6JwSAw" %}
+If you have a pen tablet (which does not have a screen), then you use it with a monitor. You should consider the relationship between these two sizes. I find that that relationship influences how it feels to draw on the pen tablet. A much more detailed explanation is here: [**Matching pen tablet size to monitor size**](choosing-the-right-tablet-size.md#matching-pen-tablet-size-to-monitor-size)
 
 ## Pen display size
 
@@ -95,6 +80,8 @@ This video helps explain the thinking behind it:
 * I think the best balance is around 20" to 22" - these provide enough space to draw on without being to cumbersome, occupying too much space on a desk, or being difficult to move.
 * **LARGE (24")** are great but they do occupy a lot of space so ensure you have a desk that is big enough.
 * **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch of the display, the more anti-glare sparkle you will notice. For example using the same anti-glare treatment a 4K 24" display will show less AG sparkle, than a 4K 16" display.&#x20;
+
+##
 
 ## **Videos**
 

@@ -65,6 +65,7 @@
     * [Absolute versus relative positioning](guides/core-features/absolute-versus-relative-positioning.md)
     * [Mouse mode](guides/core-features/mouse-mode.md)
     * [Powering a drawing tablet](guides/core-features/powering-a-drawing-tablet.md)
+    * [Matching pen tablet size to monitor size](guides/core-features/matching-pen-tablet-size-to-monitor-size.md)
     * [Choosing the right tablet size](guides/core-features/choosing-the-right-tablet-size.md)
   * [Connections and cabling](guides/connections-and-cabling/README.md)
     * [3-in-1 cables for drawing tablets](guides/connections-and-cabling/3-in-1-cables-for-drawing-tablets.md)
