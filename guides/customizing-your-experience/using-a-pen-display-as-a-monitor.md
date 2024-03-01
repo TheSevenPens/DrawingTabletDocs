@@ -30,7 +30,7 @@ Specific pen displays I have used this way (each has been continuously turned on
 
 ## Refresh Rate
 
-Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [**Pen display refresh rate**](pen-display-refresh-rate.md)&#x20;
+Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [**Pen display refresh rate**](../pen-displays/pen-display-refresh-rate.md)&#x20;
 
 ## Display inputs and cabling
 
@@ -78,7 +78,7 @@ Modern pen displays tend to support getting power via their USB C ports. &#x20;
 
 It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle.
 
-More here: [**Anti-glare sparkle**](anti-glare-sparkle.md)
+More here: [**Anti-glare sparkle**](../pen-displays/anti-glare-sparkle.md)
 
 ## Speakers
 

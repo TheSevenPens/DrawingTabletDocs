@@ -13,8 +13,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 * MEDIUM [**Huion Inspiroy 2 M (H951P)**](../product-info/huion/huion-inspiroy-2/) $70 <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * MEDIUM [**Huion Inspiroy RTP-700**](../product-info/huion/huion-inspiroy-r-series/)  $93 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-r-series/7p-notes-huion-inspiroy-rtp-700.md))
 * MEDIUM [**One by Wacom Medium**](../product-info/wacom/one-by-wacom/) (CTL-672) $100 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-one-by-wacom-medium-ctl-672.md))
-* MEDIUM [**Huion Inspiroy 2 L (H1061P)** ](../product-info/huion/huion-inspiroy-2/)$90 <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-2/7p-notes-huion-inspiroy-2-l-h1061p.md)**)**
-*
+* MEDIUM [**Huion Inspiroy 2 L (H1061P)** ](../product-info/huion/huion-inspiroy-2/)$90 <mark style="color:red;">**NOT RECOMMENDED**</mark>** (**[<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-2/7p-notes-huion-inspiroy-2-l-h1061p.md)**)**&#x20;
 
 ## $100 to $200
 
@@ -37,6 +36,4 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 ## Change log
 
 * 2024/02/04 Removed [**Huion HS611**](broken-reference) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy/7p-notes-huion-hs611.md)) from the recommended list.&#x20;
-
-
 

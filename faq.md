@@ -22,7 +22,7 @@ YES, It is possible, but be prepared for potential limitations. Read more here: 
 
 ### Q: What size drawing tablet should I get?
 
-See the full write up here: [tablet size](guides/core-features/choosing-the-right-tablet-size.md)
+See the full write up here: [tablet size](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
 
 ### Q: Should I update the tablet firmware?
 
@@ -44,7 +44,7 @@ Read more here: [anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md).
 
 ### Q: Can I use a pen display as a normal monitor?
 
-Answer: YES. But there are some things you should consider if you want to use it this way: [**Using a pen display as a monitor**](guides/pen-displays/using-a-pen-display-as-a-monitor.md)
+Answer: YES. But there are some things you should consider if you want to use it this way: [**Using a pen display as a monitor**](guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md)
 
 ### Q: Why does my pen display show an after image?
 
@@ -56,11 +56,11 @@ This is not a permanent change and is not screen burn in ([https://en.wikipedia.
 
 Answer: YES.
 
-More here: [Using a pen display as a pen tablet](guides/pen-displays/using-a-pen-display-as-a-pen-tablet.md)&#x20;
+More here: [Using a pen display as a pen tablet](guides/customizing-your-experience/using-a-pen-display-as-a-pen-tablet.md)&#x20;
 
 ### Q: How do I make my pen display mirror what is on my monitor?
 
-See this: [Mirroring or extending your desktop to a pen display](guides/pen-displays/mirroring-or-extending-your-desktop-to-a-pen-display.md)&#x20;
+See this: [Mirroring or extending your desktop to a pen display](guides/customizing-your-experience/mirroring-or-extending-your-desktop-to-a-pen-display.md)&#x20;
 
 ### Q: How do I enable mouse mode on a pen display?
 
@@ -102,7 +102,7 @@ See this guide: [Dealing with water damage](guides/caring-for-your-tablet/dealin
 
 ### Q: Can I use a metal nib with my pen?
 
-Answer: YES, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [**Using Metal Nibs**](guides/pens/using-metal-nibs.md)
+Answer: YES, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [**Using Metal Nibs**](guides/customizing-your-experience/using-metal-nibs.md)
 
 ### Q: How do I connect my pen to my drawing tablet?
 

@@ -6,9 +6,9 @@ The way we measure a tablets size is NOT the physical size of the device. Instea
 
 Learn more about the active area here:
 
-* [**Active area**](active-area.md) &#x20;
-* [**Active area size**](active-area-size.md)
-* [**Active area aspect ratio**](active-area-aspect-ratio.md)
+* [**Active area**](../core-features/active-area.md) &#x20;
+* [**Active area size**](../core-features/active-area-size.md)
+* [**Active area aspect ratio**](../core-features/active-area-aspect-ratio.md)
 
 ## Companion Video
 

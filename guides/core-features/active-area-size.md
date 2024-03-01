@@ -10,7 +10,7 @@ As a rectangular region, we can discuss the size of the active area in different
 
 But most often we will talk about active area sizes using the **diagonal length**.
 
-If you need help picking the right size for your tablet, consult [**choosing the right tablet size**](choosing-the-right-tablet-size.md).
+If you need help picking the right size for your tablet, consult [**choosing the right tablet size**](../customizing-your-experience/choosing-the-right-tablet-size.md).
 
 ## Size in tablet names
 

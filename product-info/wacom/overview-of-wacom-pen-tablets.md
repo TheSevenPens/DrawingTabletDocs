@@ -33,7 +33,7 @@ The Wacom One GEN2 pen are intended to be upgrades to the consumer-level Intuos 
 * **Want the best and don't care about the cost.** Either:
   * Wacom Intuos Pro Large (PTH-860)
   * Wacom Intuos Pro Medium (PTH-660)
-* **Picking the right size** - More information about picking the right size: [**tablet size**](../../guides/core-features/choosing-the-right-tablet-size.md).
+* **Picking the right size** - More information about picking the right size: [**tablet size**](../../guides/customizing-your-experience/choosing-the-right-tablet-size.md).
 
 ## Pens
 

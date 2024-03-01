@@ -51,7 +51,7 @@ Nibs are typically made of plastic or felt. And the material choice will affect 
 * Try drawing with less pressure. You can change the pressure curve in your driver to help lessen the need to press down so hard.
 * If you are doing a lot of back and forth strokes to fill in an area, that repeated motion of the pen can wear down the nib fast. Consider using some other way of filling in an area.
 * Some tablets like the Wacom Intuos Pro have replaceable **texture sheets**. In Wacom's case there are three texture styles: standard, smooth, rough. Try the smooth texture sheet.
-* I do NOT recommend [**using a metal nib**](../pens/using-metal-nibs.md).
+* I do NOT recommend [**using a metal nib**](../customizing-your-experience/using-metal-nibs.md).
 
 ## When should you replace you nib?
 
