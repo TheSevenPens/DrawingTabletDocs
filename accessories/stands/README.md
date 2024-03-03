@@ -32,5 +32,9 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 These stands attach to the tablet via screws. These are much more secure than the unattached stands.
 
-Because they are VESA compatible, they work with any drawing tablet that is VESA mountable. For example, I used the Huion ST100A with my Wacom Cintiq Pro 27
+Because they are VESA compatible, they work with any drawing tablet that is VESA mountable. For example, I use the **Huion ST100A** with my Wacom Cintiq Pro 27.
+
+Some people have had success with the Ergotron Neo-Flex Stand. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/)&#x20;
+
+
 
