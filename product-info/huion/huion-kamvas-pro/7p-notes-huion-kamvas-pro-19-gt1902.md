@@ -39,6 +39,10 @@ Cross compatibility
 * **Corner/Edge accuracy** - NORMAL. This is only visible in the last 2mm and did not affect my normal usage of the tablet. It was so minor, I didn't even bother performing any calibration to address it.
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
+* **Pen maximum pressure** - VERY GOOD. I measured both pens at 510gf (slightly \*more\* than the 500gf that Huion specified). This amount of variance is normal.
+* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../guides/core-features/pen-pressure-transition-stability.md)&#x20;
+* **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
+* **Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [**pen tilt compensation**](../../../guides/core-features/pen-tilt-compensation.md).
 
 ## **Display**
 
@@ -123,11 +127,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pen IAF** - GOOD. Huion says 2gf for both pens. Seems accurate. A little more sensitive than the PW517 pen which is at about 3gf.
 
-**Pen maximum pressure** - VERY GOOD. I measured both pens at 510gf (slightly \*more\* than the 500gf that Huion specified). This amount of variance is normal.
 
-**Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../guides/core-features/pen-pressure-transition-stability.md)&#x20;
-
-**Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 
 **PW600/PW600S compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
 
@@ -143,7 +143,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
 
-**Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles.
+
 
 ## Diagonal wobble
 
