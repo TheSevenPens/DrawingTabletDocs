@@ -26,9 +26,7 @@ One advantage of this disconnect between what you see and what your hand is doin
 
 Still, some people struggle with the disconnect. Usually they can train themselves out of this within a complex of weeks. But some people just can't get used to it.
 
-## Quality of art you can make
 
-Some people worry that the quality of art they want to produce can only be produced by a pen display. You shouldn't let that worry you. People have been producing amazing art with pen tablets for decades. There are definitely some benefits to using a pen display, but the quality of art than can be made is not a factor.
 
 ## Matching aspect ratios
 
