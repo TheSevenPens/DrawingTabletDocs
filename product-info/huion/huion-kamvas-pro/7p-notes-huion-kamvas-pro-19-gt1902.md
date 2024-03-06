@@ -46,38 +46,56 @@ Cross compatibility
 
 ## **Display**
 
+**OSD** - to get to the OSD Hold the power button for a few seconds and the OSD can appear
+
+**Color gamuts supported** (as stated by Huion)
+
+* Native
+* sRGB – 99%
+* AdobeRGB – 96%
+* DCI-P3 – 98%
+* There is also a "User" mode
+
+I use the sRGB mode exclusively because it most closely matches my other displays.&#x20;
+
+
+
+
+
 **Refresh rate** - NORMAL. Up to 60Hz which is standard for pen displays in 2024. Does not support 120Hz.
 
-**Anti-Glare sparkle** - OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle.
+**Anti-glare treatment** - the display uses an etched glass surface which does a good job dispersing light that hits the surface of the tablet. It reduces more glare even than the Cintiq Pro 22.
 
-**Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) has a slightly soft experience, this Huion has a little more softness than that.
+**Anti-Glare sparkle** - OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle. More here: [**Anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md)
+
+How the AG sparkle of this tablet compares to other tablets
+
+* Very close to Wacom Cintiq Pro 22&#x20;
+* Very close to Wacom Cintiq Pro 16&#x20;
+* Noticeably more than the Wacom Cintiq Pro 27&#x20;
+* Noticeably less than Huion Kamvas Pro 24 4K&#x20;
+* Noticeably less than Huion Kamvas 13&#x20;
+* Noticeably less than Huion Kamvas 13 2.5K&#x20;
+* MUCH LESS than Kamvas Pro 16 4K Plus&#x20;
+* It SHOULD have less than the Kamvas Pro 27 which has a lower density display panel (lower PPI)
+
+**Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) and Cintiq Pro 22 have a slightly soft experience, this Huion has a little more softness than that.
 
 <figure><img src="../../../.gitbook/assets/GT1902_softness.jpg" alt=""><figcaption></figcaption></figure>
 
-**Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%.
+**Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%. In comparison I use the Cintiq Pro 22 at 50% (I would use it at 70% but don't like the additional fan noise it creates).
 
-**Parallax** - VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation.
-
-##
+**Parallax** - VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation. As is typical even for Cintiq Pro tablets, the parallax is not as good as an Apple iPad. More here: [**Parallax**](../../../guides/pen-displays/parallax.md)&#x20;
 
 ## **Connections and cabling**
 
 **Single USB-C cable connection?**
 
-No ... but some people have made it work.
+Official Answer: NO. Huion's documentation is explicit on thjis point ([**see this doc**](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)).
 
-This gets a little confusing. Let me summarize buy saying: (1) I have not gotten it to work with 1 cable and (2) at least one person has. (3) And as of 2024/02/28 Huion's documentation on this topic indicates that the tablet does require an additional cable for power.&#x20;
+I tried testing it with an appropriate cable and could not get a single cable configuration to work with a Microsoft Surface Pro 8 or a M3 MacBook Pro.
 
-I could not use it with a single USB-C cable. Huion did not say that single-cable operation was a feature - so I am not surprised. Tablets above 16 inches generally require additional power.
-
-* Power: I have it connected with its USB-C power cable to the provided power adapter.
-* Data and display signal: I used the supplied USB-C cable to connect it to my Microsoft Surface Thunderbolt Dock. I connected the dock to a Microsoft Surface Pro 8. For MacOS testing I connected the dock to an M3 MacBook Pro.
-
-However this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/)
-
-And here is Huion's document where they list the tablet as requiring additional power:
-
-[https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)
+However ... this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/)
 
 **Using third party USB-C cables for display signal & data**
 
