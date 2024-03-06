@@ -6,6 +6,10 @@ I do recommend this tablet. The drawing experience is the best Huion's ever had.
 
 Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a few limitations and minor issues you should be aware of.
 
+## Companion video
+
+This companion video covers many but not all of the topics described in these notes: [https://youtu.be/CnTBrhUhciM](https://youtu.be/CnTBrhUhciM)&#x20;
+
 ## Basics
 
 * Resolution: 4K (3840x2160)
@@ -27,12 +31,20 @@ Definitely an improvement over PenTech 3.0. Especially noticable in how pressure
 
 Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 
-Cross compatibility
+* Pens behave exactly the same in terms of drawing, pressure, etc.
+* Both pens are PenTech 4.0 pens
+* Both pens have erasers
+
+**Compatibility across different PenTech versions**
 
 * Older Huion PenTech 3.0 pens DO NOT work with this tablet
 * The newer PenTech 4.0 pens DO NOT work with older tablets
 
 **Notes on backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
+
+**Nibs** - The pre-installed nibs are both felt. The felt nibs feel good draw with and add an additional amount of texture. In the month I used the felt nibs I saw no appreciable wear - but I don't draw very heavily so your experience may differ. The tablet comes with replacement felt and plastic nibs.
+
+**NOTE: I damaged one of the felt nibs** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
 
 ## Drawing Experience
 
@@ -123,7 +135,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **VESA mounting** - YES. There are 75 mm × 75 mm VESA holes for mounting on the back.&#x20;
 
-**Legs** - YES. Two legs
+**Legs** - YES. Two legs. Seemed sturdy. No complaints.
 
 **Noise** - EXCELLENT. No noise because no fans
 
@@ -145,23 +157,15 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Pen IAF** - GOOD. Huion says 2gf for both pens. Seems accurate. A little more sensitive than the PW517 pen which is at about 3gf.
 
-
-
 **PW600/PW600S compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
 
 **Pen weight** - I measured with a digital scale
 
-* PW517 = 14g
 * PW600 = 16g
 * PW600S = 14g
-
-**Issue with the PW600 pen & nib** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
-
-**Default nib** - The default pre-installed nib on both the PW600 and PW600s pens is the felt nib, no the plasti nib.&#x20;
+* PW517 = 14g
 
 **Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
-
-
 
 ## Diagonal wobble
 
