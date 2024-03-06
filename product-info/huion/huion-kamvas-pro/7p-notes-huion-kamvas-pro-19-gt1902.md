@@ -109,7 +109,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Noise** - EXCELLENT. No noise because no fans
 
-**Heat** - EXCELLENT. After running at 100% brightness for 10 days: room temperature on the left side. Just very slightly warmer on the right.&#x20;
+**Heat** - EXCELLENT. After running at 100% brightness for one month days without turning off the tablet, the tablet stays cool. Roughly the same temperature as the Wacom Cintiq Pro 22 - maybe very very slightly warmer. Just very slightly warmer on the right than the left side.&#x20;
 
 **Stand** - It does not come with a stand. Instead, I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
 
