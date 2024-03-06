@@ -14,11 +14,24 @@ Learn more about the active area here:
 
 {% embed url="https://youtu.be/lGAhzRcMS3s" fullWidth="false" %}
 
-## Size categories
+## My size categories
 
-I've given convenient labels ("small", "medium", "large") to drawing tablets. This will make it easier to talk about their sizes. The sizes here are approximate.
+I've given convenient labels ("small", "medium", "large") to drawing tablets. This will make it easier to talk about their sizes. These categories are based off the standard sizes that Wacom uses. The sizes here are approximate.
 
 <table><thead><tr><th width="188">Size category</th><th width="170.33333333333331">Pen tablet</th><th width="249.66666666666669">Pen display</th></tr></thead><tbody><tr><td>SMALL</td><td>7"</td><td>13"</td></tr><tr><td>MEDIUM</td><td>11"</td><td>16"</td></tr><tr><td>LARGE</td><td>15"</td><td>24"</td></tr><tr><td>EXTRA LARGE</td><td>23"</td><td>32"</td></tr></tbody></table>
+
+## Manufacturer size categories
+
+Manufactures also sometimes provide size categories in the names of their pen tablets. But don't trust the size categories - always calculate the actual diagonal distance when comparing sizes.
+
+Here's a great example. Notice the difference in diagonal size. The XP-Deco L is much closer in size to a Wacom Intuos Pro Medium than the Intuos Pro Large. And the Inspiroy 2L is sort of in-between a medium and large size.
+
+| Tablet                             | Active area | Active Area Diagonal |
+| ---------------------------------- | ----------- | -------------------- |
+| Wacom Intuos Pro **Medium**        | 8.7"x5.8"   | 10.5"                |
+| XP-Pen Deco **L**                  | 10"x6"      |  11.5"               |
+| Inspiroy 2 **L**                   | 10.5"x6.56" | 12.38"               |
+| Wacom Intuos Pro **Large** PTH-860 |  12.1"x8.4" | 14.7"                |
 
 ## Considerations
 
