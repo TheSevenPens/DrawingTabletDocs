@@ -8,6 +8,34 @@ Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a
 
 ## Basics
 
+* Resolution: 4K (3840x2160)
+* PenTech 4.0
+* New AG glass
+* Multi-touch (for Windows only)
+* Comes with 2 pens: PW600 and PW600S
+* Diagonal size: 19"&#x20;
+  * Actually 18.57"
+* Released: Jan 2024
+
+## PenTech 4.0
+
+Definitely an improvement over PenTech 3.0. Especially noticable in how pressure is handled.
+
+
+
+## Pens
+
+Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
+
+Cross compatibility
+
+* Older Huion PenTech 3.0 pens DO NOT work with this tablet
+* The newer PenTech 4.0 pens DO NOT work with older tablets
+
+**Notes on backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
+
+## Drawing Experience
+
 * **Corner/Edge accuracy** - NORMAL. This is only visible in the last 2mm and did not affect my normal usage of the tablet. It was so minor, I didn't even bother performing any calibration to address it.
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
@@ -26,9 +54,7 @@ Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a
 
 **Parallax** - VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation.
 
-## Compatibility
-
-**Backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
+##
 
 ## **Connections and cabling**
 
