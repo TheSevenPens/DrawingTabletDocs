@@ -8,13 +8,10 @@ The **Initial Activation Force** (IAF) is the smallest amount of pressure that a
 
 * A wide pressure range is very desirable. It contributes a lot to a good pressure experience. A wider pressure range is even more important than the number of pressure levels.
 * A lower IAF is good because it allows you to draw finer details better. &#x20;
-* To see all the data I have collected about pressure ranges consult this tablet: [**Pen pressure range comparison**](pen-pressure-range-comparison.md)
 
 ## Rating scale for IAF and max pressure
 
-Based on my analysis of pen pressure ranges, I have developed this simple rating scale for IAF and max pressure. This represents my initial thinking and I expect to revise this in the future based on feedback.
-
-<figure><img src="../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+To get a broad view into how different pens handle IAF and max pressure, consult this document: [**Pen pressure range comparison**](pen-pressure-range-comparison.md)
 
 ## The importance of low IAF
 
