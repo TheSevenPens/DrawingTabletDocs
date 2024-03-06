@@ -50,6 +50,7 @@
     * [Pen tilt](guides/core-features/pen-tilt.md)
     * [Pen pressure](guides/core-features/pen-pressure.md)
     * [Pen pressure range comparison](guides/core-features/pen-pressure-range-comparison.md)
+    * [Pen pressure transition stability](guides/core-features/pen-pressure-transition-stability.md)
     * [Pen pressure curve](guides/core-features/pen-pressure-curve.md)
     * [Disable pen pressure](guides/core-features/disable-pen-pressure.md)
     * [Pen hover](guides/core-features/pen-hover.md)
