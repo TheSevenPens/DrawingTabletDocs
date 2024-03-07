@@ -21,7 +21,7 @@ Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). The
 
 ### Samsung Galaxy Tab S series
 
-[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab devices**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab.md) &#x20;
+[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab devices**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md) &#x20;
 
 * [**Samsung Galaxy Tab S6 Lite (2022 version)**](../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.&#x20;
 * [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option

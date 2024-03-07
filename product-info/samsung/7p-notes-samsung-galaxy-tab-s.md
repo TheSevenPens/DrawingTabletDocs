@@ -1,4 +1,4 @@
-# 7P notes: Samsung Galaxy Tab
+# 7P notes: Samsung Galaxy Tab S
 
 The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can play the role of drawing tablets very well and are a compelling alternative to Apple iPads.
 
@@ -10,8 +10,12 @@ The tablets I own:
 
 ## Size
 
-* Honestly the S8 Ultra is very big. This works great when using it like a laptop, but it's size with its 16x9 aspect ratio can a bit just too much to deal with when holding close to drawing.
+The Samsung Galaxy Tab series has many models that span a wide range of sizes.
+
+Size has a huge impact on how the tablet feels to use especially with the 16X9 aspect ratio of these tablets. So put careful thought into picking the appropriate size for you.
+
 * The size of the S9 FE is compact which makes it portable but big enough for me to draw on the couch and in bed and when I am travelling.  &#x20;
+* The S8 Ultra is very big. This works great when using it like a laptop, but it's size with its 16x9 aspect ratio can a bit just too much to deal with when holding close to drawing.
 
 ## Pointer lag
 
@@ -45,10 +49,10 @@ The S6 LITE is a little laggy when scrolling and using apps, but for basic line 
 
 ## Apps
 
-As for software here are the apps I use with it
+As for software here are the apps I use with it. Stars indicate the my favorite apps.
 
-* &#x20;Clip Studio Paint
-* Infinite Painter (works similar to Procreate on iPads)
+* Clip Studio Paint ⭐
+* Infinite Painter (works similar to Procreate on iPads) ⭐
 * Krita
 * IbisPaint X
 
