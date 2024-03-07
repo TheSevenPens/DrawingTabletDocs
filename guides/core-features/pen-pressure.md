@@ -51,9 +51,5 @@ The **modern technique:** the nib contacts a pressure sensor inside the pen. The
 
 The **very old technique:** Nib goes into the hollow ferrite rod but does not come out the other side. The nib is shaped in such a way that it is firmly embedded in ferrite rod. Ads the nib moves, so to does the ferrite rod. The movement of the ferrite rod changes the resonant frequency of the inductor coil. That change in frequency is then sensed by the tablet and translated to pressure.
 
-## Resources
-
-* Comments on pen pressure levels and ranges for Wacom products: [https://www.reddit.com/r/wacom/comments/10l0ujb/comment/j5u1v3z/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/wacom/comments/10l0ujb/comment/j5u1v3z/?utm\_source=share\&utm\_medium=web2x\&context=3)&#x20;
-* Comparison of minimal gram-force ("initial activation force"/"initial activation pressure") recognized by various digital pens and digitizers ( [https://www.reddit.com/r/stylus/comments/opc44f/comparison\_of\_minimal\_gramforce\_initial/](https://www.reddit.com/r/stylus/comments/opc44f/comparison\_of\_minimal\_gramforce\_initial/))
-* Initial Activation Force / Initial Activation Pressure Cintiq Pro 16 2021? ([https://www.reddit.com/r/wacom/comments/v9989o/initial\_activation\_force\_initial\_activation/](https://www.reddit.com/r/wacom/comments/v9989o/initial\_activation\_force\_initial\_activation/))
+##
 
