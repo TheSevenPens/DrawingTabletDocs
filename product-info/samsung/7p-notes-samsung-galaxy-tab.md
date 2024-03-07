@@ -19,23 +19,40 @@ RATING: Very good
 
 All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
 
-## Drawing feeling with Samsung S Pen
+## Pens
+
+The Galaxy Tab models come with an Samsung S Pen but they are also compatible with a few other pens. In particular the Wacom One GEN1 pen (CP-913).
+
+### Using the Samsung S Pen
 
 RATING: GOOD. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil though it is not as good as the Wacom Pro Pen 2 in terms of pressure range.
 
-## Drawing feeling with Wacom One GEN1 Pen CP-913
+The overall pressure of the S pen is good. In my testing it has a good maximum pressure of about 250gf. The IAF - I am not sure - I think it could be around 3gf.
+
+### Using the Wacom One GEN1 Pen CP-913
 
 RATING: VERY GOOD.  The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  I usually use the CP-913 that came with my Wacom One (DTC-133).
 
-## S Pen > Pen Buttons
+## Pen Buttons
 
-The S Pen has one physical button, unlike the Apple iPad. This also differs from the pens of most drawing tablets like the Wacom Intuos or Wacom Intuos Pro. Those pens have two buttons, and some have three.
-
-More here: [Samsung S Pen](samsung-s-pen.md)
+The S Pen has one physical button, unlike the Apple iPad. This also differs from the pens of most drawing tablets like the Wacom Intuos or Wacom Intuos Pro. Those pens have two buttons, and some have three. More here: [**Samsung S Pen**](samsung-s-pen.md)
 
 ## System lag
 
 The S8 and S9 are incredibly responsive and I don't notice much lag. They seemed as responsive as an iPad.
 
 The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive.&#x20;
+
+## Apps
+
+As for software here are the apps I use with it
+
+* &#x20;Clip Studio Paint
+* Infinite Painter (works similar to Procreate on iPads)
+* Krita
+* IbisPaint X
+
+A common question from people considering the Samsung Galaxy tab series is whether the procreate app works on these tablets. The answer is no. Procreate only works on iPads.
+
+More here: [**Applications**](../../applications/)&#x20;
 
