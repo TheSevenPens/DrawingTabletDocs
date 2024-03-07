@@ -2,7 +2,30 @@
 
 ## Overview
 
-It is POSSIBLE for SOME pen displays to be powered by a single USB-C cable.
+Ideally you would be able to connect your pen display to your computer with a single USB C cable. And that cable would provide display signal as well as enough power for the pen display. You should understand
+
+Key things to keep in mind:
+
+\-        Not all pen displays support this configuration - even if they do have USB C ports on the tablet
+
+\-        not all computers are capable of sending power and display signal over their USB C ports
+
+\-        not all USB C cables can be used for this purpose.&#x20;
+
+So you have to do your research. Do not buy a pen display assuming that a single USB C cable connection will work.
+
+## Check with your manufacturer
+
+The first thing you should do is verify whether the tablet supports a single USB C connection.
+
+Ideally you do this before you even purchase the tablet.
+
+You can do this verification easily:
+
+* look at the user manual for the tablet and see how it connects
+* or contact product support for the tablet and ask them specifically if it will work for that specific model.
+
+When doing this research it will simplify things if you know the exact model number of the tablet and not just its name.
 
 ## Key requirements
 
