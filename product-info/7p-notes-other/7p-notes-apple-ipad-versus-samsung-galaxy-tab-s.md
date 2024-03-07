@@ -41,7 +41,7 @@ more here: [**applications**](../../applications/)&#x20;
 
 iPads are around a 4X3 aspect ratio. And Samsung Galaxy S tablets have a 16 by 9 aspect ratio.
 
-I think the 4X3 aspect ratio of the Apple iPad is in general a much better choice. The size of the Galaxy S tablets makes sense for watching things like videos which are often in 16 by 9 aspect ratio but it can feel awkward to hold especially for the larger sizes.
+I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. The size of the Galaxy S tablets makes sense for watching things like videos which are often in 16 by 9 aspect ratio but it can feel awkward to hold especially for the larger sizes.
 
 ## More info
 
