@@ -13,8 +13,10 @@
 * product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
 * [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-huion-kamvas-pro-19-gt1902.md)&#x20;
 * [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024/01/09
-* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G\_L\_qU) 2023/03/04
-* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2023/02/14
+* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G\_L\_qU) 2024/03/04
+* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024/02/14
+* [Yanick Paquette review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=t-Qo1jTVibY) - 2024/02/21
+* [TheSevenPens Notes on the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=CnTBrhUhciM) - 2024/03/05
 
 ## Huion Kamvas Pro 13 2.5K (GT1302)
 
