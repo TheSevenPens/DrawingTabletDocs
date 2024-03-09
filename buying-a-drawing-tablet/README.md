@@ -49,9 +49,6 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 ## **Core drawing tablet features**
 
 * **Pressure -** The pen can detect how much pressure you are putting on its tip. The smallest pressure that activates the pen is called the Initial Activation Force (IAF). The maximum pressure is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Here's what you should look for:
-  * IAF - Lower IAF is better. I recommend getting a tablet that has a pen with an IAF of 3gf.&#x20;
-  * Maximum pressure - At least 300gf. 400gf to 500gf would be preferable. 800gf is excellent.
-  * Number of pressure levels - the pressure range is divided into many levels. Tablets advertise 8K pressure levels or above. This is all hype. All you need is 2K pressure levels. Pressure range matters at least as much as the number of pressure levels.
   * More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
 * **Tilt -** Tilt support can be very useful for for certain kinds of artwork. Almost all modern tablets support tilt, except for some consumer tablets such as One by Wacom (CTL-472, CTL-672) and Wacom Intuos (CTL-6100, CTL-6100WL, CTL-4100, CTL-6100WL). Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
 * **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
