@@ -60,3 +60,6 @@ A common question from people considering the Samsung Galaxy tab series is wheth
 
 More here: [**Applications**](../../applications/)&#x20;
 
+## Versus the Apple iPad
+
+You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
