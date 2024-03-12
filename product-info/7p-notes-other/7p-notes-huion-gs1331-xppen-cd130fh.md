@@ -3,12 +3,12 @@
 ## Tablets discussed
 
 * Huion Kamvas 13  (GS1331) - ([user manual](https://www.huion.com/user-manual-70) | [product page](https://www.huion.com/pen\_display/Kamvas/kamvas-13.html) | model year 2020)
-* XP-Pen Artist 13 GEN2 (CD130FH) - ( [user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf) | [product page](https://www.xp-pen.com/product/1263.html) | model year 2022)
-* With some reference to Wacom One GEN 1 (DTC-133)
+* XP-Pen Artist 13 GEN2 (CD130FH) - ([user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf) | [product page](https://www.xp-pen.com/product/1263.html) | model year 2022)
+* Wacom One GEN 1 (DTC-133)
 
 ## Summary
 
-These are very similar tablets, but overall I would pick the Huion Kamvas 13 as the winner. The overall experience was better.&#x20;
+These are very similar tablets, but overall I would pick the Huion Kamvas 13 as the winner. The overall experience was slightly better in terms of drawing - even though I wish it had less AG sparkle.&#x20;
 
 ## Evaluation notes
 
