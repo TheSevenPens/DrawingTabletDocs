@@ -187,7 +187,7 @@
   * [Procreate](applications/procreate.md)
   * [Rebelle](applications/rebelle.md)
   * [Samsung Notes](applications/samsung-notes.md)
-  * [Recommended apps](applications/recommended-apps.md)
+  * [7P notes: Recommended apps](applications/7p-notes-recommended-apps.md)
   * [Inkscape](applications/inkscape.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)

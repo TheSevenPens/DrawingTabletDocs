@@ -11,7 +11,7 @@ Most drawing tablets come with a limited-time trial license to some applications
 
 ## Recommendations
 
-If you are interested in the apps I use and personally recommend: [**recommended apps**](recommended-apps.md)
+If you are interested in the apps I use and personally recommend: [**recommended apps**](7p-notes-recommended-apps.md)
 
 ## Pen-aware applications
 
