@@ -15,7 +15,7 @@
     * [Making educational videos with a drawing tablet](guides/use-cases/making-educational-videos-with-a-drawing-tablet.md)
     * [Taking notes with drawing tablets](guides/use-cases/taking-notes-with-drawing-tablets.md)
     * [Dedicated note taking devices](basics/use-cases/dedicated-note-taking-devices.md)
-    * [Using a drawing tablet instead of a mouse](guides/use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
+    * [Using a drawing tablet as a mouse replacement](guides/use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
   * [Contacting support](guides/general/contacting-support.md)
   * [The drawing experience](basics/the-drawing-experience.md)
 * [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
