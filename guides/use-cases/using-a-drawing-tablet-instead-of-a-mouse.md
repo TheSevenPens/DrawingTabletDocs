@@ -30,6 +30,17 @@ When drawing I held it like you would normally hold a pen, but when I switched t
 
 Here's a detailed write up of someone's experience: ([https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/](https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/))
 
+## Tablets that would work well as a mouse replacement
+
+Lots of them would work. The easy choices are:
+
+* One for Wacom Small CTL-472
+* One for Wacom Medium CTL-672
+* Wacom Intuos Small CTL-4100
+* Wacom Intuos Medium CTL-6100
+
+Generally, I would suggest a medium size, though small can work also.
+
 ## Videos
 
 * [PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse!](https://www.youtube.com/watch?v=9yTA1P8SrqI) Feb 24, 2020
