@@ -4,6 +4,8 @@
 
 * Samsung Galaxy Book4 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-360/))
 * Samsung Galaxy Book4 Pro 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-pro-360/))
+* Samsung Galaxy Book3 360
+* Samsung Galaxy Book3 Pro 360&#x20;
 
 ## Videos
 
