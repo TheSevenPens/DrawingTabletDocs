@@ -93,7 +93,7 @@ iPads that support the Apple Pencil have EXCELLENT parallax compared to even the
 
 * You may or may not be sensitive to this effect. Some people hate it. Some are much less sensitive to it.&#x20;
 * iPads don't show much AG sparkle at all - I would say it is undetectable in the iPads I have examined
-* Pen displays have AG sparkle to various degrees. More here: [anti-glare sparkle](using-an-ipad-as-a-drawing-tablet.md#anti-glare-sparkle)
+* Pen displays have AG sparkle to various degrees. More here: [anti-glare sparkle](7p-notes-apple-ipad.md#anti-glare-sparkle)
 
 ## **Size**
 
@@ -109,11 +109,11 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 * [Clip Studio Paint](../../applications/clip-studio-paint.md) (My favorite for illustration!)&#x20;
 * [Procreate](../../applications/procreate.md) (#1 iPad app for drawing)
-* [Concepts](using-an-ipad-as-a-drawing-tablet.md#concepts) &#x20;
-* [Infinite Painter](using-an-ipad-as-a-drawing-tablet.md#infinite-painter)  &#x20;
+* [Concepts](7p-notes-apple-ipad.md#concepts) &#x20;
+* [Infinite Painter](7p-notes-apple-ipad.md#infinite-painter)  &#x20;
 * [Medibang](../../applications/medibang.md)  &#x20;
 * [Paint Tool Sai](../../applications/painttool-sai.md) &#x20;
-* [ArtRage](using-an-ipad-as-a-drawing-tablet.md#artrage)  &#x20;
+* [ArtRage](7p-notes-apple-ipad.md#artrage)  &#x20;
 
 ## How I use iPads
 

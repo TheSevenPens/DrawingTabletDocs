@@ -46,7 +46,7 @@ I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. Th
 ## More info
 
 * [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s.md)
-* [**7P notes: Apple iPad**](../apple/using-an-ipad-as-a-drawing-tablet.md) &#x20;
+* [**7P notes: Apple iPad**](../apple/7p-notes-apple-ipad.md) &#x20;
 
 &#x20;
 
