@@ -255,6 +255,7 @@
     * [OnePlus Pad](product-info/oneplus/oneplus-pad.md)
   * [Samsung](product-info/samsung/README.md)
     * [7P notes: Samsung Galaxy Tab S](product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)
+    * [Samsung Galaxy Book 360](product-info/samsung/samsung-galaxy-book-360.md)
     * [Samsung Galaxy Tab S6](product-info/samsung/samsung-galaxy-tab-s6.md)
     * [Samsung Galaxy Tab S8](product-info/samsung/samsung-galaxy-tab-s8.md)
     * [Samsung Galaxy Tab S9](product-info/samsung/samsung-galaxy-tab-s9.md)

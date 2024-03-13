@@ -6,8 +6,6 @@
 Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/)
 {% endhint %}
 
-
-
 A standalone drawing tablet might be exactly what you need if you intend to be using the device often in scenarios away from home or away from your desk.
 
 People look for standalone tablets for these kinds of reasons:
@@ -81,6 +79,8 @@ These kinds of devices are really for general purpose use. So if what you want i
 
 Type: Slate laptop
 
+Pen tech: MPP (similar to AES)
+
 [<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro.md)
 
 * [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
@@ -90,10 +90,14 @@ Type: Slate laptop
 
 Type: 2-in-1 laptop
 
+Pen tech: Wacom EMR (Samsung S Pen)
+
+NOTE: I haven't tried it myself, but this **may** also be compatible with the Wacom CP-913 pen.
+
 Two editions:
 
-* Samsung Galaxy Book4 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-360/))
-* Samsung Galaxy Book4 Pro 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-pro-360/))
+* [Samsung Galaxy Book4 360](../product-info/samsung/samsung-galaxy-book-360.md)&#x20;
+* [Samsung Galaxy Book4 Pro 360](../product-info/samsung/samsung-galaxy-book-360.md)&#x20;
 
 ## Other resources&#x20;
 
