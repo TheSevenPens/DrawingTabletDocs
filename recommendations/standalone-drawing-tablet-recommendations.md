@@ -2,12 +2,42 @@
 
 ## Overview
 
-Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). There are two kinds of standalone drawing tablets:
+{% hint style="info" %}
+Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/)
+{% endhint %}
 
-* **mobile computers with pen support** - These are not drawing but they can work just like one and your best choice for a standalone tablet. These include products such as Apple iPad Pros, Samsung Galaxy S series tablets, and the Microsoft Surface Pro.
-* **pen computers** - drawing tablets that you can carry around and use without a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)
+
+
+A standalone drawing tablet might be exactly what you need if you intend to be using the device often in scenarios away from home or away from your desk.
+
+People look for standalone tablets for these kinds of reasons:
+
+* Can travel with it
+* Can be used on the couch in the bed on a bus etc.
+* Doesn't require the connection to a computer
+
+There are many options depending on what you really need.
+
+## Kinds of standalone drawing tablets
+
+There are three kinds of standalone drawing tablets:
+
+* **Mobile computers with pen support** - Formally, these are not drawing tablets, but they can work just like one. And often I think they are your best choice for a standalone tablet. These include products such as Apple iPad Pros and Samsung Galaxy S series tablets.
+  * Operating system: a mobile OS (iOS, ChromeOS)
+  * Scenario: General purpose
+  * Pen tech: varies. Apple Pencil, AES, EMR&#x20;
+* **Pen computers** - The are true drawing tablets that you can carry around and use without a computer.  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
+  * Operating system: currently all run Windows
+  * Scenario: Intended for artists
+  * Pen tech: EMR
+* **2-in-1 laptops and slate laptops** - Formally, these are not drawing tablets. These are really normal laptops  that have a form factor that might also serve the needs of a drawing tablet. Examples: Microsoft Surface Pro and Samsung Galaxy Book4 360.
+  * Operating system: currently all run Windows
+  * Scenario: General purpose
+  * Pen tech: varies. MPP, EMR
 
 ## Mobile computers with pen support
+
+If you're primarily interested in drawing or notetaking I think mobile computers with pen support are your best options.
 
 ### Apple iPads
 
@@ -32,29 +62,38 @@ Read this first: [**Buying a drawing tablet**](../buying-a-drawing-tablet/). The
 * [**Huion Kamvas Slate 10**](../product-info/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
 * [**XP-Pen Magic Drawing Pad**](../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>
 
+## Pen computers
+
+Even though as a policy, I do NOT recommend them, for completeness here is a list of SOME pen computers. More here:  [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md)**.**
+
+**Examples:**
+
+* Huion Kamvas Studio 16 ($1700)
+* Wacom MobileStudio Pro 13 ($2500)
+* Huion Kamvas Studio 24 ($2400)
+* Wacom MobileStudio Pro 16 ($3500)
+
+## **2-in-1 laptops and slate laptop**
+
+These kinds of devices are really for general purpose use. So if what you want is a full operating system where you can use things like Microsoft Office, or the full version of Photoshop, etcetera. Then these suitable choices for a standalone tablet.
+
 ### Microsoft Surface Pro
+
+Type: Slate laptop
 
 [<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro.md)
 
 * [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
 * [**Surface Pro 9**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 
-## Pen computers
+### Samsung Galaxy Book4 360
 
-Even though as a policy, I do NOT recommend them, for completeness here is a list of SOME pen computers.
+Type: 2-in-1 laptop
 
-### **Mid budget**&#x20;
+Two editions:
 
-* **Huion Kamvas Studio 16** ($1700)
-
-### **High budget**
-
-* **Wacom MobileStudio Pro 13** ($2500)
-* **Huion Kamvas Studio 24** ($2400)
-
-### **Super-high budget**
-
-* **Wacom MobileStudio Pro 16** ($3500)
+* Samsung Galaxy Book4 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-360/))
+* Samsung Galaxy Book4 Pro 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-pro-360/))
 
 ## Other resources&#x20;
 
