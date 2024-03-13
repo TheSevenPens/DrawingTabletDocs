@@ -39,7 +39,7 @@ If you're primarily interested in drawing or notetaking I think mobile computers
 
 ### Apple iPads
 
-[<mark style="background-color:green;">**My notes on using Apple iPads as standalone drawing tablets**</mark>](../product-info/apple/using-an-ipad-as-a-drawing-tablet.md)
+[<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../product-info/apple/using-an-ipad-as-a-drawing-tablet.md)
 
 * **Apple iPad Air (4th gen and later)** ($600)
 * **Apple iPad Pro 11 inch (4th gen and later)** (starting at $800)
