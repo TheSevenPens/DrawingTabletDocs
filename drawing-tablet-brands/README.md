@@ -78,7 +78,7 @@ And despite all the many brands of drawing tablets you see, there are only a cou
 
 ## Online communities
 
-Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [**Drawing tablet communities**](../resources/drawing-tablet-communities.md)  &#x20;
+Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [**Drawing tablet communities**](../resources/drawing-tablet-community.md)  &#x20;
 
 ## Discussions
 

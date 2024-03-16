@@ -331,7 +331,7 @@
   * [Stands](accessories/stands/README.md)
     * [iPad stands](accessories/stands/ipad-stands.md)
 * [Resources](resources/README.md)
-  * [Drawing tablet communities](resources/drawing-tablet-communities.md)
+  * [Drawing tablet community](resources/drawing-tablet-community.md)
   * [Kuuube](resources/kuuube/README.md)
     * [Kuuube's Wacom tablet mastersheet](resources/kuuube/kuuubes-wacom-tablet-mastersheet.md)
     * [Kuuube's tablet buying guide](resources/kuuube/kuuubes-tablet-buying-guide.md)
