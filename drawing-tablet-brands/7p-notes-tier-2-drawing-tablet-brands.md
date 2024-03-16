@@ -2,7 +2,7 @@
 
 ## Overview
 
-**HUION** ([https://www.huion.com/](https://www.huion.com/)) and **XP-PEN** ([https://www.xp-pen.com/](https://www.xp-pen.com/)) are the next big tablet brands. Their recent (2021, 2022) models have been pretty good - but still trail Wacom a bit in quality and reliability. In general I think they offer 90% of what you get with a WACOM but at a substantial price reduction.&#x20;
+**HUION** ([https://www.huion.com/](https://www.huion.com/)) and **XP-PEN** ([https://www.xp-pen.com/](https://www.xp-pen.com/)) are the next big tablet brands. Their recent (2021 and later) models have been pretty good - but still trail Wacom a bit in quality and reliability. In general I think they offer 90% of what you get with a WACOM but at a substantial price reduction.&#x20;
 
 Like Wacom they both have a wide variety of products available.
 
