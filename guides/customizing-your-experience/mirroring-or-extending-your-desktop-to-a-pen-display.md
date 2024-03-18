@@ -20,11 +20,11 @@ The steps depend on which operating system you are using.
   * If a display has two numbers, that means the desktop is being duplicated across those displays
 * NOTE: If you only see one display then the these settings do not apply.&#x20;
 * Select the display that corresponds to your tablet
-* Towards the button right (to the right of the **Identify** button) you will see setting that controls how the desktop is being applied to this display. It will either say
+* Towards the button right (to the right of the **Identify** button) you will see a dropdown setting that controls how the desktop is being applied to this display. Depending on how the display is already configured, the dropdown will say either
   * **Extend desktop to this display**
   * **Duplicate desktop on X and Y**
     * X and Y will be the numbers referring to the displays
-  * Switch between the **Extend** or **Duplicate** option as needed. &#x20;
+* Switch the dropdown between the **Extend** or **Duplicate** option as needed. &#x20;
 
 ### Mac OS (Monterey)
 
