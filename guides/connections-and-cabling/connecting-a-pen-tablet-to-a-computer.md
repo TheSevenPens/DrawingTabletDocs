@@ -37,3 +37,10 @@ The specific cables I use are these:
 And I use these cables with many other devices that only need USB 2.0 connectivity.
 
 I specifically choose the blue color so that I can visually identify it is a USB 2.0 cable.&#x20;
+
+## Using adapters for USB port types
+
+These days the ports on pen tablets are all USB C ports. However older tablets used different kinds of ports. These could be micro USB or mini USB. And cables that have micro USB ends or mini USB ends are getting more difficult to find. For this reason I prefer to continue to use USB C cables but use adapters for these older tablets if possible.
+
+More here: [**Cable adapters**](../../accessories/cable-adapters.md)
+
