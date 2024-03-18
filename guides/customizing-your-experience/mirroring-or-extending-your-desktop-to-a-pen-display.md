@@ -13,11 +13,18 @@ You have two options:
 
 The steps depend on which operating system you are using.
 
-### Windows (11)
+### Windows 11
 
 * Open **Display Settings**
-* Select the display of your tablet
-* Then select **Duplicate to mirror**
+* The displays your computer is connected to will be shown and each one is numbered. The one in blue is the display currently selected.
+  * If a display has two numbers, that means the desktop is being duplicated across those displays
+* NOTE: If you only see one display then the these settings do not apply.&#x20;
+* Select the display that corresponds to your tablet
+* Towards the button right (to the right of the **Identify** button) you will see setting that controls how the desktop is being applied to this display. It will either say
+  * **Extend desktop to this display**
+  * **Duplicate desktop on X and Y**
+    * X and Y will be the numbers referring to the displays
+  * Switch between the **Extend** or **Duplicate** option as needed. &#x20;
 
 ### Mac OS (Monterey)
 
