@@ -82,9 +82,9 @@ Watch this video to learn about the reality of using EXTRA LARGE pen tablets:&#x
 
 {% embed url="https://youtu.be/Tv_qX1Z9-wI" %}
 
-## Matching pen tablet size to monitor size
+## Pen tablet size vs monitor size
 
-If you have a pen tablet (which does not have a screen), then you use it with a monitor. You should consider the relationship between these two sizes. I find that that relationship influences how it feels to draw on the pen tablet. A much more detailed explanation is here: [**Matching pen tablet size to monitor size**](choosing-the-right-tablet-size.md#matching-pen-tablet-size-to-monitor-size)
+If you have a pen tablet (which does not have a screen), then you use it with a monitor. You should consider the relationship between these two sizes. I find that that relationship influences how it feels to draw on the pen tablet. A much more detailed explanation is here: [**Matching pen tablet size to monitor size**](matching-pen-tablet-size-to-monitor-size.md).
 
 ## Pen display size
 
