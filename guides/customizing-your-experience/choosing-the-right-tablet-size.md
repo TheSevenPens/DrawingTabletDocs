@@ -16,22 +16,20 @@ Learn more about the active area here:
 
 ## My size categories
 
-I've given convenient labels ("small", "medium", "large") to drawing tablets. This will make it easier to talk about their sizes. These categories are based off the standard sizes that Wacom uses. The sizes here are approximate.
+I've given convenient labels ("small", "medium", "large") to drawing tablets. This will make it easier to talk about their sizes. These categories are based off the standard sizes that Wacom uses. The sizes here are approximate. For each category a typical value is provided, and also a range of values.
 
-<table><thead><tr><th width="188">Size category</th><th width="170.33333333333331">Pen tablet</th><th width="249.66666666666669">Pen display</th></tr></thead><tbody><tr><td>SMALL</td><td>7"</td><td>13"</td></tr><tr><td>MEDIUM</td><td>11"</td><td>16"</td></tr><tr><td>LARGE</td><td>15"</td><td>24"</td></tr><tr><td>EXTRA LARGE</td><td>23"</td><td>32"</td></tr></tbody></table>
+<table><thead><tr><th width="188">Size category</th><th width="170.33333333333331">Pen tablet</th><th width="249.66666666666669">Pen display</th></tr></thead><tbody><tr><td>SMALL</td><td>Typical: 7"<br>Range: 6" to 9"</td><td>Typical: 13"<br>Range: 11" to 14"</td></tr><tr><td>MEDIUM</td><td>Typical: 11"<br>Range: 10" to 13"</td><td>Typical: 16"<br>Range: 15" to 19"</td></tr><tr><td>LARGE</td><td>Typical: 15"<br>Range: 14" to 19"</td><td>Typical: 24"<br>Range: 20" to 29"</td></tr><tr><td>EXTRA LARGE</td><td>Typical: 23"<br>Range: 20" to29"</td><td>Typical: 32"<br>Range: 30" to 33"</td></tr></tbody></table>
 
 ## Manufacturer size categories
 
 Manufactures also sometimes provide size categories in the names of their pen tablets. But don't trust the size categories - always calculate the actual diagonal distance when comparing sizes.
 
-Here's a great example. Notice the difference in diagonal size. The XP-Deco L is much closer in size to a Wacom Intuos Pro Medium than the Intuos Pro Large. And the Inspiroy 2L is sort of in-between a medium and large size.
+Here's are some great examples:
 
-| Tablet                             | Active area | Active Area Diagonal |
-| ---------------------------------- | ----------- | -------------------- |
-| Wacom Intuos Pro **Medium**        | 8.7"x5.8"   | 10.5"                |
-| XP-Pen Deco **L**                  | 10"x6"      |  11.5"               |
-| Inspiroy 2 **L**                   | 10.5"x6.56" | 12.38"               |
-| Wacom Intuos Pro **Large** PTH-860 |  12.1"x8.4" | 14.7"                |
+* The XP-Deco L is much closer in size to a Wacom Intuos Pro Medium than the Intuos Pro Large.
+* Inspiroy 2L is sort of in-between a medium and large size.
+
+<table><thead><tr><th>Tablet and manufactr</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong>  <br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td> 11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong> </p><p>(PTH-860)</p></td><td>LARGE</td><td> 12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
 
 ## Considerations
 
@@ -93,8 +91,6 @@ If you have a pen tablet (which does not have a screen), then you use it with a 
 * I think the best balance is around 20" to 22" - these provide enough space to draw on without being to cumbersome, occupying too much space on a desk, or being difficult to move.
 * **LARGE (24")** are great but they do occupy a lot of space so ensure you have a desk that is big enough.
 * **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch of the display, the more anti-glare sparkle you will notice. For example using the same anti-glare treatment a 4K 24" display will show less AG sparkle, than a 4K 16" display.&#x20;
-
-##
 
 ## **Videos**
 
