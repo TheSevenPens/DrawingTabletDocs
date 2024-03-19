@@ -123,6 +123,7 @@
     * [Using older tablet drivers](guides/drivers/using-older-tablet-drivers.md)
     * [Copying tablet driver setting to another computer](guides/drivers/copying-tablet-driver-setting-to-another-computer.md)
   * [Advanced](guides/advanced/README.md)
+    * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
     * [Creating pen-aware applications](guides/advanced/creating-pen-aware-applications.md)
     * [Digital pen technologies](guides/advanced/digital-pen-technologies.md)

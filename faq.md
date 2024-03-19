@@ -26,9 +26,7 @@ See the full write up here: [tablet size](guides/customizing-your-experience/cho
 
 ### Q: Should I update the tablet firmware?
 
-Answer: Yes, but ONLY if the manufacturer recommends it.
-
-Be deliberate and cautious in installing them. Only install new firmware if the manufacturer recommends it. If you are not sure, you should contact the product support for your device and verify that it is safe to upgrade.
+Answer: Yes, but ONLY if the manufacturer recommends it. More here: [**firmware**](guides/advanced/firmware.md).
 
 ### Q: Should I get a pen tablet or pen display?
 
