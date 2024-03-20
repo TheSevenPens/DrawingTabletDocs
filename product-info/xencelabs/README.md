@@ -5,7 +5,8 @@
 
 
 * <mark style="background-color:green;">**My notes:**</mark> [<mark style="background-color:green;">**7P notes: Xencelabs Pen Display 24**</mark>](7p-notes-xencelabs-pen-display-24.md)  &#x20;
-* Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)
+* Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)&#x20;
+* [MobileTechReview review of Xencelabs Pen Display 24](https://www.youtube.com/watch?v=o6R07naf2es) 2024/03/19 &#x20;
 * [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) 2023/06/04
 * [Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0\_XSUtLE) 2023/09/14
 * [Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) 2023/03/28
