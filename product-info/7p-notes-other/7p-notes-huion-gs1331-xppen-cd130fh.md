@@ -8,7 +8,9 @@
 
 ## Summary
 
-These are very similar tablets, but overall I would pick the Huion Kamvas 13 as the winner. The overall experience was slightly better in terms of drawing - even though I wish it had less AG sparkle.&#x20;
+These are very, very similar tablets.
+
+Overall I would pick the Huion Kamvas 13 as the winner - but only just very very slightly. The overall experience with the Huion was slightly better in terms of drawing - even though I wish it had less AG sparkle. If AG sparkle is more important for you, then the XP-Pen tablet may be a better choice.
 
 ## Evaluation notes
 
