@@ -10,14 +10,7 @@ Reddit for many years now has been the home of many very active communities of d
 
 Keep in mind these are community-supported. And while you might occasionally see someone from the support team of a tablet brand, these subreddits are NOT official support channels.
 
-* [**/r/wacom**](https://www.reddit.com/r/wacom/) (60K users as of 2024/02/21)
-* [**/r/huion**](https://www.reddit.com/r/huion/) (17.3K users as of 2024/02/21)
-* [**/r/XPpen**](https://www.reddit.com/r/XPpen/) (8.7K users as of 2024/02/21)
-* [**/r/xencelabs**](https://www.reddit.com/r/xencelabs/) (316 users as of 2024/02/21)
-* [**/r/drawingtablet**](https://www.reddit.com/r/drawingtablet/) (1.7K users as of 2024/02/21)
-* [**/r/samsunggalaxy**](https://www.reddit.com/r/samsunggalaxy/) (48.5K users as of 2024/03/16)
-* [**/r/galaxytab**](https://www.reddit.com/r/GalaxyTab/) (57.1K users as of 2024/03/16)
-* [**/r/ipad**](https://www.reddit.com/r/ipad/) (394K users as of 2024/03/16)
+<table><thead><tr><th width="208">Subreddit</th><th width="149">members</th><th>Member count updated on</th></tr></thead><tbody><tr><td><a href="https://www.reddit.com/r/wacom/">/r/wacom</a></td><td>60K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/huion/">/r/huion</a></td><td>17.3K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/XPpen/">/r/XPpen</a></td><td>8.7K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/xencelabs/">/r/xencelabs</a></td><td>316</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/drawingtablet/">/r/drawingtablet</a></td><td>1.7K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/samsunggalaxy/">/r/samsunggalaxy</a></td><td>48.5K</td><td>2024/03/16</td></tr><tr><td><a href="https://www.reddit.com/r/GalaxyTab/">/r/galaxytab</a></td><td>57.1K</td><td>2024/03/16</td></tr><tr><td><a href="https://www.reddit.com/r/ipad/">/r/ipad</a></td><td>394K</td><td>2024/03/16</td></tr><tr><td><a href="https://www.reddit.com/r/Gaomon/">/r/gaomon</a></td><td>500</td><td>2024/03/20</td></tr><tr><td><a href="https://www.reddit.com/r/ugee/">/r/ugee</a></td><td>22</td><td>2024/03/20</td></tr></tbody></table>
 
 ## Brand-hosted communities
 
