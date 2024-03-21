@@ -63,3 +63,24 @@ More here: [**Applications**](../../applications/)&#x20;
 ## Versus the Apple iPad
 
 You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+
+## Using the tablet as an external monitor via USB-C
+
+This means sending a display signal from a computer to this tablet.
+
+This tablet has no built in way to act as a monitor for your PC via USB-C.
+
+Some people report that they can use software called [SuperDisplay](https://superdisplay.app/) to make this happen, but I have not tried it.&#x20;
+
+## Using an external monitor via USB
+
+This means sending a display signal from the tablet to an external monitor.
+
+This is not supported and does not work.
+
+
+
+
+
+
+
