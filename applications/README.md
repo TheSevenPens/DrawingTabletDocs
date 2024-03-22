@@ -64,6 +64,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 
 * [**Microsoft OneNote**](microsoft-onenote.md) (Windows, MacOS, Android, iOS)
 * [**Samsung Notes**](samsung-notes.md) (select Samsung PCs and tablets)
+* [**Noteshelf**](https://www.noteshelf.net/) (iOS)
 
 ### Whiteboarding
 
