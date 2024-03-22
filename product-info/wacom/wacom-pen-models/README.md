@@ -2,6 +2,8 @@
 
 This a **very** incomplete list, but does cover many pens in use for the past few years.
 
+To find which pen is compatible with a tablet, see: [**Wacom pen compatibility**](../wacom-pen-compatibility.md).&#x20;
+
 ## **Consumer pens**
 
 * Wacom One pen GEN1 (CP-913)
