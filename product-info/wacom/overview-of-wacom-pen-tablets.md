@@ -4,6 +4,8 @@
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
+Here are [my detailed notes on the Intuos Pro (PTH-x86) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
+
 Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
 
 * **One by Wacom** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
@@ -163,11 +165,10 @@ Only some of the tablets support touch:
 
 For these tablets, touch can be enabled/disabled with a physical switch on the side of the tablet.
 
-**How good is the touch support?**
+More here:
 
-In my opinion the touch support is not great. The touch pad on any laptop you use will be far better and more responsive. Also the touch support has poor palm rejection. Disabling touch is the first thing I do with an tablet that supports it.
-
-Touch works much better on Window systems than on Macs. This is not Wacom's fault, it is due to how well Windows supports touch compared to MacOS.
+* &#x20;[My detailed notes on the Intuos Pro (PTH-x86) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
+* [Touch support](../../guides/touch-support.md)
 
 ## Tablet design
 
@@ -199,17 +200,9 @@ The same Wacom driver works with all three product lines.
 
 The Intuos Pro has a more textured surface, the Intuos and One by Wacom have less texture.
 
-**Intuos Pro texture**
+The Intuos Pro MEDIUM and LARGE model surface texture can by change using texture sheets.&#x20;
 
-The Intuos Pro MEDIUM and LARGE models have a surface that is replaceable with a **Texture Sheet**.Wacom has three kinds of texture sheets: Standard, Smooth, and Rough. These texture sheets are often sold out and the smooth one is EXTREMELY rare. Besides giving you the texture feeling you want, they are useful if you've scratched up the surface of your tablet and want to make it feel like new.   &#x20;
-
-## Nib wear
-
-The Intuos Pro series has a slightly more textured surface than the other models.
-
-A result of this texture is that - depending how you draw - you can wear down a nib very fast. If you are doing a lot of shading with many back and forth strokes you might even notice significant wear within a week or even a day.
-
-In any case, I advise everyone to always pay attention to their nibs and replace them if they are getting very worn.
+More here: [My detailed notes on the Intuos Pro (PTH-x86) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).   &#x20;
 
 ## Future versions
 
@@ -219,7 +212,7 @@ In August of 2023, The Intuos models seem to be replaced by the One by Wacom GEN
 
 **One by Wacom**
 
-No sign of any udpates coming
+No sign of any updates coming
 
 **Intuos Pro**
 
@@ -254,19 +247,4 @@ There are two Intuos Pro generations and unfortunately the have the same name "I
 * The Intuos Pro has no fabric pen holder
 * The Intuos Pro has a circular dial on the left of the tablet.
 
-## Understanding the model numbers
-
-### Consumer vs Professional
-
-The first letter to indicates if the tablet is a consumer of professional model. C means consumer. P means professional
-
-* C -> Consumer (example: **C**TL-472)
-* P -> Professional (example: **P**TH-660)
-
-### Active area size
-
-The first digit of the number Indicates the active area size of the tablet
-
-* 4 -> small (example: CTL-**4**72)
-* 6 -> medium (example: CTL-**6**100WL)
-* 8 -> large (example: PTH-**8**60)&#x20;
+##
