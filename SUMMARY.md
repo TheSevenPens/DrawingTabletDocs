@@ -345,5 +345,6 @@
     * [Diagonal wobble testing](resources/process/diagonal-wobble-testing.md)
   * [Koneko\_w](resources/koneko\_w.md)
 * [Misc](misc/README.md)
+  * [History of drawing tablets](misc/history-of-drawing-tablets.md)
   * [Mobile computer recommendations](recommendations/mobile-computer-recommendations.md)
   * [Test page](misc/test-page.md)
