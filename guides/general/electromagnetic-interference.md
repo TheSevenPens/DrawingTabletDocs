@@ -6,7 +6,7 @@ Electromagnetic Interference (EMI) can occur between your tablet and other devic
 
 ## Effects of EMI
 
-### **Jerky or stuttering pen positoin tracking**
+### **Jerky or stuttering pen position tracking**
 
 EMI can make the pen have jerky movements - making the pen unresponsive for a few tenths of a second and then the pointer will catch up.
 
