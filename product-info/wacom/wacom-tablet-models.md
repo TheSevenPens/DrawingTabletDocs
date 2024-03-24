@@ -1,4 +1,4 @@
-# Wacom tablet models
+# Wacom tablet
 
 ## Wacom's official current tablet models
 
@@ -7,6 +7,10 @@ You can see a list of all the tablets Wacom currently sells on their website ([h
 ## Kuuube's Wacom Tablet Mastersheet
 
 If you want the FULL list, see [**Kuuube's Wacom tablet mastersheet**](../../resources/kuuube/kuuubes-wacom-tablet-mastersheet.md)&#x20;
+
+##
+
+
 
 
 

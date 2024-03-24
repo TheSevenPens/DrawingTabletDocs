@@ -268,7 +268,7 @@
     * [Wacom model number format](product-info/wacom/wacom-model-number-format.md)
     * [Wacom One vs One by Wacom](product-info/wacom/wacom-one-vs-one-by-wacom.md)
     * [Wacom texture sheets](product-info/wacom/wacom-texture-sheets.md)
-    * [Wacom tablet models](product-info/wacom/wacom-tablet-models.md)
+    * [Wacom tablet](product-info/wacom/wacom-tablet-models.md)
     * [One by Wacom](product-info/wacom/one-by-wacom/README.md)
       * [7P notes: One by Wacom Medium (CTL-672)](product-info/wacom/one-by-wacom/7p-notes-one-by-wacom-medium-ctl-672.md)
     * [Wacom Intuos Pro](product-info/wacom/wacom-intuos-pro/README.md)
