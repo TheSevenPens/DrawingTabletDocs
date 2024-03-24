@@ -58,7 +58,7 @@ WARNING: I'm still workon on putting this timeline together. There may be mistak
 * 1991 - Painter (later Fractal Design Painter) published - one of the very earliest apps to support drawing tablets&#x20;
 * 1993 - Quantel Paintbox discontinued
 * 1993 - Apple Newton released
-* 1999 - Microsoft starts workin ong Tablet PC
+* 1999 - Microsoft starts working on Tablet PC
 
 ### 2000s
 
