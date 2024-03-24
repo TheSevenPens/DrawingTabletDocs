@@ -79,11 +79,11 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 Drawing tablets work with:
 
 * Macs
-* PCs running Windows. More here: [**Using a drawing tablet on Windows**](../guides/operating-systems/windows/using-a-drawing-tablet-on-windows.md) &#x20;
-* PCs running Linux. More here: [**Using a drawing tablet with Linux**](../guides/operating-systems/linux.md) &#x20;
+* PCs running Windows. More here: [**Using a drawing tablet on Windows**](../guides/windows/using-a-drawing-tablet-on-windows.md) &#x20;
+* PCs running Linux. More here: [**Using a drawing tablet with Linux**](../guides/linux.md) &#x20;
 * iPads to a very limited extent. More here: [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ios-device.md)  &#x20;
-* Android devices to some extent. More here: [**Using a drawing tablet with an Android device**](../guides/operating-systems/using-a-drawing-tablet-with-an-android-device.md) &#x20;
-* Chromebooks to some extent. More here: [**Using drawing tablets with Chromebooks**](../guides/operating-systems/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
+* Android devices to some extent. More here: [**Using a drawing tablet with an Android device**](../guides/general/using-a-drawing-tablet-with-an-android-device.md) &#x20;
+* Chromebooks to some extent. More here: [**Using drawing tablets with Chromebooks**](../guides/general/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
 
 ## Ergonomics
 

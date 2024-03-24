@@ -40,12 +40,12 @@ Often it can be a clue to what is going on.
 
 If you are using a Mac, skip this section. It does not apply to you.
 
-If you are using a Windows computer you need to be aware of a component called [Windows Ink](../guides/operating-systems/windows/windows-ink/).
+If you are using a Windows computer you need to be aware of a component called [Windows Ink](../guides/windows/windows-ink/).
 
 See these docs:
 
-* [Configure Windows Ink for in the tablet driver](../guides/operating-systems/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md)
-* [Configure Windows Ink for apps](../guides/operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
+* [Configure Windows Ink for in the tablet driver](../guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md)
+* [Configure Windows Ink for apps](../guides/windows/windows-ink/configure-windows-ink-for-apps.md)
 
 ## Pressure
 

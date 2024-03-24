@@ -14,8 +14,8 @@ It will also manifest as a small delay when first moving a slider. As you move t
 
 ## Things to try
 
-* Try [**disabling windows ink in the app**](../guides/operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md) and [**disabling windows ink in the driver**](../guides/operating-systems/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md).
-* Try [**disabling the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md).
+* Try [**disabling windows ink in the app**](../guides/windows/windows-ink/configure-windows-ink-for-apps.md) and [**disabling windows ink in the driver**](../guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md).
+* Try [**disabling the press-and-hold ring in Windows**](../guides/windows/disable-the-press-and-hold-ring-in-windows.md).
 
 ## Links
 

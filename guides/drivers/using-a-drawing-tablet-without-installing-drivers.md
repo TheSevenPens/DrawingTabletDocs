@@ -21,7 +21,7 @@ This is very common in educational environments. IT departments often "lock down
 
 If you have a Windows computer with no driver installed, and then you attach a tablet. One of two things will happen:
 
-* **The tablet will work**. In Windows this is due to Windows PNP (Plug and Play) support for tablets. Keep in mind that Windows PNP support for tablets does NOT have all the features that a typical tablet driver would provide. See: [Windows PNP support for drawing tablets](../operating-systems/windows/windows-pnp-support-for-drawing-tablets.md).&#x20;
+* **The tablet will work**. In Windows this is due to Windows PNP (Plug and Play) support for tablets. Keep in mind that Windows PNP support for tablets does NOT have all the features that a typical tablet driver would provide. See: [Windows PNP support for drawing tablets](../windows/windows-pnp-support-for-drawing-tablets.md).&#x20;
 * **The tablet will not work at all**. Some tablets are designed to deliberately NOT work without drivers installed. A great example is the Wacom Intuos Pro Large (PTH-860). Plugging it into a Windows computer achieves nothing. doesn't enable you to use&#x20;
 
 ## Windows using OpenTabletDriver
