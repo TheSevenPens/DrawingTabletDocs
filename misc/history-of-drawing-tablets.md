@@ -1,6 +1,18 @@
 # History of drawing tablets
 
+## General histories
+
+Wacom's CEO Masahiko Yamada gave this account of Wacom's history: [https://www.paintboxtv.com/wp-content/uploads/2012/11/2009-08-Wacom\_Art\_of\_Making\_Marks\_About\_How\_It\_All\_Started.pdf](https://www.paintboxtv.com/wp-content/uploads/2012/11/2009-08-Wacom\_Art\_of\_Making\_Marks\_About\_How\_It\_All\_Started.pdf)
+
+This blog post is also a good summary of the history: [https://historyofthearttablet.wordpress.com/](https://historyofthearttablet.wordpress.com/) This document also contains a number of links.
+
+See also this doc: [https://www.billbuxton.com/inputTimeline.html](https://www.billbuxton.com/inputTimeline.html)
+
+
+
 ## Timeline
+
+WARNING: I'm still workon on putting this timeline together. There may be mistakes. And I haven't reviwed this information with others.
 
 ### Antiquity
 
@@ -15,7 +27,8 @@
 
 ### 1950s
 
-* 1950s - Stylator, the first use of a stylus in an electronic computing device&#x20;
+* 1957 - Stylator, the first use of a stylus in an electronic computing device&#x20;
+* 1957 - Lightpen - first tech that allows a suser to draw directly on the screen
 
 ### 1960s
 
@@ -33,12 +46,16 @@
 * 1982 - Adobe founded (December 1982)
 * 1983 - KoalaPad released
 * 1983 - Wacom founded (July 12 1983)
+* 1983 - Wacom produces first drawing tablet with a battery-powered pen
+* 1984 - Wacom launches WT-460M - the first tablet with stylus not attached to the tablet (need to verify)
+* 1987 - Wacom releases first drawing tablet with EMR technology
+* 1987 - Wacom creates a Mac app called Pressure Paint - may be the first application to support pressure sensitivity available on a computer available to consumers
 * 1989 - GRiDPad by GRiD Systems Corporation - first tablet computer
 
 ### 1990s
 
 * 1990 - Adobe Photoshop released (Feb 19, 1990)
-* 1991 - Painter (later Fractal Design Painter) published
+* 1991 - Painter (later Fractal Design Painter) published - one of the very earliest apps to support drawing tablets&#x20;
 * 1993 - Quantel Paintbox discontinued
 * 1993 - Apple Newton released
 * 1999 - Microsoft starts workin ong Tablet PC
