@@ -1,7 +1,5 @@
 # Chapter 2: Terms
 
-##
-
 ## Etymology
 
 The modern words we have for drawing tablets: draw, tablet, pen, stylus are also ancient.
