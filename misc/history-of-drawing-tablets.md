@@ -10,11 +10,54 @@ See also this doc: [https://www.billbuxton.com/inputTimeline.html](https://www.b
 
 Is you want to see a list of drawing tablets from Wacom go here: [Wacom tablet list](../product-info/wacom/wacom-tablet-models.md)
 
+## Antiquity
+
+The idea of writing on a portable flat surface goes back a very long time - thousands of years.
+
+We know from archaeological records and from the writings of ancient authors such as Cicero (106 BC - 43 BC) Romans wrote on a wax tablet, called a tabula, with a stylus.
+
+Here's an image from Wikipedia showing what some of these tablets look like. Basically, it consisted of a wooden frame with some wax on the surface. Note that there are two tablets joined together to form a unit.&#x20;
+
+The Romans did not have modern paper, but instead used papyrus which is similar. It's unclear how expensive papyrus was ([see this SE question on the cost](https://history.stackexchange.com/questions/45700/what-did-parchment-and-papyrus-cost-in-the-roman-empire)) but in any case its easy to see why a wax tablet might be useful because it relied on everyday materials and could be erased and reused.
+
+<figure><img src="../.gitbook/assets/Table_with_was_and_stylus_Roman_times (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Even earlier in this image from Wikipedia, a painter of vases named Douris around 500BC produced of an image of man using a wax tablet, stylus in hand. Although, humorously and anachronistically this does look like someone using a laptop :-)
+
+<figure><img src="../.gitbook/assets/Douris_Man_with_wax_tablet (3).jpg" alt=""><figcaption></figcaption></figure>
+
+Here, from [Douris and the Painters of Greek Vases by Edmond Pottier](https://www.gutenberg.org/files/61034/61034-h/61034-h.htm), you can see the a schoolmaster depicted with a stylus and tax tablets.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Wax Tablet Schoolmaster i_080 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+## Etymology
+
+The modern words we have for drawing tablets: draw, tablet, pen, stylus are also ancient.
+
+**Tablet** comes to us from Latin **tabula** which had the senses of "a board", "plank", and very relevant for us "writing table". More here: [https://etymonline.com/word/table](https://etymonline.com/word/table)
+
+**Stylus** comes from Latin **stilus** where has the sense of a rod with a pointed end and intended for writing or making marks. More here: [https://www.etymonline.com/word/stylus](https://www.etymonline.com/word/stylus)
+
+**Pen** comes from Latin **penna** meaning "feather". As you may remember, a feather being hollow when dipped into ink can be used as a writing device. &#x20;
+
+**Draw** is related to **drag** and both come from Proto-Germanic _\*draganan_. The sense of these words comes from pulling something along. In the "draw" sense it is a writing instrument. In the "drag" sense it is any load. Even today you can see the word draw used in ways that don't have to do with creating pictures but rather the "pulling" sense - "Sally draws water from a well", "the sheriff drew his gun", "I had a blood sample drawn". More here: [https://www.etymonline.com/word/draw](https://www.etymonline.com/word/draw) and [https://www.etymonline.com/word/drag](https://www.etymonline.com/word/drag).
+
+## Pen vs stylus
+
+There is no right term to use. An equally good case can be made for either word. I prefer using "pen" over "stylus" only for these reasons:
+
+* It's a more common word
+* Many drawing tablets manufacturers brands use the word "pen". Example: Wacom Pro Pen 2 and Samsun S Pen.&#x20;
+
 ## Timeline
 
-WARNING: I'm still workon on putting this timeline together. There may be mistakes. And I haven't reviwed this information with others.
+WARNING: I'm still workon on putting this timeline together. There may be mistakes. And I haven't reviewed this information with others.
 
-### Antiquity
+### BC
 
 * 14th century BC - evidence of wax tablets usage (see Uluburun shipwreck)
 * 500 BC - art depicting writing with a wax tablet and stylus
