@@ -39,7 +39,7 @@ WARNING: I'm still workon on putting this timeline together. There may be mistak
 * 1983 - KoalaPad released
 * 1983 - Wacom founded (July 12 1983)
 * 1983 - Wacom produces first drawing tablet with a battery-powered pen
-* 1984 - Wacom launches WT-460M - the first tablet with stylus not attached to the tablet (need to verify)
+* 1984 - Wacom launches WT-460M - the first tablet with stylus not attached by cord to the tablet \[1a]
 * 1987 - Wacom releases first drawing tablet with EMR technology
 * 1987 - Wacom creates a Mac app called Pressure Paint - may be the first application to support pressure sensitivity available on a computer available to consumers
 * 1989 - GRiDPad by GRiD Systems Corporation - first tablet computer
