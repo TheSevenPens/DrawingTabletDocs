@@ -9,5 +9,6 @@
 
 ## Videos
 
-* [Brad Colbow - Galaxy Book3 Pro 360 Review](https://www.youtube.com/watch?v=Z8eXiq218qU) Feb 15, 2023
-* [MobileTechReview - Review of Galaxy Book3 Pro 360](https://www.youtube.com/watch?v=ApzQ5SxtzxI) Feb 24, 2023
+* [Brad Colbow - Galaxy Book4 Pro 2360 Review](https://www.youtube.com/watch?v=tRdPA5Xs9uU) 2023/03/25
+* [Brad Colbow - Galaxy Book3 Pro 360 Review](https://www.youtube.com/watch?v=Z8eXiq218qU) 2023/02/15
+* [MobileTechReview - Review of Galaxy Book3 Pro 360](https://www.youtube.com/watch?v=ApzQ5SxtzxI) 2023/02/24
