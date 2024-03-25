@@ -42,28 +42,9 @@ Some people draw "heavy-handed" and put a lot of pressure on their nib. This wil
 
 Some people a have drawing style that features lots of strokes drawn over and over. For example they might fill in an by drawing hundreds of cross-hatched lines. This can accelerate nib wear.
 
-## Nib material
+## Nib material affects nib wear
 
-Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down.&#x20;
-
-Typically nibs are either:
-
-* plastic
-* felt
-
-Wacom offers three materials for some of their tablets such as the Wacom One:
-
-* standard
-* elastomer
-* felt
-
-See this video for an explanation of how standard, elastomer, and felt feel: [https://www.youtube.com/watch?v=APAO-yWc\_PY](https://www.youtube.com/watch?v=APAO-yWc\_PY) &#x20;
-
-**Surface texture** - Drawing with plastic nib feels smoother. Felt adds a little extra sensation of texture
-
-**Nib wear** - Felt nibs will wear down more than plastic nibs.
-
-**Impact damage** - I've dropped pens with felt nibs and found that a drop is more likely to affect damage the felt nib.&#x20;
+Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [**Nib material**](nib-material.md).
 
 ## Preventing or slowing nib wear
 
