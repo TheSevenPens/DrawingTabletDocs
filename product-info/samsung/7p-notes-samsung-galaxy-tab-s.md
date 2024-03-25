@@ -62,7 +62,7 @@ More here: [**Applications**](../../applications/)&#x20;
 
 ## Versus the Apple iPad
 
-You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Using the tablet as an external monitor via USB-C
 

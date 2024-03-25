@@ -10,8 +10,8 @@ iPads - specifically those that use the Apple Pencil 2 - are very compelling alt
 
 See also:&#x20;
 
-* [**7P notes: Apple iPad versus drawing tablets**](../7p-notes-other/7p-notes-apple-ipad-versus-drawing-tablets.md)
-* [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**7P notes: Apple iPad versus drawing tablets**](7p-notes-apple-ipad-versus-drawing-tablets.md)
+* [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
