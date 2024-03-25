@@ -44,7 +44,7 @@ Some people a have drawing style that features lots of strokes drawn over and ov
 
 ## Nib material affects nib wear
 
-Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [**Nib material**](nib-material.md).
+Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [**Nib material**](../core-features/pen-nib-material.md).
 
 ## Preventing or slowing nib wear
 
