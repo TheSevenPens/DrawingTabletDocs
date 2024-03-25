@@ -10,8 +10,8 @@ iPads - specifically those that use the Apple Pencil 2 - are very compelling alt
 
 See also:&#x20;
 
-* [7P notes: Apple iPad versus drawing tablets](../7p-notes-other/7p-notes-apple-ipad-versus-drawing-tablets.md)
-* [7P notes: Apple iPad versus Samsung Galaxy Tab S](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**7P notes: Apple iPad versus drawing tablets**](../7p-notes-other/7p-notes-apple-ipad-versus-drawing-tablets.md)
+* [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
@@ -46,23 +46,22 @@ Some popular and excellent drawing applications are avilable on the iPad
 * Adobe Fresco
 * Ibis Paint
 
-### Drawing
-
-* Slippery glass surface when using the Apple Pencil. This can be mitigating by purchasing a screen protector which provides a more textured surface.
-* Noticeable diagonal wobble when drawing slowly. But this doesn't seem to hinder people.
-
-### Apple Pencil
-
-* Apple Pencil does not have buttons like a normal drawing tablet pen
-* Apple Pencil does not have an eraser unlike some EMR pens.
-* Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
-* Not all iPads support the use of the Apple Pencil. See: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
-
-## Surface texture
+### Surface texture
 
 * When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".&#x20;
 * Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
 * For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/protective-sheets/)&#x20;
+
+### Diagonal wobble
+
+Noticeable diagonal wobble when drawing slowly. But this doesn't seem to hinder people.
+
+### Apple Pencil
+
+* Apple Pencil does not have buttons
+* Apple Pencil does not have an eraser&#x20;
+* Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
+* Not all iPads support the use of the Apple Pencil. See: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
 
 ## Pencil support
 
@@ -86,12 +85,11 @@ Hover support in iPads:
 
 ## **Parallax**&#x20;
 
-iPads that support the Apple Pencil have EXCELLENT parallax compared to even the best pen displays. More here: [Parallax](../../guides/pen-displays/parallax.md)&#x20;
+iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More here: [Parallax](../../guides/pen-displays/parallax.md)&#x20;
 
 ## Pointer lag
 
 * iPads have incredibly little pointer lag. &#x20;
-* Pen displays have much more pointer lag than an iPad.&#x20;
 * More here: [lag](../../guides/core-features/lag.md)&#x20;
 
 ## **Anti-glare sparkle**
@@ -142,16 +140,13 @@ I occasionally use these iPad apps
 
 One easy way to send files easily back and forth between an iPad and Windows is to use a file syncing service. For example OneDrive - which is what I use.
 
-I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple PCs and my iPad. This allows me to edit them with whatever device I want. And changes are automatically synced to all the devices. &#x20;
+I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple PCs and my iPad. This allows me to edit them with whatever device I want. And changes are automatically synced to all the devices.
 
 ## Videos
 
 * [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) Oct 11, 2019
-* [Tim Mcburnie - iPad vs. Wacom](https://youtu.be/hBnEE367878) Feb 19, 2022
 * [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68\_Q7CiCzs) Oct 1, 2022
-* [Anastasia Berry - iPad or Display Tablet | What's Better for Drawing?](https://youtu.be/VOyQbBBuRrc) Feb 9, 2022
 * [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) Jun 24, 2019
-* [Teoh on Tech - iPad vs Pen Displays: Which to get for Digital Art](https://youtu.be/GJ6fVe3p-ec) Jun 10, 2021
 * [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68\_Q7CiCzs) Oct 1, 2022
 * [Teoh on tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) Nov 1, 2022
