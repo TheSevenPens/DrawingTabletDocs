@@ -21,3 +21,10 @@ Wacom offers three materials for some of their tablets such as the Wacom One:
 * felt
 
 See this video for an explanation of how standard, elastomer, and felt feel: [https://www.youtube.com/watch?v=APAO-yWc\_PY](https://www.youtube.com/watch?v=APAO-yWc\_PY) &#x20;
+
+## Metal nibs
+
+I DO NOT recommend [**using a metal nib**](../customizing-your-experience/using-metal-nibs.md).
+
+
+
