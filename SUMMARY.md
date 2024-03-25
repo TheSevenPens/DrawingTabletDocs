@@ -312,6 +312,7 @@
     * [XP-Pen pens](product-info/xp-pen/xp-pen-pens.md)
   * [Ugee](product-info/ugee.md)
   * [Miscellaneous](product-info/7p-notes-other/README.md)
+    * [7P notes: Apple iPad versus drawing tablets](product-info/7p-notes-other/7p-notes-apple-ipad-versus-drawing-tablets.md)
     * [7P notes: Apple iPad versus Samsung Galaxy Tab S](product-info/7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)
     * [7P notes: 13" pen displays compared](product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
   * [ASUS](product-info/asus.md)

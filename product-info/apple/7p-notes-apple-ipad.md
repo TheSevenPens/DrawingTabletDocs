@@ -8,6 +8,11 @@ description: Using an iPad as a drawing tablet
 
 iPads - specifically those that use the Apple Pencil 2 - are very compelling alternative to a typical EMR standalone drawing tablet. They are lightweight, mobile, have a great display, a rich app ecosystem, and the drawing experience, while different is very similar to that of a drawing tablet.
 
+See also:&#x20;
+
+* [7P notes: Apple iPad versus drawing tablets](../7p-notes-other/7p-notes-apple-ipad-versus-drawing-tablets.md)
+* [7P notes: Apple iPad versus Samsung Galaxy Tab S](../7p-notes-other/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+
 ## Terminology
 
 Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to keep consistent with rest of my documentation.
@@ -32,14 +37,14 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 * Newer Apple iPad Pro models use the Apple Pencil 2 - which support pen hover
 * Very little pointer lag. Apple iPads have much less lag than pen displays or pen computers. The pointer is comparable to a pen tablet.
 
-## &#x20;iPad challenges
-
 ### Apps
 
-* Not all PC applications are available on iPad.&#x20;
-* Applications on iPad may not be as full-featured as their PC equivalents.
-* Some popular drawing apps like Clip Studio Paint are available on iOS, MacOS, Windows.&#x20;
-* The most popular drawing app on the iPad, ProCreate, does not have a version for MacOS or Windows. This may be an issue for you if you want to use the same app on your desktop as well as on your iPad.&#x20;
+Some popular and excellent drawing applications are avilable on the iPad
+
+* ProCreate
+* ClipStudioPaint
+* Adobe Fresco
+* Ibis Paint
 
 ### Drawing
 
