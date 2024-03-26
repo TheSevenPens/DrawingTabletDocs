@@ -8,7 +8,7 @@ There are three popular compatibility lists:
 * MacHollywood maintains another the [**MacHollywood compatibility list**](https://machollywood.com/blogs/news/wacom-pen-compatibility).
 * Tablet expert Kuuube, maintains this list [**Kuuube's Wacom pen compatibility mastersheet**](../../resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md). Note that in this list is tested with Open Tablet Driver, not the Wacom drivers.
 
-As always, no matter where you see compatibility lists, ALWAYS contact product support to verify compatibility before purchasing a pen.
+<mark style="color:red;">As always, no matter where you see compatibility lists, ALWAYS contact product support to verify compatibility before purchasing a pen.</mark>
 
 ## Common compatibility pairs&#x20;
 
