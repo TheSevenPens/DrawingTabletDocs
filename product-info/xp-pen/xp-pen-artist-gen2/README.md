@@ -1,5 +1,10 @@
 # XP-Pen Artist GEN2
 
+## XP-Pen Artist 10 GEN2 (CD100FH)
+
+* [Brad Colbow Review of XP-Pen Artist 12](https://www.youtube.com/watch?v=52xkp0i3Lvg) - 2022/10/31
+* [Teoh on Tech XP-Pen Artist 10 & 13 (2nd gen) Unboxing and Impression](https://www.youtube.com/watch?v=Exj2PZu4MHM) - Aug 18, 2022
+
 ## XP-Pen Artist 12 Gen2 (CD120FH)
 
 * [Teoh on Tech review of XP-Pen Artist 12 Gen2](https://www.youtube.com/watch?v=M0ULxV-oOf0) 2021/11/19

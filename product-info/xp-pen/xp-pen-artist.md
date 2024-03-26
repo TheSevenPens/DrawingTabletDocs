@@ -1,5 +1,7 @@
 # XP-Pen Artist
 
+##
+
 ## XP-Pen Artist 12 GEN1
 
 * [https://www.xp-pen.com/store/buy/artist-12.html](https://www.xp-pen.com/store/buy/artist-12.html) &#x20;
@@ -24,10 +26,18 @@
 
 ## XP-Pen Artist 22 Plus (MD220FH)
 
-[Brad Colbow review of XP-Pen Artist 22 Plus](https://www.youtube.com/watch?v=YfEfGOJOQJs) Nov 20, 2023
+* [Brad Colbow review of XP-Pen Artist 22 Plus](https://www.youtube.com/watch?v=YfEfGOJOQJs) 2023/11/20
 
 ## XP-Pen Artist 22R Pro&#x20;
 
-[Brad Colbow review of XP-Pen Artist 22R Pro Review](https://www.youtube.com/watch?v=VxjLV1RhM0I) Feb 3, 2020
+* [Brad Colbow review of XP-Pen Artist 22R Pro](https://www.youtube.com/watch?v=VxjLV1RhM0I) 2020/02/03
+
+## XP-Pen Artist 24 Pro
+
+* [Brad Colbow Review of XP-Pen Artist 24 Pro](https://www.youtube.com/watch?v=HJud2Y5XNxQ) 2020/06/22&#x20;
+* [Marc Brunet Review of XP-Pen Artist 24 Pro](https://www.youtube.com/watch?v=ANWe6qJlLh4) 2020/06/01&#x20;
+* [Aaron Rutten Review of the XP-Pen Artist 24 Pro](https://www.youtube.com/watch?v=S9xGT6NRwEI) 2020/06/13
+* [Create Now Sleep comparison of XP-Pen Artist 24 Pro vs Huion Kamvas Pro 24 vs Cintiq Pro 24](https://www.youtube.com/watch?v=OcL8d7O9ppg)  2021/02/18
+*
 
 ##
