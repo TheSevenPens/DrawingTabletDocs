@@ -54,7 +54,13 @@ Photodon sells pre-cut and custom-sized protectors for all kinds of devices incl
 
 ### Foxbox&#x20;
 
-These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. More here: [**Foxbox covers**](foxbox-covers.md)
+These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. More here: [**Foxbox covers**](foxbox-covers.md)&#x20;
+
+### **BlueBunny**
+
+I have only recenty (2024/03/25) heard of BlueBunny but don't have any direct experience with their covers. Might be an option for some of you.
+
+[**https://bluebunny.store/**](https://bluebunny.store/)&#x20;
 
 ### atFoliX&#x20;
 
