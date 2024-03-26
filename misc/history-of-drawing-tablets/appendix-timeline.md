@@ -2,10 +2,6 @@
 
 ##
 
-## Overview
-
-WARNING: I'm still workon on putting this timeline together. There may be mistakes. And I haven't reviewed this information with others.
-
 ### BC
 
 * 14th century BC - evidence of wax tablets usage (see Uluburun shipwreck)

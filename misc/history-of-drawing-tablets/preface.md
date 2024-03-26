@@ -10,6 +10,14 @@ But to the best of my ability I am working on putting one together now. I've jus
 
 Until then if there's anything you'd like to see explored or any feedback you'd like to give please let me know at [thesevenpens@outlook.com](mailto:thesevenpens@outlook.com)
 
+[Chapter 1: Antiquity](chapter-1-antiquity.md)
+
+[Chapter 2: Terms](chapter-2-terms.md)
+
+
+
+
+
 ##
 
 ##
