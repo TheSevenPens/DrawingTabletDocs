@@ -352,6 +352,7 @@
     * [Chapter 1: Antiquity](misc/history-of-drawing-tablets/chapter-1-antiquity.md)
     * [Chapter 2: Terms](misc/history-of-drawing-tablets/chapter-2-terms.md)
     * [Appendix: Timeline](misc/history-of-drawing-tablets/appendix-timeline.md)
+    * [Appendix: Other histories](misc/history-of-drawing-tablets/appendix-other-histories.md)
     * [Appendix: References](misc/history-of-drawing-tablets/appendix-references.md)
   * [Mobile computer recommendations](recommendations/mobile-computer-recommendations.md)
   * [Test page](misc/test-page.md)
