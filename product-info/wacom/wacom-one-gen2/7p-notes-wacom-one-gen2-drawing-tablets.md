@@ -38,6 +38,10 @@ The Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with press
 
 See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
+Here's a reddit thread with another manifestation of the problem with the CTC-6110WL. [https://www.reddit.com/r/wacom/comments/1bniejn/my\_new\_ctc6110wl\_does\_not\_work\_properly\_with](https://www.reddit.com/r/wacom/comments/1bniejn/my\_new\_ctc6110wl\_does\_not\_work\_properly\_with)&#x20;
+
+
+
 ## Notes on the new Wacom One Pen (GEN2)
 
 **See this:**[ 7p notes: Wacom One Pen (GEN2](7p-notes-wacom-one-pen-gen-2.md))&#x20;
