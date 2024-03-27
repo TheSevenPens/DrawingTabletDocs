@@ -25,3 +25,8 @@ Some people make their own grips using
 * Raquetball tape
 * Hockey tape
 * Suguru (See this [reddit thread](https://www.reddit.com/r/huion/comments/mcefso/comment/gs3ew7e/?utm\_source=share\&utm\_medium=web2x\&context=3))
+* Yarn
+
+Here's an example of someone using **yarn** to make a grip. ([**from this reddit thread**](https://www.reddit.com/r/wacom/comments/1bnvtqu/setup\_is\_super\_old\_and\_the\_grip\_is\_smooth\_my/))
+
+<figure><img src="../.gitbook/assets/yarn grip.jpg" alt=""><figcaption></figcaption></figure>
