@@ -19,15 +19,18 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 * SMALL [**Wacom One 12 GEN2 (DTC-121)**](../product-info/wacom/wacom-one-gen2/) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)
 * SMALL [**XP-Pen Artist 16 GEN2 (CD160FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (due to excessive diagonal wobble)&#x20;
 * LARGE [**Huion Kamvas 22 (GS2201)**](../product-info/huion/huion-kamvas/) $450
+* LARGE [**XP-Pen Artist 22 Plus (MD220FH)**](../product-info/xp-pen/xp-pen-artist.md) $470&#x20;
 
-## **$500 to $1000**
+## **$500 to $7500**
 
 * SMALL [**Wacom One 13 touch** **GEN2 (DTH0134)**](../product-info/wacom/wacom-one-gen2/) $600 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)&#x20;
 * MEDIUM [**Wacom Cintiq 16 (DTK-1660)**](../product-info/wacom/wacom-cintiq.md) $650
-* MEDIUM [**Huion Kamvas Pro 16 Plus 4K (GT1562)**](../product-info/huion/huion-kamvas-pro/) $900 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)) <mark style="color:red;">**NOT RECOMMENDED DUE TO HIGH AG SPARKLE**</mark>&#x20;
 * MEDIUM [**XP-Pen Artist Pro 16 GEN2 (MD160QH)** ](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md)$600 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
-* LARGE [**XP-Pen Artist 22 Plus (MD220FH)**](../product-info/xp-pen/xp-pen-artist.md) $470&#x20;
 * LARGE [**Huion Kamvas 22 Plus (GS2202)**](../product-info/huion/huion-kamvas/) $550 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-22-plus.md))
+
+## $750 to $1000
+
+* MEDIUM [**Huion Kamvas Pro 16 Plus 4K (GT1562)**](../product-info/huion/huion-kamvas-pro/) $900 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-kamvas-pro-16-plus-4k-gt1562.md)) <mark style="color:red;">**NOT RECOMMENDED DUE TO HIGH AG SPARKLE**</mark>&#x20;
 * LARGE [**Huion Kamvas 24 Plus (GS2402)**](../product-info/huion/huion-kamvas/) $900&#x20;
 
 ## $1000 to $1500
