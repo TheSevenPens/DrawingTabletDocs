@@ -61,6 +61,8 @@
     * [Pen nib travel](guides/core-features/pen-nib-travel.md)
     * [Pen nib material](guides/core-features/pen-nib-material.md)
     * [Lag](guides/core-features/lag.md)
+    * [Pointer lag](guides/core-features/lag-1.md)
+    * [Brush lag](guides/core-features/lag-2.md)
     * [Diagonal wobble](guides/core-features/diagonal-wobble.md)
     * [Surface texture](guides/core-features/surface-texture.md)
     * [ExpressKeys](guides/core-features/expresskeys.md)
