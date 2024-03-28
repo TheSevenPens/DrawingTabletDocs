@@ -39,28 +39,9 @@ Even though this video is about used pen tablets, I think it may be useful even 
 * If you have an older tablet and need a driver check out [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)&#x20;
 * For creative work in Windows see [**Using OpenTabletDriver on Windows for drawing**](../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
 
-## Inspecting a used tablet before you buy
+## Testing out a tablet before you buy
 
-If you have the opportunity to examine the tablet before you decide to buy, here are some things to check:
-
-* **Basic test of functionality**&#x20;
-  * Plug it in and test core features with an app like Krita
-    * Check if the pen works in all locations
-    * Check if the pressure smoothly going from zero to 100
-    * Check tilt
-    * Check that location of pen is tracked accurately in over the entire surface of the tablet
-* **Express keys**
-  * Check if all the buttons, dials, work. A quick way to test this is to map the buttons to keypresses. Then you can open a notepad app and press the express keys and see it typing things
-* **Pen display features**
-  * Check for stuck or dead pixels
-  * Check for basic color and brightness
-  * All pen displays have more pointer lag than pen tablets. Verify if you are OK with the amount it has.
-  * All pen displays have some minor edge and corner inaccuracy in tracking the pen location. Check this to see how much there is and if you are OK with this.
-  * Verify you are OK with the anti-glare sparkle on the screen. Some people are very sensitive to this.
-* **Check surface**
-  * There should be no cuts or scratches deep enough that you can feel them through the pen
-* **Check with your own device**
-  * If you are buying on locally, see test it with your computer. For example, if you plan to use it with a laptop, bring that laptop with you to see if the connections work.&#x20;
+If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](buying-used-drawing-tablets-1.md). &#x20;
 
 ## Reddit threads
 
