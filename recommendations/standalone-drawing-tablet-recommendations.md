@@ -101,4 +101,4 @@ Two editions:
 
 ## Other resources&#x20;
 
-* [**Teoh on Tech - iPad vs Android and Windows tablets (artist perspective)**](https://youtu.be/CJCZSI3H7mk) Jan 5, 2024
+* [**Teoh on Tech - iPad vs Android and Windows tablets (artist perspective)**](https://youtu.be/CJCZSI3H7mk) 2024/01/05

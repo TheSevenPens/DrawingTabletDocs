@@ -14,7 +14,7 @@ Below, here are tablets I would personally recommend separated by device type. T
 
 * [**Buying a drawing tablet**](../buying-a-drawing-tablet/)&#x20;
 * [**Drawing tablet brands**](../drawing-tablet-brands/)&#x20;
-* [Brad Colbow: Best Drawing Tablet By Price](https://youtu.be/nENQ-TLBYvI) Jun 20, 2022
-* [Aaron Rutten: The 10 Best DRAWING TABLETS of 2022](https://youtu.be/fNy1hnlKxuY) Nov 1, 2022
-* [Brad Colbow: Best Drawing Tablets for Beginners - What I Recommend](https://youtu.be/Dh49NwMt1yw) May 8 2023
-* [Brad Colbow: Dream Digital Art Setup on a Budget](https://youtu.be/xVN4tt27u6s) Aug 7, 2023
+* [Brad Colbow: Best Drawing Tablet By Price](https://youtu.be/nENQ-TLBYvI) 2022/06/20
+* [Aaron Rutten: The 10 Best DRAWING TABLETS of 2022](https://youtu.be/fNy1hnlKxuY) 2022/10/01
+* [Brad Colbow: Best Drawing Tablets for Beginners - What I Recommend](https://youtu.be/Dh49NwMt1yw) 2023/05/08
+* [Brad Colbow: Dream Digital Art Setup on a Budget](https://youtu.be/xVN4tt27u6s) 2023/08/07
