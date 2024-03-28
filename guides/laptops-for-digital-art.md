@@ -29,14 +29,20 @@ Before you buy a laptop, please ensure that you are clear how you intend to conn
 
 ### Windows
 
-* [Surface Pro 8](../product-info/microsoft/microsoft-surface-pro-8.md)&#x20;
+* [Surface Pro 8](../product-info/microsoft/microsoft-surface-pro-8.md)
 * [Surface Pro 9](../product-info/microsoft/microsoft-surface-pro-9.md)&#x20;
 * Surface Laptop Studio&#x20;
-* Surface Laptop 5
+* Surface Laptop 5&#x20;
+* Samsung Galaxy Book3 Pro 360&#x20;
+* Samsung Galaxy Book4 Pro 360 &#x20;
 
 ### Macs
 
 * I'm sure Macs are fine, but I only on December 2023 did I start playing with a MacBook Pro. So I haven't really used on enough to have an opinion yet. But many people have great experiences with them.
+
+**Chromebooks**
+
+* I don't recommend Chromebooks for use with drawing tablets. More here: [**Using a drawing tablet with a Chromebook**](general/using-a-drawing-tablet-with-a-chromebook.md).
 
 ## What I use
 
@@ -60,7 +66,11 @@ Though I've used every kind successfully: Huion, XP-Pen, and Xencelabs.
 
 ## Videos
 
-* [Brad Colbow - Top 5 Laptops for Artists 2021](https://www.youtube.com/watch?v=U6sBdsr5sdg) &#x20;
+* [Brad Colbow - Top 5 Laptops for Artists 2021](https://www.youtube.com/watch?v=U6sBdsr5sdg)  2021/11/19
+* [Ergojosh - 4 Reasons Why I Switched to Mac!](https://www.youtube.com/watch?v=Q0yT-rIh\_88) \[Digital Artist] 2021/11/12&#x20;
+* [Ben G Kaiser - Best Laptops for Graphic Design, Art, and Photography Heading Into 2024 | Laptop Buyers Guide](https://www.youtube.com/watch?v=JLmPaBMeMKk) 2024/03/06&#x20;
+* [Ben G Kaiser - Best Laptops for Graphic Design & Digital Art Heading Into 2023 | Graphic Design Laptop Buyers Guide](https://www.youtube.com/watch?v=3zE9RetXJ8Y) 2023/02/09&#x20;
+* [Ben G Kaiser - Best Laptops for Graphic Design, Art, and Photography Students](https://www.youtube.com/watch?v=0JYW0KUO0VU) 2022/08/22 &#x20;
 
 ## Resources
 
