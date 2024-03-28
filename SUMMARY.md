@@ -20,7 +20,7 @@
   * [The drawing experience](basics/the-drawing-experience.md)
 * [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
   * [Buying used drawing tablets](buying-a-drawing-tablet/buying-used-drawing-tablets.md)
-  * [Inspecting a drawing tablet before buying](buying-a-drawing-tablet/buying-used-drawing-tablets-1.md)
+  * [Inspecting a drawing tablet before buying](buying-a-drawing-tablet/inspecting-a-drawing-tablet-before-buying.md)
   * [Pen tablets vs pen displays](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
   * [The case against pen computers](buying-a-drawing-tablet/the-case-against-pen-computers.md)
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)

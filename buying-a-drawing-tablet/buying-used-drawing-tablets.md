@@ -41,7 +41,7 @@ Even though this video is about used pen tablets, I think it may be useful even 
 
 ## Testing out a tablet before you buy
 
-If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](buying-used-drawing-tablets-1.md). &#x20;
+If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawing-tablet-before-buying.md). &#x20;
 
 ## Reddit threads
 
