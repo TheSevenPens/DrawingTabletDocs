@@ -90,7 +90,7 @@ Pen tech: MPP (similar to AES)
 
 Type: 2-in-1 laptop
 
-Pen tech: Wacom EMR ([**Samsung S Pen**](../product-info/samsung/samsung-s-pen/))
+Pen tech: Wacom EMR ([**Samsung S Pen**](../product-info/samsung/samsung-s-pen.md))
 
 NOTE: I haven't tried it myself, but this **may** also be compatible with the Wacom CP-913 pen.
 
