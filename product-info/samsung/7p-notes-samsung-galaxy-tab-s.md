@@ -25,27 +25,16 @@ All three exhibit very low pointer lag. A bit more than the apply pencil, but le
 
 ## Pens
 
-The Galaxy Tab models come with an Samsung S Pen but they are also compatible with a few other pens. In particular the Wacom One GEN1 pen (CP-913).
-
-### Using the Samsung S Pen
-
-RATING: GOOD. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil though it is not as good as the Wacom Pro Pen 2 in terms of pressure range.
-
-The overall pressure of the S pen is good. In my testing it has a good maximum pressure of about 250gf. The IAF - I am not sure - I think it could be around 3gf.
+The Galaxy Tab models come with an Samsung S Pen but they are also compatible with a few other pens. In particular the Wacom One GEN1 pen (CP-913). Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-notes-samsung-s-pen.md).
 
 ### Using the Wacom One GEN1 Pen CP-913
 
-RATING: VERY GOOD.  The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  I usually use the CP-913 that came with my Wacom One (DTC-133).
-
-## Pen Buttons
-
-The S Pen has one physical button, unlike the Apple iPad. This also differs from the pens of most drawing tablets like the Wacom Intuos or Wacom Intuos Pro. Those pens have two buttons, and some have three. More here: [**Samsung S Pen**](samsung-s-pen.md)
+The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  I usually use the CP-913 that came with my Wacom One (DTC-133).
 
 ## System lag
 
-The S8 and S9 are incredibly responsive and I don't notice much lag. They seemed as responsive as an iPad.
-
-The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive.&#x20;
+* The S8 and S9 are incredibly responsive and I don't notice much lag. They seemed as responsive as an iPad.
+* The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive.&#x20;
 
 ## Apps
 
@@ -77,10 +66,3 @@ Some people report that they can use software called [SuperDisplay](https://supe
 This means sending a display signal from the tablet to an external monitor.
 
 This is not supported and does not work.
-
-
-
-
-
-
-
