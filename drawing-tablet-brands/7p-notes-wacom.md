@@ -6,6 +6,13 @@ The undisputed leading brand is **Wacom** ([https://www.wacom.com](https://www.w
 
 My experience: I currently own 39 Wacom tablets (6 pen displays and 33 pen tablets). I have extensively used every tablet in their professional series.&#x20;
 
+Some basic summaries of their leading series of tablets
+
+* **Intuos Pro** - professional pen tablets. continue to be the best pen tablets ever made
+* **Cintiq Pro** - professional pen displays - continue to be the best pen displays ever made
+* **One by Wacom** - consumer pen tablets - are terrific beginner tablets
+* Wacom One - consumer pen tablets an pen displays - mixed bag of results here.&#x20;
+
 ## What Wacom does well
 
 * Best EMR tech. This may not be obvious just by comparing specs, but their EMR tablet technology is ahead.&#x20;

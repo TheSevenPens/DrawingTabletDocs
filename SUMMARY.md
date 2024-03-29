@@ -30,6 +30,7 @@
   * [Pen display recommendations](recommendations/pen-display-recommendations.md)
   * [Standalone drawing tablet recommendations](recommendations/standalone-drawing-tablet-recommendations.md)
 * [Drawing tablet brands](drawing-tablet-brands/README.md)
+  * [Drawing tablet brands vs digitizers](drawing-tablet-brands/drawing-tablet-brands-vs-digitizers.md)
   * [7P notes: Tier 2 drawing tablet brands](drawing-tablet-brands/7p-notes-tier-2-drawing-tablet-brands.md)
   * [7P notes: Xencelabs](drawing-tablet-brands/7p-notes-xencelabs.md)
   * [7P notes: Wacom](drawing-tablet-brands/7p-notes-wacom.md)
