@@ -9,11 +9,11 @@ There are many tablet brands. And picking the brand of the tablet is one of the 
 * If you are not familiar with drawing tablets, please read the [Beginner's guide to drawing tablets](../guides/beginners-guide.md)
 {% endhint %}
 
-## **Tier 1: Wacom is the leading brand**
+## **Tier 1: Wacom**
 
 **Wacom** continues to make the highest quality and most reliable tablets. In general, Wacom has tghe best drawing experience. Their products are the most expensive. I consider Wacom to be the "safe choice". More here:  [**my notes on Wacom**](7p-notes-wacom.md)
 
-## Tier 2: Huion and XP-Pen are starting to challenge Wacom
+## Tier 2: Huion and XP-Pen
 
 **Huion and XP-pen** since about 2021 have been releasing solid devices
 
@@ -30,19 +30,19 @@ The have a large porfolio of tablets - too large actually.&#x20;
 
 Research your choice and you should find something that works well for you. Drawing experience good, typically you may find you need to perform more customization (pressure curves, etc.) to get the drawing experience that works for you.  More here: [**My notes on Tier 2 drawing tablet brands**](7p-notes-tier-2-drawing-tablet-brands.md) &#x20;
 
-## Tier 2: Xencelabs is going after Wacom's professional tablet business
+## Tier 2: Xencelabs
 
 **Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support. more here: [**my notes on Xencelabs**](7p-notes-xencelabs.md)
 
-## Tier 3: Other smaller brands
+## Tier 3: Smaller brands
 
 After Wacom, Huion, XP-Pen, there are many other brands that focus on budget or consumer tablets. All these brands the same technology as the Tier 2 brands. In fact they are even owned by the same companies. But have smaller portfolios, less responsive customer support, and smaller communities.&#x20;
 
-* Artisul - [https://artisul.com/](https://artisul.com/)
-* Gaomon - [https://www.gaomon.net/](https://www.gaomon.net/)&#x20;
-* Ugee - [https://www.ugee.com/](https://www.ugee.com/)
-* Veikk - [https://www.veikk.com/](https://www.veikk.com/)
-* Parblo&#x20;
+* **Artisul** - [https://artisul.com/](https://artisul.com/)
+* **Gaomon** - [https://www.gaomon.net/](https://www.gaomon.net/)&#x20;
+* **Ugee** - [https://www.ugee.com/](https://www.ugee.com/)
+* **Veikk** - [https://www.veikk.com/](https://www.veikk.com/)
+* **Parblo** - [https://www.parblo.com/](https://www.parblo.com/)
 
 ## Tier 4: Everyone else
 
@@ -65,7 +65,7 @@ Communities are where a people can learn and get help with drawing tablets. Depe
 
 ## Discussions
 
-* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/) - user [Pod\_\_](https://www.reddit.com/user/Pod\_\_/) has great comments on some things he thinks Wacom does better.
+* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/)
 * [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) - brands compared
 
 ##
