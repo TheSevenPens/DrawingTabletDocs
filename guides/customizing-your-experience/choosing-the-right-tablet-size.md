@@ -52,21 +52,12 @@ Here's what you should consider in your choice
 | <p><strong>Mouse replacement</strong><br>(More here: <a href="../use-cases/using-a-drawing-tablet-instead-of-a-mouse.md">Using a drawing tablet instead of a mouse</a>)</p> | **SMALL (7")**                                                                                   | N/A                                                                                               |
 | **For children**                                                                                                                                                            | **SMALL (7")**                                                                                   | **SMALL  (13")**                                                                                  |
 
-## **Small pen tablets (7")**
+## **Pen tablets size**
 
-**Small** pen tablets are good for scenarios where the focus is less on creating strokes. For example, if you need to simply use a tablet as a replacement for a mouse, then a small tablet will work fine. One creative task that works great with small tablets in photo editing - since it doesn't typically require "drawing". Most people who are drawing would find using a small tablet, to feel very "cramped".
-
-## Medium pen tablets (11")
-
-**Medium** pen tablets are the best combination of size, cost, and ergonomics for most people interested in drawing tablets and is my standard recommendation. Medium tablets are the minimum size I would recommend for anyone who is interested in drawing, sketching, painting, or any creative task that requires drawing with strokes.
-
-## Large pen tablets (15")
-
-Large pen tablets are these days the largest size available. They are popular for some artists. They are large enough though that you will have to adapt to using them. More here: [**Using large pen tablets**](using-large-pen-tablets.md).
-
-## Extra large pen tablets (23")
-
-Extra large pen tablets are no longer produced but for some users they are ideal but require quite a bit of adjustment to use. More here: [**Using Extra-large pen tablets**](using-extra-large-pen-tablets.md).
+* **Small (7")** pen tablets are good for scenarios where the focus is less on creating strokes. For example, if you need to simply use a tablet as a replacement for a mouse, then a small tablet will work fine. One creative task that works great with small tablets in photo editing - since it doesn't typically require "drawing". Most people who are drawing would find using a small tablet, to feel very "cramped".
+* **Medium (11")** pen tablets are the best combination of size, cost, and ergonomics for most people interested in drawing tablets and is my standard recommendation. Medium tablets are the minimum size I would recommend for anyone who is interested in drawing, sketching, painting, or any creative task that requires drawing with strokes.
+* **Large (15")** pen tablets are these days the largest size available. They are popular for some artists. They are large enough though that you will have to adapt to using them. More here: [**Using large pen tablets**](using-large-pen-tablets.md).
+* **Extra large (23")** pen tablets are no longer produced but for some users they are ideal but require quite a bit of adjustment to use. More here: [**Using Extra-large pen tablets**](using-extra-large-pen-tablets.md).
 
 ## Pen tablet size vs monitor size
 
@@ -76,8 +67,11 @@ If you have a pen tablet (which does not have a screen), then you use it with a 
 
 * **SMALL (13")** pen displays may be good choices for children.
 * If you are drawing the minimum size I would recommend is **MEDIUM (16")**, though many people work very effectively with SMALL pen displays.&#x20;
-* I think the best balance is around 20" to 22" - these provide enough space to draw on without being to cumbersome, occupying too much space on a desk, or being difficult to move.
 * **LARGE (24")** are great but they do occupy a lot of space so ensure you have a desk that is big enough.
+* I think the best balance is around 20" to 22" - these provide enough space to draw on without being to cumbersome, occupying too much space on a desk, or being difficult to move.
+
+## Impact of pen display size
+
 * **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch of the display, the more anti-glare sparkle you will notice. For example using the same anti-glare treatment a 4K 24" display will show less AG sparkle, than a 4K 16" display.&#x20;
 
 ## **Videos**
