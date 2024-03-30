@@ -74,6 +74,7 @@
   * [Customizing your experience](guides/customizing-your-experience/README.md)
     * [Matching aspect ratios](guides/customizing-your-experience/matching-aspect-ratios.md)
     * [Choosing the right tablet size](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+    * [Using Extra-large pen tablets](guides/customizing-your-experience/using-extra-large-pen-tablets.md)
     * [Matching pen tablet size to monitor size](guides/customizing-your-experience/matching-pen-tablet-size-to-monitor-size.md)
     * [Active Area Mapping for pen tablets and widescreen monitors](guides/customizing-your-experience/active-area-mapping-for-pen-tablets-and-widescreen-monitors.md)
     * [Mirroring or extending your desktop to a pen display](guides/customizing-your-experience/mirroring-or-extending-your-desktop-to-a-pen-display.md)

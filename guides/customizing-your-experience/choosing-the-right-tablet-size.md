@@ -74,13 +74,7 @@ Watch this video to learn more about he reality of using LARGE tablets:&#x20;
 
 ## Extra large pen tablets (23")
 
-* Are very specialized and not appropriate for most people
-* Are no longer in production -  only Wacom made them and the most recent models series - the Wacom Intuos 4 XL is from 2011.
-* Require lots of adjustment to your work style due to their size
-
-Watch this video to learn about the reality of using EXTRA LARGE pen tablets:&#x20;
-
-{% embed url="https://youtu.be/Tv_qX1Z9-wI" %}
+Extra large pen tablets are no longer produced but for some users they are ideal but require quite a bit of adjustment to use. More here: [**Using Extra-large pen tablets**](using-extra-large-pen-tablets.md).
 
 ## Pen tablet size vs monitor size
 
