@@ -1,4 +1,4 @@
-# Using Extra-large pen tablets
+# Using extra-large pen tablets
 
 ## Overview
 

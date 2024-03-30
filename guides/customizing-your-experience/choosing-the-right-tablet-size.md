@@ -54,23 +54,15 @@ Here's what you should consider in your choice
 
 ## **Small pen tablets (7")**
 
-**Small** pen tablets are good for scenarios where the focus is less on creating strokes. For example, if you need to simply use a tablet as a replacement for a mouse, then a small tablet will work fine. One creative task that works great with small tablets in photo editing - since it doesn't typically require "drawing".&#x20;
-
-Most people who are drawing would find using a small tablet, to feel very "cramped".
+**Small** pen tablets are good for scenarios where the focus is less on creating strokes. For example, if you need to simply use a tablet as a replacement for a mouse, then a small tablet will work fine. One creative task that works great with small tablets in photo editing - since it doesn't typically require "drawing". Most people who are drawing would find using a small tablet, to feel very "cramped".
 
 ## Medium pen tablets (11")
 
-**Medium** pen tablets are the best combination of size, cost, and ergonomics for most people interested in drawing tablets and is my standard recommendation.
-
-medium tablets are the minimum size I would recommend for anyone who is interested in drawing, sketching, painting, or any creative task that requires drawing with strokes.
+**Medium** pen tablets are the best combination of size, cost, and ergonomics for most people interested in drawing tablets and is my standard recommendation. Medium tablets are the minimum size I would recommend for anyone who is interested in drawing, sketching, painting, or any creative task that requires drawing with strokes.
 
 ## Large pen tablets (15")
 
-In general I advise against getting a LARGE pen tablet unless you already have experience using one or are highly confident your art style will benefit from it and you are ready to deal with the ergonomic issues that come from using one.
-
-Watch this video to learn more about he reality of using LARGE tablets:&#x20;
-
-{% embed url="https://youtu.be/YCmVugc3w_g" %}
+Large pen tablets are these days the largest size available. They are popular for some artists. They are large enough though that you will have to adapt to using them. More here: [**Using large pen tablets**](using-large-pen-tablets.md).
 
 ## Extra large pen tablets (23")
 
