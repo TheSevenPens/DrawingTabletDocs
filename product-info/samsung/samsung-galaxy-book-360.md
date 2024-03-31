@@ -22,3 +22,8 @@ The Galaxy book 360 brings these key attributes to the discussion:
 * Release year: 2024
 * [Brad Colbow - Galaxy Book3 Pro 360 Review](https://www.youtube.com/watch?v=Z8eXiq218qU) 2023/02/15
 * [MobileTechReview - Review of Galaxy Book3 Pro 360](https://www.youtube.com/watch?v=ApzQ5SxtzxI) 2023/02/24
+* [Ben G Kaiser - Samsung Galaxy Book3 Ultra Vs Pro 360](https://www.youtube.com/watch?v=lwzSmhHlTuc) 2023/05/03&#x20;
+
+## Older models
+
+* [Tech Gear Talk - GOOD AND BAD - 1 Month with the Samsung Galaxy Book Pro 360](https://www.youtube.com/watch?v=7plU3x-0hFE) 2021/07/14
