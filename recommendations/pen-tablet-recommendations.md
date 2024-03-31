@@ -6,7 +6,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 ## $50 to $100&#x20;
 
-* SMALL [**One by Wacom Small**](../product-info/wacom/one-by-wacom/) (CTL-472) $50&#x20;
+* SMALL [**One by Wacom Small**](../product-info/wacom/one-by-wacom/) (CTL-472) $50 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-one-by-wacom-ctl-x72.md))
 * SMALL [**Wacom Intuos Small**](../product-info/wacom/wacom-intuos.md) (CTL-4100) $75&#x20;
 * SMALL [**Wacom One S GEN2 (CTC-4110WL)**](../product-info/wacom/wacom-one-gen2/) $100 <mark style="color:red;">**NOT RECOMMENDED**</mark>
 * MEDIUM [**XP-Pen Deco LW**](../product-info/xp-pen/xp-pen-deco/) (IT1060B) $90 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-deco-lw-it1060b.md))
