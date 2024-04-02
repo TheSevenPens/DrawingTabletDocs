@@ -1,5 +1,9 @@
 # Samsung Galaxy Tab S6
 
+## Samsung Galaxy Tab S6 Lite 2024
+
+* Samsung announced this early in 2024 but it isn't widely available for purchase.&#x20;
+
 ## Samsung Galaxy Tab S6 Lite 2022
 
 * **My notes on this tablet**
@@ -10,6 +14,5 @@
 
 ## Samsung Galaxy Tab S6 Lite 2020
 
-* **My notes**
-  * Get the 2022 edition instead
+* Get a more recent version edition (2022 or above) instead
 
