@@ -7,6 +7,10 @@
 * Wikipedia: [https://en.wikipedia.org/wiki/Clip\_Studio\_Paint](https://en.wikipedia.org/wiki/Clip\_Studio\_Paint)&#x20;
 * Available for: Windows, macOS, iPadOS, iOS, Android, Chrome OS
 
+## Version updates
+
+* [Brad Colbow - What's New in Clip Studio Paint v3](https://www.youtube.com/watch?v=2ynYTm-59dE) 2023/04/02
+
 ## Getting started
 
 * [Trent Kaniuga - Total BEGINNERS guide to drawing in Clip Studio Paint 2022](https://youtu.be/6cwfkCl8fwo) Sep 23, 2022
