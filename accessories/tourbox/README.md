@@ -35,6 +35,7 @@ There are three models:
 
 ## TourBox Elite
 
+* [Aaron Rutten review of TourBox ELITE](https://www.youtube.com/watch?v=4KlcHw218s0) 2024/04/03 &#x20;
 * [Nadiaxel review of TourBox ELITE](https://youtu.be/yH\_zSxUHSw0) 2023/06/15
 * [BoroCG review of TourBox ELITE](https://youtu.be/4BChI1SvIdE) 2021/12/02&#x20;
 * [PetaPixel revie of TourBox ELITE](https://petapixel.com/2021/12/11/tourbox-elite-review-my-favorite-editing-tool-is-now-wireless/) 2021/12/11
