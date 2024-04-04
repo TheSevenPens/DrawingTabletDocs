@@ -1,10 +1,10 @@
-# Overview of Wacom pen tablets
+# Comparison of Wacom pen tablets
 
 ## Overview
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
-Here are [my detailed notes on the Intuos Pro (PTH-x86) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
+Here are [my detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
 
 Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
 
@@ -62,7 +62,7 @@ Of the pens identified, the Wacom Pro Pen 2 is the best in terms of design, mate
 
 ## Overall drawing experience
 
-All of the tablets except the Wacom One GEN2 tablets have a very very good drawing experience. The Intuos Pro PTH-x860 series definitely the best of all of them though - largely driven by the amazing pressure handling of the Wacom Pro Pen 2.&#x20;
+All of the tablets except the Wacom One GEN2 tablets have a very very good drawing experience. The Intuos Pro PTH-x60 series definitely the best of all of them though - largely driven by the amazing pressure handling of the Wacom Pro Pen 2.&#x20;
 
 ## Pen pressure
 
@@ -167,7 +167,7 @@ For these tablets, touch can be enabled/disabled with a physical switch on the s
 
 More here:
 
-* &#x20;[My detailed notes on the Intuos Pro (PTH-x86) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
+* &#x20;[My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
 * [Touch support](../../guides/touch-support.md)
 
 ## Tablet design
@@ -202,7 +202,7 @@ The Intuos Pro has a more textured surface, the Intuos and One by Wacom have les
 
 The Intuos Pro MEDIUM and LARGE model surface texture can by change using texture sheets.&#x20;
 
-More here: [My detailed notes on the Intuos Pro (PTH-x86) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).   &#x20;
+More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).   &#x20;
 
 ## Future versions
 
