@@ -32,3 +32,7 @@ The most recent Intuos Pro models are the PTH-x60 series from 2017 & 2019.
 * Model Year: 2017
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)&#x20;
 
+## Resources
+
+* [Wacom - Playlist: Getting Started with Wacom Intuos Pro](https://www.youtube.com/playlist?list=PL5JDtjDGWsw2BnxCBZKanfgAtrInASN-D)&#x20;
+
