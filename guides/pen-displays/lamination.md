@@ -26,17 +26,7 @@ However, it can also prevent a things from getting between the glass and display
 
 * moisture
 * dust and other particles
-* small insects&#x20;
-
-## Examples of insects between the display panel and glass
-
-A video of a live bug (spider) inside a pen display
-
-{% embed url="https://youtu.be/6F_JQeE7p4M" %}
-
-Usually people might find 1 bug in their display. In some rare cases. there may be more. See the example below from a [**reddit thread**](https://www.reddit.com/r/wacom/comments/12nnhdc/ants\_in\_my\_wacom\_fml/).
-
-![](<../../.gitbook/assets/ants in cintiq.jpg>)
+* small insects (more here: [**Troubleshoot insects in a pen display**](../../troubleshooting/troubleshoot-insects-in-a-pen-display.md))&#x20;
 
 ## Resources
 
