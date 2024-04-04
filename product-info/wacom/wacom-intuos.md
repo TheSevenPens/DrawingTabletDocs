@@ -9,3 +9,7 @@
 
 * Model year: 2018&#x20;
 * [http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html)
+
+## Resources
+
+* [Wacom - Playlist: Getting started with your Wacom Intuos pen tablet](https://www.youtube.com/playlist?list=PL5JDtjDGWsw3KRruZfqAwRmbNpAQbW89y) &#x20;
