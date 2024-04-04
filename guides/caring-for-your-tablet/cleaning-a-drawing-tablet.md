@@ -1,6 +1,12 @@
 # Cleaning a drawing tablet
 
+## Overview
+
+
+
 ## Manufacturer guidance
+
+
 
 * [Wacom - How to clean your Wacom product](https://support.wacom.com/hc/en-us/articles/1500006335302-How-to-clean-your-Wacom-product) &#x20;
 * [Huion - How to correctly clean the screen of Huion pen display?](https://support.huion.com/en/support/solutions/articles/44002284420-how-to-correctly-clean-the-screen-of-huion-pen-display-) &#x20;
