@@ -86,7 +86,7 @@
     * [Using a pen display as a monitor](guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md)
     * [Using monitor arms with a pen display](guides/customizing-your-experience/using-monitor-arms-with-a-pen-display.md)
   * [Connections and cabling](guides/connections-and-cabling/README.md)
-    * [3-in-1 cables for drawing tablets](guides/connections-and-cabling/3-in-1-cables-for-drawing-tablets.md)
+    * [Connecting a pen display with a 3-in-1 cable](guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)
     * [Connecting a pen tablet to a computer](guides/connections-and-cabling/connecting-a-pen-tablet-to-a-computer.md)
     * [Connecting a pen display to a computer](guides/connections-and-cabling/connecting-a-pen-display.md)
     * [Connecting a pen display to a mobile device](guides/connections-and-cabling/connecting-a-pen-display-to-a-mobile-device.md)

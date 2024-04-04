@@ -40,7 +40,7 @@ The 2 cable setup is how I use my Wacom Cintiq Pro 27.&#x20;
 
 ### Option D: 3-in-one cable
 
-This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](3-in-1-cables-for-drawing-tablets.md)
+This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](connecting-a-pen-display-with-a-3-in-1-cable.md)
 
 ## Connecting via HDMI
 
