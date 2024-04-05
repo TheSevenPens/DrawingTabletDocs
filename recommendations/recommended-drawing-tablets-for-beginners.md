@@ -23,6 +23,8 @@ If I had to pick one item on this list, I would recommend the Wacom CTL-672 for 
 * Wacom Intuos Medium (CTL-6100WL) \[no tilt]
 * XP-Pen Deco L (IT1060) \[no wireless]
 * XP-Pen Deco LW (IT1060B)
+* If you want to have better pressure handling:
+  * XP-Pen Deco Pro LW GEN2 (MT1172B)&#x20;
 
 More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/comparison-of-wacom-pen-tablets.md)&#x20;
 
@@ -37,7 +39,9 @@ More info: [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-
 * Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-16-gen2-cd160fh.md))
-* If you want to go a bit bigger ... XP-Pen Artist Pro 16 GEN2 (MD160QH) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
+* If you want to go a bit bigger and have better pressure handling
+  * XP-Pen Artist Pro 14 GEN2 (MD140FH)
+  * XP-Pen Artist Pro 16 GEN2 (MD160QH) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
 
 ## Standalone tablets
 
