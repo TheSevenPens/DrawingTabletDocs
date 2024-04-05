@@ -2,7 +2,7 @@
 
 ## Overview
 
-TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an input device that simplifies doing artwork with a drawing tablet.
+TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an input device that simplifies doing artwork with a drawing tablet. [<mark style="background-color:green;">**My notes on using the TourBox**</mark>](7p-notes-tourbox.md)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-25 122056.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -22,10 +22,6 @@ There are three models:
 * TourBox NEO - this was the first version
 * TourBox ELITE - this is an improved version that supports some haptic feedback and has wirless support
 * TourBox LITE - This is a simpler version that is just as big as the NEO and ELITE and has fewer controls.
-
-## How I use it
-
-[<mark style="background-color:green;">**My notes on using the TourBox**</mark>](7p-notes-tourbox.md)
 
 ## TourBox NEO
 
