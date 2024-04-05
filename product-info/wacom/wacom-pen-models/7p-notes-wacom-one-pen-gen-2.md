@@ -1,4 +1,4 @@
-# 7P notes: Wacom One Pen (GEN2) (CP-923)
+# 7P notes: Wacom One Pen GEN2 (CP-923)
 
 ## Overview
 
@@ -39,31 +39,31 @@ So no improvements to pen pressure levels. As a reminder, all you really need ar
 
 ### **Number of pen buttons**
 
-* New pen (CP92303B2Z) -> 2 buttons
-* Old pen (CP91300B2Z) -> 1 button
+* New pen (CP-923) -> 2 buttons
+* Old pen (CP-913) -> 1 button
 
 ### **Tilt**
 
-* New pen (CP92303B2Z) -> supports tilt
-* Old pen (CP91300B2Z) -> does not support tilt
+* New pen (CP-923) -> supports tilt
+* Old pen (CP-913) -> does not support tilt
 
 ## Compatibility
 
 ### Backwards compatibility
 
-* New pen (CP92303B2Z) -> **Does not work** with Wacom One (Gen 1) (DTC-133) tablet
+* New pen (CP-923) -> **Does not work** with Wacom One (Gen 1) (DTC-133) tablet
 
 ### Forwards compatibility
 
-* Old pen (CP91300B2Z) -> Does work with new new Wacom One (Gen 2) tablets
+* Old pen (CP-913) -> Does work with new new Wacom One (Gen 2) tablets
 
 ### Samsung Galaxy S compatibility
 
-* I confirmed both pens work with the Samsung Galaxy S8 Ultra.
+* I confirmed both pens (CP-913, CP-923) work with the Samsung Galaxy S8 Ultra.
 * I confirmed that the Samsung S Pen works with both the Wacom One (Gen 1) tablet and the Wacom One (Gen 2) tablets
 
 ### Serious Pressure problems
 
-The pen has issues with low pressure
+* The CP-923 pen has issues with low pressure. See this video: [https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
+* The CP-913 does not have these issues
 
-See this video: [https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
