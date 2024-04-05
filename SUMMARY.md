@@ -26,6 +26,7 @@
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
   * [Before-purchase checklist](buying-a-drawing-tablet/before-purchase-checklist.md)
 * [Drawing tablet recommendations](recommendations/README.md)
+  * [Recommended drawing tablets for beginners](recommendations/recommended-drawing-tablets-for-beginners.md)
   * [Pen tablet recommendations](recommendations/pen-tablet-recommendations.md)
   * [Pen display recommendations](recommendations/pen-display-recommendations.md)
   * [Standalone drawing tablet recommendations](recommendations/standalone-drawing-tablet-recommendations.md)
