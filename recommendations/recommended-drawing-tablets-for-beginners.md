@@ -32,19 +32,20 @@ These are tablets WITH A SCREEN that need to be connected to a computer. No pen 
 
 I honestly don't enjoy drawing an 13" display, I prefer 16" and above. But this size is a good way to get introduced to pen displays.
 
-* Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
-* XP-Pen Artist 12 Gen2 (CD120FH)
-* XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-16-gen2-cd160fh.md))
-
 More info: [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+
+* Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
+* XP-Pen Artist 12 GEN2 (CD120FH)
+* XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-16-gen2-cd160fh.md))
+* If you want to go a bit bigger ... XP-Pen Artist Pro 16 GEN2 (MD160QH) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-16-2nd-gen-md160qh.md))
 
 ## Standalone tablets
 
 These are tablets that don't need to be connect to a computer.
 
-* Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../product-info/apple/7p-notes-apple-ipad.md))
-* Samsung Galaxy Tab S9 FE ([<mark style="background-color:green;">**My notes on Samsung Galaxy Tab devices**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)  )
-* Samsung Galaxy Tab S6 lite (2022 edition)  ([<mark style="background-color:green;">**My notes on Samsung Galaxy Tab devices**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)  ) - a little bit sluggish but the price is great.
+* Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-info/apple/7p-notes-apple-ipad.md))
+* Samsung Galaxy Tab S9 FE ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md) )
+* If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)) - a little bit sluggish but the price is great.
 
 More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-info/apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
