@@ -29,8 +29,7 @@ Before you buy a laptop, please ensure that you are clear how you intend to conn
 
 ### Windows
 
-* [Surface Pro 8](../product-info/microsoft/microsoft-surface-pro-8.md)
-* [Surface Pro 9](../product-info/microsoft/microsoft-surface-pro-9.md)&#x20;
+* [Surface Pro 8 or 9](../product-info/microsoft/microsoft-surface-pro-9.md)&#x20;
 * Surface Laptop Studio&#x20;
 * Surface Laptop 5&#x20;
 * Samsung Galaxy Book3 Pro 360&#x20;

@@ -83,7 +83,7 @@ Pen tech: MPP (similar to AES)
 
 [<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro.md)
 
-* [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-8.md) (starting at $900)
+* [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 * [**Surface Pro 9**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 
 ### Samsung Galaxy Book4 360
