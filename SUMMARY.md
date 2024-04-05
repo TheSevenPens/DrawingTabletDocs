@@ -261,7 +261,6 @@
       * [7P notes: Huion Inspiroy 2 L (H1061P)](product-info/huion/huion-inspiroy-2/7p-notes-huion-inspiroy-2-l-h1061p.md)
   * [Microsoft](product-info/microsoft/README.md)
     * [7P notes: Microsoft Surface Pro](product-info/microsoft/7p-notes-microsoft-surface-pro.md)
-    * [Microsoft Surface Pro 8](product-info/microsoft/microsoft-surface-pro-8.md)
     * [Microsoft Surface Pro](product-info/microsoft/microsoft-surface-pro-9.md)
   * [OnePlus](product-info/oneplus/README.md)
     * [OnePlus Pad](product-info/oneplus/oneplus-pad.md)
