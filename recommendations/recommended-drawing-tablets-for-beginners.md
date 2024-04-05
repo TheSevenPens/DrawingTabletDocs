@@ -4,15 +4,19 @@
 
 I get so many people who are beginners asking for a drawing tablet. So, I decided to have a dedicated page to make it as simple as possible.
 
-Having said that I would HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md).
+{% hint style="info" %}
+I HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md).
+{% endhint %}
 
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](./)&#x20;
+
+Below you'll find my recommendations for: pen tablets (no screen), pen displays (have a screen), and standalone tablets.&#x20;
 
 ## Pen tablets
 
 These are tablets WITHOUT a screen that need to be connected to a computer (some support wireless) to work.
 
-If I had to pick one item on this list, I would recommend the Wacom CTL-672 for true beginners.
+If I had to pick one item on this list, I would recommend the Wacom CTL-672 for true beginners. It's reliable and has a decent drawing experience.
 
 * One by Wacom Medium (CTL-672) \[no tilt, no wireless] ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-one-by-wacom-ctl-x72.md))
 * Wacom Intuos Medium (CTL-6100) \[no tilt, no wireless]&#x20;

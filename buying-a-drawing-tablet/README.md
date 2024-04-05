@@ -5,15 +5,15 @@
 I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
 
 {% hint style="info" %}
-If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide.
+If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md). This buying guide builds on the beginner's guide. If you also just want to quickly get to some beginner recommendations then go here: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
 {% endhint %}
 
 ## Video series (in progress)
 
 If you prefer a watching a video ...
 
-* [7P - Drawing Tablet Buying Guide (2023) Episode 1](https://www.youtube.com/watch?v=QpAJOOKaQUM) Nov 10, 2023
-* [7P - Drawing Tablet Buying Guide ](https://www.youtube.com/watch?v=kw7fKQik3YY)[(2023) ](https://www.youtube.com/watch?v=QpAJOOKaQUM)[Episode 2](https://www.youtube.com/watch?v=kw7fKQik3YY) Nov 16, 2023
+* [7P - Drawing Tablet Buying Guide (2023) Episode 1](https://www.youtube.com/watch?v=QpAJOOKaQUM) 2023/11/10
+* [7P - Drawing Tablet Buying Guide ](https://www.youtube.com/watch?v=kw7fKQik3YY)[(2023) ](https://www.youtube.com/watch?v=QpAJOOKaQUM)[Episode 2](https://www.youtube.com/watch?v=kw7fKQik3YY) 2023/11/16
 
 ## My recommendations
 
