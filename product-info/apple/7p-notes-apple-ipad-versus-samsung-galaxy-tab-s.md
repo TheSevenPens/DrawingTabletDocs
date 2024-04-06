@@ -6,7 +6,7 @@ I think the Galaxy Tab S series wins in the drawing experience category. Having 
 
 But here are the reasons why I think the drawing experience is actually better on the Galaxy Tab S series
 
-* the Galaxy Tab series uses Wacom EMR technology. This is the same technology that powers all of wacom's products. And especially if you're coming from a background of using drawing tablets then this will feel more natural to you than using an apple pencil.
+* the Galaxy Tab series uses Wacom EMR technology. This is the same technology that powers all of Wacom's products. And especially if you're coming from a background of using drawing tablets then this will feel more natural to you than using an apple pencil.
 * Hover support has always been available with the Samsung Galaxy Tab series. But it is a relatively new feature for apple iPads and only works with certain pens and with certain iPads.
 * Depending on which apple pencil you have and which iPad you have.
 * Pens that work with the Galaxy Tab series also have a single button. But the Apple iPad pencil does not have such a button
@@ -16,6 +16,20 @@ But here are the reasons why I think the drawing experience is actually better o
 I've owned an Apple iPad since they first came out in about 2011. And they've always been highly reliable devices.
 
 I've had Samsung Galaxy Tab S devices for about the last year and a half. And they also seem highly reliable.
+
+## Pointer lag
+
+* Apple iPad - very low (which is good)
+* Samsung Galaxy S tab - very low but not quite as good as an iPad
+
+In practice both are excellent in terms of pointer lag.
+
+
+
+## Pen nib retraction&#x20;
+
+* The apple pencil has a fixed tip.&#x20;
+* Like any EMR drawing tablet, the Samsung S pen features a nib that retracts&#x20;
 
 ## Applications
 
@@ -46,7 +60,7 @@ I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. Th
 ## More info
 
 * [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s.md)
-* [**7P notes: Apple iPad**](../apple/7p-notes-apple-ipad.md) &#x20;
+* [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
 
 &#x20;
 
