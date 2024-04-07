@@ -16,12 +16,3 @@
 ## Video: Accuracy in pen displays
 
 {% embed url="https://youtu.be/M4rEk_RNBrM" %}
-
-####
-
-####
-
-
-
-
-
