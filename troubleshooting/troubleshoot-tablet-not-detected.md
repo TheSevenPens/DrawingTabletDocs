@@ -4,13 +4,15 @@
 
 The "tablet not connected/detected" problem is fundamentally that your driver cannot "see" , "find", or "communicate" with the drawing tablet even though it is plugged in via USB cable. The driver will often claim that the tablet "is not connected" or "is not detected".
 
+If this happens with a pen tablet (a screenless tablet), then essentially the tablet isn't functional at all.
+
+If this happens with a pen display (a tablet with a screen), usually the display part of the tablet works fine but you won't be able to use the pen with the tablet.
+
 ## Driver versus operating system
 
-What makes this confusing is that sometimes your computer's operating system have differing views of this topic.
+What makes this issue confusing is that sometimes your computer's operating system may know that a device is connected even if the tablet driver does not. For example, your operating system may "beep" when you plug the tablet in. And even may list it as a device, even though the driver insists nothing is connected"
 
-For example, your operating system may "beep" when you plug the tablet in. And even may list it as a device, even though the driver insists nothing is connected"
-
-## What is (not) being being detected
+## What is not being detected
 
 Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen.&#x20;
 
@@ -18,11 +20,11 @@ When a driver is saying your tablet is not connected, it is talking about this d
 
 The digitizer is the primary component of a pen tablet (screenless tablet) though some pen tablets have other components. You may for example see your tablet detected as a keyboard because it has some keyboard like buttons.
 
-For a pen display (screen tablet) there is of course another component - the screen. Your computer detects the screen completely separately from the tablet digitizer.
+For a pen display (screen tablet) there is of course another component - the screen. Your computer detects the screen completely separately from the tablet digitizer. This explains why the display part still works.
 
-## NO SIGNAL
+## NO SIGNAL for pen displays
 
-Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitzer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).&#x20;
+Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).&#x20;
 
 ## Basic troubleshooting&#x20;
 
@@ -56,32 +58,31 @@ The issue may be specific with your computer, so try with another computer.
 
 Windows has some limited built-in support for tablets. Not all tablets work with Windows PNP, but many do.
 
-Try uninstalling your manufacturer tablet driver. The restart your computer. Then see if the tablet works correctly.
+How to test with the Windows PNP drivers: [**Testing with Windows PNP drawing tablet drivers**](testing-with-windows-pnp-drawing-tablet-drivers.md)
 
-If it does work correctly, it points to a problem with the manufacturer tablet driver.
+If it does work correctly, it points to a problem with the manufacturer tablet driver instead of the tablet hardware.
 
 ## Windows > power options for the tablet
 
 Some people say this has helped them. I'm not sure.&#x20;
 
-In **device manager**, select **View > By container**
-
-Find your tablet
-
-Under will be a list of devices
-
-for each device under the tablet, right-click and select **Properties**
+* In **device manager**, select **View > By container**
+* Find your tablet
+* Under it will be a list of devices
+* For each device under the tablet, right-click and select **Properties**
 
 Uncheck **Power Management > Allow the computer to turn off this device to save power** if that option exists for the device.
 
 ## Manufacturer support pages
 
-* **Wacom**: What does the error message “A supported tablet is not found on the system” or "No Wacom device connected to your computer" mean and how do I fix it? ([link](https://support.wacom.com/hc/en-us/articles/1500006339862))
-* **Huion**: What To Do When Huion Driver Shows Device Disconnected?  ([link](https://support.huion.com/en/support/solutions/articles/44001163422-what-to-do-when-huion-driver-shows-device-disconnected-))
+* **Wacom**: What does the error message “A supported tablet is not found on the system” or "No Wacom device connected to your computer" mean and how do I fix it? ([**link**](https://support.wacom.com/hc/en-us/articles/1500006339862))
+* **Huion**: What To Do When Huion Driver Shows Device Disconnected?  ([**link**](https://support.huion.com/en/support/solutions/articles/44001163422-what-to-do-when-huion-driver-shows-device-disconnected-))
 
 ## Time
 
-Sometimes just waiting out the problem is all you can do. Some people report that they leave their tablet disconnected from their computer for a few days, and then afterwards it just starts working again.
+Sometimes just waiting out the problem is all you can do. Some people report that they leave their tablet disconnected from their computer for a few days, and then afterwards it just starts working again.&#x20;
+
+Both the times I've personally encountered this problem it seems like nothing I did worked, but I just waited and it eventually resolved itself.
 
 ## Still not solved?
 
@@ -93,7 +94,9 @@ If none of these suggestions are helping, then [**contact support**](../guides/g
 * Sometimes this problem is sporadic. I've had it personally occur with a tablet and after about 30 minutes of restarts, things just started working again.
 * Some vendors like Huion recommend disabling antivirus when reinstalling the drivers. I do not recommend this, but some people say it has helped.
 
-## Reference: Driver UX
+## Reference: Driver disconnected messages
+
+Here are several examples of how the driver indicates the tablet is not connected.
 
 #### Huion
 
