@@ -16,30 +16,12 @@ Four indicator lights are just past the corners of the active area. They will li
 
 ## **Pen**
 
-**Pen model**
-
-It comes with the latest pen: X3 Pro Smart Chip Stylus. The shape is very close to the Wacom Pro Pen 2.&#x20;
-
-**Pen eraser**
-
-The pen has an eraser. I don't use erasers so I don't have opinion of it.
+It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/xp-pen-x3-pro-pen.md) .
 
 **Pen compatibility**
 
-* X3 Pro Smart Chip Stylus: Compatible
-* X3 Elite: NOT compatible
-
-**Disabled buttons impact on drawing**
-
-Good: If you disable the two pen buttons in the driver, and then press the buttons while drawing it doesn't seem to interrupt drawing. I tested this with Clip Studio Paint and Krita on Windows 11.
-
-**16K Pressure levels**
-
-Obligatory 16K pressure level screenshot. This is what it shows in the driver.&#x20;
-
-![](<../../../.gitbook/assets/image (360).png>)
-
-There is no noticeable impact on my drawing.&#x20;
+* X3 Pro pen: Compatible with this tablet
+* X3 Elite: NOT compatible with this tablet
 
 ## **Surface**
 
