@@ -18,7 +18,7 @@ Unfortunately this is not an easy or cheap think to repair. Most people simply j
 
 ## Check if the display works with another source of display signal
 
-For example, connect it to another computer or X-BOX or DVD player. If you see something, then it tells you that the pen display is capable of showing something but that the problem is somewhere else.&#x20;
+For example, connect it to another computer or X-BOX or DVD player. If you see something, then it tells you that the pen display is capable of showing something but that the problem is somewhere else. More here: [Check if the pen display works with another display output device](check-if-the-pen-display-works-with-another-display-output-device.md) .
 
 
 
