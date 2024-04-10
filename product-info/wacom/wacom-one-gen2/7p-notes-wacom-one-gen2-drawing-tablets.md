@@ -108,10 +108,6 @@ The new Wacom One (Gen 2) pen displays do not have any legs. They lay flat on th
 
 The old Wacom One (Gen 1) pen display has legs on the back. You can lay the display flat on the desk or you can pull out the legs and draw at and angle.
 
-## Legs
-
-The old Wacom One (Gen 1) pen display had foldable legs. The new GEN pen displays do not. Instead you must a separate stand.
-
 Wacom is offering a very unique design for their stand.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 201447.jpg" alt=""><figcaption></figcaption></figure>
@@ -135,6 +131,22 @@ Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable
 ![](<../../../.gitbook/assets/Wacom M GEN2 (CTC-6110WL) wobble (1).png>)
 
 
+
+### Compatible pens
+
+Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is compatible with other pens not made by Wacom. &#x20;
+
+* Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
+* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary\_of\_pens\_including\_double\_button\_pens/)y 2020/12/26
+* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
+
+### Wacom 3-in-1 cable for Wacom One GEN2 pen displays
+
+The Wacom One 12 (DTC-121) and Wacom One 13 touch (DTH-134) work with a 3-in-1 cable. I SUPPOSE this is a proprietary cable.
+
+model number: ACK4490602Z
+
+You can buy it from the Wacom store: [https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)&#x20;
 
 
 
