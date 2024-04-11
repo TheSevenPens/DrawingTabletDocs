@@ -43,3 +43,12 @@ Examples:
 ## General weirdness
 
 Weird things can happen! I have a keyboard, that when I unplug its USB-C cable will act like a pen and control the position of the pointer on one of my tablets!
+
+
+
+## Magnetized desk surface
+
+There are computer desks that are made of metal and deliberately magnetized. These can interfere with your drawing tablet. See:
+
+* [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/) &#x20;
+
