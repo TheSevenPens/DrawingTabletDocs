@@ -4,6 +4,12 @@
 
 Most people buy drawing tablet to create digital art. I've collected some links below to help them get started on this journey.
 
+## The role of drawing tablets
+
+I do recommend you get a drawing tablet for digital art, but remember you don't have to force yourself to use a tablet for everything.
+
+Many people use tablets **in addition** to other techniques. For example, some people draw on paper and then photograph or scan the drawing to get it into their computer. From there, they just finish up their work with a drawing tablet.&#x20;
+
 ## Videos
 
 * Nadiaxel - [Beginner's Guide to Become a Digital Artist - Drawing Tablets & Apps](https://youtu.be/bzeXcn6Amwo) 2022/07/04
