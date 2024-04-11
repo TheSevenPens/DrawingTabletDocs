@@ -4,11 +4,17 @@
 
 Tilt is easy to understand. Imagine you hold the then pen completely perpendicular to the tablet and that the sun is showing directly down on the tablet.
 
-If the tablet is completely perpendicular, the shadow is a perfect circle that centered where the tip of the pen touches the tablet.dd
+If the tablet is completely perpendicular, the shadow is a perfect circle that centered where the tip of the pen touches the tablet.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (347).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (347).png" alt="" width="188"><figcaption><p>A pen perfectly perpendicular to the tablet - no tilt.</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="188"><figcaption><p>pen not perfectly perpendicular to tablet as indicated by shadow. Diagram shows x&#x26;y components of tilt.</p></figcaption></figure>
 
 </div>
 
@@ -17,11 +23,16 @@ Now keep left the top of the pen "fall" a bit. The shadow looks quite different.
 * a tilt in the y direction&#x20;
 * a tilt in the x direction.
 
-<div align="left">
+## Which tablets support tilt
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="375"><figcaption></figcaption></figure>
+For many years now tilt has been a common feature on drawing tablets. And today the vast majority of tablets support tilt.
 
-</div>
+However, Wacom seems has traditionally included tilt only on its professional models. In particular tilt is NOT supported in these entry-level Wacom tablets:&#x20;
+
+* One by Wacom Small (CTL-472)
+* One by Wacom Medium (CTL-672)
+* Wacom Intuos Medium (CTL-6100 & CTL-6100WL)
+* Wacom Intuos Small (CTL-4100 &  CTL-6100WL)
 
 ## Do need tilt support in your drawing tablet?
 
@@ -31,6 +42,7 @@ For some people tilt is critical and for others, it is not useful at all. It str
 
 * whiteboarding -> tilt not  useful
 * taking notes -> tilt not useful
+* educational videos -> tilt not useful
 * digital painting with natural media brushes -> can be very useful if you would like your brushes to respond to it.&#x20;
 * line art -> can be useful but many people do line art without using any tilt features
 
@@ -59,11 +71,7 @@ For some people tilt is critical and for others, it is not useful at all. It str
 * The standard range is +/- 60 degrees for both X and Y
 * I don't know of any tablets that support a wider range
 
-## **Tilt support in tablets**
-
-* For many years now tilt has been a common feature on drawing tablets.&#x20;
-* Wacom seems to only include tilt on its professional models.&#x20;
-* Other manufacturers include it on all models.
+##
 
 ## Tilt support in applications
 
@@ -73,42 +81,13 @@ For some people tilt is critical and for others, it is not useful at all. It str
 * Here's a good example for a brush in Krita. You can seee that the Rotation of the brush is set to the Drawing Angle, but that it could also be set to the tilt.
 * ![](<../../.gitbook/assets/image (88).png>)
 
+## Tilt affect on pen tracking accuracy (tilt compensation)
 
-
-## Tilt compensation
-
-To calculate the location of the pen, the tablet must take into account how much the pen is tilted. This process is called **tilt compensation**.&#x20;
+To calculate the location of the pen, the tablet must take into account how much the pen is tilted. This process is called **tilt compensation**. Remember: no tablet has perfect tilt compensation and at extreme title angles you might see some deviation - This is normal.
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* no tablet has perfect tilt compensation
-* At extreme title angles you might see some deviation. This is normal.
-
-
-
 ## Disabling tilt
 
-Pen tilt information is always sent from the tablet to the tablet driver and from there to the operating system and then to pen-aware applications.
-
-Sometimes when drawing it can be useful to turn off tilt. There are options
-
-**OPTION 1 Use Brush settings** - Drawing apps that use brushes may let you control how tilt affects the brush. So, you can configure specific brushes to ignore tilt. Examples of applications that support this are Clip Studio Paint and Krita.
-
-**OPTION 2** Turn off tilt in the driver - SOME tablet drivers let you simply turn off tilt so that it isn't reported to your operating system or applications.
-
-XP-Pen drivers have this feature.
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (359).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-
-
-
-
-
-
-&#x20;&#x20;
+You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [**Disable pen tilt**](disable-pen-tilt.md)&#x20;
 

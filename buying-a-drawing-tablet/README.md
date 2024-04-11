@@ -27,14 +27,15 @@ I strongly urge you to read this buying guide and beginner's guide completely be
 
 The most fundamental choice to make is the kind of drawing tablet you want:
 
-* **pen tablet** (requires a computer)
-* **pen display** (requires a computer)
-* **standalone device -** either (1) a mobile computer with pen support or (2) a pen computer
+* **pen tablet** - does NOT  have a screen and requires a computer to use
+* **pen display** - has a screen and requires a computer to use
+* **standalone tablet  -** has a screen and can be used my itself without being connected to a computer.&#x20;
 
-Basic guidelines:
+## Basic guidelines
 
 * Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
 * If you really need need one that is standalone get an iPad or a Samsung Galaxy Tab.
+* If you are a beginner I have simplified the options for you: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
 
 ## Brands
 
@@ -48,9 +49,8 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 ## **Core drawing tablet features**
 
-* **Pressure -** The pen can detect how much pressure you are putting on its tip. The smallest pressure that activates the pen is called the Initial Activation Force (IAF). The maximum pressure is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Here's what you should look for:
-  * More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
-* **Tilt -** Tilt support can be very useful for for certain kinds of artwork. Almost all modern tablets support tilt, except for some consumer tablets such as One by Wacom (CTL-472, CTL-672) and Wacom Intuos (CTL-6100, CTL-6100WL, CTL-4100, CTL-6100WL). Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
+* **Pressure -** The pen can detect how much pressure you are putting on its tip. The smallest pressure that activates the pen is called the Initial Activation Force (IAF). The maximum pressure is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
+* **Tilt -** Tilt support can be very useful for for certain kinds of artwork. Almost all modern tablets support tilt, except for some consumer Wacom tablets. Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
 * **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
 * **Diagonal wobble** - All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble.md).
 

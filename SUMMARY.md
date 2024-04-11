@@ -52,6 +52,7 @@
     * [Active area aspect ratio](guides/core-features/active-area-aspect-ratio.md)
     * [Bezel](guides/core-features/bezel.md)
     * [Pen tilt](guides/core-features/pen-tilt.md)
+    * [Disable pen tilt](guides/core-features/disable-pen-tilt.md)
     * [Pen pressure](guides/core-features/pen-pressure.md)
     * [Pen pressure range comparison](guides/core-features/pen-pressure-range-comparison.md)
     * [Pen pressure transition stability](guides/core-features/pen-pressure-transition-stability.md)
