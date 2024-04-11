@@ -55,6 +55,12 @@
 * [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) Oct 28, 2022
 * [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) Nov, 2022
 
+## Cintiq Pro 32 (DTH-3220)
+
+* Model Year: 2018
+* [Aaron Rutten - Wacom CINTIQ PRO 24 & 32 Review](https://www.youtube.com/watch?v=lvSeRhrUcCY) (In-Depth) Dec 13, 2018
+* [Wieger Poutsma - review of Wacom Cintiq Pro 32](https://www.youtube.com/watch?v=GgYu9zXD8Gk) Nov 19, 2018
+
 ## General
 
 * [Robert Hranitzky review of Cintiq Pro Family Review](https://www.youtube.com/watch?v=Hwf68FwFVQU) 2023/10/30
