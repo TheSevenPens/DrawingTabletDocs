@@ -23,6 +23,17 @@ Now keep left the top of the pen "fall" a bit. The shadow looks quite different.
 
 </div>
 
+## Do need tilt support in your drawing tablet?
+
+The vast majority of drawing tablets have tilt support, but a few entry-level Wacom ones do not.
+
+For some people tilt is critical and for others, it is not useful at all. It strongly depends on what they are doing.
+
+* whiteboarding -> tilt not  useful
+* taking notes -> tilt not useful
+* digital painting with natural media brushes -> can be very useful if you would like your brushes to respond to it.&#x20;
+* line art -> can be useful but many people do line art without using any tilt features
+
 ## How tilt is measured
 
 * The tilt of the pen is measured by the tablet, NOT the pen.

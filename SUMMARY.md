@@ -116,7 +116,7 @@
     * [Pen compatibility with drawing tablets](guides/pens/pen-compatibility-with-drawing-tablets.md)
     * [Pen weight](guides/pens/pen-weight.md)
     * [Pen weight comparison](guides/pens/pen-weight-comparison.md)
-    * [Pen teardown: Huion PEN80](guides/pens/pen-teardown-huion-pen80.md)
+    * [Pen teardowns](guides/pens/pen-teardown-huion-pen80.md)
   * [Drivers](guides/drivers/README.md)
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
       * [Install OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
