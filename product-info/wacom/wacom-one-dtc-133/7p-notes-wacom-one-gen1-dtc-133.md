@@ -34,6 +34,7 @@ Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is 
 * Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
 * r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary\_of\_pens\_including\_double\_button\_pens/)y 2020/12/26
 * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
+* r/Wacom  - [https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/](https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/) 2022/01/13
 
 ### Wacom X-Shape cable for Wacom One DTC-133
 
