@@ -38,6 +38,9 @@
 ## Customization
 
 * [CLIP STUDIO PAINT - Quick Access Menu](https://www.youtube.com/watch?v=sSpOdFO7sxA) 2022/02/13
+* [/r/ClipStudio - Fellas, show me your current workspace! Here's mine!](https://www.reddit.com/r/ClipStudio/comments/1afhp9w/fellas\_show\_me\_your\_current\_workspace\_heres\_mine/) 2024/01/31
+
+
 
 ## Switching to Clip Studio Paint
 
