@@ -33,8 +33,6 @@ I've had Samsung Galaxy Tab S devices for about the last year and a half. And th
 
 In practice both are excellent in terms of pointer lag.
 
-
-
 ## Pen nib retraction&#x20;
 
 * The apple pencil has a fixed tip.&#x20;
@@ -65,4 +63,21 @@ more here: [**applications**](../../applications/)&#x20;
 iPads are around a 4X3 aspect ratio. And Samsung Galaxy S tablets have a 16 by 9 aspect ratio.
 
 I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. The size of the Galaxy S tablets makes sense for watching things like videos which are often in 16 by 9 aspect ratio but it can feel awkward to hold especially for the larger sizes.
+
+## Pen versions
+
+* Apple iPad. There are multiple pen versions. The one I recommend is the Apple Pencil 2 because it supports pressure, tilt, and hover.
+* Samsung: There are several versions of the S pen and they aren't clearly labelled. The one I am discussing is the one compatible with the Galaxy Tab S series of tablets.
+
+## Does pen come with tablet
+
+* Apple iPad - you have to buy the Apple Pencil separately. It does NOT come with an iPad.
+* Samsung Galaxy S series - the Samsung S pen comes with the tablet.
+
+## Pen replacement cost
+
+Don't lose your pen! They aren't cheap to replace. The Apple Pencil is very expensive compared to the Samsung S Pen.
+
+* Apple Pencil 2: $130 USD
+* Samsung S Pen for Galaxy Tab: $50&#x20;
 
