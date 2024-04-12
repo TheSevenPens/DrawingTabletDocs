@@ -64,7 +64,7 @@ Both pen tablets and pen displays need a computer to work. They can't be used st
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-With a pen tablet you are drawing in generally a better posture. You will be sitting in a way such that your back is vertical and your head will be looking straight ahead at your monitor. With a pen display you will almost always have to lean over a little bit and look down at the tablet to draw. This can place strain on your lower back and on your neck. This is one of the most popular reasons why someone buys a pen display but then returns it. They just find using a pen display to be very hard on their bodies. More here: [**Posture**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)&#x20;
+With a pen tablet you are drawing in generally a better posture. You will be sitting in a way such that your back is vertical and your head will be looking straight ahead at your monitor. With a pen display you will almost always have to lean over a little bit and look down at the tablet to draw. This can place strain on your lower back and on your neck. This is one of the most popular reasons why someone buys a pen display but then returns it. They just find using a pen display to be very hard on their bodies. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)
 
 ## Cost
 
