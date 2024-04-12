@@ -37,3 +37,9 @@ Here is an example. Wacom has two tablets with similar names but that are very d
 
 * NEVER order by using the name of the tablet alone.
 * ALWAYS verify you have ordered correct model number.
+
+## Make sure your working environment is usable
+
+* Check for potential sources of Electromagnetic Interference. More here: [**Electromagnetic interference**](../guides/general/electromagnetic-interference.md)&#x20;
+* Ensure you have enough space on your desk for the tablet and  where your keyboard will be placed
+
