@@ -6,15 +6,16 @@ When you draw a stroke with a drawing tablet, your stroke will not be perfectly 
 
 ## Causes
 
-* tablet and driver
-  * All tablets have a degree of [diagonal wobble](../core-features/diagonal-wobble.md) that can appear in your stroke.&#x20;
-  * Tablet sometimes exhibit a little bit of noise in their stroke - it's similar to wobble in that it deviates from a smooth line, but it does so in a more random way.
-* user: You and how you draw
-  * Your hand and arm and way of moving them over the tablet can cause imperfections in your stroke.
-  * Drawing slower is more prone to introducing errors into your strokes.
-* application
-  * Smoothing settings
-  * brush engine
+The tablet and driver are components that can contribute to strokes that aren't as smooth as you would like
+
+* All tablets have a degree of [diagonal wobble](../core-features/diagonal-wobble.md) that can appear in your stroke.&#x20;
+* Tablet sometimes exhibit a little bit of "noise" in their stroke. This noise is similar to wobble in that it deviates from a smooth line, but it does so in a more random way.
+* The surface of a tablet may be too smooth and this can cause the pen to easily "slip" away from your intended path.
+
+You are user and your drawing style can affect the smoothness of a stroke
+
+* Your hand and arm and way of moving them over the tablet can cause imperfections in your stroke.
+* Drawing slower is more prone to introducing errors into your strokes.
 
 ## How you hold the pen
 
@@ -98,13 +99,6 @@ The disadvantage to this technique is that you don't exactly know the path of yo
 
 Applications like Krita also support vector tools. If you are having problems with smooth strokes with you pen, the vector tools can produce perfectly smooth strokes.
 
-
-
 ## Use application auto-shape detection
 
 Some applications, like ProCreate on the iPad, have a a shape detection feature. Roughly speaking after you draw a stroke and hold you pen still for a moment, it will recognize a line, or circle, or curve and create a perfect smooth version of your stroke.&#x20;
-
-
-
-
-
