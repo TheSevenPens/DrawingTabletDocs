@@ -22,6 +22,8 @@
     * [https://en.wikipedia.org/wiki/Adobe\_Inc.](https://en.wikipedia.org/wiki/Adobe\_Inc.)
 * **CalComp**
   * [Tech Tangents - 90's CAD Digitizer and AutoCAD - CalComp DrawingBoard II](https://www.youtube.com/watch?v=QAy08gnA\_14) 2022/10/19
+* **HP**
+  * [TechTangeents - HP CAD Digitizer - 9111A Graphics Tablet](https://www.youtube.com/watch?v=Kq6GO5nNoxM) - Aug 12, 2023
 * **Microsoft**
   * [https://en.wikipedia.org/wiki/Microsoft\_Tablet\_PC](https://en.wikipedia.org/wiki/Microsoft\_Tablet\_PC) &#x20;
   * [https://en.wikipedia.org/wiki/Microsoft\_Windows](https://en.wikipedia.org/wiki/Microsoft\_Windows)&#x20;
