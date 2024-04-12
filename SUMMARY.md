@@ -139,6 +139,7 @@
     * [EMR technology in drawing tablets](guides/advanced/emr-tab-tech.md)
     * [PenTracker by Patrick Lauke](guides/advanced/pentracker-by-patrick-lauke.md)
   * [Ergonomics](guides/ergonomics/README.md)
+    * [Body posture when using drawing tablets](guides/ergonomics/body-posture-when-using-drawing-tablets.md)
     * [Handedness of drawing tablets](guides/ergonomics/handedness-of-drawing-tablets.md)
     * [Rotating a drawing tablet](guides/ergonomics/rotating-a-drawing-tablet.md)
     * [Using a drawing tablet on your lap](guides/ergonomics/using-a-drawing-tablet-on-your-lap.md)
