@@ -1,5 +1,14 @@
 # 7P notes: Apple iPad versus Samsung Galaxy Tab S
 
+## Overview
+
+I've used both iPads and a Samsung Galaxy Tab extensively. And here are my thoughts about one versus the other in terms of using them as a drawing tablet.
+
+Below or my detailed notes about using each one individually
+
+* [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s.md)
+* [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
+
 ## Drawing experience
 
 I think the Galaxy Tab S series wins in the drawing experience category. Having said that I do want to recognize that the Apple pencil as a device is actually very good.
@@ -56,11 +65,4 @@ more here: [**applications**](../../applications/)&#x20;
 iPads are around a 4X3 aspect ratio. And Samsung Galaxy S tablets have a 16 by 9 aspect ratio.
 
 I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. The size of the Galaxy S tablets makes sense for watching things like videos which are often in 16 by 9 aspect ratio but it can feel awkward to hold especially for the larger sizes.
-
-## More info
-
-* [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s.md)
-* [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
-
-&#x20;
 
