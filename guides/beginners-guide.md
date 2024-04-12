@@ -32,7 +32,7 @@ Pen tablets are the simplest and least expensive kind of drawing tablet. They ar
 
 The key skill required to use a pen tablet is that you must adjust to your hand drawing on one surface (the tablet) while you are looking at another surface (your monitor). Most people can adjust to this immediately or within a few days, but some people find this weird and for them one of the other device options may be a better choice.
 
-Pen tablets cost between $40 to $500.&#x20;
+Pen tablets cost between $50 to $500.&#x20;
 
 ### Pen displays
 
@@ -111,9 +111,7 @@ All **pen tablets** can be connected with a single USB cable. Many pen tablets (
 
 ## Applications
 
-Any application on your computer, will treat the pen just as if you have a mouse. So, broadly speaking, **all applications are compatible with drawing tablet**.
-
-If the tablet driver is installed, then **Pen-aware applications** take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications. More here: [**applications**](../applications/)&#x20;
+Any application on your computer, will treat the pen just as if you have a mouse. So, broadly speaking, **all applications are compatible with drawing tablet**. If the tablet driver is installed, then **Pen-aware applications** take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications. More here: [**applications**](../applications/)&#x20;
 
 ## Pen nibs
 
@@ -121,13 +119,11 @@ At the end of the pen that touches the tablet is a little replaceable nib. Mostl
 
 ## Drawing with a tablet vs a mouse
 
-A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md).
+A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md). Using the tablet driver, you can mmake the tabletke tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
 
-Using the tablet driver, you can make tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
+## EMR technology
 
-## Electromagnetic Resonance (EMR)
-
-The fundamental technology behind drawing tablets is called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
+Drawing tablets typically use a technology called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
 
 ## Other topics to explore
 
