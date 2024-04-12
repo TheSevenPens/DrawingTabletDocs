@@ -120,14 +120,19 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 Depending on the kind of tablet it will draw different amounts of power. Pen tablets requrie very little. Pen displays need much more. Some pen tablets even have batteries so that they can work wirelessly. More here: [Powering a drawing tablet](../guides/core-features/powering-a-drawing-tablet.md)&#x20;
 
-## Model years
+## Picking tablets with more recent tech
 
 Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
 
-General guidelines:&#x20;
-
 * **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
-* **Huion & XP-Pen** - I recommend you only get models released in 2021 or later. &#x20;
+* **Huion & XP-Pen** - Huion and XP-Pen have so many models and some that use older pen tech are released in the same year as tablets that use newer pen tech. The easiest way to know whether you are getting a truly more modern tablet is be looking at the pen it is compatible with.&#x20;
+  * XP-Pen: Look for tablets that use the X3 or X3 Pro pens
+    * The X3 Pro pens are significantly better than the X3 pens
+  * Huion: Look for tablets that use more recent Huion PenTech vesions:
+    * PenTech 3.x: PW517, PW515, PW110, PW500, PW500S or PenTech 4.0
+    * PenTech 4.0: PW600,SPW600s&#x20;
+    * The PenTech 4.0 Pens are better than the PenTech 3.x pens
+    * More here: [**Huion pens**](../product-info/huion/huion-pen-models.md)
 
 ## Preparing for a drawing tablet
 
