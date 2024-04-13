@@ -4,21 +4,20 @@
 
 This comes down to whether your pen display is VESA mountable.
 
-**If your pen display is VESA mountable**, you can use a VESA compatible monitor arm.
+* **If your pen display is VESA mountable**, you can use a VESA compatible monitor arm.
+* **If your pen display is not VESA mountable,** there are some options
 
-**If your pen display is not VESA mountable,** there are some options:
-
-## Handling displays that don't support VESA mounting
+## Pen displays without VESA support
 
 Smaller pen displays are about the size of a laptop, so you can try an arm designed to hold a laptop.
 
-Some examples:
+Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
+![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
 
-[https://twitter.com/eyekoodraws/status/1596064399109726209?s=20\&t=M4AWSiRpv\_yL4hQdpXojRg ](https://twitter.com/eyekoodraws/status/1596064399109726209?s=20\&t=M4AWSiRpv\_yL4hQdpXojRg)
+Here's some creative DIY solutions:
 
-[https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/](https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/)&#x20;
-
-Here's an example of a creative solution: [https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/](https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/)&#x20;
+* [https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/](https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/)  &#x20;
+* [https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/](https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/)&#x20;
 
 ## Wacom-specific options
 
@@ -28,14 +27,14 @@ Wacom has designed an arm for their Cintiq line called the Wacom Flex arm that i
 
 **Reviews**
 
-* MobileTechReview: [https://www.youtube.com/watch?v=iuqRv5wN2p8](https://www.youtube.com/watch?v=iuqRv5wN2p8)&#x20;
-* Brad Colbow: [https://www.youtube.com/watch?v=4zIKQqBeF9o](https://www.youtube.com/watch?v=4zIKQqBeF9o)
+* [MobileTechReview: Wacom Ergo Flex Arm for Cintiq Pro 24 & 32 Review](https://www.youtube.com/watch?v=iuqRv5wN2p8) Dec 17, 2018
+* [Brad Colbow - Wacom Flex Arm Review](https://www.youtube.com/watch?v=4zIKQqBeF9o) Dec 10, 2018
 
 **Wacom VESA mount**
 
-If you already have a mount you can use the Wacom VESA mount with it.
+If you already have a arm you can use the Wacom VESA Mount for Cintiq 24 & 32 with it.
 
-## Monitor Arm options
+## Monitor arm options
 
 These are various options people have reported using.
 
