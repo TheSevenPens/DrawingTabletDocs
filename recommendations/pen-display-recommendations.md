@@ -21,7 +21,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 * LARGE [**Huion Kamvas 22 (GS2201)**](../product-info/huion/huion-kamvas/) $450
 * LARGE [**XP-Pen Artist 22 Plus (MD220FH)**](../product-info/xp-pen/xp-pen-artist.md) $470&#x20;
 
-## **$500 to $7500**
+## **$500 to $750**
 
 * SMALL [**Wacom One 13 touch** **GEN2 (DTH0134)**](../product-info/wacom/wacom-one-gen2/) $600 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)&#x20;
 * MEDIUM [**Wacom Cintiq 16 (DTK-1660)**](../product-info/wacom/wacom-cintiq.md) $650
