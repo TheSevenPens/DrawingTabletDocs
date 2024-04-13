@@ -41,13 +41,19 @@ Because pen displays have an embedded screen, they are most similar to iPads unl
 
 ## Pointer lag
 
+Pointer lag is how far behind the operating system pointer is behind the physical tip of the pen. It is always better to have less pointer lag.
+
 * Apple iPads with the Apple pencil 2 have incredibly little pointer lag
 * Apple iPad pointer lag is comparable to a pen tablet&#x20;
 * Apple iPad pointer lag is noticeably less than pen displays
 
 ## **Parallax**&#x20;
 
-iPads have less parallax than pen displays.
+iPads and pen displays are subject to parallax. An apparent visual inaccuracy due to the display panel being a small distance away from the surface the pen touches. The smaller this distance the smaller the parallax effect. Less parallax is better. More here: [**parallax**](../../guides/pen-displays/parallax.md)&#x20;
+
+In 2023, most pen displays have good or very good (meaning low) parallax. But the iPads have even less parallax than even the most expensive pen displays.
+
+In my opinion, even the the iPad is better at having less parallax, the improvement is not so great compared to most modern pen displays that I would make a purchase decision on. You'll only see the difference for older less premium pen displays.&#x20;
 
 ## **Anti-glare sparkle**
 
