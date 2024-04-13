@@ -2,7 +2,14 @@
 
 ## Overview
 
-For more general information about using iPads, go here: [**7P notes: Apple iPad**](../apple/7p-notes-apple-ipad.md)&#x20;
+For more general information about using iPads, go here: [**7P notes: Apple iPad**](7p-notes-apple-ipad.md)&#x20;
+
+In this document we'll compare ipads to the two kinds of drawing tablets:
+
+* pen displays
+* pen tablets
+
+Because pen displays have an embedded screen, they are most similar to iPads unlike pen tablets which do not have a embedded screen.
 
 ## Apps
 
@@ -47,6 +54,17 @@ iPads have less parallax than pen displays.
 * iPads very little / undetectable amount of AG sparkle.
 * Pen displays have AG sparkle to various degrees. But none have as little as Apple iPad.
 * More here: [anti-glare sparkle](7p-notes-apple-ipad-versus-drawing-tablets.md#anti-glare-sparkle)
+
+## Pen replacement cost
+
+Don't lose your pen! They aren't cheap to replace and some cost significantly more than others. The Apple Pencil is the most expensive pen in the market.
+
+* Apple Pencil 2: $130 USD
+* Wacom Pro Pen 2: $90
+* Huion PW517: $50
+* XP Pen X3 Elite pen: $30
+* XP Pen X3 Pro pen: $40
+* Samsung S Pen for Galaxy Tab: $50&#x20;
 
 ## Notes
 
