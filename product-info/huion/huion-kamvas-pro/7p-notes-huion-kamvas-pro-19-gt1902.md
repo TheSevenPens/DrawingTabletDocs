@@ -151,21 +151,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 **Driver & Pens** - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
 
-**Pen buttons** - GOOD. the PW600 has 3 buttons. The PW600S has two buttons.
-
-**Pen button feel** - GOOD. the buttons on both pens have a nicer "crisper" clicking action than the buttons of the PW517 which feel a bit soft/mushy in comparison
-
-**Pen IAF** - GOOD. Huion says 2gf for both pens. Seems accurate. A little more sensitive than the PW517 pen which is at about 3gf.
-
-**PW600/PW600S compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
-
-**Pen weight** - I measured with a digital scale
-
-* PW600 = 16g
-* PW600S = 14g
-* PW517 = 14g
-
-**Pen eraser** - the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
+These pens are very good in terms of pressure. Much more here: [**Huion PW600 and PW600S**](../huion-pen-models/huion-pw600-and-pw600s.md)
 
 ## Diagonal wobble
 

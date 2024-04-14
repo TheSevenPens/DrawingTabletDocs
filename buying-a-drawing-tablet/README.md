@@ -132,7 +132,7 @@ Drawing tablets have been released over many years. That means when you shop onl
     * PenTech 3.x: PW517, PW515, PW110, PW500, PW500S or PenTech 4.0
     * PenTech 4.0: PW600,SPW600s&#x20;
     * The PenTech 4.0 Pens are better than the PenTech 3.x pens
-    * More here: [**Huion pens**](../product-info/huion/huion-pen-models.md)
+    * More here: [**Huion pens**](../product-info/huion/huion-pen-models/)
 
 ## Preparing for a drawing tablet
 
