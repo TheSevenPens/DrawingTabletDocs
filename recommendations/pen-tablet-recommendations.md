@@ -35,5 +35,5 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 ## Change log
 
-* 2024/02/04 Removed [**Huion HS611**](broken-reference) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy/7p-notes-huion-hs611.md)) from the recommended list.&#x20;
+* 2024/02/04 Removed **Huion HS611** ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy/7p-notes-huion-hs611.md)) from the recommended list.&#x20;
 
