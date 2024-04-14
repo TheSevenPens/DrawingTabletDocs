@@ -4,7 +4,7 @@
 
 In Microsoft Windows, for SOME tablets, even if you don't install a tablet driver, the drawing tablet can be used in a very rudimentary way through its built-in PNP support. PNP = "Plug-and-Play".&#x20;
 
-## Identifying if the Windows is working with your tablet through its PNP support.
+## Identifying if the Windows using PNP support with your tablet
 
 The easiest way to see if this how Windows is interacting with your tablet is to look at the system pointer.
 
@@ -29,6 +29,13 @@ There are a large set of limitations that come with windows PNP mode. And many o
 * You cannot control how to map the active area of your tablet to a display in any way
 * You cannot control what the buttons on the pen does
 * You cannot control what the buttons on the tablet do&#x20;
+
+## Is PNP mode useful at all?
+
+Yes, in some situations
+
+* If your manufacturer tablet driver is having problems, the PNP drivers may be a "last resort"
+* If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [Testing with Windows PNP drawing tablet drivers](../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
 
 ## Interactions between tablet drivers and PNP mode
 
