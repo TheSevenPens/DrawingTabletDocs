@@ -4,6 +4,10 @@
 
 I used this tablet from 2023/07/26 to 2023/11/01 and have been very happy with it.
 
+## Size
+
+This is large-sized tablet -comparable in size to the Wacom Intuos Pro Large (PTH-860).  and you should be aware about the realities of using a tablet this big: [**Using large pen tablets**](../../../guides/customizing-your-experience/using-large-pen-tablets.md) &#x20;
+
 ## **Build quality and design**
 
 Is great across the board. The thing looks and feels great. In this dimension, seems to rival the premium feel of Wacom. Again I am just talking about the materials here and looks. This XP-Pen tablet it seems more modern in its aesthetic than other tablets.
@@ -62,9 +66,13 @@ Rating: OK
 
 It has more wobble than the Wacom Intuos Pro Large (PTH-860). XP-Pen should be doing better here since it is targeted at a pro audience.
 
-Notice that wobble is present even in the fast stroke.
+Notice that wobble is slightly present even in the fast stroke.
+
+Enabling brush smoothing options in your applications will minimize its visibility.
 
 In practice this wobble has not impacted me at all.
+
+
 
 <div align="left">
 
@@ -75,7 +83,3 @@ In practice this wobble has not impacted me at all.
 ## Accessories
 
 **Pen case** - Adding the the premium feel is the pen case. Which holds the pen, extra nibs, and nib remover. It really is a slick looking.
-
-
-
-&#x20;
