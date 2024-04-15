@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-**Windows Ink** is an API and set of features in Microsoft Windows that enable using a pen to work with your PC.  More here: [The history of Windows Ink](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2138/guides/windows/windows-ink/the-history-of-windows-ink)&#x20;
+**Windows Ink** is an API and set of features in Microsoft Windows that enable using a pen to work with your PC.  More here: [The history of Windows Ink ](the-history-of-windows-ink.md)
 
 Windows Ink is one of two APIs used for Windows to talk to a tablet. The other, older one, is called WINTAB.
 
