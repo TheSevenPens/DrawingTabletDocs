@@ -1,23 +1,19 @@
 # Anti-glare film
 
-To prevent glare, some films use an anti-glare film. Sometimes this is just referred to as a "Matte film".
+## Overview
 
-The anti-glare effect is achieved by dispersing the light that is hitting the surface of the tablet. It also disperses the light from the display panel underneath and can create an effect called [**anti-glare sparkle**](anti-glare-sparkle.md).&#x20;
+Also called "Matte film", anti-glare film glass is one of two popular treatments the glass surface of a pen display. (The other is called [**etched glass**](etched-glass.md)).
 
-**Removing the film**
+This film is affixed to the glass underneath with some optically clear adhesive.
 
-Some tablets support removing the AG film and even sell replacement films. You you want to remove or replace the film go here: [**Removing and replacing the surface film on a pen display**](../caring-for-your-tablet/removing-and-replacing-the-surface-film-on-a-pen-display.md)
+Anti-glare film provides two benefits
 
-## Using a tablet without an a film
+* It reduces glare and reflections due to light hitting the tablet. The film does this my scattering that light.
+* As a film, it provides some protection to the glass underneath.
 
-I did this with a Huion Kamvas 13
+## Removal
 
-**Pros**
+For SOME tablets, these films are intended to be removed by the user. Some manufacturers even sell replacement films. These films, tend to be easily removed.
 
-* no anti-glare sparkle
-* brighter and more vibrant colors
+For SOME tablets, these films are quite firmly attached to the glass and are not easily removed.&#x20;
 
-**Cons**
-
-* more risk of scratching glass - though it has not happened yet with my Kamvas 13
-* Glare from lights shows up strongly on the glass

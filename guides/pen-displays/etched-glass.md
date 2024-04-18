@@ -2,7 +2,7 @@
 
 ## Overview
 
-Etched glass is one of two popular treatments the glass surface of a pen display. (The other is called an anti-glare or matt film).
+Etched glass is one of two popular treatments the glass surface of a pen display. (The other is called an [**anti-glare film**](anti-glare-film.md)).
 
 "Etched glass" describes a microscopic texture applied to a glass surface.
 
