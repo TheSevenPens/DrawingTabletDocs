@@ -100,6 +100,7 @@
     * [Configure smoothing in applications](guides/drawing/configure-smoothing-in-applications.md)
     * [Enable tilt for brushes](guides/drawing/enable-tilt-for-brushes.md)
   * [Pen displays](guides/pen-displays/README.md)
+    * [Etched glass](guides/pen-displays/etched-glass.md)
     * [Anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md)
     * [Lamination](guides/pen-displays/lamination.md)
     * [Display resolution](guides/pen-displays/display-resolution.md)

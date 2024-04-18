@@ -74,7 +74,7 @@ The Huion PW517 pen has a lower (better) initial activation force than the pen t
 * driver: v15.6.2.80
 * comments: strong pulsing effect at lower pressues. Size of brush jumps dramatically up and down.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Test 2 on 2023/12/6
 
@@ -84,4 +84,4 @@ The Huion PW517 pen has a lower (better) initial activation force than the pen t
 * driver: v15.7.6.753
 * comments: pulsing still strongly present at lower pressures but with this driver the effect is smoother.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
