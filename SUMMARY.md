@@ -360,6 +360,7 @@
   * [YouTube channels](resources/youtube-channels.md)
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
   * [Process](resources/process/README.md)
+    * [Measuring Pressure](resources/process/measuring-pressure.md)
     * [Aspect ratio math](resources/process/aspect-ratio-math.md)
     * [Diagonal wobble testing](resources/process/diagonal-wobble-testing.md)
   * [Koneko\_w](resources/koneko\_w.md)
