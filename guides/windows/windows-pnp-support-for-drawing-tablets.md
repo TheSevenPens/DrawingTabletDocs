@@ -30,12 +30,13 @@ There are a large set of limitations that come with windows PNP mode. And many o
 * You cannot control what the buttons on the pen does
 * You cannot control what the buttons on the tablet do&#x20;
 
-## Is PNP mode useful at all?
+## When should you use PNP drivers?
 
-Yes, in some situations
+If your manufacturer tablet driver is having problems, the PNP drivers may be a "last resort".
 
-* If your manufacturer tablet driver is having problems, the PNP drivers may be a "last resort"
-* If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [Testing with Windows PNP drawing tablet drivers](../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
+## Using PNP mode for testing and diagnosing problems
+
+If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [**Testing with Windows PNP drawing tablet drivers**](../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
 
 ## Interactions between tablet drivers and PNP mode
 
@@ -51,3 +52,4 @@ Every now and then I have windows use PNP mode even though a driver is installed
 ## Notes
 
 Windows supports PNP for lots of devices. For example mice or monitors. PNP is not limited to just tablets.&#x20;
+
