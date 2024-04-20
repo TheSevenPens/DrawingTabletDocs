@@ -4,7 +4,7 @@
 
 Taking notes is a popular scenario for drawing tablets.
 
-You will get the most natural experience taking notes if you use a [**standalone tablet**](../../recommendations/standalone-drawing-tablet-recommendations.md) or [**dedicated note taking devices**](../../basics/use-cases/dedicated-note-taking-devices.md). Because both these kinds of devices have screens and our portable. And this makes them very convenient for taking notes.
+You will get the most natural experience taking notes if you use a [**standalone tablet**](../../recommendations/standalone-drawing-tablet-recommendations.md) or [**dedicated note taking devices**](../../recommendations/dedicated-note-taking-devices.md). Because both these kinds of devices have screens and our portable. And this makes them very convenient for taking notes.
 
 ## General considerations
 

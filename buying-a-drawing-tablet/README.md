@@ -49,6 +49,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 ## **Core drawing tablet features**
 
+* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
 * **Pressure -** The pen can detect how much pressure you are putting on its tip. The smallest pressure that activates the pen is called the Initial Activation Force (IAF). The maximum pressure is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
 * **Tilt -** Tilt support can be very useful for for certain kinds of artwork. Almost all modern tablets support tilt, except for some consumer Wacom tablets. Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
 * **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
@@ -77,20 +78,22 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 * **Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
 * **Pen displays** require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display.&#x20;
 
-## Computer compatibility
+## OS and device compatibility
 
-Drawing tablets work with:
+Drawing tablets **well work** with computers and laptops running popular operating systems. More here:
 
 * Macs
-* PCs running Windows. More here: [**Using a drawing tablet on Windows**](../guides/windows/using-a-drawing-tablet-on-windows.md) &#x20;
-* PCs running Linux. More here: [**Using a drawing tablet with Linux**](../guides/linux.md) &#x20;
-* iPads to a very limited extent. More here: [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ios-device.md)  &#x20;
-* Android devices to some extent. More here: [**Using a drawing tablet with an Android device**](../guides/general/using-a-drawing-tablet-with-an-android-device.md) &#x20;
-* Chromebooks to some extent. More here: [**Using drawing tablets with Chromebooks**](../guides/general/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
+* [**Using a drawing tablet on Windows**](../guides/windows/using-a-drawing-tablet-on-windows.md) &#x20;
+* [**Using a drawing tablet with Linux**](../guides/linux.md) &#x20;
+
+Drawing tablets work **to some extent** with other kinds of devices. More here:
+
+* [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ios-device.md)  &#x20;
+* [**Using a drawing tablet with an Android device**](../guides/general/using-a-drawing-tablet-with-an-android-device.md) &#x20;
+* [**Using drawing tablets with Chromebooks**](../guides/general/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
 
 ## Ergonomics
 
-* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
 * **Thickness** - Pen tablets are very then these days - about 8mm. Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm.&#x20;
 * **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
 * **Body posture** - With a pen tablet, your torso will naturally have a more vertical posture. This is because you will be looking at your monitor while you hand rests on the pen tablet which is on your desk.  With a pen display, you will be leaning over a bit to draw since you must look at the pen tablet on you desk. You may experience lower back pain or strain on your neck from looking down. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)
@@ -100,7 +103,7 @@ Drawing tablets work with:
 * **Noise** - You may have strong preferences about **noise**. Generally drawing tablets are considered very quiet, and some are completely silent. More details here: [**Noise**](./#noise)&#x20;
 * **Heat** - Drawing tablets are either room temperature or slightly warm depending on the kind of drawing tablet. More here: [**Heat**](../guides/ergonomics/heat.md)&#x20;
 
-## Usage scenarios
+## Use Cases
 
 * **Drawing** - Drawing with a drawing tablet very similar to but different from drawing on paper. And there is a big difference between how it feels to draw with pen displays versus pen tablets. You must understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../basics/the-drawing-experience.md) and here [**Learning digital art**](../guides/learning-digital-art.md)
 * **Taking notes** - I don't typically recommend pen tablets or pen displays for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../guides/use-cases/taking-notes-with-drawing-tablets.md)&#x20;
@@ -128,7 +131,7 @@ Drawing tablets have been released over many years. That means when you shop onl
 * **Huion & XP-Pen** - Huion and XP-Pen have so many models and some that use older pen tech are released in the same year as tablets that use newer pen tech. The easiest way to know whether you are getting a truly more modern tablet is be looking at the pen it is compatible with.&#x20;
   * XP-Pen: Look for tablets that use the X3 or X3 Pro pens
     * The X3 Pro pens are significantly better than the X3 pens
-  * Huion: Look for tablets that use more recent Huion PenTech vesions:
+  * Huion: Look for tablets that use more recent Huion PenTech versions:
     * PenTech 3.x: PW517, PW515, PW110, PW500, PW500S or PenTech 4.0
     * PenTech 4.0: PW600,SPW600s&#x20;
     * The PenTech 4.0 Pens are better than the PenTech 3.x pens
