@@ -8,6 +8,10 @@ You can use a pen display like a regular monitor. However, there are a few thing
 
 **It's completely safe.**&#x20;
 
+## Leaving them on continuously
+
+Just like any monitor or TV you can just keep them on all the time.
+
 I've used multiple pen displays as a second display and leave them on 24/7 and my computers are set to never sleep so they are always showing something.&#x20;
 
 Specific pen displays I have used this way (each has been continuously turned on and showing something for several months at least):
@@ -23,10 +27,6 @@ Specific pen displays I have used this way (each has been continuously turned on
 * Huion Kamvas Pro 16 Plus 4k (GT1562)
 * Huion Kamvas Pro 24 4K (GT2401)
 * Xencelabs Pen Display 24 (LPH2412U-A)
-
-## Pen displays vs monitors
-
-
 
 ## Refresh Rate
 
