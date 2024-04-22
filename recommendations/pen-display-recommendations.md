@@ -16,7 +16,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 ## $300 to $500
 
 * SMALL [**Wacom One 2019 GEN1 (DTC-133)**](../product-info/wacom/wacom-one-dtc-133/) $400&#x20;
-* SMALL [**XP-Pen Artist 14 GEN2 (MD140FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) $420
+* SMALL [**XP-Pen Artist Pro 14 GEN2 (MD140FH)**](../product-info/xp-pen/xp-pen-artist-pro-gen2/) $420
 * SMALL [**Wacom One 12 GEN2 (DTC-121)**](../product-info/wacom/wacom-one-gen2/) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (substandard pressure handling)
 * SMALL [**XP-Pen Artist 16 GEN2 (CD160FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) $400 <mark style="color:red;">**NOT RECOMMENDED**</mark> (due to excessive diagonal wobble)&#x20;
 * LARGE [**Huion Kamvas 22 (GS2201)**](../product-info/huion/huion-kamvas/) $450
