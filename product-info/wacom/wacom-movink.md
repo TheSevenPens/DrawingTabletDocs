@@ -65,6 +65,12 @@ I am curious if the use of an OLED screen diminishes pointer lag.
 
 It weights 420g. This weight exceptionally little.&#x20;
 
+And less than these pen displays
+
+* Wacom One Gen (DTC-133) 1000g
+* Wacom One 12 (DTC- 121) 700g
+* Wacom one 13 touch (DTH-134) 900g
+
 It weighs less than any of the these Intuos Pro pen tablets:
 
 * Intuos Pro Small (PTH-460) -> 450g
