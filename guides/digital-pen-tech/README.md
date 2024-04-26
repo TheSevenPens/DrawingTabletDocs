@@ -2,39 +2,18 @@
 
 ## Overview
 
-There are a lot of digital pen technologies out there. The key ones you should know about are:
+There are a lot of digital pen technologies out there. Drawing tablets use EMR but there are technologies that offer a similar feature set
 
-* **Electromagnetic Resonance (EMR)** - used by all modern drawing tablets
-* **Active Electrostatic (AES)** - Used by many mobile devices
-* **Apple Pencil tech** - Used only by Apple devices
-* **Microsoft Pen Protocol (MPP)** - Used by Microsoft surface devices
+## EMR&#x20;
+
+Traditional drawing tablets ALL use **EMR (Electromagnetic Resonance)** More here: [**EMR**](emr/). It is also used prominently by some mobile devices such as Samsung Galaxy Tab S series tablets. We believe that EMR overall offers the best drawing experience.&#x20;
+
+## NON-EMR
+
+* **Active Electrostatic (AES)** - Used by many mobile devices. More here: [**AES**](aes.md)&#x20;
+* **Apple Pencil tech** - Used only by Apple devices: More here: [**Apple Pencil tech**](apple-pencil-tech.md)  &#x20;
+* **Microsoft Pen Protocol (MPP)** - Used by Microsoft surface devices and a few others: [**MPP**](mpp.md)&#x20;
 * **N-Trig** - Used by some older Microsoft surface models
-
-## Electromagnetic Resonance (EMR)&#x20;
-
-Wacom invented EMR tech decades ago. It's primary innovation is that the pen does not need a battery. It gets its power from the tablet itself.
-
-See this page for an explanation of how EMR works:  [EMR technology in drawing tablets](emr/).
-
-## Active Electrostatic (AES)
-
-Wacom invented the AES technology also. It works in a fundamentally different way than EMR.
-
-* Wacom: [What are the advantages of Active ES (Electrostatic) pen technologies?](https://support.wacom.com/hc/en-us/articles/1500006269061-What-are-the-advantages-of-Active-ES-Electrostatic-pen-technologies-) ([archive](https://archive.is/wip/MT5Hf))
-
-## Apple Pencil
-
-The Apple Pencil does not use EMR. Apple uses a proprietary protocol for their pen. It is very similar to AES.
-
-If you are curious about what is inside an Apple pencil, see this video: [https://youtube.com/shorts/M9sArtVjRps?feature=share](https://youtube.com/shorts/M9sArtVjRps?feature=share)
-
-## N-Trig
-
-Was a technology used by the third, fourth generation of Microsoft Surface pens.
-
-## Microsoft Pen Protocol (MPP)
-
-Microsoft switched from N-Trig to their own MPP protocol. MPP is very similar to AES.
 
 ## Reddit threads
 
