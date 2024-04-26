@@ -123,7 +123,7 @@ A drawing tablet uses absolute positioning and a mouse uses relative positioning
 
 ## EMR technology
 
-Drawing tablets typically use a technology called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](advanced/emr-tab-tech.md)&#x20;
+Drawing tablets typically use a technology called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](digital-pen-tech/emr/)&#x20;
 
 ## Other topics to explore
 

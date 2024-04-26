@@ -1,4 +1,4 @@
-# Digital pen technologies
+# Digital pen tech
 
 ## Overview
 
@@ -14,7 +14,7 @@ There are a lot of digital pen technologies out there. The key ones you should k
 
 Wacom invented EMR tech decades ago. It's primary innovation is that the pen does not need a battery. It gets its power from the tablet itself.
 
-See this page for an explanation of how EMR works:  [EMR technology in drawing tablets](emr-tab-tech.md).
+See this page for an explanation of how EMR works:  [EMR technology in drawing tablets](emr/).
 
 ## Active Electrostatic (AES)
 

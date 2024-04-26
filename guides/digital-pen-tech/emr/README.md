@@ -1,20 +1,30 @@
-# EMR technology in drawing tablets
+# EMR
 
-## Companion video: How do EMR pens work?
+## Overview
+
+EMR technology was introduced to drawing tablets by Wacom. And they held all the core key patents to EMR. Those core patents have expired and now other manufacturers can build increasingly sophisticated EMR designs which are begin to rival Wacom products.
+
+## EMR key features
+
+* Power
+  * Passive EMR: The pen gets power from proximity to the tablet
+  * Active EMR: The pen gets power from a battery inside&#x20;
+* Hover (i.e. proximity detection)
+* Position detection
+* Pressure detection
+* Tilt detection
+* Barrel rotation detection - very rare
+* Communication of button information.&#x20;
+
+## Explanation of how EMR works
 
 {% embed url="https://youtu.be/Vv668I4LEdg" %}
 
 ## Pressure detection
 
-In the video, a specific method to detect pressure is shown. This method involves moving the ferrite core which then alters the resonant frequency of the LC circuit. This design is from a very, very old EMR pen design.&#x20;
+See this document for details on [**EMR pressure detection**](emr-pressure-detection.md). It also contains a clarification of pressure detection in the video which depicts a very old way of doing pressure detection.
 
-Modern designs use a separate pressure sensor which is more reliable for detecting pressure.
-
-<figure><img src="../../.gitbook/assets/7P SLIDE EMR Old New Design (1).png" alt=""><figcaption></figcaption></figure>
-
-The OLD EMR pen design can be seen in [**this teardown of the Huion PEN80 pen**](../pens/pen-teardown-huion-pen80.md).
-
-## EMR design: Concepts vs Implementation
+## Concepts vs Implementation
 
 Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts, different manufacturers can tweak this design in their implementation.
 
@@ -23,11 +33,11 @@ Think of the EMR design illustrated in the video as a baseline example that demo
 Active vs Passive refers to how the EMR pen gets its power.
 
 * With Passive EMR, the pen gets its power from the tablet.
-* With Active EMR, the pen gets its power from a battery inside the pen. That battery may be replaceable or rechargable.
+* With Active EMR, the pen gets its power from a battery inside the pen. That battery may be replaceable or rechargeable.
 
-Modern EMR pens are Passive EMR. DO NOT Buy as tablet that uses a Passive EMR pen.
+Modern EMR pens are Passive EMR. <mark style="color:red;">**DO NOT Buy a tablet that uses Active EMR**</mark>.
 
-Mixing and matching: You cannot use an Active EMR pen with a tablet that supports Passive EMR pens. And likewise you cannot use a Passive EMR pen with a tablet that supports an Active EMR pen.
+Mixing and matching: You cannot use an Active EMR pen with a tablet that uses Passive EMR pens. And likewise you cannot use a Passive EMR pen with a tablet that supports an Active EMR pen.
 
 ## **Resonant frequency**
 
@@ -41,11 +51,9 @@ We don't know.
 
 We suspect this is MUCH faster than a typical pen report rate of 200Hz.
 
+## **Other pen technologies**
 
-
-## **Pen technologies**
-
-Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen technologies**](digital-pen-technologies.md)&#x20;
+Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen tech**](../)&#x20;
 
 ## **General resources**
 
@@ -94,7 +102,7 @@ If you are curious about what is inside an Apple pencil, see this video: [https:
 
 The companion video contains several circuit simulations.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-07-03 204827.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-03 204827.png" alt=""><figcaption></figcaption></figure>
 
 I used the **Falstad** tool https://www.falstad.com/circuit/ to create those simulations
 
