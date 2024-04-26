@@ -30,14 +30,21 @@ Think of the EMR design illustrated in the video as a baseline example that demo
 
 ## **Active EMR vs Passive EMR**
 
-Active vs Passive refers to how the EMR pen gets its power.
+{% hint style="info" %}
+Modern EMR pens are **Passive EMR**. <mark style="color:red;">**DO NOT Buy a tablet that uses Active EMR**</mark>.
+{% endhint %}
 
-* With Passive EMR, the pen gets its power from the tablet.
-* With Active EMR, the pen gets its power from a battery inside the pen. That battery may be replaceable or rechargeable.
+**Active** vs **Passive** indicates how an EMR gets power.
 
-Modern EMR pens are Passive EMR. <mark style="color:red;">**DO NOT Buy a tablet that uses Active EMR**</mark>.
+* Passive EMR - The tablet wirelessly powers the pen
+* Active EMR - A battery inside the pen powers the pen
 
-Mixing and matching: You cannot use an Active EMR pen with a tablet that uses Passive EMR pens. And likewise you cannot use a Passive EMR pen with a tablet that supports an Active EMR pen.
+**Active EMR battery type** - The battery may be replaceable or rechargeable.
+
+**Mixing and matching?** -  It doesn't work.
+
+* You cannot use an Active EMR pen with a Passive EMR tablet
+* You cannot use a Passive EMR pen with Active EMR tablet.
 
 ## **Resonant frequency**
 
