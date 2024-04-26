@@ -2,21 +2,13 @@
 
 ## Introduction
 
-OpenTabletDriver (OTD)  is a third-party tablet driver. "Third-party" means it is made by someone else than the tablet manufacturer. OTD site: [https://opentabletdriver.net/](https://opentabletdriver.net/)
+OpenTabletDriver (OTD)  is a third-party tablet driver. "Third-party" means it is made by someone else than the tablet manufacturer.&#x20;
 
-## Key points
+At the OTD site: [**https://opentabletdriver.net/**](https://opentabletdriver.net/) you can find:
 
-* OTD is open source. You can see the code on their GitHub repo: [https://github.com/OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)&#x20;
-* OTD supports 200+ tablets across many brands and many release years
-* OTD is actively maintained
-* OTD supports plug-ins that can modify its behavior
-* OTD runs on Windows, Linux, and MacOS.&#x20;
-* People use OTD as their normal tablet driver for playing osu! and even when they are doing creative tasks.
-* OTD has a very active discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR)
-
-## Documentation
-
-[https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki))
+* A list of compatibles drawing tablets
+* Documentation
+* A link to the GitHub repo
 
 ## Why use OpenTabletDriver?
 
@@ -28,5 +20,17 @@ Normally, you should use your manufacturer-provided driver for your tablet. Howe
 
 ## Using OpenTabletDriver on Windows
 
-More here: [Using OpenTabletDriver on Windows for drawing](opentabletdriver-windows.md)
+To learn how to install and configur OTD on windowes, go here: [**Using OpenTabletDriver on Windows**](opentabletdriver-windows.md)
+
+## Key points
+
+* OTD is open source. You can see the code on their GitHub repo: [https://github.com/OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)&#x20;
+* OTD supports 200+ tablets across many brands and many release years
+* OTD is actively maintained
+* OTD supports plug-ins that can modify its behavior
+* OTD runs on Windows, Linux, and MacOS.&#x20;
+* People use OTD as their normal tablet driver for playing osu! and even when they are doing creative tasks.
+* OTD has a very active discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR)
+
+
 
