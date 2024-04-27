@@ -4,9 +4,9 @@
 
 The "tablet not connected/detected" problem is fundamentally that your driver cannot "see" , "find", or "communicate" with the drawing tablet even though it is plugged in via USB cable. The driver will often claim that the tablet "is not connected" or "is not detected".
 
-If this happens with a pen tablet (a screenless tablet), then essentially the tablet isn't functional at all.
+If this happens with a **pen tablet (a screenless tablet)**, then essentially the tablet isn't functional at all.
 
-If this happens with a pen display (a tablet with a screen), usually the display part of the tablet works fine but you won't be able to use the pen with the tablet.
+If this happens with a **pen display (a screen tablet)**, usually the display part of the tablet works fine but you won't be able to use the pen with the tablet. In other words, now the pen display works only like a monitor.
 
 ## Driver versus operating system
 
