@@ -7,13 +7,17 @@ These are highly-curated recommendations for people who are just beginning to ge
 * All these tablets deliver the basic experiences and a reasonable price
 * Some of these tablets are missing so-called "pro" features.
 
+Below you'll find my beginner-friendly recommendations for:&#x20;
+
+* pen tablets (no screen)
+* pen displays (have a screen)
+* and standalone tablets.&#x20;
+
 {% hint style="info" %}
 I HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md).
-{% endhint %}
 
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](./)&#x20;
-
-Below you'll find my recommendations for: pen tablets (no screen), pen displays (have a screen), and standalone tablets.&#x20;
+{% endhint %}
 
 ## Pen tablets
 
@@ -35,7 +39,7 @@ More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/compariso
 
 ## Pen displays
 
-These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I honestly don't enjoy drawing an 13" display, I prefer 16" and above. But this size is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
 * Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gs1331.md))
 * XP-Pen Artist 12 GEN2 (CD120FH)
@@ -55,6 +59,3 @@ More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-inf
 * **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md) )
   * NOTE: The Samsung S Pen COMES WITH the tablet.
   * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
-
-
-

@@ -17,7 +17,7 @@ Let's be explicit on the scenario that works:
 * 2 or more drawing tablets attached to the same computer
 * where you are using then pen with only one of them at one time
 
-### You must use a single tablet driver
+### Requirement: You must use a single tablet driver
 
 For you to use multiple tablets, a single driver must be installed and that driver must be compatible with each tablet.&#x20;
 
@@ -27,7 +27,7 @@ You cannot successfully use two separate tablet drivers even if you successfully
 
 Owing to the restriction of having a single driver, you cannot mix an match tablet brands. For example, you cannot use both a Wacom and Huion tablet.
 
-### The driver must let you manage the tablets individually
+### Requirement: The driver must let you manage the tablets individually
 
 * The driver will need to identify and let you configure each tablet separately.
 * In the Wacom Tablet Properties app you will see the tablets shown at the top&#x20;
