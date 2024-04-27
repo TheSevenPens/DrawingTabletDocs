@@ -88,7 +88,7 @@ Drawing tablets **well work** with computers and laptops running popular operati
 
 Drawing tablets work **to some extent** with other kinds of devices. More here:
 
-* [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ios-device.md)  &#x20;
+* [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)  &#x20;
 * [**Using a drawing tablet with an Android device**](../guides/general/using-a-drawing-tablet-with-an-android-device.md) &#x20;
 * [**Using drawing tablets with Chromebooks**](../guides/general/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
 
