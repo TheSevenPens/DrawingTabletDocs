@@ -6,13 +6,15 @@ To more accurately assess hover height, I 3D printed this small tool.
 
 Essentially it is a staircase with each step 0.5mm taller than the previous.
 
-Each step is 0.5mm.&#x20;
+Each step is 0.5mm in height.
+
+Each step is a 5mmx5mm square.&#x20;
 
 At every 1.0mm increment the step is labelled.
 
 I used a digital caliper to measure the thickness of the steps and found it is relatively accurate within +/- 0.1 for each step.
 
-<figure><img src="../../.gitbook/assets/PXL_20240426_7P_hover_height_tool (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PXL_20240426_7P_hover_height_tool_v2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Printing details
 
@@ -41,7 +43,7 @@ I measured the steps with a digital caliper and had these results:
 * 10.0mm step -> 10.04mm
 * 10.5mm step -> 10.64mm
 
-For the purposes of this testing, the accuracy is enough. I really only care abour being within +/- 0.25mm of the desired step height
+
 
 
 
