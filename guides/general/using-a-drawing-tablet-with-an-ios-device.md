@@ -1,4 +1,15 @@
-# Using a drawing tablet with an iOS device
+# Using a drawing tablet with an iPad or iPhone
+
+## Overview
+
+With the popularity of iPads and iPhones, it's natural that people ask if they can use a drawing table with their Apple Device.
+
+The summary is:
+
+* You can use a pen tablet (screenless tablet) with an iPad or iPhone only under very specific conditions (specific tablets, and specific apps).
+* There is currently no way to use a pen display (screen tablet) with an iPad or iPhone.
+
+
 
 ## Pen tablets with iOS devices
 
@@ -22,6 +33,4 @@ Read more about Ibis Paint and pen tablet at these links:
 * [https://support.huion.com/en/support/solutions/articles/44002383197-which-models-can-support-ios-ipados-by-using-ibispaint](https://support.huion.com/en/support/solutions/articles/44002383197-which-models-can-support-ios-ipados-by-using-ibispaint) &#x20;
 * [https://support.huion.com/en/support/solutions/articles/44002383205-how-to-set-pen-pressure-in-ibispaint-in-ios-ipados](https://support.huion.com/en/support/solutions/articles/44002383205-how-to-set-pen-pressure-in-ibispaint-in-ios-ipados)&#x20;
 
-## Pen displays with iOS devices
-
-Currently, no known pen displays (a screen tablet) work with iPhones or iPads as drawing tablets.
+##
