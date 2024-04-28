@@ -52,4 +52,5 @@ If your cable or port, does not support DP alt mode, you have several remaining 
 
 ## Things go keep in mind
 
-You have to verify DP support for the USB-C port AND the USB-C cable. Just having one support DP alt mode is not enough.
+* You have to verify DP support for the USB-C port AND the USB-C cable. Just having one support DP alt mode is not enough.
+* DP alt mode has nothing to do with whether the port or cable can carry power or carry enough power. That is a separate issue.
