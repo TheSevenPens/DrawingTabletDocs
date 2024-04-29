@@ -3,6 +3,7 @@
 
 
 * [<mark style="background-color:green;">**My notes on these tablets**</mark>](7p-notes-wacom-one-gen2-drawing-tablets.md)
+* [Android Police review of Wacom One](https://www.androidpolice.com/wacom-one-m-review/) April 2024
 * [Brad Colbow review of Wacom One 13](https://www.youtube.com/watch?v=VXtQvhrV6WY) Sep 25, 2023
 * [Aaron Rutten: Wacom One 13 GEN1 VS GEN2 (2023) - Compariso](https://www.youtube.com/watch?v=lQGeqT6YA7Y)n &#x20;
 * [Aaron Rutten review of Wacom One 12 & Wacom One 13 Touch (2023)](https://www.youtube.com/watch?v=X\_FrZGl0lYM)&#x20;
