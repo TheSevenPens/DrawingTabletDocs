@@ -58,11 +58,7 @@ The drivers that manufacturers release for their drawing tablets support Mouse M
 
 ### Q: Can I fix a dead pixel on my pen display?
 
-It **MAY** be possible to fix. See this video: [https://www.youtube.com/watch?v=5pvtiV3B\_nE](https://www.youtube.com/watch?v=5pvtiV3B\_nE)
-
-A dead pixel does occur on some small percentage of monitors and pen displays.
-
-I have not seen it be super common on pen displays from any manufacturer. And none of my pen displays from Wacom, Huion, or XP-Pen have any dead pixels.
+It **MAY** be possible to fix. More here: [**Dead pixels**](guides/pen-displays/dead-pixels.md).
 
 ## General
 
