@@ -281,6 +281,7 @@
   * [Samsung](product-info/samsung/README.md)
     * [7P notes: Samsung Galaxy Tab S](product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)
     * [Samsung Galaxy Book 360](product-info/samsung/samsung-galaxy-book-360.md)
+    * [Samsung Galaxy Tab S series](product-info/samsung/samsung-galaxy-tab-s-series.md)
     * [Samsung Galaxy Tab S6](product-info/samsung/samsung-galaxy-tab-s6.md)
     * [Samsung Galaxy Tab S7](product-info/samsung/samsung-galaxy-tab-s7.md)
     * [Samsung Galaxy Tab S8](product-info/samsung/samsung-galaxy-tab-s8.md)
@@ -382,4 +383,3 @@
     * [Appendix: Other histories](misc/history-of-drawing-tablets/appendix-other-histories.md)
     * [Appendix: References](misc/history-of-drawing-tablets/appendix-references.md)
   * [Mobile computer recommendations](recommendations/mobile-computer-recommendations.md)
-  * [Test page](misc/test-page.md)

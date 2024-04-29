@@ -1,6 +1,6 @@
 # Samsung Galaxy Tab S6
 
-## Samsung Galaxy Tab S6 Lite 2024
+Content has moved to [**Samsung Galaxy Tab S series**](samsung-galaxy-tab-s-series.md)&#x20;
 
 * Samsung announced this early in 2024 but it isn't widely available for purchase.&#x20;
 
