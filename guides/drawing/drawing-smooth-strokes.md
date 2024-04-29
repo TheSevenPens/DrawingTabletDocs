@@ -54,9 +54,11 @@ Generally speaking a faster stroke will result in a smoother stroke.
 
 Occasionally some people enable mouse mode in their tablet driver. Mouse mode uses relative positioning and usually makes it harder to make a consistent stroke. Instead try disabling mouse mode.
 
-## Match aspect ratios
+## Match aspect ratios (very important)
 
 If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [Matching aspect ratios](../customizing-your-experience/matching-aspect-ratios.md).&#x20;
+
+Please do check for this. Many people have been using their tablets for years with mismatched aspect ratios and when they make the ratios match it is a BIG DIFFERENCE in their ability to draw strokes correctly.
 
 ## Zoom in as much as possible for your stroke
 
