@@ -35,6 +35,7 @@
 ## Huion Kamvas Pro 16 4K (GT1561)
 
 * Model Year: 2021
+* User manual: [https://www.huion.com/index.php?m=content\&c=index\&a=manual\&id=250](https://www.huion.com/index.php?m=content\&c=index\&a=manual\&id=250)&#x20;
 * [Brad Colbow review of Huion Kamvas Pro 16 4K](https://youtu.be/7P3RW0JxgPU) 2021/04/17&#x20;
 * [Marc Brunet review of Huion Kamvas Pro 16 4K](https://youtu.be/KlBDEezxjiw) 2021/05/01
 
