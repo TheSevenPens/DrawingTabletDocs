@@ -20,9 +20,9 @@ With a pen display, your android device may NOT be able to provide enough power.
 
 A pen tablet may not be able to map the active area as you would intuitively expect to your android device. With some tablets only a portion of the tablet's active area will be usable for drawing when connected to an android device.
 
-**Proportional drawing**
+**Proportional drawing and lack of it**
 
-The mapping may also involve a distortion. This means that tracing out a circle on the pen tablet may result in an oval on the android device.&#x20;
+The mapping may (likely) be non-proportional and create a distortion. This means that tracing out a circle on the pen tablet may result in an oval on the android device.&#x20;
 
 ## Drivers
 
@@ -42,8 +42,6 @@ Because there is no manufacturer driver, there is no way to control what the pre
 
 You will have to rely on the pressure curve control in your applications - if it has them.
 
-
-
 ## Applications
 
 * For a list of applications that work on Android go here: [**Applications**](../../applications/).
@@ -52,29 +50,34 @@ You will have to rely on the pressure curve control in your applications - if it
 
 * Bluetooth. I don't know if this will work. I haven't ever tried.
 
-## Connecting ap en display
+## Connecting a pen display
 
 * Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
 
 ## Android setups I have tried
 
-**Setup 1: Huion Kamvas 13 + Samsung Galaxy Tab S8 Ultra + Microsoft Surface Thunderbolt 4 Dock**&#x20;
+**Setup 1: Huion Kamvas 13 + Samsung Galaxy Tab S8 Ultra**
 
-* S8 Ultra connected to the dock
-* Kamvas top USB-C port connected to Huion 3-in-1 cable&#x20;
-* 3-in-1 cable red USB-A end (for power) connected to dock.
-* 3-in-1 cable black USB-A end (for data ) connected to dock.
-* 3-in-1 cable HDMI end not connected
-* Thunderbolt 3 cable connect to lower USB-C port on Kamvas
-* Result:
-  * I was able to paint with pressure using the Infinite Painter app on the Kamvas 13 screen.
+The following setup below worked for me.
 
-**Other setup notes**
+* For this setup, I used a **Microsoft Surface Thunderbolt 4 Dock**&#x20;
+* Samsung S8 Ultra connected to the dock via the dock's attached Thunderbolt 3 cable
+* Huion Kamvas top USB-C port connected with Huion 3-in-1 cable:&#x20;
+  * 3-in-1 cable red USB-A end (for power) connected to dock.
+  * 3-in-1 cable black USB-A end (for data ) connected to dock.
+  * 3-in-1 cable HDMI end not connected
+* Huion Kamvas 13 lower USB-C port connected to the USB-C port on dock using a Thunderbolt 3 cable.
 
-* Samsung Galaxy S9 FE does not work with an external monitor so I was unable to get it to work a drawing tablet.
+**Step 2: Samsung Galaxy S9 FE**&#x20;
+
+Samsung Galaxy S9 FE does not work with an external monitor. Because of this,  I was unable to get it to work a pen display.
 
 ## Videos
+
+General
+
+* [XP-Pen - Drawing tablets compatible with Android ](https://www.xp-pen.com/drawing-tablets-for-android.html)
 
 Pen tablets
 
