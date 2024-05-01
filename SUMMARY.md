@@ -375,6 +375,7 @@
     * [Diagonal wobble testing](resources/process/diagonal-wobble-testing.md)
   * [Koneko\_w](resources/koneko\_w.md)
 * [Misc](misc/README.md)
+  * [Resolution info](misc/resolution-info.md)
   * [History of drawing tablets](misc/history-of-drawing-tablets/README.md)
     * [Preface](misc/history-of-drawing-tablets/preface.md)
     * [Chapter 1: Antiquity](misc/history-of-drawing-tablets/chapter-1-antiquity.md)
