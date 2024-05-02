@@ -2,9 +2,13 @@
 
 ## Overview
 
-The Wacom Intuos Pro (PTH-x60) series of tablets are still the best pen tablets every made even in 2024.
+The Wacom Intuos Pro (PTH-x60) series of tablets are still the best pen tablets ever made even in 2024.
 
-I have used both the large and medium sizes extensively and the small size a little bit. All three are highly recommended. I recommend especially the Medium size unless you have a special need for the Large or Small sizes. (Medium-sized tables are my standard recommendation.)
+I have used both the large and medium sizes extensively and the small size a little bit.
+
+All three are highly recommended. I recommend the Medium size (PTH-660) size for most users. This reflects my standard guidance that medium-sized tablets are the best choice for the vast majority.
+
+
 
 <table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-860</td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td>PTH-660</td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td>PTH-460</td><td>2019</td><td>Intuos Pro Small (2019)</td></tr></tbody></table>
 
@@ -20,21 +24,27 @@ The pen is otherwise typical
 * two buttons
 * Has an eraser
 
-**Cost** - Take care of your Pro Pen 2. To get a replacement is expensive. As of 2024 the Pro Pen 2 on Wacom's store costs $90 US. &#x20;
+**Cost** - Take care of your Pro Pen 2. A replacement typically costs $90 US. &#x20;
+
+## **Drawing experience**
+
+**Pressure handling** - excellent&#x20;
 
 **Pointer lag** - These tablets have very little pointer lag. You can see that demonstrated in this video: [https://youtu.be/CRwzPJPA\_5A](https://youtu.be/CRwzPJPA\_5A).
 
 ## Cables and connectivity
 
-These tablets come with a USB C cable. You can use this cable or any USB C cable that supports data. In fact, I never use the USB C cables that Wacom provides for these tablets.
+**Included cables** - These tablets come with a USB C cable.&#x20;
 
-All three tablets support Bluetooth connectivity for wireless operation.
+**Using 3rd party USB-C cables** -  You can use this cable or any USB C cable that supports data. In fact, I never use the USB C cables that Wacom provides for these tablets.
+
+**Wireless** - All three tablets support Bluetooth connectivity for wireless operation.&#x20;
 
 ## Touch
 
 In my opinion the touch support is not great. The touch pad on any laptop you use will be far better and more responsive. Also the touch support has poor palm rejection. Disabling touch is the first thing I do with an tablet that supports it.
 
-Touch works much better on Window systems than on Macs. This is not Wacom's fault, it is due to how well Windows supports touch compared to MacOS.
+**Touch on Windows vs Mac** - Touch works much better on Window systems than on Macs. This is not Wacom's fault, it is due to how well Windows supports touch compared to MacOS.
 
 ## Surface texture
 
@@ -52,6 +62,6 @@ In any case, I advise everyone to always pay attention to their nibs and replace
 
 ## Wacom Intuos Pro Large (PTH-860)
 
-Using a large tablet feels quite a bit different from using a medium tablet. It's important to understand this. So if you're interested in this tablet please watch the video below. In the video I go into great detail about the practical issues of using a large tablet. And the video specifically covers the Wacom Intuos Pro large (PTH 860).
+Using a large tablet feels quite a bit different from using a medium tablet. It's important to understand this. So if you're interested in this tablet please watch the video below. In that video, I go into great detail about the practical issues of using a large tablet. And the video specifically covers the Wacom Intuos Pro large (PTH 860).
 
 {% embed url="https://youtu.be/YCmVugc3w_g" %}
