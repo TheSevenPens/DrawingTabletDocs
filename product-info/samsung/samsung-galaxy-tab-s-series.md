@@ -55,6 +55,7 @@
 ### S6 Lite 2024
 
 * Samsung announced this early in 2024 but it isn't widely available for purchase.&#x20;
+* [Brad Colbow review of the Samsung Galaxy S6 lite 2024](https://www.youtube.com/watch?v=ZhEq2pMUq28) 2024/05/03
 
 ### S6 Lite 2022
 
