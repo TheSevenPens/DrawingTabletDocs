@@ -39,11 +39,21 @@ Third, the Huion Giano overall is very good. It's a very close third to the XP P
 
 ## Product pages
 
-Intuos Pro Large - [https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor](https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor)
+* Intuos Pro Large - [https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor](https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor)
+* Deco Pro XLW GEN2 - [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)&#x20;
+* Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html)&#x20;
 
-Deco Pro XLW GEN2 - [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)&#x20;
+## Active Areas
 
-Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html)&#x20;
+| Tablet            | Length x Width                         | Diagonal | Aspect ratio |
+| ----------------- | -------------------------------------- | -------- | ------------ |
+| Intuos Pro Large  | <p>12.1" x 8.4"<br>311mm x 216mm</p>   | 14.7"    | 1.44         |
+| Deco Pro XLW GEN2 | <p>15" x 9"<br>381mm x 228.6mm</p>     | 17.6"    | 5:3 (1.67)   |
+| Giano G930L       | <p>13.6 x 8.5<br>345.4mm x 215.9mm</p> | 16"      | 16:10 (1.60) |
+
+None of these tablets have an exact 16:9 (1.78) aspect ratio.&#x20;
+
+So, you should ensure you [**match aspect ratios**](../../guides/customizing-your-experience/matching-aspect-ratios.md) with your monitor before you start drawing. &#x20;
 
 ## Pen pressure range info
 
