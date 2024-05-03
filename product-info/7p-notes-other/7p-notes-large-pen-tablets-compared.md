@@ -22,20 +22,28 @@ Using a large tablet is very different from using a medium size tablet. There ar
 
 In terms of drawing performance the best of the three is the Intuos Pro Large (PTH-860).
 
-Second is the XP-Pen Deco Pro XLW (MT1592B). The things to note about this tablet is the excellent design and vastly improved pressure handling coming from its X3 Pro pen.
+Second is the XP-Pen Deco Pro XLW GEN2 (MT1592B). The things to note about this tablet is the excellent design and vastly improved pressure handling coming from its X3 Pro pen.
 
-Third, the Huion Giano overall is very good. It's a very close third to the XP Pen Deco Pro XLW because the PW517 pen does not handle pressure (smaller pressure range for example) as well as the X3 Pro pen.&#x20;
+Third, the Huion Giano overall is very good. It's a very close third to the XP Pen Deco Pro XLW GEN2 because the PW517 pen does not handle pressure (smaller pressure range for example) as well as the X3 Pro pen.&#x20;
 
 ## Basics&#x20;
 
-|                      | Intuos Pro Large                 | Deco Pro XLW | Giano G930L |
-| -------------------- | -------------------------------- | ------------ | ----------- |
-| Model number         | PTH-860                          | MT1592B      | GT930L      |
-| Release year         | 2017                             | 2023         | 2022        |
-| Pen                  | <p>Pro Pen 2</p><p>(KP-504E)</p> | X3 Pro       | PW517       |
-| Retail Price         | $500                             | $200         | $200        |
-| Common On-Sale Price | $400                             | $170         | $170        |
-| Used on eBay         | $150 to $250                     |              |             |
+|                      | Intuos Pro Large                 | Deco Pro XLW GEN2 | Giano G930L |
+| -------------------- | -------------------------------- | ----------------- | ----------- |
+| Model number         | PTH-860                          | MT1592B           | GT930L      |
+| Release year         | 2017                             | 2023              | 2022        |
+| Pen                  | <p>Pro Pen 2</p><p>(KP-504E)</p> | X3 Pro            | PW517       |
+| Retail Price         | $500                             | $200              | $200        |
+| Common On-Sale Price | $400                             | $170              | $170        |
+| Used on eBay         | $150 to $250                     |                   |             |
+
+## Product pages
+
+Intuos Pro Large - [https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor](https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor)
+
+Deco Pro XLW GEN2 - [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)&#x20;
+
+Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html)&#x20;
 
 ## Pen pressure range info
 
@@ -62,9 +70,21 @@ X3 Pro
 
 **Nib wear** - the Intuos Pro comes with a surface that (at least initially) has a lot of texture and can wear down nibs fast.
 
-**Wireless** - All three support bluetooth wireless connectivity
+**Wireless** - All three support Bluetooth wireless connectivity
 
 **Touch** - only the Intuos Pro supports touch.&#x20;
+
+**Auxiliary inputs**&#x20;
+
+* Intuos Pro Large - 8 total buttons&#x20;
+* Deco Pro XLW GEN2 - no buttons
+* Giano G930L - 6 buttons
+
+**Remotes**
+
+* Intuos Pro Large - no remote
+* Deco Pro XLW GEN2 - comes with remote
+* Giano G930L - no remote
 
 
 
