@@ -341,6 +341,7 @@
       * [XP-Pen X3 Pro pen](product-info/xp-pen/xp-pen-pens/xp-pen-x3-pro-pen.md)
   * [Ugee](product-info/ugee.md)
   * [Miscellaneous](product-info/7p-notes-other/README.md)
+    * [7P notes: Large pen tablets compared](product-info/7p-notes-other/7p-notes-large-pen-tablets-compared.md)
     * [7P notes: 13" pen displays compared](product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
   * [ASUS](product-info/asus.md)
 * [Accessories](accessories/README.md)
