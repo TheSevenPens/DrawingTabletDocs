@@ -60,7 +60,13 @@ X3 Pro
 
 **Pen replacement cos**t - Keep in mind the Pro Pen 2 is very expensive ay $80. It's a significant cost if you need to replace it. The  PW517 is $50 and the X3 Pro is $40.
 
-&#x20;
+**Nib wear** - the Intuos Pro comes with a surface that (at least initially) has a lot of texture and can wear down nibs fast.
+
+**Wireless** - All three support bluetooth wireless connectivity
+
+**Touch** - only the Intuos Pro supports touch.&#x20;
+
+
 
 
 
