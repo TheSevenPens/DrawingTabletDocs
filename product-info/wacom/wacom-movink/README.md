@@ -7,7 +7,7 @@ This page is based of currently published information. I have ordered the tablet
 ## Basics
 
 * Models:
-  * Wacom Movink 13 (DTH-135) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-wacom-movink-13.md)
+  * Wacom Movink 13 (DTH-135) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-wacom-movink-13-dth-135.md)
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)&#x20;
 
 ## Pronunciation
