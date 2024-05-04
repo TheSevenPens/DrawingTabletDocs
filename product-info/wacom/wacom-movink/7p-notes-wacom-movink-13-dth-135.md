@@ -1,20 +1,39 @@
-# 7P notes: Wacom Movink 13
+# 7P notes: Wacom Movink 13 (DTH-135)
 
 {% hint style="info" %}
 This page is based of currently published information. I have ordered the tablet and when it has arrived I will be able to add additional information.
 {% endhint %}
 
+## User manual
+
+[https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html)
+
 ## Pen
 
-Comes with a special version of the Wacom Pro Pen 3
+Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../wacom-pen-models/7p-notes-wacom-pro-pen-3.md).
 
-## Pen Compatibility
+This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in terms of pressure response, IAF, max pressure.
 
-* Wacom Pro Pen 3
-* Wacom Pro Pen 2
-* Wacom CP-913 - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
-* Wacom CP-923 - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
-* Samsung S pen - Wacom did not explicitly mention. should be compatible - - I tested and it is compatible
+But there are a few differences.
+
+First, the standard Wacom Pro Pen 3 comes with a metal rod you can use to change the weight and weight distrubtion of the pen. This variant does not have that rod.
+
+Instead inside the pen, there is storage for 3 nibs.
+
+<figure><img src="../../../.gitbook/assets/20240501_203641.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Also this variant pen does not come with any grips or any button strips.
+
+## Pen compatibility
+
+* Professional pens
+  * Wacom Pro Pen 3
+  * Wacom Pro Pen 2
+* Consumer pens
+  * NOTE: Strokes with consumer pens exhibit pressure instability at lower presure that manifests as a pulsing in the stroke.
+  * Wacom CP-913 - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
+  * Wacom CP-923 - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
+  * Samsung S pen - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
 
 ## Core drawing tablet specs
 
@@ -30,6 +49,7 @@ Comes with a special version of the Wacom Pro Pen 3
 * Panel bit depth: 10bit
 * Display resolution: 1920x1080 (HD)
 * Aspect Ratio: 16x9
+* Active Area diagonal: 13.3"
 * Refresh rate max: 60Hz
 * Surface: Anti-glare glass (presumably means etched glass)
   * They also say it has Anti-fingerprint coating
@@ -40,9 +60,27 @@ Comes with a special version of the Wacom Pro Pen 3
 
 ## Pointer lag
 
-Unknown - will have to evaluate.
+Still obvious pointer lag, but notably less than many pen displays.
 
-I am curious if the use of an OLED screen diminishes pointer lag.
+Still not close the the very minimal pointer lag of an Apple iPad with the Apple Pencil 2.
+
+## Parallax
+
+Very good. Porbably better than the Cintiq Pro tablets.
+
+Not quite as good as an iPad.
+
+## Pen tilt
+
+<mark style="color:red;">**TO BE EVALUATED**</mark>
+
+## Pen tracking accuracy
+
+<mark style="color:red;">**TO BE EVALUATED**</mark>
+
+## Diagonal wobble
+
+<mark style="color:red;">**TO BE EVALUATED**</mark>
 
 ## Active Area
 
@@ -77,6 +115,9 @@ It weighs less than any of the these Intuos Pro pen tablets:
 
 Yes
 
+* Windows - Works well on Windows
+* Mac OS - did not test
+
 ## Connectivity and Cabling
 
 * 2 USB-C ports
@@ -86,6 +127,18 @@ Yes
 * Wireless support: NO (typical for pen displays)
 * Cable comes with tablet; YES a 1m USB-C cable comes with the box
 * Can be used with other USB-C cables. Not mentioned explicitly by wacom.
+
+## Buttons
+
+There are two side buttons. One on top left side and one on top right side. There is some ability to configure the behaviors of the buttons.
+
+## Dead Pixels
+
+none observed.
+
+## Blacks
+
+Very deep blacks as expected due to OLED.&#x20;
 
 ## Ergonomics
 
@@ -97,14 +150,28 @@ Yes
 
 **Comes with stand** - No must be purchased separately
 
+
+
+## Speakers
+
+none.
+
+## Fans and Fan noise
+
+No fans. No fan noise.
+
+## Noise
+
+Completely quiet. No noise at all.
+
 ## Using it as a pen tablet&#x20;
 
-This means can we turn off the screen and use it like a pen tablet like an Intuos Pro
+This means can we turn off the screen and use it like a pen tablet like an Intuos Pro.
 
-* Unknown. Will test.
+There isn't DIRECT support for this feature unlike some pen tablets, but you can tell your OS to stop sending a signal to the tablet and it will behave like a pen tablet once the screen turns off.
 
 ## Accessories
 
-* Wacom Foldable stand
+* Wacom Foldable stand&#x20;
 * Wacom Movink Tablet Sleeve
 * Wacom Converter for HDMI
