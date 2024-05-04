@@ -170,6 +170,19 @@ This means can we turn off the screen and use it like a pen tablet like an Intuo
 
 There isn't DIRECT support for this feature unlike some pen tablets, but you can tell your OS to stop sending a signal to the tablet and it will behave like a pen tablet once the screen turns off.
 
+## Using it with a Chromebook
+
+In my testing, the pen does not work when used with ChromeOS.
+
+The tablet functioned only like a touch-enabled external display.
+
+## Using it with an Android device
+
+I connected my Samsung Galaxy Tab S8 Ultra to a Microsoft Surface Thunberbolt dock. Then I connected the dock to the Movink 13 using a Thunderbolt 3 cable.
+
+* I was able to draw with pressure sensitivity and tilt.
+* I had no way to configure the actions of the pen buttons. And clicking on them did nothing that I observed.
+
 ## Accessories
 
 * Wacom Foldable stand&#x20;
