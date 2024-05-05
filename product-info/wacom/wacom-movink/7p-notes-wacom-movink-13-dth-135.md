@@ -81,7 +81,39 @@ The button on the right side of the tablet when tapped brings up the OSD.
 
 You can use touch to work with the OSD. This works even if you have disabled touch for use with the tablet. That is a nice touch!
 
+These 4 OSD options lead to sub menus: Input Source, Display settings, Tablet buttons, Other settings.
 
+These 2 OSD buttons toggle on/off: Display saving, Touch on/off&#x20;
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD input source.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD display settings.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD tablet button.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD other settings.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 ## Brightness
 
