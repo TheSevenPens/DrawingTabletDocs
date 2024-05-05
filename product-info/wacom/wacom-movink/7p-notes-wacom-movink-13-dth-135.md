@@ -4,9 +4,10 @@
 This page is based of currently published information. I have ordered the tablet and when it has arrived I will be able to add additional information.
 {% endhint %}
 
-## User manual
+## Basics
 
-[https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html)
+* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html)
 
 ## Pen
 
@@ -16,7 +17,7 @@ This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in
 
 But there are a few differences.
 
-First, the standard Wacom Pro Pen 3 comes with a metal rod you can use to change the weight and weight distrubtion of the pen. This variant does not have that rod.
+First, the standard Wacom Pro Pen 3 comes with a metal rod you can use to change the weight and weight distribution of the pen. This variant does not have that rod.
 
 Instead inside the pen, there is storage for 3 nibs.
 
@@ -26,30 +27,32 @@ Also this variant pen does not come with any grips or any button strips.
 
 ## Pen compatibility
 
-* Professional pens
-  * Wacom Pro Pen 3
-  * Wacom Pro Pen 2
-* Consumer pens
-  * NOTE: Strokes with consumer pens exhibit pressure instability at lower presure that manifests as a pulsing in the stroke.
-  * Wacom CP-913 - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
-  * Wacom CP-923 - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
-  * Samsung S pen - Wacom did not explicitly mention. should be compatible - I tested and it is compatible
+* Pens listed as compatible by Wacom
+  * Wacom Pro Pen 3 - I tested this. It works.
+  * Wacom Pro Pen 2 - I tested this. It works.
+* Pens not specifically listed as compatible by Wacom
+  * Wacom One GEN1 pen (CP-913) - I tested. It works.
+  * Wacom One GEN2 pen (CP-923) - I tested. It works.
+  * Samsung S pen (that comes with Galaxy Tab series) - I tested. It works.
+  * Samsung S pen (that comes with Samsung S24 Ultra phone) - I tested. It works.
 
-## Core drawing tablet specs
+## Core specs
 
-* Tech: EMR
+* Pen tech: EMR
+* Active Area diagonal: 13.3"
 * Pen pressure levels: 8192
 * Tilt: YES. 60 degrees
 * Resolution: 5080 LPI (200 LPMM)
 * Report rate: Wacom does not specify
+* Max hover height: Wacom does not specify
 
-## Core Display specs
+## Display specs
 
 * Display panel type: OLED
 * Panel bit depth: 10bit
 * Display resolution: 1920x1080 (HD)
 * Aspect Ratio: 16x9
-* Active Area diagonal: 13.3"
+* Display size : 13.3"
 * Refresh rate max: 60Hz
 * Surface: Anti-glare glass (presumably means etched glass)
   * They also say it has Anti-fingerprint coating
@@ -88,11 +91,13 @@ Pixels on the display are sharp and well-delineated.
 
 ## Pen tilt
 
-<mark style="color:red;">**TO BE EVALUATED**</mark>
+Typical. nothing out of the ordinary.
+
+Pen tilt compensation - GOOD. Changing the tilt of the pen did not significantly change the location of the pointer.
 
 ## Pen tracking accuracy
 
-<mark style="color:red;">**TO BE EVALUATED**</mark>
+Typical. Very accurate across entire display. slight inaccuracy (maybe 2mm) at the very edges of the display.&#x20;
 
 ## Diagonal wobble
 
