@@ -66,9 +66,25 @@ Still not close the the very minimal pointer lag of an Apple iPad with the Apple
 
 ## Parallax
 
-Very good. Porbably better than the Cintiq Pro tablets.
+Very good. Probably better than the Cintiq Pro tablets.
 
 Not quite as good as an iPad.
+
+## Display color fringing
+
+The display exhibits some subtle color fringing. I can notice this when your eyes are close to the display - maybe up 6" to 8" away - and I have to be looking for it.
+
+If you draw a black disc on a white background, the fringing manifests as about a 1 pixel width change in color at the edge of the disk. From the top and the left the color is shifted slightly towards green. From the bottom and the right the color is shifted toward magenta.
+
+This gives the appearance of slight "chromatic aberration" effect.
+
+I suspect this is a result of the OLED panel and normal.
+
+I notice the same thing int the OLED panel of my Smasung Galaxy Tab S8 Ultra. Though in the Samsung tablet the effect seems a bit less. Maybe that is due to the higher resolution of the display panel in my Samsung device.
+
+## Display sharpness
+
+Pixels on the display are sharp and well-delineated.
 
 ## Pen tilt
 
@@ -89,9 +105,9 @@ Not quite as good as an iPad.
 
 ## Weight
 
-It weights 420g. This weight exceptionally little.&#x20;
+It weights 420g. This an exceptionally low weight.&#x20;
 
-And less than these pen displays
+420g is less than these pen displays
 
 * Wacom One Gen (DTC-133) 1000g
 * Wacom One 12 (DTC- 121) 700g
