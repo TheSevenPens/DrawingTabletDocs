@@ -6,16 +6,11 @@ Based on my analysis of pen pressure ranges, I have developed this simple rating
 
 For more general information about pen pressure go here: [**pen pressure**](pen-pressure.md)
 
-## **Keep in mind**
-
-* Pens, even of the same model, vary in how their pressure handling
-* Drivers can potentially affect IAF.&#x20;
-
-## Comparison diagram
+## Landscape
 
 <figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 
-## Pressure measurements
+## Pressure data and sources
 
 The collected measurements for pen pressure can be found here: [https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI](https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI)&#x20;
 
@@ -24,6 +19,11 @@ It combines data from:
 * Manufacturers
 * From tablet experts such as Kuuube
 * And my own measurements
+
+## **Considerations**
+
+* Pens, even of the same model, vary in how their pressure handling
+* Drivers can potentially affect IAF.
 
 ## Resources
 
