@@ -58,8 +58,48 @@ Also this variant pen does not come with any grips or any button strips.
   * They also say it has Anti-fingerprint coating
 * Response time: 0.2ms
 * Contrast ratio: 100000:1
-* Parallax: Unknown. Will evaluate.
-  * The parallax on my Samsung Galaxy S8 Ultra which uses an OLED panel is very good so I am hopeful.
+
+## Display color modes
+
+In the OSD you can alter the color modes.
+
+* Native
+* AdobeRGB
+* DCI-P3
+* Rec.709
+* Rec.2020
+* Display P3
+* sRGB
+* EBU
+* Custom
+
+Out of the box, the color mode is set to Native. I use it with the sRGB color mode.
+
+## Display OSD
+
+The button on the right side of the tablet when tapped brings up the OSD.
+
+You can use touch to work with the OSD. This works even if you have disabled touch for use with the tablet. That is a nice touch!
+
+
+
+## Brightness
+
+Wacom lists the max brightness at 350 nits.
+
+Out of the box the brightness is set to 50%.
+
+I use it at 50%.
+
+100% is bright but clearly not as bright as my Surface Pro 8 at 100% (450 nits) or as bright as the Samsung Galaxy 8 Ultra at 100% (420 nits)
+
+## Heat
+
+At 50% brightness and left running for a few hours the tablet felt cool to the touch.
+
+## OLED longevity
+
+To early to say.
 
 ## Pointer lag
 
