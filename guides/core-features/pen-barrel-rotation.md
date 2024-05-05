@@ -18,10 +18,14 @@ In the diagram below, the pen is oriented perpendicular to the tablet and you ca
 
 ## Availability
 
-Barrel rotation is a **very rare feature** on pens. As far as I know, only Wacom has ever had supported feature in their pens.  The two Wacom pens that support barrel rotation are:
+Barrel rotation is a **very rare feature** on pens.&#x20;
 
-* KP-701E
-* ZP-600
+Only Wacom has ever had supported feature in their pens. &#x20;
 
-Keep in mind these pens only work with specific Wacom tablets.
+Only two Wacom pens support barrel rotation:
+
+* Wacom Art Pen (KP-701E)
+* Wacom 6D Art Pen (ZP-600)
+
+Keep in mind these two, pens only work with specific Wacom tablets.
 
