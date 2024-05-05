@@ -114,6 +114,10 @@ This means can we turn off the screen and use it like a pen tablet like an Intuo
 
 * Unknown. Will test.
 
+## Hover height
+
+Typical. The pen is reliably detected up 10mm away. I was able to achieve reliable detection up to 12mm.
+
 ## Accessories
 
 * Wacom Foldable stand
