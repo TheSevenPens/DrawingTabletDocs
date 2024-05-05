@@ -245,9 +245,10 @@ Very deep blacks as expected due to OLED.&#x20;
 
 
 
-## Speakers
+## Audio
 
-none.
+* No headphone jack
+* No built-in speakers
 
 ## Fans and Fan noise
 
