@@ -94,6 +94,7 @@
     * [Connecting a pen display to a computer](guides/connections-and-cabling/connecting-a-pen-display.md)
     * [Connecting a pen display to a mobile device](guides/connections-and-cabling/connecting-a-pen-display-to-a-mobile-device.md)
     * [Connecting a pen display with a single USB-C cable](guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)
+    * [Connecting a pen tablet to a mobile device](guides/connections-and-cabling/connecting-a-pen-tablet-to-a-mobile-device.md)
     * [Using 3rd-party cables with your drawing tablet](guides/connections-and-cabling/using-3rd-party-cables-with-your-drawing-tablet.md)
     * [Connecting a pen to a drawing tablet](guides/connections-and-cabling/connecting-a-pen-to-a-drawing-tablet.md)
   * [Drawing](guides/drawing/README.md)
