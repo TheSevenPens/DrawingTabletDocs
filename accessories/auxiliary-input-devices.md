@@ -1,5 +1,7 @@
 # Auxiliary input devices
 
+## Overview
+
 When using a drawing tablet, you will often need to provide additional input to the computer. For example, press a shortcut key to change brushes.
 
 Some tablets have built-in buttons and dials called [**Express Keys**](../guides/core-features/expresskeys.md) to perform that task. These express keys can be customized and even be configured to different things when you are using different applications.
@@ -16,7 +18,13 @@ Wacom, Xencelabs, Huion, etc. make "remotes" that essentially offload the work o
 
 ## **Creative controllers**
 
-This is a very specialized category as it is intended for creatives and not gaming. The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [**Tourbox**](tourbox/)&#x20;
+This is a very specialized category as it is intended for creatives and not gaming.&#x20;
+
+**TourBox**
+
+The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [**Tourbox**](tourbox/)&#x20;
+
+**Clip Studio Tabmate**
 
 The Clip Studio Tabmate is an interesting case. It is is a controller that is built to work with a specific application: Clip Studio Paint. more here: [**Clip Studio Tabmate**](clip-studio-tabmate.md)&#x20;
 
@@ -29,17 +37,26 @@ Examples:
 * Razer Tartarus Pro - Razer makes several models in the Tartarus series
 * Redragon K585
 * Logitech G13 Gaming Keypad
+* 8bitdo controllers
+
+Links:
+
+* [MossCharmly - How To use an 8BitDo micro with Krita (Linux, Mac, Win)](https://www.youtube.com/watch?v=vbJsCMhjry0) 2024/02/03&#x20;
+* [MossCharmly - How to use the 8BitDo Micro with Procreate](https://www.youtube.com/watch?v=rl1MLt-cPUs) 2024/02/17&#x20;
 
 ## Streaming keypads
 
 These are targeted at the streamer audience, but many use them for other scenarios.
 
+**ElGate Stream Deck**
+
 The most popular one to look at here is the **ElGato Stream Deck**. It has programmable buttons - each with its own customizable LCD icon - that are grouped into profiles. And with its Smart Profiles feature it can switch to different profiles depending on which application you are using.&#x20;
 
-**LoupeDeck** controllers
+I used one of these for a couple of months with CSP but I stopped eventually because the vast majority of what I needed was accounted for by the TourBox.
 
-* Loupedeck Live
-* Loupedeck CT
+**Loupedeck**&#x20;
+
+**LoupeDeck** controllers could also be used. There are several models available such as the Loupedeck Live and Loupedeck CT. I tried thesed in 2023 but felt their software was very difficult to use.
 
 ## Tiny Keyboards
 

@@ -21,8 +21,8 @@ STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber
 
 STEP 2 - I gently wipe down the tablet with a damp (not wet) cloth or towel. If the tablet is a little greasy I may put a bit of soap with the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You shouldn't have any water drops coming off the cloth.
 
-## Other resources
+## Other cleaning guides
 
-* [Aaron Rutten - How to Safely CLEAN Your Drawing Tablet](https://youtu.be/S52jjhIcn-c) Sep 16, 2017
-* [Wacom - How to clean your Wacom One (DTC-133) display with Guido ](https://www.youtube.com/watch?v=wnbQWwQw2po)May 31, 2021
-
+* [Aaron Rutten - How to Safely CLEAN Your Drawing Tablet](https://youtu.be/S52jjhIcn-c) 2017/09/16
+* [Wacom - How to clean your Wacom One (DTC-133) display with Guido ](https://www.youtube.com/watch?v=wnbQWwQw2po)2021/05/31
+* [MossCharmly - How to Clean You're Drawing Tablet and Cleaning tips](https://www.youtube.com/watch?v=hj\_ip0Dhc10) 2023/05/26&#x20;
