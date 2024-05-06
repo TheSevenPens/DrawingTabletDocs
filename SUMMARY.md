@@ -86,7 +86,7 @@
     * [Clamping wide-gamut displays to sRGB](guides/customizing-your-experience/clamping-wide-gamut-displays-to-srgb.md)
     * [Calibrate pen position on a pen display](guides/customizing-your-experience/calibrate-pen-position-on-a-pen-display.md)
     * [Using a pen display as a monitor](guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md)
-    * [Controlling the behavior of the pen tip](guides/customizing-your-experience/controlling-the-behavior-of-the-pen-tip.md)
+    * [Controlling the pen tip behavior](guides/customizing-your-experience/controlling-the-pen-tip-behavior.md)
     * [Using monitor arms with a pen display](guides/customizing-your-experience/using-monitor-arms-with-a-pen-display.md)
   * [Connections and cabling](guides/connections-and-cabling/README.md)
     * [Connecting a pen display with a 3-in-1 cable](guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)
