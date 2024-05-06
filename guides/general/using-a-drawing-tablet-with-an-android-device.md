@@ -34,7 +34,7 @@ While this seems like a good thing, it also means you cannot configure the table
 
 ## Buttons and Dials
 
-Because there is no manufacturer driver, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
+Because there is no manufacturer driver on an android device, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
 
 ## Pressure curve
 
@@ -73,11 +73,12 @@ The following setup below worked for me.
 
 Samsung Galaxy S9 FE does not work with an external monitor. Because of this,  I was unable to get it to work a pen display.
 
-## Videos
+## Links
 
 General
 
 * [XP-Pen - Drawing tablets compatible with Android ](https://www.xp-pen.com/drawing-tablets-for-android.html)
+* [Wacom - What Android applications can I use for painting or drawing?](https://support.wacom.com/hc/en-us/articles/1500006338802-What-Android-applications-can-I-use-for-painting-or-drawing)&#x20;
 
 Pen tablets
 
@@ -85,6 +86,7 @@ Pen tablets
 * [Wacom - Wacom Center for Android](https://www.youtube.com/watch?v=sf8r\_zxLl7o) app 2023/08/10
 * [Wacom - How to Setup your Wacom Intuos for Android - English](https://www.youtube.com/watch?v=JFTjUCiEy1s) 2019/11/07
 * [Aaron Rutten - Wacom Intuos on ANDROID - Review](https://www.youtube.com/watch?v=tMWwTuNO\_7A) 2019/11/21
+* [ibisPaint -  I connected a Wacom pen tablet to my smartphone](https://www.youtube.com/watch?v=f1WudQ4MbnI) \[Wacom Intuos] 2019/10/04&#x20;
 
 Pen displays
 
@@ -92,3 +94,4 @@ Pen displays
 * [XPPEN - Artist 12 (2nd Gen) Connection with Smartphone(Android)](https://www.youtube.com/watch?v=Q11XAvbirtQ) 2021/12/27
 * [Teoh on Tech Android and Pen Display Workflow for Artist (featuring Huion Kamvas)](https://www.youtube.com/watch?v=VCalf9rbQ9U) 2021/07/21
 * [Huion How to connect Kamvas Pro 13&16 (2.5K) to Android phone](https://www.youtube.com/watch?v=8y-Dfp3AApc) 2022/01/11
+
