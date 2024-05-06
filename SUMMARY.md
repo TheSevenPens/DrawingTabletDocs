@@ -373,6 +373,7 @@
     * [Kuuube's Wacom pen compatibility mastersheet](resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md)
   * [YouTube channels](resources/youtube-channels.md)
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
+  * [Standard paper sizes](resources/standard-paper-sizes.md)
   * [Koneko\_w](resources/koneko\_w.md)
 * [Process](process/README.md)
   * [Measuring hover height](process/measuring-hover-height.md)

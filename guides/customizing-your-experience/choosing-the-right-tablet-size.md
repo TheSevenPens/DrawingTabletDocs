@@ -75,18 +75,16 @@ If you have a pen tablet (which does not have a screen), then you use it with a 
 
 ## **In relation to paper size**
 
-Some of you like to think of a tablet size relative standard papers sizes.
+Some of you like to think of a tablet size relative standard papers sizes. The tablet below shows the paper sizes with their diagonal size and you can see how specific paper size matches my standard tablet sizes
 
-The tablet below shows the paper sizes with their diagonal size and you can see how specific paper size matches my standard tablet sizes
-
-* Pen Tablet Small (7") -> very close to ISO A6 (7.1")
-* Pen Tablet Medium (11") -> a little bigger than ISO A5 (10.1"), smaller than US Letter (13.9")
-* Pen Tablet Large (16") -> a little bigger than ISO A4 (14.3"), very close to US Legal (16.4")
-* Pen Display Small (13") -> a little smaller than ISO A4 (14.3"), very close to US Letter (13.9")
-* Pen Display Medium (16") -> a little bigger than ISO A4 (14.3"), very close to US Legal (16.4")
-* Pen Display Large (24") -> a little bigger than A3 (20.2"),
-
-<table><thead><tr><th width="143">Name</th><th width="194">Size (mm)</th><th width="144">Size (in)</th><th width="130">Aspect ratio</th><th width="101">Diagonal</th></tr></thead><tbody><tr><td>ISO A0</td><td> 1189mm x 841mm</td><td> 46.8" x 33.1"</td><td> 14:10 (1.4)</td><td> 57.3"</td></tr><tr><td>ISO A1</td><td> 841mm x 594mm</td><td> 33.1" x 23.4"</td><td> 14:10 (1.4)</td><td> 40.5"</td></tr><tr><td>ISO A2</td><td> 594mm x 420mm</td><td> 23.4" x 16.5"</td><td> 14:10 (1.4)</td><td> 28.6"</td></tr><tr><td>ISO A3</td><td> 420mm x 297mm</td><td> 16.5" x 11.7"</td><td> 14:10 (1.4)</td><td> 20.2"</td></tr><tr><td>ISO A4</td><td> 297mm x 210mm</td><td> 11.7" x 8.3"</td><td> 14:10 (1.4)</td><td> 14.3"</td></tr><tr><td>ISO A5</td><td> 210mm x 148mm</td><td> 8.3" x 5.8"</td><td> 14:10 (1.4)</td><td> 10.1"</td></tr><tr><td>ISO A6</td><td> 148mm x 105mm</td><td> 5.8" x 4.1"</td><td> 14:10 (1.4)</td><td> 7.1"</td></tr><tr><td>ISO A7</td><td> 105mm x 74mm</td><td> 4.1" x 2.9"</td><td> 14:10 (1.4)</td><td> 5.0"</td></tr><tr><td>US Letter</td><td> 279.4mm x 215.9mm</td><td> 11" x 8.5"</td><td> 13:10 (1.3)</td><td> 13.9"</td></tr><tr><td>US Legal</td><td> 355.6mm x 215.9mm</td><td> 14" x 8.5"</td><td> 16:10 (1.6)</td><td> 16.4"</td></tr><tr><td>US Tabloid</td><td> 431.8mm x 279.4mm</td><td> 17" x 11"</td><td> 15:10 (1.5)</td><td> 20.2"</td></tr></tbody></table>
+| Standard tablet size     | Nearest ISO paper | Nearest US paper  |
+| ------------------------ | ----------------- | ----------------- |
+| Pen Tablet Small (7")    |  ISO A6 (7.1")    | n/a               |
+| Pen Tablet Medium (11")  | ISO A5 (10.1")    | US Letter (13.9") |
+| Pen Tablet Large (16")   | ISO A4 (14.3")    | US Legal (16.4")  |
+| Pen Display Small (13")  | ISO A4 (14.3")    | US Letter (13.9") |
+| Pen Display Medium (16") | ISO A4 (14.3")    | US Legal (16.4")  |
+| Pen Display Large (24")  |  ISO A3 (20.2")   | n/a               |
 
 ## **Videos**
 
