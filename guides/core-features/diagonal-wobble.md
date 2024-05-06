@@ -91,7 +91,7 @@ These are my wobble samples across a number of tablets.&#x20;
 
 [https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC](https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC)
 
-All were created using my a standard testing process: [**Diagonal wobble testing**](../../resources/process/diagonal-wobble-testing.md).
+All were created using my a standard testing process: [**Diagonal wobble testing**](../../process/measuring-diagonal-wobble.md).
 
 ## Brand-specific notes
 

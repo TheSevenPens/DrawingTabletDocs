@@ -1,6 +1,6 @@
-# Diagonal wobble testing
+# Measuring diagonal wobble
 
-I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble.md) using a simple procedure
+I measure [**diagonal wobble**](../guides/core-features/diagonal-wobble.md) using a simple procedure
 
 ## Resources
 
@@ -26,7 +26,7 @@ I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble.md) u
 
       <div align="left">
 
-      <figure><img src="../../.gitbook/assets/image (389).png" alt="" width="320"><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (389).png" alt="" width="320"><figcaption></figcaption></figure>
 
       </div>
 * Drawing
@@ -53,5 +53,5 @@ I measure [**diagonal wobble**](../../guides/core-features/diagonal-wobble.md) u
 
 ## Wobble testing template image
 
-<figure><img src="../../.gitbook/assets/Wobble Template V7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Wobble Template V7.png" alt=""><figcaption></figcaption></figure>
 
