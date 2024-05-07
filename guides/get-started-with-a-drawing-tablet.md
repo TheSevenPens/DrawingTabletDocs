@@ -49,9 +49,9 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 
 If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md)
 
-## How the pen works with the tablet
+## How the pen & tablet work with the computer
 
-* Once the tablet driver is installed and the tablet is connected it will detect the pen. It will treat the pen just like a mouse.
+* Once the tablet driver is installed and the tablet is connected it will detect the pen. It will treat the pen just like a mouse. (except a mouse uses relative positioning and the pen uses absolute positioning. more here: [**Absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md))
 * If the pen is in range (about 10mm) of the tablet or touching the tablet , then moving the pen will move the mouse pointer.
   * If the pen is not touching the tablet, it will be like your are not pressing down any mouse buttons
   * if the pen is touching the tablet, it will be like you are holding down the left mouse button
