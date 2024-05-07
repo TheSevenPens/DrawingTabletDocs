@@ -60,6 +60,10 @@ A result of this texture is that - depending how you draw - you can wear down a 
 
 In any case, I advise everyone to always pay attention to their nibs and replace them if they are getting very worn.
 
+## Diagonal wobble
+
+<figure><img src="../../../.gitbook/assets/Wobble Wacom Intuos Pro Large (PTH-860).png" alt=""><figcaption></figcaption></figure>
+
 ## Wacom Intuos Pro Large (PTH-860)
 
 Using a large tablet feels quite a bit different from using a medium tablet. It's important to understand this. So if you're interested in this tablet please watch the video below. In that video, I go into great detail about the practical issues of using a large tablet. And the video specifically covers the Wacom Intuos Pro large (PTH 860).

@@ -74,11 +74,7 @@ In practice this wobble has not impacted me at all.
 
 
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/XP-Pen Deco Pro XLW GEN2 (MT1592B).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../../.gitbook/assets/Wobble XP-Pen Deco Pro GEN2 XLW (MT1592B).png" alt=""><figcaption></figcaption></figure>
 
 ## Accessories
 

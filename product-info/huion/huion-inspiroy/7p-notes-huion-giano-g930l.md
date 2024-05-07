@@ -27,9 +27,9 @@ I use it connected to my work computer and draw and sketch with it every couple 
 
 One minor nit: By default, the tablet when connected will still go to sleep apparently to conserve its battery. This isn't a problem because you go into the driver and turn off this sleep behavior. &#x20;
 
-## **OLED display**
+## **OLED auxilliary display**
 
-There's a monochromatic OLED display on the upper left of the tablet. This is a nice feature that lets you see the battery level easily.
+There's a monochromatic OLED auxilliary display on the upper left of the tablet. This is a nice feature that lets you see the battery level easily.
 
 ## **Working with a large tablet**
 
@@ -39,4 +39,6 @@ Large tablets require some adjustment to work with. If you are interested learni
 
 Some pressure pulsing visible at lower pressure. Will mostly be be visible with strokes using large brushes.
 
-##
+## Diagonal wobble
+
+<figure><img src="../../../.gitbook/assets/Wobble Huion Giano (G930L).png" alt=""><figcaption></figcaption></figure>
