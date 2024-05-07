@@ -1,8 +1,10 @@
 # Xencelabs
 
+## Xencelabs Pen Display 16&#x20;
+
+* Has not been released yet
+
 ## Xencelabs Pen Display 24 (LPH2412U-A)
-
-
 
 * <mark style="background-color:green;">**My notes:**</mark> [<mark style="background-color:green;">**7P notes: Xencelabs Pen Display 24**</mark>](7p-notes-xencelabs-pen-display-24.md)  &#x20;
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)&#x20;
