@@ -62,6 +62,8 @@ In any case, I advise everyone to always pay attention to their nibs and replace
 
 ## Diagonal wobble
 
+Rating: VERY GOOD. Low amounts of wobble.
+
 <figure><img src="../../../.gitbook/assets/Wobble Wacom Intuos Pro Large (PTH-860).png" alt=""><figcaption></figcaption></figure>
 
 ## Wacom Intuos Pro Large (PTH-860)

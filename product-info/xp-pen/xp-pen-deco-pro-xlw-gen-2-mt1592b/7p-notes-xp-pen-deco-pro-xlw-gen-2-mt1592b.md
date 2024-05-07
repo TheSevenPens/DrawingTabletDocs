@@ -64,15 +64,9 @@ A little more pointer lag than a Wacom Intuos Pro tablet. If you are coming from
 
 Rating: OK
 
-It has more wobble than the Wacom Intuos Pro Large (PTH-860). XP-Pen should be doing better here since it is targeted at a pro audience.
-
-Notice that wobble is slightly present even in the fast stroke.
+It has more wobble than the Wacom Intuos Pro Large (PTH-860). Notice that wobble is slightly present even in the fast stroke. XP-Pen should be doing better here since it is targeted at a pro audience. In practice this wobble has not impacted me at all.
 
 Enabling brush smoothing options in your applications will minimize its visibility.
-
-In practice this wobble has not impacted me at all.
-
-
 
 <figure><img src="../../../.gitbook/assets/Wobble XP-Pen Deco Pro GEN2 XLW (MT1592B).png" alt=""><figcaption></figcaption></figure>
 

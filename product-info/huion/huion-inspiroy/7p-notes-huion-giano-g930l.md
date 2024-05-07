@@ -17,28 +17,26 @@ Comes with the Huion PW517 pen.&#x20;
 
 ## **Surface texture**
 
-Definitely has a textured surface. Comparable to the Wacom Intuos Pro in amount of texture.
-
-## **Scenario**
-
-I use it connected to my work computer and draw and sketch with it every couple of weeks. So it isn't my main creative tablet but it's worked well for that purpose.
+The tablet has a textured surface. Amount of texture comparable to the Wacom Intuos Pro.
 
 ## **Wireless**
 
 One minor nit: By default, the tablet when connected will still go to sleep apparently to conserve its battery. This isn't a problem because you go into the driver and turn off this sleep behavior. &#x20;
 
-## **OLED auxilliary display**
+## **OLED auxiliary display**
 
-There's a monochromatic OLED auxilliary display on the upper left of the tablet. This is a nice feature that lets you see the battery level easily.
+There's a monochromatic OLED auxiliary display on the upper left of the tablet. This is a nice feature that lets you see the battery level easily.
 
 ## **Working with a large tablet**
 
-Large tablets require some adjustment to work with. If you are interested learning more about howe your workflow and desk may need to adjust watch this video: [https://youtu.be/YCmVugc3w\_g](https://youtu.be/YCmVugc3w\_g)&#x20;
+Large tablets require some adjustment to work with. More here: Using large pen tablets
 
-## Pressure pulsing
+## Pressure instability
 
 Some pressure pulsing visible at lower pressure. Will mostly be be visible with strokes using large brushes.
 
 ## Diagonal wobble
+
+Rating: VERY GOOD. low amounts of wobble.
 
 <figure><img src="../../../.gitbook/assets/Wobble Huion Giano (G930L).png" alt=""><figcaption></figcaption></figure>
