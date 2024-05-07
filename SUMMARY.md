@@ -146,6 +146,7 @@
     * [Apple Pencil tech](guides/digital-pen-tech/apple-pencil-tech.md)
     * [MPP](guides/digital-pen-tech/mpp.md)
     * [EMR](guides/digital-pen-tech/emr/README.md)
+      * [EMR tilt detection](guides/digital-pen-tech/emr/emr-tilt-detection.md)
       * [EMR pressure detection](guides/digital-pen-tech/emr/emr-pressure-detection.md)
   * [Ergonomics](guides/ergonomics/README.md)
     * [Body posture when using drawing tablets](guides/ergonomics/body-posture-when-using-drawing-tablets.md)
