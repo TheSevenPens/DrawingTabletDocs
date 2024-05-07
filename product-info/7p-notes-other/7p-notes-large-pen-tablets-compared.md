@@ -57,20 +57,15 @@ So, you should ensure you [**match aspect ratios**](../../guides/customizing-you
 
 ## Pen pressure range info
 
-Wacom Pro Pen 2
+The Wacom Pro Pen 2 is the clear winner, but the XP-Pen X3 Pro is good. The Huion PW517 is just OK.&#x20;
 
-* IAF = <1gf
-* Max pressure = \~800gf
+In my experience I see that the PW517 units vary quite a bit in their maximum pressure. The average of my tests is about 200gf.
 
-Huion PW517
-
-* IAF = 3gf
-* Max pressure = \~200gf
-
-X3 Pro
-
-* IAF = 3gf
-* Max pressure = 400gf
+| Pen             | IAF  | Max pressure |
+| --------------- | ---- | ------------ |
+| Wacom Pro Pen 2 | <1gf | \~800gf      |
+| Huion PW517     | 3gf  | \~200gf      |
+| X3 Pro          | 2gf  | \~400gf      |
 
 ## Considerations
 
@@ -96,7 +91,11 @@ X3 Pro
 * Deco Pro XLW GEN2 - comes with remote
 * Giano G930L - no remote
 
+## Diagonal wobble
 
+* Intuos Pro Large - Low (good)
+* Deco Pro XLW GEN2 - some wobble at slow speeds OK
+* Giano G930L - Low (good)
 
 
 
