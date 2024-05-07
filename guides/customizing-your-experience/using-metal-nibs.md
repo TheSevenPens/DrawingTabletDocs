@@ -27,7 +27,7 @@ Are metal nibs safe for your pen tablet?
 
 I haven't tried it with a pen display and I right now would not recommend someone doing doing that. I do believe there's a chance it can damage the screen. I've even seen people with plastic nibs damage the screen of their pen display.&#x20;
 
-If someone is going to do use a metal nib with a pen display, I would recommend using a protective sheet. See this doc [protective sheets](../../accessories/protective-sheets/).
+If someone is going to do use a metal nib with a pen display, I would recommend using a protective sheet. See this doc [protective sheets](../../accessories/surface-protectors/).
 
 ## Metal nib options
 

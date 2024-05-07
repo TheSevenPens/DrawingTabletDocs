@@ -50,7 +50,7 @@ Some popular and excellent drawing applications are avilable on the iPad
 
 * When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".&#x20;
 * Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
-* For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/protective-sheets/)&#x20;
+* For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/surface-protectors/)&#x20;
 
 ### Diagonal wobble
 

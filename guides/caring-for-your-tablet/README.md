@@ -1,4 +1,4 @@
-# Caring for your tablet
+# Caring for your drawing tablet
 
 ## Introduction
 
@@ -42,7 +42,7 @@ The surface of your tablet will be in contact with your pen, that contact and th
 * [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md) &#x20;
 * [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)&#x20;
 
-There are options to protect the surface from damage. See: [**protective sheets**](../../accessories/protective-sheets/).
+There are options to protect the surface from damage. See: [**protective sheets**](../../accessories/surface-protectors/).
 
 ## Pen nib maintenance
 

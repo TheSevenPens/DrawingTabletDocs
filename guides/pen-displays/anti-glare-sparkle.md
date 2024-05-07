@@ -124,7 +124,7 @@ Here is an example:&#x20;
 
 Some tablets have a film that is designed to be removed and replaced. For example the Huion Kamvas 13 [https://www.youtube.com/watch?v=B8CyIZfX8co](https://www.youtube.com/watch?v=B8CyIZfX8co). If you have such a tablet you could remove the film.
 
-You could also try 3rd party screen protectors to replace the one you have. See [protective sheets](../../accessories/protective-sheets/).&#x20;
+You could also try 3rd party screen protectors to replace the one you have. See [protective sheets](../../accessories/surface-protectors/).&#x20;
 
 **Tablets without replaceable AG films**
 
@@ -132,7 +132,7 @@ If the tablet's film is not designed to be removed, you could still do it, but I
 
 #### Removing the AG film without replacing it
 
-If you do remove the film, you will be drawing on the glass of the display. To avoid scratching that glass, you may want to search for a film that can protect it, but that does not have any anti-glare treatment.  See [protective sheets](../../accessories/protective-sheets/).&#x20;
+If you do remove the film, you will be drawing on the glass of the display. To avoid scratching that glass, you may want to search for a film that can protect it, but that does not have any anti-glare treatment.  See [protective sheets](../../accessories/surface-protectors/).&#x20;
 
 ## Reddit threads
 

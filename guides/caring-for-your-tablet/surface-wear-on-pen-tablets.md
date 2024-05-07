@@ -97,4 +97,4 @@ Dropping sharp objects onto the surface of a pen tablet can result in big change
 
 ## Protecting the surface
 
-See this guide: [**protective sheets**](../../accessories/protective-sheets/)&#x20;
+See this guide: [**protective sheets**](../../accessories/surface-protectors/)&#x20;

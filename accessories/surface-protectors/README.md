@@ -11,7 +11,7 @@ There are many options to protect the surface of your tablet from scratches, etc
 
 ## Considerations for pen displays
 
-* **Transparency** - Protective sheets for pen displays must, of course, be transparent.
+* **Transparency** - Protective sheets for pen displays must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a pen display.
 * **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
 
 ## Protection from the tablet manufacturer
