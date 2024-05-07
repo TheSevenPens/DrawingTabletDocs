@@ -358,7 +358,7 @@
   * [Auxiliary input devices](accessories/auxiliary-input-devices.md)
   * [Pen grips](accessories/pen-grips.md)
   * [Protective cases](accessories/protective-cases.md)
-  * [Protective sheets](accessories/protective-sheets/README.md)
+  * [Surface protectors](accessories/protective-sheets/README.md)
     * [Foxbox covers](accessories/protective-sheets/foxbox-covers.md)
     * [Photodon screen protectors](accessories/protective-sheets/photodon-screen-protectors.md)
     * [ePlastic polycarbonate sheets (velvet lexan)](accessories/protective-sheets/eplastic-polycarbonate-sheets-velvet-lexan.md)
