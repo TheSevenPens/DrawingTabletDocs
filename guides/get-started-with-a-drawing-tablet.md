@@ -4,20 +4,32 @@
 
 If you just acquired a drawing tablet and want to start using it, this guide will lead you through the basics.
 
+{% hint style="info" %}
 I suggest you first read [**the beginner's guide**](beginners-guide.md)&#x20;
 
 If you don't have a drawing tablet, then try this [**detailed buying guide**](../buying-a-drawing-tablet/).&#x20;
+{% endhint %}
 
 ## Get prepped
 
+* Make sure you know the model number of the tablet. This will help you in many ways later. More here: [**Finding the model number of a drawing tablet**](general/finding-the-model-number-of-a-drawing-tablet.md).&#x20;
 * Make sure you know how to [**contact support**](general/contacting-support.md) for your tablet manufacturer&#x20;
 * Read the manual for your tablet. You don't need to even open the box. You can download the manual from the manufacturer website.
 
 ## Don't drop the pen
 
 * If drop the pen to the floor, usually it will be unharmed.
+* When you are not using it make sure its stored in such a way it doesn't fall off your desk.
 * HOWEVER, sometimes a pen seems to hit just right and the fall can damage the pen.&#x20;
+
+## Prepare for replaceming your pen
+
+The pen has somewhat delicate parts inside and is the most likely thing you will break. If you lose or damage your pen, there are some things you need to know:
+
+* First drawing tablets are generally only compatible with the pen they came with or a small number of pens. So note down the model number of the pen. You will need this to get a replacement. More here: [**Pen compatibility with drawing tablets**](pens/pen-compatibility-with-drawing-tablets.md)
 * Pens are surprisingly expensive to replace.
+  * Some pens cost half the cost of the tablet
+  * Some pens (especially Wacom Pro pens) are more expensive than the tablets of other brands.
 
 ## Install the tablet driver
 
@@ -35,7 +47,7 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 
 ## The NO SIGNAL problem with pen displays
 
-If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md)
+If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md)
 
 ## How the pen works with the tablet
 
@@ -69,7 +81,7 @@ If you ecounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Tr
 
 ## Windows&#x20;
 
-* Perform this configuration: [**Disable the press-and-hold ring in Windows**](windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
+Perform this configuration: [**Disable the press-and-hold ring in Windows**](windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
 
 ## Apps
 
@@ -78,6 +90,8 @@ There's a big list of apps here: [**applications**](../applications/)&#x20;
 **Install Krita**
 
 Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app. Eve if you are not going to draw anything, it is useful for testing and troubleshooting.
+
+**Clip Studio Paint**
 
 I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint.md).
 
