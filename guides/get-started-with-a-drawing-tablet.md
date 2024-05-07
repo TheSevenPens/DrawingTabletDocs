@@ -85,19 +85,13 @@ Perform this configuration: [**Disable the press-and-hold ring in Windows**](win
 
 ## Apps
 
-There's a big list of apps here: [**applications**](../applications/)&#x20;
-
-**Install Krita**
-
-Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app. Eve if you are not going to draw anything, it is useful for testing and troubleshooting.
-
-**Clip Studio Paint**
-
-I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint.md).
-
-**Magma** ([https://magma.com/index](https://magma.com/index)) is capable web-based drawing program that does have a free tier. I don't use magma often, but it seems very capable.&#x20;
-
-**Photopea** ([https://www.photopea.com/](https://www.photopea.com/)) is a web-based Photoshop-like app. It is very good and also has a free tier.
+* **Krita -** I highly recommend you Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app. Eve if you are not going to draw anything, it is useful for testing and troubleshooting.
+* **Kleki -** [**Kleki**](../applications/kleki.md) is a FREE web-based app that is very simple. It's ideal I think for something for kids to start with before they try something complicated like Krita.
+* **Clip Studio Paint -** I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint.md).
+* **Photopea** ([https://www.photopea.com/](https://www.photopea.com/)) is a web-based Photoshop-like app. It is very good and also has a free tier.
+* [**Procreate**](../applications/procreate.md) - this is THE drawing app to get if you are drawing on an iPad.
+* [**Infinite Painter**](../applications/infinite-painter.md) - this is the equivalent of Procreate, but for Android devices.
+* **Other applications -** Look here to find a large number of applications to explore: [**applications**](../applications/)&#x20;
 
 &#x20;
 

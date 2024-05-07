@@ -20,19 +20,15 @@ This is rare, but a small number people don't like seeing the pointer move as th
 
 ## Hover height
 
-The maximum distance the tablet can detect the pen is about 10mm for a modern tablet.
+The maximum distance the tablet can detect the pen is about 10mm for a modern EMR tablet.
 
 ## What influences the hover height
 
-Even though the typical hover height is 10mm, The EMR sensor itself can detect the pen at a much greater distance. For example, even around 20mm.
-
-But the greater the distance, the less accurate the the pen can determine the position of the pen. So for this reason tablet drivers enforce a lower max hover height.
+Even though the typical hover height is 10mm, The EMR sensor itself can detect the pen at a much greater distance. For example, even around 20mm. But the greater the distance, the less accurate the the pen can determine the position of the pen. So for this reason tablet drivers enforce a lower max hover height.
 
 ## Controlling the maximum hover height
 
-Drivers from tablet manufacturers offer no user control over the maximum hover height. The height locked into the code of the driver.
-
-However, [**OpenTabletDriver**](../drivers/opentabletdriver/) does have plugins that let you control the hover height.
+Drivers from tablet manufacturers offer no user control over the maximum hover height. The height locked into the code of the driver. However, [**OpenTabletDriver**](../drivers/opentabletdriver/) does have plugins that let you control the hover height.
 
 ## Turning off hover
 
