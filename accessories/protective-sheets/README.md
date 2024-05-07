@@ -2,47 +2,29 @@
 
 ## Overview
 
-There are various kinds of protectors available to help you preserve your investment in your tablet. Chiefly they protect against permanent scratches in your tablet. You'll want to avoid these scratches because if they get big enough they can be irritating to draw. Also they can be large enough to deflect the tip of the pen - making it impossible to draw a smooth straight line because the pen will suddenly move as it jumps while moving over the scratch.
+There are many options to protect the surface of your tablet from scratches, etc.&#x20;
 
-## Why they work
+These protective sheets do NOT interfere with how your pen works. The EMR signal from the pen, passes right through non-metallic materials such as plastic or glass.  Also, the protection options do not interfere with touch features of your tablets.
 
-The EMR signal of a in a drawing tablet and pen travels right through non-metallic materials. It's clear this must be true since with a pen tablet the signal passes right through the plastic surface of a pen tablet. Likewise, for a pen display the signal passes through glass.
+There are protection options for both pen tablets (screenless tablets) and pen displays (screen tablets).&#x20;
 
-## Pen displays vs pen tablets
+## Considerations for pen displays
 
-Some of the protection options are only relevant for pen tablets because they are not transparent. Pen displays will need something close to transparent to be used. For each option I have indicated whether it can be used for a pen display.
-
-## Amount of anti-glare sparkle
-
-For pen displays that use clear sheets, you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. more here: [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md).
-
-Some people are very sensitive to the amount of sparkle. So factor that into your choice.
+* **Transparency** - Protective sheets for pen displays must, of course, be transparent.
+* **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
 
 ## Built-in screen protection on pen displays
 
-Some pen displays arrive with a film already on top of the screen. The purpose of this screen is to prevent glare and protect the glass.  It may be possible to replace that film.&#x20;
-
-Contact your manufacturer to see if they sell replacement films.
-
-**Can be used for pen displays?** YES, by definition. These forms of protection come with the pen display.
-
-Some specific examples of pen displays with replaceable sheets:
+Some pen displays arrive with a film already on top of the screen. The purpose of this screen is to prevent glare and protect the glass.  It may be possible to replace that film. Contact your manufacturer to see if they sell replacement films.
 
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
 
-## Touch support
-
-If your tablet supports touch, then placing a plastic protective sheet on top will not interefere with touch. And it makes sense that it would will work, because the touch sensor is already underneath a layer of plastic of a pen tablet or under a layer of glass for a pen display. So adding another layer of plastic should not affect touch support.
-
 ## Options for protective films
 
-### **Wacom texture sheets**
+### **Protective sheets from the tablet manufacturer**
 
-Wacom makes Texture Sheets available for its Intuos Pro pen tablets. More here: [**Wacom texture sheets**](../../product-info/wacom/wacom-texture-sheets.md)&#x20;
-
-### **XP-Pen protective sheets**
-
-[**XP-Pen offers protective sheets for their tablets**](../../product-info/xp-pen/xp-pen-protective-sheets.md)
+* **Wacom** makes Texture Sheets available for its Intuos Pro pen tablets. More here: [**Wacom texture sheets**](../../product-info/wacom/wacom-texture-sheets.md)&#x20;
+* [**XP-Pen offers protective sheets for their tablets**](../../product-info/xp-pen/xp-pen-protective-sheets.md)
 
 ### ePlastic polycarbonate sheets (velvet lexan)
 
@@ -54,11 +36,11 @@ Photodon sells pre-cut and custom-sized protectors for all kinds of devices incl
 
 ### Foxbox&#x20;
 
-These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. More here: [**Foxbox covers**](foxbox-covers.md)&#x20;
+These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. They have a HEAVY texture and will tend to wear through your nibs. More here: [**Foxbox covers**](foxbox-covers.md)&#x20;
 
 ### **BlueBunny**
 
-I have only recenty (2024/03/25) heard of BlueBunny but don't have any direct experience with their covers. Might be an option for some of you.
+I don't have any direct experience with their covers. They might be an option for some of you.
 
 [**https://bluebunny.store/**](https://bluebunny.store/)&#x20;
 
