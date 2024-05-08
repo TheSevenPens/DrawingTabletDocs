@@ -48,15 +48,21 @@ In my opinion the touch support is not great. The touch pad on any laptop you us
 
 ## Surface texture
 
+The Intuos Pro series has a slightly more textured surface than many other tablets.&#x20;
+
+Over an extended period of time (months?), you'll notice that the texture erodes a bit. The texture never goes completely away but it has a more typical amount of texture for a tablet. And the surface can end up looking a little "smooth" or "polished" in those areas. If you move the tip of your pen across the surface of the tablet you will even hear the difference as you move into these eroded areas. Below is an example of the texture erosion in Wacom Intuos Large (PTH-860).
+
+<figure><img src="../../../.gitbook/assets/pth-860 texture erosion (1).jpg" alt=""><figcaption></figcaption></figure>
+
+## Texture sheets
+
 The Intuos Pro MEDIUM and LARGE models have a surface that is replaceable with a **Texture Sheet**.
 
 Wacom has three kinds of texture sheets: Standard, Smooth, and Rough. These texture sheets are often sold out and the smooth one is EXTREMELY rare. Besides giving you the texture feeling you want, they are useful if you've scratched up the surface of your tablet and want to make it feel like new.
 
 ## Nib wear <a href="#nib-wear" id="nib-wear"></a>
 
-The Intuos Pro series has a slightly more textured surface than many other tablets.
-
-A result of this texture is that - depending how you draw - you can wear down a nib very fast. If you are doing a lot of shading with many back and forth strokes you might even notice significant wear within a week or even a day.
+A result of surface texture texture is that - depending how you draw - you can wear down a nib very fast. If you are doing a lot of shading with many back and forth strokes you might even notice significant wear within a week or even a day.
 
 In any case, I advise everyone to always pay attention to their nibs and replace them if they are getting very worn.
 
