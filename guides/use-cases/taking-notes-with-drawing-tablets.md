@@ -4,17 +4,20 @@
 
 Taking notes is a popular scenario for drawing tablets.
 
-You will get the most natural experience taking notes if you use a [**standalone tablet**](../../recommendations/standalone-drawing-tablet-recommendations.md) or [**dedicated note taking devices**](../../recommendations/dedicated-note-taking-devices.md). Because both these kinds of devices have screens and our portable. And this makes them very convenient for taking notes.
+Generally I believe you will get the most natural experience taking notes if you use a [**standalone tablet**](../../recommendations/standalone-drawing-tablet-recommendations.md) or [**dedicated note taking devices**](../../recommendations/dedicated-note-taking-devices.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
+
+On the other hand some people enjoy taking notes with pen tablets (screenless tablets) or pen displays (screen tablets).&#x20;
 
 ## General considerations
 
-**Pressure and Tilt** - If you're only going to use the tablet for no taking then really excellent handling of pressure and tilt may not be relevant,
+Besides locating the position of the pen there are two pen features to discuss.
+
+* **pen pressure** - this is somewhat useful for taking notes because it will make your notes look a bit more natural.
+* **pen tilt** - for taking notes, I don't think this is very important at all. And many note taking apps ignore this feature entirely.
 
 ## Using pen tablets (screenless tablets)&#x20;
 
-Some people can work very well with using a pen tablet for taking notes. Though I'm not one of these people.
-
-The chief difficulty in taking notes with the pen tablet is that you cannot see what you are writin um and instead of course you have to look at the screen of your computer. For me this makes it incredibly difficult to take notes with them. But for others it works very well.
+Some people can work very well with using a pen tablet for taking notes. Though I'm not one of these people. The chief difficulty in taking notes with the pen tablet is that you cannot see what you are writing and instead you have to look at the screen of your computer. Some find this difficult for taking notes . But for others it works very well.
 
 **Considerations**:
 
