@@ -23,7 +23,7 @@ However, If you drop a **pen display**, you almost certainly will cause signific
 * The display panel will break and not show a full screen or will show random color patterns
 * The ports can get damaged, preventing it from getting a display signal&#x20;
 
-## Avoid getting your tablet or pen wet&#x20;
+## Do not get your tablet or pen wet&#x20;
 
 Keep water away from your tablet and pen. If you get them wet, consult this guide on dealing with potential damage: [**Dealing with water damage**](dealing-with-water-damage.md).
 
@@ -31,7 +31,7 @@ Keep water away from your tablet and pen. If you get them wet, consult this guid
 
 Periodically, clean your tablet. Some people recommend lightly cleaning your pen displays before you start drawing. More here: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md).&#x20;
 
-## Storing your pen
+## Storing pen safely
 
 Store your pens so that the nib is not experiencing constant pressure. Some tablet users suggest that if the nib has a constant pressure applied to it, over time the pressure could damage the pressure sensor.&#x20;
 
@@ -44,7 +44,7 @@ The surface of your tablet will be in contact with your pen, that contact and th
 
 There are options to protect the surface from damage. See: [**protective sheets**](../../accessories/surface-protectors/).
 
-## Pen nib maintenance
+## Maintain your nibs
 
 Monitor your nibs and replace then when they are getting too worn down. Nibs that are worn down to flat surface may be scratching up your tablet. See more here: [**Nib wear**](nib-wear.md)
 
