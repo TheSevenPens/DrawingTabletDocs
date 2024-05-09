@@ -1,6 +1,6 @@
 # Xencelabs
 
-## Xencelabs Pen Display 16&#x20;
+## Xencelabs Pen Display 16 (LPH1612U-A)
 
 * Released: 2024/05/08
 * Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)&#x20;
