@@ -2,11 +2,13 @@
 
 ## Xencelabs Pen Display 16&#x20;
 
-* Has not been released yet
+* Released: 2024/05/08
+* Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-xencelabs-pen-display-16-lph1612u-a.md)   &#x20;
 
 ## Xencelabs Pen Display 24 (LPH2412U-A)
 
-* <mark style="background-color:green;">**My notes:**</mark> [<mark style="background-color:green;">**7P notes: Xencelabs Pen Display 24**</mark>](7p-notes-xencelabs-pen-display-24.md)  &#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-xencelabs-pen-display-24.md)
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)&#x20;
 * [MobileTechReview review of Xencelabs Pen Display 24](https://www.youtube.com/watch?v=o6R07naf2es) 2024/03/19 &#x20;
 * [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) 2023/06/04
@@ -17,7 +19,7 @@
 
 ## Xencelabs Pen Tablet Medium (BPH1212W-A)
 
-* <mark style="background-color:green;">**My notes:**</mark> [<mark style="background-color:green;">**7P notes: Xencelabs Medium**</mark>](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/\~/changes/2049/product-info/xencelabs/7p-notes-xencelabs-medium)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](https://docs.thesevenpens.com/drawtab/product-info/xencelabs/7p-notes-xencelabs-medium-pen-tablet)
 * Product page: [https://www.xencelabs.com/us/products/explore-pen-tablet-medium](https://www.xencelabs.com/us/products/explore-pen-tablet-medium)
 * [Teoh on Tech - Xencelabs Pen Tablet Medium: Premium Entry From a New Company](https://www.youtube.com/watch?v=Vrwifey6168) 2021/04/08
 * [Brad Colbow review of Xencelabs Pen Tablet](https://www.youtube.com/watch?v=d3vIa8cBzwI) 2021/04/30
