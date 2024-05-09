@@ -10,7 +10,9 @@ To find which pen is compatible with a tablet, see: [**Wacom pen compatibility**
   * [Teoh on Tech - Wacom One pen vs other EMR pens (artist review)](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07
 * Wacom One pen GEN2 (CP-923)
 * 4K pen (LP-1100K)
+  * For use with CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL
 * 2K pen (LP-190K)&#x20;
+  * For use with CTL-472, CTL-672
 
 ## **Professional pens**
 
