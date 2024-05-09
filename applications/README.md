@@ -20,11 +20,11 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**ArtRage**](./#artrage) (Windows, macOS, iOS, Android)
 * **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
 * [**Clip Studio Paint**](clip-studio-paint.md) (Windows, MacOS, Android, iOS)
-* [**Concepts**](concepts-app.md) (Windows, Android, iOS)
 * **Adobe** [**Fresco**](fresco.md) (Windows, iOS, MacOS)
 * [**Firealpaca**](fireaplaca.md) (Windows, MacOS)
 * [**HiPaint**](hipaint.md) (Android, iOS)
 * [**Ibis Paint**](ibis-paint.md) (Windows, iOS, Android)
+* **Infinite Design** [https://www.infinitestudio.art/](https://www.infinitestudio.art/) (Android)
 * [**Infinite Painter**](./#infinite-painter) (Android, iOS)
 * [**Kleki**](kleki.md) (web) <mark style="background-color:purple;">**FREE**</mark>
 * [**Krita**](krita.md)  (Windows, Linux, MacOS) <mark style="background-color:purple;">**FREE**</mark>
@@ -38,6 +38,10 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * **pixilart** - [https://www.pixilart.com/](https://www.pixilart.com/)  (web)
 * [**Procreate**](procreate.md) (iOS)
 * [**Rebelle**](rebelle.md) (Windows, MacOS)
+
+### Sketching
+
+* [**Concepts**](concepts-app.md) (Windows, Android, iOS, ChromeOS)
 * **Sketchbook Pro** (MacOS, Windows, Android, iOS)
 
 ### Vector
@@ -54,7 +58,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * **Spline** - [https://spline.design/](https://spline.design/) - (web)
 * [**https://voxelcanvas.me/**](https://voxelcanvas.me/) - (web)
 
-### Photoediting
+### Photo editing
 
 * **Adobe** [**Photoshop**](photoshop.md) (Windows, MacOS)
 * **Affinity Photo**

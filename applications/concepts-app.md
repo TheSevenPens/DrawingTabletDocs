@@ -3,7 +3,7 @@
 ## Basics
 
 * Site: [https://concepts.app](https://concepts.app)
-* Platforms: iOS, Windows, Android
+* Platforms: iOS, Windows, Android, ChromeOS
 
 ## Videos
 
