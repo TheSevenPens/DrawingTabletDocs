@@ -27,6 +27,6 @@
 * [ManyLearn - Xencelabs tablet review by a long-term Wacom user](https://www.youtube.com/watch?v=uS63-2e32i8) 2022/04/13
 * [/u/BeckleyBak/ on reddit - Xencelabs Pen Display 24 review](https://www.reddit.com/r/drawingtablet/comments/173v9je/xencelabs\_pen\_display\_24\_review/) 2023/10/09
 
-## Xencelabs Pen Tablet Small&#x20;
+## Xencelabs Pen Tablet Small (BPH0812W-A)
 
 * [SweetMonia review of Xencelabs Pen Tablet Small](https://sweetmonia.com/Sweet-Drawing-Blog/xencelabs-small-tablet-review-a-professional-graphics-tablet-low-iaf-elegant-design/) 2022/09/10&#x20;
