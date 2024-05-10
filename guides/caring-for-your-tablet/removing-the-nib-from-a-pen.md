@@ -1,4 +1,4 @@
-# Removing the nib from a pen
+# Removing a nib
 
 ## Using a nib remover
 
@@ -24,10 +24,7 @@ The XP-Pen has a nib remover built into a pen case. See the metal ring below.
 
 ## Broken nib stuck in pen
 
-If the nib is broken in half and stuck deeply inside or there's not enough of it to grip then there are some other options.&#x20;
-
-* A little bit of hot glue at the end of a toothpick
-* Stick a heated needle into the nib and when the plastic of nib cools, pull it out. Some people suggest combining this technique with glue on the needle tip. <mark style="color:red;">**Use this option with great caution. People have ruined their pens and made the problem worse with this hot needle technique.**</mark>
+A nib that has snapped off and left part of itself inside the pen requires some special techniques. more here: [Removing a broken nib](removing-a-broken-nib.md).&#x20;
 
 ## Reddit threads:
 
