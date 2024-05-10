@@ -14,8 +14,6 @@ For more general information about pen pressure go here: [**pen pressure**](pen-
 
 The collected measurements for pen pressure can be found here: [https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI](https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI)&#x20;
 
-It combines data from:
-
 * Manufacturers
 * From tablet experts such as Kuuube
 * And my own measurements

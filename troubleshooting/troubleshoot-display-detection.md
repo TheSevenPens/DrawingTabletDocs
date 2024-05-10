@@ -1,10 +1,10 @@
 # Troubleshoot computer does not detect display
 
-To use your pen display, your computer must be able to detect the display panel inside it.
+## Overview
 
-Most of the time, when you plug in your tablet to your computer this will work automatically.
-
-Unfortunately, sometimes your computer can sometimes have difficulty.
+* To use your pen display, your computer must be able to detect the display panel inside it.
+* Most of the time, when you plug in your tablet to your computer this will work automatically.
+* Unfortunately, sometimes your computer can sometimes have difficulty.
 
 ## Basic things to try or investigate
 
@@ -48,8 +48,6 @@ If your computer is not even detecting the existence of the display, and it has 
 If your computer is a laptop or similar device that has an embedded Intel GPU, on Windows you can use the Intel Graphics Commend Center app to potentially detect additional displays.
 
 You can download the Intel Graphics Comment Center from the Microsoft Store.
-
-
 
 ## Firmware updates
 
