@@ -15,3 +15,7 @@ A little bit of hot glue at the end of a toothpick
 ## OPTION 2: The hot needle method
 
 Stick a heated needle into the nib and when the plastic of nib cools, pull it out. Some people suggest combining this technique with glue on the needle tip. <mark style="color:red;">**Use this option with great caution. People have ruined their pens and made the problem worse with this hot needle technique.**</mark>
+
+## Reddit threads:
+
+* ([https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/](https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/))

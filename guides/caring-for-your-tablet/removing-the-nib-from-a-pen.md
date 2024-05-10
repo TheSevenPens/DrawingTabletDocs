@@ -26,9 +26,7 @@ The XP-Pen has a nib remover built into a pen case. See the metal ring below.
 
 A nib that has snapped off and left part of itself inside the pen requires some special techniques. more here: [Removing a broken nib](removing-a-broken-nib.md).&#x20;
 
-## Reddit threads:
 
-* ([https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/](https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/))
 
 ## Videos
 
