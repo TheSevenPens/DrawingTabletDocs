@@ -46,7 +46,7 @@ Each product line uses different pens. And the pens can only be used within that
 | Tablet                                                                             | Pen that comes with tablet   |
 | ---------------------------------------------------------------------------------- | ---------------------------- |
 | <p><strong>One by Wacom</strong><br>(CTL-472, CTL-672)</p>                         |  Wacom Pen 2K (LP-190K)      |
-| <p><strong>Wacom One GEN2 pen tablets</strong></p><p>(CTC-4100WL, CTC-6110WL)</p>  | Wacom One Pen GEN2 (CP-923)  |
+| <p><strong>Wacom One GEN2</strong> </p><p>(CTC-4100WL, CTC-6110WL)</p>             | Wacom One Pen GEN2 (CP-923)  |
 | <p><strong>Intuos</strong></p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) </p> | Wacom Pen 4K (LP-1100K)      |
 | <p><strong>Intuos Pro</strong><br>(PTH-460, PTH-660, PTH-860)</p>                  | Pro Pen 2 (KP-504E)          |
 
@@ -74,15 +74,13 @@ More than pressure levels, the **pressure range** has a greater impact on your d
 
 **Pens pressure range compared**&#x20;
 
-<table><thead><tr><th width="233">Pen</th><th width="144">levels</th><th width="176">IAF</th><th>max pressure</th><th>source</th></tr></thead><tbody><tr><td><p>Wacom Pen 2K</p><p>(LP-190K)</p></td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td><td>[1]</td></tr><tr><td><p>Wacom One PenGEN2</p><p>(CP-923) </p></td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td><td>[1]</td></tr><tr><td><p>Wacom Pen 4K</p><p>(LP-1100K)</p></td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td><td>[1]</td></tr><tr><td><p>Wacom Pro Pen 2</p><p>(KP-504E) </p></td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td><td>[1]</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="233">Pen</th><th>Tablet</th><th width="105">Levels</th><th width="103">IAF</th><th>max pressure</th></tr></thead><tbody><tr><td><p><strong>Wacom Pen 2K</strong></p><p>(LP-190K)</p></td><td><p>One by Wacom</p><p>(CTL-472, CTL-672)</p></td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td></tr><tr><td><p><strong>Wacom One Pen GEN2</strong></p><p>(CP-923) </p></td><td><p>Wacom One pen tablets</p><p>(CTC-4100WL, CTC-6110WL)</p></td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td></tr><tr><td><p><strong>Wacom Pen 4K</strong></p><p>(LP-1100K)</p></td><td><p>Intuos</p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) </p></td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td><p><strong>Wacom Pro Pen 2</strong></p><p>(KP-504E) </p></td><td>Intuos Pro<br>(PTH-460, PTH-660, PTH-860)</td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td></tr></tbody></table>
 
 Notes:
 
-* \[1] Min pressure and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
+* Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
 * Learn more about [**pen pressure**](../../guides/core-features/pen-pressure.md)&#x20;
 * Learn more about how [**pen pressure ranges compare across pens**](../../guides/core-features/pen-pressure-range-comparison.md)  &#x20;
-
-##
 
 ## Pen Tilt
 
