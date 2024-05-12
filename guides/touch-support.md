@@ -46,3 +46,8 @@ There will be outliers and of course I don't have anything but anecdotal data, b
 ## **Notes on Wacom Cintiq Pro models**
 
 The recent Cintiq Pro 16 and 27 models from Wacom introduced in 2021 , 2022, and 2023 have much better touch than older Wacom models, but it is not as good as what you would get from an iPad.
+
+## Resources
+
+[**r/wacom - Touch or No Touch?**](https://www.reddit.com/r/wacom/comments/rdhjud/touch\_or\_no\_touch/) 2021/12/10&#x20;
+
