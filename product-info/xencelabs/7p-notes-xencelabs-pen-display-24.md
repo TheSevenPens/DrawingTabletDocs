@@ -101,3 +101,20 @@ This new  3 Button Pen V2 is an improvement from the old V1 pen. The buttons are
 ### Pen eraser
 
 Both pens have an eraser. But I don't user erasers so I have no comment on them.
+
+
+
+## Fans
+
+No fans.&#x20;
+
+
+
+## Noise
+
+Completely quiet. No noise.
+
+## Heat
+
+After leaving it on for 3 hours with brightness set at 100%, the surface has a slightly warm feel - close to body temperature.
+
