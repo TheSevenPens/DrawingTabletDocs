@@ -26,6 +26,18 @@ Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At
 * On par with Wacom Cintiq Pro 27 (Which is GOOD).&#x20;
 * Clearly better than with Huion Kamvas 24 Pro 4K (Which is OK)&#x20;
 
+## **Color modes**
+
+* AdobeRGB
+* sRGB
+* REC 709
+* DCI P3
+* REC 2020
+* Pantone
+* User mode
+
+I used this display in SRGB mode
+
 ## **Color**
 
 I am not a color expert.&#x20;
