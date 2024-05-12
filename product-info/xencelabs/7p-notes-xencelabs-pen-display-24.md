@@ -36,13 +36,11 @@ Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At
 * Pantone
 * User mode
 
-I used this display in SRGB mode
+### **sRGB mode**
 
-## **Color**
+I used this display in only in SRGB mode.
 
-I am not a color expert.&#x20;
-
-The one GREAT thing I noticed is that it's sRGB mode doesn't dim the brightness of the display. So many other pen displays and monitors don't reduce brightness in sRGB mode. So, this is very nice to have.&#x20;
+When setting sRGB mode the brightness stayed steady. Some pen displays and monitors reduce the brightness in sRGB mode, but that did not happen with this tablet.&#x20;
 
 ## **Pointer Lag**
 
@@ -93,7 +91,12 @@ The best user experience and design of any tablet in the industry.
 
 ## Multiple tablets on same computer
 
-Currently the driver cannot handle multiple Xencelabs products attached at the same time. I tried with a Xencelabs Pen Display 24 and a Xencelabs Pen Tablet Medium and the driver showed a message saying only one could be used at one time.&#x20;
+The tablet driver does work correctly if multiple Xencelabs products are plugged into the computer at the same time.
+
+I tested with these tablets plugged in at the same time:
+
+* Xencelabs Pen Display 23
+* Xencelabs Pen Tablet Medium&#x20;
 
 ## **Pen**
 
