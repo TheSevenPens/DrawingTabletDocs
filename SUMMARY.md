@@ -344,6 +344,7 @@
       * [7P notes: XP-Pen Deco Pro XLW GEN2 (MT1592B)](product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/7p-notes-xp-pen-deco-pro-xlw-gen-2-mt1592b.md)
     * [XP-Pen Innovator](product-info/xp-pen/xp-pen-innovator.md)
     * [XP-Pen protective sheets](product-info/xp-pen/xp-pen-protective-sheets.md)
+    * [XP-Pen pen compatibility](product-info/xp-pen/xp-pen-pen-compatibility.md)
     * [XP-Pen pens](product-info/xp-pen/xp-pen-pens/README.md)
       * [XP-Pen X3 Pro pen](product-info/xp-pen/xp-pen-pens/xp-pen-x3-pro-pen.md)
   * [Ugee](product-info/ugee.md)
