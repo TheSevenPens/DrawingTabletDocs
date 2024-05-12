@@ -1,8 +1,10 @@
-# 7P notes: Wacom Pro Pen 3
+# 7P notes: Wacom Pro Pen 3 (ACP50000DZ)
 
 ## Pro Pen 3
 
 The Wacom Pro Pen 3 (ACP50000DZ) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Wacom Pro Pen 3 (ACP50000DZ).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pressure&#x20;
 
