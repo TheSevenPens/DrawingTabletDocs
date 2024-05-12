@@ -28,9 +28,20 @@ Note that some tablets only have touch support on Windows but have no touch supp
 
 Again, in neither case does touch come close to what you would experience with an iPad. One area where the iPad is clearly better is palm rejection.
 
+## **Disabling touch support**
+
+All tablets that have touch allow a user to disable touch support
+
+* Some tablets have a physical switch to enable and disable touch.&#x20;
+* Drivers also tend to allow you to disable touch
+
 ## **My own use of touch**
 
 The very first thing I do with my tablets that support touch is disable the touch feature.
+
+## **How often is touch used in drawing tablets**
+
+There will be outliers and of course I don't have anything but anecdotal data, but my sense of it is that most users of tablets disable the touch support.
 
 ## **Notes on Wacom Cintiq Pro models**
 
