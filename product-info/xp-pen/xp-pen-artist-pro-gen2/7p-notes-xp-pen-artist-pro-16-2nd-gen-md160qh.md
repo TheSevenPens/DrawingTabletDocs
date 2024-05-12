@@ -16,7 +16,7 @@ XP-Pen logo on bottom of tablet.&#x20;
 
 ## **Pen**&#x20;
 
-The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. Many more details here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/xp-pen-x3-pro-pen.md)
+The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. Many more details here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md)
 
 ## **Display**&#x20;
 

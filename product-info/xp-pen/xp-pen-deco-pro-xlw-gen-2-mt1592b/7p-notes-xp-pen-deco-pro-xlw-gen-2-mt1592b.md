@@ -20,7 +20,7 @@ Four indicator lights are just past the corners of the active area. They will li
 
 ## **Pen**
 
-It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/xp-pen-x3-pro-pen.md) .
+It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md) .
 
 **Pen compatibility**
 
