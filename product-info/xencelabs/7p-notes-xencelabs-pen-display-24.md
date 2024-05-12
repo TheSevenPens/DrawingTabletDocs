@@ -89,11 +89,15 @@ Currently the driver cannot handle multiple Xencelabs products attached at the s
 
 This tablet comes with two pens:&#x20;
 
-* Xencelabs Pen V2
-* Xencelabs Pen Slim V2
+* Xencelabs 3 Button Pen V2
+* Xencelabs Thin Pen V2
 
 That these pens are different than the one that comes with the Xencelabs pen tablet. And the pens are NOT swappable.&#x20;
 
-## Buttons
+### Pen buttons
 
-This new Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
+This new  3 Button Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
+
+### Pen eraser
+
+Both pens have an eraser. But I don't user erasers so I have no comment on them.
