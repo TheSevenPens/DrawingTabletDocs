@@ -79,6 +79,8 @@ Rating: WORSE THAN AVERAGE
 
 Currently seeing a lot diagonal wobble at both slow and medium drawing speeds that requires smoothing to reduce.&#x20;
 
+<mark style="color:red;">Due to a recent change in GitBook the clicking on the image below no longer opens the large version where you can see the differences clearly. I am working on a workaround.</mark>
+
 <figure><img src="../../.gitbook/assets/Wobble Xencelabs Pen Display 24 (LPH2412U-A) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Driver**
