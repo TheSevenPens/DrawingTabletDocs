@@ -6,16 +6,45 @@ Drawing tablets are heavily used for creating educational content. For example y
 
 For this you want high reliability and durability and you DO NOT need to spend a lot of money buying a fancy tablet. And for those reasons I'll keep the recommendations short:
 
+## What features you need
+
+* Pressure support - Will help you strokes look more natural. All drawing tablets have this pressure support.
+* Tilt - not needed for education use. More of an artist thing.
+* Tablet buttons (aka. ExpressKeys) - I think they can come in very useful for people. For some people these are critical. No harm in getting them, you can always disable them.&#x20;
+* Size - Medium or Small. I always recommend medium. Even though some people are OK with small tablets, I do see a far number of people say the small size makes their hand feel cramped.&#x20;
+
+## **My recommendations**
+
 **Pen tablets (no screen)**
 
 * One by Wacom Medium (CTL-672)
-* Wacom Intuos Medium (CTL-6100 or CTL-6100WL) - the only real advantage of this tablet is that it has buttons on the tablet that you can assign shortcut keys for. The CTL-6100WL also supports wireless connection.
+  * Pressure: YES
+  * Tilt: NO
+  * Tablet Buttons: NO
+  * Wireless: NO
+* Wacom Intuos Medium (CTL-6100 or CTL-6100WL)&#x20;
+  * Pressure: YES
+  * Tilt: NO
+  * Tablet buttons: YES
+  * Wireless: Only the CTL-6100WL supports wireless
 
 **Pen displays (have a screen)**
 
 * XP-Pen Artist 12 GEN2 (CD120FH)
+  * Pressure: YES
+  * Tilt: YES
+  * Tablet buttons: YES
+  * Wireless: NO
 * XP-Pen Artist 13 GEN2 (CD130FH)
+  * Pressure: YES
+  * Tilt: YES
+  * Tablet buttons: YES
+  * Wireless: NO
 * Wacom One GEN1 (DTC-133)
+  * Pressure: YES
+  * Tilt: YES
+  * Tablet buttons: NO
+  * Wireless: NO
 
 ## Which tablet does Sal Khan use?
 
