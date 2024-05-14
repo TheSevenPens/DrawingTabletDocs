@@ -1,14 +1,19 @@
 # OpenTabletDriver usage notes
 
-## Getting help with OpenTabletDriver
+## Related documents
+
+* [OpenTabletDriver - an introduction](./)
+* [Install OpenTabletDriver on Windows](opentabletdriver-windows.md)
+
+## Getting help with OTD
 
 ### Use the OTD discord to get help
 
 * If you need help, join the OpenTabletDriver Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
-* DO ask questions in the `#support-windows` channel
-* DO NOT ask for support via DMs.
+* **DO** ask questions in the `#support-windows` channel
+* **DO NOT** ask for support via DMs.
 
-### Do not bother asking from help from your tablet manufacturer
+### Do not ask your tablet manufacturer for help with OTD
 
 <mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
 
