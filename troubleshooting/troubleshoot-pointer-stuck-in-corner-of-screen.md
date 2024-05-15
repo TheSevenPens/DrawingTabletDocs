@@ -1,6 +1,10 @@
 # Troubleshoot pointer stuck in corner of screen
 
-It's unclear what causes this but people I found success fixing it once. &#x20;
+Overview
+
+Normally the pointer should follow the movement of the pen. However sometimes it gets stuck in the corner of the screen. Usually I have seen this in the upper-left-hand corner but it could happen elsewhere.
+
+It's unclear what causes this problem.&#x20;
 
 ## Basic things to try
 
