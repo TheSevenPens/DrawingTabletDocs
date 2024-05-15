@@ -25,7 +25,7 @@ These are tablets WITHOUT a screen that need to be connected to a computer (some
 
 If I had to pick one item on this list, I would recommend the Wacom CTL-672 for true beginners. It's reliable and has a decent drawing experience.
 
-More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/comparison-of-wacom-pen-tablets.md)&#x20;
+More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-comparison-of-wacom-pen-tablets.md)&#x20;
 
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-one-by-wacom-ctl-x72.md))
 * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark>&#x20;

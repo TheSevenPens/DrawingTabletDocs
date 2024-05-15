@@ -1,4 +1,4 @@
-# Comparison of Wacom pen tablets
+# 7P notes: Comparison of Wacom pen tablets
 
 ## Overview
 
@@ -130,7 +130,7 @@ Wacom drivers by default add a little bit of position smoothing - which is neede
 
 **Hardware position smoothing**
 
-<table><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>no hardware smoothing</td></tr><tr><td>Wacom One GEN2</td><td>unknown</td></tr><tr><td>Intuos</td><td><p>No hardware smoothing when drawing/dragging. </p><p>Some Hardware smoothing on hover. </p><ul><li>For artists, the smoothing on hover won't make any difference and is not noticeable at all.  </li><li>For osu! players the hardware on hover is a strong reason to avoid this tablet.</li></ul></td></tr><tr><td>Intuos Pro</td><td>all models support wireless via Bluetooth</td></tr></tbody></table>
+<table><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>no hardware smoothing</td></tr><tr><td>Wacom One GEN2</td><td>unknown</td></tr><tr><td>Intuos</td><td><p>No hardware smoothing when drawing/dragging. </p><p>Some Hardware smoothing on hover. </p><ul><li>For artists, drawing is fine and unaffected. The smoothing is only happening when you are not drawing. Artists do not notice this at all in practice.</li><li>For osu! players the hardware on hover is a strong reason to avoid this tablet.</li></ul></td></tr><tr><td>Intuos Pro</td><td>all models support wireless via Bluetooth</td></tr></tbody></table>
 
 
 
