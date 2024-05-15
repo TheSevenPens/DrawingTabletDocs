@@ -1,6 +1,6 @@
 # Troubleshoot pointer stuck in corner of screen
 
-Overview
+## Overview
 
 Normally the pointer should follow the movement of the pen. However sometimes it gets stuck in the corner of the screen. Usually I have seen this in the upper-left-hand corner but it could happen elsewhere.
 
