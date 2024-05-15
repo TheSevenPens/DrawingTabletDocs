@@ -136,7 +136,7 @@
     * [Using a drawing tablet without installing drivers](guides/drivers/using-a-drawing-tablet-without-installing-drivers.md)
     * [Tablet Driver Cleanup tool](guides/drivers/uninstalling-manufacturer-tablet-drivers.md)
     * [Using older tablet drivers](guides/drivers/using-older-tablet-drivers.md)
-    * [Copying tablet driver setting to another computer](guides/drivers/copying-tablet-driver-setting-to-another-computer.md)
+    * [Importing and Exporting tablet driver configurations](guides/drivers/importing-and-exporting-tablet-driver-configurations.md)
   * [Advanced](guides/advanced/README.md)
     * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
