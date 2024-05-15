@@ -122,28 +122,33 @@ The Intuos Pro models exhibit less wobble than the Intuos of One by Wacom. But a
 
 ## Position smoothing
 
-Position smoothing in hardware can cause extra pointer lag.&#x20;
+Position smoothing makes for better looking strokes but introduces pointer lag. All of these Wacom tablets are great for artists in terms of position smoothing.
 
-* One by Wacom -> no hardware smoothing
-* Wacom One GEN2 -> unknown
-* Intuos -> no hardware smoothing when drawing/dragging. hardware smoothing on hover.
-* Intuos Pro -> no hardware smoothing
+**Driver position smoothing**
+
+Wacom drivers by default add a little bit of position smoothing - which is needed - to make their strokes look better. The smoothing is not much and Wacom pen tablets still feel more responsive than other tablet brands.&#x20;
+
+**Hardware position smoothing**
+
+<table><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>no hardware smoothing</td></tr><tr><td>Wacom One GEN2</td><td>unknown</td></tr><tr><td>Intuos</td><td><p>No hardware smoothing when drawing/dragging. </p><p>Some Hardware smoothing on hover. </p><ul><li>For artists, the smoothing on hover won't make any difference and is not noticeable at all.  </li><li>For osu! players the hardware on hover is a strong reason to avoid this tablet.</li></ul></td></tr><tr><td>Intuos Pro</td><td>all models support wireless via Bluetooth</td></tr></tbody></table>
+
+
 
 ## Wireless/Bluetooth
 
-* One by Wacom -> does NOT support wireless
-* Wacom One GEN2 -> these pen tablets all support wirless via Bluetooth
-* Intuos -> The models with WL in their name support wireless via Bluetooth
-* Intuos Pro -> all models support wireless via Bluetooth
+<table><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>none of these models support wireless</td></tr><tr><td>Wacom One GEN2</td><td>all models support wireless via Bluetooth</td></tr><tr><td>Intuos</td><td>Only models with WL in their model number support wireless via Bluetooth</td></tr><tr><td>Intuos Pro</td><td>all models support wireless via Bluetooth</td></tr></tbody></table>
+
+## Touch support
+
+
 
 ## USB port on tablet
 
 The consumer series use older USB ports than the professional series.
 
-* One by Wacom -> Micro USB B
-* Wacom One GEN2 -> USB-C
-* Intuos -> Micro USB B
-* Intuos Pro -> USB-C
+<table><thead><tr><th width="194">Tablet series</th><th>USB port on tablet</th></tr></thead><tbody><tr><td>One by Wacom</td><td>Micro USB B</td></tr><tr><td>Wacom One GEN2</td><td>USB-C</td></tr><tr><td>Intuos</td><td>Micro USB B</td></tr><tr><td>Intuos Pro</td><td>USB-C </td></tr></tbody></table>
+
+
 
 ## ExpressKeys
 
@@ -151,18 +156,13 @@ The consumer series use older USB ports than the professional series.
 
 ## Touch support
 
-Only some of the tablets support touch:
+<table><thead><tr><th width="194">Tablet series</th><th>Touch support</th></tr></thead><tbody><tr><td>One by Wacom</td><td>No model supports touch</td></tr><tr><td>Wacom One GEN2</td><td>No pen tablet model supports touch. (Not that the Wacom One 13 touch GEN2 pen display does support touch as the name indicates).</td></tr><tr><td>Intuos</td><td>No model supports touch</td></tr><tr><td>Intuos Pro</td><td>All three models support touch</td></tr></tbody></table>
 
-* Intuos Pro Large
-* Intuos Pro Medium
-* Intuos Pro Small
-* Wacom One 13 touch GEN2
-
-For these tablets, touch can be enabled/disabled with a physical switch on the side of the tablet.
+For these tablets that do support touch, touch can be enabled/disabled with a physical switch on the side of the tablet.
 
 More here:
 
-* &#x20;[My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
+* [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md).
 * [Touch support](../../guides/touch-support.md)
 
 ## Tablet design
