@@ -49,23 +49,21 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 ## **Core drawing tablet features**
 
-* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md) will help you find a size size that works for you.
-* **Pressure -** The pen can detect how much pressure you are putting on its tip. The smallest pressure that activates the pen is called the Initial Activation Force (IAF). The maximum pressure is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
-* **Tilt -** Tilt support can be very useful for for certain kinds of artwork. Almost all modern tablets support tilt, except for some consumer Wacom tablets. Read more here about [**tilt**](../guides/core-features/pen-tilt.md).
+* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md) will help you find a size size that works for you.&#x20;
+* **Pressure -** The pen can detect how much pressure you are putting on its tip. All drawing tablets sense pressure. More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
+  * **Initial Activation Force (IAF)** is smallest pressure that activates the pen. In general you want a pen that has a low (<=3gf) IAF. Modern drawing tablet pens are around this value.
+  * The **maximum pressure** is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Higher maximum pressure means that the pressure range is wide and is better for drawing because it lets you have better control over how pressure affects your stroke. &#x20;
+* **Tilt**  can be very useful for for certain kinds of artwork. If you are just taking notes it may not be useful at all. Almost all modern tablets support tilt, except for some consumer Wacom tablets. More here [**tilt**](../guides/core-features/pen-tilt.md).
 * **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
 * **Diagonal wobble** - All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble.md).
 
 ## **Secondary features**
 
-* **ExpressKeys** - ExpressKeys are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)&#x20;
+* **ExpressKeys** are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)&#x20;
 * **Touch** - A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support.md)
 
 ## Pen display topics
 
-* **Connection** - You MUST how a pen display will connect to your computer. SOME pen displays work with only a single USB-C cable. Some require multiple cables. Some need a "3-in-1" cable. More here:&#x20;
-  * [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
-  * [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
-  * [**Connecting a pen display with a 3-in-1 cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)&#x20;
 * **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them. This will produce a kind sparkle effect. Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. More here: [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).  &#x20;
 * **Display resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. This is another thing, some people are more sensitive to. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
@@ -73,10 +71,15 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
 * Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md).
 
-## Connectivity: wired and wireless
+## Connections & cabling
 
-* **Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
-* **Pen displays** require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display.&#x20;
+**Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
+
+**Pen displays** ALWAYS require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display. Pen displays have many more connection options.  Its a common mistake to buy a pen display and then realize you have no way to connect it to your computer. <mark style="color:red;">**So please invest time understanding connection options BEFORE you make a purchase**</mark>. More here:&#x20;
+
+* [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
+* [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
+* [**Connecting a pen display with a 3-in-1 cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)&#x20;
 
 ## OS and device compatibility
 
@@ -94,11 +97,11 @@ Drawing tablets work **to some extent** with other kinds of devices. More here:
 
 ## Ergonomics
 
-* **Thickness** - Pen tablets are very then these days - about 8mm. Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm.&#x20;
+* **Thickness** - Pen tablets are very then these days - about 8mm. Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm. Lately (2024) some pen displays are starting to use OLED display panels and are getting very then. For example the Wacom Movink 13 (DTH-135) is about 6mm thick.&#x20;
 * **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
 * **Body posture** - With a pen tablet, your torso will naturally have a more vertical posture. This is because you will be looking at your monitor while you hand rests on the pen tablet which is on your desk.  With a pen display, you will be leaning over a bit to draw since you must look at the pen tablet on you desk. You may experience lower back pain or strain on your neck from looking down. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)
 * **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [**Using monitor arms with a pen display**](../guides/customizing-your-experience/using-monitor-arms-with-a-pen-display.md)&#x20;
-* **Legs** - Many pen displays (not not all) have foldable legs on the back. This allows you to keep the pen display at a slight angle on your desk which makes it a bit easier to see and draw on. Pen tablets do not have legs. If you want to place them at an angle, you will need to find some other solution.
+* **Legs** - Many pen displays (not not all) have foldable legs on the back. This allows you to keep the pen display at a slight angle on your desk which makes it a bit easier to see and draw on. Pen tablets do not have legs. If you want to place them at an angle, you will need to find and purchase some other solution.
 * **Right-handed vs left-handed use** - All drawing tablets work for people who are right-handed or left-handed. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet to be used correctly in a left-handed way. See [**handedness of drawing tablets**](../guides/ergonomics/handedness-of-drawing-tablets.md).&#x20;
 * **Noise** - You may have strong preferences about **noise**. Generally drawing tablets are considered very quiet, and some are completely silent. More details here: [**Noise**](./#noise)&#x20;
 * **Heat** - Drawing tablets are either room temperature or slightly warm depending on the kind of drawing tablet. More here: [**Heat**](../guides/ergonomics/heat.md)&#x20;
@@ -129,11 +132,11 @@ Drawing tablets have been released over many years. That means when you shop onl
 
 * **Wacom** - Wacom models from any year are good quality. However keep in mind over time their latest drivers will drop support for older models.&#x20;
 * **Huion & XP-Pen** - Huion and XP-Pen have so many models and some that use older pen tech are released in the same year as tablets that use newer pen tech. The easiest way to know whether you are getting a truly more modern tablet is be looking at the pen it is compatible with.&#x20;
-  * XP-Pen: Look for tablets that use the X3 or X3 Pro pens
-    * The X3 Pro pens are significantly better than the X3 pens
+  * XP-Pen: Look for tablets that have X3 in their name
+    * These are the X3 Elite, X3 Roller, and X3 Pro
   * Huion: Look for tablets that use more recent Huion PenTech versions:
-    * PenTech 3.x: PW517, PW515, PW110, PW500, PW500S or PenTech 4.0
-    * PenTech 4.0: PW600,SPW600s&#x20;
+    * PenTech 3.x: PW517, PW515, PW110, PW500, PW500S
+    * PenTech 4.0: PW600, PW600S&#x20;
     * The PenTech 4.0 Pens are better than the PenTech 3.x pens
     * More here: [**Huion pens**](../product-info/huion/huion-pen-models/)
 
