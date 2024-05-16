@@ -1,7 +1,7 @@
 # 7P notes: Wacom Movink 13 (DTH-135)
 
 {% hint style="info" %}
-This page is based of currently published information. I have ordered the tablet and when it has arrived I will be able to add additional information.
+<mark style="color:red;">**I am currently evaluating this product. So these notes are IN PROGRESS.**</mark>
 {% endhint %}
 
 ## Basics
