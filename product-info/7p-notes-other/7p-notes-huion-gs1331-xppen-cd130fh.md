@@ -1,6 +1,8 @@
 # 7P notes: 13" pen displays compared
 
-## Tablets discussed
+## Overview
+
+13" pen displays very popular, often representing great choices for beginners. In this document I discuss some popular options in the market
 
 * Huion Kamvas 13  (GS1331) - ([user manual](https://www.huion.com/user-manual-70) | [product page](https://www.huion.com/pen\_display/Kamvas/kamvas-13.html) | model year 2020)
 * XP-Pen Artist 13 GEN2 (CD130FH) - ([user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf) | [product page](https://www.xp-pen.com/product/1263.html) | model year 2022)
@@ -8,9 +10,14 @@
 
 ## Summary
 
-These are very, very similar tablets.
+These are very, very similar tablets. There is NO CLEAR winner - each has positives and negatives.
 
-Overall I would pick the Huion Kamvas 13 as the winner - but only just very very slightly. The overall experience with the Huion was slightly better in terms of drawing - even though I wish it had less AG sparkle. If AG sparkle is more important for you, then the XP-Pen tablet may be a better choice.
+* Huion Kamvas 13
+  * slightly less pointer lag (GOOD)
+  * slightly more more anti-glare sparkle
+* XP-Pen Artist 13 GEN2
+  * a tiny bit more pointer lag
+  * less anti-glare sparkle
 
 ## Evaluation notes
 
@@ -37,14 +44,16 @@ Overall I would pick the Huion Kamvas 13 as the winner - but only just very very
 * Huion Kamvas 13 - PW517
 * Wacom One GEN1 - CP-913
 
-## Center versus Corner Accuracies
+## Center versus Corner accuracy
+
+Accuracy in both tablets is very good for a pen display
 
 In my testing&#x20;
 
 * Both have similar center accuracy. I agree with their listed specs of ±0.5mm
 * Both have similar corner accuracy. I measured at ± 2mm&#x20;
 
-Accuracy in both tablets is very good for a pen display
+
 
 ## Diagonal wobble
 
@@ -81,8 +90,6 @@ For both tablets you'll notice the sparkle if your eyes are close, at a normal d
 The XP-Pen tablet is clearly the winner over the Huion tablet for AG sparkle.
 
 ## Drawing Experience
-
-
 
 Both tablets handle these cases well
 
