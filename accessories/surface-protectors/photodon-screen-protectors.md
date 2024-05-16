@@ -12,6 +12,6 @@ Of the films they have, the one that reduced glare but didn't add too much AG sp
 
 <figure><img src="../../.gitbook/assets/7P Photodon.jpg" alt="" width="375"><figcaption><p>Picure from Photodon showing how much the different films disperse light.</p></figcaption></figure>
 
-**Can be used for pen displays?** YES.
+**Can these protectors be used for pen displays?** YES.
 
 I experimented with some Photodon films in June of 2026. You can see my experiments here: [https://youtu.be/3x5pfmbsQys](https://youtu.be/3x5pfmbsQys)&#x20;
