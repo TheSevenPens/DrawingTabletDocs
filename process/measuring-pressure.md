@@ -11,5 +11,12 @@ I use this scale. It is delicate enough to measure 0.1g which makes it good for 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-17 215953.jpg" alt=""><figcaption></figcaption></figure>
 
+## Serial connection
+
 This model also features a way to get its data to a computer, but I haven't tried that yet.
 
+## Programmatically getting the pressure data to a PC
+
+Tablet expert Kuuube, has provided some sample code to read the data from the scale into a PC using Python. See the github project here: [https://github.com/Kuuuube/Misc\_Scripts/tree/main/scripts\_and\_programs/us\_solid\_scale\_reade](https://github.com/Kuuuube/Misc\_Scripts/tree/main/scripts\_and\_programs/us\_solid\_scale\_reade)&#x20;
+
+&#x20;
