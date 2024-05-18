@@ -6,7 +6,10 @@ With a little care and light maintenance your tablet will keep working for a lon
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
-Pens are the most sensitive component because they have some small parts and some moving parts. A fall onto a floor - especially if it hits the nib directly - can completely break the internals of your pen. The impact can make the pen completely non-functional or make it stop working in specific ways.
+Pens are the most sensitive component because they have some small parts and some moving parts. A fall onto a floor can damage your pen:
+
+* The can completely break the internals of your pen. Your pressure may be less sensitive, stuck at a certain pressure value for example either 0% pressure or 100% pressure , have sudden changes in its pressure profile.&#x20;
+* The nib can be broken and make it be stuck inside the pen and very hard to remove
 
 ## <mark style="color:red;">Dop not place excessive pressure on your pen tip!</mark>
 
@@ -33,7 +36,7 @@ Periodically, clean your tablet. Some people recommend lightly cleaning your pen
 
 ## Storing pen safely
 
-Store your pens so that the nib is not experiencing constant pressure. Some tablet users suggest that if the nib has a constant pressure applied to it, over time the pressure could damage the pressure sensor.&#x20;
+In general store your pens so that you avoid pressure on your nibs. More here: [**Storing your pen**](storing-your-pen.md).
 
 ## Surface wear
 

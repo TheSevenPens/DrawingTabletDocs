@@ -41,6 +41,7 @@
     * [Cleaning a drawing tablet](guides/caring-for-your-tablet/cleaning-a-drawing-tablet.md)
     * [Removing a nib](guides/caring-for-your-tablet/removing-the-nib-from-a-pen.md)
     * [Removing a broken nib](guides/caring-for-your-tablet/removing-a-broken-nib.md)
+    * [Storing your pen](guides/caring-for-your-tablet/storing-your-pen.md)
     * [Surface wear on pen tablets](guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
     * [Surface wear on pen displays](guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)
     * [False scratches](guides/caring-for-your-tablet/false-scratches.md)
