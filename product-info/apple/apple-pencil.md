@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iapd compatibility)
+* [product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iPad compatibility)
 
 ## Quick comparison
 
