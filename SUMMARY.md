@@ -245,6 +245,8 @@
   * [Troubleshoot pen acting like a mouse](troubleshooting/troubleshoot-pen-acting-like-a-mouse.md)
 * [Product info](product-info/README.md)
   * [Apple](product-info/apple/README.md)
+    * [Apple iPad](product-info/apple/apple-ipad.md)
+    * [Apple Pencil](product-info/apple/apple-pencil.md)
     * [7P notes: Apple iPad](product-info/apple/7p-notes-apple-ipad.md)
     * [7P notes: Apple iPad versus drawing tablets](product-info/apple/7p-notes-apple-ipad-versus-drawing-tablets.md)
     * [7P notes: Apple iPad versus Samsung Galaxy Tab S](product-info/apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)
