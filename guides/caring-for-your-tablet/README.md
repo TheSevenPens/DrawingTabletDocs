@@ -47,6 +47,10 @@ The surface of your tablet will be in contact with your pen, that contact and th
 
 There are options to protect the surface from damage. See: [**protective sheets**](../../accessories/surface-protectors/).
 
+## Protection during transport
+
+If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../accessories/protective-cases.md).
+
 ## Maintain your nibs
 
 Monitor your nibs and replace then when they are getting too worn down. Nibs that are worn down to flat surface may be scratching up your tablet. See more here: [**Nib wear**](nib-wear.md)
