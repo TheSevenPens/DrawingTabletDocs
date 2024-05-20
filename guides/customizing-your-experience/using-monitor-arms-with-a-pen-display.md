@@ -65,6 +65,7 @@ If you want to have ZERO wobble you need to use a stand with your pen display.
 
 * There's a write up on using tablets that includes a section on a North Bayou arm here: [https://www.asianjoyco.com/resources-tutorials/digital-sculpting-tools](https://www.asianjoyco.com/resources-tutorials/digital-sculpting-tools)&#x20;
 * [David Zhang - $25 vs. $300 Monitor Arm - What Stands Do I Recommend?](https://www.youtube.com/watch?v=\_\_K4V8pFhf4) 2019/10/25&#x20;
+* [/r/huion - Is there a way to attach the Huion Kamvas 16 2021 to a monitor arm?](https://www.reddit.com/r/huion/comments/oygb83/is\_there\_a\_way\_to\_attach\_the\_huion\_kamvas\_16\_2021/) 2021/08/05&#x20;
 
 
 
