@@ -3,6 +3,7 @@
 ## Overview
 
 * [product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iPad compatibility)
+* [Adam Duff - Apple Pencil Hover Is a Big Deal For Artists](https://www.youtube.com/watch?v=ZpcKfipVy24) 2022/11/01
 
 ## Core feature comparison
 
