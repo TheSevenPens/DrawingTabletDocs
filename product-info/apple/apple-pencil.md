@@ -4,9 +4,9 @@
 
 * [product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iPad compatibility)
 
-## Quick comparison
+## Core feature comparison
 
-<table data-header-hidden><thead><tr><th width="157"></th><th width="140"></th><th width="124"></th><th width="134"></th><th></th></tr></thead><tbody><tr><td></td><td>Apple Pencil GEN1</td><td>Apple Pencil GEN2</td><td>Apple Pencil USB-C</td><td>Apple Pencil Pro</td></tr><tr><td>Pressure</td><td>YES</td><td>YES</td><td>NO</td><td>YES</td></tr><tr><td>Tilt</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr><tr><td>Barrell rotation</td><td>NO</td><td>NO</td><td>NO</td><td>YES</td></tr></tbody></table>
+<table><thead><tr><th width="194">Device</th><th width="101">Hover</th><th width="113">Pressure</th><th width="94">Tilt</th><th width="152">Barrel rotation</th></tr></thead><tbody><tr><td>Apple Pencil GEN1</td><td>NO</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil GEN2</td><td>YES</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil USB-C</td><td>YES</td><td>NO</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil Pro</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr></tbody></table>
 
 ## Apple Pencil GEN1
 
@@ -24,3 +24,7 @@
 ## Apple Pencil Pro
 
 * [iFixit - iPad Pro 13" Teardown and Apple Pencil Pro Destruction](https://www.youtube.com/watch?v=V8oN2CjJeoE) 2024/05/18&#x20;
+* [Adam Duff - M4 iPad Pro & Apple Pencil Pro - PRO ARTIST Review (First Impressions)](https://www.youtube.com/watch?v=lIb6s8zEBLE) 2024/05/20
+
+
+
