@@ -6,7 +6,7 @@ The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen di
 
 <figure><img src="../.gitbook/assets/PXL_20221202_033015550.MP smaller.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
 
-What it means:  The "NO SIGNAL" message tells you that the pen display is not receiving a display signal from the computer.&#x20;
+What it means:  The "NO SIGNAL" message tells you that the pen display is not receiving a display signal from the computer. Commonly when people encounter the NO SIGNAL problem, they will notice that their pen continues to work on the tablet, even though they can't see anything.
 
 ## About this guide
 
