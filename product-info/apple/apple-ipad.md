@@ -17,8 +17,11 @@
 * [MobileTechReview - Apple M4 iPad Pro (2024)](https://www.youtube.com/watch?v=Wl7292aOPRA) Review - 2024/05/18
 *   [Teoh on Tech - Artist Review: M4 iPad Pro & Apple Pencil Pro](https://www.youtube.com/watch?v=guttCuXV8bA) - 2024/05/21
 
-    \
 
+
+## 2024 iPad Air
+
+* [Brad Colbow 2024 iPad Air Review](https://www.youtube.com/watch?v=7l0eI3FQc60) 2024/05/21
 
 
 
