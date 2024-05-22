@@ -2,9 +2,17 @@
 
 ## Overview
 
-Pen computers are drawing tablets with screens that you can use without being attached to a computer or a source of power. Essentially they are laptops that work with an EMR pen.
+Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer or a source of power and that run a traditional desktop OS. (All pen computers run Windows)  Essentially they are laptops that work with an EMR pen.
 
 Even though some people love using pen computers, I do not in general recommend buying one.
+
+**Examples**
+
+* Microsoft Surface Pro (..7,8,9,10,etc)
+* Huion Kamvas Studio
+* Wacom Mobile Studio Pro
+
+
 
 ## Cost
 
@@ -36,5 +44,10 @@ You cannot take these devices into a local retail store for the tablet manufactu
 
 ## Alternatives
 
-Instead of pen computers, I recommend looking at alternative devices. More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations.md)
+Instead of pen computers, I recommend looking at alternative devices such as:
+
+* Apple iPad Pro with Apple Pencil
+* Samsung Galaxy Tab S series tablets
+
+More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations.md)
 
