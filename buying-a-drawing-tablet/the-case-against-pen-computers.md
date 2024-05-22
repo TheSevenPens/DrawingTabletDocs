@@ -2,9 +2,15 @@
 
 ## Overview
 
-Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer or a source of power and that run a traditional desktop OS. (All pen computers run Windows)  Essentially they are laptops that work with an EMR pen.
+Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially they are laptops that work with an EMR pen.
 
-Even though some people love using pen computers, I do not in general recommend buying one.
+Even though some people love using pen computers, **I do not in general recommend buying one**.
+
+Key characteristics of a pen computer:
+
+* Run a desktop OS - these are intended to be full-fledged personal computers. As of 2023, all pen computers run Windows.
+* Have a battery - because they must be run without being connected to a source of power
+* Pen tech - It varies. Some use EMR, some use MPP, some use AES.
 
 **Examples**
 
@@ -12,7 +18,14 @@ Even though some people love using pen computers, I do not in general recommend 
 * Huion Kamvas Studio
 * Wacom Mobile Studio Pro
 
+## Alternatives to pen computers
 
+Instead of pen computers, I recommend looking at mobile devices that support pens. These are devices such as:
+
+* Apple iPad Pro with the Apple Pencil
+* Samsung Galaxy Tab S series tablets that use the Samsung S pen
+
+More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations.md)
 
 ## Cost
 
@@ -41,13 +54,4 @@ As with most laptops and all-in-one systems a pen display is typically not inten
 If you need to have the pen computer repaired by the manufacturer. You are going to find that both the process is difficult and the cost is extraordinarily high.
 
 You cannot take these devices into a local retail store for the tablet manufacturer to take a look at. You'll have to send the pen computer back to the manufacturer and you will have to pay for the cost of shipping. And the repair cost can be as expensive as getting another laptop.
-
-## Alternatives
-
-Instead of pen computers, I recommend looking at alternative devices such as:
-
-* Apple iPad Pro with Apple Pencil
-* Samsung Galaxy Tab S series tablets
-
-More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations.md)
 
