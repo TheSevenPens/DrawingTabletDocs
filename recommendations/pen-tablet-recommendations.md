@@ -31,7 +31,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 ## $300 to $500
 
-* LARGE [**Wacom Intuos Pro Large**](../product-info/wacom/wacom-intuos-pro/) (PTH-860) $500 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-large-pth-860.md))
+* LARGE [**Wacom Intuos Pro Large**](../product-info/wacom/wacom-intuos-pro/) (PTH-860) $500 ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60.md))
 
 ## Change log
 
