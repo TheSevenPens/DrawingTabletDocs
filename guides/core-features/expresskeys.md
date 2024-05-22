@@ -51,17 +51,14 @@ For example you can set a button to
 
 ### Buttons
 
-* Undo
-* Redo
-* Zoom In
-* Zoom Out
-* Zoom to 100%
-* Zoom to Fit
-* Increase brush size
-* Decrease brush size
-* Rotate canvas
-* Reset canvas rotation
+* Undo | Redo
+* Zoom In | Out | to 100% | Zoom to Fit
+* Increase | Decrease brush size
+* Increase | Decrease burhs opacity
+* Rotate Left | Right | Reset to 0 degrees
 * Switch between tools (brush, eyedropper, etc.)
+* Select All | None | Invert | Lasso selection | color similarity selection
+* Go to layer above | below
 
 ### Rotary dials
 
@@ -71,6 +68,8 @@ These are great for "paired" tasks
 * Increase / Decrease brush size
 * Increase / Decrease brush opacity
 * Rotate canvas
+
+Some rotary dials support turning as well as a third press action. This is useful for a situations where there are three related actions such as rotate right, ritate left, and reset rotation.
 
 ## Examples
 
