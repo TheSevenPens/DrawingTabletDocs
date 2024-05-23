@@ -9,10 +9,10 @@
 * [Brad Colbow - Review: XP Pen Artist 12 Drawing Tablet](https://www.youtube.com/watch?v=cQkSqfHtCCg) 2018/10/8
 * [Nadiaxel - XP-PEN Artist 12 // A CHEAPER display tablet【 Unboxing and Testing 】](https://www.youtube.com/watch?v=0Kxj8YMB7e0) 2018/10/4
 
-## XP-Pen Artist 13.3 Pro
+## XP-Pen Artist 13.3 Pro / Artist 12 Pro
 
 * [Brad Colbow - XP-Pen Artist 13.3 Pro and 12 Pro Review](https://www.youtube.com/watch?v=gOFrikC1Ucg) 2019/09/23
-* [Teoh Yi Chie - XP-Pen Artist 12 Pro and 13.3 Pro - Unboxing, Quick Drawing Test 2019/09/02](https://www.youtube.com/watch?v=GpYN5o19rRo)&#x20;
+* [Teoh Yi Chie - XP-Pen Artist 12 Pro and 13.3 Pro - Unboxing, Quick Drawing Test](https://www.youtube.com/watch?v=GpYN5o19rRo) 2019/09/02
 
 ## XP-Pen Artist 15.6
 
@@ -43,6 +43,4 @@
 * [Marc Brunet Review of XP-Pen Artist 24 Pro](https://www.youtube.com/watch?v=ANWe6qJlLh4) 2020/06/01&#x20;
 * [Aaron Rutten Review of the XP-Pen Artist 24 Pro](https://www.youtube.com/watch?v=S9xGT6NRwEI) 2020/06/13
 * [Create Now Sleep comparison of XP-Pen Artist 24 Pro vs Huion Kamvas Pro 24 vs Cintiq Pro 24](https://www.youtube.com/watch?v=OcL8d7O9ppg)  2021/02/18
-*
 
-##
