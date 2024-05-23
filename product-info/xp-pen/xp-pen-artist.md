@@ -9,6 +9,11 @@
 * [Brad Colbow - Review: XP Pen Artist 12 Drawing Tablet](https://www.youtube.com/watch?v=cQkSqfHtCCg) 2018/10/8
 * [Nadiaxel - XP-PEN Artist 12 // A CHEAPER display tablet【 Unboxing and Testing 】](https://www.youtube.com/watch?v=0Kxj8YMB7e0) 2018/10/4
 
+## XP-Pen Artist 13.3 Pro
+
+* [Brad Colbow - XP-Pen Artist 13.3 Pro and 12 Pro Review](https://www.youtube.com/watch?v=gOFrikC1Ucg) 2019/09/23
+* [Teoh Yi Chie - XP-Pen Artist 12 Pro and 13.3 Pro - Unboxing, Quick Drawing Test 2019/09/02](https://www.youtube.com/watch?v=GpYN5o19rRo)&#x20;
+
 ## XP-Pen Artist 15.6
 
 * [https://www.xp-pen.com/store/buy/artist-15-6.html](https://www.xp-pen.com/store/buy/artist-15-6.html) &#x20;
