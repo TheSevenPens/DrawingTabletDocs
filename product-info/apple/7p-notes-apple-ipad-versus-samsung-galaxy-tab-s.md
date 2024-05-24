@@ -81,3 +81,7 @@ Don't lose your pen! They aren't cheap to replace. The Apple Pencil is very expe
 * Apple Pencil 2: $130 USD
 * Samsung S Pen for Galaxy Tab: $50&#x20;
 
+## Other resources
+
+* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0\_CEWImyVhA) (artist comparison) 2024/05/23 &#x20;
+
