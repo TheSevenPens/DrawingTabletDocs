@@ -8,6 +8,12 @@ If this happens with a **pen tablet (a screenless tablet)**, then essentially th
 
 If this happens with a **pen display (a screen tablet)**, usually the display part of the tablet works fine but you won't be able to use the pen with the tablet. In other words, now the pen display works only like a monitor.
 
+
+
+{% hint style="info" %}
+I want to be candid with you. If this problem isn't due to some simple cabling problems, usually it is very difficult to diagnose and solve. I have never discovered a consistent solution or even a real root cause to this problem.
+{% endhint %}
+
 ## Driver versus operating system
 
 What makes this issue confusing is that sometimes your computer's operating system may know that a device is connected even if the tablet driver does not. For example, your operating system may "beep" when you plug the tablet in. And even may list it as a device, even though the driver insists nothing is connected"
