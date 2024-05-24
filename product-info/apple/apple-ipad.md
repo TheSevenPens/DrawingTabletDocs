@@ -17,6 +17,7 @@
 * [MobileTechReview - Apple M4 iPad Pro (2024)](https://www.youtube.com/watch?v=Wl7292aOPRA) Review - 2024/05/18
 * [Teoh on Tech - Artist Review: M4 iPad Pro & Apple Pencil Pro](https://www.youtube.com/watch?v=guttCuXV8bA) - 2024/05/21
 * [Chris Piascik - Drawing on iPad Pro w/ NANO TEXTURE: Everything You Need to Know](https://www.youtube.com/watch?v=KEq2Ybb8PKA) - 2024/05/21
+* [Brad Colbow - Nano Texture iPad vs Paperlike and Alternatives](https://www.youtube.com/watch?v=A4NUDHRVKbM) - 2024/05/24&#x20;
 
 ## 2024 iPad Air
 
