@@ -5,6 +5,7 @@
 * Released: 2024/05/08
 * Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)&#x20;
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-xencelabs-pen-display-16-lph1612u-a.md)   &#x20;
+* [The Honest Laborers Review - Xencelabs 16-inch 4K Pen Display Hands-On and Test](https://www.youtube.com/watch?v=FCuVrJMncKI) - 2024/05/23
 
 ## Xencelabs Pen Display 24 (LPH2412U-A)
 
