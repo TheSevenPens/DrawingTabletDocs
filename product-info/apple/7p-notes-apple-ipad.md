@@ -39,18 +39,24 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 
 ### Apps
 
-Some popular and excellent drawing applications are avilable on the iPad
+Some popular and excellent drawing applications are available on the iPad
 
-* ProCreate
-* ClipStudioPaint
-* Adobe Fresco
-* Ibis Paint
+* [ProCreate](../../applications/procreate.md)
+* [Clip Studio Paint](../../applications/clip-studio-paint.md)
+* [Adobe Fresco](../../applications/fresco.md)
+* [Ibis Paint](../../applications/ibis-paint.md)
+
+You can find a more complete list here: [**applications**](../../applications/).
 
 ### Surface texture
 
-* When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".&#x20;
-* Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
-* For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/surface-protectors/)&#x20;
+* There are two kinds of texture of iPads
+  * Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".  Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
+  * Starting in 2024, some Apple iPad models can be ordered with a "Nano texture". The general consensus is, this texture only provides a very slight grip for the pen and is in general still slippery. It's big bonus seems to the reduction of glare and the cost of some some loss of contrast. Based on what I read, I chose not to get the Nano Texture for my models.
+
+### Protective sheets
+
+For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/surface-protectors/). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
 
 ### Diagonal wobble
 
@@ -58,15 +64,22 @@ Noticeable diagonal wobble when drawing slowly. But this doesn't seem to hinder 
 
 ### Apple Pencil
 
-* Apple Pencil does not have buttons
-* Apple Pencil does not have an eraser&#x20;
-* Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
-* Not all iPads support the use of the Apple Pencil. See: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
+Key points about the current lineup of apple pencils.
+
+**Features**
+
+* None of the Apple Pencils have buttons
+* None of the Apple Pencils have an eraser
+* Only some of the Apple Pencils support hover (and only in combination with some iPads)&#x20;
+
+**Recommendation**
+
+If you are going to draw with an Apple Pencil I recommend you get either the Apple Pencil GEN2, or the Apple Pencil Pro. Keep in mind you also have to have an iPad which is compatible with that Apple Pencil model.
 
 ## Pencil support
 
 * Since around 2015, iPads have supported an Apple pencil. So ensure that the iPad you are purchasing supports the use of a pencil
-* List of iPad Models that support the Apple pencil: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
+* Not all iPads support the use of the Apple Pencil. List of iPad Models that support the Apple pencil: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
 
 ## Pencil versions
 

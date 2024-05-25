@@ -2,7 +2,10 @@
 
 ## General
 
-* [<mark style="background-color:green;">**My notes on Apple iPad**</mark>  ](7p-notes-apple-ipad.md)
+* I have an extensive series of notes on how my thoughts about using the iPad and comparing it to other devices for drawing.
+  * [<mark style="background-color:green;">**7P notes: Apple iPad**</mark>](7p-notes-apple-ipad.md)&#x20;
+  * [**7P notes: Apple iPad versus drawing tablets**](7p-notes-apple-ipad-versus-drawing-tablets.md)
+  * [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 * Information on [**Apple Pencil**](apple-pencil.md)&#x20;
 
 ## 2022 M2 Apple iPad Pro
