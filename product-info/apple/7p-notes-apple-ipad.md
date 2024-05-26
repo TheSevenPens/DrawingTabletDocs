@@ -52,9 +52,7 @@ You can find a more complete list here: [**applications**](../../applications/).
 
 * There are two kinds of texture of iPads
   * Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".  Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
-  * Starting in 2024, some Apple iPad models can be ordered with a "Nano texture". The general consensus is, this texture only provides a very slight grip for the pen and is in general still slippery. It's big bonus seems to the reduction of glare and the cost of some some loss of contrast. Based on what I read, I chose not to get the Nano Texture for my models.
-
-### Protective sheets
+  * Starting in 2024, some Apple iPad models can be ordered with a "Nano texture".  I don't have any direct experience with this texture.
 
 For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessories/surface-protectors/). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
 
