@@ -4,17 +4,19 @@
 
 Ideally you would be able to connect your pen display to your computer with a single USB C cable. And that cable would provide display signal as well as enough power for the pen display. You should understand
 
+## Considerations
+
 Key things to keep in mind:
 
 \-        Not all pen displays support this configuration - even if they do have USB C ports on the tablet
 
-\-        not all computers are capable of sending power and display signal over their USB C ports
+\-        Not all computers are capable of sending power and display signal over their USB C ports
 
-\-        not all USB C cables can be used for this purpose.&#x20;
+\-        Not all USB C cables can be used for this purpose.&#x20;
 
-So you have to do your research. Do not buy a pen display assuming that a single USB C cable connection will work.
+So, you have to do your research and plan carefgully. Do not buy a pen display assuming that a single USB C cable connection will work.
 
-## Check with your manufacturer
+## Verify with your manufacturer
 
 The first thing you should do is verify whether the tablet supports a single USB C connection.
 
@@ -27,13 +29,13 @@ You can do this verification easily:
 
 When doing this research it will simplify things if you know the exact model number of the tablet and not just its name.
 
-## Key requirements
+## Summary of requirements
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20240527_105643.png" alt=""><figcaption></figcaption></figure>
 
-## **DP alt mode support**
+## **Display signal with DP alt mode support**
 
-To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md)&#x20;
+Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md).
 
 ## Power support
 
@@ -52,6 +54,10 @@ To find out if you ports and cables support DP alt mode, read this**:** [USB-C D
 I recommend you get the USB-C cables the manufacturer provides for use with a single USB-C cable configuration - primarily because these are known to work with the device and will fit into the well that contains the port.
 
 I sometimes use thunderbolt 3 cables, but sometimes have to shave off a bit of plastic from the end to make them fit into the pen display.&#x20;
+
+## Thunderbolt 3/4 cables
+
+To keep it simple, I often just use Thunderbolt 3 or Thunderbolt 4 cables since these are USB-C cables that are defined to support DP alt mode and enough power.&#x20;
 
 ## Testing setup&#x20;
 
