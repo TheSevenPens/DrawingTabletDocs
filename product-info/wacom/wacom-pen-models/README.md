@@ -1,23 +1,15 @@
 # Wacom pens
 
-This a **very** incomplete list, but does cover many pens in use for the past few years.
+## Overview
 
-To find which pen is compatible with a tablet, see: [**Wacom pen compatibility**](../wacom-pen-compatibility.md).&#x20;
+Here you can find a list of common Wacom pens and some compatibility notes.
 
-## **Consumer pens**
+## **List of Wacom pens**
 
-* Wacom One pen GEN1 (CP-913)
-  * [Teoh on Tech - Wacom One pen vs other EMR pens (artist review)](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07
-* Wacom One pen GEN2 (CP-923)
-  * [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-one-pen-gen-2.md) &#x20;
-* 4K pen (LP-1100K)
-  * For use with CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL
-  * [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-2k-pen-lp-190k.md) &#x20;
+* Wacom One pen GEN1 (CP-913)&#x20;
+* Wacom One pen GEN2 (CP-923) [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-one-pen-gen-2.md) &#x20;
+* 4K pen (LP-1100K) [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-2k-pen-lp-190k.md) &#x20;
 * 2K pen (LP-190K)&#x20;
-  * For use with CTL-472, CTL-672
-
-## **Professional pens**
-
 * Pro Pen 3 (ACP-50000DZ) - [<mark style="background-color:green;">**my notes on this pen**</mark>](7p-notes-wacom-pro-pen-3.md)  &#x20;
 * Pro Pen 2 (KP-504E)  - [<mark style="background-color:green;">**my notes on this pen**</mark>](7p-notes-pro-pen-2-kp-504e.md)&#x20;
 * Pro Pen 3D (KP-505)
