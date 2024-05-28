@@ -4,6 +4,12 @@
 
 Besides drawing, pens have varying support for specifically erasing things. Typically this is done either with an eraser on the pen or using the pen buttons to perform the erasing.
 
+Below you can see the nib and the eraser for the Wacom Pro Pen 2 (KP-504E). As you can see the nib is quite a bit larger than the nib.
+
+The eraser is also pressure sensitive and retracts into the pen. The eraser has a much bigger retration distance than the nib.
+
+<figure><img src="../../.gitbook/assets/Wacom KP-504E nib vs eraser.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Pens with erasers
 
 **Some** EMR pens have an eraser at the other end of the nib. This eraser is essentially just a thicker nib.
