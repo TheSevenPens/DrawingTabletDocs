@@ -8,11 +8,25 @@ There are several options for stands.
 
 ## VESA-attached stands&#x20;
 
+Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen Artist 22 Plus. It is my favorite VESA-attached stand because the wide lever is easy to reach and operate. &#x20;
+
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="188"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20240528_113803.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand </p></figcaption></figure>
 
 </div>
+
+
+
+Here is another stand from Huion. This was works fine, though I find its level a little more diffucult to find and use.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure>
+
+</div>
+
+
 
 These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable. For example, I use the **Huion ST100A** with my Wacom Cintiq Pro 27.
 
@@ -28,7 +42,7 @@ Here's a good example for Parblo
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="188"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
 
 </div>
 
