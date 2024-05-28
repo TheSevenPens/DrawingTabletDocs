@@ -12,18 +12,13 @@ The eraser is also pressure sensitive and retracts into the pen. The eraser has 
 
 ## Pens with erasers
 
-**Some** EMR pens have an eraser at the other end of the nib. This eraser is essentially just a thicker nib.
+Erasers are relatively uncommon for EMR pens.
 
-* **Huion** has two pens with an eraser:
-  * Huion PW600
-  * Huion PW600S
-* **XP-Pen** has two models with an eraser:
-  * XP-Pen P06 [https://www.xp-pen.com/product/75.html](https://www.xp-pen.com/product/75.html)
-  * XP-Pen X3 Pro Smart Chip Stylus [https://www.xp-pen.com/product/x3-pro-smart-chip-stylus.html](https://www.xp-pen.com/product/x3-pro-smart-chip-stylus.html)&#x20;
-* **Wacom** - Many Wacom professional pens have an eraser. Some examples&#x20;
-  * Wacom Pro Pen 2 (KP-504E) [https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html](https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html)&#x20;
-  * Wacom Pro Pen Slim (KP-301E) [https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html](https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html)
-  * Wacom's latest pro pen - Pro Pen 3 - no longer features an eraser.
+| Brand  | Pens                                                                                                                                                                |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wacom  | <ul><li>Wacom Pro Pen 2 (KP-504E) </li><li>Wacom Pro Pen Slim (KP-301E) </li><li>NOTE: Wacom's latest pro pen - Pro Pen 3 - no longer features an eraser.</li></ul> |
+| Huion  | <ul><li>Huion PW600</li><li>Huion PW600S</li></ul>                                                                                                                  |
+| XP-Pen | <p></p><ul><li>XP-Pen P06 </li><li>XP-Pen X3 Pro  </li></ul>                                                                                                        |
 
 ## App support for erasers
 
