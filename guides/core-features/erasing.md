@@ -8,8 +8,10 @@ Besides drawing, pens have varying support for specifically erasing things. Typi
 
 **Some** EMR pens have an eraser at the other end of the nib. This eraser is essentially just a thicker nib.
 
-* **Huion** - As far as I know, none of the Huion pens have an eraser on the end.
-* **XP-Pen** - XP-Pen has two models with an eraser:
+* **Huion** has two pens with an eraser:
+  * Huion PW600
+  * Huion PW600S
+* **XP-Pen** has two models with an eraser:
   * XP-Pen P06 [https://www.xp-pen.com/product/75.html](https://www.xp-pen.com/product/75.html)
   * XP-Pen X3 Pro Smart Chip Stylus [https://www.xp-pen.com/product/x3-pro-smart-chip-stylus.html](https://www.xp-pen.com/product/x3-pro-smart-chip-stylus.html)&#x20;
 * **Wacom** - Many Wacom professional pens have an eraser. Some examples&#x20;
