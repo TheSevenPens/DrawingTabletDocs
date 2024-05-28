@@ -1,5 +1,9 @@
 # Erasing
 
+## Overview
+
+Besides drawing, pens have varying support for specifically erasing things. Typically this is done either with an eraser on the pen or using the pen buttons to perform the erasing.
+
 ## Pens with erasers
 
 **Some** EMR pens have an eraser at the other end of the nib. This eraser is essentially just a thicker nib.
@@ -11,6 +15,7 @@
 * **Wacom** - Many Wacom professional pens have an eraser. Some examples&#x20;
   * Wacom Pro Pen 2 (KP-504E) [https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html](https://estore.wacom.com/en-US/wacom-pro-pen-2-with-pen-case-kp504e.html)&#x20;
   * Wacom Pro Pen Slim (KP-301E) [https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html](https://estore.wacom.com/en-us/wacom-pro-pen-slim-kp301e00dz.html)
+  * Wacom's latest pro pen - Pro Pen 3 - no longer features an eraser.
 
 ## App support for erasers
 
