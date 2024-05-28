@@ -46,6 +46,8 @@ YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in
 
 **Corner accuracy** VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corners.
 
+**Tilt compensation** - GOOD. Pointer stays close to physical tip of the pen as pen moves through supported tilt range.
+
 ## **Diagonal wobble**
 
 RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it.
