@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [About TheSevenPens](about-thesevenpens/README.md)
   * [My tablet setups](about-thesevenpens/my-tablet-setups.md)
+  * [Drawing Tablet discord server](about-thesevenpens/drawing-tablet-discord-server.md)
   * [My drawing tablets](about-thesevenpens/my-tablets.md)
 * [Frequently asked questions](faq.md)
 * [Basics](basics/README.md)

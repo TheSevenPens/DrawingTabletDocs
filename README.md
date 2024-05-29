@@ -26,6 +26,8 @@ The most popular topics here:&#x20;
 
 If you have questions or comments contact me at [**thesevenpens@outlook.com**](https://twitter.com/TheSevenPens)  &#x20;
 
+Consider joining my drawing tablet discord: [**Drawing Tablet discord server**](about-thesevenpens/drawing-tablet-discord-server.md)
+
 {% hint style="info" %}
 This site is a personal project and has no affiliation or relationship with any tablet manufacturer. The site also has: no ads, no cookies, no user behavior tracking, no affiliate links, no store.
 {% endhint %}
