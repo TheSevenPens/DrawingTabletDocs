@@ -6,6 +6,8 @@ Also called "Matte film", anti-glare film glass is one of two popular treatments
 
 This film is affixed to the glass underneath with some optically clear adhesive.
 
+## Benefits
+
 Anti-glare film provides two benefits
 
 * It reduces glare and reflections due to light hitting the tablet. The film does this my scattering that light.
