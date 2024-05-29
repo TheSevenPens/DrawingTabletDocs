@@ -70,6 +70,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
 * Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md).
+* **Display Panel tech** - There are many different display panel technologies used in pen displays. These include IPS, TN, VA, OLED. IPS panels represent the vast majority of display panels used in pen displays. I recommend going with IPS panels. As of May 2024, we seen a few OLED-base displays but we don't know yet how OLED will work in terms on longevity compared to IPS.
 
 ## Connections & cabling
 
