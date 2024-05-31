@@ -28,8 +28,6 @@ They can also be useful in helping with palm rejection with tablets that support
 
 </div>
 
-Some people report this glave may be on little smaller than they expected.
-
 ### XP-Pen AC08 S/M/L Artist Drawing Glove
 
 This one is available in three sizes to better fit your needs.
