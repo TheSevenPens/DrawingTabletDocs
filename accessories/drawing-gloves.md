@@ -14,11 +14,11 @@ They can also be useful in helping with palm rejection with tablets that support
 
 ## Examples
 
-Wacom drawing glove (ACK4472501Z)
+### Wacom drawing glove (ACK4472501Z)
 
 <figure><img src="../.gitbook/assets/wacom_dg_1sku_wglove_final_1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Huion drawing glove
+### Huion drawing glove
 
 
 
@@ -27,6 +27,14 @@ Huion drawing glove
 <figure><img src="../.gitbook/assets/Huion drawing glove.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+Some people report this glave may be on little smaller than they expected.
+
+### XP-Pen AC08 S/M/L Artist Drawing Glove
+
+This one is available in three sizes to better fit your needs.
+
+<figure><img src="../.gitbook/assets/xp-pen-ax08-drawing glove.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
