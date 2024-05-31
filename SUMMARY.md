@@ -388,6 +388,7 @@
   * [Measuring pressure](process/measuring-pressure.md)
   * [Measuring display sharpness](process/measuring-display-sharpness.md)
   * [Measuring diagonal wobble](process/measuring-diagonal-wobble.md)
+  * [Microscope](process/microscope.md)
 * [Reference](reference/README.md)
   * [Resolution info](misc/resolution-info.md)
   * [Aspect ratio math](process/aspect-ratio-math.md)
