@@ -8,15 +8,19 @@ For more general information about pen pressure go here: [**pen pressure**](pen-
 
 ## Landscape
 
+Consider this diagram to be a DRAFT. it will evolve as I learn more.
+
+I think the pressure categories here (EXCELLENT, VERY GOOD, etc) are reasonable.
+
+But be aware, that for a specific pen there can be significant differences for IAF and max pressure for individual units.&#x20;
+
 <figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 
 ## Pressure data and sources
 
-The collected measurements for pen pressure can be found here: [https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI](https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI)&#x20;
-
 * Manufacturers
 * From tablet experts such as Kuuube
-* And my own measurements
+* And my own measurements:  [https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI](https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI)
 
 ## **Considerations**
 
