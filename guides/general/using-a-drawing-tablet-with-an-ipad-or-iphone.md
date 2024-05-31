@@ -11,7 +11,7 @@ The summary is:
 
 
 
-## Pen tablets with iOS devices
+## Pen tablets&#x20;
 
 In some **very specific cases** it is possible to use a pen tablet (a screenless tablet) with an iOS device.
 
@@ -33,4 +33,13 @@ Read more about Ibis Paint and pen tablet at these links:
 * [https://support.huion.com/en/support/solutions/articles/44002383197-which-models-can-support-ios-ipados-by-using-ibispaint](https://support.huion.com/en/support/solutions/articles/44002383197-which-models-can-support-ios-ipados-by-using-ibispaint) &#x20;
 * [https://support.huion.com/en/support/solutions/articles/44002383205-how-to-set-pen-pressure-in-ibispaint-in-ios-ipados](https://support.huion.com/en/support/solutions/articles/44002383205-how-to-set-pen-pressure-in-ibispaint-in-ios-ipados)&#x20;
 
-##
+## Pen displays
+
+Currently I don't know of any way to use a pen display with an iPad.
+
+For example, if you connect a Wacom Cintiq Pro 22 to an M4 iPad here is what happens:
+
+* The iPad will treat the pen display just like a normal monitor
+* Using the pen on the pen display does nothing
+* Even though this pen display supports touch, if you put your fingers on it nothing happens.
+
