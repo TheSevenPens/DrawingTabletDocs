@@ -57,6 +57,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**Blender**](blender.md) (Linux, MacOS, Windows, BSD) <mark style="background-color:purple;">**FREE**</mark>
 * **Spline** - [https://spline.design/](https://spline.design/) - (web)
 * [**https://voxelcanvas.me/**](https://voxelcanvas.me/) - (web)
+* **nomadsculpt** - [https://nomadsculpt.com/](https://nomadsculpt.com/)  (iOS, Android)
 
 ### Photo editing
 
