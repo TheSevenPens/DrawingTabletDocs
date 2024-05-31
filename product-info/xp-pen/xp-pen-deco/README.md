@@ -1,5 +1,10 @@
 # XP-Pen Deco
 
+## XP-Pen Deco Mini 7
+
+* [Brad Colbow - XP-Pen Deco Mini 7W Unboxing & Impressions](https://www.youtube.com/watch?v=H3Z5IQlV5uE) 2021/02/08&#x20;
+* [Teoh Yi Chie - Review: XP-Pen Deco Mini 7 WIRELESS graphics tablet](https://www.youtube.com/watch?v=8sLkcd6TtAU) 2021/03/25
+
 ## XP-Pen Deco 01 V2
 
 * [Brad Colbow review of XP-Pen Deco 01 V2](https://youtu.be/0VaH-UTRL7A) 2022/02/16
