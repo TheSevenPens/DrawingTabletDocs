@@ -10,6 +10,7 @@
 
 ## 2024 M4 Apple iPad Pro
 
+* [Brad Colbow - 2024 iPad Pro Review (Snyder Cut)](https://www.youtube.com/watch?v=gL\_lRJqUfV4) 2024/05/31
 * [Adam Duff - M4 iPad Pro & Apple Pencil Pro - PRO ARTIST Review (First Impressions)](https://www.youtube.com/watch?v=lIb6s8zEBLE) 2024/05/20
 * [Dave2D - My 2024 iPad Pro Review](https://www.youtube.com/watch?v=bG2N4a0ir3A) - 2024/05/13
 * [MobileTechReview - Apple M4 iPad Pro (2024)](https://www.youtube.com/watch?v=Wl7292aOPRA) Review - 2024/05/18
