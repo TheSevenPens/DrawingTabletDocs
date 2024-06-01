@@ -30,7 +30,7 @@ There are many options to protect the surface of your tablet from scratches, etc
 
 ### iPad options
 
-* Paperlike for iPad [https://paperlike.com/products/paperlike-for-ipad](https://paperlike.com/products/paperlike-for-ipad)&#x20;
+* [Paperlike for iPad](paperlike-for-ipad.md) &#x20;
 * Bellemond
 
 ### DIY protection

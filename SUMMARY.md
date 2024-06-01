@@ -369,6 +369,7 @@
     * [Foxbox covers](accessories/surface-protectors/foxbox-covers.md)
     * [Photodon screen protectors](accessories/surface-protectors/photodon-screen-protectors.md)
     * [ePlastic polycarbonate sheets (velvet lexan)](accessories/surface-protectors/eplastic-polycarbonate-sheets-velvet-lexan.md)
+    * [Paperlike for iPad](accessories/surface-protectors/paperlike-for-ipad.md)
   * [TourBox](accessories/tourbox/README.md)
     * [7P notes: TourBox](accessories/tourbox/7p-notes-tourbox.md)
   * [Clip Studio Tabmate](accessories/clip-studio-tabmate.md)
