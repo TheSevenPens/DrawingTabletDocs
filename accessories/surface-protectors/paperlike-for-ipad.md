@@ -17,12 +17,13 @@ Paperlike for iPad is a screen protector that adds a little extra texture to the
 
 ## Using Paperlike with drawing tablets
 
-Some people want more texture and have suggested trying paper like on drawing tablets. I cgave this a  brief test with a **pen tablet** (no screen). Here are my thoughts:
+Some people want more texture and have suggested trying paper like on drawing tablets. I gave this a  brief test with a **pen tablet**. Here are my thoughts:
 
-* it was large enough to cover the active area of an Intuos Pro medium (PTH-660)
-* It's the texture is strongly dependent on the nib material
-* for example with the Pro Pen 2 - the surface felt slightly less textured than the intuos pro standard texture.
-* with the apple pencil the texture is more apparent - the intuos pro surface feels slick but the paperlike grips the pen a lot more
-* overall I didn't find it worth it.
-* certainly I wouldn't call the feeling "like paper" its just a little more grippy on the nib
+* It's the texture is **strongly dependent on the nib material**. For example:
+  * Apple pencil - The texture is very apparent. Pencil clearly grips the surface
+  * Huion PW550 (felt nib) - a little less texture than the surface of the Huion Kamvas Pro 19
+  * Wacom Pro Pen 2 - the texture was a little less than the Intuos Pro standard texture
+  * Wacom Pro Pen 3 - the texture was a little less than the Intuos Pro standard texture
+* Overall I didn't find it worth it for pen tablets.
+* Generally: I wouldn't describe the feeling "like paper". but when working with the Apple Pencil it definitely adds a lot more grip to the surface. Unfortunately that doesn't extend to the drawing tablet pens i tried.&#x20;
 
