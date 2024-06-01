@@ -2,11 +2,18 @@
 
 ## Basics
 
-&#x20;[https://paperlike.com/products/paperlike-for-ipad](https://paperlike.com/products/paperlike-for-ipad)&#x20;
+Paperlike for iPad is a screen protector that adds a little extra texture to the surface of the iPad.
+
+* [https://paperlike.com/](https://paperlike.com/)
+* [https://paperlike.com/products/paperlike-for-ipad](https://paperlike.com/products/paperlike-for-ipad) &#x20;
 
 ## Using Paperlike with iPads
 
-I prefer not to use things on my iPads so, I don't have any comments on this.
+* [Brad Colbow - Nano Texture iPad vs Paperlike and Alternatives](https://www.youtube.com/watch?v=A4NUDHRVKbM) 2024/05/24&#x20;
+* [Brad COlbow - Trying out PaperLike iPad Screen Protectors](https://www.youtube.com/watch?v=XXHMtY23zAg) 2017/09/25
+* [Teoh Yi Chie - PaperLike review: Can a $40 Matte Screen Protector be Worth the Money?](https://www.youtube.com/watch?v=faYStZ3ipPI) 2020/08/16
+* [Teoh on Tech - iPad Matte Screen Protector Pros & Cons](https://www.youtube.com/watch?v=sd1y-dE1tMg) 2020/05/08
+* [ergojosh - Paperlike Screen Protector! - Worth it for Artists?](https://www.youtube.com/watch?v=gHUw7l2EX3s) 2019/03/17
 
 ## Using Paperlike with drawing tablets
 
