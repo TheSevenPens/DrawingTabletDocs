@@ -12,11 +12,22 @@ Primarily they are worn by people using pen displays (tablets that have a screen
 
 They can also be useful in helping with palm rejection with tablets that support touch.
 
+## Cleaning the gloves
+
+Some people just wash them as laundry. Others hand wash with a mild detergent
+
+* [r/huion - How should I wash my artist glove](https://www.reddit.com/r/huion/comments/13x8v69/how\_should\_i\_wash\_my\_artist\_glove/)? 2023/05/31&#x20;
+* [r/Arttips - Can you machine wash an art glove?](https://www.reddit.com/r/Arttips/comments/ol14k1/can\_you\_machine\_wash\_an\_art\_glove/) 2021/07/15&#x20;
+
 ## Examples
 
 ### Wacom drawing glove (ACK4472501Z)
 
-<figure><img src="../.gitbook/assets/wacom_dg_1sku_wglove_final_1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../.gitbook/assets/wacom_dg_1sku_wglove_final_1 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ### Huion drawing glove
 
@@ -24,7 +35,7 @@ They can also be useful in helping with palm rejection with tablets that support
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/Huion drawing glove.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Huion drawing glove.jpg" alt="" width="200"><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,7 +43,11 @@ They can also be useful in helping with palm rejection with tablets that support
 
 This one is available in three sizes to better fit your needs.
 
-<figure><img src="../.gitbook/assets/xp-pen-ax08-drawing glove.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../.gitbook/assets/xp-pen-ax08-drawing glove.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 
 
