@@ -1,8 +1,8 @@
-# Using monitor arms with a pen display
+# Monitor arms
 
 ## Overview
 
-This comes down to whether your pen display is VESA mountable.
+Using a monitor arm with your pen display comes down to whether your pen display is VESA mountable.
 
 * **If your pen display is VESA mountable**, you can use a VESA compatible monitor arm.
 * **If your pen display is not VESA mountable,** there are some options
@@ -12,37 +12,56 @@ This comes down to whether your pen display is VESA mountable.
 Smaller pen displays are about the size of a laptop, so you can try an arm designed to hold a laptop.
 
 Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
-![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
+![](../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
 
 Here's some creative DIY solutions:
 
 * [https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/](https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/)  &#x20;
 * [https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/](https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/)&#x20;
 
-## Wacom-specific options
 
-**Wacom Flex arm**
 
-Wacom has designed an arm for their Cintiq line called the Wacom Flex arm that is specifically designed for their product.
+## **Wacom Flex arm**
 
-**Reviews**
+Wacom has designed an arm for their Cintiq line called the Wacom Flex arm that is specifically designed for their product. Not that this arm only works with specific Cintiq models.
 
 * [MobileTechReview: Wacom Ergo Flex Arm for Cintiq Pro 24 & 32 Review](https://www.youtube.com/watch?v=iuqRv5wN2p8) Dec 17, 2018
 * [Brad Colbow - Wacom Flex Arm Review](https://www.youtube.com/watch?v=4zIKQqBeF9o) Dec 10, 2018
 
-**Wacom VESA mount**
+## **Wacom VESA mount**
 
-If you already have a arm you can use the Wacom VESA Mount for Cintiq 24 & 32 with it.
+If you already have a monitor arm you can use the Wacom VESA Mount for Cintiq 24 & 32 with it to mount those specific models.
 
-## Monitor arm options
+## Huion ST500 Desktop Arm&#x20;
 
-These are various options people have reported using.
+Huion has a monitor arm which appears to be a rebranded version of a generic monitor arm.
+
+[r/Huion - Huion ST500 Desktop Arm Review](https://www.reddit.com/r/huion/comments/1d5bin3/huion\_st500\_desktop\_arm\_review/) 2024/05/31&#x20;
+
+## North Bayou
+
+This brand comes up a lot when people mention what arms they use, but I don't have any personal experience with them.
 
 * North Bayou F100A
 * North Bayou F80
   * [https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/](https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/)
+
+## Ergotron
+
+I use this brand a lot. Further down&#x20;
+
 * Ergotron HX&#x20;
 * Ergotron LX
+
+For my larger pen displays, 24" and larger, I use the **Ergotron HX**. This is a very welld designed and rugged arm. I use it with:
+
+* &#x20;Wacom Cintiq Pro 27
+* Huion Kamvas 24 Pro 4K
+* many 32" monitors
+
+The Ergotron HX has less wobble than the **Ergotron LX**, but still has some wobble.
+
+For 22" and below I use the Ergotron LX. It's certainlyu not as rugged as the Ergotron HX, but it has been reliable and has a good range of motion.
 
 ## Wobble
 
@@ -52,14 +71,7 @@ One thing that will help reduce the wobble is if the bottom of the pen display r
 
 If you want to have ZERO wobble you need to use a stand with your pen display.
 
-## Monitor arms I use
 
-* Ergotron HX
-  * with Wacom Cintiq Pro 27
-  * with Huion Kamvas 24 Pro 4K
-  * Note: The Ergotron HX has less wobble than the Ergotron LX, but still has some wobble.
-* Ergotron LX&#x20;
-  * with Huion Kamvas 22 Plus
 
 ## Resources
 
