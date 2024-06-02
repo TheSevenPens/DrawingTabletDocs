@@ -74,11 +74,11 @@ These are the quick summary highlights. &#x20;
 
 ## Display > other
 
-* Dead pixels
-* Blacks
-* Backlight bleed
+* Dead pixels - did you notice any?
+* Backlight bleed - take photo in a darkened room
 * Display sharpness
-  * Is the pixels clear? How blurry is it compared to other pen displays?
+  * Are the pixels clear when viewed close up?&#x20;
+  * How blurry is it compared to other pen displays?
 
 ## OSD
 
@@ -92,7 +92,7 @@ These are the quick summary highlights. &#x20;
 
 ## Connections and cablings
 
-* how was the tablet connected to your computer and power
+* How was the tablet connected to your computer and power
 * Does it support single USB-cable connection
 * Is the USB-C port recessed?
 
@@ -102,7 +102,7 @@ These are the quick summary highlights. &#x20;
 
 ## VESA mounting
 
-* Does the tablet support vesa mounting.
+* Does the tablet support VESA mounting.
 * If so, which size is used
 
 ## Stand
