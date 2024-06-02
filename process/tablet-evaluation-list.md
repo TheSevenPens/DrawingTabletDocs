@@ -131,6 +131,12 @@ These are the quick summary highlights. &#x20;
 
 ## Ergonomics
 
+Heat
+
+* At 50% brightness for an hour - how hot does it feel to the touch?
+* At 100% brightness for an hour - how hot does it feel to the touch?
+* Are there any noticable hotspots?
+
 Fan Noise
 
 * What is the noise experience at 50% brightness?
