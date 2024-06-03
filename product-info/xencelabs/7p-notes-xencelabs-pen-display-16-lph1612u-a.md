@@ -38,3 +38,23 @@
 
 *   Comes with 2 pens. One thicker and one thinner.
 
+
+
+## Anti-glare sparkle
+
+Rating: OK. Sparkle visible. Has clearly more than the Wacom Cintiq Pro 16 (DTH-167)
+
+This is something I'd like to see Xencelabs improve for any future 4K tablets at this size. &#x20;
+
+AG Sparkle for Xencelabs Pen Display 16
+
+<figure><img src="../../.gitbook/assets/Xenclabs Pen Display 16 AG Sparkle.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+AG Sparkle for Wacom Cintiq Pro 16 (DTH-167)
+
+<figure><img src="../../.gitbook/assets/Wacom Cintiq Pro 16 (DTH-167) AG Sparkle.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
+
