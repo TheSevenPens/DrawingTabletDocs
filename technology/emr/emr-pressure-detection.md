@@ -6,6 +6,6 @@ In a video I published in 2022 ([**How do EMR pens work**](https://www.youtube.c
 
 Modern designs use a separate pressure sensor which is more reliable for detecting pressure.
 
-<figure><img src="../../../.gitbook/assets/7P SLIDE EMR Old New Design (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7P SLIDE EMR Old New Design (1).png" alt=""><figcaption></figcaption></figure>
 
-The OLD EMR pen design can be seen in [**this teardown of the Huion PEN80 pen**](../../pens/pen-teardown-huion-pen80.md).
+The OLD EMR pen design can be seen in [**this teardown of the Huion PEN80 pen**](../../guides/pens/pen-teardown-huion-pen80.md).

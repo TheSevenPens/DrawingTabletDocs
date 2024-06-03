@@ -60,7 +60,7 @@ We suspect this is MUCH faster than a typical pen report rate of 200Hz.
 
 ## **Other pen technologies**
 
-Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen tech**](../)&#x20;
+Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen tech**](../digital-pen-tech.md)&#x20;
 
 ## **General resources**
 
@@ -109,7 +109,7 @@ If you are curious about what is inside an Apple pencil, see this video: [https:
 
 The companion video contains several circuit simulations.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-03 204827.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-03 204827.png" alt=""><figcaption></figcaption></figure>
 
 I used the **Falstad** tool https://www.falstad.com/circuit/ to create those simulations
 

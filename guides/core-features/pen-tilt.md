@@ -55,7 +55,7 @@ For some people tilt is critical and for others, it is not useful at all. It str
 
 ## Technical details
 
-You don't need to know these details, but if you are curious how an EMR tablet actually detects the tilt of the pen go here: [**EMR tilt detection**](../digital-pen-tech/emr/emr-tilt-detection.md).
+You don't need to know these details, but if you are curious how an EMR tablet actually detects the tilt of the pen go here: [**EMR tilt detection**](../../technology/emr/emr-tilt-detection.md).
 
 ## **Tilt angle range**
 
