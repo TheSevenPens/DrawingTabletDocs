@@ -47,6 +47,21 @@ Likewise even though this video is about professional tablets, the topics raised
 
 If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawing-tablet-before-buying.md). &#x20;
 
+## Surface texture
+
+A used tablet's surface might be almost pristine or it might be heavily used and exhibit a lot of surface wear.
+
+More here:&#x20;
+
+* [surface wear on pen tablets](../guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
+* [surface wear on pen displays](../guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)
+
+Ideally you get one that is not heavily worn.
+
+Small scratches or OK if they can not be felt through the pen.
+
+Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../accessories/surface-protectors/)
+
 ## Pens
 
 Keep in mind you may ge a nice deal on a tablet that does not come with a pen.
