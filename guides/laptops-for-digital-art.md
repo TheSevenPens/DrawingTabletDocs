@@ -45,13 +45,13 @@ Before you buy a laptop, please ensure that you are clear how you intend to conn
 
 ## What I use
 
-I've been using a Surface Pro 8 with 32GB of RAM and 500GB of storage for two years now.
+I've been using a Surface Pro 8 with 16GB of RAM and 500GB of storage for two years now.
 
 I connect it the Microsoft Surface Dock 2 for power and network connectivity.
 
-I use two  Thunderbolt 3 cables from the Surface Pro 9 to connect two 4K 60Hz displays (one of those will be the a 4K pen display)&#x20;
+I use two  Thunderbolt 3 cables from the Surface Pro 8 to connect two 4K 60Hz displays (one of those will be the a 4K pen display)&#x20;
 
-Even though the Surface Pro can be used for drawing with it's own pen, I prefer to use attached drawing tablets.
+The Surface Pro can be used for drawing with it's own pen. However I don't like drawing with the Surface pen. Instead,  I prefer to use attached drawing tablets.&#x20;
 
 **Connected tablets**&#x20;
 
