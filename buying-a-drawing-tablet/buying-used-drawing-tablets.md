@@ -34,11 +34,11 @@ Likewise even though this video is about professional tablets, the topics raised
 
 {% embed url="https://youtu.be/Ep5wN-kOhqo" %}
 
-### Notes on Wacom drivers
+## Notes on Wacom drivers
 
 * As of Wacom Driver 6.4.0 released in October 2022, Wacom has dropped support for Intuos 5 tablets and older Intuos tablets - except for the Wacom Intuos 4 XL which is still supported. ([https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html))
 
-### Alternative to Wacom drivers for older tablets
+## Alternative to Wacom drivers for older tablets
 
 * If you have an older tablet and need a driver check out [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)&#x20;
 * For creative work in Windows see [**Using OpenTabletDriver on Windows for drawing**](../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
@@ -46,6 +46,14 @@ Likewise even though this video is about professional tablets, the topics raised
 ## Testing out a tablet before you buy
 
 If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawing-tablet-before-buying.md). &#x20;
+
+## Pens
+
+Keep in mind you may ge a nice deal on a tablet that does not come with a pen.
+
+And pens - especially Wacom Pro Pens - can be hard to find and also they can be very expensive ($100).&#x20;
+
+You need to keep that in mind because if you lose your pen and need to find another, it could be expensive.
 
 ## Reddit threads
 
