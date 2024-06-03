@@ -1,4 +1,4 @@
-# Tablet evaluation list
+# Tablet evaluation
 
 These are my notes on the things to look at when I evaluate a tablet. This is a work in progress and evolves over time.&#x20;
 
@@ -28,9 +28,8 @@ These are the quick summary highlights. &#x20;
 * Display panel tech: IPS, OLED, etc.
 * Bit depth
   * If >8pp clarify if it is using FRC or not
-* Parallax
 * Anti-glare treatment: Etched glass vs AG film
-* Rate Anti-glare sparkle
+* Laminated?
 
 ## Pen
 
@@ -67,6 +66,10 @@ These are the quick summary highlights. &#x20;
 
 * See: [Measuring hover height](measuring-hover-height.md)
 
+## Display > Parallax
+
+## Anti-glare sparkle
+
 ## Display > Color modes
 
 * List color modes
@@ -74,6 +77,7 @@ These are the quick summary highlights. &#x20;
 
 ## Display > other
 
+* Pixelation:&#x20;
 * Dead pixels - did you notice any?
 * Backlight bleed - take photo in a darkened room
 * Display sharpness
@@ -104,6 +108,7 @@ These are the quick summary highlights. &#x20;
 
 * Does the tablet support VESA mounting.
 * If so, which size is used
+* If you used it with an monitor arm, identify the arm
 
 ## Stand
 
