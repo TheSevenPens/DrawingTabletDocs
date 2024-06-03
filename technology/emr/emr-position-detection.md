@@ -24,22 +24,21 @@ I realize it does not look like what you think of as a "coil". If you look up an
 
 If the pen is sending an electromagnetic signal and is near the coil. The signal will induce a current in the coil. This is called electromagnetic induction - meaning a current in one thing is causing a current in something else even though they are not touching.&#x20;
 
-
-
 <figure><img src="../../.gitbook/assets/Slide_0002.png" alt=""><figcaption></figcaption></figure>
 
 The detector registers the strength of this signal - I draw it as a light blue bar near the detector.  The closer the pen is the stronger the signal.
 
 If the pen is far enough away, there really isn't any current detected on the coil.
 
-Two things to realize:
+Some things to realize:
 
 * At this stage, the detector of this coil essentially tells us something about how far away the pen is.
 * The coil is oriented vertically but it doesn't know the vertical position of the pen. The pen could be on the top or the middle or near the bottom and the coil wouldn't know it.
+* To be clear, EMR tablets do have coils - though they don't look quite like what I am drawing. They don't literally have a component called "signal detector". That detector is just a simple way for me to illustrate the position detection. &#x20;
 
 ## An array of coils
 
-Lets have multiple coils next to each other in a row horizontallt. Each coil independently detects the signal from the pen. So the signal strength is different for each coil - and depends on how far away the pen is from that specific coil.
+Lets have multiple coils next to each other in a row horizontally. Each coil independently detects the signal from the pen. So the signal strength is different for each coil - and depends on how far away the pen is from that specific coil.
 
 <figure><img src="../../.gitbook/assets/Slide_0004.png" alt=""><figcaption></figcaption></figure>
 
