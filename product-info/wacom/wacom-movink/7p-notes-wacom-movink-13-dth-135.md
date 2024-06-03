@@ -161,6 +161,11 @@ I notice the same thing int the OLED panel of my Smasung Galaxy Tab S8 Ultra. Th
 
 Pixels on the display are sharp and well-delineated.
 
+## Surface texture
+
+* Feels about the same as a recent-model Cintiq Pro (22, 27)
+* Definitely not slippery like an normal glass iPad surface.
+
 ## Pen tilt
 
 Typical. nothing out of the ordinary.
