@@ -9,3 +9,7 @@ Modern designs use a separate pressure sensor which is more reliable for detecti
 <figure><img src="../../.gitbook/assets/7P SLIDE EMR Old New Design (1).png" alt=""><figcaption></figcaption></figure>
 
 The OLD EMR pen design can be seen in [**this teardown of the Huion PEN80 pen**](../../guides/pens/pen-teardown-huion-pen80.md).
+
+This pressure detection mechanism is discussed in great detail here:
+
+{% embed url="https://www.youtube.com/watch?v=Otxm-JNa-i8" %}
