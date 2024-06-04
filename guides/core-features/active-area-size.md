@@ -35,3 +35,24 @@ By looking at the Wacom's product line and naming, we can establish a decent fra
 If we look at how drawing tablet models are distributed along this scale we'll see that there is a lot of variation.
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+## Diagonal vs Area
+
+Is it reasonable to use the active area's Diagonal length vs the Active area's area measurement.
+
+I think it is, because the diagonal is reasonably well correlated with area for drawing tablets.
+
+Let's see how diagonal and compare buy plotting the values for 180 different tablets.
+
+For pen tablets:
+
+&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+And for pen displays:
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Overall, I think using the diagonal is reasonable.&#x20;
+
