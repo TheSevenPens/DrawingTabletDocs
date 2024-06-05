@@ -63,6 +63,12 @@ The Ergotron HX has less wobble than the **Ergotron LX**, but still has some wob
 
 For 22" and below I use the Ergotron LX. It's certainlyu not as rugged as the Ergotron HX, but it has been reliable and has a good range of motion.
 
+[Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w\_3pzQcjfg) 2021/10/01
+
+[Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04&#x20;
+
+[Ergotron - Install Ergotron HX Monitor Arm with Heavy-Duty Tilt Pivot or HD Pivot](https://www.youtube.com/watch?v=3GZYP7DwwCA) 2021/05/24&#x20;
+
 ## Wobble
 
 All monitor arms have some amount of wobble. Some have more and some have less. But NONE of them feel "rock solid"
