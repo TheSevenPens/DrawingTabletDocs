@@ -36,6 +36,26 @@ Also this variant pen does not come with any grips or any button strips.
   * Samsung S pen (that comes with Galaxy Tab series) - I tested. It works.
   * Samsung S pen (that comes with Samsung S24 Ultra phone) - I tested. It works.
 
+## Difference in pressure handling between pro pens and non pro pens
+
+At the low end of pressure, there is a difference with how pressure is handled between the pro pens and other pens. With the pro pens - the lines are low pressure change in pressure simply due to my hand. And the strokes below are what I would expect. Don't let the appearance deceive you, they are good. The pen is responsing to my inputs as expected.
+
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with Wacom Pro Pen 3 100px brush.png" alt=""><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 100px</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with Wacom Pro Pen 3 300px brush.png" alt=""><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 300px</p></figcaption></figure>
+
+Now see what happened with the Samsung S Pen creator edition. This also happened with the other consumer pens such as the Wacom CP-913, Wacom CP-923 and the other Samsung S pens I tried.
+
+Notice the "pulsing"
+
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 100px brush.png" alt=""><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 300px brush (1).png" alt=""><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+
+
+
 ## Core specs
 
 * Pen tech: EMR
