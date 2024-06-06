@@ -2,9 +2,31 @@
 
 ## Introduction
 
-In Microsoft Windows, for SOME tablets, even if you don't install a tablet driver, the drawing tablet can be used in a very rudimentary way through its built-in PNP support. PNP = "Plug-and-Play".&#x20;
+In Microsoft Windows, there are built-in drivers that "just work" for many devices. You can see this with mice. You just plug them in and they start working. So you can see why Windows calls these drivers "Plug-and-Play" or PNP.
 
-## Identifying if the Windows using PNP support with your tablet
+Windows also has PNP tablet drivers! These drivers don't have many features compared to manufacturer tablet drivers but they can be useful.
+
+* If you are just intending to use the tablet as a mouse replacement for pointing and selecting
+* They are useful for troubleshooting problems with the manufacturer tablet drivers
+* You can use them as a "last resort" if your manufacturer drivers are not working.
+
+The key things you should know
+
+* Not all tablets work with Windows PNP tablet drivers
+* The drivers are extremely limited in what they can do.
+
+## Limitations of PNP drivers
+
+There are a large set of limitations that come with windows PNP mode. And many of the things you will need to configure with a drawing tablet simply are not available through PNP mode.
+
+* There is no pressure sensitivity. &#x20;
+* There is no tilt sensitivity
+* You cannot control how to map the active area of your tablet to a display in any way
+  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../customizing-your-experience/matching-aspect-ratios.md)
+* You cannot control what the buttons on the pen does
+* You cannot control what the buttons on the tablet do&#x20;
+
+## Is your tablet using PNP drivers with your tablet?
 
 The easiest way to see if this how Windows is interacting with your tablet is to look at the system pointer.
 
@@ -18,17 +40,13 @@ But if Windows is using its PNP support the pointer will look like this.
 
 (NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone camera)
 
-## Limitations of PNP mode
+## Which tablets work with Windows PNP drivers
 
-Windows PNP mode might seem like a really cool thing. But it's really not very useful for drawing tablets.
+I plugged in a couple and their basic functionality worked subject to the limitations described earlier.
 
-There are a large set of limitations that come with windows PNP mode. And many of the things you will need to configure with a drawing tablet simply are not available through PNP mode.
-
-* There is no pressure sensitivity
-* There is no tilt support
-* You cannot control how to map the active area of your tablet to a display in any way
-* You cannot control what the buttons on the pen does
-* You cannot control what the buttons on the tablet do&#x20;
+* Intuos Pro Small (PTH-460) - does not work (I get the sense this was a deliberate Wacom choice)
+* Movink 13 (DTH-135) - does work
+* Wacom One M (CTC-6110WL) - does work
 
 ## When should you use PNP drivers?
 
