@@ -2,28 +2,34 @@
 
 ## Recommended specs
 
-These are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
 
-* **Memory**
-  * NOT ENOUGH: 4GB
-  * OK: 8GB
-  * GOOD: 16GB
-  * EXCELLENT: 32GB
-* **I/O Ports**
-  * If you want to connect a modern pen display with a USB-C cable should have a USB-C port that supports DP-Alt mode and that is available for use to connect with your pen display.&#x20;
-    * All Thunderbolt 3 and Thunderbolt 4 ports support DP alt mode.
-    * Remember: Your USB-C cable ALSO needs to support DP alt mode.
 
-## Connecting to a pen display
+## **RAM**&#x20;
 
-Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](connections-and-cabling/connecting-a-pen-display.md)&#x20;
+These RAM recommendations are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
 
-## Notes on power consumption
 
-* If your pen display is going to draw power from the laptop it is going to limit the time your laptop can work on battery power.
-* So in these cases&#x20;
-  * (1) the laptop should be connected to a power from the wall.
-  * (2) or the pen display should be getting power from another source.
+
+<table><thead><tr><th width="115">RAM</th><th>MY TAKE</th></tr></thead><tbody><tr><td>4GB </td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB </td><td>OK-idh</td></tr><tr><td>16GB</td><td>GOOD - the average person will be fine here</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
+
+## Pen display connection
+
+Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [**Connecting a pen display**](connections-and-cabling/connecting-a-pen-display.md)&#x20;
+
+I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [**USB-C DisplayPort alt mode**](pen-displays/usb-c-displayport-alt-mode.md)
+
+If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md).
+
+## Power consumption
+
+Pen tablets don't draw much power at all from a laptop, so it won't diminish your battery time.
+
+Pen displays on the other hand draw a lot of power and if your laptop is powering your pen display, then it is going to limit the time your laptop can work on battery power.
+
+For a pen display, you should either
+
+* Keep the laptop connected to power from the wall.&#x20;
+* Or, connect the pen display to get power from another source
 
 ## Specific laptops I recommend
 
@@ -37,13 +43,15 @@ Before you buy a laptop, please ensure that you are clear how you intend to conn
 
 ### Macs
 
-* I'm sure Macs are fine, but I only on December 2023 did I start playing with a MacBook Pro. So I haven't really used on enough to have an opinion yet. But many people have great experiences with them.
+* 2023 M3 MacBook Pro
 
-**Chromebooks**
+### **Chromebooks**
 
-* I don't recommend Chromebooks for use with drawing tablets. More here: [**Using a drawing tablet with a Chromebook**](general/using-a-drawing-tablet-with-a-chromebook.md).
+I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](general/using-a-drawing-tablet-with-a-chromebook.md).
 
 ## What I use
+
+### Microsoft Surface Pro 8
 
 I've been using a Surface Pro 8 with 16GB of RAM and 500GB of storage for two years now.
 
@@ -51,7 +59,7 @@ I connect it the Microsoft Surface Dock 2 for power and network connectivity.
 
 I use two  Thunderbolt 3 cables from the Surface Pro 8 to connect two 4K 60Hz displays (one of those will be the a 4K pen display)&#x20;
 
-The Surface Pro can be used for drawing with it's own pen. However I don't like drawing with the Surface pen. Instead,  I prefer to use attached drawing tablets.&#x20;
+The Surface Pro can be used for drawing with its own pen. However I don't like drawing with the Surface pen. Instead,  I prefer to use attached drawing tablets.&#x20;
 
 **Connected tablets**&#x20;
 
@@ -62,6 +70,17 @@ Most often, I use these tablets with my Surface Pro 9:
 * Wacom Cintiq Pro 16 (DTH-167)
 
 Though I've used every kind successfully: Huion, XP-Pen, and Xencelabs.
+
+### 2023 M3 Macbook Pro
+
+* Size: 14" (I wish I had purchased the 16" though)
+* Chip: M3 Pro
+* Memory: 36GB
+* Storage: 1TB
+
+I've used it for about 6 months as of June 2024 and my experience with it has been fantastic. I have no problems recommending it.&#x20;
+
+It has three Thunderbolt 4 ports which is excellent.
 
 ## Videos
 
