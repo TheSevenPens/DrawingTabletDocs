@@ -32,11 +32,7 @@ The easiest way to see if this how Windows is interacting with your tablet is to
 
 Normally your pointer will look like this when you are using the mouse or when you have a tablet driver installed.&#x20;
 
-![](../../.gitbook/assets/Snap1.png)
-
-But if Windows is using its PNP support the pointer will look like this.
-
-![](<../../.gitbook/assets/PXL\_20230902\_135357961 (1).jpg>)
+<figure><img src="../../.gitbook/assets/Windows-PNP-Pointers-2024-06-10-small.jpg" alt=""><figcaption></figcaption></figure>
 
 (NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone camera)
 
