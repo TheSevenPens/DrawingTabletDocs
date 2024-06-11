@@ -2,21 +2,46 @@
 
 ## Overview
 
-The starting point for understanding EMR is learning how the tablet detects the position of the pen. Once you know this many other aspects of the tablet will make sense. In this document, we'll slowly build up to how an EMR tablet detects the pen step-by-step.
+The starting point for understanding EMR is learning how the tablet detects the position of the pen. Once this is known, many other aspects of the tablet can be understand.&#x20;
 
-First, realize that the tablet and pen are communicating with each other. They swap between listening and transmitting an electromagnetic signal many times a second. We'll focus now on how the pen sending an electromagnetic signal to the tablet. Please keep in mind, we are building up a conceptual understanding of how it works. Naturally, it leaves a lot of details out.
+The tablet and pen are communicating with each other. They swap between listening and transmitting an electromagnetic signal many times a second. This document focuses on the pen producing an electromagnetic signal that the tablet detects.&#x20;
 
-## The EMR sensor (aka digitizer)
+Please keep in mind, this is a simplified, conceptual explanation. Naturally, the description leaves out many details.
 
-The fundamental component of a drawing tablet is what I call the EMR sensor - it's more common name is digitizer. To keep it simple, the digitizer is a printed circuit board (PDB) that contains:
+## The EMR sensor (aka the digitizer)
+
+The fundamental component of a drawing tablet the EMR sensor. The more common name for this is **digitizer**.&#x20;
+
+The digitizer is a printed circuit board (PCB) that contains:
 
 * Some chips
 * Some firmware code running in some of this chips
-* a set of coils (wires) laid out on the PCB &#x20;
+* a set of coils (wires) laid out on the PCB. The coils that are laid out vertically are clearly visible. The horizontal coils are partially visible as darker regions on the green PCB.&#x20;
+
+This is the top of the Wacom digitizer used in the Wacom Intuos Pen Small (CTL-480). This is a smaller version of a [much larger image](https://commons.wikimedia.org/wiki/File:Wacom\_ctl480\_sensor\_pcb\_top.JPG) on Wikipedia commons.
+
+<figure><img src="../../.gitbook/assets/800px-Wacom_ctl480_sensor_pcb_top (1).jpg" alt=""><figcaption></figcaption></figure>
+
+The bottom of the digitizer is below. You can see the [larger version here](https://commons.wikimedia.org/wiki/File:Wacom\_ctl480\_inside.JPG).
+
+&#x20;
+
+<figure><img src="../../.gitbook/assets/Wacom_ctl480_inside.JPG" alt=""><figcaption></figcaption></figure>
+
+The digitizer has something underneath it (on top on the photo) - this is probably a thin piece of something metallic to prevent electromagnetic interference from this device to others from the bottom of the tablet.
+
+In this view you can see chips on the digitizer PCB attached to other components inside the tablet.
+
+Now that we know what the digitizer looks like, by exploring position detection, we can understand what we are seeing.
 
 ## Detecting a signal with a coil
 
-The coil is a piece of wire that extends from a digitizer chip. I realize it does not look like what you think of as a "coil". If you look up an electromagnetic component called an "inductor" you'll realize why it has this name.
+The coil is a piece of wire that extends from a digitizer chip.&#x20;
+
+NOTE:
+
+* A real digitizer will have multiple chips, but in these diagrams only 1 or 2 chips are shown.
+* The wire does not look like what you might think of as a "coil". If you look up an electromagnetic component called an "inductor" you'll realize why it has this name. Another doc covering the LC Circuit in EMR pens will explain it in more detail.
 
 <figure><img src="../../.gitbook/assets/image (427) (1).png" alt=""><figcaption></figcaption></figure>
 
