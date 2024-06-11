@@ -395,6 +395,7 @@
     * [EMR technical resources](technology/emr/emr-technical-resources.md)
     * [EMR position detection](technology/emr/emr-position-detection.md)
     * [EMR pressure detection](technology/emr/emr-pressure-detection.md)
+    * [Active EMR vs Passive EMR](technology/emr/active-emr-vs-passive-emr.md)
     * [EMR tilt detection](technology/emr/emr-tilt-detection.md)
   * [MPP](technology/mpp.md)
   * [Digital pen tech](technology/digital-pen-tech.md)

@@ -22,7 +22,7 @@ Here is another stand from Huion. This was works fine, though I find its level a
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure>
 
 </div>
 
@@ -42,7 +42,7 @@ Here's a good example for Parblo
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
 
 </div>
 

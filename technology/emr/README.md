@@ -6,53 +6,21 @@ EMR technology was introduced to drawing tablets by Wacom. And they held all the
 
 ## EMR key features
 
-* Power
-  * Passive EMR: The pen gets power from proximity to the tablet
-  * Active EMR: The pen gets power from a battery inside&#x20;
-* Hover (i.e. proximity detection)
-* Position detection
-* Pressure detection
-* Tilt detection
-* Barrel rotation detection - very rare
-* Communication of button information.&#x20;
+* Powering the pen - With **Passive EMR** the pen gets power from proximity to the tablet. However with **Active EMR**: The pen gets power from a battery inside. More here: [Active EMR vs Passive EMR](active-emr-vs-passive-emr.md)
+* Position detection - The basics of how the tablet detects position are described here: [**EMR position detection**](emr-position-detection.md).&#x20;
+* Hover (i.e. proximity detection) -&#x20;
+* Pressure detection - See this document for details on [**EMR pressure detection**](emr-pressure-detection.md). It also contains a clarification of pressure detection in the video below (which depicts a very old way of doing pressure detection).
+* Tilt detection - more here: [**EMR tilt detection**](emr-tilt-detection.md) &#x20;
+* Barrel rotation detection - very rare in EMR pens
+* Communication of button press information&#x20;
 
 ## Explanation of how EMR works
 
 {% embed url="https://youtu.be/Vv668I4LEdg" %}
 
-## Position detection
-
-The basics of how the tablet detects position are described here: [**EMR position detection**](emr-position-detection.md).
-
-## Pressure detection
-
-See this document for details on [**EMR pressure detection**](emr-pressure-detection.md). It also contains a clarification of pressure detection in the video which depicts a very old way of doing pressure detection.
-
-## Tilt detection
-
-more here: [**EMR tilt detection**](emr-tilt-detection.md) &#x20;
-
-## Concepts vs Implementation
+## EMR Concepts vs Implementation
 
 Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts, different manufacturers can tweak this design in their implementation.
-
-## **Active EMR vs Passive EMR**
-
-{% hint style="info" %}
-Modern EMR pens are **Passive EMR**. <mark style="color:red;">**DO NOT Buy a tablet that uses Active EMR**</mark>.
-{% endhint %}
-
-**Active** vs **Passive** indicates how an EMR gets power.
-
-* Passive EMR - The tablet wirelessly powers the pen
-* Active EMR - A battery inside the pen powers the pen
-
-**Active EMR battery type** - The battery may be replaceable or rechargeable.
-
-**Mixing and matching?** -  It doesn't work.
-
-* You cannot use an Active EMR pen with a Passive EMR tablet
-* You cannot use a Passive EMR pen with Active EMR tablet.
 
 ## **Resonant frequency**
 

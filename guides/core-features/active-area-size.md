@@ -48,11 +48,11 @@ For pen tablets:
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (427).png" alt="" width="375"><figcaption></figcaption></figure>
 
 And for pen displays:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Overall, I think using the diagonal is reasonable.&#x20;
 
