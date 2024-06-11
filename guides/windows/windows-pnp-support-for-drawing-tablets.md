@@ -36,14 +36,6 @@ Normally your pointer will look like this when you are using the mouse or when y
 
 (NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone camera)
 
-## Which tablets work with Windows PNP drivers
-
-I plugged in a couple and their basic functionality worked subject to the limitations described earlier.
-
-* Intuos Pro Small (PTH-460) - does not work (I get the sense this was a deliberate Wacom choice)
-* Movink 13 (DTH-135) - does work
-* Wacom One M (CTC-6110WL) - does work
-
 ## When should you use PNP drivers?
 
 If your manufacturer tablet driver is having problems, the PNP drivers may be a "last resort".
@@ -66,4 +58,55 @@ Every now and then I have windows use PNP mode even though a driver is installed
 ## Notes
 
 Windows supports PNP for lots of devices. For example mice or monitors. PNP is not limited to just tablets.&#x20;
+
+
+
+## Testing Windows PNP drivers with pen displays (screen tablets)
+
+I plugged in a couple and their basic functionality worked subject to the limitations described earlier.
+
+* Intuos Pro Small (PTH-460) - <mark style="color:red;">**does not work**</mark> (I get the sense this was a deliberate Wacom choice)
+* Movink 13 (DTH-135) - does work
+* Wacom One M (CTC-6110WL) - does work
+
+## Testing Windows PNP drivers with pen tablets (screenless tablets)
+
+Test with:
+
+* Surface Pro 8
+* Windows 11
+* Krita
+
+Results
+
+* Huion HS611
+  * Position : works
+  * Pressure YES
+  * Tilt: YES
+  * Lower button: detected
+  * Upper button: not detected (?)
+* Wacom One Medium (CTC-6100WL) with CP-923 pen
+  * Position: works
+  * Pressure: YES
+  * Tilt: YES
+  * Lower button: detected&#x20;
+  * Upper button: detected
+* Wacom Intuos Pro Small (PTH-460) with Pro Pen 2
+  * Nothing works
+* Wacom Intuos Pro Medium (PTH-660) with Pro Pen 2
+  * Nothing works
+* Wacom Intuos Pro Medium (PTH-860) with Pro Pen 2
+  * Nothing works
+* XP-Pen Deco Pro XLW (MT1592B) with X3 Pro pen
+  * Position : works
+  * Pressure YES
+  * Tilt: YES
+  * Lower button: detected
+  * Upper button: not detected (?)
+* Huion Giano G930L with PW517 pen
+  * Position : works
+  * Pressure YES
+  * Tilt: YES
+  * Lower button: detected
+  * Upper button: not detected (?)
 
