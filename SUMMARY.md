@@ -390,6 +390,7 @@
   * [Aspect ratio math](process/aspect-ratio-math.md)
   * [Standard paper sizes](resources/standard-paper-sizes.md)
 * [Technology](technology/README.md)
+  * [Wacom patents](technology/wacom-patents.md)
   * [AES](technology/aes.md)
   * [Apple Pencil tech](technology/apple-pencil-tech.md)
   * [EMR](technology/emr/README.md)
