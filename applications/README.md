@@ -70,6 +70,10 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**Microsoft OneNote**](microsoft-onenote.md) (Windows, MacOS, Android, iOS)
 * [**Samsung Notes**](samsung-notes.md) (select Samsung PCs and tablets)
 * [**Noteshelf**](https://www.noteshelf.net/) (iOS)
+* [**Concepts**](https://docs.thesevenpens.com/drawtab/applications/concepts-app) (Windows, Android, iOS, ChromeOS) - if your notes are more like sketches or diagrams then Concepts might be a good choice. &#x20;
+* [**Google Keep**](https://keep.google.com/)&#x20;
+* [**Windows Journal**](https://en.wikipedia.org/wiki/Windows\_Journal) - **Discontinued** for a while now. Listed here to make sure you don't confuse it with Microsoft Journal.
+* [**Microsoft Journal**](https://apps.microsoft.com/detail/9n318r854rhh?amp%3Bgl=US\&hl=en-us\&gl=US) - (Windows)&#x20;
 
 ### Whiteboarding
 

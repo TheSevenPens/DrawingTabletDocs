@@ -44,6 +44,10 @@ Pen displays, because they do have a screen, generally feel more natural for not
 * **Pointer lag.** Pen displays have a lot of pointer lag - this can be very difficult to deal with when taking notes - especially if you write fast. More here: [**lag**](../core-features/lag.md) &#x20;
 * **Dropping the tablet.** If you are note taking in a location where you might drop your pen display, in many cases you will either experience a cracked screen or simply break the tablet entirely. &#x20;
 
+## Applications for taking notes
+
+See the note taking section here: [**Applications**](taking-notes-with-drawing-tablets.md#applications)&#x20;
+
 ## Resources
 
 * [Teoh on Tech - Best tablet for note taking in 2023: Xiaomi v OnePlus v Apple v Samsung](https://www.youtube.com/watch?v=ywnQpqv9AHQ) Oct 7, 2023
