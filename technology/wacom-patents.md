@@ -26,11 +26,13 @@ Wacom lists all their patents here: [https://www.wacom.com/en-us/patents](https:
   * Date Filed: 1995/09/25
   * Date of Patent: 1997/11/25
   * Status: EXPIRED
-* **US Patent Reissue 34,187 COORDINATES INPUT SYSTEM**
-  * Patent: 4,786,765 ([**LINK TO PATENT**](https://patents.google.com/patent/US4786765A/en))
-  * Date Filed: 1990/02/27
-  * Date of Patent: 1993/03/02
-* **US Patent Reissue 35,329 ELECTRONIC BLACKBOARD AND ACCESSORIES SUCH AS WRITING TOOLS**
-  * Patent: 5,023,408 ([**LINK TO PATENT**](https://patents.google.com/patent/US5023408A/en))&#x20;
-  * Date Filed: 1993/06/10
-  * Date of Patent: 1996/09/17
+* **US Patent Reissue 4,786,765 COORDINATES INPUT SYSTEM**
+  * ([**LINK TO PATENT**](https://patents.google.com/patent/US4786765A/en))
+  * Date Filed: 1987/07/23
+  * Date of Patent: 1988/11/22
+  * Status: Ceased
+* **US Patent Reissue 5,023,408 ELECTRONIC BLACKBOARD AND ACCESSORIES SUCH AS WRITING TOOLS**
+  * ([**LINK TO PATENT**](https://patents.google.com/patent/US5023408A/en))&#x20;
+  * Date Filed: 1989/06/13
+  * Date of Patent: 1991/06/11
+  * Status: Ceased
