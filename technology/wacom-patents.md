@@ -8,6 +8,8 @@ Wacom lists all their patents here: [https://www.wacom.com/en-us/patents](https:
 
 ## Key Wacom patents
 
+If you have time for some technical reading, these patents below describe some key aspects of EMR technology.&#x20;
+
 * **US Patent 4,878,553 - POSITION DETECTING APPARATUS**
   * &#x20;([**LINK TO PATENT**](https://patents.google.com/patent/US4878553A/en))
   * Date Filed: 1987/09/14
