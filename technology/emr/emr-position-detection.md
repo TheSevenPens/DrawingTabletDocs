@@ -58,7 +58,7 @@ Key points
 
 Lets have multiple coils next to each other in a row horizontally. Each coil independently detects the signal from the pen. So the signal strength is different for each coil - and depends on how far away the pen is from that specific coil.
 
-<figure><img src="../../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
 
 The pen is right on top of one coil so it has the strongest signal. As coils are further from the pen the strength diminishes. And of course some coils essentially don't detect any signal.
 
@@ -84,7 +84,7 @@ I must stress this, even the diagram makes it look like the horizontal and verti
 
 With the coils arranged horizontally and vertically, the coils can detect the position of the pen.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
 
 IN this diagram the pen coincidentally is right on top on vertical coil and one horizontal coil. So it is clear that one there is a single strong signal for the both the horizontal and vertical components.
 
