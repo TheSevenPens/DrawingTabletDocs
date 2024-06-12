@@ -47,6 +47,24 @@ Likewise even though this video is about professional tablets, the topics raised
 
 If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawing-tablet-before-buying.md). &#x20;
 
+## Buying online
+
+You can find many tablets on eBay and I've had a good experience with the 25+ tablets I've bought from there
+
+* All but 1 worked out-of-the-box
+* Reading the item description...
+  * I made sure the surface didn't have any visible signs of wear
+  * That the tablet came with a pen
+  * That the tablet came with the cables it needed - this is very important if the tablet used proprietary cables
+
+## Tablet Manufacturers on eBay
+
+Some manufacturers directly sell new and used tablets on eBay
+
+* Wacom: [https://www.ebay.com/str/wacom](https://www.ebay.com/str/wacom)&#x20;
+* Huion: [https://www.ebay.com/str/huiontablet](https://www.ebay.com/str/huiontablet)&#x20;
+* XP-Pen: [https://www.ebay.com/str/xppentechnology](https://www.ebay.com/str/xppentechnology)&#x20;
+
 ## Surface texture
 
 A used tablet's surface might be almost pristine or it might be heavily used and exhibit a lot of surface wear.
