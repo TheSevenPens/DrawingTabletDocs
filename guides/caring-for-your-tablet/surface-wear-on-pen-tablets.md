@@ -2,7 +2,7 @@
 
 ## Overview of surface wear on pen tablets
 
-All pen tablets (those without a screen) will experience some form of wear. The amount and type of wear will be affected by
+All pen tablets (those without a screen) will experience some form of wear. The amount and type of wear will be affected by:
 
 * The material of the surface
 * The texture of the surface
@@ -14,34 +14,9 @@ In general, surface wear is not a problem, unless it interferes with your pen. T
 
 ## Types of surface wear
 
-* **Texture erosion** - where the surface texture starts getting a little smoother as you continue to move your pen over it. More here: [**Texture erosion on pen tablets**](surface-wear-on-pen-tablets-1.md).
+* **Texture erosion** - where the surface texture starts getting a little smoother as you continue to move your pen over it. More here: [**Texture erosion on pen tablets**](texture-erosion-on-pen-tablets.md).
 * **False scratches** - False scratches are things that look like scratches but are really the result of a tablet surface that isn't clean. More here: [**False scratches**](false-scratches.md) &#x20;
-
-## Scratches
-
-Scratches are a form of permanent damage. Depending on how deep the scratch is, it can affect your drawing experience.
-
-Below is an example of some scratches that while ugly, do not interfere with the drawing experience.
-
-Small scratches are also hard to see sometime and greatly affected by the lighting conditions.
-
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
-As you can see the scratches can be very small. These kinds of scratches will not affect your drawing experience.
-
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
-
-Deeper and larger scratches are also possible. This can definitely affect your drawing experience.
-
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
-
-## Extreme damage
-
-Dropping sharp objects onto the surface of a pen tablet can result in big changes. The crater below was formed by an accidental dropping of scissors from a height of about 6" above the pen tablet.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+* Scratches - permanent grooves cut into the surface. More here: [**Scratches on pen tablets**](scratches-on-pen-tablets.md).
 
 ## Protecting the surface
 

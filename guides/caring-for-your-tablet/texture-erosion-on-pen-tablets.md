@@ -11,6 +11,8 @@ As you drag your pen on the surface you will eventually notice two forms of text
 * thin or thick marks
 * broad areas where the texture has been worn off
 
+For more examples of surface wear and how to minimize it go here: [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md).
+
 ## Examples
 
 These texture erosion marks can be very difficult to see. Depending on the lighting, they may be invisible, lighter than the texture color, or darker than the texture color.
