@@ -17,6 +17,7 @@
     * [Taking notes with drawing tablets](guides/use-cases/taking-notes-with-drawing-tablets.md)
     * [Using a drawing tablet as a mouse replacement](guides/use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
   * [Contacting support](guides/general/contacting-support.md)
+  * [Drawing tablets vs mice](basics/drawing-tablets-vs-mice.md)
   * [The drawing experience](basics/the-drawing-experience.md)
 * [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
   * [Buying used drawing tablets](buying-a-drawing-tablet/buying-used-drawing-tablets.md)
