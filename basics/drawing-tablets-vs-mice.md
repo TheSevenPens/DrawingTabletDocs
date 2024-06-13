@@ -15,27 +15,24 @@ Learn more here: [**Absolute versus relative positioning**](../guides/core-featu
 
 Drawing tablets can simulate relative positioning if needed with [**mouse mode**](../guides/core-features/mouse-mode.md)
 
-## **Stairsteeping in drawing apps**
+## **Stroke smoothness in drawing apps**
 
-With a drawing applications you'll notice that the strokes drawin with a mouse have a rougher stair-step effect.
+With a drawing applications you'll notice that the strokes drawn with a mouse have a rougher stair-step effect and in general are not as smooth.&#x20;
 
-Example: Using a mouse with Krita
-
-Example: Using a drawing tablet with Krita
-
-## **Stroke smoothness**
-
-Mice also tend to move in more of a "jerky" fashion even if you are taking great care in using one. Drawing tablets in generally have a much smoother movement.
-
-Example: Using a mouse with Krita
-
-Example: Using a drawing tablet with Krita
-
-## Techniques for smooth strokes
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 There are many techniques and features to help you draw smooth strokes. Some will work for both mouse and tablet, and some are tablet-specific. [**Drawing smooth strokes**](../guides/drawing/drawing-smooth-strokes.md).
 
-For example, if an application offers position smoothing for strokes generally this will only be used when using a drawing tablet and not a mouse.&#x20;
+For example, if an application offers position smoothing for strokes generally this may only be used when using a drawing tablet and not a mouse.&#x20;
+
+Here's what Krita currently does:
+
+* Basic smoothing: applies ONLY to drawing tablets
+* Weighted smoothing: applies BOTH to drawing tablets and mice
+
+Here's what Clip Studio Paint does:
+
+* Stabilization: applies ONLY to drawing tablets &#x20;
 
 ## **Clicking and moving the pointer**&#x20;
 
