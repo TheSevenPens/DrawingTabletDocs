@@ -26,7 +26,7 @@ Tablets vary quite a bit in how much texture is on them. The Intuos Pro models (
 
 As you drag your pen on the surface you will eventually notice two forms of texture erosion:
 
-* thin or think marks
+* thin or thick marks
 * broad areas where the texture has been worn off
 
 These texture erosion marks can be very difficult to see. Depending on the lighting, they may be invisible, lighter than the texture color, or darker than the texture color.
@@ -97,4 +97,11 @@ Dropping sharp objects onto the surface of a pen tablet can result in big change
 
 ## Protecting the surface
 
-See this guide: [**protective sheets**](../../accessories/surface-protectors/)&#x20;
+There are options to help protect the surface
+
+* Maintain your pen nibs so that they don't develop a flat edge
+* Use a felt nib which is softer than a plastic nib.
+* Don't press down so hard on the tablet
+* Use [**surface protectors**](../../accessories/surface-protectors/)&#x20;
+* When traveling with the tablet, make sure you put it inside something to prevent something from scratching the surface
+
