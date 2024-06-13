@@ -72,5 +72,7 @@ Modern drawing tablets all support wired connection through USB. Some tablets al
 
 The pens for a modern drawing tablet neither use a cable nor do they have batteries. Instead they get power simply from being near the drawing tablet.
 
+## ProTip: Match aspect ratios when using a pen tablet
 
+Make sure you match aspect ratios when you are using a pen tablet so that drawing feels natural and your strokes are not distorted. More here: [Matching aspect ratios](../guides/customizing-your-experience/matching-aspect-ratios.md)  &#x20;
 
