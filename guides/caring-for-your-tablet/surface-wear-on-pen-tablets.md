@@ -15,12 +15,7 @@ In general, surface wear is not a problem, unless it interferes with your pen. T
 ## Types of surface wear
 
 * **Texture erosion** - where the surface texture starts getting a little smoother as you continue to move your pen over it. More here: [**Texture erosion on pen tablets**](surface-wear-on-pen-tablets-1.md).
-* False scratches
-* Scratches
-
-## Things that look like scratches but aren't
-
-False scratches are things that look like scratches but are really the result of a tablet surface that isn't clean. More here: [**False scratches**](false-scratches.md) &#x20;
+* **False scratches** - False scratches are things that look like scratches but are really the result of a tablet surface that isn't clean. More here: [**False scratches**](false-scratches.md) &#x20;
 
 ## Scratches
 
