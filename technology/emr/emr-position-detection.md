@@ -82,11 +82,13 @@ I must stress this, even the diagram makes it look like the horizontal and verti
 
 ## Basic position detection
 
-With the coils arranged horizontally and vertically, the coils can detect the position of the pen.
+With the coils arranged horizontally and vertically, the coils can detect the position of the pen. Th e  vertical coils detect the horizontal (x) position. The horizontal coils detect the vertical (y) position.
+
+Again notice that multiple coils in each dimension are detecting the signal for the pen.
+
+In this diagram below, the pen coincidentally is right on top of one vertical coil and one horizontal coil. As a result, a single strong peak signal for the both the horizontal and vertical components.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
-
-IN this diagram the pen coincidentally is right on top on vertical coil and one horizontal coil. So it is clear that one there is a single strong signal for the both the horizontal and vertical components.
 
 ## Interpolation of position
 
@@ -98,9 +100,13 @@ Also only a small number of coils detect the pen. For example in in any given di
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-In this case above the pen is in between two horizontal coils and between two vertical coils. So in these cases, the tablet has to look at the signal strengths and estimate the position of the pen between the coils.
+In this case above the pen is exactly in-between two horizontal coils and exactly in-between two vertical coils. So now in both the horizontal and vertical directions, there isn't a single strong signal, two signals in each direction have the same value. So the tablet, can infer that the pen is exactly between coils in both directions.
 
-EMR tablets are very good at doing this. For example, a typical Wacom EMR tablet can identify 5080 different positions inside every inch - that's 200 different positions for every millimeter! As you can see, the resolution of detection is surprisingly good.
+And of course the pen may not not be exactly on or exactly in-between coils as shown below.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
+
+So, a drawing tablet has to carefully look at the signal strengths to handle all these cases of the pen's position. Fortunately EMR tablets are very fast and accurate at doing this. In terms of resolution, a typical Wacom EMR tablet can identify 5080 different positions inside every inch - that's 200 different positions for every millimeter! As you can see, the resolution of detection is surprisingly good.
 
 ## Position at the corners and edges
 
