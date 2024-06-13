@@ -6,14 +6,7 @@ Almost certainly you've used a mouse with a computer, and this this document wil
 
 ## Positioning strategy
 
-First, mice and drawing tablets have very different positioning strategies.
-
-* Mice use relative positioning
-* Drawing tablets use absolute positioning
-
-Learn more here: [**Absolute versus relative positioning**](../guides/core-features/absolute-versus-relative-positioning.md)&#x20;
-
-Drawing tablets can simulate relative positioning if needed with [**mouse mode**](../guides/core-features/mouse-mode.md)
+Mice and drawing tablets have very different positioning strategies. Mice use **relative positioning**. Drawing tablets use **absolute positioning**. Learn more here: [**Absolute versus relative positioning**](../guides/core-features/absolute-versus-relative-positioning.md). Drawing tablets can simulate relative positioning if needed with [**mouse mode**](../guides/core-features/mouse-mode.md). However, I don't recommend using mouse mode.
 
 ## **Stroke smoothness in drawing apps**
 
@@ -21,9 +14,9 @@ With a drawing applications you'll notice that the strokes drawn with a mouse ha
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
-There are many techniques and features to help you draw smooth strokes. Some will work for both mouse and tablet, and some are tablet-specific. [**Drawing smooth strokes**](../guides/drawing/drawing-smooth-strokes.md).
+There are many techniques and features to help you draw smooth strokes. Some will work for both mouse and tablet, and some are specific to drawing tablets. More here: [**Drawing smooth strokes**](../guides/drawing/drawing-smooth-strokes.md).
 
-For example, if an application offers position smoothing for strokes generally this may only be used when using a drawing tablet and not a mouse.&#x20;
+Position smoothing (aka "stabilization") is one of these techniques. However, Some apps may allow position smoothing with drawing tablets but not with mice. &#x20;
 
 Here's what Krita currently does:
 
