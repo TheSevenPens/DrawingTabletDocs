@@ -66,6 +66,12 @@ These are the quick summary highlights. &#x20;
 
 * See: [Measuring hover height](measuring-hover-height.md)
 
+## Pen Hover -> Drag transition
+
+Background: Some tablets use one smoothing algorithm on hover and a different one on drag (when the pen is pressing down) and so the transition between these smoothing algorithms can create a slight jump in pointer position as the pen hits the surface.&#x20;
+
+Check for any hover-drag transitions that cause pointer movements.
+
 ## Display > Parallax
 
 ## Anti-glare sparkle
