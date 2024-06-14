@@ -61,3 +61,11 @@ RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable
 ## **Express Keys**
 
 NONE. The tablet does come with a remote with programmable keys.
+
+## Tilt compensation
+
+Tilting the pen within the supported tilt range did not significantly alter the pointer position. It remained close to the tip. I tried this with 3 different X3 Pro pens and got the same result.
+
+In one of the photos you may notice a slight separation between pointer and tip, I think this is mostly due to the position calibration of the pen and not so much the tilt.&#x20;
+
+<figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) tilt compensation - small.jpg" alt=""><figcaption></figcaption></figure>
