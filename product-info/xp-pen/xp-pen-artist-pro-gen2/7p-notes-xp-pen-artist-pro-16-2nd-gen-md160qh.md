@@ -69,3 +69,5 @@ Tilting the pen within the supported tilt range did not significantly alter the 
 In one of the photos you may notice a slight separation between pointer and tip, I think this is mostly due to the position calibration of the pen and not so much the tilt.&#x20;
 
 <figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) tilt compensation - small.jpg" alt=""><figcaption></figcaption></figure>
+
+I have heard a few comments on my YouTube channel indicating that some people found very bad tilt compensation. So far I believe if there is an issue it is only with a small number of defective units.&#x20;
