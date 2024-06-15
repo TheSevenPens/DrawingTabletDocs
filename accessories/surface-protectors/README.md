@@ -6,8 +6,8 @@ There are many options to protect the surface of your tablet from scratches, etc
 
 ## Considerations for all tablets&#x20;
 
-* **They don't interfere with the pen** - These protective sheets do NOT interfere with how your pen works. The EMR signal from the pen, passes right through non-metallic materials such as plastic or glass. &#x20;
-* **They don't interfere with touch.** Also, the protection options do not interfere with touch features of your tablets.
+* **Protectors do not interfere with the pen** - These protective sheets do NOT interfere with how your pen works. The EMR signal from the pen, passes right through non-metallic materials such as plastic or glass. &#x20;
+* **Protectors do not interfere with touch** - But check with the protector manufacturer to be sure.&#x20;
 
 ## Considerations for pen displays
 
@@ -28,10 +28,12 @@ There are many options to protect the surface of your tablet from scratches, etc
 * **atFoliX** - These are listed on amazon and eBay for a variety of sizes and products. I've never tried them. These protectors are clear and be used for pen displays.
 * **HealingShield** - Another brand that can be used for pen displays. Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review\_of\_the\_healingshield\_screen\_protector\_for/) 3/19/2023
 
-### iPad options
+### iPad protectors
 
 * [Paperlike for iPad](paperlike-for-ipad.md) &#x20;
 * Bellemond
+* Benks Matte Screen Protector
+  * [Teoh on Tech - Benks Matte Screen Protector (artist review)](https://www.youtube.com/watch?v=vZM\_y38UiGU) 2024/06/14
 
 ### DIY protection
 
