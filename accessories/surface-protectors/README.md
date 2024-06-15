@@ -32,8 +32,10 @@ There are many options to protect the surface of your tablet from scratches, etc
 
 * [Paperlike for iPad](paperlike-for-ipad.md) &#x20;
 * Bellemond
-* Benks Matte Screen Protector
+* Benks&#x20;
   * [Teoh on Tech - Benks Matte Screen Protector (artist review)](https://www.youtube.com/watch?v=vZM\_y38UiGU) 2024/06/14
+* SuperShieldz&#x20;
+  * [Teoh on Tech - Matte Screen Protector for drawing (review)](https://www.youtube.com/watch?v=oDRQDZh3kW8) 2023/06/12
 
 ### DIY protection
 
