@@ -247,6 +247,7 @@
     * [7P notes: Apple iPad versus drawing tablets](product-info/apple/7p-notes-apple-ipad-versus-drawing-tablets.md)
     * [7P notes: Apple iPad versus Samsung Galaxy Tab S](product-info/apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)
     * [7P notes: How I use iPads](product-info/apple/7p-notes-how-i-use-ipads.md)
+  * [Artisul](product-info/artisul.md)
   * [ASUS](product-info/asus/README.md)
     * [ASUS Pro Art Pen Display](product-info/asus/asus-pro-art-pen-display.md)
   * [Gaomon](product-info/gaomon/README.md)
