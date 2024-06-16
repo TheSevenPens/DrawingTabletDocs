@@ -19,6 +19,12 @@ I HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../guides/
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](./)&#x20;
 {% endhint %}
 
+## Pen tablets vs Pen displays
+
+My recommendation for beginners is to start with a pen tablet (medium size) and get used to that first.  Pen displays have pros and cons - don't assume they are better.
+
+Much more here: [**pen tablets vs pen displays**](../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
+
 ## Pen tablets
 
 These are tablets WITHOUT a screen that need to be connected to a computer (some support wireless) to work.
