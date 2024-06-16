@@ -8,4 +8,12 @@
 ## Artisul D16&#x20;
 
 * [Brad Colbow - Review of Artist D16](https://www.youtube.com/watch?v=CPlsBNjLje8) 2017/12/18
+* [Teoh Yi Chie - Review: Artisul D16 Pen Display with Battery-free Pen](https://www.youtube.com/watch?v=MhOw2GHBhDM) 2018/01/18
 
+## Artisul M0610 Pro&#x20;
+
+* [Teoh Yi Chie - Review: Artisul M0610 Pro graphics tablet](https://www.youtube.com/watch?v=57eSN81MX3s) - 2019/11/21&#x20;
+
+
+
+&#x20;
