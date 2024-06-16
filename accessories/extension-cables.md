@@ -2,9 +2,18 @@
 
 ### Overview
 
-Sometimes your cable's just aren't long enough. to solve that problem you can purchase extension cables.&#x20;
+Sometimes your cable's just aren't long enough. However, you can purchase extension cables.&#x20;
 
-You just have to make sure that the cable you purchase supports what you need. For example, an extension cable for a pen tablet is very easy to Purchas because a pen tablet doesn't require much power or data. However, if you want to use an USB-C extension cable for a pen display, you may need to ensure that is supports sending enough power or a display signal depending on hwo you intend to use the cable.
+Key requirements for an extension cable
+
+* For pen tablets
+  * It needs to support data and small amount of power - any USB 2.0 extension cable should work
+* For pen displays
+  * It must support data
+  * It must support DP alt mode
+  * it must support the resolution and refresh rate you need
+  * it must support sending enough power to your pen display
+  * <mark style="color:red;">**SAFETY CRITICAL**</mark> it must support AT LEAST as much power as the tablet's original cable. If it is not rated to handle that much power it will be a safety / fire risk.
 
 To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md).
 
