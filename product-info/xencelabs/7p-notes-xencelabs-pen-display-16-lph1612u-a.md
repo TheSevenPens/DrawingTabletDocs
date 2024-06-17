@@ -42,9 +42,9 @@
 
 ## Anti-glare sparkle
 
-Rating: OK. Sparkle visible. Has clearly more than the Wacom Cintiq Pro 16 (DTH-167)
+Rating: OK-ish. Moderate sparkle visible.&#x20;
 
-This is something I'd like to see Xencelabs improve for any future 4K tablets at this size. &#x20;
+Having some sparkle at 16" seems is normal for pen displays. However this amount is more than I would expect for a pro display. If you are sensitive to sparkle then this may not be the right tablet for you. This tablet clearly has more sparkle than the Wacom Cintiq Pro 16 (DTH-167). This is something I'd like to see Xencelabs improve for any future 4K tablets at this size. &#x20;
 
 AG Sparkle for Xencelabs Pen Display 16
 
