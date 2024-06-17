@@ -6,6 +6,7 @@
 * product page: [https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-27.html](https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-27.html)&#x20;
 * [陈瑜璟 - Huion Kamvas Pro 27 开箱，全球首发](https://www.youtube.com/watch?v=n4Jly9fYHjo) 2023/12/16&#x20;
 * [Brad Colbow review of the Huion Kamvas Pro 27 (GT2702)](https://www.youtube.com/watch?v=-NoCdSWq8AM) 2024/02/01
+* [MobileTechReview - Huion Kamvas Pro 27 4K Pen Monitor Review](https://www.youtube.com/watch?v=DAe2T85zyz0) 2024/06/17&#x20;
 
 ## Huion Kamvas Pro 19 (GT-1902)
 
