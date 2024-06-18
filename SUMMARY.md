@@ -383,6 +383,7 @@
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
   * [Koneko\_w](resources/koneko\_w.md)
 * [Process](process/README.md)
+  * [Pressure range data](process/pressure-range-data.md)
   * [Measuring hover height](process/measuring-hover-height.md)
   * [Measuring pressure](process/measuring-pressure.md)
   * [Measuring display sharpness](process/measuring-display-sharpness.md)
