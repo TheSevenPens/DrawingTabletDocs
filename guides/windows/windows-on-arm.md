@@ -16,9 +16,12 @@ I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdra
 
 ## WACOM testing results
 
+* Wacom - [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
 * driver version 6.4.6-2&#x20;
   * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installer says the operating system is not supported.
   * tested on 2024/06/18
+
+
 
 ## XP-PEN testing results
 
