@@ -6,7 +6,7 @@
 
 ## Cintiq Pro 16 (DTH-167)&#x20;
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-cintiq-pro-16-dth-167.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-dth-167.md)
 * Model year: 2021.&#x20;
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 * Be aware there is an older model from 2016 also (DTH-1620)
@@ -33,7 +33,7 @@
 
 ## Cintiq Pro 22 (DTH-227)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-cintiq-pro-22-dth-227.md) &#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-dth-227.md) &#x20;
 * Model year 2023
 * Product page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html)&#x20;
 
@@ -47,7 +47,7 @@
 
 ## Cintiq Pro 27 (DTH-271)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-dth271.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-dth-271.md)
 * Model Year: 2022
 * [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq\_pro\_27\_honest\_review/) Nov 2022
 * [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) Oct 14, 2022

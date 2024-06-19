@@ -12,6 +12,6 @@
 
 ## Huion Inspiroy RTP-700
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-inspiroy-rtp-700.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-rtp-700.md)
 * Model year: 2022
 * User manual: [https://www.huion.com/user-manual-95](https://www.huion.com/user-manual-95)

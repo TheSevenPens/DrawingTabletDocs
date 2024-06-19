@@ -11,7 +11,7 @@
 
 ## Pen
 
-Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../wacom-pen-models/7p-notes-wacom-pro-pen-3.md).
+Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../wacom-pen-models/7p-notes-wacom-acp50000dz.md).
 
 This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in terms of pressure response, IAF, max pressure.
 

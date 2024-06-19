@@ -31,8 +31,8 @@ If the active area is too big for you, then you should keep in mind that you can
 
 If you want a large pen tablet, pick from one of these:
 
-* Wacom Intuos Pro PTH-860: EXCELLENT ([**my notes on this tablet**](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60.md))
-* XP-Pen Deco Pro XLW GEN2 (MT1592B): VERY GOOD ([**my notes on this tablet**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/7p-notes-xp-pen-deco-pro-xlw-gen-2-mt1592b.md))
+* Wacom Intuos Pro PTH-860: EXCELLENT ([**my notes on this tablet**](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-pth-x60.md))
+* XP-Pen Deco Pro XLW GEN2 (MT1592B): VERY GOOD ([**my notes on this tablet**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/7p-notes-xp-pen-mt1592b.md))
 * Huion Inspiroy Giano G930L: GOOD ([**my notes on this tablet**](../../product-info/huion/huion-inspiroy/7p-notes-huion-giano-g930l.md))
 
 ## Video

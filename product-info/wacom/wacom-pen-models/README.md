@@ -7,11 +7,11 @@ Here you can find a list of common Wacom pens and some compatibility notes.
 ## **List of Wacom pens**
 
 * Wacom One pen GEN1 (CP-913)&#x20;
-* Wacom One pen GEN2 (CP-923) [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-one-pen-gen-2.md) &#x20;
-* 4K pen (LP-1100K) [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-2k-pen-lp-190k.md) &#x20;
+* Wacom One pen GEN2 (CP-923) [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-cp-923.md) &#x20;
+* 4K pen (LP-1100K) [<mark style="background-color:green;">**My notes on this pen**</mark>](7p-notes-wacom-lp-190k.md) &#x20;
 * 2K pen (LP-190K)&#x20;
-* Pro Pen 3 (ACP-50000DZ) - [<mark style="background-color:green;">**my notes on this pen**</mark>](7p-notes-wacom-pro-pen-3.md)  &#x20;
-* Pro Pen 2 (KP-504E)  - [<mark style="background-color:green;">**my notes on this pen**</mark>](7p-notes-pro-pen-2-kp-504e.md)&#x20;
+* Pro Pen 3 (ACP-50000DZ) - [<mark style="background-color:green;">**my notes on this pen**</mark>](7p-notes-wacom-acp50000dz.md)  &#x20;
+* Pro Pen 2 (KP-504E)  - [<mark style="background-color:green;">**my notes on this pen**</mark>](7p-notes-wacom-kp-504e.md)&#x20;
 * Pro Pen 3D (KP-505)
 * Pro Pen Slim (KP-301E)&#x20;
 * Pro Pen (KP-503E)

@@ -44,7 +44,7 @@ Here's a reddit thread with another manifestation of the problem with the CTC-61
 
 ## Notes on the new Wacom One Pen (GEN2)
 
-**See this:**[ 7p notes: Wacom One Pen (GEN2](../wacom-pen-models/7p-notes-wacom-one-pen-gen-2.md))&#x20;
+**See this:**[ 7p notes: Wacom One Pen (GEN2](../wacom-pen-models/7p-notes-wacom-cp-923.md))&#x20;
 
 ### **Pressure levels**
 

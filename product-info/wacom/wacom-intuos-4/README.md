@@ -25,4 +25,4 @@ You can still use these tablets with caveats that come with using older tablets.
 
 ## Wacom Intuos 4 XL
 
-[<mark style="background-color:green;">**My notes on the Intuos 4 Large**</mark>](7p-notes-wacom-intuos-4-xl-ptk-1240.md)
+[<mark style="background-color:green;">**My notes on the Intuos 4 Large**</mark>](7p-notes-wacom-ptk-1240.md)

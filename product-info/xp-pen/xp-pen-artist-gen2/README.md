@@ -24,7 +24,7 @@
 
 ## XP-Pen Artist 16 GEN2 (CD160FH)
 
-* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-xp-pen-artist-16-gen2-cd160fh.md)
+* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-xp-pen-cd160fh.md)
 * Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)&#x20;
 * [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) 2022/06/01
 * [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8\_Ng) 2022/05/26
