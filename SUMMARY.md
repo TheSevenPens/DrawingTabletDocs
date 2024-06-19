@@ -167,6 +167,7 @@
   * [Linux](guides/linux.md)
   * [Windows](guides/windows/README.md)
     * [Using a drawing tablet on Windows](guides/windows/using-a-drawing-tablet-on-windows.md)
+    * [Windows on ARM](guides/windows/windows-on-arm.md)
     * [Windows PNP support for drawing tablets](guides/windows/windows-pnp-support-for-drawing-tablets.md)
     * [Disable ripple effect rings in Windows](guides/windows/disable-ripple-effect-rings-in-windows.md)
     * [Disable the press-and-hold ring in Windows](guides/windows/disable-the-press-and-hold-ring-in-windows.md)
