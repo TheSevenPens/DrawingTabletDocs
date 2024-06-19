@@ -17,7 +17,7 @@ I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdra
 ## WACOM testing results
 
 * driver version 6.4.6-2&#x20;
-  * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installer says it is for x64 only
+  * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installer says the operating system is not supported.
   * tested on 2024/06/18
 
 ## XP-PEN testing results
