@@ -13,6 +13,8 @@ Most drawing tablets come with a limited-time trial license to some applications
 
 If you are interested in the apps I use and personally recommend: [**recommended apps**](7p-notes-recommended-apps.md)
 
+
+
 ## Pen-aware applications
 
 ### Creative 2D
@@ -82,6 +84,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 
 ## Roundups & reviews
 
+* [Brad Colnow - Best Alternative to Every Adobe Program](https://www.youtube.com/watch?v=lLab5ChFFho) 2024/06/20&#x20;
 * [Teoh on Tech - Popular drawing apps on iPad: 2023 survey results](https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb)  Sep 4, 2023&#x20;
 * [Teoh on Tech - Popular drawing apps on Android - Survey results are out](https://youtu.be/-HMcZqv33eo) Jul 27, 2023
 * [Teoh on Tech - Best drawing apps for Windows tablets](https://youtu.be/00OWlj75gA0) June 3, 2003   &#x20;
