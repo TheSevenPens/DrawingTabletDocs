@@ -93,6 +93,16 @@ The setting is called **Proportion**.
 * Go to **Pen Tablet**
 * Select **Proportion**
 
+### Xencelabs
+
+The setting is called Screen Ratio
+
+* Open the Xencelabs driver app
+* Go to **Device Settings**
+* Look in **Tablet to Screen Area Mapping**
+* There's a drop down on the left side. It has three options: **Full Tablet Area**, **Define Portion**, and **Screen Ratio**
+* Select **Screen Ratio** in the bottom&#x20;
+
 ## Pen displays and aspect ratios
 
 The active area of a pen display and their display panel inside the pen display are equivalent. So they always match.
