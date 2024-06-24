@@ -1,9 +1,5 @@
 # Laptops for digital art
 
-## Recommended specs
-
-
-
 ## **RAM**&#x20;
 
 These RAM recommendations are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
@@ -35,11 +31,15 @@ For a pen display, you should either
 
 ### Windows
 
-* [Surface Pro 8 or 9](../product-info/microsoft/microsoft-surface-pro-9.md)&#x20;
+* [Surface Pro 8, 9, and 10](../product-info/microsoft/microsoft-surface-pro-9.md) (**but NOT 11** - see the note on Windows on ARM Below)&#x20;
 * Surface Laptop Studio&#x20;
-* Surface Laptop 5&#x20;
+* Surface Laptop 5 & 6 (**not NOT 7** - see the note on Windows on ARM Below)&#x20;
 * Samsung Galaxy Book3 Pro 360&#x20;
 * Samsung Galaxy Book4 Pro 360 &#x20;
+
+### Important note on Windows on ARM laptops
+
+<mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](windows/windows-on-arm.md).
 
 ### Macs
 
