@@ -13,6 +13,7 @@
 * Model Year: 2024
 * product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
 * [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-huion-gt1902.md)&#x20;
+* [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024/06/21&#x20;
 * [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024/01/09
 * [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G\_L\_qU) 2024/03/04
 * [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024/02/14
