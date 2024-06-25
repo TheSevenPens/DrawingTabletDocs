@@ -10,6 +10,10 @@ Unfortunately, As of 2024/06/18 no drawing tablets work when used with Windows o
 
 I do expect this situation will be addressed quickly with driver updates. And I will update this page as the situation evolves.
 
+## June 2024 update video
+
+{% embed url="https://www.youtube.com/watch?v=3RGkj0vs-z0" %}
+
 ## Manufacturer driver testing results
 
 I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdragon X Elite processor.&#x20;
