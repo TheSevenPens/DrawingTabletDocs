@@ -4,6 +4,10 @@
 
 * [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro**</mark>](7p-notes-microsoft-surface-pro.md)
 
+## Microsoft Surface Pro 11&#x20;
+
+* [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2026/06/26&#x20;
+
 ## Microsoft Surface Pro 9
 
 * Product page: [https://www.microsoft.com/en-us/d/surface-pro-9](https://www.microsoft.com/en-us/d/surface-pro-9)&#x20;
