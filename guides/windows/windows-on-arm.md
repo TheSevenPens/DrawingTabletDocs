@@ -6,15 +6,17 @@
 
 We are now seeing Windows computers running on ARM processors. This holds gives us the possibility for cooler running, high-performance machines with great battery life.
 
+## Drawing tablets compatibility with Windows on ARM
+
 Unfortunately, As of 2024/06/18 no drawing tablets work when used with Windows on ARM processors. I had been hoping that tablet manufacturers would have already updated their drivers in preparing for the widespread availability of ARM PCs in June of 2024. However that did not happen. And existing intel tablet drivers do not work correctly.
 
 I do expect this situation will be addressed quickly with driver updates. And I will update this page as the situation evolves.
 
-## June 2024 update video
+### June 2024 update video
 
 {% embed url="https://www.youtube.com/watch?v=3RGkj0vs-z0" %}
 
-## Manufacturer driver testing results
+### Manufacturer driver testing results
 
 I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdragon X Elite processor.&#x20;
 
@@ -40,5 +42,11 @@ Wacom is aware of the issue and is working on ARM drivers - [Does Wacom have a d
 * driver version v15.7.6.1073&#x20;
   * status: <mark style="color:red;">**DOES NOT WORK**</mark> - driver UI does not launch, pen does not move pointer
   * tested on 2024/06/18
+
+## Older Windows ARM devices
+
+Microsoft previously released versions of the Surface Pro with using the SQ\`1 and SQ2 ARM processors.   Interestingly, the new Windows improvements for ARM processors seem to be improving performance on these old devices.
+
+See this reddit thread: [https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/](https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/)
 
 &#x20;
