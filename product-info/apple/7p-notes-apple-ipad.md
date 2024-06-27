@@ -41,10 +41,10 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 
 Some popular and excellent drawing applications are available on the iPad
 
-* [ProCreate](../../applications/procreate/)
-* [Clip Studio Paint](../../applications/clip-studio-paint/)
-* [Adobe Fresco](../../applications/fresco.md)
-* [Ibis Paint](../../applications/ibis-paint.md)
+* [ProCreate](../../application-info/procreate/)
+* [Clip Studio Paint](../../application-info/clip-studio-paint/)
+* [Adobe Fresco](../../application-info/fresco.md)
+* [Ibis Paint](../../application-info/ibis-paint.md)
 
 You can find a more complete list here: [**applications**](../../applications/).
 
@@ -121,12 +121,12 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## iPad apps for creative work
 
-* [Clip Studio Paint](../../applications/clip-studio-paint/) (My favorite for illustration!)&#x20;
-* [Procreate](../../applications/procreate/) (#1 iPad app for drawing)
+* [Clip Studio Paint](../../application-info/clip-studio-paint/) (My favorite for illustration!)&#x20;
+* [Procreate](../../application-info/procreate/) (#1 iPad app for drawing)
 * [Concepts](7p-notes-apple-ipad.md#concepts) &#x20;
 * [Infinite Painter](7p-notes-apple-ipad.md#infinite-painter)  &#x20;
-* [Medibang](../../applications/medibang.md)  &#x20;
-* [Paint Tool Sai](../../applications/painttool-sai.md) &#x20;
+* [Medibang](../../application-info/medibang.md)  &#x20;
+* [Paint Tool Sai](../../application-info/painttool-sai.md) &#x20;
 * [ArtRage](7p-notes-apple-ipad.md#artrage)  &#x20;
 
 ## How I use iPads
@@ -140,12 +140,12 @@ I use these iPad models with an Apple Pencil 2:
 
 I primarily these use iPad apps&#x20;
 
-* [Procreate](../../applications/procreate/)
-* [Clip Studio Paint](../../applications/clip-studio-paint/) &#x20;
+* [Procreate](../../application-info/procreate/)
+* [Clip Studio Paint](../../application-info/clip-studio-paint/) &#x20;
 
 I occasionally use these iPad apps
 
-* [Concepts](../../applications/concepts-app.md)  &#x20;
+* [Concepts](../../application-info/concepts-app.md)  &#x20;
 
 ## Transferring files between iPads and Windows
 
