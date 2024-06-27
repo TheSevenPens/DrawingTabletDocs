@@ -19,6 +19,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 
 ### Creative 2D
 
+* [**ArtFlow Studio**](http://artflowstudio.com/) (Android, ChromeOS)&#x20;
 * [**ArtRage**](./#artrage) (Windows, macOS, iOS, Android)
 * **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
 * [**Clip Studio Paint**](clip-studio-paint.md) (Windows, MacOS, Android, iOS)
