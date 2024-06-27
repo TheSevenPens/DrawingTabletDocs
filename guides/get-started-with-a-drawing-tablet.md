@@ -85,11 +85,11 @@ Perform this configuration: [**Disable the press-and-hold ring in Windows**](win
 
 ## Apps
 
-* **Krita -** I highly recommend you Install [**Krita**](../applications/krita.md). It is a FREE and good drawing app. Eve if you are not going to draw anything, it is useful for testing and troubleshooting.
+* **Krita -** I highly recommend you Install [**Krita**](../applications/krita/). It is a FREE and good drawing app. Eve if you are not going to draw anything, it is useful for testing and troubleshooting.
 * **Kleki -** [**Kleki**](../applications/kleki.md) is a FREE web-based app that is very simple. It's ideal I think for something for kids to start with before they try something complicated like Krita.
-* **Clip Studio Paint -** I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint.md).
+* **Clip Studio Paint -** I draw a lot of illustrations so I pay for a subscription to [**Clip Studio Paint**](../applications/clip-studio-paint/).
 * **Photopea** ([https://www.photopea.com/](https://www.photopea.com/)) is a web-based Photoshop-like app. It is very good and also has a free tier.
-* [**Procreate**](../applications/procreate.md) - this is THE drawing app to get if you are drawing on an iPad.
+* [**Procreate**](../applications/procreate/) - this is THE drawing app to get if you are drawing on an iPad.
 * [**Infinite Painter**](../applications/infinite-painter.md) - this is the equivalent of Procreate, but for Android devices.
 * **Other applications -** Look here to find a large number of applications to explore: [**applications**](../applications/)&#x20;
 

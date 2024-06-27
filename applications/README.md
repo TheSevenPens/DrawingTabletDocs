@@ -22,7 +22,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**ArtFlow Studio**](http://artflowstudio.com/) (Android, ChromeOS)&#x20;
 * [**ArtRage**](./#artrage) (Windows, macOS, iOS, Android)
 * **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
-* [**Clip Studio Paint**](clip-studio-paint.md) (Windows, MacOS, Android, iOS)
+* [**Clip Studio Paint**](clip-studio-paint/) (Windows, MacOS, Android, iOS)
 * **Adobe** [**Fresco**](fresco.md) (Windows, iOS, MacOS)
 * [**Firealpaca**](fireaplaca.md) (Windows, MacOS)
 * [**HiPaint**](hipaint.md) (Android, iOS)
@@ -30,7 +30,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * **Infinite Design** [https://www.infinitestudio.art/](https://www.infinitestudio.art/) (Android)
 * [**Infinite Painter**](./#infinite-painter) (Android, iOS)
 * [**Kleki**](kleki.md) (web) <mark style="background-color:purple;">**FREE**</mark>
-* [**Krita**](krita.md)  (Windows, Linux, MacOS) <mark style="background-color:purple;">**FREE**</mark>
+* [**Krita**](krita/)  (Windows, Linux, MacOS) <mark style="background-color:purple;">**FREE**</mark>
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
 * [**Medibang Paint**](medibang.md) (Windows, MacOS)
@@ -39,7 +39,7 @@ If you are interested in the apps I use and personally recommend: [**recommended
 * [**Painter**](painter.md)  (Windows, MacOS)
 * [**Paintstorm Studio**](paintstorm-studio.md)  (Windows, macOS, iOS, Linux)
 * **pixilart** - [https://www.pixilart.com/](https://www.pixilart.com/)  (web)
-* [**Procreate**](procreate.md) (iOS)
+* [**Procreate**](procreate/) (iOS)
 * [**Rebelle**](rebelle.md) (Windows, MacOS)
 
 ### Sketching

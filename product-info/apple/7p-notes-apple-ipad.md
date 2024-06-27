@@ -41,8 +41,8 @@ Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to ke
 
 Some popular and excellent drawing applications are available on the iPad
 
-* [ProCreate](../../applications/procreate.md)
-* [Clip Studio Paint](../../applications/clip-studio-paint.md)
+* [ProCreate](../../applications/procreate/)
+* [Clip Studio Paint](../../applications/clip-studio-paint/)
 * [Adobe Fresco](../../applications/fresco.md)
 * [Ibis Paint](../../applications/ibis-paint.md)
 
@@ -121,8 +121,8 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## iPad apps for creative work
 
-* [Clip Studio Paint](../../applications/clip-studio-paint.md) (My favorite for illustration!)&#x20;
-* [Procreate](../../applications/procreate.md) (#1 iPad app for drawing)
+* [Clip Studio Paint](../../applications/clip-studio-paint/) (My favorite for illustration!)&#x20;
+* [Procreate](../../applications/procreate/) (#1 iPad app for drawing)
 * [Concepts](7p-notes-apple-ipad.md#concepts) &#x20;
 * [Infinite Painter](7p-notes-apple-ipad.md#infinite-painter)  &#x20;
 * [Medibang](../../applications/medibang.md)  &#x20;
@@ -140,8 +140,8 @@ I use these iPad models with an Apple Pencil 2:
 
 I primarily these use iPad apps&#x20;
 
-* [Procreate](../../applications/procreate.md)
-* [Clip Studio Paint](../../applications/clip-studio-paint.md) &#x20;
+* [Procreate](../../applications/procreate/)
+* [Clip Studio Paint](../../applications/clip-studio-paint/) &#x20;
 
 I occasionally use these iPad apps
 
