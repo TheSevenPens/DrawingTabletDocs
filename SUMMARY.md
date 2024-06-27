@@ -156,6 +156,7 @@
     * [Heat](guides/ergonomics/heat.md)
   * [Touch support](guides/touch-support.md)
   * [General](guides/general/README.md)
+    * [Model names vs model numbers](guides/general/model-names-vs-model-numbers.md)
     * [Finding the model number of a drawing tablet](guides/general/finding-the-model-number-of-a-drawing-tablet.md)
     * [Using older drawing tablets](guides/general/using-older-drawing-tablets.md)
     * [Electromagnetic Interference](guides/general/electromagnetic-interference.md)

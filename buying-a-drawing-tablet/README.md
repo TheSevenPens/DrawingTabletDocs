@@ -115,6 +115,10 @@ Drawing tablets work **to some extent** with other kinds of devices. More here:
 * **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../guides/use-cases/gaming-with-a-drawing-tablet.md)&#x20;
 * **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](buying-a-drawing-tablet-for-osu.md) &#x20;
 
+## Look at model numbers, not just names
+
+Tablet names are confusing and often misleading. Make sure you make your decisions based on the model number. More here: [**Model names vs model numbers**](../guides/general/model-names-vs-model-numbers.md)
+
 ## Applications
 
 There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/). Here are the apps I specifically use: [**Recommended apps**](../applications/7p-notes-recommended-apps.md)&#x20;

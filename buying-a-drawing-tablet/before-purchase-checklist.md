@@ -33,10 +33,10 @@ Some reviewers to explore:
 
 Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
 
-Here is an example. Wacom has two tablets with similar names but that are very different: **Wacom One** (a pen display) and **One by Wacom** (a pen tablet). More about the differences here: [Wacom One vs One by Wacom](../product-info/wacom/wacom-one-vs-one-by-wacom.md)&#x20;
-
 * NEVER order by using the name of the tablet alone.
 * ALWAYS verify you have ordered correct model number.
+
+See this page for all the reasons why you should not rely on the model name: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md)&#x20;
 
 ## Make sure your working environment is usable
 
