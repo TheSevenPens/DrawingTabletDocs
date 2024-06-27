@@ -11,7 +11,7 @@ When purchasing or discussing drawing tablets you should <mark style="color:red;
 
 All these issues can cause people to purchase the wrong tablet or purchase the wrong accessories for the tablet.
 
-## The name name used for multiple tablets
+## The same name used for multiple tablets
 
 ### **Example: Wacom One**&#x20;
 
@@ -34,14 +34,21 @@ Currently this describes **5 different tablets** of different kinds and manufact
 
 These tablets names differ by where the word "Pro" is in their name. One has it in the middle and one has it a the end.
 
-* Artist Pro 16 (ID160F-E) ([product page](https://www.xp-pen.com/product/artist-pro-16.html))
-* Artist 16 Pro (doesn't have a model number) ([product page](https://www.xp-pen.com/product/artist-16-pro.html))
+* **Artist Pro 16 (ID160F-E)** ([product page](https://www.xp-pen.com/product/artist-pro-16.html))
+* **Artist 16 Pro (doesn't have a model number)** ([product page](https://www.xp-pen.com/product/artist-16-pro.html))
 
 ## Names reused for different releases
 
 ### Example: Wacom Intuos Pro
 
 <table><thead><tr><th>Model ID</th><th width="120">Year</th><th>Name</th></tr></thead><tbody><tr><td>PTH-860</td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td>PTH-851</td><td>2013</td><td>Intuos Pro Large (2013)</td></tr><tr><td>PTH-660</td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td>PTH-651</td><td>2013</td><td>Intuos Pro Medium (2013)</td></tr><tr><td>PTH-460</td><td>2019</td><td>Intuos Pro Small (2019)</td></tr><tr><td>PTH-451</td><td>2013</td><td>Intuos Pro Small (2013)</td></tr></tbody></table>
+
+## The similar names used across different brands
+
+## Example: Huion and XP-Pen
+
+* Huion Kamvas <mark style="color:red;">**22 Plus**</mark> (GS2202)
+* XP-Pen Artist <mark style="color:red;">**22 Plus**</mark> (MD220FH)
 
 ## Meanings of names have changed over the years
 
@@ -72,7 +79,26 @@ Sometimes PRO versions were released some years before the non-PRO versions and 
 
 
 
+## Tablets without model numbers
 
+If you can't find the  model number for a tablet, I don't suggest you get it.
+
+* If the manufacturer doesn't have a model number listed this typically indicates a very old and discontinued model
+* Not having a model number will make it more difficult for you get help from others. because, they may not be sure which tablet you are referring to.
+
+## Pro Tip: Use BOTH the model name and model number when talking about tables
+
+Of course, model numbers are sometimes hard to read, mysterious, and people may not be familiar with them.
+
+So, I suggest if you need to discuss a tablet use "Model name (Model number)" when talking about them. This keeps the reference to the tablet easy to use, and still makes it easy for people who are familiar with the model numbers to know which tablet you are talking about.
+
+For example:
+
+* Wacom Intuos Pro Large (PTH-860)
+* Huion Kamvas Pro 19 (GT1902)
+* XP-Pen Artist Pro 16 GEN2 (MD160QH)
+
+&#x20;
 
 
 
