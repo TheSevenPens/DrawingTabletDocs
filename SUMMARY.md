@@ -183,7 +183,7 @@
   * [Laptops for digital art](guides/laptops-for-digital-art.md)
 * [Applications](applications/README.md)
   * [List of apps](applications/list-of-apps.md)
-  * [Tips](applications/tips/README.md)
+  * [App tips](applications/tips/README.md)
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
   * [7P notes: Recommended apps](applications/7p-notes-recommended-apps.md)
 * [Troubleshooting](troubleshooting/README.md)
