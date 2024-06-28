@@ -182,6 +182,7 @@
       * [Configure Windows Ink in the tablet driver](guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md)
   * [Laptops for digital art](guides/laptops-for-digital-art.md)
 * [Applications](applications/README.md)
+  * [List of apps](applications/list-of-apps.md)
   * [Tips](applications/tips/README.md)
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
   * [7P notes: Recommended apps](applications/7p-notes-recommended-apps.md)
