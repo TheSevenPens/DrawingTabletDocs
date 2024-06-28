@@ -6,7 +6,8 @@
 
 ## Microsoft Surface Pro 11&#x20;
 
-* [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2026/06/26&#x20;
+* [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD\_tbn\_i50) 2024/06/28&#x20;
+* [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2024/06/26&#x20;
 
 ## Microsoft Surface Pro 9
 
