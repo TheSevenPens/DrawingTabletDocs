@@ -1,12 +1,17 @@
 # Chromebook testing results
 
-## **Pen tablets**
+## **Testing**
+
+* Chromebook hardware: HP Dragonfly Pro Chromebook
+* ChromeOS version: 126.0.06478.132
+
+## **Pen tablet results**
 
 **General limitations**\
 Keep in mind the general limitations that apply to pen tablets when used with a Chromebook
 
 * No pressure curves
-* No abilityto match the aspect ratio of the tablet's active area to the display which will result in distorted drawing
+* No ability to match the aspect ratio of the tablet's active area to the display which will result in distorted drawing
 
 **Wacom One M (CTC-6110WL)**
 
@@ -24,7 +29,7 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 * ChromeOS allows button to be customized: YES
 * Works with single USB-C cable: YES
 
-## **Pen displays**
+## **Pen display results**
 
 **HP Dragonfly Pro Chromebook + XP-Pen Artist Pro 16 GEN2**&#x20;
 
