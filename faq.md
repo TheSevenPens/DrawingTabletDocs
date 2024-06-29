@@ -20,7 +20,7 @@ YES, It is possible, but be prepared for potential limitations. Read more here: 
 
 ### Q: What size drawing tablet should I get?
 
-It really depends on a lot of factors. See the full write up here: [tablet size](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+It really depends on a lot of factors. See the full write up here: [**tablet size**](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
 
 ### Q: Should I update the tablet firmware?
 
@@ -86,11 +86,15 @@ See this guide: [**Dealing with water damage**](guides/caring-for-your-tablet/de
 
 ### Q: Can I use a metal nib with my pen?
 
-Answer: YES, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [**Using Metal Nibs**](guides/customizing-your-experience/using-metal-nibs.md)
+Answer: I personally do not recommend this,. However. YES it is possible, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [**Using Metal Nibs**](guides/customizing-your-experience/using-metal-nibs.md)
 
 ### Q: How do I connect my pen to my drawing tablet?
 
 More here: [**Connecting a pen to a drawing tablet**](guides/connections-and-cabling/connecting-a-pen-to-a-drawing-tablet.md)
+
+### Q: My pen is lost/broken. Can I just buy a replacement pen or do I have to buy a new tablet?
+
+You just need to buy a pen of the SAME EXACT MODEL and it will work with your tablet. You don't even have to connect it - just bring it close to your tablet and it will work.
 
 ## Drivers
 
