@@ -15,20 +15,7 @@ There are many tablet brands. And picking the brand of the tablet is one of the 
 
 ## Tier 2: Huion and XP-Pen
 
-**Huion and XP-pen** since about 2021 have been releasing solid devices
-
-* And although they have a large lineup of products that can be a little confusing
-* In 2023 and 2024 Huion and XP have released models with upgraded tech that are challenging Wacom's professional line. These include:
-  * Huion:Kamvas Pro 19, Kamvas Pro 27
-  * XP-Pen: Deco Pro GEN2, Artist Pro GEN2
-
-These brands trail Wacom in tech. Customer support is also trailing but improving.&#x20;
-
-Community is large so you can find help from others.&#x20;
-
-The have a large porfolio of tablets - too large actually.&#x20;
-
-Research your choice and you should find something that works well for you. Drawing experience good, typically you may find you need to perform more customization (pressure curves, etc.) to get the drawing experience that works for you.  More here: [**My notes on Tier 2 drawing tablet brands**](7p-notes-tier-2-drawing-tablet-brands.md) &#x20;
+**Huion and XP-pen** since about 2021 have been releasing decent devices and size 2023/2024 a couple very good ones that compete strongly with Wacom. In many ways they deliver 90% of what a typical person needs for about half the cost. They do trail Wacom in reliability and in customer support however. If you carefully research a tablet from these brands, you can find one that works for you. More here: [**My notes on Tier 2 drawing tablet brands**](7p-notes-tier-2-drawing-tablet-brands.md) &#x20;
 
 ## Tier 2: Xencelabs
 

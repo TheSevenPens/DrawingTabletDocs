@@ -4,7 +4,16 @@
 
 **HUION** ([https://www.huion.com/](https://www.huion.com/)) and **XP-PEN** ([https://www.xp-pen.com/](https://www.xp-pen.com/)) are the next big tablet brands. Their recent (2021 and later) models have been pretty good - but still trail Wacom a bit in quality and reliability. In general I think they offer 90% of what you get with a WACOM but at a substantial price reduction.&#x20;
 
-Like Wacom they both have a wide variety of products available.
+## Their best tablets
+
+In 2023 and 2024 Huion and XP have released models with upgraded tech that are challenging Wacom's professional line.&#x20;
+
+* Huion Kamvas Pro 19
+* Huion Kamvas Pro 27
+* XP-Pen Deco Pro GEN2
+* XP-Pen Artist Pro GEN2
+
+A lot of their improvements with these tablets are due to their pens handling pressure better: lower IAF and much wider pressure ranges than before.
 
 ## What HUION and XP-PEN do well:
 
