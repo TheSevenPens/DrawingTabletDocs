@@ -2,11 +2,11 @@
 
 ## Overview
 
-&#x20;As of June 2024, there are three 22" pen displays to consider buying
+&#x20;As of June 2024, there are three 22" pen displays to consider buying. All three are acceptable choices depending on your budget.
 
 * Wacom Cintiq Pro 22 (DTH-227)
 * XP-Pen Artist 22 Plus (MD220FH)
-* Huion Kamvas 22 Plus (GS2202)
+* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md) &#x20;
 
 ## Ranking
 
@@ -30,5 +30,5 @@ If the Cintiq Pro 22 is out of your price range I would pick the Artist 22 Plus 
 
 The Pro Pen 3 is clearly the superior pen.
 
-The X3 Pro pen is a big improvement from previous generations of XP-Pen pens.
+The X3 Pro pen is a big improvement from previous generations of XP-Pen pens. The X3 Pro pen is also better than the Huion PW517 pen.
 
