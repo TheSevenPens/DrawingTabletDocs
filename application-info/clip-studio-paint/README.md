@@ -47,3 +47,7 @@
 
 * [LavenderTowne - CLIP STUDIO PAINT IS BETTER + CHEAPER THAN PHOTOSHOP](https://youtu.be/2Y7VPCUtjCY) 2019/02/01
 
+## Licensing
+
+* [Create Now Sleep Later - Avoid Mistakes: Clip Studio Paint 3.0 License Guide](https://www.youtube.com/watch?v=8pBF2OL\_jrs) 2024/006/24&#x20;
+
