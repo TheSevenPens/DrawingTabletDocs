@@ -2,7 +2,27 @@
 
 ## **Pen tablets**
 
-**TBD**
+**General limitations**\
+Keep in mind the general limitations that apply to pen tablets when used with a Chromebook
+
+* No pressure curves
+* No abilityto match the aspect ratio of the tablet's active area to the display which will result in distorted drawing
+
+**Wacom One M (CTC-6110WL)**
+
+* Nothing works
+
+**Wacom Intuos Pro (PTH-660)**
+
+* Pointer: No pointer visible when using pen
+* Pressing down draws or clicks: YES
+* Pressure: works
+* Tilt: works
+* Lower button: works
+* Upper button: works
+* Device recognized as a pen tablet: yes
+* ChromeOS allows button to be customized: YES
+* Works with single USB-C cable: YES
 
 ## **Pen displays**
 

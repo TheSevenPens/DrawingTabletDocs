@@ -8,7 +8,7 @@ Pen tablets and pen displays can be used with Chromebooks. But be aware of the l
 
 ## Compatibility
 
-**\You MUST verify compatibility** with your tablet manufacturer. Not all tablets work with Chromebooks. Only some do. I suggest you also seek out the opinion of other users of your tablet model and see what their experience has been with Chromebooks.
+**You MUST verify compatibility** with your tablet manufacturer. Not all tablets work with Chromebooks. Only some do. I suggest you also seek out the opinion of other users of your tablet model and see what their experience has been with Chromebooks.
 
 ## Drivers
 
