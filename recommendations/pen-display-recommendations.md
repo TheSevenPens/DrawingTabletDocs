@@ -6,6 +6,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 * Make sure you know about [**anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
 * [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+* [**7P notes on 22" pen displays**](7p-notes-other/7p-notes-22-pen-displays-compared.md)&#x20;
 
 ## $200 to $300 &#x20;
 

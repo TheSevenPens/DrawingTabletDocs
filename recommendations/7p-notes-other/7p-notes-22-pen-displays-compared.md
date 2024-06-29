@@ -32,3 +32,7 @@ The Pro Pen 3 is clearly the superior pen.
 
 The X3 Pro pen is a big improvement from previous generations of XP-Pen pens. The X3 Pro pen is also better than the Huion PW517 pen.
 
+X3  Pro - has wider maximum pressure than the PW517
+
+X3 Pro - has eraser, PW517 does not
+
