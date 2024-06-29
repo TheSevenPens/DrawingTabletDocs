@@ -38,7 +38,7 @@
     * [7P notes: 13" pen displays compared](product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 * [Drawing tablet brands](drawing-tablet-brands/README.md)
   * [Drawing tablet brands vs digitizers](drawing-tablet-brands/drawing-tablet-brands-vs-digitizers.md)
-  * [7P notes: Tier 2 drawing tablet brands](drawing-tablet-brands/7p-notes-tier-2-drawing-tablet-brands.md)
+  * [7P notes: Huion and XP-Pen](drawing-tablet-brands/7p-notes-huion-and-xp-pen.md)
   * [7P notes: Xencelabs](drawing-tablet-brands/7p-notes-xencelabs.md)
   * [7P notes: Wacom](drawing-tablet-brands/7p-notes-wacom.md)
 * [Guides](guides/README.md)

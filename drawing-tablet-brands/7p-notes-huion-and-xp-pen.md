@@ -1,4 +1,4 @@
-# 7P notes: Tier 2 drawing tablet brands
+# 7P notes: Huion and XP-Pen
 
 ## Overview
 
@@ -31,7 +31,7 @@ A lot of their improvements with these tablets are due to their pens handling pr
 * Improve their Core EMR tech and specs - while on paper equivalent to Wacom are still trailing. For many artists they may not notice this, but tablet enthusiasts do certainly notice it. (Will be a topic for a future video)
 * Improve customer support. Both Huion and XP-Pen struggle with customer support. They tend to take more time to respond.&#x20;
 * Reliability - Huion and XP-pen a little lag behind Wacom. &#x20;
-* They offer too many products - with new models (with newer tech) and older models (with older tech) sitting alongside them. This makes it confusing to buyers.
+* Huion and XP-Pen  offer too many products - with new models (with newer tech) and older models (with older tech) sitting alongside them. This makes it confusing to buyers.
 * They should monitor and answer questions on [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/) and [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
-* Long-term reliability unknown compared to Wacom. This can't be helped, they have only been around since 2011 (Huion) and 2005 (XP-Pen). And their true EMR tablets (the ones where the pens do not have a battery) have only been around since the late 2010s.
+* Long-term reliability unknown compared to Wacom. This can't be helped, they have only been around since 2011 (Huion) and 2005 (XP-Pen). And their passive EMR tablets (the ones where the pens do not have a battery) have only been around since the late 2010s.
 

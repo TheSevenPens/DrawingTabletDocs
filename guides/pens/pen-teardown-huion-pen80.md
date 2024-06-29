@@ -8,7 +8,7 @@ See this reddit post:
 
 ## Huion PEN80
 
-The Huion PEN80 is a VERY OLD Huion pen. It use a an Active EMR pen - meaning it uses a rechargeable battery for power instead of getting power from the tablet. Again, it is very old and the newer Huion Pens like the PW517 (and other models) are true EMR pens.
+The Huion PEN80 is a VERY OLD Huion pen. It use a an active EMR pen - meaning it uses a rechargeable battery for power instead of getting power from the tablet. Again, it is very old and the newer Huion Pens like the PW517 (and other models) are passive EMR pens.
 
 I've mentioned the Huion PEN80 my 2022 EMR video as an example of one older method in which pressure information is transmitted from the pen to the tablet. c
 
