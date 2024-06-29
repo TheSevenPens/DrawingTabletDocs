@@ -49,4 +49,10 @@ Microsoft previously released versions of the Surface Pro with using the SQ\`1 a
 
 See this reddit thread: [https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/](https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/)
 
+## Native ARM applications
+
+Your best performance will be with those apps that are built for ARM.
+
+Go to [https://armrepo.ver.lt/](https://armrepo.ver.lt/) for a list of apps that are available with native ARM support.
+
 &#x20;
