@@ -18,6 +18,10 @@ Tablets work with the built-in drivers in the Chromebooks not the manufacturer d
 
 With pen tablets you will not be force the active area to match the display of the Chromebook. This means there will be a distortion to your drawing. More here: [**Matching aspect ratios**](../customizing-your-experience/matching-aspect-ratios.md).
 
+## Testing results
+
+[**Chromebook testing results**](chromebook-testing-results.md) &#x20;
+
 ## Resources&#x20;
 
 * [Wacom - Connect Wacom One with Chromebook 1](https://www.youtube.com/watch?v=6-TQN7S0yes) 2021/11/11
