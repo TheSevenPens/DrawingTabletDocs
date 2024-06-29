@@ -22,11 +22,11 @@ If the Cintiq Pro 22 is out of your price range I would pick the Artist 22 Plus 
 
 ## Pens
 
-| Tablet                          | Pen in the box  |
-| ------------------------------- | --------------- |
-| Wacom Cintiq Pro 22 (DTH-227)   | Wacom Pro Pen 3 |
-| XP-Pen Artist 22 Plus (MD220FH) | XP-Pen X3 Pro   |
-| Huion Kamvas 22 Plus (GS2202)   | Huion PW517     |
+| Tablet                          | Pen in the box  |                                                                                                                                              |
+| ------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wacom Cintiq Pro 22 (DTH-227)   | Wacom Pro Pen 3 |                                                                                                                                              |
+| XP-Pen Artist 22 Plus (MD220FH) | XP-Pen X3 Pro   | [<mark style="background-color:green;">**My notes on this pen**</mark>](../../product-info/xp-pen/xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md) |
+| Huion Kamvas 22 Plus (GS2202)   | Huion PW517     |                                                                                                                                              |
 
 The Pro Pen 3 is clearly the superior pen.
 
