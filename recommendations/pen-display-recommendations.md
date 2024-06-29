@@ -5,7 +5,7 @@
 It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/) first. These are recommendations for tablets that have have screens. If you are looking for a tablet without a screen go here: [**pen tablet recommendations**](pen-tablet-recommendations.md). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](standalone-drawing-tablet-recommendations.md).
 
 * Make sure you know about [**anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
-* [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+* [**7P notes on 13" pen displays**](7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
 ## $200 to $300 &#x20;
 
