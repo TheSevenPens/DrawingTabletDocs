@@ -6,7 +6,7 @@ You CAN use multiple drawing tablets at the same time with your computer. Howeve
 
 ## Notes on MacOS
 
-I have not tested it with MacOS.&#x20;
+I have tested this on MacOS and installed multiple tablet drivers
 
 ## Notes on Windows
 
