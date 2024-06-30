@@ -50,9 +50,9 @@ YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in
 
 ## **Diagonal wobble**
 
-RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it.
+RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it..
 
-<figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## **Ergonomics**
 
