@@ -2,34 +2,46 @@
 
 ## It DOES work
 
-You CAN use multiple drawing tablets at the same time with your computer. However, you need to be aware about the specific scenarios in which this will work and some issues that might encounter.
+You CAN use multiple drawing tablets at the same time with your computer.&#x20;
 
-## Notes on MacOS
+However, you need to be know which specific scenarios work and some issues that might encounter. There are also issues that are specific operating systems that come into play.&#x20;
 
-I have tested this on MacOS and installed multiple tablet drivers
+### Scenarios
 
-## Notes on Windows
+"Using multiple tablets" can mean mean various things.
 
-### The scenario that works
-
-Let's be explicit on the scenario that works:
+This scenario works:
 
 * 2 or more drawing tablets attached to the same computer
 * where you are using then pen with only one of them at one time
 
-### Requirement: You must use a single tablet driver
+This scenario does NOT work
 
-For you to use multiple tablets, a single driver must be installed and that driver must be compatible with each tablet.&#x20;
+* 2 or more drawing tablets attached to the same computer
+* With two people simultaneously using a pen on each tablet
 
-You cannot successfully use two separate tablet drivers even if you successfully install them.
+## Drivers
 
-### Cross-brand usage
+Fundamentally a driver needs to talk to all the tablets
 
-Owing to the restriction of having a single driver, you cannot mix an match tablet brands. For example, you cannot use both a Wacom and Huion tablet.
+**One driver and many tablets of same brand**
 
-### Requirement: The driver must let you manage the tablets individually
+If all the tablets are of the same brand - you can install a single driver and it will know how to deal with each tablet.&#x20;
 
-* The driver will need to identify and let you configure each tablet separately.
+This works on both Windows and MacOS
+
+**Many drivers and many tablets of different brands**
+
+If you want to use brand X and brand Y tablets, you need brand X driver and brand Y driver installed.
+
+On Windows, this usually leads to problems in my experience. The drivers interfere with each other. Some people seem to have no issues with this scenario. But I have experienced problems.&#x20;
+
+On MacOS, this works.
+
+### Requirement: The lets manage the tablets individually
+
+All modern drivers I've looked at let you configure each tablet individually. There's some way to "switch" which tablet the driver is configuring.&#x20;
+
 * In the Wacom Tablet Properties app you will see the tablets shown at the top&#x20;
 * In the Huion app, you can switch at the bottom
 * In the XP-Pen app, you can switch in the upper left
@@ -38,9 +50,9 @@ Owing to the restriction of having a single driver, you cannot mix an match tabl
 
 Each tablet can use a different pen. Of course, if you intend to switch between tablets it is convenient if you can use the same pen with each tablet.&#x20;
 
-### Tablet types
+### Using pen tablets an pen displays at the same time
 
-You can use both pen tablets and pen displays together with the same computer&#x20;
+You can use both pen tablets and pen displays together with the same computer.&#x20;
 
 ### The tablet driver can get confused
 
@@ -56,12 +68,12 @@ Sometimes people want to use two tablets on a computer because they have two chi
 
 Let's suppose both children are drawing simultaneous on their individual tablet. The pens will "fight" and the pointer will bounce back and forth rapidly and it will be impossible to draw.&#x20;
 
-### Support by brand
+### Support for managing multiple tablets in the driver
 
 * Wacom - YES
 * Huion - YES
 * XP-Pen - YES
-* Xencelabs - NO. As of September 2023, If you try it, the driver will tell you it is not yet supported. So in the future I do expect this to work.
+* Xencelabs - YES&#x20;
 
 ### Setups I tested on Windows
 

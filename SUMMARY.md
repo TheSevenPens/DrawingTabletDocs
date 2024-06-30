@@ -168,7 +168,6 @@
     * [Using a drawing tablet with an Android device](guides/general/using-a-drawing-tablet-with-an-android-device.md)
     * [Using a drawing tablet with a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
     * [Chromebook testing results](guides/general/chromebook-testing-results.md)
-    * [Installing multiple tablet drivers on the same computer](guides/general/installing-multiple-tablet-drivers-on-the-same-computer.md)
     * [Using multiple drawing tablets at the same time](guides/general/using-multiple-drawing-tablets-at-the-same-time.md)
   * [Linux](guides/linux.md)
   * [Windows](guides/windows/README.md)
