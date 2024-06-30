@@ -3,7 +3,7 @@
 ## **Windows**&#x20;
 
 * **WinTab** - [https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab](https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab) This is the older but still heavily used API. Even though the API is defined by Wacom, other graphics tablet manufacturers use this same API.
-* **Windows Ink** [https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough](https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough) This is the newer and much more sophisticated API.
+* **Windows Ink** [https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough](https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough) This is the newer and much more sophisticated API. More here [**WinTab API**](wintab-api.md).
 
 ## **MacOS**
 
@@ -13,13 +13,6 @@
 
 * **PenInspector** - [https://github.com/borco/peninspector](https://github.com/borco/peninspector)&#x20;
 * [**PenTracker** by Patrick Lauke](pentracker-by-patrick-lauke.md)&#x20;
-* WinTAB&#x20;
-  * [**cgikit.wintab**](https://cgkit.sourceforge.net/doc2/wintab.html) - As part of the Python Computer Graphics kit, the wintab module allows you to use Pyhon to get pen data via the WinTab interface.
-  * [WinTabControl](https://github.com/DennisWacom/WintabControl/) - A demo app showing using the WinTabDN nuget package with a Windows application to show current poition pressure, tilt, etc.
-  * [https://github.com/perlfu/WintabEmulator](https://github.com/perlfu/WintabEmulator)&#x20;
-  * [https://github.com/thehappycheese/wintab\_lite](https://github.com/thehappycheese/wintab\_lite)&#x20;
-  * [https://github.com/jchv/wintab-interposer](https://github.com/jchv/wintab-interposer)
-  * [https://github.com/TheSevenPens/WinTabPainter](https://github.com/TheSevenPens/WinTabPainter)
 
 ## Using HTML5 canvas with stylus
 

@@ -149,6 +149,7 @@
     * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
     * [Creating pen-aware applications](guides/advanced/creating-pen-aware-applications.md)
+    * [WinTab API](guides/advanced/wintab-api.md)
     * [PenTracker by Patrick Lauke](guides/advanced/pentracker-by-patrick-lauke.md)
   * [Ergonomics](guides/ergonomics/README.md)
     * [Body posture when using drawing tablets](guides/ergonomics/body-posture-when-using-drawing-tablets.md)
