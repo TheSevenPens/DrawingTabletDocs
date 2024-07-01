@@ -12,7 +12,7 @@
 ## Various tools and libraries
 
 * **PenInspector** - [https://github.com/borco/peninspector](https://github.com/borco/peninspector)&#x20;
-* [**PenTracker** by Patrick Lauke](pentracker-by-patrick-lauke.md)&#x20;
+* [**PenTracker** by Patrick Lauke](../guides/advanced/pentracker-by-patrick-lauke.md)&#x20;
 
 ## Using HTML5 canvas with stylus
 
