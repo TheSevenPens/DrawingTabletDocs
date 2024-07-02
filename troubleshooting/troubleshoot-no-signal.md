@@ -130,9 +130,18 @@ You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen di
 
 if your PC has a DisplayPort or DVI output, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md). &#x20;
 
-### Try NOT using an HDMI Adapter
+### Issues with HDMI Adapter
 
-Sometimes adapters themselves can be the source of the NO SIGNAL problem. Sometimes a different adapter might work. In some cases, an you have to NOT use an adapter.
+Sometimes adapters themselves can be the source of the NO SIGNAL problem.&#x20;
+
+* Try a different HDMI adapter .&#x20;
+* Try NOT using an HDMI adapter.
+
+## HDMI Splitters
+
+HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. more here: [**Using HDMI splitters with pen displays**](../guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
+
+* Try connecting WIHOUT an HDMI splitter
 
 ## Try using your pen display as your only display
 
