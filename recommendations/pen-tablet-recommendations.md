@@ -8,6 +8,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 * Many Wacom tablets are in this list. To better understand the difference in Wacom pen tablets see: [7P notes: Comparison of Wacom pen tablets](../product-info/wacom/7p-notes-comparison-of-wacom-pen-tablets.md)
 * I do recommend MEDIUM sized pen tablets. More here: [**Choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+* For beginners see: [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners.md)&#x20;
 
 ## $50 to $100&#x20;
 
