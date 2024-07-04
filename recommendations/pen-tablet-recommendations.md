@@ -4,6 +4,11 @@
 
 It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/) first. These are recommendations for tablets that don't have screens. If you are looking for a tablet with a screen go here: [**pen display recommendations**](pen-display-recommendations.md). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](standalone-drawing-tablet-recommendations.md).
 
+## Notes
+
+* Many Wacom tablets are in this list. To better understand the difference in Wacom pen tablets see: [7P notes: Comparison of Wacom pen tablets](../product-info/wacom/7p-notes-comparison-of-wacom-pen-tablets.md)
+* I do recommend MEDIUM sized pen tablets. More here: [**Choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+
 ## $50 to $100&#x20;
 
 * SMALL [**One by Wacom Small**](../product-info/wacom/one-by-wacom/) (CTL-472) $50
