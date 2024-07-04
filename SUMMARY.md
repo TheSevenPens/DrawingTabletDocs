@@ -232,6 +232,8 @@
   * [Artisul](product-info/artisul.md)
   * [ASUS](product-info/asus/README.md)
     * [ASUS Pro Art Pen Display](product-info/asus/asus-pro-art-pen-display.md)
+  * [Dell](product-info/dell/README.md)
+    * [Dell Canvas 27](product-info/dell/dell-canvas-27.md)
   * [Gaomon](product-info/gaomon/README.md)
     * [Gaomon Pen Tablet](product-info/gaomon/gaomon-pen-tablet.md)
     * [Gaomon Pro Pen Tablet](product-info/gaomon/gaomon-pro-pen-tablet.md)
