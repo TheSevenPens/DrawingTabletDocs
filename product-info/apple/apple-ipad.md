@@ -25,6 +25,7 @@
 ## 2024 iPad Air
 
 * [Brad Colbow 2024 iPad Air Review](https://www.youtube.com/watch?v=7l0eI3FQc60) 2024/05/21
+* [Teoh on Tech - M2 iPad Air 2024 (artist review): A more sensible choice, price-wise](https://www.youtube.com/watch?v=PzALk0SOTsw) 2024/07/04
 
 ## 2022 M2 Apple iPad Pro
 
