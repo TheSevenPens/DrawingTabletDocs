@@ -15,12 +15,15 @@ The key things you should know
 * Not all tablets work with Windows PNP tablet drivers
 * The drivers are extremely limited in what they can do.
 
+## Feature support
+
+* **pressure sensitivity** - PNP drivers do support this.
+* **tilt sensitivity** - PNP drivers support this
+
 ## Limitations of PNP drivers
 
 There are a large set of limitations that come with windows PNP mode. And many of the things you will need to configure with a drawing tablet simply are not available through PNP mode.
 
-* There is no pressure sensitivity. &#x20;
-* There is no tilt sensitivity
 * You cannot control how to map the active area of your tablet to a display in any way
   * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../customizing-your-experience/matching-aspect-ratios.md)
 * You cannot control what the buttons on the pen does
