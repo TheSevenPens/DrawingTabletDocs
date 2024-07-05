@@ -94,6 +94,11 @@ Both the times I've personally encountered this problem it seems like nothing I 
 
 If none of these suggestions are helping, then [**contact support**](../guides/general/contacting-support.md).
 
+In the meanwhile, you may be able to use alternative drivers on Windows:
+
+* Windows PNP drivers: [https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets](https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets)&#x20;
+* Open Tablet Driver: [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+
 ## Notes
 
 * When you plug in the tablet or unplug the tablet, check if the computer makes a "beep". This at least indicates that the computer is aware that there is some device there.
