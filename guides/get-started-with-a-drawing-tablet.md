@@ -22,7 +22,7 @@ If you don't have a drawing tablet, then try this [**detailed buying guide**](..
 * When you are not using it make sure its stored in such a way it doesn't fall off your desk.
 * HOWEVER, sometimes a pen seems to hit just right and the fall can damage the pen.&#x20;
 
-## Prepare for replaceming your pen
+## Prepare for replacing your pen
 
 The pen has somewhat delicate parts inside and is the most likely thing you will break. If you lose or damage your pen, there are some things you need to know:
 
