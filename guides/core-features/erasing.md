@@ -26,11 +26,11 @@ Erasers are relatively uncommon for EMR pens.
 
 Drawing apps have to add deliberate support for erasers. Some do have support. Some do not.
 
+## Usage of erasers
 
+Lots of people do use the eraser and find it critical, but then lots of people never use the eraser. I'm one of the "never use" category.
 
-
-
-
+For me flipping the pen around to use the eraser feels like it disrupts my flow and sometimes I simply am too clumsy and I have dropped the pen while I was rotating it. Also I just think it is faster to use a keyboard shortcut or to use my tourbox device.
 
 ### Pen compatibility with tablets
 
