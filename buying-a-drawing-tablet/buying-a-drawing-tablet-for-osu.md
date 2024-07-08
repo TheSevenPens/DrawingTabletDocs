@@ -11,6 +11,12 @@ If you do want a quick answer now though, these two tablets are excellent for os
 * One by Wacom Small (CTL-472)
 * One by Wacom Medium (CTL-672)
 
+You could also buy one of these tablets below, which are also great for osu, but they are very expensive and are not any better for osu than the ones listed above.
+
+* Wacom Intuos Pro Small (PTH-460)
+* Wacom Intuos Pro Medium (PTH-660)
+* Wacom Intuos Pro Large (PTH-860)
+
 
 
 
