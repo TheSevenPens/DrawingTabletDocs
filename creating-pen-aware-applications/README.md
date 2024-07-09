@@ -1,9 +1,11 @@
-# Creating pen-aware applications
+# Developers
 
 ## **Windows**&#x20;
 
-* **WinTab** - [https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab](https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab) This is the older but still heavily used API. Even though the API is defined by Wacom, other graphics tablet manufacturers use this same API.
-* **Windows Ink** [https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough](https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough) This is the newer and much more sophisticated API. More here [**WinTab API**](wintab-api.md).
+* **WinTab** - [https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab](https://developer-support.wacom.com/hc/en-us/articles/12844524637975-Wintab) This is the older but still heavily used API. Even though the API is defined by Wacom, other graphics tablet manufacturers use this same API. More here [**WinTab API**](wintab-api.md).
+* **Windows Ink** [https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough](https://docs.microsoft.com/en-us/windows/apps/design/input/ink-walkthrough) This is the newer API
+* More here: [**Wintab vs Windows Ink**](wintab-versus-windows-ink.md)&#x20;
+* &#x20;
 
 ## **MacOS**
 

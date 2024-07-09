@@ -190,6 +190,7 @@
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
   * [7P notes: Recommended apps](applications/7p-notes-recommended-apps.md)
 * [Developers](creating-pen-aware-applications/README.md)
+  * [WinTab versus Windows Ink](creating-pen-aware-applications/wintab-versus-windows-ink.md)
   * [WinTab API](creating-pen-aware-applications/wintab-api.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)
