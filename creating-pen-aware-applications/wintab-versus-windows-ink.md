@@ -25,7 +25,7 @@ Here's a small snippet of the relevant section of the doc
 
 Please read the document for the full details.
 
-## My perspective
+## My developer perspective
 
 But here are a few things that stand out to me:
 
@@ -34,3 +34,6 @@ But here are a few things that stand out to me:
   * I had a relatively simple time incorporating it into my test drawing app called [WinTabPainter](https://github.com/TheSevenPens/WinTabPainter).
 * You can find many projects that use WinTab
 * It has been difficult for me to find clear examples of how to use the Windows Ink API. Most of the code is heavily focused on the inking features - which is great but not on what I need which is a way to get the pen position, pressure, tilt data, etc.
+
+So at the moment, I intend to continue to use WinTab until I find an easy way to consume the Windows Ink APIs.
+
