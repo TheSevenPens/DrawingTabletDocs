@@ -28,6 +28,7 @@
 * [Brad Colbow - 10 Things I Love About Clip Studio Paint](https://youtu.be/lmx4QPvIRtQ) 2021/04/23
 * [Loading Artist - How to draw FAST using Clip Studio Paint's "secret features"](https://youtu.be/Uel2DS8L9zA)  2020/08/30
 * [JP Art - 50 Quick Tips & Tricks You Need](https://youtu.be/CQ3V5i5xm0g) 2021/12/17
+* [JP Art - CLIP STUDIO PAINT - 50 MORE Tips & Tricks You Need](https://www.youtube.com/watch?v=g6JttkY05zY) 2022/05/27
 * [Reddit - u/Trevor-On-Reddit - CSP brush recommendations](https://www.reddit.com/r/ClipStudio/comments/179atr6/just\_started\_out\_any\_brush\_recommendations) &#x20;
 
 ## Deep knowledge
