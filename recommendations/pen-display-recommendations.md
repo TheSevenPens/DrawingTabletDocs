@@ -14,7 +14,6 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
 * SMALL [**XP-Pen Artist 12 GEN2 (CD120FH )**](../product-info/xp-pen/xp-pen-artist-gen2/)
 * SMALL [**XP-Pen Artist 13 GEN2 (CD130FH)**](../product-info/xp-pen/xp-pen-artist-gen2/)&#x20;
-  * [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-cd160fh.md)&#x20;
 
 ## $300 to $500
 
@@ -25,6 +24,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
   * <mark style="color:red;">**NOT RECOMMENDED: SUBSTANDARD PRESSURE HANDLING**</mark>
 * SMALL [**XP-Pen Artist 16 GEN2 (CD160FH)**](../product-info/xp-pen/xp-pen-artist-gen2/) $400&#x20;
   * <mark style="color:red;">**NOT RECOMMENDED: EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
+  * [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-cd160fh.md)&#x20;
 * LARGE [**Huion Kamvas 22 (GS2201)**](../product-info/huion/huion-kamvas/) $450&#x20;
 * LARGE [**XP-Pen Artist 22 Plus (MD220FH)**](../product-info/xp-pen/xp-pen-artist.md) $470&#x20;
 
