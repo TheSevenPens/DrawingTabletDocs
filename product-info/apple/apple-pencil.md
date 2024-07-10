@@ -4,8 +4,9 @@
 
 * [product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iPad compatibility)
 * [Adam Duff - Apple Pencil Hover Is a Big Deal For Artists](https://www.youtube.com/watch?v=ZpcKfipVy24) 2022/11/01
-* Pen Tech: Apple pencil uses a propietary protocol that is similar to Wacom AES. It does NOT use EMR.
-* Power: Apple pencil contains an internal rechargable battery that is not removable.
+* iPad vs Apple pencil compatibility list - [https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841](https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841)&#x20;
+* Pen Tech: Apple pencil uses a proprietary protocol that is similar to Wacom AES. It does NOT use EMR.
+* Power: Apple pencil contains an internal rechargeable battery that is not removable.
 
 ## Core feature comparison
 
