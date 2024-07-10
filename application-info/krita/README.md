@@ -29,13 +29,14 @@
   * [Jenna Drawing - OW TO PAINT IN KRITA](https://youtu.be/Z06RRp81iDM) Sep 12, 2020
   * [Skills Factory: Krita - Tutorial for Beginners in 14 MINUTES! \[COMPLETE\]](https://www.youtube.com/watch?v=ZvXw2s1rfHY) Jan 19, 2022
   * [David Revoy - Tutorial: an illustration from A to Z with Krita Aug 15](https://www.youtube.com/watch?v=uYdEkOyFUn8), 2022
-  * [Moss Charmly - Krita Tools Explained (Beginner Tutorial)](https://www.youtube.com/watch?v=W9Gc7Mv0LYA) Nov 11, 2023
+  * [MossCharmly - Krita Tools Explained (Beginner Tutorial)](https://www.youtube.com/watch?v=W9Gc7Mv0LYA) Nov 11, 2023
   * [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq\_xOG)&#x20;
 * **Customizing**
   * [Moss Charmly - Making Krita easy Part 1 (Customizing Your Workspace)](https://youtu.be/24w7f\_yX3x8)&#x20;
 * **Tips**
   * [Krita - 10 Tricks to paint faster & better with Krita](https://www.youtube.com/watch?v=-LYfXyrGNe4)&#x20;
   * [Noctualis - 8 TIPS for Faster Painting in KRITA!](https://www.youtube.com/watch?v=JmA0LdqVcBI)&#x20;
+  * [MossCharmly - (How to) Plug-ins for Krita](https://www.youtube.com/watch?v=Oqv3rFuABYY) 2025/07/06
 * **Version updates**
   * [Brad Colbow - The Best Free Drawing App Just Got Better - Krita 5.0](https://youtu.be/jE02xGd2CCY) &#x20;
 * **Techniques**
