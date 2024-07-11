@@ -29,6 +29,13 @@ There are a large set of limitations that come with windows PNP mode. And many o
 * You cannot control what the buttons on the pen does
 * You cannot control what the buttons on the tablet do&#x20;
 
+## Forcing Windows to use PNP drivers
+
+* Uninstall your manufacturer's tablet driver
+* Restart your computer.
+
+When you computer starts back up it should be using the PNP drivers.
+
 ## Is your tablet using PNP drivers with your tablet?
 
 The easiest way to see if this how Windows is interacting with your tablet is to look at the system pointer.
