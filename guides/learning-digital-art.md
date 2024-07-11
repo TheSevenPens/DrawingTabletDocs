@@ -21,6 +21,11 @@ Many people use tablets **in addition** to other techniques. For example, some p
   * [Draw like a Sir - LEARN TO DRAW FROM 0 to 100!](https://www.youtube.com/watch?v=1jjmOF1hQqI) 2023/05/21
   * [Art tutorial for the intermediate painter](http://androidarts.com/art\_tut.htm)
 
+## Social
+
+* Kawaii Sensei ([https://x.com/KawaiiSensei\_jp](https://x.com/KawaiiSensei\_jp)) - There's lots of practical tips every day.
+* EtheringtonBrothers ([https://x.com/EtheringtonBros](https://x.com/EtheringtonBros)) - More frequent practical tips. And they publish useful printed guidebooks.
+
 ## Equipment
 
 * [Laptops for digital art](laptops-for-digital-art.md) &#x20;
