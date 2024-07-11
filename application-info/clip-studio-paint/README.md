@@ -30,6 +30,7 @@
 * [JP Art - 50 Quick Tips & Tricks You Need](https://youtu.be/CQ3V5i5xm0g) 2021/12/17
 * [JP Art - CLIP STUDIO PAINT - 50 MORE Tips & Tricks You Need](https://www.youtube.com/watch?v=g6JttkY05zY) 2022/05/27
 * [Reddit - u/Trevor-On-Reddit - CSP brush recommendations](https://www.reddit.com/r/ClipStudio/comments/179atr6/just\_started\_out\_any\_brush\_recommendations) &#x20;
+* [Wesley Gardner - My FAVORITE CLIP Studio Paint Features! Version 3 is here!](https://www.youtube.com/watch?v=kAnP\_jtSKMI) - 2024/04/25
 
 ## Deep knowledge
 
