@@ -4,6 +4,8 @@
 
 **Photodon** ([https://www.photodon.com/](https://www.photodon.com/)) creates screen protectors for many devices - and this includes many pen displays. They have a choice of materials and you can even order custom sizes.
 
+Direct link to their protectors for drawing tablets: [https://www.photodon.com/screen-protectors/drawing-tablets.html](https://www.photodon.com/screen-protectors/drawing-tablets.html)
+
 ## How to install
 
 Installation process: [https://www.youtube.com/watch?v=xnykx7BvKC4](https://www.youtube.com/watch?v=xnykx7BvKC4)
