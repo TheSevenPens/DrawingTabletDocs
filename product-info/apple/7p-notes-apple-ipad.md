@@ -126,7 +126,6 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 * [Concepts](7p-notes-apple-ipad.md#concepts) &#x20;
 * [Infinite Painter](7p-notes-apple-ipad.md#infinite-painter)  &#x20;
 * [Medibang](../../application-info/medibang.md)  &#x20;
-* [Paint Tool Sai](../../application-info/painttool-sai.md) &#x20;
 * [ArtRage](7p-notes-apple-ipad.md#artrage)  &#x20;
 
 ## How I use iPads
