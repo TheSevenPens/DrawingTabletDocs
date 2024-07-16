@@ -31,6 +31,7 @@
 * [JP Art - CLIP STUDIO PAINT - 50 MORE Tips & Tricks You Need](https://www.youtube.com/watch?v=g6JttkY05zY) 2022/05/27
 * [Reddit - u/Trevor-On-Reddit - CSP brush recommendations](https://www.reddit.com/r/ClipStudio/comments/179atr6/just\_started\_out\_any\_brush\_recommendations) &#x20;
 * [Wesley Gardner - My FAVORITE CLIP Studio Paint Features! Version 3 is here!](https://www.youtube.com/watch?v=kAnP\_jtSKMI) - 2024/04/25
+* [Nadiaxel - Clip Studio Paint Tutorial 5 Features you should know (Quick Mask, Selection Layers, etc.)](https://www.youtube.com/watch?v=VyTER9GdbHQ) 2022/02/11
 
 ## Deep knowledge
 
@@ -43,8 +44,6 @@
 
 * [CLIP STUDIO PAINT - Quick Access Menu](https://www.youtube.com/watch?v=sSpOdFO7sxA) 2022/02/13
 * [/r/ClipStudio - Fellas, show me your current workspace! Here's mine!](https://www.reddit.com/r/ClipStudio/comments/1afhp9w/fellas\_show\_me\_your\_current\_workspace\_heres\_mine/) 2024/01/31
-
-
 
 ## Switching to Clip Studio Paint
 
