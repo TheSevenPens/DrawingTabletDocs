@@ -4,7 +4,7 @@
 
 TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an input device that simplifies doing artwork with a drawing tablet. [<mark style="background-color:green;">**My notes on using the TourBox**</mark>](7p-notes-tourbox.md)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-25 122056.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-25 122056.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Summary
 

@@ -33,7 +33,7 @@ TYPICAL. - normal for a pen display.
 
 ## Express Keys
 
-**NONE**. So, I use keyboard shorts with this device: [tourbox](../../../accessories/tourbox/)
+**NONE**. So, I use keyboard shorts with this device: [tourbox](../../../accessories/auxiliary-input-devices/tourbox/)
 
 ## Pen tracking accuracy
 

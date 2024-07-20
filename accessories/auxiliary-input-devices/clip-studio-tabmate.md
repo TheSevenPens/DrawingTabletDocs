@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/tabmate_info_en (1).jpg" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tabmate_info_en (1).jpg" alt="" width="343"><figcaption></figcaption></figure>
 
 </div>
 

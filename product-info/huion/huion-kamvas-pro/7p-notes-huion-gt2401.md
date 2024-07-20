@@ -26,7 +26,7 @@ This Huion tablet not cheap at about $1300. But sometimes it is on sale at $1000
 
 **Anti-glare sparkle -** Low. Noticeable if you put your eyes close. At a normal drawing distance my eyes don't pick it up or at least it looks minimal.
 
-**Express Keys** - It has none. So, I use keyboard shorts with this device: [tourbox](../../../accessories/tourbox/)&#x20;
+**Express Keys** - It has none. So, I use keyboard shorts with this device: [tourbox](../../../accessories/auxiliary-input-devices/tourbox/)&#x20;
 
 **Texture** - the etched glass provides a nice texture for the pen so that it doesn't feel slippery.
 
