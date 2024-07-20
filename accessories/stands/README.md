@@ -1,10 +1,10 @@
 # Stands
 
+## Overview
+
 If you are looking for iPad stands go here: [**iPad stands**](https://www.amazon.com/HUION-Adjustable-Drawing-Displays-Suitable/dp/B09C5YJFGS)
 
-There are several options for stands.
-
-##
+There are several options for stands below.
 
 ## VESA-attached stands&#x20;
 
@@ -54,3 +54,6 @@ I've never used this specific stand, but it illustrated the key features you nee
 
 These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet of the stand.
 
+## Videos
+
+* [XOOT Tube - Quick Comparison of Stands : XOOT\_Pro vs Ergo Arm vs Cintiq Pro Stand](https://www.youtube.com/watch?v=oV56FRkXzGk) 2022/10/31
