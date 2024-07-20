@@ -54,6 +54,9 @@ I've never used this specific stand, but it illustrated the key features you nee
 
 These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet of the stand.
 
-## Videos
+## The XOOT Stand
 
-* [XOOT Tube - Quick Comparison of Stands : XOOT\_Pro vs Ergo Arm vs Cintiq Pro Stand](https://www.youtube.com/watch?v=oV56FRkXzGk) 2022/10/31
+[XOOT stand](xoot-stand.md)
+
+
+

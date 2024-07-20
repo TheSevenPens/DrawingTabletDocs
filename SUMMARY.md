@@ -388,6 +388,7 @@
     * [7P notes: TourBox](accessories/tourbox/7p-notes-tourbox.md)
   * [Clip Studio Tabmate](accessories/clip-studio-tabmate.md)
   * [Stands](accessories/stands/README.md)
+    * [XOOT Stand](accessories/stands/xoot-stand.md)
     * [iPad stands](accessories/stands/ipad-stands.md)
 * [Resources](resources/README.md)
   * [Drawing tablet community](resources/drawing-tablet-community.md)
