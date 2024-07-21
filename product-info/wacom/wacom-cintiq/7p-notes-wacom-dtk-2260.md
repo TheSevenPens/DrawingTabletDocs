@@ -40,6 +40,12 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 **Response time (G2G):** 22ms. This response time is fine for drawing and office work. Serious gamers will likely not want to use this for a gaming monitor.
 
+**Color gamut:**
+
+* 72% NTSC
+* 96% sRGB&#x20;
+* This is not a modern wide-gamut display so you might find it looks a little washed out compared to other displays. But I think it looks fine and works well for my needs.
+
 ## **Pen tracking**
 
 **Accuracy:** EXCELLENT in center an in edges and corners. very small deviation in corners and edges and better than many other tablets I have seen.
