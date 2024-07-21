@@ -32,7 +32,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 * SMALL [**Wacom One 13 touch** **GEN2 (DTH0134)**](../product-info/wacom/wacom-one-gen2/) $600&#x20;
   * <mark style="color:red;">**NOT RECOMMENDED: SUBSTANDARD PRESSURE HANDLING**</mark>&#x20;
-* MEDIUM [**Wacom Cintiq 16 (DTK-1660)**](../product-info/wacom/wacom-cintiq.md) $650
+* MEDIUM [**Wacom Cintiq 16 (DTK-1660)**](../product-info/wacom/wacom-cintiq/) $650
 * MEDIUM [**XP-Pen Artist Pro 16 GEN2 (MD160QH)** ](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md160qh.md)$600
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md160qh.md)&#x20;
 * LARGE [**Huion Kamvas 22 Plus (GS2202)**](../product-info/huion/huion-kamvas/) $550
@@ -49,7 +49,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 
 * MEDIUM [**Wacom Cintiq Pro 16**](../product-info/wacom/wacom-cintiq-pro/) (DTH-167) $1500&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-167.md)&#x20;
-* LARGE [**Wacom Cintiq 22**](../product-info/wacom/wacom-cintiq.md) (DTK-2260) $1200
+* LARGE [**Wacom Cintiq 22**](../product-info/wacom/wacom-cintiq/) (DTK-2260) $1200
 * LARGE[ **Huion Kamvas Pro 19**](../product-info/huion/huion-kamvas-pro/) (GT1902) $1100&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-gt1902.md) &#x20;
 * LARGE [**Huion Kamvas Pro 24 4K**](../product-info/huion/huion-kamvas-pro/) (GT2401) $1300
