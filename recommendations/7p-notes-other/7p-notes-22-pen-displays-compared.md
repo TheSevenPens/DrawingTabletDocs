@@ -5,6 +5,7 @@
 &#x20;As of June 2024, there are three 22" pen displays to consider buying. All three are acceptable choices depending on your budget.
 
 * Wacom Cintiq Pro 22 (DTH-227)
+  * If you want the same Wacom drawing quality but are willing to use an older device consider the Wacom Cintiq 22 (DTK-2260). [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq/7p-notes-wacom-dtk-2260.md)
 * XP-Pen Artist 22 Plus (MD220FH)
 * Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md) &#x20;
 
