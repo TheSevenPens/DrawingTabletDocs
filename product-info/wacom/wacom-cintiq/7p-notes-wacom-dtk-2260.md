@@ -106,6 +106,10 @@ I can't find a reference about it having fans or not. I put my ear right on top 
 
 Silent (as far as I could tell). if there is a noise it is very faint and not something I can hear.
 
+## Touch
+
+NO. This tablet does NOT support touch.
+
 ## Device shape
 
 It has a wedge shape. It is thicker at the top of the screen and thinner at the bottom of the screen. So laying it on a desk surface gives it a very slight angle of maybe 10 degrees. It's nice to have some angle but typically if drawing at an angle is important for you, then get a stand.&#x20;
