@@ -44,7 +44,7 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 * 72% NTSC
 * 96% sRGB&#x20;
-* This is not a modern wide-gamut display so you might find it looks a little washed out compared to other displays. But I think it looks fine and works well for my needs.
+* The colors look fine. This is not a modern wide-gamut display so you might find it looks less saturated than other modern displays. But I think it looks fine and works well for my needs. I prefer to work in sRGB anyway.
 
 ## **Pen tracking**
 
