@@ -110,6 +110,10 @@ Silent (as far as I could tell). if there is a noise it is very faint and not so
 
 NO. This tablet does NOT support touch.
 
+## Heat
+
+I ran the display at 100% brightness for two hours. The overall tablet is about room temperature with a very slight (very slight) warms to wards the left side.&#x20;
+
 ## Device shape
 
 It has a wedge shape. It is thicker at the top of the screen and thinner at the bottom of the screen. So laying it on a desk surface gives it a very slight angle of maybe 10 degrees. It's nice to have some angle but typically if drawing at an angle is important for you, then get a stand.&#x20;
