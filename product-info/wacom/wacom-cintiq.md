@@ -7,6 +7,7 @@
 ## Wacom Cintiq 22 (DTK-2260)
 
 * Model year: 2019
+* [My notes on this tablet](wacom-cintiq/7p-notes-wacom-dtk-2260.md)
 * [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
 * [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
 
