@@ -1,4 +1,4 @@
-# Nib material
+# Pen nib material
 
 ## Overview
 
@@ -24,7 +24,7 @@ See this video for an explanation of how standard, elastomer, and felt feel: [ht
 
 ## Metal nibs
 
-I DO NOT recommend [**using a metal nib**](../customizing-your-experience/using-metal-nibs.md).
+I DO NOT recommend [**using a metal nib**](../guides/customizing-your-experience/using-metal-nibs.md).
 
 
 

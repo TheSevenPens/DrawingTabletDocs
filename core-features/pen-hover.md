@@ -28,7 +28,7 @@ Even though the typical hover height is 10mm, The EMR sensor itself can detect t
 
 ## Controlling the maximum hover height
 
-Drivers from tablet manufacturers offer no user control over the maximum hover height. The height locked into the code of the driver. However, [**OpenTabletDriver**](../drivers/opentabletdriver/) does have plugins that let you control the hover height.
+Drivers from tablet manufacturers offer no user control over the maximum hover height. The height locked into the code of the driver. However, [**OpenTabletDriver**](../guides/drivers/opentabletdriver/) does have plugins that let you control the hover height.
 
 ## Turning off hover
 

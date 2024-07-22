@@ -18,7 +18,7 @@ In your operating system, you can configure the **displays settings** to not use
 
 ## Lag
 
-Pen tablets have low pointer lag. Pen displays have higher pointer lag. More here: [lag](../core-features/lag.md)
+Pen tablets have low pointer lag. Pen displays have higher pointer lag. More here: [lag](../../core-features/lag.md)
 
 If you use a pen display even if the screen is off, you will still likely see the larger pointer lag.
 

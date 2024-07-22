@@ -50,16 +50,16 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 ## **Core drawing tablet features**
 
 * **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md) will help you find a size size that works for you.&#x20;
-* **Pressure -** The pen can detect how much pressure you are putting on its tip. All drawing tablets sense pressure. More info: [**pressure**](../guides/core-features/pen-pressure.md).&#x20;
+* **Pressure -** The pen can detect how much pressure you are putting on its tip. All drawing tablets sense pressure. More info: [**pressure**](../core-features/pen-pressure.md).&#x20;
   * **Initial Activation Force (IAF)** is smallest pressure that activates the pen. In general you want a pen that has a low (<=3gf) IAF. Modern drawing tablet pens are around this value.
   * The **maximum pressure** is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Higher maximum pressure means that the pressure range is wide and is better for drawing because it lets you have better control over how pressure affects your stroke. &#x20;
-* **Tilt**  can be very useful for for certain kinds of artwork. If you are just taking notes it may not be useful at all. Almost all modern tablets support tilt, except for some consumer Wacom tablets. More here [**tilt**](../guides/core-features/pen-tilt.md).
+* **Tilt**  can be very useful for for certain kinds of artwork. If you are just taking notes it may not be useful at all. Almost all modern tablets support tilt, except for some consumer Wacom tablets. More here [**tilt**](../core-features/pen-tilt.md).
 * **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
-* **Diagonal wobble** - All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../guides/core-features/diagonal-wobble.md).
+* **Diagonal wobble** - All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../core-features/diagonal-wobble.md).
 
 ## **Secondary features**
 
-* **ExpressKeys** are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../guides/core-features/expresskeys.md)&#x20;
+* **ExpressKeys** are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../core-features/expresskeys.md)&#x20;
 * **Touch** - A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support.md)
 
 ## Pen display topics
@@ -99,7 +99,7 @@ Drawing tablets work **to some extent** with other kinds of devices. More here:
 ## Ergonomics
 
 * **Thickness** - Pen tablets are very then these days - about 8mm. Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm. Lately (2024) some pen displays are starting to use OLED display panels and are getting very then. For example the Wacom Movink 13 (DTH-135) is about 6mm thick.&#x20;
-* **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../guides/core-features/surface-texture.md)&#x20;
+* **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../core-features/surface-texture.md)&#x20;
 * **Body posture** - With a pen tablet, your torso will naturally have a more vertical posture. This is because you will be looking at your monitor while you hand rests on the pen tablet which is on your desk.  With a pen display, you will be leaning over a bit to draw since you must look at the pen tablet on you desk. You may experience lower back pain or strain on your neck from looking down. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)
 * **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [**Using monitor arms with a pen display**](../accessories/using-monitor-arms-with-a-pen-display.md)&#x20;
 * **Legs** - Many pen displays (not not all) have foldable legs on the back. This allows you to keep the pen display at a slight angle on your desk which makes it a bit easier to see and draw on. Pen tablets do not have legs. If you want to place them at an angle, you will need to find and purchase some other solution.
@@ -129,7 +129,7 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 ## Power
 
-Depending on the kind of tablet it will draw different amounts of power. Pen tablets requrie very little. Pen displays need much more. Some pen tablets even have batteries so that they can work wirelessly. More here: [Powering a drawing tablet](../guides/core-features/powering-a-drawing-tablet.md)&#x20;
+Depending on the kind of tablet it will draw different amounts of power. Pen tablets requrie very little. Pen displays need much more. Some pen tablets even have batteries so that they can work wirelessly. More here: [Powering a drawing tablet](../core-features/powering-a-drawing-tablet.md)&#x20;
 
 ## Picking tablets with more recent tech
 

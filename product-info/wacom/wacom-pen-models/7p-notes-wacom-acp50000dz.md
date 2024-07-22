@@ -10,7 +10,7 @@ The Wacom Pro Pen 3 (ACP50000DZ) is a very normal EMR pen that lives up to previ
 
 ### Background
 
-Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../../guides/core-features/pen-pressure.md)  &#x20;
+Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../../core-features/pen-pressure.md)  &#x20;
 
 ### Pressure levels
 
@@ -142,7 +142,7 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 
 ## Barrel rotation
 
-The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../../guides/core-features/pen-barrel-rotation.md)  &#x20;
+The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../../core-features/pen-barrel-rotation.md)  &#x20;
 
 ## Eraser
 

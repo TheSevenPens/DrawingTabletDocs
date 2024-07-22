@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Size = Active Area Size.** The way we measure a tablets size is NOT the physical size of the device. Instead we measure the diagonal of the ACTIVE AREA of the tablet. The ACTIVE AREA is the region on the surface of the tablet that is responsive to the tablet's EMR pen. Learn more: [**Active area**](../core-features/active-area.md) & [**Active area size**](../core-features/active-area-size.md)
+**Size = Active Area Size.** The way we measure a tablets size is NOT the physical size of the device. Instead we measure the diagonal of the ACTIVE AREA of the tablet. The ACTIVE AREA is the region on the surface of the tablet that is responsive to the tablet's EMR pen. Learn more: [**Active area**](../../core-features/active-area.md) & [**Active area size**](../../core-features/active-area-size.md)
 
 ## Companion Video
 

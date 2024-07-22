@@ -64,7 +64,7 @@ It **MAY** be possible to fix. More here: [**Dead pixels**](guides/pen-displays/
 
 ### Q: Is it normal for pen to lag?
 
-Answer: YES. All drawing tablets experience some kind of lag. Pen tablets experience less lag than pen displays. However, extreme lag is not normal. You should be able to comfortably draw even if there is some lag. Read my notes on [**pen lag**](guides/core-features/lag.md)
+Answer: YES. All drawing tablets experience some kind of lag. Pen tablets experience less lag than pen displays. However, extreme lag is not normal. You should be able to comfortably draw even if there is some lag. Read my notes on [**pen lag**](core-features/lag.md)
 
 ### Q: Can I extend the length of my cables?
 

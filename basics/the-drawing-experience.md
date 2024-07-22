@@ -42,4 +42,4 @@ Unfortunately without trying a pen tablet it's really difficult to tell if you w
 
 With a pen display, the active are and the screen have the same size. This means the pen will draw exactly where you see it draw.
 
-With a pen tablet, the active area where you raw is separate from the monitor where you see the your strokes. Unless specifically configured in the driver, this will cause your strokes to be distorted. For example if you draw a circle on the tablet it will show up as an oval on the screen. It is easy to fix this problem in the driver. More here: [**match aspect ratios between pen tablets and monitors**](../guides/core-features/active-area-aspect-ratio.md).
+With a pen tablet, the active area where you raw is separate from the monitor where you see the your strokes. Unless specifically configured in the driver, this will cause your strokes to be distorted. For example if you draw a circle on the tablet it will show up as an oval on the screen. It is easy to fix this problem in the driver. More here: [**match aspect ratios between pen tablets and monitors**](../core-features/active-area-aspect-ratio.md).

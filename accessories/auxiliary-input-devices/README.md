@@ -4,7 +4,7 @@
 
 When using a drawing tablet, you will often need to provide additional input to the computer. For example, press a shortcut key to change brushes.
 
-Some tablets have built-in buttons and dials called [**Express Keys**](../../guides/core-features/expresskeys.md) to perform that task. These express keys can be customized and even be configured to different things when you are using different applications.
+Some tablets have built-in buttons and dials called [**Express Keys**](../../core-features/expresskeys.md) to perform that task. These express keys can be customized and even be configured to different things when you are using different applications.
 
 But some tablets don't have these express keys or some people just don't like using them, so they rely on other input devices.
 

@@ -1,4 +1,4 @@
-# XP-Pen X3 Pro pen
+# 7P notes: XP-Pen X3 Pro pen
 
 ## O**verview**&#x20;
 
@@ -20,7 +20,7 @@ Obligatory 16K pressure level screenshot. This is what it shows in the driver.&#
 
 There is no noticeable impact on my drawing.
 
-More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md)&#x20;
+More here: [**pen pressure**](../../../core-features/pen-pressure.md)&#x20;
 
 ## Pen features
 

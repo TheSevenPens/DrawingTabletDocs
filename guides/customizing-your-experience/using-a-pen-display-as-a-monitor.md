@@ -48,7 +48,7 @@ Typically monitors have to aspect ratios: 16:9 and 16:10. And there are variety 
 
 Pen displays have much less diversity of aspect ratios. The vast majority of modern pen displays are exactly 16:9. A very small number are 16:10.
 
-Learn more: [**active area aspect ratio**](../core-features/active-area-aspect-ratio.md)&#x20;
+Learn more: [**active area aspect ratio**](../../core-features/active-area-aspect-ratio.md)&#x20;
 
 ## Display panel technology
 

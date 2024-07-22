@@ -11,7 +11,7 @@
 * All tablets are slightly inaccurate. Naturally it is much more obvious when a pen display is inaccurate.
 *   #### Pen tracking calibration
 
-    If your pen's position is not matching where the pointer is, [**pen tracking calibration**](../customizing-your-experience/calibrate-pen-position-on-a-pen-display.md) may help.
+    If your pen's position is not matching where the pointer is, [**pen tracking calibration**](../guides/customizing-your-experience/calibrate-pen-position-on-a-pen-display.md) may help.
 
 ## Video: Accuracy in pen displays
 

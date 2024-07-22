@@ -61,7 +61,7 @@
 
 ### Pointer lag&#x20;
 
-* **Background:** [**lag**](../../../guides/core-features/lag.md)
+* **Background:** [**lag**](../../../core-features/lag.md)
 * **In absolute terms**, The Cintiq Pro 27 has shows moderate pointer lag.&#x20;
   * Pen tablets (like the Intuos Pro Large PTH-860) have much less lag than this Cintiq. These have EXCELLENT lag.
   * Apple iPads have much less lag than this Cintiq, but not quite as little as pen displaces. These have EXCELLENT log.
@@ -70,7 +70,7 @@
 
 ### Tilt
 
-* More here: [**Pen tilt**](../../../guides/core-features/pen-tilt.md)&#x20;
+* More here: [**Pen tilt**](../../../core-features/pen-tilt.md)&#x20;
 * Tilt support with the Cintiq Pro 27 is standard for Wacom: EXCELLENT.
   * Tilt is smooth, accurate, and responsive.
   * Tilt works correctly at edges and corners.
@@ -78,7 +78,7 @@
 
 ### Pen tracking accuracy
 
-* Background: [**pen tracking**](../../../guides/core-features/pen-tracking.md) &#x20;
+* Background: [**pen tracking**](../../../core-features/pen-tracking.md) &#x20;
 * Wacom does not publish pen tracking accuracy numbers
 * But we can compare it to other tablets that do have published numbers
 * Here are the accuracy numbers for the Huion Kamvas Pro 24 4K (GT2401) as
@@ -118,7 +118,7 @@ Rating: OK&#x20;
 
 <figure><img src="../../../.gitbook/assets/Wacom Cintiq Pro 27 (DTH-271).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Compare to some other diagonal samples linked from here: [diagonal wobble](../../../guides/core-features/diagonal-wobble.md)&#x20;
+Compare to some other diagonal samples linked from here: [diagonal wobble](../../../core-features/diagonal-wobble.md)&#x20;
 
 ## **Display**
 

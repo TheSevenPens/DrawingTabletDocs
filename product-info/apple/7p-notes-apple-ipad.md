@@ -87,7 +87,7 @@ If you are going to draw with an Apple Pencil I recommend you get either the App
 
 ## Pen hover
 
-Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../guides/core-features/pen-hover.md)&#x20;
+Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../core-features/pen-hover.md)&#x20;
 
 Hover support in iPads:
 
@@ -101,7 +101,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 ## Pointer lag
 
 * iPads have incredibly little pointer lag. &#x20;
-* More here: [lag](../../guides/core-features/lag.md)&#x20;
+* More here: [lag](../../core-features/lag.md)&#x20;
 
 ## **Anti-glare sparkle**
 

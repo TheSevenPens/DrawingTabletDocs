@@ -6,7 +6,7 @@ Almost certainly you've used a mouse with a computer, and this this document wil
 
 ## Positioning strategy
 
-Mice and drawing tablets have very different positioning strategies. Mice use **relative positioning**. Drawing tablets use **absolute positioning**. Learn more here: [**Absolute versus relative positioning**](../guides/core-features/absolute-versus-relative-positioning.md). Drawing tablets can simulate relative positioning if needed with [**mouse mode**](../guides/core-features/mouse-mode.md). However, I don't recommend using mouse mode.
+Mice and drawing tablets have very different positioning strategies. Mice use **relative positioning**. Drawing tablets use **absolute positioning**. Learn more here: [**Absolute versus relative positioning**](../core-features/absolute-versus-relative-positioning.md). Drawing tablets can simulate relative positioning if needed with [**mouse mode**](../core-features/mouse-mode.md). However, I don't recommend using mouse mode.
 
 ## **Stroke smoothness in drawing apps**
 

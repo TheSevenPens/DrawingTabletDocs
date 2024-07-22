@@ -51,7 +51,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 
 ## How the pen & tablet work with the computer
 
-* Once the tablet driver is installed and the tablet is connected it will detect the pen. It will treat the pen just like a mouse. (except a mouse uses relative positioning and the pen uses absolute positioning. more here: [**Absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md))
+* Once the tablet driver is installed and the tablet is connected it will detect the pen. It will treat the pen just like a mouse. (except a mouse uses relative positioning and the pen uses absolute positioning. more here: [**Absolute versus relative positioning**](../core-features/absolute-versus-relative-positioning.md))
 * If the pen is in range (about 10mm) of the tablet or touching the tablet , then moving the pen will move the mouse pointer.
   * If the pen is not touching the tablet, it will be like your are not pressing down any mouse buttons
   * if the pen is touching the tablet, it will be like you are holding down the left mouse button
@@ -65,7 +65,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
   * Huion calls this the "Working Area"
   * I will always call it the "active area" because that is the oldest term for it.
 * Go into the driver and and find the active area and get familiar with what it looks like. It's one of the most common things you'll need to adjust.
-* More here: [**Active Area**](core-features/active-area.md)
+* More here: [**Active Area**](../core-features/active-area.md)
 
 ## Map the Active Area to a single display
 

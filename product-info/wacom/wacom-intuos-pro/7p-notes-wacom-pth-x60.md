@@ -16,7 +16,7 @@ All three are highly recommended. I recommend the Medium size (PTH-660) size for
 
 These tablets come with the Wacom Pro Pen 2 (KP-504E) which is a HUGE part of why the drawing experience is so good.&#x20;
 
-**Pressure range** - This pen has an incredible pressure range. It's IAF is <1gf which is industry leading. And its maximum pressure is about 800gf which is incredibly high. Again this is industry leading. More here: [**pen pressure**](../../../guides/core-features/pen-pressure.md).
+**Pressure range** - This pen has an incredible pressure range. It's IAF is <1gf which is industry leading. And its maximum pressure is about 800gf which is incredibly high. Again this is industry leading. More here: [**pen pressure**](../../../core-features/pen-pressure.md).
 
 The pen is otherwise typical
 

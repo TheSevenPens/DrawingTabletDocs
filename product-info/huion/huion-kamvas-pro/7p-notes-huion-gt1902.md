@@ -52,9 +52,9 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
 * **Pen IAF and Max pressure - See** [**Huion PW600 and PW600S**](../huion-pen-models/huion-pw600-and-pw600s.md)
-* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../guides/core-features/pen-pressure-transition-stability.md)&#x20;
+* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../core-features/pen-pressure-transition-stability.md)&#x20;
 * **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
-* **Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [**pen tilt compensation**](../../../guides/core-features/pen-tilt-compensation.md).
+* **Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [**pen tilt compensation**](../../../core-features/pen-tilt-compensation.md).
 
 ## **Display**
 

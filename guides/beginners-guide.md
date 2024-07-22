@@ -83,17 +83,17 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 ## Core features&#x20;
 
-* **Tracking pen position** - any modern drawing tablet does a good job with this. Learn more here: [**Pen tracking**](core-features/pen-tracking.md)&#x20;
-* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [**Pen hover**](core-features/pen-hover.md)&#x20;
-* **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](core-features/pen-pressure.md).&#x20;
-* **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](core-features/pen-tilt.md).
+* **Tracking pen position** - any modern drawing tablet does a good job with this. Learn more here: [**Pen tracking**](../core-features/pen-tracking.md)&#x20;
+* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [**Pen hover**](../core-features/pen-hover.md)&#x20;
+* **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](../core-features/pen-pressure.md).&#x20;
+* **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](../core-features/pen-tilt.md).
 * **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](pens/pen-buttons.md)&#x20;
-* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](core-features/expresskeys.md) &#x20;
+* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](../core-features/expresskeys.md) &#x20;
 * **Touch** - A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. More here: [touch support](touch-support.md)&#x20;
 
 ## The active area
 
-The active area is the region on the tablet that your draw on. More here: [**active area**](core-features/active-area.md).
+The active area is the region on the tablet that your draw on. More here: [**active area**](../core-features/active-area.md).
 
 ## Tablet size
 
@@ -119,7 +119,7 @@ At the end of the pen that touches the tablet is a little replaceable nib. Mostl
 
 ## Drawing with a tablet vs a mouse
 
-A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](core-features/absolute-versus-relative-positioning.md). Using the tablet driver, you can mmake the tabletke tablet and pen work more like a mouse by using [**mouse mode**](core-features/mouse-mode.md).
+A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](../core-features/absolute-versus-relative-positioning.md). Using the tablet driver, you can mmake the tabletke tablet and pen work more like a mouse by using [**mouse mode**](../core-features/mouse-mode.md).
 
 ## EMR technology
 

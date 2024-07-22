@@ -90,7 +90,7 @@ Pen tablets work with a single USB cable (And some are wireless). Pen displays a
 
 All tablets have some amount of pointer lag. But in my observation pen tablets have less pointer lag than pen displays.
 
-And on top of it even if they have the same amount of lag you will notice it more with the pen display because you can see the tip of the pen and the pointer next to each other. And justice seeing them next to each other highlights the pointer lag. More here: [**lag**](../guides/core-features/lag.md) &#x20;
+And on top of it even if they have the same amount of lag you will notice it more with the pen display because you can see the tip of the pen and the pointer next to each other. And justice seeing them next to each other highlights the pointer lag. More here: [**lag**](../core-features/lag.md) &#x20;
 
 ## Wireless connectivity
 
@@ -118,7 +118,7 @@ Most of the time when I've seen someone have significant damage to their appendi
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much. A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster. More here: [**powering a drawing tablet**](../guides/core-features/powering-a-drawing-tablet.md).&#x20;
+A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much. A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster. More here: [**powering a drawing tablet**](../core-features/powering-a-drawing-tablet.md).&#x20;
 
 ## Hand covering what you are drawing
 

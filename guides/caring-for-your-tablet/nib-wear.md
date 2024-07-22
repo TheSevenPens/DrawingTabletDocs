@@ -30,7 +30,7 @@ Below you can see the wear on an Wacom Art Pen nib which has been used on a Waco
 
 ## Surface texture
 
-Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [**surface texture**](../core-features/surface-texture.md).&#x20;
+Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [**surface texture**](../../core-features/surface-texture.md).&#x20;
 
 Keep in mind, even the surface texture can wear down and become smoother. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md)&#x20;
 
@@ -44,7 +44,7 @@ Some people a have drawing style that features lots of strokes drawn over and ov
 
 ## Nib material affects nib wear
 
-Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [**Nib material**](../core-features/pen-nib-material.md).
+Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [**Nib material**](../../core-features/pen-nib-material.md).
 
 ## Preventing or slowing nib wear
 

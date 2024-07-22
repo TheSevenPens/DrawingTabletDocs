@@ -10,7 +10,7 @@ Any rectangular area has an aspect ratio. Which is the relationship between the 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Slide1.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Slide1.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@ Displays (monitors) tend to have aspect ratios like 16x9 and 16x10. 16x9 is the 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Slide3.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Slide3.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ Displays (monitors) tend to have aspect ratios like 16x9 and 16x10. 16x9 is the 
 
 If you are using a pen tablet, it mostly likely does not match the aspect ratio of your monitor and you will see some distortion when you draw.&#x20;
 
-This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios](../customizing-your-experience/matching-aspect-ratios.md).
+This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios](../guides/customizing-your-experience/matching-aspect-ratios.md).
 
 ## Pen displays and aspect ratios
 
@@ -38,6 +38,6 @@ The active area of a pen display and their display panel inside the pen display 
 
 As of 2023, NONE of Wacom's pen tablets have an exact 16:9 aspect ratio.
 
-<figure><img src="../../.gitbook/assets/Slide8.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Slide8.JPG" alt=""><figcaption></figcaption></figure>
 
 ##
