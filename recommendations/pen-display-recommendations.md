@@ -8,6 +8,8 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 * [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 * [**7P notes on 22" pen displays**](7p-notes-other/7p-notes-22-pen-displays-compared.md)&#x20;
 
+Please keep in mind that pen displays are not inherently better than pen tablets that don't have a screen. More here: [**pen tablets vs pen displays**](../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
+
 ## $200 to $300 &#x20;
 
 * SMALL [**Huion Kamvas 13 (GS1331)**](../product-info/huion/huion-kamvas/) $240
@@ -18,7 +20,7 @@ It's best if you look through [**the buying guide**](../buying-a-drawing-tablet/
 ## $300 to $500
 
 * SMALL [**Wacom One 2019 GEN1 (DTC-133)**](../product-info/wacom/wacom-one-dtc-133/) $400&#x20;
-  * NOTE: Expensive for what it is and how dated it is, but is a decent tablet.&#x20;
+  * NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.
 * SMALL [**XP-Pen Artist Pro 14 GEN2 (MD140FH)**](../product-info/xp-pen/xp-pen-artist-pro-gen2/) $420
 * SMALL [**Wacom One 12 GEN2 (DTC-121)**](../product-info/wacom/wacom-one-gen2/) $400&#x20;
   * <mark style="color:red;">**NOT RECOMMENDED: SUBSTANDARD PRESSURE HANDLING**</mark>
