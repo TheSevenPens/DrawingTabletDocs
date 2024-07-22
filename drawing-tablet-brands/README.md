@@ -13,11 +13,9 @@ There are many tablet brands. And picking the brand of the tablet is one of the 
 
 **Wacom** continues to make the highest quality and most reliable tablets. In general, Wacom has tghe best drawing experience. Their products are the most expensive. I consider Wacom to be the "safe choice". More here:  [**my notes on Wacom**](7p-notes-wacom.md)
 
-## Tier 2: Huion and XP-Pen
+## Tier 2: Huion, XP-Pen, and Xencelabs
 
-**Huion and XP-pen** since about 2021 have been releasing decent devices and size 2023/2024 a couple very good ones that compete strongly with Wacom. In many ways they deliver 90% of what a typical person needs for about half the cost. They do trail Wacom in reliability and in customer support however. If you carefully research a tablet from these brands, you can find one that works for you. More here: [**My notes on Tier 2 drawing tablet brands**](7p-notes-huion-and-xp-pen.md) &#x20;
-
-## Tier 2: Xencelabs
+**Huion and XP-pen** since about 2021 have been releasing decent devices and size 2023/2024 a couple very good ones that compete strongly with Wacom. In many ways they deliver 90% of what a typical person needs for about half the cost. They do trail Wacom in reliability and in customer support however. If you carefully research a tablet from these brands, you can find one that works for you. More here: [**My notes on Huion and XP-pen**](7p-notes-huion-and-xp-pen.md) &#x20;
 
 **Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support. more here: [**my notes on Xencelabs**](7p-notes-xencelabs.md)
 
@@ -54,7 +52,5 @@ Communities are where a people can learn and get help with drawing tablets. Depe
 
 * [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/)
 * [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/) - brands compared
-
-##
 
 &#x20;
