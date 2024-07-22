@@ -12,6 +12,10 @@ Release year: 2019
 
 User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
 
+## Setup
+
+<figure><img src="../../../.gitbook/assets/20240722_145506.jpg" alt=""><figcaption></figcaption></figure>
+
 ## General
 
 **Pen** - comes with the Wacom Pro Pen 2. Which is an excellent pen and responsible for much of the great drawing experience. See [my notes on the pro pen 2](../wacom-pen-models/7p-notes-wacom-kp-504e.md).
@@ -100,11 +104,11 @@ Feels ever so slightly "stickier" than an etched glass display.&#x20;
 
 ## Fans
 
-I can't find a reference about it having fans or not. I put my ear right on top of the the vents at top an could hear nothing.
+I can't find a reference about it having fans or not. I put my ear right on top of the the vents at top and could hear nothing.
 
 ## Noise
 
-Silent (as far as I could tell). if there is a noise it is very faint and not something I can hear.
+Silent (as far as I could tell).&#x20;
 
 ## Touch
 
@@ -117,6 +121,10 @@ I ran the display at 100% brightness for two hours. The overall tablet is about 
 ## Device shape
 
 It has a wedge shape. It is thicker at the top of the screen and thinner at the bottom of the screen. So laying it on a desk surface gives it a very slight angle of maybe 10 degrees. It's nice to have some angle but typically if drawing at an angle is important for you, then get a stand.&#x20;
+
+The device works very well on the desk. It does not slip around due to the 4 rubber strips on the bottom.
+
+<figure><img src="../../../.gitbook/assets/20240722_144916.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Sound support
 
@@ -131,6 +139,18 @@ It has a wedge shape. It is thicker at the top of the screen and thinner at the 
 * USB-B&#x20;
 * HDMI
 
+**Port location**
+
+The ports are behind a cover on the back.&#x20;
+
+<figure><img src="../../../.gitbook/assets/20240722_144823.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20240722_144756.jpg" alt=""><figcaption></figcaption></figure>
+
+The ports are oriented up so cords will go straight up and out and are clearly visible when using this device.
+
+<figure><img src="../../../.gitbook/assets/20240722_144341.jpg" alt=""><figcaption></figcaption></figure>
+
 **Special note on USB-B**
 
 This port type is getting less common. So to make sure you know what the cable looks like here is a photo of the cable I used. I used my own cable, the original Wacom cable was part of the package I bought from eBay. USB-B is on the left. USB-A is on the right.
@@ -140,6 +160,25 @@ This port type is getting less common. So to make sure you know what the cable l
 **Special note on HDMI**
 
 In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [**Using HDMI adapters with pen displays**](../../../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md)
+
+## My connectivity setup
+
+My laptop was connected to a CalDigit TS4 dock via a TB4 cable.
+
+The provided power went to the wall.
+
+For the HDMI connection I tested two scenarios:
+
+* The Cintiq was connected to the dock via the USB cable and an HDMI cable using an adapter.
+* Connecting the Cintiq directly to the laptop with an HDMI cable.
+
+This is the adapter I used for HDMI when connecting to the CalDigit TS4 dock which has noHDMI port: Apple USB-C Digital AV Multiport Adapter.
+
+<figure><img src="../../../.gitbook/assets/20240722_150030.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20240722_150047.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Other notes
 
