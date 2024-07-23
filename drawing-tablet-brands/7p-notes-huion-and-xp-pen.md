@@ -35,3 +35,6 @@ A lot of their improvements with these tablets are due to their pens handling pr
 * They should monitor and answer questions on [https://www.reddit.com/r/huion/](https://www.reddit.com/r/huion/) and [https://www.reddit.com/r/XPpen/](https://www.reddit.com/r/XPpen/) &#x20;
 * Long-term reliability unknown compared to Wacom. This can't be helped, they have only been around since 2011 (Huion) and 2005 (XP-Pen). And their passive EMR tablets (the ones where the pens do not have a battery) have only been around since the late 2010s.
 
+### Switching from Wacom
+
+If you are an existing Wacom user yuou should keep in mind there are somethings that Wacom does where Huion and XP-Pen are still catching up on. In particular some of Wacom's pens (especially the Pro models) have an extremely low IAF (<1gf) . Huion latest pro pens can get to 2gf (per Huion's statements) and 3gf (per XP-Pen's statements). If you are used to a Wacom pen making marks at very tiny pressure you may find these higher IAF values hard to deal with.
