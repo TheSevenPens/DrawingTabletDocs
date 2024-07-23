@@ -11,7 +11,10 @@
   * [rukozhop - This video shows the internals of a Huion PW100 pen](https://youtu.be/21LObZYVyLs) &#x20;
   * [Satoshi Uchino, et al - A full integration of electromagnetic resonance sensor and capacitive touch sensor into LCD](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/jsid.777)
   * [https://junyichen083.commons.gc.cuny.edu/technical-description/](https://junyichen083.commons.gc.cuny.edu/technical-description/)
-* **Wacom resources**
+
+## **Wacomn resources**
+
+*
 * **Wacom: EMR Stylus (Electro-magnetic Resonance): How Wacom Pens work** https://community.wacom.com/us/emr-stylus-electro-magnetic-resonance-how-wacom-pens-work/ &#x20;
 * **Wacom: EMR (Electro-Magnetic Resonance) Technology** https://archive.is/mhHkP
 * **Wacom: How the Wacom cordless, batteryless pen work** https://quietpc.sk/instructions/wacom/tech\_bam\_en.pdf &#x20;
