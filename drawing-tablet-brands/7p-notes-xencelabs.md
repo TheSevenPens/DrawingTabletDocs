@@ -26,8 +26,5 @@ I used a Xencelabs Medium tablet (BPH1212W-A) for about six months. I was very s
 
 * Their EMR tech is the same place as XP-Pen. If they are going to challenge Wacom at the same price point this should improve.&#x20;
 * There aren't that many Xencelabs users out there - so if you need community help there are very few people in the community who can help and you'll need to rely Xencelab's customer support.
-* As of September 2023, their Windows driver does not support connecting multiple Xencelabs tablets being connected at the same time. In my observation, their driver becomes extremely confused when multiple Xencelabs tablets are plugged in and it requires a driver restart to get it back to normal. All of Wacom, Huion, XP-pens drivers handle multiple tablets at the same time.
-* As of Jan 2024, they have some portfolio gaps
-  * They don't have a LARGE pen tablet model - something comparable to the Wacom Intuos Pro Large.
-  * They don't have a pen display in the 16" size.
+* As of July 2024 they have a wider product portfolio . The only gap i see is that they don't have a LARGE pen tablet model - something comparable to the Wacom Intuos Pro Large.
 
