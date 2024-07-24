@@ -98,11 +98,25 @@ I will be measuring this soon. But overall it feels like 400gf or 500gf.
 
 ## **Diagonal wobble**
 
-Rating: WORSE THAN AVERAGE
+Rating: OK. There is more diagonal wobble than comparable tablets.&#x20;
 
-Currently seeing a lot diagonal wobble at both slow and medium drawing speeds that requires smoothing to reduce.&#x20;
+Diagonal wobble effects all tablets, and it tends to be present in pen displays more often especially as they get larger. But here I am seeing two things:
 
-<mark style="color:red;">Due to a recent change in GitBook the clicking on the image below no longer opens the large version where you can see the differences clearly. I am working on a workaround.</mark>
+* There is a bit more wobble than I would expect.&#x20;
+* The additional wobble happens even with faster strokes.&#x20;
+
+If you are sensitive to diagonal wobble, this may not be the right tablet for you. Although it is possible to reduce the effects of the wobble with smoothing and other techniques, some might not find that a good trade off.
+
+Compared to other tablets
+
+* Has noticeably more than the Huion Kamvas Pro 19
+* Has a bit more wobble than Wacom Cintiq Pro 27
+* Has a bit more wobble than the Huion Kamvas Pro 24 4K
+* Has a bit more wobble than the XP-Pen &#x20;
+
+
+
+
 
 <figure><img src="../../.gitbook/assets/Wobble Xencelabs Pen Display 24 (LPH2412U-A) (1).png" alt=""><figcaption></figcaption></figure>
 

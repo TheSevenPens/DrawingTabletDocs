@@ -410,6 +410,7 @@
   * [Measuring pressure](process/measuring-pressure.md)
   * [Measuring display sharpness](process/measuring-display-sharpness.md)
   * [Measuring diagonal wobble](process/measuring-diagonal-wobble.md)
+  * [Diagonal wobble samples](process/diagonal-wobble-samples.md)
   * [Tablet evaluation](process/tablet-evaluation.md)
   * [Microscope](process/microscope.md)
 * [Reference](reference/README.md)
