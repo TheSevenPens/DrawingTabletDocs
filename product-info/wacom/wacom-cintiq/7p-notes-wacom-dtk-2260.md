@@ -94,7 +94,7 @@ I think the original packaging includes a stand but the used package I bought on
 
 ## **Legs**
 
-Does not have an legs.
+Does not have a legs.
 
 ## Surface Texture
 
@@ -104,11 +104,11 @@ Feels ever so slightly "stickier" than an etched glass display.&#x20;
 
 ## Fans
 
-I can't find a reference about it having fans or not. I put my ear right on top of the the vents at top and could hear nothing.
+It does not have any fans. You can clearly see that there are no fans in various teardowns ([teardown 1](https://www.youtube.com/watch?v=zip2xj-nBIw), [teardown 2](https://www.youtube.com/watch?v=Pr1bAqkNhV4))
 
 ## Noise
 
-Silent (as far as I could tell).&#x20;
+Silent.&#x20;
 
 ## Touch
 
