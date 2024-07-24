@@ -2,11 +2,26 @@
 
 ## Overview
 
-<mark style="color:red;">**I AM CURRENTLY EVALUATING THIS TABLET. MY CURRENT EVALUATION IS BELOW BUT MAY CHANGE AS I USE IT MORE.**</mark>
+<mark style="color:red;">**TBD**</mark>
 
-## **Hover distance**&#x20;
+## **Basics**
 
-Rating: TYPICAL. I measured it at 10mm.
+* **Product page:** [**https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24**](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24)
+* **Release year: 2023**
+
+## **Setup**
+
+Insert photo
+
+
+
+## **Display > basics**
+
+* Screen size: 23.8in (60.5cm)
+* Lamination - YES
+* Refresh rate - max 60Hz
+* Resolution: 3840x2160
+* Brightness:  unknown
 
 ## **Edge & Corner accuracy**&#x20;
 
@@ -14,14 +29,14 @@ Rating: VERY GOOD.&#x20;
 
 Extremely accurate at edges and in corners. Among the best I've seen.&#x20;
 
-* Better than Wacom Cintiq Pro 27 (which is also VERY GOOD).
+* Better than my Wacom Cintiq Pro 27 (which is also VERY GOOD).
 * Clearly better than Huion Kamvas 24 Pro 4K (which is TYPICAL)&#x20;
 
 ## **Anti-glare sparkle**
 
 Rating: VERY GOOD. \[LESS IS BETTER]&#x20;
 
-Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At normal drawing distance not visible.&#x20;
+Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At normal drawing distance not visible..&#x20;
 
 * On par with Wacom Cintiq Pro 27 (Which is GOOD).&#x20;
 * Clearly better than with Huion Kamvas 24 Pro 4K (Which is OK)&#x20;
@@ -55,7 +70,15 @@ Comparisons:
 
 Rating: VERY GOOD. It feels really nice.
 
-* Slightly more texture than the Cintiq Pro 27.&#x20;
+With a plastic nib
+
+* Slightly more texture than the Cintiq Pro 27.
+* More texture than Huion Kamvas Pro 19
+* More texture than Huion Kamvas Pro 24 4K
+
+With a felt nib
+
+* Felt comparable to the Huion Kamvas Pro 19
 
 ## **Pen pressure**
 
@@ -119,13 +142,13 @@ This new  3 Button Pen V2 is an improvement from the old V1 pen. The buttons are
 
 Both pens have an eraser. But I don't user erasers so I have no comment on them.
 
+## **Hover distance**&#x20;
 
+Rating: TYPICAL. I measured it at 10mm.
 
 ## Fans
 
 No fans.&#x20;
-
-
 
 ## Noise
 
