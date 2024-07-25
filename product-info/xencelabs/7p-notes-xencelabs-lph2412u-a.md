@@ -96,7 +96,44 @@ I will be measuring this soon. But overall it feels like 400gf or 500gf.
 * Huion's PW600 and P600S pens have a comparable max pressure of 500gf.
 * XP-Pen pro pen has a comparable max pressure of 400gf.
 
+## **General wobble**&#x20;
+
+In general to the position of the pointer wobbles a little bit as you move your pen. This happens at all angles - not just diagonal angles. Even vertical or horizontal lines exhibit the wobble. This wobble occurs at all velocities of the pen, but diminishes a little bit  if the pen is moving fast.
+
+The wobble is easily seen noticable to the eyes.
+
+In comparison the wobble for horizontal and vertical lines is:
+
+* clearly more than the Huion Kamvas Pro 19 (which is excellent)
+* clearly more than the Cintiq Pro 27 (which excellent)
+
+**Horizontal line examples (the same happens with vertical lines)**
+
+Kamvas Pro 19
+
+![](../../.gitbook/assets/image.png)
+
+Cintiq pro 27
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="340"><figcaption></figcaption></figure>
+
+</div>
+
+Xencelabs pen display 24
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
 ## **Diagonal wobble**
+
+NOTE: Keep in mind the general wobble describes contributes to the diagonal wobble.
 
 Rating: OK. There is more diagonal wobble than comparable tablets.&#x20;
 
@@ -105,8 +142,6 @@ Diagonal wobble effects all tablets, and it tends to be present in pen displays 
 * There is a bit more wobble than I would expect.&#x20;
 * The additional wobble happens even with faster strokes.&#x20;
 
-If you are sensitive to diagonal wobble, this may not be the right tablet for you. Although it is possible to reduce the effects of the wobble with smoothing and other techniques, some might not find that a good trade off.
-
 Compared to other tablets
 
 * Has noticeably more than the Huion Kamvas Pro 19
@@ -114,11 +149,7 @@ Compared to other tablets
 * Has a bit more wobble than the Huion Kamvas Pro 24 4K
 * Has a bit more wobble than the XP-Pen &#x20;
 
-
-
-
-
-<figure><img src="../../.gitbook/assets/Wobble Xencelabs Pen Display 24 (LPH2412U-A) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## **Driver**
 
@@ -170,5 +201,5 @@ Completely quiet. No noise.
 
 ## Heat
 
-After leaving it on for 3 hours with brightness set at 100%, the surface has a slightly warm feel - close to body temperature.
+After leaving it on for 3 hours with brightness set at 100%, the overall surface has a slightly warm feel - close to body temperature.
 

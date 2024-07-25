@@ -42,7 +42,7 @@ Here's a good example for Parblo
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
 
 </div>
 

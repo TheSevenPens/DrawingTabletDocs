@@ -62,7 +62,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
   * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
 * When the OTD app is running, this icon will appear in your taskbar
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## **Detect your tablet**
 
