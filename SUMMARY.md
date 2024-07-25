@@ -321,6 +321,7 @@
     * [Xencelabs Quick Keys](product-info/xencelabs/xencelabs-quick-keys.md)
     * [7P notes: Xencelabs Pen Tablet Medium (BPH1212W-A)](product-info/xencelabs/7p-notes-xencelabs-bph1212w-a.md)
     * [7P notes: Xencelabs Pen Display 16 (LPH1612U-A)](product-info/xencelabs/7p-notes-xencelabs-lph1612u-a.md)
+    * [7P notes: Xencelabs V2 pens](product-info/xencelabs/7p-notes-xencelabs-v2-pens.md)
     * [7P notes: Xencelabs Pen Display 24 (LPH2412U-A)](product-info/xencelabs/7p-notes-xencelabs-lph2412u-a.md)
   * [XP-Pen](product-info/xp-pen/README.md)
     * [XP-Pen Magic Drawing Pad](product-info/xp-pen/xp-pen-magic-drawing-pad.md)

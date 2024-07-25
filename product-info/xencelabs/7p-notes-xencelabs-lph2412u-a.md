@@ -80,27 +80,20 @@ With a felt nib
 
 * Felt comparable to the Huion Kamvas Pro 19
 
-## **Pen pressure**
+## **Pens**
 
-### **Min pressure (IAF)**
+**More here:** [**7P notes: Xencelabs V2 pens**](7p-notes-xencelabs-v2-pens.md)&#x20;
 
-Rating: TYPICAL. Xencelabs specifies 3gf. That felt accurate. Typical for a non-Wacom pen and low enough for me. Wacom Pro Pen 2 min pressure is <1gf.&#x20;
+### Pressure range
 
-### **Max pressure**
+These have a nice pressure range:
 
-Rating: VERY GOOD
+* IAF: 3gf Xencelabs specifies 3gf. That felt accurate. Typical for a non-Wacom pen and low enough for me. Wacom Pro Pen 2 min pressure is <1gf.&#x20;
+* MAX pressure: 500gf&#x20;
 
-I will be measuring this soon. But overall it feels like 400gf or 500gf.
+## Pressure Transition
 
-* Wacom Pro Pen 2 has higher max pressure at 800gf.
-* Huion's PW600 and P600S pens have a comparable max pressure of 500gf.
-* XP-Pen pro pen has a comparable max pressure of 400gf.
-
-## Pressure transition
-
-Moving from very light pressure to heavy pressure works well, the pressure moves up and down smoothly.
-
-Staying in low pressure works well - no add bumps or pulsing in strokes.
+Moving from very light pressure to heavy pressure works well, the pressure moves up and down smoothly. Staying in low pressure works well - no add bumps or pulsing in strokes.
 
 ## Pressure scan rate
 
@@ -121,13 +114,13 @@ In comparison the wobble for horizontal and vertical lines is:
 
 Kamvas Pro 19
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 Cintiq pro 27
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="340"><figcaption></figcaption></figure>
 
 </div>
 
@@ -175,7 +168,7 @@ The tablet driver does work correctly if multiple Xencelabs products are plugged
 
 I tested with these tablets plugged in at the same time:
 
-* Xencelabs Pen Display 23
+* Xencelabs Pen Display 24
 * Xencelabs Pen Tablet Medium&#x20;
 
 ## **Pen**
