@@ -22,7 +22,7 @@ So often in documents and YouTube videos you might encounter people describe the
 
 ## Pressure curve fundamentals
 
-<figure><img src="../../../.gitbook/assets/Slide_20240722_141622 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20240722_141622 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Ultimately a pressure curve is a mathematical function that takes input logical pressure (p) and returns an output logical pressure (p’)
 
@@ -32,11 +32,12 @@ that is it maps logical pressure to logical pressure. The logical pressure comes
 
 
 
-<figure><img src="../../../.gitbook/assets/Slide_20240722_141702.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20240722_141702.jpg" alt=""><figcaption></figcaption></figure>
 
 In reality we wouldn't just have one pressure curve function with a single input logical pressure parameter like that. More typically we'd have a pressure curve function that accepts multiple parameters. By tweaking these additional parameters we can control what the pressure curve is actually doing in a dynamic way.
 
 Pressure curves to explore
 
 * [Null pressure curve](null-pressure-curve.md)
-* Pressure curves that constrain the output logical pressure range
+* [Pressure curves that constrain the output logical pressure range](pressure-curves-that-constrain-output.md)
+

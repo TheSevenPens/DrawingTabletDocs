@@ -114,13 +114,13 @@ In comparison the wobble for horizontal and vertical lines is:
 
 Kamvas Pro 19
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 Cintiq pro 27
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
 
 </div>
 
@@ -128,7 +128,7 @@ Xencelabs pen display 24
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -152,7 +152,7 @@ Compared to other tablets
 * Has a bit more wobble than the Huion Kamvas Pro 24 4K
 * Has a bit more wobble than the XP-Pen &#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Driver**
 

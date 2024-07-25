@@ -10,7 +10,7 @@ Instead, an EMR digitizer can detect the tilt of the pen just by examining the s
 
 When the pen is perpendicular, the digitizer detects a single perpendicular shape.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As the pen tilts, it produces two shapes. And the relationship between the two shapes indicates the tilt.
 

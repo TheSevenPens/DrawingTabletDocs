@@ -55,6 +55,7 @@
   * [Pen pressure response](core-features/pen-pressure-response.md)
   * [Pen pressure curve](core-features/pen-pressure-curve/README.md)
     * [Misc pressure curve notes](core-features/pen-pressure-curve/misc-pressure-curve-notes.md)
+    * [Pressure curves that constrain output](core-features/pen-pressure-curve/pressure-curves-that-constrain-output.md)
     * [Null pressure curve](core-features/pen-pressure-curve/null-pressure-curve.md)
   * [Disable pen pressure](core-features/disable-pen-pressure.md)
   * [Pen hover](core-features/pen-hover.md)
