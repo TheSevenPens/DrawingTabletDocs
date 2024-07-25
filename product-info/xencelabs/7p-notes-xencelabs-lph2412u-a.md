@@ -102,6 +102,10 @@ Moving from very light pressure to heavy pressure works well, the pressure moves
 
 Staying in low pressure works well - no add bumps or pulsing in strokes.
 
+## Pressure scan rate
+
+I draw 50 strokes as fast as I could - similar to crosshatching quickly. No strokes were missed.
+
 ## **General wobble**&#x20;
 
 In general to the position of the pointer wobbles a little bit as you move your pen. This happens at all angles - not just diagonal angles. Even vertical or horizontal lines exhibit the wobble. This wobble occurs at all velocities of the pen, but diminishes a little bit  if the pen is moving fast.
