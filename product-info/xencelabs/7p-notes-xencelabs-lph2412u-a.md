@@ -206,3 +206,5 @@ Completely quiet. No noise.
 
 After leaving it on for 3 hours with brightness set at 100%, the overall surface has a slightly warm feel - close to body temperature.
 
+In coimp
+
