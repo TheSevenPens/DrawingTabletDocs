@@ -32,6 +32,17 @@ Extremely accurate at edges and in corners. Among the best I've seen.&#x20;
 * Better than my Wacom Cintiq Pro 27 (which is also VERY GOOD).
 * Clearly better than Huion Kamvas 24 Pro 4K (which is TYPICAL)&#x20;
 
+## **Anti-glare treatment**
+
+It uses an etched-glass surface.
+
+It does a very good job of reducing glare.
+
+In comparison:
+
+* a bit more glare reduction than the Cintiq Pro 22
+* around the same as the Huion Kamvas Pro 19&#x20;
+
 ## **Anti-glare sparkle**
 
 Rating: VERY GOOD. \[LESS IS BETTER]&#x20;
