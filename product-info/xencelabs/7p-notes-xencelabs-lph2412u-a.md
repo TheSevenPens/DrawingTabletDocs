@@ -6,7 +6,7 @@
 
 ## **Basics**
 
-* **Product page:** [**https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24**](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24)
+* **Product page:** [**https://www.xencelabs.com/us/products/pen-display**](https://www.xencelabs.com/us/products/pen-display)
 * **Release year: 2023**
 
 ## **Setup**
