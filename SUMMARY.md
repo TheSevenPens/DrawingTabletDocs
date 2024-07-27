@@ -121,6 +121,7 @@
     * [Anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md)
     * [Lamination](guides/pen-displays/lamination.md)
     * [Display resolution](guides/pen-displays/display-resolution.md)
+    * [Brightness](guides/pen-displays/brightness.md)
     * [Parallax](guides/pen-displays/parallax.md)
     * [Display connector types](guides/pen-displays/display-connector-types.md)
     * [Using HDMI splitters with pen displays](guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
