@@ -8,6 +8,12 @@ Overall pen display are between 220 to 250 nits.
 
 A few very bright pen displays have a brightness >= 300 nits.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure>
+
+## Data: Distribution of brightness values
+
+
+
 <table><thead><tr><th width="156">Brightness</th><th>Count</th></tr></thead><tbody><tr><td>400</td><td>2</td></tr><tr><td>350</td><td>1</td></tr><tr><td>330</td><td>1</td></tr><tr><td>320</td><td>1</td></tr><tr><td>300</td><td>2</td></tr><tr><td>275</td><td>1</td></tr><tr><td>250</td><td>9</td></tr><tr><td>220</td><td>16</td></tr><tr><td>210</td><td>1</td></tr><tr><td>200</td><td>3</td></tr></tbody></table>
 
 ## Top 10 most bright pen displays
