@@ -1,8 +1,20 @@
 # Brightness
 
-## Range  of brightness values
+## Overview
 
-Here is the distribution of brightness values for pen displays released on of before 2020.
+Drawing tablets that have an embedded display, they have a capable of some maximum typical brightness.
+
+If you are buying a tablet, you should be aware of the brightness and how it fits into your workflow. For example:
+
+* Do you work indoors vs outdoors
+* If indoors, are there lots of lights around or do you work in a dark area
+* If outdoors, are you working in a covered area or in direct sunlight&#x20;
+
+## Measurement
+
+Brightness is measured in cd/m2 ([Candela per square meter](https://en.wikipedia.org/wiki/Candela\_per\_square\_metre)) but that is hard to type so man people use the equivalent unit of **nit**.
+
+## Range of brightness values
 
 Overall pen display are between 220 to 250 nits.
 
@@ -10,9 +22,19 @@ A few very bright pen displays have a brightness >= 300 nits.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure>
 
+## Guidance
+
+This is based on MY experience
+
+* If working indoors in a darker room: 200 to 250 nits is enough.&#x20;
+* If working indoors in a brighter room (many lights or windows): 250 to 240 is enough
+* If working outdoors then you should have at least 500 nits.
+
+Of course, what will work for you depends on your personal preferences. &#x20;
+
 ## Data: Distribution of brightness values
 
-
+Here is the distribution of brightness values for pen displays released on of after 2020.
 
 <table><thead><tr><th width="156">Brightness</th><th>Count</th></tr></thead><tbody><tr><td>400</td><td>2</td></tr><tr><td>350</td><td>1</td></tr><tr><td>330</td><td>1</td></tr><tr><td>320</td><td>1</td></tr><tr><td>300</td><td>2</td></tr><tr><td>275</td><td>1</td></tr><tr><td>250</td><td>9</td></tr><tr><td>220</td><td>16</td></tr><tr><td>210</td><td>1</td></tr><tr><td>200</td><td>3</td></tr></tbody></table>
 
