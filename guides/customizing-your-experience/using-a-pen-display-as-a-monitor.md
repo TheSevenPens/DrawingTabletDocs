@@ -61,6 +61,12 @@ Monitors and pen displays use various panel tech such as:
 
 OLED introduction to pen displays. Starting by around May 2024, we seen the introduction of a few pen displays with OLED panels. The first pen display to use OLED was the Wacom Movink 13 (DTH-135) and the second OLED pen display was the Xencelabs Pen Display 16.&#x20;
 
+## Display panel brightness
+
+Pen displays aren't especially bright. most around around 250 nits. And only a few are >= 300 nits.
+
+More here: [**Brightness**](../pen-displays/brightness.md)
+
 ## VESA-mounting
 
 Most often monitors support VESA mounting so you can attach them to a stand or an arm.
