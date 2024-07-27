@@ -66,6 +66,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 * **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them. This will produce a kind sparkle effect. Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. More here: [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).  &#x20;
 * **Display resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
+* **Brightness** - Pen displays are bright but not super bright like some other displays you might be familiar with. More here: [**brightness**](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. This is another thing, some people are more sensitive to. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
