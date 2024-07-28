@@ -49,7 +49,7 @@ These are tablets WITH A SCREEN that need to be connected to a computer. No pen 
 
 * Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md))
 * XP-Pen Artist 12 GEN2 (CD120FH)
-* XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-cd160fh.md))
+* XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md))
 * If you want a larger size and better pressure handling
   * XP-Pen Artist Pro 14 GEN2 (MD140FH)
   * XP-Pen Artist Pro 16 GEN2 (MD160QH) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md160qh.md))
