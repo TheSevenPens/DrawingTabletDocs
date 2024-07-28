@@ -8,18 +8,18 @@ Drawing tablets that have an embedded display panel and those display panels hav
 
 Brightness is measured in cd/m2 ([Candela per square meter](https://en.wikipedia.org/wiki/Candela\_per\_square\_metre)) but that is hard to type so man people use the equivalent unit of **nit**.
 
-## Environmental conditions
+## Lighting conditions
 
-The environment you are using the tablet in greatly affects the brightness you need.
+The environment you are using the tablet in greatly affects the brightness you need. Below is my take on what you need under different conditions&#x20;
 
-* **indoors + dark** - low amounts of ambient light. Light conditions are not changing.
-  * 200 nits to 250 nits is enough
-* **indoors + bright** - lots of ambient light. Maybe be to bright indoor lights. Maybe due to windows. If window, then brightness may change dramatically because of cloud cover.
-  * 250 nits to 350 nits is enough
-* **outdoors + under shade** - overall bright environment with lots of ambient light. No direct sunlight hitting your tablet.
-  * at least 500 inits is needed
-* **outdoors + no shade** - very fright. Sunlight hitting your tablet.
-  * at least 1000 nits is needed
+
+
+| Environment                | Notes                                                                                                                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **indoors + dark**         | <p></p><p> Low amounts of ambient light. Light conditions are not changing.</p><ul><li>200 to 250 nits is enough</li></ul>                                                                                         |
+| **indoors + bright**       | <p></p><p>Lots of ambient light. Maybe be to bright indoor lights. Maybe due to windows. If window, then brightness may change dramatically because of cloud cover.</p><ul><li>250 to 350 nits is enough</li></ul> |
+| **outdoors + under shade** | <p></p><p>Overall bright environment with lots of ambient light. No direct sunlight hitting your tablet.</p><ul><li>>=500 nits is needed</li></ul>                                                                 |
+| **outdoors + no shade**    | <p></p><p> Very bright. Sunlight hitting your tablet.</p><ul><li>>= 1000 nits is needed</li></ul>                                                                                                                  |
 
 ## What you can expect from drawing tablets
 
