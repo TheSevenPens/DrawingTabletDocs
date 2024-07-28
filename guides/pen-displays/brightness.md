@@ -2,9 +2,9 @@
 
 ## Overview
 
-Drawing tablets that have an embedded display, they have a capable of some maximum typical brightness.
+Drawing tablets that have an embedded display also have maximum typical brightness for that display.&#x20;
 
-If you are buying a tablet, you should be aware of the brightness and how it fits into your workflow. For example:
+You You have been exposed to many Displays in televisions in phones and watches. Here I'd like to set your expectations about what you're going to experience in terms of brightness. for drawing tablets.f you are buying a tablet, you should be aware of the brightness and how it fits into your workflow. For example:
 
 * Do you work indoors vs outdoors
 * If indoors, are there lots of lights around or do you work in a dark area
