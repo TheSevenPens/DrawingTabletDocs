@@ -8,21 +8,9 @@ Drawing tablets that have an embedded display panel and those display panels hav
 
 Brightness is measured in cd/m2 ([Candela per square meter](https://en.wikipedia.org/wiki/Candela\_per\_square\_metre)) but that is hard to type so man people use the equivalent unit of **nit**.
 
-## Guidance
+## Environmental conditions
 
-This is based on MY experience
-
-* If working indoors in a darker room: 200 to 250 nits is enough.&#x20;
-* If working indoors in a brighter room (many lights or windows): 250 to 240 is enough
-* If working outdoors then you should have at least 500 nits.
-
-Of course, what will work for you depends on your personal preferences. &#x20;
-
-## Environment
-
-You are buying a tablet, be aware of the environment you are using the tablet in. This greatly affects the brightness you need.
-
-Typical environments
+The environment you are using the tablet in greatly affects the brightness you need.
 
 * **indoors + dark** - low amounts of ambient light. Light conditions are not changing.
   * 200 nits to 250 nits is enough
@@ -40,7 +28,9 @@ Overall, display panels for drawing tablets fall in the range of 200 to 400 nits
 * Many are within the range 220 to 250 nits.
 * Only a few are >= 300 nits.
 
-<figure><img src="../../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
 
 ## Distribution of brightness values
 
