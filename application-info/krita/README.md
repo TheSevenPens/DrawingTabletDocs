@@ -33,6 +33,7 @@
   * [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq\_xOG)&#x20;
 * **Customizing**
   * [Moss Charmly - Making Krita easy Part 1 (Customizing Your Workspace)](https://youtu.be/24w7f\_yX3x8)&#x20;
+  * [Krita - Mastering Making Brushes playlist](https://www.youtube.com/playlist?list=PLNjBqr\_ciXycZ5DgqJEn7g6K\_cBKDg4Vw)&#x20;
 * **Tips**
   * [Krita - 10 Tricks to paint faster & better with Krita](https://www.youtube.com/watch?v=-LYfXyrGNe4)&#x20;
   * [Noctualis - 8 TIPS for Faster Painting in KRITA!](https://www.youtube.com/watch?v=JmA0LdqVcBI)&#x20;
