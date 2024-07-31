@@ -95,6 +95,8 @@ Rating: GOOD. Exhibits a slight wobble in diagonal lines.
 
 Slightly better than Cintiq Pro 27.
 
+<figure><img src="../../../.gitbook/assets/Diag Wobble Wacom Cintiq Pro 22 (DTH-227).png" alt=""><figcaption></figcaption></figure>
+
 ## Pressure handling
 
 EXCELLENT (best in the industry) because the pens are very good.

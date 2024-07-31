@@ -1,7 +1,5 @@
 # XP-Pen Artist
 
-##
-
 ## XP-Pen Artist 12 GEN1
 
 * [https://www.xp-pen.com/store/buy/artist-12.html](https://www.xp-pen.com/store/buy/artist-12.html) &#x20;

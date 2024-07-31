@@ -40,3 +40,11 @@ The Cintiq Pro 22 has a fan that is constantly on. It's not loud but it is audib
 
 The Artist 22 Plus and Kamvas 22 Plus are completely silent.
 
+## Diagonal wobble
+
+* All three are EXCELLENT with almost no diagonal wobble
+
+
+
+
+
