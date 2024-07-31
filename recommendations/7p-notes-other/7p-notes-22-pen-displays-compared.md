@@ -44,6 +44,12 @@ The Artist 22 Plus and Kamvas 22 Plus are completely silent.
 
 * All three are EXCELLENT with almost no diagonal wobble
 
+## Edge and corner accuracy
+
+* Cintiq Pro 22 - EXCELLENT
+* XP-Pen Artist 22 Plus - EXCELLENT
+* Huion Kamvas 22 Plus - OK-ISH
+
 
 
 
