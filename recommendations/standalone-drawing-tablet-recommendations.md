@@ -55,10 +55,16 @@ If you're primarily interested in drawing or notetaking I think mobile computers
 * [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option
 * [**Samsung Galaxy Tab S9 Ultra** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($1000) top-of-the-line performance.    &#x20;
 
+## Samsung Galaxy Tab A Series
+
+<mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](../product-info/samsung/samsung-galaxy-tab-a.md)
+
 ### Devices from Huion and XP-Pen
 
 * [**Huion Kamvas Slate 10**](../product-info/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-* [**XP-Pen Magic Drawing Pad**](../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>
+* [**XP-Pen Magic Drawing Pad**](../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>&#x20;
+
+
 
 ## Pen computers
 
