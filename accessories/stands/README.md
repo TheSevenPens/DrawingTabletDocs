@@ -8,6 +8,8 @@ There are several options for stands below.
 
 ## VESA-attached stands&#x20;
 
+VESA is a standard to mount displays to various things using screws. More here: [**VESA**](../../technology/vesa.md)
+
 Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen Artist 22 Plus. It is my favorite VESA-attached stand because the wide lever is easy to reach and operate. &#x20;
 
 <div align="left">

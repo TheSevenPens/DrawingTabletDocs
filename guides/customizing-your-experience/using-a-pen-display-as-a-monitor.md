@@ -73,7 +73,10 @@ Most often monitors support VESA mounting so you can attach them to a stand or a
 
 Many pen displays support VESA mounting also. However, the pen displays that are 16" or smaller often do not support VESA mounting. Likely they do not support VESA mounting because these sizes of pen displays are to thin to do so.
 
-More here: [**Using monitor arms with a pen display**](../../accessories/using-monitor-arms-with-a-pen-display.md)&#x20;
+More here:
+
+* [**Using monitor arms with a pen display**](../../accessories/using-monitor-arms-with-a-pen-display.md)&#x20;
+* [**VESA**](../../technology/vesa.md)
 
 ## Power cabling
 
