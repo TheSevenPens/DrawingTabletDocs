@@ -15,7 +15,9 @@ This companion video covers many but not all of the topics described in these no
 * Resolution: 4K (3840x2160)
 * PenTech 4.0
 * New AG glass
-* Multi-touch (for Windows only)
+* Multi-touch&#x20;
+  * Support for Windows&#x20;
+  * Support for MacOS (after a firmware update)
 * Comes with 2 pens: PW600 and PW600S
 * Diagonal size: 19"&#x20;
   * Actually 18.57"
@@ -119,7 +121,11 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 ## Touch
 
-* **Touch on MacOS** - DOES NOTHING. Which is what Huion said it would do. So, no surprise.
+* **Touch on MacOS** -&#x20;
+  * At time of launch. This tablet did not support touch on MacOS.
+  * On 2024/08/01 Huion released a firmware update firmware to enable touch on MacOS.
+    * Video: See this video: [https://www.youtube.com/watch?v=4D0\_OpPIgC8](https://www.youtube.com/watch?v=4D0\_OpPIgC8)&#x20;
+    * I haven't gotten as chance to try this update out yet. But I will soon.
 * **Touch on Windows** - Still under evaluation.
   * By default, touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
   * You can map touch back to the tablet when it is not the main monitor. See this document from Huion: [How to make finger gestures control Kamvas Studio 16/Kamvas Pro 19/Kamvas Pro 27 instead of the external monitor](https://support.huion.com/en/support/solutions/articles/44002416035-how-to-make-finger-gestures-control-kamvas-studio-16-kamvas-pro-19-kamvas-pro-27-instead-of-the-exter). When I first tried this, it fixed the touch problem, but it had an odd interaction with the pen - when I used the pen on the tablet, the pointer always stayed near the top border. After I uninstalled the driver, restarted the computer, and reinstalled the driver, the problem went away and the pen worked normally.
