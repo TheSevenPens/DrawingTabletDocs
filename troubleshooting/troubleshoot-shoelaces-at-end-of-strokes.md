@@ -30,3 +30,15 @@ The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has se
 
 
 
+## OpenTabletDriver & Slimy Scylla
+
+If you are using OpenTabletDriver, the Slimy Scylla plug-in can remove shoelacing with its **Remove Tail Position Reports** option on any of the Slimy Scylla's pressure smoothing filters.
+
+The default value for **Remove Tail Position Reports** is 1, and usually this is enough.
+
+However, sometimes may need to increase it to 2 or higher.
+
+In general,set the value to as low a number as it will go and still work correctly for you.
+
+
+
