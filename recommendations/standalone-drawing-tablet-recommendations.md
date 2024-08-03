@@ -98,7 +98,7 @@ Type: 2-in-1 laptop
 
 Pen tech: Wacom EMR ([**Samsung S Pen**](../product-info/samsung/samsung-s-pen.md))
 
-NOTE: I haven't tried it myself, but this **may** also be compatible with the Wacom CP-913 pen.
+This device also works with the the Wacom CP-913 pen. (Thanks to fellow tablet enthusiast Atnas for confirming this).
 
 Two editions:
 
