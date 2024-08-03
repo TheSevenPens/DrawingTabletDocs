@@ -437,6 +437,7 @@
   * [MPP](technology/mpp.md)
   * [Digital pen tech](technology/digital-pen-tech.md)
 * [Misc](misc/README.md)
+  * [Circuit simulations](misc/circuit-simulations.md)
   * [History of drawing tablets](misc/history-of-drawing-tablets/README.md)
     * [Preface](misc/history-of-drawing-tablets/preface.md)
     * [Chapter 1: Antiquity](misc/history-of-drawing-tablets/chapter-1-antiquity.md)

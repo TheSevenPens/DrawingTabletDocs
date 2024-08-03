@@ -46,11 +46,3 @@ The Apple Pencil does not use EMR. Apple uses a proprietary protocol for their p
 
 More here: [EMR technical resources](./#emr-technical-resources)&#x20;
 
-## Circuit simulations
-
-The companion video contains several circuit simulations.&#x20;
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-07-03 204827.png" alt=""><figcaption></figcaption></figure>
-
-I used the **Falstad** tool https://www.falstad.com/circuit/ to create those simulations
-
