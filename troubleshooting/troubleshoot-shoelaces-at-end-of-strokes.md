@@ -16,11 +16,17 @@ It manifests as a longer "string" at the end of your stroke. These ends can be r
 * Check if the effect happens with a different brush.
 * You may need to reach out to other users of your application to see how they addressed it.
 
-## Reddit threads
+## OpenTabletDriver & Slimy Scylla
 
-* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/)&#x20;
-* [https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795](https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795)&#x20;
-* [https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/)
+If you are using OpenTabletDriver, the Slimy Scylla plug-in can remove shoelacing with its **Remove Tail Position Reports** option on any of the Slimy Scylla's pressure smoothing filters.
+
+The default value for **Remove Tail Position Reports** is 1, and usually this is enough.
+
+However, sometimes may need to increase it to 2 or higher.
+
+In general, set the value to as low a number as it will go and still work correctly for you.
+
+
 
 ## Lazy Nezumi
 
@@ -30,15 +36,13 @@ The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has se
 
 
 
-## OpenTabletDriver & Slimy Scylla
+## Reddit threads
 
-If you are using OpenTabletDriver, the Slimy Scylla plug-in can remove shoelacing with its **Remove Tail Position Reports** option on any of the Slimy Scylla's pressure smoothing filters.
+* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/)&#x20;
+* [https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795](https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795)&#x20;
+* [https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/)
 
-The default value for **Remove Tail Position Reports** is 1, and usually this is enough.
 
-However, sometimes may need to increase it to 2 or higher.
-
-In general,set the value to as low a number as it will go and still work correctly for you.
 
 
 
