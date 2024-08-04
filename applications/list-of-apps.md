@@ -19,7 +19,8 @@
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
 * [**Medibang Paint**](../application-info/medibang.md) (Windows, MacOS)
-* [Medibang Pro](../application-info/medibang-1.md) (iOS)
+* [**Medibang Pro**](../application-info/medibang-1.md) (iOS)
+* [**MyPaint**](../application-info/mypaint.md) (Windows, Linux)
 * [**Paint Tool Sai**](../application-info/painttool-sai.md)  (Windows)
 * [**Painter**](../application-info/painter.md)  (Windows, MacOS)
 * [**Paintstorm Studio**](../application-info/paintstorm-studio.md)  (Windows, macOS, iOS, Linux)
@@ -38,6 +39,8 @@
 * **Adobe Illustrator** (Windows, MacOS)
 * [**Inkscape**](../application-info/inkscape.md) (Windows, MacOS, Linux) <mark style="background-color:purple;">**FREE**</mark>
 * **VectorInk** (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
+
+
 
 ### 3D&#x20;
 

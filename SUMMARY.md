@@ -347,6 +347,7 @@
       * [7P notes: XP-Pen X3 Pro pen](product-info/xp-pen/xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md)
   * [Ugee](product-info/ugee.md)
 * [Application info](application-info/README.md)
+  * [MyPaint](application-info/mypaint.md)
   * [Adobe Photoshop](application-info/adobe-photoshop/README.md)
     * [7P notes: Adobe Photoshop](application-info/adobe-photoshop/7p-notes-adobe-photoshop.md)
   * [ArtRage](application-info/artrage.md)
