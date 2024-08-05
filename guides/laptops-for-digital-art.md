@@ -82,6 +82,11 @@ I've used it for about 6 months as of June 2024 and my experience with it has be
 
 It has three Thunderbolt 4 ports which is excellent.
 
+## Other laptops to consider
+
+* ASUS ProArt PX13
+* ASUS ProArt P16
+
 ## Videos
 
 * [Brad Colbow - Top 5 Laptops for Artists 2021](https://www.youtube.com/watch?v=U6sBdsr5sdg)  2021/11/19
