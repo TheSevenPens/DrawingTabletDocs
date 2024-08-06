@@ -5,7 +5,7 @@
 ### Creative 2D
 
 * [**ArtFlow Studio**](http://artflowstudio.com/) (Android, ChromeOS)&#x20;
-* [**ArtRage**](list-of-apps.md#artrage) (Windows, macOS, iOS, Android)
+* [**ArtRage** ](../application-info/artrage.md)(Windows, macOS, iOS, Android)
 * **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
 * [**Clip Studio Paint**](../application-info/clip-studio-paint/) (Windows, MacOS, Android, iOS)
 * **Adobe** [**Fresco**](../application-info/fresco.md) (Windows, iOS, MacOS)
