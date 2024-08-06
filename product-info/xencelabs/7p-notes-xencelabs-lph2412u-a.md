@@ -2,7 +2,11 @@
 
 ## Overview
 
-<mark style="color:red;">**TBD**</mark>
+<mark style="color:red;">**This evaluation is still ongoing and will be finalized by 2024/08/09.**</mark>
+
+This overall is a very good tablet. It design and demonstrates a lot of thoughtfulness to the user that shows up in the industrial design, driver, and inclusion of accessories.
+
+The one place this tablet struggles compared to other pen displays is with line wobble that show up in strokes at all angles. This wobble can be addressed with some additional position smoothing settings in a painting application.&#x20;
 
 ## **Basics**
 
@@ -159,7 +163,7 @@ Compared to other tablets
 * Has noticeably more than the Huion Kamvas Pro 19
 * Has a bit more wobble than Wacom Cintiq Pro 27
 * Has a bit more wobble than the Huion Kamvas Pro 24 4K
-* Has a bit more wobble than the XP-Pen &#x20;
+* Has a bit more wobble than the XP-Pen Artist Pro 16 GEN2&#x20;
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -229,5 +233,5 @@ Completely quiet. No noise.
 
 After leaving it on for 3 hours with brightness set at 100%, the overall surface has a slightly warm feel - close to body temperature.
 
-In coimp
+In comparison, I left it on for 3 hours with the brightness set at 50%, and the the surface felt much closer to room temperature with a slight body temperature warmth towards the left side of the display.&#x20;
 
