@@ -38,9 +38,23 @@ It's important to match the stand with the height of the pen display. A stand de
 
 
 
-## Unattached stands
+## Unattached folding stands
 
-Here's a good example for Parblo
+here are the key features:
+
+* They are height/angle adjustable
+  * Some can vary the angle continually and you can lock them into a specific preferred angle
+  * Some only support 1 or two angles&#x20;
+* They have a "lip" at the bottom to help secure the tablet
+* The tablet is not attached to the stand
+* They have rubberized surfaces on top to prevent the tablet from sliding off too easy
+* They have rubberized surfaces on the bottom to prevent the stand from moving around on the desk&#x20;
+
+These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet of the stand.
+
+### Parblo unattached stand
+
+
 
 <div align="left">
 
@@ -48,13 +62,12 @@ Here's a good example for Parblo
 
 </div>
 
-I've never used this specific stand, but it illustrated the key features you need:
+### XP-Pen unattached stands
 
-* It is height adjustable
-* It had a "lip" at the bottom to help secure the tablet
-* The tablet is not attached to the stand
+* AC 41 stand - designed for 16" pen displays
+* AC 42 stand - design for 13" pen displays
 
-These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet of the stand.
+More here: [https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html](https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html)
 
 ## The XOOT Stand
 
