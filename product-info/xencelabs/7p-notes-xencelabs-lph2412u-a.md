@@ -167,9 +167,18 @@ Compared to other tablets
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
+## Smoothing settings to reduce wobble
 
+Here are the settings I used that seemed to substantially diminish the wobble - in same cases to the point where it was haerd to distinguish from a perfect line.
 
+Krita
 
+* Smoothing mode: **Weighted** with **distance** = 150 to 200
+* Smoothing mode **Basic** had no effect in my testing.
+
+Clip Studio Paint
+
+* Stabilization = 50
 
 ## Xencelabs awareness of wobble
 
