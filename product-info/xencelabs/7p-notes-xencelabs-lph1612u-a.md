@@ -1,6 +1,10 @@
 # 7P notes: Xencelabs Pen Display 16 (LPH1612U-A)
 
-### <mark style="color:red;">I have ordered this tablet but I have not received it yet.</mark> <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
+### &#x20;<a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
+
+## Overview <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
+
+<mark style="color:red;">I have this model now, but have not made much progress on my evaluation.</mark>
 
 ## Core drawing tablet specs <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
 
