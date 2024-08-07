@@ -22,11 +22,11 @@ This Huion tablet not cheap at about $1300. But sometimes it is on sale at $1000
 
 **Legs** - Has bult-in legs that give it a nice drawing angle.
 
-**VESA** - is VESA mountable
+**VESA** - is VESA mountable.
 
-**Anti-glare sparkle -** Low. Noticeable if you put your eyes close. At a normal drawing distance my eyes don't pick it up or at least it looks minimal.
+**Anti-glare sparkle -** Moderate (maybe on the low end). Noticeable if you put your eyes close. At a normal drawing distance my eyes don't pick it up or at least it looks minimal.
 
-**Express Keys** - It has none. So, I use keyboard shorts with this device: [tourbox](../../../accessories/auxiliary-input-devices/tourbox/)&#x20;
+**Express Keys** - It has none. So, I use keyboard shorts with this device. More here: [**tourbox**](../../../accessories/auxiliary-input-devices/tourbox/)&#x20;
 
 **Texture** - the etched glass provides a nice texture for the pen so that it doesn't feel slippery.
 
@@ -39,11 +39,11 @@ This Huion tablet not cheap at about $1300. But sometimes it is on sale at $1000
 There are two cables running from the tablet.
 
 * display signal and data - I connect it via a single USB-C Thunderbolt 3 cable to one my Surface Pro 8's 2 USB-C Thunderbolt 4 ports.
-* power - I connect it using Huions power adapter to the wall.&#x20;
+* power - I connect it using Huion's power adapter to the wall.&#x20;
 
 **Diagonal wobble**
 
-Rating: VERY GOOD (LOW AMOUNT OF WOBBLE)
+Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
