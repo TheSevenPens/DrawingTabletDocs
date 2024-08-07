@@ -65,7 +65,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 ### XP-Pen unattached stands
 
 * AC 41 stand - designed for 16" pen displays
-* AC 42 stand - design for 13" pen displays
+* AC 42 stand - designed for 13" pen displays
 
 More here: [https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html](https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html)
 
