@@ -58,3 +58,10 @@ AG Sparkle for Wacom Cintiq Pro 16 (DTH-167)
 
 
 
+## Stand
+
+The tablet does come with stand. It's quite nice. It folds to provide two angles. The rubber grips do a good job holding on the the tablet and preventing the stand from sliding over the desk.
+
+<figure><img src="../../.gitbook/assets/20240727_105710 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20240727_105724 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
