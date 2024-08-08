@@ -198,6 +198,7 @@
 * [Developers](developers/README.md)
   * [Pen APIs](developers/pen-apis.md)
   * [WinTab versus Windows Ink](developers/wintab-versus-windows-ink.md)
+  * [7P Tablet Tester](developers/7p-tablet-tester.md)
   * [WinTab API](developers/wintab-api.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)
