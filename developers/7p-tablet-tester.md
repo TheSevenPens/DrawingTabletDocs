@@ -16,7 +16,7 @@ Try out the tool here: [**7P Tablet Tester**](https://thesevenpens.github.io/Htm
 * Save canvas as PNG file
 * Clear canvas
 
-## Compatibility
+## OS & Browser compatibility
 
 **Windows**
 
@@ -33,8 +33,9 @@ Try out the tool here: [**7P Tablet Tester**](https://thesevenpens.github.io/Htm
 
 **Linux**
 
+* Chrome - WORKS
 * Firefox
-  * Weyland - WORKS
+  * Wayland - WORKS
   * X11 -&#x20;
     * use `env MOZ_USE_XINPUT2=1 firefox` to make it work
     * more info on what's going on with the X11 issue:&#x20;
