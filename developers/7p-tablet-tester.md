@@ -1,8 +1,19 @@
 # 7P Tablet Tester
 
-This is an online tool to help troubleshoot issues,
+## Overview
+
+This is an online tool to help troubleshoot issues.&#x20;
 
 Try out the tool here: [**7P Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)
+
+## Features
+
+* Can draw with pen, mouse, and touch (if your tablet supports touch)
+* Pen drawing features
+  * Pressure affects size of brush
+  * Tilt - not implemented yet
+* Can save canvas as PNG file
+* Clear canvas
 
 ## Compatibility
 
