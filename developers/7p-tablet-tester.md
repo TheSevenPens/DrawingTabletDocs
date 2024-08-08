@@ -11,8 +11,9 @@ Try out the tool here: [**7P Tablet Tester**](https://thesevenpens.github.io/Htm
 * Can draw with pen, mouse, and touch (if your tablet supports touch)
 * Pen drawing features
   * Pressure affects size of brush
-  * Tilt - not implemented yet
-* Can save canvas as PNG file
+  * Tilt - Not yet implemented
+* Show current numeric values for position, pressure, tilt, etc. - Not yet implemented&#x20;
+* Save canvas as PNG file
 * Clear canvas
 
 ## Compatibility
