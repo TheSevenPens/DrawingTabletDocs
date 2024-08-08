@@ -4,7 +4,9 @@
 
 Keep in mind that I use my drawing tablets in very specific ways. And I certainly don't use every kind of application. But if you are curious below you can find the apps that I recommend and why I recommend them.
 
-## List of my recommended apps
+If you want to see a full list of applications go here: [**Applications**](./).&#x20;
+
+## Recommendations
 
 * [**Clip Studio Paint**](../application-info/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/clip-studio-paint/7p-notes-clip-studio-paint.md)&#x20;
   * (Windows, MacOS, Android, iOS)
@@ -18,11 +20,12 @@ Keep in mind that I use my drawing tablets in very specific ways. And I certainl
   * (Windows, MacOS)
 * [**Procreate**](../application-info/procreate/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/procreate/7p-notes-procreate.md) &#x20;
   * (iOS)
+* **Rebelle** - no notes
+  * (Windows, MacOS)
 * [**Infinite painter**](../application-info/infinite-painter.md) - no notes
   * (Android, iOS)
 * [**Concepts**](../application-info/concepts-app.md) - no notes
   * (Windows, Android, iOS, ChromeOS)
 
-## List of all apps
 
-If you want to see a full list of applications go here: [applications](./)
+
