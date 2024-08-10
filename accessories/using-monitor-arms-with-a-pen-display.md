@@ -79,7 +79,7 @@ link: [https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Table
 
 </div>
 
-
+I just ordered this in August 2024, so I haven't had time to use it yet. By September, I'll have some initial notes on it.&#x20;
 
 ## Wobble
 
