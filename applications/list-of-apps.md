@@ -20,6 +20,7 @@
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
 * [**Medibang Paint**](../application-info/medibang.md) (Windows, MacOS)
 * [**Medibang Pro**](../application-info/medibang-1.md) (iOS)
+* [**Microsoft Paint**](../application-info/microsoft-paint.md) (aka MSPAINT) (Windows)
 * [**MyPaint**](../application-info/mypaint.md) (Windows, Linux)
 * [**Paint Tool Sai**](../application-info/painttool-sai.md)  (Windows)
 * [**Painter**](../application-info/painter.md)  (Windows, MacOS)

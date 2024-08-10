@@ -375,6 +375,7 @@
   * [Microsoft Whiteboard](application-info/microsoft-whiteboard.md)
   * [Microsoft PowerPoint](application-info/microsoft-powerpoint.md)
   * [Microsoft OneNote](application-info/microsoft-onenote.md)
+  * [Microsoft Paint](application-info/microsoft-paint.md)
   * [Painter](application-info/painter.md)
   * [Paintstorm Studio](application-info/paintstorm-studio.md)
   * [PaintTool Sai](application-info/painttool-sai.md)
