@@ -61,13 +61,25 @@ For my larger pen displays, 24" and larger, I use the **Ergotron HX**. This is a
 
 The Ergotron HX has less wobble than the **Ergotron LX**, but still has some wobble.
 
-For 22" and below I use the Ergotron LX. It's certainlyu not as rugged as the Ergotron HX, but it has been reliable and has a good range of motion.
+For 22" and below I use the Ergotron LX. It's certainly not as rugged as the Ergotron HX, but it has been reliable and has a good range of motion.
 
 [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w\_3pzQcjfg) 2021/10/01
 
 [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04&#x20;
 
 [Ergotron - Install Ergotron HX Monitor Arm with Heavy-Duty Tilt Pivot or HD Pivot](https://www.youtube.com/watch?v=3GZYP7DwwCA) 2021/05/24&#x20;
+
+## VIVO VESA monitor and touch screen desk stand
+
+link: [https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Tabletop/dp/B074P7Y9ZG](https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Tabletop/dp/B074P7Y9ZG)
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
+
+
 
 ## Wobble
 
