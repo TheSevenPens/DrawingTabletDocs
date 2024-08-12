@@ -36,7 +36,11 @@ Some people have had success with the Ergotron Neo-Flex Stand. See this reddit t
 
 It's important to match the stand with the height of the pen display. A stand designed for a smaller pen display will have its angle adjustment lever in a position so that it is convenient to reach by putting your hand over the top of the display. However when used with a large display that lever may be much more difficult to reach.
 
+## Stands I use
 
+This is the stand I use: VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)&#x20;
+
+[**my notes on this stand**](7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
 
 ## Unattached folding stands
 
@@ -72,6 +76,8 @@ More here: [https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html]
 ## The XOOT Stand
 
 [XOOT stand](xoot-stand.md)
+
+
 
 
 

@@ -403,6 +403,7 @@
     * [ePlastic polycarbonate sheets (velvet lexan)](accessories/surface-protectors/eplastic-polycarbonate-sheets-velvet-lexan.md)
     * [Paperlike for iPad](accessories/surface-protectors/paperlike-for-ipad.md)
   * [Stands](accessories/stands/README.md)
+    * [7P notes: VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](accessories/stands/7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
     * [XOOT Stand](accessories/stands/xoot-stand.md)
     * [iPad stands](accessories/stands/ipad-stands.md)
 * [Resources](resources/README.md)
