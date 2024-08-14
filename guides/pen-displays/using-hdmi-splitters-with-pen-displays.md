@@ -2,15 +2,17 @@
 
 ## **TLDR**
 
-Try to avoid using HDMI splitters if possible. If you need to use one, then understand the limitations and research before you buy one.
-
-Try the alternatives listed at the end of this document.
+Try to avoid using HDMI splitters if possible. If you need to use one, then understand the limitations and research before you buy one. But overall I recommend that you try the alternatives listed at the end of this document.
 
 ## **Summary**
 
 HDMI splitters are devices that take a single HDMI input and provide two HDMI outputs.
 
 They can be very useful devices, but they are often misunderstood in the context of using pen displays. This doc will help clarify how and if you can use them.
+
+Below is an example of a simple HDMI splitter. The male HDMI end goes to your computer. The two female HDMI ports are intended to connect to monitors, pen displays, etc. This splitter takes the signal from the computer and **copies** the two devices you have attached.
+
+<figure><img src="../../.gitbook/assets/HDMI-splitter-example.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **The problem**
 
