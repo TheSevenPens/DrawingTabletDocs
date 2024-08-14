@@ -18,6 +18,7 @@
 * [Teoh on Tech - Artist Review: M4 iPad Pro & Apple Pencil Pro](https://www.youtube.com/watch?v=guttCuXV8bA) - 2024/05/21
 * [Teoh on Tech -PWM from M4 iPad Pro OLED vs LCD](https://www.youtube.com/watch?v=zWc30I27M3o) - 2024/05/25
 * NANO texture
+  * [Adam Duff - M4 iPad Pro Nano Texture Long term review](https://www.youtube.com/watch?v=phfvgIktSzY) 2024/08/14&#x20;
   * [Teoh on Tech - iPad Pro NANO-TEXTURE glass (artist review)](https://www.youtube.com/watch?v=jVDhiAT-HIo) 2024/06/03&#x20;
   * [Chris Piascik - Drawing on iPad Pro w/ NANO TEXTURE: Everything You Need to Know](https://www.youtube.com/watch?v=KEq2Ybb8PKA) - 2024/05/21
   * [Brad Colbow - Nano Texture iPad vs Paperlike and Alternatives](https://www.youtube.com/watch?v=A4NUDHRVKbM) - 2024/05/24&#x20;
