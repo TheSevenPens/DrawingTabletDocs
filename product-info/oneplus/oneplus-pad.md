@@ -7,6 +7,6 @@
 
 ## OnePlus Pad
 
-* [Brad Colbow - OnePlus Pad Review](https://youtu.be/5XSzun41ZNE) May 22 2023&#x20;
-* [Teoh on Tech - OnePlus Pad artist review](https://youtu.be/pCyi8OUQxUg) July 3 2023&#x20;
-* [Teoh on Tech - OnePlus Pad vs iPad for artists and drawing](https://youtu.be/bJTqMieUkeU) Jul 13, 2023
+* [Brad Colbow - OnePlus Pad Review](https://youtu.be/5XSzun41ZNE) 2023/05/22
+* [Teoh on Tech - OnePlus Pad artist review](https://youtu.be/pCyi8OUQxUg) 2023/07/03&#x20;
+* [Teoh on Tech - OnePlus Pad vs iPad for artists and drawing](https://youtu.be/bJTqMieUkeU) 2023/07/13
