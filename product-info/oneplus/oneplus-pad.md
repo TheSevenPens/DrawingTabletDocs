@@ -1,5 +1,10 @@
 # OnePlus Pad
 
+## OnePlus Pad 2
+
+* [Teoh on Tech - Review of OnePlus Pad 2](https://www.youtube.com/watch?v=YepBZgALtRk) 2024/08/15
+* [Brad Colbow - Review of OnePlus Pad 2](https://www.youtube.com/watch?v=TxLVREd52nU) 2024/08/15
+
 ## OnePlus Pad
 
 * [Brad Colbow - OnePlus Pad Review](https://youtu.be/5XSzun41ZNE) May 22 2023&#x20;
