@@ -14,7 +14,7 @@ The easy way to tell that a pressure cuve constrains the output range is to noti
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Even though the shapes look a little diffrent, they both effectively take the input logical pressure values between \[0,1] and map that to an output region close to \[0.3, 0.6]
 
