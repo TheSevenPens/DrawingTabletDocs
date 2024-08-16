@@ -15,9 +15,15 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 <figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
 
-## Wacom One GEN2 pen tablets
+## Wacom One GEN2 tablets
 
-The Wacom One GEN2 pen are intended to be upgrades to the consumer-level Intuos tablets. Currently Wacom One GEN2 tablets seem to suffer from pressure issues and I do not recommend purchasing them. More here: [7P notes: Wacom One GEN2](wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
+Wacom One GEN refer 2 pen tablets and 2 pen displays
+
+The Wacom One GEN2 pen tablets are intended to be upgrades to the consumer-level Intuos tablets.&#x20;
+
+Currently Wacom One GEN2 pen tablets and pen displays seem to suffer from pressure issues and I do not recommend purchasing them.&#x20;
+
+More here: [7P notes: Wacom One GEN2](wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
 
 ## Recommendation summary
 
