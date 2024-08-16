@@ -220,7 +220,7 @@
   * [Troubleshoot straight lines at start of stokes](troubleshooting/troubleshoot-straight-lines-at-start-of-stokes.md)
   * [Troubleshoot pen not drawing in vertical or horizontal bands](troubleshooting/troubleshoot-pen-not-drawing-inside-vertical-or-horizontal-bands-across-tablet.md)
   * [Troubleshoot WiFi and Internet problems with drawing tablets](troubleshooting/troubleshoot-wifi-and-internet-problems-with-drawing-tablets.md)
-  * [Troubleshoot tablet driver does not detect tablet](troubleshooting/troubleshoot-tablet-not-detected.md)
+  * [Troubleshoot tablet driver does not detect tablet](troubleshooting/troubleshoot-tablet-driver-does-not-detect-tablet.md)
   * [Testing pressure in the tablet driver](troubleshooting/testing-pressure-in-the-tablet-driver.md)
   * [Testing with Windows PNP drawing tablet drivers](troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)
   * [Troubleshoot computer does not detect display](troubleshooting/troubleshoot-display-detection.md)

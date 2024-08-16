@@ -5,7 +5,7 @@
 * They lose or damage their pen. Replacement pens are **expensive** - it may cost a significant portion of what you paid for the tablet.
 * The pen no longer reports pressure&#x20;
 * The pen pressure is stuck at 100%.
-* [**The tablet driver does not detect the tablet**](troubleshoot-tablet-not-detected.md).
+* [**The tablet driver does not detect the tablet**](troubleshoot-tablet-driver-does-not-detect-tablet.md).
 * The tablet driver cannot detect the pen.
 
 **Problems unique to pen displays**
