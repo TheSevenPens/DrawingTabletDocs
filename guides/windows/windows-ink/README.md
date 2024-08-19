@@ -12,10 +12,10 @@ In theory, Windows Ink makes it easier for developer to build pen-enabled apps o
 
 Whichever API you want to use, you have to configure it in two places the same way.
 
-For example if you want to use Windows Ink:
+For example, examine this combinations&#x20;
 
-* you have to enable Windows Ink in the tablet driver
-* you have to enable Windows Ink in the application &#x20;
+* WININK enabled in driver, WININK enabled in app -> this works; windows ink will be used
+* WININK disabled in driver, WININK disabled in app -> this works; wintab will be used instead of windows ink
 
 ## Driver configuration of Windows Ink
 
