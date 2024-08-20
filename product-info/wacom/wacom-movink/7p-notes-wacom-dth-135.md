@@ -246,6 +246,15 @@ Yes
 * Cable comes with tablet; YES a 1m USB-C cable comes with the box
 * Can be used with other USB-C cables. Not mentioned explicitly by wacom.
 
+### Connection options
+
+* a single USB-C cable that supplies power, data, and display signal
+* Two USB-C cables. One that that provides data and display signal and one that supports power.
+* a 3-in-1 cable. Some people have bought a wacom 3-in-1 cable (not sure which model) which lets them connect the movink to the HDMI of their computer.&#x20;
+  * See: [https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/](https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/)
+
+
+
 ## Buttons
 
 There are two side buttons. One on top left side and one on top right side. There is some ability to configure the behaviors of the buttons.
