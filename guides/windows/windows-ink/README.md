@@ -8,30 +8,24 @@ Windows Ink is one of two APIs used for Windows to talk to a tablet. The other, 
 
 In theory, Windows Ink makes it easier for developer to build pen-enabled apps or add pen support for their existing apps.  It also provides a consistent, modern, single interface for an application to deal with pen input.&#x20;
 
-## Coordinating Windows Ink configuration between driver and application
+## Coordinating Windows Ink in the driver and application
 
-Whichever API you want to use, you have to configure it in two places the same way.
+Whichever API you want to use, **you must configure it in two places (app and driver) the same way**.
 
-For example, examine this combinations&#x20;
+* To use Windows Ink
+  * Enable Windows Ink in the driver
+  * Enable Windows Ink in the app
+* To use WinTab instead
+  * Enable WinTab in the driver
+  * Enable WinTab Ink in the app
 
-* WININK enabled in driver, WININK enabled in app -> this works; windows ink will be used
-* WININK disabled in driver, WININK disabled in app -> this works; wintab will be used instead of windows ink
+Instructions:
 
-## Driver configuration of Windows Ink
+* How to [**configure Windows Ink in the tablet driver**](configure-windows-ink-in-the-tablet-driver.md) &#x20;
+* How to [**configure Windows Ink in an application**](configure-windows-ink-for-apps.md)&#x20;
+  * NOTE: If you change between Windows Ink and WinTab in app, you should restart the app.
 
-A drawing tablet driver will let you use either pen API. In most tablet drivers you can even choose which API on a per-application basis.&#x20;
-
-Read how to [**configure windows ink in tablet drivers**](configure-windows-ink-in-the-tablet-driver.md) &#x20;
-
-## Application configuration of Windows Ink
-
-Applications usually let you specific which API to use with the tablet. Some applications, only use a specific API. For example recent versions of OneNote only use the Windows Ink API.
-
-NOTE: If you reconfigure an application to switch between APIs then you should restart the application.
-
-Read how to [**configure Windows Ink for applications**](configure-windows-ink-for-apps.md)&#x20;
-
-## Why you need to be aware of Windows Ink configuration
+## Tip: Be aware of Windows Ink configuration
 
 Sometimes applications have trouble working with one of the APIs, so switching to the other API can sometimes solve problems.
 
@@ -44,6 +38,3 @@ As of 2023 enough applications on Windows support Windows Ink (or require it) th
   * Disable Windows Ink for and specific apps where you want to use the WinTab API
 * In the applications
   * Ensure they are configured to use the appropriate API as specified in the tablet driver&#x20;
-
-
-
