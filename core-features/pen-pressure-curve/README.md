@@ -36,7 +36,17 @@ that is it maps logical pressure to logical pressure. The logical pressure comes
 
 In reality we wouldn't just have one pressure curve function with a single input logical pressure parameter like that. More typically we'd have a pressure curve function that accepts multiple parameters. By tweaking these additional parameters we can control what the pressure curve is actually doing in a dynamic way.
 
-Pressure curves to explore
+## Types of pressure curve shapes
+
+There are a variety of pressure curve shapes - each of which can solve some problem or achieve some visual effect.
+
+<figure><img src="../../.gitbook/assets/image (447).png" alt=""><figcaption></figcaption></figure>
+
+[Curve support in applications](pressure-curve-shape-support-in-applications.md)
+
+
+
+## Pressure curves to explore
 
 * [Null pressure curve](null-pressure-curve.md)
 * [Pressure curves that constrain the output logical pressure range](pressure-curves-that-constrain-output.md)
