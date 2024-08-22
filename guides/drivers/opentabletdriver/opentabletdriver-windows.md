@@ -25,7 +25,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 ## **Prepare your computer**
 
 * Uninstall any existing tablet drivers (Wacom, XP-Pen, Huion, etc.).&#x20;
-* To be absolutely sure you have completely removed the drivers follow use the [**Tablet driver cleanup tool**](../uninstalling-manufacturer-tablet-drivers.md) (this tool  is for Windows only)
+* To be absolutely sure you have completely removed the drivers follow use the [**Tablet driver cleanup tool**](../tablet-driver-cleanup-tool.md) (this tool  is for Windows only)
 * Uninstalling may require a restart of your system. So get this out of the way before you proceed with the next steps.
 * Create a folder somewhere on your computer called "OpenTabletDriver". I will use "C:\OpenTabletDriver" for the examples in this doc.&#x20;
 

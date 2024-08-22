@@ -147,7 +147,7 @@
       * [Pressure curve OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
       * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)
     * [Using a drawing tablet without installing drivers](guides/drivers/using-a-drawing-tablet-without-installing-drivers.md)
-    * [Tablet Driver Cleanup tool](guides/drivers/uninstalling-manufacturer-tablet-drivers.md)
+    * [Tablet Driver Cleanup tool](guides/drivers/tablet-driver-cleanup-tool.md)
     * [Using older tablet drivers](guides/drivers/using-older-tablet-drivers.md)
     * [Importing and Exporting tablet driver configurations](guides/drivers/importing-and-exporting-tablet-driver-configurations.md)
   * [Advanced](guides/advanced/README.md)

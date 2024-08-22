@@ -10,7 +10,7 @@ A restart will often clear up problems. If a restart or two doesn't fix the prob
 
 * Are you running the latest tablet drivers? The driver software will usually have some place where it says which version it it.
 * Try uninstalling, restarting the computer, and reinstalling the latest drivers.&#x20;
-* Sometimes the drivers you have don't completely uninstall themselves. To completely uninstall the drivers see this guide: [**Uninstalling manufacturer tablet drivers**](../guides/drivers/uninstalling-manufacturer-tablet-drivers.md).
+* Sometimes the drivers you have don't completely uninstall themselves. To completely uninstall the drivers see this guide: [**Uninstalling manufacturer tablet drivers**](../guides/drivers/tablet-driver-cleanup-tool.md).
 
 ## Try an older driver
 

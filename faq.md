@@ -108,4 +108,4 @@ It depends. More here: [Installing multiple tablet drivers on the same computer]
 
 ### **Q: How to I completely uninstall a tablet driver on Windows?**
 
-See: [Uninstalling manufacturer tablet drivers](guides/drivers/uninstalling-manufacturer-tablet-drivers.md)
+See: [Uninstalling manufacturer tablet drivers](guides/drivers/tablet-driver-cleanup-tool.md)
