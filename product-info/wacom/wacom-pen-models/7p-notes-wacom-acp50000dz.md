@@ -126,7 +126,7 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 
       <div align="left">
 
-      <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
       </div>
 * Wacom has not published that update

@@ -29,7 +29,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Aspect Ratio** - 16:10. It is a little more squarish than the much more common 16:9 aspect ratio. After using it for a few days, I actually like the 16:10 aspect ratio. To me it makes the tablet feel a little larger than it is.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Connections and cabling**
 
