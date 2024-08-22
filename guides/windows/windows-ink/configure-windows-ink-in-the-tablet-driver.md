@@ -20,7 +20,7 @@ Every driver has a different way of configuring it in their UI:
 * **Huion**: The drop-down with the gear icon at the top.
 * **OpenTabletDriver**: N/A - OTD does not support per-application Windows Ink configuration
 
-## Wacom
+## Wacom Driver > Wacom Tablet Properties
 
 * Open the **Wacom Tablet Properties** app
 * Under **Tool** select your pen
@@ -30,25 +30,39 @@ Every driver has a different way of configuring it in their UI:
 
 ![](<../../../.gitbook/assets/image (164).png>)
 
-## Huion
+## Wacom Driver > Wacom Center
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (450).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+## Huion Driver > Huion Tablet app
 
 * Open the **HuionTablet** app
 * Navigate to **Digital Pen**&#x20;
 * Under Press Key, set the **Enable Windows Ink** to turn on or off **Windows Ink** in the driver
 
-![](<../../../.gitbook/assets/image (187).png>)
+<div align="left">
 
+<figure><img src="../../../.gitbook/assets/image (187).png" alt="" width="375"><figcaption></figcaption></figure>
 
+</div>
 
-## XP-Pen driver
+## XP-Pen driver > PenTablet App
 
 * Open the **PenTablet** app
 * Navigate to **Digital settings**&#x20;
 * Set the **Windows Ink** to turn on or off **Windows Ink** in the driver
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-## Xencelabs
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+## Xencelabs Driver
 
 <div align="left">
 
