@@ -48,7 +48,17 @@ Every driver has a different way of configuring it in their UI:
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+## Xencelabs
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (449).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
 ## OpenTabletDriver
+
+NOTE: To see the Windows Ink option, you have to install the OTD Windows Ink plug-in first.
 
 ![](<../../../.gitbook/assets/image (122).png>)
 
