@@ -28,7 +28,7 @@ Every driver has a different way of configuring it in their UI:
 * Or if you have a pen display, go to the **Calibrate** tab.
 * Set **Use Windows Ink** to turn on or off **Windows Ink** in the driver
 
-![](<../../../../.gitbook/assets/image (164).png>)
+![](<../../../.gitbook/assets/image (164).png>)
 
 ## Huion
 
@@ -36,11 +36,19 @@ Every driver has a different way of configuring it in their UI:
 * Navigate to **Digital Pen**&#x20;
 * Under Press Key, set the **Enable Windows Ink** to turn on or off **Windows Ink** in the driver
 
-![](<../../../../.gitbook/assets/image (187).png>)
+![](<../../../.gitbook/assets/image (187).png>)
 
 
+
+## XP-Pen driver
+
+* Open the **PenTablet** app
+* Navigate to **Digital settings**&#x20;
+* Set the **Windows Ink** to turn on or off **Windows Ink** in the driver
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## OpenTabletDriver
 
-![](<../../../../.gitbook/assets/image (122).png>)
+![](<../../../.gitbook/assets/image (122).png>)
 
