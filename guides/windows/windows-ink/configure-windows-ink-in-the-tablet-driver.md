@@ -58,7 +58,7 @@ Every driver has a different way of configuring it in their UI:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

@@ -57,6 +57,8 @@
     * [Misc pressure curve notes](core-features/pen-pressure-curve/misc-pressure-curve-notes.md)
     * [Pressure curves that constrain output](core-features/pen-pressure-curve/pressure-curves-that-constrain-output.md)
     * [Null pressure curve](core-features/pen-pressure-curve/null-pressure-curve.md)
+    * [Implementing pressure curves](core-features/pen-pressure-curve/implementing-pressure-curves.md)
+    * [Pressure curves that ignore input](core-features/pen-pressure-curve/pressure-curves-that-ignore-input.md)
     * [Pressure curve shape support in applications](core-features/pen-pressure-curve/pressure-curve-shape-support-in-applications.md)
   * [Disable pen pressure](core-features/disable-pen-pressure.md)
   * [Pen hover](core-features/pen-hover.md)
