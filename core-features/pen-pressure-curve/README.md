@@ -46,6 +46,4 @@ Details on specific shapes
 
 * [Null pressure curve](null-pressure-curve.md)
 * [Pressure curves that constrain the output logical pressure range](pressure-curves-that-constrain-output.md)
-* Pressure curves that ignore input
-*
-
+* [Pressure curves that ignore input](pressure-curves-that-ignore-input.md)
