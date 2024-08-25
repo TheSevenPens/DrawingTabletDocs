@@ -21,6 +21,6 @@ CableCreation USB to RS232 Adapter with PL2303 Chipset ([amazon link](https://ww
 
 ### &#x20;Programmatically getting the pressure data to a PC
 
-Tablet expert Kuuube, has provided some sample code to read the data from the scale into a PC using Python. See the github project here: [https://github.com/Kuuuube/Misc\_Scripts/tree/main/scripts\_and\_programs/us\_solid\_scale\_reade](https://github.com/Kuuuube/Misc\_Scripts/tree/main/scripts\_and\_programs/us\_solid\_scale\_reade)&#x20;
+Tablet expert Kuuube, has provided some sample code to read the data from the scale into a PC using Python. See the github project here: [**us\_solid\_scale\_reader**](https://github.com/Kuuuube/Misc\_Scripts/tree/main/scripts\_and\_programs/us\_solid\_scale\_reader)&#x20;
 
 &#x20;
