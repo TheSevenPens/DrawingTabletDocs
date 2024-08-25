@@ -1,12 +1,12 @@
 # USB-C DisplayPort alt mode
 
-### Overview
+## Overview
 
 If you want to send a display signal from your computer to a pen display via a USB-C cable, then the ports and cables need to support **DP alt mode** (DisplayPort Alternative Mode).
 
 <mark style="color:red;">**NOT ALL USB-C PORTS OR CABLES SUPPORT DP ALT MODE.**</mark>
 
-Support for DP alt mode is something you must verify for your ports and yoour cables. Sometimes this is not straightforward to do. You will find multiple techniques described below.
+Support for DP alt mode is something you must verify for your ports and your cables. Sometimes this is not straightforward to do. You will find multiple techniques described below.
 
 ## Verifying if your USB-C port or cable supports DP alt mode
 
