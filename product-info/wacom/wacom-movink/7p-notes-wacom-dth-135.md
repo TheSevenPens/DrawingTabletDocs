@@ -248,9 +248,12 @@ Yes
 
 ### Connection options
 
-* a single USB-C cable that supplies power, data, and display signal
+* A single USB-C cable that supplies power, data, and display signal
 * Two USB-C cables. One that that provides data and display signal and one that supports power.
-* a 3-in-1 cable. Some people have bought a wacom 3-in-1 cable (not sure which model) which lets them connect the movink to the HDMI of their computer.&#x20;
+* A 3-in-1 cable.&#x20;
+  * I tested the 3 in 1 (HDMI) Cable for 2023 Edition Wacom One Displays (ACK4490602Z) with the Movink 13. It worked correctly
+  * You can buy it from the Wacom store: [https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)
+* Some people have bought a Wacom 3-in-1 cable (not sure which model) which lets them connect the Movink to the HDMI of their computer.&#x20;
   * See: [https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/](https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/)
 
 

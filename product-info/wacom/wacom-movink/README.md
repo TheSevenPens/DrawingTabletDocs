@@ -1,9 +1,5 @@
 # Wacom Movink
 
-{% hint style="info" %}
-This page is based of currently published information. I have ordered the tablet and when it has arrived I will be able to add additional information.
-{% endhint %}
-
 ## Wacom Movink 13
 
 * Released: 2024
