@@ -2,17 +2,20 @@
 
 ## Overview
 
-### The new Wacom One Pen: (CP-923)
+Wacom introduced this pen in 2023. It is a terrible pen. Because of of how it handles pressure. I prefer using the Wacom One Pen GEN1 (CP-913) instead.
+
+
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 133804.jpg" alt=""><figcaption></figcaption></figure>
 
-This is the Wacom One Pen for the Wacom One (Gen 2) tablets. Wacom also shows this on their site as the "Wacom One Standard Pen".
+Officially the name of the CP-923 pen is "Wacom One Standard Pen"  but that name is confusing so I will call it one of the two following names:
 
-I will refer to this pen as the "Wacom One Pen (Gen 2)"
+* Wacom One Pen (GEN2)
+* CP-923
 
 ### The Old Wacom One Pen (CP-913)
 
-
+Below is the old Wacom One Pen (CP-913). It is better than the CP-913. It only has one button but the pressure handling is much better.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
 

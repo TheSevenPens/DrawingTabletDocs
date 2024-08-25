@@ -76,3 +76,10 @@ In the years since Windows Ink has been available, here's how apps have adopted 
 * Some apps ONLY support Windows Ink. For example: Microsoft OneNote.
 * Some apps ONLY support WinTab. These tend to be older apps that have not been updates.
 
+## Getting to Windows Ink Control Panel from the command line
+
+Use this in CMD shell
+
+```
+"C:\WINDOWS\system32\rundll32.exe" shell32.dll,Control_RunDLL TabletPC.cpl @0,pen
+```
