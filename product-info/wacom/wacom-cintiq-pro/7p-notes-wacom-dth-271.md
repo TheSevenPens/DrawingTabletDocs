@@ -100,7 +100,7 @@
 
 Pressure is a feature of the pen you use with the tablet.
 
-See my [**notes on the Wacom Pro Pen 3**](../wacom-pen-models/7p-notes-wacom-acp50000dz.md) that comes with the tablet.
+See my [**notes on the Wacom Pro Pen 3**](../wacom-pens/7p-notes-wacom-acp50000dz.md) that comes with the tablet.
 
 ### **Diagonal wobble**
 
@@ -326,7 +326,7 @@ The Wacom Cintiq Pro 27 comes with the Wacom Pro Pen 3.
 
 The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
 
-See my [**notes on the Wacom Pro Pen 3**](../wacom-pen-models/7p-notes-wacom-acp50000dz.md).
+See my [**notes on the Wacom Pro Pen 3**](../wacom-pens/7p-notes-wacom-acp50000dz.md).
 
 ## Touch&#x20;
 

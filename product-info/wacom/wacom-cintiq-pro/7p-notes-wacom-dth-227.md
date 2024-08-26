@@ -101,8 +101,8 @@ Slightly better than Cintiq Pro 27.
 
 EXCELLENT (best in the industry) because the pens are very good.
 
-* [My notes on Wacom Pro Pen 2](../wacom-pen-models/7p-notes-wacom-kp-504e.md)
-* [My notes on Wacom Pro Pen 3](../wacom-pen-models/7p-notes-wacom-acp50000dz.md)
+* [My notes on Wacom Pro Pen 2](../wacom-pens/7p-notes-wacom-kp-504e.md)
+* [My notes on Wacom Pro Pen 3](../wacom-pens/7p-notes-wacom-acp50000dz.md)
 
 ## Pointer lag
 

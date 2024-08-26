@@ -37,7 +37,7 @@ The Wacom CP-913 pen provides an better experience with this device. When I draw
 
 ### Using the Wacom One GEN2 Pen CP-923
 
-This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen GEN2 (CP-923)](../wacom/wacom-pen-models/7p-notes-wacom-cp-923.md)&#x20;
+This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen GEN2 (CP-923)](../wacom/wacom-pens/7p-notes-wacom-cp-923.md)&#x20;
 
 ## System lag
 
