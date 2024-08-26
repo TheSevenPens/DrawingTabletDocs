@@ -6,7 +6,7 @@ The tablets I own:
 
 * Samsung Galaxy Tab S8 Ultra <- RECOMMENDED.
 * Samsung Galaxy Tab S9 FE <- HIGHLY RECOMMENDED. Great value at reasonable cost.
-* Samsung Galaxy Tab S6 LITE (2022 edition) <- RECOMMENDED as great budget choice for esp. for beginners
+* Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition) <- RECOMMENDED as great budget choice for esp. for beginners.
 
 ## Size
 
@@ -23,13 +23,21 @@ RATING: Very good
 
 All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
 
-## Pens
+## Standard pens
 
-The Galaxy Tab models come with an Samsung S Pen but they are also compatible with a few other pens. In particular the Wacom One GEN1 pen (CP-913). Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-notes-samsung-s-pen.md).
+The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-notes-samsung-s-pen.md).
+
+## Compatible Pens
+
+These tablets. they are also compatible with a few other pens.&#x20;
 
 ### Using the Wacom One GEN1 Pen CP-913
 
-The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  I usually use the CP-913 that came with my Wacom One (DTC-133).
+The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  Some people (including myself) use the CP-913 that came with my Wacom One (DTC-133) with Samsung Tablets.
+
+### Using the Wacom One GEN2 Pen CP-923
+
+This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen GEN2 (CP-923)](../wacom/wacom-pen-models/7p-notes-wacom-cp-923.md)&#x20;
 
 ## System lag
 
@@ -53,7 +61,7 @@ More here: [**Applications**](../../applications/)&#x20;
 
 You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
-## Using the tablet as an external monitor via USB-C
+## Using A Galaxy Tab S tablet as an external monitor via USB-C
 
 This means sending a display signal from a computer to this tablet.
 
