@@ -10,11 +10,29 @@ It manifests as a longer "string" at the end of your stroke. These ends can be r
 
 ![](<../.gitbook/assets/image (113).png>)![](<../.gitbook/assets/image (71).png>)
 
-## Things to try
+## Avoid flicking
 
-* Are you "flicking" the pen away from the tablet at the end of your strokes? This can induce the effect. Try not taking the pen off the tablet surface and ending the line slowly.
-* Check if the effect happens with a different brush.
-* You may need to reach out to other users of your application to see how they addressed it.
+Are you "flicking" the pen away from the tablet at the end of your strokes? This can induce the effect. Try not taking the pen off the tablet surface and ending the line slowly.
+
+## Smoothing
+
+Smoothing (also called Stabilization) can cause this issue. Try using less smoothing.
+
+## Pressure sensitivity
+
+In my experience this can happen when pens have a low IAF (Initial Activation Force).
+
+Even though a low IAF is a good thing. It can also mean that at the end of strokes it is still picking up the very last bit of low pressure.
+
+Try adjusting your pressure curve as shown below to see if this helps reduce the problem.
+
+<figure><img src="../.gitbook/assets/image (451).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Your application
+
+Different apps may be more prone to this problem - depending on the implementation in their brush engine.
+
+Reach out to other users of your application to see how they addressed it.
 
 ## OpenTabletDriver & Slimy Scylla
 
@@ -25,8 +43,6 @@ The default value for **Remove Tail Position Reports** is 1, and usually this is
 However, sometimes may need to increase it to 2 or higher.
 
 In general, set the value to as low a number as it will go and still work correctly for you.
-
-
 
 ## Lazy Nezumi
 
