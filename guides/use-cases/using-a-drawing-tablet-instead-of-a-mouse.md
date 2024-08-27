@@ -84,7 +84,20 @@ For the vast majority of mice, you can just plug them into a computer and they w
 
 That isn't quite the case for drawing tablets. You will need to install the tablet driver.
 
+## Wired vs Wireless
 
+Mice can be:
+
+* Wired only
+* Wireless only
+* Wired + Wireless
+
+Drawing tablets can be
+
+* Wired only
+* Wired + Wireless
+
+There are no drawing tablets that are wireless only.
 
 ## Tablets that would work well as a mouse replacement
 
