@@ -93,6 +93,12 @@ Drawing tablets can be
 
 There are no drawing tablets that are wireless only.
 
+## Wireless issues&#x20;
+
+**Latency** - There is a little extra latency when using wireless. Some people don't use wireless for this reason.
+
+**Interference** - Usually tablets use Bluetooth. You may find that devices liek phones when they are close to your tablet may interfere. Usually this takes the form of an unresponsive pen or stuttering of pointer position as you move.
+
 ## Tablets that work well as mouse replacements
 
 Lots of them would work. The easy choices are:
