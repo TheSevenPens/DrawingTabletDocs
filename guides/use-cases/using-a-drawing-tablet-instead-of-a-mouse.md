@@ -93,16 +93,18 @@ Drawing tablets can be
 
 There are no drawing tablets that are wireless only.
 
-## Tablets that would work well as a mouse replacement
+## Tablets that work well as mouse replacements
 
 Lots of them would work. The easy choices are:
 
-* One for Wacom Small CTL-472
-* One for Wacom Medium CTL-672&#x20;
-* Wacom Intuos Small CTL-4100
-* Wacom Intuos Medium CTL-6100
+* One by Wacom Small (CTL-472)
+* One by Wacom Medium (CTL-672)&#x20;
+* Wacom Intuos Small (CTL-4100)
+* Wacom Intuos Medium (CTL-6100)
 
 Generally, I would suggest a medium size, though small can work also.
+
+Other brands also have tablets that work as mouse replacements, but the safe choice is Wacom because of their track record of reliability.&#x20;
 
 ## Resources
 
