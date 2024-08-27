@@ -342,7 +342,7 @@
       * [7P notes: XP-Pen Artist 16 GEN2 (CD160FH)](product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-cd160fh.md)
     * [XP-Pen Artist Pro](product-info/xp-pen/xp-pen-artist-pro.md)
     * [XP-Pen Artist Pro GEN2](product-info/xp-pen/xp-pen-artist-pro-gen2/README.md)
-      * [7P notes: XP-Pen Artist Pro 19 GEN2 (MD160QH)](product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-19-gen2-md160qh.md)
+      * [7P notes: XP-Pen Artist Pro 19 GEN2 (MD180UH)](product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-artist-pro-19-gen2-md180uh.md)
       * [7P notes: XP-Pen Artist Pro 16 GEN2 (MD160QH)](product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md160qh.md)
     * [XP-Pen Shortcut Remote](product-info/xp-pen/xp-pen-shortcut-remote.md)
     * [XP-Pen Deco](product-info/xp-pen/xp-pen-deco/README.md)
