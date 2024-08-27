@@ -2,7 +2,7 @@
 
 If your are a creative, then it's pretty obvious why there's a benefit to using a drawing tablet instead of a mouse when you are drawing.
 
-But some people, simply want to use the drawing tablet as a mouse replacement in general.&#x20;
+Some people simply want to use the drawing tablet as a mouse replacement. They can definitely serve this purpose. &#x20;
 
 ## **My personal experience**
 
@@ -14,23 +14,17 @@ I used a MEDIUM sized tablet - something the size of a Wacom Intuos Pro Medium. 
 
 For a few years I a SMALL sized tablet - something the size of a Wacom Intuos Pro small. When I was using the small tablet, I was in a non-artistic phase so I was not drawing with it much.
 
-## **Ergonomics**
+I generally recommend MEDIUM sized tablets as a mouse replacement, but SMALL can work also.
 
-One of the reasons I avoided using the mouse was that it was causing wrist pain.
+## **Wrist pain**
 
-The pen was helpful in **reducing** the pain. However, if I do draw a lot over a month or so, I can develop **wrist pain**.
+One of the reasons I avoided using the mouse was that it was causing wrist pain. The pen was helpful in **reducing** the pain. However, if I do draw a lot over a month or so, I can develop **wrist pain**. So a drawing tablet might help, but it will not eliminate these kinds of problems.
 
 ## **Holding the pen while typing**
 
 To make it easier to switch between typing and using the pen I ALWAYS held the pen in my hand even when typing.
 
 When drawing I held it like you would normally hold a pen, but when I switched to typing, as I extended out my fingers the pen I would rotate the pen so the tip is pointing up and to the side.&#x20;
-
-## **Other experiences**
-
-Here's a detailed write up of someone's experience:&#x20;
-
-[r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/) (2023/05/03)&#x20;
 
 ## Pen pressure
 
@@ -52,9 +46,9 @@ Mice move the pointer through relative positioning while drawing tablets use abs
 
 However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [**mouse mode**](../../core-features/mouse-mode.md). &#x20;
 
-## Matching aspect ratios
+## Aspect ratios
 
-If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: **Matching aspect ratios**&#x20;
+If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [**Matching aspect ratios**](../customizing-your-experience/matching-aspect-ratios.md)&#x20;
 
 ## Moving the pointer vs clicking
 
@@ -104,13 +98,13 @@ There are no drawing tablets that are wireless only.
 Lots of them would work. The easy choices are:
 
 * One for Wacom Small CTL-472
-* One for Wacom Medium CTL-672
+* One for Wacom Medium CTL-672&#x20;
 * Wacom Intuos Small CTL-4100
 * Wacom Intuos Medium CTL-6100
 
 Generally, I would suggest a medium size, though small can work also.
 
-## Videos
+## Resources
 
 * [PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse!](https://www.youtube.com/watch?v=9yTA1P8SrqI) Feb 24, 2020
-
+* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/) (2023/05/03)&#x20;
