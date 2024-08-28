@@ -10,6 +10,7 @@
 
 ## 2024 M4 Apple iPad Pro
 
+* [Teoh on Tech - M4 iPad Pro: 90 days later (update review)](https://youtu.be/mqQBV1jFocM) 2024/08/23
 * [Teoh on Tech - 11 vs 13-inch iPad Pro (or Air): Which size to get for drawing?](https://www.youtube.com/watch?v=zxDyqHnEXA8) 2024/06/04&#x20;
 * [Brad Colbow - 2024 iPad Pro Review (Snyder Cut)](https://www.youtube.com/watch?v=gL\_lRJqUfV4) 2024/05/31
 * [Adam Duff - M4 iPad Pro & Apple Pencil Pro - PRO ARTIST Review (First Impressions)](https://www.youtube.com/watch?v=lIb6s8zEBLE) 2024/05/20
