@@ -6,8 +6,8 @@ For more general information about using iPads, go here: [**7P notes: Apple iPad
 
 In this document we'll compare ipads to the two kinds of drawing tablets:
 
-* pen displays
-* pen tablets
+* pen displays (drawing tablets that have a screen)
+* pen tablets (drawing tablets that do NOT have a screen)
 
 Because pen displays have an embedded screen, they are most similar to iPads unlike pen tablets which do not have a embedded screen.
 
@@ -71,6 +71,12 @@ Don't lose your pen! They aren't cheap to replace and some cost significantly mo
 * XP Pen X3 Elite pen: $30
 * XP Pen X3 Pro pen: $40
 * Samsung S Pen for Galaxy Tab: $50&#x20;
+
+## Standalone use&#x20;
+
+* iPads are standalone devices. You can use them without being attached (wired or wireless) to a computer.
+* Pen tablets - Cannot be used standalone. They require being connected to a computer. Some require a wired connection. Some require a wireless connection.
+* Pen displays - Cannot be used standalone. All pen displays require a wired connection to a computer.
 
 ## Notes
 
