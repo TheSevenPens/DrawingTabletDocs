@@ -6,7 +6,7 @@ These RAM recommendations are based my experience doing on doing 2D illustration
 
 
 
-<table><thead><tr><th width="115">RAM</th><th>MY TAKE</th></tr></thead><tbody><tr><td>4GB </td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB </td><td>OK-idh</td></tr><tr><td>16GB</td><td>GOOD - the average person will be fine here</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
+<table><thead><tr><th width="115">RAM</th><th>MY TAKE</th></tr></thead><tbody><tr><td>4GB </td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB </td><td>OK-ish. TOLERABLE for basic 2D art.</td></tr><tr><td>16GB</td><td>GOOD - the average person will be fine here</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
 
 ## Pen display connection
 

@@ -193,6 +193,8 @@
       * [Configure Windows Ink for apps](guides/windows/windows-ink/configure-windows-ink-for-apps.md)
       * [Configuring Photoshop to NOT use Windows Ink](guides/windows/windows-ink/configuring-photoshop-to-not-use-windows-ink.md)
       * [Configure Windows Ink in the tablet driver](guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md)
+  * [Mini-PCs for digital art](guides/mini-pcs-for-digital-art/README.md)
+    * [7P notes: Minisforum Neptune HX99G](guides/mini-pcs-for-digital-art/7p-notes-minisforum-neptune-hx99g.md)
   * [Laptops for digital art](guides/laptops-for-digital-art.md)
 * [Applications](applications/README.md)
   * [List of apps](applications/list-of-apps.md)
