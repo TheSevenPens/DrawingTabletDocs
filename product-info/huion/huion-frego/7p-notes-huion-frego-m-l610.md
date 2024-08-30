@@ -32,18 +32,28 @@ Looks very simple and nice. Is very good, but I wouldn't say it has a premium lo
 ## Pens
 
 * Comes with the Huion PW550S pen.
+* Default nib: felt
 * More here: [Huion PW550 and PW550S pens](../huion-pen-models/huion-pw550-and-pw550s-pens.md)
+
+## Other compatible pens
+
+* You can use the Huion PW517 pen with this tablet. But it is not as good as the PW550 and PW550S.
 
 ## Pen pressure
 
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
 * **Nib** - The included PW600S had a felt nib installed by default.
+* **Pressure response** - trypical - bows up a bit.&#x20;
 * More here: [Huion PW550 and PW550S pens](../huion-pen-models/huion-pw550-and-pw550s-pens.md)
 
 ## Pointer lag
 
 VERY LOW - Typical for a pen tablet. Just a tiny tiny bit more lag than a Wacom.
+
+## Touch
+
+NONE. This tablet does NOT support touch.
 
 ## Auxiliary inputs&#x20;
 
@@ -84,6 +94,20 @@ EXCELLENT - almost no perceptible diagonal wobble
 <figure><img src="../../../.gitbook/assets/Diag Wobble Huion Frego M (L610) 2024_08_30.png" alt=""><figcaption></figcaption></figure>
 
 
+
+## Recommended pressure curve
+
+As is typical for EMR pens, I recommend a pressure surve to reduce the sensitivity at the low end of the physical pressure range.
+
+## Pressure transition (low-high-low)
+
+VERY GOOD. test with a 300px brush. Pressure smoothly transitions. A little bit of pressure wobble at the extreme low end of pressure - but that is normal even for the best pens.
+
+
+
+## Pressure scan rate testing
+
+EXCELLENT. I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
 
 ## Other features
 
