@@ -5,6 +5,7 @@
 * Released: 2024/05/08
 * Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)&#x20;
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-xencelabs-lph1612u-a.md)   &#x20;
+* [Grant Abbitt - Review of Xencelabs Pen DIsplay 16](https://www.youtube.com/watch?v=zGkTjf5HoB4) 2024/08/07&#x20;
 * [AppleInsider review of Xencelabs Pen Display 16](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece) 2024/05/28
 * [The Honest Laborers Review - Xencelabs 16-inch 4K Pen Display Hands-On and Test](https://www.youtube.com/watch?v=FCuVrJMncKI) - 2024/05/23
 
