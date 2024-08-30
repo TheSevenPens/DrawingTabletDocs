@@ -1,8 +1,12 @@
-# Huion PW550 and PW500S pens
+# Huion PW550 and PW550S pens
 
 
 
-## Testing notes
+## Buttons
+
+These pens have two buttons which is typical for an EMR pen.
+
+## Pressure testing notes
 
 I tested four PW550 series pens on 2024/08/30
 
