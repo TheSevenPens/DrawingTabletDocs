@@ -43,7 +43,7 @@ Looks very simple and nice. Is very good, but I wouldn't say it has a premium lo
 
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
-* **Nib** - The included PW600S had a felt nib installed by default.
+* **Nib** - The included PW55S had a felt nib installed by default.
 * **Pressure response** - trypical - bows up a bit.&#x20;
 * More here: [Huion PW550 and PW550S pens](../huion-pen-models/huion-pw550-and-pw550s-pens.md)
 
@@ -67,11 +67,11 @@ No. The surface is not replaceable.
 
 Very textured surface. Combined with the felt nib, it has a lot of texture. Even with the plastic nib the texture was strongly present.
 
-In comparison the Huion Frego, is one of the most textured pen tablets I've encountered. I felt it had more surface texture than a Wacom Intuos Pro (PTH-x60 series).
+**In comparison**, the Huion Frego is one of the most textured pen tablets I've encountered - this means it has a lot of friction on the surface. It fells like it has even more texture than a Wacom Intuos Pro (PTH-x60 series) which is widely known as having a heavily textured surface.
 
-The moving the pen across the surface also produces a clearly audible scratching sound. You may or may not like that. I prefer my tablets essentially silent.
+**Texture sound** - Moving the pen (with the felt nib installed) across the surface also produces a clearly audible scratching sound. You may or may not like that. I prefer my tablets essentially silent.
 
-Longevity - my experience with the texture on the Wacom Intuos Pro is that (1) the texture can really eat through nibs if you are drawing on them in certain ways. (2) the texture will wear down over time leaving "glossy" areas on the tablet which still work perfectly but have lost their texture. Only time will tell if the Frego will exhibit the same behaviors.
+**Texture longevity** - my experience with the texture on the Wacom Intuos Pro is that (1) the texture can really eat through nibs if you are drawing on them in certain ways. (2) the texture will wear down over time leaving "glossy" areas on the tablet which still work perfectly but have lost their texture. Only time will tell if the Frego will exhibit the same behaviors.
 
 ## Cables and connections
 
