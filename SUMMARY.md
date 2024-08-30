@@ -160,6 +160,7 @@
   * [Ergonomics](guides/ergonomics/README.md)
     * [Body posture when using drawing tablets](guides/ergonomics/body-posture-when-using-drawing-tablets.md)
     * [Handedness of drawing tablets](guides/ergonomics/handedness-of-drawing-tablets.md)
+    * [Using a drawing tablet in portrait mode](guides/ergonomics/using-a-drawing-tablet-in-portrait-mode.md)
     * [Rotating a drawing tablet](guides/ergonomics/rotating-a-drawing-tablet.md)
     * [Using a drawing tablet on your lap](guides/ergonomics/using-a-drawing-tablet-on-your-lap.md)
     * [Noise](guides/ergonomics/noise.md)
