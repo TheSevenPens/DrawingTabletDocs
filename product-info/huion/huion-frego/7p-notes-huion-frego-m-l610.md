@@ -77,7 +77,11 @@ Longevity - my experience with the texture on the Wacom Intuos Pro is that (1) t
 
 ## Diagonal wobble
 
-TBD - Not tested yet
+EXCELLENT - almost no perceptible diagonal wobble
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Frego M (L610) 2024_08_30.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Other features
 
