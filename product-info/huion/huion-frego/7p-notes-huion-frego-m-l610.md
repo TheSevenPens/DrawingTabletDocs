@@ -91,11 +91,9 @@ Very textured surface. Combined with the felt nib, it has a lot of texture. Even
 
 ## Diagonal wobble
 
-EXCELLENT - almost no perceptible diagonal wobble
+EXCELLENT - almost no perceptible diagonal wobble.
 
 <figure><img src="../../../.gitbook/assets/Diag Wobble Huion Frego M (L610) 2024_08_30.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Recommended pressure curve
 
