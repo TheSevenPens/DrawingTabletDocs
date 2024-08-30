@@ -4,7 +4,11 @@
 
 <mark style="color:red;">**THIS tablet is still under review.**</mark>
 
-A good basic tablet. The PW550S had a very good pressure range.
+I like this tablet a lot.
+
+* A good simple tablet. Nothing fance.
+* Good for beginners.&#x20;
+* The pen it came with had a wide pressure range. This is good. IAF typical of Huion pens.
 
 ## Basics
 
@@ -79,10 +83,6 @@ Very textured surface. Combined with the felt nib, it has a lot of texture. Even
 
 **Ports** - a single USB-C
 
-## Industrial design
-
-**Color** - matte black everywhere
-
 ## Ergonomics
 
 * Bottom edge slops down a bit to make it more comfortable for your arm
@@ -103,11 +103,11 @@ As is typical for EMR pens, I recommend a pressure surve to reduce the sensitivi
 
 VERY GOOD. test with a 300px brush. Pressure smoothly transitions. A little bit of pressure wobble at the extreme low end of pressure - but that is normal even for the best pens.
 
-
-
 ## Pressure scan rate testing
 
-EXCELLENT. I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
+EXCELLENT.&#x20;
+
+* I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
 
 ## Other features
 
