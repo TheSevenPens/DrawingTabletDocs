@@ -33,7 +33,7 @@ For a pen display, you should either
 
 * [Surface Pro 8, 9, and 10](../product-info/microsoft/microsoft-surface-pro-9.md) (**but NOT 11** - see the note on Windows on ARM Below)&#x20;
 * Surface Laptop Studio&#x20;
-* Surface Laptop 5 & 6 (**not NOT 7** - see the note on Windows on ARM Below)&#x20;
+* Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM Below)&#x20;
 * Samsung Galaxy Book3 Pro 360&#x20;
 * Samsung Galaxy Book4 Pro 360 &#x20;
 
