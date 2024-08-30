@@ -8,7 +8,9 @@ A good basic tablet. The PW550S had a very good pressure range.
 
 ## Basics
 
-Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html)&#x20;
+* Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html)
+* Release year: 2024&#x20;
+* User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf)&#x20;
 
 ## Size <a href="#size" id="size"></a>
 
