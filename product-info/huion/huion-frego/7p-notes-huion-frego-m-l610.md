@@ -67,7 +67,7 @@ No. The surface is not replaceable.
 
 Very textured surface. Combined with the felt nib, it has a lot of texture. Even with the plastic nib the texture was strongly present.
 
-**In comparison**, the Huion Frego is one of the most textured pen tablets I've encountered - this means it has a lot of friction on the surface. It fells like it has even more texture than a Wacom Intuos Pro (PTH-x60 series) which is widely known as having a heavily textured surface.
+**In comparison**, the Huion Frego is one of the most textured pen tablets I've encountered. It also has a lot of friction on the surface. It fells like it has even more texture than a Wacom Intuos Pro (PTH-x60 series) which is widely known as having a heavily textured surface.
 
 **Texture sound** - Moving the pen (with the felt nib installed) across the surface also produces a clearly audible scratching sound. You may or may not like that. I prefer my tablets essentially silent.
 
