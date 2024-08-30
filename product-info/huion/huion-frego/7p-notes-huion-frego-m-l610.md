@@ -20,6 +20,8 @@ I like this tablet a lot.
 
 This is a medium-sized tablet - with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
 
+In terms of paper sizes this is about the size of an A4 sheet of paper.
+
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
 Looks very simple and nice. Is very good, but I wouldn't say it has a premium look.&#x20;
@@ -48,7 +50,7 @@ Looks very simple and nice. Is very good, but I wouldn't say it has a premium lo
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
 * **Nib** - The included PW55S had a felt nib installed by default.
-* **Pressure response** - trypical - bows up a bit.&#x20;
+* **Pressure response** - typical - bows up a bit.&#x20;
 * More here: [Huion PW550 and PW550S pens](../huion-pen-models/huion-pw550-and-pw550s-pens.md)
 
 ## Pointer lag
