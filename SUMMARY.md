@@ -372,7 +372,7 @@
   * [Clip Studio Paint](application-info/clip-studio-paint/README.md)
     * [7P notes: Clip Studio Paint](application-info/clip-studio-paint/7p-notes-clip-studio-paint.md)
   * [Concepts app](application-info/concepts-app.md)
-  * [Fireaplaca](application-info/fireaplaca.md)
+  * [FireAlpaca](application-info/fireaplaca.md)
   * [Freeform](application-info/freeform.md)
   * [Fresco](application-info/fresco.md)
   * [HiPaint](application-info/hipaint.md)
