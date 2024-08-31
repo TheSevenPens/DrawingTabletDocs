@@ -12,6 +12,13 @@
   * FireAlpaca: free
   * FireAlpaca SE: \~$40 on Steam
 
+## Community
+
+* reddit [https://www.reddit.com/r/firealpaca/](https://www.reddit.com/r/firealpaca/)&#x20;
+* twitter:
+  * [https://twitter.com/firealpaca\_en](https://twitter.com/firealpaca\_en)
+  * [https://twitter.com/firealpaca](https://twitter.com/firealpaca)&#x20;
+
 ## Resources
 
 * [Ginchy - FireAlpaca Beginner Tutorial](https://www.youtube.com/watch?v=AIqWMv5FReY) 2021/07/06
