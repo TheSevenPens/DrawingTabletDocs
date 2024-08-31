@@ -113,8 +113,15 @@ EXCELLENT.&#x20;
 
 **Pen holder** - a cloth loop affixed on the top edge serves as a convenient pen holder.
 
+## Photos
+
+d ![](<../../../.gitbook/assets/20240831\_125710 (Large) (1).jpg>)  ![](<../../../.gitbook/assets/20240831\_125734 (Large) (3).jpg>)
 
 
 
+![](<../../../.gitbook/assets/20240831\_130151 (Large).jpg>)   ![](<../../../.gitbook/assets/20240831\_130158 (Large) (1).jpg>)
 
-&#x20; &#x20;
+![](<../../../.gitbook/assets/20240831\_130210 (Large).jpg>)  ![](<../../../.gitbook/assets/20240831\_130246 (Large).jpg>)
+
+<figure><img src="../../../.gitbook/assets/20240831_125840 (Large).jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
+

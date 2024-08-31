@@ -2,6 +2,10 @@
 
 
 
+<figure><img src="../../../.gitbook/assets/20240831_125855 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Buttons
 
 These pens have two buttons which is typical for an EMR pen.
@@ -33,3 +37,16 @@ As is typical for EMR pens, these pens have a response that bows up. All 4 hit 5
 So as I often recommend, you should consider a pressure curve to linearize this response so that you have more pressure control at the lower end of the physical pressure range.
 
 <figure><img src="../../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
+
+## Photos
+
+&#x20;![](<../../../.gitbook/assets/20240831\_125920 (Large) (1).jpg>)
+
+
+
+&#x20;![](<../../../.gitbook/assets/20240831\_125946 (Large).jpg>)
+
+
+
+![](<../../../.gitbook/assets/20240831\_125958 (Large).jpg>)
+
