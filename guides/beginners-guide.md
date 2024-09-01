@@ -5,16 +5,28 @@
 If you are new to drawing tablets, after reading this guide you'll understand how these devices work and be prepared to use one or to purchase one.&#x20;
 
 {% hint style="info" %}
-If you are interested in buying a tablet, read this beginner's guide first, then take a look at my guide to [**Buying a drawing tablet**](../buying-a-drawing-tablet/). It has links to  my [**recommendations**](../recommendations/)**.** If you want to get to beginner recommendations go here: If you are beginner then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
+**Buying a tablet?** Read this beginner's guide first. Then look at the detailed [**buying guide**](../buying-a-drawing-tablet/). It has links to my [**recommendations**](../recommendations/)**.** If are a beginner, and want to get a very quick recommendation, go here: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
 {% endhint %}
 
 ## Basics
 
-A drawing tablet is a device that lets you use a **digital pen** (also called a **stylus**) as an input device. As you move the pen on the tablet, your operating system pointer around (a.k.a. your mouse cursor) will match that same motion. This demonstrates the first key feature of a drawing tablet - the **accurate tracking of the pen's position**.&#x20;
+**Position tracking**
 
-Note that the pens position can be tracked when the pen is making contact with the tablet and even if the pen is not touching the tablet - to a distance of about 10 mm away from the tablet. This ability to track the pen's position at a distance is called **pen hover**.&#x20;
+A drawing tablet lets you use a **digital pen** (also called a **stylus**) as an input device. As you move the pen on the tablet, your operating system pointer around (a.k.a. your mouse cursor) mirrors the motion of the pen. This demonstrates the first key feature of a drawing tablet - the **accurate tracking of the pen's position**.&#x20;
 
-A drawing tablet knows how hard you are pressing down on with the tip of the pen. This is called **pressure sensitivity**. Pressure is very important for creative applications. For example, in painting application it can enlarge the size of your brush strokes based on the pressure. So small amounts of pressure result in thin strokes and pressing down harder will make the strokes thicker. &#x20;
+**Clicking**
+
+Every time you touch the pen to the tablet, your computer will interpret the contact as being the equivalent of pressing a mouse button. If you tap, it is interpreted as a mouse click. If you press down and move the pen it is just like you are holding down a mouse button and moving the mouse.
+
+**Hover**
+
+The tablet tracks the pens position up to about 10mm from the surface of the tablet and will move the pointer even if the pen is not touching the tablet. This is called **hover** and is very important because it lets you reposition the pointer without drawing or clicking.&#x20;
+
+**Pressure sensitivity**
+
+A drawing tablet knows how hard you are pressing down on with the tip of the pen. This is called **pressure sensitivity**. Pressure is very important for creative applications. For example, a painting application a can change the size of your brush strokes based on the pressure. So small amounts of pressure result in thin strokes and pressing down harder will make the strokes thicker. &#x20;
+
+**Pen tilt**
 
 Most drawing tablets also detect how the pen is tilted relative to the surface of the tablet. This **pen tilt** detection is also useful for creative applications. For example, it can also be used to alter the size of stroke such that increased tilt results in an thicker stroke.
 
