@@ -31,6 +31,7 @@
   * [David Revoy - Tutorial: an illustration from A to Z with Krita Aug 15](https://www.youtube.com/watch?v=uYdEkOyFUn8), 2022
   * [MossCharmly - Krita Tools Explained (Beginner Tutorial)](https://www.youtube.com/watch?v=W9Gc7Mv0LYA) Nov 11, 2023
   * [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq\_xOG)&#x20;
+  * [MossCharmly - Krita Line Art for beginners part 1 (Perfect Pen)](https://www.youtube.com/watch?v=fzgnQ2spLQk) 2024/08/31&#x20;
 * **Customizing**
   * [Moss Charmly - Making Krita easy Part 1 (Customizing Your Workspace)](https://youtu.be/24w7f\_yX3x8)&#x20;
   * [Krita - Mastering Making Brushes playlist](https://www.youtube.com/playlist?list=PLNjBqr\_ciXycZ5DgqJEn7g6K\_cBKDg4Vw)&#x20;
