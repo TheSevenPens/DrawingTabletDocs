@@ -30,7 +30,7 @@ Here is another stand from Huion. This was works fine, though I find its level a
 
 
 
-These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable. For example, I use the **Huion ST100A** with my Wacom Cintiq Pro 27.
+These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable.
 
 Some people have had success with the Ergotron Neo-Flex Stand. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/)&#x20;
 
@@ -38,9 +38,8 @@ It's important to match the stand with the height of the pen display. A stand de
 
 ## Stands I use
 
-This is the stand I use: VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)&#x20;
-
-[**my notes on this stand**](7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
+* I use the Huion ST100A stand with my Huion Kamvas Pro 90
+* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
 
 ## Unattached folding stands
 
