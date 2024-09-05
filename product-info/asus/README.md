@@ -2,6 +2,10 @@
 
 ## Laptops
 
+### ASUS ProArt  PZ13
+
+* [Brad Colbow review of ASUS ProArt PZ13](https://www.youtube.com/watch?v=KICyQXPlReg) 2024/09/05&#x20;
+
 ### ASUS ProArt PX13&#x20;
 
 * [MobileTechReview - Asus ProArt PX13 Review](https://www.youtube.com/watch?v=kcGxlhS-YZo) 2024/08/12&#x20;
@@ -16,5 +20,6 @@
 ### ASUS ProArt Pen Display (PA169CDV)
 
 * product page: [https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa169cdv/](https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa169cdv/)&#x20;
-* [Brad Colbow review of ASUS ProArt Pen Display ](https://www.youtube.com/watch?v=867nj5QtxlQ)2023/11/30
-* [Teoh on Tech review of ASUS ProArt Pen Display ](https://www.youtube.com/watch?v=jglWaHy1c8o)2023/10/02
+* [Brad Colbow review of ASUS ProArt Pen Display ](https://www.youtube.com/watch?v=867nj5QtxlQ)(PA169CDV) 2023/11/30
+* [Teoh on Tech review of ASUS ProArt Pen Display ](https://www.youtube.com/watch?v=jglWaHy1c8o)(PA169CDV) 2023/10/02
+* [Ergojosh review of ASUS ProArt Pen Display](https://www.youtube.com/watch?v=94ruJs7gtzU) (PA169CDV) 20243/01/25
