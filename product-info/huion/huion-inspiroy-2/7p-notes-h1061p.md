@@ -8,7 +8,9 @@ I only tried this tablet for about a week. In most ways it is a good tablet with
 
 HOWEVER, some units (not all) display some bad pressure handling.
 
-## **Pen pressure problems**
+## **Pen pressure problem**
+
+See this thread: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/)
 
 **Frequency**
 
