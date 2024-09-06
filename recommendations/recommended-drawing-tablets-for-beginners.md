@@ -36,23 +36,18 @@ More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md))
 * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark>&#x20;
 * Wacom Intuos Medium (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark>
-* XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark>
-* XP-Pen Deco MW&#x20;
-* XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark>
-* XP-Pen Deco LW (IT1060B) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md))
-* If you want better pressure handling:
-  * XP-Pen Deco Pro LW GEN2 (MT1172B)&#x20;
+* XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco MW&#x20;
+* XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco LW (IT1060B) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md))
+* Huion Inspiroy Frego L (L610) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md)) **STILL UNDER EVALUATION**
 
 ## Pen displays
 
 These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
 * Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md))
+  * The new Kamvas 13 GEN3 (GS1333) will be an even better choice.
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md))
-* If you want a larger size and better pressure handling
-  * XP-Pen Artist Pro 14 GEN2 (MD140FH)
-  * XP-Pen Artist Pro 16 GEN2 (MD160QH) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md160qh.md))
 
 ## Standalone tablets
 
