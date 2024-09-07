@@ -19,10 +19,10 @@ STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber
 
 <figure><img src="../../.gitbook/assets/OXO Good Grips Microfiber Hand Duster (2).jpg" alt="" width="375"><figcaption><p><strong>OXO Good Grips Microfiber Hand Duster</strong></p></figcaption></figure>
 
-STEP 2 - I gently wipe down the tablet with a cloth or towel. &#x20;
+STEP 2 - I gently wipe down the tablet with a damp cloth or towel&#x20;
 
-* OPTION 1: If the tablet is a little greasy I may put a bit of soapy water on the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You shouldn't have any water drops coming off the cloth.
-* OPTION 2: Since September 2024, I've switched from soapy water to using WOOSH!. It works very well in my experience. I spray the WOOSH into the microfiber towel that comes with the WOOSH bottle - again I want it damp and not wet. Here's a good video showing WOOSH in use: [https://www.youtube.com/watch?v=6zNUKkehnpc](https://www.youtube.com/watch?v=6zNUKkehnpc) &#x20;
+* OPTION 1: If the tablet is a little greasy I may put a bit of soapy water on the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You shouldn't have any water drops coming off the cloth.&#x20;
+* OPTION 2: Since September 2024, for pen displays I've switched from soapy water to using WOOSH!. It works very well in my experience. I spray the WOOSH into the microfiber towel that comes with the WOOSH bottle - again I want it damp and not wet. This also works on pen tablets, but the effects aren't especially dramatic. Here's a good video showing WOOSH in use: [https://www.youtube.com/watch?v=6zNUKkehnpc](https://www.youtube.com/watch?v=6zNUKkehnpc) &#x20;
 *
 
     <figure><img src="../../.gitbook/assets/20240903_232411 (Large).jpg" alt="" width="375"><figcaption><p>WOOSH! bottle with its microfiber towel</p></figcaption></figure>
