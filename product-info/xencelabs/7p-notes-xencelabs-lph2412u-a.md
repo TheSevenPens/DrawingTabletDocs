@@ -81,6 +81,18 @@ Comparisons:
 * Wacom Cintiq Pro has a bit less lag.&#x20;
 * Comparable to but the Huion Kamvas 24 Pro 4K (Which is Typical) - maybe just a little more than the Huion.&#x20;
 
+## **Screen sharpness**
+
+The anti-glare etched glass adds a noticable amount softness to the pixels.&#x20;
+
+Below is the comparison between the Xencelabs Pen Display 24 and the Cintiq Pro 22.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Although taking these kinds of photos can be tricky, the picture closely matches what my eyes perceive. You can see with the Cintiq Pro 22 that the pixels are crisp and well delineated.&#x20;
+
+This amount of softness is similar to what I saw with the Huion Kamvas Pro 19 - maybe just a little more.&#x20;
+
 ## **Surface  texture**
 
 Rating: VERY GOOD. It feels really nice.
@@ -129,13 +141,13 @@ In comparison the wobble for horizontal and vertical lines is:
 
 Kamvas Pro 19
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 Cintiq pro 27
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
 
 </div>
 
@@ -186,7 +198,7 @@ Xencelabs is at least aware of the diagonal wobble.
 
 In this review post on reddit (posted July 12, 2023) there are some quoted responses from  Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It's unclear if they are aware of the more general wobble I encountered.
 
