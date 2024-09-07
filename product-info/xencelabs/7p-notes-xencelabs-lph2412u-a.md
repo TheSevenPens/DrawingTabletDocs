@@ -2,7 +2,7 @@
 
 ## Overview
 
-<mark style="color:red;">**This evaluation is still ongoing and will be finalized by 2024/08/09.**</mark>
+<mark style="color:red;">**This evaluation is still ongoing and will be finalized by 2024/09/09.**</mark>
 
 This overall is a very good tablet. It design and demonstrates a lot of thoughtfulness to the user that shows up in the industrial design, driver, and inclusion of accessories.
 
