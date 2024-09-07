@@ -87,7 +87,7 @@ The anti-glare etched glass adds a noticable amount softness to the pixels.&#x20
 
 Below is the comparison between the Xencelabs Pen Display 24 and the Cintiq Pro 22.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20240907_015550.jpg" alt=""><figcaption></figcaption></figure>
 
 Although taking these kinds of photos can be tricky, the picture closely matches what my eyes perceive. You can see with the Cintiq Pro 22 that the pixels are crisp and well delineated.&#x20;
 
