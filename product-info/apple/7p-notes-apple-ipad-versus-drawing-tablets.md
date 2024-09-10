@@ -13,14 +13,16 @@ Because pen displays have an embedded screen, they are most similar to iPads unl
 
 ## Apps
 
-* Some popular drawing apps like are available on iOS, MacOS, Windows.
-  * Popular examples: Clip Studio Paint&#x20;
-* However, some PC applications are either not available on the iPad or not available as the full-featured versions
+* Some popular drawing apps like are available on iOS and desktop OS's (MacOS, Windows)
+  * Popular examples:&#x20;
+    * Clip Studio Paint: Windows, MacOS, iOS&#x20;
+    * Infinite Painter: Windows, iOS
+* Some applications are either not available on the iPad at all
+  * Example: Rebelle, Firealpaca
+* Some applications only have a "lite" version on iPad
   * Example: Photoshop only has a "lite" version available on iOS
-* However, some PC applications are not available on the iPad at all
-  * Example: Krita, Rebelle, Infinite Painter, Firealpaca
 * Some applications are of course only available on the iPad.
-  * Procreate is a great example&#x20;
+  * Example: Procreate&#x20;
 
 ## Pen buttons
 
