@@ -14,7 +14,11 @@
 
 * [PiXimperfect - Photoshop for Complete Beginners](https://www.youtube.com/watch?v=xTzvQkOll2U\&list=PLLlSBGLVsEPIFGSGw2zJ2K43V5vxMMMTE)&#x20;
 
-## Videos
+## Tips & Tricks
+
+* [PiXimperfect - Photoshop Runnign Slow? 10 Quick Fixes!](https://www.youtube.com/watch?v=pYSk2qo3LNE) 2023/09/03&#x20;
+
+## Using Photoshop with a drawing tablet
 
 * [PixImperfect - How to Set Up a Wacom Tablet for Retouching](https://www.youtube.com/watch?v=5e4Qok37Qi4) Jan 17, 2019
 * [PHLEARN - How to Set Up and Use a Wacom Tablet](https://www.youtube.com/watch?v=7BMtSqETvjg) Aug 30, 2018
