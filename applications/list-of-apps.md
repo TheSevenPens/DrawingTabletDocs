@@ -41,8 +41,6 @@
 * [**Inkscape**](../application-info/inkscape.md) (Windows, MacOS, Linux) <mark style="background-color:purple;">**FREE**</mark>
 * **VectorInk** (Online, Android) ([Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink))
 
-
-
 ### 3D&#x20;
 
 * **Autodesk Maya**&#x20;
@@ -50,6 +48,7 @@
 * **Spline** - [https://spline.design/](https://spline.design/) - (web)
 * [**https://voxelcanvas.me/**](https://voxelcanvas.me/) - (web)
 * **nomadsculpt** - [https://nomadsculpt.com/](https://nomadsculpt.com/)  (iOS, Android)
+* ZBrush (Windows, MacOS, iPadOS)
 
 ### Photo editing
 
