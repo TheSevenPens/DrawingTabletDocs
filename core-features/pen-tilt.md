@@ -6,19 +6,9 @@ Almost all drawing tablets can detect the tilt of the pen. The support tilt for 
 
 <figure><img src="../.gitbook/assets/Slide_20240506_184008 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-The tilt is measured in both the x and y directions
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (72).png" alt="" width="188"><figcaption><p>pen not perfectly perpendicular to tablet as indicated by shadow. Diagram shows x&#x26;y components of tilt.</p></figcaption></figure>
-
-</div>
-
 ## How tilt is used in drawing applications
 
-Think about how you use a pencil - when you want a fine line you keep the pencil more penpendicular. However, when you want a wider line - maybe you are shading in an area - you tilt the pencil.
+Think about how you use a pencil - when you want a fine line you keep the pencil more perpendicular. However, when you want a wider line - maybe you are shading in an area - you tilt the pencil.
 
 Many drawing applications have digital brushes that mimic that same behavior.
 
@@ -74,7 +64,7 @@ You don't need to know these details, but if you are curious how an EMR tablet a
 
 To calculate the location of the pen, the tablet must take into account how much the pen is tilted. This process is called **tilt compensation**. Remember: no tablet has perfect tilt compensation and at extreme title angles you might see some deviation - This is normal.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Disabling tilt
 

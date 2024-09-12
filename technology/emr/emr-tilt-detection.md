@@ -20,14 +20,21 @@ For example, in the diagram below, the pen is pointing to the lower left - meani
 
 ## **How tilt is reported to the computer**
 
-* The tablet reported tilt as as an X tilt and a Y tilt number
-* Below is what it looks like in the Diagnostics UI of the Wacom Driver for the Wacom Intuos Pro Large PTH-860
-* ![](<../../.gitbook/assets/Screenshot 2022-11-25 193023-annotated.png>)
-* The X tilt reported by Wacom ranges from -64 to 63
-  * a negative X value means that the pen is "falling" to the left of the tablet
-  * a positive X value means the pen is "falling" to the right of the tablet
-* The Y tilt reported by Wacom ranges from -64 to 63
-  * a negative Y value means that the pen is "falling" to the top of the tablet
-  * a positive Y value means the pen is "falling" to the bottom of the tablet
-* If the X & Y are both zero, then the pen is perfectly perpendicular to the tablet
+The tablet measures the tilt in both the x and y directions
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="375"><figcaption><p>pen not perfectly perpendicular to tablet as indicated by shadow. Diagram shows x &#x26; y components of tilt.</p></figcaption></figure>
+
+</div>
+
+Measuring as x tilt and y tilt is also equivalent to measuring as azimuth and altitude. Think of azimuth as an angle from the tablet measured from "north" and the altitude as how high the far end of the pen is from the tablet surface.
+
+In the example below the orange lines indicator the azimuth. And the purple line indicates the altitude (also known as elevation).
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
 
