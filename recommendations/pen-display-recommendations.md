@@ -12,8 +12,8 @@ Please keep in mind that pen displays are not inherently better than pen tablets
 
 ## $200 to $300 &#x20;
 
-* SMALL [**Huion Kamvas 13 (GS1331)**](../product-info/huion/huion-kamvas/) $240
-  * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
+* SMALL Huion Kamvas 13 GEN3 (GS1333) $250
+  * This is an upgrade over the older [**Huion Kamvas 13 (GS1331)**](../product-info/huion/huion-kamvas/) $240 [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
 * SMALL [**XP-Pen Artist 12 GEN2 (CD120FH )**](../product-info/xp-pen/xp-pen-artist-gen2/)
 * SMALL [**XP-Pen Artist 13 GEN2 (CD130FH)**](../product-info/xp-pen/xp-pen-artist-gen2/)&#x20;
 
