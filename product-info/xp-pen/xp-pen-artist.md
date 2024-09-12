@@ -1,5 +1,12 @@
 # XP-Pen Artist
 
+## Also see&#x20;
+
+These more recent models:
+
+* [XP-Pen Artist GEN2](xp-pen-artist-gen2/)
+* [XP-Pen Artist Pro GEN2](xp-pen-artist-pro-gen2/)
+
 ## XP-Pen Artist 12 GEN1
 
 * [https://www.xp-pen.com/store/buy/artist-12.html](https://www.xp-pen.com/store/buy/artist-12.html) &#x20;
