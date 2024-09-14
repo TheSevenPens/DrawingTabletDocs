@@ -32,6 +32,7 @@
   * [MossCharmly - Krita Tools Explained (Beginner Tutorial)](https://www.youtube.com/watch?v=W9Gc7Mv0LYA) Nov 11, 2023
   * [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq\_xOG)&#x20;
   * [MossCharmly - Krita Line Art for beginners part 1 (Perfect Pen)](https://www.youtube.com/watch?v=fzgnQ2spLQk) 2024/08/31&#x20;
+  * [MossCharmly - Krita Line Art for Beginners part 2 (Line art Techniques)](https://www.youtube.com/watch?v=q7v6lgRRmn0) 2024/09/14
 * **Customizing**
   * [Moss Charmly - Making Krita easy Part 1 (Customizing Your Workspace)](https://youtu.be/24w7f\_yX3x8)&#x20;
   * [Krita - Mastering Making Brushes playlist](https://www.youtube.com/playlist?list=PLNjBqr\_ciXycZ5DgqJEn7g6K\_cBKDg4Vw)&#x20;
@@ -39,6 +40,7 @@
   * [Krita - 10 Tricks to paint faster & better with Krita](https://www.youtube.com/watch?v=-LYfXyrGNe4)&#x20;
   * [Noctualis - 8 TIPS for Faster Painting in KRITA!](https://www.youtube.com/watch?v=JmA0LdqVcBI)&#x20;
   * [MossCharmly - (How to) Plug-ins for Krita](https://www.youtube.com/watch?v=Oqv3rFuABYY) 2024/07/06
+  *
 * **Version updates**
   * [Brad Colbow - The Best Free Drawing App Just Got Better - Krita 5.0](https://youtu.be/jE02xGd2CCY) &#x20;
 * **Techniques**
