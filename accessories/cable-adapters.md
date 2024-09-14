@@ -14,7 +14,14 @@ This is the specific adapter I use: [https://www.amazon.com/gp/product/B0BDLB86R
 
 </div>
 
-This adapter is useful for working withL
+This adapter is useful for working with
 
 * Wacom Intuos (CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL)
 * One Wacom by Wacom (CTL-472, CTL-672)
+
+<figure><img src="../.gitbook/assets/Slide_20240914_063545.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Slide_20240914_063706.jpg" alt=""><figcaption></figcaption></figure>
+
