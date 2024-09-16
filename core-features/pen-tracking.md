@@ -2,16 +2,28 @@
 
 ## Introduction
 
-* **Pen tracking is** the tablet's interpretation of the physical position of pen. &#x20;
+**Pen tracking is** the tablet's interpretation of the physical position of pen. &#x20;
 
-## Overview
+**Pen tracking accuracy** is how close the the operating system cursor (mouse pointer) is to the physical tip of the pen.
 
-* **Pen tracking accuracy** = excluding parallax and lag, this is how close the the operating system cursor (mouse pointer) is to the physical tip of the pen.
-* Perfectly accurate pen tracking means the tablet things the pen is exactly where the physical tip is. Any deviation from that is an inaccuracy.
-* All tablets are slightly inaccurate. Naturally it is much more obvious when a pen display is inaccurate.
-*   #### Pen tracking calibration
+* Note that this accuracy must be measured without taking into account the effect of parallax
+* Also this must be measured when the pen is NOT moving - because pointer lag by definition causes a kind of dynamic inaccuracy&#x20;
 
-    If your pen's position is not matching where the pointer is, [**pen tracking calibration**](../guides/customizing-your-experience/calibrate-pen-position-on-a-pen-display.md) may help.
+### Real-world accuracy
+
+Perfectly accurate pen tracking means the tablet thinks the pen is exactly where the physical tip is. Any deviation from that is an inaccuracy.&#x20;
+
+However, all tablets are slightly inaccurate.&#x20;
+
+### Accuracy in pen tablets vs pen displays
+
+Pen tracking accuracy is a concept that applies to both pen tablets and pen displays.&#x20;
+
+However, in practice it is only really an issue with pen displays. This is because with pen displays you can see the inaccuracy - which shows up as the operating system pointer being offset from the tip of the pen.&#x20;
+
+## Pen tracking calibration
+
+If your pen's position is not matching where the pointer is in a major way especially if it is happening across most of the tablet, then [**pen tracking calibration**](../guides/customizing-your-experience/calibrate-pen-position-on-a-pen-display.md) may help.
 
 ## Video: Accuracy in pen displays
 
