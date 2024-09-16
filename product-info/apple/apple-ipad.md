@@ -26,6 +26,7 @@
 
 ## 2024 iPad Air
 
+* [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024/09/16&#x20;
 * [Brad Colbow 2024 iPad Air Review](https://www.youtube.com/watch?v=7l0eI3FQc60) 2024/05/21
 * [Teoh on Tech - M2 iPad Air 2024 (artist review): A more sensible choice, price-wise](https://www.youtube.com/watch?v=PzALk0SOTsw) 2024/07/04
 
