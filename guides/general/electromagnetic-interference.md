@@ -52,3 +52,8 @@ There are computer desks that are made of metal and deliberately magnetized. The
 
 * [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/) &#x20;
 
+## iPads and cases
+
+Some iPad Cases have magnets in them and they can interfere with the proper functioning of an Apple Pencil.&#x20;
+
+[/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some\_magnetic\_cases\_may\_interfere\_with\_the\_apple/) 2024/06/05
