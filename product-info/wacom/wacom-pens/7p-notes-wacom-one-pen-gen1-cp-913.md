@@ -30,6 +30,6 @@ Its max pressure is about \~350gf. This is good.
 
 
 
-## Next Generation Wacom One GEN2 pen (CP-913)
+## Next Generation Wacom One GEN2 pen (CP-923)
 
 This successor pen CP-923, is awful. See my notes: [7P notes: Wacom One Pen GEN2 (CP-923)](7p-notes-wacom-cp-923.md)&#x20;
