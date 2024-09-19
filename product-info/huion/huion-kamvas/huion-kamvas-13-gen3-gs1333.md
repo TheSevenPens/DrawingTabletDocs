@@ -79,7 +79,7 @@ GOOD. I drew 50 small quick strokes as fast as I could. No strokes were lost.&#x
 
 ## Diagonal wobble
 
-RATING: EXCELLENT. Very minimal diagonal wobble.
+RATING: GOOD. Low amount of diagonal wobble.
 
 <figure><img src="../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
 
