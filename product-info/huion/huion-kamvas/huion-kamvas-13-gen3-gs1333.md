@@ -77,6 +77,14 @@ GOOD. Provides good grip for the - even if the pen is using the plastic nib. Sur
 
 GOOD. I drew 50 small quick strokes as fast as I could. No strokes were lost.&#x20;
 
+## Diagonal wobble
+
+RATING: EXCELLENT. Very minimal diagonal wobble.
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Connections and cabling
 
 ### Ports
