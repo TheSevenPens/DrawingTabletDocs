@@ -46,11 +46,7 @@ At the low end of pressure, there is a difference with how pressure is handled b
 
 Now see what happened with the Samsung S Pen creator edition. This also happened with the other consumer pens such as the Wacom CP-913, Wacom CP-923 and the other Samsung S pens I tried.
 
-Notice the "pulsing"
-
-<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 100px brush.png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
-
-
+Notice the "pulsing".&#x20;
 
 <figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 300px brush (1).png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
