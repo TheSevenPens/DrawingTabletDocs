@@ -40,23 +40,27 @@ Also this variant pen does not come with any grips or any button strips.
 
 At the low end of pressure, there is a difference with how pressure is handled between the pro pens and other pens. With the pro pens - the lines are low pressure change in pressure simply due to my hand. And the strokes below are what I would expect. Don't let the appearance deceive you, they are good. The pen is responsing to my inputs as expected.
 
-<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with Wacom Pro Pen 3 100px brush.png" alt=""><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with Wacom Pro Pen 3 100px brush.png" alt="" width="375"><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 100px</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with Wacom Pro Pen 3 300px brush.png" alt=""><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 300px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with Wacom Pro Pen 3 300px brush.png" alt="" width="375"><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 300px</p></figcaption></figure>
 
 Now see what happened with the Samsung S Pen creator edition. This also happened with the other consumer pens such as the Wacom CP-913, Wacom CP-923 and the other Samsung S pens I tried.
 
 Notice the "pulsing"
 
-<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 100px brush.png" alt=""><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 100px brush.png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 300px brush (1).png" alt=""><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 300px brush (1).png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
 The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Movink 13 + Wacom CP-923 + Krtia brush at 200px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="287"><figcaption><p>Movink 13 + Wacom CP-923 + Krita brush at 200px</p></figcaption></figure>
+
+The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
 
 ## Core specs
 

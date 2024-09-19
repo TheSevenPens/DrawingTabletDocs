@@ -29,7 +29,7 @@ EXCELLENT. very little wobble. at all stroke speeds.
 
 These are 10cm lines - each drawn over 4 seconds. V
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Anti-glare sparkle <a href="#anti-glare-sparkle" id="anti-glare-sparkle"></a>
 
