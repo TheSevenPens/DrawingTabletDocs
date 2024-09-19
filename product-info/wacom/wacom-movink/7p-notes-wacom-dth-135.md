@@ -54,7 +54,9 @@ Notice the "pulsing"
 
 <figure><img src="../../../.gitbook/assets/pressure wobble movink 13 (DTC-135) with S Pen Creator 300px brush (1).png" alt=""><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
+The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Movink 13 + Wacom CP-923 + Krtia brush at 200px</p></figcaption></figure>
 
 ## Core specs
 

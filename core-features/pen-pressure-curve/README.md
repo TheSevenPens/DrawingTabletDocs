@@ -8,13 +8,13 @@ Before you read this section it would be good for you to read: pen pressure resp
 
 A pressure curve is essentially a little bit of math that transforms a pressure response to another pressure response. In more everyday terms a pressure curve creates a new pressure behavior for the pen.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Most often, we see the results of this transformation shown to us visually in driver or application UI.
 
 For example in the Wacom Tablet Properties app it looks like this:
 
-&#x20;![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+&#x20;![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 The X axis labelled as "Pen pressure" is the logical input pressure
 
