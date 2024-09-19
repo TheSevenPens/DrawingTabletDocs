@@ -9,6 +9,7 @@ At the OTD site: [**https://opentabletdriver.net/**](https://opentabletdriver.ne
 * A list of compatibles drawing tablets
 * Documentation
 * A link to the GitHub repo
+* A link to their Discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR)  &#x20;
 
 ## Why use OpenTabletDriver?
 
