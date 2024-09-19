@@ -5,11 +5,9 @@
 * [OpenTabletDriver - an introduction](./)
 * [Install OpenTabletDriver on Windows](opentabletdriver-windows.md)
 
-## Getting help with OTD
+## Use the OTD discord to get help
 
-### Use the OTD discord to get help
-
-* If you need help, join the OpenTabletDriver Discord server: [https://opentabletdriver.net/Discord](https://opentabletdriver.net/Discord)&#x20;
+* If you need help, join the OpenTabletDriver Discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR) &#x20;
 * **DO** ask questions in the `#support-windows` channel
 * **DO NOT** ask for support via DMs.
 
