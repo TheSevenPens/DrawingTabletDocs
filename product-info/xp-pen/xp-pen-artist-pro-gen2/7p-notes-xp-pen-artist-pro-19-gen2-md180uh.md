@@ -53,6 +53,23 @@ XP-Pen states:
 * Center:  ±0.4 mm&#x20;
 * Corner: ±0.8 mm&#x20;
 
+RATING: VERY GOOD.
+
+My experience matched the accuracy numbers XP-Pen provides.
+
+## Tilt compensation
+
+RATING: GOOD
+
+* At 45 degrees: Minor deflection of pointer - maybe 1mm&#x20;
+* At 60 degrees: Minor deflection of pointer - maybe 1mm
+
+## Pressure scan rate testing
+
+RATING: VERY GOOD
+
+Drawing 50 strokes as fast possible results in no lost strokes.
+
 ## Connections and cabling
 
 ### Ports
