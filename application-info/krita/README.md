@@ -40,8 +40,9 @@
   * [Krita - 10 Tricks to paint faster & better with Krita](https://www.youtube.com/watch?v=-LYfXyrGNe4)&#x20;
   * [Noctualis - 8 TIPS for Faster Painting in KRITA!](https://www.youtube.com/watch?v=JmA0LdqVcBI)&#x20;
   * [MossCharmly - (How to) Plug-ins for Krita](https://www.youtube.com/watch?v=Oqv3rFuABYY) 2024/07/06
-  *
 * **Version updates**
   * [Brad Colbow - The Best Free Drawing App Just Got Better - Krita 5.0](https://youtu.be/jE02xGd2CCY) &#x20;
 * **Techniques**
   * [Expose Academy - How to blend or mix colors in Krita | 12 different methods](https://www.youtube.com/watch?v=js15EeNbEBE)  Jun 28, 2023
+* **Miscellaneous**
+  * [https://github.com/armstrongl/awesome-krita](https://github.com/armstrongl/awesome-krita) - many various Krita links
