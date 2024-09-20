@@ -38,10 +38,13 @@ Preparation:
 * All pen displays have more pointer lag than pen tablets. Verify if you are OK with the amount it has.
 * All pen displays have some minor edge and corner inaccuracy in tracking the pen location. Check this to see how much there is and if you are OK with this.
 * Verify you are OK with the anti-glare sparkle on the screen. Some people are very sensitive to this.
+* Verify that the display does not have a color tint on the edges. More here: [Color tint on edges of display](../guides/pen-displays/color-tint-on-edges-of-display.md).
 
 ## **Surface**
 
-* There should be no cuts or scratches deep enough that you can feel them through the pen
+* There should be no cuts or scratches deep enough that you can feel them through the pen. More here:&#x20;
+  * [surface wear on pen tablets](../guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
+  * [surface wear on pen displays](../guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)&#x20;
 
 ## **Misc**
 
