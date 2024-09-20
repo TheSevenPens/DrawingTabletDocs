@@ -70,6 +70,19 @@ RATING: VERY GOOD
 
 Drawing 50 strokes as fast possible results in no lost strokes.
 
+## Surface texture
+
+As is typical for etched glass surfaces, there is a slight surface texture.
+
+Using the same X3 Pro pen with a plastic nib&#x20;
+
+The XP-Pen Artist Pro 19 GEN2 has an amount of surface texture that is
+
+* about the same as the XP-Pen Artist Pro 19 GEN2&#x20;
+* about the same as the Huion Kamvas Pro 19
+* a little less than the XP-Pen Artist 22 Plus
+* a little less than the Cintiq Pro 22
+
 ## Connections and cabling
 
 ### Ports
