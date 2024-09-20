@@ -70,6 +70,18 @@ RATING: VERY GOOD
 
 Drawing 50 strokes as fast possible results in no lost strokes.
 
+## Diagonal wobble
+
+Rating: GOOD low amounts of diagonal wobble.&#x20;
+
+* Just a little more than the Huion Kamvas Pro 19 &#x20;
+* About the same as the Cintiq Pro 22
+* A little less than the XP-Pen Artist Pro 16 GEN2
+* About the same as the Huion Kamvas 13 GEN3
+* About the same as the XP-Pen Artist 22 Plus
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble XP-Pen Artist Pro 19 GEN2 (MD180UH) 2024_09_20.png" alt=""><figcaption></figcaption></figure>
+
 ## Surface texture
 
 As is typical for etched glass surfaces, there is a slight surface texture.
