@@ -14,6 +14,7 @@ This is the #1 drawing app for iPads. I consider it one of the best apps ever ma
 * [Ross Draws - Procreate First Impressions](https://www.youtube.com/watch?v=0OuLT68JSmY) Feb 4, 2022
 * [Brad Colbow - Procreate 5.3 Update - Everything new!](https://www.youtube.com/watch?v=wEWR617wSw4) Dec 15, 2022
 * [Art with Flo - 100 PROCREATE TIPS in 15 MIN](https://www.youtube.com/watch?v=AkBfjP02sx0) &#x20;
+* [Brad Colbow - 26 Procreate Hacks](https://youtu.be/Rc0QVehicx4) - 2022/06/06
 
 ## Channels
 
