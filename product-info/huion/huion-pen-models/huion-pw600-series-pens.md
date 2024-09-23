@@ -24,6 +24,10 @@ Huion states 500gf. I saw some variance a little bit of variance - not much. Ove
 
 <table><thead><tr><th width="150">Pen</th><th>7P Inventory ID</th><th>Max Pressure</th></tr></thead><tbody><tr><td>PW600</td><td>HU1014</td><td>~550gf</td></tr><tr><td>PW600</td><td>HU1017</td><td>~500gf</td></tr><tr><td>PW600</td><td>HU1016</td><td>~460gf</td></tr><tr><td>PW600S</td><td>HU1010</td><td>~510gf</td></tr><tr><td>PW600L</td><td>HU1018</td><td>~550gf</td></tr></tbody></table>
 
+**Pressure response**
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 **PW600 series compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
 
 **Pen weight** - I measured with a digital scale
