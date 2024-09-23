@@ -1,5 +1,11 @@
 # Huion Kamvas
 
+## Huion Kamvas 13 GEN3 (GS1333)
+
+* Release year: 2024
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-kamvas-13-gen3-gs1333.md)&#x20;
+* [Brad Colbow - Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) 2024/09/23
+
 ## Huion Kamvas 12 (GS1161)
 
 * [Teoh Yi Chie review of Huion Kamvas 12](https://youtu.be/KW\_GwmGhwb0) 2021/03/06
@@ -46,7 +52,5 @@ Huion Kamvas 13 (GEN3) (GS1333)
 * User manual: [https://www.huion.com/user-manual-92](https://www.huion.com/user-manual-92)&#x20;
 * [Adam Duff review of Huion Kamvas 24 Plus](https://youtu.be/1xL\_rz6csbo) 2023/10/14
 
-## Other
-
-* [Teoh on Tech - Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) 2021/08/09
+##
 
