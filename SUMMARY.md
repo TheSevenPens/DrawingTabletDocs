@@ -279,7 +279,7 @@
     * [Huion pens](product-info/huion/huion-pen-models/README.md)
       * [Huion PenTech](product-info/huion/huion-pen-models/huion-pentech.md)
       * [Huion PW550 and PW550S pens](product-info/huion/huion-pen-models/huion-pw550-and-pw550s-pens.md)
-      * [Huion PW600 and PW600S pens](product-info/huion/huion-pen-models/huion-pw600-and-pw600s-pens.md)
+      * [Huion PW600 series pens](product-info/huion/huion-pen-models/huion-pw600-series-pens.md)
     * [Huion Inspiroy 2](product-info/huion/huion-inspiroy-2/README.md)
       * [7P notes: Huion Inspiroy 2 L (H1061P)](product-info/huion/huion-inspiroy-2/7p-notes-h1061p.md)
   * [Microsoft](product-info/microsoft/README.md)
