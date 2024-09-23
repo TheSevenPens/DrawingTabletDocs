@@ -22,9 +22,9 @@ VERY GOOD.&#x20;
 
 Huion states 500gf. I saw some variance around there - but everything was above 400gf which is good. Some of these are ROUGH measurements. I did these by hand instead of measuring with my testing gear.&#x20;
 
-<table><thead><tr><th width="150">Pen</th><th>7P Inventory ID</th><th>Max Pressure</th><th>Measurment</th></tr></thead><tbody><tr><td>PW600</td><td>HU1014</td><td>~600gf</td><td>Rough</td></tr><tr><td>PW600</td><td>HU1017</td><td>~425gf</td><td>Rough</td></tr><tr><td>PW600</td><td>HU1016</td><td>~430gf</td><td>Rough</td></tr><tr><td>PW600S</td><td>HU1010</td><td>~500gf</td><td>Rough</td></tr><tr><td>PW600L</td><td>HU1018</td><td>~550gf</td><td>Detailed</td></tr></tbody></table>
+<table><thead><tr><th width="150">Pen</th><th>7P Inventory ID</th><th>Max Pressure</th><th>Measurement</th></tr></thead><tbody><tr><td>PW600</td><td>HU1014</td><td>~600gf</td><td>Rough</td></tr><tr><td>PW600</td><td>HU1017</td><td>~425gf</td><td>Rough</td></tr><tr><td>PW600</td><td>HU1016</td><td>~460gf</td><td>Precise</td></tr><tr><td>PW600S</td><td>HU1010</td><td>~510gf</td><td>Precise</td></tr><tr><td>PW600L</td><td>HU1018</td><td>~550gf</td><td>Precise</td></tr></tbody></table>
 
-**PW600 seriescompatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
+**PW600 series compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
 
 **Pen weight** - I measured with a digital scale
 
