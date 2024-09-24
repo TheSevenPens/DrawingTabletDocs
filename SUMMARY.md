@@ -263,7 +263,7 @@
     * [Huion Kamvas Studio](product-info/huion/huion-kamvas-studio.md)
     * [Huion Kamvas Slate](product-info/huion/huion-kamvas-slate.md)
     * [Huion Kamvas](product-info/huion/huion-kamvas/README.md)
-      * [7P notes: Huion Kamvas 13 (GEN3) (GS1333)](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gen3-gs1333.md)
+      * [7P notes: Huion Kamvas 13 GEN3 (GS1333)](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gen3-gs1333.md)
       * [7P notes: Huion Kamvas 13 (GS1331)](product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)
       * [7P notes: Huion Kamvas 22 Plus (GS2202)](product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md)
     * [Huion Inspiroy R-series](product-info/huion/huion-inspiroy-r-series/README.md)

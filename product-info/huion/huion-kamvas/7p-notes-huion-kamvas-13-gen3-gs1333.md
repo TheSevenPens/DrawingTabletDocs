@@ -1,4 +1,4 @@
-# Huion Kamvas 13 (GEN3) (GS1333)
+# 7P notes: Huion Kamvas 13 GEN3 (GS1333)
 
 <mark style="color:red;">**NOTE: I just received this tablet on 2024/09/17 so I have just started looking through it. This evaluation is still IN PROGRESS**</mark>
 
@@ -112,3 +112,27 @@ The right 1/3 of the tablet got slightly  warm - most of that was closer to the 
 ## Audio
 
 This tablet does not have any audio features and does not have a headphone jack.
+
+## Compared to the Kamvas 13 (GS1331)
+
+The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331).
+
+* The PW600L pen is much better than the PW517 pen
+* The addition of the dials provides makes it easier to work without having to touch the keyboard
+* Much less Anti-glare sparkle
+
+If you have to choose between the two, I HIGHLY recommend picking the Kamvas 13 (GS13331(
+
+Other differences
+
+* AG treatment
+  * Kamvas 13 GEN3 (GS1333) - etched glass
+  * Kamvas 13 (GS1331) - AG matte film
+* USB-Ports
+  * Kamvas 13 GEN3 (GS1333) - one flush with the surface, one recessed
+  * Kamvas 13 (GS1331) - both ports recessed
+
+
+
+* &#x20;
+
