@@ -6,20 +6,36 @@
 * Most of the time, when you plug in your tablet to your computer this will work automatically.
 * Unfortunately, sometimes your computer can sometimes have difficulty.
 
-For example if you a computer with one monitor and a pen display attached, you should see TWO displays in your operating systems Display Settings. If you only see one, then the computer does not thing a second display is attached.
+When you plug in your pen display your computer should detect it as an additional display/monitor in display setttings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
 
-| Windows 11                                                                                                                                                                                                                                                                                                                                                     | MacOS (Ventura)                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://docs.thesevenpens.com/\~gitbook/image?url=https%3A%2F%2F1457921496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNde0PQIvNcFZNVxuTO0G%252Fuploads%252FBd9wPLauCDUqwHZlnIaJ%252Fimage.png%3Falt%3Dmedia%26token%3D075706fd-5c49-400d-bb0c-8904bf9f4bd5\&width=300\&dpr=4\&quality=100\&sign=471983f1\&sv=1) | ![](https://docs.thesevenpens.com/\~gitbook/image?url=https%3A%2F%2F1457921496-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FNde0PQIvNcFZNVxuTO0G%252Fuploads%252Fo8LCtp1VFfxFG0UwbmAk%252Fimage.png%3Falt%3Dmedia%26token%3D48c9dffa-e80a-43b6-b6c2-c9e5a0774a86\&width=300\&dpr=4\&quality=100\&sign=55ebce81\&sv=1) |
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Basic things to try or investigate
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* Restart the computer - sometimes that can trigger the detection.
-* Check the ports to make sure the cables are plugged in all the way. This is a very common mistake.
+## Don't bother reinstalling the tablet drivers
+
+Your computer thinks of your pen display as two devices:
+
+* a pen tablet (aka a screenless tablet) without a display
+* a monitor
+
+The tablet driver is talking to the pen tablet. So reinstalling the driver is likely not going to do anything about this problem.
+
+Your computer's operating system is taking to the display. You need to focus your efforts on why the operating system doesn't think the display in the tablet exists.
+
+Also reinstalling tablet drivers can't hurt, reinstalling them multiple times is not going to change anything.
+
+## Restart the computer
+
+Sometimes this can trigger the detection
+
+## Check that the cables are plugged in all the ay
+
+This is a very common mistake.
 
 ## Ensure the ports are clear of obstruction
 
-Check the ports to ensure that there isn't some lint or other material preventing a secure connection.
+Check the ports to ensure that there isn't some lint or other material preventing a secure connection. Material like lint in the port can prevent the cable from working.
 
 ## Windows > built-in display detection
 
@@ -87,5 +103,7 @@ Check with your manufacturer if there are any firmware updates.
 
 ## If all else fails
 
-Contact support
+Contact support!
+
+
 

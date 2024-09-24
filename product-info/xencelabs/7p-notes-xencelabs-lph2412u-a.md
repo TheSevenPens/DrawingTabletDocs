@@ -141,13 +141,13 @@ In comparison the wobble for horizontal and vertical lines is:
 
 Kamvas Pro 19
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
 
 Cintiq pro 27
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
 
 </div>
 
@@ -198,7 +198,7 @@ Xencelabs is at least aware of the diagonal wobble.
 
 In this review post on reddit (posted July 12, 2023) there are some quoted responses from  Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It's unclear if they are aware of the more general wobble I encountered.
 

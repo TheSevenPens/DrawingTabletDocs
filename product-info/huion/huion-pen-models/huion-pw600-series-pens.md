@@ -26,7 +26,7 @@ Huion states 500gf. I saw some variance a little bit of variance - not much. Ove
 
 **Pressure response**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **PW600 series compatibility with older tablets** - The new pens are NOT compatible with older Huion tablets.
 
