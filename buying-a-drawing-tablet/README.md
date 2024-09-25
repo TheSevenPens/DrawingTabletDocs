@@ -53,8 +53,10 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 * **Pressure -** The pen can detect how much pressure you are putting on its tip. All drawing tablets sense pressure. More info: [**pressure**](../core-features/pen-pressure.md).&#x20;
   * **Initial Activation Force (IAF)** is smallest pressure that activates the pen. In general you want a pen that has a low (<=3gf) IAF. Modern drawing tablet pens are around this value.
   * The **maximum pressure** is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Higher maximum pressure means that the pressure range is wide and is better for drawing because it lets you have better control over how pressure affects your stroke. &#x20;
+  * The difference between the max pressure and IAF is the **physical pressure range**. A range of 300gf is GOOD. 400gf and above is very good. Not all brands publish this information for their pens but some do. If you can't find the information ask customer support or ask people in the community.
+  * **Pressure levels** - the physical pressure range is divided into segments - each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 level, and the vast majority have 8192, and a few have 16K. In other words, EVERY tablet has enough pressure levels. So don't worry about choosing a tablet based on pressure levels. &#x20;
 * **Tilt**  can be very useful for for certain kinds of artwork. If you are just taking notes it may not be useful at all. Almost all modern tablets support tilt, except for some consumer Wacom tablets. More here [**tilt**](../core-features/pen-tilt.md).
-* **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this.
+* **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this. You don't need to worry about this spec. All modern tablets have enough resolution.
 * **Diagonal wobble** - All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../core-features/diagonal-wobble.md).
 
 ## **Secondary features**
@@ -141,9 +143,9 @@ Drawing tablets have been released over many years. That means when you shop onl
   * XP-Pen: Look for tablets that have X3 in their name
     * These are the X3 Elite, X3 Roller, and X3 Pro
   * Huion: Look for tablets that use more recent Huion PenTech versions:
-    * PenTech 3.x: PW517, PW515, PW110, PW500, PW500S
-    * PenTech 4.0: PW600, PW600S&#x20;
-    * The PenTech 4.0 Pens are better than the PenTech 3.x pens
+    * PenTech 3.0: PW517, PW515, PW110
+    * PenTech 3.0+: PW500, PW500S - in my research these are clearly better pens than PenTech 3.0. In terms of pressure range as good as PenTech 4.0.
+    * PenTech 4.0: PW600, PW600S. The PenTech 4.0 Pens are better than the PenTech 3.0 pens
     * More here: [**Huion pens**](../product-info/huion/huion-pen-models/)
 
 ## Preparing for a drawing tablet
