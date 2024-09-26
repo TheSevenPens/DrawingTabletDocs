@@ -59,7 +59,7 @@ You can find many tablets on eBay and I've had a good experience with the 25+ ta
 
 ## Tablet Manufacturers on eBay
 
-Some manufacturers directly sell new and used tablets on eBay
+Some manufacturers directly sell new and used/refurbished tablets on eBay
 
 * Wacom: [https://www.ebay.com/str/wacom](https://www.ebay.com/str/wacom)&#x20;
 * Huion: [https://www.ebay.com/str/huiontablet](https://www.ebay.com/str/huiontablet)&#x20;
@@ -69,24 +69,33 @@ Some manufacturers directly sell new and used tablets on eBay
 
 A used tablet's surface might be almost pristine or it might be heavily used and exhibit a lot of surface wear.
 
+* Ideally you get one that is not heavily worn.
+* Small scratches or OK if they can not be felt through the pen.
+* Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../accessories/surface-protectors/)&#x20;
+
 More here:&#x20;
 
 * [surface wear on pen tablets](../guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
 * [surface wear on pen displays](../guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)
 
-Ideally you get one that is not heavily worn.
-
-Small scratches or OK if they can not be felt through the pen.
-
-Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../accessories/surface-protectors/)
-
 ## Pens
 
-Keep in mind you may ge a nice deal on a tablet that does not come with a pen.
+Keep in mind you may get a nice price on a tablet, but it may not come with a pen. So verify whether a pen is included or not before you purchase.
 
-And pens - especially Wacom Pro Pens - can be hard to find and also they can be very expensive ($100).&#x20;
+If you need to buy a pen or you break your pen, keep in mind that&#x20;
 
-You need to keep that in mind because if you lose your pen and need to find another, it could be expensive.
+* You have to make sure you find the exact model number of pen that is compatible with your tablet. A random pen from the same brand may not be compatible.
+* Replacement pens can be very expensive even if they are a decade old. For example, older Wacom Pro Pens can be very expensive (>=$100).
+* Replacement pens can be incredibly hard to find on the used market.&#x20;
+* In the used market, sellers do not sell the pen by itself. So you may even have to purchase ANOTHER tablet with a pen. I've personally had to do this myself.&#x20;
+
+## Nibs
+
+Often, depending on the tablet and how you draw, the pen nib wears down as you use a pen.
+
+* Verify whether your purchase includes spare nibs or not.
+* Compatible nibs may be difficult to find.
+* Compatible nibs may be difficult.&#x20;
 
 ## Reddit threads
 
