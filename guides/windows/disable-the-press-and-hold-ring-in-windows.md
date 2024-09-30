@@ -9,7 +9,7 @@
 * You'll find a section called "Pen and Touch"
 * Click on **Change tablet pen settings**
 
-![](<../../.gitbook/assets/image (269).png>)
+![](<../../.gitbook/assets/image (342).png>)
 
 
 
@@ -29,12 +29,12 @@ If you are comfortable using the command line, you can get to the Pen and Touch 
 * Select **Press and Hold**
 * Click **Settings**
 
-![](<../../.gitbook/assets/image (311).png>)
+![](<../../.gitbook/assets/image (384).png>)
 
 * The **Press and Hold Settings** dialog will launch
 * Disable **Enable press and hold for right-clicking**
 
-![](<../../.gitbook/assets/image (245).png>)
+![](<../../.gitbook/assets/image (318).png>)
 
 * Click **OK** to close the **Press and Hold Settings** dialog
 * Click **OK** to close the Pen and Touch dialog

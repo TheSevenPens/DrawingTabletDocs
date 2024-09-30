@@ -9,7 +9,7 @@
   * or choose **Tablet PC** to disable Windows Ink
 * Once you've made the change, restart Clip Studio Paint
 
-![](<../../../.gitbook/assets/image (250).png>)
+![](<../../../.gitbook/assets/image (323).png>)
 
 ## Krita
 
@@ -20,7 +20,7 @@
   * or Choose  **WinTab** to disable Windows Ink
 * Once you've made your change, restart Krita.
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (109).png>)
 
 ## Adobe Photoshop
 
@@ -37,7 +37,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (395).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -51,7 +51,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (396).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 

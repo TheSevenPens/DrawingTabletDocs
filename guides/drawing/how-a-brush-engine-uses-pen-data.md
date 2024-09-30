@@ -28,11 +28,11 @@ And there are lot of other settings
 
 Here is an example from Clip Studio Paint 2.0 for its Calligraphy brush
 
-![](<../../.gitbook/assets/image (309).png>)
+![](<../../.gitbook/assets/image (382).png>)
 
 Here is an example from Krita
 
-![](<../../.gitbook/assets/image (142).png>)
+![](<../../.gitbook/assets/image (215).png>)
 
 
 

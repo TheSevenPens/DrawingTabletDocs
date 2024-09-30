@@ -14,7 +14,7 @@ A tablet with NO buttons is symmetric across its vertical axis - on on other wor
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (411).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (484).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,7 @@ If the buttons are symmetric from left-to-right - for example if the buttons are
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (485).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,7 +34,7 @@ If a tablet has buttons on a side, it is almost alwasy the left side. This means
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (413).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (486).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

@@ -6,7 +6,7 @@ The gaps will not be aligned vertically or horizontally - which is a sign of a d
 
 ### Examples
 
-![](<../.gitbook/assets/image (251).png>)
+![](<../.gitbook/assets/image (324).png>)
 
 
 
@@ -26,7 +26,7 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
   * In the driver try increasing the lower bound of the pressure range and see how the gaps react.
     * Do they develop earlier in the stroke?
     * Do the stop developing?
-* If it continues to happen, then [**contact support**](../guides/general/contacting-support.md).
+* If it continues to happen, then [**contact support**](../basics/contacting-support.md).
 
 ### Links
 

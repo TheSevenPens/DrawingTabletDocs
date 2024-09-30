@@ -6,7 +6,7 @@ IGNORE BOTTOM - ignores the lower end of logical pressure
 
 IGNORE TOP - ignores the upper end of logical pressure
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 IGNORE BOTTOM
 

@@ -10,11 +10,11 @@ Some curves can limit their output range to achieve better control over brush st
 
 The easy way to tell that a pressure cuve constrains the output range is to notice that the curve shape does not reach to the bottom or to the top of the pressure curve graph. Two examples are below.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Even though the shapes look a little diffrent, they both effectively take the input logical pressure values between \[0,1] and map that to an output region close to \[0.3, 0.6]
 
@@ -36,7 +36,7 @@ brush_size = max( 1, 100 * pressure )
 * With a null pressure curve - The stroke width will go from a size of 1px to 100px.
 * With a the curves shown above - the stroke width will go from 30px to 60 pz. So the widht of the stroke does not vary as much.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 
 

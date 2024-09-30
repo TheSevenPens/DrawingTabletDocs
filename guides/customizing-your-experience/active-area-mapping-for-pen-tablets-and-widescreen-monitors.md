@@ -6,7 +6,7 @@ Using a pen tablet with a widescreen monitor presents some challenges and some n
 
 Normally a pen tablet aspect ratio has an aspect ratio of around 16:10 but monitors often have an aspect ratio of 16:9. By default this distorts shapes drawn on the pen tablet so that they appear stretched slightly in one direction. The solution is to force the tablet's active area aspect ratio to match that of the monitor.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 Because the aspect ratios are close (1.6 vs 1.78), we lose a little bit of active area on the tablet, but now the drawing is without distortion.&#x20;
 
@@ -14,13 +14,13 @@ Because the aspect ratios are close (1.6 vs 1.78), we lose a little bit of activ
 
 But in the widescreen case, the aspect ratios are quite different (1.6 vs 2.33). So, if we match the tablet's aspect ratio to the monitor, we lose much more active area.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ## Options for widescreen monitors
 
 You could map the active area of the tablet to a region of the monitor with the same aspect ratio.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 The region is shown in the center of the monitor, but it could be left or right aligned.
 
@@ -30,7 +30,7 @@ This is pretty rare, but I've seen people do it.
 
 If you can reliably tile your windows to the left half and right half, this is an alternative arrangement
 
-<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
 It loses active area on the tablet, but may be easier to work with in terms of resizing windows.
 

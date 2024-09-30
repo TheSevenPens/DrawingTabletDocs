@@ -8,7 +8,7 @@ In the diagram below, barrel rotation is indicated by the arrows that go around 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

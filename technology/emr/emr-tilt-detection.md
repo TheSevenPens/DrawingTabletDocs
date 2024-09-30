@@ -10,7 +10,7 @@ Instead, an EMR digitizer can detect the tilt of the pen just by examining the s
 
 When the pen is perpendicular, the digitizer detects a single perpendicular shape.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 As the pen tilts, it produces two shapes. And the relationship between the two shapes indicates the tilt.
 
@@ -24,7 +24,7 @@ The tablet measures the tilt in both the x and y directions
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="375"><figcaption><p>pen not perfectly perpendicular to tablet as indicated by shadow. Diagram shows x &#x26; y components of tilt.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145).png" alt="" width="375"><figcaption><p>pen not perfectly perpendicular to tablet as indicated by shadow. Diagram shows x &#x26; y components of tilt.</p></figcaption></figure>
 
 </div>
 
@@ -32,7 +32,7 @@ Measuring as x tilt and y tilt is also equivalent to measuring as azimuth and al
 
 In the example below the orange lines indicator the azimuth. And the purple line indicates the altitude (also known as elevation).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

@@ -14,7 +14,7 @@ I think the pressure categories here (EXCELLENT, VERY GOOD, etc) are reasonable.
 
 But be aware, that for a specific pen there can be significant differences for IAF and max pressure for individual units.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
 
 ## Pressure data and sources
 

@@ -8,7 +8,7 @@ Some pen displays exhibit a color tint at the edges of the display. Often it is 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (346).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (419).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -16,7 +16,7 @@ The tint is greatly exaggerated in these diagrams. In reality in can be very sub
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (324).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,7 @@ Keep in mind the topic being discussed here is when the tint as at the edges, no
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (316).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (389).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

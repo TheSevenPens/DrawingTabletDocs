@@ -18,6 +18,6 @@ XP-Pen drivers have this feature.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (359).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (432).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>

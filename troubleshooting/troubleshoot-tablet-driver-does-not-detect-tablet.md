@@ -92,7 +92,7 @@ Both the times I've personally encountered this problem it seems like nothing I 
 
 ## Still not solved?
 
-If none of these suggestions are helping, then [**contact support**](../guides/general/contacting-support.md).
+If none of these suggestions are helping, then [**contact support**](../basics/contacting-support.md).
 
 In the meanwhile, you may be able to use alternative drivers on Windows:
 
@@ -119,7 +119,7 @@ driver version: 3.4.12(104e65f)&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

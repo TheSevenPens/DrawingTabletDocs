@@ -2,9 +2,15 @@
 
 ## Overview
 
-This is an online tool to help troubleshoot issues.&#x20;
+With the 7P Tablet Tester browser-based tool you can test out the basic features of your tablet. This is useful for troubleshooting.&#x20;
 
-Try out the tool here: [**7P Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)
+Click this link to try the tool: [**7P Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)
+
+<figure><img src="../.gitbook/assets/screely-1727637583054.png" alt=""><figcaption></figcaption></figure>
+
+## Safety and privacy
+
+This tool collects no data, uses no cookies, and does not save your images. &#x20;
 
 ## Features
 
@@ -49,3 +55,7 @@ Try out the tool here: [**7P Tablet Tester**](https://thesevenpens.github.io/Htm
 **Android**
 
 * Chrome - WORKS
+
+## Open source
+
+The entire source code is on the github repo ([https://github.com/TheSevenPens/HtmlTabletTester](https://github.com/TheSevenPens/HtmlTabletTester)). I encourage you to look through it and fork and modify it for your needs.

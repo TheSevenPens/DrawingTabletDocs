@@ -14,7 +14,7 @@ Below you'll find my beginner-friendly recommendations for:&#x20;
 * and standalone tablets.&#x20;
 
 {% hint style="info" %}
-I HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../guides/beginners-guide.md).
+I HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md).
 
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](./)&#x20;
 {% endhint %}
@@ -42,7 +42,7 @@ More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-
 
 ## Pen displays
 
-These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](../product-info/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
 * Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md))
   * The new Kamvas 13 GEN3 (GS1333) will be an even better choice.

@@ -39,7 +39,7 @@ Troubleshooting the the NO SIGNAL problem starts with understanding how your com
 * a pen tablet (aka screenless tablet)&#x20;
 * and a monitor/display
 
-<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
 
 Your computer and operating system have no idea that these two devices are related in any way. Even if a single cable is used to connect your pen display to your computer, it will continue to believe two devices are part of the same pen display. On the other hand, your tablet driver will know that these two devices are related.
 
@@ -61,7 +61,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 
 | Windows 11                                                                 | MacOS (Ventura)                           |
 | -------------------------------------------------------------------------- | ----------------------------------------- |
-| <img src="../.gitbook/assets/image (382).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (261).png>) |
+| <img src="../.gitbook/assets/image (455).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (334).png>) |
 
 If your computer doesn't think there is a display attached, it certainly isn't going to send a signal to it. So if you don't see this detection, follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
 

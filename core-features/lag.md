@@ -13,7 +13,7 @@ There are two kinds of lag&#x20;
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

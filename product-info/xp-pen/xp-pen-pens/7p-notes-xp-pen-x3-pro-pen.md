@@ -16,7 +16,7 @@ The **XP-Pen X3 Pro Pen**. was introduced in 2023. It is incredibly similar in s
 
 Obligatory 16K pressure level screenshot. This is what it shows in the driver.&#x20;
 
-![](<../../../.gitbook/assets/image (360).png>)
+![](<../../../.gitbook/assets/image (433).png>)
 
 There is no noticeable impact on my drawing.
 

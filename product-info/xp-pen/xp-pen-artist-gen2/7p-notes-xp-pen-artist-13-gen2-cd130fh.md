@@ -11,9 +11,7 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 
 ## Pen
 
-* X3 ELITE
-
-
+Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [<mark style="background-color:green;">**My notes on the X3 elite pen**</mark>](../xp-pen-pens/7p-notes-xp-pen-x3-elite-pen.md)
 
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
@@ -29,7 +27,7 @@ EXCELLENT. very little wobble. at all stroke speeds.
 
 These are 10cm lines - each drawn over 4 seconds. V
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### Anti-glare sparkle <a href="#anti-glare-sparkle" id="anti-glare-sparkle"></a>
 
@@ -39,8 +37,6 @@ I didn't find the sparkle distracting. And I don't notice it at my normal eye di
 
 It has more sparkle than the Wacom One (DTC-133) but less than the Huion Kamvas 13.
 
-For both tablets you'll notice the sparkle if your eyes are close, at a normal drawing distance I don't notice it.
-
 ## Drawing Experience <a href="#drawing-experience" id="drawing-experience"></a>
 
 These things worked well
@@ -49,22 +45,15 @@ These things worked well
 * drawing many small quick tiny low pressure lines - hatching&#x20;
 * keeping pressure constant
 * moving between high and low pressure smoothly
-* Line Tapering - typical .
+* Line Tapering - typical&#x20;
 
-## Pressure range <a href="#pressure-range" id="pressure-range"></a>
+## Pen pressure range <a href="#pressure-range" id="pressure-range"></a>
 
-* Remember:&#x20;
-  * Pressure is detected by the pen, not the tablet.
-  * Pens even of the same model exhibit some variance
-* XP-pen rates this pen as a 3gf IAF
-  * the pen I had seemed to have a little higher IAF than that
-  * It didn't bother me, but for those of you who want to draw with the tiniest amount of force this may not be the pen/tablet for you.
+See: [<mark style="background-color:green;">**My notes on the X3 elite pen**</mark>](../xp-pen-pens/7p-notes-xp-pen-x3-elite-pen.md)
 
 ## Pointer lag <a href="#pointer-lag" id="pointer-lag"></a>
 
 TYPICAL for a pen display - very slightly more than typical. But not by much.
-
-
 
 ## Parallax
 
@@ -72,9 +61,9 @@ VERY GOOD. The tip of the pointer aligns very closely with the tip of the pen.
 
 ## Ports
 
-3 USB-C ports on the side
+2 USB-C ports on the side
 
-Note tha the ports are deeply recessed into wells.
+Note that the ports are deeply recessed into wells.
 
 ## Cables and connections
 

@@ -8,7 +8,7 @@ First try the [**Common drawing troubleshooting steps**](common-drawing-troubles
 
 ### Examples
 
-![](<../.gitbook/assets/image (264).png>)
+![](<../.gitbook/assets/image (337).png>)
 
 So far, I have rarely encountered this and don't know the specific cause.
 

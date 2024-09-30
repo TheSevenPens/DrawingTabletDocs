@@ -36,7 +36,7 @@ As is typical for EMR pens, these pens have a response that bows up. All 4 hit 5
 
 So as I often recommend, you should consider a pressure curve to linearize this response so that you have more pressure control at the lower end of the physical pressure range.
 
-<figure><img src="../../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 

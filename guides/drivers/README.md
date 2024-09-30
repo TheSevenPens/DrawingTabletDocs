@@ -37,7 +37,7 @@ For example Wacom's windows are compatible with wide range of their tablets.
 
 Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
 
-![](<../../.gitbook/assets/image (392).png>)&#x20;
+![](<../../.gitbook/assets/image (465).png>)&#x20;
 
 ## OpenTabletDriver
 

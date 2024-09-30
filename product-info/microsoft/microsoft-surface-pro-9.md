@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro**</mark>](7p-notes-microsoft-surface-pro.md)
+* [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro**</mark>](7p-notes-microsoft-surface-pro-8.md)
 
 ## Microsoft Surface Pro 11&#x20;
 

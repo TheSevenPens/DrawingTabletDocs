@@ -43,11 +43,11 @@ NOTE:
 * A real digitizer will have multiple chips, but in these diagrams only 1 or 2 chips are shown.
 * The wire does not look like what you might think of as a "coil". If you look up an electromagnetic component called an "inductor" you'll realize why it has this name. Another doc covering the LC Circuit in EMR pens will explain it in more detail.
 
-<figure><img src="../../.gitbook/assets/image (427) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
 If the pen is sending an electromagnetic signal and is near the coil. The signal will induce a current in the coil. This is called electromagnetic induction - meaning a current in one thing is causing a current in something else even though they are not touching.  The chip registers the strength of this signal - I draw it as a light blue bar near the detector.  The closer the pen is the stronger the signal. If the pen is far enough away, there really isn't any current detected on the coil.
 
-<figure><img src="../../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
 
 Key points
 
@@ -58,7 +58,7 @@ Key points
 
 Lets have multiple coils next to each other in a row horizontally. Each coil independently detects the signal from the pen. So the signal strength is different for each coil - and depends on how far away the pen is from that specific coil.
 
-<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
 
 The pen is right on top of one coil so it has the strongest signal. As coils are further from the pen the strength diminishes. And of course some coils essentially don't detect any signal.
 
@@ -68,15 +68,15 @@ The coils are going up and down, but the set of coils are arranged horizontally.
 
 Before we continue, I'm going to draw the coils in a simpler way. It will look like I am drawing them as a wire just sticking out of the detector, but really think of them as looping back into the detector. Drawing it this way will make looking at the later diagrams a bit easier.
 
-<figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure>
 
 Now we are going to have two arrays of coils. One is a horizontal array like we had above. But the other array is oriented vertically.
 
-<figure><img src="../../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
 
 Now we are going but these arrays on top of each other.
 
-<figure><img src="../../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
 
 I must stress this, even the diagram makes it look like the horizontal and vertical coils are touching - they are not touching at all. They are on two separate layers. None of the coils actually touch another coil.
 
@@ -88,7 +88,7 @@ Again notice that multiple coils in each dimension are detecting the signal for 
 
 In this diagram below, the pen coincidentally is right on top of one vertical coil and one horizontal coil. As a result, a single strong peak signal for the both the horizontal and vertical components.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
 
 ## Interpolation of position
 
@@ -98,13 +98,13 @@ The consequence of this very sparse arrangement of coils is that the vast majori
 
 Also only a small number of coils detect the pen. For example in in any given dimension it could be only 4 coils that detect the pen.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 In this case above the pen is exactly in-between two horizontal coils and exactly in-between two vertical coils. So now in both the horizontal and vertical directions, there isn't a single strong signal, two signals in each direction have the same value. So the tablet, can infer that the pen is exactly between coils in both directions.
 
 And of course the pen may not not be exactly on or exactly in-between coils as shown below.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
 
 So, a drawing tablet has to carefully look at the signal strengths to handle all these cases of the pen's position. Fortunately EMR tablets are very fast and accurate at doing this. In terms of resolution, a typical Wacom EMR tablet can identify 5080 different positions inside every inch - that's 200 different positions for every millimeter! As you can see, the resolution of detection is surprisingly good.
 
@@ -114,9 +114,9 @@ When the pen is in the middle of the tablet, there are lots of coils that detect
 
 But the pen can also be at the edge or corner of the grid of coils. In this case there are fewer coils detecting the pen.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
 
 With fewer coils detecting the pen in this scenario the tablet has less data to work with to estimate the position of the pen. You will notice this in almost all tablets - that as you get within about 3mm of the edges or corners the pointer will start to drift away from the tip of the pen.
 
@@ -126,5 +126,5 @@ Tablet manufacturers try to counteract this a little bit. The surface of the tab
 
 We represent the active area as a red box in this diagrams, you'll notice that the active area is not the full size of the grid. Instead it is inset a little bit. This helps the tablet identify the pens position at what you see as the active area.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 

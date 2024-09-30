@@ -28,13 +28,13 @@ Every driver has a different way of configuring it in their UI:
 * Or if you have a pen display, go to the **Calibrate** tab.
 * Set **Use Windows Ink** to turn on or off **Windows Ink** in the driver
 
-![](<../../../.gitbook/assets/image (164).png>)
+![](<../../../.gitbook/assets/image (237).png>)
 
 ## Wacom Driver > Wacom Center
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (450).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (525).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ Every driver has a different way of configuring it in their UI:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (187).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@ Every driver has a different way of configuring it in their UI:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@ Every driver has a different way of configuring it in their UI:
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (449).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (524).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,5 +74,5 @@ Every driver has a different way of configuring it in their UI:
 
 NOTE: To see the Windows Ink option, you have to install the OTD Windows Ink plug-in first.
 
-![](<../../../.gitbook/assets/image (122).png>)
+![](<../../../.gitbook/assets/image (195).png>)
 

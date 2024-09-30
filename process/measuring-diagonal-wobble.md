@@ -26,7 +26,7 @@ I measure [**diagonal wobble**](../core-features/diagonal-wobble.md) using a sim
 
       <div align="left">
 
-      <figure><img src="../.gitbook/assets/image (389).png" alt="" width="320"><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (462).png" alt="" width="320"><figcaption></figcaption></figure>
 
       </div>
 * Drawing

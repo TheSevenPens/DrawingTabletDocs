@@ -12,7 +12,7 @@ Here are some other options.&#x20;
 
 I used this iFixit set of precision tweezers. Specifically I used the one in the middle. I wasn't able to put both both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly push the nib out a little bit at a time. Once enough was out, I used the tweezers normally to pull the nib out. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -14,7 +14,7 @@
 
 ## XP-Pen Artist 13 GEN2 (CD130FH)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../../recommendations/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 * [Teoh on Tech review of XP-Pen Artist 13 GEN2](https://youtu.be/-q\_eFIuibnc)  &#x20;
 * [Create Now Sleep Later review of XP-Pen Artist 13 GEN2](https://youtu.be/NJRYgW63dyM) &#x20;
 

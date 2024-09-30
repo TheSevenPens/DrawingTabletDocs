@@ -14,13 +14,13 @@ In the **Filters** tab, enable **Slimy Scylla Pressure Curve** &#x20;
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (369).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 This is what the configuration looks like:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 
 To enable the filter, click **Enable Smily Scylla** and click **Apply**.
 
@@ -28,7 +28,7 @@ The settings here will let you configure the pressure curve. Unfortunately, ther
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (371).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

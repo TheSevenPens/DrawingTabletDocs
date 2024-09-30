@@ -12,10 +12,10 @@ This expands to a path that should look like:
 
 This is what my folder looks like:
 
-<figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
 ### ProTip: Quickly get to the AppData folder by pressing WINDOWS+R and typing appdata.
 
 It will open a window directly to that folder.
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (131).png>)

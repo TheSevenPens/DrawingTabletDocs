@@ -8,7 +8,7 @@ NOTE: There is a related problem: [Troubleshoot hooks at start of strokes](troub
 
 ## Examples
 
-![](<../.gitbook/assets/image (113).png>)![](<../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (186).png>)![](<../.gitbook/assets/image (144).png>)
 
 ## Avoid flicking
 
@@ -26,7 +26,7 @@ Even though a low IAF is a good thing. It can also mean that at the end of strok
 
 Try adjusting your pressure curve as shown below to see if this helps reduce the problem.
 
-<figure><img src="../.gitbook/assets/image (451).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (526).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Your application
 
@@ -48,7 +48,7 @@ In general, set the value to as low a number as it will go and still work correc
 
 The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with these shoelace effect.
 
-![](<../.gitbook/assets/image (183).png>)
+![](<../.gitbook/assets/image (256).png>)
 
 
 

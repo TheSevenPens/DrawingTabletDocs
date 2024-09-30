@@ -62,7 +62,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
   * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
 * When the OTD app is running, this icon will appear in your taskbar
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## **Detect your tablet**
 
@@ -82,14 +82,14 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 * In the OTD App, go to **Output** > **Tablet** Section
 * In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
-* ![](<../../../.gitbook/assets/image (35).png>)
+* ![](<../../../.gitbook/assets/image (108).png>)
 
 ## Configure Windows Ink
 
 * In the OTD app, on the bottom change to mode dropdown from **Absolute Mode** to **Windows Ink Absolute Mode**
 * NOTE: You will only see **Windows Ink Absolute Mode** listed if you previously enabled the Windows Ink plugin.
 
-![](<../../../.gitbook/assets/image (111).png>)
+![](<../../../.gitbook/assets/image (184).png>)
 
 ## Configure the pen
 
@@ -100,7 +100,7 @@ In that list, your tablet may be marked as needing "Zadig WinUSB". If so, you wi
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (322).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (395).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -116,7 +116,7 @@ At the bottom of the OTD app, click **Apply**.
 ## Tablet buttons
 
 * In the **Auxiliary Settings** tab, each button shows up as an **Auxiliary Binding**.
-* ![](<../../../.gitbook/assets/image (328).png>)
+* ![](<../../../.gitbook/assets/image (401).png>)
 * In the screenshot above, one of the buttons has been set to match the "e" key.
 
 ## Save OpenTabletDriver configuration
@@ -129,7 +129,7 @@ At the bottom of the OTD app, click **Apply**.
 * You don't have to keep the OTD app visible all the time, you can minimize the app at any time
 * If you need to open OTD app again, you can find it in the taskbar
 
-![](<../../../.gitbook/assets/image (207).png>)
+![](<../../../.gitbook/assets/image (280).png>)
 
 ## Configure your drawing application to use Windows Ink
 

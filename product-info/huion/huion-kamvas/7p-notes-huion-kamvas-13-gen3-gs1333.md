@@ -121,7 +121,7 @@ The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (G
 * The addition of the dials provides makes it easier to work without having to touch the keyboard
 * Much less Anti-glare sparkle
 
-If you have to choose between the two, I HIGHLY recommend picking the Kamvas 13 (GS13331(
+If you have to choose between the two, I HIGHLY recommend picking the Kamvas 13 GEN3 (GS1333)
 
 Other differences
 

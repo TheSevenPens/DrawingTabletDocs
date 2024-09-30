@@ -6,7 +6,7 @@ First try the [**Common drawing troubleshooting steps**](common-drawing-troubles
 
 ### Examples
 
-![](<../.gitbook/assets/image (303).png>)
+![](<../.gitbook/assets/image (376).png>)
 
 ### Links
 

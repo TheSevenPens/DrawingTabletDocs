@@ -8,7 +8,7 @@ It is extremely powerful and configurable.
 
 It features many amazing filters:
 
-<img src="../../../.gitbook/assets/image (368).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (441).png" alt="" data-size="original">
 
 ##
 
@@ -18,27 +18,27 @@ Launch the OpenTableDriver UI
 
 Navigate to **Plugins** > **Open Plugin Manager**&#x20;
 
-<img src="../../../.gitbook/assets/image (241).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (314).png" alt="" data-size="original">
 
 The plugin manager will look like this
 
-<img src="../../../.gitbook/assets/image (349).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (422).png" alt="" data-size="original">
 
 Click on **Slimy Scylla** in the list on the left.
 
 Then click **Install**.
 
-![](<../../../.gitbook/assets/image (238).png>)
+![](<../../../.gitbook/assets/image (311).png>)
 
 Close the plugin manager
 
 In the OpenTabletDriver app, click on **Filters**
 
-![](<../../../.gitbook/assets/image (267).png>)
+![](<../../../.gitbook/assets/image (340).png>)
 
 If Slimy Scylla is installed you will see many filters with names that start with "Slimy Scylla"
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (141).png>)
 
 If you want to use a filter make sure to enable it and to press SAVE.
 
@@ -56,7 +56,7 @@ The one I recommend using is **Position Smoothing Exponental Moving Average**
 
 This is what the configuration looks like:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
 If you want to enable the filter, click **Enable Smily Scylla ...** at the top and click **Apply**.
 

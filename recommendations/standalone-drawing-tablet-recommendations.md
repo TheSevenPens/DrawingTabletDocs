@@ -87,7 +87,7 @@ Type: Slate laptop
 
 Pen tech: MPP (similar to AES)
 
-[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro.md)
+[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro-8.md)
 
 * [**Surface Pro 8**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 * [**Surface Pro 9**](../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
@@ -96,7 +96,7 @@ Pen tech: MPP (similar to AES)
 
 Type: 2-in-1 laptop
 
-Pen tech: Wacom EMR ([**Samsung S Pen**](../product-info/samsung/samsung-s-pen.md))
+Pen tech: Wacom EMR ([**Samsung S Pen**](../product-info/samsung/samsung-s-pen/))
 
 This device also works with the the Wacom CP-913 pen. (Thanks to fellow tablet enthusiast Atnas for confirming this).
 

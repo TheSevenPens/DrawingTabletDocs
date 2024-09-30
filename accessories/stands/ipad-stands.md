@@ -8,7 +8,7 @@ Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (203).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

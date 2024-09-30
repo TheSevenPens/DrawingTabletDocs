@@ -12,11 +12,11 @@ The active area is usually marked in some way on the surface. Sometimes it is ma
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
-![](<../../.gitbook/assets/XP-Pen Deco LW (smaller).jpg>)![](<../../.gitbook/assets/Huion Inspiroy HS611 (smaller) (1).jpg>)
+![](<../.gitbook/assets/XP-Pen Deco LW (smaller).jpg>)![](<../.gitbook/assets/Huion Inspiroy HS611 (smaller) (1).jpg>)
 
 ## Active area of pen displays
 
@@ -24,7 +24,7 @@ The active area of a pen display is very easy to detect because it is the exact 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (299).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (372).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

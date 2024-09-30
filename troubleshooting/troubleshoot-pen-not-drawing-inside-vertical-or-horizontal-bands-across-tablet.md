@@ -30,7 +30,7 @@ And missing vertical bands will look like this:
 * Test tablet with another computer
 * Check if it happens with multiple applications
 * Check if it happens in the pressure test region of the tablet driver
-* If the problem persists, [**contact support**](../guides/general/contacting-support.md).
+* If the problem persists, [**contact support**](../basics/contacting-support.md).
 
 ## Reddit threads
 

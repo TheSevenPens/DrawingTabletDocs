@@ -27,7 +27,7 @@ I use USB 2.0 cables with a USB-C plug on one end (this goes to the tablet) and 
 The specific cables I use are these:
 
 [https://www.amazon.com/dp/B0851N5MS1 ](https://www.amazon.com/dp/B0851N5MS1)[\
-](https://www.amazon.com/dp/B0851N5MS1) ![](<../../.gitbook/assets/image (352).png>)
+](https://www.amazon.com/dp/B0851N5MS1) ![](<../../.gitbook/assets/image (425).png>)
 
 
 

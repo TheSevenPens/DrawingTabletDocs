@@ -10,7 +10,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -75,28 +75,28 @@ Some rotary dials support turning as well as a third press action. This is usefu
 
 ### Wacom Intuos Pro Large PTH-860
 
-<img src="../../.gitbook/assets/wacompth860expresskeys.jpg" alt="" data-size="original">
+<img src="../.gitbook/assets/wacompth860expresskeys.jpg" alt="" data-size="original">
 
 
 
 ## Huion Inspiroy Dial2 (Q630M)
 
-![](<../../.gitbook/assets/huuion Q630M PXL\_20221130\_142458217.MP (1).jpg>)
+![](<../.gitbook/assets/huuion Q630M PXL\_20221130\_142458217.MP (1).jpg>)
 
 
 
 ## &#x20;Example UI from Wacom Tablet Properties App
 
-![](<../../.gitbook/assets/image (351).png>)
+![](<../.gitbook/assets/image (424).png>)
 
-![](<../../.gitbook/assets/image (160).png>)
+![](<../.gitbook/assets/image (233).png>)
 
-![](<../../.gitbook/assets/image (105).png>)
+![](<../.gitbook/assets/image (178).png>)
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../.gitbook/assets/image (134).png>)
 
-![](<../../.gitbook/assets/image (143).png>)
+![](<../.gitbook/assets/image (216).png>)
 
-![](<../../.gitbook/assets/image (314).png>)
+![](<../.gitbook/assets/image (387).png>)
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../.gitbook/assets/image (181).png>)

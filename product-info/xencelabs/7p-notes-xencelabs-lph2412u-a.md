@@ -2,8 +2,6 @@
 
 ## Overview
 
-<mark style="color:red;">**This evaluation is still ongoing and will be finalized by 2024/09/09.**</mark>
-
 This overall is a very good tablet. It design and demonstrates a lot of thoughtfulness to the user that shows up in the industrial design, driver, and inclusion of accessories.
 
 The one place this tablet struggles compared to other pen displays is with line wobble that show up in strokes at all angles. This wobble can be addressed with some additional position smoothing settings in a painting application.&#x20;
@@ -12,12 +10,6 @@ The one place this tablet struggles compared to other pen displays is with line 
 
 * **Product page:** [**https://www.xencelabs.com/us/products/pen-display**](https://www.xencelabs.com/us/products/pen-display)
 * **Release year: 2023**
-
-## **Setup**
-
-Insert photo
-
-
 
 ## **Display > basics**
 
@@ -29,31 +21,25 @@ Insert photo
 
 ## **Edge & Corner accuracy**&#x20;
 
-Rating: VERY GOOD.&#x20;
-
-Extremely accurate at edges and in corners. Among the best I've seen.&#x20;
+Rating: VERY GOOD.  Extremely accurate at edges and in corners. Among the best I've seen.&#x20;
 
 * Better than my Wacom Cintiq Pro 27 (which is also VERY GOOD).
 * Clearly better than Huion Kamvas 24 Pro 4K (which is TYPICAL)&#x20;
 
 ## **Anti-glare treatment**
 
-It uses an etched-glass surface.
-
-It does a very good job of reducing glare.
+It uses an etched-glass surface that does a very good job of reducing glare.
 
 In comparison:
 
-* a bit more glare reduction than the Cintiq Pro 22
-* around the same as the Huion Kamvas Pro 19&#x20;
+* has a bit more glare reduction than the Cintiq Pro 22
+* has around the same glare reduction as the Huion Kamvas Pro 19&#x20;
 
 ## **Anti-glare sparkle**
 
-Rating: VERY GOOD. \[LESS IS BETTER]&#x20;
+Rating: VERY GOOD. \[LESS IS BETTER] Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At normal drawing distance not visible..&#x20;
 
-Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At normal drawing distance not visible..&#x20;
-
-* On par with Wacom Cintiq Pro 27 (Which is GOOD).&#x20;
+* about the same as the Wacom Cintiq Pro 27 (Which is GOOD).&#x20;
 * Clearly better than with Huion Kamvas 24 Pro 4K (Which is OK)&#x20;
 
 ## **Color modes**
@@ -68,24 +54,20 @@ Slight AG Sparkle only noticeable when eye is \~4" away from glass or closer. At
 
 ### **sRGB mode**
 
-I used this display in only in SRGB mode.
+I used this display in only in SRGB mode. When setting sRGB mode the brightness stayed steady. Some pen displays and monitors reduce the brightness in sRGB mode, but that did not happen with this tablet.&#x20;
 
-When setting sRGB mode the brightness stayed steady. Some pen displays and monitors reduce the brightness in sRGB mode, but that did not happen with this tablet.&#x20;
-
-## **Pointer Lag**
+## **Pointer lag**
 
 Rating: Slightly above TYPICAL RANGE&#x20;
 
 Comparisons:
 
-* Wacom Cintiq Pro has a bit less lag.&#x20;
-* Comparable to but the Huion Kamvas 24 Pro 4K (Which is Typical) - maybe just a little more than the Huion.&#x20;
+* has a bit more than Wacom Cintiq Pro 27.&#x20;
+* is comparable to but the Huion Kamvas 24 Pro 4K (Which is Typical) - maybe just a little more than the Huion.&#x20;
 
 ## **Screen sharpness**
 
-The anti-glare etched glass adds a noticable amount softness to the pixels.&#x20;
-
-Below is the comparison between the Xencelabs Pen Display 24 and the Cintiq Pro 22.
+The anti-glare etched glass adds a noticable amount softness to the pixels. Below is the comparison between the Xencelabs Pen Display 24 and the Cintiq Pro 22. It can be hard for photos to be accurate about sharpness but these photos are close to what my eyes perceive.
 
 <figure><img src="../../.gitbook/assets/Slide_20240907_015550.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -141,13 +123,13 @@ In comparison the wobble for horizontal and vertical lines is:
 
 Kamvas Pro 19
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 Cintiq pro 27
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="340"><figcaption></figcaption></figure>
 
 </div>
 
@@ -155,7 +137,7 @@ Xencelabs pen display 24
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -177,7 +159,7 @@ Compared to other tablets
 * Has a bit more wobble than the Huion Kamvas Pro 24 4K
 * Has a bit more wobble than the XP-Pen Artist Pro 16 GEN2&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ## Smoothing settings to reduce wobble
 
@@ -198,26 +180,13 @@ Xencelabs is at least aware of the diagonal wobble.
 
 In this review post on reddit (posted July 12, 2023) there are some quoted responses from  Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 It's unclear if they are aware of the more general wobble I encountered.
 
-## **Driver**
+## **Driver UX**
 
-### Driver UX
-
-Rating: EXCELLENT&#x20;
-
-The best user experience and design of any tablet in the industry.
-
-## Multiple tablets on same computer
-
-The tablet driver does work correctly if multiple Xencelabs products are plugged into the computer at the same time.
-
-I tested with these tablets plugged in at the same time:
-
-* Xencelabs Pen Display 24
-* Xencelabs Pen Tablet Medium&#x20;
+Rating: EXCELLENT The best user experience and design of any tablet in the industry.
 
 ## **Pen**
 
@@ -255,4 +224,3 @@ Completely quiet. No noise.
 After leaving it on for 3 hours with brightness set at 100%, the overall surface has a slightly warm feel - close to body temperature.
 
 In comparison, I left it on for 3 hours with the brightness set at 50%, and the the surface felt much closer to room temperature with a slight body temperature warmth towards the left side of the display.&#x20;
-

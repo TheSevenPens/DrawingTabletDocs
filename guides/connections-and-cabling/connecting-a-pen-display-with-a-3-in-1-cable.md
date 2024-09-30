@@ -6,17 +6,17 @@ More here on the different ways a pen display can be connected to a computer:  [
 
 A 3-in-1 cable typically looks like this:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 The power end can work in different ways depending on which 3-in-1 cable you have
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 Older 3-in-1 cables may have a proprietary connection to the tablet instead of a regular USB-C connection.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ## Benefits of a 3-in-1 cable
 

@@ -4,9 +4,7 @@
 
 These RAM recommendations are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
 
-
-
-<table><thead><tr><th width="115">RAM</th><th>MY TAKE</th></tr></thead><tbody><tr><td>4GB </td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB </td><td>OK-ish. TOLERABLE for basic 2D art.</td></tr><tr><td>16GB</td><td>GOOD - the average person will be fine here</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
+<table><thead><tr><th width="115">RAM</th><th>MY EVALUATION</th></tr></thead><tbody><tr><td>4GB </td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB </td><td>OK. Should be fine basic 2D art. Good place to start for a beginner.</td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT. </td></tr></tbody></table>
 
 ## Pen display connection
 
@@ -25,67 +23,45 @@ Pen displays on the other hand draw a lot of power and if your laptop is powerin
 For a pen display, you should either
 
 * Keep the laptop connected to power from the wall.&#x20;
-* Or, connect the pen display to get power from another source
+* Or, connect the pen display to get power from another source.
 
-## Specific laptops I recommend
+## Simultaneous monitors supported
 
-### Windows
+If you are getting as pen display it essential willa ct as another monitor.
 
-* [Surface Pro 8, 9, and 10](../product-info/microsoft/microsoft-surface-pro-9.md) (**but NOT 11** - see the note on Windows on ARM Below)&#x20;
-* Surface Laptop Studio&#x20;
+So you should verify your laptop can handle that many monitors.
+
+* Some laptops for example can only handle two displays: their built in display and external monitor.
+* Some laptops can handle 3 displays simultaneously
+* And a few laptops can handle 4
+
+## Laptops have used and I recommend
+
+* [Surface Pro 8, 9, and 10](../product-info/microsoft/microsoft-surface-pro-9.md) &#x20;
+  * [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro 8**</mark>](../product-info/microsoft/7p-notes-microsoft-surface-pro-8.md) &#x20;
+* 2023 M3 MacBook Pro - [<mark style="background-color:green;">**7P notes: 2023 M3 MacBook Pro**</mark>](../product-info/apple/7p-notes-m3-macbook-pro.md)  &#x20;
 * Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM Below)&#x20;
+
+## Laptops I have not used but should work well
+
+Check the reviews for these laptops
+
+* Surface Laptop Studio&#x20;
 * Samsung Galaxy Book3 Pro 360&#x20;
 * Samsung Galaxy Book4 Pro 360 &#x20;
+* Samsung Galaxy Book5 Pro 360 &#x20;
+* ASUS ProArt PX13
+* ASUS ProArt P16
 
-### Important note on Windows on ARM laptops
+### Laptops I do NOT recommend
+
+#### Windows ARM laptops (FOR NOW)
 
 <mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](windows/windows-on-arm.md).
 
-### Macs
-
-* 2023 M3 MacBook Pro
-
-### **Chromebooks**
+#### **Chromebooks**
 
 I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](general/using-a-drawing-tablet-with-a-chromebook.md).
-
-## What I use
-
-### Microsoft Surface Pro 8
-
-I've been using a Surface Pro 8 with 16GB of RAM and 500GB of storage for two years now.
-
-I connect it the Microsoft Surface Dock 2 for power and network connectivity.
-
-I use two  Thunderbolt 3 cables from the Surface Pro 8 to connect two 4K 60Hz displays (one of those will be the a 4K pen display)&#x20;
-
-The Surface Pro can be used for drawing with its own pen. However I don't like drawing with the Surface pen. Instead,  I prefer to use attached drawing tablets.&#x20;
-
-**Connected tablets**&#x20;
-
-Most often, I use these tablets with my Surface Pro 9:
-
-* Wacom Intuos Pro (PTH-860)
-* Wacom Cintiq Pro 27 (DTH-271)
-* Wacom Cintiq Pro 16 (DTH-167)
-
-Though I've used every kind successfully: Huion, XP-Pen, and Xencelabs.
-
-### 2023 M3 Macbook Pro
-
-* Size: 14" (I wish I had purchased the 16" though)
-* Chip: M3 Pro
-* Memory: 36GB
-* Storage: 1TB
-
-I've used it for about 6 months as of June 2024 and my experience with it has been fantastic. I have no problems recommending it.&#x20;
-
-It has three Thunderbolt 4 ports which is excellent.
-
-## Other laptops to consider
-
-* ASUS ProArt PX13
-* ASUS ProArt P16
 
 ## Videos
 
@@ -100,6 +76,8 @@ It has three Thunderbolt 4 ports which is excellent.
 * [https://www.creativebloq.com/buying-guides/best-laptop-for-drawing](https://www.creativebloq.com/buying-guides/best-laptop-for-drawing)
 
 ## Places to find other suggestions
+
+Please make use of the community (for example on reddit) to get feedback and guidance on a laptop for your needs.
 
 * Reddit: [r/SuggestALaptop](https://www.reddit.com/r/SuggestALaptop/) &#x20;
 * Reddit: [r/DigitalPainting](https://www.reddit.com/r/DigitalPainting/) &#x20;

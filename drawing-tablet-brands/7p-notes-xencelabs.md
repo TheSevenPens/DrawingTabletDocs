@@ -6,11 +6,10 @@ Xencelabs ([https://www.xencelabs.com/](https://www.xencelabs.com/)) is trying t
 
 They are a very new brand and have a small product line as of Jan 2024:
 
-* Xencelabs Pen Display 23&#x20;
-* Xencelabs Pen Tablet Medium
+* Xencelabs Pen Display 24: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-notes-xencelabs-lph2412u-a.md)
+* Xencelabs Pen Display 16: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-notes-xencelabs-lph1612u-a.md)
+* Xencelabs Pen Tablet Medium: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-notes-xencelabs-bph1212w-a.md)  (very minimal notes)
 * Xencelabs Pen Tablet Small
-
-I used a Xencelabs Medium tablet (BPH1212W-A) for about six months. I was very satisfied with it for doing artwork. But that was before I started learning more about how tablets worked, so I'm sure I missed evaluating it completely.
 
 ### What Xencelabs does well
 

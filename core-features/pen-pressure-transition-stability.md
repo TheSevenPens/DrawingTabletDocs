@@ -18,7 +18,7 @@ NOTE: Your hand itself will introduce imperfections in a stroke. So it takes som
 
 Compare the three cases below. The example on the far right has noticeable "pulsing" effect which is a common way this instability shows up.
 
-<figure><img src="../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (492).png" alt=""><figcaption></figcaption></figure>
 
 ##
 

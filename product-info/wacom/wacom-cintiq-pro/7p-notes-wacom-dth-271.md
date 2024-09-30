@@ -266,7 +266,7 @@ My usage: I left it at **Native**.
 * You CAN angle it so that the surface is **perpendicular to the floor**.&#x20;
   * However, then essentially the bottom edge is directly touching your desk. So it isn't very useful in that position if you just want to use it as a monitor with this stand.
 * You can angle it so that the surface is facing completely upwards and **parallel to the floor**.
-  * ![](<../../../.gitbook/assets/image (284).png>)
+  * ![](<../../../.gitbook/assets/image (357).png>)
 
 ### Height adjustability
 

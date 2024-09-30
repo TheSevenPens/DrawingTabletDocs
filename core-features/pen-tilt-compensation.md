@@ -2,7 +2,7 @@
 
 In order to correctly represent the position of the pen. The tablet has to perform something called tilt compensation. This means adjusting the pointer position, depending on how much the pen is tilted.
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (494).png" alt="" width="375"><figcaption></figcaption></figure>
 
 This is very important for EMR tablets because the digitizer is sensing an inductor inside the pen. And that inductor is not close to the tip of the pen. It's deeper inside the pen.
 

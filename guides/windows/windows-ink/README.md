@@ -29,17 +29,17 @@ Drivers show it most often as a Windows Ink checkbox. If the box is checked, the
 
 Here's an example from the Wacom Tablet properties app.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Apps usually express it as an API choice and let you can see Windows Ink or WinTab in their UX. Here's an example from Krita.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Another thing Krita demonstrates is that Windows Ink can go by different names.
 
 Here's what it looks like in Clip Studio paint.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="298"><figcaption></figcaption></figure>
 
 ## Tip: Be aware of Windows Ink configuration
 
@@ -49,7 +49,7 @@ Sometimes applications have trouble working with one of the APIs, so switching t
 
 This diagram shows the typical initial configuration for apps and drivers. Usually every app and driver is configured by default to Use Windows Ink.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,7 +57,7 @@ This diagram shows the typical initial configuration for apps and drivers. Usual
 
 As of 2023 enough applications on Windows support Windows Ink (or require it) that I suggest this configuration:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 * In the tablet driver:
   * Enable Windows Ink for all apps

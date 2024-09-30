@@ -14,7 +14,7 @@ The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with p
 
 This diagram is my summary how their consumer line of tablets is evolving
 
-<figure><img src="../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
 
 ## Branding
 
@@ -69,7 +69,7 @@ The Wacom One (Gen 2) pen displays can be connected three ways
 
 Wacom estore says there is "no parallax"
 
-![](<../../../.gitbook/assets/image (367).png>)
+![](<../../../.gitbook/assets/image (440).png>)
 
 This is a physical impossibility in a pen display that has a piece of glass over the display panel. I demonstrated this clearly in my video on pen display accuracy: [https://youtu.be/M4rEk\_RNBrM](https://youtu.be/M4rEk\_RNBrM)&#x20;
 

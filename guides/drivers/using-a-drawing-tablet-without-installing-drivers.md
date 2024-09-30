@@ -48,7 +48,7 @@ If you are interested in using OTD as your tablet driver on Windows and want to 
 
 You can bind the pen buttons to several kinds of actions:
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (113).png>)
 
 * **Mouse Button Binding** is not supported
 * **Key Binding** is supported
@@ -57,7 +57,7 @@ You can bind the pen buttons to several kinds of actions:
 
 For **Windows Ink** here are the options:
 
-&#x20;![](<../../.gitbook/assets/image (265).png>)
+&#x20;![](<../../.gitbook/assets/image (338).png>)
 
 If you specify **Pen Button**, the effective behavior you will get in an application is a mouse right-click.
 

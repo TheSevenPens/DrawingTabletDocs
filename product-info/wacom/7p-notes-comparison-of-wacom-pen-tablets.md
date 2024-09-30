@@ -13,7 +13,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 * **Wacom One GEN2** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
 * **Intuos Pro** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
-<figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (487).png" alt=""><figcaption></figcaption></figure>
 
 ## Wacom One GEN2 tablets
 
@@ -33,7 +33,7 @@ More here: [7P notes: Wacom One GEN2](wacom-one-gen2/7p-notes-wacom-one-gen2-dra
   * If you want to spend less get a One by Wacom MEDIUM (CTL-672) or a Intuos Medium (CTL-6100, CTL-6100WL)&#x20;
 * **Photo-editing** - i.e. you aren't doing anything that requires "strokes" - then the One by Wacom SMALL (CTL-472) is fine.
 * **Using the tablet as a mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
-* **Taking notes**. I don't recommend pen tablets in general for taking notes. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../guides/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
+* **Taking notes**. I don't recommend pen tablets in general for taking notes. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../basics/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
 * **Play Osu!** - One by Wacom SMALL (CTL-472) or One by Wacom SMALL MEDIUM (CTL-672) are the best choices. For more information regarding tablets for osu! and other tablet options consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).&#x20;
 * **Exploring drawing tablets** - this is if you are not sure if you are going to use a drawing tablet, but just want to dabble without spending a lot.&#x20;
   * Start with a One by Wacom SMALL (CTL-472) for general usage.&#x20;

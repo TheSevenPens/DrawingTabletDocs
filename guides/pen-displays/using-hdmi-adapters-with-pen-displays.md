@@ -60,7 +60,7 @@ I don't have any direct experience with DVI to HDMI, but some people seem to hav
 
 Note that there are multiple DCI port shapes
 
-<figure><img src="../../.gitbook/assets/image (387).png" alt="" width="134"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (460).png" alt="" width="134"><figcaption></figcaption></figure>
 
 Videos:
 

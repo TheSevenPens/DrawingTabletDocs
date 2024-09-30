@@ -36,7 +36,7 @@ Click **About > Diagnose**
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (415).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (488).png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ When you select a tablet you will see it right on the home page for that tablet.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (417).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (490).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
