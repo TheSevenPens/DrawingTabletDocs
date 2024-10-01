@@ -1,14 +1,11 @@
 # Microsoft Surface Pro
 
-## Overview
-
-* [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro**</mark>](7p-notes-microsoft-surface-pro-8.md)
-
 ## Microsoft Surface Pro 11&#x20;
 
 * [Teoh on Tech - Surface Pro 11 (2024) artist review: Pen and OLED issues, amazing battery life ](https://www.youtube.com/watch?v=KVO3BNoUnWw)2024/09/22
 * [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD\_tbn\_i50) 2024/06/28&#x20;
 * [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2024/06/26&#x20;
+* [Teoh on Tech -Surface Pro 11 - Handwriting Note Taking Test](https://www.youtube.com/watch?v=SkEdp9XYMTk) 2024/09/29
 
 ## Microsoft Surface Pro 9
 
@@ -19,6 +16,7 @@
 ## Microsoft Surface Pro 8
 
 * Product page: [https://www.microsoft.com/en-us/d/surface-pro-8](https://www.microsoft.com/en-us/d/surface-pro-8)&#x20;
+* [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro 8**</mark>](7p-notes-microsoft-surface-pro-8.md)
 * [MobileTechReview review of Microsoft Surface Pro 8](https://youtu.be/v2mOtMiGN7s)&#x20;
 * [Brad Colbow review of Surface Pro 8](https://youtu.be/OG-y1NlRp3g) &#x20;
 * [Tech on Tech review of Microsoft Surface Pro 8](https://youtu.be/wNtmOONAyxk)&#x20;
@@ -28,7 +26,7 @@
 
 ## Microsoft Surface Pro 7
 
-NOTE: I do **NOT** recommend the Microsoft Surface Pro 6 for use as a drawing tablet.
+<mark style="color:red;">NOTE: I do</mark> <mark style="color:red;"></mark><mark style="color:red;">**NOT**</mark> <mark style="color:red;"></mark><mark style="color:red;">recommend the Microsoft Surface Pro 7 for use as a drawing tablet.</mark>
 
 * [Brad Colbow Surface Pro 7 Review](https://www.youtube.com/watch?v=3r4ykYCYDIM) 2019/10/28
 * [MobileTechReview review of Surface Pro 7](https://www.youtube.com/watch?v=3YT87jwNoaA) 2019/10/30&#x20;
@@ -36,7 +34,7 @@ NOTE: I do **NOT** recommend the Microsoft Surface Pro 6 for use as a drawing ta
 
 ## Microsoft Surface Pro 6
 
-NOTE: I do **NOT** recommend the Microsoft Surface Pro 6 for use as a drawing tablet.
+<mark style="color:red;">NOTE: I do</mark> <mark style="color:red;"></mark><mark style="color:red;">**NOT**</mark> <mark style="color:red;"></mark><mark style="color:red;">recommend the Microsoft Surface Pro 6 for use as a drawing tablet.</mark>
 
 * [Teoh Yi Chie - Artist Review: Surface Pro 6 (2018)](https://www.youtube.com/watch?v=ziHPI20Rn0k) 2019/02/13
 * [Brad Colbow - Surface Pro 6 - An Artist's review](https://www.youtube.com/watch?v=nqWMtz4lv0s) 2018/10/17
