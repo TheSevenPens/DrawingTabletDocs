@@ -1,7 +1,20 @@
 # Microsoft Surface Pro
 
+## Overview
+
+The Microsoft Surface Pro is a tablet-style laptop almost always used with an optional keyboard cover.&#x20;
+
+**Surface Pro versions 8 and above**
+
+With the optional Surface Slim Pen 2, the Surface Pro 8 and above can serve well for note taking. And if needed can work somewhat as a drawing tablet. Though I do not recommend purchasing one for use as a drawing tablet.
+
+**Surface Pro versions 7 and below**
+
+Compared to versions 8 and above, the pen experience is worse. Again it can serve OK for notetaking but not for drawing.&#x20;
+
 ## Microsoft Surface Pro 11&#x20;
 
+* The Surface Pro 11 uses an ARM chip. More here: [Windows on ARM](../../guides/windows/windows-on-arm.md)
 * [Teoh on Tech - Surface Pro 11 (2024) artist review: Pen and OLED issues, amazing battery life ](https://www.youtube.com/watch?v=KVO3BNoUnWw)2024/09/22
 * [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD\_tbn\_i50) 2024/06/28&#x20;
 * [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2024/06/26&#x20;
