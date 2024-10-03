@@ -6,27 +6,28 @@ We are now seeing Windows computers running on ARM processors. This holds gives 
 
 ## Drawing tablets compatibility with Windows on ARM
 
-Unfortunately, As of 2024/06/18 no drawing tablets work when used with Windows on ARM processors. I had been hoping that tablet manufacturers would have already updated their drivers in preparing for the widespread availability of ARM PCs in June of 2024. However that did not happen. And existing intel tablet drivers do not work correctly.
+You cannot use older tablet drivers with Windows on ARM devices. These require special ARM compatible drivers. Different brands are at different stages of ARM support as described below:
 
-I do expect this situation will be addressed quickly with driver updates. And I will update this page as the situation evolves.
+As of 2024/10/03:
+
+* **Xencelabs**: Has an beta ARM driver available [https://www.xencelabs.com/support/download-drivers](https://www.xencelabs.com/support/download-drivers)
+* **Huion**: Actively working on an ARM driver. Not available for download yet.
+* **Wacom**: Actively working on an ARM driver. Not available for download yet. See this link: [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
+* **XP-Pen**: I asked them and they had no comment on whether they were working on an ARM driver or when one might be expected.
 
 ### June 2024 update video
 
 {% embed url="https://www.youtube.com/watch?v=3RGkj0vs-z0" %}
 
-### Manufacturer driver testing results
+### Testing of older Windows tablet drivers on ARM
 
-I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdragon X Elite processor.&#x20;
+I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdragon X Elite processor.  The summary is these older Windows drivers do NOT work on ARM devices.&#x20;
 
-### WACOM drivers
-
-**Wacom ARM driver status** - Wacom is aware of the issue and is working on ARM drivers - [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
+**Wacom ARM driver status** - Wacom is aware of the issue and is working on ARM drivers -&#x20;
 
 * driver version 6.4.6-2&#x20;
   * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installer says the operating system is not supported.
   * tested on 2024/06/18
-
-### XP-PEN drivers
 
 **XP-Pen ARM driver status** - I contacted XP-Pen support and they have not communicated any plans about an ARM driver
 
@@ -37,17 +38,11 @@ I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdra
   * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installs but driver UI crashes, pen does not move pointer
   * tested on 2024/06/18
 
-### HUION drivers
-
 **Huion ARM driver status** - They are actively working on a ARM driver.
 
 * driver version v15.7.6.1073&#x20;
   * status: <mark style="color:red;">**DOES NOT WORK**</mark> - driver UI does not launch, pen does not move pointer
   * tested on 2024/06/18
-
-## XENCELABS drivers
-
-Xencelabs ARM driver status - they are actively working on an ARM driver and have a beta version you can try out at on their driver download page [https://www.xencelabs.com/support/download-drivers](https://www.xencelabs.com/support/download-drivers)
 
 ## Older Windows ARM devices
 
