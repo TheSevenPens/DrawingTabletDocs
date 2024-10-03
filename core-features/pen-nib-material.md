@@ -2,29 +2,27 @@
 
 ## Overview
 
-The nibs of drawing tablet pens can be made of different materials. The most common nib material is plastic or felt. The vast majority of pens, by default, have a plastic nib pre-installed. Though I know of at least one case where a pen has a felt nib preinstalled (The Huion PW600 and PW600S). The numerical can greatly affect the drawing experience.
+The nibs of drawing tablet pens can be made of different materials. The most common nib material is plastic or felt. The vast majority of pens, by default, have a plastic nib pre-installed.&#x20;
 
-## Effects of nib material
+The reason for different materials is that they greatly impact the sensation of "texture" you experience.
 
-**Surface texture** - Drawing with plastic nib feels smoother. Felt adds a little extra sensation of texture
+## Subjective impact on texture
 
-**Nib wear** - Felt nibs will wear down more than plastic nibs.
+* Plastic nibs generally feel smoother when drawing on a given surface. Some of the surface texture will get transmitted through the plastic nib.
+* Felt nibs provide a little more friction and many people say it can make a tablet surface feel more like traditional paper.&#x20;
+* I always suggest giving felt nibs a try, you may enjoy how it feels.
 
-**Impact damage** - I've dropped pens with felt nibs and found that a drop is more likely to affect damage the felt nib.&#x20;
+## Wear and tear
 
-## Wacom ONE (GEN2) nib material choices
+Both kinds of nibs wear over time and the amount of wear depends on how "heavy-handed" you are. But these materials are a little different.
 
-Wacom offers three materials for some of their tablets such as the Wacom One:
+* Plastic nibs wear down less.
+* Felt nibs are more prone to wearing down.  Also if you drop your pen and it hits the nib, sometimes I have found that the felt nib can be more easily damaged.
 
-* standard
-* elastomer
-* felt
+## Example: Wacom One GEN2 pen (CP-923) nib material&#x20;
 
-See this video for an explanation of how standard, elastomer, and felt feel: [https://www.youtube.com/watch?v=APAO-yWc\_PY](https://www.youtube.com/watch?v=APAO-yWc\_PY) &#x20;
+Wacom offers three materials for this pen (standard, elastomer, felt). See this video for an explanation of how standard, elastomer, and felt feel: [https://www.youtube.com/watch?v=APAO-yWc\_PY](https://www.youtube.com/watch?v=APAO-yWc\_PY) &#x20;
 
 ## Metal nibs
 
 I DO NOT recommend [**using a metal nib**](../guides/customizing-your-experience/using-metal-nibs.md).
-
-
-
