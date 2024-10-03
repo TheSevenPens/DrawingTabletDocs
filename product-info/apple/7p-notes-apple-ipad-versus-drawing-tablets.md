@@ -15,9 +15,9 @@ In this document, I compare iPads to these two kinds of drawing tablets:
 
 ## Standalone use&#x20;
 
-* iPads are standalone devices. You can use them without being attached (wired or wireless) to a computer.
-* Pen tablets - Cannot be used standalone. They require being connected to a computer. Some require a wired connection. Some require a wireless connection.
-* Pen displays - Cannot be used standalone. All pen displays require a wired connection to a computer.
+* **iPads** are standalone devices. You can use them without being attached (wired or wireless) to a computer.
+* **Pen tablets** - Cannot be used standalone. They require being connected to a computer. Some require a wired connection. Some require a wireless connection.
+* **Pen displays** - Cannot be used standalone. All pen displays require a wired connection to a computer.
 
 ## Apps
 
@@ -121,6 +121,20 @@ For drawing tablet pens, it varies substantially by the specific pen model. For 
 ### Pressure levels
 
 The number of pressure levels for a pen is a heavily marketing and discussed topic. However, in my opinion all modern drawing tablet pens and the Apple pencil have more than enough pressure levels for any use. I suggest that you do NOT make the number of pressure levels a factor in any decision making.&#x20;
+
+## Size & Active Area
+
+The active area of  drawing tablet is the region on the tablet that detects the pen. For a pen tablet, the active area is identified by markings on the surface. For a pen displays and iPads the active area is exactly the same size as the screen.  &#x20;
+
+Measuring diagonally, the difference devices vary in sizes
+
+* Pen tablets - from 7" (small) to 11" (medium) to 15" (large).&#x20;
+* Pen displays - from 13" (small) to 16" (medium) to 24" (large). And there are many other sizes such as 22" and 27" and some are even 32".
+* iPads are only available in smaller sizes: usually only 11" to 13"
+
+Some people really prefer drawing on a big screen on their desk so they use pen displays for this reason. For example at my desk I prefer drawing on a 22" pen display.
+
+When drawing on-the-go, the ipad size is quite convenient.
 
 ## Using both and iPad and a drawing tablet
 
