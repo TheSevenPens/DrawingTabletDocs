@@ -17,17 +17,13 @@ Size has a huge impact on how the tablet feels to use especially with the 16X9 a
 * The size of the S9 FE is compact which makes it portable but big enough for me to draw on the couch and in bed and when I am travelling.  &#x20;
 * The S8 Ultra is very big. This works great when using it like a laptop, but it's size with its 16x9 aspect ratio can a bit just too much to deal with when holding close to drawing.
 
-## Pointer lag
+## Pens
 
-RATING: Very good
-
-All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
-
-## Standard pens
+### Standard pens
 
 The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-notes-samsung-s-pen.md).
 
-## Compatible Pens
+### Compatible Pens
 
 These tablets. they are also compatible with a few other pens.&#x20;
 
@@ -39,9 +35,15 @@ The Wacom CP-913 pen provides an better experience with this device. When I draw
 
 This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen GEN2 (CP-923)](../wacom/wacom-pens/7p-notes-wacom-cp-923.md)&#x20;
 
+## Pointer lag
+
+RATING: Very good
+
+All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
+
 ## System lag
 
-* The S8 and S9 are incredibly responsive and I don't notice much lag. They seemed as responsive as an iPad.
+* The S8 and S9 are incredibly responsive and I don't notice much lag. They seemed almost as responsive as an iPad.
 * The S6 LITE is a little laggy when scrolling and using apps, but for basic line art with the Infinite Painter app I felt it was responsive.&#x20;
 
 ## Apps
@@ -61,16 +63,19 @@ More here: [**Applications**](../../applications/)&#x20;
 
 You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
-## Using A Galaxy Tab S tablet as an external monitor via USB-C
+## Using a Galaxy Tab S tablet as an external monitor via USB-C
 
-This means sending a display signal from a computer to this tablet.
-
-This tablet has no built in way to act as a monitor for your PC via USB-C.
+This means sending a display signal from a computer to this tablet. These tablets have no built in way to act as a monitor for your PC via USB-C.
 
 Some people report that they can use software called [SuperDisplay](https://superdisplay.app/) to make this happen, but I have not tried it.&#x20;
 
 ## Using an external monitor via USB
 
-This means sending a display signal from the tablet to an external monitor.
+This means sending a display signal from the tablet to an external monitor. Whether this works depends on the model involved. My understanding is that only the Galaxy Tab S Ultra series can do this.
 
-This is not supported and does not work.
+In my testing
+
+* Samsung Galaxy Tab S8 Ultra- can use an external monitor
+* Samsung Galaxy Tab S9 FE - can not use an external monitor
+* Samsung Galaxy Tab S6 LITE - can not use an external monitor
+
