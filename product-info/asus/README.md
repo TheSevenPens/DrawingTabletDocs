@@ -8,7 +8,8 @@
 
 ### ASUS ProArt PX13&#x20;
 
-* [MobileTechReview - Asus ProArt PX13 Review](https://www.youtube.com/watch?v=kcGxlhS-YZo) 2024/08/12&#x20;
+* [Teoh on Tech - Review of ASUS ProArt PX13](https://www.youtube.com/watch?v=2TktnIH8g4M) 2024/10/04
+* [MobileTechReview - Review of Asus ProArt PX13 ](https://www.youtube.com/watch?v=kcGxlhS-YZo)2024/08/12&#x20;
 * [Brad Colbow - Reiview of Asus ProArt PX13](https://www.youtube.com/watch?v=JcT6CZHBXgY) - 2024/08/05
 
 ### ASUS ProArt P16
