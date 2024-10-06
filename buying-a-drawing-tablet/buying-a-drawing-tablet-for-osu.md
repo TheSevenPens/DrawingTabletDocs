@@ -19,6 +19,4 @@ You could also buy one of these tablets below, which are also great for osu, but
 
 ## Wacom guidance (with caution)
 
-Wacom lists recommended tablets for osu here: [https://estore.wacom.com/en-us/osu](https://estore.wacom.com/en-us/osu). However, they list some tablets that are NOT recombed for osu.&#x20;
-
-For example, they list some tablets which all have smoothing on hover - which are not as good for playing osu as the ones I list above.
+Wacom lists recommended tablets for osu here: [https://estore.wacom.com/en-us/osu](https://estore.wacom.com/en-us/osu). However, they list some tablets that are NOT recombed for osu. So, I recommend you disregard their list andpick from the models listed above or the one Kuuube recommends.
