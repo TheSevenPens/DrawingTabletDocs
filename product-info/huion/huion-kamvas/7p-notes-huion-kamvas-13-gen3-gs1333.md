@@ -1,10 +1,8 @@
 # 7P notes: Huion Kamvas 13 GEN3 (GS1333)
 
-<mark style="color:red;">**NOTE: I just received this tablet on 2024/09/17 so I have just started looking through it. This evaluation is still IN PROGRESS**</mark>
-
 ## Overview
 
-<mark style="color:red;">DRAFT: So far this tablet has performed extremely well in my limited testing. If there are no major issues, I think it will likely be on by recommended list and one I easily recommend for a beginner or consumer level tablet.</mark>
+The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I think it makes an excellent choice for a entry-level tablet. In particular the pressure range of the PS600L pen was a huge improvement over the PW517 pen that came with the previous Kamvas 13 (GS1331).
 
 ## Basics
 
@@ -31,13 +29,13 @@ Pixels are clear and well delineated. The image does not look "soft".
 
 ## Pen
 
-* 1x PW600L pen
+It comes with the PW600L pen. It has excellent pressure range but does not have an eraser like the other PW600 pens.
+
+More here: [**PW600 series pens**](../huion-pen-models/huion-pw600-series-pens.md)
 
 ## Pointer lag
 
-TYPICAL for a pen display.&#x20;
-
-The pointer lag did not intefere with my drawing in any way.
+TYPICAL for a pen display.  The pointer lag did not interfere with my drawing in any way.
 
 ## Compatible pens
 
@@ -46,6 +44,8 @@ The PenTech 4.0 pens work with it. I tested these three:
 * PW600L
 * PW600
 * PW600S
+
+More here: [**PW600 series pens**](../huion-pen-models/huion-pw600-series-pens.md)
 
 ## Pen tracking accuracy
 
