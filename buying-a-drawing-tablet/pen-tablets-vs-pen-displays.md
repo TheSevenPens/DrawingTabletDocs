@@ -148,6 +148,20 @@ Given their size and weight and need for a single cable (or even wireless capabi
 
 Also with a pen display, you will need to protect it more because it is more sensitive to damage. See [**protective cases**](../accessories/protective-cases.md).
 
+## Diagonal wobble
+
+[Diagonal wobble](pen-tablets-vs-pen-displays.md#diagonal-wobble) is a slight "wobbly" inaccuracy in tracking the pen position. It is present in ALL drawing tablets to various degrees.
+
+In my testing I have found no clear pattern that indicates that pen tablets or pen displays are prone to more or less diagonal wobble. Instead it seems to be linked to the specific tablet model involved.
+
+You can see the different diagonal wobble samples I have collected here: [**Diagonal wobble samples**](../process/diagonal-wobble-samples.md).
+
+## Pen pressure handling
+
+The behavior of a tablet with regard to pressure (IAF, max pressure, etc.) depends on the pen that is used, not the tablet.&#x20;
+
+There are a few exceptions - there are 1 or 2 tablets that I think do a particularly bad job of pressure independent of the pen, but those are exceedingly rare. &#x20;
+
 ## Videos
 
 * [**Teoh on Tech -** 9 things to know about pen displays before you buy one](https://youtu.be/Ez7l1C49ClE) Jan 6, 2023
