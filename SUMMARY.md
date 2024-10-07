@@ -75,6 +75,7 @@
   * [ExpressKeys](core-features/expresskeys.md)
   * [Absolute versus relative positioning](core-features/absolute-versus-relative-positioning.md)
   * [Mouse mode](core-features/mouse-mode.md)
+  * [Powering a pen](core-features/powering-a-pen.md)
   * [Powering a drawing tablet](core-features/powering-a-drawing-tablet.md)
 * [Guides](guides/README.md)
   * [Caring for your drawing tablet](guides/caring-for-your-tablet/README.md)
