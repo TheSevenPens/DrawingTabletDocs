@@ -24,7 +24,7 @@ And ultimately the goal is to provide you enough information so that you can mak
 
 This document summarizes many very deep topics. If you want more information, consult the [**buying guide**](./) which covers all these topics in detail.&#x20;
 
-## Dispelling a common myths
+## Dispelling common myths
 
 **MYTH: A pen display is inherently better than a pen tablet**
 
