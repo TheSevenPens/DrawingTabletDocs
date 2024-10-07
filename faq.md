@@ -8,19 +8,24 @@ An overview of the brands and my take on some of them are here: [**drawing table
 
 ### Q: Which an iPad better than a drawing tablet?
 
-&#x20;Read : [using an iPad as a drawing tablet](product-info/apple/7p-notes-apple-ipad.md)
+&#x20;Read : [**using an iPad as a drawing tablet**](product-info/apple/7p-notes-apple-ipad.md)
 
 ### Q: Can I use a drawing tablet with my iPad or iPhone?
 
-It is possible in some cases. More here: [Using a drawing tablet with an iOS device](guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
+It is possible in some cases. More here: [**Using a drawing tablet with an iOS device**](guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
 
 ### Q: Can I use a drawing tablet with a Chromebook?
 
-YES, It is possible, but be prepared for potential limitations. Read more here: [Using a a drawing tablet with a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
+YES, It is possible, but be prepared for potential limitations. Read more here: [**Using a a drawing tablet with a Chromebook**](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
 
 ### Q: What size drawing tablet should I get?
 
-It really depends on a lot of factors. See the full write up here: [**tablet size**](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+It really depends on a lot of factors.&#x20;
+
+* For pen tablets - I recommend a MEDIUM size (about 11")
+* For pen displays - I recommend a MEDIUM size (about 16") though many start off with a 13" and I personally prefer a 22"
+
+More here: [**tablet size**](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
 
 ### Q: Should I update the tablet firmware?
 
@@ -28,7 +33,7 @@ Answer: Yes, but ONLY if the manufacturer recommends it. More here: [**firmware*
 
 ### Q: Should I get a pen tablet or pen display?
 
-See this: [**Pen tablets vs pen displays**](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
+There is no single right answer. Each has pros and cons. More here: [**Pen tablets vs pen displays**](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
 
 ## Pen Displays
 
@@ -40,9 +45,9 @@ To avoid the light sources from interfering with using your drawing tablet, Manu
 
 Answer: YES. But there are some things you should consider if you want to use it this way: [**Using a pen display as a monitor**](guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md)
 
-### Q: Why does my pen display show an after image?
+### Q: Why does my pen display show a temporary after image?
 
-This is temporary phenomena called **Image Persistence** ([https://en.wikipedia.org/wiki/Image\_persistence](https://en.wikipedia.org/wiki/Image\_persistence)) This is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen\_burn-in)).
+This is temporary phenomena called [**Image Persistence**](https://en.wikipedia.org/wiki/Image\_persistence). This is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen\_burn-in)).
 
 ### Q: Can I use a pen display without plugging in the HDMI cable?
 
