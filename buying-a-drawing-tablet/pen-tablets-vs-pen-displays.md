@@ -24,27 +24,27 @@ This document summarizes many very deep topics. If you want more information, co
 
 ## Dispelling common myths
 
-**MYTH: A pen display is inherently better than a pen tablet**
+### MYTH: A pen display is inherently better than a pen tablet
 
-**REALITY: Neither is better. Which one you should use depends on a lot of factors**
+<mark style="color:red;">**REALITY: Neither is inherently better. Which one you should use depends on a lot of factors**</mark>
 
 Pen displays look really fancy and cost much more than a pen tablet. And it would be natural to think that this means that pen displays are in some way fundamentally better than a pen tablet. That is absolutely not true. Pen tablets have their own merits. So do not think about a pen tablet as simply a lower cost option that you have to “settle for.” For many people it is the right answer.
 
-**MYTH: Professional artist only use pen displays**
+### MYTH: Professional artist only use pen displays
 
-**REALITY: Professional artists use both pen displays and pen tablets**
+<mark style="color:red;">**REALITY: Professional artists use both pen displays and pen tablets**</mark>
 
 Another common myth is that professionals only use pen displays. Again this is absolutely not true. There are many professional artists who use pen tablets out of preference and or doing high quality professional work with those pen tablets.
 
-**MYTH: People naturally prefer using a pen display. The only reason they use pen tablets is because they are cheaper.**
+### MYTH: People naturally prefer using a pen display. The only reason they use pen tablets is because they are cheaper.
 
-**REALITY: Lots of people try pen displays, and go back to pen tablets.**
+<mark style="color:red;">**REALITY: Lots of people try pen displays, and go back to pen tablets**</mark>
 
 I see countless stories of people who love using their pen tablet but feel the need to get a pen display and then when they tried the pen display they realized that the pen tablet worked much better for them. And then they end up returning.
 
-**MYTH: Pen displays let you create better art**
+### MYTH: Pen displays let you create better art
 
-**REALITY: Both pen displays and pen tablets can create equivalently good art.**
+<mark style="color:red;">**REALITY: Both pen displays and pen tablets can create equivalently good art**</mark>
 
 Some people worry that the quality of art they want to produce can only be produced by a pen display. You shouldn't let that worry you. People have been producing amazing art with pen tablets for decades. There are definitely some benefits to using a pen display, but the quality of art than can be made is not a factor.
 
