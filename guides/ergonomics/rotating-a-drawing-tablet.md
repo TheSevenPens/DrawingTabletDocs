@@ -18,7 +18,12 @@ Most drawing tablets support these rotations:
   * In the system's display settings, rotate the the the desktop on the pen display
 * Physically rotate the tablet
 * You can perform these steps in any order.
-* Here is a demonstration of how to rotate a pen display: [https://youtu.be/\_OkANovOxBQ](https://youtu.be/\_OkANovOxBQ)&#x20;
+
+## Video Demonstration
+
+Here is a demonstration of how to rotate a pen display: [https://youtu.be/\_OkANovOxBQ](https://youtu.be/\_OkANovOxBQ) &#x20;
+
+{% embed url="https://youtu.be/_OkANovOxBQ" %}
 
 ## Rotating in the Driver
 
@@ -34,7 +39,7 @@ Note that not all Wacom tablets have an Orientation option.
 
 
 
-## Rotating in the operating system
+## Rotating in the operating system's Display Settings
 
 * Windows instructions: [https://support.microsoft.com/en-us/windows/change-screen-orientation-f7ab1ff8-971d-58a5-b8ee-bc113bbf3acb](https://support.microsoft.com/en-us/windows/change-screen-orientation-f7ab1ff8-971d-58a5-b8ee-bc113bbf3acb)&#x20;
 * MacOS instructions: [https://support.apple.com/guide/mac-help/rotate-the-image-on-your-display-mh11534](https://support.apple.com/guide/mac-help/rotate-the-image-on-your-display-mh11534)
