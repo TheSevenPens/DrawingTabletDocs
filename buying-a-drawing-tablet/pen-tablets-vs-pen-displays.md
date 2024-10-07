@@ -1,6 +1,6 @@
 # Pen tablets vs pen displays
 
-## Overview
+Overview
 
 There are three kinds of drawing tablets:
 
@@ -10,11 +10,7 @@ There are three kinds of drawing tablets:
 
 This document is discussing how you might choose between a pen tablet and a pen display.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/7P SLIDE Pen Tablets vs Pen Displays.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Approach
 
