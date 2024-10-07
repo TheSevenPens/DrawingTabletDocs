@@ -2,13 +2,13 @@
 
 ## Samsung Galaxy Tab S10
 
+* Product page: [https://www.samsung.com/us/tablets/galaxy-tab-s10/](https://www.samsung.com/us/tablets/galaxy-tab-s10/)
 * [Brad Colbow - Review of Samsung Galaxy S10 Ultra](https://www.youtube.com/watch?v=k46BAgTzl8I) 2024/10/07
 
 ## Samsung Galaxy Tab S9
 
 ### Basics
 
-* [Teoh on Tech review of Samsung NotePaper Screen for Tab S9 tablets](https://youtu.be/i6A-61GllGY) Aug 9, 2023
 * [https://www.reddit.com/r/GalaxyTab/](https://www.reddit.com/r/GalaxyTab/)
 * Product page: [https://www.samsung.com/us/tablets/galaxy-tab-s9/](https://www.samsung.com/us/tablets/galaxy-tab-s9/)
 
@@ -29,6 +29,10 @@
 ### Samsung Galaxy Tab S9 FE+
 
 * [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW\_TV0fRY) 2023/12/05
+
+### Misc
+
+* [Teoh on Tech review of Samsung NotePaper Screen for Tab S9 tablets](https://youtu.be/i6A-61GllGY) Aug 9, 2023
 
 ## Samsung Galaxy Tab S8&#x20;
 
