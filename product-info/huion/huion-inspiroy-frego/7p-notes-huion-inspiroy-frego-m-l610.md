@@ -1,4 +1,4 @@
-# 7P notes: Huion Frego M (L610)
+# 7P notes: Huion Inspiroy Frego M (L610)
 
 ## Overview
 
@@ -39,7 +39,7 @@ Looks very simple and nice. Is very good, but I wouldn't say it has a premium lo
 
 * Comes with the Huion PW550S pen.
 * Default nib: felt
-* More here: [Huion PW550 and PW550S pens](../huion-pen-models/huion-pw550-and-pw550s-pens.md)
+* More here: [Huion PW550 and PW550S pens](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
 
 ## Other compatible pens
 
@@ -51,7 +51,7 @@ Looks very simple and nice. Is very good, but I wouldn't say it has a premium lo
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
 * **Nib** - The included PW55S had a felt nib installed by default.
 * **Pressure response** - typical - bows up a bit.&#x20;
-* More here: [Huion PW550 and PW550S pens](../huion-pen-models/huion-pw550-and-pw550s-pens.md)
+* More here: [Huion PW550 and PW550S pens](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
 
 ## Pointer lag
 

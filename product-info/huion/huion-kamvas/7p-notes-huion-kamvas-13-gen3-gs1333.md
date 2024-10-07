@@ -31,7 +31,7 @@ Pixels are clear and well delineated. The image does not look "soft".
 
 It comes with the PW600L pen. It has excellent pressure range but does not have an eraser like the other PW600 pens.
 
-More here: [**PW600 series pens**](../huion-pen-models/huion-pw600-series-pens.md)
+More here: [**PW600 series pens**](../huion-pen-models/7p-notes-huion-pw600-series-pens.md)
 
 ## Pointer lag
 
@@ -45,7 +45,7 @@ The PenTech 4.0 pens work with it. I tested these three:
 * PW600
 * PW600S
 
-More here: [**PW600 series pens**](../huion-pen-models/huion-pw600-series-pens.md)
+More here: [**PW600 series pens**](../huion-pen-models/7p-notes-huion-pw600-series-pens.md)
 
 ## Pen tracking accuracy
 
