@@ -1,14 +1,12 @@
 # Pen tablets vs pen displays
 
-Overview
+## Overview
 
-There are three kinds of drawing tablets:
+There are three kinds of drawing tablets. This document is discussing how you might choose between a pen tablet and a pen display.
 
-* pen tablets - that don't have a screen
-* pen displays - that do have a screen
-* standalone tablets- that have a screen and you can use them without being connected to a computer
-
-This document is discussing how you might choose between a pen tablet and a pen display.
+* **pen tablets** - that don't have a screen
+* **pen displays** - that do have a screen
+* **standalone tablets**- that have a screen and you can use them without being connected to a computer
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 

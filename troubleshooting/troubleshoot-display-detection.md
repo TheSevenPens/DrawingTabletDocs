@@ -8,9 +8,9 @@
 
 When you plug in your pen display your computer should detect it as an additional display/monitor in display setttings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Don't bother reinstalling the tablet drivers
 

@@ -31,6 +31,8 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 * **pen display** - has a screen and requires a computer to use
 * **standalone tablet  -** has a screen and can be used my itself without being connected to a computer.&#x20;
 
+<figure><img src="../.gitbook/assets/image (532).png" alt=""><figcaption></figcaption></figure>
+
 ## Basic guidelines
 
 * Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
