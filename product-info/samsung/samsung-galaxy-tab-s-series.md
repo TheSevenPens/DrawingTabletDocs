@@ -1,5 +1,9 @@
 # Samsung Galaxy Tab S series
 
+## Samsung Galaxy Tab S10
+
+* [Brad Colbow - Review of Samsung Galaxy S10 Ultra](https://www.youtube.com/watch?v=k46BAgTzl8I) 2024/10/07
+
 ## Samsung Galaxy Tab S9
 
 ### Basics
