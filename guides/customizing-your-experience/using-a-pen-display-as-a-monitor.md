@@ -28,6 +28,10 @@ Specific pen displays I have used this way (each has been continuously turned on
 * Huion Kamvas Pro 24 4K (GT2401)
 * Xencelabs Pen Display 24 (LPH2412U-A)
 
+### Special note on pen displays with OLED panels
+
+OLED panels are relatively new to pen displays. They only started appearing in 2024 with the arrival of the Wacom Movink. How long OLED panels can last without issues like burn-in is unknown, but it is widely understood that their lifetime is less than that of an IPS panel. For now, my recommendation is to turn off  OLED pen displays if you are not actively using them.
+
 ## Refresh Rate
 
 Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [**Pen display refresh rate**](../pen-displays/pen-display-refresh-rate.md)&#x20;
