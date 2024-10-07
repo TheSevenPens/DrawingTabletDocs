@@ -38,7 +38,7 @@ More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-
 * Wacom Intuos Medium (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark>
 * XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco MW&#x20;
 * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco LW (IT1060B) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md))
-* Huion Inspiroy Frego L (L610) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md)) **STILL UNDER EVALUATION**
+* Huion Inspiroy Frego L (L610) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md))&#x20;
 
 ## Pen displays
 

@@ -28,9 +28,8 @@ For beginners see: [**Recommended drawing tablets for beginners**](recommended-d
 * MEDIUM [**XP-Pen Deco LW**](../product-info/xp-pen/xp-pen-deco/) (IT1060B) $90
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md)
 * MEDIUM [**Huion Inspiroy 2 M (H951P)**](../product-info/huion/huion-inspiroy-2/) $70&#x20;
-  * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE**</mark>
+  * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE. I AM REVALUATING THIS TOPIC IN OCTOBER TO SEE IF THINGS HAVE IMPROVED.**</mark>
 * MEDIUM [**Huion Inspiroy Frego M**](../product-info/huion/huion-inspiroy-frego/) (L610)&#x20;
-  * **STILL UNDER EVALUATION**
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md)
 * MEDIUM [**Huion Inspiroy RTP-700**](../product-info/huion/huion-inspiroy-r-series/)  $93&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-r-series/7p-notes-rtp-700.md)
@@ -39,7 +38,7 @@ For beginners see: [**Recommended drawing tablets for beginners**](recommended-d
   * FEATURE LIMITATION: NO TILT
 * MEDIUM [**Huion Inspiroy 2 L (H1061P)** ](../product-info/huion/huion-inspiroy-2/)$90&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-2/7p-notes-h1061p.md)
-  * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE**</mark>&#x20;
+  * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE. I AM REVALUATING THIS TOPIC IN OCTOBER TO SEE IF THINGS HAVE IMPROVED.**</mark>
 
 ## $100 to $200
 
