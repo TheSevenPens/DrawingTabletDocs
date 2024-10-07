@@ -14,7 +14,7 @@ Modern tablet drivers use Windows Ink usually have a checkbox to disable Windows
 
 ## **Overview**
 
-* When Windows 7 detects that your PC is connected to a Wacom tablet attached, it automatically activates several Tablet PC features. Learn more about these features here [LINK](broken-reference)
+* When Windows 7 detects that your PC is connected to a Wacom tablet attached, it automatically activates several Tablet PC features. More here: here [Windows 7 Tablet PX features](./)
 * These features would be helpful if you were using a Tablet PC, but can be rather annoying or really interfere with your use of creative applications such as Photoshop.
 * The following instructions show you how to manually disable these features.
 
