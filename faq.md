@@ -109,7 +109,7 @@ See: [Troubleshoot driver no longer supports a drawing tablet](troubleshooting/t
 
 ### Q: Can I have two tablet drivers from different manufacturers installed at the same time?
 
-It depends. More here: [Installing multiple tablet drivers on the same computer](broken-reference)&#x20;
+It depends. More here: [Using multiple tablets on the same computer ](guides/general/using-multiple-drawing-tablets-at-the-same-time.md)
 
 ### **Q: How to I completely uninstall a tablet driver on Windows?**
 
