@@ -70,7 +70,10 @@ With a pen tablet you are drawing in generally a better posture. You will be sit
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Pen tablets cost much less than pen displays. Even the most expensive pen tablet cost less than the vast majority of pen displays. Generally a pen tablet will cost between $50 to $250. But pen displays start at around $300.
+Pen tablets cost much less than pen displays. Even the most expensive pen tablet cost less than the majority of pen displays.&#x20;
+
+* Pen tablets cost between $50 to $250. The most expensive on the market is $500 and often discounted to $400. &#x20;
+* Pen displays start at around $300 and can go up to about $1300. Wacom professional pen displays are in a special price category and can cost from $2500 to $3500.
 
 ## Reliability
 
