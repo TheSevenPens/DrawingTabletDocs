@@ -26,9 +26,9 @@ This document summarizes many very deep topics. If you want more information, co
 
 ## Dispelling a common myths
 
-**MYTH: A pen display is not inherently better**
+**MYTH: A pen display is inherently better than a pen tablet**
 
-**REALITY: Which one you should use depends on a lot of factors**
+**REALITY: Neither is better. Which one you should use depends on a lot of factors**
 
 Pen displays look really fancy and cost much more than a pen tablet. And it would be natural to think that this means that pen displays are in some way fundamentally better than a pen tablet. That is absolutely not true. Pen tablets have their own merits. So do not think about a pen tablet as simply a lower cost option that you have to “settle for.” For many people it is the right answer.
 
