@@ -26,9 +26,21 @@ Driver UX is very friendly and modern in appearance.
 
 **Diagonal Wobble**
 
-Rating: OK (LOW)
+Rating: OK - LOW-ISH
 
-With my standard slow-drawing wobble test I did see some wobble. This could be a bit better for a pro tablet. I don't think you'll typically notice the wobble in practice.&#x20;
+I did see some wobble at all speeds though it diminished at higher speeds. This amount of wobble could be a bit better for a pro tablet.&#x20;
 
-![](<../../.gitbook/assets/Xencelabs Pen Tablet Medium (BPH1212W-A).png>)
+You might notice this wobble if you are doing line art or very careful strokes.&#x20;
+
+You can eliminate this wobble with Smoothing:
+
+* Krita Brush Smoothing&#x20;
+  * **Basic** smoothing was enough to remove it
+  * **Weighted** with **Distance** = 130 got rid of it
+* &#x20;**Clip Studio Paint**&#x20;
+  * Stabilization of 50 got rid of it
+
+<figure><img src="../../.gitbook/assets/Diag Wobble Xencelabs Pen Tablet Medium (BPH1212W-A) 2024_10_08 (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
