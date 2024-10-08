@@ -1,4 +1,4 @@
-# Huion PW550 and PW550S pens
+# 7P notes: Huion PW550 series pens
 
 
 
@@ -21,14 +21,16 @@ I tested four PW550 series pens on 2024/08/30
 
 I'm not good at measuring IAF but each seemed to be around 3gf.
 
-## Pressure: Max Pressure
+## Pressure: max pressure (approximate)
 
+3 of 4 of the my PW550 pens have GOOD or EXCELLENT max pressure. One outlier has an OK max pressure.
 
-
-* PW550 - 223.6gf
-* PW550 - 560.0gf
-* PW550 - 850.0gf
-* PW500S - 735.5gf
+| BRAND | PEN    | INVENTORY | PHYSICAL | LOGICAL |
+| ----- | ------ | --------- | -------- | ------- |
+| HUION | PW550  | HU1006    | 560.0gf  | 99.0%   |
+| HUION | PW550  | HU1008    | 223.6gf  | 99.99%  |
+| HUION | PW550  | HU1009    | 850.0gf  | 100.0%  |
+| HUION | PW550S | HU1007    | 735.5gf  | 99.4%   |
 
 ## Pressure: Response curve
 
