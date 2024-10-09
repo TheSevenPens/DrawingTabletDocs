@@ -59,4 +59,4 @@ More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-inf
   * NOTE: You will have the buy the Apple Pencil 2 separately. It does NOT come with the iPad.
 * **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md) )
   * NOTE: The Samsung S Pen COMES WITH the tablet.
-  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
+  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
