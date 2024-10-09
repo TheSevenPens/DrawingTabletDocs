@@ -159,7 +159,7 @@ This port type is getting less common. So to make sure you know what the cable l
 
 **Special note on HDMI**
 
-In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [**Using HDMI adapters with pen displays**](../../../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md)
+In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [**Using HDMI adapters with pen displays**](../../../guides/pen-displays/using-hdmi-adapters-with-pen-displays/)
 
 ## My connectivity setup
 

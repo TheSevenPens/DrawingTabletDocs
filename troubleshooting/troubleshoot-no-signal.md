@@ -124,11 +124,11 @@ If your tablet has a USB-C port and your computer has a USB-C port that supports
 
 ### USB-C to HDMI
 
-You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md).
+You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays/).
 
 ## Converting other ports to HDMI
 
-if your PC has a DisplayPort or DVI output, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays.md). &#x20;
+if your PC has a DisplayPort or DVI output, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays/). &#x20;
 
 ### Issues with HDMI Adapter
 

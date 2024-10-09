@@ -103,7 +103,7 @@ Second, both motherboard HDMI and the graphics card need to use memory to do the
 
 ## What if you don't have any HDMI ports?
 
-If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../pen-displays/using-hdmi-adapters-with-pen-displays.md)&#x20;
+If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../pen-displays/using-hdmi-adapters-with-pen-displays/)&#x20;
 
 ## Dealing with NO SIGNAL
 

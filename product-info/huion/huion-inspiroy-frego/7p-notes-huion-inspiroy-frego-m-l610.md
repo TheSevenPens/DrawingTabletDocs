@@ -18,7 +18,13 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 
 This is a medium-sized tablet - with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
 
+<mark style="color:red;">**Active area Diagonal length =**</mark>&#x20;
+
 In terms of paper sizes this is about the size of an A4 sheet of paper.
+
+Aspect Ratio
+
+<mark style="color:red;">**UNKNOWN**</mark>
 
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
@@ -103,6 +109,10 @@ VERY GOOD. test with a 300px brush. Pressure smoothly transitions. A little bit 
 ## Pressure scan rate testing
 
 EXCELLENT.  I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
+
+## Tilt Compensation
+
+<mark style="color:red;">**TBD**</mark>
 
 ## Other features
 
