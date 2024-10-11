@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I think it makes an excellent choice for a entry-level tablet. In particular the pressure range of the PS600L pen was a huge improvement over the PW517 pen that came with the previous Kamvas 13 (GS1331).
+The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I think it makes an excellent choice for a entry-level tablet. In particular the pressure range of the PW600L pen was a huge improvement over the PW517 pen that came with the previous Kamvas 13 (GS1331).
 
 ## Basics
 
@@ -29,7 +29,7 @@ Pixels are clear and well delineated. The image does not look "soft".
 
 ## Pen
 
-It comes with the PW600L pen. It has excellent pressure range but does not have an eraser like the other PW600 pens.
+It comes with the PW600L pen. It has excellent pressure range. The PWG00L does does not have an eraser like the other PW600 pen models.
 
 More here: [**PW600 series pens**](../huion-pen-models/7p-notes-huion-pw600-series-pens.md)
 
