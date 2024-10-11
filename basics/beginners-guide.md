@@ -32,7 +32,7 @@ Most drawing tablets also detect how the pen is tilted relative to the surface o
 
 ## Device options for drawing tablets &#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Pen tablets
 
