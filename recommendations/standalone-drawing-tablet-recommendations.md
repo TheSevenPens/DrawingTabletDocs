@@ -49,12 +49,13 @@ If you're primarily interested in drawing or notetaking I think mobile computers
 
 ### Samsung Galaxy Tab S series
 
-[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab devices**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s.md) &#x20;
+[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s-series.md) &#x20;
 
-* [**Samsung Galaxy Tab S6 Lite (2022 version)**](../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.&#x20;
-  * There is also a newer S6 Lite (2024 version) which is a little more powerful. &#x20;
-* [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($500) excellent mid-budget option
-* [**Samsung Galaxy Tab S9 Ultra** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($1000) top-of-the-line performance.    &#x20;
+[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../product-info/samsung/7p-notes-samsung-s8-ultra.md)&#x20;
+
+* [**Samsung Galaxy Tab S9 Series** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($800 to $1200) higher performance options
+* [**Samsung Galaxy Tab S9 FE** ](../product-info/samsung/samsung-galaxy-tab-s9.md)($450) excellent mid-budget option
+* [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.  &#x20;
 
 ## Samsung Galaxy Tab A Series
 
@@ -63,9 +64,7 @@ If you're primarily interested in drawing or notetaking I think mobile computers
 ### Devices from Huion and XP-Pen
 
 * [**Huion Kamvas Slate 10**](../product-info/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-* [**XP-Pen Magic Drawing Pad**](../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>&#x20;
-
-
+* [**XP-Pen Magic Drawing Pad**](../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>
 
 ## Pen computers
 

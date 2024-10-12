@@ -1,10 +1,10 @@
-# 7P notes: Samsung Galaxy Tab S
+# 7P notes: Samsung Galaxy Tab S series
 
 The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can play the role of drawing tablets very well and are a compelling alternative to Apple iPads.
 
 The tablets I own:
 
-* Samsung Galaxy Tab S8 Ultra <- RECOMMENDED.
+* Samsung Galaxy Tab S8 Ultra <- RECOMMENDED. ([**my notes on this tablet**](7p-notes-samsung-s8-ultra.md))
 * Samsung Galaxy Tab S9 FE <- HIGHLY RECOMMENDED. Great value at reasonable cost.
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition) <- RECOMMENDED as great budget choice for esp. for beginners.
 

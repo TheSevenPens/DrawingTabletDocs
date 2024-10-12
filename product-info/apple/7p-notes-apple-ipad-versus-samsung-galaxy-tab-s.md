@@ -6,7 +6,7 @@ I've used both iPads and a Samsung Galaxy Tab extensively. And here are my thoug
 
 Below or my detailed notes about using each one individually
 
-* [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s.md)
+* [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s-series.md)
 * [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
 
 ## Drawing experience
