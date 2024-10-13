@@ -2,10 +2,16 @@
 
 ## Basics
 
-* features a low minimum pressure (IAF) of <1gf. See [pen pressure](../../../core-features/pen-pressure.md).&#x20;
-* maximum pressure is on average for non-professional pens&#x20;
-* has two buttons
+* Low IAD + good max pressure
+* Two buttons
+* No eraser
 
 
 
 <figure><img src="../../../.gitbook/assets/Wacom 2K Pen (LP-190K).jpg" alt=""><figcaption></figcaption></figure>
+
+## Pressure response
+
+Max pressure is good (>= 400gf).
+
+<figure><img src="../../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
