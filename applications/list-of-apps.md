@@ -14,7 +14,8 @@
 * [**Ibis Paint**](../application-info/ibis-paint.md) (Windows, iOS, Android)
 * **Infinite Design** [https://www.infinitestudio.art/](https://www.infinitestudio.art/) (Android)
 * [**Infinite Painter**](list-of-apps.md#infinite-painter) (Android, iOS)
-* [**Kleki**](../application-info/kleki.md) (web) <mark style="background-color:purple;">**FREE**</mark>
+* [**Kleki**](../application-info/kleki.md) (web) <mark style="background-color:purple;">**FREE**</mark>&#x20;
+* [**Kreska.art**](https://kreska.art/app/) (web) **FREE**
 * [**Krita**](../application-info/krita/)  (Windows, Linux, MacOS) <mark style="background-color:purple;">**FREE**</mark>
 * [**Leonardo**](https://www.getleonardo.com/) - [https://www.getleonardo.com/](https://www.getleonardo.com/) (Windows)&#x20;
 * **Magma** - [https://magma.com/](https://magma.com/) (web)
