@@ -12,6 +12,6 @@
 
 ## Pressure response
 
-Max pressure is good (>= 400gf).
+Max pressure is good (>= 400gf). Ignore IAF in charts below - my testing was not designed for accurate IAF measurements.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
