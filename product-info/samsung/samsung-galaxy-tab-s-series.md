@@ -1,5 +1,10 @@
 # Samsung Galaxy Tab S series
 
+## Overview
+
+* [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](7p-notes-samsung-galaxy-tab-s-series.md)
+* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-notes-samsung-s-pen.md)
+
 ## Samsung Galaxy Tab S10
 
 * Product page: [https://www.samsung.com/us/tablets/galaxy-tab-s10/](https://www.samsung.com/us/tablets/galaxy-tab-s10/)
