@@ -10,9 +10,13 @@ You can use a pen display like a regular monitor. However, there are a few thing
 
 ## Leaving them on continuously
 
-Just like any monitor or TV you can just keep them on all the time.
+### Pen displays that use LCD display panels
+
+The VAST majority of pen displays use LCD display panels. Just like any monitor or TV that uses LCD panels you can just keep them on all the time.
 
 I've used multiple pen displays as a second display and leave them on 24/7 and my computers are set to never sleep so they are always showing something.&#x20;
+
+With some LCD panels, If they are showing the same thing on the screen that you many encounter a phenomena called [**Image Persistence**](https://en.wikipedia.org/wiki/Image\_persistence). This is normal and is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen\_burn-in)).
 
 Specific pen displays I have used this way (each has been continuously turned on and showing something for several months at least):
 
@@ -28,7 +32,7 @@ Specific pen displays I have used this way (each has been continuously turned on
 * Huion Kamvas Pro 24 4K (GT2401)
 * Xencelabs Pen Display 24 (LPH2412U-A)
 
-### Special note on pen displays with OLED panels
+### Pen displays that use LCD display panels
 
 OLED panels are relatively new to pen displays. They only started appearing in 2024 with the arrival of the Wacom Movink. How long OLED panels can last without issues like burn-in is unknown, but it is widely understood that their lifetime is less than that of an IPS panel. For now, my recommendation is to turn off  OLED pen displays if you are not actively using them.
 
