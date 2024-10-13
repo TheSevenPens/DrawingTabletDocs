@@ -6,7 +6,7 @@ You can use a pen display like a regular monitor. However, there are a few thing
 
 ## Safety
 
-**It's completely safe.**&#x20;
+**It's completely safe. It's safe for your pen display, your computers, and the cables connecting them.**
 
 ## Leaving them on continuously
 
@@ -90,27 +90,19 @@ More here:
 
 Monitors tend to have the normal power cables and adapters.
 
-Modern pen displays tend to support getting power via their USB C ports. &#x20;
+Modern pen displays may also use normal power adapters. But some support getting power via their USB-C ports. &#x20;
 
 ## Anti-glare sparkle
 
-It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle.
-
-More here: [**Anti-glare sparkle**](../pen-displays/anti-glare-sparkle.md)
+It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle. More here: [**Anti-glare sparkle**](../pen-displays/anti-glare-sparkle.md)
 
 ## Speakers
 
-Many monitors come with built-in speakers. They usually sound terrible, but they can be useful.
+Many monitors come with built-in speakers. They usually sound terrible, but they can be useful. As far as I am aware, no pen displays have speakers.&#x20;
 
-As far as I am aware, no pen displays do not have speakers.
+## &#x20;Picture-by-picture & Picture-in-picture
 
-## Multiple simultaneous inputs: Picture-by-picture, Picture-in-picture
-
-One of the benefits of supporting multiple display input ports is that it makes it possible to display two or more inputs simultaneously.
-
-Many monitors allow this now and it is very useful for very wide monitors.
-
-This is not something found on pen displays. Or at least it is very rare.
+One of the benefits of supporting multiple display input ports is that it makes it possible to display two or more inputs simultaneously. Many monitors allow this now and it is very useful for very wide monitors. Pen displays do not support this feature.
 
 ## Heat
 
@@ -118,9 +110,5 @@ It's common question whether pen displays would get to hot if they are continual
 
 ## Noise
 
-Monitors are almost always completely silent and don't even have fans.
-
-However, some pen displays - notably some Wacom Cintiq Pro models - have fans are are known for fan noise. If you are sensitive to noise research this first.&#x20;
-
-
+Monitors are almost always completely silent and don't even have fans. However, some pen displays - notably some Wacom Cintiq Pro models - have fans are are known for fan noise. If you are sensitive to noise research this first.&#x20;
 
