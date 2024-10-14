@@ -70,3 +70,6 @@ So no improvements to pen pressure levels. As a reminder, all you really need ar
 * The CP-923 pen has issues with low pressure. See this video: [https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 * The CP-913 does not have these issues
 
+## Max Pressure
+
+<table><thead><tr><th width="124">RAND</th><th width="121">PEN</th><th width="110">INVENTORY</th><th width="123">PHYSICAL</th><th width="120">LOGICAL</th></tr></thead><tbody><tr><td>WACOM</td><td>CP-923</td><td>WA0009</td><td>285.1gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0010</td><td>219.4gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0011</td><td>267.4gf</td><td>99.90%</td></tr></tbody></table>
