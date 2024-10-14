@@ -8,7 +8,9 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 **Pen**
 
-The tablet uses he the slightly older PW507 pen. The pen is a little "plastic-feeling" and cheap and the nib retracts a little more than I like.&#x20;
+The tablet uses he the slightly older PW500 pen.&#x20;
+
+[<mark style="background-color:green;">**My notes on the PW500 pen**</mark>](../huion-pen-models/7p-notes-huion-pw500-pen.md)&#x20;
 
 **Design**
 

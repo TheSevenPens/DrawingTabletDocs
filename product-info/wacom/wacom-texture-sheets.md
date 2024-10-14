@@ -6,7 +6,7 @@ For their Intuos Pro line of pen tablets, Wacom sells several texture sheets tha
 
 Below are three examples of some of the texture sheets Wacom sells.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Tablet compatibility
 
