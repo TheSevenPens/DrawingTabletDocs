@@ -6,7 +6,12 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 
 * A good simple tablet. Nothing fancy.
 * Good for beginners.&#x20;
-* The pen it came with had a very wide pressure range. This is good. pen IAF was typical of Huion (i.e. slightly higher IAF than Wacom's pro pens).
+* If you have an older Huion tablet it might be a good upgrade.
+* The pen it came with had a very wide pressure range. This range is very good. pen IAF was typical of Huion (i.e. slightly higher IAF than Wacom's pro pens).
+
+## Companion video
+
+{% embed url="https://www.youtube.com/watch?v=3-Cl9_xKKKE" %}
 
 ## Basics
 
@@ -18,13 +23,24 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 
 This is a medium-sized tablet - with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
 
-<mark style="color:red;">**Active area Diagonal length =**</mark>&#x20;
+* Huion Frego M (L610):&#x20;
+  * Dimensions: 10 x 6.25”
+  * Diagonal length: 11.79”
+* Wacom Intuos Pro Medium (PTH-660):&#x20;
+  * Dimensions: 8.7 x 5.8”
+  * Diagonal length: 10.57”
 
-In terms of paper sizes this is about the size of an A4 sheet of paper.
+In terms of paper sizes this is about the size of an A5 sheet of paper which has a diagonal length of 10.13"&#x20;
 
-Aspect Ratio
+## Aspect Ratio
 
-<mark style="color:red;">**UNKNOWN**</mark>
+16:10 - which is common drawing tablets
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
@@ -44,7 +60,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.&
 * Comes with the Huion PW550S pen.
 * Default nib: felt.
   * I found this a little unusual because the tablet came with 10 replacement plastic nibs.&#x20;
-* More here: [Huion PW550 series pens](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
+* More here: [<mark style="background-color:green;">**My notes on the Huion PW550 series pens**</mark>](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
 
 ## Other compatible pens
 
@@ -54,7 +70,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.&
 
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
-* More here: [Huion PW550 and PW550S pens](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
+* More here: [<mark style="background-color:green;">**My notes on Huion PW550 and PW550S pens**</mark>](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
 
 ## Pointer lag
 
@@ -112,7 +128,9 @@ EXCELLENT.  I drew 50 small strokes as fast as I could. The tablet registered al
 
 ## Tilt Compensation
 
-<mark style="color:red;">**TBD**</mark>
+OK. Minor displacement at 45deg Totally acceptable for drawing. Likely not noticeable.
+
+Not quite as good as the Wacom Intuos Pro which has excellent tilt compensation.
 
 ## Other features
 
