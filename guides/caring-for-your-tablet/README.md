@@ -8,11 +8,11 @@ With a little care and light maintenance your tablet will keep working for a lon
 
 They are surprisingly expensive to replace. They can cost from $40 USD to $120 USD for a Wacom Pro Pen 3.
 
-Because drawing tablet pens usually have a case of black plastic they can be difficult to see under some lighting conditions, also they can be mistaken for other pens, etc. To give them some additional  visibility I use gaffer tape or masking tape to add some some color to make it more visible and serve as a label.&#x20;
+Because drawing tablet pens usually have a case of black plastic they can be difficult to see under some lighting conditions, also they can be mistaken for other pens, etc. To give them some additional  visibility I use masking tape to add some some color to make it more visible and serve as a label.&#x20;
 
-Here is an example: &#x20;
+Here is an example:
 
-<figure><img src="../../.gitbook/assets/20240520_labeled_pen.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/HUIONPW550S (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
