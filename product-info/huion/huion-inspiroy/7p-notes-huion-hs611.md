@@ -64,7 +64,11 @@ This tablet does NOT support touch
 
 ## **Tilt compensation**
 
-OK. Exhibits a moderate amount of displacement of the pointer when the pen is tilted at 45 degrees. Because it is a pen tablet this amount of displacement will not be very noticable unless you are specifically looking for it..
+OK. Exhibits a moderate amount of displacement of the pointer when the pen is tilted at 45 degrees. Because it is a pen tablet this amount of displacement will not be very noticable unless you are specifically looking for it.
+
+## Pressure instability/wobble
+
+Very good. Even when drawing at very low amount of pressure with a very large brush (1000px) in Krita, pressure didn't exhibit and wild swings or wobble.
 
 ## **Diagonal wobble**
 
