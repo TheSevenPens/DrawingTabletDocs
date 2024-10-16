@@ -46,6 +46,8 @@ In comparison:
 * Muttons - It has 10 programmable buttons on the left - more than most other tablets.
 * Media controls - At the top there are some additional media touch keys which are very convenient.
 
+<figure><img src="../../../.gitbook/assets/Slide_20241016_122046.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## **Touch**
 
 This tablet does NOT support touch
@@ -54,7 +56,7 @@ This tablet does NOT support touch
 
 **Wireless -** This tablet does NOT support a wireless connect
 
-Wired connection - there is a single USB-C port&#x20;
+**Wired connection** - there is a single USB-C port&#x20;
 
 ## **Diagonal wobble**
 
