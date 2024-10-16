@@ -50,7 +50,7 @@ In comparison:
 
 <figure><img src="../../../.gitbook/assets/Slide_20241016_122046.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-Both the butons and the touch-sensitive controls can be turned off in the dricer.
+Both the buttons and the touch-sensitive controls can be turned off in the dricer.
 
 ## **Touch**
 
@@ -61,6 +61,10 @@ This tablet does NOT support touch
 **Wireless -** This tablet does NOT support a wireless connect
 
 **Wired connection** - there is a single USB-C port&#x20;
+
+## **Tilt compensation**
+
+OK. Exhibits a moderate amount of displacement of the pointer when the pen is tilted at 45 degrees. Because it is a pen tablet this amount of displacement will not be very noticable unless you are specifically looking for it..
 
 ## **Diagonal wobble**
 
