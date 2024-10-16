@@ -75,7 +75,7 @@ NONE.&#x20;
 
 ## VESA mounting
 
-This tablet does support the VESA mounting standard. I have used it with several VESA compatible stands.&#x20;
+This tablet does NOT support the VESA mounting standard.&#x20;
 
 ## Shape
 

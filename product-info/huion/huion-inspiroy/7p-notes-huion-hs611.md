@@ -30,6 +30,10 @@ In addition, at the top there are some additional media control keys which are c
 
 ## **Diagonal wobble**
 
-It does exhibit some wobble at most notable at slow speeds but in normal drawing I didn't notice it much as I draw. Adding a little bit of brush smoothing controlled it.
+It exhibits some diagonal wobble. The wobble is most noticable at slower speeds.
+
+In practice when I draw i did not notice this much.
+
+Adding a little bit of brush smoothing controlled it.
 
 <figure><img src="../../../.gitbook/assets/Diag Wobble Huion Inspiroy HS611 2024-10-15.png" alt=""><figcaption></figcaption></figure>

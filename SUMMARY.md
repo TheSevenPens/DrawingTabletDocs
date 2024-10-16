@@ -212,6 +212,7 @@
   * [7P Tablet Tester](developers/7p-tablet-tester.md)
   * [WinTab API](developers/wintab-api.md)
 * [Troubleshooting](troubleshooting/README.md)
+  * [Troubleshoot difficult to reach maximum pressure](troubleshooting/troubleshoot-difficult-to-reach-maximum-pressure.md)
   * [Common problems with drawing tablets](troubleshooting/common-problems-with-drawing-tablets.md)
   * [Reset a drawing tablet](troubleshooting/reset-wacom-intuos-pro-tablets.md)
   * [Troubleshoot pointer stuck in corner of screen](troubleshooting/troubleshoot-pointer-stuck-in-corner-of-screen.md)
