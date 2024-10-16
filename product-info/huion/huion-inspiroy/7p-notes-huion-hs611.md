@@ -8,32 +8,56 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 <figure><img src="../../../.gitbook/assets/Huion HS611.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/HS611 back.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+## **Active area size**
+
+This is is a MEDIUM sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro medium
+
+<table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.7 x 5.8”</td><td>10.57”</td></tr></tbody></table>
+
+## Aspect ratio
+
+This tablet has a 16:10 aspect ratio.
+
 ## **Pen**
 
-The tablet uses he the slightly older PW500 pen.&#x20;
+The tablet uses he the slightly older PW500 pen. For more details about the pen, see [<mark style="background-color:green;">**My notes on the PW500 pen**</mark>](../huion-pen-models/7p-notes-huion-pw500-pen.md)&#x20;
 
-[<mark style="background-color:green;">**My notes on the PW500 pen**</mark>](../huion-pen-models/7p-notes-huion-pw500-pen.md)&#x20;
+## **Build quality & design**
 
-## **Design**
+The HS611 has a very simple design. No complaints, though it lacks the refined look and feel of the newer Huion tablets.&#x20;
 
-The HS611 lacks the refined look and feel of the newer Huion tablets.&#x20;
+It is kind of cool looking though. Unlike the vast majority of tablets, this one has regions with a slighted speckled pattern. This adds a bit of visual distinction.
+
+<figure><img src="../../../.gitbook/assets/Huion HS611 speckle.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Surface texture**
 
-The drawing surface is very slightly textured. The texture feels smoother than the Wacom Intuos Pro (PTH-x60 series). But it is not as smooth as the surface of an iPad.
+The drawing surface is only very slightly textured. If you are used to a modern drawing tablets, you might find this texture slightly "slippery".
+
+In comparison:
+
+* The texture feels much smoother than the Wacom Intuos Pro (PTH-x60 series).
+* A little more texture than the surface of an iPad.
 
 ## **ExpressKeys**
 
-It has 10 programmable buttons on the left - more than most other tablets.
+* Muttons - It has 10 programmable buttons on the left - more than most other tablets.
+* Media controls - At the top there are some additional media touch keys which are very convenient.
 
-In addition, at the top there are some additional media control keys which are convenient.
+## **Touch**
+
+This tablet does NOT support touch
+
+## **Cables and connections**
+
+**Wireless -** This tablet does NOT support a wireless connect
+
+Wired connection - there is a single USB-C port&#x20;
 
 ## **Diagonal wobble**
 
-It exhibits some diagonal wobble. The wobble is most noticable at slower speeds.
-
-In practice when I draw i did not notice this much.
-
-Adding a little bit of brush smoothing controlled it.
+It exhibits some diagonal wobble. The wobble is most noticable at slower speeds. In practice when I draw i did not notice this much. Adding a little bit of brush smoothing controlled it.
 
 <figure><img src="../../../.gitbook/assets/Diag Wobble Huion Inspiroy HS611 2024-10-15.png" alt=""><figcaption></figcaption></figure>
