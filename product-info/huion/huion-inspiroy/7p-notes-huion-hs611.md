@@ -41,12 +41,16 @@ In comparison:
 * The texture feels much smoother than the Wacom Intuos Pro (PTH-x60 series).
 * A little more texture than the surface of an iPad.
 
-## **ExpressKeys**
+## **Auxiliary inputs**
 
-* Muttons - It has 10 programmable buttons on the left - more than most other tablets.
-* Media controls - At the top there are some additional media touch keys which are very convenient.
+* Buttons - It has 10 programmable buttons on the left. 10 more than most other tablets.
+* Touch controls - At the top there are some additional touch-sensitive keys.
+  * One is a slider that can be configured to adjust zoom, brush size, or vertical scrolling
+  * The rest control media-related features &#x20;
 
 <figure><img src="../../../.gitbook/assets/Slide_20241016_122046.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+Both the butons and the touch-sensitive controls can be turned off in the dricer.
 
 ## **Touch**
 
