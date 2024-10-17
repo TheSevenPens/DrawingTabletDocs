@@ -28,7 +28,11 @@ The tablet uses he the slightly older PW500 pen. For more details about the pen,
 
 The HS611 has a very simple design. No complaints, though it lacks the refined look and feel of the newer Huion tablets.&#x20;
 
-It is kind of cool looking though. Unlike the vast majority of tablets, this one has regions with a slighted speckled pattern. This adds a bit of visual distinction.
+It is also available in several colors (Space Grey, Starr Blue, and Coral Red). I have the Space Grey version.
+
+<figure><img src="../../../.gitbook/assets/HS611-colors.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+There is one cool aspect of its design. Unlike the vast majority of tablets, this one has regions with a slighted speckled pattern. This adds a bit of visual distinction.
 
 <figure><img src="../../../.gitbook/assets/Huion HS611 speckle.jpg" alt=""><figcaption></figcaption></figure>
 
