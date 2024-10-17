@@ -45,9 +45,18 @@ In comparison:
 * The texture feels much smoother than the Wacom Intuos Pro (PTH-x60 series).
 * A little more texture than the surface of an iPad.
 
-## **Auxiliary inputs**
+## **Auxiliary inputs > buttons**
 
-* Buttons - It has 10 programmable buttons on the left. 10 more than most other tablets.
+It has 10 programmable buttons on the left. 10 more than most other tablets.
+
+The 10 buttons are in 2 groups of 5.
+
+Each group of five s some raised symbols on the buttons to help you identify the buttons by touch alone and without looking.
+
+<figure><img src="../../../.gitbook/assets/HS6611 button patterns.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+## **Auxiliary inputs > touch controls**
+
 * Touch controls - At the top there are some additional touch-sensitive keys.
   * One is a slider that can be configured to adjust zoom, brush size, or vertical scrolling
   * The rest control media-related features &#x20;
