@@ -242,7 +242,7 @@
   * [Troubleshoot not enough HDMI ports](troubleshooting/troubleshoot-not-enough-hdmi-ports.md)
   * [Troubleshoot insects in a pen display](troubleshooting/troubleshoot-insects-in-a-pen-display.md)
   * [Troubleshoot pen acting like a mouse](troubleshooting/troubleshoot-pen-acting-like-a-mouse.md)
-  * [Troubleshoot pen display cycles between on and off](troubleshooting/troubleshoot-pen-display-cycles-between-on-and-off.md)
+  * [Troubleshoot pen display cycles on and off](troubleshooting/troubleshoot-pen-display-cycles-on-and-off.md)
 * [Product info](product-info/README.md)
   * [Apple](product-info/apple/README.md)
     * [Apple iPad](product-info/apple/apple-ipad.md)
