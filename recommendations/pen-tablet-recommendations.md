@@ -29,8 +29,11 @@ For beginners see: [**Recommended drawing tablets for beginners**](recommended-d
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md)
 * MEDIUM [**Huion Inspiroy 2 M (H951P)**](../product-info/huion/huion-inspiroy-2/) $70&#x20;
   * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE. I AM REVALUATING THIS TOPIC IN OCTOBER TO SEE IF THINGS HAVE IMPROVED.**</mark>
-* MEDIUM [**Huion Inspiroy Frego M**](../product-info/huion/huion-inspiroy-frego/) (L610)&#x20;
+* MEDIUM [**Huion Inspiroy Frego M**](../product-info/huion/huion-inspiroy-frego/) (L610) $90
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md)
+* MEDIUM Huion Inspiroy HS611 $80&#x20;
+  * Little bit of an older Huion tablet with older tech. But it does work fine.&#x20;
+  * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy/7p-notes-huion-hs611.md)  &#x20;
 * MEDIUM [**Huion Inspiroy RTP-700**](../product-info/huion/huion-inspiroy-r-series/)  $93&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-r-series/7p-notes-rtp-700.md)
 * MEDIUM [**One by Wacom Medium**](../product-info/wacom/one-by-wacom/) (CTL-672) $100
@@ -65,7 +68,5 @@ For beginners see: [**Recommended drawing tablets for beginners**](recommended-d
 * LARGE [**Wacom Intuos Pro Large**](../product-info/wacom/wacom-intuos-pro/) (PTH-860) $500&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-pth-x60.md)&#x20;
 
-## Change log
-
-* 2024/02/04 Removed **Huion HS611** ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy/7p-notes-huion-hs611.md)) from the recommended list - only because it is a bit of an older tablet. &#x20;
+&#x20;&#x20;
 
