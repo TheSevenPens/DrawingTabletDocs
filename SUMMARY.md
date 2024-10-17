@@ -411,6 +411,8 @@
   * [Samsung Notes](application-info/samsung-notes.md)
 * [Accessories](accessories/README.md)
   * [Monitor arms](accessories/using-monitor-arms-with-a-pen-display.md)
+  * [Cables](accessories/cables/README.md)
+    * [7P notes: CableMatters Thunderbolt 3 cable](accessories/cables/7p-notes-cablematters-thunderbolt-3-cable.md)
   * [Cable adapters](accessories/cable-adapters.md)
   * [Drawing gloves](accessories/drawing-gloves.md)
   * [Extension cables](accessories/extension-cables.md)
