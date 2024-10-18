@@ -12,8 +12,9 @@ Please keep in mind that pen displays are not inherently better than pen tablets
 
 ## $200 to $300 &#x20;
 
-* SMALL Huion Kamvas 13 GEN3 (GS1333) $250
-  * This is an upgrade over the older [**Huion Kamvas 13 (GS1331)**](../product-info/huion/huion-kamvas/) $240 [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
+* SMALL[ **Huion Kamvas 13 GEN3 (GS1333)**](../product-info/huion/huion-kamvas/) $250&#x20;
+  * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-13-gen3-gs1333.md)
+  * The GS1333 is an upgrade over the older [**Huion Kamvas 13 (GS1331)**](../product-info/huion/huion-kamvas/) $240 [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
 * SMALL [**XP-Pen Artist 12 GEN2 (CD120FH )**](../product-info/xp-pen/xp-pen-artist-gen2/)
 * SMALL [**XP-Pen Artist 13 GEN2 (CD130FH)**](../product-info/xp-pen/xp-pen-artist-gen2/)&#x20;
 
@@ -52,6 +53,8 @@ Please keep in mind that pen displays are not inherently better than pen tablets
 * MEDIUM [**Wacom Cintiq Pro 16**](../product-info/wacom/wacom-cintiq-pro/) (DTH-167) $1500&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-167.md)&#x20;
 * LARGE [**Wacom Cintiq 22**](../product-info/wacom/wacom-cintiq/) (DTK-2260) $1200
+* LARGE XP-Pen Artist Pro 19 GEN2 (MD180UH) $900
+  * [<mark style="background-color:green;">**My notes**</mark>](../product-info/xp-pen/xp-pen-artist-pro-gen2/)
 * LARGE[ **Huion Kamvas Pro 19**](../product-info/huion/huion-kamvas-pro/) (GT1902) $1100&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas-pro/7p-notes-huion-gt1902.md) &#x20;
 * LARGE [**Huion Kamvas Pro 24 4K**](../product-info/huion/huion-kamvas-pro/) (GT2401) $1300
