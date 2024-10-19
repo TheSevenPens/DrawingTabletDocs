@@ -40,6 +40,11 @@
 * [Mink - Fill in Lines in many different ways! – Clip Studio Paint](https://youtu.be/zQC9d4lmTYg) 2021/03/19
 * [Mink - How to make a TIMELAPSE using OBS or Clip Studio Paint's timelapse feature](https://youtu.be/eihIFwag\_vM) 2020/12/16
 
+## Vector layers
+
+* [Oyun Orka - Easier Line Art Using Vector Layers in Clip Studio Paint](https://www.youtube.com/watch?v=Exs7pA\_L4k4) 2024/01/30
+* [CPS | Simzart - Vector Layer Overview](https://www.youtube.com/watch?v=r3SQJAViG4Q) 2023/07/13 &#x20;
+
 ## Customization
 
 * [CLIP STUDIO PAINT - Quick Access Menu](https://www.youtube.com/watch?v=sSpOdFO7sxA) 2022/02/13
