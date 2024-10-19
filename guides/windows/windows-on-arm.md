@@ -15,34 +15,22 @@ As of 2024/10/03:
 * **Wacom**: Actively working on an ARM driver. Not available for download yet. See this link: [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
 * **XP-Pen**: I asked them and they had no comment on whether they were working on an ARM driver or when one might be expected.
 
+## A POSSIBLE alternative: Windows PNP tablet drivers
+
+If you cannot use a tablet until, an ARM driver is available the only other option that may help you is the use of windows PNP tablet drivers.
+
+The windows PNP drivers come with windows and are quite limited. Sometimes they are missing features that you need. I don't recommend using the Windows PNP drivers unless it's a last resort. And keep in mind that not all tablets support windows PNP drivers.
+
+For example Wacom Intos Pro tablets do not support Windows PNP drivers.
+
+More here:&#x20;
+
+* [Windows PNP Drivers](windows-pnp-support-for-drawing-tablets.md)
+* [Testing with Windows PNP drawing tablet drivers](../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)
+
 ### June 2024 update video
 
 {% embed url="https://www.youtube.com/watch?v=3RGkj0vs-z0" %}
-
-### Testing of older Windows tablet drivers on ARM
-
-I did all my testing an a Surface Laptop 15 inch (7th edition) using the Snapdragon X Elite processor.  The summary is these older Windows drivers do NOT work on ARM devices.&#x20;
-
-**Wacom ARM driver status** - Wacom is aware of the issue and is working on ARM drivers -&#x20;
-
-* driver version 6.4.6-2&#x20;
-  * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installer says the operating system is not supported.
-  * tested on 2024/06/18
-
-**XP-Pen ARM driver status** - I contacted XP-Pen support and they have not communicated any plans about an ARM driver
-
-* driver version 4.0.1.240520&#x20;
-  * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installs but driver UI crashes, pen does not move pointer
-  * tested on 2024/06/18&#x20;
-* driver version 3.4.14.240603&#x20;
-  * status: <mark style="color:red;">**DOES NOT WORK**</mark> - installs but driver UI crashes, pen does not move pointer
-  * tested on 2024/06/18
-
-**Huion ARM driver status** - They are actively working on a ARM driver.
-
-* driver version v15.7.6.1073&#x20;
-  * status: <mark style="color:red;">**DOES NOT WORK**</mark> - driver UI does not launch, pen does not move pointer
-  * tested on 2024/06/18
 
 ## Older Windows ARM devices
 
