@@ -1,5 +1,15 @@
 # XP-Pen Artist Pro GEN2
 
+## XP-Pen Artist Pro 24 GEN2 4K (MD240UH)
+
+* product page: [https://www.xp-pen.com/product/artist-pro-24-gen-2-4k.html](https://www.xp-pen.com/product/artist-pro-24-gen-2-4k.html)
+* release year: 2024
+
+## X-Pen Artist Pro 24 GEN2 165Hz (MD240QH)
+
+* product page: [https://www.xp-pen.com/product/artist-pro-24-gen-2-165hz.html](https://www.xp-pen.com/product/artist-pro-24-gen-2-165hz.html)&#x20;
+* release year: 2024
+
 ## XP-Pen Artist Pro 14 GEN2 (MD140FH)
 
 * Product link: [https://www.xp-pen.com/product/artist-pro-14-gen-2.html](https://www.xp-pen.com/product/artist-pro-14-gen-2.html)&#x20;
@@ -23,4 +33,5 @@
 * [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-notes-xp-pen-artist-pro-19-gen2-md180uh.md)&#x20;
 * Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
 * Brad Colbow - [XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024/08/27
+* [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024/10/22&#x20;
 
