@@ -3,7 +3,8 @@
 ## Overview
 
 * [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](7p-notes-samsung-galaxy-tab-s-series.md)
-* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-notes-samsung-s-pen.md)
+* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-notes-samsung-s-pen.md)&#x20;
+* [<mark style="background-color:green;">**7P notes: Apple iPad versus Samsung Galaxy Tab S**</mark>](../apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Samsung Galaxy Tab S10
 

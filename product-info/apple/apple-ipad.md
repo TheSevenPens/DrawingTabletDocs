@@ -8,6 +8,10 @@
   * [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 * Information on [**Apple Pencil**](apple-pencil.md)&#x20;
 
+## 2024 Apple iPad Mini
+
+* [Brad Colbow review of 2024 Apple iPad Mini](https://www.youtube.com/watch?v=pOzw6ubjdgY) 2024/10/22
+
 ## 2024 M4 Apple iPad Pro
 
 * [Teoh on Tech - M4 iPad Pro: 90 days later (update review)](https://youtu.be/mqQBV1jFocM) 2024/08/23
