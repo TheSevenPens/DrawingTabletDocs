@@ -15,10 +15,10 @@ Windows setup
 
 MacOS setup
 
-* M2 MacBook Pro
+* M3 MacBook Pro
 * TB3 cable plugged directly between MacBook and pen tablet
 
-**Not on recessed USB-C ports cable end thickness**
+**Note on recessed USB-C ports and cable plug thickness**
 
 * For the CableMatters Usb-C cable, the **cable ends are a little too thick** to be plugged into some ports that are recessed.
 * I had to remove some plastic from one of the ends to fit it into the tablets using a knife.&#x20;
