@@ -11,7 +11,9 @@
 * A pen from Manufacturer A may not work with all tablets made by manufacturer A
 * Using the same technology such as "EMR" does not mean two pens are interchangeable.
 * Apple Pencils are only compatible with Apple iPads.
-* Wacom has so many tablets and and pens that compatibility can get confusing. More here: [**Wacom pen compatibility**](../../product-info/wacom/wacom-pen-compatibility.md).
+*   Wacom has so many tablets and and pens that compatibility can get confusing: [**Wacom pens**](../../product-info/wacom/wacom-pen-compatibility.md)&#x20;
+
+
 
 If you need to replace a pen, find out the model number that is compatible with your tablet. Then order that exact model. If you don't know the model you need, contact support for your drawing tablet.
 

@@ -220,6 +220,7 @@
   * [Check if the pen display works with another display output device](troubleshooting/check-if-the-pen-display-works-with-another-display-output-device.md)
   * [Troubleshoot drawing problems](troubleshooting/troubleshoot-drawing-problems.md)
   * [Troubleshoot the NO SIGNAL problem](troubleshooting/troubleshoot-no-signal.md)
+  * [Troubleshoot buying a replacement pen](troubleshooting/troubleshoot-buying-a-replacement-pen.md)
   * [Troubleshoot pen moving pointer on the wrong display](troubleshooting/troubleshoot-pen-moving-pointer-on-the-wrong-display.md)
   * [Troubleshoot pixel noise on display](troubleshooting/troubleshoot-pixel-noise-on-display.md)
   * [Troubleshoot no pressure while drawing](troubleshooting/troubleshoot-no-pressure-while-drawing.md)
