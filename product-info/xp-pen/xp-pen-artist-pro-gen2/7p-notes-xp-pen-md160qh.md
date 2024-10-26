@@ -4,6 +4,8 @@
 
 In summary this is a very nice tablet. Wacom Cintiq Pro models are still better (and cost MUCH more) but this tablet is good overall and I have enjoyed using it. As of July 2024, this is my top pick for a mid-range-cost 16" pen display. &#x20;
 
+[https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
+
 ## **Design**
 
 RATING: EXCELLENT
