@@ -23,7 +23,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Refresh rate** - 60Hz. TYPICAL. Normal for pen displays.
 
-**Anti-glare sparkle -** GOOD. Low amount of AG sparkle. More here: [**Anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md).
+**\`**
 
 **Sharpness** - GOOD. The AG treatment does not add any blurriness.&#x20;
 
@@ -31,7 +31,11 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Aspect Ratio** - 16:10. It is a little more squarish than the much more common 16:9 aspect ratio. After using it for a few days, I actually like the 16:10 aspect ratio. To me it makes the tablet feel a little larger than it is.&#x20;
 
+
+
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+**MacOS** - Some people tell me MacOS has more challenges running at resolutions like the one this tablet uses. I'm not a MacOS expert so I suggest you research this more.
 
 ## **Connections and cabling**
 
@@ -49,17 +53,23 @@ One minor nit. The USB-C cable connects at the top edge this means you see the c
 
 **3-in-1 cable**
 
-This is NOT provided in the box. If you need to connect via HDMI you will have to order this separately from XP-Pen.
+If you need to connect via HDMI you will need a 3-in-1 cable from XP-pen.
 
-## **Basics**
+* When I bought the tablet in - this cable was s NOT provided in the box.&#x20;
+* However now it seesm that XP-Pen is shipping the tablet with the 3-in-1 cable.
 
-**Pointer lag -** TYPICAL. Slightly better than normal for a pen display.
+Before you purchase verify if you are getting the 3-in-1 cable if you need it.
 
-**Line steadiness -** OK. The line have a little bit of unsteadiness when moving slow. I can mitigate that in Clip Studio paint by turning on the **Stabilization > Adjust by Speed** option and setting it to stabilize when drawing slowly.&#x20;
+This seems to be the cable that is compatble: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html\
+](https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html)
 
-**Corner accuracy** VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corners.
+## Pointer lag
 
-**Tilt compensation** - GOOD. Pointer stays close to physical tip of the pen as pen moves through supported tilt range.
+TYPICAL. Normal for a pen display. A Cintiq Pro has slightly less lag.
+
+## Corner accuracy
+
+VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corners. Matched XP-pens stated accuracy numbers.
 
 ## **Diagonal wobble**
 
@@ -95,7 +105,9 @@ This tablet does NOT support touch.
 
 ## Heat
 
-Felt cool (room temperature) to the touch at 50% brightness.
+Felt cool (room temperature) to the touch at 100% brightness.
+
+Cool on the right side. On the left side it was slightly warm.
 
 ## Noise
 
@@ -118,3 +130,22 @@ In one of the photos you may notice a slight separation between pointer and tip,
 <figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) tilt compensation - small.jpg" alt=""><figcaption></figcaption></figure>
 
 I have heard a few comments on my YouTube channel indicating that some people found very bad tilt compensation. So far I believe if there is an issue it is only with a small number of defective units.&#x20;
+
+## Anti-glare treatment
+
+This tablet uses an etched glass surface instead of an AG film.
+
+It does a very good job of glare reduction. It is on par with the Huion Kamvas Pro 19 and a bit more glare reduction than the Cintiq Pro 22.
+
+## Pixel sharpness
+
+Pixels are clear and well-delineated.
+
+* Slightly sharper than my Cinitq Pro 22
+* Noticeably sharper than my Huion Kamvas Pro 19
+
+## Stand options
+
+* XP-pen recommends the ACS05 stand. I'm not a fan of that type of stand.
+* I think the AC41 stand woudl work better.
+* In my testing I used the stand that came with the Xencelabs Pen Display 16 which is very similar to the AC41.
