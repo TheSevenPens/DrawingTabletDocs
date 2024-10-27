@@ -11,6 +11,7 @@
 ## 2024 Apple iPad Mini
 
 * [Brad Colbow review of 2024 Apple iPad Mini](https://www.youtube.com/watch?v=pOzw6ubjdgY) 2024/10/22
+* [Teoh on Tech review of 2024 Apple iPad Mini](https://www.youtube.com/watch?v=r2lfUndPhV4) 2024/10/27
 
 ## 2024 M4 Apple iPad Pro
 
