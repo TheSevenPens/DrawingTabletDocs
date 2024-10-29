@@ -23,8 +23,6 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Refresh rate** - 60Hz. TYPICAL. Normal for pen displays.
 
-**\`**
-
 **Sharpness** - GOOD. The AG treatment does not add any blurriness.&#x20;
 
 **Parallax** - GOOD. Little visible parallax.
@@ -56,12 +54,14 @@ One minor nit. The USB-C cable connects at the top edge this means you see the c
 If you need to connect via HDMI you will need a 3-in-1 cable from XP-pen.
 
 * When I bought the tablet in - this cable was s NOT provided in the box.&#x20;
-* However now it seesm that XP-Pen is shipping the tablet with the 3-in-1 cable.
+* However now it seems that XP-Pen is shipping the tablet with the 3-in-1 cable.
 
 Before you purchase verify if you are getting the 3-in-1 cable if you need it.
 
-This seems to be the cable that is compatble: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html\
+I contacted XP-Pen support and they indidcated that this compatible 3-in-1 cable: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html\
 ](https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html)
+
+
 
 ## Pointer lag
 
