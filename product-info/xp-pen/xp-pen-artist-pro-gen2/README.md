@@ -4,11 +4,13 @@
 
 * product page: [https://www.xp-pen.com/product/artist-pro-24-gen-2-4k.html](https://www.xp-pen.com/product/artist-pro-24-gen-2-4k.html)
 * release year: 2024
+* [Brad Colbow - XP-Pen Artist 24 Pro Gen 2 Review(s)](https://www.youtube.com/watch?v=cvmVPAG6yUA) 2023/10/29
 
 ## X-Pen Artist Pro 24 GEN2 165Hz (MD240QH)
 
 * product page: [https://www.xp-pen.com/product/artist-pro-24-gen-2-165hz.html](https://www.xp-pen.com/product/artist-pro-24-gen-2-165hz.html)&#x20;
 * release year: 2024
+* [Brad Colbow - XP-Pen Artist 24 Pro Gen 2 Review(s)](https://www.youtube.com/watch?v=cvmVPAG6yUA) 2023/10/29
 
 ## XP-Pen Artist Pro 14 GEN2 (MD140FH)
 
