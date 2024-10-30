@@ -53,5 +53,5 @@ I measure [**diagonal wobble**](../core-features/diagonal-wobble.md) using a sim
 
 ## Wobble testing template image
 
-<figure><img src="../.gitbook/assets/Wobble Template V7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Wobble Template V9.png" alt=""><figcaption></figcaption></figure>
 
