@@ -51,7 +51,12 @@ Your cable and ports MUST support DP alt mode. To find out if you ports and cabl
 
 ## Manufacturer cables vs third-party cables
 
-I recommend you get the USB-C cables the manufacturer provides for use with a single USB-C cable configuration - primarily because these are known to work with the device and will fit into the well that contains the port.
+I recommend you get the USB-C cables the manufacturer provides for use with a single USB-C cable configuration for two reasons:
+
+* These cables are known to work with the device
+* The tablet may have recessed USB-C ports and these cables are designed to git.
+
+More here: [Using 3rd-party cables with your drawing tablet](using-3rd-party-cables-with-your-drawing-tablet.md)&#x20;
 
 ## Thunderbolt 3/4 cables
 

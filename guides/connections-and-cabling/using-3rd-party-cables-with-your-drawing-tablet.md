@@ -49,9 +49,17 @@ If the pen display was connected with a single USB-C cable, then you can TYPICAL
 
 Even if the cable meets the requirements - there are some issues you should be aware of.
 
+**Recessed Ports**
+
 Sometimes the USB-C port on table goes into a recessed port and the manufacturer cable was specially designed to go into that port.&#x20;
 
+<figure><img src="../../.gitbook/assets/Slide_20241030_040309.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+**Longer connectors**
+
 Sometimes the USB-C port is not recessed, but expects the metallic part of the USB-C cable to be a little longer (an extra 1 mm for example). The manufacturer provided cable works correct, but you may find that a 3rd party cable's metallic end does not go as deep and the connection might work but is loose and might disconnect if the cable is moved slightly.
+
+**Random issues**
 
 Sometimes, in my experience, 3rd party cables are seem to - for whatever reason - sometimes not work correctly or as well as the manufacturer cables. This is rare, but happens.
 
