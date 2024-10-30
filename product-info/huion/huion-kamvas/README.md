@@ -5,6 +5,7 @@
 * Release year: 2024
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-kamvas-13-gen3-gs1333.md)&#x20;
 * [Brad Colbow - Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) 2024/09/23
+* [Huion - Tutorial | How to connect Kamvas 13 (Gen 3) to your Android Phone](https://www.youtube.com/watch?v=Oq6KeACQo68) 2024/10/29
 
 ## Huion Kamvas 12 (GS1161)
 
