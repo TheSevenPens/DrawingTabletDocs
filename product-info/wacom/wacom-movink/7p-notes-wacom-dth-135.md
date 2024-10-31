@@ -200,7 +200,7 @@ Typical. Very accurate across entire display. slight inaccuracy (maybe 2mm) at t
 
 ## Diagonal wobble
 
-<mark style="color:red;">**TO BE EVALUATED**</mark>
+<figure><img src="../../../.gitbook/assets/Wacom Movink 13 (DTH-135) 2024_10_30.png" alt=""><figcaption></figcaption></figure>
 
 ## Active Area
 
