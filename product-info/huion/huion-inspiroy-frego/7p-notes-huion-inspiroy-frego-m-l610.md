@@ -140,26 +140,24 @@ Not quite as good as the Wacom Intuos Pro which has excellent tilt compensation.
 
 This tablet works very well with Android! In fact this is the first tablet, I've seen that works well out-of-the-box.
 
+Note that the Huion Inspiroy Frego S also works well with Android but slightly differently. See Teoh on Tech's review of the Frego where he explains the difference.
+
 **Wired vs Wireless**
 
 * Wireless - I connected via Bluetooth. And it worked.
-* Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating.
+* Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating. (Huion clearly demonstrated that this is possble in this video: [https://www.youtube.com/watch?v=Oq6KeACQo68](https://www.youtube.com/watch?v=Oq6KeACQo68))
 
 **Orientation**&#x20;
 
-The tablet should stay in its normal landscape oritentation.
+The tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
 
-The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
+<figure><img src="../../../.gitbook/assets/image (544).png" alt=""><figcaption></figcaption></figure>
 
+**Aspect ratio mapping**
 
+When connected to android the tablet keeps sets active area to match the aspect ratio of the android device display. This means that there is no distortion of shapes. if you draw a circle on the tablet, it will draw a circle on the android device.
 
-
-
-
-
-
-
-
+&#x20;
 
 ## Photos
 
