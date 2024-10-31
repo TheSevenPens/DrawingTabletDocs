@@ -177,7 +177,9 @@ Android apps seem inconsistent with how they show cursors. I will contact the cr
 
 Even with bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any  lag or skips.&#x20;
 
-&#x20;
+**Bluetooth > switching devices**
+
+I paired it with android device A. But then to pair it with android device B, I had to go to device A and end the pairing. After that it would work with device B.&#x20;
 
 ## Photos
 
