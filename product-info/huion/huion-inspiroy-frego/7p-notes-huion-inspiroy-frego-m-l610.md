@@ -142,6 +142,14 @@ This tablet works very well with Android! In fact this is the first tablet, I've
 
 Note that the Huion Inspiroy Frego S also works well with Android but slightly differently. See Teoh on Tech's review of the Frego where he explains the difference.
 
+**Devices tested**&#x20;
+
+All the devices listed below worked well with the Frego.
+
+* Samsung Galaxy Tab S8 Ultra
+* Samsung Galaxy Tab S9FE
+* Samsung Galaxy S24 Ultra
+
 **Wired vs Wireless**
 
 * Wireless - I connected via Bluetooth. And it worked.
@@ -156,6 +164,16 @@ The tablet should stay in its normal landscape orientation. The android device c
 **Aspect ratio mapping**
 
 When connected to android the tablet keeps sets active area to match the aspect ratio of the android device display. This means that there is no distortion of shapes. if you draw a circle on the tablet, it will draw a circle on the android device.
+
+**Cursor/Pointer**
+
+NOTE: What I describe below is an interaction between Android and applications. It has nothing to do with the tablet.
+
+Android apps seem inconsistent with how they show cursors. I will contact the creators of these apps and suggest how they should work. Which in  my opinion should be: (1) on hover, show the brush outline (2) while drawing show the brush outline.
+
+<figure><img src="../../../.gitbook/assets/Slide_20241031_104105.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 &#x20;
 
