@@ -173,7 +173,9 @@ Android apps seem inconsistent with how they show cursors. I will contact the cr
 
 <figure><img src="../../../.gitbook/assets/Slide_20241031_104105.jpg" alt=""><figcaption></figcaption></figure>
 
+**Bluetooth pointer lag**
 
+Even with bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any  lag or skips.&#x20;
 
 &#x20;
 
