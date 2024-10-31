@@ -136,6 +136,31 @@ Not quite as good as the Wacom Intuos Pro which has excellent tilt compensation.
 
 **Pen holder** - a cloth loop affixed on the top edge serves as a convenient pen holder.
 
+## Android Usage
+
+This tablet works very well with Android! In fact this is the first tablet, I've seen that works well out-of-the-box.
+
+**Wired vs Wireless**
+
+* Wireless - I connected via Bluetooth. And it worked.
+* Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating.
+
+**Orientation**&#x20;
+
+The tablet should stay in its normal landscape oritentation.
+
+The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
+
+
+
+
+
+
+
+
+
+
+
 ## Photos
 
 ![](<../../../.gitbook/assets/20240831\_125710 (Large) (1).jpg>)  ![](<../../../.gitbook/assets/20240831\_125734 (Large) (3).jpg>)
