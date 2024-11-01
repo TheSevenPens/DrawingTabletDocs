@@ -188,11 +188,11 @@ Pixels on the display are sharp and well-delineated.
 * Feels about the same as a recent-model Cintiq Pro (22, 27)
 * Definitely not slippery like an normal glass iPad surface.
 
-## Pen tilt
+## Tilt compensation
 
-Typical. nothing out of the ordinary.
+GOOD. Changing the tilt of the pen did not significantly change the location of the pointer.
 
-Pen tilt compensation - GOOD. Changing the tilt of the pen did not significantly change the location of the pointer.
+<figure><img src="../../../.gitbook/assets/Slide_20241031_180022.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pen tracking accuracy
 
