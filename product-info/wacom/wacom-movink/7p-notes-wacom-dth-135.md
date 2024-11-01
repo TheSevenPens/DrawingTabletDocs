@@ -187,6 +187,7 @@ Pixels on the display are sharp and well-delineated.
 
 * Feels about the same as a recent-model Cintiq Pro (22, 27)
 * Definitely not slippery like an normal glass iPad surface.
+* And definitely not a lot of texture like the Intuos Pro (PTH-x60 series)
 
 ## Tilt compensation
 
