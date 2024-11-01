@@ -177,7 +177,7 @@ This gives the appearance of slight "chromatic aberration" effect.
 
 I suspect this is a result of the OLED panel and normal.
 
-I notice the same thing int the OLED panel of my Smasung Galaxy Tab S8 Ultra. Though in the Samsung tablet the effect seems a bit less. Maybe that is due to the higher resolution of the display panel in my Samsung device.
+I notice the same thing int the OLED panel of my Samsung Galaxy Tab S8 Ultra. Though in the Samsung tablet the effect seems a bit less. Maybe that is due to the higher resolution of the display panel in my Samsung device.
 
 ## Display sharpness
 
@@ -191,13 +191,16 @@ Pixels on the display are sharp and well-delineated.
 
 ## Tilt compensation
 
-GOOD. Changing the tilt of the pen did not significantly change the location of the pointer.
+EXCELLENT. Changing the tilt of the pen did not significantly change the location of the pointer.
 
 <figure><img src="../../../.gitbook/assets/Slide_20241031_180022.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pen tracking accuracy
 
-Typical. Very accurate across entire display. slight inaccuracy (maybe 2mm) at the very edges of the display.&#x20;
+EXCELLENT.&#x20;
+
+* Very accurate across entire display.&#x20;
+* Very accurate in corners. Incredibly minor displacement of pointer at corners (<1mm).&#x20;
 
 ## Diagonal wobble
 
