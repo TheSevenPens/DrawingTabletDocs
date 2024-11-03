@@ -14,6 +14,7 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 ## **Core features**
 
 * **Pen** - The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen.
+* **Other compatible pens** - None. This tablet onlyu works with the LP-190K.
 * **Pen pressure range** - and has a very low IAF (which is EXCELLENT) and an OK Maximum pressure of around 300gf. My notes on this pen: [**7P notes: Wacom 2K Pen (LP-190K)**](../wacom-pens/7p-notes-wacom-lp-190k.md)  &#x20;
 * **Pressure Levels** - 2048. This may seem low when you see other tablets rated at 8K or 16K pressure levels. Do not worry. 2048 is enough pressure levels for creative tasks. This is absolutely not going to affect the quality of the art you can make with this tablet. I maintain all you need are about 2000 levels of pressure.
 * **Tilt** - this tablet does NOT support tilt
