@@ -6,34 +6,42 @@
 
 * Released: 2024
 * Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
-* Active Area: 409 x 230mm
+
+## Core specs
+
+* Active Area:&#x20;
+  * 9.06” x 16.1" -> 18.47" diagonal
+  * 409 x 230mm -> 469.2mm diagonal&#x20;
 * Aspect Ratio: 16x9&#x20;
+* NOTE: it has the exact same size Active Area as the Huion Kamvas Pro 19.
+
+## Display specs
+
+* Display panel tech: IPS&#x20;
+* Resolution: 3840 x 2160&#x20;
+* Aspect Ratio: 16:9
 * Lamination: YES
-* Resolution: 3840 x 2160
-* Aspect ratio 16:9
-  * Note that the XP-Pen Artist Pro 16 GEN2 has an aspect ratio of 16:10
-* AG treatment: Etched glass
-
-## Anti-glare sparkle
-
-RATING: VERY GOOD. Low amounts of AG sparkle. Maybe just slightly more than the Cintiq Pro 22.
-
-## Sharpness
-
-Pixels are relatively clear and well delineated.
-
-The look is clearly sharper than the Huion Kamvas Pro 19 which has a soft look that some people don't like
-
-## Design
-
-* Really does look like a larger version of the XP-Pen Artist Pro 16 GEN2&#x20;
+* Viewing Angle: 178°
+* Contrast: unspecified
+* Response time: unspecified
+* Refresh rate: 60hz
+* Brightness: 250 cd/m2
+* Anti-glare treatment:
+* Etched glass Color: 10 bit (8bit+FRC)
+* Color Gamut Coverage Ratio: 99.8% sRGB, 96% Adobe RGB, 98% Display P3
 
 ## Pens
+
+The tablet comes with two pens
 
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 
+See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md).&#x20;
+
 ## Compatible pens
+
+It is compatible with other pens in the X3 pro series.
 
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
@@ -41,10 +49,45 @@ The look is clearly sharper than the Huion Kamvas Pro 19 which has a soft look t
 
 ## Pen pressure
 
-XP-Pen states for X3 Pro pens
+XP-Pen states these numbers for X3 Pro pens
 
 * IAF: 3gf
 * Max Pressure: 400gf
+
+In my testing with the pens that came with the tablet
+
+* Subjectively, 3gf seemed about right
+* I measured the max pressure at around 250gf.&#x20;
+
+The red and blue lines indicated the pressure response for the two pens that came with this tablet. The gray lines are other models of the X3 Pro series that i have.
+
+<figure><img src="../../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
+
+The X3 Pro pens tend do have a lot of variability in their pressure range: See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md).&#x20;
+
+## Anti-glare sparkle
+
+RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
+
+Maybe just slightly more than the Cintiq Pro 22.
+
+Similar to Huion Kamvas Pro 19
+
+## Sharpness
+
+Pixels are relatively clear and well delineated.
+
+The look is clearly sharper than the Huion Kamvas Pro 19 which has a soft look that some people don't like.
+
+<figure><img src="../../../.gitbook/assets/Slide_20241104_141050.jpg" alt=""><figcaption></figcaption></figure>
+
+## Design
+
+* Really does look like a larger version of the XP-Pen Artist Pro 16 GEN2&#x20;
+
+## Pressure transition
+
+Moving between low and high pressure cave smooth pressure transitions.&#x20;
 
 ## Accuracy
 
@@ -57,12 +100,21 @@ RATING: VERY GOOD.
 
 My experience matched the accuracy numbers XP-Pen provides.
 
+## Parallax
+
+VERY GOOD.
+
+On par with Cintiq Pro 22 and with Huion Kamvas Pro 19.
+
 ## Tilt compensation
 
-RATING: GOOD
+OK. Minor displacement at 45deg
 
-* At 45 degrees: Minor deflection of pointer - maybe 1mm&#x20;
-* At 60 degrees: Minor deflection of pointer - maybe 1mm
+* Pen tilted left -> 1.8 mm displacement
+* Pen vertical -> \~1 mm displacement
+* Pen tilted right -> \~0 mm displacement
+
+<figure><img src="../../../.gitbook/assets/Slide_20241104_140813.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pressure scan rate testing
 
@@ -104,21 +156,13 @@ The XP-Pen Artist Pro 19 GEN2 has an amount of surface texture that is
 
 ### How I connected it
 
-* SETUP 1
-  * M3 MacBook Pro with provided USB-C cable
-  * This setup DID not work&#x20;
-    * The MacBook USB-C port did provide enough power for the display
-    * However, the driver could not detect the tablet - even though the pen would move the OS pointer
-    * I tested the same cable and macbook with with the XP-Pen Artist Pro 16 GEN2. And that worked.
-* SETUP 2
-  * MinisForum HX99G with provided USB-C cable attached to the HX99G USB4 port
-  * The MinisForum could not provide enough power (the display would power up for a moment then go black for  few seconds, and then repeat this process endlessly)
-  * I used an additional Thunderbolt 3 cable plugged into a hub to provide additional power.
-  * Once I had the additional power everything worked correctly&#x20;
+I tested both the configurations below with my M3 Macbook Pro and a Surface Pro 8
+
+<figure><img src="../../../.gitbook/assets/Slide_20241104_140933.jpg" alt=""><figcaption></figcaption></figure>
 
 ## VESA
 
-Yes this tablet is VESA mountable (75mm x 75mm)
+YES. this tablet is VESA mountable (75mm x 75mm)
 
 ## Legs
 
@@ -138,7 +182,13 @@ This tablet does NOT support touch.
 
 There are no audio features such as a headphone jack.
 
+## Heat
 
+GOOD. Tablet keeps cool&#x20;
+
+* Left 1/3 cool
+* Right 2/3 slightly warm
+* Warmer near the USB-C ports
 
 
 

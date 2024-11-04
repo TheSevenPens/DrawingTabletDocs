@@ -2,15 +2,25 @@
 
 ## O**verview**&#x20;
 
-The **XP-Pen X3 Pro Pen**. was introduced in 2023. It is incredibly similar in shape to the Wacom Pro Pen 2. Overall, this pen feels nice to use
+The **XP-Pen X3 Pro** series of pens was introduced in 2023.&#x20;
 
-## Pen pressure
+## Models
 
-**Pen IAF**: GOOD. IAF= 3gf (as stated by XP-Pen)
+<figure><img src="../../../.gitbook/assets/Slide_20241104_135959.jpg" alt=""><figcaption></figcaption></figure>
 
-**Pen Max pressure:** GOOD. 380gf in my testing. I tested two pens. So probably, XP-Pen is designed this pen for 400gf max pressure. And my 380gf is just some natural variance.&#x20;
+## Pen pressure > IAF
 
-**Pressure transition instability** - VERY GOOD. Saw no "pulsing" at low pressure.
+XP-Pen states it should have an IAF of 3gf. Subjectively that felt accurate.
+
+## Pen pressure > Max Pressure
+
+XP-Pen says the X3 Pro pens should have a max pressure of 400 gf.
+
+But my testing shows that individual units can vary from \~250gf to \~450gf.
+
+<figure><img src="../../../.gitbook/assets/Slide_20241104_140439.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 **Pen pressure levels** - 16K. Ignore this. it is hype. All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure).
 
@@ -24,9 +34,7 @@ More here: [**pen pressure**](../../../core-features/pen-pressure.md)&#x20;
 
 ## Pen features
 
-**Pen eraser** -  HAS AN ERASER. I don't use erasers so I have no further comment about it.&#x20;
-
-
+**Pen eraser** -  Only the X3 Pro has an eraser. the other models do not.
 
 ## Pen misc topics
 
