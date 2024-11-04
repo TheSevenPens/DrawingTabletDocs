@@ -32,7 +32,7 @@
 
 ## XP-Pen Artist Pro 19 GEN2 (MD180UH)
 
-* [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-notes-xp-pen-artist-pro-19-gen2-md180uh.md)&#x20;
+* [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-notes-xp-pen-md180uh.md)&#x20;
 * Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
 * Brad Colbow - [XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024/08/27
 * [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024/10/22&#x20;
