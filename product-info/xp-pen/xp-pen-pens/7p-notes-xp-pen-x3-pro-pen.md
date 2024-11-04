@@ -16,9 +16,13 @@ XP-Pen states it should have an IAF of 3gf. Subjectively that felt accurate.
 
 XP-Pen says the X3 Pro pens should have a max pressure of 400 gf.
 
-But my testing shows that individual units can vary from \~250gf to \~450gf.
+
 
 <figure><img src="../../../.gitbook/assets/Slide_20241104_140439.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+But my testing shows that individual units can vary from \~250gf to \~450gf.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
