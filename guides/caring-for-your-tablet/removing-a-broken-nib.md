@@ -10,15 +10,21 @@ Here are some other options.&#x20;
 
 ## OPTION: Precision tweezers
 
-I used this iFixit set of precision tweezers. Specifically I used the one in the middle. I wasn't able to put both both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly push the nib out a little bit at a time. Once enough was out, I used the tweezers normally to pull the nib out. &#x20;
+I used this iFixit set of precision tweezers. Specifically I used the one in the middle. I wasn't able to put both both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly pull the nib out a little bit at a time. Once enough was out, I used the tweezers normally to pull the nib out. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (499).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-## OPTION: The Glue method
+## OPTION: The hot glue method
 
-A little bit of hot glue at the end of a toothpick
+This method involves using a glue gun. Roughly the steps are:
+
+* put a very tiny amount of hot glue on the end of a toothpick
+* Then keep the toothpick touching the nib inside the pen for a minute as the glue cools
+* then pulling the toothpick which should hopefully cause the nib to come out
+
+You've got to be careful to not get glue stick inside the pen.
 
 ## OPTION: The hot needle method
 
