@@ -371,7 +371,7 @@
     * [XP-Pen Innovator](product-info/xp-pen/xp-pen-innovator.md)
     * [XP-Pen protective sheets](product-info/xp-pen/xp-pen-protective-sheets.md)
     * [XP-Pen pens](product-info/xp-pen/xp-pen-pens/README.md)
-      * [7P notes: XP-Pen X3 Pro pen](product-info/xp-pen/xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md)
+      * [7P notes: XP-Pen X3 Pro pens](product-info/xp-pen/xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md)
       * [7P notes: XP-Pen X3 Elite pen](product-info/xp-pen/xp-pen-pens/7p-notes-xp-pen-x3-elite-pen.md)
   * [Ugee](product-info/ugee.md)
 * [Application info](application-info/README.md)

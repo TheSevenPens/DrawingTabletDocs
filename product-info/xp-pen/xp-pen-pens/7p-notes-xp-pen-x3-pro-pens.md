@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen X3 Pro pen
+# 7P notes: XP-Pen X3 Pro pens
 
 ## O**verview**&#x20;
 
@@ -20,7 +20,7 @@ XP-Pen says the X3 Pro pens should have a max pressure of 400 gf.
 
 <figure><img src="../../../.gitbook/assets/Slide_20241104_140439.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-But my testing shows that individual units can vary from \~250gf to \~450gf.
+My testing shows that individual units can vary from \~250gf to \~450gf.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

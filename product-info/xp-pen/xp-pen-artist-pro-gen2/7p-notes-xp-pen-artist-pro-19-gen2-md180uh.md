@@ -37,7 +37,7 @@ The tablet comes with two pens
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 
-See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md).&#x20;
+See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md).&#x20;
 
 ## Compatible pens
 
@@ -63,7 +63,7 @@ The red and blue lines indicated the pressure response for the two pens that cam
 
 <figure><img src="../../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
 
-The X3 Pro pens tend do have a lot of variability in their pressure range: See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pen.md).&#x20;
+The X3 Pro pens tend do have a lot of variability in their pressure range: See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md).&#x20;
 
 ## Anti-glare sparkle
 
