@@ -1,4 +1,4 @@
-# Reducing the size of the active area
+# Reducing a smaller active area
 
 ## Overview
 
