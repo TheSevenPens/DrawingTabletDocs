@@ -4,6 +4,10 @@
 
 The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I think it makes an excellent choice for a entry-level tablet. In particular the pressure range of the PW600L pen was a huge improvement over the PW517 pen that came with the previous Kamvas 13 (GS1331).
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=5QG6NfIFSjU" %}
+
 ## Basics
 
 * product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html)
