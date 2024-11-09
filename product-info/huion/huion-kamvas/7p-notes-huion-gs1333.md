@@ -2,7 +2,19 @@
 
 ## Overview
 
-The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I think it makes an excellent choice for a entry-level tablet. In particular the pressure range of the PW600L pen was a huge improvement over the PW517 pen that came with the previous Kamvas 13 (GS1331).
+The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I recommend this tablet and think it makes an excellent choice for a entry-level tablet.&#x20;
+
+The drawing experience is good - better than I would expect for an entry-level drawing tablet 2024.
+
+Highlights
+
+* Has two dials in addition to 5 buttons
+* Uses the new PW600L pen that has a wide pressure range
+* Big upgrade from the Huion Kamvas 13 (GS1331)
+
+Things to be aware of
+
+* If you want to connect via USB-C cable, need to buy that separately
 
 ## Video
 
@@ -13,33 +25,17 @@ The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I think it makes an exc
 * product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html)
 * released: 2024
 
-## Display
+## Active area
 
-* Native resolution: 1920x1080
-* Refresh rate: 60Hz
-* Brightness: 220 nit
-
-## Anti-glare treatment
-
-The tablet is etched glass. This is a change from previous model which used an AG matte film.
-
-## Anti-glare sparkle
-
-&#x20;Very little visible. This is a big improvement over the previous model.
-
-## Display sharpness
-
-Pixels are clear and well delineated. The image does not look "soft".
+* Dimensions: 11.57" x 6.5"
+* Diagonal length: 13/27"
+* Aspect ratio: 16x9
 
 ## Pen
 
 It comes with the PW600L pen. It has excellent pressure range. The PWG00L does does not have an eraser like the other PW600 pen models.
 
 More here: [**PW600 series pens**](../huion-pen-models/7p-notes-huion-pw600-series-pens.md)
-
-## Pointer lag
-
-TYPICAL for a pen display.  The pointer lag did not interfere with my drawing in any way.
 
 ## Compatible pens
 
@@ -50,6 +46,23 @@ The PenTech 4.0 pens work with it. I tested these three:
 * PW600S
 
 More here: [**PW600 series pens**](../huion-pen-models/7p-notes-huion-pw600-series-pens.md)
+
+## Drawing experience
+
+The drawing experience was VERY GOOD.
+
+In summary:
+
+* Smooth pressure transition - VERY GOOD
+* Artifacts at low pressure - VERY GOOD
+* Diagonal Wobble - VERY GOOD
+* Pressure Scan Rate - EXCELLENT
+* Pointer tracking accuracy - VERY GOOD
+* Tilt compensation  - VERY GOOD
+* Parallax - GOOD
+* Pointer lag - MODERATE (typical for a pen display)
+
+
 
 ## Pen tracking accuracy
 
@@ -69,6 +82,45 @@ RATING: VERY GOOD
 * At 45 degrees of tilt - I saw almost deflection of pointer away from the tip of the nib
 * At 60 degrees of tilt - It was still very good - sometimes as good at 45 degrees - though sometimes I saw maybe a 1mm deflection
 
+## Pointer lag
+
+TYPICAL for a pen display.  The pointer lag did not interfere with my drawing in any way.
+
+## Diagonal wobble
+
+RATING: GOOD. Low amount of diagonal wobble.
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
+
+## Display
+
+* Native resolution: 1920x1080
+* Refresh rate: 60Hz
+* Aspect ratio: 16x9
+* Lamination: YES
+* Viewing angle: 178°
+* Response time: 25ms
+* Brightness: 220 nits
+* Contrast ratio: 1000:1
+* Anti-glare treatment: Etched glass
+* Color depth: 8-bit
+
+## Anti-glare treatment
+
+The tablet is etched glass. This is a change from previous model which used an AG matte film.
+
+## Anti-glare sparkle
+
+&#x20;Very little visible. This is a big improvement over the previous model.
+
+## Pressure scan rate
+
+GOOD. I drew 50 small quick strokes as fast as I could. No strokes were lost.&#x20;
+
+## Display sharpness
+
+Pixels are clear and well delineated. The image does not look "soft".
+
 ## Touch
 
 N/A. This tablet does NOT support touch.
@@ -77,18 +129,6 @@ N/A. This tablet does NOT support touch.
 
 GOOD. Provides good grip for the - even if the pen is using the plastic nib. Surface texture seems comparable to the Kamvas Pro 19 - actually the Kamvas 13 GEN3 seems to have slightly more texture.
 
-## Pressure scan rate
-
-GOOD. I drew 50 small quick strokes as fast as I could. No strokes were lost.&#x20;
-
-## Diagonal wobble
-
-RATING: GOOD. Low amount of diagonal wobble.
-
-<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
-
-
-
 ## Connections and cabling
 
 ### Ports
@@ -96,6 +136,22 @@ RATING: GOOD. Low amount of diagonal wobble.
 * 2x USB-C ports
 * Upper USB-C port is recessed into the tablet. Intended for use with the Huion 3-in-1 cable
 * Lower USB-C port is flush against the surface of the tablet and intended for use with a USB-C cable
+
+## USB-C Connection
+
+The tablet can connect to your computer with a single USB-C cable. If more power is needed you can use another USB-C cable plugged into a power adapter.
+
+HOWEVER: The tabler DOES NOT come with these cables. You'll have to order them separately.
+
+<figure><img src="../../../.gitbook/assets/Slide_20241109_035317 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+### 3-in-1 cable connection
+
+The tablet comes with a 3-in-1 cable if you need to use an HDMI port with your computer.
+
+<figure><img src="../../../.gitbook/assets/Slide_20241109_035629.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ## VESA
 
@@ -135,8 +191,4 @@ Other differences
 * USB-Ports
   * Kamvas 13 GEN3 (GS1333) - one flush with the surface, one recessed
   * Kamvas 13 (GS1331) - both ports recessed
-
-
-
-* &#x20;
 
