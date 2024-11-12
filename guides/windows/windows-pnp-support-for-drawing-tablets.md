@@ -2,32 +2,35 @@
 
 ## Introduction
 
-In Microsoft Windows, there are built-in drivers that "just work" for many devices. You can see this with mice. You just plug them in and they start working. So you can see why Windows calls these drivers "Plug-and-Play" or PNP.
+Microsoft Windows includes built in drivers for many devices. A great example are mice. You plug them in and they just work. This is why these drivers are called “plug-and-play” or P\&P drivers.
 
-Windows also has PNP tablet drivers! These drivers don't have many features compared to manufacturer tablet drivers but they can be useful.
+And windows has PNP drivers for drawing tablets. Sometimes these PNP drivers are very useful. But you should keep in mind that these PNP drivers are missing a lot of features that you really need to have.
 
-* If you are just intending to use the tablet as a mouse replacement for pointing and selecting
-* They are useful for troubleshooting problems with the manufacturer tablet drivers
-* You can use them as a "last resort" if your manufacturer drivers are not working.
+Windows PNP drivers are useful in some cases:
+
+* You intend to use the drawing tablet as a mouse replacement. So you're not drawing you're just pointing and selecting and clicking
+* You need to troubleshoot problems with the manufacturer's tablet drivers.
+* You need to use them as a last resort if you're manufacturers tablet drivers aren't working.
 
 The key things you should know
 
 * Not all tablets work with Windows PNP tablet drivers
 * The drivers are extremely limited in what they can do.
+* In my opinion they may work better with pen displays than pen tablets that don't have a screen. This is due to some missing features.
 
 ## Feature support
 
 * **pressure sensitivity** - PNP drivers do support this.
-* **tilt sensitivity** - PNP drivers support this
+* **tilt sensitivity** - PNP drivers support this&#x20;
 
-## Limitations of PNP drivers
+## Limitations&#x20;
 
-There are a large set of limitations that come with windows PNP mode. And many of the things you will need to configure with a drawing tablet simply are not available through PNP mode.
+There are a large set of limitations that come with windows PNP mode compared to manufacturer tablet drivers.
 
 * You cannot control how to map the active area of your tablet to a display in any way
   * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../customizing-your-experience/matching-aspect-ratios.md)
-* You cannot control what the buttons on the pen does
-* You cannot control what the buttons on the tablet do&#x20;
+* You cannot control what the buttons on the pen does.
+* You cannot control what the buttons on the tablet do.&#x20;
 
 ## Forcing Windows to use PNP drivers
 
