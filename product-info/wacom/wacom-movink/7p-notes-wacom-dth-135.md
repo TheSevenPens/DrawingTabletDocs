@@ -1,8 +1,13 @@
 # 7P notes: Wacom Movink 13 (DTH-135)
 
-{% hint style="info" %}
-<mark style="color:red;">**I am currently evaluating this product. So these notes are IN PROGRESS.**</mark>
-{% endhint %}
+## Summary
+
+* A great pen display.
+* Drawing experience with the Pro pen 3 is excellent
+* Screen looks bright and crisp
+* Extremely thin and light
+
+An easy recommendation if you need what it offers.
 
 ## Basics
 
@@ -325,3 +330,8 @@ I connected my Samsung Galaxy Tab S8 Ultra to a Microsoft Surface Thunberbolt do
 * Wacom Foldable stand&#x20;
 * Wacom Movink Tablet Sleeve
 * Wacom Converter for HDMI
+
+## Misc
+
+{% embed url="https://www.youtube.com/watch?v=VANNNQkPvfg" %}
+

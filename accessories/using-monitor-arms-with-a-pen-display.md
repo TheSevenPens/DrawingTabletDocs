@@ -12,7 +12,7 @@ Using a monitor arm with your pen display comes down to whether your pen display
 Smaller pen displays are about the size of a laptop, so you can try an arm designed to hold a laptop.
 
 Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
-![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
+![](../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
 
 Here's some creative DIY solutions:
 
@@ -62,7 +62,7 @@ link: [https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Table
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
