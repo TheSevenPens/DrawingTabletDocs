@@ -72,6 +72,8 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 More here: [https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html](https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html)
 
+{% embed url="https://www.youtube.com/watch?v=mkgdbuLUtOU" %}
+
 ## The XOOT Stand
 
 [XOOT stand](xoot-stand.md)
