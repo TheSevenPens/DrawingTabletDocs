@@ -7,19 +7,17 @@ Using a monitor arm with your pen display comes down to whether your pen display
 * **If your pen display is VESA mountable**, you can use a VESA compatible monitor arm.
 * **If your pen display is not VESA mountable,** there are some options
 
-## Pen displays without VESA support
+## Arms for pen displays without VESA support
 
 Smaller pen displays are about the size of a laptop, so you can try an arm designed to hold a laptop.
 
 Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
-![](../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
+![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
 
 Here's some creative DIY solutions:
 
 * [https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/](https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/)  &#x20;
 * [https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/](https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/)&#x20;
-
-
 
 ## **Wacom Flex arm**
 
@@ -48,20 +46,9 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 ## Ergotron
 
-I use this brand a lot. Further down&#x20;
+I use this brand a lot.&#x20;
 
-* Ergotron HX&#x20;
-* Ergotron LX
-
-For my larger pen displays, 24" and larger, I use the **Ergotron HX**. This is a very welld designed and rugged arm. I use it with:
-
-* &#x20;Wacom Cintiq Pro 27
-* Huion Kamvas 24 Pro 4K
-* many 32" monitors
-
-The Ergotron HX has less wobble than the **Ergotron LX**, but still has some wobble.
-
-For 22" and below I use the Ergotron LX. It's certainly not as rugged as the Ergotron HX, but it has been reliable and has a good range of motion.
+<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark> &#x20;
 
 [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w\_3pzQcjfg) 2021/10/01
 
@@ -75,7 +62,7 @@ link: [https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Table
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
