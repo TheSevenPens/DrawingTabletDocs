@@ -68,58 +68,15 @@ Every now and then I have windows use PNP mode even though a driver is installed
 * Windows is starting up and the tablet driver hasn't been started yet. For a little bit of time maybe a few seconds maybe 30 seconds you might see the PNP mode cursor. But then the tablet driver will start and it will go back to normal. I might see this happen once or twice a year on my windows machines
 * Sometimes when the tablet driver is having problems working with windows then you might see the PNP mode being used. &#x20;
 
+## Which tablets are compatible with Windows PNP?
+
+See this: [**Windows PNP driver compatibility testing**](windows-pnp-driver-compatibility-testing.md).
+
 ## Notes
 
 Windows supports PNP for lots of devices. For example mice or monitors. PNP is not limited to just tablets.&#x20;
 
 
 
-## Testing Windows PNP drivers with pen displays (screen tablets)
-
-I plugged in a couple and their basic functionality worked subject to the limitations described earlier.
-
-* Intuos Pro Small (PTH-460) - <mark style="color:red;">**does not work**</mark> (I get the sense this was a deliberate Wacom choice)
-* Movink 13 (DTH-135) - does work
-* Wacom One M (CTC-6110WL) - does work
-
-## Testing Windows PNP drivers with pen tablets (screenless tablets)
-
-Test with:
-
-* Surface Pro 8
-* Windows 11
-* Krita
-
-Results
-
-* Huion HS611
-  * Position : works
-  * Pressure YES
-  * Tilt: YES
-  * Lower button: detected
-  * Upper button: not detected (?)
-* Wacom One Medium (CTC-6100WL) with CP-923 pen
-  * Position: works
-  * Pressure: YES
-  * Tilt: YES
-  * Lower button: detected&#x20;
-  * Upper button: detected
-* Wacom Intuos Pro Small (PTH-460) with Pro Pen 2
-  * Nothing works
-* Wacom Intuos Pro Medium (PTH-660) with Pro Pen 2
-  * Nothing works
-* Wacom Intuos Pro Medium (PTH-860) with Pro Pen 2
-  * Nothing works
-* XP-Pen Deco Pro XLW (MT1592B) with X3 Pro pen
-  * Position : works
-  * Pressure YES
-  * Tilt: YES
-  * Lower button: detected
-  * Upper button: not detected (?)
-* Huion Giano G930L with PW517 pen
-  * Position : works
-  * Pressure YES
-  * Tilt: YES
-  * Lower button: detected
-  * Upper button: not detected (?)
+##
 
