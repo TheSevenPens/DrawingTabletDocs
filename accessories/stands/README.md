@@ -2,23 +2,25 @@
 
 ## Overview
 
-If you are looking for iPad stands go here: [**iPad stands**](https://www.amazon.com/HUION-Adjustable-Drawing-Displays-Suitable/dp/B09C5YJFGS)
+There are several options for stands below:
 
-There are several options for stands below.
+* Attached stands
+* Unattached stands
+* Complex stands
 
-## VESA-attached stands&#x20;
+If you are looking for iPad-specific stands stands go here: [**iPad stands**](https://www.amazon.com/HUION-Adjustable-Drawing-Displays-Suitable/dp/B09C5YJFGS)
 
-VESA is a standard to mount displays to various things using screws. More here: [**VESA**](../../technology/vesa.md)
+## Attached stands&#x20;
 
 Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen Artist 22 Plus. It is my favorite VESA-attached stand because the wide lever is easy to reach and operate. &#x20;
+
+VESA is a standard to mount displays to various things using screws. More here: [**VESA**](../../technology/vesa.md)
 
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/20240528_113803.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand </p></figcaption></figure>
 
 </div>
-
-
 
 Here is another stand from Huion. This was works fine, though I find its level a little more diffucult to find and use.
 
@@ -36,12 +38,7 @@ Some people have had success with the Ergotron Neo-Flex Stand. See this reddit t
 
 It's important to match the stand with the height of the pen display. A stand designed for a smaller pen display will have its angle adjustment lever in a position so that it is convenient to reach by putting your hand over the top of the display. However when used with a large display that lever may be much more difficult to reach.
 
-## Stands I use
-
-* I use the Huion ST100A stand with my Huion Kamvas Pro 90
-* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
-
-## Unattached folding stands
+## Unattached stands
 
 here are the key features:
 
@@ -55,8 +52,6 @@ here are the key features:
 
 These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet of the stand.
 
-### Parblo unattached stand
-
 
 
 <div align="left">
@@ -65,20 +60,19 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 </div>
 
-### XP-Pen unattached stands
+Stand options:
 
-* AC 41 stand - designed for 16" pen displays
-* AC 42 stand - designed for 13" pen displays
+* [Parblo PR-100 stand](parblo-pr-100-stand.md)
+* [XP-Pen AC41 and AC42 stands](xp-pen-ac41-ac42-stands.md) &#x20;
 
-More here: [https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html](https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html)
+## Complex stands
 
-{% embed url="https://www.youtube.com/watch?v=mkgdbuLUtOU" %}
+* [XOOT stand](xoot-stand.md)
 
-## The XOOT Stand
+## Stands I use
 
-[XOOT stand](xoot-stand.md)
-
-
+* I use the Huion ST100A stand with my Huion Kamvas Pro 19
+* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
 
 
 
