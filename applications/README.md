@@ -25,6 +25,7 @@ How an app works with a drawin tablet pen, depends on wether the app is "pen-awa
 
 ## Roundups & reviews
 
+* [Brad Colbow - 10 Best Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI\_3PIs) - 2024/11/13&#x20;
 * [Wesley Gardener -  Ranks 15 Digital Art Programs](https://www.youtube.com/watch?v=HBxg0HrQROY) - 2024/05/10
 * [Brad Colbow - Best Alternative to Every Adobe Program](https://www.youtube.com/watch?v=lLab5ChFFho) 2024/06/20&#x20;
 * [Teoh on Tech - Popular drawing apps on iPad: 2023 survey results](https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb)  Sep 4, 2023&#x20;
