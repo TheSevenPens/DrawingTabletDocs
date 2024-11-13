@@ -12,17 +12,17 @@ The tablet driver takes coordinates from the tablet and then maps them coordinat
 
 ### CASE 1  a pen display
 
-The simplest case to consider is a pen display. In this scenario the Mr. sensor is directly underneath the display and both are inside the plastic shell of the tablet
+The simplest case to consider is a pen display. In this scenario the EMR sensor is directly underneath the display and both are inside the plastic shell of the tablet
 
 In this case the active areas physical size and aspect ratio matches that of the display perfectly.
 
-and in this case the transformation is very simple because the ER sensor and the display have the same aspect ratio.
+and in this case the transformation is very simple because the EMR sensor and the display have the same aspect ratio.
 
 ### Case 2 a pen tablet with one monitor
 
 this is a somewhat more challenging case.
 
-Because the ER sensor and the display in the monitor need not be the same size and need not have the same aspect ratio.
+Because the EMR sensor and the display in the monitor need not be the same size and need not have the same aspect ratio.
 
 But still it is possible to transform the coordinates from the tablet to a coordinate on that display.
 
@@ -32,7 +32,7 @@ This is a little bit of a weird case. But we have to account for it because so m
 
 Tablet drivers allow users to handle the situation in multiple ways.
 
-* The tablet driver can map the Mr. census coordinates to a single display.
+* The tablet driver can map the EMR census coordinates to a single display.
 * Another option is that the tablet driver can map the sensor coordinates to a virtual coordinate system that includes multiple displays.
 
 &#x20;
