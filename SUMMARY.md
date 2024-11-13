@@ -45,6 +45,7 @@
   * [Active area](core-features/active-area.md)
   * [Active area size](core-features/active-area-size.md)
   * [Active area aspect ratio](core-features/active-area-aspect-ratio.md)
+  * [Active area mapping](core-features/active-area-mapping.md)
   * [Erasing](core-features/erasing.md)
   * [Bezel](core-features/bezel.md)
   * [Pen tilt](core-features/pen-tilt.md)
