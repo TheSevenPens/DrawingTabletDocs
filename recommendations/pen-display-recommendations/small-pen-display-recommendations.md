@@ -7,11 +7,11 @@
 * SMALL [**XP-Pen Artist Pro 14 GEN2 (MD140FH)**](../../product-info/xp-pen/xp-pen-artist-pro-gen2/) $420
 * [**XP-Pen Artist 12 GEN2 (CD120FH )**](../../product-info/xp-pen/xp-pen-artist-gen2/)
 * [**XP-Pen Artist 13 GEN2 (CD130FH)**](../../product-info/xp-pen/xp-pen-artist-gen2/)
-* Wacom Movink 13 (DTH-135)
+* Wacom Movink 13 (DTH-135) ★★★
 
 ## Value with compromises
 
-* &#x20;[**Huion Kamvas 13 (GS1331)**](../../product-info/huion/huion-kamvas/) $240 [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
+* [**Huion Kamvas 13 (GS1331)**](../../product-info/huion/huion-kamvas/) $240 [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
 * [**Wacom One 2019 GEN1 (DTC-133)**](../../product-info/wacom/wacom-one-dtc-133/) $400 - NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.
 
 ## Poor value/cost & bad pressure handling
