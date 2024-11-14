@@ -1,11 +1,14 @@
 # Large pen display recommendations
 
-## Top picks
+## Top picks 22"
 
-* [**Wacom Cintiq Pro 22**](../../product-info/wacom/wacom-cintiq-pro/) $3000  ★★★★
+* [**Wacom Cintiq Pro 22**](../../product-info/wacom/wacom-cintiq-pro/) $3000 &#x20;
   * **BE AWARE**: Fan noise
 * [**XP-Pen Artist 22 Plus (MD220FH)**](../../product-info/xp-pen/xp-pen-artist.md) $470 ★★★★
   * [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas-pro/7p-notes-huion-gt2401.md)&#x20;
+
+## Top picks 27"
+
 * [**Huion Kamvas Pro 27 (GT2701)**](../../product-info/huion/huion-kamvas-pro/) $2000 ★★★★
 * [**Wacom Cintiq Pro 27**](../../product-info/wacom/wacom-cintiq-pro/) $3500&#x20;
   * [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-271.md)&#x20;
