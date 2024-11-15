@@ -2,7 +2,7 @@
 
 ## Overview
 
-It's best if you look through [**the buying guide**](../../buying-a-drawing-tablet/) first. These are recommendations for tablets that have have screens. If you are looking for a tablet without a screen go here: [**pen tablet recommendations**](../pen-tablet-recommendations.md). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations.md).
+It's best if you look through [**the buying guide**](../../buying-a-drawing-tablet/) first. These are recommendations for tablets that have have screens. If you are looking for a tablet without a screen go here: [**pen tablet recommendations**](../pen-tablet-recommendations/). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations.md).
 
 * Make sure you know about [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen tablet
 * [**7P notes on 22" pen displays compared (2024)**](../7p-notes-other/7p-notes-22-pen-displays-compared-2023.md)&#x20;
