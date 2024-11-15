@@ -42,7 +42,7 @@ More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-
 
 ## Pen displays
 
-These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)  Small pen display recommendations
+These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [Small pen display recommendations](pen-display-recommendations/small-pen-display-recommendations.md)
 
 * Huion Kamvas 13 GEN3 (GS1333)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1333.md)) ★★★
 * XP-Pen Artist 12 GEN2 (CD120FH)
