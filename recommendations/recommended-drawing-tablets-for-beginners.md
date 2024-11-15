@@ -33,7 +33,7 @@ If I had to pick one item on this list, I would recommend the Wacom CTL-672 for 
 
 More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-comparison-of-wacom-pen-tablets.md)&#x20;
 
-* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md))
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)) ★★★
 * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark>&#x20;
 * Wacom Intuos Medium (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark>
 * XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco MW&#x20;
@@ -44,7 +44,7 @@ More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-
 
 These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [**7P notes on 13" pen displays**](7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
-* Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md))
+* Huion Kamvas 13 (GS1331)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)) ★★★
   * The new Kamvas 13 GEN3 (GS1333) will be an even better choice.
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md))
@@ -55,7 +55,7 @@ These are tablets that don't need to be connect to a computer.
 
 More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-info/apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
-* **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-info/apple/7p-notes-apple-ipad.md))
+* **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-info/apple/7p-notes-apple-ipad.md))&#x20;
   * NOTE: You will have the buy the Apple Pencil 2 separately. It does NOT come with the iPad.
 * **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s-series.md) )
   * NOTE: The Samsung S Pen COMES WITH the tablet.
