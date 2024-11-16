@@ -192,9 +192,9 @@ See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/commen
 
 The reason this process might work is not clear. It could be because depowering the pen display was the reason. It could be because the connection to the other computer altered something in the pen display. In any case, it is worth a try if you continue to have problems.
 
-## Wacom One GEN1 cable orientation
+## Wacom One 2019 GEN1 cable orientation
 
-The Wacom One 2019 gen-1 is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
+The Wacom One 2019 GEN1 is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
 
 ## Tablet firmware updates
 

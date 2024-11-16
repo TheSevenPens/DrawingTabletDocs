@@ -31,13 +31,13 @@ The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes
 
 These tablets. they are also compatible with a few other pens.&#x20;
 
-### Using the Wacom One GEN1 Pen CP-913
+### Using the Wacom One 2019 GEN1 Pen CP-913
 
 The Wacom CP-913 pen provides an better experience with this device. When I draw with a Samsung S series tablet  Some people (including myself) use the CP-913 that came with my Wacom One (DTC-133) with Samsung Tablets.
 
-### Using the Wacom One GEN2 Pen CP-923
+### Using the Wacom One 2023 GEN2 Pen CP-923
 
-This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen GEN2 (CP-923)](../wacom/wacom-pens/7p-notes-wacom-cp-923.md)&#x20;
+This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen 2023 GEN2 (CP-923)](../wacom/wacom-pens/7p-notes-wacom-cp-923.md)&#x20;
 
 ## Pointer lag
 

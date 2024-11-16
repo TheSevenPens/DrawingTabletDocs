@@ -1,12 +1,12 @@
-# 7P notes: 13" pen displays compared
+# 7P notes: 13" pen displays compared (2023)
 
 ## Overview
 
-13" pen displays very popular, often representing great choices for beginners. In this document I discuss some popular options in the market
+13" pen displays very popular, often representing great choices for beginners. In this document I compare some popular options in the market in 2023.
 
 * Huion Kamvas 13  (GS1331) - ([user manual](https://www.huion.com/user-manual-70) | [product page](https://www.huion.com/pen\_display/Kamvas/kamvas-13.html) | model year 2020)
 * XP-Pen Artist 13 GEN2 (CD130FH) - ([user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf) | [product page](https://www.xp-pen.com/product/1263.html) | model year 2022)
-* Wacom One GEN 1 (DTC-133)
+* Wacom One 2019 GEN1 (DTC-133)
 
 ## Summary
 
@@ -42,7 +42,7 @@ These are very, very similar tablets. There is NO CLEAR winner - each has positi
 
 * X-Pen Artist 13 GEN2 - X3 ELITE
 * Huion Kamvas 13 - PW517
-* Wacom One GEN1 - CP-913
+* Wacom One 2019 GEN1 - CP-913
 
 ## Center versus Corner accuracy
 

@@ -1,6 +1,6 @@
-# 7P notes: Wacom One Pen GEN1 (CP-913)
+# 7P notes: Wacom One 2019 GEN1 Pen (CP-913)
 
-The Wacom One Pen (CP-913) was design to work with the Wacom One GEN/2019 (DTC-33) which was one of Wacom's consumer pen display.&#x20;
+The Wacom One Pen (CP-913) was design to work with the Wacom One 2019 GEN1 (DTC-33) which was one of Wacom's consumer pen display.&#x20;
 
 
 

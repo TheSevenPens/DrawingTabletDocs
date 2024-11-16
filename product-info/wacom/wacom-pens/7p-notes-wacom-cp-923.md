@@ -1,8 +1,8 @@
-# 7P notes: Wacom One Pen GEN2 (CP-923)
+# 7P notes: Wacom One 2023 Pen GEN2 (CP-923)
 
 ## Overview
 
-Wacom introduced this pen in 2023. It is a terrible pen. Because of of how it handles pressure. I prefer using the Wacom One Pen GEN1 (CP-913) instead.
+Wacom introduced this pen in 2023. It is a terrible pen. Because of of how it handles pressure. I prefer using the Wacom One Pen 2019 GEN1 (CP-913) instead.
 
 
 
@@ -58,12 +58,12 @@ So no improvements to pen pressure levels. As a reminder, all you really need ar
 
 ### Forwards compatibility
 
-* Old pen (CP-913) -> Does work with new new Wacom One (Gen 2) tablets
+* Old pen (CP-913) -> Does work with new new Wacom One 2023 GEN2  tablets
 
 ### Samsung Galaxy S compatibility
 
 * I confirmed both pens (CP-913, CP-923) work with the Samsung Galaxy S8 Ultra.
-* I confirmed that the Samsung S Pen works with both the Wacom One (Gen 1) tablet and the Wacom One (Gen 2) tablets
+* I confirmed that the Samsung S Pen works with both the Wacom One 2019 GEN1 tablet and the Wacom One 2023 GEN2 tablets
 
 ### Serious Pressure problems
 

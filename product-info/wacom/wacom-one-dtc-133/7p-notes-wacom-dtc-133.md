@@ -1,4 +1,4 @@
-# 7P notes: Wacom One GEN1 (DTC-133)
+# 7P notes: Wacom One 2019 GEN1 (DTC-133)
 
 ### **Summary**
 
@@ -34,7 +34,7 @@ This has an AVHA display panel, not IPS. The colors are a little washed out and 
 
 The supplied Wacom One GEN1 pen (CP-913) is a decent pen. It's not as good as what you would find with the Pro Pen 2. It is comparable to the Samsung S pen in terms of IAF and pressure range.
 
-Much more here: [7P notes: Wacom One Pen GEN1 (CP-913)](../wacom-pens/7p-notes-wacom-one-pen-gen1-cp-913.md)&#x20;
+Much more here: [7P notes: Wacom One Pen GEN1 (CP-913)](../wacom-pens/7p-notes-wacom-one-2019-gen1-pen-cp-913.md)&#x20;
 
 ### Legs
 
