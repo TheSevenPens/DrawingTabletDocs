@@ -1,4 +1,4 @@
-# Wacom One GEN2
+# Wacom One 2023 GEN2
 
 ## Basics
 
@@ -11,6 +11,20 @@ Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](http
 | Wacom One M         | CTC-6110WL | pen tablet (screenless) |
 | Wacom One S         | CTC-4110WL | pen tablet (screenless) |
 
+* [<mark style="background-color:green;">**My notes on the Wacom One 2023 GEN2 pen displays**</mark>](7p-notes-wacom-one-2023-gen2-pen-displays.md) &#x20;
+* [<mark style="background-color:green;">**My notes on the Wacom One 2023 GEN2 pen tablets**</mark>](7p-notes-wacom-one-2023-gen2-pen-tablets.md)&#x20;
+
+
+
+This diagram is my summary how their consumer line of tablets is evolving
+
+<figure><img src="../../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
+
+## Branding
+
+* "Wacom One" now includes both pen displays and pen tablets
+* The successors to the Wacom Intuos pen tablets (CTL-4100\*, CTL-6100\*) are: the Wacom One (Gen2) pen tablets (CTC-4110WL, CTC-6110WL).
+
 ### User manuals
 
 * Wacom One 13 touch - [https://101.wacom.com/userhelp/en/toc/dth134.html](https://101.wacom.com/userhelp/en/toc/dth134.html) &#x20;
@@ -20,7 +34,6 @@ Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](http
 
 ## Resources
 
-* [<mark style="background-color:green;">**My notes on these tablets**</mark>](7p-notes-wacom-one-gen2-drawing-tablets.md)
 * [Draw your weapon - Wacom One 13 Touch – a digital painter’s review](https://drawyourweapon.com/tablet-review-wacom-one-13-touch/)  2024/01/19
 * [Android Police review of Wacom One](https://www.androidpolice.com/wacom-one-m-review/) 2024/04/26
 * [Brad Colbow review of Wacom One 13](https://www.youtube.com/watch?v=VXtQvhrV6WY) 2023/09/25

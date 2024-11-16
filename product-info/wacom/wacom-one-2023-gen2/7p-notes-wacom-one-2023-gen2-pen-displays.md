@@ -1,63 +1,24 @@
-# 7P notes: Wacom One GEN2 drawing tablets
+# 7P notes: Wacom One 2023 GEN2 pen displays
 
-## <mark style="color:red;">**I do not recommend the Wacom One GEN2 tablets**</mark>
+## <mark style="color:red;">**I do not recommend the Wacom One 2023 GEN2 pen displays**</mark>
 
 The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
-## Which models I own
-
-* Wacom One 13 touch GEN2 (DTH-134)
-* Wacom One 12 (DTC-121)
-* Wacom One M GEN2 (CTC-6110WL)
-
-## Understanding product evolution
-
-This diagram is my summary how their consumer line of tablets is evolving
-
-<figure><img src="../../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
-
-## Branding
-
-* "Wacom One" now includes both pen displays and pen tablets
-* The successors to the Wacom Intuos pen tablets (CTL-4100\*, CTL-6100\*) are: the Wacom One (Gen2) pen tablets (CTC-4110WL, CTC-6110WL).
-
-## Disambiguating models
-
-To disambiguate the discussion the tablets:
-
-* I will refer to this new series launched in 2023 as "Wacom One (GEN2)" even though Wacom is just calling it "Wacom One"
-* I will refer the the old series as "Wacom One (GEN1)" because this is what Wacom is calling it. Though sometimes it is referred to as "Wacom One 2019 (GEN1)"
-
-## **Wireless support for pen tablets**&#x20;
-
-The Wacom One (GEN2) pen tablets all support wireless as indicated by their model numbers that include the "WL" code.&#x20;
-
-## <mark style="color:red;">**Pressure problems**</mark>
-
-The Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues.
-
-See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
-
-Here's a reddit thread with another manifestation of the problem with the CTC-6110WL. [https://www.reddit.com/r/wacom/comments/1bniejn/my\_new\_ctc6110wl\_does\_not\_work\_properly\_with](https://www.reddit.com/r/wacom/comments/1bniejn/my\_new\_ctc6110wl\_does\_not\_work\_properly\_with)&#x20;
 
 
+## Stroke quality
+
+As you can see from the my testing below. The stroke quality with the new pen is not good compared to the old pen. This is due to a combination of tablet and pen.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Notes on the new Wacom One Pen (GEN2)
 
 **See this:**[ 7p notes: Wacom One Pen (GEN2](../wacom-pens/7p-notes-wacom-cp-923.md))&#x20;
 
-### **Pressure levels**
-
-* One by Wacom (CTL-472, CTL-672) -> 2048
-* Intuos (CTL-4100\*, CTL-6100\*) -> 4096
-* Wacom One (Gen 1) -> 4096
-* Wacom One (Gen 2) -> 4096
-
-So no improvements to pen pressure levels. As a reminder, all you really need are 2048 pressure levels and it is the pressure range that is more important.
-
-## **Pen display connectivity**
-
-The Wacom (Gen 1) can only be connected with a 3-in-1 cable.&#x20;
+## **Cables & connectivity**
 
 The Wacom One (Gen 2) pen displays can be connected three ways
 
@@ -65,21 +26,13 @@ The Wacom One (Gen 2) pen displays can be connected three ways
 * With a single USB-C cable
 * With two USB-C cables. One for display. One for power. Not all computers supply enough power over a USB-C connection to power a display. So this makes sense to provide the option. Most other pen displays work this way.
 
-## **Pen display > parallax**
+## **Parallax**
 
-Wacom estore says there is "no parallax"
-
-![](<../../../.gitbook/assets/image (440).png>)
-
-This is a physical impossibility in a pen display that has a piece of glass over the display panel. I demonstrated this clearly in my video on pen display accuracy: [https://youtu.be/M4rEk\_RNBrM](https://youtu.be/M4rEk\_RNBrM)&#x20;
-
-That being said the Wacom One (Gen 1) did not have much parallax. You can see photos of it here: [parallax](../../../guides/pen-displays/parallax.md)&#x20;
-
-So, I expect the low parallax story will continue for the Wacom One (Gen 2).
+TBD
 
 ## **Tablet Buttons**
 
-The Wacom One (Gen 2) pen tablets no longer have buttons on the tablets. Even though their predecessors - CTL-4100 and CTL6100 - did have buttons. This is a disappointment.&#x20;
+None.&#x20;
 
 ## Pen display > OSD
 

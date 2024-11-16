@@ -14,11 +14,11 @@
 * [**Huion Kamvas 13 (GS1331)**](../../product-info/huion/huion-kamvas/) $240 [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)&#x20;
 * [**Wacom One 2019 GEN1 (DTC-133)**](../../product-info/wacom/wacom-one-dtc-133/) $400 - NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.
 
-## Very bad drawing experience
+## Unsatisfactory drawing experience
 
-* [**Wacom One 12 GEN2 (DTC-121)**](../../product-info/wacom/wacom-one-gen2/) $400&#x20;
+* [**Wacom One 12 GEN2 (DTC-121)**](../../product-info/wacom/wacom-one-2023-gen2/) $400&#x20;
   * <mark style="color:red;">**BAD PRESSURE HANDLING**</mark>
-* [**Wacom One 13 touch** **GEN2 (DTH0134)**](../../product-info/wacom/wacom-one-gen2/) $600&#x20;
+* [**Wacom One 13 touch** **GEN2 (DTH-134)**](../../product-info/wacom/wacom-one-2023-gen2/) $600&#x20;
   * <mark style="color:red;">**BAD PRESSURE HANDLING**</mark>&#x20;
 
 ## Additional resources &#x20;

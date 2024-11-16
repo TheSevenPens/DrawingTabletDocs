@@ -23,7 +23,7 @@ The Wacom One GEN2 pen tablets are intended to be upgrades to the consumer-level
 
 Currently Wacom One GEN2 pen tablets and pen displays seem to suffer from pressure issues and I do not recommend purchasing them.&#x20;
 
-More here: [7P notes: Wacom One GEN2](wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)&#x20;
+More here: [7P notes: Wacom One GEN2](wacom-one-2023-gen2/7p-notes-wacom-one-2023-gen2-pen-displays.md)&#x20;
 
 ## Recommendation summary
 

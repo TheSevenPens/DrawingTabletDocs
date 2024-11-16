@@ -1,6 +1,6 @@
-# Wacom One GEN1
+# Wacom One 2019 GEN1
 
-## Wacom One GEN1 (DTC-133)
+## Wacom One 2019 GEN1 (DTC-133)
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-wacom-dtc-133.md)
 * Model year: 2019

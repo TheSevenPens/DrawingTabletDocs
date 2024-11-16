@@ -36,7 +36,7 @@
 
 ## Poor performers
 
-* [**Wacom One M**](../../product-info/wacom/wacom-one-gen2/) (CTC-6110WL) $150
-  * [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-one-gen2/7p-notes-wacom-one-gen2-drawing-tablets.md)
+* [**Wacom One M**](../../product-info/wacom/wacom-one-2023-gen2/) (CTC-6110WL) $150
+  * [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-one-2023-gen2/7p-notes-wacom-one-2023-gen2-pen-displays.md)
   * <mark style="color:red;">**NOT RECOMMENDED: SUBSTANDARD PRESSURE HANDLING**</mark>
 

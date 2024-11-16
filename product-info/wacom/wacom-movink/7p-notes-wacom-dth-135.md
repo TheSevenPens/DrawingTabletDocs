@@ -61,7 +61,7 @@ The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 
 The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
 
 ## Core specs
 

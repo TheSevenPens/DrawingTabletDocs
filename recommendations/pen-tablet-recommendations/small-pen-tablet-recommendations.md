@@ -11,6 +11,6 @@
 
 ## Poor performers
 
-* [**Wacom One S GEN2 (CTC-4110WL)**](../../product-info/wacom/wacom-one-gen2/) $100&#x20;
+* [**Wacom One S GEN2 (CTC-4110WL)**](../../product-info/wacom/wacom-one-2023-gen2/) $100&#x20;
   * <mark style="color:red;">**NOT RECOMMENDED: SUBSTANDARD PRESSURE RESPONSE**</mark>
 
