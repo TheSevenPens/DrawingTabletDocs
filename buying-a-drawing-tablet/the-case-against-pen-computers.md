@@ -25,7 +25,7 @@ Instead of pen computers, I recommend looking at mobile devices that support pen
 * Apple iPad Pro with the Apple Pencil
 * Samsung Galaxy Tab S series tablets that use the Samsung S pen
 
-More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations.md)
+More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations/)
 
 ## Cost
 

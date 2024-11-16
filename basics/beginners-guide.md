@@ -67,7 +67,7 @@ Pen displays cost between $300 to $3500.&#x20;
 
 Pen computers cost between $1000 to $3500.
 
-### Mobile computers with pen support
+### Pen-enabled mobile computers&#x20;
 
 These are NOT drawing tablets, but because they are very very similar to pen computers in that they are standalone and you can use a pen to draw with them - we can talk about them as an viable alternative to a pen computer.
 

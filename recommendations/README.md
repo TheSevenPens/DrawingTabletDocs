@@ -8,7 +8,7 @@ Below, here are tablets I would personally recommend separated by device type. T
 
 * [**Pen tablets**](pen-tablet-recommendations/) (No screen + require a computer)
 * [**Pen displays**](pen-display-recommendations/) (Have a screen + require a computer)
-* [**Standalone drawing tablets**](standalone-drawing-tablet-recommendations.md) (Have a screen + do not require a computer)
+* [**Standalone drawing tablets**](standalone-drawing-tablet-recommendations/) (Have a screen + do not require a computer)
 
 If you are beginner, then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners.md).
 

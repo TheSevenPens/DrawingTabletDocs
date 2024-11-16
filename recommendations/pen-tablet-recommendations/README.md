@@ -2,7 +2,7 @@
 
 ## Overview
 
-It's best if you look through [**the buying guide**](../../buying-a-drawing-tablet/) first. These are recommendations for tablets that don't have screens. If you are looking for a tablet with a screen go here: [**pen display recommendations**](../pen-display-recommendations/). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations.md).
+It's best if you look through [**the buying guide**](../../buying-a-drawing-tablet/) first. These are recommendations for tablets that don't have screens. If you are looking for a tablet with a screen go here: [**pen display recommendations**](../pen-display-recommendations/). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations/).
 
 ### About Wacom pen tablets
 
