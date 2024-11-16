@@ -20,7 +20,9 @@ For example, in the diagram below, the pen is pointing to the lower left - meani
 
 The work for the EMR sensor and tablet firmware is to detect that there are two signal peaks and then disambiguate them.
 
-Once two peaks are established the direction and amount of tilt can be established and then reported to the computer.
+Once two peaks are established and their relative strengths and positions are known, then the direction of tilt and amount of tilt can be established and then reported to the computer.
+
+The specific algorithm to do this has, to my knowledge, never been exactly revealed. But those knowledgeable in how how signals like this are processed will probably have a clearer idea of how this tilt detection be done.
 
 ## **How tilt is reported to the computer**
 
