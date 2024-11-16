@@ -10,13 +10,17 @@ Instead, an EMR digitizer can detect the tilt of the pen just by examining the s
 
 When the pen is perpendicular, the digitizer detects a single perpendicular shape.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (548).png" alt=""><figcaption></figcaption></figure>
 
 As the pen tilts, it produces two shapes. And the relationship between the two shapes indicates the tilt.
 
-For example, in the diagram below, the pen is pointing to the lower left - meaning the top part of the pen is "falling" toward upper right of the tablet.
+For example, in the diagram below, the pen is pointing to the lower left - meaning the top part of the pen is "falling" toward the lower left of the tablet.
 
-<figure><img src="../../.gitbook/assets/Slide_20240506_185502.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
+
+The work for the EMR sensor and tablet firmware is to detect that there are two signal peaks and then disambiguate them.
+
+Once two peaks are established the direction and amount of tilt can be established and then reported to the computer.
 
 ## **How tilt is reported to the computer**
 
