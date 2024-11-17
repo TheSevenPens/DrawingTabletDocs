@@ -69,5 +69,7 @@ If the Cintiq Pro 22 is out of your price range I would pick the Artist 22 Plus 
 * XP-Pen Artist 22 Plus - TYPICAL for a pen display
 * Huion Kamvas 22 Plus - TYPICAL for a pen display
 
+## Notes on 3-in-1 cable
 
+The Kamvas 22 Plus uses a proprietary 3-in-1 cable. And now matter how you try to conenct it, this 3-in-1 cable must be used.
 
