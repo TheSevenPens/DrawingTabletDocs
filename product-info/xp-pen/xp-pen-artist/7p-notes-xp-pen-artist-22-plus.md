@@ -12,6 +12,13 @@ Rating: VERY GOOD.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Slide_20241117_111321 (1).jpg" alt=""><figcaption></figcaption></figure>
 
+## Ports
+
+* Power jack
+* USB-C port
+* HDMI
+* Headphone jack
+
 ## Connections
 
 Option 1: USB-C + power
@@ -23,4 +30,8 @@ Option 1: USB-C + power
 Option 2: HDMI + USB + power
 
 <figure><img src="../../../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
+
+## Audio
+
+Comes with a headphone jack.&#x20;
 
