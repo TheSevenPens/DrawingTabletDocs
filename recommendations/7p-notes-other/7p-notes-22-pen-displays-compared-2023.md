@@ -33,15 +33,29 @@ If the Cintiq Pro 22 is out of your price range I would pick the Artist 22 Plus 
 * The X3 Pro pen is a big improvement from previous generations of XP-Pen pens. The X3 Pro pen is also better than the Huion PW517 pen.
 * The PW517 - The IAF is good at around 3gf but the max pressure is highly variable. Instead consider getting the PW550 pen which is also compatible with tablets that use the PW517 pen. [<mark style="background-color:green;">**my notes on PW550**</mark>](../../product-info/huion/huion-pen-models/7p-notes-huion-pw550-series-pens.md).
 
+## Pixelation
+
+* Cintiq Pro 22 - very hard to notice pixels
+* The Artist 22 Plus - pixelation obvious
+* Kamvas 22 Plus - pixelation obvious
+
 ## Noise
 
-The Cintiq Pro 22 has a fan that is constantly on. It's not loud but it is audible and could be an irritation for some people.
-
-The Artist 22 Plus and Kamvas 22 Plus are completely silent.
+* Cintiq Pro 22 - SOME NOISE - has a fan that is constantly on. It's not loud but it is audible and could be an irritation for some people.
+* The Artist 22 Plus - SILENT
+* Kamvas 22 Plus - SILENT
 
 ## Diagonal wobble
 
-* All three are EXCELLENT with almost no diagonal wobble
+* Cintiq Pro 22 - EXCELLENT
+* XP-Pen Artist 22 Plus - EXCELLENT
+* Huion Kamvas 22 Plus - EXCELLENT
+
+## Tilt compensation
+
+* Cintiq Pro 22 - VERY GOOD
+* XP-Pen Artist 22 Plus - VERY GOOD
+* Huion Kamvas 22 Plus - I didn't measure yet
 
 ## Edge and corner accuracy
 
@@ -49,7 +63,11 @@ The Artist 22 Plus and Kamvas 22 Plus are completely silent.
 * XP-Pen Artist 22 Plus - EXCELLENT
 * Huion Kamvas 22 Plus - OK-ISH
 
+## Pointer lag
 
+* Cintiq Pro 22 - TYPICAL for a pen display. When using 120Hz visual effect of lag only slightly improves (maybe 10%).
+* XP-Pen Artist 22 Plus - TYPICAL for a pen display
+* Huion Kamvas 22 Plus - TYPICAL for a pen display
 
 
 
