@@ -90,7 +90,13 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 It comes with a proprietary 3-in-1 cable.&#x20;
 
-As the user manual illustrates. You cannot use this with a single USB-C cable or even two USB-C cables. You must always use the 3-in-1 cable in some form for power. Sometimes I have set it up with the 3-in-1 cable connected in the top USB-C port and then the power end connected to the wall. And in the bottom port, I use a Thunderbolt 3 cable to get the display signal and data to the pen display.
+<figure><img src="../../../.gitbook/assets/image (551).png" alt="" width="563"><figcaption></figcaption></figure>
+
+USB-C connection.&#x20;
+
+You can also connect to your computer with a USB-C cable (for display signal, and data) but you must **also** use the 3-in-1 cable for power.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (552).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Diagonal wobble**&#x20;
 
