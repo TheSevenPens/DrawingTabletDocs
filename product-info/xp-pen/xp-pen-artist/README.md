@@ -4,8 +4,8 @@
 
 These more recent models:
 
-* [XP-Pen Artist GEN2](xp-pen-artist-gen2/)
-* [XP-Pen Artist Pro GEN2](xp-pen-artist-pro-gen2/)
+* [XP-Pen Artist GEN2](../xp-pen-artist-gen2/)
+* [XP-Pen Artist Pro GEN2](../xp-pen-artist-pro-gen2/)
 
 ## XP-Pen Artist 12 GEN1
 

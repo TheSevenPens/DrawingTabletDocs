@@ -4,7 +4,7 @@
 
 * [**Wacom Cintiq Pro 22**](../../product-info/wacom/wacom-cintiq-pro/) $3000 &#x20;
   * **BE AWARE**: Fan noise
-* [**XP-Pen Artist 22 Plus (MD220FH)**](../../product-info/xp-pen/xp-pen-artist.md) $470 ★★★★
+* [**XP-Pen Artist 22 Plus (MD220FH)**](../../product-info/xp-pen/xp-pen-artist/) $470 ★★★★
   * [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas-pro/7p-notes-huion-gt2401.md)&#x20;
 
 ## Top picks 27"
