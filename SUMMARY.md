@@ -300,6 +300,7 @@
     * [Huion pens](product-info/huion/huion-pen-models/README.md)
       * [Huion PenTech](product-info/huion/huion-pen-models/huion-pentech.md)
       * [7P notes: Huion PW500 pen](product-info/huion/huion-pen-models/7p-notes-huion-pw500-pen.md)
+      * [7P notes: Huion PW517 pen](product-info/huion/huion-pen-models/7p-notes-huion-pw517-pen.md)
       * [7P notes: Huion PW550 series pens](product-info/huion/huion-pen-models/7p-notes-huion-pw550-series-pens.md)
       * [7P notes: Huion PW600 series pens](product-info/huion/huion-pen-models/7p-notes-huion-pw600-series-pens.md)
     * [Huion Inspiroy 2](product-info/huion/huion-inspiroy-2/README.md)

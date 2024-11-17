@@ -1,0 +1,18 @@
+# 7P notes: Huion PW517 pen
+
+## Overview
+
+The Huion PW517 pen is one that comes many Huion tablets that use PenTech 3.0.
+
+It seems (subjectively) to have around an IAF of around 3gf.
+
+It's maximum pressure varies quite a bit depending on which unit your have.
+
+## Use the PW550 pen instead
+
+If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [<mark style="background-color:green;">**my notes on the PW550 pen**</mark>](7p-notes-huion-pw550-series-pens.md).
+
+## Pressure range measurements
+
+<figure><img src="../../../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
+
