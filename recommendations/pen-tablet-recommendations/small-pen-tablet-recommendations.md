@@ -2,15 +2,13 @@
 
 ## Top Picks
 
-* [**Wacom Intuos Pro Small**](../../product-info/wacom/wacom-intuos-pro/) (PTH-460) $200&#x20;
-* [**Wacom Intuos Small**](../../product-info/wacom/wacom-intuos.md) (CTL-4100) $75&#x20;
+* **Wacom Intuos Pro Small** (PTH-460) $200 \[[**links**](../../product-info/wacom/wacom-intuos-pro/) ]
+* **Wacom Intuos Small** (CTL-4100) $75 \[[**links**](../../product-info/wacom/wacom-intuos.md)]&#x20;
   * FEATURE LIMITATION: NO TILT
-* [**One by Wacom Small**](../../product-info/wacom/one-by-wacom/) (CTL-472) $50&#x20;
-  * [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)
+* **One by Wacom Small** (CTL-472) $50 \[[**links**](../../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)]
   * FEATURE LIMITATION: NO TILT
 
 ## Poor performers
 
-* [**Wacom One S GEN2 (CTC-4110WL)**](../../product-info/wacom/wacom-one-2023-gen2/) $100&#x20;
-  * <mark style="color:red;">**NOT RECOMMENDED: SUBSTANDARD PRESSURE RESPONSE**</mark>
-
+* **Wacom One S GEN2 (CTC-4110WL)** $100 \[[**links**](../../product-info/wacom/wacom-one-2023-gen2/) ]&#x20;
+  * <mark style="color:red;">**AWFUL PRESSURE HANDLING: BAD LOOKING STROKES**</mark>
