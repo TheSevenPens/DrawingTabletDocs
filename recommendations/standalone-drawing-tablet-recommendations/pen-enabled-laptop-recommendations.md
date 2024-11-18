@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-Formally, these are not drawing tablets. These are really normal laptops  that have a form factor that might also serve the needs of a drawing tablet. Examples: Microsoft Surface Pro and Samsung Galaxy Book4 360.
+These aren't really drawing tablets. They're laptops that you can use for drawing also. The drawing experience with these devices is not as good as a dedicated drawing tablet but they may be enough for what you need.
 
 * Operating system: currently all run Windows
 * Scenario: General purpose
@@ -21,7 +21,7 @@ Pen tech: MPP (similar to AES)
 * [**Surface Pro 8**](../../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 * [**Surface Pro 9**](../../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 
-## Samsung Galaxy Book4 360
+## Samsung Galaxy Book 4/5 360
 
 Type: 2-in-1 laptop
 
@@ -31,5 +31,7 @@ This device also works with the the Wacom CP-913 pen. (Thanks to fellow tablet e
 
 Two editions:
 
+* Samsung Galaxy Book5 360
+* Samsung Galaxy Book5 Pro 360
 * [Samsung Galaxy Book4 360](../../product-info/samsung/samsung-galaxy-book-360.md)&#x20;
 * [Samsung Galaxy Book4 Pro 360](../../product-info/samsung/samsung-galaxy-book-360.md)&#x20;
