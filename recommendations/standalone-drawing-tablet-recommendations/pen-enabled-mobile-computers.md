@@ -31,7 +31,7 @@ Formally, these are not drawing tablets, but they can work just like one. And of
 
 [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../product-info/samsung/7p-notes-samsung-galaxy-tab-s-series.md) &#x20;
 
-[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-info/samsung/7p-notes-samsung-galaxy-tab-s8-ultra.md)&#x20;
+[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-info/samsung/7p-notes-samsung-s8-ultra.md)&#x20;
 
 * [**Samsung Galaxy Tab S9 Series** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($800 to $1200) higher performance options
 * [**Samsung Galaxy Tab S9 FE** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($450) excellent mid-budget option

@@ -1,4 +1,4 @@
-# 7P notes: Samsung S8 Ultra
+# 7P notes: Samsung Galaxy Tab S8 Ultra
 
 ## Device size
 
