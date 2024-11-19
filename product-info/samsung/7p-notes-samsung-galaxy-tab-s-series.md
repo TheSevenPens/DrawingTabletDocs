@@ -6,7 +6,7 @@ The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can p
 
 Specific models I own:
 
-* Samsung Galaxy Tab S8 Ultra <- RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-samsung-s8-ultra.md))
+* Samsung Galaxy Tab S8 Ultra <- RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-samsung-galaxy-tab-s8-ultra.md))
 * Samsung Galaxy Tab S9 FE <- HIGHLY RECOMMENDED. Great value at reasonable cost.
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition) <- RECOMMENDED as great budget choice for esp. for beginners.
 
