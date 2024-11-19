@@ -214,6 +214,7 @@
     * [7P notes: Minisforum Neptune HX99G](guides/mini-pcs-for-digital-art/7p-notes-minisforum-neptune-hx99g.md)
   * [Laptops for digital art](guides/laptops-for-digital-art.md)
 * [Applications](applications/README.md)
+  * [Apps for beginners](applications/apps-for-beginners.md)
   * [List of apps](applications/list-of-apps.md)
   * [App tips](applications/tips/README.md)
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)

@@ -6,7 +6,6 @@
 
 * [**ArtFlow Studio**](http://artflowstudio.com/) (Android, ChromeOS)&#x20;
 * [**ArtRage** ](../application-info/artrage.md)(Windows, macOS, iOS, Android)
-* **Aggie.io** - [https://aggie.io](https://aggie.io) (web)
 * [**Clip Studio Paint**](../application-info/clip-studio-paint/) (Windows, MacOS, Android, iOS)
 * **Adobe** [**Fresco**](../application-info/fresco.md) (Windows, iOS, MacOS)
 * [**Firealpaca**](../application-info/fireaplaca.md) (Windows, MacOS)
