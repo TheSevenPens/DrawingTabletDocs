@@ -7,7 +7,7 @@ This is my curated list of apps that are simple and inexpensive (or free). These
 * For other options consult this [**list of apps**](list-of-apps.md).
 * If you are interested in understanding apps in general: [**Applications**](./)
 
-## Recommendations
+## Options
 
 * [**Procreate**](../application-info/procreate/) (iOS) [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/procreate/7p-notes-procreate.md) &#x20;
 * [**HiPaint**](../application-info/hipaint.md) (Android, iOS)
@@ -18,6 +18,4 @@ This is my curated list of apps that are simple and inexpensive (or free). These
 * [**Concepts**](../application-info/concepts-app.md) - (Windows, Android, iOS, ChromeOS)
 * **Photopea** - [https://www.photopea.com/](https://www.photopea.com/) (web)
   * Basically an online version of photoshop
-
-
-
+* **Sketchbook Pro** (MacOS, Windows, Android, iOS)
