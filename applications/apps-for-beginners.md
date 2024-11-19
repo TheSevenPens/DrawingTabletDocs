@@ -1,12 +1,11 @@
 # Apps for beginners
 
-## Overview.
+## Overview
 
 This is my curated list of apps that are simple and inexpensive (or free). These apps are ideal for children, or for someone who just wants something basic.
 
-For other options consult this [**list of apps**](list-of-apps.md).
-
-If you are interested in understanding apps in general: [**Applications**](./)
+* For other options consult this [**list of apps**](list-of-apps.md).
+* If you are interested in understanding apps in general: [**Applications**](./)
 
 ## Recommendations
 
