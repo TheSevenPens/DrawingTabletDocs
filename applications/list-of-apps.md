@@ -1,7 +1,5 @@
 # List of apps
 
-## Pen-aware applications
-
 ### Creative 2D
 
 * [**ArtFlow Studio**](http://artflowstudio.com/) (Android, ChromeOS)&#x20;

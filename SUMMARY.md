@@ -215,6 +215,7 @@
   * [Laptops for digital art](guides/laptops-for-digital-art.md)
 * [Applications](applications/README.md)
   * [Apps for beginners](applications/apps-for-beginners.md)
+  * [Apps for Android](applications/apps-for-android.md)
   * [List of apps](applications/list-of-apps.md)
   * [App tips](applications/tips/README.md)
     * [Show document canvas on another display](applications/tips/show-document-canvas-on-another-display.md)
