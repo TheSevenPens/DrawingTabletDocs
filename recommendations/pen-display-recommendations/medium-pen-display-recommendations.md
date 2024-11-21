@@ -18,3 +18,7 @@
   * <mark style="color:red;">**LOTS OF AG SPARKLE**</mark>&#x20;
 * XP-Pen Artist 16 GEN2 (CD160FH) \[$400, [**links**](../../product-info/xp-pen/xp-pen-artist-gen2/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-cd160fh.md)]
   * <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
+
+## Videos
+
+{% embed url="https://youtu.be/5rHs41My5EM" %}

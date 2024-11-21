@@ -21,6 +21,10 @@
 * Wacom One 13 touch GEN2 (DTH-134) \[$600, [**links**](../../product-info/wacom/wacom-one-2023-gen2/)]
   * <mark style="color:red;">**BAD PRESSURE HANDLING**</mark>&#x20;
 
+## Videos
+
+{% embed url="https://youtu.be/Yu0WQlF_hvw" %}
+
 ## Additional resources &#x20;
 
 * [**7P notes on 13" pen displays compared (2023)**](../7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md) &#x20;
