@@ -13,6 +13,7 @@
 * Model Year: 2024
 * product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
 * [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-huion-gt1902.md)&#x20;
+* [David Revoy - Huion Kamvas Pro 19](https://www.youtube.com/watch?v=M9VbiVJX-J4) - 2024/11/21&#x20;
 * [Create Now Sleep Later - Review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=5AWpKgv8jdY) - 2024/09/15&#x20;
 * [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024/06/21&#x20;
 * [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024/01/09
