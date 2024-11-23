@@ -2,14 +2,14 @@
 
 ## Top picks 22"
 
-* Wacom Cintiq Pro 22 \[$3000, [**info**](../../product-info/wacom/wacom-cintiq-pro/)]
+* Wacom Cintiq Pro 22 \[$3000, [**info**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-227.md)]
   * **BE AWARE**: Fan noise
-* XP-Pen Artist 22 Plus (MD220FH) ★★★★ \[$470, [**links**](../../product-info/xp-pen/xp-pen-artist/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas-pro/7p-notes-huion-gt2401.md)]
+* XP-Pen Artist 22 Plus (MD220FH) ★★★★ \[$470, [**links**](../../product-info/xp-pen/xp-pen-artist/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-artist-22-plus.md)]
 
 ## Top picks 27"
 
-* Huion Kamvas Pro 27 (GT2701) ★★★★ \[$2000, [**links**](../../product-info/huion/huion-kamvas-pro/) ]
-* Wacom Cintiq Pro 27 \[$3500, [**links**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-271.md) ]
+* Huion Kamvas Pro 27 (GT2701) ★★★★ \[$2000, [**links**](../../product-info/huion/huion-kamvas-pro/)]
+* Wacom Cintiq Pro 27 \[$3500, [**links**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-271.md)]
   * **BE AWARE**: Fan noise
 
 ## Decent choices
@@ -23,7 +23,7 @@
 
 * Huion Kamvas 22 (GS2201) \[$450, [**links**](../../product-info/huion/huion-kamvas/)]&#x20;
 * Huion Kamvas 22 Plus (GS2202) \[$550, [**links**](../../product-info/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md)]&#x20;
-* Wacom Cintiq 22 (DTK-2260) \[$1200, [**links**](../../product-info/wacom/wacom-cintiq/)]
+* Wacom Cintiq 22 (DTK-2260) \[$1200, [**links**](../../product-info/wacom/wacom-cintiq/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq/7p-notes-wacom-dtk-2260.md)]
 
 ## Not tested yet
 
