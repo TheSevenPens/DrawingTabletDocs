@@ -36,7 +36,7 @@ Likewise even though this video is about professional tablets, the topics raised
 
 ## Notes on Wacom drivers
 
-* As of Wacom Driver 6.4.0 released in October 2022, Wacom has dropped support for Intuos 5 tablets and older Intuos tablets - except for the Wacom Intuos 4 XL which is still supported. ([https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html))
+* As of Wacom Driver 6.4.0 released in October 2022, Wacom has dropped support for Intuos 5 tablets and older Intuos tablets - except for the Wacom Intuos 4 XL which is still supported. ([https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.0.html))
 
 ## Alternative to Wacom drivers for older tablets
 
@@ -45,7 +45,7 @@ Likewise even though this video is about professional tablets, the topics raised
 
 ## Testing out a tablet before you buy
 
-If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawing-tablet-before-buying.md). &#x20;
+If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawing-tablet.md). &#x20;
 
 ## Buying online
 
@@ -99,4 +99,4 @@ Often, depending on the tablet and how you draw, the pen nib wears down as you u
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/)&#x20;
+* [https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos_4_or_intuos_5/)&#x20;
