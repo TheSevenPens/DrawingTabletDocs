@@ -22,9 +22,15 @@ Shop here: [Gator Store: Screen Saver Totes](https://gatorco.com/shop-by-categor
 
 
 
+### Case Club
+
+site: [https://www.caseclub.com/](https://www.caseclub.com/)&#x20;
+
+They have a variety of cases. And even one for a specific pen display: [https://www.caseclub.com/product/wacom-cintiq-pro-24-case/](https://www.caseclub.com/product/wacom-cintiq-pro-24-case/)&#x20;
+
 ### **Moko cases**
 
-These cases are focused around iPads and similar tablets. They may be useful for small to medium pen tablets. Shop here: [**Moko store on Amazon**](https://www.amazon.com/stores/MoKo/page/2017E8BA-91D3-4C19-B94A-CC40C7866F49?ref\_=ast\_bln)
+These cases are focused around iPads and similar tablets. They may be useful for small to medium pen tablets. Shop here: [**Moko store on Amazon**](https://www.amazon.com/stores/MoKo/page/2017E8BA-91D3-4C19-B94A-CC40C7866F49?ref_=ast_bln)
 
 <figure><img src="../.gitbook/assets/718Ib9DrEqL._AC_CR0,0,0,0_SX960_SY720_.jpg" alt="" width="180"><figcaption></figcaption></figure>
 
@@ -40,12 +46,12 @@ Targus 16" Laptop Sleeve - ([https://www.target.com/p/targus-16-34-pulse-slipcas
 
 ## Notes on iPad cases
 
-**Possible magnetic interference** - Something to look out for.  Some cases have magnets that can interfere with the Apple Pencil. See [**this reddit post**](https://www.reddit.com/r/ipad/comments/1d93ew0/some\_magnetic\_cases\_may\_interfere\_with\_the\_apple/).
+**Possible magnetic interference** - Something to look out for.  Some cases have magnets that can interfere with the Apple Pencil. See [**this reddit post**](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/).
 
 ## Cases for pens
 
 * Eyeglass cases
 * Cases meant for pens or pencils
 * Examples of small cases for pens:&#x20;
-  * [https://www.amazon.com/dp/B01FWE0DQY/ref=sspa\_dk\_detail\_2?pd\_rd\_i=B01FWE0DQY](https://www.amazon.com/dp/B01FWE0DQY/ref=sspa\_dk\_detail\_2?pd\_rd\_i=B01FWE0DQY)
+  * [https://www.amazon.com/dp/B01FWE0DQY/ref=sspa\_dk\_detail\_2?pd\_rd\_i=B01FWE0DQY](https://www.amazon.com/dp/B01FWE0DQY/ref=sspa_dk_detail_2?pd_rd_i=B01FWE0DQY)
 
