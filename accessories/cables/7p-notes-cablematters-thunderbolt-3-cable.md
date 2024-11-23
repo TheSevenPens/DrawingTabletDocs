@@ -2,7 +2,7 @@
 
 ## Overview
 
-For connecting my pen displays I often use this cable**:** CableMatters \[Intel Certified] 20Gps Thunderbolt 3 cable (6.6 ft) supporting 100W charging. ([amazon link](https://www.amazon.com/dp/B01AS8U9KE))
+For connecting my pen displays I often use this cabl&#x65;**:** CableMatters \[Intel Certified] 20Gps Thunderbolt 3 cable (6.6 ft) supporting 100W charging. ([amazon link](https://www.amazon.com/dp/B01AS8U9KE))
 
 <figure><img src="../../.gitbook/assets/CableMatters TB3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

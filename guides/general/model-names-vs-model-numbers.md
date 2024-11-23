@@ -17,25 +17,25 @@ All these issues can cause people to purchase the wrong tablet or purchase the w
 
 Currently this describes **5 different tablets** of different kinds and manufacturer in different years and of different levels of quality.
 
-* <mark style="color:red;">**Wacom One**</mark>** GEN1 (DTC-133)** - a pen display released in 2019
-* <mark style="color:red;">**Wacom One**</mark>** 12 GEN2 (DTC-121)** - a pen display released in 2023 (I don't recommend this tablet)
-* <mark style="color:red;">**Wacom One**</mark>** 13 touch GEN2 (DTH-134)** - a pen display released in 2023 (I don't recommend this tablet)
-* <mark style="color:red;">**Wacom One**</mark>** S GEN2 (CTC-4110WL)** - a pen tablet released in 2023 (I HIGHLY don't recommend this tablet)
-* <mark style="color:red;">**Wacom One**</mark>** M GEN2 (CTC-6110WL)** - a pen tablet released in 2023 (I HIGHLY don't recommend this tablet)
+* <mark style="color:red;">**Wacom One**</mark>**&#x20;GEN1 (DTC-133)** - a pen display released in 2019
+* <mark style="color:red;">**Wacom One**</mark>**&#x20;12 GEN2 (DTC-121)** - a pen display released in 2023 (I don't recommend this tablet)
+* <mark style="color:red;">**Wacom One**</mark>**&#x20;13 touch GEN2 (DTH-134)** - a pen display released in 2023 (I don't recommend this tablet)
+* <mark style="color:red;">**Wacom One**</mark>**&#x20;S GEN2 (CTC-4110WL)** - a pen tablet released in 2023 (I HIGHLY don't recommend this tablet)
+* <mark style="color:red;">**Wacom One**</mark>**&#x20;M GEN2 (CTC-6110WL)** - a pen tablet released in 2023 (I HIGHLY don't recommend this tablet)
 
 ## Names that are too similar
 
 ### Example: Wacom One and One by Wacom
 
-* **Wacom **<mark style="color:red;">**One**</mark> - any one of 5 higher-end consumer tablets (3 pen displays and 2 pen tablets)
-* <mark style="color:red;">**One**</mark>** by Wacom** - two low-end consumer tablets. Don't let "low-end" fool you. These are excellent tablets.
+* **Wacom&#x20;**<mark style="color:red;">**One**</mark> - any one of 5 higher-end consumer tablets (3 pen displays and 2 pen tablets)
+* <mark style="color:red;">**One**</mark>**&#x20;by Wacom** - two low-end consumer tablets. Don't let "low-end" fool you. These are excellent tablets.
 
 ### **Example: XP-Pen Artist 16 Pro and XP-Pen Artist Pro 16**
 
 These tablets names differ by where the word "Pro" is in their name. One has it in the middle and one has it a the end.
 
-* **Artist **<mark style="color:red;">**Pro**</mark>** 16 (ID160F-E)** ([product page](https://www.xp-pen.com/product/artist-pro-16.html))
-* **Artist 16 **<mark style="color:red;">**Pro**</mark>** (doesn't have a model number)** ([product page](https://www.xp-pen.com/product/artist-16-pro.html))
+* **Artist&#x20;**<mark style="color:red;">**Pro**</mark>**&#x20;16 (ID160F-E)** ([product page](https://www.xp-pen.com/product/artist-pro-16.html))
+* **Artist 16&#x20;**<mark style="color:red;">**Pro**</mark>**&#x20;(doesn't have a model number)** ([product page](https://www.xp-pen.com/product/artist-16-pro.html))
 
 ## Names reused for different releases
 

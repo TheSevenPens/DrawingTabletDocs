@@ -2,9 +2,9 @@
 
 ## **Summary**
 
-The Huion Kamvas 22 is one of the best price-to-performance pen displays in the market.&#x20;
+The Huion Kamvas 22 Plus is one of the best price-to-performance pen displays in the market.&#x20;
 
-NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH) though, I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
+NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
 
 ## Basics
 
@@ -25,7 +25,7 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH) though, I
 ## Pen
 
 * Pen model id: PW517
-* pen comes with plastic nib
+* [<mark style="background-color:green;">**My notes on the PW517 pen**</mark>](../huion-pen-models/7p-notes-huion-pw517-pen.md)
 
 ## Pointer lag
 
@@ -38,7 +38,13 @@ TYPICAL. - normal for a pen display.
 ## Pen tracking accuracy
 
 * **Center accuracy -** GOOD. I did not measure
-* **Corner Accuracy** - Seems to me about +/- 3mm. A little on the high side, but it will not interfere with drawing.
+* **Corner Accuracy** - Seems to me about +/- 3mm on the lower left corner. Other corners had less. A little on the high side, but it will not interfere with drawing.
+
+## **Tilt compensation**
+
+GOOD. Pointer has only very minor displacement when pen tilted at 45 degrees.
+
+<figure><img src="../../../.gitbook/assets/Kamvas 22 Plus (GS2202) tilt comp.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Display > Parallax**
 

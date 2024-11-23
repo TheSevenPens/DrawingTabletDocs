@@ -35,7 +35,7 @@ When doing this research it will simplify things if you know the exact model num
 
 ## **Display signal with DP alt mode support**
 
-Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read this**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md).
+Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md).
 
 ## Power support
 
@@ -69,5 +69,5 @@ I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results
 ## Resources
 
 * Here is a list from Huion about devices that can use a single USB-C cable: [https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)&#x20;
-* Brad Colbow connecting the Huion Kamvas 13 with a single USB-C cable: See 6:00 in this video: [https://youtu.be/ku8x1q\_nhFQ](https://youtu.be/ku8x1q\_nhFQ)
+* Brad Colbow connecting the Huion Kamvas 13 with a single USB-C cable: See 6:00 in this video: [https://youtu.be/ku8x1q\_nhFQ](https://youtu.be/ku8x1q_nhFQ)
 * Teoh on Tech connecting the XP-Pen Artist 13 (2nd gen) using a single USB-C cable. See 4:30 in the video:  [https://youtu.be/Exj2PZu4MHM](https://youtu.be/Exj2PZu4MHM)
