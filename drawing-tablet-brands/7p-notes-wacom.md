@@ -11,7 +11,7 @@ Some basic summaries of their leading series of tablets
 * **Intuos Pro** - professional pen tablets. continue to be the best pen tablets ever made
 * **Cintiq Pro** - professional pen displays - continue to be the best pen displays ever made
 * **One by Wacom** - consumer pen tablets - are terrific beginner tablets
-* Wacom One - consumer pen tablets an pen displays - mixed bag of results here.&#x20;
+* **Wacom One** - consumer pen tablets and pen displays - mixed bag of results here.&#x20;
 
 ## What Wacom does well
 
