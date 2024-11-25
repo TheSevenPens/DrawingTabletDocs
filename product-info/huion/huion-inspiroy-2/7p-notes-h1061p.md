@@ -2,15 +2,35 @@
 
 ## **Summary**
 
-<mark style="color:red;">**I DO NOT RECOMMEND THIS THIS TABLET CURRENTLY**</mark>
-
 I only tried this tablet for about a week. In most ways it is a good tablet with some nice features.
 
-HOWEVER, some units (not all) display some bad pressure handling.
+## **Pen**
+
+This tablet comes with the Huion PW110 pen.
+
+## **Pen compatibility**&#x20;
+
+* PW110
+* PW517 (I tested)
+* PW550 (I tested)
+
+## **Size**
+
+Huion puts L in the name of this tablet to identify it is as a "large" tablet. However this tablet is close to size to medium tablets like the Wacom Intuos Pro medium (PTH-660)
+
+It is nowhere close to the true large size of something like the Wacom Intuos Pro Large (PTH-860) or the Huion Inspiroy Giano G930L.
+
+## **Wireless**
+
+The tablet does NOT support wireless connectivity. It must be connected with USB cable.
+
+## **Express keys**
+
+I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.&#x20;
 
 ## **Pen pressure problem**
 
-See this thread: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/)
+See this thread: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
 
 **Frequency**
 
@@ -29,28 +49,6 @@ The effect is not noticeable with small brushes for example 5 pixels.
 Huion needs to address this problem with an update.
 
 This behavior seems hardware-related. It occurs with both when using the Huion driver and OpenTabletDriver.
-
-## **Pen**
-
-This tablet comes with the Huion PW110 pen
-
-## **Pen compatibility pens**
-
-I tried it with a PW517 pen. It worked.&#x20;
-
-## **Size**
-
-Huion puts L in the name of this tablet to identify it is as a "large" tablet. However this tablet is close to size to medium tablets like the Wacom Intuos Pro medium (PTH-660) it is nowhere close to the true large size of something like the Wacom Intuos Pro Large (PTH-860) or the Huion Inspiroy Giano G930L.
-
-## **Wireless**
-
-Does NOT support wireless connectivity. It must be connected with USB cable.
-
-## **Express keys**
-
-I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.&#x20;
-
-## Pressure instability testing
 
 ## Test 1 on 2023/12/6
 
