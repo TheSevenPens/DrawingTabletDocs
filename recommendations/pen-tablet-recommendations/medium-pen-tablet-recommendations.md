@@ -23,13 +23,8 @@
 ## Seems OK but haven't spent much time with it
 
 * Huion Inspiroy RTP-700 \[$93, [**links**](../../product-info/huion/huion-inspiroy-r-series/) , [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-r-series/7p-notes-rtp-700.md)]
-
-## Reconsidering
-
 * Huion Inspiroy 2 M (H951P) \[$70, [**links**](../../product-info/huion/huion-inspiroy-2/)]
-  * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE. I AM REVALUATING THIS TOPIC IN NOVEMBER TO SEE IF THINGS HAVE IMPROVED.**</mark>
 * Huion Inspiroy 2 L (H1061P)  \[$90, [**links**](../../product-info/huion/huion-inspiroy-2/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-2/7p-notes-h1061p.md)]
-  * <mark style="color:red;">**NOT RECOMMENDED: PRESSURE INSTABILITY AT LOW PRESSURE. I AM REVALUATING THIS TOPIC IN NOVEMBER TO SEE IF THINGS HAVE IMPROVED.**</mark>
 
 ## Poor performers
 
