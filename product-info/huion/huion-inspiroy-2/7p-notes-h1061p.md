@@ -28,44 +28,16 @@ The tablet does NOT support wireless connectivity. It must be connected with USB
 
 I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.&#x20;
 
-## **Pen pressure problem**
+## **Low pressure instability/wobble**
 
-See this thread: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
+All pens have have a bit of instability/wobble at low pressure. This is most obvious if you use a very large brush (300px or larger) and are drawing pressure-sensitive lines with very very light pressure when the pen is more vertical. With normal brush sizes and normal usage and a more normal pen angle you are unlikely to notice it.
 
-**Frequency**
+The unit I have had a bit more of this effect compared to my Wacom Intuos Pro with the Pro Pen 2. I didn't notice it in normal drawing, so I had to go looking for the effect. When I did reproduce it I was able to control it using pressure curves and pressure smoothing. Also, just drawing with more pressure will not have the problem.
 
-I have two units of this tablet and both exhibit the problem. I've run into several other people who also have the same problems, but also have seen people say they do not experience the problem. Tablet experiences extremely unstable pressure causing extreme pulsing of strokes.&#x20;
+Not all units seem to exhibit this problem, but certainly some do.
 
-**What it looks like**
+Initially when this tablet was released I saw more of this effect, but the latest firmware has controlled it more.
 
-Example: With Krita Ink3 GPen brush with default settings and size set to 400 pixels and drawing at the lower end of pressure.&#x20;
+See this thread for some history on this topic: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
 
-<figure><img src="../../../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
-
-The pulsing is also visible in smaller brushes - for example 100 pixels.&#x20;
-
-The effect is not noticeable with small brushes for example 5 pixels.
-
-Huion needs to address this problem with an update.
-
-This behavior seems hardware-related. It occurs with both when using the Huion driver and OpenTabletDriver.
-
-## Test 1 on 2023/12/6
-
-* firmware: T21m 221228
-* app: Krita
-* brush: ink-3 G pen, 500px
-* driver: v15.6.2.80
-* comments: strong pulsing effect at lower pressues. Size of brush jumps dramatically up and down.
-
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-## Test 2 on 2023/12/6
-
-* firmware: T21m 221228
-* app: Krita
-* brush: ink-3 G pen, 500px
-* driver: v15.7.6.753
-* comments: pulsing still strongly present at lower pressures but with this driver the effect is smoother.
-
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+If you do get this tablet spend some time testing it at the lower pressures you might be drawing with.&#x20;
