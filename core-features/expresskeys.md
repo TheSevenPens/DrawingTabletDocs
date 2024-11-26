@@ -8,11 +8,7 @@
 * Dials
 * Touch-sensitive strips
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Other names
 
@@ -59,6 +55,9 @@ For example you can set a button to
 * Switch between tools (brush, eyedropper, etc.)
 * Select All | None | Invert | Lasso selection | color similarity selection
 * Go to layer above | below
+* Display toggle
+* Precision mode
+* Pan/Scroll
 
 ### Rotary dials
 
@@ -71,6 +70,12 @@ These are great for "paired" tasks
 
 Some rotary dials support turning as well as a third press action. This is useful for a situations where there are three related actions such as rotate right, ritate left, and reset rotation.
 
+## Default settings
+
+Wacom Intuos Pro PTH-660
+
+<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption><p>Default expressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
+
 ## Examples
 
 ### Wacom Intuos Pro Large PTH-860
@@ -81,7 +86,7 @@ Some rotary dials support turning as well as a third press action. This is usefu
 
 ## Huion Inspiroy Dial2 (Q630M)
 
-![](<../.gitbook/assets/huuion Q630M PXL\_20221130\_142458217.MP (1).jpg>)
+![](<../.gitbook/assets/huuion Q630M PXL_20221130_142458217.MP (1).jpg>)
 
 
 
