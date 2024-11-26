@@ -29,13 +29,24 @@ Formally, these are not drawing tablets, but they can work just like one. And of
 
 ## Samsung Galaxy Tab S series
 
+As an alternative to the Apple ecosystem, the Samsung Galaxy Tab S series of tablets is compelling. One great advantage of the Galaxy Tab S series is that they come with the Samsung S pen. So that keeps the cost down.
+
+There are many models available over the years, so it is likely you can find something that works for your budget. Below are three that I have personal experience with. But many others might suit your needs.
+
+For applications that run on Android see this list: [**Apps for Android**](../../applications/apps-for-android.md)
+
+* [**Samsung Galaxy Tab S9 Series** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($800 to $1200) higher performance options
+* [**Samsung Galaxy Tab S9 FE** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($450 to $520) excellent mid-budget option
+  * There are two versions:&#x20;
+    * 6GB RAM + 126GB storage ($450)
+    * 8GB RAM with 256GB of storage ($520)
+    * Both will work, but I always recommend getting more RAM for drawing apps.
+* [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners. &#x20;
+  * There is a 2020 version. Avoid it.&#x20;
+
 [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../product-info/samsung/7p-notes-samsung-galaxy-tab-s-series.md) &#x20;
 
 [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-info/samsung/7p-notes-samsung-s8-ultra.md)&#x20;
-
-* [**Samsung Galaxy Tab S9 Series** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($800 to $1200) higher performance options
-* [**Samsung Galaxy Tab S9 FE** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($450) excellent mid-budget option
-* [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../../product-info/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners.  &#x20;
 
 ## Samsung Galaxy Tab A Series
 
@@ -43,5 +54,7 @@ Formally, these are not drawing tablets, but they can work just like one. And of
 
 ## Devices from Huion and XP-Pen
 
+Huion and XP-pen have also released android tablets in this category.
+
 * [**Huion Kamvas Slate 10**](../../product-info/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-* [**XP-Pen Magic Drawing Pad**](../../product-info/xp-pen/xp-pen-magic-drawing-pad.md) <mark style="color:red;">**NO COMMENT YET**</mark>
+* [**XP-Pen Magic Drawing Pad**](../../product-info/xp-pen/xp-pen-magic-drawing-pad.md) - I don't have any experience with it.
