@@ -19,13 +19,19 @@ Formally, these are not drawing tablets, but they can work just like one. And of
 
 ## Apple iPads
 
+Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately
+
 [<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../product-info/apple/7p-notes-apple-ipad.md)
+
+There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../product-info/apple/apple-pencil.md). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
+
+The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
 
 * **Apple iPad Air (4th gen and later)** ($600)
 * **Apple iPad Pro 11 inch (4th gen and later)** ($800+)
-  * Supports Apple Pencil 2
 * **Apple iPad pro 12.9 inch 6th gen** ($1100+)
-  * Supports Apple Pencil 2
+
+For a list of applications for iPads: [**Apps for iPad**](../../applications/apps-for-ipad.md)
 
 ## Samsung Galaxy Tab S series
 
