@@ -29,23 +29,24 @@ Much more here: [**pen tablets vs pen displays**](../buying-a-drawing-tablet/pen
 
 These are tablets WITHOUT a screen that need to be connected to a computer (some support wireless) to work.
 
-If I had to pick one item on this list, I would recommend the Wacom CTL-672 for true beginners. It's reliable and has a decent drawing experience.
-
-More info: [**Comparison of Wacom pen tablets**](../product-info/wacom/7p-notes-comparison-of-wacom-pen-tablets.md)&#x20;
+If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for true. It's reliable and has a good drawing experience. The Frego is a new tablet (released in 2024) that is also a terrific beginner choice.&#x20;
 
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> ([<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)) ★★★
-* Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark>&#x20;
-* Wacom Intuos Medium (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark>
-* XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco MW&#x20;
-* XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> & XP-Pen Deco LW (IT1060B) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md))
-* Huion Inspiroy Frego L (L610) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md))&#x20;
+* Huion Inspiroy Frego L (L610) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md)) ★★★
+* Wacom Intuos series
+  * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark>&#x20;
+  * Wacom Intuos Medium Bluetooth (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark>
+* XP-Pen Deco series
+  * XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark>
+  * XP-Pen Deco MW&#x20;
+  * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark>
+  * XP-Pen Deco LW (IT1060B) ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md))
 
 ## Pen displays
 
 These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [Small pen display recommendations](pen-display-recommendations/small-pen-display-recommendations.md)
 
 * Huion Kamvas 13 GEN3 (GS1333)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1333.md)) ★★★
-* XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)  ([<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md))
 
 ## Standalone tablets
