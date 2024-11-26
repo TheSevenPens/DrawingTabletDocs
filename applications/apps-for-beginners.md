@@ -20,3 +20,7 @@ This is my curated list of apps that are simple and inexpensive (or free). These
   * Basically an online version of photoshop
 * **Sketchbook Pro** (MacOS, Windows, Android, iOS)
 * **PenUp** - this is app is optimized for Samsung Galaxy Books.
+
+## Videos
+
+{% embed url="https://www.youtube.com/watch?v=2cPf1-AnsJI" %}
