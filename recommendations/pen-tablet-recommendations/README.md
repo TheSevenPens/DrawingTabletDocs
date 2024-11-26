@@ -2,15 +2,25 @@
 
 ## Overview
 
-It's best if you look through [**the buying guide**](../../buying-a-drawing-tablet/) first. These are recommendations for tablets that don't have screens. If you are looking for a tablet with a screen go here: [**pen display recommendations**](../pen-display-recommendations/). If you want a standalone tablet, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations/). For beginners see: [**Recommended drawing tablets for beginners**](../recommended-drawing-tablets-for-beginners.md)&#x20;
+
+
+These are recommendations for **pen tablets (screenless tablets)**: tablets that do not have screens and have to be connected to a computer.&#x20;
+
+Looking for something else?&#x20;
+
+For a **pen display (tablet with a screen)**, go here: [**pen display recommendations**](../pen-display-recommendations/). For a **standalone tablet**, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations/).
+
+Notes:
+
+* I suggest that you also consult [**the buying guide**](../../buying-a-drawing-tablet/)&#x20;
+* Pen displays are NOT inherently better than pen tablets. More here: [**pen tablets vs pen displays**](../../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
+* For beginners: [**Recommended drawing tablets for beginners**](../recommended-drawing-tablets-for-beginners.md)&#x20;
 
 ## Recommendations by size
 
 * [SMALL pen tablet recommendations](small-pen-tablet-recommendations.md)
-* [MEDIUM  pen tablet recommendations](medium-pen-tablet-recommendations.md)
+* [MEDIUM pen tablet recommendations](medium-pen-tablet-recommendations.md)
 * [LARGE pen tablet recommendations](large-pen-tablet-recommendations.md)
-
-&#x20;&#x20;
 
 ## Notes
 

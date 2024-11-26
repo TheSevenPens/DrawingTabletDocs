@@ -29,6 +29,10 @@
 
 * LARGE [**Xencelabs Pen Display 24**](../../product-info/xencelabs/) (LPH2412U-A) \[$1800, [**links**](../../product-info/xencelabs/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xencelabs/7p-notes-xencelabs-lph2412u-a.md)]
 
+## Videos
+
+{% embed url="https://youtu.be/sXxU7I995XM" %}
+
 ## Other resources
 
 * [**7P notes on 22" pen displays compared (2024)**](../7p-notes-other/7p-notes-22-pen-displays-compared-2023.md)&#x20;
