@@ -20,19 +20,20 @@ The key benefit of this device is that instead of using the keyboard while you a
 There are three models:
 
 * TourBox NEO - this was the first version
-* TourBox ELITE - this is an improved version that supports some haptic feedback and has wirless support
+* TourBox ELITE - this is an improved version that supports some haptic feedback and has wireless support
 * TourBox LITE - This is a simpler version that is just as big as the NEO and ELITE and has fewer controls.
 
 ## TourBox NEO
 
-* [Brad Colbow review of TourBox NEO](https://youtu.be/sQT7Gctw\_gk) 2020/09/04
+* [Brad Colbow review of TourBox NEO](https://youtu.be/sQT7Gctw_gk) 2020/09/04
 * [uricksaladbar review of TourBox NEO](https://youtu.be/BroG89gnGnk) 2021/10/29
 * [Todd Dominey review of TourBOX NEO](https://www.youtube.com/watch?v=p9na1WPAQnY) 2021/10/17&#x20;
 
 ## TourBox Elite
 
+* [Create Now Sleep Later review of the TourBox Elite](https://www.youtube.com/watch?v=lF6qwwP-QQA) 2024/11/29
 * [Aaron Rutten review of TourBox ELITE](https://www.youtube.com/watch?v=4KlcHw218s0) 2024/04/03 &#x20;
-* [Nadiaxel review of TourBox ELITE](https://youtu.be/yH\_zSxUHSw0) 2023/06/15
+* [Nadiaxel review of TourBox ELITE](https://youtu.be/yH_zSxUHSw0) 2023/06/15
 * [BoroCG review of TourBox ELITE](https://youtu.be/4BChI1SvIdE) 2021/12/02&#x20;
 * [PetaPixel revie of TourBox ELITE](https://petapixel.com/2021/12/11/tourbox-elite-review-my-favorite-editing-tool-is-now-wireless/) 2021/12/11
 
