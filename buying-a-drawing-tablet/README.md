@@ -8,12 +8,11 @@ I want to help you make an informed choice when purchasing a drawing tablet. My 
 If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you also just want to quickly get to some beginner recommendations then go here: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
 {% endhint %}
 
-## Video series (in progress)
+## Buying guide videos series&#x20;
 
-If you prefer a watching a video ...
+If you prefer a watching a video ... I've got a playlist here:&#x20;
 
-* [7P - Drawing Tablet Buying Guide (2023) Episode 1](https://www.youtube.com/watch?v=QpAJOOKaQUM) 2023/11/10
-* [7P - Drawing Tablet Buying Guide ](https://www.youtube.com/watch?v=kw7fKQik3YY)[(2023) ](https://www.youtube.com/watch?v=QpAJOOKaQUM)[Episode 2](https://www.youtube.com/watch?v=kw7fKQik3YY) 2023/11/16
+{% embed url="https://www.youtube.com/playlist?list=PLp1wHemgDmJ0FZV9toNieYZ1qku9C4REB" %}
 
 ## My recommendations
 
