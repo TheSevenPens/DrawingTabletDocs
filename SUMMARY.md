@@ -480,6 +480,7 @@
   * [Aspect ratio math](reference/aspect-ratio-math.md)
   * [Standard paper sizes](reference/standard-paper-sizes.md)
 * [Technology](technology/README.md)
+  * [Display panel technology](technology/display-panel-technology.md)
   * [VESA](technology/vesa.md)
   * [Wacom patents](technology/wacom-patents.md)
   * [AES](technology/aes.md)
