@@ -64,6 +64,12 @@ Please do check for this. Many people have been using their tablets for years wi
 
 Use zoom to your advantage. The stroke is affected several things which are physical in nature. For example, a diagonal wobble may introduce a 1mm wobble as your draw. If you are drawing with your canvas zoomed out then 1mm accounts for a lot of pixels. If you zoom in more then the 1mm accounts for fewer pixels of wobble. So you can really minimize some effects my zooming in as much as possible for your stroke. This minimizes the effect of those disturbances and also forces you to draw with a longer stroke which itself will minimize errors.
 
+## Use your tablet driver's precision mode
+
+Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. When precision mode is engaged, your entire tablet active area is mapped to a small region of the desktop. This means you have to make very large physical gestures on the tablet to create smaller strokes on your displays. That has the effect of making it easier to smoother strokes.
+
+* [Wacom - How to use the Wacom's Precision Mode](https://www.youtube.com/watch?v=FzhQcPQaDWs) 2024/11/14
+
 ## Application brush smoothing
 
 Use brush smoothing in your applications.
@@ -81,11 +87,7 @@ Clip Studio Paint has several options
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Application stroke post-correction smoothing
 
@@ -95,11 +97,7 @@ The advantage to this technique is that it doesn't slow down your stroke as you 
 
 The disadvantage to this technique is that you don't exactly know the path of your stroke until a moment after you draw the stroke. Also if you draw a sharp corner, post-correction techniques can somethings not recognize the corner and instead show it as a smooth corner.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Use vector drawing tools
 
