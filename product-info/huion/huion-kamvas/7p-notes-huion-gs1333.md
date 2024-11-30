@@ -22,7 +22,7 @@ Things to be aware of
 
 ## Basics
 
-* product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html)
+* product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)
 * released: 2024
 
 ## Active area
@@ -173,22 +173,37 @@ The right 1/3 of the tablet got slightly  warm - most of that was closer to the 
 
 This tablet does not have any audio features and does not have a headphone jack.
 
-## Compared to the Kamvas 13 (GS1331)
+## Compared to the Kamvas 13 (GS1331) and the Kamvas Pro 13 2.5K (GT1302)
 
-The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331).
+**Summary**
 
-* The PW600L pen is much better than the PW517 pen
-* The addition of the dials provides makes it easier to work without having to touch the keyboard
-* Much less Anti-glare sparkle
+The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331) and is even mostly an upgrade from the  Kamvas Pro 13 2.5K (GT1302).
 
-If you have to choose between the two, I HIGHLY recommend picking the Kamvas 13 GEN3 (GS1333)
+* The GS1333 uses  PW600L pen is much better than the PW517 pen that comes with the other two tablets
+* The addition of the dials to the GS1333  makes it easier to work without having to touch the keyboard
+* The GS1333 has much less Anti-glare sparkle than the GS1333 and GS1331&#x20;
 
-Other differences
+**Which one to get**
 
-* AG treatment
+If you have to choose of these three, I HIGHLY recommend picking the Kamvas 13 GEN3 (GS1333).&#x20;
+
+If you want that higher resolution of the GT1302, then wait until Huion releases a new version that uses the PW600 pen and reduces the anti-glare sparkle.
+
+**Some differences**
+
+* Anti-glare  treatment
   * Kamvas 13 GEN3 (GS1333) - etched glass
   * Kamvas 13 (GS1331) - AG matte film
-* USB-Ports
+  * Kamvas Pro 13 2.5K (1302) - etched glass
+* Amount of Anti-glare sparkle
+  * Kamvas 13 GEN3 (GS1333) - LOW (GOOD)
+  * Kamvas 13 (GS1331) - MODERATE (OK)
+  * Kamvas Pro 13 2.5K (1302) - MODERATE (OK)
+* USB-C Ports
   * Kamvas 13 GEN3 (GS1333) - one flush with the surface, one recessed
   * Kamvas 13 (GS1331) - both ports recessed
-
+  * Kamvas Pro 13 2.5K (1302) - both ports flush with the surface
+* Resolution
+  * Kamvas 13 GEN3 (GS1333) - Full HD (1920x1080)
+  * Kamvas 13 (GS1331) - Full HD (1920x1080)
+  * Kamvas Pro 13 2.5K (GT1302) - 2.5K (2560x1440)
