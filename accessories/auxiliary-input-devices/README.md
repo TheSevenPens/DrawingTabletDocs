@@ -38,6 +38,9 @@ Examples:
 * Redragon K585
 * Logitech G13 Gaming Keypad
 * [**8bitdo controller**](8bitdo-controller.md)&#x20;
+* Playstation controller
+
+[Draw Your Weapon - A PlayStation controller for digital art? Why not!](https://drawyourweapon.com/a-playstation-controller-for-digital-art-why-not/) 2024/10/21
 
 ## Streaming keypads
 
