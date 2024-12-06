@@ -179,9 +179,12 @@ This tablet does not have any audio features and does not have a headphone jack.
 
 The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331) and is even mostly an upgrade from the  Kamvas Pro 13 2.5K (GT1302).
 
-* The GS1333 uses  PW600L pen is much better than the PW517 pen that comes with the other two tablets
-* The addition of the dials to the GS1333  makes it easier to work without having to touch the keyboard
-* The GS1333 has much less Anti-glare sparkle than the GS1333 and GS1331&#x20;
+* The GS1333 uses  PW600L pen is much better than the PW517 pen that comes with the other two tablets.&#x20;
+  * The PW600L has a slightly better IAF (Huion states 2gf) and a wider pressure range. [<mark style="background-color:green;">**My notes on the PW600 series pens**</mark>](../huion-pen-models/7p-notes-huion-pw600-series-pens.md).
+  * The PW517 has a standard IAF (Huion states 2gf) and it's pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [<mark style="background-color:green;">**My notes on the PW517 pens**</mark>](../huion-pen-models/7p-notes-huion-pw517-pen.md).
+* The GS1333 has much less anti-glare sparkle than the GS1333 and GS1331.
+* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [**Connecting a pen display with a single USB-C cable**](../../../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)).
+* The addition of the dials to the GS1333  makes it easier to work without having to touch the keyboard.&#x20;
 
 **Which one to get**
 
@@ -189,8 +192,12 @@ If you have to choose of these three, I HIGHLY recommend picking the Kamvas 13 G
 
 If you want that higher resolution of the GT1302, then wait until Huion releases a new version that uses the PW600 pen and reduces the anti-glare sparkle.
 
-**Some differences**
+**Key differences**
 
+* Pen in the box
+  * Kamvas 13 GEN3 (GS1333) - PW600L (VERY GOOD)
+  * Kamvas 13 (GS1331) - PW517 (OK-ISH OR GOOD, depends on the specific unit you get)
+  * Kamvas Pro 13 2.5K (1302) - PW517 (OK-ISH OR GOOD, depends on the specific unit you get)
 * Anti-glare  treatment
   * Kamvas 13 GEN3 (GS1333) - etched glass
   * Kamvas 13 (GS1331) - AG matte film
