@@ -78,6 +78,10 @@ For the vast majority of mice, you can just plug them into a computer and they w
 
 That isn't quite the case for drawing tablets. You will need to install the tablet driver.
 
+## Compatibility with apps
+
+Once you install the tablet driver, the tablet is compatible with all applications.&#x20;
+
 ## Wired vs Wireless
 
 Mice can be:
@@ -108,11 +112,11 @@ Lots of them would work. The easy choices are:
 * Wacom Intuos Small (CTL-4100)
 * Wacom Intuos Medium (CTL-6100)
 
-Generally, I would suggest a medium size, though small can work also.
+If these, my strong recommendation is the CTL-672. [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
 
 Other brands also have tablets that work as mouse replacements, but the safe choice is Wacom because of their track record of reliability.&#x20;
 
 ## Resources
 
 * [PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse!](https://www.youtube.com/watch?v=9yTA1P8SrqI) Feb 24, 2020
-* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing\_your\_mouse\_with\_a\_drawing\_tabletpen/) (2023/05/03)&#x20;
+* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing_your_mouse_with_a_drawing_tabletpen/) (2023/05/03)&#x20;
