@@ -5,6 +5,7 @@
 * Site: [https://www.escapemotions.com/products/rebelle](https://www.escapemotions.com/products/rebelle/about?//products/rebelle/index.php)
 * Good for: natural media art styles
 * Platforms: Windows, macOS
+* Reddit: [https://www.reddit.com/r/RebelleArt](https://www.reddit.com/r/RebelleArt)&#x20;
 
 ## Videos
 
