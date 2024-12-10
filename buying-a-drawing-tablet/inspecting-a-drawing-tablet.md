@@ -20,6 +20,10 @@ In order to perform test the tablet actually works you'll need to set it up. Fol
 
 Then install any applications you need. I strongly suggest you install Krita from Krita.org. It's free and its behavior is consistent so it makes it an ideal application to test the functionality of a drawing tablet. So even if you don't plan on using Krita it's a very useful tool for troubleshooting.
 
+Mobile phones can interfere with the operation of a tablet. Keep them away.
+
+Ensure there isn't anything magnetic underneath the tablet. Some stands use magnets. Don't place the tablet on top of an electronic device like a laptop.&#x20;
+
 ## **Basic functional testing**&#x20;
 
 ### Connectivity
@@ -30,10 +34,21 @@ Then install any applications you need. I strongly suggest you install Krita fro
 ### Drawing
 
 * Check if the pen can draw in all locations on the active area
-* Check if the pressure smoothly going from zero to 100 - draw some strokes in an application of your choice
-* Check tilt works in all directions - draw some strokes and tilt the pen in different directions.
-* With the pen held vertical, check tha the pointer is close to the tip of the pen.
-* Check that tilt compensation is working - As you tilt the pen check to make sure the pointer doesn't deviate far from the tip of the pen.
+  * Just draw a lot of lines alll over the screen. You want to ensure that there aren't any gaps were you can't draw and that the position of the pen is accurately tracked.
+* Check if the pressure going from 0% to 100%&#x20;
+  * First do this in the driver. They usually have some regio where you can test the pressure.
+  * Then do this in an application. I suggest using Krita.
+  * You want to ensure that:
+    * The pen isn't "stuck" at 0% pressure or 100% pressure
+  * You may notice that the pressure is "jumpy" any low pressure this is normal for EMR pens. You can use pressure curves to control this.
+* Check tilt works in all directions
+  * draw some strokes and tilt the pen in different directions.
+  * do this in multiple locations across the active area
+
+## Pen display pen tracking accuracy
+
+* With the pen held vertically and not moving, check that the pointer is close to the tip of the pen.
+* With the pen held at a 45 degree angle and not moving, check that tilt compensation is working. As you tilt the pen check to make sure the pointer doesn't deviate too far from the tip of the pen. A little bit of drift is normal. Keeping the pen at 45 degrees, rotate the pen in a full circle.&#x20;
 * Check that location of pen is tracked accurately in over the entire surface of the tablet
 
 ## **Express keys**
