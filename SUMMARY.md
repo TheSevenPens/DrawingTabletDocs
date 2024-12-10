@@ -408,6 +408,7 @@
   * [FireAlpaca](application-info/fireaplaca.md)
   * [Freeform](application-info/freeform.md)
   * [Fresco](application-info/fresco.md)
+  * [HEAVYPAINT](application-info/heavypaint.md)
   * [HiPaint](application-info/hipaint.md)
   * [Ibis Paint](application-info/ibis-paint.md)
   * [Infinite Painter](application-info/infinite-painter.md)
