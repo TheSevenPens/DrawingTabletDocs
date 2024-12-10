@@ -22,13 +22,12 @@ STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber
 STEP 2 - I gently wipe down the tablet with a damp cloth or towel&#x20;
 
 * OPTION 1: If the tablet is a little greasy I may put a bit of soapy water on the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You shouldn't have any water drops coming off the cloth.&#x20;
-* OPTION 2: Since September 2024, for pen displays I've switched from soapy water to using WOOSH!. It works very well in my experience. I spray the WOOSH into the microfiber towel that comes with the WOOSH bottle - again I want it damp and not wet. This also works on pen tablets, but the effects aren't especially dramatic. Here's a good video showing WOOSH in use: [https://www.youtube.com/watch?v=6zNUKkehnpc](https://www.youtube.com/watch?v=6zNUKkehnpc) &#x20;
-*
+* OPTION 2: Since September 2024, for pen displays I've switched from soapy water to using a screen cleaning sprays (WOOSH and MISTIFY). more here: [**Screen cleaning sprays**](../../accessories/screen-cleaning-sprays.md).
 
-    <figure><img src="../../.gitbook/assets/20240903_232411 (Large).jpg" alt="" width="375"><figcaption><p>WOOSH! bottle with its microfiber towel</p></figcaption></figure>
+
 
 ## Other cleaning guides
 
 * [Aaron Rutten - How to Safely CLEAN Your Drawing Tablet](https://youtu.be/S52jjhIcn-c) 2017/09/16
 * [Wacom - How to clean your Wacom One (DTC-133) display with Guido ](https://www.youtube.com/watch?v=wnbQWwQw2po)2021/05/31
-* [MossCharmly - How to Clean You're Drawing Tablet and Cleaning tips](https://www.youtube.com/watch?v=hj\_ip0Dhc10) 2023/05/26&#x20;
+* [MossCharmly - How to Clean You're Drawing Tablet and Cleaning tips](https://www.youtube.com/watch?v=hj_ip0Dhc10) 2023/05/26&#x20;
