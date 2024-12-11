@@ -6,35 +6,34 @@ description: Using an iPad as a drawing tablet
 
 ## Overview
 
-iPads - specifically those that use the Apple Pencil 2 - are very compelling alternative to a typical EMR standalone drawing tablet. They are lightweight, mobile, have a great display, a rich app ecosystem, and the drawing experience, while different is very similar to that of a drawing tablet.
-
-See also:&#x20;
+iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
 * [**7P notes: Apple iPad versus drawing tablets**](7p-notes-apple-ipad-versus-drawing-tablets.md)
 * [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
-Apple calls their pen the **Apple Pencil**. I often just call it a **pen** to keep consistent with rest of my documentation.
+I refer to the **Apple Pencil** as a **pen** to keep my documentations consistent.
 
 ## iPad benefits
 
 ### Basics
 
-* The display is fantastic - great color and bright for a pen display
-* Does not require a computer to be attached
+* The display is fantastic - great color and bright for a pen display.
+* Does not require a computer to be attached.
 
 ### Mobility
 
 * All iPad models use WiFi.&#x20;
 * Some models can also use a mobile data plan like a phone.&#x20;
-* It has great battery life
+* It has great battery life.
 
-### Drawing
+### The overall drawing drawing experience
 
-* The Apple pencil is very responsive and supports pressure and tilt
+* The Apple pencil 2nd gen and Apple Pencil Pro&#x20;
+  * Supports pressure, tilt, and hover.
+  * Has an excellent pressure range with a low IAF and high maximum pressure - about 500gf in my testing - which is very good.
 * iPad apps are optimized to make the most of the screen real estate available and to be responsive to touch. &#x20;
-* Newer Apple iPad Pro models use the Apple Pencil 2 - which support pen hover
 * Very little pointer lag. Apple iPads have much less lag than pen displays or pen computers. The pointer is comparable to a pen tablet.
 
 ### Apps
@@ -81,9 +80,9 @@ If you are going to draw with an Apple Pencil I recommend you get either the App
 
 ## Pencil versions
 
-* There are two models of pencil: Apple Pencil, and Apple Pencil 2
-* Apple Pencil 2 is superior
-* So, it is better to get a model that supports the Apple Pencil 2
+* There are two multiple models of the pencil. Only some have all the features needed for drawing (pressuyre, tilt, and, hover). \\
+* These are the Apple Pencil 2nd gen and Apple Pencil Pro
+* So, it is better to get a iPad model that supports the Apple Pencil 2 or the Apple Pencil Pro
 
 ## Pen hover
 
@@ -96,18 +95,18 @@ Hover support in iPads:
 
 ## **Parallax**&#x20;
 
-iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More here: [Parallax](../../guides/pen-displays/parallax.md)&#x20;
+iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More here: [**Parallax**](../../guides/pen-displays/parallax.md)&#x20;
 
 ## Pointer lag
 
 * iPads have incredibly little pointer lag. &#x20;
-* More here: [lag](../../core-features/lag.md)&#x20;
+* More here: [**lag**](../../core-features/lag.md)&#x20;
 
 ## **Anti-glare sparkle**
 
-* You may or may not be sensitive to this effect. Some people hate it. Some are much less sensitive to it.&#x20;
+* You may or may not be sensitive to the anti-glare sparkle effect. Some people hate it. Some are much less sensitive to it.&#x20;
 * iPads don't show much AG sparkle at all - I would say it is undetectable in the iPads I have examined
-* Pen displays have AG sparkle to various degrees. More here: [anti-glare sparkle](7p-notes-apple-ipad.md#anti-glare-sparkle)
+* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](7p-notes-apple-ipad.md#anti-glare-sparkle)
 
 ## **Size**
 
@@ -121,12 +120,7 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## iPad apps for creative work
 
-* [Clip Studio Paint](../../application-info/clip-studio-paint/) (My favorite for illustration!)&#x20;
-* [Procreate](../../application-info/procreate/) (#1 iPad app for drawing)
-* [Concepts](7p-notes-apple-ipad.md#concepts) &#x20;
-* [Infinite Painter](7p-notes-apple-ipad.md#infinite-painter)  &#x20;
-* [Medibang](../../application-info/medibang.md)  &#x20;
-* [ArtRage](7p-notes-apple-ipad.md#artrage)  &#x20;
+There are many great apps for iPad: [**Apps for iPad**](../../applications/apps-for-ipad.md).
 
 ## How I use iPads
 
@@ -155,20 +149,20 @@ I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple 
 ## Videos
 
 * [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) Oct 11, 2019
-* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68\_Q7CiCzs) Oct 1, 2022
+* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68_Q7CiCzs) Oct 1, 2022
 * [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) Jun 24, 2019
-* [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68\_Q7CiCzs) Oct 1, 2022
+* [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68_Q7CiCzs) Oct 1, 2022
 * [Teoh on tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) Nov 1, 2022
 * [Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art](https://www.youtube.com/watch?v=MJN8e8k-w-I) Oct 25, 2023
-* [Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad](https://www.youtube.com/watch?v=DDcdJu\_gUb0) Apr 13, 2023
+* [Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad](https://www.youtube.com/watch?v=DDcdJu_gUb0) Apr 13, 2023
 * [Studio Fudelio - Why You Don't Need a Wacom Pen Displa](https://www.youtube.com/watch?v=7Mc8QDrPy6o)y Nov 26, 2023
 
 ## Other resources
 
 * [https://www.shutterstock.com/blog/graphics-tablet-vs-screen-tablet](https://www.shutterstock.com/blog/graphics-tablet-vs-screen-tablet)  &#x20;
 * [https://www.makeuseof.com/ipad-vs-drawing-tablet-for-drawing/](https://www.makeuseof.com/ipad-vs-drawing-tablet-for-drawing/)  &#x20;
-* r/ArtistLounge [Reasons why you use an Ipad over Graphic tablet/pen display + pc and viceversa?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 5/17/2021
-* r/ArtistLounge [Graphics Tablet, Display, or iPad?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 4/29/2022
-* r/productivity [Should I buy an ipad or a graphic tablet for note taking?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 5/7/2022
-* r/ArtistLounge [Interested in getting an iPad for drawing, has it improved your life?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested\_in\_getting\_an\_ipad\_for\_drawing\_has\_it/) 10/23/2023\\
+* r/ArtistLounge [Reasons why you use an Ipad over Graphic tablet/pen display + pc and viceversa?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested_in_getting_an_ipad_for_drawing_has_it/) 5/17/2021
+* r/ArtistLounge [Graphics Tablet, Display, or iPad?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested_in_getting_an_ipad_for_drawing_has_it/) 4/29/2022
+* r/productivity [Should I buy an ipad or a graphic tablet for note taking?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested_in_getting_an_ipad_for_drawing_has_it/) 5/7/2022
+* r/ArtistLounge [Interested in getting an iPad for drawing, has it improved your life?](https://www.reddit.com/r/ArtistLounge/comments/17erdcm/interested_in_getting_an_ipad_for_drawing_has_it/) 10/23/2023\\
