@@ -493,6 +493,7 @@
     * [EMR pressure detection](technology/emr/emr-pressure-detection.md)
     * [Active EMR vs Passive EMR](technology/emr/active-emr-vs-passive-emr.md)
     * [EMR tilt detection](technology/emr/emr-tilt-detection.md)
+    * [The realities of building your own EMR pen](technology/emr/the-realities-of-building-your-own-emr-pen.md)
   * [MPP](technology/mpp.md)
   * [Digital pen tech](technology/digital-pen-tech.md)
 * [Misc](misc/README.md)
