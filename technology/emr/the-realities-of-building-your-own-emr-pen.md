@@ -9,6 +9,10 @@ If you watched my how do ER pens work video you'd probably know enough if you we
 ## Key challenges
 
 * **Understanding how the pen and tablet talk.** You’ll need an oscilloscope and learn how to use it correctly. See the scanline youtube channel which has a couple of videos that explores EMR tablets. You should learn a lot from there.
+* **Components.**&#x20;
+  * Most components are things you can buy: ferritr core, copper coil, spring, piezoelectric sensor.&#x20;
+  * Some components you may need to 3d print: the pen shell, nibs, assorted bits of plastic that hold everything together inside
+  * The PCB will require you to make something small enough to fit in the case. And it has to use very little power and know how to communicate certain kinds of data to the tablet. &#x20;
 * **Powering the pen.** You need to construct the indictor and PCB to get energy from the pen and briefly power the pen to transmit a signal back.
 * **Position and tilt** are done by the tablet simply by sensing the analog signal produced by the pen.
 * **Pressure and button presses** require extra work. After studying the tablet and a pen, you will need to transmit the button presses in the same way with components on the PCB. Some pens transmit these in an analog way - by modifying the resonant frequency of the signal from the pen. Some pens transmit these in a digital way by encoding the information digital in the signal.
