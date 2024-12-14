@@ -10,9 +10,9 @@ The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with p
 
 As you can see from the my testing below. The stroke quality with the new pen is not good compared to the old pen. This is due to a combination of tablet and pen.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Notes on the new Wacom One Pen (GEN2)
 
@@ -36,11 +36,7 @@ None.&#x20;
 
 ## Pen display > OSD
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 184306.jpg" alt="" width="358"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 184306.jpg" alt="" width="358"><figcaption></figcaption></figure></div>
 
 Picture above from this video: ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/-vwMZf1nbVU))&#x20;
 
@@ -90,7 +86,7 @@ Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable
 Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is compatible with other pens not made by Wacom. &#x20;
 
 * Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
-* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary\_of\_pens\_including\_double\_button\_pens/)y 2020/12/26
+* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
 * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
 
 ### Wacom 3-in-1 cable for Wacom One GEN2 pen displays

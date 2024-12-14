@@ -119,6 +119,7 @@
   * [Connections and cabling](guides/connections-and-cabling/README.md)
     * [Connecting a pen display with a 3-in-1 cable](guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)
     * [Connecting a pen tablet to a computer](guides/connections-and-cabling/connecting-a-pen-tablet-to-a-computer.md)
+    * [Wireless connection](guides/connections-and-cabling/wireless-connection.md)
     * [Connecting a pen display to a computer](guides/connections-and-cabling/connecting-a-pen-display.md)
     * [Connecting a pen display to a mobile device](guides/connections-and-cabling/connecting-a-pen-display-to-a-mobile-device.md)
     * [Connecting a pen display with a single USB-C cable](guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)

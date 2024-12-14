@@ -61,7 +61,7 @@ The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 
 The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
 
 ## Core specs
 
@@ -112,35 +112,15 @@ These 4 OSD options lead to sub menus: Input Source, Display settings, Tablet bu
 
 These 2 OSD buttons toggle on/off: Display saving, Touch on/off&#x20;
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD input source.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD display settings.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD tablet button.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD input source.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD display settings.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD tablet button.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD other settings.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Wacom DTH-135 OSD other settings.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Brightness
 
@@ -265,7 +245,7 @@ Yes
   * I tested the 3 in 1 (HDMI) Cable for 2023 Edition Wacom One Displays (ACK4490602Z) with the Movink 13. It worked correctly
   * You can buy it from the Wacom store: [https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)
 * Some people have bought a Wacom 3-in-1 cable (not sure which model) which lets them connect the Movink to the HDMI of their computer.&#x20;
-  * See: [https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/](https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/)
+  * See: [https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/)
 
 
 

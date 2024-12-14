@@ -6,7 +6,7 @@ For their Intuos Pro line of pen tablets, Wacom sells several texture sheets tha
 
 Below are three examples of some of the texture sheets Wacom sells.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Tablet compatibility
 
@@ -38,6 +38,6 @@ Unfortunately these texture sheets are often out of stock and are very hard to f
 
 Here's an example of how to install a texture sheet:&#x20;
 
-[Brian Matiash - How To Install Wacom Intuos Pro Texture Sheets On Your Tablet](https://www.youtube.com/watch?v=AJ6\_6710w0M) Mar 13, 2017
+[Brian Matiash - How To Install Wacom Intuos Pro Texture Sheets On Your Tablet](https://www.youtube.com/watch?v=AJ6_6710w0M) Mar 13, 2017
 
 While you have the old sheet removed and before you apply the new sheet, I suggest you make use of this moment to clean the surface of the tablet to remove any dust and grime.

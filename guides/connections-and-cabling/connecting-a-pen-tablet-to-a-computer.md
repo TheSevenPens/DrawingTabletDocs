@@ -2,7 +2,7 @@
 
 ## Overview
 
-All pen tablets connect to a computer with a USB cable. Some pen tablets ALSO connect to a computer wirelessly - almost always Bluetooth.
+All pen tablets connect to a computer with a USB cable. Some pen tablets ALSO connect to a computer wirelessly - almost always Bluetooth. See: [**Wireless connection**](wireless-connection.md)
 
 ## Wired vs Wireless
 

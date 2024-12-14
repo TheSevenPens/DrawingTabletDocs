@@ -8,7 +8,7 @@ The Wacom One 2023 pen tablets with pressure issues. See this video for details:
 
 The stroke quality is awful due to a combination of tablet and pen.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Wireless**
 
