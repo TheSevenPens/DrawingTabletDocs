@@ -3,11 +3,16 @@
 ## Top picks
 
 * Wacom Intuos Pro Medium (PTH-660) \[$300, [**links**](../../product-info/wacom/wacom-intuos-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-pth-x60.md)]
-* One by Wacom Medium (CTL-672) \[$100, [**links**](../../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)]&#x20;
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[ $100, [**links**](../../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)]&#x20;
   * FEATURE LIMITATION: NO TILT
-* XP-Pen Deco Pro MW GEN2 \[$140, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
-* XP-Pen Deco Pro LW GEN2 \[$170, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
-* XP-Pen Deco LW (IT1060B)  \[$90, [**links**](../../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md)]
+* XP-Pen Deco
+  * XP-Pen Deco M <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../product-info/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco MW \[$70, [**links**](../../product-info/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco L <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../../product-info/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco LW (IT1060B)  \[$90, [**links**](../../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md)]
+* XP-Pen Deco Pro
+  * XP-Pen Deco Pro MW GEN2 \[$140, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
+  * XP-Pen Deco Pro LW GEN2 \[$170, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
 * Huion Inspiroy Frego M (L610) \[$90, [**links**](../../product-info/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md) ]
 
 ## Good, but overpriced
