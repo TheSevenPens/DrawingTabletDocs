@@ -19,23 +19,6 @@ In this document, I compare iPads to these two kinds of drawing tablets:
 * **Pen tablets** - Cannot be used standalone. They require being connected to a computer. Some require a wired connection. Some require a wireless connection.
 * **Pen displays** - Cannot be used standalone. All pen displays require a wired connection to a computer.
 
-## Apps
-
-The application ecosystem is quite different between drawing tablets and Ipads. With a drawing tablet do you use applications that run on desktop operating system such as windows or MacOS. But with an iPad you'll only be using applications that can run on iOS.
-
-So if you're trying to pick between an iPad and a drawing tablet you should first identify which applications are critical for you.
-
-* Some apps are available on iOS and desktop OS's (MacOS, Windows)
-  * Examples:&#x20;
-    * Clip Studio Paint: Windows, MacOS, iOS&#x20;
-    * Infinite Painter: Windows, iOS
-* Some applications are either not available on the iPad at all
-  * Example: Rebelle, Firealpaca
-* Some applications only have a "lite" version on iPad
-  * Example: Photoshop only has a "lite" version available on iOS
-* Some applications are of course only available on the iPad.
-  * Example: Procreate&#x20;
-
 ## Pen buttons
 
 * Apple Pencil does not have buttons like a normal drawing tablet pen
@@ -102,19 +85,15 @@ Don't lose your pen! They aren't cheap to replace. The Apple Pencil is among the
 
 ### Initial Activation Force
 
-IAF is the smallest amount of physical force that the pen can detect. Low IAF = good.
-
-The best IAF we know of for drawing tablets is with the Wacom Pro Pens that have a <1gf IAF.&#x20;
-
-Many people believe the Apple Pencil 2 and Apple Pencil pro have such a s low IAF.
+* IAF is the smallest amount of physical force that the pen can detect. Low IAF = good.
+* The best IAF we know of for drawing tablets is with the Wacom Pro Pens that have a <1gf IAF.&#x20;
+* Many people believe the Apple Pencil 2 and Apple Pencil pro have low IAF that is <1gf.
 
 ### Max Pressure
 
-It is useful for a pen to have a high maximum pressure (and thus wide pressure range). &#x20;
-
-A 500gf max pressure is very good.
-
-Apple Pencil 2 and Apple Pencil Pro in my measurements have a max pressure of 500gf.
+* It is useful for a pen to have a high maximum pressure (and thus wide pressure range). &#x20;
+* A 500gf max pressure is very good.
+* Apple Pencil 2 and Apple Pencil Pro in my measurements have a max pressure of 500gf. In my testing, I'm found them to be consistently near 500gf.
 
 For drawing tablet pens, it varies substantially by the specific pen model. For example the Wacom Pro Pen 2 has a max pressure in the range of 800gf - which honestly is probably more than is needed.
 
@@ -139,6 +118,23 @@ When drawing on-the-go, the ipad size is quite convenient.
 ## Using both and iPad and a drawing tablet
 
 If it is in your budget, consider using BOTH an Apple iPad and a drawing tablet. Many people love using an iPad when it is convenient to do some initial sketching, but switch to a drawing tablet when they want finish their work.&#x20;
+
+## Apps
+
+The application ecosystem is quite different between drawing tablets and Ipads. With a drawing tablet do you use applications that run on desktop operating system such as windows or MacOS. But with an iPad you'll only be using applications that can run on iOS.
+
+So if you're trying to pick between an iPad and a drawing tablet you should first identify which applications are critical for you.
+
+* Some apps are available on iOS and desktop OS's (MacOS, Windows)
+  * Examples:&#x20;
+    * Clip Studio Paint: Windows, MacOS, iOS&#x20;
+    * Infinite Painter: Windows, iOS
+* Some applications are either not available on the iPad at all
+  * Example: Rebelle, Firealpaca
+* Some applications only have a "lite" version on iPad
+  * Example: Photoshop only has a "lite" version available on iOS
+* Some applications are of course only available on the iPad.
+  * Example: Procreate&#x20;
 
 ## Notes
 
