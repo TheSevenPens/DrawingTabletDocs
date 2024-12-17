@@ -21,6 +21,7 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 * Bit depth: 8bpp
 * Anti-glare treatment: Etched glass
 * Laminated: YES
+* Color gamuts: 140% sRGB
 
 ## Pen
 
@@ -54,11 +55,23 @@ GOOD - low.
 
 VERY GOOD. very minimal. Not noticeable. &#x20;
 
-## **Display other**
+## **Display > Pixelation**
 
-* Pixelation - With a 1920x1080 display, it looks slightly pixelated. But I don't find that a problem while drawing. My ideal pen display would have the same 22" size but with 2560x1440 resolution
-* Dead pixels - none detected
-* Display sharpness - VERY GOOD. pixels clear and well delineated
+With a 1920x1080 display, it looks slightly pixelated. But I don't find that a problem while drawing. My ideal pen display would have the same 22" size but with 2560x1440 resolution
+
+## Display > Dead pixels
+
+None detected when I got it. And none present two years later.
+
+## Display > sharpness
+
+VERY GOOD. pixels clear and well delineated.
+
+## Display > color
+
+Color accuracy: did not measure.
+
+This is a wide gamut display - so you may find that greens and reds are more intense than older displays. You may want to clamp it: [**Clamping wide-gamut displays to sRGB**](../../../guides/customizing-your-experience/clamping-wide-gamut-displays-to-srgb.md). Though I just left it the way it was and did not try anything to clamp the range.&#x20;
 
 ## VESA
 
