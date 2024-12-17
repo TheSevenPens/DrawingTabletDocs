@@ -7,6 +7,7 @@
 * iPad vs Apple pencil compatibility list - [https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841](https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841)&#x20;
 * Pen Tech: Apple pencil uses a proprietary protocol that is similar to Wacom AES. It does NOT use EMR.
 * Power: Apple pencil contains an internal rechargeable battery that is not removable.
+* Special features of the Apple Pencil Pro. It supports the "find my" feature.  Here's a video someone using it: [https://www.youtube.com/watch?v=P\_8P3jmhnrM](https://www.youtube.com/watch?v=P_8P3jmhnrM) - but it seems a bit limited.
 
 ## Core feature comparison
 
@@ -26,7 +27,7 @@
 ## Apple Pencil USB-C
 
 * Released: 2023
-* [Teoh on Tech - Apple Pencil USB-C: Writing and drawing artist review](https://www.youtube.com/watch?v=4\_g6a8YBEWQ) Nov 3, 2023
+* [Teoh on Tech - Apple Pencil USB-C: Writing and drawing artist review](https://www.youtube.com/watch?v=4_g6a8YBEWQ) Nov 3, 2023
 
 ## Apple Pencil Pro
 
