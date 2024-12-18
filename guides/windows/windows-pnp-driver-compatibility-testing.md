@@ -35,7 +35,13 @@ I plugged in a couple and their basic functionality worked subject to the limita
   * Pressure YES
   * Tilt: YES
   * Lower button: detected
-  * Upper button: not detected (?)
+  * Upper button: not detected
+* Huion Kamvas 13 GEN3 (GS1333) with PW600L pen
+  * Position: WORKS
+  * Pressure: YES
+  * Tilt: YES
+  * Lower button: detected
+  * Upper button: undetected
 
 ### Wacom
 
@@ -44,7 +50,7 @@ I plugged in a couple and their basic functionality worked subject to the limita
   * Pressure: YES
   * Tilt: YES
   * Lower button: detected&#x20;
-  * Upper button: detected
+  * Upper button: not detected
 * Wacom Intuos Pro (PTH-460, PTH-660, PTH-860) with Pro Pen 2
   * Nothing works
 * Wacom Movink 13 (DTH-135) with Pro Pen 2&#x20;
@@ -52,7 +58,7 @@ I plugged in a couple and their basic functionality worked subject to the limita
   * Pressure: YES
   * Tilt: YES
   * Lower button: detected&#x20;
-  * Upper button: detected
+  * Upper button: not detected
 
 ## XP-Pen
 
