@@ -375,6 +375,7 @@
     * [XP-Pen Magic Drawing Pad](product-info/xp-pen/xp-pen-magic-drawing-pad.md)
     * [XP-Pen Artist](product-info/xp-pen/xp-pen-artist/README.md)
       * [7P notes: XP-Pen Artist 22 Plus](product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-artist-22-plus.md)
+      * [7P notes: Artist 16 GEN2 (CD160FH)](product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-cd160fh.md)
     * [XP-Pen Artist GEN2](product-info/xp-pen/xp-pen-artist-gen2/README.md)
       * [7P notes: XP-Pen Artist 12 Gen2 (CD120FH)](product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-12-gen2-cd120fh.md)
       * [7P notes: XP-Pen Artist 13 GEN2 (CD130FH)](product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md)
