@@ -10,10 +10,6 @@ If the risk is a specific tablet you'd like me to test .then please contact me a
 
 I plugged in a couple and their basic functionality worked subject to the limitations described earlier.
 
-*
-*
-*
-
 ## Testing setup
 
 * Surface Pro 8
@@ -37,6 +33,12 @@ I plugged in a couple and their basic functionality worked subject to the limita
   * Lower button: detected
   * Upper button: not detected
 * Huion Kamvas 13 GEN3 (GS1333) with PW600L pen
+  * Position: WORKS
+  * Pressure: YES
+  * Tilt: YES
+  * Lower button: detected
+  * Upper button: undetected
+* Huion Kamvas 16
   * Position: WORKS
   * Pressure: YES
   * Tilt: YES
