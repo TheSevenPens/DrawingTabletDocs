@@ -46,6 +46,7 @@ I plugged in a couple and their basic functionality worked subject to the limita
   * Tilt: YES
   * Lower button: detected
   * Upper button: not detected (?)
+*
 * Huion Giano G930L with PW517 pen
   * Position : works
   * Pressure YES
