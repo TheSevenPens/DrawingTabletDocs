@@ -10,9 +10,9 @@ If the risk is a specific tablet you'd like me to test .then please contact me a
 
 I plugged in a couple and their basic functionality worked subject to the limitations described earlier.
 
-* Intuos Pro Small (PTH-460) - <mark style="color:red;">**does not work**</mark> (I get the sense this was a deliberate Wacom choice)
-* Movink 13 (DTH-135) - does work
-* Wacom One M (CTC-6110WL) - does work
+*
+*
+*
 
 ## Testing setup
 
@@ -22,35 +22,46 @@ I plugged in a couple and their basic functionality worked subject to the limita
 
 ## Testing results
 
+### Huion
+
 * Huion HS611
   * Position : works
   * Pressure YES
   * Tilt: YES
   * Lower button: detected
   * Upper button: not detected (?)
-* Wacom One Medium (CTC-6100WL) with CP-923 pen
-  * Position: works
-  * Pressure: YES
-  * Tilt: YES
-  * Lower button: detected&#x20;
-  * Upper button: detected
-* Wacom Intuos Pro Small (PTH-460) with Pro Pen 2
-  * Nothing works
-* Wacom Intuos Pro Medium (PTH-660) with Pro Pen 2
-  * Nothing works
-* Wacom Intuos Pro Medium (PTH-860) with Pro Pen 2
-  * Nothing works
-* XP-Pen Deco Pro XLW (MT1592B) with X3 Pro pen
-  * Position : works
-  * Pressure YES
-  * Tilt: YES
-  * Lower button: detected
-  * Upper button: not detected (?)
-*
 * Huion Giano G930L with PW517 pen
   * Position : works
   * Pressure YES
   * Tilt: YES
   * Lower button: detected
   * Upper button: not detected (?)
+
+### Wacom
+
+* Wacom One Medium (CTC-6100WL) with CP-923 pen
+  * Position: YES
+  * Pressure: YES
+  * Tilt: YES
+  * Lower button: detected&#x20;
+  * Upper button: detected
+* Wacom Intuos Pro (PTH-460, PTH-660, PTH-860) with Pro Pen 2
+  * Nothing works
+* Wacom Movink 13 (DTH-135) with Pro Pen 2&#x20;
+  * Position: YES
+  * Pressure: YES
+  * Tilt: YES
+  * Lower button: detected&#x20;
+  * Upper button: detected
+
+## XP-Pen
+
+* XP-Pen Deco Pro XLW (MT1592B) with X3 Pro pen
+  * Position : works
+  * Pressure YES
+  * Tilt: YES
+  * Lower button: detected
+  * Upper button: not detected (?)
+
+
 
