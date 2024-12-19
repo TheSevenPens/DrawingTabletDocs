@@ -1,8 +1,8 @@
-# Check if pen display receive HDMI display signal from other devices
+# Check if pen display shows HDMI display signal from other devices
 
 ## Overview
 
-Among other things that append display receives from your computer, it also receives a “display signal”. Display signal means essentially “video” - what you see on the pen display.
+Among other things that append display receives from your computer, it also receives a “display signal”. Display signal means essentially “video” - what you see on the pen display.&#x20;
 
 Normally your pen display will be connected to your computer that provides such a display signal via an HDMI connection.
 
