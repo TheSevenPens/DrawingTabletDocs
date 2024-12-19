@@ -22,12 +22,12 @@ Costs of tablets vary significantly based on brand, audience (pro vs non-pro), q
 ## Cables
 
 * New tablets usually come with the cables the need. However you may need to purchase cables if you bought your tablet used, or you lose your cables, or you damage your cables.
-* Pen tablet cabling - costs not much to replace. $10
-* Pen display cabling - These cabling options are more complex because they have to account for a decent amount of power and bandwidth for the display signal. $30 - $50.&#x20;
+* Pen tablet cabling - costs not much to replace. $5 to $10
+* Pen display cabling - These cabling options are more complex because they have to account for a decent amount of power and bandwidth for the display signal. $30 to $50.&#x20;
 
 ## Drawing gloves
 
-These are useful for cases when you want to prevent skin oil from collecting on your tablet and also very useful if your tablet supports touch because they can help aid in palm rejection. $10
+These are useful for cases when you want to prevent skin oil from collecting on your tablet and also very useful if your tablet supports touch because they can help aid in palm rejection. $5 to $10/glove
 
 ## Pens
 
@@ -35,11 +35,11 @@ Pens are a big contributor to TCO. Even though pens come with a tablet, you have
 
 ## Stands
 
-These are popular for keeping tablets - usually pen displays at an angle. $30 to $70
+These are popular for keeping tablets - usually pen displays at an angle. $30 to $100
 
 ## Monitor arms
 
-Instead of a stand, some people prefer keeping their pen displays on a monitor arm so that they can switch between using them like a monitor and a tablet. $70 to $300
+Instead of a stand, some people prefer keeping their pen displays on a monitor arm so that they can switch between using them like a monitor and a tablet. $50 to $400
 
 ## Surface protectors
 
@@ -47,7 +47,15 @@ TBD
 
 ## Carrying cases
 
-TBD
+$50 to $200
 
-## Apps
+## Cleaning solution for pen displays
+
+$1 per 30ml
+
+## Nibs
+
+$1 / nib
+
+
 
