@@ -57,5 +57,9 @@ $1 per 30ml
 
 $1 / nib
 
+At the high end, the cost is $3/nib for Wacom Pro Pen 3.
+
+
+
 
 
