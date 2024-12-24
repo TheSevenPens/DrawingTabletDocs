@@ -21,7 +21,13 @@ Normally, you should use your manufacturer-provided driver for your tablet. Howe
 
 ## Using OpenTabletDriver on Windows
 
-To learn how to install and configur OTD on windowes, go here: [**Using OpenTabletDriver on Windows**](opentabletdriver-windows.md)
+To learn how to install and configure OTD on Windows, go here: [**Using OpenTabletDriver on Windows**](opentabletdriver-windows.md)
+
+## Using OpenTabletDriver on MacOS
+
+Starting with version 0.6.5 years, OpenTabletDriver for MacOS now supports pressure and tilt.&#x20;
+
+To learn how to install and configure OTD on MacOS, go here: [**Using OpenTabletDriver on MacOS**](./#using-opentabletdriver-on-macos)
 
 ## Key points
 

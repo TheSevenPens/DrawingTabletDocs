@@ -160,6 +160,7 @@
   * [Drivers](guides/drivers/README.md)
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
       * [Install OpenTabletDriver on Windows](guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+      * [Using OpenTabletDriver on MacOS](guides/drivers/opentabletdriver/using-opentabletdriver-on-macos.md)
       * [OpenTabletDriver application data directory](guides/drivers/opentabletdriver/opentabletdriver-application-data-directory.md)
       * [Uninstalling OpenTabletDriver on Windows](guides/drivers/opentabletdriver/uninstalling-opentabletdriver-on-windows.md)
       * [OpenTabletDriver usage notes](guides/drivers/opentabletdriver/opentabletdriver-usage-notes.md)
