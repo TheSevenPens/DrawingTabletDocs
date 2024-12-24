@@ -1,7 +1,5 @@
 # Drivers
 
-
-
 ## Overview
 
 To fully use all the features of your drawing tablet, you must to install drivers in your computer.
@@ -35,11 +33,13 @@ A specific version of a tablet driver tends to be compatible with a range of tab
 
 For example Wacom's windows are compatible with wide range of their tablets.
 
-Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
+Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
 
 ![](<../../.gitbook/assets/image (465).png>)&#x20;
 
 ## OpenTabletDriver
 
-* An alternative to manufacturer-provided drivers is **OpenTabletDriver** ([https://opentabletdriver.net/](https://opentabletdriver.net/))
-* If you want to try OpenTabletDriver on Windows for use with creative applications, I wrote an detailed [**OpenTabletDriver Installation guide for Windows**](opentabletdriver/opentabletdriver-windows.md).
+* An alternative to manufacturer-provided drivers is **OpenTabletDriver** ([https://opentabletdriver.net/](https://opentabletdriver.net/))&#x20;
+* If you want to try OpenTabletDriver:
+  * [**Install OpenTabletDriver on Windows**](opentabletdriver/opentabletdriver-windows.md)
+  * [**Install OpenTabletDriver on MacOS**](opentabletdriver/install-opentabletdriver-on-macos.md)

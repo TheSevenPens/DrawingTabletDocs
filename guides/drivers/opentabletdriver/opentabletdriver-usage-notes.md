@@ -11,17 +11,19 @@
 * **DO** ask questions in the `#support-windows` channel
 * **DO NOT** ask for support via DMs.
 
-### Do not ask your tablet manufacturer for help with OTD
+## Do not ask your tablet manufacturer for help with OTD
 
 <mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
 
-### Limitations of OpenTabletDriver
+## Limitations of OpenTabletDriver
 
 * OTD does NOT support touch input.
 * OTD does NOT support tablet rotary dials.
 * OTD does NOT support pen barrel rotation.
-* OTD does NOT support wireless or bluetooth connections.
+* OTD does NOT support wireless or Bluetooth connections.
 * OTD does NOT support per-application configuration. All OTD settings are system-wide.
+
+## **OpenTabletDriver on Windows**
 
 ### **Running OTD as admin**
 
