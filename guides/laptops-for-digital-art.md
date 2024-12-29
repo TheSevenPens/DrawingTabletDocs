@@ -27,7 +27,7 @@ For a pen display, you should either
 
 ## Simultaneous monitors supported
 
-If you are getting as pen display it essential willa ct as another monitor.
+If you are getting as pen display it essential will act as another monitor.
 
 So you should verify your laptop can handle that many monitors.
 
@@ -53,7 +53,7 @@ Check the reviews for these laptops
 * ASUS ProArt PX13
 * ASUS ProArt P16
 
-### Laptops I do NOT recommend
+## Laptops I do NOT recommend
 
 #### Windows ARM laptops (FOR NOW)
 
@@ -62,6 +62,16 @@ Check the reviews for these laptops
 #### **Chromebooks**
 
 I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](general/using-a-drawing-tablet-with-a-chromebook.md).
+
+## Ports
+
+Ideally I think a laptop should have
+
+* AT LEAST 2 USBC-Thunderbolt 4 ports or USB-C USB4 ports&#x20;
+  * The more ports, the better
+* 1 USB-A port&#x20;
+* 1 HDMI port
+* 1 headphone jack for audio
 
 ## Videos
 
