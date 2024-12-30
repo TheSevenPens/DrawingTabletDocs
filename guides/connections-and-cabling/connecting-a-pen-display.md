@@ -1,5 +1,9 @@
 # Connecting a pen display to a computer
 
+## Video
+
+{% embed url="https://youtu.be/iKl_3NYjlsY" %}
+
 ## Inputs & outputs
 
 Remember that essentially a pen display is a plastic box that contains two separate devices: (1) a pen tablet and (2) a display.

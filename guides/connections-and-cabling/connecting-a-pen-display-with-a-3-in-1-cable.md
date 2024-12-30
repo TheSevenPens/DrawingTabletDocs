@@ -2,6 +2,12 @@
 
 A 3-in-one cable is a special kind of connection cable used for pen displays to connect to a computer.&#x20;
 
+
+
+{% embed url="https://youtu.be/iKl_3NYjlsY" %}
+
+
+
 More here on the different ways a pen display can be connected to a computer:  [**Connecting a pen display to a computer**](connecting-a-pen-display.md)
 
 A 3-in-1 cable typically looks like this:
