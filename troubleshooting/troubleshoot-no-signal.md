@@ -8,11 +8,21 @@ The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen di
 
 What it means:  The "NO SIGNAL" message tells you that the pen display is not receiving a display signal from the computer. Commonly when people encounter the NO SIGNAL problem, they will notice that their pen continues to work on the tablet, even though they can't see anything.
 
+## Important background information
+
+Especially if you are new to drawing tablets I suggest you watch this video
+
+{% embed url="https://youtu.be/iKl_3NYjlsY" %}
+
+And look through this guide: [https://docs.thesevenpens.com/drawtab/guides/connections-and-cabling/connecting-a-pen-display](https://docs.thesevenpens.com/drawtab/guides/connections-and-cabling/connecting-a-pen-display)&#x20;
+
 ## About this guide
 
 This guide lists every piece of information and tactic I am aware of that might help.&#x20;
 
 However, it may be that even this guide is not enough to help. And ultimately you should be prepared to contact your tablet manufacturer's customer support team.
+
+
 
 ## What you can tell from the message
 
@@ -106,11 +116,7 @@ Your computer may have multiple HDMI ports, try different ones.
 * Always first try the HDMI port on your graphics card first - it's better to use them than HDMI ports on your motherboard
 * Some people suggest that motherboard ports NEVER work. This is NOT true. It is highly dependent on the specific machine. I can confirm I have several computers where the motherboard does work.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/7P SLIDE Motherboard vs GPU ports.jpg" alt="" width="375"><figcaption><p>Motherboard ports on the left. GPU ports on the right.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/7P SLIDE Motherboard vs GPU ports.jpg" alt="" width="375"><figcaption><p>Motherboard ports on the left. GPU ports on the right.</p></figcaption></figure></div>
 
 ## USB-C connection options
 
@@ -188,7 +194,7 @@ First try a very low resolution first and then build up to higher resolutions.
 
 Some users report that if they are getting NO SIGNAL with their pen display, they have been able to connect the pen display to another computer where it does work. And then once it worked, they reattached it back to the first computer where it then began working.
 
-See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm\_source=share\&utm\_medium=web2x\&context=3)
+See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm_source=share\&utm_medium=web2x\&context=3)
 
 The reason this process might work is not clear. It could be because depowering the pen display was the reason. It could be because the connection to the other computer altered something in the pen display. In any case, it is worth a try if you continue to have problems.
 
@@ -215,13 +221,13 @@ Here's what can trigger it
 
 ### Reddit threads
 
-* [https://www.reddit.com/r/XPpen/comments/z2h51j/tips\_when\_there\_is\_no\_signal\_andor\_tablet\_is/ ](https://www.reddit.com/r/XPpen/comments/z2h51j/tips\_when\_there\_is\_no\_signal\_andor\_tablet\_is/)
+* [https://www.reddit.com/r/XPpen/comments/z2h51j/tips\_when\_there\_is\_no\_signal\_andor\_tablet\_is/ ](https://www.reddit.com/r/XPpen/comments/z2h51j/tips_when_there_is_no_signal_andor_tablet_is/)
 
 ### Misc
 
 * [https://www.windowscentral.com/how-fix-your-second-monitor-not-being-detected-windows-10](https://www.windowscentral.com/how-fix-your-second-monitor-not-being-detected-windows-10)
 * [https://support.microsoft.com/en-us/windows/troubleshoot-external-monitor-connections-in-windows-10-5b46f4a4-9634-06bb-7622-f960facdfd49](https://support.microsoft.com/en-us/windows/troubleshoot-external-monitor-connections-in-windows-10-5b46f4a4-9634-06bb-7622-f960facdfd49)&#x20;
-* [TheHowToGuy123 - How To Enable Motherboard HDMI Port for Multiple Monitors - Use Graphics Card & Integrated Graphics](https://youtu.be/\_Ftk8jQhsqE) Jul 3, 2020
+* [TheHowToGuy123 - How To Enable Motherboard HDMI Port for Multiple Monitors - Use Graphics Card & Integrated Graphics](https://youtu.be/_Ftk8jQhsqE) Jul 3, 2020
 
 ### Manufacturer guidance
 
