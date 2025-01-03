@@ -8,6 +8,16 @@ The **XP-Pen X3 Pro** series of pens was introduced in 2023.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Slide_20241104_135959.jpg" alt=""><figcaption></figcaption></figure>
 
+## **Eraser**
+
+Only the X3 Pro has an eraser. the other models do not.
+
+## Roller
+
+The X3 Pro roller has a roller control on it. This could be used for example to control brush size.&#x20;
+
+However, many people find that they accidentally click it. So it is not unusual that people simply disable the roller.
+
 ## Pen pressure > IAF
 
 XP-Pen states it should have an IAF of 3gf. Subjectively that felt accurate.
@@ -26,23 +36,19 @@ My testing shows that individual units can vary from \~250gf to \~450gf.
 
 
 
-**Pen pressure levels** - 16K. Ignore this. it is hype. All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure).
+## **Pen pressure levels**
 
-Obligatory 16K pressure level screenshot. This is what it shows in the driver.&#x20;
+Specifications say 16K. Ignore this. it is hype.&#x20;
+
+All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure).
+
+16K pressure level screenshot. This is what it shows in the driver when pressur at full pressure.&#x20;
 
 ![](<../../../.gitbook/assets/image (433).png>)
 
-There is no noticeable impact on my drawing.
+
 
 More here: [**pen pressure**](../../../core-features/pen-pressure.md)&#x20;
 
-## Pen features
-
-**Pen eraser** -  Only the X3 Pro has an eraser. the other models do not.
-
-## Pen misc topics
-
-**Disabled buttons impact on drawing**
-
-Good: If you disable the two pen buttons in the driver, and then press the buttons while drawing it doesn't seem to interrupt drawing. I tested this with Clip Studio Paint and Krita on Windows 11.
+##
 
