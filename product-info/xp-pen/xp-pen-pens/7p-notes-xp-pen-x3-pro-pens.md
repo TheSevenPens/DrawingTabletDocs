@@ -2,7 +2,7 @@
 
 ## O**verview**&#x20;
 
-The **XP-Pen X3 Pro** series of pens was introduced in 2023.&#x20;
+The **XP-Pen X3 Pro** series of pens was introduced in 2023 to accompany XP-Pens new pro drawing tablets such Deco Pro GEN2 series and Artist Pro GEN2 series.
 
 ## Models
 
