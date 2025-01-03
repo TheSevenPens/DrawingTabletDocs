@@ -6,6 +6,12 @@ The **XP-Pen X3 Pro** series of pens was introduced in 2023 to accompany XP-Pens
 
 ## Models
 
+There are three models:
+
+* X3 Pro
+* X3 Pro Slim
+* X3 Pro Roller
+
 <figure><img src="../../../.gitbook/assets/Slide_20241104_135959.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Eraser**
