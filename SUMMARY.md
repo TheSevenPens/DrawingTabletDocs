@@ -43,7 +43,7 @@
     * [Pen-enabled laptop recommendations](recommendations/standalone-drawing-tablet-recommendations/pen-enabled-laptop-recommendations.md)
   * [Comparisons](recommendations/7p-notes-other/README.md)
     * [7P notes: Large pen tablets compared](recommendations/7p-notes-other/7p-notes-large-pen-tablets-compared.md)
-    * [7P notes: 22" pen displays compared (2023)](recommendations/7p-notes-other/7p-notes-22-pen-displays-compared-2023.md)
+    * [7P notes: 22" pen displays compared (2024)](recommendations/7p-notes-other/7p-notes-22-pen-displays-compared-2024.md)
     * [7P notes: 13" pen displays compared (2023)](recommendations/7p-notes-other/7p-notes-huion-gs1331-xppen-cd130fh.md)
 * [Drawing tablet brands](drawing-tablet-brands/README.md)
   * [Drawing tablet brands vs digitizers](drawing-tablet-brands/drawing-tablet-brands-vs-digitizers.md)
