@@ -8,26 +8,22 @@ Ideally you would be able to connect your pen display to your computer with a si
 
 Key things to keep in mind:
 
-\-        Not all pen displays support this configuration - even if they do have USB C ports on the tablet
+* Not all pen displays support this configuration - even if they do have USB C ports on the tablet
+* Not all computers are capable of sending power and display signal over their USB C ports
+* Not all USB C cables can be used for this purpose.&#x20;
 
-\-        Not all computers are capable of sending power and display signal over their USB C ports
+So, you have to do your research and plan carefully. Do not buy a pen display assuming that a single USB C cable connection will work.
 
-\-        Not all USB C cables can be used for this purpose.&#x20;
 
-So, you have to do your research and plan carefgully. Do not buy a pen display assuming that a single USB C cable connection will work.
 
 ## Verify with your manufacturer
 
-The first thing you should do is verify whether the tablet supports a single USB C connection.
-
-Ideally you do this before you even purchase the tablet.
+The first thing you should do is verify whether the tablet supports a single USB C connection. Ideally you do this before you even purchase the tablet.
 
 You can do this verification easily:
 
-* look at the user manual for the tablet and see how it connects
-* or contact product support for the tablet and ask them specifically if it will work for that specific model.
-
-When doing this research it will simplify things if you know the exact model number of the tablet and not just its name.
+* Read the user manual for the tablet and see how it connects
+* Or contact product support for the tablet and ask them specifically if it will work for that specific model.
 
 ## Summary of requirements
 
@@ -40,7 +36,7 @@ Your cable and ports MUST support DP alt mode. To find out if you ports and cabl
 ## Power support
 
 * Cables
-  * Thunderbolt USB-C cables do support carrying enough power
+  * Thunderbolt USB-C cables can carry carrying enough power
 * Ports
   * Even if the cable supports power, your computers USB-C port may not supply enough power.
 * Power needed
@@ -49,12 +45,28 @@ Your cable and ports MUST support DP alt mode. To find out if you ports and cabl
   * At 16", some pen displays require additional power usually from a power adapter that is plugged into a wall.&#x20;
   * Above 16" most often in my experience a single USB-C cable is not enough and these pen displays require additional power.&#x20;
 
+## USB-C Port preference
+
+Often with tablets there are two USB-C ports.
+
+Somtimes they are not interchangable:
+
+* Some tablets dedicate the top port for video and data, and the bottom to power
+* Some tablets dedicate the bottom port for video and data, and the bottom to power
+* Some tablets can any any combination of ports for video, data, and power
+
+## Recessed USB-C ports
+
+If the ports are recessed, usually only specific cables from the manufacturer will fit them.
+
+<figure><img src="../../.gitbook/assets/Slide_20250106_084310.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Manufacturer cables vs third-party cables
 
 I recommend you get the USB-C cables the manufacturer provides for use with a single USB-C cable configuration for two reasons:
 
 * These cables are known to work with the device
-* The tablet may have recessed USB-C ports and these cables are designed to git.
+* The tablet may have recessed USB-C ports and these cables are designed to fit.
 
 More here: [Using 3rd-party cables with your drawing tablet](using-3rd-party-cables-with-your-drawing-tablet.md)&#x20;
 
