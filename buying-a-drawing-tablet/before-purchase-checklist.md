@@ -1,6 +1,10 @@
 # Before-purchase checklist
 
-## Read the manual
+## Video
+
+{% embed url="https://youtu.be/57-W_dmtLJU" %}
+
+## Read the user manual
 
 Read it to clearly understand these things:
 
@@ -42,4 +46,6 @@ See this page for all the reasons why you should not rely on the model name: [Mo
 
 * Check for potential sources of Electromagnetic Interference. More here: [**Electromagnetic interference**](../guides/general/electromagnetic-interference.md)&#x20;
 * Ensure you have enough space on your desk for the tablet and  where your keyboard will be placed
+
+
 
