@@ -10,18 +10,25 @@ This is a very common problem people run into. Sometimes it happens the first ti
 
 The two most common causes of this problem are:
 
-* Something is physically wrong with the pen. You'll need a replacement.
+* There is something wrong with the nib.
+* Something is physically wrong with the pen internals. You'll need a replacement.
 * The driver is having a temporary problem. Often resolved by restarting the computer.
+
+## **Check if the problem happens in the driver app**
+
+Instructions here: [testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.&#x20;
 
 ## Things to try
 
 Try the [**Common drawing troubleshooting steps**](common-drawing-troubleshooting-steps.md).&#x20;
 
-### **Check if the problem happens in the driver app**
+### **Reseat the nib**
 
-Instructions here: [testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md)
+Try taking the nib out and putting it back in. While it is out look for any damage.
 
-If the problem does not occur in the driver app, then it indicates the problem may be app specific.&#x20;
+### **Replacing the nib**
+
+Your tablet probably came with some extra nibs. Try replacing the nib with one of the extras.
 
 ### **Adjust the pressure curve**
 
@@ -34,10 +41,4 @@ In the tablet driver, try dragging the lower left point of the pressure curve to
 **If nothing helps**
 
 If the problem continues, then [**contact support**](../basics/contacting-support.md).
-
-
-
-
-
-##
 
