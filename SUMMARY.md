@@ -293,6 +293,7 @@
       * [7P notes: Huion Kamvas 13 GEN3 (GS1333)](product-info/huion/huion-kamvas/7p-notes-huion-gs1333.md)
       * [7P notes: Huion Kamvas 13 (GS1331)](product-info/huion/huion-kamvas/7p-notes-huion-gs1331.md)
       * [7P notes: Huion Kamvas 22 Plus (GS2202)](product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md)
+      * [7P notes: Huion Kamvas 16 GEN3 (GS1563)](product-info/huion/huion-kamvas/7p-notes-huion-kamvas-16-gen3-gs1563.md)
     * [Huion Inspiroy R-series](product-info/huion/huion-inspiroy-r-series/README.md)
       * [7P Notes: Huion Inspiroy RTP-700](product-info/huion/huion-inspiroy-r-series/7p-notes-rtp-700.md)
     * [Inspiroy Dial](product-info/huion/inspiroy-dial/README.md)
