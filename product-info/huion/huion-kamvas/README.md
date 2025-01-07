@@ -5,7 +5,8 @@
 * Release year: 2025
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-kamvas-16-gen3-gs1563.md)
 * Product Page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)
-* [Parka blog review of Huion Kamvas 16 GEN3  (GS1563)](https://www.parkablogs.com/content/review-huion-kamvas-16-gen-3-pen-display)
+* [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025/01/07&#x20;
+* [Parka blog review of Huion Kamvas 16 GEN3  (GS1563)](https://www.parkablogs.com/content/review-huion-kamvas-16-gen-3-pen-display) 2025/01/07
 
 ## Huion Kamvas 13 GEN3 (GS1333)
 
