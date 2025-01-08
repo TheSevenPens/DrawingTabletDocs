@@ -95,15 +95,9 @@ Ultimately the way you can avoid purchasing the wrong tablet is by making sure y
 
 ## Do not stress out about the numbers of pressure levels.
 
-These days it's very fashionable for drawing tablets to advertise that they have 8000 levels of pressure or 16,000 levels of pressure. In my analysis the vast majority of users only need about 2000 levels of pressure and could get by with far less.
+These days it's very fashionable for drawing tablets to advertise that they have 8000 levels of pressure or 16,000 levels of pressure. In my analysis the vast majority of users only need about 2000 levels of pressure and could get by with far less. Almost every tablet on the market today has more than 8000 levels of pressure and only a handful have 4000. So any tablet you buy will have enough.
 
-<figure><img src="../.gitbook/assets/Slide_20250107_220448 (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-This video below might be a little bit technical but does explain why I arrive at this 2000 number.
-
-{% embed url="https://youtu.be/PRbI02Y0CAo" %}
-
-In any case even if you disagree with my conclusion the key thing is that all tablets on the market today almost every tablet on the market today has more than 8000 levels of pressure and only a handful have 4000. So any tablet you buy will have enough.
+More here: [**How many pressure levels do you really need?**](how-many-pressure-levels-do-you-really-need.md)
 
 ## **Be prepared to handle common problems**
 
