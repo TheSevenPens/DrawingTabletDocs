@@ -25,7 +25,7 @@
   * [Pen tablets vs pen displays](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
   * [The case against pen computers](buying-a-drawing-tablet/the-case-against-pen-computers.md)
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
-  * [Before-purchase checklist](buying-a-drawing-tablet/before-purchase-checklist.md)
+  * [Buying tips](buying-a-drawing-tablet/buying-tips.md)
 * [Drawing tablet recommendations](recommendations/README.md)
   * [Recommended drawing tablets for beginners](recommendations/recommended-drawing-tablets-for-beginners.md)
   * [Dedicated note taking devices](recommendations/dedicated-note-taking-devices.md)
