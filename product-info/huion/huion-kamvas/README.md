@@ -7,7 +7,7 @@
 * Product Page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html) \\
 * [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025/01/07&#x20;
 * [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025/01/07&#x20;
-* [Parka blog review of Huion Kamvas 16 GEN3  (GS1563)](https://www.parkablogs.com/content/review-huion-kamvas-16-gen-3-pen-display) 2025/01/07
+* [Parka blog review of Huion Kamvas 16 GEN3  (GS1563)](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) 2025/01/09
 
 ## Huion Kamvas 13 GEN3 (GS1333)
 
