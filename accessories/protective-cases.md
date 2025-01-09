@@ -1,6 +1,6 @@
 # Protective cases
 
-## **Overview**
+**Overview**
 
 Especially if you are traveling you should consider getting a protective case so that your tablet does not get damaged.
 
@@ -12,41 +12,27 @@ Below are some options that I have seen people suggest. <mark style="color:red;"
 
 ## Cases for drawing tablets
 
-### Gator Screen Saver Totes
-
 These are padded transport bags intended for monitors - but will serve the save role for pen displays.&#x20;
 
-Shop here: [Gator Store: Screen Saver Totes](https://gatorco.com/shop-by-category/computer-projector-tablet/computer-projector-bags/screen-saver-totes/)
+* Gator Screen Saver Totes
+  * Site: [Gator Store: Screen Saver Totes](https://gatorco.com/shop-by-category/computer-projector-tablet/computer-projector-bags/screen-saver-totes/) &#x20;
+* Case Club
+  * Site: [https://www.caseclub.com/](https://www.caseclub.com/)&#x20;
+  * They have a variety of cases. And even one for a specific pen display: [https://www.caseclub.com/product/wacom-cintiq-pro-24-case/](https://www.caseclub.com/product/wacom-cintiq-pro-24-case/)&#x20;
+* Road cases
+  * Site: [https://www.roadcases.com/](https://www.roadcases.com/)
+* Flight Cases
+  * Site: [https://theflightcasecompany.com/](https://theflightcasecompany.com/)
+  * Case for Cintiq Pro 27 [https://theflightcasecompany.com/wacom-cintiq-pro-27-flight-case](https://theflightcasecompany.com/wacom-cintiq-pro-27-flight-case)
+* Moko cases
+  * These cases are focused around iPads and similar tablets. They may be useful for small to medium pen tablets. Shop here: [**Moko store on Amazon**](https://www.amazon.com/stores/MoKo/page/2017E8BA-91D3-4C19-B94A-CC40C7866F49?ref_=ast_bln)
+* Targus Laptop Sleeves
+  * These are meant for laptops but can also work for drawing tablets. These come in several sizes.
+  * Targus 16" Laptop Sleeve - ([https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148](https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148))
 
-<figure><img src="../.gitbook/assets/G-LCD-TOTE-LG_FRONT_RT.jpg" alt="" width="188"><figcaption></figcaption></figure>
+## Considerations
 
-
-
-### Case Club
-
-site: [https://www.caseclub.com/](https://www.caseclub.com/)&#x20;
-
-They have a variety of cases. And even one for a specific pen display: [https://www.caseclub.com/product/wacom-cintiq-pro-24-case/](https://www.caseclub.com/product/wacom-cintiq-pro-24-case/)&#x20;
-
-### **Moko cases**
-
-These cases are focused around iPads and similar tablets. They may be useful for small to medium pen tablets. Shop here: [**Moko store on Amazon**](https://www.amazon.com/stores/MoKo/page/2017E8BA-91D3-4C19-B94A-CC40C7866F49?ref_=ast_bln)
-
-<figure><img src="../.gitbook/assets/718Ib9DrEqL._AC_CR0,0,0,0_SX960_SY720_.jpg" alt="" width="180"><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/71ajwf1M7IL._AC_CR0,0,0,0_SX960_SY720_.jpg" alt="" width="181"><figcaption></figcaption></figure>
-
-### Targus Laptop Sleeves
-
-These are meant for laptops but can also work for drawing tablets. These come in several sizes.
-
-<figure><img src="../.gitbook/assets/51g2BXv87NL._AC_SX679_.jpg" alt="" width="170"><figcaption><p>Targus - 15.6 Inch Urban Laptop Sleeve</p></figcaption></figure>
-
-Targus 16" Laptop Sleeve - ([https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148](https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148))
-
-## Notes on iPad cases
-
-**Possible magnetic interference** - Something to look out for.  Some cases have magnets that can interfere with the Apple Pencil. See [**this reddit post**](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/).
+**Possible magnetic interference** - Some cases have magnets that can interfere with the Apple Pencil. See [**this reddit post**](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/).
 
 ## Cases for pens
 
