@@ -10,10 +10,11 @@ It is still used in many Microsoft Surface devices and a few other mobile produc
 
 ## Resources
 
+* [/r/stylus - How the Microsoft Pen Protocol (MPP) might actually become the standard for non-Apple, non-Samsung pen devices](https://www.reddit.com/r/stylus/comments/1hzirnk/how_the_microsoft_pen_protocol_mpp_might_actually/) 2025/01/12&#x20;
 * Renaisser - [Comparing Microsoft Pen Protocol(MPP) 1.51 and 2.0: Understanding the Differences between the Two Versions](https://renaisser.com/blogs/about-the-stylus/comparing-microsoft-pen-protocolmpp-1-51-and-2-0-understanding-the-differences-between-the-two-versions) 2023/02/16&#x20;
-* Microsoft Surface Pen - [https://en.wikipedia.org/wiki/Surface\_Pen](https://en.wikipedia.org/wiki/Surface\_Pen)&#x20;
+* Microsoft Surface Pen - [https://en.wikipedia.org/wiki/Surface\_Pen](https://en.wikipedia.org/wiki/Surface_Pen)&#x20;
 * [Microsoft Surface Slip Pen Fact sheet](https://news.microsoft.com/wp-content/uploads/prod/sites/617/2021/09/Surface-Slim-Pen-2-Fact-Sheet.pdf) 2021/10&#x20;
 * [Microsoft Pen Protocol (MPP) Stylus Compendium](https://forum.tabletpc.review/t/microsoft-pen-protocol-mpp-stylus-compendium/1398)
 * [Microsoft - Identify your Surface Pen and features](https://support.microsoft.com/en-us/surface/identify-your-surface-pen-and-features-c82a0208-2e35-b347-dae0-d7f4922edc77)  &#x20;
-* [r/stylus - About MPP and AES](https://www.reddit.com/r/stylus/comments/wu0rt1/about\_mpp\_and\_aes/) 2022/08/22
+* [r/stylus - About MPP and AES](https://www.reddit.com/r/stylus/comments/wu0rt1/about_mpp_and_aes/) 2022/08/22
 
