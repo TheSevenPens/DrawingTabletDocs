@@ -4,6 +4,7 @@
 
 * product page: [https://www.xp-pen.com/product/artist-pro-24-gen-2-4k.html](https://www.xp-pen.com/product/artist-pro-24-gen-2-4k.html)
 * release year: 2024
+* [Teoh on Tech - Review of XP-Pen Artist Pro 24 GEN2 4K (MD240UH)](https://www.youtube.com/watch?v=6aqOGZYZBa4) 2025/01/15
 * [Brad Colbow - XP-Pen Artist 24 Pro Gen 2 Review(s)](https://www.youtube.com/watch?v=cvmVPAG6yUA) 2024/10/29
 
 ## X-Pen Artist Pro 24 GEN2 165Hz (MD240QH)
