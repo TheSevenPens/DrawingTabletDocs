@@ -55,11 +55,7 @@ $1 per 30ml
 
 ## Nibs
 
-$1 / nib
-
-At the high end, the cost is $3/nib for Wacom Pro Pen 3.
-
-
+$1/nib to $3/nib. $1 is the typical cost. Wacom nibs for their professional pens can cost $3.
 
 
 
