@@ -8,7 +8,7 @@ We are now seeing Windows computers running on ARM processors. This holds gives 
 
 You cannot use older tablet drivers with Windows on ARM devices. These require special ARM compatible drivers. Different brands are at different stages of ARM support as described below:
 
-As of 2024/10/03:
+As of 2025/01/16:
 
 * **Xencelabs**: Has an ARM driver available [https://www.xencelabs.com/support/download-drivers](https://www.xencelabs.com/support/download-drivers)
 * **Huion**: Actively working on an ARM driver. Not available for download yet.
