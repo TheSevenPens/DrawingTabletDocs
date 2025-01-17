@@ -10,10 +10,10 @@ You cannot use older tablet drivers with Windows on ARM devices. These require s
 
 As of 2024/10/03:
 
-* **Xencelabs**: Has an beta ARM driver available [https://www.xencelabs.com/support/download-drivers](https://www.xencelabs.com/support/download-drivers)
+* **Xencelabs**: Has an ARM driver available [https://www.xencelabs.com/support/download-drivers](https://www.xencelabs.com/support/download-drivers)
 * **Huion**: Actively working on an ARM driver. Not available for download yet.
-* **Wacom**: Actively working on an ARM driver. Not available for download yet. See this link: [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
-* **XP-Pen**: I asked them and they had no comment on whether they were working on an ARM driver or when one might be expected.
+* **Wacom**: Actively working on an ARM driver. Estimated to be available in February 2025. See this link: [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
+* **XP-Pen**: As of driver version 4.0.6.241211m, XP-Pen supports windows on ARM.
 
 ## A POSSIBLE alternative: Windows PNP tablet drivers
 
@@ -36,7 +36,7 @@ More here:&#x20;
 
 Microsoft previously released versions of the Surface Pro with using the SQ1 and SQ2 ARM processors.   Interestingly, the new Windows improvements for ARM processors seem to be improving performance on these old devices.
 
-See this reddit thread: [https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/](https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/)
+See this reddit thread: [https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/](https://www.reddit.com/r/Surface/comments/1czcxoc/windows_11_24h2_update_made_my_arm_tablet_faster/)
 
 ## Native ARM applications
 
