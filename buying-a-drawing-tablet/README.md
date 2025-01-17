@@ -74,7 +74,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md).
 * Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md).
-* **Display Panel tech** - Most pen displays use an IPS display panel. Though a few use OLED. Currently I recommend sticking with IPS panels because we don't know how long OLED displays will last. More here: [**Display panel technology**](../technology/display-panel-technology.md).
+* **Display Panel tech** - Most pen displays use an IPS display panel. Though a handful use OLED. Currently I recommend sticking with IPS panels because we don't know how long OLED displays will last in the scenarios we use drawing tablets. More here: [**Display panel technology**](../technology/display-panel-technology.md).
 
 ## Connections & cabling
 
@@ -102,7 +102,7 @@ Drawing tablets work **to some extent** with other kinds of devices. More here:
 
 ## Ergonomics
 
-* **Thickness** - Pen tablets are very then these days - about 8mm. Pen displays are thicker. Smaller pen displays can be around 10mm but as their size grows they get thicker - for example 35mm. Lately (2024) some pen displays are starting to use OLED display panels and are getting very then. For example the Wacom Movink 13 (DTH-135) is about 6mm thick.&#x20;
+* **Thickness** - Pen tablets are very thin these days - about 8mm. Smaller pen displays can be around 10mm larger pen displays can be 35mm.&#x20;
 * **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../core-features/surface-texture.md)&#x20;
 * **Body posture** - With a pen tablet, your torso will naturally have a more vertical posture. This is because you will be looking at your monitor while you hand rests on the pen tablet which is on your desk.  With a pen display, you will be leaning over a bit to draw since you must look at the pen tablet on you desk. You may experience lower back pain or strain on your neck from looking down. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)
 * **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [**Using monitor arms with a pen display**](../accessories/using-monitor-arms-with-a-pen-display.md)&#x20;
