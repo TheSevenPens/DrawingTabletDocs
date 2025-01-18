@@ -59,19 +59,13 @@ In my testing with the pens that came with the tablet
 * Subjectively, 3gf seemed about right
 * I measured the max pressure at around 250gf.&#x20;
 
-The red and blue lines indicated the pressure response for the two pens that came with this tablet. The gray lines are other models of the X3 Pro series that i have.
 
-<figure><img src="../../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
-
-The X3 Pro pens tend do have a lot of variability in their pressure range: See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md).&#x20;
 
 ## Anti-glare sparkle
 
-RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
-
-Maybe just slightly more than the Cintiq Pro 22.
-
-Similar to Huion Kamvas Pro 19
+* RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
+* Maybe just slightly more than the Cintiq Pro 22.
+* Similar to Huion Kamvas Pro 19
 
 ## Sharpness
 
