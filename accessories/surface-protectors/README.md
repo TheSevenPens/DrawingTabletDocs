@@ -50,6 +50,7 @@ There are many options to protect the surface of your tablet from scratches, etc
 
 ## Links
 
+* [Teoh on Tech - Should you get a screen protector for your tablet?](https://www.youtube.com/watch?v=cyNa7yLwrD0) 2023/08/13
 * r/stylus - [Are you guys afraid of scratching your screen with stylus?](https://www.reddit.com/r/stylus/comments/yyix9r/are_you_guys_afraid_of_scratching_your_screen/) 11/18/2022
 * r/wacom - [Protective sheet for Intuos4 M](https://www.reddit.com/r/wacom/comments/p6omxz/protective_sheet_for_intuos4_m/) 8/18/2021
 * r/wacom - [Best Wacom tablet protective film](https://www.reddit.com/r/wacom/comments/qlrq7u/best_wacom_tablet_protective_film/) 11/3/2021
