@@ -96,6 +96,11 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 * Huion Kamvas 22 Plus modification - [https://www.reddit.com/r/huion/comments/1hl1ozv/diy\_huion\_kamvas\_22\_plus\_fix\_for\_device/](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/)
 
+## Other threads
+
+* 2025/01/13 - [https://www.reddit.com/r/huion/comments/1i0g95y/this\_might\_also\_help\_u\_with\_device\_disconnected/](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/)&#x20;
+*
+
 ## Still not solved?
 
 If none of these suggestions are helping, then [**contact support**](../basics/contacting-support.md).
