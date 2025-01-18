@@ -8,11 +8,19 @@ If this happens with a **pen tablet (a screenless tablet)**, then essentially th
 
 If this happens with a **pen display (a screen tablet)**, usually the display part of the tablet works fine but you won't be able to use the pen with the tablet. In other words, now the pen display works only like a monitor.
 
-
-
 {% hint style="info" %}
 I want to be candid with you. If this problem isn't due to some simple cabling problems, usually it is very difficult to diagnose and solve. I have never discovered a consistent solution or even a real root cause to this problem.
 {% endhint %}
+
+## Driver message
+
+Here are several examples of how the driver indicates the tablet is not connected.
+
+| Brand  | Driver message                                                           |
+| ------ | ------------------------------------------------------------------------ |
+| Huion  | <img src="../.gitbook/assets/image.png" alt="" data-size="original">     |
+| XP-Pen | <img src="../.gitbook/assets/image (1).png" alt="" data-size="original"> |
+| Wacom  | <img src="../.gitbook/assets/image (2).png" alt="" data-size="original"> |
 
 ## Driver versus operating system
 
@@ -115,24 +123,3 @@ In the meanwhile, you may be able to use alternative drivers on Windows:
 * When you plug in the tablet or unplug the tablet, check if the computer makes a "beep". This at least indicates that the computer is aware that there is some device there.
 * Sometimes this problem is sporadic. I've had it personally occur with a tablet and after about 30 minutes of restarts, things just started working again.
 * Some vendors like Huion recommend disabling antivirus when reinstalling the drivers. I do not recommend this, but some people say it has helped.
-
-## Reference: Driver disconnected messages
-
-Here are several examples of how the driver indicates the tablet is not connected.
-
-#### Huion
-
-#### ![](<../.gitbook/assets/Huion device disconnected.png>)
-
-#### XP-Pen
-
-driver version: 3.4.12(104e65f)&#x20;
-
-<div align="left"><figure><img src="../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-**Wacom / Wacom Center**
-
-Date: 2023/12/23
-
-<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2023-12-23 at 10.03.09 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
-
