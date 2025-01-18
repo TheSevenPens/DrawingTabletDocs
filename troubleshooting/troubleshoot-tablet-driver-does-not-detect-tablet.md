@@ -90,6 +90,12 @@ Sometimes just waiting out the problem is all you can do. Some people report tha
 
 Both the times I've personally encountered this problem it seems like nothing I did worked, but I just waited and it eventually resolved itself.
 
+## Hardware modification
+
+I don't recommend opening up your tablet as it will likely void your warranty. But, in some cases for some specific tablets people have been able to address this problem by modifying their hardware inside.
+
+* Huion Kamvas 22 Plus modification - [https://www.reddit.com/r/huion/comments/1hl1ozv/diy\_huion\_kamvas\_22\_plus\_fix\_for\_device/](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/)
+
 ## Still not solved?
 
 If none of these suggestions are helping, then [**contact support**](../basics/contacting-support.md).
@@ -117,19 +123,11 @@ Here are several examples of how the driver indicates the tablet is not connecte
 
 driver version: 3.4.12(104e65f)&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Wacom / Wacom Center**
 
 Date: 2023/12/23
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 at 10.03.09 PM.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2023-12-23 at 10.03.09 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
