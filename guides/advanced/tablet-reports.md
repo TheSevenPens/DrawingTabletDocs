@@ -29,5 +29,7 @@ The report contains other interesting things, but these are the critical ones fo
 
 As of Jan 2025, the highest report rates stated for a tablet are 300Hz. And for Wacom specifically only 220Hz. This can be surprising for those of us who are familiar with mice that have a report rate of one 1000Hz.
 
-As far as I know there is no Cccclcear hardware or system limitation to why tablets. don't have higher report rates
+As far as I know there is no clear hardware or system limitation to why tablets. don't have higher report rates.
+
+I believe the reason we don't see higher report rates is that for a drawing scenario an artist would not notice a high report rate. And so the current report rates are "good enough . and table brands don't seem interested in improving them
 
