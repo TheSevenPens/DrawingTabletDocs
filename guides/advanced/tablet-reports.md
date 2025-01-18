@@ -31,5 +31,8 @@ As of Jan 2025, the highest report rates stated for a tablet are 300Hz. And for 
 
 As far as I know there is no clear hardware or system limitation to why tablets. don't have higher report rates.
 
-I believe the reason we don't see higher report rates is that for a drawing scenario an artist would not notice a high report rate. And so the current report rates are "good enough . and table brands don't seem interested in improving them
+I believe the reason we don't see higher report rates is that for a drawing scenario an artist would not notice a high report rate. And so the current report rates are "good enough for their primary customer and table brands don't seem interested in improving them.
 
+However, some people do play games with tablets. For example many people who play osu use a drawing tablet. And for a long time, they've wanted a drawing tablet with 1000 hz report rate. Because it would really help them play better.
+
+I think tablet brands are aware of this desire from gamers but they haven't done anything to make the tablets work better for these scenarios.
