@@ -16,33 +16,34 @@ EMR technology was introduced to drawing tablets by Wacom. And they held all the
 
 ## Explanation of how EMR works
 
+NOTE: This video's explanation of how pressure works describes a very early EMR pen design that involves physically moving the ferrite core inside the inductor coil and thus inducing a change in the resonant frequency of the pen's signal. Modern EMR pens have a design where the ferrite rode is stationary relative to the inductor coil and pressure is digitally encoded in the signal coming from the pen.
+
 {% embed url="https://youtu.be/Vv668I4LEdg" %}
 
-## EMR Concepts vs Implementation
+## Deeper EMR Technical resources
+
+If you want to go really deep into how EMR works, go here: [EMR technical resources](./#emr-technical-resources)&#x20;
+
+## Notes on EMR&#x20;
+
+### EMR Concepts vs Implementation
 
 Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts, different manufacturers can tweak this design in their implementation.
 
-## **Resonant frequency**
+### **Resonant frequency**
 
-The exact resonant frequency used by the pen will vary.
+The exact resonant frequency used by the pen will vary. In the case of the Wacom Bamboo Fun tablet (CTH-661) the frequency is around 750KHz. Source: the last 10 seconds of this scanlime video: [https://www.youtube.com/watch?v=oKVCwPn6OPI](https://www.youtube.com/watch?v=oKVCwPn6OPI)&#x20;
 
-In the case of the Wacom Bamboo Fun tablet (CTH-661) the frequency is around 750KHz. Source: the last 10 seconds of this scanlime video: [https://www.youtube.com/watch?v=oKVCwPn6OPI](https://www.youtube.com/watch?v=oKVCwPn6OPI)&#x20;
+### **How fast does the tablet switch between sensing the pen and sending it power?**
 
-## **How fast does the tablet switch between sensing the pen and sending it power?**
+We don't know. We suspect this is MUCH faster than a typical pen report rate of 200Hz.
 
-We don't know.
 
-We suspect this is MUCH faster than a typical pen report rate of 200Hz.
 
-## **Other pen technologies**
+## **Other digital pen technologies**
 
 Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen tech**](../digital-pen-tech.md)&#x20;
 
-## Apple Pencil
+### Apple Pencil
 
-The Apple Pencil does not use EMR. Apple uses a proprietary protocol for their pen. If you are curious about what is inside an Apple pencil, see this video: [https://youtube.com/shorts/M9sArtVjRps?feature=share](https://youtube.com/shorts/M9sArtVjRps?feature=share) &#x20;
-
-## EMR Technical resources
-
-More here: [EMR technical resources](./#emr-technical-resources)&#x20;
-
+The Apple Pencil does not use EMR. Apple uses a proprietary protocol for their pen. If you are curious about what is inside an Apple pencil, see this video: [https://youtube.com/shorts/M9sArtVjRps?feature=share](https://youtube.com/shorts/M9sArtVjRps?feature=share)  &#x20;
