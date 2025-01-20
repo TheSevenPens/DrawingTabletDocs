@@ -14,7 +14,7 @@
 
 ## **Wacom resources**
 
-* **Wacom Digitizer Implementation Guide:**  [https://fcc.report/FCC-ID/GKR-TP00062BWD/2506839.pdf](https://fcc.report/FCC-ID/GKR-TP00062BWD/2506839.pdf)
+* **Wacom Digitizer Implementation Guide:**  [https://fcc.report/FCC-ID/GKR-TP00062BWD/2506839.pdf](https://fcc.report/FCC-ID/GKR-TP00062BWD/2506839.pdf) ([archived link](https://archive.is/wvuVv))
 * **Wacom: EMR Stylus (Electro-magnetic Resonance): How Wacom Pens work** https://community.wacom.com/us/emr-stylus-electro-magnetic-resonance-how-wacom-pens-work/ &#x20;
 * **Wacom: EMR (Electro-Magnetic Resonance) Technology** https://archive.is/mhHkP
 * **Wacom: How the Wacom cordless, batteryless pen work** https://quietpc.sk/instructions/wacom/tech\_bam\_en.pdf &#x20;
