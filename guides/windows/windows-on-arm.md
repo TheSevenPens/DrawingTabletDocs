@@ -23,6 +23,7 @@ As of 2025/01/16:
 * **XP-Pen**:&#x20;
   * ARM support available - as part XP-Pen Windows driver driver
   * ARM support starting with driver version 4.0.6.241211
+  * XP-Pen announced ARM support with this tweet on Jan 14 2024: [https://x.com/XPPEN/status/1879166917266616558](https://x.com/XPPEN/status/1879166917266616558)&#x20;
 
 ## A POSSIBLE alternative: Windows PNP tablet drivers
 
