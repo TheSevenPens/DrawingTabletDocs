@@ -32,4 +32,5 @@ Stick a heated needle into the nib and when the plastic of nib cools, pull it ou
 
 ## Reddit threads:
 
-* ([https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/](https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/))
+* ([https://www.reddit.com/r/huion/comments/1104oj6/help\_ive\_broken\_my\_stylus\_nib\_is\_there\_a\_way\_to/](https://www.reddit.com/r/huion/comments/1104oj6/help_ive_broken_my_stylus_nib_is_there_a_way_to/))
+* [https://www.reddit.com/r/wacom/comments/73bndc/wacom\_bamboo\_ink\_nib\_broke\_and\_i\_cant\_get\_it\_out/](https://www.reddit.com/r/wacom/comments/73bndc/wacom_bamboo_ink_nib_broke_and_i_cant_get_it_out/)&#x20;
