@@ -1,9 +1,11 @@
 # Applications
 
-## Recommendations
+## Lists of apps
 
-* If you are interested in the apps I use and personally recommend: [**recommended apps**](7p-notes-recommended-apps.md)
-* If you are looking for something simple and cheap/free: [**Apps for beginners**](apps-for-beginners.md)
+* The apps I use and recommend: [**recommended apps**](7p-notes-recommended-apps.md)
+* [**Apps for beginners**](apps-for-beginners.md)
+* [**Apps for Ipad**](apps-for-ipad.md)
+* [**Apps for Android**](apps-for-android.md)
 
 ## Full list of apps
 
@@ -26,12 +28,12 @@ How an app works with a drawing tablet pen, depends on whether the app is "pen-a
 
 ## Roundups & reviews
 
-* [Brad Colbow - 10 Best Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI\_3PIs) - 2024/11/13&#x20;
+* [Brad Colbow - 10 Best Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI_3PIs) - 2024/11/13&#x20;
 * [Wesley Gardener -  Ranks 15 Digital Art Programs](https://www.youtube.com/watch?v=HBxg0HrQROY) - 2024/05/10
 * [Brad Colbow - Best Alternative to Every Adobe Program](https://www.youtube.com/watch?v=lLab5ChFFho) 2024/06/20&#x20;
-* [Teoh on Tech - Popular drawing apps on iPad: 2023 survey results](https://youtu.be/YCqNToyM7SA?si=v7k\_LQ88jAF-8gQb)  Sep 4, 2023&#x20;
+* [Teoh on Tech - Popular drawing apps on iPad: 2023 survey results](https://youtu.be/YCqNToyM7SA?si=v7k_LQ88jAF-8gQb)  Sep 4, 2023&#x20;
 * [Teoh on Tech - Popular drawing apps on Android - Survey results are out](https://youtu.be/-HMcZqv33eo) Jul 27, 2023
 * [Teoh on Tech - Best drawing apps for Windows tablets](https://youtu.be/00OWlj75gA0) June 3, 2003   &#x20;
 * [Aaron Rutton - Top 7 Digital Art Software (2021-2022)](https://youtu.be/OCGtwZ4MCNY) 2022/12/11&#x20;
-* [Teoh on Tech - Best Drawing Apps for Android Tablets](https://youtu.be/UMv\_U3X1bPY) Sept 18, 2021
-* [Brad Colbow - Ranking Every Drawing App (2022)](https://youtu.be/cZh9MP0sA\_4) Jan 12, 2022
+* [Teoh on Tech - Best Drawing Apps for Android Tablets](https://youtu.be/UMv_U3X1bPY) Sept 18, 2021
+* [Brad Colbow - Ranking Every Drawing App (2022)](https://youtu.be/cZh9MP0sA_4) Jan 12, 2022
