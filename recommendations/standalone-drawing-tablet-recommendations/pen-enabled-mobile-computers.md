@@ -42,7 +42,7 @@ There are many models available over the years, so it is likely you can find som
 For applications that run on Android see this list: [**Apps for Android**](../../applications/apps-for-android.md)
 
 * [**Samsung Galaxy Tab S Series** ](pen-enabled-mobile-computers.md#samsung-galaxy-tab-s-series)($800 to $1200) higher performance options
-* [**Samsung Galaxy Tab S9 FE** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($450 to $520) excellent mid-budget option
+* [**Samsung Galaxy Tab S9 FE** ](../../product-info/samsung/samsung-galaxy-tab-s9.md)($350 to $520) excellent mid-budget option
   * There are two versions:&#x20;
     * 6GB RAM + 126GB storage ($450)
     * 8GB RAM with 256GB of storage ($520)
