@@ -1,3 +1,7 @@
+---
+description: aka "Screen protectors"
+---
+
 # Surface protectors
 
 ## Overview
@@ -13,6 +17,7 @@ There are many options to protect the surface of your tablet from scratches, etc
 
 * **Transparency** - Protective sheets for pen displays must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a pen display.
 * **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
+* **Parallax** - Since parallax increases when the distance increases from the tip of the pen from the display panel. However, in practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add.
 
 ## Protection from the tablet manufacturer
 
