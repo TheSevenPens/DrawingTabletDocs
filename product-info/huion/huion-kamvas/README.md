@@ -5,7 +5,7 @@
 * Release year: 2025
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-kamvas-16-gen3-gs1563.md)
 * Product Page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)&#x20;
-* [Adam Duff review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=EA4A5B4GcUY) 2925/01/13&#x20;
+* [Adam Duff review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=EA4A5B4GcUY) 2025/01/13&#x20;
 * [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025/01/07&#x20;
 * [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025/01/07&#x20;
 * [Teoh on Tech blog review of Huion Kamvas 16 GEN3  (GS1563)](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) 2025/01/09
@@ -14,8 +14,9 @@
 
 * Release year: 2024
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-gs1333.md)&#x20;
-* [Brad Colbow - Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) 2024/09/23
-* [Huion - Tutorial | How to connect Kamvas 13 (Gen 3) to your Android Phone](https://www.youtube.com/watch?v=Oq6KeACQo68) 2024/10/29
+* [EyekooDrawsStuff review of Huion Kamvas 13 GEN3 (GS1333)](https://www.youtube.com/watch?v=Ie39Mbsvc8s) 2025/01/21&#x20;
+* [Brad Colbow - Huion Kamvas 13 GEN3 (GS1333) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) 2024/09/23
+* [Huion - Tutorial | How to connect Kamvas 13 GEN3 (GS1333) to your Android Phone](https://www.youtube.com/watch?v=Oq6KeACQo68) 2024/10/29
 
 ## Huion Kamvas 12 (GS1161)
 
