@@ -11,15 +11,11 @@
 
 ### Real-world accuracy
 
-Perfectly accurate pen tracking means the tablet thinks the pen is exactly where the physical tip is. Any deviation from that is an inaccuracy.&#x20;
-
-However, all tablets are slightly inaccurate.&#x20;
+Perfectly accurate pen tracking means the tablet thinks the pen is exactly where the physical tip is. Any deviation from that is an inaccuracy. **All tablets are slightly inaccurate**.&#x20;
 
 ### Accuracy in pen tablets vs pen displays
 
-Pen tracking accuracy is a concept that applies to both pen tablets and pen displays.&#x20;
-
-However, in practice it is only really an issue with pen displays. This is because with pen displays you can see the inaccuracy - which shows up as the operating system pointer being offset from the tip of the pen.&#x20;
+Pen tracking accuracy is a concept that applies to both pen tablets and pen displays. However, in practice it is only really an issue with pen displays. This is because with pen displays you can see the inaccuracy - which shows up as the operating system pointer being offset from the tip of the pen.&#x20;
 
 ## Pen tracking calibration
 
@@ -29,7 +25,7 @@ If your pen's position is not matching where the pointer is in a major way espec
 
 {% embed url="https://youtu.be/M4rEk_RNBrM" %}
 
-## Corner accuracy in pen displays
+## Edge and corner accuracy in pen displays
 
 The pointer is generally a bit more offset from the tip of the pen toward the edges and especially the corners rather then the main part of the screen.
 
