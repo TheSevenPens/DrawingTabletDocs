@@ -12,11 +12,14 @@ If you are new to drawing tablets, after reading this guide you'll understand ho
 
 **Position tracking**
 
-A drawing tablet lets you use a **digital pen** (also called a **stylus**) as an input device. As you move the pen on the tablet, your operating system pointer around (a.k.a. your mouse cursor) mirrors the motion of the pen. This demonstrates the first key feature of a drawing tablet - the **accurate tracking of the pen's position**.&#x20;
+A drawing tablet lets you use a **digital pen** (also called a **stylus**) as an input device. As you move the pen on the tablet, your computer's "mouse pointer" mirrors the motion of the pen. This is first key feature of a drawing tablet - the **accurate tracking of the pen's position**.&#x20;
+
+* If a drawing tablet does not have a screen, then the pointer will move on one of you monitors.
+* If a drawing tablet has a screen, then the  pointer will move on the tablet's screen.
 
 **Clicking**
 
-Every time you touch the pen to the tablet, your computer will interpret the contact as being the equivalent of pressing a mouse button. If you tap, it is interpreted as a mouse click. If you press down and move the pen it is just like you are holding down a mouse button and moving the mouse.
+Every time you touch the pen to the tablet, your computer will interpret the contact as pressing a mouse button. If you tap quickly, it is interpreted as a mouse click. If you press down and move the pen it is just like you are holding down a mouse button and moving the mouse.
 
 **Hover**
 
@@ -55,17 +58,14 @@ Key attributes:
 * They DO have an embedded display
 * They REQUIRE A COMPUTER to be used.
 
-A pen display may look like a laptop or an iPad. However unlike those devices you should be aware that the tablet will always have to have at least one cord coming from it that is connected to a computer.&#x20;
+A pen display may look like a laptop or an iPad which are standalone devices. However unlike those devices:
+
+* A pen display will **always** have to have at least one cord coming from it that is connected to a computer.&#x20;
+* A pen display does not contain a battery. It must always get power through a cable attached to a power supply or from the computer directly.
 
 Pen displays cost between $300 to $3500.&#x20;
 
 ### Standalone tablets
-
-### Pen computers
-
-**Pen computers** are essentially laptops with an embedded pen tablet. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows. Some people love using pen computers but [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
-
-Pen computers cost between $1000 to $3500.
 
 ### Pen-enabled mobile computers&#x20;
 
@@ -77,7 +77,13 @@ Sometimes the drawing experience with a mobile computers can really rival that o
 
 In this category I think the Apple iPad provides the most compelling experience, followed closely by a Samsung Galaxy Tab S9.
 
-More here: [**Using an iPad as a drawing tablet**](../product-info/apple/7p-notes-apple-ipad.md)
+More here: [**Using an iPad as a drawing tablet**](../product-info/apple/7p-notes-apple-ipad.md) &#x20;
+
+### Pen computers
+
+**Pen computers** are essentially laptops with an embedded pen tablet. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows. Some people love using pen computers but [**I don't recommend pen computers**](../buying-a-drawing-tablet/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
+
+Pen computers cost between $1000 to $3500.
 
 ## What people do with their tablets
 
@@ -100,8 +106,9 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 * **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](../core-features/pen-pressure.md).&#x20;
 * **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](../core-features/pen-tilt.md).
 * **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](../guides/pens/pen-buttons.md)&#x20;
-* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. Learn more here: [**ExpressKeys**](../core-features/expresskeys.md) &#x20;
-* **Touch** - A small number of tablets support touch. In summary, touch for tablets has never come close to how well it works with the iPad. More here: [touch support](../guides/touch-support.md)&#x20;
+* **Pen power** - Drawing tablet pens get their power by being near the tablet itself. They don't even contain batteies. Usually the pen has to be withing abou 10mm for it to get power from the tablet. &#x20;
+* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. More here: [**ExpressKeys**](../core-features/expresskeys.md) &#x20;
+* **Touch** - A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [**Touch support**](../guides/touch-support.md)&#x20;
 
 ## The active area
 
@@ -131,11 +138,7 @@ At the end of the pen that touches the tablet is a little replaceable nib. Mostl
 
 ## Drawing with a tablet vs a mouse
 
-A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](../core-features/absolute-versus-relative-positioning.md). Using the tablet driver, you can mmake the tabletke tablet and pen work more like a mouse by using [**mouse mode**](../core-features/mouse-mode.md).
-
-## EMR technology
-
-Drawing tablets typically use a technology called Electromagnetic Resonance (EMR). One key benefit of EMR is that EMR pens don't need a battery inside, the pens get their energy just by being near the tablet. More here: [**EMR tablet technology**](../technology/emr/)&#x20;
+A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](../core-features/absolute-versus-relative-positioning.md). Using the tablet driver, you can make the tablet and pen work more like a mouse by using [**mouse mode**](../core-features/mouse-mode.md).
 
 ## Other topics to explore
 
