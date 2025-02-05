@@ -39,8 +39,10 @@ Examples:
 * Logitech G13 Gaming Keypad
 * [**8bitdo controller**](8bitdo-controller.md)&#x20;
 * Playstation controller
+  *   [/r/ClipStudio - Nintendo Joy-con as a shortcut remote! On Samsung Tab8 Ultra](https://www.reddit.com/r/ClipStudio/comments/1ih2vml/nintendo_joycon_as_a_shortcut_remote_on_samsung/)
 
-[Draw Your Weapon - A PlayStation controller for digital art? Why not!](https://drawyourweapon.com/a-playstation-controller-for-digital-art-why-not/) 2024/10/21
+      2025/02/03
+  * [Draw Your Weapon - A PlayStation controller for digital art? Why not!](https://drawyourweapon.com/a-playstation-controller-for-digital-art-why-not/) 2024/10/21
 
 ## Streaming keypads
 
