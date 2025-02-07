@@ -12,7 +12,12 @@ Keep in mind these are community-supported. And while you might occasionally see
 
 <table><thead><tr><th width="208">Subreddit</th><th width="149">members</th><th>Member count updated on</th></tr></thead><tbody><tr><td><a href="https://www.reddit.com/r/wacom/">/r/wacom</a></td><td>60K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/huion/">/r/huion</a></td><td>17.3K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/XPpen/">/r/XPpen</a></td><td>8.7K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/xencelabs/">/r/xencelabs</a></td><td>316</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/drawingtablet/">/r/drawingtablet</a></td><td>1.7K</td><td>2024/02/21</td></tr><tr><td><a href="https://www.reddit.com/r/samsunggalaxy/">/r/samsunggalaxy</a></td><td>48.5K</td><td>2024/03/16</td></tr><tr><td><a href="https://www.reddit.com/r/GalaxyTab/">/r/galaxytab</a></td><td>57.1K</td><td>2024/03/16</td></tr><tr><td><a href="https://www.reddit.com/r/ipad/">/r/ipad</a></td><td>394K</td><td>2024/03/16</td></tr><tr><td><a href="https://www.reddit.com/r/Gaomon/">/r/gaomon</a></td><td>500</td><td>2024/03/20</td></tr><tr><td><a href="https://www.reddit.com/r/ugee/">/r/ugee</a></td><td>22</td><td>2024/03/20</td></tr></tbody></table>
 
-## Brand-hosted communities
+## Discord servers
+
+* The official xp-pen discord [https://discord.com/invite/5GDyNgWeuy](https://discord.com/invite/5GDyNgWeuy) (run by XP-Pen)
+* [The drawing tablet discord](../about-thesevenpens/drawing-tablet-discord-server.md)  (I run this one).
+
+## Brand-hosted community sites
 
 Tablet brands also host their own community sites. For drawing tablet brands you will typically find these communities are not very large and there aren't many people posting questions or solutions.
 
