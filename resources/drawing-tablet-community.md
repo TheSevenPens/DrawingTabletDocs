@@ -24,7 +24,6 @@ Tablet brands also host their own community sites. For drawing tablet brands you
 * **Wacom**: [https://support.wacom.com/hc/en-us/community/topics](https://support.wacom.com/hc/en-us/community/topics)&#x20;
 * **Huion**: [https://community.huion.com/](https://community.huion.com/)&#x20;
 * **XP-Pen**: [https://community.xp-pen.com/](https://community.xp-pen.com/)
-  * XP-pen also launched a discord server on 2023/03/21. To join: [https://t.co/DAbwdbi4XO](https://t.co/DAbwdbi4XO) &#x20;
 * **Xencelabs**: [https://solutions.xencelabs.com/en/support/discussions](https://solutions.xencelabs.com/en/support/discussions)&#x20;
 * **Samsung:** [https://community.samsung.com/](https://community.samsung.com/)
 * **Apple:** [https://discussions.apple.com/welcome](https://discussions.apple.com/welcome)
