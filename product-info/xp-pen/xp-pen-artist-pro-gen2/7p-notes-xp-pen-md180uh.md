@@ -26,8 +26,8 @@
 * Response time: unspecified
 * Refresh rate: 60hz
 * Brightness: 250 cd/m2
-* Anti-glare treatment:
-* Etched glass Color: 10 bit (8bit+FRC)
+* Anti-glare treatment: Etched glass&#x20;
+* Color: 10 bit (8bit+FRC)
 * Color Gamut Coverage Ratio: 99.8% sRGB, 96% Adobe RGB, 98% Display P3
 
 ## Pens
