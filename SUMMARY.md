@@ -237,7 +237,7 @@
   * [Reset a drawing tablet](troubleshooting/reset-wacom-intuos-pro-tablets.md)
   * [Troubleshoot pointer stuck in corner of screen](troubleshooting/troubleshoot-pointer-stuck-in-corner-of-screen.md)
   * [Common drawing troubleshooting steps](troubleshooting/common-drawing-troubleshooting-steps.md)
-  * [Check if pen display shows HDMI display signal from other devices](troubleshooting/check-if-pen-display-shows-hdmi-display-signal-from-other-devices.md)
+  * [Check if pen display shows HDMI video signal from other devices](troubleshooting/check-if-pen-display-shows-hdmi-video-signal-from-other-devices.md)
   * [Troubleshoot drawing problems](troubleshooting/troubleshoot-drawing-problems.md)
   * [Troubleshoot the NO SIGNAL problem](troubleshooting/troubleshoot-no-signal.md)
   * [Troubleshoot buying a replacement pen](troubleshooting/troubleshoot-buying-a-replacement-pen.md)

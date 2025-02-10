@@ -78,7 +78,7 @@ Some people report that they can use software called [SuperDisplay](https://supe
 
 ## Using an external monitor via USB
 
-This means sending a display signal from the tablet to an external monitor. Whether this works depends on the model involved. My understanding is that only the Galaxy Tab S Ultra series can do this.
+This means sending a video signal from the tablet to an external monitor. Whether this works depends on the model involved. My understanding is that only the Galaxy Tab S Ultra series can do this.
 
 In my testing
 

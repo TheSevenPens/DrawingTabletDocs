@@ -156,9 +156,9 @@ Suppose your graphics card has 4 physical HDMI outputs. It's possible your card 
 
 Read the documentation for your graphics card to verify how many it supports.&#x20;
 
-## Display signal properties
+## Video signal properties
 
-### Display refresh rates
+### Video refresh rates
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Refresh Rate the computer is using for the display.
 
@@ -170,7 +170,7 @@ Start with a lower refresh rate, and build up to higher ones.
 
 Typically pen displays only go up to 60Hz.&#x20;
 
-### Display resolution
+### Video resolution
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Resolution the computer is using for the display.
 

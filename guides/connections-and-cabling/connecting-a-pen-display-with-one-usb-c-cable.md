@@ -29,7 +29,7 @@ You can do this verification easily:
 
 <figure><img src="../../.gitbook/assets/Slide_20240527_105643.png" alt=""><figcaption></figcaption></figure>
 
-## **Display signal with DP alt mode support**
+## **Video signal with DP alt mode support**
 
 Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md).
 
