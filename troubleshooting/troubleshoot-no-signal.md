@@ -2,11 +2,20 @@
 
 ## Overview
 
-The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen display. Most often this can be fixed. But it can be challenging to diagnose the cause because there are so many factors involved.
+The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen display. Most often you can fix this issue. But it can be challenging to diagnose because so many possible factors involved.
 
 <figure><img src="../.gitbook/assets/PXL_20221202_033015550.MP smaller.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
 
-What it means:  The "NO SIGNAL" message tells you that the pen display is not receiving a display signal from the computer. Commonly when people encounter the NO SIGNAL problem, they will notice that their pen continues to work on the tablet, even though they can't see anything.
+Your pen display is connected to your to your computer for two reasons :
+
+* to send to data the computer - this allows the pen to work
+* to receive a video signal from the computer
+
+NO SIGNAL means that the pen display is NOT RECEIVNG the video signal from the computer.
+
+## NO SIGNAL but the pen still works
+
+This is very normal because the data connection and the video signal are separate.&#x20;
 
 ## Important background information
 
@@ -16,54 +25,29 @@ Especially if you are new to drawing tablets I suggest you watch this video
 
 And look through this guide: [https://docs.thesevenpens.com/drawtab/guides/connections-and-cabling/connecting-a-pen-display](https://docs.thesevenpens.com/drawtab/guides/connections-and-cabling/connecting-a-pen-display)&#x20;
 
-## About this guide
+## Setting expectations
 
-This guide lists every piece of information and tactic I am aware of that might help.&#x20;
+This guide lists every tactic I am aware of that might help. However, it may be that even this guide is not enough to help. <mark style="color:red;">**Ultimately you should be prepared to contact your tablet manufacturer's customer support team.**</mark>
 
-However, it may be that even this guide is not enough to help. And ultimately you should be prepared to contact your tablet manufacturer's customer support team.
+## What you can tell from the NO SIGNAL message
 
-
-
-## What you can tell from the message
-
-The fact that you are seeing a NO SIGNAL message already tells you a few things:
+The fact that you are seeing a NO SIGNAL message tells you that:
 
 * **The pen display is getting enough power.** If it wasn't getting enough power, you wouldn't see this message.
 * **The backlight inside the display panel is working.** If the backlight wasn't working, this message would not be visible or incredibly difficult to read.&#x20;
 * **There is nothing wrong with the display panel itself.** The fact that it is showing you anything at all tells you the display panel is working.
 
-### Why the message might say "POWER SAVING"
+### What POWER SAVING means
 
-For some tablets, the NO SIGNAL message is accompanied bya POWER SAVING message.&#x20;
-
-POWER SAVING is **NOT** indicating a problem with POWER.
-
-POWER SAVING means "The pen display is not receiving a display signal from the computer. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down."&#x20;
-
-So, ultimately this message is telling you the tablet is trying to save you money not that there is a power problem.&#x20;
-
-## How your computer interprets a pen display
-
-Troubleshooting the the NO SIGNAL problem starts with understanding how your computer interprets an attached pen display. Pen displays are a single physical device that you connect to a computer. However, your computer thinks of the pen display as two separate devices:&#x20;
-
-* a pen tablet (aka screenless tablet)&#x20;
-* and a monitor/display
-
-<figure><img src="../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
-
-Your computer and operating system have no idea that these two devices are related in any way. Even if a single cable is used to connect your pen display to your computer, it will continue to believe two devices are part of the same pen display. On the other hand, your tablet driver will know that these two devices are related.
-
-The reason it is important to understand this is that the NO SIGNAL issue is a display issue, not a pen tablet issue. &#x20;
-
-Another consequence of this "two devices" behvaior, is that even though you may be experiencing a "no signal" error, you can still use your tablet as a pen tablet (a screenless tablet). In fact this is often feature of drawing tablets, some people occasionally want to use them as pen tablets without the screen.&#x20;
+For some tablets, the NO SIGNAL message is accompanied by a POWER SAVING message. POWER SAVING means "The pen display is not receiving a display signal from the computer. So rather than wasting energy by keeping the display powered up but not showing anything, the pen display is going to shut down."  So, ultimately this message is telling you the tablet is trying to save you money - NOT that there is a power problem.&#x20;
 
 ## Tablet drivers
 
-So, In general, messing around the tablet drivers WILL NOT HELP. So, don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very unlikely to help the NO SIGNAL problem.
+In general, messing around the tablet drivers WILL NOT HELP. Don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very, very unlikely to help the NO SIGNAL problem.
 
 ## Things to verify
 
-### Verify that the computer see the attached display
+### Verify that the computer sees the tablet's display
 
 Presumably, your computer already has one screen, so when you plug in your tablet it should at least recognize that there are two screens (one coming from the pen display).
 
@@ -73,13 +57,15 @@ In your operating system's **Display Settings**, you should see two displays. An
 | -------------------------------------------------------------------------- | ----------------------------------------- |
 | <img src="../.gitbook/assets/image (455).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (334).png>) |
 
-If your computer doesn't think there is a display attached, it certainly isn't going to send a signal to it. So if you don't see this detection, follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
+If your computer doesn't see the display from the tablet , it will not send a video signal to it.  Follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
 
 ## Verify that you operating system is trying to use the display.
 
 Sometimes you operating system knows the display is there, but it is deliberately not sending a display signal to it.
 
 For example, in Windows for the display in your tablet, Windows might be configured to "show desktop only on Display \<X>" - change it to one of the other options that will use the tablet display.&#x20;
+
+
 
 ### Verify that the pen display can receive an HDMI signal
 
@@ -235,10 +221,4 @@ Here's what can trigger it
 
 * General: [https://support.huion.com/en/support/solutions/articles/44001154156-what-to-do-if-your-huion-pen-display-shows-a-black-screen-or-no-signal](https://support.huion.com/en/support/solutions/articles/44001154156-what-to-do-if-your-huion-pen-display-shows-a-black-screen-or-no-signal)
 * Huion support for Kamvas 13: [https://support.huion.com/en/support/solutions/articles/44001949665-how-to-fix-my-kamvas-13-no-signal-black-screen-problem-](https://support.huion.com/en/support/solutions/articles/44001949665-how-to-fix-my-kamvas-13-no-signal-black-screen-problem-)
-
-
-
-
-
-
 
