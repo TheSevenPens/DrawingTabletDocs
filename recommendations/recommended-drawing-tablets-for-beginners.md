@@ -44,10 +44,16 @@ If I had to pick one item on this list, I would recommend the **One by Wacom CTL
 
 ## Pen displays
 
-These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. I don't enjoy drawing an 13" pen display. Instead, I prefer 16" and above. But 13" is a good way to get introduced to pen displays. More info: [Small pen display recommendations](pen-display-recommendations/small-pen-display-recommendations.md)
+These are tablets WITH A SCREEN that need to be connected to a computer. No pen displays are wireless. 13" is a good way to get introduced to pen displays. Though I do think ultimately 16" is a better size longer term.&#x20;
+
+SMALL 13"&#x20;
 
 * Huion Kamvas 13 GEN3 (GS1333)  \[$260, [**links**](../product-info/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-gs1333.md)] ★★★
 * XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../product-info/xp-pen/xp-pen-artist-gen2/)**,**  [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md)]
+
+MEDIUM 16"&#x20;
+
+* Huion Kamvas 16 GEN3 (GS1563) ★★★ \[$500, [**links**](../product-info/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-notes-huion-kamvas-16-gen3-gs1563.md)]
 
 ## Standalone tablets
 
