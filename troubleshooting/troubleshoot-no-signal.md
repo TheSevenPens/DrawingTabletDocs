@@ -96,13 +96,13 @@ Verify that your cables are fully connected.&#x20;
 
 Your computer may have multiple HDMI ports, try different ones.
 
-### Graphics card HDMI vs motherboard HDMI
+### GPU HDMI vs motherboard HDMI
 
-* If the computer PC has graphics card, it have HDMI ports
-* Always first try the HDMI port on your graphics card first - it's better to use them than HDMI ports on your motherboard
-* Some people suggest that motherboard ports NEVER work. This is NOT true. It is highly dependent on the specific machine. I can confirm I have several computers where the motherboard does work.
+In general connect via the GPU HDMI ports instead of motherboard HDMI ports
 
-<div align="left"><figure><img src="../.gitbook/assets/7P SLIDE Motherboard vs GPU ports.jpg" alt="" width="375"><figcaption><p>Motherboard ports on the left. GPU ports on the right.</p></figcaption></figure></div>
+more here: [**Motherboard HDMI ports vs GPU HDMI ports**](../guides/connections-and-cabling/motherboard-hdmi-vs-gpu-hdmi-ports.md).
+
+
 
 ## USB-C connection options
 
