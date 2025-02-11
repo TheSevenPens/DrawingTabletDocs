@@ -38,6 +38,7 @@ Examples:
 * Redragon K585
 * Logitech G13 Gaming Keypad
 * [**8bitdo controller**](8bitdo-controller.md)&#x20;
+  * [EyekooDrawsStuff - 8BitDo Micro for digital art shortcuts on mobile](https://docs.thesevenpens.com/drawtab/troubleshooting/troubleshoot-pen-draws-while-hovering) 2025 /02/11
 * Playstation controller
   *   [/r/ClipStudio - Nintendo Joy-con as a shortcut remote! On Samsung Tab8 Ultra](https://www.reddit.com/r/ClipStudio/comments/1ih2vml/nintendo_joycon_as_a_shortcut_remote_on_samsung/)
 
