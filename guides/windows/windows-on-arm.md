@@ -24,19 +24,6 @@ As of 2025/02/12:
   * ARM support starting with driver version 4.0.6.241211
   * XP-Pen announced ARM support with this tweet on Jan 14 2024: [https://x.com/XPPEN/status/1879166917266616558](https://x.com/XPPEN/status/1879166917266616558)&#x20;
 
-## A POSSIBLE alternative: Windows PNP tablet drivers
-
-If you cannot use a tablet until, an ARM driver is available the only other option that may help you is the use of windows PNP tablet drivers.
-
-The windows PNP drivers come with windows and are quite limited. Sometimes they are missing features that you need. I don't recommend using the Windows PNP drivers unless it's a last resort. And keep in mind that not all tablets support windows PNP drivers.
-
-For example Wacom Intos Pro tablets do not support Windows PNP drivers.
-
-More here:&#x20;
-
-* [Windows PNP Drivers](windows-pnp-support-for-drawing-tablets.md)
-* [Testing with Windows PNP drawing tablet drivers](../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)
-
 ### June 2024 update video
 
 {% embed url="https://www.youtube.com/watch?v=3RGkj0vs-z0" %}
