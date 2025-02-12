@@ -92,9 +92,11 @@ VERY GOOD.
 
 On par with Cintiq Pro 22 and with Huion Kamvas Pro 19.
 
-## <mark style="color:red;">Tilt compensation</mark>
+## Tilt compensation
 
-<mark style="color:red;">Not tested yet</mark>
+EXCELLENT - I didn't see the pointer shift much at all as I tilted in different directions
+
+<figure><img src="../../../.gitbook/assets/Slide_20250211_175227.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pressure scan rate testing
 
