@@ -1,4 +1,4 @@
-# 7P notes: Wacom Intuos Pro (PTH-x60)
+# 7P notes: Wacom Intuos Pro 2017 (PTH-x60)
 
 ## Overview
 
@@ -16,7 +16,7 @@ All three are highly recommended. I recommend the Medium size (PTH-660) size for
 
 These tablets come with the Wacom Pro Pen 2 (KP-504E) which is a HUGE part of why the drawing experience is so good.&#x20;
 
-**Pressure range** - This pen has an incredible pressure range. It's IAF is <1gf which is industry leading. And its maximum pressure is about 800gf which is incredibly high. Again this is industry leading. More here: [**pen pressure**](../../../core-features/pen-pressure.md).
+**Pressure range** - This pen has an incredible pressure range. It's IAF is <1gf which is industry leading. And its maximum pressure is about 800gf which is incredibly high. Again this is industry leading. More here: [**pen pressure**](../../../../core-features/pen-pressure.md).
 
 The pen is otherwise typical
 
@@ -30,7 +30,7 @@ The pen is otherwise typical
 
 **Pressure handling** - excellent&#x20;
 
-**Pointer lag** - These tablets have very little pointer lag. You can see that demonstrated in this video: [https://youtu.be/CRwzPJPA\_5A](https://youtu.be/CRwzPJPA\_5A).
+**Pointer lag** - These tablets have very little pointer lag. You can see that demonstrated in this video: [https://youtu.be/CRwzPJPA\_5A](https://youtu.be/CRwzPJPA_5A).
 
 ## Cables and connectivity
 
@@ -52,7 +52,7 @@ The Intuos Pro series has a slightly more textured surface than many other table
 
 Over an extended period of time (months?), you'll notice that the texture erodes a bit. The texture never goes completely away but it has a more typical amount of texture for a tablet. And the surface can end up looking a little "smooth" or "polished" in those areas. If you move the tip of your pen across the surface of the tablet you will even hear the difference as you move into these eroded areas. Below is an example of the texture erosion in Wacom Intuos Large (PTH-860).
 
-<figure><img src="../../../.gitbook/assets/pth-860 texture erosion (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/pth-860 texture erosion (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Texture sheets
 
@@ -70,7 +70,7 @@ In any case, I advise everyone to always pay attention to their nibs and replace
 
 Rating: VERY GOOD. Low amounts of wobble.
 
-<figure><img src="../../../.gitbook/assets/Wobble Wacom Intuos Pro Large (PTH-860).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Wobble Wacom Intuos Pro Large (PTH-860).png" alt=""><figcaption></figcaption></figure>
 
 ## Wacom Intuos Pro Large (PTH-860)
 

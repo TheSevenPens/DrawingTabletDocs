@@ -2,7 +2,7 @@
 
 ## Top Picks
 
-* Wacom Intuos Pro Small (PTH-460)  \[$200, [**links**](../../product-info/wacom/wacom-intuos-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-pth-x60.md)]
+* Wacom Intuos Pro Small (PTH-460)  \[$200, [**links**](../../product-info/wacom/wacom-intuos-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-intuos-pro/wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md)]
 * One by Wacom Small (CTL-472) \[$40, [**links**](../../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)]
   * FEATURE LIMITATION: NO TILT
 

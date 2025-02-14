@@ -14,7 +14,7 @@ Using a large tablet is very different from using a medium size tablet. There ar
 
 ## Large tablets in market as of May 2024
 
-* Intuos Pro Large (PTH-860) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/wacom/wacom-intuos-pro/7p-notes-wacom-pth-x60.md)  &#x20;
+* Intuos Pro Large (PTH-860) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/wacom/wacom-intuos-pro/wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md)  &#x20;
 * XP-Pen Deco Pro XLW (MT1592B) - [<mark style="background-color:green;">**my notes of this tablet**</mark>](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/7p-notes-xp-pen-mt1592b.md)  &#x20;
 * Huion Giano (G930L) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-inspiroy/7p-notes-huion-giano-g930l.md)&#x20;
 
@@ -41,7 +41,7 @@ Third, the Huion Giano overall is very good. It's a very close third to the XP P
 
 * Intuos Pro Large - [https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor](https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor)
 * Deco Pro XLW GEN2 - [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)&#x20;
-* Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html)&#x20;
+* Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-giano.html)&#x20;
 
 ## Active Areas
 
