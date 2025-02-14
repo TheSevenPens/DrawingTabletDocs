@@ -27,10 +27,6 @@ As of 2025/02/12:
   * XP-Pen announced ARM support with this tweet on Jan 14 2024: [https://x.com/XPPEN/status/1879166917266616558](https://x.com/XPPEN/status/1879166917266616558)&#x20;
   * I have tested this and can confirm it works.
 
-### June 2024 update video
-
-{% embed url="https://www.youtube.com/watch?v=3RGkj0vs-z0" %}
-
 ## Older Windows ARM devices
 
 Microsoft previously released versions of the Surface Pro with using the SQ1 and SQ2 ARM processors.   Interestingly, the new Windows improvements for ARM processors seem to be improving performance on these old devices.
