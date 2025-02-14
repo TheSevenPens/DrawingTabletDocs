@@ -1,2 +1,0 @@
-# Wacom Intuos Pro
-
