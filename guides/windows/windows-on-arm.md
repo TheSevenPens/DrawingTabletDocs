@@ -11,21 +11,18 @@ Windows on ARM devices require special ARM compatible tablet drivers. Below you'
 As of 2025/02/12:
 
 * **Xencelabs (ARM support available)**
-  * Separate ARM driver available since September 2024
-  * Download here: [https://www.xencelabs.com/support/download-drivers](https://www.xencelabs.com/support/download-drivers)
+  * Separate ARM driver available since version 1.3.4-75 (released on 2024/09/27)
+    * NOTE: For Xencelabs the ARM driver is a separate download
+  * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
+* **Wacom (ARM support available)**
+  * ARM support is available since driver version 6.4.9-2 (released on 2025/02/12)&#x20;
+  * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
+* **XP-Pen (ARM support available)**
+  * ARM support is available starting with driver version 4.0.6.241211 (released on 2025/01/14)
   * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
 * **Huion (ARM support in progress)**
-  * Actively working on an ARM driver.&#x20;
-  * Not available for download yet.
-* **Wacom (ARM support available)**
-  * Wacom delivered ARM support in Windows driver version 6.4.9-2 which released on 2025/02/12.&#x20;
-  * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
-  * More info: [Does Wacom have a driver for PCs that run Windows 11 on ARM processors (e.g. Snapdragon X)? ](https://support.wacom.com/hc/en-us/articles/23838303808407-Does-Wacom-have-a-driver-for-PCs-that-run-Windows-11-on-ARM-processors-e-g-Snapdragon-X)
-* **XP-Pen (ARM support available)**
-  * ARM support available - as part XP-Pen Windows driver driver
-  * ARM support starting with driver version 4.0.6.241211
-  * XP-Pen announced ARM support with this tweet on Jan 14 2024: [https://x.com/XPPEN/status/1879166917266616558](https://x.com/XPPEN/status/1879166917266616558)&#x20;
-  * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
+  * Huion is actively working on an ARM driver.&#x20;
+  * It is not available for download yet.
 
 ## Older Windows ARM devices
 
