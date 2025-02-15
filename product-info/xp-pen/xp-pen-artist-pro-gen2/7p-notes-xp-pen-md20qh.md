@@ -12,7 +12,9 @@
 * Active Area:&#x20;
   * 18.716” x 10.528" -> 21.474" diagonal
   * 475.392 mm x 267.408 mm -> 545.4mm diagonal&#x20;
-* Aspect Ratio: 16x9 .
+* Aspect Ratio: 16x9&#x20;
+* Accuracy: ±0.4 mm (center)
+* Report rate: 220Hz
 
 ## Display specs
 
@@ -65,8 +67,6 @@ See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-x
 
 <mark style="color:red;">Still needs testing</mark>
 
-
-
 ## Design
 
 Looks exactly like the XP-Pen Artist 22 Plus.
@@ -100,13 +100,23 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 
 ## Pressure scan rate testing
 
-RATING: VERY GOOD
-
-Drawing 50 strokes as fast possible results in no lost strokes.
+* RATING: VERY GOOD
+* Drawing 50 strokes as fast possible results in no lost strokes.
 
 ## Diagonal wobble
 
-Rating: VERY GOOD  - very low amounts of diagonal wobble.&#x20;
+* Rating: VERY GOOD  - very low amounts of diagonal wobble.&#x20;
+* On par with the Huion Kamvas Pro 19  and the Wacom Cintiq Pro 22
 
-On par with the Huion Kamvas Pro 19  and the Wacom Cintiq Pro 22
+## Stand
 
+* Comes with a very nice stand.
+* The stand is pre-attached in the box.
+
+## Heat
+
+* Cool with warm regions toward the middle and the top near the ports
+
+## Noise
+
+* Silent
