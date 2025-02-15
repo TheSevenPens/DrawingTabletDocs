@@ -63,9 +63,11 @@ See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-x
 * Maybe just slightly more than the Cintiq Pro 22.
 * Similar to Huion Kamvas Pro 19
 
-## <mark style="color:red;">Sharpness</mark>
+## Sharpness
 
-<mark style="color:red;">Still needs testing</mark>
+Photos may not capture it, but the display is slightly "soft" like what I saw in the Kamvas Pro 19. The Artist Pro19 GEN2 and Cintiq Pro 22 are a bit sharper.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250214_214152.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Design
 
