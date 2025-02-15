@@ -110,6 +110,10 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 * Rating: VERY GOOD  - very low amounts of diagonal wobble.&#x20;
 * On par with the Huion Kamvas Pro 19  and the Wacom Cintiq Pro 22
 
+## Ports
+
+<figure><img src="../../../.gitbook/assets/Slide_20250214_232712.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Stand
 
 * Comes with a very nice stand.
