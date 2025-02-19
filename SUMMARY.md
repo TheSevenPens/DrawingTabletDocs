@@ -27,6 +27,7 @@
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
   * [Buying tips](buying-a-drawing-tablet/buying-tips.md)
   * [How many pressure levels do you really need?](buying-a-drawing-tablet/how-many-pressure-levels-do-you-really-need.md)
+  * [Switching from a pen tablet to a pen display](buying-a-drawing-tablet/switching-from-a-pen-tablet-to-a-pen-display.md)
 * [Drawing tablet recommendations](recommendations/README.md)
   * [Recommended drawing tablets for beginners](recommendations/recommended-drawing-tablets-for-beginners.md)
   * [Dedicated note taking devices](recommendations/dedicated-note-taking-devices.md)
