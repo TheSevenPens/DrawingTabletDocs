@@ -2,7 +2,12 @@
 
 ## Overview
 
-Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially they are laptops that work with an EMR pen.
+Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially they are laptops that work with an EMR pen that are specifically designed for drawing and are made by drawing tablet brands such as Wacom.
+
+Examples of pen computers are:
+
+* Wacom Mobile Studio Pro
+* Huion Kamvas Strudio
 
 Even though some people love using pen computers, **I do not in general recommend buying one**.
 
@@ -14,32 +19,42 @@ Key characteristics of a pen computer:
 
 **Examples**
 
-* Microsoft Surface Pro (..7,8,9,10,etc)
 * Huion Kamvas Studio
 * Wacom Mobile Studio Pro
 
 ## Alternatives to pen computers
 
-Instead of pen computers, I recommend looking at mobile devices that support pens. These are devices such as:
+Instead of pen computers, I recommend looking at the other kinds of standalone devices: **pen-enabled mobile devices o**r **pen-enabled laptops**. &#x20;
+
+**pen-enabled mobile devices**
 
 * Apple iPad Pro with the Apple Pencil
 * Samsung Galaxy Tab S series tablets that use the Samsung S pen
 
+**pen-enabled laptops**&#x20;
+
+* Microsoft Surface Pro
+* Samsung Galaxy Book 5 Pro
+
 More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations/)
+
+Another alternative is to use a normal drawing tablet that is connected to a small mini-pc or laptop. This will allow you to draw in different locations even though dealing with the additional cabling may be cumbersome.
 
 ## Cost
 
 Pen computers are incredibly expensive.&#x20;
 
+For example the Wacom Mobile Studio 16 (2019) cost **$3500** at time of release.
+
 I certainly do not recommend pen computers for people who are just getting started with drawing tablets. I will always recommend that you go with cheaper alternatives. And the reason for this is simple: You may find that the wrong experience doesn't live up to your expectations.&#x20;
 
 ## Upgradability
 
-Pen computers typically have very limited upgradability.
+Pen computers typically have very limited upgradability compared to using a normal drawing tablet that requires a PC.
 
-Typically once you buy pen computer you'll be stuck with those specifications in terms of memory processor speed and GPU for the entire lifetime of the device.
+Typically once you buy pen computer you'll be stuck with those specifications in terms of memory processor speed and GPU for the entire lifetime of the device. If you are going to purchase a pen computer please verify how upgradable it is before you make the purchase.
 
-If you are going to purchase a pen computer please verify how upgradable it is before you make the purchase.
+if you use a non-standalone drawing tablet attached to a PC or laptop, you can either upgrade the PC or get a new laptop with significantly upgraded specs.&#x20;
 
 ## Customer support
 
