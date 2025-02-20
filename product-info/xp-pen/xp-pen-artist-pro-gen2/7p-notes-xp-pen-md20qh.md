@@ -7,6 +7,12 @@
 * Release year: 2025
 * Product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
 
+## Photos
+
+<figure><img src="../../../.gitbook/assets/20250219_215013 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250219_215101 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Core specs
 
 * Active Area:&#x20;

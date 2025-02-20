@@ -19,6 +19,15 @@ Most drawing tablets support these rotations:
 * Physically rotate the tablet
 * You can perform these steps in any order.
 
+## Notes for pen displays
+
+If you have a monitor and a pen display, your desktop is either:
+
+* **duplicated/mirrored** across both (both show the exact same thing)&#x20;
+* or **extended** across them (they show different things)
+
+If you want to rotate your table, then you have to use the **extended** setting. You can certainly choose the duplicated/mirrored setting - but it will not give you the behavior that you want. &#x20;
+
 ## Video Demonstration
 
 Here is a demonstration of how to rotate a pen display: [https://youtu.be/\_OkANovOxBQ](https://youtu.be/_OkANovOxBQ) &#x20;
