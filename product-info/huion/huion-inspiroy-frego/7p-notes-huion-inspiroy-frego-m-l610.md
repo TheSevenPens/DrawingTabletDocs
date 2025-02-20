@@ -15,9 +15,9 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 
 ## Basics
 
-* Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html)
+* Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
 * Release year: 2024&#x20;
-* User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf)&#x20;
+* User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User_Manual_inspiroy_frego_EN.pdf)&#x20;
 
 ## Size <a href="#size" id="size"></a>
 
@@ -36,11 +36,7 @@ In terms of paper sizes this is about the size of an A5 sheet of paper which has
 
 16:10 - which is common drawing tablets
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
@@ -153,11 +149,11 @@ All the devices listed below worked well with the Frego.
 **Wired vs Wireless**
 
 * Wireless - I connected via Bluetooth. And it worked.
-* Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating. (Huion clearly demonstrated that this is possble in this video: [https://www.youtube.com/watch?v=Oq6KeACQo68](https://www.youtube.com/watch?v=Oq6KeACQo68))
+* Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating. (Huion clearly demonstrated that this is possible in this video: [https://www.youtube.com/watch?v=Oq6KeACQo68](https://www.youtube.com/watch?v=Oq6KeACQo68))
 
 **Orientation**&#x20;
 
-The tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
+The Frego M tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
 
 <figure><img src="../../../.gitbook/assets/image (544).png" alt=""><figcaption></figcaption></figure>
 
@@ -175,7 +171,7 @@ Android apps seem inconsistent with how they show cursors. I will contact the cr
 
 **Bluetooth pointer lag**
 
-Even with bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any  lag or skips.&#x20;
+Even with Bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any  lag or skips.&#x20;
 
 **Bluetooth > switching devices**
 
@@ -183,13 +179,13 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 ## Photos
 
-![](<../../../.gitbook/assets/20240831\_125710 (Large) (1).jpg>)  ![](<../../../.gitbook/assets/20240831\_125734 (Large) (3).jpg>)
+![](<../../../.gitbook/assets/20240831_125710 (Large) (1).jpg>)  ![](<../../../.gitbook/assets/20240831_125734 (Large) (3).jpg>)
 
 
 
-![](<../../../.gitbook/assets/20240831\_130151 (Large).jpg>)   ![](<../../../.gitbook/assets/20240831\_130158 (Large) (1).jpg>)
+![](<../../../.gitbook/assets/20240831_130151 (Large).jpg>)   ![](<../../../.gitbook/assets/20240831_130158 (Large) (1).jpg>)
 
-![](<../../../.gitbook/assets/20240831\_130210 (Large).jpg>)  ![](<../../../.gitbook/assets/20240831\_130246 (Large).jpg>)
+![](<../../../.gitbook/assets/20240831_130210 (Large).jpg>)  ![](<../../../.gitbook/assets/20240831_130246 (Large).jpg>)
 
 <figure><img src="../../../.gitbook/assets/20240831_125840 (Large).jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
 
