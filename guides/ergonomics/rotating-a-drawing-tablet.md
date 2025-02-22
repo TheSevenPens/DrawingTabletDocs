@@ -52,6 +52,10 @@ Note that not all Wacom tablets have an Orientation option.
 
 
 
+## Brand-specific information
+
+* HUION - [Setting Up the Left-hand Mode for Your Huion Tablets](https://support.huion.com/en/support/solutions/articles/44001164173-setting-up-the-left-hand-mode-for-your-huion-tablets)&#x20;
+
 ## Rotating in the operating system's Display Settings
 
 * Windows instructions: [https://support.microsoft.com/en-us/windows/change-screen-orientation-f7ab1ff8-971d-58a5-b8ee-bc113bbf3acb](https://support.microsoft.com/en-us/windows/change-screen-orientation-f7ab1ff8-971d-58a5-b8ee-bc113bbf3acb)&#x20;
