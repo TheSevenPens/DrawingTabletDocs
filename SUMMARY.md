@@ -442,6 +442,7 @@
     * [7P notes: Procreate](application-info/procreate/7p-notes-procreate.md)
   * [Rebelle](application-info/rebelle.md)
   * [Samsung Notes](application-info/samsung-notes.md)
+  * [ZoomIt](application-info/zoomit.md)
 * [Accessories](accessories/README.md)
   * [Screen cleaning sprays](accessories/screen-cleaning-sprays.md)
   * [Monitor arms](accessories/using-monitor-arms-with-a-pen-display.md)

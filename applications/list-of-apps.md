@@ -54,3 +54,7 @@
 * **Adobe Photoshop** (Windows, MacOS) \[[**links**](../application-info/photoshop.md)]
 * **Affinity Photo** \[]
 * **Photopea** (web) \[[https://www.photopea.com/](https://www.photopea.com/) ]
+
+Presenting
+
+* **ZoomIt** (Windows) \[[**links**](../application-info/zoomit.md)] **FREE**
