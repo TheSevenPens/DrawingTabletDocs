@@ -19,9 +19,15 @@ In my initial investigation in 2023, I wasn't too happy with these newer version
 
 See: [**7P notes: Wacom One 2023 GEN2 pen displays**](../wacom-one-2023-gen2/7p-notes-wacom-one-2023-gen2-pen-displays.md)&#x20;
 
-
+## Size
 
 I still find 13" tablets a little too small for me. I normally recommend 16" tablets. But as a starter tablet or intended for use by a child, this size works well.
+
+## Diagonal wobble
+
+GOOD. has low amount of wobble.
+
+![](<../../../.gitbook/assets/Diag Wobble Wacom One GEN1 (DTC-133).png>)&#x20;
 
 ### **Cables and connectivity**
 
