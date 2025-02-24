@@ -14,7 +14,10 @@ Below you'll find my beginner-friendly recommendations for:&#x20;
 * and standalone tablets.&#x20;
 
 {% hint style="info" %}
-I HIGHLY RECOMMEND you read [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md).
+I HIGHLY RECOMMEND you:
+
+* Read [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md)&#x20;
+* Review these [**Buying tips**](../buying-a-drawing-tablet/buying-tips.md)&#x20;
 
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](./)&#x20;
 {% endhint %}
