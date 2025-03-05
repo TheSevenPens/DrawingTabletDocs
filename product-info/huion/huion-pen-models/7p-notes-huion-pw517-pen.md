@@ -16,3 +16,9 @@ If you have a tablet what is compatible with the PW517 pen, I strongly urge you 
 
 <figure><img src="../../../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
 
+## Consider the PW550 as an upgrade
+
+The PW540 series of pens are backwards compatible with tablets that work with the PW517. And the PW550 has improved pressure handling. So consider the PW550 as an upgrade option.
+
+More here: [**7P notes: Huion PW550 series pens**](7p-notes-huion-pw550-series-pens.md)
+

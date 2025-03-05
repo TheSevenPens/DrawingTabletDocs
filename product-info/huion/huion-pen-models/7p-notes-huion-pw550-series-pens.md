@@ -42,13 +42,20 @@ So as I often recommend, you should consider a pressure curve to linearize this 
 
 ## Photos
 
-&#x20;![](<../../../.gitbook/assets/20240831\_125920 (Large) (1).jpg>)
+&#x20;![](<../../../.gitbook/assets/20240831_125920 (Large) (1).jpg>)
 
 
 
-&#x20;![](<../../../.gitbook/assets/20240831\_125946 (Large).jpg>)
+&#x20;![](<../../../.gitbook/assets/20240831_125946 (Large).jpg>)
 
 
 
-![](<../../../.gitbook/assets/20240831\_125958 (Large).jpg>)
+![](<../../../.gitbook/assets/20240831_125958 (Large).jpg>)
 
+
+
+## PW550 versus PW517
+
+The PW550 may be a compelling upgrade to the PW517 pen. See the details in the video below.
+
+{% embed url="https://youtu.be/vk4DlVGU6-Q" %}
