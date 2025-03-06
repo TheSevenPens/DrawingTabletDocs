@@ -509,6 +509,7 @@
     * [The realities of building your own EMR pen](technology/emr/the-realities-of-building-your-own-emr-pen.md)
   * [MPP](technology/mpp.md)
   * [Digital pen tech](technology/digital-pen-tech.md)
+  * [Wacom UD EMR](technology/wacom-ud-emr.md)
 * [Misc](misc/README.md)
   * [Circuit simulations](misc/circuit-simulations.md)
   * [History of drawing tablets](misc/history-of-drawing-tablets/README.md)
