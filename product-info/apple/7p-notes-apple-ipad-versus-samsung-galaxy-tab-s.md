@@ -2,29 +2,20 @@
 
 ## Overview
 
-I've used both iPads and a Samsung Galaxy Tab extensively. And here are my thoughts about one versus the other in terms of using them as a drawing tablet.
+Both of these kinds of devices can be successfully used for digital art, note taking, etc. Each has its strengths and weaknesses - but overall they're quite comparable.
 
-Below or my detailed notes about using each one individually
+My detailed notes on each
 
 * [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s-series.md)
 * [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
 
-## Drawing experience
+## Drawing experience&#x20;
 
-I think the Galaxy Tab S series wins in the drawing experience category. Having said that I do want to recognize that the Apple pencil as a device is actually very good.
+It's hard to pick a winner - their drawing experience is similar but has some key differences. If you are used to traditional drawing tablets, then the Samsung Galaxy Tab with its S pen will deliver a more similar experience.
 
-But here are the reasons why I think the drawing experience is actually better on the Galaxy Tab S series
-
-* The Galaxy Tab series uses Wacom EMR technology. This is the same technology that powers all of Wacom's products. And especially if you're coming from a background of using drawing tablets then this will feel more natural to you than using an apple pencil.
-* Hover support has always been available with the Samsung Galaxy Tab series. But it is a relatively new feature for apple iPads and only works with certain pens and with certain iPads.
-* Depending on which apple pencil you have and which iPad you have.
-* Pens that work with the Galaxy Tab series also have a single button. But the Apple iPad pencil does not have such a button
-
-## Reliability
-
-I've owned an Apple iPad since they first came out in about 2011. And they've always been highly reliable devices.
-
-I've had Samsung Galaxy Tab S devices for about the last year and a half. And they also seem highly reliable.
+* **Pen technology** - The Galaxy Tab S series uses Wacom EMR technology. This is the same technology that powers all of Wacom's products. And especially if you're coming from a background of using drawing tablets then this will feel more natural to you than using an apple pencil.
+* **Hover** - Support for hover has always been available with the Samsung Galaxy Tab series. But it is only works with certain Apple Pencil models and with certain iPads.
+* **Buttons** - Pens that work with the Galaxy Tab series also have a single button. But the Apple iPad pencil does not have such a button
 
 ## Pointer lag
 
@@ -33,7 +24,11 @@ I've had Samsung Galaxy Tab S devices for about the last year and a half. And th
 
 In practice both are excellent in terms of pointer lag.
 
+## Reliability
 
+I've owned an Apple iPad since they first came out in about 2011. And they've always been highly reliable devices.
+
+I've had Samsung Galaxy Tab S devices for about the last year and a half. And they also seem highly reliable.
 
 ## Applications
 
@@ -45,7 +40,7 @@ Here's a list of some of the more popular apps
 
 <table><thead><tr><th width="221">Application</th><th width="224">iPad</th><th>Samsung Galaxy Tab S</th></tr></thead><tbody><tr><td>Procreate</td><td>YES</td><td>NO</td></tr><tr><td>Procreate Dreams</td><td>YES</td><td>NO</td></tr><tr><td>Clip Studio Paint</td><td>YES</td><td>YES</td></tr><tr><td>Krita</td><td>NO</td><td>YES</td></tr><tr><td>Infinite Painter</td><td>YES</td><td>YES</td></tr><tr><td>Concepts</td><td>YES</td><td>YES</td></tr></tbody></table>
 
-more here: [**applications**](../../applications/)&#x20;
+More here: [**applications**](../../applications/)&#x20;
 
 ## Aspect Ratio
 
@@ -59,12 +54,19 @@ I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. Th
   * Do NOT buy the Apple Pencil USB-C version - it does not support pressure sensitivity&#x20;
 * Samsung: There are several versions of the S pen and they aren't clearly labelled. The one I am discussing is the one compatible with the Galaxy Tab S series of tablets.
 
+## Pen Pressure handling
+
+There are significant differences in pressure handling.
+
+* Samsung S pens - are OK in terms of pressure handling. They have a slightly higher IAF (3gf to 6gf) and don't have a high maximum pressure (200gf). More here: [**7P notes: Samsung S Pen**](../samsung/samsung-s-pen/7p-notes-samsung-s-pen.md)&#x20;
+* Apple Pencil 2nd GEN and Apple Pencil Pro - These have a very low IAF based on users' comments (some people say <1gf) and a high maximum pressure of 500gf.
+
 ## Pen nib retraction&#x20;
 
 * The apple pencil has a fixed tip.&#x20;
 * Like any EMR drawing tablet, the Samsung S pen features a nib that retracts&#x20;
 
-## Does pen come with tablet
+## Pen included with tablet?
 
 * Apple iPad - you have to buy the Apple Pencil separately. It does NOT come with an iPad.
 * Samsung Galaxy S series - the Samsung S pen comes with the tablet.
@@ -99,5 +101,5 @@ Both pens can experience wear at their drawing end, and you may need to buy repl
 
 ## Other resources
 
-* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0\_CEWImyVhA) (artist comparison) 2024/05/23 &#x20;
+* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024/05/23 &#x20;
 

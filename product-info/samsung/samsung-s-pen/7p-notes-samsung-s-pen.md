@@ -6,21 +6,19 @@ There are several different Samsung S Pens. I am referring to the S Pens that co
 
 ### Overall
 
-RATING: GOOD. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil though it is not as good as the Wacom Pro Pen 2 in terms of pressure range.
+RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil as a device, but the Apple Pencil has superior pressure handling, and the S Pen is certainly not as good as the Wacom Pro Pen 2.
 
 ## Pressure
 
-The overall pressure of the S pen is good.&#x20;
+The overall pressure of the S pen is OK.&#x20;
 
-**maximum pressure**
+**Maximum pressure**
 
-In my testing it has a good maximum pressure of about 250gf.
+In my testing it has a OK-ISH maximum pressure of about 200gf with some units getting closer to 150gf.
 
 **Initial activation force**
 
-It's supposed to be around 3gf.
-
-I have not independently verified this.
+It's supposed to be around 3gf. But it's been measured from 3gf to 6gf depending on the pen.
 
 ## Buttons
 
@@ -36,11 +34,11 @@ And just like those Wacom pens they don't need to charge - they get their energy
 
 ## **Different S Pen version**
 
-There are several versions of the S Pen listed here: [**https://en.wikipedia.org/wiki/S\_Pen**](https://en.wikipedia.org/wiki/S\_Pen)
+There are several versions of the S Pen listed here: [**https://en.wikipedia.org/wiki/S\_Pen**](https://en.wikipedia.org/wiki/S_Pen)
 
 I can't speak to all of them, just the ones that came with Galaxy Tab S series.
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/GalaxyTab/comments/u38kp9/s\_pens\_initial\_activation\_pressure\_terrible\_is/](https://www.reddit.com/r/GalaxyTab/comments/u38kp9/s\_pens\_initial\_activation\_pressure\_terrible\_is/)&#x20;
+* [https://www.reddit.com/r/GalaxyTab/comments/u38kp9/s\_pens\_initial\_activation\_pressure\_terrible\_is/](https://www.reddit.com/r/GalaxyTab/comments/u38kp9/s_pens_initial_activation_pressure_terrible_is/)&#x20;
 *
