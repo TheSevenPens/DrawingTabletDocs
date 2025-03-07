@@ -6,18 +6,16 @@ Wacom pioneered the use of EMR technology in drawing tablets.Wacom sells Wacom-b
 
 ## Naming
 
-This technology is goes by several names
+Wacom UD EMR goes by several names
 
+* Wacom UD EMR (UD stands for Ultra Digitizer)
 * Wacom Feel EMR&#x20;
 * Wacom Feel It EMR
 * Feel by Wacom
-* Wacom UD EMR (UD stands for Ultra Digitizer)
 
-In this document I'll call it Wacom UD EMR - because most people who get interested in drawing tablets use that phrase.
+I use "Wacom UD EMR" because most people who get deeply interested in drawing tablets use that name. &#x20;
 
-Even though these are might be used to refer to the technology, you will rarely see them used on consumer-facing material. Tablets and pens that use UD EMR almost always simply use the phrase "Wacom EMR". &#x20;
-
-## Wacom UD EMR adoption in devices
+## Adoption
 
 ### Non-Wacom devices
 
@@ -44,12 +42,17 @@ For a long time NONE of Wacom's professional line of tablets used UD EMR.
 
 That changed in 2024 with the introduction of the Wacom Movink 13. The Movink 13 supports both traditional Wacom EMR pens and supports Wacom UD EMR pens.
 
-## Pens that use Wacom UD EMR
+## Adoption in pens
 
-Here's a **partial** list of known UD EMR pens
+### UD EMR pens from Wacom
 
 * Wacom One 2019 pen (CP-913)
-* Wacom One 2023 pen (CP-923)
+* Wacom One 2023 pen (CP-923
+
+### Non-Wacom UD EMR pens
+
+This is a **partial** list of known UD EMR pens
+
 * Dr. Grip Digital for Wacom
 * STAEDTLER Norris Digital Jumbo Stylus
 * Samsung S Pen
@@ -57,11 +60,11 @@ Here's a **partial** list of known UD EMR pens
 
 ## Wacom professional pens
 
-Wacom pens such as the Wacom Pro Pen 2 and the pro pen 3 do NOT use UD EMR.
+Wacom pens such as the Wacom Pro Pen 2 and the Wacom Pro Pen 3 do NOT use Wacom UD EMR.
 
-## (Almost) broad compatibility
+## Pen & tablet compatibility
 
-If you find a device that can use a ED EMR pen, in general that device will work with any UD EMR pen. However sometimes there are **some exceptions**.
+A device that supports a UD EMR pen, very often, will work with any UD EMR pen. However this is not a strict rule. Sometimes there are **some exceptions**.
 
 Here are a partial list of compatibility cases
 
