@@ -8,11 +8,10 @@ Wacom pioneered the use of EMR technology in drawing tablets.Wacom sells Wacom-b
 
 This technology is goes by several names
 
-·        Wacom Feel EMR
-
-·        Wacom Feel It EMR
-
-·        Wacom UD EMR (UD stands for Ultra Digitizer)
+* Wacom Feel EMR&#x20;
+* Wacom Feel It EMR
+* Feel by Wacom
+* Wacom UD EMR (UD stands for Ultra Digitizer)
 
 In this document I'll call it Wacom UD EMR - because most people who get interested in drawing tablets use that phrase.
 
@@ -41,7 +40,7 @@ However, NOT ALL entry-level Wacom tablets use UD EMR. For example the one by Wa
 
 ### Wacom professional devices
 
-For a long time NONE of wacom's professional line of tablets used UD EMR.
+For a long time NONE of Wacom's professional line of tablets used UD EMR.
 
 That changed in 2024 with the introduction of the Wacom Movink 13. The Movink 13 supports both traditional Wacom EMR pens and supports Wacom UD EMR pens.
 
@@ -49,17 +48,12 @@ That changed in 2024 with the introduction of the Wacom Movink 13. The Movink 13
 
 Here's a **partial** list of known UD EMR pens
 
-Wacom One 2019 pen (CP-913)
-
-Wacom One 2023 pen (CP-923)
-
-Dr. Grip Digital for Wacom
-
-STAEDTLER Noris digital jumbo Stylus
-
-Samsung S Pen
-
-LAMY AL-Star black EMR Pen
+* Wacom One 2019 pen (CP-913)
+* Wacom One 2023 pen (CP-923)
+* Dr. Grip Digital for Wacom
+* STAEDTLER Norris Digital Jumbo Stylus
+* Samsung S Pen
+* LAMY AL-Star black EMR Pen
 
 ## Wacom professional pens
 
@@ -91,6 +85,18 @@ UD EMR pens tend to have only one button or in some cases no buttons. The Wacom 
 &#x20;Resources
 
 * [Wacom: our key technologies](https://www.wacom.com/en-us/about-wacom/technologies)  - brief overview of UD EMR and AES
+
+## Wacom Feel branding examples
+
+Wacom has a "Feel by Wacom" trademark as shown below
+
+<div align="left"><figure><img src="../.gitbook/assets/feel-by-waco-mark.jpg" alt="" width="157"><figcaption></figcaption></figure></div>
+
+You can see this how it is used in these materials for an ASUS product.
+
+<div align="left"><figure><img src="../.gitbook/assets/s-l1600-1.webp" alt="" width="188"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../.gitbook/assets/s-l1600-2.webp" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Notes
 
