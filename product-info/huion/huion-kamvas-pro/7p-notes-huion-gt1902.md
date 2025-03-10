@@ -54,7 +54,7 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 * **Pointer lag** - NORMAL - standard for modern pen displays.
 * **Parallax** - NORMAL - standard for modern pen displays.
 * **Pen IAF and Max pressure - See** [**Huion PW600 and PW600S**](../huion-pen-models/7p-notes-huion-pw600-series-pens.md)
-* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../core-features/pen-pressure-transition-stability.md)&#x20;
+* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../core-features/pen-pressure-stability.md)&#x20;
 * **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 * **Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [**pen tilt compensation**](../../../core-features/pen-tilt-compensation.md).
 
@@ -105,7 +105,7 @@ Official Answer: NO. Huion's documentation is explicit on thjis point ([**see th
 
 I tried testing it with an appropriate cable and could not get a single cable configuration to work with a Microsoft Surface Pro 8 or a M3 MacBook Pro.
 
-However ... this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/)
+However ... this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion_kamvas_pro_19_usbc_cables/)
 
 **Using third party USB-C cables for display signal & data**
 
@@ -120,7 +120,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
 * **Touch on MacOS** -&#x20;
   * At time of launch. This tablet did not support touch on MacOS.
   * On 2024/08/01 Huion released a firmware update firmware to enable touch on MacOS.
-    * Video: See this video: [https://www.youtube.com/watch?v=4D0\_OpPIgC8](https://www.youtube.com/watch?v=4D0\_OpPIgC8)&#x20;
+    * Video: See this video: [https://www.youtube.com/watch?v=4D0\_OpPIgC8](https://www.youtube.com/watch?v=4D0_OpPIgC8)&#x20;
     * I haven't gotten as chance to try this update out yet. But I will soon.
 * **Touch on Windows** - Still under evaluation.
   * By default, touch on the tablet will normally map to whichever display is your "main monitor".&#x20;
