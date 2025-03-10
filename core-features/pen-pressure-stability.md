@@ -25,5 +25,18 @@ All of the example below were created with the Wacom Intuos Pro 2017 M (PTH-660)
 
 <figure><img src="../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
 
+## Causes
+
+* The pressure detection mechanism in an EMR pen is umm almost always hypersensitive as pressure gets close to the IAF.
+* The texture of the tablet surface as the pen is traveling over it can get picked up by the pressure sensor.
+* The movement of your wrist or elbow on the tablet or the desk as your hand moves or rotates can get picked up by the pressure sensor.
+* It's very hard for a human to hold a consistent physical pressure.
+* Pens are more sensitive to pressure as they come closer to a vertical position
+* depending on the direction of pen travel the direction of the physical tilt of the pen can create odd interactions between the nib of the pen and the surface of the pen tablet
+
+## Addressing these problems
+
+See: [**Troubleshoot low pressure drawing problems**](../troubleshooting/troubleshoot-low-pressure-drawing-problems.md)
+
 
 
