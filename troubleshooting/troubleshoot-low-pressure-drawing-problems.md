@@ -28,7 +28,7 @@ There is an interaction the direction the pen is moving and the direction the ni
 
 If you point the nib TOWARD the direction the pen is moving that means the pen may pick up more of the surface texture which can translate into pressure readings that are bouncing around a lot.
 
-Instead try pointing the nib AWAY from the direction of travel. This means you will be dragging the nib on the surface. And in general I found that this produces less weird pressure artifacts.
+Instead try pointing the nib AWAY from the direction of travel. In general I found that this produces less weird pressure artifacts.
 
 <div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
