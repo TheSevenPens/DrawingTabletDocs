@@ -44,7 +44,7 @@ Another technique is simply to ignore the lower end of physical pressure near th
 
 ### Use pressure smoothing
 
-Some applications offer pressure smoothing. Precious smoothing can also diminish the effects of any sudden changes in pressure readings that might be occurring at low pressure.
+Some applications offer pressure smoothing. Pressure smoothing can also diminish the effects of any sudden changes in pressure readings that might be occurring at low pressure.
 
 
 
