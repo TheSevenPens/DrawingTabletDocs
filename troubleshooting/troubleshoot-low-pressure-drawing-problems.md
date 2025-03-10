@@ -20,15 +20,15 @@ Drawing tablet pens are more sensitive to pressure when the pens are held more v
 
 And many pens that exhibit even severe pressure stability problems when they're held vertically will not show those problems if you're holding them at a more normal angle as you draw.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-### Tilt the pen in direction the pen is moving&#x20;
+### Point the nib away from the direction the pen is moving
 
-There is an interaction between the tilt of the pen and the direction the pen is moving as you draw.
+There is an interaction the direction the pen is moving and the direction the nib is facing .
 
-If you're tilting AWAY from the direction the pen is moving that means the nib is being pushed into the direction that the pen is moving. This arrangement can pick up more of the surface texture which can translate into pressure readings that are bouncing around a lot.
+If you point the nib TOWARD the direction the pen is moving that means the nib is being pushed into the direction that the pen is moving. This arrangement can pick up more of the surface texture which can translate into pressure readings that are bouncing around a lot.
 
-Instead try tilting the pen TOWARDS the direction of travel. This means you will be dragging the nib on the surface. And in general I found that this produces less weird pressure artifacts.
+Instead try pointing the nib AWAY from the direction of travel. This means you will be dragging the nib on the surface. And in general I found that this produces less weird pressure artifacts.
 
 <div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
