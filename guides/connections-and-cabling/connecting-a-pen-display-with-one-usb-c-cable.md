@@ -49,21 +49,19 @@ Your cable and ports MUST support DP alt mode. To find out if you ports and cabl
 
 Often with tablets there are two USB-C ports.
 
-Somtimes they are not interchangable:
+Sometimes they are not interchangeable:
 
 * Some tablets dedicate the top port for video and data, and the bottom to power
 * Some tablets dedicate the bottom port for video and data, and the bottom to power
 * Some tablets can any any combination of ports for video, data, and power
 
-## Recessed USB-C ports
+## USB-C Ports that are recessed
 
-If the ports are recessed, usually only specific cables from the manufacturer will fit them.
+You should be aware that recessed USB-C ports on your pen display typically mean that only the manufacturer-provided USB-C cables will fit them.
 
-<figure><img src="../../.gitbook/assets/Slide_20250106_084310.jpg" alt=""><figcaption></figcaption></figure>
+More here: [**Recessed USB-C ports**](recessed-usb-c-ports.md)&#x20;
 
-In those cases where both USB-C ports are recessed the size of the recessed area is different. So one cable mat fit one port, but not the other.
-
-<figure><img src="../../.gitbook/assets/Slide_20250106_091555.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/Slide_20250106_084310.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Manufacturer cables vs third-party cables
 

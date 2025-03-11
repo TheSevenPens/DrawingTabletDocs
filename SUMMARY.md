@@ -131,6 +131,7 @@
     * [Connecting a pen display with a single USB-C cable](guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)
     * [Using 3rd-party cables with your drawing tablet](guides/connections-and-cabling/using-3rd-party-cables-with-your-drawing-tablet.md)
     * [Connecting a pen to a drawing tablet](guides/connections-and-cabling/connecting-a-pen-to-a-drawing-tablet.md)
+    * [Recessed USB-C ports](guides/connections-and-cabling/recessed-usb-c-ports.md)
     * [Connecting a pen display to a USB-C port on a GPU](guides/connections-and-cabling/connecting-a-pen-display-to-a-usb-c-port-on-a-gpu.md)
   * [Drawing](guides/drawing/README.md)
     * [Drawing smooth strokes](guides/drawing/drawing-smooth-strokes.md)
