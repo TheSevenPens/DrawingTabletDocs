@@ -64,3 +64,14 @@ Huion and XP-pen have also released android tablets in this category.
 
 * [**Huion Kamvas Slate 10**](../../product-info/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
 * [**XP-Pen Magic Drawing Pad**](../../product-info/xp-pen/xp-pen-magic-drawing-pad.md) - I don't have any experience with it.
+
+Resources
+
+* [Gartzia Artz - The Best Tablet? iPad Pro vs. Xiaomi Pad 7 vs. XP Pen, MagicPad vs. Honor MagicPad 2 vs. Huawei M...](https://www.youtube.com/watch?v=vvCvsAbAK6A) 2025/03/12
+*
+
+    \
+
+
+
+
