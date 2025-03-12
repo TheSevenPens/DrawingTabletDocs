@@ -6,11 +6,7 @@ The Sketchboard Pro for iPads provides a stand which integrates the iPad into th
 
 Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (203).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (203).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Some notes**
 
@@ -25,7 +21,9 @@ Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 * [Ergojosh - SKETCHBOARD PRO - COMPLETE REVIEW](https://youtu.be/G8ZyAkj9LwI) Jan 16, 2021
 * [Let's Draw with BeeJayDeL - Sketchboard Pro Review: Should You Buy?](https://www.youtube.com/watch?v=gcoZ8m1pUJA) Mar 13, 2021
 
+## Sketchboard Pro II for iPad
 
+* [Adam Duff - Sketchboard Pro II - The Most Versatile Artist Stand For iPad Pro (M4 iPad Pro Edition)](https://www.youtube.com/watch?v=vTFPzMyCBh4) 2025/03/09
 
 ## Astropad Darkboard
 
@@ -36,11 +34,7 @@ Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
 ## Sketchslate for iPad
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (83).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * Product page: [https://www.thesketchslate.com/](https://www.thesketchslate.com/)&#x20;
 * [Adam Duff - ULTIMATE iPad Pro Stand Buyers Guide For ARTISTS](https://youtu.be/I4M1HzcAjEM) - &#x20;
