@@ -8,6 +8,10 @@
   * [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 * Information on [**Apple Pencil**](apple-pencil.md)&#x20;
 
+## 2025 Apple M3 iPad Air
+
+* [Brad Colbow - M3 iPad Air Review](https://www.youtube.com/watch?v=kKZf_nAoofA) 2025 2025/03/13
+
 ## 2024 Apple iPad Mini
 
 * [Brad Colbow review of 2024 Apple iPad Mini](https://www.youtube.com/watch?v=pOzw6ubjdgY) 2024/10/22
@@ -17,7 +21,7 @@
 
 * [Teoh on Tech - M4 iPad Pro: 90 days later (update review)](https://youtu.be/mqQBV1jFocM) 2024/08/23
 * [Teoh on Tech - 11 vs 13-inch iPad Pro (or Air): Which size to get for drawing?](https://www.youtube.com/watch?v=zxDyqHnEXA8) 2024/06/04&#x20;
-* [Brad Colbow - 2024 iPad Pro Review (Snyder Cut)](https://www.youtube.com/watch?v=gL\_lRJqUfV4) 2024/05/31
+* [Brad Colbow - 2024 iPad Pro Review (Snyder Cut)](https://www.youtube.com/watch?v=gL_lRJqUfV4) 2024/05/31
 * [Adam Duff - M4 iPad Pro & Apple Pencil Pro - PRO ARTIST Review (First Impressions)](https://www.youtube.com/watch?v=lIb6s8zEBLE) 2024/05/20
 * [Dave2D - My 2024 iPad Pro Review](https://www.youtube.com/watch?v=bG2N4a0ir3A) - 2024/05/13
 * [MobileTechReview - Apple M4 iPad Pro (2024)](https://www.youtube.com/watch?v=Wl7292aOPRA) Review - 2024/05/18
@@ -37,7 +41,7 @@
 
 ## 2022 M2 Apple iPad Pro
 
-* [MobileTechReview - 2022 Apple iPad Pro M2 11" Review](https://www.youtube.com/watch?v=Yp\_B3WcTFgk) - 2022/10/22
+* [MobileTechReview - 2022 Apple iPad Pro M2 11" Review](https://www.youtube.com/watch?v=Yp_B3WcTFgk) - 2022/10/22
 * [Brad Colbow - - 2022 iPad Pro 3 months later](https://www.youtube.com/watch?v=x6tUJt95N2Y) 2023/01/17&#x20;
 
 
