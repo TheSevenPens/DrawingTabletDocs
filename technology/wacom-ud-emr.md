@@ -53,7 +53,8 @@ That changed in 2024 with the introduction of the Wacom Movink 13. The Movink 13
 
 This is a **partial** list of known UD EMR pens
 
-* Dr. Grip Digital for Wacom
+* Pilot Dr. Grip Digital for Wacom
+  * [Teoh on Tech - Pilot Dr Grip Digital Pen (review) - A retractable grippy Wacom EMR pen](https://www.youtube.com/watch?v=LSsB4nDVibw) 2025/03/12
 * STAEDTLER Norris Digital Jumbo Stylus
 * Samsung S Pen
 * LAMY AL-Star black EMR Pen
