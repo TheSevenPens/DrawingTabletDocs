@@ -44,9 +44,10 @@
 
 * **Autodesk Maya**  \[]
 * **Blender** (Linux, MacOS, Windows, BSD)  \[[**links**](../application-info/blender.md)] <mark style="background-color:purple;">**FREE**</mark>
+* **Feather 3D** (iPad) \[[**links**](../application-info/feather-3d.md)]
+* **nomadsculpt** (iOS, Android) \[ [https://nomadsculpt.com/](https://nomadsculpt.com/)]
 * **Spline** (web) \[ - [https://spline.design/](https://spline.design/) ]
 * **Voxelcanvas** (web) \[[**https://voxelcanvas.me/**](https://voxelcanvas.me/)]
-* **nomadsculpt** (iOS, Android) \[ [https://nomadsculpt.com/](https://nomadsculpt.com/)]
 * **ZBrush** (Windows, MacOS, iPadOS) \[]
 
 ### Photo editing
