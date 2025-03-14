@@ -7,7 +7,7 @@
 ## Connections and ports
 
 * These tablets support both wired and wireless connection.
-* USB0C Port location: top right
+* USB-C Port location: top right
 * Multiple wireless connections: TBD
 
 ## Touch
