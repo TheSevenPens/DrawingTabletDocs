@@ -241,13 +241,12 @@ Yes
 
 * A single USB-C cable that supplies power, data, and display signal
 * Two USB-C cables. One that that provides data and display signal and one that supports power.
-* A 3-in-1 cable.&#x20;
-  * I tested the 3 in 1 (HDMI) Cable for 2023 Edition Wacom One Displays (ACK4490602Z) with the Movink 13. It worked correctly
-  * You can buy it from the Wacom store: [https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)
-* Some people have bought a Wacom 3-in-1 cable (not sure which model) which lets them connect the Movink to the HDMI of their computer.&#x20;
-  * See: [https://www.reddit.com/r/wacom/comments/1d16v5d/psa\_the\_new\_movink\_only\_work\_on\_thunderbolt\_usb4/](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/)
-
-
+* 3-in-1 cable for HDMI connection
+  * The tablet does NOT come with a 3-in-1 cable&#x20;
+  * As of 2025, instead of a 3-in-1 cable Wacom offers the [**Wacom Converter (ACK45219Z)**](https://estore.wacom.com/en-us/wacom-converter-ack45219z.html) for thew Movink which serves the same role as a 3-in-1 cable.&#x20;
+  * I tested the [**3-in-1 Cable for Wacom One 2023  Pen Displays (ACK4490602Z)**](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html) with the Movink 13 on two different computers and it did work. I had to connect the power end of the 3-in-1 cable into a USB-C power adapter (it did not seems to work when plugged into the PCs or any of the docks I have)
+* Here are some other experiences with connecting it
+  * [reddit r/wacom - PSA: The new Movink only work on Thunderbolt / USB4 port](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/) 2024/05/26
 
 ## Buttons
 
