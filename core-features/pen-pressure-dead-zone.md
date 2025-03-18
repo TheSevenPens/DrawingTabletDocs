@@ -1,12 +1,14 @@
-# Pen pressure deadzone
+# Pen pressure dead zone
 
 ## Overview
 
-the pressure dead zone is an area of a pressure curve that is deliberately designed to ignore a bit of the lower end of the pressure range. The pressure dead zone effectively increases the IAF of the pen.
+The pressure dead zone is an area of a pressure curve that is deliberately designed to ignore a bit of the lower end of the pressure range. The pressure dead zone effectively increases the IAF of the pen.
 
 ## Visualization
 
 Visually the pressure dead zone can be seen whenever the lower left corner of the pressure curve is displaced to the right
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Uses
 
@@ -19,21 +21,22 @@ examples of problems that pressure dead zone could be applied to:
 * drawing while hovering
 * strokes having tails
 
-## Default deadzones in tablet drivers
+## Default dead zones in tablet drivers
 
 When you look at the default pressure curve and a tablet driver for most of the EMR pendulum encounter you will notice that they almost always do not have a dead zone predefined.
 
 There are a couple of notable exceptions (as of 2025/03/18).
 
-\-        The default pressure curve for the Wacom pro pen 2 (KP-504E) has a pressure dead zone
-
-\-        the default pressure curve for the Huion PW600 pence also has a small pressure dead zone.
+* The default pressure curve for the Wacom pro pen 2 (KP-504E) has a pressure dead zone
+* The default pressure curve for the Huion PW600 pence also has a small pressure dead zone.
 
 ## Testing results
 
 I've tested 4 Wacom pro pen 2 units by using them without the default pressure dead zone. Of the four two did not have any drawing while hover problems. The other two did in fact draw while hovering. It appears that the Wacom pro pen 2 is a bit oversensitive and some units by default do draw on hover. So this explains why Wacom defaults to a small pressure dead zone for these pens. Note that the Wacom pro pen 3 does not have a default pressure dead zone.
 
-For the Huion PW 600 series of pens, without the pressure dead zone I did not encounter any drawing while hovering problems.
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+For the Huion PW600 series of pens, without the pressure dead zone I did not encounter any drawing while hovering problems.
 
 ## Recommendation
 
