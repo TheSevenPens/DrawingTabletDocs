@@ -28,7 +28,7 @@ When you look at the default pressure curve and a tablet driver for most of the 
 There are a couple of notable exceptions (as of 2025/03/18).
 
 * The default pressure curve for the Wacom pro pen 2 (KP-504E) has a pressure dead zone
-* The default pressure curve for the Huion PW600 pence also has a small pressure dead zone.
+* The default pressure curve for the Huion PW600 pens also has a small pressure dead zone.
 
 ## Testing results
 
