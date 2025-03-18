@@ -23,7 +23,7 @@ examples of problems that pressure dead zone could be applied to:
 
 ## Default dead zones in tablet drivers
 
-When you look at the default pressure curve and a tablet driver for most of the EMR pendulum encounter you will notice that they almost always do not have a dead zone predefined.
+When you look at the default pressure curve and a tablet driver for most of the EMR pens you will encounter, you will notice that they almost always do not have a dead zone predefined.
 
 There are a couple of notable exceptions (as of 2025/03/18).
 
