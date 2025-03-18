@@ -65,6 +65,7 @@
   * [Tilt impact on pressure readings](core-features/tilt-impact-on-pressure-readings.md)
   * [Pen pressure](core-features/pen-pressure.md)
   * [Pen pressure range comparison](core-features/pen-pressure-range-comparison.md)
+  * [Pen pressure deadzone](core-features/pen-pressure-deadzone.md)
   * [Pen pressure instability at low pressure](core-features/pen-pressure-instability-at-low-pressure.md)
   * [Pen pressure response](core-features/pen-pressure-response.md)
   * [Pen pressure curve](core-features/pen-pressure-curve/README.md)
