@@ -18,7 +18,7 @@
 
 **Rust**
 
-* [https://github.com/thehappycheese/wintab\_lite](https://github.com/thehappycheese/wintab\_lite) - use WinTab API from Rust
+* [https://github.com/thehappycheese/wintab\_lite](https://github.com/thehappycheese/wintab_lite) - use WinTab API from Rust
 
 **Utilities**
 
@@ -28,3 +28,8 @@
 **Sandbox apps**&#x20;
 
 * [https://github.com/TheSevenPens/WinTabPainter](https://github.com/TheSevenPens/WinTabPainter) - a primitive "paint" app to prototype and explore ideas for drawing tablets.
+
+**LCS/Telegraphics WinTab Dev Info**
+
+[https://web.archive.org/web/20050305120615/http://www.pointing.com:80/FTP.HTM](https://web.archive.org/web/20050305120615/http://www.pointing.com:80/FTP.HTM)
+
