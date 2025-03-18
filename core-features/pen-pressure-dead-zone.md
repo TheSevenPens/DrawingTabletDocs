@@ -43,3 +43,7 @@ For the Huion PW600 series of pens, without the pressure dead zone I did not enc
 the pressure dead zone is intended to solve a problem. But not all pens have that problem. I would suggest that when you get a new tablet or a new pen you take a look at the tablet driver and verify whether a pressure dead zone is set by default.
 
 If it is try using the pen without the pressure dead zone. And if you don't notice any problems then leave it that way. Because that will give you a more sensitive pen with a lower initial activation force.
+
+## Links
+
+* [Tablet\_P - Tablet Pressure Deadzones](https://www.youtube.com/watch?v=rvEuwuKcAWE) 2025/03/18&#x20;
