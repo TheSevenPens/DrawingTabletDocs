@@ -4,11 +4,7 @@
 
 Product page: [https://www.parblo.com/products/pr100](https://www.parblo.com/products/pr100)
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (78).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (78).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
 
 ### Videos
 
