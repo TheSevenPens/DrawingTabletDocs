@@ -472,7 +472,7 @@
     * [Paperlike for iPad](accessories/surface-protectors/paperlike-for-ipad.md)
   * [Stands](accessories/stands/README.md)
     * [7P notes: VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](accessories/stands/7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
-    * [Parblo PR-100 stand](accessories/stands/parblo-pr-100-stand/README.md)
+    * [Parblo PR-100 stand](accessories/stands/parblo-pr-100-stand.md)
       * [7P notes: Parblo PR-100 Stand](accessories/stands/parblo-pr-100-stand/7p-notes-parblo-pr-100-stand.md)
     * [XP-Pen AC41/AC42 stands](accessories/stands/xp-pen-ac41-ac42-stands.md)
     * [XOOT Stand](accessories/stands/xoot-stand.md)
