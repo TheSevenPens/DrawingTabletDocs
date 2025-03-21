@@ -21,10 +21,15 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 * Has 6 buttons on the tablet . The XP-Pen has no buttons on the tablet but it comes with a shortcut remote.
 * Has 2 dials on the table. The XP-Pen has no dials but it comes with a shortcut remote.
 
+**XP-Pen Artist Pro 16 GEN2 advantages**
+
+* The industrial design of the XP-Pen tablet is more attractive and stylish, the Huion looks more plain.
+* Kamvas 16 GEN3 does NOT come with a separate shortcut remote. The XP-Pen Artist Pro 16 GEN2 comes with a shortcut remote with 10 buttons and 1 dial.&#x20;
+
 **Other differences**&#x20;
 
-* Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio. I like 16
-* Kamvas 16 GEN3 does NOT come with a separate shortcut remote. The XP-Pen Artist Pro 16 GEN2 comes with a shortcut remote with 10 buttons and 1 dial.&#x20;
+* Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio.&#x20;
+* The XP-Pen has legs built into the tablet for providing some angle. The Kamvas 16 GEN3 does not have any legs and instead comes with a simple stand. But for both I use a separate stand.&#x20;
 
 **What they have in common**
 
