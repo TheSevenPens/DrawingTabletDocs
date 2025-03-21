@@ -28,6 +28,7 @@ How an app works with a drawing tablet pen, depends on whether the app is "pen-a
 
 ## Roundups & reviews
 
+* [Dong Chang - What's the best software for Anime? Trying out all the 2D animation software](https://www.youtube.com/watch?v=8tDcizzdN4g) 2025/01/25
 * [Brad Colbow - 10 Best Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI_3PIs) - 2024/11/13&#x20;
 * [Wesley Gardener -  Ranks 15 Digital Art Programs](https://www.youtube.com/watch?v=HBxg0HrQROY) - 2024/05/10
 * [Brad Colbow - Best Alternative to Every Adobe Program](https://www.youtube.com/watch?v=lLab5ChFFho) 2024/06/20&#x20;
