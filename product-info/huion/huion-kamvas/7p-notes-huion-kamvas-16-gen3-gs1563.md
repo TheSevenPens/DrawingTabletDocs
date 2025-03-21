@@ -18,12 +18,13 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 * Can be connected with third-party USB-C cables (that meet the requirements). The XP-Pen tablet has a USB-C port that is recessed, so you need to use XP-Pens USB-C cable.
 * Huion PW600 pen has a wider pressure range is more consistent across units than the XP-Pen X3 pro series.
-* Has 6 buttons. The XP-Pen has no buttons
-* Has 2 dials. The XP-Pen has no dials.
+* Has 6 buttons on the tablet . The XP-Pen has no buttons on the tablet but it comes with a shortcut remote.
+* Has 2 dials on the table. The XP-Pen has no dials but it comes with a shortcut remote.
 
 **Other differences**&#x20;
 
 * Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio. I like 16
+* Kamvas 16 GEN3 does NOT come with a separate shortcut remote. The XP-Pen Artist Pro 16 GEN2 comes with a shortcut remote with 10 buttons and 1 dial.&#x20;
 
 **What they have in common**
 
