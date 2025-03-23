@@ -48,7 +48,7 @@
     * [7P notes: Large pen tablets compared](recommendations/comparisons/7p-notes-large-pen-tablets-compared.md)
     * [7P notes: 22" pen displays compared (2024)](recommendations/comparisons/7p-notes-22-pen-displays-compared-2024.md)
     * [7P notes: 13" pen displays compared (2023)](recommendations/comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md)
-* [Drawing tablet brands](drawing-tablet-brands/README.md)
+* [Brands](drawing-tablet-brands/README.md)
   * [Drawing tablet brands vs digitizers](drawing-tablet-brands/drawing-tablet-brands-vs-digitizers.md)
   * [7P notes: Huion and XP-Pen](drawing-tablet-brands/7p-notes-huion-and-xp-pen.md)
   * [7P notes: Xencelabs](drawing-tablet-brands/7p-notes-xencelabs.md)
