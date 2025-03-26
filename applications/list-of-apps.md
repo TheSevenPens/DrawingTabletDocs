@@ -47,7 +47,7 @@
 * **Feather 3D** (iPad) \[[**links**](../application-info/feather-3d.md)]
 * **nomadsculpt** (iOS, Android) \[ [https://nomadsculpt.com/](https://nomadsculpt.com/)]
 * **Spline** (web) \[ - [https://spline.design/](https://spline.design/) ]
-* **Voxelcanvas** (web) \[[**https://voxelcanvas.me/**](https://voxelcanvas.me/)]
+* **Voxelcanvas** (web) \[[https://voxelcanvas.io/](https://voxelcanvas.io/)]
 * **ZBrush** (Windows, MacOS, iPadOS) \[]
 
 ### Photo editing
