@@ -31,7 +31,8 @@
 ### Sketching
 
 * **Concepts** (Windows, Android, iOS, ChromeOS) \[[**links**](../application-info/concepts-app.md)]
-* **Sketchbook Pro** (MacOS, Windows, Android, iOS) \[]
+* **Sketchbook** (iOS, Android) \[[https://www.sketchbook.com/](https://www.sketchbook.com/)]
+* **Sketchbook Pro** (MacOS, Windows) \[[https://www.sketchbook.com/](https://www.sketchbook.com/)]
 
 ### Vector
 
@@ -42,18 +43,18 @@
 
 ### 3D&#x20;
 
-* **Autodesk Maya**  \[]
+* **Autodesk Maya**  \[[https://www.autodesk.com/products/maya/](https://www.autodesk.com/products/maya/)]
 * **Blender** (Linux, MacOS, Windows, BSD)  \[[**links**](../application-info/blender.md)] <mark style="background-color:purple;">**FREE**</mark>
 * **Feather 3D** (iPad) \[[**links**](../application-info/feather-3d.md)]
 * **nomadsculpt** (iOS, Android) \[ [https://nomadsculpt.com/](https://nomadsculpt.com/)]
 * **Spline** (web) \[ - [https://spline.design/](https://spline.design/) ]
 * **Voxelcanvas** (web) \[[https://voxelcanvas.io/](https://voxelcanvas.io/)]
-* **ZBrush** (Windows, MacOS, iPadOS) \[]
+* **ZBrush** (Windows, MacOS, iPadOS) \[[https://www.maxon.net/en/zbrush](https://www.maxon.net/en/zbrush)]
 
 ### Photo editing
 
 * **Adobe Photoshop** (Windows, MacOS) \[[**links**](../application-info/photoshop.md)]
-* **Affinity Photo** \[]
+* **Affinity Photo** \[[https://affinity.serif.com/en-us/photo/](https://affinity.serif.com/en-us/photo/)]
 * **Photopea** (web) \[[https://www.photopea.com/](https://www.photopea.com/) ]
 
 Presenting
