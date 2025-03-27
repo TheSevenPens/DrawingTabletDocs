@@ -111,6 +111,7 @@
     * [Matching aspect ratios](guides/customizing-your-experience/matching-aspect-ratios.md)
     * [Shrinking the active area](guides/customizing-your-experience/shrinking-the-active-area.md)
     * [Choosing the right tablet size](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+    * [Choosing the right resolution for a pen display](guides/customizing-your-experience/choosing-the-right-resolution-for-a-pen-display.md)
     * [Using large pen tablets](guides/customizing-your-experience/using-large-pen-tablets.md)
     * [Using extra-large pen tablets](guides/customizing-your-experience/using-extra-large-pen-tablets.md)
     * [Matching pen tablet size to monitor size](guides/customizing-your-experience/matching-pen-tablet-size-to-monitor-size.md)
