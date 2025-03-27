@@ -21,7 +21,7 @@ Some people can work very well with using a pen tablet for taking notes. Though 
 
 **Considerations**:
 
-* **Size.** Small pen tablets don't offer much space for writing and it can feel cramped. A medium pen tablet is better, but then it takes up much more space.
+* **Size.** Small pen tablets don't offer much space for writing and it can feel cramped. A medium pen tablet is better, but then it takes up a bit more space.
 * **Wireless**. You might prefer to get a pen tablet that supports a wireless connection. Because it can be a little irritating to have the tablet always physically connected to the computer.
 
 **Recommended pen tablets**
@@ -30,6 +30,8 @@ If you do want to use a pen tablet for taking notes here are some devices that w
 
 * Wacom One Medium (CTL-672)
 * Wacom One Small (CTL-472)
+
+[<mark style="background-color:green;">**My notes on these tablets**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)
 
 ## Using a pen display (screen tablet)
 
