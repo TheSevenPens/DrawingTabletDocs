@@ -1,8 +1,8 @@
-# 7P notes: Wacom Pro Pen 3 (ACP50000DZ)
+# 7P notes: Wacom Pro Pen 3 (ACP-500)
 
 ## Pro Pen 3
 
-The Wacom Pro Pen 3 (ACP50000DZ) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.&#x20;
+The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Wacom Pro Pen 3 (ACP50000DZ).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -35,11 +35,13 @@ I tried it in these scenarios
     * For example, sudden flicks to end a line in Clip Studio Paint look a little different than the same motion in Photoshop. But this seems normal.
   * For the Pro Pen 3 with the Wacom Cintiq Pro 27 the begging and ends of strokes felt as good as they always have.&#x20;
 
-### Pressure range&#x20;
+### Pressure range & maximum pressure
 
-Rating: EXCELLENT
+Rating: VERY GOOD maximum pressure
 
-The Pro Pen 3 has the typical wide pressure range from Wacom. Unfortunately there are no clear published specs from Wacom on other manufacturers on these pressure range values. So we have to evaluate it subjectively for now. To me it seems similar to that of the Wacom Pro Pen 2 which has a very wide pressure range.
+The Pro Pen 3 has a very large maximum pressure. The maximum pressure varied between units from 550gf to 700gf.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250326_220429.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Initial activation force
 

@@ -376,7 +376,7 @@
       * [7P notes: Wacom 2K Pen (LP-190K)](product-info/wacom/wacom-pens/7p-notes-wacom-lp-190k.md)
       * [7P notes: Wacom One 2019 GEN1 Pen (CP-913)](product-info/wacom/wacom-pens/7p-notes-wacom-one-2019-gen1-pen-cp-913.md)
       * [7P notes: Wacom One 2023 Pen GEN2 (CP-923)](product-info/wacom/wacom-pens/7p-notes-wacom-cp-923.md)
-      * [7P notes: Wacom Pro Pen 3 (ACP50000DZ)](product-info/wacom/wacom-pens/7p-notes-wacom-acp50000dz.md)
+      * [7P notes: Wacom Pro Pen 3 (ACP-500)](product-info/wacom/wacom-pens/7p-notes-wacom-acp50000dz.md)
     * [Wacom pen compatibility](product-info/wacom/wacom-pen-compatibility.md)
   * [Xencelabs](product-info/xencelabs/README.md)
     * [Xencelabs Quick Keys](product-info/xencelabs/xencelabs-quick-keys.md)
