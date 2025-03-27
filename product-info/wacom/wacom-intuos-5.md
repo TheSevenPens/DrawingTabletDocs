@@ -11,3 +11,17 @@ The Intuos 5 series was the last time Wacom used "Intuos" only to mean professio
 * [Terry Lee White - Intuos 5 Review](https://www.youtube.com/watch?v=4bNXtZCVg54) 2012/03/15
 * [New Brit Workshop - Intuos 5 Medium Touch Review](https://www.youtube.com/watch?v=KXoYgYUdVyY) - 2013/01/22
 * [Sara Dietschy - Wacom Tablet Small Intuos Pro VS Medium Intuos5 | Which One To Get / Size Comparison](https://www.youtube.com/watch?v=MeJ6DvJCjUk) Feb 10, 2015
+
+
+
+## Photos
+
+<figure><img src="../../.gitbook/assets/61D6OS3S34L._AC_SL1500_ (1).jpg" alt="" width="375"><figcaption><p>Intuos 5 Touch Medium PTH-650</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/71jaqAlLJaL._AC_SL1500_.jpg" alt="" width="375"><figcaption><p>Intuos 5 Touch Large PTH-850</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/61FSaxQNwsL._AC_SL1500_.jpg" alt="" width="375"><figcaption><p>Intuos 5 Touch Small PTH-450</p></figcaption></figure>
