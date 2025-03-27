@@ -17,7 +17,7 @@
 
 * I attended Wacom's demo event on Oct 5 2022 before the product was launched.&#x20;
 * This wasn't an exclusive event. I registered for it like everyone else when Wacom publicly revealed the event.
-* Wacom published the Q\&A from the demo event here: [https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A\_Oct%202022.pdf?sid=TV2:AJoJnUTl8 ](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A\_Oct%202022.pdf?sid=TV2:AJoJnUTl8)
+* Wacom published the Q\&A from the demo event here: [https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A\_Oct%202022.pdf?sid=TV2:AJoJnUTl8 ](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A_Oct%202022.pdf?sid=TV2:AJoJnUTl8)
 
 ## User manual
 
@@ -33,8 +33,8 @@
 
 | Component                  | Model number | Notes                             |
 | -------------------------- | ------------ | --------------------------------- |
-| Wacom Cintiq Pro 27        | DTH271       |                                   |
-| Wacom Pro Pen 3            | ACP50000DZ   | Included with Wacom Cintiq Pro 27 |
+| Wacom Cintiq Pro 27        | DTH-271      |                                   |
+| Wacom Pro Pen 3            | ACP-500      | Included with Wacom Cintiq Pro 27 |
 | Wacom Pro Pen 3 tray       | ACK44827Z    | Included with Wacom Cintiq Pro 27 |
 |  Wacom Cintiq Pro 27 Stand | ACK64801KZ   |                                   |
 
@@ -82,8 +82,8 @@
 * Wacom does not publish pen tracking accuracy numbers
 * But we can compare it to other tablets that do have published numbers
 * Here are the accuracy numbers for the Huion Kamvas Pro 24 4K (GT2401) as
-  * \+/- 0.5 mm at center
-  * \+/- 3mm at corner
+  * +/- 0.5 mm at center
+  * +/- 3mm at corner
   * I think these numbers are accurate for the Huion
 * The Cintiq pro 27 - just like every other pen display - has some non-uniformity.&#x20;
   * Compared to any other pen display out there the uniformity is VERY GOOD.
@@ -304,7 +304,7 @@ My usage: I left it at **Native**.
 
 * In a quiet environment you will notice the fan noise
 * The noise does bother me. It is louder than any device I have in my office except my PC when I am gaming at 4K.
-* Here's what it sounds like: [https://twitter.com/TheSevenPens/status/1579912655581876225?s=20\&t=Fv8rNtUcS0wdUeAXV\_MwJg ](https://twitter.com/TheSevenPens/status/1579912655581876225?s=20\&t=Fv8rNtUcS0wdUeAXV\_MwJg)
+* Here's what it sounds like: [https://twitter.com/TheSevenPens/status/1579912655581876225?s=20\&t=Fv8rNtUcS0wdUeAXV\_MwJg ](https://twitter.com/TheSevenPens/status/1579912655581876225?s=20\&t=Fv8rNtUcS0wdUeAXV_MwJg)
 * I mitigate the fan noise perception sometimes by using earbuds with Active Noise Cancellation. I use Google Pixel Buds pro which completely mask the sound. As much as this solution does work, I don't think the future of using expensive creative equipment should require me to put something in my ears.
 * I would STRONGLY prefer the Cintiq Pro 27 to be silent or at least much quieter even if it has run slightly warmer.&#x20;
 
@@ -403,8 +403,8 @@ Ultimately we need to hear from color professionals to see if indeed the Cintiq 
 
 ## Reddit threads
 
-* r/wacom - [I am disappointed to Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/14fmkvv/i\_am\_disappointed\_to\_cintiq\_pro\_27/) 6/21/2023
-* r/wacom - [For the few that are thinking about getting the new Cintiq Pro 27 stand, I highly discourage it...](https://www.reddit.com/r/wacom/comments/15zgsoq/for\_the\_few\_that\_are\_thinking\_about\_getting\_the/) 8/23/2023
+* r/wacom - [I am disappointed to Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/14fmkvv/i_am_disappointed_to_cintiq_pro_27/) 6/21/2023
+* r/wacom - [For the few that are thinking about getting the new Cintiq Pro 27 stand, I highly discourage it...](https://www.reddit.com/r/wacom/comments/15zgsoq/for_the_few_that_are_thinking_about_getting_the/) 8/23/2023
 
 ## Alternatives
 
@@ -485,7 +485,7 @@ Specific iPad Pro model used: Apple iPad Pro (11 inch) (4rd gen)
 **What did not work**
 
 * The iPad Pro was not able to use the touch support of the Cintiq Pro 27 at all.
-* The image on the Cintiq Pro 27 looked washed out - and I tried all color profiles on the Cintiq Pro 27. This seems to be an issue with the iPad Pro and some displays in general. See: r/iPadPro - [M1 iPad Pro washed out colors using external monitor.](https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1\_ipad\_pro\_washed\_out\_colors\_using\_external/) 7/26/2023
+* The image on the Cintiq Pro 27 looked washed out - and I tried all color profiles on the Cintiq Pro 27. This seems to be an issue with the iPad Pro and some displays in general. See: r/iPadPro - [M1 iPad Pro washed out colors using external monitor.](https://www.reddit.com/r/iPadPro/comments/15a5cdf/m1_ipad_pro_washed_out_colors_using_external/) 7/26/2023
 
 ### Connecting to a Samsung Galaxy S8 Ultra
 
