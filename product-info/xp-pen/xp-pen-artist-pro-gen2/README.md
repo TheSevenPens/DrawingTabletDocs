@@ -4,7 +4,7 @@
 
 * product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
 * release year: 2025
-* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-xp-pen-md20qh.md)
+* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-xp-pen-md220qh.md)
 
 ## XP-Pen Artist Pro 24 GEN2 4K (MD240UH)
 
