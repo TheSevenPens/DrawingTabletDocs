@@ -16,25 +16,23 @@
 * Wacom Cintiq Pro 27 \[$3500, [**links**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-271.md)]
   * **BE AWARE**: Fan noise
 
-## 22" Solid value
+## Solid value
 
-* XP-Pen Artist 22 Plus (MD220FH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-artist-22-plus.md)
-
-## 22" Dated but worth investigating
-
-* Wacom Cintiq 22 (DTK-2260). [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq/7p-notes-wacom-dtk-2260.md)
-
-## 22" Decent choices
-
+* XP-Pen Artist 22 Plus (MD220FH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-artist-22-plus.md)&#x20;
 * [**Huion Kamvas Pro 24 4K**](../../product-info/huion/huion-kamvas-pro/) (GT2401) \[$1300, [**links**](../../product-info/huion/huion-kamvas-pro/)]
   * BE AWARE: Antiglare sparkle&#x20;
 * [**Huion Kamvas 24 Plus (GS2402)**](../../product-info/huion/huion-kamvas/) \[$900, [**links**](../../product-info/huion/huion-kamvas/)]
-  * BE AWARE: Antiglare sparkle
+
+## Older but worth investigating
+
+* Wacom Cintiq 22 (DTK-2260). [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq/7p-notes-wacom-dtk-2260.md)
 
 ## Value with compromises
 
-* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md)  . Consider getting the PW550 pen to give a better drawing experience with this tablet.
+* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md) .&#x20;
+  * Consider getting the PW550 pen for this tablet.
 * Huion Kamvas 22 (GS2201) \[$450, [**links**](../../product-info/huion/huion-kamvas/)]&#x20;
+  * Consider getting the PW550 pen for this tablet.
 
 ## Not tested yet
 
