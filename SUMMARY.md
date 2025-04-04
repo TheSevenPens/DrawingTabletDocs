@@ -379,6 +379,7 @@
       * [7P notes: Wacom One 2023 Pen GEN2 (CP-923)](product-info/wacom/wacom-pens/7p-notes-wacom-cp-923.md)
       * [7P notes: Wacom Pro Pen 3 (ACP-500)](product-info/wacom/wacom-pens/7p-notes-wacom-acp50000dz.md)
     * [Wacom pen compatibility](product-info/wacom/wacom-pen-compatibility.md)
+    * [7P notes: Wacom Converter (ACK45219Z)](product-info/wacom/7p-notes-wacom-converter-ack45219z.md)
   * [Xencelabs](product-info/xencelabs/README.md)
     * [Xencelabs Quick Keys](product-info/xencelabs/xencelabs-quick-keys.md)
     * [7P notes: Xencelabs Pen Tablet Medium (BPH1212W-A)](product-info/xencelabs/7p-notes-xencelabs-bph1212w-a.md)
