@@ -4,7 +4,7 @@
 
 There is a relationship between the size of a pen tablet and the size of your monitor that you should pay attention to. They both have different sizes and certain combinations may work better than others.
 
-For more general information about choosing the right size, go here: [**Choosing the right tablet size**](choosing-the-right-tablet-size.md).&#x20;
+For more general information about choosing the right size, go here: [**Choosing the right tablet size**](../../buying-a-drawing-tablet/choosing-the-right-tablet-size.md).&#x20;
 
 ## General guidance
 

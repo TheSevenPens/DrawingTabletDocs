@@ -25,7 +25,7 @@ It really depends on a lot of factors.&#x20;
 * For pen tablets - I recommend a MEDIUM size (about 11")
 * For pen displays - I recommend a MEDIUM size (about 16") though many start off with a 13" and I personally prefer a 22"
 
-More here: [**tablet size**](guides/customizing-your-experience/choosing-the-right-tablet-size.md)
+More here: [**tablet size**](buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
 
 ### Q: Should I update the tablet firmware?
 
@@ -47,7 +47,7 @@ Answer: YES. But there are some things you should consider if you want to use it
 
 ### Q: Why does my pen display show a temporary after image?
 
-This is temporary phenomena called [**Image Persistence**](https://en.wikipedia.org/wiki/Image\_persistence). This is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen\_burn-in)).
+This is temporary phenomena called [**Image Persistence**](https://en.wikipedia.org/wiki/Image_persistence). This is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen_burn-in)).
 
 ### Q: Can I use a pen display without plugging in the HDMI cable?
 

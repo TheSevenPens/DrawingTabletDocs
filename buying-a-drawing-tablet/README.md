@@ -50,7 +50,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 ## **Core drawing tablet features**
 
-* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](../guides/customizing-your-experience/choosing-the-right-tablet-size.md) will help you find a size size that works for you.&#x20;
+* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](choosing-the-right-tablet-size.md) will help you find a size size that works for you.&#x20;
 * **Pressure -** The pen can detect how much pressure you are putting on its tip. All drawing tablets sense pressure. More info: [**pressure**](../core-features/pen-pressure.md).&#x20;
   * **Initial Activation Force (IAF)** is smallest pressure that activates the pen. In general you want a pen that has a low (<=3gf) IAF. Modern drawing tablet pens are around this value.
   * The **maximum pressure** is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Higher maximum pressure means that the pressure range is wide and is better for drawing because it lets you have better control over how pressure affects your stroke. &#x20;

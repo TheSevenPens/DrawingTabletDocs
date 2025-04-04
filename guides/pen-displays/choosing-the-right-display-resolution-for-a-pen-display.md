@@ -1,14 +1,26 @@
-# Choosing the right resolution for a pen display
+# Choosing the right display resolution for a pen display
 
 ## Overview
 
-Pen displays have an embedded display panel that has a native resolution. In this document I'll share some thoughts about how to pick a resolution that will work for your needs.
+Pen displays have an embedded display panel that has a native resolution. In this document I'll share some thoughts about how to pick a resolution that will work for your needs.&#x20;
 
 ## Summary
 
 * In general, as a tablet gets bigger it's useful to have a higher resolution
 * At small sizes having a very high resolution does not help
 * Some resolutions require some extra work to use well with MacOS
+
+## Typical resolutions
+
+Modern pen displays mostly use a small number of resolutions.
+
+The vast majority of pen displays use these three resolutions:
+
+* Full HD = 1920x1080
+* 2.5K  = 2560x1440
+* 4K = 3840x2160
+
+But, a few pen displays use resolutions such as 2560 x 1600.
 
 ## My experience and recommendations
 
@@ -21,3 +33,4 @@ Based on my experience here's what I think works. Overall the pattern is a PPI b
 MacOS text rendering can appear not work OK by default with certain combinations size and resolutions. This can be addressed with an app called Better Display.
 
 {% embed url="https://www.youtube.com/watch?v=1z6SU-eyYQE" %}
+

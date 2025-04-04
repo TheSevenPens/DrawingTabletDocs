@@ -41,7 +41,7 @@ More here: [7P notes: Wacom One GEN2](wacom-one-2023-gen2/7p-notes-wacom-one-202
 * **Want the best and don't care about the cost.** Either:
   * Wacom Intuos Pro Large (PTH-860)
   * Wacom Intuos Pro Medium (PTH-660)
-* **Picking the right size** - More information about picking the right size: [**tablet size**](../../guides/customizing-your-experience/choosing-the-right-tablet-size.md).
+* **Picking the right size** - More information about picking the right size: [**tablet size**](../../buying-a-drawing-tablet/choosing-the-right-tablet-size.md).
 
 ## Pens
 
