@@ -3,7 +3,7 @@
 ## Basics
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-intuos-pro](https://www.wacom.com/en-us/products/wacom-intuos-pro)&#x20;
-* [My notes on these tablets](7p-notes-wacom-intuos-pro-2025-ptk-x70.md)
+* [My notes on these tablets](7p-wacom-ptk-x70.md)
 
 ## Models
 

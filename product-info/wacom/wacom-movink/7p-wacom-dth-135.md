@@ -1,4 +1,4 @@
-# 7P notes: Wacom Movink 13 (DTH-135)
+# 7P: Wacom Movink 13 (DTH-135)
 
 ## Summary
 
@@ -16,7 +16,7 @@ An easy recommendation if you need what it offers.
 
 ## Pen
 
-Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../wacom-pens/7p-notes-wacom-acp50000dz.md).
+Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../wacom-pens/7p-wacom-acp-500.md).
 
 This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in terms of pressure response, IAF, max pressure.
 

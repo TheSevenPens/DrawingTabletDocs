@@ -1,4 +1,4 @@
-# 7P notes: Wacom Intuos Pro 2017 (PTH-x60)
+# 7P: Wacom Intuos Pro 2017 (PTH-x60)
 
 ## Overview
 
@@ -16,7 +16,7 @@ All three are highly recommended. I recommend the Medium size (PTH-660) size for
 
 These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good.&#x20;
 
-[<mark style="background-color:green;">**My notes on this pen**</mark>](../wacom-pens/7p-notes-wacom-kp-504e.md).
+[<mark style="background-color:green;">**My notes on this pen**</mark>](../wacom-pens/7p-wacom-kp-504e.md).
 
 ## **Drawing experience**
 

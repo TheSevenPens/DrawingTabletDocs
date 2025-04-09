@@ -1,10 +1,10 @@
-# 7P notes: Comparison of Wacom pen tablets
+# 7P: Comparison of Wacom pen tablets
 
 ## Overview
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
-Here are [my detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md).
+Here are [my detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017-series-pth-x60/7p-wacom-pth-x60.md).
 
 Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
 
@@ -23,7 +23,7 @@ The Wacom One GEN2 pen tablets are intended to be upgrades to the consumer-level
 
 Currently Wacom One GEN2 pen tablets and pen displays seem to suffer from pressure issues and I do not recommend purchasing them.&#x20;
 
-More here: [7P notes: Wacom One GEN2](wacom-one-2023-gen2/7p-notes-wacom-one-2023-gen2-pen-displays.md)&#x20;
+More here: [7P notes: Wacom One GEN2](wacom-one-2023-gen2/7p-wacom-one-2023-pen-displays.md)&#x20;
 
 ## Recommendation summary
 
@@ -164,7 +164,7 @@ For these tablets that do support touch, touch can be enabled/disabled with a ph
 
 More here:
 
-* [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md).
+* [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017-series-pth-x60/7p-wacom-pth-x60.md).
 * [Touch support](../../guides/touch-support.md)
 
 ## Tablet design
@@ -199,7 +199,7 @@ The Intuos Pro has a more textured surface, the Intuos and One by Wacom have les
 
 The Intuos Pro MEDIUM and LARGE model surface texture can by change using texture sheets.&#x20;
 
-More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md).   &#x20;
+More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017-series-pth-x60/7p-wacom-pth-x60.md).   &#x20;
 
 ## Future versions
 

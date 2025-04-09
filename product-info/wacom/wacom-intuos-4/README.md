@@ -14,7 +14,7 @@ These are still excellent tablets. However, Wacom has dropped support for them i
 
 For example none of them are listed in the compatibility list for Wacom windows driver version 6.4.4-4:&#x20;
 
-More here: [https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html)
+More here: [https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html)
 
 You can still use these tablets with caveats that come with using older tablets. More here:[ **using older drawing tablets**](../../../guides/general/using-older-drawing-tablets.md)
 
@@ -25,4 +25,4 @@ You can still use these tablets with caveats that come with using older tablets.
 
 ## Wacom Intuos 4 XL
 
-[<mark style="background-color:green;">**My notes on the Intuos 4 Large**</mark>](7p-notes-wacom-ptk-1240.md)
+[<mark style="background-color:green;">**My notes on the Intuos 4 Large**</mark>](7p-wacom-ptk-1240.md)

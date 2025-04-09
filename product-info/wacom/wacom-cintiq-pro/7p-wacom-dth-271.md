@@ -1,4 +1,4 @@
-# 7P notes: Wacom Cintiq Pro 27 (DTH-271)
+# 7P: Wacom Cintiq Pro 27 (DTH-271)
 
 ## Summary
 
@@ -91,7 +91,7 @@
 
 ### Parallax
 
-* Background: [**parallax**](7p-notes-wacom-dth-271.md#parallax)
+* Background: [**parallax**](7p-wacom-dth-271.md#parallax)
 * An iPad Pro has EXCELLENT parallax (very little parallax)
 * The display of the Cintiq Pro 27 has VERY GOOD parallax due to its full lamination but clearly not as good as an iPad Pro
 * The Cintiq Pro 27 parallax is nothing special for modern pen displays. Many pen displays are fully laminated lately.
@@ -100,12 +100,12 @@
 
 Pressure is a feature of the pen you use with the tablet.
 
-See my [**notes on the Wacom Pro Pen 3**](../wacom-pens/7p-notes-wacom-acp50000dz.md) that comes with the tablet.
+See my [**notes on the Wacom Pro Pen 3**](../wacom-pens/7p-wacom-acp-500.md) that comes with the tablet.
 
 ### **Diagonal wobble**
 
-* Background: [diagonal wobble](7p-notes-wacom-dth-271.md#diagonal-wobble)
-* In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [diagonal wobble](7p-notes-wacom-dth-271.md#diagonal-wobble).&#x20;
+* Background: [diagonal wobble](7p-wacom-dth-271.md#diagonal-wobble)
+* In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [diagonal wobble](7p-wacom-dth-271.md#diagonal-wobble).&#x20;
 * NOTE: Originally I had ranked the Cintiq Pro 27 as having VERY GOOD wobble. Upon further testing with many other tablets, I havve downgraded the ranking.
 * As tablet that costs $3500 I think The Cintiq Pro 27 tablet should have better (less) diagonal wobble. There are other tablets out there at various price levels that are better:
   * Wacom Intuos PTH-860
@@ -326,7 +326,7 @@ The Wacom Cintiq Pro 27 comes with the Wacom Pro Pen 3.
 
 The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
 
-See my [**notes on the Wacom Pro Pen 3**](../wacom-pens/7p-notes-wacom-acp50000dz.md).
+See my [**notes on the Wacom Pro Pen 3**](../wacom-pens/7p-wacom-acp-500.md).
 
 ## Touch&#x20;
 

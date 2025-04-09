@@ -1,4 +1,4 @@
-# 7P notes: Wacom One 2019 GEN1 (DTC-133)
+# 7P: Wacom One 2019 GEN1 (DTC-133)
 
 ### **Summary**
 
@@ -17,7 +17,7 @@ In 2023, Wacom released two updated pen display versions in the Wacom One 2023 (
 
 In my initial investigation in 2023, I wasn't too happy with these newer versions. However, now in 2025 I should re-examine them to see if firmware and driver updates have improved their drawing experience.
 
-See: [**7P notes: Wacom One 2023 GEN2 pen displays**](../wacom-one-2023-gen2/7p-notes-wacom-one-2023-gen2-pen-displays.md)&#x20;
+See: [**7P notes: Wacom One 2023 GEN2 pen displays**](../wacom-one-2023-gen2/7p-wacom-one-2023-pen-displays.md)&#x20;
 
 ## Size
 
@@ -57,7 +57,7 @@ This has an AVHA display panel, not IPS. The colors are a little washed out and 
 
 The supplied Wacom One GEN1 pen (CP-913) is a decent pen. It's not as good as what you would find with the Pro Pen 2. It is comparable to the Samsung S pen in terms of IAF and pressure range.
 
-Much more here: [**7P notes: Wacom One Pen GEN1 (CP-913)**](../wacom-pens/7p-notes-wacom-one-2019-gen1-pen-cp-913.md)&#x20;
+Much more here: [**7P notes: Wacom One Pen GEN1 (CP-913)**](../wacom-pens/7p-wacom-cp-913.md)&#x20;
 
 ### Legs
 

@@ -2,7 +2,7 @@
 
 ## Top picks
 
-* Wacom Intuos Pro Large (PTH-860) \[$500, [**links**](../../product-info/wacom/wacom-intuos-pro-2017-series-pth-x60/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md)]
+* Wacom Intuos Pro Large (PTH-860) \[$500, [**links**](../../product-info/wacom/wacom-intuos-pro-2017-series-pth-x60/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-intuos-pro-2017-series-pth-x60/7p-wacom-pth-x60.md)]
 * XP-Pen Deco Pro XLW GEN2 (MT1592B) \[$200, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/) , [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]&#x20;
 
 ## Good&#x20;

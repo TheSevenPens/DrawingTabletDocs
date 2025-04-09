@@ -7,7 +7,7 @@
 ## Wacom Cintiq 22 (DTK-2260)
 
 * Model year: 2019
-* [My notes on this tablet](7p-notes-wacom-dtk-2260.md)
+* [My notes on this tablet](7p-wacom-dtk-2260.md)
 * [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
 * [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
 
@@ -15,7 +15,7 @@
 
 * Model year: 2015
 * [product page](https://estore.wacom.com/en-us/wacom-cintiq-22-dtk2260k0a.html) ([archive](https://archive.is/nlTKO))
-* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2\_iiJQA) 2016/11/07
+* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2_iiJQA) 2016/11/07
 * [Jazza review of Wacom Cintiq 27 QHD](https://youtu.be/G8SYYpnXmHk) 2016/02/07&#x20;
 
 ## Wacom Cintiq 27 QHD  (DTK-2260)
@@ -31,6 +31,6 @@
 * Model Year: 2018
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)&#x20;
 * [Brad Colbow reveiw of Wacom Cintiq 16](https://www.youtube.com/watch?v=ye8R0LAbkiE) 2019/01/08
-* [Ross Draws reveiw of Wacom Cintiq 16](https://youtu.be/6\_tMU5z6s9s) 2019/02/22
+* [Ross Draws reveiw of Wacom Cintiq 16](https://youtu.be/6_tMU5z6s9s) 2019/02/22
 * [MobileTechReview reveiw of Wacom Cintiq 16](https://youtu.be/v4qDRupCLHY) 2019/01/08
 * [Aaron Rutten reveiw of Wacom Cintiq 16](https://youtu.be/nXrFULq096A) 2019/01/07

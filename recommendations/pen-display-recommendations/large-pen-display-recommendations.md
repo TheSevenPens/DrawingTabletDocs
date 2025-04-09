@@ -2,9 +2,9 @@
 
 ## 22" Top Picks
 
-* Wacom Cintiq Pro 22 \[$3000, [**info**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-227.md)]
+* Wacom Cintiq Pro 22 \[$3000, [**info**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-227.md)]
   * **BE AWARE**: Fan noise
-* Wacom Cintiq Pro 22 (DTH-227) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-227.md) &#x20;
+* Wacom Cintiq Pro 22 (DTH-227) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-227.md) &#x20;
   * If cost is no limitation this is a great choice
 * XP-Pen Artist Pro 22 GEN2 (MD220QH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md220qh.md)&#x20;
   * TERRIFIC value at 22" for a VERY reasonable cost
@@ -13,7 +13,7 @@
 ## 27" Top Picks
 
 * Huion Kamvas Pro 27 (GT2701) ★★★★ \[$2000, [**links**](../../product-info/huion/huion-kamvas-pro/)]
-* Wacom Cintiq Pro 27 \[$3500, [**links**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-notes-wacom-dth-271.md)]
+* Wacom Cintiq Pro 27 \[$3500, [**links**](../../product-info/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-271.md)]
   * **BE AWARE**: Fan noise
 
 ## Solid value
@@ -25,7 +25,7 @@
 
 ## Older but worth investigating
 
-* Wacom Cintiq 22 (DTK-2260). [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq/7p-notes-wacom-dtk-2260.md)
+* Wacom Cintiq 22 (DTK-2260). [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq/7p-wacom-dtk-2260.md)
 
 ## Value with compromises
 
