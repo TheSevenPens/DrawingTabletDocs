@@ -1,4 +1,4 @@
-# 7P notes: Huion Kamvas 22 Plus (GS2202)
+# 7P: Huion Kamvas 22 Plus (GS2202)
 
 ## **Summary**
 
@@ -26,7 +26,7 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 ## Pen
 
 * Pen model id: PW517
-* [<mark style="background-color:green;">**My notes on the PW517 pen**</mark>](../huion-pen-models/7p-notes-huion-pw517-pen.md)
+* [<mark style="background-color:green;">**My notes on the PW517 pen**</mark>](../huion-pen-models/7p-huion-pw517.md)
 
 ## Pointer lag
 

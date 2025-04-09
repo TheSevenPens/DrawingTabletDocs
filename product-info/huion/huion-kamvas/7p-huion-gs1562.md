@@ -1,4 +1,4 @@
-# 7P notes: Huion Kamvas 16 (G21562)
+# 7P: Huion Kamvas 16 (GS1562)
 
 ## Summary
 
@@ -10,7 +10,7 @@
 
 The tablet comes with the PW517 pen.
 
-As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [**7P notes: Huion PW550 series pens**](../huion-pen-models/7p-notes-huion-pw550-series-pens.md)
+As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [**7P notes: Huion PW550 series pens**](../huion-pen-models/7p-huion-pw550.md)
 
 ## Diagonal wobble
 

@@ -2,7 +2,7 @@
 
 ## Huion Inspiroy Giano (G930L)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-giano-g930l.md)  &#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huion-g930l.md)  &#x20;
 * Model year: 2022
 * User manual: [https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf](https://www.huion.com/manaul_pdf/en/Inspiroy%20Giano.pdf)&#x20;
 * [Teoh on Tech review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=2XcP_Db9e_w) 2022/05/25
@@ -13,7 +13,7 @@
 
 ## Huion Inspiroy HS611
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-huion-hs611.md)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huion-hs611.md)&#x20;
 * Model year: 2019
 * User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)  &#x20;
 * [Teoh on Tech review of Huion HS611](https://www.youtube.com/watch?v=1RcUCSL5azU) 2021/02/14

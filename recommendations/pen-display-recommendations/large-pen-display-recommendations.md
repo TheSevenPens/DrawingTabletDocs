@@ -29,7 +29,7 @@
 
 ## Value with compromises
 
-* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-kamvas/7p-notes-huion-gs2202.md) .&#x20;
+* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-kamvas/7p-huon-gs2202.md) .&#x20;
   * Consider getting the PW550 pen for this tablet.
 * Huion Kamvas 22 (GS2201) \[$450, [**links**](../../product-info/huion/huion-kamvas/)]&#x20;
   * Consider getting the PW550 pen for this tablet.

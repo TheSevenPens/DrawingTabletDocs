@@ -33,7 +33,7 @@ If you want a large pen tablet, pick from one of these:
 
 * Wacom Intuos Pro PTH-860: EXCELLENT ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/wacom/wacom-intuos-pro-2017-series-pth-x60/7p-notes-wacom-pth-x60.md))
 * XP-Pen Deco Pro XLW GEN2 (MT1592B): VERY GOOD ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/7p-notes-xp-pen-mt1592b.md))
-* Huion Inspiroy Giano G930L: GOOD ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-inspiroy/7p-notes-huion-giano-g930l.md))
+* Huion Inspiroy Giano G930L: GOOD ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-info/huion/huion-inspiroy/7p-huion-g930l.md))
 
 ## Video
 

@@ -1,4 +1,4 @@
-# 7P notes: Huion PW517 pen
+# 7P: Huion PW517 pen
 
 ## Overview
 
@@ -10,7 +10,7 @@ It's maximum pressure varies quite a bit depending on which unit your have.
 
 ## Use the PW550 pen instead
 
-If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [<mark style="background-color:green;">**my notes on the PW550 pen**</mark>](7p-notes-huion-pw550-series-pens.md).
+If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [<mark style="background-color:green;">**my notes on the PW550 pen**</mark>](7p-huion-pw550.md).
 
 ## Pressure range measurements
 
@@ -20,5 +20,5 @@ If you have a tablet what is compatible with the PW517 pen, I strongly urge you 
 
 The PW540 series of pens are backwards compatible with tablets that work with the PW517. And the PW550 has improved pressure handling. So consider the PW550 as an upgrade option.
 
-More here: [**7P notes: Huion PW550 series pens**](7p-notes-huion-pw550-series-pens.md)
+More here: [**7P notes: Huion PW550 series pens**](7p-huion-pw550.md)
 

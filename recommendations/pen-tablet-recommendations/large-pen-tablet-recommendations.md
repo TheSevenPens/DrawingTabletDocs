@@ -7,8 +7,8 @@
 
 ## Good&#x20;
 
-*   Huion Inspiroy Giano (G930L) \[$200, [**links**](../../product-info/huion/huion-inspiroy/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy/7p-notes-huion-giano-g930l.md)]
+*   Huion Inspiroy Giano (G930L) \[$200, [**links**](../../product-info/huion/huion-inspiroy/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy/7p-huion-g930l.md)]
 
-    * This tablet comes with the Huion PW517 pen. For an improved drawing experience, consider buying the PW550 pen which is compatible with it. The PW550 should give it better pressure handling - which would then put it in my "top picks" category. More here explaining why it is better than the PW517: [**7P notes: Huion PW550 series pens**](../../product-info/huion/huion-pen-models/7p-notes-huion-pw550-series-pens.md)
+    * This tablet comes with the Huion PW517 pen. For an improved drawing experience, consider buying the PW550 pen which is compatible with it. The PW550 should give it better pressure handling - which would then put it in my "top picks" category. More here explaining why it is better than the PW517: [**7P notes: Huion PW550 series pens**](../../product-info/huion/huion-pen-models/7p-huion-pw550.md)
 
     &#x20;&#x20;

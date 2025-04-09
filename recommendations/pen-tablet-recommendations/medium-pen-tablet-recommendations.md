@@ -12,7 +12,7 @@
 * XP-Pen Deco Pro
   * XP-Pen Deco Pro MW GEN2 (MT0962B) \[$140, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
   * XP-Pen Deco Pro LW GEN2 (MT1172B) \[$170, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
-* Huion Inspiroy Frego M (L610) \[$90, [**links**](../../product-info/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-frego/7p-notes-huion-inspiroy-frego-m-l610.md) ]
+* Huion Inspiroy Frego M (L610) \[$90, [**links**](../../product-info/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-frego/7p-huion-l610.md) ]
 
 ## Good, but overpriced
 
@@ -20,12 +20,12 @@
 
 ## Older but works well
 
-* Huion Inspiroy HS611 \[$80, [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy/7p-notes-huion-hs611.md)]
+* Huion Inspiroy HS611 \[$80, [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy/7p-huion-hs611.md)]
   * Little bit of an older Huion tablet with older tech. But it does work fine.&#x20;
 
 ## Seems OK but haven't spent much time with it
 
-* Huion Inspiroy RTP-700 \[$93, [**links**](../../product-info/huion/huion-inspiroy-r-series/) , [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-r-series/7p-notes-rtp-700.md)]
+* Huion Inspiroy RTP-700 \[$93, [**links**](../../product-info/huion/huion-inspiroy-r-series/) , [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-r-series/7p-huion-rtp-700.md)]
 * Huion Inspiroy 2 M (H951P) \[$70, [**links**](../../product-info/huion/huion-inspiroy-2/)]
 * Huion Inspiroy 2 L (H1061P)  \[$90, [**links**](../../product-info/huion/huion-inspiroy-2/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/huion/huion-inspiroy-2/7p-notes-h1061p.md)]
 
