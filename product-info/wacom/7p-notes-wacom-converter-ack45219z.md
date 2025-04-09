@@ -22,7 +22,7 @@ I cannot emphasize this enough. The Wacom converter is just "a box" with ports. 
 
 * Wacom Movink 13 - worked perfectly
 * Huion Kamvas 13 GEN3 - worked perfectly
-* Huion Kamvas 13 GEN3 - worked perfectly
+* Huion Kamvas 16 GEN3 - worked perfectly
 * Huion Kamvas Pro 19 - <mark style="color:red;">**DID NOT WORK**</mark>
   * Problem #1 - Could not power the tablet through the converter
   * Problem #2 - I always got a "NO SIGNAL" message on the tablet.
