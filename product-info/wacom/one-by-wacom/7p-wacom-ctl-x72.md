@@ -1,4 +1,4 @@
-# 7P notes: One by Wacom (CTL-x72)
+# 7P: One by Wacom (CTL-x72)
 
 ## Overview
 
@@ -10,6 +10,14 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 
 * One by Wacom Medium (CTL-672) - released 2019
 * One by Wacom Small (CTL-472) - released 2019
+
+## **Photos**
+
+<figure><img src="../../../.gitbook/assets/20250410_010057 (Large).jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250410_010116 (Large).jpg" alt=""><figcaption><p>CTL-672 back</p></figcaption></figure>
+
+
 
 ## **Core features**
 
