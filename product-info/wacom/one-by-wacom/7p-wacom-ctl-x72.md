@@ -34,6 +34,8 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 * **Ports** - the port on the tablet is Micro USB.&#x20;
 * **Wireless** - These tablets **DO NOT SUPPORT WIRELESS CONNECTIVITY**. You must always use them with a cable.
 
+<figure><img src="../../../.gitbook/assets/20250410_021830 (Large).jpg" alt=""><figcaption><p>Micro USB port on the left side of the tablet</p></figcaption></figure>
+
 ## ExpressKeys
 
 These tablets do NOT have any buttons or dials on the tablet.&#x20;
@@ -41,6 +43,12 @@ These tablets do NOT have any buttons or dials on the tablet.&#x20;
 ## Touch
 
 These tablets DO NOT support touch.
+
+## **Pen holder**
+
+A small cloth loop on the right side of the tablet can be used to hold the pen.
+
+<figure><img src="../../../.gitbook/assets/20250410_021800 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Feeling**
 
