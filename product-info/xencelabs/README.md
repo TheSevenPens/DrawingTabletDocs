@@ -4,7 +4,7 @@
 
 * Released: 2024/05/08
 * Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)&#x20;
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-xencelabs-lph1612u-a.md)   &#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-xencelabs-lph1612u-a.md)   &#x20;
 * [Grant Abbitt - Review of Xencelabs Pen DIsplay 16](https://www.youtube.com/watch?v=zGkTjf5HoB4) 2024/08/07&#x20;
 * [AppleInsider review of Xencelabs Pen Display 16](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece) 2024/05/28
 * [The Honest Laborers Review - Xencelabs 16-inch 4K Pen Display Hands-On and Test](https://www.youtube.com/watch?v=FCuVrJMncKI) - 2024/05/23
@@ -15,10 +15,10 @@
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)&#x20;
 * [MobileTechReview review of Xencelabs Pen Display 24](https://www.youtube.com/watch?v=o6R07naf2es) 2024/03/19 &#x20;
 * [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) 2023/06/04
-* [Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0\_XSUtLE) 2023/09/14
+* [Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0_XSUtLE) 2023/09/14
 * [Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) 2023/03/28
-* [https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/)&#x20;
-* [https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm\_source=share\&utm\_medium=web2x\&context=3)&#x20;
+* [https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/)&#x20;
+* [https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share\&utm_medium=web2x\&context=3)&#x20;
 
 ## Xencelabs Pen Tablet Medium (BPH1212W-A)
 
@@ -28,7 +28,7 @@
 * [Brad Colbow review of Xencelabs Pen Tablet](https://www.youtube.com/watch?v=d3vIa8cBzwI) 2021/04/30
 * [Aaron Rutten - XENCELABS Tablet Review](https://www.youtube.com/watch?v=4m2yqJ3wFgI) 2021/05/14&#x20;
 * [ManyLearn - Xencelabs tablet review by a long-term Wacom user](https://www.youtube.com/watch?v=uS63-2e32i8) 2022/04/13
-* [/u/BeckleyBak/ on reddit - Xencelabs Pen Display 24 review](https://www.reddit.com/r/drawingtablet/comments/173v9je/xencelabs\_pen\_display\_24\_review/) 2023/10/09
+* [/u/BeckleyBak/ on reddit - Xencelabs Pen Display 24 review](https://www.reddit.com/r/drawingtablet/comments/173v9je/xencelabs_pen_display_24_review/) 2023/10/09
 
 ## Xencelabs Pen Tablet Small (BPH0812W-A)
 

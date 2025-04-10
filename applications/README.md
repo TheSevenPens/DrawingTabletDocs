@@ -2,7 +2,7 @@
 
 ## Lists of apps
 
-* The apps I use and recommend: [**recommended apps**](7p-notes-recommended-apps.md)
+* The apps I use and recommend: [**recommended apps**](7p-recommended-apps.md)
 * [**Apps for beginners**](apps-for-beginners.md)
 * [**Apps for Ipad**](apps-for-ipad.md)
 * [**Apps for Android**](apps-for-android.md)

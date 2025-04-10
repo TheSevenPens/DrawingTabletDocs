@@ -125,7 +125,7 @@ Tablet names are confusing and often misleading. Make sure you make your decisio
 
 ## Applications
 
-There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/). Here are the apps I specifically use: [**Recommended apps**](../applications/7p-notes-recommended-apps.md)&#x20;
+There are a lot of applications that work well with pen tablets depending on what you want to do. More here: [**Applications**](../applications/). Here are the apps I specifically use: [**Recommended apps**](../applications/7p-recommended-apps.md)&#x20;
 
 ## Buying used drawing tablets
 

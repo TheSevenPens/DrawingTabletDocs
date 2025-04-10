@@ -1,4 +1,4 @@
-# 7P notes: Apple iPad versus drawing tablets
+# 7P: Apple iPad versus drawing tablets
 
 {% hint style="info" %}
 For more general information about using iPads, go here: [**7P notes: Apple iPad**](7p-notes-apple-ipad.md)&#x20;
@@ -37,7 +37,7 @@ No drawing tablets support a feature like pen squeeze.
 
 ## Pen hover
 
-Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [**Pen hover**](7p-notes-apple-ipad-versus-drawing-tablets.md#pen-hover).
+Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [**Pen hover**](7p-apple-ipad-versus-drawing-tablets.md#pen-hover).
 
 * Hover support for an iPad is dependent on the specific combination of iPad model and Apple Pencil model
   * Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
@@ -62,7 +62,7 @@ In my opinion, even the the iPad is better at having less parallax, the improvem
 
 ## **Anti-glare sparkle**
 
-Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an AG treatment. More here: [**anti-glare sparkle**](7p-notes-apple-ipad-versus-drawing-tablets.md#anti-glare-sparkle).
+Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an AG treatment. More here: [**anti-glare sparkle**](7p-apple-ipad-versus-drawing-tablets.md#anti-glare-sparkle).
 
 * iPads have very little / undetectable amount of AG sparkle.
 * Pen displays have AG sparkle to various degrees. But none have as little as Apple iPad.

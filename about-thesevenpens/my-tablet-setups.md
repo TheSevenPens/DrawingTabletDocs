@@ -19,7 +19,7 @@ I have several setups ready for testing and trying out drawing tablets. It varie
 **#1 Primary desktop**
 
 * Computer: Minisforum Neptune HX99G
-* [<mark style="background-color:green;">**My notes on the Minisforum HX99G**</mark>](../guides/mini-pcs-for-digital-art/7p-notes-minisforum-neptune-hx99g.md)&#x20;
+* [<mark style="background-color:green;">**My notes on the Minisforum HX99G**</mark>](../guides/mini-pcs-for-digital-art/7p-minisforum-neptune-hx99g.md)&#x20;
 * RAM: 64GB
 * Storage: 1TB
 * Tablets

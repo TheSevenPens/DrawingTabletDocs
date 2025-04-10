@@ -1,4 +1,4 @@
-# 7P notes: Recommended apps
+# 7P: Recommended apps
 
 ## Overview
 
@@ -16,7 +16,7 @@ If you want to see a full list of applications go here: [**Applications**](./).&
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)
-* [**Adobe Photoshop**](../application-info/adobe-photoshop/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/adobe-photoshop/7p-notes-adobe-photoshop.md)&#x20;
+* [**Adobe Photoshop**](../application-info/adobe-photoshop/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/adobe-photoshop/7p-adobe-photoshop.md)&#x20;
   * (Windows, MacOS)
 * [**Procreate**](../application-info/procreate/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/procreate/7p-notes-procreate.md) &#x20;
   * (iOS)

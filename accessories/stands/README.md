@@ -60,7 +60,7 @@ Stand options:
 ## Stands I use
 
 * I use the Huion ST100A stand with my Huion Kamvas Pro 19
-* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](7p-notes-vivo-pneumatic-arm-monitor-desk-stand-stand-v100r.md)
+* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](7p-vivo-v100r.md)
 
 
 
