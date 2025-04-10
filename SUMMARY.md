@@ -347,7 +347,7 @@
     * [Wacom texture sheets](product-info/wacom/wacom-texture-sheets.md)
     * [Wacom tablet list](product-info/wacom/wacom-tablet-models.md)
     * [One by Wacom](product-info/wacom/one-by-wacom/README.md)
-      * [7P notes: One by Wacom (CTL-x72)](product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)
+      * [7P: One by Wacom (CTL-x72)](product-info/wacom/one-by-wacom/7p-wacom-ctl-x72.md)
     * [Wacom Intuos Pro 2013 series (PTH-x51)](product-info/wacom/wacom-intuos-pro-2013-series-pth-x51.md)
     * [Wacom Intuos Pro 2025 series (PTK-x70)](product-info/wacom/wacom-intuos-pro-2025-series-ptk-x70/README.md)
       * [7P: Wacom Intuos Pro 2025 (PTK-x70)](product-info/wacom/wacom-intuos-pro-2025-series-ptk-x70/7p-wacom-ptk-x70.md)

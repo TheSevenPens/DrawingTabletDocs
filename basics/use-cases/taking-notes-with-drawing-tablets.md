@@ -31,7 +31,7 @@ If you do want to use a pen tablet for taking notes here are some devices that w
 * Wacom One Medium (CTL-672)
 * Wacom One Small (CTL-472)
 
-[<mark style="background-color:green;">**My notes on these tablets**</mark>](../../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)
+[<mark style="background-color:green;">**My notes on these tablets**</mark>](../../product-info/wacom/one-by-wacom/7p-wacom-ctl-x72.md)
 
 ## Using a pen display (screen tablet)
 

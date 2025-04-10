@@ -34,7 +34,7 @@ These are tablets WITHOUT a screen that need to be connected to a computer (some
 
 If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for true. It's reliable and has a good drawing experience. The Huion Frego is a new tablet (released in 2024) that is also a terrific beginner choice.&#x20;
 
-* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-notes-wacom-ctl-x72.md)] ★★★
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-wacom-ctl-x72.md)] ★★★
 * Huion Inspiroy Frego M (L610) \[$90, [**links**](../product-info/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-huion-l610.md) ] ★★★
 * Wacom Intuos series
   * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../product-info/wacom/wacom-intuos.md)]
