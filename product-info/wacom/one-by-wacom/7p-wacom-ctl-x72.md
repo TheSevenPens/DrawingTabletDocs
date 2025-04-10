@@ -31,10 +31,15 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 ## **Cabling and connectivity**
 
 * **Cable** - the tablet comes with a Micro USB to USB-A cable. You can use this cable or any cable that supports data.
-* **Ports** - the port on the tablet is Micro USB.&#x20;
-* **Wireless** - These tablets **DO NOT SUPPORT WIRELESS CONNECTIVITY**. You must always use them with a cable.
+  * Instead of this cable, I used my own USB-C to USB-A cable and used a Male Micro USB to Female USB-C adapter. This specific one: [https://www.amazon.com/gp/product/B0BDLB86RT/](https://www.amazon.com/gp/product/B0BDLB86RT/)&#x20;
+* **Ports** - the port on the tablet is Micro USB. Micro USB is not reversible unlike USB-C, so make sure you are connecting a cable in the right orientation.
+* **Wireless** - These tablets **DO NOT SUPPORT WIRELESS CONNECTIVITY**. You must always use it with a cable.
 
 <figure><img src="../../../.gitbook/assets/20250410_021830 (Large).jpg" alt=""><figcaption><p>Micro USB port on the left side of the tablet</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250410_071640 (Large).jpg" alt=""><figcaption><p>Tablet connected with a 3rd party cable and a Micro USB adapter</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250410_071954 (Large).jpg" alt=""><figcaption><p>Tablet connected with the cable that came with the tablet</p></figcaption></figure>
 
 ## ExpressKeys
 
