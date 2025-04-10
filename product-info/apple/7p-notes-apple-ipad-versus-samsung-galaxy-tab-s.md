@@ -6,7 +6,7 @@ Both of these kinds of devices can be successfully used for digital art, note ta
 
 My detailed notes on each
 
-* [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-notes-samsung-galaxy-tab-s-series.md)
+* [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-samsung-galaxy-tab-s-series.md)
 * [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
 
 ## Drawing experience&#x20;

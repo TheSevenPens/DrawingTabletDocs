@@ -6,9 +6,9 @@
   * **BE AWARE**: Fan noise
 * Wacom Cintiq Pro 22 (DTH-227) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-227.md) &#x20;
   * If cost is no limitation this is a great choice
-* XP-Pen Artist Pro 22 GEN2 (MD220QH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-notes-xp-pen-md220qh.md)&#x20;
+* XP-Pen Artist Pro 22 GEN2 (MD220QH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist-pro-gen2/7p-xppen-md220qh.md)&#x20;
   * TERRIFIC value at 22" for a VERY reasonable cost
-* XP-Pen Artist 22 Plus (MD220FH) ★★★★ \[$470, [**links**](../../product-info/xp-pen/xp-pen-artist/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-artist-22-plus.md)]
+* XP-Pen Artist 22 Plus (MD220FH) ★★★★ \[$470, [**links**](../../product-info/xp-pen/xp-pen-artist/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-xppen-md220fh.md)]
 
 ## 27" Top Picks
 
@@ -18,7 +18,7 @@
 
 ## Solid value
 
-* XP-Pen Artist 22 Plus (MD220FH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-notes-xp-pen-artist-22-plus.md)&#x20;
+* XP-Pen Artist 22 Plus (MD220FH) [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../product-info/xp-pen/xp-pen-artist/7p-xppen-md220fh.md)&#x20;
 * [**Huion Kamvas Pro 24 4K**](../../product-info/huion/huion-kamvas-pro/) (GT2401) \[$1300, [**links**](../../product-info/huion/huion-kamvas-pro/)]
   * BE AWARE: Antiglare sparkle&#x20;
 * [**Huion Kamvas 24 Plus (GS2402)**](../../product-info/huion/huion-kamvas/) \[$900, [**links**](../../product-info/huion/huion-kamvas/)]

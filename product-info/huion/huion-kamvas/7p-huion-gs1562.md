@@ -1,4 +1,4 @@
-# 7P: Huion Kamvas 16 (GS1562)
+# 7P: Huion Kamvas 16 2021 (GS1562)
 
 ## Summary
 
@@ -14,8 +14,27 @@ As with all Huion tablets that comes with the PW517 pen, I recommend you also bu
 
 ## Diagonal wobble
 
-* A bit of diagonal wobble at slow speeds. Not too much and can be compensated for by turning on smoothing/stabilization in your drawing app. The wobble is not visible at faster speeds and dependong on how you draw you may not even notice it.
+* A bit of diagonal wobble at slow speeds. Not too much and can be compensated for by turning on smoothing/stabilization in your drawing app. The wobble is not visible at faster speeds and depending on how you draw you may not even notice it.
   * In Krita I used weighted smoothing with a distance value of 200.
+
+## Display specs
+
+* Resolution: 1920x1080
+* Pixel density: 142 PPI
+* Contrast ratio: 1000:1
+* Brightness: 220 nits (max)
+* Response time: 25ms
+* Color Gamut: 120% sRGB
+* Color: 8 bits per channel (RGB)
+* Display tech: IPS
+
+## Anti-glare treatment
+
+Type: Anti-glare Matte Film
+
+## Anti-glare sparkle
+
+Low amounts of AG sparkle. You'd have to put your eyes about 4 to 5 inches from the tablet to even notice it - even then it is not much.
 
 ## Buttons
 

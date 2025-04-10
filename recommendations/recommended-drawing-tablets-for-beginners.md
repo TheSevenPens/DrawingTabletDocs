@@ -43,7 +43,7 @@ If I had to pick one item on this list, I would recommend the **One by Wacom CTL
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../product-info/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../product-info/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../product-info/xp-pen/xp-pen-deco/)]&#x20;
-  * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md)]
+  * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-xppen-it1060b.md)]
 
 ## Pen displays
 
@@ -52,7 +52,7 @@ These are tablets WITH A SCREEN that need to be connected to a computer. No pen 
 SMALL 13"&#x20;
 
 * Huion Kamvas 13 GEN3 (GS1333)  \[$260, [**links**](../product-info/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-huion-gs1333.md)] ★★★
-* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../product-info/xp-pen/xp-pen-artist-gen2/)**,**  [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-notes-xp-pen-artist-13-gen2-cd130fh.md)]
+* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../product-info/xp-pen/xp-pen-artist-gen2/)**,**  [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-xppen-cd130fh.md)]
 
 MEDIUM 16"&#x20;
 
@@ -66,6 +66,6 @@ More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-inf
 
 * **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-info/apple/7p-notes-apple-ipad.md))&#x20;
   * NOTE: You will have the buy the Apple Pencil 2 separately. It does NOT come with the iPad.
-* **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s-series.md) )
+* **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-samsung-galaxy-tab-s-series.md) )
   * NOTE: The Samsung S Pen COMES WITH the tablet.
-  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-notes-samsung-galaxy-tab-s-series.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
+  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-samsung-galaxy-tab-s-series.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.

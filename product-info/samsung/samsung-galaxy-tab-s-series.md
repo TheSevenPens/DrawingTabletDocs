@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](7p-notes-samsung-galaxy-tab-s-series.md)
+* [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](7p-samsung-galaxy-tab-s-series.md)
 * [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-notes-samsung-s-pen.md)&#x20;
 * [<mark style="background-color:green;">**7P notes: Apple iPad versus Samsung Galaxy Tab S**</mark>](../apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 * [**Apps for Android**](../../applications/apps-for-android.md)
@@ -31,13 +31,13 @@
 * [Teoh on Tech review of Samsung Tab S9 FE and FE Plus](https://www.youtube.com/watch?v=lZI9gB3siNs) 2023/10/30&#x20;
 * [Brad Colbow Review of Samsung Galaxy Tab S9 FE ](https://www.youtube.com/watch?v=8Pb7OAERdZg)2023/10/23
 * [Brad Colbow - Samsung Galaxy Tab S9 FE 6 months later](https://www.youtube.com/watch?v=H5gTmrUzS1A) 2024/03/11&#x20;
-* [reddit - first 48 hours with samsung Galaxy s9 FE](https://www.reddit.com/r/Android/comments/1732g1v/my\_first\_48\_hours\_with\_the\_samsung\_galaxy\_tab\_s9) 2023/10/08
+* [reddit - first 48 hours with samsung Galaxy s9 FE](https://www.reddit.com/r/Android/comments/1732g1v/my_first_48_hours_with_the_samsung_galaxy_tab_s9) 2023/10/08
 * [Teoh on Tech - Samsung Galaxy Tab S9 FE handwriting & note taking review](https://www.youtube.com/watch?v=11i6ZK8Tpu8) 2023/11/14
 * [Draw Your Weapon review of Samsung Galaxy Tab S9 FE](https://drawyourweapon.com/galaxy-tab-s9-fe-artisreview/) 2023/12/29
 
 ### Samsung Galaxy Tab S9 FE+
 
-* [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW\_TV0fRY) 2023/12/05
+* [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW_TV0fRY) 2023/12/05
 
 ### Misc
 
@@ -64,8 +64,8 @@
 ### Links
 
 * [Brad Colbow Samsung Galaxy Tab S7 FE](https://www.youtube.com/watch?v=9AILIj9lmWY) - Is it still Good? 2022/12/02&#x20;
-* [MobileTechReview review of Galaxy Tab S7 FE](https://www.youtube.com/watch?v=4iF\_kVSGwPE) 2021/09/01
-* [Tech Gear - You should the Galaxy Tab S7 and here is why](https://www.youtube.com/watch?v=PkyA\_rl7U4Y) 2021/03/22
+* [MobileTechReview review of Galaxy Tab S7 FE](https://www.youtube.com/watch?v=4iF_kVSGwPE) 2021/09/01
+* [Tech Gear - You should the Galaxy Tab S7 and here is why](https://www.youtube.com/watch?v=PkyA_rl7U4Y) 2021/03/22
 
 ## Samsung Galaxy Tab S6&#x20;
 

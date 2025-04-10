@@ -8,7 +8,7 @@
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../product-info/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../product-info/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../../product-info/xp-pen/xp-pen-deco/)]&#x20;
-  * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-deco/7p-notes-xp-pen-it1060b.md)]
+  * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../../product-info/xp-pen/xp-pen-deco/7p-xppen-it1060b.md)]
 * XP-Pen Deco Pro
   * XP-Pen Deco Pro MW GEN2 (MT0962B) \[$140, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
   * XP-Pen Deco Pro LW GEN2 (MT1172B) \[$170, [**links**](../../product-info/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]

@@ -4,7 +4,7 @@
 
 * product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
 * release year: 2025
-* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-xp-pen-md220qh.md)
+* [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-xppen-md220qh.md)
 
 ## XP-Pen Artist Pro 24 GEN2 4K (MD240UH)
 
@@ -30,7 +30,7 @@
 
 ## XP-Pen Artist Pro 16 GEN2 (MD160QH)
 
-* [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-notes-xp-pen-md160qh.md)  &#x20;
+* [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-xppen-md160qh.md)  &#x20;
 * User manual: [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)&#x20;
 * Product link: [https://www.xp-pen.com/product/artist-pro-16-gen-2.html](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)&#x20;
 * [Teoh on Tech review of XPPen Artist Pro 16 (GEN 2) review](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) 2023/09/09
@@ -39,7 +39,7 @@
 
 ## XP-Pen Artist Pro 19 GEN2 (MD180UH)
 
-* [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-notes-xp-pen-md180uh.md)&#x20;
+* [<mark style="background-color:green;">**Read my notes on this tablet**</mark>](7p-xppen-md180uh.md)&#x20;
 * Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
 * [David Review - Review of XP-Pen Artist Pro 19 GEN2](https://www.youtube.com/watch?v=d8Ft3b002LM) 2024/11/20
 * [Brad Colbow - XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024/08/27

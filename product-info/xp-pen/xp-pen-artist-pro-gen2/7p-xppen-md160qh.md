@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen Artist Pro 16 GEN2 (MD160QH)
+# 7P : XP-Pen Artist Pro 16 GEN2 (MD160QH)
 
 ## **Overall**
 
@@ -15,7 +15,7 @@ RATING: EXCELLENT
 
 ## **Pen**&#x20;
 
-The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md)
+The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [**XP-Pen X3 Pro pen**](../xp-pen-pens/7p-xppen-x3pro-pen.md)
 
 ## **Display**&#x20;
 

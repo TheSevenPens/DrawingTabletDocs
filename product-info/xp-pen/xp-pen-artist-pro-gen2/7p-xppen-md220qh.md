@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen Artist Pro 22 GEN2 (MD220QH)
+# 7P: XP-Pen Artist Pro 22 GEN2 (MD220QH)
 
 
 
@@ -39,7 +39,7 @@
 
 ## Included Pen
 
-The tablet comes with a single pen: X3 Pro Stylus. See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md).&#x20;
+The tablet comes with a single pen: X3 Pro Stylus. See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-xppen-x3pro-pen.md).&#x20;
 
 ## Compatible pens
 
@@ -61,7 +61,7 @@ In my testing with the pens that came with the tablet
 * Subjectively, 3gf seemed about right
 * Max pressure: Still to be tested on the included pen
 
-See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-notes-xp-pen-x3-pro-pens.md).&#x20;
+See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-xppen-x3pro-pen.md).&#x20;
 
 ## Anti-glare sparkle
 
