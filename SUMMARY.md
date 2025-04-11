@@ -490,6 +490,7 @@
   * [YouTube channels](resources/youtube-channels.md)
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
   * [Koneko\_w](resources/koneko_w.md)
+  * [Project Patchouli](resources/project-patchouli.md)
 * [Process](process/README.md)
   * [Pressure range data](process/pressure-range-data.md)
   * [Measuring hover height](process/measuring-hover-height.md)
