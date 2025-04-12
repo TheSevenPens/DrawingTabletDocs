@@ -1,7 +1,5 @@
 # 7P: XP-Pen Artist Pro 22 GEN2 (MD220QH)
 
-
-
 ## Summary
 
 * As of April 2025, of XP-Pen's Artist Pro GEN2 line of pen displays, this is my favorite one.&#x20;
@@ -45,10 +43,11 @@
 * Color: 8 bit
 * Color Gamut Coverage Ratio: 99% sRGB, 99% Adobe RGB, 94% Display P3
 
-## Included Pen
+## Included pen
 
 * The tablet comes with a single pen: X3 Pro Stylus.&#x20;
 * See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-xppen-x3pro-pen.md).&#x20;
+* I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
 
 ## Compatible pens
 
@@ -131,8 +130,9 @@ You can also connect it with HDMI and USB if needed
 
 ## Stand
 
-* Comes with a very nice stand.
-* The stand is pre-attached in the box.
+* Comes with a very stand.
+* The stand is pre-attached in the box. So you can start using it without any assembly.
+* The stand angle is very easy to change and seems very sturdy.
 
 ## Heat
 
@@ -141,3 +141,9 @@ You can also connect it with HDMI and USB if needed
 ## Noise
 
 * Silent
+
+
+
+## What comes in the box
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
