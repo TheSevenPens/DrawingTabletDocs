@@ -111,6 +111,8 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 * Rating: VERY GOOD  - very low amounts of diagonal wobble.&#x20;
 * On par with the Huion Kamvas Pro 19  and the Wacom Cintiq Pro 22
 
+<figure><img src="../../../.gitbook/assets/Diagonal Wobble XP-Pen Artist Pro 22 GEN2 (MD220QH) 2025_04_12.png" alt=""><figcaption></figcaption></figure>
+
 ## Ports
 
 <figure><img src="../../../.gitbook/assets/Slide_20250214_232712.jpg" alt=""><figcaption></figcaption></figure>
