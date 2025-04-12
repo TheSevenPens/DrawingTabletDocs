@@ -13,6 +13,7 @@
 
 * Release year: 2025
 * Product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
+* User manual [https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html)
 
 ## Photos
 
@@ -113,6 +114,18 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 ## Ports
 
 <figure><img src="../../../.gitbook/assets/Slide_20250214_232712.jpg" alt=""><figcaption></figcaption></figure>
+
+## Connections and cabling
+
+It can be connected with USB-C cable to your computer, This USB-C cable should be either the full-featured USB-C cable that came with the tablet or you can use a Thunderbolt 3 or Thunderbolt 4 cable.
+
+<figure><img src="../../../.gitbook/assets/image (578).png" alt="" width="375"><figcaption></figcaption></figure>
+
+You can also connect it with HDMI and USB if needed
+
+<figure><img src="../../../.gitbook/assets/image (579).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**3-in-1 cable** - This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3-in-1 cable anyway.
 
 ## Stand
 
