@@ -2,6 +2,13 @@
 
 
 
+## Summary
+
+* As of April 2025, of XP-Pen's Artist Pro GEN2 line of pen displays, this is my favorite one.&#x20;
+* As of April 2025, of non-Wacom 22" pen display this is my favorite one.
+* I found the drawing performance to very good
+* This is a nice setup up in terms of size over the Artist Pro 16 GEN2 and the Artist Pro 19 GEN2 in terms of size without getting too large. (In general 22" size is my favorite)
+
 ## Basics
 
 * Release year: 2025
@@ -39,7 +46,8 @@
 
 ## Included Pen
 
-The tablet comes with a single pen: X3 Pro Stylus. See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-xppen-x3pro-pen.md).&#x20;
+* The tablet comes with a single pen: X3 Pro Stylus.&#x20;
+* See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-xppen-x3pro-pen.md).&#x20;
 
 ## Compatible pens
 
@@ -49,39 +57,25 @@ It is compatible with other pens in the X3 pro series.
 * X3 Pro Slim Stylus
 * X3 Pro
 
-## Pen pressure
-
-XP-Pen states these numbers for X3 Pro pens
-
-* IAF: 3gf
-* Max Pressure: 400gf
-
-In my testing with the pens that came with the tablet
-
-* Subjectively, 3gf seemed about right
-* Max pressure: Still to be tested on the included pen
-
-See [**my notes on the XP-Pen X3 Pro series of pens**](../xp-pen-pens/7p-xppen-x3pro-pen.md).&#x20;
-
 ## Anti-glare sparkle
 
 * RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
 * Maybe just slightly more than the Cintiq Pro 22.
-* Similar to Huion Kamvas Pro 19
+* Similar amount of AG sparkle to Huion Kamvas Pro 19
 
 ## Sharpness
 
-Photos may not capture it, but the display is slightly "soft" like what I saw in the Kamvas Pro 19. The Artist Pro19 GEN2 and Cintiq Pro 22 are a bit sharper.
+Photos may not capture it, but the display is slightly "soft" like what I saw in the Kamvas Pro 19. The Artist Pro19 GEN2 and Cintiq Pro 22 are a bit sharper. It is NOT blurry just a little softer. This is likely due to the anti-glare treatment.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250214_214152.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Design
 
-Looks exactly like the XP-Pen Artist 22 Plus.
+Looks exactly like the XP-Pen Artist 22 Plus. So very attractive overall design.
 
 ## Pressure transition
 
-Moving between low and high pressure cave smooth pressure transitions.&#x20;
+Moving between low and high pressure gave smooth pressure transitions.&#x20;
 
 ## Accuracy
 

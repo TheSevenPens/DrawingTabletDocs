@@ -175,7 +175,7 @@
       * [Uninstalling OpenTabletDriver on Windows](guides/drivers/opentabletdriver/uninstalling-opentabletdriver-on-windows.md)
       * [OpenTabletDriver usage notes](guides/drivers/opentabletdriver/opentabletdriver-usage-notes.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
-      * [Pressure curve OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
+      * [Pressure curves in OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
       * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)
     * [Using a drawing tablet without installing drivers](guides/drivers/using-a-drawing-tablet-without-installing-drivers.md)
     * [Tablet Driver Cleanup tool](guides/drivers/tablet-driver-cleanup-tool.md)

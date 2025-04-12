@@ -3,7 +3,8 @@
 ## Related documents
 
 * [OpenTabletDriver - an introduction](./)
-* [Install OpenTabletDriver on Windows](opentabletdriver-windows.md)
+* [Install OpenTabletDriver on Windows](opentabletdriver-windows.md) &#x20;
+* [Install OpenTabletDriver on MacOS](install-opentabletdriver-on-macos.md)
 
 ## Use the OTD discord to get help
 
@@ -17,11 +18,14 @@
 
 ## Limitations of OpenTabletDriver
 
-* OTD does NOT support touch input.
-* OTD does NOT support tablet rotary dials.
-* OTD does NOT support pen barrel rotation.
-* OTD does NOT support wireless or Bluetooth connections.
-* OTD does NOT support per-application configuration. All OTD settings are system-wide.
+* Features that a typical driver has, but OTD does not.&#x20;
+  * OTD does NOT support touch input.
+  * OTD does NOT support tablet rotary dials.
+  * OTD does NOT support pen barrel rotation.
+  * OTD does NOT support wireless or Bluetooth connections.
+  * OTD does NOT support per-application configuration. All OTD settings are system-wide.
+* Features that a typical driver has, and OTD does not have built-in, but for which you can use OTD plug-ins to achieve the same result.
+  * OTD does not have a built in pressure curve, for that you should use an OTD plug-in like Slimy Scylla.   [**Pressure curves in OpenTabletDriver**](opentabletdriver-pressure.md)
 
 ## **OpenTabletDriver on Windows**
 
@@ -37,7 +41,13 @@
 * Most creative apps support Windows Ink - Clip Studio Paint, Krita, Photoshop.
 * If you want pressure sensitivity, tilt, etc. - you must **you MUST configure OTD to use Windows Ink** and configure your apps to also use Windows Ink.&#x20;
 
-### Pen hover height
+### Application data directory
+
+* OTD stores information in its application data directory
+* More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
+* If you are doing more advanced things with OTD you should be familiar with this folder.
+
+## Pen hover height
 
 By default, OTD **has no restriction on the hover height of your pen**. Most drivers impose an artificial limit of about 10mm for a pen. But you'll often find with OTD that the hover height is increased substantially.&#x20;
 
@@ -45,8 +55,4 @@ The maximum hover height is dependent on the specific model of tablet involved. 
 
 You can install a plug-in to control the hover height and have whatever limit you want.
 
-### Application data directory
-
-* OTD stores information in its application data directory
-* More here: [OpenTabletDriver application data directory](opentabletdriver-application-data-directory.md)
-* If you are doing more advanced things with OTD you should be familiar with this folder.
+###
