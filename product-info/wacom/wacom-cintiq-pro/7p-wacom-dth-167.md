@@ -1,10 +1,12 @@
-# 7P notes: Wacom Cintiq Pro 16 (DTH-167)
+# 7P: Wacom Cintiq Pro 16 (DTH-167)
 
 ## Overview
 
 An EXCELLENT pen display.&#x20;
 
 Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16 from 2021 competes with them strongly. Wacom may have improved the new models support for color or added support for higher refresh rates, but they did not improve upon the already great drawing experience with this tablet.&#x20;
+
+User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)&#x20;
 
 ## Noise
 
@@ -48,9 +50,17 @@ The Wacom Pro Pen 2 (KP-504E) has an excellent low IAF and an excellent large ma
 
 Very good. Low amount of parallax for a pen display. On par with other Cintiq Pro models such as the Cintiq Pro 22.
 
-## Using single USB-C cable
+## Connections and Cabling
 
-Unlike many other 16" pen displays, a single USB-C cable is not enough to power this tablet. You Still have to use their supplied power adapter.
+There are roughly 3 ways to connect to this tablet. All of them require a separate power cable and power adapter.
+
+<figure><img src="../../../.gitbook/assets/image (580).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Using single USB-C cable
+
+While you can use a single USB-C cable to connect to your computer for data and video. You will need to separately power it with the power cable. &#x20;
+
+Note that this is a bit of change from the Cintiq Pro 2016 (DTH-1620). The DTH-1620 could get enough power through the USB-C cable.
 
 ## Heat
 
