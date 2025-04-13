@@ -38,9 +38,15 @@
 
 ## Pens
 
-*   Comes with 2 pens. One thicker and one thinner.
+* Comes with 2 pens.&#x20;
+  * Button Pen + Eraser v2
+  * Thin Pen + Eraser v2
+* These V2 pens do not work with the earlier Xencelabs pen tablet model (BPH1212W-A).
+* These V2 pens are sightly different than the previous V1 pens. The thing that visually distinguishes them the most is a small yellow Xencelabs logo near the eraser. This is a nice branding touch, I wish other tablet manufacturers followed this pattern.
 
+<figure><img src="../../.gitbook/assets/20250412_223844 (Large).jpg" alt=""><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/20250412_223901 (Large).jpg" alt="" width="375"><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
 ## Anti-glare sparkle
 
