@@ -1,4 +1,4 @@
-# 7P notes: Xencelabs Pen Display 16 (LPH1612U-A)
+# 7P: Xencelabs Pen Display 16 (LPH1612U-A)
 
 ## Overview <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
 
@@ -59,6 +59,12 @@ AG Sparkle for Wacom Cintiq Pro 16 (DTH-167)
 
 
 
+
+## Diagonal wobble
+
+The tablet exhibits moderate diagonal wobble at all speeds.
+
+<figure><img src="../../.gitbook/assets/Diagonal Wobble Xencelabs Pen Display 16 (LPH1612U-A) 2025_04_12.png" alt=""><figcaption></figcaption></figure>
 
 ## Stand
 
