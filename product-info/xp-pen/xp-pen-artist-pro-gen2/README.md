@@ -1,10 +1,11 @@
 # XP-Pen Artist Pro GEN2
 
-## XP-Pen Artist Pro 22 GEN2 4K (MD220QH)
+## XP-Pen Artist Pro 22 GEN2 (MD220QH)
 
 * product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
 * release year: 2025
 * [<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-xppen-md220qh.md)
+* [Teoh on Tech - review of XP-Pen Artist Pro 22](https://www.youtube.com/watch?v=PMscqe2rO1M) GEN2 2025/04/20
 
 ## XP-Pen Artist Pro 24 GEN2 4K (MD240UH)
 
