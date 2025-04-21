@@ -366,6 +366,7 @@
       * [7P: Wacom Cintiq Pro 16 (DTH-167)](product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-167.md)
       * [7P: Wacom Cintiq Pro 22 (DTH-227)](product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-227.md)
       * [7P: Wacom Cintiq Pro 27 (DTH-271)](product-info/wacom/wacom-cintiq-pro/7p-wacom-dth-271.md)
+      * [7P: Cintiq Pro 24 (DTx-2420)](product-info/wacom/wacom-cintiq-pro/7p-cintiq-pro-24-dtx-2420.md)
     * [Wacom Movink](product-info/wacom/wacom-movink/README.md)
       * [7P: Wacom Movink 13 (DTH-135)](product-info/wacom/wacom-movink/7p-wacom-dth-135.md)
     * [Wacom One 2019 GEN1](product-info/wacom/wacom-one-dtc-133/README.md)

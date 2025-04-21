@@ -55,10 +55,11 @@
 * [Unskilled Guy - How To: Native 4k @ 60hz On Wacom Cintiq Pro 16 w/Wacom Link](https://www.youtube.com/watch?v=emQS0UlcmOs) 2017/3/31&#x20;
 * [MobileTechReview - Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=g4RMx17npmU) 2017/7/17
 
-### Cintiq Pro 24 (DTK-2420)
+### Cintiq Pro 24 (DTK-2420) and Cintiq Pro Touch (DTH-2420)
 
 * Model year: 2017
 * r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022/01/12
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-cintiq-pro-24-dtx-2420.md)
 * [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Nov 5, 2018
 * [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - Oct 9, 2018
 * [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - May 1, 2018
