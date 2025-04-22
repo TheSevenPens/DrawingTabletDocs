@@ -4,7 +4,7 @@
 
 * As of April 2025, of XP-Pen's Artist Pro GEN2 line of pen displays, this is my favorite one.&#x20;
 * As of April 2025, of non-Wacom 22" pen display this is my favorite one.
-* I found the drawing performance to very good
+* I found the drawing performance to very good. Unlike some models of the Artist Pro GEN2, the unit I tested had very good tilt compensation and diagonal wobble
 * This is a nice setup up in terms of size over the Artist Pro 16 GEN2 and the Artist Pro 19 GEN2 in terms of size without getting too large. (In general 22" size is my favorite)
 
 ## Basics
