@@ -62,7 +62,7 @@ MEDIUM 16"&#x20;
 
 These are tablets that don't need to be connect to a computer.
 
-More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-info/apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-info/apple/7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 * **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-info/apple/7p-notes-apple-ipad.md))&#x20;
   * NOTE: You will have the buy the Apple Pencil 2 separately. It does NOT come with the iPad.

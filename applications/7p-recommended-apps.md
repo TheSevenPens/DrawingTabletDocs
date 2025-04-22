@@ -8,11 +8,11 @@ If you want to see a full list of applications go here: [**Applications**](./).&
 
 ## Recommendations
 
-* [**Clip Studio Paint**](../application-info/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/clip-studio-paint/7p-notes-clip-studio-paint.md)&#x20;
+* [**Clip Studio Paint**](../application-info/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/clip-studio-paint/7p-clip-studio-paint.md)&#x20;
   * (Windows, MacOS, Android, iOS)
 * [**Krita**](../application-info/krita/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/krita/7p-notes-krita.md)   &#x20;
   * (Windows, Linux, MacOS)
-* [**Affinity Photo**](../application-info/affinity-photo/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/affinity-photo/7p-notes-affinity-photo.md)  &#x20;
+* [**Affinity Photo**](../application-info/affinity-photo/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/affinity-photo/7p-affinity-photo.md)  &#x20;
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)

@@ -8,7 +8,7 @@ They are a very new brand and have a small product line as of Jan 2024:
 
 * Xencelabs Pen Display 24: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-notes-xencelabs-lph2412u-a.md)
 * Xencelabs Pen Display 16: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-xencelabs-lph1612u-a.md)
-* Xencelabs Pen Tablet Medium: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-notes-xencelabs-bph1212w-a.md)  (very minimal notes)
+* Xencelabs Pen Tablet Medium: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-info/xencelabs/7p-xencelabs-bph1212w-a.md)  (very minimal notes)
 * Xencelabs Pen Tablet Small
 
 ### What Xencelabs does well

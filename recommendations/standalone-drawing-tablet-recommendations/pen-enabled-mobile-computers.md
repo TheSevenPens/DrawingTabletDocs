@@ -52,7 +52,7 @@ For applications that run on Android see this list: [**Apps for Android**](../..
 
 [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../product-info/samsung/7p-samsung-galaxy-tab-s-series.md) &#x20;
 
-[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-info/samsung/7p-notes-samsung-s8-ultra.md)&#x20;
+[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-info/samsung/7p-samsung-galaxy-tab-s8-ultra.md)&#x20;
 
 ## Samsung Galaxy Tab A Series
 

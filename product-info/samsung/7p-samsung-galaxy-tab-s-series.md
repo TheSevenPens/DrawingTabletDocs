@@ -1,4 +1,4 @@
-# 7P notes: Samsung Galaxy Tab S series
+# 7P: Samsung Galaxy Tab S series
 
 ## Overview
 
@@ -7,7 +7,7 @@ The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can p
 Specific models I own:
 
 * Samsung Galaxy Tab S8 Ultra&#x20;
-  * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-samsung-s8-ultra.md))
+  * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-samsung-galaxy-tab-s8-ultra.md))
 * Samsung Galaxy Tab S9 FE&#x20;
   * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-samsung-galaxy-tab-s9-fe.md))
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition)&#x20;
@@ -68,7 +68,7 @@ More here: [**Applications**](../../applications/)&#x20;
 
 ## Versus the Apple iPad
 
-You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Using a Galaxy Tab S tablet as an external monitor via USB-C
 

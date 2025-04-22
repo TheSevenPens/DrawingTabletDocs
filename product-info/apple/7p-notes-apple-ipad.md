@@ -9,7 +9,7 @@ description: Using an iPad as a drawing tablet
 iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
 * [**7P notes: Apple iPad versus drawing tablets**](7p-apple-ipad-versus-drawing-tablets.md)
-* [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-notes-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
