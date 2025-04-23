@@ -130,9 +130,10 @@ You can also connect it with HDMI and USB if needed
 
 ## Stand
 
-* Comes with a very stand.
-* The stand is pre-attached in the box. So you can start using it without any assembly.
-* The stand angle is very easy to change and seems very sturdy.
+* The tablet comes with a stand.
+* The stand is pre-attached in the box. So you can start using it without any additional assembly.
+* Changing the angle of the stand is very easy thanks to the tall lever on the back. And there there is a wide range of angles supported - from about 25 degrees to almost vertical.
+* The stand seems very sturdy and solidly built
 
 ## Heat
 
