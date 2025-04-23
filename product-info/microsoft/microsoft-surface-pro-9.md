@@ -16,7 +16,7 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 
 * The Surface Pro 11 uses an ARM chip. More here: [Windows on ARM](../../guides/windows/windows-on-arm.md)
 * [Teoh on Tech - Surface Pro 11 (2024) artist review: Pen and OLED issues, amazing battery life ](https://www.youtube.com/watch?v=KVO3BNoUnWw)2024/09/22
-* [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD\_tbn\_i50) 2024/06/28&#x20;
+* [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD_tbn_i50) 2024/06/28&#x20;
 * [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2024/06/26&#x20;
 * [Teoh on Tech -Surface Pro 11 - Handwriting Note Taking Test](https://www.youtube.com/watch?v=SkEdp9XYMTk) 2024/09/29
 
@@ -29,7 +29,7 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 ## Microsoft Surface Pro 8
 
 * Product page: [https://www.microsoft.com/en-us/d/surface-pro-8](https://www.microsoft.com/en-us/d/surface-pro-8)&#x20;
-* [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro 8**</mark>](7p-notes-microsoft-surface-pro-8.md)
+* [<mark style="background-color:green;">**7P notes: Microsoft Surface Pro 8**</mark>](microsoft-surface-pro-9/7p-microsoft-surface-pro-8.md)
 * [MobileTechReview review of Microsoft Surface Pro 8](https://youtu.be/v2mOtMiGN7s)&#x20;
 * [Brad Colbow review of Surface Pro 8](https://youtu.be/OG-y1NlRp3g) &#x20;
 * [Tech on Tech review of Microsoft Surface Pro 8](https://youtu.be/wNtmOONAyxk)&#x20;

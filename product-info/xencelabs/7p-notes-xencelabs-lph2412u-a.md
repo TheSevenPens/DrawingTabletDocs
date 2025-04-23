@@ -1,4 +1,4 @@
-# 7P notes: Xencelabs Pen Display 24 (LPH2412U-A)
+# 7P: Xencelabs Pen Display 24 (LPH2412U-A)
 
 ## Overview
 
@@ -91,7 +91,7 @@ With a felt nib
 
 ## **Pens**
 
-**More here:** [**7P notes: Xencelabs V2 pens**](7p-notes-xencelabs-v2-pens.md)&#x20;
+**More here:** [**7P notes: Xencelabs V2 pens**](7p-xencelabs-v2-pens.md)&#x20;
 
 ### Pressure range
 
@@ -127,19 +127,11 @@ Kamvas Pro 19
 
 Cintiq pro 27
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="340"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (34).png" alt="" width="340"><figcaption></figcaption></figure></div>
 
 Xencelabs pen display 24
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure></div>
 
 ## **Diagonal wobble**
 
@@ -178,7 +170,7 @@ Clip Studio Paint
 
 Xencelabs is at least aware of the diagonal wobble.
 
-In this review post on reddit (posted July 12, 2023) there are some quoted responses from  Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/)&#x20;
+In this review post on reddit (posted July 12, 2023) there are some quoted responses from  Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/)&#x20;
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

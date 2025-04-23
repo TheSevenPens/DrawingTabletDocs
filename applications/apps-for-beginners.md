@@ -9,7 +9,7 @@ This is my curated list of apps that are simple and inexpensive (or free). These
 
 ## Options
 
-* [**Procreate**](../application-info/procreate/) (iOS) [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/procreate/7p-notes-procreate.md) &#x20;
+* [**Procreate**](../application-info/procreate/) (iOS) [<mark style="background-color:green;">**my notes on this app**</mark>](../application-info/procreate/7p-procreate.md) &#x20;
 * [**HiPaint**](../application-info/hipaint.md) (Android, iOS)
   * Basically a clone of Procreate
   * [**ArtRage** ](../application-info/artrage.md)(Windows, macOS, iOS, Android)

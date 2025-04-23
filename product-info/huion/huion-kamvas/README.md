@@ -48,7 +48,7 @@ Huion Kamvas 13 (GEN3) (GS1333)
 
 ## Huion Kamvas 22 Plus (GS2202)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huon-gs2202.md)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huion-gs2202.md)&#x20;
 * Model Year: 2020
 * [Brad Colbow review of Huion Kamvas 22 Plus](https://youtu.be/GJxGzJgfYGA) 2020/09/08
 * [Nemanja Sekulic review of Huion Kamvas 22 Plus](https://youtu.be/mlYTRD2KmeY) 2022/03/04

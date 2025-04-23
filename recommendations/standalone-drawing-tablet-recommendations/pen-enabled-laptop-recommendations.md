@@ -36,7 +36,7 @@ Pen information
 * Tech: MPP (similar to AES)
 * Comes with pen: NO. You have to buy The Surface Slim Pen 2 separately.
 
-[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../product-info/microsoft/7p-notes-microsoft-surface-pro-8.md)
+[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../product-info/microsoft/microsoft-surface-pro-9/7p-microsoft-surface-pro-8.md)
 
 * [**Surface Pro 8**](../../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)
 * [**Surface Pro 9**](../../product-info/microsoft/microsoft-surface-pro-9.md) (starting at $900)

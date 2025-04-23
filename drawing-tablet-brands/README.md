@@ -17,7 +17,7 @@ There are many tablet brands. And picking the brand of the tablet is one of the 
 
 **Huion and XP-pen** since about 2021 have been releasing decent devices and size 2023/2024 a couple very good ones that compete strongly with Wacom. In many ways they deliver 90% of what a typical person needs for about half the cost. They do trail Wacom in reliability and in customer support however. If you carefully research a tablet from these brands, you can find one that works for you. More here: [**My notes on Huion and XP-pen**](7p-huion-and-xp-pen.md) &#x20;
 
-**Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support. more here: [**my notes on Xencelabs**](7p-notes-xencelabs.md)
+**Xencelabs** (founded 2019) is a new brand focused only on professional tablets and have a very strong focus on customer support. more here: [**my notes on Xencelabs**](7p-xencelabs.md)
 
 ## Tier 3: Smaller brands
 

@@ -9,7 +9,7 @@
 * Cost:&#x20;
   * Free if you download from [https://krita.org](https://krita.org/) &#x20;
   * $15 if you download from Microsoft Store
-* [<mark style="background-color:green;">**My notes on Krita**</mark>](7p-notes-krita.md) &#x20;
+* [<mark style="background-color:green;">**My notes on Krita**</mark>](7p-krita.md) &#x20;
 
 ## Communities
 
@@ -23,7 +23,7 @@
 ## History of Krita
 
 * [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part 1](https://www.youtube.com/watch?v=DifqGFFAnsE) 2024/06/20
-* [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part2](https://www.youtube.com/watch?v=3Bi\_1rX2AB4) 2024/08/13
+* [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part2](https://www.youtube.com/watch?v=3Bi_1rX2AB4) 2024/08/13
 * [Krita / 25th Anniversary INTERVIEW : Krita´s mantainer, HALLA REMPT](https://www.youtube.com/watch?v=iHPUoyeWs3I) 2024/06/05&#x20;
 
 ## Videos
@@ -32,20 +32,20 @@
 
 * [Krita - Digital Painting. Krita for beginners](https://youtu.be/tRY5bGsJ0f0) Aug 1, 2019
 * [Socialmix - Complete KRITA tutorial AND Digital Painting Basics](https://www.youtube.com/watch?v=NbNQmE6WPK0) Aug 4, 2021
-* [Aaron Rutten - Krita Tutorial for Beginners playlist](https://www.youtube.com/playlist?list=PLo\_kbikcLfN-4kZjxDr0k4pmFJa147JTd)&#x20;
+* [Aaron Rutten - Krita Tutorial for Beginners playlist](https://www.youtube.com/playlist?list=PLo_kbikcLfN-4kZjxDr0k4pmFJa147JTd)&#x20;
 * [Winged Canvas - How to Use KRITA - Digital Art Tutorial for Beginners](https://www.youtube.com/watch?v=2kLoKhyz2KA)&#x20;
 * [Jenna Drawing - OW TO PAINT IN KRITA](https://youtu.be/Z06RRp81iDM) Sep 12, 2020
 * [Skills Factory: Krita - Tutorial for Beginners in 14 MINUTES! \[COMPLETE\]](https://www.youtube.com/watch?v=ZvXw2s1rfHY) Jan 19, 2022
 * [David Revoy - Tutorial: an illustration from A to Z with Krita Aug 15](https://www.youtube.com/watch?v=uYdEkOyFUn8), 2022
 * [MossCharmly - Krita Tools Explained (Beginner Tutorial)](https://www.youtube.com/watch?v=W9Gc7Mv0LYA) Nov 11, 2023
-* [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq\_xOG)&#x20;
+* [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq_xOG)&#x20;
 * [MossCharmly - Krita Line Art for beginners part 1 (Perfect Pen)](https://www.youtube.com/watch?v=fzgnQ2spLQk) 2024/08/31&#x20;
 * [MossCharmly - Krita Line Art for Beginners part 2 (Line art Techniques)](https://www.youtube.com/watch?v=q7v6lgRRmn0) 2024/09/14
 
 ### **Customizing**
 
-* [Moss Charmly - Making Krita easy Part 1 (Customizing Your Workspace)](https://youtu.be/24w7f\_yX3x8)&#x20;
-* [Krita - Mastering Making Brushes playlist](https://www.youtube.com/playlist?list=PLNjBqr\_ciXycZ5DgqJEn7g6K\_cBKDg4Vw)&#x20;
+* [Moss Charmly - Making Krita easy Part 1 (Customizing Your Workspace)](https://youtu.be/24w7f_yX3x8)&#x20;
+* [Krita - Mastering Making Brushes playlist](https://www.youtube.com/playlist?list=PLNjBqr_ciXycZ5DgqJEn7g6K_cBKDg4Vw)&#x20;
 
 ### **Tips**
 

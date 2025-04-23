@@ -78,7 +78,7 @@ To keep it simple, I often just use Thunderbolt 3 or Thunderbolt 4 cables since 
 
 ## The specific Thunderbolt 3 cable I use
 
-I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../accessories/cables/7p-notes-cablematters-thunderbolt-3-cable.md).
+I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../accessories/cables/7p-cablematters-thunderbolt-3-cable.md).
 
 ## Resources
 
