@@ -1,8 +1,12 @@
 # USB-C to HDMI adapters
 
+**Requirements on USB-C port**
+
 Not all USB-C ports carry a video signal. You need one that can. Read more here: [**USB-C DisplayPort alt mode**](../usb-c-displayport-alt-mode.md)
 
-**Quality**. There is no loss in quality using this kind of adapter.
+**Quality**
+
+There is no loss in quality using this kind of adapter - unlike an analog adapter.
 
 **What I use**
 
