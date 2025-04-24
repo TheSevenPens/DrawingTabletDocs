@@ -19,6 +19,7 @@
   * [Contacting support](basics/contacting-support.md)
   * [Drawing tablets vs mice](basics/drawing-tablets-vs-mice.md)
   * [The drawing experience](basics/the-drawing-experience.md)
+  * [Uninstalling tablet drivers](basics/uninstalling-tablet-drivers.md)
 * [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
   * [Buying used drawing tablets](buying-a-drawing-tablet/buying-used-drawing-tablets.md)
   * [Inspecting a drawing tablet](buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)
