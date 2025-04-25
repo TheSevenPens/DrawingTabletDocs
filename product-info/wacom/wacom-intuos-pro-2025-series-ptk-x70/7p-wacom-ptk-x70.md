@@ -18,7 +18,9 @@ See this video: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtub
 
 Unlike the previous Intuos Pro 2017 (PTK-x60) series, the Intuos Pro 2025 (PTK-x70) series does **NOT** support touch.
 
+## Texture sheets
 
+Wacom sells texture sheets in case you scratch up the drawing surface and want to restore it to its original pristine state. The texture sheets are available in 3 sizes (Large, Medium, Small) and only one texture (Standard).
 
 ## Device size
 
@@ -49,17 +51,13 @@ Bezels in general have shrunk dramatically. Only the top bezel has grown to acco
 
 ## Aspect ratio
 
-
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br>544.06 cm2</p><p></p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>160 x 90.0 mm<br>144.0 cm2</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p><p></p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
 
 
 
 ## Driver UI > Wacom Center vs Wacom Tablet Properties
 
-&#x20;There are two driver configuration UIs available for Wacom tablets: Wacom Center and Wacom Tablet properties.
-
-For the Intuos Pro 2025, most features are available in both apps, but some are available only in Wacom Center.
+&#x20;There are two driver configuration UIs available for Wacom tablets: Wacom Center and Wacom Tablet properties. For the Intuos Pro 2025, most features are available in both apps, but some are available only in Wacom Center.
 
 Available in BOTH
 
