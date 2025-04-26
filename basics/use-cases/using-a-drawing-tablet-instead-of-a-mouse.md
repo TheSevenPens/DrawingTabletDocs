@@ -48,7 +48,7 @@ However, you can configure the tablet driver to use mouse mode to provide relati
 
 ## Aspect ratios
 
-If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [**Matching aspect ratios**](../../guides/customizing-your-experience/matching-aspect-ratios.md)&#x20;
+If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [**Matching aspect ratios**](../../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md)&#x20;
 
 ## Moving the pointer vs clicking
 

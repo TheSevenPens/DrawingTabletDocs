@@ -67,5 +67,5 @@ The pens for a modern drawing tablet neither use a cable nor do they have batter
 
 ## ProTip: Match aspect ratios when using a pen tablet
 
-Make sure you match aspect ratios when you are using a pen tablet so that drawing feels natural and your strokes are not distorted. More here: [Matching aspect ratios](../guides/customizing-your-experience/matching-aspect-ratios.md)  &#x20;
+Make sure you match aspect ratios when you are using a pen tablet so that drawing feels natural and your strokes are not distorted. More here: [Matching aspect ratios](../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md)  &#x20;
 

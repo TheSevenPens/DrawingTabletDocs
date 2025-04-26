@@ -110,7 +110,7 @@
     * [Nib wear](guides/caring-for-your-tablet/nib-wear.md)
     * [Replacing a pen](guides/caring-for-your-tablet/replacing-a-pen.md)
   * [Customizing your experience](guides/customizing-your-experience/README.md)
-    * [Matching aspect ratios](guides/customizing-your-experience/matching-aspect-ratios.md)
+    * [Match aspect ratios with Force Proportions](guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
     * [Shrinking the active area](guides/customizing-your-experience/shrinking-the-active-area.md)
     * [Using large pen tablets](guides/customizing-your-experience/using-large-pen-tablets.md)
     * [Using extra-large pen tablets](guides/customizing-your-experience/using-extra-large-pen-tablets.md)

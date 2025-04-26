@@ -12,6 +12,6 @@ You should carefully evaluate what these advantages are before you switch. More 
 
 One thing that I often hear is that people find that it feels weird or strange to draw on a pen tablet like their hand isn't drawing what they expect it to draw.
 
-Many times what I found is that people have not configured their pen tablet correctly for their monitor's aspect ratio. More here: [**matching aspect ratios**](../guides/customizing-your-experience/matching-aspect-ratios.md).
+Many times what I found is that people have not configured their pen tablet correctly for their monitor's aspect ratio. More here: [**matching aspect ratios**](../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md).
 
 So if your tablet is feeling weird, try matching the aspect ratios and give it a few more days. You might find that after this change you enjoy using your pen tablet much more.
