@@ -1,20 +1,22 @@
-# ExpressKeys
+# Auxiliary inputs
 
 ## Overview&#x20;
 
-**ExpresKeys** is a Wacom-specific term, but people use it in general additional inputs for any tablet. Drawing tablets often have additional "inputs" such as:
+The primary way you provide input via the tablet is via the pen.
 
-* Buttons (both physical and capacitive)
+However, some drawing tablets have other built-in ways of providing input.&#x20;
+
+* Buttons (both physical and capacitive)&#x20;
 * Dials
-* Touch-sensitive strips
+* Touch-sensitive strips and wheels
 
-<div align="left"><figure><img src="../.gitbook/assets/7P SLIDE Expresskeys (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+## Termionilogy
 
-## Other names
+**ExpressKeys** is a Wacom-specific term for buttons on Wacom tablets. However, many people have adopted it as a term to describe use to describe buttons on tablets from all brands.
 
-Huion calls these buttons "Press Keys"
+Huion calls buttons "Press Keys"
 
-## Disabling Express Keys
+## Disabling Auxiliary inputs
 
 Some people love using these kind of inputs, but some people do not like them because either they
 
@@ -35,7 +37,7 @@ You can map the buttons to take a variety of actions. Broadly the categories are
 
 ## Global vs application configuration
 
-Tablet drivers also let you configure how these buttons work depending on the app you are using.
+Tablet drivers also let you configure how these auxiliar inputs work depending on the app you are using.
 
 For example you can set a button to
 

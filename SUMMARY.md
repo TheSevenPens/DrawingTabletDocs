@@ -89,7 +89,7 @@
   * [Brush lag](core-features/lag-1.md)
   * [Diagonal wobble](core-features/diagonal-wobble.md)
   * [Surface texture](core-features/surface-texture.md)
-  * [ExpressKeys](core-features/expresskeys.md)
+  * [Auxiliary inputs](core-features/expresskeys.md)
   * [Absolute versus relative positioning](core-features/absolute-versus-relative-positioning.md)
   * [Mouse mode](core-features/mouse-mode.md)
   * [Powering a pen](core-features/powering-a-pen.md)

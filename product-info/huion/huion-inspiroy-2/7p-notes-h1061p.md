@@ -1,4 +1,4 @@
-# 7P notes: Huion Inspiroy 2 L (H1061P)
+# 7P: Huion Inspiroy 2 L (H1061P)
 
 ## **Summary**
 
@@ -38,7 +38,7 @@ It is nowhere close to the true large size of something like the Wacom Intuos Pr
 
 The tablet does NOT support wireless connectivity. It must be connected with USB cable.
 
-## **Express keys**
+## **Auxiliary inputs**
 
 I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.&#x20;
 

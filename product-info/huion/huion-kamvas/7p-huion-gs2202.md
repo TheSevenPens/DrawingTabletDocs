@@ -32,7 +32,7 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 
 TYPICAL. - normal for a pen display.
 
-## Express Keys
+## Auxiliary inputs
 
 **NONE**. So, I use keyboard shorts with this device: [tourbox](../../../accessories/auxiliary-input-devices/tourbox/)
 

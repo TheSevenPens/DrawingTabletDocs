@@ -78,9 +78,9 @@ pixels are clearly visible and well delineated
 
 I think this did have a little more blacklight bleed than other pen displays. I'm not particularly sensitive to backlight bleed and it didn't affect me at all.
 
-## **Express keys**
+## **Auxiliary inputs**
 
-&#x20;Tablet has no express keys
+&#x20;Tablet has no none.
 
 ## **VESA mounting**
 

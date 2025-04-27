@@ -227,15 +227,15 @@ My usage: I left it at **Native**.
   * Mac Studio
   * Surface Pro 8&#x20;
 
-## **Express keys**
+## **Auxiliary inputs**
 
-* Total of 8 keys. 4 on left. 4 on right.
-* If you mount the pen holder on the left or right of the tablet, you will lose access to the express keys on that side.
-* The express keys cannot be used to enable/disable touch. You have to use the touch switch on the back of the device.
+* Total of 8 buttons. 4 on left. 4 on right.
+* If you mount the pen holder on the left or right of the tablet, you will lose access to the buttons on that side.
+* The buttons cannot be used to enable/disable touch. You have to use the touch switch on the back of the device.
 
 ### My usage
 
-* I prefer not to use express keys in general.&#x20;
+* I prefer not to use buttons in general.&#x20;
 * I rely on a TourBox device so express keys don't help. I have my non-drawing hand on my Tourbox device so the buttons aren't really very useful for me.
 
 ## **Mounting**
