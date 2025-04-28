@@ -1,5 +1,9 @@
 # 7P: Wacom Intuos Pro 2025 (PTK-x70)
 
+## Notice
+
+These notes are IN PROGRESS and INCOMPLETE. To understand my initial testing of this tablet, see the video linked below. The content of that video and additional details will be added to this page before the end of May 2025.
+
 ## Overview
 
 See this video: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
