@@ -3,7 +3,7 @@
 ## General
 
 * I have an extensive series of notes on how my thoughts about using the iPad and comparing it to other devices for drawing.
-  * [<mark style="background-color:green;">**7P notes: Apple iPad**</mark>](7p-notes-apple-ipad.md)&#x20;
+  * [<mark style="background-color:green;">**7P notes: Apple iPad**</mark>](7p-apple-ipad.md)&#x20;
   * [**7P notes: Apple iPad versus drawing tablets**](7p-apple-ipad-versus-drawing-tablets.md)
   * [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 * Information on [**Apple Pencil**](apple-pencil.md)&#x20;

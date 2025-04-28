@@ -9,7 +9,7 @@ Specific models I own:
 * Samsung Galaxy Tab S8 Ultra&#x20;
   * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-samsung-galaxy-tab-s8-ultra.md))
 * Samsung Galaxy Tab S9 FE&#x20;
-  * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-notes-samsung-galaxy-tab-s9-fe.md))
+  * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-samsung-galaxy-tab-s9-fe.md))
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition)&#x20;
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
 

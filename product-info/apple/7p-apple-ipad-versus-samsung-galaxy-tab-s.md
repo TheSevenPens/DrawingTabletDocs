@@ -1,4 +1,4 @@
-# 7P notes: Apple iPad versus Samsung Galaxy Tab S
+# 7P: Apple iPad versus Samsung Galaxy Tab S
 
 ## Overview
 
@@ -7,7 +7,7 @@ Both of these kinds of devices can be successfully used for digital art, note ta
 My detailed notes on each
 
 * [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-samsung-galaxy-tab-s-series.md)
-* [**7P notes: Apple iPad**](7p-notes-apple-ipad.md) &#x20;
+* [**7P notes: Apple iPad**](7p-apple-ipad.md) &#x20;
 
 ## Drawing experience&#x20;
 

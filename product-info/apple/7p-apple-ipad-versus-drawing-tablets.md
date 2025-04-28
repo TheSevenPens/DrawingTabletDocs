@@ -1,7 +1,7 @@
 # 7P: Apple iPad versus drawing tablets
 
 {% hint style="info" %}
-For more general information about using iPads, go here: [**7P notes: Apple iPad**](7p-notes-apple-ipad.md)&#x20;
+For more general information about using iPads, go here: [**7P notes: Apple iPad**](7p-apple-ipad.md)&#x20;
 {% endhint %}
 
 

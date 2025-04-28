@@ -77,7 +77,7 @@ Sometimes the drawing experience with a mobile computers can really rival that o
 
 In this category I think the Apple iPad provides the most compelling experience, followed closely by a Samsung Galaxy Tab S9.
 
-More here: [**Using an iPad as a drawing tablet**](../product-info/apple/7p-notes-apple-ipad.md) &#x20;
+More here: [**Using an iPad as a drawing tablet**](../product-info/apple/7p-apple-ipad.md) &#x20;
 
 ### Pen computers
 
