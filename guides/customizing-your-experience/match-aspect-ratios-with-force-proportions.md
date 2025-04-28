@@ -104,3 +104,9 @@ Xencelabs calls it Screen Ratio
 This video goes into great detail about this topic.&#x20;
 
 {% embed url="https://youtu.be/9oAvsJk5ESU" %}
+
+## Force proportions simulator
+
+This online tool helps you see understand of force proportions
+
+[https://thesevenpens.github.io/ForceProportionsSim/](https://thesevenpens.github.io/ForceProportionsSim/)&#x20;
