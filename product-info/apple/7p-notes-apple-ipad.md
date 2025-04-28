@@ -106,7 +106,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 
 * You may or may not be sensitive to the anti-glare sparkle effect. Some people hate it. Some are much less sensitive to it.&#x20;
 * iPads don't show much AG sparkle at all - I would say it is undetectable in the iPads I have examined
-* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](7p-apple-ipad.md#anti-glare-sparkle)
+* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](7p-notes-apple-ipad.md#anti-glare-sparkle)
 
 ## **Size**
 

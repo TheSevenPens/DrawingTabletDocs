@@ -1,4 +1,4 @@
-# 7P notes: Samsung Galaxy Tab S9 FE
+# 7P: Samsung Galaxy Tab S9 FE
 
 ## Overview
 
