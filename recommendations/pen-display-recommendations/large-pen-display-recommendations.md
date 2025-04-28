@@ -43,4 +43,4 @@
 
 ## Other resources
 
-* [**7P notes on 22" pen displays compared (2024)**](../comparisons/7p-22-pen-displays-compared-2024.md)&#x20;
+* [**7P: 22" pen displays compared (2024)**](../comparisons/7p-22-pen-displays-compared-2024.md)&#x20;
