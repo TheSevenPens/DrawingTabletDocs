@@ -49,7 +49,7 @@ You MUST uninstall any existing tablet drivers on your computer. If you leave th
 ## STEP 3: Install the .NET Runtime&#x20;
 
 * OTD requires a specific version of the .NET Runtime to be installed on your computer. It won't work otherwise.
-* Click on this link [https://opentabletdriver.net/framework](https://opentabletdriver.net/framework) to download the version that OTD needs. Then install it.
+* Click on this link [https://opentabletdriver.net/Framework](https://opentabletdriver.net/Framework) to download the version that OTD needs. Then install it.
 
 ## STEP 4: Download and extract OpenTabletDriver
 
