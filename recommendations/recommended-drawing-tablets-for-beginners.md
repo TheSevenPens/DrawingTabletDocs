@@ -34,16 +34,16 @@ These are tablets WITHOUT a screen that need to be connected to a computer (some
 
 If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for true. It's reliable and has a good drawing experience. The Huion Frego is a new tablet (released in 2024) that is also a terrific beginner choice.&#x20;
 
-* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../product-info/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/wacom/one-by-wacom/7p-wacom-ctl-x72.md)] ★★★
-* Huion Inspiroy Frego M (L610) \[$90, [**links**](../product-info/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-inspiroy-frego/7p-huion-l610.md) ] ★★★
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../product-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/wacom/one-by-wacom/7p-wacom-ctl-x72.md)] ★★★
+* Huion Inspiroy Frego M (L610) \[$90, [**links**](../product-links/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/huion/huion-inspiroy-frego/7p-huion-l610.md) ] ★★★
 * Wacom Intuos series
-  * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../product-info/wacom/wacom-intuos.md)]
-  * Wacom Intuos Medium Bluetooth (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark> \[$200, [**links**](../product-info/wacom/wacom-intuos.md)]
+  * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../product-links/wacom/wacom-intuos.md)]
+  * Wacom Intuos Medium Bluetooth (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark> \[$200, [**links**](../product-links/wacom/wacom-intuos.md)]
 * XP-Pen Deco series
-  * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../product-info/xp-pen/xp-pen-deco/)]
-  * XP-Pen Deco MW (IT850B) \[$70, [**links**](../product-info/xp-pen/xp-pen-deco/)]
-  * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../product-info/xp-pen/xp-pen-deco/)]&#x20;
-  * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../product-info/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-deco/7p-xppen-it1060b.md)]
+  * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../product-links/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco MW (IT850B) \[$70, [**links**](../product-links/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../product-links/xp-pen/xp-pen-deco/)]&#x20;
+  * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../product-links/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/xp-pen/xp-pen-deco/7p-xppen-it1060b.md)]
 
 ## Pen displays
 
@@ -51,21 +51,21 @@ These are tablets WITH A SCREEN that need to be connected to a computer. No pen 
 
 SMALL 13"&#x20;
 
-* Huion Kamvas 13 GEN3 (GS1333)  \[$260, [**links**](../product-info/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-huion-gs1333.md)] ★★★
-* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../product-info/xp-pen/xp-pen-artist-gen2/)**,**  [<mark style="background-color:green;">**my notes**</mark>](../product-info/xp-pen/xp-pen-artist-gen2/7p-xppen-cd130fh.md)]
+* Huion Kamvas 13 GEN3 (GS1333)  \[$260, [**links**](../product-links/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/huion/huion-kamvas/7p-huion-gs1333.md)] ★★★
+* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../product-links/xp-pen/xp-pen-artist-gen2/)**,**  [<mark style="background-color:green;">**my notes**</mark>](../product-links/xp-pen/xp-pen-artist-gen2/7p-xppen-cd130fh.md)]
 
 MEDIUM 16"&#x20;
 
-* Huion Kamvas 16 GEN3 (GS1563) ★★★ \[$500, [**links**](../product-info/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-info/huion/huion-kamvas/7p-huion-gs1563.md)]
+* Huion Kamvas 16 GEN3 (GS1563) ★★★ \[$500, [**links**](../product-links/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/huion/huion-kamvas/7p-huion-gs1563.md)]
 
 ## Standalone tablets
 
 These are tablets that don't need to be connect to a computer.
 
-More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-info/apple/7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-links/apple/7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
-* **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-info/apple/7p-notes-apple-ipad.md))&#x20;
+* **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-links/apple/7p-apple-ipad.md))&#x20;
   * NOTE: You will have the buy the Apple Pencil 2 separately. It does NOT come with the iPad.
-* **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-samsung-galaxy-tab-s-series.md) )
+* **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-links/samsung/7p-samsung-galaxy-tab-s-series.md) )
   * NOTE: The Samsung S Pen COMES WITH the tablet.
-  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-info/samsung/7p-samsung-galaxy-tab-s-series.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
+  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-links/samsung/7p-samsung-galaxy-tab-s-series.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
