@@ -13,7 +13,7 @@ Specific models I own:
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition)&#x20;
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
 
-These tablets come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-notes-samsung-s-pen.md)
+These tablets come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-samsung-s-pen.md)
 
 ## Size
 
@@ -28,7 +28,7 @@ Size has a huge impact on how the tablet feels to use especially with the 16X9 a
 
 ### Standard pens
 
-The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-notes-samsung-s-pen.md).
+The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-samsung-s-pen.md).
 
 ### Compatible Pens
 
@@ -40,7 +40,7 @@ The Wacom CP-913 pen provides an better experience with this device. When I draw
 
 ### Using the Wacom One 2023 GEN2 Pen CP-923
 
-This pen is trash. Avoid it. My notes: [7P notes: Wacom One Pen 2023 GEN2 (CP-923)](../wacom/wacom-pens/7p-wacom-cp-923.md)&#x20;
+This pen is trash. Avoid it. My notes: [7P: Wacom One Pen 2023 GEN2 (CP-923)](../wacom/wacom-pens/7p-wacom-cp-923.md)&#x20;
 
 ## Pointer lag
 

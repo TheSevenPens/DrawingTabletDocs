@@ -4,7 +4,7 @@
 
 * [https://en.wikipedia.org/wiki/S\_Pen](https://en.wikipedia.org/wiki/S_Pen)&#x20;
 * There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [<mark style="background-color:green;">**My notes on the Galaxy Tab S series**</mark>](../7p-samsung-galaxy-tab-s-series.md).
-* [<mark style="background-color:green;">**My notes on the Samsung S pen**</mark>](7p-notes-samsung-s-pen.md).
+* [<mark style="background-color:green;">**My notes on the Samsung S pen**</mark>](7p-samsung-s-pen.md).
 
 ## Links
 

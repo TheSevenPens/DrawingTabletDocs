@@ -1,4 +1,4 @@
-# 7P notes: Samsung Galaxy Tab S8 Ultra
+# 7P: Samsung Galaxy Tab S8 Ultra
 
 ## Device size
 
@@ -28,7 +28,7 @@ Also I noticed that when I was not using the device it seemed to quickly run dow
 
 ## Pen
 
-The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-notes-samsung-s-pen.md)
+The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-samsung-s-pen.md)
 
 ## Galaxy Tab S8 Ultra Book Cover Keyboard
 

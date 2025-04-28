@@ -91,7 +91,7 @@ With a felt nib
 
 ## **Pens**
 
-**More here:** [**7P notes: Xencelabs V2 pens**](7p-xencelabs-v2-pens.md)&#x20;
+**More here:** [**7P: Xencelabs V2 pens**](7p-xencelabs-v2-pens.md)&#x20;
 
 ### Pressure range
 

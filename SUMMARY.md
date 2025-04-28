@@ -342,7 +342,7 @@
     * [Samsung Galaxy Tab S8](product-info/samsung/samsung-galaxy-tab-s8.md)
     * [Samsung Galaxy Tab S9](product-info/samsung/samsung-galaxy-tab-s9.md)
     * [Samsung S Pen](product-info/samsung/samsung-s-pen/README.md)
-      * [7P notes: Samsung S Pen](product-info/samsung/samsung-s-pen/7p-notes-samsung-s-pen.md)
+      * [7P: Samsung S Pen](product-info/samsung/samsung-s-pen/7p-samsung-s-pen.md)
   * [Wacom](product-info/wacom/README.md)
     * [7P: Comparison of Wacom pen tablets](product-info/wacom/7p-comparison-of-wacom-pen-tablets.md)
     * [Wacom model number format](product-info/wacom/wacom-model-number-format.md)
