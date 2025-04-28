@@ -53,7 +53,7 @@ You MUST uninstall any existing tablet drivers on your computer. If you leave th
 
 ## STEP 4: Download and extract OpenTabletDriver
 
-* Download [**OpenTabletDriver.win-x64.zip**](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver.win-x64.zip)&#x20;
+* Download [**OpenTabletDriver.win-x64.zip**](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver-0.6.5.1_win-x64.zip)&#x20;
 * Put the OTD zip file intp your **Documents** folder&#x20;
 * Right-click on `OpenTabletDriver.win-x64.zip`, then select **Extract All**. This creates a folder called `OpenTabletDriver.win-x64`.
 * Copy the `OpenTabletDriver.win-x64` folder to `c:\OpenTabletDriver`.&#x20;
