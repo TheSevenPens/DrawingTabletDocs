@@ -106,8 +106,6 @@ This video goes into great detail about this topic.&#x20;
 
 {% embed url="https://youtu.be/9oAvsJk5ESU" %}
 
-## Force proportions simulator
+## Simulate what force proportions does
 
-This online tool helps you see understand of force proportions
-
-[https://thesevenpens.github.io/ForceProportionsSim/](https://thesevenpens.github.io/ForceProportionsSim/)&#x20;
+I built a tool to simulate the effect FP has. go here: [**Force proportions simulator**](../../developers/force-proportions-simulator.md) &#x20;

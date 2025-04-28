@@ -240,6 +240,7 @@
   * [WinTab versus Windows Ink](developers/wintab-versus-windows-ink.md)
   * [7P Tablet Tester](developers/7p-tablet-tester.md)
   * [WinTab API](developers/wintab-api.md)
+  * [Force proportions simulator](developers/force-proportions-simulator.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Troubleshoot low pressure drawing problems](troubleshooting/troubleshoot-low-pressure-drawing-problems.md)
   * [Troubleshoot difficult to reach maximum pressure](troubleshooting/troubleshoot-difficult-to-reach-maximum-pressure.md)
