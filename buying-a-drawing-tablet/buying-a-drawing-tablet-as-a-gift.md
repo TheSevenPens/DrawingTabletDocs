@@ -55,4 +55,5 @@ Go here for the invite link: [**Drawing Tablet discord server**](../about-thesev
 ## More resources
 
 * [Beginner's guide to drawing tablets](../basics/beginners-guide.md)
+* The full buying guide: [Buying a drawing tablet](./)
 * Video: [Practical tips for buying a drawing tablet ](https://youtu.be/57-W_dmtLJU)
