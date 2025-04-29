@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is one of my most-used pieces of equipment. I use it primarily to allow me switch between multiple laptops and mini-pcs on the same desk.
+This is one of my most-used pieces of equipment. I use it primarily to allow me switch between multiple laptops and mini-pcs on the same desk. As of 2025 I own and use 3 of them.
 
 ## Basics
 
