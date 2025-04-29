@@ -10,10 +10,6 @@ See this video: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtub
 
 {% embed url="https://www.youtube.com/watch?v=Q2rH32pBpq0" %}
 
-## Livestream
-
-
-
 ## Connections and ports
 
 * These tablets support both wired and wireless connection.
