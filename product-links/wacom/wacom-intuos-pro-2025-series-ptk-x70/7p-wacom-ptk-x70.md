@@ -1,14 +1,121 @@
 # 7P: Wacom Intuos Pro 2025 (PTK-x70)
 
-## Notice
+## Summary
 
-These notes are IN PROGRESS and INCOMPLETE. To understand my initial testing of this tablet, see the video linked below. The content of that video and additional details will be added to this page before the end of May 2025.
+This is an EXCELLENT tablet, but may not be the right one for you if:
 
-## Overview
+* You do not like the new ExpressKeys placement
+* The lack of multi-touch support
+* You are already happy with an Intuos Pro 2017 model
 
-See this video: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
+## Companion video
+
+If you would rather watch:  [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
+
+But do check this document for any updates since the original video was published.
 
 {% embed url="https://www.youtube.com/watch?v=Q2rH32pBpq0" %}
+
+## Connections and ports
+
+## Changes to key features from 2017 edition
+
+* No improvement to drawing performance
+* ExpressKeys and dials moved to the top
+* Multitouch support dropped
+* Bezels are significantly smaller
+* Comes with Pro Pen 3 instead of Pro Pen 2
+
+## Important Quality-of-life improvements
+
+* Size & weight
+* 16x9 aspect ratio
+* Larger native active area
+* Big increase in active area when using Force Proportions on 16:9 monitors
+* Pen compatibility
+* Pro Pen 3 is very customizable
+* Wireless connectivity
+
+## Should you buy the Intuos Pro 2025
+
+* Your first pro tablet? → YES
+* Want the best? → YES
+* Upgrade from 2017 edition? → MAYBE
+* Need multitouch support? → NO
+
+## Should you buy the Intuos Pro 2017 or the Intuos Pro 2025
+
+Complex topic. Will address in May 2025.
+
+## Historical context
+
+From 2009 to 2025, there have been 4 editions of profesional pen tablets from Wacom and all have maintain a consistent layout with expresskeys on the left. Therefore the new layout of this tablet was quite surprising for many of us.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_224728.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Model numbers
+
+It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_224944 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+## Design
+
+Although not everyone shares this opinion, I find it a very beautiful and professional-looking tablet.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_225151.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_225153.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_225338.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+One of the interesting design touches, is a slight texture on the non-drawing surface os the tablet.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_225249.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+## What's in the box
+
+Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250429_225414.jpg" alt=""><figcaption></figcaption></figure>
+
+## The tablet only comes with 1 pen
+
+This is a little bit of a disappointment. Some other brands are starting to include 2 pens with some of their professional models.
+
+## Core specs
+
+* Pressure levels - 8192
+* Digitizer resolution - 5080 LPI (200 LPmm)
+* Tilt - Yes
+* Tilt range - ± 60°
+* Report rate - Unknown – will investigate&#x20;
+
+
+
+## Drawing performance
+
+**Summary:** The drawing performance is excellent and keeps the same quality as the previous Intuis Pro 2017 edition.
+
+### Moving between high and low pressure worked well
+
+<figure><img src="../../../.gitbook/assets/image (582).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Diagonal wobble
+
+EVALUATION: Very good. Low amount of diagonal wobble. Similar to Intuos Pro 2017 edition.
+
+
+
+
 
 ## Connections and ports
 
