@@ -1,6 +1,6 @@
 # 7P: Wacom Intuos Pro 2025 (PTK-x70)
 
-## Summary
+ummary
 
 This is an EXCELLENT tablet, but may not be the right one for you if:
 
@@ -91,6 +91,13 @@ Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
 This is a little bit of a disappointment. Some other brands are starting to include 2 pens with some of their professional models.
 
+For example, as of April 2025, here is a **partial** list of tablets that come with two pens
+
+* Xencelabs Pen Tablet Medium
+* Huion Kamvas Pro 19
+* Huion Kamvas Pro 27
+* XP-Pen Artist Pro 19 GEN2
+
 ## Core specs
 
 * Pressure levels - 8192
@@ -100,6 +107,10 @@ This is a little bit of a disappointment. Some other brands are starting to incl
 * Report rate - Unknown – will investigate&#x20;
 
 
+
+## Barrel rotation
+
+Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.&#x20;
 
 ## Drawing performance
 
@@ -113,9 +124,93 @@ This is a little bit of a disappointment. Some other brands are starting to incl
 
 EVALUATION: Very good. Low amount of diagonal wobble. Similar to Intuos Pro 2017 edition.
 
+<figure><img src="../../../.gitbook/assets/Diag Wobble Wacom Intuos Pro Large (PTK-670) 2025_04_04.png" alt=""><figcaption></figcaption></figure>
 
+## Tilt compensation
 
+EVALUATION: VERY GOOD
 
+Even as I tilted the pen at different angles, the pointer did not deflect much from the tip of the pen.
+
+## Pointer lag
+
+EVALUATION: VERY GOOD (VERY LOW)
+
+As expected, the pointer trailed the physical tip of the only by a little bit. It was about the same as the pointer lag of the Intuos Pro 2017 model. In general, Wacom has excellent, low pointer lag in their pen tablets.
+
+## Auxiliary inputs
+
+### Multitouch
+
+Unlike the previous Intuos Pro 2017 (PTK-x60) series, the Intuos Pro 2025 (PTK-x70) series does **NOT** support multitouch.
+
+### ExpressKeys and dials
+
+The PTK-x70 series tablers comes with pairs of ExpressKey rings and dials.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_162929 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+Though do be aware that the number of ExpressKeys and dials depends on which size tablet in the PTK-x70 series you get.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_163043.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+## Accidentally pressing the ExpressKeys and dials
+
+It is possible to accidentally hit he ExpressKeys and dials depending on how the tablet is configured on your keyboard.
+
+**Tablet next to keyboard** - no accidental presses&#x20;
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_163303.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+**Tablet underneath the keyboard** - no accidental presses while drawing, but accidental presses did happen when reaching for keys toward the top of the keyboard.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_163305.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_163307.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+**Accidental presses were not possible in the way draw** - I use a tourbox device. So my keyboard is not near the tablet at all. So accidental presses did not happen for me.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_163308.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+**Ultimately, I disabled all the ExpressKeys and dials** - I simply did not need them.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_163815.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+**I did accidentally hit the ExpressKeys when I meant to hit the dial and vice versa**. They are very similar in size, shape, and close together. Often I reached and touched the wrong one. Over time I may have been to train my brain a bit better.
+
+## Usage notes on dials
+
+* Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.&#x20;
+* The dials feel nice to rotate. Rotating produces soft click feeling and small sound.
+*  The dials do not rotate too easily nor do they require too much force to rotate.
+
+## Usage notes on ExpressKeys
+
+* It is not obvious in pictures but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_164419.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+## Size (physical and active area)
+
+Physically the new devices are smaller than their 2017 counterparts. but their active areas have grown in size. So, you have more room than every for drawing despite the sizes of the devices shrinking.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_164648.png" alt=""><figcaption></figcaption></figure>
+
+The 2017 models had unusal aspect ratios, while the new devices all have 16x9 (or incredibly close to it) aspect ratios. This has a nice consequence. If you use a 16x9 monitor you have to turn on Force Porportions to draw normally with the 2017 models. But FP is not needed and has no effect on the new models with a 16x9 monitor. Because a mismatch in aspect ratios between the pen tablet's active area and the monitor causes Force Proportions to stop using some amount of active area ... when you take this into account the new tablets in practice give you much more active area than the 2017 models.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_165118.jpg" alt=""><figcaption></figcaption></figure>
+
+Also note that the new Intuos Pro 2025 large is physically very close in size to the Intuos Pro 2017 medium. This may make the 2025 large model a bit easier to place on the desktop for those of you interested in a large pen tablet.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_165245.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Slide_20250430_165247.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+##
+
+##
+
+##
 
 ## Connections and ports
 
@@ -123,9 +218,7 @@ EVALUATION: Very good. Low amount of diagonal wobble. Similar to Intuos Pro 2017
 * USB-C Port location: top right
 * Multiple wireless connections: TBD
 
-## Touch
-
-Unlike the previous Intuos Pro 2017 (PTK-x60) series, the Intuos Pro 2025 (PTK-x70) series does **NOT** support touch.
+##
 
 ## Texture sheets
 
