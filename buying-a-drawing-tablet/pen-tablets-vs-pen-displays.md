@@ -169,7 +169,7 @@ There are a few exceptions - there are 1 or 2 tablets that I think do a particul
 
 ## **You can use both kinds of tablets**
 
-And there is no rule that says you have to use only one kind of tablet. There are many people who have both a pen tablet and a pen display. And depending on what they're doing they will switch between using one or the other. See: [**Using multiple drawing tablets at the same time**](../guides/general/using-multiple-drawing-tablets-at-the-same-time.md)
+And there is no rule that says you have to use only one kind of tablet. There are many people who have both a pen tablet and a pen display. And depending on what they're doing they will switch between using one or the other. See: [**Using multiple drawing tablets at the same time**](../guides/general/connecting-multiple-drawing-tablets-at-the-same-time.md)
 
 ## Videos
 
