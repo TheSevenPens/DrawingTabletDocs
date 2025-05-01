@@ -1,6 +1,6 @@
 # 7P: Wacom Intuos Pro 2025 (PTK-x70)
 
-## summary
+## Summary
 
 This is an EXCELLENT tablet, but may not be the right one for you if:
 
@@ -15,8 +15,6 @@ If you would rather watch:  [https://www.youtube.com/watch?v=Q2rH32pBpq0](https:
 But do check this document for any updates since the original video was published.
 
 {% embed url="https://www.youtube.com/watch?v=Q2rH32pBpq0" %}
-
-## Connections and ports
 
 ## Changes to key features from 2017 edition
 
@@ -105,8 +103,6 @@ For example, as of April 2025, here is a **partial** list of tablets that come w
 * Tilt - Yes
 * Tilt range - ± 60°
 * Report rate - Unknown – will investigate&#x20;
-
-
 
 ## Barrel rotation
 
@@ -294,13 +290,76 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250501_045114.jpg" alt=""><figcaption></figcaption></figure>
 
-## Connections and ports
+## Weight
+
+* 40% weight reduction across all models
+* The 2025 LARGE model weighs less than the 2017 MEDIUM model
+* The 2025 MEDIUM model weighs less than the 2017 SMALL model
+
+<table><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017 </th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
+
+**Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide. Moves only if you deliberately force it to move. Requires less force to move than the PTH-660
+
+## Surface Texture
+
+Summary: Great texture feeling across all nib types.
+
+Compared to Intuos Pro 2017 (PTH-660)
+
+* Has slightly less texture
+* Feels “softer” through the pen
+* Exhibits less texture erosion (in my initial two week testing)
+
+Nib wear due to texture:
+
+* Over time, I would EXPECT nibs to wear down less
+* Only time will tell
+
+Noise due to texture
+
+* Significantly muted / Much harder to hear
+* Not “scratchy”
+
+## Connections and cabling
+
+### Overall
+
+The tablet supports both wired and wireless connection.
+
+### Single USB-C port
+
+The port is located on the right side, close to the top.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_052444 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * These tablets support both wired and wireless connection.
 * USB-C Port location: top right
 * Multiple wireless connections: TBD
 
-##
+### USB Cables
+
+* The tablet comes with USB-A → USB-C cable
+* Should be able to use any USB-C cable that supports data
+*  I tested with these three cables (all worked):
+  *    Included USB-A → USB-C cable
+  * Intuos Pro 2017 cable
+  * Monoprice USB 2.0 USB-A → USB-C cable
+
+### USB-C cable connector
+
+The included USB cable no longer has an L-shaped connecter like the cable that came with the 2017 Intuos Pro.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_052713.jpg" alt=""><figcaption></figcaption></figure>
+
+## Wireless
+
+Summary
+
+* Can pair with two devices wireless
+* Physical switch on top controls which wireless connection
+* Did not test wireless
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_052754.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Texture sheets
 
