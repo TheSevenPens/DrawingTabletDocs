@@ -389,6 +389,7 @@
         * [7P: Wacom One 2019 GEN1 Pen (CP-913)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-cp-913.md)
         * [7P: Wacom One 2023 Pen (CP-923)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-cp-923.md)
         * [7P: Wacom Pro Pen 3 (ACP-500)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-acp-500.md)
+        * [7P: Wacom Intuos 2 Airbrush pen (XP-400E)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-intuos-2-airbrush-pen-xp-400e.md)
       * [Wacom pen compatibility](product-links/wacom/wacom-accessories/wacom-pen-compatibility.md)
   * [Xencelabs](product-links/xencelabs/README.md)
     * [Xencelabs Quick Keys](product-links/xencelabs/xencelabs-quick-keys.md)
