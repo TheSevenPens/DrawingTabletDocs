@@ -505,6 +505,7 @@
   * [Measuring hover height](process/measuring-hover-height.md)
   * [Measuring pressure](process/measuring-pressure.md)
   * [Measuring display sharpness](process/measuring-display-sharpness.md)
+  * [Measuring report rate](process/measuring-report-rate.md)
   * [Measuring diagonal wobble](process/measuring-diagonal-wobble.md)
   * [Diagonal wobble samples](process/diagonal-wobble-samples.md)
   * [Perfect pressure sensitive lines](process/perfect-pressure-sensitive-lines.md)
