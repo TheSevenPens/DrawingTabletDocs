@@ -203,7 +203,7 @@
     * [Finding the model number of a drawing tablet](guides/general/finding-the-model-number-of-a-drawing-tablet.md)
     * [Using older drawing tablets](guides/general/using-older-drawing-tablets.md)
     * [Electromagnetic Interference](guides/general/electromagnetic-interference.md)
-    * [Using a drawing tablet with an iPad or iPhone](guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
+    * [Connecting a drawing tablet to an iPad or iPhone](guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
     * [Using a drawing tablet with an Android device](guides/general/using-a-drawing-tablet-with-an-android-device.md)
     * [Using a drawing tablet with a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
     * [Chromebook testing results](guides/general/chromebook-testing-results.md)
