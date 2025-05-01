@@ -36,3 +36,10 @@ I believe the reason we don't see higher report rates is that for a drawing scen
 However, some people do play games with tablets. For example many people who play osu use a drawing tablet. And for a long time, they've wanted a drawing tablet with 1000 hz report rate. Because it would really help them play better.
 
 I think tablet brands are aware of this desire from gamers but they haven't done anything to make the tablets work better for these scenarios.
+
+## Finding report rates
+
+Different tools can be used: [Measuring report rate](../../process/measuring-report-rate.md)
+
+
+
