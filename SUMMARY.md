@@ -279,7 +279,7 @@
   * [Apple](product-links/apple/README.md)
     * [Apple iPad](product-links/apple/apple-ipad.md)
     * [Apple Pencil](product-links/apple/apple-pencil.md)
-    * [Using an iPad as a drawing tablet connected to a computer](product-links/apple/using-an-ipad-as-a-drawing-tablet-connected-to-a-computer.md)
+    * [Connecting an iPad to a computer as a drawing tablet](product-links/apple/connecting-an-ipad-to-a-computer-as-a-drawing-tablet.md)
     * [7P: Apple iPad](product-links/apple/7p-apple-ipad.md)
     * [7P: Apple iPad versus drawing tablets](product-links/apple/7p-apple-ipad-versus-drawing-tablets.md)
     * [7P: Apple iPad versus Samsung Galaxy Tab S](product-links/apple/7p-apple-ipad-versus-samsung-galaxy-tab-s.md)

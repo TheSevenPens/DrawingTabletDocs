@@ -7,8 +7,8 @@ I have an extensive series of notes on how my thoughts about using the iPad and 
 * [<mark style="background-color:green;">**7P: Apple iPad**</mark>](7p-apple-ipad.md)&#x20;
 * [**7P: Apple iPad versus drawing tablets**](7p-apple-ipad-versus-drawing-tablets.md)
 * [**7P: Apple iPad versus Samsung Galaxy Tab S**](7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
-* [**Using an iPad with your computer as a pen display** ](../../guides/pen-displays/using-an-ipad-with-your-computer-as-a-pen-display.md) &#x20;
-* [**Using a drawing tablet with an iPad or iPhone**](../../guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)  &#x20;
+* [**Connecting an iPad to your computer as a drawing tablet**](connecting-an-ipad-to-a-computer-as-a-drawing-tablet.md)
+* [**Connecting a drawing tablet to an iPad or iPhone**](../../guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)&#x20;
 * Information on [**Apple Pencil**](apple-pencil.md)&#x20;
 
 ## 2025 Apple M3 iPad Air
