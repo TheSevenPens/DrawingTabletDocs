@@ -1,6 +1,6 @@
 # 7P: Wacom Intuos Pro 2025 (PTK-x70)
 
-ummary
+## summary
 
 This is an EXCELLENT tablet, but may not be the right one for you if:
 
@@ -118,7 +118,7 @@ Although the included Pro Pen 3 does not support barrel rotation. You can use th
 
 ### Moving between high and low pressure worked well
 
-<figure><img src="../../../.gitbook/assets/image (582).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
 
 ### Diagonal wobble
 
@@ -200,17 +200,99 @@ The 2017 models had unusal aspect ratios, while the new devices all have 16x9 (o
 
 <figure><img src="../../../.gitbook/assets/Slide_20250430_165118.jpg" alt=""><figcaption></figcaption></figure>
 
+### Device size
+
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
+
+
+
+### Active area
+
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p><p></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
+
+### Active area with Force Proportions enabled
+
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br>544.06 cm2</p><p></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
+
+## Aspect ratio
+
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p><p></p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
+
+## Size of Intuos Pro 2025 Large vs Intuis Pro 2017 medium
+
 Also note that the new Intuos Pro 2025 large is physically very close in size to the Intuos Pro 2017 medium. This may make the 2025 large model a bit easier to place on the desktop for those of you interested in a large pen tablet.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250430_165245.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Slide_20250430_165247.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-##
+## Bezels
 
-##
+With the device sizes shrinking but the active area increasing, the bezels have really changed size.
 
-##
+* 3 Bezels have significantly shrunk
+* TOP bezel which has grown a bit to hold the ExpressKeys and dials
+* All numbers here are approximate
+
+<table><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.2%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
+
+### Bezel size visualized: Intuos Pro 2017 Medium vs Intuos Pro 2025 medium
+
+Numbers don't capture the the difference. Here's a photo with purple tape over the right bezel of both tablets.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_043807.jpg" alt=""><figcaption></figcaption></figure>
+
+### Bezel size visualized: Movink 13 vs Intuos Pro 2025 medium
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_043937.jpg" alt=""><figcaption></figcaption></figure>
+
+## Bezels vs Hand resting on the tablet
+
+Bezels provide a place for your hand to rest as you draw. This is a fact I don't think I appreciated until I drew more with the Intuos Pro 2025 medium.
+
+**When drawing with the Intuos Pro 2017 medium**, as the pen reaches the edge of the active area the hand can stay on the bezel almost the entire time. Only sometimes does the hand need to touch the desk - and even then the hand is still mostly resting on the tablet.
+
+**When drawing with the Intuos Pro 2025 medium**, even when the pen is some distance from the edge of the active area the hand will make contact and partially rest on the desk. By the time the pen reaches the edge of the active area, the entire hand will be resting on the desk.
+
+## Bezel edge
+
+There is a slight bump at the edge of the tablet. In photos, it is hard to tell any difference in photos with the Intuos Pro 2025 medium and the Intuos Pro 2017 medium.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_044517.jpg" alt=""><figcaption></figcaption></figure>
+
+But you can feel the difference. The diagram below exaggerates the feeling, but with the 2025 medium you can definitely feel the edge of the tablet more. While not painful and it does not "dig into" the hand, I do notice it and other users might be disturbed by it.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_044721.png" alt=""><figcaption></figcaption></figure>
+
+## Are the bezels a problem?
+
+Answer: IT DEPENDS
+
+It was **OK** for ME.
+
+* Tablet is very thin - hand did not “fall off a cliff”
+* Hand will transition from tablet to the desk
+* Edge did not “dig into” hand – but definitely more noticeable
+* I can now understand why people like wider bezels-
+
+However, ...
+
+* As of the May 2025, I’m still adapting to it
+* For some people this could be an issue
+
+In the future: ...
+
+* I will try to test out smaller bezels with any other tablet
+
+## Thickness
+
+The tablet is slightly thinner than the previous 2017 edition and has a slight wedge shape where thinner at the bottom and thicker at the top.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_045112.jpg" alt=""><figcaption></figcaption></figure>
+
+The thickness and wedge shape are very similar to the Wacom Movink 13.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_045114.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Connections and ports
 
@@ -224,10 +306,6 @@ Also note that the new Intuos Pro 2025 large is physically very close in size to
 
 Wacom sells texture sheets in case you scratch up the drawing surface and want to restore it to its original pristine state. The texture sheets are available in 3 sizes (Large, Medium, Small) and only one texture (Standard).
 
-## Device size
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
-
 
 
 ## Bezel width
@@ -240,20 +318,6 @@ Bezels in general have shrunk dramatically. Only the top bezel has grown to acco
 | RIGHT      | 60                         | 10                         | -50mm | -83.3%  |
 | BOTTOM     | 35                         | 10                         | -25mm | -71.2%  |
 | LEFT       | 60                         | 10                         | -50mm | -83.3%  |
-
-## Active area
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p><p></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
-
-## Active area with Force Proportions enabled
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br>544.06 cm2</p><p></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
-
-
-
-## Aspect ratio
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p><p></p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
 
 
 
