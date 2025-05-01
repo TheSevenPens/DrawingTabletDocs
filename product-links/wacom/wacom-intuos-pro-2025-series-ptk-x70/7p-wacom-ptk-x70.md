@@ -276,6 +276,32 @@ Available only in Wacom Center for Intuos Pro 2025
 * ExpressKey actions
 * Dial actions
 
+## Pen Report Rate
+
+Scenario: PTK-670 + Pro Pen 3 + Wired&#x20;
+
+* Pro Pen 3 (ACP-500)
+  * OpenTabletDriver + OTD Table debugger: ReportRate = 300 hz
+  * OpenTabletDriver + skill-test.net = 300hz
+  * Wacom driver + skill-test.net = 300hz
+* Pro Pen 2 (KP-504E)
+  * OpenTabletDriver + OTD Table debugger: ReportRate = 200 hz
+  * OpenTabletDriver + skill-test.net = 200hz
+  * Wacom driver + skill-test.net = 200hz
+
+Scenario: PTK-670 + Pro Pen 3 + Wireless
+
+* Pro Pen 3 (ACP-500)
+  * OpenTabletDriver: N/A OTD does not support wireless connection&#x20;
+  * Wacom driver + skill-test.net = 260hz
+* Pro Pen 2 (KP-504E)
+  * OpenTabletDriver: N/A OTD does not support wireless connection&#x20;
+  * Wacom driver + skill-test.net = 260hz
+
+Reference:
+
+* Skill-test.net page:  [https://skill-test.net/polling-rate-test](https://skill-test.net/polling-rate-test)
+
 ## Pen compatibility testing
 
 <table data-header-hidden><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">7P Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTH-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
