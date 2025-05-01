@@ -134,6 +134,22 @@ EVALUATION: VERY GOOD (VERY LOW)
 
 As expected, the pointer trailed the physical tip of the only by a little bit. It was about the same as the pointer lag of the Intuos Pro 2017 model. In general, Wacom has excellent, low pointer lag in their pen tablets.
 
+
+
+## Artifacts at low pressure
+
+EVALUATION: TYPICAL. When using large brushes and drawing at very light pressure you may notice a lot of instability in the pressure. This is normal for Wacom Intuos Pro (and many other tablets and pens). You can use pressure curves and pressure smoothing to minimize these issues if you encounter them.
+
+Keep in mind this is a very extreme test. Normally you should not notice these issues.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_060218.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_060254.png" alt=""><figcaption></figcaption></figure>
+
+These were the pressure curves and pressure smoothign amounts (in Krita) that controlled that behavior.
+
+<figure><img src="../../../.gitbook/assets/Slide_20250501_060347.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Auxiliary inputs
 
 ### Multitouch
@@ -355,9 +371,12 @@ The included USB cable no longer has an L-shaped connecter like the cable that c
 
 Summary
 
-* Can pair with two devices wireless
-* Physical switch on top controls which wireless connection
-* Did not test wireless
+* Physical switch on top controls which whether to use wired or one of two wireless connections
+* Can pair with two devices wireless. Switching between devices accomplished through the physical switch. This makes it convenient to when moving between computers since all you have to do is change the switch position and you do not have to re-pair the device each time.
+* Wireless testing
+  * Wirelss worked
+  * I was easily able to switch between two paired devices usinfg the switch
+  * In my subjective evaluation the wireless connection has a little bit more pointer lag than the wired connection. If may not bother many people but if you want/need the lowst pointer lag, you should use wired connections.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250501_052754.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -365,20 +384,7 @@ Summary
 
 Wacom sells texture sheets in case you scratch up the drawing surface and want to restore it to its original pristine state. The texture sheets are available in 3 sizes (Large, Medium, Small) and only one texture (Standard).
 
-
-
-## Bezel width
-
-Bezels in general have shrunk dramatically. Only the top bezel has grown to accommodate the ExpressKeys and Dials. The numbers shown in the table below are approximate.
-
-| Bezel side | <p>Bezel</p><p>PTH-660</p> | <p>Bezel</p><p>PTK-670</p> | Delta | %change |
-| ---------- | -------------------------- | -------------------------- | ----- | ------- |
-| TOP        | 30                         | 40                         | +10mm | +33.3%  |
-| RIGHT      | 60                         | 10                         | -50mm | -83.3%  |
-| BOTTOM     | 35                         | 10                         | -25mm | -71.2%  |
-| LEFT       | 60                         | 10                         | -50mm | -83.3%  |
-
-
+<figure><img src="../../../.gitbook/assets/Slide_20250501_055149.png" alt=""><figcaption></figcaption></figure>
 
 ## Driver UI > Wacom Center vs Wacom Tablet Properties
 
@@ -427,4 +433,49 @@ Reference:
 
 ## Pen compatibility testing
 
-<table data-header-hidden><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">7P Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTH-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">7P Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTH-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>SPECIFIC pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
+
+## Compatibility with specific Wacom UD EMR pens
+
+Wacom lists these pens as compatible with Intuos Pro 2025
+
+* Hi-uni DIGITAL for Wacom (CP20206BZ)
+* STAEDTLER, Noris digital
+* STAEDTLER Noris digital jumbo
+* LAMY safari twin pen all black EMR Digital Writing
+* LAMY AL-star black EMR Digital Writing
+* Dr. Grip Digital for Wacom (CP202A01A/CP202A02A)
+* THIRDWAVE Mitsubishi 9800 digitizer pen
+* Galaxy S22 Ultra S pen
+* Kaweco AL SPORT Connect EMR Black
+
+I also tested these UD EMR pens and can confirm they work
+
+* Wacom CP-913 (comes with Wacom One 2019)
+* Wacom CP-923 (comes with Wacom One 2023)
+* Samsung S Pen (that comes with Samsung Galaxy Tab)
+* Samsung S Pen creator edition
+* Samsung Galaxy S24 Ultra S pen
+
+## Notes on UD EMR pens with the Wacom Intuos Pro 2025
+
+Compatibility
+
+Not all UD EMR pens are compatible. But many are. Before you buy any UD EMR confirm compatiblity first.
+
+Drawing performance
+
+* UD EMR pens have  noticeably higher IAF
+* UD EMR pens have much lower max pressure
+* Some UD EMR pens have only 1 button
+* Stroke quality is just OK
+
+Cost benefits
+
+* UD EMR pens cost \~$30 USD
+* $130 USD for Pro Pen 3
+* $80 USD for Pro Pen 2
+
+Recommendation
+
+* Consider UD EMR pens as a backup pens
