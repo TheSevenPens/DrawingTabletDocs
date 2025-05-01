@@ -16,3 +16,8 @@ In osu, go to settings, ten turn on raw input. There is a counter next to it for
 
 You have to keep the hovering and pen moving to get the max report rate since these tools only report a change when the pointer has moved.
 
+## Notes
+
+* For a given tablet, you may get different report rates when used wired and wirelessly
+* For a given tablet, you may get different report rates with different pen models
+
