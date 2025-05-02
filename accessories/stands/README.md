@@ -18,7 +18,7 @@ VESA is a standard to mount displays to various things using screws. More here: 
 
 <div align="left"><figure><img src="../../.gitbook/assets/20240528_113803.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand </p></figcaption></figure></div>
 
-Here is another stand from Huion. This was works fine, though I find its level a little more diffucult to find and use.
+Here is another stand from Huion. This was works fine, though I find its level a little more difficult to find and use.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (79).png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure></div>
 
@@ -26,9 +26,17 @@ Here is another stand from Huion. This was works fine, though I find its level a
 
 These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable.
 
-Some people have had success with the Ergotron Neo-Flex Stand. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally_found_a_stand_for_my_cintiq_pro_27/)&#x20;
+
+
+### Note on stand versus pen display size
 
 It's important to match the stand with the height of the pen display. A stand designed for a smaller pen display will have its angle adjustment lever in a position so that it is convenient to reach by putting your hand over the top of the display. However when used with a large display that lever may be much more difficult to reach.
+
+Options
+
+Some people have had success with the **Ergotron Neo-Flex Stand**. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally_found_a_stand_for_my_cintiq_pro_27/)&#x20;
+
+In 2025 XP-Pen released the [X&#x50;**-Pen ACS15 Ergo Stand**](../../product-links/xp-pen/xp-pen-acs15-ergo-stand.md). This reminds me a bit of the STAND-V100R which I like so the ACS15 is one I plan to get soon.
 
 ## Unattached stands
 
@@ -48,7 +56,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (78).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
 
-Stand options:
+### Options
 
 * [Parblo PR-100 stand](parblo-pr-100-stand.md)
 * [XP-Pen AC41 and AC42 stands](xp-pen-ac41-ac42-stands.md) &#x20;
@@ -62,12 +70,8 @@ Stand options:
 * I use the Huion ST100A stand with my Huion Kamvas Pro 19
 * I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](7p-vivo-v100r.md)
 
-
-
 ## Links
 
 * [Teoh on Tech - Comparison of Huion stands for tablets and pen displays](https://www.youtube.com/watch?v=axJV4C-Lp_o) 2025/01/17&#x20;
 * [Teoh on Tech - XP-Pen tablet and pen display stands: AC41 and AC42](https://www.youtube.com/watch?v=mkgdbuLUtOU) 2020/12/12
 * [Teoh on Tech - Review: Parblo PR112 & PR110 stand for tablet & laptops](https://www.youtube.com/watch?v=vzu49ulI7PE) 2021/08/02
-*
-
