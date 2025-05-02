@@ -422,6 +422,7 @@
     * [XP-Pen pens](product-links/xp-pen/xp-pen-pens/README.md)
       * [7P: XP-Pen X3 Pro pens](product-links/xp-pen/xp-pen-pens/7p-xppen-x3pro-pen.md)
       * [7P: XP-Pen X3 Elite pen](product-links/xp-pen/xp-pen-pens/7p-xppen-x3elite-pen.md)
+    * [XP-Pen ACS15 Ergo Stand](product-links/xp-pen/xp-pen-acs15-ergo-stand.md)
   * [Ugee](product-links/ugee.md)
 * [Application links](app-links/README.md)
   * [MyPaint](app-links/mypaint.md)
