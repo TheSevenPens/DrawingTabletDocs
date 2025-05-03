@@ -190,6 +190,18 @@ It is possible to accidentally hit he ExpressKeys and dials depending on how the
 
 **I did accidentally hit the ExpressKeys when I meant to hit the dial and vice versa**. They are very similar in size, shape, and close together. Often I reached and touched the wrong one. Over time I may have been to train my brain a bit better.
 
+## Hand placement
+
+Another topic that comes up with the expresskeys is how the hand that uses the expresskey is placed on the tablet.
+
+With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without  covering the active area.
+
+<figure><img src="../../../.gitbook/assets/PTH-660-two-hands (Large) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+However with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drtawing hand out of the way much more often.
+
+<figure><img src="../../../.gitbook/assets/ptk-670-two-hands (Large) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Usage notes on dials
 
 * Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.&#x20;
