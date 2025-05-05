@@ -320,6 +320,7 @@
     * [Huion Inspiroy](product-links/huion/huion-inspiroy/README.md)
       * [7P: Huion Inspiroy Giano (G930L)](product-links/huion/huion-inspiroy/7p-huion-g930l.md)
       * [7P: Huion Inspiroy HS611](product-links/huion/huion-inspiroy/7p-huion-hs611.md)
+      * [7P: Huion Inspiroy WH1409V2](product-links/huion/huion-inspiroy/7p-huion-inspiroy-wh1409v2.md)
     * [Huion KeyDial](product-links/huion/huion-keydial.md)
     * [Huion pens](product-links/huion/huion-pen-models/README.md)
       * [Huion PenTech](product-links/huion/huion-pen-models/huion-pentech.md)
