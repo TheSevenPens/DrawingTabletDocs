@@ -1,5 +1,15 @@
 # 7P: Samsung Galaxy Tab S8 Ultra
 
+## Overall
+
+* This is a good tablet with a notable bright crips OLED display.
+* Drawing experience is typical for a Samsung Galaxy Tab S tablet - which is good.
+* I did feel it drained the battery faster than other tablets in my collection - even when I wasn't using it for heavy-duty tasks
+
+{% hint style="info" %}
+These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](7p-samsung-galaxy-tab-s-series.md).
+{% endhint %}
+
 ## Device size
 
 * Size: 326.4 x 208.6 x 5.5 mm (12.85 x 8.21 x 0.22 in)

@@ -69,19 +69,18 @@
 
 ## Samsung Galaxy Tab S6&#x20;
 
-### S6 Lite 2024
+### S6 Lite (2024 edition)
 
 * Samsung announced this early in 2024 but it isn't widely available for purchase.&#x20;
 * [Brad Colbow review of the Samsung Galaxy S6 lite 2024](https://www.youtube.com/watch?v=ZhEq2pMUq28) 2024/05/03
 
-### S6 Lite 2022
+### S6 Lite (2022 edition)
 
-* **My notes on this tablet**
-  * If you are a beginner budget is constrained you might find that this slightly older tablet might meet your needs and is still not too expensive ($230)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-samsung-galaxy-tab-s6-lite-2022-edition.md)&#x20;
 * [Teoh on Tech review of Samsung Tab S6 Lite 2022](https://youtu.be/mbdu6ID93xA) Nov 26, 2022
 * [Brad Colbow: Review of Samsung Galaxy Tab S6 Lite (2022 Edition)](https://youtu.be/YTzQRP5G1aw) Jun 28, 2022
 * [EyekooDrawsStuff: Affordable iPad alternative for drawing beginners - Galaxy Tab S6 Lite](https://www.youtube.com/watch?v=l6WwSRp63Zs) Nov 2, 2022
 
-### S6 Lite 2020
+### S6 Lite (2020 edition)
 
 * Get a more recent version edition (2022 or above) instead

@@ -8,9 +8,13 @@ It's just an all around good device.
 
 * The drawing performance is very good
 * The screen looks good.
-* there are many apps you can use with it.
+* There are many apps you can use with it.
 * It's at a very convenient price.
 * And it's highly competitive with an Apple iPad.
+
+{% hint style="info" %}
+These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](7p-samsung-galaxy-tab-s-series.md).
+{% endhint %}
 
 ## Line wobble
 
