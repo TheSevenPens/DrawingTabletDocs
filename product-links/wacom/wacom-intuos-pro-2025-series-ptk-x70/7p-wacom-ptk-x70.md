@@ -419,12 +419,17 @@ Available only in Wacom Center for Intuos Pro 2025
 
 ## Pen Report Rate
 
-Overall
+Overall for PTK-670 with Pro Pen 3
 
 * Wired: 300Hz
 * Wireless: 260Hz
 
-<table><thead><tr><th width="127">Scenario</th><th width="179.9166259765625">Driver</th><th width="113.75">Report Rate</th><th>Tested with</th></tr></thead><tbody><tr><td>PTK-670<br>Pro Pen 3<br>Wired </td><td>OpenTabletDriver</td><td>300Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wired </td><td>Wacom driver</td><td>300Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired </td><td>OpenTabletDriver</td><td>200Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired </td><td>Wacom driver</td><td>200Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr></tbody></table>
+Overall for PTK-670 with Pro Pen 2
+
+* Wired: 260Hz
+* Wired: 230Hz
+
+<table><thead><tr><th width="127">Scenario</th><th width="179.9166259765625">Driver</th><th width="113.75">Report Rate</th><th>Tested with</th></tr></thead><tbody><tr><td>PTK-670<br>Pro Pen 3<br>Wired </td><td>OpenTabletDriver</td><td>300Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wired </td><td>Wacom driver</td><td>300Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired </td><td>OpenTabletDriver</td><td>200Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired </td><td>Wacom driver</td><td>200Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wireless</td><td>Wacom driver</td><td>230Hz</td><td>skill-test.net</td></tr></tbody></table>
 
 Reference:
 
