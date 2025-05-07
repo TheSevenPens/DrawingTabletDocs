@@ -10,17 +10,40 @@ I suggest you first read [**the beginner's guide**](beginners-guide.md)&#x20;
 If you don't have a drawing tablet, then try this [**detailed buying guide**](../buying-a-drawing-tablet/).&#x20;
 {% endhint %}
 
-## Get prepped
+## Find out the tablet's model number
 
 * Make sure you know the model number of the tablet. This will help you in many ways later. More here: [**Finding the model number of a drawing tablet**](../guides/general/finding-the-model-number-of-a-drawing-tablet.md).&#x20;
-* Make sure you know how to [**contact support**](contacting-support.md) for your tablet manufacturer&#x20;
-* Read the manual for your tablet. You don't need to even open the box. You can download the manual from the manufacturer website.
+
+## Identify how to contact support
+
+* The vast majority of time everything "just works" but you may need help or a question answered by customer support. So, Make sure you know how to [**contact support**](contacting-support.md) for your tablet manufacturer&#x20;
+
+## Read the user manual
+
+* Most questions you have will be answered already in the user manual.&#x20;
+* You will spare yourself a lot of frustration if you read it first.
+* You don't need to even open the box. You can download the manual from the manufacturer website.
+* The most important thing to understand in the user manual is how the tablet physically connects to your computer. This is especially important if you have a pen display (screen tablet).
 
 ## Don't drop the pen
 
 * If drop the pen to the floor, usually it will be unharmed.
 * When you are not using it make sure its stored in such a way it doesn't fall off your desk.
 * HOWEVER, sometimes a pen seems to hit just right and the fall can damage the pen.&#x20;
+
+## Keep the box safe
+
+* You may need to return or transport the tablet, the original box is the best way of doing thus.
+
+## Verify the box contains what it should
+
+The box will usually list everything that is supposed to be inside it. If you can't see it there look for it in the user manual, or the manufacturer website.
+
+Then verify that box contains everything that is expected.
+
+99.9999% if of the time it will have everything is supposed to have. But every now and then you might encounter a box that is missing a cable.
+
+&#x20;
 
 ## Prepare for replacing your pen
 
@@ -42,7 +65,7 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 ## Connect the tablet
 
 * Pen tablet - There will be a simple USB cord. These days the cords are all USB-C cords.
-  * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first
+  * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first. Once everything is working, then try wireless.
 * Pen display - There are several options. See [**connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md)
 
 ## The NO SIGNAL problem with pen displays
@@ -58,7 +81,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 * In drawing apps which are pen aware can take advantage of other features like pressure and tilt.
 * If you are using a drawing program, You don't need to hold down any button for it to draw, just put touch the pen to the tablet.
 
-## Active Area (aka Working Area)
+## Learn what the active area is (aka "Working Area")
 
 * The active area on the tablet is the region of the tablet that is sensitive to the pen.&#x20;
   * Wacom calls this the "Active Area" in their docs. In their driver, it is called "Mapping"&#x20;
@@ -67,17 +90,25 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 * Go into the driver and and find the active area and get familiar with what it looks like. It's one of the most common things you'll need to adjust.
 * More here: [**Active Area**](../core-features/active-area.md)
 
-## Map the Active Area to a single display
+## Pen tablets: map the Active Area to a single display&#x20;
 
 * This step is needed for pen tablets (the ones without a screen)
-* The active area can be mapped to 1 of your displays or multiple displays.&#x20;
+* The active area can be mapped to one of your displays or multiple displays.
+* By default, they are often mapped to multiple displays.&#x20;
 * For now, map the active area to a single display.
+* If you want to use both displays, later on you can configure a "display toggle" feature that lets you switch between displays by pressing a button on the pen or the tablet.
 
-## Match aspect ratios between the active area and your display
+## Pen displays: map the Active Area to your pen tablet if needed
 
-* This step is needed for pen tablets (the ones without a screen). You don't have to do this for other kinds of tablets.&#x20;
-* <mark style="color:red;">**This step is important for pen tablets.**</mark> If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
-* Change the active area settings to use the same aspect ratio as the screen. Explanation and instruction here: [**Matching aspect ratios**](../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md).&#x20;
+* With a pen tablet, the active area should be mapped to the screen of your tablet.
+* Sometimes however, drivers get confused and they initially map the active area to some other display that your have. When this happens you will move the pen on your tablet but you'll see the mouse pointer move on a different display.&#x20;
+* This is VERY easy to solve:   [**Troubleshoot pen moving pointer on the wrong display** ](../troubleshooting/troubleshoot-pen-moving-pointer-on-the-wrong-display.md)
+
+## Pen tablets: Enable Force Proportions to match aspect ratios between the active area and your display
+
+* <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You don't have to do this for pen displays.&#x20;
+* If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
+* Explanation and instructions here: [**Matching aspect ratios with Force Proportions**](../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md).&#x20;
 
 ## Windows&#x20;
 
@@ -94,8 +125,6 @@ Perform this configuration: [**Disable the press-and-hold ring in Windows**](../
 * **Other applications -** Look here to find a large number of applications to explore: [**applications**](../applications/)&#x20;
 
 &#x20;
-
-
 
 
 
