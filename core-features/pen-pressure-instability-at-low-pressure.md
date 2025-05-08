@@ -1,4 +1,4 @@
-# Pen pressure stability
+# Pen pressure instability at low pressure
 
 ## Overview
 
@@ -36,7 +36,7 @@ All of the example below were created with the Wacom Intuos Pro 2017 M (PTH-660)
 
 ## Addressing these problems
 
-See: [**Troubleshoot low pressure drawing problems**](../troubleshooting/troubleshoot-low-pressure-drawing-problems.md)
+See: [**Troubleshoot low pressure drawing problems**](../troubleshooting/tsg-low-pressure-drawing-problems.md)
 
 
 
