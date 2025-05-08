@@ -1,4 +1,4 @@
-# Troubleshoot pen display cycles on and off
+# TSG: Pen display turns on and off constantly
 
 ## Symptoms
 
@@ -20,11 +20,11 @@ If you are connecting via USB C cable, then try a different port because maybe i
 
 ### Ambient heat
 
-In at least one case I've encountered a situation where someone's pent up but performs this cycling but it is not due to being underpowered. In this case it had to deal with how warm the pen display was getting due to the current weather conditions.
+I've encountered a situation where someone's pen displayperformed this power cycling - but it was not due to being underpowered. It had to deal with how warm the pen display was getting due to the current weather conditions. See: [r/huion - Help\] Kamvas 13 turning on and off repeatedly](https://www.reddit.com/r/huion/comments/1fzfihm/help_kamvas_13_turning_on_and_off_repeatedly/).
 
-Here is the thread from Reddit which describes this case.
+This is EXTREMELY rare and I suspect linked to a defect in that specific tablet. It is not something to expect from a tablet.
 
-[https://www.reddit.com/r/huion/comments/1fzfihm/help\_kamvas\_13\_turning\_on\_and\_off\_repeatedly/](https://www.reddit.com/r/huion/comments/1fzfihm/help\_kamvas\_13\_turning\_on\_and\_off\_repeatedly/)
+
 
 &#x20;
 
