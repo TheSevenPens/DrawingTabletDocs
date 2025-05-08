@@ -34,7 +34,7 @@ The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom
   * If you want to spend less
     * One by Wacom MEDIUM (CTL-672)&#x20;
     * Wacom Intuos Medium (CTL-6100)
-    * Wacom Intuos bluetooth Medium (CTL-6100WL)&#x20;
+    * Wacom Intuos Bluetooth Medium (CTL-6100WL)&#x20;
 * **Photo-editing** - i.e. you aren't doing anything that requires "strokes" then the One by Wacom SMALL (CTL-472) is fine.
 * **Using the tablet as a mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
 * **Taking notes**. I don't recommend pen tablets in general for taking notes. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../basics/use-cases/taking-notes-with-drawing-tablets.md).&#x20;
@@ -58,17 +58,17 @@ Each product line uses different pens. And the pens can only be used within that
 
 | Tablet                                                                             | Included pen                 |
 | ---------------------------------------------------------------------------------- | ---------------------------- |
-| <p><strong>One by Wacom</strong><br>(CTL-472, CTL-672)</p>                         |  Wacom Pen 2K (LP-190K)      |
-| <p><strong>Wacom One 2023 pen tablets</strong></p><p>(CTC-4100WL, CTC-6110WL)</p>  | Wacom One 2023 Pen (CP-923)  |
+| <p><strong>One by Wacom</strong><br>(CTL-472, CTL-672)</p>                         |  Wacom 2K Pen 2K (LP-190K)   |
+| <p><strong>Wacom One 2023 pen tablets</strong></p><p>(CTC-4110WL, CTC-6110WL)</p>  | Wacom One 2023 Pen (CP-923)  |
 | <p><strong>Intuos</strong></p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) </p> | Wacom Pen 4K (LP-1100K)      |
 | <p><strong>Intuos Pro 2017</strong><br>(PTH-460, PTH-660, PTH-860)</p>             | Pro Pen 2 (KP-504E)          |
 | <p><strong>Intuos Pro 2025</strong><br>(PTH-470, PTH-670, PTH-870)</p>             | Pro Pen 3 (ACP-500)          |
 
 
 
-Of the pens identified, the Wacom Pro Pen 2 and Pro Pen 3 is the best in terms of design, materials, shape, weight distribution. P
+Of the pens identified, the Wacom Pro Pen 2 and Pro Pen 3 is the best in terms of design, materials, shape, weight distribution.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/7P SLIDE current wacom default pens.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Slide_20250508_161455.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Overall drawing experience
 
@@ -84,7 +84,7 @@ More than pressure levels, the **pressure range** has a greater impact on your d
 
 **Pens pressure range compared**&#x20;
 
-<table data-full-width="true"><thead><tr><th width="233">Pen</th><th>Tablet</th><th width="97">Levels</th><th width="107">IAF</th><th>max pressure</th></tr></thead><tbody><tr><td><p><strong>Wacom Pen 2K</strong></p><p>(LP-190K)</p></td><td><p>One by Wacom</p><p>(CTL-472, CTL-672)</p></td><td>2048</td><td>&#x3C;1gf</td><td>320gf</td></tr><tr><td><p><strong>Wacom One 2023 Pen</strong> </p><p>(CP-923) </p></td><td><p>Wacom One pen tablets</p><p>(CTC-4100WL, CTC-6110WL)</p></td><td>4096</td><td>&#x3C;8gf</td><td>291gf</td></tr><tr><td><p><strong>Wacom Pen 4K</strong></p><p>(LP-1100K)</p></td><td><p>Intuos</p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) </p></td><td>4096</td><td>&#x3C;1gf</td><td>226gf</td></tr><tr><td><p><strong>Wacom Pro Pen 2</strong></p><p>(KP-504E) </p></td><td>Intuos Pro<br>(PTH-460, PTH-660, PTH-860)</td><td>8192 </td><td>&#x3C;1gf</td><td>794gf</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="233">Pen</th><th width="97">Levels</th><th width="107">IAF</th><th>max pressure</th></tr></thead><tbody><tr><td><p><strong>Wacom Pen 2K</strong></p><p>(LP-190K)</p></td><td>2048</td><td>&#x3C;1gf</td><td><p>GOOD</p><p>300 to 400 gf</p></td></tr><tr><td><p><strong>Wacom One 2023 Pen</strong> </p><p>(CP-923) </p></td><td>4096</td><td>&#x3C;8gf</td><td><p>OK to GOOD</p><p>200 to 300gf</p></td></tr><tr><td><p><strong>Wacom Pen 4K</strong></p><p>(LP-1100K)</p></td><td>4096</td><td>&#x3C;1gf</td><td><p>GOOD</p><p>400 to 600gf</p></td></tr><tr><td><p><strong>Wacom Pro Pen 2</strong></p><p>(KP-504E) </p></td><td>8192 </td><td>&#x3C;1gf</td><td><p>VERY HIGH</p><p>700gf to 800gf</p></td></tr><tr><td><p><strong>Wacom Pro Pen 3</strong></p><p>(ACP-500) </p></td><td>8192 </td><td>&#x3C;1gf (assumed)</td><td><p>VERY HIGH</p><p>600gf to 700gf</p></td></tr></tbody></table>
 
 Notes:
 
@@ -189,11 +189,7 @@ The size of the tablet is based on it's active area which is the region on the t
 
 **Aspect Ratio**: Most monitors are 16:9 (1.78) or 16:10 (1.60) If the Aspect Ratio of the tablet does not match the monitor, that means your strokes will be slightly distorted. <mark style="color:red;">So, remember to enable the</mark> <mark style="color:red;"></mark><mark style="color:red;">**Force Proportions**</mark> <mark style="color:red;"></mark><mark style="color:red;">checkbox to have undistorted strokes</mark>. More info here: [https://youtu.be/9oAvsJk5ESU](https://youtu.be/9oAvsJk5ESU)&#x20;
 
-
-
-<table><thead><tr><th>Tablet</th><th width="152">Size</th><th width="113">Diagonal</th><th>Aspect Ratio (approximate)</th></tr></thead><tbody><tr><td>One by Wacom SMALL (CTL-472)</td><td> 5.98" x 3.74"</td><td>7.06"</td><td>(4:3) 1.44</td></tr><tr><td>One by Wacom MEDIUM (CTL-672)</td><td> 8.5" x 5.31"</td><td>10.03"</td><td>(4:3) 1.47</td></tr><tr><td>Wacom One S (CTC-4110WL)</td><td> 5.98" x 3.74"</td><td>7.06"</td><td>(16:10) 1.60</td></tr><tr><td>Wacom One M (CTC-611WL)</td><td> 8.5" x 5.31"</td><td>10.03"</td><td>(16:10) 1.60</td></tr><tr><td>Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL)</td><td> 5.98" x 3.74"</td><td>7.06"</td><td>(16:10) 1.60</td></tr><tr><td>Wacom Intuos MEDIUM (CTL-6100WL)</td><td> 8.5" x 5.31"</td><td>10.03"</td><td>(16:10) 1.60</td></tr><tr><td>Intuos Pro 2017 SMALL (PTH-460)</td><td> 6.30i" x 3.94"</td><td>7.43"</td><td>(4:3) 1.440</td></tr><tr><td>Intuos Pro 2017 MEDIUM (PTH-660)</td><td> 8.82" x 5.83"</td><td>10.57"</td><td>(3:2) 1.514</td></tr><tr><td>Intuos Pro 2017 LARGE (PTH-860)</td><td> 12.34" x 8.50"</td><td>14.91"</td><td>(4:3) 1.44</td></tr><tr><td>Intuos Pro 2025 SMALL (PTH-470)</td><td></td><td></td><td>16x9 (1.78_</td></tr><tr><td>Intuos Pro 2025 MEDIUM (PTH-670)</td><td></td><td></td><td>16x9 (1.78_</td></tr><tr><td>Intuos Pro 2025 LARGE (PTH-870)</td><td></td><td></td><td>16x9 (1.78_</td></tr></tbody></table>
-
-
+<table><thead><tr><th>Tablet</th><th width="152">Size</th><th width="113">Diagonal</th><th>Aspect Ratio (approximate)</th></tr></thead><tbody><tr><td>One by Wacom SMALL (CTL-472)</td><td> 5.98" x 3.74"</td><td>7.06"</td><td>(4:3) 1.44</td></tr><tr><td>One by Wacom MEDIUM (CTL-672)</td><td> 8.5" x 5.31"</td><td>10.03"</td><td>(4:3) 1.47</td></tr><tr><td>Wacom One S (CTC-4110WL)</td><td> 5.98" x 3.74"</td><td>7.06"</td><td>(16:10) 1.60</td></tr><tr><td>Wacom One M (CTC-611WL)</td><td> 8.5" x 5.31"</td><td>10.03"</td><td>(16:10) 1.60</td></tr><tr><td>Intuos Wacom Intuos SMALL (CTL-4100 and CTL-4100WL)</td><td> 5.98" x 3.74"</td><td>7.06"</td><td>(16:10) 1.60</td></tr><tr><td>Wacom Intuos MEDIUM (CTL-6100WL)</td><td> 8.5" x 5.31"</td><td>10.03"</td><td>(16:10) 1.60</td></tr><tr><td>Intuos Pro 2017 SMALL (PTH-460)</td><td> 6.30i" x 3.94"</td><td>7.43"</td><td>(4:3) 1.440</td></tr><tr><td>Intuos Pro 2017 MEDIUM (PTH-660)</td><td> 8.82" x 5.83"</td><td>10.57"</td><td>(3:2) 1.514</td></tr><tr><td>Intuos Pro 2017 LARGE (PTH-860)</td><td> 12.34" x 8.50"</td><td>14.91"</td><td>(4:3) 1.44</td></tr><tr><td>Intuos Pro 2025 SMALL (PTH-470)</td><td>7.4" x4.1"</td><td>8.46"</td><td>16x9 (1.78)</td></tr><tr><td>Intuos Pro 2025 MEDIUM (PTH-670)</td><td>10.4" x 5.8"</td><td>11.91"</td><td>16x9 (1.78)</td></tr><tr><td>Intuos Pro 2025 LARGE (PTH-870)</td><td>13.7" x 7.7"</td><td>15.72"</td><td>16x9 (1.78)</td></tr></tbody></table>
 
 ## Reliability
 

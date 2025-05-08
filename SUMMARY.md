@@ -383,7 +383,7 @@
       * [7P: Wacom One 2019 GEN1 (DTC-133)](product-links/wacom/wacom-one-dtc-133/7p-wacom-dtc-133.md)
     * [Wacom One 2023 GEN2](product-links/wacom/wacom-one-2023-gen2/README.md)
       * [7P: Wacom One 2023 GEN2 pen displays](product-links/wacom/wacom-one-2023-gen2/7p-wacom-one-2023-pen-displays.md)
-      * [7P: Wacom One 2023 GEN2 pen tablets](product-links/wacom/wacom-one-2023-gen2/7p-wacom-one-pen-tablets.md)
+      * [7P: Wacom One 2023 pen tablets](product-links/wacom/wacom-one-2023-gen2/7p-wacom-one-pen-tablets.md)
     * [Wacom accessories](product-links/wacom/wacom-accessories/README.md)
       * [7P: Wacom Converter (ACK45219Z)](product-links/wacom/wacom-accessories/7p-wacom-ack45219z.md)
       * [Wacom texture sheets](product-links/wacom/wacom-accessories/wacom-texture-sheets.md)
