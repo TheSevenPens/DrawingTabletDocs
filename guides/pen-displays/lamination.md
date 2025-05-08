@@ -26,7 +26,7 @@ However, it can also prevent a things from getting between the glass and display
 
 * moisture
 * dust and other particles
-* small insects (more here: [**Troubleshoot insects in a pen display**](../../troubleshooting/troubleshoot-insects-in-a-pen-display.md))&#x20;
+* small insects (more here: [**Troubleshoot insects in a pen display**](../../troubleshooting/tsg-insects-in-a-pen-display.md))&#x20;
 
 ## Resources
 
