@@ -40,6 +40,12 @@ Also I noticed that when I was not using the device it seemed to quickly run dow
 
 The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-samsung-s-pen.md)
 
+## Diagonal wobble
+
+Evalation: VERY GOOD. LOW amounts of diagonal wobble at slow speeds.
+
+<figure><img src="../../.gitbook/assets/Samsung Galaxy Tab S8 Ultra 2025_05_07.png" alt=""><figcaption></figcaption></figure>
+
 ## Galaxy Tab S8 Ultra Book Cover Keyboard
 
 * The cover keyboard is two pieces
