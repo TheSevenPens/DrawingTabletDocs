@@ -63,7 +63,7 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 ## **Secondary features**
 
 * **ExpressKeys** are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../core-features/expresskeys.md)&#x20;
-* **Touch** - A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support.md)
+* **Touch** - A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support/)
 
 ## Pen display topics
 

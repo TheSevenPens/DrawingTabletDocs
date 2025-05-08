@@ -108,7 +108,7 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 * **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](../guides/pens/pen-buttons.md)&#x20;
 * **Pen power** - Drawing tablet pens get their power by being near the tablet itself. They don't even contain batteies. Usually the pen has to be withing abou 10mm for it to get power from the tablet. &#x20;
 * **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. More here: [**ExpressKeys**](../core-features/expresskeys.md) &#x20;
-* **Touch** - A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [**Touch support**](../guides/touch-support.md)&#x20;
+* **Touch** - A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [**Touch support**](../guides/touch-support/)&#x20;
 
 ## The active area
 

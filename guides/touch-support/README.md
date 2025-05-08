@@ -9,13 +9,9 @@ Whether touch support is available on a drawing tablet is first highly dependent
 
 How well touch works also depends strongly on the device - and the operating system being used.
 
-## **Tablets that support touch**
+## Adoption of touch in drawing tablets
 
-Here is list all the tablets I know of that support touch.&#x20;
-
-| Pen tablets                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Pen displays                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>Wacom Intuos Pro 2017 Small (PTH-460)</p><p>Wacom Intuos Pro 2017 Medium (PTH-660)</p><p>Wacom Intuos Pro 2017 Large (PTH-860)</p><p></p><p>Wacom Intuos Pro 2013 Small (PTH-451)</p><p>Wacom Intuos Pro 2013 Medium (PTH-651)</p><p>Wacom Intuos Pro 2013 Large (PTH-851) </p><p></p><p>Wacom Intuos5 touch Small (PTH-450)</p><p>Wacom Intuos5 touch Medium (PTH-650)</p><p>Wacom Intuos5 touch Large (PTH-850)</p><p></p><p>Wacom Bamboo capture (CTH-470)</p><p>Wacom Bamboo create (CTH-670)</p><p>Wacom Intuos Draw|Art|Photo|Comic Small (CTH-490)</p><p>Wacom Intuos Medium Draw|Art|Comic (CTH-690)</p><p></p> | <p>Wacom Cintiq Pro 27 (DTH-271)</p><p>Wacom Cintiq Pro 22 (DTH-227)</p><p>Wacom Cintiq Pro 17 (DTH-172)</p><p></p><p>Wacom Cintiq Pro 16 (DTK-167)</p><p>Wacom One 13 touch GEN2 (DTH-134)</p><p></p><p>Wacom Movink 13 (DTH-135)</p><p></p><p>Wacom Cintiq Pro 24 Touch (DTH-2420)</p><p>Wacom Cintiq Pro 16 (2016) (DTH-1620)</p><p><br>XP-Pen Artist Pro 16TP (MD160U)<br>Huion Kamvas Pro 19 (GT1902)<br>Huion Kamvas Pro 27 (GT2701)</p> |
+Here is list all the tablets I know of that support touch: [**Tablets that support touch**](tablets-that-support-touch.md)
 
 ## **Overall satisfaction with touch**
 
@@ -66,7 +62,7 @@ All tablets that have touch allow a user to disable touch support
 
 **Drawing gloves to help with palm rejection.**
 
-Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../accessories/drawing-gloves.md).&#x20;
+Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../../accessories/drawing-gloves.md).&#x20;
 
 ## **My own use of touch**
 
