@@ -70,7 +70,7 @@ I recommend you get the USB-C cables the manufacturer provides for use with a si
 * These cables are known to work with the device
 * The tablet may have recessed USB-C ports and these cables are designed to fit.
 
-More here: [Using 3rd-party cables with your drawing tablet](using-3rd-party-cables-with-your-drawing-tablet.md)&#x20;
+More here: [Using 3rd-party cables with your drawing tablet](using-3rd-party-cables-with-your-drawing-tablet/)&#x20;
 
 ## Thunderbolt 3/4 cables
 

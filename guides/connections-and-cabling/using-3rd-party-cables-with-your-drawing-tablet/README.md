@@ -20,32 +20,22 @@ If you use a 3rd party cable you have to make sure the cable can do 2 things:
 
 Can you use the cable that you use for other devices? Yes, as long as it can carry power and data.&#x20;
 
-### The cables I use for pen tablets
+### Cables I use for pen tablets
 
-I use USB 2.0 cables with a USB-C plug on one end (this goes to the tablet) and a USB-A end on the other (this goes to the computer or to a USB-hub).
-
-The specific cables I use are these:
-
-[https://www.amazon.com/dp/B0851N5MS1 ](https://www.amazon.com/dp/B0851N5MS1)[\
-](https://www.amazon.com/dp/B0851N5MS1) ![](<../../.gitbook/assets/image (425).png>)
-
-
-
-And I use these cables with many other devices that only need USB 2.0 connectivity.
-
-I specifically choose the blue color so that I can visually identify it is a USB 2.0 cable.&#x20;
+* Monoprice Nylon Braided USB 2.0 cable USB-C to USB-A ([<mark style="background-color:green;">**my notes on these cables**</mark>](7p-monoprice-nylon-braided-usb-2.0-cable-usb-c-to-usb-a.md))
+* &#x20;
 
 ### Using adapters for USB port types
 
 These days the ports on pen tablets are all USB C ports. However older tablets used different kinds of ports. These could be micro USB or mini USB. And cables that have micro USB ends or mini USB ends are getting more difficult to find. For this reason I prefer to continue to use USB C cables but use adapters for these older tablets if possible.
 
-More here: [**Cable adapters**](../../accessories/cable-adapters.md)
+More here: [**Cable adapters**](../../../accessories/cable-adapters.md)
 
 ## Using 3rd-party cables for pen displays
 
 **Single USB-C cable connection**
 
-If the pen display was connected with a single USB-C cable, then you can TYPICALLY use a USB-C cable that MEETS CERTAIN REQUIREMENTS to connect your pen display. More here: [**Connecting a pen display with a single USB-C cable**](connecting-a-pen-display-with-one-usb-c-cable.md).
+If the pen display was connected with a single USB-C cable, then you can TYPICALLY use a USB-C cable that MEETS CERTAIN REQUIREMENTS to connect your pen display. More here: [**Connecting a pen display with a single USB-C cable**](../connecting-a-pen-display-with-one-usb-c-cable.md).
 
 Even if the cable meets the requirements - there are some issues you should be aware of.
 
@@ -53,7 +43,7 @@ Even if the cable meets the requirements - there are some issues you should be a
 
 Sometimes the USB-C port on table goes into a recessed port and the manufacturer cable was specially designed to go into that port.&#x20;
 
-<figure><img src="../../.gitbook/assets/Slide_20241030_040309.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Slide_20241030_040309.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Longer connectors**
 
