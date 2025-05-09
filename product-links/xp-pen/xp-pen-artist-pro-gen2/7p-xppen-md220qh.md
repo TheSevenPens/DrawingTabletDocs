@@ -2,10 +2,12 @@
 
 ## Summary
 
-* As of April 2025, of XP-Pen's Artist Pro GEN2 line of pen displays, this is my favorite one.&#x20;
-* As of April 2025, of non-Wacom 22" pen display this is my favorite one.
-* I found the drawing performance to very good. Unlike some models of the Artist Pro GEN2, the unit I tested had very good tilt compensation and diagonal wobble
-* This is a nice setup up in terms of size over the Artist Pro 16 GEN2 and the Artist Pro 19 GEN2 in terms of size without getting too large. (In general 22" size is my favorite)
+* As of May 2025...
+  * This is my favorite tablet in the XP-Pen'Artist Pro GEN2 series
+  * This is my favorite non-Wacom 22" pen display
+* Drawing performance is very good.&#x20;
+  * Unlike some other models in the Artist Pro GEN2 series, the unit I tested had very good tilt compensation and very low diagonal wobble
+* This is a nice step up in terms of size over the Artist Pro 16 GEN2 and the Artist Pro 19 GEN2 in terms without getting too large. In general 22" is my favorite size for pen tablets.
 
 ## Basics
 
@@ -32,20 +34,26 @@
 
 * **Resolution**: WQHD (2560x1440)
   * This a significant upgrade from the Full HD (1920x1080) resolution of the XP-Pen Artist 22 Plus&#x20;
-* **Glare Reduction**: The screen effectively reduced glare. Reflections are very well diffused.
-* **Viewing Angles**: Minimal color shift at extreme left/right angles, with very slight dimming at steep up/down tilts.
-* **Color Calibration Report**: Tablet package came with a factory calibration report with a Delta E value of 0.88. I'm not an expert on colors but I was told this is good.
 * Display panel tech: IPS&#x20;
 * Aspect Ratio: 16:9
 * Lamination: YES
 * Viewing Angle: 178°
+  * &#x20;Minimal color shift at extreme left/right angles, with very slight dimming at steep up/down tilts.
 * Contrast: unspecified
 * Response time: unspecified
 * Refresh rate: 60hz
 * Brightness: 250 cd/m2
+
+## **Display > Anti-glare**
+
 * Anti-glare treatment: Etched glass&#x20;
-* Color: 8 bit
+* Glare Reduction: The screen effectively reduced glare. Reflections are very well diffused.
+
+## **Display > color**
+
+* Color depth: 8 bit
 * Color Gamut Coverage Ratio: 99% sRGB, 99% Adobe RGB, 94% Display P3
+* **Color Calibration Report**: Tablet package came with a factory calibration report with a Delta E value of 0.88. I'm not an expert on colors but I was told this is good.
 
 ## Included pen
 
@@ -55,7 +63,7 @@
 
 ## Compatible pens
 
-It is compatible with other pens in the X3 pro series.
+It is compatible with other pens in the X3 pro series. I tested with all of the pens below.
 
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
@@ -63,13 +71,14 @@ It is compatible with other pens in the X3 pro series.
 
 ## Physical characteristics
 
-* **Size and Bezels**:
+* **Size**
   * The tablet measures 22" diagonally
   * 22" is my favorite size for pen displays, and it is definitely notable size upgrade from a 19" pen display
-  * Noticeably large bezels. Approximately.
-    * 40 mm on top
-    * 35 mm on sides
-    * 55 mm on the bottom&#x20;
+* **Bezels**
+  * Noticeably large bezels.
+    * \~40 mm on top
+    * \~35 mm on sides
+    * \~55 mm on the bottom&#x20;
   * The bezels were larger than competitors like Wacom and Huion. Some will find these wide bezes impacting the tablet’s visual elegance but it does provide some nice space to rest your hands.
 * **Weight**: This is a relatively heavy tablet - as expected for its 22" size and wide bezels.
 
