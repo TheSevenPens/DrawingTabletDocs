@@ -28,10 +28,14 @@
 * Accuracy: ±0.4 mm (center)
 * Report rate: 220Hz
 
-## Display specs
+## Display
 
+* **Resolution**: WQHD (2560x1440)
+  * This a significant upgrade from the Full HD (1920x1080) resolution of the XP-Pen Artist 22 Plus&#x20;
+* **Glare Reduction**: The screen effectively reduced glare. Reflections are very well diffused.
+* **Viewing Angles**: Minimal color shift at extreme left/right angles, with very slight dimming at steep up/down tilts.
+* **Color Calibration Report**: Tablet package came with a factory calibration report with a Delta E value of 0.88. I'm not an expert on colors but I was told this is good.
 * Display panel tech: IPS&#x20;
-* Resolution: 2560 x 1440&#x20;
 * Aspect Ratio: 16:9
 * Lamination: YES
 * Viewing Angle: 178°
@@ -57,6 +61,18 @@ It is compatible with other pens in the X3 pro series.
 * X3 Pro Slim Stylus
 * X3 Pro
 
+## Physical characteristics
+
+* **Size and Bezels**:
+  * The tablet measures 22" diagonally
+  * 22" is my favorite size for pen displays, and it is definitely notable size upgrade from a 19" pen display
+  * Noticeably large bezels. Approximately.
+    * 40 mm on top
+    * 35 mm on sides
+    * 55 mm on the bottom&#x20;
+  * The bezels were larger than competitors like Wacom and Huion. Some will find these wide bezes impacting the tablet’s visual elegance but it does provide some nice space to rest your hands.
+* **Weight**: This is a relatively heavy tablet - as expected for its 22" size and wide bezels.
+
 ## Anti-glare sparkle
 
 * RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
@@ -68,6 +84,12 @@ It is compatible with other pens in the X3 pro series.
 Photos may not capture it, but the display is slightly "soft" like what I saw in the Kamvas Pro 19. The Artist Pro19 GEN2 and Cintiq Pro 22 are a bit sharper. It is NOT blurry just a little softer. This is likely due to the anti-glare treatment.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250214_214152.jpg" alt=""><figcaption></figcaption></figure>
+
+## Display Performance on macOS
+
+* **Resolution and Text**:
+  * Text appeared slightly blurry due to macOS scaling, not the tablet’s fault. Using BetterDisplay made the text much crisper.
+  * At normal drawing distances, I could not distinguish it from a 4K display. Though I imagine many of you have sharper eyes.
 
 ## Design
 
@@ -118,6 +140,19 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 
 ## Connections and cabling
 
+### Ports
+
+* USB-C
+* HDMI
+* power connection,
+* headphone jack - unexpected but appreciated
+
+### Power&#x20;
+
+* The USB-C port alone cannot power the tablet. You MUST use the included power supply. This is typical for displays over 16".
+
+### Connection options
+
 It can be connected with USB-C cable to your computer, This USB-C cable should be either the full-featured USB-C cable that came with the tablet or you can use a Thunderbolt 3 or Thunderbolt 4 cable.
 
 <figure><img src="../../../.gitbook/assets/image (578).png" alt="" width="375"><figcaption></figcaption></figure>
@@ -126,7 +161,9 @@ You can also connect it with HDMI and USB if needed
 
 <figure><img src="../../../.gitbook/assets/image (579).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**3-in-1 cable** - This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3-in-1 cable anyway.
+### 3-in-1 cable
+
+This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3-in-1 cable anyway.
 
 ## Stand
 
@@ -137,14 +174,28 @@ You can also connect it with HDMI and USB if needed
 
 ## Heat
 
-* Cool with warm regions toward the middle and the top near the ports
+* &#x20;After an hour at 100% brightness, the tablet was slightly warm, comparable to body temperature, and not disruptive.
 
 ## Noise
 
 * Silent
 
+## VESA compatibility
+
+* Tablet supports VESA mounting.
+* The stand is attached via the VESA mounting holes on the back.
 
 
-## What comes in the box
+
+### Unboxing the XP-Pen Artist Pro 22 Gen 2
+
+### Packaging
+
+* The tablet arrived in a large, heavy, and nicely decorated box.
+* The artwork on the box continues XP-Pen's trend have having beautiful art on the box.&#x20;
+* The tablet has a protective cover pre-applied - this is a temporary cover for protection. Which I removed.
+* The included stand pre-attached. I appreciated that convenience.
+
+### What comes in the box
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
