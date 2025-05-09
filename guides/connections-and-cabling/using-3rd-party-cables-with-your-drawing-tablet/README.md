@@ -20,10 +20,9 @@ If you use a 3rd party cable you have to make sure the cable can do 2 things:
 
 Can you use the cable that you use for other devices? Yes, as long as it can carry power and data.&#x20;
 
-### Cables I use for pen tablets
+### The cables I use to connect pen tablets&#x20;
 
-* Monoprice Nylon Braided USB 2.0 cable USB-C to USB-A ([<mark style="background-color:green;">**my notes on these cables**</mark>](7p-monoprice-nylon-braided-usb-2.0-cable-usb-c-to-usb-a.md))
-* &#x20;
+For the exact brands and cables I use for pen tablets: [**Cables I use to connect pen tablets**](cables-i-use-to-connect-pen-tablets.md)&#x20;
 
 ### Using adapters for USB port types
 
