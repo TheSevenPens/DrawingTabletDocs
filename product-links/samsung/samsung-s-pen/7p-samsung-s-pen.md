@@ -1,4 +1,4 @@
-# 7P notes: Samsung S Pen
+# 7P: Samsung S Pen
 
 ## Note
 
@@ -14,11 +14,15 @@ The overall pressure of the S pen is OK.&#x20;
 
 **Maximum pressure**
 
-In my testing it has a OK-ISH maximum pressure of about 200gf with some units getting closer to 150gf.
+In my testing it has a OK-ISH maximum pressure that ranges between 150gf to 250 gf in my testing - depending on the specific unit.
 
 **Initial activation force**
 
-It's supposed to be around 3gf. But it's been measured from 3gf to 6gf depending on the pen.
+The IAF depends on which device you use it with.
+
+Physically the pen is capable of a low IAF - I would guess 3gf.
+
+However, if you use it with a Wacom tablet then the Wacom tablet deliberately increases the IAF to something like 5 or 6gf. I suspect this is done to encourage people to buy the much more expensive Wacom pro tablets and Wacom pro pens.\`
 
 ## Buttons
 
