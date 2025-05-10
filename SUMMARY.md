@@ -207,6 +207,7 @@
     * [Electromagnetic Interference](guides/general/electromagnetic-interference.md)
     * [Connecting a drawing tablet to an iPad or iPhone](guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
     * [Connecting a drawing tablet to an Android device](guides/general/using-a-drawing-tablet-with-an-android-device.md)
+    * [Testing Drawing Tablet Compatibility with Android devices](guides/general/testing-drawing-tablet-compatibility-with-android-devices.md)
     * [Connecting a drawing tablet to a Chromebook](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
     * [Chromebook testing results](guides/general/chromebook-testing-results.md)
     * [Connecting multiple drawing tablets at the same time](guides/general/connecting-multiple-drawing-tablets-at-the-same-time.md)

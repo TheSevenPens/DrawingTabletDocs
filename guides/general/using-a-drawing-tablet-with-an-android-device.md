@@ -1,4 +1,4 @@
-# Using a drawing tablet with an Android device
+# Connecting a drawing tablet to an Android device
 
 ## Overview
 
@@ -7,6 +7,13 @@ Depending on the android device you have and the specific tablet you may be able
 ## Compatibility
 
 Do not assume a drawing tablet works with an android device. Check with the tablet manufacturer before trying this.&#x20;
+
+Keep in mind
+
+* BOTH the android and the tablet have to support this working.
+* In general, I found that Android 14 and Android 15 worked well with drawing tablets (if the drawing tablet supports being used with Android devices)
+
+More here: [Testing Drawing Tablet Compatibility with Android devices](testing-drawing-tablet-compatibility-with-android-devices.md)
 
 ## **Power**
 
@@ -55,24 +62,6 @@ You will have to rely on the pressure curve control in your applications - if it
 * Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
 
-## Android setups I have tried
-
-**Setup 1: Huion Kamvas 13 + Samsung Galaxy Tab S8 Ultra**
-
-The following setup below worked for me.
-
-* For this setup, I used a **Microsoft Surface Thunderbolt 4 Dock**&#x20;
-* Samsung S8 Ultra connected to the dock via the dock's attached Thunderbolt 3 cable
-* Huion Kamvas top USB-C port connected with Huion 3-in-1 cable:&#x20;
-  * 3-in-1 cable red USB-A end (for power) connected to dock.
-  * 3-in-1 cable black USB-A end (for data ) connected to dock.
-  * 3-in-1 cable HDMI end not connected
-* Huion Kamvas 13 lower USB-C port connected to the USB-C port on dock using a Thunderbolt 3 cable.
-
-**Step 2: Samsung Galaxy S9 FE**&#x20;
-
-Samsung Galaxy S9 FE does not work with an external monitor. Because of this,  I was unable to get it to work a pen display.
-
 ## Links
 
 General
@@ -83,9 +72,9 @@ General
 Pen tablets
 
 * [Wacom - Connect your Wacom One pen tablet and turn it on (Android)](https://www.youtube.com/watch?v=22-ASsVGsuM) 2023/08/10
-* [Wacom - Wacom Center for Android](https://www.youtube.com/watch?v=sf8r\_zxLl7o) app 2023/08/10
+* [Wacom - Wacom Center for Android](https://www.youtube.com/watch?v=sf8r_zxLl7o) app 2023/08/10
 * [Wacom - How to Setup your Wacom Intuos for Android - English](https://www.youtube.com/watch?v=JFTjUCiEy1s) 2019/11/07
-* [Aaron Rutten - Wacom Intuos on ANDROID - Review](https://www.youtube.com/watch?v=tMWwTuNO\_7A) 2019/11/21
+* [Aaron Rutten - Wacom Intuos on ANDROID - Review](https://www.youtube.com/watch?v=tMWwTuNO_7A) 2019/11/21
 * [ibisPaint -  I connected a Wacom pen tablet to my smartphone](https://www.youtube.com/watch?v=f1WudQ4MbnI) \[Wacom Intuos] 2019/10/04&#x20;
 
 Pen displays
