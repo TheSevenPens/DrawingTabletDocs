@@ -2,26 +2,23 @@
 
 ## Overview
 
-For their Intuos Pro line of pen tablets, Wacom sells several texture sheets that replace the texture that came with the tablets.
+For their **Intuos Pro 2017** and **Intuos Pro 2025** pen tablets, Wacom sells several texture sheets that replace the texture that came with the tablets.
 
-Below are three examples of some of the texture sheets Wacom sells.&#x20;
+## Texture sheets for Wacom Intuos Pro 2017
+
+For Wacom Intuos Pro 2017 texture sheets are available in 2 sizes and 3 textures
+
+* Sizes: Large and Medium. There is no Small texture sheet.
+* Textures: Standard, Rough, Smooth. Standard is what comes with the tablets out of the box.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tablet compatibility
+## Texture sheets for Wacom Intuos Pro 2025
 
-These texture sheets are available for these models:
+For Wacom Intuos Pro 2025 texture sheets are available in 3 sizes and 1 texture.
 
-* Wacom Intuos Pro Large&#x20;
-* Wacom Intuos Pro Medium
-
-## Texture types
-
-They come in three texture variations:
-
-* Standard <- this is what the Intuos Pro models use out-of-the-box&#x20;
-* Rough
-* Smooth
+* Sizes: Large, Medium, and Small
+* Textures: Standard
 
 ## Benefits
 
@@ -41,3 +38,4 @@ Here's an example of how to install a texture sheet:&#x20;
 [Brian Matiash - How To Install Wacom Intuos Pro Texture Sheets On Your Tablet](https://www.youtube.com/watch?v=AJ6_6710w0M) Mar 13, 2017
 
 While you have the old sheet removed and before you apply the new sheet, I suggest you make use of this moment to clean the surface of the tablet to remove any dust and grime.
+
