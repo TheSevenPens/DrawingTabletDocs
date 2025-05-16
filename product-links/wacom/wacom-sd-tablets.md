@@ -45,7 +45,11 @@ Key points:
 
 <table data-header-hidden><thead><tr><th width="136.800048828125">ID</th><th>Name</th></tr></thead><tbody><tr><td>SD-510C</td><td>SD-510C</td></tr><tr><td>SD-420E</td><td>SD-420E</td></tr><tr><td>SD-421E</td><td>SD-421E</td></tr><tr><td>SD-422E</td><td>SD-422E</td></tr><tr><td>SD-320E</td><td>SD-320E</td></tr><tr><td>SD-321E</td><td>SD-321E</td></tr><tr><td>SD-322E</td><td>SD-322E</td></tr><tr><td>SD-310E</td><td>SD-310E</td></tr><tr><td>SD-311E</td><td>SD-311E</td></tr><tr><td>SD-312E</td><td>SD-312E</td></tr><tr><td>SD-210L</td><td>SD-210L</td></tr><tr><td>SD-013A</td><td>SD-013A</td></tr><tr><td>SD-013L</td><td>SD-013L</td></tr></tbody></table>
 
+## Using Wacom SD tablets on modern computers
 
+If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
+
+[https://github.com/Kuuuube/KuuubeTD](https://github.com/Kuuuube/KuuubeTD)
 
 ## Photos of SD-510C
 
