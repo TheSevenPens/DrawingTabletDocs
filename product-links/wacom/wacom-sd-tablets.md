@@ -27,10 +27,10 @@ Key points:
 * The tablet does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer.
 * Users were expected to have much more technical expertise. The user manual contains information you would see for devices today.
 * Configuring the device may require the user to understand how to configure dip switches on the processor box
-* Wacom emphasizes that this is a “cordless” tablet. Cordless does not mean there is no cord or cable connecting the tablet to the computer - because there's certainly is such a cord. ”Cordless” refers to the fact that the pen is not connected to the tablet with a cord. This was a real innovation in 1987. Before you would have naturally expected the pen to communicate to the tablet and get power from the tablet via such a cord.
+* Wacom emphasizes in the product materials that this is a “cordless” tablet. "Cordless" does not mean there is no cord or cable connecting the tablet to the computer - because there's certainly is such a cord. ”Cordless” refers to the fact that the pen is not connected to the tablet with a cord. This was a real innovation in 1987. In this era, you would have expected the pen to communicate to the tablet and get power from the tablet via such a cord.
 * The packaging isn't very attractive by today's standards. It's very plain looking there's no pictures of the tablet anywhere. The box has more of an “office equipment” feel.
 * Cables were permanently fixed to the tablet.&#x20;
-* The form factor of the tablet feels very similar to a modern tablet. It's relatively thin. Though it is a bit heavier and definitely more sturdy.
+* The form factor of the tablet feels very similar to a modern tablet. It's relatively thin. Though it is a bit heavier and definitely more sturdy. I think if you handed this tablet to someone who had no prior knowledge of Wacom's older tablets, they would still think this look and felt very professional and modern.
 * The wider bezels we see in many Wacom professional tablets for many decades are visible here.
 * It's understandable how to open the device. On the bottom, screws are visible.&#x20;
 * Like equipment of the era, it has a beige color.
