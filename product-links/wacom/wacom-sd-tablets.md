@@ -37,7 +37,7 @@ Some interesting things:
 
 
 
-## Photos&#x20;
+## Photos of SD-510C
 
 <figure><img src="../../.gitbook/assets/20250515_234805 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
