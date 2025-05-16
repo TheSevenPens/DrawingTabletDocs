@@ -19,7 +19,7 @@ In many ways it works exactly like you would expect a modern drawing tablet to w
 Some interesting things:
 
 * There's no distinction between model number and model name.
-* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port.
+* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version.&#x20;
 * The tablet does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer.
 * Users were expected to have much more technical expertise. The user manual contains information you would see for devices today.
 * Configuring the device may require the user to understand how to configure dip switches on the processor box
