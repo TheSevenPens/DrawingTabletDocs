@@ -10,14 +10,18 @@ description: SD series
 
 The SD series is the tablet that all modern Wacom drawing tablets descend from.
 
+User manual: [https://archive.org/details/sd-510-c-user-manual/SD-510C\_User\_Manual.pdf](https://archive.org/details/sd-510-c-user-manual/SD-510C_User_Manual.pdf)&#x20;
+
 ## Commentary
 
 The story of drawing tablets as we know them today begins with the Wacom SD series.
 
 In many ways it works exactly like you would expect a modern drawing tablet to work. However being released in 1987 you can definitely tell that it is from a completely different era of technology
 
-Some interesting things:
+Key points:
 
+* "SD" apparently stood for "Super Digitizer".
+* "Digitizer" as a term appears in many places (on the box, in the manual). In the future, this term rarely (if ever) appears in any Wacom product material.
 * There's no distinction between model number and model name.
 * The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version.&#x20;
 * The tablet does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer.
@@ -50,3 +54,7 @@ Some interesting things:
 <figure><img src="../../.gitbook/assets/20250515_171734 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/20250516_065859 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20250516_094822 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20250516_094837 (Large).jpg" alt=""><figcaption></figcaption></figure>
