@@ -1,4 +1,8 @@
-# Wacom Intuos Pro 2017 series (PTH-x60)
+---
+description: PTH-x60 series
+---
+
+# Wacom Intuos Pro 2017
 
 ## Overview
 

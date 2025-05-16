@@ -2,8 +2,8 @@
 
 ## Top picks
 
-* Wacom Intuos Pro Medium (PTK-670) \[$300, [**links**](../../product-links/wacom/wacom-intuos-pro-2025-series-ptk-x70/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/wacom-intuos-pro-2025-series-ptk-x70/7p-wacom-ptk-x70.md)]
-* Wacom Intuos Pro Medium (PTH-660) \[$300, [**links**](../../product-links/wacom/wacom-intuos-pro-2017-series-pth-x60/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/wacom-intuos-pro-2017-series-pth-x60/7p-wacom-pth-x60.md)]
+* Wacom Intuos Pro Medium (PTK-670) \[$300, [**links**](../../product-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/wacom-intuos-pro-2025/7p-wacom-ptk-x70.md)]
+* Wacom Intuos Pro Medium (PTH-660) \[$300, [**links**](../../product-links/wacom/wacom-intuos-pro-2017/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/wacom-intuos-pro-2017/7p-wacom-pth-x60.md)]
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[ $60, [**links**](../../product-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/one-by-wacom/7p-wacom-ctl-x72.md)]&#x20;
 * XP-Pen Deco
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../product-links/xp-pen/xp-pen-deco/)]

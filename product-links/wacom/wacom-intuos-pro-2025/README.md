@@ -1,4 +1,8 @@
-# Wacom Intuos Pro 2025 series (PTK-x70)
+---
+description: PTK-x70 series
+---
+
+# Wacom Intuos Pro 2025
 
 ## Basics
 
