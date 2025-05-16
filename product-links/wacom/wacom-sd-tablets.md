@@ -10,12 +10,15 @@ description: SD series
 
 The SD series is the tablet that all modern Wacom drawing tablets descend from.
 
-User manuals
+## User manuals
 
-* [User Manual for Wacom SD-510C](https://archive.org/details/sd-510-c-user-manual/SD-510C_User_Manual.pdf) &#x20;
-* [User Manual for Wacom SD-31A Series, 32A Series, 42A Series](https://archive.org/details/wacom_sd-31a_32a_42a_manual)&#x20;
+* [User manual for Wacom SD-510C](https://archive.org/details/sd-510-c-user-manual/SD-510C_User_Manual.pdf) (English)
+* [User manual for Wacom SD-31A Series, 32A Series, 42A Series](https://archive.org/details/wacom_sd-31a_32a_42a_manual) (Japanese)
+* [User manual for SD-013A](https://archive.org/details/sd013a) (English)
+* [User manual for SD-210L](https://archive.org/details/sd210l) (English)
+* [User manual for SD-31xE, SD-32xE, SD-42xE](https://archive.org/details/sd310e) (English)&#x20;
 
-## Commentary
+## Commentary on the SD-510C
 
 The story of drawing tablets as we know them today begins with the Wacom SD series.
 
@@ -27,7 +30,7 @@ Key points:
 * "Digitizer" as a term appears in many places (on the box, in the manual). In the future, this term rarely (if ever) appears in any Wacom product material.
 * There's no distinction between model number and model name.
 * The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version.&#x20;
-* The tablet does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer.
+* The SD-510C unlike some other SD models, does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer. That box contains the "brains" of the tablet and lets the SD-510C be much thinner than other SD models.
 * Users were expected to have much more technical expertise. The user manual contains information you would see for devices today.
 * Configuring the device may require the user to understand how to configure dip switches on the processor box
 * Wacom emphasizes in the product materials that this is a “cordless” tablet. "Cordless" does not mean there is no cord or cable connecting the tablet to the computer - because there's certainly is such a cord. ”Cordless” refers to the fact that the pen is not connected to the tablet with a cord. This was a real innovation in 1987. In this era, you would have expected the pen to communicate to the tablet and get power from the tablet via such a cord.
