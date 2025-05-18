@@ -34,6 +34,24 @@ Likewise even though this video is about professional tablets, the topics raised
 
 {% embed url="https://youtu.be/Ep5wN-kOhqo" %}
 
+## Be clear what you are getting in the box
+
+Find the information about the manufacturer included normally in the box for the tablet. You can find this from the manufacturer website, contact customer support, or even watch a review or unboxing video of the tablet on youtube.
+
+Then, compare what the manufacturer delivers with what the seller has available. The most import things to verify you are getting are the pen and any cables you need.
+
+## Be prepared to clean the tablet
+
+Some used tablets will arrive in a pristine condition - either through disuse or the seller thoroughly cleaning the tablet beforehand.
+
+Sometimes though the tablets are filthy. For example they may:
+
+* Have food crumbs, dust, skin cells in crevices
+* Have stickers attached
+* Have remains of adhesive on the surface (perhaps from some removed stickers)
+
+It may be worth asking the seller how clean the tablet is.
+
 ## Notes on Wacom drivers
 
 * As of Wacom Driver 6.4.0 released in October 2022, Wacom has dropped support for Intuos 5 tablets and older Intuos tablets - except for the Wacom Intuos 4 XL which is still supported. ([https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.0.html))
