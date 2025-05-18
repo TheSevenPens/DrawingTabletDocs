@@ -19,11 +19,16 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 
 
 
+## **Included pen**
+
+The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [<mark style="background-color:green;">**my notes on Wacom 2K Pen (LP-190K)**</mark>](../wacom-accessories/wacom-pens/7p-wacom-lp-190k.md)
+
+## Pen compatibility
+
+* This tablet only works with the LP-190K pen.
+
 ## **Core features**
 
-* **Pen** - The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen.
-* **Other compatible pens** - None. This tablet onlyu works with the LP-190K.
-* **Pen pressure range** - and has a very low IAF (which is EXCELLENT) and an OK Maximum pressure of around 300gf. My notes on this pen: [**7P notes: Wacom 2K Pen (LP-190K)**](../wacom-accessories/wacom-pens/7p-wacom-lp-190k.md)  &#x20;
 * **Pressure Levels** - 2048. This may seem low when you see other tablets rated at 8K or 16K pressure levels. Do not worry. 2048 is enough pressure levels for creative tasks. This is absolutely not going to affect the quality of the art you can make with this tablet. I maintain all you need are about 2000 levels of pressure.
 * **Tilt** - this tablet does NOT support tilt
   * For a beginner this may not be an issue. Many people do not need tilt.&#x20;
@@ -58,6 +63,10 @@ A small cloth loop on the right side of the tablet can be used to hold the pen.
 ## **Feeling**
 
 The One by Wacom pen is a little more plasticky and less premium feeling in hand than the Wacom's professional pens.  But this is not a big deal for a beginner.&#x20;
+
+## Suface texture
+
+There is a slight amount of texture on the surface to keep the pen from feeling "slippery" on the surface. The amount of texture is pretty average for a modern pen tablet.
 
 ## Osu!
 
