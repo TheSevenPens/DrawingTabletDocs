@@ -59,6 +59,10 @@ I used one of these for a couple of months with CSP but I stopped eventually bec
 
 **LoupeDeck** controllers could also be used. There are several models available such as the Loupedeck Live and Loupedeck CT. I tried thesed in 2023 but felt their software was very difficult to use.
 
+## Generic keypads
+
+* David Zhang - [VELOCIFIRE NK01 Wireless Mechanical Number Pad - I Built a Keypad to Control My Entire Desk Setup](https://www.youtube.com/watch?v=DTJSREjWH7Y) 2022/12/23
+
 ## Tiny Keyboards
 
 Keyboards are popular. Often you'll see someone using a much smaller keyboard than normal because it's easier to have around the tablet or it can be mounted to the display tablet or an arm. More here: [**keyboards**](../keyboards.md)
