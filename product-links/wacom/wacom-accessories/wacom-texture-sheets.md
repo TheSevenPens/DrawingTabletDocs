@@ -11,7 +11,7 @@ For Wacom Intuos Pro 2017 texture sheets are available in 2 sizes and 3 textures
 * Sizes: Large and Medium. There is no Small texture sheet.
 * Textures: Standard, Rough, Smooth. Standard is what comes with the tablets out of the box.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Texture sheets for Wacom Intuos Pro 2025
 

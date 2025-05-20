@@ -1,6 +1,14 @@
-# Troubleshoot difficult to reach maximum pressure
+# TSG: Difficult to reach maximum pressure
 
-## Symptoms
+## Overview
+
+You may find that you have to press very hard to get to maximum pressure with your pen.
+
+The components that detect pressure are inside the pen.
+
+While it is not possible to adjust the pen itself, you might be able to improve the situation using the pressure curve in the driver or in an application.
+
+## Verifying the problem in the tablet driver
 
 If you are looking at a pressure reading while using your pen, you may see that it is either very difficult or impossible to reach 100% pressure.
 

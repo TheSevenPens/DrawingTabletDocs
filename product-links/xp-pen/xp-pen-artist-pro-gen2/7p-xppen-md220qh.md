@@ -207,4 +207,4 @@ This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3
 
 ### What comes in the box
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>

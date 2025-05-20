@@ -250,6 +250,7 @@
   * [Common drawing troubleshooting steps](troubleshooting/common-drawing-troubleshooting-steps.md)
   * [Testing pressure in the tablet driver](troubleshooting/testing-pressure-in-the-tablet-driver.md)
   * [Check if pen display shows HDMI video signal from other devices](troubleshooting/check-if-pen-display-shows-hdmi-video-signal-from-other-devices.md)
+  * [Check tablet driver diagnostics](troubleshooting/check-tablet-driver-diagnostics.md)
   * [Reset a drawing tablet](troubleshooting/reset-wacom-intuos-pro-tablets.md)
   * [TSG: Low pressure drawing problems](troubleshooting/tsg-low-pressure-drawing-problems.md)
   * [TSG: Difficult to reach maximum pressure](troubleshooting/tsg-difficult-to-reach-maximum-pressure.md)
