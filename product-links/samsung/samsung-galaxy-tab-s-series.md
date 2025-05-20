@@ -11,6 +11,7 @@
 
 * Release Yeasr: 2024
 * Product page: [https://www.samsung.com/us/tablets/galaxy-tab-s10/](https://www.samsung.com/us/tablets/galaxy-tab-s10/)&#x20;
+* [Teoh on Tech - Samsung Tab S10 FE Handwriting & Note Taking](https://www.youtube.com/watch?v=8iGsNQR3fuM) 2025/05/19&#x20;
 * [Brad Colbow - Galaxy Tab S10 -VS- iPad Pro](https://www.youtube.com/watch?v=7khLkktpMhY) 2024/10/15&#x20;
 * [Brad Colbow - Review of Samsung Galaxy S10 Ultra](https://www.youtube.com/watch?v=k46BAgTzl8I) 2024/10/07
 
