@@ -25,3 +25,22 @@ This diagnostic information is very useful for troubleshooting common issues suc
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
+## XP-Pen PenTablet (v4.x)
+
+* Launcch the XP-Pen **PenTablet** application
+* Click on the **Gear** icon on the left
+* Under **Current device**, click **Diagnostic tool**
+* The **Diagnostic tool** will appear
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-20 at 6.56.17 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+## Huion HuionTab app
+
+Unfortunately, there is not an equivalent diagnostic tool in the the HuionTab application.
+
+
+
