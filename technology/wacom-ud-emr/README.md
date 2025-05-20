@@ -68,4 +68,6 @@ You can see this how it is used in these materials for an ASUS product.
 
 <div align="left"><figure><img src="../../.gitbook/assets/s-l1600-1.webp" alt="" width="188"><figcaption></figcaption></figure></div>
 
-&#x20;
+## &#x20;Videos
+
+* [Teoh on Tech - Wacom (UD) EMR Pens Comparison Review](https://www.youtube.com/watch?v=QV_86xgl0E4) 2025/05/17
