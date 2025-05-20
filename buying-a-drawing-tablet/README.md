@@ -40,9 +40,14 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 
 ## Brands
 
-**If you want a safe choice, go with Wacom.** They are also the most expensive. Competitors such as Huion, XP-Pen, and Xencelabs are closing the gap with Wacom. This [**guide on drawing tablet brands**](../drawing-tablet-brands/) will help understand how to compare the brands.
+**If you want a safe choice, go with Wacom.** They are also the most expensive. Competitors such as Huion, XP-Pen, and Xencelabs are closing the gap with Wacom.&#x20;
 
-If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-links/wacom/7p-comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
+More here:&#x20;
+
+* [**Brands**](../drawing-tablet-brands/)
+* [**Choosing a drawing tablet brand**](../drawing-tablet-brands/choosing-a-drawing-tablet-brand.md) &#x20;
+
+f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-links/wacom/7p-comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## Product info
 
