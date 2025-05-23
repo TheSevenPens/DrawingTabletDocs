@@ -6,13 +6,7 @@ If you want to buy a drawing tablet as a gift, it can be challenging if you your
 
 ## Understand the kind of drawing tablets available
 
-* Non-standalone devices
-  * Pen tablets (also called "screenless tablets") - Don't have a screen and you have to use them with a computer or laptop&#x20;
-  * Pen displays (also called "screen tablets") -  Have a screen and you have to use them with a computer or laptop&#x20;
-* Standalone devices
-  * Pen computers - Drawing tablets that are essentially laptops. I do not recommend getting these. more here: [**The case against pen computers**](the-case-against-pen-computers.md)&#x20;
-  * Mobile computers with pen support - These are devices like iPads and Samsung Galaxy Tab S devices that support being used with a pen. They aren't strictly-speaking drawing tablets, but they use the same/similar tech and can work as a standalone drawing tablet.
-  * Laptops with pen support - These are devices like the Microsoft Surface Pro or Samsung Galaxy Book 5 360 that can be used with a  pen.&#x20;
+The first thing you need to understand is the type of drawing tablet. So, read this document first before you continue: [**Types of drawing tablets**](../basics/types-of-drawing-tablets.md).
 
 ## Does the giftee already have some experience with a drawing tablet?
 

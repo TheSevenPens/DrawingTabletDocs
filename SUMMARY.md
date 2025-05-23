@@ -8,6 +8,7 @@
 * [Frequently asked questions](faq.md)
 * [Basics](basics/README.md)
   * [Beginner's guide to drawing tablets](basics/beginners-guide.md)
+  * [Types of drawing tablets](basics/types-of-drawing-tablets.md)
   * [Learning digital art](basics/learning-digital-art.md)
   * [Learning to use a drawing tablet](basics/learning-to-use-a-drawing-tablet.md)
   * [Get started with a drawing tablet](basics/get-started-with-a-drawing-tablet.md)
