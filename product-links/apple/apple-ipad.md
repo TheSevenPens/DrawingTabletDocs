@@ -17,6 +17,7 @@ I have an extensive series of notes on how my thoughts about using the iPad and 
 
 ## 2024 Apple iPad Mini
 
+* [Trent Kaniuga - Why I got an iPad Mini for drawing in 2025](https://www.youtube.com/watch?v=JbVYdGhy8AM) 2025/05/22
 * [Brad Colbow review of 2024 Apple iPad Mini](https://www.youtube.com/watch?v=pOzw6ubjdgY) 2024/10/22
 * [Teoh on Tech review of 2024 Apple iPad Mini](https://www.youtube.com/watch?v=r2lfUndPhV4) 2024/10/27
 
