@@ -36,14 +36,14 @@ If I had to pick one item on this list, I would recommend the **One by Wacom CTL
 
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../product-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/wacom/one-by-wacom/7p-wacom-ctl-x72.md)] ★★★
 * Huion Inspiroy Frego M (L610) \[$90, [**links**](../product-links/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/huion/huion-inspiroy-frego/7p-huion-l610.md) ] ★★★
-* Wacom Intuos series
-  * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../product-links/wacom/wacom-intuos.md)]
-  * Wacom Intuos Medium Bluetooth (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark> \[$200, [**links**](../product-links/wacom/wacom-intuos.md)]
-* XP-Pen Deco series
+* XP-Pen Deco series ★★★
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../product-links/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../product-links/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../product-links/xp-pen/xp-pen-deco/)]&#x20;
   * XP-Pen Deco LW (IT1060B) \[$90, [**links**](../product-links/xp-pen/xp-pen-deco/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/xp-pen/xp-pen-deco/7p-xppen-it1060b.md)]
+* Wacom Intuos series
+  * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../product-links/wacom/wacom-intuos.md)]
+  * Wacom Intuos Medium Bluetooth (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark> \[$200, [**links**](../product-links/wacom/wacom-intuos.md)]
 
 ## Pen displays
 
