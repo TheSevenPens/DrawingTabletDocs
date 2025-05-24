@@ -32,11 +32,7 @@ In practice, it depends on what the driver is exactly doing.
 
 Here's an example of the Wacom driver vs Huion driver in Krita on Windows.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (345).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (345).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 As you can see the Wacom driver creates very jerky position data when mouse mode is enabled. It does not have to be like this, they could do better like Huion does.
 
@@ -64,29 +60,17 @@ You may need to restart an drawing application if you change the mouse mode sett
 
 In **Wacom Tablet Properties** app, select your pen, navigate to the **Mapping** tab, then under the Mode area you will see a setting you can switch between **Pen** and **Mouse**&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (207).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (207).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Once you enable mouse mode, you'll see some new configuration options.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (254).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (254).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Huion
 
 In the Huion driver, click **Digital Pen**, then enable or disable **Mouse Mode** at the bottom&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (171).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (171).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Restarting apps after mouse mode
 
@@ -94,6 +78,14 @@ Some drawing applications may get confused if they are running and mouse mode is
 
 ## Mouse mode on pen displays
 
-Sometimes you will see that a driver does not have a mouse mode option for a pen display. The reason for this is probably that it would be somewhat unusual and a little bit unnatural to use append display in this way.
+Most often, tablet drivers dot not offer mouse mode option for a pen display.&#x20;
+
+There isn't a technical limitation. In theory, pen displays could support mouse mode just as well as a pen tablet. I believe it isn't offered typically because most users would would be confused by the discrepancy in the position of the mouse pointer on the screen and the physical position of the tip of the pen.
+
+Nonetheless, some people do request mouse mode for their pen displays. If you do really want mouse mode, consider using OpenTabletDriver instead of your manufacturer tablet driver.
+
+More here: [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)   &#x20;
+
+
 
 &#x20;
