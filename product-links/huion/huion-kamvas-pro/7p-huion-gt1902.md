@@ -180,6 +180,27 @@ There are a few areas that might not compare as well though
 
 But for other areas, the Kamvas Pro 24 4K was already a good pen display. So for this reason, if you already have a Huion Kamvas Pro 24 4K (GT2401) then these new tablets are NOT an immediate "MUST BUY". If you are happy with how your Kamvas Pro 24 4K is working, then keep it. I would suggest at least waiting to see if Huion releases something closer to a 24" size.&#x20;
 
+## Compared to the Huion 16 GEN3
+
+Not long after Huion rolled out the Kamvas Pro 19, it followed up with the Kamvas 13 GEN3 Kamvas 16 GEN3.
+
+Huion puts the Kamvas Pro 19 and Pro 27 in the "GEN3" category even though they don't literally have "GEN3" in name. This makes sense because these Pro 19, Pro 27 and the GEN3 tablets all use "PenTech 4.0" with the PW600 series pens.
+
+Because of their similar sizes, many people want to understand the differences between these two models.
+
+
+
+* The **drawing peformance** is roughly the same because they share the same "PenTech" and are compatible with the  PW600 series pens
+* **Pens included in the box** - The KP19 comes with TWO PW600 series pens. The K16GEN3 comes with only one pen.
+* **Touch** - The KP19 supports touch (works great on windows, is still only in preview on MacOS), the K16GEN3 does not.&#x20;
+* **AG sparkle** - comparable
+* **Diagonal wobble** - very minimal on the KP19. The K16GEN3 has a little diagonal wobble at slow speeds.
+* **Display Size** - Obviously one ia 19" andf the other 16" - their actual sizes are closer to 18.5" and 15.5" - but despite this difference they feel similar to each other. In other words the KP19 does not feel massively larger - just somewhat larger.
+* **Physical size** - very similar. Both fit on my desktop well and are easy to move.
+* **Using a single UBS-C cable** - with the K16GEN3 some computers will be able to use a single USB-C cable to deliver power, video, and data. With the KP19 this is not the case - it is **extremely** unlikely. You will always have to use the additional power adapter to supply the KP19 with enough power. &#x20;
+
+
+
 ## Other topics
 
 **Sound** - there's a headphone jack for audio. Some of you may find this convenient.
