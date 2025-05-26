@@ -1,4 +1,4 @@
-# Troubleshoot the NO SIGNAL problem
+# TSG: Pen display shows NO SIGNAL message
 
 ## Overview
 
@@ -57,7 +57,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 | -------------------------------------------------------------------------- | ----------------------------------------- |
 | <img src="../.gitbook/assets/image (455).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (334).png>) |
 
-If your computer doesn't see the display from the tablet , it will not send a video signal to it.  Follow these troubleshooting steps: [**Troubleshoot display detection**](troubleshoot-display-detection.md)&#x20;
+If your computer doesn't see the display from the tablet , it will not send a video signal to it.  Follow these troubleshooting steps: [**Troubleshoot display detection**](tsg-display-detection.md)&#x20;
 
 ## Verify that you operating system is trying to use the display.
 

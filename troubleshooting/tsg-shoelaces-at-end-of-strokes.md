@@ -1,10 +1,10 @@
-# Troubleshoot shoelaces at end of strokes
+# TSG: shoelaces at end of strokes
 
 ## Overview
 
 This is a common effect that is highly dependent on how you draw and the specific brush in your drawing app. It manifests as a longer "string" at the end of your stroke. These ends can be rendered as a constant width or a long very thin string.
 
-NOTE: There is a related problem: [Troubleshoot hooks at start of strokes](troubleshoot-hooks-at-start-of-strokes.md)
+NOTE: There is a related problem: [Troubleshoot hooks at start of strokes](tsg-hooks-at-start-of-strokes.md)
 
 ## Examples
 
@@ -54,9 +54,9 @@ The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has se
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/)&#x20;
+* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas_16_2021_shoestringing/)&#x20;
 * [https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795](https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795)&#x20;
-* [https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/)
+* [https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden_checkmarkshoelace_effect_at_end_of_every/)
 
 
 

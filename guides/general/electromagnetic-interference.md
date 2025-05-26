@@ -12,23 +12,15 @@ EMI can make the pen have jerky movements - making the pen unresponsive for a fe
 
 ### **Warped regions**
 
-Sometimes the EMI takes the form of a region that warps straight lines. Below is an example of such a warping caused by a magnet. This this case it was a magnet attacked to a stand underneath the tablet. ([See this reddit thread](https://www.reddit.com/r/huion/comments/13yef7f/kamvas\_13\_digitizer\_problem/))
+Sometimes the EMI takes the form of a region that warps straight lines. Below is an example of such a warping caused by a magnet. This this case it was a magnet attacked to a stand underneath the tablet. ([See this reddit thread](https://www.reddit.com/r/huion/comments/13yef7f/kamvas_13_digitizer_problem/))
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/EMI_warping_1.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/EMI_warping_1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### **Skipped regions**
 
-EMI interference can also present as a region where pen seems unable to make a mark. Notice that some warping is also present. In this case, the causes was that the tablet was resting upon a laptop keyboard. Note that there is also some warping of the pen position. ([See this reddit thread](https://www.reddit.com/r/XPpen/comments/14joyq5/pen\_skips\_across\_the\_screen\_in\_certain\_spots\_help/))
+EMI interference can also present as a region where pen seems unable to make a mark. Notice that some warping is also present. In this case, the causes was that the tablet was resting upon a laptop keyboard. Note that there is also some warping of the pen position. ([See this reddit thread](https://www.reddit.com/r/XPpen/comments/14joyq5/pen_skips_across_the_screen_in_certain_spots_help/))
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/p7asi002ne8b1.jpg" alt="" width="312"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/p7asi002ne8b1.jpg" alt="" width="312"><figcaption></figcaption></figure></div>
 
 ## Tablets interfering with other devices
 
@@ -38,7 +30,7 @@ Examples:
 
 * A wireless mouse might have trouble working near some tablets.
 * A tablet might interfere with your WiFi network connection
-  * See: [Troubleshoot WiFi and Internet problems with drawing tablets](../../troubleshooting/troubleshoot-wifi-and-internet-problems-with-drawing-tablets.md)&#x20;
+  * See: [Troubleshoot WiFi and Internet problems with drawing tablets](../../troubleshooting/tsg-wifi-and-internet-problems-with-drawing-tablets.md)&#x20;
 
 ## General weirdness
 
@@ -50,10 +42,10 @@ Weird things can happen! I have a keyboard, that when I unplug its USB-C cable w
 
 There are computer desks that are made of metal and deliberately magnetized. These can interfere with your drawing tablet. See:
 
-* [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/) &#x20;
+* [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my_whole_desk_is_a_magnet_what_do_i_do/) &#x20;
 
 ## iPads and cases
 
 Some iPad Cases have magnets in them and they can interfere with the proper functioning of an Apple Pencil.&#x20;
 
-[/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some\_magnetic\_cases\_may\_interfere\_with\_the\_apple/) 2024/06/05
+[/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/) 2024/06/05

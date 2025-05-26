@@ -1,4 +1,4 @@
-# Troubleshoot pen display doesn't show anything
+# TSG: Pen display doesn't show anything
 
 ## **NO SIGNAL**
 
@@ -6,7 +6,7 @@ If you turn on your pen display and see a NO SIGNAL message, then this is a diff
 
 ## Ensure your computer actually detects the display
 
-Does you computer detect the display in the tablet? Check your operating system's display settings. More here: [**Troubleshoot computer does not detect display**](troubleshoot-display-detection.md)&#x20;
+Does you computer detect the display in the tablet? Check your operating system's display settings. More here: [**Troubleshoot computer does not detect display**](tsg-display-detection.md)&#x20;
 
 ## Check if the backlight is broken
 
