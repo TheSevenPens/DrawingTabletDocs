@@ -229,6 +229,7 @@
       * [Configure Windows Ink for apps](guides/windows/windows-ink/configure-windows-ink-for-apps.md)
       * [Configuring Photoshop to NOT use Windows Ink](guides/windows/windows-ink/configuring-photoshop-to-not-use-windows-ink.md)
       * [Configure Windows Ink in the tablet driver](guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md)
+    * [Stop using a display on Windows](guides/windows/stop-using-a-display-on-windows.md)
   * [Mini-PCs for digital art](guides/mini-pcs-for-digital-art/README.md)
     * [7P: Minisforum Neptune HX99G](guides/mini-pcs-for-digital-art/7p-minisforum-neptune-hx99g.md)
   * [Laptops for digital art](guides/laptops-for-digital-art.md)

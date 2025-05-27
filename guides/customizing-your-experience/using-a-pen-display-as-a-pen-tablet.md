@@ -1,6 +1,18 @@
 # Using a pen display as a pen tablet
 
-Sometimes people want to take a pen display and use it as a pen tablet. There are several options here. In this case, someone doesn't want to see anything on the pen display. It should be blank.
+## Overview
+
+Occasionally people want to use pen display and use if it were a pen tablet (screenless tablet).&#x20;
+
+They have several reasons
+
+* The display may not work in their pen display&#x20;
+* They aren't happy with the colors of the display
+* They love drawing on the large tablet and pen displays can be much larger than pen tablets
+
+So, they want to use their pen display with the screen "turned off" but the pen still working.
+
+The good news is that using a pen display like this is **almost always possible**. Depending on the specific pen display their are different options to achieving the desired effect. Each option is covered below.
 
 ## Option 1: Built-in support
 
@@ -16,17 +28,20 @@ If your tablet is connected via an **HDMI cable** to the computer, you can disco
 
 In your operating system, you can configure the **displays settings** to not use the screen in the pen display. This should leave you with a pen display that shows nothing and the pen should still work.
 
-## Lag
+See: [Stop using a display on Windows](../windows/stop-using-a-display-on-windows.md)
 
-Pen tablets have low pointer lag. Pen displays have higher pointer lag. More here: [lag](../../core-features/lag.md)
+## Usage notes
 
-If you use a pen display even if the screen is off, you will still likely see the larger pointer lag.
+### Pointer lag
 
-###
+Pen tablets have low pointer lag. Pen displays tend have a bit more pointer lag. &#x20;
 
+Here's what you might notice
 
+* If you use a pen display even if the screen is off, you might feel like to lags a bit more than a typical pen display.
+* However the lag sensation may also be reduced because you have no direct way of comparing the pointer position to the pen's location.
 
-
+More here: [lag](../../core-features/lag.md)
 
 
 
