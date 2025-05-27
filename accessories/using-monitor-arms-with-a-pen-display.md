@@ -16,8 +16,8 @@ Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209]
 
 Here's some creative DIY solutions:
 
-* [https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/](https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/)  &#x20;
-* [https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/](https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/)&#x20;
+* [https://www.reddit.com/r/huion/comments/ryrt3x/diy\_arm\_mount\_kamvas\_16\_2021/](https://www.reddit.com/r/huion/comments/ryrt3x/diy_arm_mount_kamvas_16_2021/)  &#x20;
+* [https://www.reddit.com/r/huion/comments/159hnvy/finally\_found\_a\_use\_for\_this\_stand/](https://www.reddit.com/r/huion/comments/159hnvy/finally_found_a_use_for_this_stand/)&#x20;
 
 ## **Wacom Flex arm**
 
@@ -34,7 +34,7 @@ If you already have a monitor arm you can use the Wacom VESA Mount for Cintiq 24
 
 Huion has a monitor arm which appears to be a rebranded version of a generic monitor arm.
 
-[r/Huion - Huion ST500 Desktop Arm Review](https://www.reddit.com/r/huion/comments/1d5bin3/huion\_st500\_desktop\_arm\_review/) 2024/05/31&#x20;
+[r/Huion - Huion ST500 Desktop Arm Review](https://www.reddit.com/r/huion/comments/1d5bin3/huion_st500_desktop_arm_review/) 2024/05/31&#x20;
 
 ## North Bayou
 
@@ -42,7 +42,7 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 * North Bayou F100A
 * North Bayou F80
-  * [https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/](https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/)
+  * [https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/](https://www.reddit.com/r/wacom/comments/16jmczd/just_wanted_to_share_i_found_the_perfect_setup/)
 
 ## Ergotron
 
@@ -50,7 +50,7 @@ I use this brand a lot.&#x20;
 
 <mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark> &#x20;
 
-[Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w\_3pzQcjfg) 2021/10/01
+[Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021/10/01
 
 [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04&#x20;
 
@@ -60,13 +60,9 @@ I use this brand a lot.&#x20;
 
 link: [https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Tabletop/dp/B074P7Y9ZG](https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Tabletop/dp/B074P7Y9ZG)
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-</div>
-
-I just ordered this in August 2024, so I haven't had time to use it yet. By September, I'll have some initial notes on it.&#x20;
 
 ## Wobble
 
@@ -81,8 +77,8 @@ If you want to have ZERO wobble you need to use a stand with your pen display.
 ## Resources
 
 * There's a write up on using tablets that includes a section on a North Bayou arm here: [https://www.asianjoyco.com/resources-tutorials/digital-sculpting-tools](https://www.asianjoyco.com/resources-tutorials/digital-sculpting-tools)&#x20;
-* [David Zhang - $25 vs. $300 Monitor Arm - What Stands Do I Recommend?](https://www.youtube.com/watch?v=\_\_K4V8pFhf4) 2019/10/25&#x20;
-* [/r/huion - Is there a way to attach the Huion Kamvas 16 2021 to a monitor arm?](https://www.reddit.com/r/huion/comments/oygb83/is\_there\_a\_way\_to\_attach\_the\_huion\_kamvas\_16\_2021/) 2021/08/05&#x20;
+* [David Zhang - $25 vs. $300 Monitor Arm - What Stands Do I Recommend?](https://www.youtube.com/watch?v=__K4V8pFhf4) 2019/10/25&#x20;
+* [/r/huion - Is there a way to attach the Huion Kamvas 16 2021 to a monitor arm?](https://www.reddit.com/r/huion/comments/oygb83/is_there_a_way_to_attach_the_huion_kamvas_16_2021/) 2021/08/05&#x20;
 
 
 
