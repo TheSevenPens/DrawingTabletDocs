@@ -23,7 +23,7 @@ This diagnostic information is very useful for troubleshooting common issues suc
 * Click **Diagnostics** on the bottom right of the **Advanced settings** panel to show the diagnostics information&#x20;
 * NOTE: The only a portion of the Diagnostics information can be seen at one time, so you will need to vertically scroll that section.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## XP-Pen PenTablet (v4.x)
 
@@ -38,9 +38,15 @@ This diagnostic information is very useful for troubleshooting common issues suc
 
 
 
-## Huion HuionTab app
+## Huion HuionTablet app
 
-Unfortunately, there is not an equivalent diagnostic tool in the the HuionTab application.
+Unfortunately, there is not an equivalent diagnostic tool in the the **HuionTablet** application. Instead Huion has a separate diagnostic tool called the QC tool.
 
+As of May 27 2025, I have suggested to Huion that they incorporate some features of their QC tool into the HuionTablet app. I think that would be very helpful.
 
+## Huion QC tool
+
+To get the Huion QC tool, contact Huion customer support and they will send you a download link and instructions on how to use it.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
