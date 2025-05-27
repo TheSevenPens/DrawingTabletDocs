@@ -65,6 +65,22 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 * [XOOT stand](xoot-stand.md)
 
+## VIVO VESA monitor and touch screen desk stand
+
+I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](7p-vivo-v100r.md)
+
+<div align="left"><figure><img src="../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+
+
+
+## XP-Pen ACS15 Ergo Stand
+
+See this video
+
+{% embed url="https://www.youtube.com/watch?v=rA3WQDBzEn4" %}
+
+##
+
 ## Stands I use
 
 * I use the Huion ST100A stand with my Huion Kamvas Pro 19

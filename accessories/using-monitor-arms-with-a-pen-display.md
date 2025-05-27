@@ -7,6 +7,10 @@ Using a monitor arm with your pen display comes down to whether your pen display
 * **If your pen display is VESA mountable**, you can use a VESA compatible monitor arm.
 * **If your pen display is not VESA mountable,** there are some options
 
+{% hint style="info" %}
+Instead of an arm, you might also explore [**stands**](stands/) for your tablets.
+{% endhint %}
+
 ## Arms for pen displays without VESA support
 
 Smaller pen displays are about the size of a laptop, so you can try an arm designed to hold a laptop.
@@ -46,23 +50,27 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 ## Ergotron
 
-I use this brand a lot.&#x20;
+I use this brand a lot. [<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark>](using-monitor-arms-with-a-pen-display/7p-ergotron-monitor-arms.md)
 
-<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark> &#x20;
-
-[Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021/10/01
-
-[Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04&#x20;
-
-[Ergotron - Install Ergotron HX Monitor Arm with Heavy-Duty Tilt Pivot or HD Pivot](https://www.youtube.com/watch?v=3GZYP7DwwCA) 2021/05/24&#x20;
+* [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021/10/01
+* [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04&#x20;
+* [Ergotron - Install Ergotron HX Monitor Arm with Heavy-Duty Tilt Pivot or HD Pivot](https://www.youtube.com/watch?v=3GZYP7DwwCA) 2021/05/24&#x20;
 
 ## VIVO VESA monitor and touch screen desk stand
 
-link: [https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Tabletop/dp/B074P7Y9ZG](https://www.amazon.com/VIVO-Adjustable-Counterbalance-Free-Standing-Tabletop/dp/B074P7Y9ZG)
+I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](stands/7p-vivo-v100r.md)
 
 <div align="left"><figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 
+
+## XP-Pen ACS15 Ergo Stand
+
+See this video
+
+{% embed url="https://www.youtube.com/watch?v=rA3WQDBzEn4" %}
+
+##
 
 ## Wobble
 
