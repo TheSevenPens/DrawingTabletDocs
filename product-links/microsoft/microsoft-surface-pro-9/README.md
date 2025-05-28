@@ -12,6 +12,10 @@ With the optional Surface Slim Pen 2, the Surface Pro 8 and above can serve well
 
 Compared to versions 8 and above, the pen experience is worse. Again it can serve OK for notetaking but not for drawing.&#x20;
 
+## 2025 Surface Pro 12"
+
+* [Brad Colbow - 2025 Surface Pro 12" Review](https://www.youtube.com/watch?v=gqliiMdruys) 2025/0528
+
 ## Microsoft Surface Pro 11&#x20;
 
 * The Surface Pro 11 uses an ARM chip. More here: [Windows on ARM](../../../guides/windows/windows-on-arm.md)
