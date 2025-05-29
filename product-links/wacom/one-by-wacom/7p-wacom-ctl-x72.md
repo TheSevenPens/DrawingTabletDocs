@@ -70,4 +70,4 @@ There is a slight amount of texture on the surface to keep the pen from feeling 
 
 ## Osu!
 
-These is a highly recommended tablets for playing osu! More here: [**Buying a drawing tablet for osu!**](../../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
+The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
