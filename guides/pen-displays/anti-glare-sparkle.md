@@ -2,7 +2,7 @@
 
 ## Companion video&#x20;
 
-Because this is a visible phenomenon, watching the video I made on this topic may be a good starting point.  [https://youtu.be/g\_nsvraK3P8](https://youtu.be/g\_nsvraK3P8)
+Because this is a visible phenomenon, watching the video I made on this topic may be a good starting point.  [https://youtu.be/g\_nsvraK3P8](https://youtu.be/g_nsvraK3P8)
 
 {% embed url="https://youtu.be/g_nsvraK3P8" %}
 
@@ -116,7 +116,7 @@ However, some people have had luck reducing the sparkle by adding a film on top 
 
 Here is an example:&#x20;
 
-* r/wacom - [Cintiq 24 Pro OEM screen protector](https://www.reddit.com/r/wacom/comments/1455ay0/cintiq\_24\_pro\_oem\_screen\_protector/) 6/9/2023
+* r/wacom - [Cintiq 24 Pro OEM screen protector](https://www.reddit.com/r/wacom/comments/1455ay0/cintiq_24_pro_oem_screen_protector/) 6/9/2023
 
 ### **AG Film**
 
@@ -137,12 +137,11 @@ If you do remove the film, you will be drawing on the glass of the display. To a
 ## Reddit threads
 
 * r/huion - [https://www.reddit.com/r/huion/comments/13ikmph/](https://www.reddit.com/r/huion/comments/13ikmph/) - This deleted reddit post has an video thet perfectly demonstrates the shimmering effect of the sparkle.
-* r/huion - [Is this normal? Possible display issue? noisy output?](https://www.reddit.com/r/huion/comments/z2gfsx/is\_this\_normal\_possible\_display\_issue\_noisy\_output/) 11/23/2022
+* r/huion - [Is this normal? Possible display issue? noisy output?](https://www.reddit.com/r/huion/comments/z2gfsx/is_this_normal_possible_display_issue_noisy_output/) 11/23/2022
 
 ## References
 
-[https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays)
-
-[https://www.youtube.com/watch?v=8iTGUNAxPOc](https://www.youtube.com/watch?v=8iTGUNAxPOc)
-
-[https://jamesferwerda.files.wordpress.com/2015/06/j18\_ferwerda14\_jsid.pdf](https://jamesferwerda.files.wordpress.com/2015/06/j18\_ferwerda14\_jsid.pdf)
+* [Radiant Vision Systems - Repeatable Sparkle Measurement for Quality Control of Anti-Glare Displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays) 2020/10/26&#x20;
+* [Radiant Vision Systems - Defining a Sparkle Measurement Standard for Quality Control of Anti-Glare Displays](https://www.youtube.com/watch?v=8iTGUNAxPOc) 2020/10/08
+* [Gollier et al. - Display Sparkle Measurement and Human Response](https://jamesferwerda.com/wp-content/uploads/2015/06/r23_gollier13_sid.pdf)
+* [Ferwerda et al. - Perception of sparkle in anti-glare display screens](https://jamesferwerda.com/wp-content/uploads/2015/06/j18_ferwerda14_jsid.pdf) &#x20;
