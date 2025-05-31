@@ -7,12 +7,6 @@ These are highly-curated recommendations for people who are just beginning to ge
 * All these tablets deliver the basic experiences and a reasonable price
 * Some of these tablets are missing so-called "pro" features.
 
-Below you'll find my beginner-friendly recommendations for:&#x20;
-
-* pen tablets (no screen)
-* pen displays (have a screen)
-* and standalone tablets.&#x20;
-
 {% hint style="info" %}
 I HIGHLY RECOMMEND you:
 
@@ -22,11 +16,9 @@ I HIGHLY RECOMMEND you:
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](./)&#x20;
 {% endhint %}
 
-## Pen tablets vs Pen displays
+## Which kind of drawing tablet
 
-My recommendation for beginners is to start with a pen tablet (medium size) and get used to that first.  Pen displays have pros and cons - don't assume they are better.
-
-Much more here: [**pen tablets vs pen displays**](../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
+The first thing you need to understand is the type of drawing tablet you want to buy. So, read this document first before you continue: [**Types of drawing tablets**](../basics/types-of-drawing-tablets.md).
 
 ## Pen tablets
 
