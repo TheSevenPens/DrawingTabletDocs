@@ -87,9 +87,11 @@ All **pen tablets** can be connected with a single USB cable. Many pen tablets (
 
 **Pen displays** do NOT have any wireless options. There is always at least one cable used with a pen display. Pen displays are more varied than pen tablets in how the cabling works. In truth, connecting a pen display can be very complicated. It's very important you understand how a pen display will connect to your computer before you purchase a pen display. More here: [**connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
 
-## Applications
+## Compatibility with applications
 
-Any application on your computer, will treat the pen just as if you have a mouse. So, broadly speaking, **all applications are compatible with drawing tablet**. If the tablet driver is installed, then **Pen-aware applications** take advantage of special features of the pen such as pressure, tilt, etc. Great examples of pen-aware applications are Krita and Clip Studio Paint, which are popular drawing applications. More here: [**applications**](../applications/)&#x20;
+Once you install the tablet drivers, **all applications are compatible with drawing tablets**. In addition, creative applications (paint programs, etc.) can take advantage of special features of the tablet such as pressure sensitivity and tilt.
+
+See: [**App compatibility with drawing tablets**](app-compatibility-with-drawing-tablets.md)
 
 ## Pen nibs
 
