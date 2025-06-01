@@ -2,7 +2,7 @@
 
 ## Summary
 
-Once drivers are installed, **All applications** are compatible with drawing tablets. Pen-aware apps (such as Krita) can make use of features such as pressure and tilt.
+Once the tablet drivers are installed, **All applications** are compatible with drawing tablets. Pen-aware apps (such as Krita) can make use of features such as pressure and tilt.
 
 ## All apps
 
