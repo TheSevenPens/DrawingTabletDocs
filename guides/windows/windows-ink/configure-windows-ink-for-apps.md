@@ -35,11 +35,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
   * **Windows Ink**&#x20;
 * Restart Affinity Photo/Designer once you change this setting.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## ArtRage Vitae
 
@@ -49,11 +45,25 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
   * UNCHECKED -> disable Windows Ink
 * Restart ArtRage once you change this setting.
 
-<div align="left">
+<div align="left"><figure><img src="../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure>
+## Medibang Paint
 
-</div>
+* In MediBang, navigate to **File > Prefs and Settings > Brush Preference Settings**
+* Set the **Validate native OS pen pressure detection**
+  * CHECKED -> enable Windows Ink (it is checked by default)
+  * UNCHECKED -> disable Windows Ink
+* Click **OK**
+* Restart Medibang
+
+## Firealpaca
+
+* In **FireAlpaca**, navigate to **File > Brush Environment Settings**
+* To the right of Select Pen Pressure API choose an option
+  * **Touch PC + Pen Tablet (Wintab)** -> disable Windows Ink
+  * **PC + Pen Tablet (Wintab)** -> disable Windows Ink
+  * **Tablet PC** -> use Windows Ink
+* **Brush Preference Settings**
 
 ## Configuring other applications
 
@@ -62,10 +72,7 @@ Many other apps covered here: [https://opentabletdriver.net/Wiki/FAQ/WindowsAppS
 This list includes
 
 * Photoshop CC
-* FireAlpaca
 * Paint Tool SAI 2&#x20;
-* MediBantg Paint
 * Corel Painter
 * Rebelle
 * Affinity Photo and Affinity Designer&#x20;
-
