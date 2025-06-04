@@ -1,22 +1,24 @@
+---
+description: Buttons, sliders, dials, touch strips on tablets
+---
+
 # Auxiliary inputs
 
 ## Overview&#x20;
 
-The primary way you provide input via the tablet is via the pen.
-
-However, some drawing tablets have other built-in ways of providing input.&#x20;
+The primary way you provide input via the tablet is via the pen. However, some drawing tablets have other built-in ways of providing input.&#x20;
 
 * Buttons (both physical and capacitive)&#x20;
 * Dials
 * Touch-sensitive strips and wheels
 
-## Termionilogy
+## Terminology: ExpressKeys
 
 **ExpressKeys** is a Wacom-specific term for buttons on Wacom tablets. However, many people have adopted it as a term to describe use to describe buttons on tablets from all brands.
 
 Huion calls buttons "Press Keys"
 
-## Disabling Auxiliary inputs
+## Disabling auxiliary inputs
 
 Some people love using these kind of inputs, but some people do not like them because either they
 
@@ -26,14 +28,18 @@ Some people love using these kind of inputs, but some people do not like them be
 
 For these cases, you should be aware that these inputs can often be configured in the tablet driver to "do nothing".
 
-## Actions&#x20;
+## Binding inputs to actions&#x20;
 
-You can map the buttons to take a variety of actions. Broadly the categories are
+You can bind the buttons to take a variety of actions. Broadly the categories are
 
 * Mouse-related actions - right click, left-click, double click
 * System navigation - scroll left, scroll right, zoom in/out, pan, switch applications
 * System tasks - run application, open a file
 * Keyboard - Press a key, hold down a modifier key
+
+## Common useful bindings
+
+You can make these auxiliary inputs to all sorts of useful things. Here are some popular examples I found: [Popular bindings for auxiliary inputs](popular-bindings-for-auxiliary-inputs.md)
 
 ## Global vs application configuration
 
@@ -45,38 +51,13 @@ For example you can set a button to
 * Increase opacity when you are using Clip Studio Paint
 * Increase the volume of your speakers under all other conditions
 
-## Common useful assignments
-
-### Buttons
-
-* Undo | Redo
-* Zoom In | Out | to 100% | Zoom to Fit
-* Increase | Decrease brush size
-* Increase | Decrease burhs opacity
-* Rotate Left | Right | Reset to 0 degrees
-* Switch between tools (brush, eyedropper, etc.)
-* Select All | None | Invert | Lasso selection | color similarity selection
-* Go to layer above | below
-* Display toggle
-* Precision mode
-* Pan/Scroll
-
-### Rotary dials
-
-These are great for "paired" tasks
-
-* Zoom In / Out
-* Increase / Decrease brush size
-* Increase / Decrease brush opacity
-* Rotate canvas
-
-Some rotary dials support turning as well as a third press action. This is useful for a situations where there are three related actions such as rotate right, ritate left, and reset rotation.
+##
 
 ## Default settings
 
 Wacom Intuos Pro PTH-660
 
-<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption><p>Default expressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
 
 ## Examples
 
