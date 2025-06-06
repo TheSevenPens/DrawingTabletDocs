@@ -18,7 +18,7 @@ For example in the Wacom Tablet Properties app it looks like this:
 
 The X axis labelled as "Pen pressure" is the logical input pressure
 
-The Y axis lavelled as "Output" is hte output logical pressure
+The Y axis labelled as "Output" is the output logical pressure
 
 This particular curve bends down a little. But many other shapes are possible. Each shape has their uses.
 
