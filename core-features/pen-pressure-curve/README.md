@@ -47,3 +47,8 @@ Details on specific shapes
 * [Null pressure curve](null-pressure-curve.md)
 * [Pressure curves that constrain the output logical pressure range](pressure-curves-that-constrain-output.md)
 * [Pressure curves that ignore input](pressure-curves-that-ignore-input.md)
+
+## Driver UX for pressure curves
+
+See [Adjusting pressure curve in tablet driver](adjusting-pressure-curve-in-tablet-driver.md)
+

@@ -81,6 +81,7 @@
     * [Implementing pressure curves](core-features/pen-pressure-curve/implementing-pressure-curves.md)
     * [Pressure curves that ignore input](core-features/pen-pressure-curve/pressure-curves-that-ignore-input.md)
     * [Pressure curve shape support in applications](core-features/pen-pressure-curve/pressure-curve-shape-support-in-applications.md)
+    * [Adjusting pressure curve in tablet driver](core-features/pen-pressure-curve/adjusting-pressure-curve-in-tablet-driver.md)
   * [Disable pen pressure](core-features/disable-pen-pressure.md)
   * [Pen hover](core-features/pen-hover.md)
   * [Pen tracking](core-features/pen-tracking.md)
