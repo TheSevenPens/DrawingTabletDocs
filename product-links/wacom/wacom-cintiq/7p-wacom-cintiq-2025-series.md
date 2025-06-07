@@ -8,8 +8,15 @@ These tablets have just bee announced in early June. This page contains the outl
 
 ## Display specs
 
-* Native resolution: 2560x1440
-* Aspect ratio: 16x10
+* Display Panel tech: IPS
+* Native resolution:&#x20;
+  * Cintiq 24/24 touch (2025): 2560x1440
+  * Cintiq 16 (2025): 2560x1600
+* Aspect ratio:&#x20;
+  * Cintiq 24/24 touch (2025): 16:9
+  * Cintiq 16 (2025): 16:10
+* Anti-glare treatment: AG glass
+* Laminated: YES
 
 ## Included Pen
 
@@ -30,6 +37,23 @@ Wacom Pro Pen 3 (ACP-500)
 
 ## Touch
 
-* Cintiq 24 touch (2025) - supports touch
-* Cintiq 24 (2025) - no touch support
+* Cintiq 24 / 24 touch (2025) - supports touch
 * Cintiq 16 (2025) - no touch support
+
+## VESA compatible
+
+* Cintiq 24 / 24 touch touch (2025) - VESA 75 x 75 mm
+* Cintiq 16 (2025) - VESA 75 x 75 mm
+
+## Buttons
+
+TBD
+
+## Fans
+
+TBD
+
+## Noise
+
+TBD
+
