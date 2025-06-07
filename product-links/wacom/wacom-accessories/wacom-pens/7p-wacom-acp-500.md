@@ -113,6 +113,15 @@ Because the pen is very modular, I was afraid that it would feel unstable. Actua
 * Very difficult to bend when the Grip is installed.
 * **The grip can be damaged with sufficient force.** If you squeeze the grip when it is not on the pen, you will initially find it hard to bend however much if the rigidity is due to the plastic shell inside. If you keep exerting pressure you will break the plastic and it won't fit as well when you place it on the pen.
 
+## Buttons
+
+Compared to the buttons on the Pro Pen 2, the Pro Pen 3 buttons
+
+* are more easily felt/detected by the fingers
+* require noticeably more force to press
+
+I like how the new buttons work, but I have seen some complaints in online forums where users find the buttons irritating or even somewhat painful to use.
+
 ## Compatibility with older Wacom tablets
 
 Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
