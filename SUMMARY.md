@@ -84,6 +84,7 @@
     * [Adjusting pressure curve in tablet driver](core-features/pen-pressure-curve/adjusting-pressure-curve-in-tablet-driver.md)
   * [Disable pen pressure](core-features/disable-pen-pressure.md)
   * [Pen hover](core-features/pen-hover.md)
+  * [Hover jitter](core-features/hover-jitter.md)
   * [Pen tracking](core-features/pen-tracking.md)
   * [Pen tilt compensation](core-features/pen-tilt-compensation.md)
   * [Pen barrel rotation](core-features/pen-barrel-rotation.md)
