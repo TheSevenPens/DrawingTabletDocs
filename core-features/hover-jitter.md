@@ -17,12 +17,3 @@ Especially at the upper end of the hover range. Pens can often be detected even 
 ## Prevalence
 
 Specific digitizers families may be prone to hover jitter.
-
-## Countermeasures
-
-Tablets could apply "hover smoothing" to counteract the jitter. However, this can make the pen feel sluggish on hover. Also transitioning from hover to drawing may cause the position changes to feel weird. This is one reason why osu players generally want tablets that do not have hover smoothing or position smoothing in the tablet firmware.
-
-
-
-
-
