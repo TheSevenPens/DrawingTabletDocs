@@ -65,20 +65,30 @@ More here: [**Recessed USB-C ports**](recessed-usb-c-ports.md)&#x20;
 
 ## Manufacturer cables vs third-party cables
 
-I recommend you get the USB-C cables the manufacturer provides for use with a single USB-C cable configuration for two reasons:
+I recommend you get the USB-C cables provided by the manufacturerfor two reasons:
 
-* These cables are known to work with the device
-* The tablet may have recessed USB-C ports and these cables are designed to fit.
+* These cables are known to work with your tablet
+* The tablet may have recessed USB-C ports and these cables are designed to fit that port. Other cables may not even fit inside.
 
 More here: [Using 3rd-party cables with your drawing tablet](using-3rd-party-cables-with-your-drawing-tablet/)&#x20;
 
-## Thunderbolt 3/4 cables
+## Thunderbolt 3/4/5 cables
 
-To keep it simple, I often just use Thunderbolt 3 or Thunderbolt 4 cables since these are USB-C cables that are defined to support DP alt mode and enough power.&#x20;
+To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB-C cables that are defined to support DP alt mode and enough power.&#x20;
 
 ## The specific Thunderbolt 3 cable I use
 
 I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../accessories/cables/7p-cablematters-thunderbolt-3-cable.md).
+
+## How to tell if a USB-C cable could be used as a single-cable for your pen display
+
+Unfortunately, this can be very hard since there are reliable indicators for USB-C cables. The vast majority of USB-C cables are unmarked.
+
+**Thunderbolt labeled USB-C cables**- if you see a thunderbolt logo on A USB-C cable. This means it is either a thunderbolt 3,4,or 5 cable. And this means it supports all the needed requirements
+
+**USB4 labeled USB-C cables** - I've never seen a cable labelled USB4. But if you see one, it should support all the requirements needed.
+
+**Unlabeled USB-C cables** - You will have to rely on manufacturer specs to determine this. Sometimes these cables are described as "Full-featured" USB-C cables.
 
 ## Resources
 
