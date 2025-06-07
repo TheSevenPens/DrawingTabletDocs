@@ -523,7 +523,7 @@
   * [Project Patchouli](resources/project-patchouli.md)
 * [Process](process/README.md)
   * [Pressure range data](process/pressure-range-data.md)
-  * [Measuring hover height](process/measuring-hover-height.md)
+  * [Measuring hover](process/measuring-hover.md)
   * [Measuring pressure](process/measuring-pressure.md)
   * [Measuring display sharpness](process/measuring-display-sharpness.md)
   * [Measuring report rate](process/measuring-report-rate.md)

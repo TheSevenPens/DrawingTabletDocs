@@ -64,7 +64,7 @@ These are the quick summary highlights. &#x20;
 
 ## Pen Hover Height
 
-* See: [Measuring hover height](measuring-hover-height.md)
+* See: [Measuring hover height](measuring-hover.md)
 
 ## Pen Hover -> Drag transition
 
