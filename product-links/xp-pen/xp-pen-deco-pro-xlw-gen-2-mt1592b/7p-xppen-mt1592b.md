@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen Deco Pro XLW GEN2 (MT1592B)
+# 7P: XP-Pen Deco Pro XLW GEN2 (MT1592B)
 
 ## Notes
 
@@ -69,6 +69,35 @@ It has more wobble than the Wacom Intuos Pro Large (PTH-860). Notice that wobble
 Enabling brush smoothing options in your applications will minimize its visibility.
 
 <figure><img src="../../../.gitbook/assets/Wobble XP-Pen Deco Pro GEN2 XLW (MT1592B).png" alt=""><figcaption></figcaption></figure>
+
+## Hover jitter
+
+Some users have reported that the pointer "shakes" when the pen is hovering over the tablet.
+
+Example: [https://www.reddit.com/r/XPpen/comments/1h66ei5/beware\_of\_the\_deco\_pro\_gen\_2\_rant/](https://www.reddit.com/r/XPpen/comments/1h66ei5/beware_of_the_deco_pro_gen_2_rant/)&#x20;
+
+**My testing**
+
+* Testing process: I begin with the pen 0.5mm from the surface and moved up by 0.5 mm increments and noted any jitter I experienced. I used my hover height tool to keep the tip of the pen at specific distances from the tablet surface. See: [Measuring hover height](../../../process/measuring-hover-height.md).
+* With the Deco Pro GEN2 MW
+  * **<= 7mm :** No jitter
+  * **>7mm to <=10 mm** : Slight & sporadic jitter
+  * &#x20;**>10mm to 14mm** : Jitter grows in frequency and intensity. Max jitter at 14mm
+  * **>14mm** : Pen no longer detected
+* With Deco Pro GEN2 XLW
+  * **<= 10mm :** No jitter
+  * **>10mm to <=14 mm** : Slight & sporadic jitter
+  * &#x20;**>14mm to 16mm** : Jitter grows in frequency and intensity. Max jitter at 16mm
+  * **>16mm** : Pen no longer detected
+
+**My evaluation:**
+
+* This hover jitter effect did not bother me. I didn't even notice it until someone brought it to my attention in June of 2025.
+* As it is a hover effect, it does NOT affect drawing
+* It also appears toward the upper end of the supported hover range of 10mm. Where it might be masked by the natural tremors of the hand.
+* However some people do notice this effect and are irritated by it.&#x20;
+
+
 
 ## Accessories
 
