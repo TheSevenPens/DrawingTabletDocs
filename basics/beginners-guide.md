@@ -97,6 +97,10 @@ See: [**App compatibility with drawing tablets**](app-compatibility-with-drawing
 
 At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [**nib wear**](../guides/caring-for-your-tablet/nib-wear.md)  &#x20;
 
+Tablets almost always come with spare nibs. Some nibs made of different material which provide a different drawing feeling. More here: [**Pen nib material**](../core-features/pen-nib-material.md).&#x20;
+
+Nibs that come with a tablet may be provided in a separate plastic bag or pouch, may be stored in a pen stand, may be stored inside the pen, etc.&#x20;
+
 ## Drawing with a tablet vs a mouse
 
 A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [**absolute versus relative positioning**](../core-features/absolute-versus-relative-positioning.md). Using the tablet driver, you can make the tablet and pen work more like a mouse by using [**mouse mode**](../core-features/mouse-mode.md).
