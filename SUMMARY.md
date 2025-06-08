@@ -407,7 +407,7 @@
         * [Wacom 2K Pen (LP-190K)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-lp-190k.md)
         * [Wacom One 2019 GEN1 Pen (CP-913)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-cp-913.md)
         * [Wacom One 2023 Pen (CP-923)](product-links/wacom/wacom-accessories/wacom-pens/7p-wacom-cp-923.md)
-        * [Wacom Intuos 2 Grip Pen (XP-501E)](product-links/wacom/wacom-accessories/wacom-pens/wacom-intuos-2-grip-pen-xp-501e.md)
+        * [Wacom Intuos2 Grip Pen (XP-501E)](product-links/wacom/wacom-accessories/wacom-pens/wacom-intuos2-grip-pen-xp-501e.md)
         * [Wacom Intuos 2 Airbrush pen (XP-400E)](product-links/wacom/wacom-accessories/wacom-pens/wacom-intuos-2-airbrush-pen-xp-400e.md)
         * [Wacom 4K Pen for Intuos (LP-1100K)](product-links/wacom/wacom-accessories/wacom-pens/wacom-4k-pen-for-intuos-lp-1100k.md)
       * [Wacom pen compatibility](product-links/wacom/wacom-accessories/wacom-pen-compatibility.md)
