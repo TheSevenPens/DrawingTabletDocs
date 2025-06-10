@@ -1,6 +1,6 @@
 # List of apps
 
-### Creative 2D
+## Creative 2D
 
 * **ArtFlow Studio** (Android, ChromeOS) \[[**links**](http://artflowstudio.com/)]
 * **ArtRage** (Windows, macOS, iOS, Android) \[[**links**](../app-links/artrage.md)]
@@ -28,20 +28,20 @@
 * **Procreate** (iOS) \[[**links**](../app-links/procreate/)]
 * **Rebelle** (Windows, MacOS) \[[**links**](../app-links/rebelle.md)]
 
-### Sketching
+## Sketching
 
 * **Concepts** (Windows, Android, iOS, ChromeOS) \[[**links**](../app-links/concepts-app.md)]
 * **Sketchbook** (iOS, Android) \[[https://www.sketchbook.com/](https://www.sketchbook.com/)]
 * **Sketchbook Pro** (MacOS, Windows) \[[https://www.sketchbook.com/](https://www.sketchbook.com/)]
 
-### Vector
+## Vector
 
 * **Affinity Designer** (Windows, MacOS) \[]
 * **Adobe Illustrator** (Windows, MacOS) \[]
 * **Inkscape** (Windows, MacOS, Linux) \[[**links**](../app-links/inkscape.md)] <mark style="background-color:purple;">**FREE**</mark>
 * **VectorInk** (Online, Android)  \[[Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink)]
 
-### 3D&#x20;
+## 3D&#x20;
 
 * **Autodesk Maya**  \[[https://www.autodesk.com/products/maya/](https://www.autodesk.com/products/maya/)]
 * **Blender** (Linux, MacOS, Windows, BSD)  \[[**links**](../app-links/blender.md)] <mark style="background-color:purple;">**FREE**</mark>
@@ -51,12 +51,20 @@
 * **Voxelcanvas** (web) \[[https://voxelcanvas.io/](https://voxelcanvas.io/)]
 * **ZBrush** (Windows, MacOS, iPadOS) \[[https://www.maxon.net/en/zbrush](https://www.maxon.net/en/zbrush)]
 
-### Photo editing
+## Photo editing
 
 * **Adobe Photoshop** (Windows, MacOS) \[[**links**](../app-links/photoshop.md)]
 * **Affinity Photo** \[[https://affinity.serif.com/en-us/photo/](https://affinity.serif.com/en-us/photo/)]
 * **Photopea** (web) \[[https://www.photopea.com/](https://www.photopea.com/) ]
 
-Presenting
+## Presenting
 
 * **ZoomIt** (Windows) \[[**links**](../app-links/zoomit.md)] **FREE**
+
+
+
+## **Diagramming**
+
+* Visio - [https://www.microsoft.com/en-us/microsoft-365/visio](https://www.microsoft.com/en-us/microsoft-365/visio)&#x20;
+* Excalidraw - [https://excalidraw.com/](https://excalidraw.com/)&#x20;
+* Draw.io - [diagrams.net](https://www.drawio.com/)
