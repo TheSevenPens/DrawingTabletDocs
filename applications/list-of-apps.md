@@ -61,10 +61,12 @@
 
 * **ZoomIt** (Windows) \[[**links**](../app-links/zoomit.md)] **FREE**
 
-
-
 ## **Diagramming**
 
 * Visio - [https://www.microsoft.com/en-us/microsoft-365/visio](https://www.microsoft.com/en-us/microsoft-365/visio)&#x20;
 * Excalidraw - [https://excalidraw.com/](https://excalidraw.com/)&#x20;
 * Draw.io - [diagrams.net](https://www.drawio.com/)
+
+## Utilities
+
+* Tablet Pro Studio (Windows) \[[https://tabletpro.com/](https://tabletpro.com/)]
