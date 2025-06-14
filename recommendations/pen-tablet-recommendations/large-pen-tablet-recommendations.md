@@ -8,4 +8,4 @@
 
 ## Good&#x20;
 
-* Huion Inspiroy Giano (G930L) \[$200, [**links**](../../product-links/huion/huion-inspiroy/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/huion/huion-inspiroy/7p-huion-g930l.md)] &#x20;
+* Huion Inspiroy Giano (G930L) \[$200, [**links**](../../product-links/huion/huion-inspiroy/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/huion/huion-inspiroy/huion-g930l.md)] &#x20;

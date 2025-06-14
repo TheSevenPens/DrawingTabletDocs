@@ -47,7 +47,7 @@ More here:&#x20;
 * [**Brands**](../drawing-tablet-brands/)
 * [**Choosing a drawing tablet brand**](../drawing-tablet-brands/choosing-a-drawing-tablet-brand.md) &#x20;
 
-f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-links/wacom/7p-comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
+f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-links/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## Product info
 
@@ -136,7 +136,7 @@ More here:&#x20;
 
 * [**App compatibility with drawing tablets**](../basics/app-compatibility-with-drawing-tablets.md)
 * [**Applications**](../applications/) &#x20;
-* [**Recommended apps**](../applications/recommended-apps.md)&#x20;
+* [**Recommended apps**](../applications/7p-recommended-apps.md)&#x20;
 
 ## Buying used drawing tablets
 

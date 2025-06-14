@@ -2,14 +2,14 @@
 description: Using an iPad as a drawing tablet
 ---
 
-# 7P: Apple iPad
+# Apple iPad
 
 ## Overview
 
 iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
-* [**7P: Apple iPad versus drawing tablets**](apple-ipad-versus-drawing-tablets.md)
-* [**7P: Apple iPad versus Samsung Galaxy Tab S**](7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**7P: Apple iPad versus drawing tablets**](7p-apple-ipad-versus-drawing-tablets.md)
+* [**7P: Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
@@ -106,7 +106,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 
 * You may or may not be sensitive to the anti-glare sparkle effect. Some people hate it. Some are much less sensitive to it.&#x20;
 * iPads don't show much AG sparkle at all - I would say it is undetectable in the iPads I have examined
-* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](7p-apple-ipad.md#anti-glare-sparkle)
+* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](apple-ipad-1.md#anti-glare-sparkle)
 
 ## **Size**
 

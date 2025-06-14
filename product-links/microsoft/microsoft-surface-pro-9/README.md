@@ -34,7 +34,7 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 ## Microsoft Surface Pro 8
 
 * Product page: [https://www.microsoft.com/en-us/d/surface-pro-8](https://www.microsoft.com/en-us/d/surface-pro-8)&#x20;
-* [<mark style="background-color:green;">**7P: Microsoft Surface Pro 8**</mark>](7p-microsoft-surface-pro-8.md)
+* [<mark style="background-color:green;">**7P: Microsoft Surface Pro 8**</mark>](microsoft-surface-pro-8.md)
 * [MobileTechReview review of Microsoft Surface Pro 8](https://youtu.be/v2mOtMiGN7s)&#x20;
 * [Brad Colbow review of Surface Pro 8](https://youtu.be/OG-y1NlRp3g) &#x20;
 * [Tech on Tech review of Microsoft Surface Pro 8](https://youtu.be/wNtmOONAyxk)&#x20;

@@ -12,7 +12,7 @@
 
 ## XP-Pen Deco Pro XLW GEN2 (MT1592B)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-xppen-mt1592b.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](xppen-mt1592b.md)
 * [EyekooDrawsStuff review of XP-Pen Deco Pro GEN2](https://www.youtube.com/watch?v=itnwkJVlWiw) 2024/11/29&#x20;
 * [Teoh on Tech review of XP-Pen Deco Pro GEN2](https://youtu.be/h8NG0zmYdtE) 2023/07.25
 * [Joseph Montanez XP-Pen Deco Pro GEN2 XLW](https://youtu.be/pRLBRTWPlQU) 2023/06/20

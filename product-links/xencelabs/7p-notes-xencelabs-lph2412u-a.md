@@ -1,4 +1,4 @@
-# 7P: Xencelabs Pen Display 24 (LPH2412U-A)
+# Xencelabs Pen Display 24 (LPH2412U-A)
 
 ## Overview
 
@@ -91,7 +91,7 @@ With a felt nib
 
 ## **Pens**
 
-**More here:** [**7P: Xencelabs V2 pens**](7p-xencelabs-v2-pens.md)&#x20;
+**More here:** [**7P: Xencelabs V2 pens**](xencelabs-v2-pens.md)&#x20;
 
 ### Pressure range
 

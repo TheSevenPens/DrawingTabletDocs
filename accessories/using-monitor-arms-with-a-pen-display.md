@@ -50,7 +50,7 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 ## Ergotron
 
-I use this brand a lot. [<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark>](using-monitor-arms-with-a-pen-display/7p-ergotron-monitor-arms.md)
+I use this brand a lot. [<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark>](using-monitor-arms-with-a-pen-display/ergotron-monitor-arms.md)
 
 * [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021/10/01
 * [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04&#x20;

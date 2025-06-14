@@ -1,4 +1,4 @@
-# 7P: Wacom One 2019 GEN1 Pen (CP-913)
+# Wacom One 2019 GEN1 Pen (CP-913)
 
 ## Overview
 
@@ -38,7 +38,7 @@ Two things separate this pen from Wacom's Pro Pens:
 
 ## Next Generation Wacom One GEN2 pen (CP-923)
 
-This successor pen CP-923, is awful. See my notes: [7P notes: Wacom One Pen GEN2 (CP-923)](7p-wacom-cp-923.md)&#x20;
+This successor pen CP-923, is awful. See my notes: [7P notes: Wacom One Pen GEN2 (CP-923)](wacom-cp-923.md)&#x20;
 
 ## Tablet Compatibility&#x20;
 

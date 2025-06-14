@@ -1,4 +1,4 @@
-# 7P: Samsung Galaxy Tab S series
+# Samsung Galaxy Tab S series
 
 ## Overview
 
@@ -40,7 +40,7 @@ The Wacom CP-913 pen provides an better experience with this device. When I draw
 
 ### Using the Wacom One 2023 GEN2 Pen CP-923
 
-This pen is trash. Avoid it. My notes: [7P: Wacom One Pen 2023 GEN2 (CP-923)](../wacom/wacom-accessories/wacom-pens/7p-wacom-cp-923.md)&#x20;
+This pen is trash. Avoid it. My notes: [7P: Wacom One Pen 2023 GEN2 (CP-923)](../wacom/wacom-accessories/wacom-pens/wacom-cp-923.md)&#x20;
 
 ## Pointer lag
 
@@ -68,7 +68,7 @@ More here: [**Applications**](../../applications/)&#x20;
 
 ## Versus the Apple iPad
 
-You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/7p-apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Using a Galaxy Tab S tablet as an external monitor via USB-C
 

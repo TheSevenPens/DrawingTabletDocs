@@ -1,4 +1,4 @@
-# 7P: Wacom One 2023 GEN2 pen displays
+# Wacom One 2023 GEN2 pen displays
 
 ## <mark style="color:red;">**I do not recommend the Wacom One 2023 GEN2 pen displays**</mark>
 
@@ -16,7 +16,7 @@ As you can see from the my testing below. The stroke quality with the new pen is
 
 ## Notes on the new Wacom One Pen (GEN2)
 
-**See this:**[ 7P: Wacom One Pen (GEN2](../wacom-accessories/wacom-pens/7p-wacom-cp-923.md))&#x20;
+**See this:**[ 7P: Wacom One Pen (GEN2](../wacom-accessories/wacom-pens/wacom-cp-923.md))&#x20;
 
 ## **Cables & connectivity**
 

@@ -1,4 +1,4 @@
-# 7P: Xencelabs Pen Display 16 (LPH1612U-A)
+# Xencelabs Pen Display 16 (LPH1612U-A)
 
 ## Overview <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
 
@@ -74,5 +74,5 @@ The tablet exhibits moderate diagonal wobble at all speeds.
 
 ## Stand
 
-The tablet comes with the Xencelabs Mobile Easel. [**My notes on the Xencelabs Mobile Easel**](7p-xencelabs-mobile-easel.md).
+The tablet comes with the Xencelabs Mobile Easel. [**My notes on the Xencelabs Mobile Easel**](xencelabs-mobile-easel.md).
 

@@ -22,7 +22,7 @@
 
 ## XP-Pen Deco LW (IT1060B)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-xppen-it1060b.md)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](xppen-it1060b.md)&#x20;
 * Model Year: 2021
 * NOTE: This is the wireless version of XP-Pen Deco L (IT1060B)&#x20;
 * User manual: [https://www.xp-pen.com/user-manual/deco-lw.html](https://www.xp-pen.com/user-manual/deco-lw.html)&#x20;

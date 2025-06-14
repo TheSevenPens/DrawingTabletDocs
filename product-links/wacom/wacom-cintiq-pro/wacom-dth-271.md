@@ -1,4 +1,4 @@
-# 7P: Wacom Cintiq Pro 27 (DTH-271)
+# Wacom Cintiq Pro 27 (DTH-271)
 
 ## Summary
 
@@ -91,7 +91,7 @@
 
 ### Parallax
 
-* Background: [**parallax**](7p-wacom-dth-271.md#parallax)
+* Background: [**parallax**](wacom-dth-271.md#parallax)
 * An iPad Pro has EXCELLENT parallax (very little parallax)
 * The display of the Cintiq Pro 27 has VERY GOOD parallax due to its full lamination but clearly not as good as an iPad Pro
 * The Cintiq Pro 27 parallax is nothing special for modern pen displays. Many pen displays are fully laminated lately.
@@ -104,8 +104,8 @@ See my [**notes on the Wacom Pro Pen 3**](../wacom-accessories/wacom-pens/7p-wac
 
 ### **Diagonal wobble**
 
-* Background: [diagonal wobble](7p-wacom-dth-271.md#diagonal-wobble)
-* In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [diagonal wobble](7p-wacom-dth-271.md#diagonal-wobble).&#x20;
+* Background: [diagonal wobble](wacom-dth-271.md#diagonal-wobble)
+* In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [diagonal wobble](wacom-dth-271.md#diagonal-wobble).&#x20;
 * NOTE: Originally I had ranked the Cintiq Pro 27 as having VERY GOOD wobble. Upon further testing with many other tablets, I havve downgraded the ranking.
 * As tablet that costs $3500 I think The Cintiq Pro 27 tablet should have better (less) diagonal wobble. There are other tablets out there at various price levels that are better:
   * Wacom Intuos PTH-860
@@ -424,7 +424,7 @@ Key points
 
 ### Huion Kamvas 24 Pro 4K ($1300)
 
-I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [My notes on this tablet](../../huion/huion-kamvas-pro/7p-huion-gt2401.md).
+I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [My notes on this tablet](../../huion/huion-kamvas-pro/huion-gt2401.md).
 
 Comparing the Wacom Cintiq Pro 27 the Huion Kamvas 24 Pro 4K.&#x20;
 
@@ -455,7 +455,7 @@ The Huion may represent a better practical choice for many people because the Hu
 
 ### Xencelabs Pen Display 24
 
-[My experience with this tablet](../../xencelabs/xencelabs-lph2412u-a.md).
+[My experience with this tablet](../../xencelabs/7p-notes-xencelabs-lph2412u-a.md).
 
 The Cintiq pro is superior in general to the Xencelabs Pen Display 24.
 

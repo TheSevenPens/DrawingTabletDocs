@@ -1,4 +1,4 @@
-# 7P: Comparison of Wacom pen tablets
+# Comparison of Wacom pen tablets
 
 ## Overview
 
@@ -20,7 +20,7 @@ Here are [my detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro
 
 ## Wacom One 2023 tablets
 
-The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](wacom-one-2023-gen2/7p-wacom-one-2023-pen-displays.md)&#x20;
+The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](wacom-one-2023-gen2/wacom-one-2023-pen-displays.md)&#x20;
 
 ## Recommendation summary
 

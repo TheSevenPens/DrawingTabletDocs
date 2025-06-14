@@ -11,7 +11,7 @@ Look at the Galaxy Tab S series which works with the Samsung S pen - which is a 
 Notes
 
 * [General notes on the Samsung Galaxy Tab S series](samsung-galaxy-tab-s-series.md)&#x20;
-* [My notes on the Galaxy Tab S series](samsung-galaxy-tab-s-series-1.md)
+* [My notes on the Galaxy Tab S series](7p-samsung-galaxy-tab-s-series.md)
 
 
 

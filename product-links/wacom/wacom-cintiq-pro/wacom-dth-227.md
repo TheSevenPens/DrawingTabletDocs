@@ -1,4 +1,4 @@
-# 7P: Wacom Cintiq Pro 22 (DTH-227)
+# Wacom Cintiq Pro 22 (DTH-227)
 
 ## Summary
 
@@ -6,7 +6,7 @@ The Cintiq Pro 22 (DTH-227) along with the Cintiq Pro 27 (DTH-271) are the best 
 
 This is my favorite tablet of the 70+ that I own. I prefer drawing on this one more than any other because of the drawing quality and the size (not too big, not too small).
 
-* my notes on the [Cintiq Pro 27 (DTH-271)](7p-wacom-dth-271.md)
+* my notes on the [Cintiq Pro 27 (DTH-271)](wacom-dth-271.md)
 
 ## Basics
 

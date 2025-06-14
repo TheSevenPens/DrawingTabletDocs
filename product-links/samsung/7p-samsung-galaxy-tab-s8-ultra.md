@@ -7,7 +7,7 @@
 * I did feel it drained the battery faster than other tablets in my collection - even when I wasn't using it for heavy-duty tasks
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-galaxy-tab-s-series-1.md).
+These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](7p-samsung-galaxy-tab-s-series.md).
 {% endhint %}
 
 ## Device size

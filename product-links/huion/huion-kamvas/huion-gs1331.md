@@ -1,8 +1,8 @@
-# 7P: Huion Kamvas 13 (GS1331)
+# Huion Kamvas 13 (GS1331)
 
 ## **Overview**
 
-A decent, slightly older pen display. I highly recommend getting the Kamvas 13 GEN3 (GS1333) instead - it is a better tablet in every way. More here: [**Kamvas 13 GEN3 (GS1333)**](7p-huion-gs1333.md)&#x20;
+A decent, slightly older pen display. I highly recommend getting the Kamvas 13 GEN3 (GS1333) instead - it is a better tablet in every way. More here: [**Kamvas 13 GEN3 (GS1333)**](huion-gs1333.md)&#x20;
 
 Another budget alternative is the XP-Pen Artist 13 GEN2.&#x20;
 

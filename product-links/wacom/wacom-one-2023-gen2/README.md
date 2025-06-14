@@ -11,8 +11,8 @@ Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](http
 | Wacom One M         | CTC-6110WL | pen tablet (screenless) |
 | Wacom One S         | CTC-4110WL | pen tablet (screenless) |
 
-* [<mark style="background-color:green;">**My notes on the Wacom One 2023 GEN2 pen displays**</mark>](7p-wacom-one-2023-pen-displays.md) &#x20;
-* [<mark style="background-color:green;">**My notes on the Wacom One 2023 GEN2 pen tablets**</mark>](7p-wacom-one-pen-tablets.md)&#x20;
+* [<mark style="background-color:green;">**My notes on the Wacom One 2023 GEN2 pen displays**</mark>](wacom-one-2023-pen-displays.md) &#x20;
+* [<mark style="background-color:green;">**My notes on the Wacom One 2023 GEN2 pen tablets**</mark>](wacom-one-pen-tablets.md)&#x20;
 
 
 

@@ -1,4 +1,4 @@
-# 7P: Wacom Intuos 4 XL (PTK-1240)
+# Wacom Intuos 4 XL (PTK-1240)
 
 I also have used the **Intuos 4 XL** extensively.&#x20;
 

@@ -1,4 +1,4 @@
-# 7P: Recommended apps
+# Recommended apps
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# 7P: Huion Kamvas 22 Plus (GS2202)
+# Huion Kamvas 22 Plus (GS2202)
 
 ## **Summary**
 
