@@ -1,4 +1,4 @@
-# 7P notes: VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)
+# VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)
 
 ## Overall
 
@@ -10,11 +10,7 @@ product page [https://vivo-us.com/collections/monitor-mounts/products/stand-v001
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/VIVO STAND-V100R.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/VIVO STAND-V100R.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## VESA
 

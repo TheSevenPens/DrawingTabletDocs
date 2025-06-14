@@ -1,4 +1,4 @@
-# 7P: Wacom Intuos Pro 2017 (PTH-x60)
+# Wacom Intuos Pro 2017 (PTH-x60)
 
 ## Overview
 

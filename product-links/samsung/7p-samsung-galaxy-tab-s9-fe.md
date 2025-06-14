@@ -13,7 +13,7 @@ It's just an all around good device.
 * And it's highly competitive with an Apple iPad.
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](7p-samsung-galaxy-tab-s-series.md).
+These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-galaxy-tab-s-series-1.md).
 {% endhint %}
 
 ## Line wobble

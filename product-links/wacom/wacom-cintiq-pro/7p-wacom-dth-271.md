@@ -455,7 +455,7 @@ The Huion may represent a better practical choice for many people because the Hu
 
 ### Xencelabs Pen Display 24
 
-[My experience with this tablet](../../xencelabs/7p-notes-xencelabs-lph2412u-a.md).
+[My experience with this tablet](../../xencelabs/xencelabs-lph2412u-a.md).
 
 The Cintiq pro is superior in general to the Xencelabs Pen Display 24.
 

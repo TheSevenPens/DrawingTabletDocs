@@ -1,4 +1,4 @@
-# 7P : XP-Pen Artist Pro 16 GEN2 (MD160QH)
+# XP-Pen Artist Pro 16 GEN2 (MD160QH)
 
 ## **Overall**
 

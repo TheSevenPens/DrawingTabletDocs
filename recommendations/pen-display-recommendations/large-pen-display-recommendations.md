@@ -28,14 +28,14 @@
 
 ## Value with compromises
 
-* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-links/huion/huion-kamvas/7p-huion-gs2202.md) .&#x20;
+* Huion Kamvas 22 Plus (GS2202) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../product-links/huion/huion-kamvas/huion-gs2202.md) .&#x20;
   * Consider getting the PW550 pen for this tablet.
 * Huion Kamvas 22 (GS2201) \[$450, [**links**](../../product-links/huion/huion-kamvas/)]&#x20;
   * Consider getting the PW550 pen for this tablet.
 
 ## Not tested yet
 
-* LARGE [**Xencelabs Pen Display 24**](../../product-links/xencelabs/) (LPH2412U-A) \[$1800, [**links**](../../product-links/xencelabs/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/xencelabs/7p-notes-xencelabs-lph2412u-a.md)]
+* LARGE [**Xencelabs Pen Display 24**](../../product-links/xencelabs/) (LPH2412U-A) \[$1800, [**links**](../../product-links/xencelabs/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/xencelabs/xencelabs-lph2412u-a.md)]
 
 ## Videos
 

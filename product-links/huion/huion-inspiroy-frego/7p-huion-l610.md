@@ -1,4 +1,4 @@
-# 7P: Huion Inspiroy Frego M (L610)
+# Huion Inspiroy Frego M (L610)
 
 ## Overview
 

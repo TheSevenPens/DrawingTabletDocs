@@ -27,7 +27,7 @@ These are tablets WITHOUT a screen that need to be connected to a computer (some
 If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for true. It's reliable and has a good drawing experience. The Huion Frego is a new tablet (released in 2024) that is also a terrific beginner choice.&#x20;
 
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../product-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/wacom/one-by-wacom/7p-wacom-ctl-x72.md)] ★★★
-* Huion Inspiroy Frego M (L610) \[$90, [**links**](../product-links/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/huion/huion-inspiroy-frego/huion-l610.md) ] ★★★
+* Huion Inspiroy Frego M (L610) \[$90, [**links**](../product-links/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../product-links/huion/huion-inspiroy-frego/7p-huion-l610.md) ] ★★★
 * XP-Pen Deco series ★★★
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../product-links/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../product-links/xp-pen/xp-pen-deco/)]
@@ -58,6 +58,6 @@ More info: [**7P notes: Apple iPad versus Samsung Galaxy Tab S**](../product-lin
 
 * **Apple iPad** - Any Apple iPad that works with the Apple Pencil 2 ([<mark style="background-color:green;">**My notes**</mark>](../product-links/apple/7p-apple-ipad.md))&#x20;
   * NOTE: You will have the buy the Apple Pencil 2 separately. It does NOT come with the iPad.
-* **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-links/samsung/7p-samsung-galaxy-tab-s-series.md) )
+* **Samsung Galaxy Tab S9 FE** ([<mark style="background-color:green;">**My notes**</mark>](../product-links/samsung/samsung-galaxy-tab-s-series-1.md) )
   * NOTE: The Samsung S Pen COMES WITH the tablet.
-  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-links/samsung/7p-samsung-galaxy-tab-s-series.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.
+  * If you are one a smaller budget, Samsung Galaxy Tab S6 lite (2022 or 2024 edition)  ([<mark style="background-color:green;">**My notes**</mark>](../product-links/samsung/samsung-galaxy-tab-s-series-1.md)) - a little bit sluggish but the price is great. The Samsun S pen also comes with this tablet.

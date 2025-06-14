@@ -1,4 +1,4 @@
-# 7P notes: M3 MacBook Pro
+# M3 MacBook Pro
 
 ## Overview
 

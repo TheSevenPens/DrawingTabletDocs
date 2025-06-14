@@ -1,4 +1,4 @@
-# 7P: Huion Inspiroy WH1409V2
+# Huion Inspiroy WH1409V2
 
 <figure><img src="../../../.gitbook/assets/DSC00142 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
 

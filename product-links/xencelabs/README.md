@@ -11,7 +11,7 @@
 
 ## Xencelabs Pen Display 24 (LPH2412U-A)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-notes-xencelabs-lph2412u-a.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](xencelabs-lph2412u-a.md)
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)&#x20;
 * [MobileTechReview review of Xencelabs Pen Display 24](https://www.youtube.com/watch?v=o6R07naf2es) 2024/03/19 &#x20;
 * [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) 2023/06/04
