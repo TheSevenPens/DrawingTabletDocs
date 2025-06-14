@@ -27,4 +27,4 @@
 
 ## Additional resources &#x20;
 
-* [**7P 13" pen displays compared (2023)**](../comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md) &#x20;
+* [**13" pen displays compared (2023)**](../comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md) &#x20;

@@ -40,7 +40,7 @@ The Wacom CP-913 pen provides an better experience with this device. When I draw
 
 ### Using the Wacom One 2023 GEN2 Pen CP-923
 
-This pen is trash. Avoid it. My notes: [7P: Wacom One Pen 2023 GEN2 (CP-923)](../wacom/wacom-accessories/wacom-pens/wacom-cp-923.md)&#x20;
+This pen is trash. Avoid it. [<mark style="background-color:green;">**my notes on CP-923**</mark>](../wacom/wacom-accessories/wacom-pens/wacom-cp-923.md)&#x20;
 
 ## Pointer lag
 
