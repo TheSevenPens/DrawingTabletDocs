@@ -58,7 +58,7 @@ I use this brand a lot. [<mark style="background-color:green;">**My notes on Erg
 
 ## VIVO VESA monitor and touch screen desk stand
 
-I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](stands/7p-vivo-v100r.md)
+I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](stands/vivo-v100r.md)
 
 <div align="left"><figure><img src="../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 

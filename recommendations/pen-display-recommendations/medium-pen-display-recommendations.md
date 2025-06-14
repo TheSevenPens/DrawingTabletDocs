@@ -3,7 +3,7 @@
 ## Top Picks 16"-17"
 
 * Huion Kamvas 16 GEN3 (GS1563) ★★★ \[$500, [**links**](../../product-links/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/huion/huion-kamvas/7p-huion-gs1563.md)]
-* XP-Pen Artist Pro 16 GEN2 (MD160QH) ★★★ \[$600, [**links**](../../product-links/xp-pen/xp-pen-artist-pro-gen2/7p-xppen-md160qh.md)**,** [<mark style="background-color:green;">**my notes**</mark>](../../product-links/xp-pen/xp-pen-artist-pro-gen2/7p-xppen-md160qh.md)]
+* XP-Pen Artist Pro 16 GEN2 (MD160QH) ★★★ \[$600, [**links**](../../product-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md160qh.md)**,** [<mark style="background-color:green;">**my notes**</mark>](../../product-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md160qh.md)]
 * Wacom Cintiq Pro 17 (DTH-172) \[$2500, [**info**](../../product-links/wacom/wacom-cintiq-pro/)]
 * Wacom Cintiq Pro 16 (DTH-167) \[$1500, [**links**](../../product-links/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/wacom-cintiq-pro/7p-wacom-dth-167.md)]
 
