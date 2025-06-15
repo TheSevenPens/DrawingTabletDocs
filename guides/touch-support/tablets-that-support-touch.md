@@ -4,6 +4,8 @@
 
 Only a small number of of pen tablets (screenless tablets) and pen displays (screen tablets) support touch.&#x20;
 
+For more on touch: [**Touch support**](./)
+
 ## Pen tablets that support touch
 
 * Wacom Intuos Pro 2017 Small (PTH-460)
@@ -19,7 +21,6 @@ Only a small number of of pen tablets (screenless tablets) and pen displays (scr
 * Wacom Bamboo create (CTH-670)
 * Wacom Intuos Draw|Art|Photo|Comic Small (CTH-490)
 * Wacom Intuos Draw|Art|Photo|Comic Medium (CTH-690)
-* Pen displays that support touch
 
 ## Pen displays that support touch
 
