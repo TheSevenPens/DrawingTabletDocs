@@ -1,4 +1,4 @@
-# Using tablet older drivers
+# Using older tablet drivers
 
 ## Finding older drivers
 
@@ -12,4 +12,4 @@ A common issue is that the operating system has changed since the driver was fir
 
 ## Alternatives to using older drivers
 
-Consider [**OpenTabletDriver** ](opentabletdriver/opentabletdriver-application-data-directory.md)
+Consider [**OpenTabletDriver** ](opentabletdriver/)
