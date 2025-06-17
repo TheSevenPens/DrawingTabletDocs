@@ -58,7 +58,7 @@ I think the 4X3 aspect ratio of the Apple iPad is in general a better choice. Th
 
 There are significant differences in pressure handling.
 
-* Samsung S pens - are OK in terms of pressure handling. They have a slightly higher IAF (3gf to 6gf) and don't have a high maximum pressure (200gf). More here: [**7P notes: Samsung S Pen**](../samsung/samsung-s-pen/7p-samsung-s-pen.md)&#x20;
+* Samsung S pens - are OK in terms of pressure handling. They have a slightly higher IAF (3gf to 6gf) and don't have a high maximum pressure (200gf). More here: [**7P notes: Samsung S Pen**](../samsung/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
 * Apple Pencil 2nd GEN and Apple Pencil Pro - These have a very low IAF based on users' comments (some people say <1gf) and a high maximum pressure of 500gf.
 
 ## Pen nib retraction&#x20;

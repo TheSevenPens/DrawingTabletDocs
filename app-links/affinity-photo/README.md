@@ -1,5 +1,5 @@
 # Affinity Photo
 
 * [https://affinity.serif.com/](https://affinity.serif.com/)
-* [**My notes on this app**](7p-affinity-photo.md)&#x20;
+* [**My notes on this app**](affinity-photo-notes.md)&#x20;
 

@@ -7,13 +7,13 @@ The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can p
 Specific models I own:
 
 * Samsung Galaxy Tab S8 Ultra&#x20;
-  * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-samsung-galaxy-tab-s8-ultra.md))
+  * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](samsung-galaxy-tab-s8-ultra.md))
 * Samsung Galaxy Tab S9 FE&#x20;
-  * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](7p-samsung-galaxy-tab-s9-fe.md))
+  * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](samsung-galaxy-tab-s9-fe.md))
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition)&#x20;
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
 
-These tablets come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/7p-samsung-s-pen.md)
+These tablets come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Size
 
@@ -28,7 +28,7 @@ Size has a huge impact on how the tablet feels to use especially with the 16X9 a
 
 ### Standard pens
 
-The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/7p-samsung-s-pen.md).
+The Galaxy Tab models come with an Samsung S Pen. Here are my notes: [**7P notes: Samsung S Pen**](samsung-s-pen/samsung-s-pen-notes.md).
 
 ### Compatible Pens
 

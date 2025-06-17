@@ -8,17 +8,17 @@ If you want to see a full list of applications go here: [**Applications**](./).&
 
 ## Recommendations
 
-* [**Clip Studio Paint**](../app-links/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/clip-studio-paint/7p-clip-studio-paint.md)&#x20;
+* [**Clip Studio Paint**](../app-links/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/clip-studio-paint/clip-studio-paint-notes.md)&#x20;
   * (Windows, MacOS, Android, iOS)
-* [**Krita**](../app-links/krita/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/krita/7p-krita.md)   &#x20;
+* [**Krita**](../app-links/krita/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/krita/krita-notes.md)   &#x20;
   * (Windows, Linux, MacOS)
-* [**Affinity Photo**](../app-links/affinity-photo/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/affinity-photo/7p-affinity-photo.md)  &#x20;
+* [**Affinity Photo**](../app-links/affinity-photo/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/affinity-photo/affinity-photo-notes.md)  &#x20;
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)
 * [**Adobe Photoshop**](../app-links/adobe-photoshop/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/adobe-photoshop/7p-adobe-photoshop.md)&#x20;
   * (Windows, MacOS)
-* [**Procreate**](../app-links/procreate/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/procreate/7p-procreate.md) &#x20;
+* [**Procreate**](../app-links/procreate/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/procreate/procreate-notes.md) &#x20;
   * (iOS)
 * **Rebelle** - no notes
   * (Windows, MacOS)
