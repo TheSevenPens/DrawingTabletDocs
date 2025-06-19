@@ -1,4 +1,4 @@
-# Drawing tablet recommendations
+# Recommendations
 
 ## Overview
 
@@ -12,7 +12,7 @@ Below, here are tablets I would personally recommend separated by device type. T
 
 If you are beginner, then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners.md).
 
-### **Resources**
+## **Resources**
 
 * [**Buying a drawing tablet**](../buying-a-drawing-tablet/)&#x20;
 * [**Drawing tablet brands**](../drawing-tablet-brands/)&#x20;

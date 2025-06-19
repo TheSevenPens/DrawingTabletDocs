@@ -1,5 +1,15 @@
 # Large pen display recommendations
 
+{% hint style="warning" %}
+**Before you purchase:**
+
+* Read [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md)&#x20;
+* Review these [**Buying tips**](../../buying-a-drawing-tablet/buying-tips.md)&#x20;
+* Look through the [**Drawing Tablet Buying Guide**](../../buying-a-drawing-tablet/)&#x20;
+
+If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../)&#x20;
+{% endhint %}
+
 ## 22" Top Picks
 
 * Wacom Cintiq Pro 22 \[$3000, [**info**](../../product-links/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/wacom/wacom-cintiq-pro/wacom-dth-227.md)]
