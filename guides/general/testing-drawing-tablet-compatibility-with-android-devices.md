@@ -9,9 +9,7 @@
 
 ## Pen tablet testing results
 
-<table><thead><tr><th width="164.41668701171875">Android device </th><th width="109.08331298828125">Android Ver</th><th width="108.75">TabletBrand</th><th width="113.3333740234375">Tablet</th><th>Status </th></tr></thead><tbody><tr><td>Google Pixel 9a </td><td>15 </td><td>Wacom</td><td>PTH-660 </td><td>WORKS </td></tr><tr><td>Google Pixel 9a </td><td>15 </td><td>Wacom</td><td>PTK-670 </td><td>WORKS </td></tr><tr><td>Google Pixel 9a </td><td>15 </td><td>Wacom</td><td>CTL-672 </td><td>WORKS (NEEDS OTG ADAPTER)</td></tr><tr><td>Samsung Galaxy Tab S8 Ultra </td><td>14 </td><td>Wacom</td><td>PTH-660 </td><td>WORKS </td></tr><tr><td>Samsung Galaxy Tab S8 Ultra </td><td>14 </td><td>Wacom</td><td>PTK-670 </td><td>WORKS </td></tr><tr><td>Samsung Galaxy Tab S8 Ultra </td><td>14 </td><td>Wacom</td><td>CTL-672 </td><td>WORKS (NEEDS OTG ADAPTER)</td></tr><tr><td>Samsung S24 Ultra </td><td>15 </td><td>Wacom</td><td>PTH-660 </td><td>WORKS </td></tr><tr><td>Samsung S24 Ultra </td><td>15 </td><td>Wacom</td><td>PTK-670 </td><td>WORKS </td></tr><tr><td>Samsung S24 Ultra </td><td>15 </td><td>Wacom</td><td>CTL-672 </td><td>WORKS (NEEDS OTG ADAPTER)</td></tr><tr><td>Samsung Galaxy Tab S8 Ultra</td><td>15</td><td>Wacom</td><td>GD-0405-U</td><td>WORKS</td></tr><tr><td>Samsung Galaxy Tab S8 Ultra</td><td>15</td><td>Wacom</td><td>XD-0608-U</td><td>WORKS</td></tr></tbody></table>
-
-
+LINK TO SPREADSHEET: [https://1drv.ms/x/c/c2cae95d828b7c69/EWnB-LdroZhKuzdhv725y7EB9lLEEknufIeOiLgTKortLg?e=fPbwnx](https://1drv.ms/x/c/c2cae95d828b7c69/EWnB-LdroZhKuzdhv725y7EB9lLEEknufIeOiLgTKortLg?e=fPbwnx)
 
 ## Pen display results
 
