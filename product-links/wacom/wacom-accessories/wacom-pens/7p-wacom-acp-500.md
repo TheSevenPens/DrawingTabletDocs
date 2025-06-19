@@ -1,10 +1,14 @@
-# 7P: Wacom Pro Pen 3 (ACP-500)
+# Wacom Pro Pen 3 (ACP-500)
 
 ## Pro Pen 3
 
 The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Wacom Pro Pen 3 (ACP50000DZ).jpg" alt=""><figcaption></figcaption></figure>
+
+## General information
+
+* [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025/01/25 (archive)
 
 ## Pressure&#x20;
 
