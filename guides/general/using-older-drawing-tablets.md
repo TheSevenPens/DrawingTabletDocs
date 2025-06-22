@@ -47,15 +47,14 @@ Some older pen tablets that have ports, do not use USB-C ports, but instead micr
 
 Some older pen displays use proprietary ports and connectors.&#x20;
 
+## Restoring yellowed-plastic
+
+If you are buying a very old drawing tablet, the plastic may have shifted colors and turned more yellow over time. This color change can be reversed. This process is called **retrobright.**
+
+The video below provides clear instructions on how to perform the retrobright process.&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=jdWRsjnVD3s" %}
+
 ## Resources
 
 * [Draw your weapon - Old Wacom tablets? Still great for digital art](https://drawyourweapon.com/looking-at-old-wacom-drawing-tablet/) 2021/10/01
-
-
-
-
-
-
-
-##
-
