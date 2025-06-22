@@ -116,6 +116,7 @@
     * [Removing and replacing the surface film on a pen display](guides/caring-for-your-tablet/removing-and-replacing-the-surface-film-on-a-pen-display.md)
     * [Nib wear](guides/caring-for-your-tablet/nib-wear.md)
     * [Replacing a pen](guides/caring-for-your-tablet/replacing-a-pen.md)
+    * [Retrobright to handle yellowed plastic](guides/caring-for-your-tablet/retrobright-to-handle-yellowed-plastic.md)
   * [Customizing your experience](guides/customizing-your-experience/README.md)
     * [Match aspect ratios with Force Proportions](guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
     * [Shrinking the active area](guides/customizing-your-experience/shrinking-the-active-area.md)

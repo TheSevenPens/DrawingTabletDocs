@@ -47,13 +47,11 @@ Some older pen tablets that have ports, do not use USB-C ports, but instead micr
 
 Some older pen displays use proprietary ports and connectors.&#x20;
 
-## Restoring yellowed-plastic
+## Yellowed-plastic
 
-If you are buying a very old drawing tablet, the plastic may have shifted colors and turned more yellow over time. This color change can be reversed. This process is called **retrobright.**
+If you are using a very old drawing tablet, the plastic may have shifted colors and turned more yellow over time. You may not find the look of this yellow tint very attractive.
 
-The video below provides clear instructions on how to perform the retrobright process.&#x20;
-
-{% embed url="https://www.youtube.com/watch?v=jdWRsjnVD3s" %}
+If you wish to remove or reduce the yellowing consider using a retrobright process. More here: [**retrobrighting**](../caring-for-your-tablet/retrobright-to-handle-yellowed-plastic.md).
 
 ## Resources
 
