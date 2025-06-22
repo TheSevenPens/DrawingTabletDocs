@@ -47,7 +47,7 @@ Some older pen tablets that have ports, do not use USB-C ports, but instead micr
 
 Some older pen displays use proprietary ports and connectors.&#x20;
 
-## Yellowed-plastic
+## Yellowed plastic
 
 If you are using a very old drawing tablet, the plastic may have shifted colors and turned more yellow over time. You may not find the look of this yellow tint very attractive.
 
