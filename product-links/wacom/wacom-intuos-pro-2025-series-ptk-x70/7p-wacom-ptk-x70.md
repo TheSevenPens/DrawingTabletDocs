@@ -1,4 +1,4 @@
-# 7P: Wacom Intuos Pro 2025 (PTK-x70)
+# Wacom Intuos Pro 2025 (PTK-x70)
 
 ## Summary
 
@@ -434,6 +434,10 @@ Overall for PTK-670 with Pro Pen 2
 Reference:
 
 * Skill-test.net page:  [https://skill-test.net/polling-rate-test](https://skill-test.net/polling-rate-test)
+
+## Pen hover height testing
+
+<table><thead><tr><th width="125.5">Tablet</th><th width="122">Pen</th><th width="115">Initial detect height</th><th width="125">Max height</th></tr></thead><tbody><tr><td>PTK-670</td><td>ACP-500</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-670</td><td>KP-504E</td><td>11 mm</td><td>15 mm</td></tr><tr><td>PTK-870</td><td>ACP-500</td><td>16 mm</td><td>16 mm</td></tr><tr><td>PTK-870</td><td>KP-504E</td><td>13 mm</td><td>16 mm</td></tr><tr><td>PTK-470</td><td>ACP-500</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>KP-504E</td><td>12 mm</td><td>15 mm</td></tr></tbody></table>
 
 ## Pen compatibility testing
 
