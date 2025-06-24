@@ -4,6 +4,9 @@ description: PTZ-x30 series
 
 # Wacom Intuos3
 
+## Overview
+
+* Release year: 2004
 * Preceded by: [Intuos2](wacom-intuos-2.md)
 * Succeeded by: [Intuos4](wacom-intuos-4/)
 

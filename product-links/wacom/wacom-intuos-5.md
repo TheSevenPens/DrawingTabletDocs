@@ -8,6 +8,7 @@ description: PTH-x50 and PTK-x40 series
 
 The Intuos 5 series was the last time Wacom used "Intuos" only to mean professional pen tablets. After this series Wacom went to calling their professional series "Intuos Pro".
 
+* Release year: 2012
 * Preceded by: [Intuos4](wacom-intuos-4/)
 * Succeeded by: [Intuos Pro 2013](wacom-intuos-pro-2013-series-pth-x51.md)
 

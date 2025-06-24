@@ -10,6 +10,7 @@ description: SD series
 
 The SD series is the tablet that all modern Wacom drawing tablets descend from.
 
+* Release year: 1987
 * Preceded by: N/A
 * Succeeded by: [Wacom UD series](wacom-ud-tablets.md)
 

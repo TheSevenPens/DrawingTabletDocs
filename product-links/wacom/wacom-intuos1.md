@@ -4,6 +4,9 @@ description: GD series
 
 # Wacom Intuos1
 
+## Overview
+
+* Release year: 1998
 * Preceded by: [Wacom UD series](wacom-ud-tablets.md)
 * Succeeded by: [Intuos2](wacom-intuos-2.md)
 

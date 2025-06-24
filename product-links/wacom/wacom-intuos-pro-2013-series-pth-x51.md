@@ -8,6 +8,7 @@ description: PTH-x51 series
 
 ## Overview
 
+* Release year: 2013
 * Preceded by: [Intuos5](wacom-intuos-5.md)
 * Succeeded by: [Intuos Pro 2017](wacom-intuos-pro-2017-series-pth-x60/)
 

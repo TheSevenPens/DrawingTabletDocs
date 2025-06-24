@@ -8,6 +8,7 @@ description: XD Series
 
 This is a professional pen tablet series from 2001.
 
+* Release year: 2001
 * Preceded by: [Intuos1](wacom-intuos1.md)
 * Succeeded by: [Intuos3](wacom-intuos-3.md)
 

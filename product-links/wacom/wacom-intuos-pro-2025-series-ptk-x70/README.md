@@ -8,6 +8,7 @@ description: PTK-x70 series
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-intuos-pro](https://www.wacom.com/en-us/products/wacom-intuos-pro)&#x20;
 * [My notes on these tablets](7p-wacom-ptk-x70.md)
+* Release year: 2025
 * Preceded by: [Intuos Pro 2017](../wacom-intuos-pro-2017-series-pth-x60/)
 * Succeeded by: N/A
 
