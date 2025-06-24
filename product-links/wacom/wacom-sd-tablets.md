@@ -10,6 +10,9 @@ description: SD series
 
 The SD series is the tablet that all modern Wacom drawing tablets descend from.
 
+* Preceded by: N/A
+* Succeeded by: [Wacom UD series](wacom-ud-tablets.md)
+
 ## User manuals
 
 * [User manual for Wacom SD-510C](https://archive.org/details/sd-510-c-user-manual/SD-510C_User_Manual.pdf) (English)

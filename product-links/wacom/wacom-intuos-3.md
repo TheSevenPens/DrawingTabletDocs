@@ -4,6 +4,9 @@ description: PTZ-x30 series
 
 # Wacom Intuos3
 
+* Preceded by: [Intuos2](wacom-intuos-2.md)
+* Succeeded by: [Intuos4](wacom-intuos-4/)
+
 ## Models
 
 <table><thead><tr><th width="131">ModelD</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTZ-430</td><td>Intuos3 4x5</td></tr><tr><td>PTZ-431W</td><td>Intuos3 4x6</td></tr><tr><td>PTZ-630</td><td>Intuos3 6x8</td></tr><tr><td>PTZ-631W</td><td>Intuos3 6x11</td></tr><tr><td>PTZ-930</td><td>Intuos3 9x12</td></tr><tr><td>PTZ-1230</td><td>Intuos3 12x12</td></tr><tr><td>PTZ-1231W</td><td>Intuos3 12x19</td></tr></tbody></table>
