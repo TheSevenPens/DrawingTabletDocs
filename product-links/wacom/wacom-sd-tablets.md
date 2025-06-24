@@ -14,6 +14,10 @@ The SD series is the tablet that all modern Wacom drawing tablets descend from.
 * Preceded by: N/A
 * Succeeded by: [Wacom UD series](wacom-ud-tablets.md)
 
+## Models
+
+<table data-header-hidden><thead><tr><th width="174.50006103515625">Model</th></tr></thead><tbody><tr><td>SD-510C</td></tr><tr><td>SD-420E</td></tr><tr><td>SD-421E</td></tr><tr><td>SD-422E</td></tr><tr><td>SD-320E</td></tr><tr><td>SD-321E</td></tr><tr><td>SD-322E</td></tr><tr><td>SD-310E</td></tr><tr><td>SD-311E</td></tr><tr><td>SD-312E</td></tr><tr><td>SD-210L</td></tr><tr><td>SD-013A</td></tr><tr><td>SD-013L</td></tr></tbody></table>
+
 ## User manuals
 
 * [User manual for Wacom SD-510C](https://archive.org/details/sd-510-c-user-manual/SD-510C_User_Manual.pdf) (English)

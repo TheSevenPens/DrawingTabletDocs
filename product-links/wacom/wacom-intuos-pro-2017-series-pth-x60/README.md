@@ -11,6 +11,13 @@ description: PTH-x60 series
 * Preceded by: [Intuos Pro 2013](../wacom-intuos-pro-2013-series-pth-x51.md)
 * Succeeded by: [Intuos Pro 2025](../wacom-intuos-pro-2025-series-ptk-x70/)
 
+## Models
+
+| PTH-460 | SMALL  |
+| ------- | ------ |
+| PTH-660 | MEDIUM |
+| PTH-860 | LARGE  |
+
 ## Intuos Pro medium (PTH-660)
 
 * Model year: 2017
