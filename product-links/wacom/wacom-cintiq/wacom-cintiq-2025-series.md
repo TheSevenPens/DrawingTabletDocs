@@ -4,7 +4,16 @@
 
 ## Overview
 
-These tablets have just bee announced in early June. This page contains the outline of my notes for those tablets. When I have them in hand, I will add specific comments.
+I just bought this tablet and it arrived on 6/24/2025. These notes are based on my initial testing.
+
+## Videos
+
+I livestreamed the unboxing, testing, and drawing on this tablet:
+
+* [Unboxing and testing](https://youtube.com/live/Lm-5X-gFtuw?feature=share) 2025/06/24
+* [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025/06/25&#x20;
+
+I will make a full "review" video soon.&#x20;
 
 ## Basics
 

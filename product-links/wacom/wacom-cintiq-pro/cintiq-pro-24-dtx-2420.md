@@ -1,4 +1,4 @@
-# 7P: Cintiq Pro 24 (DTx-2420)
+# Cintiq Pro 24 (DTx-2420)  notes
 
 ## Note
 

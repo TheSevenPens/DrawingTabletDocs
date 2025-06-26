@@ -1,4 +1,4 @@
-# 7P notes: Xencelabs V2 pens
+# Xencelabs V2 pens notes
 
 ## Summary
 
