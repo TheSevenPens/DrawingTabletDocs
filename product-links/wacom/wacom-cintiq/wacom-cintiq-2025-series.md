@@ -1,7 +1,5 @@
 # Wacom Cintiq 24 touch (DTH-246) notes
 
-
-
 ## Overview
 
 I just bought this tablet and it arrived on 6/24/2025. These notes are based on my initial testing.
@@ -41,6 +39,7 @@ I will make a full "review" video soon.&#x20;
 * Classic Pen (KP-300E)
 * Art Pen (KP-701E)
 * Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
+* Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here:  [**UD EMR pens**](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md).
 
 ## Touch
 
