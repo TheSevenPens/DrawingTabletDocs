@@ -2,7 +2,9 @@
 
 ## Overview
 
-I have a LOT of drawing tablets. As of June 8, 2025 I have 91 drawing tablets. By the end of 2025 I expect that number will be 100+.
+I have a LOT of drawing tablets. As of June 27, 2025 I have 106 drawing tablets.&#x20;
+
+Here is my current inventory: [https://1drv.ms/x/c/c2cae95d828b7c69/EWl8i4Jd6coggMK3CAAAAAAB-HGFQ\_jOG9\_uDCGPt2US5g?e=Zi2dci](https://1drv.ms/x/c/c2cae95d828b7c69/EWl8i4Jd6coggMK3CAAAAAAB-HGFQ_jOG9_uDCGPt2US5g?e=Zi2dci)&#x20;
 
 ## Quick tour
 
