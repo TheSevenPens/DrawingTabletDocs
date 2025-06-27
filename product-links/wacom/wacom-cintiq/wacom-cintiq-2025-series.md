@@ -66,13 +66,31 @@ All three models as completely silent
 
 EXCELLENT. At 100% brightness for 3 hours of continuous use, the display had not "warm/hot spots" and stayed very close to the room temperature of the desk it was sitting on. This is may be the best heat management I've seen for a display without a fan. Wacom did an excellent job here.
 
-## On Screen Display (OSD)
+## On-Screen Display (OSD)
 
 One of the buttons on the lower right side will bring up the OSD.
 
 The OSD is very similar to the OSD introduced in the Wacom Movink.
 
-## Cintiq 24 touch vs Cintiq Pro 27
+## Connections and cabling
+
+### Ports
+
+On the back of the table there are three ports
+
+* USB-C for power
+* mini-HDMI for video signal
+* USB-C for video signal & data
+
+### Connection options
+
+## Power delivery
+
+* The USB-C port that connects to the computer will deliver a very small amount of power.
+* It could in theory recharge your phone after many hours, but it would not be suitable to recharge a laptop.
+* Wacom does NOT identify power delivery as a feature if this tablet.
+
+## Comparison: Cintiq 24 touch vs Cintiq Pro 27
 
 * Overall
   * I think the Cintiq 24 touch is a very compelling choice instead of the Cintiq Pro 27. It actually has some advantages over the Cintiq Pro 27.
