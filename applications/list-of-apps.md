@@ -62,11 +62,14 @@
 
 * **ZoomIt** (Windows) \[[**links**](../app-links/zoomit.md)] **FREE**
 
-## **Diagramming**
+## **Diagramming and whiteboarding**
 
-* Visio - [https://www.microsoft.com/en-us/microsoft-365/visio](https://www.microsoft.com/en-us/microsoft-365/visio)&#x20;
-* Excalidraw - [https://excalidraw.com/](https://excalidraw.com/)&#x20;
-* Draw.io - [diagrams.net](https://www.drawio.com/)
+* **Visio** - [https://www.microsoft.com/en-us/microsoft-365/visio](https://www.microsoft.com/en-us/microsoft-365/visio)&#x20;
+* **Excalidraw** - [https://excalidraw.com/](https://excalidraw.com/)&#x20;
+* **Draw.io** - [diagrams.net](https://www.drawio.com/)
+* **Microsoft whiteboard** (windows, iOS, web) - [https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)
+* **Miro** - [https://miro.com/](https://miro.com/)&#x20;
+* **Lovable** - [https://lovable.dev/](https://lovable.dev/) &#x20;
 
 ## Utilities
 
