@@ -20,4 +20,9 @@ Modern Wacom drivers no longer support any serial connection. However, there is 
 
 ### **Serial ports**
 
-A modern computer is very unlikely to have a serial port. If this is the case you can purchase a serial to USB cable.
+A modern computer is very unlikely to have a serial port. If this is the case you can purchase a serial-to-USB cable.
+
+### Serial-to-USB cables
+
+Not all serial-to-USB cables work for this purpose. Some may work while others do not. I'm still trying to find a specific cable that will work for this scenario.
+
