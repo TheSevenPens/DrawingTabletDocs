@@ -107,6 +107,16 @@ If you need to buy a pen or you break your pen, keep in mind that&#x20;
 * Replacement pens can be incredibly hard to find on the used market.&#x20;
 * In the used market, sellers do not sell the pen by itself. So you may even have to purchase ANOTHER tablet with a pen. I've personally had to do this myself.&#x20;
 
+## Bite marks on pens
+
+Some people hold their pens in their mouths and use their teeth to lightly chew their pens. You can sometimes find teeth marks on the pens.
+
+Below is a used Intuos1 pen (GP-300E) I bought on eBay displaying what I believe are bite marks on and near the eraser.
+
+<figure><img src="../.gitbook/assets/GP-300E_Bite_marks_2 - Cropped (2).jpg" alt=""><figcaption></figcaption></figure>
+
+This is a reminder that you should thoroughly clean any used equipment you purchase.
+
 ## Nibs
 
 Often, depending on the tablet and how you draw, the pen nib wears down as you use a pen.
