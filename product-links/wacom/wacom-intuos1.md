@@ -12,6 +12,10 @@ This was the first time introduction of the “Intuos” name into their product
 
 At this time the name “Intuos” indicated that a tablet was part of Wacom's professional pen tablet series. It was only some years later when Wacom decided to use "Intuos" for their consumer tablets and intuitive pro for the professional tablets.
 
+<figure><img src="../../.gitbook/assets/20250618_151711 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20250618_151659 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
 ## Basics
 
 * Release year: 1998
