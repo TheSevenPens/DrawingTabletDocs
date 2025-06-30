@@ -1,7 +1,13 @@
 # OnePlus Pad
 
+## OnePlus Pad 3
+
+* [Gartzia Artz - Review of the OnePlus Pad 3](https://www.youtube.com/watch?v=zwzJxBpemB0) 2025/06/30
+* [Brad Colbow - Review of the OnePlus Pad 3](https://www.youtube.com/watch?v=hw4-KaFgXC8) 2025/06/05&#x20;
+
 ## OnePlus Pad 2
 
+* [Gartzia Artz - Review of the OnePlus Pad 2](https://www.youtube.com/watch?v=9fozoce1M4Y) - 2024/08/08&#x20;
 * [Teoh on Tech - Review of OnePlus Pad 2](https://www.youtube.com/watch?v=YepBZgALtRk) 2024/08/15
 * [Brad Colbow - Review of OnePlus Pad 2](https://www.youtube.com/watch?v=TxLVREd52nU) 2024/08/15
 
