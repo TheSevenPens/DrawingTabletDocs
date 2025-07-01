@@ -1,7 +1,5 @@
 # Wacom Cintiq
 
-## Models
-
 ## Cintiq 16 (2025) (DTK-168)
 
 * TBD
