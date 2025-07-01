@@ -1,11 +1,13 @@
 # Wacom Cintiq
 
-## Cintiq 16 (2025) (DTK-168)
+## Cintiq 16 (DTK-168)
 
+* Model year: 2025
 * TBD
 
-## Cintiq 24 touch (2005) (DTH-246) and Cintiq 24 (2005) (DTK-246)
+## Cintiq 24 touch (DTH-246) and Cintiq 24 (DTK-246)
 
+* Model year: 2025
 * [<mark style="background-color:green;">**my notes on the Cintiq 24 touch**</mark>](wacom-cintiq-2025-series.md)&#x20;
 * [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025/07/01
 
