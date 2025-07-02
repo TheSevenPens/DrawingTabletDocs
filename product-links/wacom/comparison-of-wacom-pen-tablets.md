@@ -90,7 +90,7 @@ Notes:
 
 * Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
 * Learn more about [**pen pressure**](../../core-features/pen-pressure.md)&#x20;
-* Learn more about how [**pen pressure ranges compare across pens**](../../core-features/pen-pressure-range-comparison.md)  &#x20;
+* Learn more about how [**pen pressure ranges compare across pens**](../../core-features/pen-pressure-range.md)  &#x20;
 
 ## Drawing features
 
