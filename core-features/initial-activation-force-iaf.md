@@ -28,3 +28,35 @@ Here are some examples from Kuuube's measurements (using Open Tablet Driver) fro
 Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
 Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
+
+## Tweaking the IAF
+
+The IAF is a physical property of the pen, so that physical behaviors can't be lowered or raised. However by using a pressure curve with a dead zone, you can effectively increase the IAF.  More here: [**Pen pressure dead zone**](pen-pressure-dead-zone.md)
+
+## A higher IAF can be useful
+
+Given that there's so much focus on having a “low IAF”, it would be natural to think that always having a low IAF is good and that it is always preferable to have a lower IAF rather than a higher one. The overall sentiment is generally true but there are some exceptions and things to keep in mind.
+
+### False pressure detection
+
+First, as the pressure sensing mechanism in a pen gets more sensitive to enable a very low IAF, it can have unintended effects. For example those pens with super low IAF may actually say that they are detecting pressure when they are clearly not touching the tablet. Sometimes this can take the form of spurious pressure readings or it can happen more frequently and the pen can effectively draw while hovering.
+
+### Effectively increasing IAF with the pressure curve
+
+To compensate for these kinds of effects you, You might encounter a tablet that has a pressure dead zone deliberately created by the manufacturer. This dead zone ignores a little bit of that lower pressure so that these kinds of strange artifacts are avoided.
+
+* Note that depending on which tablet you have the pressure dead zone might be visible to you in the pressure curve that you see in the tablet driver.
+* And also the dead zone might be implemented in the driver but it is not shown to you.
+* And of course some tell the drivers don't implement default dead zone at all.
+
+More here: [**Pen pressure dead zone**](pen-pressure-dead-zone.md)
+
+## Wispy tails on strokes
+
+another thing that happens when you're dealing with very low initial activation force is that it can affect the shape of your strokes at the very beginning or ends. For example it can often leave little wispy tails at the beginning or end of a stroke.  So in some cases you might want to create a little bit of a dead zone in your driver to avoid those wispy tails.
+
+In some pens I've also noticed that having an extremely low IAF can cause the pen to register pressure for just one moment longer after you lift the pen off the tablet. I suspect this is due to the mechanics of a nib that is moving the pen having to overcome some friction. And so for just a moment as you lift off the tablet the very sensitive pressure mechanism is still detecting the nib pushing into it. This can create the same wispy tail effect.
+
+&#x20;
+
+.
