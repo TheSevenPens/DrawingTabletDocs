@@ -22,6 +22,10 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 <table><thead><tr><th width="131">Model ID</th><th width="190.11797175172904">Name</th><th>Notes</th></tr></thead><tbody><tr><td>PTK-440</td><td>Intuos4 Small</td><td></td></tr><tr><td>PTK-540WL</td><td>Intuos4 Wireless</td><td></td></tr><tr><td>PTK-640</td><td>Intuos4 Medium</td><td></td></tr><tr><td>PTK-840</td><td>Intuos4 Large</td><td></td></tr><tr><td>PTK-1240</td><td>Intuos4 XL</td><td><a href="7p-wacom-ptk-1240.md"><mark style="background-color:green;"><strong>My notes on the Intuos4 XL</strong></mark></a></td></tr></tbody></table>
 
+## Design
+
+The Intuos4 introduced a tablet design with expresskeys and the ring on the left. This design would last in the subsequent Intuos professional series all the way till the introduction of the Intuos Pro 2025.
+
 ## Using a Wacom Intuos 4 in 2023 or later
 
 These are still excellent tablets. However, Wacom has dropped support for them in their latest drivers.
