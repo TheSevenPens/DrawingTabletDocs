@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # My tablet setups
 
 I have several setups ready for testing and trying out drawing tablets. It varies over time and what I am doing. Below is my latest setup as of 2023/08/03.
