@@ -7,6 +7,7 @@ description: PTZ-x30 series
 ## Overview
 
 * Release year: 2004
+* Intuos pro generation: 3rd gen
 * Preceded by: [Intuos2](wacom-intuos-2.md)
 * Succeeded by: [Intuos4](wacom-intuos-4/)
 
