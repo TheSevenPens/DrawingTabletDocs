@@ -6,11 +6,17 @@ description: PTK-x40 series
 
 ## Overview
 
-Wacom launched the Intuos 4 in 2009. These are professional pen tablets.
+Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 * Release year: 2009
 * Preceded by: [Intuos3](../wacom-intuos-3.md)
 * Succeeded by: [Intuos5](../wacom-intuos-5.md)
+
+## Photos
+
+<figure><img src="../../../.gitbook/assets/20250514_223830 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250514_220215 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Models
 
