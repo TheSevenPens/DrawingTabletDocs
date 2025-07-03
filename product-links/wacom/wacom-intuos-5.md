@@ -1,5 +1,5 @@
 ---
-description: PTH-x50 and PTK-x40 series
+description: PTH-x50 and PTK-x50 series
 ---
 
 # Wacom Intuos5
@@ -17,6 +17,12 @@ The Intuos 5 series was the last time Wacom used "Intuos" only to mean professio
 
 This is the last time "Intuos + Number" was how these professional pen tablets was named.
 
+## Photos
+
+<figure><img src="../../.gitbook/assets/20250514_223902 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20250514_223912 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+
 ## Models
 
 <table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-850</td><td>2012</td><td>Intuos5 touch Large</td></tr><tr><td>PTH-650</td><td>2012</td><td>Intuos5 touch Medium</td></tr><tr><td>PTK-650</td><td>2012</td><td>Intuos5 Medium</td></tr><tr><td>PTH-450</td><td>2012</td><td>Intuos5 touch Small</td></tr><tr><td>PTK-450</td><td>2012</td><td>Intuos5 Small</td></tr></tbody></table>
@@ -25,16 +31,3 @@ This is the last time "Intuos + Number" was how these professional pen tablets w
 * [New Brit Workshop - Intuos 5 Medium Touch Review](https://www.youtube.com/watch?v=KXoYgYUdVyY) - 2013/01/22
 * [Sara Dietschy - Wacom Tablet Small Intuos Pro VS Medium Intuos5 | Which One To Get / Size Comparison](https://www.youtube.com/watch?v=MeJ6DvJCjUk) Feb 10, 2015
 
-
-
-## Photos
-
-<figure><img src="../../.gitbook/assets/61D6OS3S34L._AC_SL1500_ (1).jpg" alt="" width="375"><figcaption><p>Intuos 5 Touch Medium PTH-650</p></figcaption></figure>
-
-
-
-<figure><img src="../../.gitbook/assets/71jaqAlLJaL._AC_SL1500_.jpg" alt="" width="375"><figcaption><p>Intuos 5 Touch Large PTH-850</p></figcaption></figure>
-
-
-
-<figure><img src="../../.gitbook/assets/61FSaxQNwsL._AC_SL1500_.jpg" alt="" width="375"><figcaption><p>Intuos 5 Touch Small PTH-450</p></figcaption></figure>
