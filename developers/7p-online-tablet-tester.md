@@ -27,7 +27,7 @@ This tool:
   * Can set Tilt to affect brush size
 * Show current numeric values for position, pressure, tilt, etc.&#x20;
 * Clear canvas
-* Save canvas as PNG file - Not yet implemented
+* Save canvas as PNG file&#x20;
 
 ## OS & Browser compatibility
 
