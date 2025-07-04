@@ -22,12 +22,19 @@ This tool:
 ## Features
 
 * Can draw with pen, mouse, and touch (if your tablet supports touch)
-* Pen drawing features
-  * By default pressure affects size of brush
-  * Can set Tilt to affect brush size
-* Show current numeric values for position, pressure, tilt, etc.&#x20;
-* Clear canvas
-* Save canvas as PNG file&#x20;
+* Control the size by
+  * Enable **Use pressure** to allow tilt to affect brush size
+  * Enable **Use tilt** to allow pen tilt angle to affect brush size
+* Information about pen is shown
+  * Position
+  * Pressure - as a percentage
+  * Tilt
+  * Current dynamic brush&#x20;
+* Multiple ways to erase the canvas:
+  * Press **Clear** button
+  * Press **BACKSPACE** key
+  * Press **DELETE** key
+* Press **Save** button to download canvas as PNG file&#x20;
 
 ## OS & Browser compatibility
 
