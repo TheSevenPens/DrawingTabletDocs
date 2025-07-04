@@ -1,12 +1,21 @@
-# Troubleshoot straight lines at start of stokes
+# TSG: Delay and straight lines or gaps at start of stokes
 
 ## Overview
 
 This problem happens on Windows due to some interaction between the Windows Ink system and an application that uses the pen.&#x20;
 
-It manifests during the start of a stroke where as you begin the stroke nothing will happen at first - you pen tip will move but the stroke does not. And then suddenly the stroke will move to where the pen is. This will produce a small straight line. &#x20;
+## Symptoms
 
-It will also manifest as a small delay when first moving a slider. As you move the pointer with the pen, the slider will not move for several millimeters and then suddenly snap to the location of the pen.
+When drawing a stroke (for example simple curve). You may notice that the there is a slightly delay before something is drawn. The resulting stroke will either:
+
+* (a) skip over the beginning part of the stroke&#x20;
+* or (b) have a straight line drawn from where you put the pen down to a little latter in stroke.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Other manifestations
+
+The same delay at the beginning of dragging the pen, can manifest in other user experiences. For example, you might see it as small delay when first moving a slider. As you move the pointer with the pen, the slider will not move for several millimeters and then suddenly snap to the location of the pen.
 
 ## Examples
 
@@ -14,12 +23,13 @@ It will also manifest as a small delay when first moving a slider. As you move t
 
 ## Things to try
 
-* Try [**disabling windows ink in the app**](../guides/windows/windows-ink/configure-windows-ink-for-apps.md) and [**disabling windows ink in the driver**](../guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md).
-* Try [**disabling the press-and-hold ring in Windows**](../guides/windows/disable-the-press-and-hold-ring-in-windows.md).
+* Try [**disabling the press-and-hold ring in Windows**](../guides/windows/disable-the-press-and-hold-ring-in-windows.md)
+* Try [**disabling windows ink in the app**](../guides/windows/windows-ink/configure-windows-ink-for-apps.md)&#x20;
+  * and if that doesn't solve it, then also try [**disabling windows ink in the driver**](../guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md).
 
 ## Links
 
-* ([https://www.reddit.com/r/wacom/comments/sa6wjd/is\_this\_kind\_of\_thing\_supposed\_to\_happen\_when\_im/](https://www.reddit.com/r/wacom/comments/sa6wjd/is\_this\_kind\_of\_thing\_supposed\_to\_happen\_when\_im/))
-* ([https://www.reddit.com/r/Windowsink/comments/ao0kvs/is\_this\_just\_a\_non\_issue\_for\_microsoft\_windows\_ink/](https://www.reddit.com/r/Windowsink/comments/ao0kvs/is\_this\_just\_a\_non\_issue\_for\_microsoft\_windows\_ink/))
+* ([https://www.reddit.com/r/wacom/comments/sa6wjd/is\_this\_kind\_of\_thing\_supposed\_to\_happen\_when\_im/](https://www.reddit.com/r/wacom/comments/sa6wjd/is_this_kind_of_thing_supposed_to_happen_when_im/))
+* ([https://www.reddit.com/r/Windowsink/comments/ao0kvs/is\_this\_just\_a\_non\_issue\_for\_microsoft\_windows\_ink/](https://www.reddit.com/r/Windowsink/comments/ao0kvs/is_this_just_a_non_issue_for_microsoft_windows_ink/))
 * ([https://www.zbrushcentral.com/t/windows-ink-api-support/214256](https://www.zbrushcentral.com/t/windows-ink-api-support/214256))
 * ([https://forums.getpaint.net/topic/113173-the-first-5mm-of-a-freehand-line-are-straight-when-using-a-tablet/](https://forums.getpaint.net/topic/113173-the-first-5mm-of-a-freehand-line-are-straight-when-using-a-tablet/))

@@ -48,5 +48,5 @@ As of May 27 2025, I have suggested to Huion that they incorporate some features
 
 To get the Huion QC tool, contact Huion customer support and they will send you a download link and instructions on how to use it.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
