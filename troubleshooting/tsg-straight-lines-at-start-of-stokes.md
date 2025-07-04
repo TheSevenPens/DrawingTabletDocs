@@ -11,7 +11,7 @@ When drawing a stroke (for example simple curve). You may notice that the there 
 * (a) skip over the beginning part of the stroke&#x20;
 * or (b) have a straight line drawn from where you put the pen down to a little latter in stroke.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
 
 ## Other manifestations
 
@@ -21,11 +21,18 @@ The same delay at the beginning of dragging the pen, can manifest in other user 
 
 ## ![](<../.gitbook/assets/image (404).png>)
 
-## Things to try
+## Diagnostic questions to answer
 
+* Does it happen in a specific app or all apps?
+* Does it happen in this online app? [**7P online tablet tester**](../developers/7p-online-tablet-tester.md)&#x20;
+* Does it happen in the driver pressure test region?&#x20;
+
+## Potential solutions
+
+* Restart the computer
 * Try [**disabling the press-and-hold ring in Windows**](../guides/windows/disable-the-press-and-hold-ring-in-windows.md)
-* Try [**disabling windows ink in the app**](../guides/windows/windows-ink/configure-windows-ink-for-apps.md)&#x20;
-  * and if that doesn't solve it, then also try [**disabling windows ink in the driver**](../guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md).
+* Try [**disabling windows ink in the app**](../guides/windows/windows-ink/configure-windows-ink-for-apps.md) then restart the app
+  * and if that doesn't solve it, then also try [**disabling windows ink in the driver**](../guides/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md) and then restart the app.
 
 ## Links
 
