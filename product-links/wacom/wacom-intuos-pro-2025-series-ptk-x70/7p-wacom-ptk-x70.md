@@ -314,7 +314,7 @@ The bezel is highly polarizing for a lot of people. And to be clear there are tw
 
 Videos about it:
 
-* [Jaugy - I don't recommend the new Intuos Pro 20225 series](https://www.youtube.com/watch?v=KawJkmmDuPE) 2025/05/07
+* [Jaugy - I don't recommend the new Intuos Pro 2025 series](https://www.youtube.com/watch?v=KawJkmmDuPE) 2025/05/07
 
 ## Thickness
 
