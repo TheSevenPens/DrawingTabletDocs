@@ -9,6 +9,12 @@ My detailed notes on each
 * [**7P notes: Samsung Galaxy Tab S**](../samsung/7p-samsung-galaxy-tab-s-series.md)
 * [**7P notes: Apple iPad**](apple-ipad-1.md) &#x20;
 
+## Comparison videos
+
+* [Tech on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025/07/06 &#x20;
+* [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024/09/16
+* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024/05/23 &#x20;
+
 ## Drawing experience&#x20;
 
 It's hard to pick a winner - their drawing experience is similar but has some key differences. If you are used to traditional drawing tablets, then the Samsung Galaxy Tab with its S pen will deliver a more similar experience.
@@ -94,12 +100,4 @@ Both pens can experience wear at their drawing end, and you may need to buy repl
 
 * Apple pencil has no buttons
 * Samsung S pen has a single button
-
-## Videos
-
-* [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024/09/16&#x20;
-
-## Other resources
-
-* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024/05/23 &#x20;
 
