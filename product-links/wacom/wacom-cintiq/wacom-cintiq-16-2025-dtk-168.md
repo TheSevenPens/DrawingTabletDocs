@@ -1,6 +1,15 @@
 # Wacom Cintiq 16 (2025) (DTK-168)
 
-*
+## Device
+
+### Weight&#x20;
+
+Slightly heavier than other pen displays at this size
+
+* Wacom Cintiq 16 (2025): 1.5kg&#x20;
+* Xencelabs Pen Display 16: 1.3 kg&#x20;
+* Huion Kamvas 16 gen 3: 1.2kg&#x20;
+* Wacom Movink 13: 0.420kg&#x20;
 
 ## Display&#x20;
 
@@ -8,10 +17,11 @@
   * DCI-P3 99% (CIE1931) (typ)&#x20;
   * sRGB 100% (CIE1931) (typ)&#x20;
 * Resolution: 2560 x1440&#x20;
-* Color: Satisified with color. not washed out like previous cintiq models.
+* Response time: 12ms
+* Color: Satisfied with color. not washed out like previous cintiq models.
 * Antiglare sparkle&#x20;
   * RATING: very low. good.
-  * Comaparisons:
+  * Comparisons:
     * Similar to Cintiq Pro 22
     * Similar to Kamvas Pro 19
     * Similar to Cintiq 24 2025
