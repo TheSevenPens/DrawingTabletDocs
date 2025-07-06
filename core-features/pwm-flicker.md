@@ -34,3 +34,8 @@ Besides being visible and irritating, the flicker may produce headaches for some
 ## Testing tablets for PWM flicker
 
 How I measure for it: [Measuring PWM flicker](../process/measuring-pwm-flicker.md).
+
+## Resources
+
+* [RTINGS - Backlight strobing](https://www.rtings.com/monitor/tests/motion/black-frame-insertion)
+
