@@ -392,6 +392,7 @@
     * [Wacom Cintiq](product-links/wacom/wacom-cintiq/README.md)
       * [Wacom Cintiq 22 (DTK-2260) notes](product-links/wacom/wacom-cintiq/wacom-dtk-2260.md)
       * [Wacom Cintiq 24 touch (DTH-246) notes](product-links/wacom/wacom-cintiq/wacom-cintiq-2025-series.md)
+      * [Wacom Cintiq 16 (2025) (DTK-168)](product-links/wacom/wacom-cintiq/wacom-cintiq-16-2025-dtk-168.md)
     * [Wacom Cintiq Pro](product-links/wacom/wacom-cintiq-pro/README.md)
       * [Wacom Cintiq Pro 16 (DTH-167) notes](product-links/wacom/wacom-cintiq-pro/wacom-dth-167.md)
       * [Cintiq Pro 24 (DTx-2420)  notes](product-links/wacom/wacom-cintiq-pro/cintiq-pro-24-dtx-2420.md)
