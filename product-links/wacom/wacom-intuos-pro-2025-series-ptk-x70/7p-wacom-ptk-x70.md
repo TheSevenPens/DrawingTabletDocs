@@ -1,4 +1,4 @@
-# Wacom Intuos Pro 2025 (PTK-x70)
+# Wacom Intuos Pro 2025 (PTK-x70) notes
 
 ## Summary
 
@@ -307,6 +307,14 @@ However, ...
 In the future: ...
 
 * I will try to test out smaller bezels with any other tablet
+
+## How the bezels have been received by users
+
+The bezel is highly polarizing for a lot of people. And to be clear there are two aspects of the bezel to take into consideration. First is the reduction in the size of the bezel. And second is that the lip of the bezel At the age of the tablet is very slightly more raised than the previous generation of Intuos Pro. The smaller bezel seems to irritate some people and for some other people it just seems to take some time to adjust. Personally after using the Intuos Pro so long with large bezels I have to admit it feels weird to use the new tablet with the much smaller bezels. Even after a month or so it's a little bit weird It's not bad just different. Again some people have a much stronger reaction to this. And then the raised edge of the tablet causes some people more discomfort than the old model. Because statistically your hand will be feeling that raised edge much more often with the new design and because it is more noticeable some people find it irritating and in fact some people find it painful.
+
+Videos about it:
+
+* [Jaugy - I don't recommend the new Intuos Pro 20225 series](https://www.youtube.com/watch?v=KawJkmmDuPE) 2025/05/07
 
 ## Thickness
 
