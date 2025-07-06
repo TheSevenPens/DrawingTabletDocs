@@ -1,8 +1,19 @@
 # Wacom Cintiq 16 (2025) (DTK-168)
 
-## Device
+## Overview
 
-### Weight&#x20;
+Wacom released three new Cintiq 2025 models in mid 2025. One of them is the Wacom Cintiq 16 (2025) (DTK-168).&#x20;
+
+This is a EXCELLENT tablet with an excellent drawing experience and very good display. It does miss some "Cintiq Pro" features but has the same great drawing experience as it relates to pressure, tilt, etc.
+
+
+
+## Basics
+
+* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq](https://www.wacom.com/en-us/products/wacom-cintiq)
+*
+
+## Device weight&#x20;
 
 Slightly heavier than other pen displays at this size
 
@@ -11,34 +22,53 @@ Slightly heavier than other pen displays at this size
 * Huion Kamvas 16 gen 3: 1.2kg&#x20;
 * Wacom Movink 13: 0.420kg&#x20;
 
-## Display&#x20;
+## Display specs
+
+* Display panel tech: IPS
+* Native resolution: 2560 x 1600&#x20;
+* Aspect ratio: 16:10
+* Anti-glare treatment: AG glass
+* Laminated: YES - Wacom uses the term "bonded"
+* Response time: 12ms
+
+## Color
 
 * Color gamut (Wacom specified)
   * DCI-P3 99% (CIE1931) (typ)&#x20;
   * sRGB 100% (CIE1931) (typ)&#x20;
-* Resolution: 2560 x1440&#x20;
-* Response time: 12ms
-* Color: Satisfied with color. not washed out like previous cintiq models.
-* Antiglare sparkle&#x20;
-  * RATING: very low. good.
-  * Comparisons:
-    * Similar to Cintiq Pro 22
-    * Similar to Kamvas Pro 19
-    * Similar to Cintiq 24 2025
-* PIxel sharpness
-  * Rating: GOOD
-  * Pixels were clear and well-delineated
-  * In comparison
-    * Pixels looke sharper than Huion Kamvas Pro 19 which has a slight softness that many people notice and some do not like
-* Perception: How does it compare to a 4K at the same size: &#x20;
-  * I would have a hard time telling this apart from 4K&#x20;
+* I was satisfied with color.&#x20;
+* This is not a "wide-gamut" display
+* It colors are pleasing and a big improvement over older Cintiq (non Pro) models that had washed-out colors.
+
+## Antiglare sparkle&#x20;
+
+* RATING: GOOD. Very low. .
+* Comparisons:
+  * Similar to Wacom Cintiq Pro 22
+  * Similar to Huion Kamvas Pro 19
+  * Similar to Wacom Cintiq 24 (2025)
+
+## Pixel sharpness
+
+* Rating: GOOD
+* Pixels were clear and well-delineated
+* In comparison
+  * Pixels looks sharper than Huion Kamvas Pro 19 which has a slight softness that many people notice and some do not like
+  * How does it compare to a 4K at the same size? I would have a hard time telling this apart from 4K&#x20;
 
 ## Connections and cabling
 
 ### Included cables
 
 * USB-C cable #1 su7pports power, data, and video (5Gbps and 60W)
-* USB-C cable #2 power oonly
+* USB-C cable #2 power only
+
+### Ports
+
+* USB-C for power
+* USB-C for power, video, data
+* mini-HDMI&#x20;
+  * it does NOT come with a mini-HDMI adapter.
 
 ### Connection options
 
@@ -61,7 +91,7 @@ Slightly heavier than other pen displays at this size
   * &#x20;M3 Macbook Pro was not attached to power and was able to power the tablet
 * Notes
   * When using a single USB-C connection, if you attach a power cable the tablet will turn itelf off and then back
-  * Ccan be a little tricky to put the cable in because of that 'thing' on the back&#x20;
+  * Can be a little tricky to put the cable in because of that 'thing' on the back&#x20;
     * Some people consider using an USB-C L-type adapter &#x20;
 
 ## Surface texture
