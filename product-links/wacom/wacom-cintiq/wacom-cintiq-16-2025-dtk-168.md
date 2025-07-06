@@ -1,6 +1,38 @@
 # Wacom Cintiq 16 (2025) (DTK-168)
 
+*
+
+## Display&#x20;
+
+* Color gamut (Wacom specified)
+  * DCI-P3 99% (CIE1931) (typ)&#x20;
+  * sRGB 100% (CIE1931) (typ)&#x20;
+* Resolution: 2560 x1440&#x20;
+* Color: Satisified with color. not washed out like previous cintiq models.
+* Antiglare sparkle&#x20;
+  * RATING: very low. good.
+  * Comaparisons:
+    * Similar to Cintiq Pro 22
+    * Similar to Kamvas Pro 19
+    * Similar to Cintiq 24 2025
+* PIxel sharpness
+  * Rating: GOOD
+  * Pixels were clear and well-delineated
+  * In comparison
+    * Pixels looke sharper than Huion Kamvas Pro 19 which has a slight softness that many people notice and some do not like
+* Perception: How does it compare to a 4K at the same size: &#x20;
+  * I would have a hard time telling this apart from 4K&#x20;
+
 ## Connections and cabling
+
+### Included cables
+
+* USB-C cable #1 su7pports power, data, and video (5Gbps and 60W)
+* USB-C cable #2 power oonly
+
+### Connection options
+
+* TBD add screenshots from Wacom doc
 
 ### Connecting with a single USB-C cable
 
