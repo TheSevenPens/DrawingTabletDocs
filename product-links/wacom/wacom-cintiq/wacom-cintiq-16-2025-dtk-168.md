@@ -73,3 +73,22 @@ Slightly heavier than other pen displays at this size
 * Cintiq 16 (2025)  has about the same as Movnk 13 (but has a different sensation)&#x20;
 * Cintiq 16 (2025)  has a bit more than Xencelabs Pen Display 16&#x20;
 * Cintiq 16 (2025)  has somewhat less than the Cintiq Pro 22&#x20;
+
+## Touch
+
+This tablet does not support touch.
+
+## On-Screen Display Menu (OSD)
+
+* Button above the power button on the right side of the tablet
+* Because there is no touch support, to use OSD must use then pen&#x20;
+* Will have to pick language the first time to open the USD, before you can use OSD
+
+
+
+## PWM Flicker
+
+* No PWM flicker detected at any brightness level
+* Comparisons:
+  * Movink 13 has obvious PWM flicker
+* NOTE: Link to flicker testing methodology
