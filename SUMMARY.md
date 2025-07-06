@@ -354,7 +354,7 @@
     * [OnePlus Pad](product-links/oneplus/oneplus-pad.md)
   * [Samsung](product-links/samsung/README.md)
     * [Samsung Galaxy Tab S series](product-links/samsung/samsung-galaxy-tab-s-series.md)
-    * [Samsung Galaxy Tab S series](product-links/samsung/7p-samsung-galaxy-tab-s-series.md)
+    * [Samsung Galaxy Tab S series](product-links/samsung/samsung-galaxy-tab-s.md)
     * [Samsung Galaxy Tab S9 FE](product-links/samsung/samsung-galaxy-tab-s9-fe.md)
     * [Samsung Galaxy Tab S8 Ultra](product-links/samsung/samsung-galaxy-tab-s8-ultra.md)
     * [Samsung Galaxy Tab S6 lite (2022 edition)](product-links/samsung/samsung-galaxy-tab-s6-lite-2022-edition.md)

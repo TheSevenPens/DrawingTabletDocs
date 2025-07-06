@@ -50,7 +50,7 @@ For applications that run on Android see this list: [**Apps for Android**](../..
 * [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../../product-links/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners. &#x20;
   * There is a 2020 version. Avoid it.&#x20;
 
-[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../product-links/samsung/7p-samsung-galaxy-tab-s-series.md) &#x20;
+[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../product-links/samsung/samsung-galaxy-tab-s.md) &#x20;
 
 [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-links/samsung/samsung-galaxy-tab-s8-ultra.md)&#x20;
 
