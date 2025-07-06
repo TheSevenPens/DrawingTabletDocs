@@ -12,6 +12,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top Picks 16"-17"
 
+* Wacom Cintiq 16 (2025)  ★★★ \[$700]
 * Huion Kamvas 16 GEN3 (GS1563) ★★★ \[$500, [**links**](../../product-links/huion/huion-kamvas/), [<mark style="background-color:green;">**my notes**</mark>](../../product-links/huion/huion-kamvas/huion-gs1563.md)]
 * XP-Pen Artist Pro 16 GEN2 (MD160QH) ★★★ \[$600, [**links**](../../product-links/xp-pen/xp-pen-artist-pro-gen2/7p-xppen-md160qh.md)**,** [<mark style="background-color:green;">**my notes**</mark>](../../product-links/xp-pen/xp-pen-artist-pro-gen2/7p-xppen-md160qh.md)]
 * Wacom Cintiq Pro 17 (DTH-172) \[$2500, [**info**](../../product-links/wacom/wacom-cintiq-pro/)]
