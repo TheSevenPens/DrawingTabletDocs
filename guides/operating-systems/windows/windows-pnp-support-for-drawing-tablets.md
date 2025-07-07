@@ -28,7 +28,7 @@ The key things you should know
 There are a large set of limitations that come with windows PNP mode compared to manufacturer tablet drivers.
 
 * You cannot control how to map the active area of your tablet to a display in any way
-  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
+  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
 * You cannot control what the buttons on the pen does.
 * You cannot control what the buttons on the tablet do.&#x20;
 
@@ -45,7 +45,7 @@ The easiest way to see if this how Windows is interacting with your tablet is to
 
 Normally your pointer will look like this when you are using the mouse or when you have a tablet driver installed.&#x20;
 
-<figure><img src="../../.gitbook/assets/Windows-PNP-Pointers-2024-06-10-small.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Windows-PNP-Pointers-2024-06-10-small.jpg" alt=""><figcaption></figcaption></figure>
 
 (NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone camera)
 
@@ -55,7 +55,7 @@ If your manufacturer tablet driver is having problems, the PNP drivers may be a 
 
 ## Using PNP mode for testing and diagnosing problems
 
-If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [**Testing with Windows PNP drawing tablet drivers**](../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
+If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [**Testing with Windows PNP drawing tablet drivers**](../../../troubleshooting/testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
 
 ## Interactions between tablet drivers and PNP mode
 

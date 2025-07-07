@@ -9,7 +9,7 @@
   * or choose **Tablet PC** to disable Windows Ink
 * Once you've made the change, restart Clip Studio Paint
 
-![](<../../../.gitbook/assets/image (323).png>)
+![](<../../../../.gitbook/assets/image (323).png>)
 
 ## Krita
 
@@ -20,7 +20,7 @@
   * or Choose  **WinTab** to disable Windows Ink
 * Once you've made your change, restart Krita.
 
-![](<../../../.gitbook/assets/image (109).png>)
+![](<../../../../.gitbook/assets/image (109).png>)
 
 ## Adobe Photoshop
 
@@ -35,7 +35,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
   * **Windows Ink**&#x20;
 * Restart Affinity Photo/Designer once you change this setting.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## ArtRage Vitae
 
@@ -45,7 +45,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
   * UNCHECKED -> disable Windows Ink
 * Restart ArtRage once you change this setting.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Medibang Paint
 

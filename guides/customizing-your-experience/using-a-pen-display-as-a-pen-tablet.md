@@ -28,7 +28,7 @@ If your tablet is connected via an **HDMI cable** to the computer, you can disco
 
 In your operating system, you can configure the **displays settings** to not use the screen in the pen display. This should leave you with a pen display that shows nothing and the pen should still work.
 
-See: [Stop using a display on Windows](../windows/stop-using-a-display-on-windows.md)
+See: [Stop using a display on Windows](../operating-systems/windows/stop-using-a-display-on-windows.md)
 
 ## Usage notes
 

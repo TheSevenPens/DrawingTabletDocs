@@ -91,19 +91,11 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 * [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
 * [**Connecting a pen display with a 3-in-1 cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)&#x20;
 
-## OS and device compatibility
+## Compatibility with operating systems
 
-Drawing tablets **well work** with computers and laptops running popular operating systems. More here:
+Drawing tablets work with many computer operating systems. They do work better or more fully with desktop Operating systems like Windows, MacOS, and Linux than with standalone operating systems like Android, ChromeOS, iOS, and iPadOS.
 
-* Macs
-* [**Using a drawing tablet on Windows**](../guides/windows/using-a-drawing-tablet-on-windows.md) &#x20;
-* [**Using a drawing tablet with Linux**](../guides/linux.md) &#x20;
-
-Drawing tablets work **to some extent** with other kinds of devices. More here:
-
-* [**Using a drawing tablet with an iOS device**](../guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)  &#x20;
-* [**Using a drawing tablet with an Android device**](../guides/general/using-a-drawing-tablet-with-an-android-device.md) &#x20;
-* [**Using drawing tablets with Chromebooks**](../guides/general/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
+For more information on how tablets work with a specific OS, go here: [**Operating systems**](../guides/operating-systems/)&#x20;
 
 ## Ergonomics
 

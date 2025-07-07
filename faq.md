@@ -12,11 +12,11 @@ An overview of the brands and my take on some of them are here: [**drawing table
 
 ### Q: Can I use a drawing tablet with my iPad or iPhone?
 
-It is possible in some cases. More here: [**Using a drawing tablet with an iOS device**](guides/general/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
+It is possible in some cases. More here: [**Using a drawing tablet with an iOS device**](guides/operating-systems/ios-and-ipados/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
 
 ### Q: Can I use a drawing tablet with a Chromebook?
 
-YES, It is possible, but be prepared for potential limitations. Read more here: [**Using a a drawing tablet with a Chromebook**](guides/general/using-a-drawing-tablet-with-a-chromebook.md)
+YES, It is possible, but be prepared for potential limitations. Read more here: [**Using a a drawing tablet with a Chromebook**](guides/operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md)
 
 ### Q: What size drawing tablet should I get?
 

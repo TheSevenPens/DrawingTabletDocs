@@ -1,4 +1,4 @@
-# Using a drawing tablet with a Chromebook
+# Connecting a drawing tablet to a Chromebook
 
 
 
@@ -16,7 +16,7 @@ Tablets work with the built-in drivers in the Chromebooks not the manufacturer d
 
 ## Pen tablets & mismatched aspect ratios
 
-With pen tablets you will not be force the active area to match the display of the Chromebook. This means there will be a distortion to your drawing. More here: [**Matching aspect ratios**](../customizing-your-experience/match-aspect-ratios-with-force-proportions.md).
+With pen tablets you will not be force the active area to match the display of the Chromebook. This means there will be a distortion to your drawing. More here: [**Matching aspect ratios**](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md).
 
 ## Testing results
 

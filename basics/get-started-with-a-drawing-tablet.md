@@ -112,7 +112,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 
 ## Windows&#x20;
 
-Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
+Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
 
 ## Apps
 

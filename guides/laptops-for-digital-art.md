@@ -57,11 +57,11 @@ Check the reviews for these laptops
 
 #### Windows ARM laptops (FOR NOW)
 
-<mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](windows/windows-on-arm.md).
+<mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](operating-systems/windows/windows-on-arm.md).
 
 #### **Chromebooks**
 
-I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](general/using-a-drawing-tablet-with-a-chromebook.md).
+I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md).
 
 ## Ports
 

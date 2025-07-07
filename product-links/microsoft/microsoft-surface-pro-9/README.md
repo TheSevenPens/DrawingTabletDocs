@@ -14,12 +14,12 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 
 ## 2025 Surface Pro 12"
 
-* The device uses an ARM processor. More here: [Windows on ARM](../../../guides/windows/windows-on-arm.md)
+* The device uses an ARM processor. More here: [Windows on ARM](../../../guides/operating-systems/windows/windows-on-arm.md)
 * [Brad Colbow - 2025 Surface Pro 12" Review](https://www.youtube.com/watch?v=gqliiMdruys) 2025/0528
 
 ## Microsoft Surface Pro 11&#x20;
 
-* The device uses an ARM processor. More here: [Windows on ARM](../../../guides/windows/windows-on-arm.md)
+* The device uses an ARM processor. More here: [Windows on ARM](../../../guides/operating-systems/windows/windows-on-arm.md)
 * [Teoh on Tech - Surface Pro 11 (2024) artist review: Pen and OLED issues, amazing battery life ](https://www.youtube.com/watch?v=KVO3BNoUnWw)2024/09/22
 * [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD_tbn_i50) 2024/06/28&#x20;
 * [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2024/06/26&#x20;
