@@ -168,3 +168,8 @@ Drawing tablets have been released over many years. That means when you shop onl
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/get-started-with-a-drawing-tablet.md)&#x20;
 * **Maintenance** - Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).
 * **Be prepared for the total cost of ownership**. Just buying the tablet is one thing. But you will likely purchase other things.  More here: [**Total Cost of Ownership**](../guides/general/total-cost-of-ownership-tco.md)&#x20;
+
+## Resources
+
+* [shar - how to choose a drawing tablet](https://www.youtube.com/watch?v=-gEh8n6dmjg) 2025/07/07&#x20;
+  * This is a a very good overview for buying a drawing tablet. It covers a lot of topics. The video is a great starting point for getting familiar with the overall set of things you need to think about.
