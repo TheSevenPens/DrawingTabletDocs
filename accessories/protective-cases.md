@@ -1,43 +1,33 @@
-# Protective cases
+# Protective cases for drawing tablets
 
-**Overview**
+## Overview
 
-Especially if you are traveling you should consider getting a protective case so that your tablet does not get damaged.
-
-* For pen tablets they can get easily scratched.
-* For pen displays not only can they get scratched, but you might crack the glass, or a drop my break something inside.
-* Even your pens may deserve some amount of protection. As I've mentioned many times if you drop your pen especially with the nib hitting the floor you can really damage your pen irreparably.
+Consider getting a protective case to protect your investment in your drawing tablet. Such cases can prevent scratches and are useful travelling with your tablet.
 
 Below are some options that I have seen people suggest. <mark style="color:red;">**I don't own any of these cases so I cannot speak from direct personal experience**</mark>. So make sure do you research and get community feedback on what works for them.
 
-## Cases for drawing tablets
+If you need cases for your pens: [**Protective cases for pens**](protective-cases-for-pens.md)
 
-These are padded transport bags intended for monitors - but will serve the save role for pen displays.&#x20;
+## Options
 
-* Gator Screen Saver Totes
+* **Gator Screen Saver Totes**
+  * These are padded transport bags intended for monitors - but will serve the save role for pen displays.&#x20;
   * Site: [Gator Store: Screen Saver Totes](https://gatorco.com/shop-by-category/computer-projector-tablet/computer-projector-bags/screen-saver-totes/) &#x20;
-* Case Club
+* **Case Club**
   * Site: [https://www.caseclub.com/](https://www.caseclub.com/)&#x20;
   * They have a variety of cases. And even one for a specific pen display: [https://www.caseclub.com/product/wacom-cintiq-pro-24-case/](https://www.caseclub.com/product/wacom-cintiq-pro-24-case/)&#x20;
-* Road cases
+* **Road cases**
   * Site: [https://www.roadcases.com/](https://www.roadcases.com/)
-* Flight Cases
+* **Flight cases**
   * Site: [https://theflightcasecompany.com/](https://theflightcasecompany.com/)
   * Case for Cintiq Pro 27 [https://theflightcasecompany.com/wacom-cintiq-pro-27-flight-case](https://theflightcasecompany.com/wacom-cintiq-pro-27-flight-case)
-* Moko cases
+* **Moko cases**
   * These cases are focused around iPads and similar tablets. They may be useful for small to medium pen tablets. Shop here: [**Moko store on Amazon**](https://www.amazon.com/stores/MoKo/page/2017E8BA-91D3-4C19-B94A-CC40C7866F49?ref_=ast_bln)
-* Targus Laptop Sleeves
+* **Targus Laptop Sleeves**
   * These are meant for laptops but can also work for drawing tablets. These come in several sizes.
   * Targus 16" Laptop Sleeve - ([https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148](https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148))
 
 ## Considerations
 
 **Possible magnetic interference** - Some cases have magnets that can interfere with the Apple Pencil. See [**this reddit post**](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/).
-
-## Cases for pens
-
-* Eyeglass cases
-* Cases meant for pens or pencils
-* Examples of small cases for pens:&#x20;
-  * [https://www.amazon.com/dp/B01FWE0DQY/ref=sspa\_dk\_detail\_2?pd\_rd\_i=B01FWE0DQY](https://www.amazon.com/dp/B01FWE0DQY/ref=sspa_dk_detail_2?pd_rd_i=B01FWE0DQY)
 
