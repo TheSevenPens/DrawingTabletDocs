@@ -17,6 +17,12 @@ You are user and your drawing style can affect the smoothness of a stroke
 * Your hand and arm and way of moving them over the tablet can cause imperfections in your stroke.
 * Drawing slower is more prone to introducing errors into your strokes.
 
+## <mark style="color:red;">For pen tablets (screenless tablets), use Force Proportions to match aspect ratios!!!</mark>
+
+If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [**Use Force Proportions to match aspect ratios**](../customizing-your-experience/match-aspect-ratios-with-force-proportions.md).&#x20;
+
+Please do check for this. Many people have been using their tablets for years with mismatched aspect ratios and when they make the ratios match it is a BIG DIFFERENCE in their ability to draw strokes correctly.
+
 ## How you hold the pen
 
 Consider how you hold you pen. Different techniques of holding your pen can affect how smooth your strokes are.
@@ -53,12 +59,6 @@ Generally speaking a faster stroke will result in a smoother stroke.
 ## Avoid mouse mode
 
 Occasionally some people enable mouse mode in their tablet driver. Mouse mode uses relative positioning and usually makes it harder to make a consistent stroke. Instead try disabling mouse mode.
-
-## Match aspect ratios (very important)
-
-If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [Matching aspect ratios](../customizing-your-experience/match-aspect-ratios-with-force-proportions.md).&#x20;
-
-Please do check for this. Many people have been using their tablets for years with mismatched aspect ratios and when they make the ratios match it is a BIG DIFFERENCE in their ability to draw strokes correctly.
 
 ## Zoom in as much as possible for your stroke
 
