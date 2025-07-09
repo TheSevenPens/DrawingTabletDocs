@@ -585,4 +585,5 @@
     * [Appendix: Timeline](misc/history-of-drawing-tablets/appendix-timeline.md)
     * [Appendix: Other histories](misc/history-of-drawing-tablets/appendix-other-histories.md)
     * [Appendix: References](misc/history-of-drawing-tablets/appendix-references.md)
+    * [KoalaPad](misc/history-of-drawing-tablets/koalapad.md)
   * [Mobile computer recommendations](misc/mobile-computer-recommendations.md)
