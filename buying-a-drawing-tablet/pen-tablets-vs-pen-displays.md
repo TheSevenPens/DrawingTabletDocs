@@ -141,7 +141,7 @@ Pen tablets are considerably thinner and weigh less.
 
 * Pen displays have a more natural feel because you looking at the same place your are drawing. With a pen tablet you are drawing in one place but looking somewhere else.
 * Most people feel like they have press UNDO much less frequently with a pen display because the stroke more often goes where they intended.
-* With a pen display you do have to ensure you configure the tablets active area to map to your display so that there is no distortion. With pen displays you don't have to do this.
+* With a pen tablet, you **must** configure the tablet's active area to map to your display so that there is no distortion while drawing or moving the pen. With pen displays, this is not required. They are pre-configured correctly.
 
 More here: [**The drawing experience**](../basics/the-drawing-experience.md)&#x20;
 
