@@ -35,6 +35,12 @@ However, uses pointed out these issues that were negatives for them
 * the edges of the tablet are slightly more pronounced than the older model and for some people they found it uncomfortable for their hand to rest on the edge. And of course with the decreased bezel size there's a much higher probability that your hand will rest on the edge.
 * Although many people did not use the multi touch feature of the intuos pro 2017 there were a few who did and who were a big fan of that feature. For them multi touch not being available in the Intuos pro 2025 was a big negative.
 
+## Photos
+
+<figure><img src="../../../.gitbook/assets/20250515_000818 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250515_000827 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
 ## Models
 
 <table><thead><tr><th width="131">Model ID</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTK-870</td><td>Intuos Pro Large (2025)</td></tr><tr><td>PTK-670</td><td>Intuos Pro Medium (2025)</td></tr><tr><td>PTK-470</td><td>Intuos Pro Small (2025)</td></tr></tbody></table>
