@@ -13,6 +13,7 @@ I have an extensive series of notes on how my thoughts about using the iPad and 
 
 ## 2025 Apple M3 iPad Air
 
+* [Teoh on Tech - Artist Review: iPad Air 7 (2025) vs M4 iPad Pro (2024)](https://www.youtube.com/watch?v=FKuDIipoRUg) 2025/06/10
 * [Brad Colbow - M3 iPad Air Review](https://www.youtube.com/watch?v=kKZf_nAoofA) 2025 2025/03/13
 
 ## 2024 Apple iPad Mini
