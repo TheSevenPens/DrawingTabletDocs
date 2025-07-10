@@ -27,7 +27,7 @@ Are metal nibs safe for your pen tablet?
 
 I haven't tried it with a pen display and I right now would not recommend someone doing doing that. I do believe there's a chance it can damage the screen. I've even seen people with plastic nibs damage the screen of their pen display.&#x20;
 
-If someone is going to do use a metal nib with a pen display, I would recommend using a protective sheet. See this doc [protective sheets](../../accessories/surface-protectors/).
+If someone is going to do use a metal nib with a pen display, I would recommend using a protective sheet. See this doc [protective sheets](../../accessory-links/surface-protectors/).
 
 ## Metal nib options
 
@@ -35,11 +35,11 @@ You may find different options for nibs, here several I know of.
 
 **For Wacom Pro Pen 2**
 
-* TWITE Graphics ([https://hitomins.tumblr.com/products\_sus\_English#b](https://hitomins.tumblr.com/products\_sus\_English#b))&#x20;
+* TWITE Graphics ([https://hitomins.tumblr.com/products\_sus\_English#b](https://hitomins.tumblr.com/products_sus_English#b))&#x20;
   * I purchased from ([https://alice-books.com/item/show/1113-4](https://alice-books.com/item/show/1113-4)) but you may find other sources.
   * This is the nib I use for the "Are metal nibs safe" videos
 * REEYEAR ( [https://a.co/d/8H6lqGq](https://a.co/d/8H6lqGq))
-* TWITE Hybrid metal/plastix nib ([https://hitomins.tumblr.com/products\_hybrid](https://hitomins.tumblr.com/products\_hybrid))&#x20;
+* TWITE Hybrid metal/plastix nib ([https://hitomins.tumblr.com/products\_hybrid](https://hitomins.tumblr.com/products_hybrid))&#x20;
   * Store: [https://alice-books.com/item/show/1113-3](https://alice-books.com/item/show/1113-3)&#x20;
 
 **For Wacom CTL-672,CTL-671,CTL-471, CTL-472**

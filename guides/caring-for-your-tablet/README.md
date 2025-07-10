@@ -55,11 +55,11 @@ The surface of your tablet will be in contact with your pen, that contact and th
 * [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md) &#x20;
 * [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)&#x20;
 
-There are options to protect the surface from damage. See: [**protective sheets**](../../accessories/surface-protectors/).
+There are options to protect the surface from damage. See: [**protective sheets**](../../accessory-links/surface-protectors/).
 
 ## Protection during transport
 
-If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../accessories/protective-cases.md).
+If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../accessory-links/protective-cases.md).
 
 ## Maintain your nibs
 

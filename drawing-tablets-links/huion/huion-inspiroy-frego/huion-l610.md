@@ -1,0 +1,191 @@
+# Huion Inspiroy Frego M (L610)
+
+## Overview
+
+This is a great entry-level tablet. It does all the basics extremely well.&#x20;
+
+* A good simple tablet. Nothing fancy.
+* Good for beginners.&#x20;
+* If you have an older Huion tablet it might be a good upgrade.
+* The pen it came with had a very wide pressure range. This range is very good. pen IAF was typical of Huion (i.e. slightly higher IAF than Wacom's pro pens).
+
+## Companion video
+
+{% embed url="https://www.youtube.com/watch?v=3-Cl9_xKKKE" %}
+
+## Basics
+
+* Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
+* Release year: 2024&#x20;
+* User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User_Manual_inspiroy_frego_EN.pdf)&#x20;
+
+## Size <a href="#size" id="size"></a>
+
+This is a medium-sized tablet - with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
+
+* Huion Frego M (L610):&#x20;
+  * Dimensions: 10 x 6.25”
+  * Diagonal length: 11.79”
+* Wacom Intuos Pro Medium (PTH-660):&#x20;
+  * Dimensions: 8.7 x 5.8”
+  * Diagonal length: 10.57”
+
+In terms of paper sizes this is about the size of an A5 sheet of paper which has a diagonal length of 10.13"&#x20;
+
+## Aspect Ratio
+
+16:10 - which is common drawing tablets
+
+<div align="left"><figure><img src="../../../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
+
+Looks very simple and nice. Is very good. I wouldn't say it has a premium look.&#x20;
+
+**Color** - matte black all around
+
+**Huion branding** - On the front nothing is visible. One the back the Huion logo is very slightly visible as some recessed shiny black plastic..
+
+**Lights**&#x20;
+
+* green LED on upper right indicating USB connection
+* blue LED on upper right indicating Bluetooth operation
+
+## Pens
+
+* Comes with the Huion PW550S pen.
+* Default nib: felt.
+  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.&#x20;
+* More here: [<mark style="background-color:green;">**My notes on the Huion PW550 series pens**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw550.md)
+
+## Other compatible pens
+
+* You can use the Huion PW517 pen with this tablet. But it is not as good as the PW550 and PW550S.
+
+## Pen pressure
+
+* **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
+* **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
+* More here: [<mark style="background-color:green;">**My notes on Huion PW550 and PW550S pens**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw550.md)
+
+## Pointer lag
+
+VERY LOW - Typical for a pen tablet. Just a tiny tiny bit more lag than a Wacom in my opinion. This lag is fine and will not affect drawing. &#x20;
+
+## Touch
+
+NONE. This tablet does NOT support touch.
+
+## Auxiliary inputs&#x20;
+
+The tablet has not buttons dials or sliders.
+
+## Replaceable surface
+
+No. The surface is not replaceable.
+
+## Surface texture
+
+Has a nice amount of surface texture.
+
+**With a felt nib** - It feels like it has even more texture than a Wacom Intuos Pro (PTH-x60 series) which is widely known as having a heavily textured surface.
+
+**With a plastic nib** - it felt like slightly less texture than a Wacom Intuos Pro (PTH-x60 series).
+
+**Texture sound** - Moving the pen (with the felt nib installed) across the surface also produces a clearly audible squeaky sound. You may or may not like that. I prefer my tablets essentially silent. I switched to one of the plastic nibs and then it had a normal amount of noise and no squeaking.
+
+## Cables and connections
+
+**Wireless** - yes supports wireless via Bluetooth. I did not test this.
+
+**Ports** - a single USB-C port in the upper-left edge.
+
+## Ergonomics
+
+* Bottom edge slops down a bit to make it more comfortable for your arm. This is starting to be seen more and more in recently released tablets.
+
+## Diagonal wobble
+
+EXCELLENT - almost no perceptible diagonal wobble.
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Frego M (L610) 2024_08_30.png" alt=""><figcaption></figcaption></figure>
+
+## Recommended pressure curve
+
+As is typical for EMR pens, I recommend a pressure curve to reduce the sensitivity at the low end of the physical pressure range.
+
+## Pressure transition (low-high-low)
+
+VERY GOOD. test with a 300px brush. Pressure smoothly transitions. A little bit of pressure wobble at the extreme low end of pressure when the pen is very vertical- but that is normal even for the best pens. Use a pressure curve to address it if needed.
+
+## Pressure scan rate testing
+
+EXCELLENT.  I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
+
+## Tilt Compensation
+
+OK. Minor displacement at 45deg Totally acceptable for drawing. Likely not noticeable.
+
+Not quite as good as the Wacom Intuos Pro which has excellent tilt compensation.
+
+## Other features
+
+**Pen holder** - a cloth loop affixed on the top edge serves as a convenient pen holder.
+
+## Android Usage
+
+This tablet works very well with Android! In fact this is the first tablet, I've seen that works well out-of-the-box.
+
+Note that the Huion Inspiroy Frego S also works well with Android but slightly differently. See Teoh on Tech's review of the Frego where he explains the difference.
+
+**Devices tested**&#x20;
+
+All the devices listed below worked well with the Frego.
+
+* Samsung Galaxy Tab S8 Ultra
+* Samsung Galaxy Tab S9FE
+* Samsung Galaxy S24 Ultra
+
+**Wired vs Wireless**
+
+* Wireless - I connected via Bluetooth. And it worked.
+* Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating. (Huion clearly demonstrated that this is possible in this video: [https://www.youtube.com/watch?v=Oq6KeACQo68](https://www.youtube.com/watch?v=Oq6KeACQo68))
+
+**Orientation**&#x20;
+
+The Frego M tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
+
+<figure><img src="../../../.gitbook/assets/image (544).png" alt=""><figcaption></figcaption></figure>
+
+**Aspect ratio mapping**
+
+When connected to android the tablet keeps sets active area to match the aspect ratio of the android device display. This means that there is no distortion of shapes. if you draw a circle on the tablet, it will draw a circle on the android device.
+
+**Cursor/Pointer**
+
+NOTE: What I describe below is an interaction between Android and applications. It has nothing to do with the tablet.
+
+Android apps seem inconsistent with how they show cursors. I will contact the creators of these apps and suggest how they should work. Which in  my opinion should be: (1) on hover, show the brush outline (2) while drawing show the brush outline.
+
+<figure><img src="../../../.gitbook/assets/Slide_20241031_104105.jpg" alt=""><figcaption></figcaption></figure>
+
+**Bluetooth pointer lag**
+
+Even with Bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any  lag or skips.&#x20;
+
+**Bluetooth > switching devices**
+
+I paired it with android device A. But then to pair it with android device B, I had to go to device A and end the pairing. After that it would work with device B.&#x20;
+
+## Photos
+
+![](<../../../.gitbook/assets/20240831_125710 (Large) (1).jpg>)  ![](<../../../.gitbook/assets/20240831_125734 (Large) (3).jpg>)
+
+
+
+![](<../../../.gitbook/assets/20240831_130151 (Large).jpg>)   ![](<../../../.gitbook/assets/20240831_130158 (Large) (1).jpg>)
+
+![](<../../../.gitbook/assets/20240831_130210 (Large).jpg>)  ![](<../../../.gitbook/assets/20240831_130246 (Large).jpg>)
+
+<figure><img src="../../../.gitbook/assets/20240831_125840 (Large).jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
+

@@ -47,11 +47,11 @@ More here:&#x20;
 * [**Brands**](../drawing-tablet-brands/)
 * [**Choosing a drawing tablet brand**](../drawing-tablet-brands/choosing-a-drawing-tablet-brand.md) &#x20;
 
-f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../tablets/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
+f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablets-links/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## Product info
 
-I have links to information, reviews, and my notes on tablets in the [**product info**](../tablets/) section.
+I have links to information, reviews, and my notes on tablets in the [**product info**](../drawing-tablets-links/) section.
 
 ## **Core drawing tablet features**
 
@@ -102,7 +102,7 @@ For more information on how tablets work with a specific OS, go here: [**Operati
 * **Thickness** - Pen tablets are very thin these days - about 8mm. Smaller pen displays can be around 10mm larger pen displays can be 35mm.&#x20;
 * **Surface texture** - If you are drawing, you might have strong preferences of what the texture of your tablet feels like. All drawing tablets have some surface texture but there is quite a bit of variation. There are even ways to achieve the texture you want. For example, many people want their tablet to have a rougher texture like paper. Learn more here: [**Surface texture**](../core-features/surface-texture.md)&#x20;
 * **Body posture** - With a pen tablet, your torso will naturally have a more vertical posture. This is because you will be looking at your monitor while you hand rests on the pen tablet which is on your desk.  With a pen display, you will be leaning over a bit to draw since you must look at the pen tablet on you desk. You may experience lower back pain or strain on your neck from looking down. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/body-posture-when-using-drawing-tablets.md)
-* **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [**Using monitor arms with a pen display**](../accessories/using-monitor-arms-with-a-pen-display.md)&#x20;
+* **Arm mounting** - Pen displays are essentially monitors, and many (but not all), pen displays have a VESA mount on the back that you can put the pen display on. This will allow you to use keep the pen display away and use it like a secondary display and then pull it close when you want to draw. Pen tablets do not have any kind of built in ability to be mounted like that. See: [**Using monitor arms with a pen display**](../accessory-links/using-monitor-arms-with-a-pen-display/)&#x20;
 * **Legs** - Many pen displays (not not all) have foldable legs on the back. This allows you to keep the pen display at a slight angle on your desk which makes it a bit easier to see and draw on. Pen tablets do not have legs. If you want to place them at an angle, you will need to find and purchase some other solution.
 * **Right-handed vs left-handed use** - All drawing tablets work for people who are right-handed or left-handed. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet to be used correctly in a left-handed way. See [**handedness of drawing tablets**](../guides/ergonomics/handedness-of-drawing-tablets.md).&#x20;
 * **Noise** - You may have strong preferences about **noise**. Generally drawing tablets are considered very quiet, and some are completely silent. More details here: [**Noise**](./#noise)&#x20;
@@ -150,12 +150,12 @@ Drawing tablets have been released over many years. That means when you shop onl
     * PenTech 3.0: PW517, PW515, PW110
     * PenTech 3.0+: PW500, PW500S - in my research these are clearly better pens than PenTech 3.0. In terms of pressure range as good as PenTech 4.0.
     * PenTech 4.0: PW600, PW600S. The PenTech 4.0 Pens are better than the PenTech 3.0 pens
-    * More here: [**Huion pens**](../tablets/huion/huion-pen-models/)
+    * More here: [**Huion pens**](../pen-links/huion-pen-models/)
 
 ## Preparing for a drawing tablet
 
 * **Troubleshooting -** At some point, something is going to go wrong. I highly suggest you familiarize yourself with the [**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md) and be aware of these [**Troubleshooting guides**](../troubleshooting/).
-* **Accessories** - There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessories/)
+* **Accessories** - There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessory-links/)
 * **Purchasing** - Before you actually purchase the tablet. Go through this [**Before-purchase checklist**](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/get-started-with-a-drawing-tablet.md)&#x20;
 * **Maintenance** - Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/caring-for-your-tablet/).

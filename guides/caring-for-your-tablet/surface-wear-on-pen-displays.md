@@ -63,7 +63,7 @@ Protective sheets on top of the tablet glass naturally protect the glass from da
 
 One benefit of protective sheets is if they do get damaged you can generally replace them.
 
-More here: [**protective sheets**](../../accessories/surface-protectors/)
+More here: [**protective sheets**](../../accessory-links/surface-protectors/)
 
 ## Examples of damage
 
@@ -71,6 +71,6 @@ More here: [**protective sheets**](../../accessories/surface-protectors/)
 
 ![](../../.gitbook/assets/20qku3ezm38a1.jpg)
 
-From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/)&#x20;
+From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)&#x20;
 
 &#x20;

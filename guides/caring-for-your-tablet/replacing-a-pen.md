@@ -14,7 +14,7 @@ First find the model number of your tablet:  [**Finding the model number of a dr
 
 Then, go to the website of your tablet brand and search for the tablet you have and it should list the compatible pen model number. If you can't find what you are looking for then **contact customer support**.
 
-If you have a **Wacom** tablet, you can find many compatible pens listed here: [**Wacom pen compatibility**](../../tablets/wacom/wacom-pens/wacom-pen-compatibility.md)
+If you have a **Wacom** tablet, you can find many compatible pens listed here: [**Wacom pen compatibility**](../../pen-links/wacom-pens/wacom-pen-compatibility.md)
 
 ## Always verify with customer support
 
