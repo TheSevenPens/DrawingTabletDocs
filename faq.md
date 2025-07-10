@@ -8,7 +8,7 @@ An overview of the brands and my take on some of them are here: [**drawing table
 
 ### Q: Which an iPad better than a drawing tablet?
 
-&#x20;Read : [**using an iPad as a drawing tablet**](product-links/apple/apple-ipad-1.md)
+&#x20;Read : [**using an iPad as a drawing tablet**](tablets/apple/apple-ipad-1.md)
 
 ### Q: Can I use a drawing tablet with my iPad or iPhone?
 

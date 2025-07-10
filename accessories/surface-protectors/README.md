@@ -22,8 +22,8 @@ There are many options to protect the surface of your tablet from scratches, etc
 ## Protection from the tablet manufacturer
 
 * Built-in screen protection on pen displays - Some pen displays arrive with a protective film already on top of the screen. The purpose of this screen is to prevent glare and protect the glass.  It may be possible to replace that film. Contact your manufacturer to see if they sell replacement films. As an example: The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
-* **Wacom** makes Texture Sheets available for its Intuos Pro pen tablets. More here: [**Wacom texture sheets**](../../product-links/wacom/wacom-accessories/wacom-texture-sheets.md)&#x20;
-* [**XP-Pen offers protective sheets for their tablets**](../../product-links/xp-pen/xp-pen-protective-sheets.md)
+* **Wacom** makes Texture Sheets available for its Intuos Pro pen tablets. More here: [**Wacom texture sheets**](../wacom-accessories/wacom-texture-sheets.md)&#x20;
+* [**XP-Pen offers protective sheets for their tablets**](../xencelabs-accessories/xp-pen-accessories/xp-pen-protective-sheets.md)
 
 ### 3rd-party protectors for pen displays and pen tablets
 

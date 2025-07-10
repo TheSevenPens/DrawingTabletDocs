@@ -21,9 +21,9 @@ Formally, these are not drawing tablets, but they can work just like one. And of
 
 Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately
 
-[<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../product-links/apple/apple-ipad-1.md)
+[<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../tablets/apple/apple-ipad-1.md)
 
-There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../product-links/apple/apple-pencil.md). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
+There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../tablets/apple/apple-pencil.md). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
 
 The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
 
@@ -42,28 +42,28 @@ There are many models available over the years, so it is likely you can find som
 For applications that run on Android see this list: [**Apps for Android**](../../applications/apps-for-android.md)
 
 * [**Samsung Galaxy Tab S Series** ](pen-enabled-mobile-computers.md#samsung-galaxy-tab-s-series)($800 to $1200) higher performance options
-* [**Samsung Galaxy Tab S9 FE** ](../../product-links/samsung/samsung-galaxy-tab-s9.md)($350 to $520) excellent mid-budget option
+* [**Samsung Galaxy Tab S9 FE** ](../../tablets/samsung/samsung-galaxy-tab-s9.md)($350 to $520) excellent mid-budget option
   * There are two versions:&#x20;
     * 6GB RAM + 126GB storage ($450)
     * 8GB RAM with 256GB of storage ($520)
     * Both will work, but I always recommend getting more RAM for drawing apps.
-* [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../../product-links/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners. &#x20;
+* [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../../tablets/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners. &#x20;
   * There is a 2020 version. Avoid it.&#x20;
 
-[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../product-links/samsung/samsung-galaxy-tab-s.md) &#x20;
+[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../tablets/samsung/samsung-galaxy-tab-s.md) &#x20;
 
-[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../product-links/samsung/samsung-galaxy-tab-s8-ultra.md)&#x20;
+[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../tablets/samsung/samsung-galaxy-tab-s8-ultra.md)&#x20;
 
 ## Samsung Galaxy Tab A Series
 
-<mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](../../product-links/samsung/samsung-galaxy-tab-a.md)
+<mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](../../tablets/samsung/samsung-galaxy-tab-a.md)
 
 ## Devices from Huion and XP-Pen
 
 Huion and XP-pen have also released android tablets in this category.
 
-* [**Huion Kamvas Slate 10**](../../product-links/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-* [**XP-Pen Magic Drawing Pad**](../../product-links/xp-pen/xp-pen-magic-drawing-pad.md) - I don't have any experience with it.
+* [**Huion Kamvas Slate 10**](../../tablets/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
+* [**XP-Pen Magic Drawing Pad**](../../tablets/xp-pen/xp-pen-magic-drawing-pad.md) - I don't have any experience with it.
 
 Resources
 

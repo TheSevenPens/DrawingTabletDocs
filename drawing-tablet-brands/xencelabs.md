@@ -6,9 +6,9 @@ Xencelabs ([https://www.xencelabs.com/](https://www.xencelabs.com/)) is trying t
 
 They are a very new brand and have a small product line as of Jan 2024:
 
-* Xencelabs Pen Display 24: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-links/xencelabs/7p-notes-xencelabs-lph2412u-a.md)
-* Xencelabs Pen Display 16: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-links/xencelabs/xencelabs-lph1612u-a.md)
-* Xencelabs Pen Tablet Medium: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../product-links/xencelabs/xencelabs-bph1212w-a.md)  (very minimal notes)
+* Xencelabs Pen Display 24: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../tablets/xencelabs/xencelabs-lph2412u-a.md)
+* Xencelabs Pen Display 16: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../tablets/xencelabs/xencelabs-lph1612u-a.md)
+* Xencelabs Pen Tablet Medium: [<mark style="background-color:green;">**my notes on this tablet**</mark>](../tablets/xencelabs/xencelabs-bph1212w-a.md)  (very minimal notes)
 * Xencelabs Pen Tablet Small
 
 ### What Xencelabs does well

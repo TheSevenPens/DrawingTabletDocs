@@ -12,9 +12,9 @@ But some tablets don't have these express keys or some people just don't like us
 
 Wacom, Xencelabs, Huion, etc. make "remotes" that essentially offload the work of the express keys to a separate wireless device.
 
-* [XP-Pen Shortcut Remote](../../product-links/xp-pen/xp-pen-shortcut-remote.md)&#x20;
-* [Xencelabs Quick Keys](../../product-links/xencelabs/xencelabs-quick-keys.md)&#x20;
-* [Huion KeyDial](../../product-links/huion/huion-keydial.md)&#x20;
+* [XP-Pen Shortcut Remote](../xencelabs-accessories/xp-pen-accessories/xp-pen-shortcut-remote.md)&#x20;
+* [Xencelabs Quick Keys](../xencelabs-accessories/xencelabs-quick-keys.md)&#x20;
+* [Huion KeyDial](../huion-accessories/huion-keydial.md)&#x20;
 
 ## **Creative controllers**
 

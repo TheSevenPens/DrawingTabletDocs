@@ -47,11 +47,11 @@ More here:&#x20;
 * [**Brands**](../drawing-tablet-brands/)
 * [**Choosing a drawing tablet brand**](../drawing-tablet-brands/choosing-a-drawing-tablet-brand.md) &#x20;
 
-f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../product-links/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
+f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../tablets/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## Product info
 
-I have links to information, reviews, and my notes on tablets in the [**product info**](../product-links/) section.
+I have links to information, reviews, and my notes on tablets in the [**product info**](../tablets/) section.
 
 ## **Core drawing tablet features**
 
@@ -150,7 +150,7 @@ Drawing tablets have been released over many years. That means when you shop onl
     * PenTech 3.0: PW517, PW515, PW110
     * PenTech 3.0+: PW500, PW500S - in my research these are clearly better pens than PenTech 3.0. In terms of pressure range as good as PenTech 4.0.
     * PenTech 4.0: PW600, PW600S. The PenTech 4.0 Pens are better than the PenTech 3.0 pens
-    * More here: [**Huion pens**](../product-links/huion/huion-pen-models/)
+    * More here: [**Huion pens**](../tablets/huion/huion-pen-models/)
 
 ## Preparing for a drawing tablet
 

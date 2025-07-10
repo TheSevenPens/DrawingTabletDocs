@@ -17,15 +17,15 @@ This is a 2-in-1 laptop that folds over. The drawing experience is good - not su
 Pen information:
 
 * Tech: Wacom EMR&#x20;
-* Comes with this pen: [**Samsung S Pen**](../../product-links/samsung/samsung-s-pen/) ([<mark style="background-color:green;">**my notes on this pen**</mark>](../../product-links/samsung/samsung-s-pen/samsung-s-pen-notes.md))
+* Comes with this pen: [**Samsung S Pen**](../../tablets/samsung/samsung-s-pen/) ([<mark style="background-color:green;">**my notes on this pen**</mark>](../../tablets/samsung/samsung-s-pen/samsung-s-pen-notes.md))
 * Pen compatibility: These devices also works with the the Wacom CP-913 pen. And many people choose to use the Wacom CP-913 instead of the S Pen.
 
 Recent models:
 
 * Samsung Galaxy Book5 360
 * Samsung Galaxy Book5 Pro 360
-* [Samsung Galaxy Book4 360](../../product-links/samsung/samsung-galaxy-book-360.md)&#x20;
-* [Samsung Galaxy Book4 Pro 360](../../product-links/samsung/samsung-galaxy-book-360.md)&#x20;
+* [Samsung Galaxy Book4 360](../../tablets/samsung/samsung-galaxy-book-360.md)&#x20;
+* [Samsung Galaxy Book4 Pro 360](../../tablets/samsung/samsung-galaxy-book-360.md)&#x20;
 
 ## Microsoft Surface Pro
 
@@ -36,9 +36,9 @@ Pen information
 * Tech: MPP (similar to AES)
 * Comes with pen: NO. You have to buy The Surface Slim Pen 2 separately.
 
-[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../product-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8.md)
+[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../tablets/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8.md)
 
-* [**Surface Pro 8**](../../product-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
-* [**Surface Pro 9**](../../product-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
+* [**Surface Pro 8**](../../tablets/microsoft/microsoft-surface-pro-9/) (starting at $900)
+* [**Surface Pro 9**](../../tablets/microsoft/microsoft-surface-pro-9/) (starting at $900)
 
 ##
