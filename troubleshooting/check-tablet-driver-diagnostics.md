@@ -14,7 +14,7 @@ This diagnostic information is very useful for troubleshooting common issues suc
 * The **Diagnostics** window will appear
 * As you move you mouse over the Diagnostics window, it will show you information about the pen position, pressure, tilt, etc.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Wacom > Wacom Center
 
@@ -48,5 +48,5 @@ As of May 27 2025, I have suggested to Huion that they incorporate some features
 
 To get the Huion QC tool, contact Huion customer support and they will send you a download link and instructions on how to use it.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

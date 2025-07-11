@@ -110,6 +110,14 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 * If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
 * Explanation and instructions here: [**Matching aspect ratios with Force Proportions**](../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md).&#x20;
 
+## Adjust the pressure curve to give you more control
+
+Drawing tablet pens are "over-sensitive" at low physical pressure. Near the initial activation force the pressure can swing wildly. If you are using pressure to control for example the width of your strokes, then the width can vary more than you expect. This is especially obvious as you are doing linework and you brushes start getting larger (>50px).
+
+This over-sensitivity is common to pens, and not unusual. Some people may not even notice. But if you do, you can use pressure curves to reduce the over sensitivity.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Windows&#x20;
 
 Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
