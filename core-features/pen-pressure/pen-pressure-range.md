@@ -4,7 +4,7 @@
 
 Based on my analysis of pen pressure ranges, I have developed this simple rating scale for IAF and max pressure. This represents my initial thinking and I expect to revise this in the future based on feedback.
 
-For more general information about pen pressure go here: [**pen pressure**](pen-pressure.md)
+For more general information about pen pressure go here: [**pen pressure**](./)
 
 A wide pressure range is very desirable. It contributes a lot to a good pressure experience. A wider pressure range is even more important than the number of pressure levels.
 
@@ -16,7 +16,7 @@ I think the pressure categories here (EXCELLENT, VERY GOOD, etc) are reasonable.
 
 But be aware, that for a specific pen there can be significant differences for IAF and max pressure for individual units.&#x20;
 
-<figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
 
 ## Pressure data and sources
 

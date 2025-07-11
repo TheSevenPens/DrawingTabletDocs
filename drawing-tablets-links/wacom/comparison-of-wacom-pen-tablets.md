@@ -76,7 +76,7 @@ All of the tablets except the Wacom One 2023 tablets have a very very good drawi
 
 ## Pen pressure
 
-Learn more here: [**Pen pressure**](../../core-features/pen-pressure.md) &#x20;
+Learn more here: [**Pen pressure**](../../core-features/pen-pressure/) &#x20;
 
 2048 **pressure levels** is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.&#x20;
 
@@ -89,8 +89,8 @@ More than pressure levels, the **pressure range** has a greater impact on your d
 Notes:
 
 * Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
-* Learn more about [**pen pressure**](../../core-features/pen-pressure.md)&#x20;
-* Learn more about how [**pen pressure ranges compare across pens**](../../core-features/pen-pressure-range.md)  &#x20;
+* Learn more about [**pen pressure**](../../core-features/pen-pressure/)&#x20;
+* Learn more about how [**pen pressure ranges compare across pens**](../../core-features/pen-pressure/pen-pressure-range.md)  &#x20;
 
 ## Drawing features
 

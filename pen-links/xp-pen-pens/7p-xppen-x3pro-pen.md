@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen X3 Pro pens
+# XP-Pen X3 Pro pens  notes
 
 ## O**verview**&#x20;
 
@@ -12,7 +12,7 @@ There are three models:
 * X3 Pro Slim
 * X3 Pro Roller
 
-<figure><img src="../../../.gitbook/assets/Slide_20241104_135959.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20241104_135959.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Eraser**
 
@@ -34,11 +34,11 @@ XP-Pen says the X3 Pro pens should have a max pressure of 400 gf.
 
 
 
-<figure><img src="../../../.gitbook/assets/Slide_20241104_140439.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20241104_140439.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 My testing shows that individual units can vary from \~250gf to \~450gf.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,11 +50,11 @@ All you need is 2K pressure levels. More important than this is the wide pressur
 
 16K pressure level screenshot. This is what it shows in the driver when pressur at full pressure.&#x20;
 
-![](<../../../.gitbook/assets/image (433).png>)
+![](<../../.gitbook/assets/image (433).png>)
 
 
 
-More here: [**pen pressure**](../../../core-features/pen-pressure.md)&#x20;
+More here: [**pen pressure**](../../core-features/pen-pressure/)&#x20;
 
 ##
 

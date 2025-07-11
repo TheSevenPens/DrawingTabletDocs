@@ -14,7 +14,7 @@ The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous
 
 ### Background
 
-Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../core-features/pen-pressure.md)  &#x20;
+Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../core-features/pen-pressure/)  &#x20;
 
 ### Pressure levels
 

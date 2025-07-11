@@ -1,4 +1,4 @@
-# Disable pen pressure
+# Disabling pen pressure
 
 ## Overview
 
@@ -14,7 +14,7 @@ Drawing apps that use brushes may let you control how pressure affects the brush
 
 In some applications you can completely flatten the pressure curve. This allows you to have the pressure report. This means the pressure is constant and will not result in the brush changing due to pressure.
 
-![](<../.gitbook/assets/image (458).png>)
+![](<../../.gitbook/assets/image (458).png>)
 
 ## **OPTION 3** Turn off pressure in the driver
 
@@ -22,9 +22,5 @@ SOME tablet drivers let you simply turn off pressure so that it isn't reported t
 
 XP-Pen drivers have this feature.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (431).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (431).png" alt="" width="563"><figcaption></figcaption></figure></div>
 

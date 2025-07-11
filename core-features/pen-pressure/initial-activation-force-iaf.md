@@ -4,7 +4,7 @@
 
 The **Initial Activation Force** (IAF) is the smallest amount of pressure that an EMR pen will detect and report.&#x20;
 
-More info: [**Pen pressure**](pen-pressure.md)&#x20;
+More info: [**Pen pressure**](./)&#x20;
 
 ## Initial activation force (IAF)
 

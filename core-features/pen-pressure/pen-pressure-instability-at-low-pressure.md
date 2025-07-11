@@ -19,11 +19,11 @@ All of the example below were created with the Wacom Intuos Pro 2017 M (PTH-660)
 * Application: Krita
 * Brush: Ink3 Gpen, null pressure curve, 500px brush
 
-<figure><img src="../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (573).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
 
 ## Causes
 
@@ -36,7 +36,7 @@ All of the example below were created with the Wacom Intuos Pro 2017 M (PTH-660)
 
 ## Addressing these problems
 
-See: [**Troubleshoot low pressure drawing problems**](../troubleshooting/tsg-low-pressure-drawing-problems.md)
+See: [**Troubleshoot low pressure drawing problems**](../../troubleshooting/tsg-low-pressure-drawing-problems.md)
 
 
 
