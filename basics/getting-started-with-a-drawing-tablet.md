@@ -1,13 +1,12 @@
-# Get started with a drawing tablet
+# Getting started with a drawing tablet
 
 ## Overview
 
-If you just acquired a drawing tablet and want to start using it, this guide will lead you through the basics.
+If you just acquired a drawing tablet and want to start using it, this guide will lead you through the basics.&#x20;
 
 {% hint style="info" %}
-I suggest you first read [**the beginner's guide**](beginners-guide.md)&#x20;
-
-If you don't have a drawing tablet, then try this [**detailed buying guide**](../buying-a-drawing-tablet/).&#x20;
+* If you are new to drawing tablets, first read [**the beginner's guide**](beginners-guide.md)&#x20;
+* If you don't have a drawing tablet: [**buying guide**](../buying-a-drawing-tablet/)&#x20;
 {% endhint %}
 
 ## Find out the tablet's model number

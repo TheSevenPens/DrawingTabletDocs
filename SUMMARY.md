@@ -11,7 +11,7 @@
   * [Types of drawing tablets](basics/types-of-drawing-tablets.md)
   * [Learning digital art](basics/learning-digital-art.md)
   * [Learning to use a drawing tablet](basics/learning-to-use-a-drawing-tablet.md)
-  * [Get started with a drawing tablet](basics/get-started-with-a-drawing-tablet.md)
+  * [Getting started with a drawing tablet](basics/getting-started-with-a-drawing-tablet.md)
   * [Use cases](basics/use-cases/README.md)
     * [Gaming with a drawing tablet](basics/use-cases/gaming-with-a-drawing-tablet.md)
     * [Making educational videos with a drawing tablet](basics/use-cases/making-educational-videos-with-a-drawing-tablet.md)

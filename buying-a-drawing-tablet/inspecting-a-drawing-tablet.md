@@ -16,7 +16,7 @@ This will save you a lot of headaches and disappointment later on.
 
 ## Getting prepared for functional testing
 
-In order to perform test the tablet actually works you'll need to set it up. Follow this guide: [**Get started with a drawing tablet**](../basics/get-started-with-a-drawing-tablet.md).
+In order to perform test the tablet actually works you'll need to set it up. Follow this guide: [**Get started with a drawing tablet**](../basics/getting-started-with-a-drawing-tablet.md).
 
 Then install any applications you need. I strongly suggest you install Krita from Krita.org. It's free and its behavior is consistent so it makes it an ideal application to test the functionality of a drawing tablet. So even if you don't plan on using Krita it's a very useful tool for troubleshooting.
 
