@@ -8,6 +8,7 @@ For more on touch: [**Touch support**](./)
 
 ## Pen tablets that support touch
 
+* NOTE: The Intuos Pro 2025 series does NOT support touch.
 * Wacom Intuos Pro 2017 Small (PTH-460)
 * Wacom Intuos Pro 2017 Medium (PTH-660)
 * Wacom Intuos Pro 2017 Large (PTH-860)
@@ -24,6 +25,8 @@ For more on touch: [**Touch support**](./)
 
 ## Pen displays that support touch
 
+* Wacom Cintiq 24 touch (DTH-246)
+  * Be aware that there is a non-touch version also being sold: Wacom Cintiq 24 (DTK-246)
 * Wacom Cintiq Pro 27 (DTH-271)
 * Wacom Cintiq Pro 22 (DTH-227)
 * Wacom Cintiq Pro 17 (DTH-172)
