@@ -540,7 +540,7 @@
     * [Kuuube's Wacom pen compatibility mastersheet](resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md)
   * [YouTube channels](resources/youtube-channels.md)
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
-  * [Tablet kitten](resources/tablet-kitten.md)
+  * [Tablet kitten](resources/koneko_w.md)
   * [Project Patchouli](resources/project-patchouli.md)
 * [Process](process/README.md)
   * [Pressure range data](process/pressure-range-data.md)
