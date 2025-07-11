@@ -299,7 +299,7 @@
   * [TSG: Pen acting like a mouse](troubleshooting/tsg-pen-acting-like-a-mouse.md)
   * [TSG: Pen display turns on and off constantly](troubleshooting/tsg-pen-display-turns-on-and-off-constantly.md)
   * [TSG: computer detects drawing tablet as a keyboard](troubleshooting/tsg-computer-detects-drawing-tablet-as-a-keyboard.md)
-* [Applications](app-links/README.md)
+* [Application links](app-links/README.md)
   * [MyPaint](app-links/mypaint.md)
   * [Adobe Photoshop](app-links/adobe-photoshop/README.md)
     * [7P: Adobe Photoshop](app-links/adobe-photoshop/7p-adobe-photoshop.md)
