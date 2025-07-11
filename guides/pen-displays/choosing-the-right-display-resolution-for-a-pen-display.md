@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pen displays have an embedded display panel that has a native resolution. In this document I'll share some thoughts about how to pick a resolution that will work for your needs.&#x20;
+You want to be thoughtful about picking the right resolution. Higher resolution is not automatically better, it depends on the size of the size.
 
 ## Summary
 
@@ -10,27 +10,19 @@ Pen displays have an embedded display panel that has a native resolution. In thi
 * At small sizes having a very high resolution does not help
 * Some resolutions require some extra work to use well with MacOS
 
-## Typical resolutions
+## My experience
 
-Modern pen displays mostly use a small number of resolutions.
+Based on my experience here's what I think works. Overall the pattern is a PPI between 140ppi and 180ppi is what I think works the best.
 
-The vast majority of pen displays use these three resolutions:
-
-* Full HD = 1920x1080
-* 2.5K  = 2560x1440
-* 4K = 3840x2160
-
-But, a few pen displays use resolutions such as 2560 x 1600.
-
-## My experience and recommendations
-
-Based on my experience here's what I think works. Overall the pattern is a PPI between 150ppi and 180ppi is what I think works the best.
-
-<table><thead><tr><th width="126.20001220703125">Diagonal Size</th><th>Full HD (1920x1080)</th><th>2.5K (2560x1440)</th><th>4K (3840x2160)</th></tr></thead><tbody><tr><td>13"</td><td><p>~169ppi</p><p>works fine</p></td><td><p>~226ppi</p><p>works fine</p></td><td><p>~339ppi</p><p>definitely too much</p></td></tr><tr><td>16"</td><td><p>~138ppi</p><p>works fine</p></td><td><p>~184ppi</p><p>works great (ideal)</p></td><td><p>~275ppi</p><p>definitely too much</p></td></tr><tr><td>19"</td><td><p>~115ppi</p><p>not enough</p></td><td><p>~155ppi</p><p>should work great</p></td><td><p>~231ppi</p><p>works great (ideal)</p></td></tr><tr><td>22"</td><td><p>~100ppi</p><p>definitely not enough</p></td><td><p>~133ppi</p><p>works great</p></td><td><p>~220ppi</p><p>works great (ideal)</p></td></tr><tr><td>24"</td><td><p>~92ppi</p><p>definitely not enough</p></td><td><p>~122ppi</p><p>works fine</p></td><td><p>~184ppi</p><p>works great (ideal)</p></td></tr><tr><td>27"</td><td><p>~82ppi</p><p>definitely not enough</p></td><td><p>~109ppi</p><p>probably not enough</p></td><td><p>~163ppi</p><p>works great (ideal)</p></td></tr></tbody></table>
+<table><thead><tr><th width="126.20001220703125">Diagonal Size</th><th>Full HD (1920x1080)</th><th width="207">2.5K (2560x1440)</th><th>4K (3840x2160)</th></tr></thead><tbody><tr><td>13"</td><td><p>~169ppi</p><p>GREAT</p></td><td><p>~226ppi</p><p>EXCELLENT</p></td><td><p>~339ppi</p><p>NOT NEEDED</p></td></tr><tr><td>16"</td><td><p>~138ppi</p><p>GOOD</p></td><td><p>~184ppi</p><p>GREAT</p></td><td><p>~275ppi</p><p>NOT NEEDED</p></td></tr><tr><td>19"</td><td><p>~115ppi</p><p>OK</p></td><td><p>~155ppi</p><p>GREAT</p></td><td><p>~231ppi</p><p>EXCELLENT</p></td></tr><tr><td>22"</td><td><p>~100ppi</p><p>NOT ENOUGH</p></td><td><p>~133ppi</p><p>GREAT</p></td><td><p>~220ppi</p><p>EXCELLENT</p></td></tr><tr><td>24"</td><td><p>~92ppi</p><p>NOT ENOUGH</p></td><td><p>~122ppi</p><p>GOOD</p></td><td><p>~184ppi</p><p>EXCELLENT</p></td></tr><tr><td>27"</td><td><p>~82ppi</p><p>NOT ENOUGH</p></td><td><p>~109ppi</p><p>OK</p></td><td><p>~163ppi</p><p>EXCELLENT</p></td></tr></tbody></table>
 
 ## MacOS&#x20;
 
-MacOS text rendering can appear not work OK by default with certain combinations size and resolutions. This can be addressed with an app called Better Display.
+MacOS works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [**Fuzzy text on displays with MacOS**](../operating-systems/macos/display-resolution.md)&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=1z6SU-eyYQE" %}
+## **Picking between 2.5K vs 4K resolution**&#x20;
+
+People often ask about picking between these two resolutions. Overall I think 2.5K is the best value for your money.&#x20;
+
+Especially at the 13" and 16" sizes, a 2.5K delivers a massive increase over 2K. At these size, higher resolutions only provide very incremental benefits.
 

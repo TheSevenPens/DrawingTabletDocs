@@ -223,6 +223,7 @@
       * [Connecting a drawing tablet to an iPad or iPhone](guides/operating-systems/ios-and-ipados/using-a-drawing-tablet-with-an-ipad-or-iphone.md)
     * [MacOS](guides/operating-systems/macos/README.md)
       * [Using a drawing tablet on MacOS](guides/operating-systems/macos/using-a-drawing-tablet-on-macos.md)
+      * [Fuzzy text on displays with MacOS](guides/operating-systems/macos/display-resolution.md)
     * [Linux](guides/operating-systems/linux.md)
     * [Windows](guides/operating-systems/windows/README.md)
       * [Using a drawing tablet on Windows](guides/operating-systems/windows/using-a-drawing-tablet-on-windows.md)
