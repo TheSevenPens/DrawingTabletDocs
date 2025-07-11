@@ -31,7 +31,7 @@ The vary quite a bit in price, below are three models I personally own. You will
 * **Apple iPad Pro 11 inch (4th gen and later)** ($800+)
 * **Apple iPad pro 12.9 inch 6th gen** ($1100+)
 
-For a list of applications for iPads: [**Apps for iPad**](../../applications/apps-for-ipad.md)
+For a list of applications for iPads: [**Apps for iPad**](../../apps/apps-for-ipad.md)
 
 ## Samsung Galaxy Tab S series
 
@@ -39,7 +39,7 @@ As an alternative to the Apple ecosystem, the Samsung Galaxy Tab S series of tab
 
 There are many models available over the years, so it is likely you can find something that works for your budget. Below are three that I have personal experience with. But many others might suit your needs.
 
-For applications that run on Android see this list: [**Apps for Android**](../../applications/apps-for-android.md)
+For applications that run on Android see this list: [**Apps for Android**](../../apps/apps-for-android.md)
 
 * [**Samsung Galaxy Tab S Series** ](pen-enabled-mobile-computers.md#samsung-galaxy-tab-s-series)($800 to $1200) higher performance options
 * [**Samsung Galaxy Tab S9 FE** ](../../drawing-tablets-links/samsung/samsung-galaxy-tab-s9.md)($350 to $520) excellent mid-budget option

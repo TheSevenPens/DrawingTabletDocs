@@ -5,7 +5,7 @@
 * [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](samsung-galaxy-tab-s.md)
 * [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
 * [<mark style="background-color:green;">**7P notes: Apple iPad versus Samsung Galaxy Tab S**</mark>](../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
-* [**Apps for Android**](../../applications/apps-for-android.md)
+* [**Apps for Android**](../../apps/apps-for-android.md)
 
 ## Samsung Galaxy Tab S10
 

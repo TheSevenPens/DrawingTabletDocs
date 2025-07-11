@@ -127,8 +127,8 @@ All apps work with drawing tablets (once you install the drivers). Creative apps
 More here:&#x20;
 
 * [**App compatibility with drawing tablets**](../basics/app-compatibility-with-drawing-tablets.md)
-* [**Applications**](../applications/) &#x20;
-* [**Recommended apps**](../applications/7p-recommended-apps.md)&#x20;
+* [**Applications**](../apps/) &#x20;
+* [**Recommended apps**](../apps/recommended-apps.md)&#x20;
 
 ## Buying used drawing tablets
 

@@ -45,7 +45,7 @@ Some popular and excellent drawing applications are available on the iPad
 * [Adobe Fresco](../../app-links/fresco.md)
 * [Ibis Paint](../../app-links/ibis-paint.md)
 
-You can find a more complete list here: [**applications**](../../applications/).
+You can find a more complete list here: [**applications**](../../apps/).
 
 ### Surface texture
 
@@ -120,7 +120,7 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## iPad apps for creative work
 
-There are many great apps for iPad: [**Apps for iPad**](../../applications/apps-for-ipad.md).
+There are many great apps for iPad: [**Apps for iPad**](../../apps/apps-for-ipad.md).
 
 ## How I use iPads
 

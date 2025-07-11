@@ -51,7 +51,7 @@ You will have to rely on the pressure curve control in your applications - if it
 
 ## Applications
 
-* For a list of applications that work on Android go here: [**Applications**](../../../applications/).
+* For a list of applications that work on Android go here: [**Applications**](../../../apps/).
 
 ## Considerations for a pen tablet
 

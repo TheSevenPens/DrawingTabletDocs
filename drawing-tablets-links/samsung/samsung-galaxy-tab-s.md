@@ -58,7 +58,7 @@ As for software here are the apps I use with it. Stars indicate the apps I use m
 * [Concepts app](../../app-links/infinite-painter.md)&#x20;
 * [IbisPaint X](../../app-links/ibis-paint.md)
 
-More here: [**Applications**](../../applications/)&#x20;
+More here: [**Applications**](../../apps/)&#x20;
 
 ## Something similar procreate
 

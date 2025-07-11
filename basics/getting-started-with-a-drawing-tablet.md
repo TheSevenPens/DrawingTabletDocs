@@ -129,7 +129,7 @@ Perform this configuration: [**Disable the press-and-hold ring in Windows**](../
 * **Photopea** ([https://www.photopea.com/](https://www.photopea.com/)) is a web-based Photoshop-like app. It is very good and also has a free tier.
 * [**Procreate**](../app-links/procreate/) - this is THE drawing app to get if you are drawing on an iPad.
 * [**Infinite Painter**](../app-links/infinite-painter.md) - this is the equivalent of Procreate, but for Android devices.
-* **Other applications -** Look here to find a large number of applications to explore: [**applications**](../applications/)&#x20;
+* **Other applications -** Look here to find a large number of applications to explore: [**applications**](../apps/)&#x20;
 
 &#x20;
 
