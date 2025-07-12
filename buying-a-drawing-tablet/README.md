@@ -138,7 +138,11 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 Depending on the kind of tablet it will draw different amounts of power. Pen tablets requrie very little. Pen displays need much more. Some pen tablets even have batteries so that they can work wirelessly. More here: [Powering a drawing tablet](../core-features/power/powering-a-drawing-tablet.md)&#x20;
 
-## Picking tablets with more recent tech
+## "PRO" tablets
+
+Some tablets are labelled "PRO"- for example Wacom Cintiq Pro or Wacom Intuos Pro. But there is no clear definition of Pro in the industry. And many new non-Pro tablets are better than older Pro tablets. More here: [**Buying "PRO" tablets**](buying-pro-tablets.md)
+
+Picking tablets with more recent tech
 
 Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
 
