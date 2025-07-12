@@ -21,7 +21,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## Value with compromises
 
 * Huion Kamvas 13 (GS1331) \[$240, [**links**](../../drawing-tablets-links/huion/huion-kamvas/),  [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1331.md)]
-* Wacom One 2019 GEN1 (DTC-133) \[$400, [**links**](../../drawing-tablets-links/wacom/wacom-one-dtc-133/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one-dtc-133/7p-wacom-dtc-133.md)]
+* Wacom One 2019 GEN1 (DTC-133) \[$400, [**links**](../../drawing-tablets-links/wacom/wacom-one-dtc-133/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one-dtc-133/wacom-dtc-133.md)]
   * &#x20;NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.
 
 ## Unsatisfactory drawing experience
