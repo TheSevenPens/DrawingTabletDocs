@@ -61,7 +61,7 @@
 
 ### Pointer lag&#x20;
 
-* **Background:** [**lag**](../../../core-features/lag.md)
+* **Background:** [**lag**](../../../core-features/lag/)
 * **In absolute terms**, The Cintiq Pro 27 has shows moderate pointer lag.&#x20;
   * Pen tablets (like the Intuos Pro Large PTH-860) have much less lag than this Cintiq. These have EXCELLENT lag.
   * Apple iPads have much less lag than this Cintiq, but not quite as little as pen displaces. These have EXCELLENT log.
@@ -70,7 +70,7 @@
 
 ### Tilt
 
-* More here: [**Pen tilt**](../../../core-features/pen-tilt.md)&#x20;
+* More here: [**Pen tilt**](../../../core-features/pen-tilt/)&#x20;
 * Tilt support with the Cintiq Pro 27 is standard for Wacom: EXCELLENT.
   * Tilt is smooth, accurate, and responsive.
   * Tilt works correctly at edges and corners.

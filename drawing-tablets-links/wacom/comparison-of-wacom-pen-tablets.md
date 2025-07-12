@@ -98,7 +98,7 @@ Notes:
 
 ### Notes on pen tilt
 
-TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [**Pen tilt**](../../core-features/pen-tilt.md)&#x20;
+TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [**Pen tilt**](../../core-features/pen-tilt/)&#x20;
 
 ## Tablet resolution
 
@@ -126,7 +126,7 @@ Pointer lag is the difference between the physical position of the pen and where
 * Intuos Pro 2017 -> very little pointer lag
 * Intuos Pro 2025 -> very little pointer lag
 
-Learn more here: [**Lag**](../../core-features/lag.md) &#x20;
+Learn more here: [**Lag**](../../core-features/lag/) &#x20;
 
 ## Accuracy / Diagonal wobble
 

@@ -100,7 +100,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 ## Pointer lag
 
 * iPads have incredibly little pointer lag. &#x20;
-* More here: [**lag**](../../core-features/lag.md)&#x20;
+* More here: [**lag**](../../core-features/lag/)&#x20;
 
 ## **Anti-glare sparkle**
 

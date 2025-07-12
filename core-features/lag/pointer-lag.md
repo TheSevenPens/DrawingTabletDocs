@@ -2,8 +2,8 @@
 
 ## Overview
 
-* For a more general introduction to lag, see [**Lag**](lag.md).
-* If you you are "painting", there is a separate kind of lag called [**brush lag**](lag-1.md). &#x20;
+* For a more general introduction to lag, see [**Lag**](./).
+* If you you are "painting", there is a separate kind of lag called [**brush lag**](lag.md). &#x20;
 
 ## EMR pointer lag Apple iPad pointer lag
 
