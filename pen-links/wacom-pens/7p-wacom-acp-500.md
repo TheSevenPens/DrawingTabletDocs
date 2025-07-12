@@ -1,4 +1,4 @@
-# Wacom Pro Pen 3 (ACP-500)
+# Wacom Pro Pen 3 (ACP-500) notes
 
 ## Pro Pen 3
 
@@ -121,10 +121,24 @@ Because the pen is very modular, I was afraid that it would feel unstable. Actua
 
 Compared to the buttons on the Pro Pen 2, the Pro Pen 3 buttons
 
-* are more easily felt/detected by the fingers
-* require noticeably more force to press
+* Are more easily felt/detected by the fingers
+* Require noticeably more force to press
 
-I like how the new buttons work, but I have seen some complaints in online forums where users find the buttons irritating or even somewhat painful to use.
+I like how the new buttons work, but they definitely feel a different from the buttons of the Pro Pen 2 (KP-504E).
+
+### Community feedback on the buttons
+
+Since the launch of the tablet, I have seen some users complain about the buttons in online forums. Especially compared to the Pro Pen 2, some people find that:
+
+* The buttons are irritating to use
+* The buttons are too hard to push
+* The buttons are painful to use.
+
+Although in my usage, my reaction to the buttons is not so strong, it's worth paying attention that some users have these strong reactions.
+
+Currently (July 2025) all Waco tablets that support the Pro Pen 3 also support the Pro Pen 2 (and many other pens). So if the the Pro Pen 2 works well for you, you can use it.
+
+&#x20;
 
 ## Compatibility with older Wacom tablets
 

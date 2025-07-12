@@ -85,6 +85,10 @@ Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250429_225414.jpg" alt=""><figcaption></figcaption></figure>
 
+## Included pen
+
+The tablet comes with the Pro Pen 3 (ACP-500). [**My detailed notes on this pen**](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+
 ## The tablet only comes with 1 pen
 
 This is a little bit of a disappointment. Some other brands are starting to include 2 pens with some of their professional models.
