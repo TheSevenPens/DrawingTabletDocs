@@ -26,5 +26,5 @@ The prices below are from Sept 2024 and only include the cost for a Mini-PC
 
 * The MinisForum Neptune HX99G $1500
   * sometimes on sale for $1000
-  * [<mark style="background-color:green;">**My notes on the Minisforum Neptune HX99G**</mark>](minisforum-neptune-hx99g-notes.md)&#x20;
+  * [<mark style="background-color:green;">**My notes on the Minisforum Neptune HX99G**</mark>](7p-minisforum-neptune-hx99g.md)&#x20;
   * [Tech tablets - review of Minisforum HX99G](https://www.youtube.com/watch?v=c3iF9GQoEbQ) - 2023/03/03

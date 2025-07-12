@@ -1,4 +1,4 @@
-# 7P: Wacom Movink 13 (DTH-135) notes
+# Wacom Movink 13 (DTH-135) notes
 
 ## Summary
 

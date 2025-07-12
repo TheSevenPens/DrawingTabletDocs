@@ -8,11 +8,11 @@ These RAM recommendations are based my experience doing on doing 2D illustration
 
 ## Pen display connection
 
-Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [**Connecting a pen display**](../connections-and-cabling/connecting-a-pen-display.md)&#x20;
+Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [**Connecting a pen display**](connections-and-cabling/connecting-a-pen-display.md)&#x20;
 
-I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [**USB-C DisplayPort alt mode**](../pen-displays/usb-c-displayport-alt-mode.md)
+I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [**USB-C DisplayPort alt mode**](pen-displays/usb-c-displayport-alt-mode.md)
 
-If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](../connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md).
+If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md).
 
 ## Power consumption
 
@@ -37,9 +37,9 @@ So you should verify your laptop can handle that many monitors.
 
 ## Laptops have used and I recommend
 
-* [Surface Pro 8, 9, and 10](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) &#x20;
-  * [<mark style="background-color:green;">**Microsoft Surface Pro 8**</mark>](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8.md) &#x20;
-* 2023 M3 MacBook Pro - [<mark style="background-color:green;">**2023 M3 MacBook Pro**</mark>](../../drawing-tablets-links/apple/m3-macbook-pro.md)  &#x20;
+* [Surface Pro 8, 9, and 10](../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) &#x20;
+  * [<mark style="background-color:green;">**Microsoft Surface Pro 8**</mark>](../drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8.md) &#x20;
+* 2023 M3 MacBook Pro - [<mark style="background-color:green;">**2023 M3 MacBook Pro**</mark>](../drawing-tablets-links/apple/m3-macbook-pro.md)  &#x20;
 * Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM Below)&#x20;
 * Samsung Galaxy Book5 Pro 360 &#x20;
 
@@ -57,11 +57,11 @@ Check the reviews for these laptops
 
 #### Windows ARM laptops (FOR NOW)
 
-<mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](../operating-systems/windows/windows-on-arm.md).
+<mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](operating-systems/windows/windows-on-arm.md).
 
 #### **Chromebooks**
 
-I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](../operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md).
+I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md).
 
 ## Ports
 

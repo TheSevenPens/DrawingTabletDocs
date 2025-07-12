@@ -1,4 +1,4 @@
-# 7P: Large pen tablets compared
+# Large pen tablets compared
 
 ## Overview
 

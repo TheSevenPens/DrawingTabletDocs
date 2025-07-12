@@ -8,9 +8,9 @@ As my primary desktop for "work" and for creating videos  and doing art, I use a
 
 These photos are from Minisforum. This is exactly how mine looks with one exception. Instead of 2 DisplayPort ports on the back, mine has two USB4 ports.
 
-<figure><img src="../../../.gitbook/assets/hx99g.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hx99g.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/hx99g dimensions.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hx99g dimensions.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Specs
 

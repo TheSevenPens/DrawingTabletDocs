@@ -1,4 +1,4 @@
-# 7P notes: Drawing tablet tier list (December 2024)
+# Drawing tablet tier list (December 2024)
 
 This is an updated tier list from the original livestream: [https://youtube.com/live/CKki6AEzdzA](https://youtube.com/live/CKki6AEzdzA)&#x20;
 

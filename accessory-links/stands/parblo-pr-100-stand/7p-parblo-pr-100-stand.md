@@ -1,4 +1,4 @@
-# 7P notes: Parblo PR-100 Stand
+# Parblo PR-100 Stand notes
 
 
 
