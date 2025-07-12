@@ -1,4 +1,4 @@
-# 7P notes: Minisforum Neptune HX99G
+# Minisforum Neptune HX99G notes
 
 ## Overview
 
@@ -8,9 +8,9 @@ As my primary desktop for "work" and for creating videos  and doing art, I use a
 
 These photos are from Minisforum. This is exactly how mine looks with one exception. Instead of 2 DisplayPort ports on the back, mine has two USB4 ports.
 
-<figure><img src="../../.gitbook/assets/hx99g.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hx99g.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/hx99g dimensions.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hx99g dimensions.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Specs
 
@@ -42,7 +42,7 @@ This PC is available in several configurations. Below is the configuration of th
 * one of the USBA ports on the back leads to 8 port USB hub placed near . This makes it easy for me to try different tablets and other devices
 * One of the HDMI ports is connected to a 32" monitor
 * I have it connected to a Rode RODECaster Duo for audio recording
-* I typically have it connnected to 3 displays simultaneously (2 monitors, and 1 pen display).
+* I typically have it connected to 3 displays simultaneously (2 monitors, and 1 pen display).
   * Although it can handle 4 separate displays, I've only used it that way very rarely.
 
 ## How I use it
@@ -66,7 +66,7 @@ Occasionally when I am watching a YouTube video and I am doing something it can 
 
 ## Performance
 
-For my needs has been excellent. I don't honestly feel like it has restricted me in any way to switch from a full desktop to this minipc.
+For my needs has been excellent. I don't honestly feel like it has restricted me in any way to switch from a full desktop to this min-ipc.
 
 ## Noise
 

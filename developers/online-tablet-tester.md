@@ -1,12 +1,12 @@
-# 7P Online Tablet Tester
+# Online Tablet Tester
 
 ## Overview
 
-With the 7P Tablet Tester browser-based tool you can test out the basic features of your tablet. This is useful for troubleshooting.&#x20;
+With my Tablet Tester browser-based tool you can test out the basic features of your tablet. This is useful for troubleshooting.&#x20;
 
 ## Try out the tool now
 
-Go here to launch the tool: [**7P Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)**.** Then start drawing in the blue box.
+Go here to launch the tool: [**SevenPens Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)**.** Then start drawing in the blue box.
 
 <figure><img src="../.gitbook/assets/screely-1727637583054.png" alt=""><figcaption><p>Screenshot of the tool</p></figcaption></figure>
 

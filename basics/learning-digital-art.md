@@ -19,14 +19,14 @@ Many people use tablets **in addition** to other techniques. For example, some p
   * Marc Brunet - [THE BEGINNER'S GUIDE TO DIGITAL ART (from an art teacher)](https://youtu.be/O40KGoCmpNA) 2020/12/12
 * Learning to draw and paint
   * [Draw like a Sir - LEARN TO DRAW FROM 0 to 100!](https://www.youtube.com/watch?v=1jjmOF1hQqI) 2023/05/21
-  * [Art tutorial for the intermediate painter](http://androidarts.com/art\_tut.htm)
+  * [Art tutorial for the intermediate painter](http://androidarts.com/art_tut.htm)
   * Drawabox ([https://drawabox.com/](https://drawabox.com/)) - Drawabox is a set of free exercise-based lessons that focus on the fundamentals&#x20;
 
 ## Social
 
-* Kawaii Sensei ([https://x.com/KawaiiSensei\_jp](https://x.com/KawaiiSensei\_jp)) - There's lots of practical tips every day.
+* Kawaii Sensei ([https://x.com/KawaiiSensei\_jp](https://x.com/KawaiiSensei_jp)) - There's lots of practical tips every day.
 * EtheringtonBrothers ([https://x.com/EtheringtonBros](https://x.com/EtheringtonBros)) - More frequent practical tips. And they publish useful printed guidebooks.
 
 ## Equipment
 
-* [Laptops for digital art](../guides/laptops-for-digital-art.md) &#x20;
+* [Laptops for digital art](../guides/computers-for-digital-art/laptops-for-digital-art.md) &#x20;

@@ -4,7 +4,7 @@
 
 Product page: [https://www.parblo.com/products/pr100](https://www.parblo.com/products/pr100)
 
-[<mark style="background-color:green;">**My notes on this stand**</mark>](7p-parblo-pr-100-stand.md)
+[<mark style="background-color:green;">**My notes on this stand**</mark>](parblo-pr-100-stand-notes.md)
 
 
 
