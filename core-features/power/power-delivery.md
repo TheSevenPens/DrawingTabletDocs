@@ -6,7 +6,7 @@ Power delivery is the capability for a drawing tablet to send power to an attach
 
 ## Pen displays
 
-When pen displays get power from a power adapter or a hub, it MIGHT be possible to deliver power to an attached computer. This is still a very rare feature for pen displays.
+When pen displays get power from a power adapter or a hub, it MIGHT be possible to deliver power to an attached computer. This is still a **very rare** feature for pen displays.
 
 This is a very convenient feature for pen displays since it can simplify some cabling scenarios.
 
