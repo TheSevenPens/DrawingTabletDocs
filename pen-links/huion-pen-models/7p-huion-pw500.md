@@ -1,4 +1,4 @@
-# 7P: Huion PW500 pen
+# Huion PW500 pen notes
 
 ## Overall
 
@@ -18,4 +18,4 @@ Max pressure is OK at around \~250gf with the unit I tested.
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure>

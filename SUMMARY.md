@@ -494,6 +494,7 @@
   * [XP-Pen pens](pen-links/xp-pen-pens/README.md)
     * [XP-Pen X3 Pro pens  notes](pen-links/xp-pen-pens/7p-xppen-x3pro-pen.md)
     * [XP-Pen X3 Elite pen  notes](pen-links/xp-pen-pens/7p-xppen-x3elite-pen.md)
+  * [Xencelabs V1 pens notes](pen-links/xencelabs-v1-pens-notes.md)
   * [Xencelabs V2 pens notes](pen-links/xencelabs-v2-pens-notes.md)
 * [Accessory links](accessory-links/README.md)
   * [Screen cleaning sprays](accessory-links/screen-cleaning-sprays.md)

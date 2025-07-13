@@ -52,31 +52,3 @@ Pressure response
 
 
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-
-
-
-2-button pen V2
-
-Measurements:
-
-9gf -> 18%&#x20;
-
-105 -> 30%&#x20;
-
-130 -> 50%&#x20;
-
-245 -> 75%&#x20;
-
-290 -> 80%&#x20;
-
-360 -> 90%&#x20;
-
-400 -> 95%
-
-500 -> 100%
-
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
-## Pressure transition
-

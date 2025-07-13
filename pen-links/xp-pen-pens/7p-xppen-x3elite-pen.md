@@ -1,4 +1,4 @@
-# 7P notes: XP-Pen X3 Elite pen
+# XP-Pen X3 Elite pen  notes
 
 ## Overview
 
@@ -6,7 +6,7 @@ Pretty good - surprisingly good for a consumer level tablet. IAF could be a litt
 
 
 
-<figure><img src="../../../.gitbook/assets/XP-Pen X3 Elite (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XP-Pen X3 Elite (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 
@@ -19,6 +19,10 @@ No eraser.
 ## IAF
 
 I'm not good at measuring IAF. Subjectively it is definitely higher IAF than a Wacom Pro Pen 2 (not surprising) and a little higher than a Huion PW517 pen.
+
+## Pressure response
+
+<figure><img src="../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
 
 ## Max Pressure
 

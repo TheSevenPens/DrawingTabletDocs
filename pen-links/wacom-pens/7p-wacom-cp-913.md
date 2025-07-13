@@ -1,10 +1,10 @@
-# Wacom One 2019 GEN1 Pen (CP-913)
+# Wacom One 2019 GEN1 Pen (CP-913) notes
 
 ## Overview
 
 The Wacom One Pen (CP-913) was released in 2019 and came with the Wacom One 2019 GEN1 (DTC-33) which was one of Wacom's consumer pen display.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
 
 This pen is a very "consumer" pen, and it has a **OK pressure performance**&#x20;
 
@@ -22,6 +22,10 @@ This pen has a relatively high IAF for a Wacom pen. Thus it requires more force 
 ## Pressure > Maximum Pressure
 
 I measured 4 CP-913 unites. Their maximum pressures varied between 250gf to 350gf. This buts them in the OK range.
+
+## Pressure response
+
+<figure><img src="../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 

@@ -1,4 +1,4 @@
-# 7P: Huion PW517 pen
+# Huion PW517 pen notes
 
 ## Overview
 
@@ -14,7 +14,7 @@ If you have a tablet what is compatible with the PW517 pen, I strongly urge you 
 
 ## Pressure range measurements
 
-<figure><img src="../../../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
 
 ## Consider the PW550 as an upgrade
 
