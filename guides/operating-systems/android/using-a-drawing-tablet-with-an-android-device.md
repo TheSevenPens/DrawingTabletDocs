@@ -2,34 +2,39 @@
 
 ## Overview
 
-Depending on the android device you have and the specific tablet you may be able to use your android device with your drawing tablet. Overall though, there will be limitations - and some very severe ones - and you should be aware of them before trying to use a tablet with an android device.
+It **MIGHT BE POSSIBLE** in some **SPECIFIC COMBINATIONS** of drawing tablets and android device that you can use your drawing tablet with an Android device
+
+The specific combination of devices you have may not work or they may only partially work. Overall the best and most full-featured experience with a drawing tablet is when it is used with a typical computer (i.e. Windows or MacOS).
 
 ## Compatibility
 
-Do not assume a drawing tablet works with an android device. Check with the tablet manufacturer before trying this.&#x20;
+DO NOT assume a drawing tablet works with your android device. Check with the tablet manufacturer before trying this.&#x20;
 
-Keep in mind
+Key points
 
 * BOTH the android and the tablet have to support this working.
-* In general, I found that Android 14 and Android 15 worked well with drawing tablets (if the drawing tablet supports being used with Android devices)
+* In general, I found that Android 14 and Android 15 worked better with drawing tablets (if the drawing tablet supports being used with Android devices)
+* In some specific cases, I have been informed that older Android versions work with some drawing tablets designed to work with those versions.
+
+## My compatibility testing results
 
 More here: [Testing Drawing Tablet Compatibility with Android devices](testing-drawing-tablet-compatibility-with-android-devices.md)
 
-## **Power**
+## **Feature support**
 
-With a pen tablet, your android device will be able to provide enough power for the tablet.
-
-With a pen display, your android device may NOT be able to provide enough power. You may need to get additional power from an adapter. Even if the android device can provide more power, be aware that the pen display reduce your battery life.
+A drawing tablet and its driver provide many features. When used with Android not all features are supported or are supported equality well.
 
 ## Active area for pen tablets
 
-**Mapping**
+### **Mapping**
 
 A pen tablet may not be able to map the active area as you would intuitively expect to your android device. With some tablets only a portion of the tablet's active area will be usable for drawing when connected to an android device.
 
-**Proportional drawing and lack of it**
+### **Proportional drawing and lack of it**
 
-The mapping may (likely) be non-proportional and create a distortion. This means that tracing out a circle on the pen tablet may result in an oval on the android device.&#x20;
+The mapping may (likely) be non-proportional and create a distortion. This means that tracing out a circle on the pen tablet may result in an oval on the android device. Some combinations of android devices and drawing tablets automatically map the area to avoid this distortion. Other combinations ignore this completely/
+
+more here: [**force proportions**](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
 
 ## Drivers
 
@@ -45,13 +50,11 @@ Because there is no manufacturer driver on an android device, there is no way to
 
 ## Pressure curve
 
-Because there is no manufacturer driver, there is no way to control what the pressure curve within the driver.
-
-You will have to rely on the pressure curve control in your applications - if it has them.
+Because there is no manufacturer driver, there is no way to control what the pressure curve within the driver. You will have to rely on the pressure curve control in your applications - if it has them.
 
 ## Applications
 
-* For a list of applications that work on Android go here: [**Applications**](../../../apps/).
+* For a list of applications that work on Android go here: [**Apps**](../../../apps/).
 
 ## Considerations for a pen tablet
 
@@ -61,6 +64,12 @@ You will have to rely on the pressure curve control in your applications - if it
 
 * Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
+
+## **Power**
+
+With a pen tablet, your android device will be able to provide enough power for the tablet.
+
+With a pen display, your android device may NOT be able to provide enough power. You may need to get additional power from an adapter. Even if the android device can provide more power, be aware that the pen display reduce your battery life.
 
 ## Links
 
