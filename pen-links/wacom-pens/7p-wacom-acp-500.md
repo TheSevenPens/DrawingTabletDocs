@@ -45,7 +45,7 @@ Rating: VERY GOOD maximum pressure
 
 The Pro Pen 3 has a very large maximum pressure. The maximum pressure varied between units from 550gf to 700gf.
 
-<figure><img src="../../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
 
 ### Initial activation force
 
