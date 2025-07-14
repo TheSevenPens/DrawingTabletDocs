@@ -2,6 +2,7 @@
 
 ## OnePlus Pad 3
 
+* [Teoh on Tech - OnePlus Pad 3 note taking with Stylo 2](https://www.youtube.com/watch?v=w3CeGQX_qMg) 2025/07/13
 * [Gartzia Artz - Review of the OnePlus Pad 3](https://www.youtube.com/watch?v=zwzJxBpemB0) 2025/06/30
 * [Brad Colbow - Review of the OnePlus Pad 3](https://www.youtube.com/watch?v=hw4-KaFgXC8) 2025/06/05&#x20;
 
