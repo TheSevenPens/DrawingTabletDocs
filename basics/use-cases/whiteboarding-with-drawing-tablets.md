@@ -16,4 +16,5 @@ However those drawing tablets with screens (pen displays and standalone devices)
 * **Lovable** - [https://lovable.dev/](https://lovable.dev/) &#x20;
 * **Built-in whiteboarding features** in communication apps such as Microsoft teams and zoom.
 * **Microsoft Powerpoin**t - Some people use Microsoft PowerPoint as a whiteboarding app. This allows the whiteboard to have a collection of pages - with each page being a slide in the PowerPoint presentation. And then they can take advantage of PowerPoint drawing tools.
+* **Google Keep** - Supports taking visual notes where you can draw.
 
