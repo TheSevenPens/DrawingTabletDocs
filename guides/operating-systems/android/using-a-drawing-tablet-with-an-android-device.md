@@ -8,11 +8,12 @@ The specific combination of devices you have may not work or they may only parti
 
 ## Compatibility
 
-DO NOT assume a drawing tablet works with your android device. Check with the tablet manufacturer before trying this.&#x20;
+DO NOT assume a drawing tablet **fully** works with your android device. Check with the tablet manufacturer before trying this.&#x20;
 
 Key points
 
 * BOTH the android and the tablet have to support this working.
+* There are some specific features that must be supported for this scenario to work, and not combinations of  drawing tablet and android device support these features correctly.&#x20;
 * In general, I found that Android 14 and Android 15 worked better with drawing tablets (if the drawing tablet supports being used with Android devices)
 * In some specific cases, I have been informed that older Android versions work with some drawing tablets designed to work with those versions.
 
@@ -20,23 +21,43 @@ Key points
 
 More here: [Testing Drawing Tablet Compatibility with Android devices](testing-drawing-tablet-compatibility-with-android-devices.md)
 
-## **Feature support**
+## **Feature support**&#x20;
 
-A drawing tablet and its driver provide many features. When used with Android not all features are supported or are supported equality well.
+### Overview
 
-## Active area for pen tablets
+A drawing tablet and its driver provide many features. When used with Android not all features are supported or are supported equally well.&#x20;
 
-### **Mapping**
+### **Active area mapping with automatic "Force Proportions" for pen tablets**
+
+Without this feature, if you draw shape on the on drawing tablet it will show up as distorted on the android tablet. The most common sign this is NOT happening is that if you draw a circle on the tablet it will show up as an oval on the android device.
+
+With a normal desktop computer, you can enable "Force Proportions" in the tablet driver to fix this problem. But you cannot install any tablet drivers for android devices. So, you must rely on this happening automatically. Unfortunately not all combinations of drawing tablets and android devices can do this.&#x20;
+
+More here: [**Force proportions**](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
+
+### Active area mapping for landscape and portrait modes
+
+Android device can be held in either landscape or portrait orientation. Ideally, the active area of the tablet is mapped such that it maximizes the drawing space of the active area for the current orientation.
 
 A pen tablet may not be able to map the active area as you would intuitively expect to your android device. With some tablets only a portion of the tablet's active area will be usable for drawing when connected to an android device.
 
-### **Proportional drawing and lack of it**
+This is another case where on a normal computer, the tablet drivers can address this problem. But tablet drivers are not available for android devices.
 
-The mapping may (likely) be non-proportional and create a distortion. This means that tracing out a circle on the pen tablet may result in an oval on the android device. Some combinations of android devices and drawing tablets automatically map the area to avoid this distortion. Other combinations ignore this completely/
+### Buttons and dials on tablet
 
-more here: [**force proportions**](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
+Because there is no manufacturer driver on an android device, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
 
-## Drivers
+ChromeOS does have some limited support for configuring buttons on the tablet, so in the future I hope we see this feature brought to Android.
+
+### Buttons on the pen
+
+Like buttons on the tablet, currently android devices do not let you configure what the buttons on the pen do.&#x20;
+
+### Pressure curve in the tablet driver
+
+Because there is no manufacturer driver, there is no way to control what the pressure curve within the driver. You will have to rely on the pressure curve control in your applications - if it has them.
+
+## Manufacturer tablet drivers
 
 With a PC, to use your tablet you normally install drivers provided by the manufacturers.
 
@@ -44,21 +65,15 @@ But for Android devices, you don't install any drivers (and manufacturers don't 
 
 While this seems like a good thing, it also means you cannot configure the tablet or take advantage of some specific features.
 
-## Buttons and Dials
 
-Because there is no manufacturer driver on an android device, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
-
-## Pressure curve
-
-Because there is no manufacturer driver, there is no way to control what the pressure curve within the driver. You will have to rely on the pressure curve control in your applications - if it has them.
 
 ## Applications
 
-* For a list of applications that work on Android go here: [**Apps**](../../../apps/).
+For a list of applications that work on Android go here: [**Apps**](../../../apps/).
 
 ## Considerations for a pen tablet
 
-* Bluetooth. I don't know if this will work. I haven't ever tried.
+Bluetooth. I don't know if this will work. I haven't ever tried.
 
 ## Connecting a pen display
 
