@@ -444,6 +444,7 @@
       * [Wacom One 2023 pen tablets notes](drawing-tablets-links/wacom/wacom-one-2023-gen2/wacom-one-pen-tablets.md)
     * [Wacom Bamboo](drawing-tablets-links/wacom/wacom-bamboo/README.md)
       * [Wacom Bamboo (CTL-470) notes](drawing-tablets-links/wacom/wacom-bamboo/wacom-bamboo-ctl-470-notes.md)
+    * [Wacom MovinkPad](drawing-tablets-links/wacom/wacom-movinkpad.md)
   * [Xencelabs](drawing-tablets-links/xencelabs/README.md)
     * [Xencelabs Pen Tablet Medium (BPH1212W-A) notes](drawing-tablets-links/xencelabs/xencelabs-bph1212w-a.md)
     * [Xencelabs Pen Display 16 (LPH1612U-A) notes](drawing-tablets-links/xencelabs/xencelabs-lph1612u-a.md)
