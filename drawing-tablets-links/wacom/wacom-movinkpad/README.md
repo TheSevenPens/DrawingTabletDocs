@@ -1,6 +1,6 @@
 # Wacom MovinkPad
 
-## MovinkPad 11
+## MovinkPad 11 (DTH-A116)
 
 * Year: 2025
 * Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
