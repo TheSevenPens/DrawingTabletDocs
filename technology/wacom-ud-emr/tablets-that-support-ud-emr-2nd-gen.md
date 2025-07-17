@@ -7,17 +7,17 @@ if you encounter a non-Wacom device that says it uses Wacom EMR, as far as we kn
 Examples of these kinds of devices are:
 
 * Samsung Galaxy Tab S9 series
-* Samsung Galaxy Book3 360
+* Samsung Galaxy Book3/4/5 360 series
 
 ### Wacom entry-level devices
 
 Welcome themselves use Wacom UD EMR technology in some their entry level tablets
 
-* Wacom One 2019
-* Wacom One 2023
-* WacomMovink 11&#x20;
+* Wacom One 2019 (DTC-133)
+* Wacom One 2023 (DTC-121, DTH-134, CTC-6110WL, CTC-4110WL)
+* Wacom MovinkPad 11 (DTH-A116)
 
-However, **NOT ALL** entry-level Wacom tablets use UD EMR. For example the one by Wacom tablets (CTL-672, and CTL-472) do not use UD EMR.
+However, **NOT ALL** entry-level Wacom tablets use UD EMR. For example, the One by Wacom tablets (CTL-672, and CTL-472) do not support UD EMR pens.
 
 ### Wacom professional devices
 
