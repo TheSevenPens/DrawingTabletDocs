@@ -13,11 +13,11 @@ Examples of these kinds of devices are:
 
 Welcome themselves use Wacom UD EMR technology in some their entry level tablets
 
-\-        Wacom One 2019
+* Wacom One 2019
+* Wacom One 2023
+* WacomMovink 11&#x20;
 
-\-        Wacom One 2023
-
-However, NOT ALL entry-level Wacom tablets use UD EMR. For example the one by Wacom tablets (CTL-672, and CTL-472) do not use UD EMR.
+However, **NOT ALL** entry-level Wacom tablets use UD EMR. For example the one by Wacom tablets (CTL-672, and CTL-472) do not use UD EMR.
 
 ### Wacom professional devices
 
