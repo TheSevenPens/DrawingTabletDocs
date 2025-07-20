@@ -2,43 +2,15 @@
 
 ## Overview
 
-Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially they are laptops that work with an EMR pen that are specifically designed for drawing and are made by drawing tablet brands such as Wacom.
+Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially they are laptops that work with an EMR pen that are specifically designed for drawing and are made by drawing tablet brands such as Wacom. Examples of pen computers are: Wacom Mobile Studio Pro and Huion Kamvas Studio
 
-Examples of pen computers are:
+Even though some people love using pen computers, <mark style="color:red;">**I do not in general recommend buying one**</mark>.
 
-* Wacom Mobile Studio Pro
-* Huion Kamvas Strudio
+In this document I will evaluate pen computers on several dimensions such as cost, upgradability, etc and show you why I think they are not a great choice.
 
-Even though some people love using pen computers, **I do not in general recommend buying one**.
+## I suggest you seek alternatives
 
-Key characteristics of a pen computer:
-
-* Run a desktop OS - these are intended to be full-fledged personal computers. As of 2023, all pen computers run Windows.
-* Have a battery - because they must be run without being connected to a source of power
-* Pen tech - It varies. Some use EMR, some use MPP, some use AES.
-
-**Examples**
-
-* Huion Kamvas Studio
-* Wacom Mobile Studio Pro
-
-## Alternatives to pen computers
-
-Instead of pen computers, I recommend looking at the other kinds of standalone devices: **pen-enabled mobile devices o**r **pen-enabled laptops**. &#x20;
-
-**pen-enabled mobile devices**
-
-* Apple iPad Pro with the Apple Pencil
-* Samsung Galaxy Tab S series tablets that use the Samsung S pen
-
-**pen-enabled laptops**&#x20;
-
-* Microsoft Surface Pro
-* Samsung Galaxy Book 5 Pro
-
-More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-drawing-tablet-recommendations/)
-
-Another alternative is to use a normal drawing tablet that is connected to a small mini-pc or laptop. This will allow you to draw in different locations even though dealing with the additional cabling may be cumbersome.
+I think there are better options for you: [**Alternatives to pen computers**](alternatives-to-pen-computers.md)
 
 ## Cost
 

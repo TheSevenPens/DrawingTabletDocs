@@ -28,6 +28,7 @@
   * [Inspecting a drawing tablet](buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)
   * [Pen tablets vs pen displays](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
   * [The case against pen computers](buying-a-drawing-tablet/the-case-against-pen-computers.md)
+  * [Alternatives to pen computers](buying-a-drawing-tablet/alternatives-to-pen-computers.md)
   * [Buying a drawing tablet for osu!](buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
   * [Buying tips](buying-a-drawing-tablet/buying-tips.md)
   * [How many pressure levels do you really need?](buying-a-drawing-tablet/how-many-pressure-levels-do-you-really-need.md)
