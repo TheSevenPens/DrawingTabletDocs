@@ -8,6 +8,16 @@ If you are looking for running Windows desktop apps on a standalone tablet for n
 
 <figure><img src="../../../.gitbook/assets/20250720_101303 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+## Included pen
+
+The tablet does NOT come with a pen.
+
+You have to buy that separately
+
+## Compatible pens
+
+Surface Slim Pen 2 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
+
 ## Drawing experience with the Surface Slim Pen 2
 
 With a Surface Pro, you can use various versions of the surface pen. None of these are great for art. But some are tolerable. I would consider them OK for "occasional use" for art. I really find these devices and their are more suited to note taking rather than drawing.&#x20;
