@@ -36,7 +36,7 @@ Pen information
 * Tech: MPP (similar to AES)
 * Comes with pen: NO. You have to buy The Surface Slim Pen 2 separately.
 
-[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8.md)
+[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
 
 * [**Surface Pro 8**](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
 * [**Surface Pro 9**](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
