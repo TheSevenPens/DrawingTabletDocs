@@ -4,9 +4,33 @@
 
 If you are looking for running Windows desktop apps on a standalone tablet for notetaking rather than art, then the **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.&#x20;
 
-<figure><img src="../../../.gitbook/assets/20250720_100423 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20250720_100423 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250720_101303 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20250720_101303 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+
+## Basics
+
+* [https://en.wikipedia.org/wiki/Surface\_Pro\_8](https://en.wikipedia.org/wiki/Surface_Pro_8)
+* Release date: 2021/09/22
+* Processor: 3 options&#x20;
+  * Intel Core i7-1185G7
+  * Intel Core i5-1135G7
+  * Intel Core i3-1115G4
+* Memory: available with:
+  * 8GB
+  * 16GB
+  * 32GB
+* Storage: available with
+  * 512GB
+  * 1TB
+
+## Display
+
+* Size: 13"
+* Native resolution: 2880 x 1920
+* Pixel density: 267 ppi
+* Aspect ratio: 3:2
+*
 
 ## Included pen
 
@@ -25,7 +49,13 @@ With a Surface Pro, you can use various versions of the surface pen. None of the
 * Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
 * I find the drawing experience to be OK / Tolerable with the Surface Pro 8 and above with the Surface Slim Pen 2. It doesn't match what you get from the iPad or the Samsung Galaxy Tab series.
 
-## Using it with the Surface Dock 2
+## Ports
+
+* 2 USB-C Thunderbolt 4 ports
+
+## Compatibility with docks
+
+### Surface Dock 2
 
 I connect it the Microsoft Surface Dock 2 for power and network connectivity.
 
@@ -33,7 +63,7 @@ I use two  Thunderbolt 3 cables from the Surface Pro 8 to connect two 4K 60Hz di
 
 The Surface Pro can be used for drawing with its own pen. However I don't like drawing with the Surface pen. Instead,  I prefer to use attached drawing tablets.&#x20;
 
-## Using it with the CalDigit TS4 dock
+### CalDigit TS4 dock
 
 Since about June of 2024, I've been using it with the CalDigit TS4 dock since that dock provides more ports than the Surface Dock.
 
