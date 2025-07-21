@@ -42,12 +42,20 @@ You have to buy that separately
 
 Surface Slim Pen 2 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
 
-## Drawing experience with the Surface Slim Pen 2
+## Drawing experience&#x20;
 
-With a Surface Pro, you can use various versions of the surface pen. None of these are great for art. But some are tolerable. I would consider them OK for "occasional use" for art. I really find these devices and their are more suited to note taking rather than drawing.&#x20;
+Context: Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
 
-* Surface Pro 7 ands below do not have good pens for drawing. They exhibit too much line wobble.
-* I find the drawing experience to be OK / Tolerable with the Surface Pro 8 and above with the Surface Slim Pen 2. It doesn't match what you get from the iPad or the Samsung Galaxy Tab series.
+If you use the Surface Slim Pen 2 with the Surface Pro 8, the drawing experience has definitely improved. The wobble is much less, but still present.
+
+Overall it is OK, but not in the same league as an iPad or Samsung Galaxy Tab S series device.
+
+While I think one could create art with this device, I think it is better suited for note taking, marking up documents, whiteboarding etc.&#x20;
+
+## Heat and noise
+
+* 80% of the time it is quiet and ony slightly warm.
+* The remaining 20% of the time the fans are running aggressively and it can get quite warm.
 
 ## Ports
 
