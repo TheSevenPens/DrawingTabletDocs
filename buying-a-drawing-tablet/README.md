@@ -10,9 +10,7 @@ If you are new to drawing tablets, read this first: [**Beginner's guide to drawi
 
 ## Buying guide videos series&#x20;
 
-If you prefer a watching a video ... I've got a playlist here:&#x20;
-
-{% embed url="https://www.youtube.com/playlist?list=PLp1wHemgDmJ0FZV9toNieYZ1qku9C4REB" %}
+If you prefer a watching a video. See this playlist: [Drawing tablet buiying guides](https://www.youtube.com/watch?v=QpAJOOKaQUM\&list=PLp1wHemgDmJ0FZV9toNieYZ1qku9C4REB)
 
 ## My recommendations
 
@@ -28,11 +26,11 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 
 * **pen tablet** - does NOT  have a screen and requires a computer to use
 * **pen display** - has a screen and requires a computer to use
-* **standalone tablet  -** has a screen and can be used my itself without being connected to a computer.&#x20;
+* **standalone tablet  -** has a screen and can be used my itself without being connected to a computer. There are several distinct types of standalone tablets.&#x20;
 
-<figure><img src="../.gitbook/assets/Slide_20241116_140056 (1).jpg" alt=""><figcaption></figcaption></figure>
+More here: [**Types of drawing tablets**](../basics/types-of-drawing-tablets.md)
 
-## Basic guidelines
+## Basic buying guidelines
 
 * Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
 * If you really need need one that is standalone get an iPad or a Samsung Galaxy Tab.
