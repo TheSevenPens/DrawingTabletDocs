@@ -10,7 +10,7 @@ If you are new to drawing tablets, read this first: [**Beginner's guide to drawi
 
 ## Buying guide videos series&#x20;
 
-If you prefer a watching a video. See this playlist: [Drawing tablet buiying guides](https://www.youtube.com/watch?v=QpAJOOKaQUM\&list=PLp1wHemgDmJ0FZV9toNieYZ1qku9C4REB)
+If you prefer a watching a video. See this playlist: [Drawing tablet buying guides](https://www.youtube.com/watch?v=QpAJOOKaQUM\&list=PLp1wHemgDmJ0FZV9toNieYZ1qku9C4REB)
 
 ## My recommendations
 

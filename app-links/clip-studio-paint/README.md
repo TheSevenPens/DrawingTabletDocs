@@ -55,6 +55,10 @@
 
 * [LavenderTowne - CLIP STUDIO PAINT IS BETTER + CHEAPER THAN PHOTOSHOP](https://youtu.be/2Y7VPCUtjCY) 2019/02/01
 
+## Books
+
+* [Teoh on Tech - Mastering Clip Studio Paint by Bruna Belfort (book review)](https://www.youtube.com/watch?v=_8vGS42zBYg) 2025/07/20
+
 ## Licensing
 
 * [Create Now Sleep Later - Avoid Mistakes: Clip Studio Paint 3.0 License Guide](https://www.youtube.com/watch?v=8pBF2OL_jrs) 2024/006/24&#x20;
