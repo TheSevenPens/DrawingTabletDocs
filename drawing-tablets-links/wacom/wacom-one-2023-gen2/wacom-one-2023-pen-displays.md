@@ -4,7 +4,9 @@
 
 The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 
+## Basics
 
+* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
 
 ## Stroke quality
 
@@ -81,7 +83,15 @@ Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable
 
 
 
-### Compatible pens
+## Tilt
+
+Wacom One 13 touch -> supports tilt
+
+Wacom One 12 -> supports tilt
+
+
+
+## Compatible pens
 
 Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is compatible with other pens not made by Wacom. &#x20;
 
@@ -89,7 +99,7 @@ Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is 
 * r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
 * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
 
-### Wacom 3-in-1 cable for Wacom One GEN2 pen displays
+## Wacom 3-in-1 cable for Wacom One GEN2 pen displays
 
 The Wacom One 12 (DTC-121) and Wacom One 13 touch (DTH-134) work with a 3-in-1 cable. I SUPPOSE this is a proprietary cable.
 
