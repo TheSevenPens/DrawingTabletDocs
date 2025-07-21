@@ -46,6 +46,12 @@
 
 ## 2016 to 2018 family
 
+### Cintiq Pro 16 (DTH-1320)
+
+* Model year: 2016
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH-1320.html](https://101.wacom.com/UserHelp/en/TOC/DTH-1320.html)
+*
+
 ### Cintiq Pro 16 (DTH-1620)
 
 * Model year: 2016
@@ -63,8 +69,6 @@
 * [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Nov 5, 2018
 * [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - Oct 9, 2018
 * [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - May 1, 2018
-
-##
 
 ## Cintiq Pro 32 (DTH-3220)
 
