@@ -11,7 +11,7 @@ Depending on which operating system or environment you are in there are differen
 
 ## Using HTML5 canvas with stylus
 
-* [https://github.com/amoshydra/draw](https://github.com/amoshydra/draw) &#x20;
+* [https://github.com/amoshydra/draw](https://github.com/amoshydra/draw)  ([try it out](https://amoshydra.github.io/draw/))
 * [https://pressurejs.com/](https://pressurejs.com/)  &#x20;
 * [https://github.com/dxh9845/pressure-sensitive-canvas](https://github.com/dxh9845/pressure-sensitive-canvas)  &#x20;
 * [Hands-On Coding a Pressure Sensitive Freehand Drawing App in React](https://youtu.be/WbPhV1dyva4) Jan 11, 2022&#x20;
