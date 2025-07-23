@@ -57,6 +57,10 @@ another thing that happens when you're dealing with very low initial activation 
 
 In some pens I've also noticed that having an extremely low IAF can cause the pen to register pressure for just one moment longer after you lift the pen off the tablet. I suspect this is due to the mechanics of a nib that is moving the pen having to overcome some friction. And so for just a moment as you lift off the tablet the very sensitive pressure mechanism is still detecting the nib pushing into it. This can create the same wispy tail effect.
 
-&#x20;
+## How IAF is measured
+
+This video from XP-Pen demonstrates it [https://www.youtube.com/watch?v=QLmkI2vgfBg](https://www.youtube.com/watch?v=QLmkI2vgfBg)
+
+
 
 .
