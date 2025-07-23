@@ -16,6 +16,7 @@ Depending on which operating system or environment you are in there are differen
 * [https://github.com/dxh9845/pressure-sensitive-canvas](https://github.com/dxh9845/pressure-sensitive-canvas)  &#x20;
 * [Hands-On Coding a Pressure Sensitive Freehand Drawing App in React](https://youtu.be/WbPhV1dyva4) Jan 11, 2022&#x20;
 * [https://codepen.io/janroudaut/pen/VprRqj](https://codepen.io/janroudaut/pen/VprRqj)  &#x20;
+* [https://shuding.github.io/apple-pencil-safari-api-test/](https://shuding.github.io/apple-pencil-safari-api-test/)&#x20;
 
 ## SDKs
 
