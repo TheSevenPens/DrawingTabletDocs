@@ -63,7 +63,7 @@ For applications that run on Android see this list: [**Apps for Android**](../..
 Huion and XP-pen have also released android tablets in this category.
 
 * [**Huion Kamvas Slate 10**](../../drawing-tablets-links/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-* [**XP-Pen Magic Drawing Pad**](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad.md) - I don't have any experience with it.
+* [**XP-Pen Magic Drawing Pad**](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/) - I don't have any experience with it.
 
 Resources
 
