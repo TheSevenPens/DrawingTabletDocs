@@ -21,8 +21,16 @@ Both kinds of nibs wear over time and the amount of wear depends on how "heavy-h
 
 ## Example: Wacom One GEN2 pen (CP-923) nib material&#x20;
 
-Wacom offers three materials for this pen (standard, elastomer, felt). See this video for an explanation of how standard, elastomer, and felt feel: [https://www.youtube.com/watch?v=APAO-yWc\_PY](https://www.youtube.com/watch?v=APAO-yWc\_PY) &#x20;
+Wacom offers three materials for this pen (standard, elastomer, felt). See this video for an explanation of how standard, elastomer, and felt feel: [https://www.youtube.com/watch?v=APAO-yWc\_PY](https://www.youtube.com/watch?v=APAO-yWc_PY) &#x20;
 
 ## Metal nibs
 
 I DO NOT recommend [**using a metal nib**](../guides/customizing-your-experience/using-metal-nibs.md).
+
+## Nib with ceramic tip and metal body
+
+link: [https://alice-books.com/item/show/1113-7](https://alice-books.com/item/show/1113-7)
+
+Machine-translated (Japanese to English) description: "This nib is made by integrally molding silicon nitride Si3N4 ceramic, which is said to have hardness second only to diamond, with a resin shaft. You will not have to worry about wear on the tip. The light ceramic writing experience feels surprisingly natural. There is no knockback when in contact with the tablet surface, and it doesn't cause fatigue even with long-term use. The smooth writing experience is user-friendly and easy to use.
+
+Compatible models: ProPen3, ProPen2, ProPen Slim"
