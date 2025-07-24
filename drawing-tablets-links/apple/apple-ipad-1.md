@@ -2,18 +2,22 @@
 description: Using an iPad as a drawing tablet
 ---
 
-# Apple iPad
+# Apple iPad notes
 
 ## Overview
 
 iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
-* [**7P: Apple iPad versus drawing tablets**](apple-ipad-versus-drawing-tablets.md)
-* [**7P: Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**Apple iPad versus drawing tablets**](apple-ipad-versus-drawing-tablets.md)
+* [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
 I refer to the **Apple Pencil** as a **pen** to keep my documentations consistent.
+
+## Choosing between iPad models
+
+[Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025/07/24
 
 ## iPad benefits
 
@@ -36,32 +40,31 @@ I refer to the **Apple Pencil** as a **pen** to keep my documentations consisten
 * iPad apps are optimized to make the most of the screen real estate available and to be responsive to touch. &#x20;
 * Very little pointer lag. Apple iPads have much less lag than pen displays or pen computers. The pointer is comparable to a pen tablet.
 
-### Apps
+## Apps
 
-Some popular and excellent drawing applications are available on the iPad
+Some popular and excellent drawing applications are available on the iPad. &#x20;
 
 * [ProCreate](../../app-links/procreate/)
 * [Clip Studio Paint](../../app-links/clip-studio-paint/)
 * [Adobe Fresco](../../app-links/fresco.md)
 * [Ibis Paint](../../app-links/ibis-paint.md)
 
-You can find a more complete list here: [**applications**](../../apps/).
+See a larger this list: [Apps for iPad](../../apps/apps-for-ipad.md)&#x20;
 
-### Surface texture
+## Surface texture
 
-* There are two kinds of texture of iPads
-  * Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".  Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
-  * Starting in 2024, some Apple iPad models can be ordered with a "Nano texture".  I don't have any direct experience with this texture.
+There are two kinds of built-in glass texture of iPads: **Smooth glass** and **Nano texture**
 
-For protective sheets for iPads there are some options here: [**Protective sheets**](../../accessory-links/surface-protectors/). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
+* **Smooth glass** - Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".  Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
+* **Nano texture** - Starting in 2024, some Apple iPad models can be ordered with a "Nano texture".  I don't have any direct experience with this texture.
 
-### Diagonal wobble
+You can also change the texture with protective sheets for iPads there are some options here: [**Protective sheets**](../../accessory-links/surface-protectors/). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
 
-Noticeable diagonal wobble when drawing slowly. But this doesn't seem to hinder people.
+## Diagonal wobble
 
-### Apple Pencil
+Noticeable diagonal wobble when drawing slowly - this occurs in some scenarios but not others and I need to investigate ti more. But this doesn't seem to hinder people.
 
-Key points about the current lineup of apple pencils.
+## Apple Pencil
 
 **Features**
 
@@ -99,7 +102,8 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 
 ## Pointer lag
 
-* iPads have incredibly little pointer lag. &#x20;
+* iPads have very low pointer lag. &#x20;
+* Some apps like Procreate seem very heavily optimized and (apparently) use special techniques to produce **extremely** low pointer lag.&#x20;
 * More here: [**lag**](../../core-features/lag/)&#x20;
 
 ## **Anti-glare sparkle**
@@ -148,10 +152,11 @@ I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple 
 
 ## Videos
 
-* [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) Oct 11, 2019
-* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68_Q7CiCzs) Oct 1, 2022
-* [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) Jun 24, 2019
-* [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68_Q7CiCzs) Oct 1, 2022
+* [Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025/07/24
+* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68_Q7CiCzs) 2022/10/01
+* [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) 2019/10/11
+* [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) 2019/06/24
+* [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68_Q7CiCzs) 2022/10/1
 * [Teoh on tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) Nov 1, 2022
 * [Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art](https://www.youtube.com/watch?v=MJN8e8k-w-I) Oct 25, 2023

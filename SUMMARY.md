@@ -347,7 +347,7 @@
   * [Apple](drawing-tablets-links/apple/README.md)
     * [Apple iPad](drawing-tablets-links/apple/apple-ipad.md)
     * [Connecting an iPad to a computer as a drawing tablet](drawing-tablets-links/apple/connecting-an-ipad-to-a-computer-as-a-drawing-tablet.md)
-    * [Apple iPad](drawing-tablets-links/apple/apple-ipad-1.md)
+    * [Apple iPad notes](drawing-tablets-links/apple/apple-ipad-1.md)
     * [Apple iPad versus drawing tablets](drawing-tablets-links/apple/apple-ipad-versus-drawing-tablets.md)
     * [Apple iPad versus Samsung Galaxy Tab S](drawing-tablets-links/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
     * [How I use iPads](drawing-tablets-links/apple/how-i-use-ipads.md)
