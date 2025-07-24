@@ -1,4 +1,23 @@
-# Wacom MovinkPad 13 (DTH-A116) notes
+# Wacom MovinkPad 11 (DTH-A116) notes
+
+## Initial notes
+
+<mark style="color:red;">**I AM ACTIVELY TESTING THIS DEVICE.**</mark> So expect my notes to evolve, but here are some initial thoughts:
+
+"It's good. About the same power as the Samsung S9FE (I didn't do any benchmarks) but the drawing experience is classic the Wacom pro experience - best in industry. I still need to do more testing for parallax, diagonal wobble, etc.
+
+The UI defaults were a little confusing for me because I am used to a Samsung Galaxy Tab S series device. People tell me the Wacom is configured out-of-the-box more like a standard Android device so the confusion may be due to my history with Android.
+
+It has been released into the US, I ordered it from the Wacom estore just last week and it showed up a week later.
+
+Again, I need more time with it. And especially I am trying to compare it to the XP-Pen Magic Drawing Pad GEN2 which also recently released (kind of a stealth release).
+
+Also I would really be interested if Wacom released a larger version with a more powerful CPU and much more memory. This device seems to be optimized for sudden inspiration drawing on-the go. I wouldn't replace my drawing tablet + laptop with it - but instead use it as an addition."
+
+\
+
+
+
 
 ## Basics
 
