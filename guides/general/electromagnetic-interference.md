@@ -10,7 +10,7 @@ Electromagnetic Interference (EMI) can occur between your tablet and other devic
 
 EMI can make the pen have jerky movements - making the pen unresponsive for a few tenths of a second and then the pointer will catch up.
 
-### **Warped regions**
+### **Warped regions due to Magnets**
 
 Sometimes the EMI takes the form of a region that warps straight lines. Below is an example of such a warping caused by a magnet. This this case it was a magnet attacked to a stand underneath the tablet. ([See this reddit thread](https://www.reddit.com/r/huion/comments/13yef7f/kamvas_13_digitizer_problem/))
 
@@ -35,8 +35,6 @@ Examples:
 ## General weirdness
 
 Weird things can happen! I have a keyboard, that when I unplug its USB-C cable will act like a pen and control the position of the pointer on one of my tablets!
-
-
 
 ## Magnetized desk surface
 
