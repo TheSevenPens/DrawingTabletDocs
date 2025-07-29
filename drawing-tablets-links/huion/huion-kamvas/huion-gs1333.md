@@ -1,4 +1,4 @@
-# Huion Kamvas 13 GEN3 (GS1333)
+# Huion Kamvas 13 GEN3 (GS1333) notes
 
 ## Overview
 
@@ -214,3 +214,7 @@ If you want that higher resolution of the GT1302, then wait until Huion releases
   * Kamvas 13 GEN3 (GS1333) - Full HD (1920x1080)
   * Kamvas 13 (GS1331) - Full HD (1920x1080)
   * Kamvas Pro 13 2.5K (GT1302) - 2.5K (2560x1440)
+
+## Known issues
+
+* Buttons/Dials As of July 2025, that some people report that the buttons/dials have stopped working. I don't think this is a super common issue but it is an issue I see reported with a little more frequency than I would expect.
