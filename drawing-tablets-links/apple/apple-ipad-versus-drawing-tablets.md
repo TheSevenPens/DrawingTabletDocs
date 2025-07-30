@@ -1,14 +1,31 @@
 # Apple iPad versus drawing tablets
 
 {% hint style="info" %}
-For more general information about using iPads, go here: [**7P notes: Apple iPad**](apple-ipad-1.md)&#x20;
+For more information:
+
+* [**my notes on Apple iPad**](apple-ipad-1.md)&#x20;
+* [**Apple iPad versus drawing tablets**](apple-ipad-versus-drawing-tablets.md)
+* [**Apple pencil links**](../../pen-links/apple-pencil.md)&#x20;
+* [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
-
-
 
 ## Overview
 
-In this document, I compare iPads to these two kinds of drawing tablets:
+Even though an Apple iPad is not technically speaking a drawing tablet, it can serve the same function as a standalone drawing tablet in many ways.
+
+And many people find that their iPad when combined with the apple pencil serves that need well enough that they don't need to get a separate drawing tablet.
+
+## &#x20;What do people prefer?
+
+Some people prefer using apple iPads
+
+Some people prefer using drawing tablets
+
+And some people prefer using both. For example they might use a (non-standalone) drawing tablet for most of their art but when they're on the go perhaps in a bus or traveling then they use their iPad because it's much more convenient.
+
+## Comparisons
+
+In this document, I compare iPads to these two kinds of non-standalone drawing tablets:
 
 * pen displays (drawing tablets that have a screen)
 * pen tablets (drawing tablets that do NOT have a screen)
@@ -19,21 +36,9 @@ In this document, I compare iPads to these two kinds of drawing tablets:
 * **Pen tablets** - Cannot be used standalone. They require being connected to a computer. Some require a wired connection. Some require a wireless connection.
 * **Pen displays** - Cannot be used standalone. All pen displays require a wired connection to a computer.
 
-## Pen buttons
+## Pens
 
-* Apple Pencil does not have buttons like a normal drawing tablet pen
-* EMR pens have at least 1 button. The vast majority have two buttons. A few have 3 buttons.
-
-## Pen squeeze
-
-The Apple Pencil Pro has a squeeze feature. As of mid 2024, it isn't widely adopted by applications, but that is likely to change.
-
-No drawing tablets support a feature like pen squeeze.
-
-## Pen eraser
-
-* The Apple Pencil does not have an eraser unlike some EMR pens.
-* EMR pens most often do NOT have an eraser but some EMR pens such as the Wacom Pro Pen 2 to have an eraser. And the eraser itself is also pressure-sensitive.&#x20;
+A big amount of the drawing experience is due to how the pens work. See this comparison: [**Apple Pencil versus EMR pens**](apple-pencil-versus-emr-pens.md)
 
 ## Pen hover
 
@@ -62,44 +67,24 @@ In my opinion, even the the iPad is better at having less parallax, the improvem
 
 ## **Anti-glare sparkle**
 
-Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an AG treatment. More here: [**anti-glare sparkle**](apple-ipad-versus-drawing-tablets.md#anti-glare-sparkle).
+Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an anti-glare treatment. More here: [**anti-glare sparkle**](apple-ipad-versus-drawing-tablets.md#anti-glare-sparkle).
 
 * iPads have very little / undetectable amount of AG sparkle.
 * Pen displays have AG sparkle to various degrees. But none have as little as Apple iPad.
 
-## Pen replacement cost
+## Anti-glare treatment
 
-Don't lose your pen! They aren't cheap to replace. The Apple Pencil is among the most expensive pens in the market.&#x20;
+Pen displays have two ways of reducing glare: etched glass and AG film.
 
-* Apple Pencil Pro: $130
-* Apple Pencil 2: $130&#x20;
-* Wacom Pro Pen 3: $130&#x20;
-* Wacom Pro Pen 2: $90
-* Huion PW517: $50
-* Huion PW600: $70
-* XP Pen X3 Elite pen: $30
-* XP Pen X3 Pro pen: $40
-* Samsung S Pen for Galaxy Tab: $50&#x20;
+&#x20;Apple iPads by default do not use etched glass. But in recent years Apple offers iPads with an option NANO TEXTURE (i.e. etched glass) treatment. I've never used or worked with this surface.
 
-## Pen pressure
+## Slippery screens
 
-### Initial Activation Force
+ON normal glass, pen will feel a bit slippery while drawing.
 
-* IAF is the smallest amount of physical force that the pen can detect. Low IAF = good.
-* The best IAF we know of for drawing tablets is with the Wacom Pro Pens that have a <1gf IAF.&#x20;
-* Many people believe the Apple Pencil 2 and Apple Pencil pro have low IAF that is <1gf.
+For pen displays , the etched glass or AG film will add some texture and grip to the surface and then pen  will not slide.
 
-### Max Pressure
-
-* It is useful for a pen to have a high maximum pressure (and thus wide pressure range). &#x20;
-* A 500gf max pressure is very good.
-* Apple Pencil 2 and Apple Pencil Pro in my measurements have a max pressure of 500gf. In my testing, I'm found them to be consistently near 500gf.
-
-For drawing tablet pens, it varies substantially by the specific pen model. For example the Wacom Pro Pen 2 has a max pressure in the range of 800gf - which honestly is probably more than is needed.
-
-### Pressure levels
-
-The number of pressure levels for a pen is a heavily marketing and discussed topic. However, in my opinion all modern drawing tablet pens and the Apple pencil have more than enough pressure levels for any use. I suggest that you do NOT make the number of pressure levels a factor in any decision making.&#x20;
+Apple iPads without the Nano Texture do feel a bit slippery. Some people use 3rd party screen protectors on their iPads which also add a bit of grip.
 
 ## Size & Active Area
 
@@ -114,10 +99,6 @@ Measuring diagonally, the difference devices vary in sizes
 Some people really prefer drawing on a big screen on their desk so they use pen displays for this reason. For example at my desk I prefer drawing on a 22" pen display.
 
 When drawing on-the-go, the ipad size is quite convenient.
-
-## Using both and iPad and a drawing tablet
-
-If it is in your budget, consider using BOTH an Apple iPad and a drawing tablet. Many people love using an iPad when it is convenient to do some initial sketching, but switch to a drawing tablet when they want finish their work.&#x20;
 
 ## Apps
 
