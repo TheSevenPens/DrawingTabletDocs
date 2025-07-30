@@ -5,6 +5,7 @@ For more information:
 
 * [**my notes on Apple iPad**](apple-ipad-1.md)&#x20;
 * [**Apple iPad versus drawing tablets**](apple-ipad-versus-drawing-tablets.md)
+* [**Apple Pencil versus EMR pens**](apple-pencil-versus-emr-pens.md)
 * [**Apple pencil links**](../../pen-links/apple-pencil.md)&#x20;
 * [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
