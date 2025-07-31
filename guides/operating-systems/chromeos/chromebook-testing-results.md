@@ -17,7 +17,15 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 
 * Nothing works
 
-**Wacom Intuos Pro (PTH-660)**
+**Wacom Intuos Pro Large (PTK-870)**
+
+* Pressing down draws or clicks: YES
+* Pressure: works
+* Tilt: works
+* Device recognized as a pen tablet: YES
+* Chrome OS allows buttons to be customed: YES
+
+**Wacom Intuos Pro Medium 2017 (PTH-660)**
 
 * Pointer: No pointer visible when using pen
 * Pressing down draws or clicks: YES
@@ -27,11 +35,10 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 * Upper button: works
 * Device recognized as a pen tablet: yes
 * ChromeOS allows button to be customized: YES
-* Works with single USB-C cable: YES
 
 ## **Pen display results**
 
-**HP Dragonfly Pro Chromebook + XP-Pen Artist Pro 16 GEN2**&#x20;
+**XP-Pen Artist Pro 16 GEN2**&#x20;
 
 * Display: works
 * Pointer: No pointer visible when using pen
@@ -43,12 +50,12 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 * Device recognized as a pen display: NO
 * Works with single USB-C cable: YES
 
-**HP Dragonfly Pro Chromebook + Wacom Movink 13**
+**Wacom Movink 13**
 
 * Display: WORKS
 * Works with single USB-C cable: YES
 * Device recognized as a pen display: NO
-* Nothing else works. The movink essentially works as if it is just another monitor.
+* Nothing else works. The movink 13 essentially works as if it is just another monitor.
 
 **Huion Kamvas Pro 16 Plus 4K**
 
