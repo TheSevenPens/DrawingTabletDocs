@@ -1,53 +1,92 @@
-# Huion Kamvas Pro 24 4K (GT2401)
+# Huion Kamvas Pro 24 4K (GT2401) notes
 
-**Summary**
+## **Summary**
 
 I've been very satisfied with this tablet.
 
-**Cost**
+## Basics
+
+* User manual [https://www.huion.com/manaul\_pdf/de/Kamvas%20Pro%2024(4K).pdf](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024\(4K\).pdf)
+
+## **Cost**
 
 This Huion tablet not cheap at about $1300. But sometimes it is on sale at $1000.&#x20;
 
-**Compared to Wacom**
+## **Compared to Wacom**
 
 * This is Huion's highest end pen display in 2023.&#x20;
-* Its competitor is the Wacom Cintiq Pro 27.&#x20;
-* Let me be clear, the Cintiq Pro 27 is a better tablet. But this tablet delivers a LOT for value for it's price. This Huion tablet delivers 90% of what you need for drawing compared to the Cintiq Pro 27's which costs $3500.
+  * In 2025, Huion's has a newer, better high end models: The Kamvas Pro 19 and Kamvas Pro 27. &#x20;
+* Its competitor is the Wacom Cintiq Pro 27. Let me be clear, the Cintiq Pro 27 is a better tablet. But this tablet delivers a LOT for value for it's price. This Huion tablet delivers 90% of what you need for drawing compared to the Cintiq Pro 27's which costs $3500.
 
-**Accuracy** - Good. Like all pen displays slightly inaccurate in the edges and corner by a couple of millimeters. More accurate in edges/corners than the Huion Kamvas 22 Plus.
+## **Pointer tracking accuracy**&#x20;
 
-**Pointer lag** - Normal for a pen display. Slightly more than the Cintiq Pro 27.
+Good. Like all pen displays slightly inaccurate in the edges and corner by a couple of millimeters. More accurate in edges/corners than the Huion Kamvas 22 Plus.
 
-**Stand -** does not come with a stand.
+## **Pointer lag**&#x20;
 
-**Legs** - Has bult-in legs that give it a nice drawing angle.
+Normal for a pen display. Slightly more than the Cintiq Pro 27.
 
-**VESA** - is VESA mountable.
+## **Stand**&#x20;
 
-**Anti-glare sparkle -** Moderate (maybe on the low end). Noticeable if you put your eyes close. At a normal drawing distance my eyes don't pick it up or at least it looks minimal.
+does not come with a stand.
 
-**Express Keys** - It has none. So, I use keyboard shorts with this device. More here: [**tourbox**](../../../accessory-links/auxiliary-input-devices/tourbox/)&#x20;
+## **Legs**
 
-**Texture** - the etched glass provides a nice texture for the pen so that it doesn't feel slippery.
+Has bult-in legs that give it a nice drawing angle.
 
-**Heat** - display stays cool to the touch - maybe sometimes slightly warm. No hot spots.
+## VESA support
 
-**Scenario** - I bought this tablet for digital art, and it works fine for that. I have used it as a secondary display at it works fine for that purpose also. But most of the time I only use it when I want to draw.
+YES. The tablet is VESA mountable.
 
-**How I connect it**
+## Anti-glare sparkle&#x20;
 
-There are two cables running from the tablet.
+Moderate (maybe on the low end). Noticeable if you put your eyes close. At a normal drawing distance my eyes don't pick it up or at least it looks minimal.
 
-* display signal and data - I connect it via a single USB-C Thunderbolt 3 cable to one my Surface Pro 8's 2 USB-C Thunderbolt 4 ports.
-* power - I connect it using Huion's power adapter to the wall.&#x20;
+## Auxiliary inputs
 
-**Diagonal wobble**
+&#x20;It has no buttons, dials, etc. So, I use a TourBox device. More here: [**tourbox**](../../../accessory-links/auxiliary-input-devices/tourbox/)&#x20;
+
+## **Texture**
+
+The etched glass provides a nice texture for the pen so that it doesn't feel slippery.
+
+## **Heat**
+
+Display stays cool to the touch - maybe sometimes slightly warm. No hot spots.
+
+## **Scenario**&#x20;
+
+I bought this tablet for digital art, and it works fine for that. I have used it as a secondary display at it works fine for that purpose also. But most of the time I only use it when I want to draw.
+
+## Diagonal wobble
 
 Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
 ![](<../../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2).png>)
+
+
+
+## Connections and cabling
+
+## Ports
+
+* Power
+* USB-C
+* DisplayPort
+* HDMI
+* 2x USB-A ports on right side
+* Headphone jack on right side
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## How I connect it
+
+There are two cables running from the tablet.
+
+* display signal and data - I connect it via a single USB-C Thunderbolt 3 cable to one my Surface Pro 8's 2 USB-C Thunderbolt 4 ports.
+* power - I connect it using Huion's power adapter to the wall.&#x20;
 
 **Connection quirks**
 
@@ -57,7 +96,7 @@ To stop it, I simply disconnect the USB-C cable from the Surface Pro.
 
 I'm not sure what the issue is but I suspect its some interaction with the sleep mode of the Surface Pro.
 
-I did not see this in the other devices I tried, so I am not sure how prevalant it is.&#x20;
+I did not see this in the other devices I tried, so I am not sure how prevalent it is.&#x20;
 
 Once the Surface Pro is awake, everything works normally.
 
