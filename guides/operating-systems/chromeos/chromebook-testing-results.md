@@ -1,5 +1,11 @@
 # Chromebook testing results
 
+##
+
+{% hint style="info" %}
+
+{% endhint %}
+
 ## **Testing**
 
 * Chromebook hardware: HP Dragonfly Pro Chromebook
@@ -11,7 +17,8 @@
 Keep in mind the general limitations that apply to pen tablets when used with a Chromebook
 
 * No pressure curves
-* No ability to match the aspect ratio of the tablet's active area to the display which will result in distorted drawing
+* No force proportions - so drawing is distorted. See: [**Force proportions**](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
+* etc.
 
 **Wacom One M (CTC-6110WL)**
 
@@ -52,10 +59,7 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 
 **Wacom Movink 13**
 
-* Display: WORKS
-* Works with single USB-C cable: YES
-* Device recognized as a pen display: NO
-* Nothing else works. The movink 13 essentially works as if it is just another monitor.
+* The Movink 13 treates as an external display. Touch and pen do not work.
 
 **Huion Kamvas Pro 16 Plus 4K**
 
