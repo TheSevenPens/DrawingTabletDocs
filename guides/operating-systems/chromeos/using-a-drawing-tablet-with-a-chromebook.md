@@ -4,9 +4,9 @@
 
 ## Overview
 
-ONLY SOME Pen tablets and pen displays can be used with ChromeOS devices such as Chromebooks. But be aware of the limitations.&#x20;
+Very few pen tablets and pen displays can be used with ChromeOS devices such as Chromebooks. Some do not work at all. Many cannot use features like pressure or tilt.
 
-So many tablets do not work or do not work well enough that <mark style="color:red;">**IN GENERAL DO NOT RECOMMEND USING CHROMEBOOOKS WITH A DRAWING TABLET**</mark>.
+<mark style="color:red;">**IN GENERAL DO NOT RECOMMEND USING CHROMEBOOOKS WITH A DRAWING TABLET**</mark>.
 
 ## Compatibility
 
@@ -38,7 +38,7 @@ With pen tablets you will not be force the active area to match the display of t
 
 ## Testing results
 
-[**ChromeOS testing results**](chromeos-testing-results.md) &#x20;
+[**ChromeOS testing results**](chromebook-testing-results.md) &#x20;
 
 ## Resources&#x20;
 

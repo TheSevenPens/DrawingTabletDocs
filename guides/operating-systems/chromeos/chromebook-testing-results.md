@@ -1,13 +1,5 @@
 # ChromeOS testing results
 
-##
-
-{% hint style="info" %}
-
-{% endhint %}
-
-## **Testing**
-
 {% hint style="info" %}
 More information:
 

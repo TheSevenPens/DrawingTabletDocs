@@ -246,7 +246,7 @@
       * [Stop using a display on Windows](guides/operating-systems/windows/stop-using-a-display-on-windows.md)
     * [ChromeOS](guides/operating-systems/chromeos/README.md)
       * [Connecting a drawing tablet to a ChromeOS device](guides/operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md)
-      * [ChromeOS testing results](guides/operating-systems/chromeos/chromeos-testing-results.md)
+      * [ChromeOS testing results](guides/operating-systems/chromeos/chromebook-testing-results.md)
     * [Android](guides/operating-systems/android/README.md)
       * [Testing Drawing Tablet Compatibility with Android devices](guides/operating-systems/android/testing-drawing-tablet-compatibility-with-android-devices.md)
       * [Connecting a drawing tablet to an Android device](guides/operating-systems/android/using-a-drawing-tablet-with-an-android-device.md)
