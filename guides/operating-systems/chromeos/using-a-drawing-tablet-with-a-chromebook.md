@@ -1,26 +1,44 @@
-# Connecting a drawing tablet to a Chromebook
+# Connecting a drawing tablet to a ChromeOS device
 
 
 
 ## Overview
 
-Pen tablets and pen displays can be used with Chromebooks. But be aware of the limitations.&#x20;
+ONLY SOME Pen tablets and pen displays can be used with ChromeOS devices such as Chromebooks. But be aware of the limitations.&#x20;
+
+So many tablets do not work or do not work well enough that <mark style="color:red;">**IN GENERAL DO NOT RECOMMEND USING CHROMEBOOOKS WITH A DRAWING TABLET**</mark>.
 
 ## Compatibility
 
-**You MUST verify compatibility** with your tablet manufacturer. Not all tablets work with Chromebooks. Only some do. I suggest you also seek out the opinion of other users of your tablet model and see what their experience has been with Chromebooks.
+**You MUST verify compatibility** with your tablet manufacturer.&#x20;
+
+**You MUST verify compatibility** for **SPECIFIC COMBINATIONS** of&#x20;
+
+* ChromeBook devices
+* ChromeOS versions
+* Tablet model
+* Apps
+
+I suggest you also seek out the opinion of other users of your tablet model and see what their experience has been with Chromebooks.
+
+Remember: Not all combinations work. And certain combinations work only partially.
 
 ## Drivers
 
 Tablets work with the built-in drivers in the Chromebooks not the manufacturer drivers. This means that **some features of your tablet and pen may not work with a Chromebook**.
 
-## Pen tablets & mismatched aspect ratios
+## Tablet buttons
+
+* ChromeOS does support configuring buttons on your tablet.
+* CHromeOS does NOT support configuring dials on your tablet
+
+## Pen tablets: distorted drawing due to mismatched aspect ratios
 
 With pen tablets you will not be force the active area to match the display of the Chromebook. This means there will be a distortion to your drawing. More here: [**Matching aspect ratios**](../../customizing-your-experience/match-aspect-ratios-with-force-proportions.md).
 
 ## Testing results
 
-[**Chromebook testing results**](chromebook-testing-results.md) &#x20;
+[**ChromeOS testing results**](chromeos-testing-results.md) &#x20;
 
 ## Resources&#x20;
 

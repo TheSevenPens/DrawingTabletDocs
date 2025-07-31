@@ -1,9 +1,17 @@
-# Chromebook testing results
+# ChromeOS testing results
 
 ##
 
 {% hint style="info" %}
 
+{% endhint %}
+
+## **Testing**
+
+{% hint style="info" %}
+More information:
+
+* [Connecting a drawing tablet to a ChromeOS device](using-a-drawing-tablet-with-a-chromebook.md)
 {% endhint %}
 
 ## **Testing**
