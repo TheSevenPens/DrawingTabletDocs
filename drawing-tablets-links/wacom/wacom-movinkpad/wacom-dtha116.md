@@ -14,11 +14,6 @@ Again, I need more time with it. And especially I am trying to compare it to the
 
 Also I would really be interested if Wacom released a larger version with a more powerful CPU and much more memory. This device seems to be optimized for sudden inspiration drawing on-the go. I wouldn't replace my drawing tablet + laptop with it - but instead use it as an addition."
 
-\
-
-
-
-
 ## Basics
 
 Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)&#x20;
@@ -44,10 +39,15 @@ Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https:/
 
 * Pro Pen 3 (ACP-500) - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 
+## Drawing experience
+
+EXCELLENT. Same quality as what you get with a Cintiq Pro.
+
 ## Pen compatibility
 
 * Pro Pen 3 (ACP-500) - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 * [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md) &#x20;
+* <mark style="color:red;">**It is NOT compatible with the Pro Pen 2, Grip Pen, or Art Pen**</mark>&#x20;
 
 ## Connections and cabling
 

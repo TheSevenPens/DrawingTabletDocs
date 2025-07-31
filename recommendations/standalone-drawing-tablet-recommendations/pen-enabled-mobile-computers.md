@@ -4,18 +4,23 @@
 
 If you're primarily interested in drawing or notetaking I think pen-enabled mobile computers are your best options.
 
-The two real options in this space are:
+For years, we've had two two real options in this space are:
 
-* Apple iPads + the Apple Pencil
-* Samsung Galaxy Tab S devices
+* Apple iPads + the Apple Pencil - [<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../drawing-tablets-links/apple/apple-ipad-1.md)
+* Samsung Galaxy Tab S devices - [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../drawing-tablets-links/samsung/samsung-galaxy-tab-s.md) &#x20;
+
+In 2025, new options became available:
+
+* XP-Pen Magic Drawing Pad GEN2 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-gen2-mdp1221-notes.md)
+* Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dtha116.md)
 
 ## Basics
 
-Formally, these are not drawing tablets, but they can work just like one. And often I think they are your best choice for a standalone tablet. These include products such as Apple iPad Pros and Samsung Galaxy S series tablets.
+Given what people want in standalone devices, often I think these kinds of devices are your best choice for a standalone drawing tablet.&#x20;
 
-* Operating system: a mobile OS (iOS, ChromeOS)
+* Operating system: a mobile OS (iOS, Android)
 * Scenario: General purpose
-* Pen tech: varies. Apple Pencil, AES, EMR&#x20;
+* Pen tech: varies and depends on the specific model. Apple Pencil protocol, AES, EMR. EMR provides the "classic" drawing tablet experience. &#x20;
 
 ## Apple iPads
 
@@ -58,12 +63,27 @@ For applications that run on Android see this list: [**Apps for Android**](../..
 
 <mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](../../drawing-tablets-links/samsung/samsung-galaxy-tab-a.md)
 
-## Devices from Huion and XP-Pen
+## Wacom MovinkPad 11
+
+Of the current generation of standalone drawing tablets. This is the best in terms of drawing experience - primarily because it support using the Pro Pen 2.
+
+[<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dtha116.md)
+
+## XP-Pen Magic Drawing Pad
+
+XP-Pen has released two versions of the drawing pad
+
+* XP-Pen Magic Drawing Pad (GEN1) - I don't have any experience with this tablet.
+* XP-Pen Magic Drawing Pad (GEN2) - I have this tablet and like it. [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dtha116.md)&#x20;
+
+
+
+## Huion Slate and XP-Pen
 
 Huion and XP-pen have also released android tablets in this category.
 
 * [**Huion Kamvas Slate 10**](../../drawing-tablets-links/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-* [**XP-Pen Magic Drawing Pad**](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/) - I don't have any experience with it.
+*
 
 Resources
 
