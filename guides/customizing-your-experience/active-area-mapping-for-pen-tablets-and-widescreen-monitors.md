@@ -30,28 +30,28 @@ You could map the active area of the tablet to a region of the monitor with the 
 
 The region is shown in the center of the monitor, but it could be left or right aligned.
 
-You get to use the full area of your tablet, but then you have to carefully possition yoru drawing application into a region that the tablet is mapped to.
+You get to use the full area of your tablet, but then you have to carefully position your drawing application into a region that the tablet is mapped to.
 
 ## Option #3 Split the widescreen into two monitors
 
-Some widescreen monitors support being treated as two separate monitors. FOr example they will require TWO separate HDMI cables leading to your computer. Your computer will think there are two monitors even though they half of the same monitor.
+Some widescreen monitors support being treated as two separate monitors. In this configuration, the computer will be have TWO SEPARATE HDMI CABLES leading to the monitor and will think it connected to two independent monitors. The computer will not realize in any way they are part of the same physical monitor.
 
-Then:
-
-* Enable Force Proportions
-* And use Display Toggle
+Not all monitors support splitting in this way - but when do it can be done via a monitor's **Picture-by-Picture (PBP)** feature. &#x20;
 
 This option:
 
-* Avoids distortion
+* Avoids drawing distortion
 * Maximizes use of tablet active area
 * Maximizes use of monitor screen
 
+Here are the overall steps:
 
+* In the monitor, enable Picture-by-Picture in the monitor
+* In the monitor, Connect a second video cable to the monitor
+* In the drawing tablet driver, enable Force Proportions
+* in the drawing tablet driver, setup a pen or tablet button for Display Toggle
 
 <figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
-### Note: How to split a widescreen monitor into two separate monitors.
+###
 
-* Some widescreen monitors have a built-in feature allowing this. They may call it "Picture-by-Picture" or "PBP".
-* On Windows, another option to explore is a tool called DisplayFusion.
