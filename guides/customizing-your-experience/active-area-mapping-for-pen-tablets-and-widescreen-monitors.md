@@ -2,21 +2,27 @@
 
 Using a pen tablet with a widescreen monitor presents some challenges and some new opportunities with a pen tablet due to the extreme differences in aspect ratio.
 
-## The typical case
+## Background: a common situation for typical monitors
 
-Normally a pen tablet aspect ratio has an aspect ratio of around 16:10 but monitors often have an aspect ratio of 16:9. By default this distorts shapes drawn on the pen tablet so that they appear stretched slightly in one direction. The solution is to force the tablet's active area aspect ratio to match that of the monitor.&#x20;
+Most pen tablets have  an aspect ratio of around 16:10&#x20;
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+Many monitors have an aspect ratio of 16:9.
 
-Because the aspect ratios are close (1.6 vs 1.78), we lose a little bit of active area on the tablet, but now the drawing is without distortion.&#x20;
+The mismatch in aspect ratios, causes strokes to be slightly distorted. For example, a circle drawn on the the pen tablet will appear as an oval on the monitor.
 
-## The widescreen case
+How can we avoid distortion?
 
-But in the widescreen case, the aspect ratios are quite different (1.6 vs 2.33). So, if we match the tablet's aspect ratio to the monitor, we lose much more active area.
+With a widescreen monitor there are some interesting options.
+
+## Option 1: Use Force Proportions. Map a proportional part of the tablet's active area to the entire monitor.
+
+The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-## Options for widescreen monitors
+## Option #2: Entire tablet active area mapped to a portion of the widescreen monitor
+
+This is like the opposite of Option #1.
 
 You could map the active area of the tablet to a region of the monitor with the same aspect ratio.
 
@@ -26,18 +32,26 @@ The region is shown in the center of the monitor, but it could be left or right 
 
 You get to use the full area of your tablet, but then you have to carefully possition yoru drawing application into a region that the tablet is mapped to.
 
-This is pretty rare, but I've seen people do it.
+## Option #3 Split the widescreen into two monitors
 
-If you can reliably tile your windows to the left half and right half, this is an alternative arrangement
+Some widescreen monitors support being treated as two separate monitors. FOr example they will require TWO separate HDMI cables leading to your computer. Your computer will think there are two monitors even though they half of the same monitor.
+
+Then:
+
+* Enable Force Proportions
+* And use Display Toggle
+
+This option:
+
+* Avoids distortion
+* Maximizes use of tablet active area
+* Maximizes use of monitor screen
+
+
 
 <figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
-It loses active area on the tablet, but may be easier to work with in terms of resizing windows.
+### Note: How to split a widescreen monitor into two separate monitors.
 
-Some widescreen monitors, support presenting themselves to a computer as two separate monitors. Usually this requires two separate cables for two separate video signals.
-
-In this case you can map the tablet to one the monitors.
-
-This still loses some active area on the tablet, but now it is very easy to get windows into the appropriate regions.
-
-Also some tablets, have the ability for you to use an express key or a pen button to swap between monitors. This means you can use your tablet with the entire physical display of your monitor.
+* Some widescreen monitors have a built-in feature allowing this. They may call it "Picture-by-Picture" or "PBP".
+* On Windows, another option to explore is a tool called DisplayFusion.
