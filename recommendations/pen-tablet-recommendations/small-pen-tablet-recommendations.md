@@ -12,9 +12,9 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top Picks
 
-* Wacom Intuos Pro Small (PTK-470) \[$200, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70.md)]
-* Wacom Intuos Pro Small (PTH-460)  \[$200, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60.md)]
-* One by Wacom Small (CTL-472) \[$40, [**links**](../../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72.md)]
+* Wacom Intuos Pro Small (PTK-470) \[$200, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
+* Wacom Intuos Pro Small (PTH-460)  \[$200, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* One by Wacom Small (CTL-472) \[$40, [**links**](../../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)]
   * FEATURE LIMITATION: NO TILT
 
 ## Good, but overpriced

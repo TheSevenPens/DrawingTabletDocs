@@ -27,7 +27,7 @@ These are tablets WITHOUT a screen that need to be connected to a computer (some
 
 If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for true. It's reliable and has a good drawing experience. The Huion Frego is a new tablet (released in 2024) that is also a terrific beginner choice.&#x20;
 
-* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72.md)] ★★★
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)] ★★★
 * Huion Inspiroy Frego M (L610) \[$90, [**links**](../drawing-tablets-links/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../drawing-tablets-links/huion/huion-inspiroy-frego/huion-l610.md) ] ★★★
 * XP-Pen Deco series ★★★
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../drawing-tablets-links/xp-pen/xp-pen-deco/)]

@@ -8,14 +8,14 @@
 ## Cintiq 24 touch (DTH-246) and Cintiq 24 (DTK-246)
 
 * Model year: 2025
-* [<mark style="background-color:green;">**my notes on the Cintiq 24 touch**</mark>](wacom-cintiq-24-touch-dth-246-notes.md)&#x20;
+* [<mark style="background-color:green;">**my notes on the Cintiq 24 touch**</mark>](wacom-dth-246-notes.md)&#x20;
 * [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025/07/28
 * [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025/07/01
 
 ## Cintiq 22 (DTK-2260)
 
 * Model year: 2019
-* [My notes on this tablet](wacom-dtk-2260.md)
+* [My notes on this tablet](wacom-dtk-2260-notes.md)
 * [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
 * [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
 

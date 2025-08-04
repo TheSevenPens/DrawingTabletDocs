@@ -12,9 +12,9 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top picks
 
-* Wacom Intuos Pro Medium (PTK-670) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70.md)]
-* Wacom Intuos Pro Medium (PTH-660) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60.md)]
-* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[ $60, [**links**](../../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72.md)]&#x20;
+* Wacom Intuos Pro Medium (PTK-670) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
+* Wacom Intuos Pro Medium (PTH-660) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[ $60, [**links**](../../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)]&#x20;
 * XP-Pen Deco
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
@@ -42,5 +42,5 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Poor performers
 
-* Wacom One M (CTC-6110WL) \[$150, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one-2023-gen2/wacom-one-2023-pen-displays.md)]
+* Wacom One M (CTC-6110WL) \[$150, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one-2023-gen2/wacom-one-2023-pen-displays-notes.md)]
   * <mark style="color:red;">**SUB-STANDARD PRESSURE HANDLING**</mark>

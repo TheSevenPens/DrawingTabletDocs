@@ -2,7 +2,7 @@
 
 ## Wacom One 2019 GEN1 (DTC-133)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtc-133.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtc-133-notes.md)
 * Model year: 2019
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTC133.html](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)&#x20;
 * [Teoh On Tech review of Wacom One GEN1](https://www.youtube.com/watch?v=Hv2dpHkLAOE)

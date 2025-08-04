@@ -16,11 +16,11 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
-Here are [my detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60.md).
+Here are [my detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60-notes.md).
 
 ## Wacom One 2023 tablets
 
-The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](wacom-one-2023-gen2/wacom-one-2023-pen-displays.md)&#x20;
+The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](wacom-one-2023-gen2/wacom-one-2023-pen-displays-notes.md)&#x20;
 
 ## Recommendation summary
 
@@ -174,7 +174,7 @@ For these tablets that do support touch, touch can be enabled/disabled with a ph
 
 More here:
 
-* [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60.md).
+* [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60-notes.md).
 * [Touch support](../../guides/touch-support/)
 
 ## Tablet design
@@ -211,7 +211,7 @@ Wacom sells texture sheets for the the Intuos Pro 2017. Three texture options ar
 
 Wacom sells texture sheets for the the Intuos Pro 2025. One texture options are provided for both the Small, Medium and Large sizes.
 
-More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60.md).   &#x20;
+More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60-notes.md).   &#x20;
 
 ## Future versions
 

@@ -12,7 +12,7 @@ For years, we've had two two real options in this space are:
 In 2025, new options became available:
 
 * XP-Pen Magic Drawing Pad GEN2 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-gen2-mdp1221-notes.md)
-* Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dtha116.md)
+* Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
 
 ## Basics
 
@@ -67,14 +67,14 @@ For applications that run on Android see this list: [**Apps for Android**](../..
 
 Of the current generation of standalone drawing tablets. This is the best in terms of drawing experience - primarily because it support using the Pro Pen 2.
 
-[<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dtha116.md)
+[<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
 
 ## XP-Pen Magic Drawing Pad
 
 XP-Pen has released two versions of the drawing pad
 
 * XP-Pen Magic Drawing Pad (GEN1) - I don't have any experience with this tablet.
-* XP-Pen Magic Drawing Pad (GEN2) - I have this tablet and like it. [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dtha116.md)&#x20;
+* XP-Pen Magic Drawing Pad (GEN2) - I have this tablet and like it. [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)&#x20;
 
 
 

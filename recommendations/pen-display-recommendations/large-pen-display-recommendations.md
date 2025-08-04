@@ -13,9 +13,9 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## Top Picks
 
 * Huion Kamvas Pro 27 (GT2701) ★★★★ \[$2000, [**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
-* Wacom Cintiq Pro 27 \[$3500, [**links**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-271.md)]
-* Wacom Cintiq 24 / 24 touch (2025) ★★★★ \[$1600, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-cintiq-24-touch-dth-246-notes.md)]&#x20;
-* Wacom Cintiq Pro 22 \[$3000, [**links**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-227.md)]
+* Wacom Cintiq Pro 27 \[$3500, [**links**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-271-notes.md)]
+* Wacom Cintiq 24 / 24 touch (2025) ★★★★ \[$1600, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dth-246-notes.md)]&#x20;
+* Wacom Cintiq Pro 22 \[$3000, [**links**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-227-notes.md)]
 * XP-Pen Artist Pro 22 GEN2 (MD220QH) ★★★★ [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md220qh.md)&#x20;
 * XP-Pen Artist 22 Plus (MD220FH) \[$470, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-artist/xppen-md220fh.md)]
 
@@ -27,7 +27,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Older but worth investigating
 
-* Wacom Cintiq 22 (DTK-2260). \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260.md)]
+* Wacom Cintiq 22 (DTK-2260). \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260-notes.md)]
 
 ## Value with compromises
 

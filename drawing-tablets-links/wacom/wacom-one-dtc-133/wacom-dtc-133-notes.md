@@ -1,4 +1,4 @@
-# 7P: Wacom One 2019 GEN1 (DTC-133) notes
+# Wacom One 2019 GEN1 (DTC-133) notes
 
 ### **Summary**
 
@@ -17,7 +17,7 @@ In 2023, Wacom released two updated pen display versions in the Wacom One 2023 (
 
 In my initial investigation in 2023, I wasn't too happy with these newer versions. However, now in 2025 I should re-examine them to see if firmware and driver updates have improved their drawing experience.
 
-See: [**7P notes: Wacom One 2023 GEN2 pen displays**](../wacom-one-2023-gen2/wacom-one-2023-pen-displays.md)&#x20;
+See: [**7P notes: Wacom One 2023 GEN2 pen displays**](../wacom-one-2023-gen2/wacom-one-2023-pen-displays-notes.md)&#x20;
 
 ## Size
 

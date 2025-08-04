@@ -14,7 +14,7 @@
 
 ### Cintiq Pro 27 (DTH-271)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-271.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-271-notes.md)
 * Model Year: 2022
 * [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq_pro_27_honest_review/) Nov 2022
 * [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) Oct 14, 2022
@@ -24,13 +24,13 @@
 
 ### Cintiq Pro 22 (DTH-227)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-227.md) &#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-227-notes.md) &#x20;
 * Model year 2023
 * Product page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html)&#x20;
 
 ### Cintiq Pro 16 (DTH-167)&#x20;
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-167.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-167-notes.md)
 * Model year: 2021.&#x20;
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 * Be aware there is an older model from 2016 also (DTH-1620)
@@ -65,7 +65,7 @@
 
 * Model year: 2017
 * r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022/01/12
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](cintiq-pro-24-dtx-2420-notes.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtx-2420-notes.md)
 * [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Nov 5, 2018
 * [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - Oct 9, 2018
 * [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - May 1, 2018
