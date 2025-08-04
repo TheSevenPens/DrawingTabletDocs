@@ -12,7 +12,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top picks
 
-* Wacom Intuos Pro Medium (PTK-670) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/7p-wacom-ptk-x70.md)]
+* Wacom Intuos Pro Medium (PTK-670) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70.md)]
 * Wacom Intuos Pro Medium (PTH-660) \[$300, [**links**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60.md)]
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[ $60, [**links**](../../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72.md)]&#x20;
 * XP-Pen Deco

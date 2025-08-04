@@ -414,7 +414,7 @@
     * [One by Wacom](drawing-tablets-links/wacom/one-by-wacom/README.md)
       * [One by Wacom (CTL-x72) notes](drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72.md)
     * [Wacom Intuos Pro 2025](drawing-tablets-links/wacom/wacom-intuos-pro-2025/README.md)
-      * [Wacom Intuos Pro 2025 (PTK-x70) notes](drawing-tablets-links/wacom/wacom-intuos-pro-2025/7p-wacom-ptk-x70.md)
+      * [Wacom Intuos Pro 2025 (PTK-x70) notes](drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70.md)
     * [Wacom Intuos Pro 2017](drawing-tablets-links/wacom/wacom-intuos-pro-2017/README.md)
       * [Wacom Intuos Pro Medium (2017) (PTH-660) notes](drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-660.md)
       * [Wacom Intuos Pro 2017 (PTH-x60) notes](drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60.md)
