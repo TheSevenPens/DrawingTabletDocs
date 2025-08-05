@@ -1,8 +1,32 @@
 # Laptops for digital art
 
+## **Overview**
+
+## Mac or Windows
+
+Choose the Operating System that supports the apps you need.
+
+Neither is better at using drawing tablets. Both have advantages and disadvantages with how they work with drawing tablets.
+
+## Processor
+
+I'm not knowledgeable enough to give an exact list. But I can share some thoughts.
+
+First, drawing tablets themselves don't strain the processor of laptops.
+
+However, what does affect your choice is the apps that you use and how you use them. For example&#x20;
+
+* 3D apps would general need more powerful processors
+* 2D apps usually don't have such high requirements&#x20;
+
 ## **RAM**&#x20;
 
 These RAM recommendations are based my experience doing on doing 2D illustration using Krita and Clip Studio Paint.
+
+Your choice is the apps that you use and how you use them.
+
+* 3D apps tend to need more powerful processors, GPUs, and more RAM
+* 2D apps can get by with not much ram (8 GB) but definitely more is better - especially if you work with lots of layers
 
 <table><thead><tr><th width="115">RAM</th><th>MY EVALUATION</th></tr></thead><tbody><tr><td>4GB </td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB </td><td>OK. Should be fine basic 2D art. Good place to start for a beginner.</td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT. </td></tr></tbody></table>
 
@@ -53,13 +77,17 @@ Check the reviews for these laptops
 * ASUS ProArt PX13
 * ASUS ProArt P16
 
-## Laptops I do NOT recommend
+## Notes on specific kinds of laptops
 
-#### Windows ARM laptops (FOR NOW)
+### Windows ARM laptops
 
-<mark style="color:red;">**IMPORTANT: DO NOT get a Surface Pro that uses an ARM processor (example: Microsoft Surface Pro 11).**</mark> ARM-based Windows machines do not work with drawing tablets at the moment. More here: [Windows on ARM](operating-systems/windows/windows-on-arm.md).
+When Windows ARM laptops launched in 2024, drawing tablet drivers did not support ARM processors. Now, they do.
 
-#### **Chromebooks**
+However, ARM support for tablet drivers is very new, so you might want to consider Intel-based Windows laptops until we've had more experience using ARM on Windows.
+
+More here: [Windows on ARM](operating-systems/windows/windows-on-arm.md).
+
+### **Chromebooks**
 
 I don't recommend Chromebooks for use with drawing tablets. I don't think drawing tablets work well with Chromebooks. More here: [**Using a drawing tablet with a Chromebook**](operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md).
 
