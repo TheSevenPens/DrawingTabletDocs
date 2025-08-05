@@ -112,3 +112,16 @@ Some applications, like ProCreate on the iPad, have a a shape detection feature.
 A typical EMR pen is hypersensitive to pressure changes especially at the lower end of physical pressure range. Using a pressure curve can reduce some of that sensitivity. Another technique, possible is some apps (for example Krita and Rebelle) is to use **pressure smoothing**.
 
 Note that BOTH a **pressure curve** AND **pressure smoothing** together can produce better results than using them separately.
+
+## Use application straight line assistants
+
+Some applications have special ways of drawing straight lines. And these tools are available even if the application is NOT using vectors.
+
+For example in Clip Studio Paint, holding down thew SHIFT key will draw line from the last point the pen was drawing on the canvas to the current position the pen is in.&#x20;
+
+## Use application guides
+
+Some applications let you add special guides to help draw straight lines
+
+
+
