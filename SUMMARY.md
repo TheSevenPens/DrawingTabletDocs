@@ -199,6 +199,7 @@
     * [Tablet Driver Cleanup tool](guides/drivers/tablet-driver-cleanup-tool.md)
     * [Using older tablet drivers](guides/drivers/using-older-tablet-drivers.md)
     * [Importing and Exporting tablet driver configurations](guides/drivers/importing-and-exporting-tablet-driver-configurations.md)
+    * [TabletMagic](guides/drivers/tabletmagic.md)
   * [Advanced](guides/advanced/README.md)
     * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
