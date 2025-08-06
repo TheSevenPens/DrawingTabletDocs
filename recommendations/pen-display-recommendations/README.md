@@ -4,15 +4,13 @@
 
 These are recommendations for **pen displays**: tablets that have have screens and have to be connected to a computer.&#x20;
 
+For other types drawing tablets, go here: [**Recommendations**](../).
+
 ## **Recommendations**&#x20;
 
 * [**SMALL pen display recommendations**](small-pen-display-recommendations.md) (12" to 14")
 * [**MEDIUM pen display recommendations** ](medium-pen-display-recommendations.md)(16" to 19")
 * [**LARGE pen display recommendations**](large-pen-display-recommendations.md) (22" to 27"
-
-## Looking for something else?&#x20;
-
-For a **pen tablet (screenless tablet)**, go here: [**pen tablet recommendations**](../pen-tablet-recommendations/). For a **standalone tablet**, go here: [**Standalone drawing tablet recommendations**](../standalone-drawing-tablet-recommendations/).
 
 ## Notes
 
