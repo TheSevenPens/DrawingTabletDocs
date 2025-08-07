@@ -8,6 +8,16 @@ Below are tablets I would personally recommend separated by device type. These r
 
 If you are beginner, then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners.md).
 
+## Considerations
+
+* **Size** - For the vast majority of people I recommend MEDIUM sized pen tablets. More here: [**Choosing the right tablet size**](../buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
+
+## Considerations for pen displays
+
+* Make sure you know about [**anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen display.
+* Pen displays are NOT inherently better than pen tablets. More here: [**pen tablets vs pen displays**](../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
+* For beginners: [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners.md)&#x20;
+
 ## **Resources**
 
 * [**Buying a drawing tablet**](../buying-a-drawing-tablet/)&#x20;
