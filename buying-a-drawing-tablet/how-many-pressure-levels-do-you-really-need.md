@@ -12,7 +12,9 @@ These days it's very fashionable for drawing tablets to advertise that they have
 
 The quick summary is that the number of pressure levels has to be quantized or reduced into certain visible aspects of your artwork.
 
-So for example if your pen supports 8000 levels of pressure but your brush size is 100 pixels - then there are only 100 different possible Brush sizes. In other words many of those 8000 levels of pressure map to the same brush size. By extension the same logic applies to transparency. Most people are using 8 bit transparency which results in 256 possible transparency values. So many of those 8000 pressure levels mapped to the same exact transparency value.
+For example if your pen supports 8000 levels of pressure but your brush size is 100 pixels - then there are only 100 different possible Brush sizes. In other words many of those 8000 levels of pressure map to the same brush size.&#x20;
+
+By extension the same logic applies to transparency. Most people are using 8 bit transparency which results in 256 possible transparency values. So many of those 8000 pressure levels mapped to the same exact transparency value.
 
 There are some very specific conditions where someone might need more than 2000. But based on what I've observed those cases are incredibly rare and very specialized.
 
