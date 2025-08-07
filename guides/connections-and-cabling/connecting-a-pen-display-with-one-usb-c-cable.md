@@ -90,6 +90,14 @@ Unfortunately, this can be very hard since there are reliable indicators for USB
 
 **Unlabeled USB-C cables** - You will have to rely on manufacturer specs to determine this. Sometimes these cables are described as "Full-featured" USB-C cables.
 
+## Adding a USB-C with DisplayPort to your computer
+
+If you computer does not have a USB-C port that supports DP alt mode, it MAY be possible to add that to your computer.
+
+This is apparently possible but will require a desktop computer that is capable of accepting an expansion card.&#x20;
+
+See: [Dan S Charlton: Add USB-C with DisplayPort-alt-mode to your PC](https://dancharblog.wordpress.com/2020/07/20/add-usb-c-with-dp-alt-mode-to-your-desktop-pc/) ([archive link](https://archive.is/WylTo))
+
 ## Resources
 
 * Here is a list from Huion about devices that can use a single USB-C cable: [https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)&#x20;

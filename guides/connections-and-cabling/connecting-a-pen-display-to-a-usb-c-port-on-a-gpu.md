@@ -16,5 +16,5 @@ To be clear I have never personally tested this scenario with a 2080 card.&#x20;
 
 &#x20;If a USB C port is on a GPU it should definitely support a video signal.
 
-
+##
 
