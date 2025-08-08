@@ -8,7 +8,17 @@ Some pens let you swap out the grip area of the pen to customize the feeling of 
 
 This pen comes with several different grips or can be used without a grip.
 
-## Hagurumado woodcrafts
+## Korelax grips
+
+Link: [https://korelax.io/](https://korelax.io/)&#x20;
+
+I haven't tried these out myself. But, they have some interesting options.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-07 at 9.07.43 PM.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+## Hagurumado grips
 
 Hagurumado woodcrafts ([https://hagurumado.com/](https://hagurumado.com/)) offers wooden grips for select models of Wacom pens.
 
@@ -24,9 +34,9 @@ Some people make their own grips using
 
 * Raquetball tape
 * Hockey tape
-* Suguru (See this [reddit thread](https://www.reddit.com/r/huion/comments/mcefso/comment/gs3ew7e/?utm\_source=share\&utm\_medium=web2x\&context=3))
+* Suguru (See this [reddit thread](https://www.reddit.com/r/huion/comments/mcefso/comment/gs3ew7e/?utm_source=share\&utm_medium=web2x\&context=3))
 * Yarn
 
-Here's an example of someone using **yarn** to make a grip. ([**from this reddit thread**](https://www.reddit.com/r/wacom/comments/1bnvtqu/setup\_is\_super\_old\_and\_the\_grip\_is\_smooth\_my/))
+Here's an example of someone using **yarn** to make a grip. ([**from this reddit thread**](https://www.reddit.com/r/wacom/comments/1bnvtqu/setup_is_super_old_and_the_grip_is_smooth_my/))
 
 <figure><img src="../.gitbook/assets/yarn grip.jpg" alt=""><figcaption></figcaption></figure>
