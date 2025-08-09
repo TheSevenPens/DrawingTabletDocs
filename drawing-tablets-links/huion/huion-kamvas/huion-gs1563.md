@@ -1,6 +1,6 @@
-# 7P notes: Huion Kamvas 16 GEN3 (GS1563)
+# Huion Kamvas 16 GEN3 (GS1563) notes
 
-My foull notes are not available yes, but I did livestrream my unboxing and basic testing:
+My foll notes are not available yes, but I did livestrream my unboxing and basic testing:
 
 {% embed url="https://youtube.com/live/-qmdAHY4f40?feature=share" %}
 
