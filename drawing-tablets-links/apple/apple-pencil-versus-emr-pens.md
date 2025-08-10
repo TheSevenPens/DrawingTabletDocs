@@ -44,20 +44,20 @@ The number of pressure levels for a pen is a heavily marketing and discussed top
 
 The Apple Pencil Pro has a squeeze feature. As of mid 2024, it isn't widely adopted by applications, but that is likely to change.
 
-No drawing tablets support a feature like pen squeeze.
+No EMR pens support a feature similar to pen squeeze.
 
 ## Pen "find my"
 
-The A**pple Pencil Pro** supports a “find my” feature. You can use your phone or iPad to detect its location.
+The **Apple Pencil Pro** supports a “find my” feature. You can use your phone or iPad to detect its location.
 
 EMR pens have no equivalent to this feature.&#x20;
 
-Watch how this feature works: The apple pencil pro supports a “find my” feature. You can use your phone or iPad to detect its location.
+Watch how this feature works: [Jimmy Lam Studio - Find My on Apple Pencil Pro](https://www.youtube.com/watch?v=P_8P3jmhnrM) Jun 26, 2024
 
 ## Pen eraser
 
 * The Apple Pencil does not have an eraser unlike some EMR pens.
-* EMR pens most often do NOT have an eraser but some EMR pens such as the Wacom Pro Pen 2 to have an eraser. And the eraser itself is also pressure-sensitive.&#x20;
+* Erasers are common on "pro" EMR pens such as the Wacom Pro Pen 2 to have an eraser. Note that the eraser itself is also pressure-sensitive.&#x20;
 
 ## Pen replacement cost
 
