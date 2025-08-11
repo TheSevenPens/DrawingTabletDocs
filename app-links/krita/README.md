@@ -62,6 +62,10 @@
 
 * [Expose Academy - How to blend or mix colors in Krita | 12 different methods](https://www.youtube.com/watch?v=js15EeNbEBE)  Jun 28, 2023
 
+### **Community**
+
+* [Krita discord](https://discord.com/channels/1242714066917523456/1242714067425038473/1404390487091056691) - Unofficial
+
 ### **Miscellaneous**
 
 * [https://github.com/armstrongl/awesome-krita](https://github.com/armstrongl/awesome-krita) - many various Krita links
