@@ -2,8 +2,31 @@
 
 ## Power requirements
 
-* **Pen tablets** require minimal amounts of power. They get enough power from a normal USB 2.0 port.
-* **Pen displays** require much more power than a pen tablet due to the embedded display panel. They may have a power adapter that you need to plug into the wall. Or they may be able to be powered with through a USB-C cable.
+* **Pen tablets** require minimal amounts of power.&#x20;
+* **Pen displays** require much more power than a pen tablet due to the embedded display panel.&#x20;
+
+## Powering a pen tablet
+
+They get enough power from a normal USB port.
+
+Pen tablets that support wireless operation have internal batteries. So of course, during wireless operation they don't need to be plugged into power.
+
+## Powering pen displays&#x20;
+
+Pen displays must always be physically connect to some form of power.&#x20;
+
+There are two ways pen displays get power.
+
+* A power adapter that you need to plug into the wall.&#x20;
+* Connecting via cable to the computer.
+
+## Pen displays MIGHT work using a power adapter
+
+Smaller pen displays (16" and smaller) might be able to get enough power from the USB ports of your computer.
+
+There's nothing wrong with this - it will not harm your pen display. But you may find that it limits the brightness of your pen display.
+
+I always recommend that if your tablet comes with a power adapter, that you use the power adapter.&#x20;
 
 ## Example power usage&#x20;
 
