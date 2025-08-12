@@ -2,27 +2,29 @@
 
 ## Overview
 
-The Wacom Intuos Pro (PTH-x60) series of tablets are still the best pen tablets ever made even in 2024.
+The Wacom Intuos Pro 2017 (PTH-x60) series of tablets are still the best pen tablets ever made even in 2025. They are tied with the Intuos Pro 2025 series (PTK-x70) series. Both are at the top of their game but you might prefer one over the other.
 
 I have used both the large and medium sizes extensively and the small size a little bit.
 
 All three are highly recommended. I recommend the Medium size (PTH-660) size for most users. This reflects my standard guidance that medium-sized tablets are the best choice for the vast majority.
 
-
-
 <table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-860</td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td>PTH-660</td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td>PTH-460</td><td>2019</td><td>Intuos Pro Small (2019)</td></tr></tbody></table>
 
 ## Included Pen&#x20;
 
-These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good.&#x20;
-
-[<mark style="background-color:green;">**My notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-kp-504e.md).
+These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good. [<mark style="background-color:green;">**My notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-kp-504e.md).
 
 ## **Drawing experience**
 
-**Pressure handling** - excellent&#x20;
+In summary, the drawing experience is EXCELLENT. Only the Intuos Pro 2025 series matches this tablet.
 
-**Pointer lag** - These tablets have very little pointer lag. You can see that demonstrated in this video: [https://youtu.be/CRwzPJPA\_5A](https://youtu.be/CRwzPJPA_5A).
+## **Pressure handling**&#x20;
+
+Quality of pressure handling due to the pen. And the KP-504E pen is EXCELLENT at pressure. See [<mark style="background-color:green;">**My notes on the Wacom Prop Pen 2 (KP-504E) pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-kp-504e.md).
+
+## **Pointer lag**
+
+EXCELLENT. These tablets have very little pointer lag. You can see that demonstrated in this video: [https://youtu.be/CRwzPJPA\_5A](https://youtu.be/CRwzPJPA_5A).
 
 ## Cables and connectivity
 
