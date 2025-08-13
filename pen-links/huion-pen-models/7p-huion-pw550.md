@@ -1,6 +1,12 @@
 # Huion PW550 series pens notes
 
+## Overview
 
+These PW550 series of pens offer some of the improvements that made it into the PW600 series of pens in terms of pressure handling.
+
+If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen instead. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](upgrading-from-huion-pw517-to-huion-pw550-pens.md)
+
+## Photos
 
 <figure><img src="../../.gitbook/assets/20240831_125855 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -19,18 +25,18 @@ I tested four PW550 series pens on 2024/08/30
 
 ## Pressure: IAF &#x20;
 
-I'm not good at measuring IAF but each seemed to be around 3gf.
+I'm not good at measuring IAF but each seemed to be around 3gf. Similar to many of Huion's pens.
 
 ## Pressure: max pressure (approximate)
 
 3 of 4 of the my PW550 pens have GOOD or EXCELLENT max pressure. One outlier has an OK max pressure.
 
-| BRAND | PEN    | INVENTORY | PHYSICAL | LOGICAL |
-| ----- | ------ | --------- | -------- | ------- |
-| HUION | PW550  | HU1006    | 560.0gf  | 99.0%   |
-| HUION | PW550  | HU1008    | 223.6gf  | 99.99%  |
-| HUION | PW550  | HU1009    | 850.0gf  | 100.0%  |
-| HUION | PW550S | HU1007    | 735.5gf  | 99.4%   |
+| PEN    | MY INVENTORY ID | PHYSICAL PRESSURE |
+| ------ | --------------- | ----------------- |
+| PW550  | HU1006          | 560.0gf           |
+| PW550  | HU1008          | 223.6gf           |
+| PW550  | HU1009          | 850.0gf           |
+| PW550S | HU1007          | 735.5gf           |
 
 ## Pressure: Response curve
 
@@ -58,4 +64,3 @@ So as I often recommend, you should consider a pressure curve to linearize this 
 
 The PW550 may be a compelling upgrade to the PW517 pen. See the details in the video below.
 
-{% embed url="https://youtu.be/vk4DlVGU6-Q" %}

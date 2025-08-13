@@ -499,6 +499,7 @@
     * [Huion PW550 series pens notes](pen-links/huion-pen-models/7p-huion-pw550.md)
     * [Huion PW600 series pens](pen-links/huion-pen-models/7p-huion-pw600.md)
     * [Huion PW507 pen notes](pen-links/huion-pen-models/huion-pw507-pen-notes.md)
+    * [Upgrading from Huion PW517 to Huion PW550 pens](pen-links/huion-pen-models/upgrading-from-huion-pw517-to-huion-pw550-pens.md)
   * [XP-Pen pens](pen-links/xp-pen-pens/README.md)
     * [XP-Pen X3 Pro pens  notes](pen-links/xp-pen-pens/7p-xppen-x3pro-pen.md)
     * [XP-Pen X3 Elite pen  notes](pen-links/xp-pen-pens/7p-xppen-x3elite-pen.md)
