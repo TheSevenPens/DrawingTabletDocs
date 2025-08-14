@@ -29,14 +29,13 @@ Unfortunately the 2025 does not appear in the name of the tablet in online store
 ## Key NEW features in the 2025 model
 
 * Operating system: Android 14
-  * GEN1 came with Android 12
-* DP-Alt Mode&#x20;
-  * This means you  can use the device as External/Secondary monitor
-  * GEN1 did not have this feature&#x20;
+  * The 2024 model came with Android 12
+* Using it as an external monitor (aka DP-IN)&#x20;
+  * The 2024 model did not have this feature&#x20;
 * Using it as as a pen display &#x20;
   * From product page "The Magic Drawing Pad supports the DP-IN function via its Type-C port, allowing it to act as a secondary screen for your laptop. Paired with the X3 Pro Pencil, it enables reverse control, making it easy to take notes, draw."
   * I have not fully tested this so it is unclear to what extent this is true &#x20;
-  * GEN1 was not capable of this at all
+  * The 2024 model did not have this feature
 
 ## Tilt Issues
 
