@@ -22,7 +22,7 @@ If you are looking for protection for other kinds of devices go here: [**Surface
 * You can in theory make your own surface protection
 * Learn more about using [**ePlastic polycarbonate sheets (velvet lexan)**](eplastic-polycarbonate-sheets-velvet-lexan.md)
 
-Links
+## Links
 
 r/wacom - [Protective sheet for Intuos4 M](https://www.reddit.com/r/wacom/comments/p6omxz/protective_sheet_for_intuos4_m/) 8/18/2021
 
