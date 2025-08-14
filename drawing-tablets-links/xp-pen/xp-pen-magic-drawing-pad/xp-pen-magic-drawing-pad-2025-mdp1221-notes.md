@@ -1,4 +1,4 @@
-# XP-Pen Magic Drawing Pad GEN2 (MDP1221) notes
+# XP-Pen Magic Drawing Pad 2025 (MDP1221) notes
 
 ## Overview
 
@@ -9,12 +9,24 @@ So far, I am enjoying using this device and as long as tilt is not a requirement
 ## Basics
 
 * Model number MDP1221&#x20;
-* Note this model (MDP1221 ) is the "GEN2" of the Magic Drawing Pad&#x20;
+* Note this model (MDP1221 ) is the 2025 of the Magic Drawing Pad&#x20;
 * OS: Android 14
 
+## Naming
+
+### Is it a GEN2?
+
+XP-Pen calls this model the 2025 edition and not a "GEN2" because it has only minor differences from the original 2024 version.
+
+In some livestreams I have referred to it as a "GEN2" because originally on the XP-Pen EU store they used he "GEN2" name in the title.
+
+## Naming
+
+Unfortunately the 2025 does not appear in the name of the tablet in online stores. Likewise 2024 does not appear in the name of the older model.
 
 
-## Key NEW features that the GEN1 modell doesn't have
+
+## Key NEW features in the 2025 model
 
 * Operating system: Android 14
   * GEN1 came with Android 12
@@ -33,7 +45,9 @@ So far, I am enjoying using this device and as long as tilt is not a requirement
 * It sems somewhat dependent on the pen. Most of the X3 pens I tried with this tablet exhibited the problem, but some exhibited the problem less.
 * If you are going to use this tablet - I would recommend being careful about the tilt.&#x20;
 
-&#x20;
+## Purchasing tip
 
-&#x20;
+In online stores you may see BOTH the 2024 and 2025 editions shown under the name "Magic Drawing Pad".
+
+So make sure you verify the model number of the tablet you are purchasing. The 2025 model number is MDP1221 &#x20;
 

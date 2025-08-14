@@ -458,7 +458,7 @@
     * [XP-Pen Magic Note Pad (MNP1095)](drawing-tablets-links/xp-pen/xp-pen-magic-note-pad-mnp1095.md)
       * [XP-Pen Magic Note Pad (MNP1095) notes](drawing-tablets-links/xp-pen/xp-pen-magic-note-pad-mnp1095/xppen-mnp1095-notes.md)
     * [XP-Pen Magic Drawing Pad](drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/README.md)
-      * [XP-Pen Magic Drawing Pad GEN2 (MDP1221) notes](drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-gen2-mdp1221-notes.md)
+      * [XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
     * [XP-Pen Artist](drawing-tablets-links/xp-pen/xp-pen-artist/README.md)
       * [XP-Pen Artist 22 Plus (MD220FH) notes](drawing-tablets-links/xp-pen/xp-pen-artist/xppen-md220fh.md)
     * [XP-Pen Artist GEN2](drawing-tablets-links/xp-pen/xp-pen-artist-gen2/README.md)

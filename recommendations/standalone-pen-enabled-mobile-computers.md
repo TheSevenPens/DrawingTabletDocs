@@ -11,7 +11,7 @@ For years, we've had two two real options in this space are:
 
 In 2025, new options became available:
 
-* XP-Pen Magic Drawing Pad GEN2 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-gen2-mdp1221-notes.md)
+* XP-Pen Magic Drawing Pad GEN2 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
 * Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
 
 ## Basics
