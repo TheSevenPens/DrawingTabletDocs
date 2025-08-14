@@ -1,15 +1,16 @@
 # XP-Pen Magic Drawing Pad
 
-## XP-Pen Magic Drawing Pad GEN2 (MDP1221)
+## XP-Pen Magic Drawing Pad 2025 (MDP1221)
 
 Release date: 2025
 
-Notes: In some regions it does not have "GEN2" in the name. If you are buying this device, verify the model number MDP1221 and that it supports DP-IN (which the GEN1 does not support)
+Notes: In some regions it does not have "2025" in the name. If you are buying this device, verify the model number MDP1221 and that it supports DP-IN (which the 2025 model does not support)
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](xp-pen-magic-drawing-pad-gen2-mdp1221-notes.md)
-* [Michael Clarida - review of XP-Pen Magic Drawing Pad GEN2](https://www.youtube.com/watch?v=I0pPUT5WoLY) 2025/07/09&#x20;
+* [Teoh on Tech - Review of XP-Pen Magic Drawing Pad 2025](https://www.youtube.com/watch?v=VivJ6R7Cmwg) 2025/08/14
+* [Michael Clarida - review of XP-Pen Magic Drawing Pad 2025](https://www.youtube.com/watch?v=I0pPUT5WoLY) 2025/07/09&#x20;
 
-## XP-Pen Magic Drawing Pad GEN1
+## XP-Pen Magic Drawing Pad 2024
 
 Release date: 2024
 

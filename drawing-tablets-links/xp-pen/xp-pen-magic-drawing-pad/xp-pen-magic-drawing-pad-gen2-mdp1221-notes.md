@@ -2,7 +2,7 @@
 
 ## Overview
 
-<mark style="color:red;">**I AM ACTIVELY TESTING THIS DEVICE.**</mark> So expect my notes to evolve, but here are some initial thoughts: This tablet is a comparable to the Samsung S9FE but in terms of overall performance with a much better pen. There are issues using tilt - but I don't use tilt with brushes so that wasn't a limiting factor for mew.
+<mark style="color:red;">**I AM ACTIVELY TESTING THIS DEVICE.**</mark> So expect my notes to evolve, but here are some initial thoughts: This tablet is a comparable to the Samsung S9FE but in terms of overall performance with a much better pen. There are issues using tilt - but I don't use tilt with brushes so that wasn't a limiting factor for me.
 
 So far, I am enjoying using this device and as long as tilt is not a requirement for you, feel that it is a good choice for a standalone drawing tablet.
 
