@@ -112,3 +112,17 @@ It's common question whether pen displays would get to hot if they are continual
 
 Monitors are almost always completely silent and don't even have fans. However, some pen displays - notably some Wacom Cintiq Pro models - have fans are are known for fan noise. If you are sensitive to noise research this first.&#x20;
 
+## Using the pen display with a laptop
+
+A pen display can certainly be used as a secondary display for your laptop.
+
+But make sure you are clear on
+
+* How it will connect
+* That the display in side the tablet will need power. Your laptop may not be enough. You may need to use a power adapter. Even if you laptop is capable of suppluing power, i may drain your batter faster than you expect.
+
+## Drivers
+
+If you are just planning on using the pen display as a monitor, the computer you connecting it do does not need any tablet driver to be installed.
+
+You only need the tablet driver if you intend to draw on the tablet.
