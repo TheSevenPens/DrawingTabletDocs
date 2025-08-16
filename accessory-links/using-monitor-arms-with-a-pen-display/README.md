@@ -34,6 +34,7 @@ Some things to watchout for with these brackets before you buy them
 * Will the brackets bo beyond the bezel and cover the glass of the tablet
 * How securely will they hold your tablet
 * How much weight can they support
+* How much wobble will they have if you try to draw on the tablet
 
 ## Other examples
 
