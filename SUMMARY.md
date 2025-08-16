@@ -329,6 +329,7 @@
   * [Kleki](app-links/kleki.md)
   * [Krita](app-links/krita/README.md)
     * [Krita notes](app-links/krita/krita-notes.md)
+  * [Leonardo](app-links/leonardo.md)
   * [Medibang Paint](app-links/medibang.md)
   * [Medibang Pro](app-links/medibang-1.md)
   * [Microsoft Whiteboard](app-links/microsoft-whiteboard.md)

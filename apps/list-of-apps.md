@@ -16,7 +16,7 @@
 * **Kleki** (web) \[[**links**](../app-links/kleki.md) ] <mark style="background-color:purple;">**FREE**</mark> &#x20;
 * **Kreska.art** (web) \[[**links**](https://kreska.art/)] **FREE**
 * **Krita** (Windows, Linux, MacOS) \[[**links**](../app-links/krita/)] <mark style="background-color:purple;">**FREE**</mark>
-* **Leonardo** (Windows) \[[https://www.getleonardo.com/](https://www.getleonardo.com/) ]&#x20;
+* **Leonardo** (Windows) \[[**links**](../app-links/leonardo.md)]
 * **Magma** (web) \[[https://magma.com/](https://magma.com/)]
 * **Medibang Paint** (Windows, MacOS) \[[**links**](../app-links/medibang.md)]
 * **Medibang Pro** (iOS) \[[**links**](../app-links/medibang-1.md)]
