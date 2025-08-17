@@ -81,7 +81,9 @@ Some manufacturers directly sell new and used/refurbished tablets on eBay
 
 * Wacom: [https://www.ebay.com/str/wacom](https://www.ebay.com/str/wacom)&#x20;
 * Huion: [https://www.ebay.com/str/huiontablet](https://www.ebay.com/str/huiontablet)&#x20;
-* XP-Pen: [https://www.ebay.com/str/xppentechnology](https://www.ebay.com/str/xppentechnology)&#x20;
+* XP-Pen:
+  * [https://www.ebay.com/str/xpdrawingus](https://www.ebay.com/str/xpdrawingus)
+  * [https://www.ebay.com/str/xppentechnology](https://www.ebay.com/str/xppentechnology)&#x20;
 
 ## Surface texture
 
