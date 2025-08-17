@@ -21,7 +21,7 @@ There are three possible operating systems for laptops:
 * MacOS
 * ChromeOS
 
-Frist, I DO NOT recommend getting a ChromeOS laptop (aka chromebook). In my testing they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](operating-systems/chromeos/using-a-drawing-tablet-with-a-chromebook.md).
+Frist, I DO NOT recommend getting a ChromeOS laptop (aka chromebook). In my testing they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](operating-systems/chromeos/using-a-drawing-tablet-with-chromeos.md).
 
 This leaves Windows or MacOS as choices for your laptop.
 

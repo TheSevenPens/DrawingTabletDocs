@@ -27,10 +27,10 @@ Remember: Not all combinations work. And certain combinations work only partiall
 
 Tablets work with the built-in drivers in the Chromebooks not the manufacturer drivers. This means that **some features of your tablet and pen may not work with a Chromebook**.
 
-## Tablet buttons
+## Auxiliary inputs on the tablet
 
-* ChromeOS does support configuring buttons on your tablet.
-* CHromeOS does NOT support configuring dials on your tablet
+* ChromeOS may NOT support configuring buttons on your tablet.
+* ChromeOS may NOT support configuring dials on your tablet
 
 ## Pen tablets: distorted drawing due to mismatched aspect ratios
 

@@ -3,7 +3,7 @@
 {% hint style="info" %}
 More information:
 
-* [Connecting a drawing tablet to a ChromeOS device](using-a-drawing-tablet-with-a-chromebook.md)
+* [Connecting a drawing tablet to a ChromeOS device](using-a-drawing-tablet-with-chromeos.md)
 {% endhint %}
 
 ## **Testing**

@@ -10,4 +10,4 @@ Drawing tablets work **to some extent** with other kinds of devices. More here:
 
 * [**Using a drawing tablet with an iOS device**](ios-and-ipados/using-a-drawing-tablet-with-an-ipad-or-iphone.md)  &#x20;
 * [**Using a drawing tablet with an Android device**](android/using-a-drawing-tablet-with-an-android-device.md) &#x20;
-* [**Using drawing tablets with Chromebooks**](chromeos/using-a-drawing-tablet-with-a-chromebook.md) &#x20;
+* [**Using drawing tablets with Chromebooks**](chromeos/using-a-drawing-tablet-with-chromeos.md) &#x20;
