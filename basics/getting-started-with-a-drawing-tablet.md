@@ -67,6 +67,10 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
   * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first. Once everything is working, then try wireless.
 * Pen display - There are several options. See [**connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md)
 
+## Finding the Driver UI
+
+At some point you'll need to find the driver again after you have installed it. You MUST be familiar with how to do this. Here are the instructions: [**Finding the driver settings UI**](../guides/drivers/finding-the-driver-settings-ui.md).
+
 ## The NO SIGNAL problem with pen displays
 
 If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md)
