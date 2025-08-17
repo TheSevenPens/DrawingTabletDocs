@@ -4,16 +4,6 @@
 
 <mark style="color:red;">**I AM ACTIVELY TESTING THIS DEVICE.**</mark> So expect my notes to evolve, but here are some initial thoughts:
 
-"It's good. About the same power as the Samsung S9FE (I didn't do any benchmarks) but the drawing experience is classic the Wacom pro experience - best in industry. I still need to do more testing for parallax, diagonal wobble, etc.
-
-The UI defaults were a little confusing for me because I am used to a Samsung Galaxy Tab S series device. People tell me the Wacom is configured out-of-the-box more like a standard Android device so the confusion may be due to my history with Android.
-
-It has been released into the US, I ordered it from the Wacom estore just last week and it showed up a week later.
-
-Again, I need more time with it. And especially I am trying to compare it to the XP-Pen Magic Drawing Pad GEN2 which also recently released (kind of a stealth release).
-
-Also I would really be interested if Wacom released a larger version with a more powerful CPU and much more memory. This device seems to be optimized for sudden inspiration drawing on-the go. I wouldn't replace my drawing tablet + laptop with it - but instead use it as an addition."
-
 ## Basics
 
 Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)&#x20;
@@ -67,6 +57,14 @@ All core features work well
 * Pen tracking accuracy
 * Tilt compensation
 * Pressure sensitivity (see my notes on the pen)
+
+## Diagonal wobble
+
+TBD
+
+## Parallax
+
+TBD
 
 ## AG Sparkle
 
@@ -145,7 +143,10 @@ NO.&#x20;
 
 NO. (because it does not support DP-IN).
 
+## Similar devices in the same price range
 
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md))
+* Samsung Galaxy Tab S9FE
 
 
 
