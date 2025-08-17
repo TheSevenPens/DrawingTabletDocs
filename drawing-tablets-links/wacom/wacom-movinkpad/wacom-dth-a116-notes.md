@@ -133,6 +133,10 @@ Two features I haven't seen in other tablets&#x20;
 * The bottom of the tablet has 4 small rubber legs that raise the tablet off the desk very slightly
 * There is no camera "bump" on the back. The camera is there, but it does not stick out. It is flush with the back surface.
 
+## Expandable storage
+
+NONE. There is no  SD card slot for example.
+
 ## Use as pen display with your computer?
 
 NO.&#x20;
