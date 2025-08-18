@@ -11,9 +11,13 @@ Pen tablets stay at ambient room temperature. They do not get hot or even warm.
 Pen displays either stay at room temperature or get very slightly warm - maybe close to human body temperature.&#x20;
 
 * You may find that the amount of heat is correlated to the brightness setting.
-* You may find that the heat is localized in certain regions on the tablet. This is normal for pen displays.&#x20;
+* You may find that the heat is localized in certain regions on the tablet. This is normal for pen displays. You'll oven notice that the heat is near where the ports are.
 
 <mark style="color:red;">**If your pen display or its cabling gets very warm or hot. Disconnect it and contact support immediately.**</mark>
+
+## Cooling fans
+
+To manage heat a few displays have built-in cooling fans. Though this tends to be a feature found in certain Wacom pen displays.
 
 ## Pen computers
 
