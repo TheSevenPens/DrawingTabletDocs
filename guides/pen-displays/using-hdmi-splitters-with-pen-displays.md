@@ -70,21 +70,21 @@ Sometimes displays just don't like receiving a signal from an HDMI splitter and 
 
 ## Alternatives
 
-Your computer may have other ports you can use.
+This video explains explains the overall topic and explains your options: [https://www.youtube.com/watch?v=iKl\_3NYjlsY](https://www.youtube.com/watch?v=iKl_3NYjlsY)
 
-If you have a **DisplayPort** port available, you can buy a DisplayPort to HDMI adapter. I use these often.
+In summary:&#x20;
 
-If you have a **DVI** port, you may be able to find an adapter that works. I don't have any experience with this.
-
-If you have a **USB-C port THAT SUPPORTS A DISPLAY SIGNAL**, then you could buy a USB-C to- HDMI adapter. I have used one of these and found it to work, but it is flaky - working with some USB-C ports but not others.&#x20;
+* If you have a **DisplayPort** port available, you can buy a DisplayPort to HDMI adapter. I use these often.
+* If you have a **DVI** port, you may be able to find an adapter that works. I don't have any experience with this.
+* If you have a **USB-C port THAT SUPPORTS A DISPLAY SIGNAL**, then you could buy a USB-C to- HDMI adapter. I have used one of these and found it to work, but it is flaky - working with some USB-C ports but not others.&#x20;
 
 ## Input lag
 
 There are many threads on this, some linked below - and there isn't a clear consensus. Some claim that there is no additional lag, some claim it does. Overall I haven't noticed that splitters that I have personally used have introduce any lag into the signal.
 
 * Do HDMI Splitters add LAG to your games ??? [https://www.youtube.com/watch?v=N-4IGVKkWvs](https://www.youtube.com/watch?v=N-4IGVKkWvs)
-* [https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/](https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/)&#x20;
-* [https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/](https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/)
+* [https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/](https://www.reddit.com/r/pcmasterrace/comments/a015up/will_a_hdmi_switch_affect_my_fps/)&#x20;
+* [https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/](https://www.reddit.com/r/techsupport/comments/2pbbwj/do_hdmi_splittersswitchers_add_intput_lag_or/)
 
 
 
