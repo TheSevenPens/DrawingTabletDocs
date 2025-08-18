@@ -90,7 +90,7 @@ NO. Does NOT support DP-IN.
 
 ## Convenience features
 
-* If tablet is UNLOCKED and display has turned off, touching the tablet with the pen will trigger the screen to come back on. Just to be clear, the tablet has to be UNLOCKED for this to work. This is a nice feature which makes it easier to spontaneously use the device.
+* Quick activation of sketching with pen - If the tablet screen is OFF even if it is locked, you can configure so that touching the tablet with the pen will trigger the screen to come back on AND you'll be able to draw WITHOUT unlocking.&#x20;
 
 ## Driver
 
