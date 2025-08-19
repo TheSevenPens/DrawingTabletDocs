@@ -1,4 +1,4 @@
-# Wacom Intuos Pro 2017 (PTH-x60) notes
+# Wacom Intuos Pro (2017) (PTH-x60) notes
 
 ## Overview
 
@@ -7,6 +7,8 @@ The Wacom Intuos Pro 2017 (PTH-x60) series of tablets are still the best pen tab
 I have used both the large and medium sizes extensively and the small size a little bit.
 
 All three are highly recommended. I recommend the Medium size (PTH-660) size for most users. This reflects my standard guidance that medium-sized tablets are the best choice for the vast majority.
+
+The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It is still considered part of the Intuos Pro (2017) series.
 
 <table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-860</td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td>PTH-660</td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td>PTH-460</td><td>2019</td><td>Intuos Pro Small (2019)</td></tr></tbody></table>
 
