@@ -286,6 +286,7 @@
   * [TSG: pointer stuck in corner of screen](troubleshooting/tsg-pointer-stuck-in-corner-of-screen.md)
   * [TSG: Drawing problems](troubleshooting/tsg-drawing-problems.md)
   * [TSG: Pen display shows NO SIGNAL message](troubleshooting/troubleshoot-no-signal.md)
+  * [TSG: Pen display keeps flashing different colors every few seconds](troubleshooting/tsg-pen-display-keeps-flashing-different-colors-every-few-seconds.md)
   * [TSG: Pen moving pointer on the wrong display](troubleshooting/tsg-pen-moving-pointer-on-the-wrong-display.md)
   * [TSG: Pixel noise on display](troubleshooting/tsg-pixel-noise-on-display.md)
   * [TSG: No pressure while drawing](troubleshooting/tsg-no-pressure-while-drawing.md)
