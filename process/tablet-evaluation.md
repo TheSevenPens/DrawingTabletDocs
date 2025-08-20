@@ -167,3 +167,5 @@ Sound support
 Can you use the tablet as a pen display?&#x20;
 
 * If so how would you do that?
+
+<figure><img src="../.gitbook/assets/New Piskel-1.png.png" alt="" width="24"><figcaption></figcaption></figure>
