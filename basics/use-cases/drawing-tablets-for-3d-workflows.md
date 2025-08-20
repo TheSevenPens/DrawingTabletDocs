@@ -47,6 +47,10 @@ For example here is an example of what might need to be on screen
 
 <figure><img src="../../.gitbook/assets/iu (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/iu2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 For this reason, some suggest prioritizing resolution first before size.
 
 ## Notes
