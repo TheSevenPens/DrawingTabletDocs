@@ -49,3 +49,6 @@ For example here is an example of what might need to be on screen
 
 For this reason, some suggest prioritizing resolution first before size.
 
+## Notes
+
+Thanks to tablet enthusiast KoyoD for providing the guidance that this document is based on.
