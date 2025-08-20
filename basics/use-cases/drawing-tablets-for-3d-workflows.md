@@ -14,7 +14,7 @@ There are three considerations for 3D workflows
 
 * Whether to get a pen display or pen tablet (the most common answer is pen display)
 * What display resolution to get for the pen display
-* What size fpr the pen display
+* What size for the pen display
 
 ## Pen display vs pen tablet
 
