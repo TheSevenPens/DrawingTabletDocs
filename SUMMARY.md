@@ -124,6 +124,7 @@
     * [Nib wear](guides/caring-for-your-tablet/nib-wear.md)
     * [Replacing a pen](guides/caring-for-your-tablet/replacing-a-pen.md)
     * [Retrobright to handle yellowed plastic](guides/caring-for-your-tablet/retrobright-to-handle-yellowed-plastic.md)
+    * [Transporting your drawing tablet](guides/caring-for-your-tablet/transporting-your-drawing-tablet.md)
   * [Customizing your experience](guides/customizing-your-experience/README.md)
     * [Match aspect ratios with Force Proportions](guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md)
     * [Shrinking the active area](guides/customizing-your-experience/shrinking-the-active-area.md)

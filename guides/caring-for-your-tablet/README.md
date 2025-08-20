@@ -57,9 +57,13 @@ The surface of your tablet will be in contact with your pen, that contact and th
 
 There are options to protect the surface from damage. See: [**protective sheets**](../../accessory-links/surface-protectors/).
 
-## Protection during transport
+
+
+## Safely transporting tablets
 
 If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../accessory-links/protective-cases.md).
+
+See: [**Transporting your drawing tablet**](transporting-your-drawing-tablet.md) for more on this topic.
 
 ## Maintain your nibs
 
