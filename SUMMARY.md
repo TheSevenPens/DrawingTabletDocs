@@ -17,6 +17,7 @@
     * [Taking notes with drawing tablets](basics/use-cases/taking-notes-with-drawing-tablets.md)
     * [Whiteboarding with drawing tablets](basics/use-cases/whiteboarding-with-drawing-tablets.md)
     * [Using a drawing tablet as a mouse replacement](basics/use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
+    * [Drawing tablets for 3D workflows](basics/use-cases/drawing-tablets-for-3d-workflows.md)
   * [Contacting support](basics/contacting-support.md)
   * [Drawing tablets vs mice](basics/drawing-tablets-vs-mice.md)
   * [The drawing experience](basics/the-drawing-experience.md)
