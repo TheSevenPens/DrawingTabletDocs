@@ -143,6 +143,26 @@ NO.&#x20;
 
 NO. (because it does not support DP-IN).
 
+
+
+## Accessories
+
+The full list of accessories are here: [Wacom - What is the supported optional accessories can be use on Wacom MovinkPad 11?](https://support.wacom.com/hc/en-us/articles/33515643760151-What-is-the-supported-optional-accessories-can-be-use-on-Wacom-MovinkPad-11)&#x20;
+
+## Case
+
+The tablet does NOT come with a case.
+
+Wacom lists a compatible case which as of Aug 8 2025 has not been released: **Wacom MovinkPad 11 Case with Stand (ACK45533Z)**
+
+## Stand
+
+The tablet does NOT come with a stand.
+
+Wacom lists this stand as an accessory: **Wacom Foldable Stand (ACK652Z)**
+
+**Unfortunately,** there is some confusion because that stand is also described as the Movink 13 stand. So it's not clear wether this was accidentally listed as a MovinkPad accessory  or whether this stand will work for both devices.
+
 ## Similar devices in the same price range
 
 * XP-Pen Magic Drawing Pad 2025 (MDP1221) ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md))
