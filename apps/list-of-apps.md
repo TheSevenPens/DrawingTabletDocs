@@ -25,11 +25,15 @@
 * **Paint Tool Sai** (Windows) \[[**links**](../app-links/painttool-sai.md)]
 * **Painter** (Windows, MacOS) \[[**links**](../app-links/painter.md)]
 * **Paintstorm Studio** (Windows, macOS, iOS, Linux) \[[**links**](../app-links/paintstorm-studio.md)]
-* **Piskel** (Web) \[[https://piskelapp.com](https://piskelapp.com/)]
-* **PixiEditor** (Windows, MacOS, Linux) \[[**links**](../app-links/pixieditor.md)]
-* **pixilart** (web) \[[https://www.pixilart.com/](https://www.pixilart.com/)]
 * **Procreate** (iOS) \[[**links**](../app-links/procreate/)]
 * **Rebelle** (Windows, MacOS) \[[**links**](../app-links/rebelle.md)]
+
+## Sprites and pixel art
+
+* **DPaint-js** ([https://www.stef.be/dpaint/](https://www.stef.be/dpaint/)) <mark style="background-color:purple;">**FREE**</mark>
+* **Piskel** (Web) \[[https://piskelapp.com](https://piskelapp.com/)] <mark style="background-color:purple;">**FREE**</mark>
+* **PixiEditor** (Windows, MacOS, Linux) \[[**links**](../app-links/pixieditor.md)]
+* **pixilart** (web) \[[https://www.pixilart.com/](https://www.pixilart.com/)]
 
 ## Sketching
 
