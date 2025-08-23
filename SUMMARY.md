@@ -89,6 +89,7 @@
       * [Adjusting pressure curve in tablet driver](core-features/pen-pressure/pen-pressure-curve/adjusting-pressure-curve-in-tablet-driver.md)
     * [Disabling pen pressure](core-features/pen-pressure/disable-pen-pressure.md)
     * [Tilt affects pressure](core-features/pen-pressure/tilt-affects-pressure.md)
+    * [Lowering the initial activation force (IAF)](core-features/pen-pressure/lowering-the-initial-activation-force-iaf.md)
   * [Pen hover](core-features/pen-hover.md)
   * [Hover jitter](core-features/hover-jitter.md)
   * [Pen tracking](core-features/pen-tracking.md)
