@@ -2,16 +2,14 @@
 
 ## Overview
 
-You can bind your auxiliary inputs to different actions actions. Below you'll find some very popular bindings people use with specific types of auxiliary inputs.&#x20;
+You can bind your auxiliary inputs to different actions actions. Below you'll find some very popular bindings people use with specific types of auxiliary inputs such as buttons and dials. Learn more about auxiliary inputs here: [**Auxiliary inputs**](expresskeys.md).
 
-Learn more about auxiliary inputs here: [Auxiliary inputs](expresskeys.md)&#x20;
-
-### Common bindings for buttons
+## Common bindings for buttons
 
 * Undo | Redo
 * Zoom In | Out | to 100% | Zoom to Fit
 * Increase | Decrease brush size
-* Increase | Decrease burhs opacity
+* Increase | Decrease brush opacity
 * Rotate Left | Right | Reset to 0 degrees
 * Switch between tools (brush, eyedropper, etc.)
 * Select All | None | Invert | Lasso selection | color similarity selection
@@ -20,7 +18,7 @@ Learn more about auxiliary inputs here: [Auxiliary inputs](expresskeys.md)&#x20;
 * Precision mode
 * Pan/Scroll
 
-### Common bindings for rotary dials
+## Common bindings for dials
 
 These are great for "paired" tasks
 
