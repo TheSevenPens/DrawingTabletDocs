@@ -2,7 +2,7 @@
 
 ## Overview
 
-I don't own these devices, but I think they are good  choices to investigate if you're looking for a windows laptop that can work like a drawing tablet.
+These laptops are good  choices to investigate if you're looking for a windows laptop that can work like a drawing tablet.
 
 The Galaxy book 360 brings these key attributes to the discussion:
 

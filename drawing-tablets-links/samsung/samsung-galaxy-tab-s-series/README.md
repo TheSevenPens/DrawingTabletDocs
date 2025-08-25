@@ -3,9 +3,9 @@
 ## Overview
 
 * [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](samsung-galaxy-tab-s.md)
-* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
-* [<mark style="background-color:green;">**7P notes: Apple iPad versus Samsung Galaxy Tab S**</mark>](../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
-* [**Apps for Android**](../../apps/apps-for-android.md)
+* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
+* [<mark style="background-color:green;">**7P notes: Apple iPad versus Samsung Galaxy Tab S**</mark>](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**Apps for Android**](../../../apps/apps-for-android.md)
 
 ## Samsung Galaxy Tab S10
 
@@ -78,7 +78,7 @@
 
 ### S6 Lite (2022 edition)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](samsung-galaxy-tab-s6-lite-2022-edition.md)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](samsung-galaxy-tab-s6-lite-2022-edition-notes.md)&#x20;
 * [Teoh on Tech review of Samsung Tab S6 Lite 2022](https://youtu.be/mbdu6ID93xA) Nov 26, 2022
 * [Brad Colbow: Review of Samsung Galaxy Tab S6 Lite (2022 Edition)](https://youtu.be/YTzQRP5G1aw) Jun 28, 2022
 * [EyekooDrawsStuff: Affordable iPad alternative for drawing beginners - Galaxy Tab S6 Lite](https://www.youtube.com/watch?v=l6WwSRp63Zs) Nov 2, 2022

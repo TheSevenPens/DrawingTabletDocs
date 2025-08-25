@@ -1,4 +1,4 @@
-# Samsung Galaxy Tab S9 FE
+# Samsung Galaxy Tab S9 FE notes
 
 {% hint style="info" %}
 These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-galaxy-tab-s.md).
@@ -18,14 +18,14 @@ It's just an all around good device.
 
 ## Included pen
 
-* Samsung S Pen ([<mark style="background-color:$success;">**my notes on the S Pen**</mark>](../../pen-links/samsung-s-pen/samsung-s-pen-notes.md))
+* Samsung S Pen ([<mark style="background-color:$success;">**my notes on the S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md))
 * This is an OK pen. Not great as EMR pens go in terms of pressure range, but it is enough for basic drawing drawing tasks.
 
 ## Compatible pens
 
 * Samsung S pen
-* [UD EMR Pens 2nd gen](../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md) &#x20;
+* [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md) &#x20;
 
 ## Diagonal wobble
 
-<figure><img src="../../.gitbook/assets/Samsung Galaxy Tab S9FE 2024_10_30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Samsung Galaxy Tab S9FE 2024_10_30.png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# Samsung Galaxy Tab S series
+# Samsung Galaxy Tab S series notes
 
 ## Overview
 
@@ -7,9 +7,9 @@ The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can p
 ## Models I own
 
 * Samsung Galaxy Tab S8 Ultra&#x20;
-  * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](samsung-galaxy-tab-s8-ultra.md))
+  * RECOMMENDED. High performance. Great display. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](samsung-galaxy-tab-s8-ultra-notes.md))
 * Samsung Galaxy Tab S9 FE&#x20;
-  * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](samsung-galaxy-tab-s9-fe.md))
+  * HIGHLY RECOMMENDED. Great value at reasonable cost. ([<mark style="background-color:green;">**my notes on this tablet**</mark>](samsung-galaxy-tab-s9-fe-notes.md))
 * Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition)&#x20;
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
 
@@ -24,18 +24,18 @@ Size has a huge impact on how the tablet feels to use especially with the 16X9 a
 
 ## Included pen
 
-Samsung Galaxy Tab S devices come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)
+Samsung Galaxy Tab S devices come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Compatible pens
 
 These tablets are also compatible with a few the second generation of UD EMR pens&#x20;
 
-More here: [UD EMR Pens 2nd gen](../../technology/wacom-ud-emr/tablets-that-support-ud-emr-2nd-gen.md)
+More here: [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/tablets-that-support-ud-emr-2nd-gen.md)
 
 Specific examples of compatible pens are:
 
-* Wacom One pen (CP-913) - Some people prefer to use the CP-913 with Samsung Tablets instead of the S pen. [<mark style="background-color:green;">**My notes on the CP-913**</mark>](../../pen-links/wacom-pens/7p-wacom-cp-913.md)
-* Wacom One Pen (CP-923) - This pen is trash. Avoid it. [<mark style="background-color:green;">**my notes on CP-923**</mark>](../../pen-links/wacom-pens/wacom-cp-923.md)&#x20;
+* Wacom One pen (CP-913) - Some people prefer to use the CP-913 with Samsung Tablets instead of the S pen. [<mark style="background-color:green;">**My notes on the CP-913**</mark>](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
+* Wacom One Pen (CP-923) - This pen is trash. Avoid it. [<mark style="background-color:green;">**my notes on CP-923**</mark>](../../../pen-links/wacom-pens/wacom-cp-923.md)&#x20;
 
 ## Pointer lag
 
@@ -52,13 +52,13 @@ All three exhibit very low pointer lag. A bit more than the apply pencil, but le
 
 As for software here are the apps I use with it. Stars indicate the apps I use most often with a Samsung Tab S device.
 
-* [Clip Studio Paint ](../../app-links/clip-studio-paint/)
-* [HiPaint](../../app-links/hipaint.md) (works very similar to Procreate on iPads)  ⭐
-* [Infinite Painter ](../../app-links/infinite-painter.md)(works similar to Procreate on iPads) ⭐
-* [Concepts app](../../app-links/infinite-painter.md)&#x20;
-* [IbisPaint X](../../app-links/ibis-paint.md)
+* [Clip Studio Paint ](../../../app-links/clip-studio-paint/)
+* [HiPaint](../../../app-links/hipaint.md) (works very similar to Procreate on iPads)  ⭐
+* [Infinite Painter ](../../../app-links/infinite-painter.md)(works similar to Procreate on iPads) ⭐
+* [Concepts app](../../../app-links/infinite-painter.md)&#x20;
+* [IbisPaint X](../../../app-links/ibis-paint.md)
 
-More here: [**Applications**](../../apps/)&#x20;
+More here: [**Applications**](../../../apps/)&#x20;
 
 ## Something similar procreate
 
@@ -66,11 +66,11 @@ A common question from people considering the Samsung Galaxy tab series is wheth
 
 Procreate is iPad-only.
 
-The closes you can come to Procreate on a Samsung device is [HiPaint](../../app-links/hipaint.md).&#x20;
+The closes you can come to Procreate on a Samsung device is [HiPaint](../../../app-links/hipaint.md).&#x20;
 
 ## Versus the Apple iPad
 
-You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [**Apple iPad versus Samsung Galaxy Tab S**](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Using a Galaxy Tab S tablet as an external monitor via USB-C
 

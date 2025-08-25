@@ -7,7 +7,7 @@ If you're primarily interested in drawing or notetaking I think pen-enabled mobi
 For years, we've had two two real options in this space are:
 
 * Apple iPads + the Apple Pencil - [<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../drawing-tablets-links/apple/apple-ipad-1.md)
-* Samsung Galaxy Tab S devices - [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../drawing-tablets-links/samsung/samsung-galaxy-tab-s.md) &#x20;
+* Samsung Galaxy Tab S devices - [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s.md) &#x20;
 
 In 2025, new options became available:
 
@@ -55,9 +55,9 @@ For applications that run on Android see this list: [**Apps for Android**](../ap
 * [**Samsung Galaxy Tab S6 Lite (2022 version or 2024 version)**](../drawing-tablets-links/samsung/samsung-galaxy-tab-s6.md) ($240) is a good a low-cost option for beginners. &#x20;
   * There is a 2020 version. Avoid it.&#x20;
 
-[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../drawing-tablets-links/samsung/samsung-galaxy-tab-s.md) &#x20;
+[<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s.md) &#x20;
 
-[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../drawing-tablets-links/samsung/samsung-galaxy-tab-s8-ultra.md)&#x20;
+[<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s8-ultra-notes.md)&#x20;
 
 ## Samsung Galaxy Tab A Series
 

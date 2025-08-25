@@ -1,4 +1,4 @@
-# Samsung Galaxy Tab S6 lite (2022 edition)
+# Samsung Galaxy Tab S6 lite (2022 edition) notes
 
 ## Overview
 
@@ -12,4 +12,4 @@ These are my notes for this specific tablet. You may also be interested in [my n
 
 ## **Diagonal Wobble**
 
-<figure><img src="../../.gitbook/assets/Samsung Galaxy Tab S6 lite (2022 edition) 2025_05_07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Samsung Galaxy Tab S6 lite (2022 edition) 2025_05_07.png" alt=""><figcaption></figcaption></figure>
