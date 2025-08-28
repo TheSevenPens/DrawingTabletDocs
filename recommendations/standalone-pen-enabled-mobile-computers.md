@@ -73,10 +73,8 @@ Of the current generation of standalone drawing tablets. This is the best in ter
 
 XP-Pen has released two versions of the drawing pad
 
-* XP-Pen Magic Drawing Pad (GEN1) - I don't have any experience with this tablet.
-* XP-Pen Magic Drawing Pad (GEN2) - I have this tablet and like it. [<mark style="background-color:green;">**my notes on this tablet**</mark>](../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)&#x20;
-
-
+* XP-Pen Magic Drawing Pad (2024) - I don't have any experience with this tablet.
+* XP-Pen Magic Drawing Pad (2025) - I have this tablet and like like it overall despite flaws in its tilt support. [<mark style="background-color:green;">**my notes on this tablet**</mark> ](../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
 
 ## Huion Slate and XP-Pen
 
