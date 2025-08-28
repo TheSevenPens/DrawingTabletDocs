@@ -173,6 +173,23 @@ The right 1/3 of the tablet got slightly  warm - most of that was closer to the 
 
 This tablet does not have any audio features and does not have a headphone jack.
 
+
+
+## Auxiliary inputs&#x20;
+
+The tablet has:
+
+* 2 dials
+* 5 buttons
+
+### Protcting the dials
+
+The dials stick out a little bit from the edge of the tablet. Be aware of this when storing or transporting the tablet. I recommend avoiding having anything pressing constantly on the dials. And certainly don't store the tablet with the dials on the bottom. I don't if the dials are so fragile that they need so much protection, but I think it is wise to be careful.
+
+### Dial issues
+
+* **Dials** As of July 2025, that some people report that the dials have stopped working. I don't think this is a super common issue but it is an issue I see reported with a little more frequency than I would expect. I have not personally experienced any problems with the dials. It is unclear what might be the cause of the  problem.
+
 ## Compared to the Kamvas 13 (GS1331) and the Kamvas Pro 13 2.5K (GT1302)
 
 **Summary**
@@ -215,6 +232,3 @@ If you want that higher resolution of the GT1302, then wait until Huion releases
   * Kamvas 13 (GS1331) - Full HD (1920x1080)
   * Kamvas Pro 13 2.5K (GT1302) - 2.5K (2560x1440)
 
-## Known issues
-
-* Buttons/Dials As of July 2025, that some people report that the buttons/dials have stopped working. I don't think this is a super common issue but it is an issue I see reported with a little more frequency than I would expect.
