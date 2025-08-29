@@ -4,6 +4,8 @@
 
 I don't normally recommend the Surface Pro 7 because it's drawing experience is not great. For some people it might work well enough though.
 
+For example, it might serve well enough as a general laptop with occasional pen use, for note taking, marking up documents, whiteboarding. But for creative tasks it's not what I would recommend.
+
 ## Details
 
 The pen experience with Surface Pro 7 is not great. The it can exhibit some noticable diagonal wobble. It experience got a lot better with the Surface Pro 8 with the newer Surface Slim Pen 2 (but is still not as good as a normal drawing tablet).
