@@ -34,7 +34,7 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 ## Microsoft Surface Pro 8
 
 * Product page: [https://www.microsoft.com/en-us/d/surface-pro-8](https://www.microsoft.com/en-us/d/surface-pro-8)&#x20;
-* [<mark style="background-color:green;">**7P: Microsoft Surface Pro 8**</mark>](microsoft-surface-pro-8-notes.md)
+* [<mark style="background-color:green;">**My notes on the Microsoft Surface Pro 8**</mark>](microsoft-surface-pro-8-notes.md)
 * [MobileTechReview review of Microsoft Surface Pro 8](https://youtu.be/v2mOtMiGN7s)&#x20;
 * [Brad Colbow review of Surface Pro 8](https://youtu.be/OG-y1NlRp3g) &#x20;
 * [Tech on Tech review of Microsoft Surface Pro 8](https://youtu.be/wNtmOONAyxk)&#x20;
@@ -44,8 +44,7 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 
 ## Microsoft Surface Pro 7
 
-<mark style="color:red;">NOTE: I do</mark> <mark style="color:red;"></mark><mark style="color:red;">**NOT**</mark> <mark style="color:red;"></mark><mark style="color:red;">recommend the Microsoft Surface Pro 7 for use as a drawing tablet.</mark>
-
+* [<mark style="background-color:$success;">**My notes on the Microsoft Surface Pro 7**</mark>](microsoft-surface-pro-7-notes.md)
 * [Brad Colbow Surface Pro 7 Review](https://www.youtube.com/watch?v=3r4ykYCYDIM) 2019/10/28
 * [MobileTechReview review of Surface Pro 7](https://www.youtube.com/watch?v=3YT87jwNoaA) 2019/10/30&#x20;
 * [Tablet Pro - Microsoft Surface Pro 7](https://www.youtube.com/watch?v=bMnzsg0SSe4) artists hands on first look 2019/10/02&#x20;

@@ -400,6 +400,7 @@
   * [Microsoft](drawing-tablets-links/microsoft/README.md)
     * [Microsoft Surface Pro](drawing-tablets-links/microsoft/microsoft-surface-pro-9/README.md)
       * [Microsoft Surface Pro 8 notes](drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
+      * [Microsoft Surface Pro 7 notes](drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-7-notes.md)
   * [OnePlus](drawing-tablets-links/oneplus/README.md)
     * [OnePlus Pad](drawing-tablets-links/oneplus/oneplus-pad.md)
   * [Samsung](drawing-tablets-links/samsung/README.md)
