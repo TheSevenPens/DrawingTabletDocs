@@ -91,14 +91,11 @@ With a felt nib
 
 ## **Pens**
 
-**More here:** [**Xencelabs V2 pens**](../../pen-links/xencelabs-pens/xencelabs-v2-pens-notes.md)&#x20;
+For more information about these pens: [<mark style="background-color:green;">**my notes on the Xencelabs V2 pens**</mark>](../../pen-links/xencelabs-pens/xencelabs-v2-pens-notes.md)&#x20;
 
-### Pressure range
+## Pressure range
 
-These have a nice pressure range:
-
-* IAF: 3gf Xencelabs specifies 3gf. That felt accurate. Typical for a non-Wacom pen and low enough for me. Wacom Pro Pen 2 min pressure is <1gf.&#x20;
-* MAX pressure: 500gf&#x20;
+For more information about these pens: [<mark style="background-color:green;">**my notes on the Xencelabs V2 pens**</mark>](../../pen-links/xencelabs-pens/xencelabs-v2-pens-notes.md)&#x20;
 
 ## Pressure Transition
 
