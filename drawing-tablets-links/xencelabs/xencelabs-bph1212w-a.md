@@ -1,12 +1,12 @@
-# 7P notes: Xencelabs Pen Tablet Medium (BPH1212W-A)
+# Xencelabs Pen Tablet Medium (BPH1212W-A) notes
 
-**Summary**
+## **Summary**
 
 Had a good experience with this tablet after using for six months.
 
 It's in the same price range as Wacom.
 
-**Build quality**&#x20;
+## **Build quality**&#x20;
 
 Rating: very good.&#x20;
 

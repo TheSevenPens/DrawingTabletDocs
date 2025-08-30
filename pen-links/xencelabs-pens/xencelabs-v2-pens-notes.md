@@ -2,53 +2,47 @@
 
 ## Summary
 
-These are good performing pens with a wide pressure range.
+\`These are good performing pens with a good pressure range.
 
-Models
+## Models
 
 * 3 Button Pen + Eraser v2 (XMCPH35)
 * Thin Pen + Eraser v2 (XMCPH36)
 
-### **Min pressure (IAF)**
+## Compatibility
 
-Rating: TYPICAL. Xencelabs specifies 3gf. That felt accurate. Typical for a non-Wacom pen and low enough for me. Wacom Pro Pen 2 min pressure is <1gf.&#x20;
+* These V2 pens do not work with the earlier Xencelabs pen tablet model (BPH1212W-A) that came with the V1 pens
 
-### **Max pressure**
+## Appearance
 
-Rating: VERY GOOD
+* These V2 pens are sightly different than the previous V1 pens. The thing that visually distinguishes them the most is a small yellow Xencelabs logo near the eraser. This is a nice branding touch, I wish other tablet manufacturers followed this pattern.
 
-Xencelabs has indicated their max pressure should be 500gf. And I found that to be accurate. There is some variation - the Thin pen had an even wider pressure range than Xencelabs claimed (which is good).
+<figure><img src="../../.gitbook/assets/20250412_223844 (Large).jpg" alt=""><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
-* 3 Button Pen + Eraser v2 (XMCPH35) -> my unit measured at 500gf
-* Thin Pen + Eraser v2 (XMCPH36) -> my unit measured at 600gf
+<figure><img src="../../.gitbook/assets/20250412_223901 (Large).jpg" alt="" width="375"><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
-In comparison
+## **Min pressure (IAF)**
 
-* Wacom Pro Pen 2 has higher max pressure at 800gf.
-* Huion's PW600 and P600S pens have a comparable max pressure of 500gf.
-* XP-Pen X3 Pro pen has a comparable max pressure of 400gf.
+Rating: GOOD. 3gf in my testing.
 
-Pressure response
+## **Max pressure**
 
-### Pressure response
+Rating: GOOD to VERY GOOD
 
-3-button pen V2
+Xencelabs has indicated their max pressure should be 500gf. My measurements found the units to range within 350gf to 500gf.
 
-9gf -> 18%
+## Min/Max physical pressure measurements
 
-54 -> 30%
+| BRAND     | PEN       | INVENTORY | MINPHYSICAL | MAXPHYSICAL |
+| --------- | --------- | --------- | ----------- | ----------- |
+| XENCELABS | 3BUTTONV2 | XEP.0002  | 2.9 gf      | 351.8 gf    |
+| XENCELABS | 3BUTTONV2 | XEP.0005  | 2.4 gf      | 349.2 gf    |
+| XENCELABS | 3BUTTONV2 | XEP.0007  | 3.0 gf      | 456.9 gf    |
+| XENCELABS | THINV2    | XEP.0004  | 2.6 gf      | 458.7 gf    |
+| XENCELABS | THINV2    | XEP.0006  | 2.3 gf      | 463.4 gf    |
+| XENCELABS | THINV2    | XEP.0008  | 3.1 gf      | 484.6 gf    |
 
-130 -> 50%
+## Pressure response charts
 
-245 -> 75%
-
-290 -> 80%
-
-360 -> 90%
-
-400 -> 95%
-
-500 -> 100%
-
-
+<figure><img src="../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
 
