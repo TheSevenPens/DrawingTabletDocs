@@ -141,6 +141,7 @@
     * [Calibrate pen position on a pen display](guides/customizing-your-experience/calibrate-pen-position-on-a-pen-display.md)
     * [Using a pen display as a monitor](guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md)
     * [Controlling the pen tip behavior](guides/customizing-your-experience/controlling-the-pen-tip-behavior.md)
+    * [Precision mode](guides/customizing-your-experience/precision-mode.md)
   * [Connections and cabling](guides/connections-and-cabling/README.md)
     * [Connecting a pen display with a 3-in-1 cable](guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)
     * [Connecting a pen tablet to a computer](guides/connections-and-cabling/connecting-a-pen-tablet-to-a-computer.md)

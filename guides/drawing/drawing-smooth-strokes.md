@@ -64,11 +64,9 @@ Occasionally some people enable mouse mode in their tablet driver. Mouse mode us
 
 Use zoom to your advantage. The stroke is affected several things which are physical in nature. For example, a diagonal wobble may introduce a 1mm wobble as your draw. If you are drawing with your canvas zoomed out then 1mm accounts for a lot of pixels. If you zoom in more then the 1mm accounts for fewer pixels of wobble. So you can really minimize some effects my zooming in as much as possible for your stroke. This minimizes the effect of those disturbances and also forces you to draw with a longer stroke which itself will minimize errors.
 
-## Use your tablet driver's precision mode
+## Use your tablet precision mode
 
-Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. When precision mode is engaged, your entire tablet active area is mapped to a small region of the desktop. This means you have to make very large physical gestures on the tablet to create smaller strokes on your displays. That has the effect of making it easier to smoother strokes.
-
-* [Wacom - How to use the Wacom's Precision Mode](https://www.youtube.com/watch?v=FzhQcPQaDWs) 2024/11/14
+Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [**Precision mode**](../customizing-your-experience/precision-mode.md)
 
 ## Application brush smoothing
 
