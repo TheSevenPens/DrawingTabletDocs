@@ -1,4 +1,4 @@
-# Huion Inspiroy Giano (G930L)
+# Huion Inspiroy Giano (G930L) notes
 
 ## **Summary**
 
@@ -15,7 +15,9 @@ Its competitor is the Wacom Intuos Pro Large (PTH-860), and the Giano has some i
 
 This tablet comes with the Huion PW517 pen.&#x20;
 
-For an improved drawing experience, consider buying the PW550 pen which is compatible with it. The PW550 should give it better pressure handling - which would then put it in my "top picks" category. More here explaining why it is better than the PW517: [**7P notes: Huion PW550 series pens**](../../../pen-links/huion-pen-models/7p-huion-pw550.md)
+Consider upgrading the pen
+
+For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](../../../pen-links/huion-pen-models/upgrading-from-huion-pw517-to-huion-pw550-pens.md).
 
 ## **Surface texture**
 
