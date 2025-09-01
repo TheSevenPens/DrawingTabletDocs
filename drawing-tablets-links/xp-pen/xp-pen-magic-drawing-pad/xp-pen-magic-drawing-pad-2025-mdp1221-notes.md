@@ -46,9 +46,7 @@ Unfortunately the 2025 does not appear in the name of the tablet in online store
 
 ## Purchasing tip
 
-In online stores you may see BOTH the 2024 and 2025 editions shown under the name "Magic Drawing Pad".
-
-So make sure you verify the model number of the tablet you are purchasing. The 2025 model number is MDP1221 &#x20;
+In online stores you may see BOTH the 2024 and 2025 editions shown under the name "Magic Drawing Pad". So make sure you verify the model number of the tablet you are purchasing. The 2025 model number is MDP1221 &#x20;
 
 ## Compared to the Magic Note Pad  (MNP1095)
 
