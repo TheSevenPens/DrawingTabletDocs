@@ -50,3 +50,9 @@ In online stores you may see BOTH the 2024 and 2025 editions shown under the nam
 
 So make sure you verify the model number of the tablet you are purchasing. The 2025 model number is MDP1221 &#x20;
 
+## Compared to the Magic Note Pad  (MNP1095)
+
+* Size for reading - If you want to hold it for reading with one hand - the MNP is better due to its smaller size.
+* Size for drawing - I prefer the MDP somewhat more with its larger size.
+* Both support tilt. But for both currently tilt is very badly implemented. I hope a firmware update may help. Honestly until the tilt is improved, if you are going to draw I suggest that you make sure any brushes have their tilt sensitivity disabled.
+* Drawing experience - no difference in my opinion. Drawing works fine, except for tilt
