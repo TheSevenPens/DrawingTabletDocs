@@ -2,15 +2,15 @@
 
 ## Introduction
 
-FORCE PROPORTIONS some I recommend you enable if you are using a pen tablet (screenless tablet). It solves a very weird problem that is very common for these kinds of tablets. Once you enable it, it will make it easier and more natural to draw.
+I STRONGLY recommend that you enable the FORCE PROPORTIONS setting if you are using a pen tablet (screenless tablet). It solves a very common problem for these kinds of tablets. Once you enable Force Proportions, you will find it easier and more natural to draw.
 
 {% hint style="info" %}
-**Force Proportions** what Wacom calls it in their tablet driver, but other tablet brands use different names. I'll use Wacom's name for it in this document. And this document will show you how to fix it for many tablet brands.
+**"Force Proportions"** is Wacom term. Other tablet brands use different names such as "Screen ratio" or "Proportion". I'll use Wacom's name for it in this document. This document will show you how to enable the setting for non-Wacom tablet brands.
 {% endhint %}
 
 ## The problem&#x20;
 
-If the aspect ratio of your pen tablet's active area does not match your monitor's aspect ratio. You will see distortion. For example, if you trace out a circle on the pen tablet, you will have traced out an oval on the screen. This distortion events every movement of your pen on the tablet. Drawing this way feels VERY WEIRD and messes with your mind.  **Don't worry!** You can **EASILY** correct this with FORCE PROPORTIONS.&#x20;
+If the aspect ratio of your pen tablet's active area does not match your monitor's aspect ratio. You will see distortion. For example, if you trace out a circle on the pen tablet, you will have traced out an oval on the screen. This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD and messes with your mind.  **Don't worry!** You can **EASILY** correct this with FORCE PROPORTIONS.&#x20;
 
 <div align="left"><figure><img src="../../.gitbook/assets/Slide6 (1).JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
