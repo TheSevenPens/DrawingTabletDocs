@@ -47,7 +47,9 @@ This is another case where on a normal computer, the tablet drivers can address 
 
 Because there is no manufacturer driver on an android device, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
 
-ChromeOS does have some limited support for configuring buttons on the tablet, so in the future I hope we see this feature brought to Android.
+As a WORKAROUND, some people have used the KeyMapper app on the  to map the buttons and dials: see [r/huion - How to set up buttons and pen with phone](https://www.reddit.com/r/huion/comments/1mzhx0c/how_to_set_up_buttons_and_pen_with_phone/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button). I have not personally tested this, but it is worth exploring.
+
+ChromeOS does have some limited support for configuring buttons on the tablet, so in the future I hope we see this feature brought into Android.\\
 
 ### Buttons on the pen
 
