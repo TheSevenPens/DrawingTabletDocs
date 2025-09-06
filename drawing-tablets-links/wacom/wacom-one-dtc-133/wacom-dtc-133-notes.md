@@ -53,11 +53,19 @@ Based on what I have seen with user feedback on this tablet over the years, the 
 
 This has an AVHA display panel, not IPS. The colors are a little washed out and viewing angles are not great as other oen displays
 
-### **Pen**
+### **Included Pen**
 
-The supplied Wacom One GEN1 pen (CP-913) is a decent pen. It's not as good as what you would find with the Pro Pen 2. It is comparable to the Samsung S pen in terms of IAF and pressure range.
+The supplied Wacom One GEN1 pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [**notes on Wacom One Pen (CP-913)**](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)&#x20;
 
-Much more here: [**7P notes: Wacom One Pen GEN1 (CP-913)**](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)&#x20;
+### Compatible pens
+
+Besides the Wacom CP-913, the Wacom One GEN1 (DTC-133) tablet is compatible with 2nd gen UD EMR pens.
+
+* Official Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
+* [Pens that support UD EMR 2nd gen](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
+* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
+* r/Wacom  - [https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022/01/13
 
 ### Legs
 
@@ -67,14 +75,7 @@ This tablet has two legs on the back that can place the tablet at an angle more 
 
 This tablet does not have any VESA mounting holes.
 
-### Compatible pens
-
-Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is compatible with other pens not made by Wacom. &#x20;
-
-* Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
-* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
-* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
-* r/Wacom  - [https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022/01/13
+###
 
 ### Wacom X-Shape cable for Wacom One DTC-133
 
