@@ -5,7 +5,7 @@
 Anti-glare sparkle is a side-effect of the anti-glare treatment applied to your pen display. How much AG sparkle is visible depends on a lot of factors. Generally, people want very low amounts of AG sparkle.
 
 {% hint style="info" %}
-If you are looking into removing or reducing the amount of AG sparkle go here [**Reducing Anti-glare sparkle**](anti-glare-sparkle-1.md)
+If you are looking into removing or reducing the amount of AG sparkle go here [**Reducing Anti-glare sparkle**](reducing-anti-glare-sparkle.md)
 {% endhint %}
 
 ## Companion video&#x20;
