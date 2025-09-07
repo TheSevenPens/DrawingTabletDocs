@@ -38,7 +38,7 @@ For a pen display (screen tablet) there is of course another component - the scr
 
 ## NO SIGNAL for pen displays
 
-Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](troubleshoot-no-signal.md).&#x20;
+Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](tsg-no-signal.md).&#x20;
 
 ## Basic troubleshooting&#x20;
 

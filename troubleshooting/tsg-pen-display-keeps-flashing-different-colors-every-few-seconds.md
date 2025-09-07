@@ -2,7 +2,7 @@
 
 ## Overview
 
-If your pen display is showing flashing colors every few seconds, it means ultimately that it is not getting a video signal. This is a different visual effect for the "NO SIGNAL" problem. See: [TSG: Pen display shows NO SIGNAL message](troubleshoot-no-signal.md)
+If your pen display is showing flashing colors every few seconds, it means ultimately that it is not getting a video signal. This is a different visual effect for the "NO SIGNAL" problem. See: [TSG: Pen display shows NO SIGNAL message](tsg-no-signal.md)
 
 ## Symptoms
 

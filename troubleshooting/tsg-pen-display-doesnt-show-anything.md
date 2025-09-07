@@ -2,7 +2,7 @@
 
 ## **NO SIGNAL**
 
-If you turn on your pen display and see a NO SIGNAL message, then this is a difference kind of problem. Instead go here: [**Troubleshoot the NO SIGNAL problem**](troubleshoot-no-signal.md)&#x20;
+If you turn on your pen display and see a NO SIGNAL message, then this is a difference kind of problem. Instead go here: [**Troubleshoot the NO SIGNAL problem**](tsg-no-signal.md)&#x20;
 
 ## Ensure your computer actually detects the display
 

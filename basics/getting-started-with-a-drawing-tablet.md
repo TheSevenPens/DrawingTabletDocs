@@ -73,7 +73,7 @@ At some point you'll need to find the driver again after you have installed it. 
 
 ## The NO SIGNAL problem with pen displays
 
-If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/troubleshoot-no-signal.md)
+If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**Troubleshoot the NO SIGNAL problem**](../troubleshooting/tsg-no-signal.md)
 
 ## How the pen & tablet work with the computer
 

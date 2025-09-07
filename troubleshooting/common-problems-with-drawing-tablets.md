@@ -11,6 +11,6 @@
 **Problems unique to pen displays**
 
 * The pen display doesn't show anything.
-* [**The pen display shows a NO SIGNAL message**](troubleshoot-no-signal.md).&#x20;
+* [**The pen display shows a NO SIGNAL message**](tsg-no-signal.md).&#x20;
 
 I have put together a list of troubleshooting articles to help with these problems and many others. More here [**troubleshooting**](./)&#x20;
