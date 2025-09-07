@@ -166,6 +166,7 @@
     * [Etched glass](guides/pen-displays/etched-glass.md)
     * [Anti-glare film](guides/pen-displays/anti-glare-film.md)
     * [Anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md)
+    * [Reducing Anti-glare sparkle](guides/pen-displays/anti-glare-sparkle-1.md)
     * [Lamination](guides/pen-displays/lamination.md)
     * [Display resolution](guides/pen-displays/display-resolution.md)
     * [Choosing the right display resolution for a pen display](guides/pen-displays/choosing-the-right-display-resolution-for-a-pen-display.md)

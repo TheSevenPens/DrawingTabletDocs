@@ -1,14 +1,18 @@
 # Anti-glare sparkle
 
+## Overview
+
+Anti-glare sparkle is a side-effect of the anti-glare treatment applied to your pen display. How much AG sparkle is visible depends on a lot of factors. Generally, people want very low amounts of AG sparkle.
+
+{% hint style="info" %}
+If you are looking into removing or reducing the amount of AG sparkle go here Reducing Anti-glare sparkle
+{% endhint %}
+
 ## Companion video&#x20;
 
 Because this is a visible phenomenon, watching the video I made on this topic may be a good starting point.  [https://youtu.be/g\_nsvraK3P8](https://youtu.be/g_nsvraK3P8)
 
 {% embed url="https://youtu.be/g_nsvraK3P8" %}
-
-## Reducing the anti-glare sparkle
-
-{% embed url="https://www.youtube.com/watch?v=3x5pfmbsQys" %}
 
 ## Overview
 
@@ -67,8 +71,6 @@ I found this in a reddit post. The AG sparkle is everywhere but is most noticeab
 
 ![](<../../.gitbook/assets/image (259).png>)
 
-##
-
 ## Buying a tablet
 
 You MUST research AG sparkly for any tablet you are intend to buy.
@@ -105,34 +107,6 @@ For example:
 AG Sparkle will appear more on high-pitch displays
 
 If the same exact AG treatment is used on those two displays you will notice it more on the 16" display.
-
-## Removing the Anti-glare sparkle
-
-### **AG Etched Glass**
-
-I don't know of any way to remove the anti-glare sparkle if it is due to etched glass.
-
-However, some people have had luck reducing the sparkle by adding a film on top of the AG glass.
-
-Here is an example:&#x20;
-
-* r/wacom - [Cintiq 24 Pro OEM screen protector](https://www.reddit.com/r/wacom/comments/1455ay0/cintiq_24_pro_oem_screen_protector/) 6/9/2023
-
-### **AG Film**
-
-**Tablets with replaceable AG films**
-
-Some tablets have a film that is designed to be removed and replaced. For example the Huion Kamvas 13 [https://www.youtube.com/watch?v=B8CyIZfX8co](https://www.youtube.com/watch?v=B8CyIZfX8co). If you have such a tablet you could remove the film.
-
-You could also try 3rd party screen protectors to replace the one you have. See [protective sheets](../../accessory-links/surface-protectors/).&#x20;
-
-**Tablets without replaceable AG films**
-
-If the tablet's film is not designed to be removed, you could still do it, but I think you might risk damaging the glass. If you do pursue this route, try to find someone who did this before and learn from their experience.
-
-#### Removing the AG film without replacing it
-
-If you do remove the film, you will be drawing on the glass of the display. To avoid scratching that glass, you may want to search for a film that can protect it, but that does not have any anti-glare treatment.  See [protective sheets](../../accessory-links/surface-protectors/).&#x20;
 
 ## Reddit threads
 
