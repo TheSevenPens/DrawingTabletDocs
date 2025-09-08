@@ -5,6 +5,7 @@
 * [https://en.wikipedia.org/wiki/S\_Pen](https://en.wikipedia.org/wiki/S_Pen)&#x20;
 * There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [<mark style="background-color:green;">**My notes on the Galaxy Tab S series**</mark>](../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s.md).
 * [<mark style="background-color:green;">**My notes on the Samsung S pen**</mark>](samsung-s-pen-notes.md).
+* Think about this potential upgrade: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](upgrading-from-the-samsung-s-pen-to-the-wacom-cp-913-pen.md)
 
 ## Links
 

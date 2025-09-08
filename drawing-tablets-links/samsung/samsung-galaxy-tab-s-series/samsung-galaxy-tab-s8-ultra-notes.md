@@ -30,6 +30,10 @@ These are my notes for this specific tablet. You may also be interested in [my n
 * While I didn't stress it, I found it the performance to be good. I had no complaints.
 * Scrolling seemed snappy at all times and without any stuttering.
 
+## Compatible Pens
+
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../pen-links/samsung-s-pen/upgrading-from-the-samsung-s-pen-to-the-wacom-cp-913-pen.md)
+
 ## Battery life
 
 Very good compared to a laptop. not as good compared to an iPad.

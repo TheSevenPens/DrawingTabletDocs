@@ -492,6 +492,7 @@
 * [Pen links](pen-links/README.md)
   * [Samsung S Pen](pen-links/samsung-s-pen/README.md)
     * [Samsung S Pen notes](pen-links/samsung-s-pen/samsung-s-pen-notes.md)
+    * [Upgrading from the Samsung S pen to the Wacom CP-913 pen](pen-links/samsung-s-pen/upgrading-from-the-samsung-s-pen-to-the-wacom-cp-913-pen.md)
   * [Wacom pens](pen-links/wacom-pens/README.md)
     * [Wacom Pro Pen 3 (ACP-500) notes](pen-links/wacom-pens/7p-wacom-acp-500.md)
     * [Wacom Pro Pen 2 (KP-504E) notes](pen-links/wacom-pens/7p-wacom-kp-504e.md)
