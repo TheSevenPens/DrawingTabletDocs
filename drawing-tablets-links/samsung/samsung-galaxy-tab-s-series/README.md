@@ -4,19 +4,24 @@
 
 * [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](samsung-galaxy-tab-s.md)
 * [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
-* [<mark style="background-color:green;">**7P notes: Apple iPad versus Samsung Galaxy Tab S**</mark>](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [<mark style="background-color:green;">**Apple iPad versus Samsung Galaxy Tab S**</mark>](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 * [**Apps for Android**](../../../apps/apps-for-android.md)
 
-## Samsung Galaxy Tab S10
+## Samsung Galaxy Tab S11 series
 
-* Release Yeasr: 2024
+* Rekease Year: 2025
+* ([**my notes on Tab S11 Ultra**](samsung-galaxy-tab-s11-ultra-notes.md))
+
+## Samsung Galaxy Tab S10 series
+
+* Release Year: 2024
 * Product page: [https://www.samsung.com/us/tablets/galaxy-tab-s10/](https://www.samsung.com/us/tablets/galaxy-tab-s10/)&#x20;
 * [Mobile TechReview - Samsung Galaxy Tab S10 FE+ Review](https://www.youtube.com/watch?v=lV1iyVDnVNg) 2025/08/20
 * [Teoh on Tech - Samsung Tab S10 FE Handwriting & Note Taking](https://www.youtube.com/watch?v=8iGsNQR3fuM) 2025/05/19&#x20;
 * [Brad Colbow - Galaxy Tab S10 -VS- iPad Pro](https://www.youtube.com/watch?v=7khLkktpMhY) 2024/10/15&#x20;
 * [Brad Colbow - Review of Samsung Galaxy S10 Ultra](https://www.youtube.com/watch?v=k46BAgTzl8I) 2024/10/07
 
-## Samsung Galaxy Tab S9
+## Samsung Galaxy Tab S9 series
 
 ### Basics
 
@@ -45,7 +50,7 @@
 
 * [Teoh on Tech review of Samsung NotePaper Screen for Tab S9 tablets](https://youtu.be/i6A-61GllGY) Aug 9, 2023
 
-## Samsung Galaxy Tab S8&#x20;
+## Samsung Galaxy Tab S8 series
 
 ### Tab S8 Ultra
 
@@ -55,7 +60,7 @@
 * [Techisode: This Is Not A Tablet - Top 50 Unknown Tab S8 Ultra Features!](https://www.youtube.com/watch?v=qIqYYi0dBU0) Aug 8, 2022
 * [RADER TECH - Samsung Second Screen vs SuperDisplay vs SpaceDesk | Get the most out of your Galaxy Tab S8 Ultra!](https://www.youtube.com/watch?v=Jij2kFGGacY) May 7, 2022
 
-## Samsung Galaxy Tab S7
+## Samsung Galaxy Tab S7 series
 
 ### Models
 
@@ -69,7 +74,7 @@
 * [MobileTechReview review of Galaxy Tab S7 FE](https://www.youtube.com/watch?v=4iF_kVSGwPE) 2021/09/01
 * [Tech Gear - You should the Galaxy Tab S7 and here is why](https://www.youtube.com/watch?v=PkyA_rl7U4Y) 2021/03/22
 
-## Samsung Galaxy Tab S6&#x20;
+## Samsung Galaxy Tab S6 series
 
 ### S6 Lite (2024 edition)
 
