@@ -10,18 +10,23 @@ This pen is a very "consumer" pen, and it has a **OK pressure performance**&#x20
 
 ## Pressure > Initial Activation Force
 
-This pen has a relatively high IAF for a Wacom pen. Thus it requires more force to register a stroke. If you've used other Wacom Pens you may be very disappointed in this pen. If you've never used a drawing tablet before It may not be as big an issue.
+The IAF you experience with the CP-913 depends on which device you use it with:
 
-| PEN                       | IAF   | NOTES     |
-| ------------------------- | ----- | --------- |
-| Wacom Pro Pen 2           | <1gf  | EXCELLENT |
-| Apple Pencil GEN2         | <1gf  | EXCELLENT |
-| Typical non-Wacom EMR pen | 3gf   | GOOD      |
-| CP-913                    | \~5gf | OK        |
+With a Wacom device, this pen has a relatively high IAF for a Wacom pen. Thus it requires more force to register a stroke.&#x20;
+
+With a Samsung Galaxy Tab S device, the IAF is GOOD and comparable to a lot of other pens, but not as good as a wacom pro pen.
+
+| PEN                                                  | IAF    | NOTES     |
+| ---------------------------------------------------- | ------ | --------- |
+| Wacom Pro Pen 2                                      | <1gf   | EXCELLENT |
+| Apple Pencil GEN2                                    | <1gf   | EXCELLENT |
+| Typical non-Wacom EMR pen                            | 3gf    | GOOD      |
+| CP-913 (when used with a Wacom tablet)               | \~5gf  | OK        |
+| C-913 (when used with a Samsung Galaxy Tab S device) | \~3gf  | GOOD      |
 
 ## Pressure > Maximum Pressure
 
-I measured 4 CP-913 unites. Their maximum pressures varied between 250gf to 350gf. This buts them in the OK range.
+I measured 4 CP-913 units. Their maximum pressures varied between 250gf to 350gf. This buts them in the OK range.
 
 ## Pressure response
 
@@ -40,9 +45,9 @@ Two things separate this pen from Wacom's Pro Pens:
 * IAF
 * Buttons
 
-## Next Generation Wacom One GEN2 pen (CP-923)
+## Wacom CP-923 pen
 
-This successor pen CP-923, is awful. See my notes: [7P notes: Wacom One Pen GEN2 (CP-923)](wacom-cp-923.md)&#x20;
+This successor pen, CP-923, is awful. See my notes: [Wacom One 2024 Pen (CP-923)](wacom-cp-923.md)&#x20;
 
 ## Tablet Compatibility&#x20;
 
