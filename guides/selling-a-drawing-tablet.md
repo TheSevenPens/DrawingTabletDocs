@@ -11,6 +11,7 @@ These docs may help you:
 
 * eBay
 * Vinted
+* Facebook Marketplace - popular in North America
 
 ## How to price
 
@@ -21,19 +22,40 @@ These docs may help you:
 * For practical reasons, most people want relatively new tablets.
 * Buyers may have to do special things to get older tablets to work such using an old or 3rd party driver.
 
-## Tips
-
-* Take pictures in BRIGHT LIGHTING so that the tablet can be identified. Most drawing tablets are made of black plastic, so often all we see is black plastic.
-* Take a picture of the MODEL NUMBER of the tablet. It's usually on the back. See: [Finding the model number of a drawing tablet](general/finding-the-model-number-of-a-drawing-tablet.md)
-* Avoid editing the pictures. Potential buyers may take this as a sign of a potential scammer.
-* DO NOT use stock photos. Potential buyers may take this as a sign of a potential scammer.
-* Consider writing your ebay/vinted/etc username on a piece of paper and include it in the pictures as proof that your really have the tablet.
-* Add the MODEL NUMBER to the listing
-* BE CLEAR in the listing wether the PEN is included or not
-
 ## Preparing the tablet
 
 * Thoroughly CLEAN the surfaces tablets and pens.&#x20;
   * They have been in contact with human hands and can have all sorts of nasty cruft in their crevices.
   * See:  [Cleaning a drawing tablet](caring-for-your-tablet/cleaning-a-drawing-tablet.md)
 * Test the tablet:  [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)&#x20;
+
+## Tips for the listing
+
+* Consider writing your ebay/vinted/etc username on a piece of paper and include it in the pictures as proof that your really have the tablet.
+* The title should include
+  * NAME of the tablet including BRAND
+  * MODEL number of the tablet. See: [Finding the model number of a drawing tablet](general/finding-the-model-number-of-a-drawing-tablet.md)
+    * This is VERY important many tablets have very similar or the same names and only the model number can be used tell them apart
+    * I usually put the model number in parenthesis after the name.
+  * SIZE of the tablet&#x20;
+    * For screenless tablets it will be in the name "SMALL", "L" or "LARGE", etc
+    * For screen tablets it will be a number in the name: "Cintiq 16"
+  * Some tablets have a YEAR in their name, include it
+  * Good Examples:&#x20;
+    * "Wacom Intuos Large (PTH-860)"
+    * "Wacom Cintiq 16 2025 (DTK168)"
+  * Bad examples
+    * "Wacom drawing tablet"
+* BE CLEAR in the listing whether the PEN is included or not.
+* MAKE SURE the model number in the listing and in the photos match.
+
+## Tips for pictures in the listing
+
+* Take pictures in BRIGHT LIGHTING so that the tablet can be identified. Most drawing tablets are made of black plastic, so often all we see is black plastic.
+* Take a picture of the MODEL NUMBER of the tablet. It's usually on the back. See: [Finding the model number of a drawing tablet](general/finding-the-model-number-of-a-drawing-tablet.md)
+  * I HIGHLY recommend you do this. Many listings on eBay mention one tablet in the listing title but the photos clearly reveal a different tablet.
+* Avoid editing the pictures. Potential buyers may take this as a sign of a potential scammer.
+* DO NOT use stock photos. Potential buyers may take this as a sign of a potential scammer.
+* Include a clear, well-lit pictures of the pen. Pens don't have model numbers so photos are needed to help identify the pen for buyers.
+*
+
