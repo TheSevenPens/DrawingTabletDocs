@@ -18,6 +18,13 @@ Below are a few links I found from different brands about how to clean their tab
 * DO NOT wet the device with any cleaning solution/water. You don't want any liquid leaking into the insides.
 * INSTEAD, dampen a cloth with the cleaning solution/water and THEN wipe the device with the cloth
 
+## Cleaning solutions to avoid
+
+Do not use any of these:
+
+* Acetone
+* Bleach
+
 ## How I clean my tablets
 
 STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber duster. Specifically this one: the **OXO Good Grips Microfiber Hand Duster** ($12) that I bought on Amazon. The red microfiber brush can be detached and easily cleaned in a laundry machine and then dried on low heat.
