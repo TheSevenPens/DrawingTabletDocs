@@ -27,7 +27,12 @@ These docs may help you:
 * Thoroughly CLEAN the surfaces tablets and pens.&#x20;
   * They have been in contact with human hands and can have all sorts of nasty cruft in their crevices.
   * See:  [Cleaning a drawing tablet](caring-for-your-tablet/cleaning-a-drawing-tablet.md)
-* Test the tablet:  [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)&#x20;
+
+## Tablet operating condition
+
+* If at all possible, test the tablet. Here are some things to look for: [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)&#x20;
+* If you have not tested it, BE CLEAR that you haven't tested it.
+* The surface of the tablet is CRITICAL for someone buying the tablet. Move the pen across the surface where someone draws, if you can feel bumps and scratches, you should explicitly mention that in the listing.
 
 ## Tips for the listing
 
@@ -42,10 +47,12 @@ These docs may help you:
     * For screen tablets it will be a number in the name: "Cintiq 16"
   * Some tablets have a YEAR in their name, include it
   * Good Examples:&#x20;
-    * "Wacom Intuos Large (PTH-860)"
+    * "Wacom Intuos Large 2017 (PTH-860)"
     * "Wacom Cintiq 16 2025 (DTK168)"
   * Bad examples
     * "Wacom drawing tablet"
+  * Be aware of some crazy names out there
+    * "Wacom One" and "One by Wacom" are completely different tablets.
 * BE CLEAR in the listing whether the PEN is included or not.
 * MAKE SURE the model number in the listing and in the photos match.
 
@@ -57,5 +64,6 @@ These docs may help you:
 * Avoid editing the pictures. Potential buyers may take this as a sign of a potential scammer.
 * DO NOT use stock photos. Potential buyers may take this as a sign of a potential scammer.
 * Include a clear, well-lit pictures of the pen. Pens don't have model numbers so photos are needed to help identify the pen for buyers.
+* Photos should include multiple shots of the drawing surface so that buyers can see how scratched up and worn the surface is.
 *
 
