@@ -12,6 +12,7 @@ These docs may help you:
 * eBay
 * Vinted
 * Facebook Marketplace - popular in North America
+* Craigslist&#x20;
 * Sweden
   * Blocket
   * Tradera
