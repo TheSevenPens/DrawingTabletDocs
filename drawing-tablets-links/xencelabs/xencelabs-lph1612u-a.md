@@ -80,3 +80,9 @@ The tablet exhibits moderate diagonal wobble at all speeds.
 
 The tablet comes with the Xencelabs Mobile Easel. [**My notes on the Xencelabs Mobile Easel**](../../accessory-links/stands/xencelabs-mobile-easel.md).
 
+
+
+## OLED longevity
+
+To early to say. More here: [**OLED Longevity**](../../technology/oled-longevity.md).
+

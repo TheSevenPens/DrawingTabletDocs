@@ -138,7 +138,7 @@ At 50% brightness and left running for a few hours the tablet felt cool to the t
 
 ## OLED longevity
 
-To early to say.
+To early to say. More here: [**OLED Longevity**](../../../technology/oled-longevity.md).
 
 ## Pointer lag
 

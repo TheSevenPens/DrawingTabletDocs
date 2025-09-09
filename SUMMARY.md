@@ -614,6 +614,7 @@
     * [Pens that support UD EMR 2nd gen](technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
     * [Tablets that support UD EMR 2nd gen](technology/wacom-ud-emr/tablets-that-support-ud-emr-2nd-gen.md)
   * [USI](technology/usi.md)
+  * [OLED Longevity](technology/oled-longevity.md)
 * [Misc](misc/README.md)
   * [Circuit simulations](misc/circuit-simulations.md)
   * [History of drawing tablets](misc/history-of-drawing-tablets/README.md)
