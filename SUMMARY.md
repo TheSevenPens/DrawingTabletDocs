@@ -93,6 +93,7 @@
   * [Hover jitter](core-features/hover-jitter.md)
   * [Pen tracking](core-features/pen-tracking.md)
   * [Pen barrel rotation](core-features/pen-barrel-rotation.md)
+  * [Using barrel rotation with your brush](core-features/using-barrel-rotation-with-your-brush.md)
   * [Pen nib travel](core-features/pen-nib-travel.md)
   * [Pen nib material](core-features/pen-nib-material.md)
   * [Lag](core-features/lag/README.md)
