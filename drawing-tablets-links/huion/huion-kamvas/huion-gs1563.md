@@ -38,6 +38,13 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 
 
+## Surface texture
+
+* Feels the same as the Kamvas 13 GEN3 (GS1333).
+* The Cintiq 16 has moderately more surface texture than the K16GEN3.
+
+
+
 
 
 
