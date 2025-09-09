@@ -262,6 +262,7 @@
     * [Mini-PCs for digital art](guides/mini-pcs-for-digital-art/README.md)
       * [Minisforum Neptune HX99G notes](guides/mini-pcs-for-digital-art/7p-minisforum-neptune-hx99g.md)
     * [Laptops for digital art](guides/laptops-for-digital-art.md)
+  * [Selling a drawing tablet](guides/selling-a-drawing-tablet.md)
 * [Apps](apps/README.md)
   * [Apps for beginners](apps/apps-for-beginners.md)
   * [Apps for Android](apps/apps-for-android.md)
