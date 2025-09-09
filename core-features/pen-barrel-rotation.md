@@ -30,6 +30,14 @@ Keep in mind that these pens only work with specific tablets. You cannot buy the
 
 We don't know. We don't have any information about other brands adopting barrel rotation.
 
+## Turning on barrel rotation
+
+If you are using a pen that supports barrel rotation and a tablet that supports barrel rotation, the tablet will always send barrel rotation information to the tablet.
+
+However, your apps brushes may not be configured to use the barrel rotation data.&#x20;
+
+So, make sure your brush is correctly configured to map barrel rotation to have some effect on your brush. Typically this means having barrel rotation control the rotation of the brush shape.&#x20;
+
 ## Videos
 
 * [Revels Atelier - Hurry! Get the Wacom Art Pen before it's gone!](https://www.youtube.com/watch?v=TgHw40QTV9s) 2024/04/25
