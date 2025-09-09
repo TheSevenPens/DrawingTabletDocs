@@ -13,6 +13,11 @@ Below are a few links I found from different brands about how to clean their tab
 * [Wacom - How to clean your Wacom product](https://support.wacom.com/hc/en-us/articles/1500006335302-How-to-clean-your-Wacom-product) &#x20;
 * [Huion - How to correctly clean the screen of Huion pen display?](https://support.huion.com/en/support/solutions/articles/44002284420-how-to-correctly-clean-the-screen-of-huion-pen-display-) &#x20;
 
+## Applying cleaning solution/water
+
+* DO NOT wet the device with any cleaning solution/water. You don't want any liquid leaking into the insides.
+* INSTEAD, dampen a cloth with the cleaning solution/water and THEN wipe the device with the cloth
+
 ## How I clean my tablets
 
 STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber duster. Specifically this one: the **OXO Good Grips Microfiber Hand Duster** ($12) that I bought on Amazon. The red microfiber brush can be detached and easily cleaned in a laundry machine and then dried on low heat.
