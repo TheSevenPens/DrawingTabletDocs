@@ -12,6 +12,17 @@ These docs may help you:
 * eBay
 * Vinted
 * Facebook Marketplace - popular in North America
+* Sweden
+  * Blocket
+  * Tradera
+* US:
+  * Mercari US
+* Japan
+  * Mercari JP
+  * Yahoo Auctions
+  * Rakuma
+  * Canada:\
+    kijiji
 
 ## How to price
 
