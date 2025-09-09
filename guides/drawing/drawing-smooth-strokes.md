@@ -4,6 +4,11 @@
 
 When you draw a stroke with a drawing tablet, your stroke will not be perfectly smooth. There are many causes for it any many things you can do to address it.
 
+Smooth can mean different things for a stroke.
+
+* A smoothly changing position
+* A smoothly changing stroke width or opacity based on pressure
+
 ## Causes
 
 The tablet and driver are components that can contribute to strokes that aren't as smooth as you would like
@@ -64,13 +69,17 @@ Occasionally some people enable mouse mode in their tablet driver. Mouse mode us
 
 Use zoom to your advantage. The stroke is affected several things which are physical in nature. For example, a diagonal wobble may introduce a 1mm wobble as your draw. If you are drawing with your canvas zoomed out then 1mm accounts for a lot of pixels. If you zoom in more then the 1mm accounts for fewer pixels of wobble. So you can really minimize some effects my zooming in as much as possible for your stroke. This minimizes the effect of those disturbances and also forces you to draw with a longer stroke which itself will minimize errors.
 
-## Use your tablet precision mode
+## Use your tablet's precision mode
 
-Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [**Precision mode**](../customizing-your-experience/precision-mode.md)
+Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [**Precision mode**](../customizing-your-experience/precision-mode.md).
+
+## Zooming in vs precision mode
+
+In effect, precision mode, is different way of accomplishing the same thing as zooming in. They both map large physical strokes to small regions on your canvas.
 
 ## Application brush smoothing
 
-Use brush smoothing in your applications.
+Use brush smoothing in your applications. Depending on the application, both position smoothing and pressure smoothing can be performed.
 
 ### Krita
 
@@ -86,6 +95,23 @@ Clip Studio Paint has several options
 
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+### Rebelle
+
+Rebelle offers distinct position and brush smoothing.
+
+## Limit what is affecting the width of your brush
+
+Some brushes are configured to calculate the size of the brush based on MULTIPLE points of data from the pen.&#x20;
+
+For example:
+
+* Both pressure AND tilt may be used to calculate the stroke width.&#x20;
+* You may be expecting a constant width line, but the brush is configured to take pressure or tilt into account to calculate the width.
+
+You may be able to get a smoother and more consistent stroke with if are sure what is contributing to the width and then consider reducing the number of contributing factors.&#x20;
+
+
 
 ## Application stroke post-correction smoothing
 
@@ -119,7 +145,7 @@ For example in Clip Studio Paint, holding down thew SHIFT key will draw line fro
 
 ## Use application guides
 
-Some applications let you add special guides to help draw straight lines
+Some applications let you add special guides to help draw straight lines.
 
 
 
