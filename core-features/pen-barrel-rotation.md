@@ -23,6 +23,7 @@ Barrel rotation is a **very rare feature** on pens. I know of only three pens th
 * Wacom Art Pen (KP-701E)
 * Wacom 6D Art Pen (ZP-600)
 * Apple Pencil Pro
+* Huawei M Pencil Pro&#x20;
 
 Keep in mind that these pens only work with specific tablets. You cannot buy these pens and assume they will work with the tablet you have.
 
