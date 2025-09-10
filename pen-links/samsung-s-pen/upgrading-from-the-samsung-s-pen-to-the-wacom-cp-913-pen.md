@@ -7,7 +7,8 @@ Devices that work with the Samsung S pen ALSO work with other UD EMR pens. In pa
 If you are currently using a S pen with your device, consider buying a Wacom CP-913 to use with it.
 
 * At the very least you will have a backup pen
-* The CP-913 pen has a superior pressure compared to the S-Pen
+* Max pressure - The CP-913 pen has a higher maximum pressure compared to the S-Pen
+* IAF - the CP-913 has a similar IAF to the Samsung S pen - maybe slightly lower in the models I have tested. Keep in mind individual units vary in IAF.&#x20;
 
 [<mark style="background-color:green;">**My notes on the Wacom CP-913**</mark>](../wacom-pens/7p-wacom-cp-913.md)
 
@@ -15,13 +16,13 @@ If you are currently using a S pen with your device, consider buying a Wacom CP-
 
 ## Which devices benefit
 
-ANY device that supports the S Pen should see an improvement with the CP-913.
+IAF - any device will see an improvement.
 
-The effect is VERY noticable with Samsun Galaxy Tab S devices.
+Max pressure - any device will see an improvment.
 
 ## Samsung Galaxy Tab S with the CP-913
 
-MANY users with Samsung Galaxy Tab switch to using the CP-913 pen because of the superior pressure. I highly recommend using the CP-913 to Galaxy Tab S users.
+Lots of users with Samsung Galaxy Tab switch to using the CP-913 pen because of the superior pressure. It's worth trying it out to see if it benefits you.
 
 ## Key advantages of the CP-913 over the Samsung S pen
 
