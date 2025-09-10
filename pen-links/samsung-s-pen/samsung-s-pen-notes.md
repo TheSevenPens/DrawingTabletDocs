@@ -28,6 +28,11 @@ The overall pressure of the S pen is OK.&#x20;
 * Body hos hexagonal shape
 * different nib from previous
 * Pressure (IAF and max pressure) no different than previous S pens
+* Backwards compatibility - it works with devices that worked with the previous S pen. I have tested it the following devices and can confirm it worked as expected:
+  * Wacom MovinkPad 11
+  * Samsung S8 Ultra
+  * Samsung S24 Ultra
+  * Wacom Intuos Pro 2025 (PTK-870)
 
 ### Maximum pressure
 
