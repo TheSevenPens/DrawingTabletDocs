@@ -414,6 +414,7 @@
       * [Samsung Galaxy Tab S8 Ultra notes](drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s8-ultra-notes.md)
       * [Samsung Galaxy Tab S6 lite (2022 edition) notes](drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s6-lite-2022-edition-notes.md)
       * [Samsung Galaxy Tab S11 Ultra notes](drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s11-ultra-notes.md)
+      * [Samsung Galaxy Tab S11 notes](drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s11-notes.md)
     * [Samsung Galaxy Tab A](drawing-tablets-links/samsung/samsung-galaxy-tab-a.md)
     * [Samsung Galaxy Book 360](drawing-tablets-links/samsung/samsung-galaxy-book-360.md)
     * [Samsung Galaxy Tab S6](drawing-tablets-links/samsung/samsung-galaxy-tab-s6.md)
