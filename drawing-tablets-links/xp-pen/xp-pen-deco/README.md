@@ -7,8 +7,7 @@
 
 ## XP-Pen Deco 01 V2
 
-* [Brad Colbow review of XP-Pen Deco 01 V2](https://youtu.be/0VaH-UTRL7A) 2022/02/16
-* [Teoh on Tech XP-Pen Deco 01 V2](https://youtu.be/ohKeCxLL2a0) 2022/02/19
+* [Brad Colbow review of XP-Pen Deco 01 V2](https://www.youtube.com/watch?v=tCTm2J4lo1M) 2020/11/02
 
 ## XP-Pen Deco L (IT1060)
 
