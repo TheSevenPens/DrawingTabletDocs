@@ -10,9 +10,24 @@ There are several different Samsung S Pens. I am referring to the S Pens that co
 
 RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil as a device, but the Apple Pencil has superior pressure handling, and the S Pen is certainly not as good as the Wacom Pro Pen 2.
 
+## Different versions
+
+* S Pen that comes with the Samsung Galaxy Tab S tablets
+* S Pen that comes with the Samsung Galacy S phones
+* S Pen Creator edition
+* S Pen (2025) edition: [my notes on this pen](broken-reference)
+
 ## Pressure
 
 The overall pressure of the S pen is OK.&#x20;
+
+## S Pen (2025)&#x20;
+
+* No different from previous S Pens in terms of drawing performance (IAF, max pressure)
+* Dropped Bluetooth support and features
+* Body hos hexagonal shape
+* different nib from previous
+* Pressure (IAF and max pressure) no different than previous S pens
 
 ### Maximum pressure
 
