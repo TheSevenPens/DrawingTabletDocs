@@ -6,7 +6,7 @@ Below are tablets I would personally recommend separated by device type. These r
 
 ## For beginners
 
-If you are beginner, then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners.md).
+If you are beginner, then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners/).
 
 ## Considerations
 

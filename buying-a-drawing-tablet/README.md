@@ -5,7 +5,7 @@
 I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
 
 {% hint style="info" %}
-If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you also just want to quickly get to some beginner recommendations then go here: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
+If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you also just want to quickly get to some beginner recommendations then go here: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners/).
 {% endhint %}
 
 ## Buying guide videos series&#x20;
@@ -34,7 +34,7 @@ More here: [**Types of drawing tablets**](../basics/types-of-drawing-tablets.md)
 
 * Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
 * If you really need need one that is standalone get an iPad or a Samsung Galaxy Tab.
-* If you are a beginner I have simplified the options for you: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners.md).
+* If you are a beginner I have simplified the options for you: [**Recommended drawing tablets for beginners**](../recommendations/recommended-drawing-tablets-for-beginners/).
 
 ## Brands
 
