@@ -1,5 +1,11 @@
 # Choosing a drawing tablet brand
 
+##
+
+{% hint style="info" %}
+If you are looking for tablet recommendations, go here: [**Recommendations**](../recommendations/)
+{% endhint %}
+
 ## Overview
 
 No brand's products are consistently perfect.&#x20;
