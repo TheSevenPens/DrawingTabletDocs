@@ -1,6 +1,6 @@
 # Choosing a drawing tablet brand
 
-## Customer support
+## Overview
 
 No brand's products are consistently perfect.&#x20;
 
@@ -8,8 +8,30 @@ All brands will eventually ship a product that has defective units or that will 
 
 This is why you MUST choose a brand that:
 
-* Supports its customers well
-* Has enough other people using their tablets, so that you can get help from the community.&#x20;
+* Supports its customers well:
+  * Is publishing driver updates
+  * Had good documentation
+  * Has active customer support
+* Has enough other people using their tablets, so that you can get help from online communities.&#x20;
+
+## Brands I generally suggest
+
+I generally steer people toward:
+
+* Wacom&#x20;
+* Huion
+* XP-Pen
+* Xencelabs
+
+More here: [**brands**](./)
+
+You'll find people who've had good and bad experience with each brand. Though generally I do think Wacom has a better experience for customers overall.
+
+## Brands vs specific tablets
+
+Within a brand, they will have good tablets and bad tablets. Even Wacom, which is the market leader has some tablets I will not recommend.&#x20;
+
+Instead of only thinking of the brand, consider specific tablet models.&#x20;
 
 ## Online communities
 
