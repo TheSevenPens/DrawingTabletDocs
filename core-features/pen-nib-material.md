@@ -33,4 +33,16 @@ link: [https://alice-books.com/item/show/1113-7](https://alice-books.com/item/sh
 
 Machine-translated (Japanese to English) description: "This nib is made by integrally molding silicon nitride Si3N4 ceramic, which is said to have hardness second only to diamond, with a resin shaft. You will not have to worry about wear on the tip. The light ceramic writing experience feels surprisingly natural. There is no knockback when in contact with the tablet surface, and it doesn't cause fatigue even with long-term use. The smooth writing experience is user-friendly and easy to use.
 
-Compatible models: ProPen3, ProPen2, ProPen Slim"
+Compatible models: ProPen3, ProPen2, Pro Pen Slim
+
+## What is a "felt" nib?
+
+Felt seems to refer to anything that condenses fibers. See: [https://en.wikipedia.org/wiki/Felt](https://en.wikipedia.org/wiki/Felt)&#x20;
+
+And this includes natural fibers as well as synthetic.
+
+I have cut open a Wacom Pro Pen 3 felt nib and examined it under a microscope, and it looks like it was made of a synthetic substance (i.e. "plastic").
+
+
+
+&#x20;
