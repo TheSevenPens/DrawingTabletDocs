@@ -130,6 +130,7 @@
     * [Replacing a pen](guides/caring-for-your-tablet/replacing-a-pen.md)
     * [Retrobright to handle yellowed plastic](guides/caring-for-your-tablet/retrobright-to-handle-yellowed-plastic.md)
     * [Transporting your drawing tablet](guides/caring-for-your-tablet/transporting-your-drawing-tablet.md)
+    * [Avoid dropping your pen](guides/caring-for-your-tablet/avoid-dropping-your-pen.md)
   * [Customizing your experience](guides/customizing-your-experience/README.md)
     * [Lowering the initial activation force (IAF)](guides/customizing-your-experience/lowering-the-initial-activation-force-iaf.md)
     * [Match aspect ratios with Force Proportions](guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md)

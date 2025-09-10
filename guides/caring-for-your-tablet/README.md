@@ -16,10 +16,7 @@ Here is an example:
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
-Pens are the most sensitive component because they have some small parts and some moving parts. A fall onto a floor can damage your pen:
-
-* The can completely break the internals of your pen. Your pressure may be less sensitive, stuck at a certain pressure value for example either 0% pressure or 100% pressure , have sudden changes in its pressure profile.&#x20;
-* The nib can be broken and make it be stuck inside the pen and very hard to remove
+Pens have sensitive components. Dropping them can permanently damage the pen. More here: [**Avoid dropping your pen**](avoid-dropping-your-pen.md)
 
 ## <mark style="color:red;">Dop not place excessive pressure on your pen tip!</mark>
 
