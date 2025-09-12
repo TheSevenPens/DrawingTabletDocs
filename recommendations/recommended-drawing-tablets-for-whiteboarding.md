@@ -10,6 +10,16 @@ Example:
 * Zoom call
 * Recording Khan-Academy style videos
 
+{% hint style="info" %}
+If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you also just want to quickly get to some beginner recommendations then go here: [**Recommended drawing tablets for beginners**](recommended-drawing-tablets-for-beginners/).
+
+Also: [Whiteboarding with drawing tablets](../basics/use-cases/whiteboarding-with-drawing-tablets.md)
+
+[Pen tablets vs Pen displays](../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
+
+
+{% endhint %}
+
 ## Good news
 
 You don't need a fancy tablet for white boarding
