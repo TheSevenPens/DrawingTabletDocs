@@ -59,6 +59,7 @@
     * [Large pen tablets compared](recommendations/comparisons/7p-notes-large-pen-tablets-compared.md)
     * [13" pen displays compared (2023)](recommendations/comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md)
     * [22" pen displays compared (2024)](recommendations/comparisons/7p-22-pen-displays-compared-2024.md)
+  * [Recommended drawing tablets for whiteboarding](recommendations/recommended-drawing-tablets-for-whiteboarding.md)
 * [Brands](drawing-tablet-brands/README.md)
   * [Huion and XP-Pen](drawing-tablet-brands/huion-and-xp-pen.md)
   * [Wacom](drawing-tablet-brands/wacom.md)
