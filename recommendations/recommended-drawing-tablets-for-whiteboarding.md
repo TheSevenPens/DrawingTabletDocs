@@ -29,4 +29,6 @@ You don't need a fancy tablet for white boarding
 
 ## Pen tablet vs Pen display
 
-Both work, but if you are drawing things for these scenarios, I do encourage you to look into a pen display (screen tablet)
+Both work, but if you are drawing things live for these scenarios, I do encourage you to look into a pen display (screen tablet).
+
+For his Khan Academy videos, the last time I checked, Sal Khan used an Intuos Pro Medium (PTH-660).
