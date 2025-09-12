@@ -22,4 +22,5 @@ Because the tablet's active area and the display may have different aspect ratio
 
 ## Display Toggle for pen tablets and multiple monitors
 
-With a pen tablet, you may have multiple monitors. Mapping to both will either create a lot of distortion. You can avoid the distortion with force proportions, but then you lose a lot of active area on the tablet. An alternative is to setup your pen tablet to swap between which monitor it is mapped to by pressing a tablet or pen button. This is called "Display Toggle".&#x20;
+When multiple monitors are being used, you can have the tablet switch between mapping to each monitor at the click of a button. See: [Display toggle](display-toggle.md)
+
