@@ -142,7 +142,7 @@ At the bottom of the OTD app, click **Apply**.
 * The specific instructions vary per app.&#x20;
 * Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
 
-## STEP 13: Automatically start OpenTabletDriver when Windows starts \[OPTIONAL]
+## STEP 14: Automatically start OpenTabletDriver when Windows starts \[OPTIONAL]
 
 * Right-click on OpenTabletDriver.UX.Wpf.exe
 * Select **Create Shortcut**
@@ -154,7 +154,7 @@ At the bottom of the OTD app, click **Apply**.
 * This will open a new Explorer window pointing to a folder called **Startup**
 * Move the shortcut to the **Startup** folder in that explorer window
 
-## STEP 14: Customizing your experience
+## STEP 15: Customizing your experience
 
 ### Pressure curve
 
@@ -176,6 +176,14 @@ Learn more here: [**Configure smoothing in applications**](../../drawing/configu
 ### Driver-level smoothing&#x20;
 
 More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
+
+## Display toggle
+
+To allow rapid switching between monitors you have two options:
+
+* the **Monitor toggle** plug-in
+* Swiching presets
+  * NOTE: The ability to use a hotkey to switch presents is expect to arrive by Oct 2025.
 
 ## Uninstalling OTD
 
