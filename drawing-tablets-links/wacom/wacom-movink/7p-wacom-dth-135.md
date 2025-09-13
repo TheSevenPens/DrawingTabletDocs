@@ -304,6 +304,14 @@ I connected my Samsung Galaxy Tab S8 Ultra to a Microsoft Surface Thunberbolt do
 * I was able to draw with pressure sensitivity and tilt.
 * I had no way to configure the actions of the pen buttons. And clicking on them did nothing that I observed.
 
+## Screen scratches
+
+The screen has an etched glass surface and an anti-reflecting coating.
+
+Several people have comments and I have personally experienced that the screen will scratch relatively easily. I did not find that normal drawing scratched it, but placing other objects or in a backpack did produce tiny scratches. These scratches could not be felt through the pen. I beieve the AF coating was scratched, not the etched glass.
+
+If you are going to travel with the movink, consider carefully protecting its screen.&#x20;
+
 ## Accessories
 
 * Wacom Foldable stand&#x20;
