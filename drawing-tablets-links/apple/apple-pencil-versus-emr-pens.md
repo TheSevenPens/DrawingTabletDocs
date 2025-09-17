@@ -40,6 +40,13 @@ Keep in mind, there are several models of the apple pencil and not all have the 
 
 The number of pressure levels for a pen is a heavily marketing and discussed topic. However, in my opinion all modern drawing tablet pens and the Apple pencil have more than enough pressure levels for any use. I suggest that you do NOT make the number of pressure levels a factor in any decision making.&#x20;
 
+## Nibs / Tips
+
+* EMR pens use nibs. The typical cost is $1 per nib.
+  * The nibs retract a little into the pen as you apply pressure.
+* The Apple Pencil uses a replaceable tip. Typical cost is $5 per nib.
+  * The tip does not retract at all.
+
 ## Pen squeeze
 
 The Apple Pencil Pro has a squeeze feature. As of mid 2024, it isn't widely adopted by applications, but that is likely to change.
