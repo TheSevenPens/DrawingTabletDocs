@@ -1,4 +1,4 @@
-# Troubleshoot pen not drawing in vertical or horizontal bands
+# TSG: Pen not drawing in vertical or horizontal bands
 
 ## Overview
 
@@ -20,10 +20,12 @@ And missing vertical bands will look like this:
 
 ## Causes
 
-* Usually it seems to be a hardware issue. Something is wrong with the tablet itself.
-* It **might** also be cause be electromagnetic interference
+* Usually it seems to be a hardware issue with the digitizer in the tablet.
+* It **might** also be caused by electromagnetic interference
 
 ## Things to try
+
+Again, this is usually a hardware issue that cannot be fixed. But it is worth trying some of these steps just in case they might help.
 
 * Restart computer
 * Reinstall driver
@@ -34,5 +36,5 @@ And missing vertical bands will look like this:
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/](https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/)&#x20;
+* [https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/](https://www.reddit.com/r/wacom/comments/13ls32y/can_someone_tell_me_whats_going_on_here/)&#x20;
 *
