@@ -1,19 +1,32 @@
 # Pens that support UD EMR 2nd gen
 
-### UD EMR pens from Wacom
+### Overview
 
-* Wacom One 2019 pen (CP-913)
-* Wacom One 2023 pen (CP-923
+I have tested all these pens and found that the work with tablets that support UD EMR. These pens for example will with
 
-### Non-Wacom UD EMR pens
+* All Samsung Galaxy Tab S devices that work with the S Pen
+* Wacom MovinkPad 11
+* Wacom Movink 13
+* etc. See [Tablets that support UD EMR 2nd gen](tablets-that-support-ud-emr-2nd-gen.md)
 
-This is a **partial** list of known UD EMR pens
+### My list of UD EMR pens
+
+* Wacom One pen (CP-913)
+* Wacom One Standard pen (CP-923
+* Staedtler Noris Digital Jumbo&#x20;
+* Staedtler Noris Digital&#x20;
+* Staedtler Noris Mars Lumograph
+* Samsung S Pen (from the Galaxy Tab S devices)
+* Samsung S Pen (2025 edition)
+* Samsung S Pen Creator edition
+* LAMY AL-Star black EMR Pen
+
+### Other resources
 
 * Pilot Dr. Grip Digital for Wacom
   * [Teoh on Tech - Pilot Dr Grip Digital Pen (review) - A retractable grippy Wacom EMR pen](https://www.youtube.com/watch?v=LSsB4nDVibw) 2025/03/12
-* STAEDTLER Norris Digital Jumbo Stylus
-* Samsung S Pen
-* LAMY AL-Star black EMR Pen
+
+
 
 ## Wacom professional pens
 
