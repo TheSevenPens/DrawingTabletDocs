@@ -2,7 +2,7 @@
 
 ## If I had to pick one&#x20;
 
-If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for true. It's reliable and has a good drawing experience. The Huion Frego is a new tablet (released in 2024) that is also a terrific beginner choice.&#x20;
+If I had to pick one item on this list, I would recommend the **One by Wacom CTL-672** for sure. It's reliable and has a good drawing experience though it does not have tilt support. The **Huion Frego M (L610)** is a new tablet (released in 2024) that is also a terrific beginner choice and it does have tilt.&#x20;
 
 ## Other good options
 
