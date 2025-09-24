@@ -492,6 +492,7 @@
       * [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md160qh.md)
     * [XP-Pen Deco](drawing-tablets-links/xp-pen/xp-pen-deco/README.md)
       * [XP-Pen Deco LW (IT1060B) notes](drawing-tablets-links/xp-pen/xp-pen-deco/xppen-it1060b.md)
+      * [XP-Pen Deco 01 V3 notes](drawing-tablets-links/xp-pen/xp-pen-deco/xp-pen-deco-01-v3-notes.md)
     * [XP-Pen Deco Pro GEN2](drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/README.md)
       * [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/xppen-mt1592b.md)
     * [XP-Pen Innovator](drawing-tablets-links/xp-pen/xp-pen-innovator.md)

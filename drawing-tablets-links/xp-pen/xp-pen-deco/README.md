@@ -1,5 +1,10 @@
 # XP-Pen Deco
 
+## XP-Pen Deco 01 V3
+
+* [**my notes on this tablet**](xp-pen-deco-01-v3-notes.md)
+*
+
 ## XP-Pen Deco Mini 7
 
 * [Brad Colbow - XP-Pen Deco Mini 7W Unboxing & Impressions](https://www.youtube.com/watch?v=H3Z5IQlV5uE) 2021/02/08&#x20;
