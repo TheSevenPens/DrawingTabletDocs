@@ -4,7 +4,7 @@
 
 This document provides some advice for buying a laptop where you will connect it to a drawing tablet.
 
-If you are looking for a laptop that works like a drawing tablet, go here: [Standalone: en-enabled laptop recommendations](../recommendations/standalone-drawtablet-recs/pen-enabled-2-in-1-laptop-recommendations.md) &#x20;
+If you are looking for a laptop that works like a drawing tablet, go here: [Standalone: en-enabled laptop recommendations](../recommendations/standalone-pen-enabled-laptop-recommendations.md) &#x20;
 
 ## The community can help you!
 

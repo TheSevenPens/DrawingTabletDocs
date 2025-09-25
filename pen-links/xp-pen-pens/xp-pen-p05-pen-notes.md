@@ -11,7 +11,7 @@ I found the IAF to be HIGH:&#x20;
 
 ## Max Pressure
 
-I found the Max Pressure to be: OK to GOOD&#x20;
+I found the Max Pressure to be: OK&#x20;
 
 * TYPICAL: 280gf
 * RANGE: 200gf to 300gf
