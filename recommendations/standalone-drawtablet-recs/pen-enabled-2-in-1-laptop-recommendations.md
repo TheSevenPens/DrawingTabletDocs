@@ -1,4 +1,4 @@
-# Pen-enabled laptop recommendations
+# Pen-enabled 2-in-1 laptop recommendations
 
 ## **Overview**
 
@@ -16,7 +16,7 @@ This is a 2-in-1 laptop that folds over. The drawing experience is good - not su
 
 Pen information:
 
-* Tech: Wacom EMR&#x20;
+* Tech: Wacom EMR (specifically UD EMR)
 * Comes with this pen: [**Samsung S Pen**](../../pen-links/samsung-s-pen/) ([<mark style="background-color:green;">**my notes on this pen**</mark>](../../pen-links/samsung-s-pen/samsung-s-pen-notes.md))
 * Pen compatibility: These devices also works with the the Wacom CP-913 pen. And many people choose to use the Wacom CP-913 instead of the S Pen.
 
@@ -29,7 +29,7 @@ Recent models:
 
 ## Microsoft Surface Pro
 
-This is a slate-type laptop. This drawing experience is OK. It's better suited in my opinion for notetaking  or whiteboarding rather than drawing.
+This is a 2-in-1 laptop that can be used with detachable keyboard. This drawing experience is OK. It's better suited in my opinion for notetaking  or whiteboarding rather than drawing.
 
 Pen information
 
@@ -41,4 +41,3 @@ Pen information
 * [**Surface Pro 8**](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
 * [**Surface Pro 9**](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
 
-##
