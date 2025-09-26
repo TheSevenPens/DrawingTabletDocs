@@ -497,7 +497,7 @@
       * [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/xppen-mt1592b.md)
     * [XP-Pen Innovator](drawing-tablets-links/xp-pen/xp-pen-innovator.md)
     * [XP-Pen Artist Ultra](drawing-tablets-links/xp-pen/xp-pen-artist-ultra/README.md)
-      * [XP-Pen Artist Ultra 16 notes](drawing-tablets-links/xp-pen/xp-pen-artist-ultra/xp-pen-artist-ultra-16-notes.md)
+      * [XP-Pen Artist Ultra 16 (MD160UH) notes](drawing-tablets-links/xp-pen/xp-pen-artist-ultra/xp-pen-artist-ultra-16-md160uh-notes.md)
   * [Ugee](drawing-tablets-links/ugee.md)
 * [Pen links](pen-links/README.md)
   * [Samsung S Pen](pen-links/samsung-s-pen/README.md)
