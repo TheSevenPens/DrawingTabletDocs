@@ -48,6 +48,13 @@ I see countless stories of people who love using their pen tablet but feel the n
 
 Some people worry that the quality of art they want to produce can only be produced by a pen display. You shouldn't let that worry you. People have been producing amazing art with pen tablets for decades. There are definitely some benefits to using a pen display, but the quality of art than can be made is not a factor.
 
+### MYTH: Once you use a pen display you will never enjoy using a pen tablet
+
+<mark style="color:red;">**REALITY: Many people try a pen display and RETURN to using a pen tablet**</mark>
+
+* [Ariann Art - 7 Reasons Why I switched back from a display tablet to a Pen tablet](https://www.youtube.com/watch?v=rnW5O221e70) 2020/10/07
+* [Art by Sil - I Ditched My Screen Tablet — Here’s Why You Should Too](https://www.youtube.com/watch?v=Ti4u-Y6uuCM) 2025/03/25
+
 ## Advice for first-time tablet users
 
 If you are just getting started using a drawing tablet - for example maybe this is going to be the first tablet you own - my advice is to start with a pen tablet. And learn to use it and if you can't adjust to a pen tablet in a few weeks then return it and get a pen display.
