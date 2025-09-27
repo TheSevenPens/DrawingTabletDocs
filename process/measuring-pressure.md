@@ -25,4 +25,19 @@ CableCreation USB to RS232 Adapter with PL2303 Chipset ([amazon link](https://ww
 
 Tablet expert Kuuube, has provided some sample code to read the data from the scale into a PC using Python. See the github project here: [**us\_solid\_scale\_reader**](https://github.com/Kuuuube/Misc_Scripts/tree/main/scripts_and_programs/us_solid_scale_reader)&#x20;
 
+## Full setup
+
+As of September 2025 my setup looks like this:
+
+* A foam block holds the pen and serves as an arm
+* An incision on the foam is used to securely hold the pen.
+  * It does struggle with some pens that are thinner and "slip" a bit as pressure gets towards 400gf.
+* A metal ruler underneath the foam adds some stiffness
+* Masking tape secures the ruler to the foam
+* Weights on top of the foam are added and moved to adjust the pressure and to secure the arm
+
+
+
+<figure><img src="../.gitbook/assets/2025_09_24 Pressure Testing (Large).jpg" alt=""><figcaption></figcaption></figure>
+
 &#x20;
