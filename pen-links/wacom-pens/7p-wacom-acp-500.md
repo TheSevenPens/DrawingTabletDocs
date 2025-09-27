@@ -186,6 +186,7 @@ In 2025, I started using the thick button strip without the grip.
 It looks awkward but it has some benefits
 
 * Reduces chance I will accidentally hit the buttons because the buttons are moved away from the pen barrel
-* The buttons strip thickness prevents the pen from rotating in my hand which also reduces the chance I will accidentally press the buttons&#x20;
+* The buttons strip thickness prevents the pen from rotating in my hand which also reduces the chance I will accidentally press the buttons.
+* Prevents the pen from rolling away on the desk.
 
 <figure><img src="../../.gitbook/assets/20250927_042553 (Large).jpg" alt=""><figcaption></figcaption></figure>
