@@ -23,7 +23,7 @@ CableCreation USB to RS232 Adapter with PL2303 Chipset ([amazon link](https://ww
 
 ### &#x20;Programmatically getting the pressure data to a PC
 
-Tablet expert Kuuube, has provided some sample code to read the data from the scale into a PC using Python. See the github project here: [**us\_solid\_scale\_reader**](https://github.com/Kuuuube/Misc_Scripts/tree/main/scripts_and_programs/us_solid_scale_reader)&#x20;
+Tablet expert Kuuube, has provided some sample code to read the data from the scale into a PC using Python. See the GitHub project here: [**us\_solid\_scale\_reader**](https://github.com/Kuuuube/Misc_Scripts/tree/main/scripts_and_programs/us_solid_scale_reader)&#x20;
 
 ## Full setup
 
@@ -40,4 +40,7 @@ As of September 2025 my setup looks like this:
 
 <figure><img src="../.gitbook/assets/2025_09_24 Pressure Testing (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+## Videos
+
+* [Seven Pens -  Measuring Pen Pressure Response Curves](https://youtu.be/tioJ3CfrmtI) - 2025/09/27
+
