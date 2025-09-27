@@ -73,6 +73,15 @@ If you have a pen tablet (which does not have a screen), then you use it with a 
 
 * **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch of the display, the more anti-glare sparkle you will notice. For example using the same anti-glare treatment a 4K 24" display will show less AG sparkle, than a 4K 16" display.&#x20;
 
+## Test the size before you buy
+
+* Check if there is a way you can try a tablet before you buy it. For example
+  * At retail locations
+  * Maybe a friend has the same model
+* Or consider using a piece of cardboard to simulate tablet size before you buy: [Simulating tablet size with cardboard](simulating-tablet-size-with-cardboard.md).&#x20;
+
+##
+
 ## **In relation to paper size**
 
 Some of you like to think of a tablet size relative standard papers sizes. The tablet below shows the paper sizes with their diagonal size and you can see how specific paper size matches my standard tablet sizes

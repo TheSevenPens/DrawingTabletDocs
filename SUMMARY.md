@@ -33,6 +33,7 @@
   * [Buying tips](buying-a-drawing-tablet/buying-tips.md)
   * [How many pressure levels do you really need?](buying-a-drawing-tablet/how-many-pressure-levels-do-you-really-need.md)
   * [Choosing the right size for a drawing tablet](buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
+  * [Simulating tablet size with cardboard](buying-a-drawing-tablet/simulating-tablet-size-with-cardboard.md)
   * [Switching from a pen tablet to a pen display](buying-a-drawing-tablet/switching-from-a-pen-tablet-to-a-pen-display.md)
   * [Buying a drawing tablet as a gift](buying-a-drawing-tablet/buying-a-drawing-tablet-as-a-gift.md)
   * [Buying "PRO" tablets](buying-a-drawing-tablet/buying-pro-tablets.md)
