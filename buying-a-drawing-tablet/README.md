@@ -28,7 +28,7 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 * **pen display** - has a screen and requires a computer to use
 * **standalone tablet  -** has a screen and can be used my itself without being connected to a computer. There are several distinct types of standalone tablets.&#x20;
 
-More here: [**Types of drawing tablets**](../basics/types-of-drawing-tablets.md)
+More here: [**Types of drawing tablets**](../basics/types-of-drawing-tablets/)
 
 ## Basic buying guidelines
 

@@ -17,7 +17,7 @@ There are different kinds of drawing tablets. The two key ways to categorize the
 
 These two things affect how the device is used, their cost, and how well they work for certain scenarios.
 
-Before you continue, be sure to read this thoroughly: [**Types of drawing tablets**](types-of-drawing-tablets.md). Once you understand the different types of tablets then continue.
+Before you continue, be sure to read this thoroughly: [**Types of drawing tablets**](types-of-drawing-tablets/). Once you understand the different types of tablets then continue.
 
 ## Basics
 
