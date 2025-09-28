@@ -1,5 +1,7 @@
 # Types of drawing tablets
 
+<figure><img src="../../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
+
 ## Non-standalone drawing tablets
 
 * Pen tablets (also called "screenless tablets") - Don't have a screen and you have to use them with a computer or laptop. More here: [**Overview of pen tablets**](overview-of-pen-tablets.md)
@@ -12,8 +14,6 @@
   * [Overview of pen computers](overview-of-pen-computers.md)
   * [**The case against pen computers**](../../buying-a-drawing-tablet/the-case-against-pen-computers.md)&#x20;
 * **Pen-enabled 2-in-1 laptops** - These are devices like the Microsoft Surface Pro or Samsung Galaxy Book 5 360 that can be used with a pen. More here: [Overview of pen enabled 2-in-1 laptops](overview-of-pen-enabled-2-in-1-laptops.md)&#x20;
-
-<figure><img src="../../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
 
 
 
