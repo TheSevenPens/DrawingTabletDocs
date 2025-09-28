@@ -11,6 +11,8 @@
     * [Overview of pen tablets](basics/types-of-drawing-tablets/overview-of-pen-tablets.md)
     * [Overview of pen displays](basics/types-of-drawing-tablets/overview-of-pen-displays.md)
     * [Overview of pen-enabled mobile devices](basics/types-of-drawing-tablets/overview-of-pen-enabled-mobile-devices.md)
+    * [Overview of pen computers](basics/types-of-drawing-tablets/overview-of-pen-computers.md)
+    * [Overview of pen enabled 2-in-1 laptops](basics/types-of-drawing-tablets/overview-of-pen-enabled-2-in-1-laptops.md)
   * [Learning digital art](basics/learning-digital-art.md)
   * [Learning to use a drawing tablet](basics/learning-to-use-a-drawing-tablet.md)
   * [Getting started with a drawing tablet](basics/getting-started-with-a-drawing-tablet.md)
