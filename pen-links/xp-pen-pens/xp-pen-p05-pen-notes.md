@@ -18,7 +18,7 @@ EMR
 
 2
 
-## Erasder
+## Eraser
 
 NO
 
@@ -31,10 +31,7 @@ NO
 
 ## IAF
 
-I found the IAF to be HIGH:&#x20;
-
-* TYPICAL: 7gf&#x20;
-* RANGE: 6.1gf to 8.5gf&#x20;
+I found the IAF to be HIGH - typical for a consumer pen. Not as good as newer pens like the XP-Pen X3 Pro series.
 
 ## Max Pressure
 
