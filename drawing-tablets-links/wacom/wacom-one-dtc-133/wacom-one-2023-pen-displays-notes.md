@@ -7,6 +7,9 @@ The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with p
 ## Basics
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)&#x20;
+* Models
+  * Wacom One 12 (2023) DTC-121
+  * Wacom One 13 (2023)  DTH-134
 
 ## Stroke quality
 
