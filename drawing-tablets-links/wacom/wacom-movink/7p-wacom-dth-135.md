@@ -245,11 +245,7 @@ Yes
   * The tablet does NOT come with a 3-in-1 cable&#x20;
   * Wacom offers the [**Wacom Converter (ACK45219Z)**](https://estore.wacom.com/en-us/wacom-converter-ack45219z.html) for thew Movink which serves the same role as a 3-in-1 cable.&#x20;
   * Wacom also has the [**3-in-1 Cable for Wacom One 2023  Pen Displays (ACK4490602Z)**](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)&#x20;
-    * I have tested this cable two computers but had problems.&#x20;
-      * First it did not transmit the video signal to the tablet
-      * Second, it did not transmit power to the tablet
-      * Even when I used a second power cable to provide power, there was still no video signal sent.
-    * I have heard that others find success with this cable. But it did not work for me.
+    * This 3-in-1 cable DID work with one condition - I had to connect the power end of the cable into a power adapter instead or relying on a USB-C port on my computer.
 * Here are some other experiences with connecting it
   * [reddit r/wacom - PSA: The new Movink only work on Thunderbolt / USB4 port](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/) 2024/05/26
 
