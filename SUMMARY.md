@@ -478,6 +478,7 @@
       * [Wacom Bamboo (CTL-470) notes](drawing-tablets-links/wacom/wacom-bamboo/wacom-bamboo-ctl-470-notes.md)
     * [Wacom MovinkPad](drawing-tablets-links/wacom/wacom-movinkpad/README.md)
       * [Wacom MovinkPad 11 (DTH-A116) notes](drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
+    * [Wacom final driver notices](drawing-tablets-links/wacom/wacom-final-driver-notices.md)
   * [Xencelabs](drawing-tablets-links/xencelabs/README.md)
     * [Xencelabs Pen Tablet Medium (BPH1212W-A) notes](drawing-tablets-links/xencelabs/xencelabs-bph1212w-a.md)
     * [Xencelabs Pen Display 16 (LPH1612U-A) notes](drawing-tablets-links/xencelabs/xencelabs-lph1612u-a.md)
