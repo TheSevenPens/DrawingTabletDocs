@@ -42,5 +42,5 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Poor performers
 
-* Wacom One M (CTC-6110WL) \[$150, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one-dtc-133/wacom-one-2023-pen-displays-notes.md)]
+* Wacom One M (CTC-6110WL) \[$150, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)]
   * <mark style="color:red;">**SUB-STANDARD PRESSURE HANDLING**</mark>
