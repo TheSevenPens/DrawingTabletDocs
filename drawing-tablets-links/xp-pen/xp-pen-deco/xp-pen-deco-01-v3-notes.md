@@ -2,8 +2,14 @@
 
 ## Overview
 
+* A OK tablet with the previous generation of pen technology&#x20;
+* This is an upgrade to the Deco 01 V2 - but looks to be the same exact tablet and drawing performance remains the same. The upgrade involves potentially better Android support.&#x20;
+
+## Basics
+
 * Product page: [https://www.xp-pen.com/product/deco-01-v3.html](https://www.xp-pen.com/product/deco-01-v3.html)&#x20;
 * User manual: [https://www.xp-pen.com/user-manual/deco-01-v3.html](https://www.xp-pen.com/user-manual/deco-01-v3.html)
+* Release year: 2025
 
 ## Photos
 
