@@ -2,18 +2,18 @@
 
 ## Overview
 
- The Wacom 114 is a decent entry level consumer pen display.
+ The Wacom One (DTC-141) is a decent entry level consumer pen display.
 
-The drawing performance in terms of how the pen behaves With regard to pressure is OK - it's not bad. But the drawing experience does not match the excellent experience you would see with a Wacom Cintiq or Cintiq pro.
+The drawing performance OK. It's not bad. However, it does not match the excellent experience you would see with a Wacom Cintiq or Wacom Cintiq Pro and their professional pens.
 
-This talent makes sense for the following scenarios:
+This tablet makes sense for the following scenarios:
 
 * someone's first pen display
 * a good tablet for a beginner
 * light artistic work
-* for use in education or communication
+* for use in education or communication or online meetings
 
-If you're going to consider this tablet please make sure you exactly understand how it will connect to your computer. This tablet is more oriented to connect to your computer via USB C cable. But to make use of that style of connection you need to make sure your USB C port on your computer meets all the requirements.
+Ensure you understand how it will connect to your computer. This tablet is intended to connect to your computer via the provided USB-C cable. You need to make sure your USB-C port on your computer meets all the requirements. Connecting with HDMI requires the purchase of the Wacom Converter ($80) and additional cables.
 
 ## Basics
 
@@ -24,10 +24,9 @@ If you're going to consider this tablet please make sure you exactly understand 
 
 ## Active area
 
-* Dimensions: TBD
-*   Diagonal length: TBD
-
-    Aspect ratio: 16x9
+* Dimensions: 309 x 174 mm
+* Diagonal length: 357.1  (14.06 in)
+* Aspect ratio: 16x9
 
 ## Included pen
 
