@@ -6,5 +6,6 @@
 * [**My notes on this tablet**](xp-pen-artist-ultra-16-md160uh-notes.md)
 * [Parka Blogs - Review of XP-Pen Artist Ultra 16](https://www.parkablogs.com/content/xppen-artist-ultra-16-4k-oled-review) 2025/09/29  &#x20;
 * [XP-Pen - Meet the Artist 16 Ultra](https://www.youtube.com/watch?v=k1kmo6r8WqQ) 2025/09/25
-* [Gartzia Artz - Review of XP-Pen Artist Ultra 16 (MD160UH) 2025/09/26](https://www.xp-pen.com/product/artist-ultra-16.html)&#x20;
+* [Brad Colbow Review of XP-Pen Artist Ultra 16](https://www.youtube.com/watch?v=1Wj-dbQmlG4) 2025/09/30
+* [Gartzia Artz - Review of XP-Pen Artist Ultra 16](https://www.xp-pen.com/product/artist-ultra-16.html)  2025/09/26
 
