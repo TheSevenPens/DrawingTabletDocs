@@ -144,7 +144,7 @@ You need to purchase:
 * USB-C to USB-C cable for power
 * USB-C power adapter
 
-The Wacom Converter costs $80 and so if you need to connect via HDMI then you are going to end up spending $100+ to connect this way.
+The Wacom Converter costs $80. If you need to connect via HDMI then you are going to end up spending more than $100.
 
 ### Notes on alternative cabling
 
