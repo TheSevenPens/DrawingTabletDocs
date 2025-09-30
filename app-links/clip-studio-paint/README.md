@@ -17,6 +17,7 @@
 * [Trent Kaniuga - Total BEGINNERS guide to drawing in Clip Studio Paint 2022](https://youtu.be/6cwfkCl8fwo) 2022/09/23
 * [Reddit: u/raghav4882 - Use CSP to learn drawing from scratch](https://www.reddit.com/r/ClipStudio/comments/16ltxhu/use_csp_to_learn_drawing_from_scratch/)&#x20;
 * [samijen - Full Guide to Clip Studio Paint](https://www.youtube.com/watch?v=nBujAXvVH3k) 2022/01/26&#x20;
+* [The Art of Nemo - Clip Studio Paint Crash Course For BEGINNERS](https://www.youtube.com/watch?v=7kiK52An2-c) 2024/04/21
 
 ## Tutorials
 
