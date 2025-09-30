@@ -116,6 +116,45 @@ NO. Has no VESA mounting holes on the back
 * 3 x Wacom One Pen Standard Nib
 * 1 x nib removal tool
 * 1 x USB Type-C Cable (1.8m)
-* 1 x Quick Start Guide
-* 1x Important Product Information document
+
+## Connections and cabling
+
+### Ports
+
+* 1 USB-C port
+
+### USB-C connection
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-09-30 at 3.37.47 PM.jpeg" alt=""><figcaption></figcaption></figure>
+
+The tabet comes with a USB-C cable to achieve a single cable connection to your computer.
+
+You computer's USB-C port needs to meet the requirements for this to work. See: [**Connecting a pen display with a single USB-C cable**](../../../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)
+
+### HDMI connection
+
+Instead of USB-C, the tablet CAN connect via HDMI. However it DOES NOT include the cables you need for this. AND it requires very a specific accessory for this to work.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-09-30 at 3.42.17 PM.jpeg" alt=""><figcaption></figcaption></figure>
+
+You need to purchase:
+
+* &#x20;Wacom Converter device
+* USB-A to USB-C cable for data
+* HDMI cable
+* USB-C to USB-C cable for power
+* USB-C power adapter
+
+The Wacom Converter costs $80 and so if you need to connect via HDMI then you are going to end up spending $100+ to connect this way.
+
+### Notes on alternative cabling
+
+Older Wacom one tablets use their own cables for HDMI connection. I've tested and they WILL NOT WORK with this device. Here are the cables that DO NOT work:
+
+* Wacom One X-Shape Cable (ACK44506Z) - will not work with DTC-141
+* Wacom One 3 In 1 Cable (ACK4490602Z) - does not work with DTC-141
+
+
+
+
 
