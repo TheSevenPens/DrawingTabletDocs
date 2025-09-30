@@ -7,7 +7,7 @@
 ## Wacom One 14 (DTC-141)
 
 * TBD
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-one-14-dtc-141-notes.md)  &#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtc-141.md)  &#x20;
 
 ## Wacom One 2023 GEN2 (DTC-131, DTH-134) pen displays
 
