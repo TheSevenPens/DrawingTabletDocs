@@ -13,7 +13,7 @@ This tablet makes sense for the following scenarios:
 * light artistic work
 * for use in education or communication or online meetings
 
-Ensure you understand how it will connect to your computer. This tablet is intended to connect to your computer via the provided USB-C cable. You need to make sure your USB-C port on your computer meets all the requirements. Connecting with HDMI requires the purchase of the Wacom Converter ($80) and additional cables.
+**Ensure you understand how it will connect to your computer.** This tablet is intended to connect to your computer via the provided USB-C cable. You MUST make sure your USB-C port on your computer meets all the requirements. It is possible to connect to your computer via HDMI. However, this requires the purchase of the Wacom Converter ($80) and additional cables.&#x20;
 
 ## Basics
 
