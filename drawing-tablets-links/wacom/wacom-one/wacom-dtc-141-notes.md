@@ -22,17 +22,29 @@ This tablet makes sense for the following scenarios:
 * Launch year: 2025
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 
-## Active area
+### Active area
 
 * Dimensions: 309 x 174 mm
 * Diagonal length: 357.1  (14.06 in)
 * Aspect ratio: 16x9
 
-## Included pen
+### What's in the box
+
+* 1 x Display Device
+* 1 x Wacom One Standard Pen
+* 3 x Wacom One Pen Standard Nib
+* 1 x nib removal tool
+* 1 x USB Type-C Cable (1.8m)
+
+## Pens
+
+### Included pen
 
 * Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../pen-links/wacom-pens/wacom-cp-923.md)
+  * High consumer-level IAF
+  * OK pressure range
 
-## Compatible pens
+### Compatible pens
 
 * Wacom One Standard Pen (CP-923)&#x20;
 * Wacom One Pen (CP-913)&#x20;
@@ -46,75 +58,92 @@ This tablet makes sense for the following scenarios:
 * AG Treatment: Etched glass. Described as "AG + AF glass"
 * Laminated: YES. Described as "Direct Bonding"
 
-## Anti-glare sparkle
+### Anti-glare sparkle
 
 LOW (GOOD)
 
-## Viewing angles
+### Viewing angles
 
 Very good. Almost no color shift at extreme angles.
 
-## Surface protection
+### Surface protection
 
-The surface is etehed glass
+The surface is etched glass
 
 the tablet does NOT come with a screen protector
 
-## Display sharpness
+### Display sharpness
 
 Very good. Pixels are clear and well-delineated.
 
 ## Drawing experience
 
-* **Tracking accuracy** - EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
-* Tilt compensation - EXCELLENT. At all angles the pointer is very close to the tip of the pen.
-* Pointer lag - OK. Typical for a pen display of this size.
-* Low pressure artifacts - TYPICAL. Drawing near IAF with large brushes (ex: 300px) you might see some blobby strokes. Can control with pressure curves and pressure smoothing.
-* Missed strokes - EXCELLENT. No missed strokes.
-* Pressure banding - EXCELLENT. No pressure banding observed.
+### **Tracking accuracy - vertical pen, no motion**&#x20;
 
-## Diagonal wobble
+* EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
+
+### Tracking accuracy - tilted pen, no motion
+
+* EXCELLENT. At all angles the pointer is very close to the tip of the pen.
+
+### Tracking accuracy - diagonal wobble - pen in motion
 
 * Low wobble at slow and medium speed strokes
 * In Krita, weighted smoothing at level 30 removed the wobble&#x20;
 
-## Legs
+### Tracking accuracy - pointer lag
 
-Does not have legs
-
-## Stand
-
-* Does not come with a stand.
-* I used it with a Parblo PR-100 stand
+OK. Typical for a pen display of this size.
 
 
 
-## Touch
+### Pressure - artifacts at low pressure
 
-Does not support touch
+TYPICAL. Drawing near IAF with large brushes (ex: 300px) you might see some blobby strokes. Can control with pressure curves and pressure smoothing.
 
-## VESA mountable
+### Pressure - banding&#x20;
 
-NO. Has no VESA mounting holes on the back
+EXCELLENT. No pressure banding observed.
 
-## Auxiliary inputs
+### Pressure - range (IAF and MAX)
 
-* None. No buttons, No dials, etc.
+See my notes on the Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../pen-links/wacom-pens/wacom-cp-923.md)
 
-## Surface texture
+### Pressure - scan rate&#x20;
+
+EXCELLENT. No missed strokes during fast input of 50 strokes
+
+### Surface texture
 
 * OK. Light surface texture. Typical of many pen displays
 * Feels similar to MovinkPad 11 or Movink 13
 * Pen does NOT feel slippery on the glass
 * Enough texture to draw well
 
-## What's in the box
+## Ergonomics
 
-* 1 x Display Device
-* 1 x Wacom One Standard Pen
-* 3 x Wacom One Pen Standard Nib
-* 1 x nib removal tool
-* 1 x USB Type-C Cable (1.8m)
+### Legs
+
+Does not have legs
+
+### Stand
+
+* Does not come with a stand.
+* I used it with a Parblo PR-100 stand
+
+### VESA mounting
+
+NO. Has no VESA mounting holes on the back
+
+## Other inputs
+
+### Touch
+
+Does not support touch
+
+### Auxiliary inputs
+
+* None. No buttons, No dials, etc.
 
 ## Connections and cabling
 
@@ -152,8 +181,3 @@ Older Wacom one tablets use their own cables for HDMI connection. I've tested an
 
 * Wacom One X-Shape Cable (ACK44506Z) - will not work with DTC-141
 * Wacom One 3 In 1 Cable (ACK4490602Z) - does not work with DTC-141
-
-
-
-
-
