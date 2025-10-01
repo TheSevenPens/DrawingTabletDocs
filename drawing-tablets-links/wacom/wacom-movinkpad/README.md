@@ -1,8 +1,15 @@
 # Wacom MovinkPad
 
+## MovinkPad Pro 14 (DTH-A140)
+
+* Release year: 2025
+* Model: DTH-A140
+* Product page: [https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)&#x20;
+
 ## MovinkPad 11 (DTH-A116)
 
 * Year: 2025
+* Model: DTH-A116
 * Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
 * [Wacom - Getting Started with Movink 11](https://www.wacom.com/en-us/getting-started/wacom-movinkpad-11)
 * [Wacom Support - What Pens are compatible with the Wacom MovinkPad 11?](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11) &#x20;
