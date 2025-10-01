@@ -80,8 +80,11 @@ Very good. Pixels are clear and well-delineated.
 
 ### **Static tracking accuracy**
 
-* Vertical pen  - EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
-* Tilted pen - EXCELLENT. At all angles the pointer is very close to the tip of the pen.
+* EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
+
+### Tilt compensation
+
+* EXCELLENT. At all angles the pointer is very close to the tip of the pen.
 
 ### Diagonal wobble
 
@@ -108,12 +111,18 @@ See my notes on the Wacom One Standard Pen (CP-923) - [**my notes on this pen**]
 
 EXCELLENT. No missed strokes during fast input of 50 strokes
 
+### Parallax
+
+VERY GOOD (LOW)
+
 ### Surface texture
 
 * OK. Light surface texture. Typical of many pen displays
 * Feels similar to MovinkPad 11 or Movink 13
 * Pen does NOT feel slippery on the glass
 * Enough texture to draw well
+
+
 
 ## Ergonomics
 
