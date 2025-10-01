@@ -78,38 +78,33 @@ Very good. Pixels are clear and well-delineated.
 
 ## Drawing experience
 
-### **Tracking accuracy - vertical pen, no motion**&#x20;
+### **Static tracking accuracy**
 
-* EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
+* Vertical pen  - EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
+* Tilted pen - EXCELLENT. At all angles the pointer is very close to the tip of the pen.
 
-### Tracking accuracy - tilted pen, no motion
-
-* EXCELLENT. At all angles the pointer is very close to the tip of the pen.
-
-### Tracking accuracy - diagonal wobble - pen in motion
+### Diagonal wobble
 
 * Low wobble at slow and medium speed strokes
 * In Krita, weighted smoothing at level 30 removed the wobble&#x20;
 
-### Tracking accuracy - pointer lag
+### Pointer lag
 
 OK. Typical for a pen display of this size.
 
-
-
-### Pressure - artifacts at low pressure
+### Artifacts at low pressure
 
 TYPICAL. Drawing near IAF with large brushes (ex: 300px) you might see some blobby strokes. Can control with pressure curves and pressure smoothing.
 
-### Pressure - banding&#x20;
+### Pressure banding&#x20;
 
 EXCELLENT. No pressure banding observed.
 
-### Pressure - range (IAF and MAX)
+### Pressure range (IAF and MAX)
 
 See my notes on the Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../pen-links/wacom-pens/wacom-cp-923.md)
 
-### Pressure - scan rate&#x20;
+### Pressure scan rate&#x20;
 
 EXCELLENT. No missed strokes during fast input of 50 strokes
 
