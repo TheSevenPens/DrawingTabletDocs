@@ -47,6 +47,15 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 
 <div align="left"><figure><img src="../../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
+## Firealpaca
+
+* In **FireAlpaca**, navigate to **File > Brush Environment Settings**
+* To the right of Select Pen Pressure API choose an option
+  * **Touch PC + Pen Tablet (Wintab)** -> disable Windows Ink
+  * **PC + Pen Tablet (Wintab)** -> disable Windows Ink
+  * **Tablet PC** -> use Windows Ink
+* **Brush Preference Settings**
+
 ## Medibang Paint
 
 * In MediBang, navigate to **File > Prefs and Settings > Brush Preference Settings**
@@ -56,14 +65,14 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
 * Click **OK**
 * Restart Medibang
 
-## Firealpaca
+## Rebelle
 
-* In **FireAlpaca**, navigate to **File > Brush Environment Settings**
-* To the right of Select Pen Pressure API choose an option
-  * **Touch PC + Pen Tablet (Wintab)** -> disable Windows Ink
-  * **PC + Pen Tablet (Wintab)** -> disable Windows Ink
-  * **Tablet PC** -> use Windows Ink
-* **Brush Preference Settings**
+* in Rebelle go to **Edit** > **Preferences** > **Tablet**
+* Under Tablet Options you can pick whether Windows Ink is used:
+  * **Wacom compatible (WinTab)** -> disable Windows Ink
+  * **Xencelabs tablet** -> unknown (i need to research)
+  * **Windows Pointer Device** -> unknown (I need to research)
+  * **Windows Ink Compatible** -> enable Windows Ink
 
 ## Configuring other applications
 
