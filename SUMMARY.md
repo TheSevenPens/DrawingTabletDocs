@@ -220,6 +220,7 @@
     * [Importing and Exporting tablet driver configurations](guides/drivers/importing-and-exporting-tablet-driver-configurations.md)
     * [Finding the driver settings UI](guides/drivers/finding-the-driver-settings-ui.md)
     * [TabletMagic](guides/drivers/tabletmagic.md)
+    * [Older Wacom drivers](guides/drivers/older-wacom-drivers.md)
   * [Advanced](guides/advanced/README.md)
     * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
