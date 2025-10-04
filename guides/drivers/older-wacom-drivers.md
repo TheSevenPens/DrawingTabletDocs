@@ -50,6 +50,8 @@ At that location, you can also download the raw JSON which lists all the drivers
 
 Note that download links are historical. Older links may not work since Wacom seems to actively remove older downloads.
 
+The source code for the viewer and the raw JSON are avialable in this repo: [https://github.com/TheSevenPens/Wacom-Driver-List](https://github.com/TheSevenPens/Wacom-Driver-List)&#x20;
+
 
 
 
