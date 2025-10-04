@@ -28,7 +28,7 @@ Many versions of Wacom drivers are there:
 * Some newer
 * They may not have the very latest versions though
 
-NOTE: These drivers are stored on archive.org and don't come directly from Wacom's site. So, take prcaution against malware.
+NOTE: These drivers are stored on archive.org and don't come directly from Wacom's site. So, take prceaution against malware.
 
 ## Option 3: Chocolatey (for Windows drivers)
 
@@ -38,7 +38,7 @@ LINK: [https://community.chocolatey.org/packages/wacom-drivers](https://communit
 
 They seem to have many drivers from the most recent all the way back to August of 2021.
 
-NOTE: These drivers are stored on archive.org and don't come directly from Wacom's site. So, take prcaution against malware.
+NOTE: These drivers are stored on the chocolatey repo and don't come directly from Wacom's site. So, take precaution against malware.
 
 ## Option 4: SevenPens list of Wacom drivers
 
@@ -52,7 +52,4 @@ Note that download links are historical. Older links may not work since Wacom se
 
 The source code for the viewer and the raw JSON are avialable in this repo: [https://github.com/TheSevenPens/Wacom-Driver-List](https://github.com/TheSevenPens/Wacom-Driver-List)&#x20;
 
-
-
-
-
+This site does NOT store any drivers, it either links to Wacom's CDN or to a location on archive.org.
