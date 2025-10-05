@@ -14,7 +14,7 @@ Make sure your brush shape is something that would show barrel rotation clearly.
 
 A shape like this would work
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 whereas a shape like this would not demonstrate barrel rotation because it is symetric about its center.
 
