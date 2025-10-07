@@ -63,3 +63,7 @@ These examples were created with a Wacom Intuos Pro Medium (2017) tablet
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+## Testing
+
+Here is how i test for banding: [Measuring pressure banding](../../process/measuring-pressure-banding.md)
