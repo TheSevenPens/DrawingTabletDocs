@@ -1,0 +1,31 @@
+# Measuring pressure banding
+
+## Background
+
+See: [Pressure banding](../core-features/pen-pressure/pressure-banding.md)
+
+## How to test
+
+Open Krita
+
+Ensure all pressure curves in driver and in Krita are set to the null pressure curve
+
+Create a brush with
+
+* Width 100px
+* Pressure mapped to opacity (press harder to make stroke more opaque)
+
+Draw a series of horizontal and vertical lines at a constant pressure - towards low end of pressure
+
+Perform some contrast enhancement on the image to help see the banding
+
+## A good result - no banding
+
+There is no banding here.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+## A bad result - banding visible
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
