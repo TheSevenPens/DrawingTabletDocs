@@ -30,6 +30,8 @@ In your operating system, you can configure the **displays settings** to not use
 
 See: [Stop using a display on Windows](../operating-systems/windows/stop-using-a-display-on-windows.md)
 
+Unfortunately, MacOS does not have a feature similar to the one found in Windows.
+
 ## Usage notes
 
 ### Pointer lag
@@ -42,14 +44,3 @@ Here's what you might notice
 * However the lag sensation may also be reduced because you have no direct way of comparing the pointer position to the pen's location.
 
 More here: [lag](../../core-features/lag/)
-
-
-
-
-
-
-
-
-
-
-
