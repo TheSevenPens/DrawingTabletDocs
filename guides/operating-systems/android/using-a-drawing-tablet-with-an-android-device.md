@@ -2,9 +2,30 @@
 
 ## Overview
 
-It **MIGHT BE POSSIBLE** in some **SPECIFIC COMBINATIONS** of drawing tablets and android device that you can use your drawing tablet with an Android device
+TLDR: **ONLY SPECIFIC COMBINATIONS** of drawing tablets and Android devices work well enough together.
 
-The specific combination of devices you have may not work or they may only partially work. Overall the best and most full-featured experience with a drawing tablet is when it is used with a typical computer (i.e. Windows or MacOS).
+A given drawing tablet connected to an Android device might result in one of several outcomes:
+
+* The the tablet does not work at all
+* The tablet works - but in an incomplete or dissatisfying way
+* The core tablet features work in a good way - this is rare
+
+## Feature availability: Android versus desktop computer
+
+Connecting your tablet to your PC with the tablet drivers installed, gives you ALL the capabilities of your tablet.
+
+Connecting your tablet to an Android device - even if everything works well - will only give you SOME of the capabilities of your tablet. This is because tablet drivers DO NOT EXIST for Android devices. Though occasionally some tablets feature "helper apps".
+
+| Feature                                    | Status on desktop OS with driver installed | Status on Android                                                 |
+| ------------------------------------------ | ------------------------------------------ | ----------------------------------------------------------------- |
+| Pressure curves in driver                  | AVAILABLE                                  | NOT SUPPORTED. Need to rely on application pressure curve support |
+| Display Toggle for multi-monitor scenarios | AVAILABLE                                  | NOT SUPPORTED                                                     |
+| Configuring Tablet Buttons                 | AVAILABLE                                  | NOT SUPPORTED                                                     |
+| Configuring Pen Buttons                    | AVAILABLE                                  | Limited configuring might be available in applications            |
+| On screen shortcut menus                   | AVAILABLE                                  | NOT SUPPORTED                                                     |
+| Force Proportions                          | AVAILABLE                                  | May or May not be implemented                                     |
+
+
 
 ## Compatibility
 
@@ -77,10 +98,15 @@ For a list of applications that work on Android go here: [**Apps**](../../../app
 
 Bluetooth. I don't know if this will work. I haven't ever tried.
 
+## Cabling issues
+
+Some drawing tablets require a separately-purchased OTG ("on-the-go") USB adapter to work with your Android device.&#x20;
+
 ## Connecting a pen display
 
 * Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
+*
 
 ## **Power**
 
