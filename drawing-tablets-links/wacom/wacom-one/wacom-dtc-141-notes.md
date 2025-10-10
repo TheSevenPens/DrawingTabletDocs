@@ -88,8 +88,11 @@ Very good. Pixels are clear and well-delineated.
 
 ### Diagonal wobble
 
-* Low wobble at slow and medium speed strokes
+* Low wobble at all strokes speeds
 * In Krita, weighted smoothing at level 30 removed the wobble&#x20;
+* In comparison, Wacom Movink 13 has less notably diagonal wobble&#x20;
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble Wacom One 14 (DTC-141).png" alt=""><figcaption></figcaption></figure>
 
 ### Pointer lag
 
