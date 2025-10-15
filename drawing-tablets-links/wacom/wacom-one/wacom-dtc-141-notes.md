@@ -15,6 +15,10 @@ This tablet makes sense for the following scenarios:
 
 **Ensure you understand how it will connect to your computer.** This tablet is intended to connect to your computer via the provided USB-C cable. You MUST make sure your USB-C port on your computer meets all the requirements. It is possible to connect to your computer via HDMI. However, this requires the purchase of the Wacom Converter ($80) and additional cables.&#x20;
 
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=eDu-6BBp8JI" %}
+
 ## Basics
 
 * Name: Wacom One 14
