@@ -24,7 +24,7 @@ The same delay at the beginning of dragging the pen, can manifest in other user 
 ## Diagnostic questions to answer
 
 * Does it happen in a specific app or all apps?
-* Does it happen in this online app? [**7P online tablet tester**](../developers/7p-online-tablet-tester.md)&#x20;
+* Does it happen in this online app? [**7P online tablet tester**](../resources/sevenpens-tablet-tester.md)&#x20;
 * Does it happen in the driver pressure test region?&#x20;
 
 ## Potential solutions
