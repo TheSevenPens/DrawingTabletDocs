@@ -1,15 +1,26 @@
 # SevenPens Wacom Driver List
 
-## &#x20;SevenPens list of Wacom drivers
+## Overview
 
-Based on crawling the sources above, I have an list of wacom drivers.
+I maintain a list of Wacom drivers stretching back about 20 years.
+
+The list contains links to download the drivers and the release notes.
 
 You can browse the list here: [https://thesevenpens.github.io/Wacom-Driver-List/](https://thesevenpens.github.io/Wacom-Driver-List/)&#x20;
 
-At that location, you can also download the raw JSON which lists all the drivers.
+## About the downloads
 
-Note that download links are historical. Older links may not work since Wacom seems to actively remove older downloads.
+For drivers: there may be multiple download links: one to the wacom site and one to archive.org.&#x20;
 
-The source code for the viewer and the raw JSON are avialable in this repo: [https://github.com/TheSevenPens/Wacom-Driver-List](https://github.com/TheSevenPens/Wacom-Driver-List)&#x20;
+Wacom deleted old versions of drivers from their site, so archive.org may be your only option.
 
-This site does NOT store any drivers, it either links to Wacom's CDN or to a location on archive.org.
+Also some links may not work, again because Wacom removes old versions.
+
+## Where are the downloads hosted
+
+I DO NOT host the binaries or the release notes. They are all kept at either wacom.com or archive.org
+
+## Source code and data
+
+The source code for the viewer and the raw JSON are available in this repo: [https://github.com/TheSevenPens/Wacom-Driver-List](https://github.com/TheSevenPens/Wacom-Driver-List)&#x20;
+
