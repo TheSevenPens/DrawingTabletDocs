@@ -1,10 +1,13 @@
 # Wacom One 14 (DTC-141) notes
 
-## Overview
+## Summary
 
- The Wacom One (DTC-141) is a decent entry level consumer pen display.
+The Wacom One (DTC-141) is a decent entry level consumer pen display with OK drawing performance at a competetive price.&#x20;
 
-The drawing performance OK. It's not bad. However, it does not match the excellent experience you would see with a Wacom Cintiq or Wacom Cintiq Pro and their professional pens.
+* The OK rating for drawing performance is due to the physical pressure range of the pen which has a HIGH IAF and LOW maximum physical pressure.
+* The tablet will require buying $100+ of additional accessories if you need to connect to your computer with HDMI. HDMI will be almost certainly needed to connect it to desktop computers.
+
+
 
 This tablet makes sense for the following scenarios:
 
@@ -20,6 +23,8 @@ This tablet makes sense for the following scenarios:
 {% embed url="https://www.youtube.com/watch?v=eDu-6BBp8JI" %}
 
 ## Basics
+
+### Product information
 
 * Name: Wacom One 14
 * Model number DTC-141
@@ -40,27 +45,59 @@ This tablet makes sense for the following scenarios:
 * 1 x nib removal tool
 * 1 x USB Type-C Cable (1.8m)
 
-## Pens
+###
+
+*
+
+## Specs
+
+### Digitizer
+
+* Digitizer resolution: 2540 LPI (100 LPmm)
+* Number of pressure levels: 4096
+* Tilt: YES
+* Tilt range: ± 60°
+* Report rate: Unknown
+
+### Display
+
+* Native resolution: 1920x1080 (Full HD)
+* Aspect ratio: 16x9
+* Surface Etched glass. Described as "AG + AF glass"
+* Laminated: YES. Described as "Direct Bonding"
+* Display panel: IPS
+* Contrast ratio: 1000:1
+* Brightness 285 nits
+* Response time: 16ms
+* Color bit depth: 8bpp
+* Color Gamut: sRGB (CIE 1931) 98％
 
 ### Included pen
 
 * Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../pen-links/wacom-pens/wacom-cp-923.md)
   * High consumer-level IAF
   * OK pressure range
+  * Replacement cost: $35
 
 ### Compatible pens
 
 * Wacom One Standard Pen (CP-923)&#x20;
 * Wacom One Pen (CP-913)&#x20;
-*   UD EMR pens. See [**Pens that support UD EMR 2nd gen**](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* UD EMR pens. See [**Pens that support UD EMR 2nd gen**](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* I tested these pens and they worked fine
+  * Wacom One Pen (CP-913)
+  * Wacom One Standard Pen (CP-923)
+  * Samsung S Pen
+  * Staedtler Noris Digitial
+  * Staedtler Noris Digitial Jumbo
+  * Staedtler Mars Lumograph digital
 
+### Incompatible pens
 
+* All Wacom pro pens are incompatible
+  * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
 
 ## Display
-
-* Native resolution: 1920x1080 (Full HD)
-* AG Treatment: Etched glass. Described as "AG + AF glass"
-* Laminated: YES. Described as "Direct Bonding"
 
 ### Anti-glare sparkle
 
@@ -80,7 +117,15 @@ the tablet does NOT come with a screen protector
 
 Very good. Pixels are clear and well-delineated.
 
-## Drawing experience
+## Pixelation
+
+As expected slightly more pixelation (slightly lower PPI) than previous Wacom One tablet that have same native resolution but are 13" instead of 14".
+
+I did not notice the difference in practive.
+
+## Drawing performance
+
+The drawing performance OK. It's not bad. However, it does not match the excellent experience you would see with a Wacom Cintiq or Wacom Cintiq Pro and their professional pens.
 
 ### **Static tracking accuracy**
 
@@ -118,9 +163,17 @@ See my notes on the Wacom One Standard Pen (CP-923) - [**my notes on this pen**]
 
 EXCELLENT. No missed strokes during fast input of 50 strokes
 
+### Pressure Banding
+
+GOOD. DIsplayed NO pressure banding.
+
 ### Parallax
 
 VERY GOOD (LOW)
+
+## Pressure curves
+
+The "Tip feel" slider in the Wacom One application controls the pressure curve. However the curve itself is not shown in the Wacom Center, just the slider.
 
 ### Surface texture
 
@@ -129,9 +182,15 @@ VERY GOOD (LOW)
 * Pen does NOT feel slippery on the glass
 * Enough texture to draw well
 
-
-
 ## Ergonomics
+
+### Noise
+
+None. Completely silent. Has no fans to cause noise.
+
+### Heat
+
+Stayed cool to the touch even at 100% brightness brightness
 
 ### Legs
 
@@ -140,17 +199,23 @@ Does not have legs
 ### Stand
 
 * Does not come with a stand.
-* I used it with a Parblo PR-100 stand
+* For this tablet, Wacom suggestes the Wacom Foldable Stand (ACK652Z). This costs $100
+* I used the tablet with a Parblo PR-100 stand
 
 ### VESA mounting
 
-NO. Has no VESA mounting holes on the back
+* NO. Has no VESA mounting holes on the back
 
 ## Other inputs
 
 ### Touch
 
-Does not support touch
+Does not support touch.
+
+If you need touch, consider these tablets:
+
+* Wacom Movink 13 (DTH-135)
+* Wacom One 13 touch (DTH-134)
 
 ### Auxiliary inputs
 
