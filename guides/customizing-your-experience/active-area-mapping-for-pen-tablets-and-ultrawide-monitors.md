@@ -1,4 +1,4 @@
-# Active Area Mapping for pen tablets and widescreen monitors
+# Active Area Mapping for pen tablets and ultrawide monitors
 
 Using a pen tablet with a widescreen monitor presents some challenges and some new opportunities with a pen tablet due to the extreme differences in aspect ratio.
 

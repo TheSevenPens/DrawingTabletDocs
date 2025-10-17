@@ -148,7 +148,7 @@
     * [Using large pen tablets](guides/customizing-your-experience/using-large-pen-tablets.md)
     * [Using extra-large pen tablets](guides/customizing-your-experience/using-extra-large-pen-tablets.md)
     * [Matching pen tablet size to monitor size](guides/customizing-your-experience/matching-pen-tablet-size-to-monitor-size.md)
-    * [Active Area Mapping for pen tablets and ultrawidemonitors](guides/customizing-your-experience/active-area-mapping-for-pen-tablets-and-ultrawidemonitors.md)
+    * [Active Area Mapping for pen tablets and ultrawide monitors](guides/customizing-your-experience/active-area-mapping-for-pen-tablets-and-ultrawide-monitors.md)
     * [Mirroring or extending your desktop to a pen display](guides/customizing-your-experience/mirroring-or-extending-your-desktop-to-a-pen-display.md)
     * [Using a pen display as a pen tablet](guides/customizing-your-experience/using-a-pen-display-as-a-pen-tablet.md)
     * [Using metal nibs](guides/customizing-your-experience/using-metal-nibs.md)
