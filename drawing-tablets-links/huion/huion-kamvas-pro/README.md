@@ -1,6 +1,6 @@
 # Huion Kamvas Pro
 
-## Huion Kamvas Pro 16 V2 (GT-156 V2)
+## Huion Kamvas Pro 16 V2 (GT156 V2)
 
 * Model year: 2025
 * Product page: [https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-16-v2.html](https://www.huion.com/products/pen_display/KamvasPro/kamvas-pro-16-v2.html)
