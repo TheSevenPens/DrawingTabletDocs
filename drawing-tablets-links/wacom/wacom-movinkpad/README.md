@@ -5,6 +5,8 @@
 * Release year: 2025
 * Model: DTH-A140
 * Product page: [https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)&#x20;
+* [Brad Colbow - Review MovinkPad Pro 14](https://www.youtube.com/watch?v=lpBGmiO4f7I) 2025/10/17&#x20;
+* [<mark style="background-color:green;">My notes on this tablet</mark>](movinkpad-pro-14-dth-a140-notes.md)
 
 ## MovinkPad 11 (DTH-A116)
 
@@ -19,6 +21,7 @@
 * [Brad Colbow - Review of MovinkPad 11](https://www.youtube.com/watch?v=TnGji_u53UQ) 2025/08/07
 * [Aaron Rutten - Review of MovinkPad 11](https://www.youtube.com/watch?v=9Pr9Et7_ezY) 2025/07/31
 * [Gartzia Artz - Review of Wacom MovinkPad 11](https://www.youtube.com/watch?v=xQR-sIQNExg) 2025/07/31
+* [<mark style="background-color:green;">My notes on this tablet</mark>](wacom-dth-a116-notes.md)
 
 
 
