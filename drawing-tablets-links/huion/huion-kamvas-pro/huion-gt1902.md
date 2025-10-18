@@ -8,26 +8,83 @@ Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a
 
 ## Companion video
 
-This companion video covers many but not all of the topics described in these notes: [https://youtu.be/CnTBrhUhciM](https://youtu.be/CnTBrhUhciM)&#x20;
+This companion video covers many but not all of the topics described in these notes:&#x20;
+
+{% embed url="https://www.youtube.com/watch" %}
 
 ## Basics
 
+### Product information
+
+* Name: Huion Kamvas Pro 19
+* Model number: GT1902
+* Launch year: Released: Jan 2024
+* Product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)
+
+### Active area
+
+* Dimensions: 409 x 230 mm
+* Diagonal: 469.23 mm (18.473622")
+* Aspect ratio: 16x9
+
+### What's in the box
+
+* Kamvas Pro 19 Pen Display
+* PD Power Adapter
+* 3-in-2 Cable (1.8m)
+* Full-featured USB-C Cable (1.8m)
+* USB-C to USB-C Cable (1.8m)
+* PW600 Digital Pen
+* PW600S Digital Pen
+* PN06 Standard Pen Nib x 5 (inside the pen case)
+* PN06F Felt Pen Nib x 5 (inside the pen case)
+*  Pen Case
+* (Built-in nib clip, pen nibs)
+
+## Specs
+
+### Digitizer
+
+* Note: huion describes the tech version as PenTech 4.0
+* Digitizer tech: EMR
+* resolution: 200 LPmm (5080 LPI)
+* Number of pressure levels: 16,384&#x20;
+* Tilt support: YES
+* TIlt range: +/- 60 deg
+* Hover height: 10mm
+* Report rate: 260PPS
+* Accuracy: Accuracy:±0.5mm (Center), ±3mm (Corner)
+
+### Display
+
 * Resolution: 4K (3840x2160)
-* PenTech 4.0
-* New AG glass
+* Diagonal size: Actually 18.47"
+* Surface: (New) AG glass
+* Laminated: YES
+* Brightness: 220nits
+* Response time: 15ms
+* Refresh rate: 60hz
+* Contrast ratio: 1000:1
+* **Color gamuts supported** (as stated by Huion)
+  * Native
+  * sRGB – 99%
+  * AdobeRGB – 96%
+  * DCI-P3 – 98%
+  * There is also a "User" mode
+
+### Other
+
 * Multi-touch&#x20;
   * Support for Windows&#x20;
   * Support for MacOS (after a firmware update)
-* Comes with 2 pens: PW600 and PW600S
-* Diagonal size: 19"&#x20;
-  * Actually 18.57"
-* Released: Jan 2024
 
-## PenTech 4.0
+## Included pen
+
+* Comes with 2 pens: PW600 and PW600S
+
+## Notes on PenTech 4.0
 
 Definitely an improvement over PenTech 3.0. Especially noticable in how pressure is handled.
-
-
 
 ## Pens
 
@@ -50,33 +107,62 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 
 ## Drawing Experience
 
-* **Corner/Edge accuracy** - NORMAL. This is only visible in the last 2mm and did not affect my normal usage of the tablet. It was so minor, I didn't even bother performing any calibration to address it.
-* **Pointer lag** - NORMAL - standard for modern pen displays.
-* **Parallax** - NORMAL - standard for modern pen displays.
-* **Pen IAF and Max pressure - See** [**Huion PW600 and PW600S**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+### **Corner/Edge accuracy**&#x20;
+
+* NORMAL. This is only visible in the last 2mm and did not affect my normal usage of the tablet. It was so minor, I didn't even bother performing any calibration to address it.
+
+### **Pointer lag**&#x20;
+
+NORMAL - standard for modern pen displays.
+
+### **Parallax**&#x20;
+
+NORMAL - standard for modern pen displays.
+
+### **Pressure range**&#x20;
+
+**Pen IAF and Max pressure - See** [**Huion PW600 and PW600S**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+
 * **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../core-features/pen-pressure/pen-pressure-instability-at-low-pressure.md)&#x20;
 * **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
-* **Pen tilt compensation** - VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [**pen tilt compensation**](../../../core-features/pen-tilt/pen-tilt-compensation.md).
 
-## **Display**
+### Tilt compensation&#x20;
 
-**OSD** - to get to the OSD Hold the power button for a few seconds and the OSD can appear
+VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [**pen tilt compensation**](../../../core-features/pen-tilt/pen-tilt-compensation.md).
 
-**Color gamuts supported** (as stated by Huion)
+### **Surface texture**&#x20;
 
-* Native
-* sRGB – 99%
-* AdobeRGB – 96%
-* DCI-P3 – 98%
-* There is also a "User" mode
+it feels slightly more textured than the Huion Kamvas Pro 24 4K
 
-I use the sRGB mode exclusively because it most closely matches my other displays.&#x20;
+### **Parallax**&#x20;
 
-**Refresh rate** - NORMAL. Up to 60Hz which is standard for pen displays in 2024. Does not support 120Hz.
+VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation. As is typical even for Cintiq Pro tablets, the parallax is not as good as an Apple iPad. More here: [**Parallax**](../../../guides/pen-displays/parallax.md)&#x20;
 
-**Anti-glare treatment** - the display uses an etched glass surface which does a good job dispersing light that hits the surface of the tablet. It reduces more glare even than the Cintiq Pro 22.
+## Drawing experience
 
-**Anti-Glare sparkle** - OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle. More here: [**Anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md)
+### Pens and Pressure
+
+**Pens** - comes with the PW600 and PW600S pens.&#x20;
+
+**Driver & Pens** - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
+
+These pens are very good in terms of pressure. Much more here: [**Huion PW600 and PW600S**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+
+### Diagonal wobble
+
+GOOD. LOW amounts of wobble in stroke.
+
+<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
+
+## **Display experience**
+
+### Anti-glare treatment&#x20;
+
+the display uses an etched glass surface which does a good job dispersing light that hits the surface of the tablet. It reduces more glare even than the Cintiq Pro 22.
+
+### **Anti-Glare sparkle**
+
+&#x20;OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle. More here: [**Anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md)
 
 How the AG sparkle of this tablet compares to other tablets
 
@@ -89,17 +175,21 @@ How the AG sparkle of this tablet compares to other tablets
 * MUCH LESS than Kamvas Pro 16 4K Plus&#x20;
 * It SHOULD have less than the Kamvas Pro 27 which has a lower density display panel (lower PPI)
 
-**Sharpness** - OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) and Cintiq Pro 22 have a slightly soft experience, this Huion has a little more softness than that.
+### **Sharpness**&#x20;
+
+&#x20;OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) and Cintiq Pro 22 have a slightly soft experience, this Huion has a little more softness than that.
 
 <figure><img src="../../../.gitbook/assets/GT1902_softness.jpg" alt=""><figcaption></figcaption></figure>
 
-**Brightness** - seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%. In comparison I use the Cintiq Pro 22 at 50% (I would use it at 70% but don't like the additional fan noise it creates).
+### **Brightness**&#x20;
 
-**Parallax** - VERY GOOD. It has very little parallax. As good as - maybe even a little better than the Wacom Cintiq Pro 22 in my observation. As is typical even for Cintiq Pro tablets, the parallax is not as good as an Apple iPad. More here: [**Parallax**](../../../guides/pen-displays/parallax.md)&#x20;
+seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%. In comparison I use the Cintiq Pro 22 at 50% (I would use it at 70% but don't like the additional fan noise it creates).
+
+###
 
 ## **Connections and cabling**
 
-**Single USB-C cable connection?**
+### **Single USB-C cable connection?**
 
 Official Answer: NO. Huion's documentation is explicit on thjis point ([**see this doc**](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)).
 
@@ -107,7 +197,7 @@ I tried testing it with an appropriate cable and could not get a single cable co
 
 However ... this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion_kamvas_pro_19_usbc_cables/)
 
-**Using third party USB-C cables for display signal & data**
+### **Using third party USB-C cables for display signal & data**
 
 I tried a Cable Matters USB-C Thunderbolt cable. It did work, however sometimes slight movements of the cable cause the tablet to lose the display signal and data.
 
@@ -133,35 +223,33 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 ## **Ergonomics**
 
-**Weight** - lighter than I expected. I noticed it immediately when I picked up the box.&#x20;
+### **Weight**&#x20;
 
-**VESA mounting** - YES. There are 75 mm × 75 mm VESA holes for mounting on the back.&#x20;
+lighter than I expected. I noticed it immediately when I picked up the box.&#x20;
 
-**Legs** - YES. Two legs. Seemed sturdy. No complaints.
+### **VESA mounting**&#x20;
 
-**Noise** - EXCELLENT. No noise because no fans
+YES. There are 75 mm × 75 mm VESA holes for mounting on the back.&#x20;
 
-**Heat** - EXCELLENT. After running at 100% brightness for one month days without turning off the tablet, the tablet stays cool. Roughly the same temperature as the Wacom Cintiq Pro 22 - maybe very very slightly warmer. Just very slightly warmer on the right than the left side.&#x20;
+### **Legs**&#x20;
 
-**Stand** - It does not come with a stand. Instead, I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
+&#x20;YES. Two legs. Seemed sturdy. No complaints.
 
-**Surface texture** - it feels slightly more textured than the Huion Kamvas Pro 24 4K
+### **Noise**
 
-## Pens and Pressure
+&#x20;EXCELLENT. No noise because no fans
 
-**Pens** - comes with the PW600 and PW600S pens.&#x20;
+### **Heat**&#x20;
 
-**Driver & Pens** - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
+EXCELLENT. After running at 100% brightness for one month days without turning off the tablet, the tablet stays cool. Roughly the same temperature as the Wacom Cintiq Pro 22 - maybe very very slightly warmer. Just very slightly warmer on the right than the left side.&#x20;
 
-These pens are very good in terms of pressure. Much more here: [**Huion PW600 and PW600S**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+### **Stand**&#x20;
 
-## Diagonal wobble
+&#x20;It does not come with a stand. Instead, I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.&#x20;
 
-GOOD. LOW amounts of wobble in stroke.
+## Comparisons
 
-<figure><img src="../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
-
-## Compared to the Huion Kamvas Pro 24 4K (GT2401)
+### Compared to the Huion Kamvas Pro 24 4K (GT2401)
 
 The Huion Kamvas Pro 24 4K (GT2401) was Huion's flagship pen display for a few years. And now the the Kamvas Pro 19 and Kamvas Pro 27 tablets represent the new flagship tablets.  &#x20;
 
@@ -180,7 +268,7 @@ There are a few areas that might not compare as well though
 
 But for other areas, the Kamvas Pro 24 4K was already a good pen display. So for this reason, if you already have a Huion Kamvas Pro 24 4K (GT2401) then these new tablets are NOT an immediate "MUST BUY". If you are happy with how your Kamvas Pro 24 4K is working, then keep it. I would suggest at least waiting to see if Huion releases something closer to a 24" size.&#x20;
 
-## Compared to the Huion 16 GEN3
+### Compared to the Huion 16 GEN3
 
 Not long after Huion rolled out the Kamvas Pro 19, it followed up with the Kamvas 13 GEN3 Kamvas 16 GEN3.
 
@@ -203,13 +291,21 @@ Because of their similar sizes, many people want to understand the differences b
 
 ## Other topics
 
-**Sound** - there's a headphone jack for audio. Some of you may find this convenient.
+### **OSD**&#x20;
+
+to get to the OSD Hold the power button for a few seconds and the OSD can appear
+
+### **Sound**&#x20;
+
+There's a headphone jack for audio. Some of you may find this convenient.
 
 In Windows if you connect the tablet, it may **appear** that windows has lost sound output. What is happening here is Windows can automatically switch its default audio to a new audio device - which is what this tablet is. Of course, it doesn't have speakers, so you won't hear anything unless you have a headphone connected.&#x20;
 
+### Usage notes
+
 **Driver > Active Area mapping on resume from sleep on Windows** - On Windows, when resuming from sleep the Huion driver can occasionally become be confused about how to map the active area of the tablet to the screen. It may choose the wrong screen. It map span across both screens. When it does this it may not track the pen position correctly. This is resolved just by restarting Windows. This is a well-known issue with Huion drivers. Not a serious problem but a minor irritation.&#x20;
 
-**Can you use it as a pen tablet?**
+### **Using it as a pen tablet**
 
 Yes. In Windows, you can tell windows to "disconnect" the display in the tablet and you will no longer see anything on the tablet. It will say "no signal" for few seconds then go dark. However, you can still use the pen on the tablet - just like a normal pen tablet (screenless tablet).
 
