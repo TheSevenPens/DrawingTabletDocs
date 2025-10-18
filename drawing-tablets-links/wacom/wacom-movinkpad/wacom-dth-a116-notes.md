@@ -1,10 +1,10 @@
 # Wacom MovinkPad 11 (DTH-A116) notes
 
-## Initial notes
+## Basics
 
 <mark style="color:red;">**I AM ACTIVELY TESTING THIS DEVICE.**</mark> So expect my notes to evolve, but here are some initial thoughts:
 
-## Basics
+### Product information
 
 Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)&#x20;
 
@@ -14,16 +14,41 @@ Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https:/
 * Storage: 128GB
 * Operating System: Android 14
 
-## Display
+### Active area
+
+* Dimensions: 243 x 159 mm (9.6 x 6.3 in)
+* Diagonal length: 11"&#x20;
+
+### What's in the box
+
+* MovinkPad 11&#x20;
+* USB-C to C charging cable
+* Wacom Pro Pen 3 (slim barrel) with nib holder
+* 3 felt nibs&#x20;
+
+## Specs
+
+### Digitizer
+
+* Technology: EMR
+* Dimensions: 243 x 159 mm (9.6 x 6.3 in)
+* Digitizer resolution: 5090LPI (200 LPmm)
+* Number of pressure levels: 8192
+* Tilt: YES
+* Tilt range: ± 60°
+* Report rate: Unknown
+
+### Display
 
 * Native resolution: 2200x1440
-* Color Gamut: sRGB 99% (CIE1931) (typ)&#x20;
+* Color Gamut: sRGB 99% (CIE1931)&#x20;
 * Color depth: 24bit color (8 bits per channel)
 * Aspect ratio: 3x2
 * Contrast ratio: 1200:1
 * Brightness: 400cd/m<sup>2</sup> (typ)
 * Refresh rate: 60hz & 90hz
-* Anti-glare treatment: AF + AG glass
+* Surface: AF + AG glass
+* Display panel: IPS
 
 ## Movink vs MovinkPad
 
@@ -38,15 +63,38 @@ Because the names are familiar, I'll highlight the key differences
 
 If you are ordering this device online, please make sure you are ordering the correct device.
 
-## Included pen
+### Included pen
 
 * Pro Pen 3 (ACP-500) - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 
-## Pen replacement cost
+### Pen replacement cost
 
 * Losing or breaking your pen is always a bad experience.
 * In this case you REALLY want to take care of your pen because the replacement cost of the Pro Pen 3 (ACP-500) is $130.&#x20;
 * Yes, you can buy the a cheaper UD EMR pen as a replacement - but these are AWFUL compared to the Pro Pen 3.
+
+## Pen compatibility
+
+* It is compatible with
+  * Pro Pen 3 (ACP-500) - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+  * [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md) &#x20;
+* <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
+  * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
+  * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
+  * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>
+
+## Display experience
+
+Topics to cover:
+
+* Anti-glare sparkle
+* VIewing angles
+* Surface protection
+* Display sharpness
+
+### AG Sparkle
+
+TBD
 
 ## Drawing experience
 
@@ -58,27 +106,15 @@ All core features work well
 * Tilt compensation
 * Pressure sensitivity (see my notes on the pen)
 
-## Diagonal wobble
+### Diagonal wobble
 
 TBD
 
-## Parallax
+### Parallax
 
 TBD
 
-## AG Sparkle
-
-TBD
-
-## Pen compatibility
-
-* It is compatible with
-  * Pro Pen 3 (ACP-500) - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
-  * [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md) &#x20;
-* <mark style="color:red;">**It is NOT compatible with**</mark>
-  * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
-  * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
-  * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>&#x20;
+## &#x20;
 
 ## Connections and cabling
 
