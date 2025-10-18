@@ -20,6 +20,19 @@ Models I have specifically used with Windows 11:
 * It was a tablet that was gifted to them
 * They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-a-drawing-tablet/buying-used-drawing-tablets.md))
 
+## Support lifetime
+
+Over time a drawing tablet brand will stop supporting older tablets. For Wacom this is around 10 to 12 years from when the tablet was introduced.
+
+Wacom maintains a list of products that are no longer supported here: [What Products Can No Longer Be Serviced by Wacom?](https://support.wacom.com/hc/en-us/articles/4415799565719-What-Products-Can-No-Longer-Be-Serviced-by-Wacom)
+
+I don't know about the support lifetimes for other brands.
+
+When the support lifetime ends for tablet:
+
+* New drivers may explicitly prevent themselves from working with the tablet
+* Customer support will not assist you with the tablet. Instead they will typically suggest that you buy a new tablet&#x20;
+
 ## Drivers overview
 
 Drivers allow a tablet to be used with a computer. They are required if you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. More here: [**drivers**](../drivers/)
