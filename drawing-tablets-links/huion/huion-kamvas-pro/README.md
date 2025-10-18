@@ -1,5 +1,11 @@
 # Huion Kamvas Pro
 
+## Huion Kamvas Pro 16 V2
+
+* Model year: 2025
+* Product page: [https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-16-v2.html](https://www.huion.com/products/pen_display/KamvasPro/kamvas-pro-16-v2.html)
+* [Teoh on Tech - review of Huion Kamvas pro 16 V2](https://www.youtube.com/watch?v=7lR83wtaBk4) 2025/10/18
+
 ## Huion Kamvas Pro 27 (GT2701)
 
 * Model Year: 2024
