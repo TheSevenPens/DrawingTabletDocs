@@ -369,6 +369,7 @@
     * [Procreate notes](app-links/procreate/procreate-notes.md)
   * [Rebelle](app-links/rebelle.md)
   * [Samsung Notes](app-links/samsung-notes.md)
+  * [StylusX](app-links/stylusx.md)
   * [ZoomIt](app-links/zoomit.md)
 * [Drawing tablet links](drawing-tablets-links/README.md)
   * [Apple](drawing-tablets-links/apple/README.md)
