@@ -27,6 +27,7 @@
 * **Paintstorm Studio** (Windows, macOS, iOS, Linux) \[[**links**](../app-links/paintstorm-studio.md)]
 * **Procreate** (iOS) \[[**links**](../app-links/procreate/)]
 * **Rebelle** (Windows, MacOS) \[[**links**](../app-links/rebelle.md)]
+* StylusX (Windows) \[[links](../app-links/stylusx.md)]
 
 ## Sprites and pixel art
 
