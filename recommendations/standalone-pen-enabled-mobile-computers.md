@@ -65,9 +65,9 @@ For applications that run on Android see this list: [**Apps for Android**](../ap
 
 ## Wacom MovinkPad 11
 
-Of the current generation of standalone drawing tablets. This is the best in terms of drawing experience - primarily because it support using the Pro Pen 2.
+Of the current generation of standalone drawing tablets. This is the best in terms of drawing experience - primarily because it support using the Pro Pen 2 and is heavily optimized for quick sketching. [<mark style="background-color:green;">**my notes on this tablet**</mark>](../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
 
-[<mark style="background-color:green;">**my notes on this tablet**</mark>](../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
+
 
 ## XP-Pen Magic Drawing Pad
 
@@ -88,7 +88,13 @@ Resources
 * [Gartzia Artz - The Best Tablet? iPad Pro vs. Xiaomi Pad 7 vs. XP Pen, MagicPad vs. Honor MagicPad 2 vs. Huawei M...](https://www.youtube.com/watch?v=vvCvsAbAK6A) 2025/03/12
 *
 
-    \
+## Videos
+
+{% embed url="https://youtu.be/NK2_dIGQKk8" %}
+
+
+
+\
 
 
 
