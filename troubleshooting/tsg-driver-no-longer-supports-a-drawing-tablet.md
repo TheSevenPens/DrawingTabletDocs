@@ -1,12 +1,34 @@
 # TSG: driver no longer supports a drawing tablet
 
+## Overview
+
 As years pass, a manufacturer will periodically publish new versions of their tablet driver.&#x20;
 
-And periodically, these driver updates dfrop support for older models.
+And periodically, these driver updates drop support for older models.
 
-You have a couple of options:
+You have a couple of options.
 
-* Try an older version of your manufacturer's drivers that does support your tablet. The risks of this approach is that sometimes the older drivers don't work well with newer operating systems.
-* Try using **OpenTabletDriver** ([https://opentabletdriver.net/](https://opentabletdriver.net/)). Setting up OpenTabletDriver on Windows can be challenging. I wrote this guide to provide step-by-step instructions: Try [**Using OpenTabletDriver with Windows**](../guides/drivers/opentabletdriver/opentabletdriver-windows.md). OpenTabletDriver has full support for tilt and pressure on Windows and on MacOS.
-* Windows has somer VERY RUDIMENTARY support for tablets (this is called "Windows Plug-and-Play" support) and it works with SOME tablets in a limited way. For those tablets, The PNP support may support pressure and clicking but no pressure and tilt.
+## OPTION 1: An older driver
+
+Try an older version of your manufacturer's drivers that does support your tablet.&#x20;
+
+The risks of this approach is that sometimes the older drivers don't work well with newer operating systems. You may be left in a situation where some features don't work.
+
+## OPTION 2: Use **OpenTabletDriver**&#x20;
+
+Setting up and configuring OpenTabletDriver can be challenging. On the other hand, it works with over 200 tablets - some over 20 years old.
+
+OpenTabletDriver has full support for tilt and pressure on Windows and on MacOS.
+
+More here: [OpenTabletDriver](../guides/drivers/opentabletdriver/)
+
+## OPTION 3: Use Windows PNP drivers
+
+Windows has somer VERY RUDIMENTARY support for tablets (this is called "Windows Plug-and-Play" support - shortened to PNP) and it works with SOME tablets in a limited way. It may be enough for the core features of some tablets. But it may not work well or at all with other tablets.
+
+MacOS does NOT have an equivalent to Plug-and-Play for drawing tablets.
+
+More here: [Windows PNP support for drawing tablets](../guides/operating-systems/windows/windows-pnp-support-for-drawing-tablets.md)&#x20;
+
+
 
