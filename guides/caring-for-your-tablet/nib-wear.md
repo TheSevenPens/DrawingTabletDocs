@@ -2,37 +2,28 @@
 
 ## Overview
 
-Nib wears down due to friction caused by the nib moving against the tablet surface.
+Nib wears down due to friction caused by the nib moving against the tablet surface. **Many factors** influence how fast a nib wears down and people have **vastly different experiences**. For some people a nib may last years. Some people seem to go through a nib in a week.
 
-**Many factors** influence how fast a nib wears down and people have **vastly different experiences**. For some people a nib may last years. Some people seem to go through a nib in a week.
+Two changes will be visible in your nibs over time:
 
-<div align="left">
+* The nib wear get shorter
+* The nib may flatten out - creating a essentially a sharper edge&#x20;
 
-<figure><img src="../../.gitbook/assets/7P SLIDE Nib Wear.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/7P SLIDE Nib Wear.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Examples
 
 Below you can see the wear on an Wacom Art Pen nib which has been used on a Wacom Intuos Pro Large (PTH-860) surface after two weeks.&#x20;
 
-<div align="left" data-full-width="false">
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/artpen nib - wear example.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/artpen nib - wear example.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WIN_20230402_06_35_36_Pro.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WIN_20230402_06_35_36_Pro.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Surface texture
 
 Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [**surface texture**](../../core-features/surface-texture.md).&#x20;
 
-Keep in mind, even the surface texture can wear down and become smoother. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md)&#x20;
+The nib wears down as you use it on a table surface. But a plastic table surface can also wear down from repeated exposer to the nib. And so, the tablet surface can become smoother over time. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md)&#x20;
 
 ## Heavy-handed drawing
 
@@ -55,26 +46,19 @@ Nibs are typically made of plastic or felt. And the material choice will affect 
 
 ## When should you replace you nib?
 
-I recommend you replace you nib when:
+I recommend you replace you nib when either these conditions is true:
 
 * Most of the tip has become flat
 * The nib is getting short - nib remover tools need to be able to grasp enough of the nib to pull it out. If you let them get to short, they are going to be stuck or very difficult to remove.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/7P SLIDE Nib Wear 2.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/7P SLIDE Nib Wear 2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Resources
 
 Here's some videos related to this topic:
 
-* Mink -[ Tips for increasing your Pen Nibs’ lifespan](https://youtu.be/t2nJ4k4YJl0)&#x20;
-* Aaron Rutten - [When to CHANGE Drawing Tablet Pen Nibs](https://youtu.be/iI6X41Jhm9g)&#x20;
-* Aaron Rutten - [Wearing Down Nibs & Tablet Scratches](https://youtu.be/Ws\_gXgdmKX0)&#x20;
-
-For me what works best is just buying more nibs because they are cheap and easy to replace.
-
-##
+* Xencelabs - [When Do I Need to Change The Nib on My Pen?](https://www.youtube.com/watch?v=s7n0Sene2SQ) Oct 20, 2025
+* Mink -[ Tips for increasing your Pen Nibs’ lifespan](https://youtu.be/t2nJ4k4YJl0) Jul 9, 2021
+* Aaron Rutten - [When to CHANGE Drawing Tablet Pen Nibs](https://youtu.be/iI6X41Jhm9g) Dec 25, 2020
+* Aaron Rutten - [Wearing Down Nibs & Tablet Scratches](https://youtu.be/Ws_gXgdmKX0)  Feb 27, 2015
 
