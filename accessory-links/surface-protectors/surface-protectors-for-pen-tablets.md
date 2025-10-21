@@ -17,6 +17,10 @@ If you are looking for protection for other kinds of devices go here: [**Surface
 * **BlueBunny** - I don't have any direct experience with their covers. They might be an option for some of you. [**https://bluebunny.store/**](https://bluebunny.store/)&#x20;
 * These paper protectors may be an option. [https://www.aliexpress.us/item/3256801092807991.html](https://www.aliexpress.us/item/3256801092807991.html)&#x20;
 
+### Screen protectors on pen tablets
+
+You can use screen protectors intended for pen displays for pen tablets. See [**screen protectors**](screen-protectors-for-pen-displays.md). Some suppliers of screen protectors not only sell pre-cut sizes for specific tablets, but also will cut out a size to your specification for your specific tablet.
+
 ### DIY options
 
 * You can in theory make your own surface protection
