@@ -18,6 +18,10 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 * XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/)]
 * Wacom Movink 13 (DTH-135) \[$750, [**links**](../../drawing-tablets-links/wacom/wacom-movink/), [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-movink/7p-wacom-dth-135.md)]
 
+## New releases (not evaluated)
+
+* XP-Pen Artist 12 GEN3 ($220, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen3/). [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen3/xppen-cd121fh.md))
+
 ## Value with compromises
 
 * Huion Kamvas 13 (GS1331) \[$240, [**links**](../../drawing-tablets-links/huion/huion-kamvas/),  [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1331.md)]
