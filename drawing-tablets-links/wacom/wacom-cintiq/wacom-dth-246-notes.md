@@ -4,6 +4,11 @@
 
 I just bought this tablet and it arrived on 6/24/2025. These notes are based on my initial testing.
 
+## Links
+
+* [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025/07/28
+* [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025/07/01
+
 ## Videos
 
 I livestreamed the unboxing, testing, and drawing on this tablet:

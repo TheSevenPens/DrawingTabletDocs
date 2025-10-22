@@ -7,6 +7,14 @@
 * **For creative professionals** - who deeply care about color this may be a worthwhile and useful purchase that replaces the need to buy a pen display and a reference monitor
 * **For everyone else** - especially if you don't have professional color requirements, the value you get may not justify the cost.&#x20;
 
+## Links
+
+* [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq_pro_27_honest_review/) Nov 2022
+* [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) Oct 14, 2022
+* [Brad Colbow review of Cintiq Pro 27](https://youtu.be/x59b4nR3Y3E) Oct 14, 2022
+* [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) Oct 28, 2022
+* [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) Nov, 2022
+
 ## Notes
 
 * This was a personal purchase.&#x20;

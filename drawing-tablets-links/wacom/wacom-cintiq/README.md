@@ -1,23 +1,19 @@
 # Wacom Cintiq
 
-## Cintiq 16 (DTK-168)
+## Cintiq 16 2025 (DTK-168)
 
 * Model year: 2025
-* TBD
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtk-168-notes.md)
 
 ## Cintiq 24 touch (DTH-246) and Cintiq 24 (DTK-246)
 
 * Model year: 2025
 * [<mark style="background-color:green;">**my notes on the Cintiq 24 touch**</mark>](wacom-dth-246-notes.md)&#x20;
-* [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025/07/28
-* [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025/07/01
 
 ## Cintiq 22 (DTK-2260)
 
 * Model year: 2019
-* [My notes on this tablet](wacom-dtk-2260-notes.md)
-* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
-* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
+* [<mark style="background-color:green;">**My notes on this**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">tablet</mark>](wacom-dtk-2260-notes.md)
 
 ## Cintiq 27 QHD (DTK-2700)
 
@@ -26,13 +22,13 @@
 * [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2_iiJQA) 2016/11/07
 * [Jazza review of Wacom Cintiq 27 QHD](https://youtu.be/G8SYYpnXmHk) 2016/02/07&#x20;
 
-## Cintiq 27 QHD  (DTK-2260)
+## Cintiq 22  (DTK-2260)
 
 * Model year: 2019
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
-* [Brad Colbow review of Wacom Cintiq 27 QHD](https://youtu.be/662QvZMik4U) 2019/07/18
-* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/xBPNyYX6zi8) 2019/07/17
-* [MobileTechReview review of Wacom Cintiq 27 QHD](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019/07/19
+* [Brad Colbow review of Wacom Cintiq 22](https://youtu.be/662QvZMik4U) 2019/07/18
+* [Aaron Rutten review of Wacom Cintiq 2](https://youtu.be/xBPNyYX6zi8) 2019/07/17
+* [MobileTechReview review of Wacom Cintiq 22](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019/07/19
 
 ## Cintiq 16 (DTK-1660)
 

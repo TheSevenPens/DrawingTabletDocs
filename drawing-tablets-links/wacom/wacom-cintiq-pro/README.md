@@ -1,9 +1,5 @@
 # Wacom Cintiq Pro
 
-## Models
-
-<table><thead><tr><th width="131">Model ID</th><th width="107.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>DTH-172</td><td>2023</td><td>Cintiq Pro 17</td></tr><tr><td>DTH-227</td><td>2023</td><td>Cintiq Pro 22</td></tr><tr><td>DTH-271</td><td>2022</td><td>Cintiq Pro 27</td></tr><tr><td>DTH-167</td><td>2021</td><td>Cintiq Pro 16 (2021)</td></tr><tr><td>DTH-3220</td><td>2018</td><td>Cintiq Pro 32</td></tr><tr><td>DTK-2420</td><td>2017</td><td>Cintiq Pro 24</td></tr><tr><td>DTH-2420</td><td>2017</td><td>Cintiq Pro 24 Touch</td></tr><tr><td>DTH-1620</td><td>2016</td><td>Cintiq Pro 16 (2016)</td></tr><tr><td>DTH-1320</td><td>2016</td><td>Cintiq Pro 13</td></tr></tbody></table>
-
 ## 2021 to Today family
 
 ### Cintiq Pro 17 (DTH-172)
@@ -16,29 +12,16 @@
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-271-notes.md)
 * Model Year: 2022
-* [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq_pro_27_honest_review/) Nov 2022
-* [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) Oct 14, 2022
-* [Brad Colbow review of Cintiq Pro 27](https://youtu.be/x59b4nR3Y3E) Oct 14, 2022
-* [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) Oct 28, 2022
-* [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) Nov, 2022
 
 ### Cintiq Pro 22 (DTH-227)
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-227-notes.md) &#x20;
 * Model year 2023
-* Product page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html)&#x20;
 
 ### Cintiq Pro 16 (DTH-167)&#x20;
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-167-notes.md)
 * Model year: 2021.&#x20;
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
-* Be aware there is an older model from 2016 also (DTH-1620)
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) &#x20;
-* [Brad Colbow review of Cintiq Pro 16](https://www.youtube.com/watch?v=0B8cNzyO4bs) Mar 7, 2022
-* [Aaron Rutten review of Cintiq Pro 16](https://www.youtube.com/watch?v=v9pWwWE_vRM) Oct 26, 2021
-* [MobileTechReview review of Cintiq Pro 16](https://www.youtube.com/watch?v=IU-QOOB2AsU) Jan 11, 2022
-* [Aaron Blaise review of Cintiq Pro 16](https://www.youtube.com/watch?v=oROcuvimy18) Dec 21, 2021
 
 ### General
 
@@ -50,7 +33,6 @@
 
 * Model year: 2016
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH-1320.html](https://101.wacom.com/UserHelp/en/TOC/DTH-1320.html)
-*
 
 ### Cintiq Pro 16 (DTH-1620)
 
@@ -64,11 +46,7 @@
 ### Cintiq Pro 24 (DTK-2420) and Cintiq Pro Touch (DTH-2420)
 
 * Model year: 2017
-* r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022/01/12
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtx-2420-notes.md)
-* [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Nov 5, 2018
-* [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - Oct 9, 2018
-* [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - May 1, 2018
 
 ## Cintiq Pro 32 (DTH-3220)
 
@@ -76,4 +54,8 @@
 * [Aaron Rutten - Wacom CINTIQ PRO 24 & 32 Review](https://www.youtube.com/watch?v=lvSeRhrUcCY) (In-Depth) Dec 13, 2018
 * [Wieger Poutsma - review of Wacom Cintiq Pro 32](https://www.youtube.com/watch?v=GgYu9zXD8Gk) Nov 19, 2018
 
-##
+## Models
+
+<table><thead><tr><th width="131">Model ID</th><th width="107.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>DTH-172</td><td>2023</td><td>Cintiq Pro 17</td></tr><tr><td>DTH-227</td><td>2023</td><td>Cintiq Pro 22</td></tr><tr><td>DTH-271</td><td>2022</td><td>Cintiq Pro 27</td></tr><tr><td>DTH-167</td><td>2021</td><td>Cintiq Pro 16 (2021)</td></tr><tr><td>DTH-3220</td><td>2018</td><td>Cintiq Pro 32</td></tr><tr><td>DTK-2420</td><td>2017</td><td>Cintiq Pro 24</td></tr><tr><td>DTH-2420</td><td>2017</td><td>Cintiq Pro 24 Touch</td></tr><tr><td>DTH-1620</td><td>2016</td><td>Cintiq Pro 16 (2016)</td></tr><tr><td>DTH-1320</td><td>2016</td><td>Cintiq Pro 13</td></tr></tbody></table>
+
+## s

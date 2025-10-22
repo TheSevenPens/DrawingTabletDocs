@@ -1,4 +1,4 @@
-# 7P: Wacom Cintiq Pro 16 (DTH-167)
+# Wacom Cintiq Pro 16 (DTH-167) notes
 
 ## Overview
 
@@ -7,6 +7,16 @@ An EXCELLENT pen display.&#x20;
 Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16 from 2021 competes with them strongly. Wacom may have improved the new models support for color or added support for higher refresh rates, but they did not improve upon the already great drawing experience with this tablet.&#x20;
 
 User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)&#x20;
+
+## Links
+
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
+* Be aware there is an older model from 2016 also (DTH-1620)
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) &#x20;
+* [Brad Colbow review of Cintiq Pro 16](https://www.youtube.com/watch?v=0B8cNzyO4bs) Mar 7, 2022
+* [Aaron Rutten review of Cintiq Pro 16](https://www.youtube.com/watch?v=v9pWwWE_vRM) Oct 26, 2021
+* [MobileTechReview review of Cintiq Pro 16](https://www.youtube.com/watch?v=IU-QOOB2AsU) Jan 11, 2022
+* [Aaron Blaise review of Cintiq Pro 16](https://www.youtube.com/watch?v=oROcuvimy18) Dec 21, 2021
 
 ## Noise
 

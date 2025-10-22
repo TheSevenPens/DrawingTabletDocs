@@ -6,6 +6,11 @@ As of July 2024, Although released in 2019 the Wacom Cintiq 22 continues to deli
 
 I bought mine used from eBay for $380 and was very satisfied.&#x20;
 
+## Links
+
+* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
+* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
+
 ## Basics
 
 Release year: 2019

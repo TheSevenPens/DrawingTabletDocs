@@ -13,6 +13,13 @@ There are two models if the Cintiq Pro 24 (DTx-2420)
 
 Release date: 2017
 
+## Links
+
+* [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Nov 5, 2018
+* [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - Oct 9, 2018
+* [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - May 1, 2018
+* r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022/01/12
+
 ## Documentation
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)&#x20;
