@@ -1,10 +1,15 @@
-# Huion Kamvas 22 Plus (GS2202)
+# Huion Kamvas 22 Plus (GS2202) notes
 
 ## **Summary**
 
 The Huion Kamvas 22 Plus is one of the best price-to-performance pen displays in the market.&#x20;
 
 NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
+
+## Links
+
+* [Brad Colbow review of Huion Kamvas 22 Plus](https://youtu.be/GJxGzJgfYGA) 2020/09/08
+* [Nemanja Sekulic review of Huion Kamvas 22 Plus](https://youtu.be/mlYTRD2KmeY) 2022/03/04
 
 ## Basics
 

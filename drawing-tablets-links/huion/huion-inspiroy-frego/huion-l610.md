@@ -1,4 +1,4 @@
-# Huion Inspiroy Frego M (L610)
+# Huion Inspiroy Frego M (L610) notes
 
 ## Overview
 
@@ -12,6 +12,14 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 ## Companion video
 
 {% embed url="https://www.youtube.com/watch?v=3-Cl9_xKKKE" %}
+
+## Links
+
+* Product pages&#x20;
+  * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
+  * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-S.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)
+* Parka Blogs - [Review of Huion Frego M (L610) & S (L310)](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) 2024/08/22
+* Create Now Sleep Later - [Review of Huion Inspiroy Frego (L610)](https://www.youtube.com/watch?v=OpVhKZVFusQ) 2024/09/01
 
 ## Basics
 

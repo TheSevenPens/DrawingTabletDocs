@@ -17,18 +17,7 @@
 ## Huion Kamvas Pro 19 (GT-1902)
 
 * Model Year: 2024
-* product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
 * [<mark style="background-color:green;">**my notes on this tablet**</mark>](huion-gt1902.md)&#x20;
-* [EyeKooDraws - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=Hf01mwaGtdI) 2025/09/13
-* [Trent Kaniuga - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=znKvWJON_k8) - 2024/12/16
-* [David Revoy - Huion Kamvas Pro 19](https://www.youtube.com/watch?v=M9VbiVJX-J4) - 2024/11/21&#x20;
-* [Create Now Sleep Later - Review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=5AWpKgv8jdY) - 2024/09/15&#x20;
-* [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024/06/21&#x20;
-* [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024/01/09
-* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) 2024/03/04
-* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024/02/14
-* [Yanick Paquette review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=t-Qo1jTVibY) - 2024/02/21
-* [TheSevenPens Notes on the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=CnTBrhUhciM) - 2024/03/05
 
 ## Huion Kamvas Pro 13 2.5K (GT1302)
 
@@ -41,9 +30,6 @@
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-gt1562.md)
 * Model Year: 2021
-* User manual: [https://www.huion.com/manaul\_pdf/en/Kamvas%20Pro%2016%20Plus%20(4K).pdf](https://www.huion.com/manaul_pdf/en/Kamvas%20Pro%2016%20Plus%20\(4K\).pdf)
-* [Teoh on Tech review of Huion Kamvas Pro 16 Plus 4K ](https://www.youtube.com/watch?v=0sfbhhXoR8E)2021/06/10
-* [Teoh on Tech - Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) 2021/08/09
 
 ## Huion Kamvas Pro 16 4K (GT1561)
 
@@ -63,8 +49,6 @@
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-gt2401.md)&#x20;
 * Model Year: 2021
-* User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90) &#x20;
-* [MossCharmly 2 year review Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=XwD_7x2S-7g) 2023/12/09
-* [Brad Colbow review of Review of Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=HvQxDrzgbOo) 2021/09/02
-* [Teoh Yi Chie review of Huion Kamvas Pro 24 4K ](https://www.youtube.com/watch?v=r8k5qsgJXlM)2021/09/17
+
+
 

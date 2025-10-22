@@ -1,4 +1,4 @@
-# Huion Inspiroy HS611
+# Huion Inspiroy HS611 notes
 
 ## **Summary**
 
@@ -9,6 +9,13 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 <figure><img src="../../../.gitbook/assets/Huion HS611.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/HS611 back.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+## **Links**
+
+* User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)  &#x20;
+* [Teoh on Tech review of Huion HS611](https://www.youtube.com/watch?v=1RcUCSL5azU) 2021/02/14
+* [Brad Colbow review of Huion HS611](https://www.youtube.com/watch?v=IHV7LsbxqsU) 2020/03/23&#x20;
+* [Nemanja Sekulic review of Huion HS611](https://www.youtube.com/watch?v=WEXXbXDrd-Y) 2020/04/28&#x20;
 
 ## **Active area size**
 

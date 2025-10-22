@@ -15,6 +15,11 @@
 * Product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
 * User manual [https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html)
 
+## Links
+
+* product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)&#x20;
+* [Teoh on Tech - review of XP-Pen Artist Pro 22](https://www.youtube.com/watch?v=PMscqe2rO1M) GEN2 2025/04/20
+
 ## Photos
 
 <figure><img src="../../../.gitbook/assets/20250219_215013 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>

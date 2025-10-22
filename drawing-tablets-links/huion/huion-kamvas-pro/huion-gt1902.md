@@ -12,6 +12,20 @@ This companion video covers many but not all of the topics described in these no
 
 {% embed url="https://www.youtube.com/watch" %}
 
+## Links
+
+* product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
+* [EyeKooDraws - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=Hf01mwaGtdI) 2025/09/13
+* [Trent Kaniuga - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=znKvWJON_k8) - 2024/12/16
+* [David Revoy - Huion Kamvas Pro 19](https://www.youtube.com/watch?v=M9VbiVJX-J4) - 2024/11/21&#x20;
+* [Create Now Sleep Later - Review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=5AWpKgv8jdY) - 2024/09/15&#x20;
+* [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024/06/21&#x20;
+* [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024/01/09
+* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) 2024/03/04
+* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024/02/14
+* [Yanick Paquette review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=t-Qo1jTVibY) - 2024/02/21
+* [TheSevenPens Notes on the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=CnTBrhUhciM) - 2024/03/05
+
 ## Basics
 
 ### Product information

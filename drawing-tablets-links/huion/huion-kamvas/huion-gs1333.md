@@ -20,6 +20,12 @@ Things to be aware of
 
 {% embed url="https://www.youtube.com/watch?v=5QG6NfIFSjU" %}
 
+## Links
+
+* [EyekooDrawsStuff review of Huion Kamvas 13 GEN3 (GS1333)](https://www.youtube.com/watch?v=Ie39Mbsvc8s) 2025/01/21&#x20;
+* [Brad Colbow - Huion Kamvas 13 GEN3 (GS1333) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) 2024/09/23
+* [Huion - Tutorial | How to connect Kamvas 13 GEN3 (GS1333) to your Android Phone](https://www.youtube.com/watch?v=Oq6KeACQo68) 2024/10/29
+
 ## Basics
 
 * product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)

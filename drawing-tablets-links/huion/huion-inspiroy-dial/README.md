@@ -1,4 +1,4 @@
-# Inspiroy Dial
+# Huion Inspiroy Dial
 
 ## Huion Inspiroy Dial (Q620M)
 
@@ -8,6 +8,4 @@
 ## Huion Inspiroy Dial 2 (Q630M)
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huion-q630m.md)
-* [Teoh on Tech review of Huion Inspiroy Dial 2](https://youtu.be/OCNsJ1gqnZ0) 2022/08/16
-* [Create Now Sleep Later review of Huion Inspiroy Dial 2](https://youtu.be/mXKoWtvKDi0) 2022/08/26&#x20;
-* SweetMonia review of Huion Inspiroy 2 Dial 2022/09/19
+*

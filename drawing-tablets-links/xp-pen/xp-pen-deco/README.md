@@ -2,8 +2,7 @@
 
 ## XP-Pen Deco 01 V3
 
-* [**my notes on this tablet**](xp-pen-deco-01-v3-notes.md)
-*
+* [<mark style="background-color:green;">my notes on this tablet</mark>](xp-pen-deco-01-v3-notes.md)
 
 ## XP-Pen Deco Mini 7
 
@@ -28,5 +27,4 @@
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](xppen-it1060b.md)&#x20;
 * Model Year: 2021
-* NOTE: This is the wireless version of XP-Pen Deco L (IT1060B)&#x20;
-* User manual: [https://www.xp-pen.com/user-manual/deco-lw.html](https://www.xp-pen.com/user-manual/deco-lw.html)&#x20;
+*
