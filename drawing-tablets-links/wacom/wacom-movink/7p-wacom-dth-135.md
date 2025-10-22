@@ -14,6 +14,13 @@ An easy recommendation if you need what it offers.
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html)
 
+## Links
+
+* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)&#x20;
+* [Teoh on Tech - Review of Wacom Movink 13](https://www.youtube.com/watch?v=ifWwffBQ8VQ) 2024/11/15&#x20;
+* [Brad Colbow - Review of Wacom Movink 13](https://www.youtube.com/watch?v=Y3ASJNcFinI) 2024/05/16&#x20;
+* [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024/04/24
+
 ## Pen
 
 Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../../../pen-links/wacom-pens/7p-wacom-acp-500.md).

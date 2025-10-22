@@ -11,6 +11,11 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 * One by Wacom Medium (CTL-672) - released 2019
 * One by Wacom Small (CTL-472) - released 2019
 
+## Links
+
+* User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)&#x20;
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/CTL-672.htm](https://101.wacom.com/UserHelp/en/TOC/CTL-672.html)
+
 ## **Photos**
 
 <figure><img src="../../../.gitbook/assets/20250410_010057 (Large).jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>

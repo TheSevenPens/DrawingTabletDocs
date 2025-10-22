@@ -1,4 +1,4 @@
-# Wacom Intuos Pro 2025 (PTK-x70) notes
+# Wacom Intuos Pro (2025) (PTK-x70) notes
 
 ## Summary
 
@@ -15,6 +15,11 @@ If you would rather watch:  [https://www.youtube.com/watch?v=Q2rH32pBpq0](https:
 But do check this document for any updates since the original video was published.
 
 {% embed url="https://www.youtube.com/watch?v=Q2rH32pBpq0" %}
+
+## Links
+
+* [Aaron Rutten - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Rf66Lqx9NFc) 2025/04/26
+* [Brad Colbow - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Ko0sovi0rX4) 2025/04/14
 
 ## Changes to key features from 2017 edition
 
@@ -504,3 +509,15 @@ Cost benefits
 Recommendation
 
 * Consider UD EMR pens as a backup pens
+
+## Reception
+
+The introduction of the Intuos pro 2025 has been met with some polarized opinions.
+
+The technical quality of the tablet is recognized - it certainly maintains what comes leadership in this device category. Many users love this tablet.
+
+However, uses pointed out these issues that were negatives for them
+
+* the decreased bezel width was less comfortable
+* the edges of the tablet are slightly more pronounced than the older model and for some people they found it uncomfortable for their hand to rest on the edge. And of course with the decreased bezel size there's a much higher probability that your hand will rest on the edge.
+* Although many people did not use the multi touch feature of the intuos pro 2017 there were a few who did and who were a big fan of that feature. For them multi touch not being available in the Intuos pro 2025 was a big negative.
