@@ -605,6 +605,7 @@
   * [Subreddits for drawing tablets](resources/subreddits-for-drawing-tablets.md)
   * [Tablet kitten](resources/koneko_w.md)
   * [Project Patchouli](resources/project-patchouli.md)
+  * [Pompyboard](resources/pompyboard.md)
 * [Process](process/README.md)
   * [Pressure range data](process/pressure-range-data.md)
   * [Measuring hover](process/measuring-hover.md)
