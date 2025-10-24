@@ -468,6 +468,7 @@
       * [Cintiq Pro 24 (DTx-2420)  notes](drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dtx-2420-notes.md)
       * [Wacom Cintiq Pro 27 (DTH-271) notes](drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-271-notes.md)
       * [Wacom Cintiq Pro 22 (DTH-227) notes](drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-227-notes.md)
+      * [Cintiq Pro 17 (DTH-172) notes](drawing-tablets-links/wacom/wacom-cintiq-pro/cintiq-pro-17-dth-172-notes.md)
     * [Wacom Movink](drawing-tablets-links/wacom/wacom-movink/README.md)
       * [Wacom Movink 13 (DTH-135) notes](drawing-tablets-links/wacom/wacom-movink/7p-wacom-dth-135.md)
     * [Wacom One](drawing-tablets-links/wacom/wacom-one/README.md)

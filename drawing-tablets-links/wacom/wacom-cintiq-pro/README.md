@@ -1,12 +1,9 @@
 # Wacom Cintiq Pro
 
-## 2021 to Today family
-
 ### Cintiq Pro 17 (DTH-172)
 
 * Model Year: 2023
-* Product Page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html)&#x20;
-* [Brad Colbow review of Cintiq Pro 17](https://www.youtube.com/watch?v=JBn727A9pAc) Nov 6, 2023
+* [<mark style="background-color:green;">My notes on this tablet</mark>](./#cintiq-pro-17-dth-172)
 
 ### Cintiq Pro 27 (DTH-271)
 
@@ -22,12 +19,6 @@
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dth-167-notes.md)
 * Model year: 2021.&#x20;
-
-### General
-
-* [Robert Hranitzky review of Cintiq Pro Family Review](https://www.youtube.com/watch?v=Hwf68FwFVQU) 2023/10/30
-
-## 2016 to 2018 family
 
 ### Cintiq Pro 16 (DTH-1320)
 
@@ -48,7 +39,7 @@
 * Model year: 2017
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](wacom-dtx-2420-notes.md)
 
-## Cintiq Pro 32 (DTH-3220)
+### Cintiq Pro 32 (DTH-3220)
 
 * Model Year: 2018
 * [Aaron Rutten - Wacom CINTIQ PRO 24 & 32 Review](https://www.youtube.com/watch?v=lvSeRhrUcCY) (In-Depth) Dec 13, 2018
