@@ -18,7 +18,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
   * FEATURE LIMITATION: NO TILT
 * Wacom Intuos Small (CTL-4100) \[$75, [**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)]&#x20;
   * FEATURE LIMITATION: NO TILT
-* Huion Frego S (L320) \[$70, [<mark style="background-color:green;">**my notes on the Medium-sized model**</mark>](../../drawing-tablets-links/huion/huion-inspiroy-frego/huion-l610.md) ]
+* Huion Frego S (L320) \[$70, [<mark style="background-color:green;">**my notes on the Medium-sized model**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ]
 * XP-Pen Deco
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]

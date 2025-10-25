@@ -1,8 +1,15 @@
-# 7P notes: XP-Pen Artist 16 GEN2 (CD160FH)
+# XP-Pen Artist 16 GEN2 (CD160FH) notes
 
 ## Overall
 
 Overall decent tablet for an entry level 16" pen display. It does have a a very a noticable amount of diagonal wobble. Normally I don't recommend tablets with this much diagonal wobble. but since it can he worked around, it might work well as a budget choice.
+
+## Links
+
+* Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)&#x20;
+* [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) 2022/06/01
+* [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8_Ng) 2022/05/26
+* [Teoh on Tech: XP-Pen Artist 16 GEN2 Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) 2022/06/06
 
 ## Diagonal wobble
 

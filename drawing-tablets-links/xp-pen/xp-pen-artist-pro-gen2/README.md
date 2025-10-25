@@ -4,7 +4,6 @@
 
 * release year: 2025
 * [<mark style="background-color:green;">**my notes on this tablet**</mark>](xppen-md220qh.md)
-*
 
 ## XP-Pen Artist Pro 24 GEN2 4K (MD240UH)
 

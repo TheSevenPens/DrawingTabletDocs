@@ -27,4 +27,3 @@
 
 * [<mark style="background-color:green;">**My notes on this tablet**</mark>](xppen-it1060b.md)&#x20;
 * Model Year: 2021
-*

@@ -7,7 +7,7 @@ If I had to pick one item on this list, I would recommend the **One by Wacom CTL
 ## Other good options
 
 * One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [**links**](../../../drawing-tablets-links/wacom/one-by-wacom/), [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)] ★★★
-* Huion Inspiroy Frego M (L610) \[$90, [**links**](../../../drawing-tablets-links/huion/huion-inspiroy-frego/), [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/huion/huion-inspiroy-frego/huion-l610.md) ] ★★★
+* Huion Inspiroy Frego M (L610) \[$90, [**links**](broken-reference), [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ] ★★★
 * XP-Pen Deco series ★★★
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
