@@ -197,7 +197,7 @@ All of these are very reliable tablets. Their pens are also very reliable. **But
 
 ## Drivers
 
-The same Wacom driver works with all three product lines.
+As of October 2025, the same Wacom driver works with all three product lines.
 
 ## Surface texture
 
@@ -213,46 +213,30 @@ Wacom sells texture sheets for the the Intuos Pro 2025. One texture options are 
 
 More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-pro-2017/wacom-pth-x60-notes.md).   &#x20;
 
-## Future versions
+## Potential future versions
 
-**Intuos**
+* **Intuos -** In August of 2023, The Intuos models seem to be replaced by the Wacom One GEN2 pen tablets.
+* **One by Wacom -** No sign of any updates coming
+* **Intuos Pro -** Wacom released new versions in 2025, so we expect it will learn about new Intuos Pros around 2032. We certainly hope they will arrive sooner.
 
-In August of 2023, The Intuos models seem to be replaced by the Wacom One GEN2 pen tablets.
+## Intuos Pro generations
 
-**One by Wacom**
+There are three Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
 
-No sign of any updates coming
-
-**Intuos Pro**
-
-Wacom released new versions in 2025, so we expect it will learn about new Intuos Pros around 2032. We certainly hope they will arrive sooner.
-
-## Notes on pen tablet models
-
-### Intuos Pro
-
-There are two Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
-
-* The current generation (sometimes referred to as "GEN2")
-  * Intuos Pro Small (PTH-460) -> 2019
-  * Intuos Pro Medium (PTH-660) -> 2017
-  * Intuos Pro Large (PTH-860) -> 2017
-* The older generation (sometimes referred to as "GEN1")
-  * Intuos Pro Large (PTH-851) -> 2013
-  * Intuos Pro Medium (PTH-651) -> 2013
-  * Intuos Pro Small (PTH-451) -> 2013
-
-## Notes on older Wacom tablets series
-
-* The **Wacom Bamboo** series has now been renamed to the **One by Wacom** series
+* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [**More here** ](wacom-intuos-pro-2025/)
+* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [**More here**](wacom-intuos-pro-2017/)&#x20;
+* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [**More here**](wacom-intuos-pro-2013.md)&#x20;
 
 ## Distinguishing physical features
 
-* the One by Wacom has a bright red back
-* the One by Wacom has a fabric pen holder on the side of the tablet
+* The One by Wacom has a bright red back
+* The One by Wacom has a fabric pen holder on the side of the tablet
 * The Intuos in available in several colors for the back plastic
 * The Intuos has a fabric pen holder on the top of the tablet
 * The Intuos Pro is always black both front and back
 * The Intuos Pro has no fabric pen holder
 * The Intuos Pro has a circular dial on the left of the tablet.
 
+## Notes on older Wacom tablets series
+
+* The **Wacom Bamboo** series has now been renamed to the **One by Wacom** series
