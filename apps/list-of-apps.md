@@ -7,6 +7,7 @@
 * **ArtRage** (Windows, macOS, iOS, Android) \[[**links**](../app-links/artrage.md)]
 * **Clip Studio Paint** (Windows, MacOS, Android, iOS) \[[**links**](../app-links/clip-studio-paint/)]
 * **Drawpile** (Web, Windows, MacOS, Android, Linus) \[[https://drawpile.net/](https://drawpile.net/)]
+* **Expresii** (Windows) \[**links**]
 * **Firealpaca** (Windows, MacOS) \[[**links**](../app-links/fireaplaca.md)]
 * **HEAVYPAINT** (iOS, Android, Web) \[[**links**](../app-links/heavypaint.md)]
 * **HiPaint** (Android, iOS) \[[**links**](../app-links/hipaint.md)]

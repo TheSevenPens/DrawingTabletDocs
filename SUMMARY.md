@@ -341,6 +341,7 @@
   * [Clip Studio Paint](app-links/clip-studio-paint/README.md)
     * [Clip Studio Paint notes](app-links/clip-studio-paint/clip-studio-paint-notes.md)
   * [Concepts app](app-links/concepts-app.md)
+  * [Expresii](app-links/expresii.md)
   * [Feather 3D](app-links/feather-3d.md)
   * [FireAlpaca](app-links/fireaplaca.md)
   * [Freeform](app-links/freeform.md)
