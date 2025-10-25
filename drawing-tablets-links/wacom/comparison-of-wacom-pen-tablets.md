@@ -217,7 +217,7 @@ More here: [My detailed notes on the Intuos Pro (PTH-x60) series](wacom-intuos-p
 
 **Intuos**
 
-In August of 2023, The Intuos models seem to be replaced by the One by Wacom GEN2 pen tablets.
+In August of 2023, The Intuos models seem to be replaced by the Wacom One GEN2 pen tablets.
 
 **One by Wacom**
 
