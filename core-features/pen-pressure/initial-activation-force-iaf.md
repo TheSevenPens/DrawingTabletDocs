@@ -2,18 +2,38 @@
 
 ## Overview
 
-The **Initial Activation Force** (IAF) is the smallest amount of pressure that an EMR pen will detect and report.&#x20;
+The **Initial Activation Force** (IAF) is the smallest amount of pressure that an EMR pen will detect.&#x20;
+
+In more simple terms: IAF is how hard you have to press to draw. High IAF means you have to press harder to draw with the pen. Low IAF means you don't have to press as hard.
+
+Generally, people want lower IAF.
+
+IAF is measured in "gram-force" units. Though you may see it very often described in "grams".
+
+IAF is determined by the pen hardware, not the tablet.
 
 More info: [**Pen pressure**](./)&#x20;
+
+## Video
+
+{% embed url="https://www.youtube.com/watch?v=ADirKEMoczU" %}
 
 ## Initial activation force (IAF)
 
 A lower IAF is good because it allows you to draw finer details better.
 
-* Most modern EMR pens have an IAF of around 3gf - and a consider 3gf to be a very good IAF
-* Modern professional pens have an IAF of <= 1gf - this is considered an excellent IAF
-* Between 4gf and 6gf - I consider this to be OK and tolerable IAF.&#x20;
-* Anything higher than 6gf I consider bad.
+* EXCELLENT IAF: <=1gf
+  * Modern professional pens have an IAF of <= 1gf&#x20;
+* GREAT IAF: Between 1gf and 2gf
+  * Only a couple of pens are in this range
+* GOOD IAF: Between 2gf and 3.5gf
+  * Most modern EMR pens have an IAF of around 3gf
+* OK IAF: Between 3.5gf and 5gf
+  * This is tolerable. Something that would be typical of a consumer-level pen.
+* BAD IAD. ≥ 5gf&#x20;
+  * Most people would not enjoy using such a pen.
+
+These are MY rankings. Some people have much stronger opinions about IAF. For example, some people thing any IAF greater than 2gf is BAD IAF.
 
 ## IAF through the years
 
