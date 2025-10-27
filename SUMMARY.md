@@ -222,6 +222,7 @@
     * [Finding the driver settings UI](guides/drivers/finding-the-driver-settings-ui.md)
     * [TabletMagic](guides/drivers/tabletmagic.md)
     * [Older Wacom drivers](guides/drivers/older-wacom-drivers.md)
+    * [Using multiple tablet drivers on the same computer](guides/drivers/using-multiple-tablet-drivers-on-the-same-computer.md)
   * [Advanced](guides/advanced/README.md)
     * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
