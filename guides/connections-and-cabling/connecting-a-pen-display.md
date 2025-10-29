@@ -1,62 +1,62 @@
 # Connecting a pen display to a computer
 
-## Video
+## Overview
 
-{% embed url="https://youtu.be/iKl_3NYjlsY" %}
+Connecting a pen display to a computer can sometimes be a challenging task. This document explains the fundamental things you MUST understand to make it all work.
 
-## Inputs & outputs
+For most people, you will be able to connect your pen display to you computer and it will "just work" but sometimes the situation is more challenging:
 
-Remember that essentially a pen display is a plastic box that contains two separate devices: (1) a pen tablet and (2) a display.
+* You may not know how to connect things&#x20;
+* You may be unable to connect things physically
+* You might have to troubleshoot problems
+* You may not be sure if a pen display you want to buy will work with your computer
 
-We need to account for 4 things to use a pen display.
+This document will help you in all those cases.&#x20;
 
-| Input or Output  | Needed by         | Notes                                                                                                                           |
-| ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Power to tablet  | tablet component  | very little power is needed                                                                                                     |
-| Data             | tablet component  | for example, pen position data is sent to the computer. Also the computer can send data to the tablet such as a firmware update |
-| Power to display | display component | much more power needed than the tablet component                                                                                |
-| Display signal   | display component | What is shown by the tablet                                                                                                     |
+## Basics
 
-## Display connector types
+### Fundamental requirements
+
+For a pen display to work correctly, three requirements must be met:
+
+The pen display MUST
+
+* Receive enough **POWER**
+* Be able to send **DATA** to your computer
+* Receive a **VIDEO SIGNAL** from your computer
+
+From these fundamental requirements, we can explain, plan, and troubleshoot everything about connecting pen displays.
+
+ALL THREE requirements MUST be met to fully use the pen display.
+
+### Display connector types
 
 This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](../pen-displays/display-connector-types.md) before you continue.
 
-## Cabling options
+### Categorizing connection options
 
-Those four components are distributed over cabling differently, depending on the the cabling option involved.&#x20;
+Remember that one of the fundamental requirements is that the pen display MUST receive a video signal.
 
-### Option A: one USB-C cable
+We can categorize all pen display connections by **which cable is used to transmit the video signal**.
 
-Some pen displays can run on a single USB-C cable. This used to be uncommon. But Increasingly many pen displays support this option. More here: [**Connecting a pen display with one USB-C cable**](connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
+The options for such a cable are:
 
-### Option B: 3 cables&#x20;
+* HDMI
+* USB-C
 
-* One USB cable for pen tablet (power, data)
-* One power cable for the display power
-* One display cable to carry the display signal - This will almost always be an HDMI cable. Though some tablets support alternate connector types for the display signal
+HDMI and USB-C cover 99.9% of the cable options for transmitting a video signal to a pen display.
 
-### Option C: 2 cables
+YES, there are a few pen displays that also support DisplayPort cables. And a few very old pen displays support VGA cables.
 
-* one cable provides power for the display component
-* one USB-C cable handles everything the other 4 components
+## The HDMI connection method&#x20;
 
-The 2 cable setup is how I use my Wacom Cintiq Pro 27.&#x20;
+{% embed url="https://youtu.be/iKl_3NYjlsY" %}
 
-### Option D: 3-in-one cable
+### 3-in-1 cables
 
 This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](connecting-a-pen-display-with-a-3-in-1-cable.md)
 
-## Connecting via HDMI
-
-HDMI connectors are extensively used. So let's start by addressing HDMI which shows up in option B and option D.
-
-In principle this is easy: Take the HDMI from the pen display and find an HDMI port and plug it in.
-
-For the vast majority of you this will "just work".&#x20;
-
-But now let us explore all the complications
-
-## Which HDMI port on the computer should you use?
+### Which HDMI port on the computer should you use?
 
 If your computer has multiple HDMI ports you need to pick one.&#x20;
 
@@ -73,19 +73,39 @@ As a general rule, always use the HDMI ports on the graphics card (GPU) . Only u
 
 more here: [**Motherboard HDMI ports vs GPU HDMI ports**](motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
-## What if you don't have any HDMI ports?
+### What if you don't have any HDMI ports?
 
 If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../pen-displays/using-hdmi-adapters-with-pen-displays/)&#x20;
 
-## Dealing with NO SIGNAL
+## The USB-C connection method
+
+{% embed url="https://youtu.be/eyHkd3kcOZk" %}
+
+See: [**Connecting a pen display with one USB-C cable**](connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
+
+
+
+## Troubleshooting
+
+### "NO SIGNAL": When the pen display does not receive a video signal
 
 When you've connected your display you might see it show a message saying NO SIGNAL. Here is a [**troubleshooting guide to work through the NO SIGNAL problem**](../../troubleshooting/tsg-no-signal.md).
 
-## What about connecting a pen display mobile devices?
+### When the pen display cannot send data to the computer
+
+See: [https://docs.thesevenpens.com/drawtab/troubleshooting/tsg-tablet-driver-does-not-detect-tablet](https://docs.thesevenpens.com/drawtab/troubleshooting/tsg-tablet-driver-does-not-detect-tablet)
+
+### When the pen display does not get enough power
+
+TBD
+
+## Other topics
+
+### What about connecting a pen display mobile devices?
 
 Go here: [**Connecting a pen display to a mobile device**](connecting-a-pen-display-to-a-mobile-device.md)&#x20;
 
-## What about wireless connectivity?
+### What about wireless connectivity?
 
 No pen displays connect wirelessly. They all require at least one cable to connect to your computer.&#x20;
 
