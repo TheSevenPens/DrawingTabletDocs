@@ -198,6 +198,7 @@
     * [Pen display refresh rate](guides/pen-displays/pen-display-refresh-rate.md)
     * [USB-C DisplayPort alt mode](guides/pen-displays/usb-c-displayport-alt-mode.md)
     * [Dead pixels](guides/pen-displays/dead-pixels.md)
+    * [Using an Android tablet with your computer as a pen display](guides/pen-displays/using-an-android-tablet-with-your-computer-as-a-pen-display.md)
     * [Using an iPad with your computer as a pen display](guides/pen-displays/using-an-ipad-with-your-computer-as-a-pen-display.md)
   * [Pens](guides/pens/README.md)
     * [Pen buttons](guides/pens/pen-buttons.md)
