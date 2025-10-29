@@ -2,6 +2,12 @@
 
 
 
+## Overview
+
+{% hint style="info" %}
+Read this first: [Connecting a pen display](connecting-a-pen-display.md)
+{% endhint %}
+
 ## Video
 
 {% embed url="https://youtu.be/iKl_3NYjlsY" %}

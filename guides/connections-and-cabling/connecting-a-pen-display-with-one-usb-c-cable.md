@@ -2,7 +2,11 @@
 
 ## Overview
 
-Ideally you would be able to connect your pen display to your computer with a single USB C cable. And that cable would provide display signal as well as enough power for the pen display. You should understand
+{% hint style="info" %}
+Read this first: [Connecting a pen display](connecting-a-pen-display.md)
+{% endhint %}
+
+
 
 ## Video
 
