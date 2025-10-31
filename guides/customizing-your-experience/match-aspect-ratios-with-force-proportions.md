@@ -108,4 +108,4 @@ This video goes into great detail about this topic.&#x20;
 
 ## Simulate what force proportions does
 
-I built a tool to simulate the effect FP has. go here: [**Force proportions simulator**](../../developers/force-proportions-simulator.md) &#x20;
+I built a tool to simulate the effect FP has. go here: [**Force proportions simulator**](../../resources/sevenpens-force-proportions-simulator.md) &#x20;
