@@ -17,13 +17,13 @@ NO SIGNAL means that the pen display is NOT RECEIVNG the video signal from the c
 
 This is very normal because the data connection and the video signal are separate.&#x20;
 
-## Important background information
+## Background information
 
-Especially if you are new to drawing tablets I suggest you watch this video
+Before you begin troubleshooting this problem, I HIGHLY RECOMMEND you watch these two videos. They have a lot of information which can help you solve your problems. Also they provide the brackground needed to understand many of the terms and procedures used in this document.
 
 {% embed url="https://youtu.be/iKl_3NYjlsY" %}
 
-And look through this guide: [https://docs.thesevenpens.com/drawtab/guides/connections-and-cabling/connecting-a-pen-display](https://docs.thesevenpens.com/drawtab/guides/connections-and-cabling/connecting-a-pen-display)&#x20;
+{% embed url="https://youtu.be/eyHkd3kcOZk" %}
 
 ## Setting expectations
 
