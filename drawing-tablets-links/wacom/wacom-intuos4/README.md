@@ -12,6 +12,17 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 * Intuos pro generation: 4th gen
 * Preceded by: [Intuos3](../wacom-intuos3.md)
 * Succeeded by: [Intuos5](../wacom-intuos5.md)
+* Last supported driver
+  * PTK-440, PTK-640, PTK-840&#x20;
+    *   Windows: 6.3.41-1 released on&#x20;
+
+        06 Oct, 2020
+    *   MacOS: 6.3.41-2 released on&#x20;
+
+        06 Oct, 2020
+  * PTK-1240
+    * Windows: 6.4.3-1 released on 09 Aug, 2023
+    * MacOS: 6.4.3-2 released on 09 Aug, 2023
 
 ## Photos
 

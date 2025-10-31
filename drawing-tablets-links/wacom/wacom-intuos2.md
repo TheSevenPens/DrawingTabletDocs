@@ -11,7 +11,10 @@ This is a professional pen tablet series from 2001.
 * Release year: 2001
 * Intuos pro generation: 2nd gen
 * Preceded by: [Intuos1](wacom-intuos1.md)
-* Succeeded by: [Intuos3](wacom-intuos3.md)
+* Succeeded by: [Intuos3](wacom-intuos3.md)&#x20;
+* Last supported driver
+  * Windows: 6.2.0w5 released on 25 Jan, 2012
+  * MacOS: 6.2.0w4 released on 25 Jan, 2012
 
 ## Photos
 

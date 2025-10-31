@@ -12,6 +12,9 @@ The Intuos 5 series was the last time Wacom used "Intuos" only to mean professio
 * Intuos pro generation: 5th gen
 * Preceded by: [Intuos4](wacom-intuos4/)
 * Succeeded by: [Intuos Pro 2013](wacom-intuos-pro-2013.md)
+* Last supported driver
+  * Windows: 6.3.46-2 released on 23 Aug, 2022
+  * MacOS: 6.3.46-2 released on 23 Aug, 2022
 
 ## Name
 
