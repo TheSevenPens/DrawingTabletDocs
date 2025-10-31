@@ -483,6 +483,7 @@
       * [Wacom MovinkPad 11 (DTH-A116) notes](drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
       * [MovinkPad Pro 14 (DTH-A140) notes](drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)
     * [Wacom final driver notices](drawing-tablets-links/wacom/wacom-final-driver-notices.md)
+    * [Wacom standalone tablets](drawing-tablets-links/wacom/wacom-standalone-tablets.md)
   * [Xencelabs](drawing-tablets-links/xencelabs/README.md)
     * [Xencelabs Pen Tablet Medium (BPH1212W-A) notes](drawing-tablets-links/xencelabs/xencelabs-bph1212w-a.md)
     * [Xencelabs Pen Display 16 (LPH1612U-A) notes](drawing-tablets-links/xencelabs/xencelabs-lph1612u-a.md)
