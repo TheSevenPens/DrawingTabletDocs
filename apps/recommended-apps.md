@@ -12,7 +12,7 @@ If you want to see a full list of applications go here: [**Applications**](./).&
   * (Windows, MacOS, Android, iOS)
 * [**Krita**](../app-links/krita/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/krita/krita-notes.md)   &#x20;
   * (Windows, Linux, MacOS)
-* [**Affinity Photo**](../app-links/affinity-photo/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/affinity-photo/affinity-photo-notes.md)  &#x20;
+* [**Affinity Photo**](../app-links/affinity/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/affinity/affinity-notes.md)  &#x20;
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)

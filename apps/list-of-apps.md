@@ -2,12 +2,13 @@
 
 ## Creative 2D
 
-* **Adobe Fresco** (Windows, iOS, MacOS) \[ [**links**](../app-links/fresco.md)  ]
+* **Adobe Fresco** (Windows, iOS, MacOS) \[[**links**](../app-links/fresco.md) ] FREE
+* **Affinity (Windows, MacOS) \[**[**links**](../app-links/affinity/)**,** [**notes**](../app-links/affinity/affinity-notes.md)**] FREE**
 * **ArtFlow Studio** (Android, ChromeOS) \[[**links**](http://artflowstudio.com/)]
 * **ArtRage** (Windows, macOS, iOS, Android) \[[**links**](../app-links/artrage.md)]
 * **Clip Studio Paint** (Windows, MacOS, Android, iOS) \[[**links**](../app-links/clip-studio-paint/)]
 * **Drawpile** (Web, Windows, MacOS, Android, Linus) \[[https://drawpile.net/](https://drawpile.net/)]
-* **Expresii** (Windows) \[**links**]
+* **Expresii** (Windows) \[[**links**](../app-links/expresii.md)]
 * **Firealpaca** (Windows, MacOS) \[[**links**](../app-links/fireaplaca.md)]
 * **HEAVYPAINT** (iOS, Android, Web) \[[**links**](../app-links/heavypaint.md)]
 * **HiPaint** (Android, iOS) \[[**links**](../app-links/hipaint.md)]
@@ -18,7 +19,7 @@
 * **Kreska.art** (web) \[[**links**](https://kreska.art/)] **FREE**
 * **Krita** (Windows, Linux, MacOS) \[[**links**](../app-links/krita/)] <mark style="background-color:purple;">**FREE**</mark>
 * **Leonardo** (Windows) \[[**links**](../app-links/leonardo.md)]
-* **Magma** (web) \[[https://magma.com/](https://magma.com/)]
+* **Magma** (web) \[[https://magma.com/](https://magma.com/)] FREE
 * **Medibang Paint** (Windows, MacOS) \[[**links**](../app-links/medibang.md)]
 * **Medibang Pro** (iOS) \[[**links**](../app-links/medibang-1.md)]
 * **Microsoft Paint** (aka MSPAINT) (Windows) \[[**links**](../app-links/microsoft-paint.md)]
@@ -28,7 +29,7 @@
 * **Paintstorm Studio** (Windows, macOS, iOS, Linux) \[[**links**](../app-links/paintstorm-studio.md)]
 * **Procreate** (iOS) \[[**links**](../app-links/procreate/)]
 * **Rebelle** (Windows, MacOS) \[[**links**](../app-links/rebelle.md)]
-* StylusX (Windows) \[[links](../app-links/stylusx.md)]
+* **StylusX** (Windows) \[[links](../app-links/stylusx.md)]
 
 ## Sprites and pixel art
 
@@ -45,7 +46,6 @@
 
 ## Vector
 
-* **Affinity Designer** (Windows, MacOS) \[]
 * **Adobe Illustrator** (Windows, MacOS) \[]
 * **Inkscape** (Windows, MacOS, Linux) \[[**links**](../app-links/inkscape.md)] <mark style="background-color:purple;">**FREE**</mark>
 * **VectorInk** (Online, Android)  \[[Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink)]
@@ -63,7 +63,6 @@
 ## Photo editing
 
 * **Adobe Photoshop** (Windows, MacOS) \[[**links**](../app-links/photoshop.md)]
-* **Affinity Photo** \[[https://affinity.serif.com/en-us/photo/](https://affinity.serif.com/en-us/photo/)]
 * **Photopea** (web) \[[https://www.photopea.com/](https://www.photopea.com/) ]
 
 ## Presenting
