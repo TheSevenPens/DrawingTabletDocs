@@ -92,7 +92,13 @@ Verify that your cables are fully connected.&#x20;
 
 ## HDMI connect options
 
-### Use a different HDMI ports
+### The HDMI cable goes to your computer
+
+The HDMI cable from your tablet GOES to your computer.
+
+Do not connect the HDMI to your monitor.  Monitors do NOT send HDMI signals they only receive them. So connecting your pen display to your monitor will not work.
+
+### Use a different HDMI ports on your computer
 
 Your computer may have multiple HDMI ports, try different ones.
 
