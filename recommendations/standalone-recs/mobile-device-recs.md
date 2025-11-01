@@ -13,6 +13,15 @@ In 2025, new options became available:
 
 * XP-Pen Magic Drawing Pad GEN2 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
 * Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
+* Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)&#x20;
+
+## My top choices
+
+* For drawing: Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)&#x20;
+  * This tablet has the best drawing experience on the market out of any current standlone tablet of any kind and from any brand.
+* For general usage:
+  * iPad / iPad Air / iPad Pro - whichever models support the Apple Pencil
+  * Samsung S9 and later&#x20;
 
 ## Basics
 

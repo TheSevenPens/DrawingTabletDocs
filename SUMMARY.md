@@ -407,6 +407,7 @@
       * [Huion Kamvas 13 (GS1331) notes](drawing-tablets-links/huion/huion-kamvas/huion-gs1331.md)
       * [Huion Kamvas 22 Plus (GS2202) notes](drawing-tablets-links/huion/huion-kamvas/huion-gs2202.md)
       * [Huion Kamvas 16 GEN3 (GS1563) notes](drawing-tablets-links/huion/huion-kamvas/huion-gs1563.md)
+      * [Huion Kamvas 16 V2 (GT-156 V2) notes](drawing-tablets-links/huion/huion-kamvas/huion-kamvas-16-v2-gt-156-v2-notes.md)
     * [Huion Inspiroy](drawing-tablets-links/huion/huion-inspiroy/README.md)
       * [Huion Inspiroy RTP-700 notes](drawing-tablets-links/huion/huion-inspiroy/7p-huion-rtp-700.md)
       * [Huion Inspiroy Dial 2 (Q630M) notes](drawing-tablets-links/huion/huion-inspiroy/7p-huion-q630m.md)
