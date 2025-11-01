@@ -79,14 +79,6 @@ Display
 * Surface texture
 * Backlight bleed
 
-## Other notes
-
-* Any dead pixels
-* List color modes
-* OSD
-  * How to launch
-  *
-
 ## Connections and cablings
 
 * Are ports recessed
@@ -97,66 +89,41 @@ Display
   * Are cables included
 * Does it support single USB-cable connection
 
-## Express Keys
+## other inputs
 
-* Does it come with any express keys, dials, etc?
+* Express keys Does it come with any express keys, dials, etc?
+* Touch
+  * Is touch supported? On Windows? On MacOS?
 
-## VESA mounting
+## Ergonomics
 
-* Does the tablet support VESA mounting.
-* If so, which size is used
-* If you used it with an monitor arm, identify the arm
-
-## Stand
-
-* Does it come with a stand?
-* If so,
+* VESA
+  * Which VESA size
+  * If you used it with an monitor arm, identify the arm
+* Stand
   * Identify model number of stand
   * Does the stand use VESA mounting?
   * How much wobble does the stand have
   * Does the stand support height adjustment
   * Does the stand support tilt adjustment
+  * If you used it with stand , identify the stand
+* Legs
+* Fans
+* Noise
+* Heat
+  * 50% for an hour
+  * 100% for an hour
+  * hotspots?
 
-## Surface texture
+## Other notes
 
-* How does it feel compared to other tablets?
-* Try with plastic and with felt nib
 
-## Legs
 
-* Does the tablet have legs?
-* If so, what angle do the legs place the tablet at?
-
-## Fans
-
-* Does the tablet have fans?
-
-## Ergonomics
-
-Heat
-
-* At 50% brightness for an hour - how hot does it feel to the touch?
-* At 100% brightness for an hour - how hot does it feel to the touch?
-* Are there any noticable hotspots?
-
-Fan Noise
-
-* What is the noise experience at 50% brightness?
-* What is the noise experience at 100% brightness?
-
-Touch
-
-* Is touch supported? On Windows? On MacOS?
-
-## Other
-
-Sound support
-
-* Does it have a headphone jack?
-* Does it have speakers?
-
-Can you use the tablet as a pen display?&#x20;
-
-* If so how would you do that?
+* Can you use the tablet as a pen display?&#x20;
+  * If so how would you do that?
+* Any dead pixels
+* List color modes
+* OSD
+  * How to launch
 
 <figure><img src="../.gitbook/assets/7p-pixel-sharpness.png" alt="" width="96"><figcaption></figcaption></figure>
