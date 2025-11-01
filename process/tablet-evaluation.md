@@ -2,109 +2,100 @@
 
 These are my notes on the things to look at when I evaluate a tablet. This is a work in progress and evolves over time.&#x20;
 
-## Summary&#x20;
+## Basics&#x20;
 
-These are the quick summary highlights. &#x20;
+* Product information
+  * name
+  * model number
+  * launch year
+  * product page with archive link
+* Active area
+  * Dimensions (width x height)
+  * Diagonal length
+  * Size category: small, medium, large
+    * link to size categories
+  * Aspect ratio
+  * Closest standed paper size
+*   What's in the box&#x20;
 
-* Model number
-* Active Area - dimensions and diagonal size&#x20;
-* Release year
-* Key interesting points
-* Links
-  * Any manufacturer videos
-  * Product page
-  * User manual
 
-## Display > basics&#x20;
 
-* Display size - should be same as active area
-* Display resolution
-* Aspect ratio
-* Response time
-* Max refresh rate
-* Brightness
-  * Future: see if this can be independently measured
-* Contrast ratio
-* Display panel tech: IPS, OLED, etc.
-* Bit depth
-  * If >8pp clarify if it is using FRC or not
-* Anti-glare treatment: Etched glass vs AG film
-* Laminated?
+## Specs
 
-## Pen
+* Digitizer
+  * type: EMR
+  * digitizer resolution (LPI and LIMM)
+  * Number of pressure levels
+  * Tilt
+  * Tilt range
+  * Report rate
+* Display
+  * Display panel:
+  * Native resolution
+  * Aspect ratio
+  * Surface:
+  * Lamination:
+  * Brightness
+  * Response Time
+  * Refresh rate
+  * Color bi depth
+  * Color gamut:
+* Included pen
+  * Default nib
+  * Eval of pen should be in separate doc
+* Compatible pens
+* Incompatible pens (if needed for clarification)
+* Ports
 
-* Pen model ID that comes with tablet
-* What is default nib in pen
+Display
 
-## Pen Pressure
+* AG sparkle
+  * How close to notice
+  * How much of colorful rainbow effect
+* Viewing angle
+  * look for loss of contrast
+* Surface protection
+  * Does it come with screen protector
+  * Is a first party screen protector available
+* Sharpness
+  * Looking for clearly defined pixel
+  * Looking for lack of "softneess"
 
-* Manufacturer stated IAF and max pressure
-* Measure IAF&#x20;
-  * I am not good at IAF - so for now leave this out
-* Measure Max Pressure
-* Pressure transition at low pressure
-  * Look for instability / pulsing
+## Drawing performance
 
-## Pen tracking accuracy
-
-* Accuracy in middle versus corner and edges
+* Static track accuracy
+  * Stated accuracy from manufacturer
+  * Look for accuracy at corners and edges
 * Tilt compensation
+* Diagonal wobble
+  * [Measuring diagonal wobble](measuring-diagonal-wobble.md)
+* Artifacts at low pressure
+* Pressure banding
+* PEN Pressure range (IAF and MAX)
+* Pressure scan rate
+* Parallax
+* Pointer lag
+* Pen tilt near edges and corners
+* Surface texture
+* Backlight bleed
 
-## Diagonal Wobble
+## Other notes
 
-* see: [Measuring diagonal wobble](measuring-diagonal-wobble.md)
-
-## Pointer lag
-
-* How does it compare to other tablets?&#x20;
-
-## Pen Tilt
-
-* Does tilt work correctly at edges and corners?
-
-## Pen Hover Height
-
-* See: [Measuring hover height](measuring-hover.md)
-
-## Pen Hover -> Drag transition
-
-Background: Some tablets use one smoothing algorithm on hover and a different one on drag (when the pen is pressing down) and so the transition between these smoothing algorithms can create a slight jump in pointer position as the pen hits the surface.&#x20;
-
-Check for any hover-drag transitions that cause pointer movements.
-
-## Display > Parallax
-
-## Anti-glare sparkle
-
-## Display > Color modes
-
+* Any dead pixels
 * List color modes
-* Identify which color modes the testing was done under
-
-## Display > other
-
-* Pixelation:&#x20;
-* Dead pixels - did you notice any?
-* Backlight bleed - take photo in a darkened room
-* Display sharpness
-  * Are the pixels clear when viewed close up?&#x20;
-  * How blurry is it compared to other pen displays?
-
-## OSD
-
-* How do you launch the OSD?
-* Does the OSD respond to touch even if touch is off on the tablet?
-* Take photos of the OSD screens
-
-## Ports
-
-* List all the ports
+* OSD
+  * How to launch
+  *
 
 ## Connections and cablings
 
-* How was the tablet connected to your computer and power
+* Are ports recessed
+* What cables are included
+  * 3-in-1
+  * other
+* Connection opton diagams
+  * Are cables included
 * Does it support single USB-cable connection
-* Is the USB-C port recessed?
 
 ## Express Keys
 
