@@ -617,7 +617,7 @@
   * [Measuring diagonal wobble](process/measuring-diagonal-wobble.md)
   * [Diagonal wobble samples](process/diagonal-wobble-samples.md)
   * [Perfect pressure sensitive lines](process/perfect-pressure-sensitive-lines.md)
-  * [Tablet evaluation template](process/tablet-evaluation-template.md)
+  * [Tablet evaluation template](process/tablet-evaluation.md)
   * [Microscope](process/microscope.md)
   * [Measuring PWM Flicker](process/measuring-pwm-flicker.md)
   * [Measuring pressure banding](process/measuring-pressure-banding.md)

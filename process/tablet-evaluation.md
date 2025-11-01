@@ -1,4 +1,4 @@
-# Tablet evaluation
+# Tablet evaluation template
 
 These are my notes on the things to look at when I evaluate a tablet. This is a work in progress and evolves over time.&#x20;
 
@@ -116,8 +116,6 @@ Display
   * hotspots?
 
 ## Other notes
-
-
 
 * Can you use the tablet as a pen display?&#x20;
   * If so how would you do that?
