@@ -2,8 +2,13 @@
 
 ## Overview
 
-* A OK tablet with the previous generation of pen technology&#x20;
-* This is an upgrade to the Deco 01 V2 - but looks to be the same exact tablet and drawing performance remains the same. The upgrade involves potentially better Android support.&#x20;
+This is OK tablet with the previous generation of pen technology&#x20;
+
+This sold an upgrade to the Deco 01 V2 - but looks to be the same exact tablet and drawing performance remains the same. The upgrade involves **potentially** better Android support - though I did not find that to be the case in my experience
+
+## Better alternatives
+
+A better choice in 2025 would be these tablets: [**Pen tablet recommendations (MEDIUM)**](../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)&#x20;
 
 ## Basics
 

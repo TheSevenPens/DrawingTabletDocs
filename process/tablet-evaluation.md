@@ -1,4 +1,4 @@
-# Tablet evaluation template
+# Tablet notes template
 
 These are my notes on the things to look at when I evaluate a tablet. This is a work in progress and evolves over time.&#x20;
 

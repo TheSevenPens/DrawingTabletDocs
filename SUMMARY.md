@@ -610,7 +610,7 @@
   * [Project Patchouli](resources/project-patchouli.md)
   * [Pompyboard](resources/pompyboard.md)
 * [Process](process/README.md)
-  * [Tablet notes template](process/tablet-notes-template.md)
+  * [Tablet notes template](process/tablet-evaluation.md)
   * [Pressure range data](process/pressure-range-data.md)
   * [Measuring hover](process/measuring-hover.md)
   * [Measuring pressure](process/measuring-pressure.md)
