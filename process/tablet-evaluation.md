@@ -71,6 +71,9 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 * Sharpness
   * Looking for clearly defined pixel
   * Looking for lack of "softness"
+  *
+
+      <div align="left"><figure><img src="../.gitbook/assets/7p-pixel-sharpness.png" alt="" width="96"><figcaption></figcaption></figure></div>
 * Display OSD
   * how to activate
   * menus
@@ -141,6 +144,3 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 * With Chromebook
 * Can you use the pen display as a pen tablet?&#x20;
 
-
-
-<figure><img src="../.gitbook/assets/7p-pixel-sharpness.png" alt="" width="96"><figcaption></figcaption></figure>
