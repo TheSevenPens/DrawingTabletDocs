@@ -233,7 +233,7 @@ EXCELLENT.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Wacom Movink 13 (DTH-135) 2024_10_30.png" alt=""><figcaption></figcaption></figure>
 
-### Pressure handling with consumer pro pens
+### Pressure banding artifacts with consumer pro pens
 
 At the low end of pressure, there is a difference with how pressure is handled between the pro pens and other pens. With the pro pens - the lines are low pressure change in pressure simply due to my hand. And the strokes below are what I would expect. Don't let the appearance deceive you, they are good. The pen is responding to my inputs as expected.
 
