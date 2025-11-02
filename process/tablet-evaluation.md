@@ -22,14 +22,14 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 
 ## Specs
 
-* Digitizer
+* Digitizer specs
   * type: EMR
   * digitizer resolution (LPI and LIMM)
   * Number of pressure levels
   * Tilt
   * Tilt range
   * Report rate
-* Display
+* Display specs
   * Display panel:
   * Native resolution
   * Aspect ratio
@@ -40,15 +40,26 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * Refresh rate
   * Color bi depth
   * Color gamut:
-* Included pen
-  * Default nib
-  * Eval of pen should be in separate doc
-* Compatible pens
-* Incompatible pens (if needed for clarification)
-* Ports
+  * Color modes
+* Pens
+  * Included pen
+    * Default nib
+      * Eval of pen should be in separate doc
+  * Pen compatibility
+    * Compatible
+    * Incompatible pens (if needed for clarification)
+* Device&#x20;
+  * Size
+  * Weight
+  * Ports
 
-Display
+### Display
 
+* Brightness
+* Display color fringing
+* Dead pixels
+* Pixel layout
+* Blacks
 * AG sparkle
   * How close to notice
   * How much of colorful rainbow effect
@@ -59,14 +70,21 @@ Display
   * Is a first party screen protector available
 * Sharpness
   * Looking for clearly defined pixel
-  * Looking for lack of "softneess"
+  * Looking for lack of "softness"
+* Display OSD
+  * how to activate
+  * menus
+  * responds to touch?
+  * will OSD respond to touch when touch is disabled
 
 ## Drawing performance
 
 * Static track accuracy
   * Stated accuracy from manufacturer
+* Corner and edge accuracy&#x20;
   * Look for accuracy at corners and edges
 * Tilt compensation
+* Tilt at edges and corners
 * Diagonal wobble
   * [Measuring diagonal wobble](measuring-diagonal-wobble.md)
 * Artifacts at low pressure
@@ -89,9 +107,11 @@ Display
   * Are cables included
 * Does it support single USB-cable connection
 
-## other inputs
+## Other inputs
 
-* Express keys Does it come with any express keys, dials, etc?
+* Express keys
+* Dials
+* Sliders
 * Touch
   * Is touch supported? On Windows? On MacOS?
 
@@ -115,13 +135,12 @@ Display
   * 100% for an hour
   * hotspots?
 
-## Other notes
+## Usage scenario
 
-* Can you use the tablet as a pen display?&#x20;
-  * If so how would you do that?
-* Any dead pixels
-* List color modes
-* OSD
-  * How to launch
+* With Androird
+* With Chromebook
+* Can you use the pen display as a pen tablet?&#x20;
+
+
 
 <figure><img src="../.gitbook/assets/7p-pixel-sharpness.png" alt="" width="96"><figcaption></figcaption></figure>
