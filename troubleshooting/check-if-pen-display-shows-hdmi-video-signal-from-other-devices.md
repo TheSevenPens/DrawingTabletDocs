@@ -8,7 +8,7 @@ Normally your pen display will be connected to your computer that provides such 
 
 But your computer can receive that display signal from any device that supports a display signal. For example an Xbox, PlayStation, a DVD player, another computer, and even some mirrorless cameras (example Sony FX30).
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is useful for several reasons.
 

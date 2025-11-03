@@ -45,19 +45,12 @@ Here are my measurements for maximum pressure for the pens in my collection.
 | PW517  | HUP.0005        | 152.2 gf                           |
 | W517P  | HUP.0019        | 229.5 gf                           |
 
-## Pressure response charts
+## Pressure range
 
-These charts show the generally higher maximum pressure of the PW550 series and the overall general consistency of the PW550 series compared to the PW517.
+* IAF - the pens are similar
+* Max Pressure - the PW550 pens tend to have a higher maximum pressure - and are more consistent between units
 
-<figure><img src="../../.gitbook/assets/Slide5.PNG" alt=""><figcaption></figcaption></figure>
-
-THe PW515 pens areconsistent at lower pressure but diver
-
-<figure><img src="../../.gitbook/assets/Slide7.PNG" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../.gitbook/assets/Slide9 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Video
 

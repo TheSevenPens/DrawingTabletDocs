@@ -16,35 +16,13 @@ If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen in
 
 These pens have two buttons which is typical for an EMR pen.
 
-## Pressure testing notes
+## Pressure range
 
-I tested four PW550 series pens on 2024/08/30
+IAF - 7 to 10gf
 
-* 1x PW500S
-* 4x PW550
+Max Pressure - between 300 gf to 800gf. With an occasional units around the mid 250s.&#x20;
 
-## Pressure: IAF &#x20;
-
-I'm not good at measuring IAF but each seemed to be around 3gf. Similar to many of Huion's pens.
-
-## Pressure: max pressure (approximate)
-
-3 of 4 of the my PW550 pens have GOOD or EXCELLENT max pressure. One outlier has an OK max pressure.
-
-| PEN    | MY INVENTORY ID | PHYSICAL PRESSURE |
-| ------ | --------------- | ----------------- |
-| PW550  | HU1006          | 560.0gf           |
-| PW550  | HU1008          | 223.6gf           |
-| PW550  | HU1009          | 850.0gf           |
-| PW550S | HU1007          | 735.5gf           |
-
-## Pressure: Response curve
-
-As is typical for EMR pens, these pens have a response that bows up. All 4 hit 50% at around 100gf.
-
-So as I often recommend, you should consider a pressure curve to linearize this response so that you have more pressure control at the lower end of the physical pressure range.
-
-<figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
