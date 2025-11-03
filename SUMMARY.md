@@ -534,6 +534,7 @@
   * [Apple Pencil](pen-links/apple-pencil.md)
   * [Huion pens](pen-links/huion-pen-models/README.md)
     * [Huion PenTech](pen-links/huion-pen-models/huion-pentech.md)
+    * [Huion PW100 pen notes](pen-links/huion-pen-models/huion-pw100-pen-notes.md)
     * [Huion PW500 pen notes](pen-links/huion-pen-models/7p-huion-pw500.md)
     * [Huion PW517 pen notes](pen-links/huion-pen-models/7p-huion-pw517.md)
     * [Huion PW550 series pens notes](pen-links/huion-pen-models/7p-huion-pw550.md)
