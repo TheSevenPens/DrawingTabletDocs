@@ -6,6 +6,20 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw110](https://st
 
 Huion lists this pen as using PenTech 3.0
 
+## Photos
+
+
+
+<figure><img src="../../.gitbook/assets/IMG_0098 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/IMG_0104 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/IMG_0102 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+
 ## Compatibility
 
 Huion lists these as compatible tablets:&#x20;
