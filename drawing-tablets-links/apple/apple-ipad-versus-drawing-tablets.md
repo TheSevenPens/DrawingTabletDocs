@@ -16,20 +16,24 @@ Even though an Apple iPad is not technically speaking a drawing tablet, it can s
 
 And many people find that their iPad when combined with the apple pencil serves that need well enough that they don't need to get a separate drawing tablet.
 
-## &#x20;What do people prefer?
+There are several types of drawing tablets: [**Types of drawing tablets**](../../basics/types-of-drawing-tablets/)
+
+* pen tablets - no screen, not standalone
+* pen displays - have screen, not standalone
+* standalone - have screen, are standalone - iPads are closest to this type&#x20;
+
+In this document, I compare iPads to these two kinds of non-standalone drawing tablets:
+
+* pen displays (drawing tablets that have a screen)
+* pen tablets (drawing tablets that do NOT have a screen)
+
+## What do people prefer?
 
 Some people prefer using apple iPads
 
 Some people prefer using drawing tablets
 
 And some people prefer using both. For example they might use a (non-standalone) drawing tablet for most of their art but when they're on the go perhaps in a bus or traveling then they use their iPad because it's much more convenient.
-
-## Comparisons
-
-In this document, I compare iPads to these two kinds of non-standalone drawing tablets:
-
-* pen displays (drawing tablets that have a screen)
-* pen tablets (drawing tablets that do NOT have a screen)
 
 ## Standalone use&#x20;
 
