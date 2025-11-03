@@ -121,6 +121,12 @@ This over-sensitivity is common to pens, and not unusual. Some people may not ev
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Mapping buttons dials and sliders
+
+If you tablet has additional inputs such as buttons, dials, etc. You can control what they do. Even assign them to do different things per application.
+
+Here are some popular assignments: [Popular bindings for auxiliary inputs](../core-features/popular-bindings-for-auxiliary-inputs.md)
+
 ## Windows&#x20;
 
 Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
