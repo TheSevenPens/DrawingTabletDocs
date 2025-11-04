@@ -16,3 +16,4 @@
   * [PencilKit](https://developer.apple.com/documentation/pencilkit/pkstrokepoint)
 * Web
   * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent)&#x20;
+  * [HID Explorer](https://nondebug.github.io/webhid-explorer/)&#x20;
