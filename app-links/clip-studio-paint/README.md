@@ -12,6 +12,12 @@
 
 * [Brad Colbow - What's New in Clip Studio Paint v3](https://www.youtube.com/watch?v=2ynYTm-59dE) 2023/04/02
 
+## When do CSP sales happen?
+
+The discounts are amazing!
+
+[https://www.pipelinecomics.com/learncsp/when-does-clip-studio-paint-go-on-sale/](https://www.pipelinecomics.com/learncsp/when-does-clip-studio-paint-go-on-sale/)
+
 ## Getting started
 
 * [Trent Kaniuga - Total BEGINNERS guide to drawing in Clip Studio Paint 2022](https://youtu.be/6cwfkCl8fwo) 2022/09/23
