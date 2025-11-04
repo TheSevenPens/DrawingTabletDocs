@@ -53,6 +53,8 @@
 * [Noctualis - 8 TIPS for Faster Painting in KRITA!](https://www.youtube.com/watch?v=JmA0LdqVcBI)&#x20;
 * [MossCharmly - (How to) Plug-ins for Krita](https://www.youtube.com/watch?v=Oqv3rFuABYY) 2024/07/06
 * [MossCharmly - 3 Ways to use Screentones in Krita](https://www.youtube.com/watch?v=sxO519Yx-Gc) 2024/09/28
+* Assign shortcut keys o brushes
+  * [https://www.youtube.com/watch?v=hp4euYCjlgw](https://www.youtube.com/watch?v=hp4euYCjlgw)
 
 ### **Version updates**
 
