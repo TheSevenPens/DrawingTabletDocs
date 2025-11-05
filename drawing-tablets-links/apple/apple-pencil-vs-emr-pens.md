@@ -1,10 +1,10 @@
-# Apple Pencil versus EMR pens
+# Apple Pencil vs EMR pens
 
 {% hint style="info" %}
 For more information:
 
 * [**my notes on Apple iPad**](apple-ipad-1.md)&#x20;
-* [**Apple iPad versus drawing tablets**](apple-ipad-versus-drawing-tablets.md)
+* [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
 * [**Apple pencil links**](../../pen-links/apple-pencil.md)&#x20;
 * [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
