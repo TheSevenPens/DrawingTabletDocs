@@ -61,7 +61,7 @@ Unboxing and testing video: [https://youtube.com/live/teEGX7G-gYs?feature=share]
   * XP-Pen says "AG + AF" &#x20;
 * Lamination: YES
 * Brightness: 260 nit
-* Response Time": UNKNOWN
+* Response time: UNKNOWN
 * Refresh rate: 60Hz
 * Viewing angle: 170°
 * Color bit depth: 8bpp
@@ -83,7 +83,7 @@ Unboxing and testing video: [https://youtube.com/live/teEGX7G-gYs?feature=share]
 
 ### Included pen
 
-X4 Smart Chip Stylus&#x20;
+X4 Smart Chip Stylus  [**my notes on this pen**](../../../pen-links/xp-pen-pens/xp-pen-x4-pens-notes.md)
 
 ### Compatible pens
 
@@ -129,11 +129,13 @@ But pointer deviates slightly to the left (\~1mm) as the pen tilts to the left.&
 
 ### Diagonal wobble
 
-slightly diagonal wobble visible in strokes. Most users will not notice. If it does show up smoothing will remove it.
+* Slightly diagonal wobble visible in strokes at all tested speeds. With the most at the slowest speed and declining as the stroke speed increased.&#x20;
+* Most users will likely not notice any wobble.&#x20;
+* If it does show up smoothing will remove it. In Krita, weighted stabilization with a distance value of 200 removed it.
 
 ### Artifacts at low pressure
 
-TBD
+MINIMAL (GOOD)
 
 ### Pressure banding
 
@@ -151,13 +153,31 @@ Good (LOW)
 
 Slightly more than I would expect for a pen display.&#x20;
 
+### Surface texture
+
+Tested with the default plastic nib of the X4 pen.
+
+Typical for pen displays - slight texture. Pen didn't feel slippery on the glass.
+
+Similar feel to Wacom Movink 13 - just very slightly less&#x20;
+
 ### Connections and cabling
 
 TBD
 
-### Other inputs
+## Other inputs
 
-* 8 Express keys & 2 rollers&#x20;
+### Buttons
+
+* 8 buttons on the left side
+* They can be pressed from the left and from the top
+* It is NOT hard to press the buttons when the tablet is resting on a desk
+
+### Rollers&#x20;
+
+* 2 rollers on the left side
+* The rollers provide tactile feedback as you roll them and have a "click" sound
+* The rollers were could easily be used even when the tablet is resting on a desk
 
 ## Ergonomics
 
@@ -169,6 +189,10 @@ Does not support VESA mounting
 
 Does comes with a folding stand
 
+### Touch
+
+No touch support.
+
 ### Legs
 
 No legs
@@ -179,5 +203,10 @@ None
 
 ### Noise
 
-None
+* No fan noise
+* The rollers have "click" when rolling. It is not loud, but louder than I expected.&#x20;
+
+## Heat
+
+At 100% brightness for an hour - seems overall room temperature with some light heat increasing toward the ports on the right
 

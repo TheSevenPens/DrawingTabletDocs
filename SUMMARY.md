@@ -547,6 +547,7 @@
     * [XP-Pen X3 Pro pens  notes](pen-links/xp-pen-pens/7p-xppen-x3pro-pen.md)
     * [XP-Pen X3 Elite pen  notes](pen-links/xp-pen-pens/7p-xppen-x3elite-pen.md)
     * [XP-Pen P05 pen notes](pen-links/xp-pen-pens/xp-pen-p05-pen-notes.md)
+    * [XP-Pen X4 pens notes](pen-links/xp-pen-pens/xp-pen-x4-pens-notes.md)
   * [Microsoft pens](pen-links/microsoft-pens/README.md)
     * [Surface Slim Pen 2 notes](pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
   * [Xencelabs pens](pen-links/xencelabs-pens/README.md)
