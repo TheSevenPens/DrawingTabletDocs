@@ -6,15 +6,27 @@ The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good table
 
 If you want to save some money you can find them on eBay. More here: [Buying used drawing tablets](../../../buying-a-drawing-tablet/buying-used-drawing-tablets.md)
 
-## Models
+## Basics
 
-* One by Wacom Medium (CTL-672) - released 2019
-* One by Wacom Small (CTL-472) - released 2019
+### Product information
 
-## Links
+* One by Wacom Medium&#x20;
+  * Model number: CTL-672
+  * Released 2019
+  * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
+  * User manual: [https://101.wacom.com/UserHelp/en/TOC/CTL-672.htm](https://101.wacom.com/UserHelp/en/TOC/CTL-672.html)
+* One by Wacom Small
+  * Model number: CTL-472
+  * Released: 2019
+  * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
+  * User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)&#x20;
 
-* User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)&#x20;
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/CTL-672.htm](https://101.wacom.com/UserHelp/en/TOC/CTL-672.html)
+### Active area
+
+Dimensions
+
+* Small CTL-471: 152.0 x 95.0 mm (6.0 x 3.7 in)
+* Medium CTL-671: 216.0 x 135.0 mm (8.5 x 5.3 in)
 
 ## **Photos**
 
@@ -24,19 +36,34 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 
 
 
-## **Included pen**
+##
+
+## **Specs**
+
+### **Digitizer specs**
+
+* **Pressure Levels** - 2048.&#x20;
+  * This may seem low when you see other tablets rated at 8K or 16K pressure levels. Do not worry. 2048 is enough pressure levels for creative tasks. This is absolutely not going to affect the quality of the art you can make with this tablet. I maintain all you need are about 2000 levels of pressure.
+* **Tilt** - this tablet does NOT support tilt
+  * For a beginner this may not be an issue. Many people do not need tilt.&#x20;
+
+### Device specs
+
+* Ports:
+  * 1x Micro-USB port
+* Size:
+  * CTL-472: 210 x 146 x 8.7 mm / 8.3 x 5.7 x 0.3 in
+  * CTL-672 : 277 x 189 x 8.7 mm / 10.9 x 7.4 x 0.3 in
+
+## **Pens**
+
+### **Included pen**
 
 The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [<mark style="background-color:green;">**my notes on Wacom 2K Pen (LP-190K)**</mark>](../../../pen-links/wacom-pens/7p-wacom-lp-190k.md)
 
-## Pen compatibility
+### Pen compatibility
 
-* This tablet only works with the LP-190K pen.
-
-## **Core features**
-
-* **Pressure Levels** - 2048. This may seem low when you see other tablets rated at 8K or 16K pressure levels. Do not worry. 2048 is enough pressure levels for creative tasks. This is absolutely not going to affect the quality of the art you can make with this tablet. I maintain all you need are about 2000 levels of pressure.
-* **Tilt** - this tablet does NOT support tilt
-  * For a beginner this may not be an issue. Many people do not need tilt.&#x20;
+* This tablet ONLY works with the Wacom 2K Pen (LP-190K).
 
 ## **Cabling and connectivity**
 
@@ -65,14 +92,12 @@ A small cloth loop on the right side of the tablet can be used to hold the pen.
 
 <figure><img src="../../../.gitbook/assets/20250410_021800 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-## **Feeling**
-
-The One by Wacom pen is a little more plasticky and less premium feeling in hand than the Wacom's professional pens.  But this is not a big deal for a beginner.&#x20;
-
-## Suface texture
+## Surface texture
 
 There is a slight amount of texture on the surface to keep the pen from feeling "slippery" on the surface. The amount of texture is pretty average for a modern pen tablet.
 
-## Osu!
+## Usage scnario
+
+### Osu!
 
 The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)

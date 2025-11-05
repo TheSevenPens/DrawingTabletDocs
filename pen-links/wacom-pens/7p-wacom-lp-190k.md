@@ -4,6 +4,8 @@
 
 Very good pen. Although Wacom uses this pen for a consumer tablet, the truth is this pen has great drawing performance. In particular it is a good (wide) pressure range with low IAF.&#x20;
 
+This pen comes with the One by Wacom (CTLx72) series of tablets. [**My notes on these tablets**](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md).
+
 ## Basics
 
 * Low IAF + good max pressure
@@ -22,13 +24,14 @@ I myself am not good at measuring IAF, but I definitely think this is a very sen
 
 ## Pressure response
 
-Max pressure is good (>= 400gf) for the three units of this pen that I tested.
+Max pressure is good (> 350gf) for the three units of this pen that I tested.
 
 All three very very consistent in their pressure response
 
-Ignore IAF in charts below - my testing was not designed for accurate IAF measurements.&#x20;
+**Ignore IAF** in chart below - my testing was not designed for accurate IAF measurements.&#x20;
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+## **Feeling**
 
-<figure><img src="../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
-
+The One by Wacom pen is a little more plasticky and less premium feeling in hand than the Wacom's professional pens.  But this is not a big deal for a beginner.&#x20;
