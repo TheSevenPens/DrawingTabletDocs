@@ -93,6 +93,24 @@ X4 Smart Chip Stylus&#x20;
   * X3 Pro Slim
   * X3 roller works (but roller cannot be configured)
 
+## Display
+
+### Brightness
+
+TBD
+
+### Dead Pixels
+
+NONE
+
+### AG Sparkle
+
+LOW (GOOD)
+
+Only noticable when eyes are very close to screen
+
+
+
 ## Drawing experience
 
 ### Static tracking accuracy
