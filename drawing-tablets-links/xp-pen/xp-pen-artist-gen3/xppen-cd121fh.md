@@ -70,7 +70,7 @@ Unboxing and testing video: [https://youtube.com/live/teEGX7G-gYs?feature=share]
   * 97% Adobe RGB
   * 97% Display P3
 
-## Device specs
+### Device specs
 
 * Size: 327.2 x 189.1 x 12.0 mm
 * Weight: 719 g
@@ -89,8 +89,6 @@ X4 Smart Chip Stylus&#x20;
 
 * X4 Smart Chip Stylus&#x20;
 * UNKNOWN if other pens are compatible. XP-Pen does not list other pens as compatible.
-
-
 
 ## Drawing experience
 
