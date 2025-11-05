@@ -88,13 +88,78 @@ X4 Smart Chip Stylus&#x20;
 ### Compatible pens
 
 * X4 Smart Chip Stylus&#x20;
-* UNKNOWN if other pens are compatible. XP-Pen does not list other pens as compatible.
+* P-Pen does not list other pens as compatible - however these pens work
+  * X3 Pro
+  * X3 Pro Slim
+  * X3 roller works (but roller cannot be configured)
 
 ## Drawing experience
+
+### Static tracking accuracy
+
+GOOD.
+
+### Corner and edge accuracy
+
+TYPICAL - Slight deviation (\~2mm) at corners and edges
+
+### Tilt compensation
+
+Overall GOOD
+
+But pointer deviates slightly to the left (\~1mm) as the pen tilts to the left.&#x20;
 
 ### Diagonal wobble
 
 slightly diagonal wobble visible in strokes. Most users will not notice. If it does show up smoothing will remove it.
 
+### Artifacts at low pressure
 
+TBD
+
+### Pressure banding
+
+GOOD - no banding observed
+
+### Pressure scan rate
+
+GOOD. No missed strokes
+
+### Parallax
+
+Good (LOW)
+
+### Pointer lag
+
+Slightly more than I would expect for a pen display.&#x20;
+
+### Connections and cabling
+
+TBD
+
+### Other inputs
+
+* 8 Express keys & 2 rollers&#x20;
+
+## Ergonomics
+
+### VESA
+
+Does not support VESA mounting
+
+### Stand
+
+Does comes with a folding stand
+
+### Legs
+
+No legs
+
+### Fans
+
+None
+
+### Noise
+
+None
 
