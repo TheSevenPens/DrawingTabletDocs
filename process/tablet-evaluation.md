@@ -2,6 +2,8 @@
 
 These are my notes on the things to look at when I evaluate a tablet. This is a work in progress and evolves over time.&#x20;
 
+## Overview
+
 ## Basics&#x20;
 
 * Product information
@@ -9,16 +11,19 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * model number
   * launch year
   * product page with archive link
+  * user manual with archive link
 * Active area
   * Dimensions (width x height)
   * Diagonal length
   * Size category: small, medium, large
     * link to size categories
   * Aspect ratio
-  * Closest standed paper size
+  * Closest standard paper size
 *   What's in the box&#x20;
 
 
+
+## Photos
 
 ## Specs
 
@@ -41,14 +46,14 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * Color bi depth
   * Color gamut:
   * Color modes
-* Pens
+* Pen specs
   * Included pen
     * Default nib
       * Eval of pen should be in separate doc
   * Pen compatibility
     * Compatible
     * Incompatible pens (if needed for clarification)
-* Device&#x20;
+* Device specs&#x20;
   * Size
   * Weight
   * Ports
