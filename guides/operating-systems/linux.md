@@ -8,15 +8,25 @@ description: Using drawing tablets with Linux
 
 I don't have any experience with drawing tablets and Linux. However, here are some resources I found that you may find useful.
 
-## Recommended tablets for Linux
-
-Wacom has had Linux support the longest, so I tend to recommend Wacom tablets for this purpose.
-
 ## Wacom support for Linux
 
 Many distros come with Wacom drivers pre-installed. More details here: [Wacom - Are Wacom devices supported under Linux?](https://support.wacom.com/hc/en-us/articles/4418603622295-Are-Wacom-devices-supported-under-Linux)&#x20;
 
 The list of Wacom devices supported on Linux: [https://github.com/linuxwacom/input-wacom/wiki/Device-IDs](https://github.com/linuxwacom/input-wacom/wiki/Device-IDs)&#x20;
+
+### Notes on my experience
+
+* I tested several Wacom devices with the built in support of Linux Mint 22.2 Cinnamon.&#x20;
+  * One by Wacom CTL-672 - worked
+  * Wacom Intuos Pro Medium 2017 (PTH-66) - worked
+  * Wacom Movink 13 - was not recognized
+  * Wacom Intuos Pro Medium 2025 (PTK-670) - was not recognized
+* Pointer lag
+  * I noticed less pointer lag than a Windows or MacOS system using the Wacom driver
+* Feature set
+  * Basic features are available, but lots of typical features you might be used to in the Wacom driver are not
+    * No per-application settings
+    * No visualization of the pressure curv
 
 ## Xencelabs support for Linux
 
