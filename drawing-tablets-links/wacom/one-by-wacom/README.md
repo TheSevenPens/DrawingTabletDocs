@@ -1,12 +1,13 @@
 # One by Wacom
 
-## One by Wacom Small (CTL-472)
+## Overview
 
+* [<mark style="background-color:green;">**my notes on the One by Wacom CTL-x72 series tablets**</mark>](wacom-ctl-x72-notes.md)
 * Model year: 2019
-* [l](https://101.wacom.com/UserHelp/en/TOC/CTL-672.html)&#x20;
 
-## One by Wacom Medium (CTL-672)
+## Models
 
-* [<mark style="background-color:green;">**my notes on this tablet**</mark>](wacom-ctl-x72-notes.md)
-* Model year: 2019
-*
+| Model name           | Model number | Year |
+| -------------------- | ------------ | ---- |
+| One by Wacom Small   | CTL-472      | 2019 |
+| One by Wacom Medium  | CTL-672)     | 2019 |

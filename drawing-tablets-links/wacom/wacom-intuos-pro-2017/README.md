@@ -2,7 +2,7 @@
 description: PTH-x60 series
 ---
 
-# Wacom Intuos Pro (2017)
+# Wacom Intuos Pro 2017
 
 ## Overview
 
@@ -12,17 +12,17 @@ description: PTH-x60 series
 * Preceded by: [Intuos Pro 2013](../wacom-intuos-pro-2013.md)
 * Succeeded by: [Intuos Pro 2025](../wacom-intuos-pro-2025/)
 
-## Photos
-
-<figure><img src="../../../.gitbook/assets/20250514_234358 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/20250514_234413 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
 ## Models
 
 | PTH-460 | SMALL  |
 | ------- | ------ |
 | PTH-660 | MEDIUM |
 | PTH-860 | LARGE  |
+
+## Photos
+
+<figure><img src="../../../.gitbook/assets/20250514_234358 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250514_234413 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 ##
