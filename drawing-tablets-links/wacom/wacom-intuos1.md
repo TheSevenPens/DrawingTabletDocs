@@ -16,6 +16,12 @@ Wacom  released the Intuos series of professional pen tablets in 1998.&#x20;
   * Windows: 6.1.7-3 released on 13 Sep, 2011
   * MacOS: 6.1.6-4 released on 22 Nov, 2010
 
+## Links
+
+*   [S-Config - Original Wacom GD-0912-R on Windows 7 x64 ](https://www.s-config.com/original-wacom-gd-0912-r-on-windows-7-x64/) ([archive](https://archive.is/oeUFc))
+
+
+
 ## Name
 
 This was the first time introduction of the “Intuos” name into their products.
