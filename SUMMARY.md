@@ -331,6 +331,7 @@
   * [TSG: Pen display turns on and off constantly](troubleshooting/tsg-pen-display-turns-on-and-off-constantly.md)
   * [TSG: computer detects drawing tablet as a keyboard](troubleshooting/tsg-computer-detects-drawing-tablet-as-a-keyboard.md)
   * [TSG: Strokes are distorted or stretched](troubleshooting/tsg-strokes-are-distorted-or-stretched.md)
+  * [TSG Nothing showing on pen display](troubleshooting/tsg-nothing-showing-on-pen-display.md)
 * [App links](app-links/README.md)
   * [MyPaint](app-links/mypaint.md)
   * [Adobe Photoshop](app-links/adobe-photoshop/README.md)
