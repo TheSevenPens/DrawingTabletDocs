@@ -11,7 +11,7 @@ This site is a personal project and has no affiliation or relationship with any 
 ## Popular topics
 
 * [**Beginner's guide**](basics/beginners-guide.md) - If you are not sure really sure what a drawing tablet is, this is a great place to start.
-* [**Buying a drawing tablet**](buying-a-drawing-tablet/) -  a comprehensive guide about the topics you should consider when purchasing a tablet.
+* [**Buying a drawing tablet**](buying-guide/) -  a comprehensive guide about the topics you should consider when purchasing a tablet.
 * [**Recommendations**](recommendations/) - Because I've used so many tablets, I have recommendations about which ones I think will work well.&#x20;
 * [**Troubleshooting guides**](troubleshooting/) - for when you need help
 * [**Getting started** ](basics/getting-started-with-a-drawing-tablet.md)- If you just got your drawing tablet, learn how to set it up and start drawing
@@ -19,8 +19,8 @@ This site is a personal project and has no affiliation or relationship with any 
 
 ## Contact
 
-If you have questions or comments contact me at [**thesevenpens@outlook.com**](https://twitter.com/TheSevenPens).  &#x20;
+If you have questions or comments contact me at  [**thesevenpens@outlook.com**](https://twitter.com/TheSevenPens).  &#x20;
 
 ## Chat
 
-Consider joining the drawing tablet discord: [**Drawing Tablet discord server**](about-thesevenpens/drawing-tablet-discord-server.md).
+Consider joining the drawing tablet discord: [**Drawing Tablet discord server**](about-thesevenpens/drawing-tablet-discord-server.md). &#x20;

@@ -25,7 +25,7 @@ It really depends on a lot of factors.&#x20;
 * For pen tablets - I recommend a MEDIUM size (about 11")
 * For pen displays - I recommend a MEDIUM size (about 16") though many start off with a 13" and I personally prefer a 22"
 
-More here: [**tablet size**](buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
+More here: [**tablet size**](buying-guide/choosing-the-right-tablet-size.md)
 
 #### FAQ: Which cables do I need for my tablet?
 
@@ -39,7 +39,7 @@ More here: [**tablet size**](buying-a-drawing-tablet/choosing-the-right-tablet-s
 
 #### FAQ: Should I get a pen tablet or pen display?
 
-There is no single right answer. Each has pros and cons. More here: [**Pen tablets vs pen displays**](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
+There is no single right answer. Each has pros and cons. More here: [**Pen tablets vs pen displays**](buying-guide/pen-tablets-vs-pen-displays.md)&#x20;
 
 ## Pen Displays
 

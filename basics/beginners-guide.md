@@ -5,7 +5,7 @@
 If you are new to drawing tablets, after reading this guide you'll understand how these devices work and be prepared to use one or to purchase one.&#x20;
 
 {% hint style="info" %}
-**Buying a tablet?** Read this beginner's guide first. Then look at the detailed [**buying guide**](../buying-a-drawing-tablet/). It has links to my [**recommendations**](../recommendations/)**.** If are a beginner, and want to get a very quick recommendation, go here: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/). Once you have a tablet, look here: [**Getting started with a drawing tablet**](getting-started-with-a-drawing-tablet.md).
+**Buying a tablet?** Read this beginner's guide first. Then look at the detailed [**buying guide**](../buying-guide/). It has links to my [**recommendations**](../recommendations/)**.** If are a beginner, and want to get a very quick recommendation, go here: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/). Once you have a tablet, look here: [**Getting started with a drawing tablet**](getting-started-with-a-drawing-tablet.md).
 {% endhint %}
 
 ## Device options for drawing tablets &#x20;
@@ -75,7 +75,7 @@ The active area is the region on the tablet that your draw on. More here: [**act
 
 ## Tablet size
 
-When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](../buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
+When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](../buying-guide/choosing-the-right-tablet-size.md)
 
 ## Drivers
 

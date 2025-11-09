@@ -4,7 +4,7 @@
 
 The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good tablets. I highly recommend them for beginners. They are very reliable, have a good drawing experience, and allow you to explore drawing tablets without spending too much.&#x20;
 
-If you want to save some money you can find them on eBay. More here: [Buying used drawing tablets](../../../buying-a-drawing-tablet/buying-used-drawing-tablets.md)
+If you want to save some money you can find them on eBay. More here: [Buying used drawing tablets](../../../buying-guide/buying-used-drawing-tablets.md)
 
 ## Basics
 
@@ -100,4 +100,4 @@ There is a slight amount of texture on the surface to keep the pen from feeling 
 
 ### Osu!
 
-The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
+The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../buying-guide/buying-a-drawing-tablet-for-osu.md)

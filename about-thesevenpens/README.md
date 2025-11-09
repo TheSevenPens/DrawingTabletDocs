@@ -27,7 +27,7 @@ I have multiple desks with a combination of PCs and laptops for trying out diffe
 ## **Key resources**
 
 * My general take on [Drawing tablet brands](../drawing-tablet-brands/) &#x20;
-* [Buying guide](../buying-a-drawing-tablet/)&#x20;
+* [Buying guide](../buying-guide/)&#x20;
 * [Drawing tablet recommendations](../recommendations/) &#x20;
 
 ## **Relationship to tablet manufacturers**
