@@ -1,4 +1,4 @@
-# Wacom Cintiq 16 (2025) (DTK-168)
+# Wacom Cintiq 16 2025 (DTK-168) notes
 
 ## Overview
 
@@ -13,7 +13,9 @@ This is a EXCELLENT tablet with an excellent drawing experience and very good di
 * Product page: [https://www.wacom.com/en-us/products/wacom-cintiq](https://www.wacom.com/en-us/products/wacom-cintiq)
 *
 
-## Device weight&#x20;
+## Specs
+
+### Device weight&#x20;
 
 Slightly heavier than other pen displays at this size
 
@@ -22,7 +24,7 @@ Slightly heavier than other pen displays at this size
 * Huion Kamvas 16 gen 3: 1.2kg&#x20;
 * Wacom Movink 13: 0.420kg&#x20;
 
-## Display specs
+### Display specs
 
 * Display panel tech: IPS
 * Native resolution: 2560 x 1600&#x20;
@@ -31,7 +33,11 @@ Slightly heavier than other pen displays at this size
 * Laminated: YES - Wacom uses the term "bonded"
 * Response time: 12ms
 
-## Color
+
+
+## Display experience
+
+### Color
 
 * Color gamut (Wacom specified)
   * DCI-P3 99% (CIE1931) (typ)&#x20;
@@ -40,7 +46,7 @@ Slightly heavier than other pen displays at this size
 * This is not a "wide-gamut" display
 * It colors are pleasing and a big improvement over older Cintiq (non Pro) models that had washed-out colors.
 
-## Antiglare sparkle&#x20;
+### Antiglare sparkle&#x20;
 
 * RATING: GOOD. Very low. .
 * Comparisons:
@@ -48,7 +54,7 @@ Slightly heavier than other pen displays at this size
   * Similar to Huion Kamvas Pro 19
   * Similar to Wacom Cintiq 24 (2025)
 
-## Pixel sharpness
+### Pixel sharpness
 
 * Rating: GOOD
 * Pixels were clear and well-delineated
@@ -56,11 +62,31 @@ Slightly heavier than other pen displays at this size
   * Pixels looks sharper than Huion Kamvas Pro 19 which has a slight softness that many people notice and some do not like
   * How does it compare to a 4K at the same size? I would have a hard time telling this apart from 4K&#x20;
 
+### PWM flicker
+
+* No PWM flicker detected at any brightness level
+* Comparisons:
+  * Movink 13 has obvious PWM flicker
+* NOTE: Link to flicker testing methodology
+
+## Drawing experience
+
+### Surface texture
+
+* Surface texture is very typical for a pen display.
+* Pen does not feel slippery on the surface when drawing
+* Cintiq 16 (2025) has a surface texture that is
+  * the same as Cintiq 24 (2025)
+  * a bit more than Huion Kamvas 13 GEN3&#x20;
+  * about the same as Movink 13 (but has a different sensation - Movink feels "softer")&#x20;
+  * a bit more than Xencelabs Pen Display 16&#x20;
+  * somewhat less than the Cintiq Pro 22&#x20;
+
 ## Connections and cabling
 
 ### Included cables
 
-* USB-C cable #1 su7pports power, data, and video (5Gbps and 60W)
+* USB-C cable #1 supports power, data, and video (5Gbps and 60W)
 * USB-C cable #2 power only
 
 ### Ports
@@ -94,19 +120,15 @@ Slightly heavier than other pen displays at this size
   * Can be a little tricky to put the cable in because of that 'thing' on the back&#x20;
     * Some people consider using an USB-C L-type adapter &#x20;
 
-## Surface texture
+## Other inputs
 
-* Surfce texture is very typical for a pen display.
-* Pen does not feel slipper on the surface when drawing
-* Cintiq 16 (2025) has the same amount of surface texture as Cintiq 24 (2025)
-* Cintiq 16  (2025) has a bit more than Kamvas 13 GEN3&#x20;
-* Cintiq 16 (2025)  has about the same as Movnk 13 (but has a different sensation)&#x20;
-* Cintiq 16 (2025)  has a bit more than Xencelabs Pen Display 16&#x20;
-* Cintiq 16 (2025)  has somewhat less than the Cintiq Pro 22&#x20;
+### Buttons, dials, etc
 
-## Touch
+NONE
 
-This tablet does not support touch.
+### Touch
+
+NO. This tablet does not support touch.
 
 ## On-Screen Display Menu (OSD)
 
@@ -116,9 +138,37 @@ This tablet does not support touch.
 
 
 
-## PWM Flicker
+## Ergonomics
 
-* No PWM flicker detected at any brightness level
-* Comparisons:
-  * Movink 13 has obvious PWM flicker
-* NOTE: Link to flicker testing methodology
+### VESA
+
+The tablet does support VESA Mounting
+
+### Stand
+
+No stand is included in the box
+
+### Fans
+
+No fans
+
+### Noise
+
+No noise. Completely silent.
+
+### Heat
+
+* I measured with the tablet on 100% brightness for several days.
+* Heat is well managed - only a very slight warms toward the top
+* temperature range
+  * MIN: 30.2C (86.36F)
+  * MAX: 33.0C (91.4F)
+* NOTE: My IR reflection is visible in the IR photo&#x20;
+
+<div align="left"><figure><img src="../../../.gitbook/assets/Wacom_DTK_168_Fluke_20251109_04_46_35_403.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
+
+
+
+*
