@@ -10,21 +10,20 @@ Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a
 
 This companion video covers many but not all of the topics described in these notes:&#x20;
 
-{% embed url="https://www.youtube.com/watch" %}
+{% embed url="https://youtu.be/CnTBrhUhciM" %}
 
 ## Links
 
-* product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)&#x20;
-* [EyeKooDraws - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=Hf01mwaGtdI) 2025/09/13
-* [Trent Kaniuga - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=znKvWJON_k8) - 2024/12/16
-* [David Revoy - Huion Kamvas Pro 19](https://www.youtube.com/watch?v=M9VbiVJX-J4) - 2024/11/21&#x20;
-* [Create Now Sleep Later - Review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=5AWpKgv8jdY) - 2024/09/15&#x20;
-* [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024/06/21&#x20;
-* [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024/01/09
-* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) 2024/03/04
-* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024/02/14
-* [Yanick Paquette review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=t-Qo1jTVibY) - 2024/02/21
-* [TheSevenPens Notes on the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=CnTBrhUhciM) - 2024/03/05
+* [EyeKooDraws - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=Hf01mwaGtdI) 2025-09-13
+* [Trent Kaniuga - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=znKvWJON_k8) 2024-12-16
+* [David Revoy - Huion Kamvas Pro 19](https://www.youtube.com/watch?v=M9VbiVJX-J4) 2024-11-21&#x20;
+* [Create Now Sleep Later - Review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=5AWpKgv8jdY) 2024-09-15&#x20;
+* [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024-06-21&#x20;
+* [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024-01-09
+* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) 2024-03-04
+* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024-02-14
+* [Yanick Paquette review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=t-Qo1jTVibY) 2024-02-21
+* [TheSevenPens Notes on the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=CnTBrhUhciM) 2024-03-05
 
 ## Basics
 
@@ -64,7 +63,7 @@ This companion video covers many but not all of the topics described in these no
 * resolution: 200 LPmm (5080 LPI)
 * Number of pressure levels: 16,384&#x20;
 * Tilt support: YES
-* TIlt range: +/- 60 deg
+* Tilt range: +/- 60 deg
 * Hover height: 10mm
 * Report rate: 260PPS
 * Accuracy: Accuracy:±0.5mm (Center), ±3mm (Corner)
@@ -79,12 +78,10 @@ This companion video covers many but not all of the topics described in these no
 * Response time: 15ms
 * Refresh rate: 60hz
 * Contrast ratio: 1000:1
-* **Color gamuts supported** (as stated by Huion)
-  * Native
+* Color gamuts supported
   * sRGB – 99%
   * AdobeRGB – 96%
   * DCI-P3 – 98%
-  * There is also a "User" mode
 
 ### Other
 
@@ -92,21 +89,21 @@ This companion video covers many but not all of the topics described in these no
   * Support for Windows&#x20;
   * Support for MacOS (after a firmware update)
 
-## Included pen
-
-* Comes with 2 pens: PW600 and PW600S
-
-## Notes on PenTech 4.0
-
-Definitely an improvement over PenTech 3.0. Especially noticable in how pressure is handled.
-
 ## Pens
+
+
+
+### Included pens
 
 Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 
 * Pens behave exactly the same in terms of drawing, pressure, etc.
 * Both pens are PenTech 4.0 pens
 * Both pens have erasers
+
+See [**my notes on the PW600 pens**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+
+### Compatibility
 
 **Compatibility across different PenTech versions**
 
@@ -115,7 +112,9 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 
 **Notes on backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
 
-**Nibs** - The pre-installed nibs are both felt. The felt nibs feel good draw with and add an additional amount of texture. In the month I used the felt nibs I saw no appreciable wear - but I don't draw very heavily so your experience may differ. The tablet comes with replacement felt and plastic nibs.
+### NIbs
+
+The pre-installed nibs are both felt. The felt nibs feel good draw with and add an additional amount of texture. In the month I used the felt nibs I saw no appreciable wear - but I don't draw very heavily so your experience may differ. The tablet comes with replacement felt and plastic nibs.
 
 **NOTE: I damaged one of the felt nibs** - On the third day of using the tablet the PW600 pen would click or draw even when it was hovering. I did drop the pen at some point during the third day and that may have triggered something. I removed the nib, saw the nib was bent and replaced it with a fresh nib and the problem went away.&#x20;
 
