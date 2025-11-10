@@ -15,3 +15,16 @@ I only have one unit and based on my testing
 * The IAF is about 12gf
 * The maximum pressure is about 250gf
 
+
+
+## Photos
+
+
+
+<figure><img src="../../.gitbook/assets/IMG_0115 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_0119 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_0122 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_0121 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
