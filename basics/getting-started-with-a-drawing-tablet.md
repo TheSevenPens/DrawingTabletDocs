@@ -11,7 +11,7 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 
 ## Find out the tablet's model number
 
-* Make sure you know the model number of the tablet. This will help you in many ways later. More here: [**Finding the model number of a drawing tablet**](../guides/general/finding-the-model-number-of-a-drawing-tablet.md).&#x20;
+* Make sure you know the model number of the tablet. This will help you in many ways later. More here: [**Finding the model number of a drawing tablet**](../guides/general/finding-the-model-number-of-your-drawing-tablet.md).&#x20;
 
 ## Identify how to contact support
 

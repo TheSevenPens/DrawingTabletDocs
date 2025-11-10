@@ -1,4 +1,4 @@
-# Replacing a pen
+# Buying a replacement pen
 
 ## Overview
 
@@ -10,7 +10,7 @@ So many people accidentally buy incompatible pens and get frustrated. Please avo
 
 ## Instructions
 
-First find the model number of your tablet:  [**Finding the model number of a drawing tablet**](../general/finding-the-model-number-of-a-drawing-tablet.md)&#x20;
+First find the model number of your tablet:  [**Finding the model number of a drawing tablet**](../general/finding-the-model-number-of-your-drawing-tablet.md)&#x20;
 
 Then, go to the website of your tablet brand and search for the tablet you have and it should list the compatible pen model number. If you can't find what you are looking for then **contact customer support**.
 
