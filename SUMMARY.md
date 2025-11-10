@@ -290,7 +290,7 @@
     * [Show document canvas on another display](apps/tips/show-document-canvas-on-another-display.md)
   * [Recommended apps](apps/recommended-apps.md)
 * [Developers](developers/README.md)
-  * [Pen APIs](developers/pen-apis.md)
+  * [Pen input APIs](developers/pen-input-apis.md)
   * [WinTab versus Windows Ink](developers/wintab-versus-windows-ink.md)
   * [WinTab API](developers/wintab-api.md)
 * [Frequently asked questions](faq.md)

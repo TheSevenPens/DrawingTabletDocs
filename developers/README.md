@@ -2,7 +2,7 @@
 
 ## **APIs**
 
-Depending on which operating system or environment you are in there are different APIs. More here: [**Pen APIs**](pen-apis.md)**.**
+Depending on which operating system or environment you are in there are different APIs. More here: [**Pen APIs**](pen-input-apis.md)**.**
 
 ## Various tools and libraries
 
