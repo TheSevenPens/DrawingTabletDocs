@@ -4,11 +4,6 @@
 
 On Windows, there are two ways a drawing tablet communicates with your computer and the tablet driver: WinTab and Windows Ink.
 
-There are two primary questions:
-
-* Which API a **normal user** should select
-* Which API you a developer should use to create a pen-aware application
-
 ## For normal users
 
 By default, **I recommend you use Windows Ink** unless something forces you to use WinTab.&#x20;
@@ -25,7 +20,7 @@ Wacom published a page with frequently asked questions about WinTab:
 
 Here's a small snippet of the relevant section of the doc
 
-<figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Please read the document for the full details.
 
