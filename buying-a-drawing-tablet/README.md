@@ -51,39 +51,57 @@ f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wac
 
 I have links to information, reviews, and my notes on tablets in the [**product info**](../drawing-tablets-links/) section.
 
-## **Core drawing tablet features**
+## **Core features**
 
-* **Size** - Tablets come in a variety of sizes. The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](choosing-the-right-tablet-size.md) will help you find a size size that works for you.&#x20;
-* **Pressure -** The pen can detect how much pressure you are putting on its tip. All drawing tablets sense pressure. More info: [**pressure**](../core-features/pen-pressure/).&#x20;
-  * **Initial Activation Force (IAF)** is smallest pressure that activates the pen. In general you want a pen that has a low (<=3gf) IAF. Modern drawing tablet pens are around this value.
-  * The **maximum pressure** is the most pressure the pen can detect. The pressure range is the difference between the maximum pressure and IAF. Higher maximum pressure means that the pressure range is wide and is better for drawing because it lets you have better control over how pressure affects your stroke. &#x20;
-  * The difference between the max pressure and IAF is the **physical pressure range**. A range of 300gf is GOOD. 400gf and above is very good. Not all brands publish this information for their pens but some do. If you can't find the information ask customer support or ask people in the community.
-  * **Pressure levels** - the physical pressure range is divided into segments - each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 level, and the vast majority have 8192, and a few have 16K. In other words, EVERY tablet has enough pressure levels. So don't worry about choosing a tablet based on pressure levels. &#x20;
-* **Tilt**  can be very useful for for certain kinds of artwork. If you are just taking notes it may not be useful at all. Almost all modern tablets support tilt, except for less than a handful of pen tablets. More here [**tilt**](../core-features/pen-tilt/).
-* **EMR resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this. You don't need to worry about this spec. All modern tablets have enough resolution.
+* **Tablet size** - The size has a BIG impact on the ergonomics of using the tablet. And different sizes serve different user needs. This guide on [**choosing the right tablet size**](choosing-the-right-tablet-size.md) will help you find a size size that works for you.&#x20;
+* **The pen** (also called stylus) is how you provide input to the tablet. All drawing tablets come with a pen. Some pro tablets come with two pens. You have to PAY ATTENTION TO THE PEN. The pen controls how well pressure works - not the tablet.&#x20;
+* **Pen pressure handling -** The pen can detect how much pressure you are putting on its tip. All drawing tablet pens  sense pressure. More info: [**pressure**](../core-features/pen-pressure/). There are some aspects of pressure you need to be aware of.
+  * **Initial Activation Force (IAF)** is smallest pressure that activates the pen. In general you want a pen that has a low IAF. Fore details on what IAF values are good, bad, etc. go here: [**Initial activation force (IAF)**](../core-features/pen-pressure/initial-activation-force-iaf.md)
+  * The **Maximum Physical Pressure** is the most pressure the pen can detect.&#x20;
+  * The **Physical Pressure Range** is the difference between the maximum pressure and IAF. You want a wide enough pressure range because it makes it easier to control pressure. For details on how what is good are bad for pressure range go here:  [**Pen pressure range**](../core-features/pen-pressure/pen-pressure-range.md)
+  * **Pressure levels** - the physical pressure range is divided into segments - each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 level, and 99.9% have 8192 or more. You don't need to worry about the number of pressure levels when selecting a tablet. Every tablet on the market has enough.
+* **Pen Tilt Detection -** the tablet can detect the tilt of the pen adjust brush strokes and this can be very useful for for certain kinds of artwork. But some people don't use tilt at all. And tilt is not useful for scenarios where you are note taking or whiteboarding etc. Almost all modern tablets support tilt, except for less than a handful of pen tablets. More here [**tilt**](../core-features/pen-tilt/).
+* **Digitizer resolution -** This is how accurately the tablet can sense different positions of the pen. In other words, this is the tablet's ability to detect very tiny position changes. Most tablets have a reported LPI of 5080. 5080 lines per inch translates to 200 lines per mm. Without getting into details, Wacom tech is superior here, but if you are drawing you will not notice this. You don't need to worry about this spec. All modern tablets have enough resolution.
+
+## **Things to watch out for**
+
 * **Diagonal wobble** - All drawing tablets all have some wobble when moving the pen at an angle - it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be very sensitive to the wobble. Be aware of this affect and make sure the tablet you buy doesn't have too much wobble. More here: [**diagonal wobble**](../core-features/diagonal-wobble.md).
-
-## **Secondary features**
-
-* **ExpressKeys** are additional inputs (buttons, dials, scroll wheels, etc.) on the tablet. Some tablets have them and some don't. They allow you to easily perform certain tasks without touching the keyboard. You should decide if they are important for you. Read more here: [**ExpressKeys**](../core-features/expresskeys.md)&#x20;
-* **Touch** - A few drawing tablets support touch. Overall touch is not great. I do not recommend buying a drawing tablet if you expect the touch support to be on par with an iPad. You will be disappointed. More here: [**Touch support**](../guides/touch-support/)
-
-## Pen display topics
-
 * **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them. This will produce a kind sparkle effect. Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. More here: [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).  &#x20;
+* **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. The problem isn't usually the tablet, but how your computer's ports work and which ones you are trying to use. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/tsg-no-signal.md).&#x20;
+
+## **Non-pen inputs**
+
+* The primary input to the tablet is the pen. But some tablets support other inputs such as buttons, dials, and sliders. Some tablets even support touch.
+* These non-pen inputs are important for some people but others don't care about them at all.&#x20;
+* &#x20;Read more here:
+  * [**Auxilliary inputs**](../core-features/expresskeys.md) - buttons, dials, sliders
+  * [**Touch support**](../guides/touch-support/)
+
+## Pen display features
+
 * **Display resolution** - Choosing the [**display resolution**](../guides/pen-displays/display-resolution.md).&#x20;
 * **Brightness** - Pen displays are bright but not super bright like some other displays you might be familiar with. More here: [**brightness**](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. This is another thing, some people are more sensitive to. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
-* **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/tsg-no-signal.md).
 * Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md).
 * **Display Panel tech** - Most pen displays use an IPS display panel. Though a handful use OLED. Currently I recommend sticking with IPS panels because we don't know how long OLED displays will last in the scenarios we use drawing tablets. More here: [**Display panel technology**](../technology/display-panel-technology.md).
 
 ## Connections & cabling
 
-**Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.
+### **Cables that come with the tablet**
 
-**Pen displays** ALWAYS require at least 1 cable. As the pen display size starts getting to 16" and above, they tend to require at least 2 cables due to the increased power required by the display. Pen displays have many more connection options.  Its a common mistake to buy a pen display and then realize you have no way to connect it to your computer. <mark style="color:red;">**So please invest time understanding connection options BEFORE you make a purchase**</mark>. More here:&#x20;
+* Pen tablets - ALWAYS come with a USB cable to connect your computer to your tablet. Usually it is a USB-A to USB-C cable .
+* Pen displays - there are different ways to connect a pen display. A pen display will come with cables to support at least one of these methods. But if you want to connect a different way, you may need to buy additional cables.
+
+### Wireless&#x20;
+
+**Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying. **Pen displays** ALWAYS require at least 1 cable to your computer.&#x20;
+
+### Connection options&#x20;
+
+<mark style="color:red;">**UNDERSTAND BEFORE YOU BUY!!!**</mark>
+
+It is a common mistake to buy a pen display and then realize you have no way to connect it to your computer. <mark style="color:red;">**So please invest time understanding connection options BEFORE you make a purchase**</mark>. More here:&#x20;
 
 * [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
 * [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
@@ -137,11 +155,11 @@ If you buy a used tablet, you could save yourself some significant money but you
 
 Depending on the kind of tablet it will draw different amounts of power. Pen tablets requrie very little. Pen displays need much more. Some pen tablets even have batteries so that they can work wirelessly. More here: [Powering a drawing tablet](../core-features/power/powering-a-drawing-tablet.md)&#x20;
 
-## "PRO" tablets
+## So-called "PRO" tablets
 
 Some tablets are labelled "PRO"- for example Wacom Cintiq Pro or Wacom Intuos Pro. But there is no clear definition of Pro in the industry. And many new non-Pro tablets are better than older Pro tablets. More here: [**Buying "PRO" tablets**](buying-pro-tablets.md)
 
-Picking tablets with more recent tech
+## Picking tablets with more recent tech
 
 Drawing tablets have been released over many years. That means when you shop online you are going to be seeing many models both old and new and that can get very confusing.&#x20;
 

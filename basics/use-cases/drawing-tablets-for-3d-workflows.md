@@ -1,7 +1,7 @@
 # Drawing tablets for 3D workflows
 
 {% hint style="info" %}
-For the overall buying guide: [Buying a drawing tablet](../../buying-guide/)
+For the overall buying guide: [Buying a drawing tablet](../../buying-a-drawing-tablet/)
 {% endhint %}
 
 ## Overview
@@ -20,7 +20,7 @@ There are three considerations for 3D workflows
 
 Based on on my observation, most people doing 3D work use a pen display (screen tablet) instead of a pen tablet (screenless tablet).
 
-However, what will work for you takes some consideration. See: [**Pen tablets vs pen displays**](../../buying-guide/pen-tablets-vs-pen-displays.md)
+However, what will work for you takes some consideration. See: [**Pen tablets vs pen displays**](../../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
 
 ## Display resolution of pen display
 
@@ -35,7 +35,7 @@ However, what will work for you takes some consideration. See: [**Pen tablets vs
 * 16" is OKAY
 * 14 and lower - NOT RECOMMENDED
 
-For general guidance on picking size: [**Choosing the right size for a drawing tablet**](../../buying-guide/choosing-the-right-tablet-size.md)
+For general guidance on picking size: [**Choosing the right size for a drawing tablet**](../../buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
 
 
 
