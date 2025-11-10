@@ -30,7 +30,7 @@ All three very very consistent in their pressure response
 
 **Ignore IAF** in chart below - my testing was not designed for accurate IAF measurements.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Feeling**
 

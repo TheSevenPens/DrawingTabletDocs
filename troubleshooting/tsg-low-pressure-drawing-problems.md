@@ -20,7 +20,7 @@ Drawing tablet pens are more sensitive to pressure when the pens are held more v
 
 And many pens that exhibit even severe pressure stability problems when they're held vertically will not show those problems if you're holding them at a more normal angle as you draw.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Point the nib away from the direction the pen is moving
 

@@ -1,5 +1,21 @@
 # Configure Windows Ink for apps
 
+## The user experience
+
+Apps vary in how they present the configuration for Windows Ink vs WinTab .
+
+Tablet drivers always show it as a simple checkbox.
+
+<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+Apps may present it like this (Krita is shown). Notice that some apps use the phrase like "Windows 8 pointer API" to mean "Windows Ink"
+
+<figure><img src="../../../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Other apps may use the phrase "Tablet PC"
+
+<figure><img src="../../../../.gitbook/assets/image (19).png" alt="" width="298"><figcaption></figcaption></figure>
+
 ## Clip Studio Paint
 
 * Open Clip Studio Paint

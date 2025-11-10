@@ -264,6 +264,7 @@
       * [Windows 7 Tablet PC features](guides/operating-systems/windows/windows-7-tablet-pc-features/README.md)
         * [Disable Tablet PC features on Windows 7](guides/operating-systems/windows/windows-7-tablet-pc-features/disable-tablet-pc-features-on-windows-7.md)
         * [Disable Tablet PC features on Windows 7 using the FixMyPen tool](guides/operating-systems/windows/windows-7-tablet-pc-features/disable-tablet-pc-features-on-windows-7-using-the-fixmypen-tool.md)
+      * [Windows Pen and Touch Control Panel](guides/operating-systems/windows/windows-pen-and-touch-control-panel.md)
       * [Windows Ink](guides/operating-systems/windows/windows-ink/README.md)
         * [The history of Windows Ink](guides/operating-systems/windows/windows-ink/the-history-of-windows-ink.md)
         * [Configure Windows Ink for apps](guides/operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)

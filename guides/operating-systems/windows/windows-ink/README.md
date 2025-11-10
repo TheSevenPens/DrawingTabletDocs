@@ -4,82 +4,44 @@
 
 **Windows Ink** is an API and set of features in Microsoft Windows that enable using a pen to work with your PC.  More here: [The history of Windows Ink](the-history-of-windows-ink.md). Windows Ink is one of two APIs used for Windows to talk to a tablet. The other, older one, is called WinTab.
 
-## Coordinating Windows Ink in the driver and application
+There are two places to configure Windows Ink and they should be coordinated:
 
-Whichever API you want to use, **you must configure it in two places (app and driver) the same way**.
+* In your tablet driver - you can configure it for all apps or for specific apps. See [**configure Windows Ink in the tablet driver**](configure-windows-ink-in-the-tablet-driver.md) &#x20;
+* In your pen-aware application. See [**configure Windows Ink in an application**](configure-windows-ink-for-apps.md)&#x20;
 
-* To use Windows Ink
-  * Enable Windows Ink in the driver
-  * Enable Windows Ink in the app
-* To use WinTab instead
-  * Disable Windows Ink in the driver (this enables WinTab)
-  * Disable Windows Ink in the app (choosing WinTab instead)
+## Recommended setting
 
-Instructions:
+### Baseline configuration: Use Windows INK
 
-* How to [**configure Windows Ink in the tablet driver**](configure-windows-ink-in-the-tablet-driver.md) &#x20;
-* How to [**configure Windows Ink in an application**](configure-windows-ink-for-apps.md)&#x20;
-  * NOTE: If you change between Windows Ink and WinTab in app, you should restart the app.
+In Tablet Driver
 
-## Notes the user experience
+* Enable Windows Ink - this means Windows Ink will be available for all apps
 
-Drivers and apps typically present the Windows Ink vs WinTab choice in different ways.
+In Each Applications
 
-Drivers show it most often as a Windows Ink checkbox. If the box is checked, then Windows Ink is used. If the box is unchecked, then WinTab is used. The driver UI does not show the literal phrase "WinTab" anywhere. &#x20;
+* Configure the app to use Windows Ink
+* If you change this setting, restart the app
 
-Here's an example from the Wacom Tablet properties app.
+### Customization for specific apps
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+You may have an app that is having problems using windows Ink.
 
-Apps usually express it as an API choice and let you can see Windows Ink or WinTab in their UX. Here's an example from Krita.
+In the application
 
-<figure><img src="../../../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
+* Configure the application to use Windows Ink
+* If you change this setting, restart the app
 
-Another thing Krita demonstrates is that Windows Ink can go by different names.
+In tablet driver
 
-Here's what it looks like in Clip Studio paint.&#x20;
+* Usually you don't need to do anything&#x20;
+* However, it may be necessary in the driver to create an application-specific setting to disable the use for Windows Ink
 
-<figure><img src="../../../../.gitbook/assets/image (19).png" alt="" width="298"><figcaption></figcaption></figure>
+## Tips for troubleshooting
 
-## Tip: Be aware of Windows Ink configuration
+If you are having problems with your tablet on Windows, one of the first things you should verify is how Windows Ink is configured:
 
-Sometimes applications have trouble working with one of the APIs, so switching to the other API can sometimes solve problems.
+* In your application
+* In your tablet driver
+  * And check if the tablet driver has an app-specific configuration for Windows Ink
 
-## Initial Default Configuration
-
-This diagram shows the typical initial configuration for apps and drivers. Usually every app and driver is configured by default to Use Windows Ink.
-
-<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-
-
-
-## Recommended configuration
-
-As of 2023 enough applications on Windows support Windows Ink (or require it) that I suggest this configuration:
-
-<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-* In the tablet driver:
-  * Enable Windows Ink for all apps
-  * Disable Windows Ink for and specific apps where you want to use the WinTab API
-* In the applications
-  * Ensure they are configured to use the appropriate API as specified in the tablet driver&#x20;
-
-## Application support for Windows Ink
-
-In the years since Windows Ink has been available, here's how apps have adopted it.
-
-* The vast majority of apps support using either Windows Ink or WinTab
-  * Almost all of these apps, by default use Windows Ink
-  * For almost all apps, switching to WinTab is easy.&#x20;
-  * For some apps though switching to WinTab is complicated. For example, for Adobe deliberately makes it complicated to switch to WinTab.
-* Some apps ONLY support Windows Ink. For example: Microsoft OneNote.
-* Some apps ONLY support WinTab. These tend to be older apps that have not been updates.
-
-## Getting to Windows Ink Control Panel from the command line
-
-Use this in CMD shell
-
-```
-"C:\WINDOWS\system32\rundll32.exe" shell32.dll,Control_RunDLL TabletPC.cpl @0,pen
-```
+##
