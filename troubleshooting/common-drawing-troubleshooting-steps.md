@@ -30,6 +30,12 @@ NOTES:
 
 * I recommend always testing with Krita because Krita is free and has configurable brushes that let you test our specific pen features such as pressure and tilt.
 
+## Test with my online tablet tester
+
+Drawing applications do complex things. My tablet tester is a much simpler application and I now what it does. See if you can replicate the behavior in the tester.
+
+GO HERE: [**SevenPens Tablet Tester**](../resources/sevenpens-tablet-tester.md)&#x20;
+
 ## Windows > Windows PNP drivers
 
 Try this: [Testing with Windows PNP drawing tablet drivers](testing-with-windows-pnp-drawing-tablet-drivers.md)
