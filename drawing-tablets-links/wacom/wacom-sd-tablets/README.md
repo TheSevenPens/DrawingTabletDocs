@@ -68,6 +68,7 @@ But other models in the SD series are not much much thicker and do not feature t
 * [User manual for SD-013A](https://archive.org/details/sd013a) (English)
 * [User manual for SD-210L](https://archive.org/details/sd210l) (English)
 * [User manual for SD-31xE, SD-32xE, SD-42xE](https://archive.org/details/sd310e) (English)&#x20;
+* WACOM Software Interface Reference Manual - UD, KT, and SD series - [https://vt100.net/wacom/wacom-progman.pdf ](https://vt100.net/wacom/wacom-progman.pdf)
 
 ## Using Wacom SD tablets on modern computers
 
