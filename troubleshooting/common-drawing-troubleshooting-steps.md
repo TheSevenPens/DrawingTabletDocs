@@ -61,3 +61,7 @@ See these docs:
   * Is it working in a specific app but working in others?
   * Or is it nor working in all apps?
 
+## Look through the other troubleshooting guides
+
+GO HERE: [**Troubleshooting**](./)
+
