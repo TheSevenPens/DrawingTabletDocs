@@ -22,6 +22,10 @@ This tablet makes sense for the following scenarios:
 
 {% embed url="https://www.youtube.com/watch?v=eDu-6BBp8JI" %}
 
+## Links
+
+* [Brad Colbow - Review of the Wacom One 14](https://www.youtube.com/watch?v=GKxx9Vwz79U) 2024-11-10
+
 ## Basics
 
 ### Product information
