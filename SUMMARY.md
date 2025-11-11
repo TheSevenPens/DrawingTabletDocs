@@ -630,6 +630,7 @@
   * [Microscope](process/microscope.md)
   * [Measuring PWM Flicker](process/measuring-pwm-flicker.md)
   * [Measuring pressure banding](process/measuring-pressure-banding.md)
+  * [USB-C Cable testing](process/usb-c-cable-testing.md)
 * [Reference](reference/README.md)
   * [Resolution info](reference/resolution-info.md)
   * [Aspect ratio math](reference/aspect-ratio-math.md)
