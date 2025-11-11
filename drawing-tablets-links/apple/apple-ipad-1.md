@@ -6,6 +6,8 @@ description: Using an iPad as a drawing tablet
 
 ## Overview
 
+
+
 iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
 * [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
@@ -16,6 +18,16 @@ iPads - specifically those that are compatible with the Apple Pencil 2nd gen or 
 I refer to the **Apple Pencil** as a **pen** to keep my documentations consistent.
 
 ## Choosing between iPad models
+
+There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../pen-links/apple-pencil.md). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
+
+The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
+
+* **Apple iPad Air (4th gen and later)** ($600)
+* **Apple iPad Pro 11 inch (4th gen and later)** ($800+)
+* **Apple iPad pro 12.9 inch 6th gen** ($1100+)
+
+For a list of applications for iPads: [**Apps for iPad**](../../apps/apps-for-ipad.md)
 
 [Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025/07/24
 

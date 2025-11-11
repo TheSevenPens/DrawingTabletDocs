@@ -4,48 +4,30 @@
 
 If you're primarily interested in drawing or notetaking I think pen-enabled mobile computers are your best options.
 
-For years, we've had two two real options in this space are:
+## Top picks for drawing
+
+These are for when you want a GREAT drawing experience. Especially if you are already used to drawing tablets or Wacom professional tablets and pens.
+
+* Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)&#x20;
+  * This tablet has the best drawing experience on the market out of any current standalone tablet of any kind and from any brand.
+* Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
+
+## Top picks for general usage
+
+This is when you want a general-purpose mobile device, but also want decent pen support for things like sketching, notetaking, whiteboarding, etc.&#x20;
 
 * Apple iPads + the Apple Pencil - [<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../drawing-tablets-links/apple/apple-ipad-1.md)
+  * Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately.&#x20;
 * Samsung Galaxy Tab S devices - [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s.md) &#x20;
 
-In 2025, new options became available:
+## Some compromises
 
-* XP-Pen Magic Drawing Pad GEN2 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
-* Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
-* Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)&#x20;
-
-## My top choices
-
-* For drawing: Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)&#x20;
-  * This tablet has the best drawing experience on the market out of any current standlone tablet of any kind and from any brand.
-* For general usage:
-  * iPad / iPad Air / iPad Pro - whichever models support the Apple Pencil
-  * Samsung S9 and later&#x20;
-
-## Basics
-
-Given what people want in standalone devices, often I think these kinds of devices are your best choice for a standalone drawing tablet.&#x20;
-
-* Operating system: a mobile OS (iOS, Android)
-* Scenario: General purpose
-* Pen tech: varies and depends on the specific model. Apple Pencil protocol, AES, EMR. EMR provides the "classic" drawing tablet experience. &#x20;
+* XP-Pen Magic Drawing Pad 2024 - I don't have any experience with this tablet.
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
 
 ## Apple iPads
 
-Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately
-
 [<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../drawing-tablets-links/apple/apple-ipad-1.md)
-
-There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../pen-links/apple-pencil.md). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
-
-The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
-
-* **Apple iPad Air (4th gen and later)** ($600)
-* **Apple iPad Pro 11 inch (4th gen and later)** ($800+)
-* **Apple iPad pro 12.9 inch 6th gen** ($1100+)
-
-For a list of applications for iPads: [**Apps for iPad**](../../apps/apps-for-ipad.md)
 
 ## Samsung Galaxy Tab S series
 
@@ -68,31 +50,21 @@ For applications that run on Android see this list: [**Apps for Android**](../..
 
 [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S8 Ultra**</mark>](../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s8-ultra-notes.md)&#x20;
 
-## Samsung Galaxy Tab A Series
+
+
+##
+
+## Tablets to avoid
+
+### Samsung Galaxy Tab A Series
 
 <mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](../../drawing-tablets-links/samsung/samsung-galaxy-tab-a.md)
 
-## Wacom MovinkPad 11
-
-Of the current generation of standalone drawing tablets. This is the best in terms of drawing experience - primarily because it support using the Pro Pen 2 and is heavily optimized for quick sketching. [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
-
-
-
-## XP-Pen Magic Drawing Pad
-
-XP-Pen has released two versions of the drawing pad
-
-* XP-Pen Magic Drawing Pad (2024) - I don't have any experience with this tablet.
-* XP-Pen Magic Drawing Pad (2025) - I have this tablet and like like it overall despite flaws in its tilt support. [<mark style="background-color:green;">**my notes on this tablet**</mark> ](../../drawing-tablets-links/xp-pen/xp-pen-magic-drawing-pad/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
-
-## Huion Slate and XP-Pen
-
-Huion and XP-pen have also released android tablets in this category.
+### Huion Slate&#x20;
 
 * [**Huion Kamvas Slate 10**](../../drawing-tablets-links/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
-*
 
-Resources
+## Resources
 
 * [Gartzia Artz - The Best Tablet? iPad Pro vs. Xiaomi Pad 7 vs. XP Pen, MagicPad vs. Honor MagicPad 2 vs. Huawei M...](https://www.youtube.com/watch?v=vvCvsAbAK6A) 2025/03/12
 *
