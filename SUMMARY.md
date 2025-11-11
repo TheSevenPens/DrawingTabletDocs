@@ -53,7 +53,7 @@
     * [Pen display recommendations (SMALL)](recommendations/pen-display-recs/pen-display-recs-small.md)
   * [Standalone drawing tablet recommendations](recommendations/standalone-recs/README.md)
     * [Pen computer recommendations](recommendations/standalone-recs/pen-computer-recs.md)
-    * [Pen-enabled mobile devices](recommendations/standalone-recs/mobile-device-recs.md)
+    * [Pen-enabled mobile device recommendations](recommendations/standalone-recs/mobile-device-recs.md)
     * [Pen-enabled 2-in-1 laptop recommendations](recommendations/standalone-recs/2-in-1-laptop-recs.md)
   * [Comparisons](recommendations/comparisons/README.md)
     * [Drawing tablet tier list (December 2024)](recommendations/comparisons/7p-drawing-tablet-tier-list-december-2024.md)

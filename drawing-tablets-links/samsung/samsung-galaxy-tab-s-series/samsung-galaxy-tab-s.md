@@ -4,20 +4,34 @@
 
 The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can play the role of drawing tablets very well and are a compelling alternative to Apple iPads.
 
+If you are exploring options for this category of devices, see: [Pen-enabled mobile device recommendations](../../../recommendations/standalone-recs/mobile-device-recs.md)
 
+## Models
 
+There are many models available over the years, so it is likely you can find something that works for your budget. Below are three that I have personal experience with. But many others might suit your needs.
 
-
-## Models I own
-
-* Samsung Galaxy Tab S11 Ultra ([**my notes on Tab S11 Ultra**](samsung-galaxy-tab-s11-ultra-notes.md))
-  * UNDER EVALUATION
-* Samsung Galaxy Tab S8 Ultra ([<mark style="background-color:green;">**my notes on Tab S8 Ultra**</mark>](samsung-galaxy-tab-s8-ultra-notes.md))
-  * RECOMMENDED. High performance. Great display.&#x20;
-* Samsung Galaxy Tab S9 FE   ([<mark style="background-color:green;">**my notes on Tab S9 FE**</mark>](samsung-galaxy-tab-s9-fe-notes.md))
+* **Samsung Galaxy Tab S11 Ultra**&#x20;
+  * HIGHLY RECOMMENDED
+  * [<mark style="background-color:green;">**my notes on Tab S11 Ultra**</mark>](samsung-galaxy-tab-s11-ultra-notes.md)
+* **Samsung Galaxy Tab S8 Ultra**&#x20;
+  * RECOMMENDED. High performance. Great display.
+  * [<mark style="background-color:green;">**my notes on Tab S8 Ultra**</mark>](samsung-galaxy-tab-s8-ultra-notes.md)&#x20;
+* **Samsung Galaxy Tab S9 FE**&#x20;
+  * ($350 to $520) excellent mid-budget option
   * HIGHLY RECOMMENDED. Great value at reasonable cost.
-* Samsung Galaxy Tab S6 LITE (2022 edition or 2024 edition) ([**my notes on Tab S8 lite 2022 edition**](samsung-galaxy-tab-s6-lite-2022-edition-notes.md))
+  * &#x20;[<mark style="background-color:green;">**my notes on Tab S9 FE**</mark>](samsung-galaxy-tab-s9-fe-notes.md)
+  * There are two versions:&#x20;
+    * 6GB RAM + 126GB storage ($450)
+    * 8GB RAM with 256GB of storage ($520)
+    * Both will work, but I always recommend getting more RAM for drawing apps.
+* **Samsung Galaxy Tab S6 LITE**
+  * ($240) is a good a low-cost option for beginners. &#x20;
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
+  * There are different editions based on year
+    * 2024 edition
+    * 2022 edition - [<mark style="background-color:green;">**my notes on Tab S6 lite 2022 edition**</mark>](samsung-galaxy-tab-s6-lite-2022-edition-notes.md)
+    * 2020 edition - avoid it.&#x20;
+    * Get the most recent edition
 
 ## Size
 
