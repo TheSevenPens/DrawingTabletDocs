@@ -11,10 +11,8 @@ description: PTZ-x30 series
 * Preceded by: [Intuos2](wacom-intuos2.md)
 * Succeeded by: [Intuos4](wacom-intuos4/)
 * Last supported driver
-  * Windows: 6.3.15-3 22 released on Dec, 2015
-  *   MacOS: 6.3.15-3 released on&#x20;
-
-      21 Dec, 2015
+  * Windows: 6.3.15-3 22 released 2015-12
+  * MacOS: 6.3.15-3 released on 2015-12-21
 
 ## Links
 

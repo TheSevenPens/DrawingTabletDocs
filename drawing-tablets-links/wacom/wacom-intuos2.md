@@ -13,8 +13,8 @@ This is a professional pen tablet series from 2001.
 * Preceded by: [Intuos1](wacom-intuos1.md)
 * Succeeded by: [Intuos3](wacom-intuos3.md)&#x20;
 * Last supported driver
-  * Windows: 6.2.0w5 released on 25 Jan, 2012
-  * MacOS: 6.2.0w4 released on 25 Jan, 2012
+  * Windows: 6.2.0w5 released on 2012-01-25
+  * MacOS: 6.2.0w4 released on 2012-01-25
 
 ## Photos
 

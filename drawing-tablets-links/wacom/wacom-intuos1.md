@@ -13,8 +13,8 @@ Wacom  released the Intuos series of professional pen tablets in 1998.&#x20;
 * Succeeded by: [Intuos2](wacom-intuos2.md)
 * Intuos pro generation: 1st gen
 * Last supported driver
-  * Windows: 6.1.7-3 released on 13 Sep, 2011
-  * MacOS: 6.1.6-4 released on 22 Nov, 2010
+  * Windows: 6.1.7-3 released on 2011-09-13
+  * MacOS: 6.1.6-4 released on 2010-11-22
 
 ## Links
 
