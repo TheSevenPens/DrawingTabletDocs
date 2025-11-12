@@ -16,6 +16,10 @@ description: PTZ-x30 series
 
       21 Dec, 2015
 
+## Links
+
+* [EyekooDrawsStuff - Wacom Intuos 3 6x8 (PTZ-630)](https://www.youtube.com/watch?v=GAb-mte-j5w) 2021/09/11
+
 ## Photos
 
 <figure><img src="../../.gitbook/assets/20250514_211256 (Large).jpg" alt=""><figcaption></figcaption></figure>
