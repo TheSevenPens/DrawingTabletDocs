@@ -1,6 +1,8 @@
-# Drawing tablet tier list (December 2024)
+# 2024 Drawing tablet tier list
 
 This is an updated tier list from the original livestream: [https://youtube.com/live/CKki6AEzdzA](https://youtube.com/live/CKki6AEzdzA)&#x20;
+
+To see the next year's tier list: [2025 Drawing tablet tier list](2025-drawing-tablet-tier-list.md)
 
 The updated tier has a couple of changes I implemented after talking to some tablet enthusiasts:
 
