@@ -18,17 +18,17 @@ Unlike last year
 
 ## Pen tablets
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_tablets_20251112_080318 - Copy.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_tablets_20251112_080318 - Copy.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pen displays
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_displays_20251112_071919 - Copy.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_displays_20251112_071919 - Copy.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Standalone
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_standalone_20251112_090742 - Copy.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_standalone_20251112_090742 - Copy.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pens
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pens_20251112_092702 - Copy.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pens_20251112_092702 - Copy.png" alt=""><figcaption></figcaption></figure></div>
 

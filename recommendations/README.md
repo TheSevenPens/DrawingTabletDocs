@@ -4,6 +4,10 @@ Below are tablets I would personally recommend separated by device type. These r
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><p><strong>PEN TABLETS</strong></p><p>No screen</p><p>Require a computer</p></td><td><ul><li><a href="pen-tablet-recs/pen-tablet-recs-small.md">SMALL pen tablets</a></li><li><a href="pen-tablet-recs/pen-tablet-recs-medium.md">MEDIUM pen tablets</a></li><li><a href="pen-tablet-recs/pen-tablet-recs-large.md">LARGE pen tablets</a></li></ul></td></tr><tr><td><p><strong>PEN DISPLAYS</strong></p><p>Have a screen</p><p>Require a computer</p></td><td><ul><li><a href="pen-display-recs/pen-display-recs-small.md">SMALL pen displays</a></li><li><a href="pen-display-recs/pen-display-recs-medium.md">MEDIUM pen displays</a></li><li><a href="pen-display-recs/pen-display-recs-large.md">LARGE pen displays</a></li></ul></td></tr><tr><td><p><strong>STANDALONE</strong></p><p>Have screen</p><p>Don't require a computer </p></td><td><ul><li><a href="standalone-recs/mobile-device-recs.md">Mobile devices</a></li><li><a href="standalone-recs/2-in-1-laptop-recs.md">2-in-1 Laptops</a> </li><li><a href="standalone-recs/pen-computer-recs.md">Pen computers </a> </li></ul></td></tr></tbody></table>
 
+## Tier lists
+
+Check out the [2025 Drawing Tablet Tier List](comparisons/2025-drawing-tablet-tier-list.md) to see how these tablets and their pens rank against each other.
+
 ## For beginners
 
 If you are beginner, then consider these specific models which are great introduction to drawing tablets. [**Recommended drawing tablets for beginners**](scenarios/beginner-recs/).
