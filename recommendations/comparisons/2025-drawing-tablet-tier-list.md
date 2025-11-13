@@ -30,5 +30,5 @@ Unlike last year
 
 ## Pens
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pens_20251112_191748.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 

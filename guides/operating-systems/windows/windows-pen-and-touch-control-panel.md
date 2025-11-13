@@ -2,7 +2,7 @@
 
 ## UI
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (620).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Opening from the command line
 
