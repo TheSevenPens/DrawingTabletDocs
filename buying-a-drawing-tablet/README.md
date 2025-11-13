@@ -1,4 +1,4 @@
-# Buying a drawing tablet
+# Drawing tablet buying guide
 
 ## Introduction
 
@@ -12,14 +12,6 @@ If you are new to drawing tablets, read this first: [**Beginner's guide to drawi
 
 If you prefer a watching a video. See this playlist: [Drawing tablet buying guides](https://www.youtube.com/watch?v=QpAJOOKaQUM\&list=PLp1wHemgDmJ0FZV9toNieYZ1qku9C4REB)
 
-## My recommendations
-
-If you are ready to buy a tablet, go ahead to [**my tablet recommendations**](../recommendations/). Those recommendations should help you narrow your search. The recommendations cover pen tablets, pen displays, and pen computers across multiple price ranges.&#x20;
-
-{% hint style="info" %}
-I strongly urge you to read this buying guide and beginner's guide completely before you jump directly to the recommendations. &#x20;
-{% endhint %}
-
 ## Choosing the type of drawing tablet
 
 The most fundamental choice to make is the kind of drawing tablet you want:
@@ -28,7 +20,26 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 * **pen display** - has a screen and requires a computer to use
 * **standalone tablet  -** has a screen and can be used my itself without being connected to a computer. There are several distinct types of standalone tablets.&#x20;
 
-More here: [**Types of drawing tablets**](../basics/types-of-drawing-tablets/)
+Before you continue, read this: [**Types of drawing tablets**](../basics/types-of-drawing-tablets/). It will help you understand the options and how much they will cost.
+
+## Questions you need to answer
+
+Your selection of a tablet will be accelerated if you are clear with yourself on the following questions
+
+* Which type of drawing tablet do you want
+* How much you are willing to spend
+* What is your intended usage scenario. If multiple scenarios apply, rank them.
+  * Artistic - painting drawing
+  * Utility - note-taking, whiteboarding, creating educational materials
+  * Gaming
+
+## My recommendations
+
+If you are ready to buy a tablet, go directly to [**my tablet recommendations**](../recommendations/). These recommendations will help you narrow your search.&#x20;
+
+{% hint style="info" %}
+I strongly urge you to read this buying guide and beginner's guide completely before you jump directly to the recommendations. &#x20;
+{% endhint %}
 
 ## Basic buying guidelines
 
@@ -38,18 +49,14 @@ More here: [**Types of drawing tablets**](../basics/types-of-drawing-tablets/)
 
 ## Brands
 
-**If you want a safe choice, go with Wacom.** They are also the most expensive. Competitors such as Huion, XP-Pen, and Xencelabs are closing the gap with Wacom.&#x20;
+**If you want a safe choice, go with Wacom.** They are also the most expensive. Competitors such as Huion, XP-Pen, and Xencelabs are closing the gap with Wacom in features and reliability.&#x20;
 
 More here:&#x20;
 
 * [**Brands**](../drawing-tablet-brands/)
 * [**Choosing a drawing tablet brand**](../drawing-tablet-brands/choosing-a-drawing-tablet-brand.md) &#x20;
 
-f you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablets-links/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
-
-## Product info
-
-I have links to information, reviews, and my notes on tablets in the [**product info**](../drawing-tablets-links/) section.
+If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablets-links/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## **Core features**
 
@@ -95,13 +102,23 @@ I have links to information, reviews, and my notes on tablets in the [**product 
 
 ### Wireless&#x20;
 
-**Pen tablets** can all be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying. **Pen displays** ALWAYS require at least 1 cable to your computer.&#x20;
+**ALL Pen tablets** can be connected with a single USB cable. Most pen tablets even support wireless connectivity - usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Be sure which one you are buying.&#x20;
 
-### Connection options&#x20;
+**ALL Pen displays** require at least 1 cable to your computer.&#x20;
 
-<mark style="color:red;">**UNDERSTAND BEFORE YOU BUY!!!**</mark>
+### <mark style="color:red;">Understand connection options BEFORE YOU BUY</mark>&#x20;
 
-It is a common mistake to buy a pen display and then realize you have no way to connect it to your computer. <mark style="color:red;">**So please invest time understanding connection options BEFORE you make a purchase**</mark>. More here:&#x20;
+It is a common mistake to buy a pen display and then realize you have no way to connect it to your computer. <mark style="color:red;">**So please invest time understanding connection options BEFORE you make a purchase**</mark>.
+
+To keep it simple:
+
+* Understand what cables come with the tablet
+* Understand which cables from the tablet go where&#x20;
+  * Pen tablets - this is easy - a cable goes from the pen tablet to the computer. Or some pentablets support wireless connection
+  * Pen displays - this is complicated - there are many connection options. Sometimes it can be done with one cable, two cables, three cables, special cables, etc. Sometimes it requires multiple ports on your computer. Sometimes the ports on the computer must meet specific requirements. Some require additional power from a power adapter.  And there are many other things to verify and investigate.
+  * Standalone - these only need to be connected to power occasionally.
+
+More here:&#x20;
 
 * [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
 * [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
@@ -109,7 +126,16 @@ It is a common mistake to buy a pen display and then realize you have no way to 
 
 ## Compatibility with operating systems
 
-Drawing tablets work with many computer operating systems. They do work better or more fully with desktop Operating systems like Windows, MacOS, and Linux than with standalone operating systems like Android, ChromeOS, iOS, and iPadOS.
+Pen tablets and pen displays must be connected to a computer in order to work. And how well they work, depends on the operating systems of that computer.
+
+In my experience:
+
+* Tablets work BEST with Windows and MacOS.
+* Tablets work VERY WELL or OK with Linux.
+* Tablets work OK or NOT WELL or NOT AT ALL with Android and Android Apps.
+* Tablets work OK or NOT AT ALL with iOS or iPadOS.
+
+For cases besides Windows and MacOS, how well a tablet works is highly depending on the specific tablet model.&#x20;
 
 For more information on how tablets work with a specific OS, go here: [**Operating systems**](../guides/operating-systems/)&#x20;
 

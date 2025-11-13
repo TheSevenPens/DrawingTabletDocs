@@ -28,7 +28,7 @@
   * [The drawing experience](basics/the-drawing-experience.md)
   * [App compatibility with drawing tablets](basics/app-compatibility-with-drawing-tablets.md)
   * [Uninstalling tablet drivers](basics/uninstalling-tablet-drivers.md)
-* [Buying a drawing tablet](buying-a-drawing-tablet/README.md)
+* [Drawing tablet buying guide](buying-a-drawing-tablet/README.md)
   * [Buying used drawing tablets](buying-a-drawing-tablet/buying-used-drawing-tablets.md)
   * [Inspecting a drawing tablet](buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)
   * [Pen tablets vs pen displays](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
