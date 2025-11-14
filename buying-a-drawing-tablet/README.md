@@ -128,16 +128,9 @@ More here:&#x20;
 
 Pen tablets and pen displays must be connected to a computer in order to work. And how well they work, depends on the operating systems of that computer.
 
-In my experience:
+In my experience, tablets work BEST with Windows and MacOS. With Linux, Android, ChromeOS, iPadOS, iOS things are more challenging.
 
-* Tablets work BEST with Windows and MacOS.
-* Tablets work VERY WELL or OK with Linux.
-* Tablets work OK or NOT WELL or NOT AT ALL with Android and Android Apps.
-* Tablets work OK or NOT AT ALL with iOS or iPadOS.
-
-For cases besides Windows and MacOS, how well a tablet works is highly depending on the specific tablet model.&#x20;
-
-For more information on how tablets work with a specific OS, go here: [**Operating systems**](../guides/operating-systems/)&#x20;
+More here: [**Operating systems**](../guides/operating-systems/)&#x20;
 
 ## Ergonomics
 
