@@ -1,4 +1,16 @@
 # MovinkPad Pro 14 (DTH-A140) notes
 
-Status as of 2025/10/17 - My MovinkPad Pro 14 has not arrived yet
+Tablet has arrived.
+
+Still evaluating.
+
+## MovinkPad Pro 14 cover
+
+Summary: Overpriced and Underdelivered
+
+* Does not magnetically grip strong enough - do not hold by the cover alone. The tablet will come loose
+* Expensive for its performance and materials - should be priced at $15 not $60
+* At least my favorite standalone tablet has **some** protection
+
+
 
