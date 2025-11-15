@@ -12,7 +12,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top picks
 
-* Wacom Intuos Pro Large (PT-870) \[$500, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
+* Wacom Intuos Pro Large (PTK-870) \[$500, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
 * Wacom Intuos Pro Large (PTH-860) \[$500, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
 * XP-Pen Deco Pro XLW GEN2 (MT1592B) \[$200, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]&#x20;
 
