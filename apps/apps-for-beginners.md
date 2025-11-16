@@ -9,13 +9,13 @@ This is my curated list of apps that are simple and inexpensive (or free). These
 
 ## Options
 
-* [**Procreate**](../links/app-links/procreate/) (iOS) [<mark style="background-color:green;">**my notes on this app**</mark>](../links/app-links/procreate/procreate-notes.md) &#x20;
-* [**HiPaint**](../links/app-links/hipaint.md) (Android, iOS)
+* [**Procreate**](../app-links/procreate/) (iOS) [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/procreate/procreate-notes.md) &#x20;
+* [**HiPaint**](../app-links/hipaint.md) (Android, iOS)
   * Basically a clone of Procreate
-  * [**ArtRage** ](../links/app-links/artrage.md)(Windows, macOS, iOS, Android)
-* [**Infinite painter**](../links/app-links/infinite-painter.md) - (Android, iOS)
+  * [**ArtRage** ](../app-links/artrage.md)(Windows, macOS, iOS, Android)
+* [**Infinite painter**](../app-links/infinite-painter.md) - (Android, iOS)
   * Similar to procreate
-* [**Concepts**](../links/app-links/concepts-app.md) - (Windows, Android, iOS, ChromeOS)
+* [**Concepts**](../app-links/concepts-app.md) - (Windows, Android, iOS, ChromeOS)
 * **Photopea** - [https://www.photopea.com/](https://www.photopea.com/) (web)
   * Basically an online version of photoshop
 * **Sketchbook Pro** (MacOS, Windows, Android, iOS)

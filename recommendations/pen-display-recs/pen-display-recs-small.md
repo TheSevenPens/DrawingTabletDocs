@@ -12,25 +12,25 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top picks&#x20;
 
-* Huion Kamvas 13 GEN3 (GS1333) \[$260, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/huion/huion-kamvas/huion-gs1333.md)]
-* XP-Pen Artist 12 GEN3 (CD121FH) \[$220, [**my notes**](../../links/drawtab-links/xp-pen/xp-pen-artist-gen3/xppen-cd121fh.md))]
-* XP-Pen Artist Pro 14 GEN2 (MD140FH) \[$420, [**links**](../../links/drawtab-links/xp-pen/xp-pen-artist-pro-gen2/)]
-* XP-Pen Artist 12 GEN2 (CD120FH) \[$220, [**links**](../../links/drawtab-links/xp-pen/xp-pen-artist-gen2/)]
-* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../../links/drawtab-links/xp-pen/xp-pen-artist-gen2/)]
-* Wacom Movink 13 (DTH-135) \[$750, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/wacom/wacom-movink/wacom-dth-135.md)]
+* Huion Kamvas 13 GEN3 (GS1333) \[$260, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1333.md)]
+* XP-Pen Artist 12 GEN3 (CD121FH) \[$220, [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen3/xppen-cd121fh.md))]
+* XP-Pen Artist Pro 14 GEN2 (MD140FH) \[$420, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/)]
+* XP-Pen Artist 12 GEN2 (CD120FH) \[$220, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/)]
+* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/)]
+* Wacom Movink 13 (DTH-135) \[$750, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-movink/7p-wacom-dth-135.md)]
 
 ## Value with compromises
 
-* Huion Kamvas 13 (GS1331) \[$240, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/huion/huion-kamvas/huion-gs1331.md)]
-* Wacom One 14 (DTC-141) \[$300, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/wacom/wacom-one/wacom-dtc-141-notes.md)]
-* Wacom One 2019 GEN1 (DTC-133) \[$400, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/wacom/wacom-one/wacom-dtc-133-notes.md)]
+* Huion Kamvas 13 (GS1331) \[$240, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1331.md)]
+* Wacom One 14 (DTC-141) \[$300, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one/wacom-dtc-141-notes.md)]
+* Wacom One 2019 GEN1 (DTC-133) \[$400, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one/wacom-dtc-133-notes.md)]
   * &#x20;NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.
 
 ## Unsatisfactory drawing experience
 
-* Wacom One 12 GEN2 (DTC-121) \[$400, [**links**](../../links/drawtab-links/wacom/wacom-one-2023-gen2.md)]
+* Wacom One 12 GEN2 (DTC-121) \[$400, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md)]
   * <mark style="color:red;">**BAD PRESSURE HANDLING**</mark>
-* Wacom One 13 touch GEN2 (DTH-134) \[$600, [**links**](../../links/drawtab-links/wacom/wacom-one-2023-gen2.md)]
+* Wacom One 13 touch GEN2 (DTH-134) \[$600, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md)]
   * <mark style="color:red;">**BAD PRESSURE HANDLING**</mark>&#x20;
 
 ## Videos

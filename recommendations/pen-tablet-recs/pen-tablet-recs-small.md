@@ -12,18 +12,18 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Top Picks
 
-* Wacom Intuos Pro Small (PTK-470) \[$200, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
-* Wacom Intuos Pro Small (PTH-460)  \[$200, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
-* One by Wacom Small (CTL-472) \[$40, [<mark style="background-color:green;">**my notes**</mark>](../../links/drawtab-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)]
+* Wacom Intuos Pro Small (PTK-470) \[$200, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
+* Wacom Intuos Pro Small (PTH-460)  \[$200, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* One by Wacom Small (CTL-472) \[$40, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)]
   * FEATURE LIMITATION: NO TILT
-* Wacom Intuos Small (CTL-4100) \[$75, [**links**](../../links/drawtab-links/wacom/wacom-intuos.md)]&#x20;
+* Wacom Intuos Small (CTL-4100) \[$75, [**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)]&#x20;
   * FEATURE LIMITATION: NO TILT
-* Huion Frego S (L320) \[$70, [<mark style="background-color:green;">**my notes on the Medium-sized model**</mark>](../../links/drawtab-links/huion/huion-inspiroy/huion-l610.md) ]
+* Huion Frego S (L320) \[$70, [<mark style="background-color:green;">**my notes on the Medium-sized model**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ]
 * XP-Pen Deco
-  * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../links/drawtab-links/xp-pen/xp-pen-deco/)]
-  * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../links/drawtab-links/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
+  * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
 
 ## Poor performers
 
-* Wacom One S 2023 (CTC-4110WL) \[$100, [**links**](../../links/drawtab-links/wacom/wacom-one-2023-gen2.md) ]&#x20;
+* Wacom One S 2023 (CTC-4110WL) \[$100, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md) ]&#x20;
   * **SUB-STANDARD PRESSURE HANDLING**

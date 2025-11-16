@@ -63,7 +63,7 @@ Protective sheets on top of the tablet glass naturally protect the glass from da
 
 One benefit of protective sheets is if they do get damaged you can generally replace them.
 
-More here: [**protective sheets**](../../links/accessory-links/surface-protectors/)
+More here: [**protective sheets**](../../accessory-links/surface-protectors/)
 
 ## Examples of damage
 

@@ -14,9 +14,9 @@ Using a large tablet is very different from using a medium size tablet. There ar
 
 ## Large tablets in market as of May 2024
 
-* Intuos Pro Large (PTH-860) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)  &#x20;
-* XP-Pen Deco Pro XLW (MT1592B) - [<mark style="background-color:green;">**my notes of this tablet**</mark>](../../links/drawtab-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/xppen-mt1592b.md)  &#x20;
-* Huion Giano (G930L) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/huion/huion-inspiroy/huion-g930l.md)&#x20;
+* Intuos Pro Large (PTH-860) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)  &#x20;
+* XP-Pen Deco Pro XLW (MT1592B) - [<mark style="background-color:green;">**my notes of this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/xppen-mt1592b.md)  &#x20;
+* Huion Giano (G930L) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-g930l.md)&#x20;
 
 ## Ranking
 

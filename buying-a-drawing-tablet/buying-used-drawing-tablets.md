@@ -97,7 +97,7 @@ A used tablet's surface might be almost pristine or it might be heavily used and
 
 * Ideally you get one that is not heavily worn.
 * Small scratches or OK if they can not be felt through the pen.
-* Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../links/accessory-links/surface-protectors/)&#x20;
+* Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../accessory-links/surface-protectors/)&#x20;
 
 More here:&#x20;
 

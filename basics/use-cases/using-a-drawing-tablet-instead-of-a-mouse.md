@@ -112,7 +112,7 @@ Lots of them would work. The easy choices are:
 * Wacom Intuos Small (CTL-4100)
 * Wacom Intuos Medium (CTL-6100)
 
-If these, my strong recommendation is the CTL-672. [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../links/drawtab-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
+If these, my strong recommendation is the CTL-672. [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
 
 Other brands also have tablets that work as mouse replacements, but the safe choice is Wacom because of their track record of reliability.&#x20;
 
