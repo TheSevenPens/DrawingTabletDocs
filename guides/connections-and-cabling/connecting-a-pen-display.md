@@ -33,6 +33,10 @@ ALL THREE requirements MUST be met to fully use the pen display.
 
 This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](../pen-displays/display-connector-types.md) before you continue.
 
+### Connection diagrams
+
+Your tablet user manual will contain diagrams should you exactly how to connect your tablet to your computer. Look at those diagrams before you start trying to connect things. In fact, look at those diagrams before you buy a pen display.
+
 ## Troubleshooting
 
 ### "NO SIGNAL": When the pen display does not receive a video signal
