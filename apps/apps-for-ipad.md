@@ -6,12 +6,12 @@ This is a list of some prominent apps for iPads. If you want to see a larger lis
 
 ## Popular apps for iPad
 
-* [**Procreate**](../app-links/procreate/)
-* [**ArtRage**](../app-links/artrage.md)
-* [**Clip Studio Paint**](../app-links/clip-studio-paint/)&#x20;
-* [**Fresco**](../app-links/fresco.md)
-* [**Ibis Paint**](../app-links/ibis-paint.md)&#x20;
-* [**HiPaint**](../app-links/hipaint.md)&#x20;
-* [**Concepts**](../app-links/concepts-app.md)&#x20;
+* [**Procreate**](../links/app-links/procreate/)
+* [**ArtRage**](../links/app-links/artrage.md)
+* [**Clip Studio Paint**](../links/app-links/clip-studio-paint/)&#x20;
+* [**Fresco**](../links/app-links/fresco.md)
+* [**Ibis Paint**](../links/app-links/ibis-paint.md)&#x20;
+* [**HiPaint**](../links/app-links/hipaint.md)&#x20;
+* [**Concepts**](../links/app-links/concepts-app.md)&#x20;
 * **Sketchbook**&#x20;
 * **Medibang Pro**

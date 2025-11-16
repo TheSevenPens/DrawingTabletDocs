@@ -8,23 +8,23 @@ If you want to see a full list of applications go here: [**Applications**](./).&
 
 ## Recommendations
 
-* [**Clip Studio Paint**](../app-links/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/clip-studio-paint/clip-studio-paint-notes.md)&#x20;
+* [**Clip Studio Paint**](../links/app-links/clip-studio-paint/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../links/app-links/clip-studio-paint/clip-studio-paint-notes.md)&#x20;
   * (Windows, MacOS, Android, iOS)
-* [**Krita**](../app-links/krita/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/krita/krita-notes.md)   &#x20;
+* [**Krita**](../links/app-links/krita/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../links/app-links/krita/krita-notes.md)   &#x20;
   * (Windows, Linux, MacOS)
-* [**Affinity Photo**](../app-links/affinity/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/affinity/affinity-notes.md)  &#x20;
+* [**Affinity Photo**](../links/app-links/affinity/) -  [<mark style="background-color:green;">**my notes on this app**</mark>](../links/app-links/affinity/affinity-notes.md)  &#x20;
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)
-* [**Adobe Photoshop**](../app-links/adobe-photoshop/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/adobe-photoshop/adobe-photoshop-notes.md)&#x20;
+* [**Adobe Photoshop**](../links/app-links/adobe-photoshop/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../links/app-links/adobe-photoshop/adobe-photoshop-notes.md)&#x20;
   * (Windows, MacOS)
-* [**Procreate**](../app-links/procreate/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../app-links/procreate/procreate-notes.md) &#x20;
+* [**Procreate**](../links/app-links/procreate/) - [<mark style="background-color:green;">**my notes on this app**</mark>](../links/app-links/procreate/procreate-notes.md) &#x20;
   * (iOS)
 * **Rebelle** - no notes
   * (Windows, MacOS)
-* [**Infinite painter**](../app-links/infinite-painter.md) - no notes
+* [**Infinite painter**](../links/app-links/infinite-painter.md) - no notes
   * (Android, iOS)
-* [**Concepts**](../app-links/concepts-app.md) - no notes
+* [**Concepts**](../links/app-links/concepts-app.md) - no notes
   * (Windows, Android, iOS, ChromeOS)
 
 

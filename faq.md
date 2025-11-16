@@ -8,7 +8,7 @@ An overview of the brands and my take on some of them are here: [**drawing table
 
 #### FAQ: Is iPad better than a drawing tablet?
 
-&#x20;Read : [**using an iPad as a drawing tablet**](drawing-tablets-links/apple/apple-ipad-1.md)
+&#x20;Read : [**using an iPad as a drawing tablet**](links/drawtab-links/apple/apple-ipad-1.md)
 
 #### FAQ: Can I use a drawing tablet with my iPad or iPhone?
 
@@ -79,7 +79,7 @@ Answer: YES. All drawing tablets experience some kind of lag. Pen tablets experi
 
 #### FAQ: Can I extend the length of my cables?
 
-Yes. More here: [**Extending cables**](accessory-links/extension-cables.md)
+Yes. More here: [**Extending cables**](links/accessory-links/extension-cables.md)
 
 #### FAQ: What subreddits exist for drawing tablets?
 
@@ -87,7 +87,7 @@ There are quite a few. See this list: [**Subreddits for drawing tablets**](resou
 
 #### FAQ: Can I replace the surface of my pen tablet?
 
-See: [**Protective sheets**](accessory-links/surface-protectors/)
+See: [**Protective sheets**](links/accessory-links/surface-protectors/)
 
 #### FAQ: What should I do if I spilled water on my tablet or pen?
 
