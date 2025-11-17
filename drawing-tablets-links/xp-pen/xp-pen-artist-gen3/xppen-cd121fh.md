@@ -12,6 +12,10 @@ I am currently evaluating this tablet .
 
 Unboxing and testing video: [https://youtube.com/live/teEGX7G-gYs?feature=share](https://youtube.com/live/teEGX7G-gYs?feature=share)
 
+## Links
+
+* [Brad Colbow Review of Artist 12 3rd](https://www.youtube.com/watch?v=LlqGM0rjG3g) 2025/11/17
+
 ## Basics
 
 ### Product information
