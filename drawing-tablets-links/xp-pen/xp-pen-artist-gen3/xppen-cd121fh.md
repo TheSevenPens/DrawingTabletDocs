@@ -2,15 +2,11 @@
 
 ## Overview
 
-Good pen display at an excellent price.
+Good pen display at an excellent price. Will be good for beginners or for a first tablet.
 
-Will be good for beginners or for a first tablet.
+Very convenient that the tablet comes with all the cables you need to connect via HDMI and USB-C (assuming your computer supports USB-C)
 
-Very nice that the tablet comes with all the cables you need to connect via HDMI and USB-C (assuming your computer supports USB-C)
-
-I am currently evaluating this tablet .
-
-Unboxing and testing video: [https://youtube.com/live/teEGX7G-gYs?feature=share](https://youtube.com/live/teEGX7G-gYs?feature=share)
+Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share](https://youtube.com/live/teEGX7G-gYs?feature=share)
 
 ## Links
 
