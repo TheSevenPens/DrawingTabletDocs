@@ -9,9 +9,19 @@ For more information:
 * [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
 
-## Different Apple Pencils
-
+{% hint style="info" %}
 Keep in mind, there are several models of the apple pencil and not all have the same features. More info: [**Apple pencil links**](../../pen-links/apple-pencil.md)&#x20;
+{% endhint %}
+
+## Slippery drawing feeling
+
+iPads without the Nano texture provide a "slippery" feeling for a drawing Pencil. The can feel like the the tip is "moving away" from where you want it to be. This can create some erratic strokes.
+
+To solve this iPad users can: (1) but an iPad with the Nano texture (2) add a 3rd party film to add more texture.
+
+## Nib retraction
+
+The Apple Pencil has no nib - so there is no slight nib retraction as you press down initially like an EMR pen would have. So, this contributes to a slightly different physical sensation as your draw.
 
 ## Pen buttons
 
@@ -19,6 +29,11 @@ Keep in mind, there are several models of the apple pencil and not all have the 
 * The vast majority of EMR have two buttons.&#x20;
   * A few consumer grade EMR pens have only 1 button. Example: Samsung S pen.
   * A few professional EMR pens have 3 buttons.
+* Lots of EMR drawing tablet users have workflows that depend on those buttons and users may have customized what they do
+
+## Weight
+
+The Apple Pencil's is heavier than many EMR pens and the weight distribution is different. This can bother some people.
 
 ## Initial Activation Force
 
@@ -40,7 +55,7 @@ Keep in mind, there are several models of the apple pencil and not all have the 
 
 The number of pressure levels for a pen is a heavily marketing and discussed topic. However, in my opinion all modern drawing tablet pens and the Apple pencil have more than enough pressure levels for any use. I suggest that you do NOT make the number of pressure levels a factor in any decision making.&#x20;
 
-## Nibs / Tips
+## Replaceable Nibs / Tips
 
 * EMR pens use nibs. The typical cost is $1 per nib.
   * The nibs retract a little into the pen as you apply pressure.
@@ -79,3 +94,12 @@ Don't lose your pen! They aren't cheap to replace. The Apple Pencil is among the
 * XP Pen X3 Elite pen: $30
 * XP Pen X3 Pro pen: $40
 * Samsung S Pen for Galaxy Tab: $50&#x20;
+
+## Blobs at the beginning of strokes
+
+Some people notice that the Apple Pencil is prone to have blobs at the beginning of strokes:
+
+* See [Example 1](https://www.reddit.com/r/ClipStudio/comments/1ozbgqb/ipad_pro_m4_line_starts_with_a_blob_or_dot/)
+
+
+
