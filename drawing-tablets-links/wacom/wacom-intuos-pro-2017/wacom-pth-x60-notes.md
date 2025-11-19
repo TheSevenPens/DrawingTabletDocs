@@ -95,3 +95,27 @@ Using a large tablet feels quite a bit different from using a medium tablet. It'
 * [<mark style="background-color:green;">**My notes on the PTH-x60 series of tablets**</mark>](https://docs.thesevenpens.com/drawtab/product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60)  &#x20;
 * Model Year: 2017
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)&#x20;
+
+## Buying Intuos Pro 2017 in 2025
+
+&#x20;Is it worth buying the Intuos pro 2017 series in 2025?
+
+Basics
+
+This is an absolutely excellent tablet. It is in fact just as good as the intuos pro 2025 series. And many people still prefer the intuos pro 2017 series to the intuos pro 2025 series. These tablets come with the industry's best pen that has superior pressure performance.
+
+Challenges
+
+Wacom professional pen tablets have a support lifetime of something like 10 to 12 years. This means during that duration Wacom providing updated drivers. And if you need to contact Wacom support they will help you if you are having problems with the tablet.
+
+We don't know the exact date when Wacom will stop supporting the Intuos pro 2017 but based on previous data we believe this will be anywhere from 2027 to 2029. It could be longer because the truth is that the Intuos pro 2017 series is super popular. But ultimately I do think by 2030 the support lifetime will completely end and we will see no more driver updates.
+
+Using this tablet in the future
+
+At that point using we can consider the Intuos pro 2017 series to be an “older tablet”. [Using older drawing tablets](../../../guides/general/using-older-drawing-tablets.md)
+
+Using older tablets is totally fine but you have to be aware of the issues. See this document:
+
+&#x20;The hardware will basically last forever but eventually not having updated drivers may pose a problem. You can use older drivers for a while until some point in which they will not work. A new drivers will refuse to work with the older tablets. See: [Using older drivers](../../../guides/drivers/older-wacom-drivers.md)
+
+Your choice then is to use something like open tablet driver which is challenging to set up for artistic use but it does work extremely well.
