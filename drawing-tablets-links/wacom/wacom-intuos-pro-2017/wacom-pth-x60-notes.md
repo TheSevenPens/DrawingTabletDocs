@@ -98,23 +98,26 @@ Using a large tablet feels quite a bit different from using a medium tablet. It'
 
 ## Buying Intuos Pro 2017 in 2025
 
-&#x20;Is it worth buying the Intuos pro 2017 series in 2025?
+Q: Is it worth buying the Intuos pro 2017 (PTH-x60) series in 2025?
 
 Basics
 
-This is an absolutely excellent tablet. It is in fact just as good as the intuos pro 2025 series. And many people still prefer the intuos pro 2017 series to the intuos pro 2025 series. These tablets come with the industry's best pen that has superior pressure performance.
+The (PTH-x60)  series is an absolutely excellent. It is just as good as the Intuos Pro 2025 (PTK-x70) series. Many people still prefer the Intuos pro 2017 series to the Intuos pro 2025 series. These tablets come with the industry's best pen that has superior pressure performance.
 
 Challenges
 
-Wacom professional pen tablets have a support lifetime of something like 10 to 12 years. This means during that duration Wacom providing updated drivers. And if you need to contact Wacom support they will help you if you are having problems with the tablet.
+Wacom professional pen tablets have a support lifetime of something like 10 to 12 years. When the support lifetime ends two things will happen:
 
-We don't know the exact date when Wacom will stop supporting the Intuos pro 2017 but based on previous data we believe this will be anywhere from 2027 to 2029. It could be longer because the truth is that the Intuos pro 2017 series is super popular. But ultimately I do think by 2030 the support lifetime will completely end and we will see no more driver updates.
+* Wacom will stop providing updated drivers for that tablet. Never drivers will simply refuse to work with it.&#x20;
+* Wacom support will no longer help you with the tablet. They will suggest that you buy a newer one.
+
+Based on previous data I believe support will end will be between 2027 to 2029. It could be longer because the truth is that the Intuos pro 2017 series is super popular. But ,ultimately I by 2030 the support lifetime will completely end.
 
 Using this tablet in the future
 
-At that point using we can consider the Intuos pro 2017 series to be an “older tablet”. [Using older drawing tablets](../../../guides/general/using-older-drawing-tablets.md)
+After the end of the support lifetime, we can consider the Intuos pro 2017 series to be an “older tablet”. Using older tablets is totally fine but you have to be aware of the issues. See this document: [Using older drawing tablets](../../../guides/general/using-older-drawing-tablets.md)
 
-Using older tablets is totally fine but you have to be aware of the issues. See this document:
+
 
 &#x20;The hardware will basically last forever but eventually not having updated drivers may pose a problem. You can use older drivers for a while until some point in which they will not work. A new drivers will refuse to work with the older tablets. See: [Using older drivers](../../../guides/drivers/older-wacom-drivers.md)
 
