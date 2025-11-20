@@ -174,7 +174,7 @@
     * [Motherboard HDMI vs GPU HDMI ports](guides/connections-and-cabling/motherboard-hdmi-vs-gpu-hdmi-ports.md)
     * [Connecting a pen display](guides/connections-and-cabling/connecting-a-pen-display.md)
     * [Connecting a pen display with HDMI](guides/connections-and-cabling/connecting-a-pen-display-with-hdmi.md)
-    * [Connecting a pen display with USB-C](guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)
+    * [Connecting a pen display with USB-C](guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)
     * [Connecting a pen display to a mobile device](guides/connections-and-cabling/connecting-a-pen-display-to-a-mobile-device.md)
     * [Using 3rd-party cables with your drawing tablet](guides/connections-and-cabling/using-3rd-party-cables-with-your-drawing-tablet/README.md)
       * [Cables I use to connect pen tablets](guides/connections-and-cabling/using-3rd-party-cables-with-your-drawing-tablet/cables-i-use-to-connect-pen-tablets.md)

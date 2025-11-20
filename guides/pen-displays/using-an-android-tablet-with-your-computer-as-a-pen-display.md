@@ -42,4 +42,4 @@
 * [Teoh on Tech - Best External Display Apps for iPad, Android, Mac and Windows](https://www.youtube.com/watch?v=5Fm9c_gvO9E) May 14, 2022
   * Apps discussed: Duet, Luna Display, SuperDisplay, Samsung Second Screen, SideCar
 
-\
+<br>

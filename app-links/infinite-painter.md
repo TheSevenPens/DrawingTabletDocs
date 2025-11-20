@@ -14,8 +14,7 @@
 * [My Doodle Army - 50+ Infinite painter tips & tricks in less then 10 minutes](https://www.youtube.com/watch?v=dhex1R_FQ8o) 2023/01/06&#x20;
 *   [InspirationTuts 2D - Procreate VS Infinite Painter| Which One Is Better](https://www.youtube.com/watch?v=93CMcw45X0A) 2023/10/22&#x20;
 
-    \
-
+    <br>
 
 ## Infinite Painter vs...
 

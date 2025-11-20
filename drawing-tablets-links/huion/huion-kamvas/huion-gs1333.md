@@ -206,7 +206,7 @@ The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (G
   * The PW600L has a slightly better IAF (Huion states 2gf) and a wider pressure range. [<mark style="background-color:green;">**My notes on the PW600 series pens**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw600.md).
   * The PW517 has a standard IAF (Huion states 2gf) and it's pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [<mark style="background-color:green;">**My notes on the PW517 pens**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw517.md).
 * The GS1333 has much less anti-glare sparkle than the GS1333 and GS1331.
-* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [**Connecting a pen display with a single USB-C cable**](../../../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)).
+* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [**Connecting a pen display with a single USB-C cable**](../../../guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)).
 * The addition of the dials to the GS1333  makes it easier to work without having to touch the keyboard.&#x20;
 
 **Which one to get**

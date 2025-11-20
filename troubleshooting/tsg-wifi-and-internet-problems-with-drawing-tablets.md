@@ -1,4 +1,4 @@
-# Troubleshoot WiFi and Internet problems with drawing tablets
+# TSG: WiFi and Internet problems with drawing tablets
 
 Sometimes people report that plugging in their drawing tablet interferes with their WiFi connections or internet.
 
@@ -29,4 +29,4 @@ https://www.reddit.com/r/huion/comments/fm12b3/kamvas\_16\_pro\_macbook\_pro\_15
 https://www.reddit.com/r/huion/comments/u5rg79/kamvas\_pro\_13\_cutting\_off\_internet/\
 \
 https://www.reddit.com/r/huion/comments/icegs1/kamvas\_pro\_12\_internetwifi\_problems/\
-\
+<br>

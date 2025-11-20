@@ -4,4 +4,4 @@ The TabletMagic _Wacom Tablet Driver is a tablet driver for MacOS for very old s
 
 link: [https://www.thinkyhead.com/tabletmagic](https://www.thinkyhead.com/tabletmagic).&#x20;
 
-\
+<br>

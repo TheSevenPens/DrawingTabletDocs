@@ -26,8 +26,7 @@ Let's say you have a document window already open called \<title>
 
 ## Krita instructions
 
-Let's say you have a document window already open called \<title>\
-
+Let's say you have a document window already open called \<title><br>
 
 * Click **Window > New Window**&#x20;
 * This creates a second new Krita application window that will have no documents in it.&#x20;

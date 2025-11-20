@@ -48,8 +48,7 @@ This is when you want a general-purpose mobile device, but also want decent pen 
 
 
 
-\
-
+<br>
 
 
 

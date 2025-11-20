@@ -11,7 +11,7 @@ We can categorize all pen display connections by **which cable is used to transm
 99.9% of the time HDMI or USB-C cables are used for the video signal. Instructions for each case are below. I recommend you <mark style="color:red;">**WATCH BOTH VIDEOS LINKED BELOW**</mark>.&#x20;
 
 * HDMI: see [**Connecting a pen display with HDMI**](connecting-a-pen-display-with-hdmi.md)
-* USB-C: [**Connecting a pen display with USB-C**](connecting-a-pen-display-with-one-usb-c-cable.md)&#x20;
+* USB-C: [**Connecting a pen display with USB-C**](connecting-a-pen-display-with-usb-c.md)&#x20;
 
 ## Basics
 

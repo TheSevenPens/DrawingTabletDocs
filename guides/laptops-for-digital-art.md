@@ -63,7 +63,7 @@ Before you buy a laptop, please ensure that you are clear how you intend to conn
 
 I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [**USB-C DisplayPort alt mode**](pen-displays/usb-c-displayport-alt-mode.md)
 
-If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md).Power consumption
+If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connections-and-cabling/connecting-a-pen-display-with-usb-c.md).Power consumption
 
 Pen tablets don't draw much power at all from a laptop, so it won't diminish your battery time.
 

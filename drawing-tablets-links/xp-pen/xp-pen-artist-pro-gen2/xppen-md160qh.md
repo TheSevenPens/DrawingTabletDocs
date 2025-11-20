@@ -47,7 +47,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Single USB-C cable connection?**
 
-YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/connections-and-cabling/connecting-a-pen-display-with-one-usb-c-cable.md)
+YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)
 
 **Ports**
 
@@ -66,8 +66,7 @@ If you need to connect via HDMI you will need a 3-in-1 cable from XP-pen.
 
 Before you purchase verify if you are getting the 3-in-1 cable if you need it.
 
-I contacted XP-Pen support and they indidcated that this compatible 3-in-1 cable: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html\
-](https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html)
+I contacted XP-Pen support and they indidcated that this compatible 3-in-1 cable: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html<br>](https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html)
 
 
 
