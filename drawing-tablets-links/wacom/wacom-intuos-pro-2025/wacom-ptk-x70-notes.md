@@ -18,6 +18,7 @@ But do check this document for any updates since the original video was publishe
 
 ## Links
 
+* [Jaugy - Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) 2025/11/03
 * [Aaron Rutten - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Rf66Lqx9NFc) 2025/04/26
 * [Brad Colbow - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Ko0sovi0rX4) 2025/04/14
 
