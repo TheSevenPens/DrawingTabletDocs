@@ -4,7 +4,7 @@
 
 No matter where OpenTabletDriver is installed, when it is running, it will put its data into a user-specific application data folder on Windows.
 
-The location of the folder is here in Windows: `%localappdata%\OpenTabletDriver` &#x20;
+The location of the folder is here: `%localappdata%\OpenTabletDriver` &#x20;
 
 This expands to a path that should look like:
 

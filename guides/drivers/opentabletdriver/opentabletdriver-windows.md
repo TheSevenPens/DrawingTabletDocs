@@ -1,4 +1,4 @@
-# Install OpenTabletDriver on Windows
+# Installing OpenTabletDriver on Windows
 
 ## **Overview**
 
@@ -222,10 +222,16 @@ To allow rapid switching between monitors you have two options:
 * the **Monitor toggle** plug-in - I've never used this plug-in so I don't have any instructions for it.
 * Switching presets - a hotkey can be used to switch between presets
 
-## Uninstalling OTD
+## Other topics
+
+### OTD application data directory
+
+OTD keeps its data files in this location: [OpenTabletDriver application data directory ](opentabletdriver-application-data-directory.md)
+
+### Uninstalling OTD
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
 
-## Resources
+### Resources
 
 * r/huion - [OpenTablet Driver guide for Huion Kamvas 24 4k on windows 10 (but maybe other tablets too) in particular for painting](https://www.reddit.com/r/huion/comments/17q61pl/opentablet_driver_guide_for_huion_kamvas_24_4k_on/) 2023/11/07&#x20;
