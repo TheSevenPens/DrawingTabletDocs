@@ -1,4 +1,4 @@
-# Pressure curve OpenTabletDriver
+# Pressure curves in OpenTabletDriver
 
 ## Overview
 
@@ -12,33 +12,25 @@ Instructions for installing Slimy Scylla are here: [**Slimy Scylla**](opentablet
 
 In the **Filters** tab, enable **Slimy Scylla Pressure Curve** &#x20;
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 This is what the configuration looks like:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 
-To enable the filter, click **Enable Smily Scylla** and click **Apply**.
+To enable the filter, click **Enable Slimy Scylla** and click **Apply**.
 
-The settings here will let you configure the pressure curve. Unfortunately, there is no interactive view of the pressure curve inside the OTD UX. However, you can use the demos tool to play with the settings interactively and see the pressure curve [https://www.desmos.com/calculator/xo0y9dc9ye](https://www.desmos.com/calculator/xo0y9dc9ye)&#x20;
+The settings here will let you configure the pressure curve. Unfortunately, there is no interactive view of the pressure curve inside the OTD UX. However, you can use the demos tool to play with the settings interactively and see the pressure curve [https://www.desmos.com/calculator/97s6f0yhlb](https://www.desmos.com/calculator/97s6f0yhlb)&#x20;
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../../.gitbook/assets/image (621).png" alt=""><figcaption></figcaption></figure>
 
 Remember once you make changes to the settings, always click **Apply** in OTD
 
 ## Slimy Scylla documentation
 
-[https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs)
+[https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy_Scylla/tree/main/docs)
 
-[https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md](https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md)&#x20;
+[https://github.com/Kuuuube/Slimy\_Scylla/blob/main/docs/pressure\_curve/pressure\_curve.md](https://github.com/Kuuuube/Slimy_Scylla/blob/main/docs/pressure_curve/pressure_curve.md)&#x20;
 
 
 

@@ -65,7 +65,8 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 
 ## STEP 5: Download and extract OpenTabletDriver
 
-* Open a browser to this location [https://github.com/OpenTabletDriver/OpenTabletDriver/releases/](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/)
+* Open a browser to this location:
+  * [https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest)
 * Look for a file with a name like this OpenTabletDriver-0.6.6.2\_win-x64.zip, and download it.
 * Move the zip file into the  `C:\OpenTabletDriver`  folder
 * Right-click on the zip file, then select **Extract All**. This creates a folder with a name like OpenTabletDriver-0.6.6.2\_win-x64&#x20;
@@ -109,7 +110,7 @@ Pressure and will not work right now. We will cover that soon.&#x20;
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
 * ![](<../../../.gitbook/assets/image (108).png>)
 * At this point moving the pen will move the pointer on exactly 1 display.&#x20;
-* Also there will be no stroke distortion - drawing a circle on the tablet will produce a perfectly circular movement on the monitor.&#x20;
+* Also there will be no stroke distortion - for example a circle on tablet makes a circle on the monitor with no distortion/stretching
 * Press APPLY and then press SAVE.&#x20;
 
 ## STEP 11: Understanding SAVE and APPLY
@@ -188,7 +189,7 @@ Try some basic drawing and see if everything is working
 
 ### Pressure curve
 
-By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curve OpenTabletDriver](opentabletdriver-pressure.md)
+By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](opentabletdriver-pressure.md)
 
 ### Smoothing
 
@@ -219,8 +220,7 @@ More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&
 To allow rapid switching between monitors you have two options:
 
 * the **Monitor toggle** plug-in - I've never used this plug-in so I don't have any instructions for it.
-* Switching presets
-  * NOTE: The ability to use a hotkey to switch presents is expect to arrive by Oct 2025.
+* Switching presets - a hotkey can be used to switch between presets
 
 ## Uninstalling OTD
 
