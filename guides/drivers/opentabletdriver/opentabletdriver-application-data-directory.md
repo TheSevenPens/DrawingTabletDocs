@@ -1,6 +1,6 @@
 # OpenTabletDriver application data directory
 
-## Introduction
+OpenTabletDriver application data directory
 
 No matter where OpenTabletDriver is installed, when it is running, it will put its data into a user-specific application data folder on Windows.
 
@@ -19,3 +19,10 @@ This is what my folder looks like:
 It will open a window directly to that folder.
 
 ![](<../../../.gitbook/assets/image (131).png>)
+
+
+
+
+
+dd
+

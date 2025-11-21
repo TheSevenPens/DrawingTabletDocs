@@ -235,11 +235,32 @@ To allow rapid switching between monitors you have two options:
 
 ## Other topics
 
-### OTD application data directory
-
-OTD keeps its data files in this location: [OpenTabletDriver application data directory ](opentabletdriver-application-data-directory.md)
-
 ### Uninstalling OTD
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
 
+### OTD application data directory
+
+No matter where OpenTabletDriver is installed, when it is running, it will put its data into a user-specific application data folder on Windows.
+
+The location of the folder is here:&#x20;
+
+`%localappdata%\OpenTabletDriver` &#x20;
+
+This expands to a path that should look like:
+
+`C:\Users\username\AppData\Local\OpenTabletDriver`
+
+This is what my folder looks like:
+
+<figure><img src="../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+
+ProTip: Quickly get to the AppData folder by pressing WINDOWS+R and typing appdata. It will open a window directly to that folder.
+
+![](<../../../.gitbook/assets/image (131).png>)
+
+
+
+
+
+dd
