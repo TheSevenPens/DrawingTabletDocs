@@ -12,7 +12,7 @@ If you don't know much about OpenTabletDriver, read this introduction first: [**
 What follows are the detailed steps I personally use to install OTD on Windows. This document **does not** replace the official OTD documentation ([https://opentabletdriver.net/Wiki](https://opentabletdriver.net/Wiki)
 {% endhint %}
 
-### Some expertise required
+### Some expertise is required
 
 Using OTD for doing artwork is an advanced scenario. You should try only if you are confident in your technical skills or can get someone to help you.
 
@@ -73,13 +73,14 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 ## STEP 6: Launch the OpenTabletDriver app for the first time
 
 * In the `C:\OpenTabletDriver\OpenTabletDriver-n.n.n.n_win-x64` folder, `launch OpenTabletDriver.UX.Wpf.exe`. This launches the OTD application.
+* DO NOT launch the OTD app with "Run as Administrator". This will cause problems with OTD.
 * If you see a message that ".NET X Desktop Runtime X64 is not installed", then follow its instructions to install that runtime. Then launch `OpenTabletDriver.UX.Wpf.exe` again. This message does not always come up, so I recommend that you install the .NET Runtime before you use OTD.
 * The **OpenTabletDriver Guide** may automatically start&#x20;
   * Click the X in the upper right hand corner to close the guide.
   * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
 * When the OTD app is running, this icon will appear in your taskbar
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **STEP 7: Understanding the OTD app**
 
@@ -93,7 +94,7 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 * The tablet will be shown in the Window title at the top and at the bottom left of the application window
 * If needed, you can force detection click **Tablets** > **Detect tablet**
 
-## **STEP 9: Checkpoint 1**
+## **STEP 9: Checkpoint**
 
 At this point, moving the pen on the tablet should move the mouse pointer.
 
@@ -149,6 +150,8 @@ What to notice here: The tip settings, eraser settings, and the buttons have bee
 
 Click **SAVE** and **APPLY**.
 
+NOTE: You cannot assign the pen buttons to take MOUSE actions such as right-click and left-click, etc.
+
 ## STEP 14: Save the OTD configuration
 
 * Click **Save** at the bottom
@@ -161,11 +164,11 @@ Click **SAVE** and **APPLY**.
 * The specific instructions vary per app.&#x20;
 * Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
 
-## STEP 16: Checkpoint 2
+## STEP 16: Checkpoint
 
 At this point you should be able to effectively draw with OTD. Pressure and Tilt should work.
 
-I suggest you install Krita and configurw it to use Windows Ink&#x20;
+I suggest you install Krita and configure it to use Windows Ink&#x20;
 
 Try some basic drawing and see if everything is working
 
