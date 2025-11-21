@@ -187,7 +187,7 @@ Try some basic drawing and see if everything is working
 * This will open a new Explorer window pointing to a folder called **Startup**
 * Move the shortcut to the **Startup** folder in that explorer window
 
-### Pressure curve
+### Pressure curves
 
 By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](opentabletdriver-pressure.md)
 
@@ -198,15 +198,10 @@ By default OTD performs no smoothing on the pen data. This is desirable because&
 * it gives you a VERY responsive drawing experience
 * Gives you complete control about the smoothing
 
-### Application-level smoothing
+Two ways to introduce smoothing
 
-To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application.
-
-Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)&#x20;
-
-### Driver-level smoothing&#x20;
-
-More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
+* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)&#x20;
+* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
 
 ### Configure tablet buttons
 
