@@ -124,13 +124,22 @@ Pressure and will not work right now. We will cover that soon.&#x20;
 * Also there will be no stroke distortion - for example a circle on tablet makes a circle on the monitor with no distortion/stretching
 * Press APPLY and then press SAVE.&#x20;
 
-## STEP 11: Understanding SAVE and APPLY
 
-This is super-important. Forgetting to do this will cause you frustration.
 
-Whenever you configure OTD or any plug-in ALWAYS click SAVE and APPLY afterwards.
+## STEP 11: Understanding APPLY and SAVE&#x20;
 
-If you don't then the changes in configuration will not be made.&#x20;
+The instructions have already asked you to press APPLY and SAVE. Let's take a moment to understand these actions a bit better.
+
+SAVE
+
+* SAVE will save current settings, even if you haven't clicked apply and loads them the next time you open OTD.&#x20;
+* You can test this out by clicking SAVE without clicking APPLY applying and starting the OTD app again. It will load the settings that were saved.
+
+APPLY
+
+* APPLY will load the current settings you have set in the user interface. Until you click APPLY no changes you have made in the UI will be in effect.
+
+To keep things simple for you for now, I suggest you always click APPLY then SAVE whenever you make a change in the OTD app.
 
 ## STEP 12: Install the Windows Ink plugin
 
@@ -144,7 +153,7 @@ If you don't then the changes in configuration will not be made.&#x20;
 * In the OTD app, on the bottom, change the **mode** dropdown:
   * from **Absolute Mode**&#x20;
   * to **Windows Ink Absolute Mode**
-  * click **SAVE** then **click APPLY**
+  * click **APPLY** then click **SAVE**&#x20;
 
 {% hint style="info" %}
 NOTE: You will only see **Windows Ink Absolute Mode** listed if you previously enabled the Windows Ink plugin.
@@ -164,19 +173,14 @@ Click **SAVE** and **APPLY**.
 
 NOTE: You cannot assign the pen buttons to take MOUSE actions such as right-click and left-click, etc.
 
-## STEP 14: Save the OTD configuration
-
-* Click **Save** at the bottom
-* Click **Apply** at the bottom
 
 
-
-## STEP 15: Configure your drawing application to use Windows Ink
+## STEP 14: Configure your drawing application to use Windows Ink
 
 * The specific instructions vary per app.&#x20;
 * Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
 
-## STEP 16: Checkpoint
+## STEP 15: Checkpoint
 
 At this point you should be able to effectively draw with OTD. Pressure and Tilt should work.
 
@@ -184,7 +188,7 @@ I suggest you install Krita and configure it to use Windows Ink&#x20;
 
 Try some basic drawing and see if everything is working
 
-## STEP 17: Optional configurations
+## STEP 16: Optional customization
 
 ### Automatically start OpenTabletDriver when Windows starts \[OPTIONAL]
 
@@ -218,8 +222,9 @@ Two ways to introduce smoothing
 
 * Open the **Auxiliary Settings** tab
 * each button shows up as an **Auxiliary Binding**.
-* ![](<../../../.gitbook/assets/image (401).png>)
 * In the screenshot above, one of the buttons has been set to match the "e" key.
+
+<figure><img src="../../../.gitbook/assets/image (622).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Display toggle
 
@@ -238,6 +243,3 @@ OTD keeps its data files in this location: [OpenTabletDriver application data di
 
 See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
 
-### Resources
-
-* r/huion - [OpenTablet Driver guide for Huion Kamvas 24 4k on windows 10 (but maybe other tablets too) in particular for painting](https://www.reddit.com/r/huion/comments/17q61pl/opentablet_driver_guide_for_huion_kamvas_24_4k_on/) 2023/11/07&#x20;
