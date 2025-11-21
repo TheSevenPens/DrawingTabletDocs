@@ -32,7 +32,7 @@ To learn how to install and configure OTD on MacOS, go here: [**Using OpenTablet
 ## Key points
 
 * OTD is open source. You can see the code on their GitHub repo: [https://github.com/OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)&#x20;
-* OTD supports 200+ tablets across many brands and many release years
+* OTD supports 300+ tablets across many brands and many release years
 * OTD is actively maintained
 * OTD supports plug-ins that can modify its behavior
 * OTD runs on Windows, Linux, and MacOS.&#x20;
