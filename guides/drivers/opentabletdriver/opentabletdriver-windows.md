@@ -32,7 +32,7 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 
 * The instructions cover this specific version of OTD: v0.6.6.2
 
-## Supported Windows versions
+### Supported Windows versions
 
 * These instructions are for Windows x64 systems only.&#x20;
 * OTD does not support 32-bit versions of Windows.
