@@ -5,7 +5,13 @@
 This document is for CREATIVES interested in using OpenTabletDriver on Windows and need features such as pressure sensitivity and tilt.
 
 {% hint style="info" %}
-If you don't know much about OpenTabletDriver, read this introduction first: [**OpenTabletDriver**](./). You should also familiarize yourself with these [**usage notes for OpenTabletDriver**](opentabletdriver-usage-notes.md).
+If you don't know much about OpenTabletDriver, read this introduction first: [**OpenTabletDriver**](./).&#x20;
+
+You should also familiarize yourself with these [**usage notes for OpenTabletDriver**](opentabletdriver-usage-notes.md).
+
+For information on how to install on Windows: [Installing OpenTabletDriver on Windows](opentabletdriver-windows.md)&#x20;
+
+For information on how to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -25,8 +31,11 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 ### Important notes
 
 * The instructions cover this specific version of OTD: v0.6.6.2
-* These instructions are for x64 operating systems only. OTD does not support 32-bit versions of Windows.
-* I tested these instructions on WindoAll the examples in this doc use  `C:\OpenTabletDriver` &#x20;
+* Operating system architecture
+  * These instructions are for Windows x64 systems only.&#x20;
+  * OTD does not support 32-bit versions of Windows.
+  * OTD does NOT support ARM on Windows
+* I tested these instructions on Windows 11 (Version 10.0.26200 Build 26200) on 2025/11/20
 
 ## STEP 1: Uninstall existing tablet drivers
 
