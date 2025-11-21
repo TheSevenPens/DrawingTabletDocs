@@ -28,13 +28,15 @@ Using OTD for doing artwork is an advanced scenario. You should try only if you 
 * Consult the complete list here: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 * In that list, your tablet may be marked as needing "Zadig WinUSB". There are special requirements for this case. My instructions here DO NOT include those instructions.
 
-### Important notes
+### OTD version
 
 * The instructions cover this specific version of OTD: v0.6.6.2
-* Operating system architecture
-  * These instructions are for Windows x64 systems only.&#x20;
-  * OTD does not support 32-bit versions of Windows.
-  * OTD does NOT support ARM on Windows
+
+## Supported Windows versions
+
+* These instructions are for Windows x64 systems only.&#x20;
+* OTD does not support 32-bit versions of Windows.
+* OTD does NOT support ARM on Windows
 * I tested these instructions on Windows 11 (Version 10.0.26200 Build 26200) on 2025/11/20
 
 ## STEP 1: Uninstall existing tablet drivers
