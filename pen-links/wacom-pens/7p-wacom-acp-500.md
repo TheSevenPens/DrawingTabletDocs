@@ -144,11 +144,15 @@ Currently (July 2025) all Waco tablets that support the Pro Pen 3 also support t
 
 Some people have reported the pen buttons coming off od the button strip. This seems to be an issue with the early batches of PP3 models.&#x20;
 
+Examples
+
+* [https://www.reddit.com/r/wacom/comments/1p3p2ba/round\_2](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2)
+
 Some people have reported that a little bit of the tip of the pen can break off - presumably because it is more narrow than the Pro Pen 2
 
 
 
-<figure><img src="../../.gitbook/assets/PP3 pen button fell out (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PP3 pen button fell out (1).jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
 
 ## Compatibility with older Wacom tablets
 
