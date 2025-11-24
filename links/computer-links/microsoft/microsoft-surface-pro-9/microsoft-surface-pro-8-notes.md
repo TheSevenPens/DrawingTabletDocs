@@ -4,9 +4,9 @@
 
 If you are looking for running Windows desktop apps on a standalone tablet for notetaking rather than art, then the **Surface Pro 8** (and above) is a good choice when combined with Surface Pro Signature Keyboard and Slim Pen 2.&#x20;
 
-<figure><img src="../../../.gitbook/assets/20250720_100423 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20250720_100423 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250720_101303 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20250720_101303 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Basics
 
@@ -40,7 +40,7 @@ You have to buy that separately
 
 ## Compatible pens
 
-Surface Slim Pen 2 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
+Surface Slim Pen 2 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../../pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
 
 ## Drawing experience&#x20;
 

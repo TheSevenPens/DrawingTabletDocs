@@ -24,8 +24,8 @@ Recent models:
 
 * Samsung Galaxy Book5 360
 * Samsung Galaxy Book5 Pro 360
-* [Samsung Galaxy Book4 360](../../drawing-tablets-links/samsung/samsung-galaxy-book-360.md)&#x20;
-* [Samsung Galaxy Book4 Pro 360](../../drawing-tablets-links/samsung/samsung-galaxy-book-360.md)&#x20;
+* [Samsung Galaxy Book4 360](../../links/computer-links/samsung/samsung-galaxy-book-360.md)&#x20;
+* [Samsung Galaxy Book4 Pro 360](../../links/computer-links/samsung/samsung-galaxy-book-360.md)&#x20;
 
 ## Microsoft Surface Pro
 
@@ -36,8 +36,8 @@ Pen information
 * Tech: MPP (similar to AES)
 * Comes with pen: NO. You have to buy The Surface Slim Pen 2 separately.
 
-[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
+[<mark style="background-color:green;">**My notes on using the Microsoft Surface Pro**</mark>](../../links/computer-links/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
 
-* [**Surface Pro 8**](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
-* [**Surface Pro 9**](../../drawing-tablets-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
+* [**Surface Pro 8**](../../links/computer-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
+* [**Surface Pro 9**](../../links/computer-links/microsoft/microsoft-surface-pro-9/) (starting at $900)
 
