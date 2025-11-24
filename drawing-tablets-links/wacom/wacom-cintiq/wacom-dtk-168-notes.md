@@ -6,12 +6,22 @@ Wacom released three new Cintiq 2025 models in mid 2025. One of them is the Waco
 
 This is a EXCELLENT tablet with an excellent drawing experience and very good display. It does miss some "Cintiq Pro" features but has the same great drawing experience as it relates to pressure, tilt, etc.
 
+## Compared to the Cintiq 16 2019 (DTK-1660)
+
+Summary: The Cintiq 16 2025 is a significant upgrade in many ways
+
+* Native resolution: Cintiq 16 2025 has 2560x1600 compared the 1920x1080 of the older model
+* Aspect ratio: Cintiq 16 2025 screen is 16x10, the Cintiq 16 2019 has a 16x9 aspect ratio. Many people feel that the 16x10 aspect ratio make the Cintiq 16 2025 feel a little larger than it actually is.
+* Included pen: Cintiq 16 2025 comes with the Wacom Pro Pen 3 (ACP-500). The Cintiq 16 2019 comes with the Wacom Pro Pen 2. Opinions are divided on which pen is better. Note that the Pro Pen 2 works with the Cintiq 16 2025
+* Colors: Cintiq 16 2025 has much brighter and more vivid colors. The Cinti16 2019 is know for a more washed out look.
+* Parallax: Cintiq 16 2025 has low parallax which is better. Cintiq 16 2019 known to have more noticable parallax.
+* Cabling: Cintiq 16 2025 has a simpler and more flexible cabling.&#x20;
+
 
 
 ## Basics
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-cintiq](https://www.wacom.com/en-us/products/wacom-cintiq)
-*
 
 ## Specs
 
