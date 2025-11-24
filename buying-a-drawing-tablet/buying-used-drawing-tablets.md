@@ -2,7 +2,7 @@
 
 ## Overview
 
-We would all like to have completely brand new equipment. However used tablets maybe a way to save a little extra money.\`
+We would all like to have completely brand new equipment. However, used tablets maybe a way to save a little extra money.\`
 
 ## My experience with used drawing tablets
 
@@ -36,7 +36,7 @@ Likewise even though this video is about professional tablets, the topics raised
 
 ## Be clear what you are getting in the box
 
-Find the information about the manufacturer included normally in the box for the tablet. You can find this from the manufacturer website, contact customer support, or even watch a review or unboxing video of the tablet on youtube.
+Find the information about the manufacturer included normally in the box for the tablet. You can find this from the manufacturer website, contact customer support, or even watch a review or unboxing video of the tablet on YouTube.
 
 Then, compare what the manufacturer delivers with what the seller has available. The most import things to verify you are getting are the pen and any cables you need.
 
@@ -74,6 +74,10 @@ You can find many tablets on eBay and I've had a good experience with the 25+ ta
   * I made sure the surface didn't have any visible signs of wear
   * That the tablet came with a pen
   * That the tablet came with the cables it needed - this is very important if the tablet used proprietary cables
+* Listings on sites like eBay let the seller provide a photo. Sometimes the initial photo is the official product photo provided pulled from the manufacturer website.
+  * Remember - the seller may have used the image for the wrong tablet
+  * Some people advise to be extremely wearing when you see official product photo in the listing that is a sign that this photo does not match the actual product being sold.
+  * Always verify with photos of the actual tablet.
 
 ## Verifying the model you are buying
 
