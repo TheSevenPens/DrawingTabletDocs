@@ -1,5 +1,11 @@
 # Wacom Cintiq 16 2019 (DTK-1660)
 
+## Summary
+
+This is a little bit of a dated tablet. I do suggest you consider getting the Cintiq 16 2025 (DTK-168\_instead - [<mark style="background-color:green;">**My notes on DTK-168**</mark>](../../../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-168-notes.md)<mark style="background-color:green;">**.**</mark> My notes on that tablet have comparison between the two tablets.
+
+## Basics
+
 * Model Year: 2018
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)&#x20;
 * User manual: [https://cdn.wacom.com/u/support/wiki\_migration/c/cd/dtk-1660\_en.pdf](https://cdn.wacom.com/u/support/wiki_migration/c/cd/dtk-1660_en.pdf)
