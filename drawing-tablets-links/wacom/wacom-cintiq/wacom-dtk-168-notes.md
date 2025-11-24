@@ -15,7 +15,7 @@ Summary: The Cintiq 16 2025 is a significant upgrade in many ways
 * Included pen: Cintiq 16 2025 comes with the Wacom Pro Pen 3 (ACP-500). The Cintiq 16 2019 comes with the Wacom Pro Pen 2. Opinions are divided on which pen is better. Note that the Pro Pen 2 works with the Cintiq 16 2025
 * Colors: Cintiq 16 2025 has much brighter and more vivid colors. The Cinti16 2019 is know for a more washed out look.
 * Parallax: Cintiq 16 2025 has low parallax which is better. Cintiq 16 2019 known to have more noticable parallax.
-* Cabling: Cintiq 16 2025 has a simpler and more flexible cabling.&#x20;
+* Cabling: Cintiq 16 2025 has a simpler and more flexible cabling that can use standard cables. The Cintiq 16 2019 must be connected with a proprietary Wacom 3-in-1 cable.
 
 
 
