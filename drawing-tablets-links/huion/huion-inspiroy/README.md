@@ -1,49 +1,16 @@
 # Huion Inspiroy
 
-## Huion Inspiroy 2 L (H1061P)
+| Name             | Model   | Year      | Notes                                                                                                                                                                                                                                                                                  |
+| ---------------- | ------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Inspiroy Frego M | L610    | Aug 2024  | [<mark style="background-color:green;">**My notes on the Huion Inspiroy Frego M (L610)**</mark>](huion-l610.md)                                                                                                                                                                        |
+| Inspiroy Dial 2  | Q630M   | Jan 2023  | [<mark style="background-color:green;">**My notes on this tab**</mark>](7p-huion-q630m.md)                                                                                                                                                                                             |
+| Inspiroy 2 L     | H1061P  | Jan 2023  | [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-h1061p.md)                                                                                                                                                                                            |
+| Inspiroy Giano   | G930L   | May 2022  | [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-g930l.md)                                                                                                                                                                                             |
+| Inspiroy RTS-300 | RTS-300 | June 2021 |                                                                                                                                                                                                                                                                                        |
+| Inspiroy RTM-500 | RTM-500 | June 2021 |                                                                                                                                                                                                                                                                                        |
+| Inspiroy RTP-700 | RTP-700 | June 2021 | [<mark style="background-color:green;">**My notes on**</mark> ](7p-huion-rtp-700.md)                                                                                                                                                                                                   |
+| Inspiroy H610X   | H610X   | Apr 2021  | [The Geek Artist - Huion Inspiroy H610X Review & Unboxing](https://www.youtube.com/watch?v=YMKiCDSCQu8) 2021/08/01                                                                                                                                                                     |
+| Inspiroy H610    | H610    | Jan 2021  | [Brad Colbow - Huion HS610 Drawing Tablet Review](https://www.youtube.com/watch?v=sKZ946GCwGU) 2019/05/06                                                                                                                                                                              |
+| Inspiroy HS611   | HS611   | Jan 2020  | [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-hs611.md)                                                                                                                                                                                             |
+| Inspiroy Dial    | Q620M   | Oct 2019  | <p></p><ul><li><a href="https://www.youtube.com/watch?v=H9QlNORStn8">Teoh Yi Chie review of Huion Inspiroy Dial Q620M</a> 2019/11/29</li><li><a href="https://www.youtube.com/watch?v=2kKFIaJ_XHQ">Create Now Sleep Later review of Huion Inspiroy Dial Q620M</a> 2019/11/15</li></ul> |
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-h1061p.md)
-
-## Huion Inspiroy RTS-300
-
-* Model year: 2022
-
-## Huion Inspiroy RTM-500
-
-* Model Year: 2022
-
-## Huion Inspiroy RTP-700
-
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huion-rtp-700.md)
-* Model year: 2022
-
-## Huion Inspiroy Dial (Q620M)
-
-* [Teoh Yi Chie review of Huion Inspiroy Dial Q620M](https://www.youtube.com/watch?v=H9QlNORStn8) 2019/11/29
-* [Create Now Sleep Later review of Huion Inspiroy Dial Q620M](https://www.youtube.com/watch?v=2kKFIaJ_XHQ) 2019/11/15
-
-## Huion Inspiroy Dial 2 (Q630M)
-
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](7p-huion-q630m.md)
-
-## Huion Inspiroy Frego M (L610)
-
-* [<mark style="background-color:green;">**My notes on the Huion Inspiroy Frego M (L610)**</mark>](huion-l610.md)&#x20;
-
-## Huion Inspiroy Giano (G930L)
-
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-g930l.md)  &#x20;
-* Model year: 2022
-
-## Huion Inspiroy HS611
-
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-hs611.md)&#x20;
-* Model year: 2019
-
-## Huion Inspiroy H610
-
-* [Brad Colbow - Huion HS610 Drawing Tablet Review](https://www.youtube.com/watch?v=sKZ946GCwGU) 2019/05/06&#x20;
-
-## Huion Inspiroy H610X
-
-* [The Geek Artist - Huion Inspiroy H610X Review & Unboxing](https://www.youtube.com/watch?v=YMKiCDSCQu8) 2021/08/01
