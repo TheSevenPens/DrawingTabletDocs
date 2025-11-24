@@ -84,7 +84,22 @@ Although I am very satisfied with this many PC I am looking forward to future mi
 * have more RAM and SSD storage
 * have two USB4 ports
 
+## &#x20;Photos
 
 
-&#x20;
 
+<figure><img src="../../../.gitbook/assets/20250309_162044 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/20250309_162915 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/20250309_162952 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/20250309_163004 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20250309_163029 (Large).jpg" alt=""><figcaption></figcaption></figure>
