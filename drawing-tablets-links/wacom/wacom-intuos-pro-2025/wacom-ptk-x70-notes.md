@@ -416,6 +416,19 @@ Wacom sells texture sheets in case you scratch up the drawing surface and want t
 
 <figure><img src="../../../.gitbook/assets/Slide_20250501_055149.png" alt=""><figcaption></figcaption></figure>
 
+## Underneath the texture sheet
+
+There is a grid pattern underneath the texture sheet.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/PTK-870 underneath texture sheet (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+We think this pattern has these benefits:
+
+* makes removing the texture sheet easier
+* helps avoid air bubbles when placing a texture sheet on the tablet
+
+This pattern CAN NOT be felt through the texture sheet.
+
 ## Driver UI > Wacom Center vs Wacom Tablet Properties
 
 &#x20;There are two driver configuration UIs available for Wacom tablets: Wacom Center and Wacom Tablet properties. For the Intuos Pro 2025, most features are available in both apps, but some are available only in Wacom Center.
