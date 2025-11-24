@@ -511,6 +511,7 @@
         * [Wacom Cintiq 22 (DTK-2260) notes](drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260-notes.md)
         * [Wacom Cintiq 24 touch (DTH-246) notes](drawing-tablets-links/wacom/wacom-cintiq/wacom-dth-246-notes.md)
         * [Wacom Cintiq 16 2025 (DTK-168) notes](drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-168-notes.md)
+        * [Wacom Cintiq 16 2019 (DTK-1660)](links/drawtab-links/wacom/wacom-cintiq/wacom-cintiq-16-2019-dtk-1660.md)
       * [Wacom Cintiq Pro](drawing-tablets-links/wacom/wacom-cintiq-pro/README.md)
         * [Wacom Cintiq Pro 16 (DTH-167) notes](drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-167-notes.md)
         * [Cintiq Pro 24 (DTx-2420)  notes](drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dtx-2420-notes.md)
