@@ -8,6 +8,10 @@ If you want to buy a drawing tablet as a gift, it can be challenging if you your
 
 The first thing you need to understand is the type of drawing tablet you want to give as a gift. This is very important because it determines how they will use the tablet and the cost. So, read this document first before you continue: [**Types of drawing tablets**](../basics/types-of-drawing-tablets/).
 
+## Understand the basics
+
+[Beginner's guide to drawing tablets](../basics/beginners-guide.md)
+
 ## Does the giftee already have some experience with a drawing tablet?
 
 This is important because:
@@ -27,11 +31,15 @@ See this list of [**recommendations**](../recommendations/)&#x20;
 
 They are separated by type and size of tablet, and options are available at multiple budget options.
 
-## If relevant, make sure the tablet will physically connect with their computer
+## When ready look through the full buying guide
 
-For a pen tablet and pen display , they have to connect to a computer. For a pen tablet, this is easy because the computer needs just one USB port to be available. But for a pen display this can get complicated.&#x20;
+The full buying guide: [Buying a drawing tablet](./)
 
-See this: [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)
+These tips will be useful: Video: [Practical tips for buying a drawing tablet ](https://youtu.be/57-W_dmtLJU)
+
+## Make sure the tablet will physically connect with their computer
+
+For a pen tablet and pen display, they have to connect to a computer. For a pen tablet, this is easy because the computer needs just one USB port to be available. But for a pen display this can get complicated. See this: [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)
 
 ## Do they need to use certain apps?
 
@@ -46,8 +54,3 @@ Examples:
 
 Go here for the invite link: [**Drawing Tablet discord server**](../about-thesevenpens/drawing-tablet-discord-server.md)&#x20;
 
-## More resources
-
-* [Beginner's guide to drawing tablets](../basics/beginners-guide.md)
-* The full buying guide: [Buying a drawing tablet](./)
-* Video: [Practical tips for buying a drawing tablet ](https://youtu.be/57-W_dmtLJU)
