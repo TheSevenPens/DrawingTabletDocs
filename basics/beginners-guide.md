@@ -8,16 +8,16 @@ If you are new to drawing tablets, after reading this guide you'll understand ho
 **Buying a tablet?** Read this beginner's guide first. Then look at the detailed [**buying guide**](../buying-a-drawing-tablet/). It has links to my [**recommendations**](../recommendations/)**.** If are a beginner, and want to get a very quick recommendation, go here: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/). Once you have a tablet, look here: [**Getting started with a drawing tablet**](getting-started-with-a-drawing-tablet.md).
 {% endhint %}
 
-## Device options for drawing tablets &#x20;
-
-There are different kinds of drawing tablets. The two key ways to categorize them are:
-
-* **Do they work standalone or not?** Standalone means you can use them without being attached (wirelessly or with a wire) to a computer.
-* **Do they have an embedded display (screen) or not?** All standalone tablets have a screen.
-
-These two things affect how the device is used, their cost, and how well they work for certain scenarios.
+## Types of drawing tablets &#x20;
 
 Before you continue, be sure to read this thoroughly: [**Types of drawing tablets**](types-of-drawing-tablets/). Once you understand the different types of tablets then continue.
+
+The key ways to categorize a drawing tablet:
+
+* Does it have a screen?
+* Is it standalone?
+
+These two things affect how the device is used, tje cost, and how well a tablet works for certain scenarios and for different users.&#x20;
 
 ## Basics
 
