@@ -8,6 +8,11 @@ I've had a very good experience with this mini-PC. It's been reliable and quiet.
 
 As of November 2025 it serves as my primary art computer.
 
+## Links
+
+* [RobTech - Review of Minisforum UM870 Slim](https://www.youtube.com/watch?v=xKD2mU6shdo) Dec 8, 2024
+* [ETA Prime - Review of Minisforum UM870 Slim](https://www.youtube.com/watch?v=aBRo-44rDu8) Nov 27, 2024
+
 ## Price
 
 The 32GB 1 TB model is often discounted to around $500.

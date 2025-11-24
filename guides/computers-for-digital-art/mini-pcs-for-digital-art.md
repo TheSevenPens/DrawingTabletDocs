@@ -12,6 +12,10 @@ These Mini-PCs typically use laptop component to deliver a compact and low-power
 
 The prices below are from Sept 2024 and only include the cost for a Mini-PC
 
+## Links
+
+* [RobTech - Top 5 BEST Mini PCs 2025 ($305 to $1050)](https://www.youtube.com/watch?v=fNmqfQFBFrg) Jul 10, 2025
+
 ### Tiny budget
 
 * Beelink S12 Pro ($160)
@@ -30,5 +34,5 @@ The prices below are from Sept 2024 and only include the cost for a Mini-PC
 
 * The MinisForum Neptune HX99G $1500
   * sometimes on sale for $1000
-  * [<mark style="background-color:green;">**My notes on the Minisforum Neptune HX99G**</mark>](../../links/computer-links/minisforum/minisforum-neptune-hx99g-notes.md)&#x20;
+  * [<mark style="background-color:green;">My notes on the Minisforum Neptune HX99G</mark>](../../links/computer-links/minisforum/minisforum-neptune-hx99g-notes.md)&#x20;
   * [Tech tablets - review of Minisforum HX99G](https://www.youtube.com/watch?v=c3iF9GQoEbQ) - 2023/03/03
