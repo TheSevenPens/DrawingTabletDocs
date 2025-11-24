@@ -14,6 +14,7 @@ The prices below are from Sept 2024 and only include the cost for a Mini-PC
 
 ## Links
 
+* [RobTech - Top 5 Best Mini PCs Under $500 Right Now! ($132 - $470)](https://www.youtube.com/watch?v=LSnCIl3Q8t8) Nov 24, 2025
 * [RobTech - Top 5 BEST Mini PCs 2025 ($305 to $1050)](https://www.youtube.com/watch?v=fNmqfQFBFrg) Jul 10, 2025
 
 ### Tiny budget
