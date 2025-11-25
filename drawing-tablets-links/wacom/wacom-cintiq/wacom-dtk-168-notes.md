@@ -17,7 +17,7 @@ Summary: The Cintiq 16 2025 is a significant upgrade in many ways
 * Parallax: Cintiq 16 2025 has low parallax which is better. Cintiq 16 2019 known to have more noticable parallax.
 * Cabling: Cintiq 16 2025 has a simpler and more flexible cabling that can use standard cables. The Cintiq 16 2019 must be connected with a proprietary Wacom 3-in-1 cable.
 
-
+[My notes on the Cintiq 16 2019 (DTK-1660)](../../../links/drawtab-links/wacom/wacom-cintiq/wacom-cintiq-16-2019-dtk-1660.md)
 
 ## Basics
 
