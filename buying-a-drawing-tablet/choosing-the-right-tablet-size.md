@@ -55,12 +55,12 @@ Here's what you should consider in your choice
 
 * **Small (7")** pen tablets are good for scenarios where the focus is less on creating strokes. For example, if you need to simply use a tablet as a replacement for a mouse, then a small tablet will work fine. One creative task that works great with small tablets in photo editing - since it doesn't typically require "drawing". Most people who are drawing would find using a small tablet, to feel very "cramped".
 * **Medium (11")** pen tablets are the best combination of size, cost, and ergonomics for most people interested in drawing tablets and is my standard recommendation. Medium tablets are the minimum size I would recommend for anyone who is interested in drawing, sketching, painting, or any creative task that requires drawing with strokes.
-* **Large (15")** pen tablets are these days the largest size available. They are popular for some artists. They are large enough though that you will have to adapt to using them. More here: [**Using large pen tablets**](../guides/customizing/using-large-pen-tablets.md).
-* **Extra large (23")** pen tablets are no longer produced but for some users they are ideal but require quite a bit of adjustment to use. More here: [**Using Extra-large pen tablets**](../guides/customizing/using-extra-large-pen-tablets.md).
+* **Large (15")** pen tablets are these days the largest size available. They are popular for some artists. They are large enough though that you will have to adapt to using them. More here: [**Using large pen tablets**](../guides/general/using-large-pen-tablets.md).
+* **Extra large (23")** pen tablets are no longer produced but for some users they are ideal but require quite a bit of adjustment to use. More here: [**Using Extra-large pen tablets**](../guides/general/using-extra-large-pen-tablets.md).
 
 ## Pen tablet size vs monitor size
 
-If you have a pen tablet (which does not have a screen), then you use it with a monitor. You should consider the relationship between these two sizes. I find that that relationship influences how it feels to draw on the pen tablet. A much more detailed explanation is here: [**Matching pen tablet size to monitor size**](../guides/customizing/matching-pen-tablet-size-to-monitor-size.md).
+If you have a pen tablet (which does not have a screen), then you use it with a monitor. You should consider the relationship between these two sizes. I find that that relationship influences how it feels to draw on the pen tablet. A much more detailed explanation is here: [**Matching pen tablet size to monitor size**](../guides/general/matching-pen-tablet-size-to-monitor-size.md).
 
 ## Pen display size
 
