@@ -76,7 +76,7 @@ VERY GOOD. pixels clear and well delineated.
 
 Color accuracy: did not measure.
 
-This is a wide gamut display - so you may find that greens and reds are more intense than older displays. You may want to clamp it: [**Clamping wide-gamut displays to sRGB**](../../../guides/customizing-your-experience/clamping-wide-gamut-displays-to-srgb.md). Though I just left it the way it was and did not try anything to clamp the range.&#x20;
+This is a wide gamut display - so you may find that greens and reds are more intense than older displays. You may want to clamp it: [**Clamping wide-gamut displays to sRGB**](../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md). Though I just left it the way it was and did not try anything to clamp the range.&#x20;
 
 ## VESA
 

@@ -15,7 +15,7 @@ RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing 
 * S Pen that comes with the Samsung Galaxy Tab S tablets
 * S Pen that comes with the Samsung Galacy S phones
 * S Pen Creator edition
-* S Pen (2025) edition: [my notes on this pen](broken-reference)
+* S Pen (2025) edition: [my notes on this pen](/broken/pages/kcSr1XqKHDaf95L1yQwX)
 
 ## Pressure
 

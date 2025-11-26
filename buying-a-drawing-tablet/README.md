@@ -90,7 +90,7 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 * **Brightness** - Pen displays are bright but not super bright like some other displays you might be familiar with. More here: [**brightness**](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent disagreement between the location of the physical tip of the pen and the and where the computer thinks the tip of the pen is. This is another thing, some people are more sensitive to. Learn more here: [**parallax**](../guides/pen-displays/parallax.md).&#x20;
 * **Lamination** - Lamination can decrease parallax. I highly recommend getting a pen display that has lamination. Learn more here: [**lamination**](../guides/pen-displays/lamination.md) &#x20;
-* Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/customizing-your-experience/using-a-pen-display-as-a-monitor.md).
+* Even though a pen display is meant to draw on you can use it exactly like a normal monitor. Learn more here: [**Using a pen display as a monitor**](../guides/customizing/using-a-pen-display-as-a-monitor.md).
 * **Display Panel tech** - Most pen displays use an IPS display panel. Though a handful use OLED. Currently I recommend sticking with IPS panels because we don't know how long OLED displays will last in the scenarios we use drawing tablets. More here: [**Display panel technology**](../technology/display-panel-technology.md).
 
 ## Connections & cabling

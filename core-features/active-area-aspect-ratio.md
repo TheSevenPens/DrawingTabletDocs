@@ -18,7 +18,7 @@ Displays (monitors) tend to have aspect ratios like 16x9 and 16x10. 16x9 is the 
 
 If you are using a pen tablet, it mostly likely does not match the aspect ratio of your monitor and you will see some distortion when you draw.&#x20;
 
-This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios](../guides/customizing-your-experience/match-aspect-ratios-with-force-proportions.md).
+This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios](../guides/customizing/matching-aspect-ratios.md).
 
 ## Pen displays and aspect ratios
 

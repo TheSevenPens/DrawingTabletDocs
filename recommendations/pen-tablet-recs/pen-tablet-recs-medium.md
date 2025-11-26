@@ -37,7 +37,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## Seems OK but haven't spent much time with it
 
 * Huion Inspiroy RTP-700 \[$93, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/7p-huion-rtp-700.md)]
-* Huion Inspiroy 2 M (H951P) \[$70, [**links**](broken-reference)]
+* Huion Inspiroy 2 M (H951P) \[$70, [**links**](/broken/pages/GDPn7PiRM69fXn6z2V85)]
 * Huion Inspiroy 2 L (H1061P)  \[$90, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
 
 ## Poor performers
