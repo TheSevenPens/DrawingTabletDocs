@@ -16,6 +16,14 @@ Unlike last year
 
 {% embed url="https://youtube.com/live/eA1Yjo0vGEg?feature=share" %}
 
+## Livestream vs this page
+
+As always, as I learn more and get feedback I update the tier lists shown on this page.&#x20;
+
+## Tier definitions
+
+<figure><img src="../../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
+
 ## Pen tablets
 
 <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_tablets_20251112_191437 (1).png" alt=""><figcaption></figcaption></figure></div>
