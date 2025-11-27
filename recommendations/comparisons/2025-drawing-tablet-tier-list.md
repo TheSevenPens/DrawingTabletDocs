@@ -20,6 +20,14 @@ Unlike last year
 
 As always, as I learn more and get feedback I update the tier lists shown on this page.&#x20;
 
+## Tiering strategy
+
+* COST does not affect the tier
+* TIERING and RECOMMENDATIONS are based on overall DRAWING EXPERIENCE
+* Some tablets might be not recommended (for drawing), but they might work well for note-taking, whiteboarding, etc. - tasks that are not about creative drawing/painting.
+* Pens are the primary determinant of how pressure works for a tablet (IAF, MAX PRESSURE, PRESSURE RANGE). So it is always important to understand the included pen for tablet.
+* UD-EMR pens offer OK performance. So tablets with UD EMR pens TEND to be the C tier.&#x20;
+
 ## Tier definitions
 
 <figure><img src="../../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
