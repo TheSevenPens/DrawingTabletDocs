@@ -6,6 +6,12 @@ Almost all drawing tablets can detect the tilt of the pen. The support tilt for 
 
 <figure><img src="../../.gitbook/assets/Slide_20240506_184008 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
+This video demonstrates tilt. I highly recommend you watch it.
+
+{% embed url="https://www.youtube.com/watch?v=O9cMFehZnsI" %}
+
+
+
 ## How tilt is used in drawing applications
 
 Think about how you use a pencil - when you want a fine line you keep the pencil more perpendicular. However, when you want a wider line - maybe you are shading in an area - you tilt the pencil.
@@ -22,26 +28,29 @@ Mapping tilt to brush width is just the most common way of using tilt. However, 
 
 ## Which tablets support tilt
 
-For many years now tilt has been a common feature on drawing tablets. And today the vast majority of tablets support tilt.
+The vast majority of modern drawing tablets support tilt.
 
-However, Wacom seems has traditionally included tilt only on its professional models. In particular tilt is NOT supported in these entry-level Wacom tablets:&#x20;
+it's easier to list the modern tablets that don't support tilt:
 
-* One by Wacom Small (CTL-472)
-* One by Wacom Medium (CTL-672)
-* Wacom Intuos Medium (CTL-6100 & CTL-6100WL)
-* Wacom Intuos Small (CTL-4100 &  CTL-6100WL)
+* Wacom One by Wacom Small (CTL-472)
+* Wacom One by Wacom Medium (CTL-672)
+* Wacom Wacom Intuos Medium (CTL-6100 & CTL-6100WL)
+* Wacom Wacom Intuos Small (CTL-4100 &  CTL-6100WL)
+* Huion Frego S (L310)
 
-## Do need tilt support in your drawing tablet?
+## Do you need tilt support?
 
 The vast majority of drawing tablets have tilt support, but a few entry-level Wacom ones do not.
 
 For some people tilt is critical and for others, it is not useful at all. It strongly depends on what they are doing.
 
-* whiteboarding -> tilt not  useful
-* taking notes -> tilt not useful
-* educational videos -> tilt not useful
-* digital painting with natural media brushes -> can be very useful if you would like your brushes to respond to it.&#x20;
-* line art -> can be useful but many people do line art without using any tilt features
+| Scenario                                      | Is tilt useful? | Notes                                                            |
+| --------------------------------------------- | --------------- | ---------------------------------------------------------------- |
+| Whiteboarding                                 | Not useful      | It's rare for whiteboarding apps to even support tilt.           |
+| Taking notes                                  | Not useful      | It's rare for note-taking apps to even support tilt.             |
+| Educational videos                            | tilt not useful |                                                                  |
+| Digital painting with natural media brushes - | can be useful   | Some artists require it.                                         |
+| Line art                                      | can be useful   | But many/most people do line art without using any tilt features |
 
 ## Technical details
 
