@@ -76,6 +76,14 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 * **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them. This will produce a kind sparkle effect. Some pen displays have a lot of it and some a little. Some people can tolerate it. Some people hate seeing it. More here: [**Anti-glare sparkle**](../guides/pen-displays/anti-glare-sparkle.md).  &#x20;
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays you should be prepared to deal with this topic. The problem isn't usually the tablet, but how your computer's ports work and which ones you are trying to use. [**See Troubleshoot the NO SIGNAL problem**](../troubleshooting/tsg-no-signal.md).&#x20;
 
+## **Already have an iPad?**
+
+If you already have a compatible Apple iPad and Apple Pencil, consider whether your current device meets your drawing needs.&#x20;
+
+* [Apple iPad vs drawing tablets](../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple Pencil vs EMR pens](../drawing-tablets-links/apple/apple-pencil-vs-emr-pens.md)
+* [my Notes on Apple iPad](../drawing-tablets-links/apple/apple-ipad-1.md)
+
 ## **Non-pen inputs**
 
 * The primary input to the tablet is the pen. But some tablets support other inputs such as buttons, dials, and sliders. Some tablets even support touch.
