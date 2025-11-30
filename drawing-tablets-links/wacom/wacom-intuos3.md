@@ -16,6 +16,7 @@ description: PTZ-x30 series
 
 ## Links
 
+* [reddit r/wacom - Got an Intuos 3 PTZ-630 fully working on macOS 26](https://www.reddit.com/r/wacom/comments/1paa38t/got_an_intuos_3_ptz630_fully_working_on_macos_26/) — 2025/11/29
 * [EyekooDrawsStuff - Wacom Intuos 3 6x8 (PTZ-630)](https://www.youtube.com/watch?v=GAb-mte-j5w) 2021/09/11
 
 ## Photos
