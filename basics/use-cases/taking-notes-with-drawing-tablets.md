@@ -4,6 +4,8 @@
 
 Taking notes is a popular scenario for drawing tablets.
 
+There are several types of drawing tablets: [Types of drawing tablets](../types-of-drawing-tablets/)
+
 Generally I believe you will get the most natural experience taking notes if you use a [standalone pen-enabled mobile computers](../../recommendations/standalone-recs/mobile-device-recs.md) or [**dedicated note taking devices**](../../recommendations/scenarios/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
 
 On the other hand some people enjoy taking notes with pen tablets (screenless tablets) or pen displays (screen tablets).&#x20;
@@ -28,10 +30,11 @@ Some people can work very well with using a pen tablet for taking notes. Though 
 
 If you do want to use a pen tablet for taking notes here are some devices that will work well and don’t cost too much. You can even find them for less cost on eBay.
 
-* Wacom One Medium (CTL-672)
-* Wacom One Small (CTL-472)
+* Wacom One Medium (CTL-672) o Wacom One Small (CTL-472)- [<mark style="background-color:green;">**My notes on these tablets**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)
+* XP Pen Deco M & MW&#x20;
+* XP Pen Deco L & LW
 
-[<mark style="background-color:green;">**My notes on these tablets**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)
+other options here [Recommendations](../../recommendations/)
 
 ## Using a pen display (screen tablet)
 
