@@ -15,6 +15,10 @@ Here are more typical values for Wacom for example
 
 Any values in the hundred of MBs or GBs is very unusual.
 
+## Which brand of drivers are affected?
+
+I have seen this happen with all brands of tablet drivers: Wacom, Huion, XP-Pen, etc.
+
 ## What to do
 
 Overall, there is nothing you can do to fix the problem directly. It is an issue in the driver code itself.
