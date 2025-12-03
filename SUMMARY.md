@@ -344,6 +344,7 @@
   * [TSG: computer detects drawing tablet as a keyboard](troubleshooting/tsg-computer-detects-drawing-tablet-as-a-keyboard.md)
   * [TSG: Strokes are distorted or stretched](troubleshooting/tsg-strokes-are-distorted-or-stretched.md)
   * [TSG Nothing showing on pen display](troubleshooting/tsg-nothing-showing-on-pen-display.md)
+  * [TSG: Tablet driver using too much memory](troubleshooting/tsg-tablet-driver-using-too-much-memory.md)
 * [Links](links/README.md)
   * [Accessory links](accessory-links/README.md)
     * [Screen cleaning sprays](accessory-links/screen-cleaning-sprays.md)
