@@ -40,7 +40,7 @@ You have to buy that separately
 
 ## Compatible pens
 
-Surface Slim Pen 2 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../../pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
+Surface Slim Pen 2 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/microsoft-pens/surface-slim-pen-2-notes.md)
 
 ## Drawing experience&#x20;
 

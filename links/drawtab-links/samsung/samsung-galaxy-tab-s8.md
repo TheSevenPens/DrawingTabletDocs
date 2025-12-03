@@ -1,0 +1,3 @@
+# Samsung Galaxy Tab S8
+
+Content has moved to [**Samsung Galaxy Tab S series**](samsung-galaxy-tab-s-series/)&#x20;

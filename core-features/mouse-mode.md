@@ -32,7 +32,7 @@ In practice, it depends on what the driver is exactly doing.
 
 Here's an example of the Wacom driver vs Huion driver in Krita on Windows.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (345).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (410).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 As you can see the Wacom driver creates very jerky position data when mouse mode is enabled. It does not have to be like this, they could do better like Huion does.
 
@@ -60,17 +60,17 @@ You may need to restart an drawing application if you change the mouse mode sett
 
 In **Wacom Tablet Properties** app, select your pen, navigate to the **Mapping** tab, then under the Mode area you will see a setting you can switch between **Pen** and **Mouse**&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (207).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (272).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Once you enable mouse mode, you'll see some new configuration options.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (254).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (319).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Huion
 
 In the Huion driver, click **Digital Pen**, then enable or disable **Mouse Mode** at the bottom&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (171).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (236).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Restarting apps after mouse mode
 

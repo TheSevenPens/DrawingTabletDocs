@@ -6,7 +6,7 @@
 
 Wacom community forums: [https://support.wacom.com/hc/en-us/community/topics/360003085353-Welcome-General-Discussion](https://support.wacom.com/hc/en-us/community/topics/360003085353-Welcome-General-Discussion)&#x20;
 
-To file a support ticket: You can file a support ticket with Wacom at this link: [https://support.wacom.com/hc/en-us/requests/new?ticket\_form\_id=1500000134982](https://support.wacom.com/hc/en-us/requests/new?ticket\_form\_id=1500000134982)&#x20;
+To file a support ticket: You can file a support ticket with Wacom at this link: [https://support.wacom.com/hc/en-us/requests/new?ticket\_form\_id=1500000134982](https://support.wacom.com/hc/en-us/requests/new?ticket_form_id=1500000134982)&#x20;
 
 ## Huion
 
@@ -14,7 +14,7 @@ To file a support ticket: You can file a support ticket with Wacom at this link:
 
 Go to the bottom of the page to find links to contact Huion support
 
-![](<../.gitbook/assets/image (363).png>)
+![](<../.gitbook/assets/image (428).png>)
 
 ## XP-Pen
 

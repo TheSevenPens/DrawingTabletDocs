@@ -16,4 +16,4 @@ Turn off tilt in the driver - SOME tablet drivers let you simply turn off tilt s
 
 XP-Pen drivers have this feature.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (432).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (497).png" alt="" width="563"><figcaption></figcaption></figure></div>

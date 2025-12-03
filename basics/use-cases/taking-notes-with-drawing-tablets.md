@@ -30,7 +30,7 @@ Some people can work very well with using a pen tablet for taking notes. Though 
 
 If you do want to use a pen tablet for taking notes here are some devices that will work well and don’t cost too much. You can even find them for less cost on eBay.
 
-* Wacom One Medium (CTL-672) o Wacom One Small (CTL-472)- [<mark style="background-color:green;">**My notes on these tablets**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)
+* Wacom One Medium (CTL-672) o Wacom One Small (CTL-472)- [<mark style="background-color:green;">**My notes on these tablets**</mark>](../../links/drawtab-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)
 * XP Pen Deco M & MW&#x20;
 * XP Pen Deco L & LW
 

@@ -8,9 +8,9 @@
 
 When you plug in your pen display your computer should detect it as an additional display/monitor in display setttings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Don't bother reinstalling the tablet drivers
 
@@ -41,7 +41,7 @@ Check the ports to ensure that there isn't some lint or other material preventin
 
 &#x20;In Display Settings, there is an option to detect a display. Try it.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (472).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## MacOS
 
@@ -59,11 +59,11 @@ If your computer is not even detecting the existence of the display, and it has 
 
 
 
-![](<../.gitbook/assets/image (392).png>)
+![](<../.gitbook/assets/image (457).png>)
 
 
 
-![](<../.gitbook/assets/image (105).png>)
+![](<../.gitbook/assets/image (170).png>)
 
 ## Use Intel Graphics Command Center to detect your display
 

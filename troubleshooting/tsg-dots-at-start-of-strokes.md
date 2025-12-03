@@ -8,7 +8,7 @@ The cause is unclear.
 
 It can suddenly appear with a pen that otherwise was working correctly.
 
-![](<../.gitbook/assets/image (376).png>)
+![](<../.gitbook/assets/image (441).png>)
 
 ## Potential solutions
 

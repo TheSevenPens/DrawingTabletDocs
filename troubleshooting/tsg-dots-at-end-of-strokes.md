@@ -1,4 +1,4 @@
-# Troubleshoot dots at end of strokes
+# TSG: Dots at end of strokes
 
 ## Things to try first
 
@@ -8,7 +8,7 @@ First try the [**Common drawing troubleshooting steps**](common-drawing-troubles
 
 ### Examples
 
-![](<../.gitbook/assets/image (337).png>)
+![](<../.gitbook/assets/image (402).png>)
 
 So far, I have rarely encountered this and don't know the specific cause.
 

@@ -6,7 +6,7 @@ Drawing tablets that have an embedded display panel and those display panels hav
 
 ## Measurement
 
-Brightness is measured in cd/m2 ([Candela per square meter](https://en.wikipedia.org/wiki/Candela\_per\_square\_metre)) but that is hard to type so man people use the equivalent unit of **nit**.
+Brightness is measured in cd/m2 ([Candela per square meter](https://en.wikipedia.org/wiki/Candela_per_square_metre)) but that is hard to type so man people use the equivalent unit of **nit**.
 
 ## Lighting conditions
 
@@ -30,7 +30,7 @@ Overall, display panels for drawing tablets fall in the range of 200 to 400 nits
 
 
 
-<figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 
 ## Distribution of brightness values
 

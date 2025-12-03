@@ -1,0 +1,17 @@
+---
+description: aka "Screen protectors"
+---
+
+# Surface protection
+
+## Overview
+
+There are many options to protect the surface of your tablet from scratches, etc. There are options for both pen tablets (screenless tablets) and pen displays (screen tablets). There are options that are specific to devices such as iPads
+
+* [**Surface protectors for pen tablets**](surface-protectors-for-pen-tablets.md)
+* [**Screen protectors for pen displays**](screen-protectors-for-pen-displays.md)
+* [**Screen protectors for iPads**](screen-protectors-for-ipads.md)
+
+## Key features&#x20;
+
+* **Protectors do not interfere with the pen** - These protective sheets do NOT interfere with how your pen works. The EMR signal from the pen, passes right through non-metallic materials such as plastic or glass. &#x20;

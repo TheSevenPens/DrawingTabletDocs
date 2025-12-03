@@ -6,15 +6,15 @@ Apps vary in how they present the configuration for Windows Ink vs WinTab .
 
 Tablet drivers always show it as a simple checkbox.
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 Apps may present it like this (Krita is shown). Notice that some apps use the phrase like "Windows 8 pointer API" to mean "Windows Ink"
 
-<figure><img src="../../../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (84).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Other apps may use the phrase "Tablet PC"
 
-<figure><img src="../../../../.gitbook/assets/image (19).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (83).png" alt="" width="298"><figcaption></figcaption></figure>
 
 ## Clip Studio Paint
 
@@ -25,7 +25,7 @@ Other apps may use the phrase "Tablet PC"
   * or choose **Tablet PC** to disable Windows Ink
 * Once you've made the change, restart Clip Studio Paint
 
-![](<../../../../.gitbook/assets/image (323).png>)
+![](<../../../../.gitbook/assets/image (388).png>)
 
 ## Krita
 
@@ -36,7 +36,7 @@ Other apps may use the phrase "Tablet PC"
   * or Choose  **WinTab** to disable Windows Ink
 * Once you've made your change, restart Krita.
 
-![](<../../../../.gitbook/assets/image (109).png>)
+![](<../../../../.gitbook/assets/image (174).png>)
 
 ## Adobe Photoshop
 
@@ -51,7 +51,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
   * **Windows Ink**&#x20;
 * Restart Affinity Photo/Designer once you change this setting.
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (533).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## ArtRage Vitae
 
@@ -61,7 +61,7 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuri
   * UNCHECKED -> disable Windows Ink
 * Restart ArtRage once you change this setting.
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (469).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (534).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Firealpaca
 

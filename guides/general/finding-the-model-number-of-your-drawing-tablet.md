@@ -1,4 +1,4 @@
-# Finding the model number of a drawing tablet
+# Finding the model number of your drawing tablet
 
 ## Overview
 
@@ -16,11 +16,7 @@ Occasionally, you may find that the model number has been worn off the tablet. I
 
 Here's an example from the packaging of the XP-Pen Deco LW
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/PXL_20240228_060309518.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/PXL_20240228_060309518.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Model number is shown in the driver
 
@@ -34,21 +30,13 @@ Here are some examples:
 
 Click **About > Diagnose**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (488).png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (553).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Model number in the Wacom Center app
 
 When you select a tablet you will see it right on the home page for that tablet.&#x20;
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (490).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (555).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Model number in the Huion driver (HuionTablet app)
 
@@ -64,11 +52,7 @@ If you got your tablet inside its original packaging, the model number may be pr
 
 Here's an example from the packaging of the Huion Inspiroy 2 L.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/PXL_20240228_060224168.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/PXL_20240228_060224168.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Find the model number in the documentation
 

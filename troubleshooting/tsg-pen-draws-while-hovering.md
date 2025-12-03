@@ -1,4 +1,4 @@
-# Troubleshoot pen draws while hovering
+# TSG: Pen draws while hovering
 
 ## Overview
 
@@ -36,7 +36,7 @@ Sometimes a pen is reporting pressure even when it isn't in contact with anythin
 
 In the tablet driver, try dragging the lower left point of the pressure curve to the right until the pen stops drawing while hovering.&#x20;
 
-<figure><img src="../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 **If nothing helps**
 

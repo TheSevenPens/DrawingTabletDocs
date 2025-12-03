@@ -6,13 +6,13 @@ This is a list of some prominent apps for Android devices. If you want to see a 
 
 ## Popular apps for Android
 
-* [**Clip Studio Paint**](../app-links/clip-studio-paint/)&#x20;
-* [**Ibis Paint**](../app-links/ibis-paint.md)&#x20;
-* [**HiPaint**](../app-links/hipaint.md)&#x20;
-* [**Krita**](../app-links/krita/)&#x20;
+* [**Clip Studio Paint**](../links/app-links/clip-studio-paint/)&#x20;
+* [**Ibis Paint**](../links/app-links/ibis-paint.md)&#x20;
+* [**HiPaint**](../links/app-links/hipaint.md)&#x20;
+* [**Krita**](../links/app-links/krita/)&#x20;
 * [**ArtFlow Studio**](http://artflowstudio.com/) &#x20;
 * [**Infinite Painter**](apps-for-android.md#infinite-painter)&#x20;
-* [**Concepts**](../app-links/concepts-app.md)&#x20;
+* [**Concepts**](../links/app-links/concepts-app.md)&#x20;
 * **Sketchbook**&#x20;
 
 ## Videos

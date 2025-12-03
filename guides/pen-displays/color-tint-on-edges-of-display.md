@@ -6,27 +6,15 @@ Some pen displays exhibit a color tint at the edges of the display. Often it is 
 
 ## Appearance
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (419).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (484).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The tint is greatly exaggerated in these diagrams. In reality in can be very subtle.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (462).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Keep in mind the topic being discussed here is when the tint as at the edges, not when the tint is evenly distributed over the entire display.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (389).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (454).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Examples
 
@@ -54,9 +42,9 @@ Overall it is uncommon. It is present in NONE of the display devices I have that
 
 ## Links
 
-* [https://www.reddit.com/r/huion/comments/10i3ftd/purple\_edges\_on\_my\_kanvas\_24\_plus/](https://www.reddit.com/r/huion/comments/10i3ftd/purple\_edges\_on\_my\_kanvas\_24\_plus/)&#x20;
-* [https://www.reddit.com/r/huion/comments/vo3o5m/bought\_a\_kamvas\_pro\_16\_25k\_local\_retailer\_says\_it/](https://www.reddit.com/r/huion/comments/vo3o5m/bought\_a\_kamvas\_pro\_16\_25k\_local\_retailer\_says\_it/)  &#x20;
-* [https://www.reddit.com/r/4kTV/comments/zt6kf2/sony\_purple\_edges/](https://www.reddit.com/r/4kTV/comments/zt6kf2/sony\_purple\_edges/) &#x20;
+* [https://www.reddit.com/r/huion/comments/10i3ftd/purple\_edges\_on\_my\_kanvas\_24\_plus/](https://www.reddit.com/r/huion/comments/10i3ftd/purple_edges_on_my_kanvas_24_plus/)&#x20;
+* [https://www.reddit.com/r/huion/comments/vo3o5m/bought\_a\_kamvas\_pro\_16\_25k\_local\_retailer\_says\_it/](https://www.reddit.com/r/huion/comments/vo3o5m/bought_a_kamvas_pro_16_25k_local_retailer_says_it/)  &#x20;
+* [https://www.reddit.com/r/4kTV/comments/zt6kf2/sony\_purple\_edges/](https://www.reddit.com/r/4kTV/comments/zt6kf2/sony_purple_edges/) &#x20;
 
 
 

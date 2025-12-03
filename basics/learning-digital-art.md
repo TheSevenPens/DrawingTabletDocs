@@ -31,4 +31,4 @@ Many people use tablets **in addition** to other techniques. For example, some p
 
 ## Equipment
 
-* [Laptops for digital art](../guides/laptops-for-digital-art.md) &#x20;
+* [Laptops for digital art](../guides/computers-for-digital-art/laptops-for-digital-art.md) &#x20;

@@ -55,7 +55,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 
 | Windows 11                                                                 | MacOS (Ventura)                           |
 | -------------------------------------------------------------------------- | ----------------------------------------- |
-| <img src="../.gitbook/assets/image (455).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (334).png>) |
+| <img src="../.gitbook/assets/image (520).png" alt="" data-size="original"> | ![](<../.gitbook/assets/image (399).png>) |
 
 If your computer doesn't see the display from the tablet , it will not send a video signal to it.  Follow these troubleshooting steps: [**Troubleshoot display detection**](tsg-display-detection.md)&#x20;
 

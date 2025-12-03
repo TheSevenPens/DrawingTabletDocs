@@ -4,7 +4,7 @@ It's not possible for a human to push down on the tib of the pen with a perfect 
 
 To do this I use a Kuuube's pressure emulation plugin for OpenTabletDriver.
 
-You can download the plugin from here: [https://github.com/Kuuuube/Pressure\_Emulation](https://github.com/Kuuuube/Pressure\_Emulation)&#x20;
+You can download the plugin from here: [https://github.com/Kuuuube/Pressure\_Emulation](https://github.com/Kuuuube/Pressure_Emulation)&#x20;
 
 This is my standard configuration
 
@@ -14,5 +14,5 @@ Line length - 800
 
 Line X Offset - 200
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 

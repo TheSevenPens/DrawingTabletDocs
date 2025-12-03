@@ -39,7 +39,7 @@ Consider how you hold you pen. Different techniques of holding your pen can affe
 
 Using a digital; pen on a very smooth tablet surface can result in the pen feeling "slippery" as you draw. And so the pen often seems to "slide away" from the intended path of the stroke you are trying to make.  This is a common complain for iPads because an iPad's surface if very smooth glass.
 
-Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../accessory-links/surface-protectors/).
+Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../links/accessory-links/surface-protectors/).
 
 ## Use a felt nib
 
@@ -94,7 +94,7 @@ Clip Studio Paint has several options
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (125).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Rebelle
 
@@ -121,7 +121,7 @@ The advantage to this technique is that it doesn't slow down your stroke as you 
 
 The disadvantage to this technique is that you don't exactly know the path of your stroke until a moment after you draw the stroke. Also if you draw a sharp corner, post-correction techniques can somethings not recognize the corner and instead show it as a smooth corner.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (124).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Use vector drawing tools
 

@@ -1,0 +1,4 @@
+# Samsung Galaxy Tab S9
+
+Content has moved to [**Samsung Galaxy Tab S series**](samsung-galaxy-tab-s-series/)&#x20;
+

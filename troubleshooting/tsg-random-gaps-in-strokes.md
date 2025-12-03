@@ -1,4 +1,4 @@
-# Troubleshoot random gaps in strokes
+# TSG: Random gaps in strokes
 
 This manifests as gaps in strokes.
 
@@ -6,7 +6,7 @@ The gaps will not be aligned vertically or horizontally - which is a sign of a d
 
 ### Examples
 
-![](<../.gitbook/assets/image (324).png>)
+![](<../.gitbook/assets/image (389).png>)
 
 
 
@@ -30,7 +30,7 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
 
 ### Links
 
-* ([https://www.reddit.com/r/wacom/comments/s84fjr/the\_dreaded\_gap\_problem/](https://www.reddit.com/r/wacom/comments/s84fjr/the\_dreaded\_gap\_problem/))
+* ([https://www.reddit.com/r/wacom/comments/s84fjr/the\_dreaded\_gap\_problem/](https://www.reddit.com/r/wacom/comments/s84fjr/the_dreaded_gap_problem/))
 
 ##
 
