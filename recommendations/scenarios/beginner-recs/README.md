@@ -11,8 +11,8 @@ These are highly-curated recommendations for people who are just beginning to ge
 **Before you purchase:**
 
 * Read [**Beginner's guide to drawing tablets**](../../../basics/beginners-guide.md)&#x20;
-* Review these [**Buying tips**](../../../buying-guide/buying-tips.md)&#x20;
-* Look through the [**Drawing Tablet Buying Guide**](../../../buying-guide/)&#x20;
+* Review these [**Buying tips**](../../../buying-a-drawing-tablet/buying-tips.md)&#x20;
+* Look through the [**Drawing Tablet Buying Guide**](../../../buying-a-drawing-tablet/)&#x20;
 
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../../)&#x20;
 {% endhint %}
@@ -27,6 +27,6 @@ The first thing you need to understand is the type of drawing tablet you want to
 
 ## Some thoughts
 
-* Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](../../../buying-guide/pen-tablets-vs-pen-displays.md)
+* Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](../../../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
 * If you really need a standalone, get an iPad or Wacom MovinkPad, or a Samsung Galaxy Tab S tablet.
 

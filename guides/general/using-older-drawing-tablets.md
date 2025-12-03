@@ -18,7 +18,7 @@ Models I have specifically used with Windows 11:
 
 * They bought the tablet a long time ago but haven't used it recently.
 * It was a tablet that was gifted to them
-* They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-guide/buying-used-drawing-tablets.md))
+* They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-a-drawing-tablet/buying-used-drawing-tablets.md))
 
 ## Support lifetime
 

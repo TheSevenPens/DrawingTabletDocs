@@ -57,7 +57,7 @@ For example you can set a button to
 
 Wacom Intuos Pro PTH-660
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
 
 ## Examples
 
@@ -75,16 +75,16 @@ Wacom Intuos Pro PTH-660
 
 ## &#x20;Example UI from Wacom Tablet Properties App
 
-![](<../.gitbook/assets/image (489).png>)
+![](<../.gitbook/assets/image (424).png>)
 
-![](<../.gitbook/assets/image (298).png>)
+![](<../.gitbook/assets/image (233).png>)
 
-![](<../.gitbook/assets/image (243).png>)
+![](<../.gitbook/assets/image (178).png>)
 
-![](<../.gitbook/assets/image (199).png>)
+![](<../.gitbook/assets/image (134).png>)
 
-![](<../.gitbook/assets/image (281).png>)
+![](<../.gitbook/assets/image (216).png>)
 
-![](<../.gitbook/assets/image (452).png>)
+![](<../.gitbook/assets/image (387).png>)
 
-![](<../.gitbook/assets/image (246).png>)
+![](<../.gitbook/assets/image (181).png>)

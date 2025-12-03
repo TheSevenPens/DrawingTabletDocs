@@ -8,7 +8,7 @@ An overview of the brands and my take on some of them are here: [**drawing table
 
 #### FAQ: Is iPad better than a drawing tablet?
 
-&#x20;Read : [**using an iPad as a drawing tablet**](links/drawtab-links/apple/apple-ipad-1.md)
+&#x20;Read : [**using an iPad as a drawing tablet**](drawing-tablets-links/apple/apple-ipad-1.md)
 
 #### FAQ: Can I use a drawing tablet with my iPad or iPhone?
 
@@ -25,7 +25,7 @@ It really depends on a lot of factors.&#x20;
 * For pen tablets - I recommend a MEDIUM size (about 11")
 * For pen displays - I recommend a MEDIUM size (about 16") though many start off with a 13" and I personally prefer a 22"
 
-More here: [**tablet size**](buying-guide/choosing-the-right-tablet-size.md)
+More here: [**tablet size**](buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
 
 #### FAQ: Which cables do I need for my tablet?
 
@@ -39,7 +39,7 @@ More here: [**tablet size**](buying-guide/choosing-the-right-tablet-size.md)
 
 #### FAQ: Should I get a pen tablet or pen display?
 
-There is no single right answer. Each has pros and cons. More here: [**Pen tablets vs pen displays**](buying-guide/pen-tablets-vs-pen-displays.md)&#x20;
+There is no single right answer. Each has pros and cons. More here: [**Pen tablets vs pen displays**](buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)&#x20;
 
 ## Pen Displays
 
@@ -79,7 +79,7 @@ Answer: YES. All drawing tablets experience some kind of lag. Pen tablets experi
 
 #### FAQ: Can I extend the length of my cables?
 
-Yes. More here: [**Extending cables**](links/accessory-links/extension-cables.md)
+Yes. More here: [**Extending cables**](accessory-links/extension-cables.md)
 
 #### FAQ: What subreddits exist for drawing tablets?
 
@@ -87,7 +87,7 @@ There are quite a few. See this list: [**Subreddits for drawing tablets**](resou
 
 #### FAQ: Can I replace the surface of my pen tablet?
 
-See: [**Protective sheets**](links/accessory-links/surface-protectors/)
+See: [**Protective sheets**](accessory-links/surface-protectors/)
 
 #### FAQ: What should I do if I spilled water on my tablet or pen?
 

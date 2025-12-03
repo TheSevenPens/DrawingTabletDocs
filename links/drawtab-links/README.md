@@ -1,2 +1,0 @@
-# Drawing tablet links
-

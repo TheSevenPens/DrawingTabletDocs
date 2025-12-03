@@ -4,7 +4,7 @@ My hobby concerning drawing tablets is centered largely around creatives - peopl
 
 ## osu!
 
-![](<../../.gitbook/assets/image (374).png>)
+![](<../../.gitbook/assets/image (309).png>)
 
 **osu!** is a popular rhythm game and many of its players use drawing tablets instead of a mouse. ([https://en.wikipedia.org/wiki/Osu!](https://en.wikipedia.org/wiki/Osu!))
 
@@ -16,7 +16,7 @@ They have about 1.7M monthly active users who play osu!&#x20;
 
 You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ## How osu! players use drawing tablets
 
@@ -68,7 +68,7 @@ Players do **advanced customization** of osu! through OpenTabletDriver plug-ins.
 
 ### Picking a drawing tablet for osu!
 
-More here: [Buying a drawing tablet for osu!](../../buying-guide/buying-a-drawing-tablet-for-osu.md) &#x20;
+More here: [Buying a drawing tablet for osu!](../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md) &#x20;
 
 ## **FPS games**
 

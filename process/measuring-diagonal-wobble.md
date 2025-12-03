@@ -24,7 +24,7 @@ I measure [**diagonal wobble**](../core-features/diagonal-wobble.md) using a sim
   * Set Brush to **Ink-2 Fineliner** with default brush settings and set size to 5 pixels.
   *
 
-      <div align="left"><figure><img src="../.gitbook/assets/image (527).png" alt="" width="320"><figcaption></figcaption></figure></div>
+      <div align="left"><figure><img src="../.gitbook/assets/image (462).png" alt="" width="320"><figcaption></figcaption></figure></div>
 * Drawing
   * The template requires 3 sets of lines drawn at different speeds - 3 lines for each speed
   * Draw the line from the lower left to the upper right.

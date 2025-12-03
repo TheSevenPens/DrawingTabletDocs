@@ -13,7 +13,7 @@ There are **many** tablet brands and picking the brand of the tablet is one of t
 
 **Wacom** was founded in 1983 continues to make the highest quality and most reliable tablets. In general, Wacom has the best drawing experience. Their products are the most expensive. I consider Wacom to be the "safe choice".
 
-* More here:  [**my notes on Wacom**](wacom/)
+* More here:  [**my notes on Wacom**](wacom.md)
 * Wacom - [https://www.wacom.com](https://www.wacom.com/)
 
 ## Tier 2: Huion, XP-Pen, & Xencelabs

@@ -38,7 +38,7 @@ With pen tablets you will not be force the active area to match the display of t
 
 ## Testing results
 
-[**ChromeOS testing results**](chromeos-testing-results.md) &#x20;
+[**ChromeOS testing results**](chromebook-testing-results.md) &#x20;
 
 ## Resources&#x20;
 

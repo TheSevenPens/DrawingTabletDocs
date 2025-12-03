@@ -18,7 +18,7 @@ As USB 2.0 cables they are not meant for high-speed data transfer so I don't oft
 
 [https://www.amazon.com/Monoprice-Type-C-Type-Charge-Nylon-Braid/dp/B08511STS1](https://www.amazon.com/Monoprice-Type-C-Type-Charge-Nylon-Braid/dp/B08511STS1)[ ](https://www.amazon.com/dp/B0851N5MS1)
 
-<figure><img src="../../../.gitbook/assets/image (649).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
 
 * There's nothing special about about them, I just liked that they were available in a bright blue color. And I use that color to organize my cables. Whenever I see a cable with this color I know the kidn of device it is meant for.
 * The cables are kind of stiff so they won't lay down down easily on a desk. &#x20;
@@ -30,7 +30,7 @@ As USB 2.0 cables they are not meant for high-speed data transfer so I don't oft
 
 [https://www.amazon.com/Anker-Powerline-Charging-MacBook-Midnight/dp/B09FTFK4FT/](https://www.amazon.com/Anker-Powerline-Charging-MacBook-Midnight/dp/B09FTFK4FT/)
 
-<figure><img src="../../../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 
 * These cables are very pliant. They will lay flat on a desk.
 * These are available in black and several light pastel colors.

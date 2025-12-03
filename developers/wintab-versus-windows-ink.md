@@ -20,7 +20,7 @@ Wacom published a page with frequently asked questions about WinTab:
 
 Here's a small snippet of the relevant section of the doc
 
-<div align="left"><figure><img src="../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Please read the document for the full details.
 

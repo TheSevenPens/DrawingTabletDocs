@@ -14,7 +14,7 @@ To file a support ticket: You can file a support ticket with Wacom at this link:
 
 Go to the bottom of the page to find links to contact Huion support
 
-![](<../.gitbook/assets/image (428).png>)
+![](<../.gitbook/assets/image (363).png>)
 
 ## XP-Pen
 

@@ -6,15 +6,15 @@ Some pen displays exhibit a color tint at the edges of the display. Often it is 
 
 ## Appearance
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (484).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (419).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The tint is greatly exaggerated in these diagrams. In reality in can be very subtle.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (462).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Keep in mind the topic being discussed here is when the tint as at the edges, not when the tint is evenly distributed over the entire display.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (454).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (389).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Examples
 

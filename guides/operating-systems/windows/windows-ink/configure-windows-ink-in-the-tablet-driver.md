@@ -28,11 +28,11 @@ Every driver has a different way of configuring it in their UI:
 * Or if you have a pen display, go to the **Calibrate** tab.
 * Set **Use Windows Ink** to turn on or off **Windows Ink** in the driver
 
-![](<../../../../.gitbook/assets/image (302).png>)
+![](<../../../../.gitbook/assets/image (237).png>)
 
 ## Wacom Driver > Wacom Center
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (590).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (525).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Huion Driver > Huion Tablet app
 
@@ -40,7 +40,7 @@ Every driver has a different way of configuring it in their UI:
 * Navigate to **Digital Pen**&#x20;
 * Under Press Key, set the **Enable Windows Ink** to turn on or off **Windows Ink** in the driver
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (325).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (260).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## XP-Pen driver > PenTablet App
 
@@ -48,15 +48,15 @@ Every driver has a different way of configuring it in their UI:
 * Navigate to **Digital settings**&#x20;
 * Set the **Windows Ink** to turn on or off **Windows Ink** in the driver
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (77).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (13).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Xencelabs Driver
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (589).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (524).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## OpenTabletDriver
 
 NOTE: To see the Windows Ink option, you have to install the OTD Windows Ink plug-in first.
 
-![](<../../../../.gitbook/assets/image (260).png>)
+![](<../../../../.gitbook/assets/image (195).png>)
 

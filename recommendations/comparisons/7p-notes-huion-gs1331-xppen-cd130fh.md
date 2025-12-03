@@ -135,7 +135,7 @@ Thanks to their laminated displays both have very good parallax. They match that
 
 Below is a parallax photo for several pen tablet models. The XP-Pen parallax similar to the picture of the Wacom One and Huion model in the photo.
 
-![](<../../.gitbook/assets/image (250).png>)
+![](<../../.gitbook/assets/image (185).png>)
 
 ## Connecting with a 3 in 1 cable
 

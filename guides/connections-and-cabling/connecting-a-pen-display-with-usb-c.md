@@ -84,7 +84,7 @@ To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB
 
 ## The specific Thunderbolt 3 cable I use
 
-I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../links/accessory-links/cables/cablematters-thunderbolt-3-cable.md).
+I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../accessory-links/cables/cablematters-thunderbolt-3-cable.md).
 
 ## How to tell if a USB-C cable could be used as a single-cable for your pen display
 

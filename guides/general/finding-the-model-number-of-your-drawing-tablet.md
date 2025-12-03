@@ -30,13 +30,13 @@ Here are some examples:
 
 Click **About > Diagnose**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (553).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (488).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Model number in the Wacom Center app
 
 When you select a tablet you will see it right on the home page for that tablet.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (555).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (490).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Model number in the Huion driver (HuionTablet app)
 

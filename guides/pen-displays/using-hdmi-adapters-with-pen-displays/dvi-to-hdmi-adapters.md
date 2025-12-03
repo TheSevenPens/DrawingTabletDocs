@@ -19,7 +19,7 @@ Here's an example of such an adapter.
 
 ## DVI port types
 
-<figure><img src="../../../.gitbook/assets/image (598).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (533).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Videos:
 

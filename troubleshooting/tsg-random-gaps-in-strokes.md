@@ -6,7 +6,7 @@ The gaps will not be aligned vertically or horizontally - which is a sign of a d
 
 ### Examples
 
-![](<../.gitbook/assets/image (389).png>)
+![](<../.gitbook/assets/image (324).png>)
 
 
 

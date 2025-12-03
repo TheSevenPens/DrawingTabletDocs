@@ -11,7 +11,7 @@ There are two kinds of lag:
 * [**Pointer lag**](pointer-lag.md)
 * [**Brush lag**](lag.md) &#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (159).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 
 

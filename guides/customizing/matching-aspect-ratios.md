@@ -49,7 +49,7 @@ The amount of active area you lose by turning on force proportions varies depend
 
 Note that if the active areas of the tablet and monitor are the same, then enabling FP does not incur any loss.
 
-<figure><img src="../../.gitbook/assets/image (645).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (581).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Instructions&#x20;
 
