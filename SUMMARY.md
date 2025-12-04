@@ -345,6 +345,7 @@
   * [TSG: Strokes are distorted or stretched](troubleshooting/tsg-strokes-are-distorted-or-stretched.md)
   * [TSG Nothing showing on pen display](troubleshooting/tsg-nothing-showing-on-pen-display.md)
   * [TSG: Tablet driver using too much memory](troubleshooting/tsg-tablet-driver-using-too-much-memory.md)
+  * [TSG: Pen display always shows info box on screen](troubleshooting/tsg-pen-display-always-shows-info-box-on-screen.md)
 * [Links](links/README.md)
   * [Accessory links](accessory-links/README.md)
     * [Screen cleaning sprays](accessory-links/screen-cleaning-sprays.md)
