@@ -22,5 +22,5 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## GOOD
 
 * Huion Inspiroy Giano (G930L) \[$200, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-g930l.md)]
-* Huion Inspiroy 2 L &#x20;
+* Huion Inspiroy 2 L  \[[<mark style="background-color:green;">my notes</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
 

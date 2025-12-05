@@ -30,15 +30,16 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
     * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
     * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]&#x20;
     * XP-Pen Deco LW (IT1060B) \[$90,  [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-deco/xppen-it1060b.md)]
-* Huion Inspiroy 2 M
+* Huion Inspiroy 2 M (H951P) \[$70, see notes for Inspiroy 2 L ]
+* Huion Inspiroy 2 L (H1061P)  \[$90, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
 * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)]
 
 ## AVOID
 
 * Wacom One M (CTC-6110WL)
-* Wacom One S (CTC-4110WL)
+* Wacom One S (CTC-4110WL) \[$150, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)]
 
-## Other
+## OTHER
 
 ### Older but works well
 
@@ -48,10 +49,3 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ### Seems OK but haven't spent much time with it
 
 * Huion Inspiroy RTP-700 \[$93, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/7p-huion-rtp-700.md)]
-* Huion Inspiroy 2 M (H951P) \[$70, [**links**](/broken/pages/GDPn7PiRM69fXn6z2V85)]
-* Huion Inspiroy 2 L (H1061P)  \[$90, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
-
-### Poor performers
-
-* Wacom One M (CTC-6110WL) \[$150, [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)]
-  * <mark style="color:red;">**SUB-STANDARD PRESSURE HANDLING**</mark>
