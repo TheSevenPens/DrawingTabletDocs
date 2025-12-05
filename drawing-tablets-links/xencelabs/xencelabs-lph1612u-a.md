@@ -7,7 +7,12 @@ Overall good performance.&#x20;
 * The pens don't have the super low IAF that you see in Wacom professional pens but most will be fine with the 3gf IAF they do offer.&#x20;
 * Some moderate AG sparkle is visible - if you are sensitive to that then this tablert may not be the right choice
 
+## Links
 
+* Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)&#x20;
+* [Grant Abbitt - Review of Xencelabs Pen DIsplay 16](https://www.youtube.com/watch?v=zGkTjf5HoB4) 2024-08-07&#x20;
+* [AppleInsider review of Xencelabs Pen Display 16](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece) 2024-05-28
+* [The Honest Laborers Review - Xencelabs 16-inch 4K Pen Display Hands-On and Test](https://www.youtube.com/watch?v=FCuVrJMncKI) - 2024-05-23
 
 ## Form factor
 

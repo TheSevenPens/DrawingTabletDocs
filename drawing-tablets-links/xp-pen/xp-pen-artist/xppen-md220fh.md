@@ -1,6 +1,8 @@
 # XP-Pen Artist 22 Plus (MD220FH) notes
 
-These notes are very incomplete. Working on it!
+## Links
+
+[Brad Colbow review of XP-Pen Artist 22 Plus](https://www.youtube.com/watch?v=YfEfGOJOQJs) 2023-11-20
 
 ## Anti-glare sparkle
 

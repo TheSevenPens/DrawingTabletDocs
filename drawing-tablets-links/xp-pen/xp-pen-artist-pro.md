@@ -1,13 +1,13 @@
 # XP-Pen Artist Pro
 
-## XPPen Artist Pro 15.6 V2 (2024)&#x20;
+## XP-Pen Artist Pro 15.6 V2 (2024)&#x20;
 
-* [Teoh on Tech review of XPPen Artist Pro 15.6 V2 (2024) 2025/07/02](https://www.youtube.com/watch?v=Vf6n2a9JQxw)
+* [Teoh on Tech review of XPPen Artist Pro 15.6 V2 (2024)](https://www.youtube.com/watch?v=Vf6n2a9JQxw)2025-07-02
 
 ## XP-Pen Artist Pro (2021)&#x20;
 
-* [Teoh on Tech Review of the XP-Pen Artist Pro (2021)](https://www.youtube.com/watch?v=BfqvJIXnqBE) Aug 25, 2021
-* [Brad Colbow Review of the XP-Pen Artist Pro (2021](https://www.youtube.com/watch?v=Uj6mqgfOzoQ)) Oct 4, 2021
+* [Teoh on Tech Review of the XP-Pen Artist Pro (2021)](https://www.youtube.com/watch?v=BfqvJIXnqBE) 2021-08-25
+* [Brad Colbow Review of the XP-Pen Artist Pro (2021](https://www.youtube.com/watch?v=Uj6mqgfOzoQ)) 2021-10-04
 
 ## XP-Pen Artist Pro 16TP&#x20;
 

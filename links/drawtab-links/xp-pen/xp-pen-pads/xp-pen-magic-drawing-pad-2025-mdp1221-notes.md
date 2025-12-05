@@ -1,16 +1,21 @@
 # XP-Pen Magic Drawing Pad 2025 (MDP1221) notes
 
-## Overview
 
-<mark style="color:red;">**I AM ACTIVELY TESTING THIS DEVICE.**</mark> So expect my notes to evolve, but here are some initial thoughts: This tablet is a comparable to the Samsung S9FE but in terms of overall performance with a much better pen. There are issues using tilt - but I don't use tilt with brushes so that wasn't a limiting factor for me.
 
-So far, I am enjoying using this device and as long as tilt is not a requirement for you, feel that it is a good choice for a standalone drawing tablet.
+##
 
 ## Basics
 
 * Model number MDP1221&#x20;
 * Note this model (MDP1221 ) is the 2025 of the Magic Drawing Pad&#x20;
 * OS: Android 14
+
+## Links
+
+* [Teoh on Tech - Note taking with XPPen Magic Drawing Pad 2025](xp-pen-magic-drawing-pad-2025-mdp1221-notes.md) 2025-12-05
+* [Teoh on Tech - Review of Magic Drawing Pad 2025 with Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) 2025-08-26
+* [Teoh on Tech - Review of XP-Pen Magic Drawing Pad 2025](https://www.youtube.com/watch?v=VivJ6R7Cmwg) 2025-08-14
+* [Michael Clarida - review of XP-Pen Magic Drawing Pad 2025](https://www.youtube.com/watch?v=I0pPUT5WoLY) 2025-07-09&#x20;
 
 ## Naming
 
@@ -20,9 +25,11 @@ XP-Pen calls this model the 2025 edition and not a "GEN2" because it has only mi
 
 In some livestreams I have referred to it as a "GEN2" because originally on the XP-Pen EU store they used he "GEN2" name in the title.
 
-## Naming
+## 2025 in name
 
-Unfortunately the 2025 does not appear in the name of the tablet in online stores. Likewise 2024 does not appear in the name of the older model.
+In some regions it does not have "2025" in the name. Likewise 2024 does not appear in the name of the older model.&#x20;
+
+If you are buying this device, verify the model number MDP1221 and that it supports DP-IN (which the 2025 model does not support)
 
 
 
