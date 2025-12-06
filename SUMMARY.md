@@ -330,7 +330,7 @@
   * [TSG: Hooks at start of strokes](troubleshooting/tsg-hooks-at-start-of-strokes.md)
   * [TSG: shoelaces at end of strokes](troubleshooting/tsg-shoelaces-at-end-of-strokes.md)
   * [TSG: Delay and straight lines or gaps at start of stokes](troubleshooting/tsg-straight-lines-at-start-of-stokes.md)
-  * [TSG: Pen not drawing in vertical or horizontal bands](troubleshooting/tsg-pen-not-drawing-inside-vertical-or-horizontal-bands-across-tablet.md)
+  * [TSG: Pen skipping vertical or horizontal bands](troubleshooting/tsg-pen-not-drawing-inside-vertical-or-horizontal-bands-across-tablet.md)
   * [TSG: WiFi and Internet problems with drawing tablets](troubleshooting/tsg-wifi-and-internet-problems-with-drawing-tablets.md)
   * [TSG: Tablet driver does not detect tablet](troubleshooting/tsg-tablet-driver-does-not-detect-tablet.md)
   * [TSG: computer does not detect display](troubleshooting/tsg-display-detection.md)
