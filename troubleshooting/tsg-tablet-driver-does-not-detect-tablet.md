@@ -72,7 +72,7 @@ The issue may be specific with your computer, so try with another computer.
 
 Windows has some limited built-in support for tablets. Not all tablets work with Windows PNP, but many do.
 
-How to test with the Windows PNP drivers: [**Testing with Windows PNP drawing tablet drivers**](testing-with-windows-pnp-drawing-tablet-drivers.md)
+How to test with the Windows PNP drivers: [**Testing with Windows PNP drawing tablet drivers**](diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
 
 If it does work correctly, it points to a problem with the manufacturer tablet driver instead of the tablet hardware.
 

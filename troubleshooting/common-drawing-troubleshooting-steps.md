@@ -38,7 +38,7 @@ GO HERE: [**SevenPens Tablet Tester**](../resources/sevenpens-tablet-tester.md)&
 
 ## Windows > Windows PNP drivers
 
-Try this: [Testing with Windows PNP drawing tablet drivers](testing-with-windows-pnp-drawing-tablet-drivers.md)
+Try this: [Testing with Windows PNP drawing tablet drivers](diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
 
 Often it can be a clue to what is going on.
 
