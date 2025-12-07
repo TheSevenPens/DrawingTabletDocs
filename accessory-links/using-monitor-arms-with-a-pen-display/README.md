@@ -11,41 +11,13 @@ Using a monitor arm with your pen display comes down to whether your pen display
 Instead of an arm, you might also explore [**stands**](../stands/) for your tablets.
 {% endhint %}
 
-## Handling pen displays without VESA support
+## Arm wobble
 
-### Adjustable brackets
+All monitor arms have some amount of wobble. Some have more and some have less. But NONE of them feel "rock solid"
 
-For smaller pen displays that are about the size of a laptop,  you can try an arm designed to hold a laptop.
+One thing that will help reduce the wobble is if the bottom of the pen display rests on something like your desk.
 
-Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
-![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
-
-If your pen there are some larger brackets available also.
-
-One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
-
-<figure><img src="../../.gitbook/assets/STAND-VAD1_04psd4 (1).webp" alt="" width="188"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/p1p1a_74b1c91e-ca38-41f6-83e2-1dc4d0e0fb23.webp" alt="" width="188"><figcaption></figcaption></figure>
-
-Some things to watchout for with these brackets before you buy them
-
-* Will they block access to any ports on your tablet
-* Will the brackets bo beyond the bezel and cover the glass of the tablet
-* How securely will they hold your tablet
-* How much weight can they support
-* How much wobble will they have if you try to draw on the tablet
-
-## Other examples
-
-* [r/drawingtablet - Kamvas Pro 16 Setup](https://www.reddit.com/r/drawingtablet/comments/1mrshrw/kamvas_pro_16_setup/) 8/16/2025
-  * north bayou pole desk mount arm
-  * vivo universal vesa adapter
-  * industrial strength velcro strips
-* [r/huion - DIY arm mount | Kamvas 16 (2021)](https://www.reddit.com/r/huion/comments/ryrt3x/diy_arm_mount_kamvas_16_2021/) 1/7/2022
-* [r/huion - Finally Found A Use For This Stand :)](https://www.reddit.com/r/huion/comments/159hnvy/finally_found_a_use_for_this_stand/) 7/25/2023
-
-
+If you want to have ZERO wobble you need to use a stand with your pen display.
 
 ## **Wacom Flex arm**
 
@@ -86,21 +58,45 @@ I've used this for a while with a 22" pen display and I really like it. [<mark s
 
 <div align="left"><figure><img src="../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-
-
 ## XP-Pen ACS15 Ergo Stand
 
 See this video
 
 {% embed url="https://www.youtube.com/watch?v=rA3WQDBzEn4" %}
 
-## Wobble
+## Handling pen displays without VESA support
 
-All monitor arms have some amount of wobble. Some have more and some have less. But NONE of them feel "rock solid"
+### Adjustable brackets
 
-One thing that will help reduce the wobble is if the bottom of the pen display rests on something like your desk.
+For smaller pen displays that are about the size of a laptop,  you can try an arm designed to hold a laptop.
 
-If you want to have ZERO wobble you need to use a stand with your pen display.
+Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
+![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
+
+If your pen there are some larger brackets available also.
+
+One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
+
+<figure><img src="../../.gitbook/assets/STAND-VAD1_04psd4 (1).webp" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/p1p1a_74b1c91e-ca38-41f6-83e2-1dc4d0e0fb23.webp" alt="" width="188"><figcaption></figcaption></figure>
+
+Some things to watchout for with these brackets before you buy them
+
+* Will they block access to any ports on your tablet
+* Will the brackets bo beyond the bezel and cover the glass of the tablet
+* How securely will they hold your tablet
+* How much weight can they support
+* How much wobble will they have if you try to draw on the tablet
+
+### Other examples
+
+* [r/drawingtablet - Kamvas Pro 16 Setup](https://www.reddit.com/r/drawingtablet/comments/1mrshrw/kamvas_pro_16_setup/) 8/16/2025
+  * north bayou pole desk mount arm
+  * vivo universal vesa adapter
+  * industrial strength velcro strips
+* [r/huion - DIY arm mount | Kamvas 16 (2021)](https://www.reddit.com/r/huion/comments/ryrt3x/diy_arm_mount_kamvas_16_2021/) 1/7/2022
+* [r/huion - Finally Found A Use For This Stand :)](https://www.reddit.com/r/huion/comments/159hnvy/finally_found_a_use_for_this_stand/) 7/25/2023
 
 
 
