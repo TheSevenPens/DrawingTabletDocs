@@ -64,6 +64,18 @@ The issue may be specific with your computer, so try with another computer.
 * If it doesn't work there, then that suggest the tablet itself is having problems.
 * If it does work there, then retry with your own computer.&#x20;
 
+## 3-in-1 cable: Check if data cable connected to power
+
+A 3-in-1 cable often has three ends;
+
+* USB-A or USB-C for power - this is often has a red end or a red flag on it
+* USB-A for data
+* HDMI
+
+Sometimes people don't connect the USB ends correctly. They might connect the cable intended for data into a power supply.
+
+Double check how it is connected.
+
 ## Reset the tablet
 
 * This is an option for SOME tablets. More here: [**Reset a drawing tablet**](reset-wacom-intuos-pro-tablets.md)
