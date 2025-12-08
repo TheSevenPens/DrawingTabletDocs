@@ -314,6 +314,7 @@
   * [DIAG: Checking tablet driver diagnostics](troubleshooting/diag-checking-tablet-driver-diagnostics.md)
   * [DIAG: Resetting a drawing tablet](troubleshooting/reset-wacom-intuos-pro-tablets.md)
   * [DIAG: Testing with Windows PNP drawing tablet drivers](troubleshooting/diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
+  * [TSG: Pointer moves in different or opposite direction of pen](troubleshooting/tsg-pointer-moves-in-different-or-opposite-direction-of-pen.md)
   * [TSG: Low pressure drawing problems](troubleshooting/tsg-low-pressure-drawing-problems.md)
   * [TSG: Difficult to reach maximum pressure](troubleshooting/tsg-difficult-to-reach-maximum-pressure.md)
   * [TSG: pointer stuck in corner of screen](troubleshooting/tsg-pointer-stuck-in-corner-of-screen.md)
