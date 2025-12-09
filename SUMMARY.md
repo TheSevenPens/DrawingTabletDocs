@@ -221,7 +221,7 @@
       * [Install OpenTabletDriver on MacOS](guides/drivers/opentabletdriver/install-opentabletdriver-on-macos.md)
       * [OpenTabletDriver application data directory](guides/drivers/opentabletdriver/opentabletdriver-application-data-directory.md)
       * [Uninstalling OpenTabletDriver on Windows](guides/drivers/opentabletdriver/uninstalling-opentabletdriver-on-windows.md)
-      * [OpenTabletDriver usage notes](guides/drivers/opentabletdriver/opentabletdriver-usage-notes.md)
+      * [Notes on OpenTabletDriver](guides/drivers/opentabletdriver/notes-on-opentabletdriver.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-smoothing.md)
       * [Pressure curves in OpenTabletDriver](guides/drivers/opentabletdriver/opentabletdriver-pressure.md)
       * [Slimy Scylla](guides/drivers/opentabletdriver/opentabletdriver-smoothing-1.md)

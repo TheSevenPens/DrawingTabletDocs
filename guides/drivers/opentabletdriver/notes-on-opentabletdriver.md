@@ -1,6 +1,10 @@
-# OpenTabletDriver usage notes
+# Notes on OpenTabletDriver
 
-## Related documents
+## Overview
+
+As I've gotten a chance to use open tablet driver here are some notes I've collected that I think will be useful for you if you ever want to explore using it for yourself.
+
+## Links
 
 * [OpenTabletDriver - an introduction](./)
 * [Install OpenTabletDriver on Windows](opentabletdriver-windows.md) &#x20;
@@ -8,11 +12,11 @@
 
 ## Use the OTD discord to get help
 
-* If you need help, join the OpenTabletDriver Discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR) &#x20;
-* **DO** ask questions in the `#support-windows` channel
+* Join the OTD Discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR) &#x20;
+* **DO** ask questions in the `#support-windows` channel.
 * **DO NOT** ask for support via DMs.
 
-## Do not ask your tablet manufacturer for help with OTD
+## Your tablet manufacturer will not help with OTD
 
 <mark style="color:red;">**Your tablet manufacturer WILL NOT help or support you in any way when you are using OpenTabletDriver instead of their own drivers.**</mark>&#x20;
 
@@ -54,5 +58,3 @@ By default, OTD **has no restriction on the hover height of your pen**. Most dri
 The maximum hover height is dependent on the specific model of tablet involved. For example with a Wacom Intuos Pro (PTH-860) my hover height goes from 10mm with the Wacom Driver to 20mm with Open Tablet driver.
 
 You can install a plug-in to control the hover height and have whatever limit you want.
-
-###

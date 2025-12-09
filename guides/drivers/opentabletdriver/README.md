@@ -38,7 +38,7 @@ To learn how to install and configure OTD on MacOS, go here: [**Using OpenTablet
 * OTD runs on Windows, Linux, and MacOS.&#x20;
 * People use OTD as their normal tablet driver for playing osu! and even when they are doing creative tasks.
 * OTD has a very active discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR) &#x20;
-* Review these usage notes to understand limitations and customizations: [**OpenTabletDriver usage notes**](opentabletdriver-usage-notes.md)
+* Review these usage notes to understand limitations and customizations: [**OpenTabletDriver usage notes**](notes-on-opentabletdriver.md)
 
 
 
