@@ -8,7 +8,7 @@ In many ways these tablets works exactly like you would expect a modern drawing 
 
 ## Basics
 
-* Release year: 1987
+* Release year: 1988
 * Preceded by: N/A
 * Succeeded by: [Wacom UD series](../wacom-ud-tablets.md)
 

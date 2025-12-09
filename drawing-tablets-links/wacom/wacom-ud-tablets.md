@@ -6,7 +6,7 @@ description: UD series
 
 ## Overview
 
-* Release year: 1994
+* Release year: 1993
 * Preceded by: [Wacom SD series](wacom-sd-tablets/)
 * Succeeded by: [Wacom Intuos1](wacom-intuos1.md)
 

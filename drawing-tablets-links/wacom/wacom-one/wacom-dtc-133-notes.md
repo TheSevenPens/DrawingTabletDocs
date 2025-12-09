@@ -4,6 +4,15 @@
 
 This solid but dated beginner tablet - and it is somewhat overpriced for what it is. If you can get it used for $150 it, then that is a good deal.
 
+## Basics
+
+* Model year: 2019
+* User manual: [http://101.wacom.com/UserHelp/en/TOC/DTC133.html](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)&#x20;
+* [Teoh On Tech review of Wacom One GEN1](https://www.youtube.com/watch?v=Hv2dpHkLAOE)
+* [Brad Colbow review of Wacom One GEN1](https://www.youtube.com/watch?v=EFvpOWZDGUU) &#x20;
+* [Create Now Sleep Later review of Wacom One GEN1](https://youtu.be/VPbAUF7AZhA) &#x20;
+* [Aaron Rutten review of Wacom One GEN1](https://www.youtube.com/watch?v=D4DFFH-hPr8) &#x20;
+
 ## Overall drawing experience
 
 Taking the screen and the pen into consideration, this tablet provides a DECENT drawing experience but not EXCELLENT. It is very suited for beginners.

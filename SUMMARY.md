@@ -509,6 +509,7 @@
       * [Wacom UD tablets](drawing-tablets-links/wacom/wacom-ud-tablets.md)
       * [Wacom SD tablets](drawing-tablets-links/wacom/wacom-sd-tablets/README.md)
         * [Wacom SD-510C notes](drawing-tablets-links/wacom/wacom-sd-tablets/wacom-sd-510c-notes.md)
+      * [Wacom WT Series](links/drawtab-links/wacom/wacom-wt-series.md)
       * [Wacom Cintiq](drawing-tablets-links/wacom/wacom-cintiq/README.md)
         * [Wacom Cintiq 22 2019 (DTK-2260) notes](drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260-notes.md)
         * [Wacom Cintiq 24 touch 2025 (DTH-246) notes](drawing-tablets-links/wacom/wacom-cintiq/wacom-dth-246-notes.md)
