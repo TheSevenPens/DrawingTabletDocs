@@ -9,8 +9,3 @@
 This diagram is my summary how their consumer line of tablets is evolving
 
 <figure><img src="../../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
-
-## Branding
-
-* "Wacom One" now includes both pen displays and pen tablets
-* The successors to the Wacom Intuos pen tablets (CTL-4100\*, CTL-6100\*) are: the Wacom One (Gen2) pen tablets (CTC-4110WL, CTC-6110WL).
