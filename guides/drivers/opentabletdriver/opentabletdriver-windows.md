@@ -109,9 +109,8 @@ OTD requires a specific version of the .NET Runtime to be installed on your comp
 * Move the zip file into the  `C:\OpenTabletDriver`  folder
 * Right-click on the zip file, then select **Extract All**.&#x20;
   * This creates a folder with a name like `C:\OpenTabletDriver\OpenTabletDriver-0.6.6.2_win-x64`&#x20;
-  *
 
-## PHASE 2: BASIC OTD USAGE
+## PHASE 2: OTD Basics and connecting to a tablet
 
 ### STEP 2.1: Launch the OpenTabletDriver app for the first time
 
@@ -139,8 +138,6 @@ This is an important thing to learn, because you will be doing it a lot.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-
-
 ### **STEP** 2.&#x33;**: Understanding the OTD app on Windows**
 
 For you to use OTD on Windows, the OTD app MUST always be running.
@@ -161,7 +158,9 @@ Do not worry about which monitor the mouse is on. We will cover that soon.
 
 Pressure and will not work right now. We will cover that soon.&#x20;
 
-### STEP 2.6: Configure tablet to display mapping
+## PHASE 3: Configuring OTD to work with your tablet
+
+### STEP 3.1: Configure tablet to display mapping
 
 * In the OTD App, go to **Output** > **Tablet** Section
 * In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
@@ -171,7 +170,7 @@ Pressure and will not work right now. We will cover that soon.&#x20;
 * Also there will be no stroke distortion - for example a circle on tablet makes a circle on the monitor with no distortion/stretching
 * Press APPLY and then press SAVE.&#x20;
 
-### STEP 2.7: Understanding APPLY and SAVE&#x20;
+### STEP 3.2: Understanding APPLY and SAVE&#x20;
 
 The instructions have already asked you to press APPLY and SAVE. Let's take a moment to understand these actions a bit better.
 
@@ -186,14 +185,14 @@ APPLY
 
 To keep things simple for you for now, I suggest you always click APPLY then SAVE whenever you make a change in the OTD app.
 
-### STEP 2.8: Install the Windows Ink plugin
+### STEP 3.3: Install the Windows Ink plugin
 
 * In the OTD app, navigate to **Plugins** > **Open Plugin Manager**
 * Click on the **Windows Ink** plugin, then click **Install**&#x20;
 * The Windows Ink plugin will appear at the top of the plugin list
 * Close the **Plugin Manager** window
 
-### STEP 2.9: Configure Windows Ink mapping mode
+### STEP 3.4: Configure Windows Ink mapping mode
 
 * In the OTD app, on the bottom, change the **mode** dropdown:
   * from **Absolute Mode**&#x20;
@@ -204,7 +203,7 @@ To keep things simple for you for now, I suggest you always click APPLY then SAV
 NOTE: You will only see **Windows Ink Absolute Mode** listed if you previously enabled the Windows Ink plugin.
 {% endhint %}
 
-### STEP 2.10: Configure the pen
+### STEP 3.5: Configure the pen
 
 Navigate to the **Pen Settings** tab
 
@@ -218,12 +217,12 @@ Click **SAVE** and **APPLY**.
 
 NOTE: You cannot assign the pen buttons to take MOUSE actions such as right-click and left-click, etc.
 
-### STEP 2.11: Configure your drawing application to use Windows Ink
+### STEP 3.6: Configure your drawing application to use Windows Ink
 
 * The specific instructions vary per app.&#x20;
 * Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
 
-### STEP 2.12 Checkpoint
+### STEP 3.7 Checkpoint
 
 At this point you should be able to effectively draw with OTD. Pressure and Tilt should work.
 
@@ -231,9 +230,9 @@ I suggest you install Krita and configure it to use Windows Ink&#x20;
 
 Try some basic drawing and see if everything is working
 
-## PHASE 3: Optional customization
+## PHASE 4: Optional customization
 
-### STEP 3.1 Start OpenTabletDriver when Windows starts
+### STEP 4.1 Start OpenTabletDriver when Windows starts
 
 * Right-click on OpenTabletDriver.UX.Wpf.exe
 * Select **Create Shortcut**
@@ -245,11 +244,11 @@ Try some basic drawing and see if everything is working
 * This will open a new Explorer window pointing to a folder called **Startup**
 * Move the shortcut to the **Startup** folder in that explorer window
 
-### STEP 3.2 Pressure curves
+### STEP 4.2 Pressure curves
 
 By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](opentabletdriver-pressure.md)
 
-### STEP 3.3 Smoothing
+### STEP 4.3 Smoothing
 
 By default OTD performs no smoothing on the pen data. This is desirable because&#x20;
 
@@ -261,7 +260,7 @@ Two ways to introduce smoothing
 * **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)&#x20;
 * **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
 
-### STEP 3.4 Configure tablet buttons
+### STEP 4.4 Configure tablet buttons
 
 * Open the **Auxiliary Settings** tab
 * each button shows up as an **Auxiliary Binding**.
@@ -269,7 +268,7 @@ Two ways to introduce smoothing
 
 <figure><img src="../../../.gitbook/assets/image (622).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### STEP 3.5 Display toggle
+### STEP 4.5 Display toggle
 
 To allow rapid switching between monitors you have two options:
 
