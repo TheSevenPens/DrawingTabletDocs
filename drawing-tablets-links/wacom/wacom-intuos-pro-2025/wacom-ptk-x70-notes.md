@@ -44,16 +44,23 @@ But do check this document for any updates since the original video was publishe
 
 * Your first pro tablet? → YES
 * Want the best? → YES
-* Upgrade from 2017 edition? → MAYBE
+* Upgrade from 2017 edition? → PROBABLY NOT. Unless there is a specific benefit you will get from the Intuos Pro 2025, there is not point in upgrading.
 * Need multitouch support? → NO
 
 ## Should you buy the Intuos Pro 2017 or the Intuos Pro 2025
 
-Complex topic. Will address in May 2025.
+Overall I do recommend the Intuos Pro 2025 because in a few years (by 2030 at the latest I expect) the support lifetime for the Intuos Pro 2017 will end.&#x20;
+
+After that point:
+
+* Wacom will no longer issue driver updates for the tablet.
+* Wacom support will likely not help you if you ask them for help.
+
+You can certainly still use the Intuos Pro 2017 but you should be aware of those consequences.&#x20;
 
 ## Historical context
 
-From 2009 to 2025, there have been 4 editions of profesional pen tablets from Wacom and all have maintain a consistent layout with expresskeys on the left. Therefore the new layout of this tablet was quite surprising for many of us.
+From 2009 to 2025, there have been 4 editions of professional pen tablets from Wacom and all have maintain a consistent layout with expresskeys on the left. Therefore the new layout of this tablet was quite surprising for many of us.
 
 <figure><img src="../../../.gitbook/assets/Slide_20250429_224728.png" alt="" width="563"><figcaption></figcaption></figure>
 
