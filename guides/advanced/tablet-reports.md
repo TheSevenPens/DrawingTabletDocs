@@ -37,6 +37,8 @@ However, some people do play games with tablets. For example many people who pla
 
 I think tablet brands are aware of this desire from gamers but they haven't done anything to make the tablets work better for these scenarios.
 
+[Wacom - Does a higher, or faster, report rate mean better performance?](https://support.wacom.com/hc/en-us/articles/1500006331322-Does-a-higher-or-faster-report-rate-mean-better-performance) ([archive](https://archive.is/s6gOg))
+
 ## Finding report rates
 
 Different tools can be used: [Measuring report rate](../../process/measuring-report-rate.md)
