@@ -27,21 +27,22 @@ The report contains other interesting things, but these are the critical ones fo
 
 ## Higher report rates
 
-As of Jan 2025, the highest report rates stated for a tablet are 300Hz. And for Wacom specifically only 220Hz. This can be surprising for those of us who are familiar with mice that have a report rate of one 1000Hz.
+### The current state of the art
 
-As far as I know there is no clear hardware or system limitation to why tablets. don't have higher report rates.
+As of Jan 2025, the highest report rates stated for a tablet are 300Hz. Even the leading brand, Wacom, only supports a maximum of 220Hz. Numbers in the 200Hz to 300Hz are surprising when we see mice that have report rate of 1000Hz.
 
-I believe the reason we don't see higher report rates is that for a drawing scenario an artist would not notice a high report rate. And so the current report rates are "good enough for their primary customer and table brands don't seem interested in improving them.
+### Is there a hardware limitation?
 
-However, some people do play games with tablets. For example many people who play osu use a drawing tablet. And for a long time, they've wanted a drawing tablet with 1000 hz report rate. Because it would really help them play better.
+No. As far as I know there is no clear hardware or system limitation.
 
-I think tablet brands are aware of this desire from gamers but they haven't done anything to make the tablets work better for these scenarios.
+### Why don't we see higher report rates
+
+I believe the reason is simple: The typical customer for a drawing tablet would experience no benefit while the tablet manufacturer would have to implement a more expensive design. In other words: Nobody benefits. The current state of affairs is "good enough".
+
+See: I think tablet brands are aware of this desire from gamers but they haven't done anything to make the tablets work better for these scenarios.
 
 [Wacom - Does a higher, or faster, report rate mean better performance?](https://support.wacom.com/hc/en-us/articles/1500006331322-Does-a-higher-or-faster-report-rate-mean-better-performance) ([archive](https://archive.is/s6gOg))
 
 ## Finding report rates
 
 Different tools can be used: [Measuring report rate](../../process/measuring-report-rate.md)
-
-
-
