@@ -23,4 +23,4 @@ layout:
 
 ## Resources
 
-[Wacom - The history of Wacom tablets](https://tablet.wacom.co.jp/wacom-pentablet-history/) 2022 (archive)&#x20;
+[Wacom - The history of Wacom tablets](https://tablet.wacom.co.jp/wacom-pentablet-history/) 2022 ([archive](https://archive.is/9GFOQ))&#x20;
