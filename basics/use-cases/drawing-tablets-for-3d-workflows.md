@@ -6,7 +6,7 @@ For the overall buying guide: [Buying a drawing tablet](../../buying-a-drawing-t
 
 ## Overview
 
-I don't do 3D work myself, so this document is based on feedback I've been given by others and what I have observed in online forums. Please share any [**feedback via our discord**](../../about-thesevenpens/drawing-tablet-discord-server.md).
+I don't do 3D work myself, so this document is based on feedback I've been given by others and what I have observed in online forums. Please share any [**feedback via our discord**](../../about-thesevenpens/discord-server.md).
 
 It seems that the 3D workflow tends has some special needs, ans for that reason we need to look at this use case specifically.
 
