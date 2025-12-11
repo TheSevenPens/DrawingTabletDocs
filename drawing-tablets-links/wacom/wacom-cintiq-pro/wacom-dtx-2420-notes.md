@@ -1,8 +1,16 @@
 # Cintiq Pro 24 (DTx-2420)  notes
 
-## Note
+## Summary
 
 I don't have this tablet, but people still ask about it. So, have created this page to collect answers to common questions people have about the tablet.
+
+## Is this tablet worth getting?
+
+This is one of the most beloved Wacom pen displays. The fundamental handling of pressure, tilt, responsiveness are just as good in this pen display compared even to Wacom pen display models in 2025.
+
+The challenge with this model is that (based on previous data) it will reach its support lifetime sometime in 2028 to 2030 (we estimate). After that point, newer Wacom drivers won't work with it and Wacom support will not help you with the tablet. Then you have to use it as an [**older tablet**](../../../guides/general/using-older-drawing-tablets.md).
+
+The only issue that some people have complained about with this tablet is fan noise. For some people it is silent, but for some people the fan noise is audible or even loud.
 
 ## Basics
 
