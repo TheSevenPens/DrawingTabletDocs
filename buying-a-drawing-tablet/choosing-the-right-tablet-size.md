@@ -14,8 +14,6 @@ I've given convenient labels ("small", "medium", "large") to drawing tablets. Th
 
 <table><thead><tr><th width="188">Size category</th><th width="170.33333333333331">Pen tablet</th><th width="249.66666666666669">Pen display</th></tr></thead><tbody><tr><td>SMALL</td><td>Typical: 7"<br>Range: 6" to 9"</td><td>Typical: 13"<br>Range: 11" to 14"</td></tr><tr><td>MEDIUM</td><td>Typical: 11"<br>Range: 10" to 13"</td><td>Typical: 16"<br>Range: 15" to 19"</td></tr><tr><td>LARGE</td><td>Typical: 15"<br>Range: 14" to 19"</td><td>Typical: 24"<br>Range: 20" to 29"</td></tr><tr><td>EXTRA LARGE</td><td>Typical: 23"<br>Range: 20" to29"</td><td>Typical: 32"<br>Range: 30" to 33"</td></tr></tbody></table>
 
-
-
 <figure><img src="../.gitbook/assets/image (495).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Manufacturer size categories
@@ -26,8 +24,6 @@ Here's are some great examples:
 
 * The XP-Deco L is much closer in size to a Wacom Intuos Pro Medium than the Intuos Pro Large.
 * Inspiroy 2L is sort of in-between a medium and large size.
-
-
 
 <table><thead><tr><th>Tablet and manufactr</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong>  <br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td> 11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong> </p><p>(PTH-860)</p></td><td>LARGE</td><td> 12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
 
@@ -82,7 +78,7 @@ Check if there is a way you can try a tablet before you buy it. For example
 
 ## Simulate the tablet before you buy
 
-If you can get access to the tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](simulating-tablet-size-with-cardboard.md).&#x20;
+If you can get access to the tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](../buying-guide/simulating-tablet-size.md).&#x20;
 
 ## **In relation to paper size**
 

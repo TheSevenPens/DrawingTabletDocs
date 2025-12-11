@@ -1,4 +1,4 @@
-# Switching from a pen tablet to a pen display
+# Switching to a pen display
 
 ## Overview
 
@@ -6,7 +6,7 @@ If you already have a pen tablet (a screenless tablet) and are considering getti
 
 ## A pen tablet is not necessarily an "upgrade"
 
-Many people mistakenly believe that a pen display is always better than a pen tablet. They often thinking of moving to moving to a pen display as an "upgrade". If that's is your starting point, I ask your to take step back and consider that each has its own merits. And many people PREFER pen tablets to pen displays - even professional artists. More here: [**pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md).
+Many people mistakenly believe that a pen display is always better than a pen tablet. They often thinking of moving to moving to a pen display as an "upgrade". If that's is your starting point, I ask your to take step back and consider that each has its own merits. And many people PREFER pen tablets to pen displays - even professional artists. More here: [**pen tablets vs pen displays**](../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md).
 
 ## If it feels "weird" to draw on your pen tablet
 

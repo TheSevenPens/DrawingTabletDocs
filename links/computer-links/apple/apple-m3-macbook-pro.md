@@ -1,10 +1,8 @@
-# M3 MacBook Pro
+# Apple M3 MacBook Pro
 
 ## Overview
 
 I've used it for about 6 months as of September 2024 and my experience with it has been fantastic. I have no problems recommending it.&#x20;
-
-
 
 ## Specs
 

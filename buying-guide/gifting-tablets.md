@@ -1,4 +1,4 @@
-# Buying a drawing tablet as a gift
+# Gifting tablets
 
 ## Introduction
 
@@ -33,7 +33,7 @@ They are separated by type and size of tablet, and options are available at mult
 
 ## When ready look through the full buying guide
 
-The full buying guide: [Buying a drawing tablet](./)
+The full buying guide: [Buying a drawing tablet](../buying-a-drawing-tablet/)
 
 These tips will be useful: Video: [Practical tips for buying a drawing tablet ](https://youtu.be/57-W_dmtLJU)
 

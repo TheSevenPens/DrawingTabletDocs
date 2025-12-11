@@ -1,4 +1,4 @@
-# Common problems with drawing tablets
+# Common problems
 
 **Problems all drawing tablets can have** &#x20;
 

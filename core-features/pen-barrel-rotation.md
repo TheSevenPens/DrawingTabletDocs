@@ -6,19 +6,19 @@ Barrel rotation is very easy to understand. It's just a rotation of the pen alon
 
 The photos below represent an untilted pen. The orange circle will indicate the barrel rotation.
 
-<figure><img src="../../.gitbook/assets/Pen3DSim-render (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pen3DSim-render (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Pen3DSim-render (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pen3DSim-render (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Pen3DSim-render (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pen3DSim-render (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Below are diagrams showing both tilt and barrel rotation. Tilt and barrel rotation are independent. Unfortunately people confuse them frequently so it's good to take a look at a tilted pen and then see barrel rotation.
 
 The green circle shows the tilt azimuth. The purple circle shows the tilt altitude.
 
-<figure><img src="../../.gitbook/assets/Pen3DSim-render (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pen3DSim-render (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Pen3DSim-render (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pen3DSim-render (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 In the diagram below, barrel rotation is indicated by the arrows that go around the long axis of the pen (as indicated by the dotted line).&#x20;
 

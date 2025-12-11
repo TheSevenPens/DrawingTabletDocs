@@ -193,7 +193,7 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 
 ## Barrel rotation
 
-The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../core-features/pen-barrel-rotation/)  &#x20;
+The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../core-features/pen-barrel-rotation.md)  &#x20;
 
 ## Eraser
 

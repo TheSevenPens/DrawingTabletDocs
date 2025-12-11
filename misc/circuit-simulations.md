@@ -1,4 +1,4 @@
-# Circuit simulations
+# Circuit simulators
 
 Some of my videos have simulations of circuits. To create those simulations I use **Falstad** https://www.falstad.com/circuit/&#x20;
 

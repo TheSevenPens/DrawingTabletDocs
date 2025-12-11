@@ -184,7 +184,7 @@ Depending on the kind of tablet it will draw different amounts of power. Pen tab
 
 ## So-called "PRO" tablets
 
-Some tablets are labelled "PRO"- for example Wacom Cintiq Pro or Wacom Intuos Pro. But there is no clear definition of Pro in the industry. And many new non-Pro tablets are better than older Pro tablets. More here: [**Buying "PRO" tablets**](buying-pro-tablets.md)
+Some tablets are labelled "PRO"- for example Wacom Cintiq Pro or Wacom Intuos Pro. But there is no clear definition of Pro in the industry. And many new non-Pro tablets are better than older Pro tablets. More here: [**Buying "PRO" tablets**](../buying-guide/pro-tablets.md)
 
 ## Picking tablets with more recent tech
 
@@ -202,7 +202,7 @@ Drawing tablets have been released over many years. That means when you shop onl
 
 ## Preparing for a drawing tablet
 
-* **Troubleshooting -** At some point, something is going to go wrong. I highly suggest you familiarize yourself with the [**Common problems with drawing tablets**](../troubleshooting/common-problems.md) and be aware of these [**Troubleshooting guides**](../troubleshooting/).
+* **Troubleshooting -** At some point, something is going to go wrong. I highly suggest you familiarize yourself with the [**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md) and be aware of these [**Troubleshooting guides**](../troubleshooting/).
 * **Accessories** - There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessory-links/)
 * **Purchasing** - Before you actually purchase the tablet. Go through this [**Before-purchase checklist**](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/getting-started-with-a-drawing-tablet.md)&#x20;

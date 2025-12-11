@@ -1,4 +1,4 @@
-# USB-C Cable testing
+# Testing USB-C cables
 
 Because it is hard to tell what a USB-C cable supports, I use this tool to test them: BLE caberQU
 
