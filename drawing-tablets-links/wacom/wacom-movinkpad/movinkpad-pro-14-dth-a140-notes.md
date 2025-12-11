@@ -44,7 +44,7 @@ Very accurate across the screen
 
 ### MovinkPad Pro 14 cover
 
-See [my notes on the movinkpad cover](../../../links/drawtab-links/wacom/wacom-movinkpad/wacom-movinkpad-cover-notes.md)
+See [my notes on the movinkpad cover](../../../links/drawtab-links/wacom/wacom-movinkpad/wacom-ack45633z-notes.md)
 
 
 
