@@ -22,7 +22,7 @@ Normally, you would only be interested in uninstalling a tablet driver if you do
 
 ### Extended uninstall process
 
-Some tablet drivers leave bits of themselves installed, even after an uninstallation process. To ensure nothing remains, use the [**Tablet driver cleanup tool**](../guides/drivers/tablet-driver-cleanup-tool.md).
+Some tablet drivers leave bits of themselves installed, even after an uninstallation process. To ensure nothing remains, use the [**Tablet driver cleanup tool**](tablet-driver-cleanup-tool.md).
 
 ### Starting the uninstall process from the driver
 

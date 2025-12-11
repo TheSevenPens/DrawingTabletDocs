@@ -29,11 +29,11 @@ The app is called "HuionTablet"
 
 ## XP-Pen
 
-The app is called "PenTablet"
+The app is called "PenTablet" (old name) or "XPPenTablet" (old name)&#x20;
 
-* MacOS: Search for PenTablet
-* MacOS: In the menu bar there is an XPPEN logo that opens PenTablet 
-* Windows: Search for PenTablet
+* MacOS: Search for XPPenTablet
+* MacOS: In the menu bar there is an XPPEN logo that opens XPPenTablet 
+* Windows: Search for XPPenTablet
 
 
 

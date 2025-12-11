@@ -87,7 +87,7 @@ Example: [https://www.reddit.com/r/XPpen/comments/1h66ei5/beware\_of\_the\_deco\
 
 **My testing**
 
-* Testing process: I begin with the pen 0.5mm from the surface and moved up by 0.5 mm increments and noted any jitter I experienced. I used my hover height tool to keep the tip of the pen at specific distances from the tablet surface. See: [Measuring hover height](../../../process/measuring-hover.md).
+* Testing process: I begin with the pen 0.5mm from the surface and moved up by 0.5 mm increments and noted any jitter I experienced. I used my hover height tool to keep the tip of the pen at specific distances from the tablet surface. See: [Measuring hover height](../../../process/measuring/measuring-hover.md).
 * With the Deco Pro GEN2 MW
   * **<= 7mm :** No jitter
   * **>7mm to <=10 mm** : Slight & sporadic jitter

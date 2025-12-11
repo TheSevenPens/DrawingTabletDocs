@@ -66,4 +66,4 @@ These examples were created with a Wacom Intuos Pro Medium (2017) tablet
 
 ## Testing
 
-Here is how i test for banding: [Measuring pressure banding](../../process/measuring-pressure-banding.md)
+Here is how i test for banding: [Measuring pressure banding](../../process/measuring/measuring-pressure-banding.md)

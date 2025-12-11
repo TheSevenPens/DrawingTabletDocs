@@ -94,7 +94,7 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 * Tilt compensation
 * Tilt at edges and corners
 * Diagonal wobble
-  * [Measuring diagonal wobble](measuring-diagonal-wobble.md)
+  * [Measuring diagonal wobble](measuring/measuring-diagonal-wobble.md)
 * Artifacts at low pressure
 * Pressure banding
 * PEN Pressure range (IAF and MAX)

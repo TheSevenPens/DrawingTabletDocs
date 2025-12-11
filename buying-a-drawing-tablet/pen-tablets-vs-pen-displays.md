@@ -166,7 +166,7 @@ Also with a pen display, you will need to protect it more because it is more sen
 
 In my testing I have found no clear pattern that indicates that pen tablets or pen displays are prone to more or less diagonal wobble. Instead it seems to be linked to the specific tablet model involved.
 
-You can see the different diagonal wobble samples I have collected here: [**Diagonal wobble samples**](../process/diagonal-wobble-samples.md).
+You can see the different diagonal wobble samples I have collected here: [**Diagonal wobble samples**](../process/diagonal-wobble-data.md).
 
 ## Pen pressure handling
 

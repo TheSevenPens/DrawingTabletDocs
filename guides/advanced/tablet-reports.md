@@ -45,4 +45,4 @@ See: I think tablet brands are aware of this desire from gamers but they haven't
 
 ## Finding report rates
 
-Different tools can be used: [Measuring report rate](../../process/measuring-report-rate.md)
+Different tools can be used: [Measuring report rate](../../process/measuring/measuring-report-rate.md)

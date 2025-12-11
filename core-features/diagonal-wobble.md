@@ -8,13 +8,13 @@ You might also see this referred to as: "jitter"
 
 ## Companion video
 
-I covered wobble extensively in this video on pen display accuracy ([https://youtu.be/M4rEk\_RNBrM](https://youtu.be/M4rEk\_RNBrM))
+I covered wobble extensively in this video on pen display accuracy ([https://youtu.be/M4rEk\_RNBrM](https://youtu.be/M4rEk_RNBrM))
 
 ## Appearance&#x20;
 
 If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on diagonal lines. The diagram below exaggerates the wobble
 
-<figure><img src="../../.gitbook/assets/Artboard 1-80.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Artboard 1-80.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Characteristics
 
@@ -91,7 +91,7 @@ These are my wobble samples across a number of tablets.&#x20;
 
 [https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC](https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC)
 
-All were created using my a standard testing process: [**Diagonal wobble testing**](../../process/measuring-diagonal-wobble.md).
+All were created using my a standard testing process: [**Diagonal wobble testing**](../process/measuring/measuring-diagonal-wobble.md).
 
 ## Brand-specific notes
 
@@ -105,6 +105,5 @@ Some recent models with XP-Pen feature some excessive [**diagonal wobble**](diag
 
 ## Discussions
 
-* [https://www.reddit.com/r/huion/comments/9x3qwg/huion\_kamvas\_pro\_13\_regarding\_the\_infamous\_line/  \
-  ](https://www.reddit.com/r/huion/comments/9x3qwg/huion\_kamvas\_pro\_13\_regarding\_the\_infamous\_line/)
+* [https://www.reddit.com/r/huion/comments/9x3qwg/huion\_kamvas\_pro\_13\_regarding\_the\_infamous\_line/  <br>](https://www.reddit.com/r/huion/comments/9x3qwg/huion_kamvas_pro_13_regarding_the_infamous_line/)
 

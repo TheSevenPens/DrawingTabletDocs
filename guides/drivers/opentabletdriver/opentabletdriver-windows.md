@@ -57,7 +57,7 @@ On the list of supported tablets, if your tablet is marked as "Zadig WinUSB" - t
 <mark style="color:red;">You</mark> <mark style="color:red;"></mark><mark style="color:red;">**MUST**</mark> <mark style="color:red;"></mark><mark style="color:red;">uninstall any existing tablet drivers on your computer. If you leave them installed they will interfere with OTD.</mark>
 {% endhint %}
 
-* Follow these instructions: [**Uninstalling tablet drivers**](../../../basics/uninstalling-tablet-drivers.md)&#x20;
+* Follow these instructions: [**Uninstalling tablet drivers**](../uninstalling-tablet-drivers.md)&#x20;
 * To ensure nothing remains, run this tool[**Tablet driver cleanup tool**](../tablet-driver-cleanup-tool.md).
 
 ### STEP 1.2: Create a folder for OTD

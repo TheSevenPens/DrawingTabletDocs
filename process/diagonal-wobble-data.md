@@ -1,4 +1,4 @@
-# Diagonal wobble samples
+# Diagonal wobble data
 
 Once you have learned about [**diagonal wobble**](../core-features/diagonal-wobble.md) , you may want to see how much of it specific tablets have.
 
@@ -8,5 +8,5 @@ They are organized by brand
 
 <div align="left"><figure><img src="../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-More info: [Measuring diagonal wobble](measuring-diagonal-wobble.md).
+More info: [Measuring diagonal wobble](measuring/measuring-diagonal-wobble.md).
 

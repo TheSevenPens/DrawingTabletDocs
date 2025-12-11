@@ -11,7 +11,7 @@ It is delicate enough to measure 0.1g which makes it good for IAF testing and ca
 * [Link to scale on us solid site](https://ussolid.com/u-s-solid-0-1-g-precision-balance-5-kg-digital-analytical-lab-electronic-scale-5100-g-x-0-1g.html) ([archived link](https://archive.is/JtDyk))
 * [Instruction manual](https://file.ussolid.com/content/USS-DBS/Instruction%20Manual-USS-DBS86%20Precision%20Balance.pdf) &#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-17 215953.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-17 215953.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Connecting the scale to a computer
 
@@ -38,7 +38,7 @@ As of September 2025 my setup looks like this:
 
 
 
-<figure><img src="../.gitbook/assets/2025_09_24 Pressure Testing (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025_09_24 Pressure Testing (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Videos
 

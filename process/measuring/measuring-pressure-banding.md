@@ -2,7 +2,7 @@
 
 ## Background
 
-See: [Pressure banding](../core-features/pen-pressure/pressure-banding.md)
+See: [Pressure banding](../../core-features/pen-pressure/pressure-banding.md)
 
 ## How to test
 
@@ -23,9 +23,9 @@ Perform some contrast enhancement on the image to help see the banding
 
 There is no banding here.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## A bad result - banding visible
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 

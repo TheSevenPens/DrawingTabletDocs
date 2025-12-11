@@ -10,7 +10,7 @@ It's a small PNG file with black and white pixels.
 
 There are 8 samples.&#x20;
 
-<figure><img src="../.gitbook/assets/7P Sharpness test image ver 1.0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7P Sharpness test image ver 1.0.png" alt=""><figcaption></figcaption></figure>
 
 ## Process
 
