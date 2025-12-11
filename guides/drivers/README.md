@@ -16,6 +16,8 @@ Without tablet drivers you won't be able to:
 * Ensure that you have matching aspect ratios between your tablet and display so that you are drawing without distortion
 * Control the pressure curve of the pen - though you will still be able to control it in those applications that support it.&#x20;
 
+Related video: Why you need to install tablet drivers: [https://www.youtube.com/watch?v=qUsZUcH6SWk](https://www.youtube.com/watch?v=qUsZUcH6SWk)
+
 ## Driver downloads
 
 * Wacom: [https://www.wacom.com/en-us/support/product-support/drivers](https://www.wacom.com/en-us/support/product-support/drivers) &#x20;

@@ -42,8 +42,6 @@ Then verify that box contains everything that is expected.
 
 99.9999% if of the time it will have everything is supposed to have. But every now and then you might encounter a box that is missing a cable.
 
-&#x20;
-
 ## Prepare for replacing your pen
 
 The pen has somewhat delicate parts inside and is the most likely thing you will break. If you lose or damage your pen, there are some things you need to know:
@@ -59,6 +57,7 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 * You can go to the manufacturer site and download the driver and install now before your tablet even arrives.&#x20;
 * If the tablet driver is installed, when you connect the tablet with USB cable the driver will just detect the tablet and the pen will work as soon as it comes close to the tablet (about 10mm)
 * The drivers install an app you can use to configure the driver. The apps have different names depending on your tablet brand
+* Why you need to install tablet drivers: [https://www.youtube.com/watch?v=qUsZUcH6SWk](https://www.youtube.com/watch?v=qUsZUcH6SWk)
 * More here: [**drivers**](../guides/drivers/)
 
 ## Connect the tablet
