@@ -14,11 +14,11 @@ Make sure your brush shape is something that would show barrel rotation clearly.
 
 A shape like this would work
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 whereas a shape like this would not demonstrate barrel rotation because it is symetric about its center.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Krita: enabling barrel rotation
 
@@ -28,7 +28,7 @@ whereas a shape like this would not demonstrate barrel rotation because it is sy
 * Uncheck all the options under **Enable Pen Settings**, but check **Rotation**.
 * Then go to the canvas of your document and try rotating the pen around its long axis
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
