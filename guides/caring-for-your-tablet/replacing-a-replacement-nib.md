@@ -15,8 +15,8 @@ I recommend your double check your pen against photos of the pen on the manufact
 
 See:
 
-* [**Finding the model number of your pen**](../general/finding-the-model-number-of-your-pen.md)
-* [**Finding the model number of a your tablet**](../general/finding-the-model-number-of-your-drawing-tablet.md)&#x20;
+* [**Finding the model number of your pen**](../general/finding-pen-model-number.md)
+* [**Finding the model number of a your tablet**](../general/finding-tablet-model-number.md)&#x20;
 
 ## Only use compatible nibs
 

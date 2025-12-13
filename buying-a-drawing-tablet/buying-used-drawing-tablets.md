@@ -81,7 +81,7 @@ You can find many tablets on eBay and I've had a good experience with the 25+ ta
 
 ## Verifying the model you are buying
 
-You must be extra careful to verify you are purchasing the correct tablet. Always verify the MODEL NUMBER not just the name of the tablet. The importance of using the model number is explained here: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md). If the seller is not sure of the model number, see this article: [Finding the model number of a drawing tablet](../guides/general/finding-the-model-number-of-your-drawing-tablet.md)
+You must be extra careful to verify you are purchasing the correct tablet. Always verify the MODEL NUMBER not just the name of the tablet. The importance of using the model number is explained here: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md). If the seller is not sure of the model number, see this article: [Finding the model number of a drawing tablet](../guides/general/finding-tablet-model-number.md)
 
 Don't rely on the model number in the listing title, always check the photos of the product from the seller.
 

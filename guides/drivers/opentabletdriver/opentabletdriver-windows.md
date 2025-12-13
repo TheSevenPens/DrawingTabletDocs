@@ -45,7 +45,7 @@ Using OTD for doing artwork is an advanced scenario. Try this only if you are co
 
 * Find your tablet here: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
   * Note that some tablets are listed by name and some by model number
-  * To find your tablet's model number: [Finding the model number of your drawing tablet](../../general/finding-the-model-number-of-your-drawing-tablet.md)
+  * To find your tablet's model number: [Finding the model number of your drawing tablet](../../general/finding-tablet-model-number.md)
 
 {% hint style="warning" %}
 On the list of supported tablets, if your tablet is marked as "Zadig WinUSB" - there are special requirements to install this that are NOT covered in this document. Consult the OTD docs for help.

@@ -2,7 +2,7 @@
 
 Introduction
 
-Not all drawing talbots support Windows PNP drivers. .And even if they do you have to be aware that there are limitations. On this page I will collect. some basic compatibility testing I've done for some tablets. More here: [Windows PNP support for drawing tablets](windows-pnp-support-for-drawing-tablets.md)
+Not all drawing talbots support Windows PNP drivers. .And even if they do you have to be aware that there are limitations. On this page I will collect. some basic compatibility testing I've done for some tablets. More here: [Windows PNP support for drawing tablets](windows-pnp-support.md)
 
 If the risk is a specific tablet you'd like me to test .then please contact me and let me know. .If I have the tablet I'd be happy to test it.
 

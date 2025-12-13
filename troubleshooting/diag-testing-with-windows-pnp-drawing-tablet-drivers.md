@@ -1,4 +1,4 @@
-# Testing with Windows PNP drawing tablet drivers
+# DIAG: Testing with Windows PNP drawing tablet drivers
 
 ## Overview
 
@@ -6,7 +6,7 @@ Windows has built-in tablet drivers through its Plug-and-play framework.&#x20;
 
 More here:&#x20;
 
-* [**Windows PNP support for drawing tablets** ](../guides/operating-systems/windows/windows-pnp-support-for-drawing-tablets.md)
+* [**Windows PNP support for drawing tablets** ](../guides/operating-systems/windows/windows-pnp-support.md)
 * [**Windows PNP driver compatibility testing**](../guides/operating-systems/windows/windows-pnp-driver-compatibility-testing.md)
 
 ## Using Windows PNP tablet drivers to investigate problems
