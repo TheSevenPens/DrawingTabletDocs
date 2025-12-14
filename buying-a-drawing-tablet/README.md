@@ -198,7 +198,7 @@ Drawing tablets have been released over many years. That means when you shop onl
     * These are the X3 Elite, X3 Roller, and X3 Pro
   * Huion: Look for tablets that use more recent Huion PenTech versions:
     * PenTech 3.0: PW517, PW515, PW110
-    * PenTech 3.0+: PW500, PW500S - in my research these are clearly better pens than PenTech 3.0. In terms of pressure range as good as PenTech 4.0.
+    * PenTech 3.0+: PW550, PW550S - in my research these are clearly better pens than PenTech 3.0. In terms of pressure range as good as PenTech 4.0.
     * PenTech 4.0: PW600, PW600S. The PenTech 4.0 Pens are better than the PenTech 3.0 pens
     * More here: [**Huion pens**](../pen-links/huion-pen-models/)
 
