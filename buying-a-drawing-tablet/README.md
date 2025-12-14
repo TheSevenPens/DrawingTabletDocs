@@ -44,7 +44,9 @@ I strongly urge you to read this buying guide and beginner's guide completely be
 ## Basic buying guidelines
 
 * Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md)
-* If you really need need one that is standalone get an iPad or a Samsung Galaxy Tab.
+* If you really a standalone tablet:
+  * If your priority is the best drawing experience: Wacom MovinkPad or Wacom MovinkPad Pro
+  * If your priority is a good general purpose experience with a decent drawing experience: get an iPad or a Samsung Galaxy Tab S device.
 * If you are a beginner I have simplified the options for you: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/).
 
 ## Brands
