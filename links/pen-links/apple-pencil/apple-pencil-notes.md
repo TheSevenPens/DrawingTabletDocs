@@ -48,13 +48,15 @@ Pressure-sensitive erasers are sometimes present on high-end EMR drawing tablet 
 
 ## Need to recharge
 
-The Apple Pencil contains a battery. Occasionally you will need to recharge the batter.
+The Apple Pencil contains a battery. Occasionally, you will need to recharge the battery of the Apple Pencil. Depending on the specific model of the Apple Pencil, simply attaching it to the top of the iPad will recharge it or you have to attach  compatible charging cable to the Apple Pencil. &#x20;
+
+Modern EMR drawing tablet pens do not use batteries. They get power just be being within about 10mm of the tablet surface.&#x20;
 
 ## Lifetime of battery
 
-Some people report that the Apple Pencil battery wears out after a few years and may not hold a charge. This effectively makes the Apple Pencil unusuable.
+Some people report that the Apple Pencil battery wears out after a few years and may not hold a charge. This effectively makes the Apple Pencil unusable.
 
-Modern EMR drawing tablet pens do not use batteries. They get power just be being within about 10mm of the tablet surface. They never need to be recharged. And they have no batter lifetime issues.
+Modern EMR drawing tablets do not use batteries. They don't have this issue at all.
 
 ## Blobs at beginning of stroke
 
