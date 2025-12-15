@@ -3,7 +3,7 @@
 ## Basics
 
 * [<mark style="background-color:green;">**My notes on Apple iPad**</mark>](apple-ipad-1.md)&#x20;
-* Information on [**Apple Pencil**](../../pen-links/apple-pencil.md)&#x20;
+* Information on [**Apple Pencil**](../../links/pen-links/apple-pencil/)&#x20;
 
 ## Comparisons
 

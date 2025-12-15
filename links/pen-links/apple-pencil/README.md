@@ -2,15 +2,15 @@
 
 ## Overview
 
-Apple has several models of the Apple Pencil series. These models differ a bit by the features they support. And only certain IPads are compatible with certain models of the apple pencil. So if you're looking to use the apple pencil with an iPad make sure you check the compatibility and the feature set of that pencil before you purchase anything.
+Apple has several models of the Apple Pencil series. These models differ a bit by the features they support. And only certain iPads are compatible with certain models of the apple pencil. So if you're looking to use the apple pencil with an iPad make sure you check the compatibility and the feature set of that pencil before you purchase anything.
 
 ## Basics
 
 [product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iPad compatibility)
 
-## Drawing experience
+## Using the Apple Pencil for drawing
 
-The apple pencil uses a different technology from a drawing tablet pen. It can be polarizing for some people how the apple pencil works. But overall in terms of its ability to draw things I think it is an excellent pen - especially the Apple Pencil 2nd gen and the Apple Pencil Pro.
+See my [extensive notes on the Apple Pencil](apple-pencil-notes.md) for practical information about using them.
 
 ## Apple Pencil compatibility with iPads
 

@@ -3,7 +3,7 @@
 {% hint style="info" %}
 For more information:
 
-* [**Apple Pencil links**](../../../pen-links/apple-pencil.md) -Keep in mind, there are several models of the apple pencil and not all have the same features.&#x20;
+* [**Apple Pencil links**](./) -Keep in mind, there are several models of the apple pencil and not all have the same features.&#x20;
 
 About iPad:
 
