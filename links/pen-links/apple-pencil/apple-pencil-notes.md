@@ -89,6 +89,12 @@ This is an effect that can happen with drawing tablet pens also. It is unclear i
 * Wacom professional pens have an IAF of <1gf
 * Many people believe the Apple Pencil 2 and Apple Pencil Pro have a IAF of <1gf.
 
+## "Simulated IAF"
+
+If you watch a high-speed recording of the Apple Pencil you will notice that drawing will start evern BEFORE the tip of the pen hits the glass. The iPad seems to predict contact and start drawing. This makes the apple pencil feel more responsive and seem like it has a lower IAF than the physical hardware really does.
+
+Some people refer to this as "Negative IAF" but I use "Simulated IAF" because it is a more neutral term. In any case, some people do not like this behavior.
+
 ## Pressure range and maximum pressure
 
 * It is useful for a pen to have a wide pressure range .. in other words a high maximum pressure.
