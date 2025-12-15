@@ -443,7 +443,7 @@
       * [Apple iPad](drawing-tablets-links/apple/apple-ipad.md)
       * [Apple iPad notes](drawing-tablets-links/apple/apple-ipad-1.md)
       * [Apple iPad vs drawing tablets](drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
-      * [Apple Pencil vs EMR pens](drawing-tablets-links/apple/apple-pencil-vs-emr-pens.md)
+      * [Apple Pencil notes](links/drawtab-links/apple/apple-pencil-notes.md)
       * [Apple iPad versus Samsung Galaxy Tab S](drawing-tablets-links/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
     * [Artisul](drawing-tablets-links/artisul.md)
     * [ASUS](drawing-tablets-links/asus/README.md)
