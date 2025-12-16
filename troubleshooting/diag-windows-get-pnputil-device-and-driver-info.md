@@ -10,6 +10,9 @@ pnputil /enum-devices /connected /drivers > %USERPROFILE%/Documents/devices.txt
 explorer "%USERPROFILE%/Documents"
 ```
 
-You should see a file explorer window pop up.&#x20;
+These command will create two files in your documents folder:
 
-Find the drivers.txt and devices.txt in your Documents folder folder and upload them here.
+* drivers.txt
+* devices.txt&#x20;
+
+And then it will open a file explorer window to your Documents folder.
