@@ -348,6 +348,7 @@
   * [TSG Nothing showing on pen display](troubleshooting/tsg-nothing-showing-on-pen-display.md)
   * [TSG: Tablet driver using too much memory](troubleshooting/tsg-tablet-driver-using-too-much-memory.md)
   * [TSG: Pen display always shows info box on screen](troubleshooting/tsg-pen-display-always-shows-info-box-on-screen.md)
+  * [DIAG: Windows Get PnPUtil Device and Driver Info](troubleshooting/diag-windows-get-pnputil-device-and-driver-info.md)
 * [Links](links/README.md)
   * [Accessory links](accessory-links/README.md "Accessories")
     * [Screen cleaning sprays](accessory-links/screen-cleaning-sprays.md)
