@@ -58,7 +58,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 ### Options
 
-* [Parblo PR-100 stand](parblo-pr-100-stand/)
+* [Parblo PR-100 stand](/broken/pages/8xm1PVGe0sIqyVwAtbXQ)
 * [XP-Pen AC41 and AC42 stands](xp-pen-ac41-ac42-stands.md) &#x20;
 
 ## Complex stands

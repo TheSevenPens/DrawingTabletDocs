@@ -1,4 +1,4 @@
-# Parblo PR-100 Stand notes
+# Parblo PR-100 stand
 
 
 
@@ -6,14 +6,21 @@
 
 Even though I don't have any Parblo tablets, I use the Parblo PR-100 stand. I have two of them. And I am very happy with them.
 
+Product page: [https://www.parblo.com/products/pr100](https://www.parblo.com/products/pr100)
+
 What I notice:
 
 * Sturdy
-* It doesn't slip and slide on my desk
+* Tablets don't wobble when drawing on them
+* It does NOT slip and slide on my desk
 * The tablets don't easily slide off the stand
 * Works great for tablets 16" and under though I have also used it for 19" tablets occasionally (Huion Kamvas Pro 19 for example). I would not recommend it for anything larger than 19"
 
-I found out about this stand from Teoh on Tech's channel: [https://www.youtube.com/@teohontech7141/](https://www.youtube.com/@teohontech7141/) (Sorry I don't have link to the exact video)
+## How I learned about this stand
+
+I found out about this stand from Teoh on Tech's channel: [https://www.youtube.com/@teohontech7141/](https://www.youtube.com/@teohontech7141/)&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=8QU1gVOl0l0" %}
 
 ## Photos
 
