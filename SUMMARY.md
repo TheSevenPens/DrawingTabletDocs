@@ -55,6 +55,7 @@
     * [Pen-enabled mobile device recommendations](recommendations/standalone-recs/mobile-device-recs.md "Mobile devices")
     * [Pen-enabled 2-in-1 laptop recommendations](recommendations/standalone-recs/2-in-1-laptop-recs.md "2-in-1 laptops")
   * [Comparisons](recommendations/comparisons/README.md)
+    * [2025 Professional pens compared](recommendations/comparisons/2025-professional-pens-compared.md)
     * [2025 Drawing tablet tier list](recommendations/comparisons/2025-drawing-tablet-tier-list.md)
     * [2024 Drawing tablet tier list](recommendations/comparisons/2024-drawing-tablet-tier-list.md)
     * [2024 Large pen tablets compared](recommendations/comparisons/2024-large-pen-tablets-compared.md)

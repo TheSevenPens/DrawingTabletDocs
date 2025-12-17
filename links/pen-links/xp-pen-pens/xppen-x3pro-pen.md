@@ -48,22 +48,7 @@ This is what it shows in the driver when pressure at full pressure.&#x20;
 
 ![](<../../../.gitbook/assets/image (433).png>)
 
-## X3 pro versus Huion's PW600 series
+## X3 Pro versus other pens
 
-The X3 Pro series and the PW600 series came out in the same general timeframe and both represent an evolution of pens for XP-Pen and Huion.
-
-The pens are very comparable and both are very good. There is one difference worth noting:
-
-Keep in mind that pressure sensitivity is an attribute of the pen, not the tablet:
-
-* the PW600 series have a more consistent and higher maximum physical pressure. The X3 Pro series have a maximum pressure that varies a bit depending on the specific unit you have.
-  * XP-Pen X3 Pro max physical pressure: \~250gf to \~450gf (OK+ to VERY GOOD)
-  * Huion PW600 max physical pressure: \~450gf to \~550gf (VERY GOOD TO EXCELLENT) (see [Huion PW600 series pens](../../../pen-links/huion-pen-models/7p-huion-pw600.md))
-* The PW600 seems to have a very slightly lower IAF - at least subjectively.
-  * XP-Pen X3 Pro IAF:  XP-Pen states 3gf
-  * Huion PW600 IAF: Huion states 2gf &#x20;
-
-Having said that, both are good and I don't have have a problem using and recommending either problem.
-
-
+See: [2025 Professional pens compared](../../../recommendations/comparisons/2025-professional-pens-compared.md)
 
