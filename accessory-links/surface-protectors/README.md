@@ -8,9 +8,9 @@ description: aka "Screen protectors"
 
 There are many options to protect the surface of your tablet from scratches, etc. There are options for both pen tablets (screenless tablets) and pen displays (screen tablets). There are options that are specific to devices such as iPads
 
-* [**Surface protectors for pen tablets**](surface-protectors-for-pen-tablets.md)
-* [**Screen protectors for pen displays**](screen-protectors-for-pen-displays.md)
-* [**Screen protectors for iPads**](screen-protectors-for-ipads.md)
+* [**Surface protectors for pen tablets**](../../links/accessory-links/surface-protectors/surface-protectors/)
+* [**Screen protectors for pen displays**](../../links/accessory-links/surface-protectors/screen-protectors/)
+* [**Screen protectors for iPads**](../../links/accessory-links/surface-protectors/screen-protectors/screen-protectors-for-ipads.md)
 
 ## Key features&#x20;
 

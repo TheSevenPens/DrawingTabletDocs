@@ -1,7 +1,7 @@
 # Screen protectors for iPads
 
-* If you are looking for protection for other kinds of devices go here: [**Surface protection**](./)
-* [Paperlike for iPad](paperlike-for-ipad.md) &#x20;
+* If you are looking for protection for other kinds of devices go here: [**Surface protection**](../../../../accessory-links/surface-protectors/)
+* [Paperlike for iPad](paperlike-for-ipads.md) &#x20;
 * Bellemond
 * Benks&#x20;
   * [Teoh on Tech - Benks Matte Screen Protector (artist review)](https://www.youtube.com/watch?v=vZM_y38UiGU) 2024/06/14

@@ -1,15 +1,15 @@
-# Screen protectors for pen displays
+# Screen protectors
 
 ## Overview
 
 Screen protectors protect the glass of your pen display from scratches.
 
-If you are looking for protection for other kinds of devices go here: [**Surface protection**](./)
+If you are looking for protection for other kinds of devices go here: [**Surface protection**](../../../../accessory-links/surface-protectors/)
 
 ## Key features
 
 * **Transparency** - Protective sheets for pen displays must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a pen display.
-* **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
+* **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
 * **Parallax** - Since parallax increases when the distance increases from the tip of the pen from the display panel. However, in practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add.
 
 ## Protection from the tablet manufacturer
@@ -25,7 +25,7 @@ It may be possible to replace that film. Contact your manufacturer to see if the
 Examples:&#x20;
 
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
-* [XP-Pen offers protective sheets for their tablets](xp-pen-surface-protectors.md)
+* [XP-Pen offers protective sheets for their tablets](../../../../accessory-links/surface-protectors/xp-pen-surface-protectors.md)
 
 ## 3rd-party options
 

@@ -1,15 +1,15 @@
-# Surface protectors for pen tablets
+# Surface protectors
 
 ## Overview
 
 Pen tablets (screenless tablets) have a plastic surface and depending on how you use them are subject to some amount of wear.
 
-If you are looking for protection for other kinds of devices go here: [**Surface protection**](./)
+If you are looking for protection for other kinds of devices go here: [**Surface protection**](../../../../accessory-links/surface-protectors/)
 
 ## Manufacturer options
 
 * **Wacom** makes Texture Sheets available for its Intuos Pro pen 2017 and Intuos Pro 2025 tablets. More here: [**Wacom texture sheets**](wacom-texture-sheets.md)&#x20;
-* [**XP-Pen offers protective sheets for their tablets**](xp-pen-surface-protectors.md)
+* [**XP-Pen offers protective sheets for their tablets**](../../../../accessory-links/surface-protectors/xp-pen-surface-protectors.md)
 
 ## 3rd-party options
 
@@ -19,7 +19,7 @@ If you are looking for protection for other kinds of devices go here: [**Surface
 
 ## Screen protectors on pen tablets
 
-You can use screen protectors intended for pen displays for pen tablets. See [**screen protectors**](screen-protectors-for-pen-displays.md). Some suppliers of screen protectors not only sell pre-cut sizes for specific tablets, but also will cut out a size to your specification for your specific tablet.
+You can use screen protectors intended for pen displays for pen tablets. See [**screen protectors**](../screen-protectors/). Some suppliers of screen protectors not only sell pre-cut sizes for specific tablets, but also will cut out a size to your specification for your specific tablet.
 
 ## DIY options
 
