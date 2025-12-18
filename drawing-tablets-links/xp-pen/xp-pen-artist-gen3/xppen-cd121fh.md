@@ -10,7 +10,8 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 
 ## Links
 
-* [Brad Colbow Review of Artist 12 3rd](https://www.youtube.com/watch?v=LlqGM0rjG3g) 2025/11/17
+* [Teoh on Tech - Review of Artist 12 3rd](https://www.youtube.com/watch?v=jkpUTfQGLwc) 2025/12/17
+* [Brad Colbow - Review of Artist 12 3rd](https://www.youtube.com/watch?v=LlqGM0rjG3g) 2025/11/17
 
 ## Basics
 
