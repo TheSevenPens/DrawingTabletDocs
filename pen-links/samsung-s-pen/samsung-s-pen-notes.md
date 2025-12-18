@@ -69,7 +69,7 @@ I can't speak to all of them, just the ones that came with Galaxy Tab S series.
 
 ## Upgrading to a better pen
 
-Consider: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](upgrading-from-the-samsung-s-pen-to-the-wacom-cp-913-pen.md)
+Consider: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Reddit threads
 

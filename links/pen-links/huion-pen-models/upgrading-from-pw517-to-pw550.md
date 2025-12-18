@@ -1,4 +1,4 @@
-# Upgrading from Huion PW517 to Huion PW550 pens
+# Upgrading from PW517 to PW550
 
 ## Overview
 
@@ -50,7 +50,7 @@ Here are my measurements for maximum pressure for the pens in my collection.
 * IAF - the pens are similar
 * Max Pressure - the PW550 pens tend to have a higher maximum pressure - and are more consistent between units
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Video
 
@@ -60,5 +60,5 @@ Here are my measurements for maximum pressure for the pens in my collection.
 
 ## Related docs
 
-* [**Notes on Huion PW550 series pens**](7p-huion-pw550.md)
-* [**Notes on Huion PW517 pen**](7p-huion-pw517.md)
+* [**Notes on Huion PW550 series pens**](huion-pw550.md)
+* [**Notes on Huion PW517 pen**](../../../pen-links/huion-pen-models/7p-huion-pw517.md)

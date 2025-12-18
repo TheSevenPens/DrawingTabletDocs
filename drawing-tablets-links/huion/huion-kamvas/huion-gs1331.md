@@ -16,7 +16,7 @@ Another budget alternative is the XP-Pen Artist 13 GEN2.&#x20;
 
 ## Included pen
 
-It comes with the PW517 pen. I recommend buying and using a PW550 instead. [**See: Huion PW550 series pens**](../../../pen-links/huion-pen-models/7p-huion-pw550.md)
+It comes with the PW517 pen. I recommend buying and using a PW550 instead. [**See: Huion PW550 series pens**](../../../links/pen-links/huion-pen-models/huion-pw550.md)
 
 Display basics
 

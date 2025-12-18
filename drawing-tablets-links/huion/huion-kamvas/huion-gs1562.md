@@ -10,7 +10,7 @@
 
 The tablet comes with the PW517 pen.
 
-As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [**7P notes: Huion PW550 series pens**](../../../pen-links/huion-pen-models/7p-huion-pw550.md)
+As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [**7P notes: Huion PW550 series pens**](../../../links/pen-links/huion-pen-models/huion-pw550.md)
 
 ## Diagonal wobble
 
