@@ -42,9 +42,9 @@ Drawing tablet pens are much more sensitive. They have more delicate and sensiti
 
 ## Pointer positioning
 
-Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [**Absolute versus relative positioning**](../../core-features/absolute-versus-relative-positioning.md).
+Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [**Absolute versus relative positioning**](../../core-features/active-area/absolute-versus-relative-positioning.md).
 
-However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [**mouse mode**](../../core-features/mouse-mode.md). &#x20;
+However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [**mouse mode**](../../core-features/active-area/mouse-mode.md). &#x20;
 
 ## Aspect ratios
 

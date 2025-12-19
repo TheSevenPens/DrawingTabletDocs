@@ -1,6 +1,6 @@
 # Bezel
 
-The bezel of a drawing tablet is essentially all the area on the surface of the drawing tablet that is not the [active area](active-area.md).
+The bezel of a drawing tablet is essentially all the area on the surface of the drawing tablet that is not the [active area](active-area/).
 
 For many devices such a phones and TVs, people make a big deal about having the smallest bezels possible. For drawing tablets, it is good to have a wide bezel.
 
@@ -15,7 +15,7 @@ The EMR sensor (digitizer) needs to be a bit wider than the active area so that 
 
 ## Reddit threads
 
-[https://www.reddit.com/r/wacom/comments/qjjgj5/why\_all\_cintiqs\_have\_humongous\_bezel/](https://www.reddit.com/r/wacom/comments/qjjgj5/why\_all\_cintiqs\_have\_humongous\_bezel/)&#x20;
+[https://www.reddit.com/r/wacom/comments/qjjgj5/why\_all\_cintiqs\_have\_humongous\_bezel/](https://www.reddit.com/r/wacom/comments/qjjgj5/why_all_cintiqs_have_humongous_bezel/)&#x20;
 
 
 

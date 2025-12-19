@@ -91,7 +91,7 @@ If you already have a compatible Apple iPad and Apple Pencil, consider whether y
 * The primary input to the tablet is the pen. But some tablets support other inputs such as buttons, dials, and sliders. Some tablets even support touch.
 * These non-pen inputs are important for some people but others don't care about them at all.&#x20;
 * &#x20;Read more here:
-  * [**Auxilliary inputs**](../core-features/expresskeys.md) - buttons, dials, sliders
+  * [**Auxilliary inputs**](../core-features/expresskeys/) - buttons, dials, sliders
   * [**Touch support**](../guides/touch-support/)
 
 ## Pen display features
