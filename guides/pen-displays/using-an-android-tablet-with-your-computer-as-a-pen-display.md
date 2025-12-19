@@ -6,6 +6,7 @@
 * EasyCanvas&#x20;
 * Wacom Instant Pen Display&#x20;
 * Artemis&#x20;
+* SpaceDesk
 
 ## Notes
 
