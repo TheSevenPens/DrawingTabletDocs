@@ -536,7 +536,7 @@
         * [Wacom Bamboo (CTL-470) notes](drawing-tablets-links/wacom/wacom-bamboo/wacom-bamboo-ctl-470-notes.md)
       * [Wacom MovinkPad](drawing-tablets-links/wacom/wacom-movinkpad/README.md)
         * [Wacom MovinkPad 11 (DTH-A116) notes](drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
-        * [MovinkPad Pro 14 (DTH-A140) notes](drawing-tablets-links/wacom/wacom-movinkpad/movinkpad-pro-14-dth-a140-notes.md)
+        * [Wacom MovinkPad Pro 14 (DTH-A140) notes](links/drawtab-links/wacom/wacom-movinkpad/wacom-dth-a140-notes.md)
         * [Wacom MovinkPad Pro 14 cover (ACK45633Z) notes](links/drawtab-links/wacom/wacom-movinkpad/wacom-ack45633z-notes.md)
     * [Xencelabs](drawing-tablets-links/xencelabs/README.md)
       * [Xencelabs Pen Tablet Medium (BPH1212W-A) notes](drawing-tablets-links/xencelabs/xencelabs-bph1212w-a.md " Pen Tablet Medium (BPH1212W-A) ")
