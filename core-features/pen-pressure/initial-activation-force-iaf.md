@@ -8,11 +8,11 @@ In more simple terms: IAF is how hard you have to press to draw. High IAF means 
 
 Generally, people want lower IAF.
 
-IAF is measured in "gram-force" units. Though you may see it very often described in "grams".
+## Details
 
-IAF is determined by the pen hardware, not the tablet.
-
-More info: [**Pen pressure**](./)&#x20;
+* IAF is measured in "gram-force" units (gf) . Though you may see it very often described in "grams".
+* IAF is determined by the pen hardware, not the tablet.
+* More info: [**Pen pressure**](./)&#x20;
 
 ## Video
 
@@ -20,20 +20,11 @@ More info: [**Pen pressure**](./)&#x20;
 
 ## Initial activation force (IAF)
 
-A lower IAF is good because it allows you to draw finer details better.
+A lower IAF is good because it allows you to draw finer details better. To give you a better sense of what these values mean, I've ranked IAF below based on feedback I've received and what work for me.&#x20;
 
-* EXCELLENT IAF: <=1gf
-  * Modern professional pens have an IAF of <= 1gf&#x20;
-* GREAT IAF: Between 1gf and 2gf
-  * Only a couple of pens are in this range
-* GOOD IAF: Between 2gf and 3.5gf
-  * Most modern EMR pens have an IAF of around 3gf
-* OK IAF: Between 3.5gf and 5gf
-  * This is tolerable. Something that would be typical of a consumer-level pen.
-* BAD IAD. ≥ 5gf&#x20;
-  * Most people would not enjoy using such a pen.
+<table><thead><tr><th width="154.5999755859375">IAF Rating</th><th width="134.79998779296875">IAF Range</th><th>Comments</th></tr></thead><tbody><tr><td>EXCELLENT</td><td>&#x3C;=1gf</td><td>Many modern Wacom pens have an IAF of &#x3C;= 1gf </td></tr><tr><td>GREAT</td><td>1gf to 2gf</td><td>Only a couple of pens are in this range</td></tr><tr><td>GOOD</td><td>2gf to 3.5gf</td><td>Most modern EMR pens have an IAF of around 3gf.</td></tr><tr><td>OK</td><td>3.5gf and 5gf</td><td>This is tolerable. Something that would be typical of a consumer-level pen.</td></tr><tr><td>BAD</td><td>≥ 5gf </td><td>Most people would not enjoy using such a pen.</td></tr></tbody></table>
 
-These are MY rankings. Some people have much stronger opinions about IAF. For example, some people thing any IAF greater than 2gf is BAD IAF.
+Note that, some people have much stronger opinions about IAF. For example, some people think any IAF greater than 2gf is BAD IAF.
 
 ## IAF through the years
 
@@ -41,7 +32,7 @@ Very low IAF is not new. Wacom has been making pens for decades that have excell
 
 Here are some examples from Kuuube's measurements (using Open Tablet Driver) from his [Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit?gid=1134075895#gid=1134075895).
 
-<table><thead><tr><th width="315.79998779296875">Pen</th><th width="141.800048828125">IAF</th><th>Tablet launch year</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E) IAF</td><td>&#x3C;1gf</td><td>2017</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E) IAF</td><td>&#x3C;1gf</td><td>?</td></tr><tr><td>Wacom Intuos4/5 Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>2009 and 2012</td></tr><tr><td>Wacom Intuos3 Grip Pen (ZP-501E)</td><td>&#x3C;1gf</td><td>2004</td></tr><tr><td>Wacom Intuos2 Grip Pen (XP-501E)</td><td>&#x3C;1gf</td><td>2001</td></tr><tr><td>Wacom Intuos1 Grip Pen (GP-300E)</td><td>&#x3C;1gf</td><td>1998</td></tr></tbody></table>
+<table><thead><tr><th width="315.79998779296875">Pen</th><th width="92.2000732421875">IAF</th><th>Tablet launch year</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E) IAF</td><td>&#x3C;1gf</td><td>2017</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E) IAF</td><td>&#x3C;1gf</td><td>?</td></tr><tr><td>Wacom Intuos4/5 Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>2009 and 2012</td></tr><tr><td>Wacom Intuos3 Grip Pen (ZP-501E)</td><td>&#x3C;1gf</td><td>2004</td></tr><tr><td>Wacom Intuos2 Grip Pen (XP-501E)</td><td>&#x3C;1gf</td><td>2001</td></tr><tr><td>Wacom Intuos1 Grip Pen (GP-300E)</td><td>&#x3C;1gf</td><td>1998</td></tr></tbody></table>
 
 ## The importance of low IAF
 
@@ -80,7 +71,3 @@ In some pens I've also noticed that having an extremely low IAF can cause the pe
 ## How IAF is measured
 
 This video from XP-Pen demonstrates it [https://www.youtube.com/watch?v=QLmkI2vgfBg](https://www.youtube.com/watch?v=QLmkI2vgfBg)
-
-
-
-.
