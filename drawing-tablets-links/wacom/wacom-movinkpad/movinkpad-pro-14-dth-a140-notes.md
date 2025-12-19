@@ -81,14 +81,14 @@ While not an inexpensive choice, this tablet delivers more than what I would exp
 ### Included Pen
 
 * Pro Pen 3 (no grip)
-* See: [My notes on Pro Pen 3](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+* See: [Notes on Pro Pen 3](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 
 ### Compatible pens
 
-* Pro Pen 3 (ACP-500)
+* Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 * UD EMR pens such as:
-  * Wacom One (CP-913)
-  * Wacom One (CP-923)
+  * Wacom One (CP-913) [Notes on CP-913](../../../links/pen-links/wacom-pens/wacom-cp-913-notes.md)
+  * Wacom One (CP-923) [Notes on CP-923](../../../pen-links/wacom-pens/wacom-cp-923.md)
   * Samsung S Pen
 
 ### Incompatible Pens
