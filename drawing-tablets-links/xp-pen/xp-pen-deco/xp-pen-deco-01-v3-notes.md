@@ -2,9 +2,13 @@
 
 ## Overview
 
-This is OK tablet with the previous generation of pen technology&#x20;
+This is OK tablet that despite being released in 2025, uses an older generation of technology.
 
-This sold an upgrade to the Deco 01 V2 - but looks to be the same exact tablet and drawing performance remains the same. The upgrade involves **potentially** better Android support - though I did not find that to be the case in my experience
+XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to be the same exact tablet with the same exact pen and having the same exact drawing performance.&#x20;
+
+XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case. It had the same issues as I encountered with the Deco 01 V2.
+
+The pen was exactly the same as the old model and has the same high IAF.
 
 ## Better alternatives
 
