@@ -2,9 +2,9 @@
 
 ## Overview
 
-As of December 2025, the standalone tablet that offers the BEST drawing experience.
+OVERALL RATING: EXCELLENT<br>
 
-Yes, it does have some limitations but overall is an excellent tablet at a reasonable cost.&#x20;
+As of December 2025, This is the standalone tablet that offers the BEST drawing experience. While it does have some missing features, it is an excellent tablet at a reasonable cost for what it provides.
 
 ## How to think about this tablet
 
