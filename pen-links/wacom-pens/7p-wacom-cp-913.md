@@ -4,7 +4,7 @@
 
 The Wacom One Pen (CP-913) was released in 2019 and came with the Wacom One 2019 GEN1 (DTC-33) which was one of Wacom's consumer pen display.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
 
 This pen is a very "consumer" pen, and it has a **OK pressure performance**&#x20;
 
@@ -30,7 +30,7 @@ I measured 4 CP-913 units. Their maximum pressures varied between 250gf to 350gf
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 
@@ -47,7 +47,7 @@ Two things separate this pen from Wacom's Pro Pens:
 
 ## Wacom CP-923 pen
 
-This successor pen, CP-923, is awful. See my notes: [Wacom One 2024 Pen (CP-923)](../../../pen-links/wacom-pens/wacom-cp-923.md)&#x20;
+This successor pen, CP-923, is awful. See my notes: [Wacom One 2024 Pen (CP-923)](wacom-cp-923.md)&#x20;
 
 ## Tablet Compatibility&#x20;
 

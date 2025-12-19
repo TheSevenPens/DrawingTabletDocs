@@ -64,7 +64,7 @@ This has an AVHA display panel, not IPS. The colors are a little washed out and 
 
 ### **Included Pen**
 
-The supplied Wacom One GEN1 pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [**notes on Wacom One Pen (CP-913)**](../../../links/pen-links/wacom-pens/wacom-cp-913-notes.md)&#x20;
+The supplied Wacom One GEN1 pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [**notes on Wacom One Pen (CP-913)**](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)&#x20;
 
 ### Compatible pens
 

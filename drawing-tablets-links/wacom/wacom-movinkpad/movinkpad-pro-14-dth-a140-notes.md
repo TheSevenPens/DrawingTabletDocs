@@ -16,7 +16,7 @@ The Samsung Galaxy Tab S series come with consumer grade pens. These pens are cl
 
 But with the arrival of the moving pad pro 14 we have a clear answer. This is the best strong experience you can get in a standalone tablet. And it represents and your standard for this category of devices.
 
-It gives competitors a clear bar to meet. After this point if anyone releases a standalone tablet the question will be “does the tablet and its pen work as well as the Wacomk MovingPad Pro 14.”
+It gives competitors a clear bar to meet. After this point if anyone releases a standalone tablet the question will be “does the tablet and its pen work as well as the Wacom MovingPad Pro 14.”
 
 ### How to think about this tablet
 
@@ -27,6 +27,18 @@ If you are familiar with a Samsung Galaxy Tab S11 Ultra. Think of this as the sa
 ### Price/Performance
 
 While not an inexpensive choice, this tablet delivers more than what I would expect given the cost. For what you get, I think this is a terrific deal.
+
+### What would make this tablet even better
+
+I hope the next generation of this tablet incorporates these features:
+
+* USB4 USB-C port that supports
+  * DP-IN
+  * DP-OUT
+* Compatibility with Pro Pen 2&#x20;
+* Biometric Login
+  * Face unlock
+  * Fingerprint&#x20;
 
 ### Links
 
@@ -87,13 +99,13 @@ While not an inexpensive choice, this tablet delivers more than what I would exp
 
 * Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 * UD EMR pens such as:
-  * Wacom One (CP-913) [Notes on CP-913](../../../links/pen-links/wacom-pens/wacom-cp-913-notes.md)
+  * Wacom One (CP-913) [Notes on CP-913](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
   * Wacom One (CP-923) [Notes on CP-923](../../../pen-links/wacom-pens/wacom-cp-923.md)
   * Samsung S Pen
 
 ### Incompatible Pens
 
-* Pro Pen 2 (KP-504E)
+* Pro Pen 2 (KP-504E) [Notes on KP-504E](../../../pen-links/wacom-pens/7p-wacom-kp-504e.md)
   * You will not be able to use any of your existing Pro Pen 2 models with this device.
   * I hope Wacom revisits this decision
 

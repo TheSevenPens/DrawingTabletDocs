@@ -579,7 +579,7 @@
       * [Wacom Pro Pen 2 (KP-504E) notes](pen-links/wacom-pens/7p-wacom-kp-504e.md "Pro Pen 2 (KP-504E) ")
       * [Wacom 2K Pen (LP-190K)](pen-links/wacom-pens/7p-wacom-lp-190k.md "2K Pen (LP-190K)")
       * [Wacom Intuos1 Pen (GP-300E) notes](pen-links/wacom-pens/wacom-intuos1-pen-gp-300e-notes.md "Intuos1 Pen (GP-300E)")
-      * [Wacom One Pen (CP-913) notes](links/pen-links/wacom-pens/wacom-cp-913-notes.md "Wacom One Pen (CP-913)")
+      * [Wacom One Pen (CP-913) notes](pen-links/wacom-pens/7p-wacom-cp-913.md "Wacom One Pen (CP-913)")
       * [Wacom One 2023 Standard Pen (CP-923) notes](pen-links/wacom-pens/wacom-cp-923.md "Wacom One 2023 Standard Pen (CP-923)")
       * [Wacom Intuos2 Grip Pen (XP-501E) notes](pen-links/wacom-pens/wacom-intuos2-grip-pen-xp-501e-notes.md "Intuos2 Grip Pen (XP-501E) ")
       * [Wacom Intuos2 Airbrush pen (XP-400E) notes](links/pen-links/wacom-pens/wacom-intuos2-airbrush-pen-xp-400e-notes.md " Intuos2 Airbrush pen (XP-400E)")

@@ -56,7 +56,7 @@ In particular you should think about using the Wacom CP-913 instead of the Samsu
 
 Specific examples of compatible pens are:
 
-* Wacom One pen (CP-913) - Some people prefer to use the CP-913 with Samsung Tablets instead of the S pen. [<mark style="background-color:green;">**My notes on the CP-913**</mark>](../../../links/pen-links/wacom-pens/wacom-cp-913-notes.md)
+* Wacom One pen (CP-913) - Some people prefer to use the CP-913 with Samsung Tablets instead of the S pen. [<mark style="background-color:green;">**My notes on the CP-913**</mark>](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
 * Wacom One Pen (CP-923) - This pen is trash. Avoid it. [<mark style="background-color:green;">**my notes on CP-923**</mark>](../../../pen-links/wacom-pens/wacom-cp-923.md)&#x20;
 
 ## Pointer lag
