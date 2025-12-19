@@ -5,8 +5,11 @@
 * SuperDisplay&#x20;
 * EasyCanvas&#x20;
 * Wacom Instant Pen Display&#x20;
+  * For Wacom MovinkPad devices only
 * Artemis&#x20;
 * SpaceDesk
+* Samsung Space Desk
+  * For Samsung Android tablets only
 
 ## Notes
 
