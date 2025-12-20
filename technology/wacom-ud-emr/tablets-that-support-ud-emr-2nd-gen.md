@@ -24,3 +24,9 @@ However, **NOT ALL** entry-level Wacom tablets use UD EMR. For example, the One 
 For a long time NONE of Wacom's professional line of tablets used UD EMR.
 
 That changed in 2024 with the introduction of the Wacom Movink 13. The Movink 13 supports both traditional Wacom EMR pens and supports Wacom UD EMR pens.
+
+
+
+* Wacom Movink (DTH-135)
+* Wacom MovinkPad Pro 14 (DTH-A140)
+* Wacom Intuos Pro 2025 (PTK-x70)
