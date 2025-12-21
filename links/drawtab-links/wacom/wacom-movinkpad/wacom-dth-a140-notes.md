@@ -48,10 +48,17 @@ I hope the next generation of this tablet incorporates these features:
 
 ## Specs
 
+### Device
+
+* Weight: TBD
+* Dimensions: TBD
+* Size
+  * Very close the size of a A4 piece of paper
+
 ### Standalone
 
 * Operating System: Android 15
-* CPU: Snapdragon 8s Gen 3
+* CPU: Snapdragon 8s Gen 3 (SM8635)
 * RAM: 12GB
 * Storage: 256GB
 * Micro SD card support: YES
@@ -73,6 +80,7 @@ I hope the next generation of this tablet incorporates these features:
 * Contrast: 100,000:1
 * Refresh rate: 120Hz
 * Etched glass: YES (Wacom states AR/AG/AF)
+* Brightness: TBD (I could not find it listed on Wacom's site)
 * Color bit depth: 10-bit
 * Color gamut:&#x20;
   * 100% sRGB
@@ -115,13 +123,15 @@ I hope the next generation of this tablet incorporates these features:
 
 I was surprisingly pleased. I found using Clip Studio Paint very responsive - even with relatively large brushes - much more than I was expecting. Definitely a big improvement over the MovinkPad 11.
 
+Maybe not quite as performant as the Samsung S11 Ultra - but still very very good.
+
 ### **Android Updates**&#x20;
 
 Not clear if we will get updates to future versions. No plans have been announced as of November 2025
 
 ## Speakers
 
-* Has speakers but are not great. Sound week and tinny. I am FINE with this as the tablet is not intended for media consumption.
+Has speakers but they are not great. Sound week and tinny. I am FINE with this as the tablet is not intended for media consumption.
 
 ## Device experience
 
@@ -136,6 +146,10 @@ slightly larger than what you might expect.&#x20;
 ### Size
 
 At 14" this is a tablet best suited for putting on a desk an working. Although not heavy, it's not something that you'd want to keep holding in one hand and looking at.&#x20;
+
+### No camera
+
+The device does not have a front or back camera. I didn't find this to be a limitation at all.
 
 ### No camera bump
 
@@ -177,9 +191,28 @@ The pixels were sharp and well delineated. The pixels did not seem blurry or sof
 
 In my testing I did not find a way to switch the tablet between SRGB and display P3. I'm still searching for a solution here.
 
+### Refresh rate
+
+Normally I use tablets at 60Hz but for this tablet I enabled 120Hz refresh rate. Which make interacting with the tablet seem very slick and smooth.
+
+The higher refresh rate did also improve perceived pointer lag a bit - by about 20% if I had to guess. This matches my previous experience with using higher refresh rates and drawing tablets.
+
 ## Drawing performance
 
 OVERALL: EXCELLENT
+
+### No Driver app
+
+Like all other Android-based standalone drawing tablets - there is no driver app corresponding to the "Wacom Center".
+
+## Customizing tablet behavior
+
+Because there is no "driver app" - means there is no way to control the global configuration for:
+
+* Pressure curves
+* Pen button actions
+
+To configure those settings, you will need an app that implements those features. For example Krita and Clip Studio Paint support app-specific and even brush-specific pressure curves.&#x20;
 
 ### Static tracking accuracy
 
@@ -218,9 +251,12 @@ NORMAL for an standalone Android drawing tablet.
 * Background: This is a feature to make the MovinkPad Pro 14 work like a pen display that is attached to your computer.
 * Summary: Very promising but not ready for most people
 * Clunky and complicated to find, download, and setup.&#x20;
+* Connection methods - Instant pen display supports both wired and wireless connection via WiFi. Wireless will have very noticable latency which you can see in other reviews.
 * Notes on testing:
   * I only tested with a wired connection
-* Performance: surprisingly good
+* Latency:&#x20;
+  * Wired: surprisingly good
+  * Wirelss: I did not test.
 * Additional pointer lag: very slight. Totally usable. While drawing I think most people would forget.
 * When using Instant Pen Display:
   * The Wacom driver does not recognize the MovinkPad Pro 14 as a device. So none of the normal Wacom driver features are available - such as pressure curves, etc.
@@ -229,9 +265,42 @@ NORMAL for an standalone Android drawing tablet.
 
 ### Application compatibility
 
-In theory any Android application should run on this tablet.
+In theory any Android application should run on this tablet. And certainly most do.&#x20;
 
-And certainly most do. However for reasons we are not clear about some applications will not install on this tablet. We suspect it may be due to some customizations of the operating system that prevent certain apps from being identified as compatible.
+HOWEVER for reasons we are not clear about some applications will not install on this tablet. We suspect it may be due to some customizations of the operating system that prevent certain apps from being identified as compatible.
+
+Teoh on Tech in his review pointed out that:&#x20;
+
+* Amazon app could not be installed
+* He could not sign into the facebook app. This means that he could not use apps that required facebook authentication.
+
+## Ergonomics
+
+### Heat
+
+In my drawing sessions with Clip Studio Paint I didn't notice it getting warm at all
+
+### Noise
+
+None. It was completely silent.&#x20;
+
+### Legs
+
+It does NOT have any legs
+
+### Stand
+
+The tablet does NOT come with a stand.
+
+I used the Parblo PR-100 when I needed to keep it at an angle
+
+### VESA mounting
+
+Does not have and VESA mounting holes.&#x20;
+
+### Staying in place on a desk
+
+There are four rubber feet on the back. This keeps the tablet slightly elevated about the surface of the desk. Also it keeps the tablet in one place. The tablet will not accidentally slide around as you draw on it.&#x20;
 
 ## Accessories
 
