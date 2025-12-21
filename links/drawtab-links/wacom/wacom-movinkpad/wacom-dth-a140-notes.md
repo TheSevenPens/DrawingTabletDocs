@@ -50,7 +50,7 @@ I hope the next generation of this tablet incorporates these features:
 
 ### Device
 
-* Weight: TBD
+* Weight: 680g (according to my scale)
 * Dimensions: TBD
 * Size
   * Very close the size of a A4 piece of paper
