@@ -32,5 +32,5 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## AVOID
 
-* Wacom One S 2023 (CTC-4110WL) \[$100, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md) ]&#x20;
+* Wacom One S 2023 (CTC-4110WL) \[$100, [**links**](/broken/pages/u3PVvqwabyhab4cZbJAo) ]&#x20;
   * **SUB-STANDARD PRESSURE HANDLING**

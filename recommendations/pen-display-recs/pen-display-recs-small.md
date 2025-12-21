@@ -34,8 +34,8 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## AVOID
 
-* Wacom One 12 GEN2 (DTC-121) \[$400, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md)]
-* Wacom One 13 touch GEN2 (DTH-134) \[$600, [**links**](../../drawing-tablets-links/wacom/wacom-one-2023-gen2.md)]
+* Wacom One 12 GEN2 (DTC-121) \[$400, [**links**](/broken/pages/u3PVvqwabyhab4cZbJAo)]
+* Wacom One 13 touch GEN2 (DTH-134) \[$600, [**links**](/broken/pages/u3PVvqwabyhab4cZbJAo)]
 
 
 
