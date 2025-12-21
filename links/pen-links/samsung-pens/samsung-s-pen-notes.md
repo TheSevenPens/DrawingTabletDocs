@@ -59,7 +59,7 @@ The S Pen has one physical button, unlike the Apple iPad. This also differs from
 
 The S pen uses EMR tech - specifically they use Wacom UD EMR.
 
-Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [**Wacom UD EMR**](../../technology/wacom-ud-emr/).
+Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [**Wacom UD EMR**](../../../technology/wacom-ud-emr/).
 
 ## **Other S Pen versions**
 
@@ -69,7 +69,7 @@ I can't speak to all of them, just the ones that came with Galaxy Tab S series.
 
 ## Upgrading to a better pen
 
-Consider: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+Consider: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Reddit threads
 

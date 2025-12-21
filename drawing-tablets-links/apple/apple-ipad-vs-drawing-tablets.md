@@ -5,8 +5,8 @@ For more information:
 
 * [**my notes on Apple iPad**](apple-ipad-1.md)&#x20;
 * [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
-* [**Apple Pencil versus EMR pens**](../../links/pen-links/apple-pencil/apple-pencil-notes.md)
-* [**Apple pencil links**](../../links/pen-links/apple-pencil/)&#x20;
+* [**Apple Pencil versus EMR pens**](../../links/pen-links/apple-pens/apple-pencil-notes.md)
+* [**Apple pencil links**](../../links/pen-links/apple-pens/)&#x20;
 * [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
 
@@ -43,7 +43,7 @@ And some people prefer using both. For example they might use a (non-standalone)
 
 ## Pens
 
-A big amount of the drawing experience is due to how the pens work. See this comparison: [**Apple Pencil versus EMR pens**](../../links/pen-links/apple-pencil/apple-pencil-notes.md)
+A big amount of the drawing experience is due to how the pens work. See this comparison: [**Apple Pencil versus EMR pens**](../../links/pen-links/apple-pens/apple-pencil-notes.md)
 
 ## Pen hover
 

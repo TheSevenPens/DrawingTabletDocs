@@ -19,7 +19,7 @@ I refer to the **Apple Pencil** as a **pen** to keep my documentations consisten
 
 ## Choosing between iPad models
 
-There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../links/pen-links/apple-pencil/). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
+There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../links/pen-links/apple-pens/). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
 
 The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
 

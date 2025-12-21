@@ -12,7 +12,7 @@ If you are currently using a S pen with your device, consider buying a Wacom CP-
 
 [<mark style="background-color:green;">**My notes on the Wacom CP-913**</mark>](../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
 
-[<mark style="background-color:green;">**My notes on the Samsung S pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)
+[<mark style="background-color:green;">**My notes on the Samsung S pen**</mark>](samsung-s-pen-notes.md)
 
 ## Which devices benefit
 

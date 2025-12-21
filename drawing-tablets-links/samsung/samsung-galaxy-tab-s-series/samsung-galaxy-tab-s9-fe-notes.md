@@ -18,14 +18,14 @@ It's just an all around good device.
 
 ## Included pen
 
-* Samsung S Pen ([<mark style="background-color:$success;">**my notes on the S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md))
+* Samsung S Pen ([<mark style="background-color:$success;">**my notes on the S Pen**</mark>](../../../links/pen-links/samsung-pens/samsung-s-pen-notes.md))
 * This is an OK pen. Not great as EMR pens go in terms of pressure range, but it is enough for basic drawing drawing tasks.
 
 ## Compatible pens
 
 * Samsung S pen
 * [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md) &#x20;
-* In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+* In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-pens/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Diagonal wobble
 
