@@ -14,7 +14,7 @@ About iPad:
 
 ## Overview
 
-The Apple Pencil is provokes very different reations in people:
+The Apple Pencil is provokes very different reactions in people:
 
 * Some people love using it
 * Some people hate using it
@@ -22,9 +22,35 @@ The Apple Pencil is provokes very different reations in people:
 
 One thing is clear: the Apple Pencil feels very different from an EMR pen. And people used to drawing tablets (all of which are based on EMR) may find it very odd to use the Apple Pencil.
 
+## Basics
+
+### Links
+
+[product page](https://www.apple.com/apple-pencil/) (includes feature comparison and iPad compatibility)
+
+## Compatibility with iPads
+
+Not every apple pencil version is compatible with every iPad.
+
+iPad vs Apple pencil compatibility list - [https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841](https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841)&#x20;
+
+## Feature comparison by model
+
+<table><thead><tr><th width="194">Device</th><th width="101">Hover</th><th width="113">Pressure</th><th width="94">Tilt</th><th width="152">Barrel rotation</th></tr></thead><tbody><tr><td>Apple Pencil GEN1</td><td>NO</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil GEN2</td><td>YES</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil USB-C</td><td>YES</td><td>NO</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil Pro</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr></tbody></table>
+
 ## Apple Pencil versus drawing tablet pens
 
-Below are a list of things that drawing tablet users have pointed out about using the Apple Pencil. Not everyone experiences the same issues, but I do think these are representative of the overall experience.
+Below are a list of things that drawing tablet users have pointed out about using the Apple Pencil. Not everyone experiences the same issues, but I do think these are representative of the overall Hover
+
+## Digital pen technology
+
+Apple pencil uses a proprietary protocol that we believe is similar to Wacom AES. It does NOT use EMR. We aren't even sure of the name of the technology and no documentation from Apple is available that describes it.
+
+## Hover
+
+All EMR drawing tablet pens support hover. But only The Apple Pencil Pro supports hover.
+
+* [Adam Duff - Apple Pencil Hover Is a Big Deal For Artists](https://www.youtube.com/watch?v=ZpcKfipVy24) 2022/11/01
 
 ## **Surface Texture**
 
@@ -127,9 +153,7 @@ No EMR pens support a feature similar to pen squeeze.
 
 ## Pen "find my"
 
-The **Apple Pencil Pro** supports a “find my” feature. You can use your phone or iPad to detect its location.
-
-EMR pens have no equivalent to this feature.&#x20;
+The **Apple Pencil Pro** supports a “find my” feature. You can use your phone or iPad to detect its location. EMR pens have no equivalent to this feature.&#x20;
 
 Watch how this feature works: [Jimmy Lam Studio - Find My on Apple Pencil Pro](https://www.youtube.com/watch?v=P_8P3jmhnrM) Jun 26, 2024
 
