@@ -103,19 +103,19 @@ I hope the next generation of this tablet incorporates these features:
 ### Included Pen
 
 * Pro Pen 3 (no grip)
-* See: [Notes on Pro Pen 3](../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+* See: [Notes on Pro Pen 3](../../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 
 ### Compatible pens
 
-* Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+* Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 * UD EMR pens such as:
-  * Wacom One (CP-913) [Notes on CP-913](../../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
-  * Wacom One (CP-923) [Notes on CP-923](../../../../pen-links/wacom-pens/wacom-cp-923.md)
+  * Wacom One (CP-913) [Notes on CP-913](../../../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
+  * Wacom One (CP-923) [Notes on CP-923](../../../../../pen-links/wacom-pens/wacom-cp-923.md)
   * Samsung S Pen
 
 ### Incompatible Pens
 
-* Pro Pen 2 (KP-504E) [Notes on KP-504E](../../../../pen-links/wacom-pens/7p-wacom-kp-504e.md)
+* Pro Pen 2 (KP-504E) [Notes on KP-504E](../../../../../pen-links/wacom-pens/7p-wacom-kp-504e.md)
   * You will not be able to use any of your existing Pro Pen 2 models with this device.
   * I hope Wacom revisits this decision
 
@@ -355,7 +355,7 @@ There are four rubber feet on the back. This keeps the tablet slightly elevated 
 
 ### MovinkPad Pro 14 cover
 
-See [my notes on the movinkpad cover](wacom-ack45633z-notes.md)
+See [my notes on the movinkpad cover](../wacom-ack45633z-notes.md)
 
 ## Choosing between tablets
 
@@ -387,9 +387,9 @@ If you were trying to pick between the two tablets here is my guidance:
 
 In general, see:
 
-* [Apple iPad notes](../../../../drawing-tablets-links/apple/apple-ipad-1.md)
-* [Apple iPad vs drawing tablets](../../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
-* [Apple Pencil notes](../../../pen-links/apple-pencil/apple-pencil-notes.md)
+* [Apple iPad notes](../../../../../drawing-tablets-links/apple/apple-ipad-1.md)
+* [Apple iPad vs drawing tablets](../../../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple Pencil notes](../../../../pen-links/apple-pencil/apple-pencil-notes.md)
 
 Overall, I do find that the Wacom MovinkPad Pro 14 is better for drawing.
 

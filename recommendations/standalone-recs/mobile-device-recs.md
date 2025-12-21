@@ -8,7 +8,7 @@ If you're primarily interested in drawing or notetaking I think pen-enabled mobi
 
 These are for when you want a GREAT drawing experience. Especially if you are already used to drawing tablets or Wacom professional tablets and pens.
 
-* Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-movinkpad/wacom-dth-a140-notes.md)&#x20;
+* Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-movinkpad/wacom-dth-a140-notes/)&#x20;
   * This tablet has the best drawing experience on the market out of any current standalone tablet of any kind and from any brand.
 * Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-movinkpad/wacom-dth-a116-notes.md)
 
