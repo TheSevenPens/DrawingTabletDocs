@@ -44,7 +44,7 @@ Size has a huge impact on how the tablet feels to use especially with the 16X9 a
 
 ## Included pen
 
-Samsung Galaxy Tab S devices come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../links/pen-links/samsung-pens/samsung-s-pen-notes.md)
+Samsung Galaxy Tab S devices come with the Samsung S Pen: [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Compatible pens
 
@@ -52,7 +52,7 @@ These tablets are also compatible with a few the second generation of UD EMR pen
 
 More here: [UD EMR Pens 2nd gen](../../../technology/wacom-ud-emr/tablets-that-support-ud-emr-2nd-gen.md)
 
-In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-pens/upgrading-to-wacom-one-pen-cp-913.md)
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 Specific examples of compatible pens are:
 

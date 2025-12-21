@@ -3,9 +3,9 @@
 ## Overview
 
 * [<mark style="background-color:green;">**My notes on the Samsung Galaxy Tab S Series**</mark>](samsung-galaxy-tab-s.md)
-* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../links/pen-links/samsung-pens/samsung-s-pen-notes.md)&#x20;
+* [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
 * [**Apple iPad versus Samsung Galaxy Tab S**](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
-* [**Upgrading from the Samsung S pen to the Wacom CP-913 pen**](../../../links/pen-links/samsung-pens/upgrading-to-wacom-one-pen-cp-913.md)
+* [**Upgrading from the Samsung S pen to the Wacom CP-913 pen**](../../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 * [**Apps for Android**](../../../apps/apps-for-android.md)
 
 ## Samsung Galaxy Tab S11 series

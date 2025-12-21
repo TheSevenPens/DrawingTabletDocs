@@ -31,7 +31,7 @@ This is when you want a general-purpose mobile device, but also want decent pen 
 
 ### Samsung Galaxy Tab A Series
 
-<mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](../../drawing-tablets-links/samsung/samsung-galaxy-tab-a.md)
+<mark style="color:red;">**I do not recommend this series**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](/broken/pages/K3IzHFwFNcq4x2AgO7wO)
 
 ### Huion Slate&#x20;
 

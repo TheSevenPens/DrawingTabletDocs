@@ -17,7 +17,7 @@ This is a 2-in-1 laptop that folds over. The drawing experience is good - not su
 Pen information:
 
 * Tech: Wacom EMR (specifically UD EMR)
-* Comes with this pen: [**Samsung S Pen**](../../links/pen-links/samsung-pens/) ([<mark style="background-color:green;">**my notes on this pen**</mark>](../../links/pen-links/samsung-pens/samsung-s-pen-notes.md))
+* Comes with this pen: [**Samsung S Pen**](../../pen-links/samsung-s-pen/) ([<mark style="background-color:green;">**my notes on this pen**</mark>](../../pen-links/samsung-s-pen/samsung-s-pen-notes.md))
 * Pen compatibility: These devices also works with the the Wacom CP-913 pen. And many people choose to use the Wacom CP-913 instead of the S Pen.
 
 Recent models:

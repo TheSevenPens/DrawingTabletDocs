@@ -12,7 +12,7 @@ These are my notes for this specific tablet. You may also be interested in [my n
 
 ## Compatible Pens
 
-In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-pens/upgrading-to-wacom-one-pen-cp-913.md)
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## **Diagonal Wobble**
 
