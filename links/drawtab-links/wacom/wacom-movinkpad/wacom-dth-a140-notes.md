@@ -76,7 +76,9 @@ I hope the next generation of this tablet incorporates these features:
 
 * Display panel tech: OLED
 * Diagonal size: 14"
+* Aspect ratio: 16x10
 * Native resolution: 2200x1800
+* Pixel density: 142 ppi
 * Contrast: 100,000:1
 * Refresh rate: 120Hz
 * Etched glass: YES (Wacom states AR/AG/AF)
@@ -183,6 +185,17 @@ Certainly you can use it in portrait, but the aspect ratio makes it awkward to h
 
 Like many OLED displays there is a little bit of color fringing. This is noticeable when you're transitioning from a black to white pixel you might see a small magenta or green fringe. That does happen with this tablet which is normal but it is very minimal and I think in most situations you will not notice it. It's one of those things that you'll have to make some effort to see.
 
+### Color modes
+
+In the settings you can switch between:&#x20;
+
+* "Standard mode"
+* "Color profile mode"
+
+Standard mode - more saturated colors. I assume this switches the tablet to using Display P3.&#x20;
+
+Color profile mode - less saturated. sRGB.
+
 ### Pixel sharpness
 
 The pixels were sharp and well delineated. The pixels did not seem blurry or soft.
@@ -193,7 +206,7 @@ In my testing I did not find a way to switch the tablet between SRGB and display
 
 ### Refresh rate
 
-Normally I use tablets at 60Hz but for this tablet I enabled 120Hz refresh rate. Which make interacting with the tablet seem very slick and smooth.
+Normally I use tablets at 60Hz but for this tablet I enabled 120Hz refresh rate. Which make interacting with the tablet seem very slick and smooth when scrolling, etc.
 
 The higher refresh rate did also improve perceived pointer lag a bit - by about 20% if I had to guess. This matches my previous experience with using higher refresh rates and drawing tablets.
 
@@ -246,10 +259,14 @@ EXCELLENT - Low parallax
 
 NORMAL for an standalone Android drawing tablet.
 
+### Diagonal wobble
+
+TBD
+
 ## Instant Pen Display
 
+* Summary: Very promising but not ready for most people. As of December 2025 this is a BETA feature.
 * Background: This is a feature to make the MovinkPad Pro 14 work like a pen display that is attached to your computer.
-* Summary: Very promising but not ready for most people
 * Clunky and complicated to find, download, and setup.&#x20;
 * Connection methods - Instant pen display supports both wired and wireless connection via WiFi. Wireless will have very noticable latency which you can see in other reviews.
 * Notes on testing:
@@ -273,6 +290,32 @@ Teoh on Tech in his review pointed out that:&#x20;
 
 * Amazon app could not be installed
 * He could not sign into the facebook app. This means that he could not use apps that required facebook authentication.
+
+## Connections and cabling
+
+### Ports
+
+There is a single USB-C port on the right side of the tablet.
+
+### DP-IN support
+
+The tablet does NOT support native DP-IN.&#x20;
+
+### DP-OUT support
+
+The tablet does not support DP-OUT. So you cannot connect it to an external display.
+
+## Other inputs
+
+### Tablet buttons
+
+This tablet has no assignable buttons
+
+### Touch
+
+Yes. Touch works very well.
+
+Palm rejection is very good
 
 ## Ergonomics
 
@@ -302,6 +345,12 @@ Does not have and VESA mounting holes.&#x20;
 
 There are four rubber feet on the back. This keeps the tablet slightly elevated about the surface of the desk. Also it keeps the tablet in one place. The tablet will not accidentally slide around as you draw on it.&#x20;
 
+### Securing the Pen
+
+* The pen does NOT magnetically attach to the tablet.
+* The tablet does NOT have any way to store the pen inside it
+* The (not-included) MovinkPad Pro 14 cover does have a cloth loop for securing the pen to the cover
+
 ## Accessories
 
 ### MovinkPad Pro 14 cover
@@ -310,7 +359,7 @@ See [my notes on the movinkpad cover](wacom-ack45633z-notes.md)
 
 ## Choosing between tablets
 
-### MovinkPad Pro 14 vs Samsung Galagy Tab S11 Ultra
+### Versus Samsung Galaxy Tab S11 Ultra
 
 MovinkPad Pro 14 vs Samsung Galaxy Tab S11 Ultra In general terms have almost exactly the same size.
 
@@ -319,13 +368,28 @@ If you were trying to pick between the two tablets here is my guidance:
 **pick the Wacom MovinkPad Pro 14 if:**
 
 * you want a similar experience to non standalone drawing tablets
-* you've become accustomed to walk on professional tablets
+* you've become accustomed to Wacom professional tablets
 * you you need the best drawing performance - especially if you're doing creative work like sketching drawing or painting
 * you want a device that is focused on drawing
+* You want pretty good colors, and want an etched-glass surface that diffuses reflections and glare
 
 **pick the Samsung Galaxy Tab S11 ultra if:**
 
 * you want a device that has a good general purpose Android tablet for browsing the web listening to music etc.
 * You need a camera
+* You want an OK drawing experience
 * you want all Android applications to work with your tablet
+* You want brighter, more vibrant colors and are OK with a glossy screen
+* You need the DP-OUT feature to use an external display
+* You need Samsung Dex &#x20;
+
+### Versus Apple iPad + Apple Pencil Pro
+
+In general, see:
+
+* [Apple iPad notes](../../../../drawing-tablets-links/apple/apple-ipad-1.md)
+* [Apple iPad vs drawing tablets](../../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple Pencil notes](../../../pen-links/apple-pencil/apple-pencil-notes.md)
+
+Overall, I do find that the Wacom MovinkPad Pro 14 is better for drawing.
 
