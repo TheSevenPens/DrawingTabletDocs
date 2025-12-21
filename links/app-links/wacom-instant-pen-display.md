@@ -1,10 +1,12 @@
-# Instant Pen Display
+# Wacom Instant Pen Display
 
 ## Summary
 
-Very promising but not ready for most people. As of December 2025 this is a BETA feature.
+Very promising but not ready for most people. As of December 2025 this is a BETA feature part of the Wacom Labs application.
 
 My recommendation: Wait until this is improved.&#x20;
+
+
 
 ## Overview
 

@@ -103,19 +103,19 @@ I hope the next generation of this tablet incorporates these features:
 ### Included Pen
 
 * Pro Pen 3 (no grip)
-* See: [Notes on Pro Pen 3](../../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+* See: [Notes on Pro Pen 3](../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 
 ### Compatible pens
 
-* Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
+* Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 * UD EMR pens such as:
-  * Wacom One (CP-913) [Notes on CP-913](../../../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
-  * Wacom One (CP-923) [Notes on CP-923](../../../../../pen-links/wacom-pens/wacom-cp-923.md)
+  * Wacom One (CP-913) [Notes on CP-913](../../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
+  * Wacom One (CP-923) [Notes on CP-923](../../../../pen-links/wacom-pens/wacom-cp-923.md)
   * Samsung S Pen
 
 ### Incompatible Pens
 
-* Pro Pen 2 (KP-504E) [Notes on KP-504E](../../../../../pen-links/wacom-pens/7p-wacom-kp-504e.md)
+* Pro Pen 2 (KP-504E) [Notes on KP-504E](../../../../pen-links/wacom-pens/7p-wacom-kp-504e.md)
   * You will not be able to use any of your existing Pro Pen 2 models with this device.
   * I hope Wacom revisits this decision
 
@@ -127,9 +127,9 @@ I was surprisingly pleased. I found using Clip Studio Paint very responsive - ev
 
 Maybe not quite as performant as the Samsung S11 Ultra - but still very very good.
 
-### **Android Updates**&#x20;
+### **Android updates**&#x20;
 
-Not clear if we will get updates to future versions. No plans have been announced as of November 2025
+Wacom has communicated to at least one user that updates are planned. But we don't know when these updates might be available.
 
 ## Speakers
 
@@ -263,22 +263,9 @@ NORMAL for an standalone Android drawing tablet.
 
 TBD
 
-## Instant Pen Display
+### Using the tablet as a pen display
 
-* Summary: Very promising but not ready for most people. As of December 2025 this is a BETA feature.
-* Background: This is a feature to make the MovinkPad Pro 14 work like a pen display that is attached to your computer.
-* Clunky and complicated to find, download, and setup.&#x20;
-* Connection methods - Instant pen display supports both wired and wireless connection via WiFi. Wireless will have very noticable latency which you can see in other reviews.
-* Notes on testing:
-  * I only tested with a wired connection
-* Latency:&#x20;
-  * Wired: surprisingly good
-  * Wirelss: I did not test.
-* Additional pointer lag: very slight. Totally usable. While drawing I think most people would forget.
-* When using Instant Pen Display:
-  * The Wacom driver does not recognize the MovinkPad Pro 14 as a device. So none of the normal Wacom driver features are available - such as pressure curves, etc.
-* My recommendation: Wait until this is improved.&#x20;
-* I wish this tablet would have a normal DP-IN feature and behave like a normal pen display. It would make setup and usage of this so much simpler. This is something the XP-Pen Magic Drawing Pad 2025 gets right.
+Although the tablet does not support DP-IN, you can use a special feature called "Instant Pen Display" to provide the same experience. See [Wacom Instant Pen Display](../../../app-links/wacom-instant-pen-display.md)
 
 ### Application compatibility
 
@@ -355,7 +342,7 @@ There are four rubber feet on the back. This keeps the tablet slightly elevated 
 
 ### MovinkPad Pro 14 cover
 
-See [my notes on the movinkpad cover](../wacom-ack45633z-notes.md)
+See [my notes on the movinkpad cover](wacom-ack45633z-notes.md)
 
 ## Choosing between tablets
 
@@ -387,9 +374,9 @@ If you were trying to pick between the two tablets here is my guidance:
 
 In general, see:
 
-* [Apple iPad notes](../../../../../drawing-tablets-links/apple/apple-ipad-1.md)
-* [Apple iPad vs drawing tablets](../../../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
-* [Apple Pencil notes](../../../../pen-links/apple-pencil/apple-pencil-notes.md)
+* [Apple iPad notes](../../../../drawing-tablets-links/apple/apple-ipad-1.md)
+* [Apple iPad vs drawing tablets](../../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple Pencil notes](../../../pen-links/apple-pencil/apple-pencil-notes.md)
 
 Overall, I do find that the Wacom MovinkPad Pro 14 is better for drawing.
 
