@@ -1,4 +1,4 @@
-# Online Tablet Tester
+# SevenPens Tablet Tester
 
 ## Overview
 
@@ -8,7 +8,7 @@ With my Tablet Tester browser-based tool you can test out the basic features of 
 
 Go here to launch the tool: [**SevenPens Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)**.** Then start drawing in the blue box.
 
-<figure><img src="../.gitbook/assets/screely-1727637583054.png" alt=""><figcaption><p>Screenshot of the tool</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Safety and privacy
 
@@ -21,15 +21,26 @@ This tool:
 
 ## Features
 
-* Can draw with pen, mouse, and touch (if your tablet supports touch)
-* Control the size by
-  * Enable **Use pressure** to allow tilt to affect brush size
-  * Enable **Use tilt** to allow pen tilt angle to affect brush size
-* Information about pen is shown
-  * Position
-  * Pressure - as a percentage
-  * Tilt
-  * Current dynamic brush&#x20;
+* Inputs
+  * Draw with pen
+  * Draw with mouse
+* Formatting
+  * Control stroke size by pressure or tilt or use a fixed size
+  * Control stroke color by pressure or tilt or use a fixed color
+  * Control the minimum size of a stroke - useful when drawing with very light pressyre
+* Live Pointer information
+  * Position, Tilt, Pressure, Barrel Rotation
+  * Calculated information: Velocty & Direction
+  * Button status
+* Utilities
+  * Erase canvas when starting a new stroke
+  * &#x20;Show stroke stats such as pointer events/sec
+* Processing
+  * Position smoothing
+  * Pressure smoothing
+  * Tilt smoothing
+  * Pressure quantization
+  * Pressure curve
 * Multiple ways to erase the canvas:
   * Press **Clear** button
   * Press **BACKSPACE** key

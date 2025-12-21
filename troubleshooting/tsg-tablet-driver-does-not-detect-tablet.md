@@ -16,11 +16,11 @@ I want to be candid with you. If this problem isn't due to some simple cabling p
 
 Here are several examples of how the driver indicates the tablet is not connected.
 
-| Brand  | Driver message                                                                                                                                   |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Huion  | <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">     |
-| XP-Pen | <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
-| Wacom  | <img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">                                     |
+| Brand  | Driver message                                                                                                                                       |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Huion  | <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">     |
+| XP-Pen | <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+| Wacom  | <img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">                                         |
 
 ## Driver versus operating system
 
