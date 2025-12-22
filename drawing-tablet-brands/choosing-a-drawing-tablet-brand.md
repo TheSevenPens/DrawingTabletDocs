@@ -41,7 +41,7 @@ Instead of only thinking of the brand, consider specific tablet models.&#x20;
 
 ## Online communities
 
-Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [**Drawing tablet communities**](../resources/drawing-tablet-community.md)  &#x20;
+Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [**Drawing tablet communities**](../resources/drawing-tablet-community/)  &#x20;
 
 ## Discussions
 
