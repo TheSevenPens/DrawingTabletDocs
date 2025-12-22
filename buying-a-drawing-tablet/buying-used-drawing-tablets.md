@@ -119,7 +119,7 @@ If you need to buy a pen or you break your pen, keep in mind that&#x20;
 * Replacement pens can be incredibly hard to find on the used market.&#x20;
 * In the used market, sellers do not sell the pen by itself. So you may even have to purchase ANOTHER tablet with a pen. I've personally had to do this myself.&#x20;
 
-More here: [**Replacing a pen**](../guides/caring-for-your-tablet/buying-a-replacement-pen.md)
+More here: [**Replacing a pen**](../guides/caring-for-your-tablet/replacing-a-pen.md)
 
 ## Bite marks on pens
 
