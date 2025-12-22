@@ -1,13 +1,15 @@
-# Overview of pen displays
+# Introduction to pen displays
 
-## Pen displays
+## Overview
 
 Pen displays are drawing tablets that have an embedded display panel. They are also called: "screen tablets", "display tablets".
 
-Key attributes:
+## Key characteristics
 
 * They DO have an embedded display
 * They REQUIRE A COMPUTER to be used.
+
+## Using a pen display
 
 A pen display may look like a laptop or an iPad which are standalone devices. However unlike those devices:
 
