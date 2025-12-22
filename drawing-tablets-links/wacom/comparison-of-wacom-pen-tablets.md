@@ -88,7 +88,7 @@ More than pressure levels, the **pressure range** has a greater impact on your d
 
 Notes:
 
-* Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/drawing-tablet-community/kuuube/).
+* Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/kuuube/).
 * Learn more about [**pen pressure**](../../core-features/pen-pressure/)&#x20;
 * Learn more about how [**pen pressure ranges compare across pens**](../../core-features/pen-pressure/pen-pressure-range.md)  &#x20;
 

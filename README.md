@@ -18,7 +18,7 @@ This site is a personal project and has no affiliation or relationship with any 
 
 ## Connect with the community
 
-Consider joining the [**Drawing Tablet discord server**](resources/drawing-tablet-community/discord-server.md). &#x20;
+Consider joining the [**Drawing Tablet discord server**](about-thesevenpens/discord-server.md). &#x20;
 
 ## Contact
 

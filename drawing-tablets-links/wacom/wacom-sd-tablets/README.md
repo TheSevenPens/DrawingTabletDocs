@@ -72,6 +72,6 @@ But other models in the SD series are not much much thicker and do not feature t
 
 ## Using Wacom SD tablets on modern computers
 
-If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../resources/drawing-tablet-community/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
+If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
 
 [https://github.com/Kuuuube/KuuubeTD](https://github.com/Kuuuube/KuuubeTD)

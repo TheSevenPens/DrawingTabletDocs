@@ -1,4 +1,4 @@
-# Drawing Tablet discord server
+# Discord server
 
 I run a small discord server for drawing tablets. This is where I can sometimes be found chatting about drawing tablets.
 

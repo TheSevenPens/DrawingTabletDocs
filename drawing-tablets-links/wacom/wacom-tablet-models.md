@@ -12,4 +12,4 @@ You can see a list of all the tablets Wacom currently sells on their website ([h
 
 ## Kuuube's Wacom tablet mastersheet
 
-Tablet expert Kuuube maintains a [**Kuuube's Wacom tablet mastersheet**](../../resources/drawing-tablet-community/kuuube/kuuubes-wacom-tablet-mastersheet.md) which as far as I know lists every Wacom drawing tablet ever made.
+Tablet expert Kuuube maintains a [**Kuuube's Wacom tablet mastersheet**](../../resources/kuuube/kuuubes-wacom-tablet-mastersheet.md) which as far as I know lists every Wacom drawing tablet ever made.

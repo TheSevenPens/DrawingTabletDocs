@@ -83,7 +83,7 @@ Yes. More here: [**Extending cables**](accessory-links/extension-cables.md)
 
 #### FAQ: What subreddits exist for drawing tablets?
 
-There are quite a few. See this list: [**Subreddits for drawing tablets**](resources/drawing-tablet-community/subreddits-for-drawing-tablets.md).
+There are quite a few. See this list: [**Subreddits for drawing tablets**](resources/subreddits-for-drawing-tablets.md).
 
 #### FAQ: Can I replace the surface of my pen tablet?
 

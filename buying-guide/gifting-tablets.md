@@ -52,5 +52,5 @@ Examples:
 
 ## Join the discord for more help
 
-Go here for the invite link: [**Drawing Tablet discord server**](../resources/drawing-tablet-community/discord-server.md)&#x20;
+Go here for the invite link: [**Drawing Tablet discord server**](../about-thesevenpens/discord-server.md)&#x20;
 
