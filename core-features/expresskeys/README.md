@@ -51,8 +51,6 @@ For example you can set a button to
 * Increase opacity when you are using Clip Studio Paint
 * Increase the volume of your speakers under all other conditions
 
-##
-
 ## Default settings
 
 Wacom Intuos Pro PTH-660

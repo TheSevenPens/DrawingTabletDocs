@@ -58,16 +58,24 @@ Most drawing tablets also detect how the pen is tilted relative to the surface o
 
 Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [**Drawing Tablet Brands**](../drawing-tablet-brands/)
 
-## Core features&#x20;
+## Primary features&#x20;
 
-* **Tracking pen position** - any modern drawing tablet does a good job with this. Learn more here: [**Pen tracking**](../core-features/pen-tracking.md)&#x20;
+* **Tracking pen position** - Tablets detect the position of the tip of the pen relative to the tablet surface. Learn more here: [**Pen tracking**](../core-features/pen-tracking.md)&#x20;
+* **Tracking pen orientation** - Tablets detect how the pen is rotated relative to the tablet surface. &#x20;
+  * **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](../core-features/pen-tilt/). Most, but not all, tablets support tilt.
+  * **Barrel rotation**. - Learn more here: [**barrel rotation**](../core-features/pen-barrel-rotation.md). This is very rare in tablets and requires pens with special hardware.
 * **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [**Pen hover**](../core-features/pen-hover.md)&#x20;
-* **Pen pressure** - The pen detects how hard you are pressing on its tip. All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use. Learn more here: [**Pen pressure**](../core-features/pen-pressure/).&#x20;
-* **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [**pen tilt**](../core-features/pen-tilt/).
+* **Pen pressure detection** - The pen detects how hard you are pressing on its tip. Learn more here: [**Pen pressure**](../core-features/pen-pressure/). All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use.
 * **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [**pen buttons**](../guides/pens/pen-buttons.md)&#x20;
-* **Pen power** - Drawing tablet pens get their power by being near the tablet itself. They don't even contain batteies. Usually the pen has to be withing abou 10mm for it to get power from the tablet. &#x20;
-* **ExpressKeys** - These are buttons or dials on the tablet. Not all tablets have them, but many do. You can configure express keys to perform actions like undo, change brush size, change zoom, etc. More here: [**ExpressKeys**](../core-features/expresskeys/) &#x20;
-* **Touch** - A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [**Touch support**](../guides/touch-support/)&#x20;
+* **Wireless delivery of power to the pen** - Drawing tablet pens get their power by being near the tablet itself. They don't even contain batteries. Usually the pen has to be withing abou 10mm for it to get power from the tablet.
+
+## Secondary features  &#x20;
+
+These are features that are not essential to the drawing experience but may offer additional utility or convenience.
+
+* **Auxiliary inputs** - These are "non-pen" inputs. More here:&#x20;
+  * One class of inputs includes things like **buttons, dials, touch strips, or rollers** on the tablet. Not all tablets have these kind of inputs, but many do. You can configure these inputs to perform actions like undo, change brush size, change zoom, etc. More here: [**Auxiliary inputs**](../core-features/expresskeys/) &#x20;
+  * Another class input is **touch** - where the surface of the tablet can detect the touch of your fingers. Only A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [**Touch support**](../guides/touch-support/)&#x20;
 
 ## The active area
 
@@ -77,7 +85,7 @@ The active area is the region on the tablet that your draw on. More here: [**act
 
 When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](../buying-a-drawing-tablet/choosing-the-right-tablet-size.md)
 
-## Drivers
+## Tablet drivers
 
 When you connect a tablet to your computer, the computer needs to know how to use that tablet with a special app called a "tablet driver". If you do not install the driver, then the tablet will not work correctly. Installing the tablet driver requires administrator permissions on your computer.  More here: [**drivers**](beginners-guide.md#basics).
 
