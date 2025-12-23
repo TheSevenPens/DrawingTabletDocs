@@ -237,7 +237,7 @@ If you need touch, consider these tablets:
 
 The tabet comes with a USB-C cable to achieve a single cable connection to your computer.
 
-You computer's USB-C port needs to meet the requirements for this to work. See: [**Connecting a pen display with a single USB-C cable**](../../../guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)
+You computer's USB-C port needs to meet the requirements for this to work. See: [**Connecting a pen display with a single USB-C cable**](../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
 
 ### HDMI connection
 

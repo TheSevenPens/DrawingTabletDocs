@@ -10,7 +10,7 @@ We can categorize all pen display connections by **which cable is used to transm
 
 99.9% of the time HDMI or USB-C cables are used for the video signal. Instructions for each case are below. I recommend you <mark style="color:red;">**WATCH BOTH VIDEOS LINKED BELOW**</mark>.&#x20;
 
-* HDMI: see [**Connecting a pen display with HDMI**](connecting-a-pen-display-with-hdmi.md)
+* HDMI: see [**Connecting a pen display with HDMI**](connecting-with-hdmi.md)
 * USB-C: [**Connecting a pen display with USB-C**](connecting-a-pen-display-with-usb-c.md)&#x20;
 
 ## Basics
@@ -31,7 +31,7 @@ ALL THREE requirements MUST be met to fully use the pen display.
 
 ### Connector types
 
-This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](../pen-displays/display-connector-types.md) before you continue.
+This document is going to talk about connectors a lot. So you need to know what they look like first. Read this guide on [**different display connector types**](../../pen-displays/display-connector-types.md) before you continue.
 
 ### Connection diagrams
 
@@ -41,7 +41,7 @@ Your tablet user manual will contain diagrams should you exactly how to connect 
 
 ### "NO SIGNAL": When the pen display does not receive a video signal
 
-When you've connected your display you might see it show a message saying NO SIGNAL. Here is a [**troubleshooting guide to work through the NO SIGNAL problem**](../../troubleshooting/tsg-no-signal.md).
+When you've connected your display you might see it show a message saying NO SIGNAL. Here is a [**troubleshooting guide to work through the NO SIGNAL problem**](../../../troubleshooting/tsg-no-signal.md).
 
 ### When the pen display cannot send data to the computer
 

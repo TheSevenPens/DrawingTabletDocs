@@ -61,7 +61,7 @@ Answer: YES. More here: [**Using a pen display as a pen tablet**](guides/customi
 
 #### FAQ: How do I make my pen display mirror what is on my monitor?
 
-See this: [**Mirroring or extending your desktop to a pen display**](guides/customizing/mirroring-or-extending-your-desktop-to-a-pen-display.md)&#x20;
+See this: [**Mirroring or extending your desktop to a pen display**](guides/customizing/mirroring-or-extending.md)&#x20;
 
 #### FAQ: How do I enable mouse mode on a pen display?
 
@@ -101,7 +101,7 @@ Answer: I personally do not recommend this,. However. YES it is possible, but BE
 
 #### FAQ: How do I connect my pen to my drawing tablet?
 
-More here: [**Connecting a pen to a drawing tablet**](guides/connections-and-cabling/connecting-a-pen-to-a-drawing-tablet.md)
+More here: [**Connecting a pen to a drawing tablet**](guides/connecting/connecting-a-pen-to-a-drawing-tablet.md)
 
 #### FAQ: My pen is lost/broken. Can I just buy a replacement pen or do I have to buy a new tablet?
 

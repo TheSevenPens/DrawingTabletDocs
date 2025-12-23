@@ -106,7 +106,7 @@ Your computer may have multiple HDMI ports, try different ones.
 
 In general connect via the GPU HDMI ports instead of motherboard HDMI ports
 
-more here: [**Motherboard HDMI ports vs GPU HDMI ports**](../guides/connections-and-cabling/motherboard-hdmi-vs-gpu-hdmi-ports.md).
+more here: [**Motherboard HDMI ports vs GPU HDMI ports**](../guides/connecting/connecting-a-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
 
 

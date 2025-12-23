@@ -34,7 +34,7 @@ More here: [**Cable adapters**](../../../accessory-links/cable-adapters.md)
 
 **Single USB-C cable connection**
 
-If the pen display was connected with a single USB-C cable, then you can TYPICALLY use a USB-C cable that MEETS CERTAIN REQUIREMENTS to connect your pen display. More here: [**Connecting a pen display with a single USB-C cable**](../connecting-a-pen-display-with-usb-c.md).
+If the pen display was connected with a single USB-C cable, then you can TYPICALLY use a USB-C cable that MEETS CERTAIN REQUIREMENTS to connect your pen display. More here: [**Connecting a pen display with a single USB-C cable**](../connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md).
 
 Even if the cable meets the requirements - there are some issues you should be aware of.
 

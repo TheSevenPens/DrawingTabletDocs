@@ -3,7 +3,7 @@
 ## Overview
 
 {% hint style="info" %}
-Read this first: [Connecting a pen display](connecting-a-pen-display.md)
+Read this first: [Connecting a pen display](./)
 {% endhint %}
 
 ## Video
@@ -33,11 +33,11 @@ You can do this verification easily:
 
 ## Summary of requirements
 
-<figure><img src="../../.gitbook/assets/Slide_20240527_105643.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Slide_20240527_105643.png" alt=""><figcaption></figcaption></figure>
 
 ## **Video signal with DP alt mode support**
 
-Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../pen-displays/usb-c-displayport-alt-mode.md).
+Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../../pen-displays/usb-c-displayport-alt-mode.md).
 
 ## Power support
 
@@ -65,9 +65,9 @@ Sometimes they are not interchangeable:
 
 You should be aware that recessed USB-C ports on your pen display typically mean that only the manufacturer-provided USB-C cables will fit them.
 
-More here: [**Recessed USB-C ports**](recessed-usb-c-ports.md)&#x20;
+More here: [**Recessed USB-C ports**](../recessed-usb-c-ports.md)&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/Slide_20250106_084310.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Slide_20250106_084310.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Manufacturer cables vs third-party cables
 
@@ -76,7 +76,7 @@ I recommend you get the USB-C cables provided by the manufacturerfor two reasons
 * These cables are known to work with your tablet
 * The tablet may have recessed USB-C ports and these cables are designed to fit that port. Other cables may not even fit inside.
 
-More here: [Using 3rd-party cables with your drawing tablet](using-3rd-party-cables-with-your-drawing-tablet/)&#x20;
+More here: [Using 3rd-party cables with your drawing tablet](../using-3rd-party-cables-with-your-drawing-tablet/)&#x20;
 
 ## Thunderbolt 3/4/5 cables
 
@@ -84,7 +84,7 @@ To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB
 
 ## The specific Thunderbolt 3 cable I use
 
-I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../accessory-links/cables/cablematters-thunderbolt-3-cable.md).
+I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [**7P notes: CableMatters Thunderbolt 3 cable**](../../../accessory-links/cables/cablematters-thunderbolt-3-cable.md).
 
 ## How to tell if a USB-C cable could be used as a single-cable for your pen display
 

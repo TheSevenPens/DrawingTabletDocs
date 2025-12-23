@@ -130,9 +130,9 @@ To keep it simple:
 
 More here:&#x20;
 
-* [**Connecting a pen display to a computer**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
-* [**Connecting a pen display with one USB-C cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)&#x20;
-* [**Connecting a pen display with a 3-in-1 cable**](../guides/connections-and-cabling/connecting-a-pen-display-with-a-3-in-1-cable.md)&#x20;
+* [**Connecting a pen display to a computer**](../guides/connecting/connecting-a-pen-display/)&#x20;
+* [**Connecting a pen display with one USB-C cable**](../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)&#x20;
+* [**Connecting a pen display with a 3-in-1 cable**](../guides/connecting/connecting-a-pen-display/connecting-with-a-3-in-1-cable.md)&#x20;
 
 ## Compatibility with operating systems
 

@@ -1,4 +1,4 @@
-# Connecting a pen display with a 3-in-1 cable
+# Connecting with a 3-in-1 cable
 
 A 3-in-one cable is a special kind of connection cable used for pen displays to connect to a computer.&#x20;
 
@@ -6,25 +6,25 @@ A 3-in-one cable is a special kind of connection cable used for pen displays to 
 
 
 
-More here on the different ways a pen display can be connected to a computer:  [**Connecting a pen display to a computer**](connecting-a-pen-display.md)
+More here on the different ways a pen display can be connected to a computer:  [**Connecting a pen display to a computer**](./)
 
 A 3-in-1 cable typically looks like this:
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 Here's a typical picture of the three cables on the right.
 
-<figure><img src="../../.gitbook/assets/Slide_20250112_235634.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Slide_20250112_235634.jpg" alt=""><figcaption></figcaption></figure>
 
 The power end can work in different ways depending on which 3-in-1 cable you have
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 Older 3-in-1 cables may have a proprietary connection to the tablet instead of a regular USB-C connection.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ## Benefits of a 3-in-1 cable
 

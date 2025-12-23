@@ -2,7 +2,7 @@
 
 ## Overview
 
-&#x20;For several decades now drawing Talbots have been using USB cables to connect to computers. However, drawing tablets existed before USB was invented. In that era, drawing tablets connected to computers using serial cables or proprietary cables such as Apple Desktop Bus (ADB).
+&#x20;For several decades now drawing tablets have been using USB cables to connect to computers. However, drawing tablets existed before USB was invented. In that era, drawing tablets connected to computers using serial cables or proprietary cables such as Apple Desktop Bus (ADB).
 
 [https://en.wikipedia.org/wiki/Apple\_Desktop\_Bus](https://en.wikipedia.org/wiki/Apple_Desktop_Bus)
 
@@ -16,7 +16,7 @@ If you're interested in using a Wacom tablet that connects with the serial cable
 
 ### Drivers
 
-Modern Wacom drivers no longer support any serial connection. However, there is an alternative. ou can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
+Modern Wacom drivers no longer support any serial connection. However, there is an alternative. ou can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
 
 ### **Serial ports**
 

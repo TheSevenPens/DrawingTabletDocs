@@ -15,7 +15,7 @@ Key requirements for an extension cable
   * it must support sending enough power to your pen display
   * <mark style="color:red;">**SAFETY CRITICAL**</mark> it must support AT LEAST as much power as the tablet's original cable. If it is not rated to handle that much power it will be a safety / fire risk.
 
-To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md).
+To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../guides/connecting/connecting-a-pen-display/).
 
 ## The extension cable I use for pen displays
 

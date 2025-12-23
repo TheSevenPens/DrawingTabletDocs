@@ -90,7 +90,7 @@ Pen tablets are the clear winner for reliability. Pen tablets are very simple de
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/connections-and-cabling/connecting-a-pen-display.md)&#x20;
+Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/connecting/connecting-a-pen-display/)&#x20;
 
 ## Pointer lag
 

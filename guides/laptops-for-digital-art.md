@@ -59,11 +59,11 @@ These days the minimum I would recommend is 16GB of RAM. 16GB works will for me 
 
 **The biggest mistake people make in buying a laptop is in not verifying how they will connect a pen display to it.** You would be surprised how many times someone buys a laptop and only then realizes there isn't a way to physically connect it. Sometimes this can be solved with adapters and docks, but sometimes not. Do not make this mistake.
 
-Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [**Connecting a pen display**](connections-and-cabling/connecting-a-pen-display.md)&#x20;
+Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [**Connecting a pen display**](connecting/connecting-a-pen-display/)&#x20;
 
 I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [**USB-C DisplayPort alt mode**](pen-displays/usb-c-displayport-alt-mode.md)
 
-If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connections-and-cabling/connecting-a-pen-display-with-usb-c.md).Power consumption
+If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md).Power consumption
 
 Pen tablets don't draw much power at all from a laptop, so it won't diminish your battery time.
 

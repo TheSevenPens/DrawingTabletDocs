@@ -40,7 +40,7 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 **What they have in common**
 
 * Both have a little bit of diagonal wobble. The wobble can be addressed with smoothing/stabilization in your drawing app. More here: [**diagonal wobble**](../../../core-features/diagonal-wobble.md).&#x20;
-* Both can be used with a single USB-C cable if the requirements are met. [**Connecting a pen display with a single USB-C cable**](../../../guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)
+* Both can be used with a single USB-C cable if the requirements are met. [**Connecting a pen display with a single USB-C cable**](../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
 
 
 

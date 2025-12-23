@@ -47,7 +47,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Single USB-C cable connection?**
 
-YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/connections-and-cabling/connecting-a-pen-display-with-usb-c.md)
+YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
 
 **Ports**
 
