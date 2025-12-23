@@ -37,3 +37,9 @@ Exhibits moderate [**anti-glare sparkle**](../../../guides/pen-displays/anti-gla
 
 * I connect it to my PC with a separately purchased Huion full-featured USB-C cable.
 
+## Diagonal wobble
+
+Very low
+
+![](<../../../.gitbook/assets/Huion Kamvas 13 (GS1331) wobble.png>)
+

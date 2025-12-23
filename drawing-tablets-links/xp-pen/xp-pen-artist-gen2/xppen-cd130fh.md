@@ -8,6 +8,7 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 
 * Model year: 2022
 * Product page: [https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html](https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html)&#x20;
+* [user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf)&#x20;
 
 ## Pen
 
