@@ -6,8 +6,6 @@ description: Using an iPad as a drawing tablet
 
 ## Overview
 
-
-
 iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
 * [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
@@ -101,7 +99,7 @@ If you are going to draw with an Apple Pencil I recommend you get either the App
 
 ## Pen hover
 
-Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../core-features/pen-hover.md)&#x20;
+Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../core-features/pen-hover/)&#x20;
 
 Hover support in iPads:
 
