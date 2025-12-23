@@ -6,6 +6,12 @@ Screen protectors are protective sheets of some material (usually plastic) that 
 
 If you are looking for protection for other kinds of devices go here: [**Surface protection**](../../../../accessory-links/surface-protectors/)
 
+## **Laminated does NOT mean "screen protector"**
+
+This is a persistent point of confusion. People sometimes think a screen with "lamination" means there is a screen protector. Or vice-versa.
+
+**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [lamination](../../../../guides/pen-displays/lamination.md). &#x20;
+
 ## Key features
 
 * **Transparency** - Protective sheets for pen displays must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a pen display.
@@ -27,7 +33,7 @@ Here's an example for the Huion Kamvas 13 (GS1333).&#x20;
 
 However, be aware that sometimes the screen protector is not listed even if the tablet has one. In this case you'll need to contact support or other users of the tablet.
 
-### Replacing the pre-installed screen protector&#x20;
+## Replacing the pre-installed screen protector&#x20;
 
 It may be possible to replace pre-installed screen protector. This is useful if the screen protector itself gets scratched.
 
