@@ -3,7 +3,7 @@
 ## Basics
 
 * [<mark style="background-color:green;">**My notes on Apple iPad**</mark>](apple-ipad-1.md)&#x20;
-* Information on [**Apple Pencil**](../../links/pen-links/apple-pencil/)&#x20;
+* [<mark style="background-color:green;">**My notes on Apple Pencil**</mark>](../../links/pen-links/apple-pencil/)
 
 ## Comparisons
 
@@ -54,7 +54,7 @@
 * [MobileTechReview - 2022 Apple iPad Pro M2 11" Review](https://www.youtube.com/watch?v=Yp_B3WcTFgk) - 2022-10-22
 * [Brad Colbow - - 2022 iPad Pro 3 months later](https://www.youtube.com/watch?v=x6tUJt95N2Y) 2023-01-17&#x20;
 
-Nano texture
+## Nano texture
 
 * [Adam Duff - M4 iPad Pro Nano Texture Long term review](https://www.youtube.com/watch?v=phfvgIktSzY) 2024-08-14&#x20;
 * [Teoh on Tech - iPad Pro NANO-TEXTURE glass (artist review)](https://www.youtube.com/watch?v=jVDhiAT-HIo) 2024-06-03&#x20;
