@@ -4,36 +4,40 @@
 
 Pen displays (tablets with a screen) come in two varieties
 
-* those that have a glass surface, where your pen is making direct contact with the glass surface
-* And those that have a film on top of the glass surface, where your pen only touches the film and does not touch the glass
+* Those where your pen is making direct contact with the glass surface. Typically these tablets have an "etched glass" surface. See: [Etched glass](../pen-displays/etched-glass.md)
+* Those where your pen is touching a protective film covering the glass and so the pen does not touch the glass directly.
 
-## Displays with etched glass surface
+How these surface experience and show wear are different.
 
-the glass surface is usually an etched glass surface. The etching is a very subtle texture created on the glass usually through the means of some acid that has eaten away a little bit of the surface.
+## Wear on etched glass
 
-The texture gives two benefits. First, it helps the glass avoid feeling slippery as you draw. That slippery feeling is a very common complaint for some devices like an iPad. Second, that texture also disperses light that is coming from the room and this dispersion will reduce glare. So the etching is often referred to as an anti glare treatment.
+Etched glass that is used for append display is highly durable. They are designed to be directly drawn upon with the pens / nibs that the manufacturer also supplies. However, they are not infinitely resistant to damage from various sources. Also different etched glass treatments may have different levels of hardness.
 
-One negative aspect of the etching is that it can create an effect called anti glare sparkle. Sometimes the anti glare sparkle is very subtle but sometimes it is extremely strong and people do not like it. More here: Anti-Glare Sparkle.
+## Real-world examples
 
-## Displays with a film on top of glass
+### Example of durability
 
-in this case the film provides an anti glare treatment typically and provide some texture. Though I typically find that the texture.
+See this video by David Revoy who is testing the Kamvas Pro 19: [https://www.youtube.com/watch?v=M9VbiVJX-J4](https://www.youtube.com/watch?v=M9VbiVJX-J4)&#x20;
 
-## Wear on a etched glass surface
+At 3:32 he performs a scratch test. He tries to deliberately scratch the glass with:
 
-In a general sense the glass that is used for append display is highly durable. They are designed to be directly drawn upon with the pens / nibs that the manufacturer also supplies.
+* his car keys
+* a small piece of metal
+* a  hobby knife
 
-And while these glass surfaces are designed to be very durable, they are not infinitely resistant to damage from various sources.
+His attempts leave some kind of metallic-looking residue on the glass which he can clean off revealing the surface is not scratched.
 
-## Glass Surface Wear from drawing
+### Counterexamples
 
-Let's talk about the first kind of damage which is damage from just basic drawing. There are a wide variety of experiences people have with scratching up or damaging the glass of their pen display.
+On the internet (reddit, eBay, etc/) you can find plenty of people who have accidentally scratched the glass of their tablet (even of the Kamvas Pro 19). Sometimes these scratches appear not while drawing but seemingly during other moments when something has made contact with the tablet - perhaps with more extreme force. And some tablets show scratches for typical.
 
-Some people like me have drawn on pen displays for many years and have never seen any kind of scratching or damage that came from drawing.
+Below is a picture of a Wacom Cintiq 13 HD which has an etched glass surface. It exhibits a lot of wear. (I do think this is a relatively uncommon and extreme amount)
 
-But you can easily find people posting on online forums who show you photos of how the surface of their pen display has become worn. You can see for example regions of their pen displays that seem more scratched up and where the etched texture has clearly changed.
+![](../../.gitbook/assets/20qku3ezm38a1.jpg)
 
-## Preventing damage and wear to the glass surface
+From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)&#x20;
+
+## Preventing damage to glass
 
 ### Small particle damage
 
@@ -49,7 +53,13 @@ Some artists are very careful to remove anything metallic from there hands or wr
 
 If you were transporting your pen display you should make sure that the glass is covered by something to protect it during it's journey. I have seen people mentioned that they put their pen display in a backpack but that's some other object in the backpack made contact with and
 
-## Removing wear damage on a glass surface
+## Screen protectors
+
+Screen protectors on top of the tablet glass naturally protect the glass from damage. One benefit of is that if they do get damaged you can generally replace them.
+
+More: [Screen protectors for pen displays](../../links/accessory-links/surface-protectors/screen-protectors/)
+
+## Glass damage is permanent
 
 The glass surface of a pen display is not designed to be removed. In the case of fully laminated pen displays, remember that the glass is bonded to the display panel with the layer of optically clear adhesive (OCA). So in summary the glass you have is going to be there forever.
 
@@ -57,20 +67,8 @@ And anywhere or damage you caused the glass will also be there forever.
 
 I have never seen anyone find anyway to somehow remove any on the glass surface
 
-## Preventing damage using protective sheets
+## My experience
 
-Protective sheets on top of the tablet glass naturally protect the glass from damage.
-
-One benefit of protective sheets is if they do get damaged you can generally replace them.
-
-More here: [**protective sheets**](../../accessory-links/surface-protectors/)
-
-## Examples of damage
-
-### Example 1
-
-![](../../.gitbook/assets/20qku3ezm38a1.jpg)
-
-From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)&#x20;
+I have never scratched the glass of any of my 30+ pen displays - except for the Wacom Movink 13 (DTH-135) which has some kind of AF coating which is known to be "soft" and easily damaged.
 
 &#x20;

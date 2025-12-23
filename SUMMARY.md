@@ -150,6 +150,7 @@
     * [Retrobright to handle yellowed plastic](guides/caring-for-your-tablet/retrobright-to-handle-yellowed-plastic.md "Retrobrighting")
     * [Transporting your drawing tablet](guides/caring-for-your-tablet/transporting-your-drawing-tablet.md "Transporting")
     * [Avoid dropping your pen](guides/caring-for-your-tablet/avoid-dropping-your-pen.md)
+    * [Etched glass](guides/caring-for-your-tablet/etched-glass.md)
   * [Customizing your experience](guides/customizing/README.md "Customizing")
     * [Lowering the initial activation force (IAF)](guides/customizing/lowering-the-initial-activation-force-iaf.md "Lowering IAF")
     * [Matching aspect ratios with Force Proportions](guides/customizing/matching-aspect-ratios.md "Force proportions")

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Screen protectors protect the glass of your pen display from scratches.
+Screen protectors are protective sheets of some material (usually plastic) that cover the glass of your pen display and prevent certain kinds of damage.
 
 If you are looking for protection for other kinds of devices go here: [**Surface protection**](../../../../accessory-links/surface-protectors/)
 
@@ -12,15 +12,31 @@ If you are looking for protection for other kinds of devices go here: [**Surface
 * **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
 * **Parallax** - Since parallax increases when the distance increases from the tip of the pen from the display panel. However, in practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add.
 
-## Protection from the tablet manufacturer
+## Pre-installed screen protectors
 
-### Built-in screen protection on pen displays
+Some pen displays arrive with a screen protector already on top of the glass.&#x20;
 
-Some pen displays arrive with a protective film already on top of the screen. The purpose of this screen is to prevent glare and protect the glass. &#x20;
+You'll often see these pre-installed protectors listen in table specs like this:
 
-### Replacing the screen-protector that came with the tablet
+* anti-glare film
+* matte film
 
-It may be possible to replace that film. Contact your manufacturer to see if they sell replacement films.&#x20;
+Here's an example for the Huion Kamvas 13 (GS1333).&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+However, be aware that sometimes the screen protector is not listed even if the tablet has one. In this case you'll need to contact support or other users of the tablet.
+
+### Replacing the pre-installed screen protector&#x20;
+
+It may be possible to replace pre-installed screen protector. This is useful if the screen protector itself gets scratched.
+
+Note that:
+
+* Some tablets are designed to have the screen protector removed relatively easily
+* Some tables are designed to have the screen protector be permanent and they are difficult to remove. And removing might even cause you to accidentally damage the glass.
+
+Contact your manufacturer to see if they sell replacement films.&#x20;
 
 Examples:&#x20;
 
@@ -33,6 +49,20 @@ Examples:&#x20;
 * **ViaScreens** - makes different types of protectors for devices with screens. [**https://viascreens.com/**](https://viascreens.com/)
 * **atFoliX** - These are listed on amazon and eBay for a variety of sizes and products. I've never tried them. These protectors are clear and be used for pen displays.
 * **HealingShield** - Another brand that can be used for pen displays. Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19
+
+## Should you get a screen protector for your tablet?
+
+Tablets with screens are expensive. I understand the need to protect your investment.
+
+My guidance is this. If you are concerned about scratching your tablet, then it makes sense to get a screen protector - even if the benefit is just your **peace of mind**.
+
+## What to look for in a screen protector
+
+* If your tablet did not come with a screen protector, then it presumably has an etched glass surface which provides an anti-glare effect.&#x20;
+  * If you get a screen protector, you may want a clear one - so that you aren't adding TWO layers of AG effect.
+  * On the other hand, I've seen some people report that putting a clear screen protector on etched glass can reduce the amount of AG effect.
+* Some 3rd party screen protectors offer a "sample pack". So try a small sample before you commit to a full protector.
+* It can be super difficult to apply a screen protector and avoid air bubbles and dust. Have someone who is good at this help you or do it for you.
 
 ## Links
 
