@@ -31,7 +31,9 @@ NO
 
 ## IAF
 
-I found the IAF to be HIGH - typical for a consumer pen. Not as good as newer pens like the XP-Pen X3 Pro series.
+Testing 5 pens, I found the IAF to be HIGH - varying between 6gf to 8gf.
+
+Not as good as newer pens like the XP-Pen X3 Pro series.
 
 ## Max Pressure
 
@@ -39,3 +41,8 @@ I found the Max Pressure to be: OK&#x20;
 
 * TYPICAL: 280gf
 * RANGE: 200gf to 300gf
+
+## Pressure response
+
+<figure><img src="../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+
