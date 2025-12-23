@@ -1,14 +1,8 @@
 # XP-Pen P05 pen notes
 
+## Overview
 
-
-## Photos
-
-<figure><img src="../../.gitbook/assets/20250924_225446 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/20250924_225506 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/20250924_225647.jpg" alt=""><figcaption></figcaption></figure>
+The pen is from an older generation of pen technology - with a higher IAF than you would find in modern EMR pens. If a tablet comes with this pen, you might be OK with it. But in general, I would recommend a different tablet with a different pen.
 
 ## Pen tech
 
@@ -46,3 +40,10 @@ I found the Max Pressure to be: OK&#x20;
 
 <figure><img src="../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
 
+## Photos
+
+<figure><img src="../../.gitbook/assets/20250924_225446 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20250924_225506 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20250924_225647.jpg" alt=""><figcaption></figcaption></figure>
