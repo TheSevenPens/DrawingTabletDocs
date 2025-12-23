@@ -52,10 +52,14 @@ Examples:&#x20;
 
 ## 3rd-party screen protectors
 
-* **Photodon screen protectors** - Photodon sells pre-cut and custom-sized protectors for all kinds of devices including many drawing tablets. They have anti-glare films at different strengths so you can pick what works best for you. More here: [**Photodon screen protectors**](photodon-screen-protectors.md)
-* **ViaScreens** - makes different types of protectors for devices with screens. [**https://viascreens.com/**](https://viascreens.com/)
-* **atFoliX** - These are listed on amazon and eBay for a variety of sizes and products. I've never tried them. These protectors are clear and be used for pen displays.
-* **HealingShield** - Another brand that can be used for pen displays. Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19
+If your tablet manufacturer does not make a screen protector, then you do have 3rd-party options.
+
+This list comes from ones I have tested to some degree (Photodon) and those suggested by users on reddit posts. I don't use any of these screen protectors personally. So, please research thoroughly before you buy.&#x20;
+
+* **Photodon** - sells pre-cut and custom-sized protectors at different anti-glare strengths. I did some limited testing with a Photodon sample pack a few years ago. More here: [**Photodon screen protectors**](photodon-screen-protectors.md)
+* **ViaScreens** - [**https://viascreens.com/**](https://viascreens.com/)
+* **atFoliX**&#x20;
+* **HealingShield** - Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19
 
 ## Should you get a screen protector for your tablet?
 
