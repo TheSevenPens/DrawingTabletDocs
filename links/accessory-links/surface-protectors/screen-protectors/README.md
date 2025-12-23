@@ -12,11 +12,12 @@ This is a persistent point of confusion. People sometimes think a screen with "l
 
 **Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [lamination](../../../../guides/pen-displays/lamination.md). &#x20;
 
-## Key features
+## Characteristics
 
-* **Transparency** - Protective sheets for pen displays must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a pen display.
-* **Anti-glare** - you have to consider if the have an anti-glare treatment and how much anti-glare sparkle they cause. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
-* **Parallax** - Since parallax increases when the distance increases from the tip of the pen from the display panel. However, in practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add.
+* **Transparency** - Screen protectors must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a tablet with a screen.&#x20;
+* **Anti-glare** - Screen protectors usually offer some amount of ant-glare treatment. Screen protectors vary in how much of this treatment they have. And some deliberately offer low or no AG treatment at all.
+  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
+* **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [parallax](../../../../guides/pen-displays/parallax.md).
 
 ## Pre-installed screen protectors
 
@@ -33,9 +34,9 @@ Here's an example for the Huion Kamvas 13 (GS1333).&#x20;
 
 However, be aware that sometimes the screen protector is not listed even if the tablet has one. In this case you'll need to contact support or other users of the tablet.
 
-## Replacing the pre-installed screen protector&#x20;
+## Replacing pre-installed screen protectors&#x20;
 
-It may be possible to replace pre-installed screen protector. This is useful if the screen protector itself gets scratched.
+It MAY be possible to replace pre-installed screen protector. This is useful if the screen protector itself gets scratched.
 
 Note that:
 
@@ -49,7 +50,7 @@ Examples:&#x20;
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
 * [XP-Pen offers protective sheets for their tablets](../../../../accessory-links/surface-protectors/xp-pen-surface-protectors.md)
 
-## 3rd-party options
+## 3rd-party screen protectors
 
 * **Photodon screen protectors** - Photodon sells pre-cut and custom-sized protectors for all kinds of devices including many drawing tablets. They have anti-glare films at different strengths so you can pick what works best for you. More here: [**Photodon screen protectors**](photodon-screen-protectors.md)
 * **ViaScreens** - makes different types of protectors for devices with screens. [**https://viascreens.com/**](https://viascreens.com/)
@@ -69,6 +70,10 @@ My guidance is this. If you are concerned about scratching your tablet, then it 
   * On the other hand, I've seen some people report that putting a clear screen protector on etched glass can reduce the amount of AG effect.
 * Some 3rd party screen protectors offer a "sample pack". So try a small sample before you commit to a full protector.
 * It can be super difficult to apply a screen protector and avoid air bubbles and dust. Have someone who is good at this help you or do it for you.
+
+## Using screen protectors with pen tablets
+
+Screen protectors are intended to work with tablets that have screens. However nothing prevents them from being used with pen tablets (screenless tablets). In fact, many people use them exactly this way to preserve the surface of their pen tablet.&#x20;
 
 ## Links
 
