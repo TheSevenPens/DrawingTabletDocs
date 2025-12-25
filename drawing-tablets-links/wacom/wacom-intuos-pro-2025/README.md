@@ -8,7 +8,7 @@ description: PTK-x70 series
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-intuos-pro](https://www.wacom.com/en-us/products/wacom-intuos-pro)&#x20;
 * [<mark style="background-color:green;">**My notes on these tablets**</mark>](wacom-ptk-x70-notes.md)
-* Intuos pro generation: 8thd gen
+* Intuos pro generation: 8th gen
 * Release year: 2025
 * Preceded by: [Intuos Pro 2017](../wacom-intuos-pro-2017/)
 * Succeeded by: N/A
