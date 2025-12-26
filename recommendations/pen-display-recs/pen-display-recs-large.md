@@ -12,32 +12,27 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Huion Kamvas Pro 27 (GT2701) ★★★★ \[[**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
-* Wacom Cintiq Pro 27 \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-271-notes.md)]
-* Wacom Cintiq 24 / 24 touch (2025) ★★★★ \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dth-246-notes.md)]&#x20;
-* Wacom Cintiq Pro 22 \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-227-notes.md)]
+* Huion Kamvas Pro 27 (GT2701) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
+* Wacom Cintiq Pro 27 \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-271-notes.md)]
+* Wacom Cintiq 24 / 24 touch (2025) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dth-246-notes.md)]&#x20;
+* Wacom Cintiq Pro 22 \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-227-notes.md)]
 
 ## VERY GOOD
 
-* XP-Pen Artist Pro 22 GEN2 (MD220QH) ★★★★ [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md220qh.md)&#x20;
-* LARGE [**Xencelabs Pen Display 24**](../../drawing-tablets-links/xencelabs/) (LPH2412U-A) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xencelabs/xencelabs-lph2412u-a.md)]
+* XP-Pen Artist Pro 22 GEN2 (MD220QH)  [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md220qh.md)&#x20;
+* Xencelabs Pen Display 24 (LPH2412U-A) \[[**my notes**](../../drawing-tablets-links/xencelabs/xencelabs-lph2412u-a.md)]
 
 ## GOOD
 
-* XP-Pen Artist 22 Plus (MD220FH) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-artist/xppen-md220fh.md)]
-* [**Huion Kamvas Pro 24 4K**](../../drawing-tablets-links/huion/huion-kamvas-pro/) (GT2401) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
-* [**Huion Kamvas 24 Plus**](../../drawing-tablets-links/huion/huion-kamvas/) (GS2402) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas/)]
+* XP-Pen Artist 22 Plus (MD220FH) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist/xppen-md220fh.md)]
+* Huion Kamvas Pro 24 4K (GT2401) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
+* Huion Kamvas 24 Plus (GS2402) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas/)]
 
 ## DECENT
 
-* Huion Kamvas 22 Plus (GS2202) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-kamvas/huion-gs2202.md)]
+* Huion Kamvas 22 Plus (GS2202) \[[**my notes**](../../drawing-tablets-links/huion/huion-kamvas/huion-gs2202.md)]
 * Huion Kamvas 22 (GS2201) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas/)]&#x20;
-
-## OTHER
-
-### Older but worth investigating
-
-* Wacom Cintiq 22 (DTK-2260). \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260-notes.md)]
+* Wacom Cintiq 22 (DTK-2260). \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260-notes.md)] - excellent drawing experience. but outdated screen.
 
 ## Videos
 
