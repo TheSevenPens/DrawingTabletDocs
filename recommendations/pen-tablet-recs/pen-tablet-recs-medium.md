@@ -12,33 +12,33 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Medium (PTK-670) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
-* Wacom Intuos Pro Medium (PTH-660) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* Wacom Intuos Pro Medium (PTK-670) <mark style="background-color:$primary;">\[</mark>[<mark style="background-color:$primary;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)<mark style="background-color:$primary;">]</mark>
+* Wacom Intuos Pro Medium (PTH-660) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
 
 ## VERY GOOD
 
-* Huion Inspiroy Frego M (L610) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ]
+* Huion Inspiroy Frego M (L610) \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ]
 * XP-Pen Deco Pro
   * XP-Pen Deco Pro MW GEN2 (MT0962B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
   * XP-Pen Deco Pro LW GEN2 (MT1172B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
 
 ## GOOD
 
-* One by Wacom Medium (CTL-672)  \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)] <mark style="background-color:red;">\[no tilt, no wireless]</mark>&#x20;
-* XP-Pen Deco M (IT850)  \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] <mark style="background-color:red;">\[no wireless]</mark>&#x20;
+* One by Wacom Medium (CTL-672)  \[[**my notes**](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)] \[no tilt, no wireless]&#x20;
+* XP-Pen Deco M (IT850)  \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
 * XP-Pen Deco MW (IT850B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
 * XP-Pen Deco L (IT1060) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] <mark style="background-color:red;">\[no wireless]</mark> &#x20;
-* XP-Pen Deco LW (IT1060B) [<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-deco/xppen-it1060b.md)]
+* XP-Pen Deco LW (IT1060B) [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-deco/xppen-it1060b.md)]
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
-* Huion Inspiroy 2 L (H1061P)  \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
+* Huion Inspiroy 2 L (H1061P)  \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
 * Wacom Intuos Medium (CTL-6100)  \[[**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)] <mark style="background-color:red;">\[no tilt, no wireless]</mark>
 
 ## OK
 
-* Huion Inspiroy HS611 \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-hs611.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.&#x20;
-* Huion Inspiroy RTP-700 \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/7p-huion-rtp-700.md)] - Seems OK but haven't spent much time with it
+* Huion Inspiroy HS611 \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-hs611.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.&#x20;
+* Huion Inspiroy RTP-700 \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/7p-huion-rtp-700.md)] - Seems OK but haven't spent much time with it
 * XP-Pen Deco 01 V3 \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-deco/xp-pen-deco-01-v3-notes.md)]
 
 ## AVOID
 
-* Wacom One M (CTC-6110WL) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-one/wacom-one-pen-tablets-notes.md)]
+* Wacom One M (CTC-6110WL) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-one/wacom-one-pen-tablets-notes.md)]
