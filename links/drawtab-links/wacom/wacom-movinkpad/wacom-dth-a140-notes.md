@@ -250,6 +250,10 @@ EXCELLENT
 
 * Very pleasant texture to draw on. One of my favorites. The best of any standalone Android tablet I have used.
 * All nibs had terrific grip. Not slippery at all. The felt nib provided a big increased in the textured feeling.
+* Comparison of MVPP14 surface textures
+  * about the same as CIntiq 16 2025
+  * about the same as Cintiq 24 touch2025
+  * noticably less than Cintiq Pro 22
 
 ### Parallax
 
