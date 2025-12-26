@@ -252,7 +252,7 @@ EXCELLENT
 * All nibs had terrific grip. Not slippery at all. The felt nib provided a big increased in the textured feeling.
 * Comparison of MVPP14 surface textures
   * somewhat more than MovinkPad 11
-  * about the same as CIntiq 16 2025
+  * about the same as Cintiq 16 2025
   * about the same as Cintiq 24 touch 2025
   * noticeably less than Cintiq Pro 22
 
