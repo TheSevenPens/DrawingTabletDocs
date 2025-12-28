@@ -128,17 +128,15 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 ## **Connections and Cabling**
 
-**3-in-1 cable**
+### **Connecting with HDMI for video signal**
 
-It comes with a proprietary 3-in-1 cable.&#x20;
+For this case you use the included proprietary 3-in-1 cable.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (551).png" alt="" width="563"><figcaption></figcaption></figure>
 
-USB-C connection.&#x20;
+### **Connecting with USB-C for video signal**
 
-You can also connect to your computer with a USB-C cable (for display signal, and data) but you must **also** use the 3-in-1 cable for power.&#x20;
+For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data. &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (552).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
