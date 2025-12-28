@@ -112,6 +112,7 @@ I hope the next generation of this tablet incorporates these features:
   * Wacom One (CP-913) [Notes on CP-913](../../../../pen-links/wacom-pens/7p-wacom-cp-913.md)
   * Wacom One (CP-923) [Notes on CP-923](../../../../pen-links/wacom-pens/wacom-cp-923.md)
   * Samsung S Pen
+  * Keep in mind that these UD EMR pens are nowhere close to the quality of the Wacom professional pens such as the Pro Pen 3. Their chief advantage is that they cost much less - usually around 30 to $40 whereas the Pro Pen 3 costs $130.00. So, these UD EMR pens can serve as a backup in case you lose or break your Pro Pen 3.
 
 ### Incompatible Pens
 
