@@ -5,14 +5,14 @@
 
 * Read [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md)&#x20;
 * Review these [**Buying tips**](../../buying-a-drawing-tablet/buying-tips.md)&#x20;
-* Look through the [**Drawing Tablet Buying Guide**](../../buying-a-drawing-tablet/)&#x20;
+* Go through the [**Drawing Tablet Buying Guide**](../../buying-a-drawing-tablet/)&#x20;
 
 If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../)&#x20;
 {% endhint %}
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Medium (PTK-670) <mark style="background-color:$primary;">\[</mark>[<mark style="background-color:$primary;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)<mark style="background-color:$primary;">]</mark>
+* Wacom Intuos Pro Medium (PTK-670) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
 * Wacom Intuos Pro Medium (PTH-660) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
 
 ## VERY GOOD
@@ -27,11 +27,11 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 * One by Wacom Medium (CTL-672)  \[[**my notes**](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)] \[no tilt, no wireless]&#x20;
 * XP-Pen Deco M (IT850)  \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
 * XP-Pen Deco MW (IT850B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
-* XP-Pen Deco L (IT1060) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] <mark style="background-color:red;">\[no wireless]</mark> &#x20;
+* XP-Pen Deco L (IT1060) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
 * XP-Pen Deco LW (IT1060B) [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-deco/xppen-it1060b.md)]
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
 * Huion Inspiroy 2 L (H1061P)  \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
-* Wacom Intuos Medium (CTL-6100)  \[[**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)] <mark style="background-color:red;">\[no tilt, no wireless]</mark>
+* Wacom Intuos Medium (CTL-6100)  \[[**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)] \[no tilt, no wireless]
 
 ## OK
 

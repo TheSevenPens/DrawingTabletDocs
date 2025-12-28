@@ -12,8 +12,8 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Small (PTK-470) \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
-* Wacom Intuos Pro Small (PTH-460)  \[[<mark style="background-color:green;">**my notes**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* Wacom Intuos Pro Small (PTK-470) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
+* Wacom Intuos Pro Small (PTH-460)  \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
 
 ## VERY GOOD
 
