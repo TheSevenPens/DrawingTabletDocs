@@ -3,7 +3,6 @@
 * [Welcome](README.md)
 * [About Seven](about-thesevenpens/README.md)
   * [Tablet collection](about-thesevenpens/my-tablets.md)
-  * [My tablet setups](about-thesevenpens/my-tablet-setups.md)
 * [Basics](basics/README.md)
   * [Beginner's guide to drawing tablets](basics/beginners-guide.md "Beginner's guide")
   * [Types of drawing tablets](basics/types-of-drawing-tablets/README.md "Types of tablets")
