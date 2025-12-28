@@ -56,8 +56,14 @@ Summary: All of these are good pens. I have used each extensively and am happy w
   * IAF - GOOD - XP-Pen says 3gf
   * Max Pressure: 250gf to \~450gf (OK+ to VERY GOOD). I'd like this to be higher like the other pens and more consistent, but in practice I am happy with this pen.
 
-## Notes
+## Tilt
 
-* **Tilt** - Tilt is a function of tablets, not the pens. Thus, no meaningful statement about tilt can be derived from the pens themselves. Almost all the tablets that work with these pens support tilt.&#x20;
-* **Pressure levels** - All of these pens have at least 8K pressure levels. As I have mantained many times, you only need 2K pressure levels. Some of these pens are claimed to support 16K pressure levels. Ignore that. Instead, understand that each of these pens has more than enough pressure levels for the most demanding task.
-* Pressure curves - I recommend you use all drawing tablet pens with a pressure level that works for you. Do not assume that any pen works perfectly "out-of-the-box"
+Tilt is a function of tablets, not the pens. Thus, no meaningful statement about tilt can be derived from the pens themselves. Almost all the tablets that work with these pens support tilt.&#x20;
+
+## **Pressure levels**
+
+All of these pens have at least 8K pressure levels. As I have said many times, you only need 2K pressure levels. Some of these pens are claimed to support 16K pressure levels. Ignore that. Instead, understand that each of these pens has more than enough pressure levels for the most demanding task.
+
+## Pressure curves
+
+I recommend you use all drawing tablet pens with a pressure level that works for you. Do not assume that any pen works perfectly "out-of-the-box"
