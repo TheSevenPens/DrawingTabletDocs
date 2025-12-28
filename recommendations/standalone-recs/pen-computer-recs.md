@@ -1,6 +1,16 @@
 # Pen computer recommendations
 
-## Overview
+{% hint style="warning" %}
+**Before you purchase:**
+
+* Read [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md)&#x20;
+* Review these [**Buying tips**](../../buying-a-drawing-tablet/buying-tips.md)&#x20;
+* Look through the [**Drawing Tablet Buying Guide**](../../buying-a-drawing-tablet/)&#x20;
+
+If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../)&#x20;
+{% endhint %}
+
+## **Overview**
 
 **Pen computers** are slate form-factor laptops that provide the full drawing tablet experienc&#x65;**.**
 

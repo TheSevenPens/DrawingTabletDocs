@@ -1,14 +1,24 @@
 # Pen-enabled 2-in-1 laptop recommendations
 
-## **Overview**
+{% hint style="warning" %}
+**Before you purchase:**
 
-These aren't really drawing tablets. They're laptops that you can use for drawing also. The drawing experience with these devices is not as good as a dedicated drawing tablet but they may be enough for what you need.
+* Read [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md)&#x20;
+* Review these [**Buying tips**](../../buying-a-drawing-tablet/buying-tips.md)&#x20;
+* Look through the [**Drawing Tablet Buying Guide**](../../buying-a-drawing-tablet/)&#x20;
+
+If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../)&#x20;
+{% endhint %}
+
+## Overview
+
+Pen-enabled 2-in-1 laptops aren't really drawing tablets. They're laptops that you can also use for drawing. The drawing experience with these devices is not as good as a dedicated drawing tablet but they may be enough for what you need.
 
 * Operating system: currently all run Windows
 * Scenario: General purpose
 * Pen tech: varies. MPP, EMR
 
-These kinds of devices are really for general purpose use. So if what you want is a full operating system where you can use things like Microsoft Office, or the full version of Photoshop, etcetera. Then these suitable choices for a standalone tablet.
+These devices are really for general purpose use. These are great choices when what you want is a full-featured desktop operating system where you can use things like Microsoft Office, or the full version of Photoshop, etc.
 
 ## Samsung Galaxy Book 4/5 360
 
