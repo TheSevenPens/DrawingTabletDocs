@@ -2,49 +2,62 @@
 
 ## Overview
 
-Summary: The Wacom Pro Pen 2 is the still the best professional drawing tablet pen on the market.
-
-## Ranking
+Summary: All of these are good pens. I have used each extensively and am happy with them. If I had to choose: the Wacom Pro Pen 2 is the still the best professional drawing tablet pen on the market.&#x20;
 
 * WINNER Wacom Pro Pen 2 (KP-504E) - [my notes on KP-504E](../../pen-links/wacom-pens/7p-wacom-kp-504e.md)
 * RUNNER-UP: Wacom Pro Pen 3 (ACP-500) - [my notes on ACP-500](../../pen-links/wacom-pens/7p-wacom-acp-500.md)
 * SECOND PLACE: Huion PW600 series - [my notes on Huion PW600](../../pen-links/huion-pen-models/7p-huion-pw600.md)&#x20;
 * THIRD place: XP-Pen X3 Pro series pens - [my notes on XP-Pen X3](../../links/pen-links/xp-pen-pens/xppen-x3pro-pen.md)&#x20;
 
-All of these are good pens, but some are truly EXCELLENT. I am happy using all of them.&#x20;
-
 ## Wacom Pro Pen 2 (KP-504E)
 
 * Classic look and feel
-* 2 buttons
-* Consistently low IAF - measured as <1gf by tablet expert Kuuube
-* Consistently high IAD - in the excellent range ≥ 500gf
-* Has eraser
+* Features:
+  * 2 buttons
+  * Has eraser
+* Pressure
+  * Consistently low IAF - measured as <1gf by tablet expert Kuuube
+  * Consistently high IAD - 700gf to 800gf, well into the EXCELLENT range&#x20;
 
 ## Wacom Pro Pen 3 (AXP-500)
 
-* Unusual look and feel
-* 3 polarizing
 * Very polarizing - some people hate this pen
-* Some modules offer customization
-  * weight and weight distribution
-  * different grips
-* No eraser&#x20;
-* Different versions come with different tablets
-  * Some offer customization
-  * Some don't
+* Unusual look and feel
+* Features
+  * 3 buttons
+  * No eraser
+  * Customization (some models)
+    * weight and weight distribution
+    * different grips
+* Different versions come with different tablets. Some offer customization but some don't
+* Pressure
+  * IAF - Kuuube measures IAF of ACP-500 as a little higher than Pro Pen 2.&#x20;
+  * Max pressure - In the EXCELENT range. 550gf to 700gf. The maximum values are a little less than the KP-504E but still in the excellent range.&#x20;
 
 ## Huion PW600 series
 
 * Honestly could be the runner up
-* 2 or 3 buttons depending on variant
-* Low IAF - Huion says 2gf
-* Consistently high max pressure close to or exceeding EXCELLENT (500gf)
-  * \~450gf to \~550gf&#x20;
+* Features
+  * 2 or 3 buttons depending on model
+* Pressure
+  * IAF - GOOD - Huion says 2gf
+  *   Consistently high max pressure: \~450gf to \~550gf in the close to or inside EXCELLENT range
+
+      &#x20;
 
 ## XP-Pen X3 Pro
 
 * GOOD pen
-* 2 or 3 buttons depending on variant
-* Low IAF - XP-Pen says 3gf
-* Max Pressure: 250gf to \~450gf (OK+ to VERY GOOD)
+* Features
+  * 2 or 3 buttons depending on variant
+  * Eraser&#x20;
+  * Roller on one model
+* Pressure
+  * IAF - GOOD - XP-Pen says 3gf
+  * Max Pressure: 250gf to \~450gf (OK+ to VERY GOOD). I'd like this to be higher like the other pens and more consistent, but in practice I am happy with this pen.
+
+## Notes
+
+* **Tilt** - Tilt is a function of tablets, not the pens. Thus, no meaningful statement about tilt can be derived from the pens themselves. Almost all the tablets that work with these pens support tilt.&#x20;
+* **Pressure levels** - All of these pens have at least 8K pressure levels. As I have mantained many times, you only need 2K pressure levels. Some of these pens are claimed to support 16K pressure levels. Ignore that. Instead, understand that each of these pens has more than enough pressure levels for the most demanding task.
+* Pressure curves - I recommend you use all drawing tablet pens with a pressure level that works for you. Do not assume that any pen works perfectly "out-of-the-box"
