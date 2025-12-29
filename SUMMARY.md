@@ -578,6 +578,7 @@
       * [Wacom 4K Pen for Intuos (LP-1100K) notes](pen-links/wacom-pens/wacom-4k-pen-for-intuos-lp-1100k-notes.md "4K Pen (LP-1100K) ")
       * [Wacom Bamboo Pen (LP-170) notes](pen-links/wacom-pens/wacom-bamboo-pen-lp-170-notes.md "Bamboo Pen (LP-170)")
       * [Wacom Art Marker Pen (ZP-600)](links/pen-links/wacom-pens/wacom-art-marker-pen-zp-600.md "Art Marker Pen (ZP-600)")
+      * [Wacom Intuos3 Grip Pen (ZP-501E)](links/pen-links/wacom-pens/wacom-zp-501e-notes.md "Intuos3 Grip Pen (ZP-501E)")
     * [Apple pens](links/pen-links/apple-pencil/README.md "Apple")
       * [Apple Pencil notes](links/pen-links/apple-pencil/apple-pencil-notes.md)
     * [Huion pens](pen-links/huion-pen-models/README.md "Huion")
