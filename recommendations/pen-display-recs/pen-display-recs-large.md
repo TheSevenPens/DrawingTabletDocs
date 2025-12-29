@@ -13,14 +13,14 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## EXCELLENT
 
 * Huion Kamvas Pro 27 (GT2701) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
-* Wacom Cintiq Pro 27 \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-271-notes.md)]
-* Wacom Cintiq 24 / 24 touch (2025) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dth-246-notes.md)]&#x20;
-* Wacom Cintiq Pro 22 \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq-pro/wacom-dth-227-notes.md)]
+* Wacom Cintiq Pro 27 \[[**my notes**](../../links/drawtab-links/wacom/wacom-cintiq-pro/wacom-dth271-notes.md)]
+* Wacom Cintiq 24 / 24 touch (2025) \[[**my notes**](../../links/drawtab-links/wacom/wacom-cintiq/wacom-dth246-notes.md)]&#x20;
+* Wacom Cintiq Pro 22 \[[**my notes**](../../links/drawtab-links/wacom/wacom-cintiq-pro/wacom-dth227-notes.md)]
 
 ## VERY GOOD
 
 * XP-Pen Artist Pro 22 GEN2 (MD220QH)  [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md220qh.md)&#x20;
-* Xencelabs Pen Display 24 (LPH2412U-A) \[[**my notes**](../../drawing-tablets-links/xencelabs/xencelabs-lph2412u-a.md)]
+* Xencelabs Pen Display 24 (LPH2412U-A) \[[**my notes**](../../links/drawtab-links/xencelabs/xencelabs-lph2412ua.md)]
 
 ## GOOD
 
@@ -32,7 +32,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 * Huion Kamvas 22 Plus (GS2202) \[[**my notes**](../../drawing-tablets-links/huion/huion-kamvas/huion-gs2202.md)]
 * Huion Kamvas 22 (GS2201) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas/)]&#x20;
-* Wacom Cintiq 22 (DTK-2260). \[[**my notes**](../../drawing-tablets-links/wacom/wacom-cintiq/wacom-dtk-2260-notes.md)] - excellent drawing experience. but outdated screen.
+* Wacom Cintiq 22 (DTK-2260). \[[**my notes**](../../links/drawtab-links/wacom/wacom-cintiq/wacom-dtk2260-notes.md)] - excellent drawing experience. but outdated screen.
 
 ## Videos
 

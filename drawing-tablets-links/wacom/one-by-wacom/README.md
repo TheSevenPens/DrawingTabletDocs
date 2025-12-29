@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [<mark style="background-color:green;">**my notes on the One by Wacom CTL-x72 series tablets**</mark>](wacom-ctl-x72-notes.md)
+* [<mark style="background-color:green;">**my notes on the One by Wacom CTL-x72 series tablets**</mark>](../../../links/drawtab-links/wacom/one-by-wacom/wacom-ctlx72-notes.md)
 * Model year: 2019
 
 ## Models

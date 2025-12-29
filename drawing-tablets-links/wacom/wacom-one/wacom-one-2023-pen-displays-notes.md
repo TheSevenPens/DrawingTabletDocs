@@ -35,7 +35,7 @@ As you can see from the my testing below. The stroke quality with the new pen is
 
 ## Notes on the new Wacom One Pen GEN2 CP-923
 
-**See this:** [<mark style="background-color:green;">**My notes on Wacom CP-923**</mark>](../../../pen-links/wacom-pens/wacom-cp-923.md)&#x20;
+**See this:** [<mark style="background-color:green;">**My notes on Wacom CP-923**</mark>](../../../links/pen-links/wacom-pens/wacom-cp923-notes.md)&#x20;
 
 ## **Cables & connectivity**
 

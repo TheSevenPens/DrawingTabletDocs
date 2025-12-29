@@ -12,8 +12,8 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Large (PTK-870) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
-* Wacom Intuos Pro Large (PTH-860) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* Wacom Intuos Pro Large (PTK-870) \[[**my notes**](../../links/drawtab-links/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)]
+* Wacom Intuos Pro Large (PTH-860) \[[**my notes**](../../links/drawtab-links/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)]
 
 ## VERY GOOD
 
@@ -22,5 +22,5 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## GOOD
 
 * Huion Inspiroy Giano (G930L) \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-g930l.md)]
-* Huion Inspiroy 2 L  \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
+* Huion Inspiroy 2 L \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
 

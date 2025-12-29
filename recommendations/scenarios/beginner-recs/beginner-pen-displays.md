@@ -23,5 +23,5 @@ MEDIUM 16"&#x20;
 ## Decent options
 
 * Kamvas 16 V2 (GT-156 V2) \[$400, [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/huion/huion-kamvas/huion-kamvas-16-v2-gt-156-v2-notes.md)]
-* Wacom One 14 (DTC-141) \[[<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/wacom/wacom-one/wacom-dtc-141-notes.md)]
+* Wacom One 14 (DTC-141) \[[<mark style="background-color:green;">**my notes**</mark>](../../../links/drawtab-links/wacom/wacom-one/wacom-dtc141-notes.md)]
 

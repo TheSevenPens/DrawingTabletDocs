@@ -13,8 +13,8 @@ Generally I advise against getting a LARGE pen tablet unless one of these is try
 
 If you want a large pen tablet, pick from one of these:
 
-* Wacom Intuos Pro PTK-870: EXCELLENT ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md))
-* Wacom Intuos Pro PTH-860: EXCELLENT ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md))
+* Wacom Intuos Pro PTK-870: EXCELLENT ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md))
+* Wacom Intuos Pro PTH-860: EXCELLENT ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md))
 * XP-Pen Deco Pro XLW GEN2 (MT1592B): VERY GOOD ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/xppen-mt1592b.md))
 * Huion Inspiroy Giano G930L: GOOD ([<mark style="background-color:green;">**my notes on this tablet**</mark>](../../drawing-tablets-links/huion/huion-inspiroy/huion-g930l.md))
 

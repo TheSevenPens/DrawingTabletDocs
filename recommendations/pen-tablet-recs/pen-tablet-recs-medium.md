@@ -12,8 +12,8 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Medium (PTK-670) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/wacom-ptk-x70-notes.md)]
-* Wacom Intuos Pro Medium (PTH-660) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/wacom-pth-x60-notes.md)]
+* Wacom Intuos Pro Medium (PTK-670) \[[**my notes**](../../links/drawtab-links/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)]
+* Wacom Intuos Pro Medium (PTH-660) \[[**my notes**](../../links/drawtab-links/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)]
 
 ## VERY GOOD
 
@@ -24,7 +24,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## GOOD
 
-* One by Wacom Medium (CTL-672)  \[[**my notes**](../../drawing-tablets-links/wacom/one-by-wacom/wacom-ctl-x72-notes.md)] \[no tilt, no wireless]&#x20;
+* One by Wacom Medium (CTL-672)  \[[**my notes**](../../links/drawtab-links/wacom/one-by-wacom/wacom-ctlx72-notes.md)] \[no tilt, no wireless]&#x20;
 * XP-Pen Deco M (IT850)  \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
 * XP-Pen Deco MW (IT850B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
 * XP-Pen Deco L (IT1060) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
