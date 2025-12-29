@@ -2,31 +2,42 @@
 
 ## Introduction
 
-If you are new to drawing tablets, after reading this guide you'll understand how these devices work and be prepared to use one or to purchase one.&#x20;
+New to drawing tablets? This guide helps you understand how they work, prepares you to use one, and assists in making a purchase decision.
 
 {% hint style="info" %}
-**Buying a tablet?** Read this beginner's guide first. Then look at the detailed [**buying guide**](../buying-a-drawing-tablet/). It has links to my [**recommendations**](../recommendations/)**.** If are a beginner, and want to get a very quick recommendation, go here: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/). Once you have a tablet, look here: [**Getting started with a drawing tablet**](getting-started-with-a-drawing-tablet.md).
+**Buying a tablet?**&#x20;
+
+1. Read this beginner's guide first.&#x20;
+2. Then look at the detailed [**buying guide**](../buying-a-drawing-tablet/). It has links to my [**recommendations**](../recommendations/)**.**&#x20;
+3. If you just want a quick recommendation for beginners, go here: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/).&#x20;
+4. Once your tablet arrives, look here: [**Getting started with a drawing tablet**](getting-started-with-a-drawing-tablet.md).
 {% endhint %}
 
 ## Types of drawing tablets &#x20;
 
-Before you continue, be sure to read this thoroughly: [**Types of drawing tablets**](types-of-drawing-tablets/). Once you understand the different types of tablets then continue.
+Before you continue, read this: [**Types of drawing tablets**](types-of-drawing-tablets/). Once you understand the different types of tablets, then continue.
 
 The key ways to categorize a drawing tablet:
 
 * Does it have a screen?
 * Is it standalone?
 
-These two things affect how the device is used, tje cost, and how well a tablet works for certain scenarios and for different users.&#x20;
+These two things affect how the tablet is used, the cost, and for which scenarios the tablet will work well.
+
+
 
 ## Basics
 
+**Summary**
+
+A drawing tablet lets you use a **digital pen** (also called a **stylus**) as an input device. &#x20;
+
 **Position tracking**
 
-A drawing tablet lets you use a **digital pen** (also called a **stylus**) as an input device. As you move the pen on the tablet, your computer's "mouse pointer" mirrors the motion of the pen. This is first key feature of a drawing tablet - the **accurate tracking of the pen's position**.&#x20;
+As you move the pen on the tablet, your computer's "mouse pointer" mirrors the motion of the pen. &#x20;
 
-* If a drawing tablet does not have a screen, then the pointer will move on one of you monitors.
-* If a drawing tablet has a screen, then the  pointer will move on the tablet's screen.
+* Drawing does not have a screen -> pointer will move on one of your monitors.
+* Drawing tablet has a screen -> pointer will move on the tablet's screen.
 
 **Clicking**
 
@@ -34,7 +45,7 @@ Every time you touch the pen to the tablet, your computer will interpret the con
 
 **Hover**
 
-The tablet tracks the pens position up to about 10mm from the surface of the tablet and will move the pointer even if the pen is not touching the tablet. This is called **hover** and is very important because it lets you reposition the pointer without drawing or clicking.&#x20;
+The tablet tracks the pens position up to about 10mm from the surface of the tablet and will move the pointer even if the pen is not touching the tablet. This is called **hover** or **hover detection**. Hover is very important because it lets you reposition the pointer without drawing or clicking.&#x20;
 
 **Pressure sensitivity**
 
