@@ -5,7 +5,7 @@
 13" pen displays very popular, often representing great choices for beginners. In this document I compare some popular options in the market in 2023.
 
 * Huion Kamvas 13  (GS1331) -  [my notes](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1331.md) | model year 2020
-* XP-Pen Artist 13 GEN2 (CD130FH) -  [my notes](../../links/drawtab-links/xp-pen/xppen-artist-gen2/xppen-cd130fh.md) | model year 2022
+* XP-Pen Artist 13 GEN2 (CD130FH) -  [my notes](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/xppen-cd130fh.md) | model year 2022
 * Wacom One 2019 GEN1 (DTC-133) - [my notes](../../links/drawtab-links/wacom/wacom-one/wacom-dtc133-notes.md) | model year 2019
 
 ## Summary

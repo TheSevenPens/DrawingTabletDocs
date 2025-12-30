@@ -27,7 +27,7 @@ These are for when you want a GREAT drawing experience. Especially if you are al
 ### OK
 
 * XP-Pen Magic Drawing Pad 2024 - I don't have any experience with this tablet.
-* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/xp-pen/xppen-pads/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/xp-pen/xp-pen-pads/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
 
 ## For general usage
 

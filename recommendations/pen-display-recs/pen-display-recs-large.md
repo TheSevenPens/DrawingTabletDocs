@@ -19,12 +19,12 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## VERY GOOD
 
-* XP-Pen Artist Pro 22 GEN2 (MD220QH)  [**my notes**](../../links/drawtab-links/xp-pen/xppen-artist-pro-gen2/xppen-md220qh.md)&#x20;
+* XP-Pen Artist Pro 22 GEN2 (MD220QH)  [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md220qh.md)&#x20;
 * Xencelabs Pen Display 24 (LPH2412U-A) \[[**my notes**](../../links/drawtab-links/xencelabs/xencelabs-lph2412ua.md)]
 
 ## GOOD
 
-* XP-Pen Artist 22 Plus (MD220FH) \[[**my notes**](../../links/drawtab-links/xp-pen/xppen-artist/xppen-md220fh.md)]
+* XP-Pen Artist 22 Plus (MD220FH) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist/xppen-md220fh.md)]
 * Huion Kamvas Pro 24 4K (GT2401) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas-pro/)]
 * Huion Kamvas 24 Plus (GS2402) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas/)]
 

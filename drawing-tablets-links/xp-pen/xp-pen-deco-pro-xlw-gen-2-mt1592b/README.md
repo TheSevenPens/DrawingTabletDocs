@@ -12,7 +12,7 @@
 
 ## XP-Pen Deco Pro XLW GEN2 (MT1592B)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](xppen-mt1592b-notes.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](xppen-mt1592b.md)
 
 
 
