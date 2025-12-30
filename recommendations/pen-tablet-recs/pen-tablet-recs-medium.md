@@ -19,8 +19,8 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 * Huion Inspiroy Frego M (L610) \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ]
 * XP-Pen Deco Pro
-  * XP-Pen Deco Pro MW GEN2 (MT0962B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
-  * XP-Pen Deco Pro LW GEN2 (MT1172B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]
+  * XP-Pen Deco Pro MW GEN2 (MT0962B) \[[**links**](../../links/drawtab-links/xp-pen/xppen-deco-pro-gen2/)]
+  * XP-Pen Deco Pro LW GEN2 (MT1172B) \[[**links**](../../links/drawtab-links/xp-pen/xppen-deco-pro-gen2/)]
 
 ## GOOD
 
@@ -28,7 +28,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 * XP-Pen Deco M (IT850)  \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
 * XP-Pen Deco MW (IT850B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
 * XP-Pen Deco L (IT1060) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
-* XP-Pen Deco LW (IT1060B) [**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-deco/xppen-it1060b.md)]
+* XP-Pen Deco LW (IT1060B) [**my notes**](../../links/drawtab-links/xp-pen/xp-pen-deco/xppen-it1060b-notes.md)]
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
 * Huion Inspiroy 2 L (H1061P)  \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
 * Wacom Intuos Medium (CTL-6100)  \[[**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)] \[no tilt, no wireless]
@@ -37,7 +37,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 * Huion Inspiroy HS611 \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-hs611.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.&#x20;
 * Huion Inspiroy RTP-700 \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/7p-huion-rtp-700.md)] - Seems OK but haven't spent much time with it
-* XP-Pen Deco 01 V3 \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-deco/xp-pen-deco-01-v3-notes.md)]
+* XP-Pen Deco 01 V3 \[[**my notes**](../../links/drawtab-links/xp-pen/xp-pen-deco/xppen-deco01v3-notes.md)]
 
 ## AVOID
 

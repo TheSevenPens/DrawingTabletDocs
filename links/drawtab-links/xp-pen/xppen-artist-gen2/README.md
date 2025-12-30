@@ -14,7 +14,7 @@
 
 ## XP-Pen Artist 13 GEN2 (CD130FH)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../../recommendations/comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../../../recommendations/comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md)
 
 ## XP-Pen Artist 14 GEN2 (MD140FH)
 

@@ -1,4 +1,4 @@
-# Wacom SD tablets
+# Wacom SD series
 
 ## Overview
 
@@ -10,7 +10,7 @@ In many ways these tablets works exactly like you would expect a modern drawing 
 
 * Release year: 1988
 * Preceded by: N/A
-* Succeeded by: [Wacom UD series](../wacom-ud-tablets.md)
+* Succeeded by: [Wacom UD series](../wacom-ud-series.md)
 
 ## Cordless
 
@@ -23,7 +23,7 @@ Wacom emphasizes in the product materials that this is a “cordless” tablet. 
 
 ## Connections and cabling
 
-* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../guides/connecting/connecting-a-pen-tablet/connecting-a-drawing-tablets-with-a-serial-cable.md)
+* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../../guides/connecting/connecting-a-pen-tablet/connecting-a-drawing-tablets-with-a-serial-cable.md)
 * The SD-510C unlike some other SD models, does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer. That box contains the "brains" of the tablet and lets the SD-510C be much thinner than other SD models.
 * Cables were permanently fixed to the tablet.&#x20;
 
@@ -59,7 +59,7 @@ But other models in the SD series are not much much thicker and do not feature t
 
 ## Models
 
-<table><thead><tr><th width="174.50006103515625">Model</th><th>Notes</th></tr></thead><tbody><tr><td>SD-510C</td><td><a href="../../../links/drawtab-links/wacom/wacom-sd-tablets/wacom-sd510c-notes.md"><mark style="background-color:green;"><strong>notes on SD-510C</strong></mark></a></td></tr><tr><td>SD-420E</td><td></td></tr><tr><td>SD-421E</td><td></td></tr><tr><td>SD-422E</td><td></td></tr><tr><td>SD-320L</td><td></td></tr><tr><td>SD-320E</td><td></td></tr><tr><td>SD-321E</td><td></td></tr><tr><td>SD-322E</td><td></td></tr><tr><td>SD-310E</td><td></td></tr><tr><td>SD-311E</td><td></td></tr><tr><td>SD-312E</td><td></td></tr><tr><td>SD-210L</td><td></td></tr><tr><td>SD-013A</td><td></td></tr><tr><td>SD-013L</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="174.50006103515625">Model</th><th>Notes</th></tr></thead><tbody><tr><td>SD-510C</td><td><a href="wacom-sd510c-notes.md"><mark style="background-color:green;"><strong>notes on SD-510C</strong></mark></a></td></tr><tr><td>SD-420E</td><td></td></tr><tr><td>SD-421E</td><td></td></tr><tr><td>SD-422E</td><td></td></tr><tr><td>SD-320L</td><td></td></tr><tr><td>SD-320E</td><td></td></tr><tr><td>SD-321E</td><td></td></tr><tr><td>SD-322E</td><td></td></tr><tr><td>SD-310E</td><td></td></tr><tr><td>SD-311E</td><td></td></tr><tr><td>SD-312E</td><td></td></tr><tr><td>SD-210L</td><td></td></tr><tr><td>SD-013A</td><td></td></tr><tr><td>SD-013L</td><td></td></tr></tbody></table>
 
 ## User manuals
 
@@ -72,6 +72,6 @@ But other models in the SD series are not much much thicker and do not feature t
 
 ## Using Wacom SD tablets on modern computers
 
-If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
+If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
 
 [https://github.com/Kuuuube/KuuubeTD](https://github.com/Kuuuube/KuuubeTD)

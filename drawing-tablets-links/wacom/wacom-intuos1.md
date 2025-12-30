@@ -9,7 +9,7 @@ description: GD series
 Wacom  released the Intuos series of professional pen tablets in 1998.&#x20;
 
 * Release year: 1998
-* Preceded by: [Wacom UD series](wacom-ud-tablets.md)
+* Preceded by: [Wacom UD series](../../links/drawtab-links/wacom/wacom-ud-series.md)
 * Succeeded by: [Intuos2](wacom-intuos2.md)
 * Intuos pro generation: 1st gen
 * Last supported driver

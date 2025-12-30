@@ -13,8 +13,8 @@ Huion Kamvas 13 GEN3 (GS1333)  \[$260, [<mark style="background-color:green;">**
 SMALL 13"&#x20;
 
 * Huion Kamvas 13 GEN3 (GS1333)  \[$260, [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/huion/huion-kamvas/huion-gs1333.md)] ★★★
-* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/xppen-cd130fh.md)]
-* XP-Pen Artist 12 GEN3 (CD121FH) \[$220, [<mark style="background-color:green;">**my notes**</mark>](../../../drawing-tablets-links/xp-pen/xp-pen-artist-gen3/xppen-cd121fh.md)]
+* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [<mark style="background-color:green;">**my notes**</mark>](../../../links/drawtab-links/xp-pen/xppen-artist-gen2/xppen-cd130fh.md)]
+* XP-Pen Artist 12 GEN3 (CD121FH) \[$220, [<mark style="background-color:green;">**my notes**</mark>](../../../links/drawtab-links/xp-pen/xppen-artist-gen3/xppen-cd121fh.md)]
 
 MEDIUM 16"&#x20;
 
