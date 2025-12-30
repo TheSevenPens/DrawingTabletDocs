@@ -387,6 +387,7 @@
       * [XOOT stand](accessory-links/stands/xoot-stand.md "XOOT")
       * [iPad stands](accessory-links/stands/ipad-stands.md)
       * [Xencelabs Mobile Easel](accessory-links/stands/xencelabs-mobile-easel.md)
+      * [Huion ST100 stand](links/accessory-links/stands/huion-st100-stand.md)
     * [Docks and hubs](accessory-links/docks-and-hubs/README.md)
       * [CalDigit](accessory-links/docks-and-hubs/caldigit/README.md)
         * [CalDigit USB-C to HDMI 2.1 adapter](accessory-links/docks-and-hubs/caldigit/caldigit-usb-c-to-hdmi-2.1-adapter.md)

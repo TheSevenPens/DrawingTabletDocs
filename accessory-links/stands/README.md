@@ -18,21 +18,18 @@ VESA is a standard to mount displays to various things using screws. More here: 
 
 <div align="left"><figure><img src="../../.gitbook/assets/20240528_113803.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand </p></figcaption></figure></div>
 
-Here is another stand from Huion. This was works fine, though I find its level a little more difficult to find and use.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (79).png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure></div>
-
-
-
 These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable.
 
 ## Pen display size
 
-Huion lists this stand as being compatible with 19" to 24" pen displays.
+Stands me be intended for use with a specific size range of pen displays. Pay attention to the specs.
 
-It's important to match the stand with the height of the pen display. A stand designed for a smaller pen display will have its angle adjustment lever in a position so that it is convenient to reach by putting your hand over the top of the display. However when used with a large display that lever may be much more difficult to reach.
+It's important to match the stand with the height of the pen display.&#x20;
 
-I tried this stand with a 16" pen display - a Wacom Cintiq 16 2025 (DTK-168). It attached fine - which was expected. Everything worked but there is one thing to be aware of: at the very lowest angles the bottom edge of the tablet does not rest on the desk. This means at those angles if you press down on the tablet, there is a bit of wobble. At higher angles there is no wobble - everything is stable.
+Some issues you might run into:&#x20;
+
+* A stand designed for a smaller pen display will have its angle adjustment lever in a position so that it is convenient to reach by putting your hand over the top of the display. However when used with a large display that lever may be much more difficult to reach.
+* A stand designed for larger pen displays may not be as stable when at its lowest angles because the bottom edge of the pen display may not rest on the desk. This may introduce some wobble.
 
 ## Options
 
@@ -81,11 +78,9 @@ See this video
 
 {% embed url="https://www.youtube.com/watch?v=rA3WQDBzEn4" %}
 
-##
-
 ## Stands I use
 
-* I use the Huion ST100A stand with my Huion Kamvas Pro 19
+* I use the Huion ST100A stand with my Huion Kamvas Pro 19. [**My notes on Huion ST100 stand**](../../links/accessory-links/stands/huion-st100-stand.md).
 * I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](vivo-v100r.md)
 
 ## Links
