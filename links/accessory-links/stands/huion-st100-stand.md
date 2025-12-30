@@ -23,3 +23,8 @@ Vey stable - no wobble
 ## Using it with a 16" pen display
 
 I tried this stand with a 16" pen display - a Wacom Cintiq 16 2025 (DTK-168). It attached fine - which was expected. Everything worked but there is one thing to be aware of: at the very lowest angles the bottom edge of the tablet does not rest on the desk. This means at those angles if you press down on the tablet, there is a bit of wobble. At higher angles there is no wobble - everything is stable.
+
+You could probably mitigate this issue wth low angles by adding some kind of padding under the bottom edge.
+
+<figure><img src="../../../.gitbook/assets/IMG_0241 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
