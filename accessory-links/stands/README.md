@@ -26,13 +26,15 @@ Here is another stand from Huion. This was works fine, though I find its level a
 
 These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable.
 
+## Pen display size
 
-
-### Note on stand versus pen display size
+Huion lists this stand as being compatible with 19" to 24" pen displays.
 
 It's important to match the stand with the height of the pen display. A stand designed for a smaller pen display will have its angle adjustment lever in a position so that it is convenient to reach by putting your hand over the top of the display. However when used with a large display that lever may be much more difficult to reach.
 
-Options
+I tried this stand with a 16" pen display - a Wacom Cintiq 16 2025 (DTK-168). It attached fine - which was expected. Everything worked but there is one thing to be aware of: at the very lowest angles the bottom edge of the tablet does not rest on the desk. This means at those angles if you press down on the tablet, there is a bit of wobble. At higher angles there is no wobble - everything is stable.
+
+## Options
 
 Some people have had success with the **Ergotron Neo-Flex Stand**. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally_found_a_stand_for_my_cintiq_pro_27/)&#x20;
 
