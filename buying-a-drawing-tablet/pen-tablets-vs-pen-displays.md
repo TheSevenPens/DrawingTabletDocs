@@ -174,9 +174,27 @@ The behavior of a tablet with regard to pressure (IAF, max pressure, etc.) depen
 
 There are a few exceptions - there are 1 or 2 tablets that I think do a particularly bad job of pressure independent of the pen, but those are exceedingly rare. &#x20;
 
+## Surface texture
+
+When you drag your pen over a tablet, the surface needs to have a little texture so that the pen doesn't feel like it's slipping and sliding and making it difficult to make a controlled line.
+
+Generally speaking, pen tablets have noticeably more texture than pen displays. Though some relatively old pen tablets are relatively smooth compared to modern pen tablets.&#x20;
+
+Pen displays so have a surface texture but also have less texture than pen tablets.&#x20;
+
 ## **You can use both kinds of tablets**
 
 And there is no rule that says you have to use only one kind of tablet. There are many people who have both a pen tablet and a pen display. And depending on what they're doing they will switch between using one or the other. See: [**Using multiple drawing tablets at the same time**](../guides/general/connecting-multiple-drawing-tablets-at-the-same-time.md)
+
+## VESA mounting
+
+Only pen displays have VESA mounting holes. See [VESA support](../technology/vesa.md)
+
+Pen tablets do NOT support VESA mounting.
+
+
+
+
 
 ## Videos
 
