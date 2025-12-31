@@ -2,7 +2,15 @@
 
 ## Overview
 
-Some pen displays exhibit a color tint at the edges of the display. Often it is a purple or lilac color. Some devices exhibit it as a yellowish or orange color. Is NOT pixelated or rough - has very smooth look.
+Some pen displays exhibit a color tint (purple/lilac or yellow/orange) at the edges of the display.&#x20;
+
+Characteristics:
+
+* The tilt Is NOT pixelated or rough. It has very smooth look.
+* Often seen on all four edges. I can't think of any examples on only a three or less edges
+* Can be very faint.&#x20;
+* You may notice it only when when colors on the screen are bright.
+* May appear when you first use your tablet, or develop much later. Out of 30+ pen displays, I have one display (Huion Kamvas 22 Plus) that developed a slight purple edge tint 3+ years after I bought it.
 
 ## Appearance
 
@@ -32,9 +40,13 @@ Unlike backlight bleed, the tint is often visible even on a very bright or pure 
 
 Based on what I have read the cause due to an issue with laminated displays (see: [**lamination**](lamination.md)). Laminated displays have a layer of optically clear adhesive (OCA) between the glass and the display. Apparently, pressure at the edges of the display causes this effect in the OCA layer.
 
+Unclear if environmental conditions (temperature, humidity) can cause this effect.
+
 ## How often it occurs
 
-Overall it is uncommon. It is present in NONE of the display devices I have that are laminated.
+Overall it is uncommon.&#x20;
+
+Of 30+ pen displays I own, It is present in NONE of the display devices I have that are laminated.
 
 ## Manufacturer pages
 
