@@ -84,10 +84,14 @@ Verify that your cables are fully connected.&#x20;
 
 ## Physically disconnect your pen display from power
 
-* Turn off your pen display and **DISCONNECT ALL THE CABLES**, then plug it back in.&#x20;
-* **DO NOT** just press the ON/OFF button while the pen display is connected. Actually DISCONNECT ALL THE CABLES
-* Some variations to try
-  * Some people recommend to disconnect, then hold the tablet power button down for long time (30 seconds), and then reconnect. &#x20;
+* Follow ALL these steps in order. Do NOT skip any steps.
+  * Turn off the tablet using the **power button**
+  * Disconnect ALL cables from the tablet. ALL cables. Not just the a power cable - ALL the cables.
+  * Wait. (30 seconds to several minutes)
+  * Re-attach all the cables
+  * Turn on the tablet.&#x20;
+* Variations to try
+  * Some people recommend to disconnect power, then hold the tablet power button down for long time (30 seconds), and then reconnect. &#x20;
   * Some people recommend that you try leaving the tablet disconnected for an extended period of time - like 30 minutes before you reconnect.&#x20;
 
 ## HDMI connect options
