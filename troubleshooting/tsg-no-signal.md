@@ -112,27 +112,19 @@ In general connect via the GPU HDMI ports instead of motherboard HDMI ports
 
 more here: [**Motherboard HDMI ports vs GPU HDMI ports**](../guides/connecting/connecting-a-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
-
-
 ## USB-C connection options
 
-**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you.
-
-More here: [USB-C support for display signal](../guides/pen-displays/usb-c-displayport-alt-mode.md)&#x20;
+**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you. More here: [USB-C support for display signal](../guides/pen-displays/usb-c-displayport-alt-mode.md)&#x20;
 
 ### USB-C to USB-C
 
-If your tablet has a USB-C port and your computer has a USB-C port that supports a display signal, then you might be able to use a USB-C to USB-C cable.
+If your tablet has a USB-C port and your computer has a USB-C port that supports a dp alt mode, power, and data, then you might be able to use a USB-C to USB-C cable.
 
-### USB-C to HDMI
+## HDMI adapters
 
-You can try a USB-C to HDMI adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays/).
+if your PC has a DisplayPort or DVI output or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays/). &#x20;
 
-## Converting other ports to HDMI
-
-if your PC has a DisplayPort or DVI output, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays/). &#x20;
-
-### Issues with HDMI Adapter
+## Issues with HDMI Adapters
 
 Sometimes adapters themselves can be the source of the NO SIGNAL problem.&#x20;
 
@@ -160,15 +152,13 @@ HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL pr
 
 ## Maximum number of display outputs on your graphics card
 
-Graphics cards usually have multiple ports for sending a display signal. However, sometimes not all of them can be used at the same time.
+GPUs usually have multiple ports for sending a display signal. However, sometimes not all of them can be used at the same time.
 
 Suppose your graphics card has 4 physical HDMI outputs. It's possible your card only supports using 3 of them at the same time. And so if you plug in the to the 4th port, you may get a no signal issue.
 
 Read the documentation for your graphics card to verify how many it supports.&#x20;
 
-## Video signal properties
-
-### Video refresh rates
+## Video refresh rates
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Refresh Rate the computer is using for the display.
 
@@ -180,7 +170,7 @@ Start with a lower refresh rate, and build up to higher ones.
 
 Typically pen displays only go up to 60Hz.&#x20;
 
-### Video resolution
+## Video resolution
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Resolution the computer is using for the display.
 
@@ -194,9 +184,9 @@ See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/commen
 
 The reason this process might work is not clear. It could be because depowering the pen display was the reason. It could be because the connection to the other computer altered something in the pen display. In any case, it is worth a try if you continue to have problems.
 
-## Wacom One 2019 GEN1 cable orientation
+## Wacom One 2019 (DTC-133) cable orientation
 
-The Wacom One 2019 GEN1 is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
+The Wacom One 2019 (DTC-133) is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
 
 ## Tablet firmware updates
 
