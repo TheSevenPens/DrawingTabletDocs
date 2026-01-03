@@ -28,5 +28,5 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## AVOID
 
-*   Wacom One S (CTC-4110WL) \[[**my notes**](../../drawing-tablets-links/wacom/wacom-one/wacom-one-pen-tablets-notes.md)]&#x20;
+*   Wacom One S (CTC-4110WL) \[[**my notes**](../../links/drawtab-links/wacom/wacom-one/wacom-ctcx110wl-notes.md)]&#x20;
 
