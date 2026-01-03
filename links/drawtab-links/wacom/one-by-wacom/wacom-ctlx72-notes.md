@@ -25,18 +25,24 @@ If you want to save some money you can find them on eBay. More here: [Buying use
 
 Dimensions
 
-* Small CTL-471: 152.0 x 95.0 mm (6.0 x 3.7 in)
-* Medium CTL-671: 216.0 x 135.0 mm (8.5 x 5.3 in)
+* Small CTL-472: 152.0 x 95.0 mm (6.0 x 3.7 in)
+* Medium CTL-672: 216.0 x 135.0 mm (8.5 x 5.31 in)
+
+Diagonal
+
+* Small CTL-472: 179.25 mm (7.06 in)
+* Medium CTL-672: 254.72 mm (10.03 in)
+
+Aspect ratio:
+
+* Small: 1.78:1 (16:9)
+* Medium: 1.60:1 (16:10)
 
 ## **Photos**
 
 <figure><img src="../../../../.gitbook/assets/20250410_010057 (Large).jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/20250410_010116 (Large).jpg" alt=""><figcaption><p>CTL-672 back</p></figcaption></figure>
-
-
-
-##
 
 ## **Specs**
 
@@ -96,8 +102,17 @@ A small cloth loop on the right side of the tablet can be used to hold the pen.
 
 There is a slight amount of texture on the surface to keep the pen from feeling "slippery" on the surface. The amount of texture is pretty average for a modern pen tablet.
 
-## Usage scnario
+## Usage scenario
 
 ### Osu!
 
 The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md)
+
+
+
+## **Box photos**
+
+<figure><img src="../../../../.gitbook/assets/20260102_154932 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/20260102_154943 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
