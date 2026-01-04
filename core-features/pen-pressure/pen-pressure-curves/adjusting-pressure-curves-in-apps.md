@@ -1,4 +1,13 @@
-# Pressure curve shape support in applications
+# Adjusting pressure curves in apps
+
+## Overview
+
+Applications may offer pressure curves.&#x20;
+
+* Drawing applications - almost ALL have pressure curves.
+* Note-taking applications - almost never have pressure curves.
+
+## Pressure curve shape support
 
 Not all pressure curve shapes can are possible in all cases.
 

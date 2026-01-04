@@ -7,13 +7,13 @@
 ## Key concepts
 
 * **The pen senses pressure**, not the tablet. The pen communicates the pressure it detects to the tablet.
-* The [**Initial Activation Force**](initial-activation-force-iaf.md) is the smallest amount of pressure that an EMR pen will detect and report.  More here:&#x20;
+* The [**Initial Activation Force**](iaf.md) is the smallest amount of pressure that an EMR pen will detect and report.  More here:&#x20;
 * The [**Pen pressure range**](pen-pressure-range.md) is the range of physical force the pen is capable of sensing and outputting as pressure. In other words its lower bound is the IAF and its upper bound is the **maximum pressure**.&#x20;
 * A tablet splits up the pressure range into a number of segments that are called [**Pen pressure levels**](pen-pressure-levels.md).
 * The [**pen pressure response**](pen-pressure-response.md) is the pen hardware's "pressure behavior" - how a specific pen maps the physical pressure (how hard you are pressing down) to a logical pressure number that is sent to your computer. &#x20;
-* A [**pressure curve**](pen-pressure-curve/) is a way of modifying or processing the pressure pressure response of a pen. You can do this to solve solve or mitigate some kinds of pressure problems or to achieve certain kinds of creative effects.
+* A [**pressure curve**](pen-pressure-curves/) is a way of modifying or processing the pressure pressure response of a pen. You can do this to solve solve or mitigate some kinds of pressure problems or to achieve certain kinds of creative effects.
 * A [**pressure dead zone**](pen-pressure-dead-zone.md) is a ways of using a a pressure curve to effectively increase the IAF.
-* The vast majority of drawing tablet pens are too-sensitive to small changes in physical pressure near the IAF. This means there is some [**pressure instability at low pressure**](instability-at-low-physical-pressure.md). You can address this by using [**pressure curves**](pen-pressure-curve/) or **pressure smoothing**.
+* The vast majority of drawing tablet pens are too-sensitive to small changes in physical pressure near the IAF. This means there is some [**pressure instability at low pressure**](drawing-at-low-physical-pressure.md). You can address this by using [**pressure curves**](pen-pressure-curves/) or **pressure smoothing**.
 * [**Tilt affects pressure**](tilt-affects-pressure.md). The pen is more sensitive when it is held - perpendicular to the tablet surface.
 
 ## "Under pressure" video series

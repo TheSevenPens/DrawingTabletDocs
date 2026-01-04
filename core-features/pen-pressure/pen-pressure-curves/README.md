@@ -1,4 +1,4 @@
-# Pen pressure curve
+# Pen pressure curves
 
 ## Before you  begin
 
@@ -40,7 +40,7 @@ There are a variety of pressure curve shapes - each of which can solve some prob
 
 <figure><img src="../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
-To see which drivers and apps support witch shapes see this: [Curve support in applications](pressure-curve-shape-support-in-applications.md)
+To see which drivers and apps support witch shapes see this: [Curve support in applications](adjusting-pressure-curves-in-apps.md)
 
 Details on specific shapes
 
@@ -50,5 +50,5 @@ Details on specific shapes
 
 ## Driver UX for pressure curves
 
-See [Adjusting pressure curve in tablet driver](adjusting-pressure-curve-in-tablet-driver.md)
+See [Adjusting pressure curve in tablet driver](adjusting-pressure-curves-in-tablet-drivers.md)
 
