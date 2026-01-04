@@ -1,4 +1,4 @@
-# Initial activation force (IAF)
+# IAF
 
 ## Overview
 
@@ -42,7 +42,7 @@ Others like (myself included) work fine with a 3gf IAF. I definitely notice the 
 
 ## Tweaking the IAF
 
-The IAF is a physical property of the pen, so that physical behaviors can't be lowered or raised. However by using a pressure curve with a dead zone, you can effectively increase the IAF.  More here: [**Pen pressure dead zone**](pen-pressure-dead-zone.md)
+The IAF is a physical property of the pen, so that physical behaviors can't be lowered or raised. However by using a pressure curve with a dead zone, you can effectively increase the IAF.  More here: [**Pen pressure dead zone**](pen-pressure-curves/pressure-curve-dead-zones.md)
 
 ## A higher IAF can be useful
 
@@ -60,7 +60,7 @@ To compensate for these kinds of effects you, You might encounter a tablet that 
 * And also the dead zone might be implemented in the driver but it is not shown to you.
 * And of course some tell the drivers don't implement default dead zone at all.
 
-More here: [**Pen pressure dead zone**](pen-pressure-dead-zone.md)
+More here: [**Pen pressure dead zone**](pen-pressure-curves/pressure-curve-dead-zones.md)
 
 ## Wispy tails on strokes
 

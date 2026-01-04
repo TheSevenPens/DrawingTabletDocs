@@ -40,15 +40,15 @@ There are a variety of pressure curve shapes - each of which can solve some prob
 
 <figure><img src="../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
-To see which drivers and apps support witch shapes see this: [Curve support in applications](adjusting-pressure-curves-in-apps.md)
+To see which drivers and apps support witch shapes see this: [Curve support in applications](app-pressure-curves.md)
 
 Details on specific shapes
 
 * [Null pressure curve](null-pressure-curve.md)
-* [Pressure curves that constrain the output logical pressure range](pressure-curves-that-constrain-output.md)
-* [Pressure curves that ignore input](pressure-curves-that-ignore-input.md)
+* [Pressure curves that constrain the output logical pressure range](constraining-pressure-curve-output.md)
+* [Pressure curves that ignore input](constraining-pressure-curve-input.md)
 
 ## Driver UX for pressure curves
 
-See [Adjusting pressure curve in tablet driver](adjusting-pressure-curves-in-tablet-drivers.md)
+See [Adjusting pressure curve in tablet driver](driver-pressure-curves.md)
 
