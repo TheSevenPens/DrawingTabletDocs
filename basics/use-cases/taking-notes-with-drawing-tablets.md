@@ -1,14 +1,16 @@
 # Taking notes with drawing tablets
 
+{% hint style="info" %}
+First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../types-of-drawing-tablets/)
+{% endhint %}
+
 ## Overview
 
-Taking notes is a popular scenario for drawing tablets.
+Taking notes is a popular scenario for drawing tablets.&#x20;
 
-There are several types of drawing tablets: [Types of drawing tablets](../types-of-drawing-tablets/)
+Generally I believe you will get the most natural experience taking notes if you use a [**standalone pen-enabled mobile devices**](../../recommendations/standalone-recs/mobile-device-recs.md) or [**dedicated note taking devices**](../../recommendations/scenarios/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
 
-Generally I believe you will get the most natural experience taking notes if you use a [standalone pen-enabled mobile computers](../../recommendations/standalone-recs/mobile-device-recs.md) or [**dedicated note taking devices**](../../recommendations/scenarios/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
-
-On the other hand some people enjoy taking notes with pen tablets (screenless tablets) or pen displays (screen tablets).&#x20;
+On the other hand some people enjoy taking notes with pen tablets (screenless tablets) or pen displays (screen tablets). Of course, these tablets are not standalone.  &#x20;
 
 ## General considerations
 
