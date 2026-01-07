@@ -58,12 +58,12 @@ Most drawing tablets also detect how the pen is tilted relative to the surface o
 ## What people do with their tablets
 
 * **Drawing -** Of course, many people use drawing tablets for drawing, sketching, painting, photo-editing etc. All the fundamental creative tasks.&#x20;
-* **Gaming** - Drawing tablets are popular for some games. More here: [**Gaming with drawing tablets**](use-cases/gaming-with-a-drawing-tablet.md) &#x20;
-* **Mouse replacement** - Using a drawing tablet as a simple mouse replacement. Some people find a pen more comfortable to hold than a mouse. More here: [**Using a drawing tablet instead of a mouse**](use-cases/using-a-drawing-tablet-instead-of-a-mouse.md)
+* **Gaming** - Drawing tablets are popular for some games. More here: [**Gaming with drawing tablets**](scenarios/gaming-with-a-drawing-tablet.md) &#x20;
+* **Mouse replacement** - Using a drawing tablet as a simple mouse replacement. Some people find a pen more comfortable to hold than a mouse. More here: [**Using a drawing tablet instead of a mouse**](scenarios/using-a-drawing-tablet-instead-of-a-mouse.md)
 * **Whiteboarding** - especially with so many online meetings and remote learning. Many people use a drawing tablet with virtual whiteboard software.
 * **Educational videos** - They are popular for creating videos in the same style as "Khan Academy".
 * **Document markup and review** - They are useful for going through documents and annotating them with other notes and corrections.
-* **Note taking** - Especially with pen computers, students for example, take them to their classes and write down their notes digitally. More here: [**Taking notes with drawing tablets**](use-cases/taking-notes-with-drawing-tablets.md)&#x20;
+* **Note taking** - Especially with pen computers, students for example, take them to their classes and write down their notes digitally. More here: [**Taking notes with drawing tablets**](scenarios/taking-notes-with-drawing-tablets.md)&#x20;
 
 ## Brands
 
