@@ -30,7 +30,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## DECENT
 
-* Huion Kamvas 22 Plus (GS2202) \[[**my notes**](../../drawing-tablets-links/huion/huion-kamvas/huion-gs2202.md)]
+* Huion Kamvas 22 Plus (GS2202) \[[**my notes**](../../links/drawtab-links/huion/huion-kamvas/huion-gs2202-notes.md)]
 * Huion Kamvas 22 (GS2201) \[[**links**](../../drawing-tablets-links/huion/huion-kamvas/)]&#x20;
 * Wacom Cintiq 22 (DTK-2260). \[[**my notes**](../../links/drawtab-links/wacom/wacom-cintiq/wacom-dtk2260-notes.md)] - excellent drawing experience. but outdated screen.
 

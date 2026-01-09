@@ -1,4 +1,4 @@
-# Huion Inspiroy 2 L (H1061P) notes
+# Huion Inspiroy 2 L (H1061P)  notes
 
 ## **Summary**
 
@@ -29,9 +29,9 @@ As for all PenTech 3.x devices, I recommend purchasing the PW550 pen to use with
 
 ## **Photos**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20250307_145814 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_145814 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20250307_145842 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_145842 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## **Size**
 
@@ -49,21 +49,21 @@ The tablet does NOT support wireless connectivity. It must be connected with USB
 
 I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.&#x20;
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20250307_145937 (Large) (1).jpg" alt="" width="375"><figcaption><p>3 group keys on left and 4 of 8 buttons shown.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_145937 (Large) (1).jpg" alt="" width="375"><figcaption><p>3 group keys on left and 4 of 8 buttons shown.</p></figcaption></figure></div>
 
 
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20250307_150009 (Large) (1).jpg" alt="" width="375"><figcaption><p>The scroller</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_150009 (Large) (1).jpg" alt="" width="375"><figcaption><p>The scroller</p></figcaption></figure></div>
 
 
 
 ## **Ports**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20250307_150056 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_150056 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## **Pressure handling**
 
-All pens have have a bit of instability/wobble at low pressure. See: [Pen pressure instability at low pressure](../../../core-features/pen-pressure/drawing-at-low-physical-pressure.md)
+All pens have have a bit of instability/wobble at low pressure. See: [Pen pressure instability at low pressure](../../../../core-features/pen-pressure/drawing-at-low-physical-pressure.md)
 
 Originally, the units (I have 2 units of this tablet) I have showed a bit more of this effect compared to my Wacom Intuos Pro with the Pro Pen 2. I didn't notice it in normal drawing. Based on other user's comments, not all units seem to exhibit this problem, but certainly some do.&#x20;
 
@@ -71,4 +71,4 @@ Firmware updates have improved it.
 
 See this thread for some history on this topic: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
 
-This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [**Troubleshoot low pressure drawing problems**](../../../troubleshooting/tsg-low-pressure-drawing-problems.md)
+This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [**Troubleshoot low pressure drawing problems**](../../../../troubleshooting/tsg-low-pressure-drawing-problems.md)

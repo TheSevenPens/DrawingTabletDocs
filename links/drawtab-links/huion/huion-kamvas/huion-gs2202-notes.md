@@ -33,7 +33,7 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 ### Included pen
 
 * PW517
-* [<mark style="background-color:green;">**My notes on the PW517 pen**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw517.md)
+* [<mark style="background-color:green;">**My notes on the PW517 pen**</mark>](../../../../pen-links/huion-pen-models/7p-huion-pw517.md)
 
 ## Display experience
 
@@ -57,7 +57,7 @@ VERY GOOD. pixels clear and well delineated.
 
 Color accuracy: did not measure.
 
-This is a wide gamut display - so you may find that greens and reds are more intense than older displays. You may want to clamp it: [**Clamping wide-gamut displays to sRGB**](../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md). Though I just left it the way it was and did not try anything to clamp the range.&#x20;
+This is a wide gamut display - so you may find that greens and reds are more intense than older displays. You may want to clamp it: [**Clamping wide-gamut displays to sRGB**](../../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md). Though I just left it the way it was and did not try anything to clamp the range.&#x20;
 
 ## Drawing experience
 
@@ -74,7 +74,7 @@ TYPICAL. - normal for a pen display.
 
 GOOD. Pointer has only very minor displacement when pen tilted at 45 degrees.
 
-<figure><img src="../../../.gitbook/assets/Kamvas 22 Plus (GS2202) tilt comp.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Kamvas 22 Plus (GS2202) tilt comp.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Parallax**
 
@@ -82,13 +82,13 @@ GOOD - low.
 
 ## Auxiliary inputs
 
-**NONE**. So, I use keyboard shorts with this device: [tourbox](../../../accessory-links/auxiliary-input-devices/tourbox/)
+**NONE**. So, I use keyboard shorts with this device: [tourbox](../../../../accessory-links/auxiliary-input-devices/tourbox/)
 
 ## **Diagonal wobble**&#x20;
 
 very good. has extremely low wobble.
 
-![](<../../../.gitbook/assets/Huion Kamvas 22 Plus (GS2202) wobble.png>)
+![](<../../../../.gitbook/assets/Huion Kamvas 22 Plus (GS2202) wobble.png>)
 
 ## Ergonomics
 
@@ -132,11 +132,11 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 For this case you use the included proprietary 3-in-1 cable.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (551).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (551).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Connecting with USB-C for video signal**
 
 For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (552).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (552).png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -41,7 +41,7 @@ Things to be aware of
 
 It comes with the PW600L pen. It has excellent pressure range. The PWG00L does does not have an eraser like the other PW600 pen models.
 
-More here: [**PW600 series pens**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+More here: [**PW600 series pens**](../../../../pen-links/huion-pen-models/7p-huion-pw600.md)
 
 ## Compatible pens
 
@@ -51,7 +51,7 @@ The PenTech 4.0 pens work with it. I tested these three:
 * PW600
 * PW600S
 
-More here: [**PW600 series pens**](../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+More here: [**PW600 series pens**](../../../../pen-links/huion-pen-models/7p-huion-pw600.md)
 
 ## Drawing experience
 
@@ -96,7 +96,7 @@ TYPICAL for a pen display.  The pointer lag did not interfere with my drawing in
 
 RATING: GOOD. Low amount of diagonal wobble.
 
-<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
 
 ## Display
 
@@ -149,13 +149,13 @@ The tablet can connect to your computer with a single USB-C cable. If more power
 
 HOWEVER: The tabler DOES NOT come with these cables. You'll have to order them separately.
 
-<figure><img src="../../../.gitbook/assets/Slide_20241109_035317 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20241109_035317 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3-in-1 cable connection
 
 The tablet comes with a 3-in-1 cable if you need to use an HDMI port with your computer.
 
-<figure><img src="../../../.gitbook/assets/Slide_20241109_035629.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20241109_035629.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -203,10 +203,10 @@ The dials stick out a little bit from the edge of the tablet. Be aware of this w
 The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331) and is even mostly an upgrade from the  Kamvas Pro 13 2.5K (GT1302).
 
 * The GS1333 uses  PW600L pen is much better than the PW517 pen that comes with the other two tablets.&#x20;
-  * The PW600L has a slightly better IAF (Huion states 2gf) and a wider pressure range. [<mark style="background-color:green;">**My notes on the PW600 series pens**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw600.md).
-  * The PW517 has a standard IAF (Huion states 2gf) and it's pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [<mark style="background-color:green;">**My notes on the PW517 pens**</mark>](../../../pen-links/huion-pen-models/7p-huion-pw517.md).
+  * The PW600L has a slightly better IAF (Huion states 2gf) and a wider pressure range. [<mark style="background-color:green;">**My notes on the PW600 series pens**</mark>](../../../../pen-links/huion-pen-models/7p-huion-pw600.md).
+  * The PW517 has a standard IAF (Huion states 2gf) and it's pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [<mark style="background-color:green;">**My notes on the PW517 pens**</mark>](../../../../pen-links/huion-pen-models/7p-huion-pw517.md).
 * The GS1333 has much less anti-glare sparkle than the GS1333 and GS1331.
-* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [**Connecting a pen display with a single USB-C cable**](../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)).
+* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)).
 * The addition of the dials to the GS1333  makes it easier to work without having to touch the keyboard.&#x20;
 
 **Which one to get**

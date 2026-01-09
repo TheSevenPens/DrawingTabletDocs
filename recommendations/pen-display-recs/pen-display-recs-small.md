@@ -16,7 +16,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## VERY GOOD
 
-* Huion Kamvas 13 GEN3 (GS1333) \[[**my notes**](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1333.md)]
+* Huion Kamvas 13 GEN3 (GS1333) \[[**my notes**](../../links/drawtab-links/huion/huion-kamvas/huion-gs1333-notes.md)]
 * XP-Pen Artist Pro 14 GEN2 (MD140FH) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/)]
 
 ## GOOD
@@ -27,7 +27,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## DECENT
 
-* Huion Kamvas 13 (GS1331) \[[**my notes**](../../drawing-tablets-links/huion/huion-kamvas/huion-gs1331.md)]
+* Huion Kamvas 13 (GS1331) \[[**my notes**](../../links/drawtab-links/huion/huion-kamvas/huion-gs1331-notes.md)]
 * Wacom One 14 (DTC-141) \[[**my notes**](../../links/drawtab-links/wacom/wacom-one/wacom-dtc141-notes.md)]
 * Wacom One 2019 GEN1 (DTC-133) \[[**my notes**](../../links/drawtab-links/wacom/wacom-one/wacom-dtc133-notes.md)]
   * &#x20;NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.

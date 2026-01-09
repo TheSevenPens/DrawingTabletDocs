@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-A decent, slightly older pen display. I highly recommend getting the Kamvas 13 GEN3 (GS1333) instead - it is a better tablet in every way. More here: [**Kamvas 13 GEN3 (GS1333)**](huion-gs1333.md)&#x20;
+A decent, slightly older pen display. I highly recommend getting the Kamvas 13 GEN3 (GS1333) instead - it is a better tablet in every way. More here: [**Kamvas 13 GEN3 (GS1333)**](huion-gs1333-notes.md)&#x20;
 
 Another budget alternative is the XP-Pen Artist 13 GEN2.&#x20;
 
@@ -12,11 +12,11 @@ Another budget alternative is the XP-Pen Artist 13 GEN2.&#x20;
 * [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) 2020/05/01
 * [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q_nhFQ) 2020/03/26
 * [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A)  2020/04/17 &#x20;
-* [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](../../../recommendations/comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
+* [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](../../../../recommendations/comparisons/7p-notes-huion-gs1331-xppen-cd130fh.md)&#x20;
 
 ## Included pen
 
-It comes with the PW517 pen. I recommend buying and using a PW550 instead. [**See: Huion PW550 series pens**](../../../links/pen-links/huion-pen-models/huion-pw550.md)
+It comes with the PW517 pen. I recommend buying and using a PW550 instead. [**See: Huion PW550 series pens**](../../../pen-links/huion-pen-models/huion-pw550.md)
 
 Display basics
 
@@ -31,7 +31,7 @@ I have removed the film and have used it by drawing on directly on its glass sur
 
 ## **Anti-glare sparkle**
 
-Exhibits moderate [**anti-glare sparkle**](../../../guides/pen-displays/anti-glare-sparkle.md)&#x20;
+Exhibits moderate [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md)&#x20;
 
 ## Connections and cabling
 
@@ -41,5 +41,5 @@ Exhibits moderate [**anti-glare sparkle**](../../../guides/pen-displays/anti-gla
 
 Very low
 
-![](<../../../.gitbook/assets/Huion Kamvas 13 (GS1331) wobble.png>)
+![](<../../../../.gitbook/assets/Huion Kamvas 13 (GS1331) wobble.png>)
 

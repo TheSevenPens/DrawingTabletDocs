@@ -26,7 +26,7 @@ This tablet comes with the Huion PW517 pen.&#x20;
 
 Consider upgrading the pen
 
-For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](../../../links/pen-links/huion-pen-models/upgrading-from-pw517-to-pw550.md).
+For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](../../../pen-links/huion-pen-models/upgrading-from-pw517-to-pw550.md).
 
 ## **Surface texture**
 
@@ -52,4 +52,4 @@ Some pressure pulsing visible at lower pressure. Will mostly be be visible with 
 
 Rating: VERY GOOD. low amounts of wobble.
 
-<figure><img src="../../../.gitbook/assets/Wobble Huion Giano (G930L).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Wobble Huion Giano (G930L).png" alt=""><figcaption></figcaption></figure>

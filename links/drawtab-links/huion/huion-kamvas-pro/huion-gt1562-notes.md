@@ -8,11 +8,11 @@ This was a quick write up of this tablet that is missing a lot of details.
 
 This tablet as decent drawing performance but suffers from extreme anti-glare sparkle. Many users are put off by it. More details below.
 
-If you are going to get this tablet consider: [Upgrading from Huion PW517 to Huion PW550 pens](../../../links/pen-links/huion-pen-models/upgrading-from-pw517-to-pw550.md)
+If you are going to get this tablet consider: [Upgrading from Huion PW517 to Huion PW550 pens](../../../pen-links/huion-pen-models/upgrading-from-pw517-to-pw550.md)
 
 In all other ways besides the AG sparkle, I was satisfied with this tablet.
 
-I think a much better choice would be the Huion Kamvas 16 GEN3. [My notes on the Huion Kamvas 16 GEN3](../huion-kamvas/huion-gs1563.md).
+I think a much better choice would be the Huion Kamvas 16 GEN3. [My notes on the Huion Kamvas 16 GEN3](../huion-kamvas/huion-gs1563-notes.md).
 
 ## Links
 
@@ -26,7 +26,7 @@ The only issue with this tablet is that it exhibits <mark style="color:red;">**t
 
 I'm not even typically sensitive to anti-glare sparkle. I can tolerate a lot of it. It took me several weeks to adjust to adjust to this. I mostly don't mind it now. Some of you will surely hate the amount of sparkle, and mainy people complain about this model for this reason.
 
-More here: [anti-glare sparkle](../../../guides/pen-displays/anti-glare-sparkle.md)
+More here: [anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md)
 
 ## **Connections and cabling**
 

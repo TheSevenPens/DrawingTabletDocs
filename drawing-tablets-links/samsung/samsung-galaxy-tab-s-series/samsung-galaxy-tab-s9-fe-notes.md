@@ -1,7 +1,7 @@
 # Samsung Galaxy Tab S9 FE notes
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-galaxy-tab-s.md).
+These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](../../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s-notes.md).
 {% endhint %}
 
 ## Overview

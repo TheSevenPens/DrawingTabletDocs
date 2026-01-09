@@ -27,7 +27,7 @@ RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing 
 
 ### Different versions
 
-There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [<mark style="background-color:green;">**My notes on the Galaxy Tab S series**</mark>](../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s.md).
+There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [<mark style="background-color:green;">**My notes on the Galaxy Tab S series**</mark>](../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s-notes.md).
 
 * S Pen that comes with the Samsung Galaxy Tab S tablets
 * S Pen that comes with the Samsung Galacy S phones

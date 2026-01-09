@@ -21,6 +21,6 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## GOOD
 
-* Huion Inspiroy Giano (G930L) \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-g930l.md)]
-* Huion Inspiroy 2 L \[[**my notes**](../../drawing-tablets-links/huion/huion-inspiroy/huion-h1061p.md)]
+* Huion Inspiroy Giano (G930L) \[[**my notes**](../../links/drawtab-links/huion/huion-inspiroy/huion-g930l-notes.md)]
+* Huion Inspiroy 2 L \[[**my notes**](../../links/drawtab-links/huion/huion-inspiroy/huion-h1061p-notes.md)]
 

@@ -17,7 +17,7 @@
 ## Huion Kamvas Pro 19 (GT-1902)
 
 * Model Year: 2024
-* [<mark style="background-color:green;">**my notes on this tablet**</mark>](huion-gt1902.md)&#x20;
+* [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../../links/drawtab-links/huion/huion-kamvas-pro/huion-gt1902-notes.md)&#x20;
 
 ## Huion Kamvas Pro 13 2.5K (GT1302)
 
@@ -28,7 +28,7 @@
 
 ## Huion Kamvas Pro 16 Plus 4K (GT1562)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-gt1562.md)
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../../links/drawtab-links/huion/huion-kamvas-pro/huion-gt1562-notes.md)
 * Model Year: 2021
 
 ## Huion Kamvas Pro 16 4K (GT1561)
@@ -47,7 +47,7 @@
 
 ## Huion Kamvas Pro 24 4K (GT2401)
 
-* [<mark style="background-color:green;">**My notes on this tablet**</mark>](huion-gt2401.md)&#x20;
+* [<mark style="background-color:green;">**My notes on this tablet**</mark>](../../../links/drawtab-links/huion/huion-kamvas-pro/huion-gt2401-notes.md)&#x20;
 * Model Year: 2021
 
 

@@ -51,7 +51,7 @@ Moderate (maybe on the low end). Noticeable if you put your eyes close. At a nor
 
 ## Auxiliary inputs
 
-&#x20;It has no buttons, dials, etc. So, I use a TourBox device. More here: [**tourbox**](../../../accessory-links/auxiliary-input-devices/tourbox/)&#x20;
+&#x20;It has no buttons, dials, etc. So, I use a TourBox device. More here: [**tourbox**](../../../../accessory-links/auxiliary-input-devices/tourbox/)&#x20;
 
 ## **Texture**
 
@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](<../../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2).png>)
+![](<../../../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2).png>)
 
 
 
@@ -86,7 +86,7 @@ Wobble is minor and only noticeable in very slow strokes.
 * 2x USB-A ports on right side
 * Headphone jack on right side
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How I connect it
 

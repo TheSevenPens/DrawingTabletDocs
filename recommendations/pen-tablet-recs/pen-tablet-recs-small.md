@@ -17,7 +17,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## VERY GOOD
 
-* Huion Frego S (L320) \[[**my notes on the Medium-sized model**](../../drawing-tablets-links/huion/huion-inspiroy/huion-l610.md) ] NO TILT
+* Huion Frego S (L320) \[[**my notes on the Medium-sized model**](../../links/drawtab-links/huion/huion-inspiroy/huion-l610-notes.md) ] NO TILT
 
 ## GOOD
 
