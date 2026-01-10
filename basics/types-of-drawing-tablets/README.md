@@ -6,6 +6,7 @@
 
 * Pen tablets (also called "screenless tablets") - Don't have a screen and you have to use them with a computer or laptop. More here: [**Overview of pen tablets**](introduction-to-pen-tablets.md)
 * Pen displays (also called "screen tablets") -  Have a screen and you have to use them with a computer or laptop. More here: [**Overview of pen displays**](introduction-to-pen-displays.md)
+* How to choose between these two? See [**pen tablets vs pen displays**](../../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
 
 ## Standalone drawing tablets
 
