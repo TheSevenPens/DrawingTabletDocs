@@ -37,7 +37,7 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 * Wacom One pen (CP-913) - [notes on this pen](../../../pen-links/wacom-pens/wacom-cp913-notes.md)&#x20;
 * Wacom One Standard Pen (CP-923) - [notes on this pen](../../../pen-links/wacom-pens/wacom-cp923-notes.md)
-* UD EMR pens (like Samsung S pen, etc)
+* UD EMR pens (like Samsung S pen, etc.)
 
 ## **Digitizer specs**
 
@@ -56,9 +56,11 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 ### **Stroke quality**
 
-The stroke quality is awful due to a combination of tablet and pen.
+At the time of launch you can see how bad the strokes look with this tablet and the new CP-923 pen.
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## **Connectivity**
 
