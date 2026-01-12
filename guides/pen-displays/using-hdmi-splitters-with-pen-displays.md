@@ -10,9 +10,19 @@ HDMI splitters are devices that take a single HDMI input and provide two HDMI ou
 
 They can be very useful devices, but they are often misunderstood in the context of using pen displays. This doc will help clarify how and if you can use them.
 
+## Examples
+
 Below is an example of a simple HDMI splitter. The male HDMI end goes to your computer. The two female HDMI ports are intended to connect to monitors, pen displays, etc. This splitter takes the signal from the computer and **copies** the two devices you have attached.
 
 <figure><img src="../../.gitbook/assets/HDMI-splitter-example.jpg" alt=""><figcaption></figcaption></figure>
+
+Below is another example of a splitter that I own. Notice that this splitter also has a micro-USB port intended to supply power.
+
+<figure><img src="../../.gitbook/assets/hdmi-splitter-input.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/hdmi-splitter-input (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 ## **The problem**
 
