@@ -1,4 +1,4 @@
-# Pen APIs
+# Pen input APIs
 
 ### **Windows**
 
@@ -9,7 +9,7 @@
   * UWP - [PointerPointProperties](https://docs.microsoft.com/en-us/uwp/api/windows.ui.input.pointerpointproperties)&#x20;
   * WinUI3  - UNKNOWN (As of Aug 2024 I do not think WINUI3 supports pens)
 * Windows resources:
-  * [**Wintab vs Windows Ink**](wintab-versus-windows-ink.md) &#x20;
+  * [**Wintab vs Windows Ink**](wintab-vs-windows-ink.md) &#x20;
 
 ## Linux&#x20;
 
