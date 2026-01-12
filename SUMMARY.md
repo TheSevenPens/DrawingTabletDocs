@@ -302,6 +302,8 @@
   * [Pen input APIs](developers/pen-input-apis.md)
   * [WinTab versus Windows Ink](developers/wintab-versus-windows-ink.md)
   * [WinTab API](developers/wintab-api.md)
+  * [Hardware projects](developers/hardware-projects.md)
+  * [HTML pointer events](developers/html-pointer-events.md)
 * [FAQs](faq.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Common problems](troubleshooting/common-problems-with-drawing-tablets.md)
