@@ -25,3 +25,9 @@ Depending on which operating system or environment you are in there are differen
 * **Wacom SDKs** - [https://www.wacom.com/en-us/home/enterprise/business-solutions/software-and-solutions/sdks.aspx](https://www.wacom.com/en-us/home/enterprise/business-solutions/software-and-solutions/sdks.aspx) -
 * **XPPen Tablet SDK** - [https://www.xp-pen.com/developer](https://www.xp-pen.com/developer)&#x20;
 * **Huion SDK** - Huion does not publish an SDK.
+
+## Hardware projects
+
+* [Project Patchouli](../resources/project-patchouli.md)
+* [https://github.com/Patoke/OpenTabletFirmware](https://github.com/Patoke/OpenTabletFirmware)
+* [Wonkle tablet](../resources/wonkle-tablet.md)&#x20;
