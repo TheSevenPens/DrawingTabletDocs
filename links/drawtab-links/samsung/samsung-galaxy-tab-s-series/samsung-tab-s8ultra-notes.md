@@ -10,6 +10,14 @@
 These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-tab-s-notes.md).
 {% endhint %}
 
+## Links
+
+* [Brad Colbow review of Samsung Galaxy Tab S8 Ultra](https://youtu.be/LhhGFsFTLrw) 2022-03-01
+* [Teoh on Tech review of Samsung Tab S8 Ultra](https://youtu.be/HYf9kdRGQ-E) 2022-03-06
+* [Teoh on Tech long-term review of Samsung Tab S8 Ultra](https://youtu.be/Dir5QRelMLk) 2022-06-09
+* [Techisode: This Is Not A Tablet - Top 50 Unknown Tab S8 Ultra Features!](https://www.youtube.com/watch?v=qIqYYi0dBU0) 2022-08-08
+* [RADER TECH - Samsung Second Screen vs SuperDisplay vs SpaceDesk | Get the most out of your Galaxy Tab S8 Ultra!](https://www.youtube.com/watch?v=Jij2kFGGacY)  2022-06-07
+
 ## Device size
 
 * Size: 326.4 x 208.6 x 5.5 mm (12.85 x 8.21 x 0.22 in)

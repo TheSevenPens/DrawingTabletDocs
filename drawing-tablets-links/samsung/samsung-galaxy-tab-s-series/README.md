@@ -56,11 +56,7 @@
 
 ### Tab S8 Ultra
 
-* [Brad Colbow review of Samsung Galaxy Tab S8 Ultra](https://youtu.be/LhhGFsFTLrw) 2022-03-01
-* [Teoh on Tech review of Samsung Tab S8 Ultra](https://youtu.be/HYf9kdRGQ-E) 2022-03-06
-* [Teoh on Tech long-term review of Samsung Tab S8 Ultra](https://youtu.be/Dir5QRelMLk) 2022-06-09
-* [Techisode: This Is Not A Tablet - Top 50 Unknown Tab S8 Ultra Features!](https://www.youtube.com/watch?v=qIqYYi0dBU0) 2022-08-08
-* [RADER TECH - Samsung Second Screen vs SuperDisplay vs SpaceDesk | Get the most out of your Galaxy Tab S8 Ultra!](https://www.youtube.com/watch?v=Jij2kFGGacY)  2022-06-07
+[My notes on the S8 Ultra ](../../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s8ultra-notes.md)
 
 ## Samsung Galaxy Tab S7 series
 
@@ -78,18 +74,4 @@
 
 ## Samsung Galaxy Tab S6 series
 
-### S6 Lite (2024 edition)
-
-* Samsung announced this early in 2024 but it isn't widely available for purchase.&#x20;
-* [Brad Colbow review of the Samsung Galaxy S6 lite 2024](https://www.youtube.com/watch?v=ZhEq2pMUq28) 2024-05-03
-
-### S6 Lite (2022 edition)
-
-* [**My notes on this tablet**](../../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s6lite-2022-notes.md)&#x20;
-* [Teoh on Tech review of Samsung Tab S6 Lite 2022](https://youtu.be/mbdu6ID93xA) 2022-11-26
-* [Brad Colbow: Review of Samsung Galaxy Tab S6 Lite (2022 Edition)](https://youtu.be/YTzQRP5G1aw) 2022-06-28
-* [EyekooDrawsStuff: Affordable iPad alternative for drawing beginners - Galaxy Tab S6 Lite](https://www.youtube.com/watch?v=l6WwSRp63Zs) 2022-11-02
-
-### S6 Lite (2020 edition)
-
-* Get a more recent version edition (2022 or above) instead
+[**My notes on this tablet**](../../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s6lite-notes.md)&#x20;

@@ -29,7 +29,7 @@ There are many models available over the years, so it is likely you can find som
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
   * There are different editions based on year
     * 2024 edition
-    * 2022 edition - [<mark style="background-color:green;">**my notes on Tab S6 lite 2022 edition**</mark>](samsung-tab-s6lite-2022-notes.md)
+    * 2022 edition - [<mark style="background-color:green;">**my notes on Tab S6 lite 2022 edition**</mark>](samsung-tab-s6lite-notes.md)
     * 2020 edition - avoid it.&#x20;
     * Get the most recent edition
 
