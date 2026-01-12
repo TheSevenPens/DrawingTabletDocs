@@ -7,7 +7,7 @@
 * I did feel it drained the battery faster than other tablets in my collection - even when I wasn't using it for heavy-duty tasks
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](../../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s-notes.md).
+These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-tab-s-notes.md).
 {% endhint %}
 
 ## Device size
@@ -32,7 +32,7 @@ These are my notes for this specific tablet. You may also be interested in [my n
 
 ## Compatible Pens
 
-In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../links/pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../pen-links/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Battery life
 
@@ -42,13 +42,13 @@ Also I noticed that when I was not using the device it seemed to quickly run dow
 
 ## Pen
 
-The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)
+The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../../pen-links/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Diagonal wobble
 
 Evalation: VERY GOOD. LOW amounts of diagonal wobble at slow speeds.
 
-<figure><img src="../../../.gitbook/assets/Samsung Galaxy Tab S8 Ultra 2025_05_07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Samsung Galaxy Tab S8 Ultra 2025_05_07.png" alt=""><figcaption></figcaption></figure>
 
 ## Galaxy Tab S8 Ultra Book Cover Keyboard
 

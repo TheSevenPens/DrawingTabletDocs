@@ -12,14 +12,14 @@ There are many models available over the years, so it is likely you can find som
 
 * **Samsung Galaxy Tab S11 Ultra**&#x20;
   * HIGHLY RECOMMENDED
-  * [<mark style="background-color:green;">**my notes on Tab S11 Ultra**</mark>](../../../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s11-ultra-notes.md)
+  * [<mark style="background-color:green;">**my notes on Tab S11 Ultra**</mark>](samsung-tab-s11ultra-notes.md)
 * **Samsung Galaxy Tab S8 Ultra**&#x20;
   * RECOMMENDED. High performance. Great display.
-  * [<mark style="background-color:green;">**my notes on Tab S8 Ultra**</mark>](../../../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s8-ultra-notes.md)&#x20;
+  * [<mark style="background-color:green;">**my notes on Tab S8 Ultra**</mark>](samsung-tab-s8ultra-notes.md)&#x20;
 * **Samsung Galaxy Tab S9 FE**&#x20;
   * ($350 to $520) excellent mid-budget option
   * HIGHLY RECOMMENDED. Great value at reasonable cost.
-  * &#x20;[<mark style="background-color:green;">**my notes on Tab S9 FE**</mark>](../../../../drawing-tablets-links/samsung/samsung-galaxy-tab-s-series/samsung-galaxy-tab-s9-fe-notes.md)
+  * &#x20;[<mark style="background-color:green;">**my notes on Tab S9 FE**</mark>](samsung-tab-s9fe-notes.md)
   * There are two versions:&#x20;
     * 6GB RAM + 126GB storage ($450)
     * 8GB RAM with 256GB of storage ($520)
@@ -29,7 +29,7 @@ There are many models available over the years, so it is likely you can find som
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
   * There are different editions based on year
     * 2024 edition
-    * 2022 edition - [<mark style="background-color:green;">**my notes on Tab S6 lite 2022 edition**</mark>](samsung-galaxy-tab-s6-lite-2022-notes.md)
+    * 2022 edition - [<mark style="background-color:green;">**my notes on Tab S6 lite 2022 edition**</mark>](samsung-tab-s6lite-2022-notes.md)
     * 2020 edition - avoid it.&#x20;
     * Get the most recent edition
 
