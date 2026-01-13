@@ -258,7 +258,7 @@
     * [Using large pen tablets](guides/general/using-large-pen-tablets.md)
   * [Operating systems](guides/operating-systems/README.md)
     * [iOS and iPadOS](guides/operating-systems/ios-and-ipados/README.md)
-      * [Connecting a drawing tablet to an iPad or iPhone](guides/operating-systems/ios-and-ipados/using-a-drawing-tablet-with-an-ipad-or-iphone.md "Connecting to an iPad or iPhone")
+      * [Using drawing tablets with an iPad or iPhone](guides/operating-systems/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md "Using with iPad or iPhone")
     * [MacOS](guides/operating-systems/macos/README.md)
       * [Using a drawing tablet on MacOS](guides/operating-systems/macos/using-a-drawing-tablet-on-macos.md)
       * [Fuzzy text on displays with MacOS](guides/operating-systems/macos/display-resolution.md)

@@ -13,7 +13,7 @@
 ## Guides
 
 * [**Connecting an iPad to your computer as a drawing tablet**](/broken/pages/wdKB04PpHLSotRkXTO0U)
-* [**Connecting a drawing tablet to an iPad or iPhone**](../../guides/operating-systems/ios-and-ipados/using-a-drawing-tablet-with-an-ipad-or-iphone.md)&#x20;
+* [**Connecting a drawing tablet to an iPad or iPhone**](../../guides/operating-systems/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md)&#x20;
 
 ## Links
 
