@@ -8,15 +8,16 @@ If your tablet came with the PW517 pen, consider upgrading to the PW550 or PW550
 
 The PW550 series pens are backwards compatible with tablets that use the PW517 pen, and these PW500 pens offer superior pressure handling.
 
+## Maximum physical pressure and range
 
-
-## Maximum pressure and Pressure range
-
-The key advantage of the PW550 series pens are that generally they offer a better maximum pressure and thus A wider pressure range than the PW 517 pens. This wider pressure range is very useful for getting a more smooth and more controlled use of pressure in your strokes.
-
-While there is no guarantee that every PW 550 unit is better than every PW 517 unit, based on my measurements this is something that seems to be typically true.
+The key advantage of PW550 pens is that **generally** they offer a higher maximum pressure and wider pressure range than PW517 pens. A wider pressure range is very useful for getting a more smooth and more controlled use of pressure in your strokes.
 
 The pressure range improvements with the PW550 pen rival that of the more modern PW600 series of pens from Huion.
+
+**There is no guarantee** that every PW550 unit is better than every PW517 unit.
+
+* based on my measurements this is a very common tendency
+* and yes sometimes we find some PW517 units that clearly outperform PW550 units
 
 ## IAF
 
@@ -55,8 +56,6 @@ Here are my measurements for maximum pressure for the pens in my collection.
 ## Video
 
 {% embed url="https://youtu.be/vk4DlVGU6-Q" %}
-
-
 
 ## Related docs
 
