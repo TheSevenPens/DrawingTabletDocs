@@ -26,14 +26,19 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 * Bit depth: 8 bits per pixel
 * Anti-glare treatment: Etched glass
 * Laminated: YES
-* Color gamuts: 140% sRGB
+* Color gamut: 140% sRGB
 
 ## Pen
 
 ### Included pen
 
-* PW517
-* [<mark style="background-color:green;">**My notes on the PW517 pen**</mark>](../../../../pen-links/huion-pen-models/7p-huion-pw517.md)
+* PW517 - [**notes on the PW517 pen**](../../../../pen-links/huion-pen-models/7p-huion-pw517.md)
+
+### Compatible pens
+
+* PW517 - [**notes on the PW517 pen**](../../../../pen-links/huion-pen-models/7p-huion-pw517.md)
+* PW550 - [**notes on the PW550 pen**](../../../pen-links/huion-pen-models/huion-pw550-notes.md)
+* PW550S&#x20;
 
 ## Display experience
 
@@ -57,13 +62,27 @@ VERY GOOD. pixels clear and well delineated.
 
 Color accuracy: did not measure.
 
-This is a wide gamut display - so you may find that greens and reds are more intense than older displays. You may want to clamp it: [**Clamping wide-gamut displays to sRGB**](../../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md). Though I just left it the way it was and did not try anything to clamp the range.&#x20;
+### Color gamut
+
+This is a wide color gamut display with a range of 140% sRGB.
+
+Compared to many other displays, you may find that greens and reds are more intense than you might expect. Some people will love this - for example when watching a movie - but I found it some colors distractingly intense.&#x20;
+
+For digital art I prefer to work in a smaller color gamut of 100% sRGB.
+
+Unfortunately, unlike other pen displays this tablet does not have way to force it into a smaller color gamut. No options were present in the OSD or the driver.
+
+For reducing the gamut, you could use other techniques: [**Clamping wide-gamut displays to sRGB**](../../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md).
+
+In my case, I just left it the way it was and did not try anything to clamp the range.&#x20;
+
+Note that I used Windows with this tablet. With MacOS there may be other options for dealing with the color.
 
 ## Drawing experience
 
 ### Pointer lag
 
-TYPICAL. - normal for a pen display.
+TYPICAL. Normal for a pen display.
 
 ### Pen tracking accuracy
 

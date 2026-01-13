@@ -584,7 +584,7 @@
       * [Huion PW110 notes](pen-links/huion-pen-models/huion-pw110-notes.md "PW110")
       * [Huion PW500 pen notes](pen-links/huion-pen-models/7p-huion-pw500.md "PW500")
       * [Huion PW517 pen notes](pen-links/huion-pen-models/7p-huion-pw517.md "PW517")
-      * [Huion PW550 series pens notes](links/pen-links/huion-pen-models/huion-pw550.md "PW550")
+      * [Huion PW550 series pens notes](links/pen-links/huion-pen-models/huion-pw550-notes.md "PW550")
       * [Huion PW600 series pens](pen-links/huion-pen-models/7p-huion-pw600.md "PW600")
       * [Huion PW507 pen notes](pen-links/huion-pen-models/huion-pw507-pen-notes.md "PW507")
       * [Upgrading from PW517 to PW550](links/pen-links/huion-pen-models/upgrading-from-pw517-to-pw550.md)
