@@ -25,6 +25,10 @@ The first thing you need to understand is the type of drawing tablet you want to
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | These are tablets WITHOUT a screen that need to be connected to a computer (some support wireless) to work. See: [Beginner pen tablets](beginner-pen-tablets.md) | These are tablets WITH A SCREEN that need to be connected to a computer.  see: [Beginner pen displays](beginner-pen-displays.md) | These are tablets that don't need to be connect to a computer so they are like an iPad. See: [Beginner standalone tablets](beginner-standalone-tablets.md) |
 
+## Applications
+
+See: [Apps for beginners](../../../apps/apps-for-beginners.md)
+
 ## Some thoughts
 
 * Get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [**Pen tablets vs pen displays**](../../../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
