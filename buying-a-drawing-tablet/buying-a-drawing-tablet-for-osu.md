@@ -6,17 +6,22 @@ If you are interested in playing osu with a drawing tablet, then do not rely on 
 
 Instead, the definitive resource to consult is [**Kuuube's tablet buying guide**](../resources/kuuube/kuuubes-tablet-buying-guide.md).&#x20;
 
-If you do want a quick answer now though, these two tablets are excellent for osu.
+If you do want a quick answer now, the One by Wacom (CTL-x72) series of tablets are excellent for osu. More here: [notes on CTL-x72 tablets](../links/drawtab-links/wacom/one-by-wacom/wacom-ctlx72-notes.md).
 
 * One by Wacom Small (CTL-472)
 * One by Wacom Medium (CTL-672)
 
-You could also buy one of these tablets below, which are also great for osu, but they are very expensive and are not any better for osu than the ones listed above.
+If your budget is much less constrained and you want to do artwork you could also buy the Wacom Intuos Pro series. These are also great for osu!, but they are very expensive and are not any better for osu than CTL-x72 series.
 
-* Wacom Intuos Pro Small (PTH-460)
-* Wacom Intuos Pro Medium (PTH-660)
-* Wacom Intuos Pro Large (PTH-860)
+* Wacom Intuos Pro 2025
+  * Wacom Intuos Pro Small 2025 (PTK-470)
+  * Wacom Intuos Pro Medium 2025 (PTK-670)
+  * Wacom Intuos Pro Large 2025 (PTK-870)
+* Wacom Intuos Pro 2017
+  * Wacom Intuos Pro Small 2017 (PTH-460)
+  * Wacom Intuos Pro Medium 2017 (PTH-660)
+  * Wacom Intuos Pro Large 2017 (PTH-860)
 
 ## Wacom guidance (with caution)
 
-Wacom lists recommended tablets for osu here: [https://estore.wacom.com/en-us/osu](https://estore.wacom.com/en-us/osu). However, they list some tablets that are NOT recombed for osu. So, I recommend you disregard their list andpick from the models listed above or the one Kuuube recommends.
+Wacom lists recommended tablets for osu here: [https://estore.wacom.com/en-us/osu](https://estore.wacom.com/en-us/osu). However, they list some tablets that are NOT recombed for osu. So, I recommend you disregard their list and pick from the models listed above or the one Kuuube recommends.
