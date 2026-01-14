@@ -91,7 +91,7 @@ See: [**Protective sheets**](accessory-links/surface-protectors/)
 
 #### FAQ: What should I do if I spilled water on my tablet or pen?
 
-See this guide: [**Dealing with water damage**](guides/caring-for-your-tablet/dealing-with-water-damage.md)
+See this guide: [**Dealing with water damage**](guides/maintaining-your-drawing-tablet/dealing-with-water-damage.md)
 
 ## Pens
 

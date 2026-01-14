@@ -4,7 +4,7 @@
 
 There are specialized cleaning sprays for screens which work very well on pen displays.
 
-More here: [Cleaning drawing tablets](../guides/caring-for-your-tablet/cleaning-a-drawing-tablet.md)
+More here: [Cleaning drawing tablets](../guides/maintaining-your-drawing-tablet/cleaning-a-drawing-tablet.md)
 
 ## What I use
 

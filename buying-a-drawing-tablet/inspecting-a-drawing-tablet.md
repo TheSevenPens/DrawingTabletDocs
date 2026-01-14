@@ -70,6 +70,6 @@ Take your pen and move it around the surface.
 
 There should be no rough patches. There should be no cuts or scratches deep enough that you can feel them through the pen. More here:&#x20;
 
-* [surface wear on pen tablets](../guides/caring-for-your-tablet/surface-wear-on-pen-tablets.md)
-* [surface wear on pen displays](../guides/caring-for-your-tablet/surface-wear-on-pen-displays.md)&#x20;
+* [surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
+* [surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)&#x20;
 

@@ -64,7 +64,7 @@ Some older pen displays use proprietary ports and connectors.&#x20;
 
 If you are using a very old drawing tablet, the plastic may have shifted colors and turned more yellow over time. You may not find the look of this yellow tint very attractive.
 
-If you wish to remove or reduce the yellowing consider using a retrobright process. More here: [**retrobrighting**](../caring-for-your-tablet/retrobright-to-handle-yellowed-plastic.md).
+If you wish to remove or reduce the yellowing consider using a retrobright process. More here: [**retrobrighting**](../maintaining-your-drawing-tablet/retrobright-to-handle-yellowed-plastic.md).
 
 ## Resources
 
