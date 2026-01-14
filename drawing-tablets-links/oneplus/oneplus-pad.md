@@ -1,5 +1,9 @@
 # OnePlus Pad
 
+## OnePlus Pad Go 2&#x20;
+
+* [Gartzia Artz - An iPad for €300? OnePlus Pad Go 2 | Artist Review ](https://www.youtube.com/watch?v=q4Yzw0ibyY4)2026/01/13
+
 ## OnePlus Pad 3
 
 * [Teoh on Tech - OnePlus Pad 3 note taking with Stylo 2](https://www.youtube.com/watch?v=w3CeGQX_qMg) 2025/07/13
