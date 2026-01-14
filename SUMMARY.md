@@ -285,7 +285,7 @@
       * [ChromeOS testing results](guides/operating-systems/chromeos/chromebook-testing-results.md "Compatibility testing")
     * [Android](guides/operating-systems/android/README.md)
       * [Testing Drawing Tablet Compatibility with Android devices](guides/operating-systems/android/testing-drawing-tablet-compatibility-with-android-devices.md "Compatibility testing")
-      * [Connecting a drawing tablet to an Android device](guides/operating-systems/android/using-a-drawing-tablet-with-an-android-device.md "Connecting to an Android device")
+      * [Using drawing tablets with Android devices](guides/operating-systems/android/using-a-drawing-tablet-with-an-android-device.md)
   * [Computers for digital art](guides/computers-for-digital-art/README.md)
     * [Mini-PCs for digital art](guides/computers-for-digital-art/mini-pcs-for-digital-art.md "Mini-PCs")
     * [Laptops for digital art](guides/laptops-for-digital-art.md "Laptops")
