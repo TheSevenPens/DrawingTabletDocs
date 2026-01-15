@@ -542,7 +542,7 @@
         * [XP-Pen Artist 12 Gen2 (CD120FH) notes](drawing-tablets-links/xp-pen/xp-pen-artist-gen2/xppen-cd120fh.md "Artist 12 Gen2 (CD120FH) ")
         * [XP-Pen Artist 13 GEN2 (CD130FH) notes](drawing-tablets-links/xp-pen/xp-pen-artist-gen2/xppen-cd130fh.md "Artist 13 GEN2 (CD130FH)")
         * [XP-Pen Artist 16 GEN2 (CD160FH) notes](drawing-tablets-links/xp-pen/xp-pen-artist-gen2/xppen-cd160fh.md "Artist 16 GEN2 (CD160FH)")
-      * [XP-Pen Artist GEN3](drawing-tablets-links/xp-pen/xp-pen-artist-gen3/README.md "Artist GEN3")
+      * [XP-Pen Artist 3rd](drawing-tablets-links/xp-pen/xp-pen-artist-gen3/README.md "Artist 3rd")
         * [XP-Pen Artist 12 GEN3 (CD121FH) notes](drawing-tablets-links/xp-pen/xp-pen-artist-gen3/xppen-cd121fh.md "Artist 12 GEN3 (CD121FH) ")
       * [XP-Pen Artist Pro](drawing-tablets-links/xp-pen/xp-pen-artist-pro.md "Artist Pro")
       * [XP-Pen Artist Pro GEN2](drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/README.md "Artist Pro GEN2")

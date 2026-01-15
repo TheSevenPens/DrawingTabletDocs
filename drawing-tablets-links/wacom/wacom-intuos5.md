@@ -50,7 +50,7 @@ Grip pen (KP-501E)
 
 ## Resources
 
-* [Terry Lee White - Intuos 5 Review](https://www.youtube.com/watch?v=4bNXtZCVg54) 2012/03/15
-* [New Brit Workshop - Intuos 5 Medium Touch Review](https://www.youtube.com/watch?v=KXoYgYUdVyY) - 2013/01/22
-* [Sara Dietschy - Wacom Tablet Small Intuos Pro VS Medium Intuos5 | Which One To Get / Size Comparison](https://www.youtube.com/watch?v=MeJ6DvJCjUk) Feb 10, 2015
+* [Terry Lee White - Intuos 5 Review](https://www.youtube.com/watch?v=4bNXtZCVg54) 2012-03-15
+* [New Brit Workshop - Intuos 5 Medium Touch Review](https://www.youtube.com/watch?v=KXoYgYUdVyY) - 2013-01-22
+* [Sara Dietschy - Wacom Tablet Small Intuos Pro VS Medium Intuos5 | Which One To Get / Size Comparison](https://www.youtube.com/watch?v=MeJ6DvJCjUk) 2015-02-10
 
