@@ -49,9 +49,9 @@
 
 ### Pixel sharpness & Anti-glare sparkle
 
-<figure><img src="../../../../.gitbook/assets/20260114_212101 (Large) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/GT2402_20260115_002613 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/20260114_212148 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/GT2401_20260115_002800 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
