@@ -1,4 +1,4 @@
-# Huion Kamvas Pro 24 (Gen3) (GT2402)
+# Huion Kamvas Pro 24 GEN3 (GT2402) notes
 
 ## Overview
 
@@ -47,9 +47,17 @@
 
 ## Display experience
 
-### Pixel sharpness
+### Pixel sharpness & Anti-glare sparkle
 
-I found the display a bit soft. (Apparently due to the etched glass). To me this was a bit softer than the Huion Kamvas Pro 19.
+<figure><img src="../../../../.gitbook/assets/20260114_212101 (Large) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/20260114_212148 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Sharpness - the GT2402 has noticeably soft pixels (presumably due to the etched glass). To me this was a bit softer than the Huion Kamvas Pro 19. The older GT2401 is much sharper.
+
+AG Sparkle - The GT2402 has very little AG sparkle. The Older model GT2401 has a moderate about of AG sparkle.
 
 ## Drawing experience
 
