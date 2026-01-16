@@ -151,6 +151,7 @@
     * [Etched glass](guides/maintaining-your-drawing-tablet/etched-glass.md)
   * [Customizing your experience](guides/customizing/README.md "Customizing")
     * [Lowering the initial activation force (IAF)](guides/customizing/lowering-the-initial-activation-force-iaf.md "Lowering IAF")
+    * [TestPage](guides/customizing/testpage.md)
     * [Matching aspect ratios with Force Proportions](guides/customizing/matching-aspect-ratios.md "Force proportions")
     * [Shrinking the active area](guides/customizing/shrinking-the-active-area.md)
     * [Using precision mode](guides/customizing/using-precision-mode.md)
