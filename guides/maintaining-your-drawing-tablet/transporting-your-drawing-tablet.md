@@ -40,7 +40,7 @@ Drawing tablet pens are also very delicate
 
 ## Cases for pens
 
-See: [Protective cases for pens](../../accessory-links/protective-cases-for-pens.md)
+See: [Protective cases for pens](../../links/accessory-links/pen-cases.md)
 
 ## Preparing for the worst
 
