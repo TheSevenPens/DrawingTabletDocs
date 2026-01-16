@@ -19,6 +19,6 @@ You can configure a pen button or tablet button to switch between the two displa
 
 For pen tablets I always suggest mapping to a single monitor AND enabling display toggle if you need to use both monitors.
 
-## A note on Force Proportions
+## Multiple monitors
 
-Display toggle is especially useful when you are using Force Proportions.
+As always, I recommend you turn on Force Proportions. This is ensure that you aren't drawing distorted strokes when switching between displays. More here: [Force Proportions](../../guides/customizing/matching-aspect-ratios.md)

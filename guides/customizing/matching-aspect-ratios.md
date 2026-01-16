@@ -102,6 +102,12 @@ Here are some examples of what happens some Wacom pen tablets because of the mis
 * For users of pen tablets (screenless tablets) : YES. I highly recommend it for for everyone using a pen tablet.
 * For users of pen displays (screen tablets): NO. It is not needed.
 
-## Understading force proportions via simulation
+## Multiple Displays
+
+When enabling Force Proportions with multiple displays, you will notice a BIG reduction in the available active area is needed to maintain the correct non-distorted drawing.
+
+For this situation, after enabling Force Proportions also enable [Display Toggle](../../core-features/active-area/display-toggle.md).
+
+## Simulation
 
 This tool simulates the effect of Force Proportions: [**Force proportions simulator**](../../resources/sevenpens-force-proportions-simulator.md) &#x20;
