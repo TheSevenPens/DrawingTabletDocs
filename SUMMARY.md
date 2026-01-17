@@ -629,6 +629,7 @@
   * [Project Patchouli](resources/project-patchouli.md)
   * [Wonkle tablet](resources/wonkle-tablet.md)
   * [Circuit simulators](misc/circuit-simulations.md)
+  * [SevenPens pen compatibility list](resources/sevenpens-pen-compatibility-list.md)
 * [Developers](developers/README.md)
   * [Pen input APIs](developers/pen-input-apis.md)
   * [WinTab vs Windows Ink](developers/wintab-vs-windows-ink.md)

@@ -1,24 +1,24 @@
 # Wacom pen compatibility
 
-## My list of pen and tablet compatibility pairs&#x20;
+## Compatibility lists
 
-These are based on **Kuuube's pen compatibility mastersheet** and **Wacom's published information**.&#x20;
+### My list
 
-[https://thesevenpens.github.io/DrawTabPenCompat/](https://thesevenpens.github.io/DrawTabPenCompat/)
+My list of pen compatibility for Wacom: [SevenPens pen compatibility list](../../resources/sevenpens-pen-compatibility-list.md)
 
-Notes:
+This is a PARTIAL list but covers common cases and is easy to search through. If you need a quick answer this is a good starting point since it is the easiest to use.&#x20;
 
-* This list only includes those combinations that have full compatibility. &#x20;
-* This list excludes some very old Wacom tablets.
-* Always verify compatibility with Wacom support before you purchase any pen.&#x20;
+### Wacom's list
 
-## Other compatibility lists
+Wacom maintains their own PARTIAL list of pen and tablet compatibility: [**Wacom Accessory Compatibility Matrix**](https://wcm-cdn.wacom.com/-/media/files/downloads/accomp/2022/wacomtablet_accessorycompatibilitymatrix_wtc_en_sept2022.pdf)  &#x20;
 
-There are three popular compatibility lists:
+### MacHollywood's
 
-* Wacom maintains their own PARTIAL list of pen and tablet compatibility. You can find it here: [**Wacom Accessory Compatibility Matrix**](https://wcm-cdn.wacom.com/-/media/files/downloads/accomp/2022/wacomtablet_accessorycompatibilitymatrix_wtc_en_sept2022.pdf)  &#x20;
-* MacHollywood maintains another the [**MacHollywood compatibility list**](https://machollywood.com/blogs/news/wacom-pen-compatibility).
-* Tablet expert Kuuube, maintains this list [**Kuuube's Wacom pen compatibility mastersheet**](../../resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md). Note that in this list is tested with Open Tablet Driver, not the Wacom drivers.
+MacHollywood maintains another the [**MacHollywood compatibility list**](https://machollywood.com/blogs/news/wacom-pen-compatibility).
+
+### Kuuube's list
+
+Tablet expert Kuuube, maintains this list [**Kuuube's Wacom pen compatibility mastersheet**](../../resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md). This is the most complete lists that exists anywhere!&#x20;
 
 <mark style="color:red;">As always, no matter where you see compatibility lists, ALWAYS contact product support to verify compatibility before purchasing a pen.</mark>
 
