@@ -188,7 +188,7 @@ The tablet has:
 * 2 dials
 * 5 buttons
 
-### Protcting the dials
+### Protecting the dials
 
 The dials stick out a little bit from the edge of the tablet. Be aware of this when storing or transporting the tablet. I recommend avoiding having anything pressing constantly on the dials. And certainly don't store the tablet with the dials on the bottom. I don't if the dials are so fragile that they need so much protection, but I think it is wise to be careful.
 
