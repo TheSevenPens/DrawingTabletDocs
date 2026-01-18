@@ -12,17 +12,17 @@ If you already have a Wacom tablet, switching to another brand is unlikely to gi
 
 Physical pressure range (IAF and MAX pressure)
 
-As of 2026 welcome professional pens still have the lowest IAF in the industry. And this means that they can detect extremely low pressure. Other brands have gotten close but are still over the years but are still not matching what walk on professional pens offer. so we've sensitivity.
+As of 2026 Wacom professional pens still have the lowest IAF in the industry. And this means that they can detect extremely low pressure. Other brands have gotten close but are still over the years but are still not matching what walk on professional pens offer. so we've sensitivity.
 
 So if having a pen that is extremely sensitive to pressure is what is important to you - a pen that detects very light strokes - then you may not enjoyed the transition to another brand and its pens.
 
-For more details on how the professional pens compare see this document: [Professional pens compared](../recommendations/comparisons/2025-professional-pens-compared.md)
+More here: [Professional pens compared](../recommendations/comparisons/2025-professional-pens-compared.md)
 
 ## Old Wacom vs New non-Wacom
 
 Wacom has been in the industry for 40 years. And they've released many tablets over the years.
 
-Welcome's older tablets are still better then the newest tablets of other brands. Yes the differences have really shrunk. And for a lot of people you would not be able to tell the difference.
+Welcome's older professional tablets are still better then the newest tablets of other brands. Yes the differences have really shrunk. And for a lot of people you would not be able to tell the difference.&#x20;
 
 ## Age of tablets on the market
 
