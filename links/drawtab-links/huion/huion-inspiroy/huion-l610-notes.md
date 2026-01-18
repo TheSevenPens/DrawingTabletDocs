@@ -200,9 +200,11 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 ## Known issues
 
-### Bubbles
+### Air bubbles
 
-Some users report that "bubbles" (air pockets) appear under the tablet surface. Sometimes these bubbles have appeared after the first day of usage and sometimes only after some time.
+Some users report that "air bubbles" appear under the tablet surface. Sometimes these bubbles have appeared after the first day of usage and sometimes only after some time.
+
+<figure><img src="../../../../.gitbook/assets/frego-bubbles-CGKTd7b.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 This problem is present, but does not appear super widespread. The vast majority of users don't mention any bubbles. I personally have not run into these bubbles.
 
