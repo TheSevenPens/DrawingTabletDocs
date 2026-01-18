@@ -8,25 +8,23 @@ This document will give you some things to consider. There are valid reasons to 
 
 ## Moving from Wacom to any other brand
 
-If you already have a Wacom tablet, switching to another brand is unlikely to give you a better experience in terms of drawing performance. This is especially true if you are currently using a Wacom professional tablet such as an intuos pro and a cintiq pro.
+If you already have a Wacom tablet, switching to another brand is unlikely to give you a better experience in terms of drawing performance. This is especially true if you are currently using a Wacom professional tablet such as an Intuos pro and a Cintiq pro.
 
 Physical pressure range (IAF and MAX pressure)
 
-As of 2026 welcome professional pens still have the lowest iaf in the industry. And this means that they can detect extremely low pressure. Other brands have gotten close but are still over the years but are still not matching what walk on professional pens offer. so we've sensitivity.
+As of 2026 welcome professional pens still have the lowest IAF in the industry. And this means that they can detect extremely low pressure. Other brands have gotten close but are still over the years but are still not matching what walk on professional pens offer. so we've sensitivity.
 
 So if having a pen that is extremely sensitive to pressure is what is important to you - a pen that detects very light strokes - then you may not enjoyed the transition to another brand and its pens.
 
 For more details on how the professional pens compare see this document: [Professional pens compared](../recommendations/comparisons/2025-professional-pens-compared.md)
 
-### &#x20; <a href="#overview" id="overview"></a>
-
-Old Wacom vs New non-Wacom
+## Old Wacom vs New non-Wacom
 
 Wacom has been in the industry for 40 years. And they've released many tablets over the years.
 
 Welcome's older tablets are still better then the newest tablets of other brands. Yes the differences have really shrunk. And for a lot of people you would not be able to tell the difference.
 
-Age of tablets on the market
+## Age of tablets on the market
 
 At any given moment welcome only produces a small number of tablets. And they don't release new products very often. This means their lineup is relatively simple to understand.
 
@@ -38,19 +36,13 @@ Probably the easiest way of knowing that you're getting a newer non Wacom tablet
 
 For non Wacom brands here are the pens that indicate that these are newer tablets with the latest technology.
 
-Huion PW550, PW550S
+* Huion PW550, PW550S
+* Huion PW600 series
+* XP-Pen X3 Pro
+* XP-Pen X3 Elite
+* XP-Pen X4
 
-Huion PW600 series
-
-XP-Pen X3 Pro
-
-XP-Pen X3 Elite
-
-XP-Pen X4
-
-&#x20;
-
-Drivers
+## Drivers
 
 Tablet drivers are critical for successfully using a drawing tablet.
 
@@ -62,9 +54,9 @@ And the same can be said for any other brand of drivers.
 
 So if you're expecting a better driver by switching brands then it is certainly possible. But don't assume it's true.
 
-Mixing tablets and drivers on the same machine
+## Mixing tablets and drivers on the same machine
 
-You might have a tablet from Wacom let's say a pen tablet like an intuos pro. And then you might be interested in also getting a pen display from a non-wacom brand such as a Huion Kamvas.
+You might have a tablet from Wacom let's say a pen tablet like an Intuos pro. And then you might be interested in also getting a pen display from a non-Wacom brand such as a Huion Kamvas.
 
 What a lot of people hope is that they can use both tablets at the same time with your computer. By same time I don't mean that they're literally drawing with two hands.
 
