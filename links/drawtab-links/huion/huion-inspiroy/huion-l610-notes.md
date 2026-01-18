@@ -197,3 +197,19 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 <figure><img src="../../../../.gitbook/assets/20240831_125840 (Large).jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
 
+## Known issues
+
+### Bubbles
+
+Some users report that "bubbles" (air pockets) appear under the tablet surface. Sometimes these bubbles have appeared after the first day of usage and sometimes only after some time.
+
+This problem is present, but does not appear super widespread. The vast majority of users don't mention any bubbles. I personally have not run into these bubbles.
+
+If you do encounter this problem, contact Huion support for a replacement. &#x20;
+
+Examples:
+
+* [https://www.reddit.com/r/huion/comments/1iltd0r/brand\_new\_inspiroy\_frego\_m\_has\_air\_bubbles\_under/](https://www.reddit.com/r/huion/comments/1iltd0r/brand_new_inspiroy_frego_m_has_air_bubbles_under/)&#x20;
+* [https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles\_on\_huion\_inspiroy\_frego\_m/](https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles_on_huion_inspiroy_frego_m/)
+*
+
