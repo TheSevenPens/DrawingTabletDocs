@@ -26,14 +26,12 @@ Welcome's older professional tablets are still better then the newest tablets of
 
 ## Some Wacom consumer tablets are not great
 
-Some Wacom consumer pen tablets I really do NOT recommend
+Some Wacom consumer pen tablets I really do NOT recommend. These include:
 
 * Wacom One S (CTC-4110WL)
 * Wacom One M (CTC-6110WL)
 
 If you have these tablets and their pens, you might get a better experience with a newer non-Wacom pen tablet
-
-
 
 ## Age of tablets on the market
 
