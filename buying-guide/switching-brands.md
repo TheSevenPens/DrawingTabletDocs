@@ -2,13 +2,20 @@
 
 ## Overview
 
-If you already have a tablet and are looking to buy a new one, you might be thinking about switching brands. For example you might have a Wacom and are entertaining moving to Huion or XP-Pen.
+If you already have a tablet and are looking to buy a new one, you might be thinking about switching brands. For example you might have a Wacom and are entertaining moving to Huion or XP-Pen. This document will give you some things to consider. There are valid reasons to switch brands but there are risks.
 
-This document will give you some things to consider. There are valid reasons to switch brands but there are risks.
+## Wacom tablets
 
-## Moving from Wacom to any other brand
+Wacom tablets will come up in this discussion a lot. The thing to remember with Wacom is that your should treat their professional and consumer pen tablets as completely different experiences.&#x20;
 
-If you already have a Wacom tablet, switching to another brand is unlikely to give you a better experience in terms of drawing performance. This is especially true if you are currently using a Wacom professional tablet such as an Intuos pro and a Cintiq pro.
+* Wacom professional tablets are the best in the market.
+* Wacom professional pens are the best in the market.
+* Wacom consumer tablets are just OK (some are pretty good)
+* Wacom consumer pens are just OK (some older ones are pretty good)
+
+## Moving from Wacom professional tablets
+
+If you already have a Wacom professional tablet, switching to another brand is unlikely to give you a better experience in terms of drawing performance.&#x20;
 
 Physical pressure range (IAF and MAX pressure)
 
