@@ -79,9 +79,17 @@ For Windows it almost certainly will not work. On windows it's best to have a si
 
 On MacOS, my experience has been very different it seems like tablet drivers get along much better when multiple are installed. In fact my experience has been very good doing this. But for other people they find that mixing tablet drivers on Mac OS is also a problem.
 
+## Moving to Wacom
+
+If you have a non-Wacom tablet and want a Wacom tablet, if you go for an Wacom Professional tablet there is one thing you need to be aware of.
+
+Wacom professional pens tend to be much more expensive than non-Wacom pens. Some Wacom professional pens are more expensive than non-Wacom tablets! So you should be aware of the prices of getting a replacement pen if you lose or damage it. &#x20;
+
 ## Specific recommendations
 
 Go here for my recommendations that include non-Wacom tablets: [recommendations](../recommendations/)
+
+
 
 
 
