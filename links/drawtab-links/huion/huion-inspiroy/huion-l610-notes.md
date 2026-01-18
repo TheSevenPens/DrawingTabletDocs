@@ -8,6 +8,7 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 * Good for beginners.&#x20;
 * If you have an older Huion tablet it might be a good upgrade.
 * The pen it came with had a very wide pressure range. This range is very good. pen IAF was typical of Huion (i.e. slightly higher IAF than Wacom's pro pens).
+* See the known issues section at the bottom.
 
 ## Companion video
 
