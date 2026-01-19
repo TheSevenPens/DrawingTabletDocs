@@ -3,7 +3,7 @@
 {% hint style="info" %}
 For more information:
 
-* [**my notes on Apple iPad**](apple-ipad-1.md)&#x20;
+* [**my notes on Apple iPad**](../../links/drawtab-links/apple/apple-ipad-notes.md)&#x20;
 * [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
 * [**Apple Pencil versus EMR pens**](../../links/pen-links/apple-pencil/apple-pencil-notes.md)
 * [**Apple pencil links**](../../links/pen-links/apple-pencil/)&#x20;

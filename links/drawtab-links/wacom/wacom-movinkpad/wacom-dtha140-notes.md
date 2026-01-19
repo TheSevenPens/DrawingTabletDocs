@@ -380,7 +380,7 @@ If you were trying to pick between the two tablets here is my guidance:
 
 In general, see:
 
-* [Apple iPad notes](../../../../drawing-tablets-links/apple/apple-ipad-1.md)
+* [Apple iPad notes](../../apple/apple-ipad-notes.md)
 * [Apple iPad vs drawing tablets](../../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
 * [Apple Pencil notes](../../../pen-links/apple-pencil/apple-pencil-notes.md)
 

@@ -439,7 +439,7 @@
   * [Drawing tablet links](drawing-tablets-links/README.md "Drawing tablets")
     * [Apple](drawing-tablets-links/apple/README.md)
       * [Apple iPad](drawing-tablets-links/apple/apple-ipad.md "iPad")
-      * [Apple iPad notes](drawing-tablets-links/apple/apple-ipad-1.md "iPad notes")
+      * [Apple iPad notes](links/drawtab-links/apple/apple-ipad-notes.md "iPad notes")
       * [Using an iPad with your computer as a pen display](links/drawtab-links/apple/using-an-ipad-with-your-computer-as-a-pen-display.md "iPad as pen display")
       * [Apple iPad vs drawing tablets](drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md "iPad vs drawing tablets")
       * [Apple iPad versus Samsung Galaxy Tab S](drawing-tablets-links/apple/apple-ipad-versus-samsung-galaxy-tab-s.md "iPad vs Samsung Galaxy Tab S")

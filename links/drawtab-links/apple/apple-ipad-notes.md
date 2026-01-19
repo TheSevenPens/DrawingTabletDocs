@@ -8,8 +8,8 @@ description: Using an iPad as a drawing tablet
 
 iPads - specifically those that are compatible with the Apple Pencil 2nd gen or the Apple Pencil Pro - are compelling alternatives to a typical EMR standalone drawing tablet. iPads are lightweight, portable, have a great display, have a lot of apps, and a good pen-based drawing experience.
 
-* [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
-* [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
+* [**Apple iPad versus drawing tablets**](../../../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
+* [**Apple iPad versus Samsung Galaxy Tab S**](../../../drawing-tablets-links/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## Terminology
 
@@ -17,7 +17,7 @@ I refer to the **Apple Pencil** as a **pen** to keep my documentations consisten
 
 ## Choosing between iPad models
 
-There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../links/pen-links/apple-pencil/). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
+There have been many models of the iPad released over the years. And many models of the [**Apple Pencil**](../../pen-links/apple-pencil/). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
 
 The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
 
@@ -25,7 +25,7 @@ The vary quite a bit in price, below are three models I personally own. You will
 * **Apple iPad Pro 11 inch (4th gen and later)** ($800+)
 * **Apple iPad pro 12.9 inch 6th gen** ($1100+)
 
-For a list of applications for iPads: [**Apps for iPad**](../../apps/apps-for-ipad.md)
+For a list of applications for iPads: [**Apps for iPad**](../../../apps/apps-for-ipad.md)
 
 [Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025/07/24
 
@@ -54,12 +54,12 @@ For a list of applications for iPads: [**Apps for iPad**](../../apps/apps-for-ip
 
 Some popular and excellent drawing applications are available on the iPad. &#x20;
 
-* [ProCreate](../../app-links/procreate/)
-* [Clip Studio Paint](../../app-links/clip-studio-paint/)
-* [Adobe Fresco](../../app-links/fresco.md)
-* [Ibis Paint](../../app-links/ibis-paint.md)
+* [ProCreate](../../../app-links/procreate/)
+* [Clip Studio Paint](../../../app-links/clip-studio-paint/)
+* [Adobe Fresco](../../../app-links/fresco.md)
+* [Ibis Paint](../../../app-links/ibis-paint.md)
 
-See a larger this list: [Apps for iPad](../../apps/apps-for-ipad.md)&#x20;
+See a larger this list: [Apps for iPad](../../../apps/apps-for-ipad.md)&#x20;
 
 ## Surface texture
 
@@ -68,7 +68,7 @@ There are two kinds of built-in glass texture of iPads: **Smooth glass** and **N
 * **Smooth glass** - Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery".  Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
 * **Nano texture** - Starting in 2024, some Apple iPad models can be ordered with a "Nano texture".  I don't have any direct experience with this texture.
 
-You can also change the texture with protective sheets for iPads there are some options here: [**Protective sheets**](../../accessory-links/surface-protectors/). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
+You can also change the texture with protective sheets for iPads there are some options here: [**Protective sheets**](../../../accessory-links/surface-protectors/). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
 
 ## Diagonal wobble
 
@@ -99,7 +99,7 @@ If you are going to draw with an Apple Pencil I recommend you get either the App
 
 ## Pen hover
 
-Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../core-features/pen-hover/)&#x20;
+Pen hover is the ability of a tablet to detect and show the position of the pen without the pen touching the screen. Some people - especially artists - really depend on this feature. For others it is not so important. Read this doc to learn more about it and why it could be important for you: [**Pen hover**](../../../core-features/pen-hover/)&#x20;
 
 Hover support in iPads:
 
@@ -108,19 +108,19 @@ Hover support in iPads:
 
 ## **Parallax**&#x20;
 
-iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More here: [**Parallax**](../../guides/pen-displays/parallax.md)&#x20;
+iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More here: [**Parallax**](../../../guides/pen-displays/parallax.md)&#x20;
 
 ## Pointer lag
 
 * iPads have very low pointer lag. &#x20;
 * Some apps like Procreate seem very heavily optimized and (apparently) use special techniques to produce **extremely** low pointer lag.&#x20;
-* More here: [**lag**](../../core-features/lag/)&#x20;
+* More here: [**lag**](../../../core-features/lag/)&#x20;
 
 ## **Anti-glare sparkle**
 
 * You may or may not be sensitive to the anti-glare sparkle effect. Some people hate it. Some are much less sensitive to it.&#x20;
 * iPads don't show much AG sparkle at all - I would say it is undetectable in the iPads I have examined
-* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](apple-ipad-1.md#anti-glare-sparkle)
+* Pen displays have AG sparkle to various degrees. More here: [ant&#x69;**-glare sparkle**](apple-ipad-notes.md#anti-glare-sparkle)
 
 ## **Size**
 
@@ -130,11 +130,11 @@ But for mobile use, the size of the iPad (11" & 12.9") is much more convenient t
 
 ## Accessories
 
-* [iPad stands](../../accessory-links/stands/ipad-stands.md)
+* [iPad stands](../../../accessory-links/stands/ipad-stands.md)
 
 ## iPad apps for creative work
 
-There are many great apps for iPad: [**Apps for iPad**](../../apps/apps-for-ipad.md).
+There are many great apps for iPad: [**Apps for iPad**](../../../apps/apps-for-ipad.md).
 
 ## How I use iPads
 
@@ -147,12 +147,12 @@ I use these iPad models with an Apple Pencil 2:
 
 I primarily these use iPad apps&#x20;
 
-* [Procreate](../../app-links/procreate/)
-* [Clip Studio Paint](../../app-links/clip-studio-paint/) &#x20;
+* [Procreate](../../../app-links/procreate/)
+* [Clip Studio Paint](../../../app-links/clip-studio-paint/) &#x20;
 
 I occasionally use these iPad apps
 
-* [Concepts](../../app-links/concepts-app.md)  &#x20;
+* [Concepts](../../../app-links/concepts-app.md)  &#x20;
 
 ## Transferring files between iPads and Windows
 

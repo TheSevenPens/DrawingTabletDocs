@@ -84,7 +84,7 @@ If you already have a compatible Apple iPad and Apple Pencil, consider whether y
 
 * [Apple iPad vs drawing tablets](../drawing-tablets-links/apple/apple-ipad-vs-drawing-tablets.md)
 * [Apple Pencil vs EMR pens](../links/pen-links/apple-pencil/apple-pencil-notes.md)
-* [my Notes on Apple iPad](../drawing-tablets-links/apple/apple-ipad-1.md)
+* [my Notes on Apple iPad](../links/drawtab-links/apple/apple-ipad-notes.md)
 
 ## **Non-pen inputs**
 
