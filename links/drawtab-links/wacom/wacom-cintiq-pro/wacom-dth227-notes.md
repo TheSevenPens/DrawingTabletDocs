@@ -14,11 +14,6 @@ This is my favorite tablet of the 70+ that I own. I prefer drawing on this one m
 * Product page: [https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH227.html](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
 
-## Drawing experience
-
-* EXCELLENT
-* Has the leading drawing experience in the industry thanks to its support of the Wacom Pro Pen 2 and Wacom Pro Pen 3
-
 ## General
 
 * Active Area / Display size: 476 x 268 mm (18.7 x 10.5 in)&#x20;
@@ -33,7 +28,9 @@ The list of compatible pens is here: [https://support.wacom.com/hc/en-us/article
 
 I mostly use the Wacom Pro Pen 2 with this tablet.
 
-## Display&#x20;
+
+
+## Display specs
 
 * Native resolution: 3840 x 2160
 * Aspect ratio: 16x9
@@ -48,19 +45,7 @@ I mostly use the Wacom Pro Pen 2 with this tablet.
 * Refresh rate: 120Hz.
   * I run it at 60Hz
 
-## Anti-glare Sparkle
-
-Rating: GOOD (LOW)&#x20;
-
-It has a little more than the Cintiq Pro 27 - but that is to be expected since it has a higher PPI.
-
-## Dead Pixels
-
-I saw none when I started using it and none have developed.
-
-
-
-## Color modes
+### Color modes
 
 * Native (the default)
 * AdobeRGB
@@ -77,17 +62,36 @@ I saw none when I started using it and none have developed.
 
 I left it running in **Native** mode.
 
-## Parallax
+## Display experience
+
+### Anti-glare Sparkle
+
+Rating: GOOD (LOW)&#x20;
+
+It has a little more than the Cintiq Pro 27 - but that is to be expected since it has a higher PPI.
+
+### Dead Pixels
+
+I saw none when I started using it and none have developed.
+
+## Drawing experience
+
+### Summary
+
+* EXCELLENT
+* Has the leading drawing experience in the industry thanks to its support of the Wacom Pro Pen 2 and Wacom Pro Pen 3
+
+### Parallax
 
 EXCELLENT - very little parallax.
 
-## Pen tracking accuracy
+### Pen tracking accuracy
 
 * Wacom does not publish numbers
 * I found it to be extremely accurate at the edged and corners
   * A bit more accurate than the Cintiq Pro 27 (DTH-271)
 
-## Diagonal wobble
+### Diagonal wobble
 
 Rating: GOOD. Exhibits a slight wobble in diagonal lines.
 
@@ -95,53 +99,45 @@ Slightly better than Cintiq Pro 27.
 
 <figure><img src="../../../../.gitbook/assets/Diag Wobble Wacom Cintiq Pro 22 (DTH-227).png" alt=""><figcaption></figcaption></figure>
 
-## Pressure handling
+### Pressure handling
 
 EXCELLENT (best in the industry) because the pens are very good.
 
 * [My notes on Wacom Pro Pen 2](../../../pen-links/wacom-pens/wacom-kp504e-notes.md)
 * [My notes on Wacom Pro Pen 3](../../../pen-links/wacom-pens/wacom-acp500-notes.md)
 
-## Pointer lag
+### Pointer lag
 
 GOOD but not GREAT - this is typical for a pen display
 
 Switching to 120Hz makes a little bit of difference to pointer lag but not much.
 
-## Cabling and connections
+## Connections and cabling
 
 ### Using single USB-C cable
 
 Unlike many other 16" pen displays, a single USB-C cable is not enough to power this tablet. You Still have to use their supplied power adapter.
 
-## How I connect it to my PC
 
-Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable to connect it to the USB 4 port on my mini pc.
 
-## Fans
+### How I connect it to my PC
 
-It DOES have fans. Which cause some noise.
+Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable to connect it to the USB 4 port on my mini pc. The diagram below shows how it is connected.&#x20;
 
-There is no control over the speed of the fans.
+<figure><img src="../../../../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
 
-## Noise
 
-* The fan noise is always on.
-* Quieter than than the Cintiq Pro 27 (DTH-271) but louder than the Cintiq Pro 16 (DTH-167).
-* At 50% brightness the noise the noise is audible but does not bother me unlike the DTH-271 which I am irritated by. With normal sounds in my office (Air conditioner, etc) I often can't pick up the sound.
 
-## Heat
+## Non-pen inputs
 
-Fans keep it cool. At the default brightness, the tablet is cool to the touch - maybe just very slightly warm.
-
-## Touch
+### Touch
 
 Supports touch.
 
 * There is a physical button on the back of the pen display to enable/disable touch.
 * Most of the time I disable touch but occasionally use it when I need to.
 
-## Express Keys
+### Express Keys
 
 * total of 8
 * 4 on back left
@@ -156,7 +152,25 @@ EXCELLENT
 
 * You can get to the OSD by pressing a physical button on the back of the tablet
 
-## Stand
+## Ergonomics
+
+### Heat
+
+Fans keep it cool. At the default brightness, the tablet is cool to the touch - maybe just very slightly warm.
+
+### Fans
+
+It DOES have fans. Which cause some noise.
+
+There is no control over the speed of the fans.
+
+### Noise
+
+* The fan noise is always on.
+* Quieter than than the Cintiq Pro 27 (DTH-271) but louder than the Cintiq Pro 16 (DTH-167).
+* At 50% brightness the noise the noise is audible but does not bother me unlike the DTH-271 which I am irritated by. With normal sounds in my office (Air conditioner, etc) I often can't pick up the sound.
+
+### Stand
 
 It does NOT come with a stand.
 
@@ -167,18 +181,18 @@ I used this tablet with two different non-Wacom stands:
 * **Huion ST100 stand**. This stand is designed for 24"+ pen displays. With the Cintiq Pro 22 using the ST100 stand at the lowest angle means that the bottom of the tablet does not touch the desk and so doesn't provide any additional stability. As a result, at the lowest angle there is some wobble while drawing on the tablet. You need to increase the angle a little bit to ensure that the bottom of the tablet touches the desk. At that point drawing is stable. &#x20;
 * **VIVO STAND-V100R stand**. More here: [my notes on the VIVO STAND-V100R](../../../../accessory-links/stands/vivo-v100r.md)&#x20;
 
-## Legs
+### Legs
 
 It does NOT have any legs
 
-## Laying flat
+### Laying flat
 
 The back of the the pen display has pieces that stick out due to the buttons. This means:
 
 * It does not lay down flat on a desk
 * It will slide around easily
 
-## VESA mounting
+### VESA mounting
 
 It has 100mmx100mm VESA mounting holes on the back.&#x20;
 
