@@ -162,7 +162,10 @@ It does NOT come with a stand.
 
 There is a specific Wacom Cintiq 22 Stand which is very expensive.
 
-I instead use a much cheaper Huion ST100a stand.
+I used this tablet with two different non-Wacom stands:
+
+* **Huion ST100 stand**. This stand is designed for 24"+ pen displays. With the Cintiq Pro 22 using the ST100 stand at the lowest angle means that the bottom of the tablet does not touch the desk and so doesn't provide any additional stability. As a result, at the lowest angle there is some wobble while drawing on the tablet. You need to increase the angle a little bit to ensure that the bottom of the tablet touches the desk. At that point drawing is stable. &#x20;
+* **VIVO STAND-V100R stand**. More here: [my notes on the VIVO STAND-V100R](../../../../accessory-links/stands/vivo-v100r.md)&#x20;
 
 ## Legs
 
