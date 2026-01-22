@@ -71,10 +71,11 @@ More here: [**Recessed USB-C ports**](../recessed-usb-c-ports.md)&#x20;
 
 ## Manufacturer cables vs third-party cables
 
-I recommend you get the USB-C cables provided by the manufacturerfor two reasons:
+I recommend you get the USB-C cables provided by the manufacturer for two reasons:
 
 * These cables are known to work with your tablet
 * The tablet may have recessed USB-C ports and these cables are designed to fit that port. Other cables may not even fit inside.
+* I have personally experienced times where third-party USB-C cables just did not work with a tablet even though they may all the specs and worked with many other tablets.
 
 More here: [Using 3rd-party cables with your drawing tablet](../using-3rd-party-cables-with-your-drawing-tablet/)&#x20;
 
