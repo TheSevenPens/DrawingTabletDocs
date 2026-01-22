@@ -13,13 +13,9 @@ Your pen display is connected to your to your computer for two reasons :
 
 NO SIGNAL means that the pen display is NOT RECEIVNG the video signal from the computer.
 
-## NO SIGNAL but the pen still works
+## Background information (<mark style="color:$danger;">WATCH THESE VIDEOS!!!</mark>)
 
-This is very normal because the data connection and the video signal are separate.&#x20;
-
-## Background information
-
-Before you begin troubleshooting this problem, I HIGHLY RECOMMEND you watch these two videos. They have a lot of information which can help you solve your problems. Also they provide the brackground needed to understand many of the terms and procedures used in this document.
+Before you begin troubleshooting this problem, I HIGHLY RECOMMEND you watch these two videos. They have a lot of information which can help you solve your problems. Also they provide the background needed to understand many of the terms and procedures used in this document.
 
 {% embed url="https://youtu.be/iKl_3NYjlsY" %}
 
@@ -28,6 +24,10 @@ Before you begin troubleshooting this problem, I HIGHLY RECOMMEND you watch thes
 ## Setting expectations
 
 This guide lists every tactic I am aware of that might help. However, it may be that even this guide is not enough to help. <mark style="color:red;">**Ultimately you should be prepared to contact your tablet manufacturer's customer support team.**</mark>
+
+## NO SIGNAL but the pen still works
+
+This is very normal because the data connection and the video signal are separate.&#x20;
 
 ## What you can tell from the NO SIGNAL message
 
