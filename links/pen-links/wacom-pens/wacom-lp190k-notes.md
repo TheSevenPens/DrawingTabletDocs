@@ -18,9 +18,10 @@ This pen comes with the One by Wacom (CTLx72) series of tablets. [**My notes on 
 
 ## Initial Activation Force
 
-Tablet expert Kuuube measures the IAF of this pen to be under <1gf - which is excellent.
-
-I myself am not good at measuring IAF, but I definitely think this is a very sensitive pen.
+* Tablet expert Kuuube measures the IAF of this pen to be under <1gf - which is excellent.
+* Other's have told me that in practice this pen has a low IAF but one that feels more normal - around 3gf IAF.
+* I myself am not good at measuring IAF with my equipment, but I definitely think the subjective IAF is good but to me it doesn't quite match that of the Pro Pen 2.&#x20;
+* Keep in mind that even pens of the same model vary a little bit in IAF unit-by-unit.
 
 ## Pressure response
 
