@@ -1,9 +1,32 @@
-# Tilt impact on pressure readings
+# Tilt affects pressure
 
 {% hint style="info" %}
-To be clear this has nothing to do with using tilt data to draw strokes. This refers only to the effect of the physical tilt of the pen on pressure readings.
+This section has nothing to do with using tilt to draw strokes. This refers only how the tilt of the pen affects pressure detection.
 {% endhint %}
 
-What we find is that the physical tilt angle effects how pressure behaves. When holding the pen perfectly vertical the the pen is most sensitive to low pressure. And the more you tilt the pen the less sensitive it is to low pressure.
+## Overview
 
-This is an expected behavior of EMR pens. Because the more the pen is tilted the more force is not directed through the pen to the pressure sensor but to the sides pen instead.
+The pen's physical tilt angle effects how pressure behaves.&#x20;
+
+* When holding the pen vertically, the the pen is the most sensitive to pressure.&#x20;
+* When holding the pen tilted, the pen is less sensitive it is pressure.
+
+This is a NORMAL behavior of drawing tablet pens.
+
+## Why this happens
+
+Inside the pen, force from the nib is transmitted to a pressure sensor.
+
+* When vertical, all the force on the tip of the nib hits the pressure sensor
+* When tilted:
+  * some of the force hits the pressure sensor
+  * some of the force is transmitted to the barrel of the pen and thus is not detected
+
+For more information about how pressure is detected: [EMR pressure detection](../../technology/emr/emr-pressure-detection.md)
+
+## This can be useful
+
+Most pens are "over-reactive" at low physical pressure and give very blobby strokes at very low pressure. If you encounter those, you can tilt the pen more to minimize those blobby artifacts. More here: See: [Drawing at low physical pressure](drawing-at-low-physical-pressure.md)&#x20;
+
+
+
