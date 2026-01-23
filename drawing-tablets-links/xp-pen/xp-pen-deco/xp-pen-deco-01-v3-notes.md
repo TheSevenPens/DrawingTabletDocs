@@ -16,9 +16,9 @@ XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to
 
 ## Android support
 
-XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case. It had the same issues as I encountered with the Deco 01 V2.
+XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case in my testing. It had the same issues as I encountered with the Deco 01 V2. Why it didn't work seamlessly is unclear. It could have been due to the specific Android devices I tested with (I did test multiple).&#x20;
 
-
+Other users say they have used this tablet with an Android device and it worked correctly. That just was not my experience.
 
 ## Pens
 
