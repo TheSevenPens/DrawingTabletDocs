@@ -24,6 +24,10 @@ Inside the pen, force from the nib is transmitted to a pressure sensor.
 
 For more information about how pressure is detected: [EMR pressure detection](../../technology/emr/emr-pressure-detection.md)
 
+## How you might notice it
+
+When you draw as stroke with the pen held vertically you might see a thicker stroke, while at an angle you will notice a slightly thinner stroke.&#x20;
+
 ## This can be useful
 
 Most pens are "over-reactive" at low physical pressure and give very blobby strokes at very low pressure. If you encounter those, you can tilt the pen more to minimize those blobby artifacts. More here: See: [Drawing at low physical pressure](drawing-at-low-physical-pressure.md)&#x20;
