@@ -9,11 +9,12 @@
 
 ## Links
 
-* [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq_pro_27_honest_review/) Nov 2022
-* [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) Oct 14, 2022
-* [Brad Colbow review of Cintiq Pro 27](https://youtu.be/x59b4nR3Y3E) Oct 14, 2022
-* [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) Oct 28, 2022
-* [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) Nov, 2022
+* [Adam Duff - WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) 2026-01-28
+* [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq_pro_27_honest_review/) 2022-11
+* [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) 2022-10-14
+* [Brad Colbow review of Cintiq Pro 27](https://youtu.be/x59b4nR3Y3E) 2022-10-14
+* [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) 2022-10-28
+* [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) 2022-11
 
 ## Notes
 
