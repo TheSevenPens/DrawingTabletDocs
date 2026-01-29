@@ -22,4 +22,4 @@ This tablet connects to your computer via a proprietary 3-in-1 cable.&#x20;
 
 This tablet does NOT support getting a video signal over a USB-C cable unlike many modern pen tablets
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

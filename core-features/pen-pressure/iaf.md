@@ -40,9 +40,14 @@ Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
 Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
 
-## Tweaking the IAF
+## Changing the IAF
 
-The IAF is a physical property of the pen, so that physical behaviors can't be lowered or raised. However by using a pressure curve with a dead zone, you can effectively increase the IAF.  More here: [**Pen pressure dead zone**](pen-pressure-curves/pressure-curve-dead-zones.md)
+* Lowering IAF - See [Lowering IAF](../../guides/customizing/lowering-the-iaf.md)
+* Increasing IAF - See [Increasing IAF](../../guides/customizing/increasing-iaf.md)
+
+
+
+
 
 ## A higher IAF can be useful
 

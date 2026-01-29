@@ -1,12 +1,12 @@
-# Lowering the initial activation force (IAF)
+# Lowering the IAF
 
 ## Overview
 
-the initial activation force is the smallest amount of physical pressure that the pen can detect
+The initial activation force is the smallest amount of physical pressure that the pen can detect
 
 Strictly speaking, the IAF is a characteristic of the pen hardware and it cannot be lowered or increased.
 
-However there are some techniques you can apply that might be able to effectively give you a lower iaf even though you're not changing the pen hardware in any way.
+However there are some techniques you can apply that might be able to effectively give you a lower IAF even though you're not changing the pen hardware in any way.
 
 ## Option #1: perpendicular pen orientation
 

@@ -10,7 +10,7 @@ Below you can see the nib and the eraser for the Wacom Pro Pen 2 (KP-504E). As y
 
 The eraser is also pressure sensitive and retracts into the pen. The eraser has a much bigger retraction distance than the nib.
 
-<figure><img src="../../.gitbook/assets/Wacom KP-504E nib vs eraser.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Wacom KP-504E nib vs eraser.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Pens that have erasers
 

@@ -42,11 +42,14 @@ There are a variety of pressure curve shapes - each of which can solve some prob
 
 To see which drivers and apps support witch shapes see this: [Curve support in applications](app-pressure-curves.md)
 
-Details on specific shapes
+Details on specific shapes and what you can do with them
 
 * [Null pressure curve](null-pressure-curve.md)
 * [Pressure curves that constrain the output logical pressure range](constraining-pressure-curve-output.md)
 * [Pressure curves that ignore input](constraining-pressure-curve-input.md)
+* [Lowering IAF](../../../guides/customizing/lowering-the-iaf.md)
+* [Increasing IAF](../../../guides/customizing/increasing-iaf.md)
+* [Lowering maximum physical pressure](../../../guides/customizing/lowering-maximum-physical-pressure.md)
 
 ## Driver UX for pressure curves
 
