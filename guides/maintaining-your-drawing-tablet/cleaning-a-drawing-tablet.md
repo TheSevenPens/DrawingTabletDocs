@@ -31,7 +31,7 @@ STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber
 
 <figure><img src="../../.gitbook/assets/OXO Good Grips Microfiber Hand Duster (2).jpg" alt="" width="375"><figcaption><p><strong>OXO Good Grips Microfiber Hand Duster</strong></p></figcaption></figure>
 
-STEP 2 - I gently wipe down the tablet with a damp cloth or towel&#x20;
+STEP 2 - I gently wipe down the tablet with a damp cloth/microfiber cloth,  or towel&#x20;
 
 * OPTION 1: If the tablet is a little greasy I may put a bit of soapy water on the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You shouldn't have any water drops coming off the cloth.&#x20;
 * OPTION 2: Since September 2024, for pen displays I've switched from soapy water to using a screen cleaning sprays (WOOSH and MISTIFY). more here: [**Screen cleaning sprays**](../../accessory-links/screen-cleaning-sprays.md).
