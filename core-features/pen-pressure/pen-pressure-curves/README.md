@@ -1,10 +1,24 @@
 # Pen pressure curves
 
-## Before you  begin
-
-Before you read this section it would be good for you to read: pen pressure response. This document won't make a lot of sense without you understanding clearly what a pen pressure response is.
+{% hint style="info" %}
+Before you read this document, read: [Pen pressure response curves.](../pen-pressure-response.md)&#x20;
+{% endhint %}
 
 ## Overview
+
+Your pen senses pressure and encodes it as a number.
+
+You can think of the number as ranging from 0 to the maximum number of pressure levels of your pen. In many cases its easier to "normalize" this number so that it ranges from 0.0 to 1.0. This makes discussing the pressure easier to understand in many cases.
+
+This number flows through a "Pipeline" of components: tablet firmware -> tablet driver -> OS pen subsystem-> pen-aware application -> brush engine
+
+Some of these components can process the the pressure - that means they can alter the number - before it is sent to the next component.
+
+The processing of the pressure number alters how the pen will feel to draw with.
+
+
+
+
 
 A pressure curve is essentially a little bit of math that transforms a pressure response to another pressure response. In more everyday terms a pressure curve creates a new pressure behavior for the pen.&#x20;
 
