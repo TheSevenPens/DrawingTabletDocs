@@ -41,7 +41,7 @@ Besides the CP-923 these tablets are compatible with the older CP-913 (which you
 
 * Native resolution: HD (2K): 1920x1080
 * Refresh rate: 60Hz&#x20;
-* The new display panels have a wider color gamut. They are clearly better than the old Wacom One Gen 1 tablet.&#x20;
+* The new display panels have a wider color gamut. They are clearly better than the old Wacom One (DTC-133) tablet.&#x20;
 
 ## Drawing experience
 
@@ -112,7 +112,7 @@ Wacom is offering a very unique design for their stand.
 
 ### VESA mounting
 
-Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable.
+Neither the Wacom One (DTC-133) or the Wacom One 2023 pen displays are VESA mountable.
 
 ## **Cables & connectivity**
 
