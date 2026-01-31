@@ -47,7 +47,7 @@ Besides the CP-923 these tablets are compatible with the older CP-913 (which you
 
 ### Stroke quality
 
-The stroke quality with the new CP-923 pen is not good compared to the old pen. This is due to a combination of tablet and pen. You may need to employ the use of pressure curves to get the stroeks that you want.
+The stroke quality with the new CP-923 pen is not good compared to the older CP-913 pen. You may need to employ the use of pressure curves to get the strokes that you want.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ The stroke quality with the new CP-923 pen is not good compared to the old pen. 
 
 ## Diagonal wobble
 
-Very good. Almost non wobble visisble at all speeds.
+Very good. Almost no wobble visible at all speeds.
 
 ### Wacom One 12 (DTC-121)
 
@@ -100,6 +100,14 @@ Picture above from this video: ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/
 
 ## Ergonomics
 
+### Noise
+
+Silent
+
+### Heat
+
+Both tablets felt room temperature even when working at 100%. I don't recall any hotspots.
+
 ### Legs
 
 The new Wacom One 2023 pen displays do not have any legs. They lay flat on the desk.
@@ -108,11 +116,11 @@ The old Wacom One (DTC-133) pen display has legs on the back. You can lay the di
 
 Wacom is offering a very unique design for their stand.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 201447.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 201447.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### VESA mounting
 
-Neither the Wacom One (DTC-133) or the Wacom One 2023 pen displays are VESA mountable.
+Neither the Wacom One (DTC-133) or the Wacom One 2023 pen displays are directly VESA mountable.
 
 ## **Cables & connectivity**
 
