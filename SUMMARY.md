@@ -524,7 +524,7 @@
       * [Wacom One](drawing-tablets-links/wacom/wacom-one/README.md)
         * [Wacom One 2019 GEN1 (DTC-133) notes](links/drawtab-links/wacom/wacom-one/wacom-dtc133-notes.md)
         * [Wacom One 2023 pen tablets (CTC-x110WL) notes](links/drawtab-links/wacom/wacom-one/wacom-ctcx110wl-notes.md)
-        * [Wacom One 2023 GEN2 pen displays notes](drawing-tablets-links/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
+        * [Wacom One 2023 pen displays notes](drawing-tablets-links/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
         * [Wacom One 14 (DTC-141) notes](links/drawtab-links/wacom/wacom-one/wacom-dtc141-notes.md)
       * [Wacom Bamboo](drawing-tablets-links/wacom/wacom-bamboo/README.md "Bamboo")
         * [Wacom Bamboo (CTL-470) notes](links/drawtab-links/wacom/wacom-bamboo/wacom-ctl470-notes.md "Bamboo (CTL-470) notes")

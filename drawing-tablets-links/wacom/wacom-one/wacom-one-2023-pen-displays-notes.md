@@ -1,8 +1,8 @@
-# Wacom One 2023 GEN2 pen displays notes
+# Wacom One 2023 pen displays notes
 
-## <mark style="color:red;">**I do not recommend the Wacom One 2023 GEN2 pen displays**</mark>
+## Overview
 
-The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with pressure issues. See this video for details:[https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
+This is an OK pen display that provides a consumer level of drawing experience in terms of pressure handling. That is typical of the Wacom One pen display series.
 
 ## Basics
 
@@ -25,33 +25,72 @@ The new Wacom One GEN2 tablets and Wacom One GEN2 Pens currently struggle with p
 * [Brad Colbow review of Wacom One 12](https://www.youtube.com/watch?v=SBlliNcRKNw) 2023/08/18
 * [Tom's Guide review of Wacom One 13 touch](https://www.tomsguide.com/reviews/wacom-one-13-touch) 2023/08/10
 
-## Stroke quality
+## Included pen
 
-As you can see from the my testing below. The stroke quality with the new pen is not good compared to the old pen. This is due to a combination of tablet and pen.
+Comes with the Wacom ne Standard Pen (CP-923). [<mark style="background-color:green;">**My notes on Wacom CP-923**</mark>](../../../links/pen-links/wacom-pens/wacom-cp923-notes.md)&#x20;
+
+## Compatible pens
+
+Besides the CP-923 these tablets are compatible with the older CP-913 (which you might prefer using). Also it is compatible with some other third party pens.
+
+* Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
+* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
+* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
+
+## Display specs
+
+* Native resolution: HD (2K): 1920x1080
+* Refresh rate: 60Hz&#x20;
+* The new display panels have a wider color gamut. They are clearly better than the old Wacom One Gen 1 tablet.&#x20;
+
+## Drawing experience
+
+### Stroke quality
+
+The stroke quality with the new CP-923 pen is not good compared to the old pen. This is due to a combination of tablet and pen. You may need to employ the use of pressure curves to get the stroeks that you want.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Notes on the new Wacom One Pen GEN2 CP-923
+## Diagonal wobble
 
-**See this:** [<mark style="background-color:green;">**My notes on Wacom CP-923**</mark>](../../../links/pen-links/wacom-pens/wacom-cp923-notes.md)&#x20;
+Very good. Almost non wobble visisble at all speeds.
 
-## **Cables & connectivity**
+### Wacom One 12 (DTC-121)
 
-The Wacom One (Gen 2) pen displays can be connected three ways
+![](<../../../.gitbook/assets/Wacom One 12 GEN2 (DTC-121) wobble.png>)
 
-* With a 3-in-1 cable
-* With a single USB-C cable
-* With two USB-C cables. One for display. One for power. Not all computers supply enough power over a USB-C connection to power a display. So this makes sense to provide the option. Most other pen displays work this way.
+### Wacom One 13 touch (DTH-134)
 
-## **Parallax**
+### ![](<../../../.gitbook/assets/Wacom One 13 touch GEN2 (DTH-134) wobble.png>)
 
-TBD
 
-## **Tablet Buttons**
 
-None.&#x20;
+## Tilt
+
+* Wacom One 13 touch -> supports tilt
+* Wacom One 12 -> supports tilt
+
+## Display experience
+
+### **Color**
+
+Clearly more vibrant than the older Wacom One DTC-133 model. Big improvement.&#x20;
+
+### **Parallax**
+
+Good
+
+## **Other inputs**
+
+### **Touch**
+
+* Only the Wacom One 13 touch supports touch input
+
+### **Tablet Buttons**
+
+None
 
 ## Pen display > OSD
 
@@ -59,64 +98,42 @@ None.&#x20;
 
 Picture above from this video: ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/-vwMZf1nbVU))&#x20;
 
-## Pen displays > display panel
+## Ergonomics
 
-* Native resolution: HD (2K): 1920x1080
-* Refresh rate: 60Hz&#x20;
-* The new display panels have a wider color gamut. They are clearly better than the old Wacom One Gen 1 tablet.&#x20;
+### Legs
 
-## Pen tablets > USB port
+The new Wacom One 2023 pen displays do not have any legs. They lay flat on the desk.
 
-* The predecessor Intuos pen tablets used a micro USB slot
-* The Wacom One (Gen 2) pen tablets now use a more common USB-C port
-
-## Legs
-
-The new Wacom One (Gen 2) pen displays do not have any legs. They lay flat on the desk.
-
-The old Wacom One (Gen 1) pen display has legs on the back. You can lay the display flat on the desk or you can pull out the legs and draw at and angle.
+The old Wacom One (DTC-133) pen display has legs on the back. You can lay the display flat on the desk or you can pull out the legs and draw at and angle.
 
 Wacom is offering a very unique design for their stand.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 201447.jpg" alt=""><figcaption></figcaption></figure>
 
-## VESA mounting
+### VESA mounting
 
 Neither the Wacom One GEN1 or the Wacom One GEN2 pen displays are VESA mountable.
 
-## Diagonal wobble
+## **Cables & connectivity**
 
-### Wacom One 12 GEN2 (DTC-121)
+### Ports
 
-![](<../../../.gitbook/assets/Wacom One 12 GEN2 (DTC-121) wobble.png>)
+* The Wacom One 2023 pen displays have two USB-C ports
 
-### Wacom One 13 touch GEN (DTH-134)
+### **Connection options**
 
-### ![](<../../../.gitbook/assets/Wacom One 13 touch GEN2 (DTH-134) wobble.png>)
+The Wacom One 2023 pen displays can be connected three ways
 
-### Wacom One M GEN2  (CTC-6110WL)
+* With a 3-in-1 cable (video over HDMI)
+* With a single USB-C cable (video over USB-C)
+  * Wacom sells the "USB-C to C cable for Wacom One and Wacom Cintiq displays (2023 edition" for this purpose
+  * I personally use USB-C Thunderbolt 3 cables from CableMatters to connect it to my computers.
+  * More about USB-C connections: [Connecting a pen display with USB-C](../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)&#x20;
+* With two USB-C cables. One for display. One for power.&#x20;
+  * Not all computers supply enough power over a USB-C connection to power a display. So this makes sense to provide the option. Most other pen displays work this way.
+  * These tablets don't draw that much power - every laptop I tested them with supplied enough power via USB for them. So it is unlikely you will need to use this option.
 
-![](<../../../.gitbook/assets/Wacom M GEN2 (CTC-6110WL) wobble (1).png>)
-
-
-
-## Tilt
-
-Wacom One 13 touch -> supports tilt
-
-Wacom One 12 -> supports tilt
-
-
-
-## Compatible pens
-
-Besides the Wacom One GEN1 pen (CP-913), the Wacom One GEN1 (DTC-133) tablet is compatible with other pens not made by Wacom. &#x20;
-
-* Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)&#x20;
-* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
-* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07&#x20;
-
-## Wacom 3-in-1 cable for Wacom One GEN2 pen displays
+### Wacom 3-in-1 cable for Wacom One 2023 pen displays
 
 The Wacom One 12 (DTC-121) and Wacom One 13 touch (DTH-134) work with a 3-in-1 cable. I SUPPOSE this is a proprietary cable.
 
