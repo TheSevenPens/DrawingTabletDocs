@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an OK pen display that provides a consumer level of drawing experience in terms of pressure handling. That is typical of the Wacom One pen display series.
+This is an OK pen display that provides a consumer level of drawing experience in terms of pressure handling. The key limitation you'll notice is that the pens that work with this tablet require more force to draw with than pens from Wacom's professional tablet series. That is typical of the Wacom One pen display series. Some people will be totally fine with these tablets, but I do think there are better choices for the money.
 
 ## Basics
 
