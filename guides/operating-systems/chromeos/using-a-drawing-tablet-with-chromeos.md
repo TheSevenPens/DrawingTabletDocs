@@ -40,6 +40,13 @@ With pen tablets you will not be force the active area to match the display of t
 
 [**ChromeOS testing results**](chromebook-testing-results.md) &#x20;
 
+## Assigning tablet and pen buttons on ChromeOS
+
+* Once you plug the tablet into your ChromeBook go to **Settings > Device > pen tablet**
+* there you should see your tablet name. click on it.
+* Click on **Customize tablet buttons**
+* And there you should see each **expresskey** listed and you can modify their assignments
+
 ## Resources&#x20;
 
 * [Wacom - Connect Wacom One with Chromebook 1](https://www.youtube.com/watch?v=6-TQN7S0yes) 2021/11/11
