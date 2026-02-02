@@ -22,7 +22,7 @@
 ## Huion Kamvas Pro 19 (GT-1902)
 
 * Model Year: 2024
-* [**Notes on this tablet**](../../../links/drawtab-links/huion/huion-kamvas-pro/huion-gt1902-notes.md)&#x20;
+* [**Notes on this tablet**](../../../links/drawtab-links/huion/huion-kamvas-pro/huion-gt1902-notes/)&#x20;
 
 ## Huion Kamvas Pro 13 2.5K (GT1302)
 
