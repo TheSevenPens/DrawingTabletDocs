@@ -34,12 +34,6 @@ This companion video covers many but not all of the topics described in these no
 * Launch year: Released: Jan 2024
 * Product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)
 
-### Active area
-
-* Dimensions: 409 x 230 mm
-* Diagonal: 469.23 mm (18.473622")
-* Aspect ratio: 16x9
-
 ### What's in the box
 
 * Kamvas Pro 19 Pen Display
@@ -56,9 +50,12 @@ This companion video covers many but not all of the topics described in these no
 
 ## Specs
 
-### Digitizer
+### Digitizer specs
 
 * Note: huion describes the tech version as PenTech 4.0
+* Active area dimensions: 409 x 230 mm
+* Active area Diagonal: 469.23 mm (18.473622")
+* Active area Aspect ratio: 16x9
 * Digitizer tech: EMR
 * resolution: 200 LPmm (5080 LPI)
 * Number of pressure levels: 16,384&#x20;
@@ -68,7 +65,7 @@ This companion video covers many but not all of the topics described in these no
 * Report rate: 260PPS
 * Accuracy: Accuracy:±0.5mm (Center), ±3mm (Corner)
 
-### Display
+### Display specs
 
 * Resolution: 4K (3840x2160)
 * Diagonal size: Actually 18.47"
@@ -91,8 +88,6 @@ This companion video covers many but not all of the topics described in these no
 
 ## Pens
 
-
-
 ### Included pens
 
 Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
@@ -103,7 +98,7 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 
 See [**my notes on the PW600 pens**](../../../../pen-links/huion-pen-models/7p-huion-pw600.md)
 
-### Compatibility
+### Pen compatibility
 
 **Compatibility across different PenTech versions**
 
@@ -112,7 +107,7 @@ See [**my notes on the PW600 pens**](../../../../pen-links/huion-pen-models/7p-h
 
 **Notes on backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
 
-### NIbs
+### Nibs
 
 The pre-installed nibs are both felt. The felt nibs feel good draw with and add an additional amount of texture. In the month I used the felt nibs I saw no appreciable wear - but I don't draw very heavily so your experience may differ. The tablet comes with replacement felt and plastic nibs.
 
@@ -198,8 +193,6 @@ How the AG sparkle of this tablet compares to other tablets
 
 seems as advertised. I thought it was fine. It's not especially bright - but I thought it was bright enough at 100%. In comparison I use the Cintiq Pro 22 at 50% (I would use it at 70% but don't like the additional fan noise it creates).
 
-###
-
 ## **Connections and cabling**
 
 ### **Single USB-C cable connection?**
@@ -218,7 +211,9 @@ Upon closer examination, the Huion USB-C cable plug is slightly longer than the 
 
 For this reason I recommend using the supplied Huion USB-C cable.
 
-## Touch
+## Non-pen inputs
+
+### Touch
 
 * **Touch on MacOS** -&#x20;
   * At time of launch. This tablet did not support touch on MacOS.
@@ -300,9 +295,7 @@ Because of their similar sizes, many people want to understand the differences b
 * **Physical size** - very similar. Both fit on my desktop well and are easy to move.
 * **Using a single UBS-C cable** - with the K16GEN3 some computers will be able to use a single USB-C cable to deliver power, video, and data. With the KP19 this is not the case - it is **extremely** unlikely. You will always have to use the additional power adapter to supply the KP19 with enough power. &#x20;
 
-
-
-## Other topics
+## Other features
 
 ### **OSD**&#x20;
 
