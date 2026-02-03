@@ -222,7 +222,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
     * Update on 2025/04/10 - I did successfully install the firmware update and the updated driver. Unfortunately, I could never make touch work on MacOS. I will try later in 2025.
 * **Touch on Windows**
   * Overall touch on windows works great thanks to Windows great support for touch.
-  * If touch goes to your monitor instead of the tablet, here's how to fix it: [TSG: Touch input goes to a different display on Windows](tsg-touch-input-goes-to-a-different-display-on-windows.md)
+  * If touch goes to your monitor instead of the tablet, here's how to fix it: [TSG: Touch input goes to a different display on Windows](tsg-touch-input-goes-to-the-wrong-display-on-windows.md)
 * **Palm rejection**: OK. Very TYPICAL for Touch on pen displays.&#x20;
   * Touch support is not comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm.&#x20;
   * I would say it's very on par with the Cintiq Pro 22 and Cintiq Pro 27.  I didn't try to use a drawing glove yet.&#x20;
