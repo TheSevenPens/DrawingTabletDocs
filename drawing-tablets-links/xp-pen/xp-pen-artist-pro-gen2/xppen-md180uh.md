@@ -14,7 +14,7 @@
 * [Brad Colbow - XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024/08/27
 * [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024/10/22&#x20;
 
-## Core specs
+## Digitizer specs
 
 * Active Area:&#x20;
   * 9.06” x 16.1" -> 18.47" diagonal
@@ -37,7 +37,7 @@
 * Color: 10 bit (8bit+FRC)
 * Color Gamut Coverage Ratio: 99.8% sRGB, 96% Adobe RGB, 98% Display P3
 
-## Pens
+## Included Pens
 
 The tablet comes with two pens
 
@@ -54,27 +54,15 @@ It is compatible with other pens in the X3 pro series.
 * X3 Pro Slim Stylus
 * X3 Pro - I tested this. It worked.
 
-## Pen pressure
+## Display experience
 
-XP-Pen states these numbers for X3 Pro pens
-
-* IAF: 3gf
-* Max Pressure: 400gf
-
-In my testing with the pens that came with the tablet
-
-* Subjectively, 3gf seemed about right
-* I measured the max pressure at around 250gf.&#x20;
-
-
-
-## Anti-glare sparkle
+### Anti-glare sparkle
 
 * RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
 * Maybe just slightly more than the Cintiq Pro 22.
 * Similar to Huion Kamvas Pro 19
 
-## Sharpness
+### Pixel sharpness
 
 Pixels are relatively clear and well delineated.
 
@@ -86,11 +74,25 @@ The look is clearly sharper than the Huion Kamvas Pro 19 which has a soft look t
 
 * Really does look like a larger version of the XP-Pen Artist Pro 16 GEN2&#x20;
 
-## Pressure transition
+## Drawing experience
+
+### Pen pressure
+
+XP-Pen states these numbers for X3 Pro pens
+
+* IAF: 3gf
+* Max Pressure: 400gf
+
+In my testing with the pens that came with the tablet
+
+* Subjectively, 3gf seemed about right
+* I measured the max pressure at around 250gf.&#x20;
+
+### Pressure transition
 
 Moving between low and high pressure cave smooth pressure transitions.&#x20;
 
-## Accuracy
+### Accuracy
 
 XP-Pen states:
 
@@ -101,13 +103,13 @@ RATING: VERY GOOD.
 
 My experience matched the accuracy numbers XP-Pen provides.
 
-## Parallax
+### Parallax
 
 VERY GOOD.
 
 On par with Cintiq Pro 22 and with Huion Kamvas Pro 19.
 
-## Tilt compensation
+### Tilt compensation
 
 OK. Minor displacement at 45deg
 
@@ -117,13 +119,13 @@ OK. Minor displacement at 45deg
 
 <figure><img src="../../../.gitbook/assets/Slide_20241104_140813.jpg" alt=""><figcaption></figcaption></figure>
 
-## Pressure scan rate testing
+### Pressure scan rate testing
 
 RATING: VERY GOOD
 
 Drawing 50 strokes as fast possible results in no lost strokes.
 
-## Diagonal wobble
+### Diagonal wobble
 
 Rating: GOOD low amounts of diagonal wobble.&#x20;
 
@@ -135,7 +137,7 @@ Rating: GOOD low amounts of diagonal wobble.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Diag Wobble XP-Pen Artist Pro 19 GEN2 (MD180UH) 2024_09_20.png" alt=""><figcaption></figcaption></figure>
 
-## Surface texture
+### Surface texture
 
 As is typical for etched glass surfaces, there is a slight surface texture.
 
@@ -155,41 +157,57 @@ The XP-Pen Artist Pro 19 GEN2 has an amount of surface texture that is
 * 2 USB-C ports on the top edge
   * The ports are NOT recessed
 
+### USB-C connection options
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### HDMI connection options
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### How I connected it
 
-I tested both the configurations below with my M3 Macbook Pro and a Surface Pro 8
+I tested both the configurations below with my M3 MacBook Pro and a Surface Pro 8
 
-<figure><img src="../../../.gitbook/assets/Slide_20241104_140933.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Slide_20241104_140933.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## VESA
+## Ergonomics
+
+### VESA
 
 YES. this tablet is VESA mountable (75mm x 75mm)
 
-## Legs
+### Legs
 
 YES. This tablet has a two folding legs on the back.
 
-## Stand
+### Stand
 
 This tablet does NOT come with a stand.
 
 I used the stand that came with the Xencelabs Pen Display 16 to hold this tablet. It worked very well.
 
-## Touch
+### Noise
 
-This tablet does NOT support touch.
+Silent.
 
-## Audio
-
-There are no audio features such as a headphone jack.
-
-## Heat
+### Heat
 
 GOOD. Tablet keeps cool&#x20;
 
 * Left 1/3 cool
 * Right 2/3 slightly warm
 * Warmer near the USB-C ports
+
+## Other features
+
+### Touch
+
+This tablet does NOT support touch.
+
+### Audio
+
+There are no audio features such as a headphone jack.
 
 
 

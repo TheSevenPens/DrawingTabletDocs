@@ -4,7 +4,7 @@
 
 Pen displays and monitors in general can show an informaiton box like this on their screen when they start up.&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Often this box lists some basic information such as :&#x20;
 
