@@ -348,6 +348,7 @@
   * [TSG: Pen display always shows info box on screen](troubleshooting/tsg-pen-display-always-shows-info-box-on-screen.md)
   * [DIAG: Windows Get PnPUtil Device and Driver Info](troubleshooting/diag-windows-get-pnputil-device-and-driver-info.md)
   * [TSB: Multiple pointers](troubleshooting/tsb-multiple-pointers.md)
+  * [TSG: Diamond pointer on Windows](troubleshooting/tsg-diamond-pointer-on-windows.md)
 * [Links](links/README.md)
   * [Accessory links](accessory-links/README.md "Accessories")
     * [Screen cleaning sprays](accessory-links/screen-cleaning-sprays.md)
