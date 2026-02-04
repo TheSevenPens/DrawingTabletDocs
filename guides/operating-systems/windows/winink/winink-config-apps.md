@@ -36,7 +36,7 @@ Other apps may use the phrase "Tablet PC"
 
 ## Adobe Photoshop
 
-See these instructions: [Configuring Photoshop to NOT use Windows Ink](configuring-photoshop-to-not-use-windows-ink.md)&#x20;
+See these instructions: [Configuring Photoshop to NOT use Windows Ink](winink-photoshop.md)&#x20;
 
 ## Affinity Photo and Affinity Designer
 

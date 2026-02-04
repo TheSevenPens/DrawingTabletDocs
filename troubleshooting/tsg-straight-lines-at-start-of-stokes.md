@@ -31,8 +31,8 @@ The same delay at the beginning of dragging the pen, can manifest in other user 
 
 * Restart the computer
 * Try [**disabling the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)
-* Try [**disabling windows ink in the app**](../guides/operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md) then restart the app
-  * and if that doesn't solve it, then also try [**disabling windows ink in the driver**](../guides/operating-systems/windows/windows-ink/configure-windows-ink-in-the-tablet-driver.md) and then restart the app.
+* Try [**disabling windows ink in the app**](../guides/operating-systems/windows/winink/winink-config-apps.md) then restart the app
+  * and if that doesn't solve it, then also try [**disabling windows ink in the driver**](../guides/operating-systems/windows/winink/winink-config-driver.md) and then restart the app.
 
 ## Links
 

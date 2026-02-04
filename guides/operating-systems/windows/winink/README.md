@@ -6,14 +6,14 @@
 
 ## Background
 
-More here: [The history of Windows Ink](the-history-of-windows-ink.md). Windows Ink is one of two APIs used for Windows to talk to a tablet. The other, older one, is called WinTab.
+More here: [The history of Windows Ink](winink-history.md). Windows Ink is one of two APIs used for Windows to talk to a tablet. The other, older one, is called WinTab.
 
 ## Configuring Windows Ink
 
 There are two places to configure Windows Ink:
 
-* In your pen-aware application: [**configure Windows Ink in an application**](configure-windows-ink-for-apps.md)&#x20;
-* In your tablet driver: See [**configure Windows Ink in the tablet driver**](configure-windows-ink-in-the-tablet-driver.md) &#x20;
+* In your pen-aware application: [**configure Windows Ink in an application**](winink-config-apps.md)&#x20;
+* In your tablet driver: See [**configure Windows Ink in the tablet driver**](winink-config-driver.md) &#x20;
 
 ## Recommended configuration
 

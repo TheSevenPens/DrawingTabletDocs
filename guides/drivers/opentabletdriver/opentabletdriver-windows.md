@@ -220,7 +220,7 @@ NOTE: You cannot assign the pen buttons to take MOUSE actions such as right-clic
 ### STEP 3.6: Configure your drawing application to use Windows Ink
 
 * The specific instructions vary per app.&#x20;
-* Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/windows-ink/configure-windows-ink-for-apps.md)
+* Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/winink/winink-config-apps.md)
 
 ### STEP 3.7 Checkpoint
 
