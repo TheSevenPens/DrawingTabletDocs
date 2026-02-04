@@ -104,7 +104,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 
 * With a pen tablet, the active area should be mapped to the screen of your tablet.
 * Sometimes however, drivers get confused and they initially map the active area to some other display that your have. When this happens you will move the pen on your tablet but you'll see the mouse pointer move on a different display.&#x20;
-* This is VERY easy to solve:   [**Troubleshoot pen moving pointer on the wrong display** ](../troubleshooting/tsg-pen-moving-pointer-on-the-wrong-display.md)
+* This is VERY easy to solve:   [**Troubleshoot pen moving pointer on the wrong display** ](../troubleshooting/tsg-pointer-on-wrong-display.md)
 
 ## Pen tablets: Enable Force Proportions to match aspect ratios between the active area and your display
 
