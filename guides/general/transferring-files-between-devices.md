@@ -39,6 +39,12 @@ Effectively this is like a "Google Drive" except your devices are not syncing wi
 
 Some NAS devices offer their own “drive” software. I use a Synology NAS and use Synology Drive.
 
+## Peer-to-peer sync
+
+Peer-to-peer sync works like the other other sync methods - except that there isn't a special location in the cloud or a locally (NAS server). The files are simply synced between every computer participating in the sync.
+
+Many people use SyncThing ([https://syncthing.net/](https://syncthing.net/)) for this purpose. It runs on Windows, MacOS, and Linux.
+
 ## App-based sync
 
 Some applications have their own system for syncing content across devices.
