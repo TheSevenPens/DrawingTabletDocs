@@ -1,4 +1,4 @@
-# Transferring files
+# Transferring files between devices
 
 ## Overview
 
@@ -8,7 +8,7 @@ To make this work we need to make sure our digital art files are available on th
 
 This document provides a few options that I am familiar with or have used.&#x20;
 
-## Cloud-based sync services
+## Cloud-based sync
 
 This method involves a “cloud-based drive” - a folder that lives in the cloud that is synched to your devices.
 
@@ -29,12 +29,18 @@ My favorite is LocalSend ([https://localsend.org/](https://localsend.org/)).
 * It's extremely fast
 * it's extremely simple
 
-## NAS-based share folders
+## NAS-based shared folders
 
 All NAS devices offer “shared folders” - folders that everyone in your home or workplace can access given the right permissions. &#x20;
 
-## NAS-based network sync services
+## NAS-based sync&#x20;
 
 Effectively this is like a "Google Drive" except your devices are not syncing with anything in the cloud but rather with your NAS. This keeps your data in your hands.&#x20;
 
 Some NAS devices offer their own “drive” software. I use a Synology NAS and use Synology Drive.
+
+## App-based sync
+
+Some applications have their own system for syncing content across devices.
+
+Clip Studio Paint has this feature. And many people use it, but I prefer to to use syncing that is not tied to a specific apps.

@@ -260,7 +260,7 @@
     * [Matching pen tablet size to monitor size](guides/general/matching-pen-tablet-size-to-monitor-size.md)
     * [Using extra-large pen tablets](guides/general/using-extra-large-pen-tablets.md)
     * [Using large pen tablets](guides/general/using-large-pen-tablets.md)
-    * [Transferring files](guides/general/transferring-files.md)
+    * [Transferring files between devices](guides/general/transferring-files-between-devices.md "Transferring files")
   * [Operating systems](guides/operating-systems/README.md)
     * [iOS and iPadOS](guides/operating-systems/ios-and-ipados/README.md)
       * [Using drawing tablets with an iPad or iPhone](guides/operating-systems/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md "Using with iPad or iPhone")
