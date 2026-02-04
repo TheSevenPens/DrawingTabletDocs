@@ -23,7 +23,7 @@ RATING: EXCELLENT
 
 ## **Pen**&#x20;
 
-The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [**XP-Pen X3 Pro pen**](../../../links/pen-links/xppen-pens/xppen-x3pro-notes.md)
+The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [**XP-Pen X3 Pro pen**](../../../pen-links/xp-pen-pens/xppen-x3pro-pen.md)
 
 ## **Display**&#x20;
 
@@ -39,7 +39,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **MacOS** - Some people tell me MacOS has more challenges running at resolutions like the one this tablet uses. I'm not a MacOS expert so I suggest you research this more.
 
@@ -47,7 +47,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Single USB-C cable connection?**
 
-YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
+YES. I tried the cable that it came with and a Thunderbolt 3 cable. It worked in both cases. More here: [Connecting a pen display with one USB-C cable](../../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
 
 **Ports**
 
@@ -82,7 +82,7 @@ VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corn
 
 RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it..
 
-<figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Legs
 
@@ -134,7 +134,7 @@ Tilting the pen within the supported tilt range did not significantly alter the 
 
 In one of the photos you may notice a slight separation between pointer and tip, I think this is mostly due to the position calibration of the pen and not so much the tilt.&#x20;
 
-<figure><img src="../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) tilt compensation - small.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) tilt compensation - small.jpg" alt=""><figcaption></figcaption></figure>
 
 I have heard a few comments on my YouTube channel indicating that some people found very bad tilt compensation. So far I believe if there is an issue it is only with a small number of defective units.&#x20;
 

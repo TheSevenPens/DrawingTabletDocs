@@ -24,7 +24,7 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../links/pen-links/xppen-pens/xppen-p05-notes.md)
+XP-Pen P05 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../../pen-links/xp-pen-pens/xp-pen-p05-pen-notes.md)
 
 ### P05 Pen pressure handling
 
@@ -40,23 +40,21 @@ I'm not sure if I did something wrong or the fault lies elsewhere.
 
 ## Better alternatives
 
-A better choice in 2025 would be these tablets: [**Pen tablet recommendations (MEDIUM)**](../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)&#x20;
+A better choice in 2025 would be these tablets: [**Pen tablet recommendations (MEDIUM)**](../../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)&#x20;
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250924_105022 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20250924_105022 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250924_105034 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/20250924_105235 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20250924_105034 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250924_105759 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20250924_105235 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 
+
+<figure><img src="../../../../.gitbook/assets/20250924_105759 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,11 +64,13 @@ A better choice in 2025 would be these tablets: [**Pen tablet recommendations (M
 
 
 
-<figure><img src="../../../.gitbook/assets/20250924_105247 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../../.gitbook/assets/20250924_105247 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250924_105401 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20250924_105401 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 
 

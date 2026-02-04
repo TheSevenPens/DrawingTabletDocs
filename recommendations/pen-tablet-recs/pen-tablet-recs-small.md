@@ -23,8 +23,8 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 * One by Wacom Small (CTL-472) \[[**my notes**](../../links/drawtab-links/wacom/one-by-wacom/wacom-ctlx72-notes.md)] NO TILT
 * Wacom Intuos Small (CTL-4100) \[[**links**](../../drawing-tablets-links/wacom/wacom-intuos.md)] NO TILT
-* XP-Pen Deco M (IT850) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)] \[no wireless]&#x20;
-* XP-Pen Deco MW (IT850B) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-deco/)]
+* XP-Pen Deco M (IT850) \[[**links**](../../links/drawtab-links/xppen/xppen-deco/)] \[no wireless]&#x20;
+* XP-Pen Deco MW (IT850B) \[[**links**](../../links/drawtab-links/xppen/xppen-deco/)]
 
 ## AVOID
 

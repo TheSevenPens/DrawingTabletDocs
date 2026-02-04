@@ -21,9 +21,9 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## VERY GOOD
 
 * Huion Kamvas 16 GEN3 (GS1563) \[[**my notes**](../../links/drawtab-links/huion/huion-kamvas/huion-gs1563-notes.md)]
-* XP-Pen Artist Pro 19 GEN2 (MD180UH) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/)]
+* XP-Pen Artist Pro 19 GEN2 (MD180UH) \[[**my notes**](../../links/drawtab-links/xppen/xppen-artist-pro-gen2/)]
 * XP-Pen Artist Ultra 16&#x20;
-* XP-Pen Artist Pro 16 GEN2 (MD160QH) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/xppen-md160qh.md)]
+* XP-Pen Artist Pro 16 GEN2 (MD160QH) \[[**my notes**](../../links/drawtab-links/xppen/xppen-artist-pro-gen2/xppen-md160qh.md)]
 
 ## GOOD
 
@@ -39,7 +39,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 Huion Kamvas Pro 16 Plus 4K (GT1562) \[[**my notes**](../../links/drawtab-links/huion/huion-kamvas-pro/huion-gt1562-notes.md)] <mark style="color:red;">**LOTS OF AG SPARKLE**</mark>&#x20;
 
-XP-Pen Artist 16 GEN2 (CD160FH) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/xppen-cd160fh.md)] <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
+XP-Pen Artist 16 GEN2 (CD160FH) \[[**my notes**](../../links/drawtab-links/xppen/xppen-artist-gen2/xppen-cd160fh.md)] <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
 
 ## Videos
 

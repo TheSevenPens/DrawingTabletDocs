@@ -38,12 +38,12 @@ I found the Max Pressure to be: OK&#x20;
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250924_225446 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20250924_225446 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250924_225506 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20250924_225506 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250924_225647.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20250924_225647.jpg" alt=""><figcaption></figcaption></figure>

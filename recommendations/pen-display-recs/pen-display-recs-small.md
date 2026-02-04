@@ -17,13 +17,13 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 ## VERY GOOD
 
 * Huion Kamvas 13 GEN3 (GS1333) \[[**my notes**](../../links/drawtab-links/huion/huion-kamvas/huion-gs1333-notes.md)]
-* XP-Pen Artist Pro 14 GEN2 (MD140FH) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-pro-gen2/)]
+* XP-Pen Artist Pro 14 GEN2 (MD140FH) \[[**links**](../../links/drawtab-links/xppen/xppen-artist-pro-gen2/)]
 
 ## GOOD
 
-* XP-Pen Artist 12 GEN3 (CD121FH) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen3/xppen-cd121fh.md))]
-* XP-Pen Artist 12 GEN2 (CD120FH) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/)]
-* XP-Pen Artist 13 GEN2 (CD130FH) \[[**links**](../../drawing-tablets-links/xp-pen/xp-pen-artist-gen2/)]
+* XP-Pen Artist 12 GEN3 (CD121FH) \[[**my notes**](../../links/drawtab-links/xppen/xppen-artist-gen3/xppen-cd121fh.md))]
+* XP-Pen Artist 12 GEN2 (CD120FH) \[[**links**](../../links/drawtab-links/xppen/xppen-artist-gen2/)]
+* XP-Pen Artist 13 GEN2 (CD130FH) \[[**links**](../../links/drawtab-links/xppen/xppen-artist-gen2/)]
 
 ## DECENT
 

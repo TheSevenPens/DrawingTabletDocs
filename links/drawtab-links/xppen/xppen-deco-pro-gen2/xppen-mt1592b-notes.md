@@ -13,7 +13,7 @@ I used this tablet from 2023/07/26 to 2023/11/01 and have been very happy with i
 
 ## Size
 
-This is large-sized tablet -comparable in size to the Wacom Intuos Pro Large (PTH-860).  and you should be aware about the realities of using a tablet this big: [**Using large pen tablets**](../../../guides/general/using-large-pen-tablets.md) &#x20;
+This is large-sized tablet -comparable in size to the Wacom Intuos Pro Large (PTH-860).  and you should be aware about the realities of using a tablet this big: [**Using large pen tablets**](../../../../guides/general/using-large-pen-tablets.md) &#x20;
 
 ## **Build quality and design**
 
@@ -27,7 +27,7 @@ Four indicator lights are just past the corners of the active area. They will li
 
 ## **Pen**
 
-It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [**XP-Pen X3 Pro pen**](../../../links/pen-links/xppen-pens/xppen-x3pro-notes.md) .
+It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [**XP-Pen X3 Pro pen**](../../../pen-links/xp-pen-pens/xppen-x3pro-pen.md) .
 
 **Pen compatibility**
 
@@ -75,19 +75,19 @@ It has more wobble than the Wacom Intuos Pro Large (PTH-860). Notice that wobble
 
 Enabling brush smoothing options in your applications will minimize its visibility.
 
-<figure><img src="../../../.gitbook/assets/Wobble XP-Pen Deco Pro GEN2 XLW (MT1592B).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Wobble XP-Pen Deco Pro GEN2 XLW (MT1592B).png" alt=""><figcaption></figcaption></figure>
 
 ## Hover jitter
 
 Some users have reported that the pointer "shakes" when the pen is hovering over the tablet.
 
-To understand what hover jitter is, go here: [**Hover jitter**](../../../core-features/pen-hover/hover-jitter.md)
+To understand what hover jitter is, go here: [**Hover jitter**](../../../../core-features/pen-hover/hover-jitter.md)
 
 Example: [https://www.reddit.com/r/XPpen/comments/1h66ei5/beware\_of\_the\_deco\_pro\_gen\_2\_rant/](https://www.reddit.com/r/XPpen/comments/1h66ei5/beware_of_the_deco_pro_gen_2_rant/)&#x20;
 
 **My testing**
 
-* Testing process: I begin with the pen 0.5mm from the surface and moved up by 0.5 mm increments and noted any jitter I experienced. I used my hover height tool to keep the tip of the pen at specific distances from the tablet surface. See: [Measuring hover height](../../../process/measuring/measuring-hover.md).
+* Testing process: I begin with the pen 0.5mm from the surface and moved up by 0.5 mm increments and noted any jitter I experienced. I used my hover height tool to keep the tip of the pen at specific distances from the tablet surface. See: [Measuring hover height](../../../../process/measuring/measuring-hover.md).
 * With the Deco Pro GEN2 MW
   * **<= 7mm :** No jitter
   * **>7mm to <=10 mm** : Slight & sporadic jitter

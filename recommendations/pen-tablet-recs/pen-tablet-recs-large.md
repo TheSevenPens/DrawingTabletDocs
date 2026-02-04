@@ -17,7 +17,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## VERY GOOD
 
-* XP-Pen Deco Pro XLW GEN2 (MT1592B) \[[**my notes**](../../drawing-tablets-links/xp-pen/xp-pen-deco-pro-xlw-gen-2-mt1592b/)]&#x20;
+* XP-Pen Deco Pro XLW GEN2 (MT1592B) \[[**my notes**](../../links/drawtab-links/xppen/xppen-deco-pro-gen2/)]&#x20;
 
 ## GOOD
 
