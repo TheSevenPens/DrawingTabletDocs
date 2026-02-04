@@ -1,4 +1,4 @@
-# XP-Pen X3 Elite pen  notes
+# XP-Pen X3 Elite pen notes
 
 ## Overview
 
@@ -6,7 +6,7 @@ Pretty good - surprisingly good for a consumer level tablet. IAF could be a litt
 
 
 
-<figure><img src="../../.gitbook/assets/XP-Pen X3 Elite (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/XP-Pen X3 Elite (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 
@@ -22,7 +22,7 @@ I'm not good at measuring IAF. Subjectively it is definitely higher IAF than a W
 
 ## Pressure response
 
-<figure><img src="../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
 
 ## Max Pressure
 

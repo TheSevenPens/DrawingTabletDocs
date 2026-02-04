@@ -44,7 +44,7 @@ The tablet comes with two pens
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 
-See [**my notes on the XP-Pen X3 Pro series of pens**](../../../links/pen-links/xp-pen-pens/xppen-x3pro-pen.md).&#x20;
+See [**my notes on the XP-Pen X3 Pro series of pens**](../../../links/pen-links/xppen-pens/xppen-x3pro-notes.md).&#x20;
 
 ## Compatible pens
 

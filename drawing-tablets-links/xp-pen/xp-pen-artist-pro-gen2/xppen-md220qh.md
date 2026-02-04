@@ -63,7 +63,7 @@
 ## Included pen
 
 * The tablet comes with a single pen: X3 Pro Stylus.&#x20;
-* See [**my notes on the XP-Pen X3 Pro series of pens**](../../../links/pen-links/xp-pen-pens/xppen-x3pro-pen.md).&#x20;
+* See [**my notes on the XP-Pen X3 Pro series of pens**](../../../links/pen-links/xppen-pens/xppen-x3pro-notes.md).&#x20;
 * I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
 
 ## Compatible pens

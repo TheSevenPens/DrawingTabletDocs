@@ -1,4 +1,4 @@
-# XP-Pen X4 pens notes
+# XP-Pen X4 pen notes
 
 ## Overview
 
@@ -20,7 +20,7 @@ My measurements
 
 
 
-<figure><img src="../../.gitbook/assets/IMG_0036 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_0036 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -30,10 +30,10 @@ My measurements
 
 
 
-<figure><img src="../../.gitbook/assets/IMG_0037 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_0037 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
 
 
-<figure><img src="../../.gitbook/assets/IMG_0040 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_0040 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>

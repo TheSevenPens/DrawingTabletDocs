@@ -23,7 +23,7 @@ RATING: EXCELLENT
 
 ## **Pen**&#x20;
 
-The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [**XP-Pen X3 Pro pen**](../../../links/pen-links/xp-pen-pens/xppen-x3pro-pen.md)
+The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [**XP-Pen X3 Pro pen**](../../../links/pen-links/xppen-pens/xppen-x3pro-notes.md)
 
 ## **Display**&#x20;
 

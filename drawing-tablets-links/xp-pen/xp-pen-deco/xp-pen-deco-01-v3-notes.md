@@ -24,7 +24,7 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../pen-links/xp-pen-pens/xp-pen-p05-pen-notes.md)
+XP-Pen P05 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../links/pen-links/xppen-pens/xppen-p05-notes.md)
 
 ### P05 Pen pressure handling
 

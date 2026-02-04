@@ -84,7 +84,7 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 
 ### Included pen
 
-X4 Smart Chip Stylus  [**my notes on this pen**](../../../pen-links/xp-pen-pens/xp-pen-x4-pens-notes.md)
+X4 Smart Chip Stylus  [**my notes on this pen**](../../../links/pen-links/xppen-pens/xppen-x4-notes.md)
 
 ### Compatible pens
 
