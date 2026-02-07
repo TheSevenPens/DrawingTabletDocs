@@ -4,6 +4,27 @@
 
 Overall it performs decently. No obvious problems
 
+store link: [https://store.huion.com/products/battery-free-pen-pw500](https://store.huion.com/products/battery-free-pen-pw500)
+
+## Compatible tablets
+
+Huion lists these compatible pens:
+
+* HS611
+* Q620M
+* Q11K V2
+* G10T V2
+* WH1409 V2
+* GT-191 V2 (500K)
+* Kamvas Pro 20
+* Kamvas Pro 22
+* Kamvas Pro 22 (2019)
+* Kamvas Studio 22
+
+Pen Compatibility as of 2026-02-06 from Huion's website
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Design
 
 The pen is a little "plastic-feeling" and does not have a premium feeling.&#x20;

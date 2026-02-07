@@ -6,6 +6,14 @@ These PW550 series of pens offer some of the improvements that made it into the 
 
 If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen instead. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](upgrading-from-pw517-to-pw550.md)
 
+## Compatible tablets
+
+It is compatible with the same tablets that support the PW516 pen
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Photos
 
 <figure><img src="../../../.gitbook/assets/20240831_125855 (Large).jpg" alt=""><figcaption></figcaption></figure>
@@ -22,7 +30,7 @@ IAF - 7 to 10gf
 
 Max Pressure - between 300 gf to 800gf. With an occasional units around the mid 250s.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 

@@ -24,7 +24,7 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
 * Pen Compatibility as of 2026-02-06 from Huion's website
   *
 
-      <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Pressure range
 

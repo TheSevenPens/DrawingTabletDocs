@@ -6,6 +6,18 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw110](https://st
 
 Huion lists this pen as using PenTech 3.0
 
+## Compatible tablets
+
+Huion lists the compatible tablets as
+
+* Inspiroy 2 S
+* Inspiroy 2 S
+* Inspiroy 2 S
+
+Pen Compatibility as of 2026-02-06 from Huion's website
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Photos
 
 
@@ -41,4 +53,4 @@ I only have 2 unit and based on my testing
 
 &#x20;These numbers are tyypical of PenTech 3.0 pens such as the PW517
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

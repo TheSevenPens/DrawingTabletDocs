@@ -76,13 +76,13 @@ For HDMI you connect with three separate cables for power, video, and data.
 
 There is no 3-in-1 cable for this tablet.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### USB-C connection
 
 You can connect this tablet with a single USB-C cable for video and data. The cable you need is provided in the box. Power will require using the separate cable.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Compatible USB-C cables
 
