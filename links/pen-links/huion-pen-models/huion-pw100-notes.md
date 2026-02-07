@@ -6,7 +6,25 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
 
 ## Compatibility
 
-Huion lists these as compatible tablets: H640P, H950P, H1060P, H1161, H610 Pro V2, HS64, HS610, Inspiroy Ink H320M&#x20;
+* Huion list of compatible tablets:&#x20;
+  * H640P
+  * H950P
+  * H1060P
+  * H1161
+  * H610 Pro V2
+  * HS64
+  * HS610
+  * Inspiroy Ink H320M
+* My experience: I was also able to use this pen with a HS611
+  * Pressure: worked
+  * Tilt: worked
+  * Buttons: worked
+* PenTech: 2.0
+* Huion store link: [https://store.huion.com/products/battery-free-pen-pw100](https://store.huion.com/products/battery-free-pen-pw100)&#x20;
+* Pen Compatibility as of 2026-02-06 from Huion's website
+  *
+
+      <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Pressure range
 
@@ -14,8 +32,6 @@ I only have one unit and based on my testing
 
 * The IAF is about 12gf
 * The maximum pressure is about 250gf
-
-
 
 ## Photos
 
