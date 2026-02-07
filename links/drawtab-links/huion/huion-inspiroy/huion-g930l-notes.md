@@ -26,7 +26,7 @@ This tablet comes with the Huion PW517 pen.&#x20;
 
 Consider upgrading the pen
 
-For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](../../../pen-links/huion-pen-models/upgrading-from-pw517-to-pw550.md).
+For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](../../../pen-links/huion-pens/upgrading-from-pw517-to-pw550.md).
 
 ## **Surface texture**
 

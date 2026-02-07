@@ -8,11 +8,11 @@ As of July 2025, the Heion PW600 series is the best non-Wacom pen I've seen. It 
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -46,7 +46,7 @@ Huion states 500gf. I saw some variance a little bit of variance - not much. Ove
 
 ## Pressure response
 
-<figure><img src="../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
 
 ## PW600 series compatibility with older tablets&#x20;
 

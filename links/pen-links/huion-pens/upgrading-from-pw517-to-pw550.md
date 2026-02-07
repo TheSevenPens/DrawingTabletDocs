@@ -60,4 +60,4 @@ Here are my measurements for maximum pressure for the pens in my collection.
 ## Related docs
 
 * [**Notes on Huion PW550 series pens**](huion-pw550-notes.md)
-* [**Notes on Huion PW517 pen**](../../../pen-links/huion-pen-models/7p-huion-pw517.md)
+* [**Notes on Huion PW517 pen**](7p-huion-pw517.md)

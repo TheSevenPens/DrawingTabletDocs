@@ -96,7 +96,7 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 * Both pens are PenTech 4.0 pens
 * Both pens have erasers
 
-See [**my notes on the PW600 pens**](../../../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+See [**my notes on the PW600 pens**](../../../../pen-links/huion-pens/7p-huion-pw600.md)
 
 ### Pen compatibility
 
@@ -129,7 +129,7 @@ NORMAL - standard for modern pen displays.
 
 ### **Pressure range**&#x20;
 
-**Pen IAF and Max pressure - See** [**Huion PW600 and PW600S**](../../../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+**Pen IAF and Max pressure - See** [**Huion PW600 and PW600S**](../../../../pen-links/huion-pens/7p-huion-pw600.md)
 
 * **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [**pressure transition stability**](../../../../../core-features/pen-pressure/drawing-at-low-physical-pressure.md)&#x20;
 * **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
@@ -154,7 +154,7 @@ VERY GOOD. It has very little parallax. As good as - maybe even a little better 
 
 **Driver & Pens** - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.&#x20;
 
-These pens are very good in terms of pressure. Much more here: [**Huion PW600 and PW600S**](../../../../../pen-links/huion-pen-models/7p-huion-pw600.md)
+These pens are very good in terms of pressure. Much more here: [**Huion PW600 and PW600S**](../../../../pen-links/huion-pens/7p-huion-pw600.md)
 
 ### Diagonal wobble
 

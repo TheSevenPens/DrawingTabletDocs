@@ -200,7 +200,7 @@ Drawing tablets have been released over many years. That means when you shop onl
     * PenTech 3.0: PW517, PW515, PW110
     * PenTech 3.0+: PW550, PW550S - in my research these are clearly better pens than PenTech 3.0. In terms of pressure range as good as PenTech 4.0.
     * PenTech 4.0: PW600, PW600S. The PenTech 4.0 Pens are better than the PenTech 3.0 pens
-    * More here: [**Huion pens**](../pen-links/huion-pen-models/)
+    * More here: [**Huion pens**](../links/pen-links/huion-pens/)
 
 ## Preparing for a drawing tablet
 

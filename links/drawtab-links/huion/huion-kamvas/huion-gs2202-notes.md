@@ -32,12 +32,12 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 
 ### Included pen
 
-* PW517 - [**notes on the PW517 pen**](../../../../pen-links/huion-pen-models/7p-huion-pw517.md)
+* PW517 - [**notes on the PW517 pen**](../../../pen-links/huion-pens/7p-huion-pw517.md)
 
 ### Compatible pens
 
-* PW517 - [**notes on the PW517 pen**](../../../../pen-links/huion-pen-models/7p-huion-pw517.md)
-* PW550 - [**notes on the PW550 pen**](../../../pen-links/huion-pen-models/huion-pw550-notes.md)
+* PW517 - [**notes on the PW517 pen**](../../../pen-links/huion-pens/7p-huion-pw517.md)
+* PW550 - [**notes on the PW550 pen**](../../../pen-links/huion-pens/huion-pw550-notes.md)
 * PW550S&#x20;
 
 ## Display experience
