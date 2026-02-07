@@ -12,7 +12,7 @@ This is OK tablet that despite being released in 2025, uses an older generation 
 
 ## Compared Deco 01 V2
 
-XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to be the same exact tablet with the same exact pen and having the same exact drawing performance.&#x20;
+XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to be the same exact tablet with the same exact pen and having the same exact drawing performance. The primary difference seems to be that XP-Pen says the Deco 01 V3 works better with Android devices.
 
 ## Android support
 
@@ -24,19 +24,17 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [<mark style="background-color:green;">**my notes on this pen**</mark>](../../../../pen-links/xp-pen-pens/xp-pen-p05-pen-notes.md)
+XP-Pen P05 - [**notes on P05 pen**](../../../../pen-links/xp-pen-pens/xp-pen-p05-pen-notes.md)
 
-### P05 Pen pressure handling
-
-The included pen has exactly the same as the old model and has the same high IAF.
+The included P05 pen has exactly the same as the old model and has the same high IAF.
 
 ## Using with Android
 
-XP-Pen says this tablet wil work with android devices.
+XP-Pen says this tablet will work with android devices.
 
-However, my initial attempt at using this tablet with my android devices were unsuccessful. Despite using the XP-Pen companion android app, while the android device did recognize the tablet, all drawing was heavily distorted.
+However, my initial attempt at using this tablet with my android devices were unsuccessful. Despite using the XP-Pen companion android app, while the android device did recognize the tablet, all drawing was heavily distorted. I'm not sure if I did something wrong or the fault lies elsewhere.
 
-I'm not sure if I did something wrong or the fault lies elsewhere.
+Other users have reported that it does work well with Android.
 
 ## Better alternatives
 
@@ -71,10 +69,6 @@ A better choice in 2025 would be these tablets: [**Pen tablet recommendations (M
 
 
 <figure><img src="../../../../.gitbook/assets/20250924_105401 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-##
 
 
 
