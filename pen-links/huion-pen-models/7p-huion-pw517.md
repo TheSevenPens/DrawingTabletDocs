@@ -12,7 +12,7 @@ Huion lists these as compatible tablets
 
 * Kamvas 12
 * Kamvas 13
-* Kamvas 16 (2021)
+* Kamvas 16 2021
 * Kamvas 22 Series
 * Kamvas 24 Series
 * Kamvas Pro 13 (2.5K)
