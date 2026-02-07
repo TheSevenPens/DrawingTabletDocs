@@ -16,7 +16,7 @@ Huion lists the compatible tablets as
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 
@@ -53,4 +53,4 @@ I only have 2 unit and based on my testing
 
 &#x20;These numbers are tyypical of PenTech 3.0 pens such as the PW517
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

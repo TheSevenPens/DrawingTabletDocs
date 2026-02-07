@@ -2,7 +2,19 @@
 
 ## **Overview**
 
-As of July 2025, the HUion PW600 series is the best non-Wacom pen I've seen. It was good IAF, a wide pressure range, and comes very close to the Wacom Pro Pen 2.
+As of July 2025, the Heion PW600 series is the best non-Wacom pen I've seen. It was good IAF, a wide pressure range, and comes very close to the Wacom Pro Pen 2.
+
+## **Pen compatibility**
+
+Pen Compatibility as of 2026-02-06 from Huion's website
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 ## **Models**
 

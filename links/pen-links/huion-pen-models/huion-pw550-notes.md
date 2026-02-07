@@ -6,13 +6,19 @@ These PW550 series of pens offer some of the improvements that made it into the 
 
 If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen instead. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](upgrading-from-pw517-to-pw550.md)
 
+## Links
+
+* [Huion - Introducing Huion PenTech 3.0+ and PW550/PW550S](https://store.huion.com/posts/introducing-huion-pentech3.0+-pw550-pw550s) 2023-03-30
+
 ## Compatible tablets
 
-It is compatible with the same tablets that support the PW516 pen
+It is compatible with the same tablets that support the PW517 pen
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Pen Compatibility as of 2026-02-06 from Huion's website
 
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 

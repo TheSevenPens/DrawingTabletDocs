@@ -14,7 +14,9 @@ Huion lists these tablets as compatible
 * Pro 20 (2019)
 * Kamvas 20
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+Pen Compatibility as of 2026-02-06 from Huion's website
+
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

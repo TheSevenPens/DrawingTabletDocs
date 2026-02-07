@@ -23,7 +23,7 @@ Huion lists these compatible pens:
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Design
 

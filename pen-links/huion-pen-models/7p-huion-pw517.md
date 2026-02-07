@@ -20,7 +20,7 @@ Huion lists these as compatible tablets
 * Kamvas Pro 16 (4k) series
 * Kamvas Pro 24 (4K), etc.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Use the PW550 pen instead
 
@@ -35,7 +35,7 @@ I have 7 units of this pen.&#x20;
 
 Like other PenTech 3.0 pens, there is a lot of variation in IAF and max pressure.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Consider the PW550 series pens as a potential upgrade
 

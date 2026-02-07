@@ -30,7 +30,7 @@ You'll often see these pre-installed protectors listen in table specs like this:
 
 Here's an example for the Huion Kamvas 13 (GS1333).&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 However, be aware that sometimes the screen protector is not listed even if the tablet has one. In this case you'll need to contact support or other users of the tablet.
 

@@ -21,10 +21,11 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
   * Buttons: worked
 * PenTech: 2.0
 * Huion store link: [https://store.huion.com/products/battery-free-pen-pw100](https://store.huion.com/products/battery-free-pen-pw100)&#x20;
-* Pen Compatibility as of 2026-02-06 from Huion's website
-  *
+*   Pen Compatibility as of 2026-02-06 from Huion's website
 
-      <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+
+    <figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Pressure range
 
