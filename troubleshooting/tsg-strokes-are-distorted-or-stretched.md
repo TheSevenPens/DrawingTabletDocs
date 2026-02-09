@@ -12,7 +12,15 @@ This distortion or stretching happens because the active area of the tablet (the
 
 To solve this, use Force Proportions in the tablet driver: [**Match aspect ratios with Force Proportions**](../guides/customizing/matching-aspect-ratios.md)
 
+### What about distortion on Android?
+
 Note for Android tablet users:  Whether this distortion happens depends on the specific combination of drawing tablet, android device, android version. And there is no tablet driver to help fix the problem if it does occur.
+
+Some combinations "just work" - Huion Frego with Android tablets is a great example.
+
+But other combinations ahce distorted strokes.
+
+If this happens for you, the I suggest that you contact customer support and see if there are any options available for your tablet to handle this case.
 
 ## For pen tablets, always turn on Force Proportions
 
