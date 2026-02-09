@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a little bit of a dated tablet. I do suggest you consider getting the Cintiq 16 2025 (DTK-168\_instead - [<mark style="background-color:green;">**My notes on DTK-168**</mark>](wacom-dtk168-notes.md). My notes on the DTK-168 have comparison between the two tablets.
+This is a little bit of a dated tablet. I do suggest you consider getting the Cintiq 16 2025 (DTK-168\_instead. [**My notes on DTK-168**](wacom-dtk168-notes.md) have a comparison between the two tablets.
 
 ## Basics
 
