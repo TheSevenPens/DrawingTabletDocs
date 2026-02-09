@@ -12,6 +12,10 @@ In many ways these tablets works exactly like you would expect a modern drawing 
 * Preceded by: N/A
 * Succeeded by: [Wacom UD series](../../../links/drawtab-links/wacom/wacom-ud-series-notes.md)
 
+## Models
+
+<table><thead><tr><th width="174.50006103515625">Model</th><th>Notes</th></tr></thead><tbody><tr><td>SD-510C</td><td><a href="../../../links/drawtab-links/wacom/wacom-sd-tablets/wacom-sd510c-notes.md"><mark style="background-color:green;"><strong>notes on SD-510C</strong></mark></a></td></tr><tr><td>SD-420E</td><td></td></tr><tr><td>SD-421E</td><td></td></tr><tr><td>SD-422E</td><td></td></tr><tr><td>SD-320L</td><td></td></tr><tr><td>SD-320E</td><td></td></tr><tr><td>SD-321E</td><td></td></tr><tr><td>SD-322E</td><td></td></tr><tr><td>SD-310E</td><td></td></tr><tr><td>SD-311E</td><td></td></tr><tr><td>SD-312E</td><td></td></tr><tr><td>SD-210L</td><td></td></tr><tr><td>SD-013A</td><td></td></tr><tr><td>SD-013L</td><td></td></tr></tbody></table>
+
 ## Cordless
 
 Wacom emphasizes in the product materials that this is a “cordless” tablet. "Cordless" does not mean there is no cord or cable connecting the tablet to the computer - because there's certainly is such a cord. ”Cordless” refers to the fact that the pen is not connected to the tablet with a cord. This was a real innovation in 1987. In this era, you would have expected the pen to communicate to the tablet and get power from the tablet via such a cord.
@@ -57,9 +61,7 @@ On the thin end of the spectrum, the SD-510C looks a LOT like a modern drawing t
 
 But other models in the SD series are not much much thicker and do not feature the tablet processor box.
 
-## Models
-
-<table><thead><tr><th width="174.50006103515625">Model</th><th>Notes</th></tr></thead><tbody><tr><td>SD-510C</td><td><a href="../../../links/drawtab-links/wacom/wacom-sd-tablets/wacom-sd510c-notes.md"><mark style="background-color:green;"><strong>notes on SD-510C</strong></mark></a></td></tr><tr><td>SD-420E</td><td></td></tr><tr><td>SD-421E</td><td></td></tr><tr><td>SD-422E</td><td></td></tr><tr><td>SD-320L</td><td></td></tr><tr><td>SD-320E</td><td></td></tr><tr><td>SD-321E</td><td></td></tr><tr><td>SD-322E</td><td></td></tr><tr><td>SD-310E</td><td></td></tr><tr><td>SD-311E</td><td></td></tr><tr><td>SD-312E</td><td></td></tr><tr><td>SD-210L</td><td></td></tr><tr><td>SD-013A</td><td></td></tr><tr><td>SD-013L</td><td></td></tr></tbody></table>
+##
 
 ## User manuals
 

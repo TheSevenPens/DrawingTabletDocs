@@ -20,6 +20,10 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
     * Windows: 6.4.3-1 released on 2023-08-09
     * MacOS: 6.4.3-2 released on 2023-08-09
 
+## Models
+
+<table><thead><tr><th width="131">Model ID</th><th width="190.11797175172904">Name</th><th>Notes</th></tr></thead><tbody><tr><td>PTK-440</td><td>Intuos4 Small</td><td></td></tr><tr><td>PTK-540WL</td><td>Intuos4 Wireless</td><td></td></tr><tr><td>PTK-640</td><td>Intuos4 Medium</td><td></td></tr><tr><td>PTK-840</td><td>Intuos4 Large</td><td></td></tr><tr><td>PTK-1240</td><td>Intuos4 XL</td><td><a href="../../../links/drawtab-links/wacom/wacom-intuos4/wacom-ptk1240-notes.md"><mark style="background-color:green;"><strong>My notes on the Intuos4 XL</strong></mark></a></td></tr></tbody></table>
+
 ## Links
 
 * [EyekooDrawsStuff - Wacom Intuos 4 Large (PTK-840)](https://www.youtube.com/watch?v=GAb-mte-j5w) 2021/10/12
@@ -29,10 +33,6 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 <figure><img src="../../../.gitbook/assets/20250514_223830 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/20250514_220215 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-## Models
-
-<table><thead><tr><th width="131">Model ID</th><th width="190.11797175172904">Name</th><th>Notes</th></tr></thead><tbody><tr><td>PTK-440</td><td>Intuos4 Small</td><td></td></tr><tr><td>PTK-540WL</td><td>Intuos4 Wireless</td><td></td></tr><tr><td>PTK-640</td><td>Intuos4 Medium</td><td></td></tr><tr><td>PTK-840</td><td>Intuos4 Large</td><td></td></tr><tr><td>PTK-1240</td><td>Intuos4 XL</td><td><a href="../../../links/drawtab-links/wacom/wacom-intuos4/wacom-ptk1240-notes.md"><mark style="background-color:green;"><strong>My notes on the Intuos4 XL</strong></mark></a></td></tr></tbody></table>
 
 ## Design
 

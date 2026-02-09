@@ -16,6 +16,10 @@ The Intuos 5 series was the last time Wacom used "Intuos" only to mean professio
   * Windows: 6.3.46-2 released on 2022-08-23
   * MacOS: 6.3.46-2 released on 2022-08-23
 
+## Models
+
+<table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-850</td><td>2012</td><td>Intuos5 touch Large</td></tr><tr><td>PTH-650</td><td>2012</td><td>Intuos5 touch Medium</td></tr><tr><td>PTK-650</td><td>2012</td><td>Intuos5 Medium</td></tr><tr><td>PTH-450</td><td>2012</td><td>Intuos5 touch Small</td></tr><tr><td>PTK-450</td><td>2012</td><td>Intuos5 Small</td></tr></tbody></table>
+
 ## Name
 
 This is the last time "Intuos + Number" was how these professional pen tablets was named.
@@ -27,8 +31,6 @@ This is the last time "Intuos + Number" was how these professional pen tablets w
 <figure><img src="../../.gitbook/assets/20250514_223912 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Models
-
-<table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTH-850</td><td>2012</td><td>Intuos5 touch Large</td></tr><tr><td>PTH-650</td><td>2012</td><td>Intuos5 touch Medium</td></tr><tr><td>PTK-650</td><td>2012</td><td>Intuos5 Medium</td></tr><tr><td>PTH-450</td><td>2012</td><td>Intuos5 touch Small</td></tr><tr><td>PTK-450</td><td>2012</td><td>Intuos5 Small</td></tr></tbody></table>
 
 ## Core specs
 

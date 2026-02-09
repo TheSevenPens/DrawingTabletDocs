@@ -1,16 +1,12 @@
 # Wacom Intuos
 
-## Wacom Intuos Small (CTL-4100)
+## Overview
 
-* Model year: 2018
-* User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html](http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html)&#x20;
+These are very good consumer pen tablets from Wacom and still highly competetive with pro tablets from non-Wacom brands.
 
-## Wacom Intuos Medium (CTL-6100, CTL-6100WL)
+## Models
 
-* Model year: 2018&#x20;
-  * CTL-6100 does not support wireless. cable connection only
-  * CTL-6100WL can be connected with cable and wireless
-* [http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html)
+<table><thead><tr><th>Name</th><th>Model</th><th width="100.199951171875">Yearxt</th><th>Year</th></tr></thead><tbody><tr><td>Intuos Small</td><td>CTL-4100</td><td>2018</td><td>User manual: <a href="http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html">http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html</a> </td></tr><tr><td>Wacom Intuos Medium</td><td>CTL-6100</td><td>2018</td><td>User manual: <a href="http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html">http://101.wacom.com/UserHelp/en/TOC/CTL-6100</a></td></tr><tr><td>Intuos Medium BT</td><td>CTL-6100WL</td><td>2018</td><td></td></tr></tbody></table>
 
 ## Older Intuos professional tablets
 
