@@ -14,7 +14,7 @@ This site is a personal project and has no affiliation or relationship with any 
 * [**Buying a drawing tablet**](buying-a-drawing-tablet/) -  a comprehensive guide to purchasing a tablet.
 * [**Recommendations**](recommendations/) - Recommendations for different budgets and types of tablets
 * [**Troubleshooting guides**](troubleshooting/) - For when you need help
-* [**Getting started** ](basics/getting-started-with-a-drawing-tablet.md)- First steps for unboxing, connecting, and customizing the table for your needs.
+* [**Getting started** ](basics/getting-started.md)- First steps for unboxing, connecting, and customizing the table for your needs.
 
 ## Connect with the community
 

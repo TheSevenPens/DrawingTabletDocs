@@ -68,7 +68,7 @@ Players do **advanced customization** of osu! through OpenTabletDriver plug-ins.
 
 ### Picking a drawing tablet for osu!
 
-More here: [Buying a drawing tablet for osu!](../../buying-a-drawing-tablet/buying-a-drawing-tablet-for-osu.md) &#x20;
+More here: [Buying a drawing tablet for osu!](../../buying-guide/drawtabs-for-osu.md) &#x20;
 
 ## **FPS games**
 

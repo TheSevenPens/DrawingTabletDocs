@@ -39,7 +39,7 @@ You can bind the buttons to take a variety of actions. Broadly the categories ar
 
 ## Common useful bindings
 
-You can make these auxiliary inputs to all sorts of useful things. Here are some popular examples I found: [Popular bindings for auxiliary inputs](popular-bindings-for-auxiliary-inputs.md)
+You can make these auxiliary inputs to all sorts of useful things. Here are some popular examples I found: [Popular bindings for auxiliary inputs](popular-bindings.md)
 
 ## Global vs application configuration
 

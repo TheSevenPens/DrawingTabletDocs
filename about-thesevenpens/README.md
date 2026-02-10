@@ -22,7 +22,7 @@ When I started my YouTube channel I had seven pens from my drawing tablets. Now 
 
 ## **Key resources**
 
-* My general take on [Drawing tablet brands](../drawing-tablet-brands/) &#x20;
+* My general take on [Drawing tablet brands](../drawtab-brands/) &#x20;
 * [Buying guide](../buying-a-drawing-tablet/)&#x20;
 * [Drawing tablet recommendations](../recommendations/) &#x20;
 

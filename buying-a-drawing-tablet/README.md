@@ -55,10 +55,10 @@ I strongly urge you to read this buying guide and beginner's guide completely be
 
 More here:&#x20;
 
-* [**Brands**](../drawing-tablet-brands/)
-* [**Choosing a drawing tablet brand**](../drawing-tablet-brands/choosing-a-drawing-tablet-brand.md) &#x20;
+* [**Brands**](../drawtab-brands/)
+* [**Choosing a drawing tablet brand**](../drawtab-brands/choosing-a-drawing-tablet-brand.md) &#x20;
 
-If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawing-tablets-links/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
+If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wacom pen tablets**](../drawtab-brands/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.&#x20;
 
 ## **Core features**
 
@@ -160,7 +160,7 @@ More here: [**Operating systems**](../guides/operating-systems/)&#x20;
 * **Taking notes** - I don't typically recommend pen tablets or pen displays for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawing-tablets.md)&#x20;
 * **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../basics/scenarios/making-educational-videos-with-a-drawing-tablet.md)
 * **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/scenarios/gaming-with-a-drawing-tablet.md)&#x20;
-* **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](buying-a-drawing-tablet-for-osu.md) &#x20;
+* **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](../buying-guide/drawtabs-for-osu.md) &#x20;
 
 ## Look at model numbers, not just names
 
@@ -172,13 +172,13 @@ All apps work with drawing tablets (once you install the drivers). Creative apps
 
 More here:&#x20;
 
-* [**App compatibility with drawing tablets**](../basics/app-compatibility-with-drawing-tablets.md)
+* [**App compatibility with drawing tablets**](../basics/app-compatibility.md)
 * [**Applications**](../apps/) &#x20;
 * [**Recommended apps**](../apps/recommended-apps.md)&#x20;
 
 ## Buying used drawing tablets
 
-If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used-drawing-tablets.md)    &#x20;
+If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](../buying-guide/buying-used.md)    &#x20;
 
 ## Power
 
@@ -207,7 +207,7 @@ Drawing tablets have been released over many years. That means when you shop onl
 * **Troubleshooting -** At some point, something is going to go wrong. I highly suggest you familiarize yourself with the [**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md) and be aware of these [**Troubleshooting guides**](../troubleshooting/).
 * **Accessories** - There are some interesting accessories for a tablet. More here:[ **Accessories**  ](../accessory-links/)
 * **Purchasing** - Before you actually purchase the tablet. Go through this [**Before-purchase checklist**](buying-tips.md).
-* **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/getting-started-with-a-drawing-tablet.md)&#x20;
+* **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/getting-started.md)&#x20;
 * **Maintenance** - Once you get your tablet, you'll need to take care of it and perform some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/maintaining-your-drawing-tablet/).
 * **Be prepared for the total cost of ownership**. Just buying the tablet is one thing. But you will likely purchase other things.  More here: [**Total Cost of Ownership**](../guides/general/total-cost-of-ownership-tco.md)&#x20;
 

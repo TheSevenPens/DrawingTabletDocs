@@ -21,7 +21,7 @@ Most drawing tablets come with a limited-time trial license to some applications
 
 ## All apps work with drawing tablet pens
 
-More here: [App compatibility with drawing tablets](../basics/app-compatibility-with-drawing-tablets.md)
+More here: [App compatibility with drawing tablets](../basics/app-compatibility.md)
 
 ## Roundups & reviews
 

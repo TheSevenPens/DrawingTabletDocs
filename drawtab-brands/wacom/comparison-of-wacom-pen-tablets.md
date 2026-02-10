@@ -20,7 +20,7 @@ Here are [my detailed notes on the Intuos Pro (PTH-x60) series](../../links/draw
 
 ## Wacom One 2023 tablets
 
-The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](wacom-one/wacom-one-2023-pen-displays-notes.md)&#x20;
+The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](../../drawing-tablets-links/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)&#x20;
 
 ## Recommendation summary
 
@@ -223,9 +223,9 @@ More here: [My detailed notes on the Intuos Pro (PTH-x60) series](../../links/dr
 
 There are three Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
 
-* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [**More here** ](wacom-intuos-pro-2025/)
-* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [**More here**](wacom-intuos-pro-2017/)&#x20;
-* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [**More here**](wacom-intuos-pro-2013.md)&#x20;
+* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [**More here** ](../../drawing-tablets-links/wacom/wacom-intuos-pro-2025/)
+* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [**More here**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2017/)&#x20;
+* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [**More here**](../../drawing-tablets-links/wacom/wacom-intuos-pro-2013.md)&#x20;
 
 ## Distinguishing physical features
 

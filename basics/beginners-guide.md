@@ -10,7 +10,7 @@ New to drawing tablets? This guide helps you understand how they work, prepares 
 1. Read this beginner's guide first.&#x20;
 2. Then look at the detailed [**buying guide**](../buying-a-drawing-tablet/). It has links to my [**recommendations**](../recommendations/)**.**&#x20;
 3. If you just want a quick recommendation for beginners, go here: [**Recommended drawing tablets for beginners**](../recommendations/scenarios/beginner-recs/).&#x20;
-4. Once your tablet arrives, look here: [**Getting started with a drawing tablet**](getting-started-with-a-drawing-tablet.md).
+4. Once your tablet arrives, look here: [**Getting started with a drawing tablet**](getting-started.md).
 {% endhint %}
 
 ## Types of drawing tablets &#x20;
@@ -67,7 +67,7 @@ Most drawing tablets also detect how the pen is tilted relative to the surface o
 
 ## Brands
 
-Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [**Drawing Tablet Brands**](../drawing-tablet-brands/)
+Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [**Drawing Tablet Brands**](../drawtab-brands/)
 
 ## Primary features&#x20;
 
@@ -110,7 +110,7 @@ All **pen tablets** can be connected with a single USB cable. Many pen tablets (
 
 Once you install the tablet drivers, **all applications are compatible with drawing tablets**. In addition, creative applications (paint programs, etc.) can take advantage of special features of the tablet such as pressure sensitivity and tilt.
 
-See: [**App compatibility with drawing tablets**](app-compatibility-with-drawing-tablets.md)
+See: [**App compatibility with drawing tablets**](app-compatibility.md)
 
 ## Pen nibs
 

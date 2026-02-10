@@ -124,7 +124,7 @@ This over-sensitivity is common to pens, and not unusual. Some people may not ev
 
 If you tablet has additional inputs such as buttons, dials, etc. You can control what they do. Even assign them to do different things per application.
 
-Here are some popular assignments: [Popular bindings for auxiliary inputs](../core-features/expresskeys/popular-bindings-for-auxiliary-inputs.md)
+Here are some popular assignments: [Popular bindings for auxiliary inputs](../core-features/expresskeys/popular-bindings.md)
 
 ## Windows&#x20;
 
