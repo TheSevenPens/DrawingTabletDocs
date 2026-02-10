@@ -6,6 +6,8 @@ Scratches are a form of permanent damage. Depending on how deep the scratch is, 
 
 Below is an example of some scratches that while ugly, do not interfere with the drawing experience. Small scratches are also hard to see sometime and greatly affected by the lighting conditions.
 
+Some of what you see is also a false scratch. See: [**false scratches**](false-scratches.md)&#x20;
+
 <figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
 As you can see the scratches can be very small. These kinds of scratches will not affect your drawing experience.
