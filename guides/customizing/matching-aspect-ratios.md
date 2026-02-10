@@ -32,38 +32,40 @@ FP restricts the region of the active area that matches to that of your monitor 
 
 ## Enabling force proportions
 
-### Wacom > Wacom tablet properties: Force proportions
+### Wacom
+
+#### Wacom tablet properties app: Force proportions
 
 * Launch **Wacom Tablet Properties**
 * Under the **Mapping** tab, enable **Force Proportions**&#x20;
 
-### Wacom > Wacom Center: Force proportions
+#### Wacom Center app: Force proportions
 
 * Launch **Wacom Center**
 * Navigate to the **Mapping** tab
 * Enable **Force Proportions**
 
-### Huion: Screen ratio
+### Huion
 
 * Launch the **HuionTablet** app
 * Go to **Working Area**&#x20;
 * On the bottom left there is a drop down.&#x20;
 * Switch the dropdown to **Screen Ratio**.
 
-### Gaomon: Screen ratio
+### Gaomon
 
 * Open the **Gaomon** driver app
 * Go to **Workspace**
 * Select **Screen Ratio**
 
-### XP-Pen PenTablet app: Proportion
+### XP-Pen
 
 * Open the XP-Pen **PenTablet** driver app
 * Go to **Work Area**
 * Go to **Pen Tablet**
 * Select **Proportion**
 
-### Xencelabs app: Screen ratio
+### Xencelabs
 
 * Open the **Xencelabs** driver app
 * Go to **Device Settings**
