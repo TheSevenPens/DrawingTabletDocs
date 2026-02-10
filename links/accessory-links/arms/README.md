@@ -8,7 +8,7 @@ Using a monitor arm with your pen display comes down to whether your pen display
 * **If your pen display is not VESA mountable,** there are some options
 
 {% hint style="info" %}
-Instead of an arm, you might also explore [**stands**](../stands/) for your tablets.
+Instead of an arm, you might also explore [**stands**](../../../accessory-links/stands/) for your tablets.
 {% endhint %}
 
 ## Arm wobble
@@ -54,9 +54,9 @@ I use this brand a lot. [<mark style="background-color:green;">**My notes on Erg
 
 ## VIVO VESA monitor and touch screen desk stand
 
-I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](../stands/vivo-v100r.md)
+I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](../../../accessory-links/stands/vivo-v100r.md)
 
-<div align="left"><figure><img src="../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## XP-Pen ACS15 Ergo Stand
 
@@ -71,15 +71,15 @@ See this video
 For smaller pen displays that are about the size of a laptop,  you can try an arm designed to hold a laptop.
 
 Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209) \
-![](../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
+![](../../../.gitbook/assets/FiZcG7UUUAAXi62.jpg)
 
 If your pen there are some larger brackets available also.
 
 One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
 
-<figure><img src="../../.gitbook/assets/STAND-VAD1_04psd4 (1).webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/STAND-VAD1_04psd4 (1).webp" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/p1p1a_74b1c91e-ca38-41f6-83e2-1dc4d0e0fb23.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/p1p1a_74b1c91e-ca38-41f6-83e2-1dc4d0e0fb23.webp" alt="" width="188"><figcaption></figcaption></figure>
 
 Some things to watchout for with these brackets before you buy them
 
