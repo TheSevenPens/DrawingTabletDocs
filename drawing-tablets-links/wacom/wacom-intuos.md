@@ -2,7 +2,13 @@
 
 ## Overview
 
-These are **VERY GOOD** pen tablets from Wacom and still highly competetive with pro tablets from non-Wacom brands. The only real limitation is that they don't support TILT.
+These are **VERY GOOD** pen tablets from Wacom and still highly competitive with pro tablets from non-Wacom brands. The only real limitation is that they don't support TILT.
+
+<figure><img src="../../.gitbook/assets/20260211_105045 (Large).jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/20260211_105100 (Large).jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
 
 ## Basics
 
@@ -86,6 +92,10 @@ The CTL-6100WL and CTL-4100WL models support Bluetooth for wireless connectivity
 
 
 ## Photos
+
+<figure><img src="../../.gitbook/assets/20260211_104429.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/20260211_104442.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Resources
 
