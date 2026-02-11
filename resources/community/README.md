@@ -17,6 +17,12 @@ Keep in mind these are community-supported. And while you might occasionally see
 * The official xp-pen discord [https://discord.com/invite/5GDyNgWeuy](https://discord.com/invite/5GDyNgWeuy) (run by XP-Pen)
 * [The drawing tablet discord](discord-server.md)  (I run this one).
 
+## Prominent community members
+
+* [Kuuube](kuuube/)
+* [Tablet kitten](tablet-kitten.md)
+* [Koyo](koyo.md)
+
 ## Brand-hosted community sites
 
 Tablet brands also host their own community sites. For drawing tablet brands you will typically find these communities are not very large and there aren't many people posting questions or solutions.
