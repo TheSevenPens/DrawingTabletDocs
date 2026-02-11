@@ -46,5 +46,5 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 
 ## Pens
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 

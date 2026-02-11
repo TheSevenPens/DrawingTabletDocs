@@ -2,7 +2,13 @@
 
 ## Overview
 
-I just bought this tablet and it arrived on 6/24/2025. These notes are based on my initial testing.
+This is an EXCELLENT tablet and for most people this will be the better choice even than a Cintiq Pro.&#x20;
+
+It delivers the same excellent drawing experience as a Cintiq Pro.
+
+It's only limitation is that it is not 4K and instead 2.5K (2560x1440) which should be enough for most people.
+
+While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.&#x20;
 
 ## Links
 
@@ -16,7 +22,7 @@ I livestreamed the unboxing, testing, and drawing on this tablet:
 * [Unboxing and testing](https://youtube.com/live/Lm-5X-gFtuw?feature=share) 2025/06/24
 * [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025/06/25&#x20;
 
-I will make a full "review" video soon.&#x20;
+Sometime in 2026 I will make a full "review" video soon.&#x20;
 
 ## Basics
 
@@ -46,27 +52,41 @@ I will make a full "review" video soon.&#x20;
 * Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
 * Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here:  [**UD EMR pens**](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md).
 
-## Touch
+## Non-pen input
+
+### Stand
+
+A stand is included in the box.
+
+Pay attention to the direction you attach the stand. It should be attached as shown below.
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+
+It's easy to accidentally install the stand upside down if you aren't paying attention - and the stand is much less stable that way.
+
+### Touch
 
 * This model  DOES supports touch.
 
-## VESA compatible
+### Auxiliary inputs
+
+* The tablet has no buttons, sliders, dials (ExpressKeys)
+
+## Ergonomics
+
+#### VESA
 
 * YES. 75 x 75 mm mounting holes on the back
 
-## Auxiliary inputs
-
-The tablet does not have any auxiliary inputs such buttons, sliders, dials.
-
-## Fans
+### Fans
 
 None
 
-## Noise
+### Noise
 
-All three models as completely silent
+None. This model is completely silent
 
-## Heat
+### Heat
 
 EXCELLENT. At 100% brightness for 3 hours of continuous use, the display had not "warm/hot spots" and stayed very close to the room temperature of the desk it was sitting on. This is may be the best heat management I've seen for a display without a fan. Wacom did an excellent job here.
 
@@ -88,13 +108,25 @@ On the back of the table there are three ports
 
 ### Connection options
 
-## Power delivery
+First, this tablet requires you to always use the power adapter as shown below.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+For video signal and data, you have multiple options
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Power delivery FROM tablet
 
 * The USB-C port that connects to the computer will deliver a very small amount of power.
 * It could in theory recharge your phone after many hours, but it would not be suitable to recharge a laptop.
 * Wacom does NOT identify power delivery as a feature if this tablet.
 
-## Comparison: Cintiq 24 touch vs Cintiq Pro 27
+
+
+## Comparisons
+
+### Cintiq 24 touch vs Cintiq Pro 27
 
 * Overall
   * I think the Cintiq 24 touch is a very compelling choice instead of the Cintiq Pro 27. It actually has some advantages over the Cintiq Pro 27.
@@ -115,7 +147,7 @@ On the back of the table there are three ports
   * The Cintiq 24 touch delivered power to a my Samsung phone and tablet. I don't recall Wacom advertising this specifically.
   * The Cintiq Pro 27 - I can't remember if it supported power delivery. I'd have to check again.
 * Noise
-  * Cintiq 24 touch is SILENT because it has no fanse.
+  * Cintiq 24 touch is SILENT because it has no fans.
   * The Cintiq Pro 27 has fans which cause noise. I only use the Cintiq Pro 27 at 50% brightness to have a reduced fan noise- but the tablet is never silent. At 100% be
 * Drawing Performance
   * The core drawing experience - pen pressure, tilt, accuracy are exactly the same.&#x20;
