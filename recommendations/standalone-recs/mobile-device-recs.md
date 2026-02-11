@@ -20,28 +20,28 @@ These are for when you want a GREAT drawing experience. Especially if you are al
 
 ### EXCELLENT
 
-* Wacom MovinkPad Pro 14 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-movinkpad/wacom-dtha140-notes.md)&#x20;
+* Wacom MovinkPad Pro 14 - [**Notes on MovinkPad Pro 14**](../../links/drawtab-links/wacom/wacom-movinkpad/wacom-dtha140-notes.md)&#x20;
   * This tablet has the best drawing experience on the market out of any current standalone tablet of any kind and from any brand.
-* Wacom MovinkPad 11 - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
+* Wacom MovinkPad 11 - [**Notes on MovinkPad 11**](../../links/drawtab-links/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
 
 ### OK
 
 * XP-Pen Magic Drawing Pad 2024 - I don't have any experience with this tablet.
-* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [<mark style="background-color:green;">**my notes on this tablet**</mark>](../../links/drawtab-links/xppen/xppen-pads/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [**Notes on MDP1221**](../../links/drawtab-links/xppen/xppen-pads/xp-pen-magic-drawing-pad-2025-mdp1221-notes.md)
 
 ## For general usage
 
 This is when you want a general-purpose mobile device, but also want decent pen support for things like sketching, notetaking, whiteboarding, etc.&#x20;
 
-* Apple iPads + the Apple Pencil - [<mark style="background-color:green;">**My notes on using Apple iPads**</mark>](../../links/drawtab-links/apple/apple-ipad-notes.md)
+* Apple iPads + the Apple Pencil - [**Notes on Apple iPads**](../../links/drawtab-links/apple/apple-ipad-notes.md)
   * Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately.&#x20;
-* Samsung Galaxy Tab S devices - [<mark style="background-color:green;">**My notes on Samsung Galaxy Tab S Series**</mark>](../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md)
+* Samsung Galaxy Tab S devices - [**Notes on Galaxy Tab S Series**](../../links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md)
   * As an alternative to the Apple ecosystem, the Samsung Galaxy Tab S series of tablets is compelling. One great advantage of the Galaxy Tab S series is that they come with the Samsung S pen. So that keeps the cost down.
   * There are lots of models. Here are the
 
 ## Avoid
 
-* Samsung Galaxy Tab A Series - <mark style="color:red;">**NOT RECOMMENDED**</mark> of tablets. More here: [**Samsung Galaxy Tab A**](/broken/pages/K3IzHFwFNcq4x2AgO7wO)
+* Samsung Galaxy Tab A Series - <mark style="color:red;">**NOT RECOMMENDED**</mark> of tablets. More here: **Samsung Galaxy Tab A.** See [Galaxy Tab A series](../../links/drawtab-links/samsung/samsung-galaxy-tab-a-series.md)
 * Huion Slate - [**Huion Kamvas Slate 10**](../../drawing-tablets-links/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
 
 ## Budget Android choices

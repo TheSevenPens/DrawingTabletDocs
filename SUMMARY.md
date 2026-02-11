@@ -491,6 +491,7 @@
         * [Samsung Galaxy Tab S6 lite notes](links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s6lite-notes.md "Tab S6 lite")
         * [Samsung Galaxy Tab S8 Ultra notes](links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s8ultra-notes.md "Tab S8 Ultra")
         * [Samsung Galaxy Tab S11 Ultra notes](links/drawtab-links/samsung/samsung-galaxy-tab-s-series/samsung-tab-s11ultra-notes.md "Tab S11 Ultra")
+      * [Samsung Galaxy Tab A series](links/drawtab-links/samsung/samsung-galaxy-tab-a-series.md "Galaxy Tab A series")
     * [Wacom](drawing-tablets-links/wacom/README.md)
       * [One by Wacom](drawing-tablets-links/wacom/one-by-wacom/README.md)
         * [One by Wacom (CTL-x72) notes](links/drawtab-links/wacom/one-by-wacom/wacom-ctlx72-notes.md "One by Wacom (CTL-x72) ")
