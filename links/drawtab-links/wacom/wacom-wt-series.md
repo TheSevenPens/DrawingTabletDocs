@@ -14,8 +14,10 @@ Although these can be considered drawing tablets, they are used the way we we wo
 * The WT-460M came with pen. The WT-4400SE model MIGHT have also come with a pen.
 * The pen seems with to work with the WT-460M & WT-4400SE but it is unclear if the other models allowed the pen to be used with them.
 * The apparent intended use of the tablet - which is for digitizing things like architecture diagrams. And not for painting.
-* The pen does NOT report pressure (there is no pressure sensor in the pen). Instead the pen just clicks  just "clicks"
-* The user does NOT click by tapping the pen on the tablet. Instead the pen has a button that you press that performs the click.
+* The pen does NOT report multiple pressure levels like your expect. The pressure is either ON or OFF - so like having only two pressure levels.
+* Pressure detection is very different.&#x20;
+  * A modern EMR pen has a piezoelectric pressure sensor inside the pen. When you press down with the pen, the force from the press is transmitted through the nib to the pressure sensor. Which can sense variable amounts of pressure - thousands of different levels.
+  * The WT series pen can contains an internal button. When you press down, the nib presses against this button. The button is either ON or OFF - either NO PRESSURE or PRESSURE.
 
 If you are looking for the first "real" drawing tablet from Wacom. Look at the [SD series](../../../drawing-tablets-links/wacom/wacom-sd-tablets/).
 
