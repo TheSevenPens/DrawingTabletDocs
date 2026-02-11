@@ -21,6 +21,10 @@ Although these can be considered drawing tablets, they are used the way we we wo
 
 If you are looking for the first "real" drawing tablet from Wacom. Look at the [SD series](../../../drawing-tablets-links/wacom/wacom-sd-tablets/).
 
+## Links
+
+* lowtechblog - [The History of WACOM Tablets - Prehistory of Intuos 0.5](http://www.lowtech-city.org/blog/index.php?e=189\&PHPSESSID=fd133ba961598e7abf1dcf67441dbd32) 2018-09-01 ([archive](https://archive.is/sgoZa))
+
 ## Models
 
 * WT-3000
