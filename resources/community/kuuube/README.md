@@ -1,6 +1,6 @@
 # Kuuube
 
-Kuuube (pronounced "cube") is a drawing tablet expert. He does methodical and careful research on drawing tablets. He's a contributor to [OpenTabletDriver](../../guides/drivers/opentabletdriver/). I review my content with him and a few others to help ensure accuracy.
+Kuuube (pronounced "cube") is a drawing tablet expert. He does methodical and careful research on drawing tablets. He's a contributor to [OpenTabletDriver](../../../guides/drivers/opentabletdriver/). I review my content with him and a few others to help ensure accuracy.
 
 You can find him on GitHub: [**https://github.com/Kuuuube**](https://github.com/Kuuuube)&#x20;
 

@@ -16,7 +16,7 @@ If you're interested in using a Wacom tablet that connects with the serial cable
 
 ### Drivers
 
-Modern Wacom drivers no longer support any serial connection. However, there is an alternative. ou can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../resources/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
+Modern Wacom drivers no longer support any serial connection. However, there is an alternative. ou can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [**Kuuube**](../../../resources/community/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
 
 ### **Serial ports**
 

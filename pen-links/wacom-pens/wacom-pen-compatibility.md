@@ -18,7 +18,7 @@ MacHollywood maintains another the [**MacHollywood compatibility list**](https:/
 
 ### Kuuube's list
 
-Tablet expert Kuuube, maintains this list [**Kuuube's Wacom pen compatibility mastersheet**](../../resources/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md). This is the most complete lists that exists anywhere!&#x20;
+Tablet expert Kuuube, maintains this list [**Kuuube's Wacom pen compatibility mastersheet**](../../resources/community/kuuube/kuuubes-wacom-pen-compatibility-mastersheet.md). This is the most complete lists that exists anywhere!&#x20;
 
 <mark style="color:red;">As always, no matter where you see compatibility lists, ALWAYS contact product support to verify compatibility before purchasing a pen.</mark>
 

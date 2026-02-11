@@ -26,7 +26,7 @@ AREA OF OPERATION
 
 ## List of drawing tablet mice
 
-You can find them in [Kuuube's Wacom tablet mastersheet](../resources/kuuube/kuuubes-wacom-tablet-mastersheet.md)
+You can find them in [Kuuube's Wacom tablet mastersheet](../resources/community/kuuube/kuuubes-wacom-tablet-mastersheet.md)
 
 ## Tablet brands that made these mice
 
