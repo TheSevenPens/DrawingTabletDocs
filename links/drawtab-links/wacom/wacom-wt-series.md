@@ -4,9 +4,9 @@ Release Year: 1984
 
 Succeeded by: [Wacom SD series](../../../drawing-tablets-links/wacom/wacom-sd-tablets/)
 
-Wacom's WT series was the first pen tablet that had a stylus that did not use a cord. It represents, the "old" type of drawing tablet.&#x20;
+Wacom's WT series was the first pen tablet. And the fist that had a stylus that was not attached to the tablet with a cord. &#x20;
 
-By today's standards it is not a drawing tablet you would want to use. For example, it has no pressure sensitivity. Pressure is has only two levels: one or off.
+By today's standards it is not a drawing tablet you would want to use. For example, it has only two levels: on and off.
 
 ## Models
 
