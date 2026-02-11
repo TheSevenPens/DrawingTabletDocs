@@ -6,18 +6,18 @@ Release Year: 1984
 
 Succeeded by: [Wacom SD series](../../../drawing-tablets-links/wacom/wacom-sd-tablets/)
 
-Wacom's WT-460M was the first pen tablet. And the fist that had a stylus that was not attached to the tablet with a cord. &#x20;
+## Overview
 
-By today's standards, the WT-460M is not a drawing tablet you would want to use.&#x20;
+Although these can be considered drawing tablets, they are used the way we we would expect in a modern sense.&#x20;
 
-* It doesn't "report pressure" like a normal drawing tablet
-* Instead it just supports clicking. So effectively there are only two "pressure levels".&#x20;
-* And it does not click by tapping the pen on the tablet, &#x20;
-* The pen does not have a pressure sensor unlike tablets that came after it which do. Instead the pen has a button that you press that performs the click.
+* Most of them do not come with a pen, but rather a mouse/puck.
+* The WT-460M came with pen. The WT-4400SE model MIGHT have also come with a pen.
+* The pen seems with to work with the WT-460M & WT-4400SE but it is unclear if the other models allowed the pen to be used with them.
+* The apparent intended use of the tablet - which is for digitizing things like architecture diagrams. And not for painting.
+* The pen does NOT report pressure (there is no pressure sensor in the pen). Instead the pen just clicks  just "clicks"
+* The user does NOT click by tapping the pen on the tablet. Instead the pen has a button that you press that performs the click.
 
-This style of interaction is useful for the apparent intended use of the tablet - which is for digitizing things like architecture diagrams. But for painting/skating this would not work.
-
-&#x20;The other models beside the WT-460M did not come with a pen at all.
+If you are looking for the first "real" drawing tablet from Wacom. Look at the [SD series](../../../drawing-tablets-links/wacom/wacom-sd-tablets/).
 
 ## Models
 
