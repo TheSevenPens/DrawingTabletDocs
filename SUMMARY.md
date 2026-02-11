@@ -632,7 +632,7 @@
     * [Tablet kitten](resources/community/tablet-kitten.md)
     * [YouTube channels](resources/community/youtube-channels.md "YouTube")
     * [Subreddits for drawing tablets](resources/community/subreddits-for-drawing-tablets.md "Reddit")
-    * [Discord server](resources/community/discord-server.md "Discord")
+    * [Discord server](resources/community/discord.md "Discord")
     * [Koyo](resources/community/koyo.md)
   * [Project Patchouli](resources/project-patchouli.md)
   * [Wonkle tablet](resources/wonkle-tablet.md)
