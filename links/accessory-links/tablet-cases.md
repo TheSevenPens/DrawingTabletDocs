@@ -6,7 +6,7 @@ Consider getting a protective case to protect your investment in your drawing ta
 
 Below are some options that I have seen people suggest. <mark style="color:red;">**I don't own any of these cases so I cannot speak from direct personal experience**</mark>. So make sure do you research and get community feedback on what works for them.
 
-If you need cases for your pens: [**Protective cases for pens**](../links/accessory-links/pen-cases.md)
+If you need cases for your pens: [**Protective cases for pens**](pen-cases.md)
 
 ## Options
 

@@ -368,7 +368,7 @@
       * [Huion KeyDial](accessory-links/auxiliary-input-devices/huion-keydial.md)
     * [Pen grips](links/accessory-links/pen-grips/README.md)
       * [Hagurumado grips](links/accessory-links/pen-grips/hagurumado-grips.md)
-    * [Tablet cases](accessory-links/protective-cases.md)
+    * [Tablet cases](links/accessory-links/tablet-cases.md)
     * [Pen cases](links/accessory-links/pen-cases.md)
     * [Surface protection](accessory-links/surface-protectors/README.md)
       * [XP-Pen surface protectors](accessory-links/surface-protectors/xp-pen-surface-protectors.md)

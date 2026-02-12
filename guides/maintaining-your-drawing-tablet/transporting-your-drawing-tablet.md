@@ -28,7 +28,7 @@ For more general information: [**Caring for your tablet**](./)
 
 ## Cases for tablets
 
-If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../accessory-links/protective-cases.md).
+If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../links/accessory-links/tablet-cases.md).
 
 ## Protecting your pens
 
