@@ -12,7 +12,7 @@ I love creative tech. I've been using drawing tablets for a long time and wanted
 
 ## Tablets I own
 
-You can see a complete list of [**the tablets I currently own**](my-tablets.md).
+You can see a complete list of [**the tablets I currently own**](inventory.md).
 
 ## Why "Seven Pens"?
 
