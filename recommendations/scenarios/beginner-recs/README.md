@@ -19,7 +19,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Which kind of drawing tablet
 
-The first thing you need to understand is the type of drawing tablet you want to buy. So, read this document first before you continue: [**Types of drawing tablets**](../../../basics/types-of-drawing-tablets/).
+The first thing you need to understand is the type of drawing tablet you want to buy. So, read this document first before you continue: [**Types of drawing tablets**](../../../basics/types-of-drawtabs/).
 
 | PEN TABLETS                                                                                                                                                      | PEN DISPLAYS                                                                                                                     | STANDOLONE                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

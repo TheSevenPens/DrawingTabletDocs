@@ -20,7 +20,7 @@ The most fundamental choice to make is the kind of drawing tablet you want:
 * **pen display** - has a screen and requires a computer to use
 * **standalone tablet  -** has a screen and can be used my itself without being connected to a computer. There are several distinct types of standalone tablets.&#x20;
 
-Before you continue, read this: [**Types of drawing tablets**](../basics/types-of-drawing-tablets/). It will help you understand the options and how much they will cost.
+Before you continue, read this: [**Types of drawing tablets**](../basics/types-of-drawtabs/). It will help you understand the options and how much they will cost.
 
 ## Questions you need to answer
 
@@ -155,11 +155,11 @@ More here: [**Operating systems**](../guides/operating-systems/)&#x20;
 
 ## Use Cases
 
-* **Drawing** - Drawing with a drawing tablet very similar to but different from drawing on paper. And there is a big difference between how it feels to draw with pen displays versus pen tablets. You must understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../basics/the-drawing-experience.md) and here [**Learning digital art**](../basics/learning-digital-art.md)
-* **3D workflows** - I'm not personally involved with 3D work but I have collected some guidance from others here: [**Drawing tablets for 3D workflows**](../basics/scenarios/drawing-tablets-for-3d-workflows.md)
-* **Taking notes** - I don't typically recommend pen tablets or pen displays for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawing-tablets.md)&#x20;
-* **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../basics/scenarios/making-educational-videos-with-a-drawing-tablet.md)
-* **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/scenarios/gaming-with-a-drawing-tablet.md)&#x20;
+* **Drawing** - Drawing with a drawing tablet very similar to but different from drawing on paper. And there is a big difference between how it feels to draw with pen displays versus pen tablets. You must understand the differences to help you choose between a pen tablet or pen display. More here: [**The drawing experience**](../basics/drawing-experience.md) and here [**Learning digital art**](../basics/learning-digital-art.md)
+* **3D workflows** - I'm not personally involved with 3D work but I have collected some guidance from others here: [**Drawing tablets for 3D workflows**](../basics/scenarios/using-drawtabs-in-3d-workflows.md)
+* **Taking notes** - I don't typically recommend pen tablets or pen displays for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawtabs.md)&#x20;
+* **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../basics/scenarios/edu-vids-with-drawtabs.md)
+* **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/scenarios/gaming-with-drawtabs.md)&#x20;
 * **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](../buying-guide/drawtabs-for-osu.md) &#x20;
 
 ## Look at model numbers, not just names

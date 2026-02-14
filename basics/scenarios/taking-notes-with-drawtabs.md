@@ -1,7 +1,7 @@
 # Taking notes with drawing tablets
 
 {% hint style="info" %}
-First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../types-of-drawing-tablets/)
+First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../types-of-drawtabs/)
 
 Then look through the buying guide for details: [buying guide](../../buying-a-drawing-tablet/)
 {% endhint %}
@@ -55,7 +55,7 @@ Pen displays, because they do have a screen, generally feel more natural for not
 
 ## Applications for taking notes
 
-See the note taking section here: [**Applications**](taking-notes-with-drawing-tablets.md#applications)&#x20;
+See the note taking section here: [**Applications**](taking-notes-with-drawtabs.md#applications)&#x20;
 
 ## Resources
 

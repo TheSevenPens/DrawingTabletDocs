@@ -112,7 +112,7 @@ However no pen displays support wireless connectivity. You will always have at l
 
 <mark style="background-color:purple;">WINNER: Pen displays</mark>
 
-In general I do not recommend taking notes with pen displays. I think that standalone tablets are much better for no taking. But compared to a pen tablet a pen display is certainly much better because you can see what you're doing with the pen and so it's just more intuitive and feels like you're working with pen and paper. More here: [**taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawing-tablets.md).
+In general I do not recommend taking notes with pen displays. I think that standalone tablets are much better for no taking. But compared to a pen tablet a pen display is certainly much better because you can see what you're doing with the pen and so it's just more intuitive and feels like you're working with pen and paper. More here: [**taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawtabs.md).
 
 ## Surviving a fall&#x20;
 
@@ -150,7 +150,7 @@ Pen tablets are considerably thinner and weigh less.
 * Most people feel like they have press UNDO much less frequently with a pen display because the stroke more often goes where they intended.
 * With a pen tablet, you **must** configure the tablet's active area to map to your display so that there is no distortion while drawing or moving the pen. (This is done with a "Force proportions" setting in the tablet driver.) With pen displays, this is not required. They are pre-configured correctly. More here: [matching aspect ratios with Force proportions](../guides/customizing/force-proportions.md).&#x20;
 
-More here: [**The drawing experience**](../basics/the-drawing-experience.md)&#x20;
+More here: [**The drawing experience**](../basics/drawing-experience.md)&#x20;
 
 ## Portability
 

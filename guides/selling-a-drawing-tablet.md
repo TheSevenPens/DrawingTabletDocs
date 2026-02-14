@@ -5,7 +5,7 @@
 These docs may help you:
 
 * [Buying used drawing tablets](../buying-guide/buying-used.md)
-* [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)
+* [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawtab.md)
 
 ## Where to sell
 
@@ -42,7 +42,7 @@ These docs may help you:
 
 ## Tablet operating condition
 
-* If at all possible, test the tablet. Here are some things to look for: [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawing-tablet.md)&#x20;
+* If at all possible, test the tablet. Here are some things to look for: [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawtab.md)&#x20;
 * If you have not tested it, BE CLEAR that you haven't tested it.
 * The surface of the tablet is CRITICAL for someone buying the tablet. Move the pen across the surface where someone draws, if you can feel bumps and scratches, you should explicitly mention that in the listing.
 
