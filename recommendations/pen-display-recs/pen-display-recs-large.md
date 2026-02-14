@@ -40,4 +40,4 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## Resources
 
-* [**22" pen displays compared (2024)**](../comparisons/2024-22-pen-displays-compared.md)&#x20;
+* [**22" pen displays compared (2024)**](../comparisons/2024-22inch-pen-displays-compared.md)&#x20;
