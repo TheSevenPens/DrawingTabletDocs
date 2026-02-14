@@ -6,7 +6,7 @@ If you are interested in playing osu with a drawing tablet, then do not rely on 
 
 Instead, the definitive resource to consult is [**Kuuube's tablet buying guide**](../resources/community/kuuube/kuuubes-tablet-buying-guide.md).&#x20;
 
-If you do want a quick answer now, the One by Wacom (CTL-x72) series of tablets are excellent for osu. More here: [notes on CTL-x72 tablets](../catalog/catalog-drawtabss/wacom/one-by-wacom/wacom-ctlx72-notes.md).
+If you do want a quick answer now, the One by Wacom (CTL-x72) series of tablets are excellent for osu. More here: [notes on CTL-x72 tablets](../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md).
 
 * One by Wacom Small (CTL-472)
 * One by Wacom Medium (CTL-672)

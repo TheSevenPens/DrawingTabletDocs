@@ -82,9 +82,9 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 
 If you already have a compatible Apple iPad and Apple Pencil, consider whether your current device meets your drawing needs.&#x20;
 
-* [Apple iPad vs drawing tablets](../catalog/catalog-drawtabss/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad vs drawing tablets](../catalog/catalog-drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
 * [Apple Pencil vs EMR pens](../catalog/catalog-pens/apple-pencil/apple-pencil-notes.md)
-* [my Notes on Apple iPad](../catalog/catalog-drawtabss/apple/apple-ipad-notes.md)
+* [my Notes on Apple iPad](../catalog/catalog-drawtabs/apple/apple-ipad-notes.md)
 
 ## **Non-pen inputs**
 

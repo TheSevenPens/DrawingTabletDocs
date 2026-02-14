@@ -7,9 +7,9 @@ For more information:
 
 About iPad:
 
-* [**Notes on Apple iPad**](../../catalog-drawtabss/apple/apple-ipad-notes.md)&#x20;
-* [**Apple iPad versus drawing tablets**](../../catalog-drawtabss/apple/apple-ipad-vs-drawing-tablets.md)
-* [**Apple iPad versus Samsung Galaxy Tab S**](../../catalog-drawtabss/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [**Notes on Apple iPad**](../../catalog-drawtabs/apple/apple-ipad-notes.md)&#x20;
+* [**Apple iPad versus drawing tablets**](../../catalog-drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
+* [**Apple iPad versus Samsung Galaxy Tab S**](../../catalog-drawtabs/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
 
 ## Overview
