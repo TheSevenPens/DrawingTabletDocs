@@ -28,7 +28,7 @@ For the exact brands and cables I use for pen tablets: [**Cables I use to connec
 
 These days the ports on pen tablets are all USB C ports. However older tablets used different kinds of ports. These could be micro USB or mini USB. And cables that have micro USB ends or mini USB ends are getting more difficult to find. For this reason I prefer to continue to use USB C cables but use adapters for these older tablets if possible.
 
-More here: [**Cable adapters**](../../../accessory-links/cable-adapters.md)
+More here: [**Cable adapters**](../../../catalog/catalog-accessories/cable-adapters.md)
 
 ## Using 3rd-party cables for pen displays
 

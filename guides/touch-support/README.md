@@ -62,7 +62,7 @@ All tablets that have touch allow a user to disable touch support
 
 **Drawing gloves to help with palm rejection.**
 
-Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../../accessory-links/drawing-gloves.md).&#x20;
+Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../../catalog/catalog-accessories/drawing-gloves.md).&#x20;
 
 ## **My own use of touch**
 

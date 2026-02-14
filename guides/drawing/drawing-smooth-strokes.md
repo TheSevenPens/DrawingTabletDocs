@@ -39,7 +39,7 @@ Consider how you hold you pen. Different techniques of holding your pen can affe
 
 Using a digital; pen on a very smooth tablet surface can result in the pen feeling "slippery" as you draw. And so the pen often seems to "slide away" from the intended path of the stroke you are trying to make.  This is a common complain for iPads because an iPad's surface if very smooth glass.
 
-Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../accessory-links/surface-protectors/).
+Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../catalog/catalog-accessories/surface-protectors/).
 
 ## Use a felt nib
 
