@@ -59,7 +59,7 @@
     * [2024 Drawing tablet tier list](recommendations/comparisons/2024-drawing-tablet-tier-list.md)
     * [2024 Large pen tablets compared](recommendations/comparisons/2024-large-pen-tablets-compared.md)
     * [2024 22" pen displays compared](recommendations/comparisons/2024-22-pen-displays-compared.md)
-    * [2023 13" pen displays compared](recommendations/comparisons/compared-huion-gs1331-xppen-cd130fh.md)
+    * [2023 13" pen displays compared](recommendations/comparisons/2023-compared-huion-gs1331-xppen-cd130fh.md)
   * [Scenarios](recommendations/scenarios/README.md)
     * [Whiteboarding recommendations](recommendations/scenarios/whiteboarding-recs.md "Whiteboarding")
     * [Note-taking recommendations](recommendations/scenarios/note-taking-recs.md "Note-taking")
