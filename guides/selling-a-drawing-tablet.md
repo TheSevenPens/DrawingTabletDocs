@@ -4,7 +4,7 @@
 
 These docs may help you:
 
-* [Buying used drawing tablets](../buying-guide/buying-used.md)
+* [Buying used drawing tablets](../buying-a-drawing-tablet/buying-used.md)
 * [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawtab.md)
 
 ## Where to sell

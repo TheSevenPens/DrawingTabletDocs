@@ -160,7 +160,7 @@ More here: [**Operating systems**](../guides/operating-systems/)&#x20;
 * **Taking notes** - I don't typically recommend pen tablets or pen displays for note taking. But some people really do like doing this. Instead I suggest standalone devices like an iPad which I think work much better. More here: [**Taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawtabs.md)&#x20;
 * **Educational videos** - You've probably seen those Khan academy videos. Those are done with a drawing tablet. More here: making educational videos. More here: [**Making educational videos with a drawing tablet**](../basics/scenarios/edu-vids-with-drawtabs.md)
 * **Gaming** - some people actually play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/scenarios/gaming-with-drawtabs.md)&#x20;
-* **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](../buying-guide/drawtabs-for-osu.md) &#x20;
+* **Playing osu!** - If you want to play osu!, there are very specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](drawtabs-for-osu.md) &#x20;
 
 ## Look at model numbers, not just names
 
@@ -178,7 +178,7 @@ More here:&#x20;
 
 ## Buying used drawing tablets
 
-If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](../buying-guide/buying-used.md)    &#x20;
+If you buy a used tablet, you could save yourself some significant money but you should be prepared for the issues you might face buying a used tablet. More here: [**Buying a used tablet**](buying-used.md)    &#x20;
 
 ## Power
 
@@ -186,7 +186,7 @@ Depending on the kind of tablet it will draw different amounts of power. Pen tab
 
 ## So-called "PRO" tablets
 
-Some tablets are labelled "PRO"- for example Wacom Cintiq Pro or Wacom Intuos Pro. But there is no clear definition of Pro in the industry. And many new non-Pro tablets are better than older Pro tablets. More here: [**Buying "PRO" tablets**](../buying-guide/pro-tablets.md)
+Some tablets are labelled "PRO"- for example Wacom Cintiq Pro or Wacom Intuos Pro. But there is no clear definition of Pro in the industry. And many new non-Pro tablets are better than older Pro tablets. More here: [**Buying "PRO" tablets**](pro-tablets.md)
 
 ## Picking tablets with more recent tech
 

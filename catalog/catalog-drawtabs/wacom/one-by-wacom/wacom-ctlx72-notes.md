@@ -7,7 +7,7 @@ The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good table
 ## Availability
 
 * Availability - As of December 2025, we see that retail inventories of these tablets has greatly diminished. It's getting very hard to find one. And those new one you can find are often marked up to a much higher price.
-* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying-guide/buying-used.md)
+* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying-a-drawing-tablet/buying-used.md)
 
 ## Future
 
@@ -115,7 +115,7 @@ There is a slight amount of texture on the surface to keep the pen from feeling 
 
 ### Osu!
 
-The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../../buying-guide/drawtabs-for-osu.md)
+The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../../buying-a-drawing-tablet/drawtabs-for-osu.md)
 
 
 

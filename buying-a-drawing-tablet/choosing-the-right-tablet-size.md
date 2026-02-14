@@ -78,7 +78,7 @@ Check if there is a way you can try a tablet before you buy it. For example
 
 ## Simulate the tablet before you buy
 
-If you can get access to the tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](../buying-guide/simulating-tablet-size.md).&#x20;
+If you can get access to the tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](simulating-tablet-size.md).&#x20;
 
 ## **In relation to paper size**
 
