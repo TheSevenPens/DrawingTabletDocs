@@ -1,0 +1,8 @@
+Scanning assets in C:\Users\seven\Documents\GitHub\DrawingTabletDocs\.gitbook\assets...
+Found 755 asset files.
+Scanning 743 markdown files for references...
+
+Summary:
+Total assets: 755
+Referenced assets: 755
+Orphan assets: 0
