@@ -57,7 +57,7 @@ The user manual will show diagrams like these below indicating how pen displays 
 
 
 
-<figure><img src="../.gitbook/assets/Slide_20250107_215246 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Slide_20250107_215246 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Slide_20250107_215322.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

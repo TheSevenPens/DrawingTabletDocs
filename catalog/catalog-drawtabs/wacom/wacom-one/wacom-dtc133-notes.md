@@ -94,7 +94,7 @@ You can purchase it from the Wacom store: [https://estore.wacom.com/en-us/wacom-
 
 
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/ack44506z_main (2).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/ack44506z_main (2) (2).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 

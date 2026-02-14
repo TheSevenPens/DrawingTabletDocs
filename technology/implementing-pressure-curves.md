@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/Slide_20240722_141622 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Slide_20240722_141622 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Ultimately a pressure curve is a mathematical function that takes input logical pressure (p) and returns an output logical pressure (p’)
 

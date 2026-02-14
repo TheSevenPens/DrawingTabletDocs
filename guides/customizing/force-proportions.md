@@ -14,7 +14,7 @@ If the aspect ratio of your pen tablet's active area does not match your monitor
 
 This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD. You can **EASILY** correct this by enabling FORCE PROPORTIONS.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/Slide6 (1).JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Slide6 (1) (1).JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Pen tablets are prone to distortion
 

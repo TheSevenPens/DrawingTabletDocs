@@ -12,7 +12,7 @@ Because drawing tablet pens usually have a case of black plastic they can be dif
 
 Here is an example:
 
-<figure><img src="../../.gitbook/assets/HUIONPW550S (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/HUIONPW550S (2) (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 

@@ -188,11 +188,11 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 ## Photos
 
-![](<../../../../.gitbook/assets/20240831_125710 (Large) (1).jpg>)  ![](<../../../../.gitbook/assets/20240831_125734 (Large) (3).jpg>)
+![](<../../../../.gitbook/assets/20240831_125710 (Large) (1) (1).jpg>)  ![](<../../../../.gitbook/assets/20240831_125734 (Large) (3) (3).jpg>)
 
 
 
-![](<../../../../.gitbook/assets/20240831_130151 (Large).jpg>)   ![](<../../../../.gitbook/assets/20240831_130158 (Large) (1).jpg>)
+![](<../../../../.gitbook/assets/20240831_130151 (Large).jpg>)   ![](<../../../../.gitbook/assets/20240831_130158 (Large) (1) (1).jpg>)
 
 ![](<../../../../.gitbook/assets/20240831_130210 (Large).jpg>)  ![](<../../../../.gitbook/assets/20240831_130246 (Large).jpg>)
 

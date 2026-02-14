@@ -58,7 +58,7 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 At the time of launch you can see how bad the strokes look with this tablet and the new CP-923 pen.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

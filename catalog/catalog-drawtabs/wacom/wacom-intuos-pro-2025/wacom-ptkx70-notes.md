@@ -68,7 +68,7 @@ From 2009 to 2025, there have been 4 editions of professional pen tablets from W
 
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_224944 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20250429_224944 (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -177,7 +177,7 @@ Unlike the previous Intuos Pro 2017 (PTK-x60) series, the Intuos Pro 2025 (PTK-x
 
 The PTK-x70 series tablers comes with pairs of ExpressKey rings and dials.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_162929 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20250430_162929 (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Though do be aware that the number of ExpressKeys and dials depends on which size tablet in the PTK-x70 series you get.
 
@@ -213,11 +213,11 @@ Another topic that comes up with the expresskeys is how the hand that uses the e
 
 With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without  covering the active area.
 
-<figure><img src="../../../../.gitbook/assets/PTH-660-two-hands (Large) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/PTH-660-two-hands (Large) (2) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 However with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drtawing hand out of the way much more often.
 
-<figure><img src="../../../../.gitbook/assets/ptk-670-two-hands (Large) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ptk-670-two-hands (Large) (2) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Usage notes on dials
 
@@ -383,7 +383,7 @@ The tablet supports both wired and wireless connection.
 
 The port is located on the right side, close to the top.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_052444 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20250501_052444 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * These tablets support both wired and wireless connection.
 * USB-C Port location: top right

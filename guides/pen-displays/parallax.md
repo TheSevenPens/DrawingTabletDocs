@@ -52,7 +52,7 @@ Here is a thick sheet of glass with lots of parallax
 
 Compare it to a very thin sheet of glass with much less parallax
 
-<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Lamination
 

@@ -61,7 +61,7 @@ I found this in a reddit post. The AG sparkle is everywhere but is most noticeab
 
 **Huion Kamvas Pro 24 (4K) \[GT2401]**
 
-<img src="../../.gitbook/assets/image (328).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (328) (1).png" alt="" data-size="original">
 
 **XP-Pen Artist Pro 16TP \[MD160U]**
 

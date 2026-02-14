@@ -82,7 +82,7 @@ VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corn
 
 RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it..
 
-<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Legs
 

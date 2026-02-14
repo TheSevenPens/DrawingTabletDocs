@@ -77,7 +77,7 @@ If your pen there are some larger brackets available also.
 
 One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
 
-<figure><img src="../../../.gitbook/assets/STAND-VAD1_04psd4 (1).webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/STAND-VAD1_04psd4 (1) (1).webp" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/p1p1a_74b1c91e-ca38-41f6-83e2-1dc4d0e0fb23.webp" alt="" width="188"><figcaption></figcaption></figure>
 

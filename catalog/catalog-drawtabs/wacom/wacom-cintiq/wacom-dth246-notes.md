@@ -110,7 +110,7 @@ On the back of the table there are three ports
 
 First, this tablet requires you to always use the power adapter as shown below.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 For video signal and data, you have multiple options
 

@@ -16,4 +16,4 @@ I've also had good luck with the "Amazon Basics Premium Aluminum USB-C to HDMI C
 
 This comes in different lengths (6ft and 3ft) and different refresh rates (60Hz and 30Hz). Make sure you buy one long enough for your needs and get the 60Hz version.
 
-<div align="left" data-full-width="false"><figure><img src="../../../../.gitbook/assets/amazon-basics usb-to-hdmi cable (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../../../.gitbook/assets/amazon-basics usb-to-hdmi cable (1) (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>

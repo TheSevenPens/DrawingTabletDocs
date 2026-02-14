@@ -150,7 +150,7 @@ Examples
 
 * [https://www.reddit.com/r/wacom/comments/1p3p2ba/round\_2](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2)
 
-<figure><img src="../../../.gitbook/assets/PP3 pen button fell out (1).jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PP3 pen button fell out (1) (1).jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
 
 
 

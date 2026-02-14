@@ -30,7 +30,7 @@ Once you've disconnected you can always reconnect the display by clicking on tha
 
 
 
-<figure><img src="../../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (589) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

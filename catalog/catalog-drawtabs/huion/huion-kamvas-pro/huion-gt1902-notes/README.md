@@ -160,7 +160,7 @@ These pens are very good in terms of pressure. Much more here: [**Huion PW600 an
 
 GOOD. LOW amounts of wobble in stroke.
 
-<figure><img src="../../../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Display experience**
 

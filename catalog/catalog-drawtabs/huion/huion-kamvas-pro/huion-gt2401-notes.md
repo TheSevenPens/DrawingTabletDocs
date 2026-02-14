@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](<../../../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2).png>)
+![](<../../../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2) (2).png>)
 
 
 

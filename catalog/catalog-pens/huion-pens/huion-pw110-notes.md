@@ -22,15 +22,15 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 
 
-<figure><img src="../../../.gitbook/assets/IMG_0098 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_0098 (Large) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/IMG_0104 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_0104 (Large) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/IMG_0102 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_0102 (Large) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Compatibility
 
@@ -53,4 +53,4 @@ I only have 2 unit and based on my testing
 
 &#x20;These numbers are tyypical of PenTech 3.0 pens such as the PW517
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

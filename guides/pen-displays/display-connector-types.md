@@ -23,11 +23,11 @@ Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/
 
 Normal-sized DisplayPort connectors
 
-![](../../.gitbook/assets/DisplayPort\_connectors.jpg)
+![](/broken/files/KlDAaCxbFb6tBKPYTVr8)
 
 Mini-DisplayPort connectors
 
-![](../../.gitbook/assets/minidisplayport\_connectors.webp)
+![](/broken/files/6UZOF4mTTSgNDGs3PenO)
 
 ## USB-C connectors
 
@@ -49,7 +49,7 @@ Thunderbolt 3 and 4 use the same USB-C port shape.&#x20;
 
 The important thing about thunderbolt cables and ports is that they are required to carry a display signal. So, if your USB
 
-Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.wikipedia.org/wiki/Thunderbolt\_\(interface\))
+Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_\(interface\))
 
 ![](../../.gitbook/assets/thunderbolt34.jpg)
 
@@ -63,7 +63,7 @@ Thunderbolt 2 connectors use the min-DisplayPort connector type. And again by de
 
 USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
 
-![](../../.gitbook/assets/usba\_connectors.jpg)
+![](/broken/files/vp9ObbPGpcvDRTYlaDdS)
 
 ## Other resources
 

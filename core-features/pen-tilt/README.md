@@ -4,7 +4,7 @@
 
 Almost all drawing tablets can detect the tilt of the pen. The support tilt for drawing tablets usually ranges from 0 degrees to 60 degrees.
 
-<figure><img src="../../.gitbook/assets/Slide_20240506_184008 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_20240506_184008 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This video demonstrates tilt. I highly recommend you watch it.
 

@@ -2,13 +2,13 @@
 
 ## Overview
 
-This problem happens on Windows due to some interaction between the Windows Ink system and an application that uses the pen.&#x20;
+This problem happens on Windows due to some interaction between the Windows Ink system and an application that uses the pen.
 
 ## Symptoms
 
 When drawing a stroke (for example simple curve). You may notice that the there is a slightly delay before something is drawn. The resulting stroke will either:
 
-* (a) skip over the beginning part of the stroke&#x20;
+* (a) skip over the beginning part of the stroke
 * or (b) have a straight line drawn from where you put the pen down to a little latter in stroke.
 
 <figure><img src="../.gitbook/assets/straight_line_hook_at_start_of_stroke.png" alt=""><figcaption></figcaption></figure>
@@ -19,13 +19,13 @@ The same delay at the beginning of dragging the pen, can manifest in other user 
 
 ## Examples
 
-## ![](<../.gitbook/assets/straight_line_at_start_of_stroke_example.png>)
+## ![](<../.gitbook/assets/straight_line_at_start_of_stroke_example (2).png>)
 
 ## Diagnostic questions to answer
 
 * Does it happen in a specific app or all apps?
-* Does it happen in this online app? [**7P online tablet tester**](../resources/sevenpens-tablet-tester.md)&#x20;
-* Does it happen in the driver pressure test region?&#x20;
+* Does it happen in this online app? [**7P online tablet tester**](../resources/sevenpens-tablet-tester.md)
+* Does it happen in the driver pressure test region?
 
 ## Potential solutions
 

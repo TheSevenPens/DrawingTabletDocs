@@ -2,17 +2,17 @@
 
 ## Overview
 
-These "hooks" often seem to be an artifact of various pen smoothing/stabilization techniques.&#x20;
+These "hooks" often seem to be an artifact of various pen smoothing/stabilization techniques.
 
 ## Smoothing
 
 In the example lots of quick flicks were used to draw several strokes. Lots of smoothing was used. You can clearly see that some lines have hooks at the beginning/
 
-![](<../.gitbook/assets/hooks_at_start_of_strokes_with_smoothing.png>)
+![](<../.gitbook/assets/hooks_at_start_of_strokes_with_smoothing (1).png>)
 
 Below the same style flicks were used to draw strokes but this time the smoothing was set to zero.
 
-![](<../.gitbook/assets/hooks_at_start_of_strokes_without_smoothing.png>)
+![](<../.gitbook/assets/hooks_at_start_of_strokes_without_smoothing (1).png>)
 
 ## Angle of fast stroke
 
@@ -36,4 +36,3 @@ A low IAF is great. but if you are doing a lot of strokes, the sensitivity can r
 * [https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how\_remove\_that\_hook\_or\_s\_in\_the\_beginning\_and/](https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how_remove_that_hook_or_s_in_the_beginning_and/)
 
 ##
-

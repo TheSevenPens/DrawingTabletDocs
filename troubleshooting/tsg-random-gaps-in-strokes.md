@@ -2,13 +2,11 @@
 
 This manifests as gaps in strokes.
 
-The gaps will not be aligned vertically or horizontally - which is a sign of a different problem.&#x20;
+The gaps will not be aligned vertically or horizontally - which is a sign of a different problem.
 
 ### Examples
 
-![](<../.gitbook/assets/random_gaps_in_strokes_example.png>)
-
-
+![](<../.gitbook/assets/random_gaps_in_strokes_example (2).png>)
 
 ##
 
@@ -19,9 +17,9 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
 * Something is wrong with the pen
 * Possibly electromagnetic interference from some other device
 
-## Things to try&#x20;
+## Things to try
 
-* First try the [**Common drawing troubleshooting steps**](common-drawing-troubleshooting-steps.md).&#x20;
+* First try the [**Common drawing troubleshooting steps**](common-drawing-troubleshooting-steps.md).
 * Check if this is associated with a specific pressure range.
   * In the driver try increasing the lower bound of the pressure range and see how the gaps react.
     * Do they develop earlier in the stroke?
@@ -34,9 +32,4 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
 
 ##
 
-
-
-
-
 ##
-

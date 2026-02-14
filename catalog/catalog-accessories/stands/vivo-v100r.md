@@ -42,7 +42,7 @@ The base was surprisingly heavy.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/20240818_154228 (Large) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20240818_154228 (Large) (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 I attached the table with the screws and used the washers in this way because I thought it would be a more secure fit.
 
@@ -60,7 +60,7 @@ The rotation on the stand goes about +/- 45 degrees
 
 
 
-<figure><img src="../../../.gitbook/assets/20240818_154500 (Large) (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20240818_154500 (Large) (1) (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 
 

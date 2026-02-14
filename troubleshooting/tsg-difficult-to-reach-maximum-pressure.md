@@ -34,7 +34,7 @@ For example one of my Wacom pens requires so much force to get to 100% that, if 
 
 Below you can see how different the pressure response of this pen is compared to every other pen I have.&#x20;
 
-<figure><img src="../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (540) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to address
 
@@ -54,7 +54,7 @@ Try adjusting the pressure curve in the driver until the problem goes away. Spec
 
 Here are some examples below.
 
-<figure><img src="../.gitbook/assets/image (543).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (543) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Software issue
 

@@ -16,7 +16,7 @@ Tablet expert Kuuube has measure the IAF of the LP-1100K as <= 1gf.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (600) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

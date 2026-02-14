@@ -12,7 +12,7 @@ Rating: VERY GOOD. very low amount of AG sparkle visible. Your eyes would have t
 
 Rating: VERY GOOD.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Slide_20241117_111321 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20241117_111321 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Ports
 

@@ -12,13 +12,13 @@ Your drawing tablet likely came with a nib remover. It's usually either a piece 
 
 Here's a simple nib remover.
 
-![](../../.gitbook/assets/xencelabs\_nib\_remover.jpg)
+![](/broken/files/YA5ONn7xum0ywdAjPwkW)
 
 
 
 This pen case has a nib remover (the small metal ring) built in.
 
-<figure><img src="../../.gitbook/assets/XP-Pen nib remover 20923_09_22 small (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XP-Pen nib remover 20923_09_22 small (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Alternatives to nib removers
 

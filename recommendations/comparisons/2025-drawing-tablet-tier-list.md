@@ -34,7 +34,7 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 
 ## Pen tablets
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_tablets_20251112_191437 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_tablets_20251112_191437 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pen displays
 

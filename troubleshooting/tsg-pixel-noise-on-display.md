@@ -1,8 +1,8 @@
-# Troubleshoot pixel noise on display
+# TSG: Pixel noise on display
 
 ## Photo Examples
 
-<img src="../.gitbook/assets/pixelnoise1.jpg" alt="" data-size="original">![](<../.gitbook/assets/pixelnoise2 (1).jpg>)
+<img src="../.gitbook/assets/pixelnoise1.jpg" alt="" data-size="original">![](<../.gitbook/assets/pixelnoise2 (1) (1).jpg>)
 
 ![](../.gitbook/assets/pixelnoise3.jpg)
 

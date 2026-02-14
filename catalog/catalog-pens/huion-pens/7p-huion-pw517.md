@@ -35,7 +35,7 @@ I have 7 units of this pen.&#x20;
 
 Like other PenTech 3.0 pens, there is a lot of variation in IAF and max pressure.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Consider the PW550 series pens as a potential upgrade
 

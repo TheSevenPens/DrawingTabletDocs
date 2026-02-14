@@ -1,4 +1,4 @@
-# Huion Inspiroy 2 L (H1061P)  notes
+# Huion Inspiroy 2 L (H1061P) notes
 
 ## **Summary**
 
@@ -49,11 +49,11 @@ The tablet does NOT support wireless connectivity. It must be connected with USB
 
 I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.&#x20;
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_145937 (Large) (1).jpg" alt="" width="375"><figcaption><p>3 group keys on left and 4 of 8 buttons shown.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_145937 (Large) (1) (1).jpg" alt="" width="375"><figcaption><p>3 group keys on left and 4 of 8 buttons shown.</p></figcaption></figure></div>
 
 
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_150009 (Large) (1).jpg" alt="" width="375"><figcaption><p>The scroller</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/20250307_150009 (Large) (1) (1).jpg" alt="" width="375"><figcaption><p>The scroller</p></figcaption></figure></div>
 
 
 

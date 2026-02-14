@@ -51,7 +51,7 @@ You can eliminate this wobble with Smoothing:
 * &#x20;**Clip Studio Paint**&#x20;
   * Stabilization of 50 got rid of it
 
-<figure><img src="../../../.gitbook/assets/Diag Wobble Xencelabs Pen Tablet Medium (BPH1212W-A) 2024_10_08 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Diag Wobble Xencelabs Pen Tablet Medium (BPH1212W-A) 2024_10_08 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

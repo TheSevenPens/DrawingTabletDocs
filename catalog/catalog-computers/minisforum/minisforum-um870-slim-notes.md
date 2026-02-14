@@ -88,7 +88,7 @@ Although I am very satisfied with this many PC I am looking forward to future mi
 
 
 
-<figure><img src="../../../.gitbook/assets/20250309_162044 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20250309_162044 (Large) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -1,4 +1,4 @@
-# Testing pressure in the tablet driver
+# DIAG: Testing pressure in the tablet driver
 
 If you are having problems with pressure, one great diagnostic test you can run is to try testing the pressure in the tablet driver itself.
 
@@ -10,7 +10,7 @@ There are two locations in the Wacom Tablet Properties app where you can see the
 
 First, you can see the pressure under the Pen tab. It is shown in the **Current Pressure** bar.&#x20;
 
-![](<../.gitbook/assets/image (190).png>)
+![](<../.gitbook/assets/image (190) (1).png>)
 
 Second, you can also click **Customize** which will bring up the Pen Feel Details dialog.
 

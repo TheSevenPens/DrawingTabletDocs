@@ -149,7 +149,7 @@ The tablet can connect to your computer with a single USB-C cable. If more power
 
 HOWEVER: The tabler DOES NOT come with these cables. You'll have to order them separately.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20241109_035317 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Slide_20241109_035317 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3-in-1 cable connection
 
