@@ -1,4 +1,4 @@
-# Connecting a drawing tablet to an Android device
+# Using drawing tablets with Android devices
 
 ## Overview
 
@@ -54,7 +54,7 @@ Without this feature, if you draw shape on the on drawing tablet it will show up
 
 With a normal desktop computer, you can enable "Force Proportions" in the tablet driver to fix this problem. But you cannot install any tablet drivers for android devices. So, you must rely on this happening automatically. Unfortunately not all combinations of drawing tablets and android devices can do this.&#x20;
 
-More here: [**Force proportions**](../../customizing/matching-aspect-ratios.md)
+More here: [**Force proportions**](../../customizing/force-proportions.md)
 
 ### Active area mapping for landscape and portrait modes
 

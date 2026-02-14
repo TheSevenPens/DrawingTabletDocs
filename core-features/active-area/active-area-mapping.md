@@ -18,7 +18,7 @@ For pen tablets (screenless tablets) mapping is the most complex, since the digi
 
 ### Dealing with mismatched aspect ratios
 
-Because the tablet's active area and the display may have different aspect ratios, distortion can be introduced unless you enable Force Proportions: [Match aspect ratios with Force proportions](../../guides/customizing/matching-aspect-ratios.md)
+Because the tablet's active area and the display may have different aspect ratios, distortion can be introduced unless you enable Force Proportions: [Match aspect ratios with Force proportions](../../guides/customizing/force-proportions.md)
 
 ## Display Toggle for pen tablets and multiple monitors
 

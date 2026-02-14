@@ -17,7 +17,7 @@ More information:
 Keep in mind the general limitations that apply to pen tablets when used with a Chromebook
 
 * No pressure curves
-* No force proportions - so drawing is distorted. See: [**Force proportions**](../../customizing/matching-aspect-ratios.md)
+* No force proportions - so drawing is distorted. See: [**Force proportions**](../../customizing/force-proportions.md)
 * etc.
 
 **Wacom One M (CTC-6110WL)**

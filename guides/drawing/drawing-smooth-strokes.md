@@ -24,7 +24,7 @@ You are user and your drawing style can affect the smoothness of a stroke
 
 ## <mark style="color:red;">For pen tablets (screenless tablets), use Force Proportions to match aspect ratios!!!</mark>
 
-If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [**Use Force Proportions to match aspect ratios**](../customizing/matching-aspect-ratios.md).&#x20;
+If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [**Use Force Proportions to match aspect ratios**](../customizing/force-proportions.md).&#x20;
 
 Please do check for this. Many people have been using their tablets for years with mismatched aspect ratios and when they make the ratios match it is a BIG DIFFERENCE in their ability to draw strokes correctly.
 

@@ -1,4 +1,4 @@
-# Windows PNP support for drawing tablets
+# Windows PNP support
 
 ## Introduction
 
@@ -28,7 +28,7 @@ The key things you should know
 There are a large set of limitations that come with windows PNP mode compared to manufacturer tablet drivers.
 
 * You cannot control how to map the active area of your tablet to a display in any way
-  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../../customizing/matching-aspect-ratios.md)
+  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../../customizing/force-proportions.md)
 * You cannot control what the buttons on the pen does.
 * You cannot control what the buttons on the tablet do.&#x20;
 

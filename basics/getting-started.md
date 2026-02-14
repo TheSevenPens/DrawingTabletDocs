@@ -110,7 +110,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 
 * <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You don't have to do this for pen displays.&#x20;
 * If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
-* Explanation and instructions here: [**Matching aspect ratios with Force Proportions**](../guides/customizing/matching-aspect-ratios.md).&#x20;
+* Explanation and instructions here: [**Matching aspect ratios with Force Proportions**](../guides/customizing/force-proportions.md).&#x20;
 
 ## Adjust the pressure curve to give you more control
 

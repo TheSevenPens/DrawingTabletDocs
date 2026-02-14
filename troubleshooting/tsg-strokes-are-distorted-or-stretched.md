@@ -10,7 +10,7 @@ This distortion or stretching happens because the active area of the tablet (the
 
 ## How to fix
 
-To solve this, use Force Proportions in the tablet driver: [**Match aspect ratios with Force Proportions**](../guides/customizing/matching-aspect-ratios.md)
+To solve this, use Force Proportions in the tablet driver: [**Match aspect ratios with Force Proportions**](../guides/customizing/force-proportions.md)
 
 ### What about distortion on Android?
 

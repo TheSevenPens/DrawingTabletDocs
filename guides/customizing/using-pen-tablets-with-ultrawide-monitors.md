@@ -1,22 +1,20 @@
 # Using pen tablets with ultrawide monitors
 
+
+
+## Overview
+
 Using a pen tablet with a widescreen monitor presents some challenges and some new opportunities with a pen tablet due to the extreme differences in aspect ratio.
 
-## Background: a common situation for typical monitors
+## The problem
 
-Most pen tablets have  an aspect ratio of around 16:10&#x20;
+If your pen tablet and monitor have different aspect ratios (let's say 16:10 or 16:9) the mismatch in aspect ratios, causes strokes to be slightly distorted. For example, a circle drawn on the the pen tablet will appear as an oval on the monitor.
 
-Many monitors have an aspect ratio of 16:9.
-
-The mismatch in aspect ratios, causes strokes to be slightly distorted. For example, a circle drawn on the the pen tablet will appear as an oval on the monitor.
-
-How can we avoid distortion?
-
-With a widescreen monitor there are some interesting options.
+Widescreen or ultrawidescreen monitors have very different aspect ratios. So, the mismatch might be between 16:10 and 32:9. In this case, the distortion will be extreme.
 
 ## Option 1: Use Force Proportions. Map a proportional part of the tablet's active area to the entire monitor.
 
-The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.&#x20;
+The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.  See: [**Force proportions**](force-proportions.md)
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 

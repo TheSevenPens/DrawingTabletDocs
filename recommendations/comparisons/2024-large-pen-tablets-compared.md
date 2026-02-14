@@ -53,7 +53,7 @@ Third, the Huion Giano overall is very good. It's a very close third to the XP P
 
 None of these tablets have an exact 16:9 (1.78) aspect ratio.&#x20;
 
-So, you should ensure you [**match aspect ratios**](../../guides/customizing/matching-aspect-ratios.md) with your monitor before you start drawing. &#x20;
+So, you should ensure you [**match aspect ratios**](../../guides/customizing/force-proportions.md) with your monitor before you start drawing. &#x20;
 
 ## Pen pressure range info
 

@@ -155,7 +155,7 @@
     * [Lowering the IAF](guides/customizing/lowering-the-iaf.md "Lowering IAF")
     * [Increasing IAF](guides/customizing/increasing-iaf.md)
     * [TestPage](guides/customizing/testpage.md)
-    * [Matching aspect ratios with Force Proportions](guides/customizing/matching-aspect-ratios.md "Force proportions")
+    * [Matching aspect ratios with Force Proportions](guides/customizing/force-proportions.md "Force proportions")
     * [Shrinking the active area](guides/customizing/shrinking-the-active-area.md)
     * [Using precision mode](guides/customizing/using-precision-mode.md)
     * [Mirroring or extending](guides/customizing/mirroring-or-extending.md)

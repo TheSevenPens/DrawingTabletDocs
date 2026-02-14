@@ -12,6 +12,6 @@ Many people mistakenly believe that a pen display is always better than a pen ta
 
 One thing that I often hear is that people find that it feels weird or strange to draw on a pen tablet like their hand isn't drawing what they expect it to draw.
 
-Many times what I found is that people have not configured their pen tablet correctly for their monitor's aspect ratio. More here: [**matching aspect ratios**](../guides/customizing/matching-aspect-ratios.md).
+Many times what I found is that people have not configured their pen tablet correctly for their monitor's aspect ratio. More here: [**matching aspect ratios**](../guides/customizing/force-proportions.md).
 
 So if your tablet is feeling weird, try matching the aspect ratios and give it a few more days. You might find that after this change you enjoy using your pen tablet much more.
