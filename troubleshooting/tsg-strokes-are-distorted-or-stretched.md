@@ -6,7 +6,7 @@ You may notice that you are drawing on your tablet and your shapes become distor
 
 This distortion or stretching happens because the active area of the tablet (the part that senses the pen does that have the same aspect ratio as your display. Don't worry this can be easily fixed.
 
-<figure><img src="../.gitbook/assets/image (629).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/distorted_circle_example.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## How to fix
 
