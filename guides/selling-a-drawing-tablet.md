@@ -4,15 +4,15 @@
 
 These docs may help you:
 
-* [Buying used drawing tablets](../buying-a-drawing-tablet/buying-used.md)
-* [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawtab.md)
+* [Buying used drawing tablets](../buying-drawtabs/buying-used.md)
+* [Inspecting a drawing tablet](../buying-drawtabs/inspecting-a-drawtab.md)
 
 ## Where to sell
 
 * eBay
 * Vinted
 * Facebook Marketplace - popular in North America
-* Craigslist&#x20;
+* Craigslist
 * Sweden
   * Blocket
   * Tradera
@@ -27,7 +27,7 @@ These docs may help you:
 
 ## How to price
 
-* Search on seller locations and see what they are generally  being sold for.
+* Search on seller locations and see what they are generally being sold for.
 
 ## Selling old tablets
 
@@ -36,13 +36,13 @@ These docs may help you:
 
 ## Preparing the tablet
 
-* Thoroughly CLEAN the surfaces tablets and pens.&#x20;
+* Thoroughly CLEAN the surfaces tablets and pens.
   * They have been in contact with human hands and can have all sorts of nasty cruft in their crevices.
-  * See:  [Cleaning a drawing tablet](maintaining-your-drawing-tablet/cleaning-a-drawing-tablet.md)
+  * See: [Cleaning a drawing tablet](maintaining-your-drawing-tablet/cleaning-a-drawing-tablet.md)
 
 ## Tablet operating condition
 
-* If at all possible, test the tablet. Here are some things to look for: [Inspecting a drawing tablet](../buying-a-drawing-tablet/inspecting-a-drawtab.md)&#x20;
+* If at all possible, test the tablet. Here are some things to look for: [Inspecting a drawing tablet](../buying-drawtabs/inspecting-a-drawtab.md)
 * If you have not tested it, BE CLEAR that you haven't tested it.
 * The surface of the tablet is CRITICAL for someone buying the tablet. Move the pen across the surface where someone draws, if you can feel bumps and scratches, you should explicitly mention that in the listing.
 
@@ -54,11 +54,11 @@ These docs may help you:
   * MODEL number of the tablet. See: [Finding the model number of a drawing tablet](general/finding-tablet-model-number.md)
     * This is VERY important many tablets have very similar or the same names and only the model number can be used tell them apart
     * I usually put the model number in parenthesis after the name.
-  * SIZE of the tablet&#x20;
+  * SIZE of the tablet
     * For screenless tablets it will be in the name "SMALL", "L" or "LARGE", etc
     * For screen tablets it will be a number in the name: "Cintiq 16"
   * Some tablets have a YEAR in their name, include it
-  * Good Examples:&#x20;
+  * Good Examples:
     * "Wacom Intuos Large 2017 (PTH-860)"
     * "Wacom Cintiq 16 2025 (DTK168)"
   * Bad examples
@@ -78,4 +78,3 @@ These docs may help you:
 * Include a clear, well-lit pictures of the pen. Pens don't have model numbers so photos are needed to help identify the pen for buyers.
 * Photos should include multiple shots of the drawing surface so that buyers can see how scratched up and worn the surface is.
 *
-

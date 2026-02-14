@@ -15,7 +15,7 @@ If you are new to drawing tablets, read this first: [**Beginner's guide to drawi
 
 Also: [Whiteboarding with drawing tablets](../../basics/scenarios/whiteboarding-with-drawing-tablets.md)
 
-[Pen tablets vs Pen displays](../../buying-a-drawing-tablet/pen-tablets-vs-pen-displays.md)
+[Pen tablets vs Pen displays](../../buying-drawtabs/pen-tablets-vs-pen-displays.md)
 
 
 {% endhint %}

@@ -6,7 +6,7 @@
 
 ## The reality of pen computers
 
-Some people love using pen computers, but [**I don't recommend pen computers**](../../buying-a-drawing-tablet/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
+Some people love using pen computers, but [**I don't recommend pen computers**](../../buying-drawtabs/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
 
 ## Origin of term "pen computer"
 

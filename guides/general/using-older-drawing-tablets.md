@@ -18,7 +18,7 @@ Models I have specifically used with Windows 11:
 
 * They bought the tablet a long time ago but haven't used it recently.
 * It was a tablet that was gifted to them
-* They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-a-drawing-tablet/buying-used.md))
+* They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-drawtabs/buying-used.md))
 
 ## Support lifetime
 
@@ -31,7 +31,7 @@ I don't know about the support lifetimes for other brands.
 When the support lifetime ends for tablet:
 
 * New drivers may explicitly prevent themselves from working with the tablet
-* Customer support will not assist you with the tablet. Instead they will typically suggest that you buy a new tablet&#x20;
+* Customer support will not assist you with the tablet. Instead they will typically suggest that you buy a new tablet
 
 ## Drivers overview
 
@@ -47,18 +47,18 @@ For example today, if you install the latest Wacom tablet drivers and then proce
 
 if the latest drivers do not work with the tablet that you have, then you have two options:
 
-* Use [**Using older tablet drivers** ](../drivers/using-older-tablet-drivers.md)
+* Use [**Using older tablet drivers**](../drivers/using-older-tablet-drivers.md)
 * Use [**OpenTabletDriver**](../drivers/opentabletdriver/)
 
 ## Cabling
 
 These days all drawing tablets have ports so the tablet is separate from cables and those ports are almost always now USB-C ports.
 
-Some older tablets - for example the Wacom Intuos 4 XL - have permanently attached USB cables.If&#x20;
+Some older tablets - for example the Wacom Intuos 4 XL - have permanently attached USB cables.If
 
 Some older pen tablets that have ports, do not use USB-C ports, but instead micro-USB or occasionally mini-USB.
 
-Some older pen displays use proprietary ports and connectors.&#x20;
+Some older pen displays use proprietary ports and connectors.
 
 ## Yellowed plastic
 

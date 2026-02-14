@@ -2,24 +2,24 @@
 
 ## Overview
 
-The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good tablets. I highly recommend them for beginners. They are very reliable, have a good drawing experience, and allow you to explore drawing tablets without spending too much.&#x20;
+The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good tablets. I highly recommend them for beginners. They are very reliable, have a good drawing experience, and allow you to explore drawing tablets without spending too much.
 
 ## Availability
 
 * Availability - As of December 2025, we see that retail inventories of these tablets has greatly diminished. It's getting very hard to find one. And those new one you can find are often marked up to a much higher price.
-* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying-a-drawing-tablet/buying-used.md)
+* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying-drawtabs/buying-used.md)
 
 ## Future
 
-There is NOT a modern Wacom tablet that is a direct successor to this tablet. Officially, Wacom seems to want people to use the Wacom One 2023 (CTC-x6110WL0) pen tablets. But these tablets are not good and I don't even recommend them. more here: [My notes on Wacom One 2023 pen tablets](../wacom-one/wacom-ctcx110wl-notes.md)&#x20;
+There is NOT a modern Wacom tablet that is a direct successor to this tablet. Officially, Wacom seems to want people to use the Wacom One 2023 (CTC-x6110WL0) pen tablets. But these tablets are not good and I don't even recommend them. more here: [My notes on Wacom One 2023 pen tablets](../wacom-one/wacom-ctcx110wl-notes.md)
 
-### &#x20; <a href="#i-do-not-recommend-the-wacom-one-2023-pen-tablets" id="i-do-not-recommend-the-wacom-one-2023-pen-tablets"></a>
+### &#x20;<a href="#i-do-not-recommend-the-wacom-one-2023-pen-tablets" id="i-do-not-recommend-the-wacom-one-2023-pen-tablets"></a>
 
 ## Basics
 
 ### Product information
 
-* One by Wacom Medium&#x20;
+* One by Wacom Medium
   * Model number: CTL-672
   * Released 2019
   * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
@@ -28,7 +28,7 @@ There is NOT a modern Wacom tablet that is a direct successor to this tablet. Of
   * Model number: CTL-472
   * Released: 2019
   * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
-  * User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)&#x20;
+  * User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)
 
 ### Active area
 
@@ -57,10 +57,10 @@ Aspect ratio:
 
 ### **Digitizer specs**
 
-* **Pressure Levels** - 2048.&#x20;
+* **Pressure Levels** - 2048.
   * This may seem low when you see other tablets rated at 8K or 16K pressure levels. Do not worry. 2048 is enough pressure levels for creative tasks. This is absolutely not going to affect the quality of the art you can make with this tablet. I maintain all you need are about 2000 levels of pressure.
 * **Tilt** - this tablet does NOT support tilt
-  * For a beginner this may not be an issue. Many people do not need tilt.&#x20;
+  * For a beginner this may not be an issue. Many people do not need tilt.
 
 ### Device specs
 
@@ -83,7 +83,7 @@ The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen.
 ## **Cabling and connectivity**
 
 * **Cable** - the tablet comes with a Micro USB to USB-A cable. You can use this cable or any cable that supports data.
-  * Instead of this cable, I used my own USB-C to USB-A cable and used a Male Micro USB to Female USB-C adapter. This specific one: [https://www.amazon.com/gp/product/B0BDLB86RT/](https://www.amazon.com/gp/product/B0BDLB86RT/)&#x20;
+  * Instead of this cable, I used my own USB-C to USB-A cable and used a Male Micro USB to Female USB-C adapter. This specific one: [https://www.amazon.com/gp/product/B0BDLB86RT/](https://www.amazon.com/gp/product/B0BDLB86RT/)
 * **Ports** - the port on the tablet is Micro USB. Micro USB is not reversible unlike USB-C, so make sure you are connecting a cable in the right orientation.
 * **Wireless** - These tablets **DO NOT SUPPORT WIRELESS CONNECTIVITY**. You must always use it with a cable.
 
@@ -95,7 +95,7 @@ The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen.
 
 ## ExpressKeys
 
-These tablets do NOT have any buttons or dials on the tablet.&#x20;
+These tablets do NOT have any buttons or dials on the tablet.
 
 ## Touch
 
@@ -115,13 +115,10 @@ There is a slight amount of texture on the surface to keep the pen from feeling 
 
 ### Osu!
 
-The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../../buying-a-drawing-tablet/drawtabs-for-osu.md)
-
-
+The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../../buying-drawtabs/drawtabs-for-osu.md)
 
 ## **Box photos**
 
 <figure><img src="../../../../.gitbook/assets/20260102_154932 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/20260102_154943 (Large).jpg" alt=""><figcaption></figcaption></figure>
-

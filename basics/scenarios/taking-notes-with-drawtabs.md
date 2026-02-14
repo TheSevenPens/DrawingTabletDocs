@@ -3,7 +3,7 @@
 {% hint style="info" %}
 First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../types-of-drawtabs/)
 
-Then look through the buying guide for details: [buying guide](../../buying-a-drawing-tablet/)
+Then look through the buying guide for details: [buying guide](../../buying-drawtabs/)
 {% endhint %}
 
 ## Overview

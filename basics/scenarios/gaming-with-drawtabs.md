@@ -12,15 +12,15 @@ My hobby concerning drawing tablets is centered largely around creatives - peopl
 
 ### osu! is very popular
 
-They have about 1.7M monthly active users who play osu!&#x20;
+They have about 1.7M monthly active users who play osu!
 
-You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)&#x20;
+You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ## How osu! players use drawing tablets
 
-While creatives tend to use their drawing tablets in standard ways, osu! players do a number of quite surprising things:&#x20;
+While creatives tend to use their drawing tablets in standard ways, osu! players do a number of quite surprising things:
 
 ### Active area size
 
@@ -32,46 +32,46 @@ While creatives tend to use their drawing tablets in standard ways, osu! players
 * Players often do not use manufacturer **drivers**, but instead they use [OpenTabletDriver](../../guides/drivers/opentabletdriver/) because:
   * OTD has less lag than manufacturer drivers
   * OTD is highly customizable through it's plug-in system
-  * OTD works across many tablet models&#x20;
+  * OTD works across many tablet models
   * OTD works on Windows, Mac, and Linux
 
-### **Drag vs hover**&#x20;
+### **Drag vs hover**
 
-* Drag players play with the pen touching the surface of the tablet.&#x20;
-* Hover players don't let the pen touch the tablet surface.&#x20;
+* Drag players play with the pen touching the surface of the tablet.
+* Hover players don't let the pen touch the tablet surface.
 
 ### Clicking
 
 There are various **clicking** styles used by osu! players.
 
-* click by tapping the pen on the tablet&#x20;
+* click by tapping the pen on the tablet
 * click by using the keyboard
 * click by alternating between the pen tapping and keyboard presses
 
 ### Tablet expertise
 
-Some osu! players - at least the ones I communicate with regularly - are **remarkably knowledgeable** about drawing tablets.&#x20;
+Some osu! players - at least the ones I communicate with regularly - are **remarkably knowledgeable** about drawing tablets.
 
-They know a tremendous amount about the hardware, drivers, etc. Some conduct original research and testing of tablets. Some write code for OpenTabletDriver.&#x20;
+They know a tremendous amount about the hardware, drivers, etc. Some conduct original research and testing of tablets. Some write code for OpenTabletDriver.
 
 I would consider them **absolute experts** - far beyond any drawing tablet reviewer out there and myself.
 
 They are also **incredibly sensitive** to microscopic behaviors, latencies, etc. in drawing tablets - far more than someone who has typically has used tablets only for creative tasks.
 
-### **Advanced customization**&#x20;
+### **Advanced customization**
 
 Players do **advanced customization** of osu! through OpenTabletDriver plug-ins. Some examples:
 
 * Circular/Elliptical tablet areas
 * Rotated tablet areas
-* Live active area randomization&#x20;
+* Live active area randomization
 
 ### Picking a drawing tablet for osu!
 
-More here: [Buying a drawing tablet for osu!](../../buying-a-drawing-tablet/drawtabs-for-osu.md) &#x20;
+More here: [Buying a drawing tablet for osu!](../../buying-drawtabs/drawtabs-for-osu.md)
 
 ## **FPS games**
 
 Players using drawing tablets for FPS games is less common than for Rhythm games, but this is the preferred input device for some people.
 
-* example: ([video](https://youtu.be/9yVK859vZRs))&#x20;
+* example: ([video](https://youtu.be/9yVK859vZRs))

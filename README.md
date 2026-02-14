@@ -11,7 +11,7 @@ This site is a personal project and has no affiliation or relationship with any 
 ## Popular topics
 
 * [**Beginner's guide**](basics/beginners-guide.md) - If you are not familiar with drawing tablets, then start here.
-* [**Buying a drawing tablet**](buying-a-drawing-tablet/) -  a comprehensive guide to purchasing a tablet.
+* [**Buying a drawing tablet**](buying-drawtabs/) -  a comprehensive guide to purchasing a tablet.
 * [**Recommendations**](recommendations/) - Recommendations for different budgets and types of tablets
 * [**Troubleshooting guides**](troubleshooting/) - For when you need help
 * [**Getting started** ](basics/getting-started.md)- First steps for unboxing, connecting, and customizing the table for your needs.
