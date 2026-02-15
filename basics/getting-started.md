@@ -2,24 +2,24 @@
 
 ## Overview
 
-If you just acquired a drawing tablet and want to start using it, this guide will lead you through the basics.&#x20;
+If you just acquired a drawing tablet and want to start using it, this guide will lead you through the basics.
 
 {% hint style="info" %}
-* If you are new to drawing tablets, first read [**the beginner's guide**](beginners-guide.md)&#x20;
-* If you don't have a drawing tablet: [**buying guide**](../buying-drawtabs/)&#x20;
+* If you are new to drawing tablets, first read [**the beginner's guide**](beginners-guide.md)
+* If you don't have a drawing tablet: [**buying guide**](../buying-drawtabs/)
 {% endhint %}
 
 ## Find out the tablet's model number
 
-* Make sure you know the model number of the tablet. This will help you in many ways later. More here: [**Finding the model number of a drawing tablet**](../guides/general/finding-tablet-model-number.md).&#x20;
+* Make sure you know the model number of the tablet. This will help you in many ways later. More here: [**Finding the model number of a drawing tablet**](../guides/general/finding-tablet-model-number.md).
 
 ## Identify how to contact support
 
-* The vast majority of time everything "just works" but you may need help or a question answered by customer support. So, Make sure you know how to [**contact support**](contacting-support.md) for your tablet manufacturer&#x20;
+* The vast majority of time everything "just works" but you may need help or a question answered by customer support. So, Make sure you know how to [**contact support**](contacting-support.md) for your tablet manufacturer
 
 ## Read the user manual
 
-* Most questions you have will be answered already in the user manual.&#x20;
+* Most questions you have will be answered already in the user manual.
 * You will spare yourself a lot of frustration if you read it first.
 * You don't need to even open the box. You can download the manual from the manufacturer website.
 * The most important thing to understand in the user manual is how the tablet physically connects to your computer. This is especially important if you have a pen display (screen tablet).
@@ -28,7 +28,7 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 
 * If drop the pen to the floor, usually it will be unharmed.
 * When you are not using it make sure its stored in such a way it doesn't fall off your desk.
-* HOWEVER, sometimes a pen seems to hit just right and the fall can damage the pen.&#x20;
+* HOWEVER, sometimes a pen seems to hit just right and the fall can damage the pen.
 
 ## Keep the box safe
 
@@ -54,7 +54,7 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 ## Install the tablet driver
 
 * You need the tablet driver installed for the tablet to work correctly.
-* You can go to the manufacturer site and download the driver and install now before your tablet even arrives.&#x20;
+* You can go to the manufacturer site and download the driver and install now before your tablet even arrives.
 * If the tablet driver is installed, when you connect the tablet with USB cable the driver will just detect the tablet and the pen will work as soon as it comes close to the tablet (about 10mm)
 * The drivers install an app you can use to configure the driver. The apps have different names depending on your tablet brand
 * Why you need to install tablet drivers: [https://www.youtube.com/watch?v=qUsZUcH6SWk](https://www.youtube.com/watch?v=qUsZUcH6SWk)
@@ -85,32 +85,32 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [**T
 
 ## Learn what the active area is (aka "Working Area")
 
-* The active area on the tablet is the region of the tablet that is sensitive to the pen.&#x20;
-  * Wacom calls this the "Active Area" in their docs. In their driver, it is called "Mapping"&#x20;
+* The active area on the tablet is the region of the tablet that is sensitive to the pen.
+  * Wacom calls this the "Active Area" in their docs. In their driver, it is called "Mapping"
   * Huion calls this the "Working Area"
   * I will always call it the "active area" because that is the oldest term for it.
 * Go into the driver and and find the active area and get familiar with what it looks like. It's one of the most common things you'll need to adjust.
 * More here: [**Active Area**](../core-features/active-area/)
 
-## Pen tablets: map the Active Area to a single display&#x20;
+## Pen tablets: map the Active Area to a single display
 
 * This step is needed for pen tablets (the ones without a screen)
-* The active area can be mapped to one of your displays or multiple displays.
-* By default, they are often mapped to multiple displays.&#x20;
-* For now, map the active area to a single display.
-* If you want to use both displays, later on you can configure a "display toggle" feature that lets you switch between displays by pressing a button on the pen or the tablet.
+* The active area is mapped to one of your displays or multiple displays.
+* By default, they are often mapped to multiple displays.
+* My recommendation is:
+  * Map the active area to a single display.
+  * If you want use multiple displays with your pen tablet, use the tablet driver's **display toggle** feature. It lets you switch your active area mapping  between displays by pressing a button on the pen or the tablet. See: [Display toggle](../core-features/active-area/display-toggle.md)
 
-## Pen displays: map the Active Area to your pen tablet if needed
+## Pen tablets: Enable Force Proportions
 
-* With a pen tablet, the active area should be mapped to the screen of your tablet.
-* Sometimes however, drivers get confused and they initially map the active area to some other display that your have. When this happens you will move the pen on your tablet but you'll see the mouse pointer move on a different display.&#x20;
-* This is VERY easy to solve:   [**Troubleshoot pen moving pointer on the wrong display** ](../troubleshooting/tsg-pointer-on-wrong-display.md)
-
-## Pen tablets: Enable Force Proportions to match aspect ratios between the active area and your display
-
-* <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You don't have to do this for pen displays.&#x20;
+* <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You don't have to do this for pen displays.
 * If you don't do this there will be a distortion as you draw - in other words tracing out a perfect circle on the tablet will draw an oval on the screen.
-* Explanation and instructions here: [**Matching aspect ratios with Force Proportions**](../guides/customizing/force-proportions.md).&#x20;
+* Explanation and instructions here: [**Matching aspect ratios with Force Proportions**](../guides/customizing/force-proportions.md).
+
+## Pen displays: map the Active Area to your pen display if needed
+
+* With a pen display, the active area should be mapped to its own display.
+* However, sometimes tablet drivers get confused. They might initially map the active area to some other display that your have. When this happens, you will move the pen on your tablet but you'll see the pointer move on a different display. This is easy to solve: [**Troubleshoot pen moving pointer on the wrong display**](../troubleshooting/tsg-pointer-on-wrong-display.md)
 
 ## Adjust the pressure curve to give you more control
 
@@ -126,9 +126,9 @@ If you tablet has additional inputs such as buttons, dials, etc. You can control
 
 Here are some popular assignments: [Popular bindings for auxiliary inputs](../core-features/expresskeys/popular-bindings.md)
 
-## Windows&#x20;
+## Windows
 
-Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)&#x20;
+Perform this configuration: [**Disable the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)
 
 ## Apps
 
@@ -138,17 +138,6 @@ Perform this configuration: [**Disable the press-and-hold ring in Windows**](../
 * **Photopea** ([https://www.photopea.com/](https://www.photopea.com/)) is a web-based Photoshop-like app. It is very good and also has a free tier.
 * [**Procreate**](../catalog/catalog-apps/procreate/) - this is THE drawing app to get if you are drawing on an iPad.
 * [**Infinite Painter**](../catalog/catalog-apps/infinite-painter.md) - this is the equivalent of Procreate, but for Android devices.
-* **Other applications -** Look here to find a large number of applications to explore: [**applications**](../apps/)&#x20;
+* **Other applications -** Look here to find a large number of applications to explore: [**applications**](../apps/)
 
-&#x20;
-
-
-
-
-
-&#x20;&#x20;
-
-&#x20;
-
-## &#x20;
-
+##
