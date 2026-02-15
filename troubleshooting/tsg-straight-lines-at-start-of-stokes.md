@@ -11,7 +11,7 @@ When drawing a stroke (for example simple curve). You may notice that the there 
 * (a) skip over the beginning part of the stroke
 * or (b) have a straight line drawn from where you put the pen down to a little latter in stroke.
 
-<figure><img src="../.gitbook/assets/straight_line_hook_at_start_of_stroke.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000701.png" alt=""><figcaption></figcaption></figure>
 
 ## Other manifestations
 
@@ -19,7 +19,7 @@ The same delay at the beginning of dragging the pen, can manifest in other user 
 
 ## Examples
 
-## ![](<../.gitbook/assets/straight_line_at_start_of_stroke_example (2).png>)
+## ![](<../.gitbook/assets/image-000700.png>)
 
 ## Diagnostic questions to answer
 

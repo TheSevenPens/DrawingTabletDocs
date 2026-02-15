@@ -45,7 +45,7 @@ In terms of paper sizes this is about the size of an A5 sheet of paper which has
 
 16:10 - which is common drawing tablets
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (537).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image-000441.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
@@ -117,7 +117,7 @@ Has a nice amount of surface texture.
 
 EXCELLENT - almost no perceptible diagonal wobble.
 
-<figure><img src="../../../../.gitbook/assets/Diag Wobble Huion Frego M (L610) 2024_08_30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000167.png" alt=""><figcaption></figcaption></figure>
 
 ## Recommended pressure curve
 
@@ -164,7 +164,7 @@ All the devices listed below worked well with the Frego.
 
 The Frego M tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
 
-<figure><img src="../../../../.gitbook/assets/image (544).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000446.png" alt=""><figcaption></figcaption></figure>
 
 **Aspect ratio mapping**
 
@@ -176,7 +176,7 @@ NOTE: What I describe below is an interaction between Android and applications. 
 
 Android apps seem inconsistent with how they show cursors. I will contact the creators of these apps and suggest how they should work. Which in  my opinion should be: (1) on hover, show the brush outline (2) while drawing show the brush outline.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20241031_104105.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000640.jpg" alt=""><figcaption></figcaption></figure>
 
 **Bluetooth pointer lag**
 
@@ -188,15 +188,15 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 ## Photos
 
-![](<../../../../.gitbook/assets/20240831_125710 (Large) (1) (1).jpg>)  ![](<../../../../.gitbook/assets/20240831_125734 (Large) (3) (3).jpg>)
+![](<../../../../.gitbook/assets/image-000028.jpg>)  ![](<../../../../.gitbook/assets/image-000029.jpg>)
 
 
 
-![](<../../../../.gitbook/assets/20240831_130151 (Large).jpg>)   ![](<../../../../.gitbook/assets/20240831_130158 (Large) (1) (1).jpg>)
+![](<../../../../.gitbook/assets/image-000035.jpg>)   ![](<../../../../.gitbook/assets/image-000036.jpg>)
 
-![](<../../../../.gitbook/assets/20240831_130210 (Large).jpg>)  ![](<../../../../.gitbook/assets/20240831_130246 (Large).jpg>)
+![](<../../../../.gitbook/assets/image-000037.jpg>)  ![](<../../../../.gitbook/assets/image-000038.jpg>)
 
-<figure><img src="../../../../.gitbook/assets/20240831_125840 (Large).jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000030.jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
 
 ## Known issues
 
@@ -204,7 +204,7 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 Some users report that "air bubbles" appear under the tablet surface. Sometimes these bubbles have appeared after the first day of usage and sometimes only after some time.
 
-<figure><img src="../../../../.gitbook/assets/frego-bubbles-CGKTd7b.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000201.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 This problem is present, but does not appear super widespread. The vast majority of users don't mention any bubbles. I personally have not run into these bubbles.
 

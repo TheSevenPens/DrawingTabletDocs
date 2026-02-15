@@ -93,7 +93,7 @@ TYPICAL. Normal for a pen display.
 
 GOOD. Pointer has only very minor displacement when pen tilted at 45 degrees.
 
-<figure><img src="../../../../.gitbook/assets/Kamvas 22 Plus (GS2202) tilt comp.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000550.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Parallax**
 
@@ -107,7 +107,7 @@ GOOD - low.
 
 very good. has extremely low wobble.
 
-![](<../../../../.gitbook/assets/Huion Kamvas 22 Plus (GS2202) wobble.png>)
+![](<../../../../.gitbook/assets/image-000220.png>)
 
 ## Ergonomics
 
@@ -151,11 +151,11 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 For this case you use the included proprietary 3-in-1 cable.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (551).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000450.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Connecting with USB-C for video signal**
 
 For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data. &#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (552).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000451.png" alt="" width="563"><figcaption></figcaption></figure>
 

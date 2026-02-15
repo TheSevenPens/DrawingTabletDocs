@@ -1,6 +1,6 @@
 # Clip Studio Tabmate
 
-<div align="left"><figure><img src="../../../.gitbook/assets/tabmate_info_en (1) (1).jpg" alt="" width="343"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000703.jpg" alt="" width="343"><figcaption></figcaption></figure></div>
 
 * [https://www.clipstudio.net/promotion/tabmate/](https://www.clipstudio.net/promotion/tabmate/)
 * [CLIP STUDIO PAINT CLIP STUDIO TABMATE: Work comfortably with your pen tablet ](https://www.youtube.com/watch?v=coeYw2YptX0)Sep 18, 2018

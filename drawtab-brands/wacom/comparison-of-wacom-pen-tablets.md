@@ -12,7 +12,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 
 
-<figure><img src="../../.gitbook/assets/Slide_20250508_143050.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000696.png" alt=""><figcaption></figcaption></figure>
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
@@ -68,7 +68,7 @@ Each product line uses different pens. And the pens can only be used within that
 
 Of the pens identified, the Wacom Pro Pen 2 and Pro Pen 3 is the best in terms of design, materials, shape, weight distribution.&#x20;
 
-<figure><img src="../../.gitbook/assets/Slide_20250508_161455.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000697.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Overall drawing experience
 

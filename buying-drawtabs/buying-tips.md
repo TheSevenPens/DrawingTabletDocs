@@ -41,7 +41,7 @@ That's why I tend to recommend the brands that I do because they have so many us
 
 Since Reddit is a popular online location for discussions around drawing tablets here are some numbers that help you see how big these communities are.
 
-<figure><img src="../.gitbook/assets/Slide_20250107_214715.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000652.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Understand how the tablet will connect to your computer
 
@@ -49,7 +49,7 @@ For pen tablets this is pretty easy. All pen tablets can connect with a USB C ca
 
 In the user manual you'll find diagrams like this for a pen tablet.
 
-<figure><img src="../.gitbook/assets/Slide_20250107_214940.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000653.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For a pen display wiring them up is much more complicated. There are more cables and ports involved. And more requirements on those cables and ports.
 
@@ -57,9 +57,9 @@ The user manual will show diagrams like these below indicating how pen displays 
 
 
 
-<figure><img src="../.gitbook/assets/Slide_20250107_215246 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000654.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Slide_20250107_215322.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000655.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 With pen displays you should also be very clear about which cables come in the box. Sometimes it user manual may show you how to wire up the connections. But sometimes some cables are not included. So it's best to understand that before you make a purchase.
 
@@ -85,11 +85,11 @@ So many tablets are on the market right now and many of them have confusingly si
 
 For example Wacom has one series of tablets called Wacom 1 and another series of tablets called one by Wacom. They have very different levels of quality, they are different types of tablets, and they have different ages. If you rely on name alone you're likely to buy the wrong tablet.
 
-<figure><img src="../.gitbook/assets/Slide_20250107_220112.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000656.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Another example are names like these from XP pen which are confusingly similar.
 
-<figure><img src="../.gitbook/assets/Slide_20250107_220142.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000657.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Ultimately the way you can avoid purchasing the wrong tablet is by making sure you know the model number.
 

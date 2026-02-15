@@ -18,9 +18,9 @@ Here are several examples of how the driver indicates the tablet is not connecte
 
 | Brand  | Driver message                                                                                                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Huion  | <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">     |
-| XP-Pen | <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
-| Wacom  | <img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">                                                 |
+| Huion  | <img src="../.gitbook/assets/image-000234.png" alt="" data-size="original">     |
+| XP-Pen | <img src="../.gitbook/assets/image-000233.png" alt="" data-size="original"> |
+| Wacom  | <img src="../.gitbook/assets/image-000294.png" alt="" data-size="original">                                                 |
 
 ## Driver versus operating system
 

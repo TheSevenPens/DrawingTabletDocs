@@ -14,7 +14,7 @@ This pen comes with the One by Wacom (CTLx72) series of tablets. [**My notes on 
 
 
 
-<figure><img src="../../../.gitbook/assets/Wacom 2K Pen (LP-190K).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000710.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Initial Activation Force
 
@@ -31,7 +31,7 @@ All three very very consistent in their pressure response
 
 **Ignore IAF** in chart below - my testing was not designed for accurate IAF measurements.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000244.png" alt=""><figcaption></figcaption></figure>
 
 ## **Feeling**
 

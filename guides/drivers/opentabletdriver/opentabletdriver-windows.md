@@ -136,7 +136,7 @@ This is an important thing to learn, because you will be doing it a lot.
 * Once it is minimized, you can find it in the taskbar
 * Click on the OTD icon in the taskbar to open the OTD app
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000500.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **STEP** 2.&#x33;**: Understanding the OTD app on Windows**
 
@@ -165,7 +165,7 @@ Pressure and will not work right now. We will cover that soon.&#x20;
 * In the OTD App, go to **Output** > **Tablet** Section
 * In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
-* ![](<../../../.gitbook/assets/image (108).png>)
+* ![](<../../../.gitbook/assets/image-000254.png>)
 * At this point moving the pen will move the pointer on exactly 1 display.&#x20;
 * Also there will be no stroke distortion - for example a circle on tablet makes a circle on the monitor with no distortion/stretching
 * Press APPLY and then press SAVE.&#x20;
@@ -209,7 +209,7 @@ Navigate to the **Pen Settings** tab
 
 By default the will be configured as shown below
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000245.png" alt=""><figcaption></figcaption></figure>
 
 What to notice here: The tip settings, eraser settings, and the buttons have been configured "Adaptive Binding". For now leave these alone.
 
@@ -266,7 +266,7 @@ Two ways to introduce smoothing
 * each button shows up as an **Auxiliary Binding**.
 * In the screenshot above, one of the buttons has been set to match the "e" key.
 
-<figure><img src="../../../.gitbook/assets/image (622).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000492.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### STEP 4.5 Display toggle
 
@@ -295,11 +295,11 @@ This expands to a path that should look like:
 
 This is what my folder looks like:
 
-<figure><img src="../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000322.png" alt=""><figcaption></figcaption></figure>
 
 ProTip: Quickly get to the AppData folder by pressing WINDOWS+R and typing appdata. It will open a window directly to that folder.
 
-![](<../../../.gitbook/assets/image (131).png>)
+![](<../../../.gitbook/assets/image-000267.png>)
 
 
 

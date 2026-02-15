@@ -16,7 +16,7 @@ Widescreen or ultrawidescreen monitors have very different aspect ratios. So, th
 
 The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.  See: [**Force proportions**](force-proportions.md)
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000496.png" alt=""><figcaption></figcaption></figure>
 
 ## Option #2: Entire tablet active area mapped to a portion of the widescreen monitor
 
@@ -24,7 +24,7 @@ This is like the opposite of Option #1.
 
 You could map the active area of the tablet to a region of the monitor with the same aspect ratio.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000498.png" alt=""><figcaption></figcaption></figure>
 
 The region is shown in the center of the monitor, but it could be left or right aligned.
 
@@ -49,7 +49,7 @@ Here are the overall steps:
 * In the drawing tablet driver, enable Force Proportions
 * in the drawing tablet driver, setup a pen or tablet button for Display Toggle
 
-<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000406.png" alt=""><figcaption></figcaption></figure>
 
 ###
 

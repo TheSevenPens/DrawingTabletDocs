@@ -62,13 +62,13 @@ You can certainly still use the Intuos Pro 2017 but you should be aware of those
 
 From 2009 to 2025, there have been 4 editions of professional pen tablets from Wacom and all have maintain a consistent layout with expresskeys on the left. Therefore the new layout of this tablet was quite surprising for many of us.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_224728.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000664.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Model numbers
 
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_224944 (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000665.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -76,27 +76,27 @@ It's always helpful to be clear on the model numbers so that you don't buy the w
 
 Although not everyone shares this opinion, I find it a very beautiful and professional-looking tablet.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_225151.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000666.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
 
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_225153.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000667.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_225338.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000669.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 One of the interesting design touches, is a slight texture on the non-drawing surface os the tablet.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_225249.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000668.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## What's in the box
 
 Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250429_225414.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000670.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Included pen
 
@@ -131,13 +131,13 @@ Although the included Pro Pen 3 does not support barrel rotation. You can use th
 
 ### Moving between high and low pressure worked well
 
-<figure><img src="../../../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000465.png" alt=""><figcaption></figcaption></figure>
 
 ### Diagonal wobble
 
 EVALUATION: Very good. Low amount of diagonal wobble. Similar to Intuos Pro 2017 edition.
 
-<figure><img src="../../../../.gitbook/assets/Diag Wobble Wacom Intuos Pro Large (PTK-670) 2025_04_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000172.png" alt=""><figcaption></figcaption></figure>
 
 ## Tilt compensation
 
@@ -159,13 +159,13 @@ EVALUATION: TYPICAL. When using large brushes and drawing at very light pressure
 
 Keep in mind this is a very extreme test. Normally you should not notice these issues.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_060218.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000693.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_060254.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000694.png" alt=""><figcaption></figcaption></figure>
 
 These were the pressure curves and pressure smoothign amounts (in Krita) that controlled that behavior.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_060347.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000695.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Auxiliary inputs
 
@@ -177,11 +177,11 @@ Unlike the previous Intuos Pro 2017 (PTK-x60) series, the Intuos Pro 2025 (PTK-x
 
 The PTK-x70 series tablers comes with pairs of ExpressKey rings and dials.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_162929 (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000671.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Though do be aware that the number of ExpressKeys and dials depends on which size tablet in the PTK-x70 series you get.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_163043.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000672.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Accidentally pressing the ExpressKeys and dials
 
@@ -189,21 +189,21 @@ It is possible to accidentally hit he ExpressKeys and dials depending on how the
 
 **Tablet next to keyboard** - no accidental presses&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_163303.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000673.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **Tablet underneath the keyboard** - no accidental presses while drawing, but accidental presses did happen when reaching for keys toward the top of the keyboard.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_163305.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000674.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_163307.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000675.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 **Accidental presses were not possible in the way draw** - I use a tourbox device. So my keyboard is not near the tablet at all. So accidental presses did not happen for me.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_163308.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000676.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 **Ultimately, I disabled all the ExpressKeys and dials** - I simply did not need them.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_163815.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000677.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **I did accidentally hit the ExpressKeys when I meant to hit the dial and vice versa**. They are very similar in size, shape, and close together. Often I reached and touched the wrong one. Over time I may have been to train my brain a bit better.
 
@@ -213,59 +213,82 @@ Another topic that comes up with the expresskeys is how the hand that uses the e
 
 With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without  covering the active area.
 
-<figure><img src="../../../../.gitbook/assets/PTH-660-two-hands (Large) (2) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000576.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 However with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drtawing hand out of the way much more often.
 
-<figure><img src="../../../../.gitbook/assets/ptk-670-two-hands (Large) (2) (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000578.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Usage notes on dials
 
 * Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.&#x20;
 * The dials feel nice to rotate. Rotating produces soft click feeling and small sound.
-*  The dials do not rotate too easily nor do they require too much force to rotate.
+*
+  The dials do not rotate too easily nor do they require too much force to rotate.
 
 ## Usage notes on ExpressKeys
 
 * It is not obvious in pictures but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_164419.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000678.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Size (physical and active area)
 
 Physically the new devices are smaller than their 2017 counterparts. but their active areas have grown in size. So, you have more room than every for drawing despite the sizes of the devices shrinking.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_164648.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000679.png" alt=""><figcaption></figcaption></figure>
 
 The 2017 models had unusal aspect ratios, while the new devices all have 16x9 (or incredibly close to it) aspect ratios. This has a nice consequence. If you use a 16x9 monitor you have to turn on Force Porportions to draw normally with the 2017 models. But FP is not needed and has no effect on the new models with a 16x9 monitor. Because a mismatch in aspect ratios between the pen tablet's active area and the monitor causes Force Proportions to stop using some amount of active area ... when you take this into account the new tablets in practice give you much more active area than the 2017 models.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_165118.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000680.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Device size
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2
+</p></td><td><p>PTK-870</p><p>377 x 253 mm
+<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm
+<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm
+<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm
+<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm
+<br>350.45 cm2</p></td></tr></tbody></table>
 
 
 
 ### Active area
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p><p></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm
+<br>671.76 cm2</p><p>
+</p></td><td><p>PTK-870</p><p>349 x 195 mm
+<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm
+<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm
+<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm
+<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm
+<br>196.35 cm2</p></td></tr></tbody></table>
 
 ### Active area with Force Proportions enabled
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br>544.06 cm2</p><p></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm
+<br>544.06 cm2</p><p>
+</p></td><td><p>PTK-870</p><p>349 x 195 mm
+<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm
+<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm
+<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm
+<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm
+<br>196.35 cm2</p></td></tr></tbody></table>
 
 ## Aspect ratio
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p><p></p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p><p>
+</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460
+<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
 
 ## Size of Intuos Pro 2025 Large vs Intuis Pro 2017 medium
 
 Also note that the new Intuos Pro 2025 large is physically very close in size to the Intuos Pro 2017 medium. This may make the 2025 large model a bit easier to place on the desktop for those of you interested in a large pen tablet.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_165245.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000681.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250430_165247.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000682.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Bezels
 
@@ -281,11 +304,11 @@ With the device sizes shrinking but the active area increasing, the bezels have 
 
 Numbers don't capture the the difference. Here's a photo with purple tape over the right bezel of both tablets.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_043807.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000683.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Bezel size visualized: Movink 13 vs Intuos Pro 2025 medium
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_043937.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000684.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Bezels vs Hand resting on the tablet
 
@@ -299,11 +322,11 @@ Bezels provide a place for your hand to rest as you draw. This is a fact I don't
 
 There is a slight bump at the edge of the tablet. In photos, it is hard to tell any difference in photos with the Intuos Pro 2025 medium and the Intuos Pro 2017 medium.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_044517.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000685.jpg" alt=""><figcaption></figcaption></figure>
 
 But you can feel the difference. The diagram below exaggerates the feeling, but with the 2025 medium you can definitely feel the edge of the tablet more. While not painful and it does not "dig into" the hand, I do notice it and other users might be disturbed by it.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_044721.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000686.png" alt=""><figcaption></figcaption></figure>
 
 ## Are the bezels a problem?
 
@@ -337,11 +360,11 @@ Videos about it:
 
 The tablet is slightly thinner than the previous 2017 edition and has a slight wedge shape where thinner at the bottom and thicker at the top.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_045112.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000687.jpg" alt=""><figcaption></figcaption></figure>
 
 The thickness and wedge shape are very similar to the Wacom Movink 13.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_045114.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000688.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Weight
 
@@ -351,7 +374,8 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 <table><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017 </th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
 
-**Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide. Moves only if you deliberately force it to move. Requires less force to move than the PTH-660
+**Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide
+. Moves only if you deliberately force it to move. Requires less force to move than the PTH-660
 
 ## Surface Texture
 
@@ -383,7 +407,7 @@ The tablet supports both wired and wireless connection.
 
 The port is located on the right side, close to the top.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_052444 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000689.jpg" alt=""><figcaption></figcaption></figure>
 
 * These tablets support both wired and wireless connection.
 * USB-C Port location: top right
@@ -393,8 +417,10 @@ The port is located on the right side, close to the top.
 
 * The tablet comes with USB-A → USB-C cable
 * Should be able to use any USB-C cable that supports data
-*  I tested with these three cables (all worked):
-  *    Included USB-A → USB-C cable
+*
+  I tested with these three cables (all worked):
+  *
+    Included USB-A → USB-C cable
   * Intuos Pro 2017 cable
   * Monoprice USB 2.0 USB-A → USB-C cable
 
@@ -402,7 +428,7 @@ The port is located on the right side, close to the top.
 
 The included USB cable no longer has an L-shaped connecter like the cable that came with the 2017 Intuos Pro.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_052713.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000690.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Wireless
 
@@ -415,19 +441,19 @@ Summary
   * I was easily able to switch between two paired devices usinfg the switch
   * In my subjective evaluation the wireless connection has a little bit more pointer lag than the wired connection. If may not bother many people but if you want/need the lowst pointer lag, you should use wired connections.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_052754.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000691.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Texture sheets
 
 Wacom sells texture sheets in case you scratch up the drawing surface and want to restore it to its original pristine state. The texture sheets are available in 3 sizes (Large, Medium, Small) and only one texture (Standard).
 
-<figure><img src="../../../../.gitbook/assets/Slide_20250501_055149.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000692.png" alt=""><figcaption></figcaption></figure>
 
 ## Underneath the texture sheet
 
 There is a grid pattern underneath the texture sheet.
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/PTK-870 underneath texture sheet (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image-000579.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 We think this pattern has these benefits:
 

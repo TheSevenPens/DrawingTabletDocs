@@ -145,7 +145,7 @@ The drawing performance OK. It's not bad. However, it does not match the excelle
 * In Krita, weighted smoothing at level 30 removed the wobble&#x20;
 * In comparison, Wacom Movink 13 has less notably diagonal wobble&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Diag Wobble Wacom One 14 (DTC-141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000173.png" alt=""><figcaption></figcaption></figure>
 
 ### Pointer lag
 
@@ -233,7 +233,7 @@ If you need touch, consider these tablets:
 
 ### USB-C connection
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-30 at 3.37.47 PM.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000608.jpeg" alt=""><figcaption></figcaption></figure>
 
 The tabet comes with a USB-C cable to achieve a single cable connection to your computer.
 
@@ -243,7 +243,7 @@ You computer's USB-C port needs to meet the requirements for this to work. See: 
 
 Instead of USB-C, the tablet CAN connect via HDMI. However it DOES NOT include the cables you need for this. AND it requires very a specific accessory for this to work.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-30 at 3.42.17 PM.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000609.jpeg" alt=""><figcaption></figcaption></figure>
 
 You need to purchase:
 

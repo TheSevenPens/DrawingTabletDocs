@@ -29,7 +29,7 @@ Do not use any of these:
 
 STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber duster. Specifically this one: the **OXO Good Grips Microfiber Hand Duster** ($12) that I bought on Amazon. The red microfiber brush can be detached and easily cleaned in a laundry machine and then dried on low heat.
 
-<figure><img src="../../.gitbook/assets/OXO Good Grips Microfiber Hand Duster (2) (1).jpg" alt="" width="375"><figcaption><p><strong>OXO Good Grips Microfiber Hand Duster</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000556.jpg" alt="" width="375"><figcaption><p><strong>OXO Good Grips Microfiber Hand Duster</strong></p></figcaption></figure>
 
 STEP 2 - I gently wipe down the tablet with a damp cloth/microfiber cloth,  or towel&#x20;
 

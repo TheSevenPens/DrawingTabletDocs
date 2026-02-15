@@ -6,7 +6,7 @@ If you are buying a very old drawing tablet, the plastic may have shifted colors
 
 Below are two Wacom GP-300E pens compared. Both come from the original Wacom Intuos Line released in 1998. The one on top has a typical look of the pen when it was released. The one on the bottom exhibits moderate yellowing.  &#x20;
 
-<figure><img src="../../.gitbook/assets/DSC00288 (Large).JPG" alt=""><figcaption><p>Two Wacom GP-300E pens compared. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000195.JPG" alt=""><figcaption><p>Two Wacom GP-300E pens compared. </p></figcaption></figure>
 
 This color change may be be reversed or reduced through a process is called **retrobright.**
 

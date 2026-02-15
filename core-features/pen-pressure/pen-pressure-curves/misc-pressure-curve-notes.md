@@ -8,7 +8,7 @@ Here is a screenshot showing that pressure deadzone in the default pressure curv
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-01-05 012550.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000601.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

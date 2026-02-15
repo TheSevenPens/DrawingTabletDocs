@@ -45,7 +45,7 @@ The easiest way to see if this how Windows is interacting with your tablet is to
 
 Normally your pointer will look like this when you are using the mouse or when you have a tablet driver installed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Windows-PNP-Pointers-2024-06-10-small.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000736.jpg" alt=""><figcaption></figcaption></figure>
 
 (NOTE: It's hard to do a screen capture of this pointer, so I had to rely on a phone camera)
 

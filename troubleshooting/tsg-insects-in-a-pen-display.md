@@ -12,4 +12,4 @@ Usually people might find 1 bug in their display. In some rare cases. there may 
 
 The original poster mentioned in the comments he did have some success: "I’ve managed to get most of them out by shaking the absolute sh\*t out of it and using a can of compressed air and bug spray."
 
-![](<../.gitbook/assets/ants in cintiq.jpg>)
+![](<../.gitbook/assets/image-000162.jpg>)

@@ -42,7 +42,7 @@ Even if the cable meets the requirements - there are some issues you should be a
 
 Sometimes the USB-C port on table goes into a recessed port and the manufacturer cable was specially designed to go into that port.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Slide_20241030_040309.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000639.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Longer connectors**
 

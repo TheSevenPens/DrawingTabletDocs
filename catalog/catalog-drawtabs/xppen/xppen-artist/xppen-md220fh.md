@@ -12,7 +12,7 @@ Rating: VERY GOOD. very low amount of AG sparkle visible. Your eyes would have t
 
 Rating: VERY GOOD.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Slide_20241117_111321 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000649.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Ports
 
@@ -25,13 +25,13 @@ Rating: VERY GOOD.&#x20;
 
 Option 1: USB-C + power
 
-<figure><img src="../../../../.gitbook/assets/image (553).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000452.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Option 2: HDMI + USB + power
 
-<figure><img src="../../../../.gitbook/assets/image (554).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000453.png" alt=""><figcaption></figcaption></figure>
 
 ## Audio
 

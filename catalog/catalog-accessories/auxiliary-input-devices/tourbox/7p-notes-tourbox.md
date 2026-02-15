@@ -57,4 +57,4 @@ With Windows there's also an interesting limitation. It has to deal with apps li
 
 Partial setup for Clip Studio Paint
 
-<figure><img src="../../../../.gitbook/assets/image (478) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000407.png" alt=""><figcaption></figcaption></figure>

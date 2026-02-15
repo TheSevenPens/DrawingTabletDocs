@@ -62,11 +62,11 @@ UD EMR pens tend to have only one button or in some cases no buttons. The Wacom 
 
 Wacom has a "Feel by Wacom" trademark as shown below
 
-<div align="left"><figure><img src="../../.gitbook/assets/feel-by-waco-mark.jpg" alt="" width="157"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000198.jpg" alt="" width="157"><figcaption></figcaption></figure></div>
 
 You can see this how it is used in these materials for an ASUS product.
 
-<div align="left"><figure><img src="../../.gitbook/assets/s-l1600-1.webp" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000589.webp" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## &#x20;Videos
 

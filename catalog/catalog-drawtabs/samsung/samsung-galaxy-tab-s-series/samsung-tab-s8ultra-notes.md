@@ -56,7 +56,7 @@ The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**
 
 Evalation: VERY GOOD. LOW amounts of diagonal wobble at slow speeds.
 
-<figure><img src="../../../../.gitbook/assets/Samsung Galaxy Tab S8 Ultra 2025_05_07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000591.png" alt=""><figcaption></figcaption></figure>
 
 ## Galaxy Tab S8 Ultra Book Cover Keyboard
 

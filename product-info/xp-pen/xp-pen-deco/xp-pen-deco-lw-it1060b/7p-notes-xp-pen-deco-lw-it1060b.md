@@ -10,4 +10,4 @@ Fine tablet for drawing. No obvious issues.&#x20;
 
 Rating: GOOD (LOW amount of diagonal wobble)&#x20;
 
-<figure><img src="../../../../.gitbook/assets/XP-Pen Deco LW (IT1060B) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000750.png" alt=""><figcaption></figcaption></figure>

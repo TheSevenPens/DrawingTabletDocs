@@ -10,15 +10,15 @@ The screen cycles between a small set of colors. Usually the colors shown are RE
 
 You may also see a box appear with some various bits of technical information such as: Serial Number, Size, Resolution, Checksums.
 
-<figure><img src="../.gitbook/assets/20250819_133746 (Custom).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000111.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/20250819_133748 (Custom).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000112.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/20250819_133752 (Custom).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000113.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/infopanel.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000547.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Notes
 

@@ -8,7 +8,7 @@ First try the [**Common drawing troubleshooting steps**](common-drawing-troubles
 
 ### Examples
 
-![](<../.gitbook/assets/dots_at_end_of_strokes_example.png>)
+![](<../.gitbook/assets/image-000183.png>)
 
 So far, I have rarely encountered this and don't know the specific cause.
 

@@ -16,7 +16,7 @@ I cannot emphasize this enough. The Wacom converter is just "a box" with ports. 
 
 ## Connection
 
-<figure><img src="../../../.gitbook/assets/image (576).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000459.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Testing results
 

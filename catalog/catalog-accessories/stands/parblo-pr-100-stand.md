@@ -24,38 +24,38 @@ I found out about this stand from Teoh on Tech's channel: [https://www.youtube.c
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250320_151024 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000052.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151032 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000053.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151104 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000054.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151130 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000055.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151136 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000056.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151340 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000057.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151545 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000059.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151629 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000060.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250320_151524 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000058.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250320_151713 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000061.jpg" alt="" width="375"><figcaption></figcaption></figure>

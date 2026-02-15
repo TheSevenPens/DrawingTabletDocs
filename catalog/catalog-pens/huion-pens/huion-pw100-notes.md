@@ -25,7 +25,7 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
 
 
 
-    <figure><img src="../../../.gitbook/assets/image-0016.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image-000529.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Pressure range
 
@@ -38,10 +38,10 @@ I only have one unit and based on my testing
 
 
 
-<figure><img src="../../../.gitbook/assets/IMG_0115 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000540.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IMG_0119 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000541.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IMG_0122 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000543.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IMG_0121 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000542.jpg" alt="" width="188"><figcaption></figcaption></figure>

@@ -34,4 +34,4 @@ However, you should be a little careful with an Intuos Pro medium or Large which
 
 Here's the foxbox cover I ordered for my Wacom Intuos Pro (PTH-860). The image is one I designed myself. I wanted some bright colors contrast with the boring black plastic of my many
 
-<figure><img src="../../../../.gitbook/assets/foxbox cover for pth-860 2023_10_23.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000200.jpg" alt="" width="563"><figcaption></figcaption></figure>

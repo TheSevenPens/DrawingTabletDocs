@@ -2,7 +2,7 @@
 
 These will be MALE DisplayPort to FEMALE HDMI.
 
-<figure><img src="../../../.gitbook/assets/71wC4OgH1SL._AC_SL1500_.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000145.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

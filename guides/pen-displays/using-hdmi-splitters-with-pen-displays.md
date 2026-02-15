@@ -14,15 +14,15 @@ They can be very useful devices, but they are often misunderstood in the context
 
 Below is an example of a simple HDMI splitter. The male HDMI end goes to your computer. The two female HDMI ports are intended to connect to monitors, pen displays, etc. This splitter takes the signal from the computer and **copies** the two devices you have attached.
 
-<figure><img src="../../.gitbook/assets/HDMI-splitter-example.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000206.jpg" alt=""><figcaption></figcaption></figure>
 
 Below is another example of a splitter that I own. Notice that this splitter also has a micro-USB port intended to supply power.
 
-<figure><img src="../../.gitbook/assets/hdmi-splitter-input.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000208.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/hdmi-splitter-input (Large).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000207.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **The problem**
 

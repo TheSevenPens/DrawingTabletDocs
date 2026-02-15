@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](<../../../../.gitbook/assets/Huion Kamvas Pro 24 4K (GT2401) wobble (2) (2).png>)
+![](<../../../../.gitbook/assets/image-000222.png>)
 
 
 
@@ -86,7 +86,7 @@ Wobble is minor and only noticeable in very slow strokes.
 * 2x USB-A ports on right side
 * Headphone jack on right side
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000383.png" alt=""><figcaption></figcaption></figure>
 
 ## How I connect it
 

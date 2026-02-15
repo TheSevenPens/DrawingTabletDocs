@@ -4,17 +4,17 @@ he pressure response of a pen describes the behavior of a pen with regard to pre
 
 The pen measures of physical force at its tip. Information about the physical force is sent to the tablet and then translated into a logical pressure value. The pressure response is the relationship between that physical pressure and the logical press.
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_134044 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000622.jpg" alt=""><figcaption></figcaption></figure>
 
 In numerical terms it can be expressed as a simple set of data points. And if we graph those data points with the physical pressure on the X axis and the logical pressure on the Y axis - then we get a chart that visualizes the pressure response.
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_134151 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000623.jpg" alt=""><figcaption></figcaption></figure>
 
 All pens come out-of-the-box with a specific pressure response. And keep in mind the response is unique to each pen. The response even for pens of the same model will differ a little bit at the very least.
 
 One thing that is generally found among EMR - is that the shape of the pressure response is bowed up quite a bit.
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_134418 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000624.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ If we need to change the pressure response of a pen. We have to apply a pressure
 
 
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_134601.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000625.jpg" alt=""><figcaption></figcaption></figure>
 
 &#x20;A pressure curve modifies a pressure response. You could think of it as creating a new pressure response. In the example above the pressure curve that we apply to the original pressure response has created a new pressure response which is much more linear.
 
@@ -46,7 +46,7 @@ For the purposes of this discussion I'm going to only talk about how pressure af
 
 
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_135336.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000626.jpg" alt=""><figcaption></figcaption></figure>
 
 The first is the shape of the response indicates an under allocation at lower physical pressure. About only 10% of the physical pressure range is allocated to about 50% of the logical pressure range.
 
@@ -54,7 +54,7 @@ This means that small changes in physical pressure result in big changes in logi
 
 This can make it feel like it's hard to control the width of your stroke when you're drawing very lightly.
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_135929.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000627.jpg" alt=""><figcaption></figcaption></figure>
 
 At the higher end of this pressure response we encounter an over allocation of physical pressure to logical pressure. About 50% of the physical pressure range is allocated to only about 10% of the logical pressure range.
 
@@ -62,13 +62,13 @@ This means that big changes in physical pressure produce small changes in lot pr
 
 This can make it seem like you're pressing very hard but you aren't seeing your stroke size increase or decrease by much.
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_135953.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000628.jpg" alt=""><figcaption></figcaption></figure>
 
 In general I think we would want a more even allocation of physical pressure range into the logical pressure range. The visualization of such a more evenly allocated pressure response is one that is much more linear.
 
 To be clear I am not saying that linear is the best shape for a pressure response. I'm just saying it's a good starting point. Ultimately you'll have to use pressure curves to change your pressure response into something that works for you.
 
-<figure><img src="../../.gitbook/assets/Slide_20240722_140355.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000629.jpg" alt=""><figcaption></figcaption></figure>
 
 Here you can see how a specific pressure curve takes the original pressure response and shifts it to a more linear shape. I'll show you this example just to help illustrate how much you might have to bend the pressure curve to get a linear response.
 

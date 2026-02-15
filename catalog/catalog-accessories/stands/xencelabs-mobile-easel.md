@@ -12,6 +12,6 @@ The rubber grips do a good job holding on the the tablet and preventing the stan
 
 ## Photos
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20240727_105710 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000012.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20240727_105724 (Large).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000013.jpg" alt="" width="375"><figcaption></figcaption></figure></div>

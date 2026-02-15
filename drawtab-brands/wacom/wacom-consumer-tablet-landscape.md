@@ -8,4 +8,4 @@ See: [Wacom One vs One by Wacom](wacom-one-vs-one-by-wacom.md)
 
 This diagram is my summary how their consumer line of tablets is evolving
 
-<figure><img src="../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000396.png" alt=""><figcaption></figcaption></figure>

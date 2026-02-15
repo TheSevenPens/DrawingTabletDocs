@@ -6,7 +6,7 @@ The gaps will not be aligned vertically or horizontally - which is a sign of a d
 
 ### Examples
 
-![](<../.gitbook/assets/random_gaps_in_strokes_example (2).png>)
+![](<../.gitbook/assets/image-000587.png>)
 
 ##
 

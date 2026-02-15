@@ -64,7 +64,7 @@ Very good. Low amount of parallax for a pen display. On par with other Cintiq Pr
 
 There are roughly 3 ways to connect to this tablet. All of them require a separate power cable and power adapter.
 
-<figure><img src="../../../../.gitbook/assets/image (580) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000462.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Using single USB-C cable
 
@@ -92,4 +92,4 @@ No legs &#x20;
 
 Rating: VERY GOOD. Low wobble in all velocities tested.
 
-<figure><img src="../../../../.gitbook/assets/Wacom DTH-167 Wobble (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000718.png" alt=""><figcaption></figcaption></figure>

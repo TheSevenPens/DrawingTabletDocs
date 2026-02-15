@@ -97,7 +97,7 @@ Rating: GOOD. Exhibits a slight wobble in diagonal lines.
 
 Slightly better than Cintiq Pro 27.
 
-<figure><img src="../../../../.gitbook/assets/Diag Wobble Wacom Cintiq Pro 22 (DTH-227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000171.png" alt=""><figcaption></figcaption></figure>
 
 ### Pressure handling
 
@@ -124,7 +124,7 @@ Unlike many other 16" pen displays, a single USB-C cable is not enough to power 
 
 Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable to connect it to the USB 4 port on my mini pc. The diagram below shows how it is connected.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000495.png" alt=""><figcaption></figcaption></figure>
 
 
 

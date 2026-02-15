@@ -10,7 +10,7 @@
 
 ## Example
 
-<figure><img src="../.gitbook/assets/20250728_093712 (Large) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000110.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Things to test
 

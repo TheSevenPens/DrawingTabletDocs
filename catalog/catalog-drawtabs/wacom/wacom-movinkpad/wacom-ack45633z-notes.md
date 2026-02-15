@@ -16,8 +16,8 @@ Overpriced and Underdelivers
 
 *
 
-    <figure><img src="../../../../.gitbook/assets/20251210_204652_100PercentBrightness (Large).jpg" alt="" width="375"><figcaption><p>dark room - 100% brightness</p></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image-000124.jpg" alt="" width="375"><figcaption><p>dark room - 100% brightness</p></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/20251210_204728_50PercentBrightness (Large).jpg" alt="" width="375"><figcaption><p>dark room - 50% brightness</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000125.jpg" alt="" width="375"><figcaption><p>dark room - 50% brightness</p></figcaption></figure>

@@ -6,13 +6,13 @@ If the nib is broken in half and stuck deeply inside or there's not enough of it
 
 Here are some other options.&#x20;
 
-<figure><img src="../../.gitbook/assets/Slide_20240510_132641.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000619.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## OPTION: Precision tweezers
 
 I used this iFixit set of precision tweezers. Specifically I used the one in the middle. I wasn't able to put both both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly pull the nib out a little bit at a time. Once enough was out, I used the tweezers normally to pull the nib out. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (499) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000417.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

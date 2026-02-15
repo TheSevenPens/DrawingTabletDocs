@@ -14,7 +14,7 @@ I covered wobble extensively in this video on pen display accuracy ([https://you
 
 If you slowly draw line on a tablet WITH A RULER the wobble will be apparent on diagonal lines. The diagram below exaggerates the wobble
 
-<figure><img src="../.gitbook/assets/Artboard 1-80.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000163.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Characteristics
 
@@ -105,5 +105,6 @@ Some recent models with XP-Pen feature some excessive [**diagonal wobble**](diag
 
 ## Discussions
 
-* [https://www.reddit.com/r/huion/comments/9x3qwg/huion\_kamvas\_pro\_13\_regarding\_the\_infamous\_line/  <br>](https://www.reddit.com/r/huion/comments/9x3qwg/huion_kamvas_pro_13_regarding_the_infamous_line/)
+* [https://www.reddit.com/r/huion/comments/9x3qwg/huion\_kamvas\_pro\_13\_regarding\_the\_infamous\_line/
+  <br>](https://www.reddit.com/r/huion/comments/9x3qwg/huion_kamvas_pro_13_regarding_the_infamous_line/)
 

@@ -175,7 +175,7 @@ No noise. Completely silent.
   * MAX: 33.0C (91.4F)
 * NOTE: My IR reflection is visible in the IR photo&#x20;
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/Wacom_DTK_168_Fluke_20251109_04_46_35_403 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image-000729.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 

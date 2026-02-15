@@ -2,7 +2,7 @@
 
 The Wacom LP-1100K pen is a very good Wacom consumer pen.
 
-<figure><img src="../../../.gitbook/assets/lp1100k_main_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000551.jpg" alt=""><figcaption></figcaption></figure>
 
 It comes with and is ONLY compatible with these tablets released in 2018.
 
@@ -16,7 +16,7 @@ Tablet expert Kuuube has measure the IAF of the LP-1100K as <= 1gf.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (600) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000477.png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -28,7 +28,7 @@ These are very, very similar tablets. There is NO CLEAR winner - each has positi
 
 #### Testing Setup
 
-![](<../../.gitbook/assets/huion xppen 13 comparison.jpg>)
+![](<../../.gitbook/assets/image-000225.jpg>)
 
 * **Driver versions used**
   * Huion: 15.6.2.80
@@ -66,15 +66,15 @@ Both tablets have excellent diagonal wobble (i.e. very low amounts of diagonal w
 
 XP-Pen Artist 13 GEN2 (CD130FH) wobble
 
-![](<../../.gitbook/assets/Diag Wobble XP-Pen Artist 13 GEN2 (CD130FH) 2023_09_16 (1).png>)
+![](<../../.gitbook/assets/image-000177.png>)
 
 Huion Kamvas 13 (GS1331) wobble:
 
-![](<../../.gitbook/assets/Huion Kamvas 13 (GS1331) wobble.png>)
+![](<../../.gitbook/assets/image-000219.png>)
 
 Compare it to the most expensive pen tablet wacom makes the Wacom Intuos Pro Large (PTH-860):
 
-![](<../../.gitbook/assets/Wacom Intuos Pro Large (PTH-860) wobble (1) (1).png>)
+![](<../../.gitbook/assets/image-000719.png>)
 
 
 
@@ -135,7 +135,7 @@ Thanks to their laminated displays both have very good parallax. They match that
 
 Below is a parallax photo for several pen tablet models. The XP-Pen parallax similar to the picture of the Wacom One and Huion model in the photo.
 
-![](<../../.gitbook/assets/image (185).png>)
+![](<../../.gitbook/assets/image-000286.png>)
 
 ## Connecting with a 3 in 1 cable
 

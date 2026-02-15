@@ -41,5 +41,5 @@ Exhibits moderate [**anti-glare sparkle**](../../../../guides/pen-displays/anti-
 
 Very low
 
-![](<../../../../.gitbook/assets/Huion Kamvas 13 (GS1331) wobble.png>)
+![](<../../../../.gitbook/assets/image-000219.png>)
 

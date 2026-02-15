@@ -6,7 +6,7 @@ Wacom introduced this pen in 2023. It is a terrible pen. Because of of how it ha
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-10 133804.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000595.jpg" alt=""><figcaption></figcaption></figure>
 
 Officially the name of the CP-923 pen is "Wacom One Standard Pen"  but that name is confusing so I will call it one of the following names:
 
@@ -18,7 +18,7 @@ Officially the name of the CP-923 pen is "Wacom One Standard Pen"  but that name
 
 Below is the old Wacom One Pen (CP-913). It is better than the CP-913. It only has one button but the pressure handling is a bit better.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-20 204732.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000599.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Pen support**
 
@@ -82,7 +82,7 @@ I tested 3 units of the CP-923 it it works with the DTC-133.&#x20;
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image (598).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000473.png" alt=""><figcaption></figcaption></figure>
 
 ## Max Pressure
 

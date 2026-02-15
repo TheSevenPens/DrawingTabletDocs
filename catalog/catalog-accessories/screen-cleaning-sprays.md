@@ -20,9 +20,9 @@ Here's a good video showing WOOSH in use: [https://www.youtube.com/watch?v=6zNUK
 
 *
 
-    <figure><img src="../../.gitbook/assets/20240903_232411 (Large).jpg" alt="" width="375"><figcaption><p>WOOSH! bottle with its microfiber towel</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image-000039.jpg" alt="" width="375"><figcaption><p>WOOSH! bottle with its microfiber towel</p></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/MISTIFY 2k.JPG" alt="" width="375"><figcaption><p>MISTIFY bottle with its microfiber towel</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image-000553.JPG" alt="" width="375"><figcaption><p>MISTIFY bottle with its microfiber towel</p></figcaption></figure>
 
 
 

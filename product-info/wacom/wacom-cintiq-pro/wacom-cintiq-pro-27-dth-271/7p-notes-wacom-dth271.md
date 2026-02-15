@@ -116,7 +116,7 @@ See my [**notes on the Wacom Pro Pen 3**](../../wacom-pen-models/7p-notes-wacom-
 
 Rating: OK&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Wacom Cintiq Pro 27 (DTH-271).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000712.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Compare to some other diagonal samples linked from here: [diagonal wobble](../../../../guides/core-features/diagonal-wobble/)&#x20;
 
@@ -266,7 +266,7 @@ My usage: I left it at **Native**.
 * You CAN angle it so that the surface is **perpendicular to the floor**.&#x20;
   * However, then essentially the bottom edge is directly touching your desk. So it isn't very useful in that position if you just want to use it as a monitor with this stand.
 * You can angle it so that the surface is facing completely upwards and **parallel to the floor**.
-  * ![](<../../../../.gitbook/assets/image (258).png>)
+  * ![](<../../../../.gitbook/assets/image-000326.png>)
 
 ### Height adjustability
 
@@ -282,7 +282,7 @@ My usage: I left it at **Native**.
 * It is still unclear to me why the Cintiq Pro 27 needs fans when many other devices don't. For example, is the Huion Pro 24 4K is silent and is just very slightly warm to the touch. There are many other examples of devices.&#x20;
 *   The fans are located on the top edge of the display
 
-    <figure><img src="../../../../.gitbook/assets/PXL_20221123_223627476_annotated.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image-000581.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Fan noise
 
@@ -344,7 +344,7 @@ See my [**notes on the Wacom Pro Pen 3**](../../wacom-pen-models/7p-notes-wacom-
 
 There are three buttons on the tablet (top right if you are facing the tablet)
 
-<figure><img src="../../../../.gitbook/assets/PXL_20221124_191236997-cleaned-annotated (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000582.jpg" alt=""><figcaption></figcaption></figure>
 
 These buttons are the
 

@@ -4,7 +4,7 @@
 
 Pen displays and monitors in general can show an informaiton box like this on their screen when they start up.&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image-000247.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Often this box lists some basic information such as :&#x20;
 
@@ -34,7 +34,7 @@ A couple of things to understand:
       * Launch the OSD from the tablet driver
     *   This is what an OSD looks like (it varies by tablet)
 
-        <figure><img src="../.gitbook/assets/rn_image_picker_lib_temp_c9a72bba-4e04-4ba4-a24b-4840b9cb8767 (Large).jpg" alt="" width="188"><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image-000588.jpg" alt="" width="188"><figcaption></figcaption></figure>
 * OPTION 2: Try is to connect the pen display to another source of video signal
   * That might trigger the display to "reset" the box
   * Try connecting the HDMI of the tablet to a the HDMI port of a DVD player, XBOX, a Camera.

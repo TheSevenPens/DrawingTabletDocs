@@ -30,21 +30,21 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 
 ## Tier definitions
 
-<figure><img src="../../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000493.png" alt=""><figcaption></figcaption></figure>
 
 ## Pen tablets
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_tablets_20251112_191437 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000132.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pen displays
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_pen_displays_20251112_191248.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000131.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Standalone
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025_standalone_20251112_191612.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000133.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pens
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000343.png" alt=""><figcaption></figcaption></figure></div>
 

@@ -14,7 +14,7 @@ I've given convenient labels ("small", "medium", "large") to drawing tablets. Th
 
 <table><thead><tr><th width="188">Size category</th><th width="170.33333333333331">Pen tablet</th><th width="249.66666666666669">Pen display</th></tr></thead><tbody><tr><td>SMALL</td><td>Typical: 7"<br>Range: 6" to 9"</td><td>Typical: 13"<br>Range: 11" to 14"</td></tr><tr><td>MEDIUM</td><td>Typical: 11"<br>Range: 10" to 13"</td><td>Typical: 16"<br>Range: 15" to 19"</td></tr><tr><td>LARGE</td><td>Typical: 15"<br>Range: 14" to 19"</td><td>Typical: 24"<br>Range: 20" to 29"</td></tr><tr><td>EXTRA LARGE</td><td>Typical: 23"<br>Range: 20" to29"</td><td>Typical: 32"<br>Range: 30" to 33"</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (495).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000416.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Manufacturer size categories
 

@@ -23,7 +23,7 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 ## Setup
 
-<figure><img src="../../../../.gitbook/assets/20240722_145506.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000009.jpg" alt=""><figcaption></figcaption></figure>
 
 ## General
 
@@ -73,7 +73,7 @@ TYPICAL. Lag is visible but this amount is what we see in all pen displays.
 
 MINOR WOBBLE. Good for a pen display.
 
-<figure><img src="../../../../.gitbook/assets/Diag Wobble Wacom Cintiq 22 (DTK-2260) 2024_07_21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000170.png" alt=""><figcaption></figcaption></figure>
 
 ## **Anti-glare sparkle**&#x20;
 
@@ -133,7 +133,7 @@ It has a wedge shape. It is thicker at the top of the screen and thinner at the 
 
 The device works very well on the desk. It does not slip around due to the 4 rubber strips on the bottom.
 
-<figure><img src="../../../../.gitbook/assets/20240722_144916.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000008.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Sound support
 
@@ -152,19 +152,19 @@ The device works very well on the desk. It does not slip around due to the 4 rub
 
 The ports are behind a cover on the back.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/20240722_144823.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000007.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/20240722_144756.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000006.jpg" alt=""><figcaption></figcaption></figure>
 
 The ports are oriented up so cords will go straight up and out and are clearly visible when using this device.
 
-<figure><img src="../../../../.gitbook/assets/20240722_144341.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000005.jpg" alt=""><figcaption></figcaption></figure>
 
 **Special note on USB-B**
 
 This port type is getting less common. So to make sure you know what the cable looks like here is a photo of the cable I used. I used my own cable, the original Wacom cable was part of the package I bought from eBay. USB-B is on the left. USB-A is on the right.
 
-<figure><img src="../../../../.gitbook/assets/USB-B-and-USB-A.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000707.jpg" alt=""><figcaption></figcaption></figure>
 
 **Special note on HDMI**
 
@@ -183,9 +183,9 @@ For the HDMI connection I tested two scenarios:
 
 This is the adapter I used for HDMI when connecting to the CalDigit TS4 dock which has noHDMI port: Apple USB-C Digital AV Multiport Adapter.
 
-<figure><img src="../../../../.gitbook/assets/20240722_150030.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000010.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/20240722_150047.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000011.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

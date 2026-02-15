@@ -26,9 +26,9 @@ This is the last time "Intuos + Number" was how these professional pen tablets w
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250514_223902 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000079.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250514_223912 (Large) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000080.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Models
 

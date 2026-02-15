@@ -26,7 +26,8 @@
 * Anti-glare treatment: Etched glass
 * Contrast ratio: 1000:1
 * Brightness: 250 nits
-* Response time  : 14ms
+* Response time
+  : 14ms
 * Refresh rate: 60Hz
 
 ## Pens
@@ -53,9 +54,9 @@
 * The older GT2401 is clearly sharper than the GT2402.
 * To me the GT2402 was a bit softer than the Huion Kamvas Pro 19 and this might be due to the lower pixel density of the GT2402.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/GT2402_20260115_002613 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000205.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/GT2401_20260115_002800 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000204.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -76,13 +77,13 @@ For HDMI you connect with three separate cables for power, video, and data.
 
 There is no 3-in-1 cable for this tablet.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000249.png" alt=""><figcaption></figcaption></figure>
 
 ### USB-C connection
 
 You can connect this tablet with a single USB-C cable for video and data. The cable you need is provided in the box. Power will require using the separate cable.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000301.png" alt=""><figcaption></figcaption></figure>
 
 ### Compatible USB-C cables
 

@@ -75,7 +75,7 @@ It has more wobble than the Wacom Intuos Pro Large (PTH-860). Notice that wobble
 
 Enabling brush smoothing options in your applications will minimize its visibility.
 
-<figure><img src="../../../../.gitbook/assets/Wobble XP-Pen Deco Pro GEN2 XLW (MT1592B).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000746.png" alt=""><figcaption></figcaption></figure>
 
 ## Hover jitter
 

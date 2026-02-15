@@ -2,9 +2,9 @@
 
 ## Photo Examples
 
-<img src="../.gitbook/assets/pixelnoise1.jpg" alt="" data-size="original">![](<../.gitbook/assets/pixelnoise2 (1) (1).jpg>)
+<img src="../.gitbook/assets/image-000566.jpg" alt="" data-size="original">![](<../.gitbook/assets/image-000567.jpg>)
 
-![](../.gitbook/assets/pixelnoise3.jpg)
+![](../.gitbook/assets/image-000568.jpg)
 
 
 

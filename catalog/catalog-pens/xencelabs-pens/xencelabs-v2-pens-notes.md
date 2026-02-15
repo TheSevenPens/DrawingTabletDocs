@@ -17,9 +17,9 @@
 
 * These V2 pens are sightly different than the previous V1 pens. The thing that visually distinguishes them the most is a small yellow Xencelabs logo near the eraser. This is a nice branding touch, I wish other tablet manufacturers followed this pattern.
 
-<figure><img src="../../../.gitbook/assets/20250412_223844 (Large).jpg" alt=""><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000068.jpg" alt=""><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250412_223901 (Large).jpg" alt="" width="375"><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000069.jpg" alt="" width="375"><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
 ## **Min pressure (IAF)**
 
@@ -44,5 +44,5 @@ Xencelabs has indicated their max pressure should be 500gf. My measurements foun
 
 ## Pressure response charts
 
-<figure><img src="../../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000486.png" alt=""><figcaption></figcaption></figure>
 

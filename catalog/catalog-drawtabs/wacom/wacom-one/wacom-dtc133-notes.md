@@ -36,19 +36,19 @@ I still find 13" tablets a little too small for me. I normally recommend 16" tab
 
 GOOD. has low amount of wobble.
 
-![](<../../../../.gitbook/assets/Diag Wobble Wacom One GEN1 (DTC-133).png>)&#x20;
+![](<../../../../.gitbook/assets/image-000174.png>)&#x20;
 
 ### **Cables and connectivity**
 
 The tablet comes with a 3-in-1 cable. Wacom calls this the "X-shape cable". And you must use this specific cable from Wacom.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-04 124029.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000606.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **NOTE: Cable attachment direction**
 
 Also when you plug in the 3-in-1 cable to the top of the tablet, the cord from should go to the left. If the cord goes to the right the tablet won't work. See the diagram below from Wacom's user manual for this tablet.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-04 124022.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000605.png" alt="" width="306"><figcaption></figcaption></figure>
 
 **Single USB-C connection**
 
@@ -94,7 +94,7 @@ You can purchase it from the Wacom store: [https://estore.wacom.com/en-us/wacom-
 
 
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/ack44506z_main (2) (2).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image-000159.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 

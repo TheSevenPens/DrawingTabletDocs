@@ -20,8 +20,8 @@ description: PTH-x51 series
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250703_074941 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000102.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/20250703_082433 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000103.jpg" alt=""><figcaption></figcaption></figure>

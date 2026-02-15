@@ -38,4 +38,4 @@ It's just an all around good device.
 
 ## Diagonal wobble
 
-<figure><img src="../../../../.gitbook/assets/Samsung Galaxy Tab S9FE 2024_10_30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000592.png" alt=""><figcaption></figcaption></figure>

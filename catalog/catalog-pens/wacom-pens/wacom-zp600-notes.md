@@ -2,13 +2,13 @@
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/ZP-600-Disassembly-section-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000756.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/ZP-600-Disassembly-section-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000757.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/ZP-600-Disassembly-section-3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000758.jpg" alt=""><figcaption></figcaption></figure>
 

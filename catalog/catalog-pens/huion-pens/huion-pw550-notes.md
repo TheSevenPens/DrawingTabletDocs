@@ -16,13 +16,13 @@ It is compatible with the same tablets that support the PW517 pen
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image-0014.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000527.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-0006.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000520.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20240831_125855 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000031.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,19 +36,19 @@ IAF - 7 to 10gf
 
 Max Pressure - between 300 gf to 800gf. With an occasional units around the mid 250s.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000420.png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
-&#x20;![](<../../../.gitbook/assets/20240831_125920 (Large) (1) (1).jpg>)
+&#x20;![](<../../../.gitbook/assets/image-000032.jpg>)
 
 
 
-&#x20;![](<../../../.gitbook/assets/20240831_125946 (Large).jpg>)
+&#x20;![](<../../../.gitbook/assets/image-000033.jpg>)
 
 
 
-![](<../../../.gitbook/assets/20240831_125958 (Large).jpg>)
+![](<../../../.gitbook/assets/image-000034.jpg>)
 
 
 

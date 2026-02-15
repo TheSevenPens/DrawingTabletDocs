@@ -14,19 +14,19 @@ Characteristics:
 
 ## Appearance
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (419).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000386.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The tint is greatly exaggerated in these diagrams. In reality in can be very subtle.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000381.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Keep in mind the topic being discussed here is when the tint as at the edges, not when the tint is evenly distributed over the entire display.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (389).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000378.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Examples
 
-<figure><img src="../../.gitbook/assets/pwjk86u72hda1.jpg" alt=""><figcaption><p>Notice that the purple tint is visible even on a pure white background - it slightly darkens the white region</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000580.jpg" alt=""><figcaption><p>Notice that the purple tint is visible even on a pure white background - it slightly darkens the white region</p></figcaption></figure>
 
 ## When it appears
 

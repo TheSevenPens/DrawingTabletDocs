@@ -45,7 +45,8 @@ This companion video covers many but not all of the topics described in these no
 * PW600S Digital Pen
 * PN06 Standard Pen Nib x 5 (inside the pen case)
 * PN06F Felt Pen Nib x 5 (inside the pen case)
-*  Pen Case
+*
+  Pen Case
 * (Built-in nib clip, pen nibs)
 
 ## Specs
@@ -160,7 +161,7 @@ These pens are very good in terms of pressure. Much more here: [**Huion PW600 an
 
 GOOD. LOW amounts of wobble in stroke.
 
-<figure><img src="../../../../../.gitbook/assets/Huion Kamvas Pro 19 (GT1902) wobble (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image-000221.png" alt=""><figcaption></figcaption></figure>
 
 ## **Display experience**
 
@@ -187,7 +188,7 @@ How the AG sparkle of this tablet compares to other tablets
 
 &#x20;OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) and Cintiq Pro 22 have a slightly soft experience, this Huion has a little more softness than that.
 
-<figure><img src="../../../../../.gitbook/assets/GT1902_softness.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image-000203.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Brightness**&#x20;
 

@@ -44,10 +44,12 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 * Active area&#x20;
   * Wacom One S (2023) - CTC4110WL &#x20;
     * Dimensions: 152 x 95 mm (6.0 x 3.7 in)
-    * Diagonal: 179.25 mm      &#x20;(7.06 in)
+    * Diagonal: 179.25 mm
+      &#x20;(7.06 in)
   * Wacom One M (2023) - CTC6110WL&#x20;
     * Dimensions: 216 x 135 mm (8.5 x 5.3 in)
-    * Diagonal: 254.72 mm      &#x20;(10.03 in)
+    * Diagonal: 254.72 mm
+      &#x20;(10.03 in)
 * Digitizer resolution: 2540 lpi (200lpmm)
 * Tilt: 60 deg
 * Pressure levels: 4096
@@ -58,7 +60,7 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 At the time of launch you can see how bad the strokes look with this tablet and the new CP-923 pen.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000337.png" alt=""><figcaption></figcaption></figure>
 
 
 

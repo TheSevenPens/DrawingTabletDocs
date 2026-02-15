@@ -16,5 +16,5 @@ Line length - 800
 
 Line X Offset - 200
 
-<figure><img src="../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000306.png" alt="" width="563"><figcaption></figcaption></figure>
 

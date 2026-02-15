@@ -10,11 +10,11 @@ You can find older wacom drivers here: [https://www.wacom.com/en-us/support/prod
 
 By entering the model name or number. The latest driver for the tablet is shown and link is provided to older drivers.
 
-<figure><img src="../../.gitbook/assets/image (618).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000488.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If you click on Older versions you'll find a small list of older driver versions
 
-<figure><img src="../../.gitbook/assets/image (619).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000489.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Option 2: SevenPens list of Wacom drivers
 

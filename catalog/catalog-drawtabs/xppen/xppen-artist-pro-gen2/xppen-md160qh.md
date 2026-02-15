@@ -39,7 +39,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 
 
-<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000310.png" alt=""><figcaption></figcaption></figure>
 
 **MacOS** - Some people tell me MacOS has more challenges running at resolutions like the one this tablet uses. I'm not a MacOS expert so I suggest you research this more.
 
@@ -66,7 +66,8 @@ If you need to connect via HDMI you will need a 3-in-1 cable from XP-pen.
 
 Before you purchase verify if you are getting the 3-in-1 cable if you need it.
 
-I contacted XP-Pen support and they indidcated that this compatible 3-in-1 cable: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html<br>](https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html)
+I contacted XP-Pen support and they indidcated that this compatible 3-in-1 cable: [https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html
+<br>](https://www.xp-pen.com/store/buy/3-in-1-cable-for-artist-2nd-gen-series-display.html)
 
 
 
@@ -82,7 +83,7 @@ VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corn
 
 RATING: OK. very slightly increase in wobble is slow strokes. Totally acceptable. A little brush smoothing eliminates it..
 
-<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000748.png" alt=""><figcaption></figcaption></figure>
 
 ## Legs
 
@@ -134,7 +135,7 @@ Tilting the pen within the supported tilt range did not significantly alter the 
 
 In one of the photos you may notice a slight separation between pointer and tip, I think this is mostly due to the position calibration of the pen and not so much the tilt.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/XP-Pen Artist Pro 16 GEN2 (MD160QH) tilt compensation - small.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000749.jpg" alt=""><figcaption></figcaption></figure>
 
 I have heard a few comments on my YouTube channel indicating that some people found very bad tilt compensation. So far I believe if there is an issue it is only with a small number of defective units.&#x20;
 

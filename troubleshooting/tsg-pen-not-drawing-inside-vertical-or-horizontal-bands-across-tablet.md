@@ -8,15 +8,15 @@ This will manifest as a vertical or horizontal bands that the pen seems to ignor
 
 If normal strokes look like this:
 
-![](<../.gitbook/assets/7P Pen skipping bands - NONE.png>)
+![](<../.gitbook/assets/image-000147.png>)
 
 Then missing horizontal bands will look like this:
 
-![](<../.gitbook/assets/7P Pen skipping bands - horizontal.png>)
+![](<../.gitbook/assets/image-000146.png>)
 
 And missing vertical bands will look like this:
 
-![](<../.gitbook/assets/7P Pen skipping bands - vertical.png>)
+![](<../.gitbook/assets/image-000148.png>)
 
 ## Causes
 

@@ -39,9 +39,9 @@ If you are looking for the first "real" drawing tablet from Wacom. Look at the [
 
 
 
-<figure><img src="../../../.gitbook/assets/IMG_20250508_154620094_1.jpg" alt="" width="563"><figcaption><p>WT-460M (picture from <a href="../../../resources/community/kuuube/">Kuuube</a>)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000545.jpg" alt="" width="563"><figcaption><p>WT-460M (picture from <a href="../../../resources/community/kuuube/">Kuuube</a>)</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IMG_20250508_155007709_HDR_1.jpg" alt="" width="563"><figcaption><p>Included pen for the WT-460 (picture from <a href="../../../resources/community/kuuube/">Kuuube</a>)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000546.jpg" alt="" width="563"><figcaption><p>Included pen for the WT-460 (picture from <a href="../../../resources/community/kuuube/">Kuuube</a>)</p></figcaption></figure>
 
 
 

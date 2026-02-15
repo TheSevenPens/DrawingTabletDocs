@@ -4,7 +4,7 @@
 
 You may occasionally encounter a situation when using your drawing tablet on a Windows computer, that the pointer shows as a small diamond shape instead of what you would expect.
 
-<figure><img src="../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000497.png" alt=""><figcaption></figcaption></figure>
 
 ## Cause
 

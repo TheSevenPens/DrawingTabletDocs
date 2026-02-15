@@ -42,19 +42,17 @@ A better choice in 2025 would be these tablets: [**Pen tablet recommendations (M
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/20250924_105022 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000114.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/20250924_105034 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../../.gitbook/assets/20250924_105235 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000115.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/20250924_105759 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000116.jpg" alt=""><figcaption></figcaption></figure>
 
 
+
+<figure><img src="../../../../.gitbook/assets/image-000119.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,11 +62,13 @@ A better choice in 2025 would be these tablets: [**Pen tablet recommendations (M
 
 
 
-<figure><img src="../../../../.gitbook/assets/20250924_105247 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../../.gitbook/assets/image-000117.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/20250924_105401 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000118.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

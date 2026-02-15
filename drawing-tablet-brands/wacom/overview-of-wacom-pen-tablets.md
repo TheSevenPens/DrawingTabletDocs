@@ -13,7 +13,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/7P SLIDE current wacom tablets.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000152.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@ Of the pens identified, the Wacom Pro Pen 2 is the best in terms of design, mate
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/7P SLIDE current wacom default pens.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000151.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

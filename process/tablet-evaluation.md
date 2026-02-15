@@ -78,7 +78,7 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * Looking for lack of "softness"
   *
 
-      <div align="left"><figure><img src="../.gitbook/assets/7p-pixel-sharpness.png" alt="" width="96"><figcaption></figcaption></figure></div>
+      <div align="left"><figure><img src="../.gitbook/assets/image-000157.png" alt="" width="96"><figcaption></figcaption></figure></div>
 * Display OSD
   * how to activate
   * menus

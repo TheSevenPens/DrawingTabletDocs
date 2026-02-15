@@ -79,7 +79,7 @@ Comparisons:
 
 The anti-glare etched glass adds a noticable amount softness to the pixels. Below is the comparison between the Xencelabs Pen Display 24 and the Cintiq Pro 22. It can be hard for photos to be accurate about sharpness but these photos are close to what my eyes perceive.
 
-<figure><img src="../../../.gitbook/assets/Slide_20240907_015550.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000634.jpg" alt=""><figcaption></figcaption></figure>
 
 Although taking these kinds of photos can be tricky, the picture closely matches what my eyes perceive. You can see with the Cintiq Pro 22 that the pixels are crisp and well delineated.&#x20;
 
@@ -130,15 +130,15 @@ In comparison the wobble for horizontal and vertical lines is:
 
 Kamvas Pro 19
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image-000352.png>)
 
 Cintiq pro 27
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (34) (1).png" alt="" width="340"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000357.png" alt="" width="340"><figcaption></figcaption></figure></div>
 
 Xencelabs pen display 24
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000362.png" alt=""><figcaption></figcaption></figure></div>
 
 ## **Diagonal wobble**
 
@@ -158,7 +158,7 @@ Compared to other tablets
 * Has a bit more wobble than the Huion Kamvas Pro 24 4K
 * Has a bit more wobble than the XP-Pen Artist Pro 16 GEN2&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000366.png" alt=""><figcaption></figcaption></figure>
 
 ## Smoothing settings to reduce wobble
 
@@ -179,7 +179,7 @@ Xencelabs is at least aware of the diagonal wobble.
 
 In this review post on reddit (posted July 12, 2023) there are some quoted responses from  Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/)&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000321.png" alt=""><figcaption></figcaption></figure>
 
 It's unclear if they are aware of the more general wobble I encountered.
 

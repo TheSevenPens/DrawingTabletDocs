@@ -33,7 +33,7 @@ You can do this verification easily:
 
 ## Summary of requirements
 
-<figure><img src="../../../.gitbook/assets/Slide_20240527_105643.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000621.png" alt=""><figcaption></figcaption></figure>
 
 ## **Video signal with DP alt mode support**
 
@@ -67,7 +67,7 @@ You should be aware that recessed USB-C ports on your pen display typically mean
 
 More here: [**Recessed USB-C ports**](../recessed-usb-c-ports.md)&#x20;
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Slide_20250106_084310.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000650.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Manufacturer cables vs third-party cables
 

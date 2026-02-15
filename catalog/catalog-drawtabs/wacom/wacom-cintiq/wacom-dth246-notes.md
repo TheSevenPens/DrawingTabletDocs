@@ -60,7 +60,7 @@ A stand is included in the box.
 
 Pay attention to the direction you attach the stand. It should be attached as shown below.
 
-<figure><img src="../../../../.gitbook/assets/image-0004.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000518.png" alt="" width="563"><figcaption></figcaption></figure>
 
 It's easy to accidentally install the stand upside down if you aren't paying attention - and the stand is much less stable that way.
 
@@ -110,11 +110,11 @@ On the back of the table there are three ports
 
 First, this tablet requires you to always use the power adapter as shown below.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image-0001.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000515.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For video signal and data, you have multiple options
 
-<figure><img src="../../../../.gitbook/assets/image-0003.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000517.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Power delivery FROM tablet
 

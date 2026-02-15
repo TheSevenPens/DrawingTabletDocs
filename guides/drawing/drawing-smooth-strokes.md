@@ -94,7 +94,7 @@ Clip Studio Paint has several options
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (61).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000483.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Rebelle
 
@@ -121,7 +121,7 @@ The advantage to this technique is that it doesn't slow down your stroke as you 
 
 The disadvantage to this technique is that you don't exactly know the path of your stroke until a moment after you draw the stroke. Also if you draw a sharp corner, post-correction techniques can somethings not recognize the corner and instead show it as a smooth corner.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000476.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Use vector drawing tools
 

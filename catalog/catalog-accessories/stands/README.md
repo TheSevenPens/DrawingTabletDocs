@@ -16,7 +16,7 @@ Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen A
 
 VESA is a standard to mount displays to various things using screws. More here: [**VESA**](../../../technology/vesa.md)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/20240528_113803.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand </p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000004.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand </p></figcaption></figure></div>
 
 These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable.
 
@@ -53,7 +53,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (78).png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000503.png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
 
 ### Options
 
@@ -68,7 +68,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](vivo-v100r.md)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/71bI0bDLiyL._AC_SL1500_.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000144.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 
 

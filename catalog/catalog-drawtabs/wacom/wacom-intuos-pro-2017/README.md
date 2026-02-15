@@ -21,8 +21,8 @@ description: PTH-x60 series
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/20250514_234358 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000081.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/20250514_234413 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000082.jpg" alt=""><figcaption></figcaption></figure>
 
 ##

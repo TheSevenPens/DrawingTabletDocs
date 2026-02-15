@@ -37,7 +37,7 @@ Thinking of it as a behavior ("how the pen feels")
 
 For example in the Wacom Tablet Properties app it looks like this:
 
-&#x20;![](<../../../.gitbook/assets/image (11) (1).png>)
+&#x20;![](<../../../.gitbook/assets/image-000256.png>)
 
 * The X axis labelled as "Pen pressure" is the logical input pressure
 * The Y axis labelled as "Output" is the output logical pressure
@@ -51,7 +51,7 @@ You might encounter YouTube videos where people describe the pressure curve as t
 
 There are a variety of pressure curve shapes - each of which can solve some problem or achieve some visual effect.
 
-<figure><img src="../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000434.png" alt=""><figcaption></figcaption></figure>
 
 To see which drivers and apps support which shapes see this: [Curve support in applications](app-pressure-curves.md)
 

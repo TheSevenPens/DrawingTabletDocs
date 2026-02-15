@@ -4,7 +4,7 @@
 
 The Wacom Pro Pen 2 is an INCREDIBLE pen. Despite the existence of the Pro Pen 3, I think the Pro Pen 2 is better. This is the standard against which I judge all other pens.
 
-<figure><img src="../../../.gitbook/assets/Wacom Pro Pen 2 (KP-504E).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000725.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Cost
 
@@ -22,7 +22,7 @@ Take care of your Pro Pen 2. A replacement typically costs $90 US. &#x20;
 
 The pressure response is remarkably consistent across multiple units tested. The maximum pressure ranges from about 700gf to 800 gf.
 
-<figure><img src="../../../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000471.png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 

@@ -45,9 +45,9 @@ It seems that the 3D workflow typically involves having many UI elements on scre
 
 For example here is an example of what might need to be on screen
 
-<figure><img src="../../.gitbook/assets/iu (1) (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000548.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/iu2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000549.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

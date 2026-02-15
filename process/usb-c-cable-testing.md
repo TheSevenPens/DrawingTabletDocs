@@ -4,5 +4,5 @@ Because it is hard to tell what a USB-C cable supports, I use this tool to test 
 
 PRODUCT LINK: [https://caberqu.com/content/8-ble-caberqu](https://caberqu.com/content/8-ble-caberqu)&#x20;
 
-<figure><img src="../.gitbook/assets/ble-caberqu (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000165.jpg" alt=""><figcaption></figcaption></figure>
 

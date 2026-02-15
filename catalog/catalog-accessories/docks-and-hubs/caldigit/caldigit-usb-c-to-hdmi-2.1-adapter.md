@@ -4,8 +4,8 @@ This a higher-end adapter that I originally bought to use with my CalDigit TS4 d
 
 
 
-<figure><img src="../../../../.gitbook/assets/DSC00072 (Large).JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000191.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/DSC00071 (Large).JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000190.JPG" alt="" width="375"><figcaption></figcaption></figure>

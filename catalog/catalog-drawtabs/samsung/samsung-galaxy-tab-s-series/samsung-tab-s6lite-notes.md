@@ -33,4 +33,4 @@ In particular you should think about using the Wacom CP-913 instead of the Samsu
 
 ## **Diagonal Wobble**
 
-<figure><img src="../../../../.gitbook/assets/Samsung Galaxy Tab S6 lite (2022 edition) 2025_05_07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000590.png" alt=""><figcaption></figcaption></figure>

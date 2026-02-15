@@ -4,7 +4,7 @@
 
 The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen display. Most often you can fix this issue. But it can be challenging to diagnose because so many possible factors involved.
 
-<figure><img src="../.gitbook/assets/PXL_20221202_033015550.MP smaller.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000583.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
 
 Your pen display is connected to your to your computer for two reasons :
 
@@ -55,7 +55,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 
 | Windows 11                                                                 | MacOS (Ventura)                           |
 | -------------------------------------------------------------------------- | ----------------------------------------- |
-| <img src="../.gitbook/assets/windows_display_settings_dual_monitor.png" alt="" data-size="original"> | ![](<../.gitbook/assets/macos_display_settings_dual_monitor.png>) |
+| <img src="../.gitbook/assets/image-000739.png" alt="" data-size="original"> | ![](<../.gitbook/assets/image-000552.png>) |
 
 If your computer doesn't see the display from the tablet , it will not send a video signal to it.  Follow these troubleshooting steps: [**Troubleshoot display detection**](tsg-display-detection.md)&#x20;
 

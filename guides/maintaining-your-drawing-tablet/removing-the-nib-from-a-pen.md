@@ -18,7 +18,7 @@ Here's a simple nib remover.
 
 This pen case has a nib remover (the small metal ring) built in.
 
-<figure><img src="../../.gitbook/assets/XP-Pen nib remover 20923_09_22 small (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000752.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Alternatives to nib removers
 

@@ -12,11 +12,11 @@ While active, precision mode allows you to make LARGE strokes on the tablet that
 
 
 
-<figure><img src="../../.gitbook/assets/Slide1 (1).JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000610.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/Slide2 (1).JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000613.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Activating precision mode
 

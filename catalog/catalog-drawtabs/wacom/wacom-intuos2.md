@@ -22,9 +22,9 @@ This is a professional pen tablet series from 2001.
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250514_203724 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000073.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250514_203739 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000074.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Reviews
 

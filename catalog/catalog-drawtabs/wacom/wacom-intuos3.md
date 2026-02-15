@@ -29,6 +29,6 @@ description: PTZ-x30 series
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20250514_211256 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000075.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20250514_211307 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000076.jpg" alt=""><figcaption></figcaption></figure>

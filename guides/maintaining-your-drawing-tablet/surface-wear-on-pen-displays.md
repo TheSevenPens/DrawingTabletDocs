@@ -33,7 +33,7 @@ On the internet (reddit, eBay, etc/) you can find plenty of people who have acci
 
 Below is a picture of a Wacom Cintiq 13 HD which has an etched glass surface. It exhibits a lot of wear. (I do think this is a relatively uncommon and extreme amount)
 
-![](../../.gitbook/assets/20qku3ezm38a1.jpg)
+![](../../.gitbook/assets/image-000143.jpg)
 
 From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)&#x20;
 

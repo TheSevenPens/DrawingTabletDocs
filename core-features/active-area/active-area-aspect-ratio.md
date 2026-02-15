@@ -8,11 +8,11 @@ The aspect ratio of your drawing tablet's [**active area**](./), can have a big 
 
 Any rectangular area has an aspect ratio. Which is the relationship between the width and height. Usually we will express the AR as a ratio like 16:9 or 16x9.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/Slide1 (2).JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000611.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Displays (monitors) tend to have aspect ratios like 16x9 and 16x10. 16x9 is the most common aspect ratio.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Slide3.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000614.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Aspect ratio mismatches with pen tablets (IMPORTANT)
 
@@ -30,6 +30,6 @@ The active area of a pen display and their display panel inside the pen display 
 
 As of 2023, NONE of Wacom's pen tablets have an exact 16:9 aspect ratio.
 
-<figure><img src="../../.gitbook/assets/Slide8.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000617.JPG" alt=""><figcaption></figcaption></figure>
 
 ##

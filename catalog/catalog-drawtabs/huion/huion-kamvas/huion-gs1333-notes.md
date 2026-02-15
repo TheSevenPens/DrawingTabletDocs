@@ -96,7 +96,7 @@ TYPICAL for a pen display.  The pointer lag did not interfere with my drawing in
 
 RATING: GOOD. Low amount of diagonal wobble.
 
-<figure><img src="../../../../.gitbook/assets/Diag Wobble Huion Kamvas 13 GEN3 (GS1333) 2024_09_18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000169.png" alt=""><figcaption></figcaption></figure>
 
 ## Display
 
@@ -149,13 +149,13 @@ The tablet can connect to your computer with a single USB-C cable. If more power
 
 HOWEVER: The tabler DOES NOT come with these cables. You'll have to order them separately.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20241109_035317 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000647.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3-in-1 cable connection
 
 The tablet comes with a 3-in-1 cable if you need to use an HDMI port with your computer.
 
-<figure><img src="../../../../.gitbook/assets/Slide_20241109_035629.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000648.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
