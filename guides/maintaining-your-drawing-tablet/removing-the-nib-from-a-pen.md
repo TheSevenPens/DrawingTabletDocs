@@ -2,9 +2,7 @@
 
 ## Overview
 
-Removing the nib in the pen is a common maintenance task to deal with nibs that are wearing down and need to be replaced. You may also need to do this in an emergency if the nib is broken.  &#x20;
-
-
+Removing the nib in the pen is a common maintenance task to deal with nibs that are wearing down and need to be replaced. You may also need to do this in an emergency if the nib is broken.
 
 ## Purpose-built nib removers
 
@@ -14,11 +12,9 @@ Here's a simple nib remover.
 
 ![](/broken/files/YA5ONn7xum0ywdAjPwkW)
 
-
-
 This pen case has a nib remover (the small metal ring) built in.
 
-<figure><img src="../../.gitbook/assets/image-000752.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000752 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Alternatives to nib removers
 
@@ -30,7 +26,7 @@ This pen case has a nib remover (the small metal ring) built in.
 
 ## Broken nib stuck in pen
 
-A nib that has snapped off and left part of itself inside the pen may require some special techniques. See: [**Removing a broken nib**](removing-a-broken-nib.md).&#x20;
+A nib that has snapped off and left part of itself inside the pen may require some special techniques. See: [**Removing a broken nib**](removing-a-broken-nib.md).
 
 ## Videos
 

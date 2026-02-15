@@ -2,29 +2,27 @@
 
 ## Overview
 
-The starting point for understanding EMR is learning how the tablet detects the position of the pen. Once this is known, many other aspects of the tablet can be understand.&#x20;
+The starting point for understanding EMR is learning how the tablet detects the position of the pen. Once this is known, many other aspects of the tablet can be understand.
 
-The tablet and pen are communicating with each other. They swap between listening and transmitting an electromagnetic signal many times a second. This document focuses on the pen producing an electromagnetic signal that the tablet detects.&#x20;
+The tablet and pen are communicating with each other. They swap between listening and transmitting an electromagnetic signal many times a second. This document focuses on the pen producing an electromagnetic signal that the tablet detects.
 
 Please keep in mind, this is a simplified, conceptual explanation. Naturally, the description leaves out many details.
 
 ## The EMR sensor (aka the digitizer)
 
-The fundamental component of a drawing tablet the EMR sensor. The more common name for this is **digitizer**.&#x20;
+The fundamental component of a drawing tablet the EMR sensor. The more common name for this is **digitizer**.
 
 The digitizer is a printed circuit board (PCB) that contains:
 
 * Some chips
 * Some firmware code running in some of this chips
-* a set of coils (wires) laid out on the PCB. The coils that are laid out vertically are clearly visible. The horizontal coils are partially visible as darker regions on the green PCB.&#x20;
+* a set of coils (wires) laid out on the PCB. The coils that are laid out vertically are clearly visible. The horizontal coils are partially visible as darker regions on the green PCB.
 
 This is the top of the Wacom digitizer used in the Wacom Intuos Pen Small (CTL-480). This is a smaller version of a [much larger image](https://commons.wikimedia.org/wiki/File:Wacom_ctl480_sensor_pcb_top.JPG) on Wikipedia commons.
 
-<figure><img src="../../.gitbook/assets/image-000158.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000158 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 The bottom of the digitizer is below. You can see the [larger version here](https://commons.wikimedia.org/wiki/File:Wacom_ctl480_inside.JPG).
-
-&#x20;
 
 <figure><img src="../../.gitbook/assets/image-000727.JPG" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +34,7 @@ Now that we know what the digitizer looks like, by exploring position detection,
 
 ## Detecting a signal with a coil
 
-The coil is a piece of wire that extends from a digitizer chip.&#x20;
+The coil is a piece of wire that extends from a digitizer chip.
 
 NOTE:
 
@@ -45,7 +43,7 @@ NOTE:
 
 <figure><img src="../../.gitbook/assets/image-000423.png" alt=""><figcaption></figcaption></figure>
 
-If the pen is sending an electromagnetic signal and is near the coil. The signal will induce a current in the coil. This is called electromagnetic induction - meaning a current in one thing is causing a current in something else even though they are not touching.  The chip registers the strength of this signal - I draw it as a light blue bar near the detector.  The closer the pen is the stronger the signal. If the pen is far enough away, there really isn't any current detected on the coil.
+If the pen is sending an electromagnetic signal and is near the coil. The signal will induce a current in the coil. This is called electromagnetic induction - meaning a current in one thing is causing a current in something else even though they are not touching. The chip registers the strength of this signal - I draw it as a light blue bar near the detector. The closer the pen is the stronger the signal. If the pen is far enough away, there really isn't any current detected on the coil.
 
 <figure><img src="../../.gitbook/assets/image-000424.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,11 +80,11 @@ I must stress this, even the diagram makes it look like the horizontal and verti
 
 ## Basic position detection
 
-With the coils arranged horizontally and vertically, the coils can detect the position of the pen. Th e  vertical coils detect the horizontal (x) position. The horizontal coils detect the vertical (y) position.
+With the coils arranged horizontally and vertically, the coils can detect the position of the pen. Th e vertical coils detect the horizontal (x) position. The horizontal coils detect the vertical (y) position.
 
 Again notice that multiple coils in each dimension are detecting the signal for the pen.
 
-In this diagram below, the pen coincidentally is right on top of one vertical coil and one horizontal coil. As a result, a single strong peak signal for the both the horizontal and vertical components.&#x20;
+In this diagram below, the pen coincidentally is right on top of one vertical coil and one horizontal coil. As a result, a single strong peak signal for the both the horizontal and vertical components.
 
 <figure><img src="../../.gitbook/assets/image-000429.png" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +92,7 @@ In this diagram below, the pen coincidentally is right on top of one vertical co
 
 Drawing tablets do not have a large number of coils. Not thousands. Not hundreds. They have more like tens of coils for each of the horizontal and vertical dimensions.
 
-The consequence of this very sparse arrangement of coils is that the vast majority of the time, the pen is NOT exactly on top of a specific coil. It's almost always between two coils. &#x20;
+The consequence of this very sparse arrangement of coils is that the vast majority of the time, the pen is NOT exactly on top of a specific coil. It's almost always between two coils.
 
 Also only a small number of coils detect the pen. For example in in any given dimension it could be only 4 coils that detect the pen.
 
@@ -102,7 +100,7 @@ Also only a small number of coils detect the pen. For example in in any given di
 
 In this case above the pen is exactly in-between two horizontal coils and exactly in-between two vertical coils. So now in both the horizontal and vertical directions, there isn't a single strong signal, two signals in each direction have the same value. So the tablet, can infer that the pen is exactly between coils in both directions.
 
-And of course the pen may not not be exactly on or exactly in-between coils as shown below.&#x20;
+And of course the pen may not not be exactly on or exactly in-between coils as shown below.
 
 <figure><img src="../../.gitbook/assets/image-000431.png" alt=""><figcaption></figcaption></figure>
 
@@ -127,4 +125,3 @@ Tablet manufacturers try to counteract this a little bit. The surface of the tab
 We represent the active area as a red box in this diagrams, you'll notice that the active area is not the full size of the grid. Instead it is inset a little bit. This helps the tablet identify the pens position at what you see as the active area.
 
 <figure><img src="../../.gitbook/assets/image-000408.png" alt=""><figcaption></figcaption></figure>
-

@@ -28,11 +28,4 @@ Once you have disconnected a display, Windows still shows you the display in Dis
 
 Once you've disconnected you can always reconnect the display by clicking on that button and selecting an extend or duplicate option.
 
-
-
-<figure><img src="../../../.gitbook/assets/image-000469.png" alt=""><figcaption></figcaption></figure>
-
-
-
-&#x20;
-
+<figure><img src="../../../.gitbook/assets/image-000469 (1).png" alt=""><figcaption></figcaption></figure>

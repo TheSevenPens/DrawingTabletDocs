@@ -8,7 +8,7 @@ NOTE: There is a related problem: [Troubleshoot hooks at start of strokes](tsg-h
 
 ## Examples
 
-![](<../.gitbook/assets/image-000287.png>)![](<../.gitbook/assets/image-000272.png>)
+![](<../.gitbook/assets/image-000287 (2).png>) ![](<../.gitbook/assets/image-000272 (2).png>)
 
 ## Avoid flicking
 
@@ -26,7 +26,7 @@ Even though a low IAF is a good thing. It can also mean that at the end of strok
 
 Try adjusting your pressure curve as shown below to see if this helps reduce the problem.
 
-<figure><img src="../.gitbook/assets/image-000438.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000438 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Your application
 
@@ -48,17 +48,10 @@ In general, set the value to as low a number as it will go and still work correc
 
 The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with these shoelace effect.
 
-![](<../.gitbook/assets/image-000325.png>)
-
-
+![](<../.gitbook/assets/image-000325 (2).png>)
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas_16_2021_shoestringing/)&#x20;
-* [https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795](https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795)&#x20;
+* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas_16_2021_shoestringing/)
+* [https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795](https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795)
 * [https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden_checkmarkshoelace_effect_at_end_of_every/)
-
-
-
-
-

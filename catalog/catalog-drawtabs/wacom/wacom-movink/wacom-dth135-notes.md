@@ -21,7 +21,7 @@ An easy recommendation if you need what it offers.
 
 ### Weight
 
-It weights 420g. This an exceptionally low weight.&#x20;
+It weights 420g. This an exceptionally low weight.
 
 420g is less than these pen displays
 
@@ -39,15 +39,15 @@ It weighs less than any of the these Intuos Pro pen tablets:
 
 * Is very thin at 6.6mm.
 * It is thinner than the Wacom One pen displays which are 14.6mm
-* It is even thinner than some pen tablets.&#x20;
+* It is even thinner than some pen tablets.
   * the Intuos Pro tablets (PTH-x60) are between 8mm and 8.45mm thick.
   * The One by Wacom pen tablets (CTL-471, CTL-672) are 8.7mm think.
 
 ## Links
 
-* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)&#x20;
-* [Teoh on Tech - Review of Wacom Movink 13](https://www.youtube.com/watch?v=ifWwffBQ8VQ) 2024/11/15&#x20;
-* [Brad Colbow - Review of Wacom Movink 13](https://www.youtube.com/watch?v=Y3ASJNcFinI) 2024/05/16&#x20;
+* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
+* [Teoh on Tech - Review of Wacom Movink 13](https://www.youtube.com/watch?v=ifWwffBQ8VQ) 2024/11/15
+* [Brad Colbow - Review of Wacom Movink 13](https://www.youtube.com/watch?v=Y3ASJNcFinI) 2024/05/16
 * [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024/04/24
 
 ## Included pen
@@ -89,7 +89,7 @@ Also this variant pen does not come with any grips or any button strips.
 * Report rate: Wacom does not specify
 * Max hover height: Wacom does not specify
 
-### Display&#x20;
+### Display
 
 * Display panel type: OLED
 * Panel bit depth: 10bit
@@ -120,7 +120,7 @@ Out of the box, the color mode is set to Native. I use it with the sRGB color mo
 
 ## Accessories
 
-* Wacom Foldable stand&#x20;
+* Wacom Foldable stand
 * Wacom Movink Tablet Sleeve
 * Wacom Converter for HDMI
 
@@ -160,13 +160,9 @@ none observed.
 
 <figure><img src="../../../../.gitbook/assets/image-000735.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Blacks
 
-Very deep blacks as expected due to OLED.&#x20;
-
-
+Very deep blacks as expected due to OLED.
 
 ### Screen scratches
 
@@ -174,7 +170,7 @@ The screen has an etched glass surface and an anti-reflecting coating.
 
 Several people have comments and I have personally experienced that the screen will scratch relatively easily. I did not find that normal drawing scratched it, but placing other objects or in a backpack did produce tiny scratches. These scratches could not be felt through the pen. I beieve the AF coating was scratched, not the etched glass.
 
-If you are going to travel with the movink, consider carefully protecting its screen.&#x20;
+If you are going to travel with the movink, consider carefully protecting its screen.
 
 ### Display OSD
 
@@ -184,7 +180,7 @@ You can use touch to work with the OSD. This works even if you have disabled tou
 
 These 4 OSD options lead to sub menus: Input Source, Display settings, Tablet buttons, Other settings.
 
-These 2 OSD buttons toggle on/off: Display saving, Touch on/off&#x20;
+These 2 OSD buttons toggle on/off: Display saving, Touch on/off
 
 <div align="left"><figure><img src="../../../../.gitbook/assets/image-000717.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -224,10 +220,10 @@ EXCELLENT. Changing the tilt of the pen did not significantly change the locatio
 
 ### Pen tracking accuracy
 
-EXCELLENT.&#x20;
+EXCELLENT.
 
-* Very accurate across entire display.&#x20;
-* Very accurate in corners. Incredibly minor displacement of pointer at corners (<1mm).&#x20;
+* Very accurate across entire display.
+* Very accurate in corners. Incredibly minor displacement of pointer at corners (<1mm).
 
 ### Diagonal wobble
 
@@ -243,9 +239,9 @@ At the low end of pressure, there is a difference with how pressure is handled b
 
 Now see what happened with the Samsung S Pen creator edition. This also happened with the other consumer pens such as the Wacom CP-913, Wacom CP-923 and the other Samsung S pens I tried.
 
-Notice the "pulsing".&#x20;
+Notice the "pulsing".
 
-<figure><img src="../../../../.gitbook/assets/image-000572.png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000572 (1).png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
 The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 
@@ -270,16 +266,16 @@ The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
 * A single USB-C cable that supplies power, data, and display signal
 * Two USB-C cables. One that that provides data and display signal and one that supports power.
 * 3-in-1 cable for HDMI connection
-  * The tablet does NOT come with a 3-in-1 cable&#x20;
-  * Wacom offers the [**Wacom Converter (ACK45219Z)**](https://estore.wacom.com/en-us/wacom-converter-ack45219z.html) for thew Movink which serves the same role as a 3-in-1 cable.&#x20;
-  * Wacom also has the [**3-in-1 Cable for Wacom One 2023  Pen Displays (ACK4490602Z)**](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)&#x20;
+  * The tablet does NOT come with a 3-in-1 cable
+  * Wacom offers the [**Wacom Converter (ACK45219Z)**](https://estore.wacom.com/en-us/wacom-converter-ack45219z.html) for thew Movink which serves the same role as a 3-in-1 cable.
+  * Wacom also has the [**3-in-1 Cable for Wacom One 2023 Pen Displays (ACK4490602Z)**](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)
     * This 3-in-1 cable DID work with one condition - I had to connect the power end of the cable into a power adapter instead or relying on a USB-C port on my computer.
 * Here are some other experiences with connecting it
   * [reddit r/wacom - PSA: The new Movink only work on Thunderbolt / USB4 port](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/) 2024/05/26
 
 ## Other inputs
 
-### Touch&#x20;
+### Touch
 
 Yes
 
@@ -325,7 +321,7 @@ Completely quiet. No noise at all.
 
 ## Usage scenarios
 
-### Using it as a pen tablet&#x20;
+### Using it as a pen tablet
 
 This means can we turn off the screen and use it like a pen tablet like an Intuos Pro.
 
@@ -346,9 +342,6 @@ I connected my Samsung Galaxy Tab S8 Ultra to a Microsoft Surface Thunberbolt do
 
 ##
 
-
-
 ## Misc
 
 {% embed url="https://www.youtube.com/watch?v=VANNNQkPvfg" %}
-

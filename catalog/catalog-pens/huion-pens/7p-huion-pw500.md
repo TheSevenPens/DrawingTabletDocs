@@ -27,7 +27,7 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 ## Design
 
-The pen is a little "plastic-feeling" and does not have a premium feeling.&#x20;
+The pen is a little "plastic-feeling" and does not have a premium feeling.
 
 The nib retracts a little more than than more modern EMR pens. It doesn't impact drawing, but it some people may not like the more "spongy" feeling.
 
@@ -39,4 +39,4 @@ Max pressure is OK at around \~250gf with the unit I tested.
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image-000479.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000479 (1).png" alt=""><figcaption></figcaption></figure>

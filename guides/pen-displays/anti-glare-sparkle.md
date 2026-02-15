@@ -8,9 +8,9 @@ Anti-glare sparkle is a side-effect of the anti-glare treatment applied to your 
 If you are looking into removing or reducing the amount of AG sparkle go here [**Reducing Anti-glare sparkle**](reducing-anti-glare-sparkle.md)
 {% endhint %}
 
-## Companion video&#x20;
+## Companion video
 
-Because this is a visible phenomenon, watching the video I made on this topic may be a good starting point.  [https://youtu.be/g\_nsvraK3P8](https://youtu.be/g_nsvraK3P8)
+Because this is a visible phenomenon, watching the video I made on this topic may be a good starting point. [https://youtu.be/g\_nsvraK3P8](https://youtu.be/g_nsvraK3P8)
 
 {% embed url="https://youtu.be/g_nsvraK3P8" %}
 
@@ -29,13 +29,13 @@ AG sparkle is hard to describe in words, but overall it will look like a grainy 
 
 ## What it looks like
 
-Photographing it or filming it is very tricky.&#x20;
+Photographing it or filming it is very tricky.
 
 Depending on the camera settings...
 
-* the effect can disappear&#x20;
+* the effect can disappear
 * the sparkle can look very different from what your eyes see.
-* you might notice it more with some colors than others&#x20;
+* you might notice it more with some colors than others
 
 ### Example 1
 
@@ -47,29 +47,29 @@ The one on the right represents an mor extreme example . You can clearly see tha
 
 ### Example 2
 
-It could also look like this - this is  a very close up view
+It could also look like this - this is a very close up view
 
 <figure><img src="../../.gitbook/assets/image-000276.png" alt=""><figcaption></figcaption></figure>
 
-### Example 3&#x20;
+### Example 3
 
 I found this in a reddit post. The AG sparkle is everywhere but is most noticeable in the green area.
 
-![](<../../.gitbook/assets/image-000346.png>)
+![](../../.gitbook/assets/image-000346.png)
 
 ## How manufacturers refer to the AG treatment
 
 **Huion Kamvas Pro 24 (4K) \[GT2401]**
 
-<img src="../../.gitbook/assets/image-000354.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image-000354 (1).png" alt="" data-size="original">
 
 **XP-Pen Artist Pro 16TP \[MD160U]**
 
-![](<../../.gitbook/assets/image-000290.png>)
+![](../../.gitbook/assets/image-000290.png)
 
 **Wacom One \[DTC133]**
 
-![](<../../.gitbook/assets/image-000327.png>)
+![](../../.gitbook/assets/image-000327.png)
 
 ## Buying a tablet
 
@@ -93,11 +93,11 @@ Your perception of AG sparkly will be affected by several factors.
 
 * The nature of anti-glare treatment. Some tablets models in general seem to use a very intense AG treatment and others have a much milder treatment.
 * The distance between your eyes and the tablet. What might be strongly noticeable at 1 few inches might be essentially invisible at a normal drawing distance.
-* The pixels-per-inch (PPI) of the display.&#x20;
+* The pixels-per-inch (PPI) of the display.
 
-## High Pitch (PPI) displays&#x20;
+## High Pitch (PPI) displays
 
-High-pitch means lots of pixels per inch (PPI).&#x20;
+High-pitch means lots of pixels per inch (PPI).
 
 For example:
 
@@ -115,7 +115,7 @@ If the same exact AG treatment is used on those two displays you will notice it 
 
 ## References
 
-* [Radiant Vision Systems - Repeatable Sparkle Measurement for Quality Control of Anti-Glare Displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays) 2020/10/26&#x20;
+* [Radiant Vision Systems - Repeatable Sparkle Measurement for Quality Control of Anti-Glare Displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays) 2020/10/26
 * [Radiant Vision Systems - Defining a Sparkle Measurement Standard for Quality Control of Anti-Glare Displays](https://www.youtube.com/watch?v=8iTGUNAxPOc) 2020/10/08
 * [Gollier et al. - Display Sparkle Measurement and Human Response](https://jamesferwerda.com/wp-content/uploads/2015/06/r23_gollier13_sid.pdf)
-* [Ferwerda et al. - Perception of sparkle in anti-glare display screens](https://jamesferwerda.com/wp-content/uploads/2015/06/j18_ferwerda14_jsid.pdf) &#x20;
+* [Ferwerda et al. - Perception of sparkle in anti-glare display screens](https://jamesferwerda.com/wp-content/uploads/2015/06/j18_ferwerda14_jsid.pdf)

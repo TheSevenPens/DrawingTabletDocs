@@ -2,13 +2,13 @@
 
 ## Overview
 
-This is an EXCELLENT tablet and for most people this will be the better choice even than a Cintiq Pro.&#x20;
+This is an EXCELLENT tablet and for most people this will be the better choice even than a Cintiq Pro.
 
 It delivers the same excellent drawing experience as a Cintiq Pro.
 
 It's only limitation is that it is not 4K and instead 2.5K (2560x1440) which should be enough for most people.
 
-While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.&#x20;
+While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.
 
 ## Links
 
@@ -20,9 +20,9 @@ While not inexpensive it is a fantastic value for getting something with such a 
 I livestreamed the unboxing, testing, and drawing on this tablet:
 
 * [Unboxing and testing](https://youtube.com/live/Lm-5X-gFtuw?feature=share) 2025/06/24
-* [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025/06/25&#x20;
+* [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025/06/25
 
-Sometime in 2026 I will make a full "review" video soon.&#x20;
+Sometime in 2026 I will make a full "review" video soon.
 
 ## Basics
 
@@ -50,7 +50,7 @@ Sometime in 2026 I will make a full "review" video soon.&#x20;
 * Classic Pen (KP-300E)
 * Art Pen (KP-701E)
 * Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
-* Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here:  [**UD EMR pens**](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md).
+* Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here: [**UD EMR pens**](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md).
 
 ## Non-pen input
 
@@ -66,7 +66,7 @@ It's easy to accidentally install the stand upside down if you aren't paying att
 
 ### Touch
 
-* This model  DOES supports touch.
+* This model DOES supports touch.
 
 ### Auxiliary inputs
 
@@ -108,9 +108,9 @@ On the back of the table there are three ports
 
 ### Connection options
 
-First, this tablet requires you to always use the power adapter as shown below.&#x20;
+First, this tablet requires you to always use the power adapter as shown below.
 
-<figure><img src="../../../../.gitbook/assets/image-000515.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000515 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 For video signal and data, you have multiple options
 
@@ -121,8 +121,6 @@ For video signal and data, you have multiple options
 * The USB-C port that connects to the computer will deliver a very small amount of power.
 * It could in theory recharge your phone after many hours, but it would not be suitable to recharge a laptop.
 * Wacom does NOT identify power delivery as a feature if this tablet.
-
-
 
 ## Comparisons
 
@@ -139,10 +137,10 @@ For video signal and data, you have multiple options
 * Connection options
   * Cintiq Pro 27 has more ports and ways it can connect.
   * Cintiq 24 Touch - uses a mini HDMI port. Which is unusual. And will likely be a very very minor convenience.
-  * Both require power to come from a power adapter&#x20;
+  * Both require power to come from a power adapter
 * Stand
   * The Cintiq 24 touch comes with a stand in the box. Also the stand is pre-attached.
-  * The Cintiq Pro 27 &#x20;
+  * The Cintiq Pro 27
 * Power delivery
   * The Cintiq 24 touch delivered power to a my Samsung phone and tablet. I don't recall Wacom advertising this specifically.
   * The Cintiq Pro 27 - I can't remember if it supported power delivery. I'd have to check again.
@@ -150,4 +148,4 @@ For video signal and data, you have multiple options
   * Cintiq 24 touch is SILENT because it has no fans.
   * The Cintiq Pro 27 has fans which cause noise. I only use the Cintiq Pro 27 at 50% brightness to have a reduced fan noise- but the tablet is never silent. At 100% be
 * Drawing Performance
-  * The core drawing experience - pen pressure, tilt, accuracy are exactly the same.&#x20;
+  * The core drawing experience - pen pressure, tilt, accuracy are exactly the same.

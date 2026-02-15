@@ -5,11 +5,11 @@
 This document is for CREATIVES interested in using OpenTabletDriver on Windows and need features such as pressure sensitivity and tilt.
 
 {% hint style="info" %}
-If you don't know about OpenTabletDriver or why you might want or need to use it, read: [**OpenTabletDriver**](./).&#x20;
+If you don't know about OpenTabletDriver or why you might want or need to use it, read: [**OpenTabletDriver**](./).
 
 Familiarize yourself with the [**My notes on OpenTabletDriver**](notes-on-opentabletdriver.md).
 
-How to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)&#x20;
+How to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -22,7 +22,7 @@ Using OTD for doing artwork is an advanced scenario. Try this only if you are co
 
 ### **Supported tablets**
 
-* OTD supports 300+ tablets from different brands (as of November 2025)&#x20;
+* OTD supports 300+ tablets from different brands (as of November 2025)
 * Consult the complete list of supported tablets: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 * In that list, your tablet may be marked as needing "Zadig WinUSB". There are special requirements for this case. My instructions here DO NOT include those instructions.
 
@@ -34,12 +34,12 @@ Using OTD for doing artwork is an advanced scenario. Try this only if you are co
 
 #### Windows versions
 
-* These instructions are for Windows x64 systems only.&#x20;
+* These instructions are for Windows x64 systems only.
 * OTD does not support 32-bit versions of Windows.
 * OTD does NOT support ARM on Windows
 * I tested these instructions on Windows 11 (Version 10.0.26200 Build 26200) on 2025/11/20
 
-## PHASE  1: Preparation
+## PHASE 1: Preparation
 
 ### STEP 1.1: Verify that OTD supports your tablet
 
@@ -54,49 +54,49 @@ On the list of supported tablets, if your tablet is marked as "Zadig WinUSB" - t
 ### STEP 1.1: Uninstall existing tablet drivers
 
 {% hint style="danger" %}
-<mark style="color:red;">You</mark> <mark style="color:red;"></mark><mark style="color:red;">**MUST**</mark> <mark style="color:red;"></mark><mark style="color:red;">uninstall any existing tablet drivers on your computer. If you leave them installed they will interfere with OTD.</mark>
+<mark style="color:red;">You</mark> <mark style="color:red;">**MUST**</mark> <mark style="color:red;">uninstall any existing tablet drivers on your computer. If you leave them installed they will interfere with OTD.</mark>
 {% endhint %}
 
-* Follow these instructions: [**Uninstalling tablet drivers**](../uninstalling-tablet-drivers.md)&#x20;
+* Follow these instructions: [**Uninstalling tablet drivers**](../uninstalling-tablet-drivers.md)
 * To ensure nothing remains, run this tool[**Tablet driver cleanup tool**](../tablet-driver-cleanup-tool.md).
 
 ### STEP 1.2: Create a folder for OTD
 
 * Create a folder somewhere on your computer called `OpenTabletDriver`
-* I prefer to use `C:\OpenTabletDriver`&#x20;
-* All the instructions in this document will use `C:\OpenTabletDriver`&#x20;
+* I prefer to use `C:\OpenTabletDriver`
+* All the instructions in this document will use `C:\OpenTabletDriver`
 
 ### STEP 1.3: Download the VMulti driver
 
 {% hint style="danger" %}
-<mark style="color:red;">You MUST install</mark> <mark style="color:red;"></mark><mark style="color:red;">**VMulti driver**</mark> <mark style="color:red;"></mark><mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet on Windows.</mark>
+<mark style="color:red;">You MUST install</mark> <mark style="color:red;">**VMulti driver**</mark> <mark style="color:red;">if you want pressure sensitivity & tilt to work with your tablet on Windows.</mark>
 {% endhint %}
 
 * Download `Multi.Driver.zip` from this location:
   * [https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip](https://github.com/X9VoiD/vmulti-bin/releases/download/v1.0/VMulti.Driver.zip)
-* Place the zip file inside `C:\OpenTabletDriver`&#x20;
-* Right-click the zip file, then select **Extract All**.&#x20;
-  * This creates a `C:\OpenTabletDriver\VMulti.Driver` folder&#x20;
+* Place the zip file inside `C:\OpenTabletDriver`
+* Right-click the zip file, then select **Extract All**.
+  * This creates a `C:\OpenTabletDriver\VMulti.Driver` folder
 
 ### STEP 1.4 Install the VMulti driver
 
 {% hint style="danger" %}
-<mark style="color:red;">This next step file may restart your computer without warning. So, close any applications before you install VMUlti.</mark>&#x20;
+<mark style="color:red;">This next step file may restart your computer without warning. So, close any applications before you install VMUlti.</mark>
 {% endhint %}
 
 * Close all applications.
 * In the `C:\OpenTabletDriver\VMulti.Driver` folder, right click on `install_hiddriver.bat`, then select **Run as Administrator**
 
-### STEP 1.5: Install the .NET Runtime&#x20;
+### STEP 1.5: Install the .NET Runtime
 
 {% hint style="warning" %}
 OTD requires a specific version of the .NET Runtime to be installed on your computer. It won't work otherwise.
 {% endhint %}
 
-* Click on this link [https://opentabletdriver.net/Framework](https://opentabletdriver.net/Framework)&#x20;
+* Click on this link [https://opentabletdriver.net/Framework](https://opentabletdriver.net/Framework)
   * It will take you to a page that lists differerent verions of the .NET framework for OTD to use
 * Under "Windows" click on the link labelled "x64".
-  * A download will start for `windowsdesktop-runtime-8.0.22-win-x64.exe`&#x20;
+  * A download will start for `windowsdesktop-runtime-8.0.22-win-x64.exe`
 * Once the exe file is downloaded, run it to install the .NET Runtime.
 
 ### STEP 1.6: Download OpenTabletDriver
@@ -104,11 +104,11 @@ OTD requires a specific version of the .NET Runtime to be installed on your comp
 * Open a browser to this location:
   * [https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest)
 * Scroll down the page to a section labelled "Assets"
-* Look for a file with a name like this `OpenTabletDriver-0.6.6.2_win-x64.zip`&#x20;
+* Look for a file with a name like this `OpenTabletDriver-0.6.6.2_win-x64.zip`
 * Download that zip file.
-* Move the zip file into the  `C:\OpenTabletDriver`  folder
-* Right-click on the zip file, then select **Extract All**.&#x20;
-  * This creates a folder with a name like `C:\OpenTabletDriver\OpenTabletDriver-0.6.6.2_win-x64`&#x20;
+* Move the zip file into the `C:\OpenTabletDriver` folder
+* Right-click on the zip file, then select **Extract All**.
+  * This creates a folder with a name like `C:\OpenTabletDriver\OpenTabletDriver-0.6.6.2_win-x64`
 
 ## PHASE 2: OTD Basics and connecting to a tablet
 
@@ -118,15 +118,15 @@ OTD requires a specific version of the .NET Runtime to be installed on your comp
 DO NOT launch the OTD app with "Run as Administrator". This will cause problems with OTD.
 {% endhint %}
 
-* In the `C:\OpenTabletDriver\OpenTabletDriver-n.n.n.n_win-x64` folder, `launch OpenTabletDriver.UX.Wpf.exe`.&#x20;
+* In the `C:\OpenTabletDriver\OpenTabletDriver-n.n.n.n_win-x64` folder, `launch OpenTabletDriver.UX.Wpf.exe`.
   * This launches the OTD app. (Do not launch it as Administrator)
-* If you see a message that ".NET X Desktop Runtime X64 is not installed", then follow its instructions to install that runtime. Then launch `OpenTabletDriver.UX.Wpf.exe` again.&#x20;
+* If you see a message that ".NET X Desktop Runtime X64 is not installed", then follow its instructions to install that runtime. Then launch `OpenTabletDriver.UX.Wpf.exe` again.
   * This message should not appear because you install edthe .NET Runtime ina previous step.
-* The **OpenTabletDriver Guide** will automatically start&#x20;
+* The **OpenTabletDriver Guide** will automatically start
 * Click the X in the upper right hand corner to close the guide.
 * You can get back to this guide at any time in OTD by navigating to **Help** > **Show guide**.
 
-### STEP 2.2 Minimizing the OTD app&#x20;
+### STEP 2.2 Minimizing the OTD app
 
 {% hint style="info" %}
 This is an important thing to learn, because you will be doing it a lot.
@@ -142,7 +142,7 @@ This is an important thing to learn, because you will be doing it a lot.
 
 For you to use OTD on Windows, the OTD app MUST always be running.
 
-Although it must always be running, You don't have to always have the visible on your screen, you can  minimize the app and find it later in the task bar.
+Although it must always be running, You don't have to always have the visible on your screen, you can minimize the app and find it later in the task bar.
 
 ### **STEP 2.4: Detect your tablet with OTD**
 
@@ -156,7 +156,7 @@ At this point, moving the pen on the tablet should move the mouse pointer.
 
 Do not worry about which monitor the mouse is on. We will cover that soon.
 
-Pressure and will not work right now. We will cover that soon.&#x20;
+Pressure and will not work right now. We will cover that soon.
 
 ## PHASE 3: Configuring OTD to work with your tablet
 
@@ -165,18 +165,18 @@ Pressure and will not work right now. We will cover that soon.&#x20;
 * In the OTD App, go to **Output** > **Tablet** Section
 * In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname> where \<displayname> is specific display you want to use with the tablet.
 * In **Output > Tablet**, right click anywhere, and then select **Lock Aspect Ratio**.
-* ![](<../../../.gitbook/assets/image-000254.png>)
-* At this point moving the pen will move the pointer on exactly 1 display.&#x20;
+* ![](../../../.gitbook/assets/image-000254.png)
+* At this point moving the pen will move the pointer on exactly 1 display.
 * Also there will be no stroke distortion - for example a circle on tablet makes a circle on the monitor with no distortion/stretching
-* Press APPLY and then press SAVE.&#x20;
+* Press APPLY and then press SAVE.
 
-### STEP 3.2: Understanding APPLY and SAVE&#x20;
+### STEP 3.2: Understanding APPLY and SAVE
 
 The instructions have already asked you to press APPLY and SAVE. Let's take a moment to understand these actions a bit better.
 
 SAVE
 
-* SAVE will save current settings, even if you haven't clicked apply and loads them the next time you open OTD.&#x20;
+* SAVE will save current settings, even if you haven't clicked apply and loads them the next time you open OTD.
 * You can test this out by clicking SAVE without clicking APPLY applying and starting the OTD app again. It will load the settings that were saved.
 
 APPLY
@@ -188,16 +188,16 @@ To keep things simple for you for now, I suggest you always click APPLY then SAV
 ### STEP 3.3: Install the Windows Ink plugin
 
 * In the OTD app, navigate to **Plugins** > **Open Plugin Manager**
-* Click on the **Windows Ink** plugin, then click **Install**&#x20;
+* Click on the **Windows Ink** plugin, then click **Install**
 * The Windows Ink plugin will appear at the top of the plugin list
 * Close the **Plugin Manager** window
 
 ### STEP 3.4: Configure Windows Ink mapping mode
 
 * In the OTD app, on the bottom, change the **mode** dropdown:
-  * from **Absolute Mode**&#x20;
+  * from **Absolute Mode**
   * to **Windows Ink Absolute Mode**
-  * click **APPLY** then click **SAVE**&#x20;
+  * click **APPLY** then click **SAVE**
 
 {% hint style="info" %}
 NOTE: You will only see **Windows Ink Absolute Mode** listed if you previously enabled the Windows Ink plugin.
@@ -209,7 +209,7 @@ Navigate to the **Pen Settings** tab
 
 By default the will be configured as shown below
 
-<figure><img src="../../../.gitbook/assets/image-000245.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000245 (2).png" alt=""><figcaption></figcaption></figure>
 
 What to notice here: The tip settings, eraser settings, and the buttons have been configured "Adaptive Binding". For now leave these alone.
 
@@ -219,14 +219,14 @@ NOTE: You cannot assign the pen buttons to take MOUSE actions such as right-clic
 
 ### STEP 3.6: Configure your drawing application to use Windows Ink
 
-* The specific instructions vary per app.&#x20;
+* The specific instructions vary per app.
 * Instructions for specific apps: [Configure Windows Ink for apps](../../operating-systems/windows/winink/winink-config-apps.md)
 
 ### STEP 3.7 Checkpoint
 
 At this point you should be able to effectively draw with OTD. Pressure and Tilt should work.
 
-I suggest you install Krita and configure it to use Windows Ink&#x20;
+I suggest you install Krita and configure it to use Windows Ink
 
 Try some basic drawing and see if everything is working
 
@@ -250,15 +250,15 @@ By default OTD does not use a pressure curve to modify how the pressure data is 
 
 ### STEP 4.3 Smoothing
 
-By default OTD performs no smoothing on the pen data. This is desirable because&#x20;
+By default OTD performs no smoothing on the pen data. This is desirable because
 
 * it gives you a VERY responsive drawing experience
 * Gives you complete control about the smoothing
 
 Two ways to introduce smoothing
 
-* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)&#x20;
-* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)&#x20;
+* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)
+* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)
 
 ### STEP 4.4 Configure tablet buttons
 
@@ -285,9 +285,9 @@ See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalli
 
 No matter where OpenTabletDriver is installed, when it is running, it will put its data into a user-specific application data folder on Windows.
 
-The location of the folder is here:&#x20;
+The location of the folder is here:
 
-`%localappdata%\OpenTabletDriver` &#x20;
+`%localappdata%\OpenTabletDriver`
 
 This expands to a path that should look like:
 
@@ -299,10 +299,6 @@ This is what my folder looks like:
 
 ProTip: Quickly get to the AppData folder by pressing WINDOWS+R and typing appdata. It will open a window directly to that folder.
 
-![](<../../../.gitbook/assets/image-000267.png>)
-
-
-
-
+![](../../../.gitbook/assets/image-000267.png)
 
 dd

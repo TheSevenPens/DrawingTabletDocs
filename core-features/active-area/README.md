@@ -10,9 +10,9 @@ When we talk about the "size" of the drawing tablet, we are referring to the act
 
 The active area is usually marked in some way on the surface. Sometimes it is marked at its four corners. Some tablets show a grid of of dots.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000303.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000303 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-![](<../../.gitbook/assets/image-000751.jpg>)![](<../../.gitbook/assets/image-000218.jpg>)
+![](../../.gitbook/assets/image-000751.jpg) ![](<../../.gitbook/assets/image-000218 (1).jpg>)
 
 ## Active area of pen displays
 
@@ -27,4 +27,3 @@ Usually when we discuss the size of an active area, we talk about its diagonal l
 ## Aspect ratio
 
 The relationship between the width and height of the active area is its aspect ratio. More here: [**Active area aspect ratio**](active-area-aspect-ratio.md).
-

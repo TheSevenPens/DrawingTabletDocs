@@ -19,7 +19,7 @@ The key thing you want to understand from a user manual is:
 
 Because it is so common that people struggle with the decision between getting a pen tablet and pen display. You should go into the purchase decision knowing that each kind of tablet has its advantages.
 
-Many people think that pen displays are simply inherently better. This certainly is not true. I strongly suggest you carefully consider the strengths and weaknesses of both.&#x20;
+Many people think that pen displays are simply inherently better. This certainly is not true. I strongly suggest you carefully consider the strengths and weaknesses of both.
 
 Here you can find the comparison between pen tablets and pen displays that should help you make your decision: [**pen tablets vs pen displays**](buying-tips.md#pen-tablets-vs-pen-displays).
 
@@ -28,8 +28,6 @@ Here you can find the comparison between pen tablets and pen displays that shoul
 There are many tablet brands. I usually stick to talking about and recommending tablets from Wacom, Huion, XP-Pen, and Xencelabs. That's because I have owned many of those tablets and I believe there's a large enough community of users of those tablets that if you need help you're likely to find it from them.
 
 You can read much more about these brands here: [**Drawing tablet brands**](../drawtab-brands/drawing-tablet-brands-vs-digitizers.md).
-
-
 
 ## Community size
 
@@ -49,15 +47,13 @@ For pen tablets this is pretty easy. All pen tablets can connect with a USB C ca
 
 In the user manual you'll find diagrams like this for a pen tablet.
 
-<figure><img src="../.gitbook/assets/image-000653.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000653 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 For a pen display wiring them up is much more complicated. There are more cables and ports involved. And more requirements on those cables and ports.
 
 The user manual will show diagrams like these below indicating how pen displays may connect to a computer.
 
-
-
-<figure><img src="../.gitbook/assets/image-000654.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000654 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image-000655.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -101,13 +97,13 @@ More here: [**How many pressure levels do you really need?**](how-many-pressure-
 
 ## **Be prepared to handle common problems**
 
-* Ensure you know how to contact customer support.&#x20;
-* Ensure you know the warranty and how (if needed) you can can return the tablet to the manufacturer or to the retailer (example: Amazon) you bought it from&#x20;
+* Ensure you know how to contact customer support.
+* Ensure you know the warranty and how (if needed) you can can return the tablet to the manufacturer or to the retailer (example: Amazon) you bought it from
 * Here's a list of [Common problems with drawing tablets](../troubleshooting/common-problems-with-drawing-tablets.md). Although for a majority of you everything \`will "just work" some small number of you will start off with issues on day one.
-* I have a list of troubleshooting docs here: [Troubleshooting](../troubleshooting/)&#x20;
-* The most complex problem for pen displays is usually the "NO SIGNAL" problem. If it happens, this guide will help: [Troubleshoot the NO SIGNAL problem](../troubleshooting/tsg-no-signal.md)  &#x20;
+* I have a list of troubleshooting docs here: [Troubleshooting](../troubleshooting/)
+* The most complex problem for pen displays is usually the "NO SIGNAL" problem. If it happens, this guide will help: [Troubleshoot the NO SIGNAL problem](../troubleshooting/tsg-no-signal.md)
 
-## Check the reviews&#x20;
+## Check the reviews
 
 <mark style="color:red;">**Never purchase a tablet without looking at the reviews first.**</mark>
 
@@ -117,7 +113,7 @@ Some reviewers to explore:
 * **Create Now Sleep Later** ([https://www.youtube.com/c/Createnowsleeplater)](https://www.youtube.com/c/Createnowsleeplater)
 * **Brad Colbow** ([https://www.youtube.com/c/thebradcolbow)](https://www.youtube.com/c/thebradcolbow)
 * **Aaron Rutten** ([https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
-* **Adam Duff** ([https://www.youtube.com/@AdamDuffArt) ](https://www.youtube.com/@AdamDuffArt)
+* **Adam Duff** ([https://www.youtube.com/@AdamDuffArt)](https://www.youtube.com/@AdamDuffArt)
 
 ## Verify the model number, not just the model name
 
@@ -126,12 +122,9 @@ Tablet names are confusingly similar. So much so, that I've seen people order th
 * NEVER order by using the name of the tablet alone.
 * ALWAYS verify you have ordered correct model number.
 
-See this page for all the reasons why you should not rely on the model name: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md)&#x20;
+See this page for all the reasons why you should not rely on the model name: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md)
 
 ## Make sure your working environment is usable
 
-* Check for potential sources of Electromagnetic Interference. More here: [**Electromagnetic interference**](../guides/general/electromagnetic-interference.md)&#x20;
-* Ensure you have enough space on your desk for the tablet and  where your keyboard will be placed
-
-
-
+* Check for potential sources of Electromagnetic Interference. More here: [**Electromagnetic interference**](../guides/general/electromagnetic-interference.md)
+* Ensure you have enough space on your desk for the tablet and where your keyboard will be placed

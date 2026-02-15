@@ -26,9 +26,9 @@ Here is an example of two USB-C ports with the Thnderbolt symbol
 
 Here is an example of a cable with a Thunderbolt symbol.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000602.jpg" alt="" width="169"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000602 (1).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
-Unfortunately, many USB-C thunderbolt ports and cables simply do not have the thunderbolt logo on them.&#x20;
+Unfortunately, many USB-C thunderbolt ports and cables simply do not have the thunderbolt logo on them.
 
 ### Option 3: Unlabeled ports and cables
 
@@ -36,7 +36,7 @@ If your cable or port, does not support DP alt mode, you have several remaining 
 
 * **Read the documentation**. Look for for the words "Thunderbolt" of "DP alt mode". Sometimes the documentation will say something more ambiguous like "supports display".
 * **Contact product support** from your manufacturer. Just ask them!
-* **Reach out to an online community** and ask if anyone has been able to use that port in their tablet to receive a display signal.&#x20;
+* **Reach out to an online community** and ask if anyone has been able to use that port in their tablet to receive a display signal.
 
 ## Things to keep in mind
 

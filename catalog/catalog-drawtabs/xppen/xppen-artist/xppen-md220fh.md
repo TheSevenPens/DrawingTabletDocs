@@ -6,13 +6,13 @@
 
 ## Anti-glare sparkle
 
-Rating: VERY GOOD. very low amount of AG sparkle visible. Your eyes would have to be within a few inches to see it.&#x20;
+Rating: VERY GOOD. very low amount of AG sparkle visible. Your eyes would have to be within a few inches to see it.
 
 ## Tilt compensation
 
-Rating: VERY GOOD.&#x20;
+Rating: VERY GOOD.
 
-<figure><img src="../../../../.gitbook/assets/image-000649.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000649 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Ports
 
@@ -27,13 +27,10 @@ Option 1: USB-C + power
 
 <figure><img src="../../../../.gitbook/assets/image-000452.png" alt=""><figcaption></figcaption></figure>
 
-
-
 Option 2: HDMI + USB + power
 
 <figure><img src="../../../../.gitbook/assets/image-000453.png" alt=""><figcaption></figcaption></figure>
 
 ## Audio
 
-Comes with a headphone jack.&#x20;
-
+Comes with a headphone jack.

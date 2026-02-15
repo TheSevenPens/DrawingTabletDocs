@@ -6,29 +6,29 @@ We would all like to have completely brand new equipment. However, used tablets 
 
 ## My experience with used drawing tablets
 
-I have bought and worked with MANY used drawing tablets - 26 used tablets as of April 2024. You can see the list of all my tablets here: [my tablets](../about-thesevenpens/inventory.md)&#x20;
+I have bought and worked with MANY used drawing tablets - 26 used tablets as of April 2024. You can see the list of all my tablets here: [my tablets](../about-thesevenpens/inventory.md)
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used I own many used pen tablets, some over 25+ years old that still work.
-* **pen displays** - I have purchased one used pen display.&#x20;
-* **pen computers** - I have no experience with used pen computers. And in general I do not recommend pen computers. See: [The case against pen computers](the-case-against-pen-computers.md)&#x20;
+* **pen displays** - I have purchased one used pen display.
+* **pen computers** - I have no experience with used pen computers. And in general I do not recommend pen computers. See: [The case against pen computers](the-case-against-pen-computers.md)
 
 ## Tablet age
 
-Because the used tablets might be older models, you should prepare for issues that might arise due to their age. More here: [Using older drawing tablets](../guides/general/using-older-drawing-tablets.md)&#x20;
+Because the used tablets might be older models, you should prepare for issues that might arise due to their age. More here: [Using older drawing tablets](../guides/general/using-older-drawing-tablets.md)
 
-## **Older drivers**&#x20;
+## **Older drivers**
 
 In particular you may need to use older drivers. This comes with its own set of complications. More here: [Using older tablet drivers](../guides/drivers/using-older-tablet-drivers.md)
 
 ## Which brands for buying used
 
-Wacom products have always been the most reliable and higher quality devices. So even going back years, their models work well. Because Wacom professional pen tablets are the very highest quality, those make great choices for buying used. More here: [drawing tablet brands](../drawtab-brands/) &#x20;
+Wacom products have always been the most reliable and higher quality devices. So even going back years, their models work well. Because Wacom professional pen tablets are the very highest quality, those make great choices for buying used. More here: [drawing tablet brands](../drawtab-brands/)
 
 ## Used Wacom Intuos professional tablets
 
 There are some factors you MUST take into account when buying them used. I've summarized those issues in this video below. In the description of the video, please make sure to note the errata.
 
-Even though this video is about used pen tablets, I think it may be useful even if you are looking to purchase a used pen display.&#x20;
+Even though this video is about used pen tablets, I think it may be useful even if you are looking to purchase a used pen display.
 
 Likewise even though this video is about professional tablets, the topics raised also apply to consumer level tablets.
 
@@ -58,12 +58,12 @@ It may be worth asking the seller how clean the tablet is.
 
 ## Alternative to Wacom drivers for older tablets
 
-* If you have an older tablet and need a driver check out [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)&#x20;
+* If you have an older tablet and need a driver check out [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)
 * For creative work in Windows see [**Using OpenTabletDriver on Windows for drawing**](../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
 
 ## Testing out a tablet before you buy
 
-If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawtab.md). &#x20;
+If you have the opportunity to examine the tablet before you decide to buy, here are some things: [Inspecting a tablet](inspecting-a-drawtab.md).
 
 ## Buying online
 
@@ -89,11 +89,11 @@ Don't rely on the model number in the listing title, always check the photos of 
 
 Some manufacturers directly sell new and used/refurbished tablets on eBay
 
-* Wacom: [https://www.ebay.com/str/wacom](https://www.ebay.com/str/wacom)&#x20;
-* Huion: [https://www.ebay.com/str/huiontablet](https://www.ebay.com/str/huiontablet)&#x20;
+* Wacom: [https://www.ebay.com/str/wacom](https://www.ebay.com/str/wacom)
+* Huion: [https://www.ebay.com/str/huiontablet](https://www.ebay.com/str/huiontablet)
 * XP-Pen:
   * [https://www.ebay.com/str/xpdrawingus](https://www.ebay.com/str/xpdrawingus)
-  * [https://www.ebay.com/str/xppentechnology](https://www.ebay.com/str/xppentechnology)&#x20;
+  * [https://www.ebay.com/str/xppentechnology](https://www.ebay.com/str/xppentechnology)
 
 ## Surface texture
 
@@ -101,9 +101,9 @@ A used tablet's surface might be almost pristine or it might be heavily used and
 
 * Ideally you get one that is not heavily worn.
 * Small scratches or OK if they can not be felt through the pen.
-* Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../catalog/catalog-accessories/surface-protectors/)&#x20;
+* Larger scratches will interfere with your pen. You might be able mitigate that by using some surface protection. More here: [Surface protectors](../catalog/catalog-accessories/surface-protectors/)
 
-More here:&#x20;
+More here:
 
 * [surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
 * [surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)
@@ -112,12 +112,12 @@ More here:&#x20;
 
 Keep in mind you may get a nice price on a tablet, but it may not come with a pen. So verify whether a pen is included or not before you purchase.
 
-If you need to buy a pen or you break your pen, keep in mind that&#x20;
+If you need to buy a pen or you break your pen, keep in mind that
 
 * You have to make sure you find the exact model number of pen that is compatible with your tablet. A random pen from the same brand may not be compatible.
 * Replacement pens can be very expensive even if they are a decade old. For example, older Wacom Pro Pens can be very expensive (>=$100).
-* Replacement pens can be incredibly hard to find on the used market.&#x20;
-* In the used market, sellers do not sell the pen by itself. So you may even have to purchase ANOTHER tablet with a pen. I've personally had to do this myself.&#x20;
+* Replacement pens can be incredibly hard to find on the used market.
+* In the used market, sellers do not sell the pen by itself. So you may even have to purchase ANOTHER tablet with a pen. I've personally had to do this myself.
 
 More here: [**Replacing a pen**](../guides/maintaining-your-drawing-tablet/replacing-a-pen.md)
 
@@ -127,7 +127,7 @@ Some people hold their pens in their mouths and use their teeth to lightly chew 
 
 Below is a used Intuos1 pen (GP-300E) I bought on eBay displaying what I believe are bite marks on and near the eraser.
 
-<figure><img src="../.gitbook/assets/image-000202.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000202 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 This is a reminder that you should thoroughly clean any used equipment you purchase.
 
@@ -137,8 +137,8 @@ Often, depending on the tablet and how you draw, the pen nib wears down as you u
 
 * Verify whether your purchase includes spare nibs or not.
 * Compatible nibs may be difficult to find.
-* Compatible nibs may be difficult.&#x20;
+* Compatible nibs may be difficult.
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos_4_or_intuos_5/)&#x20;
+* [https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos_4_or_intuos_5/)

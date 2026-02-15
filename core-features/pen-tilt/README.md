@@ -4,13 +4,11 @@
 
 Almost all drawing tablets can detect the tilt of the pen. The support tilt for drawing tablets usually ranges from 0 degrees to 60 degrees.
 
-<figure><img src="../../.gitbook/assets/image-000618.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000618 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This video demonstrates tilt. I highly recommend you watch it.
 
 {% embed url="https://www.youtube.com/watch?v=O9cMFehZnsI" %}
-
-
 
 ## How tilt is used in drawing applications
 
@@ -20,7 +18,7 @@ Many drawing applications have digital brushes that mimic that same behavior.
 
 For example, here is a stroke I drew with Krita. I configured the brush to ignore pressure entirely, but to let the amount of tilt control the width of the brush.
 
-As draw left to right I started with the pen very perpendicular and gradually started tilting the pen.&#x20;
+As draw left to right I started with the pen very perpendicular and gradually started tilting the pen.
 
 <figure><img src="../../.gitbook/assets/image-000706.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +33,7 @@ it's easier to list the modern tablets that don't support tilt:
 * Wacom One by Wacom Small (CTL-472)
 * Wacom One by Wacom Medium (CTL-672)
 * Wacom Wacom Intuos Medium (CTL-6100 & CTL-6100WL)
-* Wacom Wacom Intuos Small (CTL-4100 &  CTL-6100WL)
+* Wacom Wacom Intuos Small (CTL-4100 & CTL-6100WL)
 * Huion Frego S (L310)
 
 ## Do you need tilt support?
@@ -65,9 +63,9 @@ You don't need to know these details, but if you are curious how an EMR tablet a
 
 * Even if your tablet is sending tilt data to your computer, your application may or may not be using the data.
 * Some applications don't use the tilt data at all. An example would be most note taking applications like OneNote. They tend to recognize pressure but not tilt.
-* Other applications do recognize tilt but the use of the tilt data is only for specific brushes. So for example, typically a "pencil" brush would support tilt. But other kinds of  brushes may not. Even then, these brushes has settings that let you customize whether and how tilt is used for the brush.
+* Other applications do recognize tilt but the use of the tilt data is only for specific brushes. So for example, typically a "pencil" brush would support tilt. But other kinds of brushes may not. Even then, these brushes has settings that let you customize whether and how tilt is used for the brush.
 * Here's a good example for a brush in Krita. You can seee that the Rotation of the brush is set to the Drawing Angle, but that it could also be set to the tilt.
-* ![](<../../.gitbook/assets/image-000277.png>)
+* ![](../../.gitbook/assets/image-000277.png)
 
 ## Tilt affect on pen tracking accuracy (tilt compensation)
 
@@ -77,5 +75,4 @@ To calculate the location of the pen, the tablet must take into account how much
 
 ## Disabling tilt
 
-You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [**Disable pen tilt**](disabling-pen-tilt.md)&#x20;
-
+You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [**Disable pen tilt**](disabling-pen-tilt.md)

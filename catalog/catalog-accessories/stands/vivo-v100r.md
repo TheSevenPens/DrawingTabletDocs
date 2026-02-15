@@ -6,9 +6,7 @@ I am very happy with this stand. It makes it easy to use my pen displays as a mo
 
 ## Basics
 
-product page [https://vivo-us.com/collections/monitor-mounts/products/stand-v001r](https://vivo-us.com/collections/monitor-mounts/products/stand-v001r)&#x20;
-
-
+product page [https://vivo-us.com/collections/monitor-mounts/products/stand-v001r](https://vivo-us.com/collections/monitor-mounts/products/stand-v001r)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000709.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -36,17 +34,13 @@ The tension on the arm is adjustable with one of the provided hex wrenches. I tu
 
 ## Other notes
 
-The base was surprisingly heavy.&#x20;
+The base was surprisingly heavy.
 
 ## Photos and notes
 
-
-
-<figure><img src="../../../.gitbook/assets/image-000014.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000014 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 I attached the table with the screws and used the washers in this way because I thought it would be a more secure fit.
-
-
 
 <figure><img src="../../../.gitbook/assets/image-000015.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -58,27 +52,19 @@ The rotation on the stand goes about +/- 45 degrees
 
 <figure><img src="../../../.gitbook/assets/image-000017.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-
-
-<figure><img src="../../../.gitbook/assets/image-000018.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image-000018 (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 This is about as high that the display can go.
 
 <figure><img src="../../../.gitbook/assets/image-000019.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-
-
-With my 22" display I could lower it such that the display could securely rest on the desk.&#x20;
+With my 22" display I could lower it such that the display could securely rest on the desk.
 
 <figure><img src="../../../.gitbook/assets/image-000020.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000021.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 It can be tiled back. I was able to keep the bottom edge of the displayt securely on the desk up to 35 degrees.
-
-
 
 <figure><img src="../../../.gitbook/assets/image-000022.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -95,4 +81,3 @@ Here are some more extreme angles.
 <figure><img src="../../../.gitbook/assets/image-000026.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000027.jpg" alt="" width="188"><figcaption></figcaption></figure>
-

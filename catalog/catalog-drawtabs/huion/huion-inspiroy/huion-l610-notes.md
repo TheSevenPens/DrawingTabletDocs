@@ -2,10 +2,10 @@
 
 ## Overview
 
-This is a great entry-level tablet. It does all the basics extremely well.&#x20;
+This is a great entry-level tablet. It does all the basics extremely well.
 
 * A good simple tablet. Nothing fancy.
-* Good for beginners.&#x20;
+* Good for beginners.
 * If you have an older Huion tablet it might be a good upgrade.
 * The pen it came with had a very wide pressure range. This range is very good. pen IAF was typical of Huion (i.e. slightly higher IAF than Wacom's pro pens).
 * See the known issues section at the bottom.
@@ -16,7 +16,7 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 
 ## Links
 
-* Product pages&#x20;
+* Product pages
   * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
   * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-S.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)
 * Parka Blogs - [Review of Huion Frego M (L610) & S (L310)](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) 2024/08/22
@@ -25,21 +25,21 @@ This is a great entry-level tablet. It does all the basics extremely well.&#x20;
 ## Basics
 
 * Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
-* Release year: 2024&#x20;
-* User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User_Manual_inspiroy_frego_EN.pdf)&#x20;
+* Release year: 2024
+* User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User_Manual_inspiroy_frego_EN.pdf)
 
 ## Size <a href="#size" id="size"></a>
 
 This is a medium-sized tablet - with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
 
-* Huion Frego M (L610):&#x20;
+* Huion Frego M (L610):
   * Dimensions: 10 x 6.25”
   * Diagonal length: 11.79”
-* Wacom Intuos Pro Medium (PTH-660):&#x20;
+* Wacom Intuos Pro Medium (PTH-660):
   * Dimensions: 8.7 x 5.8”
   * Diagonal length: 10.57”
 
-In terms of paper sizes this is about the size of an A5 sheet of paper which has a diagonal length of 10.13"&#x20;
+In terms of paper sizes this is about the size of an A5 sheet of paper which has a diagonal length of 10.13"
 
 ## Aspect Ratio
 
@@ -49,13 +49,13 @@ In terms of paper sizes this is about the size of an A5 sheet of paper which has
 
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
-Looks very simple and nice. Is very good. I wouldn't say it has a premium look.&#x20;
+Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 **Color** - matte black all around
 
 **Huion branding** - On the front nothing is visible. One the back the Huion logo is very slightly visible as some recessed shiny black plastic..
 
-**Lights**&#x20;
+**Lights**
 
 * green LED on upper right indicating USB connection
 * blue LED on upper right indicating Bluetooth operation
@@ -64,7 +64,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.&
 
 * Comes with the Huion PW550S pen.
 * Default nib: felt.
-  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.&#x20;
+  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
 * More here: [<mark style="background-color:green;">**My notes on the Huion PW550 series pens**</mark>](../../../catalog-pens/huion-pens/huion-pw550-notes.md)
 
 ## Other compatible pens
@@ -74,18 +74,18 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.&
 ## Pen pressure
 
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
-* **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.&#x20;
+* **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.
 * More here: [<mark style="background-color:green;">**My notes on Huion PW550 and PW550S pens**</mark>](../../../catalog-pens/huion-pens/huion-pw550-notes.md)
 
 ## Pointer lag
 
-VERY LOW - Typical for a pen tablet. Just a tiny tiny bit more lag than a Wacom in my opinion. This lag is fine and will not affect drawing. &#x20;
+VERY LOW - Typical for a pen tablet. Just a tiny tiny bit more lag than a Wacom in my opinion. This lag is fine and will not affect drawing.
 
 ## Touch
 
 NONE. This tablet does NOT support touch.
 
-## Auxiliary inputs&#x20;
+## Auxiliary inputs
 
 The tablet has not buttons dials or sliders.
 
@@ -129,7 +129,7 @@ VERY GOOD. test with a 300px brush. Pressure smoothly transitions. A little bit 
 
 ## Pressure scan rate testing
 
-EXCELLENT.  I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
+EXCELLENT. I drew 50 small strokes as fast as I could. The tablet registered all 50 strokes.
 
 ## Tilt Compensation
 
@@ -147,7 +147,7 @@ This tablet works very well with Android! In fact this is the first tablet, I've
 
 Note that the Huion Inspiroy Frego S also works well with Android but slightly differently. See Teoh on Tech's review of the Frego where he explains the difference.
 
-**Devices tested**&#x20;
+**Devices tested**
 
 All the devices listed below worked well with the Frego.
 
@@ -160,7 +160,7 @@ All the devices listed below worked well with the Frego.
 * Wireless - I connected via Bluetooth. And it worked.
 * Wired - Huion says it should work with when using a USB-C cable. I was not able to make this work. That may be my fault. Still investigating. (Huion clearly demonstrated that this is possible in this video: [https://www.youtube.com/watch?v=Oq6KeACQo68](https://www.youtube.com/watch?v=Oq6KeACQo68))
 
-**Orientation**&#x20;
+**Orientation**
 
 The Frego M tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
 
@@ -174,27 +174,25 @@ When connected to android the tablet keeps sets active area to match the aspect 
 
 NOTE: What I describe below is an interaction between Android and applications. It has nothing to do with the tablet.
 
-Android apps seem inconsistent with how they show cursors. I will contact the creators of these apps and suggest how they should work. Which in  my opinion should be: (1) on hover, show the brush outline (2) while drawing show the brush outline.
+Android apps seem inconsistent with how they show cursors. I will contact the creators of these apps and suggest how they should work. Which in my opinion should be: (1) on hover, show the brush outline (2) while drawing show the brush outline.
 
 <figure><img src="../../../../.gitbook/assets/image-000640.jpg" alt=""><figcaption></figcaption></figure>
 
 **Bluetooth pointer lag**
 
-Even with Bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any  lag or skips.&#x20;
+Even with Bluetooth the pen felt very responsive when drawing on an Android device. I didn't notice any lag or skips.
 
 **Bluetooth > switching devices**
 
-I paired it with android device A. But then to pair it with android device B, I had to go to device A and end the pairing. After that it would work with device B.&#x20;
+I paired it with android device A. But then to pair it with android device B, I had to go to device A and end the pairing. After that it would work with device B.
 
 ## Photos
 
-![](<../../../../.gitbook/assets/image-000028.jpg>)  ![](<../../../../.gitbook/assets/image-000029.jpg>)
+![](<../../../../.gitbook/assets/image-000028 (1).jpg>) ![](<../../../../.gitbook/assets/image-000029 (3).jpg>)
 
+![](../../../../.gitbook/assets/image-000035.jpg) ![](<../../../../.gitbook/assets/image-000036 (1).jpg>)
 
-
-![](<../../../../.gitbook/assets/image-000035.jpg>)   ![](<../../../../.gitbook/assets/image-000036.jpg>)
-
-![](<../../../../.gitbook/assets/image-000037.jpg>)  ![](<../../../../.gitbook/assets/image-000038.jpg>)
+![](../../../../.gitbook/assets/image-000037.jpg) ![](../../../../.gitbook/assets/image-000038.jpg)
 
 <figure><img src="../../../../.gitbook/assets/image-000030.jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
 
@@ -208,11 +206,10 @@ Some users report that "air bubbles" appear under the tablet surface. Sometimes 
 
 This problem is present, but does not appear super widespread. The vast majority of users don't mention any bubbles. I personally have not run into these bubbles.
 
-If you do encounter this problem, contact Huion support for a replacement. &#x20;
+If you do encounter this problem, contact Huion support for a replacement.
 
 Examples:
 
-* [https://www.reddit.com/r/huion/comments/1iltd0r/brand\_new\_inspiroy\_frego\_m\_has\_air\_bubbles\_under/](https://www.reddit.com/r/huion/comments/1iltd0r/brand_new_inspiroy_frego_m_has_air_bubbles_under/)&#x20;
+* [https://www.reddit.com/r/huion/comments/1iltd0r/brand\_new\_inspiroy\_frego\_m\_has\_air\_bubbles\_under/](https://www.reddit.com/r/huion/comments/1iltd0r/brand_new_inspiroy_frego_m_has_air_bubbles_under/)
 * [https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles\_on\_huion\_inspiroy\_frego\_m/](https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles_on_huion_inspiroy_frego_m/)
 *
-

@@ -4,11 +4,11 @@ description: Buttons, sliders, dials, touch strips on tablets
 
 # Auxiliary inputs
 
-## Overview&#x20;
+## Overview
 
-The primary way you provide input via the tablet is via the pen. However, some drawing tablets have other built-in ways of providing input.&#x20;
+The primary way you provide input via the tablet is via the pen. However, some drawing tablets have other built-in ways of providing input.
 
-* Buttons (both physical and capacitive)&#x20;
+* Buttons (both physical and capacitive)
 * Dials
 * Touch-sensitive strips and wheels
 
@@ -28,7 +28,7 @@ Some people love using these kind of inputs, but some people do not like them be
 
 For these cases, you should be aware that these inputs can often be configured in the tablet driver to "do nothing".
 
-## Binding inputs to actions&#x20;
+## Binding inputs to actions
 
 You can bind the buttons to take a variety of actions. Broadly the categories are
 
@@ -55,7 +55,7 @@ For example you can set a button to
 
 Wacom Intuos Pro PTH-660
 
-<figure><img src="../../.gitbook/assets/image-000454.png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000454 (1).png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
 
 ## Examples
 
@@ -63,26 +63,22 @@ Wacom Intuos Pro PTH-660
 
 <img src="../../.gitbook/assets/image-000730.jpg" alt="" data-size="original">
 
-
-
 ## Huion Inspiroy Dial2 (Q630M)
 
-![](<../../.gitbook/assets/image-000227.jpg>)
+![](<../../.gitbook/assets/image-000227 (1).jpg>)
 
+## Example UI from Wacom Tablet Properties App
 
+![](<../../.gitbook/assets/image-000388 (1).png>)
 
-## &#x20;Example UI from Wacom Tablet Properties App
+![](../../.gitbook/assets/image-000313.png)
 
-![](<../../.gitbook/assets/image-000388.png>)
+![](../../.gitbook/assets/image-000282.png)
 
-![](<../../.gitbook/assets/image-000313.png>)
+![](../../.gitbook/assets/image-000269.png)
 
-![](<../../.gitbook/assets/image-000282.png>)
+![](../../.gitbook/assets/image-000308.png)
 
-![](<../../.gitbook/assets/image-000269.png>)
+![](../../.gitbook/assets/image-000377.png)
 
-![](<../../.gitbook/assets/image-000308.png>)
-
-![](<../../.gitbook/assets/image-000377.png>)
-
-![](<../../.gitbook/assets/image-000284.png>)
+![](../../.gitbook/assets/image-000284.png)

@@ -1,7 +1,5 @@
 # Minisforum UM870 slim notes
 
-
-
 ## Summary
 
 I've had a very good experience with this mini-PC. It's been reliable and quiet.
@@ -49,7 +47,7 @@ When doing very heavy workloads for example exporting a video we hear the fans t
 
 I didn't do anything like gaming with this mini PC so I didn't strain it in any other way .
 
-In comparison-  The M4 Mac mini in my usage for similar tasks has been completely silent.
+In comparison- The M4 Mac mini in my usage for similar tasks has been completely silent.
 
 ## How I connect it
 
@@ -84,21 +82,13 @@ Although I am very satisfied with this many PC I am looking forward to future mi
 * have more RAM and SSD storage
 * have two USB4 ports
 
-## &#x20;Photos
+## Photos
 
-
-
-<figure><img src="../../../.gitbook/assets/image-000047.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image-000047 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000048.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/image-000049.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../.gitbook/assets/image-000050.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -25,7 +25,7 @@ It has made me more productive simply be letting me not have to disrupt my flow 
 
 **The TourBox Console app**
 
-The accompanying TourBox Console application is very user friendly. It is very easy to configure the device in general and to create configurations for specific applications.&#x20;
+The accompanying TourBox Console application is very user friendly. It is very easy to configure the device in general and to create configurations for specific applications.
 
 A great feature of the application is it has an auto switching feature which you can enable or disable. This is very important because this means switch between windows, the appropriate configuration for that application will be used by the TourBox. You don't have to manually switch it settings.
 
@@ -33,13 +33,13 @@ The software is also updated quite frequently.
 
 **Connectivity**
 
-The TourBox NEO supports only a wired USB connection.&#x20;
+The TourBox NEO supports only a wired USB connection.
 
 The TourBox ULTRA supports both wired and Bluetooth connection. One negative of the ultra for me is that it uses normal non-rechargeable batteries. So that's kind of irritating to have to replace them every now and then.
 
 **Importing / Exporting configurations**
 
-I have 2 machines - each with its own TourBox. One nice feature of the TourBox Console app is that it lets export the configuration for a specific app and then import it on another machine.&#x20;
+I have 2 machines - each with its own TourBox. One nice feature of the TourBox Console app is that it lets export the configuration for a specific app and then import it on another machine.
 
 ## What could be better
 
@@ -57,4 +57,4 @@ With Windows there's also an interesting limitation. It has to deal with apps li
 
 Partial setup for Clip Studio Paint
 
-<figure><img src="../../../../.gitbook/assets/image-000407.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000407 (1).png" alt=""><figcaption></figcaption></figure>

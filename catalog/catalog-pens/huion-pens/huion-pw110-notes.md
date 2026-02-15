@@ -20,24 +20,18 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 ## Photos
 
+<figure><img src="../../../.gitbook/assets/image-000537 (1).jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image-000539 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000537.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/image-000539.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/image-000538.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000538 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Compatibility
 
-Huion lists these as compatible tablets:&#x20;
+Huion lists these as compatible tablets:
 
 * Huion Inspiroy 2 M
-* Huion Inspiroy 2 L&#x20;
+* Huion Inspiroy 2 L
 
 In my testing the PW110 has been cross-compatible with the PW517 pen
 
@@ -51,6 +45,6 @@ I only have 2 unit and based on my testing
 * The IAF is about 8 gf
 * The maximum pressure is highly variable - spanning from 175gf to 470gf depending on the unit
 
-&#x20;These numbers are tyypical of PenTech 3.0 pens such as the PW517
+These numbers are tyypical of PenTech 3.0 pens such as the PW517
 
 <figure><img src="../../../.gitbook/assets/image-000243.png" alt=""><figcaption></figcaption></figure>

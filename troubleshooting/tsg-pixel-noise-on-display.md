@@ -2,11 +2,9 @@
 
 ## Photo Examples
 
-<img src="../.gitbook/assets/image-000566.jpg" alt="" data-size="original">![](<../.gitbook/assets/image-000567.jpg>)
+![](../.gitbook/assets/image-000566.jpg) ![](<../.gitbook/assets/image-000567 (1).jpg>)
 
 ![](../.gitbook/assets/image-000568.jpg)
-
-
 
 ## Video examples
 
@@ -16,8 +14,8 @@ this video gives an example ([https://www.youtube.com/watch?v=nTGG1NiF2MY](https
 
 * This manifests as certain pixels lighting up and flickering
 * Even if the input signal isn't changing you may see the pixels rapidly flicker
-* Usually it will be a single color. It very often happens with the GREEN component of a pixel. But can happen with RED (LESS COMMON) or BLUE (UNCOMMON).&#x20;
-* You may notice that the pixels light up in vertical or horizontal stripes&#x20;
+* Usually it will be a single color. It very often happens with the GREEN component of a pixel. But can happen with RED (LESS COMMON) or BLUE (UNCOMMON).
+* You may notice that the pixels light up in vertical or horizontal stripes
 * This problem is not related to "STUCK PIXELS". In this case which pixels light up is dynamic and depends on what is shown on the display.
 
 ### Sources of the problem
@@ -31,9 +29,9 @@ this video gives an example ([https://www.youtube.com/watch?v=nTGG1NiF2MY](https
 
 * This problem seems to be associated with the connection to the display and is often a cabling issue:
   * Sometimes the cable is bad
-  * Sometimes the cable is sagging or stretched too tightly and can cause this problem as it puts pressure on the ports&#x20;
+  * Sometimes the cable is sagging or stretched too tightly and can cause this problem as it puts pressure on the ports
   * Sometimes it is due to the ports the cable is using
-  * It can occur with HDMI, DisplayPort, and USB-C cables/ports&#x20;
+  * It can occur with HDMI, DisplayPort, and USB-C cables/ports
 
 ## Try
 

@@ -10,7 +10,7 @@ This is an EXCELLENT tablet, but may not be the right one for you if:
 
 ## Companion video
 
-If you would rather watch:  [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
+If you would rather watch: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
 
 But do check this document for any updates since the original video was published.
 
@@ -49,14 +49,14 @@ But do check this document for any updates since the original video was publishe
 
 ## Should you buy the Intuos Pro 2017 or the Intuos Pro 2025
 
-Overall I do recommend the Intuos Pro 2025 because in a few years (by 2030 at the latest I expect) the support lifetime for the Intuos Pro 2017 will end.&#x20;
+Overall I do recommend the Intuos Pro 2025 because in a few years (by 2030 at the latest I expect) the support lifetime for the Intuos Pro 2017 will end.
 
 After that point:
 
 * Wacom will no longer issue driver updates for the tablet.
 * Wacom support will likely not help you if you ask them for help.
 
-You can certainly still use the Intuos Pro 2017 but you should be aware of those consequences.&#x20;
+You can certainly still use the Intuos Pro 2017 but you should be aware of those consequences.
 
 ## Historical context
 
@@ -68,9 +68,7 @@ From 2009 to 2025, there have been 4 editions of professional pen tablets from W
 
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000665.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image-000665 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Design
 
@@ -78,13 +76,7 @@ Although not everyone shares this opinion, I find it a very beautiful and profes
 
 <figure><img src="../../../../.gitbook/assets/image-000666.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-
-
 <figure><img src="../../../../.gitbook/assets/image-000667.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/image-000669.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -119,11 +111,11 @@ For example, as of April 2025, here is a **partial** list of tablets that come w
 * Digitizer resolution - 5080 LPI (200 LPmm)
 * Tilt - Yes
 * Tilt range - ± 60°
-* Report rate - Unknown – will investigate&#x20;
+* Report rate - Unknown – will investigate
 
 ## Barrel rotation
 
-Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.&#x20;
+Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.
 
 ## Drawing performance
 
@@ -151,13 +143,11 @@ EVALUATION: VERY GOOD (VERY LOW)
 
 As expected, the pointer trailed the physical tip of the only by a little bit. It was about the same as the pointer lag of the Intuos Pro 2017 model. In general, Wacom has excellent, low pointer lag in their pen tablets.
 
-
-
 ## Artifacts at low pressure
 
 EVALUATION: TYPICAL. When using large brushes and drawing at very light pressure you may notice a lot of instability in the pressure. This is normal for Wacom Intuos Pro (and many other tablets and pens). You can use pressure curves and pressure smoothing to minimize these issues if you encounter them.
 
-Keep in mind this is a very extreme test. Normally you should not notice these issues.&#x20;
+Keep in mind this is a very extreme test. Normally you should not notice these issues.
 
 <figure><img src="../../../../.gitbook/assets/image-000693.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -177,7 +167,7 @@ Unlike the previous Intuos Pro 2017 (PTK-x60) series, the Intuos Pro 2025 (PTK-x
 
 The PTK-x70 series tablers comes with pairs of ExpressKey rings and dials.
 
-<figure><img src="../../../../.gitbook/assets/image-000671.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000671 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Though do be aware that the number of ExpressKeys and dials depends on which size tablet in the PTK-x70 series you get.
 
@@ -187,7 +177,7 @@ Though do be aware that the number of ExpressKeys and dials depends on which siz
 
 It is possible to accidentally hit he ExpressKeys and dials depending on how the tablet is configured on your keyboard.
 
-**Tablet next to keyboard** - no accidental presses&#x20;
+**Tablet next to keyboard** - no accidental presses
 
 <figure><img src="../../../../.gitbook/assets/image-000673.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -211,20 +201,19 @@ It is possible to accidentally hit he ExpressKeys and dials depending on how the
 
 Another topic that comes up with the expresskeys is how the hand that uses the expresskey is placed on the tablet.
 
-With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without  covering the active area.
+With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without covering the active area.
 
-<figure><img src="../../../../.gitbook/assets/image-000576.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000576 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 However with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drtawing hand out of the way much more often.
 
-<figure><img src="../../../../.gitbook/assets/image-000578.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000578 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Usage notes on dials
 
-* Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.&#x20;
+* Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.
 * The dials feel nice to rotate. Rotating produces soft click feeling and small sound.
-*
-  The dials do not rotate too easily nor do they require too much force to rotate.
+* The dials do not rotate too easily nor do they require too much force to rotate.
 
 ## Usage notes on ExpressKeys
 
@@ -234,7 +223,7 @@ However with the Intuos Pro 2025, the non-drawing hand will cover some part of t
 
 ## Size (physical and active area)
 
-Physically the new devices are smaller than their 2017 counterparts. but their active areas have grown in size. So, you have more room than every for drawing despite the sizes of the devices shrinking.&#x20;
+Physically the new devices are smaller than their 2017 counterparts. but their active areas have grown in size. So, you have more room than every for drawing despite the sizes of the devices shrinking.
 
 <figure><img src="../../../../.gitbook/assets/image-000679.png" alt=""><figcaption></figcaption></figure>
 
@@ -244,43 +233,19 @@ The 2017 models had unusal aspect ratios, while the new devices all have 16x9 (o
 
 ### Device size
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2
-</p></td><td><p>PTK-870</p><p>377 x 253 mm
-<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm
-<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm
-<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm
-<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm
-<br>350.45 cm2</p></td></tr></tbody></table>
-
-
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
 
 ### Active area
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm
-<br>671.76 cm2</p><p>
-</p></td><td><p>PTK-870</p><p>349 x 195 mm
-<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm
-<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm
-<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm
-<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm
-<br>196.35 cm2</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
 
 ### Active area with Force Proportions enabled
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm
-<br>544.06 cm2</p><p>
-</p></td><td><p>PTK-870</p><p>349 x 195 mm
-<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm
-<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm
-<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm
-<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm
-<br>196.35 cm2</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br>544.06 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
 
 ## Aspect ratio
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p><p>
-</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460
-<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
+<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-860</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>TBD</td><td><p>PTK-460</p><p>16:9 (1.781)</p></td></tr></tbody></table>
 
 ## Size of Intuos Pro 2025 Large vs Intuis Pro 2017 medium
 
@@ -302,7 +267,7 @@ With the device sizes shrinking but the active area increasing, the bezels have 
 
 ### Bezel size visualized: Intuos Pro 2017 Medium vs Intuos Pro 2025 medium
 
-Numbers don't capture the the difference. Here's a photo with purple tape over the right bezel of both tablets.&#x20;
+Numbers don't capture the the difference. Here's a photo with purple tape over the right bezel of both tablets.
 
 <figure><img src="../../../../.gitbook/assets/image-000683.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -372,10 +337,9 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 * The 2025 LARGE model weighs less than the 2017 MEDIUM model
 * The 2025 MEDIUM model weighs less than the 2017 SMALL model
 
-<table><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017 </th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
+<table><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017</th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
 
-**Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide
-. Moves only if you deliberately force it to move. Requires less force to move than the PTH-660
+**Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide . Moves only if you deliberately force it to move. Requires less force to move than the PTH-660
 
 ## Surface Texture
 
@@ -407,7 +371,7 @@ The tablet supports both wired and wireless connection.
 
 The port is located on the right side, close to the top.
 
-<figure><img src="../../../../.gitbook/assets/image-000689.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000689 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * These tablets support both wired and wireless connection.
 * USB-C Port location: top right
@@ -417,10 +381,7 @@ The port is located on the right side, close to the top.
 
 * The tablet comes with USB-A → USB-C cable
 * Should be able to use any USB-C cable that supports data
-*
-  I tested with these three cables (all worked):
-  *
-    Included USB-A → USB-C cable
+* I tested with these three cables (all worked): \* Included USB-A → USB-C cable
   * Intuos Pro 2017 cable
   * Monoprice USB 2.0 USB-A → USB-C cable
 
@@ -464,7 +425,7 @@ This pattern CAN NOT be felt through the texture sheet.
 
 ## Driver UI > Wacom Center vs Wacom Tablet Properties
 
-&#x20;There are two driver configuration UIs available for Wacom tablets: Wacom Center and Wacom Tablet properties. For the Intuos Pro 2025, most features are available in both apps, but some are available only in Wacom Center.
+There are two driver configuration UIs available for Wacom tablets: Wacom Center and Wacom Tablet properties. For the Intuos Pro 2025, most features are available in both apps, but some are available only in Wacom Center.
 
 Available in BOTH
 
@@ -472,7 +433,7 @@ Available in BOTH
 * Pen vs Mouse mode
 * Screen area (full, portion, & specific monitors)
 * Tablet area (full, portion, force proportions)
-* Windows Ink&#x20;
+* Windows Ink
 * Tip feel (a.k.a. "the pressure curve")
 * Pen Button actions
 
@@ -493,16 +454,16 @@ Overall for PTK-670 with Pro Pen 2
 * Wired: 260Hz
 * Wired: 230Hz
 
-Overall with Samsung S Pen&#x20;
+Overall with Samsung S Pen
 
 * Wired: 245Hz
 * Wireless: Did not test
 
-<table><thead><tr><th width="127">Scenario</th><th width="179.9166259765625">Driver</th><th width="113.75">Report Rate</th><th>Tested with</th></tr></thead><tbody><tr><td>PTK-670<br>Pro Pen 3<br>Wired </td><td>OpenTabletDriver</td><td>300Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wired </td><td>Wacom driver</td><td>300Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired </td><td>OpenTabletDriver</td><td>200Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired </td><td>Wacom driver</td><td>200Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wireless</td><td>Wacom driver</td><td>230Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Samsung S Pen<br>WiIred</td><td>OpenTabletDriver</td><td>245Hz</td><td>OTD tablet debugger</td></tr></tbody></table>
+<table><thead><tr><th width="127">Scenario</th><th width="179.9166259765625">Driver</th><th width="113.75">Report Rate</th><th>Tested with</th></tr></thead><tbody><tr><td>PTK-670<br>Pro Pen 3<br>Wired</td><td>OpenTabletDriver</td><td>300Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wired</td><td>Wacom driver</td><td>300Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired</td><td>OpenTabletDriver</td><td>200Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired</td><td>Wacom driver</td><td>200Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wireless</td><td>Wacom driver</td><td>230Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Samsung S Pen<br>WiIred</td><td>OpenTabletDriver</td><td>245Hz</td><td>OTD tablet debugger</td></tr></tbody></table>
 
 Reference:
 
-* Skill-test.net page:  [https://skill-test.net/polling-rate-test](https://skill-test.net/polling-rate-test)
+* Skill-test.net page: [https://skill-test.net/polling-rate-test](https://skill-test.net/polling-rate-test)
 
 ## Pen hover height testing
 
@@ -542,7 +503,7 @@ Not all UD EMR pens are compatible. But many are. Before you buy any UD EMR conf
 
 Drawing performance
 
-* UD EMR pens have  noticeably higher IAF
+* UD EMR pens have noticeably higher IAF
 * UD EMR pens have much lower max pressure
 * Some UD EMR pens have only 1 button
 * Stroke quality is just OK

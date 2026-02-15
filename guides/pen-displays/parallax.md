@@ -12,19 +12,13 @@ Parallax is discussed in great detail in this video ([https://youtu.be/M4rEk\_RN
 
 The cause of parallax is a physical separation between the display panel and the tip of the pen. Whenever there is any distance between the two, some parallax will be introduced. The greater the separation, the greater the visual effect of the parallax.
 
-
-
-In drawing tablets this is caused because there the glass that covers the display panel has some non-zero width.&#x20;
+In drawing tablets this is caused because there the glass that covers the display panel has some non-zero width.
 
 <figure><img src="../../.gitbook/assets/image-000355.png" alt=""><figcaption></figcaption></figure>
 
 Depending on where your eye is, the what you see the tip of the pen pointing to is different.
 
-<figure><img src="../../.gitbook/assets/image-000311.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
+<figure><img src="../../.gitbook/assets/image-000311 (1).png" alt=""><figcaption></figcaption></figure>
 
 Compare this line of sight
 
@@ -52,13 +46,13 @@ Here is a thick sheet of glass with lots of parallax
 
 Compare it to a very thin sheet of glass with much less parallax
 
-<figure><img src="../../.gitbook/assets/image-000344.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000344 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Lamination
 
 Especially in older models of pen displays and pen computers, there is an air gap between the display panel and the glass. This air gap itself is another source of parallax. Replacing the air gap so that it is replaced with an optically clear adhesive can improve the parallax.
 
-learn more here: [**Lamination**](lamination.md)&#x20;
+learn more here: [**Lamination**](lamination.md)
 
 It is always preferable to by a drawing tablet that has a laminated display.
 
@@ -68,7 +62,7 @@ The Apple iPad Pro has the best (lowest) parallax I've ever seen. I would rank i
 
 ## Parallax vs pen tracking accuracy
 
-**Parallax** introduces an **apparent** visual inaccuracy.&#x20;
+**Parallax** introduces an **apparent** visual inaccuracy.
 
 Consider these two cases:
 
@@ -81,21 +75,19 @@ So we see that inaccuracy comes from two sources:
 * apparent inaccuracy from the parallax
 * actual inaccuracy from the tablet EMR sensor
 
-Very often, people refer to any visual discrepancy as **"parallax"** but that is an incorrect usage of the term. They should only be using it when the position of their eyes in combination with the physical separation of the display panel and glass are causing the discrepancy.&#x20;
+Very often, people refer to any visual discrepancy as **"parallax"** but that is an incorrect usage of the term. They should only be using it when the position of their eyes in combination with the physical separation of the display panel and glass are causing the discrepancy.
 
 ## Is parallax always bad?
 
 Generally, users of drawing tablets do not want to see parallax.
 
-However, some people (perhaps not many) even find parallax to be slightly beneficial. For them, they like to see where they are drawing a stroke on the display and having the pen tip be a little displaced from that position makes it easier to see that point.&#x20;
+However, some people (perhaps not many) even find parallax to be slightly beneficial. For them, they like to see where they are drawing a stroke on the display and having the pen tip be a little displaced from that position makes it easier to see that point.
 
 ## Examples of parallax
 
 These three pen displays show very good parallax. Notice that the one of the left is a $3500 pen display and two on the right are entry level $300 pen displays. All these displays are laminated/
 
 <figure><img src="../../.gitbook/assets/image-000350.png" alt=""><figcaption></figcaption></figure>
-
-
 
 Compare the laminated pen display on the left to the unlaminated pen display on the right. Disregard the blurry image - that is an issue with the photograph itself. Notice how far away the tip of the pen is from the tip of the point.
 
@@ -105,8 +97,3 @@ Compare the laminated pen display on the left to the unlaminated pen display on 
 
 * [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)
 * Sweet Monia: What is parallax? And is it really bad in a pen display like Cintiq or Kamvas?([https://sweetmonia.com/Sweet-Drawing-Blog/what-is-parallax-and-is-it-really-bad-in-a-pen-display-like-cintiq-or-kamvas/](https://sweetmonia.com/Sweet-Drawing-Blog/what-is-parallax-and-is-it-really-bad-in-a-pen-display-like-cintiq-or-kamvas/))
-
-
-
-
-

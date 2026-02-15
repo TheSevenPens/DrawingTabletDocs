@@ -6,7 +6,7 @@ For connecting my pen displays I often use this cabl&#x65;**:** CableMatters \[I
 
 <figure><img src="../../../.gitbook/assets/image-000166.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## Testing setup&#x20;
+## Testing setup
 
 Windows setup
 
@@ -21,13 +21,12 @@ MacOS setup
 **Note on recessed USB-C ports and cable plug thickness**
 
 * For the CableMatters Usb-C cable, the **cable ends are a little too thick** to be plugged into some ports that are recessed.
-* I had to remove some plastic from one of the ends to fit it into the tablets using a knife.&#x20;
-* ![](<../../../.gitbook/assets/image-000732.jpg>)![](<../../../.gitbook/assets/image-000733.jpg>)
+* I had to remove some plastic from one of the ends to fit it into the tablets using a knife.
+* ![](<../../../.gitbook/assets/image-000732 (2).jpg>)![](<../../../.gitbook/assets/image-000733 (2).jpg>)
 * This plastic was tough to cut. I didn't do a very clean job but it **just barely** fits into the port - the fit is very snug and I should probably remove just a little more.
 
 ## Testing results
 
 Remember this is testing with my hardware. Your computer may not supply enough power via its USB-C ports to match my results.
 
-<table><thead><tr><th>Tablet</th><th width="98">Port</th><th>Results</th></tr></thead><tbody><tr><td>Huion Kamvas 13 <strong>GEN3</strong><br><strong>(GS1333)</strong></td><td>lower</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Huion Kamvas 13</strong></p><p><strong>(GS1331)</strong></p></td><td>lower</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Huion Kamvas Pro 13 2.5K</strong></p><p><strong>(GT1302)</strong></p></td><td>upper</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Huion Kamvas Pro 16 Plus 4k (GT1562)</strong></td><td>lower</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>XP-Pen Artist 12 GEN2</strong></p><p><strong>(CD120FH)</strong></p></td><td>upper</td><td>VERIFIED TO WORK</td></tr><tr><td><p> <strong>XP-Pen Artist 13 GEN2</strong></p><p><strong>(CD130FH)</strong></p></td><td>upper</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>XP-Pen Artist Pro 16 GEN2 (MD160QH)</strong></td><td>left</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Wacom One 13 touch GEN2 (DTH-134)</strong></td><td>left</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One 12 GEN2</strong></p><p><strong>(DTC-121)</strong></p></td><td>left</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One GEN1</strong></p><p><strong>(DTC-133)</strong></p></td><td>only 1 port</td><td><p>This pen display does not support using a single USB-C connection. I tested it anyway and </p><p>VERIFIED that it did <mark style="color:red;"><strong>NOT WORK</strong></mark></p></td></tr><tr><td>Wacom Movink 13</td><td>either</td><td>VERIFIED TO WORK</td></tr></tbody></table>
-
+<table><thead><tr><th>Tablet</th><th width="98">Port</th><th>Results</th></tr></thead><tbody><tr><td>Huion Kamvas 13 <strong>GEN3</strong><br><strong>(GS1333)</strong></td><td>lower</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Huion Kamvas 13</strong></p><p><strong>(GS1331)</strong></p></td><td>lower</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Huion Kamvas Pro 13 2.5K</strong></p><p><strong>(GT1302)</strong></p></td><td>upper</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Huion Kamvas Pro 16 Plus 4k (GT1562)</strong></td><td>lower</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>XP-Pen Artist 12 GEN2</strong></p><p><strong>(CD120FH)</strong></p></td><td>upper</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>XP-Pen Artist 13 GEN2</strong></p><p><strong>(CD130FH)</strong></p></td><td>upper</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>XP-Pen Artist Pro 16 GEN2 (MD160QH)</strong></td><td>left</td><td>VERIFIED TO WORK</td></tr><tr><td><strong>Wacom One 13 touch GEN2 (DTH-134)</strong></td><td>left</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One 12 GEN2</strong></p><p><strong>(DTC-121)</strong></p></td><td>left</td><td>VERIFIED TO WORK</td></tr><tr><td><p><strong>Wacom One GEN1</strong></p><p><strong>(DTC-133)</strong></p></td><td>only 1 port</td><td><p>This pen display does not support using a single USB-C connection. I tested it anyway and</p><p>VERIFIED that it did <mark style="color:red;"><strong>NOT WORK</strong></mark></p></td></tr><tr><td>Wacom Movink 13</td><td>either</td><td>VERIFIED TO WORK</td></tr></tbody></table>

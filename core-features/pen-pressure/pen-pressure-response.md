@@ -4,33 +4,25 @@ he pressure response of a pen describes the behavior of a pen with regard to pre
 
 The pen measures of physical force at its tip. Information about the physical force is sent to the tablet and then translated into a logical pressure value. The pressure response is the relationship between that physical pressure and the logical press.
 
-<figure><img src="../../.gitbook/assets/image-000622.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000622 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 In numerical terms it can be expressed as a simple set of data points. And if we graph those data points with the physical pressure on the X axis and the logical pressure on the Y axis - then we get a chart that visualizes the pressure response.
 
-<figure><img src="../../.gitbook/assets/image-000623.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000623 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 All pens come out-of-the-box with a specific pressure response. And keep in mind the response is unique to each pen. The response even for pens of the same model will differ a little bit at the very least.
 
 One thing that is generally found among EMR - is that the shape of the pressure response is bowed up quite a bit.
 
-<figure><img src="../../.gitbook/assets/image-000624.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image-000624 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 If we need to change the pressure response of a pen. We have to apply a pressure curve.
 
-
-
 <figure><img src="../../.gitbook/assets/image-000625.jpg" alt=""><figcaption></figcaption></figure>
 
-&#x20;A pressure curve modifies a pressure response. You could think of it as creating a new pressure response. In the example above the pressure curve that we apply to the original pressure response has created a new pressure response which is much more linear.
-
-
+A pressure curve modifies a pressure response. You could think of it as creating a new pressure response. In the example above the pressure curve that we apply to the original pressure response has created a new pressure response which is much more linear.
 
 I like to think pressure responses and pressure curves as a game of resource allocation - where we are trying to the physical pressure range in useful ways across the logical pressure range.
-
-
 
 The reasons we want to think about this allocation intentionally is because it can give us three potential things:
 
@@ -43,8 +35,6 @@ This pressure response is similar to that of a Wacom pro pen 2 (KP-504E). It has
 There are two interesting things about how physical pressure is allocated in this specific pressure response.
 
 For the purposes of this discussion I'm going to only talk about how pressure affects the width of a stroke. Simply because it's easiest for me to visualize that in this document. But for everything I'm saying it equally applies when for example pressure is mapped to opacity or even to color.
-
-
 
 <figure><img src="../../.gitbook/assets/image-000626.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -73,4 +63,3 @@ To be clear I am not saying that linear is the best shape for a pressure respons
 Here you can see how a specific pressure curve takes the original pressure response and shifts it to a more linear shape. I'll show you this example just to help illustrate how much you might have to bend the pressure curve to get a linear response.
 
 And keep in mind again that the pressure response shown is for specific pen. This pressure curve may not have the same effect on different pens.
-

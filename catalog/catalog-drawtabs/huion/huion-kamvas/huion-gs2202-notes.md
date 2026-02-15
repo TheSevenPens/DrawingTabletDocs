@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-The Huion Kamvas 22 Plus is one of the best price-to-performance pen displays in the market.&#x20;
+The Huion Kamvas 22 Plus is one of the best price-to-performance pen displays in the market.
 
 NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
 
@@ -38,13 +38,13 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 
 * PW517 - [**notes on the PW517 pen**](../../../catalog-pens/huion-pens/7p-huion-pw517.md)
 * PW550 - [**notes on the PW550 pen**](../../../catalog-pens/huion-pens/huion-pw550-notes.md)
-* PW550S&#x20;
+* PW550S
 
 ## Display experience
 
 ### **Anti-glare sparkle**
 
-VERY GOOD. very minimal. Not noticeable. &#x20;
+VERY GOOD. very minimal. Not noticeable.
 
 ### **Pixelation**
 
@@ -66,7 +66,7 @@ Color accuracy: did not measure.
 
 This is a wide color gamut display with a range of 140% sRGB.
 
-Compared to many other displays, you may find that greens and reds are more intense than you might expect. Some people will love this - for example when watching a movie - but I found it some colors distractingly intense.&#x20;
+Compared to many other displays, you may find that greens and reds are more intense than you might expect. Some people will love this - for example when watching a movie - but I found it some colors distractingly intense.
 
 For digital art I prefer to work in a smaller color gamut of 100% sRGB.
 
@@ -74,7 +74,7 @@ Unfortunately, unlike other pen displays this tablet does not have way to force 
 
 For reducing the gamut, you could use other techniques: [**Clamping wide-gamut displays to sRGB**](../../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md).
 
-In my case, I just left it the way it was and did not try anything to clamp the range.&#x20;
+In my case, I just left it the way it was and did not try anything to clamp the range.
 
 Note that I used Windows with this tablet. With MacOS there may be other options for dealing with the color.
 
@@ -103,11 +103,11 @@ GOOD - low.
 
 **NONE**. So, I use keyboard shorts with this device: [tourbox](../../../catalog-accessories/auxiliary-input-devices/tourbox/)
 
-## **Diagonal wobble**&#x20;
+## **Diagonal wobble**
 
 very good. has extremely low wobble.
 
-![](<../../../../.gitbook/assets/image-000220.png>)
+![](<../../../../.gitbook/assets/image-000220 (1).png>)
 
 ## Ergonomics
 
@@ -125,7 +125,7 @@ Comes with a basic stand that attaches via VESA mounting. Nothing fancy. but wor
 
 Tablet has no legs.
 
-### **Heat**&#x20;
+### **Heat**
 
 display stays cool. I leave it on 24/7 and it has no hot spots.
 
@@ -133,7 +133,7 @@ display stays cool. I leave it on 24/7 and it has no hot spots.
 
 NONE. It has no fans
 
-### **Touch**&#x20;
+### **Touch**
 
 it does NOT have touch support
 
@@ -143,19 +143,16 @@ I originally bought this tablet for digital art, and it works fine for that.
 
 Over time I have it setup on my work desk on an arm. I use it as an external display but I pull it in closer when I want to draw on a whiteboard during an online meeting. I still occasionally sketch and paint on it, but since it is on my work desk I don't do as much of it as I used to.
 
-
-
 ## **Connections and Cabling**
 
 ### **Connecting with HDMI for video signal**
 
-For this case you use the included proprietary 3-in-1 cable.&#x20;
+For this case you use the included proprietary 3-in-1 cable.
 
 <figure><img src="../../../../.gitbook/assets/image-000450.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Connecting with USB-C for video signal**
 
-For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data. &#x20;
+For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data.
 
 <figure><img src="../../../../.gitbook/assets/image-000451.png" alt="" width="563"><figcaption></figcaption></figure>
-

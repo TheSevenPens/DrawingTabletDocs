@@ -2,7 +2,7 @@
 
 ## Summary
 
-I have this tablet but haven't used it extensively. Overall seemed like a decent tablet.&#x20;
+I have this tablet but haven't used it extensively. Overall seemed like a decent tablet.
 
 * The X3 Elite pen it came with had a good physical pressure range.
 * The display has low amounts of anti-glare sparkle.
@@ -11,8 +11,6 @@ I have this tablet but haven't used it extensively. Overall seemed like a decent
 ## Basics
 
 * Model year: 2022
-
-
 
 ## Pen
 
@@ -27,7 +25,7 @@ Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. M
 
 ## Diagonal wobble
 
-<figure><img src="../../../../.gitbook/assets/image-000176.png" alt="" width="375"><figcaption><p>Diag Wobble XP-Pen Artist 12 GEN2 (CD120FH)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000176 (1).png" alt="" width="375"><figcaption><p>Diag Wobble XP-Pen Artist 12 GEN2 (CD120FH)</p></figcaption></figure>
 
 Compare to the Artist 13 GEN2
 

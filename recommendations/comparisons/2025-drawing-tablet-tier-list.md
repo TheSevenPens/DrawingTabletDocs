@@ -18,7 +18,7 @@ Unlike last year
 
 ## Livestream vs this page
 
-As always, as I learn more and get feedback I update the tier lists shown on this page.&#x20;
+As always, as I learn more and get feedback I update the tier lists shown on this page.
 
 ## Tiering strategy
 
@@ -26,7 +26,7 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 * TIERING and RECOMMENDATIONS are based on overall DRAWING EXPERIENCE
 * Some tablets might be not recommended (for drawing), but they might work well for note-taking, whiteboarding, etc. - tasks that are not about creative drawing/painting.
 * Pens are the primary determinant of how pressure works for a tablet (IAF, MAX PRESSURE, PRESSURE RANGE). So it is always important to understand the included pen for tablet.
-* UD-EMR pens offer OK performance. So tablets with UD EMR pens TEND to be the C tier.&#x20;
+* UD-EMR pens offer OK performance. So tablets with UD EMR pens TEND to be the C tier.
 
 ## Tier definitions
 
@@ -34,7 +34,7 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 
 ## Pen tablets
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000132.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000132 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pen displays
 
@@ -47,4 +47,3 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 ## Pens
 
 <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000343.png" alt=""><figcaption></figcaption></figure></div>
-

@@ -37,19 +37,15 @@ However, what will work for you takes some consideration. See: [**Pen tablets vs
 
 For general guidance on picking size: [**Choosing the right size for a drawing tablet**](../../buying-drawtabs/choosing-the-right-tablet-size.md)
 
-
-
 ## Prioritizing resolution and size
 
 It seems that the 3D workflow typically involves having many UI elements on screen at once - for example when using node editors. Higher resolutions will make it easier to read the smaller text in these scenarios.
 
 For example here is an example of what might need to be on screen
 
-<figure><img src="../../.gitbook/assets/image-000548.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000548 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image-000549.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 For this reason, some suggest prioritizing resolution first before size.
 

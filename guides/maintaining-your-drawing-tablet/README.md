@@ -8,11 +8,11 @@ With a little care and light maintenance your tablet will keep working for a lon
 
 They are surprisingly expensive to replace. They can cost from $40 USD to $120 USD for a Wacom Pro Pen 3.
 
-Because drawing tablet pens usually have a case of black plastic they can be difficult to see under some lighting conditions, also they can be mistaken for other pens, etc. To give them some additional  visibility I use masking tape to add some some color to make it more visible and serve as a label.&#x20;
+Because drawing tablet pens usually have a case of black plastic they can be difficult to see under some lighting conditions, also they can be mistaken for other pens, etc. To give them some additional visibility I use masking tape to add some some color to make it more visible and serve as a label.
 
 Here is an example:
 
-<figure><img src="../../.gitbook/assets/image-000226.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000226 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
@@ -31,15 +31,15 @@ However, If you drop a **pen display**, you almost certainly will cause signific
 * The pen displays will not turn on again
 * The screen will crack
 * The display panel will break and not show a full screen or will show random color patterns
-* The ports can get damaged, preventing it from getting a display signal&#x20;
+* The ports can get damaged, preventing it from getting a display signal
 
-## Do not get your tablet or pen wet&#x20;
+## Do not get your tablet or pen wet
 
 Keep water away from your tablet and pen. If you get them wet, consult this guide on dealing with potential damage: [**Dealing with water damage**](dealing-with-water-damage.md).
 
 ## Cleaning your tablet
 
-Periodically, clean your tablet. Some people recommend lightly cleaning your pen displays before you start drawing. More here: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md).&#x20;
+Periodically, clean your tablet. Some people recommend lightly cleaning your pen displays before you start drawing. More here: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md).
 
 ## Storing pen safely
 
@@ -49,12 +49,10 @@ In general store your pens so that you avoid pressure on your nibs. More here: [
 
 The surface of your tablet will be in contact with your pen, that contact and the friction that comes from it will cause some wear. It's good for you to understand what this wear will look like and how you can control it. Read the two documents below.
 
-* [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md) &#x20;
-* [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)&#x20;
+* [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md)
+* [**Surface wear on pen displays**](surface-wear-on-pen-displays.md)
 
 There are options to protect the surface from damage. See: [**protective sheets**](../../catalog/catalog-accessories/surface-protectors/).
-
-
 
 ## Safely transporting tablets
 

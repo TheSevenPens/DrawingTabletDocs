@@ -10,17 +10,17 @@ I STRONGLY RECOMMEND that you ENABLE FORCE PROPORTIONS if you are using a pen ta
 
 ## Force proportions removes distortion
 
-If the aspect ratio of your pen tablet's active area does not match your monitor's aspect ratio. You will see distortion when drawing. For example, if you trace out a circle on the pen tablet, you will have traced out an oval on the screen.&#x20;
+If the aspect ratio of your pen tablet's active area does not match your monitor's aspect ratio. You will see distortion when drawing. For example, if you trace out a circle on the pen tablet, you will have traced out an oval on the screen.
 
-This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD. You can **EASILY** correct this by enabling FORCE PROPORTIONS.&#x20;
+This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD. You can **EASILY** correct this by enabling FORCE PROPORTIONS.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000616.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000616 (1).JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Pen tablets are prone to distortion
 
 Your monitor has its aspect ratio - for example most monitors are 16x9
 
-Your pen tablet's active area has its own aspect ratio - and most often it is NOT exactly 16x9. It can be off by a little bit or by a lot.&#x20;
+Your pen tablet's active area has its own aspect ratio - and most often it is NOT exactly 16x9. It can be off by a little bit or by a lot.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000615.JPG" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -37,7 +37,7 @@ FP restricts the region of the active area that matches to that of your monitor 
 #### Wacom tablet properties app: Force proportions
 
 * Launch **Wacom Tablet Properties**
-* Under the **Mapping** tab, enable **Force Proportions**&#x20;
+* Under the **Mapping** tab, enable **Force Proportions**
 
 #### Wacom Center app: Force proportions
 
@@ -48,8 +48,8 @@ FP restricts the region of the active area that matches to that of your monitor 
 ### Huion
 
 * Launch the **HuionTablet** app
-* Go to **Working Area**&#x20;
-* On the bottom left there is a drop down.&#x20;
+* Go to **Working Area**
+* On the bottom left there is a drop down.
 * Switch the dropdown to **Screen Ratio**.
 
 ### Gaomon
@@ -71,11 +71,11 @@ FP restricts the region of the active area that matches to that of your monitor 
 * Go to **Device Settings**
 * Navigate to **Tablet to Screen Area Mapping**
 * There's a drop down on the left side that has three options: **Full Tablet Area**, **Define Portion**, and **Screen Ratio**
-* Select the **Screen Ratio** option&#x20;
+* Select the **Screen Ratio** option
 
 ### Companion video
 
-This video goes into great detail about this topic.&#x20;
+This video goes into great detail about this topic.
 
 {% embed url="https://youtu.be/9oAvsJk5ESU" %}
 
@@ -83,13 +83,11 @@ This video goes into great detail about this topic.&#x20;
 
 If you enable FP, you will not be able to take advantage of some of your tablet's full native active area, but BY FAR this is the better alternative than distorted drawing.
 
-
-
 <figure><img src="../../.gitbook/assets/image-000464.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Active area loss
 
-The amount of active area you lose by turning on force proportions varies depending on the specific aspect ratio of tablet and monitor. The more mismatched they are the bigger the loss. For the Wacom Intuos Pro 2017 series with FP on 16:9 monitors the loss can be between 10% to 20%.&#x20;
+The amount of active area you lose by turning on force proportions varies depending on the specific aspect ratio of tablet and monitor. The more mismatched they are the bigger the loss. For the Wacom Intuos Pro 2017 series with FP on 16:9 monitors the loss can be between 10% to 20%.
 
 Note that if the active areas of the tablet and monitor are the same, then enabling FP does not incur any loss.
 
@@ -112,4 +110,4 @@ For this situation, after enabling Force Proportions also enable [Display Toggle
 
 ## Simulation
 
-This tool simulates the effect of Force Proportions: [**Force proportions simulator**](../../resources/sevenpens-force-proportions-simulator.md) &#x20;
+This tool simulates the effect of Force Proportions: [**Force proportions simulator**](../../resources/sevenpens-force-proportions-simulator.md)

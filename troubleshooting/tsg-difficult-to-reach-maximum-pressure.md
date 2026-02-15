@@ -26,15 +26,15 @@ Does it manifest in an application like Krita?
 
 If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself.
 
-Occasionally pen hardware can sometimes have a very high maximum pressure that is very large (I've seen up to about 5X) what is normal for a pen.&#x20;
+Occasionally pen hardware can sometimes have a very high maximum pressure that is very large (I've seen up to about 5X) what is normal for a pen.
 
 ### Example of a pen with abnormal max pressure
 
 For example one of my Wacom pens requires so much force to get to 100% that, if I tried, I'm sure I would damage the pen.
 
-Below you can see how different the pressure response of this pen is compared to every other pen I have.&#x20;
+Below you can see how different the pressure response of this pen is compared to every other pen I have.
 
-<figure><img src="../.gitbook/assets/image-000444.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000444 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to address
 
@@ -54,10 +54,10 @@ Try adjusting the pressure curve in the driver until the problem goes away. Spec
 
 Here are some examples below.
 
-<figure><img src="../.gitbook/assets/image-000445.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000445 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Software issue
 
-If the problem does NOT appear in the driver, then it is possible that another pressure curve in the application is causing it. Check all the pressure curves and reset them to null pressure curve.&#x20;
+If the problem does NOT appear in the driver, then it is possible that another pressure curve in the application is causing it. Check all the pressure curves and reset them to null pressure curve.
 
-More here: [**null pressure curve**](../core-features/pen-pressure/pen-pressure-curves/null-pressure-curve.md) &#x20;
+More here: [**null pressure curve**](../core-features/pen-pressure/pen-pressure-curves/null-pressure-curve.md)

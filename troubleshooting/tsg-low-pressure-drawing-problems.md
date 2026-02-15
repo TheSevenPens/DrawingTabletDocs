@@ -38,13 +38,10 @@ Pressure curves can mitigate low pressure problems. There are two techniques you
 
 The first is to decrease the sensitivity at the lower end of physical pressure. And this will reduce some of the wild swings you might see.
 
-Another technique is simply to ignore the lower end of physical pressure near the initial activation force. This essentially increases the IAF of the pen.&#x20;
+Another technique is simply to ignore the lower end of physical pressure near the initial activation force. This essentially increases the IAF of the pen.
 
-<div align="left"><figure><img src="../.gitbook/assets/image-000295.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image-000295 (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Use pressure smoothing
 
 Some applications offer pressure smoothing. Pressure smoothing can also diminish the effects of any sudden changes in pressure readings that might be occurring at low pressure.
-
-
-

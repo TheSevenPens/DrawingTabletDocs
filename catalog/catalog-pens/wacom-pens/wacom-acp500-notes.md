@@ -2,7 +2,7 @@
 
 ## Pro Pen 3
 
-The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.&#x20;
+The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
 
 <figure><img src="../../../.gitbook/assets/image-000726.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -10,11 +10,11 @@ The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous
 
 * [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025/01/25 (archive)
 
-## Pressure&#x20;
+## Pressure
 
 ### Background
 
-Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../../core-features/pen-pressure/)  &#x20;
+Before you continue, you should read this document because it clarifies what is meant by terms such as pressure, pressure, range, etc. [**Pen pressure**](../../../core-features/pen-pressure/)
 
 ### Pressure levels
 
@@ -30,14 +30,14 @@ Pressure response is how changes in pressure translates to drawing strokes in cr
 
 I tried it in these scenarios
 
-* Small pressure produces for light strokes&#x20;
-* It is easy to create many small slight strokes quickly (example: hatch lines)&#x20;
-* Varying pressure as you draw changes stroke width very smoothly&#x20;
+* Small pressure produces for light strokes
+* It is easy to create many small slight strokes quickly (example: hatch lines)
+* Varying pressure as you draw changes stroke width very smoothly
 * It is easy to maintain even pressure and line width.
 * Nice tapering at beginning and end of strokes
   * How the beginning and ends of strokes look is highly depending on the app and the brush settings.
     * For example, sudden flicks to end a line in Clip Studio Paint look a little different than the same motion in Photoshop. But this seems normal.
-  * For the Pro Pen 3 with the Wacom Cintiq Pro 27 the begging and ends of strokes felt as good as they always have.&#x20;
+  * For the Pro Pen 3 with the Wacom Cintiq Pro 27 the begging and ends of strokes felt as good as they always have.
 
 ### Pressure range & maximum pressure
 
@@ -51,7 +51,7 @@ The Pro Pen 3 has a very large maximum pressure. The maximum pressure varied bet
 
 Rating: EXCELLENT
 
-The Pro Pen 3 has a typical low IAF for Wacom Pro pen.NOTE: I am not skilled enough to measure it, but to me the Pro Pen 3 IAF feels like the Pro Pen 2 which has an IAF of <1gf.&#x20;
+The Pro Pen 3 has a typical low IAF for Wacom Pro pen.NOTE: I am not skilled enough to measure it, but to me the Pro Pen 3 IAF feels like the Pro Pen 2 which has an IAF of <1gf.
 
 ### Comparing Initial Activation Force
 
@@ -98,9 +98,9 @@ When my pen is fully assembled it looks like this:
 
 * NOTE: This relates to the physical feeling of holding, moving, pressing the pen against the glass. This has nothing to do with how pressure works or how it works with apps.
 * SUMMARY: The feeling is EXCELLENT
-* I think it is an improvement over the Wacom Pro Pen&#x20;
+* I think it is an improvement over the Wacom Pro Pen
 * However I think there is a lots of subjectivity to this. For example, I accidentally picked up the Pro Pen 2 and started drawing with it. And I thought I was using the Pro Pen 3 and remarked how good it felt. Only when I looked at the pen did I realize I was using the old pen.
-* To me the differences between the Pro Pen 3 and the Pro Pen 2 are slight and subtle.&#x20;
+* To me the differences between the Pro Pen 3 and the Pro Pen 2 are slight and subtle.
 * Other people feel that the difference is more obvious.
 
 ## Solidity
@@ -112,7 +112,7 @@ Because the pen is very modular, I was afraid that it would feel unstable. Actua
 ## Grip feeling
 
 * The grip is made of two pieces. Inside it a shell of plastic which is surrounded by the rubber grip material.
-* Overall it the grip is much more firm than the grip of the pro pen 2&#x20;
+* Overall it the grip is much more firm than the grip of the pro pen 2
 * The grip doesn't feel rubbery
 * Very difficult to bend when the Grip is installed.
 * **The grip can be damaged with sufficient force.** If you squeeze the grip when it is not on the pen, you will initially find it hard to bend however much if the rigidity is due to the plastic shell inside. If you keep exerting pressure you will break the plastic and it won't fit as well when you place it on the pen.
@@ -138,25 +138,21 @@ Although in my usage, my reaction to the buttons is not so strong, it's worth pa
 
 Currently (July 2025) all Waco tablets that support the Pro Pen 3 also support the Pro Pen 2 (and many other pens). So if the the Pro Pen 2 works well for you, you can use it.
 
-&#x20;Some people have&#x20;
+Some people have
 
 ## Issues people run into
 
 ### Button coming off
 
-Some people have reported the pen buttons coming off of the button strip. This seems to be an issue with the early batches of PP3 models produced in China, but later models produced in Vietnam do not have this problem.&#x20;
+Some people have reported the pen buttons coming off of the button strip. This seems to be an issue with the early batches of PP3 models produced in China, but later models produced in Vietnam do not have this problem.
 
 Examples
 
 * [https://www.reddit.com/r/wacom/comments/1p3p2ba/round\_2](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2)
 
-<figure><img src="../../../.gitbook/assets/image-000570.jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image-000570 (1).jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000698.jpg" alt=""><figcaption><p>The physical implementation of the button strip is different depending on where the model was manufactured.</p></figcaption></figure>
-
-
 
 ### Tip breaking
 
@@ -174,12 +170,15 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 
 * Twitter post: [https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA](https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA)\
   \
-  ![](<../../../.gitbook/assets/image-000376.png>)
-* On 2024/03/09 I asked Wacom again on twitter
-  * [https://twitter.com/TheSevenPens/status/1766540705865072733](https://twitter.com/TheSevenPens/status/1766540705865072733)
-  *
+  ![](../../../.gitbook/assets/image-000376.png)
+*   On 2024/03/09 I asked Wacom again on twitter
 
-      <div align="left"><figure><img src="../../../.gitbook/assets/image-000449.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    * [https://twitter.com/TheSevenPens/status/1766540705865072733](https://twitter.com/TheSevenPens/status/1766540705865072733)
+    *
+
+    ```
+    <div align="left"><figure><img src="../../../.gitbook/assets/image-000449.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    ```
 * Wacom has not published that update
 * Wacom has not identified which older tablets will be updated to be compatible with the Pro Pen 3
 
@@ -193,13 +192,11 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 
 ## Barrel rotation
 
-The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../../core-features/pen-barrel-rotation.md)  &#x20;
+The Pro Pen 3 **DOES NOT support barrel rotation**. This was very disappointing. Even though I personally don't use barrel rotation, I know for some people it is very important. Learn more: [**Pen Barrel rotation**](../../../core-features/pen-barrel-rotation.md)
 
 ## Eraser
 
 The pen **DOES NOT include** an eraser at the other end. Instead, use one of the 3 buttons as the eraser.
-
-
 
 ## Using the thick buttons strip without the grip
 

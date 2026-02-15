@@ -24,8 +24,6 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 <figure><img src="../../../.gitbook/assets/image-000031.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Buttons
 
 These pens have two buttons which is typical for an EMR pen.
@@ -34,25 +32,18 @@ These pens have two buttons which is typical for an EMR pen.
 
 IAF - 7 to 10gf
 
-Max Pressure - between 300 gf to 800gf. With an occasional units around the mid 250s.&#x20;
+Max Pressure - between 300 gf to 800gf. With an occasional units around the mid 250s.
 
 <figure><img src="../../../.gitbook/assets/image-000420.png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
-&#x20;![](<../../../.gitbook/assets/image-000032.jpg>)
+![](<../../../.gitbook/assets/image-000032 (1).jpg>)
 
+![](../../../.gitbook/assets/image-000033.jpg)
 
-
-&#x20;![](<../../../.gitbook/assets/image-000033.jpg>)
-
-
-
-![](<../../../.gitbook/assets/image-000034.jpg>)
-
-
+![](../../../.gitbook/assets/image-000034.jpg)
 
 ## PW550 versus PW517
 
 The PW550 may be a compelling upgrade to the PW517 pen. See the details in the video below.
-

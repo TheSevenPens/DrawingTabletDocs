@@ -8,11 +8,11 @@ These "hooks" often seem to be an artifact of various pen smoothing/stabilizatio
 
 In the example lots of quick flicks were used to draw several strokes. Lots of smoothing was used. You can clearly see that some lines have hooks at the beginning/
 
-![](<../.gitbook/assets/image-000209.png>)
+![](<../.gitbook/assets/image-000209 (2).png>)
 
 Below the same style flicks were used to draw strokes but this time the smoothing was set to zero.
 
-![](<../.gitbook/assets/image-000210.png>)
+![](<../.gitbook/assets/image-000210 (1).png>)
 
 ## Angle of fast stroke
 
