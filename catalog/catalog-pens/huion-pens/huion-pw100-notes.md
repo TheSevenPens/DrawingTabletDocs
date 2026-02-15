@@ -25,7 +25,7 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image-0016.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Pressure range
 

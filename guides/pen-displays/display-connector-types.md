@@ -13,7 +13,7 @@ When working with pen displays tablets you'll encounter lots of different connec
 
 Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HDMI)
 
-![](<../../.gitbook/assets/image (1).jpg>)
+![](../../.gitbook/assets/image-0002.jpg)
 
 ## DisplayPort connectors
 

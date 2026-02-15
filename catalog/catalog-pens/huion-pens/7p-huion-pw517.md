@@ -20,7 +20,7 @@ Huion lists these as compatible tablets
 * Kamvas Pro 16 (4k) series
 * Kamvas Pro 24 (4K), etc.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-0013.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Use the PW550 pen instead
 

@@ -8,11 +8,11 @@ As of July 2025, the Heion PW600 series is the best non-Wacom pen I've seen. It 
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-0007.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-0008.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-0010.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

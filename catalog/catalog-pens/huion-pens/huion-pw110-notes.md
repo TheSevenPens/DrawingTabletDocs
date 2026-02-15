@@ -16,7 +16,7 @@ Huion lists the compatible tablets as
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-0011.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 

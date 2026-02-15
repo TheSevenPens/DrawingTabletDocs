@@ -159,11 +159,11 @@ The XP-Pen Artist Pro 19 GEN2 has an amount of surface texture that is
 
 ### USB-C connection options
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-0017.png" alt=""><figcaption></figcaption></figure>
 
 ### HDMI connection options
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-0018.png" alt=""><figcaption></figcaption></figure>
 
 ### How I connected it
 
