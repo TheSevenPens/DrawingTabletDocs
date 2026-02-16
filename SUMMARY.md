@@ -395,7 +395,7 @@
       * [CalDigit](catalog/catalog-accessories/docks-and-hubs/caldigit/README.md)
         * [CalDigit USB-C to HDMI 2.1 adapter](catalog/catalog-accessories/docks-and-hubs/caldigit/caldigit-usb-c-to-hdmi-2.1-adapter.md)
         * [CalDigit TS4 Thunderbolt Dock](catalog/catalog-accessories/docks-and-hubs/caldigit/caldigit-ts4-thunderbolt-dock.md)
-      * [Wacom Converter (ACK45219Z) notes](catalog/catalog-accessories/docks-and-hubs/7p-wacom-ack45219z.md)
+      * [Wacom Converter (ACK45219Z) notes](catalog/catalog-accessories/docks-and-hubs/wacom-ack45219z-notes.md)
     * [Drawing tablet mice](catalog/catalog-accessories/drawing-tablet-mice.md)
   * [Catalog: Apps](catalog/catalog-apps/README.md "Apps")
     * [MyPaint](catalog/catalog-apps/mypaint.md)
