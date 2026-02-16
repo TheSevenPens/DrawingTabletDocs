@@ -2,9 +2,9 @@
 
 ## **Summary**
 
-This is a slightly older Huion model from 2019 but is still a decent drawing tablet.&#x20;
+This is a slightly older Huion model from 2019 but is still a decent drawing tablet.
 
-If you get it, then it will work fine. But you should consider the newer Huion pen tablets at the same price point as the HS611.&#x20;
+If you get it, then it will work fine. But you should consider the newer Huion pen tablets at the same price point as the HS611.
 
 <figure><img src="../../../../.gitbook/assets/image-000216.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -12,10 +12,10 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 ## **Links**
 
-* User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)  &#x20;
+* User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)
 * [Teoh on Tech review of Huion HS611](https://www.youtube.com/watch?v=1RcUCSL5azU) 2021/02/14
-* [Brad Colbow review of Huion HS611](https://www.youtube.com/watch?v=IHV7LsbxqsU) 2020/03/23&#x20;
-* [Nemanja Sekulic review of Huion HS611](https://www.youtube.com/watch?v=WEXXbXDrd-Y) 2020/04/28&#x20;
+* [Brad Colbow review of Huion HS611](https://www.youtube.com/watch?v=IHV7LsbxqsU) 2020/03/23
+* [Nemanja Sekulic review of Huion HS611](https://www.youtube.com/watch?v=WEXXbXDrd-Y) 2020/04/28
 
 ## **Active area size**
 
@@ -29,11 +29,11 @@ This tablet has a 16:10 aspect ratio.
 
 ## **Pen**
 
-The tablet uses he the slightly older PW500 pen. For more details about the pen, see [<mark style="background-color:green;">**My notes on the PW500 pen**</mark>](../../../catalog-pens/huion-pens/7p-huion-pw500.md)&#x20;
+The tablet uses he the slightly older PW500 pen. For more details about the pen, see [<mark style="background-color:green;">**My notes on the PW500 pen**</mark>](../../../catalog-pens/huion-pens/huion-pw500-notes.md)
 
 ## **Build quality & design**
 
-The HS611 has a very simple design. No complaints, though it lacks the refined look and feel of the newer Huion tablets.&#x20;
+The HS611 has a very simple design. No complaints, though it lacks the refined look and feel of the newer Huion tablets.
 
 It is also available in several colors (Space Grey, Starr Blue, and Coral Red). I have the Space Grey version.
 
@@ -66,7 +66,7 @@ Each group of five s some raised symbols on the buttons to help you identify the
 
 * Touch controls - At the top there are some additional touch-sensitive keys.
   * One is a slider that can be configured to adjust zoom, brush size, or vertical scrolling
-  * The rest control media-related features &#x20;
+  * The rest control media-related features
 
 <figure><img src="../../../../.gitbook/assets/image-000638.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -80,7 +80,7 @@ This tablet does NOT support touch
 
 **Wireless -** This tablet does NOT support a wireless connect
 
-**Wired connection** - there is a single USB-C port&#x20;
+**Wired connection** - there is a single USB-C port
 
 ## **Tilt compensation**
 
@@ -89,7 +89,7 @@ OK. Exhibits a moderate amount of displacement of the pointer when the pen is ti
 ## Drawing fundamentals
 
 * Pressure handling seemed smooth when transitioning between low to high pressure
-* Tilt worked as expected&#x20;
+* Tilt worked as expected
 * I didn't notice anything unusual at all.
 
 ## Pressure instability/wobble

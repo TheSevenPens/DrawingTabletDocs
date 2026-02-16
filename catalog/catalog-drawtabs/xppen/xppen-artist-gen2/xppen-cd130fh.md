@@ -7,12 +7,12 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 ## Basics
 
 * Model year: 2022
-* Product page: [https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html](https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html)&#x20;
-* [user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf)&#x20;
+* Product page: [https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html](https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html)
+* [user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf)
 
 ## Pen
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [<mark style="background-color:green;">**My notes on the X3 elite pen**</mark>](../../../catalog-pens/xp-pen-pens/7p-xppen-x3elite-pen.md)
+Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [<mark style="background-color:green;">**My notes on the X3 elite pen**</mark>](../../../catalog-pens/xp-pen-pens/xppen-x3elite-notes.md)
 
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
@@ -43,14 +43,14 @@ It has more sparkle than the Wacom One (DTC-133) but less than the Huion Kamvas 
 These things worked well
 
 * drawing lots of dots
-* drawing many small quick tiny low pressure lines - hatching&#x20;
+* drawing many small quick tiny low pressure lines - hatching
 * keeping pressure constant
 * moving between high and low pressure smoothly
-* Line Tapering - typical&#x20;
+* Line Tapering - typical
 
 ## Pen pressure range <a href="#pressure-range" id="pressure-range"></a>
 
-See: [<mark style="background-color:green;">**My notes on the X3 elite pen**</mark>](../../../catalog-pens/xp-pen-pens/7p-xppen-x3elite-pen.md)
+See: [<mark style="background-color:green;">**My notes on the X3 elite pen**</mark>](../../../catalog-pens/xp-pen-pens/xppen-x3elite-notes.md)
 
 ## Pointer lag <a href="#pointer-lag" id="pointer-lag"></a>
 
@@ -70,11 +70,10 @@ Note that the ports are deeply recessed into wells.
 
 Comes with a a 3-in-1 cable. Which I didn't use.
 
-Instead I my own Thunderbolt 3 cable.&#x20;
+Instead I my own Thunderbolt 3 cable.
 
 because the USB-C ports are in deep wells, my TB3 cable has ends that are too thick to fit in the well. I had to chop away some plastic to make it fit.
 
 ## Using a single-USB-C cable
 
 This works. I was able to use it with a single USB-C cable
-
