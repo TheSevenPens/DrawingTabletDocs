@@ -360,7 +360,7 @@
     * [Keyboards](catalog/catalog-accessories/keyboards.md)
     * [Auxiliary input devices](catalog/catalog-accessories/auxiliary-input-devices/README.md)
       * [TourBox](catalog/catalog-accessories/auxiliary-input-devices/tourbox/README.md)
-        * [TourBox notes](catalog/catalog-accessories/auxiliary-input-devices/tourbox/7p-notes-tourbox.md)
+        * [TourBox notes](catalog/catalog-accessories/auxiliary-input-devices/tourbox/tourbox-notes.md)
       * [8bitdo controller](catalog/catalog-accessories/auxiliary-input-devices/8bitdo-controller.md)
       * [Clip Studio Tabmate](catalog/catalog-accessories/auxiliary-input-devices/clip-studio-tabmate.md)
       * [Xencelabs Quick Keys](catalog/catalog-accessories/auxiliary-input-devices/xencelabs-quick-keys.md)
