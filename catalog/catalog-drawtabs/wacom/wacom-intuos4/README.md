@@ -12,8 +12,10 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 * Intuos pro generation: 4th gen
 * Preceded by: [Intuos3](../wacom-intuos3.md)
 * Succeeded by: [Intuos5](../wacom-intuos5.md)
+* User manuals
+  * [User manual for PTK-540WL](https://support.wacom.asia/sites/default/files/manuals_brochures/intuos4-wireless-en.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5993373))
 * Last supported driver
-  * PTK-440, PTK-640, PTK-840&#x20;
+  * PTK-440, PTK-640, PTK-840
     * Windows: 6.3.41-1 released on 2020-10-06
     * MacOS: 6.3.41-2 released on 2020-10-06
   * PTK-1240
@@ -42,7 +44,7 @@ The Intuos4 introduced a tablet design with expresskeys and the ring on the left
 
 These are still excellent tablets. However, Wacom has dropped support for them in their latest drivers.
 
-For example none of them are listed in the compatibility list for Wacom windows driver version 6.4.4-4:&#x20;
+For example none of them are listed in the compatibility list for Wacom windows driver version 6.4.4-4:
 
 More here: [https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html)
 
@@ -52,4 +54,3 @@ You can still use these tablets with caveats that come with using older tablets.
 
 * [EyeKooDrawsStuff review of Intuos 4 large](https://www.youtube.com/watch?v=GAb-mte-j5w) Oct 12, 2021
 * [Terry Lee White review of Wacom Intuos 4](https://www.youtube.com/watch?v=yKQlAiATVzI) May 11, 2009
-
