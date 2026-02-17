@@ -6,12 +6,14 @@ description: GD series
 
 ## Overview
 
-Wacom  released the Intuos series of professional pen tablets in 1998.&#x20;
+Wacom released the Intuos series of professional pen tablets in 1998.
 
 * Release year: 1998
 * Preceded by: [Wacom UD series](wacom-ud-series-notes.md)
 * Succeeded by: [Intuos2](wacom-intuos2.md)
 * Intuos pro generation: 1st gen
+* User manual
+  * [Intuos1 User manual](https://101.wacom.com/productsupport/manual/IntuosUserManual.pdf)&#x20;
 * Last supported driver
   * Windows: 6.1.7-3 released on 2011-09-13
   * MacOS: 6.1.6-4 released on 2010-11-22
@@ -22,10 +24,8 @@ Wacom  released the Intuos series of professional pen tablets in 1998.&#x20;
 
 ## Links
 
-* [S-Config - Original Wacom GD-0912-R on Windows 7 x64 ](https://www.s-config.com/original-wacom-gd-0912-r-on-windows-7-x64/) ([archive](https://archive.is/oeUFc))
-*   [EyekooDrawsStuff - review of Intuos 12x12 (GD-1212-U)](https://www.youtube.com/watch?v=eXgcuOzg1-M) 2021/10/27
-
-
+* [S-Config - Original Wacom GD-0912-R on Windows 7 x64 ](https://www.s-config.com/original-wacom-gd-0912-r-on-windows-7-x64/)([archive](https://archive.is/oeUFc))
+* [EyekooDrawsStuff - review of Intuos 12x12 (GD-1212-U)](https://www.youtube.com/watch?v=eXgcuOzg1-M) 2021/10/27
 
 ## Name
 

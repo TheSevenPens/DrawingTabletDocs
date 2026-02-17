@@ -10,6 +10,8 @@ description: PTZ-x30 series
 * Intuos pro generation: 3rd gen
 * Preceded by: [Intuos2](wacom-intuos2.md)
 * Succeeded by: [Intuos4](wacom-intuos4/)
+* User manual
+  * [Intuos 3 User Manual](https://cdn.wacom.com/u/productsupport/manuals/intuos3/user's%20manual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5708085))
 * Last supported driver
   * Windows: 6.3.15-3 22 released 2015-12
   * MacOS: 6.3.15-3 released on 2015-12-21
@@ -20,7 +22,7 @@ description: PTZ-x30 series
 
 ## Resources
 
-* [Wacom - What is the driver for the Intuos3, PTZ model tablets?](https://support.wacom.com/hc/en-us/articles/1500006341302-What-is-the-driver-for-the-Intuos-3-PTZ-model-tablets-)&#x20;
+* [Wacom - What is the driver for the Intuos3, PTZ model tablets?](https://support.wacom.com/hc/en-us/articles/1500006341302-What-is-the-driver-for-the-Intuos-3-PTZ-model-tablets-)
 * [EyeKooDrawsStuff review of Intuos3](https://www.youtube.com/watch?v=oX1olkXab60) 2021-09-11
 * [Pen & Blade review of Intuos3](https://www.youtube.com/watch?v=yve0umU7ONQ) 2017-01-14
 * [Matthew Pearce review of Intuos3](https://www.youtube.com/watch?v=O_tZqMrcprE) 2009-10-18

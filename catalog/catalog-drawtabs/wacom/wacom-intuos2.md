@@ -11,7 +11,10 @@ This is a professional pen tablet series from 2001.
 * Release year: 2001
 * Intuos pro generation: 2nd gen
 * Preceded by: [Intuos1](wacom-intuos1.md)
-* Succeeded by: [Intuos3](wacom-intuos3.md)&#x20;
+* Succeeded by: [Intuos3](wacom-intuos3.md)
+* User manual
+  * [Intuos2 User Manual for Windows](https://101.wacom.com/productsupport/manual/Intuos2UsersManual.pdf) ([archive.org](https://archive.orghttps/archive.org/details/manualzilla-id-7368619/page/n1/mode/2up))
+  * [Intuos2 User Manual for Mac](https://101.wacom.com/productsupport/mac_manuals/IntuosUserManual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5860859))
 * Last supported driver
   * Windows: 6.2.0w5 released on 2012-01-25
   * MacOS: 6.2.0w4 released on 2012-01-25
@@ -28,7 +31,6 @@ This is a professional pen tablet series from 2001.
 
 ## Reviews
 
-* Imaging Resource review of Wacom Intuos2 &#x20;
+* Imaging Resource review of Wacom Intuos2
   * Original URL: [https://www.imaging-resource.com/ACCS/IN2/IN2.HTM](https://www.imaging-resource.com/ACCS/IN2/IN2.HTM)
-  * Archive link: [https://archive.is/P05An](https://archive.is/P05An)&#x20;
-
+  * Archive link: [https://archive.is/P05An](https://archive.is/P05An)
