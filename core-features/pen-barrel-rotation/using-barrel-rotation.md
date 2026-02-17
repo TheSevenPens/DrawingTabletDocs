@@ -30,10 +30,21 @@ whereas a shape like this would not demonstrate barrel rotation because it is sy
 
 <figure><img src="../../.gitbook/assets/image-000340.png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Clip Studio Paint
+
+* Open the **Sub Tool Detail** UI for your brush
+* Navigate to **Brush shape > Brush tip**
+* Next to **Angle** click the button with two chevrons&#x20;
+* Choose **Pen tilt**
+
+<figure><img src="../../.gitbook/assets/image-000760.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 ## Photoshop 2026
 
 * Open the **Brush Settings** window
 * Navigate to **Shape Dynamics**
 * Under **Angle Jitter**, set **Control** to **Rotation**
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000759.png" alt="" width="563"><figcaption></figcaption></figure>
