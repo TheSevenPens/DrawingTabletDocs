@@ -349,7 +349,7 @@
   * [DIAG: Windows Get PnPUtil Device and Driver Info](troubleshooting/diag-windows-get-pnputil-device-and-driver-info.md)
   * [TSB: Multiple pointers](troubleshooting/tsb-multiple-pointers.md)
   * [TSG: Diamond pointer on Windows](troubleshooting/tsg-diamond-pointer-on-windows.md)
-  * [TSG: Replacing a lost tablet cable](troubleshooting/tsg-replacing-a-lost-tablet-cable.md)
+  * [TSG: Replacing a lost tablet cable](troubleshooting/tsg-replace-lost-tablet-cable.md)
 * [Catalog](catalog/README.md)
   * [Catalog: Accessories](catalog/catalog-accessories/README.md "Accessories")
     * [Screen cleaning sprays](catalog/catalog-accessories/screen-cleaning-sprays.md)
