@@ -441,6 +441,7 @@
     * [Samsung Notes](catalog/catalog-apps/samsung-notes.md)
     * [StylusX](catalog/catalog-apps/stylusx.md)
     * [ZoomIt](catalog/catalog-apps/zoomit.md)
+    * [Wacom Preference File Utility](catalog/catalog-apps/wacom-preference-file-utility.md)
     * [Wacom Instant Pen Display](catalog/catalog-apps/wacom-instant-pen-display.md)
   * [Catalog: Drawing tablets](catalog/catalog-drawtabs/README.md "Drawing tablets")
     * [Apple](catalog/catalog-drawtabs/apple/README.md)
