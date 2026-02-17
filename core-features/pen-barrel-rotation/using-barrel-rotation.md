@@ -28,4 +28,12 @@ whereas a shape like this would not demonstrate barrel rotation because it is sy
 * Uncheck all the options under **Enable Pen Settings**, but check **Rotation**.
 * Then go to the canvas of your document and try rotating the pen around its long axis
 
-<figure><img src="../../.gitbook/assets/image-000340.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000340.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## Photoshop 2026
+
+* Open the **Brush Settings** window
+* Navigate to **Shape Dynamics**
+* Under **Angle Jitter**, set **Control** to **Rotation**
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
