@@ -26,8 +26,7 @@
 * Anti-glare treatment: Etched glass
 * Contrast ratio: 1000:1
 * Brightness: 250 nits
-* Response time
-  : 14ms
+* Response time : 14ms
 * Refresh rate: 60Hz
 
 ## Pens
@@ -48,28 +47,31 @@
 
 ## Display experience
 
-### Pixel sharpness&#x20;
+### Pixel sharpness
 
-* The GT2402 has noticeably soft pixels (presumably due to the etched glass).&#x20;
+* The GT2402 has noticeably soft pixels (presumably due to the etched glass).
 * The older GT2401 is clearly sharper than the GT2402.
-* To me the GT2402 was a bit softer than the Huion Kamvas Pro 19 and this might be due to the lower pixel density of the GT2402.&#x20;
+* To me the GT2402 was a bit softer than the Huion Kamvas Pro 19 and this might be due to the lower pixel density of the GT2402.
 
 <figure><img src="../../../../.gitbook/assets/image-000205.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image-000204.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ### Anti-glare sparkle
 
-* The GT2402 has very little AG sparkle.&#x20;
+* The GT2402 has very little AG sparkle.
 * The Older model GT2401 has a moderate about of AG sparkle.
 
 ## Drawing experience
 
-
-
 ## Connections and cabling
+
+### Ports
+
+* HDMI
+* DIsplayPort
+* USB-C (full-featured)
+* Power
 
 ### HDMI connection
 
@@ -78,6 +80,10 @@ For HDMI you connect with three separate cables for power, video, and data.
 There is no 3-in-1 cable for this tablet.
 
 <figure><img src="../../../../.gitbook/assets/image-000249.png" alt=""><figcaption></figcaption></figure>
+
+### DisplayPort connecton
+
+Connects the same way as shown with the HDMI connection, except with a DisplayPort cable
 
 ### USB-C connection
 
@@ -88,7 +94,7 @@ You can connect this tablet with a single USB-C cable for video and data. The ca
 ### Compatible USB-C cables
 
 * The tablet comes with compatible full-featured a USB-C cable for carrying video and data.
-* My CableMatters Thunderbolt  3 USB-C cable also worked
+* My CableMatters Thunderbolt 3 USB-C cable also worked
 * A CalDigit Thunderbolt 4 USB-C cable did not work - when I used it I always saw NO SIGNAL
 
 ## Non-pen inputs
@@ -97,7 +103,7 @@ You can connect this tablet with a single USB-C cable for video and data. The ca
 
 * Yes supports touch
 * Worked well in Windows
-* I did not test with MacOS.&#x20;
+* I did not test with MacOS.
 
 ### Buttons, Dials, etc.
 
@@ -106,4 +112,3 @@ You can connect this tablet with a single USB-C cable for video and data. The ca
 ## Remotes
 
 The tablet comes with the K40 Keydial Remote. I did not use this remote.
-
