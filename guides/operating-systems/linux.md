@@ -48,6 +48,10 @@ Has drivers for some models
 
 Often, people prefer to use OpenTabletDriver for tablets on Linux. This is especially popular in the osu community.
 
+## WINE notes
+
+* A note from [tablet kitten](../../resources/community/tablet-kitten.md) - WINE builds with wow64 have a broken wintab32&#x20;
+
 ## Links
 
 ### General
