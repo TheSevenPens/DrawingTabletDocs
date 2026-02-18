@@ -9,7 +9,7 @@ If you are looking for protection for other kinds of devices go here: [**Surface
 ## Manufacturer options
 
 * **Wacom** makes Texture Sheets available for its Intuos Pro pen 2017 and Intuos Pro 2025 tablets. More here: [**Wacom texture sheets**](wacom-texture-sheets.md)&#x20;
-* [**XP-Pen offers protective sheets for their tablets**](../xp-pen-surface-protectors.md)
+* [**XP-Pen offers protective sheets for their tablets**](../xppen-surface-protectors.md)
 
 ## 3rd-party options
 

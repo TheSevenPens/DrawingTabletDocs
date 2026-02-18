@@ -18,11 +18,11 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 ### Product information
 
 * Product page: [https://www.xp-pen.com/product/artist-12-3rd.html](https://www.xp-pen.com/product/artist-12-3rd.html)
-* Name: XP-Pen Artist 12 GEN3&#x20;
+* Name: XP-Pen Artist 12 GEN3
   * Actually the name on the box is "XP-Pen Artist 12 3rd" but to be consistent with how I discuss other tablets I am using "GEN3" in the name.
 * Model number: CD121FH
 * Launch year: 2025
-* User manual: [https://www.xp-pen.com/user-manual/artist-12-3rd.html](https://www.xp-pen.com/user-manual/artist-12-3rd.html)&#x20;
+* User manual: [https://www.xp-pen.com/user-manual/artist-12-3rd.html](https://www.xp-pen.com/user-manual/artist-12-3rd.html)
 
 ### What's in the box
 
@@ -31,7 +31,7 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 * Pen Nibs x 10
 * Nib Replacement Tool x 1
 * Full-featured USB-C to USB-C Cable x 1
-* 3-in-1 USB-C Cable  x 1
+* 3-in-1 USB-C Cable x 1
 * Warranty and Driver Download Card x 1
 * Glove x 1
 * Cleaning Cloth x 1
@@ -47,10 +47,10 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 * Digonal: 11.9 in
 * Number of pressure levels: 16K
 * Tilt: YES
-* Tilt range: +/- 60 deg&#x20;
+* Tilt range: +/- 60 deg
 * Report rate: UNKNOWN
-* Accuracy:&#x20;
-  * Center ±0.2 mm&#x20;
+* Accuracy:
+  * Center ±0.2 mm
   * Corner: UNKNOWN
 
 ### Display specs
@@ -59,7 +59,7 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 * Native resolution: 1920x1080
 * Aspect ratio: 16x9
 * Surface: etched glass
-  * XP-Pen says "AG + AF" &#x20;
+  * XP-Pen says "AG + AF"
 * Lamination: YES
 * Brightness: 260 nit
 * Response time: UNKNOWN
@@ -75,20 +75,20 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 
 * Size: 327.2 x 189.1 x 12.0 mm
 * Weight: 719 g
-* Ports:&#x20;
+* Ports:
   * Full-featured USB-C x 1
   * 3-in-1 USB-C x 1
   * Both USB-C ports are recessed
 
-## Pen&#x20;
+## Pen
 
 ### Included pen
 
-X4 Smart Chip Stylus  [**my notes on this pen**](../../../catalog-pens/xp-pen-pens/xp-pen-x4-pens-notes.md)
+X4 Smart Chip Stylus [**my notes on this pen**](../../../catalog-pens/xppen-pens/xppen-x4-pen-notes.md)
 
 ### Compatible pens
 
-* X4 Smart Chip Stylus&#x20;
+* X4 Smart Chip Stylus
 * P-Pen does not list other pens as compatible - however these pens work
   * X3 Pro
   * X3 Pro Slim
@@ -110,8 +110,6 @@ LOW (GOOD)
 
 Only noticable when eyes are very close to screen
 
-
-
 ## Drawing experience
 
 ### Static tracking accuracy
@@ -126,12 +124,12 @@ TYPICAL - Slight deviation (\~2mm) at corners and edges
 
 Overall GOOD
 
-But pointer deviates slightly to the left (\~1mm) as the pen tilts to the left.&#x20;
+But pointer deviates slightly to the left (\~1mm) as the pen tilts to the left.
 
 ### Diagonal wobble
 
-* Slightly diagonal wobble visible in strokes at all tested speeds. With the most at the slowest speed and declining as the stroke speed increased.&#x20;
-* Most users will likely not notice any wobble.&#x20;
+* Slightly diagonal wobble visible in strokes at all tested speeds. With the most at the slowest speed and declining as the stroke speed increased.
+* Most users will likely not notice any wobble.
 * If it does show up smoothing will remove it. In Krita, weighted stabilization with a distance value of 200 removed it.
 
 ### Artifacts at low pressure
@@ -152,7 +150,7 @@ Good (LOW)
 
 ### Pointer lag
 
-Slightly more than I would expect for a pen display.&#x20;
+Slightly more than I would expect for a pen display.
 
 ### Surface texture
 
@@ -160,7 +158,7 @@ Tested with the default plastic nib of the X4 pen.
 
 Typical for pen displays - slight texture. Pen didn't feel slippery on the glass.
 
-Similar feel to Wacom Movink 13 - just very slightly less&#x20;
+Similar feel to Wacom Movink 13 - just very slightly less
 
 ### Connections and cabling
 
@@ -174,7 +172,7 @@ TBD
 * They can be pressed from the left and from the top
 * It is NOT hard to press the buttons when the tablet is resting on a desk
 
-### Rollers&#x20;
+### Rollers
 
 * 2 rollers on the left side
 * The rollers provide tactile feedback as you roll them and have a "click" sound
@@ -205,11 +203,8 @@ None
 ### Noise
 
 * No fan noise
-* The rollers have "click" when rolling. It is not loud, but louder than I expected.&#x20;
+* The rollers have "click" when rolling. It is not loud, but louder than I expected.
 
 ## Heat
 
 At 100% brightness for an hour - seems overall room temperature with some light heat increasing toward the ports on the right
-
-
-

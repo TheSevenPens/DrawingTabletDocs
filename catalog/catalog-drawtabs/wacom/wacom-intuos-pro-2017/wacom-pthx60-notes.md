@@ -123,4 +123,4 @@ The hardware will last forever but eventually not having updated drivers will po
 
 You can use older drivers for a while until some point in which they will not work. A new drivers will refuse to work with the older tablets. See: [Using older drivers](../../../../guides/drivers/older-wacom-drivers.md)
 
-Another option is to use something like open tablet driver which is challenging to set up for artistic use but it does work extremely well. This is an option for for advanced users and requires some technical expertise. For a normal user I would not advise it unless you have help. See: [Install OpenTabletDriver on Windows](../../../../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+Another option is to use something like open tablet driver which is challenging to set up for artistic use but it does work extremely well. This is an option for for advanced users and requires some technical expertise. For a normal user I would not advise it unless you have help. See: [Install OpenTabletDriver on Windows](../../../../guides/drivers/opentabletdriver/otd-windows-install.md)

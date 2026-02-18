@@ -7,9 +7,9 @@ This document is for CREATIVES interested in using OpenTabletDriver on Windows a
 {% hint style="info" %}
 If you don't know about OpenTabletDriver or why you might want or need to use it, read: [**OpenTabletDriver**](./).
 
-Familiarize yourself with the [**My notes on OpenTabletDriver**](notes-on-opentabletdriver.md).
+Familiarize yourself with the [**My notes on OpenTabletDriver**](otd-notes.md).
 
-How to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
+How to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](otd-windows-uninstall.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -246,7 +246,7 @@ Try some basic drawing and see if everything is working
 
 ### STEP 4.2 Pressure curves
 
-By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](opentabletdriver-pressure.md)
+By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](otd-pressure-curves.md)
 
 ### STEP 4.3 Smoothing
 
@@ -258,7 +258,7 @@ By default OTD performs no smoothing on the pen data. This is desirable because
 Two ways to introduce smoothing
 
 * **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)
-* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](opentabletdriver-smoothing.md)
+* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](otd-smoothing.md)
 
 ### STEP 4.4 Configure tablet buttons
 
@@ -279,7 +279,7 @@ To allow rapid switching between monitors you have two options:
 
 ### Uninstalling OTD
 
-See the instructions here: [Uninstalling OpenTabletDriver on Windows](uninstalling-opentabletdriver-on-windows.md)
+See the instructions here: [Uninstalling OpenTabletDriver on Windows](otd-windows-uninstall.md)
 
 ### OTD application data directory
 

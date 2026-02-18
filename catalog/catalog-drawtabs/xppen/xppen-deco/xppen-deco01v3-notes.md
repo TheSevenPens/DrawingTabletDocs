@@ -6,7 +6,7 @@ This is OK tablet that despite being released in 2025, uses an older generation 
 
 ## Basics
 
-* Product page: [https://www.xp-pen.com/product/deco-01-v3.html](https://www.xp-pen.com/product/deco-01-v3.html)&#x20;
+* Product page: [https://www.xp-pen.com/product/deco-01-v3.html](https://www.xp-pen.com/product/deco-01-v3.html)
 * User manual: [https://www.xp-pen.com/user-manual/deco-01-v3.html](https://www.xp-pen.com/user-manual/deco-01-v3.html)
 * Release year: 2025
 
@@ -16,7 +16,7 @@ XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to
 
 ## Android support
 
-XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case in my testing. It had the same issues as I encountered with the Deco 01 V2. Why it didn't work seamlessly is unclear. It could have been due to the specific Android devices I tested with (I did test multiple).&#x20;
+XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case in my testing. It had the same issues as I encountered with the Deco 01 V2. Why it didn't work seamlessly is unclear. It could have been due to the specific Android devices I tested with (I did test multiple).
 
 Other users say they have used this tablet with an Android device and it worked correctly. That just was not my experience.
 
@@ -24,7 +24,7 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [**notes on P05 pen**](../../../catalog-pens/xp-pen-pens/xp-pen-p05-pen-notes.md)
+XP-Pen P05 - [**notes on P05 pen**](../../../catalog-pens/xppen-pens/xppen-p05-pen-notes.md)
 
 The included P05 pen has exactly the same as the old model and has the same high IAF.
 
@@ -38,7 +38,7 @@ Other users have reported that it does work well with Android.
 
 ## Better alternatives
 
-A better choice in 2025 would be these tablets: [**Pen tablet recommendations (MEDIUM)**](../../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)&#x20;
+A better choice in 2025 would be these tablets: [**Pen tablet recommendations (MEDIUM)**](../../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)
 
 ## Photos
 
@@ -46,33 +46,10 @@ A better choice in 2025 would be these tablets: [**Pen tablet recommendations (M
 
 <figure><img src="../../../../.gitbook/assets/image-000115.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/image-000116.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/image-000119.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
-
-
-
-
 <figure><img src="../../../../.gitbook/assets/image-000117.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/image-000118.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-

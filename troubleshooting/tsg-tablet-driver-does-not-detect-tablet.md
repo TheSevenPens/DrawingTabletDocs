@@ -16,11 +16,11 @@ I want to be candid with you. If this problem isn't due to some simple cabling p
 
 Here are several examples of how the driver indicates the tablet is not connected.
 
-| Brand  | Driver message                                                                                                                                                                       |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Huion  | <img src="../.gitbook/assets/image-000234.png" alt="" data-size="original">     |
+| Brand  | Driver message                                                              |
+| ------ | --------------------------------------------------------------------------- |
+| Huion  | <img src="../.gitbook/assets/image-000234.png" alt="" data-size="original"> |
 | XP-Pen | <img src="../.gitbook/assets/image-000233.png" alt="" data-size="original"> |
-| Wacom  | <img src="../.gitbook/assets/image-000294.png" alt="" data-size="original">                                                 |
+| Wacom  | <img src="../.gitbook/assets/image-000294.png" alt="" data-size="original"> |
 
 ## Driver versus operating system
 
@@ -28,7 +28,7 @@ What makes this issue confusing is that sometimes your computer's operating syst
 
 ## What is not being detected
 
-Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen.&#x20;
+Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen.
 
 When a driver is saying your tablet is not connected, it is talking about this digitizer
 
@@ -38,9 +38,9 @@ For a pen display (screen tablet) there is of course another component - the scr
 
 ## NO SIGNAL for pen displays
 
-Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](tsg-no-signal.md).&#x20;
+Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](tsg-no-signal.md).
 
-## Basic troubleshooting&#x20;
+## Basic troubleshooting
 
 * Restart the computer. This sometimes resolves the problem.
 * Uninstall and reinstall the driver. Then restart the computer.
@@ -49,20 +49,20 @@ Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to
 
 ## USB-connection options
 
-* Try unplugging other USB devices leaving only the tablet then plug devices back in.&#x20;
-* If you have a USB hub, try not using it.&#x20;
+* Try unplugging other USB devices leaving only the tablet then plug devices back in.
+* If you have a USB hub, try not using it.
 * Look at the USB ports and ends of the USB cables and verify they are clean. Remove any lint, etc. that you find.
 * Try a different USB cable - make sure the USB cable supports data and not just power.
 * Try a different USB port.
 * Unplug and re-plug the USB cable
-* Check your tablet documentation. Some tablets have a "reset" option.&#x20;
+* Check your tablet documentation. Some tablets have a "reset" option.
 
 ## Try the tablet with another computer
 
 The issue may be specific with your computer, so try with another computer.
 
 * If it doesn't work there, then that suggest the tablet itself is having problems.
-* If it does work there, then retry with your own computer.&#x20;
+* If it does work there, then retry with your own computer.
 
 ## 3-in-1 cable: Check if data cable connected to power
 
@@ -90,7 +90,7 @@ If it does work correctly, it points to a problem with the manufacturer tablet d
 
 ## Windows > power options for the tablet
 
-Some people say this has helped them. I'm not sure.&#x20;
+Some people say this has helped them. I'm not sure.
 
 * In **device manager**, select **View > By container**
 * Find your tablet
@@ -102,11 +102,11 @@ Uncheck **Power Management > Allow the computer to turn off this device to save 
 ## Manufacturer support pages
 
 * **Wacom**: What does the error message “A supported tablet is not found on the system” or "No Wacom device connected to your computer" mean and how do I fix it? ([**link**](https://support.wacom.com/hc/en-us/articles/1500006339862))
-* **Huion**: What To Do When Huion Driver Shows Device Disconnected?  ([**link**](https://support.huion.com/en/support/solutions/articles/44001163422-what-to-do-when-huion-driver-shows-device-disconnected-))
+* **Huion**: What To Do When Huion Driver Shows Device Disconnected? ([**link**](https://support.huion.com/en/support/solutions/articles/44001163422-what-to-do-when-huion-driver-shows-device-disconnected-))
 
 ## Time
 
-Sometimes just waiting out the problem is all you can do. Some people report that they leave their tablet disconnected from their computer for a few days, and then afterwards it just starts working again.&#x20;
+Sometimes just waiting out the problem is all you can do. Some people report that they leave their tablet disconnected from their computer for a few days, and then afterwards it just starts working again.
 
 Both the times I've personally encountered this problem it seems like nothing I did worked, but I just waited and it eventually resolved itself.
 
@@ -118,7 +118,7 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 ## Other threads
 
-* 2025-01-13 - [https://www.reddit.com/r/huion/comments/1i0g95y/this\_might\_also\_help\_u\_with\_device\_disconnected/](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/)&#x20;
+* 2025-01-13 - [https://www.reddit.com/r/huion/comments/1i0g95y/this\_might\_also\_help\_u\_with\_device\_disconnected/](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/)
 *
 
 ## Still not solved?
@@ -127,8 +127,8 @@ If none of these suggestions are helping, then [**contact support**](../basics/c
 
 In the meanwhile, you may be able to use alternative drivers on Windows:
 
-* Windows PNP drivers: [https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets](https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets)&#x20;
-* Open Tablet Driver: [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+* Windows PNP drivers: [https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets](https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets)
+* Open Tablet Driver: [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/otd-windows-install.md)
 
 ## Notes
 

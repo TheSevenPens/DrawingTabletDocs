@@ -10,31 +10,31 @@ If you are looking for protection for other kinds of devices go here: [**Surface
 
 This is a persistent point of confusion. People sometimes think a screen with "lamination" means there is a screen protector. Or vice-versa.
 
-**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [lamination](../../../../guides/pen-displays/lamination.md). &#x20;
+**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [lamination](../../../../guides/pen-displays/lamination.md).
 
 ## Characteristics
 
-* **Transparency** - Screen protectors must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a tablet with a screen.&#x20;
+* **Transparency** - Screen protectors must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a tablet with a screen.
 * **Anti-glare** - Screen protectors usually offer some amount of ant-glare treatment. Screen protectors vary in how much of this treatment they have. And some deliberately offer low or no AG treatment at all.
-  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).&#x20;
+  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).
 * **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [parallax](../../../../guides/pen-displays/parallax.md).
 
 ## Pre-installed screen protectors
 
-Some pen displays arrive with a screen protector already on top of the glass.&#x20;
+Some pen displays arrive with a screen protector already on top of the glass.
 
 You'll often see these pre-installed protectors listen in table specs like this:
 
 * anti-glare film
 * matte film
 
-Here's an example for the Huion Kamvas 13 (GS1333).&#x20;
+Here's an example for the Huion Kamvas 13 (GS1333).
 
 <figure><img src="../../../../.gitbook/assets/image-000300.png" alt="" width="375"><figcaption></figcaption></figure>
 
 However, be aware that sometimes the screen protector is not listed even if the tablet has one. In this case you'll need to contact support or other users of the tablet.
 
-## Replacing pre-installed screen protectors&#x20;
+## Replacing pre-installed screen protectors
 
 It MAY be possible to replace pre-installed screen protector. This is useful if the screen protector itself gets scratched.
 
@@ -43,22 +43,22 @@ Note that:
 * Some tablets are designed to have the screen protector removed relatively easily
 * Some tables are designed to have the screen protector be permanent and they are difficult to remove. And removing might even cause you to accidentally damage the glass.
 
-Contact your manufacturer to see if they sell replacement films.&#x20;
+Contact your manufacturer to see if they sell replacement films.
 
-Examples:&#x20;
+Examples:
 
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
-* [XP-Pen offers protective sheets for their tablets](../xp-pen-surface-protectors.md)
+* [XP-Pen offers protective sheets for their tablets](../xppen-surface-protectors.md)
 
 ## 3rd-party screen protectors
 
 If your tablet manufacturer does not make a screen protector, then you do have 3rd-party options.
 
-This list comes from ones I have tested to some degree (Photodon) and those suggested by users on reddit posts. I don't use any of these screen protectors personally. So, please research thoroughly before you buy.&#x20;
+This list comes from ones I have tested to some degree (Photodon) and those suggested by users on reddit posts. I don't use any of these screen protectors personally. So, please research thoroughly before you buy.
 
 * **Photodon** - sells pre-cut and custom-sized protectors at different anti-glare strengths. I did some limited testing with a Photodon sample pack a few years ago. More here: [**Photodon screen protectors**](photodon-screen-protectors.md)
 * **ViaScreens** - [**https://viascreens.com/**](https://viascreens.com/)
-* **atFoliX**&#x20;
+* **atFoliX**
 * **HealingShield** - Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19
 
 ## Should you get a screen protector for your tablet?
@@ -69,7 +69,7 @@ My guidance is this. If you are concerned about scratching your tablet, then it 
 
 ## What to look for in a screen protector
 
-* If your tablet did not come with a screen protector, then it presumably has an etched glass surface which provides an anti-glare effect.&#x20;
+* If your tablet did not come with a screen protector, then it presumably has an etched glass surface which provides an anti-glare effect.
   * If you get a screen protector, you may want a clear one - so that you aren't adding TWO layers of AG effect.
   * On the other hand, I've seen some people report that putting a clear screen protector on etched glass can reduce the amount of AG effect.
 * Some 3rd party screen protectors offer a "sample pack". So try a small sample before you commit to a full protector.
@@ -77,7 +77,7 @@ My guidance is this. If you are concerned about scratching your tablet, then it 
 
 ## Using screen protectors with pen tablets
 
-Screen protectors are intended to work with tablets that have screens. However nothing prevents them from being used with pen tablets (screenless tablets). In fact, many people use them exactly this way to preserve the surface of their pen tablet.&#x20;
+Screen protectors are intended to work with tablets that have screens. However nothing prevents them from being used with pen tablets (screenless tablets). In fact, many people use them exactly this way to preserve the surface of their pen tablet.
 
 ## Links
 

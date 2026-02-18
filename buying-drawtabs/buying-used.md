@@ -6,7 +6,7 @@ We would all like to have completely brand new equipment. However, used tablets 
 
 ## My experience with used drawing tablets
 
-I have bought and worked with MANY used drawing tablets - 26 used tablets as of April 2024. You can see the list of all my tablets here: [my tablets](../about-thesevenpens/inventory.md)
+I have bought and worked with MANY used drawing tablets - 26 used tablets as of April 2024. You can see the list of all my tablets here: [my tablets](../about-sevenpens/inventory.md)
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used I own many used pen tablets, some over 25+ years old that still work.
 * **pen displays** - I have purchased one used pen display.
@@ -59,7 +59,7 @@ It may be worth asking the seller how clean the tablet is.
 ## Alternative to Wacom drivers for older tablets
 
 * If you have an older tablet and need a driver check out [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)
-* For creative work in Windows see [**Using OpenTabletDriver on Windows for drawing**](../guides/drivers/opentabletdriver/opentabletdriver-windows.md)
+* For creative work in Windows see [**Using OpenTabletDriver on Windows for drawing**](../guides/drivers/opentabletdriver/otd-windows-install.md)
 
 ## Testing out a tablet before you buy
 

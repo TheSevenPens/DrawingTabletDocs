@@ -1,7 +1,5 @@
 # XP-Pen Artist Pro 19 GEN2 (MD180UH) notes
 
-
-
 ## Basics
 
 * Released: 2024
@@ -12,20 +10,20 @@
 * Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
 * [David Review - Review of XP-Pen Artist Pro 19 GEN2](https://www.youtube.com/watch?v=d8Ft3b002LM) 2024-11-20
 * [Brad Colbow - XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024-08-27
-* [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024-10-22&#x20;
+* [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024-10-22
 
 ## Digitizer specs
 
-* Active Area:&#x20;
+* Active Area:
   * 9.06” x 16.1" -> 18.47" diagonal
-  * 409 x 230mm -> 469.2mm diagonal&#x20;
-* Aspect Ratio: 16x9&#x20;
+  * 409 x 230mm -> 469.2mm diagonal
+* Aspect Ratio: 16x9
 * NOTE: it has the exact same size Active Area as the Huion Kamvas Pro 19.
 
 ## Display specs
 
-* Display panel tech: IPS&#x20;
-* Resolution: 3840 x 2160&#x20;
+* Display panel tech: IPS
+* Resolution: 3840 x 2160
 * Aspect Ratio: 16:9
 * Lamination: YES
 * Viewing Angle: 178°
@@ -33,7 +31,7 @@
 * Response time: unspecified
 * Refresh rate: 60hz
 * Brightness: 250 cd/m2
-* Anti-glare treatment: Etched glass&#x20;
+* Anti-glare treatment: Etched glass
 * Color: 10 bit (8bit+FRC)
 * Color Gamut Coverage Ratio: 99.8% sRGB, 96% Adobe RGB, 98% Display P3
 
@@ -44,7 +42,7 @@ The tablet comes with two pens
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 
-See [**my notes on the XP-Pen X3 Pro series of pens**](../../../catalog-pens/xp-pen-pens/xppen-x3pro-pen.md).&#x20;
+See [**my notes on the XP-Pen X3 Pro series of pens**](../../../catalog-pens/xppen-pens/xppen-x3pro-pen.md).
 
 ## Compatible pens
 
@@ -58,7 +56,7 @@ It is compatible with other pens in the X3 pro series.
 
 ### Anti-glare sparkle
 
-* RATING: VERY GOOD. Low amounts of AG sparkle.&#x20;
+* RATING: VERY GOOD. Low amounts of AG sparkle.
 * Maybe just slightly more than the Cintiq Pro 22.
 * Similar to Huion Kamvas Pro 19
 
@@ -72,7 +70,7 @@ The look is clearly sharper than the Huion Kamvas Pro 19 which has a soft look t
 
 ## Design
 
-* Really does look like a larger version of the XP-Pen Artist Pro 16 GEN2&#x20;
+* Really does look like a larger version of the XP-Pen Artist Pro 16 GEN2
 
 ## Drawing experience
 
@@ -86,18 +84,18 @@ XP-Pen states these numbers for X3 Pro pens
 In my testing with the pens that came with the tablet
 
 * Subjectively, 3gf seemed about right
-* I measured the max pressure at around 250gf.&#x20;
+* I measured the max pressure at around 250gf.
 
 ### Pressure transition
 
-Moving between low and high pressure cave smooth pressure transitions.&#x20;
+Moving between low and high pressure cave smooth pressure transitions.
 
 ### Accuracy
 
 XP-Pen states:
 
-* Center:  ±0.4 mm&#x20;
-* Corner: ±0.8 mm&#x20;
+* Center: ±0.4 mm
+* Corner: ±0.8 mm
 
 RATING: VERY GOOD.
 
@@ -127,9 +125,9 @@ Drawing 50 strokes as fast possible results in no lost strokes.
 
 ### Diagonal wobble
 
-Rating: GOOD low amounts of diagonal wobble.&#x20;
+Rating: GOOD low amounts of diagonal wobble.
 
-* Just a little more than the Huion Kamvas Pro 19 &#x20;
+* Just a little more than the Huion Kamvas Pro 19
 * About the same as the Cintiq Pro 22
 * A little less than the XP-Pen Artist Pro 16 GEN2
 * About the same as the Huion Kamvas 13 GEN3
@@ -141,11 +139,11 @@ Rating: GOOD low amounts of diagonal wobble.&#x20;
 
 As is typical for etched glass surfaces, there is a slight surface texture.
 
-Using the same X3 Pro pen with a plastic nib&#x20;
+Using the same X3 Pro pen with a plastic nib
 
 The XP-Pen Artist Pro 19 GEN2 has an amount of surface texture that is
 
-* about the same as the XP-Pen Artist Pro 19 GEN2&#x20;
+* about the same as the XP-Pen Artist Pro 19 GEN2
 * about the same as the Huion Kamvas Pro 19
 * a little less than the XP-Pen Artist 22 Plus
 * a little less than the Cintiq Pro 22
@@ -193,7 +191,7 @@ Silent.
 
 ### Heat
 
-GOOD. Tablet keeps cool&#x20;
+GOOD. Tablet keeps cool
 
 * Left 1/3 cool
 * Right 2/3 slightly warm
@@ -208,8 +206,3 @@ This tablet does NOT support touch.
 ### Audio
 
 There are no audio features such as a headphone jack.
-
-
-
-
-

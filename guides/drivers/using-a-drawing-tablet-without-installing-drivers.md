@@ -42,7 +42,7 @@ What OTD does NOT provide by default:
 
 If you want those pressure and tilt, you have to install an additional component called VMulti that OTD can work with.  Unfortunately, VMulti actually has to be installed in the traditional sense - it is not a "user mode" component. And your IT setup may prevent you from installing it.
 
-If you are interested in using OTD as your tablet driver on Windows and want to use features like pressure and tilt, I wrote a detailed step-by-step guide to help you: [Install OpenTabletDriver on Windows](opentabletdriver/opentabletdriver-windows.md)&#x20;
+If you are interested in using OTD as your tablet driver on Windows and want to use features like pressure and tilt, I wrote a detailed step-by-step guide to help you: [Install OpenTabletDriver on Windows](opentabletdriver/otd-windows-install.md)&#x20;
 
 ## MacOS without installing driver
 

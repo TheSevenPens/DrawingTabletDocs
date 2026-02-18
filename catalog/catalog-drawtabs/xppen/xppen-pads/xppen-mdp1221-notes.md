@@ -12,7 +12,7 @@
 
 ## Links
 
-* [Teoh on Tech - Note taking with XPPen Magic Drawing Pad 2025](xp-pen-magic-drawing-pad-2025-mdp1221-notes.md) 2025-12-05
+* [Teoh on Tech - Note taking with XPPen Magic Drawing Pad 2025](xppen-mdp1221-notes.md) 2025-12-05
 * [Teoh on Tech - Review of Magic Drawing Pad 2025 with Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) 2025-08-26
 * [Teoh on Tech - Review of XP-Pen Magic Drawing Pad 2025](https://www.youtube.com/watch?v=VivJ6R7Cmwg) 2025-08-14
 * [Michael Clarida - review of XP-Pen Magic Drawing Pad 2025](https://www.youtube.com/watch?v=I0pPUT5WoLY) 2025-07-09&#x20;

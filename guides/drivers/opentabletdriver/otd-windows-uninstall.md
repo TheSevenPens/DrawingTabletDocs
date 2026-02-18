@@ -1,11 +1,11 @@
-# Uninstalling OpenTabletDriver on Windows
+# Uninstall OpenTabletDriver on Windows
 
 ## Overview
 
 {% hint style="info" %}
 For information on OpenTabletDriver: [OpenTabletDriver](./)
 
-For information on how to install on Windows: [Installing OpenTabletDriver on Windows](opentabletdriver-windows.md)&#x20;
+For information on how to install on Windows: [Installing OpenTabletDriver on Windows](otd-windows-install.md)&#x20;
 {% endhint %}
 
 ## STEP 1: Stop OpenTabletDriver from starting when your computer boots
