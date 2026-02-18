@@ -148,4 +148,13 @@ if __name__ == "__main__":
     parser.add_argument('--output', help='Output file for the report')
     
     args = parser.parse_args()
-    prune_images(args.root, args.delete, args.output)
+    
+    root_dir = Path(args.root)
+    output_file = args.output
+    
+    if not output_file:
+        output_dir = root_dir / 'scripts-output'
+        output_dir.mkdir(exist_ok=True)
+        output_file = output_dir / 'unused_assets.txt'
+        
+    prune_images(str(root_dir), args.delete, str(output_file))

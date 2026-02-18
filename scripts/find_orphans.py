@@ -126,6 +126,23 @@ def find_orphans(root_dir):
         print(o)
 
 if __name__ == "__main__":
+    import sys
+    
     # Default to the parent directory of this script (repository root)
     root_dir = Path(__file__).resolve().parent.parent
-    find_orphans(root_dir)
+    
+    # Setup output
+    output_dir = root_dir / 'scripts-output'
+    output_dir.mkdir(exist_ok=True)
+    output_file = output_dir / 'orphan_files.txt'
+    
+    # Redirect stdout to file
+    with open(output_file, 'w', encoding='utf-8') as f:
+        original_stdout = sys.stdout
+        sys.stdout = f
+        try:
+            find_orphans(root_dir)
+        finally:
+            sys.stdout = original_stdout
+            
+    print(f"Report written to {output_file}")

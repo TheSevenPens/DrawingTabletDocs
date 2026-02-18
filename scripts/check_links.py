@@ -215,4 +215,13 @@ if __name__ == "__main__":
     parser.add_argument('--output', help='Output file for the report')
     
     args = parser.parse_args()
-    check_links(args.root, args.output)
+    
+    root_dir = Path(args.root)
+    output_file = args.output
+    
+    if not output_file:
+        output_dir = root_dir / 'scripts-output'
+        output_dir.mkdir(exist_ok=True)
+        output_file = output_dir / 'broken_links.txt'
+        
+    check_links(str(root_dir), str(output_file))
