@@ -211,7 +211,7 @@ def check_links(root_dir, output_file=None):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Check for broken links in markdown files.')
-    parser.add_argument('root', help='Root directory of the repository')
+    parser.add_argument('--root', help='Root directory of the repository', default=str(Path(__file__).resolve().parent.parent))
     parser.add_argument('--output', help='Output file for the report')
     
     args = parser.parse_args()

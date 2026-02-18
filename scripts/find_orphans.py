@@ -126,4 +126,6 @@ def find_orphans(root_dir):
         print(o)
 
 if __name__ == "__main__":
-    find_orphans('.')
+    # Default to the parent directory of this script (repository root)
+    root_dir = Path(__file__).resolve().parent.parent
+    find_orphans(root_dir)

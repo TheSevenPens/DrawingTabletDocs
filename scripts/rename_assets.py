@@ -289,4 +289,6 @@ def rename_assets(root_dir, dry_run=False):
 if __name__ == "__main__":
     import sys
     dry_run = '--dry-run' in sys.argv
-    rename_assets('.', dry_run=dry_run)
+    # Default to the parent directory of this script (repository root)
+    root_dir = Path(__file__).resolve().parent.parent
+    rename_assets(root_dir, dry_run=dry_run)

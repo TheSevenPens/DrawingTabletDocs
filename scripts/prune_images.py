@@ -143,7 +143,7 @@ def prune_images(root_dir, delete=False, output_file=None):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Find and prune orphan images.')
-    parser.add_argument('root', help='Root directory of the repository')
+    parser.add_argument('--root', help='Root directory of the repository', default=str(Path(__file__).resolve().parent.parent))
     parser.add_argument('--delete', action='store_true', help='Delete found orphan files')
     parser.add_argument('--output', help='Output file for the report')
     
