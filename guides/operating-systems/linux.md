@@ -50,16 +50,16 @@ Often, people prefer to use OpenTabletDriver for tablets on Linux. This is espec
 
 ## Do you use Arch, btw?
 
-* [ALCC - Part 6: Creating Art on Arch Linux](https://www.youtube.com/watch?v=7jcb4p-FmUU) 2026/02/10
+* [ALCC - Part 6: Creating Art on Arch Linux](https://www.youtube.com/watch?v=7jcb4p-FmUU) 2026-02-10
 
 ## Resources
 
-* [MossCharmly - HUION Tablets (Kamvas 16 (2.5k) on LINUX (POP\_os)](https://www.youtube.com/watch?v=ibuH-hGkmdI) - 2023/05/13
-* [MossCharmly - Demystifying Linux for Artists](https://www.youtube.com/watch?v=hQ2VpPchETk) - 2024/03/02
-* [MossCharmly - Linux PC Build for Digital Artists](https://www.youtube.com/watch?v=eiLnEUS3r5k) - 2024/03/17
-* [Mindful Technology - Huion Inspiroy H1161 drawing tablet on Debian Linux: install driver & declutter HOME ](https://www.youtube.com/watch?v=kbzlKn3zhrk)2023/10/24&#x20;
-* [Linuxedo - Wacom Intuos S Wireless | Unboxing and Setting up on Linux Mint](https://www.youtube.com/watch?v=-TBT_l6qwj0) - 2021/01/17
-* [Tony Tascioglu - How to Map a Wacom Tablet to a Single Monitor on Linux](https://www.youtube.com/watch?v=DEdUa5lHZbU) - 2021/01/19&#x20;
-* [Brodie Robertson - Easily Setup Your Wacom Tablet Under Linux](https://www.youtube.com/watch?v=dzplf-0RJDE) - 2021/09/12
-* [Switched to Linux - Wacom Tablets on Linux Mint](https://www.youtube.com/watch?v=stDM3T4Fu5A) 2018/02/27
+* [MossCharmly - HUION Tablets (Kamvas 16 (2.5k) on LINUX (POP\_os)](https://www.youtube.com/watch?v=ibuH-hGkmdI) - 2023-05-13
+* [MossCharmly - Demystifying Linux for Artists](https://www.youtube.com/watch?v=hQ2VpPchETk) - 2024-03-02
+* [MossCharmly - Linux PC Build for Digital Artists](https://www.youtube.com/watch?v=eiLnEUS3r5k) - 2024-03-17
+* [Mindful Technology - Huion Inspiroy H1161 drawing tablet on Debian Linux: install driver & declutter HOME ](https://www.youtube.com/watch?v=kbzlKn3zhrk)2023-10-24&#x20;
+* [Linuxedo - Wacom Intuos S Wireless | Unboxing and Setting up on Linux Mint](https://www.youtube.com/watch?v=-TBT_l6qwj0) - 2021-01-17
+* [Tony Tascioglu - How to Map a Wacom Tablet to a Single Monitor on Linux](https://www.youtube.com/watch?v=DEdUa5lHZbU) - 2021-01-19&#x20;
+* [Brodie Robertson - Easily Setup Your Wacom Tablet Under Linux](https://www.youtube.com/watch?v=dzplf-0RJDE) - 2021-09-12
+* [Switched to Linux - Wacom Tablets on Linux Mint](https://www.youtube.com/watch?v=stDM3T4Fu5A) 2018-02-27
 
