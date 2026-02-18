@@ -2,12 +2,10 @@
 
 ## Summary
 
-The Wacom One (DTC-141) is a decent entry level consumer pen display with OK drawing performance at a competetive price.&#x20;
+The Wacom One (DTC-141) is a decent entry level consumer pen display with OK drawing performance at a competetive price.
 
 * The OK rating for drawing performance is due to the physical pressure range of the pen which has a HIGH IAF and LOW maximum physical pressure.
 * The tablet will require buying $100+ of additional accessories if you need to connect to your computer with HDMI. HDMI will be almost certainly needed to connect it to desktop computers.
-
-
 
 This tablet makes sense for the following scenarios:
 
@@ -16,11 +14,9 @@ This tablet makes sense for the following scenarios:
 * light artistic work
 * for use in education or communication or online meetings
 
-**Ensure you understand how it will connect to your computer.** This tablet is intended to connect to your computer via the provided USB-C cable. You MUST make sure your USB-C port on your computer meets all the requirements. It is possible to connect to your computer via HDMI. However, this requires the purchase of the Wacom Converter ($80) and additional cables.&#x20;
+**Ensure you understand how it will connect to your computer.** This tablet is intended to connect to your computer via the provided USB-C cable. You MUST make sure your USB-C port on your computer meets all the requirements. It is possible to connect to your computer via HDMI. However, this requires the purchase of the Wacom Converter ($80) and additional cables.
 
 ## Video
-
-{% embed url="https://www.youtube.com/watch?v=eDu-6BBp8JI" %}
 
 ## Links
 
@@ -38,7 +34,7 @@ This tablet makes sense for the following scenarios:
 ### Active area
 
 * Dimensions: 309 x 174 mm
-* Diagonal length: 357.1  (14.06 in)
+* Diagonal length: 357.1 (14.06 in)
 * Aspect ratio: 16x9
 
 ### What's in the box
@@ -85,8 +81,8 @@ This tablet makes sense for the following scenarios:
 
 ### Compatible pens
 
-* Wacom One Standard Pen (CP-923)&#x20;
-* Wacom One Pen (CP-913)&#x20;
+* Wacom One Standard Pen (CP-923)
+* Wacom One Pen (CP-913)
 * UD EMR pens. See [**Pens that support UD EMR 2nd gen**](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
 * I tested these pens and they worked fine
   * Wacom One Pen (CP-913)
@@ -142,8 +138,8 @@ The drawing performance OK. It's not bad. However, it does not match the excelle
 ### Diagonal wobble
 
 * Low wobble at all strokes speeds
-* In Krita, weighted smoothing at level 30 removed the wobble&#x20;
-* In comparison, Wacom Movink 13 has less notably diagonal wobble&#x20;
+* In Krita, weighted smoothing at level 30 removed the wobble
+* In comparison, Wacom Movink 13 has less notably diagonal wobble
 
 <figure><img src="../../../../.gitbook/assets/image-000173.png" alt=""><figcaption></figcaption></figure>
 
@@ -155,7 +151,7 @@ OK. Typical for a pen display of this size.
 
 TYPICAL. Drawing near IAF with large brushes (ex: 300px) you might see some blobby strokes. Can control with pressure curves and pressure smoothing.
 
-### Pressure banding&#x20;
+### Pressure banding
 
 EXCELLENT. No pressure banding observed.
 
@@ -163,7 +159,7 @@ EXCELLENT. No pressure banding observed.
 
 See my notes on the Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
 
-### Pressure scan rate&#x20;
+### Pressure scan rate
 
 EXCELLENT. No missed strokes during fast input of 50 strokes
 
@@ -237,7 +233,7 @@ If you need touch, consider these tablets:
 
 The tabet comes with a USB-C cable to achieve a single cable connection to your computer.
 
-You computer's USB-C port needs to meet the requirements for this to work. See: [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
+You computer's USB-C port needs to meet the requirements for this to work. See: [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
 
 ### HDMI connection
 
@@ -247,7 +243,7 @@ Instead of USB-C, the tablet CAN connect via HDMI. However it DOES NOT include t
 
 You need to purchase:
 
-* &#x20;Wacom Converter device
+* Wacom Converter device
 * USB-A to USB-C cable for data
 * HDMI cable
 * USB-C to USB-C cable for power

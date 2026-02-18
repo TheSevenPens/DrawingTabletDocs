@@ -134,7 +134,7 @@ The Wacom One 2023 pen displays can be connected three ways
 * With a single USB-C cable (video over USB-C)
   * Wacom sells the "USB-C to C cable for Wacom One and Wacom Cintiq displays (2023 edition" for this purpose
   * I personally use USB-C Thunderbolt 3 cables from CableMatters to connect it to my computers.
-  * More about USB-C connections: [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
+  * More about USB-C connections: [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
 * With two USB-C cables. One for display. One for power.
   * Not all computers supply enough power over a USB-C connection to power a display. So this makes sense to provide the option. Most other pen displays work this way.
   * These tablets don't draw that much power - every laptop I tested them with supplied enough power via USB for them. So it is unlikely you will need to use this option.

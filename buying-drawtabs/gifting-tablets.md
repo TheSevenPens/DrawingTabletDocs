@@ -39,7 +39,7 @@ These tips will be useful: Video: [Practical tips for buying a drawing tablet ](
 
 ## Make sure the tablet will physically connect with their computer
 
-For a pen tablet and pen display, they have to connect to a computer. For a pen tablet, this is easy because the computer needs just one USB port to be available. But for a pen display this can get complicated. See this: [**Connecting a pen display to a computer**](../guides/connecting/connecting-a-pen-display/)
+For a pen tablet and pen display, they have to connect to a computer. For a pen tablet, this is easy because the computer needs just one USB port to be available. But for a pen display this can get complicated. See this: [**Connecting a pen display to a computer**](../guides/connecting/connecting-pen-display/)
 
 ## Do they need to use certain apps?
 

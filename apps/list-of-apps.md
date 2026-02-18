@@ -21,7 +21,7 @@
 * **Leonardo** (Windows) \[[**links**](../catalog/catalog-apps/leonardo.md)]
 * **Magma** (web) \[[https://magma.com/](https://magma.com/)] FREE
 * **Medibang Paint** (Windows, MacOS) \[[**links**](../catalog/catalog-apps/medibang.md)]
-* **Medibang Pro** (iOS) \[[**links**](../catalog/catalog-apps/medibang-1.md)]
+* **Medibang Pro** (iOS) \[[**links**](../catalog/catalog-apps/medibang-pro.md)]
 * **Microsoft Paint** (aka MSPAINT) (Windows) \[[**links**](../catalog/catalog-apps/microsoft-paint.md)]
 * **MyPaint** (Windows, Linux) \[[**links**](../catalog/catalog-apps/mypaint.md)]
 * **Paint Tool Sai** (Windows) \[[**links**](../catalog/catalog-apps/painttool-sai.md)]

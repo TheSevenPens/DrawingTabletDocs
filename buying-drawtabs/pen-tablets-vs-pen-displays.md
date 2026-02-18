@@ -20,7 +20,7 @@ And ultimately the goal is to provide you enough information so that you can mak
 
 ## Details
 
-This document summarizes many very deep topics. If you want more information, consult the [**buying guide**](./) which covers all these topics in detail.&#x20;
+This document summarizes many very deep topics. If you want more information, consult the [**buying guide**](./) which covers all these topics in detail.
 
 ## Dispelling common myths
 
@@ -59,7 +59,7 @@ Some people worry that the quality of art they want to produce can only be produ
 
 If you are just getting started using a drawing tablet - for example maybe this is going to be the first tablet you own - my advice is to start with a pen tablet. And learn to use it and if you can't adjust to a pen tablet in a few weeks then return it and get a pen display.
 
-## Need to be used with a computer&#x20;
+## Need to be used with a computer
 
 <mark style="background-color:purple;">WINNER: TIE</mark>
 
@@ -75,9 +75,9 @@ With a pen tablet you are drawing in generally a better posture. You will be sit
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Pen tablets cost much less than pen displays. Even the most expensive pen tablet cost less than the majority of pen displays.&#x20;
+Pen tablets cost much less than pen displays. Even the most expensive pen tablet cost less than the majority of pen displays.
 
-* Pen tablets cost between $50 to $250. The most expensive on the market is $500 and often discounted to $400. &#x20;
+* Pen tablets cost between $50 to $250. The most expensive on the market is $500 and often discounted to $400.
 * Pen displays start at around $300 and can go up to about $1300. Wacom professional pen displays are in a special price category and can cost from $2500 to $3500.
 
 ## Reliability
@@ -90,7 +90,7 @@ Pen tablets are the clear winner for reliability. Pen tablets are very simple de
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/connecting/connecting-a-pen-display/)&#x20;
+Pen tablets work with a single USB cable (And some are wireless). Pen displays are more complex. Depending on your computer and which pen display there are multiple cabling options and sometimes they can be difficult to configure. More here: [**Connecting a pen display**](../guides/connecting/connecting-pen-display/)
 
 ## Pointer lag
 
@@ -98,7 +98,7 @@ Pen tablets work with a single USB cable (And some are wireless). Pen displays a
 
 All tablets have some amount of pointer lag. But in my observation pen tablets have less pointer lag than pen displays.
 
-And on top of it even if they have the same amount of lag you will notice it more with the pen display because you can see the tip of the pen and the pointer next to each other. And looking seeing them next to each other on the same screen highlights the pointer lag. More here: [**lag**](../core-features/lag/) &#x20;
+And on top of it even if they have the same amount of lag you will notice it more with the pen display because you can see the tip of the pen and the pointer next to each other. And looking seeing them next to each other on the same screen highlights the pointer lag. More here: [**lag**](../core-features/lag/)
 
 ## Wireless connectivity
 
@@ -114,11 +114,11 @@ However no pen displays support wireless connectivity. You will always have at l
 
 In general I do not recommend taking notes with pen displays. I think that standalone tablets are much better for no taking. But compared to a pen tablet a pen display is certainly much better because you can see what you're doing with the pen and so it's just more intuitive and feels like you're working with pen and paper. More here: [**taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawtabs.md).
 
-## Surviving a fall&#x20;
+## Surviving a fall
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-If you knock a pen tablet off your desktop and it hits the floor almost certainly nothing bad will happen. Pen tablets generally don't have any moving parts aside from maybe some buttons. But if you drop a pen display almost certainly that pen display will be severely damaged by the drop. This could shatter the glass of the pen display. Or it could do some severe internal damage to the display panel that's inside the tablet. And this damage to a pen display is not user repairable and it's often extremely expensive to have it repaired if it is even possible to repair.&#x20;
+If you knock a pen tablet off your desktop and it hits the floor almost certainly nothing bad will happen. Pen tablets generally don't have any moving parts aside from maybe some buttons. But if you drop a pen display almost certainly that pen display will be severely damaged by the drop. This could shatter the glass of the pen display. Or it could do some severe internal damage to the display panel that's inside the tablet. And this damage to a pen display is not user repairable and it's often extremely expensive to have it repaired if it is even possible to repair.
 
 Most of the time when I've seen someone have significant damage to their appendix display the cost to repair is as much as a new pen display.
 
@@ -126,7 +126,7 @@ Most of the time when I've seen someone have significant damage to their appendi
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much. A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster. More here: [**powering a drawing tablet**](../core-features/power/powering-a-drawing-tablet.md).&#x20;
+A pen tablet doesn't require much power. If connected to your laptop it won't drain the battery as much. A pen display requires much more power. If connected to your laptop, it will draw much more power and run your battery down faster. More here: [**powering a drawing tablet**](../core-features/power/powering-a-drawing-tablet.md).
 
 ## Hand covering what you are drawing
 
@@ -148,15 +148,15 @@ Pen tablets are considerably thinner and weigh less.
 
 * Pen displays have a more natural feel because you looking at the same place your are drawing. With a pen tablet you are drawing in one place but looking somewhere else.
 * Most people feel like they have press UNDO much less frequently with a pen display because the stroke more often goes where they intended.
-* With a pen tablet, you **must** configure the tablet's active area to map to your display so that there is no distortion while drawing or moving the pen. (This is done with a "Force proportions" setting in the tablet driver.) With pen displays, this is not required. They are pre-configured correctly. More here: [matching aspect ratios with Force proportions](../guides/customizing/force-proportions.md).&#x20;
+* With a pen tablet, you **must** configure the tablet's active area to map to your display so that there is no distortion while drawing or moving the pen. (This is done with a "Force proportions" setting in the tablet driver.) With pen displays, this is not required. They are pre-configured correctly. More here: [matching aspect ratios with Force proportions](../guides/customizing/force-proportions.md).
 
-More here: [**The drawing experience**](../basics/drawing-experience.md)&#x20;
+More here: [**The drawing experience**](../basics/drawing-experience.md)
 
 ## Portability
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.&#x20;
+Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.
 
 Also with a pen display, you will need to protect it more because it is more sensitive to damage. See [**protective cases**](../catalog/catalog-accessories/tablet-cases.md).
 
@@ -170,17 +170,17 @@ You can see the different diagonal wobble samples I have collected here: [**Diag
 
 ## Pen pressure handling
 
-The behavior of a tablet with regard to pressure (IAF, max pressure, etc.) depends on the pen that is used, not the tablet.&#x20;
+The behavior of a tablet with regard to pressure (IAF, max pressure, etc.) depends on the pen that is used, not the tablet.
 
-There are a few exceptions - there are 1 or 2 tablets that I think do a particularly bad job of pressure independent of the pen, but those are exceedingly rare. &#x20;
+There are a few exceptions - there are 1 or 2 tablets that I think do a particularly bad job of pressure independent of the pen, but those are exceedingly rare.
 
 ## Surface texture
 
 When you drag your pen over a tablet, the surface needs to have a little texture so that the pen doesn't feel like it's slipping and sliding and making it difficult to make a controlled line.
 
-Generally speaking, pen tablets have noticeably more texture than pen displays. Though some relatively old pen tablets are relatively smooth compared to modern pen tablets.&#x20;
+Generally speaking, pen tablets have noticeably more texture than pen displays. Though some relatively old pen tablets are relatively smooth compared to modern pen tablets.
 
-Pen displays so have a surface texture but also have less texture than pen tablets.&#x20;
+Pen displays so have a surface texture but also have less texture than pen tablets.
 
 ## **You can use both kinds of tablets**
 
@@ -192,13 +192,8 @@ Only pen displays have VESA mounting holes. See [VESA support](../technology/ves
 
 Pen tablets do NOT support VESA mounting.
 
-
-
-
-
 ## Videos
 
 * [**Teoh on Tech -** 9 things to know about pen displays before you buy one](https://youtu.be/Ez7l1C49ClE) Jan 6, 2023
 * [**EyeKooDrawsStuff** - What drawing tablet to buy... a screenless graphics tablet or pen display?](https://youtu.be/SpOmAvvXePE) July 10, 2023
 * [**Paintable** - Do you NEED a Screen Tablet? | Honest Huion Kamvas Pro 24 Review](https://www.youtube.com/watch?v=9b-8ZUE6tkg) Mar 30, 2023
-

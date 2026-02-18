@@ -2,7 +2,7 @@
 
 ## Before you begin
 
-You may want to familiarize yourself with this doc before you continue if you are not experienced connection options: [**Connecting a pen display to a computer**](../../connecting/connecting-a-pen-display/)
+You may want to familiarize yourself with this doc before you continue if you are not experienced connection options: [**Connecting a pen display to a computer**](../../connecting/connecting-pen-display/)
 
 ## Overview
 
@@ -26,7 +26,7 @@ If you don't have an HDMI port you should try alternative ports in the order bel
 ## Adapter details
 
 * [DisplayPort to HDMI adapters](displayport-to-hdmi-adapters.md)
-* [USB-C to HDMI adapters](usb-c-to-hdmi-adapters/)
+* [USB-C to HDMI adapters](usbc-to-hdmi-adapters.md)
 * [DVI to HDMI adapters](dvi-to-hdmi-adapters.md)
 * [VGA to HDMI adapters](vga-to-hdmi-adapters.md)
 

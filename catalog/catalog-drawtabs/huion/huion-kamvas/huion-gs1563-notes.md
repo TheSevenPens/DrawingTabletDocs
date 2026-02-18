@@ -10,15 +10,15 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 ## Links
 
-* Product Page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)&#x20;
-* [Adam Duff review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=EA4A5B4GcUY) 2025-01-13&#x20;
-* [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025-01-07&#x20;
-* [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025-01-07&#x20;
-* [Teoh on Tech blog review of Huion Kamvas 16 GEN3  (GS1563)](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) 2025-01-09
+* Product Page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)
+* [Adam Duff review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=EA4A5B4GcUY) 2025-01-13
+* [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025-01-07
+* [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025-01-07
+* [Teoh on Tech blog review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) 2025-01-09
 
 ## Compared to the XP-Pen Artist Pro 16 GEN2
 
-&#x20;These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the winner.
+These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the winner.
 
 **Kamvas 16 GEN3 advantages**
 
@@ -30,31 +30,19 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 **XP-Pen Artist Pro 16 GEN2 advantages**
 
 * The industrial design of the XP-Pen tablet is more attractive and stylish, the Huion looks more plain.
-* Kamvas 16 GEN3 does NOT come with a separate shortcut remote. The XP-Pen Artist Pro 16 GEN2 comes with a shortcut remote with 10 buttons and 1 dial.&#x20;
+* Kamvas 16 GEN3 does NOT come with a separate shortcut remote. The XP-Pen Artist Pro 16 GEN2 comes with a shortcut remote with 10 buttons and 1 dial.
 
-**Other differences**&#x20;
+**Other differences**
 
-* Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio.&#x20;
-* The XP-Pen has legs built into the tablet for providing some angle. The Kamvas 16 GEN3 does not have any legs and instead comes with a simple stand. But for both I use a separate stand.&#x20;
+* Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio.
+* The XP-Pen has legs built into the tablet for providing some angle. The Kamvas 16 GEN3 does not have any legs and instead comes with a simple stand. But for both I use a separate stand.
 
 **What they have in common**
 
-* Both have a little bit of diagonal wobble. The wobble can be addressed with smoothing/stabilization in your drawing app. More here: [**diagonal wobble**](../../../../core-features/diagonal-wobble.md).&#x20;
-* Both can be used with a single USB-C cable if the requirements are met. [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-a-pen-display/connecting-a-pen-display-with-usb-c.md)
-
-
+* Both have a little bit of diagonal wobble. The wobble can be addressed with smoothing/stabilization in your drawing app. More here: [**diagonal wobble**](../../../../core-features/diagonal-wobble.md).
+* Both can be used with a single USB-C cable if the requirements are met. [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
 
 ## Surface texture
 
 * Feels the same as the Kamvas 13 GEN3 (GS1333).
 * The Cintiq 16 has moderately more surface texture than the K16GEN3.
-
-
-
-
-
-
-
-
-
-&#x20;

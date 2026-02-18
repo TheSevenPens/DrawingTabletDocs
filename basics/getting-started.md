@@ -64,7 +64,7 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 
 * Pen tablet - There will be a simple USB cord. These days the cords are all USB-C cords.
   * Some pen tablets ALSO support wireless connection. For now ignore wireless. It just adds more complication. Get it working with a cable first. Once everything is working, then try wireless.
-* Pen display - There are several options. See [**connecting a pen display**](../guides/connecting/connecting-a-pen-display/)
+* Pen display - There are several options. See [**connecting a pen display**](../guides/connecting/connecting-pen-display/)
 
 ## Finding the Driver UI
 

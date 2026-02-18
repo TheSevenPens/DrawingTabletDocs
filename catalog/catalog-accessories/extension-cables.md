@@ -2,7 +2,7 @@
 
 ### Overview
 
-Sometimes your cable's just aren't long enough. However, you can purchase extension cables.&#x20;
+Sometimes your cable's just aren't long enough. However, you can purchase extension cables.
 
 Key requirements for an extension cable
 
@@ -15,29 +15,28 @@ Key requirements for an extension cable
   * it must support sending enough power to your pen display
   * <mark style="color:red;">**SAFETY CRITICAL**</mark> it must support AT LEAST as much power as the tablet's original cable. If it is not rated to handle that much power it will be a safety / fire risk.
 
-To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../../guides/connecting/connecting-a-pen-display/).
+To better understand the needs of connecting a pen display see: [**Connecting a pen display**](../../guides/connecting/connecting-pen-display/).
 
 ## The extension cable I use for pen displays
 
-I use a 2 foot UseBean USB-C Extension cable. This product has worked well for me. I have run up to 4K@60Hz using this extension cable. &#x20;
+I use a 2 foot UseBean USB-C Extension cable. This product has worked well for me. I have run up to 4K@60Hz using this extension cable.
 
 I used it in these ways:
 
-* With a Huion Kamvas 22 Plus: I connect it to the USB-C end of a Huion 3-in-1 cable.&#x20;
+* With a Huion Kamvas 22 Plus: I connect it to the USB-C end of a Huion 3-in-1 cable.
 * With Wacom Cintiq Pro 16 (DTH-167): I connect it to the the USB-C cable that came with the Cintiq.
 
 [https://www.amazon.com/dp/B0BB13ZNPQ](https://www.amazon.com/dp/B0BB13ZNPQ)
 
-### ![](<../../.gitbook/assets/image-000274.png>)
+### ![](../../.gitbook/assets/image-000274.png)
 
 ## Be aware of how deeply the port is housed in the pen display
 
 The specific USB-C extender above has a USB-port that fits into some pen displays, but some other pen displays have their USB-C port deeper inside and this cable cannot fit into those areas.
 
-For example, this extender does NOT go deep enough to fit into a Huion Kamvas 13.&#x20;
+For example, this extender does NOT go deep enough to fit into a Huion Kamvas 13.
 
 ### Links
 
 * Teoh on Tech: Using Extension Cables with Pen Displays or Graphics Tablets ([https://www.youtube.com/watch?v=y7kvIGbnjzo](https://www.youtube.com/watch?v=y7kvIGbnjzo))
-* [https://www.reddit.com/r/huion/comments/11wvplt/extending\_the\_3\_in\_1\_cable/](https://www.reddit.com/r/huion/comments/11wvplt/extending_the_3_in_1_cable/)&#x20;
-
+* [https://www.reddit.com/r/huion/comments/11wvplt/extending\_the\_3\_in\_1\_cable/](https://www.reddit.com/r/huion/comments/11wvplt/extending_the_3_in_1_cable/)

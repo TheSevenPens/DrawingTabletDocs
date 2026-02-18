@@ -16,11 +16,9 @@ Key things to keep in mind:
 
 * Not all pen displays support this configuration - even if they do have USB C ports on the tablet
 * Not all computers are capable of sending power and display signal over their USB C ports
-* Not all USB C cables can be used for this purpose.&#x20;
+* Not all USB C cables can be used for this purpose.
 
 So, you have to do your research and plan carefully. Do not buy a pen display assuming that a single USB C cable connection will work.
-
-
 
 ## Verify with your manufacturer
 
@@ -37,7 +35,7 @@ You can do this verification easily:
 
 ## **Video signal with DP alt mode support**
 
-Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../../pen-displays/usb-c-displayport-alt-mode.md).
+Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../../pen-displays/usbc-displayport-alt-mode.md).
 
 ## Power support
 
@@ -46,10 +44,10 @@ Your cable and ports MUST support DP alt mode. To find out if you ports and cabl
 * Ports
   * Even if the cable supports power, your computers USB-C port may not supply enough power.
 * Power needed
-* The size of the pen display affects how much power is needed.&#x20;
+* The size of the pen display affects how much power is needed.
   * It's very likely that if your USB-C port can deliver enough power a 13" pen display
-  * At 16", some pen displays require additional power usually from a power adapter that is plugged into a wall.&#x20;
-  * Above 16" most often in my experience a single USB-C cable is not enough and these pen displays require additional power.&#x20;
+  * At 16", some pen displays require additional power usually from a power adapter that is plugged into a wall.
+  * Above 16" most often in my experience a single USB-C cable is not enough and these pen displays require additional power.
 
 ## USB-C Port preference
 
@@ -65,7 +63,7 @@ Sometimes they are not interchangeable:
 
 You should be aware that recessed USB-C ports on your pen display typically mean that only the manufacturer-provided USB-C cables will fit them.
 
-More here: [**Recessed USB-C ports**](../recessed-usb-c-ports.md)&#x20;
+More here: [**Recessed USB-C ports**](../recessed-usbc-ports.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000650.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -77,11 +75,11 @@ I recommend you get the USB-C cables provided by the manufacturer for two reason
 * The tablet may have recessed USB-C ports and these cables are designed to fit that port. Other cables may not even fit inside.
 * I have personally experienced times where third-party USB-C cables just did not work with a tablet even though they may all the specs and worked with many other tablets.
 
-More here: [Using 3rd-party cables with your drawing tablet](../using-3rd-party-cables-with-your-drawing-tablet/)&#x20;
+More here: [Using 3rd-party cables with your drawing tablet](../using-3rd-party-cables-with-your-drawing-tablet/)
 
 ## Thunderbolt 3/4/5 cables
 
-To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB-C cables that are defined to support DP alt mode and enough power.&#x20;
+To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB-C cables that are defined to support DP alt mode and enough power.
 
 ## The specific Thunderbolt 3 cable I use
 
@@ -101,12 +99,12 @@ Unfortunately, this can be very hard since there are reliable indicators for USB
 
 If you computer does not have a USB-C port that supports DP alt mode, it MAY be possible to add that to your computer.
 
-This is apparently possible but will require a desktop computer that is capable of accepting an expansion card.&#x20;
+This is apparently possible but will require a desktop computer that is capable of accepting an expansion card.
 
 See: [Dan S Charlton: Add USB-C with DisplayPort-alt-mode to your PC](https://dancharblog.wordpress.com/2020-07-20/add-usb-c-with-dp-alt-mode-to-your-desktop-pc/) ([archive link](https://archive.is/WylTo))
 
 ## Resources
 
-* Here is a list from Huion about devices that can use a single USB-C cable: [https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)&#x20;
+* Here is a list from Huion about devices that can use a single USB-C cable: [https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)
 * Brad Colbow connecting the Huion Kamvas 13 with a single USB-C cable: See 6:00 in this video: [https://youtu.be/ku8x1q\_nhFQ](https://youtu.be/ku8x1q_nhFQ)
-* Teoh on Tech connecting the XP-Pen Artist 13 (2nd gen) using a single USB-C cable. See 4:30 in the video:  [https://youtu.be/Exj2PZu4MHM](https://youtu.be/Exj2PZu4MHM)
+* Teoh on Tech connecting the XP-Pen Artist 13 (2nd gen) using a single USB-C cable. See 4:30 in the video: [https://youtu.be/Exj2PZu4MHM](https://youtu.be/Exj2PZu4MHM)
