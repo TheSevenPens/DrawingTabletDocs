@@ -17,7 +17,7 @@ This is a list of some prominent apps for Android devices. If you want to see a 
 
 ## Videos
 
-[Brad Colbow - 10 Bestr Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI_3PIs) 2024/11/13
+[Brad Colbow - 10 Bestr Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI_3PIs) 2024-11-13
 
 {% embed url="https://www.youtube.com/watch?v=qsa2MI_3PIs" %}
 

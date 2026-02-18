@@ -10,9 +10,9 @@ In summary this is a very nice tablet. Wacom Cintiq Pro models are still better 
 
 * User manual: [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
 * Product link: [https://www.xp-pen.com/product/artist-pro-16-gen-2.html](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)
-* [Teoh on Tech review of XPPen Artist Pro 16 (GEN 2) review](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) 2023/09/09
-* [Grant Abbitt review of XPPen Artist Pro (GEN 2)](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) 2023/08/20
-* [MossCharmly - Huion Kamvas Pro 16 vs. XPpen Artist Pro 16](https://www.youtube.com/watch?v=41pv6STOBhY) GEN2 2024/08/03
+* [Teoh on Tech review of XPPen Artist Pro 16 (GEN 2) review](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) 2023-09-09
+* [Grant Abbitt review of XPPen Artist Pro (GEN 2)](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) 2023-08-20
+* [MossCharmly - Huion Kamvas Pro 16 vs. XPpen Artist Pro 16](https://www.youtube.com/watch?v=41pv6STOBhY) GEN2 2024-08-03
 
 ## **Design**
 

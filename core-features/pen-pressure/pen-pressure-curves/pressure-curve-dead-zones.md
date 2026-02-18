@@ -25,7 +25,7 @@ examples of problems that pressure dead zone could be applied to:
 
 When you look at the default pressure curve and a tablet driver for most of the EMR pens you will encounter, you will notice that they almost always do not have a dead zone predefined.
 
-There are a couple of notable exceptions (as of 2025/03/18).
+There are a couple of notable exceptions (as of 2025-03-18).
 
 * The default pressure curve for the Wacom pro pen 2 (KP-504E) has a pressure dead zone
 * The default pressure curve for the Huion PW600 pens also has a small pressure dead zone.
@@ -46,4 +46,4 @@ If it is try using the pen without the pressure dead zone. And if you don't noti
 
 ## Links
 
-* [Tablet\_P - Tablet Pressure Deadzones](https://www.youtube.com/watch?v=rvEuwuKcAWE) 2025/03/18&#x20;
+* [Tablet\_P - Tablet Pressure Deadzones](https://www.youtube.com/watch?v=rvEuwuKcAWE) 2025-03-18&#x20;

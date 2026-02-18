@@ -123,16 +123,16 @@ General
 
 Pen tablets
 
-* [Wacom - Connect your Wacom One pen tablet and turn it on (Android)](https://www.youtube.com/watch?v=22-ASsVGsuM) 2023/08/10
-* [Wacom - Wacom Center for Android](https://www.youtube.com/watch?v=sf8r_zxLl7o) app 2023/08/10
-* [Wacom - How to Setup your Wacom Intuos for Android - English](https://www.youtube.com/watch?v=JFTjUCiEy1s) 2019/11/07
-* [Aaron Rutten - Wacom Intuos on ANDROID - Review](https://www.youtube.com/watch?v=tMWwTuNO_7A) 2019/11/21
-* [ibisPaint -  I connected a Wacom pen tablet to my smartphone](https://www.youtube.com/watch?v=f1WudQ4MbnI) \[Wacom Intuos] 2019/10/04&#x20;
+* [Wacom - Connect your Wacom One pen tablet and turn it on (Android)](https://www.youtube.com/watch?v=22-ASsVGsuM) 2023-08-10
+* [Wacom - Wacom Center for Android](https://www.youtube.com/watch?v=sf8r_zxLl7o) app 2023-08-10
+* [Wacom - How to Setup your Wacom Intuos for Android - English](https://www.youtube.com/watch?v=JFTjUCiEy1s) 2019-11-07
+* [Aaron Rutten - Wacom Intuos on ANDROID - Review](https://www.youtube.com/watch?v=tMWwTuNO_7A) 2019-11-21
+* [ibisPaint -  I connected a Wacom pen tablet to my smartphone](https://www.youtube.com/watch?v=f1WudQ4MbnI) \[Wacom Intuos] 2019-10-04&#x20;
 
 Pen displays
 
-* [Brad Colbow - The Wacom One's New Android Drawing Features Explained](https://youtu.be/qF6cyT0bq8g) 2020/01/20
-* [XPPEN - Artist 12 (2nd Gen) Connection with Smartphone(Android)](https://www.youtube.com/watch?v=Q11XAvbirtQ) 2021/12/27
-* [Teoh on Tech Android and Pen Display Workflow for Artist (featuring Huion Kamvas)](https://www.youtube.com/watch?v=VCalf9rbQ9U) 2021/07/21
-* [Huion How to connect Kamvas Pro 13&16 (2.5K) to Android phone](https://www.youtube.com/watch?v=8y-Dfp3AApc) 2022/01/11
+* [Brad Colbow - The Wacom One's New Android Drawing Features Explained](https://youtu.be/qF6cyT0bq8g) 2020-01-20
+* [XPPEN - Artist 12 (2nd Gen) Connection with Smartphone(Android)](https://www.youtube.com/watch?v=Q11XAvbirtQ) 2021-12-27
+* [Teoh on Tech Android and Pen Display Workflow for Artist (featuring Huion Kamvas)](https://www.youtube.com/watch?v=VCalf9rbQ9U) 2021-07-21
+* [Huion How to connect Kamvas Pro 13&16 (2.5K) to Android phone](https://www.youtube.com/watch?v=8y-Dfp3AApc) 2022-01-11
 

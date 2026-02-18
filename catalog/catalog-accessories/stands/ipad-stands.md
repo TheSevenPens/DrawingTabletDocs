@@ -23,7 +23,7 @@ Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
 ## Sketchboard Pro II for iPad
 
-* [Adam Duff - Sketchboard Pro II - The Most Versatile Artist Stand For iPad Pro (M4 iPad Pro Edition)](https://www.youtube.com/watch?v=vTFPzMyCBh4) 2025/03/09
+* [Adam Duff - Sketchboard Pro II - The Most Versatile Artist Stand For iPad Pro (M4 iPad Pro Edition)](https://www.youtube.com/watch?v=vTFPzMyCBh4) 2025-03-09
 
 ## Astropad Darkboard
 

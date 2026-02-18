@@ -99,6 +99,6 @@ The CTL-6100WL and CTL-4100WL models support Bluetooth for wireless connectivity
 
 ## Resources
 
-* [Brad Colbow - Wacom Intuos Small / Medium (2018) Review](https://www.youtube.com/watch?v=H-ZYte_UOVM) 2018/03/26
-* [Aaron Rutton - INTUOS Small & Medium - Wacom Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=WLclWCHmrjg) 2019/03/21
+* [Brad Colbow - Wacom Intuos Small / Medium (2018) Review](https://www.youtube.com/watch?v=H-ZYte_UOVM) 2018-03-26
+* [Aaron Rutton - INTUOS Small & Medium - Wacom Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=WLclWCHmrjg) 2019-03-21
 * [Wacom - Playlist: Getting started with your Wacom Intuos pen tablet](https://www.youtube.com/playlist?list=PL5JDtjDGWsw3KRruZfqAwRmbNpAQbW89y) &#x20;

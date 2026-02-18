@@ -37,7 +37,7 @@ If you do remove the film, you will be drawing on the glass of the display. To a
 
 ## References
 
-* [Radiant Vision Systems - Repeatable Sparkle Measurement for Quality Control of Anti-Glare Displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays) 2020/10/26&#x20;
-* [Radiant Vision Systems - Defining a Sparkle Measurement Standard for Quality Control of Anti-Glare Displays](https://www.youtube.com/watch?v=8iTGUNAxPOc) 2020/10/08
+* [Radiant Vision Systems - Repeatable Sparkle Measurement for Quality Control of Anti-Glare Displays](https://www.radiantvisionsystems.com/blog/repeatable-sparkle-measurement-quality-control-anti-glare-displays) 2020-10-26&#x20;
+* [Radiant Vision Systems - Defining a Sparkle Measurement Standard for Quality Control of Anti-Glare Displays](https://www.youtube.com/watch?v=8iTGUNAxPOc) 2020-10-08
 * [Gollier et al. - Display Sparkle Measurement and Human Response](https://jamesferwerda.com/wp-content/uploads/2015/06/r23_gollier13_sid.pdf)
 * [Ferwerda et al. - Perception of sparkle in anti-glare display screens](https://jamesferwerda.com/wp-content/uploads/2015/06/j18_ferwerda14_jsid.pdf) &#x20;

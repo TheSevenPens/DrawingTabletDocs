@@ -24,7 +24,7 @@ I have tested all these pens and found that the work with tablets that support U
 ### Other resources
 
 * Pilot Dr. Grip Digital for Wacom
-  * [Teoh on Tech - Pilot Dr Grip Digital Pen (review) - A retractable grippy Wacom EMR pen](https://www.youtube.com/watch?v=LSsB4nDVibw) 2025/03/12
+  * [Teoh on Tech - Pilot Dr Grip Digital Pen (review) - A retractable grippy Wacom EMR pen](https://www.youtube.com/watch?v=LSsB4nDVibw) 2025-03-12
 
 
 

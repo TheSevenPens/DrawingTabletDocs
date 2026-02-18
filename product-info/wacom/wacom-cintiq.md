@@ -8,29 +8,29 @@
 
 * Model year: 2019
 * [My notes on this tablet](wacom-cintiq/7p-notes-wacom-dtk-2260.md)
-* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
-* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
+* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019-07-18
+* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019-08-23
 
 ## Wacom Cintiq 27 QHD (DTK-2700)
 
 * Model year: 2015
 * [product page](https://estore.wacom.com/en-us/wacom-cintiq-22-dtk2260k0a.html) ([archive](https://archive.is/nlTKO))
-* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2\_iiJQA) 2016/11/07
-* [Jazza review of Wacom Cintiq 27 QHD](https://youtu.be/G8SYYpnXmHk) 2016/02/07&#x20;
+* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2\_iiJQA) 2016-11-07
+* [Jazza review of Wacom Cintiq 27 QHD](https://youtu.be/G8SYYpnXmHk) 2016-02-07&#x20;
 
 ## Wacom Cintiq 27 QHD  (DTK-2260)
 
 * Model year: 2019
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
-* [Brad Colbow review of Wacom Cintiq 27 QHD](https://youtu.be/662QvZMik4U) 2019/07/18
-* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/xBPNyYX6zi8) 2019/07/17
-* [MobileTechReview review of Wacom Cintiq 27 QHD](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019/07/19
+* [Brad Colbow review of Wacom Cintiq 27 QHD](https://youtu.be/662QvZMik4U) 2019-07-18
+* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/xBPNyYX6zi8) 2019-07-17
+* [MobileTechReview review of Wacom Cintiq 27 QHD](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019-07-19
 
 ## Wacom Cintiq 16 (DTK-1660)
 
 * Model Year: 2018
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)&#x20;
-* [Brad Colbow reveiw of Wacom Cintiq 16](https://www.youtube.com/watch?v=ye8R0LAbkiE) 2019/01/08
-* [Ross Draws reveiw of Wacom Cintiq 16](https://youtu.be/6\_tMU5z6s9s) 2019/02/22
-* [MobileTechReview reveiw of Wacom Cintiq 16](https://youtu.be/v4qDRupCLHY) 2019/01/08
-* [Aaron Rutten reveiw of Wacom Cintiq 16](https://youtu.be/nXrFULq096A) 2019/01/07
+* [Brad Colbow reveiw of Wacom Cintiq 16](https://www.youtube.com/watch?v=ye8R0LAbkiE) 2019-01-08
+* [Ross Draws reveiw of Wacom Cintiq 16](https://youtu.be/6\_tMU5z6s9s) 2019-02-22
+* [MobileTechReview reveiw of Wacom Cintiq 16](https://youtu.be/v4qDRupCLHY) 2019-01-08
+* [Aaron Rutten reveiw of Wacom Cintiq 16](https://youtu.be/nXrFULq096A) 2019-01-07

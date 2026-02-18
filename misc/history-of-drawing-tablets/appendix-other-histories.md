@@ -1,6 +1,6 @@
 # Appendix: Other histories
 
-Wacom's CEO Masahiko Yamada gave this account of Wacom's history: [https://www.paintboxtv.com/wp-content/uploads/2012/11/2009-08-Wacom\_Art\_of\_Making\_Marks\_About\_How\_It\_All\_Started.pdf](https://www.paintboxtv.com/wp-content/uploads/2012/11/2009-08-Wacom_Art_of_Making_Marks_About_How_It_All_Started.pdf)
+Wacom's CEO Masahiko Yamada gave this account of Wacom's history: [https://www.paintboxtv.com/wp-content/uploads/2012-11-2009-08-Wacom\_Art\_of\_Making\_Marks\_About\_How\_It\_All\_Started.pdf](https://www.paintboxtv.com/wp-content/uploads/2012-11-2009-08-Wacom_Art_of_Making_Marks_About_How_It_All_Started.pdf)
 
 This blog post is also a good summary of the history: [https://historyofthearttablet.wordpress.com/](https://historyofthearttablet.wordpress.com/) This document also contains a number of links.
 

@@ -27,7 +27,7 @@ The vary quite a bit in price, below are three models I personally own. You will
 
 For a list of applications for iPads: [**Apps for iPad**](../../../apps/apps-for-ipad.md)
 
-[Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025/07/24
+[Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025-07-24
 
 ## iPad benefits
 
@@ -162,10 +162,10 @@ I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple 
 
 ## Videos
 
-* [Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025/07/24
-* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68_Q7CiCzs) 2022/10/01
-* [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) 2019/10/11
-* [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) 2019/06/24
+* [Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025-07-24
+* [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68_Q7CiCzs) 2022-10-01
+* [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) 2019-10-11
+* [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) 2019-06-24
 * [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68_Q7CiCzs) 2022/10/1
 * [Teoh on tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) Nov 1, 2022

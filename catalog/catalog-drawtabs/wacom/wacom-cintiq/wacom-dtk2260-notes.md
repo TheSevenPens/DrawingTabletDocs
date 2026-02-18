@@ -10,10 +10,10 @@ Model year: 2019
 
 ## Links
 
-* User manual: [http://101.wacom.com/UserHelp/en/](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)[Aaron Rutten review of Wacom Cintiq 2](https://youtu.be/xBPNyYX6zi8) 2019/07/17
-* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019/07/18
-* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019/08/23
-* [MobileTechReview review of Wacom Cintiq 22](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019/07/19
+* User manual: [http://101.wacom.com/UserHelp/en/](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)[Aaron Rutten review of Wacom Cintiq 2](https://youtu.be/xBPNyYX6zi8) 2019-07-17
+* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019-07-18
+* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019-08-23
+* [MobileTechReview review of Wacom Cintiq 22](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019-07-19
 
 ## Basics
 

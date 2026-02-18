@@ -103,7 +103,7 @@ If you computer does not have a USB-C port that supports DP alt mode, it MAY be 
 
 This is apparently possible but will require a desktop computer that is capable of accepting an expansion card.&#x20;
 
-See: [Dan S Charlton: Add USB-C with DisplayPort-alt-mode to your PC](https://dancharblog.wordpress.com/2020/07/20/add-usb-c-with-dp-alt-mode-to-your-desktop-pc/) ([archive link](https://archive.is/WylTo))
+See: [Dan S Charlton: Add USB-C with DisplayPort-alt-mode to your PC](https://dancharblog.wordpress.com/2020-07-20/add-usb-c-with-dp-alt-mode-to-your-desktop-pc/) ([archive link](https://archive.is/WylTo))
 
 ## Resources
 

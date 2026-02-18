@@ -40,11 +40,11 @@ When you select a tablet you will see it right on the home page for that tablet.
 
 ### Model number in the Huion driver (HuionTablet app)
 
-As of 2024/02/27 the driver app does not provide any way to see the model number, only the name.
+As of 2024-02-27 the driver app does not provide any way to see the model number, only the name.
 
 ### Model number in XP driver app
 
-As of 2024/02/27 the driver app does not provide any way to see the model number, only the name.
+As of 2024-02-27 the driver app does not provide any way to see the model number, only the name.
 
 ## Find the model number on the packaging the tablet arrived in
 

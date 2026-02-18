@@ -8,7 +8,7 @@ The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous
 
 ## General information
 
-* [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025/01/25 (archive)
+* [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025-01-25 (archive)
 
 ## Pressure
 
@@ -171,7 +171,7 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 * Twitter post: [https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA](https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA)\
   \
   ![](../../../.gitbook/assets/image-000376.png)
-*   On 2024/03/09 I asked Wacom again on twitter
+*   On 2024-03-09 I asked Wacom again on twitter
 
     * [https://twitter.com/TheSevenPens/status/1766540705865072733](https://twitter.com/TheSevenPens/status/1766540705865072733)
     *

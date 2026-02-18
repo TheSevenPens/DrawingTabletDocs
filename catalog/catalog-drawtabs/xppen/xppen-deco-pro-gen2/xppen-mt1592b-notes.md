@@ -2,14 +2,14 @@
 
 ## Notes
 
-I used this tablet from 2023/07/26 to 2023/11/01 and have been very happy with it.
+I used this tablet from 2023-07-26 to 2023-11-01 and have been very happy with it.
 
 ## Links
 
-* [EyekooDrawsStuff review of XP-Pen Deco Pro GEN2](https://www.youtube.com/watch?v=itnwkJVlWiw) 2024/11/29&#x20;
+* [EyekooDrawsStuff review of XP-Pen Deco Pro GEN2](https://www.youtube.com/watch?v=itnwkJVlWiw) 2024-11-29&#x20;
 * [Teoh on Tech review of XP-Pen Deco Pro GEN2](https://youtu.be/h8NG0zmYdtE) 2023/07.25
-* [Joseph Montanez XP-Pen Deco Pro GEN2 XLW](https://youtu.be/pRLBRTWPlQU) 2023/06/20
-* [YRH review of XP-Pen Deco Pro XLW GEN2 on Ubuntu 22.04](https://krita-artists.org/t/xp-pen-deco-pro-xlw-gen-2-first-impressions-on-ubuntu-22-04/84085) 2024/02/08
+* [Joseph Montanez XP-Pen Deco Pro GEN2 XLW](https://youtu.be/pRLBRTWPlQU) 2023-06-20
+* [YRH review of XP-Pen Deco Pro XLW GEN2 on Ubuntu 22.04](https://krita-artists.org/t/xp-pen-deco-pro-xlw-gen-2-first-impressions-on-ubuntu-22-04/84085) 2024-02-08
 
 ## Size
 

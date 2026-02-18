@@ -10,6 +10,6 @@ The dials make it easy to adjust things like brush size while painting.I tended 
 
 **Links**
 
-* [Teoh on Tech review of Huion Inspiroy Dial 2](https://youtu.be/OCNsJ1gqnZ0) 2022/08/16
-* [Create Now Sleep Later review of Huion Inspiroy Dial 2](https://youtu.be/mXKoWtvKDi0) 2022/08/26&#x20;
-* [SweetMonia review of Huion Inspiroy 2 Dial ](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-dial-review-the-elegant-power-of-dials-combined-with-wireless-low-iaf/)2022/09/19
+* [Teoh on Tech review of Huion Inspiroy Dial 2](https://youtu.be/OCNsJ1gqnZ0) 2022-08-16
+* [Create Now Sleep Later review of Huion Inspiroy Dial 2](https://youtu.be/mXKoWtvKDi0) 2022-08-26&#x20;
+* [SweetMonia review of Huion Inspiroy 2 Dial ](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-dial-review-the-elegant-power-of-dials-combined-with-wireless-low-iaf/)2022-09-19

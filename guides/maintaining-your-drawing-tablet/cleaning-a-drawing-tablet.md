@@ -38,6 +38,6 @@ STEP 2 - I gently wipe down the tablet with a damp cloth/microfiber cloth, or to
 
 ## Other cleaning guides
 
-* [Aaron Rutten - How to Safely CLEAN Your Drawing Tablet](https://youtu.be/S52jjhIcn-c) 2017/09/16
-* [Wacom - How to clean your Wacom One (DTC-133) display with Guido ](https://www.youtube.com/watch?v=wnbQWwQw2po)2021/05/31
-* [MossCharmly - How to Clean You're Drawing Tablet and Cleaning tips](https://www.youtube.com/watch?v=hj_ip0Dhc10) 2023/05/26
+* [Aaron Rutten - How to Safely CLEAN Your Drawing Tablet](https://youtu.be/S52jjhIcn-c) 2017-09-16
+* [Wacom - How to clean your Wacom One (DTC-133) display with Guido ](https://www.youtube.com/watch?v=wnbQWwQw2po)2021-05-31
+* [MossCharmly - How to Clean You're Drawing Tablet and Cleaning tips](https://www.youtube.com/watch?v=hj_ip0Dhc10) 2023-05-26

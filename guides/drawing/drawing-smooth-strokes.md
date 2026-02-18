@@ -32,8 +32,8 @@ Please do check for this. Many people have been using their tablets for years wi
 
 Consider how you hold you pen. Different techniques of holding your pen can affect how smooth your strokes are.
 
-* [**Aaron Rutten - How to Hold a Drawing Tablet Pen**](https://www.youtube.com/watch?v=AAm0DrOrDGQ) 2023/09/03&#x20;
-* [**Brad Colbow - How Pros Hold a Pencil**](https://www.youtube.com/watch?v=pB9m4TxZ7oQ) 2024/05/28
+* [**Aaron Rutten - How to Hold a Drawing Tablet Pen**](https://www.youtube.com/watch?v=AAm0DrOrDGQ) 2023-09-03&#x20;
+* [**Brad Colbow - How Pros Hold a Pencil**](https://www.youtube.com/watch?v=pB9m4TxZ7oQ) 2024-05-28
 
 ## Increase the surface texture of your tablet
 

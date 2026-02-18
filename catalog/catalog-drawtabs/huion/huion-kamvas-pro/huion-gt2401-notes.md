@@ -11,9 +11,9 @@ I've been very satisfied with this tablet.
 ## **Links**
 
 * User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90)
-* [MossCharmly 2 year review Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=XwD_7x2S-7g) 2023/12/09
-* [Brad Colbow review of Review of Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=HvQxDrzgbOo) 2021/09/02
-* [Teoh Yi Chie review of Huion Kamvas Pro 24 4K ](https://www.youtube.com/watch?v=r8k5qsgJXlM)2021/09/17
+* [MossCharmly 2 year review Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=XwD_7x2S-7g) 2023-12-09
+* [Brad Colbow review of Review of Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=HvQxDrzgbOo) 2021-09-02
+* [Teoh Yi Chie review of Huion Kamvas Pro 24 4K ](https://www.youtube.com/watch?v=r8k5qsgJXlM)2021-09-17
 
 ## **Cost**
 

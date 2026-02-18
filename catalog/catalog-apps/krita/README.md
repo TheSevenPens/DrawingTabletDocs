@@ -22,9 +22,9 @@
 
 ## History of Krita
 
-* [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part 1](https://www.youtube.com/watch?v=DifqGFFAnsE) 2024/06/20
-* [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part2](https://www.youtube.com/watch?v=3Bi_1rX2AB4) 2024/08/13
-* [Krita / 25th Anniversary INTERVIEW : Krita´s mantainer, HALLA REMPT](https://www.youtube.com/watch?v=iHPUoyeWs3I) 2024/06/05&#x20;
+* [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part 1](https://www.youtube.com/watch?v=DifqGFFAnsE) 2024-06-20
+* [Krita / Krita 25th ANNIVERSARY! Journey to the past. Part2](https://www.youtube.com/watch?v=3Bi_1rX2AB4) 2024-08-13
+* [Krita / 25th Anniversary INTERVIEW : Krita´s mantainer, HALLA REMPT](https://www.youtube.com/watch?v=iHPUoyeWs3I) 2024-06-05&#x20;
 
 ## Videos
 
@@ -36,11 +36,11 @@
 * [Winged Canvas - How to Use KRITA - Digital Art Tutorial for Beginners](https://www.youtube.com/watch?v=2kLoKhyz2KA)&#x20;
 * [Jenna Drawing - OW TO PAINT IN KRITA](https://youtu.be/Z06RRp81iDM) Sep 12, 2020
 * [Skills Factory: Krita - Tutorial for Beginners in 14 MINUTES! \[COMPLETE\]](https://www.youtube.com/watch?v=ZvXw2s1rfHY) Jan 19, 2022
-* [David Revoy - Comic Book Artist - Tutorial: an illustration from A to Z with Krita](https://www.youtube.com/watch?v=uYdEkOyFUn8) 2022/08/15
+* [David Revoy - Comic Book Artist - Tutorial: an illustration from A to Z with Krita](https://www.youtube.com/watch?v=uYdEkOyFUn8) 2022-08-15
 * [MossCharmly - Krita Tools Explained (Beginner Tutorial)](https://www.youtube.com/watch?v=W9Gc7Mv0LYA) Nov 11, 2023
 * [Age of Asparagus - Learn Krita with Bob Ross playlist](https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq_xOG)&#x20;
-* [MossCharmly - Krita Line Art for beginners part 1 (Perfect Pen)](https://www.youtube.com/watch?v=fzgnQ2spLQk) 2024/08/31&#x20;
-* [MossCharmly - Krita Line Art for Beginners part 2 (Line art Techniques)](https://www.youtube.com/watch?v=q7v6lgRRmn0) 2024/09/14
+* [MossCharmly - Krita Line Art for beginners part 1 (Perfect Pen)](https://www.youtube.com/watch?v=fzgnQ2spLQk) 2024-08-31&#x20;
+* [MossCharmly - Krita Line Art for Beginners part 2 (Line art Techniques)](https://www.youtube.com/watch?v=q7v6lgRRmn0) 2024-09-14
 
 ### **Customizing**
 
@@ -51,8 +51,8 @@
 
 * [Krita - 10 Tricks to paint faster & better with Krita](https://www.youtube.com/watch?v=-LYfXyrGNe4)&#x20;
 * [Noctualis - 8 TIPS for Faster Painting in KRITA!](https://www.youtube.com/watch?v=JmA0LdqVcBI)&#x20;
-* [MossCharmly - (How to) Plug-ins for Krita](https://www.youtube.com/watch?v=Oqv3rFuABYY) 2024/07/06
-* [MossCharmly - 3 Ways to use Screentones in Krita](https://www.youtube.com/watch?v=sxO519Yx-Gc) 2024/09/28
+* [MossCharmly - (How to) Plug-ins for Krita](https://www.youtube.com/watch?v=Oqv3rFuABYY) 2024-07-06
+* [MossCharmly - 3 Ways to use Screentones in Krita](https://www.youtube.com/watch?v=sxO519Yx-Gc) 2024-09-28
 * Assign shortcut keys o brushes
   * [https://www.youtube.com/watch?v=hp4euYCjlgw](https://www.youtube.com/watch?v=hp4euYCjlgw)
 

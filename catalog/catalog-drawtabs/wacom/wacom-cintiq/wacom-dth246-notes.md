@@ -12,15 +12,15 @@ While not inexpensive it is a fantastic value for getting something with such a 
 
 ## Links
 
-* [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025/07/28
-* [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025/07/01
+* [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025-07-28
+* [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025-07-01
 
 ## Videos
 
 I livestreamed the unboxing, testing, and drawing on this tablet:
 
-* [Unboxing and testing](https://youtube.com/live/Lm-5X-gFtuw?feature=share) 2025/06/24
-* [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025/06/25
+* [Unboxing and testing](https://youtube.com/live/Lm-5X-gFtuw?feature=share) 2025-06-24
+* [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025-06-25
 
 Sometime in 2026 I will make a full "review" video soon.
 

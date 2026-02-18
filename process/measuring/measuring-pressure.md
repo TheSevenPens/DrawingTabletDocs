@@ -42,5 +42,5 @@ As of September 2025 my setup looks like this:
 
 ## Videos
 
-* [Seven Pens -  Measuring Pen Pressure Response Curves](https://youtu.be/tioJ3CfrmtI) - 2025/09/27
+* [Seven Pens -  Measuring Pen Pressure Response Curves](https://youtu.be/tioJ3CfrmtI) - 2025-09-27
 

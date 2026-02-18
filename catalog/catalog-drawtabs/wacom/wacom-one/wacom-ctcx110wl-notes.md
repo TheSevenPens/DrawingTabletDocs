@@ -24,8 +24,8 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 *
 * Wacom One S user manual - [https://101.wacom.com/userhelp/en/toc/ctc4110wl.html](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html)&#x20;
 * Wacom One M user manual - [https://101.wacom.com/userhelp/en/toc/ctc6110wl.html](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html)&#x20;
-* [Brad Colbow review of Wacom One M and Wacom One S](https://www.youtube.com/watch?v=5CPEqVOTRN0) 2023/09/05
-* [Brad Colbow review of Wacom One M and Wacom One S](https://www.youtube.com/watch?v=5CPEqVOTRN0) 2023/09/05
+* [Brad Colbow review of Wacom One M and Wacom One S](https://www.youtube.com/watch?v=5CPEqVOTRN0) 2023-09-05
+* [Brad Colbow review of Wacom One M and Wacom One S](https://www.youtube.com/watch?v=5CPEqVOTRN0) 2023-09-05
 
 ## **Pens**
 

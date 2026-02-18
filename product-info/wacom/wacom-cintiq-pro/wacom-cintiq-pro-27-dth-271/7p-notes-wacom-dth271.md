@@ -493,21 +493,21 @@ This did not work at all. I tried connecting them with a Thunderbolt 3 cable but
 
 ## Change log
 
-* 2023/10/15 - Add info about connecting an Samsung Galaxy S8 Ultra to the Cintiq Pro 27
-* 2023/10/15 - Add info about connecting an iPad Pro to the Cintiq Pro 27
-* 2023/08/23 - Add link to reddit thread about the stand
-* 2023/06/21 - Moved notes on Wacom Pro Pen 3 to a separate doc
-* 2023/05/30 - Added info on the Xencelabs Pen Display 24&#x20;
-* 2023/05/30 - Added link to the Wacom support article listing compatible pens
-* 2023/03/30 - Revised to diagonal wobble section with latest research
-* 2023/03/30 - Updated the alternatives section
-* 2023/02/05 - Clarified cursor lag compared to other devices.
-* 2023/01/21 - Cleanup up section on anti-glare treatment and sparkle
-* 2023/01/21 - Enhanced section on diagonal wobble
-* 2022/12/19 - Fixed typos
-* 2022/11/28 - Clarified touch behavior on Windows
-* 2022/11/24 - moved parallax background to a separate technical note
-* 2022/11/24 - moved pen tracking background to a separate technical note
-* 2022/11/22 - Clarified rotation
-* 2022/11/22 - Add links to other reviews
-* 2022/11/22 - Initial version published
+* 2023-10-15 - Add info about connecting an Samsung Galaxy S8 Ultra to the Cintiq Pro 27
+* 2023-10-15 - Add info about connecting an iPad Pro to the Cintiq Pro 27
+* 2023-08-23 - Add link to reddit thread about the stand
+* 2023-06-21 - Moved notes on Wacom Pro Pen 3 to a separate doc
+* 2023-05-30 - Added info on the Xencelabs Pen Display 24&#x20;
+* 2023-05-30 - Added link to the Wacom support article listing compatible pens
+* 2023-03-30 - Revised to diagonal wobble section with latest research
+* 2023-03-30 - Updated the alternatives section
+* 2023-02-05 - Clarified cursor lag compared to other devices.
+* 2023-01-21 - Cleanup up section on anti-glare treatment and sparkle
+* 2023-01-21 - Enhanced section on diagonal wobble
+* 2022-12-19 - Fixed typos
+* 2022-11-28 - Clarified touch behavior on Windows
+* 2022-11-24 - moved parallax background to a separate technical note
+* 2022-11-24 - moved pen tracking background to a separate technical note
+* 2022-11-22 - Clarified rotation
+* 2022-11-22 - Add links to other reviews
+* 2022-11-22 - Initial version published

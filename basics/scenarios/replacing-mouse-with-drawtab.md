@@ -119,4 +119,4 @@ Other brands also have tablets that work as mouse replacements, but the safe cho
 ## Resources
 
 * [PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse!](https://www.youtube.com/watch?v=9yTA1P8SrqI) Feb 24, 2020
-* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing_your_mouse_with_a_drawing_tabletpen/) (2023/05/03)&#x20;
+* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing_your_mouse_with_a_drawing_tabletpen/) (2023-05-03)&#x20;

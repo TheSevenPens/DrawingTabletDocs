@@ -13,9 +13,9 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 ## **Links**
 
 * User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)
-* [Teoh on Tech review of Huion HS611](https://www.youtube.com/watch?v=1RcUCSL5azU) 2021/02/14
-* [Brad Colbow review of Huion HS611](https://www.youtube.com/watch?v=IHV7LsbxqsU) 2020/03/23
-* [Nemanja Sekulic review of Huion HS611](https://www.youtube.com/watch?v=WEXXbXDrd-Y) 2020/04/28
+* [Teoh on Tech review of Huion HS611](https://www.youtube.com/watch?v=1RcUCSL5azU) 2021-02-14
+* [Brad Colbow review of Huion HS611](https://www.youtube.com/watch?v=IHV7LsbxqsU) 2020-03-23
+* [Nemanja Sekulic review of Huion HS611](https://www.youtube.com/watch?v=WEXXbXDrd-Y) 2020-04-28
 
 ## **Active area size**
 

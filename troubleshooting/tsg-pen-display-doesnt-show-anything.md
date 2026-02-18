@@ -14,7 +14,7 @@ If your computer does detect the display, but you still see just a back screen, 
 
 Unfortunately this is not an easy or cheap think to repair. Most people simply just get a new tablet or if it is under warranty have the tablet replaced.
 
-* [r/monitors - Anyone know how to fix a extremely dim monitor screen?](https://www.reddit.com/r/Monitors/comments/yg67kk/anyone_know_how_to_fix_a_extremely_dim_monitor/) 2022/10/28
+* [r/monitors - Anyone know how to fix a extremely dim monitor screen?](https://www.reddit.com/r/Monitors/comments/yg67kk/anyone_know_how_to_fix_a_extremely_dim_monitor/) 2022-10-28
 
 ## Check if the display works with another source of display signal
 

@@ -42,8 +42,8 @@ Examples:
 * Playstation controller
   *   [/r/ClipStudio - Nintendo Joy-con as a shortcut remote! On Samsung Tab8 Ultra](https://www.reddit.com/r/ClipStudio/comments/1ih2vml/nintendo_joycon_as_a_shortcut_remote_on_samsung/)
 
-      2025/02/03
-  * [Draw Your Weapon - A PlayStation controller for digital art? Why not!](https://drawyourweapon.com/a-playstation-controller-for-digital-art-why-not/) 2024/10/21
+      2025-02-03
+  * [Draw Your Weapon - A PlayStation controller for digital art? Why not!](https://drawyourweapon.com/a-playstation-controller-for-digital-art-why-not/) 2024-10-21
 
 ## Streaming keypads
 
@@ -61,7 +61,7 @@ I used one of these for a couple of months with CSP but I stopped eventually bec
 
 ## Generic keypads
 
-* David Zhang - [VELOCIFIRE NK01 Wireless Mechanical Number Pad - I Built a Keypad to Control My Entire Desk Setup](https://www.youtube.com/watch?v=DTJSREjWH7Y) 2022/12/23
+* David Zhang - [VELOCIFIRE NK01 Wireless Mechanical Number Pad - I Built a Keypad to Control My Entire Desk Setup](https://www.youtube.com/watch?v=DTJSREjWH7Y) 2022-12-23
 
 ## Tiny Keyboards
 

@@ -72,9 +72,9 @@ Besides the Wacom CP-913, the Wacom One GEN1 (DTC-133) tablet is compatible with
 
 * Official Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
 * [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
-* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020/12/26
-* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023/09/07
-* r/Wacom - [https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022/01/13
+* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020-12-26
+* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
+* r/Wacom - [https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022-01-13
 
 ### Legs
 

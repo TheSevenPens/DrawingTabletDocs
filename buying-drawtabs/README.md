@@ -213,5 +213,5 @@ Drawing tablets have been released over many years. That means when you shop onl
 
 ## Resources
 
-* [shar - how to choose a drawing tablet](https://www.youtube.com/watch?v=-gEh8n6dmjg) 2025/07/07&#x20;
+* [shar - how to choose a drawing tablet](https://www.youtube.com/watch?v=-gEh8n6dmjg) 2025-07-07&#x20;
   * This is a a very good overview for buying a drawing tablet. It covers a lot of topics. The video is a great starting point for getting familiar with the overall set of things you need to think about.

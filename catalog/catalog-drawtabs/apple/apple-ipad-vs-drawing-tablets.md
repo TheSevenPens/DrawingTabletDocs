@@ -128,8 +128,8 @@ So if you're trying to pick between an iPad and a drawing tablet you should firs
 
 ## Resources
 
-* [Xencelabs - iPad vs Drawing Tablet: Which One Should You Choose in 2025?](https://www.xencelabs.com/community/creative-corner/ipad-vs-drawing-tablet) 2025/09/11
-* [Mac Address - Is the Apple Pencil Pro good enough for professionals?](https://www.youtube.com/watch?v=7oA7zyIxBkk) 2024/09/07
+* [Xencelabs - iPad vs Drawing Tablet: Which One Should You Choose in 2025?](https://www.xencelabs.com/community/creative-corner/ipad-vs-drawing-tablet) 2025-09-11
+* [Mac Address - Is the Apple Pencil Pro good enough for professionals?](https://www.youtube.com/watch?v=7oA7zyIxBkk) 2024-09-07
 * [Anastasia Berry - iPad or Display Tablet | What's Better for Drawing?](https://youtu.be/VOyQbBBuRrc) Feb 9, 2022
 * [Tim Mcburnie - iPad vs. Wacom](https://youtu.be/hBnEE367878) Feb 19, 2022
 * [Teoh on Tech - iPad vs Pen Displays: Which to get for Digital Art](https://youtu.be/GJ6fVe3p-ec) Jun 10, 2021

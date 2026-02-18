@@ -7,11 +7,11 @@ Introduced in 2022, the Giano G930L is a fantastic value. It's quite nice for dr
 ## **Links**
 
 * User manual: [https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf](https://www.huion.com/manaul_pdf/en/Inspiroy%20Giano.pdf)&#x20;
-* [Teoh on Tech review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=2XcP_Db9e_w) 2022/05/25
-* [Brad Colbow review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=DiRwtSonevY) 2022/07/06
-* [Create Now Sleep Later review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=CcrTe2J5Ho8) 2022/08/08
-* [Anna Sok review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=03auOS8lgAE) 2022/10/04
-* [SweetMonia review of Huion Giano](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-giano-graphics-tablet-review-a-large-drawing-area-for-your-heart-content/) G930L 2024/03/14&#x20;
+* [Teoh on Tech review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=2XcP_Db9e_w) 2022-05-25
+* [Brad Colbow review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=DiRwtSonevY) 2022-07-06
+* [Create Now Sleep Later review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=CcrTe2J5Ho8) 2022-08-08
+* [Anna Sok review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=03auOS8lgAE) 2022-10-04
+* [SweetMonia review of Huion Giano](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-giano-graphics-tablet-review-a-large-drawing-area-for-your-heart-content/) G930L 2024-03-14&#x20;
 
 ## **Compared to Wacom**
 

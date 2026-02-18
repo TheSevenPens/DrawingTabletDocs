@@ -46,9 +46,9 @@ It weighs less than any of the these Intuos Pro pen tablets:
 ## Links
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
-* [Teoh on Tech - Review of Wacom Movink 13](https://www.youtube.com/watch?v=ifWwffBQ8VQ) 2024/11/15
-* [Brad Colbow - Review of Wacom Movink 13](https://www.youtube.com/watch?v=Y3ASJNcFinI) 2024/05/16
-* [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024/04/24
+* [Teoh on Tech - Review of Wacom Movink 13](https://www.youtube.com/watch?v=ifWwffBQ8VQ) 2024-11-15
+* [Brad Colbow - Review of Wacom Movink 13](https://www.youtube.com/watch?v=Y3ASJNcFinI) 2024-05-16
+* [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024-04-24
 
 ## Included pen
 
@@ -271,7 +271,7 @@ The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
   * Wacom also has the [**3-in-1 Cable for Wacom One 2023 Pen Displays (ACK4490602Z)**](https://estore.wacom.com/en-us/wacom-one-3-in-1-cable-ack4490602z.html)
     * This 3-in-1 cable DID work with one condition - I had to connect the power end of the cable into a power adapter instead or relying on a USB-C port on my computer.
 * Here are some other experiences with connecting it
-  * [reddit r/wacom - PSA: The new Movink only work on Thunderbolt / USB4 port](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/) 2024/05/26
+  * [reddit r/wacom - PSA: The new Movink only work on Thunderbolt / USB4 port](https://www.reddit.com/r/wacom/comments/1d16v5d/psa_the_new_movink_only_work_on_thunderbolt_usb4/) 2024-05-26
 
 ## Other inputs
 

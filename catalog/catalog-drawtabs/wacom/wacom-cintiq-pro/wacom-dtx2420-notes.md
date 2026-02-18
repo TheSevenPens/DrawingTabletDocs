@@ -64,11 +64,11 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.w
 
 ## Links
 
-* [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - 2018/11/05
-* [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - 2018/10/09
-* [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - 2018/05/01
-* r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022/01/12
-* [Crowne Prince - Cintiq Pro 24 How to Remove Fans, Fix Noise](https://www.youtube.com/watch?v=89qTdTnTWMw) - 2024/10/24
+* [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - 2018-11-05
+* [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - 2018-10-09
+* [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - 2018-05-01
+* r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022-01-12
+* [Crowne Prince - Cintiq Pro 24 How to Remove Fans, Fix Noise](https://www.youtube.com/watch?v=89qTdTnTWMw) - 2024-10-24
 
 ## Documentation
 

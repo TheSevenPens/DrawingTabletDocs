@@ -23,5 +23,5 @@ This is my curated list of apps that are simple and inexpensive (or free). These
 
 ## Videos
 
-* [Brad Colbow - Rating the Best Free Drawing Apps for Beginners](https://www.youtube.com/watch?v=imlsPOof69k) 2025/05/14
-* [Brad Colbow - The Best Windows Drawing Apps for Beginners](https://www.youtube.com/watch?v=2cPf1-AnsJI) 2024/10/26
+* [Brad Colbow - Rating the Best Free Drawing Apps for Beginners](https://www.youtube.com/watch?v=imlsPOof69k) 2025-05-14
+* [Brad Colbow - The Best Windows Drawing Apps for Beginners](https://www.youtube.com/watch?v=2cPf1-AnsJI) 2024-10-26

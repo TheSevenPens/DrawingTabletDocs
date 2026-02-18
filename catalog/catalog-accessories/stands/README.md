@@ -85,6 +85,6 @@ See this video
 
 ## Links
 
-* [Teoh on Tech - Comparison of Huion stands for tablets and pen displays](https://www.youtube.com/watch?v=axJV4C-Lp_o) 2025/01/17&#x20;
-* [Teoh on Tech - XP-Pen tablet and pen display stands: AC41 and AC42](https://www.youtube.com/watch?v=mkgdbuLUtOU) 2020/12/12
-* [Teoh on Tech - Review: Parblo PR112 & PR110 stand for tablet & laptops](https://www.youtube.com/watch?v=vzu49ulI7PE) 2021/08/02
+* [Teoh on Tech - Comparison of Huion stands for tablets and pen displays](https://www.youtube.com/watch?v=axJV4C-Lp_o) 2025-01-17&#x20;
+* [Teoh on Tech - XP-Pen tablet and pen display stands: AC41 and AC42](https://www.youtube.com/watch?v=mkgdbuLUtOU) 2020-12-12
+* [Teoh on Tech - Review: Parblo PR112 & PR110 stand for tablet & laptops](https://www.youtube.com/watch?v=vzu49ulI7PE) 2021-08-02

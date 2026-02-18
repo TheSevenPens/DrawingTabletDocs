@@ -16,8 +16,8 @@ They can also be useful in helping with palm rejection with tablets that support
 
 Some people just wash them as laundry. Others hand wash with a mild detergent
 
-* [r/huion - How should I wash my artist glove](https://www.reddit.com/r/huion/comments/13x8v69/how_should_i_wash_my_artist_glove/)? 2023/05/31
-* [r/Arttips - Can you machine wash an art glove?](https://www.reddit.com/r/Arttips/comments/ol14k1/can_you_machine_wash_an_art_glove/) 2021/07/15
+* [r/huion - How should I wash my artist glove](https://www.reddit.com/r/huion/comments/13x8v69/how_should_i_wash_my_artist_glove/)? 2023-05-31
+* [r/Arttips - Can you machine wash an art glove?](https://www.reddit.com/r/Arttips/comments/ol14k1/can_you_machine_wash_an_art_glove/) 2021-07-15
 
 ## Examples
 

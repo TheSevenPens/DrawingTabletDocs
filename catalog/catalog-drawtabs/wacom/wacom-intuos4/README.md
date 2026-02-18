@@ -28,7 +28,7 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 ## Links
 
-* [EyekooDrawsStuff - Wacom Intuos 4 Large (PTK-840)](https://www.youtube.com/watch?v=GAb-mte-j5w) 2021/10/12
+* [EyekooDrawsStuff - Wacom Intuos 4 Large (PTK-840)](https://www.youtube.com/watch?v=GAb-mte-j5w) 2021-10-12
 
 ## Photos
 

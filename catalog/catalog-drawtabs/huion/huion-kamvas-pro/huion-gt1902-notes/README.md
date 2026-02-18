@@ -217,9 +217,9 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 * **Touch on MacOS** -
   * At time of launch. This tablet did not support touch on MacOS.
-  * On 2024/08/01 Huion released a firmware update firmware to enable touch on MacOS.
+  * On 2024-08-01 Huion released a firmware update firmware to enable touch on MacOS.
     * Video: See this video: [https://www.youtube.com/watch?v=4D0\_OpPIgC8](https://www.youtube.com/watch?v=4D0_OpPIgC8)
-    * Update on 2025/04/10 - I did successfully install the firmware update and the updated driver. Unfortunately, I could never make touch work on MacOS. I will try later in 2025.
+    * Update on 2025-04-10 - I did successfully install the firmware update and the updated driver. Unfortunately, I could never make touch work on MacOS. I will try later in 2025.
 * **Touch on Windows**
   * Overall touch on windows works great thanks to Windows great support for touch.
   * If touch goes to your monitor instead of the tablet, here's how to fix it: [TSG: Touch input goes to a different display on Windows](tsg-touch-input-goes-to-the-wrong-display-on-windows.md)

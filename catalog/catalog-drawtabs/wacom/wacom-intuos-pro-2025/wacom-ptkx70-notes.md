@@ -18,9 +18,9 @@ But do check this document for any updates since the original video was publishe
 
 ## Links
 
-* [Jaugy - Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) 2025/11/03
-* [Aaron Rutten - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Rf66Lqx9NFc) 2025/04/26
-* [Brad Colbow - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Ko0sovi0rX4) 2025/04/14
+* [Jaugy - Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) 2025-11-03
+* [Aaron Rutten - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Rf66Lqx9NFc) 2025-04-26
+* [Brad Colbow - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Ko0sovi0rX4) 2025-04-14
 
 ## Changes to key features from 2017 edition
 
@@ -332,7 +332,7 @@ The bezel is highly polarizing for a lot of people. And to be clear there are tw
 
 Videos about it:
 
-* [Jaugy - I don't recommend the new Intuos Pro 2025 series](https://www.youtube.com/watch?v=KawJkmmDuPE) 2025/05/07
+* [Jaugy - I don't recommend the new Intuos Pro 2025 series](https://www.youtube.com/watch?v=KawJkmmDuPE) 2025-05-07
 
 ## Thickness
 

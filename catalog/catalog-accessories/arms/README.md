@@ -34,7 +34,7 @@ If you already have a monitor arm you can use the Wacom VESA Mount for Cintiq 24
 
 Huion has a monitor arm which appears to be a rebranded version of a generic monitor arm.
 
-[r/Huion - Huion ST500 Desktop Arm Review](https://www.reddit.com/r/huion/comments/1d5bin3/huion_st500_desktop_arm_review/) 2024/05/31
+[r/Huion - Huion ST500 Desktop Arm Review](https://www.reddit.com/r/huion/comments/1d5bin3/huion_st500_desktop_arm_review/) 2024-05-31
 
 ## North Bayou
 
@@ -48,9 +48,9 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 I use this brand a lot. [<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark>](ergotron-monitor-arms.md)
 
-* [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021/10/01
-* [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020/03/04
-* [Ergotron - Install Ergotron HX Monitor Arm with Heavy-Duty Tilt Pivot or HD Pivot](https://www.youtube.com/watch?v=3GZYP7DwwCA) 2021/05/24
+* [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021-10-01
+* [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020-03-04
+* [Ergotron - Install Ergotron HX Monitor Arm with Heavy-Duty Tilt Pivot or HD Pivot](https://www.youtube.com/watch?v=3GZYP7DwwCA) 2021-05-24
 
 ## VIVO VESA monitor and touch screen desk stand
 
@@ -101,5 +101,5 @@ Some things to watchout for with these brackets before you buy them
 ## Resources
 
 * There's a write up on using tablets that includes a section on a North Bayou arm here: [https://www.asianjoyco.com/resources-tutorials/digital-sculpting-tools](https://www.asianjoyco.com/resources-tutorials/digital-sculpting-tools)
-* [David Zhang - $25 vs. $300 Monitor Arm - What Stands Do I Recommend?](https://www.youtube.com/watch?v=__K4V8pFhf4) 2019/10/25
-* [/r/huion - Is there a way to attach the Huion Kamvas 16 2021 to a monitor arm?](https://www.reddit.com/r/huion/comments/oygb83/is_there_a_way_to_attach_the_huion_kamvas_16_2021/) 2021/08/05
+* [David Zhang - $25 vs. $300 Monitor Arm - What Stands Do I Recommend?](https://www.youtube.com/watch?v=__K4V8pFhf4) 2019-10-25
+* [/r/huion - Is there a way to attach the Huion Kamvas 16 2021 to a monitor arm?](https://www.reddit.com/r/huion/comments/oygb83/is_there_a_way_to_attach_the_huion_kamvas_16_2021/) 2021-08-05

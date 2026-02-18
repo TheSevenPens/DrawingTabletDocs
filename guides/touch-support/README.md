@@ -76,7 +76,7 @@ Likewise, I have heard that touch support improved with the Wacom Intuos Pro PTH
 
 ## Resources
 
-* [**r/wacom - Touch or No Touch?**](https://www.reddit.com/r/wacom/comments/rdhjud/touch_or_no_touch/) 2021/12/10&#x20;
-* [**r/wacom - Is wacom one display 13 touch any good?**](https://www.reddit.com/r/wacom/comments/18c6551/is_wacom_one_display_13_touch_any_good/) 2023/12/06 &#x20;
-* r[**/wacom - Thinking about getting the Wacom Cintiq 27 Touch. Is the touch screen feature worth it?**](https://www.reddit.com/r/wacom/comments/11wu7p5/thinking_about_getting_the_wacom_cintiq_27_touch/) 2023/03/20&#x20;
-* [**r/wacom - How do the touch-capable Wacom Cintiqs compare to the iPad Pro?**](https://www.reddit.com/r/wacom/comments/u9lk71/how_do_the_touchcapable_wacom_cintiqs_compare_to/) 2022/04/22&#x20;
+* [**r/wacom - Touch or No Touch?**](https://www.reddit.com/r/wacom/comments/rdhjud/touch_or_no_touch/) 2021-12-10&#x20;
+* [**r/wacom - Is wacom one display 13 touch any good?**](https://www.reddit.com/r/wacom/comments/18c6551/is_wacom_one_display_13_touch_any_good/) 2023-12-06 &#x20;
+* r[**/wacom - Thinking about getting the Wacom Cintiq 27 Touch. Is the touch screen feature worth it?**](https://www.reddit.com/r/wacom/comments/11wu7p5/thinking_about_getting_the_wacom_cintiq_27_touch/) 2023-03-20&#x20;
+* [**r/wacom - How do the touch-capable Wacom Cintiqs compare to the iPad Pro?**](https://www.reddit.com/r/wacom/comments/u9lk71/how_do_the_touchcapable_wacom_cintiqs_compare_to/) 2022-04-22&#x20;

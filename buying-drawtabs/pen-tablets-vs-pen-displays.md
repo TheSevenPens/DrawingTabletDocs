@@ -52,8 +52,8 @@ Some people worry that the quality of art they want to produce can only be produ
 
 <mark style="color:red;">**REALITY: Many people try a pen display and RETURN to using a pen tablet**</mark>
 
-* [Ariann Art - 7 Reasons Why I switched back from a display tablet to a Pen tablet](https://www.youtube.com/watch?v=rnW5O221e70) 2020/10/07
-* [Art by Sil - I Ditched My Screen Tablet — Here’s Why You Should Too](https://www.youtube.com/watch?v=Ti4u-Y6uuCM) 2025/03/25
+* [Ariann Art - 7 Reasons Why I switched back from a display tablet to a Pen tablet](https://www.youtube.com/watch?v=rnW5O221e70) 2020-10-07
+* [Art by Sil - I Ditched My Screen Tablet — Here’s Why You Should Too](https://www.youtube.com/watch?v=Ti4u-Y6uuCM) 2025-03-25
 
 ## Advice for first-time tablet users
 

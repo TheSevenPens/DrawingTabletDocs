@@ -68,4 +68,4 @@ If you wish to remove or reduce the yellowing consider using a retrobright proce
 
 ## Resources
 
-* [Draw your weapon - Old Wacom tablets? Still great for digital art](https://drawyourweapon.com/looking-at-old-wacom-drawing-tablet/) 2021/10/01
+* [Draw your weapon - Old Wacom tablets? Still great for digital art](https://drawyourweapon.com/looking-at-old-wacom-drawing-tablet/) 2021-10-01

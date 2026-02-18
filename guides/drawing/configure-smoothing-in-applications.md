@@ -12,8 +12,8 @@ If you don't see this setting click on the little wrench icon at the bottom righ
 
 In Krita, under Tool Options, use the **Brush Smoothing** options
 
-* [David Revoy - The Brush Stabilizer - Krita features explained](https://www.youtube.com/watch?v=r6-HnDT9GCs) 2024/03/01
-* [TutsByKai - HOW TO USE BRUSH SMOOTHING in Krita](https://youtu.be/7epKupnxIDA) 2020/04/29
+* [David Revoy - The Brush Stabilizer - Krita features explained](https://www.youtube.com/watch?v=r6-HnDT9GCs) 2024-03-01
+* [TutsByKai - HOW TO USE BRUSH SMOOTHING in Krita](https://youtu.be/7epKupnxIDA) 2020-04-29
 
 ![](<../../.gitbook/assets/image-000266.png>)
 

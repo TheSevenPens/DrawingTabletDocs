@@ -1,7 +1,7 @@
 # Appendix: References
 
 * \[1] About Wacom [https://www.wacom.com/en-us/about-wacom](https://www.wacom.com/en-us/about-wacom)&#x20;
-  * \[1a] [archived on 2023/03/24 ](https://archive.is/QVugm)
+  * \[1a] [archived on 2023-03-24 ](https://archive.is/QVugm)
 
 ## **Unsorted**
 
@@ -21,7 +21,7 @@
 
     * [https://en.wikipedia.org/wiki/Adobe\_Inc.](https://en.wikipedia.org/wiki/Adobe_Inc.)
 * **CalComp**
-  * [Tech Tangents - 90's CAD Digitizer and AutoCAD - CalComp DrawingBoard II](https://www.youtube.com/watch?v=QAy08gnA_14) 2022/10/19
+  * [Tech Tangents - 90's CAD Digitizer and AutoCAD - CalComp DrawingBoard II](https://www.youtube.com/watch?v=QAy08gnA_14) 2022-10-19
 * **HP**
   * [TechTangeents - HP CAD Digitizer - 9111A Graphics Tablet](https://www.youtube.com/watch?v=Kq6GO5nNoxM) - Aug 12, 2023
 * **Microsoft**
@@ -38,19 +38,19 @@
   * [https://en.wikipedia.org/wiki/Sketchpad](https://en.wikipedia.org/wiki/Sketchpad)&#x20;
 * **RAND Tablet**
   * [https://en.wikipedia.org/wiki/RAND\_Tablet](https://en.wikipedia.org/wiki/RAND_Tablet)&#x20;
-  * [Aaron Rutten - The RAND Tablet - The Evolution of Drawing Tablets](https://www.youtube.com/watch?v=gAav9dNp9R4) 2018/01/12
+  * [Aaron Rutten - The RAND Tablet - The Evolution of Drawing Tablets](https://www.youtube.com/watch?v=gAav9dNp9R4) 2018-01-12
 * **Sketchpad**
   * [https://en.wikipedia.org/wiki/Sketchpad](https://en.wikipedia.org/wiki/Sketchpad)&#x20;
 * **Wacom**
   * [https://en.wikipedia.org/wiki/Wacom](https://en.wikipedia.org/wiki/Wacom)&#x20;
   *
-  * [https://www.paintboxtv.com/wp-content/uploads/2012/11/2009-08-Wacom\_Art\_of\_Making\_Marks\_About\_How\_It\_All\_Started.pdf](https://www.paintboxtv.com/wp-content/uploads/2012/11/2009-08-Wacom_Art_of_Making_Marks_About_How_It_All_Started.pdf)
+  * [https://www.paintboxtv.com/wp-content/uploads/2012-11-2009-08-Wacom\_Art\_of\_Making\_Marks\_About\_How\_It\_All\_Started.pdf](https://www.paintboxtv.com/wp-content/uploads/2012-11-2009-08-Wacom_Art_of_Making_Marks_About_How_It_All_Started.pdf)
 * **KoalaPad**
   * [https://en.wikipedia.org/wiki/KoalaPad](https://en.wikipedia.org/wiki/KoalaPad)
 * **Apple**&#x20;
   * [https://en.wikipedia.org/wiki/IPad](https://en.wikipedia.org/wiki/IPad)
   * [https://en.wikipedia.org/wiki/Apple\_Pencil](https://en.wikipedia.org/wiki/Apple_Pencil)
-  * [https://www.edibleapple.com/2009/11/23/the-first-apple-tablet-from-1979/](https://www.edibleapple.com/2009/11/23/the-first-apple-tablet-from-1979/)
+  * [https://www.edibleapple.com/2009-11-23/the-first-apple-tablet-from-1979/](https://www.edibleapple.com/2009-11-23/the-first-apple-tablet-from-1979/)
 * **ProCreate**
   * [https://en.wikipedia.org/wiki/Procreate\_(software)](https://en.wikipedia.org/wiki/Procreate_\(software\))
 * **Huion**

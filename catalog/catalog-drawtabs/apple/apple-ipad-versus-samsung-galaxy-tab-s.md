@@ -11,9 +11,9 @@ Both of these kinds of devices can be successfully used for digital art, note ta
 
 ## Comparison videos
 
-* [Tech on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025/07/06 &#x20;
-* [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024/09/16
-* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024/05/23 &#x20;
+* [Tech on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025-07-06 &#x20;
+* [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024-09-16
+* [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024-05-23 &#x20;
 
 ## Drawing experience&#x20;
 

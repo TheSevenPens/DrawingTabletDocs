@@ -9,9 +9,9 @@ Another budget alternative is the XP-Pen Artist 13 GEN2.
 ## Links
 
 * User manual: [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)
-* [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) 2020/05/01
-* [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q_nhFQ) 2020/03/26
-* [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A) 2020/04/17
+* [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) 2020-05-01
+* [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q_nhFQ) 2020-03-26
+* [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A) 2020-04-17
 * [7P notes: Huion Kamvas 13 vs XP-Pen Artist 13 GEN2](../../../../recommendations/comparisons/2023-13inch-pen-displays-compared.md)
 
 ## Included pen

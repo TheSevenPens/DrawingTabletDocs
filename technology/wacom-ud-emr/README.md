@@ -6,7 +6,7 @@ Wacom pioneered the use of EMR technology in drawing tablets.Wacom sells Wacom-b
 
 ## Generations
 
-Based on this reddit post (r\TabletPCReview - ["Wacom UD EMR Stylus Compendium" ](https://www.reddit.com/r/TabletPCReview/comments/1dia8z8/wacom_ud_emr_stylus_compendium/)2024/06/17) there seem to be two "generations" of Wacom UD EMR
+Based on this reddit post (r\TabletPCReview - ["Wacom UD EMR Stylus Compendium" ](https://www.reddit.com/r/TabletPCReview/comments/1dia8z8/wacom_ud_emr_stylus_compendium/)2024-06-17) there seem to be two "generations" of Wacom UD EMR
 
 * 1st Generation - aka **"**&#x50;enabled" or  "TabletPC"
 * 2nd Generation - aka "Wacom feel", "Wacom feel IT" , "feel by Wacom" pen tech&#x20;
@@ -70,4 +70,4 @@ You can see this how it is used in these materials for an ASUS product.
 
 ## &#x20;Videos
 
-* [Teoh on Tech - Wacom (UD) EMR Pens Comparison Review](https://www.youtube.com/watch?v=QV_86xgl0E4) 2025/05/17
+* [Teoh on Tech - Wacom (UD) EMR Pens Comparison Review](https://www.youtube.com/watch?v=QV_86xgl0E4) 2025-05-17

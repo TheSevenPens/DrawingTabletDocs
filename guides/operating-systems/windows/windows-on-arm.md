@@ -8,17 +8,17 @@ We are now seeing Windows computers running on ARM processors. This holds gives 
 
 Windows on ARM devices require special ARM compatible tablet drivers. Below you'll see the current state of tablet drivers support for Windows on ARM.
 
-As of 2025/02/12:
+As of 2025-02-12:
 
 * **Xencelabs (ARM support available)**
-  * Separate ARM driver available since version 1.3.4-75 (released on 2024/09/27)
+  * Separate ARM driver available since version 1.3.4-75 (released on 2024-09-27)
     * NOTE: For Xencelabs the ARM driver is a separate download
   * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
 * **Wacom (ARM support available)**
-  * ARM support is available since driver version 6.4.9-2 (released on 2025/02/12)&#x20;
+  * ARM support is available since driver version 6.4.9-2 (released on 2025-02-12)&#x20;
   * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
 * **XP-Pen (ARM support available)**
-  * ARM support is available starting with driver version 4.0.6.241211 (released on 2025/01/14)
+  * ARM support is available starting with driver version 4.0.6.241211 (released on 2025-01-14)
   * I have tested this driver on an Windows 11 ARM PC and can confirm it works.
 * **Huion (ARM support in progress)**
   * Huion is actively working on an ARM driver.&#x20;

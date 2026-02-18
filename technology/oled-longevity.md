@@ -14,5 +14,5 @@ Personally, I think don't think enough time has passed to clearly have a positio
 
 ## Resources
 
-[Monitors Unboxed - Deliberately Burning In My QD-OLED Monitor - 18 Month Update](https://www.youtube.com/watch?v=whuHuM9h88M) 2025/09/09
+[Monitors Unboxed - Deliberately Burning In My QD-OLED Monitor - 18 Month Update](https://www.youtube.com/watch?v=whuHuM9h88M) 2025-09-09
 

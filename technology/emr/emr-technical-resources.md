@@ -7,7 +7,7 @@
   * [Lesics - The beauty of LC Oscillations!](https://youtu.be/2_y_3_3V-so)&#x20;
   * [The Organic Chemistry Tutor - LC Oscillator Tank Circuit](https://youtu.be/nh4q7mIhLrY) &#x20;
 * Drawing tablets
-  * [Digital Art Tablet Guides - The Insides of Some Tablet Pens!](https://digitalarttabletguides.wordpress.com/2019/03/21/a-note-about-tablet-pens/)  &#x20;
+  * [Digital Art Tablet Guides - The Insides of Some Tablet Pens!](https://digitalarttabletguides.wordpress.com/2019-03-21/a-note-about-tablet-pens/)  &#x20;
   * [rukozhop - This video shows the internals of a Huion PW100 pen](https://youtu.be/21LObZYVyLs) &#x20;
   * [Satoshi Uchino, et al - A full integration of electromagnetic resonance sensor and capacitive touch sensor into LCD](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/jsid.777)
   * [https://junyichen083.commons.gc.cuny.edu/technical-description/](https://junyichen083.commons.gc.cuny.edu/technical-description/)

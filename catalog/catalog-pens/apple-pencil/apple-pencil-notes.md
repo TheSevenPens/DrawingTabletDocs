@@ -50,7 +50,7 @@ Apple pencil uses a proprietary protocol that we believe is similar to Wacom AES
 
 All EMR drawing tablet pens support hover. But only The Apple Pencil Pro supports hover.
 
-* [Adam Duff - Apple Pencil Hover Is a Big Deal For Artists](https://www.youtube.com/watch?v=ZpcKfipVy24) 2022/11/01
+* [Adam Duff - Apple Pencil Hover Is a Big Deal For Artists](https://www.youtube.com/watch?v=ZpcKfipVy24) 2022-11-01
 
 ## **Surface Texture**
 
@@ -98,7 +98,8 @@ Some people notice that the Apple Pencil is very prone to hooked lines at the st
 
 This is an effect that can happen with drawing tablet pens also. It is unclear if the Apple Pencil does this more often than EMR pens.
 
-No buttons
+
+No buttons
 ----------
 
 * Apple Pencil does not have buttons like a normal drawing tablet pen

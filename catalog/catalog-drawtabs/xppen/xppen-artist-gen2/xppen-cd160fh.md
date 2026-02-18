@@ -7,9 +7,9 @@ Overall decent tablet for an entry level 16" pen display. It does have a a very 
 ## Links
 
 * Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)&#x20;
-* [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) 2022/06/01
-* [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8_Ng) 2022/05/26
-* [Teoh on Tech: XP-Pen Artist 16 GEN2 Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) 2022/06/06
+* [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) 2022-06-01
+* [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8_Ng) 2022-05-26
+* [Teoh on Tech: XP-Pen Artist 16 GEN2 Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) 2022-06-06
 
 ## Diagonal wobble
 

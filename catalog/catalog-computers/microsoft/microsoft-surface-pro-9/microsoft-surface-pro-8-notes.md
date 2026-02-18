@@ -11,7 +11,7 @@ If you are looking for running Windows desktop apps on a standalone tablet for n
 ## Basics
 
 * [https://en.wikipedia.org/wiki/Surface\_Pro\_8](https://en.wikipedia.org/wiki/Surface_Pro_8)
-* Release date: 2021/09/22
+* Release date: 2021-09-22
 * Processor: 3 options&#x20;
   * Intel Core i7-1185G7
   * Intel Core i5-1135G7

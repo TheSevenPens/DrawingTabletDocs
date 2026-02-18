@@ -46,4 +46,4 @@ There are computer desks that are made of metal and deliberately magnetized. The
 
 Some iPad Cases have magnets in them and they can interfere with the proper functioning of an Apple Pencil.&#x20;
 
-[/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/) 2024/06/05
+[/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/) 2024-06-05

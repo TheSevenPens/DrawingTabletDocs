@@ -25,7 +25,7 @@ Wacom released the Intuos series of professional pen tablets in 1998.
 ## Links
 
 * [S-Config - Original Wacom GD-0912-R on Windows 7 x64 ](https://www.s-config.com/original-wacom-gd-0912-r-on-windows-7-x64/)([archive](https://archive.is/oeUFc))
-* [EyekooDrawsStuff - review of Intuos 12x12 (GD-1212-U)](https://www.youtube.com/watch?v=eXgcuOzg1-M) 2021/10/27
+* [EyekooDrawsStuff - review of Intuos 12x12 (GD-1212-U)](https://www.youtube.com/watch?v=eXgcuOzg1-M) 2021-10-27
 
 ## Name
 

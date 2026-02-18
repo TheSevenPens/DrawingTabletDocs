@@ -56,7 +56,7 @@ See: [**Using barrel rotation with your brush**](pen-barrel-rotation/using-barre
 
 ## Videos
 
-* [Revels Atelier - Hurry! Get the Wacom Art Pen before it's gone!](https://www.youtube.com/watch?v=TgHw40QTV9s) 2024/04/25
+* [Revels Atelier - Hurry! Get the Wacom Art Pen before it's gone!](https://www.youtube.com/watch?v=TgHw40QTV9s) 2024-04-25
 
 
 
