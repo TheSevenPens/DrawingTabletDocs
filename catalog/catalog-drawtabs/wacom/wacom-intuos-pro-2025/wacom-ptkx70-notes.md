@@ -88,13 +88,15 @@ One of the interesting design touches, is a slight texture on the non-drawing su
 
 Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
-<figure><img src="../../../../.gitbook/assets/image-000670.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000670.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## Included pen
+## Pen
+
+### Included pen
 
 The tablet comes with the Pro Pen 3 (ACP-500). [**My detailed notes on this pen**](../../../catalog-pens/wacom-pens/wacom-acp500-notes.md)
 
-## The tablet only comes with 1 pen
+### The tablet only comes with 1 pen
 
 This is a little bit of a disappointment. Some other brands are starting to include 2 pens with some of their professional models.
 
@@ -105,21 +107,20 @@ For example, as of April 2025, here is a **partial** list of tablets that come w
 * Huion Kamvas Pro 27
 * XP-Pen Artist Pro 19 GEN2
 
-## Core specs
+## Digitizer specs
 
 * Pressure levels - 8192
 * Digitizer resolution - 5080 LPI (200 LPmm)
 * Tilt - Yes
 * Tilt range - ± 60°
 * Report rate - Unknown – will investigate
+* Barrel rotation - YES. Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.
 
-## Barrel rotation
+## Drawing experience
 
-Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.
+### Summary
 
-## Drawing performance
-
-**Summary:** The drawing performance is excellent and keeps the same quality as the previous Intuis Pro 2017 edition.
+The drawing performance is excellent and keeps the same quality as the previous Intuis Pro 2017 edition.
 
 ### Moving between high and low pressure worked well
 
@@ -131,33 +132,33 @@ EVALUATION: Very good. Low amount of diagonal wobble. Similar to Intuos Pro 2017
 
 <figure><img src="../../../../.gitbook/assets/image-000172.png" alt=""><figcaption></figcaption></figure>
 
-## Tilt compensation
+### Tilt compensation
 
 EVALUATION: VERY GOOD
 
 Even as I tilted the pen at different angles, the pointer did not deflect much from the tip of the pen.
 
-## Pointer lag
+### Pointer lag
 
 EVALUATION: VERY GOOD (VERY LOW)
 
 As expected, the pointer trailed the physical tip of the only by a little bit. It was about the same as the pointer lag of the Intuos Pro 2017 model. In general, Wacom has excellent, low pointer lag in their pen tablets.
 
-## Artifacts at low pressure
+### Artifacts at low pressure
 
 EVALUATION: TYPICAL. When using large brushes and drawing at very light pressure you may notice a lot of instability in the pressure. This is normal for Wacom Intuos Pro (and many other tablets and pens). You can use pressure curves and pressure smoothing to minimize these issues if you encounter them.
 
 Keep in mind this is a very extreme test. Normally you should not notice these issues.
 
-<figure><img src="../../../../.gitbook/assets/image-000693.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000693.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000694.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000694.png" alt="" width="563"><figcaption></figcaption></figure>
 
 These were the pressure curves and pressure smoothign amounts (in Krita) that controlled that behavior.
 
-<figure><img src="../../../../.gitbook/assets/image-000695.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000695.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## Auxiliary inputs
+## Non-pen inputs
 
 ### Multitouch
 
@@ -173,7 +174,7 @@ Though do be aware that the number of ExpressKeys and dials depends on which siz
 
 <figure><img src="../../../../.gitbook/assets/image-000672.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## Accidentally pressing the ExpressKeys and dials
+### Accidentally pressing the ExpressKeys and dials
 
 It is possible to accidentally hit he ExpressKeys and dials depending on how the tablet is configured on your keyboard.
 
@@ -197,16 +198,6 @@ It is possible to accidentally hit he ExpressKeys and dials depending on how the
 
 **I did accidentally hit the ExpressKeys when I meant to hit the dial and vice versa**. They are very similar in size, shape, and close together. Often I reached and touched the wrong one. Over time I may have been to train my brain a bit better.
 
-## Hand placement
-
-Another topic that comes up with the expresskeys is how the hand that uses the expresskey is placed on the tablet.
-
-With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without covering the active area.
-
-<figure><img src="../../../../.gitbook/assets/image-000576 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-However with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drtawing hand out of the way much more often.
-
 <figure><img src="../../../../.gitbook/assets/image-000578 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Usage notes on dials
@@ -216,6 +207,28 @@ However with the Intuos Pro 2025, the non-drawing hand will cover some part of t
 * The dials do not rotate too easily nor do they require too much force to rotate.
 
 ## Usage notes on ExpressKeys
+
+* It is not obvious in pictures but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
+
+## Ergonomics
+
+### Hand placement
+
+Another topic that comes up with the expresskeys is how the hand that uses the expresskey is placed on the tablet.
+
+With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without covering the active area.
+
+<figure><img src="../../../../.gitbook/assets/image-000576 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+However with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drtawing hand out of the way much more often.
+
+### Usage notes on dials
+
+* Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.
+* The dials feel nice to rotate. Rotating produces soft click feeling and small sound.
+* The dials do not rotate too easily nor do they require too much force to rotate.
+
+### Usage notes on ExpressKeys
 
 * It is not obvious in pictures but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
 
