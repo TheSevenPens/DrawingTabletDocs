@@ -4,6 +4,8 @@
 
 <mark style="color:red;">**These notes are in progress**</mark>
 
+User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)&#x20;
+
 ## Digitizer specs
 
 * Active area:
