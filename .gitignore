@@ -1,1 +1,3 @@
 scripts-output/*
+scripts/obj/*
+scripts/bin/*

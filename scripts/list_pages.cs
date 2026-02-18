@@ -95,7 +95,35 @@ static void ListPages(string rootDir, string outputFile)
 
                 if (!string.IsNullOrEmpty(cleanLink))
                 {
-                    pages.Add(cleanLink);
+                    string title = "Unknown Title";
+                    try
+                    {
+                        var fullPath = Path.Combine(rootDir, cleanLink);
+                        
+                        // Handle potential directory links (e.g. buying-drawtabs/) -> buying-drawtabs/README.md
+                        if (Directory.Exists(fullPath))
+                        {
+                            fullPath = Path.Combine(fullPath, "README.md");
+                        }
+
+                        if (File.Exists(fullPath))
+                        {
+                            foreach (var fileLine in File.ReadLines(fullPath))
+                            {
+                                if (fileLine.TrimStart().StartsWith("# "))
+                                {
+                                    title = fileLine.TrimStart().Substring(2).Trim();
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                    catch
+                    {
+                        // Ignore errors reading individual files
+                    }
+
+                    pages.Add($"{cleanLink} - {title}");
                 }
             }
         }
