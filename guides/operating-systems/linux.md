@@ -48,6 +48,10 @@ Has drivers for some models
 
 Often, people prefer to use OpenTabletDriver for tablets on Linux. This is especially popular in the osu community.
 
+## Do you use Arch, btw?
+
+* [ALCC - Part 6: Creating Art on Arch Linux](https://www.youtube.com/watch?v=7jcb4p-FmUU) 2026/02/10
+
 ## Resources
 
 * [MossCharmly - HUION Tablets (Kamvas 16 (2.5k) on LINUX (POP\_os)](https://www.youtube.com/watch?v=ibuH-hGkmdI) - 2023/05/13
