@@ -15,7 +15,7 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 * Wacom Cintiq 16 2025 (DTK-168)
 * Wacom Cintiq Pro 17 (DTH-172) \[[**links**](../../catalog/drawtabs/wacom/wacom-cintiq-pro/)]
 * Wacom Cintiq Pro 16 (DTH-167) \[[**notes**](../../catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth167-notes.md)]
-* Huion Kamvas Pro 19 (GT1902) \[[**notes**](../../catalog/drawtabs/huion/huion-kamvas-pro/huion-gt1902-notes/)]
+* Huion Kamvas Pro 19 (GT1902) \[[**notes**](../../catalog/drawtabs/huion/huion-kamvas-pro/huion-gt1902-notes.md)]
 *
 
 ## VERY GOOD
