@@ -2,17 +2,17 @@
 
 ## Overview
 
-This is a list of some prominent apps for Android devices. If you want to see a larger list for all kinds of devices go here: [**List of apps**](list-of-apps.md).
+This is a list of some prominent apps for Android devices. If you want to see a larger list for all kinds of devices go here: [List of apps](list-of-apps.md).
 
 ## Popular apps for Android
 
-* [**Clip Studio Paint**](../catalog/apps/clip-studio-paint/)
-* [**Ibis Paint**](../catalog/apps/ibis-paint.md)
-* [**HiPaint**](../catalog/apps/hipaint.md)
-* [**Krita**](../catalog/apps/krita/)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint/)
+* [Ibis Paint](../catalog/apps/ibis-paint.md)
+* [HiPaint](../catalog/apps/hipaint.md)
+* [Krita](../catalog/apps/krita/)
 * [**ArtFlow Studio**](http://artflowstudio.com/)
-* [**Infinite Painter**](apps-for-android.md#infinite-painter)
-* [**Concepts**](../catalog/apps/concepts-app.md)
+* [Apps for Android](apps-for-android.md#infinite-painter)
+* [Concepts app](../catalog/apps/concepts-app.md)
 * **Sketchbook**
 
 ## Videos

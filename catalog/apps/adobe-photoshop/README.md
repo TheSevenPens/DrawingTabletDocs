@@ -2,7 +2,7 @@
 
 ## Basics
 
-* [**notes on this app**](adobe-photoshop-notes.md)&#x20;
+* [Adobe Photoshop notes](adobe-photoshop-notes.md)&#x20;
 * [https://www.adobe.com/creativecloud/business/teams/photoshop.html](https://www.adobe.com/creativecloud/business/teams/photoshop.html)
 
 ## Learning how to use Photoshop

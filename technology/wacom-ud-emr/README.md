@@ -28,8 +28,8 @@ So, identification of UD EMR 2nd gen pens has to done on a case-by-case basis.
 
 ## UD EMR 2nd gen adoption&#x20;
 
-* [Tablets that support UD EMR](tablets-that-support-ud-emr-2nd-gen.md)
-* [Pens that support UD EMR](pens-that-support-ud-emr-2nd-gen.md)
+* [Tablets that support UD EMR 2nd gen](tablets-that-support-ud-emr-2nd-gen.md)
+* [Pens that support UD EMR 2nd gen](pens-that-support-ud-emr-2nd-gen.md)
 
 ## Pen & tablet compatibility for UD EMR 2nd gen
 

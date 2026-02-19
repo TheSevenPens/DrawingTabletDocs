@@ -21,4 +21,4 @@ For pen tablets I always suggest mapping to a single monitor AND enabling displa
 
 ## Multiple monitors
 
-As always, I recommend you turn on Force Proportions. This is ensure that you aren't drawing distorted strokes when switching between displays. More here: [Force Proportions](../../guides/customizing/force-proportions.md)
+As always, I recommend you turn on Force Proportions. This is ensure that you aren't drawing distorted strokes when switching between displays. More here: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md)

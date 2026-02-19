@@ -6,13 +6,13 @@ There are a lot of digital pen technologies out there. Drawing tablets use EMR b
 
 ## EMR&#x20;
 
-Traditional drawing tablets ALL use **EMR (Electromagnetic Resonance)** More here: [**EMR**](emr/). It is also used prominently by some mobile devices such as Samsung Galaxy Tab S series tablets. We believe that EMR overall offers the best drawing experience.&#x20;
+Traditional drawing tablets ALL use **EMR (Electromagnetic Resonance)** More here: [EMR](emr/). It is also used prominently by some mobile devices such as Samsung Galaxy Tab S series tablets. We believe that EMR overall offers the best drawing experience.&#x20;
 
 ## NON-EMR
 
-* **Active Electrostatic (AES)** - Used by many mobile devices. More here: [**AES**](aes.md)&#x20;
-* **Apple Pencil tech** - Used only by Apple devices: More here: [**Apple Pencil tech**](apple-pencil-tech.md)  &#x20;
-* **Microsoft Pen Protocol (MPP)** - Used by Microsoft surface devices and a few others: [**MPP**](mpp.md)&#x20;
+* **Active Electrostatic (AES)** - Used by many mobile devices. More here: [AES](aes.md)&#x20;
+* **Apple Pencil tech** - Used only by Apple devices: More here: [Apple Pencil tech](apple-pencil-tech.md)  &#x20;
+* **Microsoft Pen Protocol (MPP)** - Used by Microsoft surface devices and a few others: [MPP](mpp.md)&#x20;
 * **N-Trig** - Used by some older Microsoft surface models
 
 ## Reddit threads

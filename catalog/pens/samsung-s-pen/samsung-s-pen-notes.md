@@ -13,7 +13,7 @@ RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing 
 ## Basics
 
 * [https://en.wikipedia.org/wiki/S\_Pen](https://en.wikipedia.org/wiki/S_Pen)
-* Think about this potential upgrade: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](upgrading-to-wacom-one-pen-cp-913.md)
+* Think about this potential upgrade: [Upgrading to Wacom One Pen (CP-913)](upgrading-to-wacom-one-pen-cp-913.md)
 
 ### Links
 
@@ -27,7 +27,7 @@ RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing 
 
 ### Different versions
 
-There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [**notes on the Galaxy Tab S series**](../../drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md).
+There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [Samsung Galaxy Tab S series notes](../../drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md).
 
 * S Pen that comes with the Samsung Galaxy Tab S tablets
 * S Pen that comes with the Samsung Galacy S phones
@@ -76,7 +76,7 @@ The S Pen has one physical button, unlike the Apple iPad. This also differs from
 
 The S pen uses EMR tech - specifically they use Wacom UD EMR.
 
-Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [**Wacom UD EMR**](../../../technology/wacom-ud-emr/).
+Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [Wacom UD EMR](../../../technology/wacom-ud-emr/).
 
 ## **Other S Pen versions**
 
@@ -86,7 +86,7 @@ I can't speak to all of them, just the ones that came with Galaxy Tab S series.
 
 ## Upgrading to a better pen
 
-Consider: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](upgrading-to-wacom-one-pen-cp-913.md)
+Consider: [Upgrading to Wacom One Pen (CP-913)](upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Reddit threads
 

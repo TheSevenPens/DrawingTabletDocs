@@ -27,7 +27,7 @@ Related video: Why you need to install tablet drivers: [https://www.youtube.com/
 
 ## Using a tablet without installing drivers
 
-In **some** cases it is possible to use a tablet without drivers. More here: [Using a tablet without installing drivers](using-a-drawing-tablet-without-installing-drivers.md).
+In **some** cases it is possible to use a tablet without drivers. More here: [Using a drawing tablet without installing drivers](using-a-drawing-tablet-without-installing-drivers.md).
 
 ## Driver compatibility with multiple tablets
 
@@ -43,5 +43,5 @@ Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/
 
 * An alternative to manufacturer-provided drivers is **OpenTabletDriver** ([https://opentabletdriver.net/](https://opentabletdriver.net/))
 * If you want to try OpenTabletDriver:
-  * [**Install OpenTabletDriver on Windows**](opentabletdriver/otd-windows-install.md)
-  * [**Install OpenTabletDriver on MacOS**](opentabletdriver/otd-macos-install.md)
+  * [Install OpenTabletDriver on Windows](opentabletdriver/otd-windows-install.md)
+  * [Using OpenTabletDriver on MacOS](opentabletdriver/otd-macos-install.md)

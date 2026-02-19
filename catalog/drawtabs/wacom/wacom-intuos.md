@@ -22,11 +22,11 @@ Currently "Intuos" refers to a consumer line of Wacom pen tablets. However, it "
 
 For those professional Intuos tablets go here:
 
-* [Intuos5](wacom-intuos5.md)
-* [Intuos4](wacom-intuos4/)
-* [Intuos3](wacom-intuos3.md)
-* [Intuos2](wacom-intuos2.md)
-* [Intuos1](wacom-intuos1.md)
+* [Wacom Intuos5](wacom-intuos5.md)
+* [Wacom Intuos4](wacom-intuos4/)
+* [Wacom Intuos3](wacom-intuos3.md)
+* [Wacom Intuos2](wacom-intuos2.md)
+* [Wacom Intuos1](wacom-intuos1.md)
 
 ## Digitizer specs
 
@@ -47,7 +47,7 @@ These tablets come with LP-1100K pen
 
 ## Pen compatibility
 
-These tables are ONLY compatible with the Wacom 4K Pen (LP-1100K) pen. See [notes on LP-1100K pen](../../pens/wacom-pens/wacom-lp1100k-notes.md).
+These tables are ONLY compatible with the Wacom 4K Pen (LP-1100K) pen. See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../pens/wacom-pens/wacom-lp1100k-notes.md).
 
 ## -pen inputs
 

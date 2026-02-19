@@ -14,7 +14,7 @@ Checking these things will save you a lot of headaches and disappointment later 
 
 ## Getting prepared for functional testing
 
-To test that the tablet actually works, you'll need to set it up. Follow this guide: [**Get started with a drawing tablet**](../basics/getting-started.md).
+To test that the tablet actually works, you'll need to set it up. Follow this guide: [Getting started with a drawing tablet](../basics/getting-started.md).
 
 Then install any applications you need. I strongly suggest installing Krita from Krita.org. It's free and behaves consistently, making it an ideal application for testing drawing tablet functionality. Even if you don't plan to use Krita regularly, it's a very useful troubleshooting tool.
 
@@ -67,5 +67,5 @@ Take your pen and move it around the surface.
 
 There should be no rough patches and no cuts or scratches deep enough to feel through the pen. More here:&#x20;
 
-* [surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
-* [surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)&#x20;
+* [Surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
+* [Surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)&#x20;

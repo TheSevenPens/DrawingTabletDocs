@@ -11,7 +11,7 @@ How well touch works also depends strongly on the device - and the operating sys
 
 ## Adoption of touch in drawing tablets
 
-Here is list all the tablets I know of that support touch: [**Tablets that support touch**](tablets-that-support-touch.md)
+Here is list all the tablets I know of that support touch: [Tablets that support touch](tablets-that-support-touch.md)
 
 ## **Overall satisfaction with touch**
 
@@ -62,7 +62,7 @@ All tablets that have touch allow a user to disable touch support
 
 **Drawing gloves to help with palm rejection.**
 
-Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../../catalog/accessories/drawing-gloves.md).
+Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [Drawing gloves](../../catalog/accessories/drawing-gloves.md).
 
 ## **My own use of touch**
 

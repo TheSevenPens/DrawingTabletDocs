@@ -18,7 +18,7 @@ If you click on Older versions you'll find a small list of older driver versions
 
 ## Option 2: SevenPens list of Wacom drivers
 
-More here: [SevenPens Wacom Driver list](../../resources/sevenpens-wacom-driver-list.md)
+More here: [SevenPens Wacom Driver List](../../resources/sevenpens-wacom-driver-list.md)
 
 This tool provide a single list of links to many older wacom drivers that are hosted on wacom.com or archive.org.
 

@@ -6,7 +6,7 @@ We would all like to have completely brand new equipment. However, used tablets 
 
 ## My experience with used drawing tablets
 
-I have bought and worked with MANY used drawing tablets — 26 used tablets as of April 2024. You can see the full list here: [my tablets](../about-sevenpens/inventory.md)
+I have bought and worked with MANY used drawing tablets — 26 used tablets as of April 2024. You can see the full list here: [Tablet inventory](../about-sevenpens/inventory.md)
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used. I own many used pen tablets, some over 25 years old that still work.
 * **pen displays** - I have purchased one used pen display.
@@ -22,7 +22,7 @@ In particular, you may need to use older drivers. This comes with its own set of
 
 ## Which brands to buy used
 
-Wacom products have always been the most reliable and highest quality. Even going back many years, their models hold up well. Because Wacom professional pen tablets are the very highest quality, they make great choices for buying used. More here: [drawing tablet brands](../drawtab-brands/)
+Wacom products have always been the most reliable and highest quality. Even going back many years, their models hold up well. Because Wacom professional pen tablets are the very highest quality, they make great choices for buying used. More here: [Brands](../drawtab-brands/)
 
 ## Used Wacom Intuos professional tablets
 
@@ -58,12 +58,12 @@ It may be worth asking the seller how clean the tablet is.
 
 ## Alternative to Wacom drivers for older tablets
 
-* If you have an older tablet and need a driver, check out [**OpenTabletDriver**](../guides/drivers/opentabletdriver/)
-* For creative work in Windows, see [**Using OpenTabletDriver on Windows for drawing**](../guides/drivers/opentabletdriver/otd-windows-install.md)
+* If you have an older tablet and need a driver, check out [OpenTabletDriver](../guides/drivers/opentabletdriver/)
+* For creative work in Windows, see [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/otd-windows-install.md)
 
 ## Testing a tablet before you buy
 
-If you have the opportunity to examine the tablet before deciding to buy, here are some things to check: [Inspecting a tablet](inspecting-a-drawtab.md).
+If you have the opportunity to examine the tablet before deciding to buy, here are some things to check: [Inspecting a drawing tablet](inspecting-a-drawtab.md).
 
 ## Buying online
 
@@ -81,7 +81,7 @@ You can find many tablets on eBay. I've had a good experience with the 25+ table
 
 ## Verifying the model you are buying
 
-You must be extra careful to verify you are purchasing the correct tablet. Always verify the MODEL NUMBER, not just the name. The importance of using the model number is explained here: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md). If the seller is unsure of the model number, see this article: [Finding the model number of a drawing tablet](../guides/general/finding-tablet-model-number.md)
+You must be extra careful to verify you are purchasing the correct tablet. Always verify the MODEL NUMBER, not just the name. The importance of using the model number is explained here: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md). If the seller is unsure of the model number, see this article: [Finding the model number of your drawing tablet](../guides/general/finding-tablet-model-number.md)
 
 Don't rely on the model number in the listing title — always check photos of the actual product from the seller.
 
@@ -101,12 +101,12 @@ A used tablet's surface might be nearly pristine or it might show significant we
 
 * Ideally, get one that is not heavily worn.
 * Small scratches are OK if they can't be felt through the pen.
-* Larger scratches will interfere with your drawing. You may be able to mitigate this with surface protection. More here: [Surface protectors](../catalog/accessories/surface-protectors/)
+* Larger scratches will interfere with your drawing. You may be able to mitigate this with surface protection. More here: [Surface protection](../catalog/accessories/surface-protectors/)
 
 More here:
 
-* [surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
-* [surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)
+* [Surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
+* [Surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)
 
 ## Pens
 
@@ -119,7 +119,7 @@ If you need to buy a pen or you break your pen, be aware that:
 * Replacement pens can be incredibly hard to find on the used market.
 * On the used market, sellers rarely sell the pen by itself. You may even have to purchase another tablet just to get a compatible pen. I've personally had to do this.
 
-More here: [**Replacing a pen**](../guides/maintaining-your-drawing-tablet/replacing-a-pen.md)
+More here: [Replacing a pen](../guides/maintaining-your-drawing-tablet/replacing-a-pen.md)
 
 ## Bite marks on pens
 

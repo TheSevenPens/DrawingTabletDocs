@@ -50,7 +50,7 @@ Often, people prefer to use OpenTabletDriver for tablets on Linux. This is espec
 
 ## WINE notes
 
-* A note from [tablet kitten](../../resources/community/tablet-kitten.md) - WINE builds with wow64 have a broken wintab32&#x20;
+* A note from [Tablet kitten](../../resources/community/tablet-kitten.md) - WINE builds with wow64 have a broken wintab32&#x20;
 
 ## Links
 

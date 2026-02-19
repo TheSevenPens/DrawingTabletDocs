@@ -4,7 +4,7 @@
 
 Even your pens may deserve some amount of protection. As I've mentioned many times if you drop your pen especially with the nib hitting the floor you can really damage your pen irreparably.
 
-If you need cases for your drawing tablets: [**Protective cases for drawing tablets**](tablet-cases.md)
+If you need cases for your drawing tablets: [Tablet cases](tablet-cases.md)
 
 ## Options
 

@@ -6,9 +6,9 @@ As I've gotten a chance to use open tablet driver here are some notes I've colle
 
 ## Links
 
-* [OpenTabletDriver - an introduction](./)
+* [OpenTabletDriver](./)
 * [Install OpenTabletDriver on Windows](otd-windows-install.md) &#x20;
-* [Install OpenTabletDriver on MacOS](otd-macos-install.md)
+* [Using OpenTabletDriver on MacOS](otd-macos-install.md)
 
 ## Use the OTD discord to get help
 
@@ -29,7 +29,7 @@ As I've gotten a chance to use open tablet driver here are some notes I've colle
   * OTD does NOT support wireless or Bluetooth connections.
   * OTD does NOT support per-application configuration. All OTD settings are system-wide.
 * Features that a typical driver has, and OTD does not have built-in, but for which you can use OTD plug-ins to achieve the same result.
-  * OTD does not have a built in pressure curve, for that you should use an OTD plug-in like Slimy Scylla.   [**Pressure curves in OpenTabletDriver**](otd-pressure-curves.md)
+  * OTD does not have a built in pressure curve, for that you should use an OTD plug-in like Slimy Scylla.   [Pressure curves in OpenTabletDriver](otd-pressure-curves.md)
 
 ## **OpenTabletDriver on Windows**
 

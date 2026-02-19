@@ -10,8 +10,8 @@ The Intuos 5 series was the last time Wacom used "Intuos" only to mean professio
 
 * Release year: 2012
 * Intuos pro generation: 5th gen
-* Preceded by: [Intuos4](wacom-intuos4/)
-* Succeeded by: [Intuos Pro 2013](wacom-intuos-pro-2013.md)
+* Preceded by: [Wacom Intuos4](wacom-intuos4/)
+* Succeeded by: [Wacom Intuos Pro 2013](wacom-intuos-pro-2013.md)
 * User manual
   * [Intuos5 User Manual](https://cdn.wacom.com/f/manuals/en/intuos5-users-manual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5810702))
 * Last supported driver

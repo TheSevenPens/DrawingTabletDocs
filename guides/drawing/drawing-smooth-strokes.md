@@ -13,7 +13,7 @@ Smooth can mean different things for a stroke.
 
 The tablet and driver are components that can contribute to strokes that aren't as smooth as you would like
 
-* All tablets have a degree of [diagonal wobble](../../core-features/diagonal-wobble.md) that can appear in your stroke.
+* All tablets have a degree of [Diagonal wobble](../../core-features/diagonal-wobble.md) that can appear in your stroke.
 * Tablet sometimes exhibit a little bit of "noise" in their stroke. This noise is similar to wobble in that it deviates from a smooth line, but it does so in a more random way.
 * The surface of a tablet may be too smooth and this can cause the pen to easily "slip" away from your intended path.
 
@@ -24,7 +24,7 @@ You are user and your drawing style can affect the smoothness of a stroke
 
 ## <mark style="color:red;">For pen tablets (screenless tablets), use Force Proportions to match aspect ratios!!!</mark>
 
-If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [**Use Force Proportions to match aspect ratios**](../customizing/force-proportions.md).
+If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [Matching aspect ratios with Force Proportions](../customizing/force-proportions.md).
 
 Please do check for this. Many people have been using their tablets for years with mismatched aspect ratios and when they make the ratios match it is a BIG DIFFERENCE in their ability to draw strokes correctly.
 
@@ -39,7 +39,7 @@ Consider how you hold you pen. Different techniques of holding your pen can affe
 
 Using a digital; pen on a very smooth tablet surface can result in the pen feeling "slippery" as you draw. And so the pen often seems to "slide away" from the intended path of the stroke you are trying to make. This is a common complain for iPads because an iPad's surface if very smooth glass.
 
-Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../catalog/accessories/surface-protectors/).
+Consider buying a protective sheet to increase the surface texture a bit. See: [Surface protection](../../catalog/accessories/surface-protectors/).
 
 ## Use a felt nib
 
@@ -71,7 +71,7 @@ Use zoom to your advantage. The stroke is affected several things which are phys
 
 ## Use your tablet's precision mode
 
-Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [**Precision mode**](../customizing/using-precision-mode.md).
+Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [Precision mode](../customizing/using-precision-mode.md).
 
 ## Zooming in vs precision mode
 

@@ -1,6 +1,6 @@
 # Bezel
 
-The bezel of a drawing tablet is essentially all the area on the surface of the drawing tablet that is not the [active area](active-area/).
+The bezel of a drawing tablet is essentially all the area on the surface of the drawing tablet that is not the [Active area](active-area/).
 
 For many devices such a phones and TVs, people make a big deal about having the smallest bezels possible. For drawing tablets, it is good to have a wide bezel.
 

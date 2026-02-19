@@ -4,7 +4,7 @@
 
 These PW550 series of pens offer some of the improvements that made it into the PW600 series of pens in terms of pressure handling.
 
-If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen instead. See: [**Upgrading from Huion PW517 to Huion PW550 pens**](upgrading-from-pw517-to-pw550.md)
+If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen instead. See: [Upgrading from PW517 to PW550](upgrading-from-pw517-to-pw550.md)
 
 ## Links
 

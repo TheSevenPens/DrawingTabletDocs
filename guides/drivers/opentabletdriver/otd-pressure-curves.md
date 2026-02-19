@@ -6,7 +6,7 @@ OpenTabletDriver lets you configure the pressure curve via plug-ins.
 
 ## Installing the Slimy Scylla plug-in
 
-Instructions for installing Slimy Scylla are here: [**Slimy Scylla**](otd-plugin-slimyscylla.md)
+Instructions for installing Slimy Scylla are here: [Slimy Scylla](otd-plugin-slimyscylla.md)
 
 ## Configuring the pressure curve
 

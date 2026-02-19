@@ -10,7 +10,7 @@ By default, **I recommend you use Windows Ink** unless something forces you to u
 
 If you use WinTab I suggest you only use it for a specific application.
 
-To learn how to configure Windows Ink. [**Windows Ink**](../guides/operating-systems/windows/winink/)&#x20;
+To learn how to configure Windows Ink. [Windows Ink](../guides/operating-systems/windows/winink/)&#x20;
 
 ## For developers
 

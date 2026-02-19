@@ -12,7 +12,7 @@ As always I recommend before purchasing any pen, you should <mark style="color:r
 
 ## My notes on selected pens
 
-* [X3 Pro page](https://www.xp-pen.com/store/buy/x3-pro-stylus.html)  ([**notes on this pen**](xppen-x3pro-pen.md))
+* [X3 Pro page](https://www.xp-pen.com/store/buy/x3-pro-stylus.html)  ([XP-Pen X3 Pro pens](xppen-x3pro-pen.md))
 
 
 

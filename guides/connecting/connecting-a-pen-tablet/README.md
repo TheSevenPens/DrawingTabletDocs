@@ -2,7 +2,7 @@
 
 ## Overview
 
-All pen tablets connect to a computer with a USB cable. Some pen tablets ALSO connect to a computer wirelessly - almost always Bluetooth. See: [**Wireless connection**](wireless-connection.md)
+All pen tablets connect to a computer with a USB cable. Some pen tablets ALSO connect to a computer wirelessly - almost always Bluetooth. See: [Wireless connection](wireless-connection.md)
 
 ## Wired vs Wireless
 
@@ -18,7 +18,7 @@ Modern pen tablets all have a standard USB-C port flush with the edge of the tab
 
 Older pen tablets may use micro-USB ports. Some even older tablets, have the cable permanently affixed to the tablet. An example is the Wacom Intuos 4 XL.
 
-If you want to use 3rd party cables, learn more here: [**Using 3rd-party cables with your drawing tablet**](../using-3rd-party-cables-with-your-drawing-tablet/).
+If you want to use 3rd party cables, learn more here: [Using 3rd-party cables with your drawing tablet](../using-3rd-party-cables-with-your-drawing-tablet/).
 
 
 

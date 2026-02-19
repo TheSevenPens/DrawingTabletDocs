@@ -2,7 +2,7 @@
 
 ## Adobe Photoshop
 
-[Adobe Photoshop](../photoshop.md)&#x20;
+[Photoshop](../photoshop.md)&#x20;
 
 I am really not a Photoshop expert. And because I use affinity photo for basic photo editing my reason for using Adobe Photoshop are these:
 

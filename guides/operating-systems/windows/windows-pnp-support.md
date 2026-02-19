@@ -28,7 +28,7 @@ The key things you should know
 There are a large set of limitations that come with windows PNP mode compared to manufacturer tablet drivers.
 
 * You cannot control how to map the active area of your tablet to a display in any way
-  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios](../../customizing/force-proportions.md)
+  * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
 * You cannot control what the buttons on the pen does.
 * You cannot control what the buttons on the tablet do.&#x20;
 
@@ -55,7 +55,7 @@ If your manufacturer tablet driver is having problems, the PNP drivers may be a 
 
 ## Using PNP mode for testing and diagnosing problems
 
-If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [**Testing with Windows PNP drawing tablet drivers**](../../../troubleshooting/diag-testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
+If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [DIAG: Testing with Windows PNP drawing tablet drivers](../../../troubleshooting/diag-testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
 
 ## Interactions between tablet drivers and PNP mode
 
@@ -70,7 +70,7 @@ Every now and then I have windows use PNP mode even though a driver is installed
 
 ## Which tablets are compatible with Windows PNP?
 
-See this: [**Windows PNP driver compatibility testing**](windows-pnp-driver-compatibility-testing.md).
+See this: [Windows PNP driver compatibility testing](windows-pnp-driver-compatibility-testing.md).
 
 ## Notes
 

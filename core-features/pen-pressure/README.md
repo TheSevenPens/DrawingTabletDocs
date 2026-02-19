@@ -7,14 +7,14 @@
 ## Key concepts
 
 * **The pen senses pressure**, not the tablet. The pen communicates the pressure it detects to the tablet.
-* The [**Initial Activation Force**](iaf.md) is the smallest amount of pressure that an EMR pen will detect and report.  More here:&#x20;
-* The [**Pen pressure range**](pen-pressure-range.md) is the range of physical force the pen is capable of sensing and outputting as pressure. In other words its lower bound is the IAF and its upper bound is the **maximum pressure**.&#x20;
-* A tablet splits up the pressure range into a number of segments that are called [**Pen pressure levels**](pen-pressure-levels.md).
-* The [**pen pressure response**](pen-pressure-response.md) is the pen hardware's "pressure behavior" - how a specific pen maps the physical pressure (how hard you are pressing down) to a logical pressure number that is sent to your computer. &#x20;
-* A [**pressure curve**](pen-pressure-curves/) is a way of modifying or processing the pressure pressure response of a pen. You can do this to solve solve or mitigate some kinds of pressure problems or to achieve certain kinds of creative effects.
-* A [**pressure dead zone**](pen-pressure-curves/pressure-curve-dead-zones.md) is a ways of using a a pressure curve to effectively increase the IAF.
-* The vast majority of drawing tablet pens are too-sensitive to small changes in physical pressure near the IAF. This means there is some [**pressure instability at low pressure**](drawing-at-low-physical-pressure.md). You can address this by using [**pressure curves**](pen-pressure-curves/) or **pressure smoothing**.
-* [**Tilt affects pressure**](tilt-affects-pressure.md). The pen is more sensitive when it is held - perpendicular to the tablet surface.
+* The [IAF](iaf.md) is the smallest amount of pressure that an EMR pen will detect and report.  More here:&#x20;
+* The [Pen pressure range](pen-pressure-range.md) is the range of physical force the pen is capable of sensing and outputting as pressure. In other words its lower bound is the IAF and its upper bound is the **maximum pressure**.&#x20;
+* A tablet splits up the pressure range into a number of segments that are called [Pen pressure levels](pen-pressure-levels.md).
+* The [Pen pressure response](pen-pressure-response.md) is the pen hardware's "pressure behavior" - how a specific pen maps the physical pressure (how hard you are pressing down) to a logical pressure number that is sent to your computer. &#x20;
+* A [Pen pressure curves](pen-pressure-curves/) is a way of modifying or processing the pressure pressure response of a pen. You can do this to solve solve or mitigate some kinds of pressure problems or to achieve certain kinds of creative effects.
+* A [Pressure curve dead zones](pen-pressure-curves/pressure-curve-dead-zones.md) is a ways of using a a pressure curve to effectively increase the IAF.
+* The vast majority of drawing tablet pens are too-sensitive to small changes in physical pressure near the IAF. This means there is some [Pen pressure instability at low pressure](drawing-at-low-physical-pressure.md). You can address this by using [Pen pressure curves](pen-pressure-curves/) or **pressure smoothing**.
+* [Tilt affects pressure](tilt-affects-pressure.md). The pen is more sensitive when it is held - perpendicular to the tablet surface.
 
 ## "Under pressure" video series
 
@@ -38,7 +38,7 @@ You may occasionally this force described as **grams** and see the unit **g** us
 
 ## Disabling pressure
 
-Sometimes it is useful to disable pen pressure. For options on how to do so go here: [**Disable pen pressure**](disable-pen-pressure.md).
+Sometimes it is useful to disable pen pressure. For options on how to do so go here: [Disabling pen pressure](disable-pen-pressure.md).
 
 ## How EMR pens measure pressure
 

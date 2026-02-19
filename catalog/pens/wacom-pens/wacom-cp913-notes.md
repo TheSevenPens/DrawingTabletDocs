@@ -47,7 +47,7 @@ Two things separate this pen from Wacom's Pro Pens:
 
 ## Wacom CP-923 pen
 
-This successor pen, CP-923, is awful. See my notes: [Wacom One 2024 Pen (CP-923)](wacom-cp923-notes.md)&#x20;
+This successor pen, CP-923, is awful. See my notes: [Wacom One 2023 Standard Pen (CP-923) notes](wacom-cp923-notes.md)&#x20;
 
 ## Tablet Compatibility&#x20;
 

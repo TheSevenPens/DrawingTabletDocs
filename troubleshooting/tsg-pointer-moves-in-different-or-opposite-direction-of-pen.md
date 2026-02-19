@@ -23,7 +23,7 @@ Or the pointer goes in a different direction.
 
 You need to examine your tablet driver settings, find where the rotation is done, and then change the setting so that it works for you.
 
-See: [**Rotating a drawing tablet**](../guides/ergonomics/rotating-a-drawing-tablet.md)
+See: [Rotating a drawing tablet](../guides/ergonomics/rotating-a-drawing-tablet.md)
 
 If you are still having problems, contact customer support.
 

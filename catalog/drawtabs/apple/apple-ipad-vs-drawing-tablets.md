@@ -3,11 +3,11 @@
 {% hint style="info" %}
 For more information:
 
-* [**notes on Apple iPad**](apple-ipad-notes.md)
-* [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
-* [**Apple Pencil versus EMR pens**](../../pens/apple-pencil/apple-pencil-notes.md)
-* [**Apple pencil links**](../../pens/apple-pencil/)
-* [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Apple iPad notes](apple-ipad-notes.md)
+* [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md)
+* [Apple Pencil notes](../../pens/apple-pencil/apple-pencil-notes.md)
+* [Apple pens](../../pens/apple-pencil/)
+* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
 
 ## Overview
@@ -16,7 +16,7 @@ Even though an Apple iPad is not technically speaking a drawing tablet, it can s
 
 And many people find that their iPad when combined with the apple pencil serves that need well enough that they don't need to get a separate drawing tablet.
 
-There are several types of drawing tablets: [**Types of drawing tablets**](../../../basics/types-of-drawtabs/)
+There are several types of drawing tablets: [Types of drawing tablets](../../../basics/types-of-drawtabs/)
 
 * pen tablets - no screen, not standalone
 * pen displays - have screen, not standalone
@@ -43,11 +43,11 @@ And some people prefer using both. For example they might use a (non-standalone)
 
 ## Pens
 
-A big amount of the drawing experience is due to how the pens work. See this comparison: [**Apple Pencil versus EMR pens**](../../pens/apple-pencil/apple-pencil-notes.md)
+A big amount of the drawing experience is due to how the pens work. See this comparison: [Apple Pencil notes](../../pens/apple-pencil/apple-pencil-notes.md)
 
 ## Pen hover
 
-Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [**Pen hover**](apple-ipad-vs-drawing-tablets.md#pen-hover).
+Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md#pen-hover).
 
 * Hover support for an iPad is dependent on the specific combination of iPad model and Apple Pencil model
   * Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
@@ -64,7 +64,7 @@ Pointer lag is how far behind the operating system pointer is behind the physica
 
 ## **Parallax**
 
-iPads and pen displays are subject to parallax. An apparent visual inaccuracy due to the display panel being a small distance away from the surface the pen touches. The smaller this distance the smaller the parallax effect. Less parallax is better. More here: [**parallax**](../../../guides/pen-displays/parallax.md)
+iPads and pen displays are subject to parallax. An apparent visual inaccuracy due to the display panel being a small distance away from the surface the pen touches. The smaller this distance the smaller the parallax effect. Less parallax is better. More here: [Parallax](../../../guides/pen-displays/parallax.md)
 
 In 2023, most pen displays have good or very good (meaning low) parallax. But the iPads have even less parallax than even the most expensive pen displays.
 
@@ -72,7 +72,7 @@ In my opinion, even the the iPad is better at having less parallax, the improvem
 
 ## **Anti-glare sparkle**
 
-Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an anti-glare treatment. More here: [**anti-glare sparkle**](apple-ipad-vs-drawing-tablets.md#anti-glare-sparkle).
+Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an anti-glare treatment. More here: [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md#anti-glare-sparkle).
 
 * iPads have very little / undetectable amount of AG sparkle.
 * Pen displays have AG sparkle to various degrees. But none have as little as Apple iPad.

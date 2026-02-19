@@ -42,7 +42,7 @@ My testing shows that individual units can vary from \~250gf to \~450gf.
 
 ## **Pen pressure levels**
 
-Specifications say 16K. Ignore this. it is hype.  All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure). More here: [**pen pressure**](../../../core-features/pen-pressure/)&#x20;
+Specifications say 16K. Ignore this. it is hype.  All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure). More here: [Pen pressure](../../../core-features/pen-pressure/)&#x20;
 
 This is what it shows in the driver when pressure at full pressure.&#x20;
 

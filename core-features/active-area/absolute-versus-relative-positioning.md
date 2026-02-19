@@ -32,4 +32,4 @@ For a mouse if you try the equivalent thing something different will happen. If 
 
 ## Mouse mode in drawing tablets
 
-Drawing tablets can simulate relative positioning when talking to a computer. This is called mouse mode. More here: [**Mouse mode**](mouse-mode.md)&#x20;
+Drawing tablets can simulate relative positioning when talking to a computer. This is called mouse mode. More here: [Mouse mode](mouse-mode.md)&#x20;

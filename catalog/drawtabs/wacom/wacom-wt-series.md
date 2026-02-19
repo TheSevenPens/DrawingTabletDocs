@@ -19,7 +19,7 @@ Although these can be considered drawing tablets, they are used the way we we wo
   * A modern EMR pen has a piezoelectric pressure sensor inside the pen. When you press down with the pen, the force from the press is transmitted through the nib to the pressure sensor. Which can sense variable amounts of pressure - thousands of different levels.
   * The WT series pen can contains an internal button. When you press down, the nib presses against this button. The button is either ON or OFF - either NO PRESSURE or PRESSURE.
 
-If you are looking for the first "real" drawing tablet from Wacom. Look at the [SD series](wacom-sd-tablets/).
+If you are looking for the first "real" drawing tablet from Wacom. Look at the [Wacom SD series](wacom-sd-tablets/).
 
 ## Links
 

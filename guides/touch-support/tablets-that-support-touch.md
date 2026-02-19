@@ -4,7 +4,7 @@
 
 Only a small number of of pen tablets (screenless tablets) and pen displays (screen tablets) support touch.&#x20;
 
-For more on touch: [**Touch support**](./)
+For more on touch: [Touch support](./)
 
 ## Pen tablets that support touch
 

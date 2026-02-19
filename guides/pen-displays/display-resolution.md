@@ -35,15 +35,15 @@ For example:
 
 ## Recommendations for resolution
 
-[**Choosing the right display resolution for a pen display**](choosing-the-right-display-resolution-for-a-pen-display.md)
+[Choosing the right display resolution for a pen display](choosing-the-right-display-resolution-for-a-pen-display.md)
 
 ## MacOS considerations
 
-**MacOS** works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [**Fuzzy text on displays with MacOS**](../operating-systems/macos/display-resolution.md)&#x20;
+**MacOS** works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [Fuzzy text on displays with MacOS](../operating-systems/macos/display-resolution.md)&#x20;
 
 ## **Anti-glare sparkle**
 
-Given a specific physical size for a display panel, anti-glare sparkle is more noticeable on higher resolutions.  See this document for more information: [**anti-glare sparkle**](anti-glare-sparkle.md).
+Given a specific physical size for a display panel, anti-glare sparkle is more noticeable on higher resolutions.  See this document for more information: [Anti-glare sparkle](anti-glare-sparkle.md).
 
 ## Pixel density: Pixels-per-inch (PPI)&#x20;
 

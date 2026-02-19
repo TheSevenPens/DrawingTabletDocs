@@ -7,11 +7,11 @@ Xencelabs ([https://www.xencelabs.com/](https://www.xencelabs.com/)) positions i
 They are a very new brand and have a small product line as of Jan 2024:
 
 * Pen displays
-  * Xencelabs Pen Display 24: [**notes on this tablet**](../catalog/drawtabs/xencelabs/xencelabs-lph2412ua.md)
-  * Xencelabs Pen Display 16: [**notes on this tablet**](../catalog/drawtabs/xencelabs/xencelabs-lph1612ua.md)
+  * Xencelabs Pen Display 24: [Xencelabs Pen Display 24 (LPH2412U-A) notes](../catalog/drawtabs/xencelabs/xencelabs-lph2412ua.md)
+  * Xencelabs Pen Display 16: [Xencelabs Pen Display 16 (LPH1612U-A) notes](../catalog/drawtabs/xencelabs/xencelabs-lph1612ua.md)
 * Pen tablets
   * Xencelabs Pen Tablet Medium SE
-  * Xencelabs Pen Tablet Medium: [**notes on this tablet**](../catalog/drawtabs/xencelabs/xencelabs-bph1212wa.md) (very minimal notes)
+  * Xencelabs Pen Tablet Medium: [Xencelabs Pen Tablet Medium (BPH1212W-A) notes](../catalog/drawtabs/xencelabs/xencelabs-bph1212wa.md) (very minimal notes)
   * Xencelabs Pen Tablet Small
 
 ## What Xencelabs does well

@@ -1,6 +1,6 @@
 # Screen protectors for iPads
 
-* If you are looking for protection for other kinds of devices go here: [**Surface protection**](../)
+* If you are looking for protection for other kinds of devices go here: [Surface protection](../)
 * [Paperlike for iPad](paperlike-for-ipads.md) &#x20;
 * Bellemond
 * Benks&#x20;

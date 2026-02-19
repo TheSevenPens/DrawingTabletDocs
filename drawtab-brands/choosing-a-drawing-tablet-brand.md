@@ -3,7 +3,7 @@
 ##
 
 {% hint style="info" %}
-If you are looking for tablet recommendations, go here: [**Recommendations**](../recommendations/)
+If you are looking for tablet recommendations, go here: [Recommendations](../recommendations/)
 {% endhint %}
 
 ## Overview
@@ -29,7 +29,7 @@ I generally steer people toward:
 * XP-Pen
 * Xencelabs
 
-More here: [**brands**](./)
+More here: [Brands](./)
 
 You'll find people who've had good and bad experience with each brand. Though generally I do think Wacom has a better experience for customers overall.
 
@@ -41,7 +41,7 @@ Instead of only thinking of the brand, consider specific tablet models.&#x20;
 
 ## Online communities
 
-Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [**Drawing tablet communities**](../resources/community/)  &#x20;
+Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [Community](../resources/community/)  &#x20;
 
 ## Discussions
 

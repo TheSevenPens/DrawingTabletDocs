@@ -5,7 +5,7 @@
 Tablet drivers offer a UX to see and modify pen pressure curves. Below you'll see how to access this UX in various tablet drivers.
 
 {% hint style="info" %}
-Before you start playing with pressure curves, make sure you know what they are and what kind of problems they are intended to solve. More here : [**Pen pressure curve**](./)
+Before you start playing with pressure curves, make sure you know what they are and what kind of problems they are intended to solve. More here : [Pen pressure curves](./)
 {% endhint %}
 
 ## Huion > HuionTablet pressure curve&#x20;

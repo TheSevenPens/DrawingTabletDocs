@@ -4,27 +4,27 @@
 
 Pen tablets (screenless tablets) have a plastic surface and depending on how you use them are subject to some amount of wear.
 
-If you are looking for protection for other kinds of devices go here: [**Surface protection**](../)
+If you are looking for protection for other kinds of devices go here: [Surface protection](../)
 
 ## Manufacturer options
 
-* **Wacom** makes Texture Sheets available for its Intuos Pro pen 2017 and Intuos Pro 2025 tablets. More here: [**Wacom texture sheets**](wacom-texture-sheets.md)&#x20;
-* [**XP-Pen offers protective sheets for their tablets**](../xppen-surface-protectors.md)
+* **Wacom** makes Texture Sheets available for its Intuos Pro pen 2017 and Intuos Pro 2025 tablets. More here: [Wacom texture sheets](wacom-texture-sheets.md)&#x20;
+* [XP-Pen surface protectors](../xppen-surface-protectors.md)
 
 ## 3rd-party options
 
-* **Foxbox** - These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. They have a HEAVY texture and will tend to wear through your nibs. More here: [**Foxbox covers**](foxbox-covers.md)&#x20;
+* **Foxbox** - These are very rugged and opaque sheets good for pen tablets. And you can customize them with your own images. They have a HEAVY texture and will tend to wear through your nibs. More here: [Foxbox covers](foxbox-covers.md)&#x20;
 * **BlueBunny** - I don't have any direct experience with their covers. They might be an option for some of you. [**https://bluebunny.store/**](https://bluebunny.store/)&#x20;
 * These paper protectors may be an option. [https://www.aliexpress.us/item/3256801092807991.html](https://www.aliexpress.us/item/3256801092807991.html)&#x20;
 
 ## Screen protectors on pen tablets
 
-You can use screen protectors intended for pen displays for pen tablets. See [**screen protectors**](../screen-protectors/). Some suppliers of screen protectors not only sell pre-cut sizes for specific tablets, but also will cut out a size to your specification for your specific tablet.
+You can use screen protectors intended for pen displays for pen tablets. See [Screen protectors](../screen-protectors/). Some suppliers of screen protectors not only sell pre-cut sizes for specific tablets, but also will cut out a size to your specification for your specific tablet.
 
 ## DIY options
 
 * You can in theory make your own surface protection
-* Learn more about using [**ePlastic polycarbonate sheets (velvet lexan)**](eplastic-polycarbonate-sheets-velvet-lexan.md)
+* Learn more about using [ePlastic polycarbonate sheets (velvet lexan)](eplastic-polycarbonate-sheets-velvet-lexan.md)
 
 ## Links
 

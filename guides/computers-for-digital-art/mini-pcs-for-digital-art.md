@@ -25,7 +25,7 @@ The prices below are from Sept 2024 and only include the cost for a Mini-PC
 ### Middle budget
 
 * Minisforum UM870 slim ($475 to $550)
-  * [notes on the Minisforum UM870 slim](../../catalog/computers/minisforum/minisforum-um870-slim-notes.md)
+  * [Minisforum UM870 slim notes](../../catalog/computers/minisforum/minisforum-um870-slim-notes.md)
 * Minisforum UM690S ($410)
   * [Brad Colbow - Best Budget PC + Drawing Tablet Combo](https://www.youtube.com/watch?v=JNq3LAdPho8) - 2024/09/1
 
@@ -33,5 +33,5 @@ The prices below are from Sept 2024 and only include the cost for a Mini-PC
 
 * The MinisForum Neptune HX99G $1500
   * sometimes on sale for $1000
-  * [notes on the Minisforum Neptune HX99G](../../catalog/computers/minisforum/minisforum-neptune-hx99g-notes.md)
+  * [Minisforum Neptune HX99G notes](../../catalog/computers/minisforum/minisforum-neptune-hx99g-notes.md)
   * [Tech tablets - review of Minisforum HX99G](https://www.youtube.com/watch?v=c3iF9GQoEbQ) - 2023-03-03

@@ -11,7 +11,7 @@
 * A pen from Manufacturer A may not work with all tablets made by manufacturer A
 * Using the same technology such as "EMR" does not mean two pens are interchangeable.
 * Apple Pencils are only compatible with Apple iPads.
-*   Wacom has so many tablets and and pens that compatibility can get confusing: [**Wacom pens**](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)&#x20;
+*   Wacom has so many tablets and and pens that compatibility can get confusing: [Wacom pen compatibility](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)&#x20;
 
 
 
@@ -31,7 +31,7 @@ If you need to replace a pen, find out the model number that is compatible with 
 
 ### Non-tech causes
 
-**Driver selectively excludes pens** - I know of at least one case with Wacom where the pen and tablet would actually work but the Wacom driver prevents it. The way around this is to use [**opentabletdriver** ](../drivers/opentabletdriver/)which does not have that restriction.&#x20;
+**Driver selectively excludes pens** - I know of at least one case with Wacom where the pen and tablet would actually work but the Wacom driver prevents it. The way around this is to use [OpenTabletDriver](../drivers/opentabletdriver/)which does not have that restriction.&#x20;
 
 ## Resources
 

@@ -10,7 +10,7 @@
 
 The tablet comes with the PW517 pen.
 
-As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [**7P notes: Huion PW550 series pens**](../../../pens/huion-pens/huion-pw550-notes.md)
+As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Diagonal wobble
 
@@ -44,4 +44,4 @@ Low amounts of AG sparkle. You'd have to put your eyes about 4 to 5 inches from 
 
 * **Ports** - Has two recessed USB-C ports on the right side. The wells the ports are in are slightly different sizes.
 * **3-in-1 cable**. The tablet comes with a 3-in-1 cable if you need to connect it to your computer with HDMI
-* **Single USB-C connection** - This tablet DOES support being connected with a single USB-C connection. Because the port is recessed I recommend you buy Huion's fell featured USB-C cable for this tablet. Of course you will need to make sure your computer supports a single USB-C connection. More here:  [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md).&#x20;
+* **Single USB-C connection** - This tablet DOES support being connected with a single USB-C connection. Because the port is recessed I recommend you buy Huion's fell featured USB-C cable for this tablet. Of course you will need to make sure your computer supports a single USB-C connection. More here:  [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md).&#x20;

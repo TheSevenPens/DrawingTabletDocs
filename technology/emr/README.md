@@ -7,10 +7,10 @@ EMR technology was introduced to drawing tablets by Wacom. And they held all the
 ## EMR key features
 
 * Powering the pen - With **Passive EMR** the pen gets power from proximity to the tablet. However with **Active EMR**: The pen gets power from a battery inside. More here: [Active EMR vs Passive EMR](active-emr-vs-passive-emr.md)
-* Position detection - The basics of how the tablet detects position are described here: [**EMR position detection**](emr-position-detection.md).&#x20;
+* Position detection - The basics of how the tablet detects position are described here: [EMR position detection](emr-position-detection.md).&#x20;
 * Hover (i.e. proximity detection) -&#x20;
-* Pressure detection - See this document for details on [**EMR pressure detection**](emr-pressure-detection.md). It also contains a clarification of pressure detection in the video below (which depicts a very old way of doing pressure detection).
-* Tilt detection - more here: [**EMR tilt detection**](emr-tilt-detection.md) &#x20;
+* Pressure detection - See this document for details on [EMR pressure detection](emr-pressure-detection.md). It also contains a clarification of pressure detection in the video below (which depicts a very old way of doing pressure detection).
+* Tilt detection - more here: [EMR tilt detection](emr-tilt-detection.md) &#x20;
 * Barrel rotation detection - very rare in EMR pens
 * Communication of button press information&#x20;
 
@@ -22,7 +22,7 @@ NOTE: This video's explanation of how pressure works describes a very early EMR 
 
 ## Deeper EMR Technical resources
 
-If you want to go really deep into how EMR works, go here: [EMR technical resources](./#emr-technical-resources)&#x20;
+If you want to go really deep into how EMR works, go here: [EMR](./#emr-technical-resources)&#x20;
 
 ## Notes on EMR&#x20;
 
@@ -42,7 +42,7 @@ We don't know. We suspect this is MUCH faster than a typical pen report rate of 
 
 ## **Other digital pen technologies**
 
-Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [**Digital pen tech**](../digital-pen-tech.md)&#x20;
+Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [Digital pen tech](../digital-pen-tech.md)&#x20;
 
 ### Apple Pencil
 

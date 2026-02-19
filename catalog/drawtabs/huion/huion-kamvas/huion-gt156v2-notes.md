@@ -4,7 +4,7 @@
 
 I do not have this tablet, these notes are based on me evaluating the specs and my experience with other tablets.
 
-This is a refresh of the previous Kamvas 16 2021 (GS1563) - which was a decent tablet: [Huion Kamvas 16 2021 (GS1562)](huion-gs1562-notes.md) notes but a bit outdated as of 2025.
+This is a refresh of the previous Kamvas 16 2021 (GS1563) - which was a decent tablet: [Huion Kamvas 16 2021 (GS1562) notes](huion-gs1562-notes.md) notes but a bit outdated as of 2025.
 
 The key improvement here is that the tablet has a better pen: The PW600A whereas the older model has the PW517 pen.
 

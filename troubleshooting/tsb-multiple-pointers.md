@@ -20,7 +20,7 @@ The first thing to do is uninstall every tablet driver on your computer. True
 
 Then restart the computer.
 
-Sometimes uninstalling a tablet driver does leave little “bits" of the tablet driver around. So I recommend running the [tablet driver cleanup tool](../guides/drivers/tablet-driver-cleanup-tool.md).
+Sometimes uninstalling a tablet driver does leave little “bits" of the tablet driver around. So I recommend running the [Tablet Driver Cleanup tool](../guides/drivers/tablet-driver-cleanup-tool.md).
 
 And once the tool is done then restart your computer.
 

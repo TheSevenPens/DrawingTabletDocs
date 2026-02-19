@@ -3,7 +3,7 @@
 ## XP-Pen Artist 12 3rd (CD121FH)
 
 * Released: October 2025
-* [notes on this tablet](xppen-cd121fh.md) &#x20;
+* [XP-Pen Artist 12 GEN3 (CD121FH) notes](xppen-cd121fh.md) &#x20;
 
 
 

@@ -18,7 +18,7 @@ Based on my experience here's what I think works. Overall the pattern is a PPI b
 
 ## MacOS&#x20;
 
-MacOS works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [**Fuzzy text on displays with MacOS**](../operating-systems/macos/display-resolution.md)&#x20;
+MacOS works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [Fuzzy text on displays with MacOS](../operating-systems/macos/display-resolution.md)&#x20;
 
 ## **Picking between 2.5K vs 4K resolution**&#x20;
 

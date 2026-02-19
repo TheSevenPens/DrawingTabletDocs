@@ -7,7 +7,7 @@
 * I did feel it drained the battery faster than other tablets in my collection - even when I wasn't using it for heavy-duty tasks
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [notes on the overall Samsung Galaxy Tab S series](samsung-tab-s-notes.md).
+These are my notes for this specific tablet. You may also be interested in [Samsung Galaxy Tab S series notes](samsung-tab-s-notes.md).
 {% endhint %}
 
 ## Links
@@ -40,7 +40,7 @@ These are my notes for this specific tablet. You may also be interested in [note
 
 ## Compatible Pens
 
-In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Battery life
 
@@ -50,7 +50,7 @@ Also I noticed that when I was not using the device it seemed to quickly run dow
 
 ## Pen
 
-The tablet comes with a Samsung S Pen. [**notes on the Samsung S Pen**](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
+The tablet comes with a Samsung S Pen. [Samsung S Pen notes](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Diagonal wobble
 

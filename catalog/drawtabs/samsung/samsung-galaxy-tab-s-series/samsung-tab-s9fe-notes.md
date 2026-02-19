@@ -1,7 +1,7 @@
 # Samsung Galaxy Tab S9 FE notes
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [notes on the overall Samsung Galaxy Tab S series](samsung-tab-s-notes.md).
+These are my notes for this specific tablet. You may also be interested in [Samsung Galaxy Tab S series notes](samsung-tab-s-notes.md).
 {% endhint %}
 
 ## Overview
@@ -27,14 +27,14 @@ It's just an all around good device.
 
 ## Included pen
 
-* Samsung S Pen ([**notes on the S Pen**](../../../pens/samsung-s-pen/samsung-s-pen-notes.md))
+* Samsung S Pen ([Samsung S Pen notes](../../../pens/samsung-s-pen/samsung-s-pen-notes.md))
 * This is an OK pen. Not great as EMR pens go in terms of pressure range, but it is enough for basic drawing drawing tasks.
 
 ## Compatible pens
 
 * Samsung S pen
-* [UD EMR Pens 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
-* In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+* [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Diagonal wobble
 

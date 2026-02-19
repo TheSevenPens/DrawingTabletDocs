@@ -2,12 +2,12 @@
 
 ## PenTech
 
-Huion uses the name "PenTech" for their EMR pen technology and even has version numbers to help it has evolved over the years. Much more here: [**Huion PenTech**](huion-pentech.md)&#x20;
+Huion uses the name "PenTech" for their EMR pen technology and even has version numbers to help it has evolved over the years. Much more here: [Huion PenTech](huion-pentech.md)&#x20;
 
 Notes
 
-* [Huion PW550 and PW550S pens](huion-pw550-notes.md)
-* [Huion PW600 and PW600S pens](huion-pw600-notes.md)
+* [Huion PW550 series pens notes](huion-pw550-notes.md)
+* [Huion PW600 series pens](huion-pw600-notes.md)
 
 ## Huion pen models
 

@@ -10,7 +10,7 @@ In this document I will evaluate pen computers on several dimensions such as cos
 
 ## I suggest you seek alternatives
 
-I think there are better options for you: [**Alternatives to pen computers**](alternatives-to-pen-computers.md)
+I think there are better options for you: [Alternatives to pen computers](alternatives-to-pen-computers.md)
 
 ## Cost
 

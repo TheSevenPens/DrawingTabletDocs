@@ -21,7 +21,7 @@ Sometimes this clears up the problem.
   * 7P: This worked for me once
 * Change the resolution of your screen to a smaller resolution then back to the original resolution.
 * If you are using more than one monitor, switch between extend and duplicate modes for the desktop.
-* If you are using Microsoft Windows,  then [**test with Windows PNP tablet drivers**](diag-testing-with-windows-pnp-drawing-tablet-drivers.md) to see if the problem happens in that case.
+* If you are using Microsoft Windows,  then [DIAG: Testing with Windows PNP drawing tablet drivers](diag-testing-with-windows-pnp-drawing-tablet-drivers.md) to see if the problem happens in that case.
 * If you have a pen display, it likely has a calibration feature. Start the and complete the calibration process to see if that addresses the issue.&#x20;
 
 ## If nothing works

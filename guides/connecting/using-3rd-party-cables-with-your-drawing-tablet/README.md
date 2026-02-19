@@ -22,19 +22,19 @@ Can you use the cable that you use for other devices? Yes, as long as it can car
 
 ### The cables I use to connect pen tablets
 
-For the exact brands and cables I use for pen tablets: [**Cables I use to connect pen tablets**](cables-i-use-to-connect-pen-tablets.md)
+For the exact brands and cables I use for pen tablets: [Cables I use to connect pen tablets](cables-i-use-to-connect-pen-tablets.md)
 
 ### Using adapters for USB port types
 
 These days the ports on pen tablets are all USB C ports. However older tablets used different kinds of ports. These could be micro USB or mini USB. And cables that have micro USB ends or mini USB ends are getting more difficult to find. For this reason I prefer to continue to use USB C cables but use adapters for these older tablets if possible.
 
-More here: [**Cable adapters**](../../../catalog/accessories/cable-adapters.md)
+More here: [Cable adapters](../../../catalog/accessories/cable-adapters.md)
 
 ## Using 3rd-party cables for pen displays
 
 **Single USB-C cable connection**
 
-If the pen display was connected with a single USB-C cable, then you can TYPICALLY use a USB-C cable that MEETS CERTAIN REQUIREMENTS to connect your pen display. More here: [**Connecting a pen display with a single USB-C cable**](../connecting-pen-display/connecting-pen-display-usbc.md).
+If the pen display was connected with a single USB-C cable, then you can TYPICALLY use a USB-C cable that MEETS CERTAIN REQUIREMENTS to connect your pen display. More here: [Connecting a pen display with USB-C](../connecting-pen-display/connecting-pen-display-usbc.md).
 
 Even if the cable meets the requirements - there are some issues you should be aware of.
 

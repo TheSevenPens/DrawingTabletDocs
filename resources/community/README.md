@@ -15,7 +15,7 @@ Keep in mind these are community-supported. And while you might occasionally see
 ## Discord servers
 
 * The official xp-pen discord [https://discord.com/invite/5GDyNgWeuy](https://discord.com/invite/5GDyNgWeuy) (run by XP-Pen)
-* [The drawing tablet discord](discord.md)  (I run this one).
+* [Discord server](discord.md)  (I run this one).
 
 ## Prominent community members
 

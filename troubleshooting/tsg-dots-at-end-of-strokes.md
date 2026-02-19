@@ -2,7 +2,7 @@
 
 ## Things to try first
 
-First try the [**Common drawing troubleshooting steps**](common-drawing-troubleshooting-steps.md).&#x20;
+First try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).&#x20;
 
 
 

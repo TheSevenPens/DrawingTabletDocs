@@ -2,11 +2,11 @@
 
 ## **NO SIGNAL**
 
-If you turn on your pen display and see a NO SIGNAL message, then this is a difference kind of problem. Instead go here: [**Troubleshoot the NO SIGNAL problem**](tsg-no-signal.md)&#x20;
+If you turn on your pen display and see a NO SIGNAL message, then this is a difference kind of problem. Instead go here: [TSG: Pen display shows NO SIGNAL message](tsg-no-signal.md)&#x20;
 
 ## Ensure your computer actually detects the display
 
-Does you computer detect the display in the tablet? Check your operating system's display settings. More here: [**Troubleshoot computer does not detect display**](tsg-display-detection.md)&#x20;
+Does you computer detect the display in the tablet? Check your operating system's display settings. More here: [TSG: computer does not detect display](tsg-display-detection.md)&#x20;
 
 ## Check if the backlight is broken
 
@@ -18,7 +18,7 @@ Unfortunately this is not an easy or cheap think to repair. Most people simply j
 
 ## Check if the display works with another source of display signal
 
-For example, connect it to another computer or X-BOX or DVD player. If you see something, then it tells you that the pen display is capable of showing something but that the problem is somewhere else. More here: [Check if the pen display works with another display output device](diag-checking-if-pen-display-shows-hdmi-video-signal-from-other-devices.md) .
+For example, connect it to another computer or X-BOX or DVD player. If you see something, then it tells you that the pen display is capable of showing something but that the problem is somewhere else. More here: [DIAG: Checking if pen display shows HDMI video signal from other devices](diag-checking-if-pen-display-shows-hdmi-video-signal-from-other-devices.md) .
 
 
 

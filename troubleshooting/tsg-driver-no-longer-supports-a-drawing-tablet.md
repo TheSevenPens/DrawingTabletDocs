@@ -28,7 +28,7 @@ Windows has somer VERY RUDIMENTARY support for tablets (this is called "Windows 
 
 MacOS does NOT have an equivalent to Plug-and-Play for drawing tablets.
 
-More here: [Windows PNP support for drawing tablets](../guides/operating-systems/windows/windows-pnp-support.md)&#x20;
+More here: [Windows PNP support](../guides/operating-systems/windows/windows-pnp-support.md)&#x20;
 
 
 

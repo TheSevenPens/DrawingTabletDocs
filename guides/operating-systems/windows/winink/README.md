@@ -14,8 +14,8 @@ You can configure Windows Ink in two places.
 
 My recommendation is to configure it in the application. And only change it in the driver if absolutely necessary.
 
-* [**App configuration**](winink-config-apps.md)&#x20;
-* [**Driver configuration**](winink-config-driver.md)
+* [Configure Windows Ink for apps](winink-config-apps.md)&#x20;
+* [Configure Windows Ink in the tablet driver](winink-config-driver.md)
 
 ## My recommendation
 

@@ -11,7 +11,7 @@ The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good table
 
 ## Future
 
-There is NOT a modern Wacom tablet that is a direct successor to this tablet. Officially, Wacom seems to want people to use the Wacom One 2023 (CTC-x6110WL0) pen tablets. But these tablets are not good and I don't even recommend them. more here: [notes on Wacom One 2023 pen tablets](../wacom-one/wacom-ctcx110wl-notes.md)
+There is NOT a modern Wacom tablet that is a direct successor to this tablet. Officially, Wacom seems to want people to use the Wacom One 2023 (CTC-x6110WL0) pen tablets. But these tablets are not good and I don't even recommend them. more here: [Wacom One 2023 pen tablets (CTC-x110WL) notes](../wacom-one/wacom-ctcx110wl-notes.md)
 
 ### &#x20;<a href="#i-do-not-recommend-the-wacom-one-2023-pen-tablets" id="i-do-not-recommend-the-wacom-one-2023-pen-tablets"></a>
 
@@ -74,7 +74,7 @@ Aspect ratio:
 
 ### **Included pen**
 
-The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [**notes on Wacom 2K Pen (LP-190K)**](../../../pens/wacom-pens/wacom-lp190k-notes.md)
+The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [Wacom 2K Pen (LP-190K)](../../../pens/wacom-pens/wacom-lp190k-notes.md)
 
 ### Pen compatibility
 
@@ -115,7 +115,7 @@ There is a slight amount of texture on the surface to keep the pen from feeling 
 
 ### Osu!
 
-The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [**Buying a drawing tablet for osu!**](../../../../buying-drawtabs/drawtabs-for-osu.md)
+The CTL-x72 series tablets are **highly recommended for playing osu!** More here: [Buying a drawing tablet for osu!](../../../../buying-drawtabs/drawtabs-for-osu.md)
 
 ## **Box photos**
 

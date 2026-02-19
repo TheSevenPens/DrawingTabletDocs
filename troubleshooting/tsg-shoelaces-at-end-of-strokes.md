@@ -4,7 +4,7 @@
 
 This is a common effect that is highly dependent on how you draw and the specific brush in your drawing app. It manifests as a longer "string" at the end of your stroke. These ends can be rendered as a constant width or a long very thin string.
 
-NOTE: There is a related problem: [Troubleshoot hooks at start of strokes](tsg-hooks-at-start-of-strokes.md)
+NOTE: There is a related problem: [TSG: Hooks at start of strokes](tsg-hooks-at-start-of-strokes.md)
 
 ## Examples
 

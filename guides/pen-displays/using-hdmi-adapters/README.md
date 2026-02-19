@@ -2,7 +2,7 @@
 
 ## Before you begin
 
-You may want to familiarize yourself with this doc before you continue if you are not experienced connection options: [**Connecting a pen display to a computer**](../../connecting/connecting-pen-display/)
+You may want to familiarize yourself with this doc before you continue if you are not experienced connection options: [Connecting a pen display](../../connecting/connecting-pen-display/)
 
 ## Overview
 

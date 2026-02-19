@@ -57,7 +57,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 | --------------------------------------------------------------------------- | ---------------------------------------- |
 | <img src="../.gitbook/assets/image-000739.png" alt="" data-size="original"> | ![](../.gitbook/assets/image-000552.png) |
 
-If your computer doesn't see the display from the tablet , it will not send a video signal to it. Follow these troubleshooting steps: [**Troubleshoot display detection**](tsg-display-detection.md)
+If your computer doesn't see the display from the tablet , it will not send a video signal to it. Follow these troubleshooting steps: [TSG: computer does not detect display](tsg-display-detection.md)
 
 ## Verify that you operating system is trying to use the display.
 
@@ -108,11 +108,11 @@ Your computer may have multiple HDMI ports, try different ones.
 
 In general connect via the GPU HDMI ports instead of motherboard HDMI ports
 
-more here: [**Motherboard HDMI ports vs GPU HDMI ports**](../guides/connecting/connecting-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
+more here: [Motherboard HDMI vs GPU HDMI ports](../guides/connecting/connecting-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
 ## USB-C connection options
 
-**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you. More here: [USB-C support for display signal](../guides/pen-displays/usbc-displayport-alt-mode.md)
+**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you. More here: [USB-C DisplayPort alt mode](../guides/pen-displays/usbc-displayport-alt-mode.md)
 
 ### USB-C to USB-C
 
@@ -131,7 +131,7 @@ Sometimes adapters themselves can be the source of the NO SIGNAL problem.
 
 ## HDMI Splitters
 
-HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. more here: [**Using HDMI splitters with pen displays**](../guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
+HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. more here: [Using HDMI splitters with pen displays](../guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
 
 * Try connecting WIHOUT an HDMI splitter
 

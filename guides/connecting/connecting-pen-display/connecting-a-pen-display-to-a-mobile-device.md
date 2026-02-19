@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document focuses on how a pen display connects to a mobile device such as a phone. It's a subset of the broader guide [**Connecting a pen display to a computer**](./), but focused on the specific issues that come up for a mobile devices.
+This document focuses on how a pen display connects to a mobile device such as a phone. It's a subset of the broader guide [Connecting a pen display](./), but focused on the specific issues that come up for a mobile devices.
 
 ## Key requirements and realities
 

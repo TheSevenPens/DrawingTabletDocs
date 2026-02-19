@@ -8,8 +8,8 @@ description: PTH-x51 series
 
 * Release year: 2013
 * Intuos pro generation: 6th gen
-* Preceded by: [Intuos5](wacom-intuos5.md)
-* Succeeded by: [Intuos Pro 2017](wacom-intuos-pro-2017/)
+* Preceded by: [Wacom Intuos5](wacom-intuos5.md)
+* Succeeded by: [Wacom Intuos Pro 2017](wacom-intuos-pro-2017/)
 * Last supported driver
   * Windows: 6.4.10-3 released on 2025-06-04
   * MacOS: 6.4.10-3 released 2025-06-04

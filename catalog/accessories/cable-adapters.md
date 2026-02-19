@@ -19,4 +19,4 @@ This adapter is useful for working with
 
 ## Looking for HDMI adapters?
 
-Check here: [HDMI adapters for pen displays](../../guides/pen-displays/using-hdmi-adapters/)
+Check here: [Using HDMI adapters with pen displays](../../guides/pen-displays/using-hdmi-adapters/)

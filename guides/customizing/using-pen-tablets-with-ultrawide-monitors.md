@@ -14,7 +14,7 @@ Widescreen or ultrawidescreen monitors have very different aspect ratios. So, th
 
 ## Option 1: Use Force Proportions. Map a proportional part of the tablet's active area to the entire monitor.
 
-The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.  See: [**Force proportions**](force-proportions.md)
+The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.  See: [Matching aspect ratios with Force Proportions](force-proportions.md)
 
 <figure><img src="../../.gitbook/assets/image-000496.png" alt=""><figcaption></figcaption></figure>
 

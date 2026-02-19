@@ -51,7 +51,7 @@ These docs may help you:
 * Consider writing your ebay/vinted/etc username on a piece of paper and include it in the pictures as proof that your really have the tablet.
 * The title should include
   * NAME of the tablet including BRAND
-  * MODEL number of the tablet. See: [Finding the model number of a drawing tablet](general/finding-tablet-model-number.md)
+  * MODEL number of the tablet. See: [Finding the model number of your drawing tablet](general/finding-tablet-model-number.md)
     * This is VERY important many tablets have very similar or the same names and only the model number can be used tell them apart
     * I usually put the model number in parenthesis after the name.
   * SIZE of the tablet
@@ -71,7 +71,7 @@ These docs may help you:
 ## Tips for pictures in the listing
 
 * Take pictures in BRIGHT LIGHTING so that the tablet can be identified. Most drawing tablets are made of black plastic, so often all we see is black plastic.
-* Take a picture of the MODEL NUMBER of the tablet. It's usually on the back. See: [Finding the model number of a drawing tablet](general/finding-tablet-model-number.md)
+* Take a picture of the MODEL NUMBER of the tablet. It's usually on the back. See: [Finding the model number of your drawing tablet](general/finding-tablet-model-number.md)
   * I HIGHLY recommend you do this. Many listings on eBay mention one tablet in the listing title but the photos clearly reveal a different tablet.
 * Avoid editing the pictures. Potential buyers may take this as a sign of a potential scammer.
 * DO NOT use stock photos. Potential buyers may take this as a sign of a potential scammer.

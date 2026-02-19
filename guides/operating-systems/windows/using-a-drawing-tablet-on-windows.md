@@ -8,7 +8,7 @@ Drawing tablets have excellent compatibility with any Windows computer.
 
 ### Manufacturer tablet drivers versus Windows PNP tablet driver
 
-Even though windows has a built-in PNP driver for drawing tablets, they are very primitive and you should always install the manufacturer-provided tablet drivers. For more about Windows built-in PNP drivers: [**Windows PNP support for drawing tablets**](windows-pnp-support.md) &#x20;
+Even though windows has a built-in PNP driver for drawing tablets, they are very primitive and you should always install the manufacturer-provided tablet drivers. For more about Windows built-in PNP drivers: [Windows PNP support](windows-pnp-support.md) &#x20;
 
 ### Only install one tablet driver
 

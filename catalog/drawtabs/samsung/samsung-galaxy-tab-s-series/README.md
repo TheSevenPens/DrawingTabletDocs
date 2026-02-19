@@ -4,14 +4,14 @@
 
 The TabS series spans a number of different devices that vary in size and power. Overall thanks to their integration with the S pen (which comes with the tablet) they offer a good general purpose Android tablet experience combined with a DECENT drawing experience.
 
-* [**notes on the Samsung Galaxy Tab S Series**](samsung-tab-s-notes.md)
-* [**Apps for Android**](../../../../apps/apps-for-android.md)
-* [**Apple iPad versus Samsung Galaxy Tab S**](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Samsung Galaxy Tab S series notes](samsung-tab-s-notes.md)
+* [Apps for Android](../../../../apps/apps-for-android.md)
+* [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
 
 ## The S Pen
 
-* [**notes on the Samsung S Pen**](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
-* [**Upgrading from the Samsung S pen to the Wacom CP-913 pen**](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+* [Samsung S Pen notes](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
+* [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## S11 series
 
@@ -21,7 +21,7 @@ The TabS series spans a number of different devices that vary in size and power.
 * S11
   * [Teoh on Tech - Samsung Tab S11: Note Taking & Handwriting Review](https://www.youtube.com/watch?v=aR83Zgla3wc) 2026-01-12
 * S11 Ultra
-  * [**notes on Tab S11 Ul\*\*\*\*tra**](samsung-tab-s11ultra-notes.md)
+  * [Samsung Galaxy Tab S11 Ultra notes](samsung-tab-s11ultra-notes.md)
 
 ## S10 series
 
@@ -46,7 +46,7 @@ The TabS series spans a number of different devices that vary in size and power.
   * [Teoh on Tech review of Samsung Tab S9 Ultra](https://www.youtube.com/watch?v=pM-skwRH3GE) 2023-08-07
   * [Teoh on Tech: Pros and cons of note taking on Tab S9 Ultra](https://youtu.be/Rmtk4-ItSC0) 2023-08-05
 * S9 FE
-  * [notes on Tab S9 FE](samsung-tab-s9fe-notes.md)
+  * [Samsung Galaxy Tab S9 FE notes](samsung-tab-s9fe-notes.md)
   * [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW_TV0fRY) 2023-12-05
 * Accessories
   * [Teoh on Tech review of Samsung NotePaper Screen for Tab S9 tablets](https://youtu.be/i6A-61GllGY) 2023-09-09
@@ -54,7 +54,7 @@ The TabS series spans a number of different devices that vary in size and power.
 ## S8 series
 
 * S8 Ultra
-  * [notes on the S8 Ultra](samsung-tab-s8ultra-notes.md)
+  * [Samsung Galaxy Tab S8 Ultra notes](samsung-tab-s8ultra-notes.md)
 
 ## S7 series
 
@@ -65,4 +65,4 @@ The TabS series spans a number of different devices that vary in size and power.
 
 ## S6 series
 
-* [**notes on S6 lite**](samsung-tab-s6lite-notes.md)
+* [Samsung Galaxy Tab S6 lite notes](samsung-tab-s6lite-notes.md)

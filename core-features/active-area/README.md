@@ -22,8 +22,8 @@ The active area of a pen display is very easy to detect because it is the exact 
 
 ## Size
 
-Usually when we discuss the size of an active area, we talk about its diagonal length. Drawing tablets vary quite a bit in their active area size. More here: [**Active area size**](active-area-size.md).
+Usually when we discuss the size of an active area, we talk about its diagonal length. Drawing tablets vary quite a bit in their active area size. More here: [Active area size](active-area-size.md).
 
 ## Aspect ratio
 
-The relationship between the width and height of the active area is its aspect ratio. More here: [**Active area aspect ratio**](active-area-aspect-ratio.md).
+The relationship between the width and height of the active area is its aspect ratio. More here: [Active area aspect ratio](active-area-aspect-ratio.md).

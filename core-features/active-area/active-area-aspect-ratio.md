@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The aspect ratio of your drawing tablet's [**active area**](./), can have a big impact on how good it feels to draw on them.
+The aspect ratio of your drawing tablet's [Active area](./), can have a big impact on how good it feels to draw on them.
 
 ## Basics
 
@@ -18,7 +18,7 @@ Displays (monitors) tend to have aspect ratios like 16x9 and 16x10. 16x9 is the 
 
 If you are using a pen tablet, it mostly likely does not match the aspect ratio of your monitor and you will see some distortion when you draw.&#x20;
 
-This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios](../../guides/customizing/force-proportions.md).
+This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md).
 
 ## Pen displays and aspect ratios
 

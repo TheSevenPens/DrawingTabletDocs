@@ -52,7 +52,7 @@ It weighs less than any of the these Intuos Pro pen tablets:
 
 ## Included pen
 
-Comes with a special version of the Wacom Pro Pen 3. More here [**Wacom Pro Pen 3**](../../../pens/wacom-pens/wacom-acp500-notes.md).
+Comes with a special version of the Wacom Pro Pen 3. More here [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
 
 This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in terms of pressure response, IAF, max pressure.
 

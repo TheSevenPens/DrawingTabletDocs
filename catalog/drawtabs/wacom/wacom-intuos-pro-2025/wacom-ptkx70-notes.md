@@ -94,7 +94,7 @@ Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
 ### Included pen
 
-The tablet comes with the Pro Pen 3 (ACP-500). [**My detailed notes on this pen**](../../../pens/wacom-pens/wacom-acp500-notes.md)
+The tablet comes with the Pro Pen 3 (ACP-500). [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
 
 ### The tablet only comes with 1 pen
 

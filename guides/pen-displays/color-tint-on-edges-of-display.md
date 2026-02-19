@@ -38,7 +38,7 @@ Unlike backlight bleed, the tint is often visible even on a very bright or pure 
 
 ## Causes
 
-Based on what I have read the cause due to an issue with laminated displays (see: [**lamination**](lamination.md)). Laminated displays have a layer of optically clear adhesive (OCA) between the glass and the display. Apparently, pressure at the edges of the display causes this effect in the OCA layer.
+Based on what I have read the cause due to an issue with laminated displays (see: [Lamination](lamination.md)). Laminated displays have a layer of optically clear adhesive (OCA) between the glass and the display. Apparently, pressure at the edges of the display causes this effect in the OCA layer.
 
 Unclear if environmental conditions (temperature, humidity) can cause this effect.
 

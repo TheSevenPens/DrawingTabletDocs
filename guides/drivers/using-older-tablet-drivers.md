@@ -4,7 +4,7 @@
 
 Manufacturers usually keep all the old versions of their tablet drivers on their website. If you can't find the driver you need you can always contact customer support and they should be able to help you find it for you.
 
-For Wacom: I have a list of older drivers: [Older wacom drivers](older-wacom-drivers.md)
+For Wacom: I have a list of older drivers: [Older Wacom drivers](older-wacom-drivers.md)
 
 ## Challenges in using older drivers
 
@@ -14,4 +14,4 @@ A common issue is that the operating system has changed since the driver was fir
 
 ## Alternatives to using older drivers
 
-Consider [**OpenTabletDriver** ](opentabletdriver/)
+Consider [OpenTabletDriver](opentabletdriver/)

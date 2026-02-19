@@ -27,7 +27,7 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 ## General
 
-**Pen** - comes with the Wacom Pro Pen 2. Which is an excellent pen and responsible for much of the great drawing experience. See [notes on the pro pen 2](../../../pens/wacom-pens/wacom-kp504e-notes.md).
+**Pen** - comes with the Wacom Pro Pen 2. Which is an excellent pen and responsible for much of the great drawing experience. See [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md).
 
 **Pressure handling** - EXCELLENT. See my notes on the Pro Pen 2.
 
@@ -168,7 +168,7 @@ This port type is getting less common. So to make sure you know what the cable l
 
 **Special note on HDMI**
 
-In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [**Using HDMI adapters with pen displays**](../../../../guides/pen-displays/using-hdmi-adapters/)
+In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [Using HDMI adapters with pen displays](../../../../guides/pen-displays/using-hdmi-adapters/)
 
 ## My connectivity setup
 

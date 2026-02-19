@@ -38,7 +38,7 @@ For a pen display (screen tablet) there is of course another component - the scr
 
 ## NO SIGNAL for pen displays
 
-Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [**Troubleshoot No Signal**](tsg-no-signal.md).
+Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to do with the digitizer and is a completely unrelated topic. It means a pen display cannot detect a video signal from the computer. If you are experiencing the NO SIGNAL problem, then go here: [TSG: Pen display shows NO SIGNAL message](tsg-no-signal.md).
 
 ## Basic troubleshooting
 
@@ -78,13 +78,13 @@ Double check how it is connected.
 
 ## Reset the tablet
 
-* This is an option for SOME tablets. More here: [**Reset a drawing tablet**](reset-wacom-intuos-pro-tablets.md)
+* This is an option for SOME tablets. More here: [Reset a drawing tablet](reset-wacom-intuos-pro-tablets.md)
 
 ## Windows > Check if Windows PNP drivers work
 
 Windows has some limited built-in support for tablets. Not all tablets work with Windows PNP, but many do.
 
-How to test with the Windows PNP drivers: [**Testing with Windows PNP drawing tablet drivers**](diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
+How to test with the Windows PNP drivers: [DIAG: Testing with Windows PNP drawing tablet drivers](diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
 
 If it does work correctly, it points to a problem with the manufacturer tablet driver instead of the tablet hardware.
 
@@ -123,7 +123,7 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 ## Still not solved?
 
-If none of these suggestions are helping, then [**contact support**](../basics/contacting-support.md).
+If none of these suggestions are helping, then [Contacting support](../basics/contacting-support.md).
 
 In the meanwhile, you may be able to use alternative drivers on Windows:
 

@@ -22,7 +22,7 @@ If the buttons are symmetric from left-to-right - for example if the buttons are
 
 ## Case 3: A tablet with buttons that are one one side&#x20;
 
-If a tablet has buttons on a side, it is almost alwasy the left side. This means a right-handed person can use the tablet easily. But a left handed person must [**rotate the tablet**](rotating-a-drawing-tablet.md) if they want to avoid accidentally hitting the buttons. Alternatively they could disable the buttons in the driver so that the buttons are inactive.
+If a tablet has buttons on a side, it is almost alwasy the left side. This means a right-handed person can use the tablet easily. But a left handed person must [Rotating a drawing tablet](rotating-a-drawing-tablet.md) if they want to avoid accidentally hitting the buttons. Alternatively they could disable the buttons in the driver so that the buttons are inactive.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000411.png" alt="" width="563"><figcaption></figcaption></figure></div>
 

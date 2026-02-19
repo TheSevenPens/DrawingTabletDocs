@@ -4,18 +4,18 @@
 
 This is my curated list of apps that are simple and inexpensive (or free). These apps are ideal for children, or for someone who just wants something basic.
 
-* For other options consult this [**list of apps**](list-of-apps.md).
-* If you are interested in understanding apps in general: [**Applications**](./)
+* For other options consult this [List of apps](list-of-apps.md).
+* If you are interested in understanding apps in general: [Apps](./)
 
 ## Options
 
-* [**Procreate**](../catalog/apps/procreate/) (iOS) [**notes on this app**](../catalog/apps/procreate/procreate-notes.md)
-* [**HiPaint**](../catalog/apps/hipaint.md) (Android, iOS)
+* [Procreate](../catalog/apps/procreate/) (iOS) [Procreate notes](../catalog/apps/procreate/procreate-notes.md)
+* [HiPaint](../catalog/apps/hipaint.md) (Android, iOS)
   * Basically a clone of Procreate
-  * [**ArtRage** ](../catalog/apps/artrage.md)(Windows, macOS, iOS, Android)
-* [**Infinite painter**](../catalog/apps/infinite-painter.md) - (Android, iOS)
+  * [ArtRage](../catalog/apps/artrage.md)(Windows, macOS, iOS, Android)
+* [Infinite Painter](../catalog/apps/infinite-painter.md) - (Android, iOS)
   * Similar to procreate
-* [**Concepts**](../catalog/apps/concepts-app.md) - (Windows, Android, iOS, ChromeOS)
+* [Concepts app](../catalog/apps/concepts-app.md) - (Windows, Android, iOS, ChromeOS)
 * **Photopea** - [https://www.photopea.com/](https://www.photopea.com/) (web)
   * Basically an online version of photoshop
 * **Sketchbook Pro** (MacOS, Windows, Android, iOS)

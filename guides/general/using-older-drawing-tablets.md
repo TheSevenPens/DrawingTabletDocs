@@ -18,7 +18,7 @@ Models I have specifically used with Windows 11:
 
 * They bought the tablet a long time ago but haven't used it recently.
 * It was a tablet that was gifted to them
-* They bought the tablet used - for example from eBay (more here: [**buying used drawing tablets**](../../buying-drawtabs/buying-used.md))
+* They bought the tablet used - for example from eBay (more here: [Buying used drawing tablets](../../buying-drawtabs/buying-used.md))
 
 ## Support lifetime
 
@@ -35,7 +35,7 @@ When the support lifetime ends for tablet:
 
 ## Drivers overview
 
-Drivers allow a tablet to be used with a computer. They are required if you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. More here: [**drivers**](../drivers/)
+Drivers allow a tablet to be used with a computer. They are required if you want to use the special features of a drawing tablet and the pen such as pressure sensitivity and tilt. More here: [Drivers](../drivers/)
 
 ## Driver compatibility issues
 
@@ -47,8 +47,8 @@ For example today, if you install the latest Wacom tablet drivers and then proce
 
 if the latest drivers do not work with the tablet that you have, then you have two options:
 
-* Use [**Using older tablet drivers**](../drivers/using-older-tablet-drivers.md)
-* Use [**OpenTabletDriver**](../drivers/opentabletdriver/)
+* Use [Using older tablet drivers](../drivers/using-older-tablet-drivers.md)
+* Use [OpenTabletDriver](../drivers/opentabletdriver/)
 
 ## Cabling
 
@@ -64,7 +64,7 @@ Some older pen displays use proprietary ports and connectors.
 
 If you are using a very old drawing tablet, the plastic may have shifted colors and turned more yellow over time. You may not find the look of this yellow tint very attractive.
 
-If you wish to remove or reduce the yellowing consider using a retrobright process. More here: [**retrobrighting**](../maintaining-your-drawing-tablet/retrobright-to-handle-yellowed-plastic.md).
+If you wish to remove or reduce the yellowing consider using a retrobright process. More here: [Retrobright to handle yellowed plastic](../maintaining-your-drawing-tablet/retrobright-to-handle-yellowed-plastic.md).
 
 ## Resources
 

@@ -3,14 +3,14 @@
 {% hint style="info" %}
 First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../types-of-drawtabs/)
 
-Then look through the buying guide for details: [buying guide](../../buying-drawtabs/)
+Then look through the buying guide for details: [Drawing tablet buying guide](../../buying-drawtabs/)
 {% endhint %}
 
 ## Overview
 
 Taking notes is a popular scenario for drawing tablets.
 
-Generally I believe you will get the most natural experience taking notes if you use a [**standalone pen-enabled mobile devices**](../../recommendations/standalone-recs/mobile-device-recs.md) or [**dedicated note taking devices**](../../recommendations/scenarios/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
+Generally I believe you will get the most natural experience taking notes if you use a [Pen-enabled mobile device recommendations](../../recommendations/standalone-recs/mobile-device-recs.md) or [Dedicated note taking devices](../../recommendations/scenarios/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
 
 On the other hand some people enjoy taking notes with pen tablets (screenless tablets) or pen displays (screen tablets). Of course, these tablets are not standalone.
 
@@ -34,7 +34,7 @@ Some people can work very well with using a pen tablet for taking notes. Though 
 
 If you do want to use a pen tablet for taking notes here are some devices that will work well and don’t cost too much. You can even find them for less cost on eBay.
 
-* Wacom One Medium (CTL-672) o Wacom One Small (CTL-472)- [**notes on these tablets**](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
+* Wacom One Medium (CTL-672) o Wacom One Small (CTL-472)- [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
 * XP Pen Deco M & MW
 * XP Pen Deco L & LW
 
@@ -49,13 +49,13 @@ Pen displays, because they do have a screen, generally feel more natural for not
 * **Size** - a 13" or smaller pen display should work fine. In fact 13" may even be a bit large for this purpose.
 * **Wireless.** A pen display will always have at least one wire that needs to be connected to the computer.
 * **Power.** The pen display will draw a significant amount of power from your laptop. And this will really reduce the battery life of your laptop.
-* **Complex connection.** Ideally you would use a single cable to connect a pen display to a computer. But for various reasons this is not always possible. As an alternative you may be required to have a more complex cabling arrangement - often using a 3-in-1 cable. More here about [**using one USB-C cable with a pen display**](../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md).
-* **Pointer lag.** Pen displays have a lot of pointer lag - this can be very difficult to deal with when taking notes - especially if you write fast. More here: [**lag**](../../core-features/lag/)
+* **Complex connection.** Ideally you would use a single cable to connect a pen display to a computer. But for various reasons this is not always possible. As an alternative you may be required to have a more complex cabling arrangement - often using a 3-in-1 cable. More here about [Connecting a pen display with USB-C](../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md).
+* **Pointer lag.** Pen displays have a lot of pointer lag - this can be very difficult to deal with when taking notes - especially if you write fast. More here: [Lag](../../core-features/lag/)
 * **Dropping the tablet.** If you are note taking in a location where you might drop your pen display, in many cases you will either experience a cracked screen or simply break the tablet entirely.
 
 ## Applications for taking notes
 
-See the note taking section here: [**Applications**](taking-notes.md#applications)
+See the note taking section here: [Taking notes with drawing tablets](taking-notes.md#applications)
 
 ## Resources
 

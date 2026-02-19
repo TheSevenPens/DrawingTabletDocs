@@ -2,7 +2,7 @@
 
 ## Overview
 
-Etched glass is one of two popular treatments the glass surface of a pen display. (The other is called an [**anti-glare film**](anti-glare-film.md)).
+Etched glass is one of two popular treatments the glass surface of a pen display. (The other is called an [Anti-glare film](anti-glare-film.md)).
 
 "Etched glass" describes a microscopic texture applied to a glass surface.
 
@@ -15,7 +15,7 @@ Etched glass provides two benefits
 
 ## Sparkle
 
-Like other anti-glare treatments, etched glass can produce an effect called **anti-glare sparkle** which is a "rainbow noise" effect. Depending on the tablet there will be a little or lot of this sparkle. Learn more here: [**Anti-glare sparkle**](anti-glare-sparkle.md).
+Like other anti-glare treatments, etched glass can produce an effect called **anti-glare sparkle** which is a "rainbow noise" effect. Depending on the tablet there will be a little or lot of this sparkle. Learn more here: [Anti-glare sparkle](anti-glare-sparkle.md).
 
 ## Permanence
 

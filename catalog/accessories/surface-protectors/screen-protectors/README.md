@@ -4,20 +4,20 @@
 
 Screen protectors are protective sheets of some material (usually plastic) that cover the glass of your pen display and prevent certain kinds of damage.
 
-If you are looking for protection for other kinds of devices go here: [**Surface protection**](../)
+If you are looking for protection for other kinds of devices go here: [Surface protection](../)
 
 ## **Laminated does NOT mean "screen protector"**
 
 This is a persistent point of confusion. People sometimes think a screen with "lamination" means there is a screen protector. Or vice-versa.
 
-**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [lamination](../../../../guides/pen-displays/lamination.md).
+**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [Lamination](../../../../guides/pen-displays/lamination.md).
 
 ## Characteristics
 
 * **Transparency** - Screen protectors must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a tablet with a screen.
 * **Anti-glare** - Screen protectors usually offer some amount of ant-glare treatment. Screen protectors vary in how much of this treatment they have. And some deliberately offer low or no AG treatment at all.
-  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [**anti-glare sparkle**](../../../../guides/pen-displays/anti-glare-sparkle.md).
-* **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [parallax](../../../../guides/pen-displays/parallax.md).
+  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [Anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md).
+* **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [Parallax](../../../../guides/pen-displays/parallax.md).
 
 ## Pre-installed screen protectors
 
@@ -48,7 +48,7 @@ Contact your manufacturer to see if they sell replacement films.
 Examples:
 
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
-* [XP-Pen offers protective sheets for their tablets](../xppen-surface-protectors.md)
+* [XP-Pen surface protectors](../xppen-surface-protectors.md)
 
 ## 3rd-party screen protectors
 
@@ -56,7 +56,7 @@ If your tablet manufacturer does not make a screen protector, then you do have 3
 
 This list comes from ones I have tested to some degree (Photodon) and those suggested by users on reddit posts. I don't use any of these screen protectors personally. So, please research thoroughly before you buy.
 
-* **Photodon** - sells pre-cut and custom-sized protectors at different anti-glare strengths. I did some limited testing with a Photodon sample pack a few years ago. More here: [**Photodon screen protectors**](photodon-screen-protectors.md)
+* **Photodon** - sells pre-cut and custom-sized protectors at different anti-glare strengths. I did some limited testing with a Photodon sample pack a few years ago. More here: [Photodon screen protectors](photodon-screen-protectors.md)
 * **ViaScreens** - [**https://viascreens.com/**](https://viascreens.com/)
 * **atFoliX**
 * **HealingShield** - Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19

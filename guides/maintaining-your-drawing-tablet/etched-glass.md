@@ -14,6 +14,6 @@ The texture gives two benefits. First, it helps the glass avoid feeling slippery
 
 ## Potential disadvantages&#x20;
 
-One negative aspect of the etching is that it can create an effect called anti glare sparkle. Sometimes the anti glare sparkle is very subtle but sometimes it is extremely strong and people do not like it. More here: [Anti-Glare Sparkle](../pen-displays/anti-glare-sparkle.md).
+One negative aspect of the etching is that it can create an effect called anti glare sparkle. Sometimes the anti glare sparkle is very subtle but sometimes it is extremely strong and people do not like it. More here: [Anti-glare sparkle](../pen-displays/anti-glare-sparkle.md).
 
 Users may also see a little bit of "softness" to the pixels. Where the etches of pixels are not as crisp as you would normally expect. This is due to the light from the display panel being diffused because of the eching.

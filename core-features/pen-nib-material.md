@@ -25,7 +25,7 @@ Wacom offers three materials for this pen (standard, elastomer, felt). See this 
 
 ## Metal nibs
 
-I DO NOT recommend [**using a metal nib**](../guides/customizing/using-metal-nibs.md).
+I DO NOT recommend [Using metal nibs](../guides/customizing/using-metal-nibs.md).
 
 ## Nib with ceramic tip and metal body
 

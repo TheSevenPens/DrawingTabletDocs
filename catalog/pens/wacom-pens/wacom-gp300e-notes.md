@@ -2,7 +2,7 @@
 
 ## Overview
 
-This was the default pen for the [Intuos1 series](../../drawtabs/wacom/wacom-intuos1.md).
+This was the default pen for the [Wacom Intuos1](../../drawtabs/wacom/wacom-intuos1.md).
 
 Key features
 

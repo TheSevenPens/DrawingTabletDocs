@@ -16,7 +16,7 @@ Read this first: [Connecting a pen display](./)
 
 ## 3-in-1 cables
 
-This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [**3-in-1 cables**](connecting-with-a-3-in-1-cable.md)
+This is a special kind of cable. One end will have a single USB-C connection. The other end it will have the different connections. Typically these will be: HDMI, USB-A, and some kind of power. More here: [Connecting with a 3-in-1 cable](connecting-with-a-3-in-1-cable.md)
 
 ## Which HDMI port on the computer should you use?
 
@@ -33,8 +33,8 @@ If it's a PC that has a separate graphics card you might have an HDMI port in mu
 
 As a general rule, always use the HDMI ports on the graphics card (GPU) . Only use the HDMI ports on the motherboard as a last resort.
 
-more here: [**Motherboard HDMI ports vs GPU HDMI ports**](motherboard-hdmi-vs-gpu-hdmi-ports.md).
+more here: [Motherboard HDMI vs GPU HDMI ports](motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
 ### What if you don't have any HDMI ports?
 
-If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../../pen-displays/using-hdmi-adapters/)&#x20;
+If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [Using HDMI adapters with pen displays](../../pen-displays/using-hdmi-adapters/)&#x20;

@@ -11,5 +11,5 @@
 
 ## Tools
 
-* [**PenTracker** by Patrick Lauke](../guides/advanced/pentracker-by-patrick-lauke.md)&#x20;
+* [PenTracker by Patrick Lauke](../guides/advanced/pentracker-by-patrick-lauke.md)&#x20;
 * [Croquis.js ](https://github.com/disjukr/croquis.js)- an HTML5 drasing tool library. Useful for seeing how stylus informaiton is used to implement a creative application. You can [play with a demo app here](https://labs.crosspop.in/Croquispop/croquispop.html).

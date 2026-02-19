@@ -91,13 +91,13 @@ These are my wobble samples across a number of tablets.&#x20;
 
 [https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC](https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC)
 
-All were created using my a standard testing process: [**Diagonal wobble testing**](../process/measuring/measuring-diagonal-wobble.md).
+All were created using my a standard testing process: [Measuring diagonal wobble](../process/measuring/measuring-diagonal-wobble.md).
 
 ## Brand-specific notes
 
 ### XP-Pen&#x20;
 
-Some recent models with XP-Pen feature some excessive [**diagonal wobble**](diagonal-wobble.md). This is something you should check into when looking into these models. Here are examples of of the line wobble in recent XP-Pen:
+Some recent models with XP-Pen feature some excessive [Diagonal wobble](diagonal-wobble.md). This is something you should check into when looking into these models. Here are examples of of the line wobble in recent XP-Pen:
 
 * XP Pen Deco LW 8:06 in this video : [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)
 * XP Pen Artist 16 (GEN2) 7:04 in this video: [https://youtu.be/0VaH-UTRL7A?t=486 ](https://youtu.be/0VaH-UTRL7A?t=486)

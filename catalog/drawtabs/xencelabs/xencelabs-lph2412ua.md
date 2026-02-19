@@ -101,11 +101,11 @@ With a felt nib
 
 ## **Pens**
 
-For more information about these pens: [**notes on the Xencelabs V2 pens**](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
+For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Pressure range
 
-For more information about these pens: [**notes on the Xencelabs V2 pens**](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
+For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Pressure Transition
 

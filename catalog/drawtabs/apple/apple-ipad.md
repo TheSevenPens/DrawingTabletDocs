@@ -2,18 +2,18 @@
 
 ## Basics
 
-* [**notes on Apple iPad**](apple-ipad-notes.md)
-* [**notes on Apple Pencil**](../../pens/apple-pencil/)
+* [Apple iPad notes](apple-ipad-notes.md)
+* [Apple pens](../../pens/apple-pencil/)
 
 ## Comparisons
 
-* [**Apple iPad versus drawing tablets**](apple-ipad-vs-drawing-tablets.md)
-* [**Apple iPad versus Samsung Galaxy Tab S**](apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-versus-samsung-galaxy-tab-s.md)
 
 ## Guides
 
 * [**Connecting an iPad to your computer as a drawing tablet**](/broken/pages/wdKB04PpHLSotRkXTO0U)
-* [**Connecting a drawing tablet to an iPad or iPhone**](../../../guides/operating-systems/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md)
+* [Using a drawing tablet with an iPad or iPhone](../../../guides/operating-systems/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md)
 
 ## Links
 

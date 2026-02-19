@@ -24,15 +24,15 @@ The same delay at the beginning of dragging the pen, can manifest in other user 
 ## Diagnostic questions to answer
 
 * Does it happen in a specific app or all apps?
-* Does it happen in this online app? [**7P online tablet tester**](../resources/sevenpens-tablet-tester.md)
+* Does it happen in this online app? [SevenPens Tablet Tester](../resources/sevenpens-tablet-tester.md)
 * Does it happen in the driver pressure test region?
 
 ## Potential solutions
 
 * Restart the computer
-* Try [**disabling the press-and-hold ring in Windows**](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)
-* Try [**disabling windows ink in the app**](../guides/operating-systems/windows/winink/winink-config-apps.md) then restart the app
-  * and if that doesn't solve it, then also try [**disabling windows ink in the driver**](../guides/operating-systems/windows/winink/winink-config-driver.md) and then restart the app.
+* Try [Disable the press-and-hold ring in Windows](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)
+* Try [Configure Windows Ink for apps](../guides/operating-systems/windows/winink/winink-config-apps.md) then restart the app
+  * and if that doesn't solve it, then also try [Configure Windows Ink in the tablet driver](../guides/operating-systems/windows/winink/winink-config-driver.md) and then restart the app.
 
 ## Links
 

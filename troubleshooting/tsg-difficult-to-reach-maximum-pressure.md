@@ -45,7 +45,7 @@ Because you cannot physically fix the problem, you have two options:
 
 ### Using a pressure curve to a pen hardware problem
 
-Try adjusting the pressure curve in the driver until the problem goes away. Specifically you are looking for a pressure curve that "constrains the output". This means the right edge of the curve does not go up to the full height of the pressure curve. More here: [**Pressure curves that constrain output**](../core-features/pen-pressure/pen-pressure-curves/constraining-pressure-curve-output.md)
+Try adjusting the pressure curve in the driver until the problem goes away. Specifically you are looking for a pressure curve that "constrains the output". This means the right edge of the curve does not go up to the full height of the pressure curve. More here: [Pressure curves that constrain output](../core-features/pen-pressure/pen-pressure-curves/constraining-pressure-curve-output.md)
 
 **Keep in mind:**
 
@@ -60,4 +60,4 @@ Here are some examples below.
 
 If the problem does NOT appear in the driver, then it is possible that another pressure curve in the application is causing it. Check all the pressure curves and reset them to null pressure curve.
 
-More here: [**null pressure curve**](../core-features/pen-pressure/pen-pressure-curves/null-pressure-curve.md)
+More here: [Null pressure curve](../core-features/pen-pressure/pen-pressure-curves/null-pressure-curve.md)

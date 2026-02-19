@@ -2,7 +2,7 @@
 
 ## Overview
 
-This doc describes how I test for PWM flicker in a display. To learn more about what PWM flicker is go here: [**PWM flicker**](../../core-features/pwm-flicker.md).
+This doc describes how I test for PWM flicker in a display. To learn more about what PWM flicker is go here: [PWM Flicker](../../core-features/pwm-flicker.md).
 
 ## Process for measuring
 

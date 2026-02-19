@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* For a more general introduction to lag, see [**Lag**](./).
-* There is a separate kind of lag called [**pointer lag**](pointer-lag.md).
+* For a more general introduction to lag, see [Lag](./).
+* There is a separate kind of lag called [Pointer lag](pointer-lag.md).
 
 ## Notes on brush lag
 

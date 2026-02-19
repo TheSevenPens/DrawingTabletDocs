@@ -3,5 +3,5 @@
 ## Wacom Movink 13
 
 * Released: 2024
-* [**notes on this tablet**](wacom-dth135-notes.md)
+* [Wacom Movink 13 (DTH-135) notes](wacom-dth135-notes.md)
 *

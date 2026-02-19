@@ -26,7 +26,7 @@ In 2023, Wacom released two updated pen display versions in the Wacom One 2023 (
 
 In my initial investigation in 2023, I wasn't too happy with these newer versions. However, now in 2025 I should re-examine them to see if firmware and driver updates have improved their drawing experience.
 
-See: [**7P notes: Wacom One 2023 GEN2 pen displays**](wacom-one-2023-pen-displays-notes.md)
+See: [Wacom One 2023 pen displays notes](wacom-one-2023-pen-displays-notes.md)
 
 ## Size
 
@@ -64,7 +64,7 @@ This has an AVHA display panel, not IPS. The colors are a little washed out and 
 
 ### **Included Pen**
 
-The supplied Wacom One GEN1 pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [**notes on Wacom One Pen (CP-913)**](../../../pens/wacom-pens/wacom-cp913-notes.md)
+The supplied Wacom One GEN1 pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
 
 ### Compatible pens
 

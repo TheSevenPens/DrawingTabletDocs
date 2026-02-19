@@ -10,8 +10,8 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 * Release year: 2009
 * Intuos pro generation: 4th gen
-* Preceded by: [Intuos3](../wacom-intuos3.md)
-* Succeeded by: [Intuos5](../wacom-intuos5.md)
+* Preceded by: [Wacom Intuos3](../wacom-intuos3.md)
+* Succeeded by: [Wacom Intuos5](../wacom-intuos5.md)
 * User manuals
   * [User manual for PTK-540WL](https://support.wacom.asia/sites/default/files/manuals_brochures/intuos4-wireless-en.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5993373))
 * Last supported driver
@@ -48,7 +48,7 @@ For example none of them are listed in the compatibility list for Wacom windows 
 
 More here: [https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html)
 
-You can still use these tablets with caveats that come with using older tablets. More here:[ **using older drawing tablets**](../../../../guides/general/using-older-drawing-tablets.md)
+You can still use these tablets with caveats that come with using older tablets. More here:[Using older drawing tablets](../../../../guides/general/using-older-drawing-tablets.md)
 
 ## Wacom Intuos 4 Large
 

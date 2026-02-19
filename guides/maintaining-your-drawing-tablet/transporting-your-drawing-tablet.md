@@ -1,7 +1,7 @@
 # Transporting your drawing tablet
 
 {% hint style="info" %}
-For more general information: [**Caring for your tablet**](./)
+For more general information: [Maintaining your drawing tablet](./)
 {% endhint %}
 
 ## General advice for all drawing tablets
@@ -28,7 +28,7 @@ For more general information: [**Caring for your tablet**](./)
 
 ## Cases for tablets
 
-If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [**Protective cases**](../../catalog/accessories/tablet-cases.md).
+If you are carrying your tablet with you or transporting it, consider some extra protection via a case. More here: [Tablet cases](../../catalog/accessories/tablet-cases.md).
 
 ## Protecting your pens
 
@@ -40,7 +40,7 @@ Drawing tablet pens are also very delicate
 
 ## Cases for pens
 
-See: [Protective cases for pens](../../catalog/accessories/pen-cases.md)
+See: [Pen cases](../../catalog/accessories/pen-cases.md)
 
 ## Preparing for the worst
 

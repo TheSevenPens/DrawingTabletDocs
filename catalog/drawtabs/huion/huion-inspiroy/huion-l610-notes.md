@@ -65,7 +65,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 * Comes with the Huion PW550S pen.
 * Default nib: felt.
   * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
-* More here: [**notes on the Huion PW550 series pens**](../../../pens/huion-pens/huion-pw550-notes.md)
+* More here: [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Other compatible pens
 
@@ -75,7 +75,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.
-* More here: [**notes on Huion PW550 and PW550S pens**](../../../pens/huion-pens/huion-pw550-notes.md)
+* More here: [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Pointer lag
 

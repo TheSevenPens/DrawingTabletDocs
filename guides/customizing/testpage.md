@@ -1,3 +1,3 @@
 # TestPage
 
-[LINK](force-proportions.md)
+[Matching aspect ratios with Force Proportions](force-proportions.md)

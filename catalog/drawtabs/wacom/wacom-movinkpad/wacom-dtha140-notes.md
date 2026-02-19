@@ -103,20 +103,20 @@ I hope the next generation of this tablet incorporates these features:
 ### Included Pen
 
 * Pro Pen 3 (no grip)
-* See: [Notes on Pro Pen 3](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* See: [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
 
 ### Compatible pens
 
-* Pro Pen 3 (ACP-500) [Notes on Pro Pen 3](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* Pro Pen 3 (ACP-500) [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
 * UD EMR pens such as:
-  * Wacom One (CP-913) [Notes on CP-913](../../../pens/wacom-pens/wacom-cp913-notes.md)
-  * Wacom One (CP-923) [Notes on CP-923](../../../pens/wacom-pens/wacom-cp923-notes.md)
+  * Wacom One (CP-913) [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
+  * Wacom One (CP-923) [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
   * Samsung S Pen
   * Keep in mind that these UD EMR pens are nowhere close to the quality of the Wacom professional pens such as the Pro Pen 3. Their chief advantage is that they cost much less - usually around 30 to $40 whereas the Pro Pen 3 costs $130.00. So, these UD EMR pens can serve as a backup in case you lose or break your Pro Pen 3.
 
 ### Incompatible Pens
 
-* Pro Pen 2 (KP-504E) [Notes on KP-504E](../../../pens/wacom-pens/wacom-kp504e-notes.md)
+* Pro Pen 2 (KP-504E) [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
   * You will not be able to use any of your existing Pro Pen 2 models with this device.
   * I hope Wacom revisits this decision
 
@@ -348,7 +348,7 @@ There are four rubber feet on the back. This keeps the tablet slightly elevated 
 
 ### MovinkPad Pro 14 cover
 
-See [notes on the movinkpad cover](wacom-ack45633z-notes.md)
+See [Wacom MovinkPad Pro 14 cover (ACK45633Z) notes](wacom-ack45633z-notes.md)
 
 ## Choosing between tablets
 

@@ -6,7 +6,7 @@ OpenTabletDriver lets you configure smoothing via plug-ins.
 
 ## Installing the Slimy Scylla plug-in
 
-Instructions for installing Slimy Scylla are here: [**Slimy Scylla**](otd-plugin-slimyscylla.md)
+Instructions for installing Slimy Scylla are here: [Slimy Scylla](otd-plugin-slimyscylla.md)
 
 ## Position smoothing
 

@@ -12,7 +12,7 @@ I love creative tech. I've been using drawing tablets for a long time and wanted
 
 ## Tablets I own
 
-You can see a complete list of [**the tablets I currently own**](inventory.md).
+You can see a complete list of [Tablet inventory](inventory.md).
 
 ## Why "Seven Pens"?
 
@@ -22,9 +22,9 @@ When I started my YouTube channel I had seven pens from my drawing tablets. Now 
 
 ## **Key resources**
 
-* My general take on [Drawing tablet brands](../drawtab-brands/) &#x20;
-* [Buying guide](../buying-drawtabs/)&#x20;
-* [Drawing tablet recommendations](../recommendations/) &#x20;
+* My general take on [Brands](../drawtab-brands/) &#x20;
+* [Drawing tablet buying guide](../buying-drawtabs/)&#x20;
+* [Recommendations](../recommendations/) &#x20;
 
 ## **How I engage with tablet brands**
 

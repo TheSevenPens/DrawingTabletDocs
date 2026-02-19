@@ -14,7 +14,7 @@ The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It
 
 ## Included Pen
 
-These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good. [**notes on this pen**](../../../pens/wacom-pens/wacom-kp504e-notes.md).
+These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good. [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md).
 
 ## **Drawing experience**
 
@@ -22,7 +22,7 @@ In summary, the drawing experience is EXCELLENT. Only the Intuos Pro 2025 series
 
 ## **Pressure handling**
 
-Quality of pressure handling due to the pen. And the KP-504E pen is EXCELLENT at pressure. See [**notes on the Wacom Prop Pen 2 (KP-504E) pen**](../../../pens/wacom-pens/wacom-kp504e-notes.md).
+Quality of pressure handling due to the pen. And the KP-504E pen is EXCELLENT at pressure. See [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md).
 
 ## **Pointer lag**
 
@@ -121,6 +121,6 @@ After the end of the support lifetime, we can consider the Intuos pro 2017 serie
 
 The hardware will last forever but eventually not having updated drivers will pose a problem.
 
-You can use older drivers for a while until some point in which they will not work. A new drivers will refuse to work with the older tablets. See: [Using older drivers](../../../../guides/drivers/older-wacom-drivers.md)
+You can use older drivers for a while until some point in which they will not work. A new drivers will refuse to work with the older tablets. See: [Older Wacom drivers](../../../../guides/drivers/older-wacom-drivers.md)
 
 Another option is to use something like open tablet driver which is challenging to set up for artistic use but it does work extremely well. This is an option for for advanced users and requires some technical expertise. For a normal user I would not advise it unless you have help. See: [Install OpenTabletDriver on Windows](../../../../guides/drivers/opentabletdriver/otd-windows-install.md)

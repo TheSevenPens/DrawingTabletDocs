@@ -36,7 +36,7 @@
 
 * Many others have created very thoughtful reviews
 * Please consult them to get a more complete understanding of this tablet
-* You can find other reviews of the Wacom Cintiq Pro 27 in [Wacom reviews](../).
+* You can find other reviews of the Wacom Cintiq Pro 27 in [Wacom](../).
 
 ## Components
 
@@ -70,7 +70,7 @@
 
 ### Pointer lag
 
-* **Background:** [**lag**](../../../../core-features/lag/)
+* **Background:** [Lag](../../../../core-features/lag/)
 * **In absolute terms**, The Cintiq Pro 27 has shows moderate pointer lag.
   * Pen tablets (like the Intuos Pro Large PTH-860) have much less lag than this Cintiq. These have EXCELLENT lag.
   * Apple iPads have much less lag than this Cintiq, but not quite as little as pen displaces. These have EXCELLENT log.
@@ -79,7 +79,7 @@
 
 ### Tilt
 
-* More here: [**Pen tilt**](../../../../core-features/pen-tilt/)
+* More here: [Pen tilt](../../../../core-features/pen-tilt/)
 * Tilt support with the Cintiq Pro 27 is standard for Wacom: EXCELLENT.
   * Tilt is smooth, accurate, and responsive.
   * Tilt works correctly at edges and corners.
@@ -87,7 +87,7 @@
 
 ### Pen tracking accuracy
 
-* Background: [**pen tracking**](../../../../core-features/pen-tracking.md)
+* Background: [Pen tracking](../../../../core-features/pen-tracking.md)
 * Wacom does not publish pen tracking accuracy numbers
 * But we can compare it to other tablets that do have published numbers
 * Here are the accuracy numbers for the Huion Kamvas Pro 24 4K (GT2401) as
@@ -100,7 +100,7 @@
 
 ### Parallax
 
-* Background: [**parallax**](wacom-dth271-notes.md#parallax)
+* Background: [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md#parallax)
 * An iPad Pro has EXCELLENT parallax (very little parallax)
 * The display of the Cintiq Pro 27 has VERY GOOD parallax due to its full lamination but clearly not as good as an iPad Pro
 * The Cintiq Pro 27 parallax is nothing special for modern pen displays. Many pen displays are fully laminated lately.
@@ -109,12 +109,12 @@
 
 Pressure is a feature of the pen you use with the tablet.
 
-See my [**notes on the Wacom Pro Pen 3**](../../../pens/wacom-pens/wacom-acp500-notes.md) that comes with the tablet.
+See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md) that comes with the tablet.
 
 ### **Diagonal wobble**
 
-* Background: [diagonal wobble](wacom-dth271-notes.md#diagonal-wobble)
-* In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [diagonal wobble](wacom-dth271-notes.md#diagonal-wobble).
+* Background: [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md#diagonal-wobble)
+* In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md#diagonal-wobble).
 * NOTE: Originally I had ranked the Cintiq Pro 27 as having VERY GOOD wobble. Upon further testing with many other tablets, I havve downgraded the ranking.
 * As tablet that costs $3500 I think The Cintiq Pro 27 tablet should have better (less) diagonal wobble. There are other tablets out there at various price levels that are better:
   * Wacom Intuos PTH-860
@@ -127,7 +127,7 @@ Rating: OK
 
 <figure><img src="../../../../.gitbook/assets/image-000712.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Compare to some other diagonal samples linked from here: [diagonal wobble](../../../../core-features/diagonal-wobble.md)
+Compare to some other diagonal samples linked from here: [Diagonal wobble](../../../../core-features/diagonal-wobble.md)
 
 ## **Display**
 
@@ -335,7 +335,7 @@ The Wacom Cintiq Pro 27 comes with the Wacom Pro Pen 3.
 
 The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
 
-See my [**notes on the Wacom Pro Pen 3**](../../../pens/wacom-pens/wacom-acp500-notes.md).
+See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
 
 ## Touch
 
@@ -433,7 +433,7 @@ Key points
 
 ### Huion Kamvas 24 Pro 4K ($1300)
 
-I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [notes on this tablet](../../huion/huion-kamvas-pro/huion-gt2401-notes.md).
+I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [Huion Kamvas Pro 24 4K (GT2401) notes](../../huion/huion-kamvas-pro/huion-gt2401-notes.md).
 
 Comparing the Wacom Cintiq Pro 27 the Huion Kamvas 24 Pro 4K.
 
@@ -464,7 +464,7 @@ The Huion may represent a better practical choice for many people because the Hu
 
 ### Xencelabs Pen Display 24
 
-[My experience with this tablet](../../xencelabs/xencelabs-lph2412ua.md).
+[Xencelabs Pen Display 24 (LPH2412U-A) notes](../../xencelabs/xencelabs-lph2412ua.md).
 
 The Cintiq pro is superior in general to the Xencelabs Pen Display 24.
 

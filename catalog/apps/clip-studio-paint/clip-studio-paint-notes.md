@@ -1,6 +1,6 @@
 # Clip Studio Paint notes
 
-[**Clip Studio Paint**](./) - Medium Cost, Advanced, very powerful, multiplatform.&#x20;
+[Clip Studio Paint](./) - Medium Cost, Advanced, very powerful, multiplatform.&#x20;
 
 For me doing illustration that is mostly line art, nothing beats Clip Studio Paint.
 

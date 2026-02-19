@@ -4,7 +4,7 @@
 
 Very good pen. Although Wacom uses this pen for a consumer tablet, the truth is this pen has great drawing performance. In particular it is a good (wide) pressure range with low IAF.
 
-This pen comes with the One by Wacom (CTLx72) series of tablets. [**notes on these tablets**](../../drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md).
+This pen comes with the One by Wacom (CTLx72) series of tablets. [One by Wacom (CTL-x72) notes](../../drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md).
 
 ## Basics
 

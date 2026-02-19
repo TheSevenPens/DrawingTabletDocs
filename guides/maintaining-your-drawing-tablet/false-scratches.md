@@ -14,4 +14,4 @@ These marks are caused by the pen displacing material on the surface. This mater
 
 ## Cleaning tips
 
-Here are some options for cleaning your tablet: [**Cleaning a drawing tablet**](cleaning-a-drawing-tablet.md) &#x20;
+Here are some options for cleaning your tablet: [Cleaning a drawing tablet](cleaning-a-drawing-tablet.md) &#x20;

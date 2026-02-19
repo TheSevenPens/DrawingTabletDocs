@@ -74,7 +74,7 @@ This tablet makes sense for the following scenarios:
 
 ### Included pen
 
-* Wacom One Standard Pen (CP-923) - [**notes on this pen**](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
   * High consumer-level IAF
   * OK pressure range
   * Replacement cost: $35
@@ -83,7 +83,7 @@ This tablet makes sense for the following scenarios:
 
 * Wacom One Standard Pen (CP-923)
 * Wacom One Pen (CP-913)
-* UD EMR pens. See [**Pens that support UD EMR 2nd gen**](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
 * I tested these pens and they worked fine
   * Wacom One Pen (CP-913)
   * Wacom One Standard Pen (CP-923)
@@ -157,7 +157,7 @@ EXCELLENT. No pressure banding observed.
 
 ### Pressure range (IAF and MAX)
 
-See my notes on the Wacom One Standard Pen (CP-923) - [**notes on this pen**](../../../pens/wacom-pens/wacom-cp923-notes.md)
+See my notes on the Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
 
 ### Pressure scan rate
 
@@ -233,7 +233,7 @@ If you need touch, consider these tablets:
 
 The tabet comes with a USB-C cable to achieve a single cable connection to your computer.
 
-You computer's USB-C port needs to meet the requirements for this to work. See: [**Connecting a pen display with a single USB-C cable**](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
+You computer's USB-C port needs to meet the requirements for this to work. See: [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
 
 ### HDMI connection
 

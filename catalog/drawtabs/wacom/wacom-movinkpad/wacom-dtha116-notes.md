@@ -76,7 +76,7 @@ If you are ordering this device online, please make sure you are ordering the co
 
 ### Included pen
 
-* Pro Pen 3 (ACP-500) - [**notes on this pen**](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
 
 ### Pen replacement cost
 
@@ -87,8 +87,8 @@ If you are ordering this device online, please make sure you are ordering the co
 ## Pen compatibility
 
 * It is compatible with
-  * Pro Pen 3 (ACP-500) - [**notes on this pen**](../../../pens/wacom-pens/wacom-acp500-notes.md)
-  * [UD EMR Pens 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+  * Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
+  * [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
 * <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
   * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
   * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
@@ -210,7 +210,7 @@ Wacom lists this stand as an accessory: **Wacom Foldable Stand (ACK652Z)**
 
 ## Similar devices in the same price range
 
-* XP-Pen Magic Drawing Pad 2025 (MDP1221) ([**notes on this tablet**](../../xppen/xppen-pads/xppen-mdp1221-notes.md))
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) ([XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](../../xppen/xppen-pads/xppen-mdp1221-notes.md))
 * Samsung Galaxy Tab S9FE
 
 See this video for basic comparison of the MovinkPad to these other tablets

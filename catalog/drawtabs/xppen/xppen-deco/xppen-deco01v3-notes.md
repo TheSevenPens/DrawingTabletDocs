@@ -24,7 +24,7 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [**notes on P05 pen**](../../../pens/xppen-pens/xppen-p05-pen-notes.md)
+XP-Pen P05 - [XP-Pen P05 pen notes](../../../pens/xppen-pens/xppen-p05-pen-notes.md)
 
 The included P05 pen has exactly the same as the old model and has the same high IAF.
 
@@ -38,7 +38,7 @@ Other users have reported that it does work well with Android.
 
 ## Better alternatives
 
-A better choice in 2025 would be these tablets: [**Pen tablet recommendations (MEDIUM)**](../../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)
+A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../../recommendations/pen-tablet-recs/pen-tablet-recs-medium.md)
 
 ## Photos
 

@@ -2,7 +2,7 @@
 
 ## Included pen
 
-* Samsung S Pen (2025): [notes on the S pen](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
+* Samsung S Pen (2025): [Samsung S Pen notes](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Compatible pens
 
@@ -11,7 +11,7 @@
 ## Recommended pens
 
 * I recommend use the Wacom CP-913 pen (better IAF and max pressure)
-* See: [Upgrading from the Samsung S pen to the Wacom CP-913 pen](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+* See: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## S pen replacement nibs
 

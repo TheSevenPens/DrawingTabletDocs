@@ -31,12 +31,12 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 ### **Included pen**
 
-* Wacom One Standard Pen (CP-923) - [notes on this pen](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
 
 ### Compatible pens
 
-* Wacom One pen (CP-913) - [notes on this pen](../../../pens/wacom-pens/wacom-cp913-notes.md)
-* Wacom One Standard Pen (CP-923) - [notes on this pen](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Wacom One pen (CP-913) - [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
+* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
 * UD EMR pens (like Samsung S pen, etc.)
 
 ## **Digitizer specs**

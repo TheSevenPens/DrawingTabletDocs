@@ -4,7 +4,7 @@
 
 Apple has several models of the Apple Pencil series. These models differ a bit by the features they support. And only certain iPads are compatible with certain models of the apple pencil. So if you're looking to use the apple pencil with an iPad make sure you check the compatibility and the feature set of that pencil before you purchase anything.
 
-See my [extensive notes on the Apple Pencil](apple-pencil-notes.md) for practical information about using them.
+See my [Apple Pencil notes](apple-pencil-notes.md) for practical information about using them.
 
 ## Models
 

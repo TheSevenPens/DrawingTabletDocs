@@ -38,7 +38,7 @@ OLED panels are relatively new to pen displays. They only started appearing in 2
 
 ## Refresh Rate
 
-Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [**Pen display refresh rate**](../pen-displays/pen-display-refresh-rate.md)&#x20;
+Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [Pen display refresh rate](../pen-displays/pen-display-refresh-rate.md)&#x20;
 
 ## Display inputs and cabling
 
@@ -48,7 +48,7 @@ Some pen displays have a variety of inputs. The Wacom Cintiq pro 27 DTH271 is a 
 
 But most modern pen displays now have only USB-C ports - usually two. One for a display signal & data and one for additional power if needed.
 
-See: [**Connecting a pen display**](../connecting/connecting-pen-display/)&#x20;
+See: [Connecting a pen display](../connecting/connecting-pen-display/)&#x20;
 
 ## Aspect ratio
 
@@ -56,7 +56,7 @@ Typically monitors have to aspect ratios: 16:9 and 16:10. And there are variety 
 
 Pen displays have much less diversity of aspect ratios. The vast majority of modern pen displays are exactly 16:9. A very small number are 16:10.
 
-Learn more: [**active area aspect ratio**](../../core-features/active-area/active-area-aspect-ratio.md)&#x20;
+Learn more: [Active area aspect ratio](../../core-features/active-area/active-area-aspect-ratio.md)&#x20;
 
 ## Display panel technology
 
@@ -73,7 +73,7 @@ OLED introduction to pen displays. Starting by around May 2024, we seen the intr
 
 Pen displays aren't especially bright. most around around 250 nits. And only a few are >= 300 nits.
 
-More here: [**Brightness**](../pen-displays/brightness.md)
+More here: [Brightness](../pen-displays/brightness.md)
 
 ## VESA-mounting
 
@@ -83,8 +83,8 @@ Many pen displays support VESA mounting also. However, the pen displays that are
 
 More here:
 
-* [**Using monitor arms with a pen display**](../../catalog/accessories/arms/)&#x20;
-* [**VESA**](../../technology/vesa.md)
+* [Monitor arms](../../catalog/accessories/arms/)&#x20;
+* [VESA](../../technology/vesa.md)
 
 ## Power cabling
 
@@ -94,7 +94,7 @@ Modern pen displays may also use normal power adapters. But some support getting
 
 ## Anti-glare sparkle
 
-It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle. More here: [**Anti-glare sparkle**](../pen-displays/anti-glare-sparkle.md)
+It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle. More here: [Anti-glare sparkle](../pen-displays/anti-glare-sparkle.md)
 
 ## Speakers
 
@@ -106,7 +106,7 @@ One of the benefits of supporting multiple display input ports is that it makes 
 
 ## Heat
 
-It's common question whether pen displays would get to hot if they are continually used. Pen displays don't get any hotter than a normal monitor. More here: [**Heat**](../ergonomics/heat.md)
+It's common question whether pen displays would get to hot if they are continually used. Pen displays don't get any hotter than a normal monitor. More here: [Heat](../ergonomics/heat.md)
 
 ## Noise
 

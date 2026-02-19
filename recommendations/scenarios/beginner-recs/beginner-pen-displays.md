@@ -6,21 +6,21 @@ Overview
 
 ## If I had to pick one
 
-Huion Kamvas 13 GEN3 (GS1333) \[$260, [**notes**](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)]
+Huion Kamvas 13 GEN3 (GS1333) \[Huion Kamvas 13 GEN3 (GS1333) notes](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)]
 
 ## Other good options
 
 SMALL 13"
 
-* Huion Kamvas 13 GEN3 (GS1333) \[$260, [**notes**](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)] ★★★
-* XP-Pen Artist 13 GEN2 (CD130FH) \[$300, [**notes**](../../../catalog/drawtabs/xppen/xppen-artist-gen2/xppen-cd130fh.md)]
-* XP-Pen Artist 12 GEN3 (CD121FH) \[$220, [**notes**](../../../catalog/drawtabs/xppen/xppen-artist-gen3/xppen-cd121fh.md)]
+* Huion Kamvas 13 GEN3 (GS1333) \[Huion Kamvas 13 GEN3 (GS1333) notes](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)] ★★★
+* XP-Pen Artist 13 GEN2 (CD130FH) \[XP-Pen Artist 13 GEN2 (CD130FH) notes](../../../catalog/drawtabs/xppen/xppen-artist-gen2/xppen-cd130fh.md)]
+* XP-Pen Artist 12 GEN3 (CD121FH) \[XP-Pen Artist 12 GEN3 (CD121FH) notes](../../../catalog/drawtabs/xppen/xppen-artist-gen3/xppen-cd121fh.md)]
 
 MEDIUM 16"
 
-* Huion Kamvas 16 GEN3 (GS1563) ★★★ \[$500, [**notes**](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1563-notes.md)]
+* Huion Kamvas 16 GEN3 (GS1563) ★★★ \[Huion Kamvas 16 GEN3 (GS1563) notes](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1563-notes.md)]
 
 ## Decent options
 
-* Kamvas 16 V2 (GT-156 V2) \[$400, [**notes**](../../../catalog/drawtabs/huion/huion-kamvas/huion-gt156v2-notes.md)]
-* Wacom One 14 (DTC-141) \[[**notes**](../../../catalog/drawtabs/wacom/wacom-one/wacom-dtc141-notes.md)]
+* Kamvas 16 V2 (GT-156 V2) \[Huion Kamvas 16 V2 (GT-156 V2) notes](../../../catalog/drawtabs/huion/huion-kamvas/huion-gt156v2-notes.md)]
+* Wacom One 14 (DTC-141) \[Wacom One 14 (DTC-141) notes](../../../catalog/drawtabs/wacom/wacom-one/wacom-dtc141-notes.md)]

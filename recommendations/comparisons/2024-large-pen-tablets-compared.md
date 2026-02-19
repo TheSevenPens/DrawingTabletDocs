@@ -14,9 +14,9 @@ Using a large tablet is very different from using a medium size tablet. There ar
 
 ## Large tablets in market as of May 2024
 
-* Intuos Pro Large (PTH-860) - [**notes on this tablet**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
-* XP-Pen Deco Pro XLW (MT1592B) - [**notes of this tablet**](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md)
-* Huion Giano (G930L) - [**notes on this tablet**](../../catalog/drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)
+* Intuos Pro Large (PTH-860) - [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
+* XP-Pen Deco Pro XLW (MT1592B) - [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md)
+* Huion Giano (G930L) - [Huion Inspiroy Giano (G930L) notes](../../catalog/drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)
 
 ## Ranking
 
@@ -53,7 +53,7 @@ Third, the Huion Giano overall is very good. It's a very close third to the XP P
 
 None of these tablets have an exact 16:9 (1.78) aspect ratio.
 
-So, you should ensure you [**match aspect ratios**](../../guides/customizing/force-proportions.md) with your monitor before you start drawing.
+So, you should ensure you [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md) with your monitor before you start drawing.
 
 ## Pen pressure range info
 

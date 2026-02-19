@@ -67,4 +67,4 @@ Firmware updates have improved it.
 
 See this thread for some history on this topic: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
 
-This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [**Troubleshoot low pressure drawing problems**](../../../../troubleshooting/tsg-low-pressure-drawing-problems.md)
+This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [TSG: Low pressure drawing problems](../../../../troubleshooting/tsg-low-pressure-drawing-problems.md)

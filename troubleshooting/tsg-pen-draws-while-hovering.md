@@ -16,11 +16,11 @@ The two most common causes of this problem are:
 
 ## **Check if the problem happens in the driver app**
 
-Instructions here: [testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.&#x20;
+Instructions here: [DIAG: Testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.&#x20;
 
 ## Things to try
 
-Try the [**Common drawing troubleshooting steps**](common-drawing-troubleshooting-steps.md).&#x20;
+Try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).&#x20;
 
 ### **Reseat the nib**
 
@@ -40,5 +40,5 @@ In the tablet driver, try dragging the lower left point of the pressure curve to
 
 **If nothing helps**
 
-If the problem continues, then [**contact support**](../basics/contacting-support.md).
+If the problem continues, then [Contacting support](../basics/contacting-support.md).
 

@@ -16,7 +16,7 @@ Instead of pen computers, I recommend looking at other kinds of standalone devic
 * Microsoft Surface Pro
 * Samsung Galaxy Book 5 Pro
 
-More here: [**Standalone drawing tablet recommendations**](../recommendations/standalone-recs/)
+More here: [Standalone drawing tablet recommendations](../recommendations/standalone-recs/)
 
 ## ALTERNATIVE #3: Laptops/Mini PCs + pen display
 

@@ -12,7 +12,7 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 
 ## Pen
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [**notes on the X3 elite pen**](../../../pens/xppen-pens/xppen-x3elite-notes.md)
+Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../../pens/xppen-pens/xppen-x3elite-notes.md)
 
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
@@ -50,7 +50,7 @@ These things worked well
 
 ## Pen pressure range <a href="#pressure-range" id="pressure-range"></a>
 
-See: [**notes on the X3 elite pen**](../../../pens/xppen-pens/xppen-x3elite-notes.md)
+See: [XP-Pen X3 Elite pen notes](../../../pens/xppen-pens/xppen-x3elite-notes.md)
 
 ## Pointer lag <a href="#pointer-lag" id="pointer-lag"></a>
 

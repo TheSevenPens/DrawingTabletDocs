@@ -1,7 +1,7 @@
 # Pen pressure curves
 
 {% hint style="info" %}
-Before you read this document, read: [Pen pressure response curves.](../pen-pressure-response.md)&#x20;
+Before you read this document, read: [Pen pressure response](../pen-pressure-response.md)&#x20;
 {% endhint %}
 
 ## Overview
@@ -53,14 +53,14 @@ There are a variety of pressure curve shapes - each of which can solve some prob
 
 <figure><img src="../../../.gitbook/assets/image-000434.png" alt=""><figcaption></figcaption></figure>
 
-To see which drivers and apps support which shapes see this: [Curve support in applications](app-pressure-curves.md)
+To see which drivers and apps support which shapes see this: [Adjusting pressure curves in apps](app-pressure-curves.md)
 
 ## Things you can do with pressure curves
 
 * [Null pressure curve](null-pressure-curve.md) -  a curve that "does nothing"
-* [Pressure curves that constrain the output logical pressure range](constraining-pressure-curve-output.md)
+* [Pressure curves that constrain output](constraining-pressure-curve-output.md)
 * [Pressure curves that ignore input](constraining-pressure-curve-input.md)
-* [Lowering IAF](../../../guides/customizing/lowering-the-iaf.md)
+* [Lowering the IAF](../../../guides/customizing/lowering-the-iaf.md)
 * [Increasing IAF](../../../guides/customizing/increasing-iaf.md)
 * [Lowering maximum physical pressure](../../../guides/customizing/lowering-maximum-physical-pressure.md)
 

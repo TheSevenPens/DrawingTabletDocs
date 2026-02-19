@@ -20,7 +20,7 @@ watch these two videos because they will help you understand the overall set of 
 
 When this case you might see something on your pen display for a second or two and then your pen display goes black for a few seconds and then you might see something on your pen display again and this pattern will just keep on repeating
 
-Read through this troubleshooting guide: [**TSG turns on and off constantly** ](tsg-pen-display-turns-on-and-off-constantly.md)
+Read through this troubleshooting guide: [TSG: Pen display turns on and off constantly](tsg-pen-display-turns-on-and-off-constantly.md)
 
 &#x20;
 
@@ -28,7 +28,7 @@ Read through this troubleshooting guide: [**TSG turns on and off constantly** ](
 
 When you turn on your pen display do you see a message very briefly that says something like “no signal” and a few seconds later potentially followed by a message that says power saving?
 
-If this happens to you read through this troubleshooting guide: [**TSG No Signal**](tsg-no-signal.md)
+If this happens to you read through this troubleshooting guide: [TSG: Pen display shows NO SIGNAL message](tsg-no-signal.md)
 
 &#x20;
 

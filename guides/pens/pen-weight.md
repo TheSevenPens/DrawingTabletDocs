@@ -10,7 +10,7 @@ Here are a few examples of pen weight:
 * Huion PW600 15g
 * XP-Pen X3 Pro 10g
 
-If you want to see more pen weight data see: [**Pen weight comparison**](pen-weight-comparison.md)&#x20;
+If you want to see more pen weight data see: [Pen weight comparison](pen-weight-comparison.md)&#x20;
 
 ## Increasing pen weight
 

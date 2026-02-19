@@ -19,12 +19,12 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
 
 ## Things to try
 
-* First try the [**Common drawing troubleshooting steps**](common-drawing-troubleshooting-steps.md).
+* First try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).
 * Check if this is associated with a specific pressure range.
   * In the driver try increasing the lower bound of the pressure range and see how the gaps react.
     * Do they develop earlier in the stroke?
     * Do the stop developing?
-* If it continues to happen, then [**contact support**](../basics/contacting-support.md).
+* If it continues to happen, then [Contacting support](../basics/contacting-support.md).
 
 ### Links
 

@@ -6,7 +6,7 @@ If you want to buy a drawing tablet as a gift but have never used one yourself, 
 
 ## Understand the kinds of drawing tablets available
 
-The first thing you need to understand is the type of drawing tablet you want to give as a gift. This is very important because it determines how the recipient will use the tablet and how much it will cost. Read this document first before continuing: [**Types of drawing tablets**](../basics/types-of-drawtabs/).
+The first thing you need to understand is the type of drawing tablet you want to give as a gift. This is very important because it determines how the recipient will use the tablet and how much it will cost. Read this document first before continuing: [Types of drawing tablets](../basics/types-of-drawtabs/).
 
 ## Understand the basics
 
@@ -27,19 +27,19 @@ For example, if they already have an Apple iPad:
 
 ## If you are looking for a quick answer within your budget
 
-See this list of [**recommendations**](../recommendations/)&#x20;
+See this list of [Recommendations](../recommendations/)&#x20;
 
 They are separated by type and size of tablet, with options available at multiple price points.
 
 ## When ready, look through the full buying guide
 
-The full buying guide: [Buying a drawing tablet](./)
+The full buying guide: [Drawing tablet buying guide](./)
 
 These tips will be useful: Video: [Practical tips for buying a drawing tablet](https://youtu.be/57-W_dmtLJU)
 
 ## Make sure the tablet will physically connect to their computer
 
-For a pen tablet or pen display, it must connect to a computer. For a pen tablet, this is easy — the computer just needs one available USB port. For a pen display it can get complicated. See: [**Connecting a pen display to a computer**](../guides/connecting/connecting-pen-display/)
+For a pen tablet or pen display, it must connect to a computer. For a pen tablet, this is easy — the computer just needs one available USB port. For a pen display it can get complicated. See: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
 
 ## Do they need to use certain apps?
 
@@ -52,4 +52,4 @@ Examples:
 
 ## Join the discord for more help
 
-Go here for the invite link: [**Drawing Tablet discord server**](../resources/community/discord.md)&#x20;
+Go here for the invite link: [Discord server](../resources/community/discord.md)&#x20;

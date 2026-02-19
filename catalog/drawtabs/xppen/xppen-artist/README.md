@@ -9,7 +9,7 @@
 | Artist 12 Pro   |         | 2019 |                                                                                          |
 | Artist 15.6     |         | 2018 |                                                                                          |
 | Artist 15.6 Pro |         |      |                                                                                          |
-| Artist 22 Plus  | MD220FH |      | [notes on this tablet](xppen-md220fh.md) |
+| Artist 22 Plus  | MD220FH |      | [XP-Pen Artist 22 Plus (MD220FH) notes](xppen-md220fh.md) |
 | Artist 22R Pro  |         | 2020 |                                                                                          |
 | Artist 24 Pro   |         | 2020 |                                                                                          |
 

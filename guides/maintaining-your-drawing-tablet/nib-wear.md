@@ -21,9 +21,9 @@ Below you can see the wear on an Wacom Art Pen nib which has been used on a Waco
 
 ## Surface texture
 
-Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [**surface texture**](../../core-features/surface-texture.md).&#x20;
+Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [Surface texture](../../core-features/surface-texture.md).&#x20;
 
-The nib wears down as you use it on a table surface. But a plastic table surface can also wear down from repeated exposer to the nib. And so, the tablet surface can become smoother over time. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [**Surface wear on pen tablets**](surface-wear-on-pen-tablets.md)&#x20;
+The nib wears down as you use it on a table surface. But a plastic table surface can also wear down from repeated exposer to the nib. And so, the tablet surface can become smoother over time. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [Surface wear on pen tablets](surface-wear-on-pen-tablets.md)&#x20;
 
 ## Heavy-handed drawing
 
@@ -35,14 +35,14 @@ Some people a have drawing style that features lots of strokes drawn over and ov
 
 ## Nib material affects nib wear
 
-Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [**Nib material**](../../core-features/pen-nib-material.md).
+Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [Pen nib material](../../core-features/pen-nib-material.md).
 
 ## Preventing or slowing nib wear
 
 * Try drawing with less pressure. You can change the pressure curve in your driver to help lessen the need to press down so hard.
 * If you are doing a lot of back and forth strokes to fill in an area, that repeated motion of the pen can wear down the nib fast. Consider using some other way of filling in an area.
 * Some tablets like the Wacom Intuos Pro have replaceable **texture sheets**. In Wacom's case there are three texture styles: standard, smooth, rough. Try the smooth texture sheet.
-* I do NOT recommend [**using a metal nib**](../customizing/using-metal-nibs.md).
+* I do NOT recommend [Using metal nibs](../customizing/using-metal-nibs.md).
 
 ## When should you replace you nib?
 

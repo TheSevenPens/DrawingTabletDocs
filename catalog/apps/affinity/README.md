@@ -1,5 +1,5 @@
 # Affinity
 
 * [https://affinity.serif.com/](https://affinity.serif.com/)
-* [**notes on this app**](affinity-notes.md)&#x20;
+* [Affinity notes](affinity-notes.md)&#x20;
 

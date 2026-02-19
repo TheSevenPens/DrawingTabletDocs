@@ -6,8 +6,8 @@ Both of these kinds of devices can be successfully used for digital art, note ta
 
 ## Detailed notes
 
-* [**notes Samsung Galaxy Tab S**](../samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md) (includes links to notes for specific models)
-* [**notes Apple iPad**](apple-ipad-notes.md)
+* [Samsung Galaxy Tab S series notes](../samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md) (includes links to notes for specific models)
+* [Apple iPad notes](apple-ipad-notes.md)
 
 ## Comparison videos
 
@@ -24,7 +24,7 @@ It's hard to pick a winner - their drawing experience is similar but has some ke
 * Support for hover has always been available with the Samsung Galaxy Tab series.
 * Only with certain Apple Pencil models and with certain iPads.
 
-More here: [**Pen hover**](../../../core-features/pen-hover/)
+More here: [Pen hover](../../../core-features/pen-hover/)
 
 ## Buttons
 
@@ -53,7 +53,7 @@ Here's a list of some of the more popular apps
 
 <table><thead><tr><th width="221">Application</th><th width="224">iPad</th><th>Samsung Galaxy Tab S</th></tr></thead><tbody><tr><td>Procreate</td><td>YES</td><td>NO</td></tr><tr><td>Procreate Dreams</td><td>YES</td><td>NO</td></tr><tr><td>Clip Studio Paint</td><td>YES</td><td>YES</td></tr><tr><td>Krita</td><td>NO</td><td>YES</td></tr><tr><td>Infinite Painter</td><td>YES</td><td>YES</td></tr><tr><td>Concepts</td><td>YES</td><td>YES</td></tr></tbody></table>
 
-More here: [**applications**](../../../apps/)
+More here: [Apps](../../../apps/)
 
 ## Aspect Ratio
 
@@ -72,7 +72,7 @@ I think the 4x3 aspect ratio of the Apple iPad is in general a better choice. Th
 
 There are significant differences in pressure handling.
 
-* Samsung S pens - are OK in terms of pressure handling. They have a slightly higher IAF (3gf to 6gf) and don't have a high maximum pressure (200gf). More here: [**7P notes: Samsung S Pen**](../../pens/samsung-s-pen/samsung-s-pen-notes.md)
+* Samsung S pens - are OK in terms of pressure handling. They have a slightly higher IAF (3gf to 6gf) and don't have a high maximum pressure (200gf). More here: [Samsung S Pen notes](../../pens/samsung-s-pen/samsung-s-pen-notes.md)
 * Apple Pencil 2nd GEN and Apple Pencil Pro - These have a very low IAF based on users' comments (some people say <1gf) and a high maximum pressure of 500gf.
 
 ## Pen nib retraction

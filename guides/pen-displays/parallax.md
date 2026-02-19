@@ -52,7 +52,7 @@ Compare it to a very thin sheet of glass with much less parallax
 
 Especially in older models of pen displays and pen computers, there is an air gap between the display panel and the glass. This air gap itself is another source of parallax. Replacing the air gap so that it is replaced with an optically clear adhesive can improve the parallax.
 
-learn more here: [**Lamination**](lamination.md)
+learn more here: [Lamination](lamination.md)
 
 It is always preferable to by a drawing tablet that has a laminated display.
 

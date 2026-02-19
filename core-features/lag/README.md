@@ -8,8 +8,8 @@ In the context of drawing tablets, I use the word log to describe how things are
 
 There are two kinds of lag:
 
-* [**Pointer lag**](pointer-lag.md)
-* [**Brush lag**](lag.md) &#x20;
+* [Pointer lag](pointer-lag.md)
+* [Brush lag](lag.md) &#x20;
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000512.png" alt="" width="563"><figcaption></figcaption></figure></div>
 

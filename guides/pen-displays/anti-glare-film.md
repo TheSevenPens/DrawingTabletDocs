@@ -2,7 +2,7 @@
 
 ## Overview
 
-Also called "Matte film", anti-glare film glass is one of two popular treatments the glass surface of a pen display. (The other is called [**etched glass**](etched-glass.md)).
+Also called "Matte film", anti-glare film glass is one of two popular treatments the glass surface of a pen display. (The other is called [Etched glass](etched-glass.md)).
 
 This film is affixed to the glass underneath with some optically clear adhesive.
 

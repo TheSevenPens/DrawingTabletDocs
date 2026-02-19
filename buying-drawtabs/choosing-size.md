@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Size = Active Area Size.** The size of a tablet is NOT measured by the physical size of the device. Instead, we measure the diagonal of the ACTIVE AREA — the region on the tablet's surface that responds to the EMR pen. Learn more: [**Active area**](../core-features/active-area/) & [**Active area size**](../core-features/active-area/active-area-size.md)
+**Size = Active Area Size.** The size of a tablet is NOT measured by the physical size of the device. Instead, we measure the diagonal of the ACTIVE AREA — the region on the tablet's surface that responds to the EMR pen. Learn more: [Active area](../core-features/active-area/) & [Active area size](../core-features/active-area/active-area-size.md)
 
 ## Companion Video
 
@@ -51,12 +51,12 @@ Here's what you should consider when choosing a size:
 
 * **Small (7")** pen tablets work well for scenarios where creating detailed strokes is less important. For example, if you just need a tablet as a mouse replacement, a small one will do fine. Photo editing is another task that works well on a small tablet, since it doesn't typically involve drawing strokes. Most people who draw would find a small tablet feels cramped.
 * **Medium (11")** pen tablets offer the best combination of size, cost, and ergonomics for most people and are my standard recommendation. Medium is the minimum size I recommend for drawing, sketching, painting, or any creative task that requires stroke work.
-* **Large (15")** pen tablets are currently the largest size available. They are popular with some artists, but are large enough that you'll need to adapt to using them. More here: [**Using large pen tablets**](../guides/general/using-large-pen-tablets.md).
-* **Extra large (23")** pen tablets are no longer produced. They are ideal for some users but require quite a bit of adjustment. More here: [**Using Extra-large pen tablets**](../guides/general/using-extra-large-pen-tablets.md).
+* **Large (15")** pen tablets are currently the largest size available. They are popular with some artists, but are large enough that you'll need to adapt to using them. More here: [Using large pen tablets](../guides/general/using-large-pen-tablets.md).
+* **Extra large (23")** pen tablets are no longer produced. They are ideal for some users but require quite a bit of adjustment. More here: [Using extra-large pen tablets](../guides/general/using-extra-large-pen-tablets.md).
 
 ## Pen tablet size vs monitor size
 
-If you use a pen tablet (which has no screen), you use it alongside a monitor. The relationship between the two sizes affects how it feels to draw. A detailed explanation is here: [**Matching pen tablet size to monitor size**](../guides/general/matching-pen-tablet-size-to-monitor-size.md).
+If you use a pen tablet (which has no screen), you use it alongside a monitor. The relationship between the two sizes affects how it feels to draw. A detailed explanation is here: [Matching pen tablet size to monitor size](../guides/general/matching-pen-tablet-size-to-monitor-size.md).
 
 ## Pen display sizes
 
@@ -78,7 +78,7 @@ Check if there is a way to try a tablet before buying. For example:
 
 ## Simulate the tablet before you buy
 
-If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](simulating-tablet-size.md).
+If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size](simulating-tablet-size.md).
 
 ## **In relation to paper size**
 

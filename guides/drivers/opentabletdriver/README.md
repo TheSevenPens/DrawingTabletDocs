@@ -21,8 +21,8 @@ Normally, you should use your manufacturer-provided driver for your tablet. Howe
 
 ## Installation instructions
 
-* Windows: [**Using OpenTabletDriver on Windows**](otd-windows-install.md)
-* MacOS: [**Using OpenTabletDriver on MacOS**](otd-macos-install.md)
+* Windows: [Install OpenTabletDriver on Windows](otd-windows-install.md)
+* MacOS: [Using OpenTabletDriver on MacOS](otd-macos-install.md)
 
 ## Key points
 
@@ -33,7 +33,7 @@ Normally, you should use your manufacturer-provided driver for your tablet. Howe
 * OTD runs on Windows, Linux, and MacOS.&#x20;
 * People use OTD as their normal tablet driver for playing osu! and even when they are doing creative tasks.
 * OTD has a very active discord server: [https://discord.gg/9bcMaPkVAR](https://discord.gg/9bcMaPkVAR) &#x20;
-* Review these usage notes to understand limitations and customizations: [**OpenTabletDriver usage notes**](otd-notes.md)
+* Review these usage notes to understand limitations and customizations: [Notes on OpenTabletDriver](otd-notes.md)
 
 
 

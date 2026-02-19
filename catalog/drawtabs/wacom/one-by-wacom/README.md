@@ -2,7 +2,7 @@
 
 ## Overview
 
-These are very good pen tablets. See [**notes CTL-x72 tablets**](wacom-ctlx72-notes.md) for details.
+These are very good pen tablets. See [One by Wacom (CTL-x72) notes](wacom-ctlx72-notes.md) for details.
 
 ## Models
 

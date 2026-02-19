@@ -4,8 +4,8 @@
 
 A pen display will either one of two surfaces:
 
-* Etched glass - glass that has an etched texture. Learn more here: [**etched glass**](etched-glass.md)&#x20;
-* Film - A thin film on plastic that sits on top of the glass. See [**anti-glare film**](anti-glare-film.md).
+* Etched glass - glass that has an etched texture. Learn more here: [Etched glass](etched-glass.md)&#x20;
+* Film - A thin film on plastic that sits on top of the glass. See [Anti-glare film](anti-glare-film.md).
 
 The traditional thinking is that etched glass is better. You will see many "pro" tablets that have etched glass while their "consumer" counterparts have the film.
 

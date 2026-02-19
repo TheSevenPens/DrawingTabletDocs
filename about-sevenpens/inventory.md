@@ -24,7 +24,7 @@ Sometimes people doubt that I have as many drawing tablets as I claim. As eviden
   * Which store I purchased from
   * The year the tablet model was released
   * Whether the tablet was bought new or used&#x20;
-* Some of these tablets are quite old - 10 years, 20+ years. Even though they work perfectly their age does make it more complex to use them. More here: [**Using older drawing tablets**](../guides/general/using-older-drawing-tablets.md)&#x20;
+* Some of these tablets are quite old - 10 years, 20+ years. Even though they work perfectly their age does make it more complex to use them. More here: [Using older drawing tablets](../guides/general/using-older-drawing-tablets.md)&#x20;
 * All of the tablets work except one of the Wacom PTK-1240 units.&#x20;
 
 ## Where I buy drawing tablets

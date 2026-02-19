@@ -54,7 +54,7 @@ Without this feature, if you draw shape on the on drawing tablet it will show up
 
 With a normal desktop computer, you can enable "Force Proportions" in the tablet driver to fix this problem. But you cannot install any tablet drivers for android devices. So, you must rely on this happening automatically. Unfortunately not all combinations of drawing tablets and android devices can do this.&#x20;
 
-More here: [**Force proportions**](../../customizing/force-proportions.md)
+More here: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
 
 ### Active area mapping for landscape and portrait modes
 
@@ -92,7 +92,7 @@ While this seems like a good thing, it also means you cannot configure the table
 
 ## Applications
 
-For a list of applications that work on Android go here: [**Apps**](../../../apps/).
+For a list of applications that work on Android go here: [Apps](../../../apps/).
 
 ## Considerations for a pen tablet
 

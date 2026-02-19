@@ -17,11 +17,11 @@ You can start at a corner and **gently** and **slowly** start lifting it up. And
 
 ## Replacing the film
 
-First, you should realize than manufacturers might sell replacement films for their tablets. But even if they do not, you can find third party films that are pre-cut for your tablet or for which you can order them cut to a specific size. More here on your options: [**protective sheets**](../../catalog/accessories/surface-protectors/)&#x20;
+First, you should realize than manufacturers might sell replacement films for their tablets. But even if they do not, you can find third party films that are pre-cut for your tablet or for which you can order them cut to a specific size. More here on your options: [Surface protection](../../catalog/accessories/surface-protectors/)&#x20;
 
 **How much anti-glare sparkle do you want?**
 
-Your replacement will will likely have some amount of anti-glare sparkle effect. If you buy the replacement film from the manufacturer you will get the same amount of ag sparkle as you originally had. More here on [**anti-glare sparkle**](../pen-displays/anti-glare-sparkle.md).
+Your replacement will will likely have some amount of anti-glare sparkle effect. If you buy the replacement film from the manufacturer you will get the same amount of ag sparkle as you originally had. More here on [Anti-glare sparkle](../pen-displays/anti-glare-sparkle.md).
 
 If you want less ag sparkle, you should consider getting a film which has less. This is where you should evaluate options from companies like **photodon**. They sell little samples you can try out to evaluate how much the film will look on your tablet. I highly recommend trying those samples first before you commit to putting a new will film on.
 

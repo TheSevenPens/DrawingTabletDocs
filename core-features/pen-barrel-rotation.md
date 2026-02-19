@@ -52,7 +52,7 @@ We don't know. We don't have any information about other brands adopting barrel 
 
 ## Turning on barrel rotation
 
-See: [**Using barrel rotation with your brush**](pen-barrel-rotation/using-barrel-rotation.md)
+See: [Using barrel rotation with your brush](pen-barrel-rotation/using-barrel-rotation.md)
 
 ## Videos
 

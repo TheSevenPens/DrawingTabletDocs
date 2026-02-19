@@ -52,7 +52,7 @@ For some people tilt is critical and for others, it is not useful at all. It str
 
 ## Technical details
 
-You don't need to know these details, but if you are curious how an EMR tablet actually detects the tilt of the pen go here: [**EMR tilt detection**](../../technology/emr/emr-tilt-detection.md).
+You don't need to know these details, but if you are curious how an EMR tablet actually detects the tilt of the pen go here: [EMR tilt detection](../../technology/emr/emr-tilt-detection.md).
 
 ## **Tilt angle range**
 
@@ -75,4 +75,4 @@ To calculate the location of the pen, the tablet must take into account how much
 
 ## Disabling tilt
 
-You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [**Disable pen tilt**](disabling-pen-tilt.md)
+You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [Disabling pen tilt](disabling-pen-tilt.md)

@@ -12,7 +12,7 @@ Generally, people want lower IAF.
 
 * IAF is measured in "gram-force" units (gf) . Though you may see it very often described in "grams".
 * IAF is determined by the pen hardware, not the tablet.
-* More info: [**Pen pressure**](./)&#x20;
+* More info: [Pen pressure](./)&#x20;
 
 ## Video
 
@@ -42,7 +42,7 @@ Others like (myself included) work fine with a 3gf IAF. I definitely notice the 
 
 ## Changing the IAF
 
-* Lowering IAF - See [Lowering IAF](../../guides/customizing/lowering-the-iaf.md)
+* Lowering IAF - See [Lowering the IAF](../../guides/customizing/lowering-the-iaf.md)
 * Increasing IAF - See [Increasing IAF](../../guides/customizing/increasing-iaf.md)
 
 
@@ -65,7 +65,7 @@ To compensate for these kinds of effects you, You might encounter a tablet that 
 * And also the dead zone might be implemented in the driver but it is not shown to you.
 * And of course some tell the drivers don't implement default dead zone at all.
 
-More here: [**Pen pressure dead zone**](pen-pressure-curves/pressure-curve-dead-zones.md)
+More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-dead-zones.md)
 
 ## Wispy tails on strokes
 

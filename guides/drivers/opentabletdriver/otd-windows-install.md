@@ -5,11 +5,11 @@
 This document is for CREATIVES interested in using OpenTabletDriver on Windows and need features such as pressure sensitivity and tilt.
 
 {% hint style="info" %}
-If you don't know about OpenTabletDriver or why you might want or need to use it, read: [**OpenTabletDriver**](./).
+If you don't know about OpenTabletDriver or why you might want or need to use it, read: [OpenTabletDriver](./).
 
-Familiarize yourself with the [**notes on OpenTabletDriver**](otd-notes.md).
+Familiarize yourself with the [Notes on OpenTabletDriver](otd-notes.md).
 
-How to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](otd-windows-uninstall.md)
+How to uninstall on Windows: [Uninstall OpenTabletDriver on Windows](otd-windows-uninstall.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -57,8 +57,8 @@ On the list of supported tablets, if your tablet is marked as "Zadig WinUSB" - t
 <mark style="color:red;">You</mark> <mark style="color:red;">**MUST**</mark> <mark style="color:red;">uninstall any existing tablet drivers on your computer. If you leave them installed they will interfere with OTD.</mark>
 {% endhint %}
 
-* Follow these instructions: [**Uninstalling tablet drivers**](../uninstalling-tablet-drivers.md)
-* To ensure nothing remains, run this tool[**Tablet driver cleanup tool**](../tablet-driver-cleanup-tool.md).
+* Follow these instructions: [Uninstalling tablet drivers](../uninstalling-tablet-drivers.md)
+* To ensure nothing remains, run this tool[Tablet Driver Cleanup tool](../tablet-driver-cleanup-tool.md).
 
 ### STEP 1.2: Create a folder for OTD
 
@@ -257,8 +257,8 @@ By default OTD performs no smoothing on the pen data. This is desirable because
 
 Two ways to introduce smoothing
 
-* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [**Configure smoothing in applications**](../../drawing/configure-smoothing-in-applications.md)
-* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [**Smoothing with OpenTabletDriver**](otd-smoothing.md)
+* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [Configure smoothing in applications](../../drawing/configure-smoothing-in-applications.md)
+* **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [Smoothing with OpenTabletDriver](otd-smoothing.md)
 
 ### STEP 4.4 Configure tablet buttons
 
@@ -279,7 +279,7 @@ To allow rapid switching between monitors you have two options:
 
 ### Uninstalling OTD
 
-See the instructions here: [Uninstalling OpenTabletDriver on Windows](otd-windows-uninstall.md)
+See the instructions here: [Uninstall OpenTabletDriver on Windows](otd-windows-uninstall.md)
 
 ### OTD application data directory
 

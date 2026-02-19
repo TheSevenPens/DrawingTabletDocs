@@ -57,7 +57,7 @@ Overall good performance.
   * Button Pen + Eraser v2
   * Thin Pen + Eraser v2
 
-For more information about these pens: [**notes on the Xencelabs V2 pens**](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
+For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Anti-glare sparkle
 
@@ -81,8 +81,8 @@ The tablet exhibits moderate diagonal wobble at all speeds.
 
 ## Stand
 
-The tablet comes with the Xencelabs Mobile Easel. [**notes on the Xencelabs Mobile Easel**](../../accessories/stands/xencelabs-mobile-easel.md).
+The tablet comes with the Xencelabs Mobile Easel. [Xencelabs Mobile Easel](../../accessories/stands/xencelabs-mobile-easel.md).
 
 ## OLED longevity
 
-To early to say. More here: [**OLED Longevity**](../../../technology/oled-longevity.md).
+To early to say. More here: [OLED Longevity](../../../technology/oled-longevity.md).

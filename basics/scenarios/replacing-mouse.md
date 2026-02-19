@@ -42,13 +42,13 @@ Drawing tablet pens are much more sensitive. They have more delicate and sensiti
 
 ## Pointer positioning
 
-Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [**Absolute versus relative positioning**](../../core-features/active-area/absolute-versus-relative-positioning.md).
+Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [Absolute versus relative positioning](../../core-features/active-area/absolute-versus-relative-positioning.md).
 
-However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [**mouse mode**](../../core-features/active-area/mouse-mode.md).
+However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [Mouse mode](../../core-features/active-area/mouse-mode.md).
 
 ## Aspect ratios
 
-If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [**Matching aspect ratios**](../../guides/customizing/force-proportions.md)
+If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md)
 
 ## Moving the pointer vs clicking
 
@@ -56,7 +56,7 @@ In a a mouse, you can independently move and click. This means you can move the 
 
 The same thing works with drawing tablet pen. But you should realize how it works.
 
-* To move without clicking - you have to hold the pen above the tablet (within a range of about 10mm). This is called hover. more here: [**Pen hover**](../../core-features/pen-hover/).
+* To move without clicking - you have to hold the pen above the tablet (within a range of about 10mm). This is called hover. more here: [Pen hover](../../core-features/pen-hover/).
 * To click - you tap down on the tablet with the pen
 * To move AND click at the same time - you press down on the tablet and move the pen. The click lasts as long as you are touching the tablet.
 
@@ -112,7 +112,7 @@ Lots of them would work. The easy choices are:
 * Wacom Intuos Small (CTL-4100)
 * Wacom Intuos Medium (CTL-6100)
 
-If these, my strong recommendation is the CTL-672. [**notes on this tablet**](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
+If these, my strong recommendation is the CTL-672. [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
 
 Other brands also have tablets that work as mouse replacements, but the safe choice is Wacom because of their track record of reliability.
 

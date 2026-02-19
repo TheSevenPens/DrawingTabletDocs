@@ -3,13 +3,13 @@
 {% hint style="info" %}
 For more information:
 
-* [**Apple Pencil links**](./) -Keep in mind, there are several models of the apple pencil and not all have the same features.
+* [Apple pens](./) -Keep in mind, there are several models of the apple pencil and not all have the same features.
 
 About iPad:
 
-* [**Notes on Apple iPad**](../../drawtabs/apple/apple-ipad-notes.md)
-* [**Apple iPad versus drawing tablets**](../../drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
-* [**Apple iPad versus Samsung Galaxy Tab S**](../../drawtabs/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Apple iPad notes](../../drawtabs/apple/apple-ipad-notes.md)
+* [Apple iPad vs drawing tablets](../../drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad versus Samsung Galaxy Tab S](../../drawtabs/apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
 {% endhint %}
 
 ## Overview
@@ -108,7 +108,7 @@ This is an effect that can happen with drawing tablet pens also. It is unclear i
 
 ## Initial Activation Force
 
-* To learn more about IAF: [**Initial Activation Force**](../../../core-features/pen-pressure/iaf.md) .
+* To learn more about IAF: [IAF](../../../core-features/pen-pressure/iaf.md) .
 * A lower IAF is better
 * The best pens have an IAF of <1gf. This is considered EXCELLENT.
 * Wacom professional pens have an IAF of <1gf

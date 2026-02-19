@@ -106,8 +106,8 @@ Here are some examples of what happens some Wacom pen tablets because of the mis
 
 When enabling Force Proportions with multiple displays, you will notice a BIG reduction in the available active area is needed to maintain the correct non-distorted drawing.
 
-For this situation, after enabling Force Proportions also enable [Display Toggle](../../core-features/active-area/display-toggle.md).
+For this situation, after enabling Force Proportions also enable [Display toggle](../../core-features/active-area/display-toggle.md).
 
 ## Simulation
 
-This tool simulates the effect of Force Proportions: [**Force proportions simulator**](../../resources/sevenpens-force-proportions-simulator.md)
+This tool simulates the effect of Force Proportions: [Force proportions simulator](../../resources/sevenpens-force-proportions-simulator.md)

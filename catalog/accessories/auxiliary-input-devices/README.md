@@ -4,7 +4,7 @@
 
 When using a drawing tablet, you will often need to provide additional input to the computer. For example, press a shortcut key to change brushes.
 
-Some tablets have built-in buttons and dials called [**Express Keys**](../../../core-features/expresskeys/) to perform that task. These express keys can be customized and even be configured to different things when you are using different applications.
+Some tablets have built-in buttons and dials called [Auxiliary inputs](../../../core-features/expresskeys/) to perform that task. These express keys can be customized and even be configured to different things when you are using different applications.
 
 But some tablets don't have these express keys or some people just don't like using them, so they rely on other input devices.
 
@@ -22,11 +22,11 @@ This is a very specialized category as it is intended for creatives and not gami
 
 **TourBox**
 
-The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [**Tourbox**](tourbox/)
+The device I use is the TourBox Neo. It looks like a game controller, but is really a fancy programmable keypad. More here: [TourBox](tourbox/)
 
 **Clip Studio Tabmate**
 
-The Clip Studio Tabmate is an interesting case. It is is a controller that is built to work with a specific application: Clip Studio Paint. more here: [**Clip Studio Tabmate**](clip-studio-tabmate.md)
+The Clip Studio Tabmate is an interesting case. It is is a controller that is built to work with a specific application: Clip Studio Paint. more here: [Clip Studio Tabmate](clip-studio-tabmate.md)
 
 ## Gaming keypads and controllers
 
@@ -37,7 +37,7 @@ Examples:
 * Razer Tartarus Pro - Razer makes several models in the Tartarus series
 * Redragon K585
 * Logitech G13 Gaming Keypad
-* [**8bitdo controller**](8bitdo-controller.md)
+* [8bitdo controller](8bitdo-controller.md)
   * [EyekooDrawsStuff - 8BitDo Micro for digital art shortcuts on mobile](https://docs.thesevenpens.com/drawtab/troubleshooting/troubleshoot-pen-draws-while-hovering) 2025 /02/11
 * Playstation controller
   *   [/r/ClipStudio - Nintendo Joy-con as a shortcut remote! On Samsung Tab8 Ultra](https://www.reddit.com/r/ClipStudio/comments/1ih2vml/nintendo_joycon_as_a_shortcut_remote_on_samsung/)
@@ -65,7 +65,7 @@ I used one of these for a couple of months with CSP but I stopped eventually bec
 
 ## Tiny Keyboards
 
-Keyboards are popular. Often you'll see someone using a much smaller keyboard than normal because it's easier to have around the tablet or it can be mounted to the display tablet or an arm. More here: [**keyboards**](../keyboards.md)
+Keyboards are popular. Often you'll see someone using a much smaller keyboard than normal because it's easier to have around the tablet or it can be mounted to the display tablet or an arm. More here: [Keyboards](../keyboards.md)
 
 ## MIDI devices
 

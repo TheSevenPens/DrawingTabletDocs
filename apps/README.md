@@ -2,14 +2,14 @@
 
 ## Lists of apps
 
-* The apps I use and recommend: [**recommended apps**](recommended-apps.md)
-* [**Apps for beginners**](apps-for-beginners.md)
-* [**Apps for Ipad**](apps-for-ipad.md)
-* [**Apps for Android**](apps-for-android.md)
+* The apps I use and recommend: [Recommended apps](recommended-apps.md)
+* [Apps for beginners](apps-for-beginners.md)
+* [Apps for iPad](apps-for-ipad.md)
+* [Apps for Android](apps-for-android.md)
 
 ## Full list of apps
 
-I've collected a list of apps here: [**List of apps**](list-of-apps.md)  &#x20;
+I've collected a list of apps here: [List of apps](list-of-apps.md)  &#x20;
 
 * They are organized by category (painting, note-taking, etc.)
 * Free apps are highlighted

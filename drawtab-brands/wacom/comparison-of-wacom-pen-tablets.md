@@ -14,11 +14,11 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
-Here are [my detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+Here are [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
 
 ## Wacom One 2023 tablets
 
-The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](../../catalog/drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
+The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [Wacom One 2023 pen displays notes](../../catalog/drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
 
 ## Recommendation summary
 
@@ -35,7 +35,7 @@ The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom
     * Wacom Intuos Bluetooth Medium (CTL-6100WL)
 * **Photo-editing** - i.e. you aren't doing anything that requires "strokes" then the One by Wacom SMALL (CTL-472) is fine.
 * **Using the tablet as a mouse replacement** - i.e. you aren't doing anything that requires "strokes" but instead just clicking on things or dragging them - then the One by Wacom SMALL (CTL-472) is fine.
-* **Taking notes**. I don't recommend pen tablets in general for taking notes. Use an alternative (like an iPad) instead. More here: [**Taking notes with drawing tablets**](../../basics/scenarios/taking-notes.md).
+* **Taking notes**. I don't recommend pen tablets in general for taking notes. Use an alternative (like an iPad) instead. More here: [Taking notes with drawing tablets](../../basics/scenarios/taking-notes.md).
 * **Play Osu!** - One by Wacom SMALL (CTL-472) or One by Wacom SMALL MEDIUM (CTL-672) are the best choices. For more information regarding tablets for osu! and other tablet options consult [**Kuuube's tablet buying guide**](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit#gid=2077726645).
 * **Exploring drawing tablets** - this is if you are not sure if you are going to use a drawing tablet, but just want to dabble without spending a lot.
   * Start with a One by Wacom SMALL (CTL-472) for general usage.
@@ -46,11 +46,11 @@ The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom
   * Wacom Intuos Pro 2017 Large (PTH-860)
   * Wacom Intuos Pro 2025 Medium (PTK-670)
   * Wacom Intuos Pro 2017 Medium (PTH-660)
-* **Picking the right size** - More information about picking the right size: [**tablet size**](../../buying-drawtabs/choosing-size.md).
+* **Picking the right size** - More information about picking the right size: [Choosing the right size for a drawing tablet](../../buying-drawtabs/choosing-size.md).
 
 ## Pens
 
-Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there. More here: [**Wacom pen compatibility**](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)
+Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there. More here: [Wacom pen compatibility](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)
 
 <mark style="color:red;">REMEMBER: You cannot MIX AND MATCH these pens. For example, it is not possible to use the amazing Wacom Pro Pen 2 with the One by Wacom, Wacom Oner, or Intuos tablets.</mark>
 
@@ -72,7 +72,7 @@ All of the tablets except the Wacom One 2023 tablets have a very very good drawi
 
 ## Pen pressure
 
-Learn more here: [**Pen pressure**](../../core-features/pen-pressure/)
+Learn more here: [Pen pressure](../../core-features/pen-pressure/)
 
 2048 **pressure levels** is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.
 
@@ -85,8 +85,8 @@ More than pressure levels, the **pressure range** has a greater impact on your d
 Notes:
 
 * Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/community/kuuube/).
-* Learn more about [**pen pressure**](../../core-features/pen-pressure/)
-* Learn more about how [**pen pressure ranges compare across pens**](../../core-features/pen-pressure/pen-pressure-range.md)
+* Learn more about [Pen pressure](../../core-features/pen-pressure/)
+* Learn more about how [Pen pressure range](../../core-features/pen-pressure/pen-pressure-range.md)
 
 ## Drawing features
 
@@ -94,7 +94,7 @@ Notes:
 
 ### Notes on pen tilt
 
-TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [**Pen tilt**](../../core-features/pen-tilt/)
+TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [Pen tilt](../../core-features/pen-tilt/)
 
 ## Tablet resolution
 
@@ -122,7 +122,7 @@ Pointer lag is the difference between the physical position of the pen and where
 * Intuos Pro 2017 -> very little pointer lag
 * Intuos Pro 2025 -> very little pointer lag
 
-Learn more here: [**Lag**](../../core-features/lag/)
+Learn more here: [Lag](../../core-features/lag/)
 
 ## Accuracy / Diagonal wobble
 
@@ -164,7 +164,7 @@ For these tablets that do support touch, touch can be enabled/disabled with a ph
 
 More here:
 
-* [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+* [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
 * [Touch support](../../guides/touch-support/)
 
 ## Tablet design
@@ -201,7 +201,7 @@ Wacom sells texture sheets for the the Intuos Pro 2017. Three texture options ar
 
 Wacom sells texture sheets for the the Intuos Pro 2025. One texture options are provided for both the Small, Medium and Large sizes.
 
-More here: [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+More here: [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
 
 ## Potential future versions
 
@@ -213,9 +213,9 @@ More here: [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/
 
 There are three Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
 
-* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [**More here**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2025/)
-* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [**More here**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/)
-* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [**More here**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2013.md)
+* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [Wacom Intuos Pro 2025](../../catalog/drawtabs/wacom/wacom-intuos-pro-2025/)
+* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [Wacom Intuos Pro 2017](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/)
+* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [Wacom Intuos Pro 2013](../../catalog/drawtabs/wacom/wacom-intuos-pro-2013.md)
 
 ## Distinguishing physical features
 

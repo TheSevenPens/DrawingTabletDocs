@@ -6,7 +6,7 @@ The Cintiq Pro 22 (DTH-227) along with the Cintiq Pro 27 (DTH-271) are the best 
 
 This is my favorite tablet of the 70+ that I own. I prefer drawing on this one more than any other because of the drawing quality and the size (not too big, not too small).
 
-* my notes on the [Cintiq Pro 27 (DTH-271)](wacom-dth271-notes.md)
+* my notes on the [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md)
 
 ## Basics
 
@@ -101,8 +101,8 @@ Slightly better than Cintiq Pro 27.
 
 EXCELLENT (best in the industry) because the pens are very good.
 
-* [notes on Wacom Pro Pen 2](../../../pens/wacom-pens/wacom-kp504e-notes.md)
-* [notes on Wacom Pro Pen 3](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
+* [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
 
 ### Pointer lag
 
@@ -173,7 +173,7 @@ There is a specific Wacom Cintiq 22 Stand which is very expensive.
 I used this tablet with two different non-Wacom stands:
 
 * **Huion ST100 stand**. This stand is designed for 24"+ pen displays. With the Cintiq Pro 22 using the ST100 stand at the lowest angle means that the bottom of the tablet does not touch the desk and so doesn't provide any additional stability. As a result, at the lowest angle there is some wobble while drawing on the tablet. You need to increase the angle a little bit to ensure that the bottom of the tablet touches the desk. At that point drawing is stable.
-* **VIVO STAND-V100R stand**. More here: [notes on the VIVO STAND-V100R](../../../accessories/stands/vivo-v100r.md)
+* **VIVO STAND-V100R stand**. More here: [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](../../../accessories/stands/vivo-v100r.md)
 
 ### Legs
 

@@ -33,7 +33,7 @@ Besides being visible and irritating, the flicker may produce headaches for some
 
 ## Testing tablets for PWM flicker
 
-How I measure for it: [Measuring PWM flicker](../process/measuring/measuring-pwm-flicker.md).
+How I measure for it: [Measuring PWM Flicker](../process/measuring/measuring-pwm-flicker.md).
 
 ## Resources
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The tablet sends "tablet reports" to the computer at somewhere around 200 reports per second. Each report contains information like pen position, pressure, tilt, button info, etc. More here: [**tablet reports**](../advanced/tablet-reports.md). A brush engine's responsibility is to take that information and use it to draw a stroke in a drawing application.
+The tablet sends "tablet reports" to the computer at somewhere around 200 reports per second. Each report contains information like pen position, pressure, tilt, button info, etc. More here: [Tablet reports](../advanced/tablet-reports.md). A brush engine's responsibility is to take that information and use it to draw a stroke in a drawing application.
 
 ## Brush engines
 

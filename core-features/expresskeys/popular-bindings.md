@@ -2,7 +2,7 @@
 
 ## Overview
 
-You can bind your auxiliary inputs to different actions actions. Below you'll find some very popular bindings people use with specific types of auxiliary inputs such as buttons and dials. Learn more about auxiliary inputs here: [**Auxiliary inputs**](./).
+You can bind your auxiliary inputs to different actions actions. Below you'll find some very popular bindings people use with specific types of auxiliary inputs such as buttons and dials. Learn more about auxiliary inputs here: [Auxiliary inputs](./).
 
 ## Common bindings for buttons
 

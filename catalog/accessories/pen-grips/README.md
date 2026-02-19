@@ -13,7 +13,7 @@ This pen comes with several different grips or can be used without a grip.
 * **Korelax grips**
   * Link: [https://korelax.io/](https://korelax.io/)&#x20;
   * I haven't tried these out myself. But, they have some interesting options.
-* [**Hagurumado grips**](hagurumado-grips.md)
+* [Hagurumado grips](hagurumado-grips.md)
   * Super premium grips from Japan. I have used one of these with a Pro Pen 2.
 
 ## Do-it-Yourself grips

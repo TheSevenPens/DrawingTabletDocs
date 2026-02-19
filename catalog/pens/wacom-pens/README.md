@@ -12,7 +12,7 @@ Here you can find a list of common Wacom pens and some compatibility notes.
 
 Wacom tablets are highly specific about which pens they work with.&#x20;
 
-See: [**Wacom pen compatibility**](wacom-pen-compatibility.md)&#x20;
+See: [Wacom pen compatibility](wacom-pen-compatibility.md)&#x20;
 
 ## Notes on buying pens for Wacom tablets
 

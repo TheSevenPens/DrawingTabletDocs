@@ -4,7 +4,7 @@
 
 This document provides some advice for buying a laptop where you will connect it to a drawing tablet.
 
-If you are looking for a laptop that works like a drawing tablet, go here: [Standalone: en-enabled laptop recommendations](../recommendations/standalone-recs/2-in-1-laptop-recs.md)
+If you are looking for a laptop that works like a drawing tablet, go here: [Pen-enabled 2-in-1 laptop recommendations](../recommendations/standalone-recs/2-in-1-laptop-recs.md)
 
 ## The community can help you!
 
@@ -59,11 +59,11 @@ These days the minimum I would recommend is 16GB of RAM. 16GB works will for me 
 
 **The biggest mistake people make in buying a laptop is in not verifying how they will connect a pen display to it.** You would be surprised how many times someone buys a laptop and only then realizes there isn't a way to physically connect it. Sometimes this can be solved with adapters and docks, but sometimes not. Do not make this mistake.
 
-Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [**Connecting a pen display**](connecting/connecting-pen-display/)
+Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](connecting/connecting-pen-display/)
 
-I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [**USB-C DisplayPort alt mode**](pen-displays/usbc-displayport-alt-mode.md)
+I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [USB-C DisplayPort alt mode](pen-displays/usbc-displayport-alt-mode.md)
 
-If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [**Connecting a pen display with a single USB-C cable**](connecting/connecting-pen-display/connecting-pen-display-usbc.md).Power consumption
+If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [Connecting a pen display with USB-C](connecting/connecting-pen-display/connecting-pen-display-usbc.md).Power consumption
 
 Pen tablets don't draw much power at all from a laptop, so it won't diminish your battery time.
 
@@ -86,9 +86,9 @@ So you should verify your laptop can handle that many monitors.
 
 ## Laptops have used and I recommend
 
-* [Surface Pro 8, 9, and 10](../catalog/computers/microsoft/microsoft-surface-pro-9/)
-  * [**Microsoft Surface Pro 8**](../catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
-* 2023 M3 MacBook Pro - [**2023 M3 MacBook Pro**](../catalog/computers/apple/apple-m3-macbook-pro.md)
+* [Microsoft Surface Pro](../catalog/computers/microsoft/microsoft-surface-pro-9/)
+  * [Microsoft Surface Pro 8 notes](../catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
+* 2023 M3 MacBook Pro - [Apple M3 MacBook Pro](../catalog/computers/apple/apple-m3-macbook-pro.md)
 * Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM Below)
 * Samsung Galaxy Book5 Pro 360
 

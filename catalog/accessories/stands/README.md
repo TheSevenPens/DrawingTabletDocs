@@ -14,7 +14,7 @@ If you are looking for iPad-specific stands stands go here: [**iPad stands**](ht
 
 Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen Artist 22 Plus. It is my favorite VESA-attached stand because the wide lever is easy to reach and operate.
 
-VESA is a standard to mount displays to various things using screws. More here: [**VESA**](../../../technology/vesa.md)
+VESA is a standard to mount displays to various things using screws. More here: [VESA](../../../technology/vesa.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000004.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand</p></figcaption></figure></div>
 
@@ -35,7 +35,7 @@ Some issues you might run into:
 
 Some people have had success with the **Ergotron Neo-Flex Stand**. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally_found_a_stand_for_my_cintiq_pro_27/)
 
-In 2025 XP-Pen released the [X&#x50;**-Pen ACS15 Ergo Stand**](xppen-acs15.md). This reminds me a bit of the STAND-V100R which I like so the ACS15 is one I plan to get soon.
+In 2025 XP-Pen released the [XP-Pen ACS15 Ergo Stand](xppen-acs15.md). This reminds me a bit of the STAND-V100R which I like so the ACS15 is one I plan to get soon.
 
 ## Unattached stands
 
@@ -56,15 +56,15 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 ### Options
 
 * [Parblo PR-100 stand](/broken/pages/8xm1PVGe0sIqyVwAtbXQ)
-* [XP-Pen AC41 and AC42 stands](xppen-ac41-ac420-stands.md)
+* [XP-Pen AC41/AC42 stands](xppen-ac41-ac420-stands.md)
 
 ## Complex stands
 
-* [XOOT stand](xoot-stand.md)
+* [XOOT Stand](xoot-stand.md)
 
 ## VIVO VESA monitor and touch screen desk stand
 
-I've used this for a while with a 22" pen display and I really like it. [**notes on this stand**](vivo-v100r.md)
+I've used this for a while with a 22" pen display and I really like it. [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](vivo-v100r.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000144.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -76,8 +76,8 @@ See this video
 
 ## Stands I use
 
-* I use the Huion ST100A stand with my Huion Kamvas Pro 19. [**notes on Huion ST100 stand**](huion-st100-stand.md).
-* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [**notes on this stand**](vivo-v100r.md)
+* I use the Huion ST100A stand with my Huion Kamvas Pro 19. [Huion ST100 stand](huion-st100-stand.md).
+* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](vivo-v100r.md)
 
 ## Links
 
