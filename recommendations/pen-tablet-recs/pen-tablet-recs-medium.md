@@ -1,13 +1,13 @@
 # Pen tablet recommendations (MEDIUM)
 
 {% hint style="warning" %}
-## Before you purchase
+### Before you purchase
 
-* Read [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md)&#x20;
-* Review these [**Buying tips**](../../buying-drawtabs/buying-tips.md)&#x20;
-* Go through the [**Drawing Tablet Buying Guide**](../../buying-drawtabs/)&#x20;
+* Read [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md)
+* Review these [**Buying tips**](../../buying-drawtabs/buying-tips.md)
+* Go through the [**Drawing Tablet Buying Guide**](../../buying-drawtabs/)
 
-If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../)&#x20;
+If you want to see the full set recommendations go here: [**Drawing tablet recommendations**](../)
 {% endhint %}
 
 ## EXCELLENT
@@ -24,18 +24,18 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## GOOD
 
-* One by Wacom Medium (CTL-672)  \[[**notes**](../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)] \[no tilt, no wireless]&#x20;
-* XP-Pen Deco M (IT850)  \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)] \[no wireless]&#x20;
+* One by Wacom Medium (CTL-672) \[[**notes**](../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)] \[no tilt, no wireless]
+* XP-Pen Deco M (IT850) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)] \[no wireless]
 * XP-Pen Deco MW (IT850B) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)]
-* XP-Pen Deco L (IT1060) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)] \[no wireless]&#x20;
+* XP-Pen Deco L (IT1060) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)] \[no wireless]
 * XP-Pen Deco LW (IT1060B) [**notes**](../../catalog/catalog-drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)]
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
-* Huion Inspiroy 2 L (H1061P)  \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)]
-* Wacom Intuos Medium (CTL-6100)  \[[**links**](../../catalog/catalog-drawtabs/wacom/wacom-intuos.md)] \[no tilt, no wireless]
+* Huion Inspiroy 2 L (H1061P) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)]
+* Wacom Intuos Medium (CTL-6100) \[[**links**](../../catalog/catalog-drawtabs/wacom/wacom-intuos.md)] \[no tilt, no wireless]
 
 ## OK
 
-* Huion Inspiroy HS611 \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-hs611-notes.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.&#x20;
+* Huion Inspiroy HS611 \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-hs611-notes.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.
 * Huion Inspiroy RTP-700 \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-rtp700-notes.md)] - Seems OK but haven't spent much time with it
 * XP-Pen Deco 01 V3 \[[**notes**](../../catalog/catalog-drawtabs/xppen/xppen-deco/xppen-deco01v3-notes.md)]
 

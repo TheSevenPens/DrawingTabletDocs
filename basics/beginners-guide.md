@@ -94,7 +94,7 @@ The active area is the region on the tablet that your draw on. More here: [**act
 
 ## Tablet size
 
-When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](../buying-drawtabs/choosing-the-right-tablet-size.md)
+When we talk about the "size" of a drawing tablet - we are referring to the size of the active area. Different people have different needs for size. To learn how to find the right size, look here: [**Choosing the right tablet size**](../buying-drawtabs/choosing-size.md)
 
 ## Tablet drivers
 

@@ -62,7 +62,7 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 
 ## **Core features**
 
-* **Tablet size** - Size has a BIG impact on the ergonomics of using the tablet, and different sizes serve different user needs. This guide on [**choosing the right tablet size**](choosing-the-right-tablet-size.md) will help you find a size that works for you.
+* **Tablet size** - Size has a BIG impact on the ergonomics of using the tablet, and different sizes serve different user needs. This guide on [**choosing the right tablet size**](choosing-size.md) will help you find a size that works for you.
 * **The pen** (also called a stylus) is how you provide input to the tablet. All drawing tablets come with a pen. Some pro tablets come with two pens. You have to PAY ATTENTION TO THE PEN. The pen controls how well pressure works — not the tablet.
 * **Pen pressure handling -** The pen can detect how much pressure you are applying to its tip. All drawing tablet pens sense pressure. More info: [**pressure**](../core-features/pen-pressure/). There are some aspects of pressure you need to be aware of.
   * **Initial Activation Force (IAF)** is the smallest pressure that activates the pen. In general, you want a pen with a low IAF. For details on what IAF values are good, bad, etc., go here: [**Initial activation force (IAF)**](../core-features/pen-pressure/iaf.md)

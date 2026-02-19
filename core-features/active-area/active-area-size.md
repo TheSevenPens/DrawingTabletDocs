@@ -6,11 +6,11 @@ As a rectangular region, we can discuss the size of the active area in different
 
 * Width & Height
 * Diagonal length
-* Area&#x20;
+* Area
 
 But most often we will talk about active area sizes using the **diagonal length**.
 
-If you need help picking the right size for your tablet, consult [**choosing the right tablet size**](../../buying-drawtabs/choosing-the-right-tablet-size.md).
+If you need help picking the right size for your tablet, consult [**choosing the right tablet size**](../../buying-drawtabs/choosing-size.md).
 
 ## Size in tablet names
 
@@ -30,7 +30,7 @@ By looking at the Wacom's product line and naming, we can establish a decent fra
 
 <figure><img src="../../.gitbook/assets/image-000336.png" alt=""><figcaption></figcaption></figure>
 
-## Distribution of active area sizes&#x20;
+## Distribution of active area sizes
 
 If we look at how drawing tablet models are distributed along this scale we'll see that there is a lot of variation.
 
@@ -46,13 +46,10 @@ Let's see how diagonal and compare buy plotting the values for 180 different tab
 
 For pen tablets:
 
-&#x20;
-
 <figure><img src="../../.gitbook/assets/image-000421.png" alt="" width="375"><figcaption></figcaption></figure>
 
 And for pen displays:
 
 <figure><img src="../../.gitbook/assets/image-000422.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Overall, I think using the diagonal is reasonable.&#x20;
-
+Overall, I think using the diagonal is reasonable.

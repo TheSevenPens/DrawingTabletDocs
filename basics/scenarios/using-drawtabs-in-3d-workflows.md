@@ -35,7 +35,7 @@ However, what will work for you takes some consideration. See: [**Pen tablets vs
 * 16" is OKAY
 * 14 and lower - NOT RECOMMENDED
 
-For general guidance on picking size: [**Choosing the right size for a drawing tablet**](../../buying-drawtabs/choosing-the-right-tablet-size.md)
+For general guidance on picking size: [**Choosing the right size for a drawing tablet**](../../buying-drawtabs/choosing-size.md)
 
 ## Prioritizing resolution and size
 
