@@ -4,7 +4,7 @@
 
 As of July 2024, Although released in 2019 the Wacom Cintiq 22 continues to deliver an excellent drawing experience possible with a slightly out-of-date screen.
 
-I bought mine used from eBay for $380 and was very satisfied.&#x20;
+I bought mine used from eBay for $380 and was very satisfied.
 
 Model year: 2019
 
@@ -56,14 +56,14 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 **Color gamut:**
 
 * 72% NTSC
-* 96% sRGB&#x20;
+* 96% sRGB
 * The colors look fine. This is not a modern wide-gamut display so you might find it looks less saturated than other modern displays. But I think it looks fine and works well for my needs. I prefer to work in sRGB anyway.
 
 ## **Pen tracking**
 
 **Accuracy:** EXCELLENT in center an in edges and corners. very small deviation in corners and edges and better than many other tablets I have seen.
 
-**Tilt compensation** - EXCELLENT. Tilting pen in its full supported range did not move the pointer from the tip by an appreciable amount.&#x20;
+**Tilt compensation** - EXCELLENT. Tilting pen in its full supported range did not move the pointer from the tip by an appreciable amount.
 
 ## **Pointer lag**
 
@@ -75,11 +75,11 @@ MINOR WOBBLE. Good for a pen display.
 
 <figure><img src="../../../../.gitbook/assets/image-000170.png" alt=""><figcaption></figcaption></figure>
 
-## **Anti-glare sparkle**&#x20;
+## **Anti-glare sparkle**
 
-VERY GOOD. Very faint ag sparkle visible. Only visible if eyes are 4" to 6" from tablet.&#x20;
+VERY GOOD. Very faint ag sparkle visible. Only visible if eyes are 4" to 6" from tablet.
 
-## **Display sharpness**&#x20;
+## **Display sharpness**
 
 pixels are clearly visible and well delineated
 
@@ -89,7 +89,7 @@ I think this did have a little more blacklight bleed than other pen displays. I'
 
 ## **Auxiliary inputs**
 
-&#x20;Tablet has no none.
+Tablet has no none.
 
 ## **VESA mounting**
 
@@ -107,9 +107,9 @@ Does not have a legs.
 
 ## Surface Texture
 
-Typical texture of a plastic film on glass. Film provides enough grip. Pen does not "slide" around.&#x20;
+Typical texture of a plastic film on glass. Film provides enough grip. Pen does not "slide" around.
 
-Feels ever so slightly "stickier" than an etched glass display.&#x20;
+Feels ever so slightly "stickier" than an etched glass display.
 
 ## Fans
 
@@ -117,7 +117,7 @@ It does not have any fans. You can clearly see that there are no fans in various
 
 ## Noise
 
-Silent.&#x20;
+Silent.
 
 ## Touch
 
@@ -125,11 +125,11 @@ NO. This tablet does NOT support touch.
 
 ## Heat
 
-I ran the display at 100% brightness for two hours. The overall tablet is about room temperature with a very slight (very slight) warms to wards the left side.&#x20;
+I ran the display at 100% brightness for two hours. The overall tablet is about room temperature with a very slight (very slight) warms to wards the left side.
 
 ## Device shape
 
-It has a wedge shape. It is thicker at the top of the screen and thinner at the bottom of the screen. So laying it on a desk surface gives it a very slight angle of maybe 10 degrees. It's nice to have some angle but typically if drawing at an angle is important for you, then get a stand.&#x20;
+It has a wedge shape. It is thicker at the top of the screen and thinner at the bottom of the screen. So laying it on a desk surface gives it a very slight angle of maybe 10 degrees. It's nice to have some angle but typically if drawing at an angle is important for you, then get a stand.
 
 The device works very well on the desk. It does not slip around due to the 4 rubber strips on the bottom.
 
@@ -145,12 +145,12 @@ The device works very well on the desk. It does not slip around due to the 4 rub
 **Ports**
 
 * Power
-* USB-B&#x20;
+* USB-B
 * HDMI
 
 **Port location**
 
-The ports are behind a cover on the back.&#x20;
+The ports are behind a cover on the back.
 
 <figure><img src="../../../../.gitbook/assets/image-000007.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -168,7 +168,7 @@ This port type is getting less common. So to make sure you know what the cable l
 
 **Special note on HDMI**
 
-In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [**Using HDMI adapters with pen displays**](../../../../guides/pen-displays/using-hdmi-adapters-with-pen-displays/)
+In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [**Using HDMI adapters with pen displays**](../../../../guides/pen-displays/using-hdmi-adapters/)
 
 ## My connectivity setup
 
@@ -187,9 +187,6 @@ This is the adapter I used for HDMI when connecting to the CalDigit TS4 dock whi
 
 <figure><img src="../../../../.gitbook/assets/image-000011.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Other notes
 
-If you are going to buy this tablet used to save some money, please keep in mind that the Pro Pen 2 is not cheap. If you lose or break the pen,  getting a new one is about $90.
-
+If you are going to buy this tablet used to save some money, please keep in mind that the Pro Pen 2 is not cheap. If you lose or break the pen, getting a new one is about $90.

@@ -35,4 +35,4 @@ more here: [**Motherboard HDMI ports vs GPU HDMI ports**](motherboard-hdmi-vs-gp
 
 ### What if you don't have any HDMI ports?
 
-If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../../pen-displays/using-hdmi-adapters-with-pen-displays/)&#x20;
+If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [**Using HDMI adapters with pen displays**](../../pen-displays/using-hdmi-adapters/)&#x20;

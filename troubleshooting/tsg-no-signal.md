@@ -120,7 +120,7 @@ If your tablet has a USB-C port and your computer has a USB-C port that supports
 
 ## HDMI adapters
 
-if your PC has a DisplayPort or DVI output or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters-with-pen-displays/).
+if your PC has a DisplayPort or DVI output or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters/).
 
 ## Issues with HDMI Adapters
 
