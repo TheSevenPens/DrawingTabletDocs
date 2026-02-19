@@ -27,7 +27,7 @@ It's just an all around good device.
 
 ## Included pen
 
-* Samsung S Pen ([<mark style="background-color:$success;">**notes on the S Pen**</mark>](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md))
+* Samsung S Pen ([**notes on the S Pen**](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md))
 * This is an OK pen. Not great as EMR pens go in terms of pressure range, but it is enough for basic drawing drawing tasks.
 
 ## Compatible pens
