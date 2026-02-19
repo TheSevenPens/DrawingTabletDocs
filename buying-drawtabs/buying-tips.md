@@ -6,100 +6,100 @@
 
 ## Read the user manual
 
-The user manual contains so much information that can help you understand if the tablet will work for you. It'll answer most of the questions you'll have about connecting the tablet and the basics of how it works. It will also give you a chance to familiarize yourself with potential problems you might encounter and how to handle them.
+The user manual contains a lot of information that can help you understand whether a tablet will work for you. It answers most questions about connecting the tablet and the basics of how it works. It also gives you a chance to familiarize yourself with potential problems you might encounter and how to handle them.
 
-If you read the user manual before you make a purchase you'll save yourself a lot of time and frustration.
+Reading the user manual before you make a purchase will save you a lot of time and frustration.
 
-The key thing you want to understand from a user manual is:
+The key things to look for in the user manual are:
 
 * How to install the driver
-* how the tablet will connect to your computer. This is especially important to understand if you are planning on purchasing a pen display.
+* How the tablet connects to your computer. This is especially important if you are planning to purchase a pen display.
 
 ## Pen tablets vs pen displays
 
-Because it is so common that people struggle with the decision between getting a pen tablet and pen display. You should go into the purchase decision knowing that each kind of tablet has its advantages.
+The decision between a pen tablet and a pen display is something many people struggle with. Going into the purchase knowing the strengths of each kind of tablet will help you choose wisely.
 
-Many people think that pen displays are simply inherently better. This certainly is not true. I strongly suggest you carefully consider the strengths and weaknesses of both.
+Many people assume pen displays are simply better. This is not true. I strongly suggest you carefully consider the strengths and weaknesses of both.
 
-Here you can find the comparison between pen tablets and pen displays that should help you make your decision: [**pen tablets vs pen displays**](buying-tips.md#pen-tablets-vs-pen-displays).
+You can find the comparison between pen tablets and pen displays here: [**pen tablets vs pen displays**](pen-tablets-vs-pen-displays.md).
 
 ## Tablet brands
 
-There are many tablet brands. I usually stick to talking about and recommending tablets from Wacom, Huion, XP-Pen, and Xencelabs. That's because I have owned many of those tablets and I believe there's a large enough community of users of those tablets that if you need help you're likely to find it from them.
+There are many tablet brands. I usually stick to talking about and recommending tablets from Wacom, Huion, XP-Pen, and Xencelabs. That's because I have owned many of those tablets and there is a large enough community of users that if you need help, you're likely to find it.
 
 You can read much more about these brands here: [**Drawing tablet brands**](../drawtab-brands/drawing-tablet-brands-vs-digitizers.md).
 
 ## Community size
 
-Based on my experience with tech products when a user of a product has a question or needs help more than 50% of the time they get their answer or help not from customer support but rather from other users in the online community.
+In my experience with tech products, when a user has a question or needs help, more than 50% of the time they get their answer not from customer support but from other users in the online community.
 
-In other words the community around a drawing tablet brand has a great impact on your satisfaction with that tablet.
+In other words, the community around a drawing tablet brand has a big impact on your satisfaction with that tablet.
 
-That's why I tend to recommend the brands that I do because they have so many users that I can see online.
+That's why I tend to recommend the brands I do — they have a large number of users who are active online.
 
-Since Reddit is a popular online location for discussions around drawing tablets here are some numbers that help you see how big these communities are.
+Since Reddit is a popular place for drawing tablet discussions, here are some numbers that show how big these communities are.
 
 <figure><img src="../.gitbook/assets/image-000652.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Understand how the tablet will connect to your computer
 
-For pen tablets this is pretty easy. All pen tablets can connect with a USB C cable. And some pen tablets can also support wireless connectivity.
+For pen tablets this is straightforward. All pen tablets connect with a USB-C cable, and some also support wireless connectivity.
 
 In the user manual you'll find diagrams like this for a pen tablet.
 
 <figure><img src="../.gitbook/assets/image-000653 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-For a pen display wiring them up is much more complicated. There are more cables and ports involved. And more requirements on those cables and ports.
+For pen displays, wiring is much more complicated. There are more cables and ports involved, with more requirements on those cables and ports.
 
-The user manual will show diagrams like these below indicating how pen displays may connect to a computer.
+The user manual will show diagrams like these indicating how pen displays may connect to a computer.
 
 <figure><img src="../.gitbook/assets/image-000654 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image-000655.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-With pen displays you should also be very clear about which cables come in the box. Sometimes it user manual may show you how to wire up the connections. But sometimes some cables are not included. So it's best to understand that before you make a purchase.
+With pen displays you should also be clear about which cables come in the box. Sometimes the user manual shows how to wire up the connections but some of those cables are not actually included. It's best to confirm this before you make a purchase.
 
-In addition to just understanding how the cables are connected for pen display you also have to make sure your computer has all the ports that are needed and that they meet the requirements.
+In addition to understanding how the cables connect, you also need to make sure your computer has all the required ports and that they meet the necessary specifications.
 
-To help you understand this I recommend you watch this video on connecting a pen display.
+To help you understand this, I recommend watching this video on connecting a pen display.
 
 {% embed url="https://youtu.be/iKl_3NYjlsY" %}
 
 ## Test the ports on your computer
 
-Once you know how a once you know how the connection should work even before you order the tablet you should confirm if the ports on your computer will work as intended.
+Once you know how the connection should work, confirm that the ports on your computer will work as intended — even before you order the tablet.
 
-A pen tablet will lead you to a simple USB port. So you can verify it works by testing that port with a mouse or some other similar input device.
+For a pen tablet, you can verify a USB port works by testing it with a mouse or similar input device.
 
-For a pen tablet you should verify any ports used to transmit a display signal work.
+For a pen display, you should verify that any ports used to transmit a display signal work correctly.
 
-In particular because using a pen display essentially counts as adding another monitor to your computer. You should make sure that your computer can support as many simultaneous displays connected as are needed to account for both your monitor and the pen display.
+In particular, connecting a pen display is essentially the same as adding another monitor to your computer. Make sure your computer can support as many simultaneous displays as you need, accounting for both your existing monitor and the pen display.
 
-## Use model numbers not names
+## Use model numbers, not names
 
-So many tablets are on the market right now and many of them have confusingly similar names.
+Many tablets are on the market right now, and many have confusingly similar names.
 
-For example Wacom has one series of tablets called Wacom 1 and another series of tablets called one by Wacom. They have very different levels of quality, they are different types of tablets, and they have different ages. If you rely on name alone you're likely to buy the wrong tablet.
+For example, Wacom has one series called "Wacom One" and another called "One by Wacom." They differ significantly in quality, type, and age. If you rely on the name alone, you're likely to buy the wrong tablet.
 
 <figure><img src="../.gitbook/assets/image-000656.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Another example are names like these from XP pen which are confusingly similar.
+Another example: these XP-Pen names are confusingly similar.
 
 <figure><img src="../.gitbook/assets/image-000657.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-Ultimately the way you can avoid purchasing the wrong tablet is by making sure you know the model number.
+The way to avoid purchasing the wrong tablet is to always verify the model number.
 
-## Do not stress out about the numbers of pressure levels.
+## Do not stress about the number of pressure levels
 
-These days it's very fashionable for drawing tablets to advertise that they have 8000 levels of pressure or 16,000 levels of pressure. In my analysis the vast majority of users only need about 2000 levels of pressure and could get by with far less. Almost every tablet on the market today has more than 8000 levels of pressure and only a handful have 4000. So any tablet you buy will have enough.
+These days it's fashionable for drawing tablets to advertise 8,000 or 16,000 levels of pressure. In my analysis, the vast majority of users only need about 2,000 levels and could get by with far less. Almost every tablet on the market today has more than 8,000 levels, and only a handful have as few as 4,000. Any tablet you buy will have enough.
 
 More here: [**How many pressure levels do you really need?**](how-many-pressure-levels.md)
 
 ## **Be prepared to handle common problems**
 
-* Ensure you know how to contact customer support.
-* Ensure you know the warranty and how (if needed) you can can return the tablet to the manufacturer or to the retailer (example: Amazon) you bought it from
-* Here's a list of [Common problems with drawing tablets](../troubleshooting/common-problems-with-drawing-tablets.md). Although for a majority of you everything \`will "just work" some small number of you will start off with issues on day one.
+* Make sure you know how to contact customer support.
+* Make sure you know the warranty terms and how (if needed) you can return the tablet to the manufacturer or to the retailer (e.g., Amazon) you bought it from.
+* Here's a list of [Common problems with drawing tablets](../troubleshooting/common-problems-with-drawing-tablets.md). Although the majority of users will have no issues, a small number will run into problems on day one.
 * I have a list of troubleshooting docs here: [Troubleshooting](../troubleshooting/)
 * The most complex problem for pen displays is usually the "NO SIGNAL" problem. If it happens, this guide will help: [Troubleshoot the NO SIGNAL problem](../troubleshooting/tsg-no-signal.md)
 
@@ -117,14 +117,14 @@ Some reviewers to explore:
 
 ## Verify the model number, not just the model name
 
-Tablet names are confusingly similar. So much so, that I've seen people order the wrong tablet just because the names were close.
+Tablet names are confusingly similar — I've seen people order the wrong tablet just because the names were close.
 
-* NEVER order by using the name of the tablet alone.
-* ALWAYS verify you have ordered correct model number.
+* NEVER order using the name of the tablet alone.
+* ALWAYS verify you have ordered the correct model number.
 
 See this page for all the reasons why you should not rely on the model name: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md)
 
-## Make sure your working environment is usable
+## Make sure your working environment is suitable
 
-* Check for potential sources of Electromagnetic Interference. More here: [**Electromagnetic interference**](../guides/general/electromagnetic-interference.md)
-* Ensure you have enough space on your desk for the tablet and where your keyboard will be placed
+* Check for potential sources of electromagnetic interference. More here: [**Electromagnetic interference**](../guides/general/electromagnetic-interference.md)
+* Make sure you have enough space on your desk for the tablet and your keyboard.

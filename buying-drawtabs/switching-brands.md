@@ -2,55 +2,55 @@
 
 ## Overview
 
-If you already have a tablet and are looking to buy a new one, you might be thinking about switching brands. For example you might have a Wacom and are entertaining moving to Huion or XP-Pen. This document will give you some things to consider. There are valid reasons to switch brands but there are risks.
+If you already have a tablet and are looking to buy a new one, you might be thinking about switching brands. For example, you might have a Wacom and are considering moving to Huion or XP-Pen. This document covers some things to consider. There are valid reasons to switch brands, but there are also risks.
 
 ## Wacom tablets
 
-Wacom tablets will come up in this discussion a lot. The thing to remember with Wacom is that your should treat their professional and consumer pen tablets as completely different experiences.&#x20;
+Wacom tablets will come up in this discussion a lot. The key thing to keep in mind with Wacom is that their professional and consumer pen tablets are completely different experiences.&#x20;
 
 * Wacom professional tablets are the best in the market.
 * Wacom professional pens are the best in the market.
-* Wacom consumer tablets are just OK (some are pretty good)
-* Wacom consumer pens are just OK (some older ones are pretty good)
+* Wacom consumer tablets are just OK (some are pretty good).
+* Wacom consumer pens are just OK (some older ones are pretty good).
 
 ## Moving from Wacom professional tablets
 
-If you already have a Wacom professional tablet, switching to another brand is unlikely to give you a better experience in terms of drawing performance.&#x20;
+If you already have a Wacom professional tablet, switching to another brand is unlikely to give you a better drawing experience.&#x20;
 
-Physical pressure range (IAF and MAX pressure)
+**Physical pressure range (IAF and max pressure)**
 
-As of 2026 Wacom professional pens still have the lowest IAF in the industry. And this means that they can detect extremely low pressure. Other brands have gotten close but are still over the years but are still not matching what walk on professional pens offer. so we've sensitivity.
+As of 2026, Wacom professional pens still have the lowest IAF in the industry, meaning they can detect extremely light pressure. Other brands have gotten closer over the years but still don't match what Wacom professional pens offer in terms of sensitivity.
 
-So if having a pen that is extremely sensitive to pressure is what is important to you - a pen that detects very light strokes - then you may not enjoyed the transition to another brand and its pens.
+If having a pen that is extremely sensitive to pressure is important to you — one that detects very light strokes — you may not enjoy the transition to another brand.
 
 More here: [Professional pens compared](../recommendations/comparisons/2025-professional-pens-compared.md)
 
-## Old Wacom vs New non-Wacom
+## Old Wacom vs new non-Wacom
 
-Wacom has been in the industry for 40 years. And they've released many tablets over the years.
+Wacom has been in the industry for 40 years and has released many tablets over that time.
 
-Welcome's older professional tablets are still better then the newest tablets of other brands. Yes the differences have really shrunk. And for a lot of people you would not be able to tell the difference.&#x20;
+Wacom's older professional tablets are still better than the newest tablets from other brands. The gap has shrunk significantly, and for many people you would not be able to tell the difference.&#x20;
 
 ## Some Wacom consumer tablets are not great
 
-Some Wacom consumer pen tablets I really do NOT recommend. These include:
+There are some Wacom consumer pen tablets I really do NOT recommend. These include:
 
 * Wacom One S (CTC-4110WL)
 * Wacom One M (CTC-6110WL)
 
-If you have these tablets and their pens, you might get a better experience with a newer non-Wacom pen tablet
+If you have these tablets, you might get a better experience with a newer non-Wacom pen tablet.
 
 ## Age of tablets on the market
 
-At any given moment welcome only produces a small number of tablets. And they don't release new products very often. This means their lineup is relatively simple to understand.
+At any given moment, Wacom produces only a small number of tablets and doesn't release new products very often. This makes their lineup relatively simple to understand.
 
-Welcome tablets have a support lifetime of about a decade. And they can be used for a longer time than that. There were people using Wacom tablets from 2 decades ago - for example an Intuos 3. This is a series of professional talents that was released in 2012.
+Wacom tablets have a support lifetime of about a decade, and can often be used even longer. Some people are still using Wacom tablets from two decades ago — for example the Intuos 3, a professional series released in 2012.
 
-Non Wacom brands release a lot of products. And you can find a confusing mix of their older products and their newer products both available for sale now. This runs the risk of you purchasing an older tablet which won't be as good compared to their newer tablets.
+Non-Wacom brands release a lot of products, and you can find a confusing mix of older and newer models both available for sale at the same time. This runs the risk of purchasing an older tablet that won't be as good as their newer ones.
 
-Probably the easiest way of knowing that you're getting a newer non Wacom tablet is by checking when YouTube reviews start appearing and verifying that they're using their newer models of pens.
+The easiest way to know you're getting a newer non-Wacom tablet is to check when YouTube reviews started appearing and verify that they feature the brand's latest pen models.
 
-For non Wacom brands here are the pens that indicate that these are newer tablets with the latest technology.
+For non-Wacom brands, here are the pens that indicate a tablet uses the latest technology:
 
 * Huion PW550, PW550S
 * Huion PW600 series
@@ -62,53 +62,32 @@ For non Wacom brands here are the pens that indicate that these are newer tablet
 
 Tablet drivers are critical for successfully using a drawing tablet.
 
-There has never been a clear pattern where a specific brand had a better talent driver than others. The experiences of people seem to vary.
+There has never been a clear pattern showing that a specific brand has better drivers than others — experiences vary widely from person to person.
 
-For some people, welcome tablet drivers are very reliable and don't give any problems at all. This has been my experience. However for others Wacom drivers have been very flaky.
+For some people, Wacom tablet drivers are very reliable and cause no problems at all. That has been my experience. However, for others, Wacom drivers have been very unreliable.
 
-And the same can be said for any other brand of drivers.
+The same can be said for any other brand.
 
-So if you're expecting a better driver by switching brands then it is certainly possible. But don't assume it's true.
+So if you're hoping for better drivers by switching brands, it's certainly possible — but don't assume it.
 
 ## Mixing tablets and drivers on the same machine
 
-You might have a tablet from Wacom let's say a pen tablet like an Intuos pro. And then you might be interested in also getting a pen display from a non-Wacom brand such as a Huion Kamvas.
+Say you have a Wacom pen tablet like an Intuos Pro and you're also interested in getting a pen display from a non-Wacom brand like a Huion Kamvas.
 
-What a lot of people hope is that they can use both tablets at the same time with your computer. By same time I don't mean that they're literally drawing with two hands.
+Many people hope to use both tablets with the same computer — not literally drawing with two hands at once, but being able to switch between them depending on what they're doing. That makes total sense.
 
-What I mean is that people expect to be able to connect both tablets to their computer and then if they want to draw with their pen tablet they can and if they need to use their pen display from another brand they can switch to that one. The desire to do this totally makes sense.
+However, having drivers from different brands installed on the same computer may not work.
 
-However having drivers from different brands installed on your computer may not work.
+On Windows, it almost certainly will not work. It's best to have only one tablet driver running at a time on Windows, as tablet drivers from different brands tend to conflict with each other. Some people work around this by installing both drivers and manually disabling one when they want to use the other tablet.
 
-For Windows it almost certainly will not work. On windows it's best to have a single driver running at one time. For some reason on windows tablet drivers tend to conflict and cause problems with each other. Some people get around this by installing both drivers but going through a process of disabling 1 driver when they want to use the other tablet.
-
-On MacOS, my experience has been very different it seems like tablet drivers get along much better when multiple are installed. In fact my experience has been very good doing this. But for other people they find that mixing tablet drivers on Mac OS is also a problem.
+On macOS, my experience has been quite different — tablet drivers tend to coexist much more reliably. My own experience with this has been very good. However, some people find that mixing tablet drivers on macOS also causes problems.
 
 ## Moving to Wacom
 
-If you have a non-Wacom tablet and want a Wacom tablet, if you go for an Wacom Professional tablet there is one thing you need to be aware of.
+If you have a non-Wacom tablet and want to switch to Wacom, and you're considering a Wacom Professional tablet, there is one important thing to be aware of.
 
-Wacom professional pens tend to be much more expensive than non-Wacom pens. Some Wacom professional pens are more expensive than non-Wacom tablets! So you should be aware of the prices of getting a replacement pen if you lose or damage it. &#x20;
+Wacom professional pens tend to be much more expensive than non-Wacom pens. Some Wacom professional pens cost more than entire non-Wacom tablets. Be aware of replacement pen prices in case you ever lose or damage yours.&#x20;
 
 ## Specific recommendations
 
 Go here for my recommendations that include non-Wacom tablets: [recommendations](../recommendations/)
-
-
-
-
-
-
-
-&#x20;
-
-&#x20;
-
-&#x20;
-
-&#x20;
-
-
-
-
-

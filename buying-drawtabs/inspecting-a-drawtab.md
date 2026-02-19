@@ -2,74 +2,70 @@
 
 ## Overview
 
-This is a list of some things you should check when you (a) first set up your drawing tablet or (b) have an opportunity to inspect the drawing tablet before you purchase it.
+This is a list of things to check when you (a) first set up your drawing tablet or (b) have an opportunity to inspect a tablet before purchasing it.
 
-This will save you a lot of headaches and disappointment later on.
+Checking these things will save you a lot of headaches and disappointment later on.
 
-## Testing before you setup the tablet
+## Testing before you set up the tablet
 
-*   Tablets usually have a list of things they come with. This list will include things like cables cleaning cloths, pen nibs , etc. The list might be printed on the box, or it might be on a piece of paper inside the box, or it might be a list on the website of the tablet brand.
-
-    Verify that you have all the things you're supposed to have.
-* Examine the screen carefully with your eyes. You're looking for scratches or areas where the surface is worn out. If it's a new tablet you shouldn't see anything like that.
-* Sometimes it might be difficult to see scratches so you might want to shine a bright light across the surface at an angle to identify any scratches.
+* Tablets usually come with a list of included items — things like cables, cleaning cloths, pen nibs, etc. This list may be printed on the box, on a paper inside the box, or on the tablet brand's website. Verify that you have everything you're supposed to have.
+* Examine the surface carefully with your eyes. You're looking for scratches or areas where the surface is worn. If it's a new tablet you shouldn't see anything like that.
+* Scratches can sometimes be hard to see, so try shining a bright light across the surface at an angle to reveal them.
 
 ## Getting prepared for functional testing
 
-In order to perform test the tablet actually works you'll need to set it up. Follow this guide: [**Get started with a drawing tablet**](../basics/getting-started.md).
+To test that the tablet actually works, you'll need to set it up. Follow this guide: [**Get started with a drawing tablet**](../basics/getting-started.md).
 
-Then install any applications you need. I strongly suggest you install Krita from Krita.org. It's free and its behavior is consistent so it makes it an ideal application to test the functionality of a drawing tablet. So even if you don't plan on using Krita it's a very useful tool for troubleshooting.
+Then install any applications you need. I strongly suggest installing Krita from Krita.org. It's free and behaves consistently, making it an ideal application for testing drawing tablet functionality. Even if you don't plan to use Krita regularly, it's a very useful troubleshooting tool.
 
-Mobile phones can interfere with the operation of a tablet. Keep them away.
+Keep mobile phones away — they can interfere with tablet operation.
 
-Ensure there isn't anything magnetic underneath the tablet. Some stands use magnets. Don't place the tablet on top of an electronic device like a laptop.&#x20;
+Make sure there isn't anything magnetic underneath the tablet. Some stands use magnets. Don't place the tablet on top of an electronic device like a laptop.&#x20;
 
 ## **Basic functional testing**&#x20;
 
 ### Connectivity
 
-* Conduct the tests with a wired connection.
-* Any then verify they work with wireless connection
+* Conduct the tests with a wired connection first.
+* Then verify they work with a wireless connection.
 
 ### Drawing
 
-* Check if the pen can draw in all locations on the active area
-  * Just draw a lot of lines alll over the screen. You want to ensure that there aren't any gaps were you can't draw and that the position of the pen is accurately tracked.
-* Check if the pressure going from 0% to 100%&#x20;
-  * First do this in the driver. They usually have some regio where you can test the pressure.
+* Check if the pen can draw in all locations on the active area.
+  * Draw lots of lines all over the surface. Make sure there are no gaps where you can't draw and that the pen position is accurately tracked.
+* Check if pressure goes from 0% to 100%.&#x20;
+  * First do this in the driver — it usually has a region where you can test pressure.
   * Then do this in an application. I suggest using Krita.
-  * You want to ensure that:
-    * The pen isn't "stuck" at 0% pressure or 100% pressure
-  * You may notice that the pressure is "jumpy" any low pressure this is normal for EMR pens. You can use pressure curves to control this.
-* Check tilt works in all directions
-  * draw some strokes and tilt the pen in different directions.
-  * do this in multiple locations across the active area
+  * Make sure the pen isn't "stuck" at 0% or 100% pressure.
+  * You may notice that pressure is "jumpy" at low pressure — this is normal for EMR pens. You can use pressure curves to control this.
+* Check that tilt works in all directions.
+  * Draw some strokes and tilt the pen in different directions.
+  * Do this in multiple locations across the active area.
 
 ## Pen display pen tracking accuracy
 
 * With the pen held vertically and not moving, check that the pointer is close to the tip of the pen.
-* With the pen held at a 45 degree angle and not moving, check that tilt compensation is working. As you tilt the pen check to make sure the pointer doesn't deviate too far from the tip of the pen. A little bit of drift is normal. Keeping the pen at 45 degrees, rotate the pen in a full circle.&#x20;
-* Check that location of pen is tracked accurately in over the entire surface of the tablet
+* With the pen held at a 45-degree angle and not moving, check that tilt compensation is working. As you tilt the pen, make sure the pointer doesn't deviate too far from the tip. A little drift is normal. Keeping the pen at 45 degrees, rotate it in a full circle.&#x20;
+* Check that the pen position is tracked accurately over the entire surface of the tablet.
 
 ## **Express keys**
 
-* Check if all the buttons, dials, work. A quick way to test this is to map the buttons to keypresses. Then you can open a notepad app and press the express keys and see it typing things
+* Check if all buttons and dials work. A quick way to test this is to map the buttons to keypresses, then open a notepad app and press the express keys to see if they type the expected characters.
 
 ## **Pen display features**
 
-* Check for stuck or dead pixels
-* Check for basic color and brightness
-* All tablets have some pointer lag. Usually it is very obvious in pen displays. Verify if you are OK with the amount it has.
-* All pen displays have some minor edge and corner inaccuracy in tracking the pen location. Check this to see how much there is and if you are OK with this.&#x20;
-* Verify you are OK with the anti-glare sparkle on the screen. Some people are very sensitive to this.
+* Check for stuck or dead pixels.
+* Check for basic color and brightness.
+* All tablets have some pointer lag — it's usually very noticeable on pen displays. Verify that you're OK with the amount this display has.
+* All pen displays have some minor edge and corner inaccuracy in pen tracking. Check how much there is and whether you're OK with it.&#x20;
+* Verify that you're OK with the anti-glare sparkle on the screen. Some people are very sensitive to this.
 * Verify that the display does not have a color tint on the edges. More here: [Color tint on edges of display](../guides/pen-displays/color-tint-on-edges-of-display.md).
 
 ## **Surface**
 
 Take your pen and move it around the surface.
 
-There should be no rough patches. There should be no cuts or scratches deep enough that you can feel them through the pen. More here:&#x20;
+There should be no rough patches and no cuts or scratches deep enough to feel through the pen. More here:&#x20;
 
 * [surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
 * [surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)&#x20;
-

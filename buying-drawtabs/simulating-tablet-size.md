@@ -2,11 +2,10 @@
 
 ## Steps
 
-* Find the dimensions of the device and the active area then
-  * The dimensions will be published online
-* Cut out a piece of cardboard to the size of the tablet dimensions
-* Draw a rectangle to represent the active area
-* Then try drawing on it
+* Find the dimensions of the device and the active area (the dimensions will be published online)
+* Cut out a piece of cardboard to the size of the tablet
+* Draw a rectangle on it to represent the active area
+* Try drawing on it
 
 ## Example
 
@@ -14,7 +13,7 @@
 
 ## Things to test
 
-* In the active area, do you find enough space to draw
-* How will you place it relative to your keyboard
-* Does it fit your desk
-* Especially for pen displays, keep it about half an arms length away. How much does this prevent you from reacing other items on the desk
+* Does the active area give you enough space to draw?
+* How will you place the tablet relative to your keyboard?
+* Does it fit on your desk?
+* Especially for pen displays, hold it about half an arm's length away. How much does this prevent you from reaching other items on the desk?
