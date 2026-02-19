@@ -6,13 +6,13 @@ If I had to pick one item on this list, I would recommend the **One by Wacom CTL
 
 ## Other good options
 
-* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [<mark style="background-color:green;">**my notes**</mark>](../../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)] ★★★
-* Huion Inspiroy Frego M (L610) \[$90,[<mark style="background-color:green;">**my notes**</mark>](../../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-l610-notes.md) ] ★★★
+* One by Wacom Medium (CTL-672) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$60, [<mark style="background-color:green;">**notes**</mark>](../../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)] ★★★
+* Huion Inspiroy Frego M (L610) \[$90,[<mark style="background-color:green;">**notes**</mark>](../../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-l610-notes.md) ] ★★★
 * XP-Pen Deco series ★★★
   * XP-Pen Deco M (IT850) <mark style="background-color:red;">\[no wireless]</mark> \[$50, [**links**](../../../catalog/catalog-drawtabs/xppen/xppen-deco/)]
   * XP-Pen Deco MW (IT850B) \[$70, [**links**](../../../catalog/catalog-drawtabs/xppen/xppen-deco/)]
   * XP-Pen Deco L (IT1060) <mark style="background-color:red;">\[no wireless]</mark> \[$70, [**links**](../../../catalog/catalog-drawtabs/xppen/xppen-deco/)]&#x20;
-  * XP-Pen Deco LW (IT1060B) \[$90, [<mark style="background-color:green;">**my notes**</mark>](../../../catalog/catalog-drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)]
+  * XP-Pen Deco LW (IT1060B) \[$90, [<mark style="background-color:green;">**notes**</mark>](../../../catalog/catalog-drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)]
 * Wacom Intuos series
   * Wacom Intuos Medium (CTL-6100) <mark style="background-color:red;">\[no tilt, no wireless]</mark> \[$200, [**links**](../../../catalog/catalog-drawtabs/wacom/wacom-intuos.md)]
   * Wacom Intuos Medium Bluetooth (CTL-6100WL) <mark style="background-color:red;">\[no tilt]</mark> \[$200, [**links**](../../../catalog/catalog-drawtabs/wacom/wacom-intuos.md)]

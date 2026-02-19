@@ -29,7 +29,7 @@ This tablet has a 16:10 aspect ratio.
 
 ## **Pen**
 
-The tablet uses he the slightly older PW500 pen. For more details about the pen, see [<mark style="background-color:green;">**My notes on the PW500 pen**</mark>](../../../catalog-pens/huion-pens/huion-pw500-notes.md)
+The tablet uses he the slightly older PW500 pen. For more details about the pen, see [<mark style="background-color:green;">**notes on the PW500 pen**</mark>](../../../catalog-pens/huion-pens/huion-pw500-notes.md)
 
 ## **Build quality & design**
 

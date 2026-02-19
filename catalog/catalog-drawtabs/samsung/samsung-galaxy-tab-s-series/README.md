@@ -4,13 +4,13 @@
 
 The TabS series spans a number of different devices that vary in size and power. Overall thanks to their integration with the S pen (which comes with the tablet) they offer a good general purpose Android tablet experience combined with a DECENT drawing experience.
 
-* [**My notes on the Samsung Galaxy Tab S Series**](samsung-tab-s-notes.md)
+* [**notes on the Samsung Galaxy Tab S Series**](samsung-tab-s-notes.md)
 * [**Apps for Android**](../../../../apps/apps-for-android.md)
 * [**Apple iPad versus Samsung Galaxy Tab S**](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)&#x20;
 
 ## The S Pen
 
-* [**My notes on the Samsung S Pen**](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
+* [**notes on the Samsung S Pen**](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)&#x20;
 * [**Upgrading from the Samsung S pen to the Wacom CP-913 pen**](../../../catalog-pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## S11 series
@@ -21,7 +21,7 @@ The TabS series spans a number of different devices that vary in size and power.
 * S11
   * [Teoh on Tech - Samsung Tab S11: Note Taking & Handwriting Review](https://www.youtube.com/watch?v=aR83Zgla3wc) 2026-01-12        &#x20;
 * S11 Ultra
-  * [**my notes on Tab S11 Ul**<mark style="background-color:green;">**tra**</mark>](samsung-tab-s11ultra-notes.md)
+  * [**notes on Tab S11 Ul**<mark style="background-color:green;">**tra**</mark>](samsung-tab-s11ultra-notes.md)
 
 ## S10 series
 
@@ -65,4 +65,4 @@ The TabS series spans a number of different devices that vary in size and power.
 
 ## S6 series
 
-* [**My notes on S6 lite**](samsung-tab-s6lite-notes.md)&#x20;
+* [**notes on S6 lite**](samsung-tab-s6lite-notes.md)&#x20;

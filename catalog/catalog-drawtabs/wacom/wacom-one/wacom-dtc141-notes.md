@@ -74,7 +74,7 @@ This tablet makes sense for the following scenarios:
 
 ### Included pen
 
-* Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
+* Wacom One Standard Pen (CP-923) - [**notes on this pen**](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
   * High consumer-level IAF
   * OK pressure range
   * Replacement cost: $35
@@ -157,7 +157,7 @@ EXCELLENT. No pressure banding observed.
 
 ### Pressure range (IAF and MAX)
 
-See my notes on the Wacom One Standard Pen (CP-923) - [**my notes on this pen**](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
+See my notes on the Wacom One Standard Pen (CP-923) - [**notes on this pen**](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
 
 ### Pressure scan rate
 

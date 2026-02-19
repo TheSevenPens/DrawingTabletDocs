@@ -12,15 +12,15 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Large (PTK-870) \[[**my notes**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)]
-* Wacom Intuos Pro Large (PTH-860) \[[**my notes**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)]
+* Wacom Intuos Pro Large (PTK-870) \[[**notes**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)]
+* Wacom Intuos Pro Large (PTH-860) \[[**notes**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)]
 
 ## VERY GOOD
 
-* XP-Pen Deco Pro XLW GEN2 (MT1592B) \[[**my notes**](../../catalog/catalog-drawtabs/xppen/xppen-deco-pro-gen2/)]&#x20;
+* XP-Pen Deco Pro XLW GEN2 (MT1592B) \[[**notes**](../../catalog/catalog-drawtabs/xppen/xppen-deco-pro-gen2/)]&#x20;
 
 ## GOOD
 
-* Huion Inspiroy Giano (G930L) \[[**my notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)]
-* Huion Inspiroy 2 L \[[**my notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)]
+* Huion Inspiroy Giano (G930L) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)]
+* Huion Inspiroy 2 L \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)]
 

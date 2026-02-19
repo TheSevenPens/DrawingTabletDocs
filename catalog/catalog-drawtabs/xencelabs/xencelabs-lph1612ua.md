@@ -57,7 +57,7 @@ Overall good performance.&#x20;
   * Button Pen + Eraser v2
   * Thin Pen + Eraser v2
 
-For more information about these pens: [<mark style="background-color:green;">**my notes on the Xencelabs V2 pens**</mark>](../../catalog-pens/xencelabs-pens/xencelabs-v2-pens-notes.md)&#x20;
+For more information about these pens: [<mark style="background-color:green;">**notes on the Xencelabs V2 pens**</mark>](../../catalog-pens/xencelabs-pens/xencelabs-v2-pens-notes.md)&#x20;
 
 ## Anti-glare sparkle
 
@@ -83,7 +83,7 @@ The tablet exhibits moderate diagonal wobble at all speeds.
 
 ## Stand
 
-The tablet comes with the Xencelabs Mobile Easel. [**My notes on the Xencelabs Mobile Easel**](../../catalog-accessories/stands/xencelabs-mobile-easel.md).
+The tablet comes with the Xencelabs Mobile Easel. [**notes on the Xencelabs Mobile Easel**](../../catalog-accessories/stands/xencelabs-mobile-easel.md).
 
 
 

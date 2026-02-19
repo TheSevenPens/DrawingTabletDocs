@@ -13,20 +13,20 @@ There are **many** tablet brands and picking the brand of the tablet is one of t
 
 **Wacom** was founded in 1983 continues to make the highest quality and most reliable tablets. In general, Wacom has the best drawing experience. Their products are the most expensive. I consider Wacom to be the "safe choice".
 
-* More here:  [**my notes on Wacom**](wacom/)
+* More here:  [**notes on Wacom**](wacom/)
 * Wacom - [https://www.wacom.com](https://www.wacom.com/)
 
 ## Tier 2: Huion, XP-Pen, & Xencelabs
 
 **Huion and XP-pen** since about 2021 have been releasing decent devices and size 2023/2024 a couple very good ones that compete strongly with Wacom. In many ways they deliver 90% of what a typical person needs for about half the cost. They do trail Wacom in reliability and in customer support however. If you carefully research a tablet from these brands, you can find one that works for you.&#x20;
 
-* More here: [**My notes on Huion and XP-pen**](huion-and-xppen.md) &#x20;
+* More here: [**notes on Huion and XP-pen**](huion-and-xppen.md) &#x20;
 * Huion - [https://huion.com](https://huion.com/)&#x20;
 * XP-Pen - [https://xp-pen.com](https://xp-pen.com/)&#x20;
 
 **Xencelabs** (founded 2019) is a new brand focused only on professional tablets for professionally users. Xencelabs has a very strong focus on customer support.&#x20;
 
-* More here: [**my notes on Xencelabs**](xencelabs.md)&#x20;
+* More here: [**notes on Xencelabs**](xencelabs.md)&#x20;
 * Xencelabs - [https://xencelabs.com](https://xencelabs.com/)&#x20;
 
 ## Tier 3: Smaller brands

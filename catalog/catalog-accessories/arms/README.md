@@ -46,7 +46,7 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 ## Ergotron
 
-I use this brand a lot. [<mark style="background-color:green;">**My notes on Ergotron monitor arms**</mark>](ergotron-monitor-arms.md)
+I use this brand a lot. [<mark style="background-color:green;">**notes on Ergotron monitor arms**</mark>](ergotron-monitor-arms.md)
 
 * [Ergotron - Install Ergotron LX Monitor Arm](https://www.youtube.com/watch?v=8w_3pzQcjfg) 2021-10-01
 * [Ergotron - HX Monitor Arm Adjustments](https://www.youtube.com/watch?v=giOfhNkGGdY) 2020-03-04
@@ -54,7 +54,7 @@ I use this brand a lot. [<mark style="background-color:green;">**My notes on Erg
 
 ## VIVO VESA monitor and touch screen desk stand
 
-I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](../stands/vivo-v100r.md)
+I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**notes on this stand**</mark>](../stands/vivo-v100r.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000144.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 

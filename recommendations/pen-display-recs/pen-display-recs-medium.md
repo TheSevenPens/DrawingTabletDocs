@@ -14,16 +14,16 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 * Wacom Cintiq 16 2025 (DTK-168)&#x20;
 * Wacom Cintiq Pro 17 (DTH-172) \[[**links**](../../catalog/catalog-drawtabs/wacom/wacom-cintiq-pro/)]
-* Wacom Cintiq Pro 16 (DTH-167) \[[**my notes**](../../catalog/catalog-drawtabs/wacom/wacom-cintiq-pro/wacom-dth167-notes.md)]
-* Huion Kamvas Pro 19 (GT1902) \[[**my notes**](../../catalog/catalog-drawtabs/huion/huion-kamvas-pro/huion-gt1902-notes/)]
+* Wacom Cintiq Pro 16 (DTH-167) \[[**notes**](../../catalog/catalog-drawtabs/wacom/wacom-cintiq-pro/wacom-dth167-notes.md)]
+* Huion Kamvas Pro 19 (GT1902) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-kamvas-pro/huion-gt1902-notes/)]
 *
 
 ## VERY GOOD
 
-* Huion Kamvas 16 GEN3 (GS1563) \[[**my notes**](../../catalog/catalog-drawtabs/huion/huion-kamvas/huion-gs1563-notes.md)]
-* XP-Pen Artist Pro 19 GEN2 (MD180UH) \[[**my notes**](../../catalog/catalog-drawtabs/xppen/xppen-artist-pro-gen2/)]
+* Huion Kamvas 16 GEN3 (GS1563) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-kamvas/huion-gs1563-notes.md)]
+* XP-Pen Artist Pro 19 GEN2 (MD180UH) \[[**notes**](../../catalog/catalog-drawtabs/xppen/xppen-artist-pro-gen2/)]
 * XP-Pen Artist Ultra 16&#x20;
-* XP-Pen Artist Pro 16 GEN2 (MD160QH) \[[**my notes**](../../catalog/catalog-drawtabs/xppen/xppen-artist-pro-gen2/xppen-md160qh.md)]
+* XP-Pen Artist Pro 16 GEN2 (MD160QH) \[[**notes**](../../catalog/catalog-drawtabs/xppen/xppen-artist-pro-gen2/xppen-md160qh.md)]
 
 ## GOOD
 
@@ -37,9 +37,9 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## AVOID
 
-Huion Kamvas Pro 16 Plus 4K (GT1562) \[[**my notes**](../../catalog/catalog-drawtabs/huion/huion-kamvas-pro/huion-gt1562-notes.md)] <mark style="color:red;">**LOTS OF AG SPARKLE**</mark>&#x20;
+Huion Kamvas Pro 16 Plus 4K (GT1562) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-kamvas-pro/huion-gt1562-notes.md)] <mark style="color:red;">**LOTS OF AG SPARKLE**</mark>&#x20;
 
-XP-Pen Artist 16 GEN2 (CD160FH) \[[**my notes**](../../catalog/catalog-drawtabs/xppen/xppen-artist-gen2/xppen-cd160fh.md)] <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
+XP-Pen Artist 16 GEN2 (CD160FH) \[[**notes**](../../catalog/catalog-drawtabs/xppen/xppen-artist-gen2/xppen-cd160fh.md)] <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>&#x20;
 
 ## Videos
 

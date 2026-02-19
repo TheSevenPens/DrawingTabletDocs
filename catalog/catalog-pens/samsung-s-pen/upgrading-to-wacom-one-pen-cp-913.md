@@ -10,9 +10,9 @@ If you are currently using a S pen with your device, consider buying a Wacom CP-
 * Max pressure - The CP-913 pen has a higher maximum pressure compared to the S-Pen
 * IAF - the CP-913 has a similar IAF to the Samsung S pen - maybe slightly lower in the models I have tested. Keep in mind individual units vary in IAF.&#x20;
 
-[<mark style="background-color:green;">**My notes on the Wacom CP-913**</mark>](../wacom-pens/wacom-cp913-notes.md)
+[<mark style="background-color:green;">**notes on the Wacom CP-913**</mark>](../wacom-pens/wacom-cp913-notes.md)
 
-[<mark style="background-color:green;">**My notes on the Samsung S pen**</mark>](samsung-s-pen-notes.md)
+[<mark style="background-color:green;">**notes on the Samsung S pen**</mark>](samsung-s-pen-notes.md)
 
 ## Which devices benefit
 

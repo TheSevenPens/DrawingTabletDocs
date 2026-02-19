@@ -27,7 +27,7 @@ This is an OK pen display that provides a consumer level of drawing experience i
 
 ## Included pen
 
-Comes with the Wacom ne Standard Pen (CP-923). [<mark style="background-color:green;">**My notes on Wacom CP-923**</mark>](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
+Comes with the Wacom ne Standard Pen (CP-923). [<mark style="background-color:green;">**notes on Wacom CP-923**</mark>](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)
 
 ## Compatible pens
 

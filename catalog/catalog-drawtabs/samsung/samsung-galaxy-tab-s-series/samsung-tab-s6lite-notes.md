@@ -24,7 +24,7 @@ If you are a beginner budget is constrained you might find that this slightly ol
 **THESE NOTES ARE CURRENTLY IN PROGRESS**
 
 {% hint style="info" %}
-These are my notes for this specific tablet. You may also be interested in [my notes on the overall Samsung Galaxy Tab S series](samsung-tab-s-notes.md).
+These are my notes for this specific tablet. You may also be interested in [notes on the overall Samsung Galaxy Tab S series](samsung-tab-s-notes.md).
 {% endhint %}
 
 ## Compatible Pens
