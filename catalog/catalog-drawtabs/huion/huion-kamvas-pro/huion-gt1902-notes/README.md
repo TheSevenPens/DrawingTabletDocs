@@ -96,7 +96,7 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 * Both pens are PenTech 4.0 pens
 * Both pens have erasers
 
-See [**my notes on the PW600 pens**](../../../../catalog-pens/huion-pens/huion-pw600-notes.md)
+See [**notes on the PW600 pens**](../../../../catalog-pens/huion-pens/huion-pw600-notes.md)
 
 ### Pen compatibility
 

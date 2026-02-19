@@ -9,5 +9,5 @@
 | Artist Pro 24 GEN2 165Hz | MD240QH | 2024 |                                                         |
 | Artist Pro 14 GEN2       | MD140FH | 2023 |                                                         |
 | Artist Pro 16 GEN2       | MD160QH |      | [**notes on this tablet**](xppen-md160qh.md)    |
-| Artist Pro 19 GEN2       | MD180UH |      | [**my notes on this tablet**](xppen-md180uh.md)    |
+| Artist Pro 19 GEN2       | MD180UH |      | [**notes on this tablet**](xppen-md180uh.md)    |
 

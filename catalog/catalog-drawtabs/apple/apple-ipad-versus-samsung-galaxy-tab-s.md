@@ -6,8 +6,8 @@ Both of these kinds of devices can be successfully used for digital art, note ta
 
 ## Detailed notes&#x20;
 
-* [**My notes Samsung Galaxy Tab S**](../samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md) (includes links to notes for specific models)
-* [**My notes Apple iPad**](apple-ipad-notes.md) &#x20;
+* [**notes Samsung Galaxy Tab S**](../samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md) (includes links to notes for specific models)
+* [**notes Apple iPad**](apple-ipad-notes.md) &#x20;
 
 ## Comparison videos
 

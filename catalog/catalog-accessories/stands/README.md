@@ -64,7 +64,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 ## VIVO VESA monitor and touch screen desk stand
 
-I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**My notes on this stand**</mark>](vivo-v100r.md)
+I've used this for a while with a 22" pen display and I really like it. [<mark style="background-color:green;">**notes on this stand**</mark>](vivo-v100r.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000144.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -76,8 +76,8 @@ See this video
 
 ## Stands I use
 
-* I use the Huion ST100A stand with my Huion Kamvas Pro 19. [**My notes on Huion ST100 stand**](huion-st100-stand.md).
-* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**my notes on this stand**</mark>](vivo-v100r.md)
+* I use the Huion ST100A stand with my Huion Kamvas Pro 19. [**notes on Huion ST100 stand**](huion-st100-stand.md).
+* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [<mark style="background-color:green;">**notes on this stand**</mark>](vivo-v100r.md)
 
 ## Links
 

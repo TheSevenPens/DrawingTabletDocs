@@ -2,7 +2,7 @@
 
 ## Basics
 
-* [<mark style="background-color:green;">**My notes on this app**</mark>](adobe-photoshop-notes.md)&#x20;
+* [<mark style="background-color:green;">**notes on this app**</mark>](adobe-photoshop-notes.md)&#x20;
 * [https://www.adobe.com/creativecloud/business/teams/photoshop.html](https://www.adobe.com/creativecloud/business/teams/photoshop.html)
 
 ## Learning how to use Photoshop

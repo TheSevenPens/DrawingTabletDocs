@@ -50,7 +50,7 @@ Also I noticed that when I was not using the device it seemed to quickly run dow
 
 ## Pen
 
-The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**My notes on the Samsung S Pen**</mark>](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)
+The tablet comes with a Samsung S Pen. [<mark style="background-color:green;">**notes on the Samsung S Pen**</mark>](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Diagonal wobble
 

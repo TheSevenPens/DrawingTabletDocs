@@ -74,7 +74,7 @@ Aspect ratio:
 
 ### **Included pen**
 
-The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [<mark style="background-color:green;">**my notes on Wacom 2K Pen (LP-190K)**</mark>](../../../catalog-pens/wacom-pens/wacom-lp190k-notes.md)
+The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [<mark style="background-color:green;">**notes on Wacom 2K Pen (LP-190K)**</mark>](../../../catalog-pens/wacom-pens/wacom-lp190k-notes.md)
 
 ### Pen compatibility
 
