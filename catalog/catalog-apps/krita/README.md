@@ -9,7 +9,7 @@
 * Cost:&#x20;
   * Free if you download from [https://krita.org](https://krita.org/) &#x20;
   * $15 if you download from Microsoft Store
-* [<mark style="background-color:green;">**notes on Krita**</mark>](krita-notes.md) &#x20;
+* [**notes on Krita**](krita-notes.md) &#x20;
 
 ## Communities
 

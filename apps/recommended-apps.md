@@ -8,17 +8,17 @@ If you want to see a full list of applications go here: [**Applications**](./).&
 
 ## Recommendations
 
-* [**Clip Studio Paint**](../catalog/catalog-apps/clip-studio-paint/) - [<mark style="background-color:green;">**notes on this app**</mark>](../catalog/catalog-apps/clip-studio-paint/clip-studio-paint-notes.md)&#x20;
+* [**Clip Studio Paint**](../catalog/catalog-apps/clip-studio-paint/) - [**notes on this app**](../catalog/catalog-apps/clip-studio-paint/clip-studio-paint-notes.md)&#x20;
   * (Windows, MacOS, Android, iOS)
-* [**Krita**](../catalog/catalog-apps/krita/) - [<mark style="background-color:green;">**notes on this app**</mark>](../catalog/catalog-apps/krita/krita-notes.md)   &#x20;
+* [**Krita**](../catalog/catalog-apps/krita/) - [**notes on this app**](../catalog/catalog-apps/krita/krita-notes.md)   &#x20;
   * (Windows, Linux, MacOS)
-* [**Affinity Photo**](../catalog/catalog-apps/affinity/) -  [<mark style="background-color:green;">**notes on this app**</mark>](../catalog/catalog-apps/affinity/affinity-notes.md)  &#x20;
+* [**Affinity Photo**](../catalog/catalog-apps/affinity/) -  [**notes on this app**](../catalog/catalog-apps/affinity/affinity-notes.md)  &#x20;
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)
-* [**Adobe Photoshop**](../catalog/catalog-apps/adobe-photoshop/) - [<mark style="background-color:green;">**notes on this app**</mark>](../catalog/catalog-apps/adobe-photoshop/adobe-photoshop-notes.md)&#x20;
+* [**Adobe Photoshop**](../catalog/catalog-apps/adobe-photoshop/) - [**notes on this app**](../catalog/catalog-apps/adobe-photoshop/adobe-photoshop-notes.md)&#x20;
   * (Windows, MacOS)
-* [**Procreate**](../catalog/catalog-apps/procreate/) - [<mark style="background-color:green;">**notes on this app**</mark>](../catalog/catalog-apps/procreate/procreate-notes.md) &#x20;
+* [**Procreate**](../catalog/catalog-apps/procreate/) - [**notes on this app**](../catalog/catalog-apps/procreate/procreate-notes.md) &#x20;
   * (iOS)
 * **Rebelle** - no notes
   * (Windows, MacOS)

@@ -24,7 +24,7 @@ Huion lists these as compatible tablets
 
 ## Use the PW550 pen instead
 
-If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [<mark style="background-color:green;">**notes on the PW550 pen**</mark>](huion-pw550-notes.md).
+If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [**notes on the PW550 pen**](huion-pw550-notes.md).
 
 ## Pressure range&#x20;
 

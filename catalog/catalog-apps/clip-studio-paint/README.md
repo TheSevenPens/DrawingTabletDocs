@@ -6,7 +6,7 @@
 * Good for: lots of art styles, especially good for illustration
 * Wikipedia: [https://en.wikipedia.org/wiki/Clip\_Studio\_Paint](https://en.wikipedia.org/wiki/Clip_Studio_Paint)&#x20;
 * Available for: Windows, macOS, iPadOS, iOS, Android, Chrome OS
-* [<mark style="background-color:green;">**notes on this app**</mark>](clip-studio-paint-notes.md) &#x20;
+* [**notes on this app**](clip-studio-paint-notes.md) &#x20;
 
 ## Version updates
 

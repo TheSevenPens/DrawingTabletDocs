@@ -12,14 +12,14 @@ There are many models available over the years, so it is likely you can find som
 
 * **Samsung Galaxy Tab S11 Ultra**&#x20;
   * HIGHLY RECOMMENDED
-  * [<mark style="background-color:green;">**notes on Tab S11 Ultra**</mark>](samsung-tab-s11ultra-notes.md)
+  * [**notes on Tab S11 Ultra**](samsung-tab-s11ultra-notes.md)
 * **Samsung Galaxy Tab S8 Ultra**&#x20;
   * RECOMMENDED. High performance. Great display.
-  * [<mark style="background-color:green;">**notes on Tab S8 Ultra**</mark>](samsung-tab-s8ultra-notes.md)&#x20;
+  * [**notes on Tab S8 Ultra**](samsung-tab-s8ultra-notes.md)&#x20;
 * **Samsung Galaxy Tab S9 FE**&#x20;
   * ($350 to $520) excellent mid-budget option
   * HIGHLY RECOMMENDED. Great value at reasonable cost.
-  * &#x20;[<mark style="background-color:green;">**notes on Tab S9 FE**</mark>](samsung-tab-s9fe-notes.md)
+  * &#x20;[**notes on Tab S9 FE**](samsung-tab-s9fe-notes.md)
   * There are two versions:&#x20;
     * 6GB RAM + 126GB storage ($450)
     * 8GB RAM with 256GB of storage ($520)
@@ -29,7 +29,7 @@ There are many models available over the years, so it is likely you can find som
   * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
   * There are different editions based on year
     * 2024 edition
-    * 2022 edition - [<mark style="background-color:green;">**notes on Tab S6 lite 2022 edition**</mark>](samsung-tab-s6lite-notes.md)
+    * 2022 edition - [**notes on Tab S6 lite 2022 edition**](samsung-tab-s6lite-notes.md)
     * 2020 edition - avoid it.&#x20;
     * Get the most recent edition
 
@@ -44,7 +44,7 @@ Size has a huge impact on how the tablet feels to use especially with the 16X9 a
 
 ## Included pen
 
-Samsung Galaxy Tab S devices come with the Samsung S Pen: [<mark style="background-color:green;">**notes on the Samsung S Pen**</mark>](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)
+Samsung Galaxy Tab S devices come with the Samsung S Pen: [**notes on the Samsung S Pen**](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Compatible pens
 
@@ -56,8 +56,8 @@ In particular you should think about using the Wacom CP-913 instead of the Samsu
 
 Specific examples of compatible pens are:
 
-* Wacom One pen (CP-913) - Some people prefer to use the CP-913 with Samsung Tablets instead of the S pen. [<mark style="background-color:green;">**notes on the CP-913**</mark>](../../../catalog-pens/wacom-pens/wacom-cp913-notes.md)
-* Wacom One Pen (CP-923) - This pen is trash. Avoid it. [<mark style="background-color:green;">**notes on CP-923**</mark>](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)&#x20;
+* Wacom One pen (CP-913) - Some people prefer to use the CP-913 with Samsung Tablets instead of the S pen. [**notes on the CP-913**](../../../catalog-pens/wacom-pens/wacom-cp913-notes.md)
+* Wacom One Pen (CP-923) - This pen is trash. Avoid it. [**notes on CP-923**](../../../catalog-pens/wacom-pens/wacom-cp923-notes.md)&#x20;
 
 ## Pointer lag
 

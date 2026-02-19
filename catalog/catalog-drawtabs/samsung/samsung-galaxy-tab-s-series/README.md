@@ -21,7 +21,7 @@ The TabS series spans a number of different devices that vary in size and power.
 * S11
   * [Teoh on Tech - Samsung Tab S11: Note Taking & Handwriting Review](https://www.youtube.com/watch?v=aR83Zgla3wc) 2026-01-12        &#x20;
 * S11 Ultra
-  * [**notes on Tab S11 Ul**<mark style="background-color:green;">**tra**</mark>](samsung-tab-s11ultra-notes.md)
+  * [**notes on Tab S11 Ul****tra**](samsung-tab-s11ultra-notes.md)
 
 ## S10 series
 

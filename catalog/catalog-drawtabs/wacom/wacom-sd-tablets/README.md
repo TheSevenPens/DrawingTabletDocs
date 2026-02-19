@@ -14,7 +14,7 @@ In many ways these tablets works exactly like you would expect a modern drawing 
 
 ## Models
 
-<table><thead><tr><th width="174.50006103515625">Model</th><th>Notes</th></tr></thead><tbody><tr><td>SD-510C</td><td><a href="wacom-sd510c-notes.md"><mark style="background-color:green;"><strong>notes on SD-510C</strong></mark></a></td></tr><tr><td>SD-420E</td><td></td></tr><tr><td>SD-421E</td><td></td></tr><tr><td>SD-422E</td><td></td></tr><tr><td>SD-320L</td><td></td></tr><tr><td>SD-320E</td><td></td></tr><tr><td>SD-321E</td><td></td></tr><tr><td>SD-322E</td><td></td></tr><tr><td>SD-310E</td><td></td></tr><tr><td>SD-311E</td><td></td></tr><tr><td>SD-312E</td><td></td></tr><tr><td>SD-210L</td><td></td></tr><tr><td>SD-013A</td><td></td></tr><tr><td>SD-013L</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="174.50006103515625">Model</th><th>Notes</th></tr></thead><tbody><tr><td>SD-510C</td><td><a href="wacom-sd510c-notes.md"><strong>notes on SD-510C</strong></a></td></tr><tr><td>SD-420E</td><td></td></tr><tr><td>SD-421E</td><td></td></tr><tr><td>SD-422E</td><td></td></tr><tr><td>SD-320L</td><td></td></tr><tr><td>SD-320E</td><td></td></tr><tr><td>SD-321E</td><td></td></tr><tr><td>SD-322E</td><td></td></tr><tr><td>SD-310E</td><td></td></tr><tr><td>SD-311E</td><td></td></tr><tr><td>SD-312E</td><td></td></tr><tr><td>SD-210L</td><td></td></tr><tr><td>SD-013A</td><td></td></tr><tr><td>SD-013L</td><td></td></tr></tbody></table>
 
 ## Cordless
 

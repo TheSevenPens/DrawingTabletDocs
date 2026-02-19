@@ -2,8 +2,8 @@
 
 ## Basics
 
-* [<mark style="background-color:green;">**notes on Apple iPad**</mark>](apple-ipad-notes.md)&#x20;
-* [<mark style="background-color:green;">**notes on Apple Pencil**</mark>](../../catalog-pens/apple-pencil/)
+* [**notes on Apple iPad**](apple-ipad-notes.md)&#x20;
+* [**notes on Apple Pencil**](../../catalog-pens/apple-pencil/)
 
 ## Comparisons
 

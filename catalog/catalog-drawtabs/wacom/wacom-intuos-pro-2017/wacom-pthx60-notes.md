@@ -14,7 +14,7 @@ The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It
 
 ## Included Pen
 
-These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good. [<mark style="background-color:green;">**notes on this pen**</mark>](../../../catalog-pens/wacom-pens/wacom-kp504e-notes.md).
+These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good. [**notes on this pen**](../../../catalog-pens/wacom-pens/wacom-kp504e-notes.md).
 
 ## **Drawing experience**
 
@@ -22,7 +22,7 @@ In summary, the drawing experience is EXCELLENT. Only the Intuos Pro 2025 series
 
 ## **Pressure handling**
 
-Quality of pressure handling due to the pen. And the KP-504E pen is EXCELLENT at pressure. See [<mark style="background-color:green;">**notes on the Wacom Prop Pen 2 (KP-504E) pen**</mark>](../../../catalog-pens/wacom-pens/wacom-kp504e-notes.md).
+Quality of pressure handling due to the pen. And the KP-504E pen is EXCELLENT at pressure. See [**notes on the Wacom Prop Pen 2 (KP-504E) pen**](../../../catalog-pens/wacom-pens/wacom-kp504e-notes.md).
 
 ## **Pointer lag**
 
@@ -92,7 +92,7 @@ Using a large tablet feels quite a bit different from using a medium tablet. It'
 
 ### Intuos Pro Large (PTH-860)
 
-* [<mark style="background-color:green;">**notes on the PTH-x60 series of tablets**</mark>](https://docs.thesevenpens.com/drawtab/product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60)
+* [**notes on the PTH-x60 series of tablets**](https://docs.thesevenpens.com/drawtab/product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60)
 * Model Year: 2017
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)
 
