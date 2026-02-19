@@ -12,7 +12,7 @@ If you are going to get this tablet consider: [Upgrading from Huion PW517 to Hui
 
 In all other ways besides the AG sparkle, I was satisfied with this tablet.
 
-I think a much better choice would be the Huion Kamvas 16 GEN3. [My notes on the Huion Kamvas 16 GEN3](../huion-kamvas/huion-gs1563-notes.md).
+I think a much better choice would be the Huion Kamvas 16 GEN3. [notes on the Huion Kamvas 16 GEN3](../huion-kamvas/huion-gs1563-notes.md).
 
 ## Links
 

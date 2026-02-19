@@ -7,7 +7,7 @@ This document is for CREATIVES interested in using OpenTabletDriver on Windows a
 {% hint style="info" %}
 If you don't know about OpenTabletDriver or why you might want or need to use it, read: [**OpenTabletDriver**](./).
 
-Familiarize yourself with the [**My notes on OpenTabletDriver**](otd-notes.md).
+Familiarize yourself with the [**notes on OpenTabletDriver**](otd-notes.md).
 
 How to uninstall on Windows: [Uninstalling OpenTabletDriver on Windows](otd-windows-uninstall.md)
 {% endhint %}

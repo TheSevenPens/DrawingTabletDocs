@@ -46,7 +46,7 @@ The TabS series spans a number of different devices that vary in size and power.
   * [Teoh on Tech review of Samsung Tab S9 Ultra](https://www.youtube.com/watch?v=pM-skwRH3GE) 2023-08-07
   * [Teoh on Tech: Pros and cons of note taking on Tab S9 Ultra](https://youtu.be/Rmtk4-ItSC0) 2023-08-05
 * S9 FE
-  * [My notes on Tab S9 FE](samsung-tab-s9fe-notes.md)
+  * [notes on Tab S9 FE](samsung-tab-s9fe-notes.md)
   * [MobileTechReview review of Samsung Galaxy Tab S9 FE+](https://www.youtube.com/watch?v=q1KW_TV0fRY) 2023-12-05
 * Accessories
   * [Teoh on Tech review of Samsung NotePaper Screen for Tab S9 tablets](https://youtu.be/i6A-61GllGY) 2023-09-09
@@ -54,7 +54,7 @@ The TabS series spans a number of different devices that vary in size and power.
 ## S8 series
 
 * S8 Ultra
-  * [My notes on the S8 Ultra ](samsung-tab-s8ultra-notes.md)
+  * [notes on the S8 Ultra ](samsung-tab-s8ultra-notes.md)
 
 ## S7 series
 

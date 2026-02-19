@@ -348,7 +348,7 @@ There are four rubber feet on the back. This keeps the tablet slightly elevated 
 
 ### MovinkPad Pro 14 cover
 
-See [my notes on the movinkpad cover](wacom-ack45633z-notes.md)
+See [notes on the movinkpad cover](wacom-ack45633z-notes.md)
 
 ## Choosing between tablets
 

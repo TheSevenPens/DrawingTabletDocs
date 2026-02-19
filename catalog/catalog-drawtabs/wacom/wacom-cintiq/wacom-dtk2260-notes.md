@@ -27,7 +27,7 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 ## General
 
-**Pen** - comes with the Wacom Pro Pen 2. Which is an excellent pen and responsible for much of the great drawing experience. See [my notes on the pro pen 2](../../../catalog-pens/wacom-pens/wacom-kp504e-notes.md).
+**Pen** - comes with the Wacom Pro Pen 2. Which is an excellent pen and responsible for much of the great drawing experience. See [notes on the pro pen 2](../../../catalog-pens/wacom-pens/wacom-kp504e-notes.md).
 
 **Pressure handling** - EXCELLENT. See my notes on the Pro Pen 2.
 

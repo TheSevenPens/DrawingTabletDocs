@@ -4,10 +4,10 @@
 
 Summary: All of these are good pens. I have used each extensively and am happy with them. If I had to choose: the Wacom Pro Pen 2 is the still the best professional drawing tablet pen on the market.&#x20;
 
-* WINNER Wacom Pro Pen 2 (KP-504E) - [my notes on KP-504E](../../catalog/catalog-pens/wacom-pens/wacom-kp504e-notes.md)
-* RUNNER-UP: Wacom Pro Pen 3 (ACP-500) - [my notes on ACP-500](../../catalog/catalog-pens/wacom-pens/wacom-acp500-notes.md)
-* SECOND PLACE: Huion PW600 series - [my notes on Huion PW600](../../catalog/catalog-pens/huion-pens/huion-pw600-notes.md)&#x20;
-* THIRD place: XP-Pen X3 Pro series pens - [my notes on XP-Pen X3](../../catalog/catalog-pens/xppen-pens/xppen-x3pro-pen.md)&#x20;
+* WINNER Wacom Pro Pen 2 (KP-504E) - [notes on KP-504E](../../catalog/catalog-pens/wacom-pens/wacom-kp504e-notes.md)
+* RUNNER-UP: Wacom Pro Pen 3 (ACP-500) - [notes on ACP-500](../../catalog/catalog-pens/wacom-pens/wacom-acp500-notes.md)
+* SECOND PLACE: Huion PW600 series - [notes on Huion PW600](../../catalog/catalog-pens/huion-pens/huion-pw600-notes.md)&#x20;
+* THIRD place: XP-Pen X3 Pro series pens - [notes on XP-Pen X3](../../catalog/catalog-pens/xppen-pens/xppen-x3pro-pen.md)&#x20;
 
 ## Wacom Pro Pen 2 (KP-504E)
 

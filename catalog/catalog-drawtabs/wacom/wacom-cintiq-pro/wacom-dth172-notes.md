@@ -8,7 +8,7 @@ This was part of Wacom's refresh of the Cintiq Pro series in 2022 thorugh 2023. 
 
 As is typical for a Wacom Cintiq Pro it will have an excellent drawing experience.
 
-However, for many of you - especially if you don't need 4K or advanced color support, the Wacom Cintiq 16 2025 (DTK-168) is a much better overall choice since it has the same great drawing experience but costs much less. See my notes on the [Wacom Cintiq 16 2025 (DTK-168)](../wacom-cintiq/wacom-dtk168-notes.md)
+However, for many of you - especially if you don't need 4K or advanced color support, the Wacom Cintiq 16 2025 (DTK-168) is a much better overall choice since it has the same great drawing experience but costs much less. See notes on the [Wacom Cintiq 16 2025 (DTK-168)](../wacom-cintiq/wacom-dtk168-notes.md)
 
 ## Basics
 

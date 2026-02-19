@@ -4,7 +4,7 @@
 
 ## Included pen
 
-* Samsung S Pen (2025): [My notes on the S pen](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)
+* Samsung S Pen (2025): [notes on the S pen](../../../catalog-pens/samsung-s-pen/samsung-s-pen-notes.md)
 
 ## Compatible pens
 
