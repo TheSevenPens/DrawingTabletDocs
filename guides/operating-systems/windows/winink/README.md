@@ -10,7 +10,13 @@ More here: [The history of Windows Ink](winink-history.md). Windows Ink is one o
 
 ## Configuring Windows Ink
 
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>App configuration<br><br><a href="winink-config-apps.md"><strong>configure Windows Ink in an application</strong></a> </td></tr><tr><td>Driver configurationd<br><br><a href="winink-config-driver.md"><strong>configure Windows Ink in the tablet driver</strong></a></td></tr></tbody></table>
+
+## Configuring Windows Ink
+
 There are two places to configure Windows Ink:
+
+
 
 * In your pen-aware application: [**configure Windows Ink in an application**](winink-config-apps.md)&#x20;
 * In your tablet driver: See [**configure Windows Ink in the tablet driver**](winink-config-driver.md) &#x20;
