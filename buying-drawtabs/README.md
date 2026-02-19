@@ -157,10 +157,10 @@ More here: [**Operating systems**](../guides/operating-systems/)
 ## Use Cases
 
 * **Drawing** - Drawing with a drawing tablet is similar to drawing on paper but also quite different. There is a noticeable difference between drawing with a pen display versus a pen tablet, and understanding this will help you choose between them. More here: [**The drawing experience**](../basics/drawing-experience.md) and [**Learning digital art**](../basics/learning-digital-art.md)
-* **3D workflows** - I'm not personally involved with 3D work, but I have collected guidance from others here: [**Drawing tablets for 3D workflows**](../basics/scenarios/using-drawtabs-in-3d-workflows.md)
-* **Taking notes** - I don't typically recommend pen tablets or pen displays for note-taking. Some people do enjoy it, but I think standalone devices like an iPad work much better for this purpose. More here: [**Taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawtabs.md)
-* **Educational videos** - You've probably seen Khan Academy-style videos — those are made with a drawing tablet. More here: [**Making educational videos with a drawing tablet**](../basics/scenarios/edu-vids-with-drawtabs.md)
-* **Gaming** - Some people play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/scenarios/gaming-with-drawtabs.md)
+* **3D workflows** - I'm not personally involved with 3D work, but I have collected guidance from others here: [**Drawing tablets for 3D workflows**](../basics/scenarios/3d-workflows.md)
+* **Taking notes** - I don't typically recommend pen tablets or pen displays for note-taking. Some people do enjoy it, but I think standalone devices like an iPad work much better for this purpose. More here: [**Taking notes with drawing tablets**](../basics/scenarios/taking-notes.md)
+* **Educational videos** - You've probably seen Khan Academy-style videos — those are made with a drawing tablet. More here: [**Making educational videos with a drawing tablet**](../basics/scenarios/edu-vids.md)
+* **Gaming** - Some people play games with drawing tablets. More here: [**Gaming with a drawing tablet**](../basics/scenarios/gaming.md)
 * **Playing osu!** - If you want to play osu!, there are specific drawing tablets you should consider. More here: [**Buying a drawing tablet for osu!**](drawtabs-for-osu.md)
 
 ## Look at model numbers, not just names

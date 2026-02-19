@@ -25,7 +25,7 @@ Here are some good examples of why:
 * The XP-Pen Deco L is much closer in size to a Wacom Intuos Pro Medium than to the Intuos Pro Large.
 * The Inspiroy 2L falls somewhere between medium and large.
 
-<table><thead><tr><th>Tablet and manufacturer</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong>  <br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td> 11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong> </p><p>(PTH-860)</p></td><td>LARGE</td><td> 12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
+<table><thead><tr><th>Tablet and manufacturer</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong><br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td>11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong></p><p>(PTH-860)</p></td><td>LARGE</td><td>12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
 
 ## Considerations
 
@@ -37,15 +37,15 @@ Here's what you should consider when choosing a size:
 
 ## Size recommendations
 
-|                                                                                                                                                                       | Pen tablet                                                                                       | Pen display                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| **Starter tablet**                                                                                                                                                    | <p><strong>MEDIUM (11")</strong></p><p><strong>SMALL (7")</strong> if budget is a constraint</p> | <p><strong>MEDIUM (16")</strong></p><p><strong>SMALL (13")</strong> if budget is a constraint</p> |
-| **Drawing, Sketching, Painting**                                                                                                                                      | <p><strong>MEDIUM (11")</strong></p><p><strong>LARGE (15")</strong> if you know you need it</p>  | <p><strong>MEDIUM (16")</strong></p><p><strong>LARGE (24")</strong> if you know you need it</p>   |
-| **Photo Editing**                                                                                                                                                     | **SMALL (7")** is enough                                                                         | **SMALL** **(13")** or **MEDIUM**                                                                 |
-| <p><strong>Note taking</strong><br>(more here:<a href="../basics/scenarios/taking-notes-with-drawtabs.md"> Taking notes with drawing tablets</a>)</p>                 | <p><strong>MEDIUM (11")</strong><br>(I don't recommend pen tablets for note taking)</p>          | **SMALL  (13")** (I don't recommend pen displays for note taking)                                 |
-| <p><strong>Mouse replacement</strong><br>(More here: <a href="../basics/scenarios/replacing-mouse-with-drawtab.md">Using a drawing tablet instead of a mouse</a>)</p> | **SMALL (7")**                                                                                   | N/A                                                                                               |
-| **For children**                                                                                                                                                      | **SMALL (7")**                                                                                   | **SMALL  (13")**                                                                                  |
-| **What I prefer and use**                                                                                                                                             | **LARGE (15")**                                                                                  | 22" - on the low end of LARGE                                                                     |
+|                                                                                                                                                          | Pen tablet                                                                                       | Pen display                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| **Starter tablet**                                                                                                                                       | <p><strong>MEDIUM (11")</strong></p><p><strong>SMALL (7")</strong> if budget is a constraint</p> | <p><strong>MEDIUM (16")</strong></p><p><strong>SMALL (13")</strong> if budget is a constraint</p> |
+| **Drawing, Sketching, Painting**                                                                                                                         | <p><strong>MEDIUM (11")</strong></p><p><strong>LARGE (15")</strong> if you know you need it</p>  | <p><strong>MEDIUM (16")</strong></p><p><strong>LARGE (24")</strong> if you know you need it</p>   |
+| **Photo Editing**                                                                                                                                        | **SMALL (7")** is enough                                                                         | **SMALL** **(13")** or **MEDIUM**                                                                 |
+| <p><strong>Note taking</strong><br>(more here:<a href="../basics/scenarios/taking-notes.md"> Taking notes with drawing tablets</a>)</p>                  | <p><strong>MEDIUM (11")</strong><br>(I don't recommend pen tablets for note taking)</p>          | **SMALL (13")** (I don't recommend pen displays for note taking)                                  |
+| <p><strong>Mouse replacement</strong><br>(More here: <a href="../basics/scenarios/replacing-mouse.md">Using a drawing tablet instead of a mouse</a>)</p> | **SMALL (7")**                                                                                   | N/A                                                                                               |
+| **For children**                                                                                                                                         | **SMALL (7")**                                                                                   | **SMALL (13")**                                                                                   |
+| **What I prefer and use**                                                                                                                                | **LARGE (15")**                                                                                  | 22" - on the low end of LARGE                                                                     |
 
 ## **Pen tablet sizes**
 
@@ -61,13 +61,13 @@ If you use a pen tablet (which has no screen), you use it alongside a monitor. T
 ## Pen display sizes
 
 * **SMALL (13")** pen displays may be good choices for children.
-* For drawing, the minimum size I'd recommend is **MEDIUM (16")**, though many people work very effectively with SMALL pen displays.&#x20;
+* For drawing, the minimum size I'd recommend is **MEDIUM (16")**, though many people work very effectively with SMALL pen displays.
 * **LARGE (24")** are great but take up a lot of desk space — make sure you have enough room.
 * I think the best balance is around 20" to 22". These offer enough drawing space without being too cumbersome, taking up too much desk space, or being difficult to move.
 
 ## Impact of pen display size
 
-* **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch, the more anti-glare sparkle you'll notice. For example, with the same anti-glare treatment, a 4K 24" display will show less sparkle than a 4K 16" display.&#x20;
+* **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch, the more anti-glare sparkle you'll notice. For example, with the same anti-glare treatment, a 4K 24" display will show less sparkle than a 4K 16" display.
 
 ## Test the tablet before you buy
 
@@ -78,7 +78,7 @@ Check if there is a way to try a tablet before buying. For example:
 
 ## Simulate the tablet before you buy
 
-If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](simulating-tablet-size.md).&#x20;
+If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size with cardboard](simulating-tablet-size.md).
 
 ## **In relation to paper size**
 
@@ -86,17 +86,17 @@ Some people find it helpful to think of a tablet's size relative to standard pap
 
 | Standard tablet size     | Nearest ISO paper | Nearest US paper  |
 | ------------------------ | ----------------- | ----------------- |
-| Pen Tablet Small (7")    |  ISO A6 (7.1")    | n/a               |
+| Pen Tablet Small (7")    | ISO A6 (7.1")     | n/a               |
 | Pen Tablet Medium (11")  | ISO A5 (10.1")    | US Letter (13.9") |
 | Pen Tablet Large (16")   | ISO A4 (14.3")    | US Legal (16.4")  |
 | Pen Display Small (13")  | ISO A4 (14.3")    | US Letter (13.9") |
 | Pen Display Medium (16") | ISO A4 (14.3")    | US Legal (16.4")  |
-| Pen Display Large (24")  |  ISO A3 (20.2")   | n/a               |
+| Pen Display Large (24")  | ISO A3 (20.2")    | n/a               |
 
 ## **Videos**
 
 * [Tim McBurnie - Which Size Wacom Is Right For You?](https://youtu.be/hyfj_Ek77qM) Nov 28, 2022
 * [Aaron Rutten - What Size Drawing Tablet Should I Get?](https://youtu.be/qd4OEaqV-rI) Mar 18, 2022
-* [The Seven Pens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s)  Mar 8, 2022
+* [The Seven Pens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s) Mar 8, 2022
 * [The SevenPens - Is a LARGE pen tablet right for you?](https://youtu.be/YCmVugc3w_g) Jun 27, 2022
 * [The Seven Pens - Is an EXTRA LARGE Pen tablet right for you?](https://youtu.be/Tv_qX1Z9-wI) Jul 25, 2022

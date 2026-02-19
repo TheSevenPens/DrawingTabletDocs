@@ -112,7 +112,7 @@ No pen displays support wireless connectivity. You will always have at least one
 
 <mark style="background-color:purple;">WINNER: Pen displays</mark>
 
-In general, I do not recommend taking notes with either type. I think standalone tablets are much better for note-taking. But compared to a pen tablet, a pen display is certainly better for notes — because you can see what you're writing, which feels more natural and intuitive, like writing on paper. More here: [**taking notes with drawing tablets**](../basics/scenarios/taking-notes-with-drawtabs.md).
+In general, I do not recommend taking notes with either type. I think standalone tablets are much better for note-taking. But compared to a pen tablet, a pen display is certainly better for notes — because you can see what you're writing, which feels more natural and intuitive, like writing on paper. More here: [**taking notes with drawing tablets**](../basics/scenarios/taking-notes.md).
 
 ## Surviving a fall
 

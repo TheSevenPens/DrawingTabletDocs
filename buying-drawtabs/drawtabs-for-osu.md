@@ -1,10 +1,10 @@
 # Buying a drawing tablet for osu!
 
-Many people use drawing tablets to play osu!. More here: [Gaming with a drawing tablet](../basics/scenarios/gaming-with-drawtabs.md)&#x20;
+Many people use drawing tablets to play osu!. More here: [Gaming with a drawing tablet](../basics/scenarios/gaming.md)
 
-If you are interested in playing osu! with a drawing tablet, do not rely on recommendations from drawing tablet reviewers — they focus on the needs of creative users. Don't rely on my recommendations for the same reason.&#x20;
+If you are interested in playing osu! with a drawing tablet, do not rely on recommendations from drawing tablet reviewers — they focus on the needs of creative users. Don't rely on my recommendations for the same reason.
 
-Instead, the definitive resource to consult is [**Kuuube's tablet buying guide**](../resources/community/kuuube/kuuubes-tablet-buying-guide.md).&#x20;
+Instead, the definitive resource to consult is [**Kuuube's tablet buying guide**](../resources/community/kuuube/kuuubes-tablet-buying-guide.md).
 
 If you want a quick answer now, the One by Wacom (CTL-x72) series of tablets are excellent for osu!. More here: [notes on CTL-x72 tablets](../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md).
 

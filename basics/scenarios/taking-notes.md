@@ -55,7 +55,7 @@ Pen displays, because they do have a screen, generally feel more natural for not
 
 ## Applications for taking notes
 
-See the note taking section here: [**Applications**](taking-notes-with-drawtabs.md#applications)
+See the note taking section here: [**Applications**](taking-notes.md#applications)
 
 ## Resources
 

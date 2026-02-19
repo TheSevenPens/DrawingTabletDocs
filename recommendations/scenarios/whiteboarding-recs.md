@@ -13,7 +13,7 @@ Example:
 {% hint style="info" %}
 If you are new to drawing tablets, read this first: [**Beginner's guide to drawing tablets**](../../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you also just want to quickly get to some beginner recommendations then go here: [**Recommended drawing tablets for beginners**](beginner-recs/).
 
-Also: [Whiteboarding with drawing tablets](../../basics/scenarios/whiteboarding-with-drawing-tablets.md)
+Also: [Whiteboarding with drawing tablets](../../basics/scenarios/whiteboarding.md)
 
 [Pen tablets vs Pen displays](../../buying-drawtabs/pen-tablets-vs-pen-displays.md)
 
