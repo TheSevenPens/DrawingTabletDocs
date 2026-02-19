@@ -10,6 +10,8 @@ Read this first: [Connecting a pen display](./)
 
 ## Video
 
+[https://youtu.be/iKl\_3NYjlsY](https://youtu.be/iKl_3NYjlsY)
+
 {% embed url="https://youtu.be/iKl_3NYjlsY" %}
 
 ## 3-in-1 cables

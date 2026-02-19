@@ -8,6 +8,8 @@ Read this first: [Connecting a pen display](./)
 
 ## Video
 
+[https://youtu.be/eyHkd3kcOZk](https://youtu.be/eyHkd3kcOZk)
+
 {% embed url="https://youtu.be/eyHkd3kcOZk" %}
 
 ## Considerations
