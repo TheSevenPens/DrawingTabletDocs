@@ -10,20 +10,16 @@ More here: [The history of Windows Ink](winink-history.md). Windows Ink is one o
 
 ## Configuring Windows Ink
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>App configuration<br><br><a href="winink-config-apps.md"><strong>configure Windows Ink in an application</strong></a> </td></tr><tr><td>Driver configurationd<br><br><a href="winink-config-driver.md"><strong>configure Windows Ink in the tablet driver</strong></a></td></tr></tbody></table>
+You can configure Windows Ink in two places.
 
-## Configuring Windows Ink
+My recommendation is to configure it in the application. And only change it in the driver if absolutely necessary.
 
-There are two places to configure Windows Ink:
+* [**App configuration**](winink-config-apps.md)&#x20;
+* [**Driver configuration**](winink-config-driver.md)
 
+## My recommendation
 
-
-* In your pen-aware application: [**configure Windows Ink in an application**](winink-config-apps.md)&#x20;
-* In your tablet driver: See [**configure Windows Ink in the tablet driver**](winink-config-driver.md) &#x20;
-
-## Recommended configuration
-
-### Baseline configuration: Use Windows Ink
+### Base configuration: Use Windows Ink
 
 * In Tablet Driver - Enable Windows Ink - this means Windows Ink will be available for all apps
 * In Each App - Configure the app to use Windows Ink. If you change the setting, restart the app.
