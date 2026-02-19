@@ -1,8 +1,8 @@
-# Using a drawing tablet as a mouse replacement
+# Replacing mouse with a drawing tablet
 
 If your are a creative, then it's pretty obvious why there's a benefit to using a drawing tablet instead of a mouse when you are drawing.
 
-Some people simply want to use the drawing tablet as a mouse replacement. They can definitely serve this purpose. &#x20;
+Some people simply want to use the drawing tablet as a mouse replacement. They can definitely serve this purpose.
 
 ## **My personal experience**
 
@@ -10,7 +10,7 @@ I did this for about 10 years. Although I always had a mouse connected, 99.9% of
 
 ## **Size**
 
-I used a MEDIUM sized tablet - something the size of a Wacom Intuos Pro Medium. &#x20;
+I used a MEDIUM sized tablet - something the size of a Wacom Intuos Pro Medium.
 
 For a few years I a SMALL sized tablet - something the size of a Wacom Intuos Pro small. When I was using the small tablet, I was in a non-artistic phase so I was not drawing with it much.
 
@@ -24,7 +24,7 @@ One of the reasons I avoided using the mouse was that it was causing wrist pain.
 
 To make it easier to switch between typing and using the pen I ALWAYS held the pen in my hand even when typing.
 
-When drawing I held it like you would normally hold a pen, but when I switched to typing, as I extended out my fingers the pen I would rotate the pen so the tip is pointing up and to the side.&#x20;
+When drawing I held it like you would normally hold a pen, but when I switched to typing, as I extended out my fingers the pen I would rotate the pen so the tip is pointing up and to the side.
 
 ## Pen pressure
 
@@ -38,17 +38,17 @@ The vast majority of drawing tablets support tilt. This is useful for art. Even 
 
 Modern mice are incredibly sturdy devices. They don't even have moving parts except for the buttons. You could drop them from your desk and they will still work.
 
-Drawing tablet pens are much more sensitive. They have more delicate and sensitive parts. I HIGHLY RECOMMEND that you DO NOT DROP THEM. Sometimes they work perfectly after that. But they can malfunction in all sorts of ways after a drop. And keep in mind that the pens are not cheap.  If you need to buy a replacement it will be anywhere from $35 USD to $90 USD.&#x20;
+Drawing tablet pens are much more sensitive. They have more delicate and sensitive parts. I HIGHLY RECOMMEND that you DO NOT DROP THEM. Sometimes they work perfectly after that. But they can malfunction in all sorts of ways after a drop. And keep in mind that the pens are not cheap. If you need to buy a replacement it will be anywhere from $35 USD to $90 USD.
 
 ## Pointer positioning
 
 Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [**Absolute versus relative positioning**](../../core-features/active-area/absolute-versus-relative-positioning.md).
 
-However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [**mouse mode**](../../core-features/active-area/mouse-mode.md). &#x20;
+However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [**mouse mode**](../../core-features/active-area/mouse-mode.md).
 
 ## Aspect ratios
 
-If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [**Matching aspect ratios**](../../guides/customizing/force-proportions.md)&#x20;
+If you are using a pen tablet (a tablet without a screen) you ABSOLUTELY SHOULD also configure the tablet to match its active area to that of your monitor. More here: [**Matching aspect ratios**](../../guides/customizing/force-proportions.md)
 
 ## Moving the pointer vs clicking
 
@@ -56,7 +56,7 @@ In a a mouse, you can independently move and click. This means you can move the 
 
 The same thing works with drawing tablet pen. But you should realize how it works.
 
-* To move without clicking - you have to hold the pen above the tablet (within a range of about 10mm). This is called hover. more here: [**Pen hover**](../../core-features/pen-hover/).&#x20;
+* To move without clicking - you have to hold the pen above the tablet (within a range of about 10mm). This is called hover. more here: [**Pen hover**](../../core-features/pen-hover/).
 * To click - you tap down on the tablet with the pen
 * To move AND click at the same time - you press down on the tablet and move the pen. The click lasts as long as you are touching the tablet.
 
@@ -64,11 +64,11 @@ The same thing works with drawing tablet pen. But you should realize how it work
 
 With a mouse this is SUPER EASY you can jsut not move the mouse. And it is EASY to keep a mouse still. You can even let go of the mouse from your hand the pointer won't move.
 
-With a drawing tablet, this is actually very hard. Because you have to HOVER the pen at the exact same spot above the tablet. That is very hard to do, because any motion of your hand will often move the pointer.&#x20;
+With a drawing tablet, this is actually very hard. Because you have to HOVER the pen at the exact same spot above the tablet. That is very hard to do, because any motion of your hand will often move the pointer.
 
 ## Not clicking
 
-It's easy to avoid accidental clicks with a mouse.&#x20;
+It's easy to avoid accidental clicks with a mouse.
 
 With a pen you have to HOVER. And if you accidentally touch the surface it will count as a click.
 
@@ -80,7 +80,7 @@ That isn't quite the case for drawing tablets. You will need to install the tabl
 
 ## Compatibility with apps
 
-Once you install the tablet driver, the tablet is compatible with all applications.&#x20;
+Once you install the tablet driver, the tablet is compatible with all applications.
 
 ## Wired vs Wireless
 
@@ -97,7 +97,7 @@ Drawing tablets can be
 
 There are no drawing tablets that are wireless only.
 
-## Wireless issues&#x20;
+## Wireless issues
 
 **Latency** - There is a little extra latency when using wireless. Some people don't use wireless for this reason.
 
@@ -108,15 +108,15 @@ There are no drawing tablets that are wireless only.
 Lots of them would work. The easy choices are:
 
 * One by Wacom Small (CTL-472)
-* One by Wacom Medium (CTL-672)&#x20;
+* One by Wacom Medium (CTL-672)
 * Wacom Intuos Small (CTL-4100)
 * Wacom Intuos Medium (CTL-6100)
 
-If these, my strong recommendation is the CTL-672. [**notes on this tablet**](../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
+If these, my strong recommendation is the CTL-672. [**notes on this tablet**](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md). You could get the CTL-6100 but all it gives you for the extra cost is some buttons on the tablet.
 
-Other brands also have tablets that work as mouse replacements, but the safe choice is Wacom because of their track record of reliability.&#x20;
+Other brands also have tablets that work as mouse replacements, but the safe choice is Wacom because of their track record of reliability.
 
 ## Resources
 
 * [PiXimperfect - 7 Reasons Why Tablet is Better than a Mouse!](https://www.youtube.com/watch?v=9yTA1P8SrqI) Feb 24, 2020
-* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing_your_mouse_with_a_drawing_tabletpen/) (2023-05-03)&#x20;
+* [r/wacom - Replacing your Mouse with a Drawing Tablet/Pen "Guide"](https://www.reddit.com/r/wacom/comments/136u00y/replacing_your_mouse_with_a_drawing_tabletpen/) (2023-05-03)

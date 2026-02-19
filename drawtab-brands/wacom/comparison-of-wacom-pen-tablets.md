@@ -14,11 +14,11 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
 
-Here are [my detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+Here are [my detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
 
 ## Wacom One 2023 tablets
 
-The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](../../catalog/catalog-drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
+The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [7P notes: Wacom One 2023](../../catalog/drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
 
 ## Recommendation summary
 
@@ -50,7 +50,7 @@ The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom
 
 ## Pens
 
-Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there. More here: [**Wacom pen compatibility**](../../catalog/catalog-pens/wacom-pens/wacom-pen-compatibility.md)
+Each product line uses different pens. And the pens can only be used within that product line. For example if you try to use the LP190K pen with the PTH-860, the tablet does not even recognize there is a pen there. More here: [**Wacom pen compatibility**](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)
 
 <mark style="color:red;">REMEMBER: You cannot MIX AND MATCH these pens. For example, it is not possible to use the amazing Wacom Pro Pen 2 with the One by Wacom, Wacom Oner, or Intuos tablets.</mark>
 
@@ -164,7 +164,7 @@ For these tablets that do support touch, touch can be enabled/disabled with a ph
 
 More here:
 
-* [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+* [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
 * [Touch support](../../guides/touch-support/)
 
 ## Tablet design
@@ -201,7 +201,7 @@ Wacom sells texture sheets for the the Intuos Pro 2017. Three texture options ar
 
 Wacom sells texture sheets for the the Intuos Pro 2025. One texture options are provided for both the Small, Medium and Large sizes.
 
-More here: [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+More here: [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
 
 ## Potential future versions
 
@@ -213,9 +213,9 @@ More here: [My detailed notes on the Intuos Pro (PTH-x60) series](../../catalog/
 
 There are three Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
 
-* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [**More here**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2025/)
-* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [**More here**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/)
-* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [**More here**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2013.md)
+* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [**More here**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2025/)
+* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [**More here**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/)
+* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [**More here**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2013.md)
 
 ## Distinguishing physical features
 

@@ -82,9 +82,9 @@ If you decide on Wacom and want a pen tablet, read this guide: [**Overview of Wa
 
 If you already have a compatible Apple iPad and Apple Pencil, consider whether your current device meets your drawing needs.
 
-* [Apple iPad vs drawing tablets](../catalog/catalog-drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
-* [Apple Pencil vs EMR pens](../catalog/catalog-pens/apple-pencil/apple-pencil-notes.md)
-* [notes on Apple iPad](../catalog/catalog-drawtabs/apple/apple-ipad-notes.md)
+* [Apple iPad vs drawing tablets](../catalog/drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple Pencil vs EMR pens](../catalog/pens/apple-pencil/apple-pencil-notes.md)
+* [notes on Apple iPad](../catalog/drawtabs/apple/apple-ipad-notes.md)
 
 ## **Non-pen inputs**
 
@@ -148,7 +148,7 @@ More here: [**Operating systems**](../guides/operating-systems/)
 * **Thickness** - Pen tablets are very thin these days — about 8mm. Smaller pen displays can be around 10mm; larger pen displays can be 35mm.
 * **Surface texture** - If you are drawing, you may have strong preferences about the feel of your tablet's surface. All drawing tablets have some texture, but there is quite a bit of variation, and there are ways to achieve the texture you want. For example, many people want a rougher texture like paper. Learn more here: [**Surface texture**](../core-features/surface-texture.md)
 * **Body posture** - With a pen tablet, your torso will naturally have a more upright posture because you look at your monitor while your hand rests on the tablet on your desk. With a pen display, you lean forward to draw since you must look down at the display on your desk. You may experience lower back pain or neck strain. More here: [**Body posture when using drawing tablets**](../guides/ergonomics/posture.md)
-* **Arm mounting** - Pen displays are essentially monitors, and many (but not all) have a VESA mount on the back. This lets you keep the pen display out of the way when not in use and pull it close when you want to draw. Pen tablets have no built-in mounting capability. See: [**Using monitor arms with a pen display**](../catalog/catalog-accessories/arms/)
+* **Arm mounting** - Pen displays are essentially monitors, and many (but not all) have a VESA mount on the back. This lets you keep the pen display out of the way when not in use and pull it close when you want to draw. Pen tablets have no built-in mounting capability. See: [**Using monitor arms with a pen display**](../catalog/accessories/arms/)
 * **Legs** - Many pen displays (but not all) have foldable legs on the back, which lets you prop the display at a slight angle on your desk for easier viewing and drawing. Pen tablets do not have legs; if you want to angle one, you will need to find another solution.
 * **Right-handed vs left-handed use** - All drawing tablets work for both right-handed and left-handed users. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet for left-handed use. See [**handedness of drawing tablets**](../guides/ergonomics/handedness.md).
 * **Noise** - You may have strong preferences about **noise**. Drawing tablets are generally very quiet, and some are completely silent. More details here: [**Noise**](./#noise)
@@ -201,12 +201,12 @@ Drawing tablets have been released over many years, so when you shop online you 
     * PenTech 3.0: PW517, PW515, PW110
     * PenTech 3.0+: PW550, PW550S - in my research these are clearly better pens than PenTech 3.0, and in terms of pressure range they are as good as PenTech 4.0.
     * PenTech 4.0: PW600, PW600S. The PenTech 4.0 pens are better than the PenTech 3.0 pens.
-    * More here: [**Huion pens**](../catalog/catalog-pens/huion-pens/)
+    * More here: [**Huion pens**](../catalog/pens/huion-pens/)
 
 ## Preparing for a drawing tablet
 
 * **Troubleshooting -** At some point, something is going to go wrong. I highly suggest familiarizing yourself with [**Common problems with drawing tablets**](../troubleshooting/common-problems-with-drawing-tablets.md) and these [**Troubleshooting guides**](../troubleshooting/).
-* **Accessories** - There are some useful accessories for tablets. More here: [**Accessories**](../catalog/catalog-accessories/)
+* **Accessories** - There are some useful accessories for tablets. More here: [**Accessories**](../catalog/accessories/)
 * **Purchasing** - Before you purchase, go through this [**Before-purchase checklist**](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [**Get started with a drawing tablet**](../basics/getting-started.md)
 * **Maintenance** - Once you get your tablet, you'll need to take care of it with some simple maintenance. I've written a guide on this: [**Caring for your tablet**](../guides/maintaining-your-drawing-tablet/).

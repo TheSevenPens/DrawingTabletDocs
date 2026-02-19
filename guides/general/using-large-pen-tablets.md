@@ -13,16 +13,16 @@ Generally I advise against getting a LARGE pen tablet unless one of these is try
 
 If you want a large pen tablet, pick from one of these:
 
-* Wacom Intuos Pro PTK-870: EXCELLENT ([**notes on this tablet**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md))
-* Wacom Intuos Pro PTH-860: EXCELLENT ([**notes on this tablet**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md))
-* XP-Pen Deco Pro XLW GEN2 (MT1592B): VERY GOOD ([**notes on this tablet**](../../catalog/catalog-drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md))
-* Huion Inspiroy Giano G930L: GOOD ([**notes on this tablet**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-g930l-notes.md))
+* Wacom Intuos Pro PTK-870: EXCELLENT ([**notes on this tablet**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md))
+* Wacom Intuos Pro PTH-860: EXCELLENT ([**notes on this tablet**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md))
+* XP-Pen Deco Pro XLW GEN2 (MT1592B): VERY GOOD ([**notes on this tablet**](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md))
+* Huion Inspiroy Giano G930L: GOOD ([**notes on this tablet**](../../catalog/drawtabs/huion/huion-inspiroy/huion-g930l-notes.md))
 
 This list excludes some older large pen tablets that are out-of-date.
 
 ## My personal experience
 
-I have used LARGE pen tablets are my favorite size to use and I have described the experience as "luxurious."  However I did have to adjust how I setup my desktop and how I draw to take advantage of it. It did take my some time to adapt, but now I would not go back to using a MEDIUM pen tablet.
+I have used LARGE pen tablets are my favorite size to use and I have described the experience as "luxurious." However I did have to adjust how I setup my desktop and how I draw to take advantage of it. It did take my some time to adapt, but now I would not go back to using a MEDIUM pen tablet.
 
 ## Potential benefits
 
@@ -36,7 +36,7 @@ I have used LARGE pen tablets are my favorite size to use and I have described t
 
 ## Adjustments and tactics for optimal use
 
-Despite the benefits, maximizing the large tablet's value requires conscious effort to your desk setup and how you draw: **You have to overcome old habits:** When I started I would fall back to my older habits when i had a medium pen tablet  - making smaller gestures and not fully utilizing the larger area.
+Despite the benefits, maximizing the large tablet's value requires conscious effort to your desk setup and how you draw: **You have to overcome old habits:** When I started I would fall back to my older habits when i had a medium pen tablet - making smaller gestures and not fully utilizing the larger area.
 
 Some tactics I applied:
 
@@ -73,4 +73,3 @@ If the active area is too big for you, then you should keep in mind that you can
 In this video I go through a lot of detail about what it's like to actually use a large pen tablet. In this case I'm specifically using a Wacom intuos pro (PTH-860). But the same general issues apply to any large pen tablet.
 
 {% embed url="https://youtu.be/YCmVugc3w_g" %}
-

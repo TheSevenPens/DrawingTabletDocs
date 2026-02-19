@@ -2,7 +2,7 @@
 
 ## Overview
 
-Large pen tablets have an active area diagonal size of about 15".&#x20;
+Large pen tablets have an active area diagonal size of about 15".
 
 {% hint style="info" %}
 Even if a tablet has "large" in its name, it doesn't mean it us truly a large tablet. A perfect example is the Huion Inspiroy 2 Large which is more of a medium sized tablet. Same with the XP-Pen Deco L/LW.
@@ -10,13 +10,13 @@ Even if a tablet has "large" in its name, it doesn't mean it us truly a large ta
 
 ## Key considerations
 
-Using a large tablet is very different from using a medium size tablet. There are many things you have to adjust to. More here: Using large pen tablets&#x20;
+Using a large tablet is very different from using a medium size tablet. There are many things you have to adjust to. More here: Using large pen tablets
 
 ## Large tablets in market as of May 2024
 
-* Intuos Pro Large (PTH-860) - [**notes on this tablet**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)  &#x20;
-* XP-Pen Deco Pro XLW (MT1592B) - [**notes of this tablet**](../../catalog/catalog-drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md)  &#x20;
-* Huion Giano (G930L) - [**notes on this tablet**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)&#x20;
+* Intuos Pro Large (PTH-860) - [**notes on this tablet**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
+* XP-Pen Deco Pro XLW (MT1592B) - [**notes of this tablet**](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md)
+* Huion Giano (G930L) - [**notes on this tablet**](../../catalog/drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)
 
 ## Ranking
 
@@ -24,9 +24,9 @@ In terms of drawing performance the best of the three is the Intuos Pro Large (P
 
 Second is the XP-Pen Deco Pro XLW GEN2 (MT1592B). The things to note about this tablet is the excellent design and vastly improved pressure handling coming from its X3 Pro pen.
 
-Third, the Huion Giano overall is very good. It's a very close third to the XP Pen Deco Pro XLW GEN2 because the PW517 pen does not handle pressure (smaller pressure range for example) as well as the X3 Pro pen.&#x20;
+Third, the Huion Giano overall is very good. It's a very close third to the XP Pen Deco Pro XLW GEN2 because the PW517 pen does not handle pressure (smaller pressure range for example) as well as the X3 Pro pen.
 
-## Basics&#x20;
+## Basics
 
 |                      | Intuos Pro Large                 | Deco Pro XLW GEN2 | Giano G930L |
 | -------------------- | -------------------------------- | ----------------- | ----------- |
@@ -40,8 +40,8 @@ Third, the Huion Giano overall is very good. It's a very close third to the XP P
 ## Product pages
 
 * Intuos Pro Large - [https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor](https://estore.wacom.com/en-us/tablets.html#wacom-intuos-pro-link-anchor)
-* Deco Pro XLW GEN2 - [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)&#x20;
-* Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-giano.html)&#x20;
+* Deco Pro XLW GEN2 - [https://www.xp-pen.com/product/deco-pro-gen-2-series.html](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)
+* Huion G930L - [https://www.huion.com/products/pen\_tablet/InspiroyPro/inspiroy-giano.html](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-giano.html)
 
 ## Active Areas
 
@@ -51,13 +51,13 @@ Third, the Huion Giano overall is very good. It's a very close third to the XP P
 | Deco Pro XLW GEN2 | <p>15" x 9"<br>381mm x 228.6mm</p>     | 17.6"    | 5:3 (1.67)   |
 | Giano G930L       | <p>13.6 x 8.5<br>345.4mm x 215.9mm</p> | 16"      | 16:10 (1.60) |
 
-None of these tablets have an exact 16:9 (1.78) aspect ratio.&#x20;
+None of these tablets have an exact 16:9 (1.78) aspect ratio.
 
-So, you should ensure you [**match aspect ratios**](../../guides/customizing/force-proportions.md) with your monitor before you start drawing. &#x20;
+So, you should ensure you [**match aspect ratios**](../../guides/customizing/force-proportions.md) with your monitor before you start drawing.
 
 ## Pen pressure range info
 
-The Wacom Pro Pen 2 is the clear winner, but the XP-Pen X3 Pro is good. The Huion PW517 is just OK.&#x20;
+The Wacom Pro Pen 2 is the clear winner, but the XP-Pen X3 Pro is good. The Huion PW517 is just OK.
 
 In my experience I see that the PW517 units vary quite a bit in their maximum pressure. The average of my tests is about 200gf.
 
@@ -71,17 +71,17 @@ In my experience I see that the PW517 units vary quite a bit in their maximum pr
 
 **Tablet age** - don't let the fact that the Intuos Pro Large was released in 2017 dissuade you. It's still better than the most recent tablets put out by the competition
 
-**Pen replacement cos**t - Keep in mind the Pro Pen 2 is very expensive ay $80. It's a significant cost if you need to replace it. The  PW517 is $50 and the X3 Pro is $40.
+**Pen replacement cos**t - Keep in mind the Pro Pen 2 is very expensive ay $80. It's a significant cost if you need to replace it. The PW517 is $50 and the X3 Pro is $40.
 
 **Nib wear** - the Intuos Pro comes with a surface that (at least initially) has a lot of texture and can wear down nibs fast.
 
 **Wireless** - All three support Bluetooth wireless connectivity
 
-**Touch** - only the Intuos Pro supports touch.&#x20;
+**Touch** - only the Intuos Pro supports touch.
 
-**Auxiliary inputs**&#x20;
+**Auxiliary inputs**
 
-* Intuos Pro Large - 8 total buttons&#x20;
+* Intuos Pro Large - 8 total buttons
 * Deco Pro XLW GEN2 - no buttons
 * Giano G930L - 6 buttons
 
@@ -96,6 +96,3 @@ In my experience I see that the PW517 units vary quite a bit in their maximum pr
 * Intuos Pro Large - Low (good)
 * Deco Pro XLW GEN2 - some wobble at slow speeds OK
 * Giano G930L - Low (good)
-
-
-

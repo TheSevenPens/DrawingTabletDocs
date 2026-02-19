@@ -17,17 +17,17 @@ For this you want high reliability and durability and you DO NOT need to spend a
 
 **Pen tablets (no screen)**
 
-* One by Wacom Medium (CTL-672) - [Notes on this tablet](../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
+* One by Wacom Medium (CTL-672) - [Notes on this tablet](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
 * Wacom Intuos Medium (CTL-6100 or CTL-6100WL)&#x20;
 * XP-Pen Deco MW
 * XP-Pen Deco LW
 
 **Pen displays (have a screen)**
 
-* Huion Kamvas 13 GEN3 (GS1333) - [Notes on this tablet](../../catalog/catalog-drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)&#x20;
+* Huion Kamvas 13 GEN3 (GS1333) - [Notes on this tablet](../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)&#x20;
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)
-* Wacom One 2019 (DTC-133) - [Notes on this tablet](../../catalog/catalog-drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
+* Wacom One 2019 (DTC-133) - [Notes on this tablet](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
 
 ## Which tablet does Sal Khan use?
 

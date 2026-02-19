@@ -12,33 +12,33 @@ If you want to see the full set recommendations go here: [**Drawing tablet recom
 
 ## EXCELLENT
 
-* Wacom Intuos Pro Medium (PTK-670) \[[**notes**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)]
-* Wacom Intuos Pro Medium (PTH-660) \[[**notes**](../../catalog/catalog-drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)]
+* Wacom Intuos Pro Medium (PTK-670) \[[**notes**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)]
+* Wacom Intuos Pro Medium (PTH-660) \[[**notes**](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)]
 
 ## VERY GOOD
 
-* Huion Inspiroy Frego M (L610) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-l610-notes.md) ]
+* Huion Inspiroy Frego M (L610) \[[**notes**](../../catalog/drawtabs/huion/huion-inspiroy/huion-l610-notes.md) ]
 * XP-Pen Deco Pro
-  * XP-Pen Deco Pro MW GEN2 (MT0962B) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco-pro-gen2/)]
-  * XP-Pen Deco Pro LW GEN2 (MT1172B) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco-pro-gen2/)]
+  * XP-Pen Deco Pro MW GEN2 (MT0962B) \[[**links**](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/)]
+  * XP-Pen Deco Pro LW GEN2 (MT1172B) \[[**links**](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/)]
 
 ## GOOD
 
-* One by Wacom Medium (CTL-672) \[[**notes**](../../catalog/catalog-drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)] \[no tilt, no wireless]
-* XP-Pen Deco M (IT850) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)] \[no wireless]
-* XP-Pen Deco MW (IT850B) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)]
-* XP-Pen Deco L (IT1060) \[[**links**](../../catalog/catalog-drawtabs/xppen/xppen-deco/)] \[no wireless]
-* XP-Pen Deco LW (IT1060B) [**notes**](../../catalog/catalog-drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)]
+* One by Wacom Medium (CTL-672) \[[**notes**](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)] \[no tilt, no wireless]
+* XP-Pen Deco M (IT850) \[[**links**](../../catalog/drawtabs/xppen/xppen-deco/)] \[no wireless]
+* XP-Pen Deco MW (IT850B) \[[**links**](../../catalog/drawtabs/xppen/xppen-deco/)]
+* XP-Pen Deco L (IT1060) \[[**links**](../../catalog/drawtabs/xppen/xppen-deco/)] \[no wireless]
+* XP-Pen Deco LW (IT1060B) [**notes**](../../catalog/drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)]
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
-* Huion Inspiroy 2 L (H1061P) \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)]
-* Wacom Intuos Medium (CTL-6100) \[[**links**](../../catalog/catalog-drawtabs/wacom/wacom-intuos.md)] \[no tilt, no wireless]
+* Huion Inspiroy 2 L (H1061P) \[[**notes**](../../catalog/drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)]
+* Wacom Intuos Medium (CTL-6100) \[[**links**](../../catalog/drawtabs/wacom/wacom-intuos.md)] \[no tilt, no wireless]
 
 ## OK
 
-* Huion Inspiroy HS611 \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-hs611-notes.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.
-* Huion Inspiroy RTP-700 \[[**notes**](../../catalog/catalog-drawtabs/huion/huion-inspiroy/huion-rtp700-notes.md)] - Seems OK but haven't spent much time with it
-* XP-Pen Deco 01 V3 \[[**notes**](../../catalog/catalog-drawtabs/xppen/xppen-deco/xppen-deco01v3-notes.md)]
+* Huion Inspiroy HS611 \[[**notes**](../../catalog/drawtabs/huion/huion-inspiroy/huion-hs611-notes.md)] - Little bit of an older Huion tablet with older tech. But it does work fine.
+* Huion Inspiroy RTP-700 \[[**notes**](../../catalog/drawtabs/huion/huion-inspiroy/huion-rtp700-notes.md)] - Seems OK but haven't spent much time with it
+* XP-Pen Deco 01 V3 \[[**notes**](../../catalog/drawtabs/xppen/xppen-deco/xppen-deco01v3-notes.md)]
 
 ## AVOID
 
-* Wacom One M (CTC-6110WL) \[[**notes**](../../catalog/catalog-drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md)]
+* Wacom One M (CTC-6110WL) \[[**notes**](../../catalog/drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md)]

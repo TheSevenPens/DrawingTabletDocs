@@ -83,7 +83,7 @@ Many pen displays support VESA mounting also. However, the pen displays that are
 
 More here:
 
-* [**Using monitor arms with a pen display**](../../catalog/catalog-accessories/arms/)&#x20;
+* [**Using monitor arms with a pen display**](../../catalog/accessories/arms/)&#x20;
 * [**VESA**](../../technology/vesa.md)
 
 ## Power cabling

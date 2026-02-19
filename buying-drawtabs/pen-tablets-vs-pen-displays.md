@@ -158,7 +158,7 @@ More here: [**The drawing experience**](../basics/drawing-experience.md)
 
 Given their size and weight and need for a single cable (or even wireless capability) pen tablets have a lot of advantages for carrying around with you.
 
-Also with a pen display, you will need to protect it more because it is more sensitive to damage. See [**protective cases**](../catalog/catalog-accessories/tablet-cases.md).
+Also with a pen display, you will need to protect it more because it is more sensitive to damage. See [**protective cases**](../catalog/accessories/tablet-cases.md).
 
 ## Diagonal wobble
 

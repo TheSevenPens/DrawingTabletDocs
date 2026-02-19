@@ -17,13 +17,13 @@ Etched glass that is used for append display is highly durable. They are designe
 
 ### Example of durability
 
-See this video by David Revoy who is testing the Kamvas Pro 19: [https://www.youtube.com/watch?v=M9VbiVJX-J4](https://www.youtube.com/watch?v=M9VbiVJX-J4)&#x20;
+See this video by David Revoy who is testing the Kamvas Pro 19: [https://www.youtube.com/watch?v=M9VbiVJX-J4](https://www.youtube.com/watch?v=M9VbiVJX-J4)
 
 At 3:32 he performs a scratch test. He tries to deliberately scratch the glass with:
 
 * his car keys
 * a small piece of metal
-* a  hobby knife
+* a hobby knife
 
 His attempts leave some kind of metallic-looking residue on the glass which he can clean off revealing the surface is not scratched.
 
@@ -35,7 +35,7 @@ Below is a picture of a Wacom Cintiq 13 HD which has an etched glass surface. It
 
 ![](../../.gitbook/assets/image-000143.jpg)
 
-From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)&#x20;
+From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)
 
 ## Preventing damage to glass
 
@@ -57,7 +57,7 @@ If you were transporting your pen display you should make sure that the glass is
 
 Screen protectors on top of the tablet glass naturally protect the glass from damage. One benefit of is that if they do get damaged you can generally replace them.
 
-More: [Screen protectors for pen displays](../../catalog/catalog-accessories/surface-protectors/screen-protectors/)
+More: [Screen protectors for pen displays](../../catalog/accessories/surface-protectors/screen-protectors/)
 
 ## Glass damage is permanent
 
@@ -70,5 +70,3 @@ I have never seen anyone find anyway to somehow remove any on the glass surface
 ## My experience
 
 I have never scratched the glass of any of my 30+ pen displays - except for the Wacom Movink 13 (DTH-135) which has some kind of AF coating which is known to be "soft" and easily damaged.
-
-&#x20;

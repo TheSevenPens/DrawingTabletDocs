@@ -15,7 +15,7 @@ Here is list all the tablets I know of that support touch: [**Tablets that suppo
 
 ## **Overall satisfaction with touch**
 
-**Pen tablets** -  The closest approximation we have to compare touch support on a pen tablet 2 is a laptop touchpad. In my experience using a touch supporting pen tablet doesn't match the experience you get with a laptop touchpad. Overall I find the experience less smooth and more jerky. And I find it difficult to click.
+**Pen tablets** - The closest approximation we have to compare touch support on a pen tablet 2 is a laptop touchpad. In my experience using a touch supporting pen tablet doesn't match the experience you get with a laptop touchpad. Overall I find the experience less smooth and more jerky. And I find it difficult to click.
 
 **Pen displays** - my experience here is that touch support works much better perhaps because you are touching what you see. However this is strongly dependent on the operating system that you use. I've been very satisfied with pen displays that support touch on windows 11.
 
@@ -51,7 +51,7 @@ These devices are typically better at palm rejection then a typical pen display 
 
 All tablets that have touch allow a user to disable touch support
 
-* Some tablets have a physical switch to enable and disable touch.&#x20;
+* Some tablets have a physical switch to enable and disable touch.
 * Drivers also tend to allow you to disable touch
 
 ## **Palm rejection**
@@ -62,7 +62,7 @@ All tablets that have touch allow a user to disable touch support
 
 **Drawing gloves to help with palm rejection.**
 
-Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../../catalog/catalog-accessories/drawing-gloves.md).&#x20;
+Because a drawing tablet with touch may not reject the palm as well as an iPad, consider using a drawing glove. They can help substantially with palm rejection. I've noticed though that some gloves seem to be better than others. More here: [**Drawing gloves**](../../catalog/accessories/drawing-gloves.md).
 
 ## **My own use of touch**
 
@@ -76,7 +76,7 @@ Likewise, I have heard that touch support improved with the Wacom Intuos Pro PTH
 
 ## Resources
 
-* [**r/wacom - Touch or No Touch?**](https://www.reddit.com/r/wacom/comments/rdhjud/touch_or_no_touch/) 2021-12-10&#x20;
-* [**r/wacom - Is wacom one display 13 touch any good?**](https://www.reddit.com/r/wacom/comments/18c6551/is_wacom_one_display_13_touch_any_good/) 2023-12-06 &#x20;
-* r[**/wacom - Thinking about getting the Wacom Cintiq 27 Touch. Is the touch screen feature worth it?**](https://www.reddit.com/r/wacom/comments/11wu7p5/thinking_about_getting_the_wacom_cintiq_27_touch/) 2023-03-20&#x20;
-* [**r/wacom - How do the touch-capable Wacom Cintiqs compare to the iPad Pro?**](https://www.reddit.com/r/wacom/comments/u9lk71/how_do_the_touchcapable_wacom_cintiqs_compare_to/) 2022-04-22&#x20;
+* [**r/wacom - Touch or No Touch?**](https://www.reddit.com/r/wacom/comments/rdhjud/touch_or_no_touch/) 2021-12-10
+* [**r/wacom - Is wacom one display 13 touch any good?**](https://www.reddit.com/r/wacom/comments/18c6551/is_wacom_one_display_13_touch_any_good/) 2023-12-06
+* r[**/wacom - Thinking about getting the Wacom Cintiq 27 Touch. Is the touch screen feature worth it?**](https://www.reddit.com/r/wacom/comments/11wu7p5/thinking_about_getting_the_wacom_cintiq_27_touch/) 2023-03-20
+* [**r/wacom - How do the touch-capable Wacom Cintiqs compare to the iPad Pro?**](https://www.reddit.com/r/wacom/comments/u9lk71/how_do_the_touchcapable_wacom_cintiqs_compare_to/) 2022-04-22

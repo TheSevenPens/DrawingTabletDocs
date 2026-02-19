@@ -13,7 +13,7 @@ Smooth can mean different things for a stroke.
 
 The tablet and driver are components that can contribute to strokes that aren't as smooth as you would like
 
-* All tablets have a degree of [diagonal wobble](../../core-features/diagonal-wobble.md) that can appear in your stroke.&#x20;
+* All tablets have a degree of [diagonal wobble](../../core-features/diagonal-wobble.md) that can appear in your stroke.
 * Tablet sometimes exhibit a little bit of "noise" in their stroke. This noise is similar to wobble in that it deviates from a smooth line, but it does so in a more random way.
 * The surface of a tablet may be too smooth and this can cause the pen to easily "slip" away from your intended path.
 
@@ -24,7 +24,7 @@ You are user and your drawing style can affect the smoothness of a stroke
 
 ## <mark style="color:red;">For pen tablets (screenless tablets), use Force Proportions to match aspect ratios!!!</mark>
 
-If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [**Use Force Proportions to match aspect ratios**](../customizing/force-proportions.md).&#x20;
+If you are using a pen tablet, mismatched aspect rations between your pen tablet and your monitor will distort your strokes and make it harder to draw smoothly. Make sure you check for this and correct it. More here: [**Use Force Proportions to match aspect ratios**](../customizing/force-proportions.md).
 
 Please do check for this. Many people have been using their tablets for years with mismatched aspect ratios and when they make the ratios match it is a BIG DIFFERENCE in their ability to draw strokes correctly.
 
@@ -32,14 +32,14 @@ Please do check for this. Many people have been using their tablets for years wi
 
 Consider how you hold you pen. Different techniques of holding your pen can affect how smooth your strokes are.
 
-* [**Aaron Rutten - How to Hold a Drawing Tablet Pen**](https://www.youtube.com/watch?v=AAm0DrOrDGQ) 2023-09-03&#x20;
+* [**Aaron Rutten - How to Hold a Drawing Tablet Pen**](https://www.youtube.com/watch?v=AAm0DrOrDGQ) 2023-09-03
 * [**Brad Colbow - How Pros Hold a Pencil**](https://www.youtube.com/watch?v=pB9m4TxZ7oQ) 2024-05-28
 
 ## Increase the surface texture of your tablet
 
-Using a digital; pen on a very smooth tablet surface can result in the pen feeling "slippery" as you draw. And so the pen often seems to "slide away" from the intended path of the stroke you are trying to make.  This is a common complain for iPads because an iPad's surface if very smooth glass.
+Using a digital; pen on a very smooth tablet surface can result in the pen feeling "slippery" as you draw. And so the pen often seems to "slide away" from the intended path of the stroke you are trying to make. This is a common complain for iPads because an iPad's surface if very smooth glass.
 
-Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../catalog/catalog-accessories/surface-protectors/).
+Consider buying a protective sheet to increase the surface texture a bit. See: [**protective sheets**](../../catalog/accessories/surface-protectors/).
 
 ## Use a felt nib
 
@@ -51,7 +51,7 @@ Many people draw just by moving their wrist. Try instead drawing by moving your 
 
 ## Rotate or mirror the canvas to make it easier to draw a smooth stroke.
 
-Usually someone's hand can draw a smooth stroke easier at some angles than at others. For example, if you are right handed drawing a strong from bottom left to top right is easy but drawing from top left to bottom right is harder and the stroke less smooth. Rotate the application canvas so that you accommodate what your hand is better at doing.&#x20;
+Usually someone's hand can draw a smooth stroke easier at some angles than at others. For example, if you are right handed drawing a strong from bottom left to top right is easy but drawing from top left to bottom right is harder and the stroke less smooth. Rotate the application canvas so that you accommodate what your hand is better at doing.
 
 ## Draw your stroke toward your instead of away from you
 
@@ -83,16 +83,14 @@ Use brush smoothing in your applications. Depending on the application, both pos
 
 ### Krita
 
-Krita, under **Tool Options**, has 4 different brush smoothing options: **None**, **Basic**, **Weighted**, and **Stabilizer**.&#x20;
+Krita, under **Tool Options**, has 4 different brush smoothing options: **None**, **Basic**, **Weighted**, and **Stabilizer**.
 
 ### Clip Studio Paint
 
 Clip Studio Paint has several options
 
-* A setting called **Stabilization** that goes from 0 to  100. Where 100 adds the most amount of smoothing possible.
+* A setting called **Stabilization** that goes from 0 to 100. Where 100 adds the most amount of smoothing possible.
 * You can also separately use the **Adjust by speed** setting. It has two options: **Increase stabilization when drawing slowly** and **increase stabilization when drawing quickly**.
-
-
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000483.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -102,16 +100,14 @@ Rebelle offers distinct position and brush smoothing.
 
 ## Limit what is affecting the width of your brush
 
-Some brushes are configured to calculate the size of the brush based on MULTIPLE points of data from the pen.&#x20;
+Some brushes are configured to calculate the size of the brush based on MULTIPLE points of data from the pen.
 
 For example:
 
-* Both pressure AND tilt may be used to calculate the stroke width.&#x20;
+* Both pressure AND tilt may be used to calculate the stroke width.
 * You may be expecting a constant width line, but the brush is configured to take pressure or tilt into account to calculate the width.
 
-You may be able to get a smoother and more consistent stroke with if are sure what is contributing to the width and then consider reducing the number of contributing factors.&#x20;
-
-
+You may be able to get a smoother and more consistent stroke with if are sure what is contributing to the width and then consider reducing the number of contributing factors.
 
 ## Application stroke post-correction smoothing
 
@@ -129,7 +125,7 @@ Applications like Krita also support vector tools. If you are having problems wi
 
 ## Use application auto-shape detection
 
-Some applications, like ProCreate on the iPad, have a a shape detection feature. Roughly speaking after you draw a stroke and hold you pen still for a moment, it will recognize a line, or circle, or curve and create a perfect smooth version of your stroke.&#x20;
+Some applications, like ProCreate on the iPad, have a a shape detection feature. Roughly speaking after you draw a stroke and hold you pen still for a moment, it will recognize a line, or circle, or curve and create a perfect smooth version of your stroke.
 
 ## Use application pressure smoothing
 
@@ -141,11 +137,8 @@ Note that BOTH a **pressure curve** AND **pressure smoothing** together can prod
 
 Some applications have special ways of drawing straight lines. And these tools are available even if the application is NOT using vectors.
 
-For example in Clip Studio Paint, holding down thew SHIFT key will draw line from the last point the pen was drawing on the canvas to the current position the pen is in.&#x20;
+For example in Clip Studio Paint, holding down thew SHIFT key will draw line from the last point the pen was drawing on the canvas to the current position the pen is in.
 
 ## Use application guides
 
 Some applications let you add special guides to help draw straight lines.
-
-
-

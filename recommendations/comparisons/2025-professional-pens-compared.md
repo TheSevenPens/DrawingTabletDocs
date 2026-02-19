@@ -2,12 +2,12 @@
 
 ## Overview
 
-Summary: All of these are good pens. I have used each extensively and am happy with them. If I had to choose: the Wacom Pro Pen 2 is the still the best professional drawing tablet pen on the market.&#x20;
+Summary: All of these are good pens. I have used each extensively and am happy with them. If I had to choose: the Wacom Pro Pen 2 is the still the best professional drawing tablet pen on the market.
 
-* WINNER Wacom Pro Pen 2 (KP-504E) - [notes on KP-504E](../../catalog/catalog-pens/wacom-pens/wacom-kp504e-notes.md)
-* RUNNER-UP: Wacom Pro Pen 3 (ACP-500) - [notes on ACP-500](../../catalog/catalog-pens/wacom-pens/wacom-acp500-notes.md)
-* SECOND PLACE: Huion PW600 series - [notes on Huion PW600](../../catalog/catalog-pens/huion-pens/huion-pw600-notes.md)&#x20;
-* THIRD place: XP-Pen X3 Pro series pens - [notes on XP-Pen X3](../../catalog/catalog-pens/xppen-pens/xppen-x3pro-pen.md)&#x20;
+* WINNER Wacom Pro Pen 2 (KP-504E) - [notes on KP-504E](../../catalog/pens/wacom-pens/wacom-kp504e-notes.md)
+* RUNNER-UP: Wacom Pro Pen 3 (ACP-500) - [notes on ACP-500](../../catalog/pens/wacom-pens/wacom-acp500-notes.md)
+* SECOND PLACE: Huion PW600 series - [notes on Huion PW600](../../catalog/pens/huion-pens/huion-pw600-notes.md)
+* THIRD place: XP-Pen X3 Pro series pens - [notes on XP-Pen X3](../../catalog/pens/xppen-pens/xppen-x3pro-pen.md)
 
 ## Wacom Pro Pen 2 (KP-504E)
 
@@ -17,7 +17,7 @@ Summary: All of these are good pens. I have used each extensively and am happy w
   * Has eraser
 * Pressure
   * Consistently low IAF - measured as <1gf by tablet expert Kuuube
-  * Consistently high IAD - 700gf to 800gf, well into the EXCELLENT range&#x20;
+  * Consistently high IAD - 700gf to 800gf, well into the EXCELLENT range
 
 ## Wacom Pro Pen 3 (AXP-500)
 
@@ -31,8 +31,8 @@ Summary: All of these are good pens. I have used each extensively and am happy w
     * different grips
 * Different versions come with different tablets. Some offer customization but some don't
 * Pressure
-  * IAF - Kuuube measures IAF of ACP-500 as a little higher than Pro Pen 2.&#x20;
-  * Max pressure - In the EXCELENT range. 550gf to 700gf. The maximum values are a little less than the KP-504E but still in the excellent range.&#x20;
+  * IAF - Kuuube measures IAF of ACP-500 as a little higher than Pro Pen 2.
+  * Max pressure - In the EXCELENT range. 550gf to 700gf. The maximum values are a little less than the KP-504E but still in the excellent range.
 
 ## Huion PW600 series
 
@@ -41,16 +41,14 @@ Summary: All of these are good pens. I have used each extensively and am happy w
   * 2 or 3 buttons depending on model
 * Pressure
   * IAF - GOOD - Huion says 2gf
-  *   Consistently high max pressure: \~450gf to \~550gf in the close to or inside EXCELLENT range
-
-      &#x20;
+  * Consistently high max pressure: \~450gf to \~550gf in the close to or inside EXCELLENT range
 
 ## XP-Pen X3 Pro
 
 * GOOD pen
 * Features
   * 2 or 3 buttons depending on variant
-  * Eraser&#x20;
+  * Eraser
   * Roller on one model
 * Pressure
   * IAF - GOOD - XP-Pen says 3gf
@@ -58,7 +56,7 @@ Summary: All of these are good pens. I have used each extensively and am happy w
 
 ## Tilt
 
-Tilt is a function of tablets, not the pens. Thus, no meaningful statement about tilt can be derived from the pens themselves. Almost all the tablets that work with these pens support tilt.&#x20;
+Tilt is a function of tablets, not the pens. Thus, no meaningful statement about tilt can be derived from the pens themselves. Almost all the tablets that work with these pens support tilt.
 
 ## **Pressure levels**
 

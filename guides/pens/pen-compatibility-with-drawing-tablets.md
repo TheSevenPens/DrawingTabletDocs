@@ -11,7 +11,7 @@
 * A pen from Manufacturer A may not work with all tablets made by manufacturer A
 * Using the same technology such as "EMR" does not mean two pens are interchangeable.
 * Apple Pencils are only compatible with Apple iPads.
-*   Wacom has so many tablets and and pens that compatibility can get confusing: [**Wacom pens**](../../catalog/catalog-pens/wacom-pens/wacom-pen-compatibility.md)&#x20;
+*   Wacom has so many tablets and and pens that compatibility can get confusing: [**Wacom pens**](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)&#x20;
 
 
 
@@ -36,7 +36,7 @@ If you need to replace a pen, find out the model number that is compatible with 
 ## Resources
 
 * Huion's guide to finding compatible pens: ([https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-](https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-))
-* [Wacom pen compatibility](../../catalog/catalog-pens/wacom-pens/wacom-pen-compatibility.md) &#x20;
+* [Wacom pen compatibility](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md) &#x20;
 
 
 

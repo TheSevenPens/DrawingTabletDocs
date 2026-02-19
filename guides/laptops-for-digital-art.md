@@ -86,9 +86,9 @@ So you should verify your laptop can handle that many monitors.
 
 ## Laptops have used and I recommend
 
-* [Surface Pro 8, 9, and 10](../catalog/catalog-computers/microsoft/microsoft-surface-pro-9/)
-  * [**Microsoft Surface Pro 8**](../catalog/catalog-computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
-* 2023 M3 MacBook Pro - [**2023 M3 MacBook Pro**](../catalog/catalog-computers/apple/apple-m3-macbook-pro.md)
+* [Surface Pro 8, 9, and 10](../catalog/computers/microsoft/microsoft-surface-pro-9/)
+  * [**Microsoft Surface Pro 8**](../catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
+* 2023 M3 MacBook Pro - [**2023 M3 MacBook Pro**](../catalog/computers/apple/apple-m3-macbook-pro.md)
 * Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM Below)
 * Samsung Galaxy Book5 Pro 360
 

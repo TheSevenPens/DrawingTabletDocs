@@ -1,0 +1,95 @@
+# Wacom One 2019 GEN1 (DTC-133) notes
+
+### **Summary**
+
+This solid but dated beginner tablet - and it is somewhat overpriced for what it is. If you can get it used for $150 it, then that is a good deal.
+
+## Basics
+
+* Model year: 2019
+* User manual: [http://101.wacom.com/UserHelp/en/TOC/DTC133.html](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
+* [Teoh On Tech review of Wacom One GEN1](https://www.youtube.com/watch?v=Hv2dpHkLAOE)
+* [Brad Colbow review of Wacom One GEN1](https://www.youtube.com/watch?v=EFvpOWZDGUU)
+* [Create Now Sleep Later review of Wacom One GEN1](https://youtu.be/VPbAUF7AZhA)
+* [Aaron Rutten review of Wacom One GEN1](https://www.youtube.com/watch?v=D4DFFH-hPr8)
+
+## Overall drawing experience
+
+Taking the screen and the pen into consideration, this tablet provides a DECENT drawing experience but not EXCELLENT. It is very suited for beginners.
+
+## Newer versions
+
+In 2023, Wacom released two updated pen display versions in the Wacom One 2023 (GEN2) series
+
+* Wacom One 2023 13 touch (DTH-134)
+* Wacom One 2023 12 (DTC-121)
+
+In my initial investigation in 2023, I wasn't too happy with these newer versions. However, now in 2025 I should re-examine them to see if firmware and driver updates have improved their drawing experience.
+
+See: [**7P notes: Wacom One 2023 GEN2 pen displays**](wacom-one-2023-pen-displays-notes.md)
+
+## Size
+
+I still find 13" tablets a little too small for me. I normally recommend 16" tablets. But as a starter tablet or intended for use by a child, this size works well.
+
+## Diagonal wobble
+
+GOOD. has low amount of wobble.
+
+![](<../../../../.gitbook/assets/image-000174 (1).png>)
+
+### **Cables and connectivity**
+
+The tablet comes with a 3-in-1 cable. Wacom calls this the "X-shape cable". And you must use this specific cable from Wacom.
+
+<figure><img src="../../../../.gitbook/assets/image-000606.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**NOTE: Cable attachment direction**
+
+Also when you plug in the 3-in-1 cable to the top of the tablet, the cord from should go to the left. If the cord goes to the right the tablet won't work. See the diagram below from Wacom's user manual for this tablet.
+
+<figure><img src="../../../../.gitbook/assets/image-000605.png" alt="" width="306"><figcaption></figcaption></figure>
+
+**Single USB-C connection**
+
+The tablet DOES NOT work with a single USB-C cable.
+
+**USB-port reliability**
+
+Based on what I have seen with user feedback on this tablet over the years, the USB-C port can get loose and eventually make it difficult for the cable to securely stay in place. This can cause loss of video signal. So be gentle with that port.
+
+### **Display Panel**
+
+This has an AVHA display panel, not IPS. The colors are a little washed out and viewing angles are not great as other oen displays
+
+### **Included Pen**
+
+The supplied Wacom One GEN1 pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [**notes on Wacom One Pen (CP-913)**](../../../pens/wacom-pens/wacom-cp913-notes.md)
+
+### Compatible pens
+
+Besides the Wacom CP-913, the Wacom One GEN1 (DTC-133) tablet is compatible with 2nd gen UD EMR pens.
+
+* Official Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
+* [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020-12-26
+* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
+* r/Wacom - [https://www.reddit.com/r/wacom/comments/s3go3g/what\_pens\_are\_compatible\_with\_the\_wacom\_one/](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022-01-13
+
+### Legs
+
+This tablet has two legs on the back that can place the tablet at an angle more convenient for drawing.
+
+### VESA
+
+This tablet does not have any VESA mounting holes.
+
+###
+
+### Wacom X-Shape cable for Wacom One DTC-133
+
+The Wacom One (DTC-133) uses a PROPRIETARY 3-in-1 cable that Wacom calls the "X-Shape cable" (ACK44506Z).
+
+You can purchase it from the Wacom store: [https://estore.wacom.com/en-us/wacom-one-x-shape-cable.html](https://estore.wacom.com/en-us/wacom-one-x-shape-cable.html).
+
+<div align="left"><figure><img src="../../../../.gitbook/assets/image-000159 (2).jpg" alt="" width="375"><figcaption></figcaption></figure></div>

@@ -6,18 +6,17 @@ This is a list of some prominent apps for Android devices. If you want to see a 
 
 ## Popular apps for Android
 
-* [**Clip Studio Paint**](../catalog/catalog-apps/clip-studio-paint/)&#x20;
-* [**Ibis Paint**](../catalog/catalog-apps/ibis-paint.md)&#x20;
-* [**HiPaint**](../catalog/catalog-apps/hipaint.md)&#x20;
-* [**Krita**](../catalog/catalog-apps/krita/)&#x20;
-* [**ArtFlow Studio**](http://artflowstudio.com/) &#x20;
-* [**Infinite Painter**](apps-for-android.md#infinite-painter)&#x20;
-* [**Concepts**](../catalog/catalog-apps/concepts-app.md)&#x20;
-* **Sketchbook**&#x20;
+* [**Clip Studio Paint**](../catalog/apps/clip-studio-paint/)
+* [**Ibis Paint**](../catalog/apps/ibis-paint.md)
+* [**HiPaint**](../catalog/apps/hipaint.md)
+* [**Krita**](../catalog/apps/krita/)
+* [**ArtFlow Studio**](http://artflowstudio.com/)
+* [**Infinite Painter**](apps-for-android.md#infinite-painter)
+* [**Concepts**](../catalog/apps/concepts-app.md)
+* **Sketchbook**
 
 ## Videos
 
 [Brad Colbow - 10 Bestr Android Drawing Apps](https://www.youtube.com/watch?v=qsa2MI_3PIs) 2024-11-13
 
 {% embed url="https://www.youtube.com/watch?v=qsa2MI_3PIs" %}
-
