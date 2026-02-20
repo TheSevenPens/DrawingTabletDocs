@@ -2,17 +2,17 @@
 
 ## **NO SIGNAL**
 
-If you turn on your pen display and see a NO SIGNAL message, then this is a difference kind of problem. Instead go here: [TSG: Pen display shows NO SIGNAL message](tsg-no-signal.md)&#x20;
+If you turn on your pen display and see a NO SIGNAL message, then this is a different kind of problem. Instead go here: [TSG: Pen display shows NO SIGNAL message](tsg-no-signal.md)&#x20;
 
 ## Ensure your computer actually detects the display
 
-Does you computer detect the display in the tablet? Check your operating system's display settings. More here: [TSG: computer does not detect display](tsg-display-detection.md)&#x20;
+Does your computer detect the display in the tablet? Check your operating system's display settings. More here: [TSG: computer does not detect display](tsg-display-detection.md)&#x20;
 
 ## Check if the backlight is broken
 
 If your computer does detect the display, but you still see just a back screen, shine a flashlight at your tablet's screen, and see if you can detect faint traces of the image your computer is sending. If you do see something, then this means the backlight is broken.
 
-Unfortunately this is not an easy or cheap think to repair. Most people simply just get a new tablet or if it is under warranty have the tablet replaced.
+Unfortunately this is not an easy or cheap thing to repair. Most people simply get a new tablet, or if it is under warranty, have the tablet replaced.
 
 * [r/monitors - Anyone know how to fix a extremely dim monitor screen?](https://www.reddit.com/r/Monitors/comments/yg67kk/anyone_know_how_to_fix_a_extremely_dim_monitor/) 2022-10-28
 

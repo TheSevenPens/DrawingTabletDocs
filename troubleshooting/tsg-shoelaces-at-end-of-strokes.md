@@ -22,7 +22,7 @@ Smoothing (also called Stabilization) can cause this issue. Try using less smoot
 
 In my experience this can happen when pens have a low IAF (Initial Activation Force).
 
-Even though a low IAF is a good thing. It can also mean that at the end of strokes it is still picking up the very last bit of low pressure.
+Even though a low IAF is a good thing, it can also mean that at the end of strokes the pen is still picking up the very last bit of low pressure.
 
 Try adjusting your pressure curve as shown below to see if this helps reduce the problem.
 
@@ -40,7 +40,7 @@ If you are using OpenTabletDriver, the Slimy Scylla plug-in can remove shoelacin
 
 The default value for **Remove Tail Position Reports** is 1, and usually this is enough.
 
-However, sometimes may need to increase it to 2 or higher.
+However, sometimes you may need to increase it to 2 or higher.
 
 In general, set the value to as low a number as it will go and still work correctly for you.
 

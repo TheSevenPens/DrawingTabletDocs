@@ -2,13 +2,13 @@
 
 ## Overview
 
-If you lost or damaged the table that connects your tablet to your computer, you have a couple of options.&#x20;
+If you lost or damaged the cable that connects your tablet to your computer, you have a couple of options.&#x20;
 
 ## Pen tablets vs pen displays
 
-The ability to replace your cable and how difficult and expensive it is is highly dependent on the type of drawing tablet you have
+The ability to replace your cable, and how difficult and expensive it is, is highly dependent on the type of drawing tablet you have.
 
-* Pen tablets (screenless tablets) - Getting a replacement usually easy and inexpensive
+* Pen tablets (screenless tablets) - Getting a replacement is usually easy and inexpensive
 * Pen displays (screen tablets) - Getting a replacement cable may be more complicated
 
 ## Pen tablets
@@ -33,7 +33,7 @@ This situation is more complicated because there are so many different ways to c
 
 In this case, I STRONGLY RECOMMEND that you contact your tablet manufacturer's customer support and ask them which cable to get.
 
-Yes, your can use 3rd party cables with your pen displays in some cases (see [Using 3rd-party cables with your drawing tablet](../guides/connecting/using-3rd-party-cables-with-your-drawing-tablet/)). However, you put yourself at an increase risk of spending a lot of money on an incompatible cable.
+Yes, you can use 3rd-party cables with your pen displays in some cases (see [Using 3rd-party cables with your drawing tablet](../guides/connecting/using-3rd-party-cables-with-your-drawing-tablet/)). However, you put yourself at an increased risk of spending a lot of money on an incompatible cable.
 
 
 

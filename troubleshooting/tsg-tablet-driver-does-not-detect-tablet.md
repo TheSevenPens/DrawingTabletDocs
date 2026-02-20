@@ -24,13 +24,13 @@ Here are several examples of how the driver indicates the tablet is not connecte
 
 ## Driver versus operating system
 
-What makes this issue confusing is that sometimes your computer's operating system may know that a device is connected even if the tablet driver does not. For example, your operating system may "beep" when you plug the tablet in. And even may list it as a device, even though the driver insists nothing is connected"
+What makes this issue confusing is that sometimes your computer's operating system may know that a device is connected even if the tablet driver does not. For example, your operating system may "beep" when you plug the tablet in, and may even list it as a device, even though the driver insists nothing is connected.
 
 ## What is not being detected
 
 Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen.
 
-When a driver is saying your tablet is not connected, it is talking about this digitizer
+When a driver is saying your tablet is not connected, it is talking about this digitizer.
 
 The digitizer is the primary component of a pen tablet (screenless tablet) though some pen tablets have other components. You may for example see your tablet detected as a keyboard because it has some keyboard like buttons.
 
@@ -59,16 +59,16 @@ Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to
 
 ## Try the tablet with another computer
 
-The issue may be specific with your computer, so try with another computer.
+The issue may be specific to your computer, so try with another computer.
 
-* If it doesn't work there, then that suggest the tablet itself is having problems.
+* If it doesn't work there, then that suggests the tablet itself is having problems.
 * If it does work there, then retry with your own computer.
 
 ## 3-in-1 cable: Check if data cable connected to power
 
-A 3-in-1 cable often has three ends;
+A 3-in-1 cable often has three ends:
 
-* USB-A or USB-C for power - this is often has a red end or a red flag on it
+* USB-A or USB-C for power - this often has a red end or a red flag on it
 * USB-A for data
 * HDMI
 
@@ -123,7 +123,7 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 ## Still not solved?
 
-If none of these suggestions are helping, then [Contacting support](../basics/contacting-support.md).
+If none of these suggestions are helping, then contact support: [Contacting support](../basics/contacting-support.md).
 
 In the meanwhile, you may be able to use alternative drivers on Windows:
 

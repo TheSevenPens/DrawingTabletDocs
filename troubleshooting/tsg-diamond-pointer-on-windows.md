@@ -10,13 +10,13 @@ You may occasionally encounter a situation when using your drawing tablet on a W
 
 This is fundamentally a tablet driver issue.
 
-When you see the small diamond pointer, it means that Windows is not using your tablet driver. Instead Windows is using it's built in PNP driver support. More here:  [Windows PNP support](../guides/operating-systems/windows/windows-pnp-support.md)
+When you see the small diamond pointer, it means that Windows is not using your tablet driver. Instead Windows is using its built-in PNP driver support. More here:  [Windows PNP support](../guides/operating-systems/windows/windows-pnp-support.md)
 
 This could be because
 
-* Your have not installed your tablet driver
+* You have not installed your tablet driver
 * Your tablet driver is taking longer than expected to load
-* Your tablet driver is has crashed
+* Your tablet driver has crashed
 
 ## Steps to fix
 

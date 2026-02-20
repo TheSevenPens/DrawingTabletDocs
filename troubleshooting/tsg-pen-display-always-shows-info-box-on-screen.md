@@ -2,7 +2,7 @@
 
 ## Background
 
-Pen displays and monitors in general can show an informaiton box like this on their screen when they start up.&#x20;
+Pen displays and monitors in general can show an information box like this on their screen when they start up.&#x20;
 
 <div align="left"><figure><img src="../.gitbook/assets/image-000247.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -15,15 +15,15 @@ Usually this appears when the display is first turned on and will appear only fo
 
 ## The problem
 
-Sometimes this box doesn't disappear. It just stays visisble and hides whatever is behind it.
+Sometimes this box doesn't disappear. It just stays visible and hides whatever is behind it.
 
 ## Key points
 
 A couple of things to understand:
 
-* this box is being shown by the tablet itself, not the computer the tablet is attached to
-* It is not entire clear why it sometimes does not go away
-* installing or reinstalling drawing tablet drivers will have no effect
+* This box is being shown by the tablet itself, not the computer the tablet is attached to
+* It is not entirely clear why it sometimes does not go away
+* Installing or reinstalling drawing tablet drivers will have no effect
 
 ## What to try
 
@@ -35,13 +35,13 @@ A couple of things to understand:
     *   This is what an OSD looks like (it varies by tablet)
 
         <figure><img src="../.gitbook/assets/image-000588.jpg" alt="" width="188"><figcaption></figcaption></figure>
-* OPTION 2: Try is to connect the pen display to another source of video signal
+* OPTION 2: Try connecting the pen display to another source of video signal
   * That might trigger the display to "reset" the box
-  * Try connecting the HDMI of the tablet to a the HDMI port of a DVD player, XBOX, a Camera.
+  * Try connecting the HDMI of the tablet to the HDMI port of a DVD player, XBOX, or a camera.
 * OPTION 3:
   * Turn off the display
-  * Unplug the display form the computer and from power
-  * Hold down the power button for  few seconds
+  * Unplug the display from the computer and from power
+  * Hold down the power button for a few seconds
 * FINALLY
   * If all else fails, contact customer support.
 

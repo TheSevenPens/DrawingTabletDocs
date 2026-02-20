@@ -14,13 +14,13 @@ More here:&#x20;
 The Windows PNP tablet driver is extremely basic. However, you can use it to diagnose problems with a drawing tablet.&#x20;
 
 * if a problem occurs with both the manufacturer tablet driver and the Windows PNP tablet driver, then the problem is likely not related to drivers.
-* if a problem only occurs with the manufacturer driver, then it you know the problem is driver related.
+* if a problem only occurs with the manufacturer driver, then you know the problem is driver related.
 
 ## **Instructions**
 
 * First uninstall your manufacturer's tablet driver
 * Restart your computer.&#x20;
-* The try to reproduce the problem.
+* Then try to reproduce the problem.
 
 ## Notes
 

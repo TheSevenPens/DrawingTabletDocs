@@ -15,8 +15,8 @@ Or the pointer goes in a different direction.
 
 * Usually this means nothing is wrong with the pen or the tablet itself.
 * It usually means that the driver is misconfigured.
-  * Sometime drivers misconfigure themselves&#x20;
-  * Sometime you accidentally misconfigure them without realizing it.
+  * Sometimes drivers misconfigure themselves&#x20;
+  * Sometimes you accidentally misconfigure them without realizing it.
 * The specific misconfiguration is that the tablet driver's relation to the screen is not accurate. The driver thinks the tablet physically rotated.
 
 ## Solution

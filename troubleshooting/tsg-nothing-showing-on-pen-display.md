@@ -10,15 +10,15 @@ In this document we'll cover the most common cases, provide some things you can 
 
 ## Background information
 
-There's lots that can go wrong but it's usually something very basic
+There's lots that can go wrong but it's usually something very basic.
 
-watch these two videos because they will help you understand the overall set of things that are happening and many of you will find your solution in the videos
+Watch these two videos because they will help you understand the overall set of things that are happening, and many of you will find your solution in the videos.
 
 &#x20;
 
 ## PROBLEM: Screen turns on and off over and over
 
-When this case you might see something on your pen display for a second or two and then your pen display goes black for a few seconds and then you might see something on your pen display again and this pattern will just keep on repeating
+In this case you might see something on your pen display for a second or two, then your pen display goes black for a few seconds, then you might see something on your pen display again. This pattern will just keep repeating.
 
 Read through this troubleshooting guide: [TSG: Pen display turns on and off constantly](tsg-pen-display-turns-on-and-off-constantly.md)
 

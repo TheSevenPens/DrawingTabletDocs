@@ -8,7 +8,7 @@ When you plug in your tablet, the computer may detect that the tablet supports a
 
 ## Example
 
-Here's an example of Windows 11 detecting showing the Huion Kamvas Pro 24 (GT2401) as an audio output.
+Here's an example of Windows 11 showing the Huion Kamvas Pro 24 (GT2401) as an audio output.
 
 <div align="left"><figure><img src="../.gitbook/assets/image-000741.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

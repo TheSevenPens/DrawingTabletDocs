@@ -6,7 +6,7 @@ These "hooks" often seem to be an artifact of various pen smoothing/stabilizatio
 
 ## Smoothing
 
-In the example lots of quick flicks were used to draw several strokes. Lots of smoothing was used. You can clearly see that some lines have hooks at the beginning/
+In the example, lots of quick flicks were used to draw several strokes with lots of smoothing applied. You can clearly see that some lines have hooks at the beginning.
 
 ![](<../.gitbook/assets/image-000209 (2).png>)
 
@@ -16,7 +16,7 @@ Below the same style flicks were used to draw strokes but this time the smoothin
 
 ## Angle of fast stroke
 
-When making fast strokes one after the other, there is a tendency for the hand to move the pen is a bit of a circular motion. So the initial point of contact is not where you want the stroke to begin. As your hand move the pen to the correct location, this can create the hook.
+When making fast strokes one after the other, there is a tendency for the hand to move the pen in a bit of a circular motion. So the initial point of contact is not where you want the stroke to begin. As your hand moves the pen to the correct location, this can create the hook.
 
 I have found that I can reduce the hooks by:
 
@@ -27,7 +27,7 @@ I have found that I can reduce the hooks by:
 
 Another contributing factor is that your pen may have a very low IAF and so is sensitive to that initial contact.
 
-A low IAF is great. but if you are doing a lot of strokes, the sensitivity can result in more hooks. Consider adjusting your pressure curve as shown below.
+A low IAF is great, but if you are doing a lot of strokes, the sensitivity can result in more hooks. Consider adjusting your pressure curve as shown below.
 
 <figure><img src="../.gitbook/assets/image-000575.png" alt="" width="563"><figcaption></figcaption></figure>
 

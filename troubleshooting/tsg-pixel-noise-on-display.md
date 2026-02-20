@@ -8,7 +8,7 @@
 
 ## Video examples
 
-this video gives an example ([https://www.youtube.com/watch?v=nTGG1NiF2MY](https://www.youtube.com/watch?v=nTGG1NiF2MY)) with red pixels
+This video gives an example ([https://www.youtube.com/watch?v=nTGG1NiF2MY](https://www.youtube.com/watch?v=nTGG1NiF2MY)) with red pixels.
 
 ## Appearance
 
@@ -16,7 +16,7 @@ this video gives an example ([https://www.youtube.com/watch?v=nTGG1NiF2MY](https
 * Even if the input signal isn't changing you may see the pixels rapidly flicker
 * Usually it will be a single color. It very often happens with the GREEN component of a pixel. But can happen with RED (LESS COMMON) or BLUE (UNCOMMON).
 * You may notice that the pixels light up in vertical or horizontal stripes
-* This problem is not related to "STUCK PIXELS". In this case which pixels light up is dynamic and depends on what is shown on the display.
+* This problem is not related to "STUCK PIXELS". In this case, which pixels light up is dynamic and depends on what is shown on the display.
 
 ### Sources of the problem
 

@@ -6,16 +6,16 @@ This problem happens on Windows due to some interaction between the Windows Ink 
 
 ## Symptoms
 
-When drawing a stroke (for example simple curve). You may notice that the there is a slightly delay before something is drawn. The resulting stroke will either:
+When drawing a stroke (for example, a simple curve), you may notice that there is a slight delay before something is drawn. The resulting stroke will either:
 
 * (a) skip over the beginning part of the stroke
-* or (b) have a straight line drawn from where you put the pen down to a little latter in stroke.
+* or (b) have a straight line drawn from where you put the pen down to a little later in the stroke.
 
 <figure><img src="../.gitbook/assets/image-000701.png" alt=""><figcaption></figcaption></figure>
 
 ## Other manifestations
 
-The same delay at the beginning of dragging the pen, can manifest in other user experiences. For example, you might see it as small delay when first moving a slider. As you move the pointer with the pen, the slider will not move for several millimeters and then suddenly snap to the location of the pen.
+The same delay at the beginning of dragging the pen can manifest in other user experiences. For example, you might see it as a small delay when first moving a slider. As you move the pointer with the pen, the slider will not move for several millimeters and then suddenly snap to the location of the pen.
 
 ## Examples
 

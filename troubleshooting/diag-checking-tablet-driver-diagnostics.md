@@ -12,7 +12,7 @@ This diagnostic information is very useful for troubleshooting common issues suc
 * Click **About**
 * Click **Diagnose**
 * The **Diagnostics** window will appear
-* As you move you mouse over the Diagnostics window, it will show you information about the pen position, pressure, tilt, etc.
+* As you move your mouse over the Diagnostics window, it will show you information about the pen position, pressure, tilt, etc.
 
 <figure><img src="../.gitbook/assets/image-000297.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -21,13 +21,13 @@ This diagnostic information is very useful for troubleshooting common issues suc
 * Launch the **Wacom Center**
 * Click **Advanced** on the top right to bring up the **Advanced settings** panel
 * Click **Diagnostics** on the bottom right of the **Advanced settings** panel to show the diagnostics information&#x20;
-* NOTE: The only a portion of the Diagnostics information can be seen at one time, so you will need to vertically scroll that section.
+* NOTE: Only a portion of the Diagnostics information can be seen at one time, so you will need to vertically scroll that section.
 
 <figure><img src="../.gitbook/assets/image-000238.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## XP-Pen PenTablet (v4.x)
 
-* Launcch the XP-Pen **PenTablet** application
+* Launch the XP-Pen **PenTablet** application
 * Click on the **Gear** icon on the left
 * Under **Current device**, click **Diagnostic tool**
 * The **Diagnostic tool** will appear
@@ -40,7 +40,7 @@ This diagnostic information is very useful for troubleshooting common issues suc
 
 ## Huion HuionTablet app
 
-Unfortunately, there is not an equivalent diagnostic tool in the the **HuionTablet** application. Instead Huion has a separate diagnostic tool called the QC tool.
+Unfortunately, there is no equivalent diagnostic tool in the **HuionTablet** application. Instead Huion has a separate diagnostic tool called the QC tool.
 
 As of May 27 2025, I have suggested to Huion that they incorporate some features of their QC tool into the HuionTablet app. I think that would be very helpful.
 

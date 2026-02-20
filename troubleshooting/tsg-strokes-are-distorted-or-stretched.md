@@ -4,7 +4,7 @@
 
 You may notice that you are drawing on your tablet and your shapes become distorted on your monitor. For example, squares become rectangles and circles become ovals.
 
-This distortion or stretching happens because the active area of the tablet (the part that senses the pen does that have the same aspect ratio as your display. Don't worry this can be easily fixed.
+This distortion or stretching happens because the active area of the tablet (the part that senses the pen) does not have the same aspect ratio as your display. Don't worry, this can be easily fixed.
 
 <figure><img src="../.gitbook/assets/image-000182 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -18,9 +18,9 @@ Note for Android tablet users: Whether this distortion happens depends on the sp
 
 Some combinations "just work" - Huion Frego with Android tablets is a great example.
 
-But other combinations ahce distorted strokes.
+But other combinations have distorted strokes.
 
-If this happens for you, the I suggest that you contact customer support and see if there are any options available for your tablet to handle this case.
+If this happens for you, I suggest that you contact customer support and see if there are any options available for your tablet to handle this case.
 
 ## For pen tablets, always turn on Force Proportions
 

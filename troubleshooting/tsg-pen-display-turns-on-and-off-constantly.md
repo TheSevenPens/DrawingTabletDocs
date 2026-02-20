@@ -2,7 +2,7 @@
 
 ## Symptoms
 
-In this situation when your pen display is plugged in you may see something shone on the screen for a moment and then nothing is shown on the screen for a moment and then it cycles and shows you something on the screen again. This cycling we'll go on forever.
+In this situation, when your pen display is plugged in you may see something shown on the screen for a moment, then nothing is shown on the screen for a moment, then it cycles and shows something on the screen again. This cycling will go on forever.
 
 When it is on you may see that the screen is just showing a field of a solid white color. Or you may see a brand logo or some other indication that the display panel is actually working.
 
@@ -12,7 +12,7 @@ When it is on you may see that the screen is just showing a field of a solid whi
 
 Overwhelmingly the primary cause of this cycling seems to be that the pen display is not getting enough power.
 
-If you're connecting through a three in one cable. Please make sure that the power is coming from an AC adapter instead of from a computer. Often computers can't deliver enough power especially when the pen display is larger than 13 inches.
+If you're connecting through a three-in-one cable, make sure that the power is coming from an AC adapter instead of from a computer. Often computers can't deliver enough power, especially when the pen display is larger than 13 inches.
 
 If you are connecting via USB C cable, then try a different port because maybe it will supply enough power. Or you may have to switch to using a three in one cable.
 
@@ -20,7 +20,7 @@ If you are connecting via USB C cable, then try a different port because maybe i
 
 ### Ambient heat
 
-I've encountered a situation where someone's pen displayperformed this power cycling - but it was not due to being underpowered. It had to deal with how warm the pen display was getting due to the current weather conditions. See: [r/huion - Help\] Kamvas 13 turning on and off repeatedly](https://www.reddit.com/r/huion/comments/1fzfihm/help_kamvas_13_turning_on_and_off_repeatedly/).
+I've encountered a situation where someone's pen display performed this power cycling - but it was not due to being underpowered. It was related to how warm the pen display was getting due to the current weather conditions. See: [r/huion - Help\] Kamvas 13 turning on and off repeatedly](https://www.reddit.com/r/huion/comments/1fzfihm/help_kamvas_13_turning_on_and_off_repeatedly/).
 
 This is EXTREMELY rare and I suspect linked to a defect in that specific tablet. It is not something to expect from a tablet.
 

@@ -4,9 +4,9 @@
 
 * To use your pen display, your computer must be able to detect the display panel inside it.
 * Most of the time, when you plug in your tablet to your computer this will work automatically.
-* Unfortunately, sometimes your computer can sometimes have difficulty.
+* Unfortunately, sometimes your computer can have difficulty.
 
-When you plug in your pen display your computer should detect it as an additional display/monitor in display setttings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
+When you plug in your pen display, your computer should detect it as an additional display/monitor in Display Settings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
 
 <figure><img src="../.gitbook/assets/image-000740.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -21,15 +21,15 @@ Your computer thinks of your pen display as two devices:
 
 The tablet driver is talking to the pen tablet. So reinstalling the driver is likely not going to do anything about this problem.
 
-Your computer's operating system is taking to the display. You need to focus your efforts on why the operating system doesn't think the display in the tablet exists.
+Your computer's operating system is talking to the display. You need to focus your efforts on why the operating system doesn't think the display in the tablet exists.
 
-Also reinstalling tablet drivers can't hurt, reinstalling them multiple times is not going to change anything.
+Also, while reinstalling tablet drivers can't hurt, reinstalling them multiple times is not going to change anything.
 
 ## Restart the computer
 
 Sometimes this can trigger the detection
 
-## Check that the cables are plugged in all the ay
+## Check that the cables are plugged in all the way
 
 This is a very common mistake.
 
@@ -49,7 +49,7 @@ See: [https://support.apple.com/en-tm/guide/mac-help/mchla25b377d/mac](https://s
 
 ## Using NVIDIA Rigorous Display Detection
 
-If your computer is not even detecting the existence of the display, and it has an NVIDIA GPU, the NVIDIA Control Panel have a feature called **Rigorous Display Detection** which help.
+If your computer is not even detecting the existence of the display, and it has an NVIDIA GPU, the NVIDIA Control Panel has a feature called **Rigorous Display Detection** which can help.
 
 * Open the **NVIDIA Control Panel**
 * Navigate to **Display > Set up multiple displays >  Select the displays you want to use**&#x20;
@@ -67,15 +67,15 @@ If your computer is not even detecting the existence of the display, and it has 
 
 ## Use Intel Graphics Command Center to detect your display
 
-If your computer is a laptop or similar device that has an embedded Intel GPU, on Windows you can use the Intel Graphics Commend Center app to potentially detect additional displays.
+If your computer is a laptop or similar device that has an embedded Intel GPU, on Windows you can use the Intel Graphics Command Center app to potentially detect additional displays.
 
-You can download the Intel Graphics Comment Center from the Microsoft Store.
+You can download the Intel Graphics Command Center from the Microsoft Store.
 
-## Use a another port of the same type
+## Use another port of the same type
 
 Suppose you are using an HDMI port, there may be multiple HDMI ports on your computer. Try the other ones.
 
-## Use a another port of a different type
+## Use another port of a different type
 
 For example, if you are using HDMI, try DisplayPort instead.
 

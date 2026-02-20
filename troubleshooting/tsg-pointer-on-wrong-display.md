@@ -2,7 +2,7 @@
 
 ## Overview
 
-If your pen is working on your tablet, but it is moving the pointer on the wrong display it is an easy problem to fix. Usually this is a problem with pen tablets (screenless tablets) but it can also occur with pen displays
+If your pen is working on your tablet but it is moving the pointer on the wrong display, it is an easy problem to fix. Usually this is a problem with pen tablets (screenless tablets) but it can also occur with pen displays.
 
 ## Summary of fix
 
@@ -12,13 +12,13 @@ Overall: You need to go to your tablet driver and change which display the table
 
 For Wacom:
 
-* For pen tablets: In the **Wacom Tablet Properties** app, it will be under the **Mapping** tab, the **Calibration** tab
+* For pen tablets: In the **Wacom Tablet Properties** app, it will be under the **Mapping** tab or the **Calibration** tab
 * For pen displays:
   * In the **Wacom Center** app > **Advanced** > **Advanced Settings** > change **Assigned display** to your tablet&#x20;
 
 For Huion:
 
-* In the **HuionTablet** app, it will be under the a tab called **Working Area**
+* In the **HuionTablet** app, it will be under a tab called **Working Area**
 
 For XP-Pen:
 

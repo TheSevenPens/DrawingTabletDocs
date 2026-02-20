@@ -10,7 +10,7 @@ pnputil /enum-devices /connected /drivers > %USERPROFILE%/Documents/devices.txt
 explorer "%USERPROFILE%/Documents"
 ```
 
-These command will create two files in your documents folder:
+These commands will create two files in your documents folder:
 
 * drivers.txt
 * devices.txt&#x20;

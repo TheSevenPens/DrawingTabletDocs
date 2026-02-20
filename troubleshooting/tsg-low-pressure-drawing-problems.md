@@ -24,11 +24,11 @@ And many pens that exhibit even severe pressure stability problems when they're 
 
 ### Point the nib away from the direction the pen is moving
 
-There is an interaction the direction the pen is moving and the direction the nib is pointing.
+There is an interaction between the direction the pen is moving and the direction the nib is pointing.
 
 If you point the nib TOWARD the direction the pen is moving that means the pen may pick up more of the surface texture which can translate into pressure readings that are bouncing around a lot.
 
-Instead try pointing the nib AWAY from the direction of travel. In general I found that this produces less weird pressure artifacts.
+Instead, try pointing the nib AWAY from the direction of travel. In general, I found that this produces fewer weird pressure artifacts.
 
 <div align="left"><figure><img src="../.gitbook/assets/image-000296.png" alt="" width="563"><figcaption></figcaption></figure></div>
 

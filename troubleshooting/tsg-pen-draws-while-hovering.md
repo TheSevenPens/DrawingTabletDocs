@@ -2,7 +2,7 @@
 
 ## Overview
 
-Normally, your pen should only draw or "click" when you press down on the tablet. if it's always drawing even while you are hovering (not touching the tablet) then something is very wrong.
+Normally, your pen should only draw or "click" when you press down on the tablet. If it's always drawing even while you are hovering (not touching the tablet), then something is very wrong.
 
 This is a very common problem people run into. Sometimes it happens the first time they start using the tablet and sometimes only after years have passed.
 
@@ -40,5 +40,5 @@ In the tablet driver, try dragging the lower left point of the pressure curve to
 
 **If nothing helps**
 
-If the problem continues, then [Contacting support](../basics/contacting-support.md).
+If the problem continues, then contact support: [Contacting support](../basics/contacting-support.md).
 

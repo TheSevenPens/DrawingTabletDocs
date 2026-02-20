@@ -16,13 +16,13 @@ When you attach a device that supports touch input, by default Windows will map 
 * Click on the display that corresponds to your pen display
 * Enable "Make this my main display"
 
-## Option #2: Configure Windows to send touch input to the a different display
+## Option #2: Configure Windows to send touch input to a different display
 
 * Open **Control Panel**
 * Find and open **Tablet PC Settings** (you can search for it in the Control Panel search bar)
 * In **Tablet PC Settings**, under **Display** > **Configure** tab, click **Setup**
 * Select **Touch input**
-* On the screen you'll be asked to follow some instructions to identify which display touch should go it. Follow those instructions. The procedure will flow like this:
+* On the screen you'll be asked to follow some instructions to identify which display touch should go to. Follow those instructions. The procedure will flow like this:
   * One of the screens will go all white
   * If that is the screen where you want to have touch go to, then touch the screen
   * If it isn't, then hit ENTER to try a different screen. In turn that screen will go white and the process repeats&#x20;

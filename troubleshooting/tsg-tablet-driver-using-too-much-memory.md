@@ -2,7 +2,7 @@
 
 ## Summary
 
-Occasionally you might see a tablet driver consume a VAST amount of RAM - perhaps Gigabytes - when your are looking at memory usage through tools Task  Manager on Windows or Acivity Monitor on MacOS. This is NOT normal.
+Occasionally you might see a tablet driver consume a VAST amount of RAM - perhaps gigabytes - when you are looking at memory usage through Task Manager on Windows or Activity Monitor on MacOS. This is NOT normal.
 
 ## Typical memory usage
 
@@ -13,7 +13,7 @@ Here are more typical values for Wacom for example
 
 ## Abnormal memory usage
 
-Any values in the hundred of MBs or GBs is very unusual.
+Any values in the hundreds of MBs or GBs are very unusual.
 
 ## Which brand of drivers are affected?
 

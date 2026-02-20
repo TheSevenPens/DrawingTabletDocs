@@ -2,7 +2,7 @@
 
 ## Overview
 
-This will manifest as a vertical or horizontal bands that the pen seems to ignore. These bands will extend across the full active area of the tablet.
+This will manifest as vertical or horizontal bands that the pen seems to ignore. These bands will extend across the full active area of the tablet.
 
 ## Examples
 
@@ -32,7 +32,7 @@ Again, this is usually a hardware issue that cannot be fixed. But it is worth tr
 * Test tablet with another computer
 * Check if it happens with multiple applications
 * Check if it happens in the pressure test region of the tablet driver
-* If the problem persists, [Contacting support](../basics/contacting-support.md).
+* If the problem persists, contact support: [Contacting support](../basics/contacting-support.md).
 
 ## Reddit threads
 

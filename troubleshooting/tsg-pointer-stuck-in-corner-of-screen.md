@@ -17,12 +17,12 @@ Sometimes this clears up the problem.
 
 ## Other things to try
 
-* Temporarily change the active area to only a portion of its default size. Then change to back to use the a larger area on the tablet.&#x20;
+* Temporarily change the active area to only a portion of its default size. Then change it back to use a larger area on the tablet.&#x20;
   * 7P: This worked for me once
 * Change the resolution of your screen to a smaller resolution then back to the original resolution.
 * If you are using more than one monitor, switch between extend and duplicate modes for the desktop.
 * If you are using Microsoft Windows,  then [DIAG: Testing with Windows PNP drawing tablet drivers](diag-testing-with-windows-pnp-drawing-tablet-drivers.md) to see if the problem happens in that case.
-* If you have a pen display, it likely has a calibration feature. Start the and complete the calibration process to see if that addresses the issue.&#x20;
+* If you have a pen display, it likely has a calibration feature. Start and complete the calibration process to see if that addresses the issue.&#x20;
 
 ## If nothing works
 

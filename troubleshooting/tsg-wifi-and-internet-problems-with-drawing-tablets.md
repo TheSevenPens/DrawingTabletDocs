@@ -8,7 +8,7 @@ One cause of WiFi problems is [Electromagnetic Interference](../guides/general/e
 
 
 
-The cause of this is not clear but here are some discussion threads that might help
+The cause of this is not clear, but here are some discussion threads that might help.
 
 https://superuser.com/questions/820693/wi-fi-turns-off-when-usb-device-is-plugged-in&#x20;
 \

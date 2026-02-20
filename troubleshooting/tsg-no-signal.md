@@ -43,7 +43,7 @@ For some tablets, the NO SIGNAL message is accompanied by a POWER SAVING message
 
 ## Tablet drivers
 
-In general, messing around the tablet drivers WILL NOT HELP. Don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very, very unlikely to help the NO SIGNAL problem.
+In general, messing around with the tablet drivers WILL NOT HELP. Don't bother reinstalling, upgrading, changing tablet drivers. While I do recommend having the latest drivers generally, it is very, very unlikely to help the NO SIGNAL problem.
 
 ## Things to verify
 
@@ -59,7 +59,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 
 If your computer doesn't see the display from the tablet, it will not send a video signal to it. Follow these troubleshooting steps: [TSG: computer does not detect display](tsg-display-detection.md)
 
-## Verify that your operating system is trying to use the display.
+## Verify that your operating system is trying to use the display
 
 Sometimes your operating system knows the display is there, but it is deliberately not sending a display signal to it.
 
@@ -108,7 +108,7 @@ Your computer may have multiple HDMI ports, try different ones.
 
 In general, connect via the GPU HDMI ports instead of motherboard HDMI ports.
 
-more here: [Motherboard HDMI vs GPU HDMI ports](../guides/connecting/connecting-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
+More here: [Motherboard HDMI vs GPU HDMI ports](../guides/connecting/connecting-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
 ## USB-C connection options
 
@@ -120,7 +120,7 @@ If your tablet has a USB-C port and your computer has a USB-C port that supports
 
 ## HDMI adapters
 
-If your PC has a DisplayPort or DVI output or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters/).
+If your PC has a DisplayPort or DVI output, or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters/).
 
 ## Issues with HDMI Adapters
 
