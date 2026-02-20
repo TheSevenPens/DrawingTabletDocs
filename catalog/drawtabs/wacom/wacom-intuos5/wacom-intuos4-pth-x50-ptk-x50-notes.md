@@ -1,4 +1,4 @@
-# Wacom Intuos4 (PTH-x50 and PTK-x50) notes
+# Wacom Intuos4 (PTH-x50/PTK-x50) notes
 
 ## Name
 

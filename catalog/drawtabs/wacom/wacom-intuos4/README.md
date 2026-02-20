@@ -11,7 +11,7 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 * Release year: 2009
 * Intuos pro generation: 4th gen
 * Preceded by: [Wacom Intuos3](../wacom-intuos3.md)
-* Succeeded by: [Wacom Intuos5](../wacom-intuos5/)
+* Succeeded by: [Wacom Intuos5](../wacom-intuos5.md)
 * User manuals
   * [User manual for PTK-540WL](https://support.wacom.asia/sites/default/files/manuals_brochures/intuos4-wireless-en.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5993373))
 * Last supported driver
