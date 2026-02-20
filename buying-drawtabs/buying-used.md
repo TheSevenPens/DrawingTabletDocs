@@ -105,8 +105,8 @@ A used tablet's surface might be nearly pristine or it might show significant we
 
 More here:
 
-* [Surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
-* [Surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)
+* [Surface wear on pen tablets](../guides/maintaining-drawtabs/surface-wear-pen-tablets.md)
+* [Surface wear on pen displays](../guides/maintaining-drawtabs/surface-wear-pen-displays.md)
 
 ## Pens
 
@@ -119,7 +119,7 @@ If you need to buy a pen or you break your pen, be aware that:
 * Replacement pens can be incredibly hard to find on the used market.
 * On the used market, sellers rarely sell the pen by itself. You may even have to purchase another tablet just to get a compatible pen. I've personally had to do this.
 
-More here: [Replacing a pen](../guides/maintaining-your-drawing-tablet/replacing-a-pen.md)
+More here: [Replacing a pen](../guides/maintaining-drawtabs/replacing-pen.md)
 
 ## Bite marks on pens
 

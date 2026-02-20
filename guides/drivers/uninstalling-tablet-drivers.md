@@ -2,16 +2,16 @@
 
 ## Overview
 
-Just as they are installed, tablet drivers can also be uninstalled.&#x20;
+Just as they are installed, tablet drivers can also be uninstalled.
 
-Normally, you would only be interested in uninstalling a tablet driver if you don't plan to to use your drawing tablet again. However, uninstalling/re-installing is a common troubleshooting technique so it is useful to be familiar with the process.&#x20;
+Normally, you would only be interested in uninstalling a tablet driver if you don't plan to to use your drawing tablet again. However, uninstalling/re-installing is a common troubleshooting technique so it is useful to be familiar with the process.
 
 ## Windows uninstall process
 
-### **Windows**&#x20;
+### **Windows**
 
 * Steps
-  * Go to **Start** > **Apps** > Installed apps&#x20;
+  * Go to **Start** > **Apps** > Installed apps
     * On earlier version of Windowss, search for "Add Remove Programs" and then uninstall apps
   * Locate the applivation for your tablet brand
   * Click on it and select to uninstall
@@ -26,23 +26,22 @@ Some tablet drivers leave bits of themselves installed, even after an uninstalla
 
 ### Starting the uninstall process from the driver
 
-Even though I normally use the standard operating system methods to start the uninstall process, for some tablet brands, you can launch the uninstall process from the driver app itself.&#x20;
+Even though I normally use the standard operating system methods to start the uninstall process, for some tablet brands, you can launch the uninstall process from the driver app itself.
 
 ## MacOS uninstall process
 
 Wacom
 
-* Search for **Wacom Tablet Utility** 
+* Search for **Wacom Tablet Utility**&#x20;
 * Under **Tablet Software** click **Uninstall**
 
 Resources
 
-* [Wacom - How do I uninstall and re-install the Wacom driver on Mac OS for a Pen Tablet, Pen Display, or Pen Computer? ](https://support.wacom.com/hc/en-us/articles/1500006264581-How-do-I-uninstall-and-re-install-the-Wacom-driver-on-Mac-OS-for-a-Pen-Tablet-Pen-Display-or-Pen-Computer)
-* [Huion - How to Uninstall Version 15 Driver (MacOS)](https://support.huion.com/en/support/solutions/articles/44002222326-how-to-uninstall-version-15-driver-macos-)&#x20;
-* [Huion - How to Uninstall the HUION MAC Driver V13 or V14 Properly](https://support.huion.com/en/support/solutions/articles/44001164144-how-to-uninstall-the-huion-mac-driver-v13-or-v14-properly)&#x20;
+* [Wacom - How do I uninstall and re-install the Wacom driver on Mac OS for a Pen Tablet, Pen Display, or Pen Computer?](https://support.wacom.com/hc/en-us/articles/1500006264581-How-do-I-uninstall-and-re-install-the-Wacom-driver-on-Mac-OS-for-a-Pen-Tablet-Pen-Display-or-Pen-Computer)
+* [Huion - How to Uninstall Version 15 Driver (MacOS)](https://support.huion.com/en/support/solutions/articles/44002222326-how-to-uninstall-version-15-driver-macos-)
+* [Huion - How to Uninstall the HUION MAC Driver V13 or V14 Properly](https://support.huion.com/en/support/solutions/articles/44001164144-how-to-uninstall-the-huion-mac-driver-v13-or-v14-properly)
 
 ## Resources
 
-* [Huion - How to Uninstall Version 15 Driver (Windows)](https://support.huion.com/en/support/solutions/articles/44002136887-how-to-uninstall-version-15-driver-windows-)&#x20;
+* [Huion - How to Uninstall Version 15 Driver (Windows)](https://support.huion.com/en/support/solutions/articles/44002136887-how-to-uninstall-version-15-driver-windows-)
 *
-

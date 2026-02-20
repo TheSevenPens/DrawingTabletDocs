@@ -7,13 +7,13 @@ Nib wears down due to friction caused by the nib moving against the tablet surfa
 Two changes will be visible in your nibs over time:
 
 * The nib wear get shorter
-* The nib may flatten out - creating a essentially a sharper edge&#x20;
+* The nib may flatten out - creating a essentially a sharper edge
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000155.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Examples
 
-Below you can see the wear on an Wacom Art Pen nib which has been used on a Wacom Intuos Pro Large (PTH-860) surface after two weeks.&#x20;
+Below you can see the wear on an Wacom Art Pen nib which has been used on a Wacom Intuos Pro Large (PTH-860) surface after two weeks.
 
 <div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image-000164.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -21,9 +21,9 @@ Below you can see the wear on an Wacom Art Pen nib which has been used on a Waco
 
 ## Surface texture
 
-Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [Surface texture](../../core-features/surface-texture.md).&#x20;
+Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [Surface texture](../../core-features/surface-texture.md).
 
-The nib wears down as you use it on a table surface. But a plastic table surface can also wear down from repeated exposer to the nib. And so, the tablet surface can become smoother over time. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [Surface wear on pen tablets](surface-wear-on-pen-tablets.md)&#x20;
+The nib wears down as you use it on a table surface. But a plastic table surface can also wear down from repeated exposer to the nib. And so, the tablet surface can become smoother over time. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [Surface wear on pen tablets](surface-wear-pen-tablets.md)
 
 ## Heavy-handed drawing
 
@@ -60,5 +60,4 @@ Here's some videos related to this topic:
 * Xencelabs - [When Do I Need to Change The Nib on My Pen?](https://www.youtube.com/watch?v=s7n0Sene2SQ) Oct 20, 2025
 * Mink -[ Tips for increasing your Pen Nibs’ lifespan](https://youtu.be/t2nJ4k4YJl0) Jul 9, 2021
 * Aaron Rutten - [When to CHANGE Drawing Tablet Pen Nibs](https://youtu.be/iI6X41Jhm9g) Dec 25, 2020
-* Aaron Rutten - [Wearing Down Nibs & Tablet Scratches](https://youtu.be/Ws_gXgdmKX0)  Feb 27, 2015
-
+* Aaron Rutten - [Wearing Down Nibs & Tablet Scratches](https://youtu.be/Ws_gXgdmKX0) Feb 27, 2015

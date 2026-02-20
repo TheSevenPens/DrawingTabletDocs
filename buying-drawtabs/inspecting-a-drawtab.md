@@ -20,9 +20,9 @@ Then install any applications you need. I strongly suggest installing Krita from
 
 Keep mobile phones away — they can interfere with tablet operation.
 
-Make sure there isn't anything magnetic underneath the tablet. Some stands use magnets. Don't place the tablet on top of an electronic device like a laptop.&#x20;
+Make sure there isn't anything magnetic underneath the tablet. Some stands use magnets. Don't place the tablet on top of an electronic device like a laptop.
 
-## **Basic functional testing**&#x20;
+## **Basic functional testing**
 
 ### Connectivity
 
@@ -33,7 +33,7 @@ Make sure there isn't anything magnetic underneath the tablet. Some stands use m
 
 * Check if the pen can draw in all locations on the active area.
   * Draw lots of lines all over the surface. Make sure there are no gaps where you can't draw and that the pen position is accurately tracked.
-* Check if pressure goes from 0% to 100%.&#x20;
+* Check if pressure goes from 0% to 100%.
   * First do this in the driver — it usually has a region where you can test pressure.
   * Then do this in an application. I suggest using Krita.
   * Make sure the pen isn't "stuck" at 0% or 100% pressure.
@@ -45,7 +45,7 @@ Make sure there isn't anything magnetic underneath the tablet. Some stands use m
 ## Pen display pen tracking accuracy
 
 * With the pen held vertically and not moving, check that the pointer is close to the tip of the pen.
-* With the pen held at a 45-degree angle and not moving, check that tilt compensation is working. As you tilt the pen, make sure the pointer doesn't deviate too far from the tip. A little drift is normal. Keeping the pen at 45 degrees, rotate it in a full circle.&#x20;
+* With the pen held at a 45-degree angle and not moving, check that tilt compensation is working. As you tilt the pen, make sure the pointer doesn't deviate too far from the tip. A little drift is normal. Keeping the pen at 45 degrees, rotate it in a full circle.
 * Check that the pen position is tracked accurately over the entire surface of the tablet.
 
 ## **Express keys**
@@ -57,7 +57,7 @@ Make sure there isn't anything magnetic underneath the tablet. Some stands use m
 * Check for stuck or dead pixels.
 * Check for basic color and brightness.
 * All tablets have some pointer lag — it's usually very noticeable on pen displays. Verify that you're OK with the amount this display has.
-* All pen displays have some minor edge and corner inaccuracy in pen tracking. Check how much there is and whether you're OK with it.&#x20;
+* All pen displays have some minor edge and corner inaccuracy in pen tracking. Check how much there is and whether you're OK with it.
 * Verify that you're OK with the anti-glare sparkle on the screen. Some people are very sensitive to this.
 * Verify that the display does not have a color tint on the edges. More here: [Color tint on edges of display](../guides/pen-displays/color-tint-on-edges-of-display.md).
 
@@ -65,7 +65,7 @@ Make sure there isn't anything magnetic underneath the tablet. Some stands use m
 
 Take your pen and move it around the surface.
 
-There should be no rough patches and no cuts or scratches deep enough to feel through the pen. More here:&#x20;
+There should be no rough patches and no cuts or scratches deep enough to feel through the pen. More here:
 
-* [Surface wear on pen tablets](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-tablets.md)
-* [Surface wear on pen displays](../guides/maintaining-your-drawing-tablet/surface-wear-on-pen-displays.md)&#x20;
+* [Surface wear on pen tablets](../guides/maintaining-drawtabs/surface-wear-pen-tablets.md)
+* [Surface wear on pen displays](../guides/maintaining-drawtabs/surface-wear-pen-displays.md)

@@ -8,7 +8,7 @@ An overview of the brands and my take on some of them are here: [Brands](drawtab
 
 #### FAQ: Is iPad better than a drawing tablet?
 
-&#x20;Read : [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md)
+Read : [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md)
 
 #### FAQ: Can I use a drawing tablet with my iPad or iPhone?
 
@@ -20,7 +20,7 @@ YES, It is possible, but be prepared for potential limitations. Read more here: 
 
 #### FAQ: What size drawing tablet should I get?
 
-It really depends on a lot of factors.&#x20;
+It really depends on a lot of factors.
 
 * For pen tablets - I recommend a MEDIUM size (about 11")
 * For pen displays - I recommend a MEDIUM size (about 16") though many start off with a 13" and I personally prefer a 22"
@@ -39,7 +39,7 @@ More here: [Choosing the right size for a drawing tablet](buying-drawtabs/choosi
 
 #### FAQ: Should I get a pen tablet or pen display?
 
-There is no single right answer. Each has pros and cons. More here: [Pen tablets vs pen displays](buying-drawtabs/pen-tablets-vs-pen-displays.md)&#x20;
+There is no single right answer. Each has pros and cons. More here: [Pen tablets vs pen displays](buying-drawtabs/pen-tablets-vs-pen-displays.md)
 
 ## Pen Displays
 
@@ -57,11 +57,11 @@ This is temporary phenomena called [**Image Persistence**](https://en.wikipedia.
 
 #### FAQ: Can I use a pen display without plugging in the HDMI cable?
 
-Answer: YES. More here: [Using a pen display as a pen tablet](guides/customizing/using-a-pen-display-as-a-pen-tablet.md)&#x20;
+Answer: YES. More here: [Using a pen display as a pen tablet](guides/customizing/using-a-pen-display-as-a-pen-tablet.md)
 
 #### FAQ: How do I make my pen display mirror what is on my monitor?
 
-See this: [Mirroring or extending your desktop to a pen display](guides/customizing/mirroring-or-extending.md)&#x20;
+See this: [Mirroring or extending your desktop to a pen display](guides/customizing/mirroring-or-extending.md)
 
 #### FAQ: How do I enable mouse mode on a pen display?
 
@@ -91,7 +91,7 @@ See: [Surface protection](catalog/accessories/surface-protectors/)
 
 #### FAQ: What should I do if I spilled water on my tablet or pen?
 
-See this guide: [Dealing with water damage](guides/maintaining-your-drawing-tablet/dealing-with-water-damage.md)
+See this guide: [Dealing with water damage](guides/maintaining-drawtabs/dealing-with-water-damage.md)
 
 ## Pens
 
@@ -111,7 +111,7 @@ You just need to buy a pen of the SAME EXACT MODEL and it will work with your ta
 
 #### FAQ: What do I do if a driver no longer supports my tablet?
 
-See: [TSG: driver no longer supports a drawing tablet](troubleshooting/tsg-driver-no-longer-supports-a-drawing-tablet.md) &#x20;
+See: [TSG: driver no longer supports a drawing tablet](troubleshooting/tsg-driver-no-longer-supports-a-drawing-tablet.md)
 
 #### FAQ: Can I have two tablet drivers from different manufacturers installed at the same time?
 

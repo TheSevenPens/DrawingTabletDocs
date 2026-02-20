@@ -1,6 +1,6 @@
 # Texture erosion on pen tablets
 
-## Overview&#x20;
+## Overview
 
 The surfaces of a pen tablet usually have some texture applies to prevent drawing on them from feeling "slippery".
 
@@ -11,7 +11,7 @@ As you drag your pen on the surface you will eventually notice two forms of text
 * thin or thick marks
 * broad areas where the texture has been worn off
 
-For more examples of surface wear and how to minimize it go here: [Surface wear on pen tablets](surface-wear-on-pen-tablets.md).
+For more examples of surface wear and how to minimize it go here: [Surface wear on pen tablets](surface-wear-pen-tablets.md).
 
 ## Examples
 
@@ -23,7 +23,7 @@ Some texture erosion marks aren't even caused by then pen. Other objects that co
 
 <figure><img src="../../.gitbook/assets/image-000268.png" alt=""><figcaption></figcaption></figure>
 
-Here is an example of broad area texture erosion on a Wacom Intuos Pro PTH-860. The overall area can be uniformly smooth/shiny or smooth/shiny in patches.&#x20;
+Here is an example of broad area texture erosion on a Wacom Intuos Pro PTH-860. The overall area can be uniformly smooth/shiny or smooth/shiny in patches.
 
 <figure><img src="../../.gitbook/assets/image-000345.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,9 +37,7 @@ The texture erosion can be very subtle.
 
 <figure><img src="../../.gitbook/assets/image-000324.png" alt=""><figcaption></figcaption></figure>
 
-
-
-Below is an example of deliberately trying to erode the texture over a wide area by moving the pen back and forth over an area. Notice how much of the texture is gone.&#x20;
+Below is an example of deliberately trying to erode the texture over a wide area by moving the pen back and forth over an area. Notice how much of the texture is gone.
 
 <figure><img src="../../.gitbook/assets/image-000258.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,5 +47,4 @@ Texture erosion is typically benign. While it is unattractive and sometimes visi
 
 ### More examples of texture erosion
 
-[https://www.reddit.com/r/wacom/comments/144a6lk/is\_my\_wacom\_intous\_pro\_m\_okay/](https://www.reddit.com/r/wacom/comments/144a6lk/is_my_wacom_intous_pro_m_okay/)&#x20;
-
+[https://www.reddit.com/r/wacom/comments/144a6lk/is\_my\_wacom\_intous\_pro\_m\_okay/](https://www.reddit.com/r/wacom/comments/144a6lk/is_my_wacom_intous_pro_m_okay/)

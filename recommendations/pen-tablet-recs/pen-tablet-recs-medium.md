@@ -1,7 +1,7 @@
 # Pen tablet recommendations (MEDIUM)
 
 {% hint style="warning" %}
-### Before you purchase
+#### Before you purchase
 
 * Read [Beginner's guide to drawing tablets](../../basics/beginners-guide.md)
 * Review these [Buying tips](../../buying-drawtabs/buying-tips.md)

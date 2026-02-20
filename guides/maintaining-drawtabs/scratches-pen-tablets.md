@@ -2,11 +2,11 @@
 
 ## Overview of surface wear on pen tablets
 
-Scratches are a form of permanent damage. Depending on how deep the scratch is, it can affect your drawing experience. For more examples of surface wear and how to minimize it go here: [Surface wear on pen tablets](surface-wear-on-pen-tablets.md).
+Scratches are a form of permanent damage. Depending on how deep the scratch is, it can affect your drawing experience. For more examples of surface wear and how to minimize it go here: [Surface wear on pen tablets](surface-wear-pen-tablets.md).
 
 Below is an example of some scratches that while ugly, do not interfere with the drawing experience. Small scratches are also hard to see sometime and greatly affected by the lighting conditions.
 
-Some of what you see is also a false scratch. See: [False scratches](false-scratches.md)&#x20;
+Some of what you see is also a false scratch. See: [False scratches](false-scratches.md)
 
 <figure><img src="../../.gitbook/assets/image-000330.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,6 +24,6 @@ Deeper and larger scratches are also possible. This can definitely affect your d
 
 ## Extreme damage
 
-Dropping sharp objects onto the surface of a pen tablet can result in big changes. The crater below was formed by an accidental dropping of scissors from a height of about 6" above the pen tablet.&#x20;
+Dropping sharp objects onto the surface of a pen tablet can result in big changes. The crater below was formed by an accidental dropping of scissors from a height of about 6" above the pen tablet.
 
 <figure><img src="../../.gitbook/assets/image-000320.png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@ Here is an example:
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 
-Pens have sensitive components. Dropping them can permanently damage the pen. More here: [Avoid dropping your pen](avoid-dropping-your-pen.md)
+Pens have sensitive components. Dropping them can permanently damage the pen. More here: [Avoid dropping your pen](avoid-dropping-pen.md)
 
 ## <mark style="color:red;">Dop not place excessive pressure on your pen tip!</mark>
 
@@ -39,18 +39,18 @@ Keep water away from your tablet and pen. If you get them wet, consult this guid
 
 ## Cleaning your tablet
 
-Periodically, clean your tablet. Some people recommend lightly cleaning your pen displays before you start drawing. More here: [Cleaning a drawing tablet](cleaning-a-drawing-tablet.md).
+Periodically, clean your tablet. Some people recommend lightly cleaning your pen displays before you start drawing. More here: [Cleaning a drawing tablet](cleaning-drawtabs.md).
 
 ## Storing pen safely
 
-In general store your pens so that you avoid pressure on your nibs. More here: [Storing your pen](storing-your-pen.md).
+In general store your pens so that you avoid pressure on your nibs. More here: [Storing your pen](storing-pen.md).
 
 ## Surface wear
 
 The surface of your tablet will be in contact with your pen, that contact and the friction that comes from it will cause some wear. It's good for you to understand what this wear will look like and how you can control it. Read the two documents below.
 
-* [Surface wear on pen tablets](surface-wear-on-pen-tablets.md)
-* [Surface wear on pen displays](surface-wear-on-pen-displays.md)
+* [Surface wear on pen tablets](surface-wear-pen-tablets.md)
+* [Surface wear on pen displays](surface-wear-pen-displays.md)
 
 There are options to protect the surface from damage. See: [Surface protection](../../catalog/accessories/surface-protectors/).
 
@@ -64,7 +64,7 @@ See: [Transporting your drawing tablet](transporting-your-drawing-tablet.md) for
 
 Monitor your nibs and replace then when they are getting too worn down. Nibs that are worn down to flat surface may be scratching up your tablet. See more here: [Nib wear](nib-wear.md)
 
-To remove a nib see this guide: [Removing a nib](removing-the-nib-from-a-pen.md)
+To remove a nib see this guide: [Removing a nib](removing-nib.md)
 
 ## Don't void your warranty
 
