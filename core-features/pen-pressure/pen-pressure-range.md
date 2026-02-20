@@ -10,7 +10,7 @@ A wide pressure range is very desirable. It contributes a lot to a good pressure
 
 ## Landscape
 
-Consider this diagram to be a DRAFT. it will evolve as I learn more.
+Consider this diagram to be a DRAFT. It will evolve as I learn more.
 
 I think the pressure categories here (EXCELLENT, VERY GOOD, etc) are reasonable.
 
@@ -26,7 +26,7 @@ But be aware, that for a specific pen there can be significant differences for I
 
 ## **Considerations**
 
-* Pens, even of the same model, vary in how their pressure handling
+* Pens, even of the same model, vary in their pressure handling
 * Drivers can potentially affect IAF.
 
 ## Resources

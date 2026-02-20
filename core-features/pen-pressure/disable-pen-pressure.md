@@ -6,11 +6,11 @@ Pen pressure information is always sent from the tablet to the tablet driver and
 
 There are several options you can pursue depending on which tablet you have and what you want to accomplish.
 
-## The need for turning of pressure
+## The need for turning off pressure
 
 However, sometimes when drawing it can be useful to turn off pressure. For example:
 
-* Some people want to draw ONLY when they press a button on the pen. This may be because this find it difficult to keep hovering the pen until they are ready to draw.
+* Some people want to draw ONLY when they press a button on the pen. This may be because they find it difficult to keep hovering the pen until they are ready to draw.
 * Some people use the pen as a mouse replacement and find tapping with the pen difficult to produce a click. They also just want to rely on a pen button to indicate clicks.
 
 ## **OPTION 1** Turn off pressure in the tablet driver
@@ -40,7 +40,7 @@ Drawing apps that use brushes may let you control how pressure affects the brush
 
 ## OPTION 3 Use a flat pressure curve
 
-In some applications you can completely flatten the pressure curve. This allows you to have the pressure report. This means the pressure is constant and will not result in the brush changing due to pressure.
+In some applications you can completely flatten the pressure curve. This means the pressure is constant and will not result in the brush changing due to pressure.
 
 ![](<../../.gitbook/assets/image-000398.png>)
 

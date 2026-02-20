@@ -1,15 +1,15 @@
 # Tilt affects pressure
 
 {% hint style="info" %}
-This section has nothing to do with using tilt to draw strokes. This refers only how the tilt of the pen affects pressure detection.
+This section has nothing to do with using tilt to draw strokes. This refers only to how the tilt of the pen affects pressure detection.
 {% endhint %}
 
 ## Overview
 
-The pen's physical tilt angle effects how pressure behaves.&#x20;
+The pen's physical tilt angle affects how pressure behaves.&#x20;
 
-* When holding the pen vertically, the the pen is the most sensitive to pressure.&#x20;
-* When holding the pen tilted, the pen is less sensitive it is pressure.
+* When holding the pen vertically, the pen is the most sensitive to pressure.&#x20;
+* When holding the pen tilted, the pen is less sensitive to pressure.
 
 This is a NORMAL behavior of drawing tablet pens.
 
@@ -26,7 +26,7 @@ For more information about how pressure is detected: [EMR pressure detection](..
 
 ## How you might notice it
 
-When you draw as stroke with the pen held vertically you might see a thicker stroke, while at an angle you will notice a slightly thinner stroke.&#x20;
+When you draw a stroke with the pen held vertically you might see a thicker stroke, while at an angle you will notice a slightly thinner stroke.&#x20;
 
 ## This can be useful
 

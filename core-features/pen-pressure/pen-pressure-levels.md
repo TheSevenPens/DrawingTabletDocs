@@ -4,7 +4,7 @@
 
 Conceptually, a drawing tablet takes the pressure range and divides the range up into segments - each segment is a pressure level.
 
-The number of pressure levels NOT decided by the pen. It is ultimately determined by the tablet itself. It can be the case that a tablet decides to have 4K pressure levels with one pen model but 8K pressure levels with another pen model.
+The number of pressure levels is NOT decided by the pen. It is ultimately determined by the tablet itself. It can be the case that a tablet decides to have 4K pressure levels with one pen model but 8K pressure levels with another pen model.
 
 ## How many pressure levels do you need?
 

@@ -1,8 +1,8 @@
 # Pen pressure response
 
-he pressure response of a pen describes the behavior of a pen with regard to pressure.
+The pressure response of a pen describes the behavior of a pen with regard to pressure.
 
-The pen measures of physical force at its tip. Information about the physical force is sent to the tablet and then translated into a logical pressure value. The pressure response is the relationship between that physical pressure and the logical press.
+The pen measures physical force at its tip. Information about the physical force is sent to the tablet and then translated into a logical pressure value. The pressure response is the relationship between that physical pressure and the logical pressure.
 
 <figure><img src="../../.gitbook/assets/image-000622 (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -16,21 +16,21 @@ One thing that is generally found among EMR - is that the shape of the pressure 
 
 <figure><img src="../../.gitbook/assets/image-000624 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-If we need to change the pressure response of a pen. We have to apply a pressure curve.
+If we need to change the pressure response of a pen, we have to apply a pressure curve.
 
 <figure><img src="../../.gitbook/assets/image-000625.jpg" alt=""><figcaption></figcaption></figure>
 
 A pressure curve modifies a pressure response. You could think of it as creating a new pressure response. In the example above the pressure curve that we apply to the original pressure response has created a new pressure response which is much more linear.
 
-I like to think pressure responses and pressure curves as a game of resource allocation - where we are trying to the physical pressure range in useful ways across the logical pressure range.
+I like to think of pressure responses and pressure curves as a game of resource allocation - where we are trying to distribute the physical pressure range in useful ways across the logical pressure range.
 
 The reasons we want to think about this allocation intentionally is because it can give us three potential things:
 
 * a better drawing experience
 * we might be able to solve problems while we're drawing or even address or mitigate some hardware problems
-* and also it's a way of getting some creative effects four our brush strokes
+* and also it's a way of getting some creative effects for our brush strokes
 
-This pressure response is similar to that of a Wacom pro pen 2 (KP-504E). It has that typical bowed up shape. The one thing that separates it from many other pens pressure responses it goes extremely far on the X axis because it has an extremely wide pressure range.
+This pressure response is similar to that of a Wacom pro pen 2 (KP-504E). It has that typical bowed up shape. The one thing that separates it from many other pens' pressure responses is that it goes extremely far on the X axis because it has an extremely wide pressure range.
 
 There are two interesting things about how physical pressure is allocated in this specific pressure response.
 
@@ -48,7 +48,7 @@ This can make it feel like it's hard to control the width of your stroke when yo
 
 At the higher end of this pressure response we encounter an over allocation of physical pressure to logical pressure. About 50% of the physical pressure range is allocated to only about 10% of the logical pressure range.
 
-This means that big changes in physical pressure produce small changes in lot pressure which produce small changes in the width of a stroke.
+This means that big changes in physical pressure produce small changes in logical pressure, which produce small changes in the width of a stroke.
 
 This can make it seem like you're pressing very hard but you aren't seeing your stroke size increase or decrease by much.
 
@@ -62,4 +62,4 @@ To be clear I am not saying that linear is the best shape for a pressure respons
 
 Here you can see how a specific pressure curve takes the original pressure response and shifts it to a more linear shape. I'll show you this example just to help illustrate how much you might have to bend the pressure curve to get a linear response.
 
-And keep in mind again that the pressure response shown is for specific pen. This pressure curve may not have the same effect on different pens.
+And keep in mind again that the pressure response shown is for a specific pen. This pressure curve may not have the same effect on different pens.

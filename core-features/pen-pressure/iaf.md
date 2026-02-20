@@ -10,7 +10,7 @@ Generally, people want lower IAF.
 
 ## Details
 
-* IAF is measured in "gram-force" units (gf) . Though you may see it very often described in "grams".
+* IAF is measured in "gram-force" units (gf). Though you may see it very often described in "grams".
 * IAF is determined by the pen hardware, not the tablet.
 * More info: [Pen pressure](./)&#x20;
 
@@ -20,7 +20,7 @@ Generally, people want lower IAF.
 
 ## Initial activation force (IAF)
 
-A lower IAF is good because it allows you to draw finer details better. To give you a better sense of what these values mean, I've ranked IAF below based on feedback I've received and what work for me.&#x20;
+A lower IAF is good because it allows you to draw finer details better. To give you a better sense of what these values mean, I've ranked IAF below based on feedback I've received and what works for me.&#x20;
 
 <table><thead><tr><th width="154.5999755859375">IAF Rating</th><th width="134.79998779296875">IAF Range</th><th>Comments</th></tr></thead><tbody><tr><td>EXCELLENT</td><td>&#x3C;=1gf</td><td>Many modern Wacom pens have an IAF of &#x3C;= 1gf </td></tr><tr><td>GREAT</td><td>1gf to 2gf</td><td>Only a couple of pens are in this range</td></tr><tr><td>GOOD</td><td>2gf to 3.5gf</td><td>Most modern EMR pens have an IAF of around 3gf.</td></tr><tr><td>OK</td><td>3.5gf and 5gf</td><td>This is tolerable. Something that would be typical of a consumer-level pen.</td></tr><tr><td>BAD</td><td>≥ 5gf </td><td>Most people would not enjoy using such a pen.</td></tr></tbody></table>
 
@@ -28,7 +28,7 @@ Note that, some people have much stronger opinions about IAF. For example, some 
 
 ## IAF through the years
 
-Very low IAF is not new. Wacom has been making pens for decades that have excellent low IAF. Their professional pen have had low IAF for a long time.
+Very low IAF is not new. Wacom has been making pens for decades that have excellent low IAF. Their professional pens have had low IAF for a long time.
 
 Here are some examples from Kuuube's measurements (using Open Tablet Driver) from his [Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit?gid=1134075895#gid=1134075895).
 
@@ -38,7 +38,7 @@ Here are some examples from Kuuube's measurements (using Open Tablet Driver) fro
 
 Some people REALLY need that EXCELLENT IAF of <1gf.&#x20;
 
-Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't effect me with the kind of art I create.
+Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't affect me with the kind of art I create.
 
 ## Changing the IAF
 
@@ -59,17 +59,17 @@ First, as the pressure sensing mechanism in a pen gets more sensitive to enable 
 
 ### Effectively increasing IAF with the pressure curve
 
-To compensate for these kinds of effects you, You might encounter a tablet that has a pressure dead zone deliberately created by the manufacturer. This dead zone ignores a little bit of that lower pressure so that these kinds of strange artifacts are avoided.
+To compensate for these kinds of effects, you might encounter a tablet that has a pressure dead zone deliberately created by the manufacturer. This dead zone ignores a little bit of that lower pressure so that these kinds of strange artifacts are avoided.
 
 * Note that depending on which tablet you have the pressure dead zone might be visible to you in the pressure curve that you see in the tablet driver.
 * And also the dead zone might be implemented in the driver but it is not shown to you.
-* And of course some tell the drivers don't implement default dead zone at all.
+* And of course some tablet drivers don't implement a default dead zone at all.
 
 More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-dead-zones.md)
 
 ## Wispy tails on strokes
 
-another thing that happens when you're dealing with very low initial activation force is that it can affect the shape of your strokes at the very beginning or ends. For example it can often leave little wispy tails at the beginning or end of a stroke.  So in some cases you might want to create a little bit of a dead zone in your driver to avoid those wispy tails.
+Another thing that happens when you're dealing with very low initial activation force is that it can affect the shape of your strokes at the very beginning or end. For example it can often leave little wispy tails at the beginning or end of a stroke.  So in some cases you might want to create a little bit of a dead zone in your driver to avoid those wispy tails.
 
 In some pens I've also noticed that having an extremely low IAF can cause the pen to register pressure for just one moment longer after you lift the pen off the tablet. I suspect this is due to the mechanics of a nib that is moving the pen having to overcome some friction. And so for just a moment as you lift off the tablet the very sensitive pressure mechanism is still detecting the nib pushing into it. This can create the same wispy tail effect.
 

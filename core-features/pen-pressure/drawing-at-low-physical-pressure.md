@@ -6,7 +6,7 @@ Ideally when you're drawing with an EMR pen, smooth changes to physical pressure
 
 In reality at low pressure near the IAF, you can experience some instability where pressure readings might do certain strange things. And this will produce odd artifacts in your strokes.
 
-Often this instability is present in your strokes but may not be noticeable at all especially if your brush size is small (for example 10px). But if you are using very large brush sizes like 100 pixels or 500 pixels that it may be much more obvious.
+Often this instability is present in your strokes but may not be noticeable at all especially if your brush size is small (for example 10px). But if you are using very large brush sizes like 100 pixels or 500 pixels, it may be much more obvious.
 
 ## Prevalence
 
@@ -14,7 +14,7 @@ All drawing tablet pens have some pressure instability near their initial activa
 
 ## Examples
 
-All of the example below were created with the Wacom Intuos Pro 2017 M (PTH-660) with the Wacom Pro Pen 2 (KP-504E).&#x20;
+All of the examples below were created with the Wacom Intuos Pro 2017 M (PTH-660) with the Wacom Pro Pen 2 (KP-504E).&#x20;
 
 * Application: Krita
 * Brush: Ink3 Gpen, null pressure curve, 500px brush
@@ -32,7 +32,7 @@ All of the example below were created with the Wacom Intuos Pro 2017 M (PTH-660)
 * The movement of your wrist or elbow on the tablet or the desk as your hand moves or rotates can get picked up by the pressure sensor.
 * It's very hard for a human to hold a consistent physical pressure.
 * Pens are more sensitive to pressure as they come closer to a vertical position.
-* Depending on the direction of pen travel the direction of the physical tilt of the pen can create odd interactions between the nib of the pen and the surface of the pen tablet.
+* Depending on the direction of pen travel, the physical tilt of the pen can create odd interactions between the nib of the pen and the surface of the pen tablet.
 
 ## Addressing these problems
 

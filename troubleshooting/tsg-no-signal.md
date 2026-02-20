@@ -2,16 +2,16 @@
 
 ## Overview
 
-The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen display. Most often you can fix this issue. But it can be challenging to diagnose because so many possible factors involved.
+The "NO SIGNAL" message is a VERY COMMON experience for people who have a pen display. Most often you can fix this issue. But it can be challenging to diagnose because so many possible factors are involved.
 
 <figure><img src="../.gitbook/assets/image-000583.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
 
-Your pen display is connected to your to your computer for two reasons :
+Your pen display is connected to your computer for two reasons:
 
-* to send to data the computer - this allows the pen to work
+* to send data to the computer - this allows the pen to work
 * to receive a video signal from the computer
 
-NO SIGNAL means that the pen display is NOT RECEIVNG the video signal from the computer.
+NO SIGNAL means that the pen display is NOT RECEIVING the video signal from the computer.
 
 ## Background information (<mark style="color:$danger;">WATCH THESE VIDEOS!!!</mark>)
 
@@ -51,27 +51,27 @@ In general, messing around the tablet drivers WILL NOT HELP. Don't bother reinst
 
 Presumably, your computer already has one screen, so when you plug in your tablet it should at least recognize that there are two screens (one coming from the pen display).
 
-In your operating system's **Display Settings**, you should see two displays. And one of them should be your tablet's display
+In your operating system's **Display Settings**, you should see two displays. And one of them should be your tablet's display.
 
 | Windows 11                                                                  | MacOS (Ventura)                          |
 | --------------------------------------------------------------------------- | ---------------------------------------- |
 | <img src="../.gitbook/assets/image-000739.png" alt="" data-size="original"> | ![](../.gitbook/assets/image-000552.png) |
 
-If your computer doesn't see the display from the tablet , it will not send a video signal to it. Follow these troubleshooting steps: [TSG: computer does not detect display](tsg-display-detection.md)
+If your computer doesn't see the display from the tablet, it will not send a video signal to it. Follow these troubleshooting steps: [TSG: computer does not detect display](tsg-display-detection.md)
 
-## Verify that you operating system is trying to use the display.
+## Verify that your operating system is trying to use the display.
 
-Sometimes you operating system knows the display is there, but it is deliberately not sending a display signal to it.
+Sometimes your operating system knows the display is there, but it is deliberately not sending a display signal to it.
 
 For example, in Windows for the display in your tablet, Windows might be configured to "show desktop only on Display \<X>" - change it to one of the other options that will use the tablet display.
 
 ### Verify that the pen display can receive an HDMI signal
 
-Try connecting your pen display to another source of HDMI input. This can be anything: another PC, a laptop, a XBOX, a camera, anything that sends a signal via an HDMI port.
+Try connecting your pen display to another source of HDMI input. This can be anything: another PC, a laptop, an Xbox, a camera, anything that sends a signal via an HDMI port.
 
 ### Verify that your computer can send an HDMI signal
 
-Try connecting a monitor the the same HDMI port you want to use with your pen display.
+Try connecting a monitor to the same HDMI port you want to use with your pen display.
 
 ### Verify cable connections
 
@@ -84,29 +84,29 @@ Verify that your cables are fully connected.
 
 * Follow ALL these steps in order. Do NOT skip any steps.
   * Turn off the tablet using the **power button**
-  * Disconnect ALL cables from the tablet. ALL cables. Not just the a power cable - ALL the cables.
+  * Disconnect ALL cables from the tablet. ALL cables. Not just a power cable - ALL the cables.
   * Wait. (30 seconds to several minutes)
   * Re-attach all the cables
   * Turn on the tablet.
 * Variations to try
-  * Some people recommend to disconnect power, then hold the tablet power button down for long time (30 seconds), and then reconnect.
+  * Some people recommend disconnecting power, then holding the tablet power button down for a long time (30 seconds), and then reconnecting.
   * Some people recommend that you try leaving the tablet disconnected for an extended period of time - like 30 minutes before you reconnect.
 
-## HDMI connect options
+## HDMI connection options
 
 ### The HDMI cable goes to your computer
 
 The HDMI cable from your tablet GOES to your computer.
 
-Do not connect the HDMI to your monitor. Monitors do NOT send HDMI signals they only receive them. So connecting your pen display to your monitor will not work.
+Do not connect the HDMI to your monitor. Monitors do NOT send HDMI signals; they only receive them. So connecting your pen display to your monitor will not work.
 
-### Use a different HDMI ports on your computer
+### Use a different HDMI port on your computer
 
 Your computer may have multiple HDMI ports, try different ones.
 
 ### GPU HDMI vs motherboard HDMI
 
-In general connect via the GPU HDMI ports instead of motherboard HDMI ports
+In general, connect via the GPU HDMI ports instead of motherboard HDMI ports.
 
 more here: [Motherboard HDMI vs GPU HDMI ports](../guides/connecting/connecting-pen-display/motherboard-hdmi-vs-gpu-hdmi-ports.md).
 
@@ -120,20 +120,20 @@ If your tablet has a USB-C port and your computer has a USB-C port that supports
 
 ## HDMI adapters
 
-if your PC has a DisplayPort or DVI output or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters/).
+If your PC has a DisplayPort or DVI output or a USB-C port that supports DP alt mode, try an adapter. More here: [Using HDMI adapters with pen displays](../guides/pen-displays/using-hdmi-adapters/).
 
 ## Issues with HDMI Adapters
 
 Sometimes adapters themselves can be the source of the NO SIGNAL problem.
 
-* Try a different HDMI adapter .
+* Try a different HDMI adapter.
 * Try NOT using an HDMI adapter.
 
 ## HDMI Splitters
 
-HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. more here: [Using HDMI splitters with pen displays](../guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
+HDMI Splitters are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. More here: [Using HDMI splitters with pen displays](../guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
 
-* Try connecting WIHOUT an HDMI splitter
+* Try connecting WITHOUT an HDMI splitter
 
 ## Try using your pen display as your only display
 
@@ -142,7 +142,7 @@ HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL pr
 
 ## Check if there is any difference when using mirror vs extend for your desktop
 
-* Typically you PC will already have one monitor attached to it. So the pen display will be the second screen.
+* Typically your PC will already have one monitor attached to it. So the pen display will be the second screen.
 * You have two options in your operating system:
   * Mirror the contents of your desktop across both screens. This means they will show the same thing.
   * Extend the contents of your desktop across both screens. This means that the screens will show different things.
@@ -152,7 +152,7 @@ HDMI Splitters are are also sometimes a bit "flaky" and can cause a NO SIGNAL pr
 
 GPUs usually have multiple ports for sending a display signal. However, sometimes not all of them can be used at the same time.
 
-Suppose your graphics card has 4 physical HDMI outputs. It's possible your card only supports using 3 of them at the same time. And so if you plug in the to the 4th port, you may get a no signal issue.
+Suppose your graphics card has 4 physical HDMI outputs. It's possible your card only supports using 3 of them at the same time. And so if you plug in to the 4th port, you may get a no signal issue.
 
 Read the documentation for your graphics card to verify how many it supports.
 
@@ -172,7 +172,7 @@ Typically pen displays only go up to 60Hz.
 
 If your computer recognizes that a display is attached but you are still getting no signal, try changing the Resolution the computer is using for the display.
 
-First try a very low resolution first and then build up to higher resolutions.
+Start with a very low resolution and then build up to higher resolutions.
 
 ## Get the tablet to work with another computer then reattach to your computer
 
@@ -184,7 +184,7 @@ The reason this process might work is not clear. It could be because depowering 
 
 ## Wacom One 2019 (DTC-133) cable orientation
 
-The Wacom One 2019 (DTC-133) is very sensitive to the orientation of the how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works, is when the cable sticks out to left side of the Wacom one.
+The Wacom One 2019 (DTC-133) is very sensitive to the orientation of how the 3-in-1 cable is plugged into its USB-C port. Usually the orientation that works is when the cable sticks out to the left side of the Wacom One.
 
 ## Tablet firmware updates
 
@@ -194,7 +194,7 @@ IMPORTANT: Don't install firmware updates on the general hope they will improve 
 
 ## Possible triggers
 
-This is one of the most surprising things about the NO SIGNAL problem is that it can occur to an existing working system. It's happened to me.
+One of the most surprising things about the NO SIGNAL problem is that it can occur on an existing working system. It's happened to me.
 
 Here's what can trigger it
 
