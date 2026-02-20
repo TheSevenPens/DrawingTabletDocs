@@ -22,9 +22,10 @@ If you want to see the full set recommendations go here: [Recommendations](../)
 ## GOOD
 
 * One by Wacom Small (CTL-472) [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md) NO TILT
-* Wacom Intuos Small (CTL-4100) [Wacom Intuos](../../catalog/drawtabs/wacom/wacom-intuos.md) NO TILT
-* XP-Pen Deco M (IT850) [XP-Pen Deco](../../catalog/drawtabs/xppen/xppen-deco/) [no wireless]
-* XP-Pen Deco MW (IT850B) [XP-Pen Deco](../../catalog/drawtabs/xppen/xppen-deco/)
+* Wacom Intuos Small (CTL-4100) [Wacom Intuos (CTL-x100) notes](../../catalog/drawtabs/wacom/wacom-intuos/) NO TILT
+* XP-Pen Deco M (IT850) \[no wireless]
+* XP-Pen Deco MW (IT850B)&#x20;
+
 ## AVOID
 
 * Wacom One S (CTC-4110WL) [Wacom One 2023 pen tablets (CTC-x110WL) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md)

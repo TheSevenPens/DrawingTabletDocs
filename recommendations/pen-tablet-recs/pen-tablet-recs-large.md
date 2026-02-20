@@ -17,7 +17,7 @@ If you want to see the full set recommendations go here: [Recommendations](../)
 
 ## VERY GOOD
 
-* XP-Pen Deco Pro XLW GEN2 (MT1592B) [XP-Pen Deco Pro GEN2](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/)
+* XP-Pen Deco Pro XLW GEN2 (MT1592B) [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../../catalog/drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md)
 
 ## GOOD
 
