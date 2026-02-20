@@ -1,4 +1,4 @@
-# TSG: Pen not drawing in vertical or horizontal bands
+# TSG: Pen skipping vertical or horizontal bands
 
 ## Overview
 
@@ -6,17 +6,13 @@ This will manifest as vertical or horizontal bands that the pen seems to ignore.
 
 ## Examples
 
-If normal strokes look like this:
-
-![](<../.gitbook/assets/image-000147.png>)
-
 Then missing horizontal bands will look like this:
 
-![](<../.gitbook/assets/image-000146.png>)
+![](../.gitbook/assets/image-000146.png)
 
 And missing vertical bands will look like this:
 
-![](<../.gitbook/assets/image-000148.png>)
+![](../.gitbook/assets/image-000148.png)
 
 ## Causes
 
@@ -36,5 +32,5 @@ Again, this is usually a hardware issue that cannot be fixed. But it is worth tr
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/](https://www.reddit.com/r/wacom/comments/13ls32y/can_someone_tell_me_whats_going_on_here/)&#x20;
+* [https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/](https://www.reddit.com/r/wacom/comments/13ls32y/can_someone_tell_me_whats_going_on_here/)
 *
