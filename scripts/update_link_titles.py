@@ -73,9 +73,13 @@ def update_link_titles(root_dir, dry_run=False):
             content = full_path.read_text(encoding='utf-8')
             original_content = content
 
+            custom_link_pattern = re.compile(r'(\\?)\[(.*?)\]\((.*?)\)(\s*\]?)')
+
             def replace_link(match):
-                text = match.group(1)
-                raw_link = match.group(2)
+                prefix = match.group(1)
+                text = match.group(2)
+                raw_link = match.group(3)
+                suffix = match.group(4)
                 
                 # Check if it's an image link (e.g., prefix is '!')
                 if match.start() > 0 and match.string[match.start() - 1] == '!':
@@ -122,13 +126,21 @@ def update_link_titles(root_dir, dry_run=False):
                     
                 title = get_title(target_abs)
                 
-                if title and title != text:
-                    # Update link to new title!
-                    return f"[{title}]({raw_link})"
+                is_malformed = (prefix == '\\') or (']' in suffix)
+                title_to_use = title if (title and title != "Unknown Title") else text
+                
+                if (title and title != text) or is_malformed:
+                    # Update link to new title or fix malformed structure!
+                    if ']' in suffix:
+                        clean_suffix = ""
+                    else:
+                        clean_suffix = suffix
+                        
+                    return f"[{title_to_use}]({raw_link}){clean_suffix}"
                     
                 return match.group(0)
 
-            updated_content = LINK_PATTERN.sub(replace_link, content)
+            updated_content = custom_link_pattern.sub(replace_link, content)
             
             if updated_content != original_content:
                 if not dry_run:
