@@ -14,7 +14,7 @@ Currently "Intuos" refers to a consumer line of Wacom pen tablets. However, it "
 
 For those professional Intuos tablets go here:
 
-* [Wacom Intuos5](../wacom-intuos5.md)
+* [Wacom Intuos5](../wacom-intuos5/)
 * [Wacom Intuos4](../wacom-intuos4/)
 * [Wacom Intuos3](../wacom-intuos3.md)
 * [Wacom Intuos2](../wacom-intuos2.md)

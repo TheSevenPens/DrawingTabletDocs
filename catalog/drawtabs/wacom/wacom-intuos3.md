@@ -13,7 +13,7 @@ description: PTZ-x30 series
 * User manual
   * [Intuos 3 User Manual](https://cdn.wacom.com/u/productsupport/manuals/intuos3/user's%20manual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5708085))
 * Last supported driver
-  * Windows: 6.3.15-3 22 released 2015-12
+  * Windows: 6.3.15-3 released 2015-12-22
   * MacOS: 6.3.15-3 released on 2015-12-21
 
 ## Models
