@@ -36,6 +36,11 @@ STEP 2 - I gently wipe down the tablet with a damp cloth/microfiber cloth, or to
 * OPTION 1: If the tablet is a little greasy I may put a bit of soapy water on the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You shouldn't have any water drops coming off the cloth.
 * OPTION 2: Since September 2024, for pen displays I've switched from soapy water to using a screen cleaning sprays (WOOSH and MISTIFY). more here: [Screen cleaning sprays](../../catalog/accessories/screen-cleaning-sprays.md).
 
+## Keeping your tablet clean
+
+* If you find that your hands deposit oil from your skin, consider using a [drawing glove](../../catalog/accessories/drawing-gloves.md).
+* To avoid dust or other particulate matter from landing on your tablet, consider putting a cover over the tablet when you are not using it.
+
 ## Other cleaning guides
 
 * [Aaron Rutten - How to Safely CLEAN Your Drawing Tablet](https://youtu.be/S52jjhIcn-c) 2017-09-16
