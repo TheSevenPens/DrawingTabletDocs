@@ -25,7 +25,7 @@ If you need cases for your pens: [Pen cases](pen-cases.md)
   * These cases are focused around iPads and similar tablets. They may be useful for small to medium pen tablets. Shop here: [**Moko store on Amazon**](https://www.amazon.com/stores/MoKo/page/2017E8BA-91D3-4C19-B94A-CC40C7866F49?ref_=ast_bln)
 * **Targus Laptop Sleeves**
   * These are meant for laptops but can also work for drawing tablets. These come in several sizes.
-  * Targus 16" Laptop Sleeve - ([https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148](https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148))
+  * Targus 16" Laptop Sleeve - [https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148](https://www.target.com/p/targus-16-34-pulse-slipcase-laptop-sleeve-black-purple/-/A-86228148)
 
 ## Considerations
 

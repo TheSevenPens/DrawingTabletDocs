@@ -109,11 +109,11 @@ More here: [How many pressure levels do you really need?](how-many-pressure-leve
 
 Some reviewers to explore:
 
-* **Teoh on Tech** ([https://www.youtube.com/@teohontech7141](https://www.youtube.com/@teohontech7141)) Teoh has the most in-depth reviews of tablets.
-* **Create Now Sleep Later** ([https://www.youtube.com/c/Createnowsleeplater)](https://www.youtube.com/c/Createnowsleeplater)
-* **Brad Colbow** ([https://www.youtube.com/c/thebradcolbow)](https://www.youtube.com/c/thebradcolbow)
-* **Aaron Rutten** ([https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
-* **Adam Duff** ([https://www.youtube.com/@AdamDuffArt)](https://www.youtube.com/@AdamDuffArt)
+* **Teoh on Tech** [https://www.youtube.com/@teohontech7141](https://www.youtube.com/@teohontech7141) Teoh has the most in-depth reviews of tablets.
+* **Create Now Sleep Later** [https://www.youtube.com/c/Createnowsleeplater)](https://www.youtube.com/c/Createnowsleeplater)
+* **Brad Colbow** [https://www.youtube.com/c/thebradcolbow)](https://www.youtube.com/c/thebradcolbow)
+* **Aaron Rutten** [https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
+* **Adam Duff** [https://www.youtube.com/@AdamDuffArt)](https://www.youtube.com/@AdamDuffArt)
 
 ## Verify the model number, not just the model name
 

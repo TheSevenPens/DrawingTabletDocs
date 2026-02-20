@@ -17,7 +17,7 @@
 
 If you need to replace a pen, find out the model number that is compatible with your tablet. Then order that exact model. If you don't know the model you need, contact support for your drawing tablet.
 
-## Video: Buying compatible pens for your drawing tablet ([https://youtu.be/cKBSpIVeZJk)](https://youtu.be/cKBSpIVeZJk)
+## Video: Buying compatible pens for your drawing tablet [https://youtu.be/cKBSpIVeZJk](https://youtu.be/cKBSpIVeZJk)
 
 {% embed url="https://youtu.be/cKBSpIVeZJk" %}
 

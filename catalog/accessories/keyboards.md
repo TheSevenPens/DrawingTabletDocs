@@ -10,7 +10,7 @@ There are many smaller keyboard available, here are just a few examples.
 
 ### Wacom keyboard
 
-This small keyboard hasn't been in stock for a while. ([https://estore.wacom.com/en-US/wireless-keyboard-us-english-wkt400.html](https://estore.wacom.com/en-US/wireless-keyboard-us-english-wkt400.html))
+This small keyboard hasn't been in stock for a while. [https://estore.wacom.com/en-US/wireless-keyboard-us-english-wkt400.html](https://estore.wacom.com/en-US/wireless-keyboard-us-english-wkt400.html)
 
 ![](../../.gitbook/assets/image-000742.jpg)
 

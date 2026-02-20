@@ -28,7 +28,7 @@ If you want to see the full set recommendations go here: [Recommendations](../)
 * XP-Pen Deco M (IT850) [XP-Pen Deco](../../catalog/drawtabs/xppen/xppen-deco/) \[no wireless]
 * XP-Pen Deco MW (IT850B) [XP-Pen Deco](../../catalog/drawtabs/xppen/xppen-deco/)
 * XP-Pen Deco L (IT1060) [XP-Pen Deco](../../catalog/drawtabs/xppen/xppen-deco/) \[no wireless]
-* XP-Pen Deco LW (IT1060B) [XP-Pen Deco LW (IT1060B) notes](../../catalog/drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)]
+* XP-Pen Deco LW (IT1060B) [XP-Pen Deco LW (IT1060B) notes](../../catalog/drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
 * Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../../catalog/drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)
 * Wacom Intuos Medium (CTL-6100) [Wacom Intuos](../../catalog/drawtabs/wacom/wacom-intuos.md) \[no tilt, no wireless]

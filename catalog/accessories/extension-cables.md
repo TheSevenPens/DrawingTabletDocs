@@ -38,5 +38,5 @@ For example, this extender does NOT go deep enough to fit into a Huion Kamvas 13
 
 ### Links
 
-* Teoh on Tech: Using Extension Cables with Pen Displays or Graphics Tablets ([https://www.youtube.com/watch?v=y7kvIGbnjzo](https://www.youtube.com/watch?v=y7kvIGbnjzo))
+* Teoh on Tech: Using Extension Cables with Pen Displays or Graphics Tablets [https://www.youtube.com/watch?v=y7kvIGbnjzo](https://www.youtube.com/watch?v=y7kvIGbnjzo)
 * [https://www.reddit.com/r/huion/comments/11wvplt/extending\_the\_3\_in\_1\_cable/](https://www.reddit.com/r/huion/comments/11wvplt/extending_the_3_in_1_cable/)

@@ -26,8 +26,8 @@ Many people use tablets **in addition** to other techniques. For example, some p
 
 ## Social
 
-* Kawaii Sensei ([https://x.com/KawaiiSensei\_jp](https://x.com/KawaiiSensei_jp)) - There's lots of practical tips every day.
-* EtheringtonBrothers ([https://x.com/EtheringtonBros](https://x.com/EtheringtonBros)) - More frequent practical tips. And they publish useful printed guidebooks.
+* Kawaii Sensei [https://x.com/KawaiiSensei\_jp](https://x.com/KawaiiSensei_jp) - There's lots of practical tips every day.
+* EtheringtonBrothers [https://x.com/EtheringtonBros](https://x.com/EtheringtonBros) - More frequent practical tips. And they publish useful printed guidebooks.
 
 ## Equipment
 
