@@ -3,7 +3,6 @@
 ## Basics
 
 * Product page: [https://www.xencelabs.com/us/store/accessories/xencelabs-quick-keys-remote](https://www.xencelabs.com/us/store/accessories/xencelabs-quick-keys-remote)&#x20;
-* 7P owns: YES
 
 ## Videos
 
