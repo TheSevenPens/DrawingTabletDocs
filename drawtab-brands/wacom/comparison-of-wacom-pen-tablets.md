@@ -72,7 +72,7 @@ All of the tablets except the Wacom One 2023 tablets have a very very good drawi
 
 ## Pen pressure
 
-Learn more here: [Pen pressure](../../core-features/pen-pressure/)
+Learn more here: [Pen pressure](../../core/pen-pressure/)
 
 2048 **pressure levels** is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.
 
@@ -85,8 +85,8 @@ More than pressure levels, the **pressure range** has a greater impact on your d
 Notes:
 
 * Data for IAF and max pressure measurements independently made by [Kuuube](../../resources/community/kuuube/).
-* Learn more about [Pen pressure](../../core-features/pen-pressure/)
-* Learn more about how [Pen pressure range](../../core-features/pen-pressure/pen-pressure-range.md)
+* Learn more about [Pen pressure](../../core/pen-pressure/)
+* Learn more about how [Pen pressure range](../../core/pen-pressure/pen-pressure-range.md)
 
 ## Drawing features
 
@@ -94,7 +94,7 @@ Notes:
 
 ### Notes on pen tilt
 
-TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [Pen tilt](../../core-features/pen-tilt/)
+TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [Pen tilt](../../core/pen-tilt/)
 
 ## Tablet resolution
 
@@ -122,7 +122,7 @@ Pointer lag is the difference between the physical position of the pen and where
 * Intuos Pro 2017 -> very little pointer lag
 * Intuos Pro 2025 -> very little pointer lag
 
-Learn more here: [Lag](../../core-features/lag/)
+Learn more here: [Lag](../../core/lag/)
 
 ## Accuracy / Diagonal wobble
 

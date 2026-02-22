@@ -108,7 +108,7 @@ This is an effect that can happen with drawing tablet pens also. It is unclear i
 
 ## Initial Activation Force
 
-* To learn more about IAF: [IAF](../../../core-features/pen-pressure/iaf.md) .
+* To learn more about IAF: [IAF](../../../core/pen-pressure/iaf.md) .
 * A lower IAF is better
 * The best pens have an IAF of <1gf. This is considered EXCELLENT.
 * Wacom professional pens have an IAF of <1gf

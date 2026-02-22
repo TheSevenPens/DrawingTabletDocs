@@ -22,13 +22,11 @@ I would generally agree with this feeling. When I want to get a drawing done fas
 
 ## Dealing with your hands
 
-
-
 With a **pen display**, things are natural. You see the pen in the same place the stroke is being drawn - just like when you use pen and paper.
 
 And just like pen-and-paper, your own hand and the pen will block your eyes from seeing the display. The easy solution to this is to reposition your eyes or take advantage of the canvas zoom and rotation features of your drawing app.
 
-With a **pen tablet**, you are looking at a monitor but drawing somewhere else with your hand. Fundamentally this is no different than using a mouse.  So this is kind of a convenience actually since you never have to worry about the positions of your hands. They can be anywhere and they will never block what you see.
+With a **pen tablet**, you are looking at a monitor but drawing somewhere else with your hand. Fundamentally this is no different than using a mouse. So this is kind of a convenience actually since you never have to worry about the positions of your hands. They can be anywhere and they will never block what you see.
 
 ## Adjustment period
 
@@ -42,4 +40,4 @@ Unfortunately without trying a pen tablet it's really difficult to tell if you w
 
 With a pen display, the active are and the screen have the same size. This means the pen will draw exactly where you see it draw.
 
-With a pen tablet, the active area where you raw is separate from the monitor where you see the your strokes. Unless specifically configured in the driver, this will cause your strokes to be distorted. For example if you draw a circle on the tablet it will show up as an oval on the screen. It is easy to fix this problem in the driver. More here: [Active area aspect ratio](../core-features/active-area/active-area-aspect-ratio.md).
+With a pen tablet, the active area where you raw is separate from the monitor where you see the your strokes. Unless specifically configured in the driver, this will cause your strokes to be distorted. For example if you draw a circle on the tablet it will show up as an oval on the screen. It is easy to fix this problem in the driver. More here: [Active area aspect ratio](../core/active-area/active-area-aspect-ratio.md).

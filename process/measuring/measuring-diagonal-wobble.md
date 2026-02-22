@@ -1,6 +1,6 @@
 # Measuring diagonal wobble
 
-I measure [Diagonal wobble](../../core-features/diagonal-wobble.md) using a simple procedure
+I measure [Diagonal wobble](../../core/diagonal-wobble.md) using a simple procedure
 
 ## Resources
 
@@ -10,7 +10,7 @@ I measure [Diagonal wobble](../../core-features/diagonal-wobble.md) using a simp
 
 **Driver** - I use the latest manufacturer driver. For very old tablets that don't have recent drivers, I use OpenTabletDriver.
 
-**Application** - Krita&#x20;
+**Application** - Krita
 
 ## Testing process
 
@@ -18,13 +18,16 @@ I measure [Diagonal wobble](../../core-features/diagonal-wobble.md) using a simp
 * Tablet configuration
   * For pen tablets, set the active area to a single display.
   * For pen tablets, set the driver to match the aspect ratio of the tablet to the display.
-* App configruation
-  * Load the diagonal template image
-  * Set Krita zoom to 100%.
-  * Set Brush to **Ink-2 Fineliner** with default brush settings and set size to 5 pixels.
-  *
+*   App configruation
 
-      <div align="left"><figure><img src="../../.gitbook/assets/image-000400.png" alt="" width="320"><figcaption></figcaption></figure></div>
+    * Load the diagonal template image
+    * Set Krita zoom to 100%.
+    * Set Brush to **Ink-2 Fineliner** with default brush settings and set size to 5 pixels.
+    *
+
+    ```
+    <div align="left"><figure><img src="../../.gitbook/assets/image-000400.png" alt="" width="320"><figcaption></figcaption></figure></div>
+    ```
 * Drawing
   * The template requires 3 sets of lines drawn at different speeds - 3 lines for each speed
   * Draw the line from the lower left to the upper right.
@@ -50,4 +53,3 @@ I measure [Diagonal wobble](../../core-features/diagonal-wobble.md) using a simp
 ## Wobble testing template image
 
 <figure><img src="../../.gitbook/assets/image-000744.png" alt=""><figcaption></figcaption></figure>
-

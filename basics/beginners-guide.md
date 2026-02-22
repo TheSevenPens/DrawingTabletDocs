@@ -69,12 +69,12 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 ## Primary features
 
-* **Tracking pen position** - Tablets detect the position of the tip of the pen relative to the tablet surface. Learn more here: [Pen tracking](../core-features/pen-tracking.md)
+* **Tracking pen position** - Tablets detect the position of the tip of the pen relative to the tablet surface. Learn more here: [Pen tracking](../core/pen-tracking.md)
 * **Tracking pen orientation** - Tablets detect how the pen is rotated relative to the tablet surface.
-  * **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [Pen tilt](../core-features/pen-tilt/). Most, but not all, tablets support tilt.
-  * **Barrel rotation**. - Learn more here: [Pen barrel rotation](../core-features/pen-barrel-rotation.md). This is very rare in tablets and requires pens with special hardware.
-* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [Pen hover](../core-features/pen-hover/)
-* **Pen pressure detection** - The pen detects how hard you are pressing on its tip. Learn more here: [Pen pressure](../core-features/pen-pressure/). All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use.
+  * **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [Pen tilt](../core/pen-tilt/). Most, but not all, tablets support tilt.
+  * **Barrel rotation**. - Learn more here: [Pen barrel rotation](../core/pen-barrel-rotation/). This is very rare in tablets and requires pens with special hardware.
+* **Hover** - Tablets detect the position of the pen even when the pen does not touch the surface of the tablet - usually up to a distance of 10 mm. All drawing tablets support hover. More here: [Pen hover](../core/pen-hover/)
+* **Pen pressure detection** - The pen detects how hard you are pressing on its tip. Learn more here: [Pen pressure](../core/pen-pressure/). All modern pens detect about 8192 levels of pressure. But even 2048 would be enough for any creative use.
 * **Pen buttons** - Pens usually feature two buttons. By default these buttons will act as a left mouse click and a right mouse click. You can configure the buttons to perform other actions. More here: [Pen buttons](../guides/pens/pen-buttons.md)
 * **Wireless delivery of power to the pen** - Drawing tablet pens get their power by being near the tablet itself. They don't even contain batteries. Usually the pen has to be withing abou 10mm for it to get power from the tablet.
 
@@ -83,12 +83,12 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 These are features that are not essential to the drawing experience but may offer additional utility or convenience.
 
 * **Auxiliary inputs** - These are "non-pen" inputs. More here:
-  * One class of inputs includes things like **buttons, dials, touch strips, or rollers** on the tablet. Not all tablets have these kind of inputs, but many do. You can configure these inputs to perform actions like undo, change brush size, change zoom, etc. More here: [Auxiliary inputs](../core-features/expresskeys/)
+  * One class of inputs includes things like **buttons, dials, touch strips, or rollers** on the tablet. Not all tablets have these kind of inputs, but many do. You can configure these inputs to perform actions like undo, change brush size, change zoom, etc. More here: [Auxiliary inputs](../core/expresskeys/)
   * Another class input is **touch** - where the surface of the tablet can detect the touch of your fingers. Only A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [Touch support](../guides/touch-support/)
 
 ## The active area
 
-The active area is the region on the tablet that your draw on. More here: [Active area](../core-features/active-area/).
+The active area is the region on the tablet that your draw on. More here: [Active area](../core/active-area/).
 
 ## Tablet size
 
@@ -114,13 +114,13 @@ See: [App compatibility with drawing tablets](app-compatibility.md)
 
 At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [Nib wear](../guides/maintaining-drawtabs/nib-wear.md)
 
-Tablets almost always come with spare nibs. Some nibs made of different material which provide a different drawing feeling. More here: [Pen nib material](../core-features/pen-nib-material.md).
+Tablets almost always come with spare nibs. Some nibs made of different material which provide a different drawing feeling. More here: [Pen nib material](../core/pen-nib-material.md).
 
 Nibs that come with a tablet may be provided in a separate plastic bag or pouch, may be stored in a pen stand, may be stored inside the pen, etc.
 
 ## Drawing with a tablet vs a mouse
 
-A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [Absolute versus relative positioning](../core-features/active-area/absolute-versus-relative-positioning.md). Using the tablet driver, you can make the tablet and pen work more like a mouse by using [Mouse mode](../core-features/active-area/mouse-mode.md).
+A drawing tablet uses absolute positioning and a mouse uses relative positioning. They behave very differently. More here: [Absolute versus relative positioning](../core/active-area/absolute-versus-relative-positioning.md). Using the tablet driver, you can make the tablet and pen work more like a mouse by using [Mouse mode](../core/active-area/mouse-mode.md).
 
 ## Other topics to explore
 

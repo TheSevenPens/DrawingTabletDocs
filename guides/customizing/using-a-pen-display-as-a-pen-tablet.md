@@ -2,11 +2,11 @@
 
 ## Overview
 
-Occasionally people want to use pen display and use if it were a pen tablet (screenless tablet).&#x20;
+Occasionally people want to use pen display and use if it were a pen tablet (screenless tablet).
 
 They have several reasons
 
-* The display may not work in their pen display&#x20;
+* The display may not work in their pen display
 * They aren't happy with the colors of the display
 * They love drawing on the large tablet and pen displays can be much larger than pen tablets
 
@@ -16,7 +16,7 @@ The good news is that using a pen display like this is **almost always possible*
 
 ## Option 1: Built-in support
 
-Some pen displays have their **power button** configured to effect only the screen. You can power off the tablet, which will turn off the screen, but since the tablet is still connected to the computer it will essentially act just like a pen tablet.&#x20;
+Some pen displays have their **power button** configured to effect only the screen. You can power off the tablet, which will turn off the screen, but since the tablet is still connected to the computer it will essentially act just like a pen tablet.
 
 Not all pen displays are like this. Many have their power button set to turn off everything. So if you turn the tablet off, you wont be able to see anything on it or use the pen.
 
@@ -36,11 +36,11 @@ Unfortunately, MacOS does not have a feature similar to the one found in Windows
 
 ### Pointer lag
 
-Pen tablets have low pointer lag. Pen displays tend have a bit more pointer lag. &#x20;
+Pen tablets have low pointer lag. Pen displays tend have a bit more pointer lag.
 
 Here's what you might notice
 
 * If you use a pen display even if the screen is off, you might feel like to lags a bit more than a typical pen display.
 * However the lag sensation may also be reduced because you have no direct way of comparing the pointer position to the pen's location.
 
-More here: [Lag](../../core-features/lag/)
+More here: [Lag](../../core/lag/)

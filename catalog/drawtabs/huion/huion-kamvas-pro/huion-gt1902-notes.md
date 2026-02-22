@@ -131,12 +131,12 @@ NORMAL - standard for modern pen displays.
 
 **Pen IAF and Max pressure - See** [Huion PW600 series pens](../../../pens/huion-pens/huion-pw600-notes.md)
 
-* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [Pen pressure instability at low pressure](../../../../core-features/pen-pressure/drawing-at-low-physical-pressure.md)
+* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [Pen pressure instability at low pressure](../../../../core/pen-pressure/drawing-at-low-physical-pressure.md)
 * **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 
 ### Tilt compensation
 
-VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [Pen tilt compensation](../../../../core-features/pen-tilt/pen-tilt-compensation.md).
+VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [Pen tilt compensation](../../../../core/pen-tilt/pen-tilt-compensation.md).
 
 ### **Surface texture**
 

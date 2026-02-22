@@ -14,7 +14,7 @@ You can use a pen display like a regular monitor. However, there are a few thing
 
 The VAST majority of pen displays use LCD display panels. Just like any monitor or TV that uses LCD panels you can just keep them on all the time.
 
-I've used multiple pen displays as a second display and leave them on 24/7 and my computers are set to never sleep so they are always showing something.&#x20;
+I've used multiple pen displays as a second display and leave them on 24/7 and my computers are set to never sleep so they are always showing something.
 
 With some LCD panels, If they are showing the same thing on the screen that you many encounter a phenomena called [**Image Persistence**](https://en.wikipedia.org/wiki/Image_persistence). This is normal and is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen_burn-in)).
 
@@ -34,11 +34,11 @@ Specific pen displays I have used this way (each has been continuously turned on
 
 ### Pen displays that use OLED display panels
 
-OLED panels are relatively new to pen displays. They only started appearing in 2024 with the arrival of the Wacom Movink. How long OLED panels can last without issues like burn-in is unknown, but it is widely understood that their lifetime is less than that of an IPS panel. For now, my recommendation is to turn off  OLED pen displays if you are not actively using them.
+OLED panels are relatively new to pen displays. They only started appearing in 2024 with the arrival of the Wacom Movink. How long OLED panels can last without issues like burn-in is unknown, but it is widely understood that their lifetime is less than that of an IPS panel. For now, my recommendation is to turn off OLED pen displays if you are not actively using them.
 
 ## Refresh Rate
 
-Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [Pen display refresh rate](../pen-displays/pen-display-refresh-rate.md)&#x20;
+Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [Pen display refresh rate](../pen-displays/pen-display-refresh-rate.md)
 
 ## Display inputs and cabling
 
@@ -48,7 +48,7 @@ Some pen displays have a variety of inputs. The Wacom Cintiq pro 27 DTH271 is a 
 
 But most modern pen displays now have only USB-C ports - usually two. One for a display signal & data and one for additional power if needed.
 
-See: [Connecting a pen display](../connecting/connecting-pen-display/)&#x20;
+See: [Connecting a pen display](../connecting/connecting-pen-display/)
 
 ## Aspect ratio
 
@@ -56,7 +56,7 @@ Typically monitors have to aspect ratios: 16:9 and 16:10. And there are variety 
 
 Pen displays have much less diversity of aspect ratios. The vast majority of modern pen displays are exactly 16:9. A very small number are 16:10.
 
-Learn more: [Active area aspect ratio](../../core-features/active-area/active-area-aspect-ratio.md)&#x20;
+Learn more: [Active area aspect ratio](../../core/active-area/active-area-aspect-ratio.md)
 
 ## Display panel technology
 
@@ -67,7 +67,7 @@ Monitors and pen displays use various panel tech such as:
 * VA
 * OLED
 
-OLED introduction to pen displays. Starting by around May 2024, we seen the introduction of a few pen displays with OLED panels. The first pen display to use OLED was the Wacom Movink 13 (DTH-135) and the second OLED pen display was the Xencelabs Pen Display 16.&#x20;
+OLED introduction to pen displays. Starting by around May 2024, we seen the introduction of a few pen displays with OLED panels. The first pen display to use OLED was the Wacom Movink 13 (DTH-135) and the second OLED pen display was the Xencelabs Pen Display 16.
 
 ## Display panel brightness
 
@@ -83,14 +83,14 @@ Many pen displays support VESA mounting also. However, the pen displays that are
 
 More here:
 
-* [Monitor arms](../../catalog/accessories/arms/)&#x20;
+* [Monitor arms](../../catalog/accessories/arms/)
 * [VESA](../../technology/vesa.md)
 
 ## Power cabling
 
 Monitors tend to have the normal power cables and adapters.
 
-Modern pen displays may also use normal power adapters. But some support getting power via their USB-C ports. &#x20;
+Modern pen displays may also use normal power adapters. But some support getting power via their USB-C ports.
 
 ## Anti-glare sparkle
 
@@ -98,9 +98,9 @@ It varies quite a bit among pen displays, but often they exhibit more Anti-Glare
 
 ## Speakers
 
-Many monitors come with built-in speakers. They usually sound terrible, but they can be useful. As far as I am aware, no pen displays have speakers.&#x20;
+Many monitors come with built-in speakers. They usually sound terrible, but they can be useful. As far as I am aware, no pen displays have speakers.
 
-## &#x20;Picture-by-picture & Picture-in-picture
+## Picture-by-picture & Picture-in-picture
 
 One of the benefits of supporting multiple display input ports is that it makes it possible to display two or more inputs simultaneously. Many monitors allow this now and it is very useful for very wide monitors. Pen displays do not support this feature.
 
@@ -110,7 +110,7 @@ It's common question whether pen displays would get to hot if they are continual
 
 ## Noise
 
-Monitors are almost always completely silent and don't even have fans. However, some pen displays - notably some Wacom Cintiq Pro models - have fans are are known for fan noise. If you are sensitive to noise research this first.&#x20;
+Monitors are almost always completely silent and don't even have fans. However, some pen displays - notably some Wacom Cintiq Pro models - have fans are are known for fan noise. If you are sensitive to noise research this first.
 
 ## Using the pen display with a laptop
 

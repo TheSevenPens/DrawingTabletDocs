@@ -76,7 +76,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 
 ## How the pen & tablet work with the computer
 
-* Once the tablet driver is installed and the tablet is connected it will detect the pen. It will treat the pen just like a mouse. (except a mouse uses relative positioning and the pen uses absolute positioning. more here: [Absolute versus relative positioning](../core-features/active-area/absolute-versus-relative-positioning.md))
+* Once the tablet driver is installed and the tablet is connected it will detect the pen. It will treat the pen just like a mouse. (except a mouse uses relative positioning and the pen uses absolute positioning. more here: [Absolute versus relative positioning](../core/active-area/absolute-versus-relative-positioning.md))
 * If the pen is in range (about 10mm) of the tablet or touching the tablet , then moving the pen will move the mouse pointer.
   * If the pen is not touching the tablet, it will be like your are not pressing down any mouse buttons
   * if the pen is touching the tablet, it will be like you are holding down the left mouse button
@@ -90,7 +90,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
   * Huion calls this the "Working Area"
   * I will always call it the "active area" because that is the oldest term for it.
 * Go into the driver and and find the active area and get familiar with what it looks like. It's one of the most common things you'll need to adjust.
-* More here: [Active area](../core-features/active-area/)
+* More here: [Active area](../core/active-area/)
 
 ## Pen tablets: map the Active Area to a single display
 
@@ -99,7 +99,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 * By default, they are often mapped to multiple displays.
 * My recommendation is:
   * Map the active area to a single display.
-  * If you want use multiple displays with your pen tablet, use the tablet driver's **display toggle** feature. It lets you switch your active area mapping  between displays by pressing a button on the pen or the tablet. See: [Display toggle](../core-features/active-area/display-toggle.md)
+  * If you want use multiple displays with your pen tablet, use the tablet driver's **display toggle** feature. It lets you switch your active area mapping between displays by pressing a button on the pen or the tablet. See: [Display toggle](../core/active-area/display-toggle.md)
 
 ## Pen tablets: Enable Force Proportions
 
@@ -124,7 +124,7 @@ This over-sensitivity is common to pens, and not unusual. Some people may not ev
 
 If you tablet has additional inputs such as buttons, dials, etc. You can control what they do. Even assign them to do different things per application.
 
-Here are some popular assignments: [Popular bindings for auxiliary inputs](../core-features/expresskeys/popular-bindings.md)
+Here are some popular assignments: [Popular bindings for auxiliary inputs](../core/expresskeys/popular-bindings.md)
 
 ## Windows
 

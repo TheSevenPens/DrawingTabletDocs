@@ -24,7 +24,7 @@ It's hard to pick a winner - their drawing experience is similar but has some ke
 * Support for hover has always been available with the Samsung Galaxy Tab series.
 * Only with certain Apple Pencil models and with certain iPads.
 
-More here: [Pen hover](../../../core-features/pen-hover/)
+More here: [Pen hover](../../../core/pen-hover/)
 
 ## Buttons
 

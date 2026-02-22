@@ -1,9 +1,9 @@
 # Increasing IAF
 
-The IAF is a property of the pen hardware.  There is nothing you can do to lower the IAF
+The IAF is a property of the pen hardware. There is nothing you can do to lower the IAF
 
-HOWEVER, with pressure curves you can effectively increase the IAF. This is done by moving the lower left part of the pressure curve to the right.&#x20;
+HOWEVER, with pressure curves you can effectively increase the IAF. This is done by moving the lower left part of the pressure curve to the right.
 
 <figure><img src="../../.gitbook/assets/image-000533.png" alt="" width="563"><figcaption></figcaption></figure>
 
-More here: [Pressure curve dead zones](../../core-features/pen-pressure/pen-pressure-curves/pressure-curve-dead-zones.md)
+More here: [Pressure curve dead zones](../../core/pen-pressure/pen-pressure-curves/pressure-curve-dead-zones.md)

@@ -42,9 +42,9 @@ Drawing tablet pens are much more sensitive. They have more delicate and sensiti
 
 ## Pointer positioning
 
-Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [Absolute versus relative positioning](../../core-features/active-area/absolute-versus-relative-positioning.md).
+Mice move the pointer through relative positioning while drawing tablets use absolute positioining: [Absolute versus relative positioning](../../core/active-area/absolute-versus-relative-positioning.md).
 
-However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [Mouse mode](../../core-features/active-area/mouse-mode.md).
+However, you can configure the tablet driver to use mouse mode to provide relative positioning which will make it feel more like a mouse. more here: [Mouse mode](../../core/active-area/mouse-mode.md).
 
 ## Aspect ratios
 
@@ -56,7 +56,7 @@ In a a mouse, you can independently move and click. This means you can move the 
 
 The same thing works with drawing tablet pen. But you should realize how it works.
 
-* To move without clicking - you have to hold the pen above the tablet (within a range of about 10mm). This is called hover. more here: [Pen hover](../../core-features/pen-hover/).
+* To move without clicking - you have to hold the pen above the tablet (within a range of about 10mm). This is called hover. more here: [Pen hover](../../core/pen-hover/).
 * To click - you tap down on the tablet with the pen
 * To move AND click at the same time - you press down on the tablet and move the pen. The click lasts as long as you are touching the tablet.
 
