@@ -10,13 +10,13 @@ I don't have any experience with drawing tablets and Linux. However, here are so
 
 ## Wacom support for Linux
 
-Many distros come with Wacom drivers pre-installed. More details here: [Wacom - Are Wacom devices supported under Linux?](https://support.wacom.com/hc/en-us/articles/4418603622295-Are-Wacom-devices-supported-under-Linux)&#x20;
+Many distros come with Wacom drivers pre-installed. More details here: [Wacom - Are Wacom devices supported under Linux?](https://support.wacom.com/hc/en-us/articles/4418603622295-Are-Wacom-devices-supported-under-Linux)
 
-The list of Wacom devices supported on Linux: [https://github.com/linuxwacom/input-wacom/wiki/Device-IDs](https://github.com/linuxwacom/input-wacom/wiki/Device-IDs)&#x20;
+The list of Wacom devices supported on Linux: [https://github.com/linuxwacom/input-wacom/wiki/Device-IDs](https://github.com/linuxwacom/input-wacom/wiki/Device-IDs)
 
 ### Notes on my experience
 
-* I tested several Wacom devices with the built in support of Linux Mint 22.2 Cinnamon.&#x20;
+* I tested several Wacom devices with the built in support of Linux Mint 22.2 Cinnamon.
   * One by Wacom CTL-672 - worked
   * Wacom Intuos Pro Medium 2017 (PTH-66) - worked
   * Wacom Movink 13 - was not recognized
@@ -34,7 +34,7 @@ Xencelabs ships Linux drivers
 
 ## XP-Pen support for Linux
 
-XP-Pen has Linux drivers from&#x20;
+XP-Pen has Linux drivers from
 
 [XP-Pen - How to install XPPen Linux driver on Ubuntu (64 bits)](https://www.xp-pen.com/faq/how-to-install-xppen-linux-driver-on-ubuntu-64-bits.html)
 
@@ -50,7 +50,11 @@ Often, people prefer to use OpenTabletDriver for tablets on Linux. This is espec
 
 ## WINE notes
 
-* A note from [Tablet kitten](../../resources/community/tablet-kitten.md) - WINE builds with wow64 have a broken wintab32&#x20;
+* A note from [Tablet kitten](../../resources/community/tablet-kitten.md) - WINE builds with wow64 have a broken wintab32
+
+## Fedora UI
+
+<div><figure><img src="../../.gitbook/assets/fedora-drawtab-ui (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (5).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Links
 
@@ -59,9 +63,9 @@ Often, people prefer to use OpenTabletDriver for tablets on Linux. This is espec
 * [MossCharmly - HUION Tablets (Kamvas 16 (2.5k) on LINUX (POP\_os)](https://www.youtube.com/watch?v=ibuH-hGkmdI) - 2023-05-13
 * [MossCharmly - Demystifying Linux for Artists](https://www.youtube.com/watch?v=hQ2VpPchETk) - 2024-03-02
 * [MossCharmly - Linux PC Build for Digital Artists](https://www.youtube.com/watch?v=eiLnEUS3r5k) - 2024-03-17
-* [Mindful Technology - Huion Inspiroy H1161 drawing tablet on Debian Linux: install driver & declutter HOME ](https://www.youtube.com/watch?v=kbzlKn3zhrk) - 2023-10-24&#x20;
+* [Mindful Technology - Huion Inspiroy H1161 drawing tablet on Debian Linux: install driver & declutter HOME ](https://www.youtube.com/watch?v=kbzlKn3zhrk)- 2023-10-24
 * [Linuxedo - Wacom Intuos S Wireless | Unboxing and Setting up on Linux Mint](https://www.youtube.com/watch?v=-TBT_l6qwj0) - 2021-01-17
-* [Tony Tascioglu - How to Map a Wacom Tablet to a Single Monitor on Linux](https://www.youtube.com/watch?v=DEdUa5lHZbU) - 2021-01-19&#x20;
+* [Tony Tascioglu - How to Map a Wacom Tablet to a Single Monitor on Linux](https://www.youtube.com/watch?v=DEdUa5lHZbU) - 2021-01-19
 * [Brodie Robertson - Easily Setup Your Wacom Tablet Under Linux](https://www.youtube.com/watch?v=dzplf-0RJDE) - 2021-09-12
 * [Switched to Linux - Wacom Tablets on Linux Mint](https://www.youtube.com/watch?v=stDM3T4Fu5A) 2018-02-27
 
@@ -72,4 +76,4 @@ Often, people prefer to use OpenTabletDriver for tablets on Linux. This is espec
 
 ### Guides for specific apps
 
-* Getting Paint Tool SAI 2 setup on Linux - [https://github.com/TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide)&#x20;
+* Getting Paint Tool SAI 2 setup on Linux - [https://github.com/TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide)
