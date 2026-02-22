@@ -52,9 +52,16 @@ Often, people prefer to use OpenTabletDriver for tablets on Linux. This is espec
 
 * A note from [Tablet kitten](../../resources/community/tablet-kitten.md) - WINE builds with wow64 have a broken wintab32
 
-## Fedora built-in drawing tablet UX
+## Fedora 43 drawing tablet UX
 
 <div><figure><img src="../../.gitbook/assets/fedora-drawtab-ui (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fedora-drawtab-ui (5).png" alt=""><figcaption></figcaption></figure></div>
+
+Features
+
+* Absolute vs relative positioning (mouse mode).
+* Mapping tablet button actions
+* Mapping tablet active area to displays
+* Force proportions - called "Keep aspect ratio"
 
 ## Links
 
