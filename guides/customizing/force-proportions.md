@@ -73,6 +73,11 @@ FP restricts the region of the active area that matches to that of your monitor 
 * There's a drop down on the left side that has three options: **Full Tablet Area**, **Define Portion**, and **Screen Ratio**
 * Select the **Screen Ratio** option
 
+### Linux (Fedora)
+
+* Open **Settings** > **Graphics Tablets**
+* Enable **Keep Aspect Ratio**
+
 ### Companion video
 
 This video goes into great detail about this topic.
