@@ -1,4 +1,4 @@
-# Lowering the IAF
+# Decreasing IAF
 
 ## Overview
 

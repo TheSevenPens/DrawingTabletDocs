@@ -60,7 +60,7 @@ To see which drivers and apps support which shapes see this: [Adjusting pressure
 * [Null pressure curve](null-pressure-curve.md) - a curve that "does nothing"
 * [Pressure curves that constrain output](constraining-pressure-curve-output.md)
 * [Pressure curves that ignore input](constraining-pressure-curve-input.md)
-* [Lowering the IAF](../../../guides/customizing/decreasing-iaf.md)
+* [Lowering the IAF](../../../guides/customizing/lowering-the-iaf.md)
 * [Increasing IAF](../../../guides/customizing/increasing-iaf.md)
 * [Lowering maximum physical pressure](../../../guides/customizing/lowering-maximum-physical-pressure.md)
 

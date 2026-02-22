@@ -42,7 +42,7 @@ Others like (myself included) work fine with a 3gf IAF. I definitely notice the 
 
 ## Changing the IAF
 
-* Lowering IAF - See [Lowering the IAF](../../guides/customizing/decreasing-iaf.md)
+* Lowering IAF - See [Lowering the IAF](../../guides/customizing/lowering-the-iaf.md)
 * Increasing IAF - See [Increasing IAF](../../guides/customizing/increasing-iaf.md)
 
 ## A higher IAF can be useful
