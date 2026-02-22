@@ -152,7 +152,7 @@
     * [Etched glass](guides/maintaining-drawtabs/etched-glass.md)
   * [Customizing your experience](guides/customizing/README.md "Customizing")
     * [Lowering maximum physical pressure](guides/customizing/lowering-maximum-physical-pressure.md)
-    * [Lowering the IAF](guides/customizing/lowering-the-iaf.md "Lowering IAF")
+    * [Decreasing the IAF](guides/customizing/decreasing-iaf.md "Decreasing IAF")
     * [Increasing IAF](guides/customizing/increasing-iaf.md)
     * [TestPage](guides/customizing/testpage.md)
     * [Matching aspect ratios with Force Proportions](guides/customizing/force-proportions.md "Force proportions")

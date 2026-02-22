@@ -1,7 +1,7 @@
 # Pen pressure curves
 
 {% hint style="info" %}
-Before you read this document, read: [Pen pressure response](../pen-pressure-response.md)&#x20;
+Before you read this document, read: [Pen pressure response](../pen-pressure-response.md)
 {% endhint %}
 
 ## Overview
@@ -19,7 +19,7 @@ There are different ways in which components can process the pressure number. Th
 * Pressure processing curves (also called just "pressure curves")
 * Pressure smoothing
 
-This document deals with pressure processing curves.&#x20;
+This document deals with pressure processing curves.
 
 ## Response curve vs processing curve
 
@@ -37,7 +37,7 @@ Thinking of it as a behavior ("how the pen feels")
 
 For example in the Wacom Tablet Properties app it looks like this:
 
-&#x20;![](<../../../.gitbook/assets/image-000256.png>)
+![](../../../.gitbook/assets/image-000256.png)
 
 * The X axis labelled as "Pen pressure" is the logical input pressure
 * The Y axis labelled as "Output" is the output logical pressure
@@ -57,14 +57,13 @@ To see which drivers and apps support which shapes see this: [Adjusting pressure
 
 ## Things you can do with pressure curves
 
-* [Null pressure curve](null-pressure-curve.md) -  a curve that "does nothing"
+* [Null pressure curve](null-pressure-curve.md) - a curve that "does nothing"
 * [Pressure curves that constrain output](constraining-pressure-curve-output.md)
 * [Pressure curves that ignore input](constraining-pressure-curve-input.md)
-* [Lowering the IAF](../../../guides/customizing/lowering-the-iaf.md)
+* [Lowering the IAF](../../../guides/customizing/decreasing-iaf.md)
 * [Increasing IAF](../../../guides/customizing/increasing-iaf.md)
 * [Lowering maximum physical pressure](../../../guides/customizing/lowering-maximum-physical-pressure.md)
 
 ## Driver UX for pressure curves
 
 See [Adjusting pressure curve in tablet driver](driver-pressure-curves.md)
-
