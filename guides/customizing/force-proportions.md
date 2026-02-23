@@ -32,8 +32,8 @@ FP restricts the region of the active area that matches to that of your monitor 
 
 ## Enabling force proportions
 
-### Wacom
-
+{% tabs %}
+{% tab title="Wacom" %}
 #### Wacom tablet properties app: Force proportions
 
 * Launch **Wacom Tablet Properties**
@@ -44,39 +44,43 @@ FP restricts the region of the active area that matches to that of your monitor 
 * Launch **Wacom Center**
 * Navigate to the **Mapping** tab
 * Enable **Force Proportions**
+{% endtab %}
 
-### Huion
-
-* Launch the **HuionTablet** app
-* Go to **Working Area**
-* On the bottom left there is a drop down.
-* Switch the dropdown to **Screen Ratio**.
-
-### Gaomon
-
-* Open the **Gaomon** driver app
-* Go to **Workspace**
-* Select **Screen Ratio**
-
-### XP-Pen
-
+{% tab title="XP-Pen" %}
 * Open the XP-Pen **PenTablet** driver app
 * Go to **Work Area**
 * Go to **Pen Tablet**
 * Select **Proportion**
+{% endtab %}
 
-### Xencelabs
+{% tab title="Gaomon" %}
+* Open the **Gaomon** driver app
+* Go to **Workspace**
+* Select **Screen Ratio**
+{% endtab %}
 
+{% tab title="Xencelabs" %}
 * Open the **Xencelabs** driver app
 * Go to **Device Settings**
 * Navigate to **Tablet to Screen Area Mapping**
 * There's a drop down on the left side that has three options: **Full Tablet Area**, **Define Portion**, and **Screen Ratio**
 * Select the **Screen Ratio** option
+{% endtab %}
 
+{% tab title="Linux" %}
 ### Linux (Fedora)
 
 * Open **Settings** > **Graphics Tablets**
 * Enable **Keep Aspect Ratio**
+{% endtab %}
+
+{% tab title="Huion" %}
+* Launch the **HuionTablet** app
+* Go to **Working Area**
+* On the bottom left there is a drop down.
+* Switch the dropdown to **Screen Ratio**./
+{% endtab %}
+{% endtabs %}
 
 ### Companion video
 
