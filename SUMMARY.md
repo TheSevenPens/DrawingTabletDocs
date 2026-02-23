@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [About Seven](about-sevenpens/README.md)
-  * [Tablet inventory](about-sevenpens/inventory.md)
+* [About Seven](about/README.md)
+  * [Tablet inventory](about/inventory.md)
 * [Basics](basics/README.md)
   * [Beginner's guide to drawing tablets](basics/beginners-guide.md "Beginner's guide")
   * [Types of drawing tablets](basics/types-of-drawtabs/README.md "Types of tablets")

@@ -6,7 +6,7 @@ We would all like to have completely brand new equipment. However, used tablets 
 
 ## My experience with used drawing tablets
 
-I have bought and worked with MANY used drawing tablets — 26 used tablets as of April 2024. You can see the full list here: [Tablet inventory](../about-sevenpens/inventory.md)
+I have bought and worked with MANY used drawing tablets — 26 used tablets as of April 2024. You can see the full list here: [Tablet inventory](../about/inventory.md)
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used. I own many used pen tablets, some over 25 years old that still work.
 * **pen displays** - I have purchased one used pen display.
