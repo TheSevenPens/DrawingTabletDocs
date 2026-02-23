@@ -88,17 +88,17 @@ This video goes into great detail about this topic.
 
 {% embed url="https://youtu.be/9oAvsJk5ESU" %}
 
-## Trade-offs
 
-If you enable FP, you will not be able to take advantage of some of your tablet's full native active area, but BY FAR this is the better alternative than distorted drawing.
-
-<figure><img src="../../.gitbook/assets/image-000464.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Active area loss
+
+If you enable FP, you will not be able to take advantage of some of your tablet's full native active area, but BY FAR this is the better alternative than distorted drawing.
 
 The amount of active area you lose by turning on force proportions varies depending on the specific aspect ratio of tablet and monitor. The more mismatched they are the bigger the loss. For the Wacom Intuos Pro 2017 series with FP on 16:9 monitors the loss can be between 10% to 20%.
 
 Note that if the active areas of the tablet and monitor are the same, then enabling FP does not incur any loss.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## The distortion can be significant without Force Proportions
 
