@@ -22,7 +22,7 @@ If you are beginner, then consider these specific models which are great introdu
 ## **Resources**
 
 * [Drawing tablet buying guide](../buying/)
-* [Brands](../drawtab-brands/)
+* [Brands](../brands/)
 * [Brad Colbow: Best Drawing Tablet By Price](https://youtu.be/nENQ-TLBYvI) 2022-06-20
 * [Aaron Rutten: The 10 Best DRAWING TABLETS of 2022](https://youtu.be/fNy1hnlKxuY) 2022-10-01
 * [Brad Colbow: Best Drawing Tablets for Beginners - What I Recommend](https://youtu.be/Dh49NwMt1yw) 2023-05-08

@@ -65,7 +65,7 @@ Most drawing tablets also detect how the pen is tilted relative to the surface o
 
 ## Brands
 
-Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [Brands](../drawtab-brands/)
+Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. They are the best and also the most expensive. But there are many other brands out there. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [Brands](../brands/)
 
 ## Primary features
 

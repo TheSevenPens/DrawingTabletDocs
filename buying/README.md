@@ -55,10 +55,10 @@ I strongly urge you to read this buying guide and the beginner's guide completel
 
 More here:
 
-* [Brands](../drawtab-brands/)
-* [Choosing a drawing tablet brand](../drawtab-brands/choosing-a-drawing-tablet-brand.md)
+* [Brands](../brands/)
+* [Choosing a drawing tablet brand](../brands/choosing-a-drawing-tablet-brand.md)
 
-If you decide on Wacom and want a pen tablet, read this guide: [Comparison of Wacom pen tablets](../drawtab-brands/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.
+If you decide on Wacom and want a pen tablet, read this guide: [Comparison of Wacom pen tablets](../brands/wacom/comparison-of-wacom-pen-tablets.md). In the future, I'll add a doc covering Wacom pen displays.
 
 ## **Core features**
 

@@ -27,7 +27,7 @@ You can find the comparison between pen tablets and pen displays here: [Pen tabl
 
 There are many tablet brands. I usually stick to talking about and recommending tablets from Wacom, Huion, XP-Pen, and Xencelabs. That's because I have owned many of those tablets and there is a large enough community of users that if you need help, you're likely to find it.
 
-You can read much more about these brands here: [Drawing tablet brands vs digitizers](../drawtab-brands/drawing-tablet-brands-vs-digitizers.md).
+You can read much more about these brands here: [Drawing tablet brands vs digitizers](../brands/drawing-tablet-brands-vs-digitizers.md).
 
 ## Community size
 

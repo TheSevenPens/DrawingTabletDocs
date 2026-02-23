@@ -22,7 +22,7 @@ In particular, you may need to use older drivers. This comes with its own set of
 
 ## Which brands to buy used
 
-Wacom products have always been the most reliable and highest quality. Even going back many years, their models hold up well. Because Wacom professional pen tablets are the very highest quality, they make great choices for buying used. More here: [Brands](../drawtab-brands/)
+Wacom products have always been the most reliable and highest quality. Even going back many years, their models hold up well. Because Wacom professional pen tablets are the very highest quality, they make great choices for buying used. More here: [Brands](../brands/)
 
 ## Used Wacom Intuos professional tablets
 
