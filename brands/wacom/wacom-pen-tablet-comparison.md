@@ -1,4 +1,4 @@
-# Comparison of Wacom pen tablets
+# Wacom pen tablet comparison
 
 ## Overview
 
@@ -6,17 +6,18 @@ Wacom has several separate lines of pen tablets. This document will help you und
 
 * **One by Wacom** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
 * **Intuos** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos)
-* **Wacom One 2013** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
+* **Wacom One 2023** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 * **Intuos Pro 2017** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro-2017)
 * **Intuos Pro** **2025** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
-<figure><img src="../../.gitbook/assets/image-000696.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here (PTH-860, PTH-660, PTH-460) are THE BEST PEN TABLETS EVER MADE.
+If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here are THE BEST PEN TABLETS EVER MADE.
 
-Here are [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
+* [Wacom Intuos Pro 2025 (PTK-x70) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
+* [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
 
-## Wacom One 2023 tablets
+## Wacom One 2023 tablets (CTC-x110WL)
 
 The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [Wacom One 2023 pen displays notes](../../catalog/drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md)
 
