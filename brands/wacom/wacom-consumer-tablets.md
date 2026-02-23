@@ -1,4 +1,8 @@
-# Wacom consumer tablet landscape
+# Wacom consumer tablets
+
+## Overview
+
+<figure><img src="../../.gitbook/assets/Wacom-consumer-tabs.png" alt=""><figcaption></figcaption></figure>
 
 ## Disambiguation: Wacom One vs One by Wacom
 
