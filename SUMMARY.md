@@ -592,6 +592,7 @@
       * [Wacom Bamboo Pen (LP-170) notes](catalog/pens/wacom-pens/wacom-lp170-notes.md "Bamboo Pen (LP-170)")
       * [Wacom Art Marker Pen (ZP-600)](catalog/pens/wacom-pens/wacom-zp600-notes.md "Art Marker Pen (ZP-600)")
       * [Wacom Intuos3 Grip Pen (ZP-501E)](catalog/pens/wacom-pens/wacom-zp501e-notes.md "Intuos3 Grip Pen (ZP-501E)")
+      * [Wacom stroke nib](catalog/pens/wacom-pens/wacom-stroke-nib.md)
     * [Apple pens](catalog/pens/apple-pencil/README.md "Apple")
       * [Apple Pencil notes](catalog/pens/apple-pencil/apple-pencil-notes.md)
     * [Huion pens](catalog/pens/huion-pens/README.md "Huion")
