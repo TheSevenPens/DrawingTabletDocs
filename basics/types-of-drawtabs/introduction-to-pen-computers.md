@@ -2,11 +2,11 @@
 
 ## Overview
 
-**Pen computers** in form factor are essentially laptops with screens you can draw on. However unless 2-in-1 laptops, pen computers are TRUE drawing tablets. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows.&#x20;
+**Pen computers** in form factor are essentially laptops with screens you can draw on. However unless 2-in-1 laptops, pen computers are TRUE drawing tablets. You don't need them to be connected up to a separate computer to work. Because pen computers have a CPU, they are running an operating system and all current pen computers use Microsoft Windows.
 
 ## The reality of pen computers
 
-Some people love using pen computers, but [The case against pen computers](../../buying-drawtabs/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
+Some people love using pen computers, but [The case against pen computers](../../buying/the-case-against-pen-computers.md). Instead, I recommend you choose a mobile computer with pen support.
 
 ## Origin of term "pen computer"
 

@@ -4,8 +4,8 @@
 **Before you purchase:**
 
 * Read [Beginner's guide to drawing tablets](../../basics/beginners-guide.md)
-* Review these [Buying tips](../../buying-drawtabs/buying-tips.md)
-* Look through the [Drawing tablet buying guide](../../buying-drawtabs/)
+* Review these [Buying tips](../../buying/buying-tips.md)
+* Look through the [Drawing tablet buying guide](../../buying/)
 
 If you want to see the full set recommendations go here: [Recommendations](../)
 {% endhint %}

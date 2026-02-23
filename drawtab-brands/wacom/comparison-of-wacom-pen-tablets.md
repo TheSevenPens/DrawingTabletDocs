@@ -46,7 +46,7 @@ The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom
   * Wacom Intuos Pro 2017 Large (PTH-860)
   * Wacom Intuos Pro 2025 Medium (PTK-670)
   * Wacom Intuos Pro 2017 Medium (PTH-660)
-* **Picking the right size** - More information about picking the right size: [Choosing the right size for a drawing tablet](../../buying-drawtabs/choosing-size.md).
+* **Picking the right size** - More information about picking the right size: [Choosing the right size for a drawing tablet](../../buying/choosing-size.md).
 
 ## Pens
 

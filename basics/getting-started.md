@@ -6,7 +6,7 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 
 {% hint style="info" %}
 * If you are new to drawing tablets, first read [Beginner's guide to drawing tablets](beginners-guide.md)
-* If you don't have a drawing tablet: [Drawing tablet buying guide](../buying-drawtabs/)
+* If you don't have a drawing tablet: [Drawing tablet buying guide](../buying/)
 {% endhint %}
 
 ## Find out the tablet's model number

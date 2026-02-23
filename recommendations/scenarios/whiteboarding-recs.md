@@ -2,7 +2,7 @@
 
 ## Scenario
 
-When I "whiteboarding" i include any scenario where you are drawing something for the sake of communicating visually.&#x20;
+When I "whiteboarding" i include any scenario where you are drawing something for the sake of communicating visually.
 
 Example:
 
@@ -15,17 +15,15 @@ If you are new to drawing tablets, read this first: [Beginner's guide to drawing
 
 Also: [Whiteboarding with drawing tablets](../../basics/scenarios/whiteboarding.md)
 
-[Pen tablets vs pen displays](../../buying-drawtabs/pen-tablets-vs-pen-displays.md)
-
-
+[Pen tablets vs pen displays](../../buying/pen-tablets-vs-pen-displays.md)
 {% endhint %}
 
 ## Good news
 
 You don't need a fancy tablet for white boarding
 
-* For pen tablets (screenless tablets) - Any medium size beginner pen tablet will work. See:  See: [Beginner pen tablets](beginner-recs/beginner-pen-tablets.md)
-* For pen displays (screen tablets) -  [Beginner pen displays](beginner-recs/beginner-pen-displays.md)
+* For pen tablets (screenless tablets) - Any medium size beginner pen tablet will work. See: See: [Beginner pen tablets](beginner-recs/beginner-pen-tablets.md)
+* For pen displays (screen tablets) - [Beginner pen displays](beginner-recs/beginner-pen-displays.md)
 
 ## Pen tablet vs Pen display
 

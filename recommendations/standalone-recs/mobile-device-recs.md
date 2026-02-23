@@ -3,16 +3,16 @@
 {% hint style="warning" %}
 **Before you purchase:**
 
-* Read [Beginner's guide to drawing tablets](../../basics/beginners-guide.md)&#x20;
-* Review these [Buying tips](../../buying-drawtabs/buying-tips.md)&#x20;
-* Look through the [Drawing tablet buying guide](../../buying-drawtabs/)&#x20;
+* Read [Beginner's guide to drawing tablets](../../basics/beginners-guide.md)
+* Review these [Buying tips](../../buying/buying-tips.md)
+* Look through the [Drawing tablet buying guide](../../buying/)
 
-If you want to see the full set recommendations go here: [Recommendations](../)&#x20;
+If you want to see the full set recommendations go here: [Recommendations](../)
 {% endhint %}
 
 ## Overview
 
-The choices for standalone mobile devices essentially come down to Apple iPads vs Android tablets. Each has their advantages.&#x20;
+The choices for standalone mobile devices essentially come down to Apple iPads vs Android tablets. Each has their advantages.
 
 ## For drawing
 
@@ -20,7 +20,7 @@ These are for when you want a GREAT drawing experience. Especially if you are al
 
 ### EXCELLENT
 
-* Wacom MovinkPad Pro 14 - [Wacom MovinkPad Pro 14 (DTH-A140) notes](../../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha140-notes.md)&#x20;
+* Wacom MovinkPad Pro 14 - [Wacom MovinkPad Pro 14 (DTH-A140) notes](../../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha140-notes.md)
   * This tablet has the best drawing experience on the market out of any current standalone tablet of any kind and from any brand.
 * Wacom MovinkPad 11 - [Wacom MovinkPad 11 (DTH-A116) notes](../../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
 
@@ -31,10 +31,10 @@ These are for when you want a GREAT drawing experience. Especially if you are al
 
 ## For general usage
 
-This is when you want a general-purpose mobile device, but also want decent pen support for things like sketching, notetaking, whiteboarding, etc.&#x20;
+This is when you want a general-purpose mobile device, but also want decent pen support for things like sketching, notetaking, whiteboarding, etc.
 
 * Apple iPads + the Apple Pencil - [Apple iPad notes](../../catalog/drawtabs/apple/apple-ipad-notes.md)
-  * Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately.&#x20;
+  * Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately.
 * Samsung Galaxy Tab S devices - [Samsung Galaxy Tab S series notes](../../catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md)
   * As an alternative to the Apple ecosystem, the Samsung Galaxy Tab S series of tablets is compelling. One great advantage of the Galaxy Tab S series is that they come with the Samsung S pen. So that keeps the cost down.
   * There are lots of models. Here are the
@@ -42,7 +42,7 @@ This is when you want a general-purpose mobile device, but also want decent pen 
 ## Avoid
 
 * Samsung Galaxy Tab A Series - <mark style="color:red;">**NOT RECOMMENDED**</mark> of tablets. More here: **Samsung Galaxy Tab A.** See [Samsung Galaxy Tab A series](../../catalog/drawtabs/samsung/samsung-galaxy-tab-a-series.md)
-* Huion Slate - [Huion Kamvas Slate](../../catalog/drawtabs/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>&#x20;
+* Huion Slate - [Huion Kamvas Slate](../../catalog/drawtabs/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>
 
 ## Budget Android choices
 
