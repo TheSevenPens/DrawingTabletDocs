@@ -2,7 +2,14 @@
 
 To see the previous tier list: [2024 Drawing tablet tier list](2024-drawing-tablet-tier-list.md)
 
-## Notes
+## How the tiering is done
+
+* Price is NOT considered
+* The primary consideration is drawing experience and, for tablets with screens, their display experience
+* The only ranking is the different tiers
+* Tablets are not left-right ordered within a tier&#x20;
+
+## Differences from 2024 tiering
 
 On November 12, 2025, during a livestream as a community we created a new drawing tablet tier list.
 
