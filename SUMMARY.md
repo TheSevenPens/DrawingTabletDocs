@@ -117,7 +117,7 @@
     * [Pen tilt compensation](core/pen-tilt/pen-tilt-compensation.md "Tilt compensation")
   * [Pen barrel rotation](core/pen-barrel-rotation/README.md)
     * [Using barrel rotation with your brush](core/pen-barrel-rotation/using-barrel-rotation.md "Using barrel rotation")
-  * [Pen nib travel](core/pen-nib-travel.md)
+  * [Nib travel](core/nib-travel.md)
   * [Pen nib material](core/pen-nib-material.md)
   * [Lag](core/lag/README.md)
     * [Pointer lag](core/lag/pointer-lag.md)
