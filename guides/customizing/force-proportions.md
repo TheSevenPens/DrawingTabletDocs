@@ -100,22 +100,20 @@ Note that if the active areas of the tablet and monitor are the same, then enabl
 
 <figure><img src="../../.gitbook/assets/Slide_20260223_101914.png" alt=""><figcaption></figcaption></figure>
 
-## The distortion can be significant without Force Proportions
+## The amount of distortion varies
 
 Here are some examples of what happens some Wacom pen tablets because of the mismatched aspect ratios when using a 16:9 monitor. The black circle is what I draw on the tablet. The red circle is what actual got drawn on the monitor.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000612.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000612.JPG" alt="" width="563"><figcaption></figcaption></figure></div>
+
+## Multiple displays with Force Proportions
+
+When enabling Force Proportions with multiple displays, you will notice a BIG reduction in the available active area is needed to maintain the correct non-distorted drawing. For this situation, after enabling Force Proportions also enable [Display toggle](../../core/active-area/display-toggle.md).
 
 ## Who should enable Force Proportions
 
 * For users of pen tablets (screenless tablets) : YES. I highly recommend it for for everyone using a pen tablet.
 * For users of pen displays (screen tablets): NO. It is not needed.
-
-## Multiple Displays
-
-When enabling Force Proportions with multiple displays, you will notice a BIG reduction in the available active area is needed to maintain the correct non-distorted drawing.
-
-For this situation, after enabling Force Proportions also enable [Display toggle](../../core/active-area/display-toggle.md).
 
 ## Simulation
 
