@@ -211,7 +211,7 @@
     * [Using an Android tablet as a pen display](guides/pen-displays/android-tablet-as-pen-display.md)
   * [Pens](guides/pens/README.md)
     * [Pen buttons](guides/pens/pen-buttons.md "Buttons")
-    * [Pen compatibility with drawing tablets](guides/pens/pen-compatibility-with-drawing-tablets.md)
+    * [Pen compatibility](guides/pens/pen-compatibility.md)
     * [Pen weight](guides/pens/pen-weight.md "Weight")
     * [Pen weight comparison](guides/pens/pen-weight-comparison.md "Weight comparison")
     * [Pen teardowns](guides/pens/pen-teardown-huion-pen80.md "Teardowns")

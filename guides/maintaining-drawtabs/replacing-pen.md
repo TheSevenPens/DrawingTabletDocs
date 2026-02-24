@@ -10,7 +10,7 @@ So many people accidentally buy incompatible pens and get frustrated. Please avo
 
 ## Instructions
 
-First find the model number of your tablet:  [Finding the model number of your drawing tablet](../general/finding-tablet-model-number.md)&#x20;
+First find the model number of your tablet: [Finding the model number of your drawing tablet](../general/finding-tablet-model-number.md)
 
 Then, go to the website of your tablet brand and search for the tablet you have and it should list the compatible pen model number. If you can't find what you are looking for then **contact customer support**.
 
@@ -22,9 +22,4 @@ No matter what is written on any site, I **HIGHLY ENCOURAGE** you to <mark style
 
 ## Further reading
 
-For a detailed breakdown of the compatibility topic,  see this: [Pen compatibility with drawing tablets](../pens/pen-compatibility-with-drawing-tablets.md)
-
-
-
-
-
+For a detailed breakdown of the compatibility topic, see this: [Pen compatibility with drawing tablets](../pens/pen-compatibility.md)

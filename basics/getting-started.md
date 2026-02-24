@@ -46,7 +46,7 @@ Then verify that box contains everything that is expected.
 
 The pen has somewhat delicate parts inside and is the most likely thing you will break. If you lose or damage your pen, there are some things you need to know:
 
-* First drawing tablets are generally only compatible with the pen they came with or a small number of pens. So note down the model number of the pen. You will need this to get a replacement. More here: [Pen compatibility with drawing tablets](../guides/pens/pen-compatibility-with-drawing-tablets.md)
+* First drawing tablets are generally only compatible with the pen they came with or a small number of pens. So note down the model number of the pen. You will need this to get a replacement. More here: [Pen compatibility with drawing tablets](../guides/pens/pen-compatibility.md)
 * Pens are surprisingly expensive to replace.
   * Some pens cost half the cost of the tablet
   * Some pens (especially Wacom Pro pens) are more expensive than the tablets of other brands.
