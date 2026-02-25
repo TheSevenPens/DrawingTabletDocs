@@ -6,15 +6,15 @@ Foxbox ([**https://foxbox.io/**](https://foxbox.io/)) makes **customized** prote
 
 ## **Who uses these covers?**
 
-These covers are very popular in the osu! gaming community.&#x20;
+These covers are very popular in the osu! gaming community.
 
-## **Can be used for pen displays?**&#x20;
+## **Can it be used for pen displays?**
 
 NO. FoxBox only sells opaque covers that are useful for pen tablets.
 
-## **Texture**
+## **Can it be used for drawing?**
 
-These covers are WAY MORE TEXTURED than any pen tablet surface. Honestly are probably too textured and will eat up nibs. I was using this FoxBox cover while testing a metal nib so nib wear was not a concern.&#x20;
+These covers are WAY MORE TEXTURED than any pen tablet surface. Honestly, they are probably too textured if you want to draw. I think many people would not drawing on them because of the intense texture. &#x20;
 
 ## **Thickness**
 
@@ -28,7 +28,7 @@ These are very durable. I'm sure I could scratch them if I tried to with a knife
 
 They are not difficult to remove.
 
-However, you should be a little careful with an Intuos Pro medium or Large which have removable texture sheets. When I removed the Foxbox cover I wasn't paying attention and actually removed both the Foxbox cover and removable sheet. So pay attention to that if you use these with an Intuos Pro.&#x20;
+However, you should be a little careful with an Intuos Pro medium or Large which have removable texture sheets. When I removed the Foxbox cover I wasn't paying attention and actually removed both the Foxbox cover and removable sheet. So pay attention to that if you use these with an Intuos Pro.
 
 ## My foxbox cover
 
