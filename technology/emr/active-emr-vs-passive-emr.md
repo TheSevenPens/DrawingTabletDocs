@@ -21,3 +21,17 @@ It doesn't work.
 
 * You cannot use an Active EMR pen with a Passive EMR tablet
 * You cannot use a Passive EMR pen with Active EMR tablet.
+
+## Notes on Active EMR pens
+
+Active EMR pens are EMR pens that are powered by an internal battery. The battery may be rechargeable or it may be replaceable. Passive EMR pens get their power from simply being near the tablet.
+
+In principle, there is nothing wrong with an active EMR pen. Some peopel are quite happy with how they work and the drawing experience they offer.
+
+However,&#x20;
+
+* Active EMR pens come from a generation when the pens aren't any near as good as they are now. These pens may have a much higher IAF than more modern pens
+* So having an active EMR pen is in indicator that a tablet is using older tech
+
+Wacom has used passive EMR pens for ... like 40 years. However, non-Wacom brands used active emr pens until about 2011. The reason for that timing is due to the expiration of some key Wacom patents.&#x20;
+
