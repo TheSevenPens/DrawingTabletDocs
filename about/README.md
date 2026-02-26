@@ -1,10 +1,10 @@
-# About Seven
+# About Seven Pens
 
 ## Overview
 
 I love creative tech. I've been using drawing tablets for a long time and wanted share what I learn.
 
-* My YouTube channel: [https://www.youtube.com/@thesevenpens](https://www.youtube.com/@thesevenpens)
+* My YouTube channel: [https://www.youtube.com/@sevenpens](https://www.youtube.com/@sevenpens)
 * My notes on drawing tablets: [https://docs.thesevenpens.com/drawtab/](https://docs.thesevenpens.com/drawtab/)
 * I tweet occasionally: [https://twitter.com/TheSevenPens](https://twitter.com/TheSevenPens)
 * I moderate [/r/drawingtablet](https://www.reddit.com/r/drawingtablet/) , [r/wacom](https://www.reddit.com/r/wacom) , [/r/huion](https://www.reddit.com/r/huion/) , [r/XPPen](https://www.reddit.com/r/XPpen/)
