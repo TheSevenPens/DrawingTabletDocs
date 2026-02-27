@@ -385,3 +385,12 @@ In general, see:
 * [Apple Pencil notes](../../../pens/apple-pencil/apple-pencil-notes.md)
 
 Overall, I do find that the Wacom MovinkPad Pro 14 is better for drawing.
+
+## Factory resetting the MovinkPad Pro 14
+
+If you forget your PIN, you will be unable to get into the device.
+
+Your options are
+
+* Call Wacom support about this. They will need you to send the device to them. This will take time and be expensive.
+* Like any other Android device, you can use the Google find up (online or you can use the app). It will remotely do a factory reset. I have tried this with the MovinkPad 11 and it has worked fine.
