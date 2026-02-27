@@ -523,7 +523,7 @@
         * [Wacom Cintiq 16 2025 (DTK-168) notes](catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk168-notes.md "Cintiq 16 2025 (DTK-168)")
         * [Wacom Cintiq 16 2019 (DTK-1660) notes](catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk1660-notes.md "Cintiq 16 2019 (DTK-1660)")
         * [Wacom Cintiq 27 HD 2015 (DTK-2700) notes](catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2700-notes.md "Cintiq 27 HD 2015 (DTK-2700)")
-        * [Cintiq 21 UX 2005 (DTZ-2100)](catalog/drawtabs/wacom/wacom-cintiq/wacom-dtz2100-notes.md)
+        * [Wacom Cintiq 21 UX 2005 (DTZ-2100) notes](catalog/drawtabs/wacom/wacom-cintiq/wacom-dtz2100-notes.md)
       * [Wacom Cintiq Pro](catalog/drawtabs/wacom/wacom-cintiq-pro/README.md "Cintiq Pro")
         * [Wacom Cintiq Pro 16 (DTH-167) notes](catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth167-notes.md "Cintiq Pro 16 (DTH-167)")
         * [Cintiq Pro 24 (DTx-2420) notes](catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dtx2420-notes.md "Cintiq Pro 24 (DTx-2420)")
