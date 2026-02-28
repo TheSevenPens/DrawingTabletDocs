@@ -45,8 +45,8 @@ if __name__ == "__main__":
         output_lines.append(f"Title: {page.title}")
         if page.backlinks:
             output_lines.append("  Used by:")
-            for source, text in page.backlinks:
-                output_lines.append(f"    - {source} ({text})")
+            for backlink in page.backlinks:
+                output_lines.append(f"    - {backlink.source} ({backlink.text})")
         output_lines.append("")
 
     if output_file:

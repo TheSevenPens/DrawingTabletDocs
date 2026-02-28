@@ -8,10 +8,16 @@ LINK_PATTERN = re.compile(r'\[(.*?)\]\((.*?)\)')
 
 
 @dataclass
+class BackLink:
+    source: str  # relative path of the page containing the link
+    text: str    # the link text used
+
+
+@dataclass
 class PageInfo:
     path: str
     title: str
-    backlinks: list = field(default_factory=list)  # list of (source_path: str, link_text: str)
+    backlinks: list = field(default_factory=list)  # list of BackLink
 
 
 class GitBookDocs:
@@ -146,7 +152,7 @@ class GitBookDocs:
 
                     for target_relative, text in self.get_outgoing_internal_links(content, relative_path):
                         if target_relative in page_info:
-                            page_info[target_relative].backlinks.append((relative_path, text))
+                            page_info[target_relative].backlinks.append(BackLink(source=relative_path, text=text))
 
                 except Exception:
                     page_info[relative_path].title = "Error reading file"

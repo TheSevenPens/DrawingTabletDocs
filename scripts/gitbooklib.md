@@ -12,6 +12,17 @@ A compiled regex matching standard markdown links of the form `[text](link)`.
 
 ---
 
+## `BackLink`
+
+Dataclass representing a single inbound link to a page.
+
+| Field | Type | Description |
+|---|---|---|
+| `source` | `str` | Relative path of the page containing the link |
+| `text` | `str` | The link text used at the source |
+
+---
+
 ## `PageInfo`
 
 Dataclass representing a single page from `SUMMARY.md`.
@@ -20,7 +31,7 @@ Dataclass representing a single page from `SUMMARY.md`.
 |---|---|---|
 | `path` | `str` | Relative path to the page as it appears in `SUMMARY.md` |
 | `title` | `str` | Text of the page's first H1 heading, `"File not found"`, or `"Error reading file"` |
-| `backlinks` | `list[tuple[str, str]]` | List of `(source_path, link_text)` pairs for every other page that links to this one |
+| `backlinks` | `list[BackLink]` | All other pages that link to this one |
 
 ---
 
