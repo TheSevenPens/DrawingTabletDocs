@@ -49,4 +49,4 @@ Avoid.
 
 ## How to choose the right brand for you
 
-More here: [Choosing a drawing tablet brand](choosing-a-drawing-tablet-brand.md)
+More here: [Choosing a drawing tablet brand](choosing-drawtab-brand.md)

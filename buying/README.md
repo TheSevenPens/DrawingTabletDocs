@@ -56,7 +56,7 @@ I strongly urge you to read this buying guide and the beginner's guide completel
 More here:
 
 * [Brands](../brands/)
-* [Choosing a drawing tablet brand](../brands/choosing-a-drawing-tablet-brand.md)
+* [Choosing a drawing tablet brand](../brands/choosing-drawtab-brand.md)
 
 If you decide on Wacom and want a pen tablet, read this guide: [Comparison of Wacom pen tablets](../brands/wacom/wacom-pen-tablet-comparison.md). In the future, I'll add a doc covering Wacom pen displays.
 
@@ -82,7 +82,7 @@ If you decide on Wacom and want a pen tablet, read this guide: [Comparison of Wa
 
 If you already have a compatible Apple iPad and Apple Pencil, consider whether your current device meets your drawing needs.
 
-* [Apple iPad vs drawing tablets](../catalog/drawtabs/apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad vs drawing tablets](../catalog/drawtabs/apple/ipad-vs-drawtab.md)
 * [Apple Pencil notes](../catalog/pens/apple-pencil/apple-pencil-notes.md)
 * [Apple iPad notes](../catalog/drawtabs/apple/apple-ipad-notes.md)
 
@@ -183,7 +183,7 @@ Buying a used tablet can save you significant money, but you should be prepared 
 
 ## Power
 
-Different types of tablets draw different amounts of power. Pen tablets require very little. Pen displays need much more. Some pen tablets even have batteries so they can work wirelessly. More here: [Powering a drawing tablet](../core/power/powering-a-drawing-tablet.md)
+Different types of tablets draw different amounts of power. Pen tablets require very little. Pen displays need much more. Some pen tablets even have batteries so they can work wirelessly. More here: [Powering a drawing tablet](../core/power/powering-drawtab.md)
 
 ## So-called "PRO" tablets
 

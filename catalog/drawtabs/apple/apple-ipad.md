@@ -7,7 +7,7 @@
 
 ## Comparisons
 
-* [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad vs drawing tablets](ipad-vs-drawtab.md)
 * [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-versus-samsung-galaxy-tab-s.md)
 
 ## Guides

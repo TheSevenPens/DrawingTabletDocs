@@ -126,7 +126,7 @@ In most cases I've seen, the cost to repair a damaged pen display is about the s
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Pen tablets require very little power. If connected to a laptop, they won't drain the battery much. Pen displays require significantly more power and will run down a laptop battery faster. More here: [Powering a drawing tablet](../core/power/powering-a-drawing-tablet.md).
+Pen tablets require very little power. If connected to a laptop, they won't drain the battery much. Pen displays require significantly more power and will run down a laptop battery faster. More here: [Powering a drawing tablet](../core/power/powering-drawtab.md).
 
 ## Hand covering what you are drawing
 

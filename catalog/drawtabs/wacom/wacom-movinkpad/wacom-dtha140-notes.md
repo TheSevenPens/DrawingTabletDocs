@@ -381,7 +381,7 @@ If you were trying to pick between the two tablets here is my guidance:
 In general, see:
 
 * [Apple iPad notes](../../apple/apple-ipad-notes.md)
-* [Apple iPad vs drawing tablets](../../apple/apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad vs drawing tablets](../../apple/ipad-vs-drawtab.md)
 * [Apple Pencil notes](../../../pens/apple-pencil/apple-pencil-notes.md)
 
 Overall, I do find that the Wacom MovinkPad Pro 14 is better for drawing.

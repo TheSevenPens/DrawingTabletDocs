@@ -77,7 +77,7 @@ I recommend you get the USB-C cables provided by the manufacturer for two reason
 * The tablet may have recessed USB-C ports and these cables are designed to fit that port. Other cables may not even fit inside.
 * I have personally experienced times where third-party USB-C cables just did not work with a tablet even though they may all the specs and worked with many other tablets.
 
-More here: [Using 3rd-party cables with your drawing tablet](../using-3rd-party-cables-with-your-drawing-tablet/)
+More here: [Using 3rd-party cables with your drawing tablet](../3rd-party-cables-for-drawtab/)
 
 ## Thunderbolt 3/4/5 cables
 

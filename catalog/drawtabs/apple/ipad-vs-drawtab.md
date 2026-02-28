@@ -4,7 +4,7 @@
 For more information:
 
 * [Apple iPad notes](apple-ipad-notes.md)
-* [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md)
+* [Apple iPad vs drawing tablets](ipad-vs-drawtab.md)
 * [Apple Pencil notes](../../pens/apple-pencil/apple-pencil-notes.md)
 * [Apple pens](../../pens/apple-pencil/)
 * [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-versus-samsung-galaxy-tab-s.md)
@@ -47,7 +47,7 @@ A big amount of the drawing experience is due to how the pens work. See this com
 
 ## Pen hover
 
-Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md#pen-hover).
+Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [Apple iPad vs drawing tablets](ipad-vs-drawtab.md#pen-hover).
 
 * Hover support for an iPad is dependent on the specific combination of iPad model and Apple Pencil model
   * Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
@@ -72,7 +72,7 @@ In my opinion, even the the iPad is better at having less parallax, the improvem
 
 ## **Anti-glare sparkle**
 
-Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an anti-glare treatment. More here: [Apple iPad vs drawing tablets](apple-ipad-vs-drawing-tablets.md#anti-glare-sparkle).
+Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs due to an anti-glare treatment. More here: [Apple iPad vs drawing tablets](ipad-vs-drawtab.md#anti-glare-sparkle).
 
 * iPads have very little / undetectable amount of AG sparkle.
 * Pen displays have AG sparkle to various degrees. But none have as little as Apple iPad.
