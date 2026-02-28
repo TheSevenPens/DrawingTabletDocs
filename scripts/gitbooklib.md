@@ -43,6 +43,20 @@ Main class. Instantiate with a `root_dir` and call methods on the instance.
 docs = GitBookDocs(root_dir)
 ```
 
+### `EXCLUDED_DIRS`
+
+Class-level set of directory names skipped during filesystem scans: `.git`, `node_modules`, `scripts`.
+
+---
+
+### `get_all_markdown_files()`
+
+Walks `root_dir` recursively and returns the relative posix paths of all markdown files found, skipping any directory in `EXCLUDED_DIRS`.
+
+**Returns:** `set[str]` — relative posix paths of all `.md` files
+
+---
+
 ### `extract_link(line, pattern=LINK_PATTERN)`
 
 Extracts and cleans a single internal markdown link from a line of text.

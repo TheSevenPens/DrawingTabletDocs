@@ -21,8 +21,29 @@ class PageInfo:
 
 
 class GitBookDocs:
+    EXCLUDED_DIRS = {'.git', 'node_modules', 'scripts'}
+
     def __init__(self, root_dir):
         self.root_dir = root_dir
+
+    def get_all_markdown_files(self):
+        """Return a set of relative posix paths for all markdown files under root_dir.
+
+        Directories in EXCLUDED_DIRS are skipped entirely.
+        """
+        root_path = Path(self.root_dir).resolve()
+        files = set()
+        for root, dirs, filenames in os.walk(root_path):
+            dirs[:] = [d for d in dirs if d not in self.EXCLUDED_DIRS]
+            for filename in filenames:
+                if filename.endswith('.md'):
+                    full_path = Path(root) / filename
+                    try:
+                        rel_path = full_path.relative_to(root_path)
+                        files.add(str(rel_path).replace('\\', '/'))
+                    except ValueError:
+                        pass
+        return files
 
     def extract_link(self, line, pattern=LINK_PATTERN):
         """Extract and clean an internal markdown link from a line.
