@@ -16,7 +16,7 @@ It is possible in some cases. More here: [Using a drawing tablet with an iPad or
 
 #### FAQ: Can I use a drawing tablet with a Chromebook?
 
-YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/operating-systems/chromeos/using-a-drawing-tablet-with-chromeos.md)
+YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/operating-systems/chromeos/using-drawtabs-with-chromeos.md)
 
 #### FAQ: What size drawing tablet should I get?
 
@@ -111,11 +111,11 @@ You just need to buy a pen of the SAME EXACT MODEL and it will work with your ta
 
 #### FAQ: What do I do if a driver no longer supports my tablet?
 
-See: [TSG: driver no longer supports a drawing tablet](troubleshooting/tsg-driver-no-longer-supports-a-drawing-tablet.md)
+See: [TSG: driver no longer supports a drawing tablet](troubleshooting/tsg-driver-drops-drawtab-support.md)
 
 #### FAQ: Can I have two tablet drivers from different manufacturers installed at the same time?
 
-It depends. More here: [Using multiple drawing tablets at the same time](guides/general/connecting-multiple-drawing-tablets-at-the-same-time.md)
+It depends. More here: [Using multiple drawing tablets at the same time](guides/general/connecting-multiple-drawtabs.md)
 
 #### FA&#x51;**: How to I completely uninstall a tablet driver on Windows?**
 

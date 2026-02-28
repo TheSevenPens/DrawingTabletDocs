@@ -3,7 +3,7 @@
 {% hint style="info" %}
 More information:
 
-* [Connecting a drawing tablet to a ChromeOS device](using-a-drawing-tablet-with-chromeos.md)
+* [Connecting a drawing tablet to a ChromeOS device](using-drawtabs-with-chromeos.md)
 {% endhint %}
 
 ## **Testing**
@@ -45,7 +45,7 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 
 ## **Pen display results**
 
-**XP-Pen Artist Pro 16 GEN2**&#x20;
+**XP-Pen Artist Pro 16 GEN2**
 
 * Display: works
 * Pointer: No pointer visible when using pen

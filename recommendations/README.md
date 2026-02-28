@@ -6,7 +6,7 @@ Below are tablets I would personally recommend separated by device type. These r
 
 ## Tier lists
 
-Check out the [2025 Drawing tablet tier list](comparisons/2025-drawing-tablet-tier-list.md) to see how these tablets and their pens rank against each other.
+Check out the [2025 Drawing tablet tier list](comparisons/2025-drawtab-tier-list.md) to see how these tablets and their pens rank against each other.
 
 ## For beginners
 

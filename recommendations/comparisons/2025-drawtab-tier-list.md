@@ -10,7 +10,7 @@
 
 ## Differences from 2024 tiering
 
-Unlike the [2024 Drawing tablet tier list](2024-drawing-tablet-tier-list.md)
+Unlike the [2024 Drawing tablet tier list](2024-drawtab-tier-list.md)
 
 * In addition to pen tablets and pen displays, we also ranked standalone tablets, and pens
 * Instead of 1 single tier list, we created one for each category

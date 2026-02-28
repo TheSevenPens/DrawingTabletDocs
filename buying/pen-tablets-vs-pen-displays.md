@@ -184,7 +184,7 @@ Pen displays do have surface texture, but less than pen tablets.
 
 ## **You can use both kinds of tablets**
 
-There's no rule that says you must use only one kind of tablet. Many people own both a pen tablet and a pen display and switch between them depending on the task. See: [Using multiple drawing tablets at the same time](../guides/general/connecting-multiple-drawing-tablets-at-the-same-time.md)
+There's no rule that says you must use only one kind of tablet. Many people own both a pen tablet and a pen display and switch between them depending on the task. See: [Using multiple drawing tablets at the same time](../guides/general/connecting-multiple-drawtabs.md)
 
 ## VESA mounting
 
