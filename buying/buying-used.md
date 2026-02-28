@@ -14,11 +14,11 @@ I have bought and worked with MANY used drawing tablets — 26 used tablets as o
 
 ## Tablet age
 
-Because used tablets might be older models, you should be prepared for issues that may arise due to their age. More here: [Using older drawing tablets](../guides/general/using-older-drawing-tablets.md)
+Because used tablets might be older models, you should be prepared for issues that may arise due to their age. More here: [Using older drawing tablets](../guides/general/older-drawtabs.md)
 
 ## **Older drivers**
 
-In particular, you may need to use older drivers. This comes with its own set of complications. More here: [Using older tablet drivers](../guides/drivers/using-older-tablet-drivers.md)
+In particular, you may need to use older drivers. This comes with its own set of complications. More here: [Using older tablet drivers](../guides/drivers/older-tablet-drivers.md)
 
 ## Which brands to buy used
 

@@ -47,7 +47,7 @@ For example today, if you install the latest Wacom tablet drivers and then proce
 
 if the latest drivers do not work with the tablet that you have, then you have two options:
 
-* Use [Using older tablet drivers](../drivers/using-older-tablet-drivers.md)
+* Use [Using older tablet drivers](../drivers/older-tablet-drivers.md)
 * Use [OpenTabletDriver](../drivers/opentabletdriver/)
 
 ## Cabling

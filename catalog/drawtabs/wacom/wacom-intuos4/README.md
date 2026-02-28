@@ -48,7 +48,7 @@ For example none of them are listed in the compatibility list for Wacom windows 
 
 More here: [https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html)
 
-You can still use these tablets with caveats that come with using older tablets. More here:[Using older drawing tablets](../../../../guides/general/using-older-drawing-tablets.md)
+You can still use these tablets with caveats that come with using older tablets. More here:[Using older drawing tablets](../../../../guides/general/older-drawtabs.md)
 
 ## Wacom Intuos 4 Large
 

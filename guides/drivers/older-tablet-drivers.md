@@ -1,5 +1,9 @@
 # Using older tablet drivers
 
+## Older tablets?
+
+If you are interested in using older tablet drivers because you have an older drawing tablet, then also look here: [Using older drawing tablets](../general/older-drawtabs.md). That document covers many other topics related to using older tablets.
+
 ## Finding older drivers
 
 Manufacturers usually keep all the old versions of their tablet drivers on their website. If you can't find the driver you need you can always contact customer support and they should be able to help you find it for you.

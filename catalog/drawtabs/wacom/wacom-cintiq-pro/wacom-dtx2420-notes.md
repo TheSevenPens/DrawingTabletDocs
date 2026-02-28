@@ -8,7 +8,7 @@ I don't have this tablet, but people still ask about it. So, have created this p
 
 This is one of the most beloved Wacom pen displays. The fundamental handling of pressure, tilt, responsiveness are just as good in this pen display compared even to Wacom pen display models in 2025.
 
-The challenge with this model is that (based on previous data) it will reach its support lifetime sometime in 2028 to 2030 (we estimate). After that point, newer Wacom drivers won't work with it and Wacom support will not help you with the tablet. Then you have to use it as an [Using older drawing tablets](../../../../guides/general/using-older-drawing-tablets.md).
+The challenge with this model is that (based on previous data) it will reach its support lifetime sometime in 2028 to 2030 (we estimate). After that point, newer Wacom drivers won't work with it and Wacom support will not help you with the tablet. Then you have to use it as an [Using older drawing tablets](../../../../guides/general/older-drawtabs.md).
 
 The only issue that some people have complained about with this tablet is fan noise. For some people it is silent, but for some people the fan noise is audible or even loud.
 
@@ -17,31 +17,31 @@ The only issue that some people have complained about with this tablet is fan no
 There are two models if the Cintiq Pro 24 (DTx-2420)
 
 * Cintiq Pro 24 (DTK-2420) - which DOES NOT support touch
-* Cintiq Pro 24 touch (DTH-2420) - which DOES support touch&#x20;
+* Cintiq Pro 24 touch (DTH-2420) - which DOES support touch
 
 Release date: 2017
 
-User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)&#x20;
+User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)
 
 ## Specs
 
 ### Digitizer
 
 * Digitizer tech: EMR
-* Active Area: 20.55 x 11.57"&#x20;
-* Active Area Diagonal: 23.6"&#x20;
+* Active Area: 20.55 x 11.57"
+* Active Area Diagonal: 23.6"
 * Aspect ratio: 16x9
-* Number of pressure levels: 8192&#x20;
+* Number of pressure levels: 8192
 * Tilt: 40°
 * Resolition: 40°
 
 ### Display
 
 * Display panel tech: IPS
-* Native resolution: 3840 x 2160&#x20;
-* Brightness: 350 cd/m²&#x20;
-* Viewing angles: 176°/176°&#x20;
-* Contrast ratio: 1000:1&#x20;
+* Native resolution: 3840 x 2160
+* Brightness: 350 cd/m²
+* Viewing angles: 176°/176°
+* Contrast ratio: 1000:1
 * Color gamut: 99% Adobe RGB
 * Bits per channel: 10
 * Response time: 14 ms
@@ -72,19 +72,16 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.w
 
 ## Documentation
 
-* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)&#x20;
+* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)
 
-## Size&#x20;
+## Size
 
 This tablet was from an era when Wacom pen displays had very wide bezels. Even though the display is 24" the bezels are so large that the entire device is much larger than you would expect.
 
 Size: 677 x 394mm (26.6 x 15.5 in)
 
-## Display&#x20;
+## Display
 
 * Native resolution: 2840x2160 (4K)
 * Display panel tech: IPS
-
-
-

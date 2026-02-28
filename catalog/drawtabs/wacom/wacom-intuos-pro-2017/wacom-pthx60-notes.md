@@ -117,7 +117,7 @@ Based on previous data I believe support will end will be between 2027 to 2029. 
 
 Using this tablet in the future
 
-After the end of the support lifetime, we can consider the Intuos pro 2017 series to be an “older tablet”. Using older tablets is totally fine but you have to be aware of the issues. See this document: [Using older drawing tablets](../../../../guides/general/using-older-drawing-tablets.md)
+After the end of the support lifetime, we can consider the Intuos pro 2017 series to be an “older tablet”. Using older tablets is totally fine but you have to be aware of the issues. See this document: [Using older drawing tablets](../../../../guides/general/older-drawtabs.md)
 
 The hardware will last forever but eventually not having updated drivers will pose a problem.
 
