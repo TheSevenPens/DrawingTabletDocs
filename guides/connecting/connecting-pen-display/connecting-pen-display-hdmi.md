@@ -1,7 +1,5 @@
 # Connecting with HDMI
 
-
-
 ## Overview
 
 {% hint style="info" %}
@@ -20,7 +18,7 @@ This is a special kind of cable. One end will have a single USB-C connection. Th
 
 ## Which HDMI port on the computer should you use?
 
-If your computer has multiple HDMI ports you need to pick one.&#x20;
+If your computer has multiple HDMI ports you need to pick one.
 
 If it's a laptop - it shouldn't matter. Any HDMI port should work.
 
@@ -37,4 +35,4 @@ more here: [Motherboard HDMI vs GPU HDMI ports](motherboard-hdmi-vs-gpu-hdmi-por
 
 ### What if you don't have any HDMI ports?
 
-If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [Using HDMI adapters with pen displays](../../pen-displays/using-hdmi-adapters/)&#x20;
+If you need to make an HDMI connection but have no HDMI ports you can convert other ports to HDMI using an adapter. See [Using HDMI adapters with pen displays](../../pen-displays/hdmi-adapters/)

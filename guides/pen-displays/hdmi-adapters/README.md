@@ -12,11 +12,11 @@ Sometimes the tablet needs to be connected to your computer through HDMI. This m
 
 However it is possible you can use another port.
 
-## Order of preference of ports for adapters&#x20;
+## Order of preference of ports for adapters
 
 Not all ports are equally good for connecting to HDMI. Some you should try first because they will give you a better experience.
 
-If you don't have an HDMI port you should try alternative ports in the order below.&#x20;
+If you don't have an HDMI port you should try alternative ports in the order below.
 
 * DisplayPort
 * USB-C (remember not all USB-C ports support sending a display signal).
@@ -25,7 +25,7 @@ If you don't have an HDMI port you should try alternative ports in the order bel
 
 ## Adapter details
 
-* [DisplayPort to HDMI adapters](displayport-to-hdmi-adapters.md)
+* [DisplayPort to HDMI adapters](dp-to-hdmi-adapters.md)
 * [USB-C to HDMI adapters](usbc-to-hdmi-adapters.md)
 * [DVI to HDMI adapters](dvi-to-hdmi-adapters.md)
 * [VGA to HDMI adapters](vga-to-hdmi-adapters.md)
