@@ -2,7 +2,7 @@
 
 ## List of pens
 
-<table><thead><tr><th width="220">NAme</th><th width="188">Year Introduced</th><th>Notes</th></tr></thead><tbody><tr><td>PO5R</td><td>2023</td><td></td></tr><tr><td>X3 Pro</td><td>2023</td><td><a href="xppen-x3pro-pen.md"><strong>notes on X3 Pro series pens</strong></a></td></tr><tr><td>X3 Pro Roller</td><td>2023</td><td><a href="xppen-x3pro-pen.md"><strong>notes on X3 Pro series pens</strong></a></td></tr><tr><td>X3 Pro Slim</td><td>2023</td><td><a href="xppen-x3pro-pen.md"><strong>notes on X3 Pro series pens</strong></a></td></tr><tr><td>X3 ELITE</td><td>2022</td><td><a href="xppen-x3elite-notes.md"><strong>notes on X3 Elite series pens</strong></a></td></tr><tr><td>X3 ELITE PLUS</td><td>2022</td><td><a href="xppen-x3elite-notes.md"><strong>notes on X3 Elite series pens</strong></a></td></tr><tr><td>PH02</td><td>2021</td><td></td></tr><tr><td>P01</td><td>2021</td><td></td></tr><tr><td>PA6</td><td>2020</td><td></td></tr><tr><td>P05D</td><td>2020</td><td></td></tr><tr><td>PA5</td><td>2020</td><td></td></tr><tr><td>PA2</td><td>2019</td><td></td></tr><tr><td>PA1</td><td>2019</td><td></td></tr><tr><td>P05</td><td>2018</td><td><a href="xppen-p05-pen-notes.md"><strong>notes on P05</strong></a> </td></tr><tr><td>P02S</td><td>2018</td><td></td></tr><tr><td>P03</td><td>2018</td><td></td></tr><tr><td>P06</td><td>2018</td><td></td></tr><tr><td>P55C</td><td>2017</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="220">NAme</th><th width="188">Year Introduced</th><th>Notes</th></tr></thead><tbody><tr><td>PO5R</td><td>2023</td><td></td></tr><tr><td>X3 Pro</td><td>2023</td><td><a href="xppen-x3propen-notes.md"><strong>notes on X3 Pro series pens</strong></a></td></tr><tr><td>X3 Pro Roller</td><td>2023</td><td><a href="xppen-x3propen-notes.md"><strong>notes on X3 Pro series pens</strong></a></td></tr><tr><td>X3 Pro Slim</td><td>2023</td><td><a href="xppen-x3propen-notes.md"><strong>notes on X3 Pro series pens</strong></a></td></tr><tr><td>X3 ELITE</td><td>2022</td><td><a href="xppen-x3elitepen-notes.md"><strong>notes on X3 Elite series pens</strong></a></td></tr><tr><td>X3 ELITE PLUS</td><td>2022</td><td><a href="xppen-x3elitepen-notes.md"><strong>notes on X3 Elite series pens</strong></a></td></tr><tr><td>PH02</td><td>2021</td><td></td></tr><tr><td>P01</td><td>2021</td><td></td></tr><tr><td>PA6</td><td>2020</td><td></td></tr><tr><td>P05D</td><td>2020</td><td></td></tr><tr><td>PA5</td><td>2020</td><td></td></tr><tr><td>PA2</td><td>2019</td><td></td></tr><tr><td>PA1</td><td>2019</td><td></td></tr><tr><td>P05</td><td>2018</td><td><a href="xppen-p05-notes.md"><strong>notes on P05</strong></a></td></tr><tr><td>P02S</td><td>2018</td><td></td></tr><tr><td>P03</td><td>2018</td><td></td></tr><tr><td>P06</td><td>2018</td><td></td></tr><tr><td>P55C</td><td>2017</td><td></td></tr></tbody></table>
 
 ## Pen / tablet compatibility list
 
@@ -12,7 +12,4 @@ As always I recommend before purchasing any pen, you should <mark style="color:r
 
 ## My notes on selected pens
 
-* [X3 Pro page](https://www.xp-pen.com/store/buy/x3-pro-stylus.html)  ([XP-Pen X3 Pro pens](xppen-x3pro-pen.md))
-
-
-
+* [X3 Pro page](https://www.xp-pen.com/store/buy/x3-pro-stylus.html) ([XP-Pen X3 Pro pens](xppen-x3propen-notes.md))

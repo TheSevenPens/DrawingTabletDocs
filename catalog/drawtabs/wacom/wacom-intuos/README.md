@@ -2,7 +2,7 @@
 
 ## Overview
 
-See my notes: [Wacom Intuos (CTL-x100) notes](wacom-intuos-ctl-x100-notes.md)
+See my notes: [Wacom Intuos (CTL-x100) notes](wacom-ctlx100-notes.md)
 
 ## Models
 

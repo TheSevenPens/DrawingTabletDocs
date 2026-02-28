@@ -26,9 +26,9 @@ Huion lists these as compatible tablets
 
 If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [Huion PW550 series pens notes](huion-pw550-notes.md).
 
-## Pressure range&#x20;
+## Pressure range
 
-I have 7 units of this pen.&#x20;
+I have 7 units of this pen.
 
 * IAF ranges from 5gf to 9gf
 * Max Pressure ranges from 150gf to 500gf
@@ -41,4 +41,4 @@ Like other PenTech 3.0 pens, there is a lot of variation in IAF and max pressure
 
 The PW550 series of pens are backwards compatible with tablets that work with the PW517. And the PW550 has improved pressure handling. So consider the PW550 as an upgrade option.
 
-See: [Upgrading from PW517 to PW550](upgrading-from-pw517-to-pw550.md)
+See: [Upgrading from PW517 to PW550](upgrading-pw517-to-pw550.md)

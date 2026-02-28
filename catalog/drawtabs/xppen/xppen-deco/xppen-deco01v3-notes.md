@@ -24,7 +24,7 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [XP-Pen P05 pen notes](../../../pens/xppen-pens/xppen-p05-pen-notes.md)
+XP-Pen P05 - [XP-Pen P05 pen notes](../../../pens/xppen-pens/xppen-p05-notes.md)
 
 The included P05 pen has exactly the same as the old model and has the same high IAF.
 

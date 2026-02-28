@@ -7,7 +7,7 @@ Summary: All of these are good pens. I have used each extensively and am happy w
 * WINNER Wacom Pro Pen 2 (KP-504E) - [Wacom Pro Pen 2 (KP-504E) notes](../../catalog/pens/wacom-pens/wacom-kp504e-notes.md)
 * RUNNER-UP: Wacom Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../catalog/pens/wacom-pens/wacom-acp500-notes.md)
 * SECOND PLACE: Huion PW600 series - [Huion PW600 series pens](../../catalog/pens/huion-pens/huion-pw600-notes.md)
-* THIRD place: XP-Pen X3 Pro series pens - [XP-Pen X3 Pro pens](../../catalog/pens/xppen-pens/xppen-x3pro-pen.md)
+* THIRD place: XP-Pen X3 Pro series pens - [XP-Pen X3 Pro pens](../../catalog/pens/xppen-pens/xppen-x3propen-notes.md)
 
 ## Wacom Pro Pen 2 (KP-504E)
 
