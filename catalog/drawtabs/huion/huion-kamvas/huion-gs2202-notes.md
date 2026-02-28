@@ -72,7 +72,7 @@ For digital art I prefer to work in a smaller color gamut of 100% sRGB.
 
 Unfortunately, unlike other pen displays this tablet does not have way to force it into a smaller color gamut. No options were present in the OSD or the driver.
 
-For reducing the gamut, you could use other techniques: [Clamping wide-gamut displays to sRGB](../../../../guides/customizing/clamping-wide-gamut-displays-to-srgb.md).
+For reducing the gamut, you could use other techniques: [Clamping wide-gamut displays to sRGB](../../../../guides/customizing/clamping-to-srgb.md).
 
 In my case, I just left it the way it was and did not try anything to clamp the range.
 

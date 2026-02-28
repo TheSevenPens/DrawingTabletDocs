@@ -49,7 +49,7 @@ To avoid the light sources from interfering with using your drawing tablet, Manu
 
 #### FAQ: Can I use a pen display as a normal monitor?
 
-Answer: YES. But there are some things you should consider if you want to use it this way: [Using a pen display as a monitor](guides/customizing/using-a-pen-display-as-a-monitor.md)
+Answer: YES. But there are some things you should consider if you want to use it this way: [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
 
 #### FAQ: Why does my pen display show a temporary after image?
 
@@ -57,7 +57,7 @@ This is temporary phenomena called [**Image Persistence**](https://en.wikipedia.
 
 #### FAQ: Can I use a pen display without plugging in the HDMI cable?
 
-Answer: YES. More here: [Using a pen display as a pen tablet](guides/customizing/using-a-pen-display-as-a-pen-tablet.md)
+Answer: YES. More here: [Using a pen display as a pen tablet](guides/customizing/pen-display-as-pen-tablet.md)
 
 #### FAQ: How do I make my pen display mirror what is on my monitor?
 
@@ -97,11 +97,11 @@ See this guide: [Dealing with water damage](guides/maintaining-drawtabs/dealing-
 
 #### FAQ: Can I use a metal nib with my pen?
 
-Answer: I personally do not recommend this,. However. YES it is possible, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [Using metal nibs](guides/customizing/using-metal-nibs.md)
+Answer: I personally do not recommend this,. However. YES it is possible, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [Using metal nibs](guides/customizing/metal-nibs.md)
 
 #### FAQ: How do I connect my pen to my drawing tablet?
 
-More here: [Connecting a pen to a drawing tablet](guides/connecting/connecting-a-pen-to-drawtab.md)
+More here: [Connecting a pen to a drawing tablet](guides/connecting/connecting-pen-to-drawtab.md)
 
 #### FAQ: My pen is lost/broken. Can I just buy a replacement pen or do I have to buy a new tablet?
 

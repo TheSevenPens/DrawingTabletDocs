@@ -63,7 +63,7 @@ It may be worth asking the seller how clean the tablet is.
 
 ## Testing a tablet before you buy
 
-If you have the opportunity to examine the tablet before deciding to buy, here are some things to check: [Inspecting a drawing tablet](inspecting-a-drawtab.md).
+If you have the opportunity to examine the tablet before deciding to buy, here are some things to check: [Inspecting a drawing tablet](inspecting-drawtab.md).
 
 ## Buying online
 

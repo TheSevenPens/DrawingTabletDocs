@@ -27,7 +27,7 @@ Related video: Why you need to install tablet drivers: [https://www.youtube.com/
 
 ## Using a tablet without installing drivers
 
-In **some** cases it is possible to use a tablet without drivers. More here: [Using a drawing tablet without installing drivers](drawtablet-without-installing-drivers.md).
+In **some** cases it is possible to use a tablet without drivers. More here: [Using a drawing tablet without installing drivers](drawtab-without-installing-drivers.md).
 
 ## Driver compatibility with multiple tablets
 

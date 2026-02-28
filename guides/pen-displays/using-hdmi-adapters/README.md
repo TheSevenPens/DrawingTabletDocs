@@ -25,7 +25,7 @@ If you don't have an HDMI port you should try alternative ports in the order bel
 
 ## Adapter details
 
-* [DisplayPort to HDMI adapters](dp-to-hdmi-adapters.md)
+* [DisplayPort to HDMI adapters](displayport-to-hdmi-adapters.md)
 * [USB-C to HDMI adapters](usbc-to-hdmi-adapters.md)
 * [DVI to HDMI adapters](dvi-to-hdmi-adapters.md)
 * [VGA to HDMI adapters](vga-to-hdmi-adapters.md)

@@ -45,4 +45,4 @@ See: [Pen cases](../../catalog/accessories/pen-cases.md)
 ## Preparing for the worst
 
 * I think it's always good to have a backup pen.
-* If after transport the screen of your pen display isn't working you might still be able to use it as a pen tablet: see [Using a pen display as a pen tablet](../customizing/using-a-pen-display-as-a-pen-tablet.md)
+* If after transport the screen of your pen display isn't working you might still be able to use it as a pen tablet: see [Using a pen display as a pen tablet](../customizing/pen-display-as-pen-tablet.md)

@@ -27,7 +27,7 @@ Wacom emphasizes in the product materials that this is a “cordless” tablet. 
 
 ## Connections and cabling
 
-* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../../guides/connecting/connecting-a-pen-tablet/connecting-drawtabs-with-serial-cable.md)
+* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../../guides/connecting/connecting-pen-tablet/connecting-drawtabs-with-serial-cable.md)
 * The SD-510C unlike some other SD models, does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer. That box contains the "brains" of the tablet and lets the SD-510C be much thinner than other SD models.
 * Cables were permanently fixed to the tablet.
 

@@ -101,7 +101,7 @@ Read more here:
 * **Brightness** - Pen displays are bright but not as bright as some other displays you may be familiar with. More here: [Brightness](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent gap between the physical tip of the pen and where the computer thinks the tip is. Some people are more sensitive to this than others. Learn more here: [Parallax](../guides/pen-displays/parallax.md).
 * **Lamination** - Lamination reduces parallax. I highly recommend getting a pen display that has lamination. Learn more here: [Lamination](../guides/pen-displays/lamination.md)
-* Even though a pen display is meant for drawing, you can use it exactly like a normal monitor. Learn more here: [Using a pen display as a monitor](../guides/customizing/using-a-pen-display-as-a-monitor.md).
+* Even though a pen display is meant for drawing, you can use it exactly like a normal monitor. Learn more here: [Using a pen display as a monitor](../guides/customizing/pen-display-as-monitor.md).
 * **Display panel tech** - Most pen displays use an IPS display panel, though a handful use OLED. I currently recommend sticking with IPS panels because it is unclear how long OLED displays will last under typical drawing tablet use. More here: [Display panel technology](../technology/display-panel-technology.md).
 
 ## Connections & cabling
