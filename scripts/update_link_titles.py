@@ -3,7 +3,7 @@ import os
 import re
 from pathlib import Path
 
-from gitbooklib import GitBookDocs, LINK_PATTERN
+from gitbooklib import GitBookDocs
 
 def parse_arg(args, key):
     try:

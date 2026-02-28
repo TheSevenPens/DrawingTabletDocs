@@ -1,10 +1,8 @@
 import os
-import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-# Regex for [text](link)
-LINK_PATTERN = re.compile(r'\[(.*?)\]\((.*?)\)')
+from markdown_it import MarkdownIt
 
 
 @dataclass
@@ -25,6 +23,21 @@ class GitBookDocs:
 
     def __init__(self, root_dir):
         self.root_dir = root_dir
+        self._md = MarkdownIt()
+
+    def _iter_links(self, tokens):
+        """Yield (href, text) tuples for every link in a markdown-it token stream."""
+        for token in tokens:
+            if not token.children:
+                continue
+            children = token.children
+            for i, child in enumerate(children):
+                if child.type == 'link_open':
+                    href = (child.attrs or {}).get('href', '')
+                    text = ''
+                    if i + 1 < len(children) and children[i + 1].type == 'text':
+                        text = children[i + 1].content
+                    yield href, text
 
     def get_all_markdown_files(self):
         """Return a set of relative posix paths for all markdown files under root_dir.
@@ -45,39 +58,26 @@ class GitBookDocs:
                         pass
         return files
 
-    def extract_link(self, line, pattern=LINK_PATTERN):
-        """Extract and clean an internal markdown link from a line.
+    def extract_link(self, line):
+        """Extract and clean the first internal markdown link from a line.
 
         Returns the cleaned relative path (no anchor/query), or None if the line
         has no link or the link is external.
         """
-        match = pattern.search(line)
-        if match:
-            # Group 2 is the link part in regex [text](link)
-            raw_link = match.group(2)
-            clean_link = raw_link.strip()
-
-            if clean_link.startswith('<') and clean_link.endswith('>'):
-                clean_link = clean_link[1:-1]
-
-            if ' "' in clean_link:
-                clean_link = clean_link.split(' "')[0]
-            elif ' ' in clean_link:
-                clean_link = clean_link.split(' ')[0]
-
-            clean_link = clean_link.strip()
-
-            if clean_link.startswith(('http', 'ftp', 'mailto:')):
+        tokens = self._md.parse(line)
+        for href, _ in self._iter_links(tokens):
+            if href.startswith(('http', 'ftp', 'mailto:')):
                 return None
-
-            return clean_link.split('#')[0].split('?')[0]
+            return href.split('#')[0].split('?')[0]
         return None
 
     def get_page_title(self, content_lines):
         """Return the first H1 heading text from a list of lines, or 'Unknown Title'."""
-        for line in content_lines:
-            if line.lstrip().startswith('# '):
-                return line.lstrip()[2:].strip()
+        tokens = self._md.parse('\n'.join(content_lines))
+        for i, token in enumerate(tokens):
+            if token.type == 'heading_open' and token.tag == 'h1':
+                if i + 1 < len(tokens) and tokens[i + 1].type == 'inline':
+                    return tokens[i + 1].content.strip()
         return "Unknown Title"
 
     def get_outgoing_internal_links(self, content_lines, relative_path):
@@ -89,45 +89,34 @@ class GitBookDocs:
         current_dir = os.path.dirname(relative_path)
         root_resolved = Path(self.root_dir).resolve()
 
-        for line in content_lines:
-            for match in LINK_PATTERN.finditer(line):
-                text = match.group(1)
-                link = match.group(2)
+        tokens = self._md.parse('\n'.join(content_lines))
+        for href, text in self._iter_links(tokens):
+            if href.startswith(('http', 'ftp', 'mailto:', '#')):
+                continue
 
-                # Cleanup link
-                if ' "' in link:
-                    link = link.split(' "')[0]
-                elif ' ' in link:
-                    link = link.split(' ')[0]
+            link = href.split('#')[0].split('?')[0]
+            if not link:
+                continue
 
-                link = link.strip()
-
-                if link.startswith(('http', 'mailto:', '#')):
+            # Filter to likely markdown/directory links
+            if not link.lower().endswith('.md') and not link.endswith('/'):
+                if os.path.splitext(link)[1]:  # has other extension
                     continue
 
-                # Remove anchors/query
-                link = link.split('#')[0].split('?')[0]
+            target_abs = (Path(self.root_dir) / current_dir / link).resolve()
 
-                # Filter to likely markdown/directory links
-                if not link.lower().endswith('.md') and not link.endswith('/'):
-                    if os.path.splitext(link)[1]:  # has other extension
-                        continue
-
-                target_abs = (Path(self.root_dir) / current_dir / link).resolve()
-
-                try:
-                    if not str(target_abs).startswith(str(root_resolved)):
-                        continue
-
-                    target_relative = target_abs.relative_to(root_resolved).as_posix()
-
-                    # Normalize directory links
-                    if target_relative.endswith('/'):
-                        target_relative = target_relative.rstrip('/')
-
-                    yield target_relative, text
-                except ValueError:
+            try:
+                if not str(target_abs).startswith(str(root_resolved)):
                     continue
+
+                target_relative = target_abs.relative_to(root_resolved).as_posix()
+
+                if target_relative.endswith('/'):
+                    target_relative = target_relative.rstrip('/')
+
+                yield target_relative, text
+            except ValueError:
+                continue
 
     def get_summary_pages(self):
         """Return a list of relative page paths from SUMMARY.md, or raise on error."""

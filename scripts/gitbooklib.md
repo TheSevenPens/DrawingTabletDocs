@@ -4,11 +4,9 @@ Shared library used by the scripts in this folder. Provides common utilities for
 
 ---
 
-## Constants
+## Dependencies
 
-### `LINK_PATTERN`
-
-A compiled regex matching standard markdown links of the form `[text](link)`.
+Requires [`markdown-it-py`](https://github.com/executablebooks/markdown-it-py): `pip install markdown-it-py`
 
 ---
 
@@ -57,12 +55,10 @@ Walks `root_dir` recursively and returns the relative posix paths of all markdow
 
 ---
 
-### `extract_link(line, pattern=LINK_PATTERN)`
+### `extract_link(line)`
 
-Extracts and cleans a single internal markdown link from a line of text.
+Extracts and cleans the first internal markdown link from a line of text.
 
-- Strips angle bracket wrappers (`<link>`)
-- Strips inline titles (` "Title"`)
 - Strips anchors (`#section`) and query strings (`?param`)
 - Returns `None` if no link is found or the link is external (`http`, `ftp`, `mailto:`)
 
@@ -72,7 +68,7 @@ Extracts and cleans a single internal markdown link from a line of text.
 
 ### `get_page_title(content_lines)`
 
-Returns the text of the first H1 heading (`# Heading`) found in a list of lines.
+Returns the text of the first H1 heading found in a list of lines, parsed via `markdown-it-py`.
 
 **Returns:** `str` — heading text, or `"Unknown Title"` if no H1 is found
 
