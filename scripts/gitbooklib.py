@@ -1,8 +1,18 @@
 import os
 from dataclasses import dataclass, field
 from pathlib import Path
+from urllib.parse import urlparse
 
 from markdown_it import MarkdownIt
+
+
+@dataclass
+class LinkInfo:
+    url: str          # raw href as it appears in the source
+    text: str         # link text
+    source: str       # relative path of the page containing the link
+    is_external: bool # True if the link points outside the docs
+    domain: str       # netloc for external links (e.g. "example.com"), '' for internal
 
 
 @dataclass
@@ -170,3 +180,40 @@ class GitBookDocs:
                 page_info[relative_path].title = "File not found"
 
         return [page_info[path] for path in paths]
+
+    def get_all_links(self):
+        """Yield a LinkInfo for every link found across all pages in SUMMARY.md."""
+        for relative_path in self.get_summary_pages():
+            full_path = self.resolve_page_path(relative_path)
+            if not full_path.exists():
+                continue
+
+            try:
+                content = full_path.read_text(encoding='utf-8').splitlines()
+                tokens = self._md.parse('\n'.join(content))
+
+                for href, text in self._iter_links(tokens):
+                    if not href:
+                        continue
+
+                    is_external = href.startswith(('http://', 'https://', 'ftp://', 'mailto:'))
+
+                    if is_external:
+                        if href.startswith('mailto:'):
+                            email = href[7:]
+                            domain = email.split('@')[-1] if '@' in email else ''
+                        else:
+                            domain = urlparse(href).netloc
+                    else:
+                        domain = ''
+
+                    yield LinkInfo(
+                        url=href,
+                        text=text,
+                        source=relative_path,
+                        is_external=is_external,
+                        domain=domain,
+                    )
+
+            except Exception:
+                continue

@@ -10,6 +10,20 @@ Requires [`markdown-it-py`](https://github.com/executablebooks/markdown-it-py): 
 
 ---
 
+## `LinkInfo`
+
+Dataclass representing a single link found in a page.
+
+| Field | Type | Description |
+|---|---|---|
+| `url` | `str` | Raw href as it appears in the source |
+| `text` | `str` | Link text |
+| `source` | `str` | Relative path of the page containing the link |
+| `is_external` | `bool` | `True` if the link points outside the docs |
+| `domain` | `str` | Netloc for external links (e.g. `"example.com"`), `''` for internal |
+
+---
+
 ## `BackLink`
 
 Dataclass representing a single inbound link to a page.
@@ -110,3 +124,13 @@ Resolves a relative page path to a full filesystem path. Directory paths are res
 Returns all pages from `SUMMARY.md` as `PageInfo` objects, with titles and backlinks populated.
 
 **Returns:** `list[PageInfo]` — one entry per page, in `SUMMARY.md` order
+
+---
+
+### `get_all_links()`
+
+Yields a `LinkInfo` for every link found across all pages in `SUMMARY.md`. Includes both internal and external links.
+
+For `mailto:` links, `domain` is extracted from the email address. For all other external links, `domain` is the netloc (e.g. `"example.com"`).
+
+**Yields:** `LinkInfo`
