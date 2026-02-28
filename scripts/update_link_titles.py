@@ -3,12 +3,7 @@ import os
 import re
 from pathlib import Path
 
-from gitbooklib import (
-    get_summary_pages,
-    get_page_title,
-    resolve_page_path,
-    LINK_PATTERN,
-)
+from gitbooklib import GitBookDocs, LINK_PATTERN
 
 def parse_arg(args, key):
     try:
@@ -20,9 +15,10 @@ def parse_arg(args, key):
     return None
 
 def update_link_titles(root_dir, dry_run=False):
+    docs = GitBookDocs(root_dir)
     root_dir_path = Path(root_dir).resolve()
     try:
-        pages = get_summary_pages(root_dir)
+        pages = docs.get_summary_pages()
     except FileNotFoundError as e:
         print(f"Error: {e}")
         return
@@ -31,38 +27,38 @@ def update_link_titles(root_dir, dry_run=False):
 
     def get_title(file_path):
         resolved_path = file_path.resolve()
-        
+
         if resolved_path.is_dir():
             resolved_path = resolved_path / "README.md"
-            
+
         if not resolved_path.exists():
             return None
-            
+
         cache_key = str(resolved_path)
         if cache_key in title_cache:
             return title_cache[cache_key]
-            
+
         try:
             content_lines = resolved_path.read_text(encoding='utf-8').splitlines()
-            title = get_page_title(content_lines)
+            title = docs.get_page_title(content_lines)
             if title and title != "Unknown Title":
                 title_cache[cache_key] = title
                 return title
         except Exception as e:
             print(f"Error reading {resolved_path}: {e}")
-            
+
         title_cache[cache_key] = None
         return None
 
     print(f"Found {len(pages)} pages in SUMMARY.md. Updating links...")
-    
+
     changed_files = 0
 
     for relative_path in pages:
         if relative_path == 'SUMMARY.md' or relative_path.endswith('/SUMMARY.md'):
             continue
-            
-        full_path = resolve_page_path(root_dir, relative_path)
+
+        full_path = docs.resolve_page_path(relative_path)
         
         if not full_path.exists():
             continue
