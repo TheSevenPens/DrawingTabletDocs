@@ -2,3 +2,4 @@ scripts-output/*
 scripts/obj/*
 scripts/bin/*
 .claude/*
+scripts/__pycache__/*
