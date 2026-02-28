@@ -38,7 +38,7 @@ OLED panels are relatively new to pen displays. They only started appearing in 2
 
 ## Refresh Rate
 
-Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [Pen display refresh rate](../pen-displays/pen-display-refresh-rate.md)
+Pen displays typically they only up to 60Hz. Higher refresh rates are EXTREMELY rare. More here: [Pen display refresh rate](../pen-displays/refresh-rate.md)
 
 ## Display inputs and cabling
 
@@ -94,7 +94,7 @@ Modern pen displays may also use normal power adapters. But some support getting
 
 ## Anti-glare sparkle
 
-It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle. More here: [Anti-glare sparkle](../pen-displays/anti-glare-sparkle.md)
+It varies quite a bit among pen displays, but often they exhibit more Anti-Glare sparkle than monitors. Sometimes it is quite noticeable. Some people are very irritated by the visual effect of this anti-glare sparkle. More here: [Anti-glare sparkle](../pen-displays/ag-sparkle.md)
 
 ## Speakers
 

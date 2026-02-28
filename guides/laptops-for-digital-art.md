@@ -61,7 +61,7 @@ These days the minimum I would recommend is 16GB of RAM. 16GB works will for me 
 
 Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](connecting/connecting-pen-display/)
 
-I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [USB-C DisplayPort alt mode](pen-displays/usbc-displayport-alt-mode.md)
+I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [USB-C DisplayPort alt mode](pen-displays/usbc-dp-alt-mode.md)
 
 If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [Connecting a pen display with USB-C](connecting/connecting-pen-display/connecting-pen-display-usbc.md).Power consumption
 

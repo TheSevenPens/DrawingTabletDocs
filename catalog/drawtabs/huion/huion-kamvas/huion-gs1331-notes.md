@@ -31,7 +31,7 @@ I have removed the film and have used it by drawing on directly on its glass sur
 
 ## **Anti-glare sparkle**
 
-Exhibits moderate [Anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md)
+Exhibits moderate [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
 
 ## Connections and cabling
 

@@ -75,7 +75,7 @@ If you decide on Wacom and want a pen tablet, read this guide: [Comparison of Wa
 ## **Things to watch out for**
 
 * **Diagonal wobble** - All drawing tablets have some wobble when moving the pen at an angle; it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be sensitive to wobble, so make sure the tablet you buy doesn't have too much. More here: [Diagonal wobble](../core/diagonal-wobble.md).
-* **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them, which produces a kind of sparkle effect. Some pen displays have a lot of it and some have very little. Some people can tolerate it; others find it distracting. More here: [Anti-glare sparkle](../guides/pen-displays/anti-glare-sparkle.md).
+* **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them, which produces a kind of sparkle effect. Some pen displays have a lot of it and some have very little. Some people can tolerate it; others find it distracting. More here: [Anti-glare sparkle](../guides/pen-displays/ag-sparkle.md).
 * **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays, you should be prepared to deal with this topic. The problem usually isn't the tablet itself, but how your computer's ports work and which ones you are trying to use. [TSG: Pen display shows NO SIGNAL message](../troubleshooting/tsg-no-signal.md).
 
 ## **Already have an iPad?**

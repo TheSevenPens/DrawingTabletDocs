@@ -26,7 +26,7 @@ The only issue with this tablet is that it exhibits <mark style="color:red;">**t
 
 I'm not even typically sensitive to anti-glare sparkle. I can tolerate a lot of it. It took me several weeks to adjust to adjust to this. I mostly don't mind it now. Some of you will surely hate the amount of sparkle, and mainy people complain about this model for this reason.
 
-More here: [Anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md)
+More here: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
 
 ## **Connections and cabling**
 

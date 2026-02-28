@@ -169,7 +169,7 @@ Compare to some other diagonal samples linked from here: [Diagonal wobble](../..
 
 ### **Anti-glare treatment and sparkle**
 
-* Background: [Anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md)
+* Background: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
   * Reflections on your pen display would make it difficult to draw. To reduce reflections, manufacturers give an anti-glare (AG) treatment to the display/ The AG treatment is either etched glass or an AG film applied on top of the glass
 * The Cintiq Pro 27 uses AG etched glass
 * The AG sparkle from the etched glass is GOOD (i.e. low) for a display of this size and resolution

@@ -45,7 +45,7 @@ There is no single right answer. Each has pros and cons. More here: [Pen tablets
 
 #### FAQ: Why does my pen display have a sparkly grain/noisy/greasy look?
 
-To avoid the light sources from interfering with using your drawing tablet, Manufacturers apply an **anti-glare treatmen**t to drawing tablets. This anti-glare treatment disperses like from the tablet in such a way that you see it as a colorful sparkle. Read more here: [Anti-glare sparkle](guides/pen-displays/anti-glare-sparkle.md).
+To avoid the light sources from interfering with using your drawing tablet, Manufacturers apply an **anti-glare treatmen**t to drawing tablets. This anti-glare treatment disperses like from the tablet in such a way that you see it as a colorful sparkle. Read more here: [Anti-glare sparkle](guides/pen-displays/ag-sparkle.md).
 
 #### FAQ: Can I use a pen display as a normal monitor?
 
@@ -101,7 +101,7 @@ Answer: I personally do not recommend this,. However. YES it is possible, but BE
 
 #### FAQ: How do I connect my pen to my drawing tablet?
 
-More here: [Connecting a pen to a drawing tablet](guides/connecting/connecting-a-pen-to-a-drawing-tablet.md)
+More here: [Connecting a pen to a drawing tablet](guides/connecting/connecting-a-pen-to-drawtab.md)
 
 #### FAQ: My pen is lost/broken. Can I just buy a replacement pen or do I have to buy a new tablet?
 

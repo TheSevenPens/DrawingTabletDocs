@@ -37,7 +37,7 @@ You can do this verification easily:
 
 ## **Video signal with DP alt mode support**
 
-Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../../pen-displays/usbc-displayport-alt-mode.md).
+Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../../pen-displays/usbc-dp-alt-mode.md).
 
 ## Power support
 

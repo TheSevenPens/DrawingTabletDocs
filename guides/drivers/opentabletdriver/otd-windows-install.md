@@ -257,7 +257,7 @@ By default OTD performs no smoothing on the pen data. This is desirable because
 
 Two ways to introduce smoothing
 
-* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [Configure smoothing in applications](../../drawing/configure-smoothing-in-applications.md)
+* **Application-level smoothing** - To add smoothing back in to your drawing, your first and easiest option is to use the smoothing features in your drawing application. Learn more here: [Configure smoothing in applications](../../drawing/configure-smoothing-in-apps.md)
 * **Driver-level smoothing in OTD** - this will be a little more complex to do. More here: [Smoothing with OpenTabletDriver](otd-smoothing.md)
 
 ### STEP 4.4 Configure tablet buttons

@@ -112,7 +112,7 @@ More here: [Motherboard HDMI vs GPU HDMI ports](../guides/connecting/connecting-
 
 ## USB-C connection options
 
-**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you. More here: [USB-C DisplayPort alt mode](../guides/pen-displays/usbc-displayport-alt-mode.md)
+**IF** your computer has a USB-C port that supports a display signal there are a couple of options for you. More here: [USB-C DisplayPort alt mode](../guides/pen-displays/usbc-dp-alt-mode.md)
 
 ### USB-C to USB-C
 
@@ -131,7 +131,7 @@ Sometimes adapters themselves can be the source of the NO SIGNAL problem.
 
 ## HDMI Splitters
 
-HDMI Splitters are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. More here: [Using HDMI splitters with pen displays](../guides/pen-displays/using-hdmi-splitters-with-pen-displays.md)
+HDMI Splitters are also sometimes a bit "flaky" and can cause a NO SIGNAL problem. More here: [Using HDMI splitters with pen displays](../guides/pen-displays/hdmi-splitters.md)
 
 * Try connecting WITHOUT an HDMI splitter
 

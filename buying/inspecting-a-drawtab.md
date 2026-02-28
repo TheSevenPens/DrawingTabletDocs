@@ -59,7 +59,7 @@ Make sure there isn't anything magnetic underneath the tablet. Some stands use m
 * All tablets have some pointer lag — it's usually very noticeable on pen displays. Verify that you're OK with the amount this display has.
 * All pen displays have some minor edge and corner inaccuracy in pen tracking. Check how much there is and whether you're OK with it.
 * Verify that you're OK with the anti-glare sparkle on the screen. Some people are very sensitive to this.
-* Verify that the display does not have a color tint on the edges. More here: [Color tint on edges of display](../guides/pen-displays/color-tint-on-edges-of-display.md).
+* Verify that the display does not have a color tint on the edges. More here: [Color tint on edges of display](../guides/pen-displays/color-tint-on-edges.md).
 
 ## **Surface**
 

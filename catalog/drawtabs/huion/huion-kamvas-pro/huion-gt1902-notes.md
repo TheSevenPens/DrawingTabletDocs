@@ -170,7 +170,7 @@ the display uses an etched glass surface which does a good job dispersing light 
 
 ### **Anti-Glare sparkle**
 
-OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle. More here: [Anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md)
+OK. This is a BIG IMPROVEMENT over some older Huion models. Slightly noticeable at 6 inches. At normal drawing distance for me not noticeable. I am very happy with the outcome. In comparison the Wacom Cintiq Pro 16 (DTK-167) has a little less AG sparkle. More here: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
 
 How the AG sparkle of this tablet compares to other tablets
 

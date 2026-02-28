@@ -16,7 +16,7 @@ If you are beginner, then consider these specific models which are great introdu
 
 ### For pen displays
 
-* Make sure you know about [Anti-glare sparkle](../guides/pen-displays/anti-glare-sparkle.md) before you buy a pen display.
+* Make sure you know about [Anti-glare sparkle](../guides/pen-displays/ag-sparkle.md) before you buy a pen display.
 * Pen displays are NOT inherently better than pen tablets. More here: [Pen tablets vs pen displays](../buying/pen-tablets-vs-pen-displays.md)
 
 ## **Resources**

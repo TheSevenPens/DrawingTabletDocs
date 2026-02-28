@@ -16,7 +16,7 @@ This is a persistent point of confusion. People sometimes think a screen with "l
 
 * **Transparency** - Screen protectors must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a tablet with a screen.
 * **Anti-glare** - Screen protectors usually offer some amount of ant-glare treatment. Screen protectors vary in how much of this treatment they have. And some deliberately offer low or no AG treatment at all.
-  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [Anti-glare sparkle](../../../../guides/pen-displays/anti-glare-sparkle.md).
+  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md).
 * **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [Parallax](../../../../guides/pen-displays/parallax.md).
 
 ## Pre-installed screen protectors

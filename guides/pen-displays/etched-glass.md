@@ -15,9 +15,8 @@ Etched glass provides two benefits
 
 ## Sparkle
 
-Like other anti-glare treatments, etched glass can produce an effect called **anti-glare sparkle** which is a "rainbow noise" effect. Depending on the tablet there will be a little or lot of this sparkle. Learn more here: [Anti-glare sparkle](anti-glare-sparkle.md).
+Like other anti-glare treatments, etched glass can produce an effect called **anti-glare sparkle** which is a "rainbow noise" effect. Depending on the tablet there will be a little or lot of this sparkle. Learn more here: [Anti-glare sparkle](ag-sparkle.md).
 
 ## Permanence
 
-Etched glass is a permanent treatment to the glass. It cannot be removed.&#x20;
-
+Etched glass is a permanent treatment to the glass. It cannot be removed.

@@ -43,7 +43,7 @@ For example:
 
 ## **Anti-glare sparkle**
 
-Given a specific physical size for a display panel, anti-glare sparkle is more noticeable on higher resolutions. See this document for more information: [Anti-glare sparkle](anti-glare-sparkle.md).
+Given a specific physical size for a display panel, anti-glare sparkle is more noticeable on higher resolutions. See this document for more information: [Anti-glare sparkle](ag-sparkle.md).
 
 ## Pixel density: Pixels-per-inch (PPI)
 

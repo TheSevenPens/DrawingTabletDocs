@@ -2,7 +2,7 @@
 
 **Requirements on USB-C port**
 
-Not all USB-C ports carry a video signal. You need one that can. Read more here: [USB-C DisplayPort alt mode](../usbc-displayport-alt-mode.md)
+Not all USB-C ports carry a video signal. You need one that can. Read more here: [USB-C DisplayPort alt mode](../usbc-dp-alt-mode.md)
 
 **Quality**
 
