@@ -99,7 +99,7 @@ More here: [How many pressure levels do you really need?](how-many-pressure-leve
 
 * Make sure you know how to contact customer support.
 * Make sure you know the warranty terms and how (if needed) you can return the tablet to the manufacturer or to the retailer (e.g., Amazon) you bought it from.
-* Here's a list of [Common problems](../troubleshooting/common-problems-with-drawing-tablets.md). Although the majority of users will have no issues, a small number will run into problems on day one.
+* Here's a list of [Common problems](../troubleshooting/common-drawtab-problems.md). Although the majority of users will have no issues, a small number will run into problems on day one.
 * I have a list of troubleshooting docs here: [Troubleshooting](../troubleshooting/)
 * The most complex problem for pen displays is usually the "NO SIGNAL" problem. If it happens, this guide will help: [TSG: Pen display shows NO SIGNAL message](../troubleshooting/tsg-no-signal.md)
 

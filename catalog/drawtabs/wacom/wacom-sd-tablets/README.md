@@ -27,9 +27,9 @@ Wacom emphasizes in the product materials that this is a “cordless” tablet. 
 
 ## Connections and cabling
 
-* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../../guides/connecting/connecting-a-pen-tablet/connecting-a-drawing-tablets-with-a-serial-cable.md)
+* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../../guides/connecting/connecting-a-pen-tablet/connecting-drawtabs-with-serial-cable.md)
 * The SD-510C unlike some other SD models, does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer. That box contains the "brains" of the tablet and lets the SD-510C be much thinner than other SD models.
-* Cables were permanently fixed to the tablet.&#x20;
+* Cables were permanently fixed to the tablet.
 
 ## Setting up the tablets
 
@@ -50,7 +50,7 @@ The packaging isn't very attractive by today's standards. It's very plain lookin
 
 ## Design
 
-* It's understandable how to open the device. On the bottom, screws are visible.&#x20;
+* It's understandable how to open the device. On the bottom, screws are visible.
 * Like equipment of the era, it has a beige color.
 
 ## Thickness
@@ -69,8 +69,8 @@ But other models in the SD series are not much much thicker and do not feature t
 * [User manual for Wacom SD-31A Series, 32A Series, 42A Series](https://archive.org/details/wacom_sd-31a_32a_42a_manual) (Japanese)
 * [User manual for SD-013A](https://archive.org/details/sd013a) (English)
 * [User manual for SD-210L](https://archive.org/details/sd210l) (English)
-* [User manual for SD-31xE, SD-32xE, SD-42xE](https://archive.org/details/sd310e) (English)&#x20;
-* WACOM Software Interface Reference Manual - UD, KT, and SD series - [https://vt100.net/wacom/wacom-progman.pdf ](https://vt100.net/wacom/wacom-progman.pdf)
+* [User manual for SD-31xE, SD-32xE, SD-42xE](https://archive.org/details/sd310e) (English)
+* WACOM Software Interface Reference Manual - UD, KT, and SD series - [https://vt100.net/wacom/wacom-progman.pdf](https://vt100.net/wacom/wacom-progman.pdf)
 
 ## Using Wacom SD tablets on modern computers
 

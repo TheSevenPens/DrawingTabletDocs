@@ -205,7 +205,7 @@ Drawing tablets have been released over many years, so when you shop online you 
 
 ## Preparing for a drawing tablet
 
-* **Troubleshooting -** At some point, something is going to go wrong. I highly suggest familiarizing yourself with [Common problems](../troubleshooting/common-problems-with-drawing-tablets.md) and these [Troubleshooting](../troubleshooting/).
+* **Troubleshooting -** At some point, something is going to go wrong. I highly suggest familiarizing yourself with [Common problems](../troubleshooting/common-drawtab-problems.md) and these [Troubleshooting](../troubleshooting/).
 * **Accessories** - There are some useful accessories for tablets. More here: [Accessory links](../catalog/accessories/)
 * **Purchasing** - Before you purchase, go through this [Buying tips](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [Getting started with a drawing tablet](../basics/getting-started.md)

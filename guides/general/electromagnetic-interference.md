@@ -30,7 +30,7 @@ Examples:
 
 * A wireless mouse might have trouble working near some tablets.
 * A tablet might interfere with your WiFi network connection
-  * See: [TSG: WiFi and Internet problems with drawing tablets](../../troubleshooting/tsg-wifi-and-internet-problems-with-drawing-tablets.md)&#x20;
+  * See: [TSG: WiFi and Internet problems with drawing tablets](../../troubleshooting/tsg-wifi-and-internet-problems.md)
 
 ## General weirdness
 
@@ -40,10 +40,10 @@ Weird things can happen! I have a keyboard, that when I unplug its USB-C cable w
 
 There are computer desks that are made of metal and deliberately magnetized. These can interfere with your drawing tablet. See:
 
-* [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my_whole_desk_is_a_magnet_what_do_i_do/) &#x20;
+* [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my_whole_desk_is_a_magnet_what_do_i_do/)
 
 ## iPads and cases
 
-Some iPad Cases have magnets in them and they can interfere with the proper functioning of an Apple Pencil.&#x20;
+Some iPad Cases have magnets in them and they can interfere with the proper functioning of an Apple Pencil.
 
 [/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/) 2024-06-05
