@@ -1,6 +1,6 @@
 # Huion Kamvas 16 GEN3 (GS1563) notes
 
-My foll notes are not available yes, but I did livestrream my unboxing and basic testing:
+My full notes are not available yes, but I did livestream my unboxing and basic testing:
 
 {% embed url="https://youtube.com/live/-qmdAHY4f40?feature=share" %}
 
@@ -15,6 +15,79 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 * [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025-01-07
 * [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025-01-07
 * [Teoh on Tech blog review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) 2025-01-09
+
+## Basics
+
+* Name: Huion Kamvas 16 GEN3&#x20;
+* Model: GS1563
+* Year teleased: 2025
+
+## Specs
+
+### Device
+
+* Dimensions: 421.2 x 236.81 x 12.62mm
+* Weight: 1.245kg
+* Ports: 2 USB-c ports
+  * 1x USB-C Port for use with the 3-in-1 cable
+  * 1x Full-Featured USB-C Port
+
+### Digitizer
+
+* Size
+  * Dimensions:
+    * 350 x 197mm&#x20;
+  * Diagonal (15.8”)
+* Tech: EMR
+* Resolution: 200LPMM (5080 LPI)
+* Number of pressure levels: 16384&#x20;
+* Hover: 10mm
+* Report Rate: ＞260PPS
+* Accuracy:&#x20;
+  * Center: ±0.3mm&#x20;
+  * Corner: ±2mm&#x20;
+
+### Display
+
+* Native resolution: 2560 x 1440
+* Aspect ratio: 16:9
+* Display tech: IPS
+* Laminated: Yes
+* AG treatment: AG etched glass
+* Contrast Ratio: 1000:1
+* Brightness: 220nits
+* Response Time: 14ms
+* Viewing Angle: 89°/89°(H)/89°/89°(V) (Typ.)(CR＞10)
+* Color Gamut Volume:&#x20;
+  * 120% sRGB&#x20;
+  * Coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB)
+* Color bit depth: 8 bits per channel (24bits per pixel)
+
+## Pen
+
+### Included pen
+
+* Tablet comes with PW600L&#x20;
+* Pen Technology: Battery-Free Electromagnetic Resonance
+* Tilt Support: ±60°
+
+## Non-pen inputs
+
+### Buttons & dials
+
+* 6 buttons
+* 2 dials
+
+### Touch
+
+This tablet does NOT support touch
+
+## Ergonomics
+
+### Stand
+
+* This tablet does NOT come with a stand in the box
+* The recommended stand is the Huion ST300&#x20;
 
 ## Compared to the XP-Pen Artist Pro 16 GEN2
 
