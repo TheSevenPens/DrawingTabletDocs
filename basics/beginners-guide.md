@@ -112,7 +112,7 @@ See: [App compatibility with drawing tablets](app-compatibility.md)
 
 ## Pen nibs
 
-At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [Nib wear](../guides/maintaining-drawtabs/nib-wear.md)
+At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [Nib wear](../guides/maintaining/nib-wear.md)
 
 Tablets almost always come with spare nibs. Some nibs made of different material which provide a different drawing feeling. More here: [Pen nib material](../core/pen-nib-material.md).
 
