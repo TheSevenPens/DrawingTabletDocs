@@ -1,4 +1,4 @@
-# Calibrate pen position on a pen display
+# Calibrate pen position
 
 ## Overview
 
@@ -8,23 +8,27 @@ For a display tablet your are pointing at one location on the pen, but the point
 
 Most pen displays offer a pen calibration to solve this problem.
 
-Some, like the Wacom Cintiq Pro 27 offer this claibration because they are well-calibrated when you get them.
+Some, like the Wacom Cintiq Pro 27 offer this calibration because they are well-calibrated when you get them.
 
 ## What about pen tablets?
 
 Pen calibration is a feature found in pen displays. Pen tablets don't need the feature.
 
-## XP-Pen pen displays
+## Instructions
 
+{% tabs %}
+{% tab title="XP-Pen" %}
 * Open the XP-Pen **Pentablet** app
 * Under **Work area** > **Screen**, press **Calibrate**
 * Follow the calibration steps&#x20;
+{% endtab %}
 
-## Huion pen displays
-
+{% tab title="Huion" %}
 * &#x20;Open the **HuionTablet** app
 * Under **Pen Display** > **Working Area**, press **Monitor Calibration**
 * Follow the calibration steps
+{% endtab %}
+{% endtabs %}
 
 
 

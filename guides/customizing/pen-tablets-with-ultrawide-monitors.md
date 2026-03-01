@@ -1,7 +1,5 @@
 # Using pen tablets with ultrawide monitors
 
-
-
 ## Overview
 
 Using a pen tablet with a widescreen monitor presents some challenges and some new opportunities with a pen tablet due to the extreme differences in aspect ratio.
@@ -14,7 +12,7 @@ Widescreen or ultrawidescreen monitors have very different aspect ratios. So, th
 
 ## Option 1: Use Force Proportions. Map a proportional part of the tablet's active area to the entire monitor.
 
-The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area.  See: [Matching aspect ratios with Force Proportions](force-proportions.md)
+The solution is the use the Force Proportions feature which changes the tablets active area to match that of the monitor. This solves the distortion problem at the cost of the loss of some of the tablet's active area. See: [Matching aspect ratios with Force Proportions](force-proportions.md)
 
 <figure><img src="../../.gitbook/assets/image-000496.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +32,7 @@ You get to use the full area of your tablet, but then you have to carefully posi
 
 Some widescreen monitors support being treated as two separate monitors. In this configuration, the computer will be have TWO SEPARATE HDMI CABLES leading to the monitor and will think it connected to two independent monitors. The computer will not realize in any way they are part of the same physical monitor.
 
-Not all monitors support splitting in this way - but when do it can be done via a monitor's **Picture-by-Picture (PBP)** feature. &#x20;
+Not all monitors support splitting in this way - but when do it can be done via a monitor's **Picture-by-Picture (PBP)** feature.
 
 This option:
 
@@ -50,6 +48,3 @@ Here are the overall steps:
 * in the drawing tablet driver, setup a pen or tablet button for Display Toggle
 
 <figure><img src="../../.gitbook/assets/image-000406.png" alt=""><figcaption></figcaption></figure>
-
-###
-

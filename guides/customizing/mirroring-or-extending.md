@@ -27,9 +27,9 @@ If you just want to see your canvas on both displays, explore this option instea
 
 ## Steps to control extend vs duplicate
 
-The steps depend on which operating system you are using.
+{% tabs %}
+{% tab title="Windows 11" %}
 
-### Windows 11
 
 * Open **Display Settings**
 * The displays your computer is connected to will be shown and each one is numbered. The one in blue is the display currently selected.
@@ -41,9 +41,12 @@ The steps depend on which operating system you are using.
   * **Duplicate desktop on X and Y**
     * X and Y will be the numbers referring to the displays
 * Switch the dropdown between the **Extend** or **Duplicate** option as needed. &#x20;
+{% endtab %}
 
-### Mac OS (Monterey)
-
+{% tab title="MacOS" %}
 * Go to **Displays > Display Settings**
 * Select your monitor, then set **Use As** to **Primary Display**
 * Then select your drawing tablet's display and set **Use As** to **Mirror**.
+{% endtab %}
+{% endtabs %}
+
