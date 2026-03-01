@@ -29,7 +29,7 @@ The first thing you need to understand is the type of drawing tablet you want to
 
 * In general I recommend people to spend the least amount of money possible if they are just starting out.
 * For that reason I suggest that you get a pen tablet (no screen) unless you are absolutely sure that you MUST have a pen display (has a screen). More here: [Pen tablets vs pen displays](../../../buying/pen-tablets-vs-pen-displays.md)
-* If you really need a standalone, get an iPad or Wacom MovinkPad, or a Samsung Galaxy Tab S tablet. More here: [Pen-enabled mobile device recommendations](../../standalone-recs/mobile-device-recs.md)
+* If you really need a standalone, get an iPad or Wacom MovinkPad, or a Samsung Galaxy Tab S tablet. More here: [Pen-enabled mobile device recommendations](../../mobile-device-recs.md)
 
 ## Applications
 

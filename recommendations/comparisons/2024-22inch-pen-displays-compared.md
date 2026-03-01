@@ -1,3 +1,3 @@
-# 22" pen displays compared (2024)
+# 2024 22" pen displays compared
 
-This content has been replaced by: [Pen display recommendations (LARGE)](../pen-display-recs/pen-display-recs-large.md)&#x20;
+This content has been replaced by: [Pen display recommendations (LARGE)](../pen-display-recs-large.md)

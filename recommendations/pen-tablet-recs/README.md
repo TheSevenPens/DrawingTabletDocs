@@ -1,4 +1,0 @@
-# Pen tablet recommendations
-
-
-

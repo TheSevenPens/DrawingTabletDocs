@@ -2,7 +2,7 @@
 
 ## Overview
 
-Instead of pen computers, I recommend looking at other kinds of standalone devices: **pen-enabled mobile devices** or **pen-enabled laptops**.&#x20;
+Instead of pen computers, I recommend looking at other kinds of standalone devices: **pen-enabled mobile devices** or **pen-enabled laptops**.
 
 * To understand why I don't recommend pen computers: [The case against pen computers](the-case-against-pen-computers.md)
 
@@ -11,12 +11,12 @@ Instead of pen computers, I recommend looking at other kinds of standalone devic
 * Apple iPad Pro with the Apple Pencil
 * Samsung Galaxy Tab S series tablets that use the Samsung S Pen
 
-## **ALTERNATIVE #2: Pen-enabled laptops**&#x20;
+## **ALTERNATIVE #2: Pen-enabled laptops**
 
 * Microsoft Surface Pro
 * Samsung Galaxy Book 5 Pro
 
-More here: [Standalone drawing tablet recommendations](../recommendations/standalone-recs/)
+More here: [Standalone drawing tablet recommendations](/broken/pages/DBt1MVbtgnX3hddI6fU2)
 
 ## ALTERNATIVE #3: Laptops/Mini PCs + pen display
 

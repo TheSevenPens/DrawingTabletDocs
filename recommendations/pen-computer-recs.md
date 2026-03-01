@@ -3,11 +3,11 @@
 {% hint style="warning" %}
 **Before you purchase:**
 
-* Read [Beginner's guide to drawing tablets](../../basics/beginners-guide.md)
-* Review these [Buying tips](../../buying/buying-tips.md)
-* Look through the [Drawing tablet buying guide](../../buying/)
+* Read [Beginner's guide to drawing tablets](../basics/beginners-guide.md)
+* Review these [Buying tips](../buying/buying-tips.md)
+* Look through the [Drawing tablet buying guide](../buying/)
 
-If you want to see the full set recommendations go here: [Recommendations](../)
+If you want to see the full set recommendations go here: [Recommendations](./)
 {% endhint %}
 
 ## **Overview**
@@ -31,11 +31,11 @@ If you want to see the full set recommendations go here: [Recommendations](../)
 
 ## <mark style="color:red;">My position on pen computers</mark>
 
-As a policy, I do NOT recommend pen computers. The reasons are many and documented here: [The case against pen computers](../../buying/the-case-against-pen-computers.md)**.**
+As a policy, I do NOT recommend pen computers. The reasons are many and documented here: [The case against pen computers](../buying/the-case-against-pen-computers.md)**.**
 
 I recognize that some people LOVE the experience of using a pen computer. But overall because of the cost of purchase, support, repair, lack of upgradability, etc. I cannot cannot in good conscience recommend them.
 
-I suggest you look at alternatives: [Alternatives to pen computers](../../buying/alternatives-to-pen-computers.md).
+I suggest you look at alternatives: [Alternatives to pen computers](../buying/alternatives-to-pen-computers.md).
 
 ## **Current models**
 

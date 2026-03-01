@@ -1,2 +1,0 @@
-# Pen display recommendations
-
