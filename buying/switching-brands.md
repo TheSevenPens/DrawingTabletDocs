@@ -6,7 +6,7 @@ If you already have a tablet and are looking to buy a new one, you might be thin
 
 ## Wacom tablets
 
-Wacom tablets will come up in this discussion a lot. The key thing to keep in mind with Wacom is that their professional and consumer pen tablets are completely different experiences.&#x20;
+Wacom tablets will come up in this discussion a lot. The key thing to keep in mind with Wacom is that their professional and consumer pen tablets are completely different experiences.
 
 * Wacom professional tablets are the best in the market.
 * Wacom professional pens are the best in the market.
@@ -15,7 +15,7 @@ Wacom tablets will come up in this discussion a lot. The key thing to keep in mi
 
 ## Moving from Wacom professional tablets
 
-If you already have a Wacom professional tablet, switching to another brand is unlikely to give you a better drawing experience.&#x20;
+If you already have a Wacom professional tablet, switching to another brand is unlikely to give you a better drawing experience.
 
 **Physical pressure range (IAF and max pressure)**
 
@@ -23,13 +23,13 @@ As of 2026, Wacom professional pens still have the lowest IAF in the industry, m
 
 If having a pen that is extremely sensitive to pressure is important to you — one that detects very light strokes — you may not enjoy the transition to another brand.
 
-More here: [2025 Professional pens compared](../recommendations/comparisons/2025-professional-pens-compared.md)
+More here: [2025 Professional pens compared](../recommendations/comparisons/2025-pro-pens-compared.md)
 
 ## Old Wacom vs new non-Wacom
 
 Wacom has been in the industry for 40 years and has released many tablets over that time.
 
-Wacom's older professional tablets are still better than the newest tablets from other brands. The gap has shrunk significantly, and for many people you would not be able to tell the difference.&#x20;
+Wacom's older professional tablets are still better than the newest tablets from other brands. The gap has shrunk significantly, and for many people you would not be able to tell the difference.
 
 ## Some Wacom consumer tablets are not great
 
@@ -86,7 +86,7 @@ On macOS, my experience has been quite different — tablet drivers tend to coex
 
 If you have a non-Wacom tablet and want to switch to Wacom, and you're considering a Wacom Professional tablet, there is one important thing to be aware of.
 
-Wacom professional pens tend to be much more expensive than non-Wacom pens. Some Wacom professional pens cost more than entire non-Wacom tablets. Be aware of replacement pen prices in case you ever lose or damage yours.&#x20;
+Wacom professional pens tend to be much more expensive than non-Wacom pens. Some Wacom professional pens cost more than entire non-Wacom tablets. Be aware of replacement pen prices in case you ever lose or damage yours.
 
 ## Specific recommendations
 
