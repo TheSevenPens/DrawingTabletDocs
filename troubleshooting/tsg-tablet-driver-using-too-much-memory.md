@@ -27,11 +27,7 @@ Overall, there is nothing you can do to fix the problem directly. It is an issue
 * Your driver user interface may give you an option to restart the driver. This will reset the memory usage and is less of a headache than restarting the computer
 * If the problem keeps happening though, then you need to contact customer support for your tablet.
 
+## Examples of high memory usage
 
-
-
-
-
-
-
+<figure><img src="../.gitbook/assets/wacom-macos-high-memory-1 (Large).jpeg" alt="" width="375"><figcaption><p>MacOS / Wacom Center / 166.5GB</p></figcaption></figure>
 
