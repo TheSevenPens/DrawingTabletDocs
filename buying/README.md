@@ -5,7 +5,7 @@
 I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
 
 {% hint style="info" %}
-If you are new to drawing tablets, read this first: [Beginner's guide to drawing tablets](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you just want to quickly get to some beginner recommendations, go here: [Beginner recommendations](../recommendations/scenarios/beginner-recs/).
+If you are new to drawing tablets, read this first: [Beginner's guide to drawing tablets](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you just want to quickly get to some beginner recommendations, go here: [Beginner recommendations](../recommendations/scenario-recs/beginner-recs/).
 {% endhint %}
 
 ## Buying guide video series
@@ -47,7 +47,7 @@ I strongly urge you to read this buying guide and the beginner's guide completel
 * If you really want a standalone tablet:
   * If your priority is the best drawing experience: Wacom MovinkPad or Wacom MovinkPad Pro
   * If your priority is a good general-purpose experience with a decent drawing experience: get an iPad or a Samsung Galaxy Tab S device.
-* If you are a beginner, I have simplified the options for you: [Beginner recommendations](../recommendations/scenarios/beginner-recs/).
+* If you are a beginner, I have simplified the options for you: [Beginner recommendations](../recommendations/scenario-recs/beginner-recs/).
 
 ## Brands
 
@@ -161,7 +161,7 @@ More here: [Operating systems](../guides/operating-systems/)
 * **Taking notes** - I don't typically recommend pen tablets or pen displays for note-taking. Some people do enjoy it, but I think standalone devices like an iPad work much better for this purpose. More here: [Taking notes with drawing tablets](../basics/scenarios/taking-notes.md)
 * **Educational videos** - You've probably seen Khan Academy-style videos — those are made with a drawing tablet. More here: [Making educational videos with a drawing tablet](../basics/scenarios/edu-vids.md)
 * **Gaming** - Some people play games with drawing tablets. More here: [Gaming with a drawing tablet](../basics/scenarios/gaming.md)
-* **Playing osu!** - If you want to play osu!, there are specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](drawtabs-for-osu.md)
+* **Playing osu!** - If you want to play osu!, there are specific drawing tablets you should consider. More here: [Buying a drawing tablet for osu!](../recommendations/scenario-recs/osu-recs.md)
 
 ## Look at model numbers, not just names
 

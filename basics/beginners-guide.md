@@ -9,7 +9,7 @@ New to drawing tablets? This guide helps you understand how they work, prepares 
 
 1. Read this beginner's guide first.
 2. Then look at the detailed [Drawing tablet buying guide](../buying/). It has links to my [Recommendations](../recommendations/)**.**
-3. If you just want a quick recommendation for beginners, go here: [Beginner recommendations](../recommendations/scenarios/beginner-recs/).
+3. If you just want a quick recommendation for beginners, go here: [Beginner recommendations](../recommendations/scenario-recs/beginner-recs/).
 4. Once your tablet arrives, look here: [Getting started with a drawing tablet](getting-started.md).
 {% endhint %}
 

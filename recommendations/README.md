@@ -10,7 +10,7 @@ Check out the [2025 Drawing tablet tier list](comparisons/2025-drawtab-tier-list
 
 ## For beginners
 
-If you are beginner, then consider these specific models which are great introduction to drawing tablets. [Beginner recommendations](scenarios/beginner-recs/).
+If you are beginner, then consider these specific models which are great introduction to drawing tablets. [Beginner recommendations](scenario-recs/beginner-recs/).
 
 ## Considerations
 
