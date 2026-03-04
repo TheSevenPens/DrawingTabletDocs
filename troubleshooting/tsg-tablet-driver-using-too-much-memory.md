@@ -31,3 +31,7 @@ Overall, there is nothing you can do to fix the problem directly. It is an issue
 
 <figure><img src="../.gitbook/assets/wacom-macos-high-memory-1 (Large).jpeg" alt="" width="375"><figcaption><p>MacOS / Wacom Center / 166.5GB</p></figcaption></figure>
 
+Reddit threads:
+
+* [https://www.reddit.com/r/wacom/comments/1rj272t/wacom\_tablet\_is\_using\_too\_much\_memory/](https://www.reddit.com/r/wacom/comments/1rj272t/wacom_tablet_is_using_too_much_memory/)
+*
