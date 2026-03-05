@@ -43,8 +43,11 @@ I hope the next generation of this tablet incorporates these features:
 ### Links
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)
+* [Adam Duff - Wacom MovinkPad Pro 14 - Secret Settings / Accessories / Setup Guide](https://www.youtube.com/watch?v=xAZpMpdyWes) 2026-03-05
 * [Gartzia Arts - Review of MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) 2025-12-16
 * [Brad Colbow - Review MovinkPad Pro 14](https://www.youtube.com/watch?v=lpBGmiO4f7I) 2025-10-17
+* [Teoh on Tech - Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) - 2025-12-08&#x20;
+* [Teoh on Tech - Wacom MovinkPad Pro 14 review](https://www.youtube.com/watch?v=CRxC_tyyUCk) - 2025-11-22<br>
 
 ## Specs
 
