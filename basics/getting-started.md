@@ -140,4 +140,3 @@ Perform this configuration: [Disable the press-and-hold ring in Windows](../guid
 * [Infinite Painter](../catalog/apps/infinite-painter.md) - this is the equivalent of Procreate, but for Android devices.
 * **Other applications -** Look here to find a large number of applications to explore: [Apps](../apps/)
 
-##
