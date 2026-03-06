@@ -1,4 +1,4 @@
-# Cintiq 21 UX 2005 (DTZ-2100)
+# Wacom Cintiq 21UX 2005 (DTZ-2100) notes
 
 ## Overview
 
@@ -6,7 +6,7 @@ Release date: 2005
 
 NOTE: A second generation 21 UX model (DTK-2100) was released in 2010.&#x20;
 
-## My experience
+## My experience in 2007
 
 The DTZ-2100 was my first pen display. I bought it in late 2007 for $2500 USD ($2644 with taxes).
 
@@ -24,3 +24,10 @@ After unboxing and setting it up, the experience was very disappointing.
 After 15 minutes, I stopped. Over the next few years I would occasionally put it back on my desk to try again, but I never got used to it.
 
 In 2011, I gave it to an acquaintance who was studying design and had always wanted a pen display. I didn't regret giving it away at all.
+
+## Basics
+
+* Last compatible Wacom driver: Version 6.3.15-3
+
+
+
