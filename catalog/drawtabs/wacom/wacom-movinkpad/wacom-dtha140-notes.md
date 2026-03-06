@@ -4,7 +4,7 @@
 
 OVERALL RATING: EXCELLENT
 
-As of December 2025, This is the standalone tablet that offers the BEST drawing experience. While it does have some missing features, it is an excellent tablet at a reasonable cost for what it provides.
+As of March 2026, This is the standalone tablet that offers the BEST drawing experience. While it does have some missing features, it is an excellent tablet at a reasonable cost for what it provides.
 
 ### Why this tablet is important
 
@@ -26,7 +26,7 @@ If you are familiar with a Samsung Galaxy Tab S11 Ultra. Think of this as the sa
 
 ### Price/Performance
 
-While not an inexpensive choice, this tablet delivers more than what I would expect given the cost. For what you get, I think this is a terrific deal.
+While not an inexpensive choice, this tablet delivers more value than what I would expect given the cost. For what you get, this is a terrific deal.
 
 ### What would make this tablet even better
 
@@ -64,11 +64,12 @@ I hope the next generation of this tablet incorporates these features:
 * CPU: Snapdragon 8s Gen 3 (SM8635)
 * RAM: 12GB
 * Storage: 256GB
-* Micro SD card support: YES
-* Cameras - NONE
-* Fingerprint reader- NONE
-* Biometric login - NO
-* Device size: TBD
+* Expandable storage: YES. via Micro SD card slot
+* Cameras: NONE
+* Biometric features:
+  * Fingerprint reader - NO.
+  * Face recognition - NO. Has no camera
+* Device dimensions: TBD
 * Speakers: YES
 
 ### Digitizer
@@ -79,14 +80,16 @@ I hope the next generation of this tablet incorporates these features:
 
 * Display panel tech: OLED
 * Diagonal size: 14"
-* Aspect ratio: 16x10
 * Native resolution: 2200x1800
+* Aspect ratio: 16x10
 * Pixel density: 142 ppi
 * Contrast: 100,000:1
 * Refresh rate: 120Hz
+* Response time: 1ms
 * Etched glass: YES (Wacom states AR/AG/AF)
-* Brightness: TBD (I could not find it listed on Wacom's site)
+* Brightness: 900 nits
 * Color bit depth: 10-bit
+* Viewing Angle: 170 degrees
 * Color gamut:
   * 100% sRGB
   * 100% DCI-P3
@@ -141,13 +144,17 @@ Has speakers but they are not great. Sound week and tinny. I am FINE with this a
 
 ## Device experience
 
+## Build quality
+
+EXCELLENT. Feels solid and premium.
+
 ### Plastic/acrylic back
 
 Originally when I learned that the back of the device was some plastic/acrylic material I was a little concerned that it would cheapen the experience. In fact it hasn't affected things at all. The plastic is very pleasant to touch. I'd like that it's not cold metal. And it maintains a very premium feel.
 
 ### Bezels
 
-slightly larger than what you might expect.
+Slightly larger than what you might expect. For example the Samsung Galaxy Tab S11 Ultra has smaller bezels.
 
 ### Size
 
@@ -170,6 +177,46 @@ This is not something that would for example, work while sketching on public tra
 ### Using in portrait orientation
 
 Certainly you can use it in portrait, but the aspect ratio makes it awkward to hold because of how the weight is distributed.
+
+## Standalone experience
+
+### First run
+
+Initial setup is quick. It leaves you with in a very simple and sparse desktop.
+
+<figure><img src="../../../../.gitbook/assets/mvpp14-initial-screen.png" alt=""><figcaption></figcaption></figure>
+
+### App compatibility
+
+It has full support for the Google Play store so you can install any application.
+
+In theory any Android application should run on this tablet. And certainly most do.
+
+HOWEVER for reasons we are not clear about some applications will not install on this tablet. We suspect it may be due to some customizations of the operating system that prevent certain apps from being identified as compatible.
+
+For example, Teoh on Tech in his review pointed out that:
+
+* Amazon app could not be installed
+* He could not sign into the facebook app. This means that he could not use apps that required facebook authentication.
+
+Apps I used without issue
+
+* Clip Studio Paint
+* HiPaint
+* Infinite Painter
+* Concepts
+* Discord
+* YouTube
+* YouTube Music
+* In fact every app I normally used worked fine with this device.
+
+## Built-in Wacom Apps
+
+These Wacom-specific apps are pre-installed
+
+* Wacom Canvas - simple sketching
+* Wacom Shelf - to browse and manage your sketches
+* Wacom Tips - teaches you about the tablet
 
 ## Display experience
 
@@ -276,16 +323,7 @@ TBD
 
 Although the tablet does not support DP-IN, you can use a special feature called "Instant Pen Display" to provide the same experience. See [Wacom Instant Pen Display](../../../apps/wacom-instant-pen-display.md)
 
-### Application compatibility
-
-In theory any Android application should run on this tablet. And certainly most do.
-
-HOWEVER for reasons we are not clear about some applications will not install on this tablet. We suspect it may be due to some customizations of the operating system that prevent certain apps from being identified as compatible.
-
-Teoh on Tech in his review pointed out that:
-
-* Amazon app could not be installed
-* He could not sign into the facebook app. This means that he could not use apps that required facebook authentication.
+###
 
 ## Connections and cabling
 
