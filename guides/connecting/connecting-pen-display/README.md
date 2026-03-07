@@ -8,10 +8,10 @@ Connecting a pen display to a computer can sometimes be a challenging task. This
 
 We can categorize all pen display connections by **which cable is used to transmit the video signal**.
 
-99.9% of the time HDMI or USB-C cables are used for the video signal. Instructions for each case are below. I recommend you <mark style="color:red;">**WATCH BOTH VIDEOS LINKED BELOW**</mark>.&#x20;
+99.9% of the time HDMI or USB-C cables are used for the video signal. Instructions for each case are below. I recommend you <mark style="color:red;">**WATCH BOTH VIDEOS LINKED BELOW**</mark>.
 
 * HDMI for video signal: [Connecting with HDMI](connecting-pen-display-hdmi.md)
-* USB-C for video signal: [Connecting a pen display with USB-C](connecting-pen-display-usbc.md)&#x20;
+* USB-C for video signal: [Connecting a pen display with USB-C](connecting-pen-display-usbc.md)
 
 ## Basics
 
@@ -41,7 +41,7 @@ Your tablet user manual will contain diagrams should you exactly how to connect 
 
 ### "NO SIGNAL": When the pen display does not receive a video signal
 
-When you've connected your display you might see it show a message saying NO SIGNAL. Here is a [TSG: Pen display shows NO SIGNAL message](../../../troubleshooting/tsg-no-signal.md).
+When you've connected your display you might see it show a message saying NO SIGNAL. Here is a [TSG: Pen display shows NO SIGNAL message](../../../troubleshoot/tsg-no-signal.md).
 
 ### When the pen display cannot send data to the computer
 
@@ -55,9 +55,8 @@ TBD
 
 ### What about connecting a pen display mobile devices?
 
-Go here: [Connecting a pen display to a mobile device](connecting-a-pen-display-to-a-mobile-device.md)&#x20;
+Go here: [Connecting a pen display to a mobile device](connecting-a-pen-display-to-a-mobile-device.md)
 
 ### What about wireless connectivity?
 
-No pen displays connect wirelessly. They all require at least one cable to connect to your computer.&#x20;
-
+No pen displays connect wirelessly. They all require at least one cable to connect to your computer.

@@ -10,7 +10,7 @@ I have bought and worked with MANY used drawing tablets — 26 used tablets as o
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used. I own many used pen tablets, some over 25 years old that still work.
 * **pen displays** - I have purchased one used pen display.
-* **pen computers** - I have no experience with used pen computers. In general I do not recommend pen computers. See: [The case against pen computers](the-case-against-pen-computers.md)
+* **pen computers** - I have no experience with used pen computers. In general I do not recommend pen computers. See: [The case against pen computers](pen-computers-bad.md)
 
 ## Tablet age
 

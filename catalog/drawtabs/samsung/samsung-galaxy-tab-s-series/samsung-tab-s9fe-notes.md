@@ -33,7 +33,7 @@ It's just an all around good device.
 ## Compatible pens
 
 * Samsung S pen
-* [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
 * In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 
 ## Diagonal wobble

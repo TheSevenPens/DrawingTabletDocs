@@ -6,7 +6,7 @@ If you want to buy a drawing tablet as a gift but have never used one yourself, 
 
 ## Understand the kinds of drawing tablets available
 
-The first thing you need to understand is the type of drawing tablet you want to give as a gift. This is very important because it determines how the recipient will use the tablet and how much it will cost. Read this document first before continuing: [Types of drawing tablets](../basics/types-of-drawtabs/).
+The first thing you need to understand is the type of drawing tablet you want to give as a gift. This is very important because it determines how the recipient will use the tablet and how much it will cost. Read this document first before continuing: [Types of drawing tablets](../basics/drawtab-types/).
 
 ## Understand the basics
 

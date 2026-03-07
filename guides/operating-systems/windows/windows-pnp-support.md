@@ -21,16 +21,16 @@ The key things you should know
 ## Feature support
 
 * **pressure sensitivity** - PNP drivers do support this.
-* **tilt sensitivity** - PNP drivers support this&#x20;
+* **tilt sensitivity** - PNP drivers support this
 
-## Limitations&#x20;
+## Limitations
 
 There are a large set of limitations that come with windows PNP mode compared to manufacturer tablet drivers.
 
 * You cannot control how to map the active area of your tablet to a display in any way
   * This means that mismatched aspect ratios for pen tablets which will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
 * You cannot control what the buttons on the pen does.
-* You cannot control what the buttons on the tablet do.&#x20;
+* You cannot control what the buttons on the tablet do.
 
 ## Forcing Windows to use PNP drivers
 
@@ -43,7 +43,7 @@ When you computer starts back up it should be using the PNP drivers.
 
 The easiest way to see if this how Windows is interacting with your tablet is to look at the system pointer.
 
-Normally your pointer will look like this when you are using the mouse or when you have a tablet driver installed.&#x20;
+Normally your pointer will look like this when you are using the mouse or when you have a tablet driver installed.
 
 <figure><img src="../../../.gitbook/assets/image-000736.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ If your manufacturer tablet driver is having problems, the PNP drivers may be a 
 
 ## Using PNP mode for testing and diagnosing problems
 
-If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [DIAG: Testing with Windows PNP drawing tablet drivers](../../../troubleshooting/diag-testing-with-windows-pnp-drawing-tablet-drivers.md)&#x20;
+If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [DIAG: Testing with Windows PNP drawing tablet drivers](../../../troubleshoot/diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
 
 ## Interactions between tablet drivers and PNP mode
 
@@ -66,7 +66,7 @@ And so the PNP mode will not affect you anymore.
 Every now and then I have windows use PNP mode even though a driver is installed. Typically this seems to happen when:
 
 * Windows is starting up and the tablet driver hasn't been started yet. For a little bit of time maybe a few seconds maybe 30 seconds you might see the PNP mode cursor. But then the tablet driver will start and it will go back to normal. I might see this happen once or twice a year on my windows machines
-* Sometimes when the tablet driver is having problems working with windows then you might see the PNP mode being used. &#x20;
+* Sometimes when the tablet driver is having problems working with windows then you might see the PNP mode being used.
 
 ## Which tablets are compatible with Windows PNP?
 
@@ -74,9 +74,6 @@ See this: [Windows PNP driver compatibility testing](windows-pnp-driver-compatib
 
 ## Notes
 
-Windows supports PNP for lots of devices. For example mice or monitors. PNP is not limited to just tablets.&#x20;
-
-
+Windows supports PNP for lots of devices. For example mice or monitors. PNP is not limited to just tablets.
 
 ##
-

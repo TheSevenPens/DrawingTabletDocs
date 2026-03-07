@@ -131,7 +131,7 @@ NORMAL - standard for modern pen displays.
 
 **Pen IAF and Max pressure - See** [Huion PW600 series pens](../../../pens/huion-pens/huion-pw600-notes.md)
 
-* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [Pen pressure instability at low pressure](../../../../core/pen-pressure/drawing-at-low-physical-pressure.md)
+* **Pressure Transition Instability** - VERY GOOD. You may remember the issues I pointed out with the Huion Inspiroy 2 L and the Wacom One M. That the problem is not visible with this tablet and pen. Remember: All tablets have some amount of it. Desirable tablets just have a very small amount of it and you have to construct situations to reveal it. This tablet so far seems comparable to what I see with the Wacom Intuos Pro & Cintiq Pro tablets. more here: [Pen pressure instability at low pressure](../../../../core/pressure/drawing-at-low-physical-pressure.md)
 * **Pen button stroke interruptions** - While drawing with older Huion pens the buttons would might interrupt the drawing - even if you disabled the buttons in the driver. With the new pens, the buttons do not interfere with the stroke.
 
 ### Tilt compensation
@@ -222,7 +222,7 @@ For this reason I recommend using the supplied Huion USB-C cable.
     * Update on 2025-04-10 - I did successfully install the firmware update and the updated driver. Unfortunately, I could never make touch work on MacOS. I will try later in 2025.
 * **Touch on Windows**
   * Overall touch on windows works great thanks to Windows great support for touch.
-  * If touch goes to your monitor instead of the tablet, here's how to fix it: [TSG: Touch input goes to the wrong display on Windows](../../../../troubleshooting/tsg-touch-input-goes-to-the-wrong-display-on-windows.md)
+  * If touch goes to your monitor instead of the tablet, here's how to fix it: [TSG: Touch input goes to the wrong display on Windows](../../../../troubleshoot/tsg-touch-input-goes-to-the-wrong-display-on-windows.md)
 * **Palm rejection**: OK. Very TYPICAL for Touch on pen displays.
   * Touch support is not comparable to an iPad's touch support which is EXCELLENT. Too often I accidentally pressed something on the screen because of my palm.
   * I would say it's very on par with the Cintiq Pro 22 and Cintiq Pro 27. I didn't try to use a drawing glove yet.

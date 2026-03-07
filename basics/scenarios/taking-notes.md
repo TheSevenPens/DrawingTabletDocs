@@ -1,7 +1,7 @@
 # Taking notes with drawing tablets
 
 {% hint style="info" %}
-First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../types-of-drawtabs/)
+First, Familiarize yourself with the types of drawing tablets: [Types of drawing tablets](../drawtab-types/)
 
 Then look through the buying guide for details: [Drawing tablet buying guide](../../buying/)
 {% endhint %}

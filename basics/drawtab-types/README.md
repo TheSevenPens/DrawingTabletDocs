@@ -13,5 +13,5 @@
 * **Pen-enabled mobile devices** - These are devices like iPads and Samsung Galaxy Tab S devices that support being used with a pen. They aren't strictly-speaking drawing tablets, but they use the same/similar tech and can work as a standalone drawing tablet. More here: [Introduction to pen-enabled mobile devices](introduction-to-pen-enabled-mobile-devices.md)
 * **Pen computers** - Drawing tablets that are essentially laptops. I do not recommend getting these. more here:
   * [Introduction to pen computers](introduction-to-pen-computers.md)
-  * [The case against pen computers](../../buying/the-case-against-pen-computers.md)
+  * [The case against pen computers](../../buying/pen-computers-bad.md)
 * **Pen-enabled 2-in-1 laptops** - These are devices like the Microsoft Surface Pro or Samsung Galaxy Book 5 360 that can be used with a pen. More here: [Introduction to pen-enabled 2-in-1 laptops](introduction-to-pen-enabled-2-in-1-laptops.md)

@@ -188,7 +188,7 @@ There's no rule that says you must use only one kind of tablet. Many people own 
 
 ## VESA mounting
 
-Only pen displays have VESA mounting holes. See [VESA](../technology/vesa.md)
+Only pen displays have VESA mounting holes. See [VESA](../tech/vesa.md)
 
 Pen tablets do NOT support VESA mounting.
 

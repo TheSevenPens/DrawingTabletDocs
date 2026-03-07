@@ -4,7 +4,7 @@
 
 Instead of pen computers, I recommend looking at other kinds of standalone devices: **pen-enabled mobile devices** or **pen-enabled laptops**.
 
-* To understand why I don't recommend pen computers: [The case against pen computers](the-case-against-pen-computers.md)
+* To understand why I don't recommend pen computers: [The case against pen computers](pen-computers-bad.md)
 
 ## **ALTERNATIVE #1: Pen-enabled mobile devices**
 

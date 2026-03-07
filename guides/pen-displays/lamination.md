@@ -14,8 +14,6 @@ A laminated display removes the air gap and replaced it with an optically clear 
 
 <figure><img src="../../.gitbook/assets/image-000263.png" alt=""><figcaption></figcaption></figure>
 
-
-
 It is always preferable to by a drawing tablet that has a laminated display.
 
 ## Benefits of lamination
@@ -26,15 +24,10 @@ However, it can also prevent a things from getting between the glass and display
 
 * moisture
 * dust and other particles
-* small insects (more here: [Troubleshoot insects in a pen display](../../troubleshooting/tsg-insects-in-a-pen-display.md))&#x20;
+* small insects (more here: [Troubleshoot insects in a pen display](../../troubleshoot/tsg-insects-in-a-pen-display.md))
 
 ## Resources
 
 * XP-Pen: What does fully laminated screen mean? Fully laminated display vs non laminated display ([https://www.xp-pen.com/forum-2511.html](https://www.xp-pen.com/forum-2511.html))
 * iPad’s Laminated Display Vs. Non-Laminated Display ([https://wolfoftablet.com/ipads-laminated-display-vs-non-laminated-display/](https://wolfoftablet.com/ipads-laminated-display-vs-non-laminated-display/))
 * Laminated vs non laminated tablet : What is a laminated display?([https://essentialpicks.com/laminated-vs-non-laminated-display-tablet/](https://essentialpicks.com/laminated-vs-non-laminated-display-tablet/))
-
-
-
-
-

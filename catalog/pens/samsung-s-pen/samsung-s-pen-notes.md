@@ -76,7 +76,7 @@ The S Pen has one physical button, unlike the Apple iPad. This also differs from
 
 The S pen uses EMR tech - specifically they use Wacom UD EMR.
 
-Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [Wacom UD EMR](../../../technology/wacom-ud-emr/).
+Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [Wacom UD EMR](../../../tech/wacom-ud-emr/).
 
 ## **Other S Pen versions**
 

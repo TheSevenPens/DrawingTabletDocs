@@ -59,7 +59,7 @@ I really enjoyed the flexibility of how the buttons work with the group keys. Ev
 
 ## **Pressure handling**
 
-All pens have have a bit of instability/wobble at low pressure. See: [Pen pressure instability at low pressure](../../../../core/pen-pressure/drawing-at-low-physical-pressure.md)
+All pens have have a bit of instability/wobble at low pressure. See: [Pen pressure instability at low pressure](../../../../core/pressure/drawing-at-low-physical-pressure.md)
 
 Originally, the units (I have 2 units of this tablet) I have showed a bit more of this effect compared to my Wacom Intuos Pro with the Pro Pen 2. I didn't notice it in normal drawing. Based on other user's comments, not all units seem to exhibit this problem, but certainly some do.
 
@@ -67,4 +67,4 @@ Firmware updates have improved it.
 
 See this thread for some history on this topic: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
 
-This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [TSG: Low pressure drawing problems](../../../../troubleshooting/tsg-low-pressure-drawing-problems.md)
+This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [TSG: Low pressure drawing problems](../../../../troubleshoot/tsg-low-pressure-drawing-problems.md)

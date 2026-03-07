@@ -30,7 +30,7 @@ Examples:
 
 * A wireless mouse might have trouble working near some tablets.
 * A tablet might interfere with your WiFi network connection
-  * See: [TSG: WiFi and Internet problems with drawing tablets](../../troubleshooting/tsg-wifi-and-internet-problems.md)
+  * See: [TSG: WiFi and Internet problems with drawing tablets](../../troubleshoot/tsg-wifi-and-internet-problems.md)
 
 ## General weirdness
 

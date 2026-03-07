@@ -85,4 +85,4 @@ The tablet comes with the Xencelabs Mobile Easel. [Xencelabs Mobile Easel](../..
 
 ## OLED longevity
 
-To early to say. More here: [OLED Longevity](../../../technology/oled-longevity.md).
+To early to say. More here: [OLED Longevity](../../../tech/oled-longevity.md).

@@ -2,7 +2,7 @@
 
 ## Background
 
-See: [Pressure banding](../../core/pen-pressure/pressure-banding.md)
+See: [Pressure banding](../../core/pressure/pressure-banding.md)
 
 ## How to test
 

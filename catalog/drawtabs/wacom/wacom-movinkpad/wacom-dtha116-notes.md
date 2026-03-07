@@ -88,7 +88,7 @@ If you are ordering this device online, please make sure you are ordering the co
 
 * It is compatible with
   * Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-  * [Pens that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+  * [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
 * <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
   * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
   * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>

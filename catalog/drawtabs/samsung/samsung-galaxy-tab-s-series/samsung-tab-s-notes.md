@@ -50,7 +50,7 @@ Samsung Galaxy Tab S devices come with the Samsung S Pen: [Samsung S Pen notes](
 
 These tablets are also compatible with a few the second generation of UD EMR pens
 
-More here: [Tablets that support UD EMR 2nd gen](../../../../technology/wacom-ud-emr/tablets-that-support-ud-emr-2nd-gen.md)
+More here: [Tablets that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/tablets-that-support-ud-emr-2nd-gen.md)
 
 In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
 

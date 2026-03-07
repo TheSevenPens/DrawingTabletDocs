@@ -72,7 +72,7 @@ At some point you'll need to find the driver again after you have installed it. 
 
 ## The NO SIGNAL problem with pen displays
 
-If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG: Pen display shows NO SIGNAL message](../troubleshooting/tsg-no-signal.md)
+If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG: Pen display shows NO SIGNAL message](../troubleshoot/tsg-no-signal.md)
 
 ## How the pen & tablet work with the computer
 
@@ -110,7 +110,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 ## Pen displays: map the Active Area to your pen display if needed
 
 * With a pen display, the active area should be mapped to its own display.
-* However, sometimes tablet drivers get confused. They might initially map the active area to some other display that your have. When this happens, you will move the pen on your tablet but you'll see the pointer move on a different display. This is easy to solve: [Troubleshoot pen moving pointer on the wrong display](../troubleshooting/tsg-pointer-on-wrong-display.md)
+* However, sometimes tablet drivers get confused. They might initially map the active area to some other display that your have. When this happens, you will move the pen on your tablet but you'll see the pointer move on a different display. This is easy to solve: [Troubleshoot pen moving pointer on the wrong display](../troubleshoot/tsg-pointer-on-wrong-display.md)
 
 ## Adjust the pressure curve to give you more control
 

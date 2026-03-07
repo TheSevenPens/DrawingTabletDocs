@@ -111,7 +111,7 @@ You just need to buy a pen of the SAME EXACT MODEL and it will work with your ta
 
 #### FAQ: What do I do if a driver no longer supports my tablet?
 
-See: [TSG: driver no longer supports a drawing tablet](troubleshooting/tsg-driver-drops-drawtab-support.md)
+See: [TSG: driver no longer supports a drawing tablet](troubleshoot/tsg-driver-drops-drawtab-support.md)
 
 #### FAQ: Can I have two tablet drivers from different manufacturers installed at the same time?
 

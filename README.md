@@ -13,7 +13,7 @@ This site is a personal project and has no affiliation or relationship with any 
 * [Beginner's guide to drawing tablets](basics/beginners-guide.md) - If you are not familiar with drawing tablets, then start here.
 * [Drawing tablet buying guide](buying/) - a comprehensive guide to purchasing a tablet.
 * [Recommendations](recs/) - Recommendations for different budgets and types of tablets
-* [Troubleshooting](troubleshooting/) - For when you need help
+* [Troubleshooting](troubleshoot/) - For when you need help
 * [Getting started with a drawing tablet](basics/getting-started.md)- First steps for unboxing, connecting, and customizing the table for your needs.
 
 ## Connect with the community

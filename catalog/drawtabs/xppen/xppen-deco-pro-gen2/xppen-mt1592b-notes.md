@@ -81,7 +81,7 @@ Enabling brush smoothing options in your applications will minimize its visibili
 
 Some users have reported that the pointer "shakes" when the pen is hovering over the tablet.
 
-To understand what hover jitter is, go here: [Hover jitter](../../../../core/pen-hover/hover-jitter.md)
+To understand what hover jitter is, go here: [Hover jitter](../../../../core/hover/hover-jitter.md)
 
 Example: [https://www.reddit.com/r/XPpen/comments/1h66ei5/beware\_of\_the\_deco\_pro\_gen\_2\_rant/](https://www.reddit.com/r/XPpen/comments/1h66ei5/beware_of_the_deco_pro_gen_2_rant/)
 

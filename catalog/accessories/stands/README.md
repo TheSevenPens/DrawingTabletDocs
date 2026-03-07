@@ -14,7 +14,7 @@ If you are looking for iPad-specific stands stands go here: [**iPad stands**](ht
 
 Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen Artist 22 Plus. It is my favorite VESA-attached stand because the wide lever is easy to reach and operate.
 
-VESA is a standard to mount displays to various things using screws. More here: [VESA](../../../technology/vesa.md)
+VESA is a standard to mount displays to various things using screws. More here: [VESA](../../../tech/vesa.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000004.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand</p></figcaption></figure></div>
 

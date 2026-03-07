@@ -1,4 +1,4 @@
-# Pen pressure instability at low pressure
+# Drawing at low physical pressure
 
 ## Overview
 
@@ -14,7 +14,7 @@ All drawing tablet pens have some pressure instability near their initial activa
 
 ## Examples
 
-All of the examples below were created with the Wacom Intuos Pro 2017 M (PTH-660) with the Wacom Pro Pen 2 (KP-504E).&#x20;
+All of the examples below were created with the Wacom Intuos Pro 2017 M (PTH-660) with the Wacom Pro Pen 2 (KP-504E).
 
 * Application: Krita
 * Brush: Ink3 Gpen, null pressure curve, 500px brush
@@ -36,7 +36,4 @@ All of the examples below were created with the Wacom Intuos Pro 2017 M (PTH-660
 
 ## Addressing these problems
 
-See: [TSG: Low pressure drawing problems](../../troubleshooting/tsg-low-pressure-drawing-problems.md)
-
-
-
+See: [TSG: Low pressure drawing problems](../../troubleshoot/tsg-low-pressure-drawing-problems.md)

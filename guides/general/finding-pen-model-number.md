@@ -6,7 +6,7 @@ Places to look for the model number of the pen
 * On the user manual. If you don't have a printed user manual. Check online.
 * On the manufacturer website. They may list compatible accessories
 * Tablet drivers may have UI that implicitly identifies the pen.
-* Table drivers may have diagonostics UI that reveals the pen model number. see: [DIAG: Checking tablet driver diagnostics](../../troubleshooting/diag-checking-tablet-driver-diagnostics.md)
-* If you need help, contact support.&#x20;
+* Table drivers may have diagonostics UI that reveals the pen model number. see: [DIAG: Checking tablet driver diagnostics](../../troubleshoot/diag-checking-tablet-driver-diagnostics.md)
+* If you need help, contact support.
 
-To find the pen model information you may need the tablet model number: First find the model number of your tablet:  [Finding the model number of your drawing tablet](finding-tablet-model-number.md)&#x20;
+To find the pen model information you may need the tablet model number: First find the model number of your tablet: [Finding the model number of your drawing tablet](finding-tablet-model-number.md)
