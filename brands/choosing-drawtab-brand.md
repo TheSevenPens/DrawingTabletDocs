@@ -3,12 +3,12 @@
 ##
 
 {% hint style="info" %}
-If you are looking for tablet recommendations, go here: [Recommendations](../recommendations/)
+If you are looking for tablet recommendations, go here: [Recommendations](../recs/)
 {% endhint %}
 
 ## Overview
 
-No brand's products are consistently perfect.&#x20;
+No brand's products are consistently perfect.
 
 All brands will eventually ship a product that has defective units or that will have sporadic problems with their drivers, etc. So, at some point you will need help.
 
@@ -18,13 +18,13 @@ This is why you MUST choose a brand that:
   * Is publishing driver updates
   * Had good documentation
   * Has active customer support
-* Has enough other people using their tablets, so that you can get help from online communities.&#x20;
+* Has enough other people using their tablets, so that you can get help from online communities.
 
 ## Brands I generally suggest
 
 I generally steer people toward:
 
-* Wacom&#x20;
+* Wacom
 * Huion
 * XP-Pen
 * Xencelabs
@@ -35,13 +35,13 @@ You'll find people who've had good and bad experience with each brand. Though ge
 
 ## Brands vs specific tablets
 
-Within a brand, they will have good tablets and bad tablets. Even Wacom, which is the market leader has some tablets I will not recommend.&#x20;
+Within a brand, they will have good tablets and bad tablets. Even Wacom, which is the market leader has some tablets I will not recommend.
 
-Instead of only thinking of the brand, consider specific tablet models.&#x20;
+Instead of only thinking of the brand, consider specific tablet models.
 
 ## Online communities
 
-Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [Community](../resources/community/)  &#x20;
+Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [Community](../resources/community/)
 
 ## Discussions
 

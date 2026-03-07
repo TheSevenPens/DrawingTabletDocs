@@ -24,7 +24,7 @@ When I started my YouTube channel I had seven pens from my drawing tablets. Now 
 
 * My general take on [Brands](../brands/)
 * [Drawing tablet buying guide](../buying/)
-* [Recommendations](../recommendations/)
+* [Recommendations](../recs/)
 
 ## **How I engage with tablet brands**
 

@@ -17,17 +17,17 @@ The first thing you need to understand is the type of drawing tablet you want to
 This is important because:
 
 * You should understand what they like and don't like about that experience.
-* They already have a set of expectations.&#x20;
+* They already have a set of expectations.
 * They might not even need a drawing tablet if they already have a device that serves that role.
 
 For example, if they already have an Apple iPad:
 
-* They may want to continue using iPad apps.&#x20;
+* They may want to continue using iPad apps.
 * You could buy an Apple Pencil model that is compatible with their iPad.
 
 ## If you are looking for a quick answer within your budget
 
-See this list of [Recommendations](../recommendations/)&#x20;
+See this list of [Recommendations](../recs/)
 
 They are separated by type and size of tablet, with options available at multiple price points.
 
@@ -52,4 +52,4 @@ Examples:
 
 ## Join the discord for more help
 
-Go here for the invite link: [Discord server](../resources/community/discord.md)&#x20;
+Go here for the invite link: [Discord server](../resources/community/discord.md)

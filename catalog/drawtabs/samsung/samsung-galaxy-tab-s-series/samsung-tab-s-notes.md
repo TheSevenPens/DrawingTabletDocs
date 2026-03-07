@@ -4,7 +4,7 @@
 
 The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can play the role of drawing tablets very well and are a compelling alternative to Apple iPads.
 
-If you are exploring options for this category of devices, see: [Pen-enabled mobile device recommendations](../../../../recommendations/mobile-device-recs.md)
+If you are exploring options for this category of devices, see: [Pen-enabled mobile device recommendations](../../../../recs/mobile-device-recs.md)
 
 ## Models
 

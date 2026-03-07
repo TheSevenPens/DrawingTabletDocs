@@ -48,4 +48,4 @@ This is what it shows in the driver when pressure at full pressure.
 
 ## X3 Pro versus other pens
 
-See: [2025 Professional pens compared](../../../recommendations/comparisons/2025-pro-pens-compared.md)
+See: [2025 Professional pens compared](../../../recs/comparisons/2025-pro-pens-compared.md)

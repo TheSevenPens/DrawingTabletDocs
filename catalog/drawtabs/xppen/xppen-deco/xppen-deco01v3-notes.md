@@ -38,7 +38,7 @@ Other users have reported that it does work well with Android.
 
 ## Better alternatives
 
-A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../../recommendations/pen-tablet-recs-medium.md)
+A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../../recs/pen-tablet-recs-medium.md)
 
 ## Photos
 
