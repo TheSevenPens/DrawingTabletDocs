@@ -78,7 +78,7 @@ Check if there is a way to try a tablet before buying. For example:
 
 ## Simulate the tablet before you buy
 
-If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size](simulating-tablet-size.md).
+If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size](simulating-size.md).
 
 ## **In relation to paper size**
 

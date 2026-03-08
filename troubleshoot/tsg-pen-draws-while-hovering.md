@@ -16,11 +16,11 @@ The two most common causes of this problem are:
 
 ## **Check if the problem happens in the driver app**
 
-Instructions here: [DIAG: Testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.&#x20;
+Instructions here: [DIAG: Testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.
 
 ## Things to try
 
-Try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).&#x20;
+Try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).
 
 ### **Reseat the nib**
 
@@ -32,13 +32,12 @@ Your tablet probably came with some extra nibs. Try replacing the nib with one o
 
 ### **Adjust the pressure curve**
 
-Sometimes a pen is reporting pressure even when it isn't in contact with anything.&#x20;
+Sometimes a pen is reporting pressure even when it isn't in contact with anything.
 
-In the tablet driver, try dragging the lower left point of the pressure curve to the right until the pen stops drawing while hovering.&#x20;
+In the tablet driver, try dragging the lower left point of the pressure curve to the right until the pen stops drawing while hovering.
 
 <figure><img src="../.gitbook/assets/image-000507.png" alt=""><figcaption></figcaption></figure>
 
 **If nothing helps**
 
-If the problem continues, then contact support: [Contacting support](../basics/contacting-support.md).
-
+If the problem continues, then contact support: [Contacting support](../basics/support.md).

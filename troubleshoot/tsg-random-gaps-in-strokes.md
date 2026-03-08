@@ -24,7 +24,7 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
   * In the driver try increasing the lower bound of the pressure range and see how the gaps react.
     * Do they develop earlier in the stroke?
     * Do the stop developing?
-* If it continues to happen, then contact support: [Contacting support](../basics/contacting-support.md).
+* If it continues to happen, then contact support: [Contacting support](../basics/support.md).
 
 ### Links
 

@@ -123,7 +123,7 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 ## Still not solved?
 
-If none of these suggestions are helping, then contact support: [Contacting support](../basics/contacting-support.md).
+If none of these suggestions are helping, then contact support: [Contacting support](../basics/support.md).
 
 In the meanwhile, you may be able to use alternative drivers on Windows:
 

@@ -7,7 +7,7 @@ The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good table
 ## Availability
 
 * Availability - As of December 2025, we see that retail inventories of these tablets has greatly diminished. It's getting very hard to find one. And those new one you can find are often marked up to a much higher price.
-* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying/buying-used.md)
+* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying/used-drawtabs.md)
 
 ## Future
 

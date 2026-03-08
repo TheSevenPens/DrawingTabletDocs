@@ -102,7 +102,7 @@ Read more here:
 * **Parallax -** Parallax is the apparent gap between the physical tip of the pen and where the computer thinks the tip is. Some people are more sensitive to this than others. Learn more here: [Parallax](../guides/pen-displays/parallax.md).
 * **Lamination** - Lamination reduces parallax. I highly recommend getting a pen display that has lamination. Learn more here: [Lamination](../guides/pen-displays/lamination.md)
 * Even though a pen display is meant for drawing, you can use it exactly like a normal monitor. Learn more here: [Using a pen display as a monitor](../guides/customizing/pen-display-as-monitor.md).
-* **Display panel tech** - Most pen displays use an IPS display panel, though a handful use OLED. I currently recommend sticking with IPS panels because it is unclear how long OLED displays will last under typical drawing tablet use. More here: [Display panel technology](../tech/display-panel-technology.md).
+* **Display panel tech** - Most pen displays use an IPS display panel, though a handful use OLED. I currently recommend sticking with IPS panels because it is unclear how long OLED displays will last under typical drawing tablet use. More here: [Display panel technology](../tech/display-panel-tech.md).
 
 ## Connections & cabling
 
@@ -173,21 +173,21 @@ All apps work with drawing tablets once you install the drivers. Creative apps c
 
 More here:
 
-* [App compatibility with drawing tablets](../basics/app-compatibility.md)
+* [App compatibility with drawing tablets](../basics/app-compat.md)
 * [Apps](../apps/)
 * [Recommended apps](../apps/recommended-apps.md)
 
 ## Buying used drawing tablets
 
-Buying a used tablet can save you significant money, but you should be prepared for the issues that can come with it. More here: [Buying used drawing tablets](buying-used.md)
+Buying a used tablet can save you significant money, but you should be prepared for the issues that can come with it. More here: [Buying used drawing tablets](used-drawtabs.md)
 
 ## Power
 
-Different types of tablets draw different amounts of power. Pen tablets require very little. Pen displays need much more. Some pen tablets even have batteries so they can work wirelessly. More here: [Powering a drawing tablet](../core/power/powering-drawtab.md)
+Different types of tablets draw different amounts of power. Pen tablets require very little. Pen displays need much more. Some pen tablets even have batteries so they can work wirelessly. More here: [Powering a drawing tablet](../core/power/powering-drawtabs.md)
 
 ## So-called "PRO" tablets
 
-Some tablets are labelled "PRO" — for example, Wacom Cintiq Pro or Wacom Intuos Pro — but there is no clear definition of "Pro" in the industry. Many newer non-Pro tablets outperform older Pro tablets. More here: [Buying "PRO" tablets](pro-tablets.md)
+Some tablets are labelled "PRO" — for example, Wacom Cintiq Pro or Wacom Intuos Pro — but there is no clear definition of "Pro" in the industry. Many newer non-Pro tablets outperform older Pro tablets. More here: [Buying "PRO" tablets](pro-drawtabs.md)
 
 ## Picking tablets with more recent tech
 

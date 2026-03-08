@@ -108,7 +108,7 @@ All **pen tablets** can be connected with a single USB cable. Many pen tablets (
 
 Once you install the tablet drivers, **all applications are compatible with drawing tablets**. In addition, creative applications (paint programs, etc.) can take advantage of special features of the tablet such as pressure sensitivity and tilt.
 
-See: [App compatibility with drawing tablets](app-compatibility.md)
+See: [App compatibility with drawing tablets](app-compat.md)
 
 ## Pen nibs
 
@@ -124,5 +124,5 @@ A drawing tablet uses absolute positioning and a mouse uses relative positioning
 
 ## Other topics to explore
 
-* [Learning to use a drawing tablet](learning-to-use-drawtabs.md)
+* [Learning to use a drawing tablet](learning-drawtabs.md)
 * [Learning digital art](learning-digital-art.md)

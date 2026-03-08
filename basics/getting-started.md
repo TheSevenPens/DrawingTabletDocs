@@ -15,7 +15,7 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 
 ## Identify how to contact support
 
-* The vast majority of time everything "just works" but you may need help or a question answered by customer support. So, Make sure you know how to [Contacting support](contacting-support.md) for your tablet manufacturer
+* The vast majority of time everything "just works" but you may need help or a question answered by customer support. So, Make sure you know how to [Contacting support](support.md) for your tablet manufacturer
 
 ## Read the user manual
 

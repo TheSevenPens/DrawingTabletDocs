@@ -28,7 +28,7 @@ Again, this is usually a hardware issue that cannot be fixed. But it is worth tr
 * Test tablet with another computer
 * Check if it happens with multiple applications
 * Check if it happens in the pressure test region of the tablet driver
-* If the problem persists, contact support: [Contacting support](../basics/contacting-support.md).
+* If the problem persists, contact support: [Contacting support](../basics/support.md).
 
 ## Reddit threads
 
