@@ -343,6 +343,7 @@
   * [TSG Nothing showing on pen display](troubleshoot/tsg-nothing-showing-on-pen-display.md)
   * [TSG: Tablet driver using too much memory](troubleshoot/tsg-tablet-driver-using-too-much-memory.md)
   * [TSG: Pen display always shows info box on screen](troubleshoot/tsg-pen-display-always-shows-info-box-on-screen.md)
+  * [TSG: Pointer changes to a small diamond or star on Windows](troubleshoot/tsg-pointer-switches-to-diamond.md)
   * [DIAG: Windows Get PnPUtil Device and Driver Info](troubleshoot/diag-windows-get-pnputil-device-and-driver-info.md)
   * [TSG: Multiple pointers](troubleshoot/tsg-multiple-pointers.md)
   * [TSG: Diamond pointer on Windows](troubleshoot/tsg-diamond-pointer-on-windows.md)
