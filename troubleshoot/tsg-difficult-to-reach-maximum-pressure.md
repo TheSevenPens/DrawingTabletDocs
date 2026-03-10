@@ -24,9 +24,7 @@ Does it manifest in an application like Krita?
 
 ## Pen hardware issue
 
-If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself.
-
-Occasionally pen hardware can have a very high maximum pressure that is very large (I've seen up to about 5X) compared to what is normal for a pen.
+If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself. Occasionally pen hardware can have a very high maximum pressure that is very large (I've seen up to about 5X) compared to what is normal for a pen.
 
 ### Example of a pen with abnormal max pressure
 
@@ -45,19 +43,7 @@ Because you cannot physically fix the problem, you have two options:
 
 ### Using a pressure curve to a pen hardware problem
 
-Try adjusting the pressure curve in the driver until the problem goes away. Specifically you are looking for a pressure curve that "constrains the output". This means the right edge of the curve does not go up to the full height of the pressure curve. More here: [Pressure curves that constrain output](../core/pressure/pen-pressure-curves/constraining-pressure-curve-output.md)
+Try adjusting the pressure curve: More here: [Lowering maximum physical pressure](../guides/customizing/lowering-max-physical-pressure.md)
 
-**Keep in mind:**
+You might be able to do this is the tablet driver. If not do it in your application.
 
-* The pressure reading number in the driver may not take the pressure curve into account
-* So to check if this is fully working for you, verify in an application
-
-Here are some examples below.
-
-<figure><img src="../.gitbook/assets/image-000445 (2).png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Software issue
-
-If the problem does NOT appear in the driver, then it is possible that another pressure curve in the application is causing it. Check all the pressure curves and reset them to null pressure curve.
-
-More here: [Null pressure curve](../core/pressure/pen-pressure-curves/null-pressure-curve.md)
