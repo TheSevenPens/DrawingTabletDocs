@@ -473,7 +473,7 @@
         * [Huion Kamvas 22 Plus (GS2202) notes](catalog/drawtabs/huion/huion-kamvas/huion-gs2202-notes.md "Kamvas 22 Plus (GS2202)")
         * [Huion Kamvas 16 GEN3 (GS1563) notes](catalog/drawtabs/huion/huion-kamvas/huion-gs1563-notes.md "Kamvas 16 GEN3 (GS1563)")
         * [Huion Kamvas 16 V2 (GT-156 V2) notes](catalog/drawtabs/huion/huion-kamvas/huion-gt156v2-notes.md "Kamvas 16 V2 (GT-156 V2)")
-        * [Kamvas 22 GEN3 (GS2203) notes](catalog/drawtabs/huion/huion-kamvas/kamvas-22-gen3-gs2203-notes.md)
+        * [Kamvas 22 GEN3 (GS2203) notes](catalog/drawtabs/huion/huion-kamvas/kamvas-gs2203-notes.md)
       * [Huion Inspiroy](catalog/drawtabs/huion/huion-inspiroy/README.md "Inspiroy")
         * [Huion Inspiroy RTP-700 notes](catalog/drawtabs/huion/huion-inspiroy/huion-rtp700-notes.md "Inspiroy RTP-700")
         * [Huion Inspiroy Dial 2 (Q630M) notes](catalog/drawtabs/huion/huion-inspiroy/huion-q630m-notes.md "Inspiroy Dial 2 (Q630M)")
