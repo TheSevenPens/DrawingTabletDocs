@@ -14,6 +14,23 @@ Model: GS2203
 
 
 
+## Display experience
+
+### Pixel sharpness
+
+* The pixels are clear and well-delineated. They appear normal and what you would expect from a pen display.&#x20;
+* In comparison
+  * Looks similar in terms of sharpness to my Cintiq Pro 22
+  * The pixels are definitely sharper than the Kamvas Pro 19 (GT1902)
+* Effect of refresh rate on sharpness
+  * There is a very slight softening of the pixels when using the 90Hz refresh rate.&#x20;
+  * This slight softening is very very minor, almost imperceptible to me. Some people do clearly notice though.
+  * Even at 90Hz, the pixels of this tablet are sharper than the Kamvas Pro 19 (GT-1902) - which only supports 60Hz
+  * Cause of extra softness at 90Hz
+    * The cause is unknown
+    * No apparent setting in windows seems to affect it
+    * No apparent setting in the Nvidia app seems to affect it
+
 ## Connectivity and cabling
 
 ### Ports
