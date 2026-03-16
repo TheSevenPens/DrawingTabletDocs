@@ -218,7 +218,7 @@
     * [Using older tablet drivers](guides/drivers/older-tablet-drivers.md "Using older drivers")
     * [Importing and Exporting tablet driver configurations](guides/drivers/import-export-tablet-driver-config.md "Importing/Exporting configurations")
     * [Finding the driver settings UI](guides/drivers/finding-the-driver-settings-ui.md)
-    * [Using multiple tablet drivers on the same computer](guides/drivers/using-multiple-tablet-drivers.md "Using multiple tablet drivers")
+    * [Using multiple tablet drivers on the same computer](guides/drivers/multiple-tablet-drivers.md "Using multiple tablet drivers")
     * [Uninstalling tablet drivers](guides/drivers/uninstalling-tablet-drivers.md "Uninstalling drivers")
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
       * [Install OpenTabletDriver on Windows](guides/drivers/opentabletdriver/otd-windows-install.md "Install on Windows")
