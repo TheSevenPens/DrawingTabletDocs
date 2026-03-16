@@ -18,7 +18,11 @@ A **potential alternative** is to use [OpenTabletDriver](opentabletdriver/) whic
 
 ## Tablet drivers from different brands
 
-I DO NOT recommend installing multiple tablet drivers from different simultaneously on a single Windows computer. But it might work well on MacOS.
+In this situation you are using two different brands of tablets - for example Wacom and Huion.
+
+It certainly is possible to install both drivers. Nothing will stop you. However, there can be complications depending on the operating system you use.
+
+In summary, I DO NOT recommend installing multiple tablet drivers from different simultaneously on a single Windows computer. However, it might work well on MacOS.
 
 ### Microsoft Windows
 
