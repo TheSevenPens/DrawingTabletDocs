@@ -2,7 +2,7 @@
 
 ## Things to try first
 
-First try the [Common drawing troubleshooting steps](tsg-common-drawing-tsg-steps.md).
+First try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md).
 
 ### Examples
 
