@@ -303,7 +303,7 @@
 * [Troubleshooting](troubleshoot/README.md)
   * [Common problems](troubleshoot/common-drawtab-problems.md)
   * [Common drawing troubleshooting steps](troubleshoot/common-drawing-troubleshooting-steps.md)
-  * [TSG: Touch input goes to the wrong display on Windows](troubleshoot/tsg-touch-input-goes-to-the-wrong-display-on-windows.md)
+  * [TSG: Touch input goes to the wrong display on Windows](troubleshoot/tsg-touch-on-wrong-display-windows.md)
   * [DIAG: Testing pressure in the tablet driver](troubleshoot/testing-pressure-in-the-tablet-driver.md)
   * [DIAG: Checking if pen display shows HDMI video signal from other devices](troubleshoot/diag-checking-if-pen-display-shows-hdmi-video-signal-from-other-devices.md)
   * [DIAG: Checking tablet driver diagnostics](troubleshoot/diag-checking-tablet-driver-diagnostics.md)
