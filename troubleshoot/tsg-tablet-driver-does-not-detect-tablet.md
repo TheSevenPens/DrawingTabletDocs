@@ -78,7 +78,7 @@ Double check how it is connected.
 
 ## Reset the tablet
 
-* This is an option for SOME tablets. More here: [Reset a drawing tablet](reset-wacom-intuos-pro-tablets.md)
+* This is an option for SOME tablets. More here: [Reset a drawing tablet](diag-reset-drawtab.md)
 
 ## Windows > Check if Windows PNP drivers work
 
