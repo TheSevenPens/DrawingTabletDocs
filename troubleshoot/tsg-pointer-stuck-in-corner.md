@@ -4,7 +4,7 @@
 
 Normally the pointer should follow the movement of the pen. However sometimes it gets stuck in the corner of the screen. Usually I have seen this in the upper-left-hand corner but it could happen elsewhere.
 
-It's unclear what causes this problem.&#x20;
+It's unclear what causes this problem.
 
 ## Basic things to try
 
@@ -17,12 +17,12 @@ Sometimes this clears up the problem.
 
 ## Other things to try
 
-* Temporarily change the active area to only a portion of its default size. Then change it back to use a larger area on the tablet.&#x20;
+* Temporarily change the active area to only a portion of its default size. Then change it back to use a larger area on the tablet.
   * 7P: This worked for me once
 * Change the resolution of your screen to a smaller resolution then back to the original resolution.
 * If you are using more than one monitor, switch between extend and duplicate modes for the desktop.
-* If you are using Microsoft Windows,  then [DIAG: Testing with Windows PNP drawing tablet drivers](diag-testing-with-windows-pnp-drawing-tablet-drivers.md) to see if the problem happens in that case.
-* If you have a pen display, it likely has a calibration feature. Start and complete the calibration process to see if that addresses the issue.&#x20;
+* If you are using Microsoft Windows, then [DIAG: Testing with Windows PNP drawing tablet drivers](diag-windows-pnp-tablet-drivers.md) to see if the problem happens in that case.
+* If you have a pen display, it likely has a calibration feature. Start and complete the calibration process to see if that addresses the issue.
 
 ## If nothing works
 
@@ -30,12 +30,9 @@ Then do not hesitate to contact support.
 
 ## Manufacturer guidance
 
-Check this post from Huion: [https://support.huion.com/en/support/discussions/topics/44001017276](https://support.huion.com/en/support/discussions/topics/44001017276)&#x20;
+Check this post from Huion: [https://support.huion.com/en/support/discussions/topics/44001017276](https://support.huion.com/en/support/discussions/topics/44001017276)
 
 ## Reddit threads
 
 * [https://www.reddit.com/r/wacom/comments/l6dh65/wacom\_bamboo\_pen\_ctl470\_cursor\_stuck\_in\_the\_corner/](https://www.reddit.com/r/wacom/comments/l6dh65/wacom_bamboo_pen_ctl470_cursor_stuck_in_the_corner/)
-* [https://www.reddit.com/r/huion/comments/13lnwc0/the\_cursor\_is\_not\_on\_the\_tablet/](https://www.reddit.com/r/huion/comments/13lnwc0/the_cursor_is_not_on_the_tablet/)&#x20;
-
-
-
+* [https://www.reddit.com/r/huion/comments/13lnwc0/the\_cursor\_is\_not\_on\_the\_tablet/](https://www.reddit.com/r/huion/comments/13lnwc0/the_cursor_is_not_on_the_tablet/)

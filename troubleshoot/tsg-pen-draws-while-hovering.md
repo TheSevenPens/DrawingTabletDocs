@@ -16,11 +16,11 @@ The two most common causes of this problem are:
 
 ## **Check if the problem happens in the driver app**
 
-Instructions here: [DIAG: Testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.
+Instructions here: [DIAG: Testing pressure in the tablet driver](diag-pressure-in-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.
 
 ## Things to try
 
-Try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).
+Try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md).
 
 ### **Reseat the nib**
 

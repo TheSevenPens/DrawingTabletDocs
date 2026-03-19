@@ -2,13 +2,11 @@
 
 ## Things to try first
 
-First try the [Common drawing troubleshooting steps](common-drawing-troubleshooting-steps.md).&#x20;
-
-
+First try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md).
 
 ### Examples
 
-![](<../.gitbook/assets/image-000183.png>)
+![](../.gitbook/assets/image-000183.png)
 
 So far, I have rarely encountered this and don't know the specific cause.
 

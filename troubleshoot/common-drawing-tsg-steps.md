@@ -9,7 +9,7 @@ A restart will often clear up problems. If a restart or two doesn't fix the prob
 ## Check drivers
 
 * Are you running the latest tablet drivers? The driver software will usually have somewhere that shows which version it is.
-* Try uninstalling, restarting the computer, and reinstalling the latest drivers.&#x20;
+* Try uninstalling, restarting the computer, and reinstalling the latest drivers.
 * Sometimes the drivers you have don't completely uninstall themselves. To completely uninstall the drivers see this guide: [Tablet Driver Cleanup tool](../guides/drivers/tablet-driver-cleanup-tool.md).
 
 ## Try an older driver
@@ -19,11 +19,11 @@ A restart will often clear up problems. If a restart or two doesn't fix the prob
 
 ## Test the tablet with other applications
 
-Often the problems you experience might be due to a specific app so you should try other apps to see if they replicate the problem.&#x20;
+Often the problems you experience might be due to a specific app so you should try other apps to see if they replicate the problem.
 
 * Krita
 * Clip Studio Paint
-* Photoshop&#x20;
+* Photoshop
 * Microsoft OneNote
 
 NOTES:
@@ -34,11 +34,11 @@ NOTES:
 
 Drawing applications do complex things. My tablet tester is a much simpler application and I know what it does. See if you can replicate the behavior in the tester.
 
-GO HERE: [SevenPens Tablet Tester](../resources/sevenpens-tablet-tester.md)&#x20;
+GO HERE: [SevenPens Tablet Tester](../resources/sevenpens-tablet-tester.md)
 
 ## Windows > Windows PNP drivers
 
-Try this: [DIAG: Testing with Windows PNP drawing tablet drivers](diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
+Try this: [DIAG: Testing with Windows PNP drawing tablet drivers](diag-windows-pnp-tablet-drivers.md)
 
 Often it can be a clue to what is going on.
 
@@ -55,7 +55,7 @@ See these docs:
 
 ## Pressure
 
-* If you are having pressure problems check the pressure in the driver: [DIAG: Testing pressure in the tablet driver](testing-pressure-in-the-tablet-driver.md)
+* If you are having pressure problems check the pressure in the driver: [DIAG: Testing pressure in the tablet driver](diag-pressure-in-tablet-driver.md)
 * In Windows, if the tablet driver detects pressure but the pressure is not working in an app, it often indicates that Windows Ink is configured inconsistently between the two.
 * It's important here to see where the pressure is working or not
   * Is it working in a specific app but not working in others?
@@ -64,4 +64,3 @@ See these docs:
 ## Look through the other troubleshooting guides
 
 GO HERE: [Troubleshooting](./)
-

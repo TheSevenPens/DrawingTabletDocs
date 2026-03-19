@@ -55,7 +55,7 @@ If your manufacturer tablet driver is having problems, the PNP drivers may be a 
 
 ## Using PNP mode for testing and diagnosing problems
 
-If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [DIAG: Testing with Windows PNP drawing tablet drivers](../../../troubleshoot/diag-testing-with-windows-pnp-drawing-tablet-drivers.md)
+If you are having problems with your tablet, trying PNP mode can be a good diagnostic test to help identify if the problem is related to the manufacturer tablet driver or not. More here: [DIAG: Testing with Windows PNP drawing tablet drivers](../../../troubleshoot/diag-windows-pnp-tablet-drivers.md)
 
 ## Interactions between tablet drivers and PNP mode
 
