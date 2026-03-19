@@ -10,6 +10,10 @@ The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous
 
 * [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025-01-25 (archive)
 
+Links
+
+* r/wacom - [The Chinese made Pro Pen3 (25B) vs the Vietnam made Pro Pen3 (25G)](https://www.reddit.com/r/wacom/comments/1rv3evg/the_chinese_made_pro_pen3_25b_vs_the_vietnam_made/) 2026-03-16
+
 ## Pressure
 
 ### Background
