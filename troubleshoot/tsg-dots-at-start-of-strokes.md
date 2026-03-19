@@ -12,7 +12,7 @@ It can suddenly appear with a pen that otherwise was working correctly.
 
 ## Potential solutions
 
-Try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md).
+Try the [Common drawing troubleshooting steps](tsg-common-drawing-tsg-steps.md).
 
 ### Links
 

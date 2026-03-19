@@ -20,7 +20,7 @@ Instructions here: [DIAG: Testing pressure in the tablet driver](diag-pressure-i
 
 ## Things to try
 
-Try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md).
+Try the [Common drawing troubleshooting steps](tsg-common-drawing-tsg-steps.md).
 
 ### **Reseat the nib**
 
