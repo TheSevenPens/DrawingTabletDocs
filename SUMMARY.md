@@ -311,7 +311,7 @@
   * [DIAG: Testing with Windows PNP drawing tablet drivers](troubleshoot/diag-windows-pnp-tablet-drivers.md)
   * [TSG: Pointer moves in different or opposite direction of pen](troubleshoot/tsg-pointer-does-not-follow-pen.md)
   * [TSG: Pen display goes into power saving mode](troubleshoot/tsg-pen-display-power-saving.md)
-  * [TSG: Low pressure drawing problems](troubleshoot/tsg-low-pressure-drawing-problems.md)
+  * [TSG: Low pressure drawing problems](troubleshoot/tsg-strokes-quality-problems-at-low-pressure.md)
   * [TSG: Difficult to reach maximum pressure](troubleshoot/tsg-hard-to-reach-max-pressure.md)
   * [TSG: pointer stuck in corner of screen](troubleshoot/tsg-pointer-stuck-in-corner.md)
   * [TSG: Drawing problems](troubleshoot/tsg-drawing-problems.md)

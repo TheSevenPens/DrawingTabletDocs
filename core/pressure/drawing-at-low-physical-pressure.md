@@ -36,4 +36,4 @@ All of the examples below were created with the Wacom Intuos Pro 2017 M (PTH-660
 
 ## Addressing these problems
 
-See: [TSG: Low pressure drawing problems](../../troubleshoot/tsg-low-pressure-drawing-problems.md)
+See: [TSG: Low pressure drawing problems](../../troubleshoot/tsg-strokes-quality-problems-at-low-pressure.md)
