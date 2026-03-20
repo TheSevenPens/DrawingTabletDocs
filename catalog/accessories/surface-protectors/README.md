@@ -12,6 +12,6 @@ There are many options to protect the surface of your tablet from scratches, etc
 * [Screen protectors](screen-protectors/)
 * [Screen protectors for iPads](screen-protectors/screen-protectors-for-ipads.md)
 
-## Key features&#x20;
+## Protectors do not interfere with the pen
 
-* **Protectors do not interfere with the pen** - These protective sheets do NOT interfere with how your pen works. The EMR signal from the pen, passes right through non-metallic materials such as plastic or glass. &#x20;
+These protective sheets do NOT interfere with how your pen works. The EMR signal from the pen, passes right through non-metallic materials such as plastic or glass.
