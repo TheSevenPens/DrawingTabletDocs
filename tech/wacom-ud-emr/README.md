@@ -8,8 +8,8 @@ Wacom pioneered the use of EMR technology in drawing tablets.Wacom sells Wacom-b
 
 Based on this reddit post (r\TabletPCReview - ["Wacom UD EMR Stylus Compendium" ](https://www.reddit.com/r/TabletPCReview/comments/1dia8z8/wacom_ud_emr_stylus_compendium/)2024-06-17) there seem to be two "generations" of Wacom UD EMR
 
-* 1st Generation - aka **"**&#x50;enabled" or  "TabletPC"
-* 2nd Generation - aka "Wacom feel", "Wacom feel IT" , "feel by Wacom" pen tech&#x20;
+* 1st Generation - aka **"**&#x50;enabled" or "TabletPC"
+* 2nd Generation - aka "Wacom feel", "Wacom feel IT" , "feel by Wacom" pen tech
 
 ## Relevance to drawing tablets
 
@@ -20,16 +20,16 @@ For drawing tablets, it is the 2nd generation that is of primary interest. There
 Ideally it would be easy to determine if a pen or tablet support UD EMR. Unfortunately ...
 
 * There is no comprehensive master list published by Wacom or other sources
-* The pens are not labelled with the tech&#x20;
-* The tablets are not labelled with the tech&#x20;
+* The pens are not labelled with the tech
+* The tablets are not labelled with the tech
 * Marketing information often omits any mention of the tech used
 
 So, identification of UD EMR 2nd gen pens has to done on a case-by-case basis.
 
-## UD EMR 2nd gen adoption&#x20;
+## UD EMR 2nd gen adoption
 
-* [Tablets that support UD EMR 2nd gen](tablets-that-support-ud-emr-2nd-gen.md)
-* [Pens that support UD EMR 2nd gen](pens-that-support-ud-emr-2nd-gen.md)
+* [Tablets that support UD EMR 2nd gen](ud-emr-tablets.md)
+* [Pens that support UD EMR 2nd gen](ud-emr-pens.md)
 
 ## Pen & tablet compatibility for UD EMR 2nd gen
 
@@ -52,11 +52,11 @@ Pens that use UD EMR seem deliberately limited in how well they handle pressure.
 
 ### Buttons
 
-UD EMR pens tend to have only one button or in some cases no buttons. The Wacom CP-923 pen has two buttons- which is rare.  In my experience devices that assume you are using a UD EMR pen don't make use of a second button because they are only expecting a single button.
+UD EMR pens tend to have only one button or in some cases no buttons. The Wacom CP-923 pen has two buttons- which is rare. In my experience devices that assume you are using a UD EMR pen don't make use of a second button because they are only expecting a single button.
 
-&#x20;Resources
+Resources
 
-* [Wacom: our key technologies](https://www.wacom.com/en-us/about-wacom/technologies)  - brief overview of UD EMR and AES
+* [Wacom: our key technologies](https://www.wacom.com/en-us/about-wacom/technologies) - brief overview of UD EMR and AES
 
 ## Wacom Feel branding examples
 
@@ -68,6 +68,6 @@ You can see this how it is used in these materials for an ASUS product.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000589.webp" alt="" width="188"><figcaption></figcaption></figure></div>
 
-## &#x20;Videos
+## Videos
 
 * [Teoh on Tech - Wacom (UD) EMR Pens Comparison Review](https://www.youtube.com/watch?v=QV_86xgl0E4) 2025-05-17

@@ -83,7 +83,7 @@ This tablet makes sense for the following scenarios:
 
 * Wacom One Standard Pen (CP-923)
 * Wacom One Pen (CP-913)
-* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/pens-that-support-ud-emr-2nd-gen.md)
+* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
 * I tested these pens and they worked fine
   * Wacom One Pen (CP-913)
   * Wacom One Standard Pen (CP-923)

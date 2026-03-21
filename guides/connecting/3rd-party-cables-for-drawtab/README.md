@@ -22,7 +22,7 @@ Can you use the cable that you use for other devices? Yes, as long as it can car
 
 ### The cables I use to connect pen tablets
 
-For the exact brands and cables I use for pen tablets: [Cables I use to connect pen tablets](cables-i-use-to-connect-pen-tablets.md)
+For the exact brands and cables I use for pen tablets: [Cables I use to connect pen tablets](my-cables-for-pen-tablets.md)
 
 ### Using adapters for USB port types
 
