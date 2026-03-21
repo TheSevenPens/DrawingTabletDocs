@@ -56,7 +56,7 @@ Here's what you should consider when choosing a size:
 
 ## Pen tablet size vs monitor size
 
-If you use a pen tablet (which has no screen), you use it alongside a monitor. The relationship between the two sizes affects how it feels to draw. A detailed explanation is here: [Matching pen tablet size to monitor size](../guides/general/matching-pen-tablet-size-to-monitor-size.md).
+If you use a pen tablet (which has no screen), you use it alongside a monitor. The relationship between the two sizes affects how it feels to draw. A detailed explanation is here: [Matching pen tablet size to monitor size](../guides/general/pen-tablet-monitor-size.md).
 
 ## Pen display sizes
 
