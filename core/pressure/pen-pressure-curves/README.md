@@ -53,17 +53,17 @@ There are a variety of pressure curve shapes - each of which can solve some prob
 
 <figure><img src="../../../.gitbook/assets/image-000434.png" alt=""><figcaption></figcaption></figure>
 
-To see which drivers and apps support which shapes see this: [Adjusting pressure curves in apps](app-pressure-curves.md)
+To see which drivers and apps support which shapes see this: [Adjusting pressure curves in apps](pressure-curve-in-app.md)
 
 ## Things you can do with pressure curves
 
-* [Null pressure curve](null-pressure-curve.md) - a curve that "does nothing"
-* [Pressure curves that constrain output](constraining-pressure-curve-output.md)
-* [Pressure curves that ignore input](constraining-pressure-curve-input.md)
+* [Null pressure curve](pressure-curve-null.md) - a curve that "does nothing"
+* [Pressure curves that constrain output](pressure-curve-constrain-output.md)
+* [Pressure curves that ignore input](pressure-curve-constrain-input.md)
 * [Lowering the IAF](../../../guides/customizing/lowering-iaf.md)
 * [Increasing IAF](../../../guides/customizing/increasing-iaf.md)
 * [Lowering maximum physical pressure](../../../guides/customizing/lowering-max-physical-pressure.md)
 
 ## Driver UX for pressure curves
 
-See [Adjusting pressure curve in tablet driver](driver-pressure-curves.md)
+See [Adjusting pressure curve in tablet driver](pressure-curves-in-drivers.md)

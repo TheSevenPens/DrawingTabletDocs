@@ -246,7 +246,7 @@ Try some basic drawing and see if everything is working
 
 ### STEP 4.2 Pressure curves
 
-By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](otd-pressure-curves.md)
+By default OTD does not use a pressure curve to modify how the pressure data is interpreted. However, you can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](pressure-curves-in-otd.md)
 
 ### STEP 4.3 Smoothing
 

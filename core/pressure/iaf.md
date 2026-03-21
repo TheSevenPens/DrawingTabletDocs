@@ -61,7 +61,7 @@ To compensate for these kinds of effects, you might encounter a tablet that has 
 * And also the dead zone might be implemented in the driver but it is not shown to you.
 * And of course some tablet drivers don't implement a default dead zone at all.
 
-More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-dead-zones.md)
+More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-deadzone.md)
 
 ## Wispy tails on strokes
 

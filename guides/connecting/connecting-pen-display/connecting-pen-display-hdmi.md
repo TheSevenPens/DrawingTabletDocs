@@ -31,7 +31,7 @@ If it's a PC that has a separate graphics card you might have an HDMI port in mu
 
 As a general rule, always use the HDMI ports on the graphics card (GPU) . Only use the HDMI ports on the motherboard as a last resort.
 
-more here: [Motherboard HDMI vs GPU HDMI ports](motherboard-hdmi-vs-gpu-hdmi-ports.md).
+more here: [Motherboard HDMI vs GPU HDMI ports](motherboard-vs-gpu-hdmi.md).
 
 ### What if you don't have any HDMI ports?
 
