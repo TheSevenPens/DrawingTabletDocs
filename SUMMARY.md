@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [About Seven Pens](about/README.md)
+* [About SevenPens](about/README.md)
   * [Tablet inventory](about/inventory.md)
 * [Basics](basics/README.md)
   * [Beginner's guide to drawing tablets](basics/beginners-guide.md "Beginner's guide")

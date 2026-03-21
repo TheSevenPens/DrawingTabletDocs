@@ -97,6 +97,6 @@ Some people find it helpful to think of a tablet's size relative to standard pap
 
 * [Tim McBurnie - Which Size Wacom Is Right For You?](https://youtu.be/hyfj_Ek77qM) Nov 28, 2022
 * [Aaron Rutten - What Size Drawing Tablet Should I Get?](https://youtu.be/qd4OEaqV-rI) Mar 18, 2022
-* [The Seven Pens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s) Mar 8, 2022
-* [The SevenPens - Is a LARGE pen tablet right for you?](https://youtu.be/YCmVugc3w_g) Jun 27, 2022
-* [The Seven Pens - Is an EXTRA LARGE Pen tablet right for you?](https://youtu.be/Tv_qX1Z9-wI) Jul 25, 2022
+* [SevenPens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s) Mar 8, 2022
+* [SevenPens - Is a LARGE pen tablet right for you?](https://youtu.be/YCmVugc3w_g) Jun 27, 2022
+* [SevenPens - Is an EXTRA LARGE Pen tablet right for you?](https://youtu.be/Tv_qX1Z9-wI) Jul 25, 2022
