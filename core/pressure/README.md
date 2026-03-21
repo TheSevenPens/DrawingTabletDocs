@@ -13,7 +13,7 @@
 * The [Pen pressure response](pen-pressure-response.md) is the pen hardware's "pressure behavior" - how a specific pen maps the physical pressure (how hard you are pressing down) to a logical pressure number that is sent to your computer.
 * A [Pen pressure curves](pen-pressure-curves/) is a way of modifying or processing the pressure response of a pen. You can do this to solve or mitigate some kinds of pressure problems or to achieve certain kinds of creative effects.
 * A [Pressure curve dead zones](pen-pressure-curves/pressure-curve-dead-zones.md) is a way of using a pressure curve to effectively increase the IAF.
-* The vast majority of drawing tablet pens are too-sensitive to small changes in physical pressure near the IAF. This means there is some [Pen pressure instability at low pressure](drawing-at-low-physical-pressure.md). You can address this by using [Pen pressure curves](pen-pressure-curves/) or **pressure smoothing**.
+* The vast majority of drawing tablet pens are too-sensitive to small changes in physical pressure near the IAF. This means there is some [Pen pressure instability at low pressure](drawing-low-pressure.md). You can address this by using [Pen pressure curves](pen-pressure-curves/) or **pressure smoothing**.
 * [Tilt affects pressure](tilt-affects-pressure.md). The pen is more sensitive when it is held perpendicular to the tablet surface.
 
 ## "Under pressure" video series

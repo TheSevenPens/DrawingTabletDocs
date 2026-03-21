@@ -30,4 +30,4 @@ When you draw a stroke with the pen held vertically you might see a thicker stro
 
 ## This can be useful
 
-Most pens are "over-reactive" at low physical pressure and give very blobby strokes at very low pressure. If you encounter those, you can tilt the pen more to minimize those blobby artifacts. More here: See: [Pen pressure instability at low pressure](drawing-at-low-physical-pressure.md)
+Most pens are "over-reactive" at low physical pressure and give very blobby strokes at very low pressure. If you encounter those, you can tilt the pen more to minimize those blobby artifacts. More here: See: [Pen pressure instability at low pressure](drawing-low-pressure.md)

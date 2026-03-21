@@ -92,7 +92,7 @@ The closes you can come to Procreate on a Samsung device is [HiPaint](../../../a
 
 ## Versus the Apple iPad
 
-You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
+You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-vs-samsung-tab-s.md)
 
 ## Using a Galaxy Tab S tablet as an external monitor via USB-C
 

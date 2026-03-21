@@ -128,7 +128,7 @@ Here are some popular assignments: [Popular bindings for auxiliary inputs](../co
 
 ## Windows
 
-Perform this configuration: [Disable the press-and-hold ring in Windows](../guides/platforms/windows/disable-the-press-and-hold-ring-in-windows.md)
+Perform this configuration: [Disable the press-and-hold ring in Windows](../guides/platforms/windows/disable-press-hold-ring.md)
 
 ## Apps
 

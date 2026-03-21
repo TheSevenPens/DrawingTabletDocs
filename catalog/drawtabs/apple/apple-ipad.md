@@ -8,12 +8,12 @@
 ## Comparisons
 
 * [Apple iPad vs drawing tablets](ipad-vs-drawtab.md)
-* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-vs-samsung-tab-s.md)
 
 ## Guides
 
 * [**Connecting an iPad to your computer as a drawing tablet**](/broken/pages/wdKB04PpHLSotRkXTO0U)
-* [Using a drawing tablet with an iPad or iPhone](../../../guides/platforms/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md)
+* [Using a drawing tablet with an iPad or iPhone](../../../guides/platforms/ios-and-ipados/drawtabs-with-ios.md)
 
 ## Links
 

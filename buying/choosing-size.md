@@ -51,8 +51,8 @@ Here's what you should consider when choosing a size:
 
 * **Small (7")** pen tablets work well for scenarios where creating detailed strokes is less important. For example, if you just need a tablet as a mouse replacement, a small one will do fine. Photo editing is another task that works well on a small tablet, since it doesn't typically involve drawing strokes. Most people who draw would find a small tablet feels cramped.
 * **Medium (11")** pen tablets offer the best combination of size, cost, and ergonomics for most people and are my standard recommendation. Medium is the minimum size I recommend for drawing, sketching, painting, or any creative task that requires stroke work.
-* **Large (15")** pen tablets are currently the largest size available. They are popular with some artists, but are large enough that you'll need to adapt to using them. More here: [Using large pen tablets](../guides/general/using-large-pen-tablets.md).
-* **Extra large (23")** pen tablets are no longer produced. They are ideal for some users but require quite a bit of adjustment. More here: [Using extra-large pen tablets](../guides/general/using-extra-large-pen-tablets.md).
+* **Large (15")** pen tablets are currently the largest size available. They are popular with some artists, but are large enough that you'll need to adapt to using them. More here: [Using large pen tablets](../guides/general/large-pen-tablets.md).
+* **Extra large (23")** pen tablets are no longer produced. They are ideal for some users but require quite a bit of adjustment. More here: [Using extra-large pen tablets](../guides/general/extra-large-pen-tablets.md).
 
 ## Pen tablet size vs monitor size
 

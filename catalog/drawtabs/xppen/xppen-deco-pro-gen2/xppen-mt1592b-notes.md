@@ -13,7 +13,7 @@ I used this tablet from 2023-07-26 to 2023-11-01 and have been very happy with i
 
 ## Size
 
-This is large-sized tablet -comparable in size to the Wacom Intuos Pro Large (PTH-860). and you should be aware about the realities of using a tablet this big: [Using large pen tablets](../../../../guides/general/using-large-pen-tablets.md)
+This is large-sized tablet -comparable in size to the Wacom Intuos Pro Large (PTH-860). and you should be aware about the realities of using a tablet this big: [Using large pen tablets](../../../../guides/general/large-pen-tablets.md)
 
 ## **Build quality and design**
 

@@ -7,7 +7,7 @@ For more information:
 * [Apple iPad vs drawing tablets](ipad-vs-drawtab.md)
 * [Apple Pencil notes](../../pens/apple-pencil/apple-pencil-notes.md)
 * [Apple pens](../../pens/apple-pencil/)
-* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-vs-samsung-tab-s.md)
 {% endhint %}
 
 ## Overview

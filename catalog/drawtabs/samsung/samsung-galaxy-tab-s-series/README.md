@@ -6,7 +6,7 @@ The TabS series spans a number of different devices that vary in size and power.
 
 * [Samsung Galaxy Tab S series notes](samsung-tab-s-notes.md)
 * [Apps for Android](../../../../apps/apps-for-android.md)
-* [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-versus-samsung-galaxy-tab-s.md)
+* [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-vs-samsung-tab-s.md)
 
 ## The S Pen
 
