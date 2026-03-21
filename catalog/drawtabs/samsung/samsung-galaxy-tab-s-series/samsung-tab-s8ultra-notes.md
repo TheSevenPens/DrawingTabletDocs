@@ -40,7 +40,7 @@ These are my notes for this specific tablet. You may also be interested in [Sams
 
 ## Compatible Pens
 
-In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
 
 ## Battery life
 

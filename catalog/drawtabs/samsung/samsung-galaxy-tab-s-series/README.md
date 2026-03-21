@@ -11,7 +11,7 @@ The TabS series spans a number of different devices that vary in size and power.
 ## The S Pen
 
 * [Samsung S Pen notes](../../../pens/samsung-s-pen/samsung-s-pen-notes.md)
-* [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+* [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
 
 ## S11 series
 

@@ -11,7 +11,7 @@
 ## Recommended pens
 
 * I recommend use the Wacom CP-913 pen (better IAF and max pressure)
-* See: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-one-pen-cp-913.md)
+* See: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
 
 ## S pen replacement nibs
 

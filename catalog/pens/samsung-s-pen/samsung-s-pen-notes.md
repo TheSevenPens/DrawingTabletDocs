@@ -13,7 +13,7 @@ RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing 
 ## Basics
 
 * [https://en.wikipedia.org/wiki/S\_Pen](https://en.wikipedia.org/wiki/S_Pen)
-* Think about this potential upgrade: [Upgrading to Wacom One Pen (CP-913)](upgrading-to-wacom-one-pen-cp-913.md)
+* Think about this potential upgrade: [Upgrading to Wacom One Pen (CP-913)](upgrading-to-wacom-cp913.md)
 
 ### Links
 
@@ -86,7 +86,7 @@ I can't speak to all of them, just the ones that came with Galaxy Tab S series.
 
 ## Upgrading to a better pen
 
-Consider: [Upgrading to Wacom One Pen (CP-913)](upgrading-to-wacom-one-pen-cp-913.md)
+Consider: [Upgrading to Wacom One Pen (CP-913)](upgrading-to-wacom-cp913.md)
 
 ## Reddit threads
 

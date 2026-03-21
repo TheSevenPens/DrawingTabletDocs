@@ -55,7 +55,7 @@ TBD
 
 ### What about connecting a pen display mobile devices?
 
-Go here: [Connecting a pen display to a mobile device](connecting-a-pen-display-to-a-mobile-device.md)
+Go here: [Connecting a pen display to a mobile device](pen-display-with-mobile-device.md)
 
 ### What about wireless connectivity?
 

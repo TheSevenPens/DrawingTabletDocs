@@ -16,7 +16,7 @@ It is possible in some cases. More here: [Using a drawing tablet with an iPad or
 
 #### FAQ: Can I use a drawing tablet with a Chromebook?
 
-YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/platforms/chromeos/using-drawtabs-with-chromeos.md)
+YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/platforms/chromeos/drawtabs-with-chromeos.md)
 
 #### FAQ: What size drawing tablet should I get?
 
