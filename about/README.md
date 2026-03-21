@@ -1,4 +1,4 @@
-# About Seven Pens
+# About SevenPens
 
 ## Overview
 
@@ -14,7 +14,7 @@ I love creative tech. I've been using drawing tablets for a long time and wanted
 
 You can see a complete list of [Tablet inventory](inventory.md).
 
-## Why "Seven Pens"?
+## Why "SevenPens"?
 
 When I started my YouTube channel I had seven pens from my drawing tablets. Now I have more than seven pens.
 
