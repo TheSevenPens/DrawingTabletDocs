@@ -39,7 +39,7 @@ For example:
 
 ## MacOS considerations
 
-**MacOS** works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [Fuzzy text on displays with MacOS](../operating-systems/macos/display-resolution.md)
+**MacOS** works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [Fuzzy text on displays with MacOS](../platforms/macos/display-resolution.md)
 
 ## **Anti-glare sparkle**
 

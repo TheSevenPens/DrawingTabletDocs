@@ -2,16 +2,16 @@
 
 ## Overview
 
-Windows has built-in tablet drivers through its Plug-and-play framework.&#x20;
+Windows has built-in tablet drivers through its Plug-and-play framework.
 
-More here:&#x20;
+More here:
 
-* [Windows PNP support](../guides/operating-systems/windows/windows-pnp-support.md)
-* [Windows PNP driver compatibility testing](../guides/operating-systems/windows/windows-pnp-driver-compatibility-testing.md)
+* [Windows PNP support](../guides/platforms/windows/windows-pnp-support.md)
+* [Windows PNP driver compatibility testing](../guides/platforms/windows/windows-pnp-compat-testing.md)
 
 ## Using Windows PNP tablet drivers to investigate problems
 
-The Windows PNP tablet driver is extremely basic. However, you can use it to diagnose problems with a drawing tablet.&#x20;
+The Windows PNP tablet driver is extremely basic. However, you can use it to diagnose problems with a drawing tablet.
 
 * if a problem occurs with both the manufacturer tablet driver and the Windows PNP tablet driver, then the problem is likely not related to drivers.
 * if a problem only occurs with the manufacturer driver, then you know the problem is driver related.
@@ -19,17 +19,17 @@ The Windows PNP tablet driver is extremely basic. However, you can use it to dia
 ## **Instructions**
 
 * First uninstall your manufacturer's tablet driver
-* Restart your computer.&#x20;
+* Restart your computer.
 * Then try to reproduce the problem.
 
 ## Notes
 
 * You do NOT need to disconnect your tablet.
-* Some tablets do not work with Windows PNP drivers. This is usually a deliberate choice of the tablet manufacturer. So if the tablet isn't working with the PNP drivers, don't worry.&#x20;
+* Some tablets do not work with Windows PNP drivers. This is usually a deliberate choice of the tablet manufacturer. So if the tablet isn't working with the PNP drivers, don't worry.
 
 ## The pointer
 
-When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this&#x20;
+When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this
 
 <img src="../.gitbook/assets/image-000405.png" alt="" data-size="original">
 

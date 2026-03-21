@@ -1,4 +1,4 @@
-# TSG: Delay and straight lines or gaps at start of stokes
+# TSG: Delay and straight lines or gaps at start of strokes
 
 ## Overview
 
@@ -30,9 +30,9 @@ The same delay at the beginning of dragging the pen can manifest in other user e
 ## Potential solutions
 
 * Restart the computer
-* Try [Disable the press-and-hold ring in Windows](../guides/operating-systems/windows/disable-the-press-and-hold-ring-in-windows.md)
-* Try [Configure Windows Ink for apps](../guides/operating-systems/windows/winink/winink-config-apps.md) then restart the app
-  * and if that doesn't solve it, then also try [Configure Windows Ink in the tablet driver](../guides/operating-systems/windows/winink/winink-config-driver.md) and then restart the app.
+* Try [Disable the press-and-hold ring in Windows](../guides/platforms/windows/disable-the-press-and-hold-ring-in-windows.md)
+* Try [Configure Windows Ink for apps](../guides/platforms/windows/winink/winink-config-apps.md) then restart the app
+  * and if that doesn't solve it, then also try [Configure Windows Ink in the tablet driver](../guides/platforms/windows/winink/winink-config-driver.md) and then restart the app.
 
 ## Links
 

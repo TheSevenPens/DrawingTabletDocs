@@ -70,7 +70,7 @@ Every now and then I have windows use PNP mode even though a driver is installed
 
 ## Which tablets are compatible with Windows PNP?
 
-See this: [Windows PNP driver compatibility testing](windows-pnp-driver-compatibility-testing.md).
+See this: [Windows PNP driver compatibility testing](windows-pnp-compat-testing.md).
 
 ## Notes
 

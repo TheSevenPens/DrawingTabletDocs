@@ -10,7 +10,7 @@ You may occasionally encounter a situation when using your drawing tablet on a W
 
 This is fundamentally a tablet driver issue.
 
-When you see the small diamond pointer, it means that Windows is not using your tablet driver. Instead Windows is using its built-in PNP driver support. More here:  [Windows PNP support](../guides/operating-systems/windows/windows-pnp-support.md)
+When you see the small diamond pointer, it means that Windows is not using your tablet driver. Instead Windows is using its built-in PNP driver support. More here: [Windows PNP support](../guides/platforms/windows/windows-pnp-support.md)
 
 This could be because
 
@@ -29,4 +29,3 @@ Notes
 * MacOS does not have this problem
 
 If you can't solve this problem, contact customer support.
-

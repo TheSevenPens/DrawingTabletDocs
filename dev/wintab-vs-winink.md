@@ -6,11 +6,11 @@ On Windows, there are two ways a drawing tablet communicates with your computer 
 
 ## For normal users
 
-By default, **I recommend you use Windows Ink** unless something forces you to use WinTab.&#x20;
+By default, **I recommend you use Windows Ink** unless something forces you to use WinTab.
 
 If you use WinTab I suggest you only use it for a specific application.
 
-To learn how to configure Windows Ink. [Windows Ink](../guides/operating-systems/windows/winink/)&#x20;
+To learn how to configure Windows Ink. [Windows Ink](../guides/platforms/windows/winink/)
 
 ## For developers
 
@@ -29,7 +29,7 @@ Please read the document for the full details.
 But here are a few things that stand out to me:
 
 * It is a well understood and stable API
-* There are wrappers or many languages (C#, Rust, Python) that let you talk to the APIs. &#x20;
+* There are wrappers or many languages (C#, Rust, Python) that let you talk to the APIs.
   * I had a relatively simple time incorporating it into my test drawing app called [WinTabPainter](https://github.com/TheSevenPens/WinTabPainter).
 * You can find many projects that use WinTab
 * It has been difficult for me to find clear examples of how to use the Windows Ink API. Most of the code is heavily focused on the inking features - which is great but not on what I need which is a way to get the pen position, pressure, tilt data, etc.

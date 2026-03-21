@@ -46,12 +46,12 @@ Often it can be a clue to what is going on.
 
 If you are using a Mac, skip this section. It does not apply to you.
 
-If you are using a Windows computer you need to be aware of a component called [Windows Ink](../guides/operating-systems/windows/winink/).
+If you are using a Windows computer you need to be aware of a component called [Windows Ink](../guides/platforms/windows/winink/).
 
 See these docs:
 
-* [Configure Windows Ink in the tablet driver](../guides/operating-systems/windows/winink/winink-config-driver.md)
-* [Configure Windows Ink for apps](../guides/operating-systems/windows/winink/winink-config-apps.md)
+* [Configure Windows Ink in the tablet driver](../guides/platforms/windows/winink/winink-config-driver.md)
+* [Configure Windows Ink for apps](../guides/platforms/windows/winink/winink-config-apps.md)
 
 ## Pressure
 

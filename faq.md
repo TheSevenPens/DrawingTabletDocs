@@ -12,11 +12,11 @@ Read : [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md)
 
 #### FAQ: Can I use a drawing tablet with my iPad or iPhone?
 
-It is possible in some cases. More here: [Using a drawing tablet with an iPad or iPhone](guides/operating-systems/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md)
+It is possible in some cases. More here: [Using a drawing tablet with an iPad or iPhone](guides/platforms/ios-and-ipados/using-drawing-tablets-with-ipad-iphone.md)
 
 #### FAQ: Can I use a drawing tablet with a Chromebook?
 
-YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/operating-systems/chromeos/using-drawtabs-with-chromeos.md)
+YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/platforms/chromeos/using-drawtabs-with-chromeos.md)
 
 #### FAQ: What size drawing tablet should I get?
 

@@ -21,7 +21,7 @@ There are three possible operating systems for laptops:
 * MacOS
 * ChromeOS
 
-Frist, I DO NOT recommend getting a ChromeOS laptop (aka chromebook). In my testing they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](operating-systems/chromeos/using-drawtabs-with-chromeos.md).
+Frist, I DO NOT recommend getting a ChromeOS laptop (aka chromebook). In my testing they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](platforms/chromeos/using-drawtabs-with-chromeos.md).
 
 This leaves Windows or MacOS as choices for your laptop.
 
@@ -110,7 +110,7 @@ When Windows ARM laptops launched in 2024, drawing tablet drivers did not suppor
 
 However, ARM support for tablet drivers is very new, so consider Intel-based Windows laptops until we've had more experience using ARM on Windows.
 
-More here: [Windows on ARM](operating-systems/windows/windows-on-arm.md).
+More here: [Windows on ARM](platforms/windows/windows-on-arm.md).
 
 ## Ports
 
