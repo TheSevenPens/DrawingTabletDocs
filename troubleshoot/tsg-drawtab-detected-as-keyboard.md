@@ -8,7 +8,12 @@ You can ignore this message.
 
 * It has no negative impact&#x20;
 * There is no problem to be solved - but it is a good idea to check if you you have your tablet drivers installed and are using the latest version.
-* If you are experiencing some other problem with your table, this is very very very likely to be unrelated.
+
+## Relation to other problems&#x20;
+
+If you are experiencing some other problem with your table, this is very very very likely to be unrelated.
+
+To be specific, since it is so common, if your pen display says "NO SIGNAL", then this keyboard message is NOT related. &#x20;
 
 ## Explanation
 
