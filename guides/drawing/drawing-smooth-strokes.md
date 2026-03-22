@@ -71,7 +71,7 @@ Use zoom to your advantage. The stroke is affected several things which are phys
 
 ## Use your tablet's precision mode
 
-Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [Precision mode](../customizing/precision-mode.md).
+Precision mode is a temporary change in how the active area of the tablet is mapped to your desktop. it When, you your large physical gestures on the tablet are mapped to smaller gestures on your screen. That has the effect of making it easier to create smoother strokes especially when you are trying to make small strokes. More here: [Using precision mode](../customizing/precision-mode.md).
 
 ## Zooming in vs precision mode
 

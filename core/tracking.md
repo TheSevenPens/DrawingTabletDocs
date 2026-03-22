@@ -19,7 +19,7 @@ Pen tracking accuracy is a concept that applies to both pen tablets and pen disp
 
 ## Pen tracking calibration
 
-If your pen's position is not matching where the pointer is in a major way especially if it is happening across most of the tablet, then [Calibrate pen position on a pen display](../guides/customizing/calibrate-pen-position.md) may help.
+If your pen's position is not matching where the pointer is in a major way especially if it is happening across most of the tablet, then [Calibrate pen position](../guides/customizing/calibrate-pen-position.md) may help.
 
 ## Video: Accuracy in pen displays
 

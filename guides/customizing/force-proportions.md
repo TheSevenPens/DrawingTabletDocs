@@ -117,4 +117,4 @@ When enabling Force Proportions with multiple displays, you will notice a BIG re
 
 ## Simulation
 
-This tool simulates the effect of Force Proportions: [Force proportions simulator](../../resources/sevenpens-force-proportions-simulator.md)
+This tool simulates the effect of Force Proportions: [SevenPens Force proportions simulator](../../resources/sevenpens-force-proportions-simulator.md)

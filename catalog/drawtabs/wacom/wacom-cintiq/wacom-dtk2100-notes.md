@@ -4,7 +4,7 @@
 
 Release date: 2010
 
-NOTE: This is a second generation of the Cintiq 21 UX (DTZ-2100) that was released in 2005. [My notes on the DTZ-2100](wacom-dtz2100-notes.md).
+NOTE: This is a second generation of the Cintiq 21 UX (DTZ-2100) that was released in 2005. [Wacom Cintiq 21UX 2005 (DTZ-2100) notes](wacom-dtz2100-notes.md).
 
 ## Specs
 

@@ -87,7 +87,7 @@
 
 ### Pen tracking accuracy
 
-* Background: [Pen tracking](../../../../core/tracking.md)
+* Background: [Tracking](../../../../core/tracking.md)
 * Wacom does not publish pen tracking accuracy numbers
 * But we can compare it to other tablets that do have published numbers
 * Here are the accuracy numbers for the Huion Kamvas Pro 24 4K (GT2401) as

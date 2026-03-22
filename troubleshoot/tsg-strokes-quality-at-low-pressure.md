@@ -2,7 +2,7 @@
 
 ## Overview
 
-When drawing at low pressure you can experience some instability in the pressure and this can cause your strokes to look bad. To learn more about the problem itself: [Pen pressure instability at low pressure](../core/pressure/drawing-low-pressure.md)
+When drawing at low pressure you can experience some instability in the pressure and this can cause your strokes to look bad. To learn more about the problem itself: [Drawing at low physical pressure](../core/pressure/drawing-low-pressure.md)
 
 ## Examples
 

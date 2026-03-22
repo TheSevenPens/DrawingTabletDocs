@@ -8,7 +8,7 @@ As I've gotten a chance to use open tablet driver here are some notes I've colle
 
 * [OpenTabletDriver](./)
 * [Install OpenTabletDriver on Windows](otd-windows-install.md)
-* [Using OpenTabletDriver on MacOS](otd-macos-install.md)
+* [Install OpenTabletDriver on MacOS](otd-macos-install.md)
 
 ## Use the OTD discord to get help
 

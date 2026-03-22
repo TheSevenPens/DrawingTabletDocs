@@ -12,7 +12,7 @@ Read : [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md)
 
 #### FAQ: Can I use a drawing tablet with my iPad or iPhone?
 
-It is possible in some cases. More here: [Using a drawing tablet with an iPad or iPhone](guides/platforms/ios-and-ipados/drawtabs-with-ios.md)
+It is possible in some cases. More here: [Using drawing tablets with an iPad or iPhone](guides/platforms/ios-and-ipados/drawtabs-with-ios.md)
 
 #### FAQ: Can I use a drawing tablet with a Chromebook?
 
@@ -61,7 +61,7 @@ Answer: YES. More here: [Using a pen display as a pen tablet](guides/customizing
 
 #### FAQ: How do I make my pen display mirror what is on my monitor?
 
-See this: [Mirroring or extending your desktop to a pen display](guides/customizing/mirroring-or-extending.md)
+See this: [Mirroring or extending](guides/customizing/mirroring-or-extending.md)
 
 #### FAQ: How do I enable mouse mode on a pen display?
 
@@ -115,7 +115,7 @@ See: [TSG: driver no longer supports a drawing tablet](troubleshoot/tsg-driver-d
 
 #### FAQ: Can I have two tablet drivers from different manufacturers installed at the same time?
 
-It depends. More here: [Using multiple drawing tablets at the same time](guides/general/connecting-multiple-drawtabs.md)
+It depends. More here: [Connecting multiple drawing tablets at the same time](guides/general/connecting-multiple-drawtabs.md)
 
 #### FA&#x51;**: How to I completely uninstall a tablet driver on Windows?**
 

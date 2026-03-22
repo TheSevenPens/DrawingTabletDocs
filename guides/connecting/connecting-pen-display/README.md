@@ -45,7 +45,7 @@ When you've connected your display you might see it show a message saying NO SIG
 
 ### When the pen display cannot send data to the computer
 
-See: [Driver does not detect tablet](../../../troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md)
+See: [TSG: Tablet driver does not detect tablet](../../../troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md)
 
 ### When the pen display does not get enough power
 

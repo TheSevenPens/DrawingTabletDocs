@@ -40,4 +40,4 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## Resources
 
-* [22" pen displays compared (2024)](comparisons/2024-22inch-pen-displays-compared.md)
+* [2024 22" pen displays compared](comparisons/2024-22inch-pen-displays-compared.md)

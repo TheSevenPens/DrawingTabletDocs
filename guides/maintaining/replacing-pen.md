@@ -22,4 +22,4 @@ No matter what is written on any site, I **HIGHLY ENCOURAGE** you to <mark style
 
 ## Further reading
 
-For a detailed breakdown of the compatibility topic, see this: [Pen compatibility with drawing tablets](../pens/pen-compatibility.md)
+For a detailed breakdown of the compatibility topic, see this: [Pen compatibility](../pens/pen-compatibility.md)

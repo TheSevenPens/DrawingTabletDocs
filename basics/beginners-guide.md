@@ -69,7 +69,7 @@ Wacom is THE UNDISPUTED LEADER of drawing tablets and have been for 40 years. Th
 
 ## Primary features
 
-* **Tracking pen position** - Tablets detect the position of the tip of the pen relative to the tablet surface. Learn more here: [Pen tracking](../core/tracking.md)
+* **Tracking pen position** - Tablets detect the position of the tip of the pen relative to the tablet surface. Learn more here: [Tracking](../core/tracking.md)
 * **Tracking pen orientation** - Tablets detect how the pen is rotated relative to the tablet surface.
   * **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes respond to tilt. Learn more here: [Pen tilt](../core/pen-tilt/). Most, but not all, tablets support tilt.
   * **Barrel rotation**. - Learn more here: [Pen barrel rotation](../core/barrel-rotation/). This is very rare in tablets and requires pens with special hardware.
@@ -114,7 +114,7 @@ See: [App compatibility with drawing tablets](app-compat.md)
 
 At the end of the pen that touches the tablet is a little replaceable nib. Mostly these nibs are plastic and sometimes felt. Nibs wear down over time. Fast fast it wears down depends on a lot of factors. If it wears down too much, it might scratch the tablets. So, before it wears down too much you should replace your nib with a fresh one. More here: [Nib wear](../guides/maintaining/nib-wear.md)
 
-Tablets almost always come with spare nibs. Some nibs made of different material which provide a different drawing feeling. More here: [Pen nib material](../core/nib-material.md).
+Tablets almost always come with spare nibs. Some nibs made of different material which provide a different drawing feeling. More here: [Nib material](../core/nib-material.md).
 
 Nibs that come with a tablet may be provided in a separate plastic bag or pouch, may be stored in a pen stand, may be stored inside the pen, etc.
 
@@ -124,5 +124,5 @@ A drawing tablet uses absolute positioning and a mouse uses relative positioning
 
 ## Other topics to explore
 
-* [Learning to use a drawing tablet](learning-drawtabs.md)
+* [Learning to use drawing tablets](learning-drawtabs.md)
 * [Learning digital art](learning-digital-art.md)

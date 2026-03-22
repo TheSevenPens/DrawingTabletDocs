@@ -59,7 +59,7 @@ I really enjoyed the flexibility of how the buttons work with the group keys. Ev
 
 ## **Pressure handling**
 
-All pens have have a bit of instability/wobble at low pressure. See: [Pen pressure instability at low pressure](../../../../core/pressure/drawing-low-pressure.md)
+All pens have have a bit of instability/wobble at low pressure. See: [Drawing at low physical pressure](../../../../core/pressure/drawing-low-pressure.md)
 
 Originally, the units (I have 2 units of this tablet) I have showed a bit more of this effect compared to my Wacom Intuos Pro with the Pro Pen 2. I didn't notice it in normal drawing. Based on other user's comments, not all units seem to exhibit this problem, but certainly some do.
 

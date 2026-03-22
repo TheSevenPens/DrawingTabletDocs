@@ -38,7 +38,7 @@ STEP 2 - I gently wipe down the tablet with a damp cloth/microfiber cloth, or to
 
 ## Keeping your tablet clean
 
-* If you find that your hands deposit oil from your skin, consider using a [drawing glove](../../catalog/accessories/drawing-gloves.md).
+* If you find that your hands deposit oil from your skin, consider using a [Drawing gloves](../../catalog/accessories/drawing-gloves.md).
 * To avoid dust or other particulate matter from landing on your tablet, consider putting a cover over the tablet when you are not using it.
 
 ## Other cleaning guides

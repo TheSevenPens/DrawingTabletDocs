@@ -6,7 +6,7 @@
 
 * Huion Kamvas 13 (GS1331) - [Huion Kamvas 13 (GS1331) notes](../../catalog/drawtabs/huion/huion-kamvas/huion-gs1331-notes.md) | model year 2020
 * XP-Pen Artist 13 GEN2 (CD130FH) - [XP-Pen Artist 13 GEN2 (CD130FH) notes](../../catalog/drawtabs/xppen/xppen-artist-gen2/xppen-cd130fh.md) | model year 2022
-* Wacom One 2019 GEN1 (DTC-133) - [Wacom One 2019 GEN1 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md) | model year 2019
+* Wacom One 2019 GEN1 (DTC-133) - [Wacom One 2019 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md) | model year 2019
 
 ## Summary
 

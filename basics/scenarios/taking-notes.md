@@ -10,7 +10,7 @@ Then look through the buying guide for details: [Drawing tablet buying guide](..
 
 Taking notes is a popular scenario for drawing tablets.
 
-Generally I believe you will get the most natural experience taking notes if you use a [Pen-enabled mobile device recommendations](../../recs/mobile-device-recs.md) or [Dedicated note taking devices](../../recs/scenario-recs/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
+Generally I believe you will get the most natural experience taking notes if you use a [Pen-enabled mobile device recommendations](../../recs/mobile-device-recs.md) or [Note-taking recommendations](../../recs/scenario-recs/note-taking-recs.md). Because both these kinds of devices have screens, are portable, and don't require a computer to use. And this makes them very convenient for taking notes.
 
 On the other hand some people enjoy taking notes with pen tablets (screenless tablets) or pen displays (screen tablets). Of course, these tablets are not standalone.
 

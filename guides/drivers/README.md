@@ -44,4 +44,4 @@ Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/
 * An alternative to manufacturer-provided drivers is **OpenTabletDriver** ([https://opentabletdriver.net/](https://opentabletdriver.net/))
 * If you want to try OpenTabletDriver:
   * [Install OpenTabletDriver on Windows](opentabletdriver/otd-windows-install.md)
-  * [Using OpenTabletDriver on MacOS](opentabletdriver/otd-macos-install.md)
+  * [Install OpenTabletDriver on MacOS](opentabletdriver/otd-macos-install.md)

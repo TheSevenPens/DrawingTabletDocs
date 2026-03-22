@@ -22,7 +22,7 @@ Normally, you should use your manufacturer-provided driver for your tablet. Howe
 ## Installation instructions
 
 * Windows: [Install OpenTabletDriver on Windows](otd-windows-install.md)
-* MacOS: [Using OpenTabletDriver on MacOS](otd-macos-install.md)
+* MacOS: [Install OpenTabletDriver on MacOS](otd-macos-install.md)
 
 ## Key points
 

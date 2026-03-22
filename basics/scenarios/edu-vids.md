@@ -27,7 +27,7 @@ For this you want high reliability and durability and you DO NOT need to spend a
 * Huion Kamvas 13 GEN3 (GS1333) - [Huion Kamvas 13 GEN3 (GS1333) notes](../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md)&#x20;
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)
-* Wacom One 2019 (DTC-133) - [Wacom One 2019 GEN1 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
+* Wacom One 2019 (DTC-133) - [Wacom One 2019 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
 
 ## Which tablet does Sal Khan use?
 

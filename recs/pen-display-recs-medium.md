@@ -32,7 +32,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## DECENT
 
-* [Huion Kamvas 16 2021 (GS1562)](../catalog/drawtabs/huion/huion-kamvas/huion-gs1562-notes.md)
+* [Huion Kamvas 16 2021 (GS1562) notes](../catalog/drawtabs/huion/huion-kamvas/huion-gs1562-notes.md)
 * [Wacom Cintiq (DTK-1660)](../catalog/drawtabs/wacom/wacom-cintiq/) - excellent drawing experience but very dated screen
 
 ## AVOID
