@@ -374,7 +374,7 @@
         * [Wacom texture sheets](catalog/accessories/surface-protectors/surface-protectors/wacom-texture-sheets.md)
         * [ePlastic polycarbonate sheets (velvet lexan)](catalog/accessories/surface-protectors/surface-protectors/eplastic-sheets.md "ePlastic")
       * [Screen protectors](catalog/accessories/surface-protectors/screen-protectors/README.md)
-        * [Paperlike for Ipads](catalog/accessories/surface-protectors/screen-protectors/paperlike-for-ipads.md "Paperlike")
+        * [Paperlike for iPads](catalog/accessories/surface-protectors/screen-protectors/paperlike-for-ipads.md "Paperlike")
         * [Screen protectors for iPads](catalog/accessories/surface-protectors/screen-protectors/screen-protectors-for-ipads.md "For iPads")
         * [Photodon screen protectors](catalog/accessories/surface-protectors/screen-protectors/photodon-screen-protectors.md "Photodon")
     * [Monitor arms](catalog/accessories/arms/README.md)
