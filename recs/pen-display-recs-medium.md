@@ -23,7 +23,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 * Huion Kamvas 16 GEN3 (GS1563) [Huion Kamvas 16 GEN3 (GS1563) notes](../catalog/drawtabs/huion/huion-kamvas/huion-gs1563-notes.md)
 * XP-Pen Artist Pro 19 GEN2 (MD180UH) [XP-Pen Artist Pro GEN2](/broken/pages/quTw2BHIHyWAvAB9zAMN)
 * XP-Pen Artist Ultra 16
-* XP-Pen Artist Pro 16 GEN2 (MD160QH) [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](../catalog/drawtabs/xppen/xppen-artist-pro/xppen-md160qh.md)
+* XP-Pen Artist Pro 16 GEN2 (MD160QH) [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-md160qh.md)
 
 ## GOOD
 
@@ -38,7 +38,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 ## AVOID
 
 * Huion Kamvas Pro 16 Plus 4K (GT1562) [Huion Kamvas Pro 16 Plus 4K (GT1562) notes](../catalog/drawtabs/huion/huion-kamvas-pro/huion-gt1562-notes.md) <mark style="color:red;">**LOTS OF AG SPARKLE**</mark>
-* XP-Pen Artist 16 GEN2 (CD160FH) [XP-Pen Artist 16 GEN2 (CD160FH) notes](../catalog/drawtabs/xppen/xppen-artist/xppen-cd160fh.md) <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>
+* XP-Pen Artist 16 GEN2 (CD160FH) [XP-Pen Artist 16 GEN2 (CD160FH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd160fh.md) <mark style="color:red;">**EXCESSIVE DIAGONAL WOBBLE**</mark>
 
 ## Videos
 
