@@ -6,7 +6,7 @@ Overall decent tablet for an entry level 16" pen display. It does have a a very 
 
 ## Links
 
-* Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)&#x20;
+* Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)
 * [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) 2022-06-01
 * [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8_Ng) 2022-05-26
 * [Teoh on Tech: XP-Pen Artist 16 GEN2 Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) 2022-06-06
@@ -17,7 +17,7 @@ HIGH. Diagonal wobble noticed at at most drawing speeds. Can be handled with app
 
 The wobble is present even in fast strokes (10cm/s) which is very unusual for a pen display. Most pen displays only have visible diagonal wobble (and usually much less) at a slow speed like (1cm/s)
 
-Brad Colbow demonstrates the wobble with fast strokes here at 7:04 in this video: [https://youtu.be/4czV7jv9mPg](https://youtu.be/4czV7jv9mPg).&#x20;
+Brad Colbow demonstrates the wobble with fast strokes here at 7:04 in this video: [https://youtu.be/4czV7jv9mPg](https://youtu.be/4czV7jv9mPg).
 
 ## Anti-glare sparkle
 

@@ -17,7 +17,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* Huion Inspiroy Frego M (L610) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-inspiroy/huion-l610-notes.md)
+* Huion Inspiroy Frego M (L610) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-l610-notes.md)
 * XP-Pen Deco Pro
   * XP-Pen Deco Pro MW GEN2 (MT0962B)&#x20;
   * XP-Pen Deco Pro LW GEN2 (MT1172B)&#x20;
@@ -28,16 +28,16 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 * XP-Pen Deco M (IT850) \[no wireless]
 * XP-Pen Deco MW (IT850B)&#x20;
 * XP-Pen Deco L (IT1060) \[no wireless]
-* XP-Pen Deco LW (IT1060B) [XP-Pen Deco LW (IT1060B) notes](../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-it1060b-notes.md)
+* XP-Pen Deco LW (IT1060B) [XP-Pen Deco LW (IT1060B) notes](../catalog/drawtabs/xppen/xppen-deco/xppen-it1060b-notes.md)
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
-* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)
+* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-h1061p-notes.md)
 * Wacom Intuos Medium (CTL-6100) [Wacom Intuos (CTL-x100) notes](../catalog/drawtabs/wacom/wacom-intuos/) \[no tilt, no wireless]
 
 ## OK
 
-* Huion Inspiroy HS611 [Huion Inspiroy HS611 notes](../catalog/drawtabs/huion/huion-inspiroy/huion-hs611-notes.md) - Little bit of an older Huion tablet with older tech. But it does work fine.
-* Huion Inspiroy RTP-700 [Huion Inspiroy RTP-700 notes](../catalog/drawtabs/huion/huion-inspiroy/huion-rtp700-notes.md) - Seems OK but haven't spent much time with it
-* XP-Pen Deco 01 V3 [XP-Pen Deco 01 V3 notes](../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-deco01v3-notes.md)
+* Huion Inspiroy HS611 [Huion Inspiroy HS611 notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-hs611-notes.md) - Little bit of an older Huion tablet with older tech. But it does work fine.
+* Huion Inspiroy RTP-700 [Huion Inspiroy RTP-700 notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-rtp700-notes.md) - Seems OK but haven't spent much time with it
+* XP-Pen Deco 01 V3 [XP-Pen Deco 01 V3 notes](../catalog/drawtabs/xppen/xppen-deco/xppen-deco01v3-notes.md)
 
 ## AVOID
 

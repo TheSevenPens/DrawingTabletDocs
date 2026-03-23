@@ -433,7 +433,7 @@ Key points
 
 ### Huion Kamvas 24 Pro 4K ($1300)
 
-I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [Huion Kamvas Pro 24 4K (GT2401) notes](../../huion/huion-kamvas-pro/huion-gt2401-notes.md).
+I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [Huion Kamvas Pro 24 4K (GT2401) notes](../../huion/huion-pen-displays/huion-gt2401-notes.md).
 
 Comparing the Wacom Cintiq Pro 27 the Huion Kamvas 24 Pro 4K.
 

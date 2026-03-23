@@ -17,9 +17,9 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* XP-Pen Deco Pro XLW GEN2 (MT1592B) [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-mt1592b-notes.md)
+* XP-Pen Deco Pro XLW GEN2 (MT1592B) [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../catalog/drawtabs/xppen/xppen-deco-pro-gen2/xppen-mt1592b-notes.md)
 
 ## GOOD
 
-* Huion Inspiroy Giano (G930L) [Huion Inspiroy Giano (G930L) notes](../catalog/drawtabs/huion/huion-inspiroy/huion-g930l-notes.md)
-* Huion Inspiroy 2 L [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-inspiroy/huion-h1061p-notes.md)
+* Huion Inspiroy Giano (G930L) [Huion Inspiroy Giano (G930L) notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-g930l-notes.md)
+* Huion Inspiroy 2 L [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-h1061p-notes.md)

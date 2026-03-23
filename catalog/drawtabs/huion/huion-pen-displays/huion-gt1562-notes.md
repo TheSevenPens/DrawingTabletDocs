@@ -12,7 +12,7 @@ If you are going to get this tablet consider: [Upgrading from PW517 to PW550](..
 
 In all other ways besides the AG sparkle, I was satisfied with this tablet.
 
-I think a much better choice would be the Huion Kamvas 16 GEN3. [Huion Kamvas 16 GEN3 (GS1563) notes](../huion-kamvas/huion-gs1563-notes.md).
+I think a much better choice would be the Huion Kamvas 16 GEN3. [Huion Kamvas 16 GEN3 (GS1563) notes](huion-gs1563-notes.md).
 
 ## Links
 

@@ -27,7 +27,7 @@ These are for when you want a GREAT drawing experience. Especially if you are al
 ### OK
 
 * XP-Pen Magic Drawing Pad 2024 - I don't have any experience with this tablet.
-* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](../catalog/drawtabs/xppen/xppen-standalone/xppen-mdp1221-notes.md)
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) - [XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](../catalog/drawtabs/xppen/xppen-pads/xppen-mdp1221-notes.md)
 
 ## For general usage
 
@@ -42,7 +42,7 @@ This is when you want a general-purpose mobile device, but also want decent pen 
 ## Avoid
 
 * Samsung Galaxy Tab A Series - <mark style="color:red;">**NOT RECOMMENDED**</mark> of tablets. More here: **Samsung Galaxy Tab A.** See [Samsung Galaxy Tab A series](../catalog/drawtabs/samsung/samsung-galaxy-tab-a-series.md)
-* Huion Slate - [Huion Kamvas Slate](../catalog/drawtabs/huion/huion-kamvas-slate.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>
+* Huion Slate - [Huion Kamvas Slate](../catalog/drawtabs/huion/huion-standalone.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>
 
 ## Budget Android choices
 

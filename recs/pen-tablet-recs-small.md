@@ -17,7 +17,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* Huion Frego S (L320) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-inspiroy/huion-l610-notes.md) NO TILT
+* Huion Frego S (L320) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-pen-tablets/huion-l610-notes.md) NO TILT
 
 ## GOOD
 
