@@ -42,7 +42,7 @@ This is when you want a general-purpose mobile device, but also want decent pen 
 ## Avoid
 
 * Samsung Galaxy Tab A Series - <mark style="color:red;">**NOT RECOMMENDED**</mark> of tablets. More here: **Samsung Galaxy Tab A.** See [Samsung Galaxy Tab A series](../catalog/drawtabs/samsung/samsung-galaxy-tab-a-series.md)
-* Huion Slate - [Huion Kamvas Slate](../catalog/drawtabs/huion/huion-standalone.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>
+* Huion Slate - [Huion standalone tablets](../catalog/drawtabs/huion/huion-standalone.md) <mark style="color:red;">**NOT RECOMMENDED**</mark>
 
 ## Budget Android choices
 
