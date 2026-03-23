@@ -34,12 +34,12 @@ FP restricts the region of the active area that matches to that of your monitor 
 
 {% tabs %}
 {% tab title="Wacom" %}
-#### Wacom tablet properties app: Force proportions
+**Wacom tablet properties app: Force proportions**
 
 * Launch **Wacom Tablet Properties**
 * Under the **Mapping** tab, enable **Force Proportions**
 
-#### Wacom Center app: Force proportions
+**Wacom Center app: Force proportions**
 
 * Launch **Wacom Center**
 * Navigate to the **Mapping** tab
@@ -68,7 +68,7 @@ FP restricts the region of the active area that matches to that of your monitor 
 {% endtab %}
 
 {% tab title="Linux" %}
-### Linux (Fedora)
+#### Linux (Fedora)
 
 * Open **Settings** > **Graphics Tablets**
 * Enable **Keep Aspect Ratio**
@@ -87,8 +87,6 @@ FP restricts the region of the active area that matches to that of your monitor 
 This video goes into great detail about this topic.
 
 {% embed url="https://youtu.be/9oAvsJk5ESU" %}
-
-
 
 ## Active area loss
 

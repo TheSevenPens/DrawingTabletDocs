@@ -13,8 +13,8 @@ Huion Kamvas 13 GEN3 (GS1333) [Huion Kamvas 13 GEN3 (GS1333) notes](../../../cat
 SMALL 13"
 
 * Huion Kamvas 13 GEN3 (GS1333) [Huion Kamvas 13 GEN3 (GS1333) notes](../../../catalog/drawtabs/huion/huion-kamvas/huion-gs1333-notes.md) ★★★
-* XP-Pen Artist 13 GEN2 (CD130FH) [XP-Pen Artist 13 GEN2 (CD130FH) notes](../../../catalog/drawtabs/xppen/xppen-artist-gen2/xppen-cd130fh.md)
-* XP-Pen Artist 12 GEN3 (CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../../../catalog/drawtabs/xppen/xppen-artist-gen3/xppen-cd121fh.md)
+* XP-Pen Artist 13 GEN2 (CD130FH) [XP-Pen Artist 13 GEN2 (CD130FH) notes](../../../catalog/drawtabs/xppen/xppen-artist/xppen-cd130fh.md)
+* XP-Pen Artist 12 GEN3 (CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../../../catalog/drawtabs/xppen/xppen-artist/xppen-cd121fh.md)
 
 MEDIUM 16"
 
