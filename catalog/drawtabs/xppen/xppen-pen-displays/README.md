@@ -2,7 +2,7 @@
 
 ## Artist Pro Models
 
-| Artist Ultra 16           | MD160UH | 2025  | [XP-Pen Artist Ultra 16 (MD160UH) notes](../xppen-artist-ultra/xppen-md160uh-notes.md)                                                                                          |
+| Artist Ultra 16           | MD160UH | 2025  | [XP-Pen Artist Ultra 16 (MD160UH) notes](xppen-md160uh-notes.md)                                                                                                                |
 | ------------------------- | ------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Artist Pro 22 GEN2        | MD220QH | 2025  | ​[XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](https://app.gitbook.com/o/-LBUpLETf4LFiwdypBiE/s/Nde0PQIvNcFZNVxuTO0G/catalog/drawtabs/xppen/xppen-artist-pro-gen2/xppen-md220qh)​ |
 | Artist Pro 24 GEN2 4K     | MD240UH | 2024  | ​                                                                                                                                                                               |

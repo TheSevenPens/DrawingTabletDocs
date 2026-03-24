@@ -21,7 +21,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## GOOD
 
-* XP-Pen Artist 12 GEN3 (CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../catalog/drawtabs/xppen/xppen-artist/xppen-cd121fh.md))
+* XP-Pen Artist 12 GEN3 (CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd121fh.md))
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)
 
