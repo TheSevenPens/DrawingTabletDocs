@@ -12,7 +12,7 @@
 
 ## Guides
 
-* [**Connecting an iPad to your computer as a drawing tablet**](/broken/pages/wdKB04PpHLSotRkXTO0U)
+* [Using iPad as as pen display](ipad-as-pen-display.md)
 * [Using drawing tablets with an iPad or iPhone](../../../guides/platforms/ios-and-ipados/drawtabs-with-ios.md)
 
 ## Links
