@@ -54,8 +54,8 @@ For a list of applications for iPads: [Apps for iPad](../../../apps/apps-for-ipa
 
 Some popular and excellent drawing applications are available on the iPad.
 
-* [Procreate](../../apps/procreate/)
-* [Clip Studio Paint](../../apps/clip-studio-paint/)
+* [Procreate](../../apps/procreate.md)
+* [Clip Studio Paint](../../apps/clip-studio-paint.md)
 * [Fresco](../../apps/fresco.md)
 * [Ibis Paint](../../apps/ibis-paint.md)
 
@@ -147,8 +147,8 @@ I use these iPad models with an Apple Pencil 2:
 
 I primarily these use iPad apps
 
-* [Procreate](../../apps/procreate/)
-* [Clip Studio Paint](../../apps/clip-studio-paint/)
+* [Procreate](../../apps/procreate.md)
+* [Clip Studio Paint](../../apps/clip-studio-paint.md)
 
 I occasionally use these iPad apps
 

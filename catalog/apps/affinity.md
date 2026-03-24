@@ -1,4 +1,8 @@
-# Affinity notes
+# Affinity
+
+## Basics
+
+* [https://affinity.serif.com/](https://affinity.serif.com/)
 
 ## Overview
 
@@ -7,4 +11,3 @@ Affinity used to be three separate apps (Affinity Photo, Affinity Designer, and 
 I use Affinity for basic photo-editing - color correction, or cropping, etcetera and for occasional vector work.
 
 Affinity is free!
-

@@ -6,10 +6,10 @@ This is a list of some prominent apps for Android devices. If you want to see a 
 
 ## Popular apps for Android
 
-* [Clip Studio Paint](../catalog/apps/clip-studio-paint/)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
 * [Ibis Paint](../catalog/apps/ibis-paint.md)
 * [HiPaint](../catalog/apps/hipaint.md)
-* [Krita](../catalog/apps/krita/)
+* [Krita](../catalog/apps/krita.md)
 * [**ArtFlow Studio**](http://artflowstudio.com/)
 * [Apps for Android](apps-for-android.md#infinite-painter)
 * [Concepts app](../catalog/apps/concepts-app.md)

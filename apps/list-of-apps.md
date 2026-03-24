@@ -3,10 +3,10 @@
 ## Creative 2D
 
 * **Adobe Fresco** (Windows, iOS, MacOS) [Fresco](../catalog/apps/fresco.md) FREE
-* **Affinity (Windows, MacOS) [Affinity](../catalog/apps/affinity/)**, **[Affinity notes](../catalog/apps/affinity/affinity-notes.md)** **FREE**
+* **Affinity (Windows, MacOS)** [**Affinity**](../catalog/apps/affinity.md), [**Affinity notes**](/broken/pages/dNZS05XkPeIbHD9BUPX8) **FREE**
 * **ArtFlow Studio** (Android, ChromeOS) [**links**](http://artflowstudio.com/)
 * **ArtRage** (Windows, macOS, iOS, Android) [ArtRage](../catalog/apps/artrage.md)
-* **Clip Studio Paint** (Windows, MacOS, Android, iOS) [Clip Studio Paint](../catalog/apps/clip-studio-paint/)
+* **Clip Studio Paint** (Windows, MacOS, Android, iOS) [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
 * **Drawpile** (Web, Windows, MacOS, Android, Linux) [https://drawpile.net/](https://drawpile.net/)
 * **Expresii** (Windows) [Expresii](../catalog/apps/expresii.md)
 * **Firealpaca** (Windows, MacOS) [FireAlpaca](../catalog/apps/fireaplaca.md)
@@ -15,9 +15,9 @@
 * **Ibis Paint** (Windows, iOS, Android) [Ibis Paint](../catalog/apps/ibis-paint.md)
 * **Infinite Design** (Android) [https://www.infinitestudio.art/](https://www.infinitestudio.art/)
 * **Infinite Painter** (Android, iOS) [List of apps](list-of-apps.md#infinite-painter)
-* **Kleki** (web) [Kleki](../catalog/apps/kleki.md) <mark style="background-color:purple;">**FREE**</mark> &#x20;
+* **Kleki** (web) [Kleki](../catalog/apps/kleki.md) <mark style="background-color:purple;">**FREE**</mark>
 * **Kreska.art** (web) [**links**](https://kreska.art/) **FREE**
-* **Krita** (Windows, Linux, MacOS) [Krita](../catalog/apps/krita/) <mark style="background-color:purple;">**FREE**</mark>
+* **Krita** (Windows, Linux, MacOS) [Krita](../catalog/apps/krita.md) <mark style="background-color:purple;">**FREE**</mark>
 * **Leonardo** (Windows) [Leonardo](../catalog/apps/leonardo.md)
 * **Magma** (web) [https://magma.com/](https://magma.com/) FREE
 * **Medibang Paint** (Windows, MacOS) [Medibang Paint](../catalog/apps/medibang.md)
@@ -27,7 +27,7 @@
 * **Paint Tool Sai** (Windows) [PaintTool Sai](../catalog/apps/painttool-sai.md)
 * **Painter** (Windows, MacOS) [Painter](../catalog/apps/painter.md)
 * **Paintstorm Studio** (Windows, macOS, iOS, Linux) [Paintstorm Studio](../catalog/apps/paintstorm-studio.md)
-* **Procreate** (iOS) [Procreate](../catalog/apps/procreate/)
+* **Procreate** (iOS) [Procreate](../catalog/apps/procreate.md)
 * **Rebelle** (Windows, MacOS) [Rebelle](../catalog/apps/rebelle.md)
 * **StylusX** (Windows) [StylusX](../catalog/apps/stylusx.md)
 
@@ -48,12 +48,12 @@
 
 * **Adobe Illustrator** (Windows, MacOS) \[]
 * **Inkscape** (Windows, MacOS, Linux) [Inkscape](../catalog/apps/inkscape.md) <mark style="background-color:purple;">**FREE**</mark>
-* **VectorInk** (Online, Android)  [Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink)
+* **VectorInk** (Online, Android) [Google app link](https://play.google.com/store/apps/details?id=com.app.vectorink)
 
-## 3D&#x20;
+## 3D
 
-* **Autodesk Maya**  [https://www.autodesk.com/products/maya/](https://www.autodesk.com/products/maya/)
-* **Blender** (Linux, MacOS, Windows, BSD)  [Blender](../catalog/apps/blender.md) <mark style="background-color:purple;">**FREE**</mark>
+* **Autodesk Maya** [https://www.autodesk.com/products/maya/](https://www.autodesk.com/products/maya/)
+* **Blender** (Linux, MacOS, Windows, BSD) [Blender](../catalog/apps/blender.md) <mark style="background-color:purple;">**FREE**</mark>
 * **Feather 3D** (iPad) [Feather 3D](../catalog/apps/feather-3d.md)
 * **nomadsculpt** (iOS, Android) [https://nomadsculpt.com/](https://nomadsculpt.com/)
 * **Spline** (web) [https://spline.design/](https://spline.design/)
@@ -71,12 +71,12 @@
 
 ## **Diagramming and whiteboarding**
 
-* **Visio** - [https://www.microsoft.com/en-us/microsoft-365/visio](https://www.microsoft.com/en-us/microsoft-365/visio)&#x20;
-* **Excalidraw** - [https://excalidraw.com/](https://excalidraw.com/)&#x20;
+* **Visio** - [https://www.microsoft.com/en-us/microsoft-365/visio](https://www.microsoft.com/en-us/microsoft-365/visio)
+* **Excalidraw** - [https://excalidraw.com/](https://excalidraw.com/)
 * **Draw.io** - [diagrams.net](https://www.drawio.com/)
 * **Microsoft whiteboard** (windows, iOS, web) - [https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)
-* **Miro** - [https://miro.com/](https://miro.com/)&#x20;
-* **Lovable** - [https://lovable.dev/](https://lovable.dev/) &#x20;
+* **Miro** - [https://miro.com/](https://miro.com/)
+* **Lovable** - [https://lovable.dev/](https://lovable.dev/)
 
 ## Utilities
 

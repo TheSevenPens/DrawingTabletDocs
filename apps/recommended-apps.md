@@ -8,17 +8,17 @@ If you want to see a full list of applications go here: [Apps](./).
 
 ## Recommendations
 
-* [Clip Studio Paint](../catalog/apps/clip-studio-paint/) - [Clip Studio Paint notes](../catalog/apps/clip-studio-paint/clip-studio-paint-notes.md)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md) - [Clip Studio Paint notes](/broken/pages/Wv24xqkUBP2n8XRMZQWj)
   * (Windows, MacOS, Android, iOS)
-* [Krita](../catalog/apps/krita/) - [Krita notes](../catalog/apps/krita/krita-notes.md)
+* [Krita](../catalog/apps/krita.md) - [Krita notes](/broken/pages/KQ9hWgM1p2eIDnYbl8k1)
   * (Windows, Linux, MacOS)
-* [Affinity](../catalog/apps/affinity/) - [Affinity notes](../catalog/apps/affinity/affinity-notes.md)
+* [Affinity](../catalog/apps/affinity.md) - [Affinity notes](/broken/pages/dNZS05XkPeIbHD9BUPX8)
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)
-* [Adobe Photoshop](../catalog/apps/adobe-photoshop/) - [Adobe Photoshop notes](../catalog/apps/adobe-photoshop/adobe-photoshop-notes.md)
+* [Adobe Photoshop](../catalog/apps/adobe-photoshop.md) - [Adobe Photoshop notes](/broken/pages/fh4flAowQAnN4WV8eKev)
   * (Windows, MacOS)
-* [Procreate](../catalog/apps/procreate/) - [Procreate notes](../catalog/apps/procreate/procreate-notes.md)
+* [Procreate](../catalog/apps/procreate.md) - [Procreate notes](/broken/pages/IMqyk4G3aleEqfJffyBv)
   * (iOS)
 * **Rebelle** - no notes
   * (Windows, MacOS)
