@@ -128,7 +128,7 @@
     * [Powering a drawing tablet](core/power/powering-drawtabs.md)
     * [Power delivery](core/power/power-delivery.md)
   * [PWM flicker](core/pwm-flicker.md)
-  * [Digitizer resolution and density](core/digitizer-resolution-and-density.md)
+  * [Digitizer resolution and density](core/digitizer-resolution-density.md)
 * [Guides](guides/README.md)
   * [Maintaining your drawing tablet](guides/maintaining/README.md "Maintaining")
     * [Dealing with water damage](guides/maintaining/dealing-with-water-damage.md "Water damage")

@@ -43,10 +43,10 @@ The resolution of digitizers is almost NEVER listed anywhere. But of course, if 
 
 Here's an example: the Wacom Intuos Pro 2025 M has these specs.
 
-| Spec | Imperial | Metric |
-| --- | --- | --- |
-| Dimensions | 10.4 x 5.8 inches | 263mm x 148mm |
-| LPI | 5280 LPI | 200 LPmm |
+| Spec       | Imperial    | Metric      |
+| ---------- | ----------- | ----------- |
+| Dimensions | 10.4 x 5.8" | 263 x 148mm |
+| LPI        | 5280 LPI    | 200 LPmm    |
 
 So the resolution of the digitizer in terms of addressable elements is 52600 x 29600.
 
@@ -60,13 +60,13 @@ Displays have their own native resolution and size, so they have a pixel density
 
 Here are some common examples:
 
-| Display | PPI |
-| --- | --- |
-| 27" 4K display | 166 |
-| 27" 8K display | 326 |
-| 16" 4K display | 283 |
-| Samsung Galaxy S21 series | ~500 |
-| 6th and 7th generation iPad minis | 326 |
+| Display                           | PPI   |
+| --------------------------------- | ----- |
+| 27" 4K display                    | 166   |
+| 27" 8K display                    | 326   |
+| 16" 4K display                    | 283   |
+| Samsung Galaxy S21 series         | \~500 |
+| 6th and 7th generation iPad minis | 326   |
 
 Overall, drawing tablet digitizers are 10x more dense than even the best available displays. Even very old digitizers have a density of 2640 LPI (100 LPmm).
 
