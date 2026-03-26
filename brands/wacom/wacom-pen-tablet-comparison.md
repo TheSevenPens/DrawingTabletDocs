@@ -166,7 +166,7 @@ For these tablets that do support touch, touch can be enabled/disabled with a ph
 More here:
 
 * [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md).
-* [Touch support](../../guides/touch-support/)
+* [Touch support](../../guides/touch/)
 
 ## Tablet design
 

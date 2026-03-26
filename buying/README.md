@@ -93,7 +93,7 @@ The primary input to the tablet is the pen, but some tablets support other input
 Read more here:
 
 * [Auxiliary inputs](../core/expresskeys/) - buttons, dials, sliders
-* [Touch support](../guides/touch-support/)
+* [Touch support](../guides/touch/)
 
 ## Pen display features
 

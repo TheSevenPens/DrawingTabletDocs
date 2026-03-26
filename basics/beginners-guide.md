@@ -84,7 +84,7 @@ These are features that are not essential to the drawing experience but may offe
 
 * **Auxiliary inputs** - These are "non-pen" inputs. More here:
   * One class of inputs includes things like **buttons, dials, touch strips, or rollers** on the tablet. Not all tablets have these kind of inputs, but many do. You can configure these inputs to perform actions like undo, change brush size, change zoom, etc. More here: [Auxiliary inputs](../core/expresskeys/)
-  * Another class input is **touch** - where the surface of the tablet can detect the touch of your fingers. Only A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [Touch support](../guides/touch-support/)
+  * Another class input is **touch** - where the surface of the tablet can detect the touch of your fingers. Only A small number of tablets support touch. How well touch works and which OS it works depends on a lot of factors. More here: [Touch support](../guides/touch/)
 
 ## The active area
 
