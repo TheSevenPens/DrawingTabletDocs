@@ -1,5 +1,15 @@
 # Apple iPad versus Samsung Galaxy Tab S
 
+{% hint style="info" %}
+For more information:
+
+* [Apple iPad notes](apple-ipad-notes.md)
+* [Apple iPad vs drawing tablets](ipad-vs-drawtab.md)
+* [Apple Pencil notes](../../pens/apple-pencil/apple-pencil-notes.md)
+* [Apple pens](../../pens/apple-pencil/)
+* [Apple iPad versus Samsung Galaxy Tab S](apple-ipad-vs-samsung-tab-s.md)
+{% endhint %}
+
 ## Overview
 
 Both of these kinds of devices can be successfully used for digital art, note taking, etc. Each has its strengths and weaknesses - but overall they're quite comparable.
