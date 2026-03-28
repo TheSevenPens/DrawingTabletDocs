@@ -37,6 +37,7 @@ For more on touch: [Touch support](./)
   * Wacom Movink 13 (DTH-135)
   * Wacom Cintiq Pro 24 Touch (DTH-2420)
   * Wacom Cintiq Pro 16 (2016) (DTH-1620)
+  * XP-Pen Artist Pro 27 GEN2 (    MD270UH)
   * XP-Pen Artist 16 Ultra
   * Huion Kamvas Pro 19 (GT1902)
   * Huion Kamvas Pro 27 (GT2701)
