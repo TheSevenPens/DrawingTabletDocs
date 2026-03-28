@@ -38,7 +38,7 @@ These docs may help you:
 
 * Thoroughly CLEAN the surfaces tablets and pens.
   * They have been in contact with human hands and can have all sorts of nasty cruft in their crevices.
-  * See: [Cleaning a drawing tablet](maintaining/cleaning-drawtabs.md)
+  * See: [Cleaning a drawing tablet](maintain/cleaning-drawtabs.md)
 
 ## Tablet operating condition
 

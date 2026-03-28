@@ -209,7 +209,7 @@ Drawing tablets have been released over many years, so when you shop online you 
 * **Accessories** - There are some useful accessories for tablets. More here: [Accessory links](../catalog/accessories/)
 * **Purchasing** - Before you purchase, go through this [Buying tips](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [Getting started with a drawing tablet](../basics/getting-started.md)
-* **Maintenance** - Once you get your tablet, you'll need to take care of it with some simple maintenance. I've written a guide on this: [Maintaining your drawing tablet](../guides/maintaining/).
+* **Maintenance** - Once you get your tablet, you'll need to take care of it with some simple maintenance. I've written a guide on this: [Maintaining your drawing tablet](../guides/maintain/).
 * **Be prepared for the total cost of ownership.** The tablet itself is just the beginning — you will likely purchase other things too. More here: [Total cost of ownership (TCO)](../guides/general/total-cost-of-ownership-tco.md)
 
 ## Resources
