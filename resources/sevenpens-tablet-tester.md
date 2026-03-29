@@ -2,13 +2,13 @@
 
 ## Overview
 
-With my Tablet Tester browser-based tool you can test out the basic features of your tablet. This is useful for troubleshooting.&#x20;
+This a is a SIMPLE web app that useful for verifying your tablet and its core features work.
 
-## Try out the tool now
+Try out the tester: [https://thesevenpens.github.io/WebTabletTesterBasic/](https://thesevenpens.github.io/WebTabletTesterBasic/)
 
-Go here to launch the tool: [**SevenPens Tablet Tester**](https://thesevenpens.github.io/HtmlTabletTester/)**.** Then start drawing in the blue box.
+Just open the tester and start drawing in the blue area
 
-<figure><img src="../.gitbook/assets/image-000248.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Safety and privacy
 
@@ -19,40 +19,12 @@ This tool:
 * Does **not** track your behavior.
 * Does **not** record what you draw.
 
-## Features
-
-* Inputs
-  * Draw with pen
-  * Draw with mouse
-* Formatting
-  * Control stroke size by pressure or tilt or use a fixed size
-  * Control stroke color by pressure or tilt or use a fixed color
-  * Control the minimum size of a stroke - useful when drawing with very light pressyre
-* Live Pointer information
-  * Position, Tilt, Pressure, Barrel Rotation
-  * Calculated information: Velocty & Direction
-  * Button status
-* Utilities
-  * Erase canvas when starting a new stroke
-  * &#x20;Show stroke stats such as pointer events/sec
-* Processing
-  * Position smoothing
-  * Pressure smoothing
-  * Tilt smoothing
-  * Pressure quantization
-  * Pressure curve
-* Multiple ways to erase the canvas:
-  * Press **Clear** button
-  * Press **BACKSPACE** key
-  * Press **DELETE** key
-* Press **Save** button to download canvas as PNG file&#x20;
-
 ## OS & Browser compatibility
 
 **Windows**
 
 * Pen API:
-  * Needs Windows Ink to be enabled in the tablet driver.&#x20;
+  * Needs Windows Ink to be enabled in the tablet driver.
   * If you tablet driver is using only WinTab, no pressure is supported.
 * Chrome - WORKS
 * Firefox - WORKS
@@ -60,18 +32,18 @@ This tool:
 **MacOS**
 
 * Safari - yet to be tested
-* Chrome -  WORKS
+* Chrome - WORKS
 
 **Linux**
 
 * Chrome - WORKS
 * Firefox
   * Wayland - WORKS
-  * X11 -&#x20;
+  * X11 -
     * use `env MOZ_USE_XINPUT2=1 firefox` to make it work
-    * more info on what's going on with the X11 issue:&#x20;
+    * more info on what's going on with the X11 issue:
       * [https://stackoverflow.com/questions/78073830/pen-pointer-events-in-linux-chrome-and-firefox-not-working-as-intended/78764151#78764151](https://stackoverflow.com/questions/78073830/pen-pointer-events-in-linux-chrome-and-firefox-not-working-as-intended/78764151#78764151)
-      * [https://bugzilla.mozilla.org/show\_bug.cgi?id=1207700](https://bugzilla.mozilla.org/show_bug.cgi?id=1207700)&#x20;
+      * [https://bugzilla.mozilla.org/show\_bug.cgi?id=1207700](https://bugzilla.mozilla.org/show_bug.cgi?id=1207700)
 
 **iPadOS**
 
@@ -83,4 +55,4 @@ This tool:
 
 ## Open source
 
-The entire source code is on the github repo ([https://github.com/TheSevenPens/HtmlTabletTester](https://github.com/TheSevenPens/HtmlTabletTester)). I encourage you to look through it and fork and modify it for your needs.
+The entire source code is on the GitHub repo ([https://github.com/TheSevenPens/WebTabletTesterBasic](https://github.com/TheSevenPens/WebTabletTesterBasic)) . I encourage you to look through it and fork and modify it for your needs.
