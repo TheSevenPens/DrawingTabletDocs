@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you are wearing out your plastic pen nibs too quickly, you might be considering a metal nib. Metal nibs in theory never wear out.&#x20;
+If you are wearing out your plastic pen nibs too quickly, you might be considering a metal nib. Metal nibs in theory never wear out.
 
 ## Metal nib video series
 
@@ -25,9 +25,9 @@ Are metal nibs safe for your pen tablet?
 
 <mark style="color:red;">**I DO NOT recommend using a metal nib directly against the glass of a pen display**</mark>
 
-I haven't tried it with a pen display and I right now would not recommend someone doing doing that. I do believe there's a chance it can damage the screen. I've even seen people with plastic nibs damage the screen of their pen display.&#x20;
+I haven't tried it with a pen display and I right now would not recommend someone doing doing that. I do believe there's a chance it can damage the screen. I've even seen people with plastic nibs damage the screen of their pen display.
 
-If someone is going to do use a metal nib with a pen display, I would recommend using a protective sheet. See this doc [Surface protection](../../catalog/accessories/surface-protectors/).
+If someone is going to do use a metal nib with a pen display, I would recommend using a protective sheet. See this doc [Surface protection](../../surface-protectors-obsolete.md).
 
 ## Metal nib options
 
@@ -35,12 +35,12 @@ You may find different options for nibs, here several I know of.
 
 **For Wacom Pro Pen 2**
 
-* TWITE Graphics ([https://hitomins.tumblr.com/products\_sus\_English#b](https://hitomins.tumblr.com/products_sus_English#b))&#x20;
+* TWITE Graphics ([https://hitomins.tumblr.com/products\_sus\_English#b](https://hitomins.tumblr.com/products_sus_English#b))
   * I purchased from ([https://alice-books.com/item/show/1113-4](https://alice-books.com/item/show/1113-4)) but you may find other sources.
   * This is the nib I use for the "Are metal nibs safe" videos
 * REEYEAR ( [https://a.co/d/8H6lqGq](https://a.co/d/8H6lqGq))
-* TWITE Hybrid metal/plastix nib ([https://hitomins.tumblr.com/products\_hybrid](https://hitomins.tumblr.com/products_hybrid))&#x20;
-  * Store: [https://alice-books.com/item/show/1113-3](https://alice-books.com/item/show/1113-3)&#x20;
+* TWITE Hybrid metal/plastix nib ([https://hitomins.tumblr.com/products\_hybrid](https://hitomins.tumblr.com/products_hybrid))
+  * Store: [https://alice-books.com/item/show/1113-3](https://alice-books.com/item/show/1113-3)
 
 **For Wacom CTL-672,CTL-671,CTL-471, CTL-472**
 
@@ -48,12 +48,9 @@ You may find different options for nibs, here several I know of.
 
 ### Reddit Threads
 
-* https://www.reddit.com/r/wacom/comments/740ktd/metal\_nibs\_where\_do\_you\_purchase\_them/ -   &#x20;
-* https://www.reddit.com/r/wacom/comments/ts2ted/titanium\_alloy\_pen\_nib/ -&#x20;
-* https://www.reddit.com/r/wacom/comments/tklhcn/stainless\_steel\_nib\_finally\_came\_time\_to\_art/ -&#x20;
+* https://www.reddit.com/r/wacom/comments/740ktd/metal\_nibs\_where\_do\_you\_purchase\_them/ -
+* https://www.reddit.com/r/wacom/comments/ts2ted/titanium\_alloy\_pen\_nib/ -
+* https://www.reddit.com/r/wacom/comments/tklhcn/stainless\_steel\_nib\_finally\_came\_time\_to\_art/ -
 * https://www.reddit.com/r/wacom/comments/t7lraf/better\_nibs\_for\_ctl472/ -
 * https://www.reddit.com/r/wacom/comments/gyo4ug/pro\_pen\_2\_stainless\_steel\_nib/ -
 * https://www.reddit.com/r/wacom/comments/kyl5lj/but\_seriously\_why\_are\_all\_my\_nibs\_sharpened\_to/ -
-
-
-

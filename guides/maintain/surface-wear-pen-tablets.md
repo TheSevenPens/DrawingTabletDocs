@@ -25,5 +25,5 @@ There are options to help protect the surface
 * Maintain your pen nibs so that they don't develop a flat edge
 * Use a felt nib which is softer than a plastic nib.
 * Don't press down so hard on the tablet
-* Use [Surface protection](../../catalog/accessories/surface-protectors/)
+* Use [Surface protection](../../surface-protectors-obsolete.md)
 * When traveling with the tablet, make sure you put it inside something to prevent something from scratching the surface

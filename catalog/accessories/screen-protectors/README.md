@@ -4,20 +4,20 @@
 
 Screen protectors are protective sheets of some material (usually plastic) that cover the glass of your pen display and prevent certain kinds of damage.
 
-If you are looking for protection for other kinds of devices go here: [Surface protection](../)
+If you are looking for protection for other kinds of devices go here: [Surface protection](../../../surface-protectors-obsolete.md)
 
 ## **Laminated does NOT mean "screen protector"**
 
 This is a persistent point of confusion. People sometimes think a screen with "lamination" means there is a screen protector. Or vice-versa.
 
-**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [Lamination](../../../../guides/pen-displays/lamination.md).
+**Lamination** in the context of drawing tablets means that the glass is bonded to the display panel with some optically-clear adhesive. It has NOTHING TO DO with something sitting on top of the glass. More here: [Lamination](../../../guides/pen-displays/lamination.md).
 
 ## Characteristics
 
 * **Transparency** - Screen protectors must, of course, be transparent. Make sure you verify any protector you buy is intended for use with a tablet with a screen.
 * **Anti-glare** - Screen protectors usually offer some amount of ant-glare treatment. Screen protectors vary in how much of this treatment they have. And some deliberately offer low or no AG treatment at all.
-  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md).
-* **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [Parallax](../../../../guides/pen-displays/parallax.md).
+  * A side affect of anti-glare treatment is: AG sparkle. Some people are very sensitive to the amount of sparkle. So factor that into your choice. More here: [Anti-glare sparkle](../../../guides/pen-displays/ag-sparkle.md).
+* **Parallax** - Parallax increases when the distance increases from the tip of the pen from the display panel. In practice these protectors are incredibly thin and the actual parallax increase is very very small and I've never heard anyone complain about the small bit of additional parallax they add. See: [Parallax](../../../guides/pen-displays/parallax.md).
 
 ## Pre-installed screen protectors
 
@@ -30,7 +30,7 @@ You'll often see these pre-installed protectors listen in table specs like this:
 
 Here's an example for the Huion Kamvas 13 (GS1333).
 
-<figure><img src="../../../../.gitbook/assets/image-000300.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000300.png" alt="" width="375"><figcaption></figcaption></figure>
 
 However, be aware that sometimes the screen protector is not listed even if the tablet has one. In this case you'll need to contact support or other users of the tablet.
 

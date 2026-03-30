@@ -87,7 +87,7 @@ There are quite a few. See this list: [Subreddits for drawing tablets](resources
 
 #### FAQ: Can I replace the surface of my pen tablet?
 
-See: [Surface protection](catalog/accessories/surface-protectors/)
+See: [Surface protection](surface-protectors-obsolete.md)
 
 #### FAQ: What should I do if I spilled water on my tablet or pen?
 

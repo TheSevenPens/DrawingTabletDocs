@@ -8,7 +8,7 @@ All drawing tablets have a slight texture on their surface. The amount of textur
 
 Pen tablets - the tablets without a screen - have various amounts of texture on the surface based.
 
-Some tablets like the Wacom Intuos Pro (PTH-860, PTH-660, PTH-860) are known to have a lot of texture compared to older Wacom professional pen tablet models.&#x20;
+Some tablets like the Wacom Intuos Pro (PTH-860, PTH-660, PTH-860) are known to have a lot of texture compared to older Wacom professional pen tablet models.
 
 The consequences to a lot of texture is that it can wear down your nibs fast - especially if you are making lots of strokes over and over.
 
@@ -50,18 +50,6 @@ No drawing tablet by default has a texture that comes close to the feeling of pa
 
 There are some options that can increase the texture. In SOME cases they may give you something close to that feeling of drawing on paper.
 
-You can buy **protective sheets** that you can stick on top of the surface of you drawing tablet which will provide the texture. More here: [Surface protection](../catalog/accessories/surface-protectors/).
+You can buy **protective sheets** that you can stick on top of the surface of you drawing tablet which will provide the texture. More here: [Surface protection](../surface-protectors-obsolete.md).
 
-Also you can use **felt nibs** - if they are available for your pen.  These felt nibs also can provide some extra texture.
-
-
-
-
-
-
-
-
-
-
-
-&#x20;
+Also you can use **felt nibs** - if they are available for your pen. These felt nibs also can provide some extra texture.
