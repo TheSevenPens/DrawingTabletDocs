@@ -62,7 +62,7 @@ There are two kinds of built-in glass texture of iPads: **Smooth glass** and **N
 * **Smooth glass** - Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery". Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
 * **Nano texture** - Starting in 2024, some Apple iPad models can be ordered with a "Nano texture". I don't have any direct experience with this texture.
 
-You can also change the texture with protective sheets for iPads there are some options here: [Surface protection](../../../surface-protectors-obsolete.md). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
+You can also change the texture with protective sheets for iPads there are some options here: [Surface protection](../../../misc/surface-protectors-obsolete.md). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
 
 ## Diagonal wobble
 

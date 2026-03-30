@@ -50,6 +50,6 @@ No drawing tablet by default has a texture that comes close to the feeling of pa
 
 There are some options that can increase the texture. In SOME cases they may give you something close to that feeling of drawing on paper.
 
-You can buy **protective sheets** that you can stick on top of the surface of you drawing tablet which will provide the texture. More here: [Surface protection](../surface-protectors-obsolete.md).
+You can buy **protective sheets** that you can stick on top of the surface of you drawing tablet which will provide the texture. More here: [Surface protection](../misc/surface-protectors-obsolete.md).
 
 Also you can use **felt nibs** - if they are available for your pen. These felt nibs also can provide some extra texture.

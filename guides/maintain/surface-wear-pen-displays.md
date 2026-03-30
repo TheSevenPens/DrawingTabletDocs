@@ -57,7 +57,7 @@ If you were transporting your pen display you should make sure that the glass is
 
 Screen protectors on top of the tablet glass naturally protect the glass from damage. One benefit of is that if they do get damaged you can generally replace them.
 
-More: [Screen protectors](../../catalog/accessories/screen-protectors/)
+More: [Screen protectors](../../catalog/accessories/surface-protectors/screen-protectors/)
 
 ## Glass damage is permanent
 

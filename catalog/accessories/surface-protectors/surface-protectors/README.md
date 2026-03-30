@@ -4,7 +4,7 @@
 
 Pen tablets (screenless tablets) have a plastic surface and depending on how you use them are subject to some amount of wear.
 
-If you are looking for protection for other kinds of devices go here: [Surface protection](../../../surface-protectors-obsolete.md)
+If you are looking for protection for a pen display (screen): [Screen protectors](../screen-protectors/)
 
 ## Surface protectors do not interfere with the pen
 
