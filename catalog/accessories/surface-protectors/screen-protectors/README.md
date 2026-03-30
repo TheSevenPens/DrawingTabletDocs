@@ -56,10 +56,24 @@ If your tablet manufacturer does not make a screen protector, then you do have 3
 
 This list comes from ones I have tested to some degree (Photodon) and those suggested by users on reddit posts. I don't use any of these screen protectors personally. So, please research thoroughly before you buy.
 
-* **Photodon** - sells pre-cut and custom-sized protectors at different anti-glare strengths. I did some limited testing with a Photodon sample pack a few years ago. More here: [Photodon screen protectors](photodon-screen-protectors.md)
-* **ViaScreens** - [**https://viascreens.com/**](https://viascreens.com/)
+* **Photodon** - [Photodon screen protectors](photodon-screen-protectors.md)&#x20;
+* **ViaScreens** - [https://viascreens.com/](https://viascreens.com/)
 * **atFoliX**
 * **HealingShield** - Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19
+
+## Custom sizes and film material for 3rd-party protectors
+
+These third-party manufacturers offer pre-cut sizes. But may also offer custom sizes for your tablet and even choices for the film. Photodon is a good example of such a manufacturer. See: [Custom screen protectors](../../custom-screen-protectors.md)
+
+## Applying a screen protector
+
+This can be challenging task. Lots of people (including myself) are not capable of doing this correctly. We ALWAYS end up with air bubbles.
+
+Either get help from a friend or family who is good at doing this.
+
+Or - Seek some professional help. Stores where the are used to putting protective films onto phone or ipads may have staff that are really good at this.&#x20;
+
+
 
 ## Should you get a screen protector for your tablet?
 

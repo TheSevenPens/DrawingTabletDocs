@@ -377,6 +377,7 @@
       * [Paperlike for iPads](catalog/accessories/surface-protectors/screen-protectors/paperlike-for-ipads.md "Paperlike")
       * [Screen protectors for iPads](catalog/accessories/surface-protectors/screen-protectors/screen-protectors-for-ipads.md "For iPads")
       * [Photodon screen protectors](catalog/accessories/surface-protectors/screen-protectors/photodon-screen-protectors.md "Photodon")
+    * [Custom screen protectors](catalog/accessories/custom-screen-protectors.md)
     * [Monitor arms](catalog/accessories/arms/README.md)
       * [Ergotron monitor arms](catalog/accessories/arms/ergotron-monitor-arms.md "Ergotron")
     * [Stands](catalog/accessories/stands/README.md)
