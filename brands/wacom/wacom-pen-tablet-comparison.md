@@ -10,7 +10,7 @@ Wacom has several separate lines of pen tablets. This document will help you und
 * **Intuos Pro 2017** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro-2017)
 * **Intuos Pro** **2025** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here are THE BEST PEN TABLETS EVER MADE.
 
