@@ -3,7 +3,9 @@
 ## Overview
 
 * For a more general introduction to lag, see [Lag](./).
-* If you you are "painting", there is a separate kind of lag called [Brush lag](lag.md). &#x20;
+* If you you are "painting", there is a separate kind of lag called [Brush lag](lag.md).
+
+<div align="left"><figure><img src="../../.gitbook/assets/image-000512.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## EMR pointer lag Apple iPad pointer lag
 
@@ -18,11 +20,10 @@ With the Apple Pencil the iPad has lag but the overall perceivable lag is very l
 
 YES - in theory and to some degree. But it is not a trivial thing to do.
 
-Pointer lag comes from two sources: The tablet **firmware** and the tablet **driver**&#x20;
+Pointer lag comes from two sources: The tablet **firmware** and the tablet **driver**
 
-* It's possible to get rid of the lag caused by the driver by using a third party driver - for example OpenTabletDriver.&#x20;
+* It's possible to get rid of the lag caused by the driver by using a third party driver - for example OpenTabletDriver.
 * I've tried this with both an Intuos Pro and a Cintiq Pro. My results here
   * **Intuos Pro** - Noticeable reduction in lag (at the cost of a little more imprecision in the tracking of the pen)
   * **Cintiq Pro** - slight reduction in lag. But mostly stays exactly the same. From that I think the Cintiq Pro lag is primarily caused by the tablet firmware - probably to deal with the electromagnetic noise caused by the embedded display panel.
-* The pointer lag in the firmware cannot be removed because essentially it is impossible for a user to modify the tablet firmware.&#x20;
-
+* The pointer lag in the firmware cannot be removed because essentially it is impossible for a user to modify the tablet firmware.
