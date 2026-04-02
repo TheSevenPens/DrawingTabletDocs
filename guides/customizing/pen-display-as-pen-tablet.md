@@ -43,4 +43,4 @@ Here's what you might notice
 * If you use a pen display even if the screen is off, you might feel like to lags a bit more than a typical pen display.
 * However the lag sensation may also be reduced because you have no direct way of comparing the pointer position to the pen's location.
 
-More here: [Lag](../../core/lag/)
+More here: [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)

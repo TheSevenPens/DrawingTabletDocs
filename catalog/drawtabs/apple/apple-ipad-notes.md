@@ -118,7 +118,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 
 * iPads have very low pointer lag.
 * Some apps like Procreate seem very heavily optimized and (apparently) use special techniques to produce **extremely** low pointer lag.
-* More here: [Lag](../../../core/lag/)
+* More here: [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
 
 ## Anti-glare sparkle
 

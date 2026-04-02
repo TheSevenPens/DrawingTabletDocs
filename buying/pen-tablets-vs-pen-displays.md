@@ -98,7 +98,7 @@ Pen tablets work with a single USB cable (and some are wireless). Pen displays a
 
 All tablets have some pointer lag. In my observation, pen tablets have less lag than pen displays.
 
-On top of that, even if both had the same lag, you would notice it more on a pen display — because you can see the pen tip and the cursor on the same screen, right next to each other, which makes the lag more apparent. More here: [Lag](../core/lag/)
+On top of that, even if both had the same lag, you would notice it more on a pen display — because you can see the pen tip and the cursor on the same screen, right next to each other, which makes the lag more apparent. More here: [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
 
 ## Wireless connectivity
 

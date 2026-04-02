@@ -8,7 +8,7 @@ Try out the tester: [https://thesevenpens.github.io/WebTabletTesterBasic/](https
 
 Just open the tester and start drawing in the blue area
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Safety and privacy
 
