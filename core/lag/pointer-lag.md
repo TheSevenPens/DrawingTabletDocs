@@ -2,124 +2,107 @@
 
 ## Overview
 
-* For a more general introduction to lag, see [Lag](./).
-* If you are "painting", there is a separate kind of lag called [Brush lag](lag.md).
+* For a general introduction to lag, see [Lag](./).
+* For lag specifically related to stroke rendering, see [Brush lag](lag.md).
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000512.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-## What is it
+## What is it?
 
-The position your computer's operating system thinks the pen is at always lags slightly behind where the pen actually is. The difference in these two positions is called **pointer lag**.
+**Pointer lag** is the delay between the physical position of the pen and the position reported by the operating system. It manifests as the cursor trailing behind the physical pen tip.
 
 ## How to demonstrate it
 
-It's most easily seen by opening your computer desktop and just moving the pen around. You'll see the pointer lag behind your pen slightly.&#x20;
+Pointer lag is most apparent when moving the pen across the desktop. The faster the pen moves, the greater the trailing distance (lag) becomes.
 
-The faster you move the pen, the more lag you will see.
+## Affected devices
 
-## Which drawing tablets are affected
+All drawing tablets exhibit pointer lag to some degree; it is an inherent property of digital input systems.
 
-Pointer lag is inherent; all drawing tablets are affected.
+* **Pen tablets (screenless):** Generally have lower latency. Lag is also less noticeable because there is no direct visual comparison between the pen tip and the cursor.
+* **Pen displays:** Often have slightly higher latency. The lag is highly visible because the cursor and pen tip are on the same plane.
+* **Standalone tablets:** Mobile devices (e.g., iPad, Samsung Galaxy Tab) often exhibit lower pointer lag than desktop pen displays due to highly integrated hardware and software stacks.
 
-* Pen tablets (screenless) have a little less. Also, it's harder to notice since your eyes can't directly compare the pointer position to the pen position.
-* Pen displays (screen) have a little more. And of course, your eyes see the lag directly.
-* Standalone - it varies how much lag is visible in standalone tablets depending on the device type. I have noticed that mobile devices (iPad, Samsung Tab S, etc.) have a little less pointer lag than pen displays. It's also just harder to notice because these mobile devices are not very large compared to pen displays.
+## "Zero Lag" claims
 
-## "Somebody told me X tablet has zero lag"
+Claims of "zero lag" are technically incorrect.
 
-This is imprecise communication.
+* **All tablets have pointer lag.**
+* **All pen displays show visible lag during fast movement.**
 
-* ALL tablets have pointer lag.&#x20;
-* ALL PEN DISPLAYS easily show the lag.
+Reviews claiming "no lag" often demonstrate slow movements where the lag is minimal. During faster strokes, the gap between the pen and the cursor remains visible on all current commercial hardware.
 
-Watch any video review where "no lag" is stated and you will almost always see the lag. Remember that a slowly moving pen shows very very little lag. You have to look for faster strokes.
+## OS vs. Application lag
 
-If you watch my videos on YouTube, you will see the lag all the time on pen displays.
+Applications receive pen data from the operating system. Consequently, an application cannot have less pointer lag than the OS itself. If lag is visible on the desktop, it will persist in every application.
 
-There is no "magic" pen display that you can buy that has zero lag.
+## Variance between models
 
-## **OS vs App**
+* **Pen tablets (screenless):** Variance is minimal. While some models may feel slightly more "floaty" than others, the difference is rarely significant to the user.
+* **Pen displays:** Variance is more pronounced. Generally, smaller pen displays tend to have less perceived lag than larger models.
 
-If your OS thinks the pen is at a certain position, that's the position that will be reported to all applications.
+## Technical contributors
 
-So pointer lag shows up in all applications. And applications, in this sense, cannot have less pointer lag than what the operating system has (as shown on the desktop).&#x20;
+Pointer lag is determined by three primary factors:
 
-## How much variance is there between tablet models
+* **Position smoothing:** Filtering used to stabilize pen data and reduce jitter.
+* **Latency:** The time required to transmit and process data across the system.
+* **Sampling rates:** How frequently the tablet reports position and how frequently the display refreshes.
 
-* **Pen tablets (screenless)** - There is a little bit of variance. Some tablets have very little lag, some a little more. Most people don't notice. Someone who switches from one pen tablet to another might notice that the pointer feels slightly "floaty," but the difference is rarely a major concern.&#x20;
-* **Pen displays (screen)** - There is more lag in general and it varies a bit more. In my experience, as a pen display gets smaller, the less lag you will generally perceive.
+## Real vs. Perceived lag
 
-## What technically contributes to pointer lag?
+**Real lag** is the physical distance the pointer trails behind the pen, caused by processing latencies and smoothing filters.
 
-There are three fundamental sources to lag and the perception of pointer lag:
+**Perceived lag** is the user's subjective experience of that delay. Lower refresh rates (e.g., 30Hz vs. 60Hz) do not necessarily increase the physical trailing distance, but they make the movement appear choppier, which the brain interprets as increased lag.
 
-* Position smoothing - used to stabilize the reported position of the pen.
-* Latencies - the time it takes to transmit data from one part of the system to another.
-* Rates - how many times a second something happens. There are lots of rates involved in using a drawing tablet.
+## Specific contributors
 
-## Real lag versus perceived lag
-
-**Position smoothing and latencies** contribute to a "real" lag of the pointer. The more position smoothing is done and latency increases, the more distance the pointer will lag behind the pen.  &#x20;
-
-**Rates** - In a technical sense, lower rates don't make the pointer any slower - they don't increase the distance the pointer is following - but most people will find that lower rates will contribute to the "feeling" or "perception" that lag is increasing. You can try this for yourself: with a pen display, set the display's refresh rate to 30Hz and check what the pointer lag looks like. You most likely will be very unhappy with the experience in just a few seconds.&#x20;
-
-## Specific contributors (not a complete list)
-
-* **Position smoothing done in the tablet firmware**. The position smoothing is intended to combat electromagnetic noise.&#x20;
-* **Position smoothing done in the tablet driver**. Some drivers add a little bit of position smoothing.&#x20;
-* **Tablet report rate**. How many times a second the tablet updates the computer with the pen position.
-* **Display refresh rate.** How many times a second the display updates. A 30Hz display will have more perceivable lag than 60Hz. A 120Hz display will have about 10% to 20% less perceivable lag than 60Hz.
+* **Firmware smoothing:** Done on the tablet hardware to combat electromagnetic noise.
+* **Driver smoothing:** Some drivers apply additional filtering for stability.
+* **Report rate:** The frequency at which the tablet sends data to the PC.
+* **Display refresh rate:** A higher refresh rate (e.g., 120Hz) significantly reduces perceived lag compared to standard 60Hz displays.
 
 ## Can pointer lag be reduced?
 
-YES - in theory and to some degree. But it is not a trivial thing to do.
+Reduction is possible but limited by hardware constraints.
 
-### Display refresh rate
+### Display settings
+* **Increase refresh rate:** If your display supports higher refresh rates (e.g., 144Hz), enabling it will reduce perceived lag.
 
-* Try a higher refresh rate in your display. It might feel like there is less lag.
-
-### Tablet hardware options
-
-* You cannot change the behavior of the tablet hardware you already have. There is no "special firmware hack" for this.
-* You could buy a different tablet.
-  * Wacom Intuos Pro tablets do not do any position smoothing.
-  * Non-Wacom brands have a little bit. In most cases the average person would never be able to detect the difference.
+### Hardware choices
+* **Wacom Intuos Pro:** These tablets do not apply firmware-level smoothing, resulting in very low latency.
+* **Non-Wacom brands:** Often apply a small amount of smoothing. While technically higher, it is often imperceptible to most users.
 
 ### Driver options
+* **OpenTabletDriver:** This third-party driver allows users to disable most software-level smoothing.
+  * **Intuos Pro:** Shows a noticeable reduction in lag, though tracking may become noisier.
+  * **Cintiq Pro:** Shows minimal improvement, as the lag is primarily baked into the hardware firmware to compensate for display-induced noise.
 
-* Eliminate pointer smoothing in the driver. Your tablet driver may be doing some smoothing. As an alternative, you can use OpenTabletDriver.
-* I've tried this with both an Intuos Pro and a Cintiq Pro. My results:
-  * **Intuos Pro** - Noticeable reduction in lag (at the cost of a little more imprecision in the tracking of the pen).
-  * **Cintiq Pro** - Slight reduction in lag, but mostly stays exactly the same. From that, I think the Cintiq Pro lag is primarily caused by the tablet firmware - probably to deal with the electromagnetic noise caused by the embedded display panel.
-* The pointer lag in the firmware cannot be removed because essentially it is impossible for a user to modify the tablet firmware.
+### Application settings
+* **No.** Applications cannot reduce pointer lag, as they are dependent on the data provided by the OS.
 
-### Application options
+## Measuring lag
 
-* No. Applications cannot remove or reduce pointer lag at all.&#x20;
+Lag is not a single constant; it is a function of speed.
 
-## Is there a specific way to measure lag?
+* **At rest:** Zero lag.
+* **Slow movement:** Minimal lag.
+* **Fast movement:** Maximum lag.
 
-No.&#x20;
+Because of this, lag is best represented as a **lag curve** rather than a single number.
 
-We know the physical separation of pointer and pen depends on how fast the pen is moving. This means lag theoretically is a function of speed.&#x20;
+## Research and future measurement
 
-* Zero speed -> zero lag
-* Slow speed -> a little bit of lag
-* Fast speed -> a lot of lag
+I am currently researching methods to objectively measure pointer lag and establish "lag curves" for various pen displays. This work began in early 2026.
 
-Thus, there's no single number that can represent lag. Instead, lag is likely more like a "lag curve" that shows how lag increases as speed increases.
+## EMR vs. Apple Pencil (iPad)
 
-## Lag measurement futures
+The Apple Pencil on iPad typically exhibits lower perceived lag than desktop EMR tablets. This is likely due to:
 
-I am working on a way of measuring pointer lag for pen displays so that I can establish at least a technical basis for determining a "lag curve". I started researching this in early 2026.
+* **Vertical integration:** Apple optimizes the entire stack (hardware, firmware, OS).
+* **Sensor proximity:** The Apple Pencil's active components are closer to the tip than in most EMR pens, potentially requiring less aggressive smoothing.
+* **Reduced parallax:** A thinner stack between the digitizer and the display panel reduces visual interference.
+* **Prediction algorithms:** iPads use predictive tracking to "guess" where the pen will be, reducing the visual gap at the cost of slight inaccuracy during sudden direction changes.
 
-## Drawing tablet (EMR) pointer lag vs. Apple iPad pointer lag
-
-With the Apple Pencil, the iPad has lag, but the overall perceivable lag is very low compared to an EMR drawing tablet. I **suspect** the lower lag is due to some of these factors:
-
-* Very tight and optimized integration between the pen subsystem and the operating system. It makes sense Apple can do this because they own the entire tech stack.
-* In a normal drawing tablet, the EMR pens have a coil that is detected by the tablet. This coil is deeper inside the pen, while the equivalent Apple Pencil component is closer to the tip of the pen and thus the tablet surface. This smaller distance should result in less electromagnetic interference. In turn, this should require less position smoothing to remove the interference, which then shows up as reduced lag.
-* Relating to the previous point about distance: just based on the visual parallax, it seems like there is less physical distance between the tip of the Apple Pencil and the display panel compared to other EMR-based pen displays I have used. So, again, this should reduce the amount of electromagnetic interference and thus require less smoothing and result in less lag.
-* From some things I've read, iPads do some position prediction with the Apple Pencil, resulting in a reduction in lag at the cost of reduced accuracy with abrupt changes in direction. I've even seen one video showing that iPads also can predict contact with the surface of the iPad so that they can start drawing just a moment before physical contact is made.
 
 
