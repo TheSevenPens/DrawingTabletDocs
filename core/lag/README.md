@@ -4,7 +4,7 @@
 
 Unlike a pen and paper system, where there is essentially an instantaneous feeling to drawing, a drawing tablet being a digital system where many components are processing and communicating data is always subject to some form of lag.
 
-In the context of drawing tablets, I use the word log to describe how things are "following" the physical pen.
+In the context of drawing tablets, I use the word lag to describe how things are "following" the physical pen.
 
 There are two kinds of lag:
 
