@@ -16,11 +16,19 @@ I want to be candid with you. If this problem isn't due to some simple cabling p
 
 Here are several examples of how the driver indicates the tablet is not connected.
 
-| Brand  | Driver message                                                              |
-| ------ | --------------------------------------------------------------------------- |
-| Huion  | <img src="../.gitbook/assets/image-000234.png" alt="" data-size="original"> |
-| XP-Pen | <img src="../.gitbook/assets/image-000233.png" alt="" data-size="original"> |
-| Wacom  | <img src="../.gitbook/assets/image-000294.png" alt="" data-size="original"> |
+{% tabs %}
+{% tab title="Huion" %}
+<figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Wacom center" %}
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="XP-Pen" %}
+<figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## Driver versus operating system
 
@@ -28,13 +36,15 @@ What makes this issue confusing is that sometimes your computer's operating syst
 
 ## What is not being detected
 
-Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen.
+**The digitizer**
 
-When a driver is saying your tablet is not connected, it is talking about this digitizer.
-
-The digitizer is the primary component of a pen tablet (screenless tablet) though some pen tablets have other components. You may for example see your tablet detected as a keyboard because it has some keyboard like buttons.
+Your tablet is a plastic shell that contains at least one component - the tablet digitizer. This digitizer is the fundamental component of a tablet that deals with the pen. When a driver is saying your tablet is not connected, it is talking about this digitizer.
 
 For a pen display (screen tablet) there is of course another component - the screen. Your computer detects the screen completely separately from the tablet digitizer. This explains why the display part still works.
+
+**Ignore messages about keyboards**
+
+The digitizer is the primary component of a pen tablet (screenless tablet) though some pen tablets have other components. You may for example see your tablet detected as a keyboard because it has some keyboard like buttons.
 
 ## NO SIGNAL for pen displays
 
@@ -116,11 +126,6 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 * Huion Kamvas 22 Plus modification - [https://www.reddit.com/r/huion/comments/1hl1ozv/diy\_huion\_kamvas\_22\_plus\_fix\_for\_device/](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/)
 
-## Other threads
-
-* 2025-01-13 - [https://www.reddit.com/r/huion/comments/1i0g95y/this\_might\_also\_help\_u\_with\_device\_disconnected/](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/)
-*
-
 ## Still not solved?
 
 If none of these suggestions are helping, then contact support: [Contacting support](../basics/support.md).
@@ -135,3 +140,8 @@ In the meanwhile, you may be able to use alternative drivers on Windows:
 * When you plug in the tablet or unplug the tablet, check if the computer makes a "beep". This at least indicates that the computer is aware that there is some device there.
 * Sometimes this problem is sporadic. I've had it personally occur with a tablet and after about 30 minutes of restarts, things just started working again.
 * Some vendors like Huion recommend disabling antivirus when reinstalling the drivers. I do not recommend this, but some people say it has helped.
+
+## Other threads
+
+* 2025-01-13 - [https://www.reddit.com/r/huion/comments/1i0g95y/this\_might\_also\_help\_u\_with\_device\_disconnected/](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/)
+*
