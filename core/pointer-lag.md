@@ -28,16 +28,16 @@ Claims of "zero lag" are incorrect.
 * **All tablets have pointer lag.**
 * **All pen displays show visible lag during fast movement.**
 
-Review videas claiming "no lag" often demonstrate slow movements where the lag is hard to see. During faster strokes, the gap between the pen and the cursor is visisble.
+Review videas claiming "no lag" often demonstrate slow movements where the lag is hard to see. During faster strokes, the gap between the pen and the cursor is visible.
 
 ## OS vs. Application lag
 
-Applications receive pen data from the operating system. Thus, an application cannot have less pointer lag than the OS itself. If lag is visible on the desktop, it will persist in every application.
+Applications receive pen data from the operating system. Thus, an application cannot have sense the pen position faster than the OS itself. If lag is visible on the desktop, it will persist in every application.  Though some applications have techniques to mask the lag (position prediction).&#x20;
 
 ## Variance between models
 
 * **Pen tablets (screenless):** Variance is minimal. While some models may feel slightly more "floaty" than others, the difference is rarely significant to the user.
-* **Pen displays:** Variance is more obvious between tablet models. Generally, smaller pen displays tend to have less perceived lag than larger models.
+* **Pen displays:** Variance is more obvious between pen display models. Generally, smaller pen displays tend to have less perceived lag than larger models. There is no pen display that has "no lag"
 
 ## Technical contributors
 
@@ -45,8 +45,8 @@ Three kinds of things that cause pointer lag
 
 * **Position smoothing:** Position stabilization - usually to reduce jitter.
 * **Latency:** The time required to transmit and process data between components.
-* **Sampling rates:** How frequently the an action takes place in the system. In the content of drawing tablets, the two most common rates we discuss areL
-  * tablet report rate - how octen often the tablet reports the pen position
+* **Sampling rates:** How frequently the action takes place in the system. In the context of drawing tablets, the two most common rates we discuss are:
+  * tablet report rate - how often often the tablet reports the pen position
   * display refresh rate.
 
 ## Specific contributors
@@ -64,16 +64,21 @@ Three kinds of things that cause pointer lag
 
 ## Reducing pointer lag
 
-Reduction is possible but limited by hardware constraints. You an NEVER achieve zero lag. But you might be able to change enough that the experience feels subjectively better for you.
+Reduction is possible but limited by hardware constraints. You can NEVER achieve zero lag. But you might be able to change enough that the experience feels subjectively better for you.
 
 ### Display settings
 
 * **Increase refresh rate:** If your display supports higher refresh rates (e.g., 144Hz), enabling it will reduce perceived lag.
 
-### Hardware choices
+### Hardware smoothing in tablets
 
-* **Wacom Intuos Pro:** These tablets do not apply firmware-level smoothing, resulting in very low latency.&#x20;
-* **Non-Wacom brands:** Often apply a small amount of smoothing. While technically higher, it is often imperceptible to most users. Though I experienced tablet users will be able to notice.
+Based on extensive original research by tablet expert Kuuube, here is what we know. You can see Kuuube's testing results here in [his tablet buying guide geared toward osu players](https://docs.google.com/spreadsheets/d/1DYVfiSpQqdpa4sWWYUALPmliOIuGyKog7B7LJJdmlhE/edit?gid=2077726645#gid=2077726645).
+
+* **Wacom**
+  * **Wacom Intuos Pro:** These tablets do not apply firmware-level smoothing, resulting in very low latency.&#x20;
+  * **One by Wacom (CTL-472, and CTL-672)**&#x64;o NOT perform firmware-level smoothing.
+  * Wacom Intuos (CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) does not perform firmware-level smoothing while pressing down with the pen. But does perform that smoothing while the pen is hovering. This will not impact someone who is just drawing, but serious osu players may notice that this transition affects their gameplay negatively.&#x20;
+* **Non-Wacom brands:** Based on the tablets that Kuuube has tested, non-Wacom tablets tend to have hardware-level smoothing. For normal artists, this will likely be imperceptible to most users. Though experienced tablet users or serious osu players will be able to notice.
 
 ### Driver options
 
@@ -88,13 +93,11 @@ Reduction is possible but limited by hardware constraints. You an NEVER achieve 
 
 ## Measuring lag
 
-Lag is not a single constant; it is a function of speed.
+The lag (visual separation that you see) is not constant -  it is a function of speed. The faster the pen moves the further behind the pointer follows the pen.
 
 * **At rest:** Zero lag.
-* **Slow movement:** Minimal lag.
-* **Fast movement:** Maximum lag.
-
-Because of this, lag is best represented as a **lag curve** rather than a single number.
+* **Slow movement:** Low lag.
+* **Fast movement:** High lag.
 
 ## Research and future measurement
 
