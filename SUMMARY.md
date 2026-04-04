@@ -444,7 +444,7 @@
       * [Apple iPad versus Samsung Galaxy Tab S](catalog/drawtabs/apple/apple-ipad-vs-samsung-tab-s.md "iPad vs Samsung Galaxy Tab S")
     * [Artisul](catalog/drawtabs/artisul.md)
     * [ASUS](catalog/drawtabs/asus/README.md)
-      * [ASUS Pro Art Pen Display](catalog/drawtabs/asus/asus-pro-art-pen-display.md "Pro Art Pen Display")
+      * [ASUS ProArt Pen Display (PA169CDV) notes](catalog/drawtabs/asus/asus-pro-art-pen-display.md "PA169CDV notes")
     * [Dell](catalog/drawtabs/dell/README.md)
       * [Dell Canvas 27](catalog/drawtabs/dell/dell-canvas-27.md "Canvas 27")
     * [Gaomon](catalog/drawtabs/gaomon/README.md)
