@@ -597,6 +597,8 @@
     * [Xencelabs pens](catalog/pens/xencelabs-pens/README.md "Xencelabs")
       * [Xencelabs V1 pens notes](catalog/pens/xencelabs-pens/xencelabs-v1-pens-notes.md "V1 pens")
       * [Xencelabs V2 pens notes](catalog/pens/xencelabs-pens/xencelabs-v2-pens-notes.md "V2 pens")
+    * [ASUS](catalog/pens/asus/README.md)
+      * [ASUS ProArt Pen (MPA01) notes](catalog/pens/asus/aus-mpa01-notes.md)
   * [Catalog: Computers](catalog/computers/README.md "Computers")
     * [Minisforum](catalog/computers/minisforum/README.md)
       * [Minisforum UM870 slim notes](catalog/computers/minisforum/minisforum-um870-slim-notes.md "UM870 slim")

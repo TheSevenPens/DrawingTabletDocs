@@ -43,6 +43,7 @@
 ## Pen input
 
 * Included pen: ProArt Pen (model MPA01).
+  * See: [ASUS ProArt Pen (MPA01) notes](../../pens/asus/aus-mpa01-notes.md)
 * pen tech: EMR (UD EMR)
 
 ## Non-pen inputs
