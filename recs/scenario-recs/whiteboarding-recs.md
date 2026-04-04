@@ -23,7 +23,7 @@ Also: [Whiteboarding with drawing tablets](../../basics/scenarios/whiteboarding.
 You don't need a fancy tablet for white boarding
 
 * For pen tablets (screenless tablets) - Any medium size beginner pen tablet will work. See: See: [Beginner pen tablets](beginner-recs/beginner-pen-tablets.md)
-* For pen displays (screen tablets) - [Beginner pen displays](beginner-recs/beginner-pen-displays.md)
+* For pen displays (screen tablets) - [Beginner pen displays](beginner-recs/beginner-pen-display-recs.md)
 
 ## Pen tablet vs Pen display
 
