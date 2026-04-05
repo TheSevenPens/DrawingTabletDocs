@@ -1,22 +1,30 @@
-# Beginner pen tablets
+# Beginner pen tablet recommendations
 
-## The top pick:  One by Wacom M CTL-672
+## General notes
+
+* **Size**. You may see both small and medium sizes listed here. For the vast majority of people I recommend a MEDIUM size.
+* **Enable Force proportions** - Most likely it will feel weird to draw with your pen tablet unless you enable force proportions: See: [Matching aspect ratios with Force Proportions](../../../guides/customizing/force-proportions.md)
+
+## One by Wacom M CTL-x72 series
+
+Two tablets in this family:
+
+* One by Wacom Small (CTL-472)
+* One by Wacom Medium (CTL-472)
 
 If I had to pick one pen tablet for a beginner, I would recommend the **One by Wacom CTL-672**. Cost is reasonable, it's reliable, and has a good drawing experience.  [One by Wacom (CTL-x72) notes](../../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)&#x20;
 
-It's only real limitations:
+Limitations:
 
+* The port on the tablet is micro-USB - not USB-C. The tablet comes with the correct cable but you should be aware of this in case you ever need to replace the cable.
 * It does not have tilt support.&#x20;
-* The port is micro-USB - not USB-C.
 * It does not support wireless&#x20;
 
-You could also consider the smaller One by Wacom S (CTL-472) - however this is a smaller tablet, and I normally don't recommend smaller tablets.
-
-## The challenge with Wacom CTL-x72 series
+**The challenge with Wacom CTL-x72 series**
 
 Wacom has discontinued this CTL-672 and CT-472. It's getting hard to find. Though occasionally you can find it on eBay. Eventually Wacom will drop support for this tablet in its drivers. You can continue using older drivers though.
 
-## Good options from XP-Pen
+## XP-Pen Deco series
 
 These tablets are very good for beginner tablets. Cost is good and I like that the X3 Elite pen they come with has a reasonably low IAF (a little higher than the Huion tablets mentioned in this list) and decent max pressure and their pressure response is very consistent across units.&#x20;
 
@@ -25,9 +33,14 @@ These tablets are very good for beginner tablets. Cost is good and I like that t
 * XP-Pen Deco L (IT1060)&#x20;
 * XP-Pen Deco LW (IT1060B) - [XP-Pen Deco LW (IT1060B) notes](../../../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-it1060b-notes.md)
 
-## Good options from Huion: Huion Frego (L610)
+Note: there are other "Deco" tablets from XP-Pen. In this section, I am talking exactly about the four models listed above.
 
-Huion Inspiroy Frego M (L610) - [Huion Inspiroy Frego M (L610) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-l610-notes.md)&#x20;
+## Huion Inspiroy Frego (Lx10) series
+
+Try models in this family:
+
+* Huion Inspiroy Frego S (L310)&#x20;
+* Huion Inspiroy Frego M (L610) - [Huion Inspiroy Frego M (L610) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-l610-notes.md)&#x20;
 
 Limitations
 
@@ -35,10 +48,12 @@ Limitations
 * Some people have reported air bubbles appearing under the tablet surface
 * PW550 pen is generally better than the older PW517 pen
 
-## Decent options from Huion: Inspiroy 2 M & L&#x20;
+## Huion Inspiroy 2 series &#x20;
+
+Two models in this family
 
 * Huion Inspiroy 2 M (H951P) &#x20;
-* Huion Inspiroy 2 L (H1061P) &#x20;
+* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-h1061p-notes.md)
 
 Limitations
 
@@ -49,7 +64,7 @@ Comments
 
 * The included PW110 pen has exactly the same behavior as the older PW517 pen
 
-## Good options (but challenged) from Wacom: Wacom Intuos CTL-x100 series
+## Wacom Intuos CTL-x100 series
 
 Limitations
 
@@ -62,12 +77,14 @@ There are four models: [Wacom Intuos (CTL-x100) notes](../../../catalog/drawtabs
 * Intuos Medium CTL-6100&#x20;
 * Intuos Medium BT CTL-6100WL&#x20;
 
-The challenge
+Challenges
 
 * These tablets sere released in 2018 – we expect wacom driver support to stop in 2028. So this has a similar challenge for support lifetime as the CTL-x72 series.
 * Price - these are very expensive for what they are. Even though they are consumer tablets, they really have a "professional-level price:
 
-## Avoid: Wacom One 2023 pen tablets CTC-x100WL series
+## Tablets to avoid&#x20;
+
+### Wacom One 2023 pen tablets CTC-x100WL series
 
 I do **NOT** recommend these tablets. See: [Wacom One 2023 pen tablets (CTC-x110WL) notes](../../../catalog/drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md)
 
@@ -75,10 +92,9 @@ I do **NOT** recommend these tablets. See: [Wacom One 2023 pen tablets (CTC-x110
 * CP-923 pen – high IAF, low pressure&#x20;
 * And they are expensive 149.95 (Medium size)&#x20;
 
-## Avoid: XL-Pen Deco 01 V2 & Deco 01 V3
+### Avoid: XL-Pen Deco 01 V2 & Deco 01 V3
 
 I am so UNIMPRESSED with these tablets. Not happy with the line quality and especially not happy with the pen which has a very high IAF.
 
 * XP-Pen Deco 01 V2&#x20;
 * XP-Pen Deco 01 V3&#x20;
-
