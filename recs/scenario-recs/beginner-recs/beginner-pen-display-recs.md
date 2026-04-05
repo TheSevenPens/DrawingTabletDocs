@@ -1,6 +1,6 @@
-# Beginner pen displays
+# Beginner pen displays recommendations
 
-Overview
+## Overview
 
 13" is a good way to get introduced to pen displays. Though I do think ultimately 16" is a better size longer term.
 

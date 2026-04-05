@@ -5,14 +5,14 @@
 * **Size**. You may see both small and medium sizes listed here. For the vast majority of people I recommend a MEDIUM size.
 * **Enable Force proportions** - Most likely it will feel weird to draw with your pen tablet unless you enable force proportions: See: [Matching aspect ratios with Force Proportions](../../../guides/customizing/force-proportions.md)
 
-## One by Wacom M CTL-x72 series
+## One by Wacom CTL-x72 series
 
 Two tablets in this family:
 
-* One by Wacom Small (CTL-472)
-* One by Wacom Medium (CTL-472)
+* One by Wacom S (CTL-472)
+* One by Wacom M (CTL-472)
 
-If I had to pick one pen tablet for a beginner, I would recommend the **One by Wacom CTL-672**. Cost is reasonable, it's reliable, and has a good drawing experience.  [One by Wacom (CTL-x72) notes](../../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)&#x20;
+If I had to pick one pen tablet for a beginner, I would recommend the **One by Wacom M CTL-672**. Cost is reasonable, it's reliable, and has a good drawing experience.  [One by Wacom (CTL-x72) notes](../../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)&#x20;
 
 Limitations:
 
