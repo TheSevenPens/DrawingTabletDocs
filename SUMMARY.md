@@ -678,6 +678,7 @@
   * [Digital pen tech](tech/digital-pen-tech.md)
   * [OLED Longevity](tech/oled-longevity.md)
   * [Implementing pressure curves](tech/pressure-curve-implement.md)
+  * [IPS display tech](tech/ips-display-tech.md)
 * [Misc](misc/README.md)
   * [History of drawing tablets](misc/drawtab-history/README.md)
     * [Preface](misc/drawtab-history/preface.md)
