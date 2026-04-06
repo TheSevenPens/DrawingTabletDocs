@@ -14,7 +14,7 @@ Wacom maintains their own PARTIAL list of pen and tablet compatibility: [**Wacom
 {% tab title="My list" %}
 My list of pen compatibility for Wacom: [SevenPens pen compatibility list](../../../resources/sevenpens-pen-compatibility-list.md)
 
-This is a PARTIAL list but covers common cases and is easy to search through. If you need a quick answer this is a good starting point since it is the easiest to use.
+This list is easiest for searching. You just type in the name or model number of a pen or tablet and it can find what is compatible.
 {% endtab %}
 
 {% tab title="Kuuube's list" %}
