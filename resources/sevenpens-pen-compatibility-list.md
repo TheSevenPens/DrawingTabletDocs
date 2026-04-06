@@ -1,12 +1,11 @@
 # SevenPens pen compatibility list
 
-### My list of pen and tablet compatibility pairs <a href="#my-list-of-pen-and-tablet-compatibility-pairs" id="my-list-of-pen-and-tablet-compatibility-pairs"></a>
-
 [https://thesevenpens.github.io/DrawTabPenCompat/](https://thesevenpens.github.io/DrawTabPenCompat/)
 
 Notes:
 
-* This list is PARTIAL
-* This list excludes some very old Wacom tablets and some rare pens
+* This list is has a lot of entries, but may be missing some pens and tablets&#x20;
 * Always verify compatibility with Wacom support before you purchase any pen.
-* These are based on **Kuuube's pen compatibility mastersheet** and **Wacom's published information**.
+* This list is based on:
+  * Kuuube's pen compatibility mastersheet&#x20;
+  * Wacom's published information
