@@ -14,7 +14,7 @@ Two tablets in this family:
 
 If I had to pick one pen tablet for a beginner, I would recommend the **One by Wacom M CTL-672**. Cost is reasonable, it's reliable, and has a good drawing experience.  [One by Wacom (CTL-x72) notes](../../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)&#x20;
 
-Limitations:
+Notes:
 
 * The port on the tablet is micro-USB - not USB-C. The tablet comes with the correct cable but you should be aware of this in case you ever need to replace the cable.
 * It does not have tilt support.&#x20;
@@ -42,11 +42,14 @@ Try models in this family:
 * Huion Inspiroy Frego S (L310)&#x20;
 * Huion Inspiroy Frego M (L610) - [Huion Inspiroy Frego M (L610) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-l610-notes.md)&#x20;
 
-Limitations
+Notes
+
+* PW550 pen is generally better than the older PW517 pen
+
+Known issues
 
 * Some people do not like the scratchy sound when drawing on the surface
 * Some people have reported air bubbles appearing under the tablet surface
-* PW550 pen is generally better than the older PW517 pen
 
 ## Huion Inspiroy 2 series &#x20;
 
@@ -55,20 +58,11 @@ Two models in this family
 * Huion Inspiroy 2 M (H951P) &#x20;
 * Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-h1061p-notes.md)
 
-Limitations
+Notes
 
-* Some people do not like the scratchy sound when drawing on the surface
-* Some people have reported air bubbles appearing under the tablet surface
+* The included PW110 pen has exactly the same behavior as the older PW517 pen. PW550 pen generally better.&#x20;
 
-Comments
-
-* The included PW110 pen has exactly the same behavior as the older PW517 pen
-
-## Wacom Intuos CTL-x100 series
-
-Limitations
-
-* No tilt
+## Wacom Intuos CTL-x100/CTL-x100WL series
 
 There are four models: [Wacom Intuos (CTL-x100) notes](../../../catalog/drawtabs/wacom/wacom-intuos/wacom-ctlx100-notes.md)
 
@@ -77,7 +71,11 @@ There are four models: [Wacom Intuos (CTL-x100) notes](../../../catalog/drawtabs
 * Intuos Medium CTL-6100&#x20;
 * Intuos Medium BT CTL-6100WL&#x20;
 
-Challenges
+Limitations
+
+* No tilt
+
+Notes
 
 * These tablets sere released in 2018 – we expect wacom driver support to stop in 2028. So this has a similar challenge for support lifetime as the CTL-x72 series.
 * Price - these are very expensive for what they are. Even though they are consumer tablets, they really have a "professional-level price:
@@ -88,13 +86,19 @@ Challenges
 
 I do **NOT** recommend these tablets. See: [Wacom One 2023 pen tablets (CTC-x110WL) notes](../../../catalog/drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md)
 
+Known issue:
+
 * Slightly Pressure banding problems (90% addressed with firmware update)&#x20;
 * CP-923 pen – high IAF, low pressure&#x20;
 * And they are expensive 149.95 (Medium size)&#x20;
 
-### Avoid: XL-Pen Deco 01 V2 & Deco 01 V3
+### Avoid: XP-Pen Deco 01 V2 & Deco 01 V3
 
-I am so UNIMPRESSED with these tablets. Not happy with the line quality and especially not happy with the pen which has a very high IAF.
+Models:
 
 * XP-Pen Deco 01 V2&#x20;
 * XP-Pen Deco 01 V3&#x20;
+
+I am so UNIMPRESSED with these tablets. Not happy with the line quality and especially not happy with the pen P05 which has a very high IAF.
+
+*
