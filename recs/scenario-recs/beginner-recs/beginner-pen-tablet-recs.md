@@ -19,6 +19,7 @@ Notes:
 * The port on the tablet is micro-USB - not USB-C. The tablet comes with the correct cable but you should be aware of this in case you ever need to replace the cable.
 * It does not have tilt support.&#x20;
 * It does not support wireless&#x20;
+* Highly recommended for playing osu.
 
 **The challenge with Wacom CTL-x72 series**
 
@@ -45,6 +46,7 @@ Try models in this family:
 Notes
 
 * PW550 pen is generally better than the older PW517 pen
+* Automatically adjust aspect ratio when working with Android devices
 
 Known issues
 
@@ -61,6 +63,7 @@ Two models in this family
 Notes
 
 * The included PW110 pen has exactly the same behavior as the older PW517 pen. PW550 pen generally better.&#x20;
+* Does NOT support wireless connectivity
 
 ## Wacom Intuos CTL-x100/CTL-x100WL series
 
@@ -77,7 +80,8 @@ Limitations
 
 Notes
 
-* These tablets sere released in 2018 – we expect wacom driver support to stop in 2028. So this has a similar challenge for support lifetime as the CTL-x72 series.
+* The port on the tablet is micro-USB - not USB-C. The tablet comes with the correct cable but you should be aware of this in case you ever need to replace the cable.
+* These tablets sere released in 2018 – we expect Wacom driver support to stop in 2028. So this has a similar challenge for support lifetime as the CTL-x72 series.
 * Price - these are very expensive for what they are. Even though they are consumer tablets, they really have a "professional-level price:
 
 ## Tablets to avoid&#x20;
@@ -101,4 +105,7 @@ Models:
 
 I am so UNIMPRESSED with these tablets. Not happy with the line quality and especially not happy with the pen P05 which has a very high IAF.
 
-*
+Notes
+
+* Both use the same P05 pen
+* XP-Pen Deco 01 V3 is supposed to work well with Android - but I was not able to get it to work with my Android devices correctly (distorted strokes). Though I have seen some people mention this works.
