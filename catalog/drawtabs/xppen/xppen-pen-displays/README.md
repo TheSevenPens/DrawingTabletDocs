@@ -12,7 +12,7 @@
 | XP-Pen Artist Pro 15.6 V2 |         | 2024 |                                                                                                     |
 | XP-Pen Artist Pro         |         | 2021 |                                                                                                     |
 | XP-Pen Artist Pro 16TP    |         | 2021 |                                                                                                     |
-| Artist 12 3rd             | CD121FH | 2025 | [XP-Pen Artist 12 GEN3 (CD121FH) notes](xppen-cd121fh.md)                                           |
+| Artist 12 3rd             | CD121FH | 2025 | [XP-Pen Artist 12 GEN3 (CD121FH) notes](xppen-cd121fh-notes.md)                                     |
 | Artist 10 GEN2            | CD100FH | 2021 |                                                                                                     |
 | Artist 12 GEN2            | CD120FH | 2021 |                                                                                                     |
 | Artist 13 GEN2            | CD130FH | 2021 | [2023 13" pen displays compared](../../../../recs/comparisons/2023-13inch-pen-displays-compared.md) |

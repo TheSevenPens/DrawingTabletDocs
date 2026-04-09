@@ -1,10 +1,12 @@
-# XP-Pen Artist 12 GEN3 (CD121FH) notes
+# XP-Pen Artist 12 3rd (CD121FH) notes
 
 ## Overview
 
 Good pen display at an excellent price. Will be good for beginners or for a first tablet.
 
 Very convenient that the tablet comes with all the cables you need to connect via HDMI and USB-C (assuming your computer supports USB-C)
+
+12" is the smallest I would recommend for a pen tablet. I personally prefer larger sizes (19" to 22") but for many this size should work.&#x20;
 
 Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share](https://youtube.com/live/teEGX7G-gYs?feature=share)
 

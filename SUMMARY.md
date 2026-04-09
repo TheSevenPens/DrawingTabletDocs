@@ -546,7 +546,7 @@
         * [XP-Pen Artist 12 Gen2 (CD120FH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd120fh.md "Artist 12 Gen2 (CD120FH)")
         * [XP-Pen Artist 13 GEN2 (CD130FH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd130fh.md "Artist 13 GEN2 (CD130FH)")
         * [XP-Pen Artist 16 GEN2 (CD160FH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd160fh.md "Artist 16 GEN2 (CD160FH)")
-        * [XP-Pen Artist 12 GEN3 (CD121FH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd121fh.md "Artist 12 GEN3 (CD121FH)")
+        * [XP-Pen Artist 12 3rd (CD121FH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd121fh-notes.md "Artist 12 3rd (CD121FH)")
         * [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-md160qh.md "Artist Pro 16 GEN2 (MD160QH)")
         * [XP-Pen Artist Pro 19 GEN2 (MD180UH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-md180uh.md "Artist Pro 19 GEN2 (MD180UH)")
         * [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](catalog/drawtabs/xppen/xppen-pen-displays/xppen-md220qh.md "Artist Pro 22 GEN2 (MD220QH)")
