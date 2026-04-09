@@ -37,7 +37,7 @@ This is when you want a general-purpose mobile device, but also want decent pen 
   * Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately.
 * Samsung Galaxy Tab S devices - [Samsung Galaxy Tab S series notes](../catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md)
   * As an alternative to the Apple ecosystem, the Samsung Galaxy Tab S series of tablets is compelling. One great advantage of the Galaxy Tab S series is that they come with the Samsung S pen. So that keeps the cost down.
-  * There are lots of models. Here are the
+  * There are lots of models and they vary in sizde and cost.
 
 ## Avoid
 
