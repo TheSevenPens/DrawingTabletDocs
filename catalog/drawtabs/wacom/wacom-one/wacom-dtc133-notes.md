@@ -8,6 +8,9 @@ This solid but dated beginner tablet - and it is somewhat overpriced for what it
 
 * Model year: 2019
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/DTC133.html](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
+
+## Links
+
 * [Teoh On Tech review of Wacom One 2019 DTC-133](https://www.youtube.com/watch?v=Hv2dpHkLAOE)
 * [Brad Colbow review of Wacom One 2018 DTC-133](https://www.youtube.com/watch?v=EFvpOWZDGUU)
 * [Create Now Sleep Later review of Wacom One 2019 DTC-133](https://youtu.be/VPbAUF7AZhA)

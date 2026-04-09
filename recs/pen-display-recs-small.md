@@ -21,7 +21,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## GOOD
 
-* XP-Pen Artist 12 3rd(CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd121fh-notes.md))
+* XP-Pen Artist 12 3rd (CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-cd121fh-notes.md)
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)
 
@@ -29,7 +29,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 * Huion Kamvas 13 (GS1331) [Huion Kamvas 13 (GS1331) notes](../catalog/drawtabs/huion/huion-pen-displays/huion-gs1331-notes.md)
 * Wacom One 14 (DTC-141) [Wacom One 14 (DTC-141) notes](../catalog/drawtabs/wacom/wacom-one/wacom-dtc141-notes.md)
-* Wacom One 2019 GEN1 (DTC-133) [Wacom One 2019 (DTC-133) notes](../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
+* Wacom One 2019 (DTC-133) [Wacom One 2019 (DTC-133) notes](../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
   * NOTE: Expensive for what it is and how dated it is, but is a decent tablet. A good candidate for buying used.
 
 ## AVOID
