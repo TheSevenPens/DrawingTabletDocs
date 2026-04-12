@@ -4,6 +4,20 @@
 
 A LARGE pen tablet has an active area diagonal of about 15 inches (38 cm).
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## Video
+
+In this video I go through a lot of detail about what it's like to actually use a large pen tablet. In this case I'm specifically using a Wacom intuos pro (PTH-860). But the same general issues apply to any large pen tablet.
+
+{% embed url="https://youtu.be/YCmVugc3w_g" %}
+
+
+
+## Who should get a large pen tablet
+
 Generally I advise against getting a LARGE pen tablet unless one of these is trye:
 
 * You already have experience using one
@@ -29,7 +43,7 @@ I have used LARGE pen tablets are my favorite size to use and I have described t
 * **Smoother Lines and More Control:** For illustration, especially with styles involving a lot of long lines, the large tablet helps me have smoother lines and more control.
 * **Encourages Larger Gestures:** The larger active area naturally encourages drawing gestures to get a bit larger," which in turn leads to "smoother lines and more control."
 
-## Scenarios where large may be unhelpful or a negative
+## When large sized pen tablets may be unhelpful
 
 * Using the tablet as a mouse replacement
 * Photo editing - no benefit from the size
@@ -46,17 +60,27 @@ Some tactics I applied:
 
 I think it's important that you spend some deliberate time learning how to make the best use of all the extra active area that you have. That means you may have to put in some work in changing how you draw because ultimately if you are not using this extra active area then you are wasting the active area that you paid for.
 
-## Ergonomics
+## Positioning relative to keyboard
 
-**Positioning**
+### Side-by Side: doesn't work well
 
-With a medium pen tablet most people put their tablet to the right or left of their keyboard.
+With a medium pen tablet most people put their tablet to the right or left of their keyboard. You can certainly try this with a large pen tablet. But what you'll discover is that it is extremely difficult to reach the more distant edges of the keyboard or tablet depending on how they're situated in front of you.
 
-You can certainly try this with a large pen tablet. But what you'll discover is that it is extremely difficult to reach the more distant edges of the keyboard or tablet depending on how they're situated in front of you.
+<figure><img src="../../.gitbook/assets/Slide_20260412_024928.jpg" alt=""><figcaption></figcaption></figure>
 
-So a large pen tablet typically means you will have to have it directly in front of you. And then you place the keyboard above it. This of course means that it's more difficult to reach the keyboard.
+### Keyboard above, tablet below: Good for drawing
+
+So a large pen tablet typically means you will have to have it directly in front of you. And then you place the keyboard above it. This of course means that it's more difficult to reach the keyboard.  When I am drawing this is the layout I use.
+
+I sometimes pull the keyboard closer and put it on the top bezel of the tablet. This makes it slightly easier to reach the keyboard though it still is a little awkward.
+
+<figure><img src="../../.gitbook/assets/Slide_20260412_025012.jpg" alt=""><figcaption></figcaption></figure>
+
+### Keyboard on top: For typing&#x20;
 
 Often if I'm not really drawing I'll in fact put the keyboard on top of the tablet.
+
+<figure><img src="../../.gitbook/assets/Slide_20260412_025146.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Effort
 
@@ -66,10 +90,4 @@ In my initial phase of using the tablet, I felt that my hand was moving a larger
 
 ## What if the active area feels too big?
 
-If the active area is too big for you, then you should keep in mind that you can always scale down the active area to any size you want. You can make the active area match a medium sized tablet for example.
-
-## Video
-
-In this video I go through a lot of detail about what it's like to actually use a large pen tablet. In this case I'm specifically using a Wacom intuos pro (PTH-860). But the same general issues apply to any large pen tablet.
-
-{% embed url="https://youtu.be/YCmVugc3w_g" %}
+If the active area is too big for you, then you should keep in mind that you can always scale down the active area to any size you want. For example, You can make the active area match a medium sized tablet for example.
