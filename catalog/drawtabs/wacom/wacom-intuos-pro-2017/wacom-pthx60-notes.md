@@ -115,24 +115,20 @@ Using a large tablet feels quite a bit different from using a medium tablet. It'
 
 ## Links
 
-### Intuos Pro medium (PTH-660)
+### Intuos Pro 2017 Medium (PTH-660)
 
-* Model year: 2017
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/PTH-660.html](https://101.wacom.com/UserHelp/en/TOC/PTH-660.html)
 * [Brad Colbow review of Wacom Intuos Pro Medium](https://youtu.be/bbOGvAW3o-M)
 * [Claudio Juliano Wacom Intuos Pro Medium](https://youtu.be/lKJYuRQfLkc)
 * [EyeKooDrawsStuff review of Intuos Pro Medium](https://www.youtube.com/watch?v=XozM9fs9Jlc) May 13, 2022
 
-### Intuos Pro Small (PTH-460)
+### Intuos Pro 2017 Small (PTH-460)
 
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-460.html](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html)
 * [Brad Colbow review of Wacom Intuos Pro Smal](https://www.youtube.com/watch?v=VhR4dcxd_DU)l
 * [Aaron Rutten review of Wacom Intus Pro Small](https://youtu.be/ZHIsUKtVbio)
 
-### Intuos Pro Large (PTH-860)
+### Intuos Pro 2017 Large (PTH-860)
 
-* [**notes on the PTH-x60 series of tablets**](https://docs.thesevenpens.com/drawtab/product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60)
-* Model Year: 2017
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)
 
-##
