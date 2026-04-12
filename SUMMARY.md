@@ -658,6 +658,7 @@
   * [Resolution info](ref/resolution-info.md)
   * [Aspect ratio math](ref/aspect-ratio-math.md)
   * [Standard paper sizes](ref/standard-paper-sizes.md)
+  * [Standard drawing tablet sizes](ref/standard-drawtab-sizes.md)
 * [Technology](tech/README.md)
   * [Display panel technology](tech/display-panel-tech.md)
   * [VESA](tech/vesa.md)
