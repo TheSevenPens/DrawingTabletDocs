@@ -4,7 +4,7 @@
 
 The Wacom Intuos Pro 2017 (PTH-x60) series of tablets are still the best pen tablets ever made even in 2025. They are tied with the Intuos Pro 2025 series (PTK-x70) series. Both are at the top of their game but depending on your background you might prefer one over the other.
 
-With the release of the 2025 edition, you might be tempted to buy the 2017 edition to save some money. This is a valid choice but you should take some things into consideration: [Buying an Intuos Pro 2017 in 2026](buying-an-intuos-pro-2017-in-2026.md)
+With the release of the 2025 edition, you might be tempted to buy the 2017 edition to save some money. This is a valid choice but you should take some things into consideration: [Buying an Intuos Pro 2017 in 2026](buying-pthx60-in-2026.md)
 
 ## Models
 
