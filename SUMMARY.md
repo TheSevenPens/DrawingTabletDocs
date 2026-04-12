@@ -489,6 +489,7 @@
         * [Wacom Intuos Pro 2025 (PTK-x70) notes](catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md "Intuos Pro 2025 (PTK-x70)")
       * [Wacom Intuos Pro 2017](catalog/drawtabs/wacom/wacom-intuos-pro-2017/README.md "Intuos Pro 2017")
         * [Wacom Intuos Pro 2017 (PTH-x60) notes](catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md "Intuos Pro 2017 (PTH-x60) notes")
+        * [Buying an Intuos Pro 2017 in 2026](catalog/drawtabs/wacom/wacom-intuos-pro-2017/buying-an-intuos-pro-2017-in-2026.md)
       * [Wacom Intuos Pro 2013](catalog/drawtabs/wacom/wacom-intuos-pro-2013.md "Intuos Pro 2013")
       * [Wacom Intuos5](catalog/drawtabs/wacom/wacom-intuos5.md "Intuos5")
         * [Wacom Intuos4 (PTH-x50/PTK-x50) notes](catalog/drawtabs/wacom/wacom-intuos5/wacom-pthx50-ptkx50-notes.md "Intuos4 (PTH-x50/PTK-x50) notes")
