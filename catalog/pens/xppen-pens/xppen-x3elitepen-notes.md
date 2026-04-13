@@ -16,16 +16,12 @@ No eraser.
 
 ## IAF
 
-I'm not good at measuring IAF. Subjectively it is definitely higher IAF than a Wacom Pro Pen 2 (not surprising) and a little higher than a Huion PW517 pen.
-
-## Pressure response
-
-<figure><img src="../../../.gitbook/assets/image-000481.png" alt=""><figcaption></figcaption></figure>
+Subjectively it is definitely higher IAF than a Wacom Pro Pen 2 (not surprising) and a little higher than a Huion PW517 pen. I would estimate around 3gf but maybe a little higher. It feels totally fine to draw with.
 
 ## Max Pressure
 
-I have three of these pens. The max pressure's measured very well.
+Clustered around 370gf - which is good
 
-* \~370gf
-* \~350gf
-* \~360gf
+## Pressure response
+
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
