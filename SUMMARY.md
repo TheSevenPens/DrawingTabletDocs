@@ -306,6 +306,7 @@
   * [TSG: Touch input goes to the wrong display on Windows](troubleshoot/tsg-touch-on-wrong-display-windows.md)
   * [DIAG: Testing pressure in the tablet driver](troubleshoot/diag-pressure-in-tablet-driver.md)
   * [DIAG: Checking if pen display shows HDMI video signal from other devices](troubleshoot/diag-hdmi-from-other-sources.md)
+  * [DIAG: Detect digitizer issues by drawing a grid](troubleshoot/diag-draw-grid.md)
   * [DIAG: Checking tablet driver diagnostics](troubleshoot/diag-tablet-driver-diagnostics.md)
   * [DIAG: Resetting a drawing tablet](troubleshoot/diag-reset-drawtab.md)
   * [DIAG: Testing with Windows PNP drawing tablet drivers](troubleshoot/diag-windows-pnp-tablet-drivers.md)
