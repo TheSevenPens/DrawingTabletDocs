@@ -142,7 +142,7 @@
     * [False scratches](guides/maintain/false-scratches.md)
     * [Removing and replacing the screen protector on a pen display](guides/maintain/removing-replacing-screen-protector.md)
     * [Nib wear](guides/maintain/nib-wear.md)
-    * [Replacing a pen](guides/maintain/replacing-pen.md)
+    * [Replacing a lost or damaged pen](guides/maintain/replacing-pen.md)
     * [Replacing a nib](guides/maintain/replacing-nib.md)
     * [Retrobright to handle yellowed plastic](guides/maintain/retrobrighting.md "Retrobrighting")
     * [Transporting your drawing tablet](guides/maintain/transporting-drawtab.md "Transporting")
