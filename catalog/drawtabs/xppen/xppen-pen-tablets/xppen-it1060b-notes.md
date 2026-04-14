@@ -45,9 +45,12 @@ There are two versions of this tablet. They are exactly the same tablet but diff
 
 ## Pens
 
-Included Pen: X3 Elite
+Included pen: X3 Elite
 
-Compatible pens X3 Elite
+Compatible pens:&#x20;
+
+* X3 Elite
+* X3 Elite Plus
 
 See this for more details about the pen: [XP-Pen X3 Elite](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
