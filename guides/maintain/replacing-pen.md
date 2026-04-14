@@ -19,6 +19,3 @@ So many people accidentally buy incompatible pens and get frustrated. Please avo
 ## ALWAYS verify with customer support
 
 No matter what is written on any site, I **HIGHLY ENCOURAGE** you to <mark style="color:red;">**always contact customer support**</mark> for your tablet and ask them to verify which pen models are compatible.
-
-## Further reading
-
