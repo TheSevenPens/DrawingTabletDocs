@@ -101,7 +101,7 @@ Known issue:
 Models:
 
 * XP-Pen Deco 01 V2&#x20;
-* XP-Pen Deco 01 V3&#x20;
+* XP-Pen Deco 01 V3 - [XP-Pen Deco 01 V3 notes](../../../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-deco01v3-notes.md)
 
 I am so UNIMPRESSED with these tablets. Not happy with the line quality and especially not happy with the pen P05 which has a very high IAF.
 
