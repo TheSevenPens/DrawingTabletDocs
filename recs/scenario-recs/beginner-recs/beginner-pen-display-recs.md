@@ -1,8 +1,9 @@
 # Beginner pen displays recommendations
 
-## Overview
+## Basics
 
-13" is a good way to get introduced to pen displays. Though I do think ultimately 16" is a better size longer term.
+* These are recommendations for pen displays (screen tablets) that require a computer. If you are looking for other kinds of tablets go here: [Beginner drawing tablet recommendations](./)
+* **Size**. 13" is a good way to get introduced to pen displays. Though I do think ultimately 16" is a better size longer term.
 
 ## If I had to pick one
 

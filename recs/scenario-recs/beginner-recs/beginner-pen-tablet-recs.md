@@ -1,7 +1,8 @@
 # Beginner pen tablet recommendations
 
-## General notes
+## Basics
 
+* These are recommendations for pen tablets (screenless tablets) that require a computer. If you are looking for other kinds of tablets go here: [Beginner drawing tablet recommendations](./)
 * **Size**. You may see both small and medium sizes listed here. For the vast majority of people I recommend a MEDIUM size.
 * **Enable Force proportions** - Most likely it will feel weird to draw with your pen tablet unless you enable force proportions: See: [Matching aspect ratios with Force Proportions](../../../guides/customizing/force-proportions.md)
 

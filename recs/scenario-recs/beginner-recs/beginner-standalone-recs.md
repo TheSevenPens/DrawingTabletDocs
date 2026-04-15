@@ -1,4 +1,8 @@
-# Beginner standalone tablets
+# Beginner standalone tablet recommendations
+
+## Basics
+
+* These are recommendations for standalone drawing tablets that have screens and don't require a computer - so things like an iPad. If you are looking for other kinds of tablets go here: [Beginner drawing tablet recommendations](./)
 
 ## Top choices
 

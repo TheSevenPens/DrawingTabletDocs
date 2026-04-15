@@ -60,7 +60,7 @@
   * [Scenario recommendations](recs/scenario-recs/README.md)
     * [Whiteboarding recommendations](recs/scenario-recs/whiteboarding-recs.md "Whiteboarding")
     * [Note-taking recommendations](recs/scenario-recs/note-taking-recs.md "Note-taking")
-    * [Beginner recommendations](recs/scenario-recs/beginner-recs/README.md "Beginners")
+    * [Beginner drawing tablet recommendations](recs/scenario-recs/beginner-recs/README.md "Beginners")
       * [Beginner pen tablet recommendations](recs/scenario-recs/beginner-recs/beginner-pen-tablet-recs.md "Beginner pen tablets")
       * [Beginner pen displays recommendations](recs/scenario-recs/beginner-recs/beginner-pen-display-recs.md "Beginner pen displays")
       * [Beginner standalone tablet recommendations](recs/scenario-recs/beginner-recs/beginner-standalone-recs.md "Beginner standalone tablets")
