@@ -8,7 +8,7 @@ The Wacom Pro Pen 2 is an INCREDIBLE pen. Despite the existence of the Pro Pen 3
 
 ## Cost
 
-Take care of your Pro Pen 2. A replacement typically costs $90 US. &#x20;
+Take care of your Pro Pen 2. A replacement typically costs $90 US.
 
 ## Pressure > Levels
 
@@ -22,9 +22,9 @@ Take care of your Pro Pen 2. A replacement typically costs $90 US. &#x20;
 
 The pressure response is remarkably consistent across multiple units tested. The maximum pressure ranges from about 700gf to 800 gf.
 
-<figure><img src="../../../.gitbook/assets/image-000471.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 
 * Two buttons
-* Eraser&#x20;
+* Eraser

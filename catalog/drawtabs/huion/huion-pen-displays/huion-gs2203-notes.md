@@ -47,7 +47,7 @@ This requires 3 cables
 * USB-C to USB-A&#x20;
 * Power
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,7 +58,7 @@ This requires 2 cables
 * Power
 * full featured USB-C - your computer needs to have a USB-C port that meets all the requirements&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Non-pen inputs
 

@@ -103,11 +103,11 @@ However, for advanced cases you can configure your tablet driver to configure th
 
 For lots of reasons, some people simply prefer using WinTab. So they will configure their setup like this.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Of course this means the tablet driver is never talking Windows Ink - only WinTab. While this works for an app like CSP which can speak either language, it may interfere with an app like Microsoft OneNote which only talks in Windows Ink. To solve this situation, you need to add an driver override for OneNote as illustrat4d below.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
