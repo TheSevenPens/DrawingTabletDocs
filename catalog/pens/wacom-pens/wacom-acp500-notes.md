@@ -10,8 +10,9 @@ The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous
 
 * [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025-01-25 (archive)
 
-Links
+## Links
 
+* Teoh on Tech - [Wacom Pro Pen 3: All You Need to Know](https://www.youtube.com/watch?v=y0LJAcmI7aM) - 2026-04-14&#x20;
 * r/wacom - [The Chinese made Pro Pen3 (25B) vs the Vietnam made Pro Pen3 (25G)](https://www.reddit.com/r/wacom/comments/1rv3evg/the_chinese_made_pro_pen3_25b_vs_the_vietnam_made/) 2026-03-16
 
 ## Pressure
@@ -53,9 +54,12 @@ The Pro Pen 3 has a very large maximum pressure. The maximum pressure varied bet
 
 ### Initial activation force
 
-Rating: EXCELLENT
+Rating: GOOD ?
 
-The Pro Pen 3 has a typical low IAF for Wacom Pro pen.NOTE: I am not skilled enough to measure it, but to me the Pro Pen 3 IAF feels like the Pro Pen 2 which has an IAF of <1gf.
+The Pro Pen 3 seems to have a typical low IAF for Wacom Pro pen. But here we do have some different results.
+
+* Tablet expert Kuuube is VERY GOOD at measuring IAF, and his initial measurements of IAF for 1 units of PP3 is around 3gf or 4gf.
+* I am not skilled enough to measure IAF. Subjectively, the PP3 IAF feels like the PP2 when I draw. PP2 has an IAF of <1gf. So at least in real-world drawing I didn't notice a difference using the PP3.&#x20;
 
 ### Comparing Initial Activation Force
 
