@@ -8,11 +8,13 @@ If you want the windows instructions, go here: [Install OpenTabletDriver on Wind
 
 The official OTD installation guide for MacOS is here: [https://opentabletdriver.net/Wiki/Install/MacOS](https://opentabletdriver.net/Wiki/Install/MacOS) This document is s more detailed walkthrough for those who are not familiar with OTD.
 
+<mark style="color:red;">**This document is IN PROGRESS and going through some significant edits. You might encounter incomplete sections.**</mark>
+
 ### MacOS
 
 These instructions are shown for MacOS Tahoe. They should be similar to the steps needed on earlier versions of MacOS such as Sequoia but I have not confirmed this.
 
-### CPU architectuee
+### CPU architecture
 
 OTD runs on both Intel x86 and Apple Silicon macs.
 
