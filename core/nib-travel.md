@@ -10,7 +10,7 @@ When you press down on the nib they travels (or retracts) a little bit into the 
 
 Some people may refer this as the "nib retraction distance"
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 How much the nib travels depends on the specific pen involved.
 
@@ -26,4 +26,4 @@ Or even if aren't drawing you can use your finger to just play with the nib a li
 
 Typically the lateral travel is about 1 mm.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
