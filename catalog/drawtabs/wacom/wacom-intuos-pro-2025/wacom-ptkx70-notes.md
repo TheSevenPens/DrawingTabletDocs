@@ -434,7 +434,15 @@ We think this pattern has these benefits:
 * makes removing the texture sheet easier
 * helps avoid air bubbles when placing a texture sheet on the tablet
 
-This pattern CAN NOT be felt through the texture sheet.
+Can this pattern be felt?
+
+* By fingers - NO
+* By "normal" drawing - NO
+* By"pressing very hard" - YES
+
+Does Intuos Pro 2017 have this texture? NO
+
+
 
 ## Driver UI > Wacom Center vs Wacom Tablet Properties
 
