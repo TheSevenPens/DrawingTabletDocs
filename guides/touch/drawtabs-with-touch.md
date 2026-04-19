@@ -6,41 +6,4 @@ Only a small number of of pen tablets (screenless tablets) and pen displays (scr
 
 For more on touch: [Touch support](./)
 
-## Pen tablets that support touch
-
-* Modern tablets
-  * Wacom Intuos Pro 2017 Small (PTH-460)
-  * Wacom Intuos Pro 2017 Medium (PTH-660)
-  * Wacom Intuos Pro 2017 Large (PTH-860)
-* Older tablets
-  * Wacom Intuos Pro 2013 Small (PTH-451)
-  * Wacom Intuos Pro 2013 Medium (PTH-651)
-  * Wacom Intuos Pro 2013 Large (PTH-851)
-  * Wacom Intuos5 touch Small (PTH-450)
-  * Wacom Intuos5 touch Medium (PTH-650)
-  * Wacom Intuos5 touch Large (PTH-850)
-  * Wacom Bamboo capture (CTH-470)
-  * Wacom Bamboo create (CTH-670)
-  * Wacom Intuos Draw|Art|Photo|Comic Small (CTH-490)
-  * Wacom Intuos Draw|Art|Photo|Comic Medium (CTH-690)
-
-## Pen displays that support touch
-
-* Modern tablets
-  * Wacom Cintiq 24 touch (DTH-246)
-    * Be aware that there is a non-touch version also being sold: Wacom Cintiq 24 (DTK-246)
-  * Wacom Cintiq Pro 27 (DTH-271)
-  * Wacom Cintiq Pro 22 (DTH-227)
-  * Wacom Cintiq Pro 17 (DTH-172)
-  * Wacom Cintiq Pro 16 (DTK-167)
-  * Wacom One 13 touch GEN2 (DTH-134)
-  * Wacom Movink 13 (DTH-135)
-  * Wacom Cintiq Pro 24 Touch (DTH-2420)
-  * Wacom Cintiq Pro 16 (2016) (DTH-1620)
-  * XP-Pen Artist Pro 27 GEN2 (    MD270UH)
-  * XP-Pen Artist 16 Ultra
-  * Huion Kamvas Pro 19 (GT1902)
-  * Huion Kamvas Pro 27 (GT2701)
-* Older tablets
-  * XP-Pen Artist Pro 16TP (MD160U)
-  *
+<table><thead><tr><th width="144.51849365234375">Brand</th><th width="331.8642578125">Name and Model ID</th><th width="158.7037353515625">Type</th><th>Year</th></tr></thead><tbody><tr><td>WACOM</td><td>CTH-460 (CTH-460)</td><td>PENTABLET</td><td>2009</td></tr><tr><td>WACOM</td><td>CTH-661 (CTH-661)</td><td>PENTABLET</td><td>2009</td></tr><tr><td>WACOM</td><td>CTH-461 (CTH-461)</td><td>PENTABLET</td><td>2009</td></tr><tr><td>WACOM</td><td>Bamboo Capture (CTH-470)</td><td>PENTABLET</td><td>2012</td></tr><tr><td>WACOM</td><td>Bamboo Create (CTH-670)</td><td>PENTABLET</td><td>2012</td></tr><tr><td>WACOM</td><td>Intuos5 touch Small (PTH-450)</td><td>PENTABLET</td><td>2012</td></tr><tr><td>WACOM</td><td>Intuos5 touch Medium (PTH-650)</td><td>PENTABLET</td><td>2012</td></tr><tr><td>WACOM</td><td>Intuos5 touch Large (PTH-850)</td><td>PENTABLET</td><td>2012</td></tr><tr><td>WACOM</td><td>Intuos Pro 2013 Small (PTH-451)</td><td>PENTABLET</td><td>2013</td></tr><tr><td>WACOM</td><td>Intuos Pro 2013 Medium (PTH-651)</td><td>PENTABLET</td><td>2013</td></tr><tr><td>WACOM</td><td>Intuos Pro 2013 Large (PTH-851)</td><td>PENTABLET</td><td>2013</td></tr><tr><td>WACOM</td><td>CTH-680 (CTH-680)</td><td>PENTABLET</td><td>2013</td></tr><tr><td>WACOM</td><td>CTH-480 (CTH-480)</td><td>PENTABLET</td><td>2013</td></tr><tr><td>WACOM</td><td>Wacom CTH-300 (CTH-300)</td><td>PENTABLET</td><td>2013</td></tr><tr><td>WACOM</td><td>Wacom CTH-301 (CTH-301)</td><td>PENTABLET</td><td>2014</td></tr><tr><td>WACOM</td><td>Intuos Draw|Art|Photo|Comic Small (CTH-490)</td><td>PENTABLET</td><td>2015</td></tr><tr><td>WACOM</td><td>Intuos Draw|Art|Photo|Comic Medium (CTH-690)</td><td>PENTABLET</td><td>2015</td></tr><tr><td>WACOM</td><td>Cintiq Pro 13 (DTH-1320)</td><td>PENDISPLAY</td><td>2016</td></tr><tr><td>WACOM</td><td>Cintiq Pro 16 2016 (DTH-1620)</td><td>PENDISPLAY</td><td>2016</td></tr><tr><td>WACOM</td><td>MobileStudio Pro 16 (DTH-W1620)</td><td>STANDALONE</td><td>2016</td></tr><tr><td>WACOM</td><td>Cintiq Pro 24 Touch (DTH-2420)</td><td>PENDISPLAY</td><td>2017</td></tr><tr><td>WACOM</td><td>Intuos Pro 2017 Medium (PTH-660)</td><td>PENTABLET</td><td>2017</td></tr><tr><td>WACOM</td><td>Intuos Pro 2017 Large (PTH-860)</td><td>PENTABLET</td><td>2017</td></tr><tr><td>WACOM</td><td>Cintiq Pro 32 (DTH-3220)</td><td>PENDISPLAY</td><td>2018</td></tr><tr><td>WACOM</td><td>Intuos Pro 2017 Small (PTH-460)</td><td>PENTABLET</td><td>2019</td></tr><tr><td>WACOM</td><td>MobileStudio Pro 13 Gen2 (DTH-W1321)</td><td>STANDALONE</td><td>2019</td></tr><tr><td>WACOM</td><td>MobileStudio Pro 16 Gen 2 (DTH-W1621)</td><td>STANDALONE</td><td>2019</td></tr><tr><td>WACOM</td><td>Cintiq Pro 16 2021 (DTH-167)</td><td>PENDISPLAY</td><td>2021</td></tr><tr><td>XPPEN</td><td>Artist Pro 16TP (MD160U)</td><td>PENDISPLAY</td><td>2021</td></tr><tr><td>WACOM</td><td>Cintiq Pro 27 (DTH-271)</td><td>PENDISPLAY</td><td>2022</td></tr><tr><td>WACOM</td><td>Wacom One 2023 13 touch (DTH-134)</td><td>PENDISPLAY</td><td>2023</td></tr><tr><td>WACOM</td><td>Cintiq Pro 17 (DTH-172)</td><td>PENDISPLAY</td><td>2023</td></tr><tr><td>WACOM</td><td>Cintiq Pro 22 (DTH-227)</td><td>PENDISPLAY</td><td>2023</td></tr><tr><td>HUION</td><td>Kamvas Pro 19 (GT-1902)</td><td>PENDISPLAY</td><td>2024</td></tr><tr><td>WACOM</td><td>Movink 13 (DTH-135)</td><td>PENDISPLAY</td><td>2024</td></tr><tr><td>HUION</td><td>Kamvas Pro 24 GEN3 (GT2402)</td><td>PENDISPLAY</td><td>2025</td></tr><tr><td>HUION</td><td>Kamvas Pro 27 144Hz (GT2702)</td><td>PENDISPLAY</td><td>2025</td></tr><tr><td>WACOM</td><td>Cintiq 24 touch 2025 (DTH-246)</td><td>PENDISPLAY</td><td>2025</td></tr><tr><td>WACOM</td><td>Wacom MovinkPad 11 (DTH-A116)</td><td>STANDALONE</td><td>2025</td></tr><tr><td>WACOM</td><td>Wacom MovinkPad Pro 14 (DTH-A140)</td><td>STANDALONE</td><td>2025</td></tr><tr><td>XPPEN</td><td>Artist Ultra 16 (MD160UH)</td><td>PENDISPLAY</td><td>2025</td></tr></tbody></table>
