@@ -26,7 +26,7 @@ More here: [Types of drawing tablets](../../basics/drawtab-types/)
 
 Based on the people who have asked me about moving from an iPad to a drawing tablet:
 
-* It's probably **unlikely** you want to get a pen tablet (screenless tablet).
+* It's probably **unlikely** you want to get a pen tablet (screenless tablet). Though it is a valid case. It is explicitly covered later in this doc.
 * It's probably **unlikely** you want to get a standalone tablet, because that would be too similar to what you already have with your iPad.
 * It's **most likely** that you want a pen display (aka screen tablet).
 
@@ -86,4 +86,27 @@ Whether you're using macOS or a Windows PC with a pen display, the ecosystem of 
 The most common specific thing that iPad users tend to want is to use Procreate on their desktop computer. As of 2026, Procreate is only available on iPads, though we do expect Procreate to be available on macOS in 2027 or 2028. We have no expectation or timeline for Procreate being available on Windows. If you're going to use Windows, there is an application called StylusX, which is a Procreate clone for Windows - you should definitely investigate this if Procreate is important for you.
 
 And in general, you should be clear on which apps are going to be available on the operating system you're going to use a pen display with.
+
+## Switching to a pen tablet
+
+I do people this is an UNLIKELY transition for people because I believe many people will not like moving from their iPad screen to a non-screen device.
+
+A good summary of the general issues when moving from screen to non-screen is here: [Pen tablets vs pen displays](../pen-tablets-vs-pen-displays.md). Although that article tables about drawing tablets much of it applies to iPads vs pen tablets.
+
+Key points
+
+* Pen tablets can really vary in how big their active area is. You have a lot of flexibility in size.
+* Pen tablets have to be configured to work with your monitor. See: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md)
+* Many people find that they hunch over when drawing with an iPad. Your lwoer back might feel less stress when using a pen tablet because the posture doesn't require you to "shrimp".
+*
+
+
+
+*
+
+### &#x20;<a href="#overview" id="overview"></a>
+
+<br>
+
+
 
