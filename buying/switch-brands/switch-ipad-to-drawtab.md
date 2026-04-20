@@ -1,6 +1,6 @@
 # Switching from an iPad to a drawing tablet
 
-### Overview
+## Overview
 
 A very common request I hear is from people who already have an iPad and are interested in getting a drawing tablet. They might be getting the drawing tablet because they intend to switch away from the iPad and only use the drawing tablet. Or they might intend to use both devices.
 
@@ -12,7 +12,7 @@ In this document we'll go over some of the key considerations you should take in
 For more information see the links her: [Apple iPad](../../catalog/drawtabs/apple/apple-ipad.md)
 {% endhint %}
 
-### Types of drawing tablets
+## Types of drawing tablets
 
 The first thing you need to understand is that there are three different kinds of drawing tablets:
 
@@ -32,7 +32,7 @@ Based on the people who have asked me about moving from an iPad to a drawing tab
 
 That being the case, most of this document will talk about what you should be aware of when you're coming from an iPad background and intend to buy a pen display.
 
-### Why people switch
+## Why people switch
 
 The most common reasons people move from an iPad to a drawing tablet are as follows:
 
@@ -41,13 +41,13 @@ The most common reasons people move from an iPad to a drawing tablet are as foll
 * **Their projects are getting too big.** They need too many layers, or their documents are so large their iPad just doesn't have enough memory to handle them. iPads are very memory-constrained compared to a desktop PC, so using a pen display opens up a much larger capacity depending on which desktop PC you use it with.
 * **A fundamental change of situation** - for example, starting your first job or starting university. You might have had a lot of fun using your iPad, but at your new job or university everyone might be using a pen display. It's very practical, for example, to get the same kind of pen display that they're using at your new job or university.
 
-### Is an iPad better or worse than a drawing tablet?
+## Is an iPad better or worse than a drawing tablet?
 
 It really depends on what you need - there is no one right answer.
 
 For many people, an iPad is the ideal drawing device. For others, it's just not enough. And for some, it might be enough in certain circumstances - for example, if they need to draw on the go - but when they need to sit down and focus on drawing, it might be much better for them to use a dedicated drawing tablet.
 
-### The drawing experience is different
+## The drawing experience is different
 
 A lot of people come to this question of switching to a drawing tablet with a very understandable assumption: that the experience of the iPad will completely transfer over. On the surface we can see why they might feel this way, because the devices can look very similar, with their screens and their pens. And it is true that a lot of things carry over. But there are some differences.
 
@@ -55,31 +55,31 @@ Some of them will be minor, and either won't matter to you or you'll quickly adj
 
 My opinion? I truly think the drawing tablet experience is better overall - primarily because of the way the a drawing tablet pen handles pressure.&#x20;
 
-### Key changes you need to be aware of when you're moving to a drawing tablet
+## Key changes when you're moving to a drawing tablet
 
 Here's a summary of the key points I'd like you to keep in mind if you're going to move from an iPad to a drawing tablet. This is a distilled form of key poionts I covered in document: [Apple iPad vs drawing tablets](../../catalog/drawtabs/apple/ipad-vs-drawtab.md).&#x20;
 
-#### Pen hover
+### Pen hover
 
 Depending on which iPad and Apple Pencil you have, you may not have this feature. But all drawing tablets have it. This is considered an advantage of drawing tablets.
 
-#### Pointer lag
+### Pointer lag
 
 As you move your pen on the screen of a drawing tablet, the pointer will lag behind the physical tip of the pen. This is natural and normal, and it even occurs on an iPad - though it's less noticeable for various reasons.
 
 Some people are incredibly sensitive to the amount of pointer lag, so you should make sure you know what you're getting into with regard to pointer lag. I'd highly suggest that you find someone who has a pen display and just try using it for a few minutes, so you can understand what it would actually feel like and see the pointer lag for yourself.
 
-#### Parallax
+### Parallax
 
 Parallax is a visual separation between where the tip of the pen is and where you see your pointer or brush stroke. Less parallax is better.
 
 As of 2026, the iPad still has the least amount of parallax I've ever seen in any device with a screen. Modern drawing tablets are getting close, but I think the average person would definitely notice that a drawing tablet has a little bit more than an iPad - and in some cases it's much more noticeable. This is another reason it'd be good for you to try out a drawing tablet before you buy one.
 
-#### Anti-glare sparkle
+### Anti-glare sparkle
 
 Pen displays have treatments to avoid glare, and these create an effect called anti-glare sparkle. It's a rainbow sparkle effect that you see on the glass. Some pen displays have very little of it, and some have a lot. iPads have almost none of this, so this is something you are likely to encounter with a pen display. How much, again, will depend on the specific pen display you're thinking about. This is another situation where using a pen display first before you buy is a really good idea.
 
-#### Applications
+### Applications
 
 Whether you're using macOS or a Windows PC with a pen display, the ecosystem of applications that's available is ultimately quite different from what you're used to on an iPad.
 
@@ -87,7 +87,13 @@ The most common specific thing that iPad users tend to want is to use Procreate 
 
 And in general, you should be clear on which apps are going to be available on the operating system you're going to use a pen display with.
 
-## Switching to a pen tablet
+### Connecting the drawing tablet to a computer
+
+For a pen tablet, it's easy - you connect a USB cable from the tablet to the computer. Some pen tablets even also work wirelessly.
+
+For a pen display - sometimes it is easy but most of the time it is more complex and may require multiple cables, carefully choosing the correct ports on your computer, etc. People who have never used a pen display are not prepared for how complex this can get. See: [Connecting a pen display](../../guides/connecting/connecting-pen-display/)
+
+### Switching to a pen tablet
 
 I do people this is an UNLIKELY transition for people because I believe many people will not like moving from their iPad screen to a non-screen device.
 
@@ -98,15 +104,8 @@ Key points
 * Pen tablets can really vary in how big their active area is. You have a lot of flexibility in size.
 * Pen tablets have to be configured to work with your monitor. See: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md)
 * Many people find that they hunch over when drawing with an iPad. Your lwoer back might feel less stress when using a pen tablet because the posture doesn't require you to "shrimp".
-*
 
-
-
-*
-
-### &#x20;<a href="#overview" id="overview"></a>
-
-<br>
+## <br>
 
 
 
