@@ -23,7 +23,7 @@ As of 2026, Wacom professional pens still have the lowest IAF in the industry, m
 
 If having a pen that is extremely sensitive to pressure is important to you — one that detects very light strokes — you may not enjoy the transition to another brand.
 
-More here: [2025 Professional pens compared](../recs/comparisons/2025-pro-pens-compared.md)
+More here: [2025 Professional pens compared](../../recs/comparisons/2025-pro-pens-compared.md)
 
 ## Old Wacom vs new non-Wacom
 
@@ -90,4 +90,4 @@ Wacom professional pens tend to be much more expensive than non-Wacom pens. Some
 
 ## Specific recommendations
 
-Go here for my recommendations that include non-Wacom tablets: [Recommendations](../recs/)
+Go here for my recommendations that include non-Wacom tablets: [Recommendations](../../recs/)
