@@ -30,6 +30,8 @@ Based on the people who have asked me about moving from an iPad to a drawing tab
 * It's probably **unlikely** you want to get a standalone tablet, because that would be too similar to what you already have with your iPad.&#x20;
 * It's **most likely** that you want a pen display (aka screen tablet) because this choices gives most of the things they are looking for in a drawing tablet.
 
+For most people, the drawing tablet choice will be between pen tablets and pen displays. They use the same technology but using them is very different in some ways. If you want more information on how they differ go here: [Pen tablets vs pen displays](../pen-tablets-vs-pen-displays.md).
+
 ## Why switch?
 
 The most common reasons people move from an iPad to a drawing tablet are as follows:
