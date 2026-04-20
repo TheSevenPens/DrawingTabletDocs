@@ -40,17 +40,17 @@ Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](htt
 * You'll see a brief progress bar indicating it is being extracted into a folder
 * When the extraction is done in your Downloads folder you will see&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * Extract it and drag `OpenTabletDriver` into your **Applications** folder
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## STEP 4 Installing
 
 * Run the OpenTabletDriver app.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="260"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="260"><figcaption></figcaption></figure></div>
 
 * If you see this - this is normal. MacOS is trying to protect you. Click **Done**, do NOT click **Move to Trash**
 * To fix the "Apple could not verify is free of malware" warning on macOS, go to **System Settings > Privacy & Security**, scroll down, and click **"Open Anyway"** under the security section.&#x20;

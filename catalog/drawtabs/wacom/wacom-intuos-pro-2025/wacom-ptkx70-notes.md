@@ -252,6 +252,14 @@ The 2017 models had unusal aspect ratios, while the new devices all have 16x9 (o
 
 <table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH_460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
 
+## Size
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+As you can see, the 2025 models are clearly a little larger than their 2017 counterparts.
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 ### Active area with Force Proportions enabled
 
 <table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br>544.06 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>264 x 148 mm<br>390.72 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>

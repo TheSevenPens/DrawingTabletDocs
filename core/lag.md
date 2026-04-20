@@ -8,7 +8,7 @@ Brush lag is the lag due to how long it takes to render a stroke or "paint". It 
 For lag related to the tablet and driver, see [Pointer lag](pointer-lag.md).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Resources
 

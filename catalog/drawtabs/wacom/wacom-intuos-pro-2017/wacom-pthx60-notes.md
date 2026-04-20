@@ -32,6 +32,10 @@ Again, I recommend all three. But specifically, I suggest looking at these model
 
 **The PTH-460 is a fine tablet**, but I generally see that adult sized people complain of pain in their wrists when drawing with small tablets like this one. This certainly happens for me. It is a good size for smaller people, or for people who are looking for using it as a mouse replacement.&#x20;
 
+## Active area sizes
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ## Pens
 
 ### Included Pen
