@@ -56,11 +56,18 @@ Pen hover support is the ability for the pen to move the pointer without touchin
 
 ## Pointer lag
 
-Pointer lag is how far behind the operating system pointer is behind the physical tip of the pen. It is always better to have less pointer lag.
+Pointer lag is how far behind the operating system pointer is behind the physical tip of the pen. It is always better to have less pointer lag. See: [Pointer lag](../../../core/pointer-lag.md)
 
-* Apple iPads with the Apple pencil 2 have incredibly little pointer lag
-* Apple iPad pointer lag is comparable to a pen tablet
-* Apple iPad pointer lag is noticeably less than pen displays
+This is very hard to objectively measure, but based on my investigation here is my current thinking:
+
+* The iPad software and hardware stack is certainly no worse than a traditional EMR drawing tablet in terms of pointer lag. I suspect they may be optimized for this input in ways that a normal Windows or MacOS computer is not.
+* I suspect iPadOS itself may be doing some kind of position "prediction" so that the pointer seems even more responsive than the raw hardware itself allows.
+* Some apps (such as Procreate) seem to either use or implement this kind of "prediction" to make their brushes seem even more responsive.
+
+So a typical user will find that:
+
+* An iPad seems to have less lag and be more responsive than a pen display (screen tablet).
+* An iPad seems to be about as responsibe as a pen tablet (screen tablet)
 
 ## **Parallax**
 
