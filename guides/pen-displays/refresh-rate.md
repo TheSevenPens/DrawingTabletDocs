@@ -21,15 +21,15 @@ Here's a real-world example of someone who had a 120Hz refresh rate pen display:
 
 As of Feb 2026, only a few tablets support high refresh rates.
 
-| Brand | Name and Model ID            | Year       | Refresh Rate (Hz) |
-| ----- | ---------------------------- | ---------- | ----------------- |
-| WACOM | Cintiq Pro 17 (DTH-172)      | 2023       | 120               |
-| WACOM | Cintiq Pro 22 (DTH-227)      | 2023       | 120               |
-| WACOM | Cintiq Pro 27 (DTH-271)      | 2022       | 120               |
-| HUION | Kamvas Pro 27 144Hz (GT2702) | 2025       | 144               |
-| HUION | Kamvas 22 GEN3 (GS2203)      | 2026       | 90                |
-| WACOM | MovinkPad 11 (DTH-A116)      | STANDALONE | 90                |
-| WACOM | MovinkPad Pro 14 (DTH-A140)  | STANDALONE | 120               |
+| Brand | Name and Model ID            | Year | Refresh Rate (Hz) |
+| ----- | ---------------------------- | ---- | ----------------- |
+| WACOM | Cintiq Pro 17 (DTH-172)      | 2023 | 120               |
+| WACOM | Cintiq Pro 22 (DTH-227)      | 2023 | 120               |
+| WACOM | Cintiq Pro 27 (DTH-271)      | 2022 | 120               |
+| HUION | Kamvas Pro 27 144Hz (GT2702) | 2025 | 144               |
+| HUION | Kamvas 22 GEN3 (GS2203)      | 2026 | 90                |
+| WACOM | MovinkPad 11 (DTH-A116)      | 2025 | 90                |
+| WACOM | MovinkPad Pro 14 (DTH-A140)  | 2025 | 120               |
 
 ## Effects of higher refresh rates
 
