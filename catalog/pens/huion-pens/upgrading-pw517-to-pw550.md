@@ -51,7 +51,9 @@ Here are my measurements for maximum pressure for the pens in my collection.
 * IAF - the pens are similar
 * Max Pressure - the PW550 pens tend to have a higher maximum pressure - and are more consistent between units
 
-<figure><img src="../../../.gitbook/assets/image-000342.png" alt=""><figcaption></figcaption></figure>
+## Pressure response charts
+
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ## Video
 
