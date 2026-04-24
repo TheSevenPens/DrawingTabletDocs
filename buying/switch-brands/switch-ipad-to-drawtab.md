@@ -32,6 +32,16 @@ Based on the people who have asked me about moving from an iPad to a drawing tab
 
 For most people, the drawing tablet choice will be between pen tablets and pen displays. They use the same technology but using them is very different in some ways. If you want more information on how they differ go here: [Pen tablets vs pen displays](../pen-tablets-vs-pen-displays.md).
 
+## Recommendations
+
+If you want to jump straight to the recommendations then go here: [recommendations](../../recs/)
+
+However, I highly suggest you continue reading so that you are better prepared to understand the recommendations.
+
+## Buying guide
+
+This document gives you a lot of overview and things to think about. If you want to go deeper then look at the [buying guide](../).
+
 ## Why switch?
 
 The most common reasons people move from an iPad to a drawing tablet are as follows:
@@ -94,15 +104,59 @@ As of 2026, the iPad still has the least amount of parallax I've ever seen in an
 
 ### Anti-glare sparkle (pen displays and standalone)
 
-Pen displays have treatments to avoid glare, and these create an effect called anti-glare sparkle. It's a rainbow sparkle effect that you see on the glass. Some pen displays have very little of it, and some have a lot. iPads have almost none of this, so this is something you are likely to encounter with a pen display. How much, again, will depend on the specific pen display you're thinking about. This is another situation where using a pen display first before you buy is a really good idea.
+Pen displays have treatments to avoid glare, and these create an effect called anti-glare sparkle. It's a rainbow sparkle effect that you see on the glass. Some pen displays have very little of it, and some have a lot. iPads have almost none of this, so this is something you are likely to encounter with a pen display. How much, again, will depend on the specific pen display you're thinking about. This is another situation where using a pen display first before you buy is a really good idea. more here: [anti-glare sparkle](../../guides/pen-displays/ag-sparkle.md)
 
 ### Applications&#x20;
 
 Whether you're using macOS or a Windows PC with a pen display, the ecosystem of applications that's available is ultimately quite different from what you're used to on an iPad.
 
-The most common specific thing that iPad users tend to want is to use Procreate on their desktop computer. As of 2026, Procreate is only available on iPads, though we do expect Procreate to be available on macOS in 2027 or 2028. We have no expectation or timeline for Procreate being available on Windows. If you're going to use Windows, there is an application called StylusX, which is a Procreate clone for Windows - you should definitely investigate this if Procreate is important for you.
-
 And in general, you should be clear on which apps are going to be available on the operating system you're going to use a pen display with.
+
+Go here to explore what apps are avaialable: [apps](../../apps/)
+
+### Procreate
+
+Procreate deserves special attention
+
+The most common specific thing that iPad users tend to want is to use Procreate on their desktop computer.&#x20;
+
+**Procreate on MacOS**
+
+* As of 2026, Procreate is only available on iPads, though we do expect Procreate to be available on macOS in 2027 or 2028. We have no expectation or timeline for Procreate being available on Windows.&#x20;
+
+**Procreate Alternatives for MacOS**
+
+* I've never tried it, but some people like Art Studio Pro
+
+**Procreate Alternatives for Windows**
+
+If you're going to use Windows, there is an application called [StylusX](../../catalog/apps/procreate.md), which is a Procreate clone for Windows - you should definitely investigate this if Procreate is important for you.
+
+Procreate Alternatives for Android
+
+* [HiPaint](../../catalog/apps/hipaint.md) - very very similar to Procreate
+* [Infinite painter](../../catalog/apps/infinite-painter.md) - somewhat similar
+
+## Touch
+
+IPads and iPad apps have terrific touch support - the best in the industry in my opinion.
+
+Naturally you will want to understand if touch is supported if you switch to a drawing tablet.
+
+Touch support is not as widespread in drawing tablets
+
+* pen tablets (screenless tablets) - extremely rare that they have touch and touch does not work wrll
+* pen displays (screen tablets) - Somewhat-common on modern professional pen displays. However, the hardware is not enough. How well touch works depends on the OS.
+  * Windows has GREAT touch support
+  * MacOS - touch does not work well - not as good as Windows - and certainly if you were hoping for an 'iPad-like" experience then you are not going to get it.
+
+### Included pens
+
+iPads do not come with an pen (an Apple Pencil). The good news is that drawing tablets come with a pen.
+
+* pen tablets - always come with a pen
+* pen displays - always come with a pen
+* standalone - almost always come with a pen
 
 ### Connecting the drawing tablet to a computer
 
