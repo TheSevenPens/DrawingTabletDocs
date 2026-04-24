@@ -37,7 +37,27 @@ This is when you want a general-purpose mobile device, but also want decent pen 
   * Apple iPads can play the role of a drawing tablet very well. Do keep in mind, the Apple Pencil does not come with an iPad so you will have to purchase the pencil separately.
 * Samsung Galaxy Tab S devices - [Samsung Galaxy Tab S series notes](../catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md)
   * As an alternative to the Apple ecosystem, the Samsung Galaxy Tab S series of tablets is compelling. One great advantage of the Galaxy Tab S series is that they come with the Samsung S pen. So that keeps the cost down.
-  * There are lots of models and they vary in sizde and cost.
+  * There are lots of models and they vary in size and cost.
+
+## Pay attention to support lifetime and android updates
+
+When you get an Android device, it comes with a version of Android OS. Over time two things will happen:
+
+* New versions of Android OS will be launched. These new versions might have more features or improve security.
+* Applications you are using now on your android might stop supporting older versions of Android OS
+
+So ideally, an android device you buy will keep getting Android updates after you purchase it. However, as you will see this depends on the specific brand and device
+
+* **Samsung** - does a GREAT job. They provide Android OS updates to their Samsung Galaxy Tab S series for 7 years.
+* **Wacom** - has said they will provide an Android OS update to their MovinkPad series. But as of April 2026 - there is no date for an update. Nor have they specifically committed to future updates.
+* **XP-Pen** - is explicitly not providing Android OS updates
+* **Huion** - I don't know what their story is.&#x20;
+
+**How big a problem is the lack of updates?**
+
+I think it depends on your needs and expectations. If you want a device to last a long time - we need these updates - especially if you intend to use the device as a general purpose mobile device and not just for drawing & sketching. On the other hand if you are using the device only for drawing this might be OK.
+
+If you want to play it safe - get an Samsung Galaxy Tab S. The drawing experience is OK, it works great as a generic mobile device, and you'll get udpates for a long time.
 
 ## Avoid
 
