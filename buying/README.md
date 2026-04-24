@@ -18,7 +18,7 @@ The most fundamental choice is the kind of drawing tablet you want:
 
 * **pen tablet** - does NOT have a screen and requires a computer to use
 * **pen display** - has a screen and requires a computer to use
-* **standalone tablet -** has a screen and can be used by itself without being connected to a computer. There are several distinct types of standalone tablets.
+* **standalone tablet** - has a screen and can be used by itself without being connected to a computer. There are several distinct types of standalone tablets.
 
 Before you continue, read this: [Types of drawing tablets](../basics/drawtab-types/). It will help you understand the options and how much they cost.
 
@@ -28,7 +28,7 @@ Your selection of a tablet will go faster if you are clear on the following ques
 
 * Which type of drawing tablet do you want
 * How much you are willing to spend
-* What is your intended usage scenario. If multiple scenarios apply, rank them.
+* Your intended usage scenario. If multiple scenarios apply, rank them.
   * Artistic - painting, drawing
   * Utility - note-taking, whiteboarding, creating educational materials
   * Gaming
@@ -64,12 +64,12 @@ If you decide on Wacom and want a pen tablet, read this guide: [Wacom pen tablet
 
 * **Tablet size** - Size has a BIG impact on the ergonomics of using the tablet, and different sizes serve different user needs. This guide on [Choosing the right size for a drawing tablet](choosing-size.md) will help you find a size that works for you.
 * **The pen** (also called a stylus) is how you provide input to the tablet. All drawing tablets come with a pen. Some pro tablets come with two pens. You have to PAY ATTENTION TO THE PEN. The pen controls how well pressure works — not the tablet.
-* **Pen pressure handling -** The pen can detect how much pressure you are applying to its tip. All drawing tablet pens sense pressure. More info: [Pen pressure](../core/pressure/). There are some aspects of pressure you need to be aware of.
+* **Pen pressure handling** - The pen can detect how much pressure you are applying to its tip. All drawing tablet pens sense pressure. More info: [Pen pressure](../core/pressure/). There are some aspects of pressure you need to be aware of.
   * **Initial Activation Force (IAF)** is the smallest pressure that activates the pen. In general, you want a pen with a low IAF. For details on what IAF values are good, bad, etc., go here: [IAF](../core/pressure/iaf.md)
   * The **Maximum Physical Pressure** is the most pressure the pen can detect.
   * The **Physical Pressure Range** is the difference between the maximum pressure and the IAF. You want a wide enough pressure range because it makes pressure easier to control. For details on what is good or bad for pressure range, go here: [Pen pressure range](../core/pressure/pen-pressure-range.md)
   * **Pressure levels** - the physical pressure range is divided into segments; each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 levels, and 99.9% have 8192 or more. You don't need to worry about the number of pressure levels when selecting a tablet. Every tablet on the market has enough.
-* **Pen Tilt Detection -** the tablet can detect the tilt of the pen to adjust brush strokes, which can be very useful for certain kinds of artwork. But some people don't use tilt at all, and tilt is not useful for note-taking or whiteboarding. Almost all modern tablets support tilt, with fewer than a handful of exceptions. More here: [Pen tilt](../core/pen-tilt/).
+* **Pen tilt detection** - the tablet can detect the tilt of the pen to adjust brush strokes, which can be very useful for certain kinds of artwork. But some people don't use tilt at all, and tilt is not useful for note-taking or whiteboarding. Almost all modern tablets support tilt, with fewer than a handful of exceptions. More here: [Pen tilt](../core/pen-tilt/).
 * **Digitizer resolution -** This is how accurately the tablet can sense different pen positions — in other words, its ability to detect very tiny position changes. Most tablets have a reported resolution of 5080 LPI (lines per inch), which translates to 200 lines per mm. Wacom tech is superior here, but if you are drawing you will not notice the difference. You don't need to worry about this spec. All modern tablets have enough resolution.
 
 ## **Things to watch out for**
@@ -97,7 +97,7 @@ Read more here:
 
 ## Pen display features
 
-* **Display resolution** - Choosing the [Display resolution](../guides/pen-displays/display-resolution.md).
+* **Display resolution** - Learn how to choose the [display resolution](../guides/pen-displays/display-resolution.md).
 * **Brightness** - Pen displays are bright but not as bright as some other displays you may be familiar with. More here: [Brightness](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent gap between the physical tip of the pen and where the computer thinks the tip is. Some people are more sensitive to this than others. Learn more here: [Parallax](../guides/pen-displays/parallax.md).
 * **Lamination** - Lamination reduces parallax. I highly recommend getting a pen display that has lamination. Learn more here: [Lamination](../guides/pen-displays/lamination.md)
@@ -108,14 +108,14 @@ Read more here:
 
 ### **Cables that come with the tablet**
 
-* Pen tablets - ALWAYS come with a USB cable to connect your computer to your tablet. Usually it is a USB-A to USB-C cable.
+* Pen tablets - always come with a USB cable to connect your computer to your tablet. Usually it is a USB-A to USB-C cable.
 * Pen displays - there are different ways to connect a pen display. A pen display will come with cables to support at least one of these methods, but if you want to connect a different way you may need to buy additional cables.
 
 ### Wireless
 
-**ALL pen tablets** can be connected with a single USB cable. Most pen tablets also support wireless connectivity, usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Make sure you know which one you are buying.
+**All pen tablets** can connect with a single USB cable. Most pen tablets also support wireless connectivity, usually via Bluetooth. **Be aware** that many tablet models have wireless and non-wireless versions with slightly different names and model numbers. Make sure you know which one you are buying.
 
-**ALL pen displays** require at least one cable connected to your computer.
+**All pen displays** require at least one cable connected to your computer.
 
 ### <mark style="color:red;">Understand connection options BEFORE YOU BUY</mark>
 
@@ -124,10 +124,10 @@ It is a common mistake to buy a pen display and then realize you have no way to 
 To keep it simple:
 
 * Understand what cables come with the tablet
-* Understand which cables from the tablet go where
+* Understand where each cable from the tablet goes
   * Pen tablets - straightforward: a cable goes from the pen tablet to the computer. Some pen tablets also support wireless connection.
   * Pen displays - more complicated: there are many connection options. Sometimes it can be done with one cable, sometimes two or three, sometimes special cables. It may require multiple ports on your computer, ports that meet specific requirements, or additional power from an adapter. There are many things to verify.
-  * Standalone - these only need to be connected to power occasionally.
+  * Standalone tablets - these only need to be connected to power occasionally.
 
 More here:
 
@@ -151,7 +151,7 @@ More here: [Operating systems](../guides/platforms/)
 * **Arm mounting** - Pen displays are essentially monitors, and many (but not all) have a VESA mount on the back. This lets you keep the pen display out of the way when not in use and pull it close when you want to draw. Pen tablets have no built-in mounting capability. See: [Monitor arms](../catalog/accessories/arms/)
 * **Legs** - Many pen displays (but not all) have foldable legs on the back, which lets you prop the display at a slight angle on your desk for easier viewing and drawing. Pen tablets do not have legs; if you want to angle one, you will need to find another solution.
 * **Right-handed vs left-handed use** - All drawing tablets work for both right-handed and left-handed users. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet for left-handed use. See [Handedness of drawing tablets](../guides/ergonomics/handedness.md).
-* **Noise** - You may have strong preferences about **noise**. Drawing tablets are generally very quiet, and some are completely silent. More details here: [Drawing tablet buying guide](./#noise)
+* **Noise** - You may have strong preferences about **noise**. Drawing tablets are generally very quiet, and some are completely silent. More here: [Noise](../guides/ergonomics/noise.md)
 * **Heat** - Drawing tablets run at roughly room temperature or slightly warm, depending on the type. More here: [Heat](../guides/ergonomics/heat.md)
 
 ## Use Cases
@@ -199,13 +199,13 @@ Drawing tablets have been released over many years, so when you shop online you 
     * These are the X3 Elite, X3 Roller, and X3 Pro
   * Huion: Look for tablets that use more recent Huion PenTech versions:
     * PenTech 3.0: PW517, PW515, PW110
-    * PenTech 3.0+: PW550, PW550S - in my research these are clearly better pens than PenTech 3.0, and in terms of pressure range they are as good as PenTech 4.0.
+    * PenTech 3.0+: PW550, PW550S - in my research, these are clearly better pens than PenTech 3.0, and in terms of pressure range they are as good as PenTech 4.0.
     * PenTech 4.0: PW600, PW600S. The PenTech 4.0 pens are better than the PenTech 3.0 pens.
     * More here: [Huion pens](../catalog/pens/huion-pens/)
 
 ## Preparing for a drawing tablet
 
-* **Troubleshooting -** At some point, something is going to go wrong. I highly suggest familiarizing yourself with [Common problems](../troubleshoot/common-drawtab-problems.md) and these [Troubleshooting](../troubleshoot/).
+* **Troubleshooting** - At some point, something is going to go wrong. I highly suggest familiarizing yourself with [Common problems](../troubleshoot/common-drawtab-problems.md) and the [Troubleshooting](../troubleshoot/) docs.
 * **Accessories** - There are some useful accessories for tablets. More here: [Accessory links](../catalog/accessories/)
 * **Purchasing** - Before you purchase, go through this [Buying tips](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [Getting started with a drawing tablet](../basics/getting-started.md)
