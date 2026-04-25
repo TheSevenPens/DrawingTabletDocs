@@ -41,7 +41,7 @@ Things to be aware of
 
 It comes with the PW600L pen. It has excellent pressure range. The PWG00L does does not have an eraser like the other PW600 pen models.
 
-More here: [Huion PW600 series pens](../../../pens/huion-pens/huion-pw600-notes.md)
+More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 ## Compatible pens
 
@@ -51,7 +51,7 @@ The PenTech 4.0 pens work with it. I tested these three:
 * PW600
 * PW600S
 
-More here: [Huion PW600 series pens](../../../pens/huion-pens/huion-pw600-notes.md)
+More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 ## Drawing experience
 
@@ -94,7 +94,7 @@ TYPICAL for a pen display. The pointer lag did not interfere with my drawing in 
 
 RATING: GOOD. Low amount of diagonal wobble.
 
-<figure><img src="../../../../.gitbook/assets/image-000169.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000169.png" alt=""><figcaption></figcaption></figure>
 
 ## Display
 
@@ -147,13 +147,13 @@ The tablet can connect to your computer with a single USB-C cable. If more power
 
 HOWEVER: The tabler DOES NOT come with these cables. You'll have to order them separately.
 
-<figure><img src="../../../../.gitbook/assets/image-000647 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000647 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3-in-1 cable connection
 
 The tablet comes with a 3-in-1 cable if you need to use an HDMI port with your computer.
 
-<figure><img src="../../../../.gitbook/assets/image-000648.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000648.jpg" alt=""><figcaption></figcaption></figure>
 
 ## VESA
 
@@ -197,10 +197,10 @@ The dials stick out a little bit from the edge of the tablet. Be aware of this w
 The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331) and is even mostly an upgrade from the Kamvas Pro 13 2.5K (GT1302).
 
 * The GS1333 uses PW600L pen is much better than the PW517 pen that comes with the other two tablets.
-  * The PW600L has a slightly better IAF (Huion states 2gf) and a wider pressure range. [Huion PW600 series pens](../../../pens/huion-pens/huion-pw600-notes.md).
-  * The PW517 has a standard IAF (Huion states 2gf) and it's pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [Huion PW517 pen notes](../../../pens/huion-pens/huion-pw517-notes.md).
+  * The PW600L has a slightly better IAF (Huion states 2gf) and a wider pressure range. [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md).
+  * The PW517 has a standard IAF (Huion states 2gf) and it's pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md).
 * The GS1333 has much less anti-glare sparkle than the GS1333 and GS1331.
-* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)).
+* The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use 3rd party USB-C cables. (See [Connecting a pen display with USB-C](../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)).
 * The addition of the dials to the GS1333 makes it easier to work without having to touch the keyboard.
 
 **Which one to get**

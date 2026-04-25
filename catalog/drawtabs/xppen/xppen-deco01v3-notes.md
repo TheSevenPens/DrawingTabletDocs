@@ -24,7 +24,7 @@ Other users say they have used this tablet with an Android device and it worked 
 
 ### Included pen
 
-XP-Pen P05 - [XP-Pen P05 pen notes](../../../pens/xppen-pens/xppen-p05-notes.md)
+XP-Pen P05 - [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
 
 The included P05 pen has exactly the same as the old model and has the same high IAF.
 
@@ -38,18 +38,18 @@ Other users have reported that it does work well with Android.
 
 ## Better alternatives
 
-A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../../recs/pen-tablet-recs-medium.md)
+A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/image-000114.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000114.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000115.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000115.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000116.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000116.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000119.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000119.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000117.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000117.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000118.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000118.jpg" alt=""><figcaption></figcaption></figure>

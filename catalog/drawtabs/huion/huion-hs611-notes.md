@@ -6,9 +6,9 @@ This is a slightly older Huion model from 2019 but is still a decent drawing tab
 
 If you get it, then it will work fine. But you should consider the newer Huion pen tablets at the same price point as the HS611.
 
-<figure><img src="../../../../.gitbook/assets/image-000216.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000216.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000211.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000211.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Links**
 
@@ -29,7 +29,7 @@ This tablet has a 16:10 aspect ratio.
 
 ## **Pen**
 
-The tablet uses he the slightly older PW500 pen. For more details about the pen, see [Huion PW500 pen notes](../../../pens/huion-pens/huion-pw500-notes.md)
+The tablet uses he the slightly older PW500 pen. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md)
 
 ## **Build quality & design**
 
@@ -37,11 +37,11 @@ The HS611 has a very simple design. No complaints, though it lacks the refined l
 
 It is also available in several colors (Space Grey, Starr Blue, and Coral Red). I have the Space Grey version.
 
-<figure><img src="../../../../.gitbook/assets/image-000212.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000212.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 There is one cool aspect of its design. Unlike the vast majority of tablets, this one has regions with a slighted speckled pattern. This adds a bit of visual distinction.
 
-<figure><img src="../../../../.gitbook/assets/image-000215.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000215.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Surface texture**
 
@@ -60,7 +60,7 @@ The 10 buttons are in 2 groups of 5.
 
 Each group of five s some raised symbols on the buttons to help you identify the buttons by touch alone and without looking.
 
-<figure><img src="../../../../.gitbook/assets/image-000213.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000213.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Auxiliary inputs > touch controls**
 
@@ -68,7 +68,7 @@ Each group of five s some raised symbols on the buttons to help you identify the
   * One is a slider that can be configured to adjust zoom, brush size, or vertical scrolling
   * The rest control media-related features
 
-<figure><img src="../../../../.gitbook/assets/image-000638.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000638.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Both the buttons and the touch-sensitive controls can be turned off in the dricer.
 
@@ -100,4 +100,4 @@ Very good. Even when drawing at very low amount of pressure with a very large br
 
 It exhibits some diagonal wobble. The wobble is most noticable at slower speeds. In practice when I draw i did not notice this much. Adding a little bit of brush smoothing controlled it.
 
-<figure><img src="../../../../.gitbook/assets/image-000168.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000168.png" alt=""><figcaption></figcaption></figure>

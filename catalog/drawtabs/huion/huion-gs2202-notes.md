@@ -32,12 +32,12 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 
 ### Included pen
 
-* PW517 - [Huion PW517 pen notes](../../../pens/huion-pens/huion-pw517-notes.md)
+* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
 
 ### Compatible pens
 
-* PW517 - [Huion PW517 pen notes](../../../pens/huion-pens/huion-pw517-notes.md)
-* PW550 - [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
+* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
+* PW550 - [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 * PW550S
 
 ## Display experience
@@ -72,7 +72,7 @@ For digital art I prefer to work in a smaller color gamut of 100% sRGB.
 
 Unfortunately, unlike other pen displays this tablet does not have way to force it into a smaller color gamut. No options were present in the OSD or the driver.
 
-For reducing the gamut, you could use other techniques: [Clamping wide-gamut displays to sRGB](../../../../guides/customizing/clamping-to-srgb.md).
+For reducing the gamut, you could use other techniques: [Clamping wide-gamut displays to sRGB](../../../guides/customizing/clamping-to-srgb.md).
 
 In my case, I just left it the way it was and did not try anything to clamp the range.
 
@@ -93,7 +93,7 @@ TYPICAL. Normal for a pen display.
 
 GOOD. Pointer has only very minor displacement when pen tilted at 45 degrees.
 
-<figure><img src="../../../../.gitbook/assets/image-000550.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000550.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Parallax**
 
@@ -101,13 +101,13 @@ GOOD - low.
 
 ## Auxiliary inputs
 
-**NONE**. So, I use keyboard shorts with this device: [TourBox](../../../accessories/auxiliary-input-devices/tourbox/)
+**NONE**. So, I use keyboard shorts with this device: [TourBox](../../accessories/auxiliary-input-devices/tourbox/)
 
 ## **Diagonal wobble**
 
 very good. has extremely low wobble.
 
-![](<../../../../.gitbook/assets/image-000220 (1).png>)
+![](<../../../.gitbook/assets/image-000220 (1).png>)
 
 ## Ergonomics
 
@@ -149,10 +149,10 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 For this case you use the included proprietary 3-in-1 cable.
 
-<figure><img src="../../../../.gitbook/assets/image-000450.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000450.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Connecting with USB-C for video signal**
 
 For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data.
 
-<figure><img src="../../../../.gitbook/assets/image-000451.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000451.png" alt="" width="563"><figcaption></figcaption></figure>

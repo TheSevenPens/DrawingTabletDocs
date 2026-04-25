@@ -41,7 +41,7 @@ There are two versions of this tablet. They are exactly the same tablet but diff
 
 ### Comparison to other pen tablets
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ## Pens
 
@@ -52,7 +52,7 @@ Compatible pens:&#x20;
 * X3 Elite
 * X3 Elite Plus
 
-See this for more details about the pen: [XP-Pen X3 Elite](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Drawing experience
 
@@ -62,10 +62,10 @@ IAF - subjectively around 3gf
 
 Max physical pressure - surprisingly good&#x20;
 
-See this for more details about the pen: [XP-Pen X3 Elite](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ### Diagonal wobble
 
 Rating: GOOD (LOW amount of diagonal wobble)
 
-<figure><img src="../../../../.gitbook/assets/image-000750.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000750.png" alt=""><figcaption></figcaption></figure>

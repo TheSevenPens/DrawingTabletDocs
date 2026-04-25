@@ -8,7 +8,7 @@ This was a quick write up of this tablet that is missing a lot of details.
 
 This tablet as decent drawing performance but suffers from extreme anti-glare sparkle. Many users are put off by it. More details below.
 
-If you are going to get this tablet consider: [Upgrading from PW517 to PW550](../../../pens/huion-pens/upgrading-pw517-to-pw550.md)
+If you are going to get this tablet consider: [Upgrading from PW517 to PW550](../../pens/huion-pens/upgrading-pw517-to-pw550.md)
 
 In all other ways besides the AG sparkle, I was satisfied with this tablet.
 
@@ -26,7 +26,7 @@ The only issue with this tablet is that it exhibits <mark style="color:red;">**t
 
 I'm not even typically sensitive to anti-glare sparkle. I can tolerate a lot of it. It took me several weeks to adjust to adjust to this. I mostly don't mind it now. Some of you will surely hate the amount of sparkle, and mainy people complain about this model for this reason.
 
-More here: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
+More here: [Anti-glare sparkle](../../../guides/pen-displays/ag-sparkle.md)
 
 ## **Connections and cabling**
 

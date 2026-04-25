@@ -14,7 +14,7 @@ I have this tablet but haven't used it extensively. Overall seemed like a decent
 
 ## Pen
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
@@ -25,15 +25,15 @@ Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. M
 
 ## Diagonal wobble
 
-<figure><img src="../../../../.gitbook/assets/image-000176 (1).png" alt="" width="375"><figcaption><p>Diag Wobble XP-Pen Artist 12 GEN2 (CD120FH)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000176 (1).png" alt="" width="375"><figcaption><p>Diag Wobble XP-Pen Artist 12 GEN2 (CD120FH)</p></figcaption></figure>
 
 Compare to the Artist 13 GEN2
 
-<figure><img src="../../../../.gitbook/assets/image-000178.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000178.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Pen pressure range <a href="#pressure-range" id="pressure-range"></a>
 
-See: [XP-Pen X3 Elite pen notes](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+See: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Pointer lag <a href="#pointer-lag" id="pointer-lag"></a>
 

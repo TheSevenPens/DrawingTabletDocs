@@ -210,7 +210,7 @@ Wacom lists this stand as an accessory: **Wacom Foldable Stand (ACK652Z)**
 
 ## Similar devices in the same price range
 
-* XP-Pen Magic Drawing Pad 2025 (MDP1221) ([XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](../../xppen/xppen-standalone/xppen-mdp1221-notes.md))
+* XP-Pen Magic Drawing Pad 2025 (MDP1221) ([XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](../../xppen/xppen-mdp1221-notes.md))
 * Samsung Galaxy Tab S9FE
 
 See this video for basic comparison of the MovinkPad to these other tablets

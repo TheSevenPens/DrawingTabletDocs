@@ -24,7 +24,7 @@ For this you want high reliability and durability and you DO NOT need to spend a
 
 **Pen displays (have a screen)**
 
-* Huion Kamvas 13 GEN3 (GS1333) - [Huion Kamvas 13 GEN3 (GS1333) notes](../../catalog/drawtabs/huion/huion-pen-displays/huion-gs1333-notes.md)
+* Huion Kamvas 13 GEN3 (GS1333) - [Huion Kamvas 13 GEN3 (GS1333) notes](../../catalog/drawtabs/huion/huion-gs1333-notes.md)
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)
 * Wacom One 2019 (DTC-133) - [Wacom One 2019 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)

@@ -51,7 +51,7 @@ Moderate (maybe on the low end). Noticeable if you put your eyes close. At a nor
 
 ## Auxiliary inputs
 
-It has no buttons, dials, etc. So, I use a TourBox device. More here: [TourBox](../../../accessories/auxiliary-input-devices/tourbox/)
+It has no buttons, dials, etc. So, I use a TourBox device. More here: [TourBox](../../accessories/auxiliary-input-devices/tourbox/)
 
 ## **Texture**
 
@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](<../../../../.gitbook/assets/image-000222 (2).png>)
+![](<../../../.gitbook/assets/image-000222 (2).png>)
 
 ## Connections and cabling
 
@@ -84,7 +84,7 @@ Wobble is minor and only noticeable in very slow strokes.
 * 2x USB-A ports on right side
 * Headphone jack on right side
 
-<figure><img src="../../../../.gitbook/assets/image-000383.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000383.png" alt=""><figcaption></figcaption></figure>
 
 ## How I connect it
 

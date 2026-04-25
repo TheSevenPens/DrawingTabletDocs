@@ -22,9 +22,9 @@
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/image-000040.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000040.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000041.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000041.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Core specs
 
@@ -63,7 +63,7 @@
 ## Included pen
 
 * The tablet comes with a single pen: X3 Pro Stylus.
-* See [XP-Pen X3 Pro pens](../../../pens/xppen-pens/xppen-x3propen-notes.md).
+* See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
 * I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
 
 ## Compatible pens
@@ -97,7 +97,7 @@ It is compatible with other pens in the X3 pro series. I tested with all of the 
 
 Photos may not capture it, but the display is slightly "soft" like what I saw in the Kamvas Pro 19. The Artist Pro19 GEN2 and Cintiq Pro 22 are a bit sharper. It is NOT blurry just a little softer. This is likely due to the anti-glare treatment.
 
-<figure><img src="../../../../.gitbook/assets/image-000662.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000662.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Display Performance on macOS
 
@@ -134,7 +134,7 @@ On par with Cintiq Pro 22 and with Huion Kamvas Pro 19.
 
 EXCELLENT - I didn't see the pointer shift much at all as I tilted in different directions
 
-<figure><img src="../../../../.gitbook/assets/image-000661.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000661.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pressure scan rate testing
 
@@ -146,11 +146,11 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 * Rating: VERY GOOD - very low amounts of diagonal wobble.
 * On par with the Huion Kamvas Pro 19 and the Wacom Cintiq Pro 22
 
-<figure><img src="../../../../.gitbook/assets/image-000181.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000181.png" alt=""><figcaption></figcaption></figure>
 
 ## Ports
 
-<figure><img src="../../../../.gitbook/assets/image-000663.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000663.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Connections and cabling
 
@@ -169,11 +169,11 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 
 It can be connected with USB-C cable to your computer, This USB-C cable should be either the full-featured USB-C cable that came with the tablet or you can use a Thunderbolt 3 or Thunderbolt 4 cable.
 
-<figure><img src="../../../../.gitbook/assets/image-000460.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000460.png" alt="" width="375"><figcaption></figcaption></figure>
 
 You can also connect it with HDMI and USB if needed
 
-<figure><img src="../../../../.gitbook/assets/image-000461.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000461.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 3-in-1 cable
 
@@ -210,4 +210,4 @@ This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3
 
 ### What comes in the box
 
-<figure><img src="../../../../.gitbook/assets/image-000463.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000463.png" alt=""><figcaption></figcaption></figure>

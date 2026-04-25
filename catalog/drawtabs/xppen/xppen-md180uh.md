@@ -42,7 +42,7 @@ The tablet comes with two pens
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 
-See [XP-Pen X3 Pro pens](../../../pens/xppen-pens/xppen-x3propen-notes.md).
+See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
 
 ## Compatible pens
 
@@ -66,7 +66,7 @@ Pixels are relatively clear and well delineated.
 
 The look is clearly sharper than the Huion Kamvas Pro 19 which has a soft look that some people don't like.
 
-<figure><img src="../../../../.gitbook/assets/image-000646.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000646.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Design
 
@@ -115,7 +115,7 @@ OK. Minor displacement at 45deg
 * Pen vertical -> \~1 mm displacement
 * Pen tilted right -> \~0 mm displacement
 
-<figure><img src="../../../../.gitbook/assets/image-000644.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000644.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Pressure scan rate testing
 
@@ -133,7 +133,7 @@ Rating: GOOD low amounts of diagonal wobble.
 * About the same as the Huion Kamvas 13 GEN3
 * About the same as the XP-Pen Artist 22 Plus
 
-<figure><img src="../../../../.gitbook/assets/image-000179.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000179.png" alt=""><figcaption></figcaption></figure>
 
 ### Surface texture
 
@@ -157,17 +157,17 @@ The XP-Pen Artist Pro 19 GEN2 has an amount of surface texture that is
 
 ### USB-C connection options
 
-<figure><img src="../../../../.gitbook/assets/image-000530.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000530.png" alt=""><figcaption></figcaption></figure>
 
 ### HDMI connection options
 
-<figure><img src="../../../../.gitbook/assets/image-000531.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000531.png" alt=""><figcaption></figcaption></figure>
 
 ### How I connected it
 
 I tested both the configurations below with my M3 MacBook Pro and a Surface Pro 8
 
-<figure><img src="../../../../.gitbook/assets/image-000645.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000645.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Ergonomics
 

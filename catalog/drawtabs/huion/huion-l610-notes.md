@@ -45,7 +45,7 @@ In terms of paper sizes this is about the size of an A5 sheet of paper which has
 
 16:10 - which is common drawing tablets
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000441.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000441.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **Build quality and design** <a href="#build-quality-and-design" id="build-quality-and-design"></a>
 
@@ -65,7 +65,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 * Comes with the Huion PW550S pen.
 * Default nib: felt.
   * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
-* More here: [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
+* More here: [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Other compatible pens
 
@@ -75,7 +75,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 * **IAF** - The specific pen I had seemed to have a typical IAF (I am not good at measuring) for a Huion PenTech 3.0+ pen. It seemed to be near 3gf as Huion stated.
 * **Max pressure** - The max pressure of the PW550S that came with the tablet was very high - about 735gf.
-* More here: [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
+* More here: [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Pointer lag
 
@@ -117,7 +117,7 @@ Has a nice amount of surface texture.
 
 EXCELLENT - almost no perceptible diagonal wobble.
 
-<figure><img src="../../../../.gitbook/assets/image-000167.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000167.png" alt=""><figcaption></figcaption></figure>
 
 ## Recommended pressure curve
 
@@ -164,7 +164,7 @@ All the devices listed below worked well with the Frego.
 
 The Frego M tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
 
-<figure><img src="../../../../.gitbook/assets/image-000446.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000446.png" alt=""><figcaption></figcaption></figure>
 
 **Aspect ratio mapping**
 
@@ -176,7 +176,7 @@ NOTE: What I describe below is an interaction between Android and applications. 
 
 Android apps seem inconsistent with how they show cursors. I will contact the creators of these apps and suggest how they should work. Which in my opinion should be: (1) on hover, show the brush outline (2) while drawing show the brush outline.
 
-<figure><img src="../../../../.gitbook/assets/image-000640.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000640.jpg" alt=""><figcaption></figcaption></figure>
 
 **Bluetooth pointer lag**
 
@@ -188,13 +188,13 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 ## Photos
 
-![](<../../../../.gitbook/assets/image-000028 (1).jpg>) ![](<../../../../.gitbook/assets/image-000029 (3).jpg>)
+![](<../../../.gitbook/assets/image-000028 (1).jpg>) ![](<../../../.gitbook/assets/image-000029 (3).jpg>)
 
-![](../../../../.gitbook/assets/image-000035.jpg) ![](<../../../../.gitbook/assets/image-000036 (1).jpg>)
+![](../../../.gitbook/assets/image-000035.jpg) ![](<../../../.gitbook/assets/image-000036 (1).jpg>)
 
-![](../../../../.gitbook/assets/image-000037.jpg) ![](../../../../.gitbook/assets/image-000038.jpg)
+![](../../../.gitbook/assets/image-000037.jpg) ![](../../../.gitbook/assets/image-000038.jpg)
 
-<figure><img src="../../../../.gitbook/assets/image-000030.jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000030.jpg" alt=""><figcaption><p>PW550S. I put red tape on the pen so I can track it in my inventory</p></figcaption></figure>
 
 ## Known issues
 
@@ -202,7 +202,7 @@ I paired it with android device A. But then to pair it with android device B, I 
 
 Some users report that "air bubbles" appear under the tablet surface. Sometimes these bubbles have appeared after the first day of usage and sometimes only after some time.
 
-<figure><img src="../../../../.gitbook/assets/image-000201.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000201.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 This problem is present, but does not appear super widespread. The vast majority of users don't mention any bubbles. I personally have not run into these bubbles.
 

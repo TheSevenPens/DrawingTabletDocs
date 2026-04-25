@@ -12,11 +12,11 @@ Another budget alternative is the XP-Pen Artist 13 GEN2.
 * [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) 2020-05-01
 * [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q_nhFQ) 2020-03-26
 * [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A) 2020-04-17
-* [2023 13" pen displays compared](../../../../recs/comparisons/2023-13inch-pen-displays-compared.md)
+* [2023 13" pen displays compared](../../../recs/comparisons/2023-13inch-pen-displays-compared.md)
 
 ## Included pen
 
-It comes with the PW517 pen. I recommend buying and using a PW550 instead. [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
+It comes with the PW517 pen. I recommend buying and using a PW550 instead. [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
 Display basics
 
@@ -31,7 +31,7 @@ I have removed the film and have used it by drawing on directly on its glass sur
 
 ## **Anti-glare sparkle**
 
-Exhibits moderate [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
+Exhibits moderate [Anti-glare sparkle](../../../guides/pen-displays/ag-sparkle.md)
 
 ## Connections and cabling
 
@@ -41,4 +41,4 @@ Exhibits moderate [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkl
 
 Very low
 
-![](<../../../../.gitbook/assets/image-000219 (1).png>)
+![](<../../../.gitbook/assets/image-000219 (1).png>)

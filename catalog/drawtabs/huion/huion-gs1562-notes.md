@@ -2,7 +2,7 @@
 
 ## Summary
 
-* A little bit of a dated tablet, but in 2025 it is a very good deal if you are budget constrained and can't  go for the Huion Kamvas 16 GEN3 (which is a clearly superior tablet).
+* A little bit of a dated tablet, but in 2025 it is a very good deal if you are budget constrained and can't go for the Huion Kamvas 16 GEN3 (which is a clearly superior tablet).
 * Drawing experience is pretty typical for this generation of Huion's products - works very well.
 * DO get the PW550 pen and use it instead of the PW517 pen that comes with this tablet.
 
@@ -10,7 +10,7 @@
 
 The tablet comes with the PW517 pen.
 
-As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [Huion PW550 series pens notes](../../../pens/huion-pens/huion-pw550-notes.md)
+As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Diagonal wobble
 
@@ -44,4 +44,4 @@ Low amounts of AG sparkle. You'd have to put your eyes about 4 to 5 inches from 
 
 * **Ports** - Has two recessed USB-C ports on the right side. The wells the ports are in are slightly different sizes.
 * **3-in-1 cable**. The tablet comes with a 3-in-1 cable if you need to connect it to your computer with HDMI
-* **Single USB-C connection** - This tablet DOES support being connected with a single USB-C connection. Because the port is recessed I recommend you buy Huion's fell featured USB-C cable for this tablet. Of course you will need to make sure your computer supports a single USB-C connection. More here:  [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md).&#x20;
+* **Single USB-C connection** - This tablet DOES support being connected with a single USB-C connection. Because the port is recessed I recommend you buy Huion's fell featured USB-C cable for this tablet. Of course you will need to make sure your computer supports a single USB-C connection. More here: [Connecting a pen display with USB-C](../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md).

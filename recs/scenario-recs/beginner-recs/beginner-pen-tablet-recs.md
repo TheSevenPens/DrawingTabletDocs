@@ -33,7 +33,7 @@ These tablets are very good for beginner tablets. Cost is good and I like that t
 * XP-Pen Deco M (IT850)&#x20;
 * XP-Pen Deco MW (IT850B)&#x20;
 * XP-Pen Deco L (IT1060)&#x20;
-* XP-Pen Deco LW (IT1060B) - [XP-Pen Deco LW (IT1060B) notes](../../../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-it1060b-notes.md)
+* XP-Pen Deco LW (IT1060B) - [XP-Pen Deco LW (IT1060B) notes](../../../catalog/drawtabs/xppen/xppen-it1060b-notes.md)
 
 Note: there are other "Deco" tablets from XP-Pen. In this section, I am talking exactly about the four models listed above.
 
@@ -42,7 +42,7 @@ Note: there are other "Deco" tablets from XP-Pen. In this section, I am talking 
 Try models in this family:
 
 * Huion Inspiroy Frego S (L310)&#x20;
-* Huion Inspiroy Frego M (L610) - [Huion Inspiroy Frego M (L610) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-l610-notes.md)&#x20;
+* Huion Inspiroy Frego M (L610) - [Huion Inspiroy Frego M (L610) notes](../../../catalog/drawtabs/huion/huion-l610-notes.md)&#x20;
 
 Notes
 
@@ -59,7 +59,7 @@ Known issues
 Two models in this family
 
 * Huion Inspiroy 2 M (H951P) &#x20;
-* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../../../catalog/drawtabs/huion/huion-pen-tablets/huion-h1061p-notes.md)
+* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../../../catalog/drawtabs/huion/huion-h1061p-notes.md)
 
 Notes
 
@@ -102,7 +102,7 @@ Known issue:
 Models:
 
 * XP-Pen Deco 01 V2&#x20;
-* XP-Pen Deco 01 V3 - [XP-Pen Deco 01 V3 notes](../../../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-deco01v3-notes.md)
+* XP-Pen Deco 01 V3 - [XP-Pen Deco 01 V3 notes](../../../catalog/drawtabs/xppen/xppen-deco01v3-notes.md)
 
 I am so UNIMPRESSED with these tablets. Not happy with the line quality and especially not happy with the pen P05 which has a very high IAF.
 

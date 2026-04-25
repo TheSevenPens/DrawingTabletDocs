@@ -19,19 +19,19 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* Kamvas 22 GEN3 (GS2203) - [Kamvas 22 GEN3 (GS2203) notes](../catalog/drawtabs/huion/huion-pen-displays/huion-gs2203-notes.md)
-* XP-Pen Artist Pro 22 GEN2 (MD220QH) [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-md220qh.md)
+* Kamvas 22 GEN3 (GS2203) - [Kamvas 22 GEN3 (GS2203) notes](../catalog/drawtabs/huion/huion-gs2203-notes.md)
+* XP-Pen Artist Pro 22 GEN2 (MD220QH) [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](../catalog/drawtabs/xppen/xppen-md220qh.md)
 * Xencelabs Pen Display 24 (LPH2412U-A) [Xencelabs Pen Display 24 (LPH2412U-A) notes](../catalog/drawtabs/xencelabs/xencelabs-lph2412ua.md)
 
 ## GOOD
 
-* XP-Pen Artist 22 Plus (MD220FH) [XP-Pen Artist 22 Plus (MD220FH) notes](../catalog/drawtabs/xppen/xppen-pen-displays/xppen-md220fh.md)
-* Huion Kamvas Pro 24 4K (GT2401) [Huion Kamvas Pro 24 4K (GT2401) notes](../catalog/drawtabs/huion/huion-pen-displays/huion-gt2401-notes.md)
+* XP-Pen Artist 22 Plus (MD220FH) [XP-Pen Artist 22 Plus (MD220FH) notes](../catalog/drawtabs/xppen/xppen-md220fh.md)
+* Huion Kamvas Pro 24 4K (GT2401) [Huion Kamvas Pro 24 4K (GT2401) notes](../catalog/drawtabs/huion/huion-gt2401-notes.md)
 * Huion Kamvas 24 Plus (GS2402)
 
 ## DECENT
 
-* Huion Kamvas 22 Plus (GS2202) [Huion Kamvas 22 Plus (GS2202) notes](../catalog/drawtabs/huion/huion-pen-displays/huion-gs2202-notes.md)
+* Huion Kamvas 22 Plus (GS2202) [Huion Kamvas 22 Plus (GS2202) notes](../catalog/drawtabs/huion/huion-gs2202-notes.md)
 * Huion Kamvas 22 (GS2201)
 * Wacom Cintiq 22 (DTK-2260). [Wacom Cintiq 22 2019 (DTK-2260) notes](../catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2260-notes.md) - excellent drawing experience. Outdated screen.
 

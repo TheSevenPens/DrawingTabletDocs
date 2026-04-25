@@ -15,8 +15,8 @@ Using a large tablet is very different from using a medium size tablet. There ar
 ## Large tablets in market as of May 2024
 
 * Intuos Pro Large (PTH-860) - [Wacom Intuos Pro 2017 (PTH-x60) notes](../../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
-* XP-Pen Deco Pro XLW (MT1592B) - [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../../catalog/drawtabs/xppen/xppen-pen-tablets/xppen-mt1592b-notes.md)
-* Huion Giano (G930L) - [Huion Inspiroy Giano (G930L) notes](../../catalog/drawtabs/huion/huion-pen-tablets/huion-g930l-notes.md)
+* XP-Pen Deco Pro XLW (MT1592B) - [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../../catalog/drawtabs/xppen/xppen-mt1592b-notes.md)
+* Huion Giano (G930L) - [Huion Inspiroy Giano (G930L) notes](../../catalog/drawtabs/huion/huion-g930l-notes.md)
 
 ## Ranking
 

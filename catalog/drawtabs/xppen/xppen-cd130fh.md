@@ -12,7 +12,7 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 
 ## Pen
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
@@ -28,7 +28,7 @@ EXCELLENT. very little wobble. at all stroke speeds.
 
 These are 10cm lines - each drawn over 4 seconds. V
 
-<figure><img src="../../../../.gitbook/assets/image-000312.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000312.png" alt=""><figcaption></figcaption></figure>
 
 ### Anti-glare sparkle <a href="#anti-glare-sparkle" id="anti-glare-sparkle"></a>
 
@@ -50,7 +50,7 @@ These things worked well
 
 ## Pen pressure range <a href="#pressure-range" id="pressure-range"></a>
 
-See: [XP-Pen X3 Elite pen notes](../../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+See: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Pointer lag <a href="#pointer-lag" id="pointer-lag"></a>
 
