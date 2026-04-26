@@ -560,7 +560,7 @@
       * [XP-Pen Pen tablets](catalog/drawtabs/xppen/xppen-pen-tablets.md "Pen tablets")
     * [Ugee](catalog/drawtabs/ugee.md)
     * [DigiDraw](catalog/drawtabs/digidraw/README.md)
-      * [DigiDraw Turing Basic M (T610)](catalog/drawtabs/digidraw/digidraw-turing-basic-m-t610.md)
+      * [DigiDraw Turing Basic M (T610)](catalog/drawtabs/digidraw/digidraw-t610-notes.md)
   * [Catalog: pens](catalog/pens/README.md "Pens")
     * [Samsung pens](catalog/pens/samsung-s-pen/README.md "Samsung")
       * [Samsung S Pen notes](catalog/pens/samsung-s-pen/samsung-s-pen-notes.md "S Pen notes")
