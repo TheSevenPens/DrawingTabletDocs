@@ -39,6 +39,16 @@ Compatible pens:
 * Looks attractive&#x20;
 * Surface pattern design is much more subtle than the photos  show. Not a problem. Just may be surprising for some people.&#x20;
 
+## Size
+
+This is a a medium size tablet - and slightly larger than the Wacom Intuos Pro 2017 Medium (PTH-660)
+
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
 ## Drawing experience
 
 ### Nib feeling
@@ -54,13 +64,13 @@ The M3 pen seems to have a typical IAF - I would estimate around 3gf. And I was 
 
 ### Drawing at low pressure
 
-* All EMR pens have their reported pressure change a bit abruptly when drawng at low pressure ear the IAF. So to does this pen, but it doesn't do so as strongly as some pens like the Wacom Pro Pen 2. As a result you probably won't need as much of a pressure curve or pressure smoothing to deal with it. Overall the pressure is well-controlled in that domain and relatively stable.
+* All EMR pens have their reported pressure change a bit abruptly when drawing at low pressure ear the IAF. So to does this pen, but it doesn't do so as strongly as some pens like the Wacom Pro Pen 2. As a result you probably won't need as much of a pressure curve or pressure smoothing to deal with it. Overall the pressure is well-controlled in that domain and relatively stable.
 
 ### Surface texture
 
 * Feel fine to draw with. Texture has enough grip to prevent pen from feeling slippery,
 * Comparisons to Wacom Pro Pen 2 on PTH-660
-  * PTH-660 has a little more texture feeling - but about the same amount of noise from the nive (but slightly lower pitched)
+  * PTH-660 has a little more texture feeling - but about the same amount of noise from the nib (but slightly lower pitched)
 
 ### Button stoke interruption
 
