@@ -105,6 +105,24 @@ NO. The tablet is not wireless and requires a USB cable to connect to a computer
 
 * Replaceable surface? No.
 
+
+
+## Driver
+
+Driver version:
+
+* I downloaded the Windows driver: DIGIDRAW Win\_V1.0 which was released on 2026-04-14
+
+Driver experience
+
+* The driver has an attractive skin than matches the digidraw branding. In terms of capabilities this version is very similar to the Huion V15 drivers.
+
+Driver issues I discovered:
+
+* MINOR ANNOYANCE
+  * The driver UI got confused which monitor whas which. I have two monitors - let's call them A and B. If I wanted to map the tablet to monitor A, I had to pick monitor B.&#x20;
+  * I tested on my standard testing machine and have never experienced this before. It is unclear what is causing it, but since I have never seen this with any other driver I lean towards this being a driver issure.&#x20;
+
 ## Usage with Android
 
 SUMMARY: Does NOT work well with Android
@@ -115,3 +133,6 @@ In all cases:
 
 * Only a vertical column on the tablet, about a third of the tablet, is usable.
 * Strokes were severely distorted on Android.
+
+
+
