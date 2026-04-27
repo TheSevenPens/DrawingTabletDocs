@@ -60,7 +60,7 @@ This is a medium-sized tablet, and it is slightly larger than the Wacom Intuos P
 
 ## Pen pressure
 
-The M3 pen seems to have a typical IAF. I would estimate it at around 3 gf. I was also very pleased with its maximum pressure, which I estimate at 500 gf.
+The M3 pen seems to have a typical IAF. I would estimate it at around 3 gf. I was also pleased with its maximum pressure - which \~350gf when I measured with a scale.&#x20;
 
 ### Drawing at low pressure
 
