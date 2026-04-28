@@ -110,10 +110,14 @@ These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the win
 * Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio.
 * The XP-Pen has legs built into the tablet for providing some angle. The Kamvas 16 GEN3 does not have any legs and instead comes with a simple stand. But for both I use a separate stand.
 
+**Known issues**
+
+* Some users (not all) report that the dials on the Kamvas 16 GEN3 and the Kamvas 13 GEN3 can become non-functional after some time. I have not personally experienced this. See the [Kamvas 13 GEN3 notes ](huion-gs1333-notes.md)for details.
+
 **What they have in common**
 
-* Both have a little bit of diagonal wobble. The wobble can be addressed with smoothing/stabilization in your drawing app. More here: [Diagonal wobble](../../../../core/diagonal-wobble.md).
-* Both can be used with a single USB-C cable if the requirements are met. [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
+* Both have a little bit of diagonal wobble. The wobble can be addressed with smoothing/stabilization in your drawing app. More here: [Diagonal wobble](../../../core/diagonal-wobble.md).
+* Both can be used with a single USB-C cable if the requirements are met. [Connecting a pen display with USB-C](../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
 
 ## Surface texture
 
