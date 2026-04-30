@@ -2,7 +2,9 @@
 
 ## Overview
 
-This is OK tablet that despite being released in 2025, uses an older generation of technology.
+This is OK tablet that despite being released in 2025, uses an older generation of pen technology that has a higher IAF than modern consumer tablets.
+
+A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
 
 ## Basics
 
@@ -28,13 +30,9 @@ XP-Pen P05 - [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
 
 The included P05 pen has exactly the same as the old model and has the same high IAF.
 
-## Using with Android
+### Other compatible pens
 
-XP-Pen says this tablet will work with android devices.
-
-However, my initial attempt at using this tablet with my android devices were unsuccessful. Despite using the XP-Pen companion android app, while the android device did recognize the tablet, all drawing was heavily distorted. I'm not sure if I did something wrong or the fault lies elsewhere.
-
-Other users have reported that it does work well with Android.
+NONE
 
 ## Better alternatives
 
