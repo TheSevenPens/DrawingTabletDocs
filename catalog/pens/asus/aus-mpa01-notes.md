@@ -1,13 +1,17 @@
 # ASUS ProArt Pen (MPA01) notes
 
+## Overview
+
 This is a basic UD-EMR pen with a few interesting features
 
-Product page: [ASUS ProArt Pen (MPA01).](https://www.asus.com/us/displays-desktops/accessories/proart-accessories/proart-pen-mpa01/)
+## Basics
 
+* Product page: [ASUS ProArt Pen (MPA01).](https://www.asus.com/us/displays-desktops/accessories/proart-accessories/proart-pen-mpa01/)
 * Pen tech: EMR (UD EMR)
 * Buttons: 1
 * Eraser: YES
 * Tilt: YES
+* Comes with: Pen is included with the Asus ProArt Display PA169CDV pen display.&#x20;
 
 ## Surprising features for a UD EMR pen
 

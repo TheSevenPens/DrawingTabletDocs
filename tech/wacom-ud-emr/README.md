@@ -52,11 +52,17 @@ Pens that use UD EMR seem deliberately limited in how well they handle pressure.
 
 ### Buttons
 
-UD EMR pens tend to have only one button or in some cases no buttons. The Wacom CP-923 pen has two buttons- which is rare. In my experience devices that assume you are using a UD EMR pen don't make use of a second button because they are only expecting a single button.
+Most UD EMR pens have only one button or in some cases no buttons. Some, like the the Wacom CP-923 pen, have two buttons - but this is rare.&#x20;
 
-Resources
+## Resources
 
 * [Wacom: our key technologies](https://www.wacom.com/en-us/about-wacom/technologies) - brief overview of UD EMR and AES
+
+### Erasers
+
+The vast majority of UD EMR pens do NOT have an eraser.
+
+The only one I know of that does have an eraser is the Asus ProArt Pen MPA01. TMore here: [ASUS ProArt Pen (MPA01) notes](../../catalog/pens/asus/aus-mpa01-notes.md)
 
 ## Wacom Feel branding examples
 
