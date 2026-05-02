@@ -160,6 +160,8 @@ none observed.
 
 <figure><img src="../../../../.gitbook/assets/image-000735.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../../.gitbook/assets/WIN_20260501_22_32_16_Pro.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Blacks
 
 Very deep blacks as expected due to OLED.
