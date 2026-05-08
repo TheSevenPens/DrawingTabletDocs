@@ -43,6 +43,7 @@ I hope the next generation of this tablet incorporates these features:
 ### Links
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)
+* [Brad Colbow - Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) - 2026/05/08
 * [Adam Duff - Wacom MovinkPad Pro 14 - Secret Settings / Accessories / Setup Guide](https://www.youtube.com/watch?v=xAZpMpdyWes) 2026-03-05
 * [Gartzia Arts - Review of MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) 2025-12-16
 * [Brad Colbow - Review MovinkPad Pro 14](https://www.youtube.com/watch?v=lpBGmiO4f7I) 2025-10-17
