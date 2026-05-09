@@ -39,6 +39,7 @@ I hope the next generation of this tablet incorporates these features:
 * Biometric Login
   * Face unlock
   * Fingerprint
+* A clear upgrade story for newer Android OS releases anbd support timeline. Ideally this device would match the support for a similar tablet such as the Samsung Galaxy Tab S11 Ultra which supports seven generations of OS upgrades and seven years of security updates from the initial global launch date.
 
 ### Links
 
@@ -48,7 +49,8 @@ I hope the next generation of this tablet incorporates these features:
 * [Gartzia Arts - Review of MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) 2025-12-16
 * [Brad Colbow - Review MovinkPad Pro 14](https://www.youtube.com/watch?v=lpBGmiO4f7I) 2025-10-17
 * [Teoh on Tech - Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) - 2025-12-08&#x20;
-* [Teoh on Tech - Wacom MovinkPad Pro 14 review](https://www.youtube.com/watch?v=CRxC_tyyUCk) - 2025-11-22<br>
+* [Teoh on Tech - Wacom MovinkPad Pro 14 review](https://www.youtube.com/watch?v=CRxC_tyyUCk) - 2025-11-22
+* [Seven Pens - Budget Android Drawing Tablet Recommendations for 2025](https://www.youtube.com/watch?v=NK2_dIGQKk8) - 2025-09-25. Although this video is about budget Android tablets, much of what it says is relevant for the MovinkPad Pro 14/<br>
 
 ## Specs
 
@@ -137,7 +139,7 @@ Maybe not quite as performant as the Samsung S11 Ultra - but still very very goo
 
 ### **Android updates**
 
-Wacom has communicated to at least one user that updates are planned. But we don't know when these updates might be available.
+Wacom has communicated to that updates are planned. But we don't know when these updates might be available. As of May 2026, Wacom has not provided any updates to this story.
 
 ## Speakers
 
@@ -287,9 +289,7 @@ EXCELLENT. Very accurate across the screen
 
 EXCELLENT
 
-* Within about 4mm of the edge, above normal deflection of pointer position.
-* I noticed it slightly more toward certain spots in the bottom edge - maybe due to magnets for the cover.
-* It did not interfere with my drawing. I only noticed it in my testing.
+Within about 4mm of the edge, above normal deflection of pointer position. I noticed it slightly more toward certain spots in the bottom edge - this seems due to magnets for the cover.  It did not interfere with my drawing. I only noticed it in my testing.
 
 ### Tilt compensation
 
@@ -323,8 +323,6 @@ TBD
 ### Using the tablet as a pen display
 
 Although the tablet does not support DP-IN, you can use a special feature called "Instant Pen Display" to provide the same experience. See [Wacom Instant Pen Display](../../../apps/wacom-instant-pen-display.md)
-
-###
 
 ## Connections and cabling
 
