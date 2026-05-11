@@ -40,13 +40,13 @@ The decision between a pen tablet and a pen display is something many people str
 
 Many people assume pen displays are simply better. This is not true. I strongly suggest you carefully consider the strengths and weaknesses of both.
 
-You can find the comparison between pen tablets and pen displays here: [Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md).
+You can find the comparison here: [Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md).
 
 ## Tablet brands
 
 There are many tablet brands. I usually stick to talking about and recommending tablets from Wacom, Huion, XP-Pen, and Xencelabs. That's because I have owned many of those tablets and there is a large enough community of users that if you need help, you're likely to find it.
 
-You can read much more about these brands here: [Drawing tablet brands vs digitizers](../brands/drawtab-brands-vs-digitizers.md).
+You can read more about these brands here: [Drawing tablet brands vs digitizers](../brands/drawtab-brands-vs-digitizers.md).
 
 ## Community size
 
@@ -62,7 +62,7 @@ Since Reddit is a popular place for drawing tablet discussions, here are some nu
 
 ## Understand how the tablet will connect to your computer
 
-For pen tablets this is straightforward. All pen tablets connect with a USB-C cable, and some also support wireless connectivity.
+For pen tablets, this is straightforward. All pen tablets connect with a USB-C cable, and some also support wireless connectivity.
 
 In the user manual you'll find diagrams like this for a pen tablet.
 
@@ -118,7 +118,7 @@ More here: [How many pressure levels do you really need?](how-many-pressure-leve
 
 * Make sure you know how to contact customer support.
 * Make sure you know the warranty terms and how (if needed) you can return the tablet to the manufacturer or to the retailer (e.g., Amazon) you bought it from.
-* Here's a list of [Common problems](../troubleshoot/common-drawtab-problems.md). Although the majority of users will have no issues, a small number will run into problems on day one.
+* Here's a list of [Common problems](../troubleshoot/common-drawtab-problems.md). Although most users will have no issues, a small number will run into problems on day one.
 * I have a list of troubleshooting docs here: [Troubleshooting](../troubleshoot/)
 * The most complex problem for pen displays is usually the "NO SIGNAL" problem. If it happens, this guide will help: [TSG: Pen display shows NO SIGNAL message](../troubleshoot/tsg-no-signal.md)
 
@@ -129,10 +129,10 @@ More here: [How many pressure levels do you really need?](how-many-pressure-leve
 Some reviewers to explore:
 
 * **Teoh on Tech** [https://www.youtube.com/@teohontech7141](https://www.youtube.com/@teohontech7141) Teoh has the most in-depth reviews of tablets.
-* **Create Now Sleep Later** [https://www.youtube.com/c/Createnowsleeplater)](https://www.youtube.com/c/Createnowsleeplater)
-* **Brad Colbow** [https://www.youtube.com/c/thebradcolbow)](https://www.youtube.com/c/thebradcolbow)
-* **Aaron Rutten** [https://www.youtube.com/c/aaronrutten)](https://www.youtube.com/c/aaronrutten)
-* **Adam Duff** [https://www.youtube.com/@AdamDuffArt)](https://www.youtube.com/@AdamDuffArt)
+* **Create Now Sleep Later** [https://www.youtube.com/c/Createnowsleeplater](https://www.youtube.com/c/Createnowsleeplater)
+* **Brad Colbow** [https://www.youtube.com/c/thebradcolbow](https://www.youtube.com/c/thebradcolbow)
+* **Aaron Rutten** [https://www.youtube.com/c/aaronrutten](https://www.youtube.com/c/aaronrutten)
+* **Adam Duff** [https://www.youtube.com/@AdamDuffArt](https://www.youtube.com/@AdamDuffArt)
 
 ## Verify the model number, not just the model name
 
