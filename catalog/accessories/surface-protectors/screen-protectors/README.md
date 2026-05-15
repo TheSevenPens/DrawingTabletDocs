@@ -2,9 +2,28 @@
 
 ## Overview
 
-Screen protectors are protective sheets of some material (usually plastic) that cover the glass of your pen display and prevent certain kinds of damage.
+Screen protectors are protective sheets of some material (usually plastic) that cover the glass of your pen display. Screen protectors in general offer these benefits
+
+* Prevent the glass underneath from being scratched. The the screen protector itself can be scratched.
+* Can offer anti-glare properties. This is common for pre-appplied screen protectors that come with pen displays. Though it is possible to buy screen protectors that have less or no anti-glare treatment.
+* Provide some texture so that the pen grips the surface. Smooth glass will make a pen feel "slippery". A screen protector adds enough texture to avoid that slippery feeling.
 
 If you are looking for protection for a pen tablet (screenless) : [Surface protectors](../surface-protectors/)
+
+## **Amount of texture**
+
+Screen protectors add a little bit of texture.&#x20;
+
+But we should be clear:
+
+* They will NEVER feel like paper
+* They will NEVER offer as much texture as paper
+
+The reason this cannot happen is that screen protectors have to let you see the screen. If they had a lot of texture, it would make the screen look blurry or distorted. For this reason screen protectors are simply not capable of providing either a paper-like feel or a highly-textured experience.
+
+If you want to have a more textured experience and want to explore the options that are avaiilable see: [Surface texture](../surface-protectors/).
+
+Do NOT pay attention to any product materials or marketing that claim "paper-like" - they are absolutely exaggerating the effect.
 
 ## **Laminated does NOT mean "screen protector"**
 
@@ -72,8 +91,6 @@ This can be challenging task. Lots of people (including myself) are not capable 
 Either get help from a friend or family who is good at doing this.
 
 Or - Seek some professional help. Stores where the are used to putting protective films onto phone or ipads may have staff that are really good at this.&#x20;
-
-
 
 ## Should you get a screen protector for your tablet?
 
