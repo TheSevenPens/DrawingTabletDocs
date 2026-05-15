@@ -38,18 +38,27 @@ Note that the anti-glare treatment stops the display from being glossy - but it 
 
 **Apple iPads**
 
-##
-
 The surface of any Apple iPad is very smooth glass. Many people feel that using an Apple Pencil on an iPad screen feels "slippery". The pen seems to easily unintentionally "slide" as they draw because there is so little friction.
 
 ## Achieving a paper-like texture
 
 No drawing tablet by default has a texture that comes close to the feeling of paper.
 
-## Increasing texture
+There are some options that can increase the texture. In SOME cases they may give you more of a textured experience - but even then nothing will ever feel like paper.
 
-There are some options that can increase the texture. In SOME cases they may give you something close to that feeling of drawing on paper.
+## Increasing texture with protectors
 
-You can buy **protective sheets** that you can stick on top of the surface of you drawing tablet which will provide the texture. More here: [Surface protection](../misc/surface-protectors-obsolete.md).
+You can buy **protective sheets** that you can stick on top of the surface of you drawing tablet which will provide the texture.
+
+For screen protectors - remember that they have to show the screen so this reality limits how much texture they can have. If they had a lot of texture, then it would cause the screen to look blurry.&#x20;
+
+More here:
+
+* [Surface protectors](https://docs.sevenpens.com/drawtab/catalog/accessories/surface-protectors)
+* [Screen protectors](https://docs.sevenpens.com/drawtab/catalog/accessories/screen-protectors)
+* [Screen protectors for iPads](https://docs.sevenpens.com/drawtab/catalog/accessories/screen-protectors/screen-protectors-for-ipads)
+
+## Increasing texture with felt nibs
 
 Also you can use **felt nibs** - if they are available for your pen. These felt nibs also can provide some extra texture.
+
