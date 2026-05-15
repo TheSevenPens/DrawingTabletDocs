@@ -106,6 +106,21 @@ My guidance is this. If you are concerned about scratching your tablet, then it 
 * Some 3rd party screen protectors offer a "sample pack". So try a small sample before you commit to a full protector.
 * It can be super difficult to apply a screen protector and avoid air bubbles and dust. Have someone who is good at this help you or do it for you.
 
+## Screen protectors on top of etched glass
+
+Many pen displays come with an etched glass surface that provide anti-glare and a bit of texture.
+
+Nothing stops you from applying a screen protector on top of that glass.
+
+However there are some things to keep in mind:
+
+* Etched glass provides an anti-glare treatment. If you add a screen protector with anti-glare properties on top of the etched glass now you have to layers of ant-glare treatment. this can have the effect of blurring he display because the light from the display gets very spread out. You may want to consider getting a screen protector that is totally clear and has NO AG treatment.
+* Etched glass provides texture. You will no longer feel that texture through the screen protector. Instead you will feel whatever texture the screen protector will provide.
+
+## Try before you buy
+
+Before you commit to a screen protector, see if the manufacturer provides a "sample pack" so that you can try out the a small bit of the screen protector on your glass. Then you can see how it looks and feels before you spend serious money.
+
 ## Using screen protectors with pen tablets
 
 Screen protectors are intended to work with tablets that have screens. However nothing prevents them from being used with pen tablets (screenless tablets). In fact, many people use them exactly this way to preserve the surface of their pen tablet.
