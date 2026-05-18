@@ -6,6 +6,10 @@ Overall, it makes for a very good basic tablet. That's not surprising. The table
 
 This brand is very new so this is a very good start for them. As always with new brands, we have to see how the devices and customer support and community adoption works in the long term.&#x20;
 
+## Notes
+
+I unboxed and tested this tablet live on stream: [https://youtube.com/live/YSzg\_U\_3Rn0?feature=share](https://youtube.com/live/YSzg_U_3Rn0?feature=share)&#x20;
+
 ## Basics
 
 * Product page: [https://www.turingdraw.com/page156](https://www.turingdraw.com/page156)
@@ -39,7 +43,7 @@ Compatible pens:
 ## Design
 
 * Looks attractive.
-* The surface pattern is much more subtle than the photos show. Not a problem. It just may be surprising for some people.
+* The surface pattern is much much more subtle than the photos show. Not a problem. It just may be surprising for some people who might be expecting a much visible pattern.
 
 ## Size
 
@@ -72,13 +76,17 @@ Notes
 
 ### Drawing at low pressure
 
+VERY GOOD>&#x20;
+
 All EMR pens have their reported pressure change a bit abruptly when drawing at low pressure near the IAF. So does this pen, but not as strongly as some pens like the Wacom Pro Pen 2. As a result, you probably won't need as much of a pressure curve or pressure smoothing to deal with it. Overall, the pressure is well controlled in that domain and relatively stable.
 
 ### Surface texture
 
+* GOOD - TYPICAL
 * Feels fine to draw with. The texture has enough grip to keep the pen from feeling slippery.
 * Comparisons to Wacom Pro Pen 2 on PTH-660
   * The PTH-660 has a little more texture, but about the same amount of nib noise. The pitch is slightly lower.
+* The design on the surface is not "paint" and it does not affect the surface texture at all. The surface texture feels completely the same across the full area.  &#x20;
 
 ### Button stroke interruption
 
@@ -86,7 +94,7 @@ Like many non-Wacom pens, the buttons interrupt strokes slightly. Even if the bu
 
 ### Pointer lag
 
-* LOW. Subjectively, it is very slightly more than a Wacom tablet, but I doubt anyone would notice.
+* GOOD - LOW. Subjectively, it is very slightly more than a Wacom tablet, but I doubt anyone would notice.
 
 ## Diagonal wobble
 
@@ -123,13 +131,13 @@ Driver version:
 
 Driver experience
 
-* The driver has an attractive skin than matches the digidraw branding. In terms of capabilities this version is very similar to the Huion V15 drivers.
+* The driver has an attractive skin than matches the DigiDraw branding. In terms of capabilities this version is very similar to the Huion V15 drivers.
 
 Driver issues I discovered:
 
 * MINOR ANNOYANCE
-  * The driver UI got confused which monitor whas which. I have two monitors - let's call them A and B. If I wanted to map the tablet to monitor A, I had to pick monitor B.&#x20;
-  * I tested on my standard testing machine and have never experienced this before. It is unclear what is causing it, but since I have never seen this with any other driver I lean towards this being a driver issure.&#x20;
+  * The driver UI got confused on the identities of the monitors. I have two monitors - let's call them A and B. If I wanted to map the tablet to monitor A, I had to pick monitor B. You can see this occur in my livestream video.&#x20;
+  * I tested on my standard testing machine and have never experienced this before. It is unclear what is causing it, but since I have never seen this with any other driver I lean towards this being a driver issue.&#x20;
 
 ## Usage with Android
 
