@@ -60,11 +60,17 @@ This is a medium-sized tablet, and it is slightly larger than the Wacom Intuos P
 
 ## Pen pressure
 
-The M3 pen seems to have a typical IAF. I would estimate it at around 3 gf. I was also pleased with its maximum pressure - which \~350gf when I measured with a scale.&#x20;
+IAF: The M3 pen seems to have a typical IAF. I would estimate it at around 3 gf.&#x20;
+
+MAX Pressure: I was also pleased with its maximum pressure - which \~350gf when I measured with a scale.&#x20;
+
+Notes
+
+* Please remember, the max pressure and IAF comments involved measuring only a single pen. To form a more complete picture of a pen, it requires multiple pen units (>=3)to be measured.
 
 ### Drawing at low pressure
 
-* All EMR pens have their reported pressure change a bit abruptly when drawing at low pressure near the IAF. So does this pen, but not as strongly as some pens like the Wacom Pro Pen 2. As a result, you probably won't need as much of a pressure curve or pressure smoothing to deal with it. Overall, the pressure is well controlled in that domain and relatively stable.
+All EMR pens have their reported pressure change a bit abruptly when drawing at low pressure near the IAF. So does this pen, but not as strongly as some pens like the Wacom Pro Pen 2. As a result, you probably won't need as much of a pressure curve or pressure smoothing to deal with it. Overall, the pressure is well controlled in that domain and relatively stable.
 
 ### Surface texture
 
