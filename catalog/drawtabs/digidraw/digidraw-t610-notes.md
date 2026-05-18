@@ -2,7 +2,9 @@
 
 ## Summary
 
-Overall, it makes for a very good basic tablet. That's not surprising. The tablet's technical lineage (digitizer) seems to be the Huion Frego M, which is one of my common recommendations for a pen tablet.
+Overall, it makes for a very good basic tablet. That's not surprising. The tablet's technical lineage (digitizer) seems to be the Huion Frego M, which is one of my common recommendations for a pen tablet. See: [Huion Frego M L610 notes](../huion/huion-l610-notes.md).
+
+This brand is very new so this is a very good start for them. As always with new brands, we have to see how the devices and customer support and community adoption works in the long term.&#x20;
 
 ## Basics
 
