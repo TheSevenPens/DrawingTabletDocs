@@ -56,7 +56,7 @@ Taking the screen and the pen into consideration, this tablet provides a DECENT 
 
 GOOD. has low amount of wobble.
 
-![](<../../../../.gitbook/assets/image-000174 (1).png>)
+<img src="../../../../.gitbook/assets/image-000174 (1).png" alt="" width="375">
 
 ##
 

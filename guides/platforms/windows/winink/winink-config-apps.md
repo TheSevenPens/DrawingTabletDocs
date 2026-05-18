@@ -21,7 +21,7 @@ Other apps may use the phrase "Tablet PC"
   * or choose **Tablet PC** to disable Windows Ink
 * Once you've made the change, restart Clip Studio Paint
 
-![](../../../../.gitbook/assets/image-000353.png)
+<img src="../../../../.gitbook/assets/image-000353.png" alt="" width="563">
 
 ## Krita
 
@@ -32,7 +32,7 @@ Other apps may use the phrase "Tablet PC"
   * or Choose **WinTab** to disable Windows Ink
 * Once you've made your change, restart Krita.
 
-![](../../../../.gitbook/assets/image-000255.png)
+<img src="../../../../.gitbook/assets/image-000255.png" alt="" width="563">
 
 ## Adobe Photoshop
 

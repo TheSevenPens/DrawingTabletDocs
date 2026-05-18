@@ -86,6 +86,8 @@ Like many non-Wacom pens, the buttons interrupt strokes slightly. Even if the bu
 * Very slight wobble at slow speeds, and even less at medium and fast strokes.
 * To compensate for the wobble, I only needed to add a little smoothing. In Krita, I used weighted smoothing with distance set to 100. For many tablets, I have to increase the smoothing to 200.
 
+<figure><img src="../../../.gitbook/assets/DigiDraw-Turing_Basic_Wobble_(T610)_2026_05_18.png" alt=""><figcaption></figcaption></figure>
+
 ## Connection and cabling
 
 ### Ports
@@ -104,8 +106,6 @@ NO. The tablet is not wireless and requires a USB cable to connect to a computer
 ## Other features
 
 * Replaceable surface? No.
-
-
 
 ## Driver
 

@@ -8,11 +8,11 @@ This will manifest as vertical or horizontal bands that the pen seems to ignore.
 
 Then missing horizontal bands will look like this:
 
-![](../.gitbook/assets/image-000146.png)
+<img src="../.gitbook/assets/image-000146.png" alt="" width="563">
 
 And missing vertical bands will look like this:
 
-![](../.gitbook/assets/image-000148.png)
+<img src="../.gitbook/assets/image-000148.png" alt="" width="563">
 
 ## Causes
 
