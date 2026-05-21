@@ -567,7 +567,7 @@
       * [Upgrading to Wacom One Pen (CP-913)](catalog/pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
     * [Wacom pens](catalog/pens/wacom-pens/README.md "Wacom")
       * [Wacom pen compatibility](catalog/pens/wacom-pens/wacom-pen-compatibility.md)
-      * [Art Pen 2 (ACP-700)](catalog/pens/wacom-pens/wacom-acp700.md)
+      * [Wacom Art Pen 2 (ACP-700) note](catalog/pens/wacom-pens/wacom-acp700.md "Art Pen 2 (ACP-700)")
       * [Wacom Pro Pen 3 (ACP-500) notes](catalog/pens/wacom-pens/wacom-acp500-notes.md "Pro Pen 3 (ACP-500)")
       * [Wacom Pro Pen 2 (KP-504E) notes](catalog/pens/wacom-pens/wacom-kp504e-notes.md "Pro Pen 2 (KP-504E)")
       * [Wacom 2K Pen (LP-190K)](catalog/pens/wacom-pens/wacom-lp190k-notes.md "2K Pen (LP-190K)")
