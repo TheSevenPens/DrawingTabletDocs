@@ -4,6 +4,10 @@
 
 Released in May of 2025, the Art Pen 2 (ACP-700) is the successor to the successor to the much beloved Art Pen (KP-701E).
 
+## Summary&#x20;
+
+EXCELLENT pen. I love the how it feels, how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 KP-504E). Be aware that only a few tablets support this pen. And some that do support it will require a firmware update.
+
 ## Specs
 
 * Pressure levels: 8192
@@ -34,6 +38,10 @@ Released in May of 2025, the Art Pen 2 (ACP-700) is the successor to the success
 
 Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
 
+## Shape
+
+* Unlike the the slim body of the the Pro Pen 2, the ACP-700 has more standard body that is wider near the tip and gets thinner until it the end.&#x20;
+
 ## Screw top
 
 * Top screws off just like Pro Pen 3
@@ -50,7 +58,13 @@ Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
 * IAF - seems very similar to Pro Pen 2 (KP-504E) and Pro Pen 3 (ACP-500)
 * MAX Pressure - measured at around 550gf
 
-### Nibs
+## Buttons
+
+* The first two buttons are connected as a rocker swich
+* the third higher button is separate, sticks out at an angle, and has a clearly different and noticable texture.
+* I prefer these buttons to the ones on the Pro Pen 2 because I seem to be able to detect them by feel easier and do not accidentally click them.&#x20;
+
+## Nibs
 
 * This pen uses different nibs than the Pro Pen 2 (ACP-500)
 * Default nib installed: Art Pen 2 Carbon Shaft POM Nib
@@ -59,7 +73,19 @@ Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
   * 1x Art Pen 2 POM Nib
   * 1x Art Pen 2 Felt Nib
 
+## Texture
 
+Many people find that ACP-500 feels a bit smooth and slipper in their hand. The ACP-700 has as softer plastic feel and seems to feel more secure in the hand.
+
+## Barrel rotation
+
+* Worked great.
+* Some people feel this pen has more barrel rotation lag than the KP-701E but I did not find that to be the case in my testing. They performed exactly the same.
+* Keep these things in mind:
+  * Not all tablets support barrel rotation
+  * Not all apps support barrel rotation
+  * Even if an app supports barrel rotation, you will normally have to specifically configure barrel rotation on a brush for it to have an effect. Different apps have different ways in which this configuration is done.
+  * There are only 360 barrel rotation angles - this is normal for Wacom pens that support barrel rotation. &#x20;
 
 ## Photos
 
