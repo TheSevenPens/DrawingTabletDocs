@@ -1,4 +1,4 @@
-# Art Pen 2 (ACP-700)
+# Wacom Art Pen 2 (ACP-700) notes
 
 ## Overview
 
@@ -86,6 +86,18 @@ Many people find that ACP-500 feels a bit smooth and slipper in their hand. The 
   * Not all apps support barrel rotation
   * Even if an app supports barrel rotation, you will normally have to specifically configure barrel rotation on a brush for it to have an effect. Different apps have different ways in which this configuration is done.
   * There are only 360 barrel rotation angles - this is normal for Wacom pens that support barrel rotation. &#x20;
+
+## Pressure response
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+## IAF
+
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+## Max Pressure
+
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
