@@ -67,9 +67,11 @@ But how sure are we this is real? There are two pieces of evidence to support th
 
 \#1 Wacom has explicitly mentioned this before. Below is the original Japanese version, and then the English AI-translated version.
 
-&#x20;![](../../.gitbook/assets/Wacom_intuos_4_IAF_JP.png)
 
-<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_gg9ibdgg9ibdgg9i.jpg" alt=""><figcaption></figcaption></figure>
+
+<div align="left"><figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_JP (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_EN2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The phrase "1gON" indicates that 1 gf of physical force will trigger the pen to draw or click.
 
