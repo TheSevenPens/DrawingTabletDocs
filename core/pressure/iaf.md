@@ -53,15 +53,29 @@ Given that there's so much focus on having a “low IAF”, it would be natural 
 
 First, as the pressure sensing mechanism in a pen gets more sensitive to enable a very low IAF, it can have unintended effects. For example those pens with super low IAF may actually say that they are detecting pressure when they are clearly not touching the tablet. Sometimes this can take the form of spurious pressure readings or it can happen more frequently and the pen can effectively draw while hovering.
 
-### Effectively increasing IAF with the pressure curve
+### Effectively increasing IAF with pressure curves
 
-To compensate for these kinds of effects, you might encounter a tablet that has a pressure dead zone deliberately created by the manufacturer. This dead zone ignores a little bit of that lower pressure so that these kinds of strange artifacts are avoided.
+The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See: [Increasing IAF](../../guides/customizing/increasing-iaf.md)
 
-* Note that depending on which tablet you have the pressure dead zone might be visible to you in the pressure curve that you see in the tablet driver.
-* And also the dead zone might be implemented in the driver but it is not shown to you.
-* And of course some tablet drivers don't implement a default dead zone at all.
+Sometimes tablets are pre-configured to raise the IAF artificially. If this is a case, you can remove the artificial increase get back to the native IAF. More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-deadzone.md)
 
-More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-deadzone.md)
+## Is Wacom <1gf IAF real?
+
+It is commonly accepted knowledge that SOME of Wacom's pens feature the lowest IAF in the industry: < 1gf.
+
+But how sure are we this is real? There are two pieces of evidence to support this.
+
+\#1 Wacom has explicitly mentioned this before. Below is the original Japanese version, and then the English AI-translated version.
+
+&#x20;![](../../.gitbook/assets/Wacom_intuos_4_IAF_JP.png)
+
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_gg9ibdgg9ibdgg9i.jpg" alt=""><figcaption></figcaption></figure>
+
+The phrase "1gON" indicates that 1 gf of physical force will trigger the pen to draw or click.
+
+<figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_EN - focus.jpg" alt=""><figcaption></figcaption></figure>
+
+\#2 Tablet Expert Kuube has measured many Wacom pens and found that they have an iAF <1gf.
 
 ## Wispy tails on strokes
 
