@@ -20,10 +20,12 @@ A typical nib travel distance for Wacom's pens is about 1mm.
 
 ## Lateral travel
 
-Nibs also exhibit a little bit of lateral (side-to-side movement) movement. This will happen if you are drawing while you tilt the pen.&#x20;
+The nib has a little extra space in the pen to move laterally (side-to-side) movement.
 
-Or even if aren't drawing you can use your finger to just play with the nib a little to see this movement.
+<figure><img src="../.gitbook/assets/WIN_20260524_08_44_39_Pro.jpg" alt=""><figcaption></figcaption></figure>
 
-Typically the lateral travel is about 1 mm.
+As you are drawing with a normal tilt, you will push the nib a little to one side depending on how you are pressing down.  If you aren't drawing you can use your finger to just play with the nib a little to see this movement.Typically the lateral travel a the tip is about 1 mm.
+
+This is a normal aspect of EMR pens and all pens with nibs have a little lateral movement.
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
