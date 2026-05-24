@@ -73,6 +73,12 @@ Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
   * 1x Art Pen 2 POM Nib
   * 1x Art Pen 2 Felt Nib
 
+## Grips
+
+The Pro Pen 3 comes with two accessory grips. The shape of the Art Pen 2 makes it impossible to use those Pro Pen 3 grips.
+
+Currently there are no Wacom-made grips for the Art Pen 2.
+
 ## Texture
 
 Many people find that ACP-500 feels a bit smooth and slipper in their hand. The ACP-700 has as softer plastic feel and seems to feel more secure in the hand.
