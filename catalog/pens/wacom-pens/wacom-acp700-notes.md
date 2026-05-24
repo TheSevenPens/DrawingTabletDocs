@@ -133,3 +133,12 @@ Many people find that ACP-500 feels a bit smooth and slipper in their hand. The 
 
 <figure><img src="../../../.gitbook/assets/IMG_0429 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
+
+
+<figure><img src="../../../.gitbook/assets/IMG_0462 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/IMG_0463 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/IMG_0466.jpg" alt=""><figcaption></figcaption></figure>
