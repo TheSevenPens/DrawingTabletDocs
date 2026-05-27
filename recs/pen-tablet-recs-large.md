@@ -7,6 +7,8 @@
 * Review these [Buying tips](../buying/buying-tips.md)
 * Look through the [Drawing tablet buying guide](../buying/)
 
+If you are looking for beginner recommendations for pen tablets: [Beginner pen tablet recommendations](scenario-recs/beginner-recs/beginner-pen-tablet-recs.md)
+
 If you want to see the full set recommendations go here: [Recommendations](./)
 {% endhint %}
 
