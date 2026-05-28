@@ -12,34 +12,34 @@ All costs below are rough estimates.
 
 ## Tablets
 
-Costs of tablets vary significantly based on brand, audience (pro vs non-pro), quality, size etc,
+Costs of tablets vary significantly based on brand, audience (pro vs non-pro), quality, size, etc.
 
 * Pen tablets - from about $50 to $250
 * Pen displays - $250 to $3500
-* Pen computers - $2500 to $3500&#x20;
+* Pen computers - $2500 to $3500
 * Mobile computers with pen support - $250 to $1200
 
 ## Cables
 
-* New tablets usually come with the cables the need. However you may need to purchase cables if you bought your tablet used, or you lose your cables, or you damage your cables.
+* New tablets usually come with the cables they need. However, you may need to purchase cables if you bought your tablet used, lose your cables, or damage your cables.
 * Pen tablet cabling - costs not much to replace. $5 to $10
-* Pen display cabling - These cabling options are more complex because they have to account for a decent amount of power and bandwidth for the display signal. $30 to $50.&#x20;
+* Pen display cabling - these cabling options are more complex because they have to account for a decent amount of power and bandwidth for the display signal. $30 to $50.
 
 ## Drawing gloves
 
-These are useful for cases when you want to prevent skin oil from collecting on your tablet and also very useful if your tablet supports touch because they can help aid in palm rejection. $5 to $10/glove
+These are useful when you want to prevent skin oil from collecting on your tablet. They are also very useful if your tablet supports touch because they can help with palm rejection. $5 to $10 per glove.
 
 ## Pens
 
-Pens are a big contributor to TCO. Even though pens come with a tablet, you have to consider their cost. Pens are very easily lost and very easily damaged. Replacement costs vary significantly. At the high end, Wacom's professional pens cost more than some tablets. $30 - $140.
+Pens are a big contributor to TCO. Even though pens come with a tablet, you still have to consider their cost. Pens are very easily lost and damaged. Replacement costs vary significantly. At the high end, Wacom's professional pens cost more than some tablets. $30 to $140.
 
 ## Stands
 
-These are popular for keeping tablets - usually pen displays at an angle. $30 to $100
+These are popular for keeping tablets, usually pen displays, at an angle. $30 to $100.
 
 ## Monitor arms
 
-Instead of a stand, some people prefer keeping their pen displays on a monitor arm so that they can switch between using them like a monitor and a tablet. $50 to $400
+Instead of a stand, some people prefer keeping their pen displays on a monitor arm so that they can switch between using them like a monitor and using them like a tablet. $50 to $400.
 
 ## Surface protectors
 
@@ -56,6 +56,3 @@ $1 per 30ml
 ## Nibs
 
 $1/nib to $3/nib. $1 is the typical cost. Wacom nibs for their professional pens can cost $3.
-
-
-

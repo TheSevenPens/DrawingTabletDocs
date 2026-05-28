@@ -1,5 +1,5 @@
-# Force proportions simulator
+# SevenPens Force proportions simulator
 
-This online tool helps you see understand of force proportions
+This online tool helps you understand force proportions.
 
-[https://thesevenpens.github.io/ForceProportionsSim/](https://thesevenpens.github.io/ForceProportionsSim/) &#x20;
+[https://thesevenpens.github.io/ForceProportionsSim/](https://thesevenpens.github.io/ForceProportionsSim/)
