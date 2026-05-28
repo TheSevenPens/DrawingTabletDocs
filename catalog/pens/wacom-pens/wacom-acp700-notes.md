@@ -2,11 +2,11 @@
 
 ## Overview
 
-Released in May of 2025, the Art Pen 2 (ACP-700) is the successor to the successor to the much beloved Art Pen (KP-701E).
+Released in May 2025, the Art Pen 2 (ACP-700) is the successor to the much-beloved Art Pen (KP-701E).
 
-## Summary&#x20;
+## Summary
 
-EXCELLENT pen. I love the how it feels, how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 KP-504E). Be aware that only a few tablets support this pen. And some that do support it will require a firmware update.
+EXCELLENT pen. I love how it feels and how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 (KP-504E). Be aware that only a few tablets support this pen. Some that do support it require a firmware update.
 
 ## Specs
 
@@ -21,35 +21,38 @@ EXCELLENT pen. I love the how it feels, how it draws. It's even less expensive t
 
 ## Tablet compatibility
 
-* At time of launch
+* Compatibility list at time of product launch (May 2026)
   * Intuos Pro small (PTK470)
   * Intuos Pro medium (PTK670)
   * Intuos Pro large (PTK870)
-  * MovinkPad Pro 14 (DTHA140L0Z)
-  * Wacom Cintiq (DTK168, DTK246, DTH246)
-* Tablets identified for future compatibility
-  * Cintiq Pro 27, 22, 17
-* Firmware & Driver updates
-  * Compatible tablets needed a firmware update at time of launch
+  * MovinkPad Pro 14 (DTHA140)
+  * Cintiq 16 2025 (DTK168)
+  * Cintiq 24 (DTK246)
+  * Cintiq 24 touch (DTH246)
+* Tablets Wacom identified for future compatibility in 2026
+  * Cintiq Pro 27
+  * Cintiq Pro 22
+  * Cintiq Pro 17
 * Compatibility notes
-  * I could not successfully get Barrel Rotation working with the MovinkPad Pro 14
+  * Compatible Intuos Pro tablets needed a firmware update at the time of launch. I don't recall the Cintiq 16 2025 needing a firmware update.
+  * I could not successfully get barrel rotation working with the MovinkPad Pro 14.
 
 ## Branding
 
-Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
+Unlike most Wacom Pro Pens, the Wacom logotype is printed on the pen.
 
 ## Shape
 
-* Unlike the the slim body of the the Pro Pen 2, the ACP-700 has more standard body that is wider near the tip and gets thinner until it the end.&#x20;
+Unlike the slim body of the Pro Pen 2, the ACP-700 has a more standard body that is wider near the tip and gets thinner toward the end.
 
 ## Screw top
 
 * Top screws off just like Pro Pen 3
-* Top is much less prone to loosen over time as you draw. A problem that mny complained aobut with the Pro Pen 3
+* Top is much less prone to loosening over time as you draw. Many people complained about that with the Pro Pen 3.
 
 ## Nib holder and storage
 
-* Nib storage once cap is unscrewed that can store 3 nibs
+* Nib storage under the cap can hold 3 nibs
 * The nib holder itself can be removed from the pen
 
 ## Pressure
@@ -60,13 +63,13 @@ Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
 
 ## Buttons
 
-* The first two buttons are connected as a rocker swich
-* the third higher button is separate, sticks out at an angle, and has a clearly different and noticable texture.
-* I prefer these buttons to the ones on the Pro Pen 2 because I seem to be able to detect them by feel easier and do not accidentally click them.&#x20;
+* The first two buttons are connected as a rocker switch
+* The third, higher button is separate, sticks out at an angle, and has a clearly different and noticeable texture.
+* I prefer these buttons to the ones on the Pro Pen 2 because I seem to be able to detect them by feel more easily and do not accidentally click them.
 
 ## Nibs
 
-* This pen uses different nibs than the Pro Pen 2 (ACP-500)
+* This pen uses different nibs than the Pro Pen 3 (ACP-500)
 * Default nib installed: Art Pen 2 Carbon Shaft POM Nib
 * Pen comes with 3 spare nibs in the nib storage
   * 1x Art Pen 2 Carbon Shaft POM Nib
@@ -77,11 +80,11 @@ Unlike most Wacom Pro Pens - the Wacom logotype is printed on the pen.
 
 The Pro Pen 3 comes with two accessory grips. The shape of the Art Pen 2 makes it impossible to use those Pro Pen 3 grips.
 
-Currently there are no Wacom-made grips for the Art Pen 2.
+Currently, there are no Wacom-made grips for the Art Pen 2.
 
 ## Texture
 
-Many people find that ACP-500 feels a bit smooth and slipper in their hand. The ACP-700 has as softer plastic feel and seems to feel more secure in the hand.
+Many people find that the ACP-500 feels a bit smooth and slippery in their hand. The ACP-700 has a softer plastic feel and seems more secure in the hand.
 
 ## Barrel rotation
 
@@ -91,7 +94,7 @@ Many people find that ACP-500 feels a bit smooth and slipper in their hand. The 
   * Not all tablets support barrel rotation
   * Not all apps support barrel rotation
   * Even if an app supports barrel rotation, you will normally have to specifically configure barrel rotation on a brush for it to have an effect. Different apps have different ways in which this configuration is done.
-  * There are only 360 barrel rotation angles - this is normal for Wacom pens that support barrel rotation. &#x20;
+  * There are only 360 barrel rotation angles. This is normal for Wacom pens that support barrel rotation.
 
 ## Pressure response
 
@@ -109,35 +112,17 @@ Many people find that ACP-500 feels a bit smooth and slipper in their hand. The 
 
 <figure><img src="../../../.gitbook/assets/IMG_0410 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/IMG_0411 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 <figure><img src="../../../.gitbook/assets/IMG_0414 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/IMG_0418 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../.gitbook/assets/IMG_0422 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 <figure><img src="../../../.gitbook/assets/IMG_0429 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/IMG_0462 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../.gitbook/assets/IMG_0463 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
