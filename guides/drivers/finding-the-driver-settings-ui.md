@@ -2,22 +2,22 @@
 
 ## Overview
 
-At some point you'll need to find the driver UI to look at or change how you tablet settings are configured. The exact steps vary by tablet brand and operating system.
+At some point, you'll need to find the driver UI to view or change your tablet settings. The exact steps vary by tablet brand and operating system.
 
 ## Wacom
 
-Wacom has two driver settings UI apps:&#x20;
+Wacom has two driver settings UI apps:
 
-* Wacom Tablet Properties in Windows or Wacom Tablet on MacOS
+* Wacom Tablet Properties on Windows or Wacom Tablet on MacOS
 * Wacom Center on both Windows and MacOS
 
-For some tablets you have to use Wacom Center and for others Wacom Tablet (Properties).
+For some tablets, you have to use Wacom Center. For others, you have to use Wacom Tablet Properties.
 
-To get to these apps you can use:
+To open these apps, you can use:
 
-* MacOS: Use Spotlight Search - just search for "Wacom"
-* MacOS: You may also be able to find them by searching in System Settings
-* MacOS: You can find Wacom Center in the Menu Bar
+* MacOS: Use Spotlight Search. Search for "Wacom"
+* MacOS: You may also be able to find them in System Settings
+* MacOS: You can find Wacom Center in the menu bar
 * Windows: Search for "Wacom"
 
 ## Huion
@@ -29,11 +29,8 @@ The app is called "HuionTablet"
 
 ## XP-Pen
 
-The app is called "PenTablet" (old name) or "XPPenTablet" (old name)&#x20;
+The app is called "PenTablet" or "XPPenTablet"
 
 * MacOS: Search for XPPenTablet
-* MacOS: In the menu bar there is an XPPEN logo that opens XPPenTablet 
+* MacOS: The menu bar has an XPPEN logo that opens XPPenTablet
 * Windows: Search for XPPenTablet
-
-
-
