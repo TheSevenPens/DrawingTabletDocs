@@ -12,7 +12,7 @@ This is my curated list of apps that are simple and inexpensive (or free). These
 * [Procreate](../catalog/apps/procreate.md) (iOS) [Procreate notes](/broken/pages/IMqyk4G3aleEqfJffyBv)
 * [HiPaint](../catalog/apps/hipaint.md) (Android, iOS)
   * Basically a clone of Procreate
-  * [ArtRage](../catalog/apps/artrage.md)(Windows, macOS, iOS, Android)
+  * [ArtRage](/broken/pages/q2nxS4JFfbvUSFOJ7rBv)(Windows, macOS, iOS, Android)
 * [Infinite Painter](../catalog/apps/infinite-painter.md) - (Android, iOS)
   * Similar to procreate
 * [Concepts app](../catalog/apps/concepts-app.md) - (Windows, Android, iOS, ChromeOS)

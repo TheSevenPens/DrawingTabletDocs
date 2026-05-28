@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is one of my most-used pieces of equipment. I use it primarily to allow me switch between multiple laptops and mini-pcs on the same desk. As of 2025 I own and use 3 of them.
+This is one of my most-used pieces of equipment. I use it primarily to let me switch between multiple laptops and mini PCs on the same desk. As of 2025, I own and use 3 of them.
 
 ## Basics
 
@@ -14,12 +14,10 @@ This is one of my most-used pieces of equipment. I use it primarily to allow me 
 * M3 MacMini
 * M1 Mac Studio
 * Surface Laptop 7
-* Surface Pro 8&#x20;
+* Surface Pro 8
 * M3 iPad Pro
 * Minisforum UM870
 
 ## Note on using it with Windows devices
 
-Whenever any of my Windows computers are plugged into the dock, they do give a "too many USB hubs" warning, but everything still works.
-
-&#x20;
+Whenever one of my Windows computers is plugged into the dock, it shows a "too many USB hubs" warning, but everything still works.

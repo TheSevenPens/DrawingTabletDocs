@@ -6,24 +6,24 @@ The Microsoft Surface Pro is a tablet-style laptop almost always used with an op
 
 **Surface Pro versions 8 and above**
 
-With the optional Surface Slim Pen 2, the Surface Pro 8 and above can serve well for note taking. And if needed can work somewhat as a drawing tablet. Though I do not recommend purchasing one for use as a drawing tablet.
+With the optional Surface Slim Pen 2, the Surface Pro 8 and above work well for note-taking. They can also work somewhat as drawing tablets, though I do not recommend buying one mainly for drawing.
 
 **Surface Pro versions 7 and below**
 
-Compared to versions 8 and above, the pen experience is worse. Again it can serve OK for notetaking but not for drawing.
+Compared with versions 8 and above, the pen experience is worse. It can still work for note-taking, but not for drawing.
 
 ## 2025 Surface Pro 12"
 
 * The device uses an ARM processor. More here: [Windows on ARM](../../../../guides/platforms/windows/windows-on-arm.md)
-* [Brad Colbow - 2025 Surface Pro 12" Review](https://www.youtube.com/watch?v=gqliiMdruys) 2025/0528
+* [Brad Colbow - 2025 Surface Pro 12" Review](https://www.youtube.com/watch?v=gqliiMdruys) 2025-05-28
 
 ## Microsoft Surface Pro 11
 
 * The device uses an ARM processor. More here: [Windows on ARM](../../../../guides/platforms/windows/windows-on-arm.md)
-* [Teoh on Tech - Surface Pro 11 (2024) artist review: Pen and OLED issues, amazing battery life ](https://www.youtube.com/watch?v=KVO3BNoUnWw)2024-09-22
+* [Teoh on Tech - Surface Pro 11 (2024) artist review: Pen and OLED issues, amazing battery life](https://www.youtube.com/watch?v=KVO3BNoUnWw) 2024-09-22
 * [MobileTechReview - Microsoft Surface Pro 11 OLED Review - Snapdragon CoPilot+ PC](https://www.youtube.com/watch?v=mFD_tbn_i50) 2024-06-28
 * [Brad Colbow - 2024 Surface Pro Review (Snapdragon X)](https://www.youtube.com/watch?v=Q9fSAmJu1cY) - 2024-06-26
-* [Teoh on Tech -Surface Pro 11 - Handwriting Note Taking Test](https://www.youtube.com/watch?v=SkEdp9XYMTk) 2024-09-29
+* [Teoh on Tech - Surface Pro 11 - Handwriting Note Taking Test](https://www.youtube.com/watch?v=SkEdp9XYMTk) 2024-09-29
 
 ## Microsoft Surface Pro 9
 
@@ -37,9 +37,9 @@ Compared to versions 8 and above, the pen experience is worse. Again it can serv
 * [Microsoft Surface Pro 8 notes](microsoft-surface-pro-8-notes.md)
 * [MobileTechReview review of Microsoft Surface Pro 8](https://youtu.be/v2mOtMiGN7s)
 * [Brad Colbow review of Surface Pro 8](https://youtu.be/OG-y1NlRp3g)
-* [Tech on Tech review of Microsoft Surface Pro 8](https://youtu.be/wNtmOONAyxk)
+* [Teoh on Tech review of Microsoft Surface Pro 8](https://youtu.be/wNtmOONAyxk)
 * [Teoh on Tech: Pad Pro vs Surface Pro 8 vs S8 Ultra (artist review)](https://youtu.be/EQoq8WtmWN8)
-* [Teoh on Tech: ketching on the Surface Pro 8](https://youtu.be/nvtTj64XNxs)
+* [Teoh on Tech: Sketching on the Surface Pro 8](https://youtu.be/nvtTj64XNxs)
 * [Teoh on Tech: Surface Pro 8 and Slim Pen 2 handwriting & note taking](https://youtu.be/2ImMHQ0ZsDY)
 
 ## Microsoft Surface Pro 7

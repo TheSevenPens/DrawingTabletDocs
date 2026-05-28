@@ -5,7 +5,7 @@
 * **Adobe Fresco** (Windows, iOS, MacOS) [Fresco](../catalog/apps/fresco.md) FREE
 * **Affinity (Windows, MacOS)** [**Affinity**](../catalog/apps/affinity.md), [**Affinity notes**](/broken/pages/dNZS05XkPeIbHD9BUPX8) **FREE**
 * **ArtFlow Studio** (Android, ChromeOS) [**links**](http://artflowstudio.com/)
-* **ArtRage** (Windows, macOS, iOS, Android) [ArtRage](../catalog/apps/artrage.md)
+* **ArtRage** (Windows, macOS, iOS, Android) [ArtRage](/broken/pages/q2nxS4JFfbvUSFOJ7rBv)
 * **Clip Studio Paint** (Windows, MacOS, Android, iOS) [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
 * **Drawpile** (Web, Windows, MacOS, Android, Linux) [https://drawpile.net/](https://drawpile.net/)
 * **Expresii** (Windows) [Expresii](../catalog/apps/expresii.md)

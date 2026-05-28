@@ -399,7 +399,6 @@
   * [Catalog: Apps](catalog/apps/README.md "Apps")
     * [MyPaint](catalog/apps/mypaint.md)
     * [Adobe Photoshop](catalog/apps/adobe-photoshop.md)
-    * [ArtRage](catalog/apps/artrage.md)
     * [Affinity](catalog/apps/affinity.md)
     * [Autodesk Maya](catalog/apps/autodesk-maya.md)
     * [Blender](catalog/apps/blender.md)

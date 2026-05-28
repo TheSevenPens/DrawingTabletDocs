@@ -8,11 +8,11 @@
 
 ## Thoughts on Photoshop
 
-I am really not a Photoshop expert. And because I use affinity photo for basic photo editing my reason for using Adobe Photoshop are these:
+I am not really a Photoshop expert. I use Affinity Photo for basic photo editing, so my reasons for using Adobe Photoshop are simple.
 
-First it is the industry-standard application for doing photo editing. So I use it just to stay up to date with the latest updates.
+First, it is the industry-standard app for photo editing. I use it to stay current with new features.
 
-Second in particular I really do take advantage of some of their AI features/filters. For example their tools to remove things from a photo are the best I've ever seen.
+Second, I do make use of some of its AI features and filters. For example, its object removal tools are the best I have seen.
 
 ## Learning how to use Photoshop
 
@@ -30,7 +30,7 @@ Second in particular I really do take advantage of some of their AI features/fil
 
 ## Tips & Tricks
 
-* [PiXimperfect - Photoshop Runnign Slow? 10 Quick Fixes!](https://www.youtube.com/watch?v=pYSk2qo3LNE) 2023-09-03
+* [PiXimperfect - Photoshop Running Slow? 10 Quick Fixes!](https://www.youtube.com/watch?v=pYSk2qo3LNE) 2023-09-03
 
 ## Using Photoshop with a drawing tablet
 

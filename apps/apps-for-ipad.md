@@ -7,7 +7,7 @@ This is a list of some prominent apps for iPads. If you want to see a larger lis
 ## Popular apps for iPad
 
 * [Procreate](../catalog/apps/procreate.md)
-* [ArtRage](../catalog/apps/artrage.md)
+* [ArtRage](/broken/pages/q2nxS4JFfbvUSFOJ7rBv)
 * [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
 * [Fresco](../catalog/apps/fresco.md)
 * [Ibis Paint](../catalog/apps/ibis-paint.md)
