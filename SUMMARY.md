@@ -561,7 +561,7 @@
     * [Ugee](catalog/drawtabs/ugee.md)
     * [DigiDraw](catalog/drawtabs/digidraw/README.md)
       * [DigiDraw Turing Basic M (T610)](catalog/drawtabs/digidraw/digidraw-t610-notes.md)
-  * [Catalog: pens](catalog/pens/README.md "Pens")
+  * [Catalog: Pens](catalog/pens/README.md "Pens")
     * [Samsung pens](catalog/pens/samsung-s-pen/README.md "Samsung")
       * [Samsung S Pen notes](catalog/pens/samsung-s-pen/samsung-s-pen-notes.md "S Pen notes")
       * [Upgrading to Wacom One Pen (CP-913)](catalog/pens/samsung-s-pen/upgrading-to-wacom-cp913.md)

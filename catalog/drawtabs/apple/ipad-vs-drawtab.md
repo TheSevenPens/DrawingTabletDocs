@@ -14,7 +14,7 @@ For more information:
 
 Even though an Apple iPad is not technically speaking a drawing tablet, it can serve the same function as a standalone drawing tablet in many ways.
 
-And many people find that their iPad when combined with the apple pencil serves that need well enough that they don't need to get a separate drawing tablet.
+And many people find that their iPad, when combined with the Apple Pencil, serves that need well enough that they do not need a separate drawing tablet.
 
 There are several types of drawing tablets: [Types of drawing tablets](../../../basics/drawtab-types/)
 
@@ -29,7 +29,7 @@ In this document, I compare iPads to these two kinds of non-standalone drawing t
 
 ## What do people prefer?
 
-Some people prefer using apple iPads
+Some people prefer using Apple iPads
 
 Some people prefer using drawing tablets
 
@@ -47,10 +47,10 @@ A big amount of the drawing experience is due to how the pens work. See this com
 
 ## Pen hover
 
-Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people this is a convenient but not critical feature. For some artists this is very very important more here: [Apple iPad vs drawing tablets](ipad-vs-drawtab.md#pen-hover).
+Pen hover support is the ability for the pen to move the pointer without touching the surface of a device. For some people, this is convenient but not critical. For some artists, this is very important. More here: [Apple iPad vs drawing tablets](ipad-vs-drawtab.md#pen-hover).
 
 * Hover support for an iPad is dependent on the specific combination of iPad model and Apple Pencil model
-  * Older iPad Pro models models do not support pen hover regardless of which Apple Pencil us used.
+  * Older iPad Pro models do not support pen hover regardless of which Apple Pencil is used.
   * Some newer iPad Pro models do support pen hover
 * All drawing tablets support hover with their pens.
 
@@ -67,7 +67,7 @@ This is very hard to objectively measure, but based on my investigation here is 
 So a typical user will find that:
 
 * An iPad seems to have less lag and be more responsive than a pen display (screen tablet).
-* An iPad seems to be about as responsibe as a pen tablet (screen tablet)
+* An iPad seems to be about as responsive as a pen tablet
 
 ## **Parallax**
 
@@ -75,7 +75,7 @@ iPads and pen displays are subject to parallax. An apparent visual inaccuracy du
 
 In 2023, most pen displays have good or very good (meaning low) parallax. But the iPads have even less parallax than even the most expensive pen displays.
 
-In my opinion, even the the iPad is better at having less parallax, the improvement is not so great compared to most modern pen displays that I would make a purchase decision on. You'll only see the difference for older less premium pen displays.
+In my opinion, even though the iPad is better at having less parallax, the improvement is not so great compared to most modern pen displays that I would make a purchase decision based on it. You will mostly see the difference with older, less premium pen displays.
 
 ## **Anti-glare sparkle**
 
@@ -92,17 +92,17 @@ Apple iPads by default do not use etched glass. But in recent years Apple offers
 
 ## Slippery screens
 
-ON normal glass, pen will feel a bit slippery while drawing.
+On normal glass, the pen will feel a bit slippery while drawing.
 
-For pen displays , the etched glass or AG film will add some texture and grip to the surface and then pen will not slide.
+For pen displays, the etched glass or AG film adds some texture and grip to the surface, and then the pen will not slide as much.
 
 Apple iPads without the Nano Texture do feel a bit slippery. Some people use 3rd party screen protectors on their iPads which also add a bit of grip.
 
 ## Size & Active Area
 
-The active area of drawing tablet is the region on the tablet that detects the pen. For a pen tablet, the active area is identified by markings on the surface. For a pen displays and iPads the active area is exactly the same size as the screen.
+The active area of a drawing tablet is the region on the tablet that detects the pen. For a pen tablet, the active area is identified by markings on the surface. For pen displays and iPads, the active area is exactly the same size as the screen.
 
-Measuring diagonally, the difference devices vary in sizes
+Measuring diagonally, the different devices vary in size:
 
 * Pen tablets - from 7" (small) to 11" (medium) to 15" (large).
 * Pen displays - from 13" (small) to 16" (medium) to 24" (large). And there are many other sizes such as 22" and 27" and some are even 32".
@@ -110,20 +110,20 @@ Measuring diagonally, the difference devices vary in sizes
 
 Some people really prefer drawing on a big screen on their desk so they use pen displays for this reason. For example at my desk I prefer drawing on a 22" pen display.
 
-When drawing on-the-go, the ipad size is quite convenient.
+When drawing on the go, the iPad size is quite convenient.
 
 ## Apps
 
-The application ecosystem is quite different between drawing tablets and Ipads. With a drawing tablet do you use applications that run on desktop operating system such as windows or MacOS. But with an iPad you'll only be using applications that can run on iOS.
+The application ecosystem is quite different between drawing tablets and iPads. With a drawing tablet, you use applications that run on desktop operating systems such as Windows or macOS. But with an iPad, you only use applications that can run on iOS.
 
 So if you're trying to pick between an iPad and a drawing tablet you should first identify which applications are critical for you.
 
-* Some apps are available on iOS and desktop OS's (MacOS, Windows)
+* Some apps are available on iOS and desktop OSes (macOS, Windows)
   * Examples:
     * Clip Studio Paint: Windows, MacOS, iOS
     * Infinite Painter: Windows, iOS
 * Some applications are either not available on the iPad at all
-  * Example: Rebelle, Firealpaca
+  * Example: Rebelle, FireAlpaca
 * Some applications only have a "lite" version on iPad
   * Example: Photoshop only has a "lite" version available on iOS
 * Some applications are of course only available on the iPad.

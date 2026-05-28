@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Samsung Galaxy Tabs S series of tablets with the and the Samsung S Pen can play the role of drawing tablets very well and are a compelling alternative to Apple iPads.
+The Samsung Galaxy Tab S series of tablets with the Samsung S Pen can play the role of drawing tablets very well and are a compelling alternative to Apple iPads.
 
 If you are exploring options for this category of devices, see: [Pen-enabled mobile device recommendations](../../../../recs/mobile-device-recs.md)
 
@@ -25,8 +25,8 @@ There are many models available over the years, so it is likely you can find som
     * 8GB RAM with 256GB of storage ($520)
     * Both will work, but I always recommend getting more RAM for drawing apps.
 * **Samsung Galaxy Tab S6 LITE**
-  * ($240) is a good a low-cost option for beginners.
-  * RECOMMENDED as great BUDGET choice for esp. for beginners. Performance is a but sluggish compared to other models but is enough for basic drawing.
+* ($240) is a good low-cost option for beginners.
+* RECOMMENDED as a great budget choice, especially for beginners. Performance is a bit sluggish compared to other models, but it is enough for basic drawing.
   * There are different editions based on year
     * 2024 edition
     * 2022 edition - [Samsung Galaxy Tab S6 lite notes](samsung-tab-s6lite-notes.md)
@@ -40,7 +40,7 @@ The Samsung Galaxy Tab series has many models that span a wide range of sizes.
 Size has a huge impact on how the tablet feels to use especially with the 16X9 aspect ratio of these tablets. So put careful thought into picking the appropriate size for you.
 
 * The size of the S9 FE is compact which makes it portable but big enough for me to draw on the couch and in bed and when I am travelling.
-* The S8 Ultra is very big. This works great when using it like a laptop, but it's size with its 16x9 aspect ratio can a bit just too much to deal with when holding close to drawing.
+* The S8 Ultra is very big. This works great when using it like a laptop, but its size with its 16x9 aspect ratio can be a bit too much to deal with when holding it close for drawing.
 
 ## Included pen
 
@@ -48,7 +48,7 @@ Samsung Galaxy Tab S devices come with the Samsung S Pen: [Samsung S Pen notes](
 
 ## Compatible pens
 
-These tablets are also compatible with a few the second generation of UD EMR pens
+These tablets are also compatible with a few second-generation UD EMR pens.
 
 More here: [Tablets that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-tablets.md)
 
@@ -63,7 +63,7 @@ Specific examples of compatible pens are:
 
 RATING: Very good
 
-All three exhibit very low pointer lag. A bit more than the apply pencil, but less than even high end pen displays such as a Wacom Cintiq Pro.
+All three exhibit very low pointer lag. A bit more than the Apple Pencil, but less than even high-end pen displays such as a Wacom Cintiq Pro.
 
 ## System lag
 
@@ -76,27 +76,26 @@ As for software here are the apps I use with it. Stars indicate the apps I use m
 
 * [Clip Studio Paint](../../../apps/clip-studio-paint.md)
 * [HiPaint](../../../apps/hipaint.md) (works very similar to Procreate on iPads) ⭐
-* [Infinite Painter](../../../apps/infinite-painter.md)(works similar to Procreate on iPads) ⭐
-* [Infinite Painter](../../../apps/infinite-painter.md)
+* [Infinite Painter](../../../apps/infinite-painter.md) (works similarly to Procreate on iPads) ⭐
 * [Ibis Paint](../../../apps/ibis-paint.md)
 
 More here: [Apps](../../../../apps/)
 
-## Something similar procreate
+## Something similar to Procreate
 
-A common question from people considering the Samsung Galaxy tab series is whether the procreate app works on these tablets.
+A common question from people considering the Samsung Galaxy Tab series is whether the Procreate app works on these tablets.
 
 Procreate is iPad-only.
 
-The closes you can come to Procreate on a Samsung device is [HiPaint](../../../apps/hipaint.md).
+The closest you can come to Procreate on a Samsung device is [HiPaint](../../../apps/hipaint.md).
 
 ## Versus the Apple iPad
 
-You might be interested in the Tab S series as an alternative the Apple iPad. If so, go here: 7P notes: [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-vs-samsung-tab-s.md)
+You might be interested in the Tab S series as an alternative to the Apple iPad. If so, go here: [Apple iPad versus Samsung Galaxy Tab S](../../apple/apple-ipad-vs-samsung-tab-s.md)
 
 ## Using a Galaxy Tab S tablet as an external monitor via USB-C
 
-This means sending a display signal from a computer to this tablet. These tablets have no built in way to act as a monitor for your PC via USB-C.
+This means sending a display signal from a computer to this tablet. These tablets have no built-in way to act as a monitor for your PC via USB-C.
 
 Some people report that they can use software called [SuperDisplay](https://superdisplay.app/) to make this happen, but I have not tried it.
 
@@ -107,5 +106,5 @@ This means sending a video signal from the tablet to an external monitor. Whethe
 In my testing
 
 * Samsung Galaxy Tab S8 Ultra- can use an external monitor
-* Samsung Galaxy Tab S9 FE - can not use an external monitor
-* Samsung Galaxy Tab S6 LITE - can not use an external monitor
+* Samsung Galaxy Tab S9 FE - cannot use an external monitor
+* Samsung Galaxy Tab S6 LITE - cannot use an external monitor

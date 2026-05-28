@@ -4,11 +4,11 @@
 
 #### FAQ: Which brands of drawing tablet should I get?
 
-An overview of the brands and my take on some of them are here: [Brands](brands/)
+An overview of the brands, and my take on some of them, is here: [Brands](brands/)
 
 #### FAQ: Is iPad better than a drawing tablet?
 
-Read : [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md)
+See: [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md)
 
 #### FAQ: Can I use a drawing tablet with my iPad or iPhone?
 
@@ -16,24 +16,24 @@ It is possible in some cases. More here: [Using drawing tablets with an iPad or 
 
 #### FAQ: Can I use a drawing tablet with a Chromebook?
 
-YES, It is possible, but be prepared for potential limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/platforms/chromeos/drawtabs-with-chromeos.md)
+Yes, it is possible. Be prepared for some limitations. Read more here: [Connecting a drawing tablet to a ChromeOS device](guides/platforms/chromeos/drawtabs-with-chromeos.md)
 
 #### FAQ: What size drawing tablet should I get?
 
-It really depends on a lot of factors.
+It depends on a lot of factors.
 
-* For pen tablets - I recommend a MEDIUM size (about 11")
-* For pen displays - I recommend a MEDIUM size (about 16") though many start off with a 13" and I personally prefer a 22"
+* For pen tablets, I recommend a medium size, about 11 inches.
+* For pen displays, I recommend a medium size, about 16 inches. Many people start with 13 inches. I personally prefer 22 inches.
 
 More here: [Choosing the right size for a drawing tablet](buying/choosing-size.md)
 
 #### FAQ: Which cables do I need for my tablet?
 
-* First you need to identify the tablet's model number
-* Then, once you have the model number contact customer support to identify the cables
-* I recommend you watch youtube videos of the people reviewing, unboxing, setting up the tablet. This will help you under stand which cables came in the box and how they plug into the ports of tablet, computer, power supplies, etc.
-* Once you've identified the cables you need, you can need to purchase them. Some options
-  * From the tablet brand's online store
+* First, identify the tablet's model number.
+* Then, once you have the model number, contact customer support to identify the cables.
+* I recommend watching YouTube videos of people reviewing, unboxing, and setting up the tablet. This will help you understand which cables came in the box and how they plug into the ports on the tablet, computer, and power supplies.
+* Once you've identified the cables you need, you can purchase them from:
+  * The tablet brand's online store
   * Amazon
   * eBay
 
@@ -41,41 +41,41 @@ More here: [Choosing the right size for a drawing tablet](buying/choosing-size.m
 
 There is no single right answer. Each has pros and cons. More here: [Pen tablets vs pen displays](buying/pen-tablets-vs-pen-displays.md)
 
-## Pen Displays
+## Pen displays
 
-#### FAQ: Why does my pen display have a sparkly grain/noisy/greasy look?
+#### FAQ: Why does my pen display have a sparkly, grainy, noisy, or greasy look?
 
-To avoid the light sources from interfering with using your drawing tablet, Manufacturers apply an **anti-glare treatmen**t to drawing tablets. This anti-glare treatment disperses like from the tablet in such a way that you see it as a colorful sparkle. Read more here: [Anti-glare sparkle](guides/pen-displays/ag-sparkle.md).
+To reduce reflections and make the display easier to use, manufacturers apply an **anti-glare treatment**. This treatment scatters light, which can create a colorful sparkle or grainy look. Read more here: [Anti-glare sparkle](guides/pen-displays/ag-sparkle.md).
 
 #### FAQ: Can I use a pen display as a normal monitor?
 
-Answer: YES. But there are some things you should consider if you want to use it this way: [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
+Yes. But there are some things to consider if you want to use it that way: [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
 
-#### FAQ: Why does my pen display show a temporary after image?
+#### FAQ: Why does my pen display show a temporary afterimage?
 
-This is temporary phenomena called [**Image Persistence**](https://en.wikipedia.org/wiki/Image_persistence). This is not a permanent change and is not screen burn in ([https://en.wikipedia.org/wiki/Screen\_burn-in](https://en.wikipedia.org/wiki/Screen_burn-in)).
+This is a temporary phenomenon called [**image persistence**](https://en.wikipedia.org/wiki/Image_persistence). It is not a permanent change, and it is not screen burn-in ([Screen burn-in](https://en.wikipedia.org/wiki/Screen_burn-in)).
 
 #### FAQ: Can I use a pen display without plugging in the HDMI cable?
 
-Answer: YES. More here: [Using a pen display as a pen tablet](guides/customizing/pen-display-as-pen-tablet.md)
+Yes. More here: [Using a pen display as a pen tablet](guides/customizing/pen-display-as-pen-tablet.md)
 
 #### FAQ: How do I make my pen display mirror what is on my monitor?
 
-See this: [Mirroring or extending](guides/customizing/mirroring-or-extending.md)
+See: [Mirroring or extending](guides/customizing/mirroring-or-extending.md)
 
 #### FAQ: How do I enable mouse mode on a pen display?
 
-The drivers that manufacturers release for their drawing tablets support Mouse Mode often only on their pen tablets but not on pen displays.
+The drivers that manufacturers release for their drawing tablets often support Mouse Mode only on pen tablets, not on pen displays.
 
 #### FAQ: Can I fix a dead pixel on my pen display?
 
-It **MAY** be possible to fix. More here: [Dead pixels](guides/pen-displays/dead-pixels.md).
+It **may** be possible. More here: [Dead pixels](guides/pen-displays/dead-pixels.md).
 
 ## General
 
-#### FAQ: Is it normal for pen to lag?
+#### FAQ: Is it normal for a pen to lag?
 
-Answer: YES. All drawing tablets experience some kind of lag. Pen tablets experience less lag than pen displays. However, extreme lag is not normal. You should be able to comfortably draw even if there is some lag. Read my notes on [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
+Yes. All drawing tablets have some lag. Pen tablets usually have less lag than pen displays. However, extreme lag is not normal. You should still be able to draw comfortably. More here: [Pointer lag](core/pointer-lag.md)
 
 #### FAQ: Can I extend the length of my cables?
 
@@ -97,26 +97,26 @@ See this guide: [Dealing with water damage](guides/maintain/dealing-with-water-d
 
 #### FAQ: Can I use a metal nib with my pen?
 
-Answer: I personally do not recommend this,. However. YES it is possible, but BE CAREFUL and DO YOUR RESEARCH. There are potential risks to your pen and tablet. More here: [Using metal nibs](guides/customizing/metal-nibs.md)
+I do not recommend this. However, it is possible. Be careful and do your research. There are potential risks to your pen and tablet. More here: [Using metal nibs](guides/customizing/metal-nibs.md)
 
 #### FAQ: How do I connect my pen to my drawing tablet?
 
 More here: [Connecting a pen to a drawing tablet](guides/connecting/connecting-pen-to-drawtab.md)
 
-#### FAQ: My pen is lost/broken. Can I just buy a replacement pen or do I have to buy a new tablet?
+#### FAQ: My pen is lost or broken. Can I just buy a replacement pen, or do I have to buy a new tablet?
 
-You just need to buy a pen of the SAME EXACT MODEL and it will work with your tablet. You don't even have to connect it - just bring it close to your tablet and it will work.
+You just need to buy a pen with the same exact model, and it will work with your tablet. You usually do not need to connect or pair it. Just bring it close to the tablet, and it should work.
 
 ## Drivers
 
 #### FAQ: What do I do if a driver no longer supports my tablet?
 
-See: [TSG: driver no longer supports a drawing tablet](troubleshoot/tsg-driver-drops-drawtab-support.md)
+See: [TSG: Driver no longer supports a drawing tablet](troubleshoot/tsg-driver-drops-drawtab-support.md)
 
 #### FAQ: Can I have two tablet drivers from different manufacturers installed at the same time?
 
 It depends. More here: [Connecting multiple drawing tablets at the same time](guides/general/connecting-multiple-drawtabs.md)
 
-#### FA&#x51;**: How to I completely uninstall a tablet driver on Windows?**
+#### FAQ: How do I completely uninstall a tablet driver on Windows?
 
 See: [Tablet Driver Cleanup tool](guides/drivers/tablet-driver-cleanup-tool.md)

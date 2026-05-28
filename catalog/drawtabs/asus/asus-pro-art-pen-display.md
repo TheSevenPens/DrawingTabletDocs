@@ -2,7 +2,7 @@
 
 ## Basics
 
-* product page: [https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa169cdv/](https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa169cdv/)
+* Product page: [https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa169cdv/](https://www.asus.com/displays-desktops/monitors/proart/proart-display-pa169cdv/)
 
 ## Specs
 
@@ -11,13 +11,13 @@
 * Diagonal: 15.6
 * Display tech: IPS
 * Native resolution: 3840 × 2160 (4K UHD)
-* Aspect Ratio: 16:9 PPI 282 PPI&#x20;
-* Pmm 0.092 mm&#x20;
-* viewing angles: 178° horizontal / 178° vertical&#x20;
+* Aspect Ratio: 16:9 PPI 282 PPI
+* Pmm 0.092 mm
+* Viewing angles: 178° horizontal / 178° vertical
 * Anti-glare treatment: etched glass
-* refresh rate: 60 Hz&#x20;
-* response time: 10 ms (GTG)&#x20;
-* Support for showing Multiple inptus: YES
+* Refresh rate: 60 Hz
+* response time: 10 ms (GTG)
+* Support for showing multiple inputs: YES
   * Picture-in-Picture (PIP)
   * Picture-by-Picture (PBP)
 
@@ -30,21 +30,21 @@
   * 88% DCI-P3 coverage
 * Brightness: 450 nits typical brightness
   * 500 nits peak brightness (HDR)
-* Contrast ratio: 1200:1 typical&#x20;
+* Contrast ratio: 1200:1 typical
   * 15,000:1 HDR contrast
 
 ## Digitizer
 
 * Pressure levels: 4096
 * Tilt: YES
-* Digitizer resolution: Unknown&#x20;
-  * likely 100 LPmm or 200 LPmm&#x20;
+* Digitizer resolution: Unknown
+  * likely 100 LPmm or 200 LPmm
 
 ## Pen input
 
 * Included pen: ProArt Pen (model MPA01).
   * See: [ASUS ProArt Pen (MPA01) notes](../../pens/asus/aus-mpa01-notes.md)
-* pen tech: EMR (UD EMR)
+* Pen tech: EMR (UD EMR)
 
 ## Non-pen inputs
 
@@ -79,16 +79,15 @@
 
 ## Windows
 
-Works great! With Windows if you get it connected with video signal and data then you can use it out-of-the-box with no drivers because it relies on the built-in Windows drivers.
+Works great. With Windows, if you get it connected with video signal and data, then you can use it out of the box with no drivers because it relies on the built-in Windows drivers.
 
-## Pen does not work on MacOS
+## Pen does not work on macOS
 
-* The pen completely does not work on MacOS.
-* This is because this is a "driverless drawing tablet" and unlike Windows, MacOS does not have built-in drivers for drawing tablets
+* The pen does not work at all on macOS.
+* This is because this is a "driverless drawing tablet," and unlike Windows, macOS does not have built-in drivers for drawing tablets.
 
 ## Links
 
-* [Brad Colbow review of ASUS ProArt Pen Display ](https://www.youtube.com/watch?v=867nj5QtxlQ)(PA169CDV) 2023-11-30
-* [Teoh on Tech review of ASUS ProArt Pen Display ](https://www.youtube.com/watch?v=jglWaHy1c8o)(PA169CDV) 2023-10-02
-* [Ergojosh review of ASUS ProArt Pen Display](https://www.youtube.com/watch?v=94ruJs7gtzU) (PA169CDV) 20243-01-25
-
+* [Brad Colbow review of ASUS ProArt Pen Display (PA169CDV)](https://www.youtube.com/watch?v=867nj5QtxlQ) 2023-11-30
+* [Teoh on Tech review of ASUS ProArt Pen Display (PA169CDV)](https://www.youtube.com/watch?v=jglWaHy1c8o) 2023-10-02
+* [Ergojosh review of ASUS ProArt Pen Display (PA169CDV)](https://www.youtube.com/watch?v=94ruJs7gtzU) 2024-01-25

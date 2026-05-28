@@ -1,6 +1,6 @@
 # Apple iPad
 
-<table data-header-hidden><thead><tr><th>BASICS</th><th width="249">COMPARISONS</th><th>GUIDES</th></tr></thead><tbody><tr><td><h2>Basics</h2></td><td><h2>Comparisons</h2></td><td><h2>Guides</h2></td></tr><tr><td><p></p><ul><li><a href="apple-ipad-notes.md">Apple iPad notes</a></li><li><a href="../../pens/apple-pencil/apple-pencil-notes.md">Apple Pencil notes</a></li><li><a href="../../pens/apple-pencil/">Apple pens</a></li><li><a href="../../../apps/apps-for-ipad.md">Apps for iPad</a></li></ul></td><td><p></p><ul><li><a href="ipad-vs-drawtab.md">vs drawing tablets</a></li><li><a href="apple-ipad-vs-samsung-tab-s.md">vs Samsung Galaxy Tab S</a></li></ul></td><td><p></p><ul><li><a href="ipad-as-pen-display.md">Using iPad as as pen display</a></li><li><a href="../../../guides/platforms/ios-and-ipados/drawtabs-with-ios.md">Using drawing tablets with an iPad or iPhone</a></li><li><a href="../../../buying/switch-brands/switch-ipad-to-drawtab.md">Switching from an iPad to a drawing tablet</a></li></ul></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th>BASICS</th><th width="249">COMPARISONS</th><th>GUIDES</th></tr></thead><tbody><tr><td><h2>Basics</h2></td><td><h2>Comparisons</h2></td><td><h2>Guides</h2></td></tr><tr><td><ul><li><a href="apple-ipad-notes.md">Apple iPad notes</a></li><li><a href="../../pens/apple-pencil/apple-pencil-notes.md">Apple Pencil notes</a></li><li><a href="../../pens/apple-pencil/">Apple pens</a></li><li><a href="../../../apps/apps-for-ipad.md">Apps for iPad</a></li></ul></td><td><ul><li><a href="ipad-vs-drawtab.md">vs drawing tablets</a></li><li><a href="apple-ipad-vs-samsung-tab-s.md">vs Samsung Galaxy Tab S</a></li></ul></td><td><ul><li><a href="ipad-as-pen-display.md">Using iPad as a pen display</a></li><li><a href="../../../guides/platforms/ios-and-ipados/drawtabs-with-ios.md">Using drawing tablets with an iPad or iPhone</a></li><li><a href="../../../buying/switch-brands/switch-ipad-to-drawtab.md">Switching from an iPad to a drawing tablet</a></li></ul></td></tr></tbody></table>
 
 ## Links
 
@@ -11,7 +11,7 @@
 2025 Apple M3 iPad Air
 
 * [Teoh on Tech - Artist Review: iPad Air 7 (2025) vs M4 iPad Pro (2024)](https://www.youtube.com/watch?v=FKuDIipoRUg) 2025-06-10
-* [Brad Colbow - M3 iPad Air Review](https://www.youtube.com/watch?v=kKZf_nAoofA) 2025 2025-03-13
+* [Brad Colbow - M3 iPad Air Review](https://www.youtube.com/watch?v=kKZf_nAoofA) 2025-03-13
 
 2024 Apple iPad Mini
 
@@ -28,7 +28,7 @@
 * [Dave2D - My 2024 iPad Pro Review](https://www.youtube.com/watch?v=bG2N4a0ir3A) - 2024-05-13
 * [MobileTechReview - Apple M4 iPad Pro (2024)](https://www.youtube.com/watch?v=Wl7292aOPRA) Review - 2024-05-18
 * [Teoh on Tech - Artist Review: M4 iPad Pro & Apple Pencil Pro](https://www.youtube.com/watch?v=guttCuXV8bA) - 2024-05-21
-* [Teoh on Tech -PWM from M4 iPad Pro OLED vs LCD](https://www.youtube.com/watch?v=zWc30I27M3o) - 2024-05-25
+* [Teoh on Tech - PWM from M4 iPad Pro OLED vs LCD](https://www.youtube.com/watch?v=zWc30I27M3o) - 2024-05-25
 
 2024 iPad Air
 

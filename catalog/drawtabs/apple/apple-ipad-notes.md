@@ -19,11 +19,11 @@ I refer to the **Apple Pencil** as a **pen** to keep my documentation consistent
 
 There have been many models of the iPad released over the years. And many models of the [Apple pens](../../pens/apple-pencil/). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
 
-The vary quite a bit in price, below are three models I personally own. You will find many others that work also.
+They vary quite a bit in price. Below are three models I personally own. You will find many others that work as well.
 
 * **Apple iPad Air (4th gen and later)** ($600)
 * **Apple iPad Pro 11 inch (4th gen and later)** ($800+)
-* **Apple iPad pro 12.9 inch 6th gen** ($1100+)
+* **Apple iPad Pro 12.9 inch 6th gen** ($1100+)
 
 [Teoh on Tech - 2025 Best iPad for Art: Pros and cons for each model](https://www.youtube.com/watch?v=8XsPzA39oCo) 2025-07-24
 
@@ -53,20 +53,20 @@ Some popular and excellent drawing applications are available on the iPad.
 * [Fresco](../../apps/fresco.md)
 * [Ibis Paint](../../apps/ibis-paint.md)
 
-See a larger this list: [Apps for iPad](../../../apps/apps-for-ipad.md)
+See a larger list: [Apps for iPad](../../../apps/apps-for-ipad.md)
 
 ## Surface texture
 
 There are two kinds of built-in glass texture of iPads: **Smooth glass** and **Nano texture**
 
-* **Smooth glass** - Almost all iPads have their standard smooth glass. When using the Apple Pencil with the iPad, most people will find that touching the glass feels "slippery". Some people a do not like this slipperiness and purchase a protective sheet to put over top of it that provides texture for the pen.
+* **Smooth glass** - Almost all iPads have standard smooth glass. When using the Apple Pencil with the iPad, most people will find that the glass feels "slippery." Some people do not like this slipperiness and purchase a protective sheet to put over it that provides more texture for the pen.
 * **Nano texture** - Starting in 2024, some Apple iPad models can be ordered with a "Nano texture". I don't have any direct experience with this texture.
 
-You can also change the texture with protective sheets for iPads there are some options here: [Surface protection](../../../misc/surface-protectors-obsolete.md). Some of these sheets can help provide more texture for the improved traction with the Apple pencil.
+You can also change the texture with protective sheets for iPads. There are some options here: [Surface protection](../../../misc/surface-protectors-obsolete.md). Some of these sheets can help provide more texture and improve traction with the Apple Pencil.
 
 ## Diagonal wobble
 
-Noticeable diagonal wobble when drawing slowly - this occurs in some scenarios but not others and I need to investigate ti more. But this doesn't seem to hinder people.
+Noticeable diagonal wobble when drawing slowly - this occurs in some scenarios but not others, and I need to investigate it more. But this does not seem to hinder people.
 
 ## Apple Pencil
 
@@ -82,24 +82,24 @@ If you are going to draw with an Apple Pencil I recommend you get either the App
 
 ## Get the right Apple Pencil
 
-Different apple pencils support different features. For a drawing experience, these are the two models of interest. If you get one of the other models you will be missing out on a typical drawing experience.
+Different Apple Pencils support different features. For a drawing experience, these are the two models of interest. If you get one of the other models, you will be missing out on a typical drawing experience.
 
 * Apple Pencil GEN2
 * Apple Pencil Pro
 
 And remember: they work with specific iPad tablets, not all of them. So confirm compatibility.
 
-These pens support these featurs
+These pens support these features:
 
-* Pressure sensitivity&#x20;
-* Tilt&#x20;
+* Pressure sensitivity
+* Tilt
 * Hover
 * Barrel rotation only supported in Apple Pencil Pro
 
 ## Pencil support in iPads
 
-* Since around 2015, iPads have supported an Apple pencil. So ensure that the iPad you are purchasing supports the use of a pencil
-* Not all iPads support the use of the Apple Pencil. List of iPad Models that support the Apple pencil: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
+* Since around 2015, iPads have supported an Apple Pencil. So ensure that the iPad you are purchasing supports the use of one.
+* Not all iPads support the use of the Apple Pencil. List of iPad models that support the Apple Pencil: [https://support.apple.com/en-us/HT211029](https://support.apple.com/en-us/HT211029)
 
 ## Pen hover
 
@@ -118,7 +118,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 
 * iPads have very low pointer lag.
 * Some apps like Procreate seem very heavily optimized and (apparently) use special techniques to produce **extremely** low pointer lag.
-* More here: [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
+* More here: [Pointer lag](../../../core/pointer-lag.md)
 
 ## Anti-glare sparkle
 
@@ -142,14 +142,14 @@ There are many great apps for iPad: [Apps for iPad](../../../apps/apps-for-ipad.
 
 ## How I use iPads
 
-I use iPads for drawing - but mostly when I am at not my desk or when I am mobile. Otherwise when sitting at my desk I prefer to use a pen tablet or pen display.
+I use iPads for drawing - but mostly when I am not at my desk or when I am mobile. Otherwise, when sitting at my desk, I prefer to use a pen tablet or pen display.
 
 I use these iPad models with an Apple Pencil 2:
 
 * Apple iPad Pro (12.9 inch) (3rd gen) - Does NOT support hover
-* Apple iPad Pro (11 inch) (4rd gen) - Does support hover.
+* Apple iPad Pro (11 inch) (4th gen) - Does support hover.
 
-I primarily these use iPad apps
+I primarily use these iPad apps:
 
 * [Procreate](../../apps/procreate.md)
 * [Clip Studio Paint](../../apps/clip-studio-paint.md)
@@ -177,7 +177,7 @@ Also see: [Transferring files](../../../guides/general/transferring-files.md)
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) 2022-11-01
 * [Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art](https://www.youtube.com/watch?v=MJN8e8k-w-I) 2023-10-25
 * [Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad](https://www.youtube.com/watch?v=DDcdJu_gUb0) 2023-04-13
-* [Studio Fudelio - Why You Don't Need a Wacom Pen Displa](https://www.youtube.com/watch?v=7Mc8QDrPy6o)y 2023-11-26
+* [Studio Fudelio - Why You Don't Need a Wacom Pen Display](https://www.youtube.com/watch?v=7Mc8QDrPy6o) 2023-11-26
 
 ## Other resources
 

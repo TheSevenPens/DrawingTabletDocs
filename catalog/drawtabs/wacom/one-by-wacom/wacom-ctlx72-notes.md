@@ -2,16 +2,16 @@
 
 ## Overview
 
-The One By Wacom series of pen tablet (CTL-672, and CTL-472) are very good tablets. I highly recommend them for beginners. They are very reliable, have a good drawing experience, and allow you to explore drawing tablets without spending too much.
+The One by Wacom series of pen tablets (CTL-672 and CTL-472) are very good tablets. I highly recommend them for beginners. They are very reliable, have a good drawing experience, and let you explore drawing tablets without spending too much.
 
 ## Availability
 
-* Availability - As of December 2025, we see that retail inventories of these tablets has greatly diminished. It's getting very hard to find one. And those new one you can find are often marked up to a much higher price.
-* Some models are still available eBay. More here: [Buying used drawing tablets](../../../../buying/used-drawtabs.md)
+* Availability - As of December 2025, retail inventories of these tablets have greatly diminished. It is getting very hard to find one. And the new ones you can find are often marked up to a much higher price.
+* Some models are still available on eBay. More here: [Buying used drawing tablets](../../../../buying/used-drawtabs.md)
 
 ## Future
 
-There is NOT a modern Wacom tablet that is a direct successor to this tablet. Officially, Wacom seems to want people to use the Wacom One 2023 (CTC-x6110WL0) pen tablets. But these tablets are not good and I don't even recommend them. more here: [Wacom One 2023 pen tablets (CTC-x110WL) notes](../wacom-one/wacom-ctcx110wl-notes.md)
+There is NOT a modern Wacom tablet that is a direct successor to this tablet. Officially, Wacom seems to want people to use the Wacom One 2023 (CTC-x6110WL0) pen tablets. But these tablets are not good, and I do not even recommend them. More here: [Wacom One 2023 pen tablets (CTC-x110WL) notes](../wacom-one/wacom-ctcx110wl-notes.md)
 
 ### &#x20;<a href="#i-do-not-recommend-the-wacom-one-2023-pen-tablets" id="i-do-not-recommend-the-wacom-one-2023-pen-tablets"></a>
 
@@ -84,7 +84,7 @@ The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen.
 
 * **Cable** - the tablet comes with a Micro USB to USB-A cable. You can use this cable or any cable that supports data.
   * Instead of this cable, I used my own USB-C to USB-A cable and used a Male Micro USB to Female USB-C adapter. This specific one: [https://www.amazon.com/gp/product/B0BDLB86RT/](https://www.amazon.com/gp/product/B0BDLB86RT/)
-* **Ports** - the port on the tablet is Micro USB. Micro USB is not reversible unlike USB-C, so make sure you are connecting a cable in the right orientation.
+* **Ports** - the port on the tablet is Micro USB. Micro USB is not reversible, unlike USB-C, so make sure you are connecting a cable in the right orientation.
 * **Wireless** - These tablets **DO NOT SUPPORT WIRELESS CONNECTIVITY**. You must always use it with a cable.
 
 <figure><img src="../../../../.gitbook/assets/image-000065.jpg" alt=""><figcaption><p>Micro USB port on the left side of the tablet</p></figcaption></figure>

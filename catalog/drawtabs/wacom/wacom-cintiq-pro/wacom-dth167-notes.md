@@ -2,17 +2,17 @@
 
 ## Overview
 
-An EXCELLENT pen display.&#x20;
+An EXCELLENT pen display.
 
-Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16 from 2021 competes with them strongly. Wacom may have improved the new models support for color or added support for higher refresh rates, but they did not improve upon the already great drawing experience with this tablet.&#x20;
+Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16 from 2021 competes with them strongly. Wacom may have improved the new models' support for color or added support for higher refresh rates, but they did not improve on the already great drawing experience of this tablet.
 
-User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)&#x20;
+User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 
 ## Links
 
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 * Be aware there is an older model from 2016 also (DTH-1620)
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) &#x20;
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 * [Brad Colbow review of Cintiq Pro 16](https://www.youtube.com/watch?v=0B8cNzyO4bs) Mar 7, 2022
 * [Aaron Rutten review of Cintiq Pro 16](https://www.youtube.com/watch?v=v9pWwWE_vRM) Oct 26, 2021
 * [MobileTechReview review of Cintiq Pro 16](https://www.youtube.com/watch?v=IU-QOOB2AsU) Jan 11, 2022
@@ -50,7 +50,7 @@ I have it connected with a thunderbolt 3 cable and the Wacom power adapter that 
 
 ## Pen tracking accuracy
 
-VERY GOOD. Very accurate. Like all pen displays veyr slight inaccuracy at the last 1mm to 2mm at the edges or corners.
+VERY GOOD. Very accurate. Like all pen displays, there is very slight inaccuracy in the last 1mm to 2mm at the edges or corners.
 
 ## Pen Pressure
 
@@ -68,7 +68,7 @@ There are roughly 3 ways to connect to this tablet. All of them require a separa
 
 ### Using single USB-C cable
 
-While you can use a single USB-C cable to connect to your computer for data and video. You will need to separately power it with the power cable. &#x20;
+While you can use a single USB-C cable to connect to your computer for data and video. You will need to separately power it with the power cable.
 
 Note that this is a bit of change from the Cintiq Pro 2016 (DTH-1620). The DTH-1620 could get enough power through the USB-C cable.
 
@@ -86,7 +86,7 @@ It does not come with a stand. I use a VESA-compatible Huion stand to hold this 
 
 ## Legs
 
-No legs &#x20;
+No legs
 
 ## Diagonal Wobble
 

@@ -10,7 +10,7 @@ More here: [Cleaning a drawing tablet](../../guides/maintain/cleaning-drawtabs.m
 
 I've used two screen cleaning sprays: WOOSH and MISTIFY. Both work well.
 
-I spray the into a microfiber towel that comes with the bottle. I want the cloth damp (not wet). Then I wipe down the tablet screen.
+I spray them into a microfiber towel that comes with the bottle. I want the cloth damp, not wet. Then I wipe down the tablet screen.
 
 ## Demonstration
 
@@ -22,4 +22,4 @@ Here's a good video showing WOOSH in use: [https://www.youtube.com/watch?v=6zNUK
 
 ## Pen tablets
 
-These sprays also works on pen tablets, but the effects aren't especially dramatic.
+These sprays also work on pen tablets, but the effects are not especially dramatic.

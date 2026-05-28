@@ -8,7 +8,7 @@ There are several different Samsung S Pens. I am referring to the S Pens that co
 
 ## Overall
 
-RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience to what you would find in drawing tablets. I prefer it to the Apple pencil as a device, but the Apple Pencil has superior pressure handling, and the S Pen is certainly not as good as the Wacom Pro Pen 2.
+RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing experience similar to what you would find with drawing tablets. I prefer it to the Apple Pencil as a device, but the Apple Pencil has superior pressure handling, and the S Pen is certainly not as good as the Wacom Pro Pen 2.
 
 ## Basics
 
@@ -30,7 +30,7 @@ RATING: OK. The S Pen uses standard Wacom EMR and delivers a consistent drawing 
 There are several Samsung S Pen models. I am discussing the ones that come with the Samsung Galaxy Tab S series of devices. [Samsung Galaxy Tab S series notes](../../drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md).
 
 * S Pen that comes with the Samsung Galaxy Tab S tablets
-* S Pen that comes with the Samsung Galacy S phones
+* S Pen that comes with Samsung Galaxy S phones
 * S Pen Creator edition
 * S Pen (2025) edition
 
@@ -42,10 +42,10 @@ The overall pressure of the S pen is OK.
 
 * No different from previous S Pens in terms of drawing performance (IAF, max pressure)
 * Dropped Bluetooth support and features
-* Body hos hexagonal shape
-* different nib from previous
-* Pressure (IAF and max pressure) no different than previous S pens
-* Backwards compatibility - it works with devices that worked with the previous S pen. I have tested it the following devices and can confirm it worked as expected:
+* Body has a hexagonal shape
+* Different nib from previous versions
+* Pressure (IAF and max pressure) is no different from previous S Pens
+* Backward compatibility - it works with devices that worked with the previous S Pen. I have tested it with the following devices and can confirm it worked as expected:
   * Wacom MovinkPad 11
   * Samsung S8 Ultra
   * Samsung S24 Ultra
@@ -61,11 +61,11 @@ The IAF depends on which device you use it with.
 
 Physically the pen is capable of a low IAF - I would guess 3gf.
 
-However, if you use it with a Wacom tablet then the Wacom tablet deliberately increases the IAF to something like 5 or 6gf. I suspect this is done to encourage people to buy the much more expensive Wacom pro tablets and Wacom pro pens.\`
+However, if you use it with a Wacom tablet, the tablet deliberately increases the IAF to something like 5 or 6gf. I suspect this is done to encourage people to buy the much more expensive Wacom Pro tablets and Wacom Pro pens.
 
 ## Buttons
 
-The S Pen has one physical button, unlike the Apple iPad. This also differs from the pens of most drawing tablets like the Wacom Intuos or Wacom Intuos Pro. Those pens have two buttons, and some have three.
+The S Pen has one physical button, unlike the Apple Pencil. This also differs from the pens of most drawing tablets like the Wacom Intuos or Wacom Intuos Pro. Those pens have two buttons, and some have three.
 
 ## My pens
 
@@ -74,7 +74,7 @@ The S Pen has one physical button, unlike the Apple iPad. This also differs from
 
 ## Pen tech
 
-The S pen uses EMR tech - specifically they use Wacom UD EMR.
+The S Pen uses EMR tech - specifically Wacom UD EMR.
 
 Many UD EMR pens are cross compatible and you can interchangeably use them on tablets that support the S pen. More here: [Wacom UD EMR](../../../tech/wacom-ud-emr/).
 

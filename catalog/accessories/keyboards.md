@@ -2,11 +2,11 @@
 
 ## Overview
 
-For their drawing setips, sometimes people use smaller keyboards. The smaller size makes it easier to keep near the tablet without taking up too much space
+For their drawing setups, sometimes people use smaller keyboards. The smaller size makes it easier to keep one near the tablet without taking up too much space.
 
 ## Examples of small keyboards
 
-There are many smaller keyboard available, here are just a few examples.
+There are many smaller keyboards available. Here are just a few examples.
 
 ### Wacom keyboard
 
@@ -26,11 +26,8 @@ This small keyboard hasn't been in stock for a while. [https://estore.wacom.com/
 
 This device is intended to keep your keyboard easily accessible when using a large drawing tablet.
 
-![](<../../.gitbook/assets/image-000594.jpg>)
-
-
+![](../../.gitbook/assets/image-000594.jpg)
 
 **Videos**
 
-* [CreateNowSleepLater - CinTweak Universal Keyboard Tray for Wacom Cintiq, Huion, and XPPen Review](https://youtu.be/iuDreUS767M)&#x20;
-
+* [CreateNowSleepLater - CinTweak Universal Keyboard Tray for Wacom Cintiq, Huion, and XPPen Review](https://youtu.be/iuDreUS767M)

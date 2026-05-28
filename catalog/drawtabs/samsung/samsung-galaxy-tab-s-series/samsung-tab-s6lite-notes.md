@@ -15,11 +15,11 @@
 
 ### S6 Lite (2020 edition)
 
-* Get a more recent version edition (2022 or above) instead
+* Get a more recent edition (2022 or above) instead
 
 ## My notes on the S6 Lite 2022 edition
 
-If you are a beginner budget is constrained you might find that this slightly older tablet might meet your needs and is still not too expensive ($230)
+If you are a beginner and your budget is constrained, you might find that this slightly older tablet meets your needs and is still not too expensive ($230).
 
 **THESE NOTES ARE CURRENTLY IN PROGRESS**
 

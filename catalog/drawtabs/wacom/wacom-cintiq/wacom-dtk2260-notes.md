@@ -2,7 +2,7 @@
 
 ## Overview
 
-As of July 2024, Although released in 2019 the Wacom Cintiq 22 continues to deliver an excellent drawing experience possible with a slightly out-of-date screen.
+As of July 2024, although released in 2019, the Wacom Cintiq 22 continues to deliver an excellent drawing experience despite its slightly out-of-date screen.
 
 I bought mine used from eBay for $380 and was very satisfied.
 
@@ -10,7 +10,8 @@ Model year: 2019
 
 ## Links
 
-* User manual: [http://101.wacom.com/UserHelp/en/](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)[Aaron Rutten review of Wacom Cintiq 2](https://youtu.be/xBPNyYX6zi8) 2019-07-17
+* User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
+* [Aaron Rutten review of Wacom Cintiq 22](https://youtu.be/xBPNyYX6zi8) 2019-07-17
 * [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019-07-18
 * [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019-08-23
 * [MobileTechReview review of Wacom Cintiq 22](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019-07-19
@@ -61,7 +62,7 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 ## **Pen tracking**
 
-**Accuracy:** EXCELLENT in center an in edges and corners. very small deviation in corners and edges and better than many other tablets I have seen.
+**Accuracy:** EXCELLENT in the center and at the edges and corners. Very small deviation in corners and edges, and better than many other tablets I have seen.
 
 **Tilt compensation** - EXCELLENT. Tilting pen in its full supported range did not move the pointer from the tip by an appreciable amount.
 
@@ -83,13 +84,13 @@ VERY GOOD. Very faint ag sparkle visible. Only visible if eyes are 4" to 6" from
 
 pixels are clearly visible and well delineated
 
-## Blacklight bleed
+## Backlight bleed
 
-I think this did have a little more blacklight bleed than other pen displays. I'm not particularly sensitive to backlight bleed and it didn't affect me at all.
+I think this did have a little more backlight bleed than other pen displays. I am not particularly sensitive to backlight bleed, and it did not affect me at all.
 
 ## **Auxiliary inputs**
 
-Tablet has no none.
+Tablet has none.
 
 ## **VESA mounting**
 
@@ -103,7 +104,7 @@ I think the original packaging includes a stand but the used package I bought on
 
 ## **Legs**
 
-Does not have a legs.
+Does not have legs.
 
 ## Surface Texture
 
@@ -125,7 +126,7 @@ NO. This tablet does NOT support touch.
 
 ## Heat
 
-I ran the display at 100% brightness for two hours. The overall tablet is about room temperature with a very slight (very slight) warms to wards the left side.
+I ran the display at 100% brightness for two hours. The overall tablet stayed about room temperature, with very slight warmth toward the left side.
 
 ## Device shape
 
@@ -168,7 +169,7 @@ This port type is getting less common. So to make sure you know what the cable l
 
 **Special note on HDMI**
 
-In 2024, HDMI ports on laptops is getting rare. So you may need to get a USB-C to HDMI adapter for you USB-C port that supports DP alt mode. In my experience sometimes these adapters are "finicky". So be aware. More here: [Using HDMI adapters with pen displays](../../../../guides/pen-displays/hdmi-adapters/)
+In 2024, HDMI ports on laptops are getting rare. So you may need a USB-C to HDMI adapter for your USB-C port that supports DP Alt Mode. In my experience, these adapters can sometimes be "finicky." More here: [Using HDMI adapters with pen displays](../../../../guides/pen-displays/hdmi-adapters/)
 
 ## My connectivity setup
 
@@ -181,7 +182,7 @@ For the HDMI connection I tested two scenarios:
 * The Cintiq was connected to the dock via the USB cable and an HDMI cable using an adapter.
 * Connecting the Cintiq directly to the laptop with an HDMI cable.
 
-This is the adapter I used for HDMI when connecting to the CalDigit TS4 dock which has noHDMI port: Apple USB-C Digital AV Multiport Adapter.
+This is the adapter I used for HDMI when connecting to the CalDigit TS4 dock, which has no HDMI port: Apple USB-C Digital AV Multiport Adapter.
 
 <figure><img src="../../../../.gitbook/assets/image-000010.jpg" alt=""><figcaption></figcaption></figure>
 

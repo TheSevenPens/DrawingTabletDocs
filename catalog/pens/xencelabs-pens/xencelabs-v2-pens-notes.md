@@ -2,7 +2,7 @@
 
 ## Summary
 
-\`These are good performing pens with a good pressure range.
+These are good-performing pens with a good pressure range.
 
 ## Models
 
@@ -11,11 +11,11 @@
 
 ## Compatibility
 
-* These V2 pens do not work with the earlier Xencelabs pen tablet model (BPH1212W-A) that came with the V1 pens
+* These V2 pens do not work with the earlier Xencelabs pen tablet model (BPH1212W-A) that came with the V1 pens.
 
 ## Appearance
 
-* These V2 pens are sightly different than the previous V1 pens. The thing that visually distinguishes them the most is a small yellow Xencelabs logo near the eraser. This is a nice branding touch, I wish other tablet manufacturers followed this pattern.
+* These V2 pens are slightly different from the previous V1 pens. The thing that visually distinguishes them most is a small yellow Xencelabs logo near the eraser. This is a nice branding touch. I wish other tablet manufacturers followed this pattern.
 
 <figure><img src="../../../.gitbook/assets/image-000068.jpg" alt=""><figcaption><p>Thin Pen + Eraser v2</p></figcaption></figure>
 
@@ -45,4 +45,3 @@ Xencelabs has indicated their max pressure should be 500gf. My measurements foun
 ## Pressure response charts
 
 <figure><img src="../../../.gitbook/assets/image-000486.png" alt=""><figcaption></figcaption></figure>
-

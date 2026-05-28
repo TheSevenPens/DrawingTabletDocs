@@ -12,7 +12,7 @@ For more information:
 
 ## Overview
 
-**To some extent**, It is possible to use an iPad as a pen display connected to your computer. I don't have any direct experience with this, so I recommend you consult the resources below.
+**To some extent**, it is possible to use an iPad as a pen display connected to your computer. I do not have any direct experience with this, so I recommend that you consult the resources below.
 
 ## Resources
 

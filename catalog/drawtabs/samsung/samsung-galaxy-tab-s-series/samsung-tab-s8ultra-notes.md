@@ -2,7 +2,7 @@
 
 ## Overall
 
-* This is a good tablet with a notable bright crips OLED display.
+* This is a good tablet with a notably bright, crisp OLED display.
 * Drawing experience is typical for a Samsung Galaxy Tab S tablet - which is good.
 * I did feel it drained the battery faster than other tablets in my collection - even when I wasn't using it for heavy-duty tasks
 
@@ -35,7 +35,7 @@ These are my notes for this specific tablet. You may also be interested in [Sams
 
 ## Performance
 
-* While I didn't stress it, I found it the performance to be good. I had no complaints.
+* While I did not stress it, I found the performance to be good. I had no complaints.
 * Scrolling seemed snappy at all times and without any stuttering.
 
 ## Compatible Pens
@@ -44,7 +44,7 @@ In particular you should think about using the Wacom CP-913 instead of the Samsu
 
 ## Battery life
 
-Very good compared to a laptop. not as good compared to an iPad.
+Very good compared to a laptop. Not as good as an iPad.
 
 Also I noticed that when I was not using the device it seemed to quickly run down the battery after a few days. Unlike an iPad which seems to preserve its battery well when it is not in use.
 
@@ -54,7 +54,7 @@ The tablet comes with a Samsung S Pen. [Samsung S Pen notes](../../../pens/samsu
 
 ## Diagonal wobble
 
-Evalation: VERY GOOD. LOW amounts of diagonal wobble at slow speeds.
+Evaluation: VERY GOOD. Low amounts of diagonal wobble at slow speeds.
 
 <figure><img src="../../../../.gitbook/assets/image-000591.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,7 +65,7 @@ Evalation: VERY GOOD. LOW amounts of diagonal wobble at slow speeds.
   * One piece is the keyboard
   * The two pieces magnetically attach
 * Typing experience is OK
-* The cover is strongly attached to the back of the Tab S8 Ultra. it's not easy to dislodge.
+* The cover is strongly attached to the back of the Tab S8 Ultra. It is not easy to dislodge.
 * The strength of the attachment between the two pieces is very weak
   * it is very easy to dislodge the connection accidentally
   * Absolutely Do NOT lift the device by the keyboard part only. Even if it stays connected initially it will detach from the part of the cover that is attached to the tablet.

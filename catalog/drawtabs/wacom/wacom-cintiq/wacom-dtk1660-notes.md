@@ -18,6 +18,6 @@ This is a little bit of a dated tablet. I do suggest you consider getting the Ci
 
 This tablet connects to your computer via a proprietary 3-in-1 cable.
 
-This tablet does NOT support getting a video signal over a USB-C cable unlike many modern pen tablets
+This tablet does NOT support getting a video signal over a USB-C cable, unlike many modern pen displays.
 
 <figure><img src="../../../../.gitbook/assets/image-000246.png" alt=""><figcaption></figcaption></figure>

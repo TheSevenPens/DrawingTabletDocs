@@ -3,7 +3,7 @@
 {% hint style="info" %}
 For more information:
 
-* [Apple pens](./) -Keep in mind, there are several models of the apple pencil and not all have the same features.
+* [Apple pens](./) - Keep in mind, there are several models of the Apple Pencil, and not all have the same features.
 
 About iPad:
 
@@ -14,7 +14,7 @@ About iPad:
 
 ## Overview
 
-The Apple Pencil is provokes very different reactions in people:
+The Apple Pencil provokes very different reactions in people:
 
 * Some people love using it
 * Some people hate using it
@@ -30,9 +30,9 @@ One thing is clear: the Apple Pencil feels very different from an EMR pen. And p
 
 ## Compatibility with iPads
 
-Not every apple pencil version is compatible with every iPad.
+Not every Apple Pencil version is compatible with every iPad.
 
-iPad vs Apple pencil compatibility list - [https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841](https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841)
+iPad vs Apple Pencil compatibility list - [https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841](https://www.lifewire.com/apple-pencil-compatibility-with-ipad-5189841)
 
 ## Feature comparison by model
 
@@ -40,21 +40,21 @@ iPad vs Apple pencil compatibility list - [https://www.lifewire.com/apple-pencil
 
 ## Apple Pencil versus drawing tablet pens
 
-Below are a list of things that drawing tablet users have pointed out about using the Apple Pencil. Not everyone experiences the same issues, but I do think these are representative of the overall Hover
+Below is a list of things that drawing tablet users have pointed out about using the Apple Pencil. Not everyone experiences the same issues, but I do think these are representative overall.
 
 ## Digital pen technology
 
-Apple pencil uses a proprietary protocol that we believe is similar to Wacom AES. It does NOT use EMR. We aren't even sure of the name of the technology and no documentation from Apple is available that describes it.
+Apple Pencil uses a proprietary protocol that we believe is similar to Wacom AES. It does NOT use EMR. We are not even sure of the name of the technology, and no documentation from Apple is available that describes it.
 
 ## Hover
 
-All EMR drawing tablet pens support hover. But only The Apple Pencil Pro supports hover.
+All EMR drawing tablet pens support hover. But only the Apple Pencil Pro supports hover.
 
 * [Adam Duff - Apple Pencil Hover Is a Big Deal For Artists](https://www.youtube.com/watch?v=ZpcKfipVy24) 2022-11-01
 
 ## **Surface Texture**
 
-iPads without the Nano texture provide a "slippery" feeling for a drawing Pencil. The can feel like the the tip is "moving away" from where you want it to be. This can create some erratic strokes. To solve this iPad users can: (1) use an iPad with the Nano texture (2) add a 3rd party film to add more texture.
+iPads without Nano texture provide a "slippery" feeling when drawing with the Pencil. It can feel like the tip is "moving away" from where you want it to be. This can create some erratic strokes. To solve this, iPad users can: (1) use an iPad with Nano texture, or (2) add a 3rd-party film for more texture.
 
 ## **Weight**
 
@@ -66,7 +66,7 @@ Some people are very annoyed by the sound the Apple Pencil makes when it makes c
 
 ## No nib
 
-The Apple Pencil has no nib - so there is no slight nib retraction as you press down initially like an EMR pen would have. So, this contributes to a slightly different physical sensation as your draw. This bothers some people.
+The Apple Pencil has no nib - so there is no slight nib retraction as you press down initially like an EMR pen would have. This contributes to a slightly different physical sensation as you draw. This bothers some people.
 
 ## No eraser
 
@@ -74,9 +74,9 @@ Pressure-sensitive erasers are sometimes present on high-end EMR drawing tablet 
 
 ## Need to recharge
 
-The Apple Pencil contains a battery. Occasionally, you will need to recharge the battery of the Apple Pencil. Depending on the specific model of the Apple Pencil, simply attaching it to the top of the iPad will recharge it or you have to attach compatible charging cable to the Apple Pencil.
+The Apple Pencil contains a battery. Occasionally, you will need to recharge the battery of the Apple Pencil. Depending on the specific model, simply attaching it to the top of the iPad will recharge it, or you will need to attach a compatible charging cable.
 
-Modern EMR drawing tablet pens do not use batteries. They get power just be being within about 10mm of the tablet surface.
+Modern EMR drawing tablet pens do not use batteries. They get power just by being within about 10mm of the tablet surface.
 
 ## Lifetime of battery
 
@@ -101,8 +101,8 @@ This is an effect that can happen with drawing tablet pens also. It is unclear i
 ## No buttons
 
 * Apple Pencil does not have buttons like a normal drawing tablet pen
-* The vast majority of EMR have two buttons.
-  * A few consumer grade EMR pens have only 1 button. Example: Samsung S pen.
+* The vast majority of EMR pens have two buttons.
+  * A few consumer-grade EMR pens have only 1 button. Example: Samsung S Pen.
   * A few professional EMR pens have 3 buttons.
 * Lots of EMR drawing tablet users have workflows that depend on those buttons and users may have customized what they do
 
@@ -112,16 +112,16 @@ This is an effect that can happen with drawing tablet pens also. It is unclear i
 * A lower IAF is better
 * The best pens have an IAF of <1gf. This is considered EXCELLENT.
 * Wacom professional pens have an IAF of <1gf
-* Many people believe the Apple Pencil 2 and Apple Pencil Pro have a IAF of <1gf.
+* Many people believe the Apple Pencil 2 and Apple Pencil Pro have an IAF of <1gf.
 * To fully understand the IAF: See the Simulated IAF section in this document
 
 ## Simulated IAF
 
-If you watch a high-speed recording of the Apple Pencil you will notice that drawing will start evern BEFORE the tip of the pen hits the glass. The iPad seems to predict contact and start drawing. This makes the apple pencil feel more responsive and seem like it has a lower IAF than the physical hardware really does.
+If you watch a high-speed recording of the Apple Pencil, you will notice that drawing starts even BEFORE the tip of the pen hits the glass. The iPad seems to predict contact and start drawing. This makes the Apple Pencil feel more responsive and seem like it has a lower IAF than the physical hardware really does.
 
 You can see this demonstrated in [this video at about 4:38](https://youtu.be/4HWSqbk2qfU?si=OYlzXc76i1_qh3ts\&t=274).
 
-This be behavior is not an accident of the Apple Pencil, but rather the Apple Pencil and iPad were deliberately designed to have this behavior.
+This behavior is not an accident. The Apple Pencil and iPad were deliberately designed to behave this way.
 
 Some people refer to this as "Negative IAF" but I use "Simulated IAF" because it is a more neutral term. In any case, some people do not like this behavior.
 
@@ -130,12 +130,12 @@ Some people refer to this as "Negative IAF" but I use "Simulated IAF" because it
 * It is useful for a pen to have a wide pressure range .. in other words a high maximum pressure.
 * A max of 350gf is GOOD
 * A max of 500gf+ is EXCELLENT.
-* Apple Pencil 2 and Apple Pencil Pro in my measurements have a max pressure of 500gf. In my testing, I'm found them to be consistently near 500gf.
+* Apple Pencil 2 and Apple Pencil Pro have a max pressure of 500gf in my measurements. In my testing, I found them to be consistently near 500gf.
 * For drawing tablet pens, it varies substantially by the specific pen model. For example the Wacom Pro Pen 2 has a max pressure in the range of 800gf - which honestly is probably more than is needed.
 
 ## Number of Pressure levels
 
-The number of pressure levels for a pen is a heavily marketing and discussed topic. However, in my opinion all modern drawing tablet pens and the Apple pencil have more than enough pressure levels for any use. I suggest that you do NOT make the number of pressure levels a factor in any decision making.
+The number of pressure levels for a pen is a heavily marketed and discussed topic. However, in my opinion, all modern drawing tablet pens and the Apple Pencil have more than enough pressure levels for any use. I suggest that you do NOT make the number of pressure levels a factor in any decision-making.
 
 ## Replaceable Nibs / Tips
 
