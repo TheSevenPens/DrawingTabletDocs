@@ -1,12 +1,12 @@
-# TSG: Pen display always shows info box on screen
+# TSG: Pen display always shows an info box on screen
 
 ## Background
 
-Pen displays and monitors in general can show an information box like this on their screen when they start up.&#x20;
+Pen displays and monitors in general can show an information box like this on their screen when they start up.
 
 <div align="left"><figure><img src="../.gitbook/assets/image-000247.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Often this box lists some basic information such as :&#x20;
+Often this box lists some basic information such as:
 
 * Which port is being used for the video signal
 * The resolution and refresh rate being used
@@ -27,7 +27,7 @@ A couple of things to understand:
 
 ## What to try
 
-* OPTION 1: The most success I have seen with this problem is force the display to bring up its OSD (On-screen Display) and then hide the OSD.
+* OPTION 1: The approach I have seen work most often is to force the display to bring up its OSD (On-screen Display) and then hide the OSD.
   * How the OSD is shown and hidden depends on the specific device. But here are some common ways
     * Hold down the tablet power button for a few seconds
       * Hold down a button on the tablet for a few seconds
@@ -44,4 +44,3 @@ A couple of things to understand:
   * Hold down the power button for a few seconds
 * FINALLY
   * If all else fails, contact customer support.
-

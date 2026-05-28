@@ -2,7 +2,7 @@
 
 ## Overview
 
-The symptom presents when drawing as dots at the start of strokes. It is almost as if the pen is "clicking" one extra time at the beginning.
+This symptom appears as dots at the start of strokes. It is almost as if the pen is "clicking" one extra time at the beginning.
 
 The cause is unclear.
 

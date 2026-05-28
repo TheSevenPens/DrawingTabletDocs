@@ -1,9 +1,9 @@
-# TSG: computer does not detect display
+# TSG: Computer does not detect the display
 
 ## Overview
 
 * To use your pen display, your computer must be able to detect the display panel inside it.
-* Most of the time, when you plug in your tablet to your computer this will work automatically.
+* Most of the time, when you plug your tablet into your computer, this will work automatically.
 * Unfortunately, sometimes your computer can have difficulty.
 
 When you plug in your pen display, your computer should detect it as an additional display/monitor in Display Settings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
@@ -27,7 +27,7 @@ Also, while reinstalling tablet drivers can't hurt, reinstalling them multiple t
 
 ## Restart the computer
 
-Sometimes this can trigger the detection
+Sometimes this can trigger detection.
 
 ## Check that the cables are plugged in all the way
 
@@ -39,7 +39,7 @@ Check the ports to ensure that there isn't some lint or other material preventin
 
 ## Windows > built-in display detection
 
-&#x20;In Display Settings, there is an option to detect a display. Try it.
+In Display Settings, there is an option to detect a display. Try it.
 
 <div align="left"><figure><img src="../.gitbook/assets/image-000738.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -52,18 +52,14 @@ See: [https://support.apple.com/en-tm/guide/mac-help/mchla25b377d/mac](https://s
 If your computer is not even detecting the existence of the display, and it has an NVIDIA GPU, the NVIDIA Control Panel has a feature called **Rigorous Display Detection** which can help.
 
 * Open the **NVIDIA Control Panel**
-* Navigate to **Display > Set up multiple displays >  Select the displays you want to use**&#x20;
-* Click on **My display is not shown**&#x20;
+* Navigate to **Display > Set up multiple displays > Select the displays you want to use**
+* Click on **My display is not shown**
 * This will launch the **Detect Missing Display** dialog
 * Click **Rigorous Display Detection**
 
+![](../.gitbook/assets/image-000554.png)
 
-
-![](<../.gitbook/assets/image-000554.png>)
-
-
-
-![](<../.gitbook/assets/image-000555.png>)
+![](../.gitbook/assets/image-000555.png)
 
 ## Use Intel Graphics Command Center to detect your display
 
@@ -81,16 +77,16 @@ For example, if you are using HDMI, try DisplayPort instead.
 
 ## Check if the pen display can get a signal from another device
 
-See if the display can be detected by another computer or even any device that can send a display signal such as a DVD player or an XBOX.&#x20;
+See if the display can be detected by another computer or even any device that can send a display signal such as a DVD player or an XBOX.
 
-If this works it tells you the pen display and cables work correctly and the problem has something to do with your computer.
+If this works, it tells you that the pen display and cables work correctly and the problem has something to do with your computer.
 
 ## Depowering the device
 
 Some people suggest doing this:
 
 * UNPLUG the pen display from POWER
-* hold the power button down&#x20;
+* hold the power button down
 * while continuing to hold the power button down, attach the pen display to power, and continue holding down the power for a few seconds.
 
 ## Firmware updates
@@ -100,6 +96,3 @@ Check with your manufacturer if there are any firmware updates.
 ## If all else fails
 
 Contact support!
-
-
-

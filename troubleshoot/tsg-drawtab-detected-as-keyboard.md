@@ -1,4 +1,4 @@
-# TSG: computer detects drawing tablet as a keyboard
+# TSG: Computer detects a drawing tablet as a keyboard
 
 ## Overview
 
@@ -6,14 +6,14 @@ When you plug a drawing tablet into a computer, the computer might say that it d
 
 You can ignore this message.
 
-* It has no negative impact&#x20;
-* There is no problem to be solved - but it is a good idea to check if you you have your tablet drivers installed and are using the latest version.
+* It has no negative impact
+* There is no problem to solve, but it is a good idea to check that you have your tablet drivers installed and are using the latest version.
 
-## Relation to other problems&#x20;
+## Relation to other problems
 
-If you are experiencing some other problem with your table, this is very very very likely to be unrelated.
+If you are experiencing some other problem with your tablet, this is very very very likely to be unrelated.
 
-To be specific, since it is so common, if your pen display says "NO SIGNAL", then this keyboard message is NOT related. &#x20;
+To be specific, since it is so common, if your pen display says "NO SIGNAL", then this keyboard message is NOT related.
 
 ## Explanation
 
@@ -27,5 +27,4 @@ In a similar way, the auxiliary inputs on a tablet may be detected as another de
 
 Sometimes when people are having problems with their tablet they will see this message and think that their computer thinks the tablet is a keyboard and does not realize it is really a tablet, and that this detection as a keyboard is preventing the tablet from working normally. That's not what is happening. Treat the "keyboard detection" as an unrelated topic. Trying to "solve" it will only waste your time.
 
-This message might appear the first time you plug in your tablet, only after you've used your tablet for years, or appear frequently. I may appear a few times and then not again. What causes it to appear is unknown.
-
+This message might appear the first time you plug in your tablet, only after you've used your tablet for years, or appear frequently. It may appear a few times and then not again. What causes it to appear is unknown.

@@ -1,8 +1,8 @@
-# TSG: Tablet driver does not detect tablet
+# TSG: Tablet driver does not detect the tablet
 
 ## Overview
 
-The "tablet not connected/detected" problem is fundamentally that your driver cannot "see" , "find", or "communicate" with the drawing tablet even though it is plugged in via USB cable. The driver will often claim that the tablet "is not connected" or "is not detected".
+The "tablet not connected/detected" problem is fundamentally that your driver cannot "see," "find," or "communicate" with the drawing tablet even though it is plugged in with a USB cable. The driver will often claim that the tablet "is not connected" or "is not detected."
 
 If this happens with a **pen tablet (a screenless tablet)**, then essentially the tablet isn't functional at all.
 
@@ -59,7 +59,7 @@ Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to
 
 ## USB-connection options
 
-* Try unplugging other USB devices leaving only the tablet then plug devices back in.
+* Try unplugging other USB devices, leaving only the tablet, then plug the other devices back in.
 * If you have a USB hub, try not using it.
 * Look at the USB ports and ends of the USB cables and verify they are clean. Remove any lint, etc. that you find.
 * Try a different USB cable - make sure the USB cable supports data and not just power.
@@ -130,10 +130,10 @@ I don't recommend opening up your tablet as it will likely void your warranty. B
 
 If none of these suggestions are helping, then contact support: [Contacting support](../basics/support.md).
 
-In the meanwhile, you may be able to use alternative drivers on Windows:
+In the meantime, you may be able to use alternative drivers on Windows:
 
 * Windows PNP drivers: [https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets](https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets)
-* Open Tablet Driver: [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/otd-windows-install.md)
+* OpenTabletDriver: [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/otd-windows-install.md)
 
 ## Notes
 

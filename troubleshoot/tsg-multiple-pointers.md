@@ -1,8 +1,8 @@
-# TSB: Multiple pointers
+# TSG: Multiple pointers
 
 ## Overview
 
-Using your drawing tablet occasionally you may run into a situation where you see 2 pointers simultaneously. One pointer will be moved by your drawing tablet pen. And the other pointer may also move in a similar way or stay still. And typically both pointers are flickering on and off very quickly.
+When using your drawing tablet, you may occasionally run into a situation where you see two pointers simultaneously. One pointer will be moved by your drawing tablet pen. The other pointer may also move in a similar way or stay still. Typically, both pointers flicker on and off very quickly.
 
 ## Cause
 
@@ -10,11 +10,11 @@ Having multiple pointers like this is not a hardware problem. It is a software p
 
 ## Operating system
 
-In my experience this is something that has only happened with Windows. I've never encountered anyone who has observed this on Mac OS.
+In my experience, this has only happened with Windows. I've never encountered anyone who has observed this on MacOS.
 
 ## Steps to fix (Windows)
 
-This problem seems to happen when there are multiple tablet drivers on your windows computer.
+This problem seems to happen when there are multiple tablet drivers on your Windows computer.
 
 The first thing to do is uninstall every tablet driver on your computer.
 
@@ -28,5 +28,4 @@ Then finally install the tablet driver for your tablet.
 
 To be safe, restart your computer one more time even if your tablet driver does not ask you to.
 
-If these steps don't fix the problem then you need to contact support.
-
+If these steps don't fix the problem, then you need to contact support.

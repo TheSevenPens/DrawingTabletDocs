@@ -2,7 +2,7 @@
 
 ## Overview
 
-When drawing at low pressure you can experience some instability in the pressure and this can cause your strokes to look bad. To learn more about the problem itself: [Drawing at low physical pressure](../core/pressure/drawing-low-pressure.md)
+When drawing at low pressure, you can experience pressure instability, and this can make your strokes look bad. To learn more about the problem itself, see [Drawing at low physical pressure](../core/pressure/drawing-low-pressure.md).
 
 ## Examples
 
@@ -12,13 +12,13 @@ When drawing at low pressure you can experience some instability in the pressure
 
 ### Draw with higher pressure
 
-Fundamentally these problems are because you're drawing at low pressure. Maybe this is because you want very thin strokes. Consider just drawing at higher pressure and reducing your brush size.
+Fundamentally, these problems happen because you're drawing at low pressure. Maybe this is because you want very thin strokes. Consider drawing at higher pressure and reducing your brush size.
 
 ### Tilt the pen more
 
-Drawing tablet pens are more sensitive to pressure when the pens are held more vertically. And this vertical orientation can exacerbate pressure stability issues. When tilted some of the physical pressure applied to the nib is not transferred to the pressure sensor but to the shell of the pen itself. While this does reduce pressure sensitivity it also has the effect of stabilizing the pressure readings a bit.
+Drawing tablet pens are more sensitive to pressure when they are held more vertically. This vertical orientation can exacerbate pressure stability issues. When tilted, some of the physical pressure applied to the nib is not transferred to the pressure sensor, but to the shell of the pen itself. While this reduces pressure sensitivity, it also has the effect of stabilizing the pressure readings a bit.
 
-And many pens that exhibit even severe pressure stability problems when they're held vertically will not show those problems if you're holding them at a more normal angle as you draw.
+Many pens that exhibit severe pressure stability problems when held vertically will not show those problems if you're holding them at a more normal angle as you draw.
 
 <div align="left"><figure><img src="../.gitbook/assets/image-000235.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -26,7 +26,7 @@ And many pens that exhibit even severe pressure stability problems when they're 
 
 There is an interaction between the direction the pen is moving and the direction the nib is pointing.
 
-If you point the nib TOWARD the direction the pen is moving that means the pen may pick up more of the surface texture which can translate into pressure readings that are bouncing around a lot.
+If you point the nib TOWARD the direction the pen is moving, that means the pen may pick up more of the surface texture, which can translate into pressure readings that bounce around a lot.
 
 Instead, try pointing the nib AWAY from the direction of travel. In general, I found that this produces fewer weird pressure artifacts.
 
@@ -34,9 +34,9 @@ Instead, try pointing the nib AWAY from the direction of travel. In general, I f
 
 ### Use a Pressure curve
 
-Pressure curves can mitigate low pressure problems. There are two techniques you can apply here.
+Pressure curves can mitigate low-pressure problems. There are two techniques you can apply here.
 
-The first is to decrease the sensitivity at the lower end of physical pressure. And this will reduce some of the wild swings you might see.
+The first is to decrease sensitivity at the lower end of physical pressure. This will reduce some of the wild swings you might see.
 
 Another technique is simply to ignore the lower end of physical pressure near the initial activation force. This essentially increases the IAF of the pen.
 

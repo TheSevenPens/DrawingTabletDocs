@@ -1,8 +1,8 @@
-# TSG: pointer stuck in corner of screen
+# TSG: Pointer stuck in corner of the screen
 
 ## Overview
 
-Normally the pointer should follow the movement of the pen. However sometimes it gets stuck in the corner of the screen. Usually I have seen this in the upper-left-hand corner but it could happen elsewhere.
+Normally the pointer should follow the movement of the pen. However, sometimes it gets stuck in the corner of the screen. Usually I have seen this in the upper-left-hand corner, but it could happen elsewhere.
 
 It's unclear what causes this problem.
 
@@ -21,7 +21,7 @@ Sometimes this clears up the problem.
   * 7P: This worked for me once
 * Change the resolution of your screen to a smaller resolution then back to the original resolution.
 * If you are using more than one monitor, switch between extend and duplicate modes for the desktop.
-* If you are using Microsoft Windows, then [DIAG: Testing with Windows PNP drawing tablet drivers](diag-windows-pnp-tablet-drivers.md) to see if the problem happens in that case.
+* If you are using Microsoft Windows, try [DIAG: Testing with Windows PNP drawing tablet drivers](diag-windows-pnp-tablet-drivers.md) to see if the problem happens in that case.
 * If you have a pen display, it likely has a calibration feature. Start and complete the calibration process to see if that addresses the issue.
 
 ## If nothing works

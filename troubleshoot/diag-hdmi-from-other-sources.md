@@ -1,33 +1,33 @@
-# DIAG: Checking if pen display shows HDMI video signal from other devices
+# DIAG: Checking if a pen display shows an HDMI video signal from other devices
 
 ## Overview
 
-Among other things that a pen display receives from your computer, it also receives a "display signal". Display signal means essentially "video" - what you see on the pen display.&#x20;
+Among other things that a pen display receives from your computer, it also receives a "display signal." A display signal essentially means video — what you see on the pen display.
 
 Normally your pen display will be connected to your computer, which provides a display signal via an HDMI connection.
 
-But your pen display can receive that display signal from any device that supports a display signal. For example an Xbox, PlayStation, a DVD player, another computer, and even some mirrorless cameras (example Sony FX30).
+But your pen display can receive that display signal from any device that supports one. For example, an Xbox, PlayStation, DVD player, another computer, or even some mirrorless cameras, such as the Sony FX30.
 
 <figure><img src="../.gitbook/assets/image-000339.png" alt=""><figcaption></figcaption></figure>
 
 This is useful for several reasons.
 
-\-        It allows your pen display to be used like a monitor or TV
+\- It allows your pen display to be used like a monitor or TV.
 
-\-        it's also a good troubleshooting technique
+\- It is also a good troubleshooting technique.
 
 ## Troubleshooting
 
-If you're getting problems like one of these:
+If you're seeing problems like one of these:
 
-\-        Not seeing anything
+\- Not seeing anything
 
-\-        Odd Flickering
+\- Odd flickering
 
-\-        Weird colors
+\- Weird colors
 
-\-        "No Signal"
+\- "No Signal"
 
-Then connecting your pen display via HDMI to another device is a very useful technique, because it gives you a hint as to whether the problem is with the tablet itself or with your computer.
+Connecting your pen display via HDMI to another device is a very useful technique, because it helps show whether the problem is with the tablet itself or with your computer.
 
-If one device does not work, try others. &#x20;
+If one device does not work, try others.

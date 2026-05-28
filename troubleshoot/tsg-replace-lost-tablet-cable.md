@@ -33,4 +33,4 @@ This situation is more complicated because there are so many different ways to c
 
 In this case, I STRONGLY RECOMMEND that you contact your tablet manufacturer's customer support and ask them which cable to get.
 
-Yes, you can use 3rd-party cables with your pen displays in some cases (see [Using 3rd-party cables with your drawing tablet](../guides/connecting/3rd-party-cables-for-drawtab/)). However, you put yourself at an increased risk of spending a lot of money on an incompatible cable.
+Yes, you can use third-party cables with your pen displays in some cases (see [Using 3rd-party cables with your drawing tablet](../guides/connecting/3rd-party-cables-for-drawtab/)). However, you put yourself at an increased risk of spending a lot of money on an incompatible cable.

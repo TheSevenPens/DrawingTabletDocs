@@ -1,10 +1,10 @@
-# TSG Nothing showing on pen display
+# TSG: Nothing shows on pen display
 
 ## Overview
 
 There are lots of reasons you might not be seeing anything on your pen display.
 
-In this document we'll cover the most common cases, provide some things you can check, and provide troubleshooting or link to troubleshooting guides.
+In this document, we'll cover the most common cases, provide some things you can check, and provide troubleshooting steps or links to troubleshooting guides.
 
 ## Background information
 

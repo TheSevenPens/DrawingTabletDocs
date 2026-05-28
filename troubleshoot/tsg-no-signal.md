@@ -57,7 +57,7 @@ In your operating system's **Display Settings**, you should see two displays. An
 | --------------------------------------------------------------------------- | ---------------------------------------- |
 | <img src="../.gitbook/assets/image-000739.png" alt="" data-size="original"> | ![](../.gitbook/assets/image-000552.png) |
 
-If your computer does not see the display from the tablet, it will not send a video signal to it. Follow these troubleshooting steps: [TSG: computer does not detect display](tsg-display-detection.md)
+If your computer does not see the display from the tablet, it will not send a video signal to it. Follow these troubleshooting steps: [TSG: Computer does not detect the display](tsg-display-detection.md)
 
 ### Verify that your operating system is trying to use the display
 

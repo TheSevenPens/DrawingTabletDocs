@@ -1,8 +1,8 @@
-# TSG: shoelaces at end of strokes
+# TSG: Shoelaces at end of strokes
 
 ## Overview
 
-This is a common effect that is highly dependent on how you draw and the specific brush in your drawing app. It manifests as a longer "string" at the end of your stroke. These ends can be rendered as a constant width or a long very thin string.
+This is a common effect that is highly dependent on how you draw and the specific brush in your drawing app. It manifests as a longer "string" at the end of your stroke. These ends can be rendered at a constant width or as a long, very thin string.
 
 NOTE: There is a related problem: [TSG: Hooks at start of strokes](tsg-strokes-hooks-at-start.md)
 
@@ -46,7 +46,7 @@ In general, set the value to as low a number as it will go and still work correc
 
 ## Lazy Nezumi
 
-The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with these shoelace effect.
+The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with this shoelace effect.
 
 ![](<../.gitbook/assets/image-000325 (2).png>)
 

@@ -14,19 +14,19 @@ The two most common causes of this problem are:
 * Something is physically wrong with the pen internals. You'll need a replacement.
 * The driver is having a temporary problem. Often resolved by restarting the computer.
 
-## **Check if the problem happens in the driver app**
+## Check if the problem happens in the driver app
 
-Instructions here: [DIAG: Testing pressure in the tablet driver](diag-pressure-in-tablet-driver.md). If the problem does not occur in the driver app, then it indicates the problem may be app specific.
+Instructions here: [DIAG: Testing pressure in the tablet driver](diag-pressure-in-tablet-driver.md). If the problem does not occur in the driver app, it indicates the problem may be app-specific.
 
 ## Things to try
 
 Try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md).
 
-### **Reseat the nib**
+### Reseat the nib
 
-Try taking the nib out and putting it back in. While it is out look for any damage.
+Try taking the nib out and putting it back in. While it is out, look for any damage.
 
-### **Replacing the nib**
+### Replace the nib
 
 Your tablet probably came with some extra nibs. Try replacing the nib with one of the extras.
 
@@ -38,6 +38,6 @@ In the tablet driver, try dragging the lower left point of the pressure curve to
 
 <figure><img src="../.gitbook/assets/image-000507.png" alt=""><figcaption></figcaption></figure>
 
-**If nothing helps**
+## If nothing helps
 
 If the problem continues, then contact support: [Contacting support](../basics/support.md).

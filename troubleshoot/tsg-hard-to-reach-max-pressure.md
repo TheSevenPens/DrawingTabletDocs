@@ -14,7 +14,7 @@ If you are looking at a pressure reading while using your pen, you may see that 
 
 <figure><img src="../.gitbook/assets/image-000442.png" alt="" width="563"><figcaption></figcaption></figure>
 
-This can be caused by several things
+This can be caused by several things.
 
 ## Information to collect
 
@@ -24,7 +24,7 @@ Does it manifest in an application like Krita?
 
 ## Pen hardware issue
 
-If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself. Occasionally pen hardware can have a very high maximum pressure that is very large (I've seen up to about 5X) compared to what is normal for a pen.
+If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself. Occasionally, pen hardware can have a very high maximum pressure — I've seen up to about 5x higher than normal for a pen.
 
 ### Example of a pen with abnormal max pressure
 
@@ -41,9 +41,8 @@ Because you cannot physically fix the problem, you have two options:
 * Use pressure curves to address this problem
 * Contact support for help and potentially get a replacement
 
-### Using a pressure curve to a pen hardware problem
+### Using a pressure curve to address a pen hardware problem
 
 Try adjusting the pressure curve: More here: [Lowering maximum physical pressure](../guides/customizing/lowering-max-physical-pressure.md)
 
-You might be able to do this is the tablet driver. If not do it in your application.
-
+You might be able to do this in the tablet driver. If not, do it in your application.

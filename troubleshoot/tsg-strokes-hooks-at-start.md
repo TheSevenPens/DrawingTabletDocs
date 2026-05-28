@@ -10,7 +10,7 @@ In the example, lots of quick flicks were used to draw several strokes with lots
 
 ![](<../.gitbook/assets/image-000209 (2).png>)
 
-Below the same style flicks were used to draw strokes but this time the smoothing was set to zero.
+Below, the same style of flicks was used to draw strokes, but this time the smoothing was set to zero.
 
 ![](<../.gitbook/assets/image-000210 (1).png>)
 
@@ -20,8 +20,8 @@ When making fast strokes one after the other, there is a tendency for the hand t
 
 I have found that I can reduce the hooks by:
 
-* being more careful about the stroke
-* drawing more slowly
+* Being more careful about the stroke.
+* Drawing more slowly.
 
 ## Pressure curve
 
@@ -34,5 +34,3 @@ A low IAF is great, but if you are doing a lot of strokes, the sensitivity can r
 ## Links
 
 * [https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how\_remove\_that\_hook\_or\_s\_in\_the\_beginning\_and/](https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how_remove_that_hook_or_s_in_the_beginning_and/)
-
-##

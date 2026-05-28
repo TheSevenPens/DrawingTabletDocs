@@ -9,7 +9,7 @@ This problem happens on Windows due to some interaction between the Windows Ink 
 When drawing a stroke (for example, a simple curve), you may notice that there is a slight delay before something is drawn. The resulting stroke will either:
 
 * (a) skip over the beginning part of the stroke
-* or (b) have a straight line drawn from where you put the pen down to a little later in the stroke.
+* (b) have a straight line drawn from where you put the pen down to a little later in the stroke.
 
 <figure><img src="../.gitbook/assets/image-000701.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ The same delay at the beginning of dragging the pen can manifest in other user e
 
 ## Examples
 
-## ![](<../.gitbook/assets/image-000700 (2).png>)
+![](<../.gitbook/assets/image-000700 (2).png>)
 
 ## Diagnostic questions to answer
 
@@ -29,9 +29,9 @@ The same delay at the beginning of dragging the pen can manifest in other user e
 
 ## Potential solutions
 
-* Restart the computer
-* Try [Disable the press-and-hold ring in Windows](../guides/platforms/windows/disable-press-hold-ring.md)
-* Try [Configure Windows Ink for apps](../guides/platforms/windows/winink/winink-config-apps.md) then restart the app
+* Restart the computer.
+* Try [Disable the press-and-hold ring in Windows](../guides/platforms/windows/disable-press-hold-ring.md).
+* Try [Configure Windows Ink for apps](../guides/platforms/windows/winink/winink-config-apps.md), then restart the app.
   * and if that doesn't solve it, then also try [Configure Windows Ink in the tablet driver](../guides/platforms/windows/winink/winink-config-driver.md) and then restart the app.
 
 ## Links

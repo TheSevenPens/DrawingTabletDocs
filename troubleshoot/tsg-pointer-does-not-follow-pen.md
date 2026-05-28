@@ -1,4 +1,4 @@
-# TSG: Pointer moves in different or opposite direction of pen
+# TSG: Pointer moves in a different or opposite direction from the pen
 
 ## Symptoms
 
@@ -9,7 +9,7 @@ Sometimes when you move the pen, the pointer may move in the opposite direction.
 
 Or the pointer goes in a different direction.
 
-* Example: you move the pen up, but the pointer goes right
+* Example: You move the pen up, but the pointer goes right.
 
 ## Explanation
 
