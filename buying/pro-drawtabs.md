@@ -1,8 +1,8 @@
-# Buying "PRO" tablets
+# "PRO" tablets
 
 ## Overview
 
-At any point in the drawing tablet market, you'll see tablets labelled as "pro." Often these are sold alongside non-pro versions at the same time.
+At any point in the drawing tablet market, you'll see tablets labelled as "pro." Often, these are sold alongside non-pro versions at the same time.
 
 <mark style="color:red;">**You cannot rely on the Pro designation to mean anything significant.**</mark>
 
@@ -10,7 +10,7 @@ At any point in the drawing tablet market, you'll see tablets labelled as "pro."
 
 <mark style="color:red;">**"Pro" has no standard meaning**</mark> — either across different drawing tablet brands, or among models within the same brand.
 
-If you're choosing between two tablets with similar names and one has "pro" in its name, do not automatically assume the pro version is better. Instead, look at the specific features of both tablets.
+If you're choosing between two tablets with similar names and one has "pro" in its name, do not automatically assume the pro version is better. Instead, look at the specific features of both.
 
 ## Example: Huion Kamvas 13
 

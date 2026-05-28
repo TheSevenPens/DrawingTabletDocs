@@ -1,44 +1,42 @@
 # Mouse mode
 
-&#x20;            &#x20;
-
 ## Introduction
 
-For some occasions and for some people they would prefer if a drawing tablet pen behaved more like a mouse.
+In some situations, some people prefer a drawing tablet pen to behave more like a mouse.
 
-For this reason drawing tablet drivers offer something that is called **mouse mode**.
+For this reason, drawing tablet drivers offer **mouse mode**.
 
 ## Mouse mode uses relative positioning
 
-Drawing tablets are absolute positioning devices. But enabling mouse mode will make them behave like a relative positioning device like a mouse.
+Drawing tablets are absolute positioning devices. Enabling mouse mode makes them behave like a relative positioning device, like a mouse.
 
 Learn more here: [Absolute versus relative positioning](absolute-versus-relative-positioning.md)
 
 ## How does mouse mode affect the tablet?
 
-Mouse mode is implemented in the tablet driver has no effect on the tablet hardware.
+Mouse mode is implemented in the tablet driver. It has no effect on the tablet hardware.
 
-The tablet continues to use absolute positioning internally.&#x20;
+The tablet continues to use absolute positioning internally.
 
 ## How does mouse mode affect the driver?
 
-The driver takes the absolute positioning information it receives from the tablet and then translates that into relative positioning data when it sends data position data to the operating system.
+The driver takes the absolute positioning information it receives from the tablet and translates it into relative positioning data before sending it to the operating system.
 
 ## How does mouse mode affect drawing quality?
 
-In theory it shouldn't affect the quality of drawing.
+In theory, it should not affect drawing quality.
 
-In practice, it depends on what the driver is exactly doing.
+In practice, it depends on what the driver is doing exactly.
 
 Here's an example of the Wacom driver vs Huion driver in Krita on Windows.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000360.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-As you can see the Wacom driver creates very jerky position data when mouse mode is enabled. It does not have to be like this, they could do better like Huion does.
+As you can see, the Wacom driver creates very jerky position data when mouse mode is enabled. It does not have to be like this. It could behave more like Huion's implementation.
 
-Also, this difference is not due to hardware. I tested the same Wacom tablet with OpenTabletDriver also set to mouse mode (OTD calls this "Relative mode") and the lines were smooth.
+Also, this difference is not due to hardware. I tested the same Wacom tablet with OpenTabletDriver set to mouse mode too. OTD calls this "Relative mode," and the lines were smooth.
 
-## How mouse mode affect pen features
+## How mouse mode affects pen features
 
 This section is incomplete
 
@@ -48,17 +46,15 @@ This section is incomplete
 
 ## Windows Ink
 
-On Windows, Mouse Mode in some drivers may disable Windows Ink
+On Windows, mouse mode in some drivers may disable Windows Ink.
 
-You may need to restart an drawing application if you change the mouse mode setting.&#x20;
-
-##
+You may need to restart a drawing application if you change the mouse mode setting.
 
 ## Configuring mouse mode
 
 ### Wacom
 
-In **Wacom Tablet Properties** app, select your pen, navigate to the **Mapping** tab, then under the Mode area you will see a setting you can switch between **Pen** and **Mouse**&#x20;
+In the **Wacom Tablet Properties** app, select your pen, open the **Mapping** tab, and then switch the **Mode** setting between **Pen** and **Mouse**.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000305.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -68,24 +64,20 @@ Once you enable mouse mode, you'll see some new configuration options.
 
 ### Huion
 
-In the Huion driver, click **Digital Pen**, then enable or disable **Mouse Mode** at the bottom&#x20;
+In the Huion driver, click **Digital Pen**, then enable or disable **Mouse Mode** at the bottom.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000281.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Restarting apps after mouse mode
 
-Some drawing applications may get confused if they are running and mouse mode is switched on or switched off. So you may need to restart those apps.
+Some drawing applications may get confused if they are running while mouse mode is switched on or off. So you may need to restart them.
 
 ## Mouse mode on pen displays
 
-Most often, tablet drivers dot not offer mouse mode option for a pen display.&#x20;
+Most often, tablet drivers do not offer a mouse mode option for a pen display.
 
-There isn't a technical limitation. In theory, pen displays could support mouse mode just as well as a pen tablet. I believe it isn't offered typically because most users would would be confused by the discrepancy in the position of the mouse pointer on the screen and the physical position of the tip of the pen.
+There is no technical limitation. In theory, pen displays could support mouse mode just as well as pen tablets. It is usually not offered because most users would be confused by the mismatch between the mouse pointer on the screen and the physical position of the pen tip.
 
-Nonetheless, some people do request mouse mode for their pen displays. If you do really want mouse mode, consider using OpenTabletDriver instead of your manufacturer tablet driver.
+Nonetheless, some people do want mouse mode for their pen displays. If you really want it, consider using OpenTabletDriver instead of your manufacturer's driver.
 
-More here: [OpenTabletDriver](../../guides/drivers/opentabletdriver/)   &#x20;
-
-
-
-&#x20;
+More here: [OpenTabletDriver](../../guides/drivers/opentabletdriver/)

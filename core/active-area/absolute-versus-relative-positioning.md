@@ -2,34 +2,34 @@
 
 ## Drawing tablets use absolute positioning
 
-That means the tablet knows the (x,y) location of the pen precisely on the active area of the tablet.
+That means the tablet knows the `(x, y)` location of the pen on the active area.
 
-The pen does not even have to touch the tablet. As long as the pen is close - about 10 mm typically - to the active area and within the bounds of the active area, the tablet knows the pen's position. This position detection without touching is typically called "support for hover".
+The pen does not even have to touch the tablet. As long as it is close, typically about 10 mm, and within the bounds of the active area, the tablet knows the pen's position. This kind of position detection without touching is typically called **hover**.
 
 ## Mice use relative positioning
 
-That means that a mouse does not know its exact position on your desktop. The mouse has no idea what surface it is in contact with. In a general sense a mouse only knows that it is moving in relation to some surface.
+That means a mouse does not know its exact position on your desktop. The mouse has no idea what surface it is touching. In general, a mouse only knows that it is moving relative to some surface.
 
-The mouse does not now its location. The mouse only knows about changes in position - i.e. either it is moving or it is not moving.
+The mouse does not know its location. It only knows about changes in position. In other words, it only knows whether it is moving or not.
 
-The mouse reports this movement as a change in x position and a change in Y position (dx, dy)
+The mouse reports this movement as a change in x position and a change in y position: `(dx, dy)`.
 
 ## No movement
 
-What happens if you simply keep a pen or a mouse perfectly still and don't move them at all.
+What happens if you keep a pen or mouse perfectly still and do not move it at all?
 
-Drawing tablet will continuously report the (x,y) position of the pen.
+A drawing tablet continuously reports the `(x, y)` position of the pen.
 
-In theory a mouse will report (0,0) indicating no movement. In practice mice don't even report the (0,0) because that data doesn't provide any interesting information to the computer.
+In theory, a mouse reports `(0, 0)` to indicate no movement. In practice, mice often do not report `(0, 0)` because that data does not provide useful information to the computer.
 
 ## Sudden jumps
 
-One of the ways absolute and relative positioning really stand out is what happens when the input device jumps from one location to another
+One clear difference between absolute and relative positioning appears when the input device jumps from one location to another.
 
-With the drawing tablet if you hold your pen let's say at the bottom left of the tablet - that means the operating system pointer will also be at the bottom left of your display. If you then pull the pen straight up and away from the tablet so that the tablet does not sense the pen's location and then you move the pen to the upper right hand, then suddenly the operating system pointer will suddenly appear at the upper right hand corner of the display
+With a drawing tablet, if you hold the pen at the bottom left of the tablet, the operating system pointer will also be at the bottom left of your display. If you then lift the pen away so the tablet no longer senses it, and move it to the upper-right area, the pointer will suddenly appear at the upper-right corner of the display.
 
-For a mouse if you try the equivalent thing something different will happen. If the pointer is at the bottom left and you suddenly pull the mouse away from the surface and then place it anywhere else, then you'll see that the pointer does not move.          &#x20;
+For a mouse, the equivalent action behaves differently. If the pointer is at the bottom left and you lift the mouse off the surface, then place it somewhere else, the pointer does not move.
 
 ## Mouse mode in drawing tablets
 
-Drawing tablets can simulate relative positioning when talking to a computer. This is called mouse mode. More here: [Mouse mode](mouse-mode.md)&#x20;
+Drawing tablets can simulate relative positioning when talking to a computer. This is called mouse mode. More here: [Mouse mode](mouse-mode.md)

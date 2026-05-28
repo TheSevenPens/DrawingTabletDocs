@@ -2,7 +2,7 @@
 
 ## Introduction
 
-New to drawing tablets? This guide helps you understand how they work, prepare to use one, and make a purchase decision.
+New to drawing tablets? This guide helps you understand how they work, prepare to use one, and make a buying decision.
 
 {% hint style="info" %}
 **Buying a tablet?**
@@ -22,9 +22,9 @@ The key ways to categorize a drawing tablet:
 * Does it have a screen?
 * Is it standalone?
 
-These two things affect how the tablet is used, the cost, and which scenarios it works well for.
+These two things affect how the tablet is used, the cost, and which scenarios they work well for.
 
-One thing I will always stress - just because a tablet has a screen does NOT mean it is better than a screenless tablet. Many people - even professional artists absolutely PREFER screenless tablets. See: [Pen tablets vs pen displays](../buying/pen-tablets-vs-pen-displays.md).
+One thing I always stress: just because a tablet has a screen does not mean it is better than a screenless tablet. Many people, including professional artists, prefer screenless tablets. See [Pen tablets vs pen displays](../buying/pen-tablets-vs-pen-displays.md).
 
 ## Basics
 
@@ -57,17 +57,17 @@ Most drawing tablets also detect how the pen is tilted relative to the surface o
 
 ## What people do with their tablets
 
-* **Drawing** - Many people use drawing tablets for drawing, sketching, painting, photo editing, and other creative tasks.
+* **Drawing** - Many people use drawing tablets for drawing, sketching, painting, photo editing, and other creative work.
 * **Gaming** - Drawing tablets are popular for some games. More here: [Gaming with a drawing tablet](scenarios/gaming.md)
-* **Mouse replacement** - Some people use a drawing tablet as a simple mouse replacement. They find a pen more comfortable to hold than a mouse. More here: [Replacing mouse with a drawing tablet](scenarios/replacing-mouse.md)
-* **Whiteboarding** - This is especially common with online meetings and remote learning. Many people use a drawing tablet with virtual whiteboard software.
+* **Mouse replacement** - Some people use a drawing tablet as a mouse replacement. They find a pen more comfortable than a mouse. More here: [Replacing mouse with a drawing tablet](scenarios/replacing-mouse.md)
+* **Whiteboarding** - This is especially common in online meetings and remote learning. Many people use a drawing tablet with virtual whiteboard software.
 * **Educational videos** - Drawing tablets are popular for creating videos in the style of "Khan Academy."
 * **Document markup and review** - They are useful for reviewing documents and annotating them with notes and corrections.
-* **Note-taking** - Especially with pen computers, students, for example, take them to class and write their notes digitally. More here: [Taking notes with drawing tablets](scenarios/taking-notes.md)
+* **Note-taking** - This is especially common with pen computers. Students, for example, take them to class and write notes digitally. More here: [Taking notes with drawing tablets](scenarios/taking-notes.md)
 
 ## Brands
 
-Wacom is THE UNDISPUTED LEADER of drawing tablets and has been for 40 years. It is the best-known brand, and also the most expensive. But even with Wacom, although they make the best tablets - not all their tablets are great or ones I recommend. It depends on the specific models. There are many other brands out there and their recent models since about 2023 have been getting pretty good. You should familiarize yourself with them before you buy a drawing tablet. Learn more here: [Brands](../brands/)
+Wacom has been the best-known drawing tablet brand for about 40 years. It is also usually the most expensive. But even Wacom does not make every tablet I would recommend. It depends on the specific model. Many other brands have improved a lot since about 2023. You should familiarize yourself with them before you buy. Learn more here: [Brands](../brands/)
 
 ## Primary features
 
@@ -110,7 +110,7 @@ All **pen tablets** can be connected with a single USB cable. Many pen tablets, 
 
 Once you install the tablet drivers, **all applications are compatible with drawing tablets**. In addition, creative applications, such as painting programs, can take advantage of special features of the tablet such as pressure sensitivity and tilt.
 
-See: [App compatibility with drawing tablets](app-compat.md)
+More here: [App compatibility with drawing tablets](app-compat.md)
 
 ## Pen nibs
 

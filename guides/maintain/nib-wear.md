@@ -2,18 +2,18 @@
 
 ## Overview
 
-Nib wears down due to friction caused by the nib moving against the tablet surface. **Many factors** influence how fast a nib wears down and people have **vastly different experiences**. For some people a nib may last years. Some people seem to go through a nib in a week.
+A nib wears down due to friction caused by the nib moving against the tablet surface. **Many factors** influence how fast a nib wears down, and people have **vastly different experiences**. For some people, a nib may last years. Some people seem to go through a nib in a week.
 
 Two changes will be visible in your nibs over time:
 
-* The nib wear get shorter
-* The nib may flatten out - creating a essentially a sharper edge
+* The nib gets shorter
+* The nib may flatten out, creating essentially a sharper edge
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000155.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Examples
 
-Below you can see the wear on an Wacom Art Pen nib which has been used on a Wacom Intuos Pro Large (PTH-860) surface after two weeks.
+Below you can see the wear on a Wacom Art Pen nib that was used on a Wacom Intuos Pro Large (PTH-860) surface for two weeks.
 
 <div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image-000164.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -23,7 +23,7 @@ Below you can see the wear on an Wacom Art Pen nib which has been used on a Waco
 
 Tablets vary in the amount of surface texture they have. The more texture, the more likely the nib is to wear down. More here: [Surface texture](../../core/surface-texture.md).
 
-The nib wears down as you use it on a table surface. But a plastic table surface can also wear down from repeated exposer to the nib. And so, the tablet surface can become smoother over time. So, even if the texture is eating through your nibs at first, later it may not affect them so much. More here: [Surface wear on pen tablets](surface-wear-pen-tablets.md)
+The nib wears down as you use it on a tablet surface. But a plastic tablet surface can also wear down from repeated exposure to the nib. As a result, the tablet surface can become smoother over time. So even if the texture is eating through your nibs at first, it may affect them less later on. More here: [Surface wear on pen tablets](surface-wear-pen-tablets.md)
 
 ## Heavy-handed drawing
 
@@ -31,11 +31,11 @@ Some people draw "heavy-handed" and put a lot of pressure on their nib. This wil
 
 ## Many fast strokes
 
-Some people a have drawing style that features lots of strokes drawn over and over. For example they might fill in an by drawing hundreds of cross-hatched lines. This can accelerate nib wear.
+Some people have a drawing style that uses lots of strokes over and over. For example, they might fill in an area by drawing hundreds of cross-hatched lines. This can accelerate nib wear.
 
 ## Nib material affects nib wear
 
-Nibs are typically made of plastic or felt. And the material choice will affect how fast the nib wears down. For example felt nibs wear down faster than plastic nibs. More here: [Nib material](../../core/nib-material.md).
+Nibs are typically made of plastic or felt. The material choice affects how fast the nib wears down. For example, felt nibs wear down faster than plastic nibs. More here: [Nib material](../../core/nib-material.md).
 
 ## Preventing or slowing nib wear
 
@@ -44,20 +44,20 @@ Nibs are typically made of plastic or felt. And the material choice will affect 
 * Some tablets like the Wacom Intuos Pro have replaceable **texture sheets**. In Wacom's case there are three texture styles: standard, smooth, rough. Try the smooth texture sheet.
 * I do NOT recommend [Using metal nibs](../customizing/metal-nibs.md).
 
-## When should you replace you nib?
+## When should you replace your nib?
 
-I recommend you replace you nib when either these conditions is true:
+I recommend replacing your nib when either of these conditions is true:
 
 * Most of the tip has become flat
-* The nib is getting short - nib remover tools need to be able to grasp enough of the nib to pull it out. If you let them get to short, they are going to be stuck or very difficult to remove.
+* The nib is getting short. Nib remover tools need to be able to grasp enough of the nib to pull it out. If you let it get too short, it may become stuck or very difficult to remove.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000154.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Resources
 
-Here's some videos related to this topic:
+Here are some videos related to this topic:
 
 * Xencelabs - [When Do I Need to Change The Nib on My Pen?](https://www.youtube.com/watch?v=s7n0Sene2SQ) Oct 20, 2025
-* Mink -[ Tips for increasing your Pen Nibs’ lifespan](https://youtu.be/t2nJ4k4YJl0) Jul 9, 2021
+* Mink - [Tips for increasing your Pen Nibs’ lifespan](https://youtu.be/t2nJ4k4YJl0) Jul 9, 2021
 * Aaron Rutten - [When to CHANGE Drawing Tablet Pen Nibs](https://youtu.be/iI6X41Jhm9g) Dec 25, 2020
 * Aaron Rutten - [Wearing Down Nibs & Tablet Scratches](https://youtu.be/Ws_gXgdmKX0) Feb 27, 2015

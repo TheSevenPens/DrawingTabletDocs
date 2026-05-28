@@ -2,11 +2,11 @@
 
 ## Overview
 
-These are laptops that have some support for pens to enable drawing. They may or may not have an attached keyboard.&#x20;
+These are laptops that support pens for drawing. They may or may not have an attached keyboard.
 
 ## Key characteristics
 
-* Drawing experience is just OK - suitable for whiteboarding, notetaking, light creativity.&#x20;
+* Drawing experience is just OK. It is suitable for whiteboarding, note-taking, and light creative work.
 * Operating system: Only Windows
 
 ## Examples
@@ -16,4 +16,4 @@ These are laptops that have some support for pens to enable drawing. They may or
 
 ## Cost
 
-Pen computers cost between $1000 to $2000.
+Pen-enabled 2-in-1 laptops cost between $1000 and $2000.

@@ -2,10 +2,10 @@
 
 ## Introduction
 
-I want to help you make an informed choice when purchasing a drawing tablet. My goals are to (1) save you money, (2) ensure you aren't disappointed with your purchase, and (3) prevent you from damaging your tablet or pen.
+I want to help you make an informed choice when purchasing a drawing tablet. My goals are to save you money, reduce disappointment, and help you avoid damaging your tablet or pen.
 
 {% hint style="info" %}
-If you are new to drawing tablets, read this first: [Beginner's guide to drawing tablets](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you just want to quickly get to some beginner recommendations, go here: [Beginner recommendations](../recs/scenario-recs/beginner-recs/).
+If you are new to drawing tablets, read this first: [Beginner's guide to drawing tablets](../basics/beginners-guide.md). This buying guide builds on the beginner's guide. If you want to jump straight to beginner recommendations, go here: [Beginner recommendations](../recs/scenario-recs/beginner-recs/).
 {% endhint %}
 
 ## Buying guide video series
@@ -26,8 +26,8 @@ Before you continue, read this: [Types of drawing tablets](../basics/drawtab-typ
 
 Your selection of a tablet will go faster if you are clear on the following questions:
 
-* Which type of drawing tablet do you want
-* How much you are willing to spend
+* Which type of drawing tablet do you want?
+* How much are you willing to spend?
 * Your intended usage scenario. If multiple scenarios apply, rank them.
   * Artistic - painting, drawing
   * Utility - note-taking, whiteboarding, creating educational materials
@@ -57,26 +57,28 @@ More here:
 
 * [Brands](../brands/)
 * [Choosing a drawing tablet brand](../brands/choosing-drawtab-brand.md)
+* [Brands](../brands/)
+* [Choosing a drawing tablet brand](../brands/choosing-drawtab-brand.md)
 
-If you decide on Wacom and want a pen tablet, read this guide: [Wacom pen tablet comparison](../brands/wacom/wacom-pen-tablet-comparison.md). In the future, I'll add a doc covering Wacom pen displays.
+If you decide on Wacom and want a pen tablet, read this guide: [Wacom pen tablet comparison](../brands/wacom/wacom-pen-tablet-comparison.md). I plan to add a guide for Wacom pen displays.
 
 ## **Core features**
 
 * **Tablet size** - Size has a BIG impact on the ergonomics of using the tablet, and different sizes serve different user needs. This guide on [Choosing the right size for a drawing tablet](choosing-size.md) will help you find a size that works for you.
 * **The pen** (also called a stylus) is how you provide input to the tablet. All drawing tablets come with a pen. Some pro tablets come with two pens. You have to PAY ATTENTION TO THE PEN. The pen controls how well pressure works — not the tablet.
 * **Pen pressure handling** - The pen can detect how much pressure you are applying to its tip. All drawing tablet pens sense pressure. More info: [Pen pressure](../core/pressure/). There are some aspects of pressure you need to be aware of.
-  * **Initial Activation Force (IAF)** is the smallest pressure that activates the pen. In general, you want a pen with a low IAF. For details on what IAF values are good, bad, etc., go here: [IAF](../core/pressure/iaf.md)
+  * **Initial Activation Force (IAF)** is the smallest pressure that activates the pen. In general, you want a pen with a low IAF. For details on what IAF values are good or bad, go here: [IAF](../core/pressure/iaf.md)
   * The **Maximum Physical Pressure** is the most pressure the pen can detect.
   * The **Physical Pressure Range** is the difference between the maximum pressure and the IAF. You want a wide enough pressure range because it makes pressure easier to control. For details on what is good or bad for pressure range, go here: [Pen pressure range](../core/pressure/pen-pressure-range.md)
-  * **Pressure levels** - the physical pressure range is divided into segments; each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 levels, and 99.9% have 8192 or more. You don't need to worry about the number of pressure levels when selecting a tablet. Every tablet on the market has enough.
-* **Pen tilt detection** - the tablet can detect the tilt of the pen to adjust brush strokes, which can be very useful for certain kinds of artwork. But some people don't use tilt at all, and tilt is not useful for note-taking or whiteboarding. Almost all modern tablets support tilt, with fewer than a handful of exceptions. More here: [Pen tilt](../core/pen-tilt/).
+  * **Pressure levels** - the physical pressure range is divided into segments. Each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 levels, and 99.9% have 8192 or more. You do not need to worry about the number of pressure levels when selecting a tablet. Every tablet on the market has enough.
+* **Pen tilt detection** - the tablet can detect the tilt of the pen to adjust brush strokes, which can be very useful for certain kinds of artwork. But some people do not use tilt at all, and tilt is not useful for note-taking or whiteboarding. Almost all modern tablets support tilt, with fewer than a handful of exceptions. More here: [Pen tilt](../core/pen-tilt/).
 * **Digitizer resolution -** This is how accurately the tablet can sense different pen positions — in other words, its ability to detect very tiny position changes. Most tablets have a reported resolution of 5080 LPI (lines per inch), which translates to 200 lines per mm. Wacom tech is superior here, but if you are drawing you will not notice the difference. You don't need to worry about this spec. All modern tablets have enough resolution.
 
 ## **Things to watch out for**
 
-* **Diagonal wobble** - All drawing tablets have some wobble when moving the pen at an angle; it is strongest at 45 degrees. Some have a lot and some have very little or almost none. You may be sensitive to wobble, so make sure the tablet you buy doesn't have too much. More here: [Diagonal wobble](../core/diagonal-wobble.md).
-* **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them, which produces a kind of sparkle effect. Some pen displays have a lot of it and some have very little. Some people can tolerate it; others find it distracting. More here: [Anti-glare sparkle](../guides/pen-displays/ag-sparkle.md).
-* **NO SIGNAL** - The most common problem with pen displays is something called NO SIGNAL. If you are interested in pen displays, you should be prepared to deal with this topic. The problem usually isn't the tablet itself, but how your computer's ports work and which ones you are trying to use. [TSG: Pen display shows NO SIGNAL message](../troubleshoot/tsg-no-signal.md).
+* **Diagonal wobble** - All drawing tablets have some wobble when moving the pen at an angle. It is strongest at 45 degrees. Some have a lot, and some have very little or almost none. You may be sensitive to wobble, so make sure the tablet you buy does not have too much. More here: [Diagonal wobble](../core/diagonal-wobble.md).
+* **Anti-glare sparkle** - To prevent glare, pen displays have an anti-glare treatment applied to them, which produces a kind of sparkle effect. Some pen displays have a lot of it, and some have very little. Some people can tolerate it. Others find it distracting. More here: [Anti-glare sparkle](../guides/pen-displays/ag-sparkle.md).
+* **NO SIGNAL** - The most common pen display problem is the NO SIGNAL message. If you are interested in pen displays, you should be prepared to troubleshoot it. The issue usually is not the tablet itself, but how your computer ports work and which ones you are trying to use. More here: [TSG: Pen display shows NO SIGNAL message](../troubleshoot/tsg-no-signal.md).
 
 ## **Already have an iPad?**
 
@@ -97,7 +99,7 @@ Read more here:
 
 ## Pen display features
 
-* **Display resolution** - Learn how to choose the [display resolution](../guides/pen-displays/display-resolution.md).
+* **Display resolution** - Learn how to choose the [display resolution](choosing-display-resolution.md).
 * **Brightness** - Pen displays are bright but not as bright as some other displays you may be familiar with. More here: [Brightness](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent gap between the physical tip of the pen and where the computer thinks the tip is. Some people are more sensitive to this than others. Learn more here: [Parallax](../guides/pen-displays/parallax.md).
 * **Lamination** - Lamination reduces parallax. I highly recommend getting a pen display that has lamination. Learn more here: [Lamination](../guides/pen-displays/lamination.md)
@@ -148,18 +150,18 @@ More here: [Operating systems](../guides/platforms/)
 * **Thickness** - Pen tablets are very thin these days — about 8mm. Smaller pen displays can be around 10mm; larger pen displays can be 35mm.
 * **Surface texture** - If you are drawing, you may have strong preferences about the feel of your tablet's surface. All drawing tablets have some texture, but there is quite a bit of variation, and there are ways to achieve the texture you want. For example, many people want a rougher texture like paper. Learn more here: [Surface texture](../core/surface-texture.md)
 * **Body posture** - With a pen tablet, your torso will naturally have a more upright posture because you look at your monitor while your hand rests on the tablet on your desk. With a pen display, you lean forward to draw since you must look down at the display on your desk. You may experience lower back pain or neck strain. More here: [Body posture when using drawing tablets](../guides/ergonomics/posture.md)
-* **Arm mounting** - Pen displays are essentially monitors, and many (but not all) have a VESA mount on the back. This lets you keep the pen display out of the way when not in use and pull it close when you want to draw. Pen tablets have no built-in mounting capability. See: [Monitor arms](../catalog/accessories/arms/)
+* **Arm mounting** - Pen displays are essentially monitors, and many, but not all, have a VESA mount on the back. This lets you keep the pen display out of the way when not in use and pull it close when you want to draw. Pen tablets have no built-in mounting capability. See: [Monitor arms](../catalog/accessories/arms/)
 * **Legs** - Many pen displays (but not all) have foldable legs on the back, which lets you prop the display at a slight angle on your desk for easier viewing and drawing. Pen tablets do not have legs; if you want to angle one, you will need to find another solution.
-* **Right-handed vs left-handed use** - All drawing tablets work for both right-handed and left-handed users. In some cases (usually due to the layout of the tablet buttons) you may need to configure the tablet for left-handed use. See [Handedness of drawing tablets](../guides/ergonomics/handedness.md).
+* **Right-handed vs left-handed use** - All drawing tablets work for both right-handed and left-handed users. In some cases, usually due to the layout of the tablet buttons, you may need to configure the tablet for left-handed use. See [Handedness of drawing tablets](../guides/ergonomics/handedness.md).
 * **Noise** - You may have strong preferences about **noise**. Drawing tablets are generally very quiet, and some are completely silent. More here: [Noise](../guides/ergonomics/noise.md)
 * **Heat** - Drawing tablets run at roughly room temperature or slightly warm, depending on the type. More here: [Heat](../guides/ergonomics/heat.md)
 
 ## Use Cases
 
-* **Drawing** - Drawing with a drawing tablet is similar to drawing on paper but also quite different. There is a noticeable difference between drawing with a pen display versus a pen tablet, and understanding this will help you choose between them. More here: [The drawing experience](../basics/drawing-experience.md) and [Learning digital art](../basics/learning-digital-art.md)
+* **Drawing** - Drawing with a drawing tablet is similar to drawing on paper, but also quite different. There is a noticeable difference between drawing with a pen display versus a pen tablet, and understanding this will help you choose between them. More here: [The drawing experience](../basics/drawing-experience.md) and [Learning digital art](../basics/learning-digital-art.md)
 * **3D workflows** - I'm not personally involved with 3D work, but I have collected guidance from others here: [Using drawing tablets in 3D workflows](../basics/scenarios/3d-workflows.md)
-* **Taking notes** - I don't typically recommend pen tablets or pen displays for note-taking. Some people do enjoy it, but I think standalone devices like an iPad work much better for this purpose. More here: [Taking notes with drawing tablets](../basics/scenarios/taking-notes.md)
-* **Educational videos** - You've probably seen Khan Academy-style videos — those are made with a drawing tablet. More here: [Making educational videos with a drawing tablet](../basics/scenarios/edu-vids.md)
+* **Taking notes** - I do not typically recommend pen tablets or pen displays for note-taking. Some people do enjoy it, but I think standalone devices like an iPad work much better for this purpose. More here: [Taking notes with drawing tablets](../basics/scenarios/taking-notes.md)
+* **Educational videos** - You've probably seen Khan Academy-style videos. People make those with drawing tablets. More here: [Making educational videos with a drawing tablet](../basics/scenarios/edu-vids.md)
 * **Gaming** - Some people play games with drawing tablets. More here: [Gaming with a drawing tablet](../basics/scenarios/gaming.md)
 * **Playing osu!** - If you want to play osu!, there are specific drawing tablets you should consider. More here: [Osu! recommendations](../recs/scenario-recs/osu-recs.md)
 
@@ -206,11 +208,11 @@ Drawing tablets have been released over many years, so when you shop online you 
 ## Preparing for a drawing tablet
 
 * **Troubleshooting** - At some point, something is going to go wrong. I highly suggest familiarizing yourself with [Common problems](../troubleshoot/common-drawtab-problems.md) and the [Troubleshooting](../troubleshoot/) docs.
-* **Accessories** - There are some useful accessories for tablets. More here: [Accessory links](../catalog/accessories/)
+* **Accessories** - There are some useful accessories for tablets. More here: [Accessories](../catalog/accessories/)
 * **Purchasing** - Before you purchase, go through this [Buying tips](buying-tips.md).
 * **Getting started** - Once you get your tablet, here's a guide to setting it up for the first time: [Getting started with a drawing tablet](../basics/getting-started.md)
 * **Maintenance** - Once you get your tablet, you'll need to take care of it with some simple maintenance. I've written a guide on this: [Maintaining your drawing tablet](../guides/maintain/).
-* **Be prepared for the total cost of ownership.** The tablet itself is just the beginning — you will likely purchase other things too. More here: [Total cost of ownership (TCO)](../guides/general/total-cost-of-ownership-tco.md)
+* **Be prepared for the total cost of ownership.** The tablet itself is just the beginning. You will likely purchase other things too. More here: [Total cost of ownership (TCO)](../guides/general/total-cost-of-ownership-tco.md)
 
 ## Resources
 

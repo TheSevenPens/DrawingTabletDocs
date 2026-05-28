@@ -2,7 +2,7 @@
 
 ## Overview
 
-We would all like to have completely brand-new equipment. However, used tablets can be a good way to save money.
+We would all like to have brand-new equipment. However, used tablets can be a good way to save money.
 
 ## My experience with used drawing tablets
 
@@ -10,7 +10,7 @@ I have bought and worked with MANY used drawing tablets — 26 used tablets as o
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used. I own many used pen tablets, some over 25 years old, that still work.
 * **pen displays** - I have purchased four used pen displays.
-* **standalone** - I have no experience with used standalone tablets.&#x20;
+* **standalone** - I have no experience with used standalone tablets.
 
 ## Tablet age
 
@@ -26,7 +26,7 @@ Wacom products have always been the most reliable and highest quality. Even goin
 
 ## Used Wacom Intuos professional tablets
 
-There are some factors you MUST take into account when buying them used. I've summarized those issues in the video below. Make sure to check the description of the video for errata.
+There are some factors you MUST take into account when buying them used. I've summarized those issues in the video below. Make sure to check the video description for errata.
 
 Even though this video is about used pen tablets, it may be useful even if you are looking to purchase a used pen display.
 
@@ -87,7 +87,7 @@ Don't rely on the model number in the listing title — always check photos of t
 
 ## Official tablet brand stores on eBay
 
-Some manufacturers directly sell new and used or refurbished tablets on eBay:
+Some manufacturers sell new, used, or refurbished tablets on eBay:
 
 * Wacom: [https://www.ebay.com/str/wacom](https://www.ebay.com/str/wacom)
 * Huion: [https://www.ebay.com/str/huiontablet](https://www.ebay.com/str/huiontablet)

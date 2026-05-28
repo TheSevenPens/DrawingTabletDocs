@@ -2,15 +2,15 @@
 
 ## Introduction
 
-As a rectangular region, we can discuss the size of the active area in different ways
+Because the active area is rectangular, we can describe its size in different ways.
 
 * Width & Height
 * Diagonal length
 * Area
 
-But most often we will talk about active area sizes using the **diagonal length**.
+Most often, we describe active area size by its **diagonal length**.
 
-If you need help picking the right size for your tablet, consult [Choosing the right size for a drawing tablet](../../buying/choosing-size.md).
+If you need help picking the right size for your tablet, see [Choosing the right size for a drawing tablet](../../buying/choosing-size.md).
 
 ## Size in tablet names
 
@@ -19,30 +19,30 @@ You can often see the diagonal length in the names of pen displays. For example:
 * Wacom Cintiq Pro **27**
 * Huion Kamvas Pro **16** Plus 4K
 
-For pen tablets, manufacturers often use descriptive names such as "small", "large" instead of numbers.
+For pen tablets, manufacturers often use descriptive names such as "small" and "large" instead of numbers.
 
 * Wacom Intuos Pro Medium
 * Wacom Intuos Pro Large
 
 ## Standard sizes
 
-By looking at the Wacom's product line and naming, we can establish a decent framework understanding how descriptive words like "small" and "large" map to numbers. Note that the size names are different for pen displays and pen tablets.
+By looking at Wacom's product line and naming, we can build a useful framework for how descriptive words like "small" and "large" map to numbers. Note that the size names differ between pen displays and pen tablets.
 
 <figure><img src="../../.gitbook/assets/image-000336.png" alt=""><figcaption></figcaption></figure>
 
 ## Distribution of active area sizes
 
-If we look at how drawing tablet models are distributed along this scale we'll see that there is a lot of variation.
+If we look at how drawing tablet models are distributed along this scale, we can see a lot of variation.
 
 <figure><img src="../../.gitbook/assets/image-000262.png" alt=""><figcaption></figcaption></figure>
 
 ## Diagonal vs Area
 
-Is it reasonable to use the active area's Diagonal length vs the Active area's area measurement.
+Is it reasonable to use the active area's diagonal length instead of its area?
 
-I think it is, because the diagonal is reasonably well correlated with area for drawing tablets.
+I think it is, because diagonal length correlates reasonably well with area for drawing tablets.
 
-Let's see how diagonal and compare buy plotting the values for 180 different tablets.
+Let's compare them by plotting the values for 180 different tablets.
 
 For pen tablets:
 

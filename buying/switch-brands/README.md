@@ -29,7 +29,7 @@ More here: [2025 Professional pens compared](../../recs/comparisons/2025-pro-pen
 
 Wacom has been in the industry for 40 years and has released many tablets over that time.
 
-Wacom's older professional tablets are still better than the newest tablets from other brands. The gap has shrunk significantly, and for many people you would not be able to tell the difference.
+Wacom's older professional tablets are still better than the newest tablets from other brands. The gap has shrunk significantly, and many people would not be able to tell the difference.
 
 ## Some Wacom consumer tablets are not great
 

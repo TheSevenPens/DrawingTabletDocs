@@ -2,16 +2,16 @@
 
 ## Background
 
-Pen displays (tablets with a screen) come in two varieties
+Pen displays (tablets with a screen) come in two varieties:
 
-* Those where your pen is making direct contact with the glass surface. Typically these tablets have an "etched glass" surface. See: [Etched glass](../pen-displays/etched-glass.md)
+* Those where your pen makes direct contact with the glass surface. Typically, these tablets have an "etched glass" surface. See [Etched glass](../pen-displays/etched-glass.md).
 * Those where your pen is touching a protective film covering the glass and so the pen does not touch the glass directly.
 
-How these surface experience and show wear are different.
+These surfaces wear differently and show wear differently.
 
 ## Wear on etched glass
 
-Etched glass that is used for append display is highly durable. They are designed to be directly drawn upon with the pens / nibs that the manufacturer also supplies. However, they are not infinitely resistant to damage from various sources. Also different etched glass treatments may have different levels of hardness.
+Etched glass used for a pen display is highly durable. It is designed to be drawn on directly with the pens and nibs that the manufacturer supplies. However, it is not infinitely resistant to damage from various sources. Different etched-glass treatments may also have different levels of hardness.
 
 ## Real-world examples
 
@@ -29,43 +29,43 @@ His attempts leave some kind of metallic-looking residue on the glass which he c
 
 ### Counterexamples
 
-On the internet (reddit, eBay, etc/) you can find plenty of people who have accidentally scratched the glass of their tablet (even of the Kamvas Pro 19). Sometimes these scratches appear not while drawing but seemingly during other moments when something has made contact with the tablet - perhaps with more extreme force. And some tablets show scratches for typical.
+On the internet — Reddit, eBay, and elsewhere — you can find plenty of people who have accidentally scratched the glass of their tablet, including the Kamvas Pro 19. Sometimes these scratches do not happen while drawing, but during other moments when something makes contact with the tablet, perhaps with more force. Some tablets also show scratches from typical use.
 
-Below is a picture of a Wacom Cintiq 13 HD which has an etched glass surface. It exhibits a lot of wear. (I do think this is a relatively uncommon and extreme amount)
+Below is a picture of a Wacom Cintiq 13 HD, which has an etched glass surface. It exhibits a lot of wear. I think this is a relatively uncommon and extreme amount.
 
 ![](../../.gitbook/assets/image-000143.jpg)
 
-From this reddit post:[https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)
+From this Reddit post: [https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)
 
 ## Preventing damage to glass
 
 ### Small particle damage
 
-Some people suggest that small particles of various materials can be on your land on the glass or attach themselves to the nib of the pen. And they suggests that as you draw on the glass with your pen that you might see scratches that are caused not by the pen and nib itself, but by the motion of those small particles as your nib moves them across the surface of the glass.
+Some people suggest that small particles of various materials can land on the glass or attach themselves to the nib. They also suggest that, as you draw on the glass, scratches may be caused not by the pen or nib itself, but by those particles being dragged across the surface.
 
-I cannot say that I have personally experienced this myself. But I do think it is in your best interests to keep the surface of your pen display and your pens clean.
+I cannot say that I have experienced this myself. But I do think it is in your best interest to keep the surface of your pen display and your pens clean.
 
 ### Contact with objects on your hand
 
-Some artists are very careful to remove anything metallic from there hands or wrists when they draw. And I think this is also a very reasonable thing to do to avoid the potential damaging the glass.
+Some artists are very careful to remove anything metallic from their hands or wrists when they draw. I think this is a reasonable way to avoid potentially damaging the glass.
 
 ### Scratches during transport
 
-If you were transporting your pen display you should make sure that the glass is covered by something to protect it during it's journey. I have seen people mentioned that they put their pen display in a backpack but that's some other object in the backpack made contact with and
+If you are transporting your pen display, make sure the glass is covered by something that protects it during the trip. I have seen people mention putting a pen display in a backpack, only for another object inside the backpack to make contact with the glass and damage it.
 
 ## Screen protectors
 
-Screen protectors on top of the tablet glass naturally protect the glass from damage. One benefit of is that if they do get damaged you can generally replace them.
+Screen protectors on top of the tablet glass naturally protect the glass from damage. One benefit is that, if they do get damaged, you can generally replace them.
 
 More: [Screen protectors](../../catalog/accessories/surface-protectors/screen-protectors/)
 
 ## Glass damage is permanent
 
-The glass surface of a pen display is not designed to be removed. In the case of fully laminated pen displays, remember that the glass is bonded to the display panel with the layer of optically clear adhesive (OCA). So in summary the glass you have is going to be there forever.
+The glass surface of a pen display is not designed to be removed. In fully laminated pen displays, the glass is bonded to the display panel with a layer of optically clear adhesive (OCA). In short, the glass you have is going to be there forever.
 
-And anywhere or damage you caused the glass will also be there forever.
+Any wear or damage you cause to the glass will also be there forever.
 
-I have never seen anyone find anyway to somehow remove any on the glass surface
+I have never seen anyone find a way to remove damage from the glass surface.
 
 ## My experience
 

@@ -4,13 +4,13 @@
 
 Sometimes systems and drivers just get into confused states.
 
-A restart will often clear up problems. If a restart or two doesn't fix the problem then move on to other troubleshooting steps.
+A restart will often clear up problems. If one or two restarts do not fix the problem, move on to other troubleshooting steps.
 
 ## Check drivers
 
 * Are you running the latest tablet drivers? The driver software will usually have somewhere that shows which version it is.
 * Try uninstalling, restarting the computer, and reinstalling the latest drivers.
-* Sometimes the drivers you have don't completely uninstall themselves. To completely uninstall the drivers see this guide: [Tablet Driver Cleanup tool](../guides/drivers/tablet-driver-cleanup-tool.md).
+* Sometimes the drivers you have do not completely uninstall themselves. To fully uninstall them, see [Tablet Driver Cleanup tool](../guides/drivers/tablet-driver-cleanup-tool.md).
 
 ## Try an older driver
 
@@ -19,7 +19,7 @@ A restart will often clear up problems. If a restart or two doesn't fix the prob
 
 ## Test the tablet with other applications
 
-Often the problems you experience might be due to a specific app so you should try other apps to see if they replicate the problem.
+Often, the problem might be due to a specific app, so you should try other apps to see whether they replicate it.
 
 * Krita
 * Clip Studio Paint
@@ -28,11 +28,11 @@ Often the problems you experience might be due to a specific app so you should t
 
 NOTES:
 
-* I recommend always testing with Krita because Krita is free and has configurable brushes that let you test specific pen features such as pressure and tilt.
+* I recommend always testing with Krita because it is free and has configurable brushes that let you test pen features such as pressure and tilt.
 
 ## Test with my online tablet tester
 
-Drawing applications do complex things. My tablet tester is a much simpler application and I know what it does. See if you can replicate the behavior in the tester.
+Drawing apps do complex things. My tablet tester is much simpler, and I know exactly what it does. See whether you can replicate the behavior there.
 
 GO HERE: [SevenPens Tablet Tester](../resources/sevenpens-tablet-tester.md)
 
@@ -46,7 +46,7 @@ Often it can be a clue to what is going on.
 
 If you are using a Mac, skip this section. It does not apply to you.
 
-If you are using a Windows computer you need to be aware of a component called [Windows Ink](../guides/platforms/windows/winink/).
+If you are using a Windows computer, you need to be aware of a component called [Windows Ink](../guides/platforms/windows/winink/).
 
 See these docs:
 
@@ -55,9 +55,9 @@ See these docs:
 
 ## Pressure
 
-* If you are having pressure problems check the pressure in the driver: [DIAG: Testing pressure in the tablet driver](diag-pressure-in-tablet-driver.md)
+* If you are having pressure problems, check pressure in the driver: [DIAG: Testing pressure in the tablet driver](diag-pressure-in-tablet-driver.md)
 * In Windows, if the tablet driver detects pressure but the pressure is not working in an app, it often indicates that Windows Ink is configured inconsistently between the two.
-* It's important here to see where the pressure is working or not
+* It is important to see where pressure is working and where it is not.
   * Is it working in a specific app but not working in others?
   * Or is it not working in all apps?
 

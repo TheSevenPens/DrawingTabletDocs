@@ -2,19 +2,19 @@
 
 ## Overview
 
-Some drawing tablets - specifically some models of pen tablets - support wireless connection to a computer. No pen displays support wireless connection.
+Some drawing tablets, specifically some pen tablet models, support wireless connection to a computer. No pen displays support wireless connection.
 
 ## Wireless protocol
 
-Most pen tablets use some versions of Bluetooth to connect to a computer. But some use a different wireless protocol. If they do use Bluetooth it's almost always specifically advertised on the box for the drawing tablet.
+Most pen tablets use some version of Bluetooth to connect to a computer. Some use a different wireless protocol. If a tablet uses Bluetooth, that is usually advertised clearly on the box.
 
 ## Hardware
 
-if a pen tablet supports wireless via Bluetooth, it is simply built in to the pen tablet and it will work with any computer that also supports Bluetooth. For those pen tablets that support a non Bluetooth wireless protocol they will often come with a dongle that you plug into the computer. And that dongle lets the two connect.
+If a pen tablet supports wireless over Bluetooth, the feature is built into the tablet and should work with any computer that also supports Bluetooth. Pen tablets that use a non-Bluetooth wireless protocol often come with a dongle that plugs into the computer.
 
 ## Latency and Lag
 
-nobody has ever measured how much latency or lag it introduced by wireless connection for a pen tablet. We may be able to take a few cues however from data collected for mice. rtings.com measured mouse left click latency. And here are two examples of what they found.
+Nobody has measured exactly how much latency wireless adds for a pen tablet. But we can borrow a few clues from mouse testing. RTINGS measured mouse click latency, and here are two examples.
 
 <figure><img src="../../../.gitbook/assets/image-000338 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -22,15 +22,15 @@ nobody has ever measured how much latency or lag it introduced by wireless conne
 
 Bluetooth wireless connections show that there can be very little latency or a lot of latency. It varies quite a bit even within a single mouse.
 
-Keep in mind when interpreting these numbers that
+Keep these points in mind when interpreting the numbers:
 
 * There are different versions of the Bluetooth protocol that have different latencies.
-* These numbers are for the click latency of mice And not for pen tablets.
+* These numbers are for mouse click latency, not pen tablets.
 
 ## Reliability
 
-it is possible that electromagnetic interference in a room might cause problems with a wireless connection. Though in my personal experience I can't say I've run into that problem.
+It is possible for electromagnetic interference in a room to cause problems with a wireless connection. In my experience, though, this is uncommon.
 
 ## Setting up your tablet
 
-if you've just purchased a drawing tablet and now you're setting it up. I highly recommend that you first connect the tablet with the provided USB cable. And once that's working then try the wireless connection.
+If you just bought a drawing tablet and are setting it up, I recommend connecting it with the provided USB cable first. Once that works, try the wireless connection.

@@ -2,27 +2,27 @@
 
 ## Introduction
 
-The aspect ratio of your drawing tablet's [Active area](./), can have a big impact on how good it feels to draw on them.
+The aspect ratio of your drawing tablet's [active area](./) can have a big impact on how good it feels to draw on.
 
 ## Basics
 
-Any rectangular area has an aspect ratio. Which is the relationship between the width and height. Usually we will express the AR as a ratio like 16:9 or 16x9.&#x20;
+Any rectangular area has an aspect ratio, which is the relationship between its width and height. Usually, we express it as a ratio such as `16:9` or `16:10`.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000611.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Displays (monitors) tend to have aspect ratios like 16x9 and 16x10. 16x9 is the most common aspect ratio.
+Displays tend to have aspect ratios such as `16:9` and `16:10`. `16:9` is the most common.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000614.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Aspect ratio mismatches with pen tablets (IMPORTANT)
 
-If you are using a pen tablet, it mostly likely does not match the aspect ratio of your monitor and you will see some distortion when you draw.&#x20;
+If you are using a pen tablet, its aspect ratio most likely does not match your monitor's. This causes distortion when you draw.
 
-This will make give you a weird and unpleasant feeling while drawing. You can fix this by forcing the aspect ratios to match. More here: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md).
+This creates a weird and unpleasant drawing feel. You can fix it by forcing the aspect ratios to match. More here: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md).
 
 ## Pen displays and aspect ratios
 
-The active area of a pen display and their display panel inside the pen display are equivalent. So they always match.
+The active area of a pen display and the display panel inside it are equivalent. So they always match.
 
 ## Reference
 

@@ -6,11 +6,11 @@ For the overall buying guide: [Drawing tablet buying guide](../../buying/)
 
 ## Overview
 
-I don't do 3D work myself, so this document is based on feedback I've been given by others and what I have observed in online forums. Please share any [Discord server](../../resources/community/discord.md).
+I do not do 3D work myself, so this document is based on feedback from others and what I have observed in online forums. Please share feedback in the [Discord server](../../resources/community/discord.md).
 
-It seems that the 3D workflow tends has some special needs, ans for that reason we need to look at this use case specifically.
+3D workflows tend to have some special needs, so this use case deserves separate guidance.
 
-There are three considerations for 3D workflows
+There are three main considerations for 3D workflows:
 
 * Whether to get a pen display or pen tablet (the most common answer is pen display)
 * What display resolution to get for the pen display
@@ -18,9 +18,9 @@ There are three considerations for 3D workflows
 
 ## Pen display vs pen tablet
 
-Based on on my observation, most people doing 3D work use a pen display (screen tablet) instead of a pen tablet (screenless tablet).
+Based on my observation, most people doing 3D work use a pen display instead of a pen tablet.
 
-However, what will work for you takes some consideration. See: [Pen tablets vs pen displays](../../buying/pen-tablets-vs-pen-displays.md)
+However, what works for you depends on your workflow. See: [Pen tablets vs pen displays](../../buying/pen-tablets-vs-pen-displays.md)
 
 ## Display resolution of pen display
 
@@ -35,13 +35,13 @@ However, what will work for you takes some consideration. See: [Pen tablets vs p
 * 16" is OKAY
 * 14 and lower - NOT RECOMMENDED
 
-For general guidance on picking size: [Choosing the right size for a drawing tablet](../../buying/choosing-size.md)
+For general guidance on size: [Choosing the right size for a drawing tablet](../../buying/choosing-size.md)
 
 ## Prioritizing resolution and size
 
-It seems that the 3D workflow typically involves having many UI elements on screen at once - for example when using node editors. Higher resolutions will make it easier to read the smaller text in these scenarios.
+3D workflows typically involve many UI elements on screen at once, such as node editors. Higher resolutions make smaller text easier to read in these cases.
 
-For example here is an example of what might need to be on screen
+For example, this is the kind of UI that may need to be visible at once.
 
 <figure><img src="../../.gitbook/assets/image-000548 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 

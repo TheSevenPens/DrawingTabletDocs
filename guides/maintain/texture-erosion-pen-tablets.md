@@ -2,16 +2,16 @@
 
 ## Overview
 
-The surfaces of a pen tablet usually have some texture applies to prevent drawing on them from feeling "slippery".
+The surfaces of a pen tablet usually have some texture applied to prevent drawing on them from feeling "slippery."
 
 Tablets vary quite a bit in how much texture is on them. The Intuos Pro models (PTH-460, PTH-660, PTH-860) are known for having a lot of texture.
 
-As you drag your pen on the surface you will eventually notice two forms of texture erosion:
+As you drag your pen on the surface, you will eventually notice two forms of texture erosion:
 
 * thin or thick marks
 * broad areas where the texture has been worn off
 
-For more examples of surface wear and how to minimize it go here: [Surface wear on pen tablets](surface-wear-pen-tablets.md).
+For more examples of surface wear and how to minimize it, go here: [Surface wear on pen tablets](surface-wear-pen-tablets.md).
 
 ## Examples
 
@@ -19,7 +19,7 @@ These texture erosion marks can be very difficult to see. Depending on the light
 
 <figure><img src="../../.gitbook/assets/image-000279.png" alt=""><figcaption></figcaption></figure>
 
-Some texture erosion marks aren't even caused by then pen. Other objects that come in contact with the tablet can cause them. You can often detect these because they produce much wider marks than the pen can produce.
+Some texture erosion marks are not even caused by the pen. Other objects that come in contact with the tablet can cause them. You can often detect these because they produce much wider marks than the pen can produce.
 
 <figure><img src="../../.gitbook/assets/image-000268.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +27,7 @@ Here is an example of broad area texture erosion on a Wacom Intuos Pro PTH-860. 
 
 <figure><img src="../../.gitbook/assets/image-000345.png" alt=""><figcaption></figcaption></figure>
 
-Here is an close up example of the texture of a Wacom Intuos Pro Large (PTH-860)
+Here is a close-up example of the texture of a Wacom Intuos Pro Large (PTH-860).
 
 <figure><img src="../../.gitbook/assets/image-000275.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ Below is an example of deliberately trying to erode the texture over a wide area
 
 ### Impact of texture erosion
 
-Texture erosion is typically benign. While it is unattractive and sometimes visible it does not deflect the tip of the pen.
+Texture erosion is typically benign. While it is unattractive and sometimes visible, it does not deflect the tip of the pen.
 
 ### More examples of texture erosion
 

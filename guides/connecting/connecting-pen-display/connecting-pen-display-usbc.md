@@ -16,40 +16,40 @@ Read this first: [Connecting a pen display](./)
 
 Key things to keep in mind:
 
-* Not all pen displays support this configuration - even if they do have USB C ports on the tablet
-* Not all computers are capable of sending power and display signal over their USB C ports
-* Not all USB C cables can be used for this purpose.
+* Not all pen displays support this configuration, even if they have USB-C ports.
+* Not all computers can send power and a display signal over USB-C.
+* Not all USB-C cables can be used for this purpose.
 
-So, you have to do your research and plan carefully. Do not buy a pen display assuming that a single USB C cable connection will work.
+So, do your research and plan carefully. Do not buy a pen display assuming that a single USB-C cable connection will work.
 
 ## Verify with your manufacturer
 
-The first thing you should do is verify whether the tablet supports a single USB C connection. Ideally you do this before you even purchase the tablet.
+The first thing you should do is verify whether the tablet supports a single USB-C connection. Ideally, do this before you buy the tablet.
 
 You can do this verification easily:
 
-* Read the user manual for the tablet and see how it connects
-* Or contact product support for the tablet and ask them specifically if it will work for that specific model.
+* Read the user manual and check how the tablet connects.
+* Or contact support and ask whether it works for that specific model.
 
 ## Summary of requirements
 
 <figure><img src="../../../.gitbook/assets/image-000621.png" alt=""><figcaption></figcaption></figure>
 
-## **Video signal with DP alt mode support**
+## Video signal with DP alt mode support
 
-Your cable and ports MUST support DP alt mode. To find out if you ports and cables support DP alt mode, read thi&#x73;**:** [USB-C DisplayPort alt mode](../../pen-displays/usbc-dp-alt-mode.md).
+Your cable and ports must support DP alt mode. To find out whether your ports and cables support DP alt mode, read [USB-C DisplayPort alt mode](../../pen-displays/usbc-dp-alt-mode.md).
 
 ## Power support
 
 * Cables
-  * Thunderbolt USB-C cables can carry carrying enough power
+  * Thunderbolt USB-C cables can usually carry enough power.
 * Ports
-  * Even if the cable supports power, your computers USB-C port may not supply enough power.
+  * Even if the cable supports power, your computer's USB-C port may not supply enough power.
 * Power needed
-* The size of the pen display affects how much power is needed.
-  * It's very likely that if your USB-C port can deliver enough power a 13" pen display
-  * At 16", some pen displays require additional power usually from a power adapter that is plugged into a wall.
-  * Above 16" most often in my experience a single USB-C cable is not enough and these pen displays require additional power.
+  * The size of the pen display affects how much power is needed.
+  * A 13-inch pen display is more likely to work from USB-C power alone.
+  * At 16 inches, some pen displays need additional power from a wall adapter.
+  * Above 16 inches, a single USB-C cable is often not enough.
 
 ## USB-C Port preference
 
@@ -57,9 +57,9 @@ Often with tablets there are two USB-C ports.
 
 Sometimes they are not interchangeable:
 
-* Some tablets dedicate the top port for video and data, and the bottom to power
-* Some tablets dedicate the bottom port for video and data, and the bottom to power
-* Some tablets can any any combination of ports for video, data, and power
+* Some tablets dedicate the top port to video and data, and the bottom port to power.
+* Some tablets dedicate the bottom port to video and data, and the top port to power.
+* Some tablets can use any combination of ports for video, data, and power.
 
 ## USB-C Ports that are recessed
 
@@ -75,7 +75,7 @@ I recommend you get the USB-C cables provided by the manufacturer for two reason
 
 * These cables are known to work with your tablet
 * The tablet may have recessed USB-C ports and these cables are designed to fit that port. Other cables may not even fit inside.
-* I have personally experienced times where third-party USB-C cables just did not work with a tablet even though they may all the specs and worked with many other tablets.
+* I have personally seen third-party USB-C cables fail with a tablet even though they met the specs and worked with other tablets.
 
 More here: [Using 3rd-party cables with your drawing tablet](../3rd-party-cables-for-drawtab/)
 
@@ -85,21 +85,21 @@ To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB
 
 ## The specific Thunderbolt 3 cable I use
 
-I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results can be found here. [CableMatters Thunderbolt 3 cable](../../../catalog/accessories/cables/cablematters-thunderbolt-3-cable.md).
+I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results are here: [CableMatters Thunderbolt 3 cable](../../../catalog/accessories/cables/cablematters-thunderbolt-3-cable.md).
 
 ## How to tell if a USB-C cable could be used as a single-cable for your pen display
 
-Unfortunately, this can be very hard since there are reliable indicators for USB-C cables. The vast majority of USB-C cables are unmarked.
+Unfortunately, this can be hard because there are no reliable visual indicators for USB-C cables. Most USB-C cables are unmarked.
 
-**Thunderbolt labeled USB-C cables**- if you see a thunderbolt logo on A USB-C cable. This means it is either a thunderbolt 3,4,or 5 cable. And this means it supports all the needed requirements
+**Thunderbolt-labeled USB-C cables** — If you see a Thunderbolt logo on a USB-C cable, it is a Thunderbolt 3, 4, or 5 cable. That means it supports the needed requirements.
 
-**USB4 labeled USB-C cables** - I've never seen a cable labelled USB4. But if you see one, it should support all the requirements needed.
+**USB4-labeled USB-C cables** — I've never seen a cable labeled USB4. But if you see one, it should support the needed requirements.
 
-**Unlabeled USB-C cables** - You will have to rely on manufacturer specs to determine this. Sometimes these cables are described as "Full-featured" USB-C cables.
+**Unlabeled USB-C cables** — You will need to rely on the manufacturer specs. These cables are sometimes described as "full-featured" USB-C cables.
 
 ## Adding a USB-C with DisplayPort to your computer
 
-If you computer does not have a USB-C port that supports DP alt mode, it MAY be possible to add that to your computer.
+If your computer does not have a USB-C port that supports DP alt mode, it may be possible to add one.
 
 This is apparently possible but will require a desktop computer that is capable of accepting an expansion card.
 

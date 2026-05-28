@@ -6,7 +6,7 @@ Removing the nib in the pen is a common maintenance task to deal with nibs that 
 
 ## Purpose-built nib removers
 
-Your drawing tablet likely came with a nib remover. It's usually either a piece of metal or a metal part of a pen stand
+Your drawing tablet likely came with a nib remover. It is usually either a piece of metal or a metal part of a pen stand.
 
 Here's a simple nib remover.
 
@@ -18,7 +18,7 @@ This pen case has a nib remover (the small metal ring) built in.
 
 ## Alternatives to nib removers
 
-**If don't have a nib remover**, it's not a problem you can use any instrument that can pinch the nib. Here are some options:
+**If you don't have a nib remover**, that is not a problem. You can use any tool that can grip the nib. Here are some options:
 
 * Tweezers
 * Needle-nose pliers
@@ -26,7 +26,7 @@ This pen case has a nib remover (the small metal ring) built in.
 
 ## Broken nib stuck in pen
 
-A nib that has snapped off and left part of itself inside the pen may require some special techniques. See: [Removing a broken nib](removing-broken-nib.md).
+A nib that has snapped off and left part of itself inside the pen may require special techniques. See [Removing a broken nib](removing-broken-nib.md).
 
 ## Videos
 

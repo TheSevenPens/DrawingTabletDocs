@@ -1,35 +1,35 @@
-# Pen hover
+# Hover
 
-## Overview&#x20;
+## Overview
 
-All drawing tablets detect the position of the pen - **even if the pen is not touching the tablet**.
+All drawing tablets detect the position of the pen, **even when the pen is not touching the tablet**.
 
-If you think about it, this is how the tablet MUST work, because the EMR sensor (aka the digitizer) is below the surface (plastic or glass) that the pen touches. So, obviously the pen is **always** detected at a distance.
+This is how the tablet must work, because the EMR sensor, also called the digitizer, sits below the surface that the pen touches. So the pen is **always** detected at a distance.
 
-This explains why we are able to place a sheet of paper or a plastic cover over the tablet, and the pen will still be detected correctly.&#x20;
+This explains why we are able to place a sheet of paper or a plastic cover over the tablet, and the pen will still be detected correctly.
 
 ## Benefits of hover
 
 * You can reposition the pointer without drawing or clicking.
-* You can see where your drawing stroke is going to be before you start the stroke
-* For some art styles it is very important: [https://youtu.be/ZpcKfipVy24 ](https://youtu.be/ZpcKfipVy24)
+* You can see where your stroke will go before you start it.
+* For some art styles it is very important: [https://youtu.be/ZpcKfipVy24](https://youtu.be/ZpcKfipVy24)
 
 ## Some people don't like hover
 
-This is rare, but a small number people don't like seeing the pointer move as they move the pen over the surface of the tablet.&#x20;
+This is rare, but a small number of people do not like seeing the pointer move as they move the pen over the tablet surface.
 
 ## Hover height
 
-The maximum distance the tablet can detect the pen is about 10mm for a modern EMR tablet.
+The maximum distance a modern EMR tablet can detect the pen is about 10 mm.
 
 ## What influences the hover height
 
-Even though the typical hover height is 10mm, The EMR sensor itself can detect the pen at a much greater distance. For example, even around 20mm. But the greater the distance, the less accurate the the pen can determine the position of the pen. So for this reason tablet drivers enforce a lower max hover height.
+Even though the typical hover height is 10 mm, the EMR sensor itself can detect the pen at a much greater distance, sometimes around 20 mm. But the greater the distance, the less accurately the pen position can be determined. For that reason, tablet drivers enforce a lower maximum hover height.
 
 ## Controlling the maximum hover height
 
-Drivers from tablet manufacturers offer no user control over the maximum hover height. The height locked into the code of the driver. However, [OpenTabletDriver](../../guides/drivers/opentabletdriver/) does have plugins that let you control the hover height.
+Drivers from tablet manufacturers offer no user control over the maximum hover height. That value is locked into the driver. However, [OpenTabletDriver](../../guides/drivers/opentabletdriver/) has plugins that let you control hover height.
 
 ## Turning off hover
 
-With a drawing tablet Hover is an intrinsic part of how the tablet works. There is no way to disable hover. Though in some apps it might be possible for you to hide the pointer when you use the pen which might achieve a similar effect.
+With a drawing tablet, hover is an intrinsic part of how the tablet works. There is no way to disable it. In some apps, you may be able to hide the pointer when using the pen, which can achieve a similar effect.

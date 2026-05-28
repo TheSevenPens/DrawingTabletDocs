@@ -2,15 +2,15 @@
 
 ## Overview
 
-The **Initial Activation Force** (IAF) is the smallest amount of pressure that an EMR pen will detect.
+The **initial activation force** (IAF) is the smallest amount of pressure an EMR pen detects.
 
-In more simple terms: IAF is how hard you have to press to draw. High IAF means you have to press harder to draw with the pen. Low IAF means you don't have to press as hard.
+In simpler terms, IAF is how hard you need to press to draw. High IAF means you need to press harder. Low IAF means you can draw with lighter pressure.
 
-Generally, people want lower IAF.
+In general, people want lower IAF.
 
 ## Details
 
-* IAF is measured in "gram-force" units (gf). Though you may see it very often described in "grams".
+* IAF is measured in gram-force units (`gf`). You will often see it described as grams.
 * IAF is determined by the pen hardware, not the tablet.
 * More info: [Pen pressure](./)
 
@@ -20,11 +20,11 @@ Generally, people want lower IAF.
 
 ## Initial activation force (IAF)
 
-A lower IAF is good because it allows you to draw finer details better. To give you a better sense of what these values mean, I've ranked IAF below based on feedback I've received and what works for me.
+A lower IAF is good because it makes fine details easier to draw. To give you a better sense of these values, I have ranked IAF below based on feedback I have received and what works for me.
 
 <table><thead><tr><th width="154.5999755859375">IAF Rating</th><th width="134.79998779296875">IAF Range</th><th>Comments</th></tr></thead><tbody><tr><td>EXCELLENT</td><td>&#x3C;=1gf</td><td>Many modern Wacom pens have an IAF of &#x3C;= 1gf</td></tr><tr><td>GREAT</td><td>1gf to 2gf</td><td>Only a couple of pens are in this range</td></tr><tr><td>GOOD</td><td>2gf to 3.5gf</td><td>Most modern EMR pens have an IAF of around 3gf.</td></tr><tr><td>OK</td><td>3.5gf and 5gf</td><td>This is tolerable. Something that would be typical of a consumer-level pen.</td></tr><tr><td>BAD</td><td>≥ 5gf</td><td>Most people would not enjoy using such a pen.</td></tr></tbody></table>
 
-Note that, some people have much stronger opinions about IAF. For example, some people think any IAF greater than 2gf is BAD IAF.
+Note that some people have much stronger opinions about IAF. For example, some people think any IAF greater than 2gf is bad.
 
 ## IAF through the years
 
@@ -36,38 +36,36 @@ Here are some examples from Kuuube's measurements (using Open Tablet Driver) fro
 
 ## The importance of low IAF
 
-Some people REALLY need that EXCELLENT IAF of <1gf.
+Some people really need an excellent IAF of <1gf.
 
-Others like (myself included) work fine with a 3gf IAF. I definitely notice the difference but it doesn't affect me with the kind of art I create.
+Others, myself included, work fine with a 3gf IAF. I definitely notice the difference, but it does not affect the kind of art I create.
 
 ## Changing the IAF
 
-* Lowering IAF - See [Decreasing IAF](../../guides/customizing/lowering-iaf.md)
-* Increasing IAF - See [Increasing IAF](../../guides/customizing/increasing-iaf.md)
+* Lowering IAF — see [Decreasing IAF](../../guides/customizing/lowering-iaf.md)
+* Increasing IAF — see [Increasing IAF](../../guides/customizing/increasing-iaf.md)
 
 ## A higher IAF can be useful
 
-Given that there's so much focus on having a “low IAF”, it would be natural to think that always having a low IAF is good and that it is always preferable to have a lower IAF rather than a higher one. The overall sentiment is generally true but there are some exceptions and things to keep in mind.
+Given how much focus there is on low IAF, it is natural to think that lower is always better. That is generally true, but there are some exceptions.
 
 ### False pressure detection
 
-First, as the pressure sensing mechanism in a pen gets more sensitive to enable a very low IAF, it can have unintended effects. For example those pens with super low IAF may actually say that they are detecting pressure when they are clearly not touching the tablet. Sometimes this can take the form of spurious pressure readings or it can happen more frequently and the pen can effectively draw while hovering.
+As the pressure sensing mechanism in a pen becomes more sensitive to enable very low IAF, it can have unintended effects. For example, pens with super-low IAF may report pressure even when they are clearly not touching the tablet. Sometimes this appears as spurious pressure readings. In other cases, the pen can effectively draw while hovering.
 
 ### Effectively increasing IAF with pressure curves
 
-The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See: [Increasing IAF](../../guides/customizing/increasing-iaf.md)
+The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See [Increasing IAF](../../guides/customizing/increasing-iaf.md).
 
-Sometimes tablets are pre-configured to raise the IAF artificially. If this is a case, you can remove the artificial increase get back to the native IAF. More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-deadzone.md)
+Sometimes tablets are preconfigured to raise the IAF artificially. If that is the case, you can remove the artificial increase to get back to the native IAF. More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-deadzone.md)
 
 ## Is Wacom <1gf IAF real?
 
-It is commonly accepted knowledge that SOME of Wacom's pens feature the lowest IAF in the industry: < 1gf.
+It is commonly accepted that some of Wacom's pens have the lowest IAF in the industry: <1gf.
 
-But how sure are we this is real? There are two pieces of evidence to support this.
+But how sure are we that this is real? There are two pieces of evidence.
 
-\#1 Wacom has explicitly mentioned this before. Below is the original Japanese version, and then the English AI-translated version.
-
-
+1. Wacom has explicitly mentioned this before. Below is the original Japanese version and an English AI-translated version.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_JP (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -77,14 +75,14 @@ The phrase "1gON" indicates that 1 gf of physical force will trigger the pen to 
 
 <figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_EN - focus.jpg" alt=""><figcaption></figcaption></figure>
 
-\#2 Tablet Expert Kuube has measured many Wacom pens and found that they have an iAF <1gf.
+2. Tablet expert Kuuube has measured many Wacom pens and found that they have an IAF of <1gf.
 
 ## Wispy tails on strokes
 
-Another thing that happens when you're dealing with very low initial activation force is that it can affect the shape of your strokes at the very beginning or end. For example it can often leave little wispy tails at the beginning or end of a stroke. So in some cases you might want to create a little bit of a dead zone in your driver to avoid those wispy tails.
+Another effect of very low initial activation force is that it can affect the shape of strokes at the very beginning or end. For example, it can leave little wispy tails at the beginning or end of a stroke. In some cases, you may want to create a small dead zone in your driver to avoid those wispy tails.
 
-In some pens I've also noticed that having an extremely low IAF can cause the pen to register pressure for just one moment longer after you lift the pen off the tablet. I suspect this is due to the mechanics of a nib that is moving the pen having to overcome some friction. And so for just a moment as you lift off the tablet the very sensitive pressure mechanism is still detecting the nib pushing into it. This can create the same wispy tail effect.
+I have also noticed that, in some pens, an extremely low IAF can cause the pen to register pressure for a moment longer after you lift it off the tablet. I suspect this happens because the moving nib still has to overcome some friction. As you lift off the tablet, the very sensitive pressure mechanism may still detect the nib pushing into it. This can create the same wispy-tail effect.
 
 ## How IAF is measured
 
-This video from XP-Pen demonstrates it [https://www.youtube.com/watch?v=QLmkI2vgfBg](https://www.youtube.com/watch?v=QLmkI2vgfBg)
+This video from XP-Pen demonstrates it: [https://www.youtube.com/watch?v=QLmkI2vgfBg](https://www.youtube.com/watch?v=QLmkI2vgfBg)

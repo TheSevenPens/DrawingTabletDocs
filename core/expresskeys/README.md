@@ -14,13 +14,13 @@ The primary way you provide input via the tablet is via the pen. However, some d
 
 ## Terminology: ExpressKeys
 
-**ExpressKeys** is a Wacom-specific term for buttons on Wacom tablets. However, many people have adopted it as a term to describe use to describe buttons on tablets from all brands.
+**ExpressKeys** is a Wacom-specific term for buttons on Wacom tablets. However, many people have adopted it as a general term for buttons on tablets from all brands.
 
-Huion calls buttons "Press Keys"
+Huion calls buttons "Press Keys."
 
 ## Disabling auxiliary inputs
 
-Some people love using these kind of inputs, but some people do not like them because either they
+Some people love using these kinds of inputs, but some people do not like them because they
 
 * take up space on the tablet
 * are accidentally triggered
@@ -30,22 +30,22 @@ For these cases, you should be aware that these inputs can often be configured i
 
 ## Binding inputs to actions
 
-You can bind the buttons to take a variety of actions. Broadly the categories are
+You can bind the buttons to take a variety of actions. Broadly, the categories are:
 
 * Mouse-related actions - right click, left-click, double click
 * System navigation - scroll left, scroll right, zoom in/out, pan, switch applications
-* System tasks - run application, open a file
-* Keyboard - Press a key, hold down a modifier key
+* System tasks - run an application, open a file
+* Keyboard - press a key, hold down a modifier key
 
 ## Common useful bindings
 
-You can make these auxiliary inputs to all sorts of useful things. Here are some popular examples I found: [Popular bindings for auxiliary inputs](popular-bindings.md)
+You can bind these auxiliary inputs to all sorts of useful actions. Here are some popular examples: [Popular bindings for auxiliary inputs](popular-bindings.md)
 
 ## Global vs application configuration
 
-Tablet drivers also let you configure how these auxiliar inputs work depending on the app you are using.
+Tablet drivers also let you configure how these auxiliary inputs work depending on the app you are using.
 
-For example you can set a button to
+For example, you can set a button to:
 
 * Increase brush size when you are using Photoshop
 * Increase opacity when you are using Clip Studio Paint

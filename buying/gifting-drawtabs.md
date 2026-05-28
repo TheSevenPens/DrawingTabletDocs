@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you want to buy a drawing tablet as a gift but have never used one yourself, it can be challenging to choose well. This guide is here to help you find a good option.
+If you want to buy a drawing tablet as a gift but have never used one yourself, it can be challenging to choose well. This guide helps you find a good option.
 
 ## Understand the kinds of drawing tablets available
 
@@ -33,13 +33,13 @@ They are separated by type and size of tablet, with options available at multipl
 
 ## When ready, look through the full buying guide
 
-The full buying guide: [Drawing tablet buying guide](./)
+See the full [Drawing tablet buying guide](./).
 
 These tips will be useful: Video: [Practical tips for buying a drawing tablet](https://youtu.be/57-W_dmtLJU)
 
 ## Make sure the tablet will physically connect to their computer
 
-For a pen tablet or pen display, it must connect to a computer. For a pen tablet, this is easy — the computer just needs one available USB port. For a pen display it can get complicated. See: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
+For a pen tablet or pen display, it must connect to a computer. For a pen tablet, this is easy — the computer just needs one available USB port. For a pen display, it can get complicated. See: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
 
 ## Do they need to use certain apps?
 
@@ -50,6 +50,6 @@ Examples:
 * If they want to use the Procreate app → the only option is an Apple iPad, since Procreate only works on iPads.
 * If they need to use the full version of Photoshop (as opposed to the mobile version) → they can't use an Android device or an iPad.
 
-## Join the discord for more help
+## Join the Discord for more help
 
 Go here for the invite link: [Discord server](../resources/community/discord.md)

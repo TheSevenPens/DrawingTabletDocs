@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Buying tips
@@ -62,9 +64,9 @@ Since Reddit is a popular place for drawing tablet discussions, here are some nu
 
 ## Understand how the tablet will connect to your computer
 
-For pen tablets, this is straightforward. All pen tablets connect with a USB-C cable, and some also support wireless connectivity.
+For pen tablets, this is straightforward. All pen tablets connect with a USB cable, and some also support wireless connectivity.
 
-In the user manual you'll find diagrams like this for a pen tablet.
+In the user manual, you'll find diagrams like this for a pen tablet.
 
 <figure><img src="../.gitbook/assets/image-000653 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 

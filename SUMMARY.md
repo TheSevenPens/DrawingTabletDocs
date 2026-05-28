@@ -171,7 +171,7 @@
       * [Cables I use to connect pen tablets](guides/connecting/3rd-party-cables-for-drawtab/my-cables-for-pen-tablets.md)
     * [Connecting a pen tablet](guides/connecting/connecting-pen-tablet/README.md)
       * [Wireless connection](guides/connecting/connecting-pen-tablet/wireless-connection.md)
-      * [Connecting a drawing tablets with a serial cable](guides/connecting/connecting-pen-tablet/connecting-with-serial-cable.md "Serial cable")
+      * [Connecting drawing tablets with a serial cable](guides/connecting/connecting-pen-tablet/connecting-with-serial-cable.md "Serial cable")
     * [Connecting a pen display](guides/connecting/connecting-pen-display/README.md)
       * [Connecting a pen display with USB-C](guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md "Connecting with USB-C")
       * [Connecting with HDMI](guides/connecting/connecting-pen-display/connecting-pen-display-hdmi.md)

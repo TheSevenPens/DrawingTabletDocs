@@ -2,11 +2,11 @@
 
 ## Overview
 
-Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially they are laptops that work with an EMR pen that are specifically designed for drawing and are made by drawing tablet brands such as Wacom. Examples of pen computers are: Wacom Mobile Studio Pro and Huion Kamvas Studio
+Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially, they are laptops that work with an EMR pen and are specifically designed for drawing by tablet brands such as Wacom. Examples include the Wacom Mobile Studio Pro and Huion Kamvas Studio.
 
 Even though some people love using pen computers, <mark style="color:red;">**I do not in general recommend buying one**</mark>.
 
-In this document I will evaluate pen computers on several dimensions such as cost, upgradability, etc and show you why I think they are not a great choice.
+This document evaluates pen computers across several dimensions, such as cost and upgradability, and explains why I do not think they are a great choice.
 
 ## I suggest you seek alternatives
 
@@ -24,9 +24,9 @@ I certainly do not recommend pen computers for people who are just getting start
 
 Pen computers typically have very limited upgradability compared to using a normal drawing tablet that requires a PC.
 
-Typically once you buy pen computer you'll be stuck with those specifications in terms of memory processor speed and GPU for the entire lifetime of the device. If you are going to purchase a pen computer please verify how upgradable it is before you make the purchase.
+Typically, once you buy a pen computer, you'll be stuck with those specifications in terms of memory, processor speed, and GPU for the entire lifetime of the device. If you are going to purchase a pen computer, verify how upgradeable it is before you make the purchase.
 
-if you use a non-standalone drawing tablet attached to a PC or laptop, you can either upgrade the PC or get a new laptop with significantly upgraded specs.
+If you use a non-standalone drawing tablet attached to a PC or laptop, you can either upgrade the PC or get a new laptop with significantly better specs.
 
 ## Customer support
 
@@ -36,8 +36,8 @@ The truth is that drawing tablet manufacturers aren't as big as these companies.
 
 ## Repairs
 
-As with most laptops and all-in-one systems a pen display is typically not intended to be user-serviceable. If something goes wrong it's going to be difficult to fix by yourself. Not only are these computers often not designed to be opened. Even if you are successful in opening the case and fixing whatever problem there is it will most certainly void your warranty.
+As with most laptops and all-in-one systems, a pen computer is typically not intended to be user-serviceable. If something goes wrong, it will be difficult to fix yourself. These computers often are not designed to be opened. Even if you do open the case and fix the problem, it will almost certainly void your warranty.
 
-If you need to have the pen computer repaired by the manufacturer. You are going to find that both the process is difficult and the cost is extraordinarily high.
+If you need to have the pen computer repaired by the manufacturer, you are going to find that both the process and the cost are difficult to accept.
 
-You cannot take these devices into a local retail store for the tablet manufacturer to take a look at. You'll have to send the pen computer back to the manufacturer and you will have to pay for the cost of shipping. And the repair cost can be as expensive as getting another laptop.
+You cannot take these devices into a local retail store for the tablet manufacturer to inspect. You'll have to send the pen computer back to the manufacturer, and you will have to pay for shipping. The repair cost can be as expensive as getting another laptop.

@@ -9,7 +9,7 @@ Checking these things will save you a lot of headaches and disappointment later 
 ## Testing before you set up the tablet
 
 * Tablets usually come with a list of included items — things like cables, cleaning cloths, pen nibs, etc. This list may be printed on the box, on a paper inside the box, or on the tablet brand's website. Verify that you have everything you're supposed to have.
-* Examine the surface carefully with your eyes. You're looking for scratches or areas where the surface is worn. If it's a new tablet you shouldn't see anything like that.
+* Examine the surface carefully with your eyes. You're looking for scratches or areas where the surface is worn. If it's a new tablet, you shouldn't see anything like that.
 * Scratches can sometimes be hard to see, so try shining a bright light across the surface at an angle to reveal them.
 
 ## Getting prepared for functional testing

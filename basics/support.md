@@ -6,13 +6,13 @@
 
 Wacom community forums: [https://support.wacom.com/hc/en-us/community/topics/360003085353-Welcome-General-Discussion](https://support.wacom.com/hc/en-us/community/topics/360003085353-Welcome-General-Discussion)
 
-To file a support ticket: You can file a support ticket with Wacom at this link: [https://support.wacom.com/hc/en-us/requests/new?ticket\_form\_id=1500000134982](https://support.wacom.com/hc/en-us/requests/new?ticket_form_id=1500000134982)
+To file a support ticket, use this link: [https://support.wacom.com/hc/en-us/requests/new?ticket\_form\_id=1500000134982](https://support.wacom.com/hc/en-us/requests/new?ticket_form_id=1500000134982)
 
 ## Huion
 
 [https://www.huion.com/support.html](https://www.huion.com/support.html) -
 
-Go to the bottom of the page to find links to contact Huion support
+Go to the bottom of the page to find contact links for Huion support.
 
 ![](<../.gitbook/assets/image-000368 (1).png>)
 

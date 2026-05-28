@@ -1,6 +1,6 @@
 # Gaming with a drawing tablet
 
-My hobby concerning drawing tablets is centered largely around creatives - people who are drawing, sketching, etc. Despite using tablets for well over a decade, only in 2022 did I discover people were using drawing tablets for games. And some of these games are quite popular.
+My hobby around drawing tablets centers largely on creatives — people who draw, sketch, and paint. Despite using tablets for well over a decade, I only discovered in 2022 that people also use drawing tablets for games. Some of these games are very popular.
 
 ## osu!
 
@@ -8,11 +8,11 @@ My hobby concerning drawing tablets is centered largely around creatives - peopl
 
 **osu!** is a popular rhythm game and many of its players use drawing tablets instead of a mouse. [https://en.wikipedia.org/wiki/Osu!](https://en.wikipedia.org/wiki/Osu!)
 
-[**Example of someone playing osu! with a tablet**](https://youtu.be/j3wIf_kWmPM) <- this video is relatively well known in the osu! community.
+[**Example of someone playing osu! with a tablet**](https://youtu.be/j3wIf_kWmPM) — this video is relatively well known in the osu! community.
 
 ### osu! is very popular
 
-They have about 1.7M monthly active users who play osu!
+osu! has about 1.7 million monthly active users.
 
 You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)
 
@@ -29,11 +29,11 @@ While creatives tend to use their drawing tablets in standard ways, osu! players
 
 ### Drivers
 
-* Players often do not use manufacturer **drivers**, but instead they use [OpenTabletDriver](../../guides/drivers/opentabletdriver/) because:
+* Players often do not use manufacturer **drivers**. Instead, they use [OpenTabletDriver](../../guides/drivers/opentabletdriver/) because:
   * OTD has less lag than manufacturer drivers
-  * OTD is highly customizable through it's plug-in system
+  * OTD is highly customizable through its plug-in system
   * OTD works across many tablet models
-  * OTD works on Windows, Mac, and Linux
+  * OTD works on Windows, macOS, and Linux
 
 ### **Drag vs hover**
 
@@ -54,7 +54,7 @@ Some osu! players - at least the ones I communicate with regularly - are **remar
 
 They know a tremendous amount about the hardware, drivers, etc. Some conduct original research and testing of tablets. Some write code for OpenTabletDriver.
 
-I would consider them **absolute experts** - far beyond any drawing tablet reviewer out there and myself.
+I would consider them **absolute experts** — far beyond any drawing tablet reviewer, including me.
 
 They are also **incredibly sensitive** to microscopic behaviors, latencies, etc. in drawing tablets - far more than someone who has typically has used tablets only for creative tasks.
 
@@ -74,4 +74,4 @@ More here: [Osu! recommendations](../../recs/scenario-recs/osu-recs.md)
 
 Players using drawing tablets for FPS games is less common than for Rhythm games, but this is the preferred input device for some people.
 
-* example: ([video](https://youtu.be/9yVK859vZRs))
+* Example: [video](https://youtu.be/9yVK859vZRs)

@@ -2,20 +2,20 @@
 
 ## Overview
 
-These are NOT drawing tablets, but because they are very very similar to pen computers in that they are standalone and you can use a pen to draw with them - we can talk about them as an viable alternative to a pen computer.
+These are NOT drawing tablets, but they are very similar to pen computers. They are standalone devices, and you can use a pen to draw with them. That makes them a viable alternative to a pen computer.
 
-But the key difference is a pen computer is intended for drawing, whereas a mobile computer with pen support is meant for general purpose use, but also you can use a pen do draw.
+The key difference is that a pen computer is intended for drawing, whereas a mobile device with pen support is meant for general-purpose use. It can also be used for drawing.
 
 ## Key characteristics
 
-* Drawing experience is just OK to EXCELLENT depending on the specific device.&#x20;
-* Operating system: Only Windows
+* Drawing experience ranges from OK to excellent, depending on the specific device.
+* Operating systems vary by device.
 
 ## Drawing experience
 
-Sometimes the drawing experience with a mobile computers can really rival that of a pen computer. Sometimes they even use the same pen technology. But other times, they use a different technology and the drawing experience is not as good or may be missing features. So you have to carefully choose which devices you pick here.
+Sometimes the drawing experience on a mobile device can rival that of a pen computer. Sometimes they even use the same pen technology. Other times, they use different technology, and the drawing experience is not as good or may be missing features. So you have to choose carefully.
 
 ## Cost
 
-* Pen-enabled mobile devices cost between $250 to $1500.&#x20;
-* $250 is for on the extreme low end and will usually get a relatively underpowered device. A more typical price for budget device is $350.&#x20;
+* Pen-enabled mobile devices cost between $250 and $1500.
+* $250 is the extreme low end and will usually get you a relatively underpowered device. A more typical budget price is $350.

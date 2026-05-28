@@ -6,11 +6,11 @@ Before you read this document, read: [Pen pressure response](../pen-pressure-res
 
 ## Overview
 
-Your pen senses pressure and encodes it as a number. You can think of the number as ranging from 0 to the maximum number of pressure levels of your pen. In many cases its easier to "normalize" this number so that it ranges from 0.0 to 1.0. This makes discussing the pressure easier to understand in many cases.
+Your pen senses pressure and encodes it as a number. You can think of that number as ranging from 0 to the maximum number of pressure levels of your pen. In many cases, it's easier to "normalize" this number so that it ranges from 0.0 to 1.0. This makes pressure easier to discuss.
 
-This number flows through a "Pipeline" of components: tablet firmware -> tablet driver -> OS pen subsystem-> pen-aware application -> brush engine
+This number flows through a "pipeline" of components: tablet firmware -> tablet driver -> OS pen subsystem -> pen-aware application -> brush engine.
 
-Some of these components can process the the pressure - that means they can alter the number - before it is sent to the next component.
+Some of these components can process the pressure. That means they can alter the number before it is sent to the next component.
 
 The processing of the pressure number alters how the pen will feel to draw with.
 
@@ -39,21 +39,21 @@ For example in the Wacom Tablet Properties app it looks like this:
 
 ![](../../../.gitbook/assets/image-000256.png)
 
-* The X axis labelled as "Pen pressure" is the logical input pressure
-* The Y axis labelled as "Output" is the output logical pressure
-* This particular curve bends down a little. But many other shapes are possible. Each shape has their uses.
+* The X axis labeled "Pen pressure" is the logical input pressure.
+* The Y axis labeled "Output" is the logical output pressure.
+* This particular curve bends down a little, but many other shapes are possible. Each shape has its own uses.
 
 ## Popular coverage of pressure curves is misleading
 
-You might encounter YouTube videos where people describe the pressure curve as the pressure behavior of the pen. This is completely inaccurate. The pressure curve describes how the pressure behavior (the pressure response) is being modified. You cannot look at a pressure curve and understand the pressure behavior of your pen. The only way for you to understand the pressure behavior of pen is to physically measure it with the scale and start mapping physical pressure values to logical pressure values.
+You might encounter YouTube videos where people describe the pressure curve as the pressure behavior of the pen. This is inaccurate. The pressure curve describes how the pressure behavior, meaning the pressure response, is being modified. You cannot look at a pressure curve and understand the pressure behavior of your pen. The only way to understand the pressure behavior of a pen is to physically measure it with a scale and map physical pressure values to logical pressure values.
 
 ## Pressure curve shapes
 
-There are a variety of pressure curve shapes - each of which can solve some problem or achieve some visual effect.
+There are a variety of pressure curve shapes. Each can solve some problem or achieve some visual effect.
 
 <figure><img src="../../../.gitbook/assets/image-000434.png" alt=""><figcaption></figcaption></figure>
 
-To see which drivers and apps support which shapes see this: [App pressure curves](pressure-curve-in-app.md)
+To see which drivers and apps support which shapes, see: [App pressure curves](pressure-curve-in-app.md)
 
 ## Things you can do with pressure curves
 

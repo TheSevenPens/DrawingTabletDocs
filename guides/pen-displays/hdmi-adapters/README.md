@@ -2,15 +2,15 @@
 
 ## Before you begin
 
-You may want to familiarize yourself with this doc before you continue if you are not experienced connection options: [Connecting a pen display](../../connecting/connecting-pen-display/)
+If you are not familiar with display connection options, read [Connecting a pen display](../../connecting/connecting-pen-display/) first.
 
 ## Overview
 
-Sometimes the tablet needs to be connected to your computer through HDMI. This means that there's a cable coming from your tablet that has a “male” HDMI plug. And of course you then need a “female” HDMI receptacle.
+Sometimes the tablet needs to connect to your computer through HDMI. That means the cable from the tablet has a male HDMI plug, and your computer or adapter needs a female HDMI receptacle.
 
-“Plug” and “receptable” are the official terms, by the way 😊
+“Plug” and “receptacle” are the official terms, by the way.
 
-However it is possible you can use another port.
+However, you may be able to use another port.
 
 ## Order of preference of ports for adapters
 
@@ -32,8 +32,8 @@ If you don't have an HDMI port you should try alternative ports in the order bel
 
 ## Check your requirements
 
-You need to make sure your adapter supports the **resolution** and **refresh rate** that you want from you pen display.
+You need to make sure your adapter supports the **resolution** and **refresh rate** that you want from your pen display.
 
 ## General flakiness
 
-Generally these adapters "just work". But sometimes there are odd quirks on some computers and they just don't work or not work correctly.
+Generally, these adapters "just work." But some computers have odd quirks, and the adapter may not work correctly.

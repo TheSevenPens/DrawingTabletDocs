@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Size = Active Area Size.** The size of a tablet is NOT measured by the physical size of the device. Instead, we measure the diagonal of the ACTIVE AREA — the region on the tablet's surface that responds to the EMR pen. Learn more: [Active area](../core/active-area/) & [Active area size](../core/active-area/active-area-size.md)
+**Size = Active Area Size.** The size of a tablet is NOT measured by the physical size of the device. Instead, we measure the diagonal of the ACTIVE AREA — the region on the tablet's surface that responds to the EMR pen. Learn more: [Active area](../core/active-area/) and [Active area size](../core/active-area/active-area-size.md)
 
 ## Companion Video
 
@@ -10,7 +10,7 @@
 
 ## My size categories
 
-I've given convenient labels ("small", "medium", "large") to drawing tablets to make it easier to talk about their sizes. These categories are based on the standard sizes Wacom uses. The sizes are approximate — for each category a typical value and a range are provided.
+I've given convenient labels ("small", "medium", "large") to drawing tablets to make it easier to talk about their sizes. These categories are based on the standard sizes Wacom uses. The sizes are approximate — for each category, a typical value and a range are provided.
 
 See: [Standard drawing tablet sizes](../ref/standard-drawtab-sizes.md)
 
@@ -42,7 +42,7 @@ Here's what you should consider when choosing a size:
 | **Starter tablet**                                                                                                                                       | <p><strong>MEDIUM (11")</strong></p><p><strong>SMALL (7")</strong> if budget is a constraint</p> | <p><strong>MEDIUM (16")</strong></p><p><strong>SMALL (13")</strong> if budget is a constraint</p> |
 | **Drawing, Sketching, Painting**                                                                                                                         | <p><strong>MEDIUM (11")</strong></p><p><strong>LARGE (15")</strong> if you know you need it</p>  | <p><strong>MEDIUM (16")</strong></p><p><strong>LARGE (24")</strong> if you know you need it</p>   |
 | **Photo Editing**                                                                                                                                        | **SMALL (7")** is enough                                                                         | **SMALL** **(13")** or **MEDIUM**                                                                 |
-| <p><strong>Note taking</strong><br>(more here:<a href="../basics/scenarios/taking-notes.md"> Taking notes with drawing tablets</a>)</p>                  | <p><strong>MEDIUM (11")</strong><br>(I don't recommend pen tablets for note taking)</p>          | **SMALL (13")** (I don't recommend pen displays for note taking)                                  |
+| <p><strong>Note taking</strong><br>(more here: <a href="../basics/scenarios/taking-notes.md">Taking notes with drawing tablets</a>)</p>                  | <p><strong>MEDIUM (11")</strong><br>(I don't recommend pen tablets for note taking)</p>          | **SMALL (13")** (I don't recommend pen displays for note taking)                                  |
 | <p><strong>Mouse replacement</strong><br>(More here: <a href="../basics/scenarios/replacing-mouse.md">Using a drawing tablet instead of a mouse</a>)</p> | **SMALL (7")**                                                                                   | N/A                                                                                               |
 | **For children**                                                                                                                                         | **SMALL (7")**                                                                                   | **SMALL (13")**                                                                                   |
 | **What I prefer and use**                                                                                                                                | **LARGE (15")**                                                                                  | 22" - on the low end of LARGE                                                                     |
@@ -56,7 +56,7 @@ Here's what you should consider when choosing a size:
 
 ## Pen tablet size vs monitor size
 
-If you use a pen tablet (which has no screen), you use it alongside a monitor. The relationship between the two sizes affects how it feels to draw. A detailed explanation is here: [Matching pen tablet size to monitor size](../guides/general/pen-tablet-monitor-size.md).
+If you use a pen tablet, which has no screen, you use it alongside a monitor. The relationship between the two sizes affects how it feels to draw. A detailed explanation is here: [Matching pen tablet size to monitor size](../guides/general/pen-tablet-monitor-size.md).
 
 ## Pen display sizes
 

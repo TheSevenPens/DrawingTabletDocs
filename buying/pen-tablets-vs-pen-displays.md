@@ -20,7 +20,7 @@ The goal is to give you enough information to make an informed decision.
 
 ## Details
 
-This document summarizes many in-depth topics. For more information, consult the [Drawing tablet buying guide](./) which covers all of these topics in detail.
+This document summarizes many in-depth topics. For more information, consult the [Drawing tablet buying guide](./), which covers all of these topics in detail.
 
 ## Dispelling common myths
 
@@ -36,7 +36,7 @@ Pen displays look impressive and cost much more than pen tablets. It's natural t
 
 Another common myth is that professionals only use pen displays. This is absolutely not true. Many professional artists use pen tablets by choice and produce high-quality professional work with them.
 
-### MYTH: People naturally prefer pen displays. The only reason they use pen tablets is because they are cheaper.
+### MYTH: People naturally prefer pen displays, and only use pen tablets because they are cheaper
 
 <mark style="color:red;">**REALITY: Lots of people try pen displays, and go back to pen tablets**</mark>
 
@@ -59,7 +59,7 @@ Some people worry that the quality of art they want to produce requires a pen di
 
 If you are just getting started with a drawing tablet — for example, if this is going to be your first one — my advice is to start with a pen tablet. Learn to use it, and if you can't adjust after a few weeks, return it and get a pen display.
 
-## Need to be used with a computer
+## Need a computer
 
 <mark style="background-color:purple;">WINNER: TIE</mark>
 
@@ -90,7 +90,7 @@ Pen tablets are the clear winner for reliability. They are much simpler devices 
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-Pen tablets work with a single USB cable (and some are wireless). Pen displays are more complex — depending on your computer and the specific pen display, there are multiple cabling options and they can be difficult to configure. More here: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
+Pen tablets work with a single USB cable, and some are wireless. Pen displays are more complex — depending on your computer and the specific pen display, there are multiple cabling options, and they can be difficult to configure. More here: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
 
 ## Pointer lag
 
@@ -98,7 +98,7 @@ Pen tablets work with a single USB cable (and some are wireless). Pen displays a
 
 All tablets have some pointer lag. In my observation, pen tablets have less lag than pen displays.
 
-On top of that, even if both had the same lag, you would notice it more on a pen display — because you can see the pen tip and the cursor on the same screen, right next to each other, which makes the lag more apparent. More here: [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
+On top of that, even if both had the same lag, you would notice it more on a pen display — because you can see the pen tip and the cursor on the same screen, right next to each other, which makes the lag more apparent. More here: [Pointer lag](../core/pointer-lag.md)
 
 ## Wireless connectivity
 
@@ -148,7 +148,7 @@ Pen tablets are considerably thinner and lighter.
 
 * Pen displays feel more natural because you look at the same place you are drawing. With a pen tablet, you draw in one place but look somewhere else.
 * Most people feel like they need to press UNDO less frequently with a pen display, because strokes more often go where they intended.
-* With a pen tablet, you **must** configure the tablet's active area to match your display's aspect ratio to avoid distortion. (This is done with a "Force proportions" setting in the tablet driver.) With pen displays, this is not required — they are pre-configured correctly. More here: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md).
+* With a pen tablet, you **must** configure the tablet's active area to match your display's aspect ratio to avoid distortion. This is done with a "Force proportions" setting in the tablet driver. With pen displays, this is not required — they are pre-configured correctly. More here: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md).
 
 More here: [The drawing experience](../basics/drawing-experience.md)
 
@@ -162,7 +162,7 @@ Also, pen displays require more protection when traveling because they are more 
 
 ## Diagonal wobble
 
-[Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md#diagonal-wobble) is a slight wobbling inaccuracy in pen position tracking. It is present in ALL drawing tablets to varying degrees.
+Diagonal wobble is a slight wobbling inaccuracy in pen position tracking. It is present in ALL drawing tablets to varying degrees.
 
 In my testing, I've found no clear pattern indicating that pen tablets or pen displays are more or less prone to wobble. It appears to be linked to the specific tablet model rather than the type.
 

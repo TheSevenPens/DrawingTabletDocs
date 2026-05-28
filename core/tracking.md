@@ -1,13 +1,13 @@
-# Pen tracking
+# Tracking
 
 ## Introduction
 
-**Pen tracking is** the tablet's interpretation of the physical position of pen.
+**Pen tracking** is the tablet's interpretation of the physical position of the pen.
 
-**Pen tracking accuracy** is how close the the operating system cursor (mouse pointer) is to the physical tip of the pen.
+**Pen tracking accuracy** is how close the operating system cursor, or mouse pointer, is to the physical tip of the pen.
 
-* Note that this accuracy must be measured without taking into account the effect of parallax
-* Also this must be measured when the pen is NOT moving - because pointer lag by definition causes a kind of dynamic inaccuracy
+* This accuracy must be measured without taking parallax into account.
+* It must also be measured when the pen is **not** moving, because pointer lag causes a kind of dynamic inaccuracy.
 
 ### Real-world accuracy
 
@@ -19,7 +19,7 @@ Pen tracking accuracy is a concept that applies to both pen tablets and pen disp
 
 ## Pen tracking calibration
 
-If your pen's position is not matching where the pointer is in a major way especially if it is happening across most of the tablet, then [Calibrate pen position](../guides/customizing/calibrate-pen-position.md) may help.
+If your pen position does not match the pointer in a major way, especially across most of the tablet, then [Calibrate pen position](../guides/customizing/calibrate-pen-position.md) may help.
 
 ## Video: Accuracy in pen displays
 
@@ -27,16 +27,16 @@ If your pen's position is not matching where the pointer is in a major way espec
 
 ## Edge and corner accuracy in pen displays
 
-The pointer is generally a bit more offset from the tip of the pen toward the edges and especially the corners rather then the main part of the screen.
+The pointer is generally a bit more offset from the pen tip near the edges, and especially the corners, than in the main part of the screen.
 
 This offset in the edges and corners is totally normal. Some tablets have more and some have less.
 
-Tablet manufacturers (except for Wacom) often publish their official corner accuracy numbers. Here are some typical values I've seen.
+Tablet manufacturers, except Wacom, often publish official corner accuracy numbers. Here are some typical values I have seen.
 
 * ±3mm
 * ±1.5mm
 * ±1mm
 
-If you have a pen display and it seems to exceed what the manufacturer says it has and you are disturbed by it, you should contact support.
+If you have a pen display and the inaccuracy seems worse than the manufacturer's spec, and it bothers you, contact support.
 
-For myself, generally even if I see ±3mm it isn't really a problem because I am not drawing in those areas. But of course, it does look weird and I would like it always to be more accurate and do prefer ±1mm.
+For me, even ±3 mm is usually not a real problem because I am not drawing in those areas. But it does look weird, and I would always prefer ±1 mm.

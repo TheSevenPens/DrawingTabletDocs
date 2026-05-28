@@ -2,7 +2,7 @@
 
 ## Overview
 
-If the nib is broken in half and stuck deeply inside or there's not enough of it to grip then normal techniques may not get it out.
+If the nib is broken in half and stuck deeply inside, or if there is not enough of it to grip, normal techniques may not get it out.
 
 Here are some other options.
 
@@ -10,7 +10,7 @@ Here are some other options.
 
 ## OPTION: Precision tweezers
 
-I used this iFixit set of precision tweezers. Specifically I used the one in the middle. I wasn't able to put both both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly pull the nib out a little bit at a time. Once enough was out, I used the tweezers normally to pull the nib out.
+I used this iFixit set of precision tweezers. Specifically, I used the one in the middle. I was not able to put both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly pull it out a little at a time. Once enough was exposed, I used the tweezers normally to pull the nib out.
 
 <figure><img src="../../.gitbook/assets/image-000417 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -18,15 +18,15 @@ I used this iFixit set of precision tweezers. Specifically I used the one in the
 
 This method involves using a glue gun. Roughly the steps are:
 
-* put a very tiny amount of hot glue on the end of a toothpick
+* Put a very tiny amount of hot glue on the end of a toothpick
 * Then keep the toothpick touching the nib inside the pen for a minute as the glue cools
-* then pulling the toothpick which should hopefully cause the nib to come out
+* Then pull the toothpick, which should hopefully cause the nib to come out
 
-You've got to be careful to not get glue stick inside the pen.
+You have to be careful not to get glue stuck inside the pen.
 
 ## OPTION: The hot needle method
 
-Stick a heated needle into the nib and when the plastic of nib cools, pull it out. Some people suggest combining this technique with glue on the needle tip. <mark style="color:red;">**Use this option with great caution. People have ruined their pens and made the problem worse with this hot needle technique.**</mark>
+Stick a heated needle into the nib and, when the plastic of the nib cools, pull it out. Some people suggest combining this technique with glue on the needle tip. <mark style="color:red;">**Use this option with great caution. People have ruined their pens and made the problem worse with this hot needle technique.**</mark>
 
 ## Reddit threads:
 
