@@ -19,7 +19,7 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 ## **Active area size**
 
-This is is a MEDIUM sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro medium
+This is a MEDIUM-sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro Medium.
 
 <table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.7 x 5.8”</td><td>10.57”</td></tr></tbody></table>
 
@@ -29,7 +29,7 @@ This tablet has a 16:10 aspect ratio.
 
 ## **Pen**
 
-The tablet uses he the slightly older PW500 pen. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md)
+The tablet uses the slightly older PW500 pen. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md).
 
 ## **Build quality & design**
 
@@ -39,13 +39,13 @@ It is also available in several colors (Space Grey, Starr Blue, and Coral Red). 
 
 <figure><img src="../../../.gitbook/assets/image-000212.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-There is one cool aspect of its design. Unlike the vast majority of tablets, this one has regions with a slighted speckled pattern. This adds a bit of visual distinction.
+There is one cool aspect of its design. Unlike the vast majority of tablets, this one has regions with a slightly speckled pattern. This adds a bit of visual distinction.
 
 <figure><img src="../../../.gitbook/assets/image-000215.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Surface texture**
 
-The drawing surface is only very slightly textured. If you are used to a modern drawing tablets, you might find this texture slightly "slippery".
+The drawing surface is only very slightly textured. If you are used to a modern drawing tablet, you might find this texture slightly "slippery."
 
 In comparison:
 
@@ -58,7 +58,7 @@ It has 10 programmable buttons on the left. 10 more than most other tablets.
 
 The 10 buttons are in 2 groups of 5.
 
-Each group of five s some raised symbols on the buttons to help you identify the buttons by touch alone and without looking.
+Each group of five has some raised symbols on the buttons to help you identify the buttons by touch alone and without looking.
 
 <figure><img src="../../../.gitbook/assets/image-000213.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -70,7 +70,7 @@ Each group of five s some raised symbols on the buttons to help you identify the
 
 <figure><img src="../../../.gitbook/assets/image-000638.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-Both the buttons and the touch-sensitive controls can be turned off in the dricer.
+Both the buttons and the touch-sensitive controls can be turned off in the driver.
 
 ## **Touch**
 
@@ -78,13 +78,13 @@ This tablet does NOT support touch
 
 ## **Cables and connections**
 
-**Wireless -** This tablet does NOT support a wireless connect
+**Wireless -** This tablet does NOT support a wireless connection.
 
 **Wired connection** - there is a single USB-C port
 
 ## **Tilt compensation**
 
-OK. Exhibits a moderate amount of displacement of the pointer when the pen is tilted at 45 degrees. Because it is a pen tablet this amount of displacement will not be very noticable unless you are specifically looking for it.
+OK. It exhibits a moderate amount of pointer displacement when the pen is tilted at 45 degrees. Because it is a pen tablet, this amount of displacement will not be very noticeable unless you are specifically looking for it.
 
 ## Drawing fundamentals
 
@@ -94,10 +94,10 @@ OK. Exhibits a moderate amount of displacement of the pointer when the pen is ti
 
 ## Pressure instability/wobble
 
-Very good. Even when drawing at very low amount of pressure with a very large brush (1000px) in Krita, pressure didn't exhibit and wild swings or wobble.
+Very good. Even when drawing at a very low amount of pressure with a very large brush (1000px) in Krita, the pressure did not exhibit any wild swings or wobble.
 
 ## **Diagonal wobble**
 
-It exhibits some diagonal wobble. The wobble is most noticable at slower speeds. In practice when I draw i did not notice this much. Adding a little bit of brush smoothing controlled it.
+It exhibits some diagonal wobble. The wobble is most noticeable at slower speeds. In practice, I did not notice this much while drawing. Adding a little brush smoothing controlled it.
 
 <figure><img src="../../../.gitbook/assets/image-000168.png" alt=""><figcaption></figcaption></figure>

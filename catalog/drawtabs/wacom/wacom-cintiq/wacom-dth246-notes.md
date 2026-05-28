@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is an EXCELLENT tablet and for most people this will be the better choice even than a Cintiq Pro.
+This is an EXCELLENT tablet, and for most people this will be a better choice than a Cintiq Pro.
 
 It delivers the same excellent drawing experience as a Cintiq Pro.
 
-It's only limitation is that it is not 4K and instead 2.5K (2560x1440) which should be enough for most people.
+Its only limitation is that it is not 4K and is instead 2.5K (2560x1440), which should be enough for most people.
 
 While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.
 
@@ -66,7 +66,7 @@ It's easy to accidentally install the stand upside down if you aren't paying att
 
 ### Touch
 
-* This model DOES supports touch.
+* This model DOES support touch.
 
 ### Auxiliary inputs
 
@@ -88,7 +88,7 @@ None. This model is completely silent
 
 ### Heat
 
-EXCELLENT. At 100% brightness for 3 hours of continuous use, the display had not "warm/hot spots" and stayed very close to the room temperature of the desk it was sitting on. This is may be the best heat management I've seen for a display without a fan. Wacom did an excellent job here.
+EXCELLENT. At 100% brightness for 3 hours of continuous use, the display had no "warm" or "hot spots" and stayed very close to the room temperature of the desk it was sitting on. This may be the best heat management I've seen for a display without a fan. Wacom did an excellent job here.
 
 ## On-Screen Display (OSD)
 
@@ -100,7 +100,7 @@ The OSD is very similar to the OSD introduced in the Wacom Movink.
 
 ### Ports
 
-On the back of the table there are three ports
+On the back of the tablet there are three ports:
 
 * USB-C for power
 * mini-HDMI for video signal
@@ -120,7 +120,7 @@ For video signal and data, you have multiple options
 
 * The USB-C port that connects to the computer will deliver a very small amount of power.
 * It could in theory recharge your phone after many hours, but it would not be suitable to recharge a laptop.
-* Wacom does NOT identify power delivery as a feature if this tablet.
+* Wacom does NOT identify power delivery as a feature of this tablet.
 
 ## Comparisons
 
@@ -146,6 +146,6 @@ For video signal and data, you have multiple options
   * The Cintiq Pro 27 - I can't remember if it supported power delivery. I'd have to check again.
 * Noise
   * Cintiq 24 touch is SILENT because it has no fans.
-  * The Cintiq Pro 27 has fans which cause noise. I only use the Cintiq Pro 27 at 50% brightness to have a reduced fan noise- but the tablet is never silent. At 100% be
+  * The Cintiq Pro 27 has fans which cause noise. I only use the Cintiq Pro 27 at 50% brightness to reduce fan noise, but the tablet is never silent.
 * Drawing Performance
   * The core drawing experience - pen pressure, tilt, accuracy are exactly the same.

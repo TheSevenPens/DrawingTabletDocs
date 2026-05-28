@@ -7,8 +7,8 @@ This is a great entry-level tablet. It does all the basics extremely well.
 * A good simple tablet. Nothing fancy.
 * Good for beginners.
 * If you have an older Huion tablet it might be a good upgrade.
-* The pen it came with had a very wide pressure range. This range is very good. pen IAF was typical of Huion (i.e. slightly higher IAF than Wacom's pro pens).
-* <mark style="color:red;">**See the known issues section at the bottom.**</mark> Some users hacve reported a problem with air bubbles appearing under the surface.
+* The pen it came with had a very wide pressure range. This range is very good. Pen IAF was typical of Huion, meaning slightly higher than Wacom's pro pens.
+* <mark style="color:red;">**See the known issues section at the bottom.**</mark> Some users have reported a problem with air bubbles appearing under the surface.
 
 ## Companion video
 
@@ -30,7 +30,7 @@ This is a great entry-level tablet. It does all the basics extremely well.
 
 ## Size <a href="#size" id="size"></a>
 
-This is a medium-sized tablet - with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
+This is a medium-sized tablet, with an active area slightly larger than Wacom Intuos Pro Medium (PTH-660).
 
 * Huion Frego M (L610):
   * Dimensions: 10 x 6.25”
@@ -43,7 +43,7 @@ In terms of paper sizes this is about the size of an A5 sheet of paper which has
 
 ## Aspect Ratio
 
-16:10 - which is common drawing tablets
+16:10 — which is common for drawing tablets.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000441.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -53,7 +53,7 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 **Color** - matte black all around
 
-**Huion branding** - On the front nothing is visible. One the back the Huion logo is very slightly visible as some recessed shiny black plastic..
+**Huion branding** - On the front, nothing is visible. On the back, the Huion logo is very slightly visible as recessed shiny black plastic.
 
 **Lights**
 
@@ -87,7 +87,7 @@ NONE. This tablet does NOT support touch.
 
 ## Auxiliary inputs
 
-The tablet has not buttons dials or sliders.
+The tablet has no buttons, dials, or sliders.
 
 ## Replaceable surface
 
@@ -111,7 +111,7 @@ Has a nice amount of surface texture.
 
 ## Ergonomics
 
-* Bottom edge slops down a bit to make it more comfortable for your arm. This is starting to be seen more and more in recently released tablets.
+* The bottom edge slopes down a bit to make it more comfortable for your arm. This is starting to appear more often in recently released tablets.
 
 ## Diagonal wobble
 
@@ -125,7 +125,7 @@ As is typical for EMR pens, I recommend a pressure curve to reduce the sensitivi
 
 ## Pressure transition (low-high-low)
 
-VERY GOOD. test with a 300px brush. Pressure smoothly transitions. A little bit of pressure wobble at the extreme low end of pressure when the pen is very vertical- but that is normal even for the best pens. Use a pressure curve to address it if needed.
+VERY GOOD. Tested with a 300px brush. Pressure transitions smoothly. There is a little pressure wobble at the extreme low end when the pen is very vertical, but that is normal even for the best pens. Use a pressure curve to address it if needed.
 
 ## Pressure scan rate testing
 
@@ -133,7 +133,7 @@ EXCELLENT. I drew 50 small strokes as fast as I could. The tablet registered all
 
 ## Tilt Compensation
 
-OK. Minor displacement at 45deg Totally acceptable for drawing. Likely not noticeable.
+OK. Minor displacement at 45°. Totally acceptable for drawing. Likely not noticeable.
 
 Not quite as good as the Wacom Intuos Pro which has excellent tilt compensation.
 
@@ -143,7 +143,7 @@ Not quite as good as the Wacom Intuos Pro which has excellent tilt compensation.
 
 ## Android Usage
 
-This tablet works very well with Android! In fact this is the first tablet, I've seen that works well out-of-the-box.
+This tablet works very well with Android. In fact, this is the first tablet I have seen that works well out of the box.
 
 Note that the Huion Inspiroy Frego S also works well with Android but slightly differently. See Teoh on Tech's review of the Frego where he explains the difference.
 
@@ -162,13 +162,13 @@ All the devices listed below worked well with the Frego.
 
 **Orientation**
 
-The Frego M tablet should stay in its normal landscape orientation. The android device can be in either landscape or portrait orientation. The tablet will adjust it's active area as needed to adjust for it.
+The Frego M tablet should stay in its normal landscape orientation. The Android device can be in either landscape or portrait orientation. The tablet will adjust its active area as needed.
 
 <figure><img src="../../../.gitbook/assets/image-000446.png" alt=""><figcaption></figcaption></figure>
 
 **Aspect ratio mapping**
 
-When connected to android the tablet keeps sets active area to match the aspect ratio of the android device display. This means that there is no distortion of shapes. if you draw a circle on the tablet, it will draw a circle on the android device.
+When connected to Android, the tablet sets its active area to match the aspect ratio of the Android device display. This means there is no distortion of shapes. If you draw a circle on the tablet, it will draw a circle on the Android device.
 
 **Cursor/Pointer**
 
@@ -184,7 +184,7 @@ Even with Bluetooth the pen felt very responsive when drawing on an Android devi
 
 **Bluetooth > switching devices**
 
-I paired it with android device A. But then to pair it with android device B, I had to go to device A and end the pairing. After that it would work with device B.
+I paired it with Android device A. But to pair it with Android device B, I had to go to device A and end the pairing. After that, it worked with device B.
 
 ## Photos
 

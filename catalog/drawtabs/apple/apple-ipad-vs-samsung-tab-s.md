@@ -21,7 +21,7 @@ Both of these kinds of devices can be successfully used for digital art, note-ta
 
 ## Comparison videos
 
-* [Tech on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025-07-06
+* [Teoh on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025-07-06
 * [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024-09-16
 * [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024-05-23
 
@@ -68,7 +68,7 @@ More here: [Apps](../../../apps/)
 ## Aspect Ratio
 
 * iPads are around a 4x3 aspect ratio.
-* Samsung Galaxy S tablets have a 16x9 aspect ratio.
+* Samsung Galaxy Tab S tablets have a 16x9 aspect ratio.
 
 I think the 4x3 aspect ratio of the Apple iPad is in general a better choice. The size of the Galaxy S tablets makes sense for watching things like videos which are often in 16 by 9 aspect ratio but it can feel awkward to hold especially for the larger tablet sizes.
 

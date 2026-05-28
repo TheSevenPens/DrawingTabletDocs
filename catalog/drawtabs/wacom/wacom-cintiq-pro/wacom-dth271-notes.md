@@ -71,11 +71,11 @@
 ### Pointer lag
 
 * **Background:** [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
-* **In absolute terms**, The Cintiq Pro 27 has shows moderate pointer lag.
+* **In absolute terms**, the Cintiq Pro 27 shows moderate pointer lag.
   * Pen tablets (like the Intuos Pro Large PTH-860) have much less lag than this Cintiq. These have EXCELLENT lag.
-  * Apple iPads have much less lag than this Cintiq, but not quite as little as pen displaces. These have EXCELLENT log.
+  * Apple iPads have much less lag than this Cintiq, but not quite as little as pen tablets. These have EXCELLENT lag.
 * **In terms relative to other pen displays**, The Cintiq has GOOD (but not GREAT) pointer lag.
-* **Affect of the 120Hz refresh rate** - The 120Hz refresh rate of the display panel only minimal improved the perception of lag. This surprised me. I expected the 120Hz to make a bigger difference based on my experience with the iPad Pro and Apple Pencil 2 which also uses a 120Hz refresh rate.
+* **Effect of the 120Hz refresh rate** - The 120Hz refresh rate of the display panel only minimally improved the perception of lag. This surprised me. I expected the 120Hz to make a bigger difference based on my experience with the iPad Pro and Apple Pencil 2, which also use a 120Hz refresh rate.
 
 ### Tilt
 
@@ -115,8 +115,8 @@ See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-n
 
 * Background: [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md#diagonal-wobble)
 * In my testing, the Cintiq Pro 27 has GOOD-to-OK (i.e. low) diagonal wobble. See comparative samples here: [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md#diagonal-wobble).
-* NOTE: Originally I had ranked the Cintiq Pro 27 as having VERY GOOD wobble. Upon further testing with many other tablets, I havve downgraded the ranking.
-* As tablet that costs $3500 I think The Cintiq Pro 27 tablet should have better (less) diagonal wobble. There are other tablets out there at various price levels that are better:
+* NOTE: Originally I had ranked the Cintiq Pro 27 as having VERY GOOD wobble. Upon further testing with many other tablets, I have downgraded the ranking.
+* As a tablet that costs $3500, I think the Cintiq Pro 27 should have better, meaning less, diagonal wobble. There are other tablets at various price levels that perform better:
   * Wacom Intuos PTH-860
   * Huion Kamvas Pro 24
   * Huion Kamvas 13 and XP-Pen Artist 13 (2nd Gen).
@@ -153,7 +153,7 @@ Compare to some other diagonal samples linked from here: [Diagonal wobble](../..
 * Overall relatively bright for a pen display, not as bright as many of the modern displays in the market.
 * In comparison:
   * Cintiq pro 27 -> 400 cd/m2
-  * Apple iPad Pro (11 inch) (4rd gen) -> 600 cd/m2
+  * Apple iPad Pro (11 inch) (4th gen) -> 600 cd/m2
   * Surface Pro 8 -> 452.8 cd/m2
   * Huion Kamvas Pro 24 4k -> 200 cd/m2
 * In practice seemed bright enough for drawing. I certainly did not find it dim
@@ -170,7 +170,7 @@ Compare to some other diagonal samples linked from here: [Diagonal wobble](../..
 ### **Anti-glare treatment and sparkle**
 
 * Background: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
-  * Reflections on your pen display would make it difficult to draw. To reduce reflections, manufacturers give an anti-glare (AG) treatment to the display/ The AG treatment is either etched glass or an AG film applied on top of the glass
+  * Reflections on your pen display would make it difficult to draw. To reduce reflections, manufacturers give an anti-glare (AG) treatment to the display. The AG treatment is either etched glass or an AG film applied on top of the glass.
 * The Cintiq Pro 27 uses AG etched glass
 * The AG sparkle from the etched glass is GOOD (i.e. low) for a display of this size and resolution
   * AG Sparkle is only slightly visible with eyes 4" away from glass
@@ -253,7 +253,7 @@ My usage: I left it at **Native**.
 * On the back it has a standard 100mm VESA mount
 * You can either
   * Use the Cintiq Pro 27 Stand (sold separately at $500)
-  * Any compatible VESA display arm (like an Ergotron HX) that hold sup to 20lbs
+  * Any compatible VESA display arm, like an Ergotron HX, that holds up to 20 lbs
   * Wacom Flex Arm + Wacom Flex Arm Adapter
 
 ## **The Cintiq Pro 27 Stand**
@@ -261,7 +261,7 @@ My usage: I left it at **Native**.
 ### Stability
 
 * It wobbles a bit if you press on it.
-* I mitigate the wobble by placing something under it's bottom edge. That provides some additional support to keep the tablet very still.
+* I mitigate the wobble by placing something under its bottom edge. That provides additional support to keep the tablet very still.
 
 ### Rotation
 
@@ -279,16 +279,16 @@ My usage: I left it at **Native**.
 
 ### Height adjustability
 
-* Some limited height adjustability - cannot lift the the display very high
+* Some limited height adjustability — it cannot lift the display very high.
 * If you need to use it like a normal monitor -you should get an arm instead of using the stand
 
 ## Fans
 
-* The Cintiq Po 27 contains two fans according to Wacom.
+* The Cintiq Pro 27 contains two fans according to Wacom.
   * Note that the Cintiq Pro 24 had 4 fans.
-* I asked Wacom why it need fans.
+* I asked Wacom why it needs fans.
 * Wacom's reply: _"Unlike a typical desktop monitor or touch-screen, Wacom pen displays are designed to have a hand on them all the time, so heat is a serious factor for long-term usability and comfort. On most smaller tablets and displays, enough heat can escape from the back, so it's not an issue. However, the larger and brighter the display, the more heat it will produce. Heatsinks are a common device used to normalize temperatures and dissipate heat. Our displays use heatsinks to help dissipate heat, and an active heatsink requires a fan to work effectively"_
-* It is still unclear to me why the Cintiq Pro 27 needs fans when many other devices don't. For example, is the Huion Pro 24 4K is silent and is just very slightly warm to the touch. There are many other examples of devices.
+* It is still unclear to me why the Cintiq Pro 27 needs fans when many other devices do not. For example, the Huion Pro 24 4K is silent and only slightly warm to the touch. There are many other examples.
 *   The fans are located on the top edge of the display
 
     <figure><img src="../../../../.gitbook/assets/image-000581.jpg" alt=""><figcaption></figcaption></figure>
@@ -345,7 +345,7 @@ See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-n
   * Historically I have never been happy with touch support in Intuos Pro models.
   * The touch support in the Cintiq Pro 27 is very much improved.
 * **The overall touch experience**
-  * **When connected to a Windows computer** - **VERY GOOD**. Windows has had extensive built in touch support for a decade now and it shows when using this device. It feels very natural. However it did suffer from occasional glitchy behavior. For example sometimes it "lost" a ping-to-zoom gesture and I had to repeat the gesture again to get it to work. If you are used to working with a Microsoft Surface then I would say the Surface touch experience is clear better than the the Wacom Cintiq Pro 27.
+  * **When connected to a Windows computer** - **VERY GOOD**. Windows has had extensive built-in touch support for a decade now, and it shows when using this device. It feels very natural. However, it did suffer from occasional glitchy behavior. For example, sometimes it "lost" a pinch-to-zoom gesture and I had to repeat it. If you are used to working with a Microsoft Surface, I would say the Surface touch experience is clearly better than the Wacom Cintiq Pro 27.
   * **When connected to a Mac** - **OK**. It works well, but MacOS is not built to work with touch like an iPad is. So please don't expect the touch support to make your Mac feel like an iPad.
   * **Palm rejection** is much improved. But still didn't reject my palm enough. So as I tried to pinch and zoom in Clip Studio Paint I would often find that I had accidentally drawn a stroke. I mostly disabled touch while using the device because of this reason.
 
@@ -370,11 +370,11 @@ My only nitpick here is that the power button is very close to the show/hide OSD
 * The Cintiq Pro 27 - excellent
 * The Cintiq Pro 27 stand - excellent
 * The Pro Pen 3 - excellent
-* The pen holder - feels cheap and finnicky. Does not open elegantly. The lid will unelegantly pop off.
+* The pen holder feels cheap and finicky. It does not open elegantly. The lid tends to pop off awkwardly.
 
 ## Cost
 
-* There's no getting around the cost. it is extremely expensive.
+* There's no getting around the cost. It is extremely expensive.
 * $3500 for the pen display itself, and you'll need to separately purchase a stand.
 * The Wacom stand for this device itself costs $500.
 
@@ -400,7 +400,7 @@ Ultimately this device seems targeted at really high-end professional scenarios 
 
 * **Beginner** -> I don't think it makes sense to get. You won't benefit from it much. You could spend the same money ($3500) and get a PC, a 4K pen display, mounting arm, and more.
 * **Intermediate** -> Same as beginner answer.
-* **Experienced** user of a Cintiq Pro 24 or 32 model -> YES, IF you are really really need its pro color support
+* **Experienced** user of a Cintiq Pro 24 or 32 model -> YES, if you really need its pro color support.
 
 ## Wacom's use case for purchasing this pen display
 
@@ -435,7 +435,7 @@ Key points
 
 I own and use Huion Kamvas 24 Pro 4K. So my comments here are based on my direct experience with this model. [Huion Kamvas Pro 24 4K (GT2401) notes](../../huion/huion-gt2401-notes.md).
 
-Comparing the Wacom Cintiq Pro 27 the Huion Kamvas 24 Pro 4K.
+Comparing the Wacom Cintiq Pro 27 to the Huion Kamvas 24 Pro 4K:
 
 The Cintiq Pro 27 is **overall clearly superior**.
 
@@ -483,7 +483,7 @@ I haven't tried a comparable XP-Pen model, so I can't comment on any comparison.
 
 As an experiment I connected an iPad Pro to the Cintiq Pro 27 using a Thunderbolt 3 cable.
 
-Specific iPad Pro model used: Apple iPad Pro (11 inch) (4rd gen)
+Specific iPad Pro model used: Apple iPad Pro (11 inch) (4th gen)
 
 **What worked**
 
@@ -500,7 +500,7 @@ This did not work at all. I tried connecting them with a Thunderbolt 3 cable but
 
 ## Change log
 
-* 2023-10-15 - Add info about connecting an Samsung Galaxy S8 Ultra to the Cintiq Pro 27
+* 2023-10-15 - Add info about connecting a Samsung Galaxy S8 Ultra to the Cintiq Pro 27
 * 2023-10-15 - Add info about connecting an iPad Pro to the Cintiq Pro 27
 * 2023-08-23 - Add link to reddit thread about the stand
 * 2023-06-21 - Moved notes on Wacom Pro Pen 3 to a separate doc

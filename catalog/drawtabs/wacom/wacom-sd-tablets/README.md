@@ -4,7 +4,7 @@
 
 The story of drawing tablets as we know them today begins with the Wacom SD series. All modern Wacom drawing tablets descend from the Wacom SD series.
 
-In many ways these tablets works exactly like you would expect a modern drawing tablet to work. However being released in 1987, you can definitely tell that it they are from a completely different era of technology.
+In many ways, these tablets work exactly like you would expect a modern drawing tablet to work. However, since they were released in 1987, you can definitely tell that they are from a completely different era of technology.
 
 ## Basics
 
@@ -18,7 +18,7 @@ In many ways these tablets works exactly like you would expect a modern drawing 
 
 ## Cordless
 
-Wacom emphasizes in the product materials that this is a “cordless” tablet. "Cordless" does not mean there is no cord or cable connecting the tablet to the computer - because there's certainly is such a cord. ”Cordless” refers to the fact that the pen is not connected to the tablet with a cord. This was a real innovation in 1987. In this era, you would have expected the pen to communicate to the tablet and get power from the tablet via such a cord.
+Wacom emphasizes in the product materials that this is a “cordless” tablet. "Cordless" does not mean there is no cable connecting the tablet to the computer, because there certainly is such a cable. ”Cordless” refers to the fact that the pen is not connected to the tablet with a cord. This was a real innovation in 1987. In that era, you would have expected the pen to communicate with the tablet and get power from the tablet through such a cord.
 
 ## Naming
 
@@ -27,7 +27,7 @@ Wacom emphasizes in the product materials that this is a “cordless” tablet. 
 
 ## Connections and cabling
 
-* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also the unit is specific to the kind of computer you have. For a PC you buy one version and for a Mac, you buy a different version. More here: [Connecting a drawing tablets with a serial cable](../../../../guides/connecting/connecting-pen-tablet/connecting-with-serial-cable.md)
+* The USB standard did not exist in 1987. These tablets connected to your computer through a serial port. Also, the unit is specific to the kind of computer you have. For a PC, you buy one version, and for a Mac, you buy a different version. More here: [Connecting drawing tablets with a serial cable](../../../../guides/connecting/connecting-pen-tablet/connecting-with-serial-cable.md)
 * The SD-510C unlike some other SD models, does not directly connect to your computer. Instead the tablet connects to a separate “tablet processor" box - that's about the size of a very large modern power brick - and then in turn that processor connects to the computer. That box contains the "brains" of the tablet and lets the SD-510C be much thinner than other SD models.
 * Cables were permanently fixed to the tablet.
 
@@ -38,7 +38,7 @@ Wacom emphasizes in the product materials that this is a “cordless” tablet. 
 
 ## Packaging
 
-The packaging isn't very attractive by today's standards. It's very plain looking there's no pictures of the tablet anywhere. The box has more of an “office equipment” feel.
+The packaging is not very attractive by today's standards. It's very plain looking, and there are no pictures of the tablet anywhere. The box has more of an “office equipment” feel.
 
 ## Build quality
 
@@ -59,9 +59,7 @@ The thickness of the SD series varies considerably.
 
 On the thin end of the spectrum, the SD-510C looks a LOT like a modern drawing tablet. For this model, the "brains" of the tablet are in that box, called the Tablet Processor. The reason for this is that it keeps the tablet itself very thin.
 
-But other models in the SD series are not much much thicker and do not feature the tablet processor box.
-
-##
+But other models in the SD series are not much thicker and do not feature the tablet processor box.
 
 ## User manuals
 
@@ -74,6 +72,6 @@ But other models in the SD series are not much much thicker and do not feature t
 
 ## Using Wacom SD tablets on modern computers
 
-If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is special driver created by tablet expert [Kuuube](../../../../resources/community/kuuube/) that allows communication with this old SD tablets that use the serial port. This is only recommended for people with deeper technical skills.
+If you want to use an SD tablet with your modern computer, you can use [**KuuubeTD**](https://github.com/Kuuuube/KuuubeTD). This is a special driver created by tablet expert [Kuuube](../../../../resources/community/kuuube/) that allows communication with these old SD tablets that use the serial port. This is recommended only for people with deeper technical skills.
 
 [https://github.com/Kuuuube/KuuubeTD](https://github.com/Kuuuube/KuuubeTD)

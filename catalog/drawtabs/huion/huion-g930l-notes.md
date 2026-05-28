@@ -30,11 +30,11 @@ For an improved drawing experience, consider buying the PW550 pen which is compa
 
 ## **Surface texture**
 
-The tablet has a textured surface. Amount of texture comparable to the Wacom Intuos Pro.
+The tablet has a textured surface. The amount of texture is comparable to the Wacom Intuos Pro.
 
 ## **Wireless**
 
-One minor nit: By default, the tablet when connected will still go to sleep apparently to conserve its battery. This isn't a problem because you go into the driver and turn off this sleep behavior.
+One minor nit: by default, the tablet will still go to sleep when connected, apparently to conserve its battery. This is not a problem because you can go into the driver settings and turn off this sleep behavior.
 
 ## **OLED auxiliary display**
 
@@ -46,10 +46,10 @@ Large tablets require some adjustment to work with. More here: Using large pen t
 
 ## Pressure instability
 
-Some pressure pulsing visible at lower pressure. Will mostly be be visible with strokes using large brushes.
+Some pressure pulsing is visible at lower pressure. It will mostly be visible with strokes using large brushes.
 
 ## Diagonal wobble
 
-Rating: VERY GOOD. low amounts of wobble.
+Rating: VERY GOOD. Low amounts of wobble.
 
 <figure><img src="../../../.gitbook/assets/image-000743.png" alt=""><figcaption></figcaption></figure>

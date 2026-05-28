@@ -16,9 +16,9 @@ The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It
 
 ## My experience with the models
 
-All models are excellent and highly recommended. I have spent MANY hours with all the models since their released.&#x20;
+All models are excellent and highly recommended. I have spent MANY hours with all the models since their release.
 
-* My creative time has been spent with PTH-660 and PTH-860.&#x20;
+* My creative time has been spent with PTH-660 and PTH-860.
 * I used the PTH-660 primarily until 2022 when I switched to the PTH-860.
 * To understand my experience with the PTH-860, see: [https://www.youtube.com/watch?v=YCmVugc3w\_g](https://www.youtube.com/watch?v=YCmVugc3w_g)
 * I do use the PTH-460 - but not for creative work. Primarily when I need to test pens or test apps, I find it very convenient to use small PTH-460.
@@ -27,10 +27,10 @@ All models are excellent and highly recommended. I have spent MANY hours with al
 
 Again, I recommend all three. But specifically, I suggest looking at these models
 
-* **For most users (the vast majority)** - I recommend thePTH-660 for most users. This reflects my standard guidance that medium-sized tablets are the best choice for the vast majority of people.
+* **For most users (the vast majority)** - I recommend the PTH-660 for most users. This reflects my standard guidance that medium-sized tablets are the best choice for the vast majority of people.
 * **For people who KNOW they need a large tablet** - then these people should get the PTH-860. See this video that covers what it is like to use a large tablet: [https://www.youtube.com/watch?v=Tv\_qX1Z9-wI](https://www.youtube.com/watch?v=Tv_qX1Z9-wI). I and some others find that this size fits in well for line work, offering better control over strokes, especially if you are used to drawing from the arm instead of from the wrist.
 
-**The PTH-460 is a fine tablet**, but I generally see that adult sized people complain of pain in their wrists when drawing with small tablets like this one. This certainly happens for me. It is a good size for smaller people, or for people who are looking for using it as a mouse replacement.&#x20;
+**The PTH-460 is a fine tablet**, but I generally see that adult-sized people complain of pain in their wrists when drawing with small tablets like this one. This certainly happens for me. It is a good size for smaller people, or for people who want to use it as a mouse replacement.
 
 ## Active area sizes
 
@@ -44,14 +44,14 @@ These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part o
 
 ### Compatible pens
 
-* Pro Pen 2 (KP-504E)&#x20;
-* Pro Pen 3D (KP-505)&#x20;
+* Pro Pen 2 (KP-504E)
+* Pro Pen 3D (KP-505)
 * Pro Pen Slim (KP-301E)
-* Airbrush Pen (KP-400E)&#x20;
-* Art Pen (KP-701E)&#x20;
-* Classic Pen (KP-300E)&#x20;
-* Grip Pen (KP-501E)&#x20;
-* Pro Pen (KP-503E)&#x20;  <br>
+* Airbrush Pen (KP-400E)
+* Art Pen (KP-701E)
+* Classic Pen (KP-300E)
+* Grip Pen (KP-501E)
+* Pro Pen (KP-503E)<br>
 
 ## **Drawing experience**
 
@@ -85,13 +85,13 @@ In my opinion the touch support is not great. The touch pad on any laptop you us
 
 ### **Touch on Windows vs MacOS**
 
-Touch works much better on Windows systems than on MacOS systems. This is NOT Wacom's fault, it is due to how well Windows supports touch compared to MacOS. Windows has had very good built-in touch support since 2012 when Windows 8 launched and it has been continually improved over the years. So touch support is "baked-into" Windows as a deep level. So touch-enabled devices can take advantage of this built-in capability. For MacOS as of 2026 there is no touch built-into the OS. So many touch devices on MacOS don't work as well as you might expect. If you are expecting a PTH-x60 tablet to work just like an Apple Magic Trackpad, you will be very disappointed.&#x20;
+Touch works much better on Windows systems than on MacOS systems. This is NOT Wacom's fault, it is due to how well Windows supports touch compared to MacOS. Windows has had very good built-in touch support since 2012 when Windows 8 launched and it has been continually improved over the years. So touch support is "baked-into" Windows as a deep level. So touch-enabled devices can take advantage of this built-in capability. For MacOS as of 2026 there is no touch built-into the OS. So many touch devices on MacOS don't work as well as you might expect. If you are expecting a PTH-x60 tablet to work just like an Apple Magic Trackpad, you will be very disappointed.
 
 ## Surface texture
 
 The Intuos Pro series has a slightly more textured surface than many other tablets.
 
-For those of us who have used previous Intuos professional models. most found that the PTH-x60 series suddenly had a much greater texture feeling than those previous models. So if you are considering upgrading to this tablet, be aware of this.
+For those of us who have used previous Intuos professional models, most found that the PTH-x60 series suddenly had a much greater texture feeling than those previous models. So if you are considering upgrading to this tablet, be aware of this.
 
 ### Texture erosion
 
@@ -107,7 +107,7 @@ Wacom has three kinds of texture sheets: Standard, Smooth, and Rough. These text
 
 ### Nib wear <a href="#nib-wear" id="nib-wear"></a>
 
-A result of surface texture texture is that - depending how you draw - you can wear down a nib very fast. If you are doing a lot of shading with many back and forth strokes you might even notice significant wear within a week or even a day.
+A result of the surface texture is that, depending on how you draw, you can wear down a nib very quickly. If you do a lot of shading with many back-and-forth strokes, you might even notice significant wear within a week or even a day.
 
 In any case, I advise everyone to always pay attention to their nibs and replace them if they are getting very worn.
 
@@ -129,10 +129,9 @@ Using a large tablet feels quite a bit different from using a medium tablet. It'
 ### Intuos Pro 2017 Small (PTH-460)
 
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-460.html](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html)
-* [Brad Colbow review of Wacom Intuos Pro Smal](https://www.youtube.com/watch?v=VhR4dcxd_DU)l
-* [Aaron Rutten review of Wacom Intus Pro Small](https://youtu.be/ZHIsUKtVbio)
+* [Brad Colbow review of Wacom Intuos Pro Small](https://www.youtube.com/watch?v=VhR4dcxd_DU)
+* [Aaron Rutten review of Wacom Intuos Pro Small](https://youtu.be/ZHIsUKtVbio)
 
 ### Intuos Pro 2017 Large (PTH-860)
 
 * User manual: [http://101.wacom.com/UserHelp/en/TOC/PTH-860.html](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html)
-

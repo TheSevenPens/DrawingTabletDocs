@@ -12,8 +12,6 @@ These are **VERY GOOD** pen tablets from Wacom and still highly competitive with
 
 Year introduced: 2018
 
-
-
 ## Digitizer specs
 
 * Active area
@@ -33,7 +31,7 @@ These tablets come with LP-1100K pen
 
 ## Pen compatibility
 
-These tables are ONLY compatible with the Wacom 4K Pen (LP-1100K) pen. See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../../pens/wacom-pens/wacom-lp1100k-notes.md).
+These tablets are ONLY compatible with the Wacom 4K Pen (LP-1100K). See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../../pens/wacom-pens/wacom-lp1100k-notes.md).
 
 ## -pen inputs
 
@@ -65,7 +63,7 @@ The tablet comes with a USB-A to Micro USB cable.
 
 ### Alternate cabling
 
-You can use a micro usb-C adapter. Since I prefer to connect all my pen tablets with the same USB-C connector I use a female USB-C to male Micro-USB adapter.
+You can use a USB-C to Micro-USB adapter. Since I prefer to connect all my pen tablets with the same USB-C connector, I use a female USB-C to male Micro-USB adapter.
 
 ### Wireless
 
@@ -80,5 +78,5 @@ The CTL-6100WL and CTL-4100WL models support Bluetooth for wireless connectivity
 ## Resources
 
 * [Brad Colbow - Wacom Intuos Small / Medium (2018) Review](https://www.youtube.com/watch?v=H-ZYte_UOVM) 2018-03-26
-* [Aaron Rutton - INTUOS Small & Medium - Wacom Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=WLclWCHmrjg) 2019-03-21
+* [Aaron Rutten - INTUOS Small & Medium - Wacom Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=WLclWCHmrjg) 2019-03-21
 * [Wacom - Playlist: Getting started with your Wacom Intuos pen tablet](https://www.youtube.com/playlist?list=PL5JDtjDGWsw3KRruZfqAwRmbNpAQbW89y)

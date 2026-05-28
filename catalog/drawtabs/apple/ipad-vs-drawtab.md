@@ -12,7 +12,7 @@ For more information:
 
 ## Overview
 
-Even though an Apple iPad is not technically speaking a drawing tablet, it can serve the same function as a standalone drawing tablet in many ways.
+Even though an Apple iPad is not technically a drawing tablet, it can serve the same function as a standalone drawing tablet in many ways.
 
 And many people find that their iPad, when combined with the Apple Pencil, serves that need well enough that they do not need a separate drawing tablet.
 
@@ -29,11 +29,11 @@ In this document, I compare iPads to these two kinds of non-standalone drawing t
 
 ## What do people prefer?
 
-Some people prefer using Apple iPads
+Some people prefer using Apple iPads.
 
-Some people prefer using drawing tablets
+Some people prefer using drawing tablets.
 
-And some people prefer using both. For example they might use a (non-standalone) drawing tablet for most of their art but when they're on the go perhaps in a bus or traveling then they use their iPad because it's much more convenient.
+And some people prefer using both. For example, they might use a non-standalone drawing tablet for most of their art, but use their iPad when they are on the go because it is much more convenient.
 
 ## Standalone use
 
@@ -56,7 +56,7 @@ Pen hover support is the ability for the pen to move the pointer without touchin
 
 ## Pointer lag
 
-Pointer lag is how far behind the operating system pointer is behind the physical tip of the pen. It is always better to have less pointer lag. See: [Pointer lag](../../../core/pointer-lag.md)
+Pointer lag is how far behind the operating system pointer is from the physical tip of the pen. It is always better to have less pointer lag. See: [Pointer lag](../../../core/pointer-lag.md)
 
 This is very hard to objectively measure, but based on my investigation here is my current thinking:
 
@@ -67,7 +67,7 @@ This is very hard to objectively measure, but based on my investigation here is 
 So a typical user will find that:
 
 * An iPad seems to have less lag and be more responsive than a pen display (screen tablet).
-* An iPad seems to be about as responsive as a pen tablet
+* An iPad seems to be about as responsive as a pen tablet.
 
 ## **Parallax**
 
@@ -88,7 +88,7 @@ Anti-glare sparkle (AG sparkle) is a kind of colorful rainbow noise that occurs 
 
 Pen displays have two ways of reducing glare: etched glass and AG film.
 
-Apple iPads by default do not use etched glass. But in recent years Apple offers iPads with an option NANO TEXTURE (i.e. etched glass) treatment. I've never used or worked with this surface.
+Apple iPads by default do not use etched glass. But in recent years, Apple has offered some iPads with an optional Nano Texture treatment. I've never used or worked with this surface.
 
 ## Slippery screens
 
@@ -122,9 +122,9 @@ So if you're trying to pick between an iPad and a drawing tablet you should firs
   * Examples:
     * Clip Studio Paint: Windows, MacOS, iOS
     * Infinite Painter: Windows, iOS
-* Some applications are either not available on the iPad at all
+* Some applications are not available on the iPad at all.
   * Example: Rebelle, FireAlpaca
-* Some applications only have a "lite" version on iPad
+* Some applications only have a "lite" version on iPad.
   * Example: Photoshop only has a "lite" version available on iOS
 * Some applications are of course only available on the iPad.
   * Example: Procreate

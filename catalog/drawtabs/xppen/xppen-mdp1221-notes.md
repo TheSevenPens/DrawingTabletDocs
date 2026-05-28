@@ -1,11 +1,9 @@
 # XP-Pen Magic Drawing Pad 2025 (MDP1221) notes
 
-##
-
 ## Basics
 
 * Model number MDP1221
-* Note this model (MDP1221 ) is the 2025 of the Magic Drawing Pad
+* Note that this model (MDP1221) is the 2025 edition of the Magic Drawing Pad.
 * OS: Android 14
 
 ## Links
@@ -21,7 +19,7 @@
 
 XP-Pen calls this model the 2025 edition and not a "GEN2" because it has only minor differences from the original 2024 version.
 
-In some livestreams I have referred to it as a "GEN2" because originally on the XP-Pen EU store they used he "GEN2" name in the title.
+In some livestreams, I have referred to it as a "GEN2" because the XP-Pen EU store originally used the "GEN2" name in the title.
 
 ## 2025 in name
 
@@ -42,9 +40,9 @@ If you are buying this device, verify the model number MDP1221 and that it suppo
 
 ## Tilt Issues
 
-* I often find the tilt to be "noisy" and van jumps back and forth suddenly.
+* I often find the tilt to be "noisy" and that it jumps back and forth suddenly.
 * I found the same issue with the XP-Pen Magic Note Pad
-* It sems somewhat dependent on the pen. Most of the X3 pens I tried with this tablet exhibited the problem, but some exhibited the problem less.
+* It seems somewhat dependent on the pen. Most of the X3 pens I tried with this tablet exhibited the problem, but some exhibited it less.
 * If you are going to use this tablet - I would recommend being careful about the tilt.
 
 ## Purchasing tip

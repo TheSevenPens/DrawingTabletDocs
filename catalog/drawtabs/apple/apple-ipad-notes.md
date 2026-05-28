@@ -17,7 +17,7 @@ I refer to the **Apple Pencil** as a **pen** to keep my documentation consistent
 
 ## Choosing between iPad models
 
-There have been many models of the iPad released over the years. And many models of the [Apple pens](../../pens/apple-pencil/). What I recommend is getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
+There have been many iPad models released over the years, along with many models of [Apple pens](../../pens/apple-pencil/). I recommend getting any iPad that is compatible with the Apple Pencil 2nd generation or the Apple Pencil Pro.
 
 They vary quite a bit in price. Below are three models I personally own. You will find many others that work as well.
 
@@ -57,10 +57,10 @@ See a larger list: [Apps for iPad](../../../apps/apps-for-ipad.md)
 
 ## Surface texture
 
-There are two kinds of built-in glass texture of iPads: **Smooth glass** and **Nano texture**
+There are two built-in glass textures for iPads: **Smooth glass** and **Nano Texture**
 
 * **Smooth glass** - Almost all iPads have standard smooth glass. When using the Apple Pencil with the iPad, most people will find that the glass feels "slippery." Some people do not like this slipperiness and purchase a protective sheet to put over it that provides more texture for the pen.
-* **Nano texture** - Starting in 2024, some Apple iPad models can be ordered with a "Nano texture". I don't have any direct experience with this texture.
+* **Nano Texture** - Starting in 2024, some Apple iPad models can be ordered with "Nano Texture." I don't have any direct experience with this texture.
 
 You can also change the texture with protective sheets for iPads. There are some options here: [Surface protection](../../../misc/surface-protectors-obsolete.md). Some of these sheets can help provide more texture and improve traction with the Apple Pencil.
 
@@ -78,13 +78,13 @@ Noticeable diagonal wobble when drawing slowly - this occurs in some scenarios b
 
 **Recommendation**
 
-If you are going to draw with an Apple Pencil I recommend you get either the Apple Pencil GEN2, or the Apple Pencil Pro. Keep in mind you also have to have an iPad which is compatible with that Apple Pencil model.
+If you are going to draw with an Apple Pencil, I recommend getting either the Apple Pencil 2nd generation or the Apple Pencil Pro. Keep in mind that you also need an iPad that is compatible with that Apple Pencil model.
 
 ## Get the right Apple Pencil
 
 Different Apple Pencils support different features. For a drawing experience, these are the two models of interest. If you get one of the other models, you will be missing out on a typical drawing experience.
 
-* Apple Pencil GEN2
+* Apple Pencil 2nd generation
 * Apple Pencil Pro
 
 And remember: they work with specific iPad tablets, not all of them. So confirm compatibility.
@@ -117,7 +117,7 @@ iPads that support the Apple Pencil have EXCELLENT (i.e. LOW) parallax. More her
 ## Pointer lag
 
 * iPads have very low pointer lag.
-* Some apps like Procreate seem very heavily optimized and (apparently) use special techniques to produce **extremely** low pointer lag.
+* Some apps, like Procreate, seem heavily optimized and apparently use special techniques to produce **extremely** low pointer lag.
 * More here: [Pointer lag](../../../core/pointer-lag.md)
 
 ## Anti-glare sparkle
@@ -154,13 +154,13 @@ I primarily use these iPad apps:
 * [Procreate](../../apps/procreate.md)
 * [Clip Studio Paint](../../apps/clip-studio-paint.md)
 
-I occasionally use these iPad apps
+I occasionally use these iPad apps:
 
 * [Concepts app](../../apps/concepts-app.md)
 
 ## Transferring files between iPads and Windows
 
-One easy way to send files easily back and forth between an iPad and Windows is to use a file syncing service. For example OneDrive - which is what I use.
+One easy way to send files back and forth between an iPad and Windows is to use a file syncing service. For example, OneDrive is what I use.
 
 I put my Clip Studio Paint files in a OneDrive folder and sync them to multiple PCs and my iPad. This allows me to edit them with whatever device I want. And changes are automatically synced to all the devices.
 
@@ -172,8 +172,8 @@ Also see: [Transferring files](../../../guides/general/transferring-files.md)
 * [Teoh on Tech - iPad vs Computer for Graphic Design: All You Need to Know](https://youtu.be/R68_Q7CiCzs) 2022-10-01
 * [PiXimperfect - iPad as a Graphics Tablet for Photoshop? Yes!](https://www.youtube.com/watch?v=QNgtQDwW9P4) 2019-10-11
 * [Brad Colbow - How the iPad Became my Go To Drawing Tablet](https://youtu.be/c2ewLZplxY8) 2019-06-24
-* [Teoh on tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68_Q7CiCzs) 2022-10-01
-* [Teoh on tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
+* [Teoh on Tech - Can you do graphic design on iPad (vs computer)](https://youtu.be/R68_Q7CiCzs) 2022-10-01
+* [Teoh on Tech - Why I prefer Concepts over Procreate for drawing](https://youtu.be/5ORoSQ8Q0fM) Aug 1, 2022
 * [Adam Duff - Apple Pencil Hover NOW WORKS! Pro Illustrator First Impressions!](https://youtu.be/ZpcKfipVy24) 2022-11-01
 * [Ergojosh - 8 Reasons Why I Switched to the iPad Pro for ALL my Art](https://www.youtube.com/watch?v=MJN8e8k-w-I) 2023-10-25
 * [Adam Duff - Some Of The Best iPad Pro ARTIST Accessories - Astropad](https://www.youtube.com/watch?v=DDcdJu_gUb0) 2023-04-13

@@ -2,7 +2,7 @@
 
 ## Name
 
-This is the last time "Intuos + Number" was how these professional pen tablets was named.
+This is the last time "Intuos + Number" was how these professional pen tablets were named.
 
 ## Photos
 

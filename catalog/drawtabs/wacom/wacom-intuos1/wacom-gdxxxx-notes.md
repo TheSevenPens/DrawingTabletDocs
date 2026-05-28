@@ -1,4 +1,4 @@
-# Wacom Intuos1  (GD-xxxx) notes
+# Wacom Intuos1 (GD-xxxx) notes
 
 ## Links
 
@@ -7,9 +7,9 @@
 
 ## Name
 
-This was the first time introduction of the “Intuos” name into their products.
+This was the first introduction of the “Intuos” name into their products.
 
-At this time the name “Intuos” indicated that a tablet was part of Wacom's professional pen tablet series. It was only some years later when Wacom decided to use "Intuos" for their consumer tablets and intuitive pro for the professional tablets.
+At this time, the name “Intuos” indicated that a tablet was part of Wacom's professional pen tablet series. It was only some years later that Wacom decided to use "Intuos" for its consumer tablets and Intuos Pro for the professional tablets.
 
 ## Photos
 
@@ -23,4 +23,4 @@ Intuos1 Pen (GP-300E)
 
 ## Connections and cabling
 
-Unlike the previous Intuos1 generation, the Intuos2 series feature tablets that connected via USB and serial and no longer supported Apple Desktop Bus (ADB) connections.
+Unlike the previous generation, the Intuos2 series featured tablets that connected via USB and serial and no longer supported Apple Desktop Bus (ADB) connections.
