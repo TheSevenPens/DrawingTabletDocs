@@ -2,7 +2,7 @@
 
 ## Overview
 
-The TabS series spans a number of different devices that vary in size and power. Overall thanks to their integration with the S pen (which comes with the tablet) they offer a good general purpose Android tablet experience combined with a DECENT drawing experience.
+The Tab S series spans a number of different devices that vary in size and power. Overall, thanks to their integration with the S Pen, which comes with the tablet, they offer a good general-purpose Android tablet experience combined with a DECENT drawing experience.
 
 * [Samsung Galaxy Tab S series notes](samsung-tab-s-notes.md)
 * [Apps for Android](../../../../apps/apps-for-android.md)
@@ -61,8 +61,8 @@ The TabS series spans a number of different devices that vary in size and power.
 * S7 FE
   * [Brad Colbow Samsung Galaxy Tab S7 FE](https://www.youtube.com/watch?v=9AILIj9lmWY) - Is it still Good? 2022-12-02
   * [MobileTechReview review of Galaxy Tab S7 FE](https://www.youtube.com/watch?v=4iF_kVSGwPE) 2021-09-01
-  * [Tech Gear - You should the Galaxy Tab S7 and here is why](https://www.youtube.com/watch?v=PkyA_rl7U4Y) 2021-03-22
+  * [Tech Gear - You should buy the Galaxy Tab S7 and here is why](https://www.youtube.com/watch?v=PkyA_rl7U4Y) 2021-03-22
 
 ## S6 series
 
-* [Samsung Galaxy Tab S6 lite notes](samsung-tab-s6lite-notes.md)
+* [Samsung Galaxy Tab S6 Lite notes](samsung-tab-s6lite-notes.md)

@@ -21,15 +21,15 @@ There are three possible operating systems for laptops:
 * MacOS
 * ChromeOS
 
-Frist, I DO NOT recommend getting a ChromeOS laptop (aka chromebook). In my testing they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](platforms/chromeos/drawtabs-with-chromeos.md).
+First, I DO NOT recommend getting a ChromeOS laptop (aka Chromebook). In my testing, they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](platforms/chromeos/drawtabs-with-chromeos.md).
 
-This leaves Windows or MacOS as choices for your laptop.
+This leaves Windows or macOS as choices for your laptop.
 
-Neither Windows or MacOS is better at using drawing tablets. Both have advantages and disadvantages with how they work with drawing tablets.
+Neither Windows nor macOS is better at using drawing tablets. Both have advantages and disadvantages in how they work with drawing tablets.
 
 Here are some considerations for choosing:
 
-* Which one that supports the apps you want to use? Some apps are Windows-only and some Mac-only. Some apps like Photoshop work on both.
+* Which one supports the apps you want to use? Some apps are Windows-only and some are Mac-only. Some apps like Photoshop work on both.
 * Which one is similar to laptops you already have? If you are used to using Windows, then staying with Windows for the laptop is generally an easier thing.
 * If you are buying one for school, what is everyone else using? Does the school have a recommendation?
 
@@ -39,19 +39,19 @@ I'm not knowledgeable enough to give an exact list. But I can share some thought
 
 Drawing tablets themselves don't strain the processor of laptops.
 
-The specific apps you are using is what places require what does affect your choice is the apps that you use and how you use them. For example
+What affects your choice is the apps that you use and how you use them. For example:
 
-* 3D apps would general need more powerful processors
+* 3D apps generally need more powerful processors
 * 2D apps usually don't have such high requirements
 
 ## **RAM**
 
-Your choice depends on the the apps and kinds of work you are going to be doing.
+Your choice depends on the apps and kinds of work you are going to be doing.
 
 * 3D apps tend to need more powerful processors, GPUs, and more RAM
-* 2D apps can get by with not much ram (8 GB) but definitely more is better - especially if you work with lots of layers
+* 2D apps can get by with not much RAM (8 GB), but definitely more is better - especially if you work with lots of layers
 
-These days the minimum I would recommend is 16GB of RAM. 16GB works will for me when I do 2D illustration using Krita and Clip Studio Paint.
+These days, the minimum I would recommend is 16 GB of RAM. 16 GB works well for me when I do 2D illustration using Krita and Clip Studio Paint.
 
 <table><thead><tr><th width="115">RAM</th><th>RATING</th></tr></thead><tbody><tr><td>4GB</td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB</td><td>OK. Should be fine basic 2D art. Good place to start for a beginner.</td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT.</td></tr></tbody></table>
 
@@ -61,9 +61,11 @@ These days the minimum I would recommend is 16GB of RAM. 16GB works will for me 
 
 Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](connecting/connecting-pen-display/)
 
-I recommend that you get a laptop with at least 1 USB-C port that supports DP-alt mode (any thunderbolt 3 or thunderbolt 4 port will so). Ideally, a laptop should have two such ports. See: [USB-C DisplayPort alt mode](pen-displays/usbc-dp-alt-mode.md)
+I recommend that you get a laptop with at least 1 USB-C port that supports DP Alt Mode. Any Thunderbolt 3 or Thunderbolt 4 port will do. Ideally, a laptop should have two such ports. See: [USB-C DisplayPort alt mode](pen-displays/usbc-dp-alt-mode.md)
 
-If you want to connect to a pen display with a single USB-C cable, you should really this document to ensure you understand the requirements for ports and cables: [Connecting a pen display with USB-C](connecting/connecting-pen-display/connecting-pen-display-usbc.md).Power consumption
+If you want to connect to a pen display with a single USB-C cable, you should really read this document to ensure you understand the requirements for ports and cables: [Connecting a pen display with USB-C](connecting/connecting-pen-display/connecting-pen-display-usbc.md).
+
+## Power consumption
 
 Pen tablets don't draw much power at all from a laptop, so it won't diminish your battery time.
 
@@ -76,20 +78,20 @@ For a pen display, you should either
 
 ## Simultaneous monitors supported
 
-If you are getting as pen display it essential will act as another monitor.
+If you are getting a pen display, it essentially acts as another monitor.
 
 So you should verify your laptop can handle that many monitors.
 
-* Some laptops for example can only handle two displays: their built in display and external monitor.
-* Some laptops can handle 3 displays simultaneously
+* Some laptops, for example, can only handle two displays: their built-in display and one external monitor.
+* Some laptops can handle 3 displays simultaneously.
 * And a few laptops can handle 4
 
-## Laptops have used and I recommend
+## Laptops I have used and recommend
 
 * [Microsoft Surface Pro](../catalog/computers/microsoft/microsoft-surface-pro-9/)
   * [Microsoft Surface Pro 8 notes](../catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
 * 2023 M3 MacBook Pro - [Apple M3 MacBook Pro](../catalog/computers/apple/apple-m3-macbook-pro.md)
-* Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM Below)
+* Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM below)
 * Samsung Galaxy Book5 Pro 360
 
 ## Laptops I have not used but should work well

@@ -14,7 +14,7 @@ More information:
 ## **Pen tablet results**
 
 **General limitations**\
-Keep in mind the general limitations that apply to pen tablets when used with a Chromebook
+Keep in mind the general limitations that apply to pen tablets when used with a Chromebook.
 
 * No pressure curves
 * No force proportions - so drawing is distorted. See: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
@@ -30,7 +30,7 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 * Pressure: works
 * Tilt: works
 * Device recognized as a pen tablet: YES
-* Chrome OS allows buttons to be customed: YES
+* ChromeOS allows buttons to be customized: YES
 
 **Wacom Intuos Pro Medium 2017 (PTH-660)**
 
@@ -41,7 +41,7 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 * Lower button: works
 * Upper button: works
 * Device recognized as a pen tablet: yes
-* ChromeOS allows button to be customized: YES
+* ChromeOS allows buttons to be customized: YES
 
 ## **Pen display results**
 
@@ -59,7 +59,7 @@ Keep in mind the general limitations that apply to pen tablets when used with a 
 
 **Wacom Movink 13**
 
-* The Movink 13 treates as an external display. Touch and pen do not work.
+* The Movink 13 is treated as an external display. Touch and pen do not work.
 
 **Huion Kamvas Pro 16 Plus 4K**
 

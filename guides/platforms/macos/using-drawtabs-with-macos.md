@@ -1,2 +1,3 @@
-# Using a drawing tablet on MacOS
+# Using a drawing tablet on macOS
 
+***

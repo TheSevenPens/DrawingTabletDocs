@@ -17,16 +17,17 @@ The list of Wacom devices supported on Linux: [https://github.com/linuxwacom/inp
 ### Notes on my experience
 
 * I tested several Wacom devices with the built in support of Linux Mint 22.2 Cinnamon.
+* I tested several Wacom devices with the built-in support of Linux Mint 22.2 Cinnamon.
   * One by Wacom CTL-672 - worked
   * Wacom Intuos Pro Medium 2017 (PTH-66) - worked
   * Wacom Movink 13 - was not recognized
   * Wacom Intuos Pro Medium 2025 (PTK-670) - was not recognized
 * Pointer lag
-  * I noticed less pointer lag than a Windows or MacOS system using the Wacom driver
+  * I noticed less pointer lag than on a Windows or macOS system using the Wacom driver
 * Feature set
   * Basic features are available, but lots of typical features you might be used to in the Wacom driver are not
     * No per-application settings
-    * No visualization of the pressure curv
+    * No visualization of the pressure curve
 
 ## Xencelabs support for Linux
 
@@ -40,7 +41,7 @@ XP-Pen has Linux drivers from
 
 ## Huion support for Linux
 
-Has drivers for some models
+Huion has drivers for some models.
 
 [Huion - Does Huion Have a Tablet Driver That Supports Linux?](https://support.huion.com/en/support/solutions/articles/44001769972-does-huion-have-a-tablet-driver-that-supports-linux-)
 
@@ -70,7 +71,7 @@ Features
 * [MossCharmly - HUION Tablets (Kamvas 16 (2.5k) on LINUX (POP\_os)](https://www.youtube.com/watch?v=ibuH-hGkmdI) - 2023-05-13
 * [MossCharmly - Demystifying Linux for Artists](https://www.youtube.com/watch?v=hQ2VpPchETk) - 2024-03-02
 * [MossCharmly - Linux PC Build for Digital Artists](https://www.youtube.com/watch?v=eiLnEUS3r5k) - 2024-03-17
-* [Mindful Technology - Huion Inspiroy H1161 drawing tablet on Debian Linux: install driver & declutter HOME ](https://www.youtube.com/watch?v=kbzlKn3zhrk)- 2023-10-24
+* [Mindful Technology - Huion Inspiroy H1161 drawing tablet on Debian Linux: install driver & declutter HOME](https://www.youtube.com/watch?v=kbzlKn3zhrk) - 2023-10-24
 * [Linuxedo - Wacom Intuos S Wireless | Unboxing and Setting up on Linux Mint](https://www.youtube.com/watch?v=-TBT_l6qwj0) - 2021-01-17
 * [Tony Tascioglu - How to Map a Wacom Tablet to a Single Monitor on Linux](https://www.youtube.com/watch?v=DEdUa5lHZbU) - 2021-01-19
 * [Brodie Robertson - Easily Setup Your Wacom Tablet Under Linux](https://www.youtube.com/watch?v=dzplf-0RJDE) - 2021-09-12

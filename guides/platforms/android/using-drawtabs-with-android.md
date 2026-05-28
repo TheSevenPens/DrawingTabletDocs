@@ -6,13 +6,13 @@ TLDR: **ONLY SPECIFIC COMBINATIONS** of drawing tablets and Android devices work
 
 A given drawing tablet connected to an Android device might result in one of several outcomes:
 
-* The the tablet does not work at all
+* The tablet does not work at all
 * The tablet works - but in an incomplete or dissatisfying way
 * The core tablet features work in a good way - this is rare
 
 ## Feature availability: Android versus desktop computer
 
-Connecting your tablet to your PC with the tablet drivers installed, gives you ALL the capabilities of your tablet.
+Connecting your tablet to your PC with the tablet drivers installed gives you ALL the capabilities of your tablet.
 
 Connecting your tablet to an Android device - even if everything works well - will only give you SOME of the capabilities of your tablet. This is because tablet drivers DO NOT EXIST for Android devices. Though occasionally some tablets feature "helper apps".
 
@@ -23,16 +23,16 @@ Connecting your tablet to an Android device - even if everything works well - wi
 | Configuring Tablet Buttons                 | AVAILABLE                                  | NOT SUPPORTED                                                     |
 | Configuring Pen Buttons                    | AVAILABLE                                  | Limited configuring might be available in applications            |
 | On screen shortcut menus                   | AVAILABLE                                  | NOT SUPPORTED                                                     |
-| Force Proportions                          | AVAILABLE                                  | May or May not be implemented                                     |
+| Force Proportions                          | AVAILABLE                                  | May or may not be implemented                                     |
 
 ## Compatibility
 
-DO NOT assume a drawing tablet **fully** works with your android device. Check with the tablet manufacturer before trying this.
+DO NOT assume a drawing tablet **fully** works with your Android device. Check with the tablet manufacturer before trying this.
 
 Key points
 
-* BOTH the android and the tablet have to support this working.
-* There are some specific features that must be supported for this scenario to work, and not combinations of drawing tablet and android device support these features correctly.
+* BOTH the Android device and the tablet have to support this working.
+* There are some specific features that must be supported for this scenario to work, and not all combinations of drawing tablet and Android device support these features correctly.
 * In general, I found that Android 14 and Android 15 worked better with drawing tablets (if the drawing tablet supports being used with Android devices)
 * In some specific cases, I have been informed that older Android versions work with some drawing tablets designed to work with those versions.
 
@@ -48,35 +48,35 @@ A drawing tablet and its driver provide many features. When used with Android no
 
 ### **Active area mapping with automatic "Force Proportions" for pen tablets**
 
-Without this feature, if you draw shape on the on drawing tablet it will show up as distorted on the android tablet. The most common sign this is NOT happening is that if you draw a circle on the tablet it will show up as an oval on the android device.
+Without this feature, if you draw a shape on the drawing tablet, it will show up as distorted on the Android tablet. The most common sign this is NOT happening is that if you draw a circle on the tablet, it will show up as an oval on the Android device.
 
-With a normal desktop computer, you can enable "Force Proportions" in the tablet driver to fix this problem. But you cannot install any tablet drivers for android devices. So, you must rely on this happening automatically. Unfortunately not all combinations of drawing tablets and android devices can do this.
+With a normal desktop computer, you can enable "Force Proportions" in the tablet driver to fix this problem. But you cannot install any tablet drivers for Android devices. So, you must rely on this happening automatically. Unfortunately, not all combinations of drawing tablets and Android devices can do this.
 
 More here: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
 
 ### Active area mapping for landscape and portrait modes
 
-Android device can be held in either landscape or portrait orientation. Ideally, the active area of the tablet is mapped such that it maximizes the drawing space of the active area for the current orientation.
+An Android device can be held in either landscape or portrait orientation. Ideally, the active area of the tablet is mapped such that it maximizes the drawing space of the active area for the current orientation.
 
-A pen tablet may not be able to map the active area as you would intuitively expect to your android device. With some tablets only a portion of the tablet's active area will be usable for drawing when connected to an android device.
+A pen tablet may not be able to map the active area as you would intuitively expect to your Android device. With some tablets, only a portion of the tablet's active area will be usable for drawing when connected to an Android device.
 
-This is another case where on a normal computer, the tablet drivers can address this problem. But tablet drivers are not available for android devices.
+This is another case where, on a normal computer, the tablet drivers can address this problem. But tablet drivers are not available for Android devices.
 
 ### Buttons and dials on tablet
 
-Because there is no manufacturer driver on an android device, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an android tablet.
+Because there is no manufacturer driver on an Android device, there is no way to control what the buttons or dials on the tablet do. They are inactive when using an Android tablet.
 
-As a WORKAROUND, some people have used the KeyMapper app on the to map the buttons and dials: see [r/huion - How to set up buttons and pen with phone](https://www.reddit.com/r/huion/comments/1mzhx0c/how_to_set_up_buttons_and_pen_with_phone/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button). I have not personally tested this, but it is worth exploring.
+As a WORKAROUND, some people have used the KeyMapper app on Android to map the buttons and dials: see [r/huion - How to set up buttons and pen with phone](https://www.reddit.com/r/huion/comments/1mzhx0c/how_to_set_up_buttons_and_pen_with_phone/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button). I have not personally tested this, but it is worth exploring.
 
 ChromeOS does have some limited support for configuring buttons on the tablet, so in the future I hope we see this feature brought into Android.\\
 
 ### Buttons on the pen
 
-Like buttons on the tablet, currently android devices do not let you configure what the buttons on the pen do.
+Like buttons on the tablet, currently Android devices do not let you configure what the buttons on the pen do.
 
 ### Pressure curve in the tablet driver
 
-Because there is no manufacturer driver, there is no way to control what the pressure curve within the driver. You will have to rely on the pressure curve control in your applications - if it has them.
+Because there is no manufacturer driver, there is no way to control the pressure curve within the driver. You will have to rely on the pressure curve controls in your applications - if they have them.
 
 ## Manufacturer tablet drivers
 
@@ -92,7 +92,7 @@ For a list of applications that work on Android go here: [Apps](../../../apps/).
 
 ## Considerations for a pen tablet
 
-Bluetooth. I don't know if this will work. I haven't ever tried.
+Bluetooth. I don't know if this will work. I haven't tried it.
 
 ## Cabling issues
 
@@ -101,14 +101,14 @@ Some drawing tablets require a separately-purchased OTG ("on-the-go") USB adapte
 ## Connecting a pen display
 
 * Your android device must have a USB-C port that supports DP alt mode. Not all Android device support have such USB-C ports.
+* Your Android device must have a USB-C port that supports DP alt mode. Not all Android devices have such USB-C ports.
 * The USB-C cable you use to connect the tablet to the android device must be capable of transmitting a display signal.
-*
 
 ## **Power**
 
 With a pen tablet, your android device will be able to provide enough power for the tablet.
 
-With a pen display, your android device may NOT be able to provide enough power. You may need to get additional power from an adapter. Even if the android device can provide more power, be aware that the pen display reduce your battery life.
+With a pen display, your Android device may NOT be able to provide enough power. You may need to get additional power from an adapter. Even if the Android device can provide more power, be aware that the pen display reduces your battery life.
 
 ## Links
 

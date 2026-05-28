@@ -1,4 +1,4 @@
-# TSG: driver no longer supports a drawing tablet
+# TSG: Driver no longer supports a drawing tablet
 
 ## Overview
 
@@ -18,7 +18,7 @@ The risk of this approach is that sometimes the older drivers don't work well wi
 
 Setting up and configuring OpenTabletDriver can be challenging. On the other hand, it works with over 200 tablets - some over 20 years old.
 
-OpenTabletDriver has full support for tilt and pressure on Windows and on MacOS.
+OpenTabletDriver has full support for tilt and pressure on Windows and on macOS.
 
 More here: [OpenTabletDriver](../guides/drivers/opentabletdriver/)
 
@@ -26,6 +26,6 @@ More here: [OpenTabletDriver](../guides/drivers/opentabletdriver/)
 
 Windows has some VERY RUDIMENTARY support for tablets (this is called "Windows Plug-and-Play" support - shortened to PNP) and it works with SOME tablets in a limited way. It may be enough for the core features of some tablets. But it may not work well or at all with other tablets.
 
-MacOS does NOT have an equivalent to Plug-and-Play for drawing tablets.
+macOS does NOT have an equivalent to Plug-and-Play for drawing tablets.
 
 More here: [Windows PNP support](../guides/platforms/windows/windows-pnp-support.md)

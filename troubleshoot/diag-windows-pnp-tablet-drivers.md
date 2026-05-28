@@ -2,7 +2,7 @@
 
 ## Overview
 
-Windows has built-in tablet drivers through its Plug-and-play framework.
+Windows has built-in tablet drivers through its Plug-and-Play framework.
 
 More here:
 
@@ -13,8 +13,8 @@ More here:
 
 The Windows PNP tablet driver is extremely basic. However, you can use it to diagnose problems with a drawing tablet.
 
-* if a problem occurs with both the manufacturer tablet driver and the Windows PNP tablet driver, then the problem is likely not related to drivers.
-* if a problem only occurs with the manufacturer driver, then you know the problem is driver related.
+* If a problem occurs with both the manufacturer tablet driver and the Windows PNP tablet driver, then the problem is likely not related to drivers.
+* If a problem only occurs with the manufacturer driver, then you know the problem is driver-related.
 
 ## **Instructions**
 
@@ -29,7 +29,7 @@ The Windows PNP tablet driver is extremely basic. However, you can use it to dia
 
 ## The pointer
 
-When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this
+When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this:
 
 <img src="../.gitbook/assets/image-000405.png" alt="" data-size="original">
 

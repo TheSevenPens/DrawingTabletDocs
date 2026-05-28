@@ -6,21 +6,21 @@ Some pen displays exhibit a color tint (purple/lilac or yellow/orange) at the ed
 
 Characteristics:
 
-* The tilt Is NOT pixelated or rough. It has very smooth look.
-* Often seen on all four edges. I can't think of any examples on only a three or less edges
+* The tint is NOT pixelated or rough. It has a very smooth look.
+* It is often seen on all four edges. I can't think of any examples on only three or fewer edges.
 * Can be very faint.
-* You may notice it only when when colors on the screen are bright.
+* You may notice it only when colors on the screen are bright.
 * May appear when you first use your tablet, or develop much later. Out of 30+ pen displays, I have one display (Huion Kamvas 22 Plus) that developed a slight purple edge tint 3+ years after I bought it.
 
 ## Appearance
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000386.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-The tint is greatly exaggerated in these diagrams. In reality in can be very subtle.
+The tint is greatly exaggerated in these diagrams. In reality, it can be very subtle.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000381.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Keep in mind the topic being discussed here is when the tint as at the edges, not when the tint is evenly distributed over the entire display.
+Keep in mind the topic being discussed here is when the tint is at the edges, not when the tint is evenly distributed over the entire display.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000378.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -30,15 +30,15 @@ Keep in mind the topic being discussed here is when the tint as at the edges, no
 
 ## When it appears
 
-This effect can be visible the first time you use your pen display, or it can can show up after you've been using the pen display for a long time.
+This effect can be visible the first time you use your pen display, or it can show up after you've been using the pen display for a long time.
 
 ## Compared to backlight bleed
 
-Unlike backlight bleed, the tint is often visible even on a very bright or pure white background
+Unlike backlight bleed, the tint is often visible even on a very bright or pure white background.
 
 ## Causes
 
-Based on what I have read the cause due to an issue with laminated displays (see: [Lamination](lamination.md)).&#x20;
+Based on what I have read, the cause is due to an issue with laminated displays (see: [Lamination](lamination.md)).
 
 My leading theory as to the specific cause is an issue with the polarizer layer in the display. When there is a polarizer failure it can appear in very different ways visually - sometimes very harsh effects and sometimes much more subtle (as in this case).
 
@@ -49,13 +49,13 @@ The polarizer might
 * be damaged by heat
 * be damaged by pressure
 
-Laminated displays have a layer of optically clear adhesive (OCA) between the glass and the display. This might also contribute to or be the source of the problem.&#x20;
+Laminated displays have a layer of optically clear adhesive (OCA) between the glass and the display. This might also contribute to or be the source of the problem.
 
 ## How often it occurs
 
 Overall it is uncommon.
 
-Of 30+ pen displays I own, It is present in NONE of the display devices I have that are laminated.
+Of the 30+ pen displays I own, it is present in none of the laminated display devices I have.
 
 ## Manufacturer pages
 

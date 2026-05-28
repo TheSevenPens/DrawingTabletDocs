@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Just like a monitor a pen display contains a display panel with a native display resolution.
+Just like a monitor, a pen display contains a display panel with a native display resolution.
 
 ## Typical resolutions
 
@@ -19,8 +19,8 @@ A few pen displays use resolutions such as 2560 x 1600.
 ### **Seeing pixels**
 
 * Some people are very sensitive to seeing pixels.
-* When drawing on a pen display you'll be much closer to it than when you are using a monitor
-* So you might notice the pixels more due to this proximity
+* When drawing on a pen display, you'll be much closer to it than when you are using a monitor.
+* So you might notice the pixels more due to this proximity.
 
 ### **Compatibility**
 
@@ -37,9 +37,9 @@ For example:
 
 [Choosing the right display resolution for a pen display](../../buying/choosing-display-resolution.md)
 
-## MacOS considerations
+## macOS considerations
 
-**MacOS** works with resolution differently than windows. In particular it renders text different and this can make text a little fuzzy at certain resolutions. Fortunately there are ways to mitigate the problem. See: [Fuzzy text on displays with MacOS](../platforms/macos/display-resolution.md)
+**macOS** works with resolution differently than Windows. In particular, it renders text differently, and this can make text a little fuzzy at certain resolutions. Fortunately, there are ways to mitigate the problem. See: [Fuzzy text on displays with MacOS](../platforms/macos/display-resolution.md)
 
 ## **Anti-glare sparkle**
 

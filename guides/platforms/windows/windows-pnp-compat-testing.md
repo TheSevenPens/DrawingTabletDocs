@@ -1,10 +1,10 @@
 # Windows PNP driver compatibility testing
 
-Introduction
+## Introduction
 
-Not all drawing talbots support Windows PNP drivers. .And even if they do you have to be aware that there are limitations. On this page I will collect. some basic compatibility testing I've done for some tablets. More here: [Windows PNP support](windows-pnp-support.md)
+Not all drawing tablets support Windows PNP drivers. And even if they do, you have to be aware that there are limitations. On this page, I collect some basic compatibility testing I've done for some tablets. More here: [Windows PNP support](windows-pnp-support.md)
 
-If the risk is a specific tablet you'd like me to test .then please contact me and let me know. .If I have the tablet I'd be happy to test it.
+If there is a specific tablet you'd like me to test, please contact me and let me know. If I have the tablet, I'd be happy to test it.
 
 ## Testing Windows PNP drivers with pen displays (screen tablets)
 
@@ -21,14 +21,14 @@ I plugged in a couple and their basic functionality worked subject to the limita
 ### Huion
 
 * Huion HS611
-  * Position : works
-  * Pressure YES
+  * Position: works
+  * Pressure: YES
   * Tilt: YES
   * Lower button: detected
   * Upper button: not detected (?)
 * Huion Giano G930L with PW517 pen
-  * Position : works
-  * Pressure YES
+  * Position: works
+  * Pressure: YES
   * Tilt: YES
   * Lower button: detected
   * Upper button: not detected
@@ -51,25 +51,22 @@ I plugged in a couple and their basic functionality worked subject to the limita
   * Position: YES
   * Pressure: YES
   * Tilt: YES
-  * Lower button: detected&#x20;
+  * Lower button: detected
   * Upper button: not detected
 * Wacom Intuos Pro (PTH-460, PTH-660, PTH-860) with Pro Pen 2
   * Nothing works
-* Wacom Movink 13 (DTH-135) with Pro Pen 2&#x20;
+* Wacom Movink 13 (DTH-135) with Pro Pen 2
   * Position: YES
   * Pressure: YES
   * Tilt: YES
-  * Lower button: detected&#x20;
+  * Lower button: detected
   * Upper button: not detected
 
 ## XP-Pen
 
 * XP-Pen Deco Pro XLW (MT1592B) with X3 Pro pen
-  * Position : works
-  * Pressure YES
+  * Position: works
+  * Pressure: YES
   * Tilt: YES
   * Lower button: detected
   * Upper button: not detected (?)
-
-
-

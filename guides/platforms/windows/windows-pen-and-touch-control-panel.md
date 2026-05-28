@@ -6,7 +6,7 @@
 
 ## Opening from the command line
 
-Use this in CMD shell
+Use this in a CMD shell.
 
 ```
 "C:\WINDOWS\system32\rundll32.exe" shell32.dll,Control_RunDLL TabletPC.cpl @0,pen
