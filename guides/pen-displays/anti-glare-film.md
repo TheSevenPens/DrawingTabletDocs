@@ -2,36 +2,35 @@
 
 ## Overview
 
-Also called "Matte film", anti-glare film glass is one of two popular treatments the glass surface of a pen display. (The other is called [Etched glass](etched-glass.md)).
+Also called "matte film," anti-glare film is one of two popular surface treatments for pen display glass. The other is [Etched glass](etched-glass.md).
 
-This film is affixed to the glass underneath with some optically clear adhesive.
+This film is attached to the glass with optically clear adhesive.
 
 ## Benefits
 
-Anti-glare film provides two benefits
+Anti-glare film provides several benefits:
 
-* It reduces glare and reflections due to light hitting the tablet. The film does this my scattering that light.
-* It adds some texture which helps the pen grip better - without this the pen would feel slippery on the glass
+* It reduces glare and reflections by scattering incoming light.
+* It adds texture, which gives the pen more grip. Without it, the glass feels slippery.
 * As a film, it provides some protection to the glass underneath.
-* Some films are designed can be removed and replaced. So if you've scratched up the film, you can restore the table to its original feeling.
+* Some films can be removed and replaced. If you scratch the film, you can restore the tablet to its original feel.
 
 ## Removal and replacement
 
-For SOME tablets, these films are intended to be removed by the user. Some manufacturers even sell replacement films. These films, tend to be easily removed.
+For some tablets, these films are meant to be removed by the user. Some manufacturers even sell replacements. These films are usually easy to remove.
 
-For SOME tablets, these films are quite firmly attached to the glass and are not easily removed.&#x20;
+For other tablets, the film is firmly attached to the glass and is not easy to remove.
 
-If you remove the film, you'll notice typically that the display will look brighter and the colors more vibrant, however:
+If you remove the film, the display will usually look brighter and the colors more vibrant. However:
 
-* you'll notice glare
-* And of course the glass is no longer protected from scratches
+* you'll notice more glare
+* the glass is no longer protected from scratches
 
 ## Films are NOT lamination
 
-&#x20;Sometime people confuse these films with lamination. They are very different and have different benefits:
+People sometimes confuse these films with lamination. They are different and provide different benefits:
 
-* These films are on TOP of the glass
-* Lamination means that the glass is bonded UNDERNEATH to the display panel &#x20;
+* These films sit on top of the glass.
+* Lamination means the glass is bonded to the display panel underneath.
 
-So it is quite possible to have a pen display that has BOTH a film AND is laminated.
-
+So it is possible to have a pen display that both has a film and is laminated.

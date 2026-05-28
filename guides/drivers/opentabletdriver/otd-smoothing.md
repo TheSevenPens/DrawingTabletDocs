@@ -16,7 +16,7 @@ There are several filters that involve smoothing the position of the pen.
 * Position Smoothing Pulled String
 * Position Smoothing Exponential Moving Average
 
-The one I recommend using is **Position Smoothing Exponental Moving Average**
+The one I recommend is **Position Smoothing Exponential Moving Average**.
 
 ## Configuring Position Smoothing Exponential Moving Average
 
@@ -24,14 +24,12 @@ This is what the configuration looks like:
 
 <figure><img src="../../../.gitbook/assets/image-000369.png" alt=""><figcaption></figcaption></figure>
 
-If you want to enable the filter, click **Enable Smily Scylla ...** at the top and click **Apply**.
+If you want to enable the filter, click **Enable Slimy Scylla ...** at the top, then click **Apply**.
 
-**Amount** = how much smoothing (range 0.0 to 1.0). Try 0.1 to start with
+**Amount** = how much smoothing to apply. The range is 0.0 to 1.0. Try `0.1` to start.
 
-**Always Apply to Hover** = to leave this unchecked.
+**Always Apply to Hover** = leave this unchecked.
 
 ## Slimy Scylla documentation
 
-here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy_Scylla/tree/main/docs)
-
-*
+See: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy_Scylla/tree/main/docs)

@@ -2,29 +2,29 @@
 
 ### Overview
 
-Sometimes your cable's just aren't long enough. However, you can purchase extension cables.
+Sometimes your cables just are not long enough. In those cases, you can use extension cables.
 
-Key requirements for an extension cable
+Key requirements for an extension cable:
 
 * For pen tablets
-  * It needs to support data and small amount of power - any USB 2.0 extension cable should work
+  * It needs to support data and a small amount of power. Any USB 2.0 extension cable should work.
 * For pen displays
   * It must support data
   * It must support DP alt mode
-  * it must support the resolution and refresh rate you need
-  * it must support sending enough power to your pen display
-  * <mark style="color:red;">**SAFETY CRITICAL**</mark> it must support AT LEAST as much power as the tablet's original cable. If it is not rated to handle that much power it will be a safety / fire risk.
+  * It must support the resolution and refresh rate you need
+  * It must support sending enough power to your pen display
+  * <mark style="color:red;">**SAFETY CRITICAL**</mark> It must support **at least** as much power as the tablet's original cable. If it is not rated to handle that much power, it can become a safety or fire risk.
 
-To better understand the needs of connecting a pen display see: [Connecting a pen display](../../guides/connecting/connecting-pen-display/).
+To better understand the requirements for connecting a pen display, see [Connecting a pen display](../../guides/connecting/connecting-pen-display/).
 
 ## The extension cable I use for pen displays
 
-I use a 2 foot UseBean USB-C Extension cable. This product has worked well for me. I have run up to 4K@60Hz using this extension cable.
+I use a 2-foot UseBean USB-C extension cable. It has worked well for me. I have run up to `4K@60Hz` through this extension cable.
 
 I used it in these ways:
 
 * With a Huion Kamvas 22 Plus: I connect it to the USB-C end of a Huion 3-in-1 cable.
-* With Wacom Cintiq Pro 16 (DTH-167): I connect it to the the USB-C cable that came with the Cintiq.
+* With a Wacom Cintiq Pro 16 (DTH-167): I connect it to the USB-C cable that came with the Cintiq.
 
 [https://www.amazon.com/dp/B0BB13ZNPQ](https://www.amazon.com/dp/B0BB13ZNPQ)
 
@@ -32,7 +32,7 @@ I used it in these ways:
 
 ## Be aware of how deeply the port is housed in the pen display
 
-The specific USB-C extender above has a USB-port that fits into some pen displays, but some other pen displays have their USB-C port deeper inside and this cable cannot fit into those areas.
+The specific USB-C extender above has a plug that fits into some pen displays, but other pen displays have more deeply recessed USB-C ports. This cable will not fit those ports.
 
 For example, this extender does NOT go deep enough to fit into a Huion Kamvas 13.
 

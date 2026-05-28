@@ -2,9 +2,9 @@
 
 ## Summary
 
-Very good pen. Although Wacom uses this pen for a consumer tablet, the truth is this pen has great drawing performance. In particular it is a good (wide) pressure range with low IAF.
+Very good pen. Although Wacom uses this pen for a consumer tablet, it has great drawing performance. In particular, it offers a good wide pressure range with low IAF.
 
-This pen comes with the One by Wacom (CTLx72) series of tablets. [One by Wacom (CTL-x72) notes](../../drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md).
+This pen comes with the One by Wacom (CTL-x72) series of tablets. [One by Wacom (CTL-x72) notes](../../drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md).
 
 ## Basics
 
@@ -17,15 +17,15 @@ This pen comes with the One by Wacom (CTLx72) series of tablets. [One by Wacom (
 ## Initial Activation Force
 
 * Tablet expert Kuuube measures the IAF of this pen to be under <1gf - which is excellent.
-* Other's have told me that in practice this pen has a low IAF but one that feels more normal - around 3gf IAF.
-* I myself am not good at measuring IAF with my equipment, but I definitely think the subjective IAF is good but to me it doesn't quite match that of the Pro Pen 2.
-* Keep in mind that even pens of the same model vary a little bit in IAF unit-by-unit.
+* Others have told me that, in practice, this pen has low IAF, but one that feels more normal at around 3gf.
+* I am not very good at measuring IAF with my equipment, but I think the subjective IAF is good. To me, it does not quite match the Pro Pen 2.
+* Keep in mind that even pens of the same model vary a little in IAF from unit to unit.
 
 ## Pressure response
 
-Max pressure is good (> 350gf) for the three units of this pen that I tested.
+Max pressure is good (>350gf) across the three units of this pen that I tested.
 
-All three very very consistent in their pressure response
+All three are very consistent in their pressure response.
 
 **Ignore IAF** in chart below - my testing was not designed for accurate IAF measurements.
 
@@ -33,4 +33,4 @@ All three very very consistent in their pressure response
 
 ## **Feeling**
 
-The One by Wacom pen is a little more plasticky and less premium feeling in hand than the Wacom's professional pens. But this is not a big deal for a beginner.
+The One by Wacom pen feels a little more plasticky and less premium in the hand than Wacom's professional pens. That is not a big deal for a beginner.

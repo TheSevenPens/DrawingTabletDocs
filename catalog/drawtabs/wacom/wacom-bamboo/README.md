@@ -1,9 +1,8 @@
 # Wacom Bamboo
 
-## Bambo \[Splash, Connect] (CTL-470)
+## Bamboo \[Splash, Connect] (CTL-470)
 
-* Release Year: ???
-* Included Pen: LP-170
-* My notes
+* Release year: ???
+* Included pen: LP-170
+* Notes
 * [Ahki Boutiques - Wacom Bamboo CTL-470 review 2017-05-16](https://www.youtube.com/watch?v=TqetJzCmLwY)
-

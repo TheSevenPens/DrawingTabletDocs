@@ -4,7 +4,6 @@
 
 A MUCH better choice would be the Galaxy Tab S series.
 
-Modern Samsung Galaxy Tab A tablets do not support a EMR pen and certainly not the S pen.&#x20;
+Modern Samsung Galaxy Tab A tablets do not support an EMR pen, and certainly not the S Pen.
 
-Some VERY OLD models support the S pen. Those models are so old I don't think they would work well compared to contemporary device.  &#x20;
-
+Some VERY OLD models support the S Pen. Those models are so old that they do not compare well with contemporary devices.

@@ -2,20 +2,20 @@
 
 ## Overview
 
-Consider getting a protective case to protect your investment in your drawing tablet. Such cases can prevent scratches and are useful travelling with your tablet.
+Consider getting a protective case for your drawing tablet. A case can help prevent scratches and is useful when travelling with your tablet.
 
-Below are some options that I have seen people suggest. <mark style="color:red;">**I don't own any of these cases so I cannot speak from direct personal experience**</mark>. So make sure do you research and get community feedback on what works for them.
+Below are some options that I have seen people suggest. <mark style="color:red;">**I don't own any of these cases, so I cannot speak from direct personal experience**</mark>. Make sure you do your research and get community feedback on what works.
 
-If you need cases for your pens: [Pen cases](pen-cases.md)
+If you need cases for your pens, see [Pen cases](pen-cases.md).
 
 ## Options
 
 * **Gator Screen Saver Totes**
-  * These are padded transport bags intended for monitors - but will serve the save role for pen displays.&#x20;
-  * Site: [Gator Store: Screen Saver Totes](https://gatorco.com/shop-by-category/computer-projector-tablet/computer-projector-bags/screen-saver-totes/) &#x20;
+  * These are padded transport bags intended for monitors, but they can serve the same role for pen displays.
+  * Site: [Gator Store: Screen Saver Totes](https://gatorco.com/shop-by-category/computer-projector-tablet/computer-projector-bags/screen-saver-totes/)
 * **Case Club**
-  * Site: [https://www.caseclub.com/](https://www.caseclub.com/)&#x20;
-  * They have a variety of cases. And even one for a specific pen display: [https://www.caseclub.com/product/wacom-cintiq-pro-24-case/](https://www.caseclub.com/product/wacom-cintiq-pro-24-case/)&#x20;
+  * Site: [https://www.caseclub.com/](https://www.caseclub.com/)
+  * They have a variety of cases, including one for a specific pen display: [https://www.caseclub.com/product/wacom-cintiq-pro-24-case/](https://www.caseclub.com/product/wacom-cintiq-pro-24-case/)
 * **Road cases**
   * Site: [https://www.roadcases.com/](https://www.roadcases.com/)
 * **Flight cases**
@@ -30,4 +30,3 @@ If you need cases for your pens: [Pen cases](pen-cases.md)
 ## Considerations
 
 **Possible magnetic interference** - Some cases have magnets that can interfere with the Apple Pencil. See [**this reddit post**](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/).
-

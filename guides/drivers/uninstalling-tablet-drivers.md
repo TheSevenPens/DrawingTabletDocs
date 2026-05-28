@@ -4,7 +4,7 @@
 
 Just as they are installed, tablet drivers can also be uninstalled.
 
-Normally, you would only be interested in uninstalling a tablet driver if you don't plan to to use your drawing tablet again. However, uninstalling/re-installing is a common troubleshooting technique so it is useful to be familiar with the process.
+Normally, you would only uninstall a tablet driver if you do not plan to use your drawing tablet again. However, uninstalling and reinstalling is also a common troubleshooting technique, so it is useful to understand the process.
 
 ## Windows uninstall process
 
@@ -12,30 +12,30 @@ Normally, you would only be interested in uninstalling a tablet driver if you do
 
 * Steps
   * Go to **Start** > **Apps** > Installed apps
-    * On earlier version of Windowss, search for "Add Remove Programs" and then uninstall apps
-  * Locate the applivation for your tablet brand
-  * Click on it and select to uninstall
+    * On earlier versions of Windows, search for `Add Remove Programs` and uninstall it from there
+  * Locate the application for your tablet brand
+  * Click it and choose **Uninstall**
   * The uninstall process may ask you to restart your computer, do that.
-  * If you are not asked to restart your compute, after the uninstall process is finished, restart your computer anyway.
-* About the needed to restart the computer
-  * Uninstalling a driver may require a restart of your system. So, get this out of the way before you proceed with the next steps. Even if a driver uninstalled without asking you to restart. I highly recommend you restart your computer after you uninstall a tablet driver.
+  * If you are not asked to restart your computer, restart it anyway after the uninstall process finishes.
+* About restarting the computer
+  * Uninstalling a driver may require a system restart. It is best to get this out of the way before you move to the next steps. Even if the driver uninstall did not ask for a restart, I strongly recommend restarting your computer.
 
 ### Extended uninstall process
 
-Some tablet drivers leave bits of themselves installed, even after an uninstallation process. To ensure nothing remains, use the [Tablet Driver Cleanup tool](tablet-driver-cleanup-tool.md).
+Some tablet drivers leave behind leftover files, even after the uninstall process. To ensure nothing remains, use the [Tablet Driver Cleanup tool](tablet-driver-cleanup-tool.md).
 
 ### Starting the uninstall process from the driver
 
-Even though I normally use the standard operating system methods to start the uninstall process, for some tablet brands, you can launch the uninstall process from the driver app itself.
+Although I normally use the standard operating system method, some tablet brands also let you launch the uninstall process from the driver app itself.
 
 ## MacOS uninstall process
 
-Wacom
+### Wacom
 
-* Search for **Wacom Tablet Utility**&#x20;
-* Under **Tablet Software** click **Uninstall**
+* Search for **Wacom Tablet Utility**
+* Under **Tablet Software**, click **Uninstall**
 
-Resources
+### Resources
 
 * [Wacom - How do I uninstall and re-install the Wacom driver on Mac OS for a Pen Tablet, Pen Display, or Pen Computer?](https://support.wacom.com/hc/en-us/articles/1500006264581-How-do-I-uninstall-and-re-install-the-Wacom-driver-on-Mac-OS-for-a-Pen-Tablet-Pen-Display-or-Pen-Computer)
 * [Huion - How to Uninstall Version 15 Driver (MacOS)](https://support.huion.com/en/support/solutions/articles/44002222326-how-to-uninstall-version-15-driver-macos-)
@@ -44,4 +44,3 @@ Resources
 ## Resources
 
 * [Huion - How to Uninstall Version 15 Driver (Windows)](https://support.huion.com/en/support/solutions/articles/44002136887-how-to-uninstall-version-15-driver-windows-)
-*

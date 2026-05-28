@@ -1,3 +1,3 @@
 # Koyo
 
-Koyo is highly involved as both a mod on [Discord server](discord.md) server and publishes information about drawing tablets in GitBook ([https://koyodraka.gitbook.io/drawtab/](https://koyodraka.gitbook.io/drawtab/)).
+Koyo is highly involved in the drawing tablet community. Koyo is both a moderator on the [Discord server](discord.md) and a publisher of drawing tablet information on GitBook ([https://koyodraka.gitbook.io/drawtab/](https://koyodraka.gitbook.io/drawtab/)).
