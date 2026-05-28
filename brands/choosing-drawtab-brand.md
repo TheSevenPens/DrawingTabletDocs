@@ -1,7 +1,5 @@
 # Choosing a drawing tablet brand
 
-##
-
 {% hint style="info" %}
 If you are looking for tablet recommendations, go here: [Recommendations](../recs/)
 {% endhint %}
@@ -10,15 +8,15 @@ If you are looking for tablet recommendations, go here: [Recommendations](../rec
 
 No brand's products are consistently perfect.
 
-All brands will eventually ship a product that has defective units or that will have sporadic problems with their drivers, etc. So, at some point you will need help.
+All brands will eventually ship a product with defective units or sporadic driver problems. At some point, you will need help.
 
-This is why you MUST choose a brand that:
+This is why you must choose a brand that:
 
 * Supports its customers well:
   * Is publishing driver updates
-  * Had good documentation
+  * Has good documentation
   * Has active customer support
-* Has enough other people using their tablets, so that you can get help from online communities.
+* Has enough people using its tablets that you can get help from online communities.
 
 ## Brands I generally suggest
 
@@ -31,17 +29,17 @@ I generally steer people toward:
 
 More here: [Brands](./)
 
-You'll find people who've had good and bad experience with each brand. Though generally I do think Wacom has a better experience for customers overall.
+You will find people who have had both good and bad experiences with each brand. In general, though, I do think Wacom offers a better customer experience overall.
 
 ## Brands vs specific tablets
 
-Within a brand, they will have good tablets and bad tablets. Even Wacom, which is the market leader has some tablets I will not recommend.
+Within a brand, there will be good tablets and bad tablets. Even Wacom, which is the market leader, has some tablets I would not recommend.
 
 Instead of only thinking of the brand, consider specific tablet models.
 
 ## Online communities
 
-Communities are where a people can learn and get help with drawing tablets. Depending on the brand there are different options. More here: [Community](../resources/community/)
+Communities are where people learn and get help with drawing tablets. Depending on the brand, there are different options. More here: [Community](../resources/community/)
 
 ## Discussions
 

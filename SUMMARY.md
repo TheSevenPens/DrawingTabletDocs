@@ -642,7 +642,7 @@
   * [Hardware projects](dev/hardware-projects.md)
   * [HTML pointer events](dev/html-pointer-events.md)
   * [SDKs](dev/sdks.md)
-  * [Misc tool and libraries](dev/misc-tool-and-libs.md)
+  * [Misc tools and libraries](dev/misc-tool-and-libs.md)
 * [Process](process/README.md)
   * [Tablet notes template](process/tablet-evaluation.md "Notes template")
   * [Pressure range data](process/pressure-range-data.md)

@@ -9,13 +9,13 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 * If you do not have a drawing tablet yet, read the [Drawing tablet buying guide](../buying/).
 {% endhint %}
 
-## Find out the tablet's model number
+## Find the tablet's model number
 
-* Make sure you know the model number of the tablet. This will help in many ways later. More here: [Finding the model number of your drawing tablet](../guides/general/finding-tablet-model-number.md).
+* Make sure you know the tablet's model number. This will help in many ways later. More here: [Finding the model number of your drawing tablet](../guides/general/finding-tablet-model-number.md).
 
 ## Identify how to contact support
 
-* Most of the time, everything just works. But you may still need help from customer support. Make sure you know how to handle [Contacting support](support.md) for your tablet manufacturer.
+* Most of the time, everything just works. But you may still need help from customer support. Make sure you know how to contact support for your tablet manufacturer. More here: [Contacting support](support.md).
 
 ## Read the user manual
 
@@ -54,7 +54,7 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 ## Install the tablet driver
 
 * You need the tablet driver installed for the tablet to work correctly.
-* You can go to the manufacturer's site, download the driver, and install it before your tablet arrives.
+* You can go to the manufacturer's website, download the driver, and install it before your tablet arrives.
 * If the driver is installed, then when you connect the tablet with a USB cable, the driver will detect it and the pen will work as soon as it comes close to the tablet, at about 10 mm.
 * The driver also installs an app you can use to configure the tablet. That app has a different name depending on the brand.
 * Why you need to install tablet drivers: [https://www.youtube.com/watch?v=qUsZUcH6SWk](https://www.youtube.com/watch?v=qUsZUcH6SWk)
@@ -66,7 +66,7 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
   * Some pen tablets ALSO support wireless connection. For now, ignore wireless. It adds more complexity. Get it working with a cable first. Once everything is working, try wireless.
 * Pen display - There are several options. See [Connecting a pen display](../guides/connecting/connecting-pen-display/)
 
-## Finding the driver UI
+## Find the driver UI
 
 At some point, you will need to find the driver UI again after installing it. You should know how to do this. Here are the instructions: [Finding the driver settings UI](../guides/drivers/finding-the-driver-settings-ui.md).
 
@@ -83,9 +83,9 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 * Pen-aware drawing apps can also use features like pressure and tilt.
 * If you are using a drawing program, you do not need to hold down any button to draw. Just touch the pen to the tablet.
 
-## Learn what the active area is, aka "Working Area"
+## Learn what the active area is, also called the "Working Area"
 
-* The active area is the region of the tablet that is sensitive to the pen.
+* The active area is the region of the tablet that responds to the pen.
   * Wacom calls this the "Active Area" in their docs. In their driver, it is called "Mapping."
   * Huion calls this the "Working Area."
   * I will always call it the "active area" because that is the oldest term for it.
@@ -104,7 +104,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 ## Pen tablets: Enable Force Proportions
 
 * <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You don't have to do this for pen displays.
-* If you do not do this, your drawing will be distorted. In other words, tracing a perfect circle on the tablet will draw an oval on the screen.
+* If you do not do this, your drawing will be distorted. In other words, tracing a perfect circle on the tablet will produce an oval on the screen.
 * Explanation and instructions here: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md).
 
 ## Pen displays: map the active area to your pen display if needed
@@ -116,7 +116,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 
 Drawing tablet pens are often over-sensitive at low physical pressure. Near the initial activation force, pressure can swing wildly. If you use pressure to control the width of your strokes, the width may vary more than you expect. This is especially obvious when you are doing linework and your brushes start getting larger, such as above 50 px.
 
-This over-sensitivity is common and not unusual. Some people may not even notice it. But if you do, you can use pressure curves to reduce it.
+This over-sensitivity is common. Some people may not even notice it. But if you do, you can use pressure curves to reduce it.
 
 <figure><img src="../.gitbook/assets/image-000239.png" alt="" width="375"><figcaption></figcaption></figure>
 

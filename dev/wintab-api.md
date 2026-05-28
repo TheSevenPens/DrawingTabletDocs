@@ -1,32 +1,32 @@
 # WinTab API
 
-## **Python**&#x20;
+## **Python**
 
-* [**cgikit.wintab**](https://cgkit.sourceforge.net/doc2/wintab.html) - As part of the Python Computer Graphics kit, the wintab module allows you to use Pyhon to get pen data via the WinTab interface.
-* [https://github.com/Dirskin/WintabW](https://github.com/Dirskin/WintabW)&#x20;
+* [**cgikit.wintab**](https://cgkit.sourceforge.net/doc2/wintab.html) - As part of the Python Computer Graphics Kit, the `wintab` module lets you use Python to get pen data through the WinTab interface.
+* [https://github.com/Dirskin/WintabW](https://github.com/Dirskin/WintabW)
 
-## **.NET**&#x20;
+## **.NET**
 
-* [WinTabControl](https://github.com/DennisWacom/WintabControl/) - A demo app showing using the WinTabDN nuget package with a Windows application to show current poition pressure, tilt, etc. Uses .NET Framework 4.7.2
+* [WinTabControl](https://github.com/DennisWacom/WintabControl/) - A demo app that uses the WinTabDN NuGet package in a Windows application to show current position, pressure, tilt, and more. Uses .NET Framework 4.7.2.
 * [https://github.com/Apostolique/Apos.WintabDN](https://github.com/Apostolique/Apos.WintabDN) - Uses .NET Standard 2.0
 
 ## **Windows**
 
-* [https://github.com/perlfu/WintabEmulator](https://github.com/perlfu/WintabEmulator) - drop-in replacement for WINTAB.DLL that emulates the WinTab API but uses Windows Ink under-the-covers
+* [https://github.com/perlfu/WintabEmulator](https://github.com/perlfu/WintabEmulator) - Drop-in replacement for `WINTAB.DLL` that emulates the WinTab API but uses Windows Ink under the covers.
 
 ## **Rust**
 
-* [https://github.com/thehappycheese/wintab\_lite](https://github.com/thehappycheese/wintab_lite) - use WinTab API from Rust
+* [https://github.com/thehappycheese/wintab\_lite](https://github.com/thehappycheese/wintab_lite) - Use the WinTab API from Rust.
 
 ## **Utilities**
 
-* [https://github.com/jchv/wintab-interposer](https://github.com/jchv/wintab-interposer) - logs all WINTAB API calls
-* [https://github.com/shuhari/WintabEye](https://github.com/shuhari/WintabEye)&#x20;
+* [https://github.com/jchv/wintab-interposer](https://github.com/jchv/wintab-interposer) - Logs all WinTab API calls.
+* [https://github.com/shuhari/WintabEye](https://github.com/shuhari/WintabEye)
 
-## **Sandbox apps**&#x20;
+## **Sandbox apps**
 
-* [https://github.com/TheSevenPens/WinTabPainter](https://github.com/TheSevenPens/WinTabPainter) - a primitive "paint" app to prototype and explore ideas for drawing tablets.
+* [https://github.com/TheSevenPens/WinTabPainter](https://github.com/TheSevenPens/WinTabPainter) - A primitive paint app for prototyping and exploring drawing tablet ideas.
 
 ## **Misc**
 
-* **LCS/Telegraphics WinTab Dev Info (**[**archive**](https://web.archive.org/web/20050305120615/http://www.pointing.com:80/FTP.HTM)**)**&#x20;
+* **LCS/Telegraphics WinTab Dev Info** ([archive](https://web.archive.org/web/20050305120615/http://www.pointing.com:80/FTP.HTM))

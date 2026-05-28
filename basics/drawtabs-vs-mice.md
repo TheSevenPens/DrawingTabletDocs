@@ -2,7 +2,7 @@
 
 ## Overview
 
-You have almost certainly used a mouse with a computer. This document explains how using a drawing tablet and pen differs.
+You have almost certainly used a mouse with a computer. This document explains how a drawing tablet and pen differ.
 
 ## Positioning strategy
 
@@ -18,12 +18,12 @@ There are many techniques and features that help you draw smooth strokes. Some w
 
 Position smoothing, also called stabilization, is one of these techniques. However, some apps allow position smoothing with drawing tablets but not with mice.
 
-Here's what Krita currently does:
+Here is what Krita currently does:
 
 * Basic smoothing: applies ONLY to drawing tablets
 * Weighted smoothing: applies BOTH to drawing tablets and mice
 
-Here's what Clip Studio Paint does:
+Here is what Clip Studio Paint does:
 
 * Stabilization: applies ONLY to drawing tablets
 
@@ -33,7 +33,7 @@ With a mouse, you move the pointer and clicks only happen when you take a very c
 
 A drawing tablet feels very different. To move the pointer without clicking, you hover the pen over the tablet, up to about 10 mm away. If you touch the pen to the tablet, it counts as a click.
 
-So with a drawing tablet you have to get used to hovering and only pressing down when you want to click.
+So, with a drawing tablet, you have to get used to hovering and pressing down only when you want to click.
 
 ## **Keep the pointer on a single pixel (without clicking)**
 
@@ -43,9 +43,9 @@ Drawing tablets feel very different in this regard. First, you cannot touch the 
 
 ## **Keep the pointer on a single pixel (while clicking)**
 
-Mice are really good at this. Once the pointer is where you want it, you can click the buttons and this can be done without changing the pointer location.
+Mice are really good at this. Once the pointer is where you want it, you can click the buttons without changing the pointer location.
 
-This is much harder with a pen. First there is the general difficulty of keeping the pointer on a specific pixel. And then, if you press the buttons on the pen, this will almost always change the position of the pen and thus the pointer.
+This is much harder with a pen. First, there is the general difficulty of keeping the pointer on a specific pixel. Then, if you press the buttons on the pen, this will almost always change the position of the pen and thus the pointer.
 
 ## Application considerations
 
@@ -55,16 +55,16 @@ If you are laying out shapes and creating vector art in applications like Illust
 
 ## Ergonomics > Wrist Pain
 
-Using a mouse can place strain on your wrist. Drawing tablets are generally less stressful on your wrist. However, they also can place strain.
+Using a mouse can place strain on your wrist. Drawing tablets are generally less stressful on your wrist. However, they can also place strain.
 
 ## Power
 
-Mice get their power from either a cable or they use batteries.
+Mice get their power either from a cable or from batteries.
 
 Modern drawing tablets all support wired connection through USB. Some tablets also support wireless connection through Bluetooth.
 
-The pens for a modern drawing tablet neither use a cable nor do they have batteries. Instead they get power simply from being near the drawing tablet.
+The pens for a modern drawing tablet neither use a cable nor have batteries. Instead, they get power simply by being near the drawing tablet.
 
-## ProTip: Match aspect ratios when using a pen tablet
+## Pro tip: Match aspect ratios when using a pen tablet
 
 Make sure you match aspect ratios when using a pen tablet so drawing feels natural and your strokes are not distorted. More here: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md)

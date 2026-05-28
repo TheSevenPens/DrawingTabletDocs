@@ -2,25 +2,25 @@
 
 ## Overview
 
-The undisputed leading brand is **Wacom** ([https://www.wacom.com](https://www.wacom.com)). They have a variety of products and different price points that should fit everyone's needs. If you don't want to weigh the pros and cons of different brands and want an easy answer then choose Wacom.&#x20;
+The undisputed leading brand is **Wacom** ([https://www.wacom.com](https://www.wacom.com)). It has a wide variety of products at different price points that should fit most needs. If you do not want to weigh the pros and cons of different brands and want an easy answer, choose Wacom.
 
-My experience: I currently own 39 Wacom tablets (6 pen displays and 33 pen tablets). I have extensively used every tablet in their professional series.&#x20;
+My experience: I currently own 39 Wacom tablets — 6 pen displays and 33 pen tablets. I have extensively used every tablet in its professional series.
 
-Some basic summaries of their leading series of tablets
+Here are some basic summaries of its leading tablet series:
 
-* **Intuos Pro** - professional pen tablets. continue to be the best pen tablets ever made
-* **Cintiq Pro** - professional pen displays - continue to be the best pen displays ever made
-* **One by Wacom** - consumer pen tablets - are terrific beginner tablets
-* **Wacom One** - consumer pen tablets and pen displays - mixed bag of results here.&#x20;
+* **Intuos Pro** - Professional pen tablets. They continue to be the best pen tablets ever made.
+* **Cintiq Pro** - Professional pen displays. They continue to be the best pen displays ever made.
+* **One by Wacom** - Consumer pen tablets. These are terrific beginner tablets.
+* **Wacom One** - Consumer pen tablets and pen displays. Results are more mixed here.
 
 ## What Wacom does well
 
-* Best EMR tech. This may not be obvious just by comparing specs, but their EMR tablet technology is ahead.&#x20;
+* Best EMR tech. This may not be obvious just by comparing specs, but its EMR tablet technology is ahead.
 * Long-term reliability. Their older tablets (20+ years old) still work today if you use the appropriate driver.
-* They have products for beginners, intermediate users, and professionals - but even their beginner products are very high quality.
-* They have good support.&#x20;
-* They monitor and respond to questions on [https://www.reddit.com/r/wacom](https://www.reddit.com/r/wacom)&#x20;
+* It has products for beginners, intermediate users, and professionals — but even its beginner products are very high quality.
+* It has good support.
+* It monitors and responds to questions on [https://www.reddit.com/r/wacom](https://www.reddit.com/r/wacom).
 
 ## Feature availability
 
-One thing you'll notice about Wacom is that they tend to keep certain features in their professional line of products. In fact over time they have tended to remove features from their consumer tablets and move them only to the pro line. Other manufacturers tend to have those features consumer and professional lines.
+One thing you will notice about Wacom is that it tends to keep certain features in its professional product line. In fact, over time, it has tended to remove features from its consumer tablets and reserve them for the pro line. Other manufacturers tend to offer those features in both their consumer and professional lines.
