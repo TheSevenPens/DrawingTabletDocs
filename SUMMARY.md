@@ -361,7 +361,7 @@
     * [Auxiliary input devices](catalog/accessories/auxiliary-input-devices/README.md)
       * [TourBox](catalog/accessories/auxiliary-input-devices/tourbox/README.md)
         * [TourBox notes](catalog/accessories/auxiliary-input-devices/tourbox/tourbox-notes.md)
-      * [8bitdo controller](catalog/accessories/auxiliary-input-devices/8bitdo-controller.md)
+      * [8BitDo controller](catalog/accessories/auxiliary-input-devices/8bitdo-controller.md)
       * [Clip Studio Tabmate](catalog/accessories/auxiliary-input-devices/clip-studio-tabmate.md)
       * [Xencelabs Quick Keys](catalog/accessories/auxiliary-input-devices/xencelabs-quick-keys.md)
       * [XP-Pen Shortcut Remote](catalog/accessories/auxiliary-input-devices/xppen-shortcut-remote.md)

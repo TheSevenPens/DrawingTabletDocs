@@ -5,7 +5,7 @@
 Using a monitor arm with your pen display comes down to whether your pen display is VESA mountable.
 
 * **If your pen display is VESA mountable**, you can use a VESA compatible monitor arm.
-* **If your pen display is not VESA mountable,** there are some options
+* **If your pen display is not VESA mountable,** there are still some options.
 
 {% hint style="info" %}
 Instead of an arm, you might also explore [Stands](../stands/) for your tablets.
@@ -13,7 +13,7 @@ Instead of an arm, you might also explore [Stands](../stands/) for your tablets.
 
 ## Arm wobble
 
-All monitor arms have some amount of wobble. Some have more and some have less. But NONE of them feel "rock solid"
+All monitor arms have some amount of wobble. Some have more and some have less. But none of them feel "rock solid."
 
 One thing that will help reduce the wobble is if the bottom of the pen display rests on something like your desk.
 
@@ -21,7 +21,7 @@ If you want to have ZERO wobble you need to use a stand with your pen display.
 
 ## **Wacom Flex arm**
 
-Wacom has designed an arm for their Cintiq line called the Wacom Flex arm that is specifically designed for their product. Not that this arm only works with specific Cintiq models.
+Wacom has designed an arm for the Cintiq line called the Wacom Flex Arm. It is specifically designed for these products. Note that this arm only works with specific Cintiq models.
 
 * [MobileTechReview: Wacom Ergo Flex Arm for Cintiq Pro 24 & 32 Review](https://www.youtube.com/watch?v=iuqRv5wN2p8) Dec 17, 2018
 * [Brad Colbow - Wacom Flex Arm Review](https://www.youtube.com/watch?v=4zIKQqBeF9o) Dec 10, 2018
@@ -73,7 +73,7 @@ For smaller pen displays that are about the size of a laptop, you can try an arm
 Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209)\
 ![](../../../.gitbook/assets/image-000199.jpg)
 
-If your pen there are some larger brackets available also.
+If your pen display is larger, there are some larger brackets available as well.
 
 One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
 
@@ -81,19 +81,19 @@ One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
 
 <figure><img src="../../../.gitbook/assets/image-000557.webp" alt="" width="188"><figcaption></figcaption></figure>
 
-Some things to watchout for with these brackets before you buy them
+Some things to watch out for with these brackets before you buy them:
 
-* Will they block access to any ports on your tablet
-* Will the brackets bo beyond the bezel and cover the glass of the tablet
-* How securely will they hold your tablet
-* How much weight can they support
-* How much wobble will they have if you try to draw on the tablet
+* Will they block access to any ports on your tablet?
+* Will the brackets go beyond the bezel and cover the glass of the tablet?
+* How securely will they hold your tablet?
+* How much weight can they support?
+* How much wobble will they have if you try to draw on the tablet?
 
 ### Other examples
 
 * [r/drawingtablet - Kamvas Pro 16 Setup](https://www.reddit.com/r/drawingtablet/comments/1mrshrw/kamvas_pro_16_setup/) 8/16/2025
-  * north bayou pole desk mount arm
-  * vivo universal vesa adapter
+  * North Bayou pole desk mount arm
+  * VIVO universal VESA adapter
   * industrial strength velcro strips
 * [r/huion - DIY arm mount | Kamvas 16 (2021)](https://www.reddit.com/r/huion/comments/ryrt3x/diy_arm_mount_kamvas_16_2021/) 1/7/2022
 * [r/huion - Finally Found A Use For This Stand :)](https://www.reddit.com/r/huion/comments/159hnvy/finally_found_a_use_for_this_stand/) 7/25/2023

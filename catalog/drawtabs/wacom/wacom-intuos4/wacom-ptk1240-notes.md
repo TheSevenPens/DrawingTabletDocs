@@ -1,6 +1,6 @@
 # Wacom Intuos 4 XL (PTK-1240) notes
 
-I also have used the **Intuos 4 XL** extensively.&#x20;
+I have also used the **Intuos 4 XL** extensively.
 
 This is an extra large tablet. Using a tablet at this size is very different.
 
@@ -18,9 +18,4 @@ Keep in mind this tablet does not use the more recent pens like Wacom Pro Pen 2.
 
 **Availability**
 
-It hasn't been produced for years. So,  you'll have to find them on eBay. They can range in price from $100 to $500.
-
-
-
-
-
+It hasn't been produced for years, so you'll have to find one on eBay. Prices can range from $100 to $500.

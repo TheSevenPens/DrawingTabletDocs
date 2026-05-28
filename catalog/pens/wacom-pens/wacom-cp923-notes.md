@@ -2,13 +2,11 @@
 
 ## Overview
 
-Wacom introduced this pen in 2023. It is a terrible pen. Because of of how it handles pressure. I prefer using the Wacom One Pen 2019 GEN1 (CP-913) instead.
-
-
+Wacom introduced this pen in 2023. It is a terrible pen because of how it handles pressure. I prefer using the Wacom One Pen 2019 GEN1 (CP-913) instead.
 
 <figure><img src="../../../.gitbook/assets/image-000595.jpg" alt=""><figcaption></figcaption></figure>
 
-Officially the name of the CP-923 pen is "Wacom One Standard Pen"  but that name is confusing so I will call it one of the following names:
+Officially the name of the CP-923 pen is "Wacom One Standard Pen" but that name is confusing so I will call it one of the following names:
 
 * Wacom One Pen GEN2 pen
 * Wacom One 2023 pen
@@ -16,7 +14,7 @@ Officially the name of the CP-923 pen is "Wacom One Standard Pen"  but that name
 
 ### The Old Wacom One Pen (CP-913)
 
-Below is the old Wacom One Pen (CP-913). It is better than the CP-913. It only has one button but the pressure handling is a bit better.
+Below is the old Wacom One Pen (CP-913). It is better than the CP-923. It only has one button, but the pressure handling is a bit better.
 
 <figure><img src="../../../.gitbook/assets/image-000599.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -48,8 +46,6 @@ This pen supports 4096 levels of pressure. Same as the CP-913 pen. As a reminder
 
 ## Compatibility
 
-
-
 ### Backwards compatibility
 
 Wacom lists these tablets as compatible with the CP-923
@@ -62,13 +58,13 @@ Wacom lists these tablets as compatible with the CP-923
 
 ## Note on backwards compatibility with the DTC-133
 
-I tested 3 units of the CP-923 it it works with the DTC-133.&#x20;
+I tested three units of the CP-923, and it works with the DTC-133.
 
 * Note: the CP-923 pen has two buttons, however the Wacom Driver only lets you use 1 button with the DTC-133.
 
 ### Forwards compatibility
 
-* The old pen (CP-913) does work with new new Wacom One 2023 GEN2  tablets
+* The old pen (CP-913) does work with new Wacom One 2023 GEN2 tablets.
 
 ### Samsung Galaxy S compatibility
 
@@ -86,5 +82,4 @@ I tested 3 units of the CP-923 it it works with the DTC-133.&#x20;
 
 ## Max Pressure
 
-<table><thead><tr><th width="124">RAND</th><th width="121">PEN</th><th width="110">INVENTORY</th><th width="123">PHYSICAL</th><th width="120">LOGICAL</th></tr></thead><tbody><tr><td>WACOM</td><td>CP-923</td><td>WA0009</td><td>285.1gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0010</td><td>219.4gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0011</td><td>267.4gf</td><td>99.90%</td></tr></tbody></table>
-
+<table><thead><tr><th width="124">BRAND</th><th width="121">PEN</th><th width="110">INVENTORY</th><th width="123">PHYSICAL</th><th width="120">LOGICAL</th></tr></thead><tbody><tr><td>WACOM</td><td>CP-923</td><td>WA0009</td><td>285.1gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0010</td><td>219.4gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0011</td><td>267.4gf</td><td>99.90%</td></tr></tbody></table>

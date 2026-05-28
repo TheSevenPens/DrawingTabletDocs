@@ -2,7 +2,7 @@
 
 ## Overview
 
-When working with pen displays tablets you'll encounter lots of different connector types. This is a visual map of those connectors.
+When working with pen display tablets, you'll encounter lots of different connector types. This is a visual map of those connectors.
 
 ## Terminology
 
@@ -17,8 +17,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HD
 
 ## DisplayPort connectors
 
-
-
 Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/wiki/DisplayPort)
 
 Normal-sized DisplayPort connectors
@@ -31,11 +29,11 @@ Mini-DisplayPort connectors
 
 ## USB-C connectors
 
-![](<../../.gitbook/assets/image-000708.jpg>)
+![](../../.gitbook/assets/image-000708.jpg)
 
 Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
-The important thing to remember about USB-C is that it is a popular connector type, but it often not clear what a given cable or port support. For example:
+The important thing to remember about USB-C is that it is a popular connector type, but it is often not clear what a given cable or port supports. For example:
 
 * Some ports and cables support power only
 * Some ports and cables support power + data
@@ -45,9 +43,9 @@ The important thing to remember about USB-C is that it is a popular connector ty
 
 ## Thunderbolt 3 and 4 connectors
 
-Thunderbolt 3 and 4 use the same USB-C port shape.&#x20;
+Thunderbolt 3 and 4 use the same USB-C port shape.
 
-The important thing about thunderbolt cables and ports is that they are required to carry a display signal. So, if your USB
+The important thing about Thunderbolt cables and ports is that they are required to carry a display signal. So, if your USB-C cable or port supports Thunderbolt 3 or 4, it can carry a display signal.
 
 Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_\(interface\))
 
@@ -55,7 +53,7 @@ Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.w
 
 ## Thunderbolt 2 connectors
 
-Thunderbolt 2 connectors use the min-DisplayPort connector type. And again by definition they can carry a display signal.
+Thunderbolt 2 connectors use the mini-DisplayPort connector type. Again, by definition, they can carry a display signal.
 
 ![](../../.gitbook/assets/image-000704.jpg)
 

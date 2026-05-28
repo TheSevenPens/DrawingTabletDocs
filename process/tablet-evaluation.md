@@ -1,10 +1,10 @@
 # Tablet notes template
 
-These are my notes on the things to look at when I evaluate a tablet. This is a work in progress and evolves over time.&#x20;
+These are my notes on the things to look at when I evaluate a tablet. This is a work in progress. It evolves over time.
 
 ## Overview
 
-## Basics&#x20;
+## Basics
 
 * Product information
   * name
@@ -19,9 +19,7 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
     * link to size categories
   * Aspect ratio
   * Closest standard paper size
-*   What's in the box&#x20;
-
-
+* What's in the box
 
 ## Photos
 
@@ -43,17 +41,17 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * Brightness
   * Response Time
   * Refresh rate
-  * Color bi depth
+  * Color bit depth
   * Color gamut:
   * Color modes
 * Pen specs
   * Included pen
     * Default nib
-      * Eval of pen should be in separate doc
+      * The pen evaluation should be in a separate doc
   * Pen compatibility
     * Compatible
     * Incompatible pens (if needed for clarification)
-* Device specs&#x20;
+* Device specs
   * Size
   * Weight
   * Ports
@@ -69,16 +67,19 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * How close to notice
   * How much of colorful rainbow effect
 * Viewing angle
-  * look for loss of contrast
+  * Look for loss of contrast
 * Surface protection
   * Does it come with screen protector
   * Is a first party screen protector available
-* Sharpness
-  * Looking for clearly defined pixel
-  * Looking for lack of "softness"
-  *
+*   Sharpness
 
-      <div align="left"><figure><img src="../.gitbook/assets/image-000157.png" alt="" width="96"><figcaption></figcaption></figure></div>
+    * Looking for clearly defined pixels
+    * Looking for lack of "softness"
+    *
+
+    ```
+    <div align="left"><figure><img src="../.gitbook/assets/image-000157.png" alt="" width="96"><figcaption></figcaption></figure></div>
+    ```
 * Display OSD
   * how to activate
   * menus
@@ -89,7 +90,7 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 
 * Static track accuracy
   * Stated accuracy from manufacturer
-* Corner and edge accuracy&#x20;
+* Corner and edge accuracy
   * Look for accuracy at corners and edges
 * Tilt compensation
 * Tilt at edges and corners
@@ -97,7 +98,7 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
   * [Measuring diagonal wobble](measuring/measuring-diagonal-wobble.md)
 * Artifacts at low pressure
 * Pressure banding
-* PEN Pressure range (IAF and MAX)
+* Pen pressure range (IAF and MAX)
 * Pressure scan rate
 * Parallax
 * Pointer lag
@@ -105,15 +106,15 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 * Surface texture
 * Backlight bleed
 
-## Connections and cablings
+## Connections and cabling
 
 * Are ports recessed
 * What cables are included
   * 3-in-1
   * other
-* Connection opton diagams
+* Connection option diagrams
   * Are cables included
-* Does it support single USB-cable connection
+* Does it support a single USB-C cable connection
 
 ## Other inputs
 
@@ -127,14 +128,14 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 
 * VESA
   * Which VESA size
-  * If you used it with an monitor arm, identify the arm
+  * If you used it with a monitor arm, identify the arm
 * Stand
   * Identify model number of stand
   * Does the stand use VESA mounting?
   * How much wobble does the stand have
   * Does the stand support height adjustment
   * Does the stand support tilt adjustment
-  * If you used it with stand , identify the stand
+  * If you used it with a stand, identify the stand
 * Legs
 * Fans
 * Noise
@@ -145,7 +146,6 @@ These are my notes on the things to look at when I evaluate a tablet. This is a 
 
 ## Usage scenario
 
-* With Androird
+* With Android
 * With Chromebook
-* Can you use the pen display as a pen tablet?&#x20;
-
+* Can you use the pen display as a pen tablet?

@@ -6,7 +6,7 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
 
 ## Compatibility
 
-* Huion list of compatible tablets:&#x20;
+* Huion list of compatible tablets:
   * H640P
   * H950P
   * H1060P
@@ -20,23 +20,19 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
   * Tilt: worked
   * Buttons: worked
 * PenTech: 2.0
-* Huion store link: [https://store.huion.com/products/battery-free-pen-pw100](https://store.huion.com/products/battery-free-pen-pw100)&#x20;
+* Huion store link: [https://store.huion.com/products/battery-free-pen-pw100](https://store.huion.com/products/battery-free-pen-pw100)
 *   Pen Compatibility as of 2026-02-06 from Huion's website
-
-
 
     <figure><img src="../../../.gitbook/assets/image-000529.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Pressure range
 
-I only have one unit and based on my testing
+I only have one unit, and based on my testing:
 
 * The IAF is about 12gf
 * The maximum pressure is about 250gf
 
 ## Photos
-
-
 
 <figure><img src="../../../.gitbook/assets/image-000540.jpg" alt="" width="188"><figcaption></figcaption></figure>
 

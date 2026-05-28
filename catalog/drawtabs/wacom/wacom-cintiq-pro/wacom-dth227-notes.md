@@ -2,11 +2,11 @@
 
 ## Summary
 
-The Cintiq Pro 22 (DTH-227) along with the Cintiq Pro 27 (DTH-271) are the best pen displays in the market as of July 22.
+The Cintiq Pro 22 (DTH-227), along with the Cintiq Pro 27 (DTH-271), is one of the best pen displays on the market as of July 2025.
 
 This is my favorite tablet of the 70+ that I own. I prefer drawing on this one more than any other because of the drawing quality and the size (not too big, not too small).
 
-* my notes on the [Wacom Cintiq Pro 27 (DTH-271) notes](wacom-dth271-notes.md)
+* My notes on the [Wacom Cintiq Pro 27 (DTH-271)](wacom-dth271-notes.md)
 
 ## Basics
 
@@ -20,7 +20,7 @@ This is my favorite tablet of the 70+ that I own. I prefer drawing on this one m
 
 ## Pens
 
-Comes with a Wacom Pro Pen 3
+Comes with a Wacom Pro Pen 3.
 
 ## Compatible pens
 
@@ -35,11 +35,11 @@ I mostly use the Wacom Pro Pen 2 with this tablet.
 * Size: 26.9 in (68.3 cm)
 * Brightness: 300 nits.
   * I run it at 50% brightness.
-  * The larger Cintiq Pro 27 is can get up to 400nits of brightness
+  * The larger Cintiq Pro 27 can get up to 400 nits of brightness.
 * Display panel tech: IPS
 * Color Depth: 10bit (per channel)
 * Laminated: yes
-* AG Treatmement: Etched glass
+* AG treatment: Etched glass
 * Refresh rate: 120Hz.
   * I run it at 60Hz
 
@@ -86,7 +86,7 @@ EXCELLENT - very little parallax.
 ### Pen tracking accuracy
 
 * Wacom does not publish numbers
-* I found it to be extremely accurate at the edged and corners
+* I found it to be extremely accurate at the edges and corners.
   * A bit more accurate than the Cintiq Pro 27 (DTH-271)
 
 ### Diagonal wobble
@@ -114,11 +114,11 @@ Switching to 120Hz makes a little bit of difference to pointer lag but not much.
 
 ### Using single USB-C cable
 
-Unlike many other 16" pen displays, a single USB-C cable is not enough to power this tablet. You Still have to use their supplied power adapter.
+Unlike many other 16" pen displays, a single USB-C cable is not enough to power this tablet. You still have to use the supplied power adapter.
 
 ### How I connect it to my PC
 
-Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable to connect it to the USB 4 port on my mini pc. The diagram below shows how it is connected.
+Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable to connect it to the USB4 port on my mini-PC. The diagram below shows how it is connected.
 
 <figure><img src="../../../../.gitbook/assets/image-000495.png" alt=""><figcaption></figcaption></figure>
 
@@ -136,7 +136,7 @@ Supports touch.
 * total of 8
 * 4 on back left
 * 4 on back right
-* I don't enjoy the express keys. I find them awkward to use. Instead I use a tourbox.
+* I don't enjoy the ExpressKeys. I find them awkward to use. Instead, I use a TourBox.
 
 ## Build quality
 
@@ -161,8 +161,8 @@ There is no control over the speed of the fans.
 ### Noise
 
 * The fan noise is always on.
-* Quieter than than the Cintiq Pro 27 (DTH-271) but louder than the Cintiq Pro 16 (DTH-167).
-* At 50% brightness the noise the noise is audible but does not bother me unlike the DTH-271 which I am irritated by. With normal sounds in my office (Air conditioner, etc) I often can't pick up the sound.
+* Quieter than the Cintiq Pro 27 (DTH-271), but louder than the Cintiq Pro 16 (DTH-167).
+* At 50% brightness, the noise is audible but does not bother me, unlike the DTH-271, which irritates me. With normal sounds in my office, such as the air conditioner, I often can't hear it.
 
 ### Stand
 
@@ -177,11 +177,11 @@ I used this tablet with two different non-Wacom stands:
 
 ### Legs
 
-It does NOT have any legs
+It does NOT have any legs.
 
 ### Laying flat
 
-The back of the the pen display has pieces that stick out due to the buttons. This means:
+The back of the pen display has pieces that stick out due to the buttons. This means:
 
 * It does not lay down flat on a desk
 * It will slide around easily

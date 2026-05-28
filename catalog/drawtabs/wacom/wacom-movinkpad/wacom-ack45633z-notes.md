@@ -4,20 +4,16 @@
 
 ## Summary
 
-Overpriced and Underdelivers
+Overpriced and underdelivering.
 
 * Product page: [https://estore.wacom.com/en-us/wacom-movinkpad-pro-14-cover-ack45633z.html](https://estore.wacom.com/en-us/wacom-movinkpad-pro-14-cover-ack45633z.html)
-* Does not magnetically grip strong enough - do not hold by the cover alone. The tablet will come loose
-* Expensive for its performance and materials - should be priced at $15 not $60
-* At least my favorite standalone tablet has **some** protection
+* Does not grip strongly enough magnetically. Do not hold it by the cover alone. The tablet can come loose.
+* Expensive for its performance and materials. It should be priced closer to $15 than $60.
+* At least my favorite standalone tablet now has **some** protection.
 * The cover doesn't block all the light from the MovinkPad screen. For example, if you are in a dark room and the MovinkPad screen is on, you can see the screen through the cover.
 
-
-
-*
-
-    <figure><img src="../../../../.gitbook/assets/image-000124.jpg" alt="" width="375"><figcaption><p>dark room - 100% brightness</p></figcaption></figure>
-
-
+```
+<figure><img src="../../../../.gitbook/assets/image-000124.jpg" alt="" width="375"><figcaption><p>dark room - 100% brightness</p></figcaption></figure>
+```
 
 <figure><img src="../../../../.gitbook/assets/image-000125.jpg" alt="" width="375"><figcaption><p>dark room - 50% brightness</p></figcaption></figure>

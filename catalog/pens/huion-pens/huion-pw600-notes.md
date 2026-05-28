@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-As of July 2025, the Heion PW600 series is the best non-Wacom pen I've seen. It was good IAF, a wide pressure range, and comes very close to the Wacom Pro Pen 2.
+As of July 2025, the Huion PW600 series is the best non-Wacom pen I've seen. It has good IAF, a wide pressure range, and comes very close to the Wacom Pro Pen 2.
 
 ## **Pen compatibility**
 
@@ -14,33 +14,31 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 <figure><img src="../../../.gitbook/assets/image-000523.png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ## **Models**
 
 * PW600
 * PW600S
 * PW600L
 
-## **Pen buttons**&#x20;
+## **Pen buttons**
 
 * PW600 has 3 buttons
 * PW600S has 2 buttons
 * PW600L has 3 buttons
 
-## **Pen button feel**&#x20;
+## **Pen button feel**
 
-&#x20;GOOD. the buttons on these pens have a nicer "crisper" clicking action than the buttons of the PW517 which feel a bit soft/mushy in comparison
+GOOD. The buttons on these pens have a nicer, crisper click than the buttons on the PW517, which feel a bit soft and mushy in comparison.
 
-## **Pen IAF**&#x20;
+## **Pen IAF**
 
 GOOD. Huion says 2gf for these pens. Seems accurate. A little more sensitive than the PW517 pen which is at about 3gf.
 
-## **Pen maximum pressure**&#x20;
+## **Pen maximum pressure**
 
-VERY GOOD.&#x20;
+VERY GOOD.
 
-Huion states 500gf. I saw some variance a little bit of variance - not much. Overall the PW600 pens are very consistent.
+Huion states 500 gf. I saw a little variance, but not much. Overall, the PW600 pens are very consistent.
 
 <table><thead><tr><th width="150">Pen</th><th>7P Inventory ID</th><th>Max Pressure</th></tr></thead><tbody><tr><td>PW600</td><td>HU1014</td><td>~550gf</td></tr><tr><td>PW600</td><td>HU1017</td><td>~500gf</td></tr><tr><td>PW600</td><td>HU1016</td><td>~460gf</td></tr><tr><td>PW600S</td><td>HU1010</td><td>~510gf</td></tr><tr><td>PW600L</td><td>HU1018</td><td>~550gf</td></tr></tbody></table>
 
@@ -48,13 +46,13 @@ Huion states 500gf. I saw some variance a little bit of variance - not much. Ove
 
 <figure><img src="../../../.gitbook/assets/image-000478.png" alt=""><figcaption></figcaption></figure>
 
-## PW600 series compatibility with older tablets&#x20;
+## PW600 series compatibility with older tablets
 
 The new pens are NOT compatible with older Huion tablets.
 
 ## Pen weight
 
-I measured with a digital scale
+I measured these with a digital scale:
 
 * PW600 = 16g
 * PW600S = 14g
@@ -62,7 +60,7 @@ I measured with a digital scale
 
 ## **Pen eraser**
 
-the PW600 and PW600S pens do have an eraser. I don't user erasers so don't have any particular comment on it.
+The PW600 and PW600S pens do have an eraser. I don't use erasers, so I don't have any particular comment on it.
 
 The PW600L does NOT have an eraser.
 
@@ -70,4 +68,4 @@ The PW600L does NOT have an eraser.
 
 The older PW517 pen has a rubber grip around the barrel near the buttons.
 
-The PW600 series pen us plastic - but the plastic has a slight texture and feel very slightly soft compared to a more traditional plastic barrel. I found it very pleasant to hold and easy to grip.
+The PW600 series pen is plastic, but the plastic has a slight texture and feels very slightly soft compared to a more traditional plastic barrel. I found it very pleasant to hold and easy to grip.

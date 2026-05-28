@@ -4,7 +4,7 @@
 
 One of the most important pieces of information you need to collect if you need help with your drawing tablet is its model number. Knowing it will accelerate discussions with support and with community members who are trying to help you.
 
-One reason it is very useful is that tablet are sometimes often similarly named, and sometimes they have the same name but come from different generations from different years. Having the model number removed ambiguity about which tablet is being discussed.
+One reason it is very useful is that tablets are often similarly named. Sometimes they even have the same name but come from different generations and different years. Having the model number removes ambiguity about which tablet is being discussed.
 
 ## Model number is printed on the tablet
 
@@ -20,9 +20,9 @@ Here's an example from the packaging of the XP-Pen Deco LW
 
 ## Model number is shown in the driver
 
-If you have installed compatible tablet drivers for your drawing tablet usually there's some place where the drivers will tell you the exact model number.
+If you have installed compatible tablet drivers for your drawing tablet, there is usually some place where the driver will tell you the exact model number.
 
-This will typically we found in some kind of diagnostic tool in the tablet driver UI.
+This will typically be found in some kind of diagnostic tool in the tablet driver UI.
 
 Here are some examples:
 
@@ -34,7 +34,7 @@ Click **About > Diagnose**
 
 ### Model number in the Wacom Center app
 
-When you select a tablet you will see it right on the home page for that tablet.&#x20;
+When you select a tablet you will see it right on the home page for that tablet.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000413.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -46,7 +46,7 @@ As of 2024-02-27 the driver app does not provide any way to see the model number
 
 As of 2024-02-27 the driver app does not provide any way to see the model number, only the name.
 
-## Find the model number on the packaging the tablet arrived in
+## Find the model number on the packaging your tablet arrived in
 
 If you got your tablet inside its original packaging, the model number may be printed somewhere.
 
@@ -60,10 +60,10 @@ If you have the original documentation that came with the tablet, it might also 
 
 ## Find the model number based on photos
 
-Sometimes you don't have the driver and you don't see the model number so you're going to have to go just by the way the device looks.
+Sometimes you do not have the driver, and you do not see the model number, so you have to go by the way the device looks.
 
-And for this you need the help of either customer support from your drawing tablet manufacturer or you need help from the community.
+For this, you need help either from your drawing tablet manufacturer's customer support or from the community.
 
-In either case what you can do here is take some pictures of the tablet: front, back, sides that have ports, etcetera. Any photos that show distinguishing characteristics can be useful.
+In either case, what you can do is take some pictures of the tablet: front, back, sides with ports, etc. Any photos that show distinguishing characteristics can be useful.
 
-Make sure to get some clear lighting on the tablet because many tablets are black plastic or dark Gray plastic and so it can be really difficult to make out visuals.
+Make sure you have clear lighting on the tablet because many tablets are black or dark gray plastic, and it can be very difficult to make out visual details.

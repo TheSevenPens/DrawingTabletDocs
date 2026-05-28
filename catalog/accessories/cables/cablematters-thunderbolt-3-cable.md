@@ -2,7 +2,7 @@
 
 ## Overview
 
-For connecting my pen displays I often use this cabl&#x65;**:** CableMatters \[Intel Certified] 20Gps Thunderbolt 3 cable (6.6 ft) supporting 100W charging. ([amazon link](https://www.amazon.com/dp/B01AS8U9KE))
+For connecting my pen displays, I often use this cable: CableMatters \[Intel Certified] 20 Gbps Thunderbolt 3 cable (6.6 ft), supporting 100 W charging. ([Amazon link](https://www.amazon.com/dp/B01AS8U9KE))
 
 <figure><img src="../../../.gitbook/assets/image-000166.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -11,19 +11,19 @@ For connecting my pen displays I often use this cabl&#x65;**:** CableMatters \[I
 Windows setup
 
 * Surface Pro 8
-* TB3 cable plugged directly between Surface Pro and pen tablet
+* TB3 cable plugged directly between Surface Pro and pen display
 
 MacOS setup
 
 * M3 MacBook Pro
-* TB3 cable plugged directly between MacBook and pen tablet
+* TB3 cable plugged directly between MacBook and pen display
 
 **Note on recessed USB-C ports and cable plug thickness**
 
-* For the CableMatters Usb-C cable, the **cable ends are a little too thick** to be plugged into some ports that are recessed.
+* For the CableMatters USB-C cable, the **cable ends are a little too thick** to fit into some recessed ports.
 * I had to remove some plastic from one of the ends to fit it into the tablets using a knife.
 * ![](<../../../.gitbook/assets/image-000732 (2).jpg>)![](<../../../.gitbook/assets/image-000733 (2).jpg>)
-* This plastic was tough to cut. I didn't do a very clean job but it **just barely** fits into the port - the fit is very snug and I should probably remove just a little more.
+* This plastic was tough to cut. I did not do a very clean job, but it **just barely** fits into the port. The fit is very snug, and I should probably remove a little more.
 
 ## Testing results
 

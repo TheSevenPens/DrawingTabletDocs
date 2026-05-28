@@ -2,13 +2,13 @@
 
 ## Overview
 
-This is a quite nice stand.&#x20;
+This is a quite nice stand.
 
-**Size** - It's designed for a 16" pen display. It works well also for 19" pen displays also.
+**Size** - It is designed for a 16" pen display. It also works well for 19" pen displays.
 
-Angles - It folds to provide two angles: 18 deg and 32 deg. &#x20;
+Angles - It folds to provide two angles: 18° and 32°.
 
-The rubber grips do a good job holding on the the tablet and preventing the stand from sliding over the desk.
+The rubber grips do a good job holding the tablet and preventing the stand from sliding on the desk.
 
 ## Photos
 

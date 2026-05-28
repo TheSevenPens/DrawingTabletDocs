@@ -2,13 +2,13 @@
 
 ## Summary
 
-Very promising but not ready for most people. As of December 2025 this is a BETA feature part of the Wacom Labs application.
+Very promising, but not ready for most people. As of December 2025, this is a beta feature in the Wacom Labs application.
 
-My recommendation: Wait until this is improved.&#x20;
+My recommendation: Wait until this is improved.
 
 ## Links
 
-* [Teoh on Tech - Wacom Instant Pen Display Mode: Pros, cons, limitations](https://www.youtube.com/watch?v=QfyWMFIw1a4) - 2028/02/18
+* [Teoh on Tech - Wacom Instant Pen Display Mode: Pros, cons, limitations](https://www.youtube.com/watch?v=QfyWMFIw1a4) - 2028-02-18
 
 ## Overview
 
@@ -17,25 +17,25 @@ Background: This is a feature to make the MovinkPad Pro 14 work like a pen displ
 ## Compatibility
 
 * Wacom MovinkPad Pro 14
-* Wacom MovinkPad 11&#x20;
+* Wacom MovinkPad 11
 
 ## Notes
 
 ### Installation
 
-* Clunky and complicated to find, download, and setup.&#x20;
+* Clunky and complicated to find, download, and set up.
 
 ### Connection methods
 
-* Instant pen display supports both wired and wireless connection via WiFi. Wireless will have very noticable latency which you can see in other reviews.
-* I only tested with a wired connection
+* Instant Pen Display supports both wired and wireless connections via Wi-Fi. Wireless has very noticeable latency, which you can see in other reviews.
+* I only tested it with a wired connection.
 
 ### Latency
 
 * Wired: surprisingly good!
 * Wireless: I did not test.
 * Additional pointer lag: very slight. Totally usable. While drawing I think most people would forget.
-* Based on feedback from others, I definitely recommend using it in wired mode instead of wireless&#x20;
+* Based on feedback from others, I definitely recommend using it in wired mode instead of wireless.
 
 ### Wacom driver
 

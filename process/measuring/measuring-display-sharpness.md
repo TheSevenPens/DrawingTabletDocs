@@ -2,13 +2,13 @@
 
 ## Overview
 
-Pen displays have some anti-glare treatment that introduces a small amount of blur. It can vary widely between pen displays. I've created a simple test image to so I can consistently evaluate the blur.
+Pen displays have some anti-glare treatment that introduces a small amount of blur. It can vary widely between pen displays. I've created a simple test image so I can consistently evaluate the blur.
 
-## Test image&#x20;
+## Test image
 
 It's a small PNG file with black and white pixels.
 
-There are 8 samples.&#x20;
+There are 8 samples.
 
 <figure><img src="../../.gitbook/assets/image-000150.png" alt=""><figcaption></figcaption></figure>
 

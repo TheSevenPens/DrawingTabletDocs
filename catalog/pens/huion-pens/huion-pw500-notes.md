@@ -2,13 +2,13 @@
 
 ## Overall
 
-Overall it performs decently. No obvious problems
+Overall, it performs decently. No obvious problems.
 
-store link: [https://store.huion.com/products/battery-free-pen-pw500](https://store.huion.com/products/battery-free-pen-pw500)
+Store link: [https://store.huion.com/products/battery-free-pen-pw500](https://store.huion.com/products/battery-free-pen-pw500)
 
 ## Compatible tablets
 
-Huion lists these compatible pens:
+Huion lists these compatible tablets:
 
 * HS611
 * Q620M
@@ -29,7 +29,7 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 The pen is a little "plastic-feeling" and does not have a premium feeling.
 
-The nib retracts a little more than than more modern EMR pens. It doesn't impact drawing, but it some people may not like the more "spongy" feeling.
+The nib retracts a little more than more modern EMR pens. It doesn't impact drawing, but some people may not like the more "spongy" feeling.
 
 ## Max pressure
 

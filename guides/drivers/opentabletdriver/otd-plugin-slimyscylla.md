@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Slimy Scylla** is created by tablet enthusiast Kuuube.&#x20;
+**Slimy Scylla** is created by tablet enthusiast Kuuube.
 
 It is extremely powerful and configurable.
 
@@ -14,13 +14,13 @@ It features many amazing filters:
 
 ## Installing Slimy Scylla
 
-Launch the OpenTableDriver UI
+Launch the OpenTabletDriver UI.
 
-Navigate to **Plugins** > **Open Plugin Manager**&#x20;
+Navigate to **Plugins** > **Open Plugin Manager**.
 
 <img src="../../../.gitbook/assets/image-000349.png" alt="" data-size="original">
 
-The plugin manager will look like this
+The plugin manager will look like this.
 
 <img src="../../../.gitbook/assets/image-000387.png" alt="" data-size="original">
 
@@ -28,44 +28,40 @@ Click on **Slimy Scylla** in the list on the left.
 
 Then click **Install**.
 
-![](<../../../.gitbook/assets/image-000348.png>)
+![](../../../.gitbook/assets/image-000348.png)
 
-Close the plugin manager
+Close the plugin manager.
 
-In the OpenTabletDriver app, click on **Filters**
+In the OpenTabletDriver app, click **Filters**.
 
-![](<../../../.gitbook/assets/image-000358.png>)
+![](../../../.gitbook/assets/image-000358.png)
 
-If Slimy Scylla is installed you will see many filters with names that start with "Slimy Scylla"
+If Slimy Scylla is installed, you will see many filters with names that start with "Slimy Scylla."
 
-![](<../../../.gitbook/assets/image-000270.png>)
+![](../../../.gitbook/assets/image-000270.png)
 
-If you want to use a filter make sure to enable it and to press SAVE.
+If you want to use a filter, make sure to enable it and press **Save**.
 
-## Position smoothing&#x20;
+## Position smoothing
 
 There are several filters that involve smoothing the position of the pen.
 
 * Position Smoothing Moving Average
 * Position Smoothing Pulled String
-* Position Smoothing Exponential Moving Average &#x20;
+* Position Smoothing Exponential Moving Average
 
-The one I recommend using is **Position Smoothing Exponental Moving Average**
+The one I recommend using is **Position Smoothing Exponential Moving Average**.
 
 ## Configuring Position Smoothing Exponential Moving Average
 
-This is what the configuration looks like:&#x20;
+This is what the configuration looks like:
 
 <figure><img src="../../../.gitbook/assets/image-000369.png" alt=""><figcaption></figcaption></figure>
 
-If you want to enable the filter, click **Enable Smily Scylla ...** at the top and click **Apply**.
+If you want to enable the filter, click **Enable Slimy Scylla ...** at the top and click **Apply**.
 
-**Amount** = how much smoothing (range 0.0 to 1.0). Try 0.1 to start with
+**Amount** = how much smoothing to apply, in a range from 0.0 to 1.0. Try 0.1 to start.
 
-**Always Apply to Hover** = to leave this unchecked.&#x20;
+**Always Apply to Hover** = leave this unchecked.
 
-Slimy Scylla docs here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy_Scylla/tree/main/docs)
-
-
-
-*
+Slimy Scylla docs are here: [https://github.com/Kuuuube/Slimy\_Scylla/tree/main/docs](https://github.com/Kuuuube/Slimy_Scylla/tree/main/docs)

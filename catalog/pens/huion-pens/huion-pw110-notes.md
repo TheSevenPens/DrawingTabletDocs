@@ -4,11 +4,11 @@
 
 Store link: [https://store.huion.com/products/battery-free-pen-pw110](https://store.huion.com/products/battery-free-pen-pw110) ([archive](https://archive.is/0mrnS))
 
-Huion lists this pen as using PenTech 3.0
+Huion lists this pen as using PenTech 3.0.
 
 ## Compatible tablets
 
-Huion lists the compatible tablets as
+Huion lists the compatible tablets as:
 
 * Inspiroy 2 S
 * Inspiroy 2 S
@@ -33,18 +33,18 @@ Huion lists these as compatible tablets:
 * Huion Inspiroy 2 M
 * Huion Inspiroy 2 L
 
-In my testing the PW110 has been cross-compatible with the PW517 pen
+In my testing, the PW110 has been cross-compatible with the PW517 pen.
 
 * Tablets that use the PW517 pen can also use the PW110
 * Tablets that use the PW110 pen can also use the PW517
 
 ## Pressure range
 
-I only have 2 unit and based on my testing
+I only have two units, and based on my testing:
 
 * The IAF is about 8 gf
 * The maximum pressure is highly variable - spanning from 175gf to 470gf depending on the unit
 
-These numbers are tyypical of PenTech 3.0 pens such as the PW517
+These numbers are typical of PenTech 3.0 pens such as the PW517.
 
 <figure><img src="../../../.gitbook/assets/image-000243.png" alt=""><figcaption></figcaption></figure>

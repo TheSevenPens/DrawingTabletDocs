@@ -19,7 +19,7 @@ NOTE: You may see the "kit" version with no RAM and no SSD being sold. Please ve
 
 ## Performance
 
-for my needs doing 2D art and heavily using clip studio paint and Photoshop this is done exceptionally well.
+For my needs, doing 2D art and heavily using Clip Studio Paint and Photoshop, this works exceptionally well.
 
 I do think this is not the right choice if you want to do any kind of serious gaming.
 
@@ -27,11 +27,11 @@ I do think this is not the right choice if you want to do any kind of serious ga
 
 Excellent
 
-For most of 2025 I have used a umm 870 slim as my primary windows art workstation.
+For most of 2025, I have used a UM870 Slim as my primary Windows art workstation.
 
-I have been using clip studio paint, Krita, Photoshop extensively on this device
+I have been using Clip Studio Paint, Krita, and Photoshop extensively on this device.
 
-I have been writing code using Visual Studio 2022
+I have been writing code using Visual Studio 2022.
 
 I've created scripts and PowerPoint slides for my videos using Microsoft Word and Microsoft PowerPoint.
 
@@ -43,9 +43,9 @@ This mini PC is very quiet.
 
 Even when my room is very quiet at night I cannot hear this mini PC. If I put my ear right next to the mini PC then yes I can hear the fans but it's a very light sound.
 
-When doing very heavy workloads for example exporting a video we hear the fans turn on but it's never been super loud.
+When doing very heavy workloads, for example exporting a video, I hear the fans turn on, but they have never been super loud.
 
-I didn't do anything like gaming with this mini PC so I didn't strain it in any other way .
+I did not do anything like gaming with this mini PC, so I did not strain it in any other way.
 
 In comparison- The M4 Mac mini in my usage for similar tasks has been completely silent.
 
@@ -55,11 +55,11 @@ I have this mini PC connected to a CalDigit TS4 Thunderbolt dock. This makes it 
 
 I have two cables going to this mini PC.
 
-One is the cable from the power adapter
+One is the cable from the power adapter.
 
-and the second is the Thunderbolt 4 cable from the CalDigit TS4 Thunderbolt dock
+The second is the Thunderbolt 4 cable from the CalDigit TS4 Thunderbolt dock.
 
-all other cables go through the CalDigit TS4 Thunderbolt dock.
+All other cables go through the CalDigit TS4 Thunderbolt dock.
 
 ## Portability
 
@@ -69,13 +69,13 @@ It's very easy to move between my desks.
 
 It's small enough to fit into a large jacket pocket.
 
-While the laptop does have its own advantages if you're traveling and sitting at a desk then it can make sense to bring a mini PC like this, along with append display that can act as both a drawing tablet and as a monitor.
+While a laptop does have its own advantages, if you're traveling and sitting at a desk, it can make sense to bring a mini PC like this along with a pen display that can act as both a drawing tablet and a monitor.
 
 ## What could be better
 
 This mini PC comes with one USB4 port - however I really wish it came with two USB4 ports because sometimes it seems like certain pen displays really need to be directly connected to a computer instead of going through a Thunderbolt dock like I normally use.
 
-Although I am very satisfied with this many PC I am looking forward to future mini PC's that:
+Although I am very satisfied with this mini PC, I am looking forward to future mini PCs that:
 
 * maintain this same size
 * maintain the same quiet operation

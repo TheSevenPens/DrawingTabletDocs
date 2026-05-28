@@ -2,15 +2,15 @@
 
 ## Overview
 
-TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an input device that simplifies doing artwork with a drawing tablet. [TourBox notes](tourbox-notes.md)
+TourBox ([https://www.tourboxtech.com/](https://www.tourboxtech.com/)) makes an input device that simplifies working with a drawing tablet. [TourBox notes](tourbox-notes.md)
 
 <figure><img src="../../../../.gitbook/assets/image-000600.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Summary
 
-Essentially the TourBox is like a keyboard/keypad that looks like a game controller - where the buttons are completely customizable. A single key or dial can even be set do perform different functions for different applications.
+Essentially, the TourBox is like a keyboard or keypad that looks like a game controller, where the buttons are completely customizable. A single key or dial can even be set to perform different functions in different applications.
 
-The key benefit of this device is that instead of using the keyboard while you are drawing - which frequently, you can use the TourBox instead to perform common actions like
+The key benefit of this device is that, instead of using the keyboard while you draw, you can use the TourBox to perform common actions like:
 
 * zoom in / zoom out
 * undo / redo
@@ -22,7 +22,7 @@ There are 4 models:
 * TourBox NEO - this was the first version
 * TourBox ELITE - this is an improved version that supports some haptic feedback and has wireless support
 * TourBox LITE - This is a simpler version that is just as big as the NEO and ELITE and has fewer controls.
-* Tourbox ELITE PLUS - This added the ability to work with iPads. It does not work with Android.
+* TourBox Elite Plus - This added the ability to work with iPads. It does not work with Android.
 
 ## TourBox Elite Plus
 
@@ -42,12 +42,12 @@ Released: 2024
 
 Released: 2023
 
-* [EyekooDrawsStuff - 6 reasons why the Tourbox Elite is the ultimate art controller for me](https://www.youtube.com/watch?v=_Nb4KSTPN6g) 2025-01-16
+* [EyekooDrawsStuff - 6 reasons why the TourBox Elite is the ultimate art controller for me](https://www.youtube.com/watch?v=_Nb4KSTPN6g) 2025-01-16
 * [Create Now Sleep Later review of the TourBox Elite](https://www.youtube.com/watch?v=lF6qwwP-QQA) 2024-11-29
 * [Aaron Rutten review of TourBox ELITE](https://www.youtube.com/watch?v=4KlcHw218s0) 2024-04-03
 * [Nadiaxel review of TourBox ELITE](https://youtu.be/yH_zSxUHSw0) 2023-06-15
 * [BoroCG review of TourBox ELITE](https://youtu.be/4BChI1SvIdE) 2021-12-02
-* [PetaPixel revie of TourBox ELITE](https://petapixel.com/2021-12-11/tourbox-elite-review-my-favorite-editing-tool-is-now-wireless/) 2021-12-11
+* [PetaPixel review of TourBox ELITE](https://petapixel.com/2021-12-11/tourbox-elite-review-my-favorite-editing-tool-is-now-wireless/) 2021-12-11
 
 ## TourBox NEO
 

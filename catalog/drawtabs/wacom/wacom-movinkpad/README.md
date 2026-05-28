@@ -1,4 +1,3 @@
 # Wacom MovinkPad
 
-<table><thead><tr><th width="183.79998779296875">Name</th><th width="128.5999755859375">Model Num</th><th width="100.4000244140625">Yes</th><th>Notes</th></tr></thead><tbody><tr><td>MovinkPad Pro 14 </td><td>DTH-A140</td><td>2025</td><td><a href="wacom-dtha140-notes.md">notes on this tablet</a></td></tr><tr><td>MovinkPad 11 </td><td>DTH-A116</td><td>2025</td><td><a href="wacom-dtha116-notes.md">notes on this tablet</a></td></tr></tbody></table>
-
+<table><thead><tr><th width="183.79998779296875">Name</th><th width="128.5999755859375">Model number</th><th width="100.4000244140625">Year</th><th>Notes</th></tr></thead><tbody><tr><td>MovinkPad Pro 14</td><td>DTH-A140</td><td>2025</td><td><a href="wacom-dtha140-notes.md">Notes on this tablet</a></td></tr><tr><td>MovinkPad 11</td><td>DTH-A116</td><td>2025</td><td><a href="wacom-dtha116-notes.md">Notes on this tablet</a></td></tr></tbody></table>

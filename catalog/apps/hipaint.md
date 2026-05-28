@@ -8,7 +8,7 @@
 
 ## Community
 
-* [reddit /r/hipaint](https://www.reddit.com/r/HiPaint/)&#x20;
+* [Reddit: /r/HiPaint](https://www.reddit.com/r/HiPaint/)
 
 ## Videos
 

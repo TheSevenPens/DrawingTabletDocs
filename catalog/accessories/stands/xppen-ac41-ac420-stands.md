@@ -10,5 +10,3 @@ More here: [https://www.xp-pen.com/product/ac41-ac42-portable-tablet-stand.html]
 ## Videos
 
 {% embed url="https://www.youtube.com/watch?v=mkgdbuLUtOU" %}
-
-##

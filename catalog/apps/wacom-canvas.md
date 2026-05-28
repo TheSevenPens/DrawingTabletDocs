@@ -2,15 +2,15 @@
 
 ## Overview
 
-Wacom Canvas is a an app that comes with the Wacom MovinkPad tablets
+Wacom Canvas is an app that comes with Wacom MovinkPad tablets.
 
-It is a simple app with limited features. Despite this, it is incredibly useful as a way draw at the moment inspiration hits.&#x20;
+It is a simple app with limited features. Despite this, it is incredibly useful as a way to draw the moment inspiration hits.
 
-If you want to refine your sketch you can transfer the drawing to Clip Studio Paint
+If you want to refine your sketch, you can transfer the drawing to Clip Studio Paint.
 
 ## Platforms
 
-Wacom Canvas is for Android only
+Wacom Canvas is for Android only.
 
 It does not run on and is not available on other platforms such as Windows, MacOS, iPad, Linux, etc.
 
@@ -26,23 +26,8 @@ It does not run on and is not available on other platforms such as Windows, MacO
 
 <figure><img src="../../.gitbook/assets/Screenshot_20260218-211057.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 <figure><img src="../../.gitbook/assets/Screenshot_20260218-211110.png" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../.gitbook/assets/Screenshot_20260218-211122.png" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../.gitbook/assets/Screenshot_20260218-211136.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
