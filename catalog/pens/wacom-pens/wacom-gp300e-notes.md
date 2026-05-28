@@ -4,7 +4,7 @@
 
 This was the default pen for the [Wacom Intuos1](../../drawtabs/wacom/wacom-intuos1/).
 
-Key features
+### Key features
 
 * Duo switch - Rocker switch that acts as two buttons
 * Eraser

@@ -1,7 +1,7 @@
-# Dedicated note taking devices
+# Note-taking recommendations
 
-I don't use these devices myself. Here are some popular ones.
+These are not devices I use myself. Here are a few popular options.
 
-* Onyx Boox Note Air3&#x20;
-* Remarkable 2
+* Onyx Boox Note Air3
+* reMarkable 2
 * Amazon Kindle Scribe

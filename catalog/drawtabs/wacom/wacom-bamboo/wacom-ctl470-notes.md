@@ -2,7 +2,7 @@
 
 ## Names
 
-This tablet was sold under different names and with different packaging/artwork:
+This tablet was sold under different names and with different packaging and artwork:
 
 * Bamboo
 * Bamboo Splash

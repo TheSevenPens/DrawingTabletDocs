@@ -2,7 +2,7 @@
 
 ## Overview
 
-The pen is from an older generation of pen technology - with a higher IAF than you would find in modern EMR pens. If a tablet comes with this pen, you might be OK with it. But in general, I would recommend a different tablet with a different pen.
+The pen is from an older generation of pen technology, with a higher IAF than modern EMR pens. If a tablet comes with this pen, you might be okay with it. In general, I would recommend a different tablet with a different pen.
 
 ## Pen tech
 
@@ -16,8 +16,6 @@ EMR
 
 NO
 
-
-
 ## Included with these tablets (partial list)
 
 * XP-Pen Deco 01 V2
@@ -25,16 +23,16 @@ NO
 
 ## IAF
 
-Testing 5 pens, I found the IAF to be HIGH - varying between 6gf to 8gf.
+After testing 5 pens, I found the IAF to be high, varying from 6 gf to 8 gf.
 
-Not as good as newer pens like the XP-Pen X3 Pro series.
+It is not as good as newer pens such as the XP-Pen X3 Pro series.
 
 ## Max Pressure
 
-I found the Max Pressure to be: OK&#x20;
+I found the max pressure to be okay.
 
-* TYPICAL: 280gf
-* RANGE: 200gf to 300gf
+* Typical: 280 gf
+* Range: 200 gf to 300 gf
 
 ## Pressure response
 
