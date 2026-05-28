@@ -2,48 +2,46 @@
 
 ## Overview
 
-EMR technology was introduced to drawing tablets by Wacom. And they held all the core key patents to EMR. Those core patents have expired and now other manufacturers can build increasingly sophisticated EMR designs which are begin to rival Wacom products.
+Wacom introduced EMR technology to drawing tablets. They held the core EMR patents. Those patents have expired, and other manufacturers can now build increasingly sophisticated EMR designs that rival Wacom products.
 
 ## EMR key features
 
-* Powering the pen - With **Passive EMR** the pen gets power from proximity to the tablet. However with **Active EMR**: The pen gets power from a battery inside. More here: [Active EMR vs Passive EMR](active-emr-vs-passive-emr.md)
-* Position detection - The basics of how the tablet detects position are described here: [EMR position detection](emr-position-detection.md).&#x20;
-* Hover (i.e. proximity detection) -&#x20;
-* Pressure detection - See this document for details on [EMR pressure detection](emr-pressure-detection.md). It also contains a clarification of pressure detection in the video below (which depicts a very old way of doing pressure detection).
-* Tilt detection - more here: [EMR tilt detection](emr-tilt-detection.md) &#x20;
-* Barrel rotation detection - very rare in EMR pens
-* Communication of button press information&#x20;
+* Powering the pen - With **Passive EMR**, the pen gets power from proximity to the tablet. With **Active EMR**, the pen gets power from an internal battery. More here: [Active EMR vs Passive EMR](active-emr-vs-passive-emr.md)
+* Position detection - The basics of how the tablet detects position are described here: [EMR position detection](emr-position-detection.md).
+* Hover - Also called proximity detection.
+* Pressure detection - See [EMR pressure detection](emr-pressure-detection.md) for details. It also clarifies the pressure detection shown in the video below, which depicts a much older method.
+* Tilt detection - More here: [EMR tilt detection](emr-tilt-detection.md)
+* Barrel rotation detection - Very rare in EMR pens.
+* Communication of button press information.
 
 ## Explanation of how EMR works
 
-NOTE: This video's explanation of how pressure works describes a very early EMR pen design that involves physically moving the ferrite core inside the inductor coil and thus inducing a change in the resonant frequency of the pen's signal. Modern EMR pens have a design where the ferrite rode is stationary relative to the inductor coil and pressure is digitally encoded in the signal coming from the pen.
+NOTE: This video's explanation of pressure describes a very early EMR pen design. It involves physically moving the ferrite core inside the inductor coil, which changes the resonant frequency of the pen's signal. Modern EMR pens use a design in which the ferrite rod remains stationary relative to the inductor coil, and pressure is digitally encoded in the signal coming from the pen.
 
 {% embed url="https://youtu.be/Vv668I4LEdg" %}
 
 ## Deeper EMR Technical resources
 
-If you want to go really deep into how EMR works, go here: [EMR](./#emr-technical-resources)&#x20;
+If you want to go deeper into how EMR works, go here: [EMR](./#emr-technical-resources)
 
-## Notes on EMR&#x20;
+## Notes on EMR
 
 ### EMR Concepts vs Implementation
 
-Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts, different manufacturers can tweak this design in their implementation.
+Think of the EMR design illustrated in the video as a baseline example that demonstrates the fundamental concepts. Different manufacturers can tweak this design in their implementations.
 
 ### **Resonant frequency**
 
-The exact resonant frequency used by the pen will vary. In the case of the Wacom Bamboo Fun tablet (CTH-661) the frequency is around 750KHz. Source: the last 10 seconds of this scanlime video: [https://www.youtube.com/watch?v=oKVCwPn6OPI](https://www.youtube.com/watch?v=oKVCwPn6OPI)&#x20;
+The exact resonant frequency used by the pen varies. In the case of the Wacom Bamboo Fun tablet (CTH-661), the frequency is around 750 kHz. Source: the last 10 seconds of this scanlime video: [https://www.youtube.com/watch?v=oKVCwPn6OPI](https://www.youtube.com/watch?v=oKVCwPn6OPI)
 
 ### **How fast does the tablet switch between sensing the pen and sending it power?**
 
-We don't know. We suspect this is MUCH faster than a typical pen report rate of 200Hz.
-
-
+We don't know. We suspect it is much faster than a typical pen report rate of 200 Hz.
 
 ## **Other digital pen technologies**
 
-Even though EMR is used in drawing tablets, there are many other pen technologies in the market, such as AES, Apple Pencil, etc. More here: [Digital pen tech](../digital-pen-tech.md)&#x20;
+Even though EMR is used in drawing tablets, many other pen technologies are also on the market, such as AES and Apple Pencil tech. More here: [Digital pen tech](../digital-pen-tech.md)
 
 ### Apple Pencil
 
-The Apple Pencil does not use EMR. Apple uses a proprietary protocol for their pen. If you are curious about what is inside an Apple pencil, see this video: [https://youtube.com/shorts/M9sArtVjRps?feature=share](https://youtube.com/shorts/M9sArtVjRps?feature=share)  &#x20;
+The Apple Pencil does not use EMR. Apple uses a proprietary protocol for its pen. If you are curious about what is inside an Apple Pencil, see this video: [https://youtube.com/shorts/M9sArtVjRps?feature=share](https://youtube.com/shorts/M9sArtVjRps?feature=share)
