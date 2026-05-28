@@ -6,7 +6,7 @@ description: PTH-x60 series
 
 ## Overview
 
-* [**notes on the PTH-x60 series of tablets**](https://docs.thesevenpens.com/drawtab/product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60)
+* [**Notes on the PTH-x60 series of tablets**](https://docs.thesevenpens.com/drawtab/product-info/wacom/wacom-intuos-pro/7p-notes-wacom-intuos-pro-pth-x60)
 * Release year: 2017
 * Intuos pro generation: 7th gen
 * Preceded by: [Wacom Intuos Pro 2013](../wacom-intuos-pro-2013.md)
@@ -21,5 +21,3 @@ description: PTH-x60 series
 <figure><img src="../../../../.gitbook/assets/image-000081.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image-000082.jpg" alt=""><figcaption></figcaption></figure>
-
-##

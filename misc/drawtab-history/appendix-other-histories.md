@@ -4,6 +4,6 @@ Wacom's CEO Masahiko Yamada gave this account of Wacom's history: [https://www.p
 
 This blog post is also a good summary of the history: [https://historyofthearttablet.wordpress.com/](https://historyofthearttablet.wordpress.com/) This document also contains a number of links.
 
-See also this doc: [https://www.billbuxton.com/inputTimeline.html](https://www.billbuxton.com/inputTimeline.html)
+See also this page: [https://www.billbuxton.com/inputTimeline.html](https://www.billbuxton.com/inputTimeline.html)
 
-Is you want to see a list of drawing tablets from Wacom go here: [Wacom tablet lists](../../brands/wacom/wacom-tablet-models.md)
+If you want to see a list of drawing tablets from Wacom, go here: [Wacom tablet lists](../../brands/wacom/wacom-tablet-models.md)

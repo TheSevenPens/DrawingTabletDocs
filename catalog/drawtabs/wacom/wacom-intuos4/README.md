@@ -9,7 +9,7 @@ description: PTK-x40 series
 Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 * Release year: 2009
-* Intuos pro generation: 4th gen
+* Intuos Pro generation: 4th gen
 * Preceded by: [Wacom Intuos3](../wacom-intuos3.md)
 * Succeeded by: [Wacom Intuos5](../wacom-intuos5.md)
 * User manuals
@@ -38,17 +38,17 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 ## Design
 
-The Intuos4 introduced a tablet design with expresskeys and the ring on the left. This design would last in the subsequent Intuos professional series all the way till the introduction of the Intuos Pro 2025.
+The Intuos4 introduced a tablet design with ExpressKeys and the ring on the left. This design would last in the subsequent Intuos professional series all the way until the introduction of the Intuos Pro 2025.
 
 ## Using a Wacom Intuos 4 in 2023 or later
 
 These are still excellent tablets. However, Wacom has dropped support for them in their latest drivers.
 
-For example none of them are listed in the compatibility list for Wacom windows driver version 6.4.4-4:
+For example, none of them are listed in the compatibility list for Wacom Windows driver version 6.4.4-4:
 
 More here: [https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.4-3.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html)
 
-You can still use these tablets with caveats that come with using older tablets. More here:[Using older drawing tablets](../../../../guides/general/older-drawtabs.md)
+You can still use these tablets with the caveats that come with using older tablets. More here: [Using older drawing tablets](../../../../guides/general/older-drawtabs.md)
 
 ## Wacom Intuos 4 Large
 

@@ -12,7 +12,7 @@ Support for DP alt mode is something you must verify for your ports and your cab
 
 ### Option 1: DisplayPort alt mode symbol
 
-The DisplayPort symbol indicates the cable or port supports DP alt mode. Unfortunately many cables that DO support DP alt mode, do not have this logo.
+The DisplayPort symbol indicates that the cable or port supports DP alt mode. Unfortunately, many cables that do support DP alt mode do not have this logo.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000603.png" alt="" width="140"><figcaption></figcaption></figure></div>
 
@@ -20,7 +20,7 @@ The DisplayPort symbol indicates the cable or port supports DP alt mode. Unfortu
 
 The Thunderbolt symbol indicates a cable or port supports DP-alt mode.
 
-Here is an example of two USB-C ports with the Thnderbolt symbol
+Here is an example of two USB-C ports with the Thunderbolt symbol.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000001.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -28,13 +28,13 @@ Here is an example of a cable with a Thunderbolt symbol.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000602 (1).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
-Unfortunately, many USB-C thunderbolt ports and cables simply do not have the thunderbolt logo on them.
+Unfortunately, many USB-C Thunderbolt ports and cables simply do not have the Thunderbolt logo on them.
 
 ### Option 3: Unlabeled ports and cables
 
-If your cable or port, does not support DP alt mode, you have several remaining strategies:
+If your cable or port does not clearly indicate DP alt mode, you still have several strategies:
 
-* **Read the documentation**. Look for for the words "Thunderbolt" of "DP alt mode". Sometimes the documentation will say something more ambiguous like "supports display".
+* **Read the documentation**. Look for the words "Thunderbolt" or "DP alt mode." Sometimes the documentation will say something more ambiguous, like "supports display."
 * **Contact product support** from your manufacturer. Just ask them!
 * **Reach out to an online community** and ask if anyone has been able to use that port in their tablet to receive a display signal.
 

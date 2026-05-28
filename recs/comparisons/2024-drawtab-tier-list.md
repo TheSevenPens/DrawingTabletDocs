@@ -4,7 +4,7 @@ This is an updated tier list from the original livestream: [https://youtube.com/
 
 To see the next year's tier list: [2025 Drawing tablet tier list](2025-drawtab-tier-list.md)
 
-The updated tier has a couple of changes I implemented after talking to some tablet enthusiasts:
+The updated tier list has a couple of changes I implemented after talking to some tablet enthusiasts:
 
 * Added Huion Kamvas 16 GEN3 to A tier
 * XP-Pen Deco Pro GEN2 moved from S tier to A tier

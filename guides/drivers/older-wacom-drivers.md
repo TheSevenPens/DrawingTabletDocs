@@ -8,21 +8,21 @@ There are several ways of finding older Wacom drivers for your tablet.
 
 Go here: [https://www.wacom.com/en-us/support/product-support/drivers](https://www.wacom.com/en-us/support/product-support/drivers)
 
-By entering the model name or number. The latest driver for the tablet is shown and link is provided to older drivers.
+By entering the model name or number, the latest driver for the tablet is shown, and a link to older drivers is provided.
 
 <figure><img src="../../.gitbook/assets/image-000488.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If you click on Older versions you'll find a small list of older driver versions
+If you click on Older versions, you will find a small list of older driver versions.
 
 <figure><img src="../../.gitbook/assets/image-000489.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="My list of wacom drivers" %}
+{% tab title="My list of Wacom drivers" %}
 Go here for the list: [https://thesevenpens.github.io/Wacom-Driver-List/](https://thesevenpens.github.io/Wacom-Driver-List/)
 
-Docs are here:  [SevenPens Wacom Driver List](../../resources/sevenpens-wacom-driver-list.md)
+Docs are here: [SevenPens Wacom Driver List](../../resources/sevenpens-wacom-driver-list.md)
 
-This is a single unified list for drivers found on Wacom.com and Archive.org
+This is a single unified list of drivers found on Wacom.com and Archive.org.
 
 It is useful if you want a simple flat list to look at.
 
@@ -42,9 +42,6 @@ Many versions of Wacom drivers are there:
 * Some newer
 * They may not have the very latest versions though
 
-NOTE: These drivers are stored on archive.org and don't come directly from Wacom's site. So, take precaution against malware.
+NOTE: These drivers are stored on Archive.org and do not come directly from Wacom's site. So, take precautions against malware.
 {% endtab %}
 {% endtabs %}
-
-
-

@@ -2,13 +2,13 @@
 
 ## Overview
 
-The Huion PW517 pen is one that comes many Huion tablets that use PenTech 3.0.
+The Huion PW517 pen is one that comes with many Huion tablets that use PenTech 3.0.
 
 Huion store link: [https://store.huion.com/products/battery-free-pen-pw517](https://store.huion.com/products/battery-free-pen-pw517)
 
 ## Compatible tablets
 
-Huion lists these as compatible tablets
+Huion lists these as compatible tablets:
 
 * Kamvas 12
 * Kamvas 13
@@ -24,14 +24,14 @@ Huion lists these as compatible tablets
 
 ## Use the PW550 pen instead
 
-If you have a tablet what is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen which is also compatible but has generally a much better pressure range. [Huion PW550 series pens notes](huion-pw550-notes.md).
+If you have a tablet that is compatible with the PW517 pen, I strongly urge you to consider getting a PW550 pen, which is also compatible but generally has a much better pressure range. [Huion PW550 series pens notes](huion-pw550-notes.md).
 
 ## Pressure range
 
 I have 7 units of this pen.
 
 * IAF ranges from 5gf to 9gf
-* Max Pressure ranges from 150gf to 500gf
+* Max pressure ranges from 150gf to 500gf
 
 Like other PenTech 3.0 pens, there is a lot of variation in IAF and max pressure.
 
@@ -39,6 +39,6 @@ Like other PenTech 3.0 pens, there is a lot of variation in IAF and max pressure
 
 ## Consider the PW550 series pens as a potential upgrade
 
-The PW550 series of pens are backwards compatible with tablets that work with the PW517. And the PW550 has improved pressure handling. So consider the PW550 as an upgrade option.
+The PW550 series of pens are backward-compatible with tablets that work with the PW517. The PW550 also has improved pressure handling, so consider it as an upgrade option.
 
 See: [Upgrading from PW517 to PW550](upgrading-pw517-to-pw550.md)

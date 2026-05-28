@@ -4,7 +4,7 @@
 
 Release date: 2005
 
-NOTE: A second generation 21 UX model (DTK-2100) was released in 2010.&#x20;
+NOTE: A second-generation 21UX model (DTK-2100) was released in 2010.
 
 ## My experience in 2007
 
@@ -28,6 +28,3 @@ In 2011, I gave it to an acquaintance who was studying design and had always wan
 ## Basics
 
 * Last compatible Wacom driver: Version 6.3.15-3
-
-
-

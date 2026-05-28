@@ -6,9 +6,9 @@ The tablet sends "tablet reports" to the computer at somewhere around 200 report
 
 ## Brush engines
 
-In a creative applications that draws strokes - applications such as clip studio paint, krita, or photoshop, there is a component (or set of components) we can refer to as the **brush engine**
+In creative applications that draw strokes — applications such as Clip Studio Paint, Krita, or Photoshop — there is a component, or set of components, we can refer to as the **brush engine**.
 
-Among its responsibilities is to take this pen data and combine it to draw a stroke.
+One of its responsibilities is to take this pen data and combine it to draw a stroke.
 
 ## Brush engines vs brushes
 
@@ -18,39 +18,34 @@ Your drawing apps typically feature different brushes: pen, pencil, watercolor, 
 
 But what all these brush engines have in common is that they transform the pen data in various ways to affect how the brush works.
 
-Typically these are the ways in which a brush engine can control the stroke
+Typically, these are the ways in which a brush engine can control the stroke:
 
 * stroke opacity
 * brush size
 * brush rotation
 
-And there are lot of other settings
+And there are a lot of other settings.
 
-Here is an example from Clip Studio Paint 2.0 for its Calligraphy brush
+Here is an example from Clip Studio Paint 2.0 for its Calligraphy brush.
 
-![](<../../.gitbook/assets/image-000374.png>)
+![](../../.gitbook/assets/image-000374.png)
 
-Here is an example from Krita
+Here is an example from Krita.
 
-![](<../../.gitbook/assets/image-000307.png>)
-
-
+![](../../.gitbook/assets/image-000307.png)
 
 ## Pressure
 
-If you are in a creative application that draws strokes,&#x20;
+If you are in a creative application that draws strokes, the most common mapping of pen input to stroke is how pressure is handled. Typically, pressure is either:
 
-The most common mapping of pen input to stroke is how pressure is handled. Typically, pressure is either:
-
-* pressure -> ignored - it has no effect on the brush. this is common for very simple brushes
-* pressure -> brush size - more pressure gives a bigger brush
-* pressure -> brush opacity - more pressure gives a more opaque brush
+* pressure -> ignored - it has no effect on the brush. This is common for very simple brushes.
+* pressure -> brush size - more pressure gives a bigger brush.
+* pressure -> brush opacity - more pressure gives a more opaque brush.
 
 ## Tilt
 
 Tilt typically is treated like this:
 
 * tilt -> Ignored
-* tilt -> brush size - for example a pencil brushes may get wider as the pen is tilted to simulate how a real pencil makes wider marks on paper as it is tilted.
-* tilt -> brush rotation - enabling the tilt to orient the brush shape
-
+* tilt -> brush size - for example, a pencil brush may get wider as the pen is tilted to simulate how a real pencil makes wider marks on paper as it is tilted.
+* tilt -> brush rotation - using tilt to orient the brush shape.

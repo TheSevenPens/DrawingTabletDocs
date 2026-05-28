@@ -2,7 +2,7 @@
 
 ## Overview
 
-These PW550 series of pens offer some of the improvements that made it into the PW600 series of pens in terms of pressure handling.
+The PW550 series of pens offers some of the improvements that made it into the PW600 series in terms of pressure handling.
 
 If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen instead. See: [Upgrading from PW517 to PW550](upgrading-pw517-to-pw550.md)
 
@@ -12,7 +12,7 @@ If your tablet uses a PW517 pen, consider getting the PW550 pen or PW550S pen in
 
 ## Compatible tablets
 
-It is compatible with the same tablets that support the PW517 pen
+It is compatible with the same tablets that support the PW517 pen.
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
@@ -26,13 +26,13 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 ## Buttons
 
-These pens have two buttons which is typical for an EMR pen.
+These pens have two buttons, which is typical for an EMR pen.
 
 ## Pressure range
 
 IAF - 7 to 10gf
 
-Max Pressure - between 300 gf to 800gf. With an occasional units around the mid 250s.
+Max pressure - between 300gf and 800gf, with occasional units around the mid-250s.
 
 <figure><img src="../../../.gitbook/assets/image-000420.png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Electromagnetic Interference (EMI) can occur between your tablet and other devices. Devices could include cell phones or keyboards. It doesn't even really have to be a device- sometimes ordinary non electronic objects have magnets inside of them that can interfere with a tablet.
+Electromagnetic Interference (EMI) can occur between your tablet and other devices. These devices could include cell phones or keyboards. It doesn't even really have to be a device. Sometimes ordinary non-electronic objects have magnets inside them that can interfere with a tablet.
 
 ## Effects of EMI
 
@@ -12,13 +12,13 @@ EMI can make the pen have jerky movements - making the pen unresponsive for a fe
 
 ### **Warped regions due to Magnets**
 
-Sometimes the EMI takes the form of a region that warps straight lines. Below is an example of such a warping caused by a magnet. This this case it was a magnet attacked to a stand underneath the tablet. ([See this reddit thread](https://www.reddit.com/r/huion/comments/13yef7f/kamvas_13_digitizer_problem/))
+Sometimes the EMI takes the form of a region that warps straight lines. Below is an example of such warping caused by a magnet. In this case, it was a magnet attached to a stand underneath the tablet. ([See this reddit thread](https://www.reddit.com/r/huion/comments/13yef7f/kamvas_13_digitizer_problem/))
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000197.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### **Skipped regions**
 
-EMI interference can also present as a region where pen seems unable to make a mark. Notice that some warping is also present. In this case, the causes was that the tablet was resting upon a laptop keyboard. Note that there is also some warping of the pen position. ([See this reddit thread](https://www.reddit.com/r/XPpen/comments/14joyq5/pen_skips_across_the_screen_in_certain_spots_help/))
+EMI can also present as a region where the pen seems unable to make a mark. Notice that some warping is also present. In this case, the cause was that the tablet was resting on a laptop keyboard. Note that there is also some warping of the pen position. ([See this reddit thread](https://www.reddit.com/r/XPpen/comments/14joyq5/pen_skips_across_the_screen_in_certain_spots_help/))
 
 <div align="left"><figure><img src="../../.gitbook/assets/image-000558.jpg" alt="" width="312"><figcaption></figcaption></figure></div>
 
@@ -34,7 +34,7 @@ Examples:
 
 ## General weirdness
 
-Weird things can happen! I have a keyboard, that when I unplug its USB-C cable will act like a pen and control the position of the pointer on one of my tablets!
+Weird things can happen. I have a keyboard that, when I unplug its USB-C cable, acts like a pen and controls the position of the pointer on one of my tablets.
 
 ## Magnetized desk surface
 
@@ -44,6 +44,6 @@ There are computer desks that are made of metal and deliberately magnetized. The
 
 ## iPads and cases
 
-Some iPad Cases have magnets in them and they can interfere with the proper functioning of an Apple Pencil.
+Some iPad cases have magnets in them, and they can interfere with the proper functioning of an Apple Pencil.
 
 [/r/iPad - Some magnetic cases may interfere with the Apple Pencil Pro](https://www.reddit.com/r/ipad/comments/1d93ew0/some_magnetic_cases_may_interfere_with_the_apple/) 2024-06-05

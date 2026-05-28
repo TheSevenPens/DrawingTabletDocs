@@ -5,7 +5,7 @@
 Anti-glare sparkle is a side-effect of the anti-glare treatment applied to your pen display. How much AG sparkle is visible depends on a lot of factors. Generally, people want very low amounts of AG sparkle.
 
 {% hint style="info" %}
-If you are looking into removing or reducing the amount of AG sparkle go here [Reducing Anti-glare sparkle](reducing-ag-sparkle.md)
+If you are looking into removing or reducing the amount of AG sparkle, go here: [Reducing Anti-glare sparkle](reducing-ag-sparkle.md)
 {% endhint %}
 
 ## Companion video
@@ -14,7 +14,7 @@ Because this is a visible phenomenon, watching the video I made on this topic ma
 
 {% embed url="https://youtu.be/g_nsvraK3P8" %}
 
-## Overview
+## How it works
 
 To prevent reflections and room lighting from interfering with your drawing experience, manufacturers of pen displays provide an anti-glare treatment.
 
@@ -25,7 +25,7 @@ The treatment comes in two forms:
 
 The physics of the anti-glare treatment produces an effect called **anti-glare sparkle** (AG sparkle).
 
-AG sparkle is hard to describe in words, but overall it will look like a grainy look.
+AG sparkle is hard to describe in words, but overall it looks grainy.
 
 ## What it looks like
 
@@ -39,15 +39,15 @@ Depending on the camera settings...
 
 ### Example 1
 
-The the pictures below show screens that are showing black, white, and gray pixels.
+The pictures below show screens displaying black, white, and gray pixels.
 
-The one on the right represents an mor extreme example . You can clearly see that different "color grains"
+The one on the right represents a more extreme example. You can clearly see the different "color grains."
 
 <figure><img src="../../.gitbook/assets/image-000332.png" alt=""><figcaption></figcaption></figure>
 
 ### Example 2
 
-It could also look like this - this is a very close up view
+It could also look like this — this is a very close-up view.
 
 <figure><img src="../../.gitbook/assets/image-000276.png" alt=""><figcaption></figcaption></figure>
 
@@ -73,9 +73,9 @@ I found this in a reddit post. The AG sparkle is everywhere but is most noticeab
 
 ## Buying a tablet
 
-You MUST research AG sparkly for any tablet you are intend to buy.
+You MUST research AG sparkle for any tablet you intend to buy.
 
-I see many people buy tablets and not realize the AG sparkle might be present. And so they get very frustrated with their purchase.
+I see many people buy tablets and not realize AG sparkle might be present. Then they get very frustrated with their purchase.
 
 DO NOT rely on photos provided by the manufacturer. These photos never show AG sparkle. It's probably not even deliberate that AG sparkle isn't shown because it is very tricky to photograph.
 
@@ -83,16 +83,16 @@ You need to ask people who use the tablet if the tablet exhibits the effect and 
 
 ## Prevalence
 
-AG sparkle is varies depending on the model of pen display.
+AG sparkle varies depending on the pen display model.
 
 All pen displays that I know of will have some amount of it because they all have some kind of anti-glare treatment.
 
 ## Contributing factors
 
-Your perception of AG sparkly will be affected by several factors.
+Your perception of AG sparkle will be affected by several factors.
 
-* The nature of anti-glare treatment. Some tablets models in general seem to use a very intense AG treatment and others have a much milder treatment.
-* The distance between your eyes and the tablet. What might be strongly noticeable at 1 few inches might be essentially invisible at a normal drawing distance.
+* The nature of the anti-glare treatment. Some tablet models seem to use a very intense AG treatment, while others have a much milder treatment.
+* The distance between your eyes and the tablet. What might be strongly noticeable at a few inches away might be essentially invisible at a normal drawing distance.
 * The pixels-per-inch (PPI) of the display.
 
 ## High Pitch (PPI) displays
@@ -110,7 +110,7 @@ If the same exact AG treatment is used on those two displays you will notice it 
 
 ## Reddit threads
 
-* r/huion - [https://www.reddit.com/r/huion/comments/13ikmph/](https://www.reddit.com/r/huion/comments/13ikmph/) - This deleted reddit post has an video thet perfectly demonstrates the shimmering effect of the sparkle.
+* r/huion - [https://www.reddit.com/r/huion/comments/13ikmph/](https://www.reddit.com/r/huion/comments/13ikmph/) - This deleted Reddit post has a video that perfectly demonstrates the shimmering effect of the sparkle.
 * r/huion - [Is this normal? Possible display issue? noisy output?](https://www.reddit.com/r/huion/comments/z2gfsx/is_this_normal_possible_display_issue_noisy_output/) 11/23/2022
 
 ## References

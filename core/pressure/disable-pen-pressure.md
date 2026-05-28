@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pen pressure information is always sent from the tablet to the tablet driver and from there to the operating system and then to pen-aware applications. This pressure information is used to draw strokes by varying the width or opacity and also this pressure information is used to tell the operating system that a "click" or "drag" is happening.
+Pen pressure information is always sent from the tablet to the tablet driver, then to the operating system, and then to pen-aware applications. This pressure information is used to draw strokes by varying the width or opacity, and it is also used to tell the operating system that a "click" or "drag" is happening.
 
 There are several options you can pursue depending on which tablet you have and what you want to accomplish.
 
@@ -42,6 +42,6 @@ Drawing apps that use brushes may let you control how pressure affects the brush
 
 In some applications you can completely flatten the pressure curve. This means the pressure is constant and will not result in the brush changing due to pressure.
 
-![](<../../.gitbook/assets/image-000398.png>)
+![](../../.gitbook/assets/image-000398.png)
 
-This will still let you draw, but the pen is not changing pressure.
+This will still let you draw, but the pressure does not change.

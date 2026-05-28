@@ -1,8 +1,8 @@
 # XP-Pen X3 Pro pens
 
-## O**verview**
+## Overview
 
-The **XP-Pen X3 Pro** series of pens was introduced in 2023 to accompany XP-Pens new pro drawing tablets such Deco Pro GEN2 series and Artist Pro GEN2 series.
+The **XP-Pen X3 Pro** series of pens was introduced in 2023 to accompany XP-Pen's new professional drawing tablets, such as the Deco Pro GEN2 series and Artist Pro GEN2 series.
 
 ## Models
 
@@ -16,7 +16,7 @@ There are three models:
 
 ## **Eraser**
 
-Only the X3 Pro has an eraser. the other models do not.
+Only the X3 Pro has an eraser. The other models do not.
 
 ## Roller
 
@@ -40,9 +40,9 @@ My testing shows that individual units can vary from \~250gf to \~450gf.
 
 ## **Pen pressure levels**
 
-Specifications say 16K. Ignore this. it is hype. All you need is 2K pressure levels. More important than this is the wide pressure range (from IAF to Max pressure). More here: [Pen pressure](../../../core/pressure/)
+Specifications say 16K. Ignore this. It is hype. All you need is 2K pressure levels. More important than this is the wide pressure range, from IAF to max pressure. More here: [Pen pressure](../../../core/pressure/)
 
-This is what it shows in the driver when pressure at full pressure.
+This is what it shows in the driver when the pen is at full pressure.
 
 ![](../../../.gitbook/assets/image-000391.png)
 

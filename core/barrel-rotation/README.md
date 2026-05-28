@@ -1,4 +1,4 @@
-# Pen barrel rotation
+# Barrel rotation
 
 ## Introduction
 
@@ -12,7 +12,7 @@ The photos below represent an untilted pen. The orange circle will indicate the 
 
 <figure><img src="../../.gitbook/assets/image-000563.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Below are diagrams showing both tilt and barrel rotation. Tilt and barrel rotation are independent. Unfortunately people confuse them frequently so it's good to take a look at a tilted pen and then see barrel rotation.
+Below are diagrams showing both tilt and barrel rotation. Tilt and barrel rotation are independent. People often confuse them, so it's useful to compare a tilted pen with barrel rotation.
 
 The green circle shows the tilt azimuth. The purple circle shows the tilt altitude.
 
@@ -28,7 +28,7 @@ This video demonstrates tilt. I highly recommend you watch it.
 
 ## Benefits of barrel rotation
 
-Barrel rotation is intended to help have brushes that mimic what traditional media brushes do - where rotating the brush around its long axis will rotate the brush on the canvas.
+Barrel rotation is intended to help brushes mimic traditional media, where rotating the brush around its long axis rotates the brush on the canvas.
 
 ## Popularity
 
@@ -45,7 +45,7 @@ Barrel rotation is a **very rare feature** on pens. I know of only three pens th
 
 Keep in mind that these pens only work with specific tablets. You cannot buy these pens and assume they will work with the tablet you have.
 
-## Will barrel rotation every be adopted more widely?
+## Will barrel rotation ever be adopted more widely?
 
 We don't know. We don't have any information about other brands adopting barrel rotation.
 

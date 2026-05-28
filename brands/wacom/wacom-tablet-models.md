@@ -2,9 +2,9 @@
 
 ## Overview
 
-Wacom has existed for over 40 years. In that time they've released many different drawing tablets.
+Wacom has existed for over 40 years. In that time, it has released many different drawing tablets.
 
-In this document I'll point you to different lists of tablets depending on what you're interested in.
+This page points you to different tablet lists, depending on what you are interested in.
 
 ## Wacom's official current tablet models
 
@@ -12,4 +12,4 @@ You can see a list of all the tablets Wacom currently sells on their website ([h
 
 ## Kuuube's Wacom tablet mastersheet
 
-Tablet expert Kuuube maintains a [Kuuube's Wacom tablet mastersheet](../../resources/community/kuuube/kuuube-wacom-mastersheet.md) which as far as I know lists every Wacom drawing tablet ever made.
+Tablet expert Kuuube maintains a [Kuuube's Wacom tablet mastersheet](../../resources/community/kuuube/kuuube-wacom-mastersheet.md), which, as far as I know, lists every Wacom drawing tablet ever made.

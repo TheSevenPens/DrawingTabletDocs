@@ -2,9 +2,9 @@
 
 ## Overview
 
-Typically, when you press down with your pen and touch the tablet it will be interpreted is a "click" action - just as if you left clicked with a mouse.
+Typically, when you press down with your pen and touch the tablet, it will be interpreted as a "click" action, just as if you left-clicked with a mouse.
 
-However, in some rare circumstances and depending on the tablet and tablet brand and tablet driver, you MIGHT be able to modify the behavior to a slight degree.
+However, in some rare circumstances, and depending on the tablet, brand, and driver, you MIGHT be able to modify the behavior to a slight degree.
 
 ## What customizations are possible
 
@@ -21,7 +21,7 @@ Wacom pens just always "click". There's no way to change this behavior.
 {% tab title="XP-Pen" %}
 In the XP-Pen driver, you can only disable the tip.
 
-In the driver, press the gear icon and you can disable the tip by checking the box that says **disable pressure**.&#x20;
+In the driver, press the gear icon and you can disable the tip by checking the box that says **disable pressure**.
 {% endtab %}
 
 {% tab title="Huion" %}
@@ -31,9 +31,6 @@ In the Driver UI it is a little confusing though. The tip is shown as being in o
 
 The default is valid and this means the pen works normally.
 
-The invalid setting, disables clicking.
+The invalid setting disables clicking.
 {% endtab %}
 {% endtabs %}
-
-
-

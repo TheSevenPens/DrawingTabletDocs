@@ -2,13 +2,13 @@
 
 ## Overview
 
-To work, a drawing tablet pen requires a little power. Either a pen will get power from the tablet wirelessly (Passive EMR) or the pen will use a battery (Active EMR). For a many years now, tablets exclusively use Passive EMR pens.
+To work, a drawing tablet pen requires a little power. Either a pen gets power from the tablet wirelessly (Passive EMR), or the pen uses a battery (Active EMR). For many years now, tablets have used Passive EMR pens almost exclusively.
 
 ## Passive EMR pens
 
-Passive EMR refers to the EMR technology where tablets wirelessly power the pen. All modern drawing tablets use Passive EMR. Their pens get their power just be being close to the tablet (about 10mm). The pens don't have a battery that needs to be recharged or replaced.
+Passive EMR refers to EMR technology where tablets wirelessly power the pen. All modern drawing tablets use Passive EMR. Their pens get power just by being close to the tablet, at about 10mm. The pens do not have a battery that needs to be recharged or replaced.
 
-Wacom has been using Passive EMR for many decades. For non-Wacom table brands, they made the transition to Passive EMR with the last 10 years.
+Wacom has been using Passive EMR for many decades. For non-Wacom tablet brands, the transition to Passive EMR happened within the last 10 years.
 
 ## Active EMR pens
 
@@ -21,13 +21,4 @@ In contrast, Active EMR is when the pen is powered by an internal battery. The b
 
 ## Notes on replacing or upgrading
 
-If you have have an older Active EMR pen, you cannot replace it with a Passive EMR pen.
-
-&#x20;
-
-
-
-
-
-
-
+If you have an older Active EMR pen, you cannot replace it with a Passive EMR pen.

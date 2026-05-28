@@ -2,19 +2,19 @@
 
 ## Summary
 
-I don't have this tablet, but people still ask about it. So, have created this page to collect answers to common questions people have about the tablet.
+I do not have this tablet, but people still ask about it. So, I created this page to collect answers to common questions about the tablet.
 
 ## Is this tablet worth getting?
 
-This is one of the most beloved Wacom pen displays. The fundamental handling of pressure, tilt, responsiveness are just as good in this pen display compared even to Wacom pen display models in 2025.
+This is one of the most beloved Wacom pen displays. The fundamental handling of pressure, tilt, and responsiveness is just as good on this pen display as it is on Wacom pen display models from 2025.
 
-The challenge with this model is that (based on previous data) it will reach its support lifetime sometime in 2028 to 2030 (we estimate). After that point, newer Wacom drivers won't work with it and Wacom support will not help you with the tablet. Then you have to use it as an [Using older drawing tablets](../../../../guides/general/older-drawtabs.md).
+The challenge with this model is that, based on previous data, it will reach the end of its support lifetime sometime between 2028 and 2030. After that point, newer Wacom drivers will not work with it, and Wacom support will not help you with the tablet. Then you have to use it as described in [Using older drawing tablets](../../../../guides/general/older-drawtabs.md).
 
 The only issue that some people have complained about with this tablet is fan noise. For some people it is silent, but for some people the fan noise is audible or even loud.
 
 ## Basics
 
-There are two models if the Cintiq Pro 24 (DTx-2420)
+There are two models of the Cintiq Pro 24 (DTx-2420):
 
 * Cintiq Pro 24 (DTK-2420) - which DOES NOT support touch
 * Cintiq Pro 24 touch (DTH-2420) - which DOES support touch
@@ -33,7 +33,7 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.w
 * Aspect ratio: 16x9
 * Number of pressure levels: 8192
 * Tilt: 40°
-* Resolition: 40°
+* Resolution: 40°
 
 ### Display
 
@@ -83,5 +83,5 @@ Size: 677 x 394mm (26.6 x 15.5 in)
 
 ## Display
 
-* Native resolution: 2840x2160 (4K)
+* Native resolution: 3840x2160 (4K)
 * Display panel tech: IPS

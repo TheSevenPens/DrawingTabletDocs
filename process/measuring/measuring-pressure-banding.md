@@ -15,7 +15,7 @@ Create a brush with
 * Width 100px
 * Pressure mapped to opacity (press harder to make stroke more opaque)
 
-Draw a series of horizontal and vertical lines at a constant pressure - towards low end of pressure
+Draw a series of horizontal and vertical lines at a constant pressure, toward the low end of the pressure range.
 
 Perform some contrast enhancement on the image to help see the banding
 

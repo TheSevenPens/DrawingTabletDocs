@@ -12,7 +12,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## **Overview**
 
-**Pen computers** are slate form-factor laptops that provide the full drawing tablet experienc&#x65;**.**
+**Pen computers** are slate form-factor laptops that provide the full drawing tablet **experience**.
 
 **Pen computers** are **true drawing tablets** because:
 
@@ -33,7 +33,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 As a policy, I do NOT recommend pen computers. The reasons are many and documented here: [The case against pen computers](../buying/pen-computers-bad.md)**.**
 
-I recognize that some people LOVE the experience of using a pen computer. But overall because of the cost of purchase, support, repair, lack of upgradability, etc. I cannot cannot in good conscience recommend them.
+I recognize that some people LOVE the experience of using a pen computer. But overall, because of the cost of purchase, support, repair, and lack of upgradability, I cannot in good conscience recommend them.
 
 I suggest you look at alternatives: [Alternatives to pen computers](../buying/pen-computer-alternatives.md).
 

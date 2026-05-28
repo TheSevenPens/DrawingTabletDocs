@@ -6,7 +6,6 @@ The Apple Pencil does not use EMR. Apple uses a proprietary protocol for their p
 
 ## Details
 
-If you are curious about what is inside an Apple pencil, see this video:&#x20;
+If you are curious about what is inside an Apple Pencil, see this video:
 
 {% embed url="https://www.youtube.com/shorts/M9sArtVjRps" %}
-

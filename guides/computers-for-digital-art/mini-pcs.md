@@ -2,15 +2,15 @@
 
 ## Overview
 
-Mini-PCs (sometimes called "small form factor PCS") are relatively small PCs that these days can be competing alternatives to full-size desktop PCs.
+Mini-PCs, sometimes called "small form factor PCs," are relatively small PCs that can be compelling alternatives to full-size desktop PCs.
 
-Mini-PCs can cost much less than similarly equipped laptops and offer even more power. While they tend not to be as powerful as desktop PCs for digital art they are more than sufficient.
+Mini-PCs can cost much less than similarly equipped laptops and offer even more power. While they tend not to be as powerful as desktop PCs for digital art, they are more than sufficient.
 
-These Mini-PCs typically use laptop component to deliver a compact and low-power-draw experience.
+These Mini-PCs typically use laptop components to deliver a compact and low-power experience.
 
 ## Examples
 
-The prices below are from Sept 2024 and only include the cost for a Mini-PC
+The prices below are from Sept 2024 and only include the cost of a Mini-PC.
 
 ## Links
 

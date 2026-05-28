@@ -8,7 +8,7 @@ There are several options for stands below:
 * Unattached stands
 * Complex stands
 
-If you are looking for iPad-specific stands stands go here: [**iPad stands**](https://www.amazon.com/HUION-Adjustable-Drawing-Displays-Suitable/dp/B09C5YJFGS)
+If you are looking for iPad-specific stands, go here: [**iPad stands**](https://www.amazon.com/HUION-Adjustable-Drawing-Displays-Suitable/dp/B09C5YJFGS)
 
 ## Attached stands
 
@@ -18,11 +18,11 @@ VESA is a standard to mount displays to various things using screws. More here: 
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000004.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand</p></figcaption></figure></div>
 
-These stands attach to the back of tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA mountable.
+These stands attach to the back of the tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA-mountable.
 
 ## Pen display size
 
-Stands me be intended for use with a specific size range of pen displays. Pay attention to the specs.
+Stands may be intended for use with a specific size range of pen displays. Pay attention to the specs.
 
 It's important to match the stand with the height of the pen display.
 
@@ -39,17 +39,17 @@ In 2025 XP-Pen released the [XP-Pen ACS15 Ergo Stand](xppen-acs15.md). This remi
 
 ## Unattached stands
 
-here are the key features:
+Here are the key features:
 
 * They are height/angle adjustable
   * Some can vary the angle continually and you can lock them into a specific preferred angle
-  * Some only support 1 or two angles
+  * Some only support 1 or 2 angles
 * They have a "lip" at the bottom to help secure the tablet
 * The tablet is not attached to the stand
-* They have rubberized surfaces on top to prevent the tablet from sliding off too easy
+* They have rubberized surfaces on top to prevent the tablet from sliding off too easily
 * They have rubberized surfaces on the bottom to prevent the stand from moving around on the desk
 
-These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet of the stand.
+These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet off the stand.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000503.png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
 
@@ -77,7 +77,7 @@ See this video
 ## Stands I use
 
 * I use the Huion ST100A stand with my Huion Kamvas Pro 19. [Huion ST100 stand](huion-st100-stand.md).
-* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with y Cintiq Pro 22. [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](vivo-v100r.md)
+* I use the VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R) with my Cintiq Pro 22. [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](vivo-v100r.md)
 
 ## Links
 

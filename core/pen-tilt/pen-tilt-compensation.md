@@ -1,11 +1,11 @@
 # Pen tilt compensation
 
-In order to correctly represent the position of the pen. The tablet has to perform something called tilt compensation. This means adjusting the pointer position, depending on how much the pen is tilted.
+To correctly represent the position of the pen, the tablet has to perform something called tilt compensation. This means adjusting the pointer position depending on how much the pen is tilted.
 
 <figure><img src="../../.gitbook/assets/image-000415 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-This is very important for EMR tablets because the digitizer is sensing an inductor inside the pen. And that inductor is not close to the tip of the pen. It's deeper inside the pen.
+This is very important for EMR tablets because the digitizer senses an inductor inside the pen. That inductor is not close to the tip of the pen. It is deeper inside the pen.
 
-Some other pen technologies. For example, the apple pencil don't have as big a separation as EMR tablets have.
+Some other pen technologies do not have as much separation. For example, the Apple Pencil does not have as much separation as EMR tablets.
 
-Now no tablet does tilt compensation perfectly. I have seen some very old habits to do this very badly almost as if they don't compensate for tilt at all. But these days, a modern EMR drawing tablet does a decent job compensating for tilt. And so the pointer doesn't really shift too far away from where the tip of the pen is. But there is some variation. Some tablets are better at this than others.
+No tablet does tilt compensation perfectly. I have seen some very old tablets do this very badly, almost as if they do not compensate for tilt at all. These days, a modern EMR drawing tablet usually does a decent job compensating for tilt. The pointer does not usually shift too far away from the pen tip, but there is still some variation. Some tablets are better at this than others.

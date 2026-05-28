@@ -12,15 +12,13 @@ They can be very useful devices, but they are often misunderstood in the context
 
 ## Examples
 
-Below is an example of a simple HDMI splitter. The male HDMI end goes to your computer. The two female HDMI ports are intended to connect to monitors, pen displays, etc. This splitter takes the signal from the computer and **copies** the two devices you have attached.
+Below is an example of a simple HDMI splitter. The male HDMI end goes to your computer. The two female HDMI ports are intended to connect to monitors, pen displays, etc. This splitter takes the signal from the computer and **copies** it to the two devices you have attached.
 
 <figure><img src="../../.gitbook/assets/image-000206.jpg" alt=""><figcaption></figcaption></figure>
 
 Below is another example of a splitter that I own. Notice that this splitter also has a micro-USB port intended to supply power.
 
 <figure><img src="../../.gitbook/assets/image-000208.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../.gitbook/assets/image-000207.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -30,7 +28,7 @@ Often someone with a new pen display will need to connect it to their computer v
 
 In this situation they may have an HDMI port but it is already in use.
 
-So, they wonder if an HDMI splitter can turn that 1 HDMI port into 2 HDMI ports. In a sense, that is exactly what an HDMI port does, but it may not do that in a way that is desirable.
+So, they wonder if an HDMI splitter can turn that 1 HDMI port into 2 HDMI ports. In a sense, that is exactly what an HDMI splitter does, but it may not do that in a way that is desirable.
 
 ## **What an HDMI splitter does**
 
@@ -40,25 +38,25 @@ However, it is important to understand that whatever input the HDMI splitter get
 
 In other words, if you were expecting to show two different things on your pen display and your monitor, then an HDMI port WILL NOT BE HELPFUL. It will always duplicate the exact same image.
 
-If duplication is what you want then an HDMI will work for you.
+If duplication is what you want, then an HDMI splitter will work for you.
 
 ## **Your computer thinks of the HDMI splitter as a single display**
 
-If you are an HDMI splitter, and you check your computer's settings you will see that it thinks only 1 display is connected. The computer has no idea that the signal is being split.
+If you are using an HDMI splitter and you check your computer's settings, you will see that it thinks only 1 display is connected. The computer has no idea that the signal is being split.
 
 ## **Native resolutions**
 
 Every display device has a native resolution.
 
-It is typically best if the display signal they receive exactly that native resolution&#x20;
+It is typically best if the display signal they receive exactly matches that native resolution.
 
-If you pen display and monitor have different native resolutions and yet receive the same display signal, ALWAYS something weird will happen.
+If your pen display and monitor have different native resolutions and yet receive the same display signal, something weird will almost always happen.
 
 You may see an image on one of your displays that is:
 
 * cropped
 * smaller but with correct proportions
-* smaller but with incorrect proportions - it will looks stretched in one dimension
+* smaller but with incorrect proportions - it will look stretched in one dimension
 * flickering
 * etc.
 
@@ -68,7 +66,7 @@ Or you may not even see an image on one of them at all.
 
 Your HDMI splitter may not support the refresh rate you want. For example, some might only work at 4K resolution up to 30Hz. Verify refresh rate support before you buy a splitter.
 
-## **Max resolution**&#x20;
+## **Max resolution**
 
 HDMI splitters may not support the resolution of the display signal you want to send. You may want to send a 4K signal, but your HDMI splitter may only support up to 2.5K signal.
 
@@ -76,33 +74,22 @@ All HDMI splitters that I know of support at least 2K resolution (1920x1080)
 
 ## **General weirdness**
 
-Sometimes displays just don't like receiving a signal from an HDMI splitter and will show you a blank screen or some other problem.&#x20;
+Sometimes displays just don't like receiving a signal from an HDMI splitter and will show you a blank screen or some other problem.
 
 ## Alternatives
 
-This video explains explains the overall topic and explains your options: [https://www.youtube.com/watch?v=iKl\_3NYjlsY](https://www.youtube.com/watch?v=iKl_3NYjlsY)
+This video explains the overall topic and your options: [https://www.youtube.com/watch?v=iKl\_3NYjlsY](https://www.youtube.com/watch?v=iKl_3NYjlsY)
 
-In summary:&#x20;
+In summary:
 
 * If you have a **DisplayPort** port available, you can buy a DisplayPort to HDMI adapter. I use these often.
 * If you have a **DVI** port, you may be able to find an adapter that works. I don't have any experience with this.
-* If you have a **USB-C port THAT SUPPORTS A DISPLAY SIGNAL**, then you could buy a USB-C to- HDMI adapter. I have used one of these and found it to work, but it is flaky - working with some USB-C ports but not others.&#x20;
+* If you have a **USB-C port THAT SUPPORTS A DISPLAY SIGNAL**, then you could buy a USB-C to- HDMI adapter. I have used one of these and found it to work, but it is flaky - working with some USB-C ports but not others.
 
 ## Input lag
 
-There are many threads on this, some linked below - and there isn't a clear consensus. Some claim that there is no additional lag, some claim it does. Overall I haven't noticed that splitters that I have personally used have introduce any lag into the signal.
+There are many threads on this, some linked below, and there is not a clear consensus. Some claim that there is no additional lag, while others claim there is. Overall, I have not noticed that splitters I have personally used introduced any lag into the signal.
 
 * Do HDMI Splitters add LAG to your games ??? [https://www.youtube.com/watch?v=N-4IGVKkWvs](https://www.youtube.com/watch?v=N-4IGVKkWvs)
-* [https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/](https://www.reddit.com/r/pcmasterrace/comments/a015up/will_a_hdmi_switch_affect_my_fps/)&#x20;
+* [https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/](https://www.reddit.com/r/pcmasterrace/comments/a015up/will_a_hdmi_switch_affect_my_fps/)
 * [https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/](https://www.reddit.com/r/techsupport/comments/2pbbwj/do_hdmi_splittersswitchers_add_intput_lag_or/)
-
-
-
-
-
-
-
-
-
-&#x20;
-

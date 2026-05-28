@@ -1,4 +1,4 @@
-# Pen nib material
+# Nib material
 
 ## Overview
 
@@ -33,7 +33,7 @@ link: [https://alice-books.com/item/show/1113-7](https://alice-books.com/item/sh
 
 Machine-translated (Japanese to English) description: "This nib is made by integrally molding silicon nitride Si3N4 ceramic, which is said to have hardness second only to diamond, with a resin shaft. You will not have to worry about wear on the tip. The light ceramic writing experience feels surprisingly natural. There is no knockback when in contact with the tablet surface, and it doesn't cause fatigue even with long-term use. The smooth writing experience is user-friendly and easy to use.
 
-Compatible models: ProPen3, ProPen2, Pro Pen Slim
+Compatible models: ProPen3, ProPen2, Pro Pen Slim."
 
 ## What is a "felt" nib?
 

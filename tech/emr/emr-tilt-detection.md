@@ -2,7 +2,7 @@
 
 ## Overview
 
-EMR pens do NOT report the pens tilt to the tablet. For example it doesn't tell the tablet "I am tilted by 5 degrees"
+EMR pens do NOT report the pen's tilt to the tablet. For example, it doesn't tell the tablet, "I am tilted by 5 degrees."
 
 Instead, an EMR digitizer can detect the tilt of the pen just by examining the strength and shape of the signal the digitizer coils receive from the pen.
 
@@ -22,7 +22,7 @@ The work for the EMR sensor and tablet firmware is to detect that there are two 
 
 Once two peaks are established and their relative strengths and positions are known, then the direction of tilt and amount of tilt can be established and then reported to the computer.
 
-The specific algorithm to do this has, to my knowledge, never been exactly revealed. But those knowledgeable in how how signals like this are processed will probably have a clearer idea of how this tilt detection be done.
+The specific algorithm to do this has, to my knowledge, never been exactly revealed. But those knowledgeable in how signals like this are processed will probably have a clearer idea of how this tilt detection is done.
 
 ## **How tilt is reported to the computer**
 
@@ -32,11 +32,6 @@ The tablet measures the tilt in both the x and y directions
 
 Measuring as x tilt and y tilt is also equivalent to measuring as azimuth and altitude. Think of azimuth as an angle from the tablet measured from "north" and the altitude as how high the far end of the pen is from the tablet surface.
 
-In the example below the orange lines indicator the azimuth. And the purple line indicates the altitude (also known as elevation).
+In the example below, the orange lines indicate the azimuth. The purple line indicates the altitude, also known as elevation.
 
 <figure><img src="../../.gitbook/assets/image-000474.png" alt="" width="375"><figcaption></figcaption></figure>
-
-
-
-
-
