@@ -60,7 +60,7 @@ More here:
 * [Brands](../brands/)
 * [Choosing a drawing tablet brand](../brands/choosing-drawtab-brand.md)
 
-If you decide on Wacom and want a pen tablet, read this guide: [Wacom pen tablet comparison](../brands/wacom/wacom-pen-tablet-comparison.md). I plan to add a guide for Wacom pen displays.
+If you decide on Wacom and want a pen tablet, read this guide: [Wacom pen tablet comparison](../catalog/drawtabs/wacom/wacom-pen-tablet-comparison.md). I plan to add a guide for Wacom pen displays.
 
 ## **Core features**
 

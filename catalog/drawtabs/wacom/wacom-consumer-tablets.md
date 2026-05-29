@@ -11,4 +11,4 @@ Some important notes:
 * You have to pick by the specific model
 * Some models have very similar names but are very different. See: [Wacom One vs One by Wacom](wacom-one-vs-one-by-wacom.md)
 
-<figure><img src="../../.gitbook/assets/Wacom-consumer-tabs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Wacom-consumer-tabs.png" alt=""><figcaption></figcaption></figure>

@@ -6,4 +6,4 @@ This blog post is also a good summary of the history: [https://historyoftheartta
 
 See also this page: [https://www.billbuxton.com/inputTimeline.html](https://www.billbuxton.com/inputTimeline.html)
 
-If you want to see a list of drawing tablets from Wacom, go here: [Wacom tablet lists](../../brands/wacom/wacom-tablet-models.md)
+If you want to see a list of drawing tablets from Wacom, go here: [Wacom tablet lists](../../catalog/drawtabs/wacom/wacom-tablet-models.md)
