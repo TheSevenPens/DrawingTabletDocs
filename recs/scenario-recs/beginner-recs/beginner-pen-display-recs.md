@@ -14,7 +14,7 @@ If I had to pick one pen display for a beginner, I would recommend the **Huion K
 **Small 13-inch**
 
 * Huion Kamvas 13 GEN3 (GS1333) [Huion Kamvas 13 GEN3 (GS1333) notes](../../../catalog/drawtabs/huion/huion-gs1333-notes.md) ★★★
-* XP-Pen Artist 13 GEN2 (CD130FH) [XP-Pen Artist 13 GEN2 (CD130FH) notes](../../../catalog/drawtabs/xppen/xppen-cd130fh.md)
+* XP-Pen Artist 13 GEN2 (CD130FH) [XP-Pen Artist 13 GEN2 (CD130FH) notes](../../../catalog/drawtabs/xppen/xppen-cd130fh-notes.md)
 * XP-Pen Artist 12 GEN3 (CD121FH) [XP-Pen Artist 12 GEN3 (CD121FH) notes](../../../catalog/drawtabs/xppen/xppen-cd121fh-notes.md)
 
 **Medium 16-inch**

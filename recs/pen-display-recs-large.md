@@ -20,12 +20,12 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 ## VERY GOOD
 
 * Kamvas 22 GEN3 (GS2203) - [Kamvas 22 GEN3 (GS2203) notes](../catalog/drawtabs/huion/huion-gs2203-notes.md)
-* XP-Pen Artist Pro 22 GEN2 (MD220QH) [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](../catalog/drawtabs/xppen/xppen-md220qh.md)
+* XP-Pen Artist Pro 22 GEN2 (MD220QH) [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](../catalog/drawtabs/xppen/xppen-md220qh-notes.md)
 * Xencelabs Pen Display 24 (LPH2412U-A) [Xencelabs Pen Display 24 (LPH2412U-A) notes](../catalog/drawtabs/xencelabs/xencelabs-lph2412ua-notes.md)
 
 ## GOOD
 
-* XP-Pen Artist 22 Plus (MD220FH) [XP-Pen Artist 22 Plus (MD220FH) notes](../catalog/drawtabs/xppen/xppen-md220fh.md)
+* XP-Pen Artist 22 Plus (MD220FH) [XP-Pen Artist 22 Plus (MD220FH) notes](../catalog/drawtabs/xppen/xppen-md220fh-notes.md)
 * Huion Kamvas Pro 24 4K (GT2401) [Huion Kamvas Pro 24 4K (GT2401) notes](../catalog/drawtabs/huion/huion-gt2401-notes.md)
 * Huion Kamvas 24 Plus (GS2402)
 
