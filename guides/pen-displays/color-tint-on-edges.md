@@ -4,7 +4,7 @@
 
 Some pen displays exhibit a color tint (purple/lilac or yellow/orange) at the edges of the display.
 
-Characteristics:
+## Appearance
 
 * The tint is NOT pixelated or rough. It has a very smooth look.
 * It is often seen on all four edges. I can't think of any examples on only three or fewer edges.
@@ -12,17 +12,13 @@ Characteristics:
 * You may notice it only when colors on the screen are bright.
 * May appear when you first use your tablet, or develop much later. Out of 30+ pen displays, I have one display (Huion Kamvas 22 Plus) that developed a slight purple edge tint 3+ years after I bought it.
 
-## Appearance
+NOTE: The tint is greatly exaggerated in these diagrams.&#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000386.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Slide_20260602_113722.jpg" alt=""><figcaption></figcaption></figure>
 
-The tint is greatly exaggerated in these diagrams. In reality, it can be very subtle.
+In practice, the effect is usually VERY subtle - as you can see below.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000381.png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-Keep in mind the topic being discussed here is when the tint is at the edges, not when the tint is evenly distributed over the entire display.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image-000378.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Slide_20260602_113822.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Examples
 
