@@ -35,7 +35,7 @@ This is not a software, driver, or operating system problem. It seems to be due 
 * [2025-10-20 r/huion - Worn out Dial](https://www.reddit.com/r/huion/comments/1objmgr/worn_out_dial/)&#x20;
 * [2025-09-05 r/huion - is my kamvas 16 gen 3 faulty?](https://www.reddit.com/r/huion/comments/1n9kasz/is_my_kamvas_16_gen_3_faulty/)&#x20;
 * [2025-08-10 r/huion - Experiences with Kamvas Gen 3](https://www.reddit.com/r/huion/comments/1mmdwka/experiences_with_kamvas_gen_3/)&#x20;
-* [2024-12-02 r/huio - Huion Kamvas 13 gen 3 dial issue?](https://www.reddit.com/r/huion/comments/1h50r9h/huion_kamvas_13_gen_3_dial_issue/)
+* [2024-12-02 r/huion - Huion Kamvas 13 gen 3 dial issue?](https://www.reddit.com/r/huion/comments/1h50r9h/huion_kamvas_13_gen_3_dial_issue/)
 
 ## Potential fix
 
