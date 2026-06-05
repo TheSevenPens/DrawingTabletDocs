@@ -1,16 +1,16 @@
 # Huion Kamvas 16 GEN3 (GS1563) notes
 
-My full notes are not available yes, but I did livestream my unboxing and basic testing:
+My full notes are not available yet, but I did livestream my unboxing and basic testing:
 
 {% embed url="https://youtube.com/live/-qmdAHY4f40?feature=share" %}
 
 {% embed url="https://youtube.com/live/KSmhwa6MUjM?feature=share" %}
 
-I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16" pen display. It does exhibit i tiny bit of diagonal wobble when drawing smooth strokes, but stabilization/smoothing can eliminate that.
+I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16" pen display. It does exhibit a tiny bit of diagonal wobble when drawing smooth strokes, but stabilization/smoothing can eliminate that.
 
 ## Links
 
-* Product Page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)
+* Product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)
 * [Adam Duff review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=EA4A5B4GcUY) 2025-01-13
 * [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025-01-07
 * [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025-01-07
@@ -18,9 +18,9 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 ## Basics
 
-* Name: Huion Kamvas 16 GEN3&#x20;
+* Name: Huion Kamvas 16 GEN3
 * Model: GS1563
-* Year teleased: 2025
+* Year released: 2025
 
 ## Specs
 
@@ -28,24 +28,24 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 * Dimensions: 421.2 x 236.81 x 12.62mm
 * Weight: 1.245kg
-* Ports: 2 USB-c ports
-  * 1x USB-C Port for use with the 3-in-1 cable
-  * 1x Full-Featured USB-C Port
+* Ports: 2 USB-C ports
+  * 1x USB-C port for use with the 3-in-1 cable
+  * 1x full-featured USB-C port
 
 ### Digitizer
 
 * Size
   * Dimensions:
-    * 350 x 197mm&#x20;
-  * Diagonal (15.8”)
+    * 350 x 197mm
+  * Diagonal: 15.8”
 * Tech: EMR
 * Resolution: 200LPMM (5080 LPI)
-* Number of pressure levels: 16384&#x20;
+* Number of pressure levels: 16384
 * Hover: 10mm
 * Report Rate: ＞260PPS
-* Accuracy:&#x20;
-  * Center: ±0.3mm&#x20;
-  * Corner: ±2mm&#x20;
+* Accuracy:
+  * Center: ±0.3mm
+  * Corner: ±2mm
 
 ### Display
 
@@ -54,20 +54,20 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 * Display tech: IPS
 * Laminated: Yes
 * AG treatment: AG etched glass
-* Contrast Ratio: 1000:1
-* Brightness: 220nits
-* Response Time: 14ms
-* Viewing Angle: 89°/89°(H)/89°/89°(V) (Typ.)(CR＞10)
-* Color Gamut Volume:&#x20;
-  * 120% sRGB&#x20;
-  * Coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB)
-* Color bit depth: 8 bits per channel (24bits per pixel)
+* Contrast ratio: 1000:1
+* Brightness: 220 nits
+* Response time: 14ms
+* Viewing angle: 89°/89°(H)/89°/89°(V) (Typ.)(CR＞10)
+* Color Gamut Volume:
+  * 120% sRGB
+  * Coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB
+* Color bit depth: 8 bits per channel (24 bits per pixel)
 
 ## Pen
 
 ### Included pen
 
-* Tablet comes with PW600L&#x20;
+* Tablet comes with the PW600L
 * Pen Technology: Battery-Free Electromagnetic Resonance
 * Tilt Support: ±60°
 
@@ -80,14 +80,14 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 ### Touch
 
-This tablet does NOT support touch
+This tablet does NOT support touch.
 
 ## Ergonomics
 
 ### Stand
 
 * This tablet does NOT come with a stand in the box
-* The recommended stand is the Huion ST300&#x20;
+* The recommended stand is the Huion ST300.
 
 ## Compared to the XP-Pen Artist Pro 16 GEN2
 
@@ -95,24 +95,24 @@ These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the win
 
 **Kamvas 16 GEN3 advantages**
 
-* Can be connected with third-party USB-C cables (that meet the requirements). The XP-Pen tablet has a USB-C port that is recessed, so you need to use XP-Pens USB-C cable.
-* Huion PW600 pen has a wider pressure range is more consistent across units than the XP-Pen X3 pro series.
-* Has 6 buttons on the tablet . The XP-Pen has no buttons on the tablet but it comes with a shortcut remote.
-* Has 2 dials on the table. The XP-Pen has no dials but it comes with a shortcut remote.
+* Can be connected with third-party USB-C cables (that meet the requirements). The XP-Pen tablet has a USB-C port that is recessed, so you need to use XP-Pen's USB-C cable.
+* The Huion PW600 pen has a wider pressure range and is more consistent across units than the XP-Pen X3 Pro series.
+* Has 6 buttons on the tablet. The XP-Pen has no buttons on the tablet, but it comes with a shortcut remote.
+* Has 2 dials on the tablet. The XP-Pen has no dials, but it comes with a shortcut remote.
 
 **XP-Pen Artist Pro 16 GEN2 advantages**
 
-* The industrial design of the XP-Pen tablet is more attractive and stylish, the Huion looks more plain.
+* The industrial design of the XP-Pen tablet is more attractive and stylish. The Huion looks plainer.
 * Kamvas 16 GEN3 does NOT come with a separate shortcut remote. The XP-Pen Artist Pro 16 GEN2 comes with a shortcut remote with 10 buttons and 1 dial.
 
 **Other differences**
 
-* Kamvas 16 GEN3 has standard 16x9 aspect ratio - this matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16x10 aspect ratio.
-* The XP-Pen has legs built into the tablet for providing some angle. The Kamvas 16 GEN3 does not have any legs and instead comes with a simple stand. But for both I use a separate stand.
+* Kamvas 16 GEN3 has a standard 16:9 aspect ratio. This matches most monitors and other pen displays. The Artist Pro 16 GEN2 has a 16:10 aspect ratio.
+* The XP-Pen has legs built into the tablet to provide some angle. The Kamvas 16 GEN3 does not have any legs and instead comes with a simple stand. For both, I use a separate stand.
 
 **Known issues**
 
-*   Some users (not all) report that the dials on the Kamvas 16 GEN3 and the Kamvas 13 GEN3 can become non-functional after some time.&#x20;
+*   Some users (not all) report that the dials on the Kamvas 16 GEN3 and the Kamvas 13 GEN3 can become non-functional after some time.
 
     See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
