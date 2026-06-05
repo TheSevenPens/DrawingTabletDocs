@@ -465,6 +465,7 @@
       * [Huion Kamvas 16 2021 (GS1562) notes](catalog/drawtabs/huion/huion-gs1562-notes.md "Kamvas 16 2021 (GS1562)")
       * [Huion Kamvas 13 GEN3 (GS1333) notes](catalog/drawtabs/huion/huion-gs1333-notes.md "Kamvas 13 GEN3 (GS1333)")
       * [Huion Kamvas 13 (GS1331) notes](catalog/drawtabs/huion/huion-gs1331-notes.md "Kamvas 13 (GS1331)")
+      * [Dial problems with the Huion GS1333 and GS1563](catalog/drawtabs/huion/dial-problems-gs1333-gs1563.md)
     * [OnePlus](catalog/drawtabs/oneplus/README.md)
       * [OnePlus Pad](catalog/drawtabs/oneplus/oneplus-pad.md)
     * [Samsung](catalog/drawtabs/samsung/README.md)

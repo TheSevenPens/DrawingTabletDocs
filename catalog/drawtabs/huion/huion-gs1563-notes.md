@@ -112,7 +112,9 @@ These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the win
 
 **Known issues**
 
-* Some users (not all) report that the dials on the Kamvas 16 GEN3 and the Kamvas 13 GEN3 can become non-functional after some time. I have not personally experienced this. See the [Kamvas 13 GEN3 notes ](huion-gs1333-notes.md)for details.
+*   Some users (not all) report that the dials on the Kamvas 16 GEN3 and the Kamvas 13 GEN3 can become non-functional after some time.&#x20;
+
+    See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
 **What they have in common**
 

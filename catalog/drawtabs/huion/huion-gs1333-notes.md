@@ -188,7 +188,7 @@ The dials stick out a little bit from the edge of the tablet. Be aware of this w
 
 ### Dial issues
 
-* **Dials** As of July 2025, that some people report that the dials have stopped working. I don't think this is a super common issue but it is an issue I see reported with a little more frequency than I would expect. I have not personally experienced any problems with the dials. It is unclear what might be the cause of the problem.
+See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
 ## Compared to the Kamvas 13 (GS1331) and the Kamvas Pro 13 2.5K (GT1302)
 
