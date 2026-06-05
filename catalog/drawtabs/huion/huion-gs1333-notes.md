@@ -190,7 +190,7 @@ The dials stick out a little bit from the edge of the tablet. Be aware of this w
 
 See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
-## Compared to the Kamvas 13 (GS1331) and the Kamvas Pro 13 2.5K (GT1302)
+## Kamvas 13 GEN3 (GS1333) vs Kamvas 13 (GS1331) vs Kamvas Pro 13 2.5K (GT1302)
 
 **Summary**
 
