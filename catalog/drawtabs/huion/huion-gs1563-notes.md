@@ -1,16 +1,35 @@
 # Huion Kamvas 16 GEN3 (GS1563) notes
 
+## Overview
+
+A good tablet with great drawing experience with the included PW600L pen. I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16" pen display. It does exhibit a tiny bit of diagonal wobble when drawing smooth strokes, but stabilization/smoothing can eliminate that. Some people report problems with the dials.
+
+### Unboxing and testing live streams
+
 My full notes are not available yet, but I did livestream my unboxing and basic testing:
 
-{% embed url="https://youtube.com/live/-qmdAHY4f40?feature=share" %}
+* [https://www.youtube.com/watch?v=-qmdAHY4f40  ](https://www.youtube.com/watch?v=-qmdAHY4f40https://www.youtube.com/watch?v=KSmhwa6MUjM)
+* [https://www.youtube.com/watch?v=KSmhwa6MUjM](https://www.youtube.com/watch?v=-qmdAHY4f40https://www.youtube.com/watch?v=KSmhwa6MUjM)
 
-{% embed url="https://youtube.com/live/KSmhwa6MUjM?feature=share" %}
+### What's in the box
 
-I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16" pen display. It does exhibit a tiny bit of diagonal wobble when drawing smooth strokes, but stabilization/smoothing can eliminate that.
+* Kamvas 16 (Gen 3) ×1
+* Foldable Stand ST300 ×1
+* Battery-free Pen PW600L ×1
+* Standard Pen Nibs (Inside the Pen Holder) × 10
+* Pen Holder ×1
+* 3-in-1 Cable (1.8m) ×1
+* USB Extension Cable (1.2m) x1
+* USB-C to USB-C Cable (1m) × 1
+* USB-C to USB-A Cable (1m) ×1
+* Power Adapter  ×1
+* Artist Glove ×1
+* Cleaning Cloth ×1
 
 ## Links
 
 * Product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)
+* User manual: [https://driverdl.huion.com/instruction/Kamvas16-Gen3/User\_Manual\_Kamvas16\_Gen3\_en.pdf](https://driverdl.huion.com/instruction/Kamvas16-Gen3/User_Manual_Kamvas16_Gen3_en.pdf)&#x20;
 * [Adam Duff review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=EA4A5B4GcUY) 2025-01-13
 * [Ryan Allan review of Huion Kamvas 16 GEN3 (GS1563)](https://magma.com/blog/huion-kamvas-16-gen-3-review) 2025-01-07
 * [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025-01-07
@@ -24,7 +43,7 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 ## Specs
 
-### Device
+### Device specs
 
 * Dimensions: 421.2 x 236.81 x 12.62mm
 * Weight: 1.245kg
@@ -32,7 +51,7 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
   * 1x USB-C port for use with the 3-in-1 cable
   * 1x full-featured USB-C port
 
-### Digitizer
+### Digitizer  specs
 
 * Size
   * Dimensions:
@@ -47,7 +66,7 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
   * Center: ±0.3mm
   * Corner: ±2mm
 
-### Display
+### Display specs
 
 * Native resolution: 2560 x 1440
 * Aspect ratio: 16:9
@@ -67,9 +86,9 @@ I am very happy with this tablet and as of Jan 2025, it is my #1 recommended 16"
 
 ### Included pen
 
-* Tablet comes with the PW600L
+* Tablet comes with the PW600L which as a really good pen in terms of pressure handling.
 * Pen Technology: Battery-Free Electromagnetic Resonance
-* Tilt Support: ±60°
+* See: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 ## Non-pen inputs
 
@@ -89,7 +108,62 @@ This tablet does NOT support touch.
 * This tablet does NOT come with a stand in the box
 * The recommended stand is the Huion ST300.
 
-## Compared to the XP-Pen Artist Pro 16 GEN2
+## Display experience
+
+### Resolution
+
+With a native resolution of 2560 x 1440 (WQHD) and at 16 inches, the UI text is exceptionally tiny out of the box, meaning users will likely need to adjust scaling settings to make menus and buttons legible.&#x20;
+
+### Color accuracy
+
+Ships with an individual factory color calibration report displaying a Delta E of less than 1 (0.76 on the tested unit), guaranteeing high color fidelity out of the box
+
+### Surface Texture
+
+Features an etched glass surface. The reviewer noted it feels slightly slicker (less aggressively textured) than the high-end Kamvas Pro 19 `[01:05:09]`.&#x20;
+
+### Pixel Sharpness
+
+The anti-glare etching introduces a very slight, mild "softness" to the pixels. It is not blurry, but it lacks the ultra-crisp bite of a completely glossy panel like an iPad
+
+### Anti-glare sparkle
+
+Anti-glare sparkle is kept very low, and you have to get your eyes within inches of the screen to explicitly notice it.
+
+## Drawing experience
+
+### Pressure range
+
+The PW600L pen is very good -  low IAF, high max pressure. See: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
+
+### Low-pressure artifacts
+
+Like many drawing tablet pens, the pen is a little over-reactive near the IAF, drawing perfectly vertical with _extremely_ light pressure can occasionally produce slight pressure transitions or "wobble" artifacts as the hardware registers minor hand variations. Again this is normal and even if you notice it, you can handle it through pressure curves and pressure smoothing.
+
+### Diagonal wobble
+
+* Ultra-Slow Strokes: Exhibits a very minor, minimal amount of diagonal line wobble. It is completely acceptable but slightly more noticeable than on the Kamvas 13 Gen 3 or Pro 19&#x20;
+* Normal/Fast Strokes: No wobble present `-` The line quality remains straight during real-world drawing speeds.
+
+### Parallax
+
+VERY LOW (GOOD) . The cursor tracks directly underneath the physical pen tip, even when viewing the screen from severe, skewed angles.
+
+### Corner Accuracy
+
+EXCELLENT. While nearly all pen displays drift slightly at the extreme outer edges, the Kamvas 16 Gen 3 restricts this to just 1–2 millimeters, which does not impact normal workflow usage
+
+### Tilt Compensation
+
+EXCELLENT. Tracks flawlessly across all 4 quadrants (North, South, East, West). Tilted at 45 degrees, the cursor remains perfectly centered directly under the nib, rivaling Wacom Cintiq Pro performance
+
+## Cabling and connections
+
+### Power & Ports
+
+Features two right-side USBC ports (one recessed, one flat). The tablet can comfortably run off a single full-featured USBC cable connected to a laptop like a MacBook Pro that has a USB-C port that meets the requirements for data, power, and video signal.
+
+## Kamvas 16 GEN3 vs XP-Pen Artist Pro 16 GEN2
 
 These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the winner.
 
