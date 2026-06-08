@@ -362,6 +362,20 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 **Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide. It moves only if you deliberately force it to move. It requires less force to move than the PTH-660.
 
+## Flatness
+
+The Intuos Pro 2025 pen tablets are slightly bowed up. in the middle. The diagram below demonstrates it, but **greatly exaggerates** the amount of the bowing. In reality it seems like the bowing up is less than 0.5mm in the middle.
+
+<figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+This bowing seems widespread (I have seen it in a PTK-870 and PTK-670) and many other users have found it.
+
+A photo may reveal it, or even simpler , take the corner of a piece of paper try to slide it under the tablet. You will not be able to do so near the sides, bit in the middle the paper will go under the tablet. Be aware when using the paper method, that the surface the tablet is on may not be perfectly flat.&#x20;
+
+The bowing does NOT seem to be noticable in drawing. No user has complained of this affect how drawing works with the tablet.
+
+We are unclear about the exact cause, but suspect it is due to the the extreme thinness of the Intuos Pro 2025 series. Bowing is not uncommon in tablets - I even have a Intuos Pro 2017 Medium (PTH-660) which bows in the same exact way. They key thing to understand is that it is NOT a cause for concern even if you notice it.&#x20;
+
 ## Surface Texture
 
 Summary: Great texture feeling across all nib types.
