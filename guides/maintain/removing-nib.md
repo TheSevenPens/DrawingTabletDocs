@@ -26,8 +26,6 @@ This pen case has a nib remover (the small metal ring) built in.
 
 ## Removing a broken nib stuck in the pen
 
-A nib that has snapped off or has worn down and left part of itself inside the pen may require special techniques. See [Removing a broken nib](removing-broken-nib.md).
-
 If the nib is broken in half and stuck deeply inside, or if there is not enough of it to grip, normal techniques may not get it out. Here are some other options.
 
 <figure><img src="../../.gitbook/assets/image-000619.jpg" alt="" width="563"><figcaption></figcaption></figure>
