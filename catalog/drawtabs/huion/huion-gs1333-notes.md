@@ -6,13 +6,13 @@ The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I recommend this tablet
 
 The drawing experience is good — better than I would expect from an entry-level drawing tablet in 2024.
 
-Highlights
+### Highlights
 
 * Has two dials in addition to 5 buttons
 * Uses the new PW600L pen that has a wide pressure range
 * Big upgrade from the Huion Kamvas 13 (GS1331)
 
-Things to be aware of
+### Things to be aware of
 
 * If you want to connect via USB-C, you need to buy that cable separately
 
@@ -37,7 +37,22 @@ Things to be aware of
 * Diagonal length: 13.27"
 * Aspect ratio: 16:9
 
-## Pen
+## Specs
+
+### Display specs
+
+* Native resolution: 1920x1080
+* Refresh rate: 60Hz
+* Aspect ratio: 16:9
+* Lamination: YES
+* Viewing angle: 178°
+* Response time: 25ms
+* Brightness: 220 nits
+* Contrast ratio: 1000:1
+* Anti-glare treatment: Etched glass
+* Color depth: 8-bit
+
+## Included pen
 
 It comes with the PW600L pen. It has an excellent pressure range. The PW600L does not have an eraser like the other PW600 pen models.
 
@@ -55,6 +70,8 @@ More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 ## Drawing experience
 
+### Overview
+
 The drawing experience was VERY GOOD.
 
 In summary:
@@ -68,7 +85,7 @@ In summary:
 * Parallax - GOOD
 * Pointer lag - MODERATE (typical for a pen display)
 
-## Pen tracking accuracy
+### Pen tracking accuracy
 
 Huion states:
 
@@ -79,69 +96,58 @@ RATING: VERY GOOD
 
 I found the pen tracking very accurate. The pointer follows the tip of the pen very accurately across the entire surface. And in my unit, the corners seemed even more accurate than ±2mm.
 
-## Tilt compensation
+### Tilt compensation
 
 RATING: VERY GOOD
 
 * At 45 degrees of tilt - I saw almost no deflection of the pointer away from the tip of the nib
 * At 60 degrees of tilt - It was still very good - sometimes as good as at 45 degrees - though sometimes I saw maybe a 1mm deflection
 
-## Pointer lag
+### Pointer lag
 
 TYPICAL for a pen display. The pointer lag did not interfere with my drawing in any way.
 
-## Diagonal wobble
+### Diagonal wobble
 
 RATING: GOOD. Low amount of diagonal wobble.
 
 <figure><img src="../../../.gitbook/assets/image-000169.png" alt=""><figcaption></figcaption></figure>
 
-## Display
+## Display experience
 
-* Native resolution: 1920x1080
-* Refresh rate: 60Hz
-* Aspect ratio: 16x9
-* Lamination: YES
-* Viewing angle: 178°
-* Response time: 25ms
-* Brightness: 220 nits
-* Contrast ratio: 1000:1
-* Anti-glare treatment: Etched glass
-* Color depth: 8-bit
-
-## Anti-glare treatment
+### Anti-glare treatment
 
 The tablet uses etched glass. This is a change from the previous model, which used an AG matte film.
 
-## Anti-glare sparkle
+### Anti-glare sparkle
 
 Very little visible. This is a big improvement over the previous model.
 
-## Pressure scan rate
+### Pressure scan rate
 
 GOOD. I drew 50 small quick strokes as fast as I could. No strokes were lost.
 
-## Display sharpness
+### Display sharpness
 
 Pixels are clear and well delineated. The image does not look "soft".
+
+### Surface texture
+
+GOOD. It provides good grip, even when the pen uses a plastic nib. The surface texture seems comparable to the Kamvas Pro 19. Actually, the Kamvas 13 GEN3 seems to have slightly more texture.
 
 ## Touch
 
 N/A. This tablet does NOT support touch.
-
-## Surface texture
-
-GOOD. It provides good grip, even when the pen uses a plastic nib. The surface texture seems comparable to the Kamvas Pro 19. Actually, the Kamvas 13 GEN3 seems to have slightly more texture.
 
 ## Connections and cabling
 
 ### Ports
 
 * 2x USB-C ports
-* Upper USB-C port is recessed into the tablet. Intended for use with the Huion 3-in-1 cable
+* Upper USB-C port is recessed into the tablet. It is intended for use with the Huion 3-in-1 cable
 * Lower USB-C port is flush against the surface of the tablet and intended for use with a USB-C cable
 
-## USB-C connection
+### USB-C connection
 
 The tablet can connect to your computer with a single USB-C cable. If more power is needed, you can use another USB-C cable plugged into a power adapter.
 
@@ -155,21 +161,23 @@ The tablet comes with a 3-in-1 cable if you need to use an HDMI port with your c
 
 <figure><img src="../../../.gitbook/assets/image-000648.jpg" alt=""><figcaption></figcaption></figure>
 
-## VESA
+## Ergonomics
+
+### VESA
 
 This tablet does NOT support VESA mounting.
 
-## Legs
+### Legs
 
 This tablet does NOT have legs.
 
-## Heat
+### Heat
 
 I set the brightness to 100% and continued to use the tablet for 1 hour.
 
-The left 2/3rds of the tablet felt like room temperature to my hands.
+The left two-thirds of the tablet felt like room temperature to my hands.
 
-The right 1/3 of the tablet got slightly warm - most of that was closer to the USB-C port locations. The warmth did not concern me and seemed very normal for a pen display.
+The right one-third of the tablet got slightly warm — most of that was closer to the USB-C port locations. The warmth did not concern me and seemed very normal for a pen display.
 
 ## Audio
 
@@ -184,22 +192,24 @@ The tablet has:
 
 ### Protecting the dials
 
-The dials stick out a little bit from the edge of the tablet. Be aware of this when storing or transporting the tablet. I recommend avoiding anything pressing constantly on the dials. And certainly don't store the tablet with the dials on the bottom. I don't know if the dials are so fragile that they need that much protection, but I think it is wise to be careful.
+The dials stick out a little from the edge of the tablet. Be aware of this when storing or transporting the tablet. I recommend avoiding anything that presses constantly on the dials. Do not store the tablet with the dials on the bottom. I do not know if the dials are so fragile that they need that much protection, but I think it is wise to be careful.
 
 ### Dial issues
 
 See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
-## Kamvas 13 GEN3 (GS1333) vs Kamvas 13 (GS1331) vs Kamvas Pro 13 2.5K (GT1302)
+## Comparisons
+
+### Kamvas 13 GEN3 (GS1333) vs Kamvas 13 (GS1331) vs Kamvas Pro 13 2.5K (GT1302)
 
 **Summary**
 
-The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older edition Kamvas 13 (GS1331) and is even mostly an upgrade from the Kamvas Pro 13 2.5K (GT1302).
+The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older Kamvas 13 (GS1331) and is even mostly an upgrade from the Kamvas Pro 13 2.5K (GT1302).
 
 * The GS1333 uses the PW600L pen, which is much better than the PW517 pen that comes with the other two tablets.
   * The PW600L has a slightly better IAF. Huion states 2gf. It also has a wider pressure range. [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md).
   * The PW517 has a standard IAF. Huion states 2gf. Its pressure range is variable - it is sometimes OK-ISH and sometimes GOOD depending on the specific unit you get. [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md).
-* The GS1333 has much less anti-glare sparkle than the GS1333 and GS1331.
+* The GS1333 has much less anti-glare sparkle than the GT1302 and GS1331.
 * The GS1333 has one USB-C port that is flush with the surface of the tablet, making it possible to use third-party USB-C cables. (See [Connecting a pen display with USB-C](../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)).
 * The addition of the dials to the GS1333 makes it easier to work without having to touch the keyboard.
 
@@ -214,19 +224,19 @@ If you want that higher resolution of the GT1302, then wait until Huion releases
 * Pen in the box
   * Kamvas 13 GEN3 (GS1333) - PW600L (VERY GOOD)
   * Kamvas 13 (GS1331) - PW517 (OK-ISH OR GOOD, depends on the specific unit you get)
-  * Kamvas Pro 13 2.5K (1302) - PW517 (OK-ISH OR GOOD, depends on the specific unit you get)
+  * Kamvas Pro 13 2.5K (GT1302) - PW517 (OK-ISH OR GOOD, depends on the specific unit you get)
 * Anti-glare treatment
   * Kamvas 13 GEN3 (GS1333) - etched glass
   * Kamvas 13 (GS1331) - AG matte film
-  * Kamvas Pro 13 2.5K (1302) - etched glass
+  * Kamvas Pro 13 2.5K (GT1302) - etched glass
 * Amount of anti-glare sparkle
   * Kamvas 13 GEN3 (GS1333) - LOW (GOOD)
   * Kamvas 13 (GS1331) - MODERATE (OK)
-  * Kamvas Pro 13 2.5K (1302) - MODERATE (OK)
+  * Kamvas Pro 13 2.5K (GT1302) - MODERATE (OK)
 * USB-C Ports
   * Kamvas 13 GEN3 (GS1333) - one flush with the surface, one recessed
   * Kamvas 13 (GS1331) - both ports recessed
-  * Kamvas Pro 13 2.5K (1302) - both ports flush with the surface
+  * Kamvas Pro 13 2.5K (GT1302) - both ports flush with the surface
 * Resolution
   * Kamvas 13 GEN3 (GS1333) - Full HD (1920x1080)
   * Kamvas 13 (GS1331) - Full HD (1920x1080)
