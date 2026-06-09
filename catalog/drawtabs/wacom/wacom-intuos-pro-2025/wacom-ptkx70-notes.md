@@ -10,7 +10,7 @@ This is an EXCELLENT tablet, but may not be the right one for you if:
 
 ## Companion video
 
-If you would rather watch: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
+If you would rather watch, use this video: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
 
 But do check this document for any updates since the original video was published.
 
@@ -170,7 +170,7 @@ The PTK-x70 series tablets come with pairs of ExpressKey rings and dials.
 
 <figure><img src="../../../../.gitbook/assets/image-000671 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-Though do be aware that the number of ExpressKeys and dials depends on which size tablet in the PTK-x70 series you get.
+Do be aware that the number of ExpressKeys and dials depends on which tablet size in the PTK-x70 series you get.
 
 <figure><img src="../../../../.gitbook/assets/image-000672.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -202,13 +202,13 @@ It is possible to accidentally hit the ExpressKeys and dials depending on how th
 
 ## Usage notes on dials
 
-* Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.
+* Be aware that the dials only support rotation. They do not support pressing the dial as a third action. This is not a problem, but I am used to doing that with the TourBox dials, so I wanted to mention it.
 * The dials feel nice to rotate. Rotating produces a soft click feel and a small sound.
 * The dials do not rotate too easily nor do they require too much force to rotate.
 
 ## Usage notes on ExpressKeys
 
-* It is not obvious in pictures but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
+* It is not obvious in pictures, but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
 
 ## Ergonomics
 
@@ -224,13 +224,13 @@ However, with the Intuos Pro 2025, the non-drawing hand will cover some part of 
 
 ### Usage notes on dials
 
-* Be aware that the dials only support Rotation. They do not support pressing the dial as a third action. This is not a problem, but I am just used to being able to do that with the TourBox dials so I wanted to mention it.
+* Be aware that the dials only support rotation. They do not support pressing the dial as a third action. This is not a problem, but I am used to doing that with the TourBox dials, so I wanted to mention it.
 * The dials feel nice to rotate. Rotating produces a soft click feel and a small sound.
 * The dials do not rotate too easily nor do they require too much force to rotate.
 
 ### Usage notes on ExpressKeys
 
-* It is not obvious in pictures but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
+* It is not obvious in pictures, but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
 
 <figure><img src="../../../../.gitbook/assets/image-000678.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -281,7 +281,7 @@ Also note that the new Intuos Pro 2025 large is physically very close in size to
 With the device sizes shrinking but the active area increasing, the bezels have really changed size.
 
 * 3 Bezels have significantly shrunk
-* TOP bezel which has grown a bit to hold the ExpressKeys and dials
+* The TOP bezel has grown a bit to hold the ExpressKeys and dials
 * All numbers here are approximate
 
 <table><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.2%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
@@ -310,7 +310,7 @@ There is a slight bump at the edge of the tablet. In photos, it is hard to tell 
 
 <figure><img src="../../../../.gitbook/assets/image-000685.jpg" alt=""><figcaption></figcaption></figure>
 
-But you can feel the difference. The diagram below exaggerates the feeling, but with the 2025 medium you can definitely feel the edge of the tablet more. While not painful and it does not "dig into" the hand, I do notice it and other users might be disturbed by it.
+But you can feel the difference. The diagram below exaggerates the feeling, but with the 2025 medium you can definitely feel the edge of the tablet more. While it is not painful and does not "dig into" the hand, I do notice it, and other users might be disturbed by it.
 
 <figure><img src="../../../../.gitbook/assets/image-000686.png" alt=""><figcaption></figcaption></figure>
 
@@ -364,17 +364,17 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 ## Flatness
 
-The Intuos Pro 2025 pen tablets are slightly bowed up. in the middle. The diagram below demonstrates it, but **greatly exaggerates** the amount of the bowing. In reality it seems like the bowing up is less than 0.5mm in the middle.
+The Intuos Pro 2025 pen tablets are slightly bowed up in the middle. The diagram below demonstrates it, but **greatly exaggerates** the amount of the bowing. In reality, it seems like the bowing is less than 0.5 mm in the middle.
 
 <figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 This bowing seems widespread (I have seen it in a PTK-870 and PTK-670) and many other users have found it.
 
-A photo may reveal it, or even simpler , take the corner of a piece of paper try to slide it under the tablet. You will not be able to do so near the sides, bit in the middle the paper will go under the tablet. Be aware when using the paper method, that the surface the tablet is on may not be perfectly flat.&#x20;
+A photo may reveal it, or, more simply, take the corner of a piece of paper and try to slide it under the tablet. You will not be able to do so near the sides, but in the middle the paper will go under the tablet. Be aware, when using the paper method, that the surface the tablet is on may not be perfectly flat.
 
-The bowing does NOT seem to be noticable in drawing. No user has complained of this affect how drawing works with the tablet.
+The bowing does NOT seem to be noticeable while drawing. No user has complained that this affects how drawing works with the tablet.
 
-We are unclear about the exact cause, but suspect it is due to the the extreme thinness of the Intuos Pro 2025 series. Bowing is not uncommon in tablets - I even have a Intuos Pro 2017 Medium (PTH-660) which bows in the same exact way. They key thing to understand is that it is NOT a cause for concern even if you notice it.&#x20;
+We are unclear about the exact cause, but suspect it is due to the extreme thinness of the Intuos Pro 2025 series. Bowing is not uncommon in tablets. I even have an Intuos Pro 2017 Medium (PTH-660) that bows in the same exact way. The key thing to understand is that it is NOT a cause for concern, even if you notice it.
 
 ## Surface Texture
 
@@ -414,8 +414,8 @@ The port is located on the right side, close to the top.
 
 ### USB Cables
 
-* The tablet comes with USB-A → USB-C cable
-* Should be able to use any USB-C cable that supports data
+* The tablet comes with a USB-A → USB-C cable
+* You should be able to use any USB-C cable that supports data
 * I tested with these three cables, and all worked:
   * Included USB-A → USB-C cable
   * Intuos Pro 2017 cable
@@ -459,7 +459,7 @@ We think this pattern has these benefits:
 
 Can this pattern be felt?
 
-* By fingers - NO
+* By touch - NO
 * By "normal" drawing - NO
 * By "pressing very hard" - YES
 
