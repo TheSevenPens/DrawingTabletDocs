@@ -364,7 +364,7 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 ## Flatness
 
-The Intuos Pro 2025 pen tablets are slightly bowed up in the middle. The diagram below demonstrates it, but **greatly exaggerates** the amount of the bowing. In reality, it seems like the bowing is less than 0.5 mm in the middle.
+The Intuos Pro 2025 pen tablets are slightly bowed up in the middle. The diagram below demonstrates it, but **greatly exaggerates** the amount of the bowing. In reality, it seems like the bowing is about 0.15mm in the middle.
 
 <figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
