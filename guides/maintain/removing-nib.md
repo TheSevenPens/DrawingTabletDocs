@@ -2,7 +2,7 @@
 
 ## Overview
 
-Removing the nib in the pen is a common maintenance task to deal with nibs that are wearing down and need to be replaced. You may also need to do this in an emergency if the nib is broken.
+Removing the nib from the pen is a common maintenance task to deal with nibs that are wearing down and need to be replaced. You may also need to do this in an emergency if the nib is broken.
 
 ## Purpose-built nib removers
 
@@ -24,9 +24,38 @@ This pen case has a nib remover (the small metal ring) built in.
 * Needle-nose pliers
 * Fingernail clippers
 
-## Broken nib stuck in pen
+## Removing a broken nib stuck in the pen
 
-A nib that has snapped off and left part of itself inside the pen may require special techniques. See [Removing a broken nib](removing-broken-nib.md).
+A nib that has snapped off or has worn down and left part of itself inside the pen may require special techniques. See [Removing a broken nib](removing-broken-nib.md).
+
+If the nib is broken in half and stuck deeply inside, or if there is not enough of it to grip, normal techniques may not get it out. Here are some other options.
+
+<figure><img src="../../.gitbook/assets/image-000619.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+### OPTION: Precision tweezers
+
+I used this iFixit set of precision tweezers. Specifically, I used the one in the middle. I was not able to put both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly pull it out a little at a time. Once enough was exposed, I used the tweezers normally to pull the nib out.
+
+<figure><img src="../../.gitbook/assets/image-000417 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### OPTION: The hot glue method
+
+This method involves using a glue gun. Roughly, the steps are:
+
+* Put a very tiny amount of hot glue on the end of a toothpick
+* Then keep the toothpick touching the nib inside the pen for a minute as the glue cools
+* Then pull the toothpick, which should hopefully cause the nib to come out
+
+You have to be careful not to get glue stuck inside the pen.
+
+### OPTION: The hot needle method
+
+Stick a heated needle into the nib and, when the plastic of the nib cools, pull it out. Some people suggest combining this technique with glue on the needle tip. <mark style="color:red;">**Use this option with great caution. People have ruined their pens and made the problem worse with this hot needle technique.**</mark>
+
+### Reddit threads about broken nibs
+
+* [r/huion - Help, I’ve broken my stylus nib, is there a way to get the rest of the nib out?](https://www.reddit.com/r/huion/comments/1104oj6/help_ive_broken_my_stylus_nib_is_there_a_way_to/) 2023-09-11
+* [r/wacom - Wacom Bamboo Ink nib broke and I can't get it out](https://www.reddit.com/r/wacom/comments/73bndc/wacom_bamboo_ink_nib_broke_and_i_cant_get_it_out/) 2017-09-29
 
 ## Videos
 
