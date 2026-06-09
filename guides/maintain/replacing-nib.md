@@ -1,17 +1,21 @@
 # Replacing a nib
 
+{% hint style="info" %}
+If you need to remove the old nib first, see [Removing a nib](removing-nib.md).
+{% endhint %}
+
 ## Overview
 
-To buy a replacement nib, you need to find the specific nibs that are compatible with your pen.
+To buy a replacement nib, first find which nibs are compatible with your pen.
 
-You might find this information:
+You can usually find this information:
 
 * On the box
 * In the user manual
-* On the manufacturer's website. It might be listed on a page describing the pen. For this, you need to find the model number of your pen.
-* If you need help, contact support.
+* On the manufacturer's website. Look for the pen page. You may need your pen's model number.
+* From customer support
 
-I recommend you double-check your pen against photos on the manufacturer's website.
+I recommend that you double-check your pen against the photos on the manufacturer's website.
 
 See:
 
@@ -20,8 +24,8 @@ See:
 
 ## Only use compatible nibs
 
-Only put nibs in your pen that are designed for it.
+Only use nibs designed for your pen.
 
-I do not recommend putting in nibs from other brands or pens.
+Do not use nibs from other brands or other pen models.
 
-What sometimes happens is that these other nibs seem to fit, but they are not long enough. They can slide completely inside the pen and cannot be removed. That means you may need to buy a new pen.
+Sometimes these nibs seem to fit, but they are too short. They can slide completely inside the pen and become impossible to remove. If that happens, you may need a new pen.
