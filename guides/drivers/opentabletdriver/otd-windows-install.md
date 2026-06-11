@@ -215,7 +215,7 @@ What to notice here: The tip settings, eraser settings, and the buttons have bee
 
 Click **SAVE** and **APPLY**.
 
-NOTE: You cannot assign the pen buttons to take MOUSE actions such as right-click and left-click, etc.
+NOTE: Assigning pen buttons to take MOUSE actions such as left-click, right-click, or middle-click may cause unstable input. Doing so requires switching from the windows ink cursor to the mouse cursor, syncing the position, and sending the mouse button.
 
 ### STEP 3.6: Configure your drawing application to use Windows Ink
 
