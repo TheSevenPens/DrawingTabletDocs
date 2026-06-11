@@ -2,7 +2,7 @@
 
 ## Summary
 
-A very worth successor to the Kamvas 22 (GS2201)  and Kamvavs 22 Plus (GS2202) models from 2020. Like the other Huion GEN3 pen displays, the primary improvement comes with the PW600L that is included with these models. The other surprising addition is the included support for up to 90Hz refresh rate. Also the cabling is simpler than the previous GS2201 & GS2202.
+A worthy successor to the Kamvas 22 (GS2201) and Kamvas 22 Plus (GS2202) models from 2020. Like the other Huion GEN3 pen displays, the primary improvement comes from the included PW600L. Another surprising addition is support for up to a 90Hz refresh rate. The cabling is also simpler than on the GS2201 and GS2202.
 
 ## Links
 
@@ -43,15 +43,15 @@ The tablet works with the other PW600 series pens:
 * Effect of refresh rate on sharpness
   * There is a very slight softening of the pixels when using the 90Hz refresh rate.
   * This slight softening is very minor, almost imperceptible to me. Some people do clearly notice it, though.
-  * Even at 90Hz, the pixels of this tablet are sharper than the Kamvas Pro 19 (GT1902), which only supports 60Hz
+  * Even at 90Hz, the pixels of this tablet are sharper than those of the Kamvas Pro 19 (GT1902), which only supports 60Hz.
   * Cause of extra softness at 90Hz
-    * The cause is unknown
-    * No apparent setting in Windows seems to affect it
-    * No apparent setting in the Nvidia app seems to affect it
+    * The cause is unknown.
+    * No apparent setting in Windows seems to affect it.
+    * No apparent setting in the Nvidia app seems to affect it.
 
 ### Color
 
-* The tablet comes with a display color calibration report showing a Delta E of 0.90 (anything less than 2.0 is considered good)
+* The tablet comes with a display color calibration report showing a Delta E of 0.90. Anything less than 2.0 is considered good.
 * Looking at the display from different horizontal and vertical angles did not cause any noticeable shifts in color or brightness.
 * The display has a special monochrome display mode. This might be useful for some people in certain situations, but I didn't have any use for it.
 
@@ -69,7 +69,7 @@ The 90Hz refresh rate does provide a small improvement to the perception of poin
 
 ### Pen tracking accuracy (static, vertical)
 
-I found that the pen's position was tracked very accurately across the entire screen. Like all pen displays, there is a slight deviation a few millimeters from the screen edge.
+I found that the pen's position was tracked very accurately across the entire screen. Like all pen displays, there is a slight deviation a few millimeters from the screen edges.
 
 ### Diagonal wobble
 
@@ -77,7 +77,7 @@ Overall, it is good. While there is a little bit of wobble, it is comparable to 
 
 * slow strokes - a small bit of wobble
 * medium speed strokes - a tiny bit of wobble (less than with slow strokes)
-* Fast strokes - no wobble
+* fast strokes - no wobble
 
 ## Connectivity and cabling
 
@@ -102,13 +102,13 @@ This requires 3 cables:
 This requires 2 cables:
 
 * Power
-* Full-featured USB-C — your computer needs a USB-C port that meets all the requirements
+* Full-featured USB-C — your computer needs a USB-C port that meets all the requirements.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Misc
 
-* There is a plastic cover to hide the ports. You do not need to use it, but it does clean up the look
+* There is a plastic cover to hide the ports. You do not need to use it, but it does clean up the look.
 * I do like the port locations because they hide the cables from view
 * I do wish this tablet (and many others) also came with DisplayPort ports because so many GPUs have only one HDMI output, but multiple DisplayPort outputs.
 
@@ -134,7 +134,7 @@ YES - 4 VESA mounting holes on the back.
 
 ### Ambient RGB lighting
 
-The tablet has an RGB light strip rectangle on the back. You can control the color and light intensity from the driver.
+The tablet has an RGB light strip on the back. You can control the color and light intensity from the driver.
 
 Even at 100% intensity, the light is not very bright. You would only notice it in a very dark environment, and even then it is not intense.
 
@@ -142,5 +142,5 @@ I do like the idea of having lighting like this, but if Huion releases more tabl
 
 ### Misc
 
-* Rubber feet at the bottom of the tablet keep the bottom of the tablet secure to the desk when propped up at an angle.
-* Size - While everyone has their preferred size for a pen display, 22" is definitely my favorite size for a pen display. It is large enough for me without being too large.
+* Rubber feet at the bottom keep the tablet secure on the desk when it is propped up at an angle.
+* Size - While everyone has their preferred size for a pen display, 22" is definitely my favorite size. It is large enough for me without being too large.

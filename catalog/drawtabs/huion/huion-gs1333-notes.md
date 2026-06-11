@@ -2,9 +2,7 @@
 
 ## Overview
 
-The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I recommend this tablet and think it makes an excellent choice for an entry-level tablet.
-
-The drawing experience is good — better than I would expect from an entry-level drawing tablet in 2024.
+The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I recommend this tablet and think it makes an excellent choice for an entry-level tablet. The drawing experience is good — better than I would expect from an entry-level drawing tablet in 2024.
 
 ### Highlights
 
@@ -12,9 +10,10 @@ The drawing experience is good — better than I would expect from an entry-leve
 * Uses the new PW600L pen that has a wide pressure range
 * Big upgrade from the Huion Kamvas 13 (GS1331)
 
-### Things to be aware of
+### Known issues
 
 * If you want to connect via USB-C, you need to buy that cable separately
+* Some units have a known issue with the dials: See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
 ## Video
 
@@ -153,7 +152,7 @@ The tablet can connect to your computer with a single USB-C cable. If more power
 
 HOWEVER: The tablet DOES NOT come with these cables. You'll have to order them separately.
 
-<figure><img src="../../../.gitbook/assets/image-000647 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000647.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3-in-1 cable connection
 
