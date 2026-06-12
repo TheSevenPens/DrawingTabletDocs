@@ -2,7 +2,7 @@
 
 ## Overview
 
-The pen is from an older generation of pen technology, with a higher IAF than modern EMR pens. If a tablet comes with this pen, you might be okay with it. In general, I would recommend a different tablet with a different pen.
+The pen is from an slightly older generation of pen technology, with a bit higher IAF than modern consumer EMR pens. If a tablet comes with this pen, you might be okay with it. It would make for OK beginner pen. But if you need to draw with a really light touch, I would recommend a tablet with a different pen.
 
 ## Pen tech
 

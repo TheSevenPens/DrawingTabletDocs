@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is OK tablet that despite being released in 2025, uses an older generation of pen technology that has a higher IAF than modern consumer tablets.
+This is OK tablet that despite being released in 2025, uses an older generation of pen technology that has a higher IAF than modern consumer tablets. It might work well as a tablet for a beginner - someone new to drawing tablets.&#x20;
 
-A better choice in 2025 would be these tablets: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
+There similar tablets with better pens: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
 
 ## Basics
 
