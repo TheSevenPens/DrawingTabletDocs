@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I recommend this tablet and think it makes an excellent choice for an entry-level tablet. The drawing experience is good — better than I would expect from an entry-level drawing tablet in 2024.
+The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is an excellent choice for an entry-level tablet. The drawing experience is better than I would expect from an entry-level drawing tablet in 2024.
 
 ### Highlights
 
@@ -13,7 +13,7 @@ The Kamvas 13 GEN3 (GS1333) is a really good 13" tablet. I recommend this tablet
 ### Known issues
 
 * If you want to connect via USB-C, you need to buy that cable separately
-* Some units have a known issue with the dials: See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
+* Some units have a known issue with the dials. See [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
 ## Video
 
@@ -93,18 +93,18 @@ Huion states:
 
 RATING: VERY GOOD
 
-I found the pen tracking very accurate. The pointer follows the tip of the pen very accurately across the entire surface. And in my unit, the corners seemed even more accurate than ±2mm.
+I found the pen tracking very accurate. The pointer follows the tip of the pen very accurately across the entire surface. On my unit, the corners seemed even more accurate than ±2 mm.
 
 ### Tilt compensation
 
 RATING: VERY GOOD
 
-* At 45 degrees of tilt - I saw almost no deflection of the pointer away from the tip of the nib
-* At 60 degrees of tilt - It was still very good - sometimes as good as at 45 degrees - though sometimes I saw maybe a 1mm deflection
+* At 45 degrees of tilt, I saw almost no deflection of the pointer away from the tip of the nib
+* At 60 degrees of tilt, it was still very good. Sometimes it was as good as at 45 degrees, though sometimes I saw about 1 mm of deflection
 
 ### Pointer lag
 
-TYPICAL for a pen display. The pointer lag did not interfere with my drawing in any way.
+Typical for a pen display. The pointer lag did not interfere with my drawing in any way.
 
 ### Diagonal wobble
 
@@ -120,7 +120,7 @@ The tablet uses etched glass. This is a change from the previous model, which us
 
 ### Anti-glare sparkle
 
-Very little visible. This is a big improvement over the previous model.
+Very little is visible. This is a big improvement over the previous model.
 
 ### Pressure scan rate
 
@@ -144,13 +144,13 @@ N/A. This tablet does NOT support touch.
 
 * 2x USB-C ports
 * Upper USB-C port is recessed into the tablet. It is intended for use with the Huion 3-in-1 cable
-* Lower USB-C port is flush against the surface of the tablet and intended for use with a USB-C cable
+* Lower USB-C port is flush with the tablet surface and is intended for use with a USB-C cable
 
 ### USB-C connection
 
 The tablet can connect to your computer with a single USB-C cable. If more power is needed, you can use another USB-C cable plugged into a power adapter.
 
-HOWEVER: The tablet DOES NOT come with these cables. You'll have to order them separately.
+However, the tablet does not come with these cables. You have to order them separately.
 
 <figure><img src="../../../.gitbook/assets/image-000647.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -176,7 +176,7 @@ I set the brightness to 100% and continued to use the tablet for 1 hour.
 
 The left two-thirds of the tablet felt like room temperature to my hands.
 
-The right one-third of the tablet got slightly warm — most of that was closer to the USB-C port locations. The warmth did not concern me and seemed very normal for a pen display.
+The right one-third of the tablet got slightly warm — mostly near the USB-C ports. The warmth did not concern me and seemed very normal for a pen display.
 
 ## Audio
 
@@ -191,7 +191,7 @@ The tablet has:
 
 ### Protecting the dials
 
-The dials stick out a little from the edge of the tablet. Be aware of this when storing or transporting the tablet. I recommend avoiding anything that presses constantly on the dials. Do not store the tablet with the dials on the bottom. I do not know if the dials are so fragile that they need that much protection, but I think it is wise to be careful.
+The dials stick out a little from the edge of the tablet. Be aware of this when storing or transporting the tablet. I recommend avoiding anything that presses constantly on the dials. Do not store the tablet with the dials on the bottom. I do not know if the dials are fragile enough to need that much protection, but it is wise to be careful.
 
 ### Dial issues
 
@@ -203,7 +203,7 @@ See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs156
 
 **Summary**
 
-The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older Kamvas 13 (GS1331) and is even mostly an upgrade from the Kamvas Pro 13 2.5K (GT1302).
+The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older Kamvas 13 (GS1331) and is mostly an upgrade over the Kamvas Pro 13 2.5K (GT1302).
 
 * The GS1333 uses the PW600L pen, which is much better than the PW517 pen that comes with the other two tablets.
   * The PW600L has a slightly better IAF. Huion states 2gf. It also has a wider pressure range. [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md).
@@ -216,7 +216,7 @@ The Kamvas 13 GEN3 (GS1333) is a big upgrade from the older Kamvas 13 (GS1331) a
 
 If you have to choose one of these three, I HIGHLY recommend picking the Kamvas 13 GEN3 (GS1333).
 
-If you want that higher resolution of the GT1302, then wait until Huion releases a new version that uses the PW600 pen and reduces the anti-glare sparkle.
+If you want the higher resolution of the GT1302, then wait until Huion releases a new version that uses the PW600 pen and reduces the anti-glare sparkle.
 
 **Key differences**
 
