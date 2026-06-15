@@ -8,6 +8,8 @@ Some tablets have built-in buttons and dials called [Auxiliary inputs](../../../
 
 But some tablets do not have express keys, and some people simply do not like using them, so they rely on other input devices.
 
+* [Brad Colbow - Ranking The Best Drawing Remotes - Wacom, Tourbox, Huion, XP Pen](https://www.youtube.com/watch?v=JdAJM7EGp80) - 2026-04-11
+
 ## Drawing tablet remote controllers
 
 Wacom, Xencelabs, Huion, and others make "remotes" that offload the work of express keys to a separate wireless device.
