@@ -8,6 +8,10 @@ Released in May 2025, the Art Pen 2 (ACP-700) is the successor to the much-belov
 
 EXCELLENT pen. I love how it feels and how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 (KP-504E). Be aware that only a few tablets support this pen. Some that do support it require a firmware update.
 
+## Links
+
+* [Teoh on Tech - Wacom Art Pen 2 (first impression)](https://www.youtube.com/watch?v=atE9QHINugE) 2026-06-14&#x20;
+
 ## Specs
 
 * Pressure levels: 8192
