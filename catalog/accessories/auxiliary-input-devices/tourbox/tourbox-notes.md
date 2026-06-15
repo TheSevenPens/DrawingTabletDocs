@@ -8,14 +8,20 @@ I have been using a TourBox regularly since July 2021. It has become a required 
 
 I originally purchased the TourBox NEO in November 2020. I used it for about a month and then stopped. It was very difficult for me to remember to use the device. I often fell back to my normal keyboard shortcuts. After a few weeks, I put it back in its box and left it there untouched for about four months.
 
-After a particularly frustrating drawing session where I had to rely heavily on keyboard shortcuts, I committed to retraining myself to use the TourBox. I brought it out of storage and made a concerted effort to make it part of my workflow.
+A few months later, I felt bad about spending so much money on a device I never used. I tried to use the TourBox one more time. Again, after a few weeks I gave up in frustration as my hand kept moving to the keyboard instead of using the TourBox.
+
+About six months after the original purchase and after a particularly frustrating drawing session where I had to rely heavily on keyboard shortcuts, I committed to retraining myself to use the TourBox. I brought it out of storage and made a concerted effort to make it part of my workflow.
 
 * I forced myself to not touch the keyboard
 * I read the user manual
 * I learned how to customize it
 * I tweaked the shortcuts in my drawing application to make it easier to use the TourBox for some tasks.
 
-After about six months, my brain was fully trained to use the TourBox instead of relying on keyboard shortcuts. That investment of time was well worth it because it made me much more productive.
+After about three additional months of forcing myself to use the TourBox, my brain was finally fully trained to use the TourBox instead of relying on keyboard shortcuts.
+
+Ultimately, it took nine months for me to feel comfortable with the device. That investment of time was well worth it because it made me much more productive.
+
+I am not saying 9 months will be typical for all people. What I am saying is that for some of you I expect that adjusting to it will not come easily and will require persistence and dedication on your part - especially if you want to get maximum value out of the device.
 
 ## What I like about the TourBox
 
@@ -43,6 +49,8 @@ I have two machines, each with its own TourBox. One nice feature of the TourBox 
 
 ## What could be better
 
+Force to movie wheels and dials
+
 I wish the dials and wheels had a little more resistance. I have one scroll wheel set to control brush size. Sometimes I accidentally brush against it, change my brush size, and do not notice until later. I do not use the large spinning dial at all. I originally set it to rotate the canvas, but I kept rotating the canvas by accident. So now I do not use that dial.
 
 **Profile syncing**
@@ -57,4 +65,4 @@ There is also an interesting limitation on Windows. It affects apps like Concept
 
 Partial setup for Clip Studio Paint
 
-<figure><img src="../../../../.gitbook/assets/image-000407 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000407.png" alt=""><figcaption></figcaption></figure>
