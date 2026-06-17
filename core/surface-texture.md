@@ -14,37 +14,53 @@ A lot of texture can wear down your nibs quickly, especially if you make lots of
 
 Also, depending on how much you use the tablet, you may wear down the texture over time. You will mostly notice this as regions that look smooth or shiny. Despite the appearance, it does not interfere with using the tablet. The pen still feels like it has enough texture, so it does not become slippery like an iPad.
 
-## Pen tablets > replaceable textures
+I have used pen tablets for 30 years. Here are my observations:
 
-Some tablets, such as the Wacom Intuos Pro (PTH-660, PTH-860), have a surface with replaceable texture sheets.
+* Tablets can vary a lot in how much texture they have.
+* Older tablets are sometimes a little too smooth compared to modern ones.
+* It is certainly possible to run into a tablet with more texture than you want. Intuos Pro 2017 models were known for this.
+* The consequences of high texture in a pen tablet are
+  * Noise — you might hear the nib making sounds on the surface. This can be irritating.
+  * Heavily textured surfaces can wear down the nib faster, especially if you do a lot of back-and-forth motion. For some people, the Intuos Pro 2017 was a true "nib-eater."
+
+## Pen displays
+
+All pen displays have a little bit of texture. If they didn't, the pen would feel slippery on the surface.
+
+The texture usually comes from:
+
+* a matte film, which usually also provides anti-glare treatment
+* an etched glass surface, which also provides anti-glare treatment
+
+I have tried a lot of pen displays over the past 20 years.
+
+* Overall, the texture on tablets since 2021 has been pretty good.
+* Even the most expensive $3500 pen display from Wacom, the Cintiq Pro 27, has only a little more texture than a decent non-Wacom pen display that costs $200. It is not that there is no difference, but the difference is not that large.
+* I do not think we will ever see a highly textured pen display because there is no way to add that much texture without making the screen blurry at the same time.
+* So if you have a pen display and you want more texture, you are not likely to find big differences no matter what you buy. But there are other techniques, covered below, that can increase the feeling of texture a bit.
+
+## Apple iPads
+
+The surface of any Apple iPad is very smooth glass. Many people feel that using an Apple Pencil on an iPad screen feels "slippery." The pen can seem to slide unintentionally while they draw because there is so little friction.
+
+## Texture affects what you see on a display
+
+Texture alters how light passes from the display panel to your eyes. This is how an anti-glare treatment helps minimize reflections. However, the texture also introduces something called anti-glare sparkle: [https://docs.thesevenpens.com/drawtab/technotes/anti-glare-sparkle](https://docs.thesevenpens.com/drawtab/technotes/anti-glare-sparkle). The texture will also likely soften the pixels slightly. How much softness you see depends on the specific texture.
+
+## Replaceable surfaces for pen tablets
+
+This is a super rare feature, but some pen tablets, such as the Wacom Intuos Pro (PTH-660, PTH-860), have a surface with replaceable texture sheets.
 
 These texture sheets can be very hard to find, and they are not cheap, but they offer two advantages:
 
 * You can get a texture that better matches your preference. Wacom offers Smooth, Standard, and Rough variants. Standard is what the tablet ships with.
-* If you damage your surface you can easily replace it.
+* If you damage your surface, you can easily replace it.
 
-Again, this is an incredibly rare feature for a pen tablet and only specific models of Wacom professional tablets offer this capability.
+Again, this is an incredibly rare feature for a pen tablet. Only specific Wacom professional tablet models offer it. Wacom calls these "Texture Sheets."
 
-## Pen Displays
+## Making it feel like paper
 
-All pen displays I know of have a little bit of texture.
-
-The texture will either come from:
-
-* a matte film (that film is also usually providing an anti-glare treatment also)
-* an etched glass surface, which also provides anti-glare treatment
-
-Note that anti-glare treatment stops the display from being glossy, but it also introduces something called anti-glare sparkle: [https://docs.thesevenpens.com/drawtab/technotes/anti-glare-sparkle](https://docs.thesevenpens.com/drawtab/technotes/anti-glare-sparkle)
-
-**Apple iPads**
-
-The surface of any Apple iPad is very smooth glass. Many people feel that using an Apple Pencil on an iPad screen feels "slippery". The pen seems to easily unintentionally "slide" as they draw because there is so little friction.
-
-## Achieving a paper-like texture
-
-No drawing tablet by default has a texture that comes close to the feeling of paper.
-
-There are some options that can increase the texture. In some cases, they may give you more of a textured experience, but nothing will truly feel like paper.
+See [Achieving paper-like texture](../guides/customizing/paper-texture.md).
 
 ## Increasing texture with protectors
 

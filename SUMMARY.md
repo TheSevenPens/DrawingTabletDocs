@@ -146,6 +146,7 @@
     * [Decreasing IAF](guides/customizing/lowering-iaf.md "Decreasing IAF")
     * [Increasing IAF](guides/customizing/increasing-iaf.md)
     * [Matching aspect ratios with Force Proportions](guides/customizing/force-proportions.md "Force proportions")
+    * [Achieving paper-like texture](guides/customizing/paper-texture.md)
     * [Shrinking the active area](guides/customizing/shrinking-active-area.md)
     * [Using precision mode](guides/customizing/precision-mode.md)
     * [Mirroring or extending](guides/customizing/mirroring-or-extending.md)
