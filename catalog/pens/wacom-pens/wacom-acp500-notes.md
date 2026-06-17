@@ -48,18 +48,49 @@ I tried it in these scenarios:
 
 Rating: VERY GOOD maximum pressure
 
-The Pro Pen 3 has a very large maximum pressure. The maximum pressure varied between units from 550gf to 700gf.
+| Statistic | Pmax (gf) |
+| --------- | --------- |
+| Min       | 595.0     |
+| Median    | 615.9     |
+| Max       | 702.0     |
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+| Inventory ID | Driver | Highest measured (gf) | Pmax estimate (gf) |
+| ------------ | ------ | --------------------- | ------------------ |
+| WAP.0030     | WACOM  | 649.1                 | 646.4              |
+| WAP.0031     | WACOM  | 634.9                 | 633.8              |
+| WAP.0032     | WACOM  | 600.2                 | 597.2              |
+| WAP.0033     | WACOM  | 707.4                 | 702.0              |
+| WAP.0039     | WACOM  | 602.6                 | 598.0              |
+| WAP.0040     | WACOM  | 597.5                 | 595.0              |
 
 ### Initial activation force
 
-Rating: GOOD ?
+Rating: GOOD&#x20;
 
-The Pro Pen 3 seems to have a typically low IAF for a Wacom Pro pen. But we do have some different results here.
+Tablet expert Kuuube is very good at measuring IAF, and his initial measurement for 1 PP3 unit is around 3gf or 4gf. Which is clearly higher than the <1gf he finds for the Pro Pen 2.
 
-* Tablet expert Kuuube is very good at measuring IAF, and his initial measurement for 1 PP3 unit is around 3gf or 4gf.
-* I am not skilled enough to measure IAF. Subjectively, the PP3 IAF feels like the PP2 when I draw. PP2 has an IAF of <1gf. So at least in real-world drawing I didn't notice a difference using the PP3.
+My numbers agree with Kuuube's data.
+
+| Statistic | IAF (gf) |
+| --------- | -------- |
+| Min       | 3.0      |
+| Median    | 3.6      |
+| Max       | 4.5      |
+
+| Pen             | Inventory ID | IAF (gf) | Source   |
+| --------------- | ------------ | -------- | -------- |
+| Wacom Pro Pen 3 | WAP.0040     | 3.0      | measured |
+| Wacom Pro Pen 3 | WAP.0069     | 3.0      | measured |
+| Wacom Pro Pen 3 | WAP.0030     | 3.5      | measured |
+| Wacom Pro Pen 3 | WAP.0049     | 3.5      | measured |
+| Wacom Pro Pen 3 | WAP.0032     | 3.5      | measured |
+| Wacom Pro Pen 3 | WAP.0070     | 3.5      | measured |
+| Wacom Pro Pen 3 | WAP.0072     | 3.8      | measured |
+| Wacom Pro Pen 3 | WAP.0033     | 4.0      | measured |
+| Wacom Pro Pen 3 | WAP.0053     | 4.0      | measured |
+| Wacom Pro Pen 3 | WAP.0071     | 4.5      | measured |
+| Wacom Pro Pen 3 | WAP.0031     | 4.5      | measured |
+| Wacom Pro Pen 3 | WAP.0039     | 4.5      | measured |
 
 ### Comparing Initial Activation Force
 
@@ -156,7 +187,7 @@ Examples
 
 * [https://www.reddit.com/r/wacom/comments/1p3p2ba/round\_2](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2)
 
-<figure><img src="../../../.gitbook/assets/image-000570 (1).jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000570.jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000698.jpg" alt=""><figcaption><p>The physical implementation of the button strip is different depending on where the model was manufactured.</p></figcaption></figure>
 
