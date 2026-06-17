@@ -59,11 +59,35 @@ Unlike the slim body of the Pro Pen 2, the ACP-700 has a more standard body that
 * Nib storage under the cap can hold 3 nibs
 * The nib holder itself can be removed from the pen
 
-## Pressure
+## Pressure > IAF
 
-* Full pressure testing has not been done yet. Information below comes from my initial measurements.
-* IAF - seems very similar to Pro Pen 2 (KP-504E) and Pro Pen 3 (ACP-500)
-* MAX Pressure - measured at around 550gf
+My measurements are very simmilar to what I found with the Pro Pen 3
+
+| Statistic | IAF (gf) |
+| --------- | -------- |
+| Min       | 2.9      |
+| Median    | 3.3      |
+| Max       | 3.5      |
+
+| Pen             | Inventory ID | IAF (gf) | Source    |
+| --------------- | ------------ | -------- | --------- |
+| Wacom Art Pen 2 | WAP.0076     | 2.9      | estimated |
+| Wacom Art Pen 2 | WAP.0077     | 3.3      | estimated |
+| Wacom Art Pen 2 | WAP.0075     | 3.5      | estimated |
+
+## Pressure > Maximum pressure
+
+| Statistic | Pmax (gf) |
+| --------- | --------- |
+| Min       | 554.3     |
+| Median    | 572.3     |
+| Max       | 602.8     |
+
+| Inventory ID | Driver | Highest measured (gf) | Pmax estimate (gf) |
+| ------------ | ------ | --------------------- | ------------------ |
+| WAP.0075     | WACOM  | 561.4                 | 554.3              |
+| WAP.0076     | WACOM  | 612.0                 | 602.8              |
+| WAP.0077     | WACOM  | 577.6                 | 572.3              |
 
 ## Buttons
 
