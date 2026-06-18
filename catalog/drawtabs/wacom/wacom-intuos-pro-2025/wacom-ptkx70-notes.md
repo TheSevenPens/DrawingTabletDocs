@@ -68,7 +68,7 @@ From 2009 to 2025, there have been 4 editions of professional pen tablets from W
 
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000665 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000665.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Design
 
@@ -168,7 +168,7 @@ Unlike the previous Intuos Pro 2017 (PTH-x60) series, the Intuos Pro 2025 (PTK-x
 
 The PTK-x70 series tablets come with pairs of ExpressKey rings and dials.
 
-<figure><img src="../../../../.gitbook/assets/image-000671 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000671.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Do be aware that the number of ExpressKeys and dials depends on which tablet size in the PTK-x70 series you get.
 
@@ -198,7 +198,7 @@ It is possible to accidentally hit the ExpressKeys and dials depending on how th
 
 **I did accidentally hit the ExpressKeys when I meant to hit the dial and vice versa**. They are very similar in size and shape, and they are close together. Often I reached and touched the wrong one. Over time I may have been able to train my brain a bit better.
 
-<figure><img src="../../../../.gitbook/assets/image-000578 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000578.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Usage notes on dials
 
@@ -218,7 +218,7 @@ Another topic that comes up with the ExpressKeys is how the non-drawing hand is 
 
 With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without covering the active area.
 
-<figure><img src="../../../../.gitbook/assets/image-000576 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000576.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 However, with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drawing hand out of the way much more often.
 
@@ -258,7 +258,7 @@ The 2017 models had unusual aspect ratios, while the new devices all have 16x9 a
 
 As you can see, the 2025 models are clearly a little larger than their 2017 counterparts.
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Active area with Force Proportions enabled
 
@@ -406,7 +406,7 @@ The tablet supports both wired and wireless connection.
 
 The port is located on the right side, close to the top.
 
-<figure><img src="../../../../.gitbook/assets/image-000689 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000689.jpg" alt=""><figcaption></figcaption></figure>
 
 * These tablets support both wired and wireless connection.
 * USB-C port location: top right

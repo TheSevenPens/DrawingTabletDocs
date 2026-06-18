@@ -160,7 +160,7 @@ These pens are very good in terms of pressure. Much more here: [Huion PW600 seri
 
 GOOD. LOW amounts of wobble in stroke.
 
-<figure><img src="../../../.gitbook/assets/image-000221 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000221.png" alt=""><figcaption></figcaption></figure>
 
 ## **Display experience**
 

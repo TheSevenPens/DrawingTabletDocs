@@ -4,17 +4,17 @@ The pressure response of a pen describes how the pen behaves with respect to pre
 
 The pen measures physical force at its tip. Information about that force is sent to the tablet and then translated into a logical pressure value. The pressure response is the relationship between physical pressure and logical pressure.
 
-<figure><img src="../../.gitbook/assets/image-000622 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000622.jpg" alt=""><figcaption></figcaption></figure>
 
 In numerical terms, it can be expressed as a simple set of data points. If we graph those data points with physical pressure on the X axis and logical pressure on the Y axis, we get a chart that visualizes the pressure response.
 
-<figure><img src="../../.gitbook/assets/image-000623 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000623.jpg" alt=""><figcaption></figcaption></figure>
 
 All pens come out of the box with a specific pressure response. Keep in mind that the response is unique to each pen. Even pens of the same model will differ at least a little.
 
 One thing that is generally true for EMR pens is that the shape of the pressure response is often bowed upward quite a bit.
 
-<figure><img src="../../.gitbook/assets/image-000624 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000624.jpg" alt=""><figcaption></figcaption></figure>
 
 If we need to change the pressure response of a pen, we have to apply a pressure curve.
 

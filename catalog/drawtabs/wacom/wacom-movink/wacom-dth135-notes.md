@@ -243,7 +243,7 @@ Now see what happened with the Samsung S Pen creator edition. This also happened
 
 Notice the "pulsing".
 
-<figure><img src="../../../../.gitbook/assets/image-000572 (1).png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000572.png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
 The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 

@@ -583,6 +583,7 @@
       * [Wacom Intuos3 Grip Pen (ZP-501E)](catalog/pens/wacom-pens/wacom-zp501e-notes.md "Intuos3 Grip Pen (ZP-501E)")
       * [Wacom stroke nib](catalog/pens/wacom-pens/wacom-stroke-nib.md)
       * [Wacom Art Pen (KP-701E)](catalog/pens/wacom-pens/wacom-kp701e-notes.md "Art Pen (KP-701E)")
+      * [Wacom Pro Pen 1 (KP-503E)](catalog/pens/wacom-pens/wacom-pro-pen-1-kp-503e.md)
     * [Apple pens](catalog/pens/apple-pencil/README.md "Apple")
       * [Apple Pencil notes](catalog/pens/apple-pencil/apple-pencil-notes.md)
     * [Huion pens](catalog/pens/huion-pens/README.md "Huion")

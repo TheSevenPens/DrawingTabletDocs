@@ -110,7 +110,7 @@ On the back of the tablet there are three ports:
 
 First, this tablet requires you to always use the power adapter as shown below.
 
-<figure><img src="../../../../.gitbook/assets/image-000515 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-000515.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For video signal and data, you have multiple options
 

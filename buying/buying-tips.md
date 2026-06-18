@@ -68,13 +68,13 @@ For pen tablets, this is straightforward. All pen tablets connect with a USB cab
 
 In the user manual, you'll find diagrams like this for a pen tablet.
 
-<figure><img src="../.gitbook/assets/image-000653 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000653.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For pen displays, wiring is much more complicated. There are more cables and ports involved, with more requirements on those cables and ports.
 
 The user manual will show diagrams like these indicating how pen displays may connect to a computer.
 
-<figure><img src="../.gitbook/assets/image-000654 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000654.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image-000655.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

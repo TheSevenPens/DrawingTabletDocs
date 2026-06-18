@@ -49,9 +49,9 @@ The tablet does NOT support wireless connectivity. It must be connected with a U
 
 I really enjoyed the flexibility of how the buttons work with the group keys. Even though there are 8 buttons, with the three group keys, you get effectively 8x3 = 24 buttons.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000044 (1).jpg" alt="" width="375"><figcaption><p>3 group keys on left and 4 of 8 buttons shown.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000044.jpg" alt="" width="375"><figcaption><p>3 group keys on left and 4 of 8 buttons shown.</p></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000045 (1).jpg" alt="" width="375"><figcaption><p>The scroller</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image-000045.jpg" alt="" width="375"><figcaption><p>The scroller</p></figcaption></figure></div>
 
 ## **Ports**
 

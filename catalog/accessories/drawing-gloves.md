@@ -23,7 +23,7 @@ Some people wash them with regular laundry. Others hand-wash them with a mild de
 
 ### Wacom drawing glove (ACK4472501Z)
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000728 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000728.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Huion drawing glove
 

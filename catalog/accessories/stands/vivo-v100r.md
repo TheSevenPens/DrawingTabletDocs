@@ -38,7 +38,7 @@ The base was surprisingly heavy.
 
 ## Photos and notes
 
-<figure><img src="../../../.gitbook/assets/image-000014 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000014.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 I attached the tablet with the screws and used the washers this way because I thought it would be more secure.
 
@@ -52,7 +52,7 @@ The stand rotates about +/- 45 degrees.
 
 <figure><img src="../../../.gitbook/assets/image-000017.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000018 (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000018.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 This is about as high as the display can go.
 

@@ -171,6 +171,6 @@ No noise. Completely silent.
   * MAX: 33.0C (91.4F)
 * NOTE: My IR reflection is visible in the IR photo
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000729 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image-000729.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 *

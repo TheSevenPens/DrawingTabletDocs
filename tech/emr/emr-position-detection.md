@@ -20,7 +20,7 @@ The digitizer is a printed circuit board (PCB) that contains:
 
 This is the top of the Wacom digitizer used in the Wacom Intuos Pen Small (CTL-480). This is a smaller version of a [much larger image](https://commons.wikimedia.org/wiki/File:Wacom_ctl480_sensor_pcb_top.JPG) on Wikipedia commons.
 
-<figure><img src="../../.gitbook/assets/image-000158 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000158.jpg" alt=""><figcaption></figcaption></figure>
 
 The bottom of the digitizer is below. You can see the [larger version here](https://commons.wikimedia.org/wiki/File:Wacom_ctl480_inside.JPG).
 

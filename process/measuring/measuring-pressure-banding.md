@@ -27,4 +27,4 @@ There is no banding here.
 
 ## A bad result - banding visible
 
-<figure><img src="../../.gitbook/assets/image-000257 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000257.png" alt=""><figcaption></figcaption></figure>

@@ -38,7 +38,7 @@ Max pressure - between 300gf and 800gf, with occasional units around the mid-250
 
 ## Photos
 
-![](<../../../.gitbook/assets/image-000032 (1).jpg>)
+![](../../../.gitbook/assets/image-000032.jpg)
 
 ![](../../../.gitbook/assets/image-000033.jpg)
 

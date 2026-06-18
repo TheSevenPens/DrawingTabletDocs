@@ -2,7 +2,7 @@
 
 ## Photo Examples
 
-![](../.gitbook/assets/image-000566.jpg) ![](<../.gitbook/assets/image-000567 (1).jpg>)
+![](../.gitbook/assets/image-000566.jpg) ![](../.gitbook/assets/image-000567.jpg)
 
 ![](../.gitbook/assets/image-000568.jpg)
 

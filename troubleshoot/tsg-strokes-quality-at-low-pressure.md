@@ -40,7 +40,7 @@ The first is to decrease sensitivity at the lower end of physical pressure. This
 
 Another technique is simply to ignore the lower end of physical pressure near the initial activation force. This essentially increases the IAF of the pen.
 
-<div align="left"><figure><img src="../.gitbook/assets/image-000295 (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image-000295.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Use pressure smoothing
 

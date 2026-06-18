@@ -19,7 +19,7 @@ The same delay at the beginning of dragging the pen can manifest in other user e
 
 ## Examples
 
-![](<../.gitbook/assets/image-000700 (2).png>)
+![](../.gitbook/assets/image-000700.png)
 
 ## Diagnostic questions to answer
 

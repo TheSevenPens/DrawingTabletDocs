@@ -4,25 +4,19 @@
 
 A LARGE pen tablet has an active area diagonal of about 15 inches (38 cm).
 
-
-
 ## Large size versus other tablets
-
-
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Video
 
 In this video I go through a lot of detail about what it's like to actually use a large pen tablet. In this case I'm specifically using a Wacom intuos pro (PTH-860). But the same general issues apply to any large pen tablet.
 
 {% embed url="https://youtu.be/YCmVugc3w_g" %}
-
-
 
 ## Who should get a large pen tablet
 
@@ -71,13 +65,13 @@ With a medium pen tablet most people put their tablet to the right or left of th
 
 ### Keyboard above, tablet below: Good for drawing
 
-So a large pen tablet typically means you will have to have it directly in front of you. And then you place the keyboard above it. This of course means that it's more difficult to reach the keyboard.  When I am drawing this is the layout I use.
+So a large pen tablet typically means you will have to have it directly in front of you. And then you place the keyboard above it. This of course means that it's more difficult to reach the keyboard. When I am drawing this is the layout I use.
 
 I sometimes pull the keyboard closer and put it on the top bezel of the tablet. This makes it slightly easier to reach the keyboard though it still is a little awkward.
 
 <figure><img src="../../.gitbook/assets/Slide_20260412_025012.jpg" alt=""><figcaption></figcaption></figure>
 
-### Keyboard on top: For typing&#x20;
+### Keyboard on top: For typing
 
 Often if I'm not really drawing I'll in fact put the keyboard on top of the tablet.
 

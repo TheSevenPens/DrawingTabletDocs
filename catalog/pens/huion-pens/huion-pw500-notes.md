@@ -39,4 +39,4 @@ Max pressure is OK at around \~250gf with the unit I tested.
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image-000479 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000479.png" alt=""><figcaption></figcaption></figure>

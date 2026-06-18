@@ -84,7 +84,7 @@ Although I am very satisfied with this mini PC, I am looking forward to future m
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000047 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000047.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000048.jpg" alt=""><figcaption></figcaption></figure>
 

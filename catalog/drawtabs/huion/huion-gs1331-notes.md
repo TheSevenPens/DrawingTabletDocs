@@ -41,4 +41,4 @@ Exhibits moderate [Anti-glare sparkle](../../../guides/pen-displays/ag-sparkle.m
 
 Very low
 
-![](<../../../.gitbook/assets/image-000219 (1).png>)
+![](../../../.gitbook/assets/image-000219.png)

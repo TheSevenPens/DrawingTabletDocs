@@ -20,11 +20,11 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000537 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000537.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000539 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000539.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000538 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000538.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Compatibility
 

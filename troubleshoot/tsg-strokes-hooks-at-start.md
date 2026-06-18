@@ -8,11 +8,11 @@ These "hooks" often seem to be an artifact of various pen smoothing/stabilizatio
 
 In the example, lots of quick flicks were used to draw several strokes with lots of smoothing applied. You can clearly see that some lines have hooks at the beginning.
 
-![](<../.gitbook/assets/image-000209 (2).png>)
+![](../.gitbook/assets/image-000209.png)
 
 Below, the same style of flicks was used to draw strokes, but this time the smoothing was set to zero.
 
-![](<../.gitbook/assets/image-000210 (1).png>)
+![](../.gitbook/assets/image-000210.png)
 
 ## Angle of fast stroke
 
@@ -29,7 +29,7 @@ Another contributing factor is that your pen may have a very low IAF and so is s
 
 A low IAF is great, but if you are doing a lot of strokes, the sensitivity can result in more hooks. Consider adjusting your pressure curve as shown below.
 
-<figure><img src="../.gitbook/assets/image-000575.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000438.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Links
 

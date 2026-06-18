@@ -67,7 +67,7 @@ But how sure are we that this is real? There are two pieces of evidence.
 
 1. Wacom has explicitly mentioned this before. Below is the original Japanese version and an English AI-translated version.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_JP (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_JP.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../.gitbook/assets/Wacom_intuos_4_IAF_EN2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

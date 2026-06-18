@@ -26,7 +26,7 @@ Here is an example of two USB-C ports with the Thunderbolt symbol.
 
 Here is an example of a cable with a Thunderbolt symbol.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000602 (1).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image-000602.jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
 Unfortunately, many USB-C Thunderbolt ports and cables simply do not have the Thunderbolt logo on them.
 

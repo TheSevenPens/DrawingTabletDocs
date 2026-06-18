@@ -1,6 +1,6 @@
 # Implementing pressure curves
 
-<figure><img src="../.gitbook/assets/image-000630 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000630.jpg" alt=""><figcaption></figcaption></figure>
 
 Ultimately a pressure curve is a mathematical function that takes input logical pressure (p) and returns an output logical pressure (p’)
 

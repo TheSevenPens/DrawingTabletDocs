@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](<../../../.gitbook/assets/image-000222 (2).png>)
+![](../../../.gitbook/assets/image-000222.png)
 
 ## Connections and cabling
 

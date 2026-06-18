@@ -107,7 +107,7 @@ GOOD - low.
 
 very good. has extremely low wobble.
 
-![](<../../../.gitbook/assets/image-000220 (1).png>)
+![](../../../.gitbook/assets/image-000220.png)
 
 ## Ergonomics
 

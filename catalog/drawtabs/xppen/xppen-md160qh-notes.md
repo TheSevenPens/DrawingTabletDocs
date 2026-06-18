@@ -76,13 +76,13 @@ VERY GOOD. Compared to other tablets has very minor inaccuracy at edges and corn
 
 ## **Diagonal wobble**
 
-RATING: OK.&#x20;
+RATING: OK.
 
-Diagonal wobble is not uncommon in pen displays - but usually when it is seen it is only seen in SLOW strokes. With the unit I tested I saw it at all speeds - thought wobble slightly decreased as speed increased.&#x20;
+Diagonal wobble is not uncommon in pen displays - but usually when it is seen it is only seen in SLOW strokes. With the unit I tested I saw it at all speeds - thought wobble slightly decreased as speed increased.
 
 Overall - totally acceptable and addding a little brush smoothing eliminates it..
 
-<figure><img src="../../../.gitbook/assets/image-000748 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000748.png" alt=""><figcaption></figcaption></figure>
 
 ## Legs
 

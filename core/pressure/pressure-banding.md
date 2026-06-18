@@ -48,7 +48,7 @@ You might be able to make out some banding in the original image.
 
 Performing some contrast enhancement makes it much more obvious.
 
-<figure><img src="../../.gitbook/assets/image-000384.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000257.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image-000419.png" alt=""><figcaption></figcaption></figure>
 

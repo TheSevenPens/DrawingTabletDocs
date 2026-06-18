@@ -55,7 +55,7 @@ For example, you can set a button to:
 
 Wacom Intuos Pro PTH-660
 
-<figure><img src="../../.gitbook/assets/image-000454 (1).png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000454.png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
 
 ## Examples
 
@@ -65,11 +65,11 @@ Wacom Intuos Pro PTH-660
 
 ## Huion Inspiroy Dial2 (Q630M)
 
-![](<../../.gitbook/assets/image-000227 (1).jpg>)
+![](../../.gitbook/assets/image-000227.jpg)
 
 ## Example UI from Wacom Tablet Properties App
 
-![](<../../.gitbook/assets/image-000388 (1).png>)
+![](../../.gitbook/assets/image-000388.png)
 
 ![](../../.gitbook/assets/image-000313.png)
 

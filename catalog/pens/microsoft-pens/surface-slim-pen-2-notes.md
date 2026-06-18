@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/image-000106.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000107 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-000107.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image-000109.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

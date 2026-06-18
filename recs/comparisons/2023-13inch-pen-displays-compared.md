@@ -64,15 +64,15 @@ Both tablets have excellent diagonal wobble (i.e. very low amounts of diagonal w
 
 XP-Pen Artist 13 GEN2 (CD130FH) wobble
 
-![](<../../.gitbook/assets/image-000177 (2).png>)
+![](../../.gitbook/assets/image-000177.png)
 
 Huion Kamvas 13 (GS1331) wobble:
 
-![](<../../.gitbook/assets/image-000219 (1).png>)
+![](../../.gitbook/assets/image-000219.png)
 
 Compare it to the most expensive pen tablet wacom makes the Wacom Intuos Pro Large (PTH-860):
 
-![](<../../.gitbook/assets/image-000719 (2).png>)
+![](../../.gitbook/assets/image-000719.png)
 
 Both the Huion and XP pen are on par with
 

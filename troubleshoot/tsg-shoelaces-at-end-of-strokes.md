@@ -8,7 +8,7 @@ NOTE: There is a related problem: [TSG: Hooks at start of strokes](tsg-strokes-h
 
 ## Examples
 
-![](<../.gitbook/assets/image-000287 (2).png>) ![](<../.gitbook/assets/image-000272 (2).png>)
+![](../.gitbook/assets/image-000287.png) ![](../.gitbook/assets/image-000272.png)
 
 ## Avoid flicking
 
@@ -26,7 +26,7 @@ Even though a low IAF is a good thing, it can also mean that at the end of strok
 
 Try adjusting your pressure curve as shown below to see if this helps reduce the problem.
 
-<figure><img src="../.gitbook/assets/image-000438 (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000438.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Your application
 
@@ -48,7 +48,7 @@ In general, set the value to as low a number as it will go and still work correc
 
 The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with this shoelace effect.
 
-![](<../.gitbook/assets/image-000325 (2).png>)
+![](../.gitbook/assets/image-000325.png)
 
 ## Reddit threads
 

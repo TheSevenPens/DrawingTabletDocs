@@ -127,7 +127,7 @@ Some people hold their pens in their mouths and lightly chew on them. You can so
 
 Below is a used Intuos 1 pen (GP-300E) I bought on eBay with what I believe are bite marks near the eraser.
 
-<figure><img src="../.gitbook/assets/image-000202 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-000202.jpg" alt=""><figcaption></figcaption></figure>
 
 This is a reminder to thoroughly clean any used equipment you purchase.
 

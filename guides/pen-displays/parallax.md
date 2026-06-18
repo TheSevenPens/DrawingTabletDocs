@@ -18,7 +18,7 @@ In pen displays, this happens because the glass that covers the display panel ha
 
 Depending on where your eye is, what you see the pen tip pointing to will be different.
 
-<figure><img src="../../.gitbook/assets/image-000311 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000311.png" alt=""><figcaption></figcaption></figure>
 
 Compare this line of sight:
 
@@ -46,7 +46,7 @@ Here is a thick sheet of glass with lots of parallax:
 
 Compare it to a very thin sheet of glass with much less parallax:
 
-<figure><img src="../../.gitbook/assets/image-000344 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-000344.png" alt=""><figcaption></figcaption></figure>
 
 ## Lamination
 

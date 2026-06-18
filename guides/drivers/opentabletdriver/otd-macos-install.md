@@ -23,7 +23,7 @@ OTD runs on both Intel x86 and Apple Silicon macs.
 * This document shows the steps for OTD version 0.66
 * I recommend you use at least version OTD version 0.6.5 or higher. Before version 0.6.5 - OTD does not support pressure and tilt on MacOS
 
-## STEP 1: make sure your tablet is supported.&#x20;
+## STEP 1: make sure your tablet is supported.
 
 Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
 
@@ -32,13 +32,13 @@ Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](htt
 * If you have a Wacom, Huion, XP-Pen, etc driver. Uninstall it now.
 * Once you are finished uninstalling, I recommend restarting your MacOS computer.
 
-## STEP 3: Download OTD&#x20;
+## STEP 3: Download OTD
 
-* Click in this link to download [latest release](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz)&#x20;
+* Click in this link to download [latest release](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz)
 * This downloads a file called `OpenTabletDriver-0.6.6.2_osx-x64.tar.gz` to your Downloads folder.
 * Double-click on the tar.gz file that was downloaded.
 * You'll see a brief progress bar indicating it is being extracted into a folder
-* When the extraction is done in your Downloads folder you will see&#x20;
+* When the extraction is done in your Downloads folder you will see
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,17 +50,20 @@ Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](htt
 
 * Run the OpenTabletDriver app.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="260"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="260"><figcaption></figcaption></figure></div>
 
 * If you see this - this is normal. MacOS is trying to protect you. Click **Done**, do NOT click **Move to Trash**
-* To fix the "Apple could not verify is free of malware" warning on macOS, go to **System Settings > Privacy & Security**, scroll down, and click **"Open Anyway"** under the security section.&#x20;
+* To fix the "Apple could not verify is free of malware" warning on macOS, go to **System Settings > Privacy & Security**, scroll down, and click **"Open Anyway"** under the security section.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * Once you click Open Anyway, this dialog will appear. Click **Open Anyway**.
 *
 
-    <div align="left"><figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="260"><figcaption></figcaption></figure></div>
+```
+<div align="left"><figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="260"><figcaption></figcaption></figure></div>
+```
+
 * If you click Open Anyway, it's going to require you to enter your password
 * Then you will see
 
@@ -106,8 +109,6 @@ Now it will look like this
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-
-
 Now right click on the bottom are and select **Lock Aspect Ratio**
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
@@ -125,4 +126,3 @@ Under Pen Settings, you'll see this as ghe default settings.
 Leave it alone for now.
 
 <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
