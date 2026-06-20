@@ -23,20 +23,21 @@ NO
 
 ## IAF
 
-After testing 5 pens, I found the IAF to be high, varying from 6 gf to 8 gf.
+Testing several units with the Deco 01 V3, I found their IAF to be around 7.5gf with some going as low as 6.0gf and one a bit higher at 9gf.
 
-It is not as good as newer pens such as the XP-Pen X3 Pro series.
+| Inventory ID | Date       | Tablet            | Driver           | IAF (gf) | Source   |
+| ------------ | ---------- | ----------------- | ---------------- | -------- | -------- |
+| XPP.0004     | 2026-06-20 | XP-Pen Deco 01 V3 | OpenTabletDriver | 7.5      | measured |
+| XPP.0005     | 2026-06-20 | XP-Pen Deco 01 V3 | OpenTabletDriver | 9.0      | measured |
+| XPP.0006     | 2026-06-20 | XP-Pen Deco 01 V3 | OpenTabletDriver | 6.5      | measured |
+| XPP.0020     | 2026-06-20 | XP-Pen Deco 01 V3 | OpenTabletDriver | 6.0      | measured |
 
 ## Max Pressure
 
 I found the max pressure to be okay.
 
-* Typical: 280 gf
-* Range: 200 gf to 300 gf
-
-## Pressure response
-
-<figure><img src="../../../.gitbook/assets/image-000494.png" alt=""><figcaption></figcaption></figure>
+* Typical: 260gf
+* Range: 250 gf to 340 gf
 
 ## Photos
 
