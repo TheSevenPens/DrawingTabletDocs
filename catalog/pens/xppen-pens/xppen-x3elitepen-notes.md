@@ -16,7 +16,20 @@ No eraser.
 
 ## IAF
 
-Subjectively it is definitely higher IAF than a Wacom Pro Pen 2 (not surprising) and a little higher than a Huion PW517 pen. I would estimate around 3gf but maybe a little higher. It feels totally fine to draw with.
+I found the IAF to vary from as low as 3.7gf to 9.8gf with a median of 5.3gf. That 9.8gf measurement may be an outlier.
+
+| Statistic | IAF (gf) |
+| --------- | -------- |
+| Min       | 3.7      |
+| Median    | 5.3      |
+| Max       | 9.8      |
+
+| Inventory ID | Date       | Tablet                          | Driver | IAF (gf) | Source   |
+| ------------ | ---------- | ------------------------------- | ------ | -------- | -------- |
+| XPP.0009     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 9.8      | measured |
+| XPP.0010     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 4.5      | measured |
+| XPP.0011     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 6.0      | measured |
+| XPP.0018     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 3.7      | measured |
 
 ## Max Pressure
 

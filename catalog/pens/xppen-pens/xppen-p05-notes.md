@@ -23,7 +23,13 @@ NO
 
 ## IAF
 
-Testing several units with the Deco 01 V3, I found their IAF to be around 7.5gf with some going as low as 6.0gf and one a bit higher at 9gf.
+Testing several units with the Deco 01 V3, I found their IAF to be around 7gf with some going as low as 6.0gf and one a bit higher at 9gf.
+
+| Statistic | IAF (gf) |
+| --------- | -------- |
+| Min       | 6.0      |
+| Median    | 7.0      |
+| Max       | 9.0      |
 
 | Inventory ID | Date       | Tablet            | Driver           | IAF (gf) | Source   |
 | ------------ | ---------- | ----------------- | ---------------- | -------- | -------- |
