@@ -9,6 +9,14 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 * If you do not have a drawing tablet yet, read the [Drawing tablet buying guide](../buying/).
 {% endhint %}
 
+## Consider recording the unboxing and initial setup
+
+When your tablet arrives, there's a chance you were sent a defective unit. In some cases, you were sent a working unit, but it was damaged during shipping. For example, a pen display screen may be cracked.
+
+Once you open the box and find a damaged unit, you'll need to contact the retailer or tablet brand for a replacement. This conversation will go much more smoothly if you can show that the damage happened before you even opened the box.
+
+For this reason, it is a good idea to record yourself unboxing the tablet. Record yourself examining it for any signs of damage. Keep recording as you turn on the tablet, since some problems only appear when the tablet is on.
+
 ## Find the tablet's model number
 
 * Make sure you know the tablet's model number. This will help in many ways later. More here: [Finding the model number of your drawing tablet](../guides/general/finding-tablet-model-number.md).
@@ -46,7 +54,7 @@ Then verify that the box contains everything expected.
 
 The pen has somewhat delicate parts inside and is the most likely thing you will break. If you lose or damage your pen, there are some things you need to know:
 
-* First, drawing tablets are generally compatible only with the pen they came with, or with a small number of pens. Note the pen model number. You will need it to get a replacement. More here: [Pen compatibility](../guides/pens/pen-compatibility.md)
+* First, drawing tablets are generally compatible only with the pen they came with, or with a small number of other pens. Note the pen model number. You will need it to get a replacement. More here: [Pen compatibility](../guides/pens/pen-compatibility.md).
 * Pens are surprisingly expensive to replace.
   * Some pens cost half as much as the tablet.
   * Some pens (especially Wacom Pro pens) are more expensive than the tablets of other brands.
@@ -55,16 +63,16 @@ The pen has somewhat delicate parts inside and is the most likely thing you will
 
 * You need the tablet driver installed for the tablet to work correctly.
 * You can go to the manufacturer's website, download the driver, and install it before your tablet arrives.
-* If the driver is installed, then when you connect the tablet with a USB cable, the driver will detect it and the pen will work as soon as it comes close to the tablet, at about 10 mm.
+* If the driver is already installed, the driver will detect the tablet when you connect it with a USB cable. The pen will work as soon as it comes within about 10 mm of the tablet.
 * The driver also installs an app you can use to configure the tablet. That app has a different name depending on the brand.
 * Why you need to install tablet drivers: [https://www.youtube.com/watch?v=qUsZUcH6SWk](https://www.youtube.com/watch?v=qUsZUcH6SWk)
 * More here: [Drivers](../guides/drivers/)
 
 ## Connect the tablet
 
-* Pen tablet - There will be a simple USB cable. These days, these cables are usually USB-C.
+* Pen tablet - There will be a simple USB cable. These days, that cable is usually USB-C.
   * Some pen tablets ALSO support wireless connection. For now, ignore wireless. It adds more complexity. Get it working with a cable first. Once everything is working, try wireless.
-* Pen display - There are several options. See [Connecting a pen display](../guides/connecting/connecting-pen-display/)
+* Pen display - There are several options. See [Connecting a pen display](../guides/connecting/connecting-pen-display/).
 
 ## Find the driver UI
 
@@ -95,7 +103,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 ## Pen tablets: map the active area to a single display
 
 * This step is needed for pen tablets, the ones without a screen.
-* The active area is mapped to one of your displays or multiple displays.
+* The active area is mapped to one of your displays or to multiple displays.
 * By default, they are often mapped to multiple displays.
 * My recommendation is:
   * Map the active area to a single display.
@@ -114,7 +122,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 
 ## Adjust the pressure curve to give you more control
 
-Drawing tablet pens are often over-sensitive at low physical pressure. Near the initial activation force, pressure can swing wildly. If you use pressure to control the width of your strokes, the width may vary more than you expect. This is especially obvious when you are doing linework and your brushes start getting larger, such as above 50 px.
+Drawing tablet pens are often over-sensitive at low physical pressure. Near the initial activation force, pressure can swing wildly. If you use pressure to control the width of your strokes, the width may vary more than you expect. This is especially obvious when you are doing linework and your brushes get larger, such as above 50 px.
 
 This over-sensitivity is common. Some people may not even notice it. But if you do, you can use pressure curves to reduce it.
 
@@ -132,8 +140,8 @@ Perform this configuration: [Disable the press-and-hold ring in Windows](../guid
 
 ## Apps
 
-* **Krita -** I highly recommend [Krita](../catalog/apps/krita.md). It is a free, good drawing app. Even if you are not going to draw anything yet, it is useful for testing and troubleshooting.
-* **Kleki -** [Kleki](../catalog/apps/kleki.md) is a free web-based app that is very simple. It is a good starting point for kids before they try something more complex like Krita.
+* **Krita -** I highly recommend [Krita](../catalog/apps/krita.md). It is a good free drawing app. Even if you are not going to draw anything yet, it is useful for testing and troubleshooting.
+* **Kleki -** [Kleki](../catalog/apps/kleki.md) is a free web-based app that is very simple. It is a good starting point for kids before they try something more complex, like Krita.
 * **Clip Studio Paint -** I draw a lot of illustrations, so I pay for a subscription to [Clip Studio Paint](../catalog/apps/clip-studio-paint.md).
 * **Photopea** ([https://www.photopea.com/](https://www.photopea.com/)) is a web-based Photoshop-like app. It is very good and also has a free tier.
 * [Procreate](../catalog/apps/procreate.md) - This is the drawing app to get if you are drawing on an iPad.
