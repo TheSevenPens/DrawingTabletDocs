@@ -2,13 +2,13 @@
 
 {% hint style="info" %}
 If you are looking for tablet recommendations, go here: [Recommendations](../recs/)
+
+For more information about brands: [Brands](./)
 {% endhint %}
 
 ## Overview
 
-No brand's products are consistently perfect.
-
-All brands will eventually ship a product with defective units or sporadic driver problems. At some point, you will need help.
+No brand's products are consistently perfect. All brands will eventually ship a product with defective units or sporadic driver problems. At some point, you will need help.
 
 This is why you must choose a brand that:
 
