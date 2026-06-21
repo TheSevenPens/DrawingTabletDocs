@@ -9,8 +9,8 @@ Despite the many drawing tablet brands you see, there are only a couple of digit
 ## Which digitizers go into which brands
 
 * **Wacom** digitizers are used in their own products.
-* **Hanvon Ugee** supplies digitizers to Xencelabs and XP-Pen tablets.
-* **Huion** supplies digitizers for Gaomon, Huion, and Veikk tablets. Huion also supplies digitizers for Artisul tablets through its acquisition of UCLogic.
+* **Hanvon Ugee** supplies digitizers to Ugee, Xencelabs and XP-Pen tablets.
+* **Huion** supplies digitizers for Gaomon, Huion, and Veikk tablets. Huion acquired Artisul/UCLogic in 2019 - though it is unclear if Huion digitizers are in Artisul tablets or if Artisul tablets use some other digitizer.
 
 ## Acquisitions
 
