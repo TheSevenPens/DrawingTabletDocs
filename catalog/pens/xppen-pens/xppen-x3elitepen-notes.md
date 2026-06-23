@@ -34,7 +34,3 @@ I found the IAF to vary from as low as 3.7gf to 9.8gf with a median of 5.3gf. Th
 ## Max Pressure
 
 Clustered around 370gf - which is good
-
-## Pressure response
-
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
