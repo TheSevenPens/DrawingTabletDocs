@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pretty good - surprisingly good for a consumer level tablet. IAF could be a little better but not a big problem for me.
+Good for a consumer level pen. The IAF could be a little better but not a big problem for me.
 
 <figure><img src="../../../.gitbook/assets/image-000753.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -24,13 +24,15 @@ I found the IAF to vary from as low as 3.7gf to 9.8gf with a median of 5.3gf. Th
 | Median    | 5.3      |
 | Max       | 9.8      |
 
-| Inventory ID | Date       | Tablet                          | Driver | IAF (gf) | Source   |
-| ------------ | ---------- | ------------------------------- | ------ | -------- | -------- |
-| XPP.0009     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 9.8      | measured |
-| XPP.0010     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 4.5      | measured |
-| XPP.0011     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 6.0      | measured |
-| XPP.0018     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | XPPEN  | 3.7      | measured |
+
+
+| Inventory ID | Date       | Tablet                          | IAF (gf) |
+| ------------ | ---------- | ------------------------------- | -------- |
+| XPP.0009     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | 9.8      |
+| XPP.0010     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | 4.5      |
+| XPP.0011     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | 6.0      |
+| XPP.0018     | 2026-06-20 | XP-Pen Artist 13 GEN2 (CD130FH) | 3.7      |
 
 ## Max Pressure
 
-Clustered around 370gf - which is good
+Clustered around 370gf - which is good.
