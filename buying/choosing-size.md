@@ -23,7 +23,9 @@ Manufacturers sometimes include size categories in their tablet names. Don't rel
 Here are some good examples of why:
 
 * The XP-Pen Deco L is much closer in size to a Wacom Intuos Pro Medium than to the Intuos Pro Large.
-* The Inspiroy 2L falls somewhere between medium and large.
+* The Inspiroy 2 L falls somewhere between medium and large.
+
+
 
 <table><thead><tr><th>Tablet and manufacturer</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong><br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td>11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong></p><p>(PTH-860)</p></td><td>LARGE</td><td>12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
 
@@ -47,9 +49,9 @@ Here's what you should consider when choosing a size:
 | **For children**                                                                                                                                         | **SMALL (7")**                                                                                   | **SMALL (13")**                                                                                   |
 | **What I prefer and use**                                                                                                                                | **LARGE (15")**                                                                                  | 22" - on the low end of LARGE                                                                     |
 
-## **Pen tablet sizes**
+## Pen tablet sizes
 
-* **Small (7")** pen tablets work well for scenarios where creating detailed strokes is less important. For example, if you just need a tablet as a mouse replacement, a small one will do fine. Photo editing is another task that works well on a small tablet, since it doesn't typically involve drawing strokes. Most people who draw would find a small tablet feels cramped.
+* **Small (7")** pen tablets work well for scenarios where creating detailed strokes is less important. For example, if you just need a tablet as a mouse replacement, a small one will do fine. Photo editing is another task that works well on a small tablet, since it doesn't typically involve drawing strokes. Most people who draw would find that a small tablet feels cramped.
 * **Medium (11")** pen tablets offer the best combination of size, cost, and ergonomics for most people and are my standard recommendation. Medium is the minimum size I recommend for drawing, sketching, painting, or any creative task that requires stroke work.
 * **Large (15")** pen tablets are currently the largest size available. They are popular with some artists, but are large enough that you'll need to adapt to using them. More here: [Using large pen tablets](../guides/general/large-pen-tablets.md).
 * **Extra large (23")** pen tablets are no longer produced. They are ideal for some users but require quite a bit of adjustment. More here: [Using extra-large pen tablets](../guides/general/extra-large-pen-tablets.md).
@@ -61,17 +63,17 @@ If you use a pen tablet, which has no screen, you use it alongside a monitor. Th
 ## Pen display sizes
 
 * **SMALL (13")** pen displays may be good choices for children.
-* For drawing, the minimum size I'd recommend is **MEDIUM (16")**, though many people work very effectively with SMALL pen displays.
+* For drawing, the minimum size I'd recommend is **MEDIUM (16")**, though many people work very effectively with **SMALL (13")** pen displays.
 * **LARGE (24")** are great but take up a lot of desk space — make sure you have enough room.
 * I think the best balance is around 20" to 22". These offer enough drawing space without being too cumbersome, taking up too much desk space, or being difficult to move.
 
 ## Impact of pen display size
 
-* **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels-per-inch, the more anti-glare sparkle you'll notice. For example, with the same anti-glare treatment, a 4K 24" display will show less sparkle than a 4K 16" display.
+* **Anti-glare sparkle** — For a given anti-glare treatment, the higher the pixels per inch, the more anti-glare sparkle you'll notice. For example, with the same anti-glare treatment, a 4K 24" display will show less sparkle than a 4K 16" display.
 
 ## Test the tablet before you buy
 
-Check if there is a way to try a tablet before buying. For example:
+Check whether you can try a tablet before buying. For example:
 
 * At retail locations
 * A friend might have the same model
@@ -80,7 +82,7 @@ Check if there is a way to try a tablet before buying. For example:
 
 If you can't try the actual tablet, consider simulating it with a piece of cardboard: [Simulating tablet size](simulating-size.md).
 
-## **In relation to paper size**
+## In relation to paper size
 
 Some people find it helpful to think of a tablet's size relative to standard paper sizes. The table below shows paper sizes with their diagonal measurements and how they match my standard tablet size categories.
 
@@ -93,10 +95,10 @@ Some people find it helpful to think of a tablet's size relative to standard pap
 | Pen Display Medium (16") | ISO A4 (14.3")    | US Legal (16.4")  |
 | Pen Display Large (24")  | ISO A3 (20.2")    | n/a               |
 
-## **Videos**
+## Videos
 
-* [Tim McBurnie - Which Size Wacom Is Right For You?](https://youtu.be/hyfj_Ek77qM) Nov 28, 2022
-* [Aaron Rutten - What Size Drawing Tablet Should I Get?](https://youtu.be/qd4OEaqV-rI) Mar 18, 2022
-* [SevenPens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s) Mar 8, 2022
-* [SevenPens - Is a LARGE pen tablet right for you?](https://youtu.be/YCmVugc3w_g) Jun 27, 2022
-* [SevenPens - Is an EXTRA LARGE Pen tablet right for you?](https://youtu.be/Tv_qX1Z9-wI) Jul 25, 2022
+* [Tim McBurnie - Which Size Wacom Is Right For You?](https://youtu.be/hyfj_Ek77qM) 2022-11-28
+* [Aaron Rutten - What Size Drawing Tablet Should I Get?](https://youtu.be/qd4OEaqV-rI) 2022-03-18
+* [SevenPens - What size drawing tablet should you get?](https://youtu.be/lGAhzRcMS3s) 2022-03-08
+* [SevenPens - Is a LARGE pen tablet right for you?](https://youtu.be/YCmVugc3w_g) 2022-06-27
+* [SevenPens - Is an EXTRA LARGE Pen tablet right for you?](https://youtu.be/Tv_qX1Z9-wI) 2022-07-25
