@@ -1,8 +1,8 @@
 # Recommendations
 
-Below are tablets I would personally recommend separated by device type. These recommendations are centered around using the tablets for **drawing**.&#x20;
+Below are tablets I would personally recommend separated by device type. These recommendations are centered around using the tablets for **drawing**.
 
-* If you are new to drawing tablets, read the [Beginner's guide to drawing tablets](../basics/beginners-guide.md) which has it own [Beginner recommendations](scenario-recs/beginner-recs/).&#x20;
+* If you are new to drawing tablets, read the [Beginner's guide to drawing tablets](../basics/beginners-guide.md) which has it own [Beginner recommendations](scenario-recs/beginner-recs/).
 * If you are want to learn more about how to decide what you need (type, size, specs), read the [Drawing tablet buying guide](../buying/).
 * Check out the [2025 Drawing tablet tier list](comparisons/2025-drawtab-tier-list.md) to see how these tablets and their pens rank against each other.
 
@@ -11,6 +11,7 @@ Below are tablets I would personally recommend separated by device type. These r
 ## **Resources**
 
 * [Drawing tablet buying guide](../buying/)
+* [Brad Colbow: What are Wacom's Best Products in 2026?](https://www.youtube.com/watch?v=GYIkhfZdO1Y) 2026-06-23
 * [Brad Colbow: Best Drawing Tablet By Price](https://youtu.be/nENQ-TLBYvI) 2022-06-20
 * [Aaron Rutten: The 10 Best DRAWING TABLETS of 2022](https://youtu.be/fNy1hnlKxuY) 2022-10-01
 * [Brad Colbow: Best Drawing Tablets for Beginners - What I Recommend](https://youtu.be/Dh49NwMt1yw) 2023-05-08
