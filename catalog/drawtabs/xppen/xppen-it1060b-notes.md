@@ -2,9 +2,7 @@
 
 ## Summary
 
-A fine tablet for drawing! And it makes an excellent choice for beginners. And is a great non-Wacom choice. It has a reasonable cost, has available wireless support, has a good pen, and has buttons.&#x20;
-
-It's one of my top recomendations for a beginner pen tablet.
+A fine tablet for drawing! And it makes an excellent choice for beginners. And is a great non-Wacom choice. It has a reasonable cost, has available wireless support, has a good pen, and has buttons. It's one of my top recommendations for a beginner pen tablet.
 
 ## Basics
 
@@ -17,8 +15,8 @@ It's one of my top recomendations for a beginner pen tablet.
 
 There are two versions of this tablet. They are exactly the same tablet but differ in connectivity
 
-* IT1060B is the wireless + wired version. The B stands for Bluetooth.&#x20;
-* IT1060B is the wired-only version.
+* XP-Pen Deco LW (IT1060B) is the wireless + wired version. The B stands for Bluetooth.
+* XP-Pen Deco L (IT1060) is the wired-only version.
 
 ## Specs
 
@@ -47,7 +45,7 @@ There are two versions of this tablet. They are exactly the same tablet but diff
 
 Included pen: X3 Elite
 
-Compatible pens:&#x20;
+Compatible pens:
 
 * X3 Elite
 * X3 Elite Plus
@@ -60,7 +58,7 @@ See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens
 
 IAF - subjectively around 3gf
 
-Max physical pressure - surprisingly good&#x20;
+Max physical pressure - surprisingly good
 
 See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
