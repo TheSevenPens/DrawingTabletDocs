@@ -57,17 +57,18 @@ Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to
 * Check if there is a more recent version of the driver. Install it. Then restart the computer.
 * If you are using a pen display, verify it is getting enough power.
 
-## USB-connection options
+## USB connection options
 
+* Make sure your USB port works to send/receive data with other devices - like a keyboard or a mouse.
 * Try unplugging other USB devices, leaving only the tablet, then plug the other devices back in.
-* If you have a USB hub, try not using it.
+* If you have a USB hub, try not using it. Or try using a different hub,
 * Look at the USB ports and ends of the USB cables and verify they are clean. Remove any lint, etc. that you find.
 * Try a different USB cable - make sure the USB cable supports data and not just power.
 * Try a different USB port.
 * Unplug and re-plug the USB cable
 * Check your tablet documentation. Some tablets have a "reset" option.
 
-## Try the tablet with another computer
+## Test the tablet with another computer
 
 The issue may be specific to your computer, so try with another computer.
 
@@ -82,9 +83,11 @@ A 3-in-1 cable often has three ends:
 * USB-A for data
 * HDMI
 
-Sometimes people don't connect the USB ends correctly. They might connect the cable intended for data into a power supply.
+Things to try:
 
-Double check how it is connected.
+* Double check how it is connected.
+* Make sure all three are connected
+* The cable for power (usually marked with red plastic or a red label) should go into a power adapter.
 
 ## Reset the tablet
 
@@ -92,13 +95,11 @@ Double check how it is connected.
 
 ## Windows > Check if Windows PNP drivers work
 
-Windows has some limited built-in support for tablets. Not all tablets work with Windows PNP, but many do.
+Windows has some limited built-in support for tablets. Not all tablets work with Windows PNP, but many do. Try this test: [DIAG: Testing with Windows PNP drawing tablet drivers](diag-windows-pnp-tablet-drivers.md)
 
-How to test with the Windows PNP drivers: [DIAG: Testing with Windows PNP drawing tablet drivers](diag-windows-pnp-tablet-drivers.md)
+If it does work correctly with PNP drivers , it points to a problem with the manufacturer tablet driver instead of the tablet hardware.
 
-If it does work correctly, it points to a problem with the manufacturer tablet driver instead of the tablet hardware.
-
-## Windows > power options for the tablet
+## Windows > Power options for the tablet
 
 Some people say this has helped them. I'm not sure.
 
@@ -124,7 +125,7 @@ Both the times I've personally encountered this problem it seems like nothing I 
 
 I don't recommend opening up your tablet as it will likely void your warranty. But, in some cases for some specific tablets people have been able to address this problem by modifying their hardware inside.
 
-* Huion Kamvas 22 Plus modification - [https://www.reddit.com/r/huion/comments/1hl1ozv/diy\_huion\_kamvas\_22\_plus\_fix\_for\_device/](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/)
+* Huion Kamvas 22 Plus modification:  [https://www.reddit.com/r/huion/comments/1hl1ozv/diy\_huion\_kamvas\_22\_plus\_fix\_for\_device/](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/)
 
 ## Still not solved?
 
