@@ -342,6 +342,7 @@
   * [DIAG: Get Windows PnPUtil device and driver info](troubleshoot/diag-windows-pnputil.md)
   * [TSG: Multiple pointers](troubleshoot/tsg-multiple-pointers.md)
   * [TSG: Diamond pointer on Windows](troubleshoot/tsg-diamond-pointer-on-windows.md)
+  * [TSG: Display has vertical lines](troubleshoot/tsg-display-vertical-lines.md)
   * [TSG: Replacing a lost tablet cable](troubleshoot/tsg-replace-lost-tablet-cable.md)
 * [Catalog](catalog/README.md)
   * [Catalog: Accessories](catalog/accessories/README.md "Accessories")
