@@ -4,8 +4,8 @@
 
 * **Adobe Fresco** (Windows, iOS, MacOS) [Fresco](../catalog/apps/fresco.md) FREE
 * **Affinity (Windows, MacOS)** [Affinity](../catalog/apps/affinity.md) **FREE**
-* **ArtFlow Studio** (Android, ChromeOS)&#x20;
-* **ArtRage** (Windows, macOS, iOS, Android)&#x20;
+* **ArtFlow Studio** (Android, ChromeOS)
+* **ArtRage** (Windows, macOS, iOS, Android)
 * **Clip Studio Paint** (Windows, MacOS, Android, iOS) [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
 * **Drawpile** (Web, Windows, MacOS, Android, Linux) [https://drawpile.net/](https://drawpile.net/)
 * **Expresii** (Windows) [Expresii](../catalog/apps/expresii.md)
@@ -14,7 +14,7 @@
 * **HiPaint** (Android, iOS) [HiPaint](../catalog/apps/hipaint.md)
 * **Ibis Paint** (Windows, iOS, Android) [Ibis Paint](../catalog/apps/ibis-paint.md)
 * **Infinite Design** (Android) [https://www.infinitestudio.art/](https://www.infinitestudio.art/)
-* **Infinite Painter** (Android, iOS) [List of apps](list-of-apps.md#infinite-painter)
+* **Infinite Painter** (Android, iOS) [Infinite Painter](../catalog/apps/infinite-painter.md)
 * **Kleki** (web) [Kleki](../catalog/apps/kleki.md) <mark style="background-color:purple;">**FREE**</mark>
 * **Kreska.art** (web) [**links**](https://kreska.art/) **FREE**
 * **Krita** (Windows, Linux, MacOS) [Krita](../catalog/apps/krita.md) <mark style="background-color:purple;">**FREE**</mark>

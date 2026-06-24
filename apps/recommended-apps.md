@@ -8,17 +8,17 @@ If you want to see a full list of applications go here: [Apps](./).
 
 ## Recommendations
 
-* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md) - [Clip Studio Paint notes](/broken/pages/Wv24xqkUBP2n8XRMZQWj)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
   * (Windows, MacOS, Android, iOS)
-* [Krita](../catalog/apps/krita.md) - [Krita notes](/broken/pages/KQ9hWgM1p2eIDnYbl8k1)
+* [Krita](../catalog/apps/krita.md)
   * (Windows, Linux, MacOS)
-* [Affinity](../catalog/apps/affinity.md) - [Affinity notes](/broken/pages/dNZS05XkPeIbHD9BUPX8)
+* [Affinity](../catalog/apps/affinity.md)
   * (Windows, MacOS)
 * **Affinity Design** - no notes
   * (Windows, MacOS)
-* [Adobe Photoshop](../catalog/apps/adobe-photoshop.md) - [Adobe Photoshop notes](/broken/pages/fh4flAowQAnN4WV8eKev)
+* [Adobe Photoshop](../catalog/apps/adobe-photoshop.md)
   * (Windows, MacOS)
-* [Procreate](../catalog/apps/procreate.md) - [Procreate notes](/broken/pages/IMqyk4G3aleEqfJffyBv)
+* [Procreate](../catalog/apps/procreate.md)
   * (iOS)
 * **Rebelle** - no notes
   * (Windows, MacOS)
