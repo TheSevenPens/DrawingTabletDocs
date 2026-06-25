@@ -9,6 +9,11 @@ You may notice that some tablet users wear drawing gloves. Sometimes these glove
 * The gloves keep the tablet surface free from sweat and oil from your hand. This is very useful for screen tablets
 * Sometimes people don't like the feeling of their hand on the tablet surface.
 * For tablets that are touch sensitive you can wear a glove to help improve palm rejection so your hand does not accidentally interrupt your strokes.&#x20;
+* For screen tablets, there might be a bit of heat from the screen - the glove may keep you hand from feeling that s much.
+
+## Do you have to use a drawing glove?
+
+No. I don't think most peopel sue them but many do - especially when using screen tablets. At the very least it is worth a try.
 
 ## Cleaning the gloves
 
