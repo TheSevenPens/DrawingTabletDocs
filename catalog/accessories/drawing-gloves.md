@@ -4,13 +4,11 @@
 
 You may notice that some tablet users wear drawing gloves. Sometimes these gloves even come in the tablet box. Unlike a normal glove, a drawing glove usually covers only the last two fingers and leaves the other fingers uncovered.
 
-## Benefits
+## Why people use drawing gloves
 
-The gloves keep the screen free from sweat and oil from your hand.
-
-They are primarily worn by people using pen displays, though they work just as well with pen tablets.
-
-They can also be useful in helping with palm rejection with tablets that support touch.
+* The gloves keep the tablet surface free from sweat and oil from your hand. This is very useful for screen tablets
+* Sometimes people don't like the feeling of their hand on the tablet surface.
+* For tablets that are touch sensitive you can wear a glove to help improve palm rejection so your hand does not accidentally interrupt your strokes.&#x20;
 
 ## Cleaning the gloves
 
