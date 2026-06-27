@@ -67,7 +67,7 @@ Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](htt
 * If you click Open Anyway, it's going to require you to enter your password
 * Then you will see
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-6.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/unused/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * Click Open Input Monitoring Preference
 
@@ -111,7 +111,7 @@ Now it will look like this
 
 Now right click on the bottom are and select **Lock Aspect Ratio**
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/unused/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Once you do you'll see a slight change in the bottom area
 

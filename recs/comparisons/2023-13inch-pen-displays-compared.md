@@ -72,7 +72,7 @@ Huion Kamvas 13 (GS1331) wobble:
 
 Compare it to the most expensive pen tablet wacom makes the Wacom Intuos Pro Large (PTH-860):
 
-![](../../.gitbook/assets/2023-13inch-pen-displays-compared-2.png)
+![](../../.gitbook/assets/unused/image-000720.png)
 
 Both the Huion and XP pen are on par with
 

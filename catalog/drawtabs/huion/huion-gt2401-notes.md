@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](../../../.gitbook/assets/huion-gt2401-notes-1.png)
+![](../../../.gitbook/assets/unused/image-000223.png)
 
 ## Connections and cabling
 

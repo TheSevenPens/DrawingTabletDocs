@@ -1,3 +1,3 @@
 # Xencelabs V1 pens notes
 
-<figure><img src="../../../.gitbook/assets/xencelabs-v1-pens-notes-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/unused/image-000482 (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@
 
 Good for a consumer level pen. The IAF could be a little better but not a big problem for me.
 
-<figure><img src="../../../.gitbook/assets/xppen-x3elitepen-notes-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/unused/image-000753 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 
@@ -23,8 +23,6 @@ I found the IAF to vary from as low as 3.7gf to 9.8gf with a median of 5.3gf. Th
 | Min       | 3.7      |
 | Median    | 5.3      |
 | Max       | 9.8      |
-
-
 
 | Inventory ID | Date       | Tablet                          | IAF (gf) |
 | ------------ | ---------- | ------------------------------- | -------- |

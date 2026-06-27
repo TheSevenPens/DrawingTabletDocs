@@ -32,7 +32,7 @@ For example one of my Wacom pens requires so much force to get to 100% that, if 
 
 Below you can see how different the pressure response of this pen is compared to every other pen I have.
 
-<figure><img src="../.gitbook/assets/tsg-hard-to-reach-max-pressure-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unused/image-000444 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to address
 

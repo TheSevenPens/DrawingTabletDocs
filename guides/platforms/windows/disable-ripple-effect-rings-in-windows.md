@@ -1,4 +1,4 @@
-# Disable ripple effect rings in Windows
+# Disabling ripple effect rings in Windows
 
 ## Windows 11
 
@@ -6,14 +6,3 @@
 * Go to **Pen & Windows Ink**
 * Under **Additional pen settings**
 * Uncheck **Show visual effects**
-
-![](<../../../.gitbook/assets/image-000361.png>)
-
-
-
-
-
-
-
-
-

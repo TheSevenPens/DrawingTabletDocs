@@ -8,7 +8,7 @@ This is the last time "Intuos + Number" was how these professional pen tablets w
 
 <figure><img src="../../../../.gitbook/assets/wacom-pthx50-ptkx50-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/wacom-pthx50-ptkx50-notes-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/unused/image-000080 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Models
 

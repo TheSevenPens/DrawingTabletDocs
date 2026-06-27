@@ -10,7 +10,7 @@ There are two locations in the Wacom Tablet Properties app where you can see the
 
 First, you can see the pressure under the Pen tab. It is shown in the **Current Pressure** bar.
 
-![](../.gitbook/assets/diag-pressure-in-tablet-driver-1.png)
+![](<../.gitbook/assets/unused/image-000289 (1).png>)
 
 Second, you can also click **Customize** which will bring up the Pen Feel Details dialog.
 
