@@ -225,6 +225,7 @@
       * [Pressure curves in OpenTabletDriver](guides/drivers/opentabletdriver/pressure-curves-in-otd.md "Pressure curves")
       * [Slimy Scylla](guides/drivers/opentabletdriver/otd-plugin-slimyscylla.md)
       * [Exporting OpenTabletDriver diagnostics](guides/drivers/opentabletdriver/otd-export-diagnostics.md "Exporting diagnostics")
+      * [OpenTabletDriver vs manufacturer drivers](guides/drivers/opentabletdriver/opentabletdriver-vs-manufacturer-drivers.md)
     * [TabletMagic](guides/drivers/tabletmagic.md)
   * [Advanced](guides/advanced/README.md)
     * [Firmware](guides/advanced/firmware.md)
