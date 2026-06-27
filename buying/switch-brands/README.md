@@ -8,8 +8,8 @@ If you already have a tablet and are looking to buy a new one, you might be thin
 
 Wacom tablets will come up in this discussion a lot. The key thing to keep in mind with Wacom is that their professional and consumer pen tablets are completely different experiences.
 
-* Wacom professional tablets are the best in the market.
-* Wacom professional pens are the best in the market.
+* Wacom professional tablets are the best on the market.
+* Wacom professional pens are the best on the market.
 * Wacom consumer tablets are just OK (some are pretty good).
 * Wacom consumer pens are just OK (some older ones are pretty good).
 
@@ -19,7 +19,7 @@ If you already have a Wacom professional tablet, switching to another brand is u
 
 **Physical pressure range (IAF and max pressure)**
 
-As of 2026, Wacom professional pens still have the lowest IAF in the industry, meaning they can detect extremely light pressure. Other brands have gotten closer over the years but still don't match what Wacom professional pens offer in terms of sensitivity.
+As of 2026, Wacom professional pens still have the lowest IAF in the industry, meaning they can detect extremely light pressure. Other brands have gotten closer over the years, but they still do not match what Wacom professional pens offer in terms of sensitivity.
 
 If having a pen that is extremely sensitive to pressure is important to you — one that detects very light strokes — you may not enjoy the transition to another brand.
 
@@ -44,9 +44,9 @@ If you have these tablets, you might get a better experience with a newer non-Wa
 
 At any given moment, Wacom produces only a small number of tablets and doesn't release new products very often. This makes their lineup relatively simple to understand.
 
-Wacom tablets have a support lifetime of about a decade, and can often be used even longer. Some people are still using Wacom tablets from two decades ago — for example the Intuos 3, a professional series released in 2012.
+Wacom tablets have a support lifetime of about a decade and can often be used even longer. Some people are still using Wacom tablets from two decades ago — for example, the Intuos 3, a professional series released in 2012.
 
-Non-Wacom brands release a lot of products, and you can find a confusing mix of older and newer models both available for sale at the same time. This runs the risk of purchasing an older tablet that won't be as good as their newer ones.
+Non-Wacom brands release a lot of products, and you can find a confusing mix of older and newer models available for sale at the same time. This creates a risk of purchasing an older tablet that will not be as good as a newer one.
 
 The easiest way to know you're getting a newer non-Wacom tablet is to check when YouTube reviews started appearing and verify that they feature the brand's latest pen models.
 
@@ -62,7 +62,7 @@ For non-Wacom brands, here are the pens that indicate a tablet uses the latest t
 
 Tablet drivers are critical for successfully using a drawing tablet.
 
-There has never been a clear pattern showing that a specific brand has better drivers than others — experiences vary widely from person to person.
+There has never been a clear pattern showing that a specific brand has better drivers than the others — experiences vary widely from person to person.
 
 For some people, Wacom tablet drivers are very reliable and cause no problems at all. That has been my experience. However, for others, Wacom drivers have been very unreliable.
 
@@ -84,7 +84,7 @@ On macOS, my experience has been quite different — tablet drivers tend to coex
 
 ## Moving to Wacom
 
-If you have a non-Wacom tablet and want to switch to Wacom, and you're considering a Wacom Professional tablet, there is one important thing to be aware of.
+If you have a non-Wacom tablet and want to switch to Wacom, and you are considering a Wacom Professional tablet, there is one important thing to be aware of.
 
 Wacom professional pens tend to be much more expensive than non-Wacom pens. Some Wacom professional pens cost more than entire non-Wacom tablets. Be aware of replacement pen prices in case you ever lose or damage yours.
 

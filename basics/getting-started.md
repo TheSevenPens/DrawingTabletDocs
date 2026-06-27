@@ -2,7 +2,7 @@
 
 ## Overview
 
-If you just acquired a drawing tablet and want to start using it, this guide will lead you through the basics.
+If you just got a drawing tablet and want to start using it, this guide will walk you through the basics.
 
 {% hint style="info" %}
 * If you are new to drawing tablets, first read [Beginner's guide to drawing tablets](beginners-guide.md).
@@ -11,9 +11,9 @@ If you just acquired a drawing tablet and want to start using it, this guide wil
 
 ## Consider recording the unboxing and initial setup
 
-When your tablet arrives, there's a chance you were sent a defective unit. In some cases, you were sent a working unit, but it was damaged during shipping. For example, a pen display screen may be cracked.
+When your tablet arrives, there is a chance it is defective. In some cases, it works when shipped but is damaged during transit. For example, a pen display screen may be cracked.
 
-Once you open the box and find a damaged unit, you'll need to contact the retailer or tablet brand for a replacement. This conversation will go much more smoothly if you can show that the damage happened before you even opened the box.
+If you open the box and find a damaged unit, you will need to contact the retailer or tablet brand for a replacement. That conversation will go much more smoothly if you can show that the damage happened before you even opened the box.
 
 For this reason, it is a good idea to record yourself unboxing the tablet. Record yourself examining it for any signs of damage. Keep recording as you turn on the tablet, since some problems only appear when the tablet is on.
 
@@ -27,7 +27,7 @@ For this reason, it is a good idea to record yourself unboxing the tablet. Recor
 
 ## Read the user manual
 
-* Most questions you have are already answered in the user manual.
+* Most of your questions are already answered in the user manual.
 * You will spare yourself a lot of frustration if you read it first.
 * You do not even need to open the box. You can download the manual from the manufacturer's website.
 * The most important thing to understand in the user manual is how the tablet physically connects to your computer. This is especially important if you have a pen display (screen tablet).
@@ -84,19 +84,19 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 
 ## How the pen & tablet work with the computer
 
-* Once the tablet driver is installed and the tablet is connected, it will detect the pen. It treats the pen much like a mouse, except a mouse uses relative positioning and the pen uses absolute positioning. More here: [Absolute versus relative positioning](../core/active-area/absolute-versus-relative-positioning.md)
+* Once the tablet driver is installed and the tablet is connected, it will detect the pen. It treats the pen much like a mouse, except that a mouse uses relative positioning and the pen uses absolute positioning. More here: [Absolute versus relative positioning](../core/active-area/absolute-versus-relative-positioning.md)
 * If the pen is in range, about 10 mm from the tablet, or touching the tablet, moving the pen will move the mouse pointer.
   * If the pen is not touching the tablet, it is like you are not pressing any mouse buttons.
   * If the pen is touching the tablet, it is like you are holding down the left mouse button.
 * Pen-aware drawing apps can also use features like pressure and tilt.
 * If you are using a drawing program, you do not need to hold down any button to draw. Just touch the pen to the tablet.
 
-## Learn what the active area is, also called the "Working Area"
+## Learn what the active area is, also called the "working area"
 
 * The active area is the region of the tablet that responds to the pen.
-  * Wacom calls this the "Active Area" in their docs. In their driver, it is called "Mapping."
+  * Wacom calls this the "Active Area" in their docs. In the driver, it is called "Mapping."
   * Huion calls this the "Working Area."
-  * I will always call it the "active area" because that is the oldest term for it.
+  * This guide uses "active area" because it is the oldest term for it.
 * Go into the driver, find the active area setting, and get familiar with it. It is one of the most common things you will need to adjust.
 * More here: [Active area](../core/active-area/)
 
@@ -105,13 +105,13 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 * This step is needed for pen tablets, the ones without a screen.
 * The active area is mapped to one of your displays or to multiple displays.
 * By default, they are often mapped to multiple displays.
-* My recommendation is:
+* Recommended setup:
   * Map the active area to a single display.
   * If you want to use multiple displays with your pen tablet, use the tablet driver's **display toggle** feature. It lets you switch the active area mapping between displays by pressing a button on the pen or tablet. See: [Display toggle](../core/active-area/display-toggle.md)
 
 ## Pen tablets: Enable Force Proportions
 
-* <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You don't have to do this for pen displays.
+* <mark style="color:red;">**This step is very important for pen tablets**</mark> (the ones without a screen). You do not need to do this for pen displays.
 * If you do not do this, your drawing will be distorted. In other words, tracing a perfect circle on the tablet will produce an oval on the screen.
 * Explanation and instructions here: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md).
 
