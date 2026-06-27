@@ -13,12 +13,6 @@ The display shows vertical lines.
 
 <figure><img src="../.gitbook/assets/display-vertical-lines-example-1.webp" alt="" width="375"><figcaption></figcaption></figure>
 
-```
-<figure><img src="/files/zuuOIpvtNNmvZDkacHU5" alt="" width="375"><figcaption></figcaption></figure>
-
-&#x20;
-```
-
 <figure><img src="../.gitbook/assets/display-vertical-lines-example-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Causes
