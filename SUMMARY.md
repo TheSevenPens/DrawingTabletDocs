@@ -437,7 +437,7 @@
       * [Apple iPad notes](catalog/drawtabs/apple/apple-ipad-notes.md "iPad notes")
       * [Using an iPad with your computer as a pen display](catalog/drawtabs/apple/ipad-as-pen-display.md "iPad as pen display")
       * [Apple iPad vs drawing tablets](catalog/drawtabs/apple/ipad-vs-drawtab.md "iPad vs drawing tablets")
-      * [Apple iPad versus Samsung Galaxy Tab S](catalog/drawtabs/apple/apple-ipad-vs-samsung-tab-s.md "iPad vs Samsung Galaxy Tab S")
+      * [Apple iPad vs Samsung Galaxy Tab S](catalog/drawtabs/apple/apple-ipad-vs-samsung-tab-s.md "iPad vs Samsung Galaxy Tab S")
     * [Artisul](catalog/drawtabs/artisul.md)
     * [ASUS](catalog/drawtabs/asus/README.md)
       * [ASUS ProArt Pen Display (PA169CDV) notes](catalog/drawtabs/asus/asus-pro-art-pen-display.md "PA169CDV notes")

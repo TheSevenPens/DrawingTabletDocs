@@ -1,4 +1,4 @@
-# Apple iPad versus Samsung Galaxy Tab S
+# Apple iPad vs Samsung Galaxy Tab S
 
 {% hint style="info" %}
 For more information:
@@ -21,6 +21,7 @@ Both of these kinds of devices can be successfully used for digital art, note-ta
 
 ## Comparison videos
 
+* [Teoh on Tech - iPad price hike (Jun 2026): Android drawing tablets to get](https://www.youtube.com/watch?v=9lCsR0TeQWk) 2026-06-27
 * [Teoh on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025-07-06
 * [Brad Colbow 2024 iPad Air vs Samsung Galaxy Tab FE](https://www.youtube.com/watch?v=wMjW244Vyfs) 2024-09-16
 * [Teoh on Tech - M4 iPad Pro vs Samsung Tab S9](https://www.youtube.com/watch?v=0_CEWImyVhA) (artist comparison) 2024-05-23
