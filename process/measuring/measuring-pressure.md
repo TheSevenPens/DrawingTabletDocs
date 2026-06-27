@@ -9,7 +9,7 @@ It is delicate enough to measure 0.1g which makes it good for IAF testing and ca
 * [Link to scale on us solid site](https://ussolid.com/u-s-solid-0-1-g-precision-balance-5-kg-digital-analytical-lab-electronic-scale-5100-g-x-0-1g.html) ([archived link](https://archive.is/JtDyk))
 * [Instruction manual](https://file.ussolid.com/content/USS-DBS/Instruction%20Manual-USS-DBS86%20Precision%20Balance.pdf)
 
-<figure><img src="../../.gitbook/assets/image-000604.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/measuring-pressure-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Connecting the scale to a computer
 
@@ -34,7 +34,7 @@ As of September 2025 my setup looks like this:
 * Masking tape secures the ruler to the foam
 * Weights on top of the foam are added and moved to adjust the pressure and to secure the arm
 
-<figure><img src="../../.gitbook/assets/image-000130.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/measuring-pressure-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Videos
 

@@ -25,7 +25,7 @@ Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. M
 
 ## Diagonal wobble
 
-<figure><img src="../../../.gitbook/assets/image-000176.png" alt="" width="375"><figcaption><p>Diag Wobble XP-Pen Artist 12 GEN2 (CD120FH)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-cd120fh-notes-1.png" alt="" width="375"><figcaption><p>Diag Wobble XP-Pen Artist 12 GEN2 (CD120FH)</p></figcaption></figure>
 
 Compare to the Artist 13 GEN2
 

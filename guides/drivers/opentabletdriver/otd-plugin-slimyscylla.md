@@ -8,7 +8,7 @@ It is extremely powerful and configurable.
 
 It features many amazing filters:
 
-<img src="../../../.gitbook/assets/image-000393.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/otd-plugin-slimyscylla-4.png" alt="" data-size="original">
 
 ##
 
@@ -18,27 +18,27 @@ Launch the OpenTabletDriver UI.
 
 Navigate to **Plugins** > **Open Plugin Manager**.
 
-<img src="../../../.gitbook/assets/image-000349.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/otd-plugin-slimyscylla-5.png" alt="" data-size="original">
 
 The plugin manager will look like this.
 
-<img src="../../../.gitbook/assets/image-000387.png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/otd-plugin-slimyscylla-6.png" alt="" data-size="original">
 
 Click on **Slimy Scylla** in the list on the left.
 
 Then click **Install**.
 
-![](../../../.gitbook/assets/image-000348.png)
+![](../../../.gitbook/assets/otd-plugin-slimyscylla-1.png)
 
 Close the plugin manager.
 
 In the OpenTabletDriver app, click **Filters**.
 
-![](../../../.gitbook/assets/image-000358.png)
+![](../../../.gitbook/assets/otd-plugin-slimyscylla-2.png)
 
 If Slimy Scylla is installed, you will see many filters with names that start with "Slimy Scylla."
 
-![](../../../.gitbook/assets/image-000270.png)
+![](../../../.gitbook/assets/otd-plugin-slimyscylla-3.png)
 
 If you want to use a filter, make sure to enable it and press **Save**.
 

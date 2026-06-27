@@ -55,30 +55,30 @@ For example, you can set a button to:
 
 Wacom Intuos Pro PTH-660
 
-<figure><img src="../../.gitbook/assets/image-000454.png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/expresskeys-9.png" alt=""><figcaption><p>Default ExpressKeys setting for Wacom Intuos Pro Medium (PTH-660)</p></figcaption></figure>
 
 ## Examples
 
 ### Wacom Intuos Pro Large PTH-860
 
-<img src="../../.gitbook/assets/image-000730.jpg" alt="" data-size="original">
+<img src="../../.gitbook/assets/expresskeys-10.jpg" alt="" data-size="original">
 
 ## Huion Inspiroy Dial2 (Q630M)
 
-![](../../.gitbook/assets/image-000227.jpg)
+![](../../.gitbook/assets/expresskeys-1.jpg)
 
 ## Example UI from Wacom Tablet Properties App
 
-![](../../.gitbook/assets/image-000388.png)
+![](../../.gitbook/assets/expresskeys-2.png)
 
-![](../../.gitbook/assets/image-000313.png)
+![](../../.gitbook/assets/expresskeys-3.png)
 
-![](../../.gitbook/assets/image-000282.png)
+![](../../.gitbook/assets/expresskeys-4.png)
 
-![](../../.gitbook/assets/image-000269.png)
+![](../../.gitbook/assets/expresskeys-5.png)
 
-![](../../.gitbook/assets/image-000308.png)
+![](../../.gitbook/assets/expresskeys-6.png)
 
-![](../../.gitbook/assets/image-000377.png)
+![](../../.gitbook/assets/expresskeys-7.png)
 
-![](../../.gitbook/assets/image-000284.png)
+![](../../.gitbook/assets/expresskeys-8.png)

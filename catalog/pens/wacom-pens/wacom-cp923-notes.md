@@ -4,7 +4,7 @@
 
 Wacom introduced this pen in 2023. It is a terrible pen because of how it handles pressure. I prefer using the Wacom One Pen 2019 GEN1 (CP-913) instead.
 
-<figure><img src="../../../.gitbook/assets/image-000595.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-cp923-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 Officially the name of the CP-923 pen is "Wacom One Standard Pen" but that name is confusing so I will call it one of the following names:
 
@@ -78,7 +78,7 @@ I tested three units of the CP-923, and it works with the DTC-133.
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image-000473.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-cp923-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Max Pressure
 

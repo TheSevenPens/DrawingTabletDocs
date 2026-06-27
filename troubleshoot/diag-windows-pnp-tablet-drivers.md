@@ -31,6 +31,6 @@ The Windows PNP tablet driver is extremely basic. However, you can use it to dia
 
 When Windows PNP drivers are being used and you are moving your pen, you'll see the pointer look like this:
 
-<img src="../.gitbook/assets/image-000405.png" alt="" data-size="original">
+<img src="../.gitbook/assets/diag-windows-pnp-tablet-drivers-1.png" alt="" data-size="original">
 
 If you see it look like the normal mouse pointer when you use the pen, that usually means the manufacturer driver is being used.

@@ -4,9 +4,9 @@
 
 These are **VERY GOOD** pen tablets from Wacom and still highly competitive with pro tablets from non-Wacom brands. The only real limitation is that they don't support TILT.
 
-<figure><img src="../../../../.gitbook/assets/image-000138.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-1.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000139.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-2.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
 
 ## Basics
 
@@ -51,15 +51,15 @@ NOTE: technically there is a fifth button - but that is for turning the bluetoot
 
 There is a single micro USB port on the upper left corner of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000140.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Cabling
 
 The tablet comes with a USB-A to Micro USB cable.
 
-<figure><img src="../../../../.gitbook/assets/image-000141.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000142.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-5.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Alternate cabling
 
@@ -71,9 +71,9 @@ The CTL-6100WL and CTL-4100WL models support Bluetooth for wireless connectivity
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/image-000136.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000137.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-7.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Resources
 

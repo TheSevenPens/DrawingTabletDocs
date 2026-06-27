@@ -16,7 +16,7 @@ Photodon has different types of film. Some have more anti-glare effect and some 
 
 Of the films they have, the one that reduced glare but didn't add too much AG sparkle was the Photodon MXT AG film. Photodon ranks this as a "50%" reduction in glare.
 
-<figure><img src="../../../../.gitbook/assets/image-000149.jpg" alt="" width="375"><figcaption><p>Picure from Photodon showing how much the different films disperse light.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/photodon-screen-protectors-1.jpg" alt="" width="375"><figcaption><p>Picure from Photodon showing how much the different films disperse light.</p></figcaption></figure>
 
 ## **Custom sizes**
 

@@ -14,19 +14,19 @@ The cause of parallax is a physical separation between the display panel and the
 
 In pen displays, this happens because the glass that covers the display panel has non-zero thickness.
 
-<figure><img src="../../.gitbook/assets/image-000355.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-1.png" alt=""><figcaption></figcaption></figure>
 
 Depending on where your eye is, what you see the pen tip pointing to will be different.
 
-<figure><img src="../../.gitbook/assets/image-000311.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-2.png" alt=""><figcaption></figcaption></figure>
 
 Compare this line of sight:
 
-<figure><img src="../../.gitbook/assets/image-000264.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-3.png" alt=""><figcaption></figcaption></figure>
 
 To this one:
 
-<figure><img src="../../.gitbook/assets/image-000329.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-4.png" alt=""><figcaption></figcaption></figure>
 
 Clearly parallax makes you see different things.
 
@@ -42,11 +42,11 @@ The way to reduce parallax is to minimize the distance between the pen tip and t
 
 Here is a thick sheet of glass with lots of parallax:
 
-<figure><img src="../../.gitbook/assets/image-000319.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-5.png" alt=""><figcaption></figcaption></figure>
 
 Compare it to a very thin sheet of glass with much less parallax:
 
-<figure><img src="../../.gitbook/assets/image-000344.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-6.png" alt=""><figcaption></figcaption></figure>
 
 ## Lamination
 
@@ -86,11 +86,11 @@ However, some people find parallax slightly beneficial. They like being able to 
 
 These three pen displays show very good parallax performance. Notice that the one on the left is a $3500 pen display, while the two on the right are entry-level $300 pen displays. All of these displays are laminated.
 
-<figure><img src="../../.gitbook/assets/image-000350.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-7.png" alt=""><figcaption></figcaption></figure>
 
 Compare the laminated pen display on the left to the unlaminated pen display on the right. Disregard the blurry image - that is an issue with the photograph itself. Notice how far away the tip of the pen is from the tip of the point.
 
-<figure><img src="../../.gitbook/assets/image-000318.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/parallax-8.png" alt=""><figcaption></figcaption></figure>
 
 ## Resources
 

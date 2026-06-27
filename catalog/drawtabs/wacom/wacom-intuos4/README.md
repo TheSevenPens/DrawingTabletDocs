@@ -32,9 +32,9 @@ Wacom launched the Intuos4 in 2009. These are professional pen tablets.
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/image-000078.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos4-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000077.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos4-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Design
 

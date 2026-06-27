@@ -6,19 +6,19 @@ Barrel rotation is very easy to understand. It's just a rotation of the pen alon
 
 The photos below represent an untilted pen. The orange circle will indicate the barrel rotation.
 
-<figure><img src="../../.gitbook/assets/image-000561.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barrel-rotation-1.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000562.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barrel-rotation-2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000563.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barrel-rotation-3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Below are diagrams showing both tilt and barrel rotation. Tilt and barrel rotation are independent. People often confuse them, so it's useful to compare a tilted pen with barrel rotation.
 
 The green circle shows the tilt azimuth. The purple circle shows the tilt altitude.
 
-<figure><img src="../../.gitbook/assets/image-000564.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barrel-rotation-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000565.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barrel-rotation-5.png" alt="" width="375"><figcaption></figcaption></figure>
 
 In the diagram below, barrel rotation is indicated by the arrows that go around the long axis of the pen (as indicated by the dotted line).
 

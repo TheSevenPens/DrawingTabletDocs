@@ -28,7 +28,7 @@ I used it in these ways:
 
 [https://www.amazon.com/dp/B0BB13ZNPQ](https://www.amazon.com/dp/B0BB13ZNPQ)
 
-### ![](../../.gitbook/assets/image-000274.png)
+### ![](../../.gitbook/assets/extension-cables-1.png)
 
 ## Be aware of how deeply the port is housed in the pen display
 

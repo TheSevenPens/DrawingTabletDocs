@@ -52,4 +52,4 @@ Some pressure pulsing is visible at lower pressure. It will mostly be visible wi
 
 Rating: VERY GOOD. Low amounts of wobble.
 
-<figure><img src="../../../.gitbook/assets/image-000743.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-g930l-notes-1.png" alt=""><figcaption></figcaption></figure>

@@ -12,6 +12,6 @@ The rubber grips do a good job holding the tablet and preventing the stand from 
 
 ## Photos
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000012.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/xencelabs-mobile-easel-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000013.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/xencelabs-mobile-easel-2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>

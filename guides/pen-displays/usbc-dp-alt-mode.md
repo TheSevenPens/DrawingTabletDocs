@@ -14,7 +14,7 @@ Support for DP alt mode is something you must verify for your ports and your cab
 
 The DisplayPort symbol indicates that the cable or port supports DP alt mode. Unfortunately, many cables that do support DP alt mode do not have this logo.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000603.png" alt="" width="140"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/usbc-dp-alt-mode-1.png" alt="" width="140"><figcaption></figcaption></figure></div>
 
 ### Option 2: Thunderbolt symbol
 
@@ -22,11 +22,11 @@ The Thunderbolt symbol indicates a cable or port supports DP-alt mode.
 
 Here is an example of two USB-C ports with the Thunderbolt symbol.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000001.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/usbc-dp-alt-mode-2.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Here is an example of a cable with a Thunderbolt symbol.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000602.jpg" alt="" width="169"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/usbc-dp-alt-mode-3.jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
 Unfortunately, many USB-C Thunderbolt ports and cables simply do not have the Thunderbolt logo on them.
 

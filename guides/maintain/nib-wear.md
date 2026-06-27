@@ -9,15 +9,15 @@ Two changes will be visible in your nibs over time:
 * The nib gets shorter
 * The nib may flatten out, creating essentially a sharper edge
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000155.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/nib-wear-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Examples
 
 Below you can see the wear on a Wacom Art Pen nib that was used on a Wacom Intuos Pro Large (PTH-860) surface for two weeks.
 
-<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image-000164.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/nib-wear-2.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000734.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/nib-wear-3.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Surface texture
 
@@ -51,7 +51,7 @@ I recommend replacing your nib when either of these conditions is true:
 * Most of the tip has become flat
 * The nib is getting short. Nib remover tools need to be able to grasp enough of the nib to pull it out. If you let it get too short, it may become stuck or very difficult to remove.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000154.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/nib-wear-4.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Resources
 

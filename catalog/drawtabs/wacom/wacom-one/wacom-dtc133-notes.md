@@ -56,7 +56,7 @@ Taking the screen and the pen into consideration, this tablet provides a DECENT 
 
 GOOD. has low amount of wobble.
 
-<img src="../../../../.gitbook/assets/image-000174.png" alt="" width="375">
+<img src="../../../../.gitbook/assets/wacom-dtc133-notes-1.png" alt="" width="375">
 
 ##
 
@@ -70,11 +70,11 @@ You can purchase it from the Wacom store: [https://estore.wacom.com/en-us/wacom-
 
 You MUST use this cable to connect the DTC-133 tablet. No other cable can be used.
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000159.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-dtc133-notes-2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## HDMI connection
 
-<figure><img src="../../../../.gitbook/assets/image-000606.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dtc133-notes-3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **Cable attachment direction**
 
@@ -82,7 +82,7 @@ You MUST use this cable to connect the DTC-133 tablet. No other cable can be use
 
 When you plug in the 3-in-1 cable to the top of the tablet, the cord from should go to the left. If the cord goes to the right the tablet won't work. See the diagram below from Wacom's user manual for this tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000605.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dtc133-notes-4.png" alt="" width="306"><figcaption></figcaption></figure>
 
 ### **USB-C connection**
 

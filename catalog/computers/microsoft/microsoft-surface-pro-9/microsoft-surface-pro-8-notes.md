@@ -4,9 +4,9 @@
 
 If you want to run Windows desktop apps on a standalone tablet for note-taking rather than art, the **Surface Pro 8** is a good choice. Newer models are too, especially when paired with the Surface Pro Signature Keyboard and Slim Pen 2.
 
-<figure><img src="../../../../.gitbook/assets/image-000104.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/microsoft-surface-pro-8-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000105.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/microsoft-surface-pro-8-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Basics
 

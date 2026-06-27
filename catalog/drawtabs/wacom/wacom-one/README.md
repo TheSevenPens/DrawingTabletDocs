@@ -8,4 +8,4 @@
 
 This diagram summarizes how their consumer tablet line is evolving.
 
-<figure><img src="../../../../.gitbook/assets/image-000396.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-one-1.png" alt=""><figcaption></figcaption></figure>

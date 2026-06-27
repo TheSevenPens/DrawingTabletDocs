@@ -12,7 +12,7 @@ There are three models:
 * X3 Pro Slim
 * X3 Pro Roller
 
-<figure><img src="../../../.gitbook/assets/image-000642.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x3propen-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Eraser**
 
@@ -32,11 +32,11 @@ XP-Pen states it should have an IAF of 3gf. Subjectively that felt accurate.
 
 XP-Pen says the X3 Pro pens should have a max pressure of 400 gf.
 
-<figure><img src="../../../.gitbook/assets/image-000643.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x3propen-notes-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 My testing shows that individual units can vary from \~250gf to \~450gf.
 
-<figure><img src="../../../.gitbook/assets/image-000480.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x3propen-notes-4.png" alt=""><figcaption></figcaption></figure>
 
 ## **Pen pressure levels**
 
@@ -44,7 +44,7 @@ Specifications say 16K. Ignore this. It is hype. All you need is 2K pressure lev
 
 This is what it shows in the driver when the pen is at full pressure.
 
-![](../../../.gitbook/assets/image-000391.png)
+![](../../../.gitbook/assets/xppen-x3propen-notes-1.png)
 
 ## X3 Pro versus other pens
 

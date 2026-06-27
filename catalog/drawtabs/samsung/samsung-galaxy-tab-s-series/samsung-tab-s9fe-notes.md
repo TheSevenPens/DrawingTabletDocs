@@ -38,4 +38,4 @@ It's just an all around good device.
 
 ## Diagonal wobble
 
-<figure><img src="../../../../.gitbook/assets/image-000592.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/samsung-tab-s9fe-notes-1.png" alt=""><figcaption></figcaption></figure>

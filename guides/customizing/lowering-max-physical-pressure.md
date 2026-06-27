@@ -6,4 +6,4 @@ HOWEVER, with pressure curves you can effectively decrease the maximum physical 
 
 To decrease the maximum physical pressure:
 
-<figure><img src="../../.gitbook/assets/image-000532.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lowering-max-physical-pressure-1.png" alt="" width="563"><figcaption></figcaption></figure>

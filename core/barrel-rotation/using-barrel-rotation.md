@@ -14,11 +14,11 @@ Make sure your brush shape is something that would show barrel rotation clearly.
 
 A shape like this would work
 
-<figure><img src="../../.gitbook/assets/image-000240.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/using-barrel-rotation-1.png" alt=""><figcaption></figcaption></figure>
 
 whereas a shape like this would not demonstrate barrel rotation because it is symmetric about its center.
 
-<figure><img src="../../.gitbook/assets/image-000298.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/using-barrel-rotation-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Krita: enabling barrel rotation
 
@@ -28,7 +28,7 @@ whereas a shape like this would not demonstrate barrel rotation because it is sy
 * Uncheck all the options under **Enable Pen Settings**, but check **Rotation**.
 * Then go to the canvas of your document and try rotating the pen around its long axis
 
-<figure><img src="../../.gitbook/assets/image-000340.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/using-barrel-rotation-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Clip Studio Paint
 
@@ -37,7 +37,7 @@ whereas a shape like this would not demonstrate barrel rotation because it is sy
 * Next to **Angle**, click the button with two chevrons
 * Choose **Pen tilt**
 
-<figure><img src="../../.gitbook/assets/image-000760.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/using-barrel-rotation-4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photoshop 2026
 
@@ -45,4 +45,4 @@ whereas a shape like this would not demonstrate barrel rotation because it is sy
 * Navigate to **Shape Dynamics**
 * Under **Angle Jitter**, set **Control** to **Rotation**
 
-<figure><img src="../../.gitbook/assets/image-000759.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/using-barrel-rotation-5.png" alt="" width="563"><figcaption></figcaption></figure>

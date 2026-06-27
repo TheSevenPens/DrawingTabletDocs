@@ -12,7 +12,7 @@ Occasionally I use this microscope to get close-up pictures of nibs, and sometim
 * Software: Plugable Digital Viewer App
 * Product page: [https://plugable.com/products/usb2-micro-250x](https://plugable.com/products/usb2-micro-250x) ([archived](https://archive.is/1q71u))
 
-<figure><img src="../.gitbook/assets/image-000569.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/microscope-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Notes
 

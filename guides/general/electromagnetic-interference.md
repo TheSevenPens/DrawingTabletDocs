@@ -14,13 +14,13 @@ EMI can make the pen have jerky movements - making the pen unresponsive for a fe
 
 Sometimes the EMI takes the form of a region that warps straight lines. Below is an example of such warping caused by a magnet. In this case, it was a magnet attached to a stand underneath the tablet. ([See this reddit thread](https://www.reddit.com/r/huion/comments/13yef7f/kamvas_13_digitizer_problem/))
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000197.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/electromagnetic-interference-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### **Skipped regions**
 
 EMI can also present as a region where the pen seems unable to make a mark. Notice that some warping is also present. In this case, the cause was that the tablet was resting on a laptop keyboard. Note that there is also some warping of the pen position. ([See this reddit thread](https://www.reddit.com/r/XPpen/comments/14joyq5/pen_skips_across_the_screen_in_certain_spots_help/))
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000558.jpg" alt="" width="312"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/electromagnetic-interference-2.jpg" alt="" width="312"><figcaption></figcaption></figure></div>
 
 ## Tablets interfering with other devices
 

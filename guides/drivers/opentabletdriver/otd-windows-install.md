@@ -136,7 +136,7 @@ This is an important thing to learn, because you will be doing it a lot.
 * Once it is minimized, you can find it in the taskbar.
 * Click the OTD icon in the taskbar to open the OTD app.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000500.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-windows-install-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### STEP 2.3: Understanding the OTD app on Windows
 
@@ -165,7 +165,7 @@ Pressure and tilt will not work right now. We will cover that soon.
 * In the OTD app, go to **Output** > **Tablet**.
 * In **Output** > **Display**, right-click anywhere and pick **Set to Display** \<displayname>, where \<displayname> is the specific display you want to use with the tablet.
 * In **Output** > **Tablet**, right-click anywhere, then select **Lock Aspect Ratio**.
-* ![](../../../.gitbook/assets/image-000254.png)
+* ![](../../../.gitbook/assets/otd-windows-install-1.png)
 * At this point, moving the pen will move the pointer on exactly one display.
 * There will also be no stroke distortion. For example, a circle on the tablet will make a circle on the monitor with no distortion or stretching.
 * Press **APPLY**, then press **SAVE**.
@@ -211,7 +211,7 @@ Navigate to the **Pen Settings** tab.
 
 By default, the pen will be configured as shown below.
 
-<figure><img src="../../../.gitbook/assets/image-000245.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otd-windows-install-3.png" alt=""><figcaption></figcaption></figure>
 
 What to notice here: the tip settings, eraser settings, and the buttons are configured with `Adaptive Binding`. For now, leave these alone.
 
@@ -268,7 +268,7 @@ There are two ways to introduce smoothing:
 * Each button shows up as an **Auxiliary Binding**.
 * In the screenshot above, one of the buttons is set to match the `e` key.
 
-<figure><img src="../../../.gitbook/assets/image-000492.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otd-windows-install-4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### STEP 4.5: Display toggle
 

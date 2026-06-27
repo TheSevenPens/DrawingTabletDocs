@@ -16,9 +16,9 @@ If a pen tablet supports wireless over Bluetooth, the feature is built into the 
 
 Nobody has measured exactly how much latency wireless adds for a pen tablet. But we can borrow a few clues from mouse testing. RTINGS measured mouse click latency, and here are two examples.
 
-<figure><img src="../../../.gitbook/assets/image-000338.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wireless-connection-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000232.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wireless-connection-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Bluetooth wireless connections show that there can be very little latency or a lot of latency. It varies quite a bit even within a single mouse.
 

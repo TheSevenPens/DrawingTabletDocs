@@ -8,7 +8,7 @@ Most drawing tablets support these rotations:
 * Some only support two orientations
 * Some support only a single orientation
 
-<figure><img src="../../.gitbook/assets/image-000513.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rotating-drawtab-3.png" alt=""><figcaption></figcaption></figure>
 
 ## **Summary of steps**
 
@@ -40,15 +40,15 @@ Here is a demonstration of how to rotate a pen display: [https://youtu.be/\_OkAN
 
 Note that not all Wacom tablets have an Orientation option.
 
-![](../../.gitbook/assets/image-000397.png)
+![](../../.gitbook/assets/rotating-drawtab-1.png)
 
 ### Huion driver
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000224.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/rotating-drawtab-4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### XP-Pen driver
 
-![](../../.gitbook/assets/image-000514.png)
+![](../../.gitbook/assets/rotating-drawtab-2.png)
 
 ## Brand-specific information
 

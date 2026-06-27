@@ -8,9 +8,9 @@
 
 When you plug in your pen display, your computer should detect it as an additional display/monitor in Display Settings. If you don't see another monitor in Display Settings, then for whatever reason it does not think the display part of your pen display is attached.
 
-<figure><img src="../.gitbook/assets/image-000740.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-display-detection-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-000737.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-display-detection-4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Don't bother reinstalling the tablet drivers
 
@@ -41,7 +41,7 @@ Check the ports to ensure that there isn't some lint or other material preventin
 
 In Display Settings, there is an option to detect a display. Try it.
 
-<div align="left"><figure><img src="../.gitbook/assets/image-000738.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/tsg-display-detection-5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## MacOS
 
@@ -57,9 +57,9 @@ If your computer is not even detecting the existence of the display, and it has 
 * This will launch the **Detect Missing Display** dialog
 * Click **Rigorous Display Detection**
 
-![](../.gitbook/assets/image-000554.png)
+![](../.gitbook/assets/tsg-display-detection-1.png)
 
-![](../.gitbook/assets/image-000555.png)
+![](../.gitbook/assets/tsg-display-detection-2.png)
 
 ## Use Intel Graphics Command Center to detect your display
 

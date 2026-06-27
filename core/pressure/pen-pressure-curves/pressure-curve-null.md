@@ -8,7 +8,7 @@ The null pressure curve is the most important pressure curve - exactly because i
 
 The definition of a null profile is a pressure curve function that takes the input logical pressure and returns that very same value as the output logical pressure. In other words, f(p) = p.
 
-<figure><img src="../../../.gitbook/assets/image-000632.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pressure-curve-null-1.jpg" alt=""><figcaption></figcaption></figure>
 
 If you take the range of input logical pressures, which range from zero to one, and plot them on the X axis of a chart, and then you apply the null pressure curve to those values and plot the result of the function on the Y axis, then you get a straight line at 45° that goes from the lower-left corner to the upper-right corner of the chart.
 

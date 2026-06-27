@@ -93,7 +93,7 @@ TYPICAL. Normal for a pen display.
 
 GOOD. Pointer has only very minor displacement when pen tilted at 45 degrees.
 
-<figure><img src="../../../.gitbook/assets/image-000550.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs2202-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Parallax**
 
@@ -107,7 +107,7 @@ GOOD - low.
 
 very good. has extremely low wobble.
 
-![](../../../.gitbook/assets/image-000220.png)
+![](../../../.gitbook/assets/huion-gs2202-notes-1.png)
 
 ## Ergonomics
 
@@ -149,10 +149,10 @@ Over time I have it setup on my work desk on an arm. I use it as an external dis
 
 For this case you use the included proprietary 3-in-1 cable.
 
-<figure><img src="../../../.gitbook/assets/image-000450.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs2202-notes-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Connecting with USB-C for video signal**
 
 For this case you must use the 3-in-1 cable to provide power AND and a USB-C cable for video signal and data.
 
-<figure><img src="../../../.gitbook/assets/image-000451.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs2202-notes-4.png" alt="" width="563"><figcaption></figcaption></figure>

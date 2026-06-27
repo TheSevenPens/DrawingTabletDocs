@@ -4,7 +4,7 @@
 
 Good for a consumer level pen. The IAF could be a little better but not a big problem for me.
 
-<figure><img src="../../../.gitbook/assets/image-000753.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x3elitepen-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 

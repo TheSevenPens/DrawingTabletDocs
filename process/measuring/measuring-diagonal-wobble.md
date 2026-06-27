@@ -46,4 +46,4 @@ I measure [Diagonal wobble](../../core/diagonal-wobble.md) using a simple proced
 
 ## Wobble testing template image
 
-<figure><img src="../../.gitbook/assets/image-000744.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/measuring-diagonal-wobble-1.png" alt=""><figcaption></figcaption></figure>

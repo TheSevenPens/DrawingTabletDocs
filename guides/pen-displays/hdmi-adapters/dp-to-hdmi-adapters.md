@@ -2,7 +2,7 @@
 
 These will be MALE DisplayPort to FEMALE HDMI.
 
-<figure><img src="../../../.gitbook/assets/image-000145.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dp-to-hdmi-adapters-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **Quality**: There is no loss in quality when using this kind of adapter.
 

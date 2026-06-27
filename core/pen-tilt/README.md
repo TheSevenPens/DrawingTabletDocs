@@ -4,7 +4,7 @@
 
 Almost all drawing tablets can detect the tilt of the pen. Tilt support for drawing tablets usually ranges from 0 degrees to 60 degrees.
 
-<figure><img src="../../.gitbook/assets/image-000618.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pen-tilt-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 This video demonstrates tilt. I highly recommend you watch it.
 
@@ -20,7 +20,7 @@ For example, here is a stroke I drew with Krita. I configured the brush to ignor
 
 As I drew from left to right, I started with the pen very perpendicular and gradually started tilting the pen.
 
-<figure><img src="../../.gitbook/assets/image-000706.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pen-tilt-3.png" alt=""><figcaption></figcaption></figure>
 
 Mapping tilt to brush width is just the most common way of using tilt. However, depending on the application you could have tilt control other attributes of the stroke.
 
@@ -65,13 +65,13 @@ You don't need to know these details, but if you are curious how an EMR tablet a
 * Some applications don't use the tilt data at all. An example would be most note taking applications like OneNote. They tend to recognize pressure but not tilt.
 * Other applications do recognize tilt, but the use of the tilt data is only for specific brushes. So, for example, typically a "pencil" brush would support tilt. Other kinds of brushes may not. Even then, these brushes have settings that let you customize whether and how tilt is used for the brush.
 * Here's a good example of a brush in Krita. You can see that the Rotation of the brush is set to the Drawing Angle, but it could also be set to tilt.
-* ![](../../.gitbook/assets/image-000277.png)
+* ![](../../.gitbook/assets/pen-tilt-1.png)
 
 ## Tilt effect on pen tracking accuracy (tilt compensation)
 
 To calculate the location of the pen, the tablet must take into account how much the pen is tilted. This process is called **tilt compensation**. Remember: no tablet has perfect tilt compensation, and at extreme tilt angles you might see some deviation. This is normal.
 
-<figure><img src="../../.gitbook/assets/image-000519.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pen-tilt-4.png" alt=""><figcaption></figcaption></figure>
 
 ## Disabling tilt
 

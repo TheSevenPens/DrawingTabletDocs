@@ -13,7 +13,7 @@ Overpriced and underdelivering.
 * The cover doesn't block all the light from the MovinkPad screen. For example, if you are in a dark room and the MovinkPad screen is on, you can see the screen through the cover.
 
 ```
-<figure><img src="../../../../.gitbook/assets/image-000124.jpg" alt="" width="375"><figcaption><p>dark room - 100% brightness</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ack45633z-notes-1.jpg" alt="" width="375"><figcaption><p>dark room - 100% brightness</p></figcaption></figure>
 ```
 
-<figure><img src="../../../../.gitbook/assets/image-000125.jpg" alt="" width="375"><figcaption><p>dark room - 50% brightness</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ack45633z-notes-2.jpg" alt="" width="375"><figcaption><p>dark room - 50% brightness</p></figcaption></figure>

@@ -62,7 +62,7 @@ First, the standard Wacom Pro Pen 3 comes with a metal rod you can use to change
 
 Instead inside the pen, there is storage for 3 nibs.
 
-<figure><img src="../../../../.gitbook/assets/image-000002.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Also this variant pen does not come with any grips or any button strips.
 
@@ -158,9 +158,9 @@ none observed.
 
 ### Pixel layout
 
-<figure><img src="../../../../.gitbook/assets/image-000735.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/WIN_20260501_22_32_16_Pro.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Blacks
 
@@ -184,15 +184,15 @@ These 4 OSD options lead to sub menus: Input Source, Display settings, Tablet bu
 
 These 2 OSD buttons toggle on/off: Display saving, Touch on/off
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000717.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-4.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000714.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-5.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000713.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-6.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000716.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-7.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000715.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-8.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Drawing experience
 
@@ -218,7 +218,7 @@ Not quite as good as an iPad.
 
 EXCELLENT. Changing the tilt of the pen did not significantly change the location of the pointer.
 
-<figure><img src="../../../../.gitbook/assets/image-000641.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-9.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Pen tracking accuracy
 
@@ -229,29 +229,29 @@ EXCELLENT.
 
 ### Diagonal wobble
 
-<figure><img src="../../../../.gitbook/assets/image-000722.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-10.png" alt=""><figcaption></figcaption></figure>
 
 ### Pressure banding artifacts with consumer pro pens
 
 At the low end of pressure, there is a difference with how pressure is handled between the pro pens and other pens. With the pro pens - the lines are low pressure change in pressure simply due to my hand. And the strokes below are what I would expect. Don't let the appearance deceive you, they are good. The pen is responding to my inputs as expected.
 
-<figure><img src="../../../../.gitbook/assets/image-000573.png" alt="" width="375"><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-11.png" alt="" width="375"><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 100px</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000574.png" alt="" width="375"><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 300px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-12.png" alt="" width="375"><figcaption><p>Movink 13 + Wacom Pro Pen 3 + Krtia brush at 300px</p></figcaption></figure>
 
 Now see what happened with the Samsung S Pen creator edition. This also happened with the other consumer pens such as the Wacom CP-913, Wacom CP-923 and the other Samsung S pens I tried.
 
 Notice the "pulsing".
 
-<figure><img src="../../../../.gitbook/assets/image-000572.png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-13.png" alt="" width="375"><figcaption><p>Movink 13 + Samsung S pen creator edition + Krtia brush at 100px</p></figcaption></figure>
 
 The Wacom One GEN2 pen (CP-923) also exhibits some of this pulsing
 
-<figure><img src="../../../../.gitbook/assets/image-000418.png" alt="" width="287"><figcaption><p>Movink 13 + Wacom CP-923 + Krita brush at 200px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-14.png" alt="" width="287"><figcaption><p>Movink 13 + Wacom CP-923 + Krita brush at 200px</p></figcaption></figure>
 
 The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
 
-<figure><img src="../../../../.gitbook/assets/image-000382.png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-15.png" alt="" width="336"><figcaption><p>Movink 13 + Wacom CP-913 + Krita brush at 200px</p></figcaption></figure>
 
 ## Connectivity and Cabling
 

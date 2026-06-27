@@ -16,9 +16,9 @@ I spray them into a microfiber towel that comes with the bottle. I want the clot
 
 Here's a good video showing WOOSH in use: [https://www.youtube.com/watch?v=6zNUKkehnpc](https://www.youtube.com/watch?v=6zNUKkehnpc)
 
-<figure><img src="../../.gitbook/assets/image-000039.jpg" alt="" width="375"><figcaption><p>WOOSH! bottle with its microfiber towel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-cleaning-sprays-1.jpg" alt="" width="375"><figcaption><p>WOOSH! bottle with its microfiber towel</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000553.JPG" alt="" width="375"><figcaption><p>MISTIFY bottle with its microfiber towel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screen-cleaning-sprays-2.jpg" alt="" width="375"><figcaption><p>MISTIFY bottle with its microfiber towel</p></figcaption></figure>
 
 ## Pen tablets
 

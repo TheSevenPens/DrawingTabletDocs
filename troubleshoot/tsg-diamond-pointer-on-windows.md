@@ -4,7 +4,7 @@
 
 You may occasionally encounter a situation on a Windows computer where the pointer shows as a small diamond shape instead of what you would expect.
 
-<figure><img src="../.gitbook/assets/image-000497.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-diamond-pointer-on-windows-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Cause
 

@@ -2,9 +2,9 @@
 
 ## Photo Examples
 
-![](../.gitbook/assets/image-000566.jpg) ![](../.gitbook/assets/image-000567.jpg)
+![](../.gitbook/assets/tsg-pixel-noise-on-display-1.jpg) ![](../.gitbook/assets/tsg-pixel-noise-on-display-2.jpg)
 
-![](../.gitbook/assets/image-000568.jpg)
+![](../.gitbook/assets/tsg-pixel-noise-on-display-3.jpg)
 
 ## Video examples
 

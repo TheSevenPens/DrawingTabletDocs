@@ -1,6 +1,6 @@
 # Types of drawing tablets
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/drawtab-types-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Non-standalone drawing tablets
 

@@ -68,7 +68,7 @@ The only one I know of that does have an eraser is the Asus ProArt Pen MPA01. TM
 
 Wacom has a "Feel by Wacom" trademark as shown below
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000198.jpg" alt="" width="157"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/wacom-ud-emr-1.jpg" alt="" width="157"><figcaption></figcaption></figure></div>
 
 You can see this how it is used in these materials for an ASUS product.
 

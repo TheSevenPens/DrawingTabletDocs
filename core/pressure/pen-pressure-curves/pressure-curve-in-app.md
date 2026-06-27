@@ -14,4 +14,4 @@ Not all pressure curve shapes are possible in all cases.
 * Drivers usually offer only simple pressure curves
 * Applications are generally very flexible
 
-<figure><img src="../../../.gitbook/assets/image-000435.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pressure-curve-in-app-1.png" alt=""><figcaption></figcaption></figure>

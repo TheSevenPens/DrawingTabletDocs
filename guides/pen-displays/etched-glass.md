@@ -11,7 +11,7 @@ Etched glass provides two benefits:
 * It reduces glare and reflections caused by light hitting the tablet. Etched glass does this by scattering that light.
 * It provides more "grip" for the pen. Without the etching, a pen would feel "slippery" on the smooth glass surface.
 
-<figure><img src="../../.gitbook/assets/image-000443.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/etched-glass-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Sparkle
 

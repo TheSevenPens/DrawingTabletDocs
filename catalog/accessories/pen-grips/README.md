@@ -24,4 +24,4 @@ Some people make their own grips using
 
 Here's an example of someone using **yarn** to make a grip. ([**from this reddit thread**](https://www.reddit.com/r/wacom/comments/1bnvtqu/setup_is_super_old_and_the_grip_is_smooth_my/))
 
-<figure><img src="../../../.gitbook/assets/image-000755.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pen-grips-1.jpg" alt=""><figcaption></figcaption></figure>

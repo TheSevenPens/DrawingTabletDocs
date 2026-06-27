@@ -6,9 +6,9 @@ This is a slightly older Huion model from 2019 but is still a decent drawing tab
 
 If you get it, then it will work fine. But you should consider the newer Huion pen tablets at the same price point as the HS611.
 
-<figure><img src="../../../.gitbook/assets/image-000216.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000211.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Links**
 
@@ -37,11 +37,11 @@ The HS611 has a very simple design. No complaints, though it lacks the refined l
 
 It is also available in several colors (Space Grey, Starr Blue, and Coral Red). I have the Space Grey version.
 
-<figure><img src="../../../.gitbook/assets/image-000212.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 There is one cool aspect of its design. Unlike the vast majority of tablets, this one has regions with a slightly speckled pattern. This adds a bit of visual distinction.
 
-<figure><img src="../../../.gitbook/assets/image-000215.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Surface texture**
 
@@ -60,7 +60,7 @@ The 10 buttons are in 2 groups of 5.
 
 Each group of five has some raised symbols on the buttons to help you identify the buttons by touch alone and without looking.
 
-<figure><img src="../../../.gitbook/assets/image-000213.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Auxiliary inputs > touch controls**
 
@@ -68,7 +68,7 @@ Each group of five has some raised symbols on the buttons to help you identify t
   * One is a slider that can be configured to adjust zoom, brush size, or vertical scrolling
   * The rest control media-related features
 
-<figure><img src="../../../.gitbook/assets/image-000638.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Both the buttons and the touch-sensitive controls can be turned off in the driver.
 
@@ -100,4 +100,4 @@ Very good. Even when drawing at a very low amount of pressure with a very large 
 
 It exhibits some diagonal wobble. The wobble is most noticeable at slower speeds. In practice, I did not notice this much while drawing. Adding a little brush smoothing controlled it.
 
-<figure><img src="../../../.gitbook/assets/image-000168.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-hs611-notes-7.png" alt=""><figcaption></figcaption></figure>

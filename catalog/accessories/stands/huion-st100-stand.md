@@ -8,7 +8,7 @@ VESA mounting: YES
 
 Pen display size compatibility: Huion lists this stand as being compatible with 19" to 24" pen displays.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000504.png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/huion-st100-stand-1.png" alt="" width="375"><figcaption><p>HUION ST100A Adjustable Drawing Tablet Stand</p></figcaption></figure></div>
 
 ## In the box
 
@@ -26,4 +26,4 @@ I tried this stand with a 16" pen display — a Wacom Cintiq 16 2025 (DTK-168). 
 
 You could probably mitigate this issue at low angles by adding some kind of padding under the bottom edge.
 
-<figure><img src="../../../.gitbook/assets/image-000544.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-st100-stand-2.jpg" alt=""><figcaption></figcaption></figure>

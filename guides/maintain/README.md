@@ -12,7 +12,7 @@ Because drawing tablet pens usually have a black plastic body, they can be hard 
 
 Here is an example:
 
-<figure><img src="../../.gitbook/assets/image-000226.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/maintain-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:red;">**Do not drop your pen!**</mark>
 

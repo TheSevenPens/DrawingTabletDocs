@@ -12,4 +12,4 @@ Usually people find one bug in their display. In some rare cases, there may be m
 
 The original poster mentioned in the comments that he did have some success: "I’ve managed to get most of them out by shaking the absolute sh\*t out of it and using a can of compressed air and bug spray."
 
-![](../.gitbook/assets/image-000162.jpg)
+![](../.gitbook/assets/tsg-pen-display-insects-1.jpg)

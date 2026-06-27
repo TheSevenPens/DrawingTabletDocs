@@ -11,8 +11,8 @@ This was the default pen for the [Wacom Intuos1](../../drawtabs/wacom/wacom-intu
 
 ## Pictures
 
-<figure><img src="../../../.gitbook/assets/image-000093.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-gp300e-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000094.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-gp300e-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000095.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-gp300e-notes-3.jpg" alt=""><figcaption></figcaption></figure>

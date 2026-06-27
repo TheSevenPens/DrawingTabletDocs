@@ -37,7 +37,7 @@ For example, Wacom's Windows drivers are compatible with a wide range of its tab
 
 Here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
 
-![](../../.gitbook/assets/image-000401.png)
+![](../../.gitbook/assets/drivers-1.png)
 
 ## OpenTabletDriver
 

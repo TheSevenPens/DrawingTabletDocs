@@ -23,7 +23,7 @@ Store link: [https://store.huion.com/products/battery-free-pen-pw100](https://st
 * Huion store link: [https://store.huion.com/products/battery-free-pen-pw100](https://store.huion.com/products/battery-free-pen-pw100)
 *   Pen Compatibility as of 2026-02-06 from Huion's website
 
-    <figure><img src="../../../.gitbook/assets/image-000529.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/huion-pw100-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Pressure range
 
@@ -34,10 +34,10 @@ I only have one unit, and based on my testing:
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000540.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw100-notes-2.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000541.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw100-notes-3.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000543.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw100-notes-4.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000542.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw100-notes-5.jpg" alt="" width="188"><figcaption></figcaption></figure>

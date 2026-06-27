@@ -8,14 +8,14 @@ Instead of such a cable, I use a Micro-USB to USB-A adapter and connect it to to
 
 This is the specific adapter I use: [https://www.amazon.com/gp/product/B0BDLB86RT/](https://www.amazon.com/gp/product/B0BDLB86RT/)
 
-<figure><img src="../../.gitbook/assets/image-000635.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cable-adapters-1.jpg" alt=""><figcaption></figcaption></figure>
 
 This adapter is useful for working with
 
 * Wacom Intuos (CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL)
 * One Wacom by Wacom (CTL-472, CTL-672)
 
-<figure><img src="../../.gitbook/assets/image-000636.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cable-adapters-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Looking for HDMI adapters?
 

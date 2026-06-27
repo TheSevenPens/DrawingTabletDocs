@@ -23,4 +23,4 @@ If Step 1 did not require a restart of your computer, then restart your computer
 * Extract all contents of the zip file to any location
 * Right-click on `TabletDriverCleanup.exe` and click **Run as administrator**
 * The cleanup tool will open a terminal window and show the results of its cleaning. In the example below it did not find any leftover driver components to uninstall.
-  * ![](../../.gitbook/assets/image-000593.png)
+  * ![](../../.gitbook/assets/tablet-driver-cleanup-tool-1.png)

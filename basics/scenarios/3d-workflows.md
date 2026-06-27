@@ -43,9 +43,9 @@ For general guidance on size: [Choosing the right size for a drawing tablet](../
 
 For example, this is the kind of UI that may need to be visible at once.
 
-<figure><img src="../../.gitbook/assets/image-000548.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3d-workflows-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000549.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3d-workflows-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 For this reason, some suggest prioritizing resolution first before size.
 

@@ -14,7 +14,7 @@ If the aspect ratio of your pen tablet's active area does not match your monitor
 
 This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD. You can **EASILY** correct this by enabling FORCE PROPORTIONS.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000616.JPG" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/force-proportions-1.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Pen tablets are prone to distortion
 
@@ -22,7 +22,7 @@ Your monitor has its aspect ratio - for example most monitors are 16x9
 
 Your pen tablet's active area has its own aspect ratio - and most often it is NOT exactly 16x9. It can be off by a little bit or by a lot.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000615.JPG" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/force-proportions-2.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 So statistically most people run into a mismatch in aspect ratios when using pen tablets. And that means, many people are at the risk of distorted drawing.
 
@@ -96,13 +96,13 @@ The amount of active area you lose by turning on force proportions varies depend
 
 Note that if the active areas of the tablet and monitor are the same, then enabling FP does not incur any loss.
 
-<figure><img src="../../.gitbook/assets/Slide_20260223_101914.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/force-proportions-3.png" alt=""><figcaption></figcaption></figure>
 
 ## The amount of distortion varies
 
 Here are some examples of what happens some Wacom pen tablets because of the mismatched aspect ratios when using a 16:9 monitor. The black circle is what I draw on the tablet. The red circle is what actual got drawn on the monitor.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000612.JPG" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/force-proportions-4.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Multiple displays with Force Proportions
 

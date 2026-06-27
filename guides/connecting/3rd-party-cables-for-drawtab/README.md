@@ -42,7 +42,7 @@ Even if the cable meets the requirements - there are some issues you should be a
 
 Sometimes the USB-C port on the tablet sits inside a recessed opening, and the manufacturer cable is designed to fit it.
 
-<figure><img src="../../../.gitbook/assets/image-000639.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3rd-party-cables-for-drawtab-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 **Longer connectors**
 

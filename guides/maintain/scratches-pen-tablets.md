@@ -8,22 +8,22 @@ Below is an example of some scratches that, while ugly, do not interfere with th
 
 Some of what you see is also a false scratch. See [False scratches](false-scratches.md).
 
-<figure><img src="../../.gitbook/assets/image-000330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scratches-pen-tablets-1.png" alt=""><figcaption></figcaption></figure>
 
 As you can see the scratches can be very small. These kinds of scratches will not affect your drawing experience.
 
 Here is a close-up view through a microscope:
 
-<figure><img src="../../.gitbook/assets/image-000317.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scratches-pen-tablets-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000385.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scratches-pen-tablets-3.png" alt=""><figcaption></figcaption></figure>
 
 Deeper and larger scratches are also possible. This can definitely affect your drawing experience.
 
-<figure><img src="../../.gitbook/assets/image-000283.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scratches-pen-tablets-4.png" alt=""><figcaption></figcaption></figure>
 
 ## Extreme damage
 
 Dropping sharp objects onto the surface of a pen tablet can cause severe damage. The crater below was formed by accidentally dropping scissors from a height of about 6 inches above the pen tablet.
 
-<figure><img src="../../.gitbook/assets/image-000320.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scratches-pen-tablets-5.png" alt=""><figcaption></figcaption></figure>

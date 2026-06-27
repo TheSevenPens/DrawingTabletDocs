@@ -62,33 +62,33 @@ You can certainly still use the Intuos Pro 2017 but you should be aware of those
 
 From 2009 to 2025, there have been 4 editions of professional pen tablets from Wacom, and all maintained a consistent layout with ExpressKeys on the left. Therefore, the new layout of this tablet was quite surprising for many of us.
 
-<figure><img src="../../../../.gitbook/assets/image-000664.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Model numbers
 
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000665.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Design
 
 Although not everyone shares this opinion, I find it a very beautiful and professional-looking tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000666.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000667.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000669.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 One of the interesting design touches is a slight texture on the non-drawing surface of the tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000668.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## What's in the box
 
 Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
-<figure><img src="../../../../.gitbook/assets/image-000670.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-7.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Pen
 
@@ -124,13 +124,13 @@ The drawing performance is excellent and keeps the same quality as the previous 
 
 ### Moving between high and low pressure worked well
 
-<figure><img src="../../../../.gitbook/assets/image-000465.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-8.png" alt=""><figcaption></figcaption></figure>
 
 ### Diagonal wobble
 
 EVALUATION: Very good. Low amount of diagonal wobble. Similar to Intuos Pro 2017 edition.
 
-<figure><img src="../../../../.gitbook/assets/image-000172.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-9.png" alt=""><figcaption></figcaption></figure>
 
 ### Tilt compensation
 
@@ -150,13 +150,13 @@ EVALUATION: TYPICAL. When using large brushes and drawing at very light pressure
 
 Keep in mind this is a very extreme test. Normally you should not notice these issues.
 
-<figure><img src="../../../../.gitbook/assets/image-000693.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-10.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000694.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-11.png" alt="" width="563"><figcaption></figcaption></figure>
 
 These were the pressure curves and pressure smoothing amounts (in Krita) that controlled that behavior.
 
-<figure><img src="../../../../.gitbook/assets/image-000695.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-12.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Non-pen inputs
 
@@ -168,11 +168,11 @@ Unlike the previous Intuos Pro 2017 (PTH-x60) series, the Intuos Pro 2025 (PTK-x
 
 The PTK-x70 series tablets come with pairs of ExpressKey rings and dials.
 
-<figure><img src="../../../../.gitbook/assets/image-000671.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-13.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Do be aware that the number of ExpressKeys and dials depends on which tablet size in the PTK-x70 series you get.
 
-<figure><img src="../../../../.gitbook/assets/image-000672.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-14.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Accidentally pressing the ExpressKeys and dials
 
@@ -180,25 +180,25 @@ It is possible to accidentally hit the ExpressKeys and dials depending on how th
 
 **Tablet next to keyboard** - no accidental presses
 
-<figure><img src="../../../../.gitbook/assets/image-000673.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-15.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **Tablet underneath the keyboard** - no accidental presses while drawing, but accidental presses did happen when reaching for keys toward the top of the keyboard.
 
-<figure><img src="../../../../.gitbook/assets/image-000674.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-16.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000675.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-17.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 **Accidental presses were not possible in the way I draw** - I use a TourBox device. So my keyboard is not near the tablet at all. So accidental presses did not happen for me.
 
-<figure><img src="../../../../.gitbook/assets/image-000676.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-18.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 **Ultimately, I disabled all the ExpressKeys and dials** - I simply did not need them.
 
-<figure><img src="../../../../.gitbook/assets/image-000677.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-19.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 **I did accidentally hit the ExpressKeys when I meant to hit the dial and vice versa**. They are very similar in size and shape, and they are close together. Often I reached and touched the wrong one. Over time I may have been able to train my brain a bit better.
 
-<figure><img src="../../../../.gitbook/assets/image-000578.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-20.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Usage notes on dials
 
@@ -218,7 +218,7 @@ Another topic that comes up with the ExpressKeys is how the non-drawing hand is 
 
 With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without covering the active area.
 
-<figure><img src="../../../../.gitbook/assets/image-000576.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-21.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 However, with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drawing hand out of the way much more often.
 
@@ -232,17 +232,17 @@ However, with the Intuos Pro 2025, the non-drawing hand will cover some part of 
 
 * It is not obvious in pictures, but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
 
-<figure><img src="../../../../.gitbook/assets/image-000678.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-22.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Size (physical and active area)
 
 Physically, the new devices are smaller than their 2017 counterparts, but their active areas have grown in size. So, you have more room than ever for drawing despite the devices shrinking.
 
-<figure><img src="../../../../.gitbook/assets/image-000679.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-23.png" alt=""><figcaption></figcaption></figure>
 
 The 2017 models had unusual aspect ratios, while the new devices all have 16x9 aspect ratios, or something incredibly close to that. This has a nice consequence. If you use a 16x9 monitor, you have to turn on Force Proportions to draw normally with the 2017 models. But FP is not needed and has no effect on the new models with a 16x9 monitor. Because a mismatch in aspect ratios between the pen tablet's active area and the monitor causes Force Proportions to stop using some amount of active area, the new tablets give you much more active area in practice than the 2017 models.
 
-<figure><img src="../../../../.gitbook/assets/image-000680.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-24.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Device size
 
@@ -254,7 +254,7 @@ The 2017 models had unusual aspect ratios, while the new devices all have 16x9 a
 
 ## Size
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-25.png" alt=""><figcaption></figcaption></figure>
 
 As you can see, the 2025 models are clearly a little larger than their 2017 counterparts.
 
@@ -272,9 +272,9 @@ As you can see, the 2025 models are clearly a little larger than their 2017 coun
 
 Also note that the new Intuos Pro 2025 large is physically very close in size to the Intuos Pro 2017 medium. This may make the 2025 large model a bit easier to place on the desktop for those of you interested in a large pen tablet.
 
-<figure><img src="../../../../.gitbook/assets/image-000681.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-26.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000682.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-27.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Bezels
 
@@ -290,11 +290,11 @@ With the device sizes shrinking but the active area increasing, the bezels have 
 
 Numbers don't capture the difference. Here's a photo with purple tape over the right bezel of both tablets.
 
-<figure><img src="../../../../.gitbook/assets/image-000683.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-28.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Bezel size visualized: Movink 13 vs Intuos Pro 2025 medium
 
-<figure><img src="../../../../.gitbook/assets/image-000684.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-29.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Bezels vs Hand resting on the tablet
 
@@ -308,11 +308,11 @@ Bezels provide a place for your hand to rest as you draw. This is a fact I don't
 
 There is a slight bump at the edge of the tablet. In photos, it is hard to tell the difference between the Intuos Pro 2025 medium and the Intuos Pro 2017 medium.
 
-<figure><img src="../../../../.gitbook/assets/image-000685.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-30.jpg" alt=""><figcaption></figcaption></figure>
 
 But you can feel the difference. The diagram below exaggerates the feeling, but with the 2025 medium you can definitely feel the edge of the tablet more. While it is not painful and does not "dig into" the hand, I do notice it, and other users might be disturbed by it.
 
-<figure><img src="../../../../.gitbook/assets/image-000686.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-31.png" alt=""><figcaption></figcaption></figure>
 
 ## Are the bezels a problem?
 
@@ -346,11 +346,11 @@ Videos about it:
 
 The tablet is slightly thinner than the previous 2017 edition and has a slight wedge shape that is thinner at the bottom and thicker at the top.
 
-<figure><img src="../../../../.gitbook/assets/image-000687.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-32.jpg" alt=""><figcaption></figcaption></figure>
 
 The thickness and wedge shape are very similar to the Wacom Movink 13.
 
-<figure><img src="../../../../.gitbook/assets/image-000688.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-33.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Weight
 
@@ -366,7 +366,7 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 The Intuos Pro 2025 pen tablets are slightly bowed up in the middle. The diagram below demonstrates it, but **greatly exaggerates** the amount of the bowing. In reality, it seems like the bowing is about 0.15mm in the middle.
 
-<figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-34.png" alt=""><figcaption></figcaption></figure>
 
 This bowing seems widespread (I have seen it in a PTK-870 and PTK-670) and many other users have found it.
 
@@ -406,7 +406,7 @@ The tablet supports both wired and wireless connection.
 
 The port is located on the right side, close to the top.
 
-<figure><img src="../../../../.gitbook/assets/image-000689.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-35.jpg" alt=""><figcaption></figcaption></figure>
 
 * These tablets support both wired and wireless connection.
 * USB-C port location: top right
@@ -425,7 +425,7 @@ The port is located on the right side, close to the top.
 
 The included USB cable no longer has an L-shaped connector like the cable that came with the 2017 Intuos Pro.
 
-<figure><img src="../../../../.gitbook/assets/image-000690.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-36.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Wireless
 
@@ -438,19 +438,19 @@ Summary
   * I was easily able to switch between two paired devices using the switch
   * In my subjective evaluation, the wireless connection has a little bit more pointer lag than the wired connection. It may not bother many people, but if you want or need the lowest pointer lag, you should use wired connections.
 
-<figure><img src="../../../../.gitbook/assets/image-000691.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-37.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Texture sheets
 
 Wacom sells texture sheets in case you scratch up the drawing surface and want to restore it to its original pristine state. The texture sheets are available in 3 sizes (Large, Medium, Small) and only one texture (Standard).
 
-<figure><img src="../../../../.gitbook/assets/image-000692.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-38.png" alt=""><figcaption></figcaption></figure>
 
 ## Underneath the texture sheet
 
 There is a grid pattern underneath the texture sheet.
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000579.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-39.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 We think this pattern has these benefits:
 

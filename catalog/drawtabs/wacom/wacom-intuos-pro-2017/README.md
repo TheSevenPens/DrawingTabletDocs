@@ -18,6 +18,6 @@ description: PTH-x60 series
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/image-000081.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos-pro-2017-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000082.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos-pro-2017-2.jpg" alt=""><figcaption></figcaption></figure>

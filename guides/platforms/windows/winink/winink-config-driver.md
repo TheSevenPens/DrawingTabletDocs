@@ -28,11 +28,11 @@ Every driver has a different way of configuring it in their UI:
 * Or if you have a pen display, go to the **Calibrate** tab.
 * Set **Use Windows Ink** to turn on or off **Windows Ink** in the driver
 
-![](../../../../.gitbook/assets/image-000316.png)
+![](../../../../.gitbook/assets/winink-config-driver-1.png)
 
 ## Wacom Driver > Wacom Center
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000437.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/winink-config-driver-3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Huion Driver > Huion Tablet app
 
@@ -40,7 +40,7 @@ Every driver has a different way of configuring it in their UI:
 * Navigate to **Digital Pen**
 * Under **Press Key**, use **Enable Windows Ink** to turn Windows Ink on or off in the driver
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000328.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/winink-config-driver-4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## XP-Pen driver > PenTablet App
 
@@ -48,14 +48,14 @@ Every driver has a different way of configuring it in their UI:
 * Navigate to **Digital settings**
 * Use **Windows Ink** to turn Windows Ink on or off in the driver
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000265.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/winink-config-driver-5.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Xencelabs Driver
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000436.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/winink-config-driver-6.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## OpenTabletDriver
 
 NOTE: To see the Windows Ink option, you have to install the OTD Windows Ink plug-in first.
 
-![](../../../../.gitbook/assets/image-000291.png)
+![](../../../../.gitbook/assets/winink-config-driver-2.png)

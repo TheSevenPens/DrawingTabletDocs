@@ -12,13 +12,13 @@ There are many smaller keyboards available. Here are just a few examples.
 
 This small keyboard hasn't been in stock for a while. [https://estore.wacom.com/en-US/wireless-keyboard-us-english-wkt400.html](https://estore.wacom.com/en-US/wireless-keyboard-us-english-wkt400.html)
 
-![](../../.gitbook/assets/image-000742.jpg)
+![](../../.gitbook/assets/keyboards-1.jpg)
 
 ## Nuphy Air 60
 
 ([https://nuphy.com/collections/keyboards/products/air60](https://nuphy.com/collections/keyboards/products/air60))
 
-![](../../.gitbook/assets/image-000160.jpg)
+![](../../.gitbook/assets/keyboards-2.jpg)
 
 ## CinTweak keyboard holder
 
@@ -26,7 +26,7 @@ This small keyboard hasn't been in stock for a while. [https://estore.wacom.com/
 
 This device is intended to keep your keyboard easily accessible when using a large drawing tablet.
 
-![](../../.gitbook/assets/image-000594.jpg)
+![](../../.gitbook/assets/keyboards-3.jpg)
 
 **Videos**
 

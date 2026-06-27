@@ -8,11 +8,11 @@ This will manifest as vertical or horizontal bands that the pen seems to ignore.
 
 Missing horizontal bands will look like this:
 
-<img src="../.gitbook/assets/image-000146.png" alt="" width="563">
+<img src="../.gitbook/assets/tsg-skipping-bands-1.png" alt="" width="563">
 
 Missing vertical bands will look like this:
 
-<img src="../.gitbook/assets/image-000148.png" alt="" width="563">
+<img src="../.gitbook/assets/tsg-skipping-bands-2.png" alt="" width="563">
 
 ## Causes
 

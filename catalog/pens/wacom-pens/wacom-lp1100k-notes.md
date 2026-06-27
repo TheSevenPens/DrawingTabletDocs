@@ -2,7 +2,7 @@
 
 The Wacom LP-1100K pen is a very good Wacom consumer pen.
 
-<figure><img src="../../../.gitbook/assets/image-000551.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-lp1100k-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 It comes with and is ONLY compatible with these tablets released in 2018.
 
@@ -14,7 +14,7 @@ Tablet expert Kuuube has measured the IAF of the LP-1100K as <= 1 gf.
 
 ## Pressure response and maximum pressure
 
-<figure><img src="../../../.gitbook/assets/image-000477.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-lp1100k-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 In my measurements, the maximum pressure of these pens varies from 400 to 600 gf. Although that is a wide range, the minimum value is about 400 gf, which is still very good.
 

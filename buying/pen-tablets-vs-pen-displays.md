@@ -8,7 +8,7 @@ There are three kinds of drawing tablets. This document is about how to choose b
 * **pen displays** - have a screen
 * **standalone tablets** - have a screen and can be used without being connected to a computer
 
-<figure><img src="../.gitbook/assets/image-000292.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pen-tablets-vs-pen-displays-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Approach
 

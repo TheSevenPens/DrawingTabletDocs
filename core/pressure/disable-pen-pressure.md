@@ -25,7 +25,7 @@ XP-Pen drivers have this feature.
 * Click on the gear icon
 * Then check the **Disable pressure** checkbox.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000389.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/disable-pen-pressure-2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Huion
 
@@ -42,6 +42,6 @@ Drawing apps that use brushes may let you control how pressure affects the brush
 
 In some applications you can completely flatten the pressure curve. This means the pressure is constant and will not result in the brush changing due to pressure.
 
-![](../../.gitbook/assets/image-000398.png)
+![](../../.gitbook/assets/disable-pen-pressure-1.png)
 
 This will still let you draw, but the pressure does not change.

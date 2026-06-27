@@ -19,11 +19,11 @@ All of the examples below were created with the Wacom Intuos Pro 2017 M (PTH-660
 * Application: Krita
 * Brush: Ink3 Gpen, null pressure curve, 500px brush
 
-<figure><img src="../../.gitbook/assets/image-000455.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/drawing-low-pressure-1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000456.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/drawing-low-pressure-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000457.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/drawing-low-pressure-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Causes
 

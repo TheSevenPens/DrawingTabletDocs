@@ -33,7 +33,7 @@ You can do this verification easily:
 
 ## Summary of requirements
 
-<figure><img src="../../../.gitbook/assets/image-000621.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Video signal with DP alt mode support
 

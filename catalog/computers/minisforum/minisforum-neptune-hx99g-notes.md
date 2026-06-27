@@ -8,9 +8,9 @@ As my primary desktop for "work" and for creating videos and art, I use a Minisf
 
 These photos are from Minisforum. This is exactly how mine looks with one exception. Instead of 2 DisplayPort ports on the back, mine has two USB4 ports.
 
-<figure><img src="../../../.gitbook/assets/image-000229.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/minisforum-neptune-hx99g-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000228.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/minisforum-neptune-hx99g-notes-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Specs
 

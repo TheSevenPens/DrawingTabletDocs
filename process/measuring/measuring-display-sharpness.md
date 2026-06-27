@@ -10,7 +10,7 @@ It's a small PNG file with black and white pixels.
 
 There are 8 samples.
 
-<figure><img src="../../.gitbook/assets/image-000150.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/measuring-display-sharpness-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Process
 

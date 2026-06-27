@@ -12,7 +12,7 @@ This pen comes with the One by Wacom (CTL-x72) series of tablets. [One by Wacom 
 * Two buttons
 * No eraser
 
-<figure><img src="../../../.gitbook/assets/image-000710.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-lp190k-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Initial Activation Force
 
@@ -29,7 +29,7 @@ All three are very consistent in their pressure response.
 
 **Ignore IAF** in chart below - my testing was not designed for accurate IAF measurements.
 
-<figure><img src="../../../.gitbook/assets/image-000244.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-lp190k-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 ## **Feeling**
 

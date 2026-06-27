@@ -95,7 +95,7 @@ This requires 3 cables:
 * USB-C to USB-A
 * Power
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs2203-notes-1.png" alt=""><figcaption></figcaption></figure>
 
 ### USB-C connection option
 
@@ -104,7 +104,7 @@ This requires 2 cables:
 * Power
 * Full-featured USB-C — your computer needs a USB-C port that meets all the requirements.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs2203-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 ### Misc
 

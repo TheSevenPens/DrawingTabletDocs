@@ -20,10 +20,10 @@ description: PTH-x51 series
 
 ## Sizes
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-intuos-pro-2013-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000102.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-intuos-pro-2013-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000103.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-intuos-pro-2013-3.jpg" alt=""><figcaption></figcaption></figure>

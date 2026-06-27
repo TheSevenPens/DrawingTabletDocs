@@ -8,11 +8,11 @@ As of July 2025, the Huion PW600 series is the best non-Wacom pen I've seen. It 
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image-000521.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw600-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000522.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw600-notes-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000523.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw600-notes-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Models**
 
@@ -44,7 +44,7 @@ Huion states 500 gf. I saw a little variance, but not much. Overall, the PW600 p
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image-000478.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw600-notes-4.png" alt=""><figcaption></figcaption></figure>
 
 ## PW600 series compatibility with older tablets
 

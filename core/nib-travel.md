@@ -10,7 +10,7 @@ When you press down on the nib they travels (or retracts) a little bit into the 
 
 Some people may refer this as the "nib retraction distance"
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nib-travel-1.png" alt=""><figcaption></figcaption></figure>
 
 How much the nib travels depends on the specific pen involved.
 
@@ -22,10 +22,10 @@ A typical nib travel distance for Wacom's pens is about 1mm.
 
 The nib has a little extra space in the pen to move laterally (side-to-side) movement.
 
-<figure><img src="../.gitbook/assets/WIN_20260524_08_44_39_Pro.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nib-travel-2.jpg" alt=""><figcaption></figcaption></figure>
 
 As you are drawing with a normal tilt, you will push the nib a little to one side depending on how you are pressing down. If you aren't drawing you can use your finger to just play with the nib a little to see this movement.Typically the lateral travel a the tip is about 1 mm.
 
 This is a normal aspect of EMR pens and all pens with nibs have a little lateral movement.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nib-travel-3.png" alt=""><figcaption></figcaption></figure>

@@ -18,15 +18,15 @@ Here are several examples of how the driver indicates the tablet is not connecte
 
 {% tabs %}
 {% tab title="Huion" %}
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-tablet-driver-does-not-detect-tablet-1.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Wacom center" %}
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-tablet-driver-does-not-detect-tablet-2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="XP-Pen" %}
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-tablet-driver-does-not-detect-tablet-3.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

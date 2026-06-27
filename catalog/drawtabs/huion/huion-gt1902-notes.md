@@ -160,7 +160,7 @@ These pens are very good in terms of pressure. Much more here: [Huion PW600 seri
 
 GOOD. LOW amounts of wobble in stroke.
 
-<figure><img src="../../../.gitbook/assets/image-000221.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt1902-notes-1.png" alt=""><figcaption></figcaption></figure>
 
 ## **Display experience**
 
@@ -187,7 +187,7 @@ How the AG sparkle of this tablet compares to other tablets
 
 OK. the anti-glare treatment diffuses the light coming from the display. The result is that the pixels on the display are "soft" and not as crisp as on comparable 16" or 22" displays. Several other people with this tablet have commented on the same thing. For me this is not a problem. In comparison, even the Wacom Cintiq Pro 16 (DTK-167) and Cintiq Pro 22 have a slightly soft experience, this Huion has a little more softness than that.
 
-<figure><img src="../../../.gitbook/assets/image-000203.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt1902-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Brightness**
 

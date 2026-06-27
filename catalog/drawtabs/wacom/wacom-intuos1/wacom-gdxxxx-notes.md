@@ -13,9 +13,9 @@ At this time, the name “Intuos” indicated that a tablet was part of Wacom's 
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/image-000092.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-gdxxxx-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000091.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-gdxxxx-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Included pen
 

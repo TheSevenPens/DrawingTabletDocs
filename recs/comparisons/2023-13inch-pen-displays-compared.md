@@ -28,7 +28,7 @@ These are very, very similar tablets. There is NO CLEAR winner - each has positi
 
 #### Testing Setup
 
-![](../../.gitbook/assets/image-000225.jpg)
+![](../../.gitbook/assets/2023-13inch-pen-displays-compared-1.jpg)
 
 * **Driver versions used**
   * Huion: 15.6.2.80
@@ -72,7 +72,7 @@ Huion Kamvas 13 (GS1331) wobble:
 
 Compare it to the most expensive pen tablet wacom makes the Wacom Intuos Pro Large (PTH-860):
 
-![](../../.gitbook/assets/image-000719.png)
+![](../../.gitbook/assets/2023-13inch-pen-displays-compared-2.png)
 
 Both the Huion and XP pen are on par with
 
@@ -131,7 +131,7 @@ Thanks to their laminated displays both have very good parallax. They match that
 
 Below is a parallax photo for several pen tablet models. The XP-Pen parallax similar to the picture of the Wacom One and Huion model in the photo.
 
-![](../../.gitbook/assets/image-000286.png)
+![](../../.gitbook/assets/2023-13inch-pen-displays-compared-3.png)
 
 ## Connecting with a 3 in 1 cable
 

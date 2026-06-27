@@ -14,7 +14,7 @@ I've given convenient labels ("small", "medium", "large") to drawing tablets to 
 
 See: [Standard drawing tablet sizes](../ref/standard-drawtab-sizes.md)
 
-<figure><img src="../.gitbook/assets/image-000416.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/choosing-size-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Manufacturer size categories
 

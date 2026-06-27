@@ -49,9 +49,9 @@ Besides the CP-923, these tablets are compatible with the older CP-913, which yo
 
 The stroke quality with the new CP-923 pen is not good compared to the older CP-913 pen. You may need to employ the use of pressure curves to get the strokes that you want.
 
-<figure><img src="../../../../.gitbook/assets/image-000231.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000293.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-4.png" alt=""><figcaption></figcaption></figure>
 
 ## Diagonal wobble
 
@@ -59,11 +59,11 @@ Very good. Almost no wobble visible at all speeds.
 
 ### Wacom One 12 (DTC-121)
 
-![](../../../../.gitbook/assets/image-000723.png)
+![](../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-1.png)
 
 ### Wacom One 13 touch (DTH-134)
 
-### ![](../../../../.gitbook/assets/image-000724.png)
+### ![](../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-2.png)
 
 ## Tilt
 
@@ -92,7 +92,7 @@ None
 
 ## Pen display > OSD
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image-000596.jpg" alt="" width="358"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-5.jpg" alt="" width="358"><figcaption></figcaption></figure></div>
 
 Picture above from this video: ([https://youtu.be/-vwMZf1nbVU](https://youtu.be/-vwMZf1nbVU))
 
@@ -114,7 +114,7 @@ The old Wacom One (DTC-133) pen display has legs on the back. You can lay the di
 
 Wacom is offering a very unique design for their stand.
 
-<figure><img src="../../../../.gitbook/assets/image-000597.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### VESA mounting
 

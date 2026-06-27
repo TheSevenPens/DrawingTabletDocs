@@ -6,7 +6,7 @@ The Sketchboard Pro for iPad provides a stand that integrates the iPad into the 
 
 Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000304.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/ipad-stands-1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Some notes**
 
@@ -34,7 +34,7 @@ Site: [https://sketchboardpro.com/](https://sketchboardpro.com/)
 
 ## Sketchslate for iPad
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000506.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/ipad-stands-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * Product page: [https://www.thesketchslate.com/](https://www.thesketchslate.com/)
 * [Adam Duff - ULTIMATE iPad Pro Stand Buyer's Guide for Artists](https://youtu.be/I4M1HzcAjEM)

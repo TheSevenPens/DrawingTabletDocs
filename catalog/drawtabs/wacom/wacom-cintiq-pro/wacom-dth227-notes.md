@@ -95,7 +95,7 @@ Rating: GOOD. Exhibits a slight wobble in diagonal lines.
 
 Slightly better than Cintiq Pro 27.
 
-<figure><img src="../../../../.gitbook/assets/image-000171.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth227-notes-1.png" alt=""><figcaption></figcaption></figure>
 
 ### Pressure handling
 
@@ -120,7 +120,7 @@ Unlike many other 16" pen displays, a single USB-C cable is not enough to power 
 
 Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable to connect it to the USB4 port on my mini-PC. The diagram below shows how it is connected.
 
-<figure><img src="../../../../.gitbook/assets/image-000495.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth227-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Non-pen inputs
 

@@ -37,7 +37,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Aspect Ratio** - 16:10. It is a little more squarish than the much more common 16:9 aspect ratio. After using it for a few days, I actually like the 16:10 aspect ratio. To me it makes the tablet feel a little larger than it is.
 
-<figure><img src="../../../.gitbook/assets/image-000310.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-md160qh-notes-1.png" alt=""><figcaption></figcaption></figure>
 
 **MacOS** - Some people tell me MacOS has more challenges running at resolutions like the one this tablet uses. I'm not a MacOS expert so I suggest you research this more.
 
@@ -82,7 +82,7 @@ Diagonal wobble is not uncommon in pen displays - but usually when it is seen it
 
 Overall - totally acceptable and addding a little brush smoothing eliminates it..
 
-<figure><img src="../../../.gitbook/assets/image-000748.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-md160qh-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Legs
 
@@ -134,7 +134,7 @@ Tilting the pen within the supported tilt range did not significantly alter the 
 
 In one of the photos you may notice a slight separation between pointer and tip, I think this is mostly due to the position calibration of the pen and not so much the tilt.
 
-<figure><img src="../../../.gitbook/assets/image-000749.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-md160qh-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
 I have heard a few comments on my YouTube channel indicating that some people found very bad tilt compensation. So far I believe if there is an issue it is only with a small number of defective units.
 

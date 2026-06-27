@@ -12,7 +12,7 @@ The Huion PEN80 is a VERY OLD Huion pen. It uses an active EMR design, meaning i
 
 I mentioned the Huion PEN80 in my 2022 EMR video as an example of one older method in which pressure information is transmitted from the pen to the tablet.
 
-<figure><img src="../../.gitbook/assets/image-000373.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pen-teardown-huion-pen80-1.png" alt=""><figcaption></figcaption></figure>
 
 * The nib fits into the hollow ferrite rod.
 * There is enough pressure in the ferrite rod that the nib does not fall out.

@@ -34,20 +34,20 @@ As always, as I learn more and get feedback I update the tier lists shown on thi
 
 ## Tier definitions
 
-<figure><img src="../../.gitbook/assets/image-000493.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-drawtab-tier-list-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Pen tablets
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000132.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025-drawtab-tier-list-2.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pen displays
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000131.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025-drawtab-tier-list-3.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Standalone
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000133.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025-drawtab-tier-list-4.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Pens
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image-000343.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/2025-drawtab-tier-list-5.png" alt=""><figcaption></figcaption></figure></div>

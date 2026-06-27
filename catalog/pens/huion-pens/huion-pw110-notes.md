@@ -16,15 +16,15 @@ Huion lists the compatible tablets as:
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image-000524.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw110-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000537.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw110-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000539.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw110-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000538.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw110-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Compatibility
 
@@ -47,4 +47,4 @@ I only have two units, and based on my testing:
 
 These numbers are typical of PenTech 3.0 pens such as the PW517.
 
-<figure><img src="../../../.gitbook/assets/image-000243.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw110-notes-5.png" alt=""><figcaption></figcaption></figure>

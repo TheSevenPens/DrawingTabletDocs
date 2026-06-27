@@ -4,4 +4,4 @@ Some of my videos have circuit simulations. To create those simulations, I use [
 
 Below is a screenshot of one of these simulations.
 
-<figure><img src="../.gitbook/assets/image-000485.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/circuit-simulations-1.png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 ## UI
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000490.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/windows-pen-and-touch-control-panel-1.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Opening from the command line
 

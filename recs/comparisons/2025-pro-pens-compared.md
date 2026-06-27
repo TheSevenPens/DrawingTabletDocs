@@ -56,7 +56,7 @@ Summary: All of these are good pens. I have used each extensively and am happy w
 
 ## Pressure response charts
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-pro-pens-compared-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Tilt
 

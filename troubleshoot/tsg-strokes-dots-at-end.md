@@ -6,7 +6,7 @@ First try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md
 
 ### Examples
 
-![](../.gitbook/assets/image-000183.png)
+![](../.gitbook/assets/tsg-strokes-dots-at-end-1.png)
 
 So far, I have rarely encountered this, so I don't know the specific cause.
 

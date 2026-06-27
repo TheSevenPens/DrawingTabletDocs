@@ -44,14 +44,14 @@ A better choice in 2025 would be these tablets: [Pen tablet recommendations (MED
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000114.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-deco01v3-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000115.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-deco01v3-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000116.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-deco01v3-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000119.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-deco01v3-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000117.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-deco01v3-notes-5.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000118.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-deco01v3-notes-6.jpg" alt=""><figcaption></figcaption></figure>

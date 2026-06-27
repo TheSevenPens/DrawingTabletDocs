@@ -28,15 +28,15 @@ All the examples below are from the Wacom One M (CTC-6110WL) pen tablet that was
 
 Here are 7 strokes drawn in Krita on the CTC-6110WL.
 
-<figure><img src="../../.gitbook/assets/image-000475.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-1.png" alt=""><figcaption></figcaption></figure>
 
 Even now, you may detect some regular pattern in the width of the strokes.
 
 Looking carefully, you'll see that the strokes appear pinched in regular horizontal bands.
 
-<figure><img src="../../.gitbook/assets/image-000241.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000299.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Pressure to stroke opacity
 
@@ -44,23 +44,23 @@ The effect is more clearly shown when pressure controls opacity and you apply a 
 
 You might be able to make out some banding in the original image.
 
-<figure><img src="../../.gitbook/assets/image-000341.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-4.png" alt=""><figcaption></figcaption></figure>
 
 Performing some contrast enhancement makes it much more obvious.
 
 <figure><img src="../../.gitbook/assets/image-000257.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000419.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-5.png" alt=""><figcaption></figcaption></figure>
 
 ## What normal strokes should look like
 
 These examples were created with a Wacom Intuos Pro Medium (2017) tablet.
 
-<figure><img src="../../.gitbook/assets/image-000499.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000505.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-000511.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-8.png" alt=""><figcaption></figcaption></figure>
 
 ## Testing
 

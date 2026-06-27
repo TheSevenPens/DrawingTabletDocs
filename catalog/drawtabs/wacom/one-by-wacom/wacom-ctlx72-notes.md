@@ -49,9 +49,9 @@ Aspect ratio:
 
 ## **Photos**
 
-<figure><img src="../../../../.gitbook/assets/image-000062.jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-1.jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000063.jpg" alt=""><figcaption><p>CTL-672 back</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-2.jpg" alt=""><figcaption><p>CTL-672 back</p></figcaption></figure>
 
 ## **Specs**
 
@@ -87,11 +87,11 @@ The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen.
 * **Ports** - the port on the tablet is Micro USB. Micro USB is not reversible, unlike USB-C, so make sure you are connecting a cable in the right orientation.
 * **Wireless** - These tablets **DO NOT SUPPORT WIRELESS CONNECTIVITY**. You must always use it with a cable.
 
-<figure><img src="../../../../.gitbook/assets/image-000065.jpg" alt=""><figcaption><p>Micro USB port on the left side of the tablet</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-3.jpg" alt=""><figcaption><p>Micro USB port on the left side of the tablet</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000066.jpg" alt=""><figcaption><p>Tablet connected with a 3rd party cable and a Micro USB adapter</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-4.jpg" alt=""><figcaption><p>Tablet connected with a 3rd party cable and a Micro USB adapter</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000067.jpg" alt=""><figcaption><p>Tablet connected with the cable that came with the tablet</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-5.jpg" alt=""><figcaption><p>Tablet connected with the cable that came with the tablet</p></figcaption></figure>
 
 ## ExpressKeys
 
@@ -105,7 +105,7 @@ These tablets DO NOT support touch.
 
 A small cloth loop on the right side of the tablet can be used to hold the pen.
 
-<figure><img src="../../../../.gitbook/assets/image-000064.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-6.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Surface texture
 
@@ -119,6 +119,6 @@ The CTL-x72 series tablets are **highly recommended for playing osu!** More here
 
 ## **Box photos**
 
-<figure><img src="../../../../.gitbook/assets/image-000134.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-7.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000135.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-8.jpg" alt=""><figcaption></figcaption></figure>

@@ -53,4 +53,4 @@
   * [https://en.wikipedia.org/wiki/Pantelegraph](https://en.wikipedia.org/wiki/Pantelegraph)
   * [https://en.wikipedia.org/wiki/Telautograph](https://en.wikipedia.org/wiki/Telautograph)
 
-<figure><img src="../../.gitbook/assets/image-000432.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/appendix-references-1.png" alt="" width="375"><figcaption></figcaption></figure>

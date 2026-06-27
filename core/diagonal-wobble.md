@@ -14,7 +14,7 @@ I covered wobble extensively in this video about pen display accuracy: [https://
 
 If you slowly draw a line on a tablet with a ruler, the wobble will be apparent on diagonal lines. The diagram below exaggerates the wobble.
 
-<figure><img src="../.gitbook/assets/image-000163.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/diagonal-wobble-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Characteristics
 

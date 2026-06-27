@@ -125,7 +125,7 @@ See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-n
 
 Rating: OK
 
-<figure><img src="../../../../.gitbook/assets/image-000712.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth271-notes-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Compare to some other diagonal samples linked from here: [Diagonal wobble](../../../../core/diagonal-wobble.md)
 
@@ -275,7 +275,7 @@ My usage: I left it at **Native**.
 * You CAN angle it so that the surface is **perpendicular to the floor**.
   * However, then essentially the bottom edge is directly touching your desk. So it isn't very useful in that position if you just want to use it as a monitor with this stand.
 * You can angle it so that the surface is facing completely upwards and **parallel to the floor**.
-  * ![](../../../../.gitbook/assets/image-000365.png)
+  * ![](../../../../.gitbook/assets/wacom-dth271-notes-1.png)
 
 ### Height adjustability
 
@@ -291,7 +291,7 @@ My usage: I left it at **Native**.
 * It is still unclear to me why the Cintiq Pro 27 needs fans when many other devices do not. For example, the Huion Pro 24 4K is silent and only slightly warm to the touch. There are many other examples.
 *   The fans are located on the top edge of the display
 
-    <figure><img src="../../../../.gitbook/assets/image-000581.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/wacom-dth271-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Fan noise
 
@@ -353,7 +353,7 @@ See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-n
 
 There are three buttons on the tablet (top right if you are facing the tablet)
 
-<figure><img src="../../../../.gitbook/assets/image-000582.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dth271-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 These buttons are the
 

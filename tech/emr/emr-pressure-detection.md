@@ -25,6 +25,6 @@ A specific method to detect pressure is shown. This method involves moving the f
 
 Modern designs use a separate pressure sensor which is more reliable for detecting pressure.
 
-<figure><img src="../../.gitbook/assets/image-000260.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/emr-pressure-detection-1.png" alt=""><figcaption></figcaption></figure>
 
 The OLD EMR pen design can be seen in [Pen teardowns](../../guides/pens/pen-teardown-huion-pen80.md).

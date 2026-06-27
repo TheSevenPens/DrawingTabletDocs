@@ -10,13 +10,13 @@ The screen cycles between a small set of colors. Usually the colors shown are RE
 
 You may also see a box with various bits of technical information, such as Serial Number, Size, Resolution, and Checksums.
 
-<figure><img src="../.gitbook/assets/image-000111.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-pen-display-flashing-colors-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-000112.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-pen-display-flashing-colors-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-000113.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-pen-display-flashing-colors-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-000547.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-pen-display-flashing-colors-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Notes
 

@@ -16,7 +16,7 @@ Here's a typical VESA-attached stand. This one came pre-attached to the XP-Pen A
 
 VESA is a standard to mount displays to various things using screws. More here: [VESA](../../../tech/vesa.md)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000004.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/stands-1.jpg" alt="" width="375"><figcaption><p>XP-Pen Artist 22 Plus with stand</p></figcaption></figure></div>
 
 These stands attach to the back of the tablet via screws. Because they are VESA compatible, they work with any drawing tablet that is VESA-mountable.
 
@@ -51,7 +51,7 @@ Here are the key features:
 
 These stands are simple and inexpensive, but beware that since the tablet is not secured to the stand, it can be easy to knock the tablet off the stand.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000503.png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/stands-2.png" alt="" width="375"><figcaption><p>Parblo PR 100 Drawing Tablet Stand</p></figcaption></figure></div>
 
 ### Options
 

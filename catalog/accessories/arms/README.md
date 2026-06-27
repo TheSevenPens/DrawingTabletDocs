@@ -71,7 +71,7 @@ See this video
 For smaller pen displays that are about the size of a laptop, you can try an arm designed to hold a laptop.
 
 Here is an example: [https://twitter.com/eyekoodraws/status/1596064399109726209](https://twitter.com/eyekoodraws/status/1596064399109726209)\
-![](../../../.gitbook/assets/image-000199.jpg)
+![](../../../.gitbook/assets/arms-1.jpg)
 
 If your pen display is larger, there are some larger brackets available as well.
 

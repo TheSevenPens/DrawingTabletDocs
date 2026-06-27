@@ -16,13 +16,13 @@ It is compatible with the same tablets that support the PW517 pen.
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image-000527.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw550-notes-4.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000520.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw550-notes-5.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000031.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw550-notes-6.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 
@@ -34,15 +34,15 @@ IAF - 7 to 10gf
 
 Max pressure - between 300gf and 800gf, with occasional units around the mid-250s.
 
-<figure><img src="../../../.gitbook/assets/image-000420.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw550-notes-7.png" alt=""><figcaption></figcaption></figure>
 
 ## Photos
 
-![](../../../.gitbook/assets/image-000032.jpg)
+![](../../../.gitbook/assets/huion-pw550-notes-1.jpg)
 
-![](../../../.gitbook/assets/image-000033.jpg)
+![](../../../.gitbook/assets/huion-pw550-notes-2.jpg)
 
-![](../../../.gitbook/assets/image-000034.jpg)
+![](../../../.gitbook/assets/huion-pw550-notes-3.jpg)
 
 ## PW550 versus PW517
 

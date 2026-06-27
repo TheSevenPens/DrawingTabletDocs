@@ -67,17 +67,17 @@ Having some sparkle at 16" seems is normal for pen displays. However this amount
 
 AG Sparkle for Xencelabs Pen Display 16
 
-<figure><img src="../../../.gitbook/assets/image-000747.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xencelabs-lph1612ua-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 AG Sparkle for Wacom Cintiq Pro 16 (DTH-167)
 
-<figure><img src="../../../.gitbook/assets/image-000711.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xencelabs-lph1612ua-notes-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Diagonal wobble
 
 The tablet exhibits moderate diagonal wobble at all speeds.
 
-<figure><img src="../../../.gitbook/assets/image-000180.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xencelabs-lph1612ua-notes-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Stand
 

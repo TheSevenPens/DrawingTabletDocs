@@ -6,7 +6,7 @@ When drawing at low pressure, you can experience pressure instability, and this 
 
 ## Examples
 
-<figure><img src="../.gitbook/assets/image-000458.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-strokes-quality-at-low-pressure-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Techniques to address the problems
 
@@ -20,7 +20,7 @@ Drawing tablet pens are more sensitive to pressure when they are held more verti
 
 Many pens that exhibit severe pressure stability problems when held vertically will not show those problems if you're holding them at a more normal angle as you draw.
 
-<div align="left"><figure><img src="../.gitbook/assets/image-000235.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/tsg-strokes-quality-at-low-pressure-2.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Point the nib away from the direction the pen is moving
 
@@ -30,7 +30,7 @@ If you point the nib TOWARD the direction the pen is moving, that means the pen 
 
 Instead, try pointing the nib AWAY from the direction of travel. In general, I found that this produces fewer weird pressure artifacts.
 
-<div align="left"><figure><img src="../.gitbook/assets/image-000296.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/tsg-strokes-quality-at-low-pressure-3.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Use a Pressure curve
 
@@ -40,7 +40,7 @@ The first is to decrease sensitivity at the lower end of physical pressure. This
 
 Another technique is simply to ignore the lower end of physical pressure near the initial activation force. This essentially increases the IAF of the pen.
 
-<div align="left"><figure><img src="../.gitbook/assets/image-000295.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/tsg-strokes-quality-at-low-pressure-4.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Use pressure smoothing
 

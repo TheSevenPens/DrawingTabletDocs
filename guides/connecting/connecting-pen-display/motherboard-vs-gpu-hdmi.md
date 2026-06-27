@@ -16,7 +16,7 @@ There are two general locations on the back of a computer.
 * The motherboard I/O panel
 * The GPU (aka the graphics card)
 
-<figure><img src="../../../.gitbook/assets/image-000660.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/motherboard-vs-gpu-hdmi-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Motherboard HDMI vs GPU HDMI
 

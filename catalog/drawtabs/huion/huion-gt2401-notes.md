@@ -71,7 +71,7 @@ Rating: GOOD (LOW AMOUNT OF WOBBLE)
 
 Wobble is minor and only noticeable in very slow strokes.
 
-![](../../../.gitbook/assets/image-000222.png)
+![](../../../.gitbook/assets/huion-gt2401-notes-1.png)
 
 ## Connections and cabling
 
@@ -84,7 +84,7 @@ Wobble is minor and only noticeable in very slow strokes.
 * 2x USB-A ports on right side
 * Headphone jack on right side
 
-<figure><img src="../../../.gitbook/assets/image-000383.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt2401-notes-2.png" alt=""><figcaption></figcaption></figure>
 
 ## How I connect it
 

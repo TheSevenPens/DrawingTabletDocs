@@ -8,7 +8,7 @@ Somewhere between 100 and 300 times a second, your tablet sends a "package" of d
 
 You can see this often in the specifications for a tablet as "report rate". Here is an example.
 
-<figure><img src="../../.gitbook/assets/image-000470.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tablet-reports-1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 "RPS" means "Reports per second"
 

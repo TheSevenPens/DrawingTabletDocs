@@ -4,7 +4,7 @@
 
 The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous models in terms of quality and may be slightly better than the Wacom Pro Pen 2.
 
-<figure><img src="../../../.gitbook/assets/image-000726.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## General information
 
@@ -113,7 +113,7 @@ My numbers agree with Kuuube's data.
 
 ## My pen configuration
 
-<figure><img src="../../../.gitbook/assets/image-000560.jpg" alt=""><figcaption><p>Components used in my pen configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-3.jpg" alt=""><figcaption><p>Components used in my pen configuration</p></figcaption></figure>
 
 * 1 pen body with tip - the front
 * 2 pen body rear
@@ -123,7 +123,7 @@ My numbers agree with Kuuube's data.
 
 When my pen is fully assembled it looks like this:
 
-<figure><img src="../../../.gitbook/assets/image-000559.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3 button strip
 
@@ -187,9 +187,9 @@ Examples
 
 * [https://www.reddit.com/r/wacom/comments/1p3p2ba/round\_2](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2)
 
-<figure><img src="../../../.gitbook/assets/image-000570.jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-5.jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000698.jpg" alt=""><figcaption><p>The physical implementation of the button strip is different depending on where the model was manufactured.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-6.jpg" alt=""><figcaption><p>The physical implementation of the button strip is different depending on where the model was manufactured.</p></figcaption></figure>
 
 ### Tip breaking
 
@@ -203,18 +203,18 @@ Currently, the Pro Pen 3 can only be used with the Cintiq Pro 27.
 
 * After their pre-launch demo event on October 5, 2022, they published the Q\&A. This was the first time they were clear that they were working on some form of compatibility.
 
-<figure><img src="../../../.gitbook/assets/image-000439.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-7.png" alt=""><figcaption></figcaption></figure>
 
 * Twitter post: [https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA](https://twitter.com/wacom/status/1575250917687169024?s=20\&t=87CfqjwwpUs92waOpEkcvA)\
   \
-  ![](../../../.gitbook/assets/image-000376.png)
+  ![](../../../.gitbook/assets/wacom-acp500-notes-1.png)
 *   On 2024-03-09 I asked Wacom again on twitter
 
     * [https://twitter.com/TheSevenPens/status/1766540705865072733](https://twitter.com/TheSevenPens/status/1766540705865072733)
     *
 
     ```
-    <div align="left"><figure><img src="../../../.gitbook/assets/image-000449.png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../../.gitbook/assets/wacom-acp500-notes-8.png" alt="" width="375"><figcaption></figcaption></figure></div>
     ```
 * Wacom has not published that update
 * Wacom has not identified which older tablets will be updated to be compatible with the Pro Pen 3
@@ -245,4 +245,4 @@ It looks awkward, but it has some benefits:
 * The button strip's thickness prevents the pen from rotating in my hand, which also reduces the chance that I will accidentally press the buttons.
 * Prevents the pen from rolling away on the desk.
 
-<figure><img src="../../../.gitbook/assets/image-000123.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-acp500-notes-9.jpg" alt=""><figcaption></figcaption></figure>

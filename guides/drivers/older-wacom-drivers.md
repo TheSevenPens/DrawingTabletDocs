@@ -10,11 +10,11 @@ Go here: [https://www.wacom.com/en-us/support/product-support/drivers](https://w
 
 By entering the model name or number, the latest driver for the tablet is shown, and a link to older drivers is provided.
 
-<figure><img src="../../.gitbook/assets/image-000488.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/older-wacom-drivers-1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If you click on Older versions, you will find a small list of older driver versions.
 
-<figure><img src="../../.gitbook/assets/image-000489.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/older-wacom-drivers-2.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="My list of Wacom drivers" %}

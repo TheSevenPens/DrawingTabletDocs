@@ -2,6 +2,6 @@
 
 This is a higher-end adapter that I originally bought to use with my CalDigit TS4 dock. It has worked extremely well and can handle very high-resolution HDMI displays if needed.
 
-<figure><img src="../../../../.gitbook/assets/image-000191.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/caldigit-usbc-to-hdmi-2.1-adapter-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image-000190.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/caldigit-usbc-to-hdmi-2.1-adapter-2.jpg" alt="" width="375"><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ Normally your pen display will be connected to your computer, which provides a d
 
 But your pen display can receive that display signal from any device that supports one. For example, an Xbox, PlayStation, DVD player, another computer, or even some mirrorless cameras, such as the Sony FX30.
 
-<figure><img src="../.gitbook/assets/image-000339.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/diag-hdmi-from-other-sources-1.png" alt=""><figcaption></figcaption></figure>
 
 This is useful for several reasons.
 

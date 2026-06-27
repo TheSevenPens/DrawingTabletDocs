@@ -24,29 +24,29 @@ Not tested yet
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/IMG_0489 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-pro-pen-1-kp-503e-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IMG_0492 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/IMG_0493 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-pro-pen-1-kp-503e-2.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-
-
-<figure><img src="../../../.gitbook/assets/IMG_0495 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/IMG_0497 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-pro-pen-1-kp-503e-3.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 
 
-<figure><img src="../../../.gitbook/assets/IMG_0498 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-pro-pen-1-kp-503e-4.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/wacom-pro-pen-1-kp-503e-5.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+<figure><img src="../../../.gitbook/assets/wacom-pro-pen-1-kp-503e-6.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

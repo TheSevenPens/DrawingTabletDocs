@@ -92,7 +92,7 @@ Clip Studio Paint has several options
 * A setting called **Stabilization** that goes from 0 to 100. Where 100 adds the most amount of smoothing possible.
 * You can also separately use the **Adjust by speed** setting. It has two options: **Increase stabilization when drawing slowly** and **increase stabilization when drawing quickly**.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000483.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/drawing-smooth-strokes-1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Rebelle
 
@@ -117,7 +117,7 @@ The advantage to this technique is that it doesn't slow down your stroke as you 
 
 The disadvantage to this technique is that you don't exactly know the path of your stroke until a moment after you draw the stroke. Also if you draw a sharp corner, post-correction techniques can somethings not recognize the corner and instead show it as a smooth corner.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000476.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/drawing-smooth-strokes-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Use vector drawing tools
 

@@ -53,7 +53,7 @@ Here are my measurements for maximum pressure for the pens in my collection.
 
 ## Pressure response charts
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/upgrading-pw517-to-pw550-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Video
 

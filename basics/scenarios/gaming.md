@@ -4,7 +4,7 @@ My hobby around drawing tablets centers largely on creatives — people who draw
 
 ## osu!
 
-![](../../.gitbook/assets/image-000347.png)
+![](../../.gitbook/assets/gaming-1.png)
 
 **osu!** is a popular rhythm game and many of its players use drawing tablets instead of a mouse. [https://en.wikipedia.org/wiki/Osu!](https://en.wikipedia.org/wiki/Osu!)
 
@@ -16,7 +16,7 @@ osu! has about 1.7 million monthly active users.
 
 You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)
 
-<figure><img src="../../.gitbook/assets/image-000271.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gaming-2.png" alt=""><figcaption></figcaption></figure>
 
 ## How osu! players use drawing tablets
 

@@ -6,7 +6,7 @@
 
 Here is a screenshot showing that pressure deadzone in the default pressure curve the Wacom driver uses for the Wacom Pro Pen 2 (KP-504E).
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000601.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/misc-pressure-curve-notes-1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Resources
 

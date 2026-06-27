@@ -23,7 +23,7 @@ Perform some contrast enhancement on the image to help see the banding
 
 There is no banding here.
 
-<figure><img src="../../.gitbook/assets/image-000253.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/measuring-pressure-banding-1.png" alt=""><figcaption></figcaption></figure>
 
 ## A bad result - banding visible
 

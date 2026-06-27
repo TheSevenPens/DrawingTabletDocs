@@ -28,11 +28,11 @@ And there are a lot of other settings.
 
 Here is an example from Clip Studio Paint 2.0 for its Calligraphy brush.
 
-![](../../.gitbook/assets/image-000374.png)
+![](../../.gitbook/assets/brush-engine-1.png)
 
 Here is an example from Krita.
 
-![](../../.gitbook/assets/image-000307.png)
+![](../../.gitbook/assets/brush-engine-2.png)
 
 ## Pressure
 

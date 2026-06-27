@@ -10,15 +10,15 @@ When we talk about the "size" of the drawing tablet, we are referring to the act
 
 The active area is usually marked in some way on the surface. Sometimes it is marked at its four corners. Some tablets show a grid of dots.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000303.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/active-area-3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-![](../../.gitbook/assets/image-000751.jpg) ![](../../.gitbook/assets/image-000218.jpg)
+![](../../.gitbook/assets/active-area-1.jpg) ![](../../.gitbook/assets/active-area-2.jpg)
 
 ## Active area of pen displays
 
 The active area of a pen display is easy to identify because it is exactly the same area as the display panel.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000371.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/active-area-4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Size
 

@@ -4,7 +4,7 @@
 
 Sometimes you may want to see the same canvas on two displays.
 
-<figure><img src="../../.gitbook/assets/image-000598.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/canvas-on-another-display-1.jpg" alt=""><figcaption></figcaption></figure>
 
 This is useful in a couple of cases:
 

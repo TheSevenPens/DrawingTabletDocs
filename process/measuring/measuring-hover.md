@@ -6,7 +6,7 @@ To more accurately assess hover height, I use a small "staircase" that goes up i
 
 ## The hover testing tool
 
-<figure><img src="../../.gitbook/assets/image-000586.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/measuring-hover-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Testing process
 

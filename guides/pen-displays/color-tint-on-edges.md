@@ -14,15 +14,15 @@ Some pen displays exhibit a color tint (purple/lilac or yellow/orange) at the ed
 
 NOTE: The tint is greatly exaggerated in these diagrams.&#x20;
 
-<figure><img src="../../.gitbook/assets/Slide_20260602_113722.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/color-tint-on-edges-1.jpg" alt=""><figcaption></figcaption></figure>
 
 In practice, the effect is usually VERY subtle - as you can see below.
 
-<figure><img src="../../.gitbook/assets/Slide_20260602_113822.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/color-tint-on-edges-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Examples
 
-<figure><img src="../../.gitbook/assets/image-000580.jpg" alt=""><figcaption><p>Notice that the purple tint is visible even on a pure white background - it slightly darkens the white region</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/color-tint-on-edges-3.jpg" alt=""><figcaption><p>Notice that the purple tint is visible even on a pure white background - it slightly darkens the white region</p></figcaption></figure>
 
 ## When it appears
 

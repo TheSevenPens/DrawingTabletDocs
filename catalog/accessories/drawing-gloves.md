@@ -26,17 +26,17 @@ Some people wash them with regular laundry. Others hand-wash them with a mild de
 
 ### Wacom drawing glove (ACK4472501Z)
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000728.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/drawing-gloves-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Huion drawing glove
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000214.jpg" alt="" width="200"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/drawing-gloves-2.jpg" alt="" width="200"><figcaption></figcaption></figure></div>
 
 ### XP-Pen AC08 S/M/L Artist Drawing Glove
 
 This one is available in three sizes to better fit your needs.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000754.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/drawing-gloves-3.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Resources
 

@@ -12,7 +12,7 @@ Mice and drawing tablets use very different positioning strategies. Mice use **r
 
 In drawing applications, strokes drawn with a mouse usually have a rougher stair-step effect and are generally less smooth.
 
-<figure><img src="../.gitbook/assets/image-000379.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/drawtabs-vs-mice-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 There are many techniques and features that help you draw smooth strokes. Some work for both mouse and tablet, and some are specific to drawing tablets. More here: [Drawing smooth strokes](../guides/drawing/drawing-smooth-strokes.md).
 

@@ -10,4 +10,4 @@ I have this model ([https://pinion.thebase.in/items/26608192](https://pinion.the
 
 Model: "Wooden Grip for Wacom Pro Pen 2 (KP-504E) \[Thick Bodied with Button hole]"
 
-<figure><img src="../../../.gitbook/assets/image-000285.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hagurumado-grips-1.png" alt=""><figcaption></figcaption></figure>

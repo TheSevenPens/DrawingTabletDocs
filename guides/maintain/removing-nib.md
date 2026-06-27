@@ -14,7 +14,7 @@ Here's a simple nib remover.
 
 This pen case has a nib remover (the small metal ring) built in.
 
-<figure><img src="../../.gitbook/assets/image-000752.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/removing-nib-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Alternatives to nib removers
 
@@ -28,13 +28,13 @@ This pen case has a nib remover (the small metal ring) built in.
 
 If the nib is broken in half and stuck deeply inside, or if there is not enough of it to grip, normal techniques may not get it out. Here are some other options.
 
-<figure><img src="../../.gitbook/assets/image-000619.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/removing-nib-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### OPTION: Precision tweezers
 
 I used this iFixit set of precision tweezers. Specifically, I used the one in the middle. I was not able to put both ends into the pen. Instead, I put one end into the pen and pressed against the side of the nib to slowly pull it out a little at a time. Once enough was exposed, I used the tweezers normally to pull the nib out.
 
-<figure><img src="../../.gitbook/assets/image-000417.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/removing-nib-3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### OPTION: The hot glue method
 

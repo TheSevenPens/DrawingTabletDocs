@@ -4,7 +4,7 @@
 
 The Wacom Pro Pen 2 is an INCREDIBLE pen. Despite the existence of the Pro Pen 3, I think the Pro Pen 2 is better. This is the standard against which I judge all other pens.
 
-<figure><img src="../../../.gitbook/assets/image-000725.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp504e-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Cost
 

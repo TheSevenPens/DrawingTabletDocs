@@ -16,12 +16,12 @@ Huion lists these tablets as compatible:
 
 Pen compatibility as of 2026-02-06 from Huion's website.
 
-<figure><img src="../../../.gitbook/assets/image-000528.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw507-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000070.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw507-notes-2.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000072.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw507-notes-3.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000071.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw507-notes-4.jpg" alt="" width="188"><figcaption></figcaption></figure>

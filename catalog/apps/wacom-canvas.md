@@ -16,18 +16,18 @@ It does not run on and is not available on other platforms such as Windows, MacO
 
 ## Screenshots (ver 1.9.2)
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-210935.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-210942.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-211003.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-211011.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-211057.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-211110.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-6.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-211122.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260218-211136.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wacom-canvas-8.png" alt=""><figcaption></figcaption></figure>

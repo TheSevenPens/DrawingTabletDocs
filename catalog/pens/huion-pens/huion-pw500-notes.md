@@ -23,7 +23,7 @@ Huion lists these compatible tablets:
 
 Pen Compatibility as of 2026-02-06 from Huion's website
 
-<figure><img src="../../../.gitbook/assets/image-000525.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw500-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Design
 
@@ -39,4 +39,4 @@ Max pressure is OK at around \~250gf with the unit I tested.
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image-000479.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-pw500-notes-2.png" alt=""><figcaption></figcaption></figure>

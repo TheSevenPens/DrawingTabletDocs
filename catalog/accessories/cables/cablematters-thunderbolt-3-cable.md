@@ -4,7 +4,7 @@
 
 For connecting my pen displays, I often use this cable: CableMatters \[Intel Certified] 20 Gbps Thunderbolt 3 cable (6.6 ft), supporting 100 W charging. ([Amazon link](https://www.amazon.com/dp/B01AS8U9KE))
 
-<figure><img src="../../../.gitbook/assets/image-000166.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cablematters-thunderbolt-3-cable-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Testing setup
 
@@ -22,7 +22,7 @@ MacOS setup
 
 * For the CableMatters USB-C cable, the **cable ends are a little too thick** to fit into some recessed ports.
 * I had to remove some plastic from one of the ends to fit it into the tablets using a knife.
-* ![](../../../.gitbook/assets/image-000732.jpg)![](../../../.gitbook/assets/image-000733.jpg)
+* ![](../../../.gitbook/assets/cablematters-thunderbolt-3-cable-1.jpg)![](../../../.gitbook/assets/cablematters-thunderbolt-3-cable-2.jpg)
 * This plastic was tough to cut. I did not do a very clean job, but it **just barely** fits into the port. The fit is very snug, and I should probably remove a little more.
 
 ## Testing results

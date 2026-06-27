@@ -13,7 +13,7 @@ When working with pen display tablets, you'll encounter lots of different connec
 
 Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HDMI)
 
-![](../../.gitbook/assets/image-000516.jpg)
+![](../../.gitbook/assets/display-connector-types-1.jpg)
 
 ## DisplayPort connectors
 
@@ -29,7 +29,7 @@ Mini-DisplayPort connectors
 
 ## USB-C connectors
 
-![](../../.gitbook/assets/image-000708.jpg)
+![](../../.gitbook/assets/display-connector-types-2.jpg)
 
 Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
@@ -49,13 +49,13 @@ The important thing about Thunderbolt cables and ports is that they are required
 
 Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_\(interface\))
 
-![](../../.gitbook/assets/image-000705.jpg)
+![](../../.gitbook/assets/display-connector-types-3.jpg)
 
 ## Thunderbolt 2 connectors
 
 Thunderbolt 2 connectors use the mini-DisplayPort connector type. Again, by definition, they can carry a display signal.
 
-![](../../.gitbook/assets/image-000704.jpg)
+![](../../.gitbook/assets/display-connector-types-4.jpg)
 
 ## USB-A connectors
 

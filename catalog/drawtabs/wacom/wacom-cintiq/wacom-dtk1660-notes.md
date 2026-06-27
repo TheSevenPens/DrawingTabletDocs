@@ -20,4 +20,4 @@ This tablet connects to your computer via a proprietary 3-in-1 cable.
 
 This tablet does NOT support getting a video signal over a USB-C cable, unlike many modern pen displays.
 
-<figure><img src="../../../../.gitbook/assets/image-000246.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-dtk1660-notes-1.png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ The cause is unclear.
 
 It can suddenly appear with a pen that otherwise was working correctly.
 
-![](../.gitbook/assets/image-000184.png)
+![](../.gitbook/assets/tsg-dots-at-start-of-strokes-1.png)
 
 ## Potential solutions
 

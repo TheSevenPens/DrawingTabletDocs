@@ -47,8 +47,8 @@ I found the max pressure to be okay.
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/image-000120.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-p05-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000121.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-p05-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000122.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-p05-notes-3.jpg" alt=""><figcaption></figcaption></figure>

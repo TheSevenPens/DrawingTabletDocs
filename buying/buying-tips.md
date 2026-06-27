@@ -60,7 +60,7 @@ That's why I tend to recommend the brands I do — they have a large number of u
 
 Since Reddit is a popular place for drawing tablet discussions, here are some numbers that show how big these communities are.
 
-<figure><img src="../.gitbook/assets/image-000652.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buying-tips-1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Understand how the tablet will connect to your computer
 
@@ -68,15 +68,15 @@ For pen tablets, this is straightforward. All pen tablets connect with a USB cab
 
 In the user manual, you'll find diagrams like this for a pen tablet.
 
-<figure><img src="../.gitbook/assets/image-000653.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buying-tips-2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 For pen displays, wiring is much more complicated. There are more cables and ports involved, with more requirements on those cables and ports.
 
 The user manual will show diagrams like these indicating how pen displays may connect to a computer.
 
-<figure><img src="../.gitbook/assets/image-000654.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buying-tips-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-000655.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buying-tips-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 With pen displays you should also be clear about which cables come in the box. Sometimes the user manual shows how to wire up the connections but some of those cables are not actually included. It's best to confirm this before you make a purchase.
 
@@ -102,11 +102,11 @@ Many tablets are on the market right now, and many have confusingly similar name
 
 For example, Wacom has one series called "Wacom One" and another called "One by Wacom." They differ significantly in quality, type, and age. If you rely on the name alone, you're likely to buy the wrong tablet.
 
-<figure><img src="../.gitbook/assets/image-000656.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buying-tips-5.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Another example: these XP-Pen names are confusingly similar.
 
-<figure><img src="../.gitbook/assets/image-000657.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buying-tips-6.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 The way to avoid purchasing the wrong tablet is to always verify the model number.
 

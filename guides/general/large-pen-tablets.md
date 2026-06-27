@@ -6,11 +6,11 @@ A LARGE pen tablet has an active area diagonal of about 15 inches (38 cm).
 
 ## Large size versus other tablets
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/large-pen-tablets-1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/large-pen-tablets-2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/large-pen-tablets-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Video
 
@@ -61,7 +61,7 @@ I think it's important that you spend some deliberate time learning how to make 
 
 With a medium pen tablet most people put their tablet to the right or left of their keyboard. You can certainly try this with a large pen tablet. But what you'll discover is that it is extremely difficult to reach the more distant edges of the keyboard or tablet depending on how they're situated in front of you.
 
-<figure><img src="../../.gitbook/assets/Slide_20260412_024928.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/large-pen-tablets-4.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Keyboard above, tablet below: Good for drawing
 
@@ -69,13 +69,13 @@ So a large pen tablet typically means you will have to have it directly in front
 
 I sometimes pull the keyboard closer and put it on the top bezel of the tablet. This makes it slightly easier to reach the keyboard though it still is a little awkward.
 
-<figure><img src="../../.gitbook/assets/Slide_20260412_025012.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/large-pen-tablets-5.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Keyboard on top: For typing
 
 Often if I'm not really drawing I'll in fact put the keyboard on top of the tablet.
 
-<figure><img src="../../.gitbook/assets/Slide_20260412_025146.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/large-pen-tablets-6.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Effort
 

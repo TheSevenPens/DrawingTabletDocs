@@ -26,7 +26,7 @@ Overall, display panels for drawing tablets fall in the range of 200 to 400 nits
 * Many are within the range 220 to 250 nits.
 * Only a few are >= 300 nits.
 
-<figure><img src="../../.gitbook/assets/image-000433.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/brightness-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Distribution of brightness values
 

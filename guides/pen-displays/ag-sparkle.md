@@ -43,33 +43,33 @@ The pictures below show screens displaying black, white, and gray pixels.
 
 The one on the right represents a more extreme example. You can clearly see the different "color grains."
 
-<figure><img src="../../.gitbook/assets/image-000332.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ag-sparkle-4.png" alt=""><figcaption></figcaption></figure>
 
 ### Example 2
 
 It could also look like this — this is a very close-up view.
 
-<figure><img src="../../.gitbook/assets/image-000276.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ag-sparkle-5.png" alt=""><figcaption></figcaption></figure>
 
 ### Example 3
 
 I found this in a reddit post. The AG sparkle is everywhere but is most noticeable in the green area.
 
-![](../../.gitbook/assets/image-000346.png)
+![](../../.gitbook/assets/ag-sparkle-1.png)
 
 ## How manufacturers refer to the AG treatment
 
 **Huion Kamvas Pro 24 (4K) \[GT2401]**
 
-<img src="../../.gitbook/assets/image-000354.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/ag-sparkle-6.png" alt="" data-size="original">
 
 **XP-Pen Artist Pro 16TP \[MD160U]**
 
-![](../../.gitbook/assets/image-000290.png)
+![](../../.gitbook/assets/ag-sparkle-2.png)
 
 **Wacom One \[DTC133]**
 
-![](../../.gitbook/assets/image-000327.png)
+![](../../.gitbook/assets/ag-sparkle-3.png)
 
 ## Buying a tablet
 

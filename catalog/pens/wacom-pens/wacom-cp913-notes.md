@@ -30,7 +30,7 @@ I measured 4 CP-913 units. Their maximum pressures varied between 250gf and 350g
 
 ## Pressure response
 
-<figure><img src="../../../.gitbook/assets/image-000472.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-cp913-notes-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Buttons
 

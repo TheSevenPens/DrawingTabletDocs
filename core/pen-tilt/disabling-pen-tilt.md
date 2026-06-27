@@ -16,4 +16,4 @@ Some tablet drivers let you simply turn off tilt so that it is not reported to y
 
 XP-Pen drivers have this feature.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000390.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/disabling-pen-tilt-1.png" alt="" width="563"><figcaption></figcaption></figure></div>

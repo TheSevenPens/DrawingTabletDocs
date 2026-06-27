@@ -18,8 +18,8 @@ My measurements:
 
 ## Photos: X4 smart chip stylus
 
-<figure><img src="../../../.gitbook/assets/image-000534.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x4pen-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000535.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x4pen-notes-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000536.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-x4pen-notes-3.jpg" alt="" width="375"><figcaption></figcaption></figure>

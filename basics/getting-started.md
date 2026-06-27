@@ -126,7 +126,7 @@ Drawing tablet pens are often over-sensitive at low physical pressure. Near the 
 
 This over-sensitivity is common. Some people may not even notice it. But if you do, you can use pressure curves to reduce it.
 
-<figure><img src="../.gitbook/assets/image-000239.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getting-started-1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Mapping buttons, dials, and sliders
 

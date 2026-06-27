@@ -39,7 +39,7 @@ There are two versions of this tablet. They are exactly the same tablet but diff
 
 ### Comparison to other pen tablets
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-it1060b-notes-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Pens
 
@@ -66,4 +66,4 @@ See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens
 
 Rating: GOOD (LOW amount of diagonal wobble)
 
-<figure><img src="../../../.gitbook/assets/image-000750.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-it1060b-notes-2.png" alt=""><figcaption></figcaption></figure>

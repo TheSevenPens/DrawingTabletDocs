@@ -10,4 +10,4 @@ User manual: [https://github.com/TheSevenPens/WebTabletTesterBasic/blob/main/USE
 
 Just open the tester and start drawing in the blue area.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sevenpens-tablet-tester-1.png" alt=""><figcaption></figcaption></figure>

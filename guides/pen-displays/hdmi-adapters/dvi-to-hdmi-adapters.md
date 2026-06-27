@@ -13,11 +13,11 @@ If your computer has a DVI port:
 
 Here's an example of such an adapter.
 
-<figure><img src="../../../.gitbook/assets/image-000637.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dvi-to-hdmi-adapters-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## DVI port types
 
-<figure><img src="../../../.gitbook/assets/image-000440.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dvi-to-hdmi-adapters-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Videos:
 

@@ -28,13 +28,13 @@ For pen tablets, manufacturers often use descriptive names such as "small" and "
 
 By looking at Wacom's product line and naming, we can build a useful framework for how descriptive words like "small" and "large" map to numbers. Note that the size names differ between pen displays and pen tablets.
 
-<figure><img src="../../.gitbook/assets/image-000336.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/active-area-size-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Distribution of active area sizes
 
 If we look at how drawing tablet models are distributed along this scale, we can see a lot of variation.
 
-<figure><img src="../../.gitbook/assets/image-000262.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/active-area-size-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Diagonal vs Area
 
@@ -46,10 +46,10 @@ Let's compare them by plotting the values for 180 different tablets.
 
 For pen tablets:
 
-<figure><img src="../../.gitbook/assets/image-000421.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/active-area-size-3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 And for pen displays:
 
-<figure><img src="../../.gitbook/assets/image-000422.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/active-area-size-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Overall, I think using the diagonal is reasonable.

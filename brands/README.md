@@ -11,7 +11,7 @@ There are **many** tablet brands, and choosing one is one of the most important 
 
 ## Landscape
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/brands-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Tier 1: Wacom
 
