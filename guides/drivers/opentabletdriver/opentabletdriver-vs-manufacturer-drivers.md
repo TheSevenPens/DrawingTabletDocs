@@ -29,14 +29,30 @@ In comparison to manufacturer drivers:
 * OTD binaries are not signed. This means macOS and Windows will warn you when you first try to run them, and you have to take a special action to run them.
 * OTD on Windows requires the installation of a driver called VMulti (separate download and install) and a "Windows Ink plug-in" (integrated download and install in the OTD UI)
 * OTD on Windows requires your drawing app to use Windows Ink. WinTab will not work.
+* OTD uninstall is more difficult on Windows because you have to manually uninstall VMulti
+* OTD is simple to install on MacOS - but will require some additional Mac security configuration just as a manufacturer driver does
 
-## Missing features
+## Tablet mapping to displays
 
-* OTD is missing many convenience features out of the box. Some of these can be added with OTD plug-ins. But for some features, there is no equivalent OTD plugin
-* OTD has no built-in smoothing, which means the pointer will respond faster to your pen, but it may be a little more jittery
+* OTD does not support precision mode
+* OTD does not support the display toggle - there is no hotkey or pen button that can switch between displays
+
+## Pen tracking
+
+* OTD has no built-in position smoothing, which means the pointer will respond faster to your pen, but it may be a little more jittery. To smooth it out you can use a plug-in like Slimy Scylla
+
+## Pen buttons
+
+* OTD supports buttons for many tablets, but not all.
+* OTD on Windows does not yet let you configure the 2nd button to do something
+
+## Configuration
+
+* OTD does not have per-application settings.
+* OTD does have per-tablet model settings
+* OTD does not come with support for pressure curves. You have to install a plug-in like Slimy Scylla to get pressure curves. To edit the pressure curve, you don't use UI, you enter numbers.
+
+## Non-pen inputs
+
 * OTD does not yet support TOUCH on tablets
 * OTD does not yet support DIALS and ROLLERS on tablets
-* OTD does not support precision mode
-* OTD does not support the display toggle feature.
-* OTD uninstall is more difficult on Windows because you have to manually uninstall VMulti
-* OTD on Windows does not yet let you configure the 2nd button to do something
