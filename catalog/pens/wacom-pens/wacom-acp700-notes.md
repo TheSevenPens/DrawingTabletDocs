@@ -8,9 +8,23 @@ Released in May 2025, the Art Pen 2 (ACP-700) is the successor to the much-belov
 
 EXCELLENT pen. I love how it feels and how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 (KP-504E). Be aware that only a few tablets support this pen. Some that do support it require a firmware update.
 
+## Driver version
+
+Older versions of the driver do not recognize the pen.&#x20;
+
+The exact driver I used for testing was: 6.4.13-4
+
+## Tablet firmware&#x20;
+
+For some of the compatible tablets, a firmware update will be needed. See: [Wacom firmware updates](../../drawtabs/wacom/wacom-firmware-updates.md)
+
+The exact firmware installed at the time of testing is shown below:
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Links
 
-* [Teoh on Tech - Wacom Art Pen 2 (first impression)](https://www.youtube.com/watch?v=atE9QHINugE) 2026-06-14&#x20;
+* [Teoh on Tech - Wacom Art Pen 2 (first impression)](https://www.youtube.com/watch?v=atE9QHINugE) 2026-06-14
 
 ## Specs
 
@@ -124,17 +138,25 @@ Many people find that the ACP-500 feels a bit smooth and slippery in their hand.
   * Even if an app supports barrel rotation, you will normally have to specifically configure barrel rotation on a brush for it to have an effect. Different apps have different ways in which this configuration is done.
   * There are only 360 barrel rotation angles. This is normal for Wacom pens that support barrel rotation.
 
-## Pressure response
-
-<figure><img src="../../../.gitbook/assets/wacom-acp700-notes-1.png" alt=""><figcaption></figcaption></figure>
-
 ## IAF
 
-<figure><img src="../../../.gitbook/assets/wacom-acp700-notes-2.png" alt=""><figcaption></figcaption></figure>
+The IAF is about 3.3gf in my testing - matching what tablet expert Kuuube found as well.
+
+| Pen Model ID | Inventory ID | Date       | Tablet                           | Driver           | IAF (gf) | Source   | Defect |
+| ------------ | ------------ | ---------- | -------------------------------- | ---------------- | -------- | -------- | ------ |
+| ACP-700      | WAP.0075     | 2026-06-21 | Intuos Pro 2025 Medium (PTK-670) | OPENTABLETDRIVER | 3.3      | measured |        |
+| ACP-700      | WAP.0076     | 2026-06-21 | Intuos Pro 2025 Medium (PTK-670) | OPENTABLETDRIVER | 3.2      | measured |        |
+| ACP-700      | WAP.0077     | 2026-06-21 | Intuos Pro 2025 Medium (PTK-670) | OPENTABLETDRIVER | 3.3      | measured |        |
 
 ## Max Pressure
 
-<figure><img src="../../../.gitbook/assets/wacom-acp700-notes-3.png" alt=""><figcaption></figcaption></figure>
+Wirth thee units the median max pressure I found was \~570gf.
+
+| Pen Model ID | Inventory ID | Date       | Tablet                          | Driver | MAX (gf) | Source    | Defect |
+| ------------ | ------------ | ---------- | ------------------------------- | ------ | -------- | --------- | ------ |
+| ACP-700      | WAP.0075     | 2026-05-23 | Intuos Pro 2025 Large (PTK-870) | WACOM  | 554.3    | estimated |        |
+| ACP-700      | WAP.0076     | 2026-05-23 | Intuos Pro 2025 Large (PTK-870) | WACOM  | 602.8    | estimated |        |
+| ACP-700      | WAP.0077     | 2026-05-23 | Intuos Pro 2025 Large (PTK-870) | WACOM  | 572.3    | estimated |        |
 
 ## Photos
 

@@ -539,6 +539,7 @@
       * [Wacom consumer tablets](catalog/drawtabs/wacom/wacom-consumer-tablets.md "Consumer tablets")
       * [Wacom tablet release history](catalog/drawtabs/wacom/wacom-tablet-release-history.md "Tablet release history")
       * [Wacom final driver notices](catalog/drawtabs/wacom/wacom-final-driver-notices.md "Final driver notices")
+      * [Wacom firmware updates](catalog/drawtabs/wacom/wacom-firmware-updates.md)
     * [Xencelabs](catalog/drawtabs/xencelabs/README.md)
       * [Xencelabs Pen Tablet Medium (BPH1212W-A) notes](catalog/drawtabs/xencelabs/xencelabs-bph1212wa-notes.md "Pen Tablet Medium (BPH1212W-A)")
       * [Xencelabs Pen Display 16 (LPH1612U-A) notes](catalog/drawtabs/xencelabs/xencelabs-lph1612ua-notes.md "Pen Display 16 (LPH1612U-A)")
