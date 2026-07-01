@@ -157,7 +157,7 @@
     * [Calibrate pen position](guides/customizing/calibrate-pen-position.md)
     * [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
     * [Controlling the pen tip behavior](guides/customizing/controlling-pen-tip-behavior.md)
-    * [Replacing the USB port on a drawing tablet](guides/customizing/replacing-the-usb-port-on-a-drawing-tablet.md "replace-usb-port")
+    * [Replacing the USB port on a drawing tablet](guides/customizing/replace-usb-port.md "Replacing USB port")
   * [Connecting](guides/connecting/README.md)
     * [Connecting a pen to a drawing tablet](guides/connecting/connecting-pen-to-drawtab.md)
     * [Recessed USB-C ports](guides/connecting/recessed-usbc-ports.md)
