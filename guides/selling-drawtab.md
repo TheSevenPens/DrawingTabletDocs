@@ -1,5 +1,13 @@
 # Selling a drawing tablet
 
+## Overview
+
+If you are interested in selling a drawing tablet, this document has some practical advice.
+
+## Basics
+
+Yes, people will buy a used drawing tablet
+
 ## Generally, consider the perspective of the buyer
 
 These docs may help you:
