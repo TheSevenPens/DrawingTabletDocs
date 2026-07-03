@@ -31,6 +31,7 @@
   * [Inspecting a drawing tablet](buying/inspecting-drawtab.md "Inspecting")
   * [Pen tablets vs pen displays](buying/pen-tablets-vs-pen-displays.md)
   * [The case against pen computers](buying/pen-computers-bad.md "Avoid pen computers")
+  * [Pen computers vs pen-enabled laptops](buying/pen-computers-vs-pen-enabled-laptops.md)
   * [Alternatives to pen computers](buying/pen-computer-alternatives.md)
   * [How many pressure levels do you really need?](buying/how-many-pressure-levels.md)
   * [Choosing the right size for a drawing tablet](buying/choosing-size.md "Choosing the size")

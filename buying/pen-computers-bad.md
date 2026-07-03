@@ -2,11 +2,20 @@
 
 ## Overview
 
-Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially, they are laptops that work with an EMR pen and are specifically designed for drawing by tablet brands such as Wacom. Examples include the Wacom Mobile Studio Pro and Huion Kamvas Studio.
+Pen computers are standalone drawing tablets with screens that you can use without being attached to a computer. Essentially, they are laptops that work with a drawing tablet (EMR) pen and are specifically designed for drawing and built by tablet brands such as Wacom.&#x20;
+
+Examples:&#x20;
+
+* Wacom MobileStudio Pro
+* Huion Kamvas Studio
 
 Even though some people love using pen computers, <mark style="color:red;">**I do not in general recommend buying one**</mark>.
 
 This document evaluates pen computers across several dimensions, such as cost and upgradability, and explains why I do not think they are a great choice.
+
+## Compared to pen-enabled laptops&#x20;
+
+Pen computer are similar to pen-enabled laptops but I think they are deifnitely different classes of devices. More here: [Pen computers vs pen-enabled laptops](pen-computers-vs-pen-enabled-laptops.md)
 
 ## I suggest you seek alternatives
 
