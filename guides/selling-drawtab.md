@@ -2,15 +2,54 @@
 
 ## Overview
 
-If you are interested in selling a drawing tablet, this document has some practical advice.
+Absolutely, there is a market for used drawing tablets. There are plenty of people looking to buy used tablets for all sorts of reasons.
 
-## Basics
+It could be:
 
-Yes, people will buy a used drawing tablet
+* Nostalgia or they just like collecting them
+* They're looking for a bargain
+* They are a hobbyist looking spare parts
+* The tablet I love has recently been broken in some way and they want to continue using the same exact kind of tablet.
 
-## Generally, consider the perspective of the buyer
+## Pricing
 
-These docs may help you:
+There are a couple of factors that can influence it quite a bit.
+
+### Brand influence on pricing
+
+Generally speaking, the brand strongly determines how much you'll be able to sell for. To keep it simple, a Wacom drawing tablet tends to command a higher price than non-Wacom tablets.&#x20;
+
+### Used vs new
+
+In my experience, Wacom tablets tend to retain more of their original retail price.. There are many slightly used Wacom professional tablets that sell for almost the exact same price as a brand new one from other brands have never been able to command the same prices as Wacom . So you set your expectations accordingly.
+
+### Age of the Tablet
+
+Tablets or even drawing tablets in general can last a long time. I have used welcome tablets that are 30 years old with the modern computer.
+
+However, just because tablets continue to work, that doesn't mean someone will be able to successfully use them. Because over time, tablet drivers may no longer support these older models.
+
+For example, older models that require a video signal may require an older cable, and older older video port that may not be supported with modern computer
+
+In general, it's pretty easy to sell a Wacom professional tablet that hat's about 10 years old. Older Wacom professional tablets, are more difficult because of driver issues, etc..
+
+For no- Wacom tablets. They've really only become pretty good in the starting with the early 2020s. So I generally don't advise people to buy older non-com tablets at all.
+
+### Finding more exact prices
+
+If you want to find out how much you can sell them for, the easiest way to do that is to search for the model that you were going to sell on a site like eBay and see what people are charging.
+
+
+
+## Perspectives and criteria of the buyer
+
+If you want to sell a tablet, I think it's very important that you take into account:
+
+* The perspective of a buyer
+* The kinds of things they're looking for
+* The kinds of things they'll be checking for
+
+To assist you in understanding those perspectives and their criteria, look at the docks below, which should be very helpful for you.
 
 * [Buying used drawing tablets](../buying/used-drawtabs.md)
 * [Inspecting a drawing tablet](../buying/inspecting-drawtab.md)
@@ -85,4 +124,12 @@ These docs may help you:
 * DO NOT use stock photos. Potential buyers may take this as a sign of a potential scammer.
 * Include a clear, well-lit pictures of the pen. Pens don't have model numbers so photos are needed to help identify the pen for buyers.
 * Photos should include multiple shots of the drawing surface so that buyers can see how scratched up and worn the surface is.
-*
+
+## Packaging and shipping
+
+* If the tablet is a screenless tablet, then it's pretty sturdy.
+* There's nothing really inside.
+* If the tablet has a screen, then you have to treat it delicately, as if it was a TV or monitor or laptop and make sure it isn't bouncing around.
+* Make sure there's nothing that's going to press on the screen.
+
+Another very important thing to take into account is the pen for the tablet. These pens are much more delicate than the tablet itself. So you especially want to make sure that the pen is not bouncing around.
