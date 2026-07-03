@@ -39,3 +39,5 @@ As of September 2025 my setup looks like this:
 ## Videos
 
 * [SevenPens - Measuring Pen Pressure Response Curves](https://youtu.be/tioJ3CfrmtI) - 2025-09-27
+* [US Solid - How to Output the Weighing Data from U.S. Solid USS-DBS81/82/86/87 Precision Balance via RS-232?](https://www.youtube.com/watch?v=ILtqKwzdyiM) 2025-02-15
+
