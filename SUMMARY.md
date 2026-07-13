@@ -433,6 +433,7 @@
     * [Wacom Canvas](catalog/apps/wacom-canvas.md)
     * [Wacom Instant Pen Display](catalog/apps/wacom-instant-pen-display.md)
     * [Wacom Preference File Utility](catalog/apps/wacom-preference-file-utility.md)
+    * [Ciallo](catalog/apps/ciallo.md)
   * [Catalog: Drawing tablets](catalog/drawtabs/README.md "Drawing tablets")
     * [Apple](catalog/drawtabs/apple/README.md)
       * [Apple iPad](catalog/drawtabs/apple/apple-ipad.md "iPad")
