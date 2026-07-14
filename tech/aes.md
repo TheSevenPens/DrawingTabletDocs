@@ -1,8 +1,14 @@
-# AES
+# Active Electrostatic AES pen tech
 
 ## Overview
 
 Wacom also invented AES technology. It works in a fundamentally different way from EMR.
+
+There are several versions of AES: 1,2,and 3.
+
+We believe AES 3.0 is on its way but we know little about it's performance or whether it will be seen in drawing tablets.
+
+
 
 ## Related tech
 

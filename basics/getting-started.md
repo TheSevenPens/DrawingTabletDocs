@@ -124,7 +124,7 @@ If you encounter a "NO SIGNAL" message, follow these troubleshooting steps: [TSG
 
 Drawing tablet pens are often over-sensitive at low physical pressure. Near the initial activation force, pressure can swing wildly. If you use pressure to control the width of your strokes, the width may vary more than you expect. This is especially obvious when you are doing linework and your brushes get larger, such as above 50 px.
 
-This over-sensitivity is common. Some people may not even notice it. But if you do, you can use pressure curves to reduce it.
+This over-sensitivity is common. Some people may not even notice it. But if you do, you can use pressure curves to reduce it. You can change the pressure curve in the tablet driver or in your drawing application - they usually have an application global pressure curve or per-brush pressure curves. To keep it simple, I suggest you change it in your drawing application.
 
 <figure><img src="../.gitbook/assets/getting-started-1.png" alt="" width="375"><figcaption></figcaption></figure>
 

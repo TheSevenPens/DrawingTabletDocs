@@ -16,8 +16,6 @@ Instead of pen computers, I recommend looking at other kinds of standalone devic
 * Microsoft Surface Pro
 * Samsung Galaxy Book 5 Pro
 
-More here: [Standalone drawing tablet recommendations](/broken/spaces/Nde0PQIvNcFZNVxuTO0G/pages/DBt1MVbtgnX3hddI6fU2)
-
 ## ALTERNATIVE #3: Laptops/Mini PCs + pen display
 
 Another option is a standard drawing tablet connected to a mini PC or laptop. This lets you draw in different locations, though the extra cabling can be cumbersome.

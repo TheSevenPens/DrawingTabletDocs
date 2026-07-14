@@ -6,6 +6,7 @@
 * **Affinity (Windows, MacOS)** [Affinity](../catalog/apps/affinity.md) **FREE**
 * **ArtFlow Studio** (Android, ChromeOS)
 * **ArtRage** (Windows, macOS, iOS, Android)
+* **Ciallo** (Windows, MacOS) [Ciallo](../catalog/apps/ciallo.md) **FREE** - in development
 * **Clip Studio Paint** (Windows, MacOS, Android, iOS) [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
 * **Drawpile** (Web, Windows, MacOS, Android, Linux) [https://drawpile.net/](https://drawpile.net/)
 * **Expresii** (Windows) [Expresii](../catalog/apps/expresii.md)
