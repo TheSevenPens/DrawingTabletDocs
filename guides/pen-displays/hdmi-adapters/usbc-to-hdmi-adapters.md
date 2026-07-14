@@ -17,3 +17,13 @@ I've also had good luck with the "Amazon Basics Premium Aluminum USB-C to HDMI C
 This comes in different lengths (6ft and 3ft) and different refresh rates (60Hz and 30Hz). Make sure you buy one long enough for your needs and get the 60Hz version.
 
 <div align="left" data-full-width="false"><figure><img src="../../../.gitbook/assets/unused/image-000161 (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+
+## Alternative: Thunderbolt docks
+
+Instead of a single USB-C-to-HDMI adapter, you can use a **Thunderbolt dock**. These are usually meant for laptops with Thunderbolt 3 or Thunderbolt 4 ports, and they add many extra ports at once — not just video.
+
+A few things to know:
+
+* Docks have rules about which USB-C ports they work with. They generally work well when plugged into **Thunderbolt 4, Thunderbolt 3, and USB4** ports, but some docks may not work with plain **USB 3.x** USB-C ports.
+* Not every dock has an HDMI port. I personally use a [CalDigit TS4](../../../catalog/accessories/docks-and-hubs/caldigit/caldigit-ts4-thunderbolt-dock.md), which has DisplayPort but no HDMI — so I pair it with a DisplayPort-to-HDMI adapter.
+* Thunderbolt dock compatibility can be finicky, so do your research before you buy.

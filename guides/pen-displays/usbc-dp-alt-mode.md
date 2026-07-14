@@ -10,6 +10,10 @@ Support for DP alt mode is something you must verify for your ports and your cab
 
 ## Verifying if your USB-C port or cable supports DP alt mode
 
+### A quick clue: is the USB-C port on a GPU?
+
+If the USB-C port is on a graphics card (GPU), it will carry a video signal — sending video is the whole purpose of a GPU's ports. A USB-C port anywhere else (on the motherboard I/O panel, on a laptop, etc.) may or may not support video, so keep reading. Even for a GPU port, it doesn't hurt to confirm with the documentation.
+
 ### Option 1: DisplayPort alt mode symbol
 
 The DisplayPort symbol indicates that the cable or port supports DP alt mode. Unfortunately, many cables that do support DP alt mode do not have this logo.
@@ -30,7 +34,15 @@ Here is an example of a cable with a Thunderbolt symbol.
 
 Unfortunately, many USB-C Thunderbolt ports and cables simply do not have the Thunderbolt logo on them.
 
-### Option 3: Unlabeled ports and cables
+{% hint style="warning" %}
+**Don't confuse the Thunderbolt symbol with a plain lightning-bolt symbol.** Some USB-C ports have a lightning-bolt icon that only means the port can deliver **power** (charging). That is NOT the Thunderbolt symbol, and it tells you nothing about DP alt mode. The Thunderbolt symbol has its own distinct shape.
+{% endhint %}
+
+### Option 3: USB4 ports
+
+If a port is a **USB4** port, it supports DP alt mode — that is part of the USB4 standard. The catch is that USB4 ports usually aren't labeled, so you may need to check your device's documentation to confirm that a port is USB4 in the first place.
+
+### Option 4: Unlabeled ports and cables
 
 If your cable or port does not clearly indicate DP alt mode, you still have several strategies:
 

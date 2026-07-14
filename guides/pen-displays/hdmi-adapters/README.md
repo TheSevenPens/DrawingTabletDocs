@@ -32,7 +32,15 @@ If you don't have an HDMI port you should try alternative ports in the order bel
 
 ## Check your requirements
 
-You need to make sure your adapter supports the **resolution** and **refresh rate** that you want from your pen display.
+You need to make sure your adapter supports the **resolution** and **refresh rate** that you want from your pen display. For example, some adapters can do full HD at 60 Hz but only 4K at 30 Hz, so an adapter that works for one display may not be enough for another.
+
+## Prefer digital-to-digital adapters
+
+Some of these ports are digital (DisplayPort, DVI-D, USB-C) and some are analog (VGA). When you have a choice, prefer an adapter that goes **digital to digital**. Adapters that convert an analog signal (like VGA) to digital HDMI can introduce quality issues.
+
+## Try to avoid adapters when you can
+
+An adapter is one more component that can introduce a problem. If you have a native HDMI port available, use it. That said, I've used many adapters — especially DisplayPort-to-HDMI — with great results.
 
 ## General flakiness
 

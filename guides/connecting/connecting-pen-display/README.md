@@ -49,7 +49,14 @@ See [TSG: Tablet driver does not detect tablet](../../../troubleshoot/tsg-tablet
 
 ### When the pen display does not get enough power
 
-TBD
+Insufficient power shows up in a few characteristic ways:
+
+* The pen display simply won't turn on.
+* It turns on for a second or two, then off, then on again — cycling repeatedly.
+* It turns on, but the screen is dimmer than expected.
+* The screen stays black, but the pen still works (so it behaves like a screenless tablet).
+
+Larger pen displays need more power. If your computer's port can't supply enough, power the display from a wall adapter instead. See [Connecting a pen display with USB-C](connecting-pen-display-usbc.md) and [Connecting with a 3-in-1 cable](connecting-with-a-3-in-1-cable.md).
 
 ## Other topics
 
