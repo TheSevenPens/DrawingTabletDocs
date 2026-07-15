@@ -8,25 +8,29 @@ Read this first: [Connecting a pen display](./)
 
 There are two common ways to get a video signal to a pen display: an **HDMI** cable or a **USB-C** cable. This page covers the **USB-C** approach. For the other approach, see [Connecting with HDMI](connecting-pen-display-hdmi.md).
 
-Remember that a pen display has three requirements to work: **power**, **data**, and a **video signal**. Unlike HDMI (which carries only video), a single USB-C cable can potentially carry all three at once — that's what makes USB-C appealing, but also more complicated to get right.
+A pen display has three requirements to work: **power**, **data**, and a **video signal**. Unlike an HDMI cable which carries only video, a single USB-C cable can POTENTIALLY carry all three at once — that's what makes USB-C appealing, but also more complicated and there are many more hardware requirements that must be met.
 
 ## Video
 
-[https://youtu.be/eyHkd3kcOZk](https://youtu.be/eyHkd3kcOZk)
+If you'd like a video walkthrough of thid topic, watch: [https://youtu.be/eyHkd3kcOZk](https://youtu.be/eyHkd3kcOZk)
 
 {% embed url="https://youtu.be/eyHkd3kcOZk" %}
 
-## Considerations
+## Considerations before buying anything
 
-Key things to keep in mind:
+### Key things to keep in mind
 
 * Not all pen displays support this configuration, even if they have USB-C ports.
 * Not all computers can send power and a display signal over USB-C.
 * Not all USB-C cables can be used for this purpose.
 
-So, do your research and plan carefully. Do not buy a pen display assuming that a single USB-C cable connection will work.
+### Do your research and plan carefully
 
-## Verify with your manufacturer
+* Do not buy a pen display assuming that a single USB-C connection will work
+* Do not buy a computer assuming that it will work for a single USB-C connection
+* Do not buy a cable assuming it will work for a single cable connection
+
+### Verify
 
 The first thing you should do is verify whether the tablet supports a single USB-C connection. Ideally, do this before you buy the tablet.
 
@@ -35,11 +39,9 @@ You can do this verification easily:
 * Read the user manual and check how the tablet connects.
 * Or contact support and ask whether it works for that specific model.
 
-## A USB-C port doesn't guarantee a USB-C connection
+Ideally you could find someone who has the same computer you do, the same pen display, and the same USB-C cable. That would serve as good evidence it will work for you
 
-Just because your tablet has a USB-C port does not mean it supports a USB-C video connection. For example, the Wacom One 2019 (DTC-133) has a single USB-C port, but its manual requires a proprietary Wacom cable that ultimately connects to an **HDMI** port on your computer — so it cannot do a USB-C video connection at all. This is exactly why reading the user manual before you buy matters so much.
-
-## Test your computer before you buy
+### Test/evaluate your computer
 
 You can test most of the requirements before you even own the tablet:
 
@@ -47,10 +49,6 @@ You can test most of the requirements before you even own the tablet:
 * **Does the USB-C port carry video?** Connect a monitor (or anything that accepts video over USB-C) to the port. If you get a picture, the port supports video (DP alt mode).
 * **Does the USB-C port supply enough power?** There's no easy test for this. Check your computer's documentation for how much power the port delivers. As a rule of thumb, don't count on a port powering anything larger than a 13-inch pen display on its own.
 * **Can your computer drive another display at all?** A pen display is essentially another monitor. If you already run two monitors, adding a pen display means your computer needs to support three at once. Test this by temporarily plugging in a spare monitor. If your computer can't handle the extra display, that's a problem to solve before you buy. On a laptop or mini PC this is hard to change; on a desktop you may be able to fix it with a better GPU.
-
-## Summary of requirements
-
-<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-1.png" alt=""><figcaption></figcaption></figure>
 
 ## The three USB-C connection styles
 
@@ -62,11 +60,19 @@ When a USB-C cable carries the video signal, there are three common ways to wire
 
 The bigger your pen display, the more likely you'll need two or three cables, because a single USB-C port often can't supply enough power on its own.
 
-## Video signal with DP alt mode support
+### A USB-C port on your computer doesn't guarantee that a single USB-C connection will work
+
+Just because your tablet has a USB-C port does not mean it supports a USB-C video connection. For example, the Wacom One 2019 (DTC-133) has a single USB-C port, but its manual requires a proprietary Wacom cable that ultimately connects to an **HDMI** port on your computer — so it cannot do a USB-C video connection at all. This is exactly why reading the user manual before you buy matters so much.
+
+## Single cable requirements
+
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-1.png" alt=""><figcaption></figcaption></figure>
+
+### Video signal with DP alt mode support
 
 Your cable and ports must support DP alt mode. To find out whether your ports and cables support DP alt mode, read [USB-C DisplayPort alt mode](../../pen-displays/usbc-dp-alt-mode.md).
 
-## Power support
+### Power support
 
 * Cables
   * Thunderbolt USB-C cables can usually carry enough power.
@@ -80,7 +86,9 @@ Your cable and ports must support DP alt mode. To find out whether your ports an
 
 If your USB-C port can't supply enough power, use a **two-cable** or **three-cable** connection (described below) to draw power from another source.
 
-## Which USB-C port on the tablet should you use?
+## Computer USB-C ports
+
+### Which USB-C port on the tablet should you use?
 
 Often with tablets there are two USB-C ports.
 
@@ -90,7 +98,7 @@ Sometimes they are not interchangeable:
 * Some tablets dedicate the bottom port to video and data, and the top port to power.
 * Some tablets can use any combination of ports for video, data, and power.
 
-## Recessed USB-C ports on the tablet
+### Recessed USB-C ports on the tablet
 
 You should be aware that recessed USB-C ports on your pen display typically mean that only the manufacturer-provided USB-C cables will fit them.
 
@@ -98,7 +106,9 @@ More here: [Recessed USB-C ports](../recessed-usbc-ports.md)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image-000650.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## Manufacturer cables vs third-party cables
+## USB-C cables
+
+### Manufacturer cables vs third-party cables
 
 I recommend you get the USB-C cables provided by the manufacturer for two reasons:
 
@@ -108,20 +118,20 @@ I recommend you get the USB-C cables provided by the manufacturer for two reason
 
 More here: [Using 3rd-party cables with your drawing tablet](../3rd-party-cables-for-drawtab/)
 
-## Thunderbolt 3/4/5 cables
+### Thunderbolt 3/4/5 cables
 
 To keep it simple, I often just use Thunderbolt 3/4/5 cables since these are USB-C cables that are defined to support DP alt mode and enough power.
 
-## The specific Thunderbolt 3 cable I use
+### The specific Thunderbolt 3 cable I use
 
 I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results are here: [CableMatters Thunderbolt 3 cable](../../../catalog/accessories/cables/cablematters-thunderbolt-3-cable.md).
 
-## Two tips that save money and frustration
+### Two tips that save money and frustration
 
 * **Watch the price.** Full-featured, Thunderbolt, and USB4 cables vary a lot in price — anywhere from about $15 to $70. Before you buy a tablet, check whether the cable you need comes in the box. If it doesn't, factor in the extra cost. For example, the Wacom Movink 13 (DTH-135) includes a roughly $15 full-featured USB-C cable, while the Huion Kamvas 13 Gen 3 (GS1333) only includes a 3-in-1 (HDMI) cable — a compatible full-featured cable is sold separately for about $30 (1 m) to $70 (2 m).
 * **Label your cables.** When a USB-C cable comes with a tablet, put a label on it with the tablet's name and whether the cable carries video. USB-C cables are nearly impossible to tell apart just by looking, and a quick label will save you a lot of confusion later.
 
-## How to tell if a USB-C cable could be used as a single-cable for your pen display
+### How to tell if a USB-C cable could be used as a single-cable for your pen display
 
 Unfortunately, this can be hard because there are no reliable visual indicators for USB-C cables. Most USB-C cables are unmarked.
 
