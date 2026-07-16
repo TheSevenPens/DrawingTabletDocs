@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a good tablet with a great drawing experience, thanks to the included PW600L pen. I am very happy with this tablet, and as of Jan 2025, it is my #1 recommended 16" pen display.&#x20;
+This is a good tablet with a great drawing experience, thanks to the included PW600L pen. I am very happy with this tablet, and as of Jan 2025, it is my #1 recommended 16" pen display.
 
 #### Known issues
 
-* It does exhibit a tiny bit of diagonal wobble when drawing smooth strokes, but stabilization or smoothing can eliminate that.&#x20;
+* It does exhibit a tiny bit of diagonal wobble when drawing smooth strokes, but stabilization or smoothing can eliminate that.
 * Some units have a known issue with the dials: See: [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
 ### Unboxing and testing live streams
@@ -152,8 +152,12 @@ Like many drawing tablet pens, the pen is a little over-reactive near the IAF. D
 
 ### Diagonal wobble
 
-* Ultra-Slow Strokes: Exhibits a very minor amount of diagonal line wobble. It is completely acceptable, but slightly more noticeable than on the Kamvas 13 Gen 3 or Kamvas Pro 19.
-* Normal/Fast Strokes: No wobble present. The line quality remains straight during real-world drawing speeds.
+RATING: OK
+
+* Slow Strokes: Exhibits a very minor amount of diagonal line wobble. It is completely acceptable, but slightly more noticeable than on the Kamvas 13 Gen 3 or Kamvas Pro 19.
+* Normal/Fast Strokes: a little wobble present. The line quality remains straight during real-world drawing speeds.
+
+<figure><img src="../../../.gitbook/assets/Diag Wobble Huion Kamvas 16 GEN3 (GS1563).png" alt=""><figcaption></figcaption></figure>
 
 ### Parallax
 
