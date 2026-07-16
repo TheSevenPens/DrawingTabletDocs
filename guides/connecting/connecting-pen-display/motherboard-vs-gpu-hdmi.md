@@ -22,7 +22,7 @@ There are two general locations on the back of a computer.
 
 If you have two working ports, one on the motherboard and one on the graphics card, which should you pick? The answer is **always try the graphics card HDMI first, and only use the motherboard HDMI as a last resort**.
 
-First, motherboard HDMI support usually is not as capable as what you will find on a graphics card from the same era. The motherboard HDMI port may not support 4K or a high enough refresh rate. So it might work, but the experience may be worse.
+First, motherboard HDMI support is usually not as capable as what you will find on a graphics card from the same era. The motherboard HDMI port may not support 4K or a high enough refresh rate. So it might work, but the experience may be worse.
 
 Second, both motherboard HDMI and a graphics card need memory to do their work. A graphics card has its own dedicated memory. Motherboard HDMI usually does not. It instead uses system memory, which means your CPU and system lose some memory to graphics.
 
@@ -32,11 +32,11 @@ Sometimes you'll read a statement like "HDMI doesn't work on the motherboard." T
 
 First, to get a motherboard HDMI port working, several things need to be true:
 
-* First the HDMI port must exist
+* First, the HDMI port must exist.
 * Second, the computer has to have a component that sends a display signal to the port. This is called integrated graphics. It's called "integrated" because the graphics component is on the CPU.
-* Third, the use of the HDMI port must be enabled.
+* Third, the HDMI port must be enabled.
 
-What often happens is, not all these conditions are met with motherboard HDMI ports on all PCs.
+What often happens is that not all these conditions are met on PCs with motherboard HDMI ports.
 
 The HDMI port might exist, but there may be no integrated graphics, so that port will not work.
 
