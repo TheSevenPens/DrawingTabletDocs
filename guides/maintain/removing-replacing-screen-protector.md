@@ -11,20 +11,24 @@ This document covers the case when your tablet has an anti-glare film.
 
 ## Removing the film
 
-If it has an anti-glare film, the film can be **carefully** lifted off.
+If your tablet has an anti-glare film, you can **carefully** lift it off. Start at a corner and **gently** and **slowly** lift it. Then work across the entire surface.
 
-You can start at a corner and **gently** and **slowly** lift it up. Then work your way across the entire surface.
+Be aware:&#x20;
+
+* Some tablets were explicitly designed for removing the protector
+* Some tablets were not explicitly designed for removing the protector, but you can still easily do it.
+* Some tablets really intend for that protector to stay in place. It may be impossible or incredibly difficult to remove without damaging the glass. The Wacom One 2019 (DTC-133) is such a model. Its protector is stuck on and I would not recommend trying to remove it.
 
 ## Replacing the film
 
-First, you should realize that manufacturers might sell replacement films for their tablets. But even if they do not, you can find third-party films that are pre-cut for your tablet or that can be cut to a specific size. More here on your options: [Surface protection](../../misc/surface-protectors-obsolete.md)
+Manufacturers may sell replacement films for their tablets. If they do not, you can find third-party films that are pre-cut for your tablet. You can also cut some films to a specific size. See [Surface protection](../../misc/surface-protectors-obsolete.md) for more options.
 
 **How much anti-glare sparkle do you want?**
 
-Your replacement will likely have some amount of anti-glare sparkle. If you buy the replacement film from the manufacturer, you will get the same amount of anti-glare sparkle you originally had. More here on [Anti-glare sparkle](../pen-displays/ag-sparkle.md).
+Your replacement will likely have some anti-glare sparkle. If you buy a replacement film from the manufacturer, it will have the same amount of sparkle as the original. See [Anti-glare sparkle](../pen-displays/ag-sparkle.md) for more information.
 
-If you want less anti-glare sparkle, consider getting a film that has less of it. This is where you should evaluate options from companies like **Photodon**. They sell small samples you can try to evaluate how the film will look on your tablet. I highly recommend trying those samples before you commit to putting a new film on.
+If you want less anti-glare sparkle, consider a film with less of it. Evaluate options from companies such as **Photodon**. They sell small samples, so you can see how each film looks on your tablet. Try samples before applying a new film.
 
-Here is a video where you can see me try some of these Photodon samples and talk about how they affected the anti-glare sparkle:
+This video shows Photodon samples and their effect on anti-glare sparkle:
 
 {% embed url="https://youtu.be/3x5pfmbsQys" fullWidth="false" %}
