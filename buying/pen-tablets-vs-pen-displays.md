@@ -4,9 +4,9 @@
 
 There are three kinds of drawing tablets. This document is about how to choose between a pen tablet and a pen display.
 
-* **pen tablets** - do not have a screen
-* **pen displays** - have a screen
-* **standalone tablets** - have a screen and can be used without being connected to a computer
+* **Pen tablets** — do not have a screen.
+* **Pen displays** — have a screen.
+* **Standalone tablets** — have a screen and work without a computer.
 
 <figure><img src="../.gitbook/assets/pen-tablets-vs-pen-displays-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -57,9 +57,9 @@ Some people worry that the quality of art they want to produce requires a pen di
 
 ## Advice for first-time tablet users
 
-If you are just getting started with a drawing tablet — for example, if this is going to be your first one — my advice is to start with a pen tablet. Learn to use it, and if you can't adjust after a few weeks, return it and get a pen display.
+If you are just getting started with a drawing tablet — for example, if this will be your first one — start with a pen tablet. Learn to use it. If you cannot adjust after a few weeks, return it and get a pen display.
 
-## Need a computer
+## Computer requirements
 
 <mark style="background-color:purple;">WINNER: TIE</mark>
 
@@ -69,7 +69,7 @@ Both pen tablets and pen displays require a computer to work. Neither can be use
 
 <mark style="background-color:purple;">WINNER: Pen tablets</mark>
 
-With a pen tablet, you draw in a better posture. Your back stays vertical and your head looks straight ahead at your monitor. With a pen display, you almost always have to lean forward and look down at the tablet to draw, which can strain your lower back and neck. This is one of the most common reasons someone buys a pen display and then returns it. More here: [Body posture when using drawing tablets](../guides/ergonomics/posture.md)
+With a pen tablet, you draw with better posture. Your back stays upright, and you look straight ahead at your monitor. With a pen display, you almost always lean forward and look down at the tablet, which can strain your lower back and neck. This is one of the most common reasons people buy a pen display and then return it. More here: [Body posture when using drawing tablets](../guides/ergonomics/posture.md)
 
 ## Cost
 
@@ -77,7 +77,7 @@ With a pen tablet, you draw in a better posture. Your back stays vertical and yo
 
 Pen tablets cost much less than pen displays. Even the most expensive pen tablets cost less than most pen displays.
 
-* Pen tablets cost between $50 and $250. The most expensive on the market is $500, often discounted to $400.
+* Pen tablets cost between $50 and $250. The most expensive models cost $500 and are often discounted to $400.
 * Pen displays start at around $300 and can go up to about $1,300. Wacom professional pen displays are in a category of their own and can cost $2,500 to $3,500.
 
 ## Reliability
@@ -162,23 +162,23 @@ Also, pen displays require more protection when traveling because they are more 
 
 ## Diagonal wobble
 
-Diagonal wobble is a slight wobbling inaccuracy in pen position tracking. It is present in ALL drawing tablets to varying degrees.
+Diagonal wobble is a slight inaccuracy in pen-position tracking. It occurs in all drawing tablets to varying degrees.
 
 In my testing, I've found no clear pattern indicating that pen tablets or pen displays are more or less prone to wobble. It appears to be linked to the specific tablet model rather than the type.
 
-You can see the diagonal wobble samples I've collected here: [Diagonal wobble data](../process/diagonal-wobble-data.md).
+You can see the diagonal-wobble samples I have collected here: [Diagonal wobble data](../process/diagonal-wobble-data.md).
 
 ## Pen pressure handling
 
-The way a tablet handles pressure (IAF, max pressure, etc.) depends on the pen, not the tablet.
+The way a tablet handles pressure — including IAF and maximum pressure — depends on the pen, not the tablet.
 
-There are a few exceptions — 1 or 2 tablets that I believe handle pressure poorly independently of the pen — but those are exceedingly rare.
+There are a few exceptions — one or two tablets that I believe handle pressure poorly, regardless of the pen — but those are exceedingly rare.
 
 ## Surface texture
 
 When you drag your pen over a tablet, the surface needs enough texture so the pen doesn't feel slippery and difficult to control.
 
-Generally, pen tablets have noticeably more texture than pen displays. Some older pen tablets are relatively smooth compared to modern ones.
+Generally, pen tablets have noticeably more texture than pen displays. Some older pen tablets are relatively smooth compared with modern models.
 
 Pen displays do have surface texture, but less than pen tablets.
 
@@ -194,6 +194,6 @@ Pen tablets do NOT support VESA mounting.
 
 ## Videos
 
-* [**Teoh on Tech -** 9 things to know about pen displays before you buy one](https://youtu.be/Ez7l1C49ClE) Jan 6, 2023
-* [**EyeKooDrawsStuff** - What drawing tablet to buy... a screenless graphics tablet or pen display?](https://youtu.be/SpOmAvvXePE) July 10, 2023
-* [**Paintable** - Do you NEED a Screen Tablet? | Honest Huion Kamvas Pro 24 Review](https://www.youtube.com/watch?v=9b-8ZUE6tkg) Mar 30, 2023
+*
+*
+*
