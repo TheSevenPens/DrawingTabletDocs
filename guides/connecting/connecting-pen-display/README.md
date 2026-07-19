@@ -51,8 +51,8 @@ See [TSG: Tablet driver does not detect tablet](../../../troubleshoot/tsg-tablet
 
 Insufficient power shows up in a few characteristic ways:
 
-* The pen display simply won't turn on.
-* It turns on for a second or two, then off, then on again — cycling repeatedly.
+* The pen display simply won't turn on.&#x20;
+* It turns on for a second or two, then off, then on again — cycling repeatedly. See: [TSG: Pen display turns on and off constantly](../../../troubleshoot/tsg-pen-display-turns-on-and-off.md)
 * It turns on, but the screen is dimmer than expected.
 * The screen stays black, but the pen still works (so it behaves like a screenless tablet).
 
