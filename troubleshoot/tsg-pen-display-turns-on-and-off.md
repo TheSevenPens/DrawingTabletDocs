@@ -6,6 +6,8 @@ In this situation, when your pen display is plugged in you may see something sho
 
 When it is on you may see that the screen is just showing a field of a solid white color. Or you may see a brand logo or some other indication that the display panel is actually working.
 
+I highly recommend you review: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
+
 ## Primary causes
 
 ### Pen display not getting enough power
