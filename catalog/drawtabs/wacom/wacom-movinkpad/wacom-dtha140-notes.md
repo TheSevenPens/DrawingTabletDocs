@@ -48,7 +48,7 @@ I hope the next generation of this tablet incorporates these features:
 * [Adam Duff - Wacom MovinkPad Pro 14 - Secret Settings / Accessories / Setup Guide](https://www.youtube.com/watch?v=xAZpMpdyWes) 2026-03-05
 * [Gartzia Arts - Review of MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) 2025-12-16
 * [Brad Colbow - Review MovinkPad Pro 14](https://www.youtube.com/watch?v=lpBGmiO4f7I) 2025-10-17
-* [Teoh on Tech - Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) - 2025-12-08&#x20;
+* [Teoh on Tech - Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) - 2025-12-08
 * [Teoh on Tech - Wacom MovinkPad Pro 14 review](https://www.youtube.com/watch?v=CRxC_tyyUCk) - 2025-11-22
 * [Seven Pens - Budget Android Drawing Tablet Recommendations for 2025](https://www.youtube.com/watch?v=NK2_dIGQKk8) - 2025-09-25. Although this video is about budget Android tablets, much of what it says is relevant for the MovinkPad Pro 14/<br>
 
@@ -287,9 +287,21 @@ EXCELLENT. Very accurate across the screen
 
 ### Corner and edge accuracy
 
-EXCELLENT
+GOOD/OK
 
-Within about 4mm of the edge, above normal deflection of pointer position. I noticed it slightly more toward certain spots in the bottom edge - this seems due to magnets for the cover.  It did not interfere with my drawing. I only noticed it in my testing.
+Within about 4mm of the edge, above normal deflection of pointer position. I noticed it slightly more toward certain spots in the bottom edge - this seems due to magnets for the cover. It did not interfere with my drawing. I only noticed it in my testing.
+
+Below is a set of diagonal lines drawn WITH A RULER qt the corners. There is some distortion in these areas"
+
+1. Bottom left and bottom right had the most distortion
+2. These were not slow strokes
+3. Towards the bottom edge there was more distortion
+
+I think this kind of distortion may be common to standalone mobile device so I don't have any particular concern, but for some people this may be irritating. Though remember it is easy to avoid - move the corner of you canvas a bit further toward the middle of the screen.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/DTHA140_position_distortion_in_corners.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### Tilt compensation
 
