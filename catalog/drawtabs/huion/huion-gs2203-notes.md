@@ -69,7 +69,7 @@ The 90Hz refresh rate does provide a small improvement to the perception of poin
 
 RATING: LOW
 
-I couldn't notice much sparkle at all.
+I couldn't notice much sparkle at all. I found it to be the same (or very close to) the Wacom Cintiq 24 touch 2025
 
 ## Drawing experience
 
