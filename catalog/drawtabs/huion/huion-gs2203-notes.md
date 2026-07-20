@@ -65,6 +65,12 @@ The display natively supports up to a 90Hz refresh rate over both HDMI and USB-C
 
 The 90Hz refresh rate does provide a small improvement to the perception of pointer lag.
 
+## Anti-glare spakle
+
+RATING: LOW
+
+I couldn't notice much sparkle at all.
+
 ## Drawing experience
 
 ### Pen tracking accuracy (static, vertical)
