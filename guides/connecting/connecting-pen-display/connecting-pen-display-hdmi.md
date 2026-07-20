@@ -14,11 +14,11 @@ There are two common ways to get a video signal to a pen display: an **HDMI** ca
 
 {% embed url="https://youtu.be/iKl_3NYjlsY" %}
 
-## The fundamentals
+## Understand the basics
 
-A pen display has three requirements to work: **power**, **data**, and a **video signal**.
+PLEASE read [Connecting a Pen Display](./). One you understand the basics, this document will be easier understand.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+## Cabling when HDMI is used
 
 **HDMI** carries only the video signal, so power and data are handled by separate cables. Typically, this will be two cables (one for power and one for data) or a 3-in-1 cable (see [Connecting with a 3-in-1 cable](connecting-with-a-3-in-1-cable.md)). When a 3-in-1 cable is used, there will be two USB-C ports on the tablet.
 

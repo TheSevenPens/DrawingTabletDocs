@@ -16,6 +16,10 @@ If you'd like a video walkthrough of this topic, watch [this video](https://yout
 
 {% embed url="https://youtu.be/eyHkd3kcOZk" %}
 
+## Understand the basics
+
+PLEASE read [Connecting a Pen Display](./). One you understand the basics, this document will be easier understand.
+
 ## Considerations before buying anything
 
 ### Key things to keep in mind
@@ -72,28 +76,9 @@ To fully connect a pen display, three requirements must be met:
 * The pen display must be able to send data to your computer.
 * The pen display must receive a video signal from your computer.
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### What happens if the requirements are not met
-
-If there is no video signal, the tablet screen will show a message such as **NO SIGNAL**. It may then show **POWER SAVING** and turn off. **NO SIGNAL** explicitly identifies the fundamental problem: the tablet is not receiving a video signal. This message can result from issues in multiple places. It can be complex to troubleshoot. For more information, see [TSG: Pen display shows NO SIGNAL message](../../../troubleshoot/tsg-no-signal.md).
-
-<figure><img src="../../../.gitbook/assets/Slide_20260716_083734.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-If the **NO SIGNAL** message occurs and your tablet stays on, you might be able to continue using the pen, even if you see nothing. In other words, it will behave like a pen tablet. Although not ideal, it may be useful in an emergency.
-
-If the tablet cannot send data to the computer, the tablet driver will show a message that the tablet is not detected or connected. This message can occur even when the tablet is correctly connected. If you have this problem, see [TSG: Tablet driver does not detect the tablet](../../../troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md).
-
-<figure><img src="../../../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
-
-If there is no power or not enough power, you might see these symptoms:
-
-* The pen display will not turn on.
-* The pen display screen turns on briefly, then goes dark for a few seconds. This may repeat.
-* The display will not get as bright.
-* The screen shows nothing, but the pen works.
+FUNDAMENTALS
 
 ### USB-C connection options
 
