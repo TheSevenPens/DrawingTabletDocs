@@ -390,6 +390,14 @@ Does not have and VESA mounting holes.
 
 There are four rubber feet on the back. This keeps the tablet slightly elevated about the surface of the desk. Also it keeps the tablet in one place. The tablet will not accidentally slide around as you draw on it.
 
+### Magnets
+
+Along the bottom edge are four sets of magents - presumably for the cover to connect to.
+
+The photo below shows one of the four sets that is located in the bottom right corner.
+
+<figure><img src="/broken/files/dlkcDzV2GMc7kCScJNCR" alt=""><figcaption></figcaption></figure>
+
 ### Securing the Pen
 
 * The pen does NOT magnetically attach to the tablet.
