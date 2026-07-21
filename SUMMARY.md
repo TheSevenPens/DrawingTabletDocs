@@ -660,7 +660,7 @@
     * [Measuring PWM Flicker](process/measuring/measuring-pwm-flicker.md "PWM Flicker")
     * [Measuring pressure banding](process/measuring/measuring-pressure-banding.md "Pressure banding")
   * [Magnet detection](process/magnet-detection.md)
-  * [Testing drawing exeperience](process/testing-drawing-exeperience.md)
+  * [Testing drawing experience](process/testing-drawing-experience.md)
 * [Reference](ref/README.md)
   * [Standard drawing tablet sizes](ref/standard-drawtab-sizes.md)
 * [Technology](tech/README.md)
