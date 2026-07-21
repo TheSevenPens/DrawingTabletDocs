@@ -659,7 +659,7 @@
     * [Measuring diagonal wobble](process/measuring/measuring-diagonal-wobble.md "Diagonal wobble")
     * [Measuring PWM Flicker](process/measuring/measuring-pwm-flicker.md "PWM Flicker")
     * [Measuring pressure banding](process/measuring/measuring-pressure-banding.md "Pressure banding")
-  * [Magnet detection](process/magnet-detection.md)
+  * [Magnet field detection](process/magnet-field-detection.md)
   * [Testing drawing experience](process/testing-drawing-experience.md)
 * [Reference](ref/README.md)
   * [Standard drawing tablet sizes](ref/standard-drawtab-sizes.md)
