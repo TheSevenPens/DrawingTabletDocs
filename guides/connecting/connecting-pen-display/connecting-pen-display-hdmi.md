@@ -121,7 +121,7 @@ Before you buy anything, know that **most modern GPUs have only one HDMI port bu
 * **Add or upgrade a graphics card** so you have more — and better — video outputs.
 * **Avoid HDMI splitters.** They can be flaky, they can only mirror the same image to both displays, and your computer sees them as a single display. More here: [Using HDMI splitters with pen displays](../../pen-displays/hdmi-splitters.md).
 
-### No HDMI ports at all?
+## No HDMI ports at all?
 
 If you need an HDMI connection but have no HDMI ports, you can convert other ports to HDMI with an adapter. See [Using HDMI adapters with pen displays](../../pen-displays/hdmi-adapters/).
 

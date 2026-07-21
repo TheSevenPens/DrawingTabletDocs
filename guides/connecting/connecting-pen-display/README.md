@@ -4,19 +4,13 @@
 
 Connecting a pen display to a computer can be challenging. This guide explains the fundamentals you need to make it work.
 
-
-
 ## The fundamentals
 
 A pen display has three requirements to work: **power**, **data**, and a **video signal**. And each one of this must be carried by a cable.
 
 They could be carried by three separate cables, a single cable, or specialty cables. It depends on the specific tablet and your computer.
 
-Related docs:
 
-* [Connecting a pen display](./) (overview)
-* [Connecting a pen display with USB-C](connecting-pen-display-usbc.md)
-* [Connecting a pen display with HDMI](connecting-pen-display-hdmi.md)
 
 
 
@@ -24,7 +18,7 @@ Related docs:
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Connection instructions
+## Basic connection strategies
 
 We know there are three fundamental requirements. Now the challenge is making sure the cables and ports used to connect the tablet to the computer can meet those requirements.
 
@@ -35,9 +29,11 @@ Almost always, that cable is either HDMI or USB-C. Instructions for each case ar
 * HDMI for video: [Connecting with HDMI](connecting-pen-display-hdmi.md)
 * USB-C for video: [Connecting a pen display with USB-C](connecting-pen-display-usbc.md)
 
+<figure><img src="../../../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## What happens if the requirements are not met
 
-### No Video Signal
+### No Video Signal (aka NO SIGNAL)
 
 If there is no video signal, the tablet screen will show a message such as **NO SIGNAL**. It may then show **POWER SAVING** and turn off. **NO SIGNAL** explicitly identifies the fundamental problem: the tablet is not receiving a video signal. This message can result from issues in multiple places. It can be complex to troubleshoot. For more information, see [TSG: Pen display shows NO SIGNAL message](../../../troubleshoot/tsg-no-signal.md).
 
