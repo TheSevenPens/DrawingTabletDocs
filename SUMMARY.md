@@ -345,6 +345,7 @@
   * [TSG: Multiple pointers](troubleshoot/tsg-multiple-pointers.md)
   * [TSG: Diamond pointer on Windows](troubleshoot/tsg-diamond-pointer-on-windows.md)
   * [TSG: Display has vertical lines](troubleshoot/tsg-display-vertical-lines.md)
+  * [TSG: Pen display does not support video signal format](troubleshoot/tsg-pen-display-does-not-support-video-signal-format.md "tsg-pen-display-unsupported-video-format")
   * [TSG: Replacing a lost tablet cable](troubleshoot/tsg-replace-lost-tablet-cable.md)
 * [Catalog](catalog/README.md)
   * [Catalog: Accessories](catalog/accessories/README.md "Accessories")
