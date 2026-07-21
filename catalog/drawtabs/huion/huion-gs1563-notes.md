@@ -144,7 +144,7 @@ Anti-glare sparkle is kept very low, and you have to get your eyes within inches
 
 ### Pressure range
 
-The PW600L pen is very good — low IAF and high max pressure. See: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
+The PW600L pen is very good - low IAF and high max pressure. See: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 ### Low-pressure artifacts
 

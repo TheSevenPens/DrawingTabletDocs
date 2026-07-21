@@ -15,7 +15,7 @@ I was super excited to use it. I truly thought it would unlock some creative abi
 After unboxing and setting it up, the experience was very disappointing.
 
 * Lots of parallax
-* Pointer lag — which is normal for pen displays, but this was the first time I had ever seen it, so it was very jarring
+* Pointer lag - which is normal for pen displays, but this was the first time I had ever seen it, so it was very jarring
 * The device was heavy (tablet + stand) and hard to move around on or off the desk
 * The large bezel made it feel like it occupied too much space in front of me and prevented normal desk use
 * The colors seemed washed out, even compared to LCD monitors of the era

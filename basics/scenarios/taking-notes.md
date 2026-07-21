@@ -18,8 +18,8 @@ Some people also enjoy taking notes with pen tablets or pen displays. These devi
 
 Besides tracking pen position, there are two pen features worth discussing.
 
-* **Pen pressure** — somewhat useful for note-taking, because it makes notes look more natural.
-* **Pen tilt** — not very important for note-taking. Many note-taking apps ignore it entirely.
+* **Pen pressure** - somewhat useful for note-taking, because it makes notes look more natural.
+* **Pen tilt** - not very important for note-taking. Many note-taking apps ignore it entirely.
 
 ## Using pen tablets (screenless tablets)
 
@@ -34,7 +34,7 @@ Some people do very well taking notes with a pen tablet. I am not one of them. T
 
 If you do want to use a pen tablet for note-taking, these devices work well and do not cost too much. You can often find them for less on eBay.
 
-* Wacom One Medium (CTL-672) or Wacom One Small (CTL-472) — [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
+* Wacom One Medium (CTL-672) or Wacom One Small (CTL-472) - [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
 * XP Pen Deco M & MW
 * XP Pen Deco L & LW
 

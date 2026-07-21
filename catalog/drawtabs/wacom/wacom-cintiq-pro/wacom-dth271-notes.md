@@ -279,7 +279,7 @@ My usage: I left it at **Native**.
 
 ### Height adjustability
 
-* Some limited height adjustability — it cannot lift the display very high.
+* Some limited height adjustability - it cannot lift the display very high.
 * If you need to use it like a normal monitor -you should get an arm instead of using the stand
 
 ## Fans

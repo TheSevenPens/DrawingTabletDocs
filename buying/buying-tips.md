@@ -56,7 +56,7 @@ In my experience with tech products, when a user has a question or needs help, m
 
 In other words, the community around a drawing tablet brand has a big impact on your satisfaction with that tablet.
 
-That's why I tend to recommend the brands I do — they have a large number of users who are active online.
+That's why I tend to recommend the brands I do - they have a large number of users who are active online.
 
 Since Reddit is a popular place for drawing tablet discussions, here are some numbers that show how big these communities are.
 
@@ -88,7 +88,7 @@ To help you understand this, I recommend watching this video on connecting a pen
 
 ## Test the ports on your computer
 
-Once you know how the connection should work, confirm that the ports on your computer will work as intended — even before you order the tablet.
+Once you know how the connection should work, confirm that the ports on your computer will work as intended - even before you order the tablet.
 
 For a pen tablet, you can verify a USB port works by testing it with a mouse or similar input device.
 
@@ -138,7 +138,7 @@ Some reviewers to explore:
 
 ## Verify the model number, not just the model name
 
-Tablet names are confusingly similar — I've seen people order the wrong tablet just because the names were close.
+Tablet names are confusingly similar - I've seen people order the wrong tablet just because the names were close.
 
 * NEVER order using the name of the tablet alone.
 * ALWAYS verify you have ordered the correct model number.

@@ -51,8 +51,8 @@ This is my everyday “work” PC. All my major tasks are done on this PC. These
 
 * Creating my YouTube videos. This involves recording audio. Writing scripts. Creating PowerPoint slides. And audio and video editing.
 * Writing documents that I publish on my website
-* Creating artwork — mostly with Clip Studio Paint and Krita
-* Photo editing — with Photoshop and Affinity Photo
+* Creating artwork - mostly with Clip Studio Paint and Krita
+* Photo editing - with Photoshop and Affinity Photo
 * Writing code using Visual Studio
 * I have not tried gaming on this PC.
 

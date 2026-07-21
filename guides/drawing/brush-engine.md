@@ -6,7 +6,7 @@ The tablet sends "tablet reports" to the computer at somewhere around 200 report
 
 ## Brush engines
 
-In creative applications that draw strokes — applications such as Clip Studio Paint, Krita, or Photoshop — there is a component, or set of components, we can refer to as the **brush engine**.
+In creative applications that draw strokes - applications such as Clip Studio Paint, Krita, or Photoshop - there is a component, or set of components, we can refer to as the **brush engine**.
 
 One of its responsibilities is to take this pen data and combine it to draw a stroke.
 

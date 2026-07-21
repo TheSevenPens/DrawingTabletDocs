@@ -6,11 +6,11 @@ If you already have a pen tablet (a screenless tablet) and are considering getti
 
 ## A pen display is not necessarily an "upgrade"
 
-Many people mistakenly believe that a pen display is always better than a pen tablet and think of switching to one as an "upgrade." If that's your starting point, step back and consider that each has its own merits. Many people — including professional artists — prefer pen tablets to pen displays. More here: [Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md).
+Many people mistakenly believe that a pen display is always better than a pen tablet and think of switching to one as an "upgrade." If that's your starting point, step back and consider that each has its own merits. Many people - including professional artists - prefer pen tablets to pen displays. More here: [Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md).
 
 ## If it feels "weird" to draw on your pen tablet
 
-One thing I often hear is that people find it feels strange or unnatural to draw on a pen tablet — like their hand isn't drawing what they expect.
+One thing I often hear is that people find it feels strange or unnatural to draw on a pen tablet - like their hand isn't drawing what they expect.
 
 Many times, the cause is that the pen tablet hasn't been configured correctly for the monitor's aspect ratio. More here: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md).
 

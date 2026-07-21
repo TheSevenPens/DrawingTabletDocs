@@ -4,7 +4,7 @@
 
 You likely prefer to use a pen with your right hand or your left hand.
 
-The good news is that drawing tablets are designed to work equally well for both cases. Sometimes, you do not even need to do anything at all — it will "just work."
+The good news is that drawing tablets are designed to work equally well for both cases. Sometimes, you do not even need to do anything at all - it will "just work."
 
 ## Case 1: A tablet with NO buttons
 

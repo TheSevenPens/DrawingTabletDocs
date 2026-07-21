@@ -27,7 +27,7 @@ This is one flexibility that films have over etching.
 
 * You can remove the film entirely
 * If you scratch the film, you can replace it.
-* If you do not like some aspect of the film — maybe it has too much AG sparkle — you can buy a different film with different properties. For example, Photodon sells films with different amounts of AG effect. You can even get completely clear film.
+* If you do not like some aspect of the film - maybe it has too much AG sparkle - you can buy a different film with different properties. For example, Photodon sells films with different amounts of AG effect. You can even get completely clear film.
 
 Note: Some pen displays have very securely attached films, and they may be difficult to remove.
 

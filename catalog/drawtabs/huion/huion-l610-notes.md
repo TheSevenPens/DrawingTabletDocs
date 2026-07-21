@@ -43,7 +43,7 @@ In terms of paper sizes this is about the size of an A5 sheet of paper which has
 
 ## Aspect Ratio
 
-16:10 — which is common for drawing tablets.
+16:10 - which is common for drawing tablets.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/huion-l610-notes-7.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

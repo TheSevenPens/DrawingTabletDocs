@@ -29,7 +29,7 @@ His attempts leave some kind of metallic-looking residue on the glass which he c
 
 ### Counterexamples
 
-On the internet — Reddit, eBay, and elsewhere — you can find plenty of people who have accidentally scratched the glass of their tablet, including the Kamvas Pro 19. Sometimes these scratches do not happen while drawing, but during other moments when something makes contact with the tablet, perhaps with more force. Some tablets also show scratches from typical use.
+On the internet - Reddit, eBay, and elsewhere - you can find plenty of people who have accidentally scratched the glass of their tablet, including the Kamvas Pro 19. Sometimes these scratches do not happen while drawing, but during other moments when something makes contact with the tablet, perhaps with more force. Some tablets also show scratches from typical use.
 
 Below is a picture of a Wacom Cintiq 13 HD, which has an etched glass surface. It exhibits a lot of wear. I think this is a relatively uncommon and extreme amount.
 

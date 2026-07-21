@@ -58,9 +58,9 @@ You can test most of the requirements before you even own the tablet:
 
 When a USB-C cable carries the video signal, there are three common ways to wire everything up. They mainly differ in how **power** is delivered.
 
-* **One cable.** A single USB-C cable carries power, data, and video between your computer and the tablet. This is the simplest and most elegant setup — but it is also the hardest to get working. All three requirements must be met in three separate places: the tablet's USB-C port, the computer's USB-C port, and the cable. The requirement sections below describe what the one-cable connection needs.
+* **One cable.** A single USB-C cable carries power, data, and video between your computer and the tablet. This is the simplest and most elegant setup - but it is also the hardest to get working. All three requirements must be met in three separate places: the tablet's USB-C port, the computer's USB-C port, and the cable. The requirement sections below describe what the one-cable connection needs.
 * **Two cables.** A separate power cable delivers power (usually from a wall adapter), and a USB-C cable carries data and video. This solves the very common problem where a computer's USB-C port doesn't supply enough power. See **The two-cable connection** below.
-* **Three cables.** One cable for each requirement — power, data, and video. See **The three-cable connection** below.
+* **Three cables.** One cable for each requirement - power, data, and video. See **The three-cable connection** below.
 
 The bigger your pen display, the more likely you'll need two or three cables, because a single USB-C port often can't supply enough power on its own.
 
@@ -112,7 +112,7 @@ The one cable option is the most physically elegant and in some sense ideal conn
   * The size of the pen display affects how much power is needed.
   * A 13-inch pen display is more likely to work from USB-C power alone.
   * Around 16 inches, it's roughly 50/50 whether a USB-C port supplies enough power.
-  * At 19 inches and above, a single USB-C cable is basically never enough — you'll need external power.
+  * At 19 inches and above, a single USB-C cable is basically never enough - you'll need external power.
 
 If your USB-C port can't supply enough power, use a **two-cable** or **three-cable** connection (described below) to draw power from another source.
 
@@ -154,13 +154,13 @@ You have three options:
 
 Unfortunately, this can be hard because there are no reliable visual indicators for USB-C cables. Most USB-C cables are unmarked.
 
-**Thunderbolt-labeled USB-C cables** — If you see a Thunderbolt logo on a USB-C cable, it is a Thunderbolt 3, 4, or 5 cable. That means it supports the needed requirements.
+**Thunderbolt-labeled USB-C cables** - If you see a Thunderbolt logo on a USB-C cable, it is a Thunderbolt 3, 4, or 5 cable. That means it supports the needed requirements.
 
-**USB4-labeled USB-C cables** — I've never seen a cable labeled USB4. But if you see one, it should support the needed requirements.
+**USB4-labeled USB-C cables** - I've never seen a cable labeled USB4. But if you see one, it should support the needed requirements.
 
-**Unlabeled USB-C cables** — You will need to rely on the manufacturer specs. These cables are sometimes described as "full-featured" USB-C cables.
+**Unlabeled USB-C cables** - You will need to rely on the manufacturer specs. These cables are sometimes described as "full-featured" USB-C cables.
 
-**Full-featured USB-C cables** — Unfortunately, these are never labeled as "full-featured" on the cable itself. You may only know by reading the documentation or packaging, or by contacting customer support.
+**Full-featured USB-C cables** - Unfortunately, these are never labeled as "full-featured" on the cable itself. You may only know by reading the documentation or packaging, or by contacting customer support.
 
 ### Manufacturer cables vs third-party cables
 
@@ -178,23 +178,23 @@ I use a CableMatters Thunderbolt 3 cable. The exact cable and my testing results
 
 ### Two tips that save money and frustration
 
-* **Watch the price.** Full-featured, Thunderbolt, and USB4 cables vary a lot in price — anywhere from about $15 to $70. Before you buy a tablet, check whether the cable you need comes in the box. If it doesn't, factor in the extra cost. For example, the Wacom Movink 13 (DTH-135) includes a roughly $15 full-featured USB-C cable, while the Huion Kamvas 13 Gen 3 (GS1333) only includes a 3-in-1 (HDMI) cable — a compatible full-featured cable is sold separately for about $30 (1 m) to $70 (2 m).
+* **Watch the price.** Full-featured, Thunderbolt, and USB4 cables vary a lot in price - anywhere from about $15 to $70. Before you buy a tablet, check whether the cable you need comes in the box. If it doesn't, factor in the extra cost. For example, the Wacom Movink 13 (DTH-135) includes a roughly $15 full-featured USB-C cable, while the Huion Kamvas 13 Gen 3 (GS1333) only includes a 3-in-1 (HDMI) cable - a compatible full-featured cable is sold separately for about $30 (1 m) to $70 (2 m).
 * **Label your cables.** When a USB-C cable comes with a tablet, put a label on it with the tablet's name and whether the cable carries video. USB-C cables are nearly impossible to tell apart just by looking, and a quick label will save you a lot of confusion later.
 
 ## The two-cable connection
 
 If your computer's USB-C port can send video and data but can't supply enough power, use two cables:
 
-* A **USB-C cable** (full-featured, Thunderbolt, or USB4 — the same kind used for the one-cable case) carries data and video.
+* A **USB-C cable** (full-featured, Thunderbolt, or USB4 - the same kind used for the one-cable case) carries data and video.
 * A **separate power cable** delivers power from an external source.
 
 **Where should the power come from?** You may be able to draw power from another USB-C port, a USB-A port, a Thunderbolt dock, or a wall adapter. To keep things simple and reliable, **start with a wall adapter**. Once that works, you can experiment with other power sources.
 
-**Which power cable?** That depends entirely on your tablet — it might be USB-C, USB-A, a standard power cable, or a proprietary one. You have to use whatever the manufacturer specifies. The power cable only carries power; it will not carry data or video. Power cables are often marked in some way — a red connector, a small power-symbol tag, and so on. As with all your cables, labeling them (for example, with colored tape) makes it easy to tell the power cable from the data/video cable.
+**Which power cable?** That depends entirely on your tablet - it might be USB-C, USB-A, a standard power cable, or a proprietary one. You have to use whatever the manufacturer specifies. The power cable only carries power; it will not carry data or video. Power cables are often marked in some way - a red connector, a small power-symbol tag, and so on. As with all your cables, labeling them (for example, with colored tape) makes it easy to tell the power cable from the data/video cable.
 
 ## The three-cable connection
 
-The three-cable connection is the easiest to understand: one cable for each requirement — power, data, and video. The video cable still plugs into a USB-C port on the tablet, but remember that not every USB-C port on a computer can send video (DP alt mode).
+The three-cable connection is the easiest to understand: one cable for each requirement - power, data, and video. The video cable still plugs into a USB-C port on the tablet, but remember that not every USB-C port on a computer can send video (DP alt mode).
 
 If your computer doesn't have a USB-C port that supports video, you may be able to adapt another video output to USB-C.
 
@@ -202,7 +202,7 @@ If your computer doesn't have a USB-C port that supports video, you may be able 
 
 The tablet's video cable ends in USB-C, but your computer's video output might be something else. Here's what can and can't be adapted:
 
-* **DisplayPort → USB-C.** This works well. You can buy a DisplayPort-to-USB-C cable or adapter to feed video from your computer's DisplayPort into the tablet's USB-C port. These only carry **video** — not data and not power — so you'd use one as the video cable in a two- or three-cable setup. This is the approach I personally use; it's inexpensive and reliable.
+* **DisplayPort → USB-C.** This works well. You can buy a DisplayPort-to-USB-C cable or adapter to feed video from your computer's DisplayPort into the tablet's USB-C port. These only carry **video** - not data and not power - so you'd use one as the video cable in a two- or three-cable setup. This is the approach I personally use; it's inexpensive and reliable.
 * **HDMI → USB-C.** These adapters exist, but I haven't used them. HDMI carries only video (no data, no power). Honestly, if you have an HDMI port, you're usually better off using the HDMI 3-in-1 cable designed for your tablet instead. See [Connecting with HDMI](connecting-pen-display-hdmi.md).
 * **USB-A → USB-C.** An adapter won't help you get video. USB-A carries data and some power, but it does **not** carry a video signal (no DP alt mode).
 
@@ -212,8 +212,8 @@ Whether your computer has a USB-C port that works for a video connection depends
 
 On a desktop, USB-C ports can appear in two places, and both have catches:
 
-* **USB-C on the GPU (graphics card).** These are uncommon, and even when present they usually send video (and maybe data) but almost never supply power — so they generally don't work for a one-cable connection. More here: [Connecting a pen display to a USB-C port on a GPU](connecting-pen-display-gpu-usbc.md).
-* **USB-C (Thunderbolt) on the motherboard I/O panel.** Here's a surprise: you can have clearly-labeled Thunderbolt USB-C ports on the motherboard, plug in your pen display, and still get **no video signal**. That's because the motherboard port often has no video source of its own. The fix is to route video from the GPU into that port: check that your motherboard has a **DisplayPort IN** connector and your GPU has a **DisplayPort OUT**, then connect the two with a DisplayPort cable. That feeds the GPU's video into the motherboard's Thunderbolt port so it can pass video on to your tablet. Some unlabeled motherboard USB-C ports can work the same way — check your motherboard's documentation to confirm.
+* **USB-C on the GPU (graphics card).** These are uncommon, and even when present they usually send video (and maybe data) but almost never supply power - so they generally don't work for a one-cable connection. More here: [Connecting a pen display to a USB-C port on a GPU](connecting-pen-display-gpu-usbc.md).
+* **USB-C (Thunderbolt) on the motherboard I/O panel.** Here's a surprise: you can have clearly-labeled Thunderbolt USB-C ports on the motherboard, plug in your pen display, and still get **no video signal**. That's because the motherboard port often has no video source of its own. The fix is to route video from the GPU into that port: check that your motherboard has a **DisplayPort IN** connector and your GPU has a **DisplayPort OUT**, then connect the two with a DisplayPort cable. That feeds the GPU's video into the motherboard's Thunderbolt port so it can pass video on to your tablet. Some unlabeled motherboard USB-C ports can work the same way - check your motherboard's documentation to confirm.
 
 ## Adding a USB-C with DisplayPort to your computer
 

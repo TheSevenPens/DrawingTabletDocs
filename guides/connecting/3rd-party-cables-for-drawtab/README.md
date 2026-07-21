@@ -6,8 +6,8 @@ Your drawing tablet comes with the cables needed to connect it to a computer.
 
 You can often use other cables, depending on the tablet and computer.
 
-* Pen tablets — you can almost always use a 3rd-party cable.
-* Pen displays — you can often use a 3rd-party cable, but a manufacturer cable is sometimes the best or only option.
+* Pen tablets - you can almost always use a 3rd-party cable.
+* Pen displays - you can often use a 3rd-party cable, but a manufacturer cable is sometimes the best or only option.
 
 ## Using 3rd-party USB cables for pen tablets
 
@@ -16,7 +16,7 @@ For pen tablets, I recommend using the manufacturer cables when possible. But th
 If you use a 3rd-party cable, make sure it can do two things:
 
 * Can carry power
-* Can carry data — not all USB-C cables carry data. Some are power-only.
+* Can carry data - not all USB-C cables carry data. Some are power-only.
 
 Can you use the cable that you use for other devices? Yes, as long as it can carry power and data.
 

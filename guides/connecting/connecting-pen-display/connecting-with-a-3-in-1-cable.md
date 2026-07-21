@@ -49,7 +49,7 @@ Many modern pen displays have **two** USB-C ports. Which one the 3-in-1 cable go
 * Some want you to use the bottom port.
 * Some let you use either one.
 
-The most reliable way to know is to **read your tablet's user manual** — it will have a diagram showing exactly where the cable goes.
+The most reliable way to know is to **read your tablet's user manual** - it will have a diagram showing exactly where the cable goes.
 
 ## 3-in-1 cable compatibility
 
@@ -92,4 +92,4 @@ I strongly recommend that you always plug in all three parts of the 3-in-1 cable
 
 ## If the data cable is not connected
 
-If you forget the **data** cable, your tablet driver will report that the tablet is not detected — even if you can see an image on the screen. That's because the video and data connections are separate: the screen can light up from the video cable while the driver still has no way to receive pen data. If the driver says your tablet isn't connected, check the data (USB-A) cable first. See [TSG: Tablet driver does not detect tablet](../../../troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md).
+If you forget the **data** cable, your tablet driver will report that the tablet is not detected - even if you can see an image on the screen. That's because the video and data connections are separate: the screen can light up from the video cable while the driver still has no way to receive pen data. If the driver says your tablet isn't connected, check the data (USB-A) cable first. See [TSG: Tablet driver does not detect tablet](../../../troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md).

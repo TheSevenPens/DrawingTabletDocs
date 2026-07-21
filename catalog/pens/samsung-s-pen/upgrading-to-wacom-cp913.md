@@ -7,8 +7,8 @@ Devices that work with the Samsung S Pen also work with other UD EMR pens. In pa
 If you are currently using an S Pen with your device, consider buying a Wacom CP-913 to use with it.
 
 * At the very least, you will have a backup pen.
-* Max pressure — The CP-913 pen has a higher maximum pressure than the S Pen.
-* IAF — The CP-913 has a similar IAF to the Samsung S Pen, and it may be slightly lower in the models I have tested. Keep in mind that individual units vary.
+* Max pressure - The CP-913 pen has a higher maximum pressure than the S Pen.
+* IAF - The CP-913 has a similar IAF to the Samsung S Pen, and it may be slightly lower in the models I have tested. Keep in mind that individual units vary.
 
 [Wacom One Pen (CP-913) notes](../wacom-pens/wacom-cp913-notes.md)
 

@@ -108,7 +108,7 @@ This requires 3 cables:
 This requires 2 cables:
 
 * Power
-* Full-featured USB-C — your computer needs a USB-C port that meets all the requirements.
+* Full-featured USB-C - your computer needs a USB-C port that meets all the requirements.
 
 <figure><img src="../../../.gitbook/assets/huion-gs2203-notes-2.png" alt=""><figcaption></figcaption></figure>
 

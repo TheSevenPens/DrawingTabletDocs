@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Some drawing tablets — very few — have a "reset" feature.
+Some drawing tablets - very few - have a "reset" feature.
 
 Check your user manual or contact support to see if your tablet has this feature.
 

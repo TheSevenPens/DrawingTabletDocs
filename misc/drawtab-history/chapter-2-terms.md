@@ -2,7 +2,7 @@
 
 ## Etymology
 
-The modern words we use for drawing tablets — draw, tablet, pen, and stylus — are also ancient.
+The modern words we use for drawing tablets - draw, tablet, pen, and stylus - are also ancient.
 
 **Tablet** comes to us from Latin **tabula** which had the senses of "a board", "plank", and very relevant for us "writing table". More here: [https://etymonline.com/word/table](https://etymonline.com/word/table)
 
@@ -10,7 +10,7 @@ The modern words we use for drawing tablets — draw, tablet, pen, and stylus �
 
 **Pen** comes from Latin **penna** meaning "feather". As you may remember, a feather being hollow when dipped into ink can be used as a writing device.
 
-**Draw** is related to **drag**, and both come from Proto-Germanic _\*draganan_. The sense of these words comes from pulling something along. Even today, you can see the word "draw" used in ways that do not involve making pictures, but still reflect that pulling sense — "Sally draws water from a well," "the sheriff drew his gun," and "I had a blood sample drawn." More here: [https://www.etymonline.com/word/draw](https://www.etymonline.com/word/draw) and [https://www.etymonline.com/word/drag](https://www.etymonline.com/word/drag).
+**Draw** is related to **drag**, and both come from Proto-Germanic _\*draganan_. The sense of these words comes from pulling something along. Even today, you can see the word "draw" used in ways that do not involve making pictures, but still reflect that pulling sense - "Sally draws water from a well," "the sheriff drew his gun," and "I had a blood sample drawn." More here: [https://www.etymonline.com/word/draw](https://www.etymonline.com/word/draw) and [https://www.etymonline.com/word/drag](https://www.etymonline.com/word/drag).
 
 ## Pen vs stylus
 

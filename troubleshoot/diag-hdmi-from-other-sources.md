@@ -2,7 +2,7 @@
 
 ## Overview
 
-Among other things that a pen display receives from your computer, it also receives a "display signal." A display signal essentially means video — what you see on the pen display.
+Among other things that a pen display receives from your computer, it also receives a "display signal." A display signal essentially means video - what you see on the pen display.
 
 Normally your pen display will be connected to your computer, which provides a display signal via an HDMI connection.
 

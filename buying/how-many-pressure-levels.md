@@ -2,7 +2,7 @@
 
 ## Overview
 
-You need about 2,000 levels of pressure — and could probably get by with far less.
+You need about 2,000 levels of pressure - and could probably get by with far less.
 
 These days, it's fashionable for drawing tablets to advertise 8,000 or 16,000 levels of pressure. In my analysis, the vast majority of users only need about 2,000 levels and could get by with far less.
 

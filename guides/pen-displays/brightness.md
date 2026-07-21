@@ -42,4 +42,4 @@ Includes only pen displays released since 2020.
 
 ## Fan noise
 
-A few tablets — only Wacom as far as I know — have fans. These fans help keep their brighter displays cool. The fan noise can be disturbing for some people. For others, it does not matter.
+A few tablets - only Wacom as far as I know - have fans. These fans help keep their brighter displays cool. The fan noise can be disturbing for some people. For others, it does not matter.

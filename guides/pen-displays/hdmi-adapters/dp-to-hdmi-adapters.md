@@ -12,9 +12,9 @@ DisplayPort is the most popular video port on GPUs, so a DisplayPort-to-HDMI ada
 
 DisplayPort comes in more than one shape, and they all do the same job:
 
-* **Full-size DisplayPort** — the most common shape you'll see on a GPU.
-* **Mini DisplayPort** — a smaller connector with the same performance and capabilities as full-size DisplayPort.
-* **Thunderbolt 1 and Thunderbolt 2** — found on older MacBooks and Apple devices. These ports have the _same shape_ as Mini DisplayPort and are essentially a superset of it, so any Mini DisplayPort adapter will fit and work.
+* **Full-size DisplayPort** - the most common shape you'll see on a GPU.
+* **Mini DisplayPort** - a smaller connector with the same performance and capabilities as full-size DisplayPort.
+* **Thunderbolt 1 and Thunderbolt 2** - found on older MacBooks and Apple devices. These ports have the _same shape_ as Mini DisplayPort and are essentially a superset of it, so any Mini DisplayPort adapter will fit and work.
 
 Just make sure the adapter's connector matches the port shape you have.
 

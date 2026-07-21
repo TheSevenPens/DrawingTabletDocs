@@ -8,26 +8,26 @@ For this use case, you want reliability and durability. You do not need to spend
 
 ## What features you need
 
-* Pressure support — helps strokes look more natural. All drawing tablets support pressure.
-* Tilt — not needed for educational use. It matters more for art.
-* Tablet buttons, also called ExpressKeys — these can be very useful. Some people rely on them. There is no downside to having them, because you can disable them.
-* Size — medium or small. I recommend medium. Some people are fine with small tablets, but many say they feel cramped.
+* Pressure support - helps strokes look more natural. All drawing tablets support pressure.
+* Tilt - not needed for educational use. It matters more for art.
+* Tablet buttons, also called ExpressKeys - these can be very useful. Some people rely on them. There is no downside to having them, because you can disable them.
+* Size - medium or small. I recommend medium. Some people are fine with small tablets, but many say they feel cramped.
 
 ## **My recommendations**
 
 **Pen tablets (no screen)**
 
-* One by Wacom Medium (CTL-672) — [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
+* One by Wacom Medium (CTL-672) - [One by Wacom (CTL-x72) notes](../../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md)
 * Wacom Intuos Medium (CTL-6100 or CTL-6100WL)
 * XP-Pen Deco MW
 * XP-Pen Deco LW
 
 **Pen displays (have a screen)**
 
-* Huion Kamvas 13 GEN3 (GS1333) — [Huion Kamvas 13 GEN3 (GS1333) notes](../../catalog/drawtabs/huion/huion-gs1333-notes.md)
+* Huion Kamvas 13 GEN3 (GS1333) - [Huion Kamvas 13 GEN3 (GS1333) notes](../../catalog/drawtabs/huion/huion-gs1333-notes.md)
 * XP-Pen Artist 12 GEN2 (CD120FH)
 * XP-Pen Artist 13 GEN2 (CD130FH)
-* Wacom One 2019 (DTC-133) — [Wacom One 2019 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
+* Wacom One 2019 (DTC-133) - [Wacom One 2019 (DTC-133) notes](../../catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md)
 
 ## Which tablet does Sal Khan use?
 
@@ -39,7 +39,7 @@ Khan Academy also has this document: [**What software program/equipment is used 
 
 ## Resources
 
-* [Teach with Khan - Sal's Tips for Creating Blackboard Videos for Remote Learning](https://www.youtube.com/watch?v=qcqPMKAVM04) — this is the video where he shows that he uses a Wacom Intuos Pro Medium.
+* [Teach with Khan - Sal's Tips for Creating Blackboard Videos for Remote Learning](https://www.youtube.com/watch?v=qcqPMKAVM04) - this is the video where he shows that he uses a Wacom Intuos Pro Medium.
 * [Khan Academy - Be Like Sal: 3 Ways a Tablet Can Energize Your Digital Teaching!](https://www.youtube.com/watch?v=ITsSBEkEo0c) 2020-12-09
 * [ClassPoint - Best Way to Use Wacom Tablet for Online Teaching with PowerPoint](https://www.youtube.com/watch?v=HV9BVNpwtZs) \[One by Wacom] 2020-12-02
 * [Joshua Tarbutton - My Workflow for Recording Khan Academy Style Lectures](https://www.youtube.com/watch?v=i_YvA5quXMY) 2020-03-28

@@ -6,7 +6,7 @@ We would all like to have brand-new equipment. However, used tablets can be a go
 
 ## My experience with used drawing tablets
 
-I have bought and worked with MANY used drawing tablets — 26 used tablets as of April 2024. You can see the full list here: [Tablet inventory](../about/inventory.md)
+I have bought and worked with MANY used drawing tablets - 26 used tablets as of April 2024. You can see the full list here: [Tablet inventory](../about/inventory.md)
 
 * **pen tablets** - Pen tablets are generally very reliable devices and are fine to buy used. I own many used pen tablets, some over 25 years old, that still work.
 * **pen displays** - I have purchased four used pen displays.
@@ -42,7 +42,7 @@ Then compare what the manufacturer includes with what the seller has available. 
 
 ## Be prepared to clean the tablet
 
-Some used tablets arrive in pristine condition — either through disuse or because the seller thoroughly cleaned the tablet beforehand.
+Some used tablets arrive in pristine condition - either through disuse or because the seller thoroughly cleaned the tablet beforehand.
 
 Sometimes, though, the tablets are filthy. For example, they may:
 
@@ -54,7 +54,7 @@ It may be worth asking the seller how clean the tablet is.
 
 ## Notes on Wacom drivers
 
-* As of Wacom Driver 6.4.0, released in October 2022, Wacom has dropped support for Intuos 5 tablets and older Intuos tablets — except for the Wacom Intuos 4 XL, which is still supported. ([https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.0.html))
+* As of Wacom Driver 6.4.0, released in October 2022, Wacom has dropped support for Intuos 5 tablets and older Intuos tablets - except for the Wacom Intuos 4 XL, which is still supported. ([https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows\_6.4.0.html](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.0.html))
 
 ## Alternative to Wacom drivers for older tablets
 
@@ -73,9 +73,9 @@ You can find many tablets on eBay. I've had a good experience with the 25+ table
 * When reading the item description, I made sure:
   * The surface didn't have any visible signs of wear
   * The tablet came with a pen
-  * The tablet came with the cables it needed — this is very important if the tablet uses proprietary cables
+  * The tablet came with the cables it needed - this is very important if the tablet uses proprietary cables
 * Listings on sites like eBay let the seller provide photos. Sometimes the initial photo is the official product photo pulled from the manufacturer's website.
-  * Remember — the seller may have used the image for the wrong tablet.
+  * Remember - the seller may have used the image for the wrong tablet.
   * Some people advise being very cautious when you see an official product photo in a listing, as it may not match the actual product being sold.
   * Always verify with photos of the actual tablet.
 
@@ -83,7 +83,7 @@ You can find many tablets on eBay. I've had a good experience with the 25+ table
 
 You must be extra careful to verify that you are purchasing the correct tablet. Always verify the MODEL NUMBER, not just the name. The importance of using the model number is explained here: [Model names vs model numbers](../guides/general/model-names-vs-model-numbers.md). If the seller is unsure of the model number, see this article: [Finding the model number of your drawing tablet](../guides/general/finding-tablet-model-number.md)
 
-Don't rely on the model number in the listing title — always check photos of the actual product from the seller.
+Don't rely on the model number in the listing title - always check photos of the actual product from the seller.
 
 ## Official tablet brand stores on eBay
 

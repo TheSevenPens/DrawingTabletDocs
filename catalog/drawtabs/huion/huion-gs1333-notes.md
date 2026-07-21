@@ -176,7 +176,7 @@ I set the brightness to 100% and continued to use the tablet for 1 hour.
 
 The left two-thirds of the tablet felt like room temperature to my hands.
 
-The right one-third of the tablet got slightly warm — mostly near the USB-C ports. The warmth did not concern me and seemed very normal for a pen display.
+The right one-third of the tablet got slightly warm - mostly near the USB-C ports. The warmth did not concern me and seemed very normal for a pen display.
 
 ## Audio
 

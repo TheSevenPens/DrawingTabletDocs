@@ -47,7 +47,7 @@ The one on the right represents a more extreme example. You can clearly see the 
 
 ### Example 2
 
-It could also look like this — this is a very close-up view.
+It could also look like this - this is a very close-up view.
 
 <figure><img src="../../.gitbook/assets/ag-sparkle-5.png" alt=""><figcaption></figcaption></figure>
 

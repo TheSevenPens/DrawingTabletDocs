@@ -40,7 +40,7 @@ Some of these ports are digital (DisplayPort, DVI-D, USB-C) and some are analog 
 
 ## Try to avoid adapters when you can
 
-An adapter is one more component that can introduce a problem. If you have a native HDMI port available, use it. That said, I've used many adapters — especially DisplayPort-to-HDMI — with great results.
+An adapter is one more component that can introduce a problem. If you have a native HDMI port available, use it. That said, I've used many adapters - especially DisplayPort-to-HDMI - with great results.
 
 ## General flakiness
 

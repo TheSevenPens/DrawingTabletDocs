@@ -20,7 +20,7 @@ The skills required include disassembling the tablet, soldering, working with ti
 
 ## Alternatives for non-experts
 
-**Adapters for Micro USB to USB-C** — if your tablet already works and has a Micro USB port, an adapter is an easy and cheap solution. These work fine, but make sure they support both power and data. They also tend to stick out a bit from the tablet, so avoid pushing up or down on them because that can loosen or damage the port. They have worked well for me. I use them with all my older tablets that have Micro USB ports.
+**Adapters for Micro USB to USB-C** - if your tablet already works and has a Micro USB port, an adapter is an easy and cheap solution. These work fine, but make sure they support both power and data. They also tend to stick out a bit from the tablet, so avoid pushing up or down on them because that can loosen or damage the port. They have worked well for me. I use them with all my older tablets that have Micro USB ports.
 
 ## Where to get expert help
 

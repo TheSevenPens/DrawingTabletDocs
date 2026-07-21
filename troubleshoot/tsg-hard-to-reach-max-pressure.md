@@ -24,7 +24,7 @@ Does it manifest in an application like Krita?
 
 ## Pen hardware issue
 
-If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself. Occasionally, pen hardware can have a very high maximum pressure — I've seen up to about 5x higher than normal for a pen.
+If it happens in the driver at all, then most likely there is something wrong with the pen hardware itself. Occasionally, pen hardware can have a very high maximum pressure - I've seen up to about 5x higher than normal for a pen.
 
 ### Example of a pen with abnormal max pressure
 

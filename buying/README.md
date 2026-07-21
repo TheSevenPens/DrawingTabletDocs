@@ -65,14 +65,14 @@ If you decide on Wacom and want a pen tablet, read this guide: [Wacom pen tablet
 ## **Core features**
 
 * **Tablet size** - Size has a BIG impact on the ergonomics of using the tablet, and different sizes serve different user needs. This guide on [Choosing the right size for a drawing tablet](choosing-size.md) will help you find a size that works for you.
-* **The pen** (also called a stylus) is how you provide input to the tablet. All drawing tablets come with a pen. Some pro tablets come with two pens. You have to PAY ATTENTION TO THE PEN. The pen controls how well pressure works — not the tablet.
+* **The pen** (also called a stylus) is how you provide input to the tablet. All drawing tablets come with a pen. Some pro tablets come with two pens. You have to PAY ATTENTION TO THE PEN. The pen controls how well pressure works - not the tablet.
 * **Pen pressure handling** - The pen can detect how much pressure you are applying to its tip. All drawing tablet pens sense pressure. More info: [Pen pressure](../core/pressure/). There are some aspects of pressure you need to be aware of.
   * **Initial Activation Force (IAF)** is the smallest pressure that activates the pen. In general, you want a pen with a low IAF. For details on what IAF values are good or bad, go here: [IAF](../core/pressure/iaf.md)
   * The **Maximum Physical Pressure** is the most pressure the pen can detect.
   * The **Physical Pressure Range** is the difference between the maximum pressure and the IAF. You want a wide enough pressure range because it makes pressure easier to control. For details on what is good or bad for pressure range, go here: [Pen pressure range](../core/pressure/pen-pressure-range.md)
   * **Pressure levels** - the physical pressure range is divided into segments. Each segment is a pressure level. They go from 0 to some number like 8192. Despite what marketing says, I believe you only need 2048 pressure levels. All modern tablets have at least 4096 levels, and 99.9% have 8192 or more. You do not need to worry about the number of pressure levels when selecting a tablet. Every tablet on the market has enough.
 * **Pen tilt detection** - the tablet can detect the tilt of the pen to adjust brush strokes, which can be very useful for certain kinds of artwork. But some people do not use tilt at all, and tilt is not useful for note-taking or whiteboarding. Almost all modern tablets support tilt, with fewer than a handful of exceptions. More here: [Pen tilt](../core/pen-tilt/).
-* **Digitizer resolution -** This is how accurately the tablet can sense different pen positions — in other words, its ability to detect very tiny position changes. Most tablets have a reported resolution of 5080 LPI (lines per inch), which translates to 200 lines per mm. Wacom tech is superior here, but if you are drawing you will not notice the difference. You don't need to worry about this spec. All modern tablets have enough resolution.
+* **Digitizer resolution -** This is how accurately the tablet can sense different pen positions - in other words, its ability to detect very tiny position changes. Most tablets have a reported resolution of 5080 LPI (lines per inch), which translates to 200 lines per mm. Wacom tech is superior here, but if you are drawing you will not notice the difference. You don't need to worry about this spec. All modern tablets have enough resolution.
 
 ## **Things to watch out for**
 
@@ -147,7 +147,7 @@ More here: [Operating systems](../guides/platforms/)
 
 ## Ergonomics
 
-* **Thickness** - Pen tablets are very thin these days — about 8mm. Smaller pen displays can be around 10mm; larger pen displays can be 35mm.
+* **Thickness** - Pen tablets are very thin these days - about 8mm. Smaller pen displays can be around 10mm; larger pen displays can be 35mm.
 * **Surface texture** - If you are drawing, you may have strong preferences about the feel of your tablet's surface. All drawing tablets have some texture, but there is quite a bit of variation, and there are ways to achieve the texture you want. For example, many people want a rougher texture like paper. Learn more here: [Surface texture](../core/surface-texture.md)
 * **Body posture** - With a pen tablet, your torso will naturally have a more upright posture because you look at your monitor while your hand rests on the tablet on your desk. With a pen display, you lean forward to draw since you must look down at the display on your desk. You may experience lower back pain or neck strain. More here: [Body posture when using drawing tablets](../guides/ergonomics/posture.md)
 * **Arm mounting** - Pen displays are essentially monitors, and many, but not all, have a VESA mount on the back. This lets you keep the pen display out of the way when not in use and pull it close when you want to draw. Pen tablets have no built-in mounting capability. See: [Monitor arms](../catalog/accessories/arms/)
@@ -189,7 +189,7 @@ Different types of tablets draw different amounts of power. Pen tablets require 
 
 ## So-called "PRO" tablets
 
-Some tablets are labelled "PRO" — for example, Wacom Cintiq Pro or Wacom Intuos Pro — but there is no clear definition of "Pro" in the industry. Many newer non-Pro tablets outperform older Pro tablets. More here: ["PRO" tablets](pro-drawtabs.md)
+Some tablets are labelled "PRO" - for example, Wacom Cintiq Pro or Wacom Intuos Pro - but there is no clear definition of "Pro" in the industry. Many newer non-Pro tablets outperform older Pro tablets. More here: ["PRO" tablets](pro-drawtabs.md)
 
 ## Picking tablets with more recent tech
 

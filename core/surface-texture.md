@@ -20,7 +20,7 @@ I have used pen tablets for 30 years. Here are my observations:
 * Older tablets are sometimes a little too smooth compared to modern ones.
 * It is certainly possible to run into a tablet with more texture than you want. Intuos Pro 2017 models were known for this.
 * The consequences of high texture in a pen tablet are
-  * Noise — you might hear the nib making sounds on the surface. This can be irritating.
+  * Noise - you might hear the nib making sounds on the surface. This can be irritating.
   * Heavily textured surfaces can wear down the nib faster, especially if you do a lot of back-and-forth motion. For some people, the Intuos Pro 2017 was a true "nib-eater."
 
 ## Pen displays

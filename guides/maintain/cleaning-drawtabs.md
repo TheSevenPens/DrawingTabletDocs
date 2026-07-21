@@ -27,11 +27,11 @@ Do not use any of these:
 
 ## How I clean my tablets
 
-STEP 1 — First, I remove dust from tablets, pens, and monitors with a microfiber duster. Specifically, I use the **OXO Good Grips Microfiber Hand Duster** ($12), which I bought on Amazon. The red microfiber brush can be detached, cleaned in a washing machine, and then dried on low heat.
+STEP 1 - First, I remove dust from tablets, pens, and monitors with a microfiber duster. Specifically, I use the **OXO Good Grips Microfiber Hand Duster** ($12), which I bought on Amazon. The red microfiber brush can be detached, cleaned in a washing machine, and then dried on low heat.
 
 <figure><img src="../../.gitbook/assets/cleaning-drawtabs-1.jpg" alt="" width="375"><figcaption><p><strong>OXO Good Grips Microfiber Hand Duster</strong></p></figcaption></figure>
 
-STEP 2 — I gently wipe down the tablet with a damp cloth, microfiber cloth, or towel.
+STEP 2 - I gently wipe down the tablet with a damp cloth, microfiber cloth, or towel.
 
 * OPTION 1: If the tablet is a little greasy, I may put a bit of soapy water on the damp cloth. I want to emphasize that the cloth is **damp** and **not wet**. You should not have any water dripping from the cloth.
 * OPTION 2: Since September 2024, for pen displays I have switched from soapy water to screen cleaning sprays such as WOOSH and MISTIFY. More here: [Screen cleaning sprays](../../catalog/accessories/screen-cleaning-sprays.md).

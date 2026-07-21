@@ -2,7 +2,7 @@
 
 Many people use drawing tablets to play osu!. More here: [Gaming with a drawing tablet](../../basics/scenarios/gaming.md)
 
-If you are interested in playing osu! with a drawing tablet, do not rely on recommendations from drawing tablet reviewers — they focus on the needs of creative users. Don't rely on my recommendations for the same reason.
+If you are interested in playing osu! with a drawing tablet, do not rely on recommendations from drawing tablet reviewers - they focus on the needs of creative users. Don't rely on my recommendations for the same reason.
 
 Instead, the definitive resource to consult is [Kuuube's tablet buying guide](../../resources/community/kuuube/kuuube-drawtab-buying-guide.md).
 

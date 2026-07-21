@@ -22,7 +22,7 @@ When dealing with this topic, it is helpful to clarify two terms. Not everyone u
 
 For any rectangle that is composed of or can be decomposed into smaller elements:
 
-* **Resolution** refers to the dimensions — the width and height of an area in a given unit. For example, 1920 pixels by 1080 pixels.
+* **Resolution** refers to the dimensions - the width and height of an area in a given unit. For example, 1920 pixels by 1080 pixels.
 * **Density** refers to how many elements are packed into a given length. For example, pixels per inch or lines per inch.
 
 ## Digitizer density

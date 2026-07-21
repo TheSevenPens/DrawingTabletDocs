@@ -139,7 +139,7 @@ Procreate Alternatives for Android
 
 ## Touch
 
-iPads and iPad apps have terrific touch support — the best in the industry, in my opinion.
+iPads and iPad apps have terrific touch support - the best in the industry, in my opinion.
 
 Naturally you will want to understand if touch is supported if you switch to a drawing tablet.
 

@@ -6,7 +6,7 @@
 Read this first: [Connecting a pen display](./)
 {% endhint %}
 
-There are two common ways to get a video signal to a pen display: an **HDMI** cable or a **USB-C** cable. This page covers the **HDMI** approach — how to connect to an HDMI port, and what to do if you don't have one. For the other approach, see [Connecting a pen display with USB-C](connecting-pen-display-usbc.md).
+There are two common ways to get a video signal to a pen display: an **HDMI** cable or a **USB-C** cable. This page covers the **HDMI** approach - how to connect to an HDMI port, and what to do if you don't have one. For the other approach, see [Connecting a pen display with USB-C](connecting-pen-display-usbc.md).
 
 ## Video
 
@@ -108,17 +108,17 @@ You may see these caps referred to as:
 * port protectors
 * port caps
 
-These caps are often black and easy to miss. They pull off with almost no effort, and they do **not** mean the port is unusable — they only protect the port from dust and damage. I mention this because people often conclude they "don't have a port" when it is simply capped and they do not realize what they are looking at.
+These caps are often black and easy to miss. They pull off with almost no effort, and they do **not** mean the port is unusable - they only protect the port from dust and damage. I mention this because people often conclude they "don't have a port" when it is simply capped and they do not realize what they are looking at.
 
 ## Not enough HDMI ports?
 
 A very common situation: your computer has one HDMI port, but it is already being used by a monitor.
 
-Before you buy anything, know that **most modern GPUs have only one HDMI port but several DisplayPort ports**. So you often have more video outputs than you think — they just aren't HDMI. Here are your options, roughly best to worst:
+Before you buy anything, know that **most modern GPUs have only one HDMI port but several DisplayPort ports**. So you often have more video outputs than you think - they just aren't HDMI. Here are your options, roughly best to worst:
 
 * **Move your monitor to a DisplayPort connection.** Many monitors accept DisplayPort. If you connect the monitor with DisplayPort, that frees up the HDMI port for your pen display.
 * **Use an adapter** to convert another video output (DisplayPort, USB-C, DVI, VGA) to HDMI. See [Using HDMI adapters with pen displays](../../pen-displays/hdmi-adapters/).
-* **Add or upgrade a graphics card** so you have more — and better — video outputs.
+* **Add or upgrade a graphics card** so you have more - and better - video outputs.
 * **Avoid HDMI splitters.** They can be flaky, they can only mirror the same image to both displays, and your computer sees them as a single display. More here: [Using HDMI splitters with pen displays](../../pen-displays/hdmi-splitters.md).
 
 ### No HDMI ports at all?

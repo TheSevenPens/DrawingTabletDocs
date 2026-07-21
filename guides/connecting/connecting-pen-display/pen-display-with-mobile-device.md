@@ -21,4 +21,4 @@ This guide focuses on how a pen display connects to a mobile device, such as a p
 ## Specific cases
 
 * [Wacom One 2019 GEN1 (DTC-133) to Android device](https://support.wacom.com/hc/en-us/articles/1500006333362-How-do-I-connect-the-Wacom-One-DTC133-to-a-compatible-Android-device-)
-* Apple iPhones — these phones do not work with pen displays.
+* Apple iPhones - these phones do not work with pen displays.

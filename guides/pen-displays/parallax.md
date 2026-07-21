@@ -66,7 +66,7 @@ The Apple iPad Pro has the best (lowest) parallax I've ever seen. I would rank i
 
 Consider these two cases:
 
-1. A pen display that tracks the pen position **perfectly**. If there is any distance between the display panel and where the pen tip touches the tablet, then there will still be some parallax — an apparent inaccuracy.
+1. A pen display that tracks the pen position **perfectly**. If there is any distance between the display panel and where the pen tip touches the tablet, then there will still be some parallax - an apparent inaccuracy.
 2. A pen display that does not track the pen position accurately but also has no distance between the display panel and the pen tip. Such a pen display would have no parallax effect, but there would still be real inaccuracy.
 
 So we see that inaccuracy comes from two sources:

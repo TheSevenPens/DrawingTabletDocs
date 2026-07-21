@@ -21,7 +21,7 @@ If you already have a Wacom professional tablet, switching to another brand is u
 
 As of 2026, Wacom professional pens still have the lowest IAF in the industry, meaning they can detect extremely light pressure. Other brands have gotten closer over the years, but they still do not match what Wacom professional pens offer in terms of sensitivity.
 
-If having a pen that is extremely sensitive to pressure is important to you — one that detects very light strokes — you may not enjoy the transition to another brand.
+If having a pen that is extremely sensitive to pressure is important to you - one that detects very light strokes - you may not enjoy the transition to another brand.
 
 More here: [2025 Professional pens compared](../../recs/comparisons/2025-pro-pens-compared.md)
 
@@ -44,7 +44,7 @@ If you have these tablets, you might get a better experience with a newer non-Wa
 
 At any given moment, Wacom produces only a small number of tablets and doesn't release new products very often. This makes their lineup relatively simple to understand.
 
-Wacom tablets have a support lifetime of about a decade and can often be used even longer. Some people are still using Wacom tablets from two decades ago — for example, the Intuos 3, a professional series released in 2012.
+Wacom tablets have a support lifetime of about a decade and can often be used even longer. Some people are still using Wacom tablets from two decades ago - for example, the Intuos 3, a professional series released in 2012.
 
 Non-Wacom brands release a lot of products, and you can find a confusing mix of older and newer models available for sale at the same time. This creates a risk of purchasing an older tablet that will not be as good as a newer one.
 
@@ -62,25 +62,25 @@ For non-Wacom brands, here are the pens that indicate a tablet uses the latest t
 
 Tablet drivers are critical for successfully using a drawing tablet.
 
-There has never been a clear pattern showing that a specific brand has better drivers than the others — experiences vary widely from person to person.
+There has never been a clear pattern showing that a specific brand has better drivers than the others - experiences vary widely from person to person.
 
 For some people, Wacom tablet drivers are very reliable and cause no problems at all. That has been my experience. However, for others, Wacom drivers have been very unreliable.
 
 The same can be said for any other brand.
 
-So if you're hoping for better drivers by switching brands, it's certainly possible — but don't assume it.
+So if you're hoping for better drivers by switching brands, it's certainly possible - but don't assume it.
 
 ## Mixing tablets and drivers on the same machine
 
 Say you have a Wacom pen tablet like an Intuos Pro and you're also interested in getting a pen display from a non-Wacom brand like a Huion Kamvas.
 
-Many people hope to use both tablets with the same computer — not literally drawing with two hands at once, but being able to switch between them depending on what they're doing. That makes total sense.
+Many people hope to use both tablets with the same computer - not literally drawing with two hands at once, but being able to switch between them depending on what they're doing. That makes total sense.
 
 However, having drivers from different brands installed on the same computer may not work.
 
 On Windows, it almost certainly will not work. It's best to have only one tablet driver running at a time on Windows, as tablet drivers from different brands tend to conflict with each other. Some people work around this by installing both drivers and manually disabling one when they want to use the other tablet.
 
-On macOS, my experience has been quite different — tablet drivers tend to coexist much more reliably. My own experience with this has been very good. However, some people find that mixing tablet drivers on macOS also causes problems.
+On macOS, my experience has been quite different - tablet drivers tend to coexist much more reliably. My own experience with this has been very good. However, some people find that mixing tablet drivers on macOS also causes problems.
 
 ## Moving to Wacom
 

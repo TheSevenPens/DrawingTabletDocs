@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Size = Active Area Size.** The size of a tablet is NOT measured by the physical size of the device. Instead, we measure the diagonal of the ACTIVE AREA — the region on the tablet's surface that responds to the EMR pen. Learn more: [Active area](../core/active-area/) and [Active area size](../core/active-area/active-area-size.md)
+**Size = Active Area Size.** The size of a tablet is NOT measured by the physical size of the device. Instead, we measure the diagonal of the ACTIVE AREA - the region on the tablet's surface that responds to the EMR pen. Learn more: [Active area](../core/active-area/) and [Active area size](../core/active-area/active-area-size.md)
 
 ## Companion Video
 
@@ -10,7 +10,7 @@
 
 ## My size categories
 
-I've given convenient labels ("small", "medium", "large") to drawing tablets to make it easier to talk about their sizes. These categories are based on the standard sizes Wacom uses. The sizes are approximate — for each category, a typical value and a range are provided.
+I've given convenient labels ("small", "medium", "large") to drawing tablets to make it easier to talk about their sizes. These categories are based on the standard sizes Wacom uses. The sizes are approximate - for each category, a typical value and a range are provided.
 
 See: [Standard drawing tablet sizes](../ref/standard-drawtab-sizes.md)
 
@@ -18,7 +18,7 @@ See: [Standard drawing tablet sizes](../ref/standard-drawtab-sizes.md)
 
 ## Manufacturer size categories
 
-Manufacturers sometimes include size categories in their tablet names. Don't rely on these — always calculate the actual diagonal measurement when comparing sizes.
+Manufacturers sometimes include size categories in their tablet names. Don't rely on these - always calculate the actual diagonal measurement when comparing sizes.
 
 Here are some good examples of why:
 
@@ -64,12 +64,12 @@ If you use a pen tablet, which has no screen, you use it alongside a monitor. Th
 
 * **SMALL (13")** pen displays may be good choices for children.
 * For drawing, the minimum size I'd recommend is **MEDIUM (16")**, though many people work very effectively with **SMALL (13")** pen displays.
-* **LARGE (24")** are great but take up a lot of desk space — make sure you have enough room.
+* **LARGE (24")** are great but take up a lot of desk space - make sure you have enough room.
 * I think the best balance is around 20" to 22". These offer enough drawing space without being too cumbersome, taking up too much desk space, or being difficult to move.
 
 ## Impact of pen display size
 
-* **Anti-glare sparkle** — For a given anti-glare treatment, the higher the pixels per inch, the more anti-glare sparkle you'll notice. For example, with the same anti-glare treatment, a 4K 24" display will show less sparkle than a 4K 16" display.
+* **Anti-glare sparkle** - For a given anti-glare treatment, the higher the pixels per inch, the more anti-glare sparkle you'll notice. For example, with the same anti-glare treatment, a 4K 24" display will show less sparkle than a 4K 16" display.
 
 ## Test the tablet before you buy
 
