@@ -57,13 +57,11 @@ The stroke quality with the new CP-923 pen is not good compared to the older CP-
 
 Very good. Almost no wobble visible at all speeds.
 
-### Wacom One 12 (DTC-121)
-
-![](../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-1.png)
-
 ### Wacom One 13 touch (DTH-134)
 
-### ![](../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-2.png)
+A moderate amount of wobble visisble in slow and fast strokes.
+
+<figure><img src="../../../../.gitbook/assets/Diag_Wobble_Wacom_DTH134.png" alt=""><figcaption></figcaption></figure>
 
 ## Tilt
 
