@@ -31,7 +31,15 @@ WINNER: Art Pen 2 has a higher maximum pressure but the Art Pen 1's MAX pressure
 
 WINNER: Art Pen 2
 
-I found The Art Pen 2 easier to hold. I the more narrow tip worked better for more angled strokes. With the Art Pen 1 the tip of the pen is thick enough it can contact the tablet surface even before you achieve maximum tilt
+I found The Art Pen 2 easier to hold. I the more narrow tip worked better for more angled strokes. With the Art Pen 1 the tip of the pen is thick enough it can contact the tablet surface even before you achieve maximum tilt.
+
+<figure><img src="../../../.gitbook/assets/20260722_182945 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/20260722_183011 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Eraser
 
@@ -46,6 +54,8 @@ WINNER: Art Pen 2
 The Art Pen 1 has to buttons and the Art Pen 2 has 3 buttons.
 
 I found the buttons on the Art Pen 2 to be better and less prone to accidental clicking.
+
+<figure><img src="../../../.gitbook/assets/20260722_183034 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Pointer lag
 
@@ -74,4 +84,6 @@ The Art Pen 1 is compatible with about 30 Wacom tablets. The Art Pen 2 is compat
 ## Nibs
 
 The pens with different nibs that are not cross compatible.
+
+<figure><img src="../../../.gitbook/assets/20260722_183548 (Large).jpg" alt=""><figcaption></figcaption></figure>
 

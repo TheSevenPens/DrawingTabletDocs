@@ -1,4 +1,4 @@
-# Wacom Art Pen (KP-701E)
+# Wacom Art Pen 1 (KP-701E) notes
 
 ## Pressure > IAF
 
@@ -29,3 +29,14 @@
 | WAP.0026     | WACOM  | 311.0                 | 282.9              |
 |              |        |                       |                    |
 
+## Photos
+
+
+
+<figure><img src="../../../.gitbook/assets/20260722_183229 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260722_183243 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260722_183303 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260722_183334 (Large).jpg" alt=""><figcaption></figcaption></figure>
