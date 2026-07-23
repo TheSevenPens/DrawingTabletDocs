@@ -576,7 +576,7 @@
     * [Wacom pens](catalog/pens/wacom-pens/README.md "Wacom")
       * [Wacom pen compatibility](catalog/pens/wacom-pens/wacom-pen-compatibility.md)
       * [Wacom Art Pen 2 (ACP-700) notes](catalog/pens/wacom-pens/wacom-acp700-notes.md "Art Pen 2 (ACP-700)")
-      * [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)](catalog/pens/wacom-pens/wacom-acp500-vd-kp701e.md "Art Pen 2 vs Art Pen 1")
+      * [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)](catalog/pens/wacom-pens/wacom-acp500-vs-kp701e.md "Art Pen 2 vs Art Pen 1")
       * [Wacom Pro Pen 3 (ACP-500) notes](catalog/pens/wacom-pens/wacom-acp500-notes.md "Pro Pen 3 (ACP-500)")
       * [Wacom Pro Pen 2 (KP-504E) notes](catalog/pens/wacom-pens/wacom-kp504e-notes.md "Pro Pen 2 (KP-504E)")
       * [Wacom 2K Pen (LP-190K)](catalog/pens/wacom-pens/wacom-lp190k-notes.md "2K Pen (LP-190K)")
