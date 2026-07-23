@@ -45,9 +45,7 @@ Only the Art Pen 1 has an eraser. Wacom removed the eraser from the Art Pen 2.
 
 WINNER: Art Pen 2
 
-The Art Pen 1 has two buttons, and the Art Pen 2 has three buttons.
-
-I found the buttons on the Art Pen 2 to be better and less prone to accidental clicking.
+The Art Pen 1 has two buttons, and the Art Pen 2 has three buttons. I found the buttons on the Art Pen 2 to be better and less prone to accidental clicking.
 
 <figure><img src="../../../.gitbook/assets/20260722_183034 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -57,11 +55,17 @@ NO DIFFERENCE — this is expected. Pens do not influence the amount of pointer 
 
 ## Tilt compensation
 
-NO DIFFERENCE.
+NO DIFFERENCE.&#x20;
+
+I noticed no difference in tilt compensation - both were had excellent tilt compensation which is normal for Wacom professional tablets/pens.&#x20;
 
 ## Barrel rotation
 
 NO DIFFERENCE.
+
+Barrel rotation behaved exactly the same with both pens.&#x20;
+
+Someone asked if there was any additional lag in barrel rotation with the new pen - and I can confirm there isn't. Both pens were exactly the same.
 
 ## Look & Feel
 
