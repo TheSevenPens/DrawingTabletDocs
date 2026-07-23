@@ -4,23 +4,23 @@
 
 Released in May 2025, the Art Pen 2 (ACP-700) is the successor to the much-beloved Art Pen (KP-701E).
 
-## Summary
+This is an EXCELLENT pen. I love how it feels and how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 (KP-504E). Be aware that only a few tablets support this pen. Some that do support it require a firmware update.
 
-EXCELLENT pen. I love how it feels and how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 (KP-504E). Be aware that only a few tablets support this pen. Some that do support it require a firmware update.
+For a comparision to the old pen, see: [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)](wacom-acp500-vd-kp701e.md)
 
 ## Driver version
 
-Older versions of the driver do not recognize the pen.&#x20;
+Older versions of the driver do not recognize the pen.
 
 The exact driver I used for testing was: 6.4.13-4
 
-## Tablet firmware&#x20;
+## Tablet firmware
 
 For some of the compatible tablets, a firmware update will be needed. See: [Wacom firmware updates](../../drawtabs/wacom/wacom-firmware-updates.md)
 
 The exact firmware installed at the time of testing is shown below:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Links
 
@@ -85,6 +85,8 @@ My measurements are very simmilar to what I found with the Pro Pen 3
 | Min       | 2.9      |
 | Median    | 3.3      |
 | Max       | 3.5      |
+
+
 
 | Pen             | Inventory ID | IAF (gf) | Source    |
 | --------------- | ------------ | -------- | --------- |
