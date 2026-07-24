@@ -32,19 +32,28 @@ GOOD. The buttons on these pens have a nicer, crisper click than the buttons on 
 
 ## **Pen IAF**
 
-GOOD. Huion says 2gf for these pens. Seems accurate. A little more sensitive than the PW517 pen which is at about 3gf.
+GOOD. Huion says 2gf for these pens.&#x20;
+
+My numbers seem little higher - around \~4 - but honestly I do think this may be a measurement issue on my part because the pens do feel like they have very low IAF. I found it hard to distinguish from the Wacom Pro Pen 3 in terms of IAF.&#x20;
+
+Subjectively it did feel like these pens have a lower IAF than the Huion PW517 pens from the previous generation.
+
+<table data-search="false"><thead><tr><th>Pen Model ID</th><th>Inventory ID</th><th>IAF (gf)</th></tr></thead><tbody><tr><td>PW600S</td><td>HUP.0010</td><td>3.7</td></tr><tr><td>PW600</td><td>HUP.0017</td><td>3.8</td></tr><tr><td>PW600</td><td>HUP.0028</td><td>4.0</td></tr><tr><td>PW600L</td><td>HUP.0020</td><td>4.0</td></tr><tr><td>PW600L</td><td>HUP.0030</td><td>4.5</td></tr><tr><td>PW600</td><td>HUP.0016</td><td>4.9</td></tr><tr><td>PW600L</td><td>HUP.0018</td><td>5.2</td></tr><tr><td>PW600</td><td>HUP.0014</td><td>5.5</td></tr><tr><td>PW600S</td><td>HUP.0029</td><td>7.2</td></tr></tbody></table>
 
 ## **Pen maximum pressure**
 
 VERY GOOD.
 
-Huion states 500 gf. I saw a little variance, but not much. Overall, the PW600 pens are very consistent.
+Huion states 500 gf and that's about what my measurements show.
 
-<table><thead><tr><th width="150">Pen</th><th>7P Inventory ID</th><th>Max Pressure</th></tr></thead><tbody><tr><td>PW600</td><td>HU1014</td><td>~550gf</td></tr><tr><td>PW600</td><td>HU1017</td><td>~500gf</td></tr><tr><td>PW600</td><td>HU1016</td><td>~460gf</td></tr><tr><td>PW600S</td><td>HU1010</td><td>~510gf</td></tr><tr><td>PW600L</td><td>HU1018</td><td>~550gf</td></tr></tbody></table>
-
-## Pressure response
-
-<figure><img src="../../../.gitbook/assets/huion-pw600-notes-4.png" alt=""><figcaption></figcaption></figure>
+| Pen Model ID | Inventory ID | MAX (gf) |
+| ------------ | ------------ | -------- |
+| PW600        | HUP.0016     | 453.0    |
+| PW600        | HUP.0017     | 471.6    |
+| PW600S       | HUP.0010     | 502.0    |
+| PW600        | HUP.0014     | 515.9    |
+| PW600L       | HUP.0020     | 519.7    |
+| PW600L       | HUP.0018     | 527.7    |
 
 ## PW600 series compatibility with older tablets
 
