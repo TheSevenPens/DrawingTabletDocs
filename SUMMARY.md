@@ -334,6 +334,7 @@
   * [TSG: Pen display doesn't show anything](troubleshoot/tsg-pen-display-doesnt-show-anything.md)
   * [TSG: Not enough HDMI ports](troubleshoot/tsg-not-enough-hdmi-ports.md)
   * [TSG: Insects in a pen display](troubleshoot/tsg-pen-display-insects.md)
+  * [TSG: Black bars on a display](troubleshoot/tsg-display-black-bars.md)
   * [TSG: Pen acting like a mouse](troubleshoot/tsg-pen-acts-as-mouse.md)
   * [TSG: Pen display turns on and off constantly](troubleshoot/tsg-pen-display-turns-on-and-off.md)
   * [TSG: Computer detects a drawing tablet as a keyboard](troubleshoot/tsg-drawtab-detected-as-keyboard.md)
