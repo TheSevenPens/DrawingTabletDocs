@@ -9,7 +9,7 @@ Note the Art Pen 2 is also referred to as the Intuos 4 Art Pen because it was la
 ## Links to main articles
 
 * [Wacom Art Pen 2 (ACP-700) notes](wacom-acp700-notes.md)
-* [Wacom Art Pen 1 (KP-701E) notes](wacom-acp700-notes.md)
+* [Wacom Art Pen 1 (KP-701E) notes](wacom-kp701e-notes.md)
 
 ## IAF
 
