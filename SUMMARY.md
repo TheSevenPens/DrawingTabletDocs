@@ -560,6 +560,7 @@
       * [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](catalog/drawtabs/xppen/xppen-md160qh-notes.md "Artist Pro 16 GEN2 (MD160QH)")
       * [XP-Pen Artist Pro 19 GEN2 (MD180UH) notes](catalog/drawtabs/xppen/xppen-md180uh-notes.md "Artist Pro 19 GEN2 (MD180UH)")
       * [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](catalog/drawtabs/xppen/xppen-md220qh-notes.md "Artist Pro 22 GEN2 (MD220QH)")
+      * [XP-Pen Artist Pro 27 GEN2 (MD270UH)](catalog/drawtabs/xppen/xppen-md270uh-notes.md "Artist Pro 27 GEN2 (MD270UH)")
       * [XP-Pen Artist Ultra 16 (MD160UH) notes](catalog/drawtabs/xppen/xppen-md160uh-notes.md "Artist Ultra 16 (MD160UH)")
       * [XP-Pen Deco LW (IT1060B) notes](catalog/drawtabs/xppen/xppen-it1060b-notes.md "Deco LW (IT1060B)")
       * [XP-Pen Deco 01 V3 notes](catalog/drawtabs/xppen/xppen-deco01v3-notes.md "Deco 01 V3")
