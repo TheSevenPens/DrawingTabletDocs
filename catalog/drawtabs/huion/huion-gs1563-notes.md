@@ -206,3 +206,16 @@ These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the win
 
 * Both have a little bit of diagonal wobble. The wobble can be addressed with smoothing/stabilization in your drawing app. More here: [Diagonal wobble](../../../core/diagonal-wobble.md).
 * Both can be used with a single USB-C cable if the requirements are met. [Connecting a pen display with USB-C](../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
+
+## Photos
+
+<figure><img src="../../../.gitbook/assets/20260725_135244 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260725_135350 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260725_135502 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260725_135516 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/20260725_135524 (Large).jpg" alt=""><figcaption></figcaption></figure>
+
