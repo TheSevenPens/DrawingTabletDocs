@@ -4,13 +4,12 @@
 
 <mark style="color:red;">**These notes are in progress**</mark>
 
-User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
-
 ## Links
 
 * [Trent Kaniuga - Huion Kamvas Pro 24 Gen 3 Review](https://www.youtube.com/watch?v=XgOq3xCci20) 2026-07-02
 * [Brad Colbow - Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) 2025-10-24
 * [Teoh on Tech - Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) 2026-02-01&#x20;
+* User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
 
 ## Digitizer specs
 
