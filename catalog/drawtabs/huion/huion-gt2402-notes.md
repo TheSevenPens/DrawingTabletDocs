@@ -4,7 +4,13 @@
 
 <mark style="color:red;">**These notes are in progress**</mark>
 
-User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)&#x20;
+User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
+
+## Links
+
+* [Trent Kaniuga - Huion Kamvas Pro 24 Gen 3 Review](https://www.youtube.com/watch?v=XgOq3xCci20) 2026-07-02
+* [Brad Colbow - Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) 2025-10-24
+* [Teoh on Tech - Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) 2026-02-01&#x20;
 
 ## Digitizer specs
 
@@ -55,9 +61,9 @@ User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_M
 * The older GT2401 is clearly sharper than the GT2402.
 * To me the GT2402 was a bit softer than the Huion Kamvas Pro 19 and this might be due to the lower pixel density of the GT2402.
 
-<figure><img src="../../../../.gitbook/assets/huion-gt2402-notes-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt2402-notes-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/huion-gt2402-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt2402-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Anti-glare sparkle
 
@@ -81,7 +87,7 @@ For HDMI you connect with three separate cables for power, video, and data.
 
 There is no 3-in-1 cable for this tablet.
 
-<figure><img src="../../../../.gitbook/assets/huion-gt2402-notes-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt2402-notes-3.png" alt=""><figcaption></figcaption></figure>
 
 ### DisplayPort connecton
 
@@ -91,7 +97,7 @@ Connects the same way as shown with the HDMI connection, except with a DisplayPo
 
 You can connect this tablet with a single USB-C cable for video and data. The cable you need is provided in the box. Power will require using the separate cable.
 
-<figure><img src="../../../../.gitbook/assets/huion-gt2402-notes-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gt2402-notes-4.png" alt=""><figcaption></figcaption></figure>
 
 ### Compatible USB-C cables
 
