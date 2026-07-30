@@ -7,7 +7,7 @@ On some computers there may be HDMI ports in two different locations:
 * The motherboard
 * The GPU (aka the graphics card)
 
-You should always prefer to use the HDMI ports on the GPU first and only use the motherboard HDMI ports as a last resort.
+You should always use the GPU's HDMI ports first. Use the motherboard HDMI ports only as a last resort.
 
 ## Location
 
@@ -20,9 +20,9 @@ There are two general locations on the back of a computer.
 
 ## Motherboard HDMI vs GPU HDMI
 
-If you have two working ports, one on the motherboard and one on the graphics card, which should you pick? The answer is **always try the graphics card HDMI first, and only use the motherboard HDMI as a last resort**.
+If you have two working ports, one on the motherboard and one on the graphics card, which should you pick? The answer is **always use the graphics card's HDMI port first. Use the motherboard HDMI port only as a last resort**.
 
-First, motherboard HDMI support is usually not as capable as what you will find on a graphics card from the same era. The motherboard HDMI port may not support 4K or a high enough refresh rate. So it might work, but the experience may be worse.
+First, motherboard HDMI support is usually less capable than a graphics card from the same era. The motherboard HDMI port may not support 4K or a high enough refresh rate. It might work, but the experience may be worse.
 
 Second, both motherboard HDMI and a graphics card need memory to do their work. A graphics card has its own dedicated memory. Motherboard HDMI usually does not. It instead uses system memory, which means your CPU and system lose some memory to graphics.
 
