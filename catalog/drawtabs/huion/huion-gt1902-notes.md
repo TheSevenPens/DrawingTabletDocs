@@ -136,7 +136,7 @@ NORMAL - standard for modern pen displays.
 
 ### Tilt compensation
 
-VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [Pen tilt compensation](../../../core/pen-tilt/pen-tilt-compensation.md).
+VERY GOOD. The pointer stays where the nib is during normal ranges of tilt with some deviation only at extreme angles. more here: [Pen tilt compensation](../../../core/tilt/tilt-compensation.md).
 
 ### **Surface texture**
 

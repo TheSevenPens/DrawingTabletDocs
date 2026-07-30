@@ -27,7 +27,7 @@ What I am generally looking for:
 ### Positioning
 
 * **Pointer tracking accuracy (vertical and static)** - When holding a pen still and perpendicular to the tablet surface, is the pointer directly under the pen tip?
-* [Tilt compensation](../core/pen-tilt/pen-tilt-compensation.md)
+* [Tilt compensation](../core/tilt/tilt-compensation.md)
 * [Diagonal wobble](../core/diagonal-wobble.md)
 * [Parallax](../guides/pen-displays/parallax.md)
 * [Pointer lag](../core/pointer-lag.md)

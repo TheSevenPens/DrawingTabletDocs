@@ -95,7 +95,7 @@ Notes:
 
 ### Notes on pen tilt
 
-TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [Pen tilt](../../../core/pen-tilt/)
+TILT - Not all drawing styles require tilt. And if you do want to control the rotation of your brush many drawing apps let you control the brush rotation based on the direction of the pen movement instead of tilt. Lean more here: [Pen tilt](../../../core/tilt/)
 
 ## Tablet resolution
 

@@ -1,4 +1,4 @@
-# Pen tilt compensation
+# Tilt compensation
 
 ## Overview
 
@@ -50,7 +50,7 @@ In my experience, not every tablet model from a given brand has the same tilt co
 
 ## Right-handed versus left-handed usage
 
-With non-Wacom tablets, tilt compensation may work well when you hold the pen in your right hand. You may experience more tilt compensation issues when using your left hand. See the [Calibration](pen-tilt-compensation.md#calibration) section.
+With non-Wacom tablets, tilt compensation may work well when you hold the pen in your right hand. You may experience more tilt compensation issues when using your left hand. See the [Calibration](tilt-compensation.md#calibration) section.
 
 Differences in right-handed versus left-handed tilt compensation behavior mean that, for some reason, the tablet does not correctly handle tilt azimuth.
 

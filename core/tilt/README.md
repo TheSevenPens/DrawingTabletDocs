@@ -75,4 +75,4 @@ To calculate the location of the pen, the tablet must take into account how much
 
 ## Disabling tilt
 
-You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [Disabling pen tilt](disabling-pen-tilt.md)
+You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [Disabling pen tilt](disable-tilt.md)

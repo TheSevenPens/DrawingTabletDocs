@@ -79,7 +79,7 @@
 
 ### Tilt
 
-* More here: [Pen tilt](../../../../core/pen-tilt/)
+* More here: [Pen tilt](../../../../core/tilt/)
 * Tilt support with the Cintiq Pro 27 is standard for Wacom: EXCELLENT.
   * Tilt is smooth, accurate, and responsive.
   * Tilt works correctly at edges and corners.
