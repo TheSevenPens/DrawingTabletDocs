@@ -26,22 +26,23 @@ First, motherboard HDMI support is usually less capable than a graphics card fro
 
 Second, both motherboard HDMI and a graphics card need memory to do their work. A graphics card has its own dedicated memory. Motherboard HDMI usually does not. It instead uses system memory, which means your CPU and system lose some memory to graphics.
 
-## Other issues with motherboard HDMI
+## Issues with motherboard HDMI
 
 Sometimes you'll read a statement like "HDMI doesn't work on the motherboard." That is an exaggeration, but it is well-intentioned. It is true that motherboard HDMI sometimes does not work. Here are the common reasons.
 
-First, to get a motherboard HDMI port working, several things need to be true:
+For a motherboard HDMI port working, several things need to be true:
 
-* First, the HDMI port must exist.
-* Second, the computer has to have a component that sends a display signal to the port. This is called integrated graphics. It's called "integrated" because the graphics component is on the CPU.
-* Third, the HDMI port must be enabled.
+* The HDMI port must exist.
+* The computer must have "integrated graphics" hardware that sends a display signal to the port. It's called "integrated" because the graphics component is on the CPU.
+* The HDMI port must be enabled.
 
-What often happens is that not all these conditions are met on PCs with motherboard HDMI ports.
+Sometimes not all these conditions are met on PCs with motherboard HDMI ports.
 
-The HDMI port might exist, but there may be no integrated graphics, so that port will not work.
+* The HDMI port might exist, but there may be no integrated graphics, so that port will not work.
+* You might have the port and integrated graphics, but the BIOS may disable that port. In that case, you need to enable it in the BIOS.
+* Some computers automatically disable motherboard HDMI when a graphics card is installed. In other words, you can use either the motherboard HDMI or the graphics card, but not both.
 
-You might have the port and integrated graphics, but the BIOS may disable that port. In that case, you need to enable it in the BIOS.
+## Is using a motherboard HDMI safe?
 
-Finally, some computers automatically disable motherboard HDMI when a graphics card is installed. In other words, you can use either the motherboard HDMI or the graphics card, but not both.
+Yes. You aren't going to hurt your computer by trying to use motherboard HDMI, but you should know why it might not work.
 
-You aren't going to hurt your computer by trying to use motherboard HDMI, but you should know why it might not work.
