@@ -150,7 +150,7 @@
     * [Achieving paper-like texture](guides/customizing/paper-texture.md)
     * [Shrinking the active area](guides/customizing/shrinking-active-area.md)
     * [Using precision mode](guides/customizing/precision-mode.md)
-    * [Mirroring or extending](guides/customizing/mirroring-or-extending.md)
+    * [Mirroring or extending a display](guides/customizing/mirroring-or-extending.md)
     * [Using pen tablets with ultrawide monitors](guides/customizing/pen-tablets-with-ultrawide-monitors.md)
     * [Using a pen display as a pen tablet](guides/customizing/pen-display-as-pen-tablet.md)
     * [Using metal nibs](guides/customizing/metal-nibs.md)

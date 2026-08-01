@@ -1,4 +1,4 @@
-# Mirroring or extending
+# Mirroring or extending a display
 
 ## Overview
 
@@ -9,9 +9,7 @@ You have two options:
 * **Extend the desktop** - this means you can see different things on the pen display from your monitor. This is what I recommend you use.
 * **Duplicate the desktop (aka "Mirror the desktop")** - This means your pen display and monitor will try to show the same exact thing.
 
-## About duplication/mirror
-
-### Considerations
+## Considerations
 
 Duplicating is very useful and intuitive, but generally I think Extend is a better choice for most people and situations.
 
@@ -20,10 +18,6 @@ Things that may happen with duplication:
 * Black bars on one of the screens. This happens if they don't have the same aspect ratio
 * If the two screens have different resolutions, the duplication may use the lower resolution.
 * If the two screens have different max refresh rates, duplication will use the lower refresh rate for both.
-
-### Alternative methods that effectively duplicate your canvas
-
-If you just want to see your canvas on both displays, explore this option instead: [Showing canvas on another display](../../apps/tips/canvas-on-another-display.md)
 
 ## Steps to control extend vs duplicate
 
@@ -47,3 +41,11 @@ If you just want to see your canvas on both displays, explore this option instea
 * Then select your drawing tablet's display and set **Use As** to **Mirror**.
 {% endtab %}
 {% endtabs %}
+
+## After you extend: Pointer on wrong display?
+
+One you extend, your displays will show different things. But you pointer may be stuck on a different display then your pen works on. To address this: [TSG: Pointer on wrong display](../../troubleshoot/tsg-pointer-on-wrong-display.md).
+
+## Alternatives to mirroring
+
+If you just want to see your canvas on both displays, explore this option instead: [Showing canvas on another display](../../apps/tips/canvas-on-another-display.md)
