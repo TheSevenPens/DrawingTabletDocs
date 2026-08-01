@@ -48,7 +48,7 @@
   * [Pen tablet recommendations (LARGE)](recs/pen-tablet-recs-large.md "Pen tablets - Large")
   * [Pen display recommendations (SMALL)](recs/pen-display-recs-small.md "Pen displays - Small")
   * [Pen display recommendations (MEDIUM)](recs/pen-display-recs-medium.md "Pen displays - Medium")
-  * [Pen display recommendations (LARGE)](recs/pen-display-recs-large.md "Pen tablets - Large")
+  * [Pen display recommendations (LARGE)](recs/pen-display-recs-large.md "Pen displays - Large")
   * [Pen computer recommendations](recs/pen-computer-recs.md "Standalone - Pen computers")
   * [Pen-enabled mobile device recommendations](recs/mobile-device-recs.md "Standalone - Mobile devices")
   * [Pen-enabled 2-in-1 laptop recommendations](recs/2-in-1-laptop-recs.md "Standalone - 2-in-1 laptops")
