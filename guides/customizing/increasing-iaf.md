@@ -6,4 +6,4 @@ However, with pressure curves, you can effectively increase the IAF. This is don
 
 <figure><img src="../../.gitbook/assets/increasing-iaf-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-More here: [Pressure curve dead zones](../../core/pressure/pen-pressure-curves/pressure-curve-deadzone.md)
+More here: [Pressure curve dead zones](../../core/pressure/pressure-curves/pressure-curve-deadzone.md)

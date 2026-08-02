@@ -22,7 +22,7 @@ Pressure curves are a form of post-processing of pressure information. So even t
 
 Check the pressure curve used in the driver and in your application brushes.
 
-They might have a pressure dead zone. Such a dead zone has the net effect of increasing the IAF. More here: [Pressure curve dead zones](../../core/pressure/pen-pressure-curves/pressure-curve-deadzone.md)
+They might have a pressure dead zone. Such a dead zone has the net effect of increasing the IAF. More here: [Pressure curve dead zones](../../core/pressure/pressure-curves/pressure-curve-deadzone.md)
 
 Reduce or get rid of the dead zone to reduce the effective IAF.
 

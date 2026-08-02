@@ -1,4 +1,4 @@
-# Pen pressure curves
+# Pressure curves
 
 {% hint style="info" %}
 Before you read this document, read: [Pen pressure response](../pen-pressure-response.md)
@@ -66,4 +66,4 @@ To see which drivers and apps support which shapes, see: [App pressure curves](p
 
 ## Driver UX for pressure curves
 
-See [Driver pressure curves](pressure-curves-in-drivers.md)
+See [Driver pressure curves](pressure-curve-in-driver.md)

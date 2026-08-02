@@ -57,7 +57,7 @@ As the pressure sensing mechanism in a pen becomes more sensitive to enable very
 
 The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See [Increasing IAF](../../guides/customizing/increasing-iaf.md).
 
-Sometimes tablets are preconfigured to raise the IAF artificially. If that is the case, you can remove the artificial increase to get back to the native IAF. More here: [Pressure curve dead zones](pen-pressure-curves/pressure-curve-deadzone.md)
+Sometimes tablets are preconfigured to raise the IAF artificially. If that is the case, you can remove the artificial increase to get back to the native IAF. More here: [Pressure curve dead zones](pressure-curves/pressure-curve-deadzone.md)
 
 ## Is Wacom <1gf IAF real?
 

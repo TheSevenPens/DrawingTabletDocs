@@ -11,9 +11,9 @@
 * The [Pen pressure range](pen-pressure-range.md) is the range of physical force the pen can sense and output as pressure. In other words, its lower bound is the IAF and its upper bound is the **maximum pressure**.
 * A tablet splits the pressure range into segments called [Pen pressure levels](pen-pressure-levels.md).
 * The [Pen pressure response](pen-pressure-response.md) is the pen hardware's pressure behavior. It describes how a specific pen maps physical pressure to the logical pressure number sent to your computer.
-* A [Pen pressure curve](pen-pressure-curves/) modifies or processes the pressure response of a pen. You can use it to solve or mitigate some pressure problems, or to achieve certain creative effects.
-* A [Pressure curve dead zone](pen-pressure-curves/pressure-curve-deadzone.md) uses a pressure curve to effectively increase the IAF.
-* The vast majority of drawing tablet pens are too sensitive to small changes in physical pressure near the IAF. This creates problems when [drawing at low physical pressure](drawing-low-pressure.md). You can address this with [Pen pressure curves](pen-pressure-curves/) or **pressure smoothing**.
+* A [Pen pressure curve](pressure-curves/) modifies or processes the pressure response of a pen. You can use it to solve or mitigate some pressure problems, or to achieve certain creative effects.
+* A [Pressure curve dead zone](pressure-curves/pressure-curve-deadzone.md) uses a pressure curve to effectively increase the IAF.
+* The vast majority of drawing tablet pens are too sensitive to small changes in physical pressure near the IAF. This creates problems when [drawing at low physical pressure](drawing-low-pressure.md). You can address this with [Pen pressure curves](pressure-curves/) or **pressure smoothing**.
 * [Tilt affects pressure](tilt-affects-pressure.md). The pen is more sensitive when it is held perpendicular to the tablet surface.
 
 ## "Under pressure" video series
