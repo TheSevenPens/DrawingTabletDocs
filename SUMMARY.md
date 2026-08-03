@@ -580,6 +580,7 @@
     * [Wacom pens](catalog/pens/wacom-pens/README.md "Wacom")
       * [Wacom pen compatibility](catalog/pens/wacom-pens/wacom-pen-compatibility.md)
       * [Wacom Pro Pen 3 (ACP-500) notes](catalog/pens/wacom-pens/wacom-acp500-notes.md "Pro Pen 3 (ACP-500)")
+      * [Wacom Pro Pen 3 (ACP-500) vs Wacom Pro Pen 2 (KP-504E)](catalog/pens/wacom-pens/wacom-acp500-vs-kp504e.md "Pro Pen 3 (ACP-500) vs Pro Pen 2 (KP-504E)")
       * [Wacom Pro Pen 2 (KP-504E) notes](catalog/pens/wacom-pens/wacom-kp504e-notes.md "Pro Pen 2 (KP-504E)")
       * [Wacom 2K Pen (LP-190K)](catalog/pens/wacom-pens/wacom-lp190k-notes.md "2K Pen (LP-190K)")
       * [Wacom Intuos1 Pen (GP-300E) notes](catalog/pens/wacom-pens/wacom-gp300e-notes.md "Intuos1 Pen (GP-300E)")
