@@ -50,6 +50,12 @@ This tablet does not come with a stand.
 
 This tablet does come with two folding legs. I found that the legs put the tablet at enough of an angle that it's very comfortable to use, though some people may want to get a stand to achieve a higher angle.
 
+### Heat
+
+<figure><img src="../../../../.gitbook/assets/DTH-3220-IR-FLUKE-20260802170722681.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Connections and Cabling
 
 ### Ports
