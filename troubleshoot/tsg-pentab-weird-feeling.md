@@ -24,5 +24,4 @@ How to fix:
 Some people struggled with this weird feeling for literal decades. They finally discovered that **Force Proportions** fixed it. Here are some actual quotes:
 
 * "Going from traditional to digital made me feel like I was going insane before I found the setting."
-*
 * "Thank you so much. Turning this accursed setting on immediately turned my tablet from something I simply thought was never going to click to something I can draw comfortably on."
