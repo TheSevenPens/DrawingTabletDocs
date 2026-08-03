@@ -348,6 +348,7 @@
   * [TSG: Display has vertical lines](troubleshoot/tsg-display-vertical-lines.md)
   * [TSG: Pen display does not support video signal format](troubleshoot/tsg-pen-display-does-not-support-video-signal-format.md "tsg-pen-display-unsupported-video-format")
   * [TSG: Replacing a lost tablet cable](troubleshoot/tsg-replace-lost-tablet-cable.md)
+  * [TSG: It feels "weird" to draw with a pen tablet](troubleshoot/tsg-pentab-weird-feeling.md)
 * [Catalog](catalog/README.md)
   * [Catalog: Accessories](catalog/accessories/README.md "Accessories")
     * [Screen cleaning sprays](catalog/accessories/screen-cleaning-sprays.md)
