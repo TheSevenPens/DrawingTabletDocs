@@ -24,4 +24,5 @@ How to fix:
 Some people struggled with this weird feeling for literal decades. They finally discovered that **Force Proportions** fixed it. Here are some actual quotes:
 
 * "Going from traditional to digital made me feel like I was going insane before I found the setting."
+* "I always wanted a screen tablet for so long earlier on in my art journey because I really didn't like how inaccurate my lines were and how difficult it would be to do lineart, but after using as screen tablet I decided to try going back to screenless for a bit, and kinda faced the same problems albeit a lot less. However, after turning on this option, it suddenly feels like I'm drawing on my screen tablet. The lines actually feel like they're connected and not disjointed, it's truly a revelation."
 * "Thank you so much. Turning this accursed setting on immediately turned my tablet from something I simply thought was never going to click to something I can draw comfortably on."
