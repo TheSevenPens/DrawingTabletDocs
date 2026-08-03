@@ -1,8 +1,13 @@
-# Wacom Cintiq Pro 23 touch (DTH-3220) notes
+# Wacom Cintiq Pro 32 touch (DTH-3220) notes
 
 ## Overview
 
 The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing device, given its age and size. It is actually as good as anything else on the market in 2026. It has an excellent drawing experience driven by the included Pro Pen 2, model number KP504E, and an absolutely gigantic screen.
+
+## Links
+
+* [Aaron Rutten - Wacom CINTIQ PRO 24 & 32 Review](https://www.youtube.com/watch?v=lvSeRhrUcCY) 2018-12-13
+* [Wieger Poutsma - review of Wacom Cintiq Pro 32](https://www.youtube.com/watch?v=GgYu9zXD8Gk) 2018-11-19
 
 ## Should you get the tablet in 2026?
 
