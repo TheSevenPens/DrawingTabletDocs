@@ -77,6 +77,8 @@ RATING: VERY GOOD (VERY LOW)
 
 Diagonal wobble was very good. There were only very tiny amounts of wobble present in the strokes that I observed at different speeds. My feeling is the amount of wobble I saw is better than most Pen displays. In fact, I think it's a little bit better even than the Cintiq Pro 27.
 
+<figure><img src="../../../../.gitbook/assets/Diag-Wobble-DTH-3220-20260804.png" alt=""><figcaption></figcaption></figure>
+
 ### Lag
 
 The lag is typical for a Pen display of this size. As you draw, you can see the pointer trailing the physical tip of the pen a little bit. There was nothing especially unusual about the amount of lag; it was very typical for what we see inn pen displays.
