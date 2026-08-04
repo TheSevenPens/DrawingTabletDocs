@@ -6,6 +6,11 @@ The Wacom Pro Pen 3 (ACP-500) is a very normal EMR pen that lives up to previous
 
 <figure><img src="../../../.gitbook/assets/wacom-acp500-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
+See:
+
+* [Wacom Pro Pen 2 (KP-504E) notes](wacom-kp504e-notes.md)
+* [Wacom Pro Pen 3 (ACP-500) vs Wacom Pro Pen 2 (KP-504E)](wacom-acp500-vs-kp504e.md)
+
 ## General information
 
 * [Wacom - "Igniting the creativity of professional artists! The pride of Wacom – Wacom Pro Pen 3"](https://community.wacom.com/en-pe/craftsmanship-wacom-pro-pen-3/) 2025-01-25 (archive)
@@ -93,17 +98,6 @@ My numbers agree with Kuuube's data.
 | Wacom Pro Pen 3 | WAP.0031     | 4.5      | measured |
 | Wacom Pro Pen 3 | WAP.0039     | 4.5      | measured |
 
-### Comparing Initial Activation Force
-
-* Wacom does not publish IAF numbers
-* I don't know of any clear way to measure it.
-* One benchmark used to evaluate IAF is whether the weight of the pen itself will trigger a pressure reading.
-* I tried using this benchmark to get a feel for the IAF the Pro Pen 3 versus the Huion PW517
-  * I dangled the pen on the surface from a piece of tape. This was to avoid my hand adding pressure.
-  * I looked at the impact on the "pressure test region" of their respective driver apps
-  * Result for Wacom Pro Pen 3: The weight of the Wacom pen itself consistently draws a stroke
-* Result for Huion PW517: The weight of the Huion pen itself will inconsistently draw a stroke. Sometimes it draws. Sometimes it does not.
-
 ## Customizability
 
 * Unlike previous Wacom pens, the Pro Pen 3 is very modular and customizable
@@ -111,8 +105,6 @@ My numbers agree with Kuuube's data.
   * No grip
   * flared grip - gives it the same basic shape as the Pro Pen 2
   * non-flared grip
-
-## My pen configuration
 
 <figure><img src="../../../.gitbook/assets/wacom-acp500-notes-3.jpg" alt=""><figcaption><p>Components used in my pen configuration</p></figcaption></figure>
 
@@ -136,12 +128,9 @@ When my pen is fully assembled it looks like this:
 
 ## Drawing experience
 
-* NOTE: This relates to the physical feeling of holding, moving, pressing the pen against the glass. This has nothing to do with how pressure works or how it works with apps.
+* This relates to the physical feeling of holding, moving, pressing the pen against the glass. This has nothing to do with how pressure works or how it works with apps.
 * SUMMARY: The feeling is EXCELLENT
-* I think it is an improvement over the Wacom Pro Pen
 * However, I think there is a lot of subjectivity here. For example, I accidentally picked up the Pro Pen 2 and started drawing with it. I thought I was using the Pro Pen 3 and remarked on how good it felt. Only when I looked at the pen did I realize I was using the old one.
-* To me the differences between the Pro Pen 3 and the Pro Pen 2 are slight and subtle.
-* Other people feel that the difference is more obvious.
 
 ## Solidity
 
