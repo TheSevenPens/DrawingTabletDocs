@@ -6,8 +6,10 @@ The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing
 
 ## Links
 
-* [Aaron Rutten - Wacom CINTIQ PRO 24 & 32 Review](https://www.youtube.com/watch?v=lvSeRhrUcCY) 2018-12-13
-* [Wieger Poutsma - review of Wacom Cintiq Pro 32](https://www.youtube.com/watch?v=GgYu9zXD8Gk) 2018-11-19
+* [Aaron Rutten - Review of Wacom Cintiq Pro 24 & 32](https://www.youtube.com/watch?v=lvSeRhrUcCY) 2018-12-13
+* [Wieger Poutsma - Review of Wacom Cintiq Pro 32](https://www.youtube.com/watch?v=GgYu9zXD8Gk) 2018-11-19
+* [Aaron Blaise - Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) 2019-01-24
+* [Aaron Rutten - How to Setup Wacom CINTIQ PRO 24 & 32](https://www.youtube.com/watch?v=hjOAm8AQxck) 2018-11-14
 
 ## Should you get the tablet in 2026?
 
