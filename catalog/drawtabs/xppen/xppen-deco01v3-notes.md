@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is OK tablet that despite being released in 2025, uses an older generation of pen technology that has a higher IAF than modern consumer tablets. It might work well as a tablet for a beginner - someone new to drawing tablets.&#x20;
+This is decent tablet. It was released in 2025 and uses an older generation of pen technology that has a slightly higher IAF than modern consumer drawing tablet pens such as a X3 Elite - but the difference may not be noticable. He table will work well as a beginner or basic tablet.
 
-There similar tablets with better pens: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
+There similar tablets and some have better pens with lower IAF: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
 
 ## Basics
 
