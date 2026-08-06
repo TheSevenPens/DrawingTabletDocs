@@ -2,32 +2,12 @@
 
 ## Overview
 
-Based on my analysis of pen pressure ranges, I have developed this simple rating scale for IAF and max pressure. This represents my initial thinking and I expect to revise this in the future based on feedback.
-
 For more general information about pen pressure, see [Pen pressure](./).
 
-A wide pressure range is very desirable. It contributes a lot to a good pressure experience. A wider pressure range is even more important than the number of pressure levels.
+Most of the content of this doc has moved to:
 
-## Landscape
-
-Consider this diagram to be a DRAFT. It will evolve as I learn more.
-
-I think the pressure categories here (EXCELLENT, VERY GOOD, etc) are reasonable.
-
-But be aware that, for a specific pen, there can be significant differences in IAF and max pressure between individual units.
-
-<figure><img src="../../.gitbook/assets/pen-pressure-range-1.png" alt=""><figcaption></figcaption></figure>
-
-## Pressure data and sources
-
-* Manufacturers
-* From tablet experts such as Kuuube
-* And my own measurements: [https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD\_1zsIxg3A?e=2aCPfI](https://1drv.ms/x/s!Aml8i4Jd6crCkTerfXD_1zsIxg3A?e=2aCPfI)
-
-## **Considerations**
-
-* Pens, even of the same model, vary in their pressure handling.
-* Drivers can potentially affect IAF.
+* [IAF](iaf.md)
+* [Maximum physical pressure](maximum-physical-pressure.md)
 
 ## Resources
 

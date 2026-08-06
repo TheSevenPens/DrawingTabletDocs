@@ -1,4 +1,4 @@
-# IAF
+# Initial Activation Force (IAF)
 
 ## Overview
 
@@ -12,7 +12,7 @@ In general, people want lower IAF.
 
 * IAF is measured in gram-force units (`gf`). You will often see it described as grams.
 * IAF is determined by the pen hardware, not the tablet.
-* More info: [Pen pressure](./)
+* More info: [Pen pressure](./) and pressure&#x20;
 
 ## Video
 
@@ -40,6 +40,18 @@ Some people really need an excellent IAF of <1gf.
 
 Others, myself included, work fine with a 3gf IAF. I definitely notice the difference, but it does not affect the kind of art I create.
 
+## Variability in IAF
+
+Different models of pens can have different IAF values.
+
+But actually, even different units of the same pen model can vary in the IAF value.
+
+Suppose a pen model is advertised as having a 3gf IAF.It you measured a many units of this single model, you would find some units are a little lower than 3gf and some are higher than 3gf.  This is unit-to-unit variability is normal for pens.
+
+How much variability can you expect? It depends on the specific pen model. Some pen models have very little variation in my tests ... for example +/- 0.5gf. Other pen models might see might greater variation such as +/- 2gf.
+
+Lower IAF unit-to-unit variation is very desirable. A low variation means that if you ever have to replace your pen with another unit of the same model, then it is likely to behave very similarly to the one you are replacing.
+
 ## Changing the IAF
 
 * Lowering IAF - see [Decreasing IAF](../../guides/customizing/lowering-iaf.md)
@@ -49,11 +61,11 @@ Others, myself included, work fine with a 3gf IAF. I definitely notice the diffe
 
 Given how much focus there is on low IAF, it is natural to think that lower is always better. That is generally true, but there are some exceptions.
 
-### False pressure detection
+## False pressure detection
 
 As the pressure sensing mechanism in a pen becomes more sensitive to enable very low IAF, it can have unintended effects. For example, pens with super-low IAF may report pressure even when they are clearly not touching the tablet. Sometimes this appears as spurious pressure readings. In other cases, the pen can effectively draw while hovering.
 
-### Effectively increasing IAF with pressure curves
+## Effectively increasing IAF with pressure curves
 
 The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See [Increasing IAF](../../guides/customizing/increasing-iaf.md).
 

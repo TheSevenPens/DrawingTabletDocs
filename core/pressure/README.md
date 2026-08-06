@@ -2,19 +2,17 @@
 
 ## Overview
 
-**Pressure** is the physical force being exerted on the pen tip.
+**Pressure** is the physical force being exerted on the pen tip. The pen and tablet translates that physical pressure into a logical number that sent to the tablet (i.e. the pressure level).
 
 ## Key concepts
 
 * **The pen senses pressure**, not the tablet. The pen communicates the pressure it detects to the tablet.
-* The [IAF](iaf.md) is the smallest amount of pressure an EMR pen will detect and report.
-* The [Pen pressure range](pen-pressure-range.md) is the range of physical force the pen can sense and output as pressure. In other words, its lower bound is the IAF and its upper bound is the **maximum pressure**.
-* A tablet splits the pressure range into segments called [Pen pressure levels](pen-pressure-levels.md).
+* The [pressure range](pen-pressure-range.md) is the range of physical force the pen can sense.&#x20;
+  * The lower bound of this range is the [Initial Activation Force (IAF)](iaf.md)&#x20;
+  * The upper bound of this range is the [maximum physical pressure](maximum-physical-pressure.md)
+* A tablet splits the pressure range into logical segments called [Pen pressure levels](pen-pressure-levels.md).
 * The [Pen pressure response](pen-pressure-response.md) is the pen hardware's pressure behavior. It describes how a specific pen maps physical pressure to the logical pressure number sent to your computer.
-* A [Pen pressure curve](pressure-curves/) modifies or processes the pressure response of a pen. You can use it to solve or mitigate some pressure problems, or to achieve certain creative effects.
-* A [Pressure curve dead zone](pressure-curves/pressure-curve-deadzone.md) uses a pressure curve to effectively increase the IAF.
-* The vast majority of drawing tablet pens are too sensitive to small changes in physical pressure near the IAF. This creates problems when [drawing at low physical pressure](drawing-low-pressure.md). You can address this with [Pen pressure curves](pressure-curves/) or **pressure smoothing**.
-* [Tilt affects pressure](tilt-affects-pressure.md). The pen is more sensitive when it is held perpendicular to the tablet surface.
+* A [Pen pressure curve](pressure-curves/) processes the pressure response of a pen. You can use it to solve or mitigate some pressure problems, or to achieve certain creative effects.
 
 ## "Under pressure" video series
 
