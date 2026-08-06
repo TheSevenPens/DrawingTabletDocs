@@ -12,7 +12,7 @@ In general, people want lower IAF.
 
 * IAF is measured in gram-force units (`gf`). You will often see it described as grams.
 * IAF is determined by the pen hardware, not the tablet.
-* More info: [Pen pressure](./) and pressure&#x20;
+* More info: [Pen pressure](./) and [pressure range](pen-pressure-range.md)
 
 ## Video
 
@@ -22,7 +22,7 @@ In general, people want lower IAF.
 
 A lower IAF is good because it makes fine details easier to draw. To give you a better sense of these values, I have ranked IAF below based on feedback I have received and what works for me.
 
-<table><thead><tr><th width="154.5999755859375">IAF Rating</th><th width="134.79998779296875">IAF Range</th><th>Comments</th></tr></thead><tbody><tr><td>EXCELLENT</td><td>&#x3C;=1gf</td><td>Many modern Wacom pens have an IAF of &#x3C;= 1gf</td></tr><tr><td>GREAT</td><td>1gf to 2gf</td><td>Only a couple of pens are in this range</td></tr><tr><td>GOOD</td><td>2gf to 3.5gf</td><td>Most modern EMR pens have an IAF of around 3gf.</td></tr><tr><td>OK</td><td>3.5gf and 5gf</td><td>This is tolerable. Something that would be typical of a consumer-level pen.</td></tr><tr><td>BAD</td><td>≥ 5gf</td><td>Most people would not enjoy using such a pen.</td></tr></tbody></table>
+<table><thead><tr><th width="154.5999755859375">IAF Rating</th><th width="134.79998779296875">IAF Range</th><th>Comments</th></tr></thead><tbody><tr><td>EXCELLENT</td><td>&#x3C;=1gf</td><td>Many modern Wacom pens have an IAF of &#x3C;= 1gf.</td></tr><tr><td>GREAT</td><td>1gf to 2gf</td><td>Only a couple of pens are in this range.</td></tr><tr><td>GOOD</td><td>2gf to 3.5gf</td><td>Most modern EMR pens have an IAF of around 3gf.</td></tr><tr><td>OK</td><td>3.5gf to 5gf</td><td>This range is tolerable and typical of a consumer-level pen.</td></tr><tr><td>BAD</td><td>≥ 5gf</td><td>Most people would not enjoy using such a pen.</td></tr></tbody></table>
 
 Note that some people have much stronger opinions about IAF. For example, some people think any IAF greater than 2gf is bad.
 
@@ -32,7 +32,7 @@ Very low IAF is not new. Wacom has been making pens for decades that have excell
 
 Here are some examples from Kuuube's measurements (using Open Tablet Driver) from his [Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit?gid=1134075895#gid=1134075895).
 
-<table><thead><tr><th width="315.79998779296875">Pen</th><th width="92.2000732421875">IAF</th><th>Tablet launch year</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E) IAF</td><td>&#x3C;1gf</td><td>2017</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E) IAF</td><td>&#x3C;1gf</td><td>?</td></tr><tr><td>Wacom Intuos4/5 Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>2009 and 2012</td></tr><tr><td>Wacom Intuos3 Grip Pen (ZP-501E)</td><td>&#x3C;1gf</td><td>2004</td></tr><tr><td>Wacom Intuos2 Grip Pen (XP-501E)</td><td>&#x3C;1gf</td><td>2001</td></tr><tr><td>Wacom Intuos1 Grip Pen (GP-300E)</td><td>&#x3C;1gf</td><td>1998</td></tr></tbody></table>
+<table><thead><tr><th width="315.79998779296875">Pen</th><th width="92.2000732421875">IAF</th><th>Tablet launch year</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>&#x3C;1gf</td><td>2017</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>&#x3C;1gf</td><td>?</td></tr><tr><td>Wacom Intuos4/5 Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>2009 and 2012</td></tr><tr><td>Wacom Intuos3 Grip Pen (ZP-501E)</td><td>&#x3C;1gf</td><td>2004</td></tr><tr><td>Wacom Intuos2 Grip Pen (XP-501E)</td><td>&#x3C;1gf</td><td>2001</td></tr><tr><td>Wacom Intuos1 Grip Pen (GP-300E)</td><td>&#x3C;1gf</td><td>1998</td></tr></tbody></table>
 
 ## The importance of low IAF
 
@@ -44,13 +44,13 @@ Others, myself included, work fine with a 3gf IAF. I definitely notice the diffe
 
 Different models of pens can have different IAF values.
 
-But actually, even different units of the same pen model can vary in the IAF value.
+However, different units of the same pen model can vary in IAF.
 
-Suppose a pen model is advertised as having a 3gf IAF.It you measured a many units of this single model, you would find some units are a little lower than 3gf and some are higher than 3gf.  This is unit-to-unit variability is normal for pens.
+Suppose a pen model is advertised as having a 3gf IAF. If you measured many units of this model, you would find that some are slightly below 3gf and some are above it. This unit-to-unit variability is normal for pens.
 
-How much variability can you expect? It depends on the specific pen model. Some pen models have very little variation in my tests ... for example +/- 0.5gf. Other pen models might see might greater variation such as +/- 2gf.
+How much variability can you expect? It depends on the specific pen model. In my tests, some pen models show very little variation, such as +/- 0.5gf. Other pen models show greater variation, such as +/- 2gf.
 
-Lower IAF unit-to-unit variation is very desirable. A low variation means that if you ever have to replace your pen with another unit of the same model, then it is likely to behave very similarly to the one you are replacing.
+Lower unit-to-unit IAF variation is very desirable. Low variation means that, if you replace your pen with another unit of the same model, it is likely to behave similarly.
 
 ## Changing the IAF
 
@@ -71,7 +71,7 @@ The IAF of a pen cannot be lowered, but it can be effectively increased with a p
 
 Sometimes tablets are preconfigured to raise the IAF artificially. If that is the case, you can remove the artificial increase to get back to the native IAF. More here: [Pressure curve dead zones](pressure-curves/pressure-curve-deadzone.md)
 
-## Is Wacom <1gf IAF real?
+## Is Wacom's <1gf IAF real?
 
 It is commonly accepted that some of Wacom's pens have the lowest IAF in the industry: <1gf.
 
@@ -97,4 +97,4 @@ I have also noticed that, in some pens, an extremely low IAF can cause the pen t
 
 ## How IAF is measured
 
-This video from XP-Pen demonstrates it: [https://www.youtube.com/watch?v=QLmkI2vgfBg](https://www.youtube.com/watch?v=QLmkI2vgfBg)
+This video from XP-Pen demonstrates the measurement process: [https://www.youtube.com/watch?v=QLmkI2vgfBg](https://www.youtube.com/watch?v=QLmkI2vgfBg)
