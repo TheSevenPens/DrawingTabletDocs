@@ -12,7 +12,7 @@ If you would prefer to watch, see this video:
 
 ## Relationship to pressure range
 
-Maximum physical pressure is the upper bound of the pen's [pressure range](pen-pressure-range.md). It is the logical opposite of the [IAF](iaf.md).
+Maximum physical pressure is the upper bound of the pen's pressure range. It is the logical opposite of the [IAF](iaf.md).
 
 ## What happens when physical pressure is more than the maximum
 
