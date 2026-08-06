@@ -524,6 +524,7 @@
         * [Cintiq Pro 17 (DTH-172) notes](catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth172-notes.md "Cintiq Pro 17 (DTH-172)")
         * [Cintiq Pro 16 2016 (DTH-1620) notes](catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth162-notes.md "Cintiq Pro 16 2016 (DTH-1620)")
         * [Wacom Cintiq Pro 32 touch (DTH-3220) notes](catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth3220-notes.md "Cintiq Pro 32 touch (DTH-3220) ")
+        * [Wacom Cintiq Pro Engine (DPM-W1000x)](catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-cintiq-pro-engine-dpm-w1000x.md)
       * [Wacom Movink](catalog/drawtabs/wacom/wacom-movink/README.md "Movink")
         * [Wacom Movink 13 (DTH-135) notes](catalog/drawtabs/wacom/wacom-movink/wacom-dth135-notes.md "Movink 13 (DTH-135) notes")
       * [Wacom One](catalog/drawtabs/wacom/wacom-one/README.md)
