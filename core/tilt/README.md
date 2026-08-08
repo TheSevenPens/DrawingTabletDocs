@@ -4,6 +4,15 @@
 
 Almost all drawing tablets can detect the tilt of the pen. Tilt support for drawing tablets usually ranges from 0 degrees to 60 degrees.
 
+Tilt is described by two angles: tilt elevation and tilt azimuth.
+
+* elevation = "how much the pen leans over"
+* azimuth = "The direction of the lean - like north, west, northwest, etc."
+
+
+
+
+
 <figure><img src="../../.gitbook/assets/pen-tilt-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 This video demonstrates tilt. I highly recommend you watch it.
