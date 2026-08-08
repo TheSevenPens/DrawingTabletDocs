@@ -10,7 +10,7 @@ A pen display has three requirements to work: **power**, **data**, and a **video
 
 They could be carried by three separate cables, a single cable, or specialty cables. It depends on the specific tablet and your computer.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="563"><figcaption></figcaption></figure>
 

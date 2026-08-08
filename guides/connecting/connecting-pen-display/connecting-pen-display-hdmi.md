@@ -22,9 +22,9 @@ PLEASE read [Connecting a Pen Display](./). One you understand the basics, this 
 
 **HDMI** carries only the video signal, so power and data are handled by separate cables. Typically, this will be two cables (one for power and one for data) or a 3-in-1 cable (see [Connecting with a 3-in-1 cable](connecting-with-a-3-in-1-cable.md)). When a 3-in-1 cable is used, there will be two USB-C ports on the tablet.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Getting power
 

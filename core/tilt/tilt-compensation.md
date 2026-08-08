@@ -6,7 +6,58 @@ To correctly represent the position of the pen, the tablet has to perform someth
 
 One point to stress: tilt compensation is performed by the tablet, not the pen.
 
-<figure><img src="../../.gitbook/assets/pen-tilt-compensation-1.png" alt="" width="563"><figcaption></figcaption></figure>
+Before you continue, read the section on [tilt](./). It is important you understand the concept of **tilt altitude** and **tilt azimuth** first, before you explore tilt compensation deeply.
+
+## Baseline: Perfect tilt compensation
+
+No tablet has perfect tilt compensation. None.
+
+That being said, some points:
+
+* Some tablets are very very good at tilt compensation
+* Some some are not as good.&#x20;
+* Even if a tablet is bad at it, you may never notice it.
+* Tilt compensation is needed for both tablets with screens and tablets without screens. But it much much noticeable with screens - because your eyes can clearly see where the tip of the pen is and where the pointer is.&#x20;
+
+This is what theoretically perfect tilt compensation looks like:
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## A simple example imperfect tilt compensation
+
+The diagrams below show how imperfect tilt compensation can look like - the pointer "drifts" from the ideal position. There are many variations to how much drift observe and in which direction the drift occurs, but this is a good starting point to understand the topic.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Perfect vs good tilt compensation
+
+Because no tablet has perfect tilt compensation, we should develop an expectation of what good tilt compensation looks like. In my experience a GOOD tilt result for tilt compensation is that at 45 degrees of tilt elevation, the pointer drifts a little but still looks to touch the tip of the nib. If I had to give number to this drift - in this example below it would be about ⅓ of a millimeter. Your experiences and preferences may vary.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+## Pointer drift direction
+
+The drift may occur towards the direction is leaning or away from that direction.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Pointer drift based on tilt direction (azimuth)
+
+You may see that the pointer drifts in some orientations, but less in others.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+I have found that a pattern in some tablets where tilt compensation is good in all cardinal directions (N,S,E,W) but gets very inaccurate as the direction approaches the diagonal directions (NE,SE,SW,NW).
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## A peek inside tilt compensation
 
@@ -19,22 +70,6 @@ If the pen is vertical, this is straightforward. But if the pen is tilted, the t
 Drawing tablets use EMR technology, which detects an inductor inside the pen. That inductor is not close to the tip. It is deeper inside the pen.
 
 Some other pen technologies do not have as much separation. For example, the Apple Pencil does not have as much separation as EMR tablets.
-
-## Tilt azimuth and altitude
-
-Tilt is broken down into two angles: altitude and azimuth.
-
-**Altitude** is how high the far end of the pen is above the tablet. An altitude of 90 degrees is vertical. Most EMR pens can practically tilt to 30 degrees, giving a range of 60 degrees.
-
-If you picture your tablet as a map with compass directions (N, S, E, and W), **azimuth** is the direction in which the pen points.
-
-So tilt compensation drift will tend to increase as the altitude decreases.
-
-Azimuth should not affect drift in practice, but certain directions often cause more drift. You might notice this in right-handed versus left-handed usage. You might also notice very little drift when the pen points exactly at N, S, E, and W, but much more drift when it points at NE, SE, SW, and NW.
-
-## Expectations
-
-**No tablet performs tilt compensation perfectly.** As you tilt the pen further, the pointer inevitably drifts slightly. You may notice this if you look carefully.
 
 ## Older tablets
 
@@ -61,16 +96,4 @@ Pen displays offer a pointer calibration process to help align the pen tip with 
 When you perform this calibration, do **not** hold the pen vertically. Hold the pen in the natural position you use while drawing.
 
 If you hold the pen vertically, the calibration will likely be less accurate.
-
-## Pen displays vs pen tablets
-
-Tilt calibration is important for both pen displays (screen tablets) and pen tablets (screenless tablets).
-
-However, inadequate tilt compensation is much more obvious with pen displays than with pen tablets. With a pen display, you can see whether the pointer drifts from the pen tip as you tilt.
-
-## Definition of EXCELLENT tilt compensation
-
-Ideally, there is no cursor drift regardless of the tilt. More specifically, no combination of tilt altitude and azimuth should cause the pointer to drift.
-
-In practice, this ideal is impossible. Here is a more reasonable definition of **excellent** tilt compensation: no combination of tilt altitude and azimuth should result in cursor drift of ≥ 1 mm.
 

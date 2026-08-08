@@ -20,7 +20,7 @@ For some of the compatible tablets, a firmware update will be needed. See: [Waco
 
 The exact firmware installed at the time of testing is shown below:
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Links
 
