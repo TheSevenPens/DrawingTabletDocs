@@ -5,7 +5,7 @@
 Extra-large pen tablets have an active area diagonal of about 23".
 
 * Are very specialized and not appropriate for most people
-* Are no longer in production - only Wacom made them, and the most recent model series, the Wacom Intuos 4 XL, is from 2011.
+* Are no longer in production - only Wacom made them, and the most recent model series, the Wacom Intuos 4 XL, is from 2011. See [Wacom Intuos 4 XL (PTK-1240) notes](../../catalog/drawtabs/wacom/wacom-intuos4/wacom-ptk1240-notes.md)
 * Require lots of adjustment to your work style due to their size
 
 ## List of XL tablets
