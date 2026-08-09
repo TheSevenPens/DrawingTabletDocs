@@ -251,7 +251,7 @@
     * [Electromagnetic Interference](guides/general/electromagnetic-interference.md)
     * [Connecting multiple drawing tablets at the same time](guides/general/connecting-multiple-drawtabs.md "Connecting multiple drawing tablets")
     * [Matching pen tablet size to monitor size](guides/general/pen-tablet-monitor-size.md)
-    * [Using extra-large pen tablets](guides/general/extra-large-pen-tablets.md)
+    * [Extra-large pen tablets](guides/general/extra-large-pen-tablets.md)
     * [Using large pen tablets](guides/general/large-pen-tablets.md)
     * [Transferring files between devices](guides/general/transferring-files.md "Transferring files")
   * [Platforms](guides/platforms/README.md)
