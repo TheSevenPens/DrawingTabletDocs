@@ -52,21 +52,47 @@ Wacom has not produced the PTK 1240 for many years, and it is no longer listed o
 * Diagonal length is \~575mm (22.6 mm)
 * Dimensions: 487.7 x 304.8 mm (19.2 x 12 in)
 
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_184121.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 Looking at the sizes of other tablets that Wacom has made, which go from small, medium, large, to extra-large, you can see that, in general, the size of the active area roughly doubles as the size category increases.&#x20;
 
-## Device features
+<figure><img src="../../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Device
 
 The PTK 1240 reflects a lot of design decisions that were common for tablets of its era and size.
 
-First, it is **extremely thick.** At its thickest, the Pen tablet measures 28 mm, which is a little bit thicker than 1 inch. This is over three times the thickness of modern professional tablets, which tend to be around 8 mm.
 
-Second, the **tablet is relatively heavy.** The PTK 1240 weighs 7.7 pounds.
 
-Third, modern pen tablets have a USB-C port and a cable that plugs into that port, which makes it easy to replace a cable if it gets damaged. But the PTK 1240 has a p**ermanently affixed cable** that ends in a USB-A connection. There are benefits to this approach because the connection to the tablet is highly protected, but if there is ever any damage to the cable, you will need to seek expert help in repairing it.
+It is **extremely thick.** At its thickest, the Pen tablet measures 28 mm, which is a little bit thicker than 1 inch. This is over three times the thickness of modern professional tablets, which tend to be around 8 mm.
 
-Fourth, in tablet off this era, Wacom had a **clear sheet of plastic** that you could lift up and put paper underneath, which helped if you wanted to do something like tracing a drawing. The PTK 1240 has this feature, and the Intuos 4 series are the last of Wacom's professional tablets to feature this plastic sheet. This plastic sheet is quite durable, though I am not sure if Wacom ever sold a replacement for it in case you scratch it up.
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_183814.jpg" alt=""><figcaption></figcaption></figure>
+
+The **tablet is relatively heavy.** The PTK 1240 weighs 7.7 pounds.
+
+<figure><img src="../../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+Modern pen tablets have a USB-C port and a cable that plugs into that port, which makes it easy to replace a cable if it gets damaged. But the PTK 1240 has a p**ermanently affixed cable** that ends in a USB-A connection. There are benefits to this approach because the connection to the tablet is highly protected, but if there is ever any damage to the cable, you will need to seek expert help in repairing it.
+
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_184011.jpg" alt=""><figcaption></figcaption></figure>
+
+In pro pen tablets of this era, Wacom had a **clear sheet of plastic** that you could lift up and put paper underneath, which helped if you wanted to do something like tracing a drawing. The PTK 1240 has this feature, and the Intuos 4 series are the last of Wacom's professional tablets to feature this plastic sheet. This plastic sheet is quite durable, though I am not sure if Wacom ever sold a replacement for it in case you scratch it up.
+
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_184039.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Digitizer
+
+
 
 The maximum number of pressure levels supported is 2048, which I think is more than enough for most people, despite the fact that modern tablets have 8,000 or even 16,000 levels of pressure.&#x20;
 
@@ -92,9 +118,15 @@ The way to mitigate this problem is to put the tablet on a stand of some kind, w
 
 I bought a drafting stand on Amazon for about $60. I then used a screwdriver to remove the sliding metal rule meant to hold paper to the board, which gave me a flat surface. To keep the Pen tablet from sliding off the smooth surface when it's angled, I cut a length of Cat5 networking cable to the width of the tablet and taped it to the bottom edge of the board's surface. This created a ledge that easily supports the weight of this 7.7 lb device and brings the far corners within easy reach of my arms.
 
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_184650.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_184712.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/Slide_20260809_184738.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Setting up my desktop
 
-Tthis tablet is huge and heavy. Using it with a stand puts even more equipment on your desk. The tablet and stand occupy so much space that essentially nothing is easily within reach, even for the width of my arms. I have to keep the keyboard and mouse off to the side, and it's awkward to type on the keyboard because it's so far away from me.
+This tablet is huge and heavy. Using it with a stand puts even more equipment on your desk. The tablet and stand occupy so much space that essentially nothing is easily within reach, even for the width of my arms. I have to keep the keyboard and mouse off to the side, and it's awkward to type on the keyboard because it's so far away from me.
 
 My solution to this problem was to minimize the use of the keyboard by using a TourBox controller. The controller allows me to put my left hand on it, which maps all my shortcut keys, and keep my right hand holding the pen on the tablet. This means that 99% of the time, I never need to touch a keyboard.
 
