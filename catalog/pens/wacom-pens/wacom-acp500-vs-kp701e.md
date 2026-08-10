@@ -1,10 +1,10 @@
-# Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)
+# Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701E)
 
 ## Summary
 
 Both the Art Pen 2 and Art Pen 1 are fantastic pens in terms of performance. In addition, the Art Pen 2 improves upon the formula with a more ergonomic design and three buttons. However, the Art Pen 2 loses an eraser and does not have the low IAF I found in the Art Pen 1. The Art Pen 2 is also compatible with far fewer tablets.
 
-Note the Art Pen 2 is also referred to as the Intuos 4 Art Pen because it was launched along with the Wacom Intuos 4 tablet series.
+Note the Art Pen 1 (KP-701E) is also referred to as the Intuos 4 Art Pen because it was launched along with the Wacom Intuos 4 tablet series.
 
 ## Links to main articles
 
