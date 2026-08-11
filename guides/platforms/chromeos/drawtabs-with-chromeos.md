@@ -4,7 +4,7 @@
 
 Very few pen tablets and pen displays can be used with ChromeOS devices such as Chromebooks. Some do not work at all. Many cannot use features like pressure or tilt.
 
-<mark style="color:red;">**IN GENERAL, I DO NOT RECOMMEND USING CHROMEBOOKS WITH A DRAWING TABLET**</mark>.
+<mark style="color:red;">**I DO NOT RECOMMEND USING CHROMEBOOKS WITH A DRAWING TABLET**</mark>.
 
 ## Compatibility
 
@@ -17,7 +17,7 @@ Very few pen tablets and pen displays can be used with ChromeOS devices such as 
 * Tablet model
 * Apps
 
-I suggest you also seek out opinions from other users of your tablet model. See what their experience with Chromebooks has been.
+I suggest you also seek out opinions from other users of your tablet model. See what their experience with has been.
 
 Remember: Not all combinations work. And certain combinations work only partially.
 
@@ -34,9 +34,20 @@ Tablets work with the built-in drivers in Chromebooks, not the manufacturer driv
 
 With pen tablets, you will not be able to force the active area to match the Chromebook display. This means there will be distortion in your drawing. Learn more: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 
-## Testing results
+## Mapping the tablet's active area to a display
 
-[ChromeOS testing results](chromebook-testing-results.md)
+With Windows or MacOS the pen moves a pointer on an assigned display. This assignment is done by the table driver.
+
+With ChromeOS, depending on the tablet, the assignment is figured out some other way:
+
+* Sometimes, the assignment is always forced to be the embedded display of the Chromebook
+* Or, the assignment will be the last display that was touched by hand or where the pointer was moved via the embedded touchpad
+
+## Pointer visibility
+
+With Windows or MacOS the pen moves a visible pointer shape on the display. With ChromeOS, depending on the tablet.
+
+With ChromeOS, depending on the tablet, you may not see the pointer at all.
 
 ## Assigning tablet and pen buttons on ChromeOS
 
@@ -44,6 +55,10 @@ With pen tablets, you will not be able to force the active area to match the Chr
 * You should see your tablet's name. Click it.
 * Click **Customize tablet buttons**.
 * You should see each **ExpressKey** listed. You can modify its assignment.
+
+## Testing results
+
+[ChromeOS testing results](chromebook-testing-results.md)
 
 ## Resources
 
