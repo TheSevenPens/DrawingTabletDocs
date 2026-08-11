@@ -12,13 +12,12 @@ Very few pen tablets and pen displays can be used with ChromeOS devices such as 
 
 **You MUST verify compatibility** for **SPECIFIC COMBINATIONS** of
 
-* ChromeBook devices
 * Chromebook devices
 * ChromeOS versions
 * Tablet model
 * Apps
 
-I suggest you also seek out the opinion of other users of your tablet model and see what their experience has been with Chromebooks.
+I suggest you also seek out opinions from other users of your tablet model. See what their experience with Chromebooks has been.
 
 Remember: Not all combinations work. And certain combinations work only partially.
 
@@ -33,7 +32,7 @@ Tablets work with the built-in drivers in Chromebooks, not the manufacturer driv
 
 ## Pen tablets: distorted drawing due to mismatched aspect ratios
 
-With pen tablets, you will not be able to force the active area to match the display of the Chromebook. This means there will be distortion in your drawing. More here: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
+With pen tablets, you will not be able to force the active area to match the Chromebook display. This means there will be distortion in your drawing. Learn more: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 
 ## Testing results
 
@@ -41,10 +40,10 @@ With pen tablets, you will not be able to force the active area to match the dis
 
 ## Assigning tablet and pen buttons on ChromeOS
 
-* Once you plug the tablet into your Chromebook, go to **Settings > Device > pen tablet**
-* There you should see your tablet name. Click on it.
-* Click on **Customize tablet buttons**
-* There you should see each **ExpressKey** listed, and you can modify its assignment.
+* Once you plug the tablet into your Chromebook, go to **Settings > Device > Pen tablet**.
+* You should see your tablet's name. Click it.
+* Click **Customize tablet buttons**.
+* You should see each **ExpressKey** listed. You can modify its assignment.
 
 ## Resources
 
@@ -62,4 +61,4 @@ Even without a drawing tablet attached, SOME Chromebooks work with a stylus on t
 * [Chrome Unboxed - Better pen experiences are coming soon to Chromebook tablets](https://www.youtube.com/watch?v=GAHxEvu8-d4) 2023-05-04 - NOTE: this video is speculation.
 * [Tablet Pro - The Best Stylus for Chromebooks: A Game-Changer for Artists and Designers](https://www.youtube.com/watch?v=366A8Kx9-hI) - Introducing USI 2.0 2023-06-17
 * [John R Sowash - 3 digital pens for Chromebooks (great for teachers & students!)](https://www.youtube.com/watch?v=FOU4fwq0njQ) - 2020-11-13
-* [Steadler - List of Devices with EMR technology](https://e.staedtlercdn.com/fileadmin/user_upload/Product/PDF/Compatibility_Noris_digital.1598339239.pdf)
+* [Staedtler - List of Devices with EMR technology](https://e.staedtlercdn.com/fileadmin/user_upload/Product/PDF/Compatibility_Noris_digital.1598339239.pdf)
