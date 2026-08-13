@@ -49,9 +49,9 @@ You don't strictly need your **Pen display** to have the same pixel density as a
 
 These are the results of a small survey I conducted in August 2026.
 
-One of the questions posed in the survey was for users to identify the ideal resolution across different sizes of **Pen tablets**. Here are the initial raw results for 13 respondents.
+One of the questions posed in the survey was for users to identify the ideal resolution across different sizes of **Pen tablets**. Here are the initial results for 16 respondents.
 
-<figure><img src="../.gitbook/assets/Forms response chart. Question title Please indicate the ideal resolution for each specific pen display size category. (NOTE this is about pen displays that you draw on, not monitors in general). Number of responses  (1)." alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Forms response chart. Question title Please indicate the ideal resolution for each specific pen display size category. (NOTE this is about pen displays that you draw on, not monitors in general). Number of responses  (3)." alt=""><figcaption></figcaption></figure>
 
 Some things we can notice in the data:&#x20;
 
