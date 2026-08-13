@@ -36,7 +36,7 @@
   * [How many pressure levels do you really need?](buying/how-many-pressure-levels.md)
   * [Choosing the right size for a drawing tablet](buying/choosing-size.md "Choosing the size")
   * [Simulating tablet size](buying/simulating-size.md)
-  * [Choosing the right display resolution for a pen display](buying/choosing-display-resolution.md "Choosing display resolution")
+  * [Choosing the resolution for a pen display](buying/choosing-pendisplay-resolution.md "Choosing display resolution")
   * [Gifting tablets](buying/gifting-drawtabs.md)
   * ["PRO" tablets](buying/pro-drawtabs.md)
   * [Switching from pen tablet to a pen display](buying/switch-pentab-to-pendisplay.md)

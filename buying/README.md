@@ -99,7 +99,7 @@ Read more here:
 
 ## Pen display features
 
-* **Display resolution** - Learn how to choose the [display resolution](choosing-display-resolution.md).
+* **Display resolution** - Learn how to choose the [display resolution](choosing-pendisplay-resolution.md).
 * **Brightness** - Pen displays are bright but not as bright as some other displays you may be familiar with. More here: [Brightness](../guides/pen-displays/brightness.md).
 * **Parallax -** Parallax is the apparent gap between the physical tip of the pen and where the computer thinks the tip is. Some people are more sensitive to this than others. Learn more here: [Parallax](../guides/pen-displays/parallax.md).
 * **Lamination** - Lamination reduces parallax. I highly recommend getting a pen display that has lamination. Learn more here: [Lamination](../guides/pen-displays/lamination.md)

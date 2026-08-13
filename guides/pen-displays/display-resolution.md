@@ -35,7 +35,7 @@ For example:
 
 ## Recommendations for resolution
 
-[Choosing the right display resolution for a pen display](../../buying/choosing-display-resolution.md)
+[Choosing the right display resolution for a pen display](../../buying/choosing-pendisplay-resolution.md)
 
 ## macOS considerations
 
