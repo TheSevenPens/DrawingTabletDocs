@@ -19,17 +19,19 @@ This video demonstrates tilt. I highly recommend that you watch it.
 
 ## How tilt is used in drawing applications
 
-Think about how you use a pencil. When you want a fine line, you keep the pencil more perpendicular. When you want a wider line — perhaps while shading an area — you tilt the pencil.
+Using tilt in an application involves letting tilt azimuth or tilt altitude affect properties of a brush.
 
-Many drawing applications have digital brushes that mimic that same behavior.
+### Tilt altitude to size
 
-For example, here is a stroke I drew with Krita. I configured the brush to ignore pressure entirely, but to let the amount of tilt control the width of the brush.
+A common use it to let tilt altitude control the width of the stroke. So leaning the pen over increaese the width of the stroke.&#x20;
 
-As I drew from left to right, I started with the pen very perpendicular and gradually started tilting the pen.
+For example, below is a stroke I drew with Krita. I configured the brush to ignore pressure entirely, but to let the tilt altitude control the width of the brush. As I drew from left to right, I started with the pen very perpendicular and gradually started tilting the pen.
 
 <figure><img src="../../.gitbook/assets/pen-tilt-3.png" alt=""><figcaption></figcaption></figure>
 
-Mapping tilt to brush width is the most common use of tilt. However, depending on the application, you could use tilt to control other stroke attributes.
+### Tilt azimuth to size
+
+Typically this means the direction of the tilt controls the rotation of the brush.
 
 ## Which tablets support tilt
 
@@ -45,8 +47,6 @@ It's easier to list the modern tablets that do not support tilt:
 
 ## Do you need tilt support?
 
-The vast majority of drawing tablets have tilt support, but a few entry-level Wacom ones do not.
-
 For some people tilt is critical and for others, it is not useful at all. It strongly depends on what they are doing.
 
 | Scenario                                    | Is tilt useful? | Notes                                                    |
@@ -61,18 +61,15 @@ For some people tilt is critical and for others, it is not useful at all. It str
 
 You don't need to know these details. If you are curious about how an EMR tablet detects pen tilt, see [EMR tilt detection](../../tech/emr/emr-tilt-detection.md).
 
-## Tilt angle range
+## Tilt altitude range
 
-* The standard range is ±60 degrees in both the X and Y directions.
+* The standard range for tile altitude is ±60 degrees in both the X and Y directions.
 * I don't know of any tablets that support a wider range.
+* Some very old tablets have a slightly narrower range.
 
 ## Tilt support in applications
 
-* Even if your tablet is sending tilt data to your computer, your application may or may not be using the data.
-* Some applications don't use tilt data at all. Most note-taking applications, such as OneNote, recognize pressure but not tilt.
-* Other applications recognize tilt only for specific brushes. For example, a "pencil" brush typically supports tilt. Other brush types may not. These brushes may also have settings for customizing whether and how they use tilt.
-* Here is an example of a brush in Krita. Its Rotation setting uses the Drawing Angle, but it could use tilt instead.
-* ![](../../.gitbook/assets/pen-tilt-1.png)
+See: [Using tilt with your brush](../../guides/customizing/using-tilt.md)
 
 ## Tilt effect on pen tracking accuracy (tilt compensation)
 
@@ -82,4 +79,4 @@ See [tilt compensation](tilt-compensation.md)
 
 ## Disabling tilt
 
-You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [Disabling pen tilt](disable-tilt.md)
+You may not always want to have tilt affect your drawing. It is possible in some cases to disable it. More here: [Disabling pen tilt](../../guides/customizing/disable-tilt.md)

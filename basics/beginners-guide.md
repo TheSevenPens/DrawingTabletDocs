@@ -74,7 +74,7 @@ Wacom has been the best-known drawing tablet brand for about 40 years. It is als
 * **Tracking pen position** - Tablets detect the position of the tip of the pen relative to the tablet surface. Learn more here: [Tracking](../core/tracking.md)
 * **Tracking pen orientation** - Tablets detect how the pen is rotated relative to the tablet surface.
   * **Pen tilt** - Pen tilt is useful if you work with a creative application with brushes that respond to tilt. Learn more here: [Pen tilt](../core/tilt/). Most, but not all, tablets support tilt.
-  * **Barrel rotation** - Learn more here: [Pen barrel rotation](../core/barrel-rotation/). This is very rare in tablets and requires pens with special hardware.
+  * **Barrel rotation** - Learn more here: [Pen barrel rotation](../core/barrel-rotation.md). This is very rare in tablets and requires pens with special hardware.
 * **Hover** - Tablets detect the position of the pen even when it does not touch the surface, usually up to a distance of 10 mm. All drawing tablets support hover. More here: [Pen hover](../core/hover/)
 * **Pen pressure detection** - The pen detects how hard you are pressing on its tip. Learn more here: [Pen pressure](../core/pressure/). All modern pens detect about 8192 levels of pressure. But even 2048 is enough for any creative use.
 * **Pen buttons** - Pens usually feature two buttons. By default, these buttons act as a left mouse click and a right mouse click. You can configure them to perform other actions. More here: [Pen buttons](../guides/pens/pen-buttons.md)
