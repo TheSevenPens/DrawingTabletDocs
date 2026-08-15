@@ -55,7 +55,7 @@ Lower unit-to-unit IAF variation is very desirable. Low variation means that, if
 ## Changing the IAF
 
 * Lowering IAF - see [Decreasing IAF](../../guides/customizing/lowering-iaf.md)
-* Increasing IAF - see [Increasing IAF](../../guides/customizing/increasing-iaf.md)
+* Increasing IAF - see [Increasing IAF](../../guides/customizing/raising-iaf.md)
 
 ## A higher IAF can be useful
 
@@ -67,7 +67,7 @@ As the pressure sensing mechanism in a pen becomes more sensitive to enable very
 
 ## Effectively increasing IAF with pressure curves
 
-The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See [Increasing IAF](../../guides/customizing/increasing-iaf.md).
+The IAF of a pen cannot be lowered, but it can be effectively increased with a pressure curve. See [Increasing IAF](../../guides/customizing/raising-iaf.md).
 
 Sometimes tablets are preconfigured to raise the IAF artificially. If that is the case, you can remove the artificial increase to get back to the native IAF. More here: [Pressure curve dead zones](pressure-curves/pressure-curve-deadzone.md)
 

@@ -61,7 +61,7 @@ To see which drivers and apps support which shapes, see: [App pressure curves](p
 * [Constraining pressure curve output](pressure-curve-constrain-output.md)
 * [Constraining pressure curve input](pressure-curve-constrain-input.md)
 * [Decreasing IAF](../../../guides/customizing/lowering-iaf.md)
-* [Increasing IAF](../../../guides/customizing/increasing-iaf.md)
+* [Increasing IAF](../../../guides/customizing/raising-iaf.md)
 * [Lowering maximum physical pressure](../../../guides/customizing/lowering-max-physical-pressure.md)
 
 ## Driver UX for pressure curves
