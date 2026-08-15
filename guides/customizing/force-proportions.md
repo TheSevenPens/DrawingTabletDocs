@@ -80,6 +80,12 @@ FP restricts the region of the active area that matches to that of your monitor 
 * On the bottom left there is a drop down.
 * Switch the dropdown to **Screen Ratio**./
 {% endtab %}
+
+{% tab title="OTD" %}
+1. Open the OpenTabletDriver app
+2. In the **Output** tab, right-click the **Tablet** area rectangle.
+3. Enable **Lock aspect ratio**
+{% endtab %}
 {% endtabs %}
 
 ### Companion video
