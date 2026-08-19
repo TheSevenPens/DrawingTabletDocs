@@ -31,9 +31,11 @@ Here are several examples of how the driver indicates the tablet is not connecte
 {% endtab %}
 {% endtabs %}
 
-## Driver versus operating system
+## Why this error van be very confusing
 
-What makes this issue confusing is that sometimes your computer's operating system may know that a device is connected even if the tablet driver does not. For example, your operating system may "beep" when you plug the tablet in, and may even list it as a device, even though the driver insists nothing is connected.
+The problem can occur: EVEN IF YOUR TABLET IS CORRECTLY PHYSICALLY CONNECTED TO THE COMPTUER
+
+Your operating system may "beep" when you plug the tablet in and may even list the tablet as a device. At the same time, the driver may insist the tablet is not connected.
 
 ## What is not being detected
 
