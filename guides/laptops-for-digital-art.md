@@ -19,19 +19,25 @@ There are three possible operating systems for laptops:
 
 * Windows
 * MacOS
-* ChromeOS
+* ChromeOS - not recommended
 
-First, I DO NOT recommend getting a ChromeOS laptop (aka Chromebook). In my testing, they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](platforms/chromeos/drawtabs-with-chromeos.md).
+### ChromeOS
 
-This leaves Windows or macOS as choices for your laptop.
+I DO NOT recommend getting a ChromeOS laptop (aka Chromebook). In my testing, they do not work well with drawing tablets. See: [Connecting a drawing tablet to a ChromeOS device](platforms/chromeos/drawtabs-with-chromeos.md).
+
+### Windows vs MacOS
 
 Neither Windows nor macOS is better at using drawing tablets. Both have advantages and disadvantages in how they work with drawing tablets.
 
-Here are some considerations for choosing:
+Considerations for choosing between Windows vs MacOS:
 
 * Which one supports the apps you want to use? Some apps are Windows-only and some are Mac-only. Some apps like Photoshop work on both.
 * Which one is similar to laptops you already have? If you are used to using Windows, then staying with Windows for the laptop is generally an easier thing.
 * If you are buying one for school, what is everyone else using? Does the school have a recommendation?
+
+### Windows on ARM
+
+When Windows ARM laptops launched in 2024, drawing tablet drivers did not support ARM processors. Now, they do. However, ARM support for tablet drivers is very new, so consider Intel-based Windows laptops until we've had more experience using ARM on Windows. More here: [Windows on ARM](platforms/windows/windows-on-arm.md).
 
 ## Processor
 
@@ -51,9 +57,9 @@ Your choice depends on the apps and kinds of work you are going to be doing.
 * 3D apps tend to need more powerful processors, GPUs, and more RAM
 * 2D apps can get by with not much RAM (8 GB), but definitely more is better - especially if you work with lots of layers
 
-These days, the minimum I would recommend is 16 GB of RAM. 16 GB works well for me when I do 2D illustration using Krita and Clip Studio Paint.
+8 GB works for light projects and basic 2D art. It is a reasonable starting point for beginners. For a new laptop, I recommend at least 16 GB. It provides more headroom for layered files and lasts longer. 16 GB works well for 2D illustration in Krita and Clip Studio Paint.
 
-<table><thead><tr><th width="115">RAM</th><th>RATING</th></tr></thead><tbody><tr><td>4GB</td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB</td><td>OK. Should be fine basic 2D art. Good place to start for a beginner.</td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT.</td></tr></tbody></table>
+<table><thead><tr><th width="115">RAM</th><th>RATING</th></tr></thead><tbody><tr><td>4GB</td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB</td><td>OK-ish. Should be fine for basic 2D art. I worked with this amount for several years and for my minimal style and simple needs with Clip Studio Paint this worked. As of 2026, I think 8GB is too low.  </td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
 
 ## Pen display connection
 
@@ -61,7 +67,11 @@ These days, the minimum I would recommend is 16 GB of RAM. 16 GB works well for 
 
 Before you buy a laptop, please ensure that you are clear how you intend to connect it to your pen display. More here: [Connecting a pen display](connecting/connecting-pen-display/)
 
-I recommend that you get a laptop with at least 1 USB-C port that supports DP Alt Mode. Any Thunderbolt 3 or Thunderbolt 4 port will do. Ideally, a laptop should have two such ports. See: [USB-C DisplayPort alt mode](pen-displays/usbc-dp-alt-mode.md)
+**Minimum:** Get at least one USB-C port that supports DP Alt Mode. Thunderbolt 3/4/5 ports support this.
+
+**Ideal:** Get two USB-C ports that support DP Alt Mode.
+
+Confirm display-output support in the laptop specifications. A USB-C connector alone does not guarantee it. See: [USB-C DisplayPort alt mode](pen-displays/usbc-dp-alt-mode.md)
 
 If you want to connect to a pen display with a single USB-C cable, you should really read this document to ensure you understand the requirements for ports and cables: [Connecting a pen display with USB-C](connecting/connecting-pen-display/connecting-pen-display-usbc.md).
 
@@ -89,7 +99,7 @@ So you should verify your laptop can handle that many monitors.
 ## Laptops I have used and recommend
 
 * [Microsoft Surface Pro](../catalog/computers/microsoft/microsoft-surface-pro-9/)
-  * [Microsoft Surface Pro 8 notes](../catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
+* [Microsoft Surface Pro 8 notes](../catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md)
 * 2023 M3 MacBook Pro - [Apple M3 MacBook Pro](../catalog/computers/apple/apple-m3-macbook-pro.md)
 * Surface Laptop 5 & 6 (**but NOT 7** - see the note on Windows on ARM below)
 * Samsung Galaxy Book5 Pro 360
@@ -104,19 +114,9 @@ Check the reviews for these laptops
 * ASUS ProArt PX13
 * ASUS ProArt P16
 
-## Notes on specific kinds of laptops
-
-### Windows ARM laptops
-
-When Windows ARM laptops launched in 2024, drawing tablet drivers did not support ARM processors. Now, they do.
-
-However, ARM support for tablet drivers is very new, so consider Intel-based Windows laptops until we've had more experience using ARM on Windows.
-
-More here: [Windows on ARM](platforms/windows/windows-on-arm.md).
-
 ## Ports
 
-Ideally I think a laptop should have:
+Ideally a laptop should have:
 
 * AT LEAST 2 USB-C Thunderbolt 4 ports or 2 USB-C USB4 ports
   * The more ports Thunderbolt or USB4, the better
@@ -137,5 +137,3 @@ Keep in mind some power adapters may need to use one of the USB-C ports.
 ## Resources
 
 * [https://www.creativebloq.com/buying-guides/best-laptop-for-drawing](https://www.creativebloq.com/buying-guides/best-laptop-for-drawing)
-
-##
