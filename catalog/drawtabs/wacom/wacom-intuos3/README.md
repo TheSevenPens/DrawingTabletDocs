@@ -18,7 +18,7 @@ description: PTZ-x30 series
 
 ## Models
 
-<table><thead><tr><th width="131">Model ID</th><th width="279">Name</th></tr></thead><tbody><tr><td>PTZ-430</td><td>Intuos3 4x5</td></tr><tr><td>PTZ-431W</td><td>Intuos3 4x6</td></tr><tr><td>PTZ-630</td><td>Intuos3 6x8</td></tr><tr><td>PTZ-631W</td><td>Intuos3 6x11</td></tr><tr><td>PTZ-930</td><td>Intuos3 9x12</td></tr><tr><td>PTZ-1230</td><td>Intuos3 12x12</td></tr><tr><td>PTZ-1231W</td><td>Intuos3 12x19</td></tr></tbody></table>
+<table><thead><tr><th width="131">Model ID</th><th width="279">Name</th><th>Notes</th></tr></thead><tbody><tr><td>PTZ-430</td><td>Intuos3 4x5</td><td></td></tr><tr><td>PTZ-431W</td><td>Intuos3 4x6</td><td></td></tr><tr><td>PTZ-630</td><td>Intuos3 6x8</td><td></td></tr><tr><td>PTZ-631W</td><td>Intuos3 6x11</td><td></td></tr><tr><td>PTZ-930</td><td>Intuos3 9x12</td><td></td></tr><tr><td>PTZ-1230</td><td>Intuos3 12x12</td><td><a href="wacom-ptz1230-notes.md">Wacom Intuos3 12x12 (PTZ-1230) notes</a></td></tr><tr><td>PTZ-1231W</td><td>Intuos3 12x19</td><td></td></tr></tbody></table>
 
 ## Resources
 
