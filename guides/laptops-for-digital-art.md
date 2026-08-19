@@ -1,6 +1,6 @@
 # Laptops for digital art
 
-## **Overview**
+## Overview
 
 This document provides some advice for buying a laptop where you will connect it to a drawing tablet.
 
@@ -13,7 +13,7 @@ Please make use of the community (for example on reddit) to get feedback and gui
 * Reddit: [r/SuggestALaptop](https://www.reddit.com/r/SuggestALaptop/)
 * Reddit: [r/DigitalPainting](https://www.reddit.com/r/DigitalPainting/)
 
-## Operating System
+## Operating system
 
 There are three possible operating systems for laptops:
 
@@ -50,7 +50,7 @@ What affects your choice is the apps that you use and how you use them. For exam
 * 3D apps generally need more powerful processors
 * 2D apps usually don't have such high requirements
 
-## **RAM**
+## RAM
 
 Your choice depends on the apps and kinds of work you are going to be doing.
 
