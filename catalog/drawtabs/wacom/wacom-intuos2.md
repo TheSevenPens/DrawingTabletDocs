@@ -11,7 +11,7 @@ This is a professional pen tablet series from 2001.
 * Release year: 2001
 * Intuos Pro generation: 2nd gen
 * Preceded by: [Wacom Intuos1](wacom-intuos1/)
-* Succeeded by: [Wacom Intuos3](wacom-intuos3.md)
+* Succeeded by: [Wacom Intuos3](wacom-intuos3/)
 * User manual
   * [Intuos2 User Manual for Windows](https://101.wacom.com/productsupport/manual/Intuos2UsersManual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-7368619/page/n1/mode/2up))
   * [Intuos2 User Manual for Mac](https://101.wacom.com/productsupport/mac_manuals/IntuosUserManual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5860859))

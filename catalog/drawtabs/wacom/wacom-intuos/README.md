@@ -16,6 +16,6 @@ For those professional Intuos tablets, go here:
 
 * [Wacom Intuos5](../wacom-intuos5.md)
 * [Wacom Intuos4](../wacom-intuos4/)
-* [Wacom Intuos3](../wacom-intuos3.md)
+* [Wacom Intuos3](../wacom-intuos3/)
 * [Wacom Intuos2](../wacom-intuos2.md)
 * [Wacom Intuos1](../wacom-intuos1/)

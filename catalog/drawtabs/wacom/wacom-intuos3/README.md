@@ -8,8 +8,8 @@ description: PTZ-x30 series
 
 * Release year: 2004
 * Intuos pro generation: 3rd gen
-* Preceded by: [Wacom Intuos2](wacom-intuos2.md)
-* Succeeded by: [Wacom Intuos4](wacom-intuos4/)
+* Preceded by: [Wacom Intuos2](../wacom-intuos2.md)
+* Succeeded by: [Wacom Intuos4](../wacom-intuos4/)
 * User manual
   * [Intuos 3 User Manual](https://cdn.wacom.com/u/productsupport/manuals/intuos3/user's%20manual.pdf) ([archive.org](https://archive.org/details/manualzilla-id-5708085))
 * Last supported driver
@@ -31,6 +31,6 @@ description: PTZ-x30 series
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/wacom-intuos3-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos3-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/wacom-intuos3-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos3-2.jpg" alt=""><figcaption></figcaption></figure>
