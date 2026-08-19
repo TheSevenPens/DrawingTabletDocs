@@ -49,19 +49,17 @@ You don't strictly need your **Pen display** to have the same pixel density as a
 
 These are the results of a small survey I conducted in August 2026.
 
-One of the questions posed in the survey was for users to identify the ideal resolution across different sizes of **Pen tablets**. Here are the initial results for 16 respondents.
+One of the questions posed in the survey was for users to identify the ideal resolution across different sizes of **Pen tablets**. Here are the initial results for 29respondents.
 
-<figure><img src="../.gitbook/assets/Forms response chart. Question title Please indicate the ideal resolution for each specific pen display size category. (NOTE this is about pen displays that you draw on, not monitors in general). Number of responses  (3)." alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Forms response chart. Question title Please indicate the ideal resolution for each specific pen display size category. (NOTE this is about pen displays that you draw on, not monitors in general). Number of responses  (5)." alt=""><figcaption></figcaption></figure>
 
-Some things we can notice in the data:&#x20;
+**13"** - Most are happy with a 2K resolution and some prefer 2.5K resolution. There's little preference for 4K. My take: 2K works well enough at this size. I can understand why some people prefer 2.5K. 4K at this size is unnecessary and can be difficult to work with.
 
-**For a 13-inch Pen display,** lots of people are totally happy with a 2K resolution, though some like a little higher density with a 2.5K resolution. People don't think 4K is necessary at 13 inches, and I strongly agree. I think it's not only unnecessary, it's definitely overkill—too much, and not needed. I think it's definitely too high a resolution at this size.
+**16" -** We see a strong preference for 2.5K compared to 2K. We see some interest in 4K. My take: I agree that 2.5K is great at this size. Though I have no difficulty working at 2K. 4K is still excessive at this size.
 
-**For the 16-inch size,** we see a strong preference and movement from 2K to 2.5K. I would strongly agree with this; 2.5K at 16 inches is a very good combination. Also, 4K at 16 inches is, I think, excessive.
+**22"** - People strongly shift to 4K with some still preferring 2.5K. My take" Many people will benefit from 4K resolution here. I am totally fine working with 2.5K at this size.&#x20;
 
-**At 22 inches,** we start seeing a major shift from 2.5K to 4K. I strongly agree that many people would benefit from 4K resolution here, though there's a sizable contingent of people, myself included, who are totally fine working with 2.5K at 22 inches.&#x20;
-
-**At 24 inches and above,** we start seeing a very strong preference for 4K. I would definitely agree that the vast majority of people would probably want and should look for 4K at these sizes because starting at 24 inches, you really will start noticing a lot of pixelation.
+**≥ 24"** - We see a strong preference for 4K. My take: I would definitely agree that the vast majority of people should look for 4K at these sizes. At resolutions less than 4K, people will start noticing a lot below 4K.
 
 ## MacOS
 
