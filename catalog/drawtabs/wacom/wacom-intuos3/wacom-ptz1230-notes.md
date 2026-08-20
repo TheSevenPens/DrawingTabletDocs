@@ -8,3 +8,51 @@ Released in 2024, the PTZ-1230 is the last of Wacom's pen tablets with a square 
 
 ## Photos
 
+<figure><img src="../../../../.gitbook/assets/IMG_0512 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/IMG_0514 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0516 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0517 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0518 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0520 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0521 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0525 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/IMG_0526 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
