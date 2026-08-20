@@ -32,11 +32,11 @@ Other users say they have used this tablet with an Android device and it worked 
 
 XP-Pen P05 - [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
 
-The included P05 pen has exactly the same as the old model and has the same high IAF.
+The included P05 pen has exactly the same as the old model and has the same high IAF that ranges from 6gf to 9gf depending on the pen unit I tested. This IAF is higher than is typical for modern pen tablets. But it might work for some people.
 
-### Other compatible pens
+### Compatible pens
 
-NONE
+* XP-Pen P05
 
 ## Better alternatives
 

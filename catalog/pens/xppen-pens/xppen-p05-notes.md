@@ -18,12 +18,14 @@ NO
 
 ## Included with these tablets (partial list)
 
-* XP-Pen Deco 01 V2
-* XP-Pen Deco 01 V3
+* XP-Pen Deco 01 V2 &#x20;
+* XP-Pen Deco 01 V3 -  [XP-Pen Deco 01 V3 notes](../../drawtabs/xppen/xppen-deco01v3-notes.md)&#x20;
 
 ## IAF
 
-Testing several units with the Deco 01 V3, I found their IAF to be around 7gf with some going as low as 6.0gf and one a bit higher at 9gf.
+Testing several units with the Deco 01 V3, I found the pen's IAF to be around 7gf with some going as low as 6.0gf and one a bit higher at 9gf.
+
+This is a higher IAF than I would typically recommend but it may be OK for beginners.
 
 | Statistic | IAF (gf) |
 | --------- | -------- |
