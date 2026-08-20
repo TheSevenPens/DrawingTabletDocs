@@ -155,6 +155,7 @@
     * [Using pen tablets with ultrawide monitors](guides/customizing/pen-tablets-with-ultrawide-monitors.md)
     * [Using a pen display as a pen tablet](guides/customizing/pen-display-as-pen-tablet.md)
     * [Using metal nibs](guides/customizing/metal-nibs.md)
+    * [Calibrating a pen display](guides/customizing/calibrating-a-pen-display.md)
     * [Clamping wide-gamut displays to sRGB](guides/customizing/clamping-to-srgb.md)
     * [Calibrate pen position](guides/customizing/calibrate-pen-position.md)
     * [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
