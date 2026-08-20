@@ -70,3 +70,11 @@ macOS handles resolution differently than Windows. In particular, it renders tex
 People often ask about choosing between these two resolutions. Overall, I think 2.5K is the best value for your money.
 
 Especially at the 13" and 16" sizes, a 2.5K display delivers a massive increase over 2K. At these sizes, higher resolutions provide only incremental benefits.
+
+This video illustrates some differences: [Nicolas11x12 English - 1440p vs 4K (2160p) Monitor -- What To Look Out For!](https://www.youtube.com/watch?v=0C2DnfPTcmE) 2018-04-05
+
+<figure><img src="../.gitbook/assets/0C2DnfPTcmE_00-03-24_Nicolas11x12_English_1440p_vs_4K_2160p_Monitor_--_What_To_Look_Out_For.png" alt=""><figcaption><p>From: <a href="https://www.youtube.com/watch?v=0C2DnfPTcmE">Nicolas11x12 English - 1440p vs 4K (2160p) Monitor -- What To Look Out For!</a> </p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/0C2DnfPTcmE_00-03-27_Nicolas11x12_English_1440p_vs_4K_2160p_Monitor_--_What_To_Look_Out_For (1).png" alt=""><figcaption><p>From: <a href="https://www.youtube.com/watch?v=0C2DnfPTcmE">Nicolas11x12 English - 1440p vs 4K (2160p) Monitor -- What To Look Out For!</a> </p></figcaption></figure>
