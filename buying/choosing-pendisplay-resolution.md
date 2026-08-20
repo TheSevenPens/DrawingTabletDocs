@@ -65,7 +65,7 @@ One of the questions posed in the survey was for users to identify the ideal res
 
 macOS handles resolution differently than Windows. In particular, it renders text differently, and this can make text look a little fuzzy at certain resolutions. Fortunately, there are ways to mitigate the problem. See: [Fuzzy text on displays with macOS](../guides/platforms/macos/display-resolution.md)
 
-## **Picking between 2.5K vs 4K resolution**
+## 2.5K vs 4K resolution
 
 People often ask about choosing between these two resolutions. Overall, I think 2.5K is the best value for your money.
 
@@ -78,3 +78,5 @@ This video illustrates some differences: [Nicolas11x12 English - 1440p vs 4K (21
 
 
 <figure><img src="../.gitbook/assets/0C2DnfPTcmE_00-03-27_Nicolas11x12_English_1440p_vs_4K_2160p_Monitor_--_What_To_Look_Out_For (1).png" alt=""><figcaption><p>From: <a href="https://www.youtube.com/watch?v=0C2DnfPTcmE">Nicolas11x12 English - 1440p vs 4K (2160p) Monitor -- What To Look Out For!</a> </p></figcaption></figure>
+
+Here's another resouce from tablet enthusiast Koyo to help you decide between 2.5K and 4K: [https://koyodraw.gitbook.io/drawtab/tablet-basics/24-inch-pen-display-1440p-or-4k](https://koyodraw.gitbook.io/drawtab/tablet-basics/24-inch-pen-display-1440p-or-4k)
