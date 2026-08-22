@@ -1,2 +1,0 @@
-# Calibrating a pen display
-
