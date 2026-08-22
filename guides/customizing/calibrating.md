@@ -2,7 +2,11 @@
 
 ## Overview
 
-For a drawing tablet, calibration can mean different things.
+"Calibration" can mean different things for a drawing tablet. It could relate to:
+
+* Calibration of the pen position
+* Color calibration
+* Pressure calibration
 
 ## Pen position calibration
 
@@ -10,7 +14,7 @@ Pen-position calibration applies to pen displays. It ensures the pen tip matches
 
 ## Color calibration
 
-Color calibration is a set of adjustments. It aligns your pen display's colors with your expectations, another display, or a standard. See [Calibrating color](calibrating-color.md).
+Color calibration applies only to pen displays. It aligns your pen display's colors with your expectations, another display, or a standard. See [Calibrating color](calibrating-color.md).
 
 ## Pressure calibration
 
