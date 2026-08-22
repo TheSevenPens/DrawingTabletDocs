@@ -21,11 +21,11 @@ To better understand the requirements for connecting a pen display, see [Connect
   * It must support sending enough power to your pen display
   * <mark style="color:red;">**SAFETY CRITICAL**</mark> It must support **at least** as much power as the tablet's original cable. If it is not rated to handle that much power, it can become a safety or fire risk.
 
-### What I use USB-C extension cables
+### What I use for USB-C extension cables
 
-I use a 2-foot UseBean USB-C extension cable. It has worked well for me. I have run up to `4K@60Hz` through this extension cable.
+I have used a 2-foot UseBean USB-C extension cable. It has worked well for me. I have run up to 4K@6Hz through this extension cable.
 
-I used it in these ways:
+I used it in these scenarios:
 
 * With a Huion Kamvas 22 Plus (GS2202): I connect it to the USB-C end of a Huion 3-in-1 cable.
 * With a Wacom Cintiq Pro 16 (DTH-167): I connect it to the USB-C cable that came with the Cintiq.
