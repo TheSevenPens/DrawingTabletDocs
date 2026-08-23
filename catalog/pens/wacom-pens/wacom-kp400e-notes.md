@@ -6,6 +6,13 @@
 * 1 Button
 * Eraser
 
+## Wheel
+
+* Rotation range: it does not spin freely. It seems to rotate only around 60 degrees.
+* Detents: none
+* Clickable: no
+* Value range: 0 to 1024
+
 ## Photos
 
 <figure><img src="../../../.gitbook/assets/20260822_220157 (Large).jpg" alt=""><figcaption></figcaption></figure>
