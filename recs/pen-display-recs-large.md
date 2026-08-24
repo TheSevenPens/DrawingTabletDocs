@@ -38,7 +38,3 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 ## Videos
 
 {% embed url="https://youtu.be/sXxU7I995XM" %}
-
-## Resources
-
-* [2024 22" pen displays compared](comparisons/2024-22inch-pen-displays-compared.md)
