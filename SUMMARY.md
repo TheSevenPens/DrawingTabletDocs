@@ -141,6 +141,7 @@
     * [Avoid dropping your pen](guides/maintain/avoid-dropping-pen.md)
     * [Etched glass](guides/maintain/etched-glass.md)
   * [Customizing your experience](guides/customizing/README.md "Customizing")
+    * [Mapping active area to a display](guides/customizing/map-active-area-to-display.md)
     * [Lowering maximum physical pressure](guides/customizing/lowering-max-physical-pressure.md)
     * [Lowering IAF](guides/customizing/lowering-iaf.md "Lowering IAF")
     * [Raising IAF](guides/customizing/raising-iaf.md)
