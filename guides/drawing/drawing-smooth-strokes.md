@@ -125,13 +125,15 @@ Applications like Krita also support vector tools. If you are having problems wi
 
 ## Use application auto-shape detection
 
-Some applications, like ProCreate on the iPad, have a a shape detection feature. Roughly speaking after you draw a stroke and hold you pen still for a moment, it will recognize a line, or circle, or curve and create a perfect smooth version of your stroke.
+Some applications, like Procreate on the iPad, have a a shape detection feature. Roughly speaking after you draw a stroke and hold you pen still for a moment, it will recognize a line, or circle, or curve and create a perfect smooth version of your stroke.
 
 ## Use application pressure smoothing
 
 A typical EMR pen is hypersensitive to pressure changes especially at the lower end of physical pressure range. Using a pressure curve can reduce some of that sensitivity. Another technique, possible is some apps (for example Krita and Rebelle) is to use **pressure smoothing**.
 
 Note that BOTH a **pressure curve** AND **pressure smoothing** together can produce better results than using them separately.
+
+See: [Pressure smoothing](../customizing/pressure-smoothing.md)
 
 ## Use application straight line assistants
 
