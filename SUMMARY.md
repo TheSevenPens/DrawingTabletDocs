@@ -160,6 +160,7 @@
     * [Calibrating pen position](guides/customizing/calibrate-pen-position.md)
     * [Calibrating color](guides/customizing/calibrating-color.md)
     * [Calibrating pressure](guides/customizing/calibrating-pressure.md)
+    * [Pressure smoothing](guides/customizing/pressure-smoothing.md)
     * [Clamping wide-gamut displays to sRGB](guides/customizing/clamping-to-srgb.md)
     * [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
     * [Controlling the pen tip behavior](guides/customizing/controlling-pen-tip-behavior.md)
