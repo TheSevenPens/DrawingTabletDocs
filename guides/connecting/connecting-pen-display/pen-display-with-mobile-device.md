@@ -4,6 +4,11 @@
 
 This guide focuses on how a pen display connects to a mobile device, such as a phone. It is a subset of the broader guide [Connecting a pen display](./), but it focuses on the issues that come up with mobile devices.
 
+More details in these articles:
+
+* [Using drawing tablets with Android devices](../../platforms/android/using-drawtabs-with-android.md)&#x20;
+* [Using drawing tablets with an iPad or iPhone](../../platforms/ios-and-ipados/drawtabs-with-ios.md)&#x20;
+
 ## Key requirements and realities
 
 * **USB-C port on the mobile device**
@@ -17,8 +22,3 @@ This guide focuses on how a pen display connects to a mobile device, such as a p
 * **Power**
   * Your pen display needs power from somewhere.
   * Most likely, your mobile device cannot provide enough power, so you will need a separate power source.
-
-## Specific cases
-
-* [Wacom One 2019 GEN1 (DTC-133) to Android device](https://support.wacom.com/hc/en-us/articles/1500006333362-How-do-I-connect-the-Wacom-One-DTC133-to-a-compatible-Android-device-)
-* Apple iPhones - these phones do not work with pen displays.
