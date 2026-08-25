@@ -139,7 +139,7 @@ Maybe not quite as performant as the Samsung S11 Ultra - but still very very goo
 
 ### **Android updates**
 
-Wacom has communicated to that updates are planned. But we don't know when these updates might be available. As of May 2026, Wacom has not provided any updates to this story.
+On August 2026, Wacom revealed they will offer an OS update to Android 17 sometime in 2027 (see [https://x.com/wacom/status/2089351831856230885](https://x.com/wacom/status/2089351831856230885))
 
 ## Speakers
 
@@ -297,11 +297,9 @@ Below is a set of diagonal lines drawn WITH A RULER qt the corners. There is som
 2. These were not slow strokes
 3. Towards the bottom edge there was more distortion
 
-I think this kind of distortion may be common to standalone mobile device so I don't have any particular concern, but for some people this may be irritating. Though remember it is easy to avoid - move the corner of you canvas a bit further toward the middle of the screen.&#x20;
+I think this kind of distortion may be common to standalone mobile device so I don't have any particular concern, but for some people this may be irritating. Though remember it is easy to avoid - move the corner of you canvas a bit further toward the middle of the screen.
 
 <figure><img src="../../../../.gitbook/assets/DTHA140_position_distortion_in_corners.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Tilt compensation
 

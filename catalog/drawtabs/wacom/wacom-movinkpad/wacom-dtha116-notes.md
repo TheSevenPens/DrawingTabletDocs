@@ -95,6 +95,12 @@ If you are ordering this device online, please make sure you are ordering the co
   * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
   * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>
 
+## Standalone experience
+
+### Android updates
+
+On August 2026, Wacom revealed they will offer an OS update to Android 16 sometime in 2026 (see [https://x.com/wacom/status/2089351831856230885](https://x.com/wacom/status/2089351831856230885))
+
 ## Display experience
 
 Topics to cover:
@@ -126,8 +132,6 @@ TBD
 
 TBD
 
-##
-
 ## Connections and cabling
 
 TBD
@@ -154,7 +158,7 @@ TBD
 
 ### Adjusting to the experience
 
-* I am used to the navigation on Smasung Galaxy Tab devices
+* I am used to the navigation on Samsung Galaxy Tab devices
 * The MovinkPad navigation is somewhat different. I am told it is "standard Android" behavior, but I honestly had some difficulty adjusting to it for my first two days.
 * I mention this not to criticize the MovinkPad UX, but rather to better prepare anyone who is coming from another device.
 *
