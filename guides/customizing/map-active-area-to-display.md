@@ -8,36 +8,28 @@ All drawing tablets need to identify which display the pointer will be on when t
 
 {% tabs %}
 {% tab title="Wacom" %}
-#### Wacom Tablet Properties&#x20;
+#### Overview
 
-Depending on the tablet it will be either under the **Mapping** or **Calibration** tab.
+Wacom has 4 different ways to indicate which monitor the active area is mapped to. WHich method is available depends on the whether you are using Wacom Center or Wacom Tablet Properties and which kind of tablet you have:
+
+*  Wacom Tablet Properties -> Calibration tab \[this is for pen displays]
+* Wacom Tablet Properties -> Mapping tab > Screen Area \[this is for pen tablets]
+* Wacom Center -> Advanced > Advanced settings > Assigned display  \[this is for pen displays]
+* Wacom Center -> Mapping > Advanced > Display Mapping \[this is for pen tablets]
 
 #### Wacom Tablet Properties > Mapping tab
-
-In the **Wacom Tablet Properties** app, for pen tablets, look under the **Mapping** tab.
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt="" width="138"><figcaption></figcaption></figure>
 
 #### Wacom Tablet Properties > Calibration tab
 
-In the **Wacom Tablet Properties** app, for pen displays, look under the **Calibration** tab and use the **Monitor** dropdown.
-
 <figure><img src="../../.gitbook/assets/image (37).png" alt="" width="188"><figcaption><p>Calibration tab.</p></figcaption></figure>
 
-#### Wacom Center
-
-Depending on the tablet you might find it in different locations: Under **Advanced** or under the **Mapping** tab.
-
 #### Wacom Center > Advanced
-
-**Advanced** > **Advanced Settings** > change **Assigned display** to your tablet
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### Wacom Center > Mapping tab
-
-_Tablet name_ > **Mapping** tab. On the right using **Advanced > Display mapping** you can choose to map to all displays or **one display**.\
-<br>
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
