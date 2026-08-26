@@ -24,7 +24,13 @@ Erasers are relatively uncommon for EMR pens.
 
 ### App support for erasers
 
-Drawing apps have to explicitly support erasers. Some do. Some do not.
+Some apps support erasers. Some do not support erasers. And some apps support erasers but need special configuration to use them.
+
+In the tablet driver if the eraser is configure to perform the "erase" action then:
+
+* Photoshop - using the eraser will cause the pen to start erasing.
+* Krita - using the eraser will cause the pen to start erasing.
+* Clip Studio Paint - requires some special configuration
 
 ## Usage of erasers
 
