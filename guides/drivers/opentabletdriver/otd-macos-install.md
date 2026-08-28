@@ -285,14 +285,9 @@ Try some basic drawing in your app of choice and confirm that:
 
 ### Start OpenTabletDriver when you log in
 
-Because OTD must stay running, you may want it to start automatically.
+Because OTD must stay running, you may want it to start on its own when you log in.
 
-* Open **System Settings**.
-* Go to **General** > **Login Items & Extensions**.
-* Under **Open at Login**, click the **+** button.
-* Select **OpenTabletDriver** from **Applications**, then click **Open**.
-
-OTD now starts each time you log in.
+See [Start OpenTabletDriver automatically](otd-start-automatically.md).
 
 ### Uninstall OpenTabletDriver
 
@@ -311,6 +306,7 @@ If you want your manufacturer driver back, install it after removing OTD, then r
 * [OpenTabletDriver](./)
 * [Notes on OpenTabletDriver](otd-notes.md)
 * [Install OpenTabletDriver on Windows](otd-windows-install.md)
+* [Start OpenTabletDriver automatically](otd-start-automatically.md)
 * [Pressure curves in OpenTabletDriver](pressure-curves-in-otd.md)
 * [Smoothing with OpenTabletDriver](otd-smoothing.md)
 * [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)

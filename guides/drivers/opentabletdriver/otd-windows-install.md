@@ -248,15 +248,9 @@ Try some basic drawing and see if everything is working.
 
 ### Start OpenTabletDriver when Windows starts
 
-* Right-click `OpenTabletDriver.UX.Wpf.exe`.
-* Select **Create Shortcut**.
-* Right-click the shortcut, then select **Properties**.
-* Under **Run**, select **Minimized**.
-* Click **OK**.
-* Press **Windows** + **R** to open the **Run** window.
-* In **Open**, type `shell:startup`.
-* This opens a new Explorer window pointing to a folder called **Startup**.
-* Move the shortcut to the **Startup** folder in that Explorer window.
+Because OTD must stay running, you may want it to start on its own when you sign in.
+
+See [Start OpenTabletDriver automatically](otd-start-automatically.md).
 
 ### Display toggle
 
@@ -268,4 +262,5 @@ To switch rapidly between monitors, you have two options:
 ## Related topics
 
 * [Uninstall OpenTabletDriver on Windows](otd-windows-uninstall.md)
+* [Start OpenTabletDriver automatically](otd-start-automatically.md)
 * [OpenTabletDriver application data directory](otd-app-data-directory.md)
