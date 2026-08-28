@@ -225,7 +225,7 @@
     * [OpenTabletDriver](guides/drivers/opentabletdriver/README.md)
       * [Install OpenTabletDriver on Windows](guides/drivers/opentabletdriver/otd-windows-install.md "Install on Windows")
       * [Uninstall OpenTabletDriver on Windows](guides/drivers/opentabletdriver/otd-windows-uninstall.md "Uninstall on Windows")
-      * [Install OpenTabletDriver on MacOS](guides/drivers/opentabletdriver/otd-macos-install.md "Install on MacOS")
+      * [Install OpenTabletDriver on macOS](guides/drivers/opentabletdriver/otd-macos-install.md "Install on MacOS")
       * [OpenTabletDriver application data directory](guides/drivers/opentabletdriver/otd-app-data-directory.md "Application data directory")
       * [Notes on OpenTabletDriver](guides/drivers/opentabletdriver/otd-notes.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/otd-smoothing.md "Smoothing")

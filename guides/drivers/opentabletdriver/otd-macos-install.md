@@ -1,79 +1,73 @@
-# Install OpenTabletDriver on MacOS
+# Install OpenTabletDriver on macOS
 
 ## Introduction
 
-This document will walk you through the installation of OpenTabletDriver (OTD) on MacOS.
+This document walks you through installing OpenTabletDriver (OTD) on macOS.
 
-If you want the windows instructions, go here: [Install OpenTabletDriver on Windows](otd-windows-install.md).
+For Windows instructions, see [Install OpenTabletDriver on Windows](otd-windows-install.md).
 
-The official OTD installation guide for MacOS is here: [https://opentabletdriver.net/Wiki/Install/MacOS](https://opentabletdriver.net/Wiki/Install/MacOS) This document is s more detailed walkthrough for those who are not familiar with OTD.
+The official OTD installation guide for macOS is [available here](https://opentabletdriver.net/Wiki/Install/MacOS). This document provides a more detailed walkthrough for users unfamiliar with OTD.
 
 <mark style="color:red;">**This document is IN PROGRESS and going through some significant edits. You might encounter incomplete sections.**</mark>
 
-### MacOS
+### macOS
 
-These instructions are shown for MacOS Tahoe. They should be similar to the steps needed on earlier versions of MacOS such as Sequoia but I have not confirmed this.
+These instructions apply to macOS Tahoe. Earlier versions, such as Sequoia, should require similar steps. This has not been confirmed.
 
 ### CPU architecture
 
-OTD runs on both Intel x86 and Apple Silicon macs.
+OTD runs on Intel x86 and Apple Silicon Macs.
 
 ### OTD versions
 
-* This document shows the steps for OTD version 0.66
-* I recommend you use at least version OTD version 0.6.5 or higher. Before version 0.6.5 - OTD does not support pressure and tilt on MacOS
+* This document shows steps for OTD version 0.6.6.
+* Use OTD version 0.6.5 or later. Earlier versions do not support pressure or tilt on macOS.
 
-## STEP 1: make sure your tablet is supported.
+## STEP 1: Make sure your tablet is supported
 
-Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](https://opentabletdriver.net/Tablets)
+Check whether your tablet appears on this [supported tablet list](https://opentabletdriver.net/Tablets).
 
 ## STEP 2: Uninstall any currently installed tablet drivers
 
-* If you have a Wacom, Huion, XP-Pen, etc driver. Uninstall it now.
-* Once you are finished uninstalling, I recommend restarting your MacOS computer.
+* If you have a Wacom, Huion, XP-Pen, or other tablet driver, uninstall it now.
+* After uninstalling it, restart your Mac.
 
 ## STEP 3: Download OTD
 
-* Click in this link to download [latest release](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz)
+* Click this link to download the [latest release](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz).
 * This downloads a file called `OpenTabletDriver-0.6.6.2_osx-x64.tar.gz` to your Downloads folder.
 * Double-click on the tar.gz file that was downloaded.
-* You'll see a brief progress bar indicating it is being extracted into a folder
-* When the extraction is done in your Downloads folder you will see
+* A brief progress bar shows the archive extracting into a folder.
+* When extraction finishes, your **Downloads** folder shows the following:
 
 <figure><img src="../../../.gitbook/assets/otd-macos-install-1.png" alt=""><figcaption></figcaption></figure>
 
-* Extract it and drag `OpenTabletDriver` into your **Applications** folder
+* Open the extracted folder and drag `OpenTabletDriver` into **Applications**.
 
 <figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt=""><figcaption></figcaption></figure>
 
-## STEP 4 Installing
+## STEP 4: Install OTD
 
 * Run the OpenTabletDriver app.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-3.png" alt="" width="260"><figcaption></figcaption></figure></div>
 
-* If you see this - this is normal. MacOS is trying to protect you. Click **Done**, do NOT click **Move to Trash**
-* To fix the "Apple could not verify is free of malware" warning on macOS, go to **System Settings > Privacy & Security**, scroll down, and click **"Open Anyway"** under the security section.
+* This warning is normal. macOS is protecting your device. Click **Done**. Do **not** click **Move to Trash**.
+* To dismiss the “Apple could not verify is free of malware” warning, go to **System Settings → Privacy & Security**. Scroll down and click **Open Anyway**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-4.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-* Once you click Open Anyway, this dialog will appear. Click **Open Anyway**.
-*
-
-```
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-5.png" alt="" width="260"><figcaption></figcaption></figure></div>
-```
-
-* If you click Open Anyway, it's going to require you to enter your password
-* Then you will see
+* After you click **Open Anyway**, this dialog appears. Click **Open Anyway**.
+* macOS then prompts you for your password.
+* You then see the following:
 
 <div align="left"><figure><img src="../../../.gitbook/assets/unused/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* Click Open Input Monitoring Preference
+* Click **Open Input Monitoring Preferences**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-7.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* FOr this dialog click Open System Settings
+* In this dialog, click **Open System Settings**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-8.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -81,47 +75,45 @@ Check if your tablet is on this list: [https://opentabletdriver.net/Tablets](htt
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-10.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## STEP 5 Launching OTD
+## STEP 5: Launch OTD
 
-Launch OTD from Applications
+Launch OTD from **Applications**.
 
-If no tablet is connected, you'll see this
+If no tablet is connected, you see the following:
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-11.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-Once a tablet is plugged in the UI will change
+When you connect a tablet, the UI changes:
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-12.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-At the bottom left you'll see
+At the bottom left, you see:
 
-the Outout mode set to Absolute Mode
+* The output mode set to **Absolute Mode**.
+* The identified tablet. This example shows a Wacom PTH-660, or Wacom Intuos Pro 2017 Medium.
+* A vertical virtual desktop shape. It represents two vertically stacked monitors.
 
-The Tablet identified (the screenshot shows Wacom PTH-660 which is the Wacom Intuos Pro 2017 Medium)
-
-The very vetical looking shape on top is a the "virtual desktop" that contains two monitors stacked on top of each other.
-
-Right click on one of the monitors and select which one the tablet should be mapped to.
+Right-click a monitor and select the tablet mapping target.
 
 <figure><img src="../../../.gitbook/assets/otd-macos-install-13.png" alt=""><figcaption></figcaption></figure>
 
-Now it will look like this
+The display now looks like this:
 
 <figure><img src="../../../.gitbook/assets/otd-macos-install-14.png" alt=""><figcaption></figcaption></figure>
 
-Now right click on the bottom are and select **Lock Aspect Ratio**
+Right-click the bottom area and select **Lock Aspect Ratio**.
 
 <figure><img src="../../../.gitbook/assets/unused/image (25).png" alt=""><figcaption></figcaption></figure>
 
-Once you do you'll see a slight change in the bottom area
+The bottom area changes slightly:
 
 <figure><img src="../../../.gitbook/assets/otd-macos-install-16.png" alt=""><figcaption></figcaption></figure>
 
-This setting is important because it will stop distortion of strokes
+This setting prevents stroke distortion.
 
-## STEP 6 Configure the Pen
+## STEP 6: Configure the pen
 
-Under Pen Settings, you'll see this as ghe default settings.
+Under **Pen Settings**, you see the default settings.
 
 Leave it alone for now.
 
