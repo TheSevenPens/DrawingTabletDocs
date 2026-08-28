@@ -20,7 +20,7 @@ OTD runs on Intel x86 and Apple Silicon Macs.
 
 ### OTD versions
 
-* This document shows steps for OTD version 0.6.6.
+* This document shows steps for OTD version 0.6.6.2.
 * Use OTD version 0.6.5 or later. Earlier versions do not support pressure or tilt on macOS.
 
 ## STEP 1: Make sure your tablet is supported
@@ -48,32 +48,41 @@ Check whether your tablet appears on this [supported tablet list](https://openta
 
 ## STEP 4: Install OTD
 
-* Run the OpenTabletDriver app.&#x20;
+* Run the OpenTabletDriver app.
 * You will see a warning about verifying OTD.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-3.png" alt="" width="260"><figcaption></figcaption></figure></div>
 
-* This warning is normal. macOS is protecting your device. You will still be able to install OTD.&#x20;
-* Click **Done**.&#x20;
-* To dismiss the “Apple could not verify is free of malware” warning, go to **System Settings → Privacy & Security**. Scroll down and click **Open Anyway**.
+* This warning is normal. macOS is protecting your device. You will still be able to install OTD.
+* Click **Done**.
+* To dismiss the “Apple is not able to verify that it is free from malware” warning, go to **System Settings → Privacy & Security**. Scroll down and click **Open Anyway**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* After you click **Open Anyway**, this dialog appears.
+* After you click **Open Anyway**, macOS asks you to confirm.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-5.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* Click **Open Anyway**.
 * macOS then prompts you for your password.
-* You then see the a warning about "Input Monitoring". You'll need to configure this for OTD to work correctly.
+* OTD then explains that it needs the **Input Monitoring** permission. You must grant this for OTD to work correctly.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/unused/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-6.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* Click **Open Input Monitoring Preferences**.
+* Click **Open Input Monitoring Preference**.
+* The **Input Monitoring** panel of **System Settings** opens. Make sure **OpenTabletDriver** is listed and its toggle is turned on.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-7.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* In this dialog, click **Open System Settings**.
+* macOS also shows a **Keystroke Receiving** prompt. Click **Open System Settings**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-8.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+* OTD needs a second permission, **Accessibility**, which is separate from Input Monitoring. When the **Accessibility Access** prompt appears, click **Open System Settings**.
+
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-9.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* In the **Accessibility** panel, turn on the toggle for **OpenTabletDriver**. You may also see a separate **OpenTabletDriver.UX.MacOS** entry, as shown below.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-10.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -107,7 +116,7 @@ The display now looks like this:
 
 Right-click the bottom area and select **Lock Aspect Ratio**.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/unused/image (25).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-15.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The bottom area changes slightly:
 
@@ -119,7 +128,7 @@ This setting prevents stroke distortion.
 
 Under **Pen Settings**, you see the default settings.
 
-Leave it alone for now. You should see that everything is set to "Adaptive Binding". This is a good default
+Leave it alone for now. You should see that everything is set to "Adaptive Binding". This is a good default.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-17.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
