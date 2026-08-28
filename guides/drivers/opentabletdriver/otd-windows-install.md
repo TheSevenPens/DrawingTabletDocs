@@ -37,7 +37,6 @@ Using OTD for artwork is an advanced setup. Try this only if you are confident i
 * These instructions are for Windows x64 systems only.
 * OTD does not support 32-bit versions of Windows.
 * OTD does **not** support Windows on ARM.
-* I tested these instructions on Windows 11, version `10.0.26200`, build `26200`, on `2025-11-20`.
 
 ## PHASE 1: Preparation
 
