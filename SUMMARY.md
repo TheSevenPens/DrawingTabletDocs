@@ -229,6 +229,7 @@
       * [OpenTabletDriver application data directory](guides/drivers/opentabletdriver/otd-app-data-directory.md "Application data directory")
       * [Notes on OpenTabletDriver](guides/drivers/opentabletdriver/otd-notes.md)
       * [Smoothing with OpenTabletDriver](guides/drivers/opentabletdriver/otd-smoothing.md "Smoothing")
+      * [Configure tablet buttons with OpenTabletDriver](guides/drivers/opentabletdriver/otd-tablet-buttons.md "Tablet buttons")
       * [Pressure curves in OpenTabletDriver](guides/drivers/opentabletdriver/pressure-curves-in-otd.md "Pressure curves")
       * [Slimy Scylla](guides/drivers/opentabletdriver/otd-plugin-slimyscylla.md)
       * [Exporting OpenTabletDriver diagnostics](guides/drivers/opentabletdriver/otd-export-diagnostics.md "Exporting diagnostics")

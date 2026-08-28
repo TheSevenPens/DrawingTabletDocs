@@ -2,7 +2,15 @@
 
 ## Overview
 
-OpenTabletDriver lets you configure smoothing via plug-ins.
+By default, OTD performs no smoothing on the pen data. This is desirable because:
+
+* It gives you a very responsive drawing experience.
+* It gives you complete control over smoothing.
+
+There are two ways to introduce smoothing:
+
+* **Application-level smoothing** - To add smoothing back to your drawing, the first and easiest option is to use the smoothing features in your drawing application. Learn more here: [Configure smoothing in applications](../../drawing/configure-smoothing-in-apps.md)
+* **Driver-level smoothing in OTD** - This is a little more complex. Since OTD does not have built in smoothing, you have to install plug-ins to achieve driver-level smoothing. The specific plug-in I recommend is Slimy Scylla.&#x20;
 
 ## Installing the Slimy Scylla plug-in
 
