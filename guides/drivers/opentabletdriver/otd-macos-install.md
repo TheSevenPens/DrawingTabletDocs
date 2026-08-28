@@ -119,6 +119,8 @@ This warning is normal. macOS is protecting your device. You will still be able 
 
 ### STEP 2.2: Grant the Input Monitoring permission
 
+OTD needs **Input Monitoring** to read the current cursor position, and to send relative movements when you use relative mode.
+
 * OTD explains that it needs the **Input Monitoring** permission. You must grant this for OTD to work correctly.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-6.png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -134,6 +136,8 @@ This warning is normal. macOS is protecting your device. You will still be able 
 
 ### STEP 2.3: Grant the Accessibility permission
 
+OTD needs **Accessibility** to control cursor movement. This is a different job from Input Monitoring, which is why macOS asks for both.
+
 {% hint style="warning" %}
 **Accessibility** is a second permission, separate from **Input Monitoring**. You must grant both. If you grant only Input Monitoring, OTD will not work correctly.
 {% endhint %}
@@ -145,6 +149,16 @@ This warning is normal. macOS is protecting your device. You will still be able 
 * In the **Accessibility** panel, turn on the toggle for **OpenTabletDriver**. You may also see a separate **OpenTabletDriver.UX.MacOS** entry, as shown below.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-10.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+#### If a permission looks granted but OTD still does not work
+
+macOS sometimes keeps a stale permission, so the toggle appears to be on while the permission is not actually in effect. This is most likely after you replace or upgrade the app.
+
+To fix it, for either permission:
+
+* In the **Input Monitoring** or **Accessibility** panel, select the **OpenTabletDriver** entry.
+* Click the **-** button to remove it.
+* Add it back with the **+** button, or restart OTD and grant the permission when it asks again.
 
 ### STEP 2.4: Understanding the OTD app on macOS
 
