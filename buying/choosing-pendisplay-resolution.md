@@ -51,7 +51,7 @@ These are the results of a small survey I conducted in August 2026.
 
 One of the questions posed in the survey was for users to identify the ideal resolution across different sizes of **Pen tablets**. Here are the initial results for 29respondents.
 
-<figure><img src="../.gitbook/assets/Forms response chart. Question title Please indicate the ideal resolution for each specific pen display size category. (NOTE this is about pen displays that you draw on, not monitors in general). Number of responses  (5)." alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pen-display-resolution-survey-5.png" alt=""><figcaption></figcaption></figure>
 
 **13"** - Most are happy with a 2K resolution and some prefer 2.5K resolution. There's little preference for 4K. My take: 2K works well enough at this size. I can understand why some people prefer 2.5K. 4K at this size is unnecessary and can be difficult to work with.
 
