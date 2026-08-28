@@ -40,26 +40,28 @@ Check whether your tablet appears on this [supported tablet list](https://openta
 * A brief progress bar shows the archive extracting into a folder.
 * When extraction finishes, your **Downloads** folder shows the following:
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-1.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * Open the extracted folder and drag `OpenTabletDriver` into **Applications**.
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## STEP 4: Install OTD
 
-* Run the OpenTabletDriver app.
+* Run the OpenTabletDriver app.&#x20;
+* You will see a warning about verifying OTD.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-3.png" alt="" width="260"><figcaption></figcaption></figure></div>
 
-* This warning is normal. macOS is protecting your device. Click **Done**. Do **not** click **Move to Trash**.
+* This warning is normal. macOS is protecting your device. You will still be able to install OTD.&#x20;
+* Click **Done**.&#x20;
 * To dismiss the “Apple could not verify is free of malware” warning, go to **System Settings → Privacy & Security**. Scroll down and click **Open Anyway**.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-4.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* After you click **Open Anyway**, this dialog appears. Click **Open Anyway**.
+* After you click **Open Anyway**, this dialog appears.
 * macOS then prompts you for your password.
-* You then see the following:
+* You then see the a warning about "Input Monitoring". You'll need to configure this for OTD to work correctly.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/unused/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -81,7 +83,7 @@ Launch OTD from **Applications**.
 
 If no tablet is connected, you see the following:
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-11.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-11.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 When you connect a tablet, the UI changes:
 
@@ -95,19 +97,19 @@ At the bottom left, you see:
 
 Right-click a monitor and select the tablet mapping target.
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-13.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-13.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The display now looks like this:
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-14.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-14.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Right-click the bottom area and select **Lock Aspect Ratio**.
 
-<figure><img src="../../../.gitbook/assets/unused/image (25).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/unused/image (25).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The bottom area changes slightly:
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-16.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-16.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 This setting prevents stroke distortion.
 
@@ -115,6 +117,7 @@ This setting prevents stroke distortion.
 
 Under **Pen Settings**, you see the default settings.
 
-Leave it alone for now.
+Leave it alone for now. You should see that everything is set to "Adaptive Binding". This is a good default
 
-<figure><img src="../../../.gitbook/assets/otd-macos-install-17.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-17.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
