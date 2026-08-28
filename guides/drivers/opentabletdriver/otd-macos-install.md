@@ -87,6 +87,8 @@ If no tablet is connected, you see the following:
 
 When you connect a tablet, the UI changes:
 
+NOTE: The top blue rectangle in the example picture below is actually TWO monitors stacked on top of each other.
+
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-12.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 At the bottom left, you see:
