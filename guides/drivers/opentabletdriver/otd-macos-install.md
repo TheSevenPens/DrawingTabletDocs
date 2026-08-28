@@ -10,6 +10,15 @@ The official OTD installation guide for macOS is [available here](https://openta
 
 <mark style="color:red;">**This document is IN PROGRESS and going through some significant edits. You might encounter incomplete sections.**</mark>
 
+Before you start:
+
+* If you do not know what OTD is or why you might want it, read [OpenTabletDriver](./).
+* Familiarize yourself with [Notes on OpenTabletDriver](otd-notes.md), which covers what OTD can and cannot do.
+
+### Some expertise is required
+
+Using OTD for artwork is an advanced setup. Try this only if you are confident in your technical skills or can get someone to help you.
+
 ### macOS
 
 These instructions apply to macOS Tahoe. Earlier versions, such as Sequoia, should require similar steps. This has not been confirmed.
@@ -25,6 +34,15 @@ OTD runs on both Intel and Apple Silicon Macs, but there is only one macOS build
 
 * This document shows steps for OTD version 0.6.6.2.
 * Use OTD version 0.6.5 or later. Earlier versions do not support pressure or tilt on macOS.
+
+### Prerequisites
+
+There are none. The macOS download is self-contained.
+
+If you have read the Windows instructions, note two differences:
+
+* You do **not** need to install the .NET Runtime. The macOS build bundles it. This is why the macOS download is much larger than the Windows one.
+* There is no VMulti driver to install, and no Windows Ink plugin. On macOS, pressure and tilt work through the driver itself once OTD is running.
 
 ## STEP 1: Make sure your tablet is supported
 
@@ -93,6 +111,16 @@ Check whether your tablet appears on this [supported tablet list](https://openta
 
 Launch OTD from **Applications**.
 
+### OTD must stay running
+
+For OTD to work, the OpenTabletDriver app must be running at all times. The app contains the driver daemon that talks to your tablet. If you quit the app, your tablet stops working with OTD.
+
+You do not have to keep the window in front of you. You can hide it and leave the app running.
+
+<mark style="color:red;">**Quitting OpenTabletDriver stops your tablet from working. Closing or hiding the window is fine.**</mark>
+
+### Connect your tablet
+
 If no tablet is connected, you see the following:
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-11.png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -108,6 +136,14 @@ At the bottom left, you see:
 * The output mode set to **Absolute Mode**.
 * The identified tablet. This example shows a Wacom PTH-660, or Wacom Intuos Pro 2017 Medium.
 * A vertical virtual desktop shape. It represents two vertically stacked monitors.
+
+### Checkpoint
+
+At this point, moving the pen on the tablet should move the mouse pointer.
+
+Do not worry about which monitor the pointer lands on. That is the next step.
+
+### Map the tablet to a display
 
 Right-click a monitor and select the tablet mapping target.
 
@@ -159,4 +195,62 @@ Leave it alone for now. You should see that everything is set to "Adaptive Bindi
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-17.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Click **Apply**, then click **Save**.
+
+**Note:** Assigning pen buttons to mouse actions, such as left-click, right-click, or middle-click, may cause unstable input.
+
+## STEP 8: Configure your drawing application
+
+Unlike Windows, macOS has no separate pen API to enable. There is no Windows Ink equivalent to turn on, and no plugin to install. Once OTD is running and your tablet is detected, pressure and tilt are available to any app that supports a pressure-sensitive tablet.
+
+If pressure does not work in a particular app, check that app's own tablet or pressure settings first.
+
+## STEP 9: Checkpoint
+
+At this point, you should be able to draw effectively with OTD, and pressure and tilt should work.
+
+Try some basic drawing in your app of choice and confirm that:
+
+* The pointer stays on the display you mapped the tablet to.
+* A circle drawn on the tablet produces a circle on screen, not a stretched oval.
+* Pressing harder produces a heavier stroke.
+
+## Optional customization
+
+**Pressure curves** - By default, OTD does not use a pressure curve to modify how the pressure data is interpreted. You can edit the pressure curve by following these instructions: [Pressure curves in OpenTabletDriver](pressure-curves-in-otd.md)
+
+**Smoothing** - [Smoothing with OpenTabletDriver](otd-smoothing.md)
+
+**Tablet buttons** - [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
+
+### Start OpenTabletDriver when you log in
+
+Because OTD must stay running, you may want it to start automatically.
+
+* Open **System Settings**.
+* Go to **General** > **Login Items & Extensions**.
+* Under **Open at Login**, click the **+** button.
+* Select **OpenTabletDriver** from **Applications**, then click **Open**.
+
+OTD now starts each time you log in.
+
+## Uninstalling OpenTabletDriver
+
+There is no uninstaller. To remove OTD:
+
+* Quit the OpenTabletDriver app.
+* Drag `OpenTabletDriver` from **Applications** to the Trash.
+* Remove its settings folder at `~/Library/Application Support/OpenTabletDriver`.
+* Remove its cache folder at `~/Library/Caches/OpenTabletDriver`.
+* In **System Settings** > **Privacy & Security**, remove the OpenTabletDriver entries from **Input Monitoring** and **Accessibility**.
+
+If you want your manufacturer driver back, install it after removing OTD, then restart your Mac.
+
+## Related topics
+
+* [OpenTabletDriver](./)
+* [Notes on OpenTabletDriver](otd-notes.md)
+* [Install OpenTabletDriver on Windows](otd-windows-install.md)
+* [Pressure curves in OpenTabletDriver](pressure-curves-in-otd.md)
+* [Smoothing with OpenTabletDriver](otd-smoothing.md)
+* [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
 
