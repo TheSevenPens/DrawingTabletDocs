@@ -124,11 +124,36 @@ The bottom area changes slightly:
 
 This setting prevents stroke distortion.
 
-## STEP 6: Configure the pen
+Click **Apply**, then click **Save**.
+
+## STEP 6: Understanding Apply and Save
+
+The previous step asked you to click **Apply** and **Save**. Here is what they do.
+
+You will find both buttons in the bottom-right corner of the OTD window. They stay in the same place no matter which tab you are on.
+
+**Apply**
+
+* **Apply** activates the settings currently shown in the user interface.
+* Until you click **Apply**, changes you make in the UI do not take effect.
+
+**Save**
+
+* **Save** stores the current settings, even if you have not clicked **Apply**.
+* Those settings load the next time you open OTD.
+* You can test this by clicking **Save** without clicking **Apply**, then restarting the OTD app.
+
+To keep things simple for now, always click **Apply** and then **Save** whenever you change something in the OTD app.
+
+<mark style="color:red;">**If you close OTD without clicking Save, you lose your changes.**</mark>
+
+## STEP 7: Configure the pen
 
 Under **Pen Settings**, you see the default settings.
 
 Leave it alone for now. You should see that everything is set to "Adaptive Binding". This is a good default.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-17.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+Click **Apply**, then click **Save**.
 
