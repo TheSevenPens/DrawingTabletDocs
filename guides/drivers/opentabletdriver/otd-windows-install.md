@@ -9,7 +9,7 @@ If you do not know about OpenTabletDriver or why you might use it, read [OpenTab
 
 Familiarize yourself with [Notes on OpenTabletDriver](otd-notes.md).
 
-To uninstall it on Windows, see [Uninstall OpenTabletDriver on Windows](otd-windows-uninstall.md).
+To uninstall it, see [Uninstall OpenTabletDriver](otd-uninstall.md).
 {% endhint %}
 
 {% hint style="info" %}
@@ -261,6 +261,6 @@ To switch rapidly between monitors, you have two options:
 
 ## Related topics
 
-* [Uninstall OpenTabletDriver on Windows](otd-windows-uninstall.md)
+* [Uninstall OpenTabletDriver](otd-uninstall.md)
 * [Start OpenTabletDriver automatically](otd-start-automatically.md)
 * [OpenTabletDriver application data directory](otd-app-data-directory.md)

@@ -291,15 +291,9 @@ See [Start OpenTabletDriver automatically](otd-start-automatically.md).
 
 ### Uninstall OpenTabletDriver
 
-There is no uninstaller. To remove OTD:
+There is no uninstaller. You remove OTD by hand.
 
-* Quit the OpenTabletDriver app.
-* Drag `OpenTabletDriver` from **Applications** to the Trash.
-* Remove its settings folder at `~/Library/Application Support/OpenTabletDriver`.
-* Remove its cache folder at `~/Library/Caches/OpenTabletDriver`.
-* In **System Settings** > **Privacy & Security**, remove the OpenTabletDriver entries from **Input Monitoring** and **Accessibility**.
-
-If you want your manufacturer driver back, install it after removing OTD, then restart your Mac.
+See [Uninstall OpenTabletDriver](otd-uninstall.md).
 
 ## Related topics
 
@@ -307,6 +301,7 @@ If you want your manufacturer driver back, install it after removing OTD, then r
 * [Notes on OpenTabletDriver](otd-notes.md)
 * [Install OpenTabletDriver on Windows](otd-windows-install.md)
 * [Start OpenTabletDriver automatically](otd-start-automatically.md)
+* [Uninstall OpenTabletDriver](otd-uninstall.md)
 * [Pressure curves in OpenTabletDriver](pressure-curves-in-otd.md)
 * [Smoothing with OpenTabletDriver](otd-smoothing.md)
 * [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
