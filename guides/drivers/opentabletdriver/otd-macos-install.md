@@ -16,7 +16,10 @@ These instructions apply to macOS Tahoe. Earlier versions, such as Sequoia, shou
 
 ### CPU architecture
 
-OTD runs on Intel x86 and Apple Silicon Macs.
+OTD runs on both Intel and Apple Silicon Macs, but there is only one macOS build and it is Intel-only (`osx-x64`). OTD does not ship a native Apple Silicon build.
+
+* On an **Intel** Mac, the build runs natively.
+* On an **Apple Silicon** Mac (M1 and later), the build runs through **Rosetta 2**. If Rosetta 2 is not already installed, macOS prompts you to install it the first time you launch OTD. Accept the prompt.
 
 ### OTD versions
 
@@ -34,7 +37,7 @@ Check whether your tablet appears on this [supported tablet list](https://openta
 
 ## STEP 3: Download OTD
 
-* Click this link to download the [latest release](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/latest/download/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz).
+* Click this link to download [OpenTabletDriver 0.6.6.2 for macOS](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/download/v0.6.6.2/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz).
 * This downloads a file called `OpenTabletDriver-0.6.6.2_osx-x64.tar.gz` to your Downloads folder.
 * Double-click on the tar.gz file that was downloaded.
 * A brief progress bar shows the archive extracting into a folder.
