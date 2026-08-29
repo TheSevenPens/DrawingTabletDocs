@@ -280,7 +280,7 @@ Try some basic drawing in your app of choice and confirm that:
 
 **Tablet buttons** - [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
 
-**Start OpenTabletDriver when you log in** - See [Start OpenTabletDriver automatically](otd-start-automatically.md)..
+**Start OpenTabletDriver when you log in** - See [Start OpenTabletDriver automatically](otd-start-automatically.md)
 
 ## Related topics
 
