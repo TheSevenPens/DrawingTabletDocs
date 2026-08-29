@@ -39,7 +39,7 @@ Using OTD for artwork is an advanced setup. Try this only if you are confident i
 #### macOS versions
 
 * These instructions apply to macOS Tahoe.
-* Earlier versions, such as Sequoia, should require similar steps.&#x20;
+* Earlier versions, such as Sequoia, should require similar steps.
 
 #### CPU architecture
 
@@ -56,8 +56,8 @@ There are none. The macOS download is self-contained.
 {% hint style="info" %}
 Differences from installing OTD on Windows:
 
-* For MacOs, You do **not** need to install the .NET Runtime. The macOS build bundles it. This is why the macOS download is much larger than the Windows one.
-* For MacOs, There is no VMulti driver to install, and no Windows Ink plugin. On macOS, pressure and tilt work through the driver itself once OTD is running.
+* For macOS, you do **not** need to install the .NET Runtime. The macOS build bundles it. This is why the macOS download is much larger than the Windows one.
+* For macOS, there is no VMulti driver to install, and no Windows Ink plugin. On macOS, pressure and tilt work through the driver itself once OTD is running.
 {% endhint %}
 
 ## PHASE 1: Preparation
@@ -82,12 +82,12 @@ Differences from installing OTD on Windows:
 * Click this link to download [OpenTabletDriver 0.6.6.2 for macOS](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/download/v0.6.6.2/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz).
 * This downloads a file called `OpenTabletDriver-0.6.6.2_osx-x64.tar.gz` to your Downloads folder.
 * Double-click on the tar.gz file that was downloaded.
-* When extraction finishes, your **Downloads** folder will contain the extracted file called OpenTabletDriver
+* When extraction finishes, your **Downloads** folder will contain the extracted file called `OpenTabletDriver`.
 * Drag `OpenTabletDriver` into **Applications**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-1.png" alt="" width="563"><figcaption><p>Extracted file sitting next to the tar.gz file</p></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt="" width="375"><figcaption><p>Drag the OpenTabletDriver file on the right intothe Applications folder on the left</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt="" width="375"><figcaption><p>Drag the OpenTabletDriver file on the right into the Applications folder on the left</p></figcaption></figure></div>
 
 ## PHASE 2: First launch and permissions
 
@@ -258,7 +258,7 @@ Click **Apply**, then click **Save**.
 
 ### STEP 3.4: Configure your drawing application
 
-Once OTD is running and your tablet is detected, pressure and tilt are available to any app that supports a pressure-sensitive tablet. Your MacOS apps do not require any additional configuration.
+Once OTD is running and your tablet is detected, pressure and tilt are available to any app that supports a pressure-sensitive tablet. Your macOS apps do not require any additional configuration.
 
 If pressure does not work in a particular app, check that app's own tablet or pressure settings first. Also check if the same problem exists in another app. This will help troubleshoot the problem.
 

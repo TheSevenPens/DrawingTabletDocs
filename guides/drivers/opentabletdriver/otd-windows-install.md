@@ -142,7 +142,7 @@ This is an important thing to learn, because you will be doing it a lot.
 * You may need to click the **^** arrow to show hidden tray icons.
 * Click the OTD icon to open the OTD app again.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-windows-install-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-windows-install-2.png" alt="" width="375"><figcaption><p>The OTD icon circled in the system tray, after clicking the arrow to show hidden icons</p></figcaption></figure></div>
 
 ### STEP 2.4: Detect your tablet with OTD
 
@@ -165,7 +165,7 @@ Pressure and tilt will not work right now. We will cover that soon.
 * In the OTD app, go to the **Output** tab.
 * In the **Display** area, right-click anywhere, then select **Set to Display** \<displayname>, where \<displayname> is the display you want to use with the tablet.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-windows-install-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-windows-install-1.png" alt="" width="563"><figcaption><p>Right-clicking the Display area, with the Set to display submenu listing the available displays</p></figcaption></figure></div>
 
 * In the **Tablet** area, right-click anywhere, then select **Lock Aspect Ratio**.
 * At this point, moving the pen will move the pointer on exactly one display.
@@ -217,7 +217,7 @@ Navigate to the **Pen Settings** tab.
 
 By default, the pen will be configured as shown below.
 
-<figure><img src="../../../.gitbook/assets/otd-windows-install-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otd-windows-install-3.png" alt=""><figcaption><p>The default Pen Settings, with tip, eraser, and buttons all set to Adaptive Binding</p></figcaption></figure>
 
 Notice that the tip settings, eraser settings, and buttons use `Adaptive Binding`. For now, leave these unchanged.
 
@@ -229,6 +229,8 @@ Click **Apply**, then click **Save**.
 
 * The specific instructions vary by app.
 * See [Configure Windows Ink for apps](../../platforms/windows/winink/winink-config-apps.md).
+
+If pressure does not work in a particular app, check that app's own tablet or pressure settings first. Also check if the same problem exists in another app. This will help troubleshoot the problem.
 
 ### STEP 3.7: Checkpoint
 
@@ -246,11 +248,7 @@ Try some basic drawing and see if everything is working.
 
 **Tablet buttons** - [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
 
-### Start OpenTabletDriver when Windows starts
-
-Because OTD must stay running, you may want it to start on its own when you sign in.
-
-See [Start OpenTabletDriver automatically](otd-start-automatically.md).
+**Start OpenTabletDriver when Windows starts** - See [Start OpenTabletDriver automatically](otd-start-automatically.md).
 
 ### Display toggle
 
@@ -261,6 +259,6 @@ To switch rapidly between monitors, you have two options:
 
 ## Related topics
 
-* [Uninstall OpenTabletDriver](otd-uninstall.md)
+* [Uninstall OpenTabletDriver](otd-uninstall.md) - There is no uninstaller. You remove OTD by hand.
 * [Start OpenTabletDriver automatically](otd-start-automatically.md)
 * [OpenTabletDriver application data directory](otd-app-data-directory.md)
