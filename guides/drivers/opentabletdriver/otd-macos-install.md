@@ -258,9 +258,9 @@ Click **Apply**, then click **Save**.
 
 ### STEP 3.4: Configure your drawing application
 
-Unlike Windows, macOS has no separate pen API to enable. There is no Windows Ink equivalent to turn on, and no plugin to install. Once OTD is running and your tablet is detected, pressure and tilt are available to any app that supports a pressure-sensitive tablet.
+Once OTD is running and your tablet is detected, pressure and tilt are available to any app that supports a pressure-sensitive tablet. Your MacOS apps do not require any additional configuration.
 
-If pressure does not work in a particular app, check that app's own tablet or pressure settings first.
+If pressure does not work in a particular app, check that app's own tablet or pressure settings first. Also check if the same problem exists in another app. This will help troubleshoot the problem.
 
 ### STEP 3.5: Checkpoint
 
@@ -280,20 +280,11 @@ Try some basic drawing in your app of choice and confirm that:
 
 **Tablet buttons** - [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
 
-### Start OpenTabletDriver when you log in
-
-Because OTD must stay running, you may want it to start on its own when you log in.
-
-See [Start OpenTabletDriver automatically](otd-start-automatically.md).
-
-### Uninstall OpenTabletDriver
-
-There is no uninstaller. You remove OTD by hand.
-
-See [Uninstall OpenTabletDriver](otd-uninstall.md).
+**Start OpenTabletDriver when you log in** - See [Start OpenTabletDriver automatically](otd-start-automatically.md).
 
 ## Related topics
 
+* [Uninstall OpenTabletDriver](otd-uninstall.md) - There is no uninstaller. You remove OTD by hand.
 * [OpenTabletDriver](./)
 * [Notes on OpenTabletDriver](otd-notes.md)
 * [Install OpenTabletDriver on Windows](otd-windows-install.md)
