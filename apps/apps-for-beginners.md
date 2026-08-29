@@ -1,6 +1,6 @@
 # Apps for beginners
 
-## verview
+## Overview
 
 This is my curated list of apps that are simple and inexpensive (or free). These apps are ideal for children, or for someone who just wants something basic.
 
