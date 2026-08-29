@@ -39,11 +39,11 @@ Using OTD for artwork is an advanced setup. Try this only if you are confident i
 #### macOS versions
 
 * These instructions apply to macOS Tahoe.
-* Earlier versions, such as Sequoia, should require similar steps. This has not been confirmed.
+* Earlier versions, such as Sequoia, should require similar steps.&#x20;
 
 #### CPU architecture
 
-OTD runs on both Intel and Apple Silicon Macs, but there is only one macOS build and it is Intel-only (`osx-x64`). OTD does not ship a native Apple Silicon build.
+OTD runs on both Intel and Apple Silicon Macs, but there is only one macOS build and it is Intel-only (`osx-x64`). OTD does not ship a native Apple Silicon build currently but one is being developed.
 
 * On an **Intel** Mac, the build runs natively.
 * On an **Apple Silicon** Mac (M1 and later), the build runs through **Rosetta 2**. If Rosetta 2 is not already installed, macOS prompts you to install it the first time you launch OTD. Accept the prompt.
@@ -54,10 +54,10 @@ OTD runs on both Intel and Apple Silicon Macs, but there is only one macOS build
 There are none. The macOS download is self-contained.
 
 {% hint style="info" %}
-If you have read the Windows instructions, note two differences:
+Differences from installing OTD on Windows:
 
-* You do **not** need to install the .NET Runtime. The macOS build bundles it. This is why the macOS download is much larger than the Windows one.
-* There is no VMulti driver to install, and no Windows Ink plugin. On macOS, pressure and tilt work through the driver itself once OTD is running.
+* For MacOs, You do **not** need to install the .NET Runtime. The macOS build bundles it. This is why the macOS download is much larger than the Windows one.
+* For MacOs, There is no VMulti driver to install, and no Windows Ink plugin. On macOS, pressure and tilt work through the driver itself once OTD is running.
 {% endhint %}
 
 ## PHASE 1: Preparation
@@ -82,16 +82,12 @@ If you have read the Windows instructions, note two differences:
 * Click this link to download [OpenTabletDriver 0.6.6.2 for macOS](https://github.com/OpenTabletDriver/OpenTabletDriver/releases/download/v0.6.6.2/OpenTabletDriver-0.6.6.2_osx-x64.tar.gz).
 * This downloads a file called `OpenTabletDriver-0.6.6.2_osx-x64.tar.gz` to your Downloads folder.
 * Double-click on the tar.gz file that was downloaded.
-* A brief progress bar shows the archive extracting into a folder.
-* When extraction finishes, your **Downloads** folder shows the following:
+* When extraction finishes, your **Downloads** folder will contain the extracted file called OpenTabletDriver
+* Drag `OpenTabletDriver` into **Applications**.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-1.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-1.png" alt="" width="563"><figcaption><p>Extracted file sitting next to the tar.gz file</p></figcaption></figure></div>
 
-### STEP 1.4: Install OpenTabletDriver into Applications
-
-* Open the extracted folder and drag `OpenTabletDriver` into **Applications**.
-
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-2.png" alt="" width="375"><figcaption><p>Drag the OpenTabletDriver file on the right intothe Applications folder on the left</p></figcaption></figure></div>
 
 ## PHASE 2: First launch and permissions
 
@@ -113,7 +109,7 @@ This warning is normal. macOS is protecting your device. You will still be able 
 
 * After you click **Open Anyway**, macOS asks you to confirm.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-5.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-5.png" alt="" width="260"><figcaption></figcaption></figure></div>
 
 * Click **Open Anyway**.
 * macOS then prompts you for your password.
