@@ -47,6 +47,7 @@ OTD runs on both Intel and Apple Silicon Macs, but there is only one macOS build
 
 * On an **Intel** Mac, the build runs natively.
 * On an **Apple Silicon** Mac (M1 and later), the build runs through **Rosetta 2**. If Rosetta 2 is not already installed, macOS prompts you to install it the first time you launch OTD. Accept the prompt.
+* **OTD for Native Apple Silicon is coming!** Eventually Apple will discontinue Rosetta. But do not worry, the OTD dev team has been preparing and plans to support Apple Silicon before Rosetta is discontinued.
 
 ### Prerequisites
 
@@ -123,7 +124,7 @@ OTD needs **Input Monitoring** to read the current cursor position, and to send 
 
 * OTD explains that it needs the **Input Monitoring** permission. You must grant this for OTD to work correctly.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-6.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/unused/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * Click **Open Input Monitoring Preference**.
 * The **Input Monitoring** panel of **System Settings** opens. Make sure **OpenTabletDriver** is listed and its toggle is turned on.
@@ -212,7 +213,7 @@ The display now looks like this:
 
 Right-click the bottom area and select **Lock Aspect Ratio**.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/otd-macos-install-15.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/unused/image (25).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The bottom area changes slightly:
 
