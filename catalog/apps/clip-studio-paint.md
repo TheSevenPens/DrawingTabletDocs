@@ -6,11 +6,10 @@
 * Good for: lots of art styles, especially good for illustration
 * Wikipedia: [https://en.wikipedia.org/wiki/Clip\_Studio\_Paint](https://en.wikipedia.org/wiki/Clip_Studio_Paint)
 * Available for: Windows, macOS, iPadOS, iOS, Android, Chrome OS
-* [Clip Studio Paint notes](/broken/pages/Wv24xqkUBP2n8XRMZQWj)
 
 ## Thoughts on CSP
 
-[Clip Studio Paint](clip-studio-paint.md) - Medium Cost, Advanced, very powerful, multiplatform.
+Clip Studio Paint - Medium Cost, Advanced, very powerful, multiplatform.
 
 For me doing illustration that is mostly line art, nothing beats Clip Studio Paint.
 

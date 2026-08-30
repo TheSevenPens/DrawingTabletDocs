@@ -714,5 +714,4 @@
     * [Appendix: References](misc/drawtab-history/appendix-references.md)
     * [KoalaPad](misc/drawtab-history/koalapad.md)
   * [Deprecated pages](misc/deprecated/README.md)
-    * [Mobile computer recommendations](misc/deprecated/mobile-computer-recommendations.md)
   * [Surface protection \[OBSOLETE\]](misc/surface-protectors-obsolete.md)

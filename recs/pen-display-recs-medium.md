@@ -21,7 +21,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 ## VERY GOOD
 
 * Huion Kamvas 16 GEN3 (GS1563) [Huion Kamvas 16 GEN3 (GS1563) notes](../catalog/drawtabs/huion/huion-gs1563-notes.md)
-* XP-Pen Artist Pro 19 GEN2 (MD180UH) [XP-Pen Artist Pro GEN2](/broken/pages/quTw2BHIHyWAvAB9zAMN)
+* XP-Pen Artist Pro 19 GEN2 (MD180UH) [XP-Pen Artist Pro 19 GEN2 (MD180UH) notes](../catalog/drawtabs/xppen/xppen-md180uh-notes.md)
 * XP-Pen Artist Ultra 16
 * XP-Pen Artist Pro 16 GEN2 (MD160QH) [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](../catalog/drawtabs/xppen/xppen-md160qh-notes.md)
 
