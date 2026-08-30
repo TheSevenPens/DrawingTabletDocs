@@ -67,7 +67,6 @@ Contact your manufacturer to see if they sell replacement films.
 Examples:
 
 * The **Huion Kamvas 13** has a protective film on top of it that can be replaced: [Huion - How to Replace Huion Pen Display Screen Protector](https://www.youtube.com/watch?v=B8CyIZfX8co)
-* [XP-Pen surface protectors](/broken/pages/GaphWD3vZOMbgUfbVp9V)
 
 ## 3rd-party screen protectors
 
