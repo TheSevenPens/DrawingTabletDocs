@@ -16,6 +16,19 @@ APPLY = '--apply' in sys.argv
 
 IMAGE_EXTS = ('.jpg', '.jpeg', '.png', '.gif', '.webp')
 
+def index_taken(stem, n, claimed):
+    """True if <stem>-<n> already exists under any image extension.
+
+    Indexes are shared across extensions so that display-connector-types-7.jpg
+    and display-connector-types-7.png cannot both exist and leave the number
+    ambiguous.
+    """
+    for e in IMAGE_EXTS:
+        cand = f"{stem}-{n}{e}"
+        if cand in claimed or (ASSETS_DIR / cand).exists():
+            return True
+    return False
+
 def is_generic_image(filename):
     if not filename.lower().endswith(IMAGE_EXTS):
         return False
@@ -134,12 +147,11 @@ def main():
         for idx, old_basename in enumerate(basenames):
             ext = os.path.splitext(old_basename)[1].lower()
             
-            # E.g. tablet-evaluation-1.jpg
-            new_basename = f"{doc_basename}-{idx+1}{ext}"
-            
-            # Ensure new name doesn't collide
+            # E.g. tablet-evaluation-1.jpg. The index is shared across all image
+            # extensions, so a .jpg and a .png cannot take the same number.
             counter = idx + 1
-            while new_basename in all_new_names or (ASSETS_DIR / new_basename).exists():
+            new_basename = f"{doc_basename}-{counter}{ext}"
+            while index_taken(doc_basename, counter, all_new_names):
                 counter += 1
                 new_basename = f"{doc_basename}-{counter}{ext}"
             

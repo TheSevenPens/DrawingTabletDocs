@@ -15,11 +15,11 @@ Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HD
 
 The normal-sized HDMI connector is shown below.
 
-<figure><img src="../../.gitbook/assets/Slide_0002.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-5.jpg" alt=""><figcaption></figcaption></figure>
 
 There are some smaller versions of HDMI connectors and ports. The Micro and Mini sizes are not common.
 
-<figure><img src="../../.gitbook/assets/Slide_0003.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-6.jpg" alt=""><figcaption></figcaption></figure>
 
 ## DisplayPort connectors
 
@@ -27,15 +27,15 @@ Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/
 
 Normal-sized DisplayPort connectors are shown below.
 
-<figure><img src="../../.gitbook/assets/Slide_0004 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-7.jpg" alt=""><figcaption></figcaption></figure>
 
 Mini DisplayPort connectors are shown below.
 
-<figure><img src="../../.gitbook/assets/Slide_0005.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-8.jpg" alt=""><figcaption></figcaption></figure>
 
 ## USB-C connectors
 
-<figure><img src="../../.gitbook/assets/Slide_0006.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-9.jpg" alt=""><figcaption></figcaption></figure>
 
 Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
@@ -67,21 +67,21 @@ Thunderbolt 2 connectors use the mini-DisplayPort connector type. Again, by defi
 
 DVI is an older video signal connector type. DVI connectors are rare these days, but you may find them on older hardware. Be aware that multiple DVI port types have different physical connectors, so not all DVI cables fit every DVI port.
 
-<figure><img src="../../.gitbook/assets/Slide_0008.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-10.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-11.png" alt=""><figcaption></figcaption></figure>
 
 ## VGA
 
 VGA connectors are extremely old.
 
-<figure><img src="../../.gitbook/assets/Slide_0009.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-12.jpg" alt=""><figcaption></figcaption></figure>
 
 ## USB-A connectors
 
 USB-A ports do not provide a display signal. They are listed here for reference, so you can compare them with other USB ports.
 
-<figure><img src="../../.gitbook/assets/Slide_0007.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/display-connector-types-13.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Resources
 
