@@ -8,8 +8,11 @@ import urllib.parse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import assetrefs
 
-REPO_ROOT = Path(r"c:\Users\seven\Documents\GitHub\DrawingTabletDocs")
+REPO_ROOT = Path(__file__).resolve().parents[4]
 ASSETS_DIR = REPO_ROOT / ".gitbook" / "assets"
+
+# Dry run unless --apply is passed, matching cleanup_orphans.py.
+APPLY = '--apply' in sys.argv
 
 def is_generic_image(filename):
     # Only jpg and png based on user request
@@ -73,6 +76,9 @@ def main():
             
         refs = extract_image_references(content)
         for start, end, url in refs:
+            # Skip externally hosted images; only local assets can be renamed.
+            if url.startswith(('http://', 'https://', 'data:')):
+                continue
             # Decode URL in case of %20
             decoded_url = urllib.parse.unquote(url)
             basename = os.path.basename(decoded_url)
@@ -135,10 +141,14 @@ def main():
             new_asset_path = ASSETS_DIR / new_basename
             
             if old_asset_path.exists():
+                if not APPLY:
+                    print(f"WOULD RENAME: {old_basename} -> {new_basename}   ({md_path})")
+                    total_renamed += 1
+                    continue
                 # Rename the actual file
                 old_asset_path.rename(new_asset_path)
                 print(f"Renamed file: {old_basename} -> {new_basename}")
-                
+
                 # Update the markdown file
                 try:
                     content = md_path.read_text(encoding='utf-8')
@@ -177,7 +187,11 @@ def main():
             else:
                 print(f"Warning: Image {old_basename} referenced by {md_path} not found in {ASSETS_DIR}")
 
-    print(f"Successfully processed {total_renamed} images.")
+    if APPLY:
+        print(f"Successfully processed {total_renamed} images.")
+    else:
+        print(f"\nDRY RUN. {total_renamed} image(s) would be renamed.")
+        print("Re-run with --apply to perform the renames.")
 
 if __name__ == '__main__':
     main()

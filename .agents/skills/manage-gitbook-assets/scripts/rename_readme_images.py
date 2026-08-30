@@ -74,6 +74,9 @@ def main():
             
         refs = extract_image_references(content)
         for start, end, url in refs:
+            # Skip externally hosted images; only local assets can be renamed.
+            if url.startswith(('http://', 'https://', 'data:')):
+                continue
             decoded_url = urllib.parse.unquote(url)
             basename = os.path.basename(decoded_url)
             
