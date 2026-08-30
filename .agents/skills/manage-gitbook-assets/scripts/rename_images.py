@@ -1,8 +1,12 @@
 import os
 import re
+import sys
 from pathlib import Path
 import shutil
 import urllib.parse
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import assetrefs
 
 REPO_ROOT = Path(r"c:\Users\seven\Documents\GitHub\DrawingTabletDocs")
 ASSETS_DIR = REPO_ROOT / ".gitbook" / "assets"
@@ -48,21 +52,10 @@ def get_markdown_files():
     return md_files
 
 def extract_image_references(content):
-    references = []
-    # Markdown image syntax: ![alt](url)
-    md_matches = re.finditer(r'!\[.*?\]\((.*?)\)', content)
-    for match in md_matches:
-        url = match.group(1)
-        references.append((match.start(1), match.end(1), url))
-        
-    # HTML img syntax: <img src="url" ...> or <img ... src="url" ...>
-    # Simple regex for src attribute
-    html_matches = re.finditer(r'<img[^>]+src=["\']([^"\']+)["\']', content)
-    for match in html_matches:
-        url = match.group(1)
-        references.append((match.start(1), match.end(1), url))
-        
-    return references
+    # Delegates to assetrefs so all three scripts parse references the same
+    # way. The old regex here truncated `![](<name (1).png>)` at the first
+    # closing paren; see assetrefs.py for details.
+    return assetrefs.extract_references(content)
 
 def main():
     md_files = get_markdown_files()

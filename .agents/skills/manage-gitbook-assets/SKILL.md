@@ -9,7 +9,8 @@ This skill contains tools to automatically organize, rename, and clean up images
 
 ## Capabilities
 
-The skill provides three python scripts located in `scripts/`:
+The skill provides three python scripts located in `scripts/`, plus a shared
+`assetrefs.py` module that all three use to parse image references:
 
 1. **`rename_images.py`**
    - Scans all `.md` files to find image references.
@@ -26,6 +27,27 @@ The skill provides three python scripts located in `scripts/`:
    - Scans all `.md` files for image references.
    - Identifies images in `.gitbook/assets` that are not referenced by *any* markdown file.
    - Moves these orphaned images to `.gitbook/assets/unused/` to reduce clutter.
+   - **Defaults to a dry run.** It reports what it would do and changes nothing. Pass `--apply` to actually move files.
+   - Skips an orphan whose name already exists in `unused/`, rather than overwriting a different file that happens to share the name.
+   - Reports **stranded** files: images sitting in `unused/` that markdown actually references. Those are left alone, since moving them would break the references pointing at the `unused/` path.
+
+### `assetrefs.py`
+
+Shared reference parsing, used by all three scripts so they agree on what
+counts as a reference.
+
+The scripts previously each carried their own copy of the regex
+`!\[.*?\]\((.*?)\)`, which stops at the first closing parenthesis. Markdown
+wraps paths containing spaces in angle brackets, and many assets here are named
+like `image-000209 (1).png`, so that regex truncated them to
+`image-000209 (1`. A file whose reference was mis-parsed looked unreferenced,
+which meant `cleanup_orphans.py` could quarantine an image that was in use.
+
+`assetrefs.py` also provides `resolve()`, which resolves a reference relative to
+the markdown file containing it. `cleanup_orphans.py` matches on resolved paths
+rather than basenames, because this repo has same-named files in different
+folders — `assets/image (9).png` and `assets/unused/image (9).png` are different
+images.
 
 ## Instructions for Agents
 
@@ -34,5 +56,6 @@ When a user asks you to clean up, organize, or manage the Gitbook assets, follow
 1. Always run the scripts from the repository root: `c:\Users\seven\Documents\GitHub\DrawingTabletDocs`
 2. First run `python .agents/skills/manage-gitbook-assets/scripts/rename_images.py`
 3. Next run `python .agents/skills/manage-gitbook-assets/scripts/rename_readme_images.py`
-4. Finally run `python .agents/skills/manage-gitbook-assets/scripts/cleanup_orphans.py`
-5. Check the script outputs to summarize the changes made to the user.
+4. Run `python .agents/skills/manage-gitbook-assets/scripts/cleanup_orphans.py` to see the dry-run report.
+5. Review the report with the user, then run it again with `--apply` to move the orphans.
+6. Check the script outputs to summarize the changes made to the user.
