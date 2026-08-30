@@ -394,9 +394,7 @@ Along the bottom edge are four sets of magents - presumably for the cover to con
 
 The photo below shows one of the four sets that is located in the bottom right corner.
 
-<figure><img src="../../../../.gitbook/assets/20260830_082241_1920x1080.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/wacom-dtha140-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Securing the Pen
 
