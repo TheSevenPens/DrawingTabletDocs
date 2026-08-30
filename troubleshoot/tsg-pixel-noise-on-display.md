@@ -2,7 +2,7 @@
 
 ## Photo Examples
 
-![](../.gitbook/assets/tsg-pixel-noise-on-display-1.jpg) ![](<../.gitbook/assets/unused/image-000567 (1).jpg>)
+![](../.gitbook/assets/tsg-pixel-noise-on-display-1.jpg) ![](../.gitbook/assets/tsg-pixel-noise-on-display-2.jpg)
 
 ![](../.gitbook/assets/tsg-pixel-noise-on-display-3.jpg)
 

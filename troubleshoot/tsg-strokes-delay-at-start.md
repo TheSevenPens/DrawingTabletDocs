@@ -19,7 +19,7 @@ The same delay at the beginning of dragging the pen can manifest in other user e
 
 ## Examples
 
-![](<../.gitbook/assets/unused/image-000700 (1).png>)
+![](../.gitbook/assets/tsg-strokes-delay-at-start-1.png)
 
 ## Diagnostic questions to answer
 

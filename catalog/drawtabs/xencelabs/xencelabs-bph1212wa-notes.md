@@ -51,4 +51,4 @@ You can eliminate this wobble with Smoothing:
 * **Clip Studio Paint**
   * Stabilization of 50 got rid of it
 
-<figure><img src="../../../.gitbook/assets/unused/image-000175 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xencelabs-bph1212wa-notes-1.png" alt=""><figcaption></figcaption></figure>

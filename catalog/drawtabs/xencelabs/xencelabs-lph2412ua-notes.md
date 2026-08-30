@@ -134,7 +134,7 @@ Kamvas Pro 19
 
 Cintiq pro 27
 
-<div align="left"><figure><img src="../../../.gitbook/assets/unused/image-000357 (1).png" alt="" width="340"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/xencelabs-lph2412ua-notes-3.png" alt="" width="340"><figcaption></figcaption></figure></div>
 
 Xencelabs pen display 24
 
@@ -179,7 +179,7 @@ Xencelabs is at least aware of the diagonal wobble.
 
 In this review post on reddit (posted July 12, 2023) there are some quoted responses from Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/)
 
-<figure><img src="../../../.gitbook/assets/unused/image-000321 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xencelabs-lph2412ua-notes-6.png" alt=""><figcaption></figcaption></figure>
 
 It's unclear if they are aware of the more general wobble I encountered.
 

@@ -22,7 +22,7 @@ MacOS setup
 
 * For the CableMatters USB-C cable, the **cable ends are a little too thick** to fit into some recessed ports.
 * I had to remove some plastic from one of the ends to fit it into the tablets using a knife.
-* ![](<../../../.gitbook/assets/unused/image-000732 (1).jpg>)![](<../../../.gitbook/assets/unused/image-000733 (1).jpg>)
+* ![](../../../.gitbook/assets/cablematters-thunderbolt-3-cable-1.jpg)![](../../../.gitbook/assets/cablematters-thunderbolt-3-cable-2.jpg)
 * This plastic was tough to cut. I did not do a very clean job, but it **just barely** fits into the port. The fit is very snug, and I should probably remove a little more.
 
 ## Testing results

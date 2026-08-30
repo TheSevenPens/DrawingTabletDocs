@@ -84,7 +84,7 @@ Although I am very satisfied with this mini PC, I am looking forward to future m
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/unused/image-000047 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/minisforum-um870-slim-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/minisforum-um870-slim-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
