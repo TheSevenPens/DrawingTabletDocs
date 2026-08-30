@@ -18,37 +18,37 @@ Because this Pen display has a 1:1 aspect ratio, it will work better if your mon
 
 ## Photos
 
-<figure><img src="../../../../.gitbook/assets/IMG_0512 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/IMG_0514 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../../.gitbook/assets/IMG_0516 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/IMG_0517 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/IMG_0518 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/IMG_0520 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-5.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/IMG_0521 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/IMG_0525 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-7.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../../.gitbook/assets/IMG_0526 (Large).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-8.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-9.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

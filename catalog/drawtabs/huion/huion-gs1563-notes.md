@@ -209,13 +209,13 @@ These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the win
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20260725_135244 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs1563-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260725_135350 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs1563-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260725_135502 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs1563-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260725_135516 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs1563-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260725_135524 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/huion-gs1563-notes-5.jpg" alt=""><figcaption></figcaption></figure>
 

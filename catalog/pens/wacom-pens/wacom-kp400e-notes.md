@@ -15,13 +15,13 @@
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20260822_220157 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp400e-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260822_220147 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp400e-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260822_200153 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp400e-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260822_200205 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp400e-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

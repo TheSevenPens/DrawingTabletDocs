@@ -21,39 +21,39 @@ That being said, some points:
 
 This is what theoretically perfect tilt compensation looks like:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-1.png" alt=""><figcaption></figcaption></figure>
 
 ## A simple example of imperfect tilt compensation
 
 The diagrams below show how imperfect tilt compensation can look. The pointer "drifts" from the ideal position. Drift varies in amount and direction, but this is a good starting point for understanding the topic.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Perfect vs good tilt compensation
 
 Because no tablet has perfect tilt compensation, we should set expectations for good tilt compensation. In my experience, a good result at 45 degrees of tilt elevation is slight pointer drift while the pointer still appears to touch the nib tip. In the example below, the drift is about ⅓ of a millimeter. Your experience and preferences may vary.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Pointer drift direction
 
 The drift may occur toward the direction in which the pen is leaning or away from it.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-5.png" alt=""><figcaption></figcaption></figure>
 
 ## Pointer drift based on tilt direction (azimuth)
 
 You may see that the pointer drifts in some orientations, but less in others.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-6.png" alt=""><figcaption></figcaption></figure>
 
 I have observed a pattern in some tablets. Tilt compensation is good in all cardinal directions (N, S, E, W). It becomes inaccurate as the direction approaches diagonal directions (NE, SE, SW, NW).
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tilt-compensation-8.png" alt=""><figcaption></figcaption></figure>
 
 ## Older vs newer tablets
 

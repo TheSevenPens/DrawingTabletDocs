@@ -4,7 +4,7 @@
 
 When using a pen display or a monitor you may experience black bars on the display. They may appear on the sides, on the top & bottom, or on all sides.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-display-black-bars-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Causes
 

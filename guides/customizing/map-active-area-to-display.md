@@ -12,26 +12,27 @@ All drawing tablets need to identify which display the pointer will be on when t
 
 Wacom has 4 different ways to indicate which monitor the active area is mapped to. WHich method is available depends on the whether you are using Wacom Center or Wacom Tablet Properties and which kind of tablet you have:
 
-*  Wacom Tablet Properties -> Calibration tab \[this is for pen displays]
+*
+  Wacom Tablet Properties -> Calibration tab \[this is for pen displays]
 * Wacom Tablet Properties -> Mapping tab > Screen Area \[this is for pen tablets]
 * Wacom Center -> Advanced > Advanced settings > Assigned display  \[this is for pen displays]
 * Wacom Center -> Mapping > Advanced > Display Mapping \[this is for pen tablets]
 
 #### Wacom Tablet Properties > Mapping tab
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="138"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/map-active-area-to-display-1.png" alt="" width="138"><figcaption></figcaption></figure>
 
 #### Wacom Tablet Properties > Calibration tab
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="188"><figcaption><p>Calibration tab.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/map-active-area-to-display-2.png" alt="" width="188"><figcaption><p>Calibration tab.</p></figcaption></figure>
 
 #### Wacom Center > Advanced
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/map-active-area-to-display-3.png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### Wacom Center > Mapping tab
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/map-active-area-to-display-4.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Huion" %}

@@ -52,10 +52,10 @@ This model has 2 buttons in a rocker configuration.
 
 ## Photos
 
-<figure><img src="../../../.gitbook/assets/20260722_183229 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp701e-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260722_183303 (Large).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp701e-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260722_183243 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp701e-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20260722_183334 (Large) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-kp701e-notes-4.jpg" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@ This expands to a path that should look like:
 
 This is what the folder looks like:
 
-<figure><img src="../../../.gitbook/assets/image-000322.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otd-app-data-directory-1.png" alt=""><figcaption></figcaption></figure>
 
 ### Pro tip: Quickly get to the AppData folder
 
@@ -18,4 +18,4 @@ Press `Windows+R`, then type `appdata`.
 
 It will open a window directly to that folder.
 
-![](../../../.gitbook/assets/image-000267.png)
+![](../../../.gitbook/assets/otd-app-data-directory-2.png)

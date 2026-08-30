@@ -88,7 +88,7 @@ Depending on your ports, the tablet, and its power needs, there are three connec
 * **Two-cable option:** A single USB-C cable carries data and video. A separate cable carries power.
 * **Three-cable option:** A USB-C cable carries video. Separate cables carry power and data.
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Video signal with DP alt mode support
 
@@ -98,9 +98,9 @@ To carry video, your USB-C cable and ports must support DP alt mode. To find out
 
 The one cable option is the most physically elegant and in some sense ideal connection type. It is also the most complex in terms of requirements. Many computers simply cannot accommodate this option. Not all pen displays support it, even if they have USB-C ports. Every port and cable must meet all the requirements.
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-3.png" alt=""><figcaption></figcaption></figure>
 
 ## Power support
 
@@ -120,7 +120,7 @@ If your USB-C port can't supply enough power, use a **two-cable** or **three-cab
 
 ### Which USB-C port on the tablet should you use?
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Often with tablets there are two USB-C ports.
 
@@ -148,7 +148,7 @@ You have three options:
 * USB-C Thunderbolt cables
 * USB-C USB4 cables
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-usbc-5.png" alt=""><figcaption></figcaption></figure>
 
 ### How to tell if a USB-C cable could be used as a single-cable for your pen display
 

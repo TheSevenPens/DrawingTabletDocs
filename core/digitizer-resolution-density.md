@@ -39,9 +39,9 @@ So, 5080 LPI = 200 LPmm.
 It is very common to see density labeled as resolution.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/digitizer-resolution-density-1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/digitizer-resolution-density-2.png" alt=""><figcaption></figcaption></figure>
 
 * Densities <100 LPmm were for very tablets.
 * Modern tablets have been at >=100 LPmm for a long time now.

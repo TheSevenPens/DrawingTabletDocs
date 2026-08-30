@@ -11,7 +11,7 @@ Tilt is described by two angles: tilt elevation and tilt azimuth.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/README-1.png" alt=""><figcaption></figcaption></figure>
 
 This video demonstrates tilt. I highly recommend that you watch it.
 
