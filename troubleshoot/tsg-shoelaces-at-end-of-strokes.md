@@ -8,7 +8,7 @@ NOTE: There is a related problem: [TSG: Hooks at start of strokes](tsg-strokes-h
 
 ## Examples
 
-![](<../.gitbook/assets/unused/image-000287 (1).png>) ![](<../.gitbook/assets/unused/image-000272 (1).png>)
+![](../.gitbook/assets/tsg-shoelaces-at-end-of-strokes-1.png) ![](../.gitbook/assets/tsg-shoelaces-at-end-of-strokes-2.png)
 
 ## Avoid flicking
 
@@ -48,7 +48,7 @@ In general, set the value to as low a number as it will go and still work correc
 
 The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has several tools to help deal with this shoelace effect.
 
-![](<../.gitbook/assets/unused/image-000325 (1).png>)
+![](../.gitbook/assets/tsg-shoelaces-at-end-of-strokes-3.png)
 
 ## Reddit threads
 
