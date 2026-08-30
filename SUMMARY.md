@@ -165,6 +165,7 @@
     * [Using a pen display as a monitor](guides/customizing/pen-display-as-monitor.md)
     * [Controlling the pen tip behavior](guides/customizing/controlling-pen-tip-behavior.md)
     * [Replacing the USB port on a drawing tablet](guides/customizing/replace-usb-port.md "Replacing USB port")
+    * [Matching colors across displays](guides/customizing/matching-colors-across-displays.md)
   * [Connecting](guides/connecting/README.md)
     * [Connecting a pen to a drawing tablet](guides/connecting/connecting-pen-to-drawtab.md)
     * [Recessed USB-C ports](guides/connecting/recessed-usbc-ports.md)
