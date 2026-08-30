@@ -3,3 +3,4 @@ scripts/obj/*
 scripts/bin/*
 .claude/*
 scripts/__pycache__/*
+__pycache__/
