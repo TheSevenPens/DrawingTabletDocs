@@ -10,7 +10,7 @@
 * **Physical Logical** - The tablet and pen work with two systems for describing pressure
   * physical pressure - the actual force a tthe tip of the pen in an absolute unit like gram-force (gf).
   * logical pressure - an abstract number representing the relative amount of pressure that does not have a unit. This could be considered to be a number between 0.0 and 1.0 or equivalently a number between 0% and 100% or even a pressure level number.
-* The [pressure range](/broken/pages/SpXfHs0XHkS6Dnt4279C) is the range of physical force the pen can sense.
+* The pressure range is the range of physical force the pen can sense.
   * The lower bound is the [Initial Activation Force (IAF)](iaf.md).
   * The upper bound is the [maximum physical pressure](maximum-physical-pressure.md).
 * A tablet splits the pressure range into logical segments called [Pen pressure levels](pen-pressure-levels.md).
@@ -26,12 +26,12 @@ If you prefer to watch, the "Under Pressure" YouTube series explores how pressur
 ## Pressure handling: pen vs tablet
 
 * Pen:
-  * Contains the pressure sensing mechanism&#x20;
+  * Contains the pressure sensing mechanism
 * Tablets:
   * Does NOT sense pressure.
   * Determines the number of pressure levels.
   * Translates pressure information from the pen into those levels.
-  * May process pressure data before sending it to the computer.&#x20;
+  * May process pressure data before sending it to the computer.
 
 ## Pressure units
 
@@ -47,5 +47,5 @@ There are two different techniques. The newer one uses a pressure sensor in the 
 
 ## Notes
 
-* Pens, even of the same model, differ a little in their pressure sensitivity.&#x20;
+* Pens, even of the same model, differ a little in their pressure sensitivity.
 * Pressure sensors are subject to wear. Over time, a pen may become less sensitive than it used to be. In practice, I have never noticed this in a meaningful way.
