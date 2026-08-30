@@ -6,7 +6,7 @@ For other calibration types, see [Calibrating a drawing tablet](calibrating.md).
 
 There are two broad categories of methods used to calibrate color for a display:
 
-**Hardware-based color calibration** uses specialized calibration hardware and software to measure your display's color output and then modify how it displays those colors to help the display more closely match industry color standards. This technique requires expertise and familiarity with advanced color concepts.
+**Profile-based color calibration** uses specialized calibration hardware and software to measure your display's color output and then modify how it displays those colors to help the display more closely match industry color standards. This technique requires expertise and familiarity with advanced color concepts.
 
 **Ad hoc color adjustment** uses basic color, brightness, and contrast adjustments. It helps your display match your preferences or another nearby display. This method requires no specialized calibration hardware or software. It is available on most displays.
 
@@ -28,6 +28,7 @@ In limited cases, two displays can look very similar. Both must support the same
 
 This guide does not cover profile-based calibration in detail. Use these resources to learn more.
 
+* [Keith Cooper - Monitor calibration: how do you know it's right? Can you match monitors? Are cheaper calibrators OK?](https://www.youtube.com/watch?v=v2mwdvxI3iw) 2024-11-01
 * [Wacom — Cintiq Pro 27 Color Calibration](https://www.youtube.com/watch?v=b1hfF0U6UtM) — 2024-08-14
 * [Snazzy Labs — How Does Color Calibration Work?](https://www.youtube.com/watch?v=i0oQKsYc-tU) — 2021-05-07
 * [Hardware Unboxed — How to Calibrate Your Monitor: The Comprehensive Beginner's Guide](https://www.youtube.com/watch?v=f2nVNxx1IHo) — 2020-07-06
