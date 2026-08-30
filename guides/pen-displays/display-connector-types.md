@@ -13,29 +13,29 @@ When working with pen display tablets, you'll encounter lots of different connec
 
 Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HDMI)
 
-The normal sized HDMI connector is shown below.
+The normal-sized HDMI connector is shown below.
 
-<img src="../../.gitbook/assets/display-connector-types-1.jpg" alt="" width="563">
+<figure><img src="../../.gitbook/assets/Slide_0002.jpg" alt=""><figcaption></figcaption></figure>
 
 There are some smaller versions of HDMI connectors and ports. The Micro and Mini sizes are not common.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_0003.jpg" alt=""><figcaption></figcaption></figure>
 
 ## DisplayPort connectors
 
 Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/wiki/DisplayPort)
 
-Normal-sized DisplayPort connectors
+Normal-sized DisplayPort connectors are shown below.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_0004 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Mini-DisplayPort connectors
+Mini DisplayPort connectors are shown below.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_0005.jpg" alt=""><figcaption></figcaption></figure>
 
 ## USB-C connectors
 
-<img src="../../.gitbook/assets/display-connector-types-2.jpg" alt="" width="563">
+<figure><img src="../../.gitbook/assets/Slide_0006.jpg" alt=""><figcaption></figcaption></figure>
 
 Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
@@ -65,23 +65,23 @@ Thunderbolt 2 connectors use the mini-DisplayPort connector type. Again, by defi
 
 ## DVI connectors
 
-DVI is an older video signal connector type. They are rare these days but you will find them on somewhat older hardware. Be aware that there are multiple DVI port types that are physically different so that not all DVI cables can plug into all DVI ports.&#x20;
+DVI is an older video signal connector type. DVI connectors are rare these days, but you may find them on older hardware. Be aware that multiple DVI port types have different physical connectors, so not all DVI cables fit every DVI port.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_0008.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## VGA
 
-These are EXTREMELY old connector types.
+VGA connectors are extremely old.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_0009.jpg" alt=""><figcaption></figcaption></figure>
 
 ## USB-A connectors
 
-USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
+USB-A ports do not provide a display signal. They are listed here for reference, so you can compare them with other USB ports.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slide_0007.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Resources
 
