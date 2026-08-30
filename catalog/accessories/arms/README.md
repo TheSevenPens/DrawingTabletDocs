@@ -56,7 +56,7 @@ I use this brand a lot. [Ergotron monitor arms](ergotron-monitor-arms.md)
 
 I've used this for a while with a 22" pen display and I really like it. [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](../stands/vivo-v100r.md)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image-000144.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/arms-2.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## XP-Pen ACS15 Ergo Stand
 

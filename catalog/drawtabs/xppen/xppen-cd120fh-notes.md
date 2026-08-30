@@ -29,7 +29,7 @@ Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. M
 
 Compare to the Artist 13 GEN2
 
-<figure><img src="../../../.gitbook/assets/image-000177.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xppen-cd120fh-notes-2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Pen pressure range <a href="#pressure-range" id="pressure-range"></a>
 

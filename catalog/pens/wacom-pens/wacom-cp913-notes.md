@@ -4,7 +4,7 @@
 
 The Wacom One Pen (CP-913) was released in 2019 and came with the Wacom One 2019 GEN1 (DTC-133), which was one of Wacom's consumer pen displays.
 
-<figure><img src="../../../.gitbook/assets/image-000599.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-cp913-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 This is a very "consumer" pen, and it has **OK pressure performance**.
 

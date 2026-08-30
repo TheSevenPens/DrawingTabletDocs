@@ -30,7 +30,7 @@ The one I recommend is **Position Smoothing Exponential Moving Average**.
 
 This is what the configuration looks like:
 
-<figure><img src="../../../.gitbook/assets/image-000369.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/otd-smoothing-1.png" alt=""><figcaption></figcaption></figure>
 
 If you want to enable the filter, click **Enable Slimy Scylla ...** at the top, then click **Apply**.
 

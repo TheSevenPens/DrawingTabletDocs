@@ -10,7 +10,7 @@ Pointer lag is most apparent when moving the pen across the desktop. The faster 
 For lag specifically related to stroke rendering, see [Brush lag](lag.md).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pointer-lag-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Affected tablets
 
