@@ -134,7 +134,7 @@ You should be aware that recessed USB-C ports on your pen display typically mean
 
 More here: [Recessed USB-C ports](../recessed-usbc-ports.md)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/recessed-usbc-ports-2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/recessed-usbc-port-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## USB-C cables
 

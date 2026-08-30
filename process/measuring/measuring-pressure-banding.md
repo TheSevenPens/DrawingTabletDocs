@@ -27,4 +27,4 @@ There is no banding here.
 
 ## A bad result - banding visible
 
-<figure><img src="../../.gitbook/assets/pressure-banding-9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-sample-1.png" alt=""><figcaption></figcaption></figure>

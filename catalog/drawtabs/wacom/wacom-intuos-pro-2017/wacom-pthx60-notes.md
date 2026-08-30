@@ -34,7 +34,7 @@ Again, I recommend all three. But specifically, I suggest looking at these model
 
 ## Active area sizes
 
-<figure><img src="../../../../.gitbook/assets/wacom-pthx60-notes-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-intuos-pro-active-area-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Pens
 

@@ -30,7 +30,7 @@ PLEASE read [Connecting a Pen Display](./). One you understand the basics, this 
 
 The power cable will typically be marked with a red connector or tag that is red or has a power symbol.
 
-<figure><img src="../../../.gitbook/assets/connecting-pen-display-hdmi-12.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3-in-1-cable-power-lead-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 A power adapter will come with the tablet. Use it.
 

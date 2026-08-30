@@ -66,7 +66,7 @@ These stands are simple and inexpensive, but beware that since the tablet is not
 
 I've used this for a while with a 22" pen display and I really like it. [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](vivo-v100r.md)
 
-<div align="left"><figure><img src="../../../.gitbook/assets/arms-2.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/vivo-v100r-arm-1.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## XP-Pen ACS15 Ergo Stand
 

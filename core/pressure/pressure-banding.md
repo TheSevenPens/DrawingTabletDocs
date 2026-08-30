@@ -48,7 +48,7 @@ You might be able to make out some banding in the original image.
 
 Performing some contrast enhancement makes it much more obvious.
 
-<figure><img src="../../.gitbook/assets/pressure-banding-9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pressure-banding-sample-1.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/pressure-banding-5.png" alt=""><figcaption></figcaption></figure>
 
