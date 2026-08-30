@@ -29,7 +29,7 @@ Another contributing factor is that your pen may have a very low IAF and so is s
 
 A low IAF is great, but if you are doing a lot of strokes, the sensitivity can result in more hooks. Consider adjusting your pressure curve as shown below.
 
-<figure><img src="../.gitbook/assets/image-000438.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-strokes-hooks-at-start-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Links
 

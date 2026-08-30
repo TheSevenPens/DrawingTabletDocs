@@ -26,7 +26,7 @@ Even though a low IAF is a good thing, it can also mean that at the end of strok
 
 Try adjusting your pressure curve as shown below to see if this helps reduce the problem.
 
-<figure><img src="../.gitbook/assets/image-000438.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tsg-shoelaces-at-end-of-strokes-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Your application
 
