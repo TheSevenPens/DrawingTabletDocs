@@ -2,13 +2,13 @@
 
 ## Overview
 
-These "hooks" often seem to be an artifact of various pen smoothing/stabilization techniques.
+These "hooks" often seem to be an artifact of various pen smoothing/stabilization techniques..
 
 ## Smoothing
 
 In the example, lots of quick flicks were used to draw several strokes with lots of smoothing applied. You can clearly see that some lines have hooks at the beginning.
 
-![](../.gitbook/assets/tsg-strokes-hooks-at-start-1.png)
+![](<../.gitbook/assets/unused/image-000209 (2).png>)
 
 Below, the same style of flicks was used to draw strokes, but this time the smoothing was set to zero.
 
