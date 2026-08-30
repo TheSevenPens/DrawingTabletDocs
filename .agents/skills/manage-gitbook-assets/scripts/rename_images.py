@@ -104,6 +104,13 @@ def main():
         
         if len(unique_md_files) == 1:
             md_path = Path(unique_md_files[0])
+
+            # Leave README images to rename_readme_images.py, which names them
+            # after the parent directory. Naming them here would produce
+            # README-1.png, which is ambiguous across the many README files.
+            if md_path.name.lower() == 'readme.md':
+                continue
+
             doc_basename = md_path.stem
             
             ext = os.path.splitext(basename)[1]

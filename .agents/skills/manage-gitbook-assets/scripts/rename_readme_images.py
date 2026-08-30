@@ -8,8 +8,11 @@ import urllib.parse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import assetrefs
 
-REPO_ROOT = Path(r"c:\Users\seven\Documents\GitHub\DrawingTabletDocs")
+REPO_ROOT = Path(__file__).resolve().parents[4]
 ASSETS_DIR = REPO_ROOT / ".gitbook" / "assets"
+
+# Dry run unless --apply is passed, matching the other scripts.
+APPLY = '--apply' in sys.argv
 
 def is_generic_or_readme_image(filename):
     if not filename.lower().endswith(('.jpg', '.png', '.jpeg')):
@@ -135,6 +138,10 @@ def main():
             new_asset_path = ASSETS_DIR / new_basename
             
             if old_asset_path.exists():
+                if not APPLY:
+                    print(f"WOULD RENAME: {old_basename} -> {new_basename}   ({md_path})")
+                    total_renamed += 1
+                    continue
                 old_asset_path.rename(new_asset_path)
                 print(f"Renamed file: {old_basename} -> {new_basename}")
                 
@@ -159,7 +166,11 @@ def main():
             else:
                 print(f"Warning: Image {old_basename} referenced by {md_path} not found in {ASSETS_DIR}")
 
-    print(f"Successfully processed {total_renamed} README images.")
+    if APPLY:
+        print(f"Successfully processed {total_renamed} README images.")
+    else:
+        print(f"\nDRY RUN. {total_renamed} image(s) would be renamed.")
+        print("Re-run with --apply to perform the renames.")
 
 if __name__ == '__main__':
     main()

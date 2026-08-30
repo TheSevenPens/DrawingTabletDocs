@@ -10,9 +10,9 @@ A pen display has three requirements to work: **power**, **data**, and a **video
 
 They could be carried by three separate cables, a single cable, or specialty cables. It depends on the specific tablet and your computer.
 
-<figure><img src="../../../.gitbook/assets/README-2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/README-3.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Basic connection strategies
 
@@ -25,7 +25,7 @@ Almost always, that cable is either HDMI or USB-C. Instructions for each case ar
 * HDMI for video: [Connecting with HDMI](connecting-pen-display-hdmi.md)
 * USB-C for video: [Connecting a pen display with USB-C](connecting-pen-display-usbc.md)
 
-<figure><img src="../../../.gitbook/assets/README-4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## What happens if the requirements are not met
 
@@ -33,7 +33,7 @@ Almost always, that cable is either HDMI or USB-C. Instructions for each case ar
 
 If there is no video signal, the tablet screen will show a message such as **NO SIGNAL**. It may then show **POWER SAVING** and turn off. **NO SIGNAL** explicitly identifies the fundamental problem: the tablet is not receiving a video signal. This message can result from issues in multiple places. It can be complex to troubleshoot. For more information, see [TSG: Pen display shows NO SIGNAL message](../../../troubleshoot/tsg-no-signal.md).
 
-<figure><img src="../../../.gitbook/assets/README-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 If the **NO SIGNAL** message occurs and your tablet stays on, you might be able to continue using the pen, even if you see nothing. In other words, it will behave like a pen tablet. Although not ideal, it may be useful in an emergency.
 
@@ -41,7 +41,7 @@ If the **NO SIGNAL** message occurs and your tablet stays on, you might be able 
 
 If the tablet cannot send data to the computer, the tablet driver will show a message that the tablet is not detected or connected. This message can occur even when the tablet is correctly connected. If you have this problem, see [TSG: Tablet driver does not detect the tablet](../../../troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md).
 
-<figure><img src="../../../.gitbook/assets/README-5.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-5.png" alt="" width="563"><figcaption></figcaption></figure>
 
 If there is no power or not enough power, you might see these symptoms:
 
