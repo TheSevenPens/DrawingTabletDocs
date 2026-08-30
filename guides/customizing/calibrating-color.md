@@ -32,6 +32,7 @@ This guide does not cover profile-based calibration in detail. Use these resourc
 * [Wacom — Cintiq Pro 27 Color Calibration](https://www.youtube.com/watch?v=b1hfF0U6UtM) — 2024-08-14
 * [Snazzy Labs — How Does Color Calibration Work?](https://www.youtube.com/watch?v=i0oQKsYc-tU) — 2021-05-07
 * [Hardware Unboxed — How to Calibrate Your Monitor: The Comprehensive Beginner's Guide](https://www.youtube.com/watch?v=f2nVNxx1IHo) — 2020-07-06
+* [PhotographyLife - The Basics of Monitor Calibration](https://photographylife.com/the-basics-of-monitor-calibration)
 
 ## Ad-hoc color calibration
 
