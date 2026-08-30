@@ -14,8 +14,18 @@ ASSETS_DIR = REPO_ROOT / ".gitbook" / "assets"
 # Dry run unless --apply is passed, matching the other scripts.
 APPLY = '--apply' in sys.argv
 
+IMAGE_EXTS = ('.jpg', '.jpeg', '.png', '.gif', '.webp')
+
+def index_taken(stem, n, claimed):
+    """True if <stem>-<n> already exists under any image extension."""
+    for e in IMAGE_EXTS:
+        cand = f"{stem}-{n}{e}"
+        if cand in claimed or (ASSETS_DIR / cand).exists():
+            return True
+    return False
+
 def is_generic_or_readme_image(filename):
-    if not filename.lower().endswith(('.jpg', '.png', '.jpeg')):
+    if not filename.lower().endswith(IMAGE_EXTS):
         return False
     
     basename = os.path.basename(filename)
@@ -125,10 +135,11 @@ def main():
             ext = os.path.splitext(old_basename)[1].lower()
             
             # E.g. pens-1.jpg
-            new_basename = f"{parent_name}-{idx+1}{ext}"
-            
+            # Index across ALL extensions, so arms-2.jpg and arms-2.webp cannot
+            # both exist and leave the number ambiguous.
             counter = idx + 1
-            while new_basename in all_new_names or (ASSETS_DIR / new_basename).exists():
+            new_basename = f"{parent_name}-{counter}{ext}"
+            while index_taken(parent_name, counter, all_new_names):
                 counter += 1
                 new_basename = f"{parent_name}-{counter}{ext}"
             

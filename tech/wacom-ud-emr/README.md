@@ -72,7 +72,7 @@ Wacom has a "Feel by Wacom" trademark as shown below
 
 You can see this how it is used in these materials for an ASUS product.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image-000589.webp" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/wacom-ud-emr-2.webp" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Videos
 

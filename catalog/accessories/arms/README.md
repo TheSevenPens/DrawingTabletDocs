@@ -77,9 +77,9 @@ If your pen display is larger, there are some larger brackets available as well.
 
 One example is VIVO VESA Adapter Bracket Kit (STAND-VAD1)
 
-<figure><img src="../../../.gitbook/assets/image-000699.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/arms-3.webp" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image-000557.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/arms-4.webp" alt="" width="188"><figcaption></figcaption></figure>
 
 Some things to watch out for with these brackets before you buy them:
 

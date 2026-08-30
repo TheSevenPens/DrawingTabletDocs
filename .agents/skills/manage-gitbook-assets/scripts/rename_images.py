@@ -14,9 +14,10 @@ ASSETS_DIR = REPO_ROOT / ".gitbook" / "assets"
 # Dry run unless --apply is passed, matching cleanup_orphans.py.
 APPLY = '--apply' in sys.argv
 
+IMAGE_EXTS = ('.jpg', '.jpeg', '.png', '.gif', '.webp')
+
 def is_generic_image(filename):
-    # Only jpg and png based on user request
-    if not filename.lower().endswith(('.jpg', '.png', '.jpeg')):
+    if not filename.lower().endswith(IMAGE_EXTS):
         return False
     
     basename = os.path.basename(filename)
