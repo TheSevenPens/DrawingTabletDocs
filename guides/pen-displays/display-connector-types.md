@@ -13,7 +13,13 @@ When working with pen display tablets, you'll encounter lots of different connec
 
 Wikipedia: [https://en.wikipedia.org/wiki/HDMI](https://en.wikipedia.org/wiki/HDMI)
 
-![](../../.gitbook/assets/display-connector-types-1.jpg)
+The normal sized HDMI connector is shown below.
+
+<img src="../../.gitbook/assets/display-connector-types-1.jpg" alt="" width="563">
+
+There are some smaller versions of HDMI connectors and ports. The Micro and Mini sizes are not common.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## DisplayPort connectors
 
@@ -21,15 +27,15 @@ Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/
 
 Normal-sized DisplayPort connectors
 
-MISSING IMAGE
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Mini-DisplayPort connectors
 
-MISSING IMAGE
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## USB-C connectors
 
-![](../../.gitbook/assets/display-connector-types-2.jpg)
+<img src="../../.gitbook/assets/display-connector-types-2.jpg" alt="" width="563">
 
 Wikipedia: [https://en.wikipedia.org/wiki/USB-C](https://en.wikipedia.org/wiki/USB-C)
 
@@ -49,20 +55,34 @@ The important thing about Thunderbolt cables and ports is that they are required
 
 Wikipedia: [https://en.wikipedia.org/wiki/Thunderbolt\_(interface)](https://en.wikipedia.org/wiki/Thunderbolt_\(interface\))
 
-![](../../.gitbook/assets/display-connector-types-3.jpg)
+<img src="../../.gitbook/assets/display-connector-types-3.jpg" alt="" width="563">
 
 ## Thunderbolt 2 connectors
 
 Thunderbolt 2 connectors use the mini-DisplayPort connector type. Again, by definition, they can carry a display signal.
 
-![](../../.gitbook/assets/display-connector-types-4.jpg)
+<img src="../../.gitbook/assets/display-connector-types-4.jpg" alt="" width="563">
+
+## DVI connectors
+
+DVI is an older video signal connector type. They are rare these days but you will find them on somewhat older hardware. Be aware that there are multiple DVI port types that are physically different so that not all DVI cables can plug into all DVI ports.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+## VGA
+
+These are EXTREMELY old connector types.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## USB-A connectors
 
 USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
 
-MISSING IMAGE
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Other resources
+## Resources
 
 * [Techquickie - Why DisplayPort Is Still Better Than HDMI](https://www.youtube.com/watch?v=qr-ACsQ1BXA) Aug 11, 2023

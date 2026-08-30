@@ -12,7 +12,7 @@ A 3-in-1 cable typically looks like this:
 
 Here's a typical picture of the three cables on the right.
 
-<figure><img src="../../../.gitbook/assets/connecting-with-a-3-in-1-cable-5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/connecting-pen-display-hdmi-12.jpg" alt=""><figcaption></figcaption></figure>
 
 The power end can work in different ways, depending on which 3-in-1 cable you have.
 

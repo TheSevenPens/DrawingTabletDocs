@@ -258,7 +258,7 @@ The 2017 models had unusual aspect ratios, while the new devices all have 16x9 a
 
 As you can see, the 2025 models are clearly a little larger than their 2017 counterparts.
 
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/wacom-pthx60-notes-3.png" alt=""><figcaption></figcaption></figure>
 
 ### Active area with Force Proportions enabled
 

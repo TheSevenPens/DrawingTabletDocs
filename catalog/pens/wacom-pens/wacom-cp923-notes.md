@@ -16,7 +16,7 @@ Officially the name of the CP-923 pen is "Wacom One Standard Pen" but that name 
 
 Below is the old Wacom One Pen (CP-913). It is better than the CP-923. It only has one button, but the pressure handling is a bit better.
 
-<figure><img src="../../../.gitbook/assets/wacom-cp923-notes-3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wacom-cp913-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Pen support**
 
