@@ -8,9 +8,9 @@ Removing the nib from the pen is a common maintenance task to deal with nibs tha
 
 Your drawing tablet likely came with a nib remover. It is usually either a piece of metal or a metal part of a pen stand.
 
-Here's a simple nib remover.
+Here's a simple nib remover. It is just a ring of metal that you use to pinch the nib and pull it out.
 
-MISSING IMAGE
+<figure><img src="../../.gitbook/assets/simple-nib-remover-huion-(Large).jpg" alt=""><figcaption></figcaption></figure>
 
 This pen case has a nib remover (the small metal ring) built in.
 
