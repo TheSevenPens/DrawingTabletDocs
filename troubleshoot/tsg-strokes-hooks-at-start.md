@@ -2,7 +2,7 @@
 
 ## Overview
 
-These "hooks" often seem to be an artifact of various pen smoothing/stabilization techniques..
+These "hooks" often seem to be an artifact of various pen smoothing/stabilization techniques.
 
 ## Smoothing
 
