@@ -21,11 +21,11 @@ Wikipedia: [https://en.wikipedia.org/wiki/DisplayPort](https://en.wikipedia.org/
 
 Normal-sized DisplayPort connectors
 
-<mark style="color:red;">**MISSING IMAGE**</mark>
+MISSING IMAGE
 
 Mini-DisplayPort connectors
 
-<mark style="color:red;">**MISSING IMAGE**</mark>
+MISSING IMAGE
 
 ## USB-C connectors
 
@@ -61,7 +61,7 @@ Thunderbolt 2 connectors use the mini-DisplayPort connector type. Again, by defi
 
 USB-A ports are not used to provide a display signal. They are being listed here as a reference so you know what they look like compared to the other USB ports.
 
-<mark style="color:red;">**MISSING IMAGE**</mark>
+MISSING IMAGE
 
 ## Other resources
 

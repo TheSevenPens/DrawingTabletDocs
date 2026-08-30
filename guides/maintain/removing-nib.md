@@ -10,7 +10,7 @@ Your drawing tablet likely came with a nib remover. It is usually either a piece
 
 Here's a simple nib remover.
 
-<mark style="color:red;">**MISSING IMAGE**</mark>
+MISSING IMAGE
 
 This pen case has a nib remover (the small metal ring) built in.
 

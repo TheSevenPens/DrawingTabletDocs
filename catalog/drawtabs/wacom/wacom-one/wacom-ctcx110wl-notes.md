@@ -56,7 +56,7 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 A moderate-to-low amount of wobble in slow strokes that reduces as strokes get faster.
 
-<mark style="color:red;">**MISSING IMAGE**</mark>
+MISSING IMAGE
 
 ### **Stroke quality**
 

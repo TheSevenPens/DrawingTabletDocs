@@ -394,7 +394,7 @@ Along the bottom edge are four sets of magents - presumably for the cover to con
 
 The photo below shows one of the four sets that is located in the bottom right corner.
 
-<mark style="color:red;">**MISSING IMAGE**</mark>
+MISSING IMAGE
 
 ### Securing the Pen
 
