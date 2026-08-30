@@ -70,7 +70,7 @@
 
 ### Pointer lag
 
-* **Background:** [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
+* **Background:** [Pointer lag](../../../../core/pointer-lag.md)
 * **In absolute terms**, the Cintiq Pro 27 shows moderate pointer lag.
   * Pen tablets (like the Intuos Pro Large PTH-860) have much less lag than this Cintiq. These have EXCELLENT lag.
   * Apple iPads have much less lag than this Cintiq, but not quite as little as pen tablets. These have EXCELLENT lag.

@@ -123,7 +123,7 @@ Pointer lag is the difference between the physical position of the pen and where
 * Intuos Pro 2017 -> very little pointer lag
 * Intuos Pro 2025 -> very little pointer lag
 
-Learn more here: [Lag](/broken/pages/wp58c501r8n7Izkg5Vpv)
+Learn more here: [Pointer lag](../../../core/pointer-lag.md)
 
 ## Accuracy / Diagonal wobble
 

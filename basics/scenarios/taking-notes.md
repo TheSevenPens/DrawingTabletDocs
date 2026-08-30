@@ -50,7 +50,7 @@ Because pen displays have a screen, they usually feel more natural for note-taki
 * **Wireless.** A pen display will always have at least one wire that needs to be connected to the computer.
 * **Power.** A pen display will draw a significant amount of power from your laptop. This can reduce battery life substantially.
 * **Complex connection.** Ideally, you would use a single cable to connect a pen display to a computer. That is not always possible. You may need a more complex cabling setup, often with a 3-in-1 cable. More here: [Connecting a pen display with USB-C](../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
-* **Pointer lag.** Pen displays have more pointer lag. This can be difficult when taking notes, especially if you write quickly. More here: [Lag](/broken/spaces/Nde0PQIvNcFZNVxuTO0G/pages/wp58c501r8n7Izkg5Vpv)
+* **Pointer lag.** Pen displays have more pointer lag. This can be difficult when taking notes, especially if you write quickly. More here: [Pointer lag](../../core/pointer-lag.md)
 * **Dropping the tablet.** If you are note taking in a location where you might drop your pen display, in many cases you will either experience a cracked screen or simply break the tablet entirely.
 
 ## Applications for taking notes
