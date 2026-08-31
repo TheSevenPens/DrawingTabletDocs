@@ -4,4 +4,7 @@
 
 For other kinds of calibration:, see [Calibrating a drawing tablet](calibrating-color.md)
 
-This section is not complete.
+Testing 1 2&#x20;
+
+
+
