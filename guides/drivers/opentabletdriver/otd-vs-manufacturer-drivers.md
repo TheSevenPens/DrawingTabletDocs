@@ -52,7 +52,11 @@ In comparison to manufacturer drivers:
 * OTD does have per-tablet model settings
 * OTD does not come with support for pressure curves. You have to install a plug-in like Slimy Scylla to get pressure curves. To edit the pressure curve, you don't use UI, you enter numbers.
 
-## Non-pen inputs
+## Wheels
+
+* OTD does support WHEELS, DIALS on tablets. This is a relatively new feature in OTD that launched with OTD v0.6.7 on April 25, 2026.
+
+## Touch
 
 * OTD does not yet support TOUCH on tablets
-* OTD does not yet support DIALS and ROLLERS on tablets
+
