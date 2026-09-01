@@ -12,6 +12,8 @@ Windows PnP drivers are useful in some cases:
 * You need to troubleshoot problems with the manufacturer's tablet drivers.
 * You need to use them as a last resort because your manufacturer's tablet drivers aren't working.
 
+If your manufacturer's tablet driver has problems, PnP drivers may be a useful last resort.
+
 ## Considerations
 
 The key things you should know:
@@ -26,7 +28,7 @@ The key things you should know:
 * **pressure sensitivity** - supported
 * **tilt sensitivity** - supported
 * **barrel rotation** - supported
-* **pen button actions** - not supported. The buttons have default, unchangeable behavior.
+* **pen button actions** - limited support. You can't map the buttons to arbitrary keystrokes without third-party software. Windows provides basic native toggles, such as right-click or eraser, in the Windows Pen settings. Go to **Settings**, search for "Pen & Windows Ink," or open **Start** > **Run** > `ms-settings:pen`.
 * **tablet button and dial actions** - not supported
 * **force proportions** - not supported. Mismatched aspect ratios can distort pen tablet input. For more information, see [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 * **map active area to specific display** - supported
@@ -36,24 +38,27 @@ The key things you should know:
 
 ## Forcing Windows to use PnP drivers
 
-* Uninstall your manufacturer's tablet driver
+* Uninstall your manufacturer's tablet driver.
 * Restart your computer.
 
-When your computer starts back up, it should be using the PnP drivers.
+When your computer starts back up, it should use the PnP drivers.
 
 ## Is your tablet using PnP drivers?
 
-The easiest way to see if this is how Windows is interacting with your tablet is to look at the system pointer.
+The easiest way to see if this is how Windows is interacting with your tablet is to look at the system pointer while you are looking at the desktop.
 
-Normally your pointer will look like this when you are using the mouse or when you have a tablet driver installed.
+On the desktop, your pointer normally looks like this when you use a mouse. It also looks like this when you install a tablet driver. However, when Windows uses the PnP driver, it appears as a small, fuzzy diamond. The official name for this cursor is "Windows Ink hover cursor."
 
 <figure><img src="../../../.gitbook/assets/windows-pnp-support-1.jpg" alt=""><figcaption></figcaption></figure>
 
 > **Note:** It is hard to capture this pointer on screen. This image uses a phone camera.
 
-## When should you use PnP drivers?
+#### Sometimes the diamond cursor does not show, even with PnP drivers
 
-If your manufacturer's tablet driver has problems, PnP drivers may be a last resort.
+In some apps, you might not see the Windows Ink hover cursor even when Windows uses the PnP driver. This might be because:
+
+* _"Show cursor"_ or visual feedback is disabled in the Windows Pen settings.
+* The app bypasses Windows Ink for raw pointer capture.
 
 ## Using PnP drivers for testing and diagnosing problems
 
@@ -88,4 +93,4 @@ When you plug in a tablet without installing the manufacturer's driver, Windows 
 
 A tablet should send a report descriptor to the computer when connected. A report descriptor identifies the tablet. It also describes how the tablet organizes its data. Many, but not all, consumer tablets expose these descriptors.
 
-Some tablets, particularly Wacom professional tablets like the Intuos Pro-860, do not send a standard report descriptor when connected. Instead, they send a vendor-specific report descriptor that Windows cannot handle. In this situation, only the manufacturer's driver can communicate with the device.
+Some tablets, particularly Wacom professional tablets such as the Intuos Pro (PTH-460, PTH-660, and PTH-860), do not send a standard report descriptor when connected. Instead, they send a vendor-specific report descriptor that Windows cannot handle. In this situation, only the manufacturer's driver can communicate with the device.
