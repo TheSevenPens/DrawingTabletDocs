@@ -10,7 +10,7 @@ Windows PnP drivers are useful in some cases:
 
 * You intend to use the drawing tablet as a mouse replacement. You are not drawing. You are only pointing, selecting, and clicking.
 * You need to troubleshoot problems with the manufacturer's tablet drivers.
-* You need to use them as a last resort because your manufacturer's tablet drivers aren't working.
+* You need to use PnP drivers as a last resort because your manufacturer's tablet drivers aren't working.
 
 If your manufacturer's tablet driver has problems, PnP drivers may be a useful last resort.
 
@@ -33,12 +33,12 @@ The key things you should know:
 * **force proportions** - not supported. Mismatched aspect ratios can distort pen tablet input. For more information, see [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 * **map active area to specific display** - supported
 * **map active area to full virtual desktop** - not supported
-* **mapping across entire virtual desktop** –&#x20;
-  * for pen tablets (screenless tablets) - this the default behavior for pen tablets. The pointer will spans all connected displays.
+* **mapping across the entire virtual desktop** –
+  * for pen tablets (screenless tablets) - this is the default behavior. The pointer spans all connected displays.
   * for pen displays - this is not supported
-* **mapping to a single specific display** –&#x20;
+* **mapping to a single specific display** –
   * for pen tablets - supported but needs manual configuration via Tablet PC Settings (`control.exe /name Microsoft.TabletPC`).
-  * for pen displays - supported automatically&#x20;
+  * for pen displays - supported automatically
 * **per-app settings** - not supported
 * **pen position calibration for pen displays** - supported through `tabcal.exe`. I have not used this tool myself, so I cannot share specific experience with it.
 
