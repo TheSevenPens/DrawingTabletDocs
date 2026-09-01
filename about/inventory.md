@@ -7,7 +7,7 @@ As of Feb 13, 2026 I have:
 * 117 drawing tablets.
 * 141 pens
 
-Browse my inventory: [https://thesevenpens.github.io/DrawTabInventory/](https://thesevenpens.github.io/DrawTabInventory/)
+Browse my inventory: [https://thesevenpens.github.io/DrawTabDataExplorer/tablet-inventory](https://thesevenpens.github.io/DrawTabDataExplorer/tablet-inventory)
 
 ## Quick tour
 
@@ -27,9 +27,9 @@ Sometimes people doubt that I have as many drawing tablets as I claim. As eviden
 
 ## Where I buy drawing tablets
 
-* New tablets&#x20;
+* New tablets
   * Typically, amazon or occasionally B\&H Photo
-  * If not available on those online retailers, I buy directly from manufacturer's online store (Wacom, Huion, XP-Pen)&#x20;
+  * If not available on those online retailers, I buy directly from manufacturer's online store (Wacom, Huion, XP-Pen)
 * Older tablets
   * I buy older or used tablets on eBay. Most tablets on eBay are used, but occasionally you'll find an old one that has never been opened.
   * You can see from my inventory I have a lot of old and used tablets - mostly Wacom.
@@ -43,4 +43,3 @@ This amount only accounts for drawing tablets, but does not include costs for:
 * Additional pens
 * Equipment used in making my YouTube videos or streams
 * Measuring equipment (such as my digital scale, or infrared camera, etc.)
-
