@@ -2,15 +2,17 @@
 
 ## Introduction
 
-Microsoft Windows includes built-in drivers for many devices. Mice are a great example. You plug them in, and they just work. This is why these drivers are called “plug-and-play” drivers.
+Microsoft Windows includes built-in drivers for many devices. Mice are a great example. You plug them in, and they just work. This is why these drivers are called “plug-and-play” drivers. Windows also has PnP drivers for drawing tablets. Sometimes, these PnP drivers are useful. However, they lack many essential features.
 
-Windows also has PnP drivers for drawing tablets. Sometimes, these PnP drivers are useful. However, they lack many essential features.
+## Why use PnP drivers
 
 Windows PnP drivers are useful in some cases:
 
 * You intend to use the drawing tablet as a mouse replacement. You are not drawing. You are only pointing, selecting, and clicking.
 * You need to troubleshoot problems with the manufacturer's tablet drivers.
-* You need to use them as a last resort if your manufacturer's tablet drivers aren't working.
+* You need to use them as a last resort because your manufacturer's tablet drivers aren't working.
+
+## Considerations
 
 The key things you should know:
 
@@ -23,12 +25,14 @@ The key things you should know:
 * **hover** - supported
 * **pressure sensitivity** - supported
 * **tilt sensitivity** - supported
-* **pen button actions** - not supported. The buttons will have default, unchangeable behavior.
-* **tablet button and dial actions** - not supported.
+* **barrel rotation** - supported
+* **pen button actions** - not supported. The buttons have default, unchangeable behavior.
+* **tablet button and dial actions** - not supported
 * **force proportions** - not supported. Mismatched aspect ratios can distort pen tablet input. For more information, see [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 * **map active area to specific display** - supported
 * **map active area to full virtual desktop** - not supported
 * **per-app settings** - not supported
+* **pen position calibration for pen displays** - supported through `tabcal.exe`. I have not used this tool myself, so I cannot share specific experience with it.
 
 ## Forcing Windows to use PnP drivers
 
@@ -51,25 +55,37 @@ Normally your pointer will look like this when you are using the mouse or when y
 
 If your manufacturer's tablet driver has problems, PnP drivers may be a last resort.
 
-## Using PnP mode for testing and diagnosing problems
+## Using PnP drivers for testing and diagnosing problems
 
-If you have tablet problems, PnP mode can help diagnose them. It can identify whether the manufacturer’s tablet driver causes the problem. More information: [DIAG: Testing with Windows PNP drawing tablet drivers](../../../troubleshoot/diag-windows-pnp-tablet-drivers.md)
+If you have tablet problems, PnP drivers can help diagnose them. They can identify whether the manufacturer's tablet driver causes the problem. For more information, see [DIAG: Testing with Windows PnP drawing tablet drivers](../../../troubleshoot/diag-windows-pnp-tablet-drivers.md).
 
-## Interactions between tablet drivers and PnP mode
+## Interactions between tablet drivers and PnP drivers
 
-When you install a tablet driver, it takes over handling the tablet. Windows no longer uses PnP mode.
+When you install a tablet driver, it takes over handling the tablet. Windows no longer uses PnP drivers.
 
-PnP mode no longer affects you.
-
-Windows may occasionally use PnP mode even when a driver is installed. This typically happens when:
+Windows may occasionally use Windows PnP drivers even when a tablet driver is installed. This typically happens when:
 
 * Windows is starting up and the tablet driver has not started yet. You may see the PnP cursor for a few seconds. It may last up to 30 seconds. The tablet driver then starts, and the cursor returns to normal. This may happen once or twice a year.
 * The tablet driver has problems working with Windows.
 
 ## Which tablets are compatible with Windows PnP?
 
-See [Windows PNP driver compatibility testing](windows-pnp-compat-testing.md).
+See [Windows PnP driver compatibility testing](windows-pnp-compat-testing.md).
 
 ## Notes
 
 Windows supports PnP for many devices, including mice and monitors. PnP is not limited to tablets.
+
+## Technical notes
+
+### Terminology
+
+Although we may say "PnP driver," PnP handles device discovery and other low-level tasks. The built-in Windows USB HID driver stack supports tablets. In conversation, it is easier to call these "PnP drivers."
+
+When you plug in a tablet without installing the manufacturer's driver, Windows uses its built-in USB HID Digitizer class driver. It parses the device's raw data using the standardized USB-IF HID Digitizer specification. The data includes pen position, pressure, tilt, and button status.
+
+### Why some tablets do not work with PnP drivers
+
+A tablet should send a report descriptor to the computer when connected. A report descriptor identifies the tablet. It also describes how the tablet organizes its data. Many, but not all, consumer tablets expose these descriptors.
+
+Some tablets, particularly Wacom professional tablets like the Intuos Pro-860, do not send a standard report descriptor when connected. Instead, they send a vendor-specific report descriptor that Windows cannot handle. In this situation, only the manufacturer's driver can communicate with the device.
