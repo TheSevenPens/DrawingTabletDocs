@@ -32,7 +32,7 @@ Windows PnP drivers are useful in some cases:
 
 ### Mapping buttons to actions
 
-* **pen button actions** - basic pen-button input can be supported. Windows recognizes standard HID pen functions, such as barrel buttons and erasers. However, Windows does not provide the extensive button remapping available in most manufacturer tablet drivers. You cannot map buttons to arbitrary keystrokes without third-party software. Windows provides basic native toggles, such as right-click or eraser, in the Windows Pen settings. Go to **Settings**, search for "Pen & Windows Ink," or open **Start** > **Run** > `ms-settings:pen`.
+* **pen button actions** - basic pen-button input can be supported. Windows recognizes standard HID pen functions, such as barrel buttons and erasers. However, Windows does not provide the extensive button remapping available in most manufacturer tablet drivers. You cannot map buttons to arbitrary keystrokes without third-party software. Windows provides basic native toggles, such as right-click or eraser, in the [Windows Pen & Windows Ink settings](windows-pen-and-windows-ink-settings.md).&#x20;
 * **tablet button and dial actions** - not supported
 
 ### Active area mapping
@@ -43,7 +43,7 @@ Windows treats pen tablets (screenless tablets) and pen displays differently.
   * For pen tablets, this is the default behavior. The pointer spans all connected displays.
   * For pen displays, this is not supported.
 * **mapping to a single specific display** –
-  * For pen tablets, this is supported but requires manual configuration through Tablet PC Settings (`control.exe /name Microsoft.TabletPC`).
+  * For pen tablets, this is supported but requires manual configuration through [Windows Tablet PC Settings](windows-tablet-pc-settings.md).
   * For pen displays, this is supported. Windows automatically tries to map the tablet's active area to its embedded display.
 * **force proportions** - not supported. Mismatched aspect ratios can distort pen tablet input. This results in distorted strokes. For example, tracing a circle on the tablet creates an oval on the display. For more information, see [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 * **pen position calibration for pen displays** - supported through `tabcal.exe`. I have not used this tool, so I cannot share specific experience with it.
@@ -112,7 +112,3 @@ When you plug in a PnP-compatible tablet without installing the manufacturer's d
 A tablet should send a report descriptor to the computer when connected. A report descriptor describes how the tablet organizes its data. Many, but not all, consumer tablets expose these descriptors. Windows can interpret those reports using its built-in HID support.
 
 Some tablets, particularly Wacom professional tablets such as the Intuos Pro (PTH-460, PTH-660, and PTH-860), do not send a standard report descriptor when connected. Instead, they send a vendor-specific report descriptor that Windows cannot handle. In this situation, only the manufacturer's driver can communicate with the device.
-
-### General device support
-
-Windows supports PnP for many devices, including mice and monitors. PnP is not limited to tablets.

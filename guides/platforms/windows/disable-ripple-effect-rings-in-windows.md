@@ -2,8 +2,7 @@
 
 ## Windows 11
 
-* In **Settings**
-* Go to **Pen & Windows Ink**
+* Open the [Windows Pen & Windows Ink settings](windows-pen-and-windows-ink-settings.md)&#x20;
 * Under **Additional pen settings**
 * Uncheck **Show visual effects**
 
