@@ -141,4 +141,4 @@ Depending on the tablet and how you draw, the pen nib wears down over time.
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/17cp4h9/intuos\_4\_or\_intuos\_5/](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos_4_or_intuos_5/)
+* [**r/wacom - Intuos 4 or intuos 5**](https://www.reddit.com/r/wacom/comments/17cp4h9/intuos_4_or_intuos_5/) 2023-10-20

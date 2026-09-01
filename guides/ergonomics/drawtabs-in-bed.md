@@ -20,7 +20,7 @@ I tried using a Wacom One (13") and a Huion Kamvas Pro 16 Plus 4K in bed, and ov
 
 ## Miscellaneous resources
 
-* [https://www.reddit.com/r/wacom/comments/9pto9g/wacom\_in\_bed/](https://www.reddit.com/r/wacom/comments/9pto9g/wacom_in_bed/)
+* [**r/wacom - Wacom in bed?**](https://www.reddit.com/r/wacom/comments/9pto9g/wacom_in_bed/) 2018-10-20
 * [https://www.deviantart.com/forum/art/digital/2431122/](https://www.deviantart.com/forum/art/digital/2431122/)
 * [https://forums.cgsociety.org/t/drawing-in-bed-ergonomics-need-help/1682786](https://forums.cgsociety.org/t/drawing-in-bed-ergonomics-need-help/1682786)
-* [https://www.reddit.com/r/DigitalArt/comments/qvlxwm/graphic\_tablet\_that\_i\_can\_use\_in\_bed/](https://www.reddit.com/r/DigitalArt/comments/qvlxwm/graphic_tablet_that_i_can_use_in_bed/)
+* [**r/DigitalArt - Graphic Tablet that I can use in bed?**](https://www.reddit.com/r/DigitalArt/comments/qvlxwm/graphic_tablet_that_i_can_use_in_bed/) 2021-11-16

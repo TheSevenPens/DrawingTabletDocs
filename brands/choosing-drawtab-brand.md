@@ -43,5 +43,5 @@ Communities are where people learn and get help with drawing tablets. Depending 
 
 ## Discussions
 
-* [https://www.reddit.com/r/wacom/comments/zt9c2p/debating\_on\_what\_to\_do\_with\_these\_two\_tablets/](https://www.reddit.com/r/wacom/comments/zt9c2p/debating_on_what_to_do_with_these_two_tablets/)
-* [https://www.reddit.com/r/wacom/comments/y8n9yp/how\_much\_of\_a\_difference\_between\_wacom\_xp\_pen\_and/](https://www.reddit.com/r/wacom/comments/y8n9yp/how_much_of_a_difference_between_wacom_xp_pen_and/) - brands compared
+* [**r/wacom - Debating on what to do with these two tablets**](https://www.reddit.com/r/wacom/comments/zt9c2p/debating_on_what_to_do_with_these_two_tablets/) 2022-12-22
+* [**r/wacom - How much of a difference between Wacom, XP Pen and Huion?**](https://www.reddit.com/r/wacom/comments/y8n9yp/how_much_of_a_difference_between_wacom_xp_pen_and/) 2022-10-19 - brands compared

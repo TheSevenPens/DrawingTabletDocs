@@ -201,7 +201,7 @@ Official Answer: NO. Huion's documentation is explicit on thjis point ([**see th
 
 I tried testing it with an appropriate cable and could not get a single cable configuration to work with a Microsoft Surface Pro 8 or a M3 MacBook Pro.
 
-However ... this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [https://www.reddit.com/r/huion/comments/1b22sia/huion\_kamvas\_pro\_19\_usbc\_cables/](https://www.reddit.com/r/huion/comments/1b22sia/huion_kamvas_pro_19_usbc_cables/)
+However ... this user got it to work with by plugging the single cable into a ASUS ThunderboltEX 4 expansion card: [**r/huion - Huion kamvas pro 19 usbc cables.**](https://www.reddit.com/r/huion/comments/1b22sia/huion_kamvas_pro_19_usbc_cables/) 2024-02-28
 
 ### **Using third party USB-C cables for display signal & data**
 

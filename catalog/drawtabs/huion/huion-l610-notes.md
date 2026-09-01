@@ -210,6 +210,6 @@ If you do encounter this problem, contact Huion support for a replacement.
 
 Examples:
 
-* [https://www.reddit.com/r/huion/comments/1iltd0r/brand\_new\_inspiroy\_frego\_m\_has\_air\_bubbles\_under/](https://www.reddit.com/r/huion/comments/1iltd0r/brand_new_inspiroy_frego_m_has_air_bubbles_under/)
-* [https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles\_on\_huion\_inspiroy\_frego\_m/](https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles_on_huion_inspiroy_frego_m/)
+* [**r/huion - Brand new Inspiroy Frego M has air bubbles under surface and can't squeegee them out.**](https://www.reddit.com/r/huion/comments/1iltd0r/brand_new_inspiroy_frego_m_has_air_bubbles_under/) 2025-02-09
+* [**r/huion - Bubbles on Huion Inspiroy Frego M**](https://www.reddit.com/r/huion/comments/1qg6ziq/bubbles_on_huion_inspiroy_frego_m/) 2026-01-18
 *

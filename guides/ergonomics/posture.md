@@ -54,4 +54,4 @@ For some people, the posture of a pen display is very uncomfortable and can caus
 
 Here is an example:
 
-* [https://www.reddit.com/r/wacom/comments/rzihu7/shoulder\_and\_back\_pain\_with\_cintiq\_22hd\_touch/](https://www.reddit.com/r/wacom/comments/rzihu7/shoulder_and_back_pain_with_cintiq_22hd_touch/)
+* [**r/wacom - Shoulder and back pain with Cintiq 22HD Touch -- Ergonomic advice?**](https://www.reddit.com/r/wacom/comments/rzihu7/shoulder_and_back_pain_with_cintiq_22hd_touch/) 2022-01-08

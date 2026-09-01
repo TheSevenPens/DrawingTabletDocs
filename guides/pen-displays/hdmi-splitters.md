@@ -91,5 +91,5 @@ In summary:
 There are many threads on this, some linked below, and there is not a clear consensus. Some claim that there is no additional lag, while others claim there is. Overall, I have not noticed that splitters I have personally used introduced any lag into the signal.
 
 * Do HDMI Splitters add LAG to your games ??? [https://www.youtube.com/watch?v=N-4IGVKkWvs](https://www.youtube.com/watch?v=N-4IGVKkWvs)
-* [https://www.reddit.com/r/pcmasterrace/comments/a015up/will\_a\_hdmi\_switch\_affect\_my\_fps/](https://www.reddit.com/r/pcmasterrace/comments/a015up/will_a_hdmi_switch_affect_my_fps/)
-* [https://www.reddit.com/r/techsupport/comments/2pbbwj/do\_hdmi\_splittersswitchers\_add\_intput\_lag\_or/](https://www.reddit.com/r/techsupport/comments/2pbbwj/do_hdmi_splittersswitchers_add_intput_lag_or/)
+* [**r/pcmasterrace - Will a hdmi switch affect my Fps?**](https://www.reddit.com/r/pcmasterrace/comments/a015up/will_a_hdmi_switch_affect_my_fps/) 2018-11-24
+* [**r/techsupport - Do HDMI splitters/switchers add intput lag or degrade picture quality?**](https://www.reddit.com/r/techsupport/comments/2pbbwj/do_hdmi_splittersswitchers_add_intput_lag_or/) 2014-12-14

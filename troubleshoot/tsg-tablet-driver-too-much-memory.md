@@ -33,5 +33,5 @@ Overall, there is nothing you can do to fix the problem directly. It is an issue
 
 Reddit threads:
 
-* [https://www.reddit.com/r/wacom/comments/1rj272t/wacom\_tablet\_is\_using\_too\_much\_memory/](https://www.reddit.com/r/wacom/comments/1rj272t/wacom_tablet_is_using_too_much_memory/)
+* [**r/wacom - Wacom Tablet is using too much memory**](https://www.reddit.com/r/wacom/comments/1rj272t/wacom_tablet_is_using_too_much_memory/) 2026-03-02
 *

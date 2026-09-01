@@ -35,7 +35,7 @@ Below is a picture of a Wacom Cintiq 13 HD, which has an etched glass surface. I
 
 ![](../../.gitbook/assets/surface-wear-pen-displays-1.jpg)
 
-From this Reddit post: [https://www.reddit.com/r/wacom/comments/zv593v/does\_cintiq\_13hd\_have\_screen\_protection\_see\_coment/](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/)
+From this Reddit post: [**r/wacom - Does cintiq 13hd have screen protection see coment**](https://www.reddit.com/r/wacom/comments/zv593v/does_cintiq_13hd_have_screen_protection_see_coment/) 2022-12-25
 
 ## Preventing damage to glass
 

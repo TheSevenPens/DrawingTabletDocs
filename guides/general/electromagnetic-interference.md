@@ -40,7 +40,7 @@ Weird things can happen. I have a keyboard that, when I unplug its USB-C cable, 
 
 There are computer desks that are made of metal and deliberately magnetized. These can interfere with your drawing tablet. See:
 
-* [https://www.reddit.com/r/wacom/comments/1af10hs/my\_whole\_desk\_is\_a\_magnet\_what\_do\_i\_do/](https://www.reddit.com/r/wacom/comments/1af10hs/my_whole_desk_is_a_magnet_what_do_i_do/)
+* [**r/wacom - My whole desk is a magnet. What do I do?**](https://www.reddit.com/r/wacom/comments/1af10hs/my_whole_desk_is_a_magnet_what_do_i_do/) 2024-01-30
 
 ## iPads and cases
 

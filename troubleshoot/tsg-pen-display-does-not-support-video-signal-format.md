@@ -31,4 +31,4 @@ The pen display is having trouble handling the specific signal and its settings.
 
 ## Links
 
-[https://www.reddit.com/r/XPpen/comments/1v27xsa/no\_support\_but\_screen\_stays\_on\_and\_makes\_loud/](https://www.reddit.com/r/XPpen/comments/1v27xsa/no_support_but_screen_stays_on_and_makes_loud/)
+[**r/XPpen - "No Support" but screen stays on and makes loud buzzing sound.**](https://www.reddit.com/r/XPpen/comments/1v27xsa/no_support_but_screen_stays_on_and_makes_loud/) 2026-07-20

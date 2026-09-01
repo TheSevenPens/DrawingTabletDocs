@@ -36,7 +36,7 @@ The same delay at the beginning of dragging the pen can manifest in other user e
 
 ## Links
 
-* ([https://www.reddit.com/r/wacom/comments/sa6wjd/is\_this\_kind\_of\_thing\_supposed\_to\_happen\_when\_im/](https://www.reddit.com/r/wacom/comments/sa6wjd/is_this_kind_of_thing_supposed_to_happen_when_im/))
-* ([https://www.reddit.com/r/Windowsink/comments/ao0kvs/is\_this\_just\_a\_non\_issue\_for\_microsoft\_windows\_ink/](https://www.reddit.com/r/Windowsink/comments/ao0kvs/is_this_just_a_non_issue_for_microsoft_windows_ink/))
+* ([**r/wacom - Is this kind of thing supposed to happen when I'm drawing round things and is there a way to fix it?**](https://www.reddit.com/r/wacom/comments/sa6wjd/is_this_kind_of_thing_supposed_to_happen_when_im/) 2022-01-22)
+* ([**r/Windowsink - Is this just a non issue for Microsoft? (Windows Ink)**](https://www.reddit.com/r/Windowsink/comments/ao0kvs/is_this_just_a_non_issue_for_microsoft_windows_ink/) 2019-02-06)
 * ([https://www.zbrushcentral.com/t/windows-ink-api-support/214256](https://www.zbrushcentral.com/t/windows-ink-api-support/214256))
 * ([https://forums.getpaint.net/topic/113173-the-first-5mm-of-a-freehand-line-are-straight-when-using-a-tablet/](https://forums.getpaint.net/topic/113173-the-first-5mm-of-a-freehand-line-are-straight-when-using-a-tablet/))

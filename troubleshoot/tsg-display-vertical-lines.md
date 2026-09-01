@@ -53,6 +53,6 @@ You should be prepared, though, that if the problem is a fundamental issue with 
 
 [r/techsupport - Monitor has colorful vertical lines sometimes but it isn't a hardware issue/card isn't artifacting](https://www.reddit.com/r/techsupport/comments/17bpya6/monitor_has_colorful_vertical_lines_sometimes_but/) - 2023-10-19
 
-[https://www.reddit.com/r/techsupport/comments/17bpya6/monitor\_has\_colorful\_vertical\_lines\_sometimes\_but/](https://www.reddit.com/r/techsupport/comments/17bpya6/monitor_has_colorful_vertical_lines_sometimes_but/)
+[**r/techsupport - Monitor has colorful vertical lines sometimes but it isn't a hardware issue/card isn't artifacting**](https://www.reddit.com/r/techsupport/comments/17bpya6/monitor_has_colorful_vertical_lines_sometimes_but/) 2023-10-19
 
-[https://www.reddit.com/r/pchelp/comments/1sjco64/monitor\_has\_vertical\_lines\_on\_start\_up\_why/](https://www.reddit.com/r/pchelp/comments/1sjco64/monitor_has_vertical_lines_on_start_up_why/)
+[**r/pchelp - Monitor has vertical lines on start up. Why?**](https://www.reddit.com/r/pchelp/comments/1sjco64/monitor_has_vertical_lines_on_start_up_why/) 2026-04-12

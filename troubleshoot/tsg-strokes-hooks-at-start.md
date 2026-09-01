@@ -33,4 +33,4 @@ A low IAF is great, but if you are doing a lot of strokes, the sensitivity can r
 
 ## Links
 
-* [https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how\_remove\_that\_hook\_or\_s\_in\_the\_beginning\_and/](https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how_remove_that_hook_or_s_in_the_beginning_and/)
+* [**r/ClipStudio - How remove that "hook" or "S" in the beginning and end line?**](https://www.reddit.com/r/ClipStudio/comments/zkvu0k/how_remove_that_hook_or_s_in_the_beginning_and/) 2022-12-13

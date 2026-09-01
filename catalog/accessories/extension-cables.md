@@ -43,4 +43,4 @@ For example, The USBean extender I use does NOT go deep enough to fit into a Hui
 ### Links
 
 * Teoh on Tech: Using Extension Cables with Pen Displays or Graphics Tablets [https://www.youtube.com/watch?v=y7kvIGbnjzo](https://www.youtube.com/watch?v=y7kvIGbnjzo)
-* [https://www.reddit.com/r/huion/comments/11wvplt/extending\_the\_3\_in\_1\_cable/](https://www.reddit.com/r/huion/comments/11wvplt/extending_the_3_in_1_cable/)
+* [**r/huion - Extending the 3 in 1 cable.**](https://www.reddit.com/r/huion/comments/11wvplt/extending_the_3_in_1_cable/) 2023-03-20

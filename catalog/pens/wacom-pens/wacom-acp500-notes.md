@@ -175,7 +175,7 @@ Some people have reported the pen buttons coming off of the button strip. This s
 
 Examples
 
-* [https://www.reddit.com/r/wacom/comments/1p3p2ba/round\_2](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2)
+* [**r/wacom - Round 2 🥲**](https://www.reddit.com/r/wacom/comments/1p3p2ba/round_2) 2025-11-22
 
 <figure><img src="../../../.gitbook/assets/wacom-acp500-notes-5.jpg" alt=""><figcaption><p>Nib that came off from a Pro Pen 3 button strip</p></figcaption></figure>
 

@@ -47,4 +47,4 @@ Texture erosion is typically benign. While it is unattractive and sometimes visi
 
 ### More examples of texture erosion
 
-[https://www.reddit.com/r/wacom/comments/144a6lk/is\_my\_wacom\_intous\_pro\_m\_okay/](https://www.reddit.com/r/wacom/comments/144a6lk/is_my_wacom_intous_pro_m_okay/)
+[**r/wacom - Is my Wacom Intous Pro M okay??**](https://www.reddit.com/r/wacom/comments/144a6lk/is_my_wacom_intous_pro_m_okay/) 2023-06-08

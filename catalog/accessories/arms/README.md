@@ -42,7 +42,7 @@ This brand comes up a lot when people mention what arms they use, but I don't ha
 
 * North Bayou F100A
 * North Bayou F80
-  * [https://www.reddit.com/r/wacom/comments/16jmczd/just\_wanted\_to\_share\_i\_found\_the\_perfect\_setup/](https://www.reddit.com/r/wacom/comments/16jmczd/just_wanted_to_share_i_found_the_perfect_setup/)
+  * [**r/wacom - Just wanted to share i found the perfect setup for my Cintiq 16 (no pro)**](https://www.reddit.com/r/wacom/comments/16jmczd/just_wanted_to_share_i_found_the_perfect_setup/) 2023-09-15
 
 ## Ergotron
 

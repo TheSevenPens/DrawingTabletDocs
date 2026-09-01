@@ -65,6 +65,6 @@ Originally, the units I have - I own 2 of this tablet - showed a bit more of thi
 
 Firmware updates have improved it.
 
-See this thread for some history on this topic: [https://www.reddit.com/r/huion/comments/165acwt/extremely\_unstable\_pen\_pressure\_sensitivity\_on\_a/](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/)
+See this thread for some history on this topic: [**r/huion - Extremely unstable pen pressure sensitivity on a brand new Inspiroy 2 L / H1061P. Anything that can be possibly done here, or is this just a faulty pen?**](https://www.reddit.com/r/huion/comments/165acwt/extremely_unstable_pen_pressure_sensitivity_on_a/) 2023-08-30
 
 This is one of those effects (again that all tablets have) that shows up under a specific set of circumstances and not something you will run into regularly. If you do see it there are techniques to control it: [TSG: Low pressure drawing problems](../../../troubleshoot/tsg-strokes-quality-at-low-pressure.md)

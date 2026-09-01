@@ -17,4 +17,4 @@
 * Some pen buttons are a "rocker" type that can be removed and put back in. If you are confident you will not harm your pen, this is one option.
 * Some people disassemble their pens, but only try this if you find a good reference on YouTube and are comfortable working with electronics.
 
-[https://www.reddit.com/r/wacom/comments/tcmqpz/ctl4100\_wacom\_intuos\_pen\_accident\_with\_water/](https://www.reddit.com/r/wacom/comments/tcmqpz/ctl4100_wacom_intuos_pen_accident_with_water/) -
+[**r/wacom - CTL-4100 wacom intuos pen, accident with water**](https://www.reddit.com/r/wacom/comments/tcmqpz/ctl4100_wacom_intuos_pen_accident_with_water/) 2022-03-12 -

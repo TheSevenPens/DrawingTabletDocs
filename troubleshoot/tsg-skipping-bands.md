@@ -32,5 +32,5 @@ Again, this is usually a hardware issue that cannot be fixed. But it is worth tr
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/13ls32y/can\_someone\_tell\_me\_whats\_going\_on\_here/](https://www.reddit.com/r/wacom/comments/13ls32y/can_someone_tell_me_whats_going_on_here/)
+* [**r/wacom - Can someone tell me what's going on here?**](https://www.reddit.com/r/wacom/comments/13ls32y/can_someone_tell_me_whats_going_on_here/) 2023-05-19
 *

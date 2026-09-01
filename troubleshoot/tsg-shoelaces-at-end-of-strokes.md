@@ -52,6 +52,6 @@ The Lazy Nezumi tool ([https://lazynezumi.com/](https://lazynezumi.com/)) has se
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/huion/comments/11imlzd/kamvas\_16\_2021\_shoestringing/](https://www.reddit.com/r/huion/comments/11imlzd/kamvas_16_2021_shoestringing/)
+* [**r/huion - Kamvas 16 (2021) Shoestringing????**](https://www.reddit.com/r/huion/comments/11imlzd/kamvas_16_2021_shoestringing/) 2023-03-04
 * [https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795](https://community.adobe.com/t5/photoshop-ecosystem-bugs/p-shoelace-shaped-brush-stroke-with-wacom-and-smoothing-on-macos/idi-p/12558795)
-* [https://www.reddit.com/r/wacom/comments/yr6hhb/sudden\_checkmarkshoelace\_effect\_at\_end\_of\_every/](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden_checkmarkshoelace_effect_at_end_of_every/)
+* [**r/wacom - Sudden checkmark/shoelace effect at end of every stroke on wacom one**](https://www.reddit.com/r/wacom/comments/yr6hhb/sudden_checkmarkshoelace_effect_at_end_of_every/) 2022-11-09

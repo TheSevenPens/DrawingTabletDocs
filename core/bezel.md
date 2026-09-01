@@ -15,4 +15,4 @@ The EMR sensor (digitizer) needs to be a bit wider than the active area so that 
 
 ## Reddit threads
 
-[https://www.reddit.com/r/wacom/comments/qjjgj5/why\_all\_cintiqs\_have\_humongous\_bezel/](https://www.reddit.com/r/wacom/comments/qjjgj5/why_all_cintiqs_have_humongous_bezel/)
+[**r/wacom - Why all Cintiqs have humongous bezel?**](https://www.reddit.com/r/wacom/comments/qjjgj5/why_all_cintiqs_have_humongous_bezel/) 2021-10-30

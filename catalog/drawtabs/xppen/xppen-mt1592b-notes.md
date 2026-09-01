@@ -83,7 +83,7 @@ Some users have reported that the pointer "shakes" when the pen is hovering over
 
 To understand what hover jitter is, go here: [Hover jitter](../../../core/hover/hover-jitter.md)
 
-Example: [https://www.reddit.com/r/XPpen/comments/1h66ei5/beware\_of\_the\_deco\_pro\_gen\_2\_rant/](https://www.reddit.com/r/XPpen/comments/1h66ei5/beware_of_the_deco_pro_gen_2_rant/)
+Example: [**r/XPpen - Beware of the Deco Pro Gen 2 / Rant**](https://www.reddit.com/r/XPpen/comments/1h66ei5/beware_of_the_deco_pro_gen_2_rant/) 2024-12-03
 
 **My testing**
 

@@ -178,7 +178,7 @@ Start with a very low resolution, then work up to higher resolutions.
 
 Some users report that if they get NO SIGNAL with their pen display, they can connect it to another computer where it does work. Then, after it works there, they reconnect it to the first computer and it starts working there too.
 
-See this reddit comment: [https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm_source=share\&utm_medium=web2x\&context=3)
+See this reddit comment: [**r/huion - No signal - imac**](https://www.reddit.com/r/huion/comments/109wjgx/comment/j41ekyk/?utm_source=share&utm_medium=web2x&context=3) 2023-01-12
 
 The reason this process might work is not clear. It could be because fully depowering the pen display helps. It could also be because the connection to the other computer changes something inside the pen display. In any case, it is worth a try if you continue to have problems.
 
@@ -205,7 +205,7 @@ Here is what can trigger it:
 
 ### Reddit threads
 
-* [https://www.reddit.com/r/XPpen/comments/z2h51j/tips\_when\_there\_is\_no\_signal\_andor\_tablet\_is/](https://www.reddit.com/r/XPpen/comments/z2h51j/tips_when_there_is_no_signal_andor_tablet_is/)
+* [**r/XPpen - Tips when there is "No Signal" and/or tablet is recognized as a keyboard and not as a display monitor for PC + additional stuff**](https://www.reddit.com/r/XPpen/comments/z2h51j/tips_when_there_is_no_signal_andor_tablet_is/) 2022-11-22
 
 ### Misc
 

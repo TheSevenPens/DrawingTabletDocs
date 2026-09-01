@@ -34,5 +34,5 @@ Check this post from Huion: [https://support.huion.com/en/support/discussions/to
 
 ## Reddit threads
 
-* [https://www.reddit.com/r/wacom/comments/l6dh65/wacom\_bamboo\_pen\_ctl470\_cursor\_stuck\_in\_the\_corner/](https://www.reddit.com/r/wacom/comments/l6dh65/wacom_bamboo_pen_ctl470_cursor_stuck_in_the_corner/)
-* [https://www.reddit.com/r/huion/comments/13lnwc0/the\_cursor\_is\_not\_on\_the\_tablet/](https://www.reddit.com/r/huion/comments/13lnwc0/the_cursor_is_not_on_the_tablet/)
+* [**r/wacom - Wacom Bamboo Pen (CTL-470) cursor stuck in the corner**](https://www.reddit.com/r/wacom/comments/l6dh65/wacom_bamboo_pen_ctl470_cursor_stuck_in_the_corner/) 2021-01-27
+* [**r/huion - The cursor is not on the tablet**](https://www.reddit.com/r/huion/comments/13lnwc0/the_cursor_is_not_on_the_tablet/) 2023-05-19

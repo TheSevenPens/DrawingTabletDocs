@@ -35,7 +35,7 @@ As of 2025-02-12:
 
 Microsoft previously released versions of the Surface Pro using the SQ1 and SQ2 ARM processors. Interestingly, recent Windows improvements for ARM seem to be improving performance on these older devices.
 
-See this Reddit thread: [https://www.reddit.com/r/Surface/comments/1czcxoc/windows\_11\_24h2\_update\_made\_my\_arm\_tablet\_faster/](https://www.reddit.com/r/Surface/comments/1czcxoc/windows_11_24h2_update_made_my_arm_tablet_faster/)
+See this Reddit thread: [**r/Surface - Windows 11 24H2 update made my ARM tablet faster!**](https://www.reddit.com/r/Surface/comments/1czcxoc/windows_11_24h2_update_made_my_arm_tablet_faster/) 2024-05-23
 
 ## Native ARM applications
 

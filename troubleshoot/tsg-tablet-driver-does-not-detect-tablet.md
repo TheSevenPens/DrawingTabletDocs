@@ -128,7 +128,7 @@ Both times I have encountered this problem, nothing I did seemed to work. I wait
 
 I do not recommend opening your tablet, as it will likely void your warranty. However, people have addressed this problem on some models by modifying internal hardware.
 
-* Huion Kamvas 22 Plus modification: [https://www.reddit.com/r/huion/comments/1hl1ozv/diy\_huion\_kamvas\_22\_plus\_fix\_for\_device/](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/)
+* Huion Kamvas 22 Plus modification: [**r/huion - DIY Huion Kamvas 22 Plus Fix for Device Disconnected / pen stopped working.**](https://www.reddit.com/r/huion/comments/1hl1ozv/diy_huion_kamvas_22_plus_fix_for_device/) 2024-12-23
 
 ## Still not solved?
 
@@ -147,5 +147,5 @@ In the meantime, you may be able to use alternative drivers on Windows:
 
 ## Other threads
 
-* 2025-01-13 - [https://www.reddit.com/r/huion/comments/1i0g95y/this\_might\_also\_help\_u\_with\_device\_disconnected/](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/)
+* 2025-01-13 - [**r/huion - This might also help u with "Device Disconnected" screen is working fine but pen is not working. I tried this process and it worked for me**](https://www.reddit.com/r/huion/comments/1i0g95y/this_might_also_help_u_with_device_disconnected/) 2025-01-13
 *

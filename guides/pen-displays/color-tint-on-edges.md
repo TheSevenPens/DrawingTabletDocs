@@ -59,6 +59,6 @@ Of the 30+ pen displays I own, it is present in none of the laminated display de
 
 ## Links
 
-* [https://www.reddit.com/r/huion/comments/10i3ftd/purple\_edges\_on\_my\_kanvas\_24\_plus/](https://www.reddit.com/r/huion/comments/10i3ftd/purple_edges_on_my_kanvas_24_plus/)
-* [https://www.reddit.com/r/huion/comments/vo3o5m/bought\_a\_kamvas\_pro\_16\_25k\_local\_retailer\_says\_it/](https://www.reddit.com/r/huion/comments/vo3o5m/bought_a_kamvas_pro_16_25k_local_retailer_says_it/)
-* [https://www.reddit.com/r/4kTV/comments/zt6kf2/sony\_purple\_edges/](https://www.reddit.com/r/4kTV/comments/zt6kf2/sony_purple_edges/)
+* [**r/huion - Purple edges on my kanvas 24 plus??**](https://www.reddit.com/r/huion/comments/10i3ftd/purple_edges_on_my_kanvas_24_plus/) 2023-01-21
+* [**r/huion - Bought a Kamvas Pro 16 2.5K – local retailer says it comes with purple edges like this, and isn’t faulty – is that really true?**](https://www.reddit.com/r/huion/comments/vo3o5m/bought_a_kamvas_pro_16_25k_local_retailer_says_it/) 2022-06-30
+* [**r/4kTV - Sony Purple Edges**](https://www.reddit.com/r/4kTV/comments/zt6kf2/sony_purple_edges/) 2022-12-22

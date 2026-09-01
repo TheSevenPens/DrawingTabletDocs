@@ -33,7 +33,7 @@ Some issues you might run into:
 
 ## Options
 
-Some people have had success with the **Ergotron Neo-Flex Stand**. See this reddit thread: [https://www.reddit.com/r/wacom/comments/1b527hs/finally\_found\_a\_stand\_for\_my\_cintiq\_pro\_27/](https://www.reddit.com/r/wacom/comments/1b527hs/finally_found_a_stand_for_my_cintiq_pro_27/)
+Some people have had success with the **Ergotron Neo-Flex Stand**. See this reddit thread: [**r/wacom - Finally found a stand for my Cintiq pro 27**](https://www.reddit.com/r/wacom/comments/1b527hs/finally_found_a_stand_for_my_cintiq_pro_27/) 2024-03-02
 
 In 2025 XP-Pen released the [XP-Pen ACS15 Ergo Stand](xppen-acs15.md). This reminds me a bit of the STAND-V100R which I like so the ACS15 is one I plan to get soon.
 

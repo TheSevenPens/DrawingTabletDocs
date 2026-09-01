@@ -13,8 +13,8 @@ The one place this tablet struggles compared to other pen displays is with line 
 * [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) 2023-06-04
 * [Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0_XSUtLE) 2023-09-14
 * [Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) 2023-03-28
-* [https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/)
-* [https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm\_source=share\&utm\_medium=web2x\&context=3](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share\&utm_medium=web2x\&context=3)
+* [**r/drawingtablet - Xencelabs Pen Display 24 Review**](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/) 2023-07-12
+* [**r/drawingtablet - Xencelabs Pen Display 24 review**](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share&utm_medium=web2x&context=3) 2023-10-09
 
 ## **Basics**
 
@@ -177,7 +177,7 @@ Clip Studio Paint
 
 Xencelabs is at least aware of the diagonal wobble.
 
-In this review post on reddit (posted July 12, 2023) there are some quoted responses from Xencelabs[https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs\_pen\_display\_24\_review/](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/)
+In this review post on reddit (posted July 12, 2023) there are some quoted responses from Xencelabs [**r/drawingtablet - Xencelabs Pen Display 24 Review**](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/) 2023-07-12
 
 <figure><img src="../../../.gitbook/assets/xencelabs-lph2412ua-notes-6.png" alt=""><figcaption></figcaption></figure>
 

@@ -26,6 +26,6 @@ I've been unable to identify a clear origin for this problem, but I suspect eith
 
 ### Links
 
-* ([https://www.reddit.com/r/wacom/comments/s84fjr/the\_dreaded\_gap\_problem/](https://www.reddit.com/r/wacom/comments/s84fjr/the_dreaded_gap_problem/))
+* ([**r/wacom - the dreaded 'gap' problem**](https://www.reddit.com/r/wacom/comments/s84fjr/the_dreaded_gap_problem/) 2022-01-19)
 
 ##
