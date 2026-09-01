@@ -33,6 +33,12 @@ The key things you should know:
 * **force proportions** - not supported. Mismatched aspect ratios can distort pen tablet input. For more information, see [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md).
 * **map active area to specific display** - supported
 * **map active area to full virtual desktop** - not supported
+* **mapping across entire virtual desktop** –&#x20;
+  * for pen tablets (screenless tablets) - this the default behavior for pen tablets. The pointer will spans all connected displays.
+  * for pen displays - this is not supported
+* **mapping to a single specific display** –&#x20;
+  * for pen tablets - supported but needs manual configuration via Tablet PC Settings (`control.exe /name Microsoft.TabletPC`).
+  * for pen displays - supported automatically&#x20;
 * **per-app settings** - not supported
 * **pen position calibration for pen displays** - supported through `tabcal.exe`. I have not used this tool myself, so I cannot share specific experience with it.
 
@@ -77,9 +83,9 @@ Windows may occasionally use Windows PnP drivers even when a tablet driver is in
 
 See [Windows PnP driver compatibility testing](windows-pnp-compat-testing.md).
 
-## Notes
+## Links
 
-Windows supports PnP for many devices, including mice and monitors. PnP is not limited to tablets.
+* [Tablet Pro - Windows 11 Stylus Settings Every Digital Artist Should Know - The ULTIMATE guide](https://www.youtube.com/watch?v=dz9nvS5NXyA) 2025-08-14
 
 ## Technical notes
 
@@ -94,3 +100,7 @@ When you plug in a tablet without installing the manufacturer's driver, Windows 
 A tablet should send a report descriptor to the computer when connected. A report descriptor identifies the tablet. It also describes how the tablet organizes its data. Many, but not all, consumer tablets expose these descriptors.
 
 Some tablets, particularly Wacom professional tablets such as the Intuos Pro (PTH-460, PTH-660, and PTH-860), do not send a standard report descriptor when connected. Instead, they send a vendor-specific report descriptor that Windows cannot handle. In this situation, only the manufacturer's driver can communicate with the device.
+
+### General device support
+
+Windows supports PnP for many devices, including mice and monitors. PnP is not limited to tablets.
