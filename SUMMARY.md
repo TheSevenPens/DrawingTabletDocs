@@ -273,7 +273,7 @@
     * [Windows](guides/platforms/windows/README.md)
       * [Using a drawing tablet on Windows](guides/platforms/windows/using-drawtabs-with-windows.md)
       * [Windows on ARM](guides/platforms/windows/windows-on-arm.md)
-      * [Windows PNP support](guides/platforms/windows/windows-pnp-support.md)
+      * [Windows PNP support for drawing tablets](guides/platforms/windows/windows-pnp-support.md "Windows PNP support")
       * [Windows PNP driver compatibility testing](guides/platforms/windows/windows-pnp-compat-testing.md)
       * [Disabling ripple effect rings in Windows](guides/platforms/windows/disable-ripple-effect-rings-in-windows.md "Disabling ripple effect")
       * [Disable the press-and-hold ring in Windows](guides/platforms/windows/disable-press-hold-ring.md "Disable the press-and-hold ring")

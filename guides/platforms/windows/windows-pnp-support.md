@@ -1,4 +1,4 @@
-# Windows PNP support
+# Windows PNP support for drawing tablets
 
 ## Introduction
 
@@ -18,19 +18,17 @@ The key things you should know:
 * The drivers are extremely limited in what they can do.
 * In my opinion they may work better with pen displays than pen tablets that don't have a screen. This is due to some missing features.
 
-## Feature support
+## Feature support status
 
-* **pressure sensitivity** - PNP drivers do support this.
-* **tilt sensitivity** - PNP drivers support this
-
-## Limitations
-
-There is a large set of limitations that comes with Windows PNP mode compared to manufacturer tablet drivers.
-
-* You cannot control how to map the active area of your tablet to a display in any way
-  * This means that mismatched aspect ratios for pen tablets will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
-* You cannot control what the buttons on the pen do.
-* You cannot control what the buttons on the tablet do.
+* **hover** - supported
+* **pressure sensitivity** - supported
+* **tilt sensitivity** - supported
+* **pen button actions** - not supported. The buttons will simply have some default unchangable behavior.
+* **tablet buttons & dials actions** - not supported.&#x20;
+* **force proportions** - not supported. This means that mismatched aspect ratios for pen tablets will result in distortion when drawing. More here explaining what this means: [Matching aspect ratios with Force Proportions](../../customizing/force-proportions.md)
+* **map active area to specific display** - supported
+* **map active area to full virtual desktop** - not supported
+* **per-app settings** - not supported
 
 ## Forcing Windows to use PNP drivers
 
