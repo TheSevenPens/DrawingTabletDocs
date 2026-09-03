@@ -1,5 +1,10 @@
 # XP-Pen Artist 22 Plus (MD220FH) notes
 
+## Display
+
+* **Resolution**: Full HD (1920x1080)
+  * The model ID encodes this: FH is Full HD. The 22" WQHD (2560x1440) XP-Pen is the Artist Pro 22 GEN2 (MD220QH) - see [XP-Pen Artist Pro 22 GEN2 (MD220QH) notes](xppen-md220qh-notes.md).
+
 ## Links
 
 [Brad Colbow review of XP-Pen Artist 22 Plus](https://www.youtube.com/watch?v=YfEfGOJOQJs) 2023-11-20

@@ -136,7 +136,7 @@ If none of these suggestions are helping, then contact support: [Contacting supp
 
 In the meantime, you may be able to use alternative drivers on Windows:
 
-* Windows PNP drivers: [https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets](https://docs.thesevenpens.com/drawtab/guides/windows/windows-pnp-support-for-drawing-tablets)
+* Windows PNP drivers: [Windows PNP support for drawing tablets](../guides/platforms/windows/windows-pnp-support.md)
 * OpenTabletDriver: [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/otd-windows-install.md)
 
 ## Notes
