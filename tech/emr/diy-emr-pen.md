@@ -10,7 +10,7 @@ If you watched my "How do EMR pens work?" video, you'd probably know enough, if 
 
 * **Understanding how the pen and tablet talk.** You’ll need an oscilloscope and need to learn how to use it correctly. See the Scanline YouTube channel, which has a couple of videos that explore EMR tablets. You should learn a lot from there.
 * **Components.**
-  * Most components are things you can buy: ferrite core, copper coil, spring, piezoelectric sensor.
+  * Most components are things you can buy: ferrite core, copper coil, spring, pressure sensor.
   * Some components you may need to 3D print: the pen shell, nibs, and assorted bits of plastic that hold everything together inside.
   * The PCB will require you to make something small enough to fit in the case. And it has to use very little power and know how to communicate certain kinds of data to the tablet.
 * **Powering the pen.** You need to construct the inductor and PCB to get energy from the tablet and briefly power the pen so it can transmit a signal back.
