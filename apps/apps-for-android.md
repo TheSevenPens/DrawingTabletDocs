@@ -6,7 +6,7 @@ This is a list of some prominent apps for Android devices. If you want to see a 
 
 ## Popular apps for Android
 
-* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint/)
 * [Ibis Paint](../catalog/apps/ibis-paint.md)
 * [HiPaint](../catalog/apps/hipaint.md)
 * [Infinite Painter](../catalog/apps/infinite-painter.md)

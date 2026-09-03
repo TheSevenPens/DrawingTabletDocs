@@ -8,7 +8,7 @@ If you want to see a full list of applications go here: [Apps](./).
 
 ## Recommendations
 
-* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint/)
   * (Windows, MacOS, Android, iOS)
 * [Krita](../catalog/apps/krita.md)
   * (Windows, Linux, MacOS)

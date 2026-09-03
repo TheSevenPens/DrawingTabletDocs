@@ -74,7 +74,7 @@ All three exhibit very low pointer lag. A bit more than the Apple Pencil, but le
 
 As for software here are the apps I use with it. Stars indicate the apps I use most often with a Samsung Tab S device.
 
-* [Clip Studio Paint](../../../apps/clip-studio-paint.md)
+* [Clip Studio Paint](../../../apps/clip-studio-paint/)
 * [HiPaint](../../../apps/hipaint.md) (works very similar to Procreate on iPads) ⭐
 * [Infinite Painter](../../../apps/infinite-painter.md) (works similarly to Procreate on iPads) ⭐
 * [Ibis Paint](../../../apps/ibis-paint.md)

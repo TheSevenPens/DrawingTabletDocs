@@ -49,7 +49,7 @@ They vary quite a bit in price. Below are three models I personally own. You wil
 Some popular and excellent drawing applications are available on the iPad.
 
 * [Procreate](../../apps/procreate.md)
-* [Clip Studio Paint](../../apps/clip-studio-paint.md)
+* [Clip Studio Paint](../../apps/clip-studio-paint/)
 * [Fresco](../../apps/fresco.md)
 * [Ibis Paint](../../apps/ibis-paint.md)
 
@@ -152,7 +152,7 @@ I use these iPad models with an Apple Pencil 2:
 I primarily use these iPad apps:
 
 * [Procreate](../../apps/procreate.md)
-* [Clip Studio Paint](../../apps/clip-studio-paint.md)
+* [Clip Studio Paint](../../apps/clip-studio-paint/)
 
 I occasionally use these iPad apps:
 

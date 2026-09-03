@@ -8,7 +8,7 @@ This is a list of some prominent apps for iPads. If you want to see a larger lis
 
 * [Procreate](../catalog/apps/procreate.md)
 * ArtRage
-* [Clip Studio Paint](../catalog/apps/clip-studio-paint.md)
+* [Clip Studio Paint](../catalog/apps/clip-studio-paint/)
 * [Fresco](../catalog/apps/fresco.md)
 * [Ibis Paint](../catalog/apps/ibis-paint.md)
 * [HiPaint](../catalog/apps/hipaint.md)
