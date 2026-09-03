@@ -17,7 +17,11 @@ The steps below configure CSP to erase when you use the pen eraser. The active t
 * Select **General settings**.
 * Select **Pen/Gesture**.
 * Find the **Tail switch** setting.
-* Change its assigned action to **Change tool temporarily**.
+* Change its assigned action to **Change tool temporarily**
+* Another dialog will launch where you will need to pick an action.&#x20;
+* Choose **Eraser**&#x20;
 * Click **OK**.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Configuration of the tail switch actoin in Modifier Key Settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>Configuration of the tail switch action in Modifier Key Settings</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Actions to pick from when you select <strong>Change tool temporarily</strong></p></figcaption></figure>
