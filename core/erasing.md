@@ -26,11 +26,11 @@ Erasers are relatively uncommon for EMR pens.
 
 Some apps support erasers. Some do not support erasers. And some apps support erasers but need special configuration to use them.
 
-In the tablet driver if the eraser is configure to perform the "erase" action then:
+In the tablet driver, if the eraser is configured to perform the "erase" action, then:
 
 * Photoshop - using the eraser will cause the pen to start erasing.
 * Krita - using the eraser will cause the pen to start erasing.
-* Clip Studio Paint - requires some special configuration
+* Clip Studio Paint - requires some special configuration. See [TIP: Erasing with the pen eraser in Clip Studio Paint](../catalog/apps/clip-studio-paint/tip-csp-pen-eraser.md)
 
 ## Usage of erasers
 
@@ -46,4 +46,4 @@ Remember that a specific tablet is compatible with only specific pens. Avoid buy
 
 ## Using the side buttons to erase
 
-Another option is to map the side buttons to switch to the eraser tool in the app you are using. You can do this in the tablet driver app.
+Another option is to map the side buttons to switch to the eraser tool in your app. You can do this in the tablet driver app.
