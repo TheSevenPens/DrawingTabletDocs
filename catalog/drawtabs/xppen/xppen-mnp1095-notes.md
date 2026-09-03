@@ -6,6 +6,14 @@ A decent standalone tablet comparable to the Samsung Galaxy Tab S9FE.
 
 My unit exhibited strong "pulsing" in tilt.
 
+## Software
+
+This tablet is sold as a note-taking device, so the note-taking app is part of what you are buying.
+
+The app is XPPen Notes, which is a white-labelled version of JNotes. Some of its functionality sits behind a paid tier, so check which features you need are free before buying the tablet for note-taking.
+
+More here: [Bundled software and subscriptions](../../../apps/bundled-software.md)
+
 ## Links
 
 * [Teoh on Tech - Review of Magic Drawing Pad 2025 with Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) 2025-08-26

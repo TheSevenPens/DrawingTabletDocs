@@ -307,6 +307,7 @@
   * [Apps for Android](apps/apps-for-android.md "Android")
   * [Apps for iPad](apps/apps-for-ipad.md "iPad")
   * [Recommended apps](apps/recommended-apps.md "Recommended")
+  * [Bundled software and subscriptions](apps/bundled-software.md "Bundled software")
 * [FAQs](faq.md)
 * [Troubleshooting](troubleshoot/README.md)
   * [Common problems](troubleshoot/common-drawtab-problems.md)

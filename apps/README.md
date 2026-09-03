@@ -19,6 +19,8 @@ I've collected a list of apps here: [List of apps](list-of-apps.md)
 
 Most drawing tablets come with a limited-time trial license to some applications. Usually these trials last anywhere from 3 to 6 months. After this time, you'll have to pay for the app. Some are subscription and some are one-time-purchases.
 
+On standalone tablets the bundled app is often the selling point of the device, and it may have a paywall. More here: [Bundled software and subscriptions](bundled-software.md)
+
 ## All apps work with drawing tablet pens
 
 More here: [App compatibility with drawing tablets](../basics/app-compat.md)
