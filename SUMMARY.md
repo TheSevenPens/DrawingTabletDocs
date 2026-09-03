@@ -612,7 +612,7 @@
       * [Wacom stroke nib](catalog/pens/wacom-pens/wacom-stroke-nib.md)
       * [Wacom Art Pen 1 (KP-701E) notes](catalog/pens/wacom-pens/wacom-kp701e-notes.md "Art Pen 1 (KP-701E)")
       * [Wacom Art Pen 2 (ACP-700) notes](catalog/pens/wacom-pens/wacom-acp700-notes.md "Art Pen 2 (ACP-700)")
-      * [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701E)](catalog/pens/wacom-pens/wacom-acp500-vs-kp701e.md "Art Pen 2 vs Art Pen 1")
+      * [Wacom Art Pen 2 (ACP-700) vs Art Pen 1 (KP-701E)](catalog/pens/wacom-pens/wacom-acp500-vs-kp701e.md "Art Pen 2 vs Art Pen 1")
       * [Wacom Pro Pen 1 (KP-503E)](catalog/pens/wacom-pens/wacom-pro-pen-1-kp-503e.md "Pro Pen 1 (KP-503E)")
     * [Apple pens](catalog/pens/apple-pencil/README.md "Apple")
       * [Apple Pencil notes](catalog/pens/apple-pencil/apple-pencil-notes.md)

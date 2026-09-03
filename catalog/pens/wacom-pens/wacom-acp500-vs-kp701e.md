@@ -1,4 +1,4 @@
-# Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701E)
+# Wacom Art Pen 2 (ACP-700) vs Art Pen 1 (KP-701E)
 
 ## Summary
 

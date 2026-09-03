@@ -6,7 +6,7 @@ Released in May 2025, the Art Pen 2 (ACP-700) is the successor to the much-belov
 
 This is an EXCELLENT pen. I love how it feels and how it draws. It's even less expensive than the Pro Pen 3. I feel this is the true successor to the Pro Pen 2 (KP-504E). Be aware that only a few tablets support this pen. Some that do support it require a firmware update.
 
-For a comparison to the old pen, see: [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)](wacom-acp500-vs-kp701e.md)
+For a comparison to the old pen, see: [Wacom Art Pen 2 (ACP-700) vs Art Pen 1 (KP-701E)](wacom-acp500-vs-kp701e.md)
 
 ## How does it compare to the Pro Pen 3 (ACP-500)?
 

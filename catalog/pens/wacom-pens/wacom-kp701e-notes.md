@@ -6,7 +6,7 @@ One of the best pens Wacom ever created and one of the few that supports Barrel 
 
 Wacom discontinued this pen sometime around the end of 2023 or beginning of 2024. It is succeeded by the [Wacom Art Pen 2 (ACP-700)](wacom-acp700-notes.md).
 
-See: [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)](wacom-acp500-vs-kp701e.md)
+See: [Wacom Art Pen 2 (ACP-700) vs Art Pen 1 (KP-701E)](wacom-acp500-vs-kp701e.md)
 
 ## Naming
 
