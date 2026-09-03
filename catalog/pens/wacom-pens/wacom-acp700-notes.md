@@ -8,6 +8,13 @@ This is an EXCELLENT pen. I love how it feels and how it draws. It's even less e
 
 For a comparison to the old pen, see: [Wacom Art Pen 2 (ACP-500) vs Art Pen 1 (KP-701)](wacom-acp500-vs-kp701e.md)
 
+## How does it compare to the Pro Pen 3 (ACP-500)?
+
+* I like the feeling of the ACP-700 much better, it's just much more comfortable to hold. It feels a lot like holding the KP-504E. The thicker body feels much more natural to me.
+* The feeling of the ACP-700 is material quite nice compared to the ACP-500. I find the ACP-500 to feel slippert. The ACP-700 is rigid but feels softer/warmer somehow. And slides less in my hand.
+* I definitely prefer the buttons of the ACP-700. They seem more easy to sense with the fingers but also less likely to accidentally press (which is good).
+* The drawing experience is exactly the same in my testing. Same IAF and same maximum pressure.
+
 ## Driver version
 
 Older versions of the driver do not recognize the pen.
@@ -85,8 +92,6 @@ My measurements are very simmilar to what I found with the Pro Pen 3
 | Min       | 2.9      |
 | Median    | 3.3      |
 | Max       | 3.5      |
-
-
 
 | Pen             | Inventory ID | IAF (gf) | Source    |
 | --------------- | ------------ | -------- | --------- |
