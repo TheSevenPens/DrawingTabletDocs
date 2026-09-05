@@ -1,721 +1,721 @@
-path	section	priority	last_revised	notes
-README.md	(root)			
-about/README.md	about			
-about/inventory.md	about			
-apps/README.md	apps			
-apps/apps-for-android.md	apps			
-apps/apps-for-beginners.md	apps			
-apps/apps-for-ipad.md	apps			
-apps/bundled-software.md	apps			
-apps/list-of-apps.md	apps			
-apps/recommended-apps.md	apps			
-apps/tips/README.md	apps			
-apps/tips/canvas-on-another-display.md	apps			
-basics/README.md	basics			
-basics/app-compat.md	basics			
-basics/beginners-guide.md	basics			
-basics/drawing-experience.md	basics			
-basics/drawtab-types/README.md	basics			
-basics/drawtab-types/intro-2-in-1-laptops.md	basics			
-basics/drawtab-types/intro-mobile-devices.md	basics			
-basics/drawtab-types/intro-pen-computers.md	basics			
-basics/drawtab-types/intro-pen-displays.md	basics			
-basics/drawtab-types/intro-pen-tablets.md	basics			
-basics/drawtabs-vs-mice.md	basics			
-basics/getting-started.md	basics			
-basics/learning-digital-art.md	basics			
-basics/learning-drawtabs.md	basics			
-basics/scenarios/3d-workflows.md	basics			
-basics/scenarios/README.md	basics			
-basics/scenarios/edu-vids.md	basics			
-basics/scenarios/gaming.md	basics			
-basics/scenarios/replacing-mouse.md	basics			
-basics/scenarios/taking-notes.md	basics			
-basics/scenarios/whiteboarding.md	basics			
-basics/support.md	basics			
-brands/README.md	brands			
-brands/choosing-drawtab-brand.md	brands			
-brands/drawtab-brands-vs-digitizers.md	brands			
-brands/huion-and-xppen.md	brands			
-brands/wacom.md	brands			
-brands/xencelabs.md	brands			
-buying/README.md	buying			
-buying/buying-tips.md	buying			
-buying/choosing-pendisplay-resolution.md	buying			
-buying/choosing-size.md	buying			
-buying/gifting-drawtabs.md	buying			
-buying/how-many-pressure-levels.md	buying			
-buying/inspecting-drawtab.md	buying			
-buying/pen-computer-alternatives.md	buying			
-buying/pen-computers-bad.md	buying			
-buying/pen-computers-vs-pen-enabled-laptops.md	buying			
-buying/pen-tablets-vs-pen-displays.md	buying			
-buying/pro-drawtabs.md	buying			
-buying/simulating-size.md	buying			
-buying/switch-brands/README.md	buying			
-buying/switch-brands/switch-ipad-to-drawtab.md	buying			
-buying/switch-pentab-to-pendisplay.md	buying			
-buying/used-drawtabs.md	buying			
-catalog/README.md	catalog			
-catalog/accessories/README.md	catalog			
-catalog/accessories/arms/README.md	catalog			
-catalog/accessories/arms/ergotron-monitor-arms.md	catalog			
-catalog/accessories/auxiliary-input-devices/8bitdo-controller.md	catalog			
-catalog/accessories/auxiliary-input-devices/README.md	catalog			
-catalog/accessories/auxiliary-input-devices/clip-studio-tabmate.md	catalog			
-catalog/accessories/auxiliary-input-devices/huion-keydial.md	catalog			
-catalog/accessories/auxiliary-input-devices/tourbox/README.md	catalog			
-catalog/accessories/auxiliary-input-devices/tourbox/tourbox-notes.md	catalog			
-catalog/accessories/auxiliary-input-devices/xencelabs-quick-keys.md	catalog			
-catalog/accessories/auxiliary-input-devices/xppen-shortcut-remote.md	catalog			
-catalog/accessories/cable-adapters.md	catalog			
-catalog/accessories/cables/README.md	catalog			
-catalog/accessories/cables/cablematters-thunderbolt-3-cable.md	catalog			
-catalog/accessories/custom-screen-protectors.md	catalog			
-catalog/accessories/docks-and-hubs/README.md	catalog			
-catalog/accessories/docks-and-hubs/caldigit/README.md	catalog			
-catalog/accessories/docks-and-hubs/caldigit/caldigit-ts4-thunderbolt-dock.md	catalog			
-catalog/accessories/docks-and-hubs/caldigit/caldigit-usbc-to-hdmi-2.1-adapter.md	catalog			
-catalog/accessories/docks-and-hubs/wacom-ack45219z-notes.md	catalog			
-catalog/accessories/drawing-gloves.md	catalog			
-catalog/accessories/drawtab-mice.md	catalog			
-catalog/accessories/extension-cables.md	catalog			
-catalog/accessories/keyboards.md	catalog			
-catalog/accessories/pen-cases.md	catalog			
-catalog/accessories/pen-grips/README.md	catalog			
-catalog/accessories/pen-grips/hagurumado-grips.md	catalog			
-catalog/accessories/screen-cleaning-sprays.md	catalog			
-catalog/accessories/stands/README.md	catalog			
-catalog/accessories/stands/huion-st100-stand.md	catalog			
-catalog/accessories/stands/ipad-stands.md	catalog			
-catalog/accessories/stands/parblo-pr-100-stand.md	catalog			
-catalog/accessories/stands/vivo-v100r.md	catalog			
-catalog/accessories/stands/xencelabs-mobile-easel.md	catalog			
-catalog/accessories/stands/xoot-stand.md	catalog			
-catalog/accessories/stands/xppen-ac41-ac420-stands.md	catalog			
-catalog/accessories/stands/xppen-acs15.md	catalog			
-catalog/accessories/surface-protectors/screen-protectors/README.md	catalog			
-catalog/accessories/surface-protectors/screen-protectors/paperlike-for-ipads.md	catalog			
-catalog/accessories/surface-protectors/screen-protectors/photodon-screen-protectors.md	catalog			
-catalog/accessories/surface-protectors/screen-protectors/screen-protectors-for-ipads.md	catalog			
-catalog/accessories/surface-protectors/surface-protectors/README.md	catalog			
-catalog/accessories/surface-protectors/surface-protectors/eplastic-sheets.md	catalog			
-catalog/accessories/surface-protectors/surface-protectors/foxbox-covers.md	catalog			
-catalog/accessories/surface-protectors/surface-protectors/wacom-texture-sheets.md	catalog			
-catalog/accessories/tablet-cases.md	catalog			
-catalog/apps/README.md	catalog			
-catalog/apps/adobe-photoshop.md	catalog			
-catalog/apps/affinity.md	catalog			
-catalog/apps/autodesk-maya.md	catalog			
-catalog/apps/blender.md	catalog			
-catalog/apps/ciallo.md	catalog			
-catalog/apps/clip-studio-paint/README.md	catalog			
-catalog/apps/clip-studio-paint/tip-csp-pen-eraser.md	catalog			
-catalog/apps/concepts-app.md	catalog			
-catalog/apps/expresii.md	catalog			
-catalog/apps/feather-3d.md	catalog			
-catalog/apps/fireaplaca.md	catalog			
-catalog/apps/freeform.md	catalog			
-catalog/apps/fresco.md	catalog			
-catalog/apps/heavypaint.md	catalog			
-catalog/apps/hipaint.md	catalog			
-catalog/apps/ibis-paint.md	catalog			
-catalog/apps/infinite-painter.md	catalog			
-catalog/apps/inkscape.md	catalog			
-catalog/apps/kleki.md	catalog			
-catalog/apps/krita.md	catalog			
-catalog/apps/leonardo.md	catalog			
-catalog/apps/medibang-pro.md	catalog			
-catalog/apps/medibang.md	catalog			
-catalog/apps/microsoft-onenote.md	catalog			
-catalog/apps/microsoft-paint.md	catalog			
-catalog/apps/microsoft-powerpoint.md	catalog			
-catalog/apps/microsoft-whiteboard.md	catalog			
-catalog/apps/mypaint.md	catalog			
-catalog/apps/painter.md	catalog			
-catalog/apps/paintstorm-studio.md	catalog			
-catalog/apps/painttool-sai.md	catalog			
-catalog/apps/photoshop.md	catalog			
-catalog/apps/pixieditor.md	catalog			
-catalog/apps/procreate.md	catalog			
-catalog/apps/rebelle.md	catalog			
-catalog/apps/samsung-notes.md	catalog			
-catalog/apps/stylusx.md	catalog			
-catalog/apps/wacom-canvas.md	catalog			
-catalog/apps/wacom-instant-pen-display.md	catalog			
-catalog/apps/wacom-preference-file-utility.md	catalog			
-catalog/apps/zoomit.md	catalog			
-catalog/computers/README.md	catalog			
-catalog/computers/apple/README.md	catalog			
-catalog/computers/apple/apple-m3-macbook-pro.md	catalog			
-catalog/computers/microsoft/README.md	catalog			
-catalog/computers/microsoft/microsoft-surface-pro-9/README.md	catalog			
-catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-7-notes.md	catalog			
-catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md	catalog			
-catalog/computers/minisforum/README.md	catalog			
-catalog/computers/minisforum/minisforum-neptune-hx99g-notes.md	catalog			
-catalog/computers/minisforum/minisforum-um870-slim-notes.md	catalog			
-catalog/computers/samsung/README.md	catalog			
-catalog/computers/samsung/samsung-galaxy-book-360.md	catalog			
-catalog/drawtabs/README.md	catalog			
-catalog/drawtabs/apple/README.md	catalog			
-catalog/drawtabs/apple/apple-ipad-notes.md	catalog			
-catalog/drawtabs/apple/apple-ipad-vs-samsung-tab-s.md	catalog			
-catalog/drawtabs/apple/apple-ipad.md	catalog			
-catalog/drawtabs/apple/ipad-as-pen-display.md	catalog			
-catalog/drawtabs/apple/ipad-vs-drawtab.md	catalog			
-catalog/drawtabs/artisul.md	catalog			
-catalog/drawtabs/asus/README.md	catalog			
-catalog/drawtabs/asus/asus-pro-art-pen-display.md	catalog			
-catalog/drawtabs/dell/README.md	catalog			
-catalog/drawtabs/dell/dell-canvas-27.md	catalog			
-catalog/drawtabs/digidraw/README.md	catalog			
-catalog/drawtabs/digidraw/digidraw-t610-notes.md	catalog			
-catalog/drawtabs/gaomon/README.md	catalog			
-catalog/drawtabs/gaomon/gaomon-pen-displays.md	catalog			
-catalog/drawtabs/gaomon/gaomon-pen-tablets.md	catalog			
-catalog/drawtabs/huion/README.md	catalog			
-catalog/drawtabs/huion/dial-problems-gs1333-gs1563.md	catalog			
-catalog/drawtabs/huion/huion-g930l-notes.md	catalog			
-catalog/drawtabs/huion/huion-gs1331-notes.md	catalog			
-catalog/drawtabs/huion/huion-gs1333-notes.md	catalog			
-catalog/drawtabs/huion/huion-gs1562-notes.md	catalog			
-catalog/drawtabs/huion/huion-gs1563-notes.md	catalog			
-catalog/drawtabs/huion/huion-gs2202-notes.md	catalog			
-catalog/drawtabs/huion/huion-gs2203-notes.md	catalog			
-catalog/drawtabs/huion/huion-gt1562-notes.md	catalog			
-catalog/drawtabs/huion/huion-gt156v2-notes.md	catalog			
-catalog/drawtabs/huion/huion-gt1902-notes.md	catalog			
-catalog/drawtabs/huion/huion-gt2401-notes.md	catalog			
-catalog/drawtabs/huion/huion-gt2402-notes.md	catalog			
-catalog/drawtabs/huion/huion-h1061p-notes.md	catalog			
-catalog/drawtabs/huion/huion-hs611-notes.md	catalog			
-catalog/drawtabs/huion/huion-l610-notes.md	catalog			
-catalog/drawtabs/huion/huion-pen-displays.md	catalog			
-catalog/drawtabs/huion/huion-pen-tablets.md	catalog			
-catalog/drawtabs/huion/huion-q630m-notes.md	catalog			
-catalog/drawtabs/huion/huion-rtp700-notes.md	catalog			
-catalog/drawtabs/huion/huion-standalone.md	catalog			
-catalog/drawtabs/huion/huion-wh1409v2-notes.md	catalog			
-catalog/drawtabs/oneplus/README.md	catalog			
-catalog/drawtabs/oneplus/oneplus-pad.md	catalog			
-catalog/drawtabs/samsung/README.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-a-series.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/README.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s11ultra-notes.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s6lite-notes.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s8ultra-notes.md	catalog			
-catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s9fe-notes.md	catalog			
-catalog/drawtabs/ugee.md	catalog			
-catalog/drawtabs/wacom/README.md	catalog			
-catalog/drawtabs/wacom/one-by-wacom/README.md	catalog			
-catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-bamboo/README.md	catalog			
-catalog/drawtabs/wacom/wacom-bamboo/wacom-ctl470-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/README.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-cintiq-pro-engine-dpm-w1000x.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth162-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth167-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth172-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth227-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth271-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth3220-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dtx2420-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/README.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dth246-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk1660-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk168-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2100-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2260-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2700-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-cintiq/wacom-dtz2100-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-consumer-tablets.md	catalog			
-catalog/drawtabs/wacom/wacom-final-driver-notices.md	catalog			
-catalog/drawtabs/wacom/wacom-firmware-updates.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos-pro-2013.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos-pro-2017/README.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos-pro-2017/buying-pthx60-in-2026.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos-pro-2025/README.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos/README.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos/wacom-ctlx100-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos1/README.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos1/wacom-gdxxxx-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos2.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos3/README.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos3/wacom-ptz1230-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos4/README.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos4/wacom-ptk1240-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos5.md	catalog			
-catalog/drawtabs/wacom/wacom-intuos5/wacom-pthx50-ptkx50-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-model-number-format.md	catalog			
-catalog/drawtabs/wacom/wacom-movink/README.md	catalog			
-catalog/drawtabs/wacom/wacom-movink/wacom-dth135-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-movinkpad/README.md	catalog			
-catalog/drawtabs/wacom/wacom-movinkpad/wacom-ack45633z-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha140-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-one-vs-one-by-wacom.md	catalog			
-catalog/drawtabs/wacom/wacom-one/README.md	catalog			
-catalog/drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-one/wacom-dtc141-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-pen-tablet-comparison.md	catalog			
-catalog/drawtabs/wacom/wacom-sd-tablets/README.md	catalog			
-catalog/drawtabs/wacom/wacom-sd-tablets/wacom-sd510c-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-standalone-tablet-landscape.md	catalog			
-catalog/drawtabs/wacom/wacom-tablet-models.md	catalog			
-catalog/drawtabs/wacom/wacom-tablet-release-history.md	catalog			
-catalog/drawtabs/wacom/wacom-ud-series-notes.md	catalog			
-catalog/drawtabs/wacom/wacom-wt-series.md	catalog			
-catalog/drawtabs/xencelabs/README.md	catalog			
-catalog/drawtabs/xencelabs/xencelabs-bph1212wa-notes.md	catalog			
-catalog/drawtabs/xencelabs/xencelabs-lph1612ua-notes.md	catalog			
-catalog/drawtabs/xencelabs/xencelabs-lph2412ua-notes.md	catalog			
-catalog/drawtabs/xppen/README.md	catalog			
-catalog/drawtabs/xppen/xppen-cd120fh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-cd121fh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-cd130fh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-cd160fh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-deco01v3-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-it1060b-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-md160qh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-md160uh-notes-1.md	catalog			
-catalog/drawtabs/xppen/xppen-md160uh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-md180uh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-md220fh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-md220qh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-md270uh-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-mdp-2024-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-mdp1221-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-mnp1095-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-mt1592b-notes.md	catalog			
-catalog/drawtabs/xppen/xppen-pen-displays.md	catalog			
-catalog/drawtabs/xppen/xppen-pen-tablets.md	catalog			
-catalog/drawtabs/xppen/xppen-standalone.md	catalog			
-catalog/pens/README.md	catalog			
-catalog/pens/apple-pencil/README.md	catalog			
-catalog/pens/apple-pencil/apple-pencil-notes.md	catalog			
-catalog/pens/asus/README.md	catalog			
-catalog/pens/asus/aus-mpa01-notes.md	catalog			
-catalog/pens/huion-pens/README.md	catalog			
-catalog/pens/huion-pens/huion-pentech.md	catalog			
-catalog/pens/huion-pens/huion-pw100-notes.md	catalog			
-catalog/pens/huion-pens/huion-pw110-notes.md	catalog			
-catalog/pens/huion-pens/huion-pw500-notes.md	catalog			
-catalog/pens/huion-pens/huion-pw507-notes.md	catalog			
-catalog/pens/huion-pens/huion-pw517-notes.md	catalog			
-catalog/pens/huion-pens/huion-pw550-notes.md	catalog			
-catalog/pens/huion-pens/huion-pw600-notes.md	catalog			
-catalog/pens/huion-pens/upgrading-pw517-to-pw550.md	catalog			
-catalog/pens/microsoft-pens/README.md	catalog			
-catalog/pens/microsoft-pens/surface-slim-pen-2-notes.md	catalog			
-catalog/pens/samsung-s-pen/README.md	catalog			
-catalog/pens/samsung-s-pen/samsung-s-pen-notes.md	catalog			
-catalog/pens/samsung-s-pen/upgrading-to-wacom-cp913.md	catalog			
-catalog/pens/wacom-pens/README.md	catalog			
-catalog/pens/wacom-pens/wacom-acp500-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-acp500-vs-kp504e.md	catalog			
-catalog/pens/wacom-pens/wacom-acp500-vs-kp701e.md	catalog			
-catalog/pens/wacom-pens/wacom-acp700-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-cp913-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-cp923-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-gp300e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-kp400e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-kp504e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-kp701e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-lp1100k-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-lp170-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-lp190k-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-pen-compatibility.md	catalog			
-catalog/pens/wacom-pens/wacom-pro-pen-1-kp-503e.md	catalog			
-catalog/pens/wacom-pens/wacom-stroke-nib.md	catalog			
-catalog/pens/wacom-pens/wacom-xp400e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-xp501e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-zp501e-notes.md	catalog			
-catalog/pens/wacom-pens/wacom-zp600-notes.md	catalog			
-catalog/pens/xencelabs-pens/README.md	catalog			
-catalog/pens/xencelabs-pens/xencelabs-v1-pens-notes.md	catalog			
-catalog/pens/xencelabs-pens/xencelabs-v2-pens-notes.md	catalog			
-catalog/pens/xppen-pens/README.md	catalog			
-catalog/pens/xppen-pens/xppen-p05-notes.md	catalog			
-catalog/pens/xppen-pens/xppen-x3elitepen-notes.md	catalog			
-catalog/pens/xppen-pens/xppen-x3propen-notes.md	catalog			
-catalog/pens/xppen-pens/xppen-x4pen-notes.md	catalog			
-core/README.md	core			
-core/active-area/README.md	core			
-core/active-area/absolute-versus-relative-positioning.md	core			
-core/active-area/active-area-aspect-ratio.md	core			
-core/active-area/active-area-mapping.md	core			
-core/active-area/active-area-size.md	core			
-core/active-area/display-toggle.md	core			
-core/active-area/mouse-mode.md	core			
-core/barrel-rotation.md	core			
-core/bezel.md	core			
-core/diagonal-wobble.md	core			
-core/digitizer-resolution-density.md	core			
-core/erasing.md	core			
-core/expresskeys/README.md	core			
-core/expresskeys/popular-bindings.md	core			
-core/hover/README.md	core			
-core/hover/hover-jitter.md	core			
-core/lag.md	core			
-core/nib-material.md	core			
-core/nib-travel.md	core			
-core/pointer-lag.md	core			
-core/power/README.md	core			
-core/power/power-delivery.md	core			
-core/power/powering-drawtabs.md	core			
-core/power/powering-pen.md	core			
-core/pressure/README.md	core			
-core/pressure/disable-pen-pressure.md	core			
-core/pressure/drawing-low-pressure.md	core			
-core/pressure/iaf.md	core			
-core/pressure/maximum-physical-pressure.md	core			
-core/pressure/pen-pressure-levels.md	core			
-core/pressure/pen-pressure-response.md	core			
-core/pressure/pressure-banding.md	core			
-core/pressure/pressure-curves/README.md	core			
-core/pressure/pressure-curves/pressure-curve-constrain-input.md	core			
-core/pressure/pressure-curves/pressure-curve-constrain-output.md	core			
-core/pressure/pressure-curves/pressure-curve-deadzone.md	core			
-core/pressure/pressure-curves/pressure-curve-in-app.md	core			
-core/pressure/pressure-curves/pressure-curve-in-driver.md	core			
-core/pressure/pressure-curves/pressure-curve-misc.md	core			
-core/pressure/pressure-curves/pressure-curve-null.md	core			
-core/pressure/tilt-affects-pressure.md	core			
-core/pwm-flicker.md	core			
-core/surface-texture.md	core			
-core/tilt/README.md	core			
-core/tilt/tilt-compensation.md	core			
-core/tracking.md	core			
-faq.md	(root)			
-guides/README.md	guides			
-guides/advanced/README.md	guides			
-guides/advanced/firmware.md	guides			
-guides/advanced/tablet-reports.md	guides			
-guides/computers-for-digital-art/README.md	guides			
-guides/computers-for-digital-art/mini-pcs.md	guides			
-guides/connecting/3rd-party-cables-for-drawtab/README.md	guides			
-guides/connecting/3rd-party-cables-for-drawtab/my-cables-for-pen-tablets.md	guides			
-guides/connecting/README.md	guides			
-guides/connecting/connecting-pen-display/README.md	guides			
-guides/connecting/connecting-pen-display/connecting-pen-display-gpu-usbc.md	guides			
-guides/connecting/connecting-pen-display/connecting-pen-display-hdmi.md	guides			
-guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md	guides			
-guides/connecting/connecting-pen-display/connecting-with-a-3-in-1-cable.md	guides			
-guides/connecting/connecting-pen-display/motherboard-vs-gpu-hdmi.md	guides			
-guides/connecting/connecting-pen-display/pen-display-with-mobile-device.md	guides			
-guides/connecting/connecting-pen-tablet/README.md	guides			
-guides/connecting/connecting-pen-tablet/connecting-with-serial-cable.md	guides			
-guides/connecting/connecting-pen-tablet/wireless-connection.md	guides			
-guides/connecting/connecting-pen-to-drawtab.md	guides			
-guides/connecting/recessed-usbc-ports.md	guides			
-guides/customizing/README.md	guides			
-guides/customizing/calibrate-pen-position.md	guides			
-guides/customizing/calibrating-color.md	guides			
-guides/customizing/calibrating-pressure.md	guides			
-guides/customizing/calibrating.md	guides			
-guides/customizing/clamping-to-srgb.md	guides			
-guides/customizing/controlling-pen-tip-behavior.md	guides			
-guides/customizing/disable-tilt.md	guides			
-guides/customizing/force-proportions.md	guides			
-guides/customizing/lowering-iaf.md	guides			
-guides/customizing/lowering-max-physical-pressure.md	guides			
-guides/customizing/map-active-area-to-display.md	guides			
-guides/customizing/matching-colors-across-displays.md	guides			
-guides/customizing/metal-nibs.md	guides			
-guides/customizing/mirroring-or-extending.md	guides			
-guides/customizing/paper-texture.md	guides			
-guides/customizing/pen-display-as-monitor.md	guides			
-guides/customizing/pen-display-as-pen-tablet.md	guides			
-guides/customizing/pen-tablets-with-ultrawide-monitors.md	guides			
-guides/customizing/precision-mode.md	guides			
-guides/customizing/pressure-smoothing.md	guides			
-guides/customizing/raising-iaf.md	guides			
-guides/customizing/replace-usb-port.md	guides			
-guides/customizing/shrinking-active-area.md	guides			
-guides/customizing/using-barrel-rotation.md	guides			
-guides/customizing/using-tilt.md	guides			
-guides/drawing/README.md	guides			
-guides/drawing/brush-engine.md	guides			
-guides/drawing/configure-smoothing-in-apps.md	guides			
-guides/drawing/drawing-smooth-strokes.md	guides			
-guides/drawing/enable-tilt-for-brushes.md	guides			
-guides/drivers/README.md	guides			
-guides/drivers/drawtab-without-installing-drivers.md	guides			
-guides/drivers/finding-the-driver-settings-ui.md	guides			
-guides/drivers/import-export-tablet-driver-config.md	guides			
-guides/drivers/multiple-tablet-drivers.md	guides			
-guides/drivers/older-tablet-drivers.md	guides			
-guides/drivers/older-wacom-drivers.md	guides			
-guides/drivers/opentabletdriver/README.md	guides			
-guides/drivers/opentabletdriver/otd-app-data-directory.md	guides			
-guides/drivers/opentabletdriver/otd-export-diagnostics.md	guides			
-guides/drivers/opentabletdriver/otd-macos-install.md	guides			
-guides/drivers/opentabletdriver/otd-notes.md	guides			
-guides/drivers/opentabletdriver/otd-plugin-slimyscylla.md	guides			
-guides/drivers/opentabletdriver/otd-smoothing.md	guides			
-guides/drivers/opentabletdriver/otd-start-automatically.md	guides			
-guides/drivers/opentabletdriver/otd-tablet-buttons.md	guides			
-guides/drivers/opentabletdriver/otd-uninstall.md	guides			
-guides/drivers/opentabletdriver/otd-vs-manufacturer-drivers.md	guides			
-guides/drivers/opentabletdriver/otd-windows-install.md	guides			
-guides/drivers/opentabletdriver/pressure-curves-in-otd.md	guides			
-guides/drivers/tablet-driver-cleanup-tool.md	guides			
-guides/drivers/tabletmagic.md	guides			
-guides/drivers/uninstalling-tablet-drivers.md	guides			
-guides/ergonomics/README.md	guides			
-guides/ergonomics/drawtab-on-lap.md	guides			
-guides/ergonomics/drawtabs-in-bed.md	guides			
-guides/ergonomics/handedness.md	guides			
-guides/ergonomics/heat.md	guides			
-guides/ergonomics/noise.md	guides			
-guides/ergonomics/orientation.md	guides			
-guides/ergonomics/posture.md	guides			
-guides/ergonomics/rotating-drawtab.md	guides			
-guides/general/README.md	guides			
-guides/general/connecting-multiple-drawtabs.md	guides			
-guides/general/electromagnetic-interference.md	guides			
-guides/general/extra-large-pen-tablets.md	guides			
-guides/general/finding-pen-model-number.md	guides			
-guides/general/finding-tablet-model-number.md	guides			
-guides/general/large-pen-tablets.md	guides			
-guides/general/model-names-vs-model-numbers.md	guides			
-guides/general/older-drawtabs.md	guides			
-guides/general/pen-tablet-monitor-size.md	guides			
-guides/general/total-cost-of-ownership-tco.md	guides			
-guides/general/transferring-files.md	guides			
-guides/laptops-for-digital-art.md	guides			
-guides/maintain/README.md	guides			
-guides/maintain/avoid-dropping-pen.md	guides			
-guides/maintain/cleaning-drawtabs.md	guides			
-guides/maintain/dealing-with-water-damage.md	guides			
-guides/maintain/etched-glass.md	guides			
-guides/maintain/false-scratches.md	guides			
-guides/maintain/nib-wear.md	guides			
-guides/maintain/removing-broken-nib.md	guides			
-guides/maintain/removing-nib.md	guides			
-guides/maintain/removing-replacing-screen-protector.md	guides			
-guides/maintain/replacing-nib.md	guides			
-guides/maintain/replacing-pen.md	guides			
-guides/maintain/retrobrighting.md	guides			
-guides/maintain/scratches-pen-tablets.md	guides			
-guides/maintain/storing-pen.md	guides			
-guides/maintain/surface-wear-pen-displays.md	guides			
-guides/maintain/surface-wear-pen-tablets.md	guides			
-guides/maintain/texture-erosion-pen-tablets.md	guides			
-guides/maintain/transporting-drawtab.md	guides			
-guides/pen-displays/README.md	guides			
-guides/pen-displays/ag-sparkle.md	guides			
-guides/pen-displays/android-tablet-as-pen-display.md	guides			
-guides/pen-displays/anti-glare-film.md	guides			
-guides/pen-displays/brightness.md	guides			
-guides/pen-displays/color-tint-on-edges.md	guides			
-guides/pen-displays/dead-pixels.md	guides			
-guides/pen-displays/display-connector-types.md	guides			
-guides/pen-displays/display-resolution.md	guides			
-guides/pen-displays/etched-glass-vs-film.md	guides			
-guides/pen-displays/etched-glass.md	guides			
-guides/pen-displays/hdmi-adapters/README.md	guides			
-guides/pen-displays/hdmi-adapters/dp-to-hdmi-adapters.md	guides			
-guides/pen-displays/hdmi-adapters/dvi-to-hdmi-adapters.md	guides			
-guides/pen-displays/hdmi-adapters/usbc-to-hdmi-adapters.md	guides			
-guides/pen-displays/hdmi-adapters/vga-to-hdmi-adapters.md	guides			
-guides/pen-displays/hdmi-splitters.md	guides			
-guides/pen-displays/lamination.md	guides			
-guides/pen-displays/parallax.md	guides			
-guides/pen-displays/reducing-ag-sparkle.md	guides			
-guides/pen-displays/refresh-rate.md	guides			
-guides/pen-displays/usbc-dp-alt-mode.md	guides			
-guides/pens/README.md	guides			
-guides/pens/pen-buttons.md	guides			
-guides/pens/pen-compatibility.md	guides			
-guides/pens/pen-teardown-huion-pen80.md	guides			
-guides/pens/pen-weight-comparison.md	guides			
-guides/pens/pen-weight.md	guides			
-guides/platforms/README.md	guides			
-guides/platforms/android/README.md	guides			
-guides/platforms/android/drawtab-android-compat-testing.md	guides			
-guides/platforms/android/using-drawtabs-with-android.md	guides			
-guides/platforms/chromeos/README.md	guides			
-guides/platforms/chromeos/chromebook-testing-results.md	guides			
-guides/platforms/chromeos/drawtabs-with-chromeos.md	guides			
-guides/platforms/ios-and-ipados/README.md	guides			
-guides/platforms/ios-and-ipados/drawtabs-with-ios.md	guides			
-guides/platforms/linux.md	guides			
-guides/platforms/macos/README.md	guides			
-guides/platforms/macos/display-resolution.md	guides			
-guides/platforms/macos/using-drawtabs-with-macos.md	guides			
-guides/platforms/windows/README.md	guides			
-guides/platforms/windows/disable-display.md	guides			
-guides/platforms/windows/disable-press-hold-ring.md	guides			
-guides/platforms/windows/disable-ripple-effect-rings-in-windows.md	guides			
-guides/platforms/windows/using-drawtabs-with-windows.md	guides			
-guides/platforms/windows/windows-7-tablet-pc-features/README.md	guides			
-guides/platforms/windows/windows-7-tablet-pc-features/disable-tablet-pc-features-on-windows-7.md	guides			
-guides/platforms/windows/windows-7-tablet-pc-features/fixmypen-tool.md	guides			
-guides/platforms/windows/windows-on-arm.md	guides			
-guides/platforms/windows/windows-pen-and-touch-control-panel.md	guides			
-guides/platforms/windows/windows-pen-and-windows-ink-settings.md	guides			
-guides/platforms/windows/windows-pnp-compat-testing.md	guides			
-guides/platforms/windows/windows-pnp-support.md	guides			
-guides/platforms/windows/windows-tablet-pc-settings.md	guides			
-guides/platforms/windows/winink/README.md	guides			
-guides/platforms/windows/winink/winink-config-apps.md	guides			
-guides/platforms/windows/winink/winink-config-driver.md	guides			
-guides/platforms/windows/winink/winink-history.md	guides			
-guides/platforms/windows/winink/winink-photoshop.md	guides			
-guides/selling-drawtab.md	guides			
-guides/touch/README.md	guides			
-guides/touch/drawtabs-with-touch.md	guides			
-misc/README.md	misc			
-misc/circuit-simulations.md	misc			
-misc/deprecated/README.md	misc			
-misc/drawtab-history/README.md	misc			
-misc/drawtab-history/appendix-other-histories.md	misc			
-misc/drawtab-history/appendix-references.md	misc			
-misc/drawtab-history/appendix-timeline.md	misc			
-misc/drawtab-history/chapter-1-antiquity.md	misc			
-misc/drawtab-history/chapter-2-terms.md	misc			
-misc/drawtab-history/koalapad.md	misc			
-misc/drawtab-history/preface.md	misc			
-misc/surface-protectors-obsolete.md	misc			
-process/README.md	process			
-process/diagonal-wobble-data.md	process			
-process/magnet-field-detection.md	process			
-process/measuring/README.md	process			
-process/measuring/measuring-diagonal-wobble.md	process			
-process/measuring/measuring-display-sharpness.md	process			
-process/measuring/measuring-hover.md	process			
-process/measuring/measuring-pressure-banding.md	process			
-process/measuring/measuring-pressure.md	process			
-process/measuring/measuring-pwm-flicker.md	process			
-process/measuring/measuring-report-rate.md	process			
-process/microscope.md	process			
-process/perfect-pressure-strokes.md	process			
-process/pressure-range-data.md	process			
-process/tablet-evaluation.md	process			
-process/testing-drawing-experience.md	process			
-process/testing-usbc-cables.md	process			
-recs/2-in-1-laptop-recs.md	recs			
-recs/README.md	recs			
-recs/comparisons/2023-13inch-pen-displays-compared.md	recs			
-recs/comparisons/2024-22inch-pen-displays-compared.md	recs			
-recs/comparisons/2024-drawtab-tier-list.md	recs			
-recs/comparisons/2024-large-pen-tablets-compared.md	recs			
-recs/comparisons/2025-drawtab-tier-list.md	recs			
-recs/comparisons/2025-pro-pens-compared.md	recs			
-recs/comparisons/README.md	recs			
-recs/mobile-device-recs.md	recs			
-recs/pen-computer-recs.md	recs			
-recs/pen-display-recs-large.md	recs			
-recs/pen-display-recs-medium.md	recs			
-recs/pen-display-recs-small.md	recs			
-recs/pen-tablet-recs-large.md	recs			
-recs/pen-tablet-recs-medium.md	recs			
-recs/pen-tablet-recs-small.md	recs			
-recs/scenario-recs/README.md	recs			
-recs/scenario-recs/beginner-recs/README.md	recs			
-recs/scenario-recs/beginner-recs/beginner-pen-display-recs.md	recs			
-recs/scenario-recs/beginner-recs/beginner-pen-tablet-recs.md	recs			
-recs/scenario-recs/beginner-recs/beginner-standalone-recs.md	recs			
-recs/scenario-recs/note-taking-recs.md	recs			
-recs/scenario-recs/osu-recs.md	recs			
-recs/scenario-recs/whiteboarding-recs.md	recs			
-ref/README.md	ref			
-ref/standard-drawtab-sizes.md	ref			
-resources/README.md	resources			
-resources/community/README.md	resources			
-resources/community/discord.md	resources			
-resources/community/koyo.md	resources			
-resources/community/kuuube/README.md	resources			
-resources/community/kuuube/kuuube-drawtab-buying-guide.md	resources			
-resources/community/kuuube/kuuube-wacom-mastersheet.md	resources			
-resources/community/kuuube/kuuube-wacom-pen-compatibility.md	resources			
-resources/community/reddit.md	resources			
-resources/community/tablet-kitten.md	resources			
-resources/community/youtube.md	resources			
-resources/project-patchouli.md	resources			
-resources/sevenpens-force-proportions-simulator.md	resources			
-resources/sevenpens-pen-compatibility-list.md	resources			
-resources/sevenpens-tablet-tester.md	resources			
-resources/sevenpens-wacom-driver-list.md	resources			
-resources/wonkle-tablet.md	resources			
-tech/README.md	tech			
-tech/aes.md	tech			
-tech/apple-pencil-tech.md	tech			
-tech/digital-pen-tech.md	tech			
-tech/display-panel-tech.md	tech			
-tech/emr/README.md	tech			
-tech/emr/active-emr-vs-passive-emr.md	tech			
-tech/emr/diy-emr-pen.md	tech			
-tech/emr/emr-position-detection.md	tech			
-tech/emr/emr-pressure-detection.md	tech			
-tech/emr/emr-technical-resources.md	tech			
-tech/emr/emr-tilt-detection.md	tech			
-tech/ips-display-tech.md	tech			
-tech/mpp.md	tech			
-tech/oled-longevity.md	tech			
-tech/pressure-curve-implement.md	tech			
-tech/usi.md	tech			
-tech/vesa.md	tech			
-tech/wacom-patents.md	tech			
-tech/wacom-ud-emr/README.md	tech			
-tech/wacom-ud-emr/ud-emr-pens.md	tech			
-tech/wacom-ud-emr/ud-emr-tablets.md	tech			
-troubleshoot/README.md	troubleshoot			
-troubleshoot/common-drawing-tsg-steps.md	troubleshoot			
-troubleshoot/common-drawtab-problems.md	troubleshoot			
-troubleshoot/diag-draw-grid.md	troubleshoot			
-troubleshoot/diag-hdmi-from-other-sources.md	troubleshoot			
-troubleshoot/diag-pressure-in-tablet-driver.md	troubleshoot			
-troubleshoot/diag-reset-drawtab.md	troubleshoot			
-troubleshoot/diag-tablet-driver-diagnostics.md	troubleshoot			
-troubleshoot/diag-windows-pnp-tablet-drivers.md	troubleshoot			
-troubleshoot/diag-windows-pnputil.md	troubleshoot			
-troubleshoot/tsg-diamond-pointer-on-windows.md	troubleshoot			
-troubleshoot/tsg-display-black-bars.md	troubleshoot			
-troubleshoot/tsg-display-detection.md	troubleshoot			
-troubleshoot/tsg-display-vertical-lines.md	troubleshoot			
-troubleshoot/tsg-dots-at-start-of-strokes.md	troubleshoot			
-troubleshoot/tsg-drawing-problems.md	troubleshoot			
-troubleshoot/tsg-drawtab-detected-as-keyboard.md	troubleshoot			
-troubleshoot/tsg-driver-drops-drawtab-support.md	troubleshoot			
-troubleshoot/tsg-hard-to-reach-max-pressure.md	troubleshoot			
-troubleshoot/tsg-multiple-pointers.md	troubleshoot			
-troubleshoot/tsg-no-pressure-while-drawing.md	troubleshoot			
-troubleshoot/tsg-no-signal.md	troubleshoot			
-troubleshoot/tsg-no-sound.md	troubleshoot			
-troubleshoot/tsg-not-enough-hdmi-ports.md	troubleshoot			
-troubleshoot/tsg-pen-acts-as-mouse.md	troubleshoot			
-troubleshoot/tsg-pen-display-always-shows-info-box.md	troubleshoot			
-troubleshoot/tsg-pen-display-does-not-support-video-signal-format.md	troubleshoot			
-troubleshoot/tsg-pen-display-doesnt-show-anything.md	troubleshoot			
-troubleshoot/tsg-pen-display-flashing-colors.md	troubleshoot			
-troubleshoot/tsg-pen-display-insects.md	troubleshoot			
-troubleshoot/tsg-pen-display-power-saving.md	troubleshoot			
-troubleshoot/tsg-pen-display-shows-nothing.md	troubleshoot			
-troubleshoot/tsg-pen-display-turns-on-and-off.md	troubleshoot			
-troubleshoot/tsg-pen-draws-while-hovering.md	troubleshoot			
-troubleshoot/tsg-pentab-weird-feeling.md	troubleshoot			
-troubleshoot/tsg-pixel-noise-on-display.md	troubleshoot			
-troubleshoot/tsg-pointer-does-not-follow-pen.md	troubleshoot			
-troubleshoot/tsg-pointer-on-wrong-display.md	troubleshoot			
-troubleshoot/tsg-pointer-stuck-in-corner.md	troubleshoot			
-troubleshoot/tsg-replace-lost-tablet-cable.md	troubleshoot			
-troubleshoot/tsg-shoelaces-at-end-of-strokes.md	troubleshoot			
-troubleshoot/tsg-skipping-bands.md	troubleshoot			
-troubleshoot/tsg-strokes-delay-at-start.md	troubleshoot			
-troubleshoot/tsg-strokes-distorted.md	troubleshoot			
-troubleshoot/tsg-strokes-dots-at-end.md	troubleshoot			
-troubleshoot/tsg-strokes-hooks-at-start.md	troubleshoot			
-troubleshoot/tsg-strokes-quality-at-low-pressure.md	troubleshoot			
-troubleshoot/tsg-strokes-random-gaps.md	troubleshoot			
-troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md	troubleshoot			
-troubleshoot/tsg-tablet-driver-too-much-memory.md	troubleshoot			
-troubleshoot/tsg-touch-on-wrong-display-windows.md	troubleshoot			
-troubleshoot/tsg-wifi-and-internet-problems.md	troubleshoot			
+path	section	visitors_3mo	priority	last_revised	notes
+README.md	(root)	3734	high		
+about/README.md	about	1835	high		
+about/inventory.md	about	394	medium		
+apps/README.md	apps	6090	high		
+apps/apps-for-android.md	apps	293	medium		
+apps/apps-for-beginners.md	apps	1667	high		
+apps/apps-for-ipad.md	apps	262	medium		
+apps/bundled-software.md	apps	1	low		
+apps/list-of-apps.md	apps	2367	high		
+apps/recommended-apps.md	apps	1486	high		
+apps/tips/README.md	apps	145	low		
+apps/tips/canvas-on-another-display.md	apps	168	low		
+basics/README.md	basics	1086	high		
+basics/app-compat.md	basics	492	medium		
+basics/beginners-guide.md	basics	2615	high		
+basics/drawing-experience.md	basics	311	medium		
+basics/drawtab-types/README.md	basics	978	medium		
+basics/drawtab-types/intro-2-in-1-laptops.md	basics	113	low		
+basics/drawtab-types/intro-mobile-devices.md	basics	181	low		
+basics/drawtab-types/intro-pen-computers.md	basics	152	low		
+basics/drawtab-types/intro-pen-displays.md	basics	239	medium		
+basics/drawtab-types/intro-pen-tablets.md	basics	299	medium		
+basics/drawtabs-vs-mice.md	basics	381	medium		
+basics/getting-started.md	basics	753	medium		
+basics/learning-digital-art.md	basics	804	medium		
+basics/learning-drawtabs.md	basics	311	medium		
+basics/scenarios/3d-workflows.md	basics	176	low		
+basics/scenarios/README.md	basics	221	low		
+basics/scenarios/edu-vids.md	basics	159	low		
+basics/scenarios/gaming.md	basics	483	medium		
+basics/scenarios/replacing-mouse.md	basics	497	medium		
+basics/scenarios/taking-notes.md	basics	379	medium		
+basics/scenarios/whiteboarding.md	basics	88	low		
+basics/support.md	basics	84	low		
+brands/README.md	brands	3021	high		
+brands/choosing-drawtab-brand.md	brands	774	medium		
+brands/drawtab-brands-vs-digitizers.md	brands	274	medium		
+brands/huion-and-xppen.md	brands	1163	high		
+brands/wacom.md	brands	542	medium		
+brands/xencelabs.md	brands	301	medium		
+buying/README.md	buying	7586	high		
+buying/buying-tips.md	buying	1053	medium		
+buying/choosing-pendisplay-resolution.md	buying	125	low		
+buying/choosing-size.md	buying	2174	high		
+buying/gifting-drawtabs.md	buying	379	medium		
+buying/how-many-pressure-levels.md	buying	390	medium		
+buying/inspecting-drawtab.md	buying	299	medium		
+buying/pen-computer-alternatives.md	buying	421	medium		
+buying/pen-computers-bad.md	buying	889	medium		
+buying/pen-computers-vs-pen-enabled-laptops.md	buying	170	low		
+buying/pen-tablets-vs-pen-displays.md	buying	1832	high		
+buying/pro-drawtabs.md	buying	606	medium		
+buying/simulating-size.md	buying	437	medium		
+buying/switch-brands/README.md	buying	289	medium		
+buying/switch-brands/switch-ipad-to-drawtab.md	buying	117	low		
+buying/switch-pentab-to-pendisplay.md	buying	281	medium		
+buying/used-drawtabs.md	buying	1098	high		
+catalog/README.md	catalog	545	medium		
+catalog/accessories/README.md	catalog	228	low		
+catalog/accessories/arms/README.md	catalog	1075	high		
+catalog/accessories/arms/ergotron-monitor-arms.md	catalog	204	low		
+catalog/accessories/auxiliary-input-devices/8bitdo-controller.md	catalog	35	low		
+catalog/accessories/auxiliary-input-devices/README.md	catalog	157	low		
+catalog/accessories/auxiliary-input-devices/clip-studio-tabmate.md	catalog	39	low		
+catalog/accessories/auxiliary-input-devices/huion-keydial.md	catalog	38	low		
+catalog/accessories/auxiliary-input-devices/tourbox/README.md	catalog	68	low		
+catalog/accessories/auxiliary-input-devices/tourbox/tourbox-notes.md	catalog	80	low		
+catalog/accessories/auxiliary-input-devices/xencelabs-quick-keys.md	catalog	24	low		
+catalog/accessories/auxiliary-input-devices/xppen-shortcut-remote.md	catalog	37	low		
+catalog/accessories/cable-adapters.md	catalog	69	low		
+catalog/accessories/cables/README.md	catalog	136	low		
+catalog/accessories/cables/cablematters-thunderbolt-3-cable.md	catalog	186	low		
+catalog/accessories/custom-screen-protectors.md	catalog	34	low		
+catalog/accessories/docks-and-hubs/README.md	catalog	33	low		
+catalog/accessories/docks-and-hubs/caldigit/README.md	catalog	23	low		
+catalog/accessories/docks-and-hubs/caldigit/caldigit-ts4-thunderbolt-dock.md	catalog	15	low		
+catalog/accessories/docks-and-hubs/caldigit/caldigit-usbc-to-hdmi-2.1-adapter.md	catalog	11	low		
+catalog/accessories/docks-and-hubs/wacom-ack45219z-notes.md	catalog	27	low		
+catalog/accessories/drawing-gloves.md	catalog	156	low		
+catalog/accessories/drawtab-mice.md	catalog	42	low		
+catalog/accessories/extension-cables.md	catalog	211	low		
+catalog/accessories/keyboards.md	catalog	57	low		
+catalog/accessories/pen-cases.md	catalog	42	low		
+catalog/accessories/pen-grips/README.md	catalog	182	low		
+catalog/accessories/pen-grips/hagurumado-grips.md	catalog	87	low		
+catalog/accessories/screen-cleaning-sprays.md	catalog	119	low		
+catalog/accessories/stands/README.md	catalog	312	medium		
+catalog/accessories/stands/huion-st100-stand.md	catalog	43	low		
+catalog/accessories/stands/ipad-stands.md	catalog	25	low		
+catalog/accessories/stands/parblo-pr-100-stand.md	catalog	23	low		
+catalog/accessories/stands/vivo-v100r.md	catalog	190	low		
+catalog/accessories/stands/xencelabs-mobile-easel.md	catalog	12	low		
+catalog/accessories/stands/xoot-stand.md	catalog	27	low		
+catalog/accessories/stands/xppen-ac41-ac420-stands.md	catalog	31	low		
+catalog/accessories/stands/xppen-acs15.md	catalog	36	low		
+catalog/accessories/surface-protectors/screen-protectors/README.md	catalog	633	medium		
+catalog/accessories/surface-protectors/screen-protectors/paperlike-for-ipads.md	catalog	35	low		
+catalog/accessories/surface-protectors/screen-protectors/photodon-screen-protectors.md	catalog	115	low		
+catalog/accessories/surface-protectors/screen-protectors/screen-protectors-for-ipads.md	catalog	34	low		
+catalog/accessories/surface-protectors/surface-protectors/README.md	catalog	513	medium		
+catalog/accessories/surface-protectors/surface-protectors/eplastic-sheets.md	catalog	75	low		
+catalog/accessories/surface-protectors/surface-protectors/foxbox-covers.md	catalog	113	low		
+catalog/accessories/surface-protectors/surface-protectors/wacom-texture-sheets.md	catalog	131	low		
+catalog/accessories/tablet-cases.md	catalog	220	low		
+catalog/apps/README.md	catalog	136	low		
+catalog/apps/adobe-photoshop.md	catalog	95	low		
+catalog/apps/affinity.md	catalog	584	medium		
+catalog/apps/autodesk-maya.md	catalog	24	low		
+catalog/apps/blender.md	catalog	51	low		
+catalog/apps/ciallo.md	catalog	133	low		
+catalog/apps/clip-studio-paint/README.md	catalog	955	medium		
+catalog/apps/clip-studio-paint/tip-csp-pen-eraser.md	catalog	3	low		
+catalog/apps/concepts-app.md	catalog	547	medium		
+catalog/apps/expresii.md	catalog	60	low		
+catalog/apps/feather-3d.md	catalog	28	low		
+catalog/apps/fireaplaca.md	catalog	73	low		
+catalog/apps/freeform.md	catalog	24	low		
+catalog/apps/fresco.md	catalog	404	medium		
+catalog/apps/heavypaint.md	catalog	50	low		
+catalog/apps/hipaint.md	catalog	223	low		
+catalog/apps/ibis-paint.md	catalog	179	low		
+catalog/apps/infinite-painter.md	catalog	180	low		
+catalog/apps/inkscape.md	catalog	62	low		
+catalog/apps/kleki.md	catalog	177	low		
+catalog/apps/krita.md	catalog	995	medium		
+catalog/apps/leonardo.md	catalog	51	low		
+catalog/apps/medibang-pro.md	catalog	20	low		
+catalog/apps/medibang.md	catalog	79	low		
+catalog/apps/microsoft-onenote.md	catalog	12	low		
+catalog/apps/microsoft-paint.md	catalog	53	low		
+catalog/apps/microsoft-powerpoint.md	catalog	17	low		
+catalog/apps/microsoft-whiteboard.md	catalog	6	low		
+catalog/apps/mypaint.md	catalog	54	low		
+catalog/apps/painter.md	catalog	33	low		
+catalog/apps/paintstorm-studio.md	catalog	34	low		
+catalog/apps/painttool-sai.md	catalog	70	low		
+catalog/apps/photoshop.md	catalog	29	low		
+catalog/apps/pixieditor.md	catalog	24	low		
+catalog/apps/procreate.md	catalog	236	medium		
+catalog/apps/rebelle.md	catalog	42	low		
+catalog/apps/samsung-notes.md	catalog	22	low		
+catalog/apps/stylusx.md	catalog	62	low		
+catalog/apps/wacom-canvas.md	catalog	32	low		
+catalog/apps/wacom-instant-pen-display.md	catalog	52	low		
+catalog/apps/wacom-preference-file-utility.md	catalog	12	low		
+catalog/apps/zoomit.md	catalog	16	low		
+catalog/computers/README.md	catalog	77	low		
+catalog/computers/apple/README.md	catalog	18	low		
+catalog/computers/apple/apple-m3-macbook-pro.md	catalog	35	low		
+catalog/computers/microsoft/README.md	catalog	23	low		
+catalog/computers/microsoft/microsoft-surface-pro-9/README.md	catalog	90	low		
+catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-7-notes.md	catalog	21	low		
+catalog/computers/microsoft/microsoft-surface-pro-9/microsoft-surface-pro-8-notes.md	catalog	67	low		
+catalog/computers/minisforum/README.md	catalog	20	low		
+catalog/computers/minisforum/minisforum-neptune-hx99g-notes.md	catalog	46	low		
+catalog/computers/minisforum/minisforum-um870-slim-notes.md	catalog	38	low		
+catalog/computers/samsung/README.md	catalog	21	low		
+catalog/computers/samsung/samsung-galaxy-book-360.md	catalog	85	low		
+catalog/drawtabs/README.md	catalog	782	medium		
+catalog/drawtabs/apple/README.md	catalog	135	low		
+catalog/drawtabs/apple/apple-ipad-notes.md	catalog	414	medium		
+catalog/drawtabs/apple/apple-ipad-vs-samsung-tab-s.md	catalog	621	medium		
+catalog/drawtabs/apple/apple-ipad.md	catalog	94	low		
+catalog/drawtabs/apple/ipad-as-pen-display.md	catalog	52	low		
+catalog/drawtabs/apple/ipad-vs-drawtab.md	catalog	524	medium		
+catalog/drawtabs/artisul.md	catalog	47	low		
+catalog/drawtabs/asus/README.md	catalog	59	low		
+catalog/drawtabs/asus/asus-pro-art-pen-display.md	catalog	47	low		
+catalog/drawtabs/dell/README.md	catalog	36	low		
+catalog/drawtabs/dell/dell-canvas-27.md	catalog	31	low		
+catalog/drawtabs/digidraw/README.md	catalog	58	low		
+catalog/drawtabs/digidraw/digidraw-t610-notes.md	catalog	57	low		
+catalog/drawtabs/gaomon/README.md	catalog	102	low		
+catalog/drawtabs/gaomon/gaomon-pen-displays.md	catalog	64	low		
+catalog/drawtabs/gaomon/gaomon-pen-tablets.md	catalog	97	low		
+catalog/drawtabs/huion/README.md	catalog	471	medium		
+catalog/drawtabs/huion/dial-problems-gs1333-gs1563.md	catalog	254	medium		
+catalog/drawtabs/huion/huion-g930l-notes.md	catalog	235	low		
+catalog/drawtabs/huion/huion-gs1331-notes.md	catalog	201	low		
+catalog/drawtabs/huion/huion-gs1333-notes.md	catalog	1746	high		
+catalog/drawtabs/huion/huion-gs1562-notes.md	catalog	213	low		
+catalog/drawtabs/huion/huion-gs1563-notes.md	catalog	1485	high		
+catalog/drawtabs/huion/huion-gs2202-notes.md	catalog	155	low		
+catalog/drawtabs/huion/huion-gs2203-notes.md	catalog	684	medium		
+catalog/drawtabs/huion/huion-gt1562-notes.md	catalog	122	low		
+catalog/drawtabs/huion/huion-gt156v2-notes.md	catalog	97	low		
+catalog/drawtabs/huion/huion-gt1902-notes.md	catalog	1117	high		
+catalog/drawtabs/huion/huion-gt2401-notes.md	catalog	329	medium		
+catalog/drawtabs/huion/huion-gt2402-notes.md	catalog	132	low		
+catalog/drawtabs/huion/huion-h1061p-notes.md	catalog	980	medium		
+catalog/drawtabs/huion/huion-hs611-notes.md	catalog	319	medium		
+catalog/drawtabs/huion/huion-l610-notes.md	catalog	2023	high		
+catalog/drawtabs/huion/huion-pen-displays.md	catalog	274	medium		
+catalog/drawtabs/huion/huion-pen-tablets.md	catalog	190	low		
+catalog/drawtabs/huion/huion-q630m-notes.md	catalog	84	low		
+catalog/drawtabs/huion/huion-rtp700-notes.md	catalog	135	low		
+catalog/drawtabs/huion/huion-standalone.md	catalog	156	low		
+catalog/drawtabs/huion/huion-wh1409v2-notes.md	catalog	21	low		
+catalog/drawtabs/oneplus/README.md	catalog	38	low		
+catalog/drawtabs/oneplus/oneplus-pad.md	catalog	30	low		
+catalog/drawtabs/samsung/README.md	catalog	83	low		
+catalog/drawtabs/samsung/samsung-galaxy-tab-a-series.md	catalog	134	low		
+catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/README.md	catalog	121	low		
+catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md	catalog	663	medium		
+catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s11ultra-notes.md	catalog	212	low		
+catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s6lite-notes.md	catalog	65	low		
+catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s8ultra-notes.md	catalog	107	low		
+catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s9fe-notes.md	catalog	148	low		
+catalog/drawtabs/ugee.md	catalog	93	low		
+catalog/drawtabs/wacom/README.md	catalog	485	medium		
+catalog/drawtabs/wacom/one-by-wacom/README.md	catalog	155	low		
+catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md	catalog	1177	high		
+catalog/drawtabs/wacom/wacom-bamboo/README.md	catalog	52	low		
+catalog/drawtabs/wacom/wacom-bamboo/wacom-ctl470-notes.md	catalog	31	low		
+catalog/drawtabs/wacom/wacom-cintiq-pro/README.md	catalog	728	medium		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-cintiq-pro-engine-dpm-w1000x.md	catalog	4	low		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth162-notes.md	catalog	43	low		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth167-notes.md	catalog	478	medium		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth172-notes.md	catalog	235	low		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth227-notes.md	catalog	276	medium		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth271-notes.md	catalog	519	medium		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dth3220-notes.md	catalog	10	low		
+catalog/drawtabs/wacom/wacom-cintiq-pro/wacom-dtx2420-notes.md	catalog	64	low		
+catalog/drawtabs/wacom/wacom-cintiq/README.md	catalog	359	medium		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dth246-notes.md	catalog	434	medium		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk1660-notes.md	catalog	97	low		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk168-notes.md	catalog	583	medium		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2100-notes.md	catalog	10	low		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2260-notes.md	catalog	131	low		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dtk2700-notes.md	catalog	24	low		
+catalog/drawtabs/wacom/wacom-cintiq/wacom-dtz2100-notes.md	catalog	19	low		
+catalog/drawtabs/wacom/wacom-consumer-tablets.md	catalog	33	low		
+catalog/drawtabs/wacom/wacom-final-driver-notices.md	catalog	88	low		
+catalog/drawtabs/wacom/wacom-firmware-updates.md	catalog	18	low		
+catalog/drawtabs/wacom/wacom-intuos-pro-2013.md	catalog	176	low		
+catalog/drawtabs/wacom/wacom-intuos-pro-2017/README.md	catalog	134	low		
+catalog/drawtabs/wacom/wacom-intuos-pro-2017/buying-pthx60-in-2026.md	catalog	256	medium		
+catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md	catalog	1123	high		
+catalog/drawtabs/wacom/wacom-intuos-pro-2025/README.md	catalog	194	low		
+catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md	catalog	2341	high		
+catalog/drawtabs/wacom/wacom-intuos/README.md	catalog	502	medium		
+catalog/drawtabs/wacom/wacom-intuos/wacom-ctlx100-notes.md	catalog	348	medium		
+catalog/drawtabs/wacom/wacom-intuos1/README.md	catalog	65	low		
+catalog/drawtabs/wacom/wacom-intuos1/wacom-gdxxxx-notes.md	catalog	17	low		
+catalog/drawtabs/wacom/wacom-intuos2.md	catalog	44	low		
+catalog/drawtabs/wacom/wacom-intuos3/README.md	catalog	81	low		
+catalog/drawtabs/wacom/wacom-intuos3/wacom-ptz1230-notes.md	catalog	3	low		
+catalog/drawtabs/wacom/wacom-intuos4/README.md	catalog	138	low		
+catalog/drawtabs/wacom/wacom-intuos4/wacom-ptk1240-notes.md	catalog	39	low		
+catalog/drawtabs/wacom/wacom-intuos5.md	catalog	177	low		
+catalog/drawtabs/wacom/wacom-intuos5/wacom-pthx50-ptkx50-notes.md	catalog	38	low		
+catalog/drawtabs/wacom/wacom-model-number-format.md	catalog	49	low		
+catalog/drawtabs/wacom/wacom-movink/README.md	catalog	52	low		
+catalog/drawtabs/wacom/wacom-movink/wacom-dth135-notes.md	catalog	785	medium		
+catalog/drawtabs/wacom/wacom-movinkpad/README.md	catalog	47	low		
+catalog/drawtabs/wacom/wacom-movinkpad/wacom-ack45633z-notes.md	catalog	28	low		
+catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md	catalog	544	medium		
+catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha140-notes.md	catalog	1131	high		
+catalog/drawtabs/wacom/wacom-one-vs-one-by-wacom.md	catalog	168	low		
+catalog/drawtabs/wacom/wacom-one/README.md	catalog	119	low		
+catalog/drawtabs/wacom/wacom-one/wacom-ctcx110wl-notes.md	catalog	585	medium		
+catalog/drawtabs/wacom/wacom-one/wacom-dtc133-notes.md	catalog	225	low		
+catalog/drawtabs/wacom/wacom-one/wacom-dtc141-notes.md	catalog	232	low		
+catalog/drawtabs/wacom/wacom-one/wacom-one-2023-pen-displays-notes.md	catalog	174	low		
+catalog/drawtabs/wacom/wacom-pen-tablet-comparison.md	catalog	1171	high		
+catalog/drawtabs/wacom/wacom-sd-tablets/README.md	catalog	52	low		
+catalog/drawtabs/wacom/wacom-sd-tablets/wacom-sd510c-notes.md	catalog	12	low		
+catalog/drawtabs/wacom/wacom-standalone-tablet-landscape.md	catalog	38	low		
+catalog/drawtabs/wacom/wacom-tablet-models.md	catalog	92	low		
+catalog/drawtabs/wacom/wacom-tablet-release-history.md	catalog	678	medium		
+catalog/drawtabs/wacom/wacom-ud-series-notes.md	catalog	46	low		
+catalog/drawtabs/wacom/wacom-wt-series.md	catalog	35	low		
+catalog/drawtabs/xencelabs/README.md	catalog	114	low		
+catalog/drawtabs/xencelabs/xencelabs-bph1212wa-notes.md	catalog	148	low		
+catalog/drawtabs/xencelabs/xencelabs-lph1612ua-notes.md	catalog	70	low		
+catalog/drawtabs/xencelabs/xencelabs-lph2412ua-notes.md	catalog	170	low		
+catalog/drawtabs/xppen/README.md	catalog	557	medium		
+catalog/drawtabs/xppen/xppen-cd120fh-notes.md	catalog	59	low		
+catalog/drawtabs/xppen/xppen-cd121fh-notes.md	catalog	467	medium		
+catalog/drawtabs/xppen/xppen-cd130fh-notes.md	catalog	161	low		
+catalog/drawtabs/xppen/xppen-cd160fh-notes.md	catalog	254	medium		
+catalog/drawtabs/xppen/xppen-deco01v3-notes.md	catalog	1082	high		
+catalog/drawtabs/xppen/xppen-it1060b-notes.md	catalog	784	medium		
+catalog/drawtabs/xppen/xppen-md160qh-notes.md	catalog	1098	high		
+catalog/drawtabs/xppen/xppen-md160uh-notes-1.md	catalog	5	low		
+catalog/drawtabs/xppen/xppen-md160uh-notes.md	catalog	101	low		
+catalog/drawtabs/xppen/xppen-md180uh-notes.md	catalog	252	medium		
+catalog/drawtabs/xppen/xppen-md220fh-notes.md	catalog	160	low		
+catalog/drawtabs/xppen/xppen-md220qh-notes.md	catalog	674	medium		
+catalog/drawtabs/xppen/xppen-md270uh-notes.md	catalog	40	low		
+catalog/drawtabs/xppen/xppen-mdp-2024-notes.md	catalog	31	low		
+catalog/drawtabs/xppen/xppen-mdp1221-notes.md	catalog	491	medium		
+catalog/drawtabs/xppen/xppen-mnp1095-notes.md	catalog	61	low		
+catalog/drawtabs/xppen/xppen-mt1592b-notes.md	catalog	807	medium		
+catalog/drawtabs/xppen/xppen-pen-displays.md	catalog	154	low		
+catalog/drawtabs/xppen/xppen-pen-tablets.md	catalog	153	low		
+catalog/drawtabs/xppen/xppen-standalone.md	catalog	56	low		
+catalog/pens/README.md	catalog	250	medium		
+catalog/pens/apple-pencil/README.md	catalog	60	low		
+catalog/pens/apple-pencil/apple-pencil-notes.md	catalog	137	low		
+catalog/pens/asus/README.md	catalog	19	low		
+catalog/pens/asus/aus-mpa01-notes.md	catalog	24	low		
+catalog/pens/huion-pens/README.md	catalog	177	low		
+catalog/pens/huion-pens/huion-pentech.md	catalog	74	low		
+catalog/pens/huion-pens/huion-pw100-notes.md	catalog	79	low		
+catalog/pens/huion-pens/huion-pw110-notes.md	catalog	70	low		
+catalog/pens/huion-pens/huion-pw500-notes.md	catalog	71	low		
+catalog/pens/huion-pens/huion-pw507-notes.md	catalog	31	low		
+catalog/pens/huion-pens/huion-pw517-notes.md	catalog	88	low		
+catalog/pens/huion-pens/huion-pw550-notes.md	catalog	267	medium		
+catalog/pens/huion-pens/huion-pw600-notes.md	catalog	327	medium		
+catalog/pens/huion-pens/upgrading-pw517-to-pw550.md	catalog	150	low		
+catalog/pens/microsoft-pens/README.md	catalog	13	low		
+catalog/pens/microsoft-pens/surface-slim-pen-2-notes.md	catalog	12	low		
+catalog/pens/samsung-s-pen/README.md	catalog	50	low		
+catalog/pens/samsung-s-pen/samsung-s-pen-notes.md	catalog	153	low		
+catalog/pens/samsung-s-pen/upgrading-to-wacom-cp913.md	catalog	183	low		
+catalog/pens/wacom-pens/README.md	catalog	231	low		
+catalog/pens/wacom-pens/wacom-acp500-notes.md	catalog	422	medium		
+catalog/pens/wacom-pens/wacom-acp500-vs-kp504e.md	catalog	38	low		
+catalog/pens/wacom-pens/wacom-acp500-vs-kp701e.md	catalog	58	low		
+catalog/pens/wacom-pens/wacom-acp700-notes.md	catalog	138	low		
+catalog/pens/wacom-pens/wacom-cp913-notes.md	catalog	203	low		
+catalog/pens/wacom-pens/wacom-cp923-notes.md	catalog	183	low		
+catalog/pens/wacom-pens/wacom-gp300e-notes.md	catalog	37	low		
+catalog/pens/wacom-pens/wacom-kp400e-notes.md	catalog	5	low		
+catalog/pens/wacom-pens/wacom-kp504e-notes.md	catalog	230	low		
+catalog/pens/wacom-pens/wacom-kp701e-notes.md	catalog	41	low		
+catalog/pens/wacom-pens/wacom-lp1100k-notes.md	catalog	109	low		
+catalog/pens/wacom-pens/wacom-lp170-notes.md	catalog	34	low		
+catalog/pens/wacom-pens/wacom-lp190k-notes.md	catalog	146	low		
+catalog/pens/wacom-pens/wacom-pen-compatibility.md	catalog	551	medium		
+catalog/pens/wacom-pens/wacom-pro-pen-1-kp-503e.md	catalog	42	low		
+catalog/pens/wacom-pens/wacom-stroke-nib.md	catalog	30	low		
+catalog/pens/wacom-pens/wacom-xp400e-notes.md	catalog	23	low		
+catalog/pens/wacom-pens/wacom-xp501e-notes.md	catalog	37	low		
+catalog/pens/wacom-pens/wacom-zp501e-notes.md	catalog	33	low		
+catalog/pens/wacom-pens/wacom-zp600-notes.md	catalog	28	low		
+catalog/pens/xencelabs-pens/README.md	catalog	24	low		
+catalog/pens/xencelabs-pens/xencelabs-v1-pens-notes.md	catalog	16	low		
+catalog/pens/xencelabs-pens/xencelabs-v2-pens-notes.md	catalog	66	low		
+catalog/pens/xppen-pens/README.md	catalog	180	low		
+catalog/pens/xppen-pens/xppen-p05-notes.md	catalog	329	medium		
+catalog/pens/xppen-pens/xppen-x3elitepen-notes.md	catalog	200	low		
+catalog/pens/xppen-pens/xppen-x3propen-notes.md	catalog	284	medium		
+catalog/pens/xppen-pens/xppen-x4pen-notes.md	catalog	110	low		
+core/README.md	core	583	medium		
+core/active-area/README.md	core	172	low		
+core/active-area/absolute-versus-relative-positioning.md	core	186	low		
+core/active-area/active-area-aspect-ratio.md	core	132	low		
+core/active-area/active-area-mapping.md	core	56	low		
+core/active-area/active-area-size.md	core	70	low		
+core/active-area/display-toggle.md	core	63	low		
+core/active-area/mouse-mode.md	core	199	low		
+core/barrel-rotation.md	core	279	medium		
+core/bezel.md	core	72	low		
+core/diagonal-wobble.md	core	466	medium		
+core/digitizer-resolution-density.md	core	78	low		
+core/erasing.md	core	101	low		
+core/expresskeys/README.md	core	210	low		
+core/expresskeys/popular-bindings.md	core	153	low		
+core/hover/README.md	core	218	low		
+core/hover/hover-jitter.md	core	95	low		
+core/lag.md	core	139	low		
+core/nib-material.md	core	179	low		
+core/nib-travel.md	core	86	low		
+core/pointer-lag.md	core	193	low		
+core/power/README.md	core	46	low		
+core/power/power-delivery.md	core	23	low		
+core/power/powering-drawtabs.md	core	73	low		
+core/power/powering-pen.md	core	44	low		
+core/pressure/README.md	core	423	medium		
+core/pressure/disable-pen-pressure.md	core	104	low		
+core/pressure/drawing-low-pressure.md	core	119	low		
+core/pressure/iaf.md	core	537	medium		
+core/pressure/maximum-physical-pressure.md	core	15	low		
+core/pressure/pen-pressure-levels.md	core	99	low		
+core/pressure/pen-pressure-response.md	core	160	low		
+core/pressure/pressure-banding.md	core	28	low		
+core/pressure/pressure-curves/README.md	core	56	low		
+core/pressure/pressure-curves/pressure-curve-constrain-input.md	core	44	low		
+core/pressure/pressure-curves/pressure-curve-constrain-output.md	core	40	low		
+core/pressure/pressure-curves/pressure-curve-deadzone.md	core	78	low		
+core/pressure/pressure-curves/pressure-curve-in-app.md	core	44	low		
+core/pressure/pressure-curves/pressure-curve-in-driver.md	core	43	low		
+core/pressure/pressure-curves/pressure-curve-misc.md	core	12	low		
+core/pressure/pressure-curves/pressure-curve-null.md	core	51	low		
+core/pressure/tilt-affects-pressure.md	core	64	low		
+core/pwm-flicker.md	core	53	low		
+core/surface-texture.md	core	256	medium		
+core/tilt/README.md	core	124	low		
+core/tilt/tilt-compensation.md	core	33	low		
+core/tracking.md	core	88	low		
+faq.md	(root)	359	medium		
+guides/README.md	guides	804	medium		
+guides/advanced/README.md	guides	129	low		
+guides/advanced/firmware.md	guides	64	low		
+guides/advanced/tablet-reports.md	guides	336	medium		
+guides/computers-for-digital-art/README.md	guides	116	low		
+guides/computers-for-digital-art/mini-pcs.md	guides	138	low		
+guides/connecting/3rd-party-cables-for-drawtab/README.md	guides	527	medium		
+guides/connecting/3rd-party-cables-for-drawtab/my-cables-for-pen-tablets.md	guides	85	low		
+guides/connecting/README.md	guides	130	low		
+guides/connecting/connecting-pen-display/README.md	guides	288	medium		
+guides/connecting/connecting-pen-display/connecting-pen-display-gpu-usbc.md	guides	25	low		
+guides/connecting/connecting-pen-display/connecting-pen-display-hdmi.md	guides	130	low		
+guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md	guides	852	medium		
+guides/connecting/connecting-pen-display/connecting-with-a-3-in-1-cable.md	guides	102	low		
+guides/connecting/connecting-pen-display/motherboard-vs-gpu-hdmi.md	guides	340	medium		
+guides/connecting/connecting-pen-display/pen-display-with-mobile-device.md	guides	41	low		
+guides/connecting/connecting-pen-tablet/README.md	guides	43	low		
+guides/connecting/connecting-pen-tablet/connecting-with-serial-cable.md	guides	25	low		
+guides/connecting/connecting-pen-tablet/wireless-connection.md	guides	22	low		
+guides/connecting/connecting-pen-to-drawtab.md	guides	220	low		
+guides/connecting/recessed-usbc-ports.md	guides	60	low		
+guides/customizing/README.md	guides	176	low		
+guides/customizing/calibrate-pen-position.md	guides	87	low		
+guides/customizing/calibrating-color.md	guides	13	low		
+guides/customizing/calibrating-pressure.md	guides	16	low		
+guides/customizing/calibrating.md	guides	17	low		
+guides/customizing/clamping-to-srgb.md	guides	121	low		
+guides/customizing/controlling-pen-tip-behavior.md	guides	234	low		
+guides/customizing/disable-tilt.md	guides	21	low		
+guides/customizing/force-proportions.md	guides	1254	high		
+guides/customizing/lowering-iaf.md	guides	139	low		
+guides/customizing/lowering-max-physical-pressure.md	guides	87	low		
+guides/customizing/map-active-area-to-display.md	guides	24	low		
+guides/customizing/matching-colors-across-displays.md	guides	3	low		
+guides/customizing/metal-nibs.md	guides	203	low		
+guides/customizing/mirroring-or-extending.md	guides	196	low		
+guides/customizing/paper-texture.md	guides	93	low		
+guides/customizing/pen-display-as-monitor.md	guides	384	medium		
+guides/customizing/pen-display-as-pen-tablet.md	guides	128	low		
+guides/customizing/pen-tablets-with-ultrawide-monitors.md	guides	173	low		
+guides/customizing/precision-mode.md	guides	75	low		
+guides/customizing/pressure-smoothing.md	guides	7	low		
+guides/customizing/raising-iaf.md	guides	17	low		
+guides/customizing/replace-usb-port.md	guides	55	low		
+guides/customizing/shrinking-active-area.md	guides	119	low		
+guides/customizing/using-barrel-rotation.md	guides	111	low		
+guides/customizing/using-tilt.md	guides	13	low		
+guides/drawing/README.md	guides	210	low		
+guides/drawing/brush-engine.md	guides	81	low		
+guides/drawing/configure-smoothing-in-apps.md	guides	86	low		
+guides/drawing/drawing-smooth-strokes.md	guides	194	low		
+guides/drawing/enable-tilt-for-brushes.md	guides	375	medium		
+guides/drivers/README.md	guides	306	medium		
+guides/drivers/drawtab-without-installing-drivers.md	guides	356	medium		
+guides/drivers/finding-the-driver-settings-ui.md	guides	69	low		
+guides/drivers/import-export-tablet-driver-config.md	guides	58	low		
+guides/drivers/multiple-tablet-drivers.md	guides	150	low		
+guides/drivers/older-tablet-drivers.md	guides	126	low		
+guides/drivers/older-wacom-drivers.md	guides	901	medium		
+guides/drivers/opentabletdriver/README.md	guides	1457	high		
+guides/drivers/opentabletdriver/otd-app-data-directory.md	guides	41	low		
+guides/drivers/opentabletdriver/otd-export-diagnostics.md	guides	24	low		
+guides/drivers/opentabletdriver/otd-macos-install.md	guides	343	medium		
+guides/drivers/opentabletdriver/otd-notes.md	guides	490	medium		
+guides/drivers/opentabletdriver/otd-plugin-slimyscylla.md	guides	227	low		
+guides/drivers/opentabletdriver/otd-smoothing.md	guides	251	medium		
+guides/drivers/opentabletdriver/otd-start-automatically.md	guides	9	low		
+guides/drivers/opentabletdriver/otd-tablet-buttons.md	guides	18	low		
+guides/drivers/opentabletdriver/otd-uninstall.md	guides	9	low		
+guides/drivers/opentabletdriver/otd-vs-manufacturer-drivers.md	guides	78	low		
+guides/drivers/opentabletdriver/otd-windows-install.md	guides	1788	high		
+guides/drivers/opentabletdriver/pressure-curves-in-otd.md	guides	483	medium		
+guides/drivers/tablet-driver-cleanup-tool.md	guides	683	medium		
+guides/drivers/tabletmagic.md	guides	58	low		
+guides/drivers/uninstalling-tablet-drivers.md	guides	221	low		
+guides/ergonomics/README.md	guides	128	low		
+guides/ergonomics/drawtab-on-lap.md	guides	84	low		
+guides/ergonomics/drawtabs-in-bed.md	guides	126	low		
+guides/ergonomics/handedness.md	guides	117	low		
+guides/ergonomics/heat.md	guides	124	low		
+guides/ergonomics/noise.md	guides	139	low		
+guides/ergonomics/orientation.md	guides	94	low		
+guides/ergonomics/posture.md	guides	256	medium		
+guides/ergonomics/rotating-drawtab.md	guides	244	medium		
+guides/general/README.md	guides	107	low		
+guides/general/connecting-multiple-drawtabs.md	guides	215	low		
+guides/general/electromagnetic-interference.md	guides	158	low		
+guides/general/extra-large-pen-tablets.md	guides	59	low		
+guides/general/finding-pen-model-number.md	guides	14	low		
+guides/general/finding-tablet-model-number.md	guides	169	low		
+guides/general/large-pen-tablets.md	guides	286	medium		
+guides/general/model-names-vs-model-numbers.md	guides	95	low		
+guides/general/older-drawtabs.md	guides	589	medium		
+guides/general/pen-tablet-monitor-size.md	guides	337	medium		
+guides/general/total-cost-of-ownership-tco.md	guides	125	low		
+guides/general/transferring-files.md	guides	39	low		
+guides/laptops-for-digital-art.md	guides	318	medium		
+guides/maintain/README.md	guides	363	medium		
+guides/maintain/avoid-dropping-pen.md	guides	110	low		
+guides/maintain/cleaning-drawtabs.md	guides	552	medium		
+guides/maintain/dealing-with-water-damage.md	guides	208	low		
+guides/maintain/etched-glass.md	guides	36	low		
+guides/maintain/false-scratches.md	guides	98	low		
+guides/maintain/nib-wear.md	guides	730	medium		
+guides/maintain/removing-broken-nib.md	guides	104	low		
+guides/maintain/removing-nib.md	guides	132	low		
+guides/maintain/removing-replacing-screen-protector.md	guides	86	low		
+guides/maintain/replacing-nib.md	guides	55	low		
+guides/maintain/replacing-pen.md	guides	62	low		
+guides/maintain/retrobrighting.md	guides	55	low		
+guides/maintain/scratches-pen-tablets.md	guides	98	low		
+guides/maintain/storing-pen.md	guides	132	low		
+guides/maintain/surface-wear-pen-displays.md	guides	121	low		
+guides/maintain/surface-wear-pen-tablets.md	guides	313	medium		
+guides/maintain/texture-erosion-pen-tablets.md	guides	141	low		
+guides/maintain/transporting-drawtab.md	guides	77	low		
+guides/pen-displays/README.md	guides	260	medium		
+guides/pen-displays/ag-sparkle.md	guides	413	medium		
+guides/pen-displays/android-tablet-as-pen-display.md	guides	91	low		
+guides/pen-displays/anti-glare-film.md	guides	31	low		
+guides/pen-displays/brightness.md	guides	37	low		
+guides/pen-displays/color-tint-on-edges.md	guides	195	low		
+guides/pen-displays/dead-pixels.md	guides	82	low		
+guides/pen-displays/display-connector-types.md	guides	112	low		
+guides/pen-displays/display-resolution.md	guides	100	low		
+guides/pen-displays/etched-glass-vs-film.md	guides	68	low		
+guides/pen-displays/etched-glass.md	guides	60	low		
+guides/pen-displays/hdmi-adapters/README.md	guides	203	low		
+guides/pen-displays/hdmi-adapters/dp-to-hdmi-adapters.md	guides	106	low		
+guides/pen-displays/hdmi-adapters/dvi-to-hdmi-adapters.md	guides	21	low		
+guides/pen-displays/hdmi-adapters/usbc-to-hdmi-adapters.md	guides	25	low		
+guides/pen-displays/hdmi-adapters/vga-to-hdmi-adapters.md	guides	11	low		
+guides/pen-displays/hdmi-splitters.md	guides	196	low		
+guides/pen-displays/lamination.md	guides	71	low		
+guides/pen-displays/parallax.md	guides	160	low		
+guides/pen-displays/reducing-ag-sparkle.md	guides	49	low		
+guides/pen-displays/refresh-rate.md	guides	121	low		
+guides/pen-displays/usbc-dp-alt-mode.md	guides	237	medium		
+guides/pens/README.md	guides	210	low		
+guides/pens/pen-buttons.md	guides	108	low		
+guides/pens/pen-compatibility.md	guides	262	medium		
+guides/pens/pen-teardown-huion-pen80.md	guides	97	low		
+guides/pens/pen-weight-comparison.md	guides	77	low		
+guides/pens/pen-weight.md	guides	421	medium		
+guides/platforms/README.md	guides	125	low		
+guides/platforms/android/README.md	guides	27	low		
+guides/platforms/android/drawtab-android-compat-testing.md	guides	109	low		
+guides/platforms/android/using-drawtabs-with-android.md	guides	619	medium		
+guides/platforms/chromeos/README.md	guides	9	low		
+guides/platforms/chromeos/chromebook-testing-results.md	guides	14	low		
+guides/platforms/chromeos/drawtabs-with-chromeos.md	guides	121	low		
+guides/platforms/ios-and-ipados/README.md	guides	20	low		
+guides/platforms/ios-and-ipados/drawtabs-with-ios.md	guides	947	medium		
+guides/platforms/linux.md	guides	204	low		
+guides/platforms/macos/README.md	guides	14	low		
+guides/platforms/macos/display-resolution.md	guides	41	low		
+guides/platforms/macos/using-drawtabs-with-macos.md	guides	10	low		
+guides/platforms/windows/README.md	guides	28	low		
+guides/platforms/windows/disable-display.md	guides	29	low		
+guides/platforms/windows/disable-press-hold-ring.md	guides	290	medium		
+guides/platforms/windows/disable-ripple-effect-rings-in-windows.md	guides	85	low		
+guides/platforms/windows/using-drawtabs-with-windows.md	guides	38	low		
+guides/platforms/windows/windows-7-tablet-pc-features/README.md	guides	16	low		
+guides/platforms/windows/windows-7-tablet-pc-features/disable-tablet-pc-features-on-windows-7.md	guides	57	low		
+guides/platforms/windows/windows-7-tablet-pc-features/fixmypen-tool.md	guides	97	low		
+guides/platforms/windows/windows-on-arm.md	guides	121	low		
+guides/platforms/windows/windows-pen-and-touch-control-panel.md	guides	16	low		
+guides/platforms/windows/windows-pen-and-windows-ink-settings.md	guides	9	low		
+guides/platforms/windows/windows-pnp-compat-testing.md	guides	99	low		
+guides/platforms/windows/windows-pnp-support.md	guides	193	low		
+guides/platforms/windows/windows-tablet-pc-settings.md	guides	8	low		
+guides/platforms/windows/winink/README.md	guides	391	medium		
+guides/platforms/windows/winink/winink-config-apps.md	guides	815	medium		
+guides/platforms/windows/winink/winink-config-driver.md	guides	1165	high		
+guides/platforms/windows/winink/winink-history.md	guides	20	low		
+guides/platforms/windows/winink/winink-photoshop.md	guides	368	medium		
+guides/selling-drawtab.md	guides	143	low		
+guides/touch/README.md	guides	258	medium		
+guides/touch/drawtabs-with-touch.md	guides	162	low		
+misc/README.md	misc	176	low		
+misc/circuit-simulations.md	misc	46	low		
+misc/deprecated/README.md	misc	25	low		
+misc/drawtab-history/README.md	misc	42	low		
+misc/drawtab-history/appendix-other-histories.md	misc	10	low		
+misc/drawtab-history/appendix-references.md	misc	7	low		
+misc/drawtab-history/appendix-timeline.md	misc	31	low		
+misc/drawtab-history/chapter-1-antiquity.md	misc	35	low		
+misc/drawtab-history/chapter-2-terms.md	misc	33	low		
+misc/drawtab-history/koalapad.md	misc	11	low		
+misc/drawtab-history/preface.md	misc	21	low		
+misc/surface-protectors-obsolete.md	misc	671	medium		
+process/README.md	process	199	low		
+process/diagonal-wobble-data.md	process	52	low		
+process/magnet-field-detection.md	process	15	low		
+process/measuring/README.md	process	20	low		
+process/measuring/measuring-diagonal-wobble.md	process	31	low		
+process/measuring/measuring-display-sharpness.md	process	13	low		
+process/measuring/measuring-hover.md	process	30	low		
+process/measuring/measuring-pressure-banding.md	process	38	low		
+process/measuring/measuring-pressure.md	process	24	low		
+process/measuring/measuring-pwm-flicker.md	process	31	low		
+process/measuring/measuring-report-rate.md	process	50	low		
+process/microscope.md	process	20	low		
+process/perfect-pressure-strokes.md	process	28	low		
+process/pressure-range-data.md	process	15	low		
+process/tablet-evaluation.md	process	27	low		
+process/testing-drawing-experience.md	process	13	low		
+process/testing-usbc-cables.md	process	28	low		
+recs/2-in-1-laptop-recs.md	recs	834	medium		
+recs/README.md	recs	9544	high		
+recs/comparisons/2023-13inch-pen-displays-compared.md	recs	381	medium		
+recs/comparisons/2024-22inch-pen-displays-compared.md	recs	143	low		
+recs/comparisons/2024-drawtab-tier-list.md	recs	232	low		
+recs/comparisons/2024-large-pen-tablets-compared.md	recs	149	low		
+recs/comparisons/2025-drawtab-tier-list.md	recs	1344	high		
+recs/comparisons/2025-pro-pens-compared.md	recs	534	medium		
+recs/comparisons/README.md	recs	594	medium		
+recs/mobile-device-recs.md	recs	2869	high		
+recs/pen-computer-recs.md	recs	1107	high		
+recs/pen-display-recs-large.md	recs	2052	high		
+recs/pen-display-recs-medium.md	recs	3651	high		
+recs/pen-display-recs-small.md	recs	2538	high		
+recs/pen-tablet-recs-large.md	recs	2091	high		
+recs/pen-tablet-recs-medium.md	recs	4708	high		
+recs/pen-tablet-recs-small.md	recs	2262	high		
+recs/scenario-recs/README.md	recs	519	medium		
+recs/scenario-recs/beginner-recs/README.md	recs	2810	high		
+recs/scenario-recs/beginner-recs/beginner-pen-display-recs.md	recs	836	medium		
+recs/scenario-recs/beginner-recs/beginner-pen-tablet-recs.md	recs	1673	high		
+recs/scenario-recs/beginner-recs/beginner-standalone-recs.md	recs	406	medium		
+recs/scenario-recs/note-taking-recs.md	recs	164	low		
+recs/scenario-recs/osu-recs.md	recs	1062	high		
+recs/scenario-recs/whiteboarding-recs.md	recs	154	low		
+ref/README.md	ref	149	low		
+ref/standard-drawtab-sizes.md	ref	75	low		
+resources/README.md	resources	354	medium		
+resources/community/README.md	resources	79	low		
+resources/community/discord.md	resources	81	low		
+resources/community/koyo.md	resources	16	low		
+resources/community/kuuube/README.md	resources	42	low		
+resources/community/kuuube/kuuube-drawtab-buying-guide.md	resources	452	medium		
+resources/community/kuuube/kuuube-wacom-mastersheet.md	resources	83	low		
+resources/community/kuuube/kuuube-wacom-pen-compatibility.md	resources	15	low		
+resources/community/reddit.md	resources	35	low		
+resources/community/tablet-kitten.md	resources	33	low		
+resources/community/youtube.md	resources	16	low		
+resources/project-patchouli.md	resources	110	low		
+resources/sevenpens-force-proportions-simulator.md	resources	104	low		
+resources/sevenpens-pen-compatibility-list.md	resources	64	low		
+resources/sevenpens-tablet-tester.md	resources	2431	high		
+resources/sevenpens-wacom-driver-list.md	resources	76	low		
+resources/wonkle-tablet.md	resources	120	low		
+tech/README.md	tech	224	low		
+tech/aes.md	tech	58	low		
+tech/apple-pencil-tech.md	tech	46	low		
+tech/digital-pen-tech.md	tech	205	low		
+tech/display-panel-tech.md	tech	43	low		
+tech/emr/README.md	tech	214	low		
+tech/emr/active-emr-vs-passive-emr.md	tech	58	low		
+tech/emr/diy-emr-pen.md	tech	118	low		
+tech/emr/emr-position-detection.md	tech	158	low		
+tech/emr/emr-pressure-detection.md	tech	80	low		
+tech/emr/emr-technical-resources.md	tech	50	low		
+tech/emr/emr-tilt-detection.md	tech	39	low		
+tech/ips-display-tech.md	tech	35	low		
+tech/mpp.md	tech	144	low		
+tech/oled-longevity.md	tech	41	low		
+tech/pressure-curve-implement.md	tech	38	low		
+tech/usi.md	tech	28	low		
+tech/vesa.md	tech	115	low		
+tech/wacom-patents.md	tech	105	low		
+tech/wacom-ud-emr/README.md	tech	195	low		
+tech/wacom-ud-emr/ud-emr-pens.md	tech	72	low		
+tech/wacom-ud-emr/ud-emr-tablets.md	tech	75	low		
+troubleshoot/README.md	troubleshoot	322	medium		
+troubleshoot/common-drawing-tsg-steps.md	troubleshoot	133	low		
+troubleshoot/common-drawtab-problems.md	troubleshoot	237	medium		
+troubleshoot/diag-draw-grid.md	troubleshoot	77	low		
+troubleshoot/diag-hdmi-from-other-sources.md	troubleshoot	29	low		
+troubleshoot/diag-pressure-in-tablet-driver.md	troubleshoot	174	low		
+troubleshoot/diag-reset-drawtab.md	troubleshoot	225	low		
+troubleshoot/diag-tablet-driver-diagnostics.md	troubleshoot	42	low		
+troubleshoot/diag-windows-pnp-tablet-drivers.md	troubleshoot	353	medium		
+troubleshoot/diag-windows-pnputil.md	troubleshoot	8	low		
+troubleshoot/tsg-diamond-pointer-on-windows.md	troubleshoot	44	low		
+troubleshoot/tsg-display-black-bars.md	troubleshoot	8	low		
+troubleshoot/tsg-display-detection.md	troubleshoot	1255	high		
+troubleshoot/tsg-display-vertical-lines.md	troubleshoot	57	low		
+troubleshoot/tsg-dots-at-start-of-strokes.md	troubleshoot	33	low		
+troubleshoot/tsg-drawing-problems.md	troubleshoot	46	low		
+troubleshoot/tsg-drawtab-detected-as-keyboard.md	troubleshoot	51	low		
+troubleshoot/tsg-driver-drops-drawtab-support.md	troubleshoot	25	low		
+troubleshoot/tsg-hard-to-reach-max-pressure.md	troubleshoot	46	low		
+troubleshoot/tsg-multiple-pointers.md	troubleshoot	19	low		
+troubleshoot/tsg-no-pressure-while-drawing.md	troubleshoot	38	low		
+troubleshoot/tsg-no-signal.md	troubleshoot	5057	high		
+troubleshoot/tsg-no-sound.md	troubleshoot	38	low		
+troubleshoot/tsg-not-enough-hdmi-ports.md	troubleshoot	21	low		
+troubleshoot/tsg-pen-acts-as-mouse.md	troubleshoot	65	low		
+troubleshoot/tsg-pen-display-always-shows-info-box.md	troubleshoot	41	low		
+troubleshoot/tsg-pen-display-does-not-support-video-signal-format.md	troubleshoot	6	low		
+troubleshoot/tsg-pen-display-doesnt-show-anything.md	troubleshoot	55	low		
+troubleshoot/tsg-pen-display-flashing-colors.md	troubleshoot	18	low		
+troubleshoot/tsg-pen-display-insects.md	troubleshoot	60	low		
+troubleshoot/tsg-pen-display-power-saving.md	troubleshoot	25	low		
+troubleshoot/tsg-pen-display-shows-nothing.md	troubleshoot	22	low		
+troubleshoot/tsg-pen-display-turns-on-and-off.md	troubleshoot	132	low		
+troubleshoot/tsg-pen-draws-while-hovering.md	troubleshoot	1622	high		
+troubleshoot/tsg-pentab-weird-feeling.md	troubleshoot	59	low		
+troubleshoot/tsg-pixel-noise-on-display.md	troubleshoot	67	low		
+troubleshoot/tsg-pointer-does-not-follow-pen.md	troubleshoot	32	low		
+troubleshoot/tsg-pointer-on-wrong-display.md	troubleshoot	328	medium		
+troubleshoot/tsg-pointer-stuck-in-corner.md	troubleshoot	295	medium		
+troubleshoot/tsg-replace-lost-tablet-cable.md	troubleshoot	22	low		
+troubleshoot/tsg-shoelaces-at-end-of-strokes.md	troubleshoot	168	low		
+troubleshoot/tsg-skipping-bands.md	troubleshoot	163	low		
+troubleshoot/tsg-strokes-delay-at-start.md	troubleshoot	75	low		
+troubleshoot/tsg-strokes-distorted.md	troubleshoot	34	low		
+troubleshoot/tsg-strokes-dots-at-end.md	troubleshoot	17	low		
+troubleshoot/tsg-strokes-hooks-at-start.md	troubleshoot	53	low		
+troubleshoot/tsg-strokes-quality-at-low-pressure.md	troubleshoot	150	low		
+troubleshoot/tsg-strokes-random-gaps.md	troubleshoot	42	low		
+troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md	troubleshoot	1877	high		
+troubleshoot/tsg-tablet-driver-too-much-memory.md	troubleshoot	72	low		
+troubleshoot/tsg-touch-on-wrong-display-windows.md	troubleshoot	95	low		
+troubleshoot/tsg-wifi-and-internet-problems.md	troubleshoot	52	low		
