@@ -252,10 +252,12 @@ Try some basic drawing and see if everything is working.
 
 ### Display toggle
 
-To switch rapidly between monitors, you have two options:
+To switch between monitors, you have two options:
 
-* The **Monitor toggle** plug-in — I have never used this plug-in, so I do not have instructions for it.
-* Switching presets — a hotkey can switch between presets.
+* **Switching presets** — Different presets can map the activate area differently.&#x20;
+  * You can switch presents manually in the OTD app.
+  * OTD does not have a hotkey feature for switching presets. You could use the a tool like AutoHotKey (Windows-only) for switching presets.
+* The **Monitor toggle** plug-in -  I have never used this plug-in, so I do not have instructions for it.&#x20;
 
 ## Related topics
 
