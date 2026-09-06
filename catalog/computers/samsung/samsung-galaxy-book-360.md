@@ -9,6 +9,23 @@ The Galaxy Book 360 brings these key attributes:
 * You can fold it around so that you see just the screen. This makes it convenient for drawing.
 * It comes with the Samsung S Pen, which uses Wacom EMR technology. This gives you a drawing experience that feels like a drawing tablet.
 
+## Included pen
+
+The Galaxy Book 360 comes with the Samsung S Pen: [Samsung S Pen notes](../../pens/samsung-s-pen/samsung-s-pen-notes.md)
+
+## Compatible pens
+
+Because the digitizer is Wacom EMR, these laptops also work with several second-generation UD EMR pens rather than only the bundled S Pen.
+
+More here: [Tablets that support UD EMR 2nd gen](../../../tech/wacom-ud-emr/ud-emr-tablets.md)
+
+Specific examples of compatible pens are:
+
+* Wacom One Pen (CP-913) - Many people prefer this over the S Pen. [Wacom One Pen (CP-913) notes](../../pens/wacom-pens/wacom-cp913-notes.md)
+* Wacom One Pen (CP-923) - It does work, but it is a bad pen because of how it handles pressure. Use the CP-913 instead. [Wacom One 2023 Standard Pen (CP-923) notes](../../pens/wacom-pens/wacom-cp923-notes.md)
+
+If you are considering swapping the S Pen for something better: [Upgrading to Wacom One Pen (CP-913)](../../pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
+
 ## Samsung Galaxy Book4 360
 
 * Samsung Galaxy Book4 360 ([product page](https://www.samsung.com/us/computing/galaxy-books/galaxy-book4-360/))
