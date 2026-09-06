@@ -15,6 +15,25 @@
 
 If you need to replace a pen, find out the model number that is compatible with your tablet. Then order that exact model. If you don't know the model you need, contact support for your drawing tablet.
 
+## Can I use a cheap third-party pen?
+
+The answer is usually no. Almost always, off-brand, generic and "universal" styluses don't work with drawing tablets.
+
+## UD EMR pens have some cross-compatibility
+
+There is one real exception worth knowing about. Some tablets support **UD EMR**, a Wacom pen technology that a number of devices share, and those do accept several different pens: [Tablets that support UD EMR 2nd gen](../../tech/wacom-ud-emr/ud-emr-tablets.md).
+
+Outside that, buy the pen model your tablet is documented to take.
+
+## Looking up which pen your tablet takes
+
+The **DrawTab Data Explorer** records the included pen and the compatible pens for hundreds of tablets, including models that have no page in this catalog: [https://thesevenpens.github.io/DrawTabDataExplorer/](https://thesevenpens.github.io/DrawTabDataExplorer/)
+
+Two cautions when you use it:
+
+* Compatibility is recorded thinly for older hardware. If a tablet lists one pen, that is what I know of - it is not proof that nothing else fits.
+* Confirm with customer support before buying either way.
+
 ## Video: Buying compatible pens for your drawing tablet [https://youtu.be/cKBSpIVeZJk](https://youtu.be/cKBSpIVeZJk)
 
 {% embed url="https://youtu.be/cKBSpIVeZJk" %}

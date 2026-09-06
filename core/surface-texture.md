@@ -45,7 +45,7 @@ The surface of any Apple iPad is very smooth glass. Many people feel that using 
 
 ## Texture affects what you see on a display
 
-Texture alters how light passes from the display panel to your eyes. This is how an anti-glare treatment helps minimize reflections. However, the texture also introduces something called anti-glare sparkle: [https://docs.thesevenpens.com/drawtab/technotes/anti-glare-sparkle](https://docs.thesevenpens.com/drawtab/technotes/anti-glare-sparkle). The texture will also likely soften the pixels slightly. How much softness you see depends on the specific texture.
+Texture alters how light passes from the display panel to your eyes. This is how an anti-glare treatment helps minimize reflections. However, the texture also introduces something called anti-glare sparkle: [Anti-glare sparkle](../guides/pen-displays/ag-sparkle.md). The texture will also likely soften the pixels slightly. How much softness you see depends on the specific texture.
 
 ## Replaceable surfaces for pen tablets
 
