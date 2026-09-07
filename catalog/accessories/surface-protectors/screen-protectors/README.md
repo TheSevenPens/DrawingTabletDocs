@@ -12,7 +12,7 @@ If you are looking for protection for a pen tablet (screenless) : [Surface prote
 
 ## **Amount of texture**
 
-Screen protectors add a little bit of texture.&#x20;
+Screen protectors add a little bit of texture.
 
 But we should be clear:
 
@@ -74,7 +74,7 @@ If your tablet manufacturer does not make a screen protector, then you do have 3
 
 This list comes from ones I have tested to some degree (Photodon) and those suggested by users on reddit posts. I don't use any of these screen protectors personally. So, please research thoroughly before you buy.
 
-* **Photodon** - [Photodon screen protectors](photodon-screen-protectors.md)&#x20;
+* **Photodon** - [Photodon screen protectors](photodon-screen-protectors.md)
 * **ViaScreens** - [https://viascreens.com/](https://viascreens.com/)
 * **atFoliX**
 * **HealingShield** - Here's one review - [Review of the HealingShield Screen Protector for Wacom One DTC133](https://www.reddit.com/r/wacom/comments/11vr3sv/review_of_the_healingshield_screen_protector_for/) 2023-03-19
@@ -89,7 +89,7 @@ This can be challenging task. Lots of people (including myself) are not capable 
 
 Either get help from a friend or family who is good at doing this.
 
-Or - Seek some professional help. Stores where the are used to putting protective films onto phone or ipads may have staff that are really good at this.&#x20;
+Or - Seek some professional help. Stores where the are used to putting protective films onto phone or ipads may have staff that are really good at this.
 
 ## Should you get a screen protector for your tablet?
 
@@ -126,6 +126,7 @@ Screen protectors are intended to work with tablets that have screens. However n
 
 ## Links
 
+* [Aaron Rutten - Do You Need a Screen Protector for a Display Tablet?](https://www.youtube.com/watch?v=NvU33WUtey8) 2022-05-19
 * [Teoh on Tech - Should you get a screen protector for your tablet?](https://www.youtube.com/watch?v=cyNa7yLwrD0) 2023-08-13
 * r/stylus - [Are you guys afraid of scratching your screen with stylus?](https://www.reddit.com/r/stylus/comments/yyix9r/are_you_guys_afraid_of_scratching_your_screen/) 11-18-2022
 * r/wacom - [Best Wacom tablet protective film](https://www.reddit.com/r/wacom/comments/qlrq7u/best_wacom_tablet_protective_film/) 2021-11-03
