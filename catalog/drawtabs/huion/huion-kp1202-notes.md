@@ -93,11 +93,11 @@ And they added another setting to control the softness or firmness of the pressu
 
 **Performance**
 
-The tablet comes with a MediaTek Geno 720 processor. In general, the comments on the performance were that. It was acceptable for drawing, but definitely not. A high performance device.
+The tablet comes with a MediaTek Geno 720 processor. In general, the reviewers found the tablet's performance acceptable for drawing, but it is definitely not a high performance device.
 
-Brad did run a Passmark benchmark and noticed that it seemed about 30 slower than a Wacom MovinkPad 11.&#x20;
+Brad ran a Passmark benchmark and noticed that it seemed about 30% slower than a Wacom MovinkPad 11.&#x20;
 
-Adams Review definitely found that it was clearly lagging behind the performance of the iPad Air 13 when comparing the performance on Clip Studio paint.
+Adam's review showed that the tablet's performance clearly lagged behind the performance of the iPad Air 13 when comparing the performance on Clip Studio Paint.
 
 **Longevity**
 
