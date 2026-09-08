@@ -93,7 +93,7 @@ And they added another setting to control the softness or firmness of the pressu
 
 **Performance**
 
-The tablet comes with a MediaTek Geno 720 processor. In general, the reviewers found the tablet's performance acceptable for drawing, but it is definitely not a high performance device.
+The tablet comes with a MediaTek Genio 720 processor. In general, the reviewers found the tablet's performance acceptable for drawing, but it is definitely not a high performance device.
 
 Brad ran a Passmark benchmark and noticed that it seemed about 30% slower than a Wacom MovinkPad 11.&#x20;
 

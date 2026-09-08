@@ -19,6 +19,8 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 * PW600
 * PW600S
 * PW600L
+* PW600C
+  * This was released in September 2026 along with the Huoin Kamvas Pad 12. Whether this is cross compatible with the other PW600 pens is unclear.&#x20;
 
 ## **Pen buttons**
 
@@ -32,9 +34,9 @@ GOOD. The buttons on these pens have a nicer, crisper click than the buttons on 
 
 ## **Pen IAF**
 
-GOOD. Huion says 2gf for these pens.&#x20;
+GOOD. Huion says 2gf for these pens.
 
-My numbers seem little higher - around \~4 - but honestly I do think this may be a measurement issue on my part because the pens do feel like they have very low IAF. I found it hard to distinguish from the Wacom Pro Pen 3 in terms of IAF.&#x20;
+My numbers seem little higher - around \~4 - but honestly I do think this may be a measurement issue on my part because the pens do feel like they have very low IAF. I found it hard to distinguish from the Wacom Pro Pen 3 in terms of IAF.
 
 Subjectively it did feel like these pens have a lower IAF than the Huion PW517 pens from the previous generation.
 
