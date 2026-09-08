@@ -488,7 +488,7 @@
       * [Huion Kamvas 13 GEN3 (GS1333) notes](catalog/drawtabs/huion/huion-gs1333-notes.md "Kamvas 13 GEN3 (GS1333)")
       * [Huion Kamvas 13 (GS1331) notes](catalog/drawtabs/huion/huion-gs1331-notes.md "Kamvas 13 (GS1331)")
       * [Dial problems with the Huion GS1333 and GS1563](catalog/drawtabs/huion/dial-problems-gs1333-gs1563.md)
-      * [Huion Kamvas Pad 12](catalog/drawtabs/huion/huion-kamvas-pad-12.md)
+      * [Huion Kamvas Pad 12 (KP1202)](catalog/drawtabs/huion/huion-kp1202-notes.md)
     * [OnePlus](catalog/drawtabs/oneplus/README.md)
       * [OnePlus Pad](catalog/drawtabs/oneplus/oneplus-pad.md)
     * [Samsung](catalog/drawtabs/samsung/README.md)
