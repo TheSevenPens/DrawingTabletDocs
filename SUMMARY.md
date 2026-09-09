@@ -385,7 +385,7 @@
     * [Surface protectors](catalog/accessories/surface-protectors/surface-protectors/README.md)
       * [Foxbox covers](catalog/accessories/surface-protectors/surface-protectors/foxbox-covers.md "Foxbox")
       * [Wacom texture sheets](catalog/accessories/surface-protectors/surface-protectors/wacom-texture-sheets.md)
-      * [ePlastic polycarbonate sheets (velvet lexan)](catalog/accessories/surface-protectors/surface-protectors/eplastic-sheets.md "ePlastic")
+      * [Lexan sheets](catalog/accessories/surface-protectors/lexan-sheets.md "Lexan sheets")
     * [Screen protectors](catalog/accessories/surface-protectors/screen-protectors/README.md)
       * [Paperlike for iPads](catalog/accessories/surface-protectors/screen-protectors/paperlike-for-ipads.md "Paperlike")
       * [Screen protectors for iPads](catalog/accessories/surface-protectors/screen-protectors/screen-protectors-for-ipads.md "For iPads")

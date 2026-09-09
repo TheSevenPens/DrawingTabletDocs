@@ -28,7 +28,7 @@ You can use screen protectors intended for pen displays for pen tablets. See [Sc
 ## DIY options
 
 * You can in theory make your own surface protection
-* Learn more about using [ePlastic polycarbonate sheets (velvet lexan)](eplastic-sheets.md)
+* Learn more about using [ePlastic polycarbonate sheets (velvet lexan)](../lexan-sheets.md)
 
 ## Links
 
