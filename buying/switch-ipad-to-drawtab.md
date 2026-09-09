@@ -9,7 +9,7 @@ In either case, iPad users come with expectations based on their experience with
 This document covers the key things to consider if you want to get a drawing tablet and already have experience with an iPad.
 
 {% hint style="info" %}
-For more information, see: [Apple iPad](../../catalog/drawtabs/apple/apple-ipad.md)
+For more information, see: [Apple iPad](../catalog/drawtabs/apple/apple-ipad.md)
 {% endhint %}
 
 ## Types of drawing tablets
@@ -20,7 +20,7 @@ The first thing you need to understand is that there are three different kinds o
 * **Pen displays**, also called screen tablets or display tablets. These also require a computer to use.
 * **Standalone drawing tablets**, of which there are several kinds. By their nature, these do not require a computer because they _are_ computers. Some are very similar to an iPad, and some are more like a full laptop. There's a more detailed section on them below.
 
-More here: [Types of drawing tablets](../../basics/drawtab-types/)
+More here: [Types of drawing tablets](../basics/drawtab-types/)
 
 ### Which type of drawing tablet do you want?
 
@@ -30,17 +30,17 @@ Based on the people who have asked me about moving from an iPad to a drawing tab
 * It's probably **unlikely** that you want a standalone tablet, because that would be too similar to what you already have with your iPad.
 * It's **most likely** that you want a pen display, because this choice gives most people what they are looking for in a drawing tablet.
 
-For most people, the choice will be between pen tablets and pen displays. They use the same technology, but using them feels very different in some ways. If you want more information on how they differ, go here: [Pen tablets vs pen displays](../pen-tablets-vs-pen-displays.md).
+For most people, the choice will be between pen tablets and pen displays. They use the same technology, but using them feels very different in some ways. If you want more information on how they differ, go here: [Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md).
 
 ## Recommendations
 
-If you want to jump straight to the recommendations, go here: [Recommendations](../../recs/)
+If you want to jump straight to the recommendations, go here: [Recommendations](../recs/)
 
 However, I strongly suggest you keep reading so you are better prepared to understand the recommendations.
 
 ## Buying guide
 
-This document gives you an overview and the main things to think about. If you want to go deeper, look at the [Drawing tablet buying guide](../).
+This document gives you an overview and the main things to think about. If you want to go deeper, look at the [Drawing tablet buying guide](./).
 
 ## Why switch?
 
@@ -67,7 +67,7 @@ Some of them will be minor, and either won't matter to you or you'll quickly adj
 
 My view is that the drawing tablet experience is better overall, primarily because of how a drawing tablet pen handles pressure.
 
-Below are highlights to keep in mind if you're going to move from an iPad to a drawing tablet. This is a distilled version of the key points I cover in [Apple iPad vs drawing tablets](../../catalog/drawtabs/apple/ipad-vs-drawtab.md).
+Below are highlights to keep in mind if you're going to move from an iPad to a drawing tablet. This is a distilled version of the key points I cover in [Apple iPad vs drawing tablets](../catalog/drawtabs/apple/ipad-vs-drawtab.md).
 
 ### The pen: Apple Pencil vs Drawing tablet pen
 
@@ -104,7 +104,7 @@ As of 2026, the iPad still has the least amount of parallax I've ever seen in an
 
 ### Anti-glare sparkle (pen displays and standalone)
 
-Pen displays have treatments to reduce glare, and these create an effect called anti-glare sparkle. It's a rainbow-like sparkle effect that you see on the glass. Some pen displays have very little of it, and some have a lot. iPads have almost none of this, so this is something you are likely to encounter with a pen display. How much depends on the specific pen display you're considering. This is another case where trying a pen display before you buy is a very good idea. More here: [Anti-glare sparkle](../../guides/pen-displays/ag-sparkle.md)
+Pen displays have treatments to reduce glare, and these create an effect called anti-glare sparkle. It's a rainbow-like sparkle effect that you see on the glass. Some pen displays have very little of it, and some have a lot. iPads have almost none of this, so this is something you are likely to encounter with a pen display. How much depends on the specific pen display you're considering. This is another case where trying a pen display before you buy is a very good idea. More here: [Anti-glare sparkle](../guides/pen-displays/ag-sparkle.md)
 
 ### Applications
 
@@ -112,7 +112,7 @@ Whether you're using macOS or a Windows PC with a pen display, the ecosystem of 
 
 And in general, you should be clear on which apps are going to be available on the operating system you're going to use a pen display with.
 
-Go here to explore what apps are available: [Apps](../../apps/)
+Go here to explore what apps are available: [Apps](../apps/)
 
 ### Procreate
 
@@ -130,12 +130,12 @@ The most common specific thing that iPad users tend to want is to use Procreate 
 
 **Procreate Alternatives for Windows**
 
-If you're going to use Windows, there is an application called [StylusX](../../catalog/apps/procreate.md), which is a Procreate clone for Windows - you should definitely investigate this if Procreate is important for you.
+If you're going to use Windows, there is an application called [StylusX](../catalog/apps/procreate.md), which is a Procreate clone for Windows - you should definitely investigate this if Procreate is important for you.
 
 Procreate Alternatives for Android
 
-* [HiPaint](../../catalog/apps/hipaint.md) - very very similar to Procreate
-* [Infinite painter](../../catalog/apps/infinite-painter.md) - somewhat similar
+* [HiPaint](../catalog/apps/hipaint.md) - very very similar to Procreate
+* [Infinite painter](../catalog/apps/infinite-painter.md) - somewhat similar
 
 ## Touch
 
@@ -163,18 +163,18 @@ iPads do not come with a pen, which is the Apple Pencil. The good news is that d
 You have to use pen tablets and pen displays with a computer.
 
 * For a pen tablet, it's easy - you connect a USB cable from the tablet to the computer. Some pen tablets even also work wirelessly.
-* For a pen display, sometimes it is easy, but most of the time it is more complex and may require multiple cables, carefully chosen ports on your computer, and more. People who have never used a pen display are often not prepared for how complex this can get. See: [Connecting a pen display](../../guides/connecting/connecting-pen-display/)
+* For a pen display, sometimes it is easy, but most of the time it is more complex and may require multiple cables, carefully chosen ports on your computer, and more. People who have never used a pen display are often not prepared for how complex this can get. See: [Connecting a pen display](../guides/connecting/connecting-pen-display/)
 
 ### Switching to a pen tablet
 
 I think this is an unlikely transition for most people, because many will not enjoy moving from their iPad screen to a screenless device.
 
-A good summary of the general issues when moving from screen to non-screen is here: [Pen tablets vs pen displays](../pen-tablets-vs-pen-displays.md). Although that article talks about drawing tablets, much of it applies to iPads versus pen tablets.
+A good summary of the general issues when moving from screen to non-screen is here: [Pen tablets vs pen displays](pen-tablets-vs-pen-displays.md). Although that article talks about drawing tablets, much of it applies to iPads versus pen tablets.
 
 Key things to keep in mind
 
 * Pen tablets can really vary in how big their active area is. You have a lot of flexibility in size.
-* Pen tablets have to be configured to work with your monitor. See: [Matching aspect ratios with Force Proportions](../../guides/customizing/force-proportions.md)
+* Pen tablets have to be configured to work with your monitor. See: [Matching aspect ratios with Force Proportions](../guides/customizing/force-proportions.md)
 * Many people find that they hunch over when drawing with an iPad. Your lower back might feel less stress when using a pen tablet because the posture doesn't require you to "shrimp".
 
 ### Switching to a standalone drawing tablet
@@ -183,7 +183,7 @@ There are 3 kinds of standalone drawing tablets.
 
 * pen-enabled mobile devices - these are typically Android devices like a Samsung Galaxy Tab S or a Wacom MovinkPad. If you already have an iPad, I'm not sure these would be enough of an upgrade from what you already have.
 * pen-enabled 2-in-1 laptops - these are Windows laptops such as the Microsoft Surface Pro or the Samsung Galaxy Book 4 Pro 360. They can be great devices, but the drawing experience is not great and is better suited for note-taking or light diagramming. They make good choices when you need a Windows laptop that you occasionally draw with.
-* pen computers - I don't recommend these at all. See: [The case against pen computers](../pen-computers-bad.md).
+* pen computers - I don't recommend these at all. See: [The case against pen computers](pen-computers-bad.md).
 
 ## You can continue to use your iPad
 
@@ -192,10 +192,10 @@ There's no reason to stop using your iPad. It's still a great device. You might 
 In these situations, here are some considerations:
 
 * Some applications, not many, work on both iPads and Windows/macOS. A great example is Clip Studio Paint.
-* If you want to work on the same files on different devices, see [Transferring files between devices](../../guides/general/transferring-files.md).
+* If you want to work on the same files on different devices, see [Transferring files between devices](../guides/general/transferring-files.md).
 
 ## Need help buying?
 
-Go here: [Recommendations](../../recs/)
+Go here: [Recommendations](../recs/)
 
-If you need more detailed help understanding a drawing tablet, look at the buying guide: [Drawing tablet buying guide](../)
+If you need more detailed help understanding a drawing tablet, look at the buying guide: [Drawing tablet buying guide](./)
