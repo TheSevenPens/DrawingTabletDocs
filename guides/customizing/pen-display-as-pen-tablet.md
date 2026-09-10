@@ -16,9 +16,11 @@ The good news is that using a pen display like this is **almost always possible*
 
 ## Option 1: Built-in support
 
-Some pen displays have their **power button** configured to effect only the screen. You can power off the tablet, which will turn off the screen, but since the tablet is still connected to the computer it will essentially act just like a pen tablet.
+Check the tablet documentation for a **pen tablet** mode. It intended exactly for this scenario.
 
-Not all pen displays are like this. Many have their power button set to turn off everything. So if you turn the tablet off, you wont be able to see anything on it or use the pen.
+To enable this mode, some pen displays have their **power button** configured to effect only the screen. You can power off the tablet, which will turn off the screen, but since the tablet is still connected to the computer it will essentially act just like a pen tablet.
+
+Not all pen displays use the power button like this. Many have their power button set to turn off everything. So if you turn the tablet off, you wont be able to see anything on it or use the pen.
 
 ## Option 2: Disconnect the video signal via hardware
 
