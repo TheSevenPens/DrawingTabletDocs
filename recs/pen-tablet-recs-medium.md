@@ -19,18 +19,20 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* Huion Inspiroy Frego M (L610) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md)
+* Huion Dial 2 V2 (Q640M)
+  * Note this is different from the Huion Dial 2 (Q630M). They use different pens.
 * XP-Pen Deco Pro
-  * XP-Pen Deco Pro MW GEN2 (MT0962B)&#x20;
-  * XP-Pen Deco Pro LW GEN2 (MT1172B)&#x20;
+  * XP-Pen Deco Pro MW GEN2 (MT0962B)
+  * XP-Pen Deco Pro LW GEN2 (MT1172B)
 
 ## GOOD
 
 * One by Wacom Medium (CTL-672) [One by Wacom (CTL-x72) notes](../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md) \[no tilt, no wireless]
 * XP-Pen Deco M (IT850) \[no wireless]
-* XP-Pen Deco MW (IT850B)&#x20;
+* XP-Pen Deco MW (IT850B)
 * XP-Pen Deco L (IT1060) \[no wireless]
 * XP-Pen Deco LW (IT1060B) [XP-Pen Deco LW (IT1060B) notes](../catalog/drawtabs/xppen/xppen-it1060b-notes.md)
+* Huion Inspiroy Frego M (L610) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md)
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
 * Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-h1061p-notes.md)
 * Wacom Intuos Medium (CTL-6100) [Wacom Intuos (CTL-x100) notes](../catalog/drawtabs/wacom/wacom-intuos/) \[no tilt, no wireless]
