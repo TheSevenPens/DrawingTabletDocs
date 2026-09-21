@@ -4,7 +4,7 @@ My hobby around drawing tablets centers largely on creatives - people who draw, 
 
 ## osu!
 
-![](../../.gitbook/assets/gaming-1.png)
+<img src="../../.gitbook/assets/gaming-1.png" alt="" width="188">
 
 **osu!** is a popular rhythm game and many of its players use drawing tablets instead of a mouse. [https://en.wikipedia.org/wiki/Osu!](https://en.wikipedia.org/wiki/Osu!)
 
