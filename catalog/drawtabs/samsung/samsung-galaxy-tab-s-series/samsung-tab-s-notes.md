@@ -52,7 +52,7 @@ These tablets are also compatible with a few second-generation UD EMR pens.
 
 More here: [Tablets that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-tablets.md)
 
-In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
+In particular you should think about using the Wacom CP-913 instead of the Samsung S Pen: [Upgrading to Wacom One Pen (CP-913)](../../../pens/wacom-pens/upgrading-to-wacom-cp913.md)
 
 Specific examples of compatible pens are:
 

@@ -24,7 +24,7 @@ Specific examples of compatible pens are:
 * Wacom One Pen (CP-913) - Many people prefer this over the S Pen. [Wacom One Pen (CP-913) notes](../../pens/wacom-pens/wacom-cp913-notes.md)
 * Wacom One Pen (CP-923) - It does work, but it is a bad pen because of how it handles pressure. Use the CP-913 instead. [Wacom One 2023 Standard Pen (CP-923) notes](../../pens/wacom-pens/wacom-cp923-notes.md)
 
-If you are considering swapping the S Pen for something better: [Upgrading to Wacom One Pen (CP-913)](../../pens/samsung-s-pen/upgrading-to-wacom-cp913.md)
+If you are considering swapping the S Pen for something better: [Upgrading to Wacom One Pen (CP-913)](../../pens/wacom-pens/upgrading-to-wacom-cp913.md)
 
 ## Samsung Galaxy Book4 360
 
