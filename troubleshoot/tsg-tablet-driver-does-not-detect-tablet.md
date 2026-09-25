@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "tablet not connected/detected" problem is fundamentally that your driver cannot "see," "find," or "communicate" with the drawing tablet. The driver will often claim that the tablet "is not connected" or "is not detected." This my happen EVEN IF the tablet is connected with the correct cables.
+The "tablet not connected/detected" problem is fundamentally that your driver cannot "see," "find," or "communicate" with the drawing tablet. The driver will often claim that the tablet "is not connected" or "is not detected." This may happen even if the tablet is connected with the correct cables.
 
 * If this happens with a **pen tablet (a screenless tablet)**, then the tablet isn't functional at all.
 * If this happens with a **pen display (a screen tablet)**, the display will work, but you will not be able to use the pen. The pen display works only as a monitor.
@@ -31,9 +31,9 @@ Here are several examples of how the driver indicates the tablet is not connecte
 {% endtab %}
 {% endtabs %}
 
-## Why this error van be very confusing
+## Why this error can be very confusing
 
-The problem can occur: EVEN IF YOUR TABLET IS CORRECTLY PHYSICALLY CONNECTED TO THE COMPTUER
+The problem can occur even if your tablet is physically connected to the computer.
 
 Your operating system may "beep" when you plug the tablet in and may even list the tablet as a device. At the same time, the driver may insist the tablet is not connected.
 
@@ -65,8 +65,10 @@ Another kind of connection problem is the "NO SIGNAL" problem. It has nothing to
 * Make sure your USB port can send and receive data by testing with other devices such as a keyboard or mouse.
 * Try unplugging other USB devices, leaving only the tablet, then plug the other devices back in.
 * If you have a USB hub, try not using it. You can also try a different hub.
+* If your USB cable connects through a USB adapter, try connecting it directly to the computer.
+* If your USB cable connects through an extension cable, try connecting it directly to the computer.
 * Check that the USB ports and cable ends are clean. Remove any lint or debris.
-* Try a different USB cable. Make sure the USB able supports data, not only power.
+* Try a different USB cable. Make sure the cable supports data, not only power.
 * Try a different USB port.
 * Unplug and reconnect the USB cable.
 * Check your tablet documentation. Some tablets have a "reset" option.
@@ -82,9 +84,9 @@ The issue may be specific to your computer, so try with another computer.
 
 A 3-in-1 cable often has three ends:
 
-* USB-A or USB-C for power - this often has a red end or a red flag on it
-* USB-A for data
-* HDMI
+* USB-A or USB-C for power. This often has a red end or flag.
+* USB-A for data.
+* HDMI.
 
 Things to try:
 
@@ -106,10 +108,10 @@ If it works correctly with PNP drivers, it points to a problem with the manufact
 
 Some people say this has helped them. I'm not sure.
 
-* In **device manager**, select **View > By container**
-* Find your tablet
-* Under it will be a list of devices
-* For each device under the tablet, right-click and select **Properties**
+* In **Device Manager**, select **View > By container**.
+* Find your tablet.
+* A list of devices appears under it.
+* For each device under the tablet, right-click and select **Properties**.
 
 Uncheck **Power Management > Allow the computer to turn off this device to save power** if that option exists for the device.
 
@@ -120,7 +122,7 @@ Uncheck **Power Management > Allow the computer to turn off this device to save 
 
 ## Time
 
-Sometimes just waiting out the problem is all you can do. Some people report that they leave their tablet disconnected from their computer for a few days, and then afterwards it just starts working again.
+Sometimes, waiting out the problem is all you can do. Some people report leaving their tablet disconnected for a few days, after which it starts working again.
 
 Both times I have encountered this problem, nothing I did seemed to work. I waited, and it eventually resolved itself.
 
@@ -141,8 +143,8 @@ In the meantime, you may be able to use alternative drivers on Windows:
 
 ## Notes
 
-* When you plug in the tablet or unplug the tablet, check if the computer makes a "beep". This at least indicates that the computer is aware that there is some device there.
-* Sometimes this problem is sporadic. I've had it personally occur with a tablet and after about 30 minutes of restarts, things just started working again.
+* When you plug in or unplug the tablet, check whether the computer beeps. This at least indicates the computer recognizes a connected device.
+* Sometimes this problem is sporadic. I have experienced it with a tablet that started working after about 30 minutes of restarts.
 * Some vendors like Huion recommend disabling antivirus when reinstalling the drivers. I do not recommend this, but some people say it has helped.
 
 ## Other threads
