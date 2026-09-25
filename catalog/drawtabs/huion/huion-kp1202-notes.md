@@ -2,15 +2,15 @@
 
 ## Basics
 
-* Product page: [https://www.huion.com/products/kamvas-pad-12](https://www.huion.com/products/kamvas-pad-12)&#x20;
+* Product page: [https://www.huion.com/products/kamvas-pad-12](https://www.huion.com/products/kamvas-pad-12)
 
 ## Links
 
 * [Teoh on Tech - Huion Kamvas Pad 12 (review)](https://www.youtube.com/watch?v=LIXwSRkvejg) 2026-09-07
-* [Brad Colbow - huion kamvas pad 12 review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) 2026-09-08&#x20;
+* [Brad Colbow - Huion Kamvas Pad 12 review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) 2026-09-08
 * [Adam Duff - Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) 2026-09-08
 
-## Overview
+
 
 I do not own this tablet and I am not planning on purchasing it. I looked through several reviews (linked above) to find out what others were saying. I've distilled some key takeaways and added a few thoughts of my own. Overall, the three reviewers have very divergent opinions on this device.&#x20;
 
@@ -41,7 +41,7 @@ The tablet seems to a have typical anti glare treatment. Adam does comment that 
 
 The resolution of this tablet is 2400 by 1600. Teoh points out that pixelation is not noticeable.
 
-**Color**
+
 
 Both Brad and Teoh overall liked the colors of the display. Adam did not like the color calibration or the contrast and commented on a noticeable red shift.&#x20;
 
