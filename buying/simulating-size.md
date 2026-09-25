@@ -1,5 +1,9 @@
 # Simulating tablet size
 
+{% hint style="info" %}
+For more general help on picking the right size: [Choosing the right size for a drawing tablet](choosing-size.md)
+{% endhint %}
+
 ## Steps
 
 * Find the dimensions of the device and the active area. These dimensions are usually published online.
