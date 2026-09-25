@@ -30,6 +30,24 @@ Claims of "zero lag" are incorrect.
 
 Review videos claiming "no lag" often demonstrate slow movements where lag is hard to see. During faster strokes, the gap between the pen and cursor is visible.
 
+## Lag comparison
+
+This video from Microsoft Research demonstrates how different amounts of lag looks like on a interactive touchscreen device: 100ms, 10ms, 1ms. And although it is a video about touch, it is instructive to frame our expectations about lag in pen displays.
+
+{% embed url="https://www.youtube.com/watch?v=vOvQCPLkPt4" %}
+
+What we observe in the video:
+
+* 100ms of lag is not useable
+* 10ms of lag is visible and irritating&#x20;
+* 1ms of lag is ideal
+
+What this means for pen displays
+
+* 1ms would be IDEAL for a pen displays.&#x20;
+* I don't know of any pen displays that get close to 1ms of lag
+* Based on the video, I think pen displays have less than 10ms of lag - I would put it at maybe 5ms of lag based on what my eyes see.
+
 ## OS vs. Application lag
 
 Applications receive pen data from the operating system. So an application cannot sense the pen position faster than the OS itself. If lag is visible on the desktop, it will persist in every application, though some apps use techniques such as position prediction to mask it.
