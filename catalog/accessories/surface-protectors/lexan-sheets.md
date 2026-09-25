@@ -14,22 +14,22 @@ And I have tried this source out as well.
 
 ## **Size and cutting**
 
-These sheets from ePlastics are very large: 24"x48". When you order them you can specify how to cut them to fit your tablet exactly. You will also have to pay for the cuts. The burden on getting the correct dimensions is on you. You will receive the exact dimensions you wanted and you will receive any excess leftover parts of the sheet.
+These sheets from ePlastics are very large: 24" × 48". When you order them, you can specify cuts to fit your tablet exactly. You will also have to pay for the cuts. You are responsible for providing the correct dimensions. You will receive the exact dimensions you requested, plus any excess sheet material.
 
 ## **Texture**
 
-One side has a strong texture - he pen feels a bit bumpy on it - and the other is smoother but still has texture and the pen is not slippery when drawing upon it. Use whichever side you prefer depending on your preference.
+One side has a texture, and the other is smoother but not slippery. Depending on your preference, you can place either side up.
 
 ## **Attaching to the tablet**
 
 These sheets do NOT come with an adhesive.
 
-You can secure the sheets to the tablet with:
+You can secure them to the tablet with:
 
-* regular tape. I sometimes use gaffer tape on the edges. It is ugly and inelegant, but it works.
-* adhesive transfer tape such as: [https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/](https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/)
+* Regular tape. I sometimes use gaffer tape on the edges. It is ugly and inelegant, but it works.
+* Adhesive transfer tape, such as [https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/](https://www.amazon.com/468MP-Adhesive-Transfer-width-length/dp/B007Y7D4A0/)
 
-## **Can these lexan sheets be used for pen displays?**
+## **Can these sheets be used for pen displays?**
 
-NO. They are not transparent enough.
+No. They are not transparent enough.
 
