@@ -62,6 +62,7 @@ With ChromeOS, depending on the tablet, you may not see the pointer at all.
 
 ## Resources
 
+* [Wacom - Chromebook compatibility](https://www.wacom.com/en-us/discover/technology-leadership/chromebook-certified)&#x20;
 * [Wacom - Connect Wacom One with Chromebook 1](https://www.youtube.com/watch?v=6-TQN7S0yes) 2021-11-11
 * [Huion - Draw on Huion Kamvas Pro 16 with Chromebook](https://www.youtube.com/watch?v=twoB3GBHTSM) 2021-03-28
 * [Huion - Do Huion Drawing Tablets Work on Chromebooks?](https://store.huion.com/posts/do-huion-drawing-tablets-work-on-chromebooks)
