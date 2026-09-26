@@ -4,6 +4,14 @@
 
 As of July 2025, the Huion PW600 series is the best non-Wacom pen I've seen. It has good IAF, a wide pressure range, and comes very close to the Wacom Pro Pen 2.
 
+## **Models**
+
+* PW600
+* PW600S
+* PW600L
+* PW600C
+  * This was released in September 2026 along with the Huoin Kamvas Pad 12. Whether this is cross compatible with the other PW600 pens is unclear.&#x20;
+
 ## **Pen compatibility**
 
 Pen Compatibility as of 2026-02-06 from Huion's website
@@ -14,19 +22,12 @@ Pen Compatibility as of 2026-02-06 from Huion's website
 
 <figure><img src="../../../.gitbook/assets/huion-pw600-notes-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Models**
-
-* PW600
-* PW600S
-* PW600L
-* PW600C
-  * This was released in September 2026 along with the Huoin Kamvas Pad 12. Whether this is cross compatible with the other PW600 pens is unclear.&#x20;
-
 ## **Pen buttons**
 
 * PW600 has 3 buttons
 * PW600S has 2 buttons
 * PW600L has 3 buttons
+* PW600C has 1 button
 
 ## **Pen button feel**
 
