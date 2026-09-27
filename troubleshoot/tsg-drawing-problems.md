@@ -14,3 +14,4 @@ First try the [Common drawing troubleshooting steps](common-drawing-tsg-steps.md
 * [TSG: Pen draws while hovering](tsg-pen-draws-while-hovering.md)
 * [TSG: Random gaps in strokes](tsg-strokes-random-gaps.md)
 * [TSG: Hooks at start of strokes](tsg-strokes-hooks-at-start.md)
+* [TSG: Strokes look stair-stepped (quantization)](tsg-strokes-quantized.md)
