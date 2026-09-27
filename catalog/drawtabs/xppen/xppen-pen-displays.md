@@ -10,7 +10,7 @@
 | Artist Pro 24 GEN2 165Hz | MD240QH | 2024 |                                                                                                  |
 | Artist Pro 19 GEN2       | MD180UH | 2024 | [XP-Pen Artist Pro 19 GEN2 (MD180UH) notes](xppen-md180uh-notes.md)                              |
 | Artist Pro 16 GEN2       | MD160QH | 2023 | [XP-Pen Artist Pro 16 GEN2 (MD160QH) notes](xppen-md160qh-notes.md)                              |
-| Artist Pro 14 GEN2       | MD140FH | 2023 |                                                                                                  |
+| Artist Pro 14 GEN2       | MD140FH | 2023 | [XP-Pen Artist Pro 14 GEN2 (MD140FH) notes](xppen-md140fh-notes.md)                              |
 | Artist 15.6 Pro V2       | MD160FH | 2023 |                                                                                                  |
 | Artist Pro 16            | ID160FE | 2021 |                                                                                                  |
 | Artist Pro 16TP          | MD160U  | 2021 |                                                                                                  |

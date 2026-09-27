@@ -17,7 +17,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 ## VERY GOOD
 
 * Huion Kamvas 13 GEN3 (GS1333) [Huion Kamvas 13 GEN3 (GS1333) notes](../catalog/drawtabs/huion/huion-gs1333-notes.md)
-* XP-Pen Artist Pro 14 GEN2 (MD140FH)
+* XP-Pen Artist Pro 14 GEN2 (MD140FH) [XP-Pen Artist Pro 14 GEN2 (MD140FH) notes](../catalog/drawtabs/xppen/xppen-md140fh-notes.md)
 
 ## GOOD
 
