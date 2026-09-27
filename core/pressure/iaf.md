@@ -34,6 +34,19 @@ Here are some examples from Kuuube's measurements (using Open Tablet Driver) fro
 
 <table><thead><tr><th width="315.79998779296875">Pen</th><th width="92.2000732421875">IAF</th><th>Tablet launch year</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>&#x3C;1gf</td><td>2017</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>&#x3C;1gf</td><td>?</td></tr><tr><td>Wacom Intuos4/5 Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>2009 and 2012</td></tr><tr><td>Wacom Intuos3 Grip Pen (ZP-501E)</td><td>&#x3C;1gf</td><td>2004</td></tr><tr><td>Wacom Intuos2 Grip Pen (XP-501E)</td><td>&#x3C;1gf</td><td>2001</td></tr><tr><td>Wacom Intuos1 Grip Pen (GP-300E)</td><td>&#x3C;1gf</td><td>1998</td></tr></tbody></table>
 
+## Measurements differ: Pro Pen 2 and Pro Pen 3
+
+Not everyone gets the same IAF numbers for these two pens.
+
+* Kuuube has measured the Pro Pen 2 at less than 1gf, and the Pro Pen 3 at around 3gf.
+* In my measurements, both the Pro Pen 2 and the Pro Pen 3 are around 3gf. My numbers are pretty consistent.
+
+I don't know why my measurements differ from Kuuube's.
+
+I do believe the Pro Pen 2 has very low IAF. The Pro Pen 3 is very close, though lots of people say that in practice its IAF feels just a little higher than the Pro Pen 2's.
+
+So treat the exact IAF numbers for these two pens as approximate.
+
 ## The importance of low IAF
 
 Some people really need an excellent IAF of <1gf.
