@@ -1,3 +1,9 @@
+---
+description: >-
+  Typically I don't recommend installing tablet driversfrom different brands on
+  the same computer: Using multiple tablet drivers on the same computer
+---
+
 # Using multiple tablet drivers on the same computer
 
 ## Overview
