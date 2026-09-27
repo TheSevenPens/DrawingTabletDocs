@@ -1,0 +1,8 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  catalog/pens/wacom-pens/wacom-acp500-vs-kp701e: catalog/pens/wacom-pens/wacom-acp700-vs-kp701e.md

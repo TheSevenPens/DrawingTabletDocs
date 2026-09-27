@@ -47,7 +47,7 @@ You'll often see these pre-installed protectors listen in table specs like this:
 * anti-glare film
 * matte film
 
-Here's an example for the Huion Kamvas 13 (GS1333).
+Here's an example for the Huion Kamvas 13 (GS1331).
 
 <figure><img src="../../../../.gitbook/assets/screen-protectors-1.png" alt="" width="375"><figcaption></figcaption></figure>
 

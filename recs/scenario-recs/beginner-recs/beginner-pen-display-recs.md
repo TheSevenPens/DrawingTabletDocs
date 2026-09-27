@@ -23,5 +23,5 @@ If I had to pick one pen display for a beginner, I would recommend the **Huion K
 
 ## Decent options
 
-* Huion Kamvas 16 V2 (GT-156 V2) [Huion Kamvas 16 V2 (GT-156 V2) notes](../../../catalog/drawtabs/huion/huion-gt156v2-notes.md)
+* Huion Kamvas Pro 16 V2 (GT-156 V2) [Huion Kamvas Pro 16 V2 (GT-156 V2) notes](../../../catalog/drawtabs/huion/huion-gt156v2-notes.md)
 * Wacom One 14 (DTC-141) [Wacom One 14 (DTC-141) notes](../../../catalog/drawtabs/wacom/wacom-one/wacom-dtc141-notes.md)

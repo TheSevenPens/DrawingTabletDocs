@@ -16,9 +16,9 @@ Other apps may use the phrase "Tablet PC"
 
 * Open Clip Studio Paint
 * Go to **File** > **Preferences** > **Tablet**
-* In the **Tablet Input API** section, you can choose to enable or disable Windows Ink
-  * choose **Wintab** to enable Windows Ink
-  * or choose **Tablet PC** to disable Windows Ink
+* In the **Using tablet service** section, you can choose to enable or disable Windows Ink
+  * choose **Tablet PC** to enable Windows Ink
+  * or choose **Wintab** to disable Windows Ink
 * Once you've made the change, restart Clip Studio Paint
 
 <img src="../../../../.gitbook/assets/winink-config-apps-3.png" alt="" width="563">
@@ -53,8 +53,8 @@ See these instructions: [Configuring Photoshop to NOT use Windows Ink](winink-ph
 
 * Navigate to **Edit > ArtRage Preferences > Input Device > Tablet Options > Use Wintab** checkbox.
 * Set the checkbox as you need
-  * CHECKED -> enable Windows Ink (it is checked by default)
-  * UNCHECKED -> disable Windows Ink
+  * CHECKED -> disable Windows Ink (ArtRage uses WinTab)
+  * UNCHECKED -> enable Windows Ink (ArtRage uses **Use Realtime Stylus**, which is Windows Ink)
 * Restart ArtRage once you change this setting.
 
 <div align="left"><figure><img src="../../../../.gitbook/assets/winink-config-apps-6.png" alt="" width="375"><figcaption></figcaption></figure></div>
