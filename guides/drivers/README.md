@@ -26,9 +26,9 @@ In **some** cases, it is possible to use a tablet without drivers. More here: [U
 
 A specific version of a tablet driver tends to be compatible with a range of tablets from a specific manufacturer. For example, Wacom's Windows drivers are compatible with a wide range of its tablets. For example, here is the [compatibility list](https://cdn.wacom.com/u/productsupport/drivers/win/professional/releasenotes/Windows_6.4.4-3.html) for version 6.4.4-3 of the Wacom drivers.
 
-## Using multiple tablet drivers on one computer
+## Using multiple tablet drivers&#x20;
 
-
+I don't recommend doing this. See [Using multiple tablet drivers on the same computer](multiple-tablet-drivers.md)
 
 ## Driver downloads
 
