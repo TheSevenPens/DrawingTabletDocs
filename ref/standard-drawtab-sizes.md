@@ -34,8 +34,8 @@ NOTES:
 
 | Category    | Diagonal Size metric | Diagonal size imperial |
 | ----------- | -------------------- | ---------------------- |
-| TINY        | 11 cm to 13 cm       | 11" to 13"             |
-| SMALL       | 28 cm to 39 cm       | 13"m to 15"            |
+| TINY        | 28 cm to 33 cm       | 11" to 13"             |
+| SMALL       | 33 cm to 38 cm       | 13" to 15"             |
 | MEDIUM      | 38 cm to 50 cm       | 15" to 20"             |
 | LARGE       | 50 cm to 76 cm       | 20" to 30"             |
 | EXTRA LARGE | 76 cm to 86 cm       | 30" to 34"             |
