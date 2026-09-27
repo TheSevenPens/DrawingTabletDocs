@@ -356,6 +356,7 @@
   * [TSG: Strokes are distorted or stretched](troubleshoot/tsg-strokes-distorted.md)
   * [TSG: Nothing shows on pen display](troubleshoot/tsg-pen-display-shows-nothing.md)
   * [TSG: Tablet driver uses too much memory](troubleshoot/tsg-tablet-driver-too-much-memory.md)
+  * [TSG: Background software interfering with the tablet driver](troubleshoot/tsg-background-software.md)
   * [TSG: Pen display always shows an info box on screen](troubleshoot/tsg-pen-display-always-shows-info-box.md)
   * [DIAG: Get Windows PnPUtil device and driver info](troubleshoot/diag-windows-pnputil.md)
   * [TSG: Multiple pointers](troubleshoot/tsg-multiple-pointers.md)
