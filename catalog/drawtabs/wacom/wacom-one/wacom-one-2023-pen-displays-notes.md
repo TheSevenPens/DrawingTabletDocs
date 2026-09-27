@@ -47,7 +47,7 @@ Besides the CP-923, these tablets are compatible with the older CP-913, which yo
 
 ### Stroke quality
 
-The stroke quality with the new CP-923 pen is not good compared to the older CP-913 pen. You may need to employ the use of pressure curves to get the strokes that you want.
+The CP-923 is OK-ish for drawing, like the older CP-913 - I don't typically recommend either for artists. You may need to employ the use of pressure curves to get the strokes that you want. More here: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
 
 <figure><img src="../../../../.gitbook/assets/wacom-one-2023-pen-displays-notes-3.png" alt=""><figcaption></figcaption></figure>
 

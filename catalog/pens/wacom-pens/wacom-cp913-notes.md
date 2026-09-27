@@ -8,6 +8,8 @@ The Wacom One Pen (CP-913) was released in 2019 and came with the Wacom One 2019
 
 This is a very "consumer" pen, and it has **OK pressure performance**.
 
+My overall verdict on both Wacom One pens - this one and the newer CP-923 - is that they are OK-ish. I don't typically recommend them for artists, but for non-creative use they may be fine. How the two compare: [Wacom One 2023 Standard Pen (CP-923) notes](wacom-cp923-notes.md)
+
 ## Pressure > Initial Activation Force
 
 The IAF you experience with the CP-913 depends on which device you use it with:

@@ -60,7 +60,7 @@ A moderate-to-low amount of wobble in slow strokes that reduces as strokes get f
 
 ### **Stroke quality**
 
-At launch, you could clearly see how bad the strokes looked with this tablet and the new CP-923 pen.
+At launch, you could clearly see how bad the strokes looked with this tablet and the new CP-923 pen. For my current view of the pen: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctcx110wl-notes-1.png" alt=""><figcaption></figcaption></figure>
 

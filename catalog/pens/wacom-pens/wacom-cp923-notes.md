@@ -2,7 +2,16 @@
 
 ## Overview
 
-Wacom introduced this pen in 2023. It is a terrible pen because of how it handles pressure. I prefer using the Wacom One Pen 2019 GEN1 (CP-913) instead.
+Wacom introduced this pen in 2023.
+
+My overall verdict on both Wacom One pens - this one and the older Wacom One Pen (CP-913) - is that they are OK-ish. I don't typically recommend them for artists, but for non-creative use they may be fine.
+
+Comparing the two:
+
+* **Initial activation force (IAF)** - both pens have a high median IAF, around 9 to 10 gf. The CP-913 varies more from unit to unit: across the units I measured it ranged from about 5.5 to 12.7 gf, while the CP-923 ranged from about 8 to 9.6 gf. So some CP-913 units are much lower than the CP-923, but some are much higher.
+* **Maximum pressure** - the CP-913 is clearly better. Across the units I measured, the CP-913 reached about 330 to 360 gf and the CP-923 about 200 to 310 gf.
+* Many people I talk to slightly prefer the CP-913.
+* In its favor, the CP-923 adds tilt and a second button.
 
 <figure><img src="../../../.gitbook/assets/wacom-cp923-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +23,7 @@ Officially the name of the CP-923 pen is "Wacom One Standard Pen" but that name 
 
 ### The Old Wacom One Pen (CP-913)
 
-Below is the old Wacom One Pen (CP-913). It is better than the CP-923. It only has one button, but the pressure handling is a bit better.
+Below is the old Wacom One Pen (CP-913). It only has one button and no tilt, but it has a higher maximum pressure. More here: [Wacom One Pen (CP-913) notes](wacom-cp913-notes.md)
 
 <figure><img src="../../../.gitbook/assets/wacom-one-pens-1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -71,10 +80,10 @@ I tested three units of the CP-923, and it works with the DTC-133.
 * I confirmed both pens (CP-913, CP-923) work with the Samsung Galaxy S8 Ultra.
 * I confirmed that the Samsung S Pen works with both the Wacom One 2019 GEN1 tablet and the Wacom One 2023 GEN2 tablets
 
-### Serious Pressure problems
+### Low pressure
 
-* The CP-923 pen has issues with low pressure. See this video: [https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
-* The CP-913 does not have these issues
+* In my early testing, the CP-923 pen had issues with low pressure. See this video: [https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
+* My later IAF measurements across more units are more mixed - see the comparison at the top of this page.
 
 ## Pressure response
 
