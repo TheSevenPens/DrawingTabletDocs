@@ -25,7 +25,7 @@ In some livestreams, I have referred to it as a "GEN2" because the XP-Pen EU sto
 
 In some regions it does not have "2025" in the name. Likewise 2024 does not appear in the name of the older model.
 
-If you are buying this device, verify the model number MDP1221 and that it supports DP-IN (which the 2025 model does not support)
+If you are buying this device, verify the model number MDP1221 and that it supports DP-IN (which the 2024 model does not support)
 
 ## Key NEW features in the 2025 model
 

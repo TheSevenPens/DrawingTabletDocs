@@ -70,7 +70,54 @@ If you want to play it safe - get an Samsung Galaxy Tab S. The drawing experienc
 
 ## Budget Android choices
 
+These are my picks from my 2025 video on budget standalone Android drawing tablets - roughly the $400 to $500 range at the time.
+
 {% embed url="https://youtu.be/NK2_dIGQKk8" %}
+
+| Tablet | Strength | Watch out for | Best for |
+| --- | --- | --- | --- |
+| [Wacom MovinkPad 11 (DTH-A116)](../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md) | Best drawing experience | The pen is expensive to replace | Sketching and illustration |
+| [Samsung Galaxy Tab S9 FE](../catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s9fe-notes.md) | Best general Android performance | The S Pen's high initial activation force | Notes, media, mixed use |
+| [XP-Pen Magic Drawing Pad 2025 (MDP1221)](../catalog/drawtabs/xppen/xppen-mdp1221-notes.md) | Most versatile - it can also be a monitor or a pen display | Tilt | A standalone tablet that doubles as a pen display |
+| [XP-Pen Magic Note Pad (MNP1095)](../catalog/drawtabs/xppen/xppen-mnp1095-notes.md) | Best value | Tilt, and no DP-IN | Budget-first standalone drawing |
+
+### Wacom MovinkPad 11 - best drawing experience
+
+* It comes with the Wacom Pro Pen 3 - the best pen of the four. It has very low initial activation force and a high maximum pressure.
+* Tap the sleeping screen with the pen and it opens the Wacom Canvas app straight away, without unlocking the tablet. You can export sketches as PNG or send them to Clip Studio Paint later.
+* The Pro Pen 3 is expensive to replace. As cheaper backups, it also works with UD EMR pens such as the Wacom One pen and the Samsung S Pen. It does not work with older Wacom professional pens such as the Pro Pen 2. More here: [Pen compatibility](../guides/pens/pen-compatibility.md)
+* It includes a 2-year license for Clip Studio Paint Debut, which is missing some features of the PRO and EX versions.
+* Don't confuse the **MovinkPad 11** (a standalone Android tablet) with the **Movink 13** (a pen display that connects to a computer).
+
+More here: [Wacom MovinkPad 11 (DTH-A116) notes](../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
+
+### Samsung Galaxy Tab S9 FE - best general Android performance
+
+* The fastest of the four in CPU and GPU benchmarks.
+* The S Pen has a high initial activation force, so drawing is basic. It is better suited to note-taking, whiteboarding and general tablet use.
+
+More here: [Samsung Galaxy Tab S9 FE notes](../catalog/drawtabs/samsung/samsung-galaxy-tab-s-series/samsung-tab-s9fe-notes.md)
+
+### XP-Pen Magic Drawing Pad 2025 (MDP1221) - most versatile
+
+* Make sure you get the **2025** model (Android 14), not the 2024 model (Android 12). Stores often list both under the same name, so check the model number: MDP1221.
+* It comes with the X3 Pro Slim pen.
+* It supports DP-IN over USB-C, so it works three ways: as a standalone Android tablet, as an external monitor for your computer, and as a pen display.
+* Tilt is noisy and can ruin strokes. If you notice it, turn tilt off in your app's brush settings.
+
+More here: [XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](../catalog/drawtabs/xppen/xppen-mdp1221-notes.md)
+
+### XP-Pen Magic Note Pad (MNP1095) - best value
+
+* The same tilt problem as the Magic Drawing Pad, in a smaller size.
+* No DP-IN.
+* Often discounted, which makes it the cheapest way in if you don't need tilt.
+
+More here: [XP-Pen Magic Note Pad (MNP1095) notes](../catalog/drawtabs/xppen/xppen-mnp1095-notes.md)
+
+### Avoid: Huion Kamvas Slate 11 and 13
+
+These use a USI pen instead of EMR. Diagonal wobble is severe, the initial activation force is high, pressure is erratic, and the screen is mediocre. More here: [Huion standalone tablets](../catalog/drawtabs/huion/huion-standalone.md)
 
 ## Resources
 
