@@ -73,6 +73,7 @@
   * [Xencelabs](brands/xencelabs.md)
   * [Drawing tablet brands vs digitizers](brands/drawtab-brands-vs-digitizers.md "Brands vs digitizers")
   * [Choosing a drawing tablet brand](brands/choosing-drawtab-brand.md "Choosing a brand")
+  * [Brand reliability and longevity](brands/brand-reliability.md "Reliability")
 * [Core](core/README.md)
   * [Active area](core/active-area/README.md)
     * [Active area size](core/active-area/active-area-size.md "Size")

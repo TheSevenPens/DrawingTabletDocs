@@ -44,7 +44,7 @@ If you have these tablets, you might get a better experience with a newer non-Wa
 
 At any given moment, Wacom produces only a small number of tablets and doesn't release new products very often. This makes their lineup relatively simple to understand.
 
-Wacom tablets have a support lifetime of about a decade and can often be used even longer. Some people are still using Wacom tablets from two decades ago - for example, the Intuos 3, a professional series released in 2012.
+Wacom tablets have a support lifetime of about a decade and can often be used even longer. Some people are still using Wacom tablets from two decades ago - for example, the Intuos 3, a professional series released in 2004.
 
 Non-Wacom brands release a lot of products, and you can find a confusing mix of older and newer models available for sale at the same time. This creates a risk of purchasing an older tablet that will not be as good as a newer one.
 

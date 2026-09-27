@@ -31,6 +31,8 @@ More here: [Brands](./)
 
 You will find people who have had both good and bad experiences with each brand. In general, though, I do think Wacom offers a better customer experience overall.
 
+For how long tablets from each brand last: [Brand reliability and longevity](brand-reliability.md)
+
 ## Brands vs specific tablets
 
 Within a brand, there will be good tablets and bad tablets. Even Wacom, which is the market leader, has some tablets I would not recommend.
