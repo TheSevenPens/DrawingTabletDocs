@@ -24,6 +24,10 @@ These are for when you want a GREAT drawing experience. Especially if you are al
   * This tablet has the best drawing experience on the market out of any current standalone tablet of any kind and from any brand.
 * Wacom MovinkPad 11 - [Wacom MovinkPad 11 (DTH-A116) notes](../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
 
+### GOOD
+
+* [Huion Kamvas Pad 12 (KP1202)](../catalog/drawtabs/huion/huion-kp1202-notes.md)  - I don't have any experience with this tablet.
+
 ### OK
 
 * XP-Pen Magic Drawing Pad 2024 - I don't have any experience with this tablet.
@@ -51,7 +55,7 @@ So ideally, an android device you buy will keep getting Android updates after yo
 * **Samsung** - does a GREAT job. They provide Android OS updates to their Samsung Galaxy Tab S series for 7 years.
 * **Wacom** - has said they will provide an Android OS update to their MovinkPad series. But as of April 2026 - there is no date for an update. Nor have they specifically committed to future updates.
 * **XP-Pen** - is explicitly not providing Android OS updates
-* **Huion** - I don't know what their story is.&#x20;
+* **Huion** - I don't know what their story is.
 
 **How big a problem is the lack of updates?**
 
