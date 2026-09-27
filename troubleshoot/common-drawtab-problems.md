@@ -6,6 +6,7 @@
 * The pen no longer reports pressure
 * The pen pressure is stuck at 100%.
 * [TSG: Tablet driver does not detect tablet](tsg-tablet-driver-does-not-detect-tablet.md).
+* [TSG: Tablet is sensitive to how the USB-C cable is plugged in](tsg-usbc-cable-jiggle.md).
 * The tablet driver cannot detect the pen.
 
 **Problems unique to pen displays**

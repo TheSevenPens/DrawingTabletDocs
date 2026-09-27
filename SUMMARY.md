@@ -340,6 +340,7 @@
   * [TSG: Pen skipping vertical or horizontal bands](troubleshoot/tsg-skipping-bands.md)
   * [TSG: WiFi and Internet problems with drawing tablets](troubleshoot/tsg-wifi-and-internet-problems.md)
   * [TSG: Tablet driver does not detect the tablet](troubleshoot/tsg-tablet-driver-does-not-detect-tablet.md)
+  * [TSG: Tablet is sensitive to how the USB-C cable is plugged in](troubleshoot/tsg-usbc-cable-jiggle.md)
   * [TSG: Computer does not detect the display](troubleshoot/tsg-display-detection.md)
   * [TSG: Driver no longer supports a drawing tablet](troubleshoot/tsg-driver-drops-drawtab-support.md)
   * [TSG: No sound after plugging in a drawing tablet](troubleshoot/tsg-no-sound.md)
