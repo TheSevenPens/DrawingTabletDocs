@@ -13,6 +13,8 @@ This effect is called **coordinate quantization**. For a full explanation of wha
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>brush width varies by pressure</p></figcaption></figure>
+
 ## Quantization vs diagonal wobble?
 
 Diagonal wobble can look similar similar to quantization. But there are few key differences

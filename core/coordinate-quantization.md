@@ -47,6 +47,8 @@ Examples:
 
 When screen coordinates are used - that's when you get the quantized look. Switching APIs often fixes it because the other API is getting digitizer coordinates.
 
+Often you might coordinate quantization in toy or demo painting apps that are using the pen APIs in a very basic way. If you are a developer working on such as app, you should take this into account if your strokes look a bit rough.
+
 ## Quantization vs diagonal wobble
 
 |            | Quantization                                        | Diagonal wobble                                           |
