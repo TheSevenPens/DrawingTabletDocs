@@ -19,7 +19,16 @@ The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2017). Click a model ID to see its full record there.
 
 {% tabs %}
-{% tab title="Pen & digitizer" %}
+{% tab title="Model" %}
+| | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
+| --- | --- | --- | --- |
+| Name | Intuos Pro 2017 Small | Intuos Pro 2017 Medium | Intuos Pro 2017 Large |
+| Released | 2019-05-16 | 2017-01-04 | 2017-01-04 |
+| Status | Discontinued | Discontinued | Discontinued |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
 | | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
 | --- | --- | --- | --- |
 | Active area | 159.6 × 99.8 mm (6.3 × 3.9 in) | 224 × 148 mm (8.8 × 5.8 in) | 311 × 216 mm (12.2 × 8.5 in) |
@@ -29,8 +38,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Report rate | 200 Hz | 200 Hz | 200 Hz |
 | Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
 | Max hover | — | — | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
+| --- | --- | --- | --- |
+| Buttons | 6 | 8 | 8 |
+| Dials | 0 | 0 | 0 |
+| Touch rings | 1 | 1 | 1 |
+| Touch strips | 0 | 0 | 0 |
 | Touch | Yes | Yes | Yes |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Physical" %}
@@ -40,12 +57,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Weight | 450 g | 700 g | 1300 g |
 {% endtab %}
 
-{% tab title="Model" %}
+{% tab title="Connectivity" %}
 | | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
 | --- | --- | --- | --- |
-| Name | Intuos Pro 2017 Small | Intuos Pro 2017 Medium | Intuos Pro 2017 Large |
-| Released | 2019-05-16 | 2017-01-04 | 2017-01-04 |
-| Status | Discontinued | Discontinued | Discontinued |
+| Ports | USB-C | USB-C | USB-C |
+| Attached cable | None | None | None |
+| Bluetooth | Yes | Yes | Yes |
 {% endtab %}
 {% endtabs %}
 
