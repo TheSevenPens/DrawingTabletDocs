@@ -6,7 +6,7 @@ Stroke quantization is when strokes come out looking tightly stair-stepped, as i
 
 It is easy to confuse with diagonal wobble. They look similar to an untrained eye, but they have different causes and different fixes. The comparison at the bottom of this page shows how to tell them apart.
 
-If you have this problem now, go here: [TSG: Strokes look stair-stepped (quantization)](../troubleshoot/tsg-strokes-quantized.md)
+If you have this problem now, go here: [TSG: Strokes look stair-stepped (quantization)](../troubleshoot/tsg-strokes-stair-stepped.md)
 
 ## Appearance
 
@@ -37,14 +37,14 @@ When screen coordinates are used - that's when you get the quantized look. Switc
 
 ## Quantization vs diagonal wobble
 
-|            | Quantization                                             | Diagonal wobble                                           |
-| ---------- | -------------------------------------------------------- | --------------------------------------------------------- |
-| Shape      | Angular, tight stair-steps, like snapping to a grid      | Smooth, regular oscillation                               |
-| Worst at   | Any angle, most visible on diagonals                     | 45 degrees; none at 0 or 90 degrees                       |
-| Platform   | Windows                                                  | Any                                                       |
-| Cause      | The pen API path in software                             | How the tablet senses and interpolates the pen's position |
-| Fix        | Restart, switch pen API, reinstall the driver            | Cannot be fixed, only mitigated                           |
-| Present on | Some setups                                              | Every tablet, in varying amounts                          |
+|            | Quantization                                        | Diagonal wobble                                           |
+| ---------- | --------------------------------------------------- | --------------------------------------------------------- |
+| Shape      | Angular, tight stair-steps, like snapping to a grid | Smooth, regular oscillation                               |
+| Worst at   | Any angle, most visible on diagonals                | 45 degrees; none at 0 or 90 degrees                       |
+| Platform   | Windows                                             | Any                                                       |
+| Cause      | The pen API path in software                        | How the tablet senses and interpolates the pen's position |
+| Fix        | Restart, switch pen API, reinstall the driver       | Cannot be fixed, only mitigated                           |
+| Present on | Some setups                                         | Every tablet, in varying amounts                          |
 
 Both are more visible when you draw slowly and on diagonals, so those don't tell them apart. What does:
 

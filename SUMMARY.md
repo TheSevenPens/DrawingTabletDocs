@@ -337,7 +337,7 @@
   * [TSG: Dots at start of strokes](troubleshoot/tsg-dots-at-start-of-strokes.md)
   * [TSG: Pen draws while hovering](troubleshoot/tsg-pen-draws-while-hovering.md)
   * [TSG: Hooks at start of strokes](troubleshoot/tsg-strokes-hooks-at-start.md)
-  * [TSG: Strokes look stair-stepped (quantization)](troubleshoot/tsg-strokes-quantized.md)
+  * [TSG: Strokes look stair-stepped](troubleshoot/tsg-strokes-stair-stepped.md)
   * [TSG: Shoelaces at end of strokes](troubleshoot/tsg-shoelaces-at-end-of-strokes.md)
   * [TSG: Delay and straight lines or gaps at start of strokes](troubleshoot/tsg-strokes-delay-at-start.md)
   * [TSG: Pen skipping vertical or horizontal bands](troubleshoot/tsg-skipping-bands.md)
