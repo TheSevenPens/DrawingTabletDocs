@@ -159,6 +159,7 @@
     * [Using a pen display as a pen tablet](guides/customizing/pen-display-as-pen-tablet.md)
     * [Using metal nibs](guides/customizing/metal-nibs.md)
     * [Calibrating a drawing tablet](guides/customizing/calibrating.md)
+    * [Configuring pointer offset](guides/customizing/pointer-offset.md)
     * [Calibrating pen position](guides/customizing/calibrate-pen-position.md)
     * [Calibrating color](guides/customizing/calibrating-color.md)
     * [Calibrating pressure](guides/customizing/calibrating-pressure.md)

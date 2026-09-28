@@ -4,6 +4,8 @@
 
 On a pen display, you may point at one location with the pen, but the pointer appears somewhere else. This could be due to the pen being incorrectly calibrated to the display. If you see the word "Calibrate" or "Calibration" anywhere in a tablet driver UI - it almost always is referring to Calibration pen position. For other kinds of calibration, see [Calibrating a drawing tablet](calibrating-color.md)
 
+Another type of alteration to the pen position is controlling the pointer offset. It is not referred to typically as a calibration, but is one of the tools available to get the position calibration you desire. See: [Configuring pointer offset](pointer-offset.md)&#x20;
+
 ## Feature availability
 
 Most pen displays offer a pen calibration feature. However, some pen displays like the Wacom Cintiq Pro 27, do not offer this calibration because they are designed to be well-calibrated when you get them and not require additional adjustment.
@@ -19,7 +21,7 @@ Once the process starts, your tablet screen should go blank (typically all white
 Important notes when you perform this calibration:
 
 * Hold the pen the normal way you would as you draw. For most people this will mean the pen is tilted around 45 degrees. DO NOT hold the pen vertically. That will produce less accurate results.
-* Sit in your natural drawing posture. Do NOT move you eyes close to the tip of the pen. That will produce less accurate results.&#x20;
+* Sit in your natural drawing posture. Do NOT move you eyes close to the tip of the pen. That will produce less accurate results.
 
 ## Instructions
 
