@@ -18,15 +18,13 @@ If you click on Older versions, you will find a small list of older driver versi
 {% endtab %}
 
 {% tab title="My list of Wacom drivers" %}
-Go here for the list: [https://thesevenpens.github.io/Wacom-Driver-List/](https://thesevenpens.github.io/Wacom-Driver-List/)
+This is the list I maintain: [https://thesevenpens.github.io/DrawTabDataExplorer/drivers](https://thesevenpens.github.io/DrawTabDataExplorer/drivers)
 
-Docs are here: [SevenPens Wacom Driver List](../../resources/sevenpens-wacom-driver-list.md)
+Notes:
 
-This is a single unified list of drivers found on Wacom.com and Archive.org.
-
-It is useful if you want a simple flat list to look at.
-
-I think this list is also more complete than the other options.
+* This list is built from drivers found on Wacom.com and Archive.org.
+* Available as a simple flat list with search and filtering
+* This list LINKS to driver downloads on Wacom.com or archive.org. It is not my own copy of the downloads
 {% endtab %}
 
 {% tab title="Archive.org" %}
