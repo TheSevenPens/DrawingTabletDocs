@@ -8,9 +8,74 @@ I have this tablet but haven't used it extensively. Overall seemed like a decent
 * The display has low amounts of anti-glare sparkle.
 * The tablet exhibited a little more diagonal wobble than I normally like but smoothing/stabilization should help. The Artist 13 GEN2 unit has less diagonal wobble.
 
-## Basics
+## Specs
 
-* Model year: 2022
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Name | Artist 12 GEN2 |
+| Released | 2021-09-01 |
+| Status | — |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | — |
+| Lamination | Yes |
+| Anti-glare | — |
+| sRGB | 127% |
+| Color depth | — |
+| Brightness | 220 cd/m² |
+| Refresh rate | — |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Active area | 263.2 × 148.1 mm (10.4 × 5.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 200 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Size | 346.2 × 209 × 12 mm (13.6 × 8.2 × 0.5 in) |
+| Weight | — |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Pen
 
@@ -20,7 +85,7 @@ Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. M
 
 * XP-pen lists accuracy as:
   * center ±0.5mm
-  * corner ± 2mm
+  * corner ± 1mm
 * I agree with XP-Pens accuracy numbers
 
 ## Diagonal wobble

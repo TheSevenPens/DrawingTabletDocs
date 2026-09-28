@@ -10,6 +10,75 @@ Its only limitation is that it is not 4K and is instead 2.5K (2560x1440), which 
 
 While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
+| --- | --- |
+| Name | Cintiq 24 touch 2025 |
+| Released | 2025-06-05 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
+| --- | --- |
+| Resolution | 2560 × 1440 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 100% |
+| Color depth | 8 bits per channel |
+| Brightness | 350 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 12 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
+| --- | --- |
+| Active area | 527 × 296 mm (20.7 × 11.7 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
+| --- | --- |
+| Size | 340 × 568 × 21 mm (13.4 × 22.4 × 0.8 in) |
+| Weight | 5000 g |
+| VESA mount | Yes (75×75) |
+| Legs | — |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
+| --- | --- |
+| Ports | USB-C (Power)<br>Mini HDMI<br>USB-C (Video and data) |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025-07-28
@@ -30,15 +99,7 @@ Sometime in 2026 I will make a full "review" video soon.
 
 ## Display specs
 
-* Display Panel tech: IPS
-* Native resolution: 2560x1440
 * Aspect ratio: 16:9
-* Anti-glare treatment: AG glass
-* Laminated: YES
-
-## Included Pen
-
-* Wacom Pro Pen 3 (ACP-500)
 
 ## Compatible pens
 
@@ -56,27 +117,13 @@ Sometime in 2026 I will make a full "review" video soon.
 
 ### Stand
 
-A stand is included in the box.
-
 Pay attention to the direction you attach the stand. It should be attached as shown below.
 
 <figure><img src="../../../../.gitbook/assets/wacom-dth246-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 It's easy to accidentally install the stand upside down if you aren't paying attention - and the stand is much less stable that way.
 
-### Touch
-
-* This model DOES support touch.
-
-### Auxiliary inputs
-
-* The tablet has no buttons, sliders, dials (ExpressKeys)
-
 ## Ergonomics
-
-#### VESA
-
-* YES. 75 x 75 mm mounting holes on the back
 
 ### Fans
 
@@ -100,11 +147,7 @@ The OSD is very similar to the OSD introduced in the Wacom Movink.
 
 ### Ports
 
-On the back of the tablet there are three ports:
-
-* USB-C for power
-* mini-HDMI for video signal
-* USB-C for video signal & data
+On the back of the tablet there are three ports.
 
 ### Connection options
 

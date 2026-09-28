@@ -20,7 +20,7 @@ python .agents/skills/explorer-spec-tables/scripts/spec_tables.py catalog/drawta
 - Pass the page, then the Explorer entity IDs of the models the page covers, in column order.
 - Without `--write`, it prints the section instead of writing it.
 - `--family <familyEntityId>` overrides the family link. By default it uses the first model's family.
-- With `--write`, it replaces the page's existing `## Specs` section, or inserts one right after `## Models`. For a single-model page with no Models section, pass `--after Overview` (or another section heading) to choose where it goes.
+- With `--write`, it replaces the page's existing `## Specs` section, or inserts one right after `## Models`. For a single-model page with no Models section, pass `--after Overview` (or another section heading) to choose where it goes. `--after END` appends it to a page that has no `## ` headings at all.
 
 It reads DrawTabData from `$DRAWTABDATA_DIR` if that's set. Otherwise it uses `../DrawTabDataExplorer/data-repo/data`, the data submodule of a DrawTabDataExplorer clone next to this repo. Pull that clone and update its submodule first, so the tables match the live Explorer.
 

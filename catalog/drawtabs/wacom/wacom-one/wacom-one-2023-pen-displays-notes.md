@@ -7,10 +7,78 @@ This is an OK pen display that provides a consumer-level drawing experience in t
 ## Basics
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
-* Release year: 2023
 * Models
-  * Wacom One 12 (2023) DTC-121
-  * Wacom One 13 (2023) DTH-134
+  * Wacom One 12 (2023) [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121)
+  * Wacom One 13 (2023) [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134)
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Name | Wacom One 12 2023 | Wacom One 13 touch 2023 |
+| Released | 2023-08-10 | 2023-08-10 |
+| Status | Available | Available |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Resolution | 1920 × 1080 | 1920 × 1080 |
+| Panel | IPS | IPS |
+| Lamination | — | — |
+| Anti-glare | AG film | AG film |
+| sRGB | 99% | 99% |
+| Color depth | 8 bits per channel | 8 bits per channel |
+| Brightness | 275 cd/m² | 320 cd/m² |
+| Refresh rate | 60 Hz | 60 Hz |
+| Response time | 18 ms | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Active area | 257 × 145 mm (10.1 × 5.7 in) | 294 × 165 mm (11.6 × 6.5 in) |
+| Pen technology | Passive EMR | Passive EMR |
+| Pressure levels | 4096 | 4096 |
+| Tilt | ±60° | ±60° |
+| Report rate | — | — |
+| Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
+| Max hover | — | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Buttons | 0 | 0 |
+| Dials | — | — |
+| Touch rings | — | — |
+| Touch strips | — | — |
+| Touch | No | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Size | 299 × 190 × 11 mm (11.8 × 7.5 × 0.4 in) | 336 × 222 × 12 mm (13.2 × 8.7 × 0.5 in) |
+| Weight | 700 g | 900 g |
+| VESA mount | No | No |
+| Legs | No | No |
+| Included stand | — | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Ports | USB-C<br>USB-C | USB-C<br>USB-C |
+| Attached cable | None | None |
+| Bluetooth | — | — |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 
@@ -39,8 +107,6 @@ Besides the CP-923, these tablets are compatible with the older CP-913, which yo
 
 ## Display specs
 
-* Native resolution: HD (2K): 1920x1080
-* Refresh rate: 60Hz
 * The new display panels have a wider color gamut. They are clearly better than the old Wacom One (DTC-133) tablet.
 
 ## Drawing experience
@@ -63,11 +129,6 @@ A moderate amount of wobble visisble in slow and fast strokes.
 
 <figure><img src="../../../../.gitbook/assets/Diag_Wobble_Wacom_DTH134.png" alt=""><figcaption></figcaption></figure>
 
-## Tilt
-
-* Wacom One 13 touch -> supports tilt
-* Wacom One 12 -> supports tilt
-
 ## Display experience
 
 ### **Color**
@@ -77,16 +138,6 @@ Clearly more vibrant than the older Wacom One DTC-133 model. Big improvement.
 ### **Parallax**
 
 Good
-
-## **Other inputs**
-
-### **Touch**
-
-* Only the Wacom One 13 touch supports touch input
-
-### **Tablet Buttons**
-
-None
 
 ## Pen display > OSD
 
@@ -119,10 +170,6 @@ Wacom is offering a very unique design for their stand.
 Neither the Wacom One (DTC-133) or the Wacom One 2023 pen displays are directly VESA mountable.
 
 ## **Cables & connectivity**
-
-### Ports
-
-* The Wacom One 2023 pen displays have two USB-C ports
 
 ### **Connection options**
 

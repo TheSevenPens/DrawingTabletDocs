@@ -6,6 +6,75 @@ This overall is a very good tablet. It design and demonstrates a lot of thoughtf
 
 The one place this tablet struggles compared to other pen displays is with line wobble that show up in strokes at all angles. This wobble can be addressed with some additional position smoothing settings in a painting application.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Name | Pen Display 24 |
+| Released | 2023-03-21 |
+| Status | — |
+| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | — |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 10 bits per channel |
+| Brightness | 330 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Active area | 527 × 296 mm (20.7 × 11.7 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Size | 618.5 × 388 × 34.7 mm (24.4 × 15.3 × 1.4 in) |
+| Weight | 6000 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## **Links**
 
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)
@@ -16,18 +85,9 @@ The one place this tablet struggles compared to other pen displays is with line 
 * [**r/drawingtablet - Xencelabs Pen Display 24 Review**](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/) 2023-07-12
 * [**r/drawingtablet - Xencelabs Pen Display 24 review**](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share&utm_medium=web2x&context=3) 2023-10-09
 
-## **Basics**
-
-* **Product page:** [**https://www.xencelabs.com/us/products/pen-display**](https://www.xencelabs.com/us/products/pen-display)
-* **Release year: 2023**
-
 ## **Display > basics**
 
 * Screen size: 23.8in (60.5cm)
-* Lamination - YES
-* Refresh rate - max 60Hz
-* Resolution: 3840x2160
-* Brightness: unknown
 
 ## **Edge & Corner accuracy**
 
@@ -190,11 +250,6 @@ Rating: EXCELLENT The best user experience and design of any tablet in the indus
 ## **Pen**
 
 ### Pens in the box
-
-This tablet comes with two pens:
-
-* Xencelabs 3 Button Pen V2
-* Xencelabs Thin Pen V2
 
 That these pens are different than the one that comes with the Xencelabs pen tablet. And the pens are NOT swappable.
 

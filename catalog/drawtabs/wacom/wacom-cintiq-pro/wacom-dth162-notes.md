@@ -6,6 +6,75 @@ This pen display was released in 2016. I've never tried it personally, but it di
 
 The Cintiq Pro 32 is from the same generation: [Cintiq Pro 32 (DTH-3220) notes](wacom-dth3220-notes.md)
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Name | Cintiq Pro 16 2016 |
+| Released | 2016-11-16 |
+| Status | Discontinued |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | — |
+| Anti-glare | — |
+| sRGB | — |
+| Color depth | 8 bits per channel |
+| Brightness | 250 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 25 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Active area | 345 × 194 mm (13.6 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Size | 410 × 265 × 17.5 mm (16.1 × 10.4 × 0.7 in) |
+| Weight | 1500 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH-1620.html](https://101.wacom.com/UserHelp/en/TOC/DTH-1620.html)

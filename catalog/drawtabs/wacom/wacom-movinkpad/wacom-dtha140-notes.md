@@ -54,48 +54,111 @@ I hope the next generation of this tablet incorporates these features:
 
 ## Specs
 
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Name | Wacom MovinkPad Pro 14 |
+| Released | 2025-10-01 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Resolution | 2880 × 1800 |
+| Panel | OLED |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 100% |
+| Color depth | 10 bits per channel |
+| Brightness | 400 cd/m² |
+| Refresh rate | 120 Hz |
+| Response time | 1 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Active area | 302 × 189 mm (11.9 × 7.4 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Size | 323.3 × 210 × 5.9 mm (12.7 × 8.3 × 0.2 in) |
+| Weight | 699 g |
+| VESA mount | No |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Ports | USB-C (USB 2.0) |
+| Attached cable | None |
+| Bluetooth | Yes (5.4) |
+| Wi-Fi | 802.11a/b/g/n/ac/ax |
+{% endtab %}
+
+{% tab title="Computer" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| OS | Android 15 |
+| Processor | Snapdragon 8s Gen 3 |
+| RAM | 12 GB |
+| Storage | 256 GB |
+{% endtab %}
+{% endtabs %}
+
+## Other specs
+
 ### Device
 
 * Weight: 680g (according to my scale)
-* Dimensions: TBD
 * Size
   * Very close the size of a A4 piece of paper
 
 ### Standalone
 
-* Operating System: Android 15
-* CPU: Snapdragon 8s Gen 3 (SM8635)
-* RAM: 12GB
-* Storage: 256GB
+* CPU part number: SM8635
 * Expandable storage: YES. via Micro SD card slot
 * Cameras: NONE
 * Biometric features:
   * Fingerprint reader - NO.
   * Face recognition - NO. Has no camera
-* Device dimensions: TBD
 * Speakers: YES
-
-### Digitizer
-
-* Pressure levels: 8192
 
 ### Display
 
-* Display panel tech: OLED
 * Diagonal size: 14"
-* Native resolution: 2200x1800
 * Aspect ratio: 16x10
-* Pixel density: 142 ppi
+* Pixel density: 243 ppi
 * Contrast: 100,000:1
-* Refresh rate: 120Hz
-* Response time: 1ms
-* Etched glass: YES (Wacom states AR/AG/AF)
+* Surface: Wacom states AR/AG/AF
 * Brightness: 900 nits
-* Color bit depth: 10-bit
 * Viewing Angle: 170 degrees
-* Color gamut:
-  * 100% sRGB
-  * 100% DCI-P3
+* Color gamut: 100% DCI-P3
 
 ## What's in the box
 
@@ -350,13 +413,9 @@ The tablet does not support DP-OUT. So you cannot connect it to an external disp
 
 ## Other inputs
 
-### Tablet buttons
-
-This tablet has no assignable buttons
-
 ### Touch
 
-Yes. Touch works very well.
+Touch works very well.
 
 Palm rejection is very good
 
@@ -370,19 +429,9 @@ In my drawing sessions with Clip Studio Paint I didn't notice it getting warm at
 
 None. It was completely silent.
 
-### Legs
-
-It does NOT have any legs
-
 ### Stand
 
-The tablet does NOT come with a stand.
-
 I used the Parblo PR-100 when I needed to keep it at an angle
-
-### VESA mounting
-
-Does not have and VESA mounting holes.
 
 ### Staying in place on a desk
 

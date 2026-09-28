@@ -2,8 +2,76 @@
 
 ## Basics
 
-* Released: 2024
 * Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Name | Artist Pro 19 GEN2 |
+| Released | 2024-08-19 |
+| Status | — |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99.8% |
+| Color depth | 10 bits per channel |
+| Brightness | 250 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Active area | 409 × 230 mm (16.1 × 9.1 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Size | 460 × 306.6 × 21.5 mm (18.1 × 12.1 × 0.8 in) |
+| Weight | 2230 g |
+| VESA mount | Yes (75×75) |
+| Legs | Yes |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 
@@ -14,26 +82,16 @@
 
 ## Digitizer specs
 
-* Active Area:
-  * 9.06” x 16.1" -> 18.47" diagonal
-  * 409 x 230mm -> 469.2mm diagonal
+* Active Area diagonal: 18.47" (469.2mm)
 * Aspect Ratio: 16x9
 * NOTE: it has the exact same size Active Area as the Huion Kamvas Pro 19.
 
 ## Display specs
 
-* Display panel tech: IPS
-* Resolution: 3840 x 2160
 * Aspect Ratio: 16:9
-* Lamination: YES
 * Viewing Angle: 178°
-* Contrast: unspecified
-* Response time: unspecified
-* Refresh rate: 60hz
-* Brightness: 250 cd/m2
-* Anti-glare treatment: Etched glass
 * Color: 10 bit (8bit+FRC)
-* Color Gamut Coverage Ratio: 99.8% sRGB, 96% Adobe RGB, 98% Display P3
+* Color Gamut Coverage Ratio: 96% Adobe RGB, 98% Display P3
 
 ## Included Pens
 
@@ -171,17 +229,11 @@ I tested both the configurations below with my M3 MacBook Pro and a Surface Pro 
 
 ## Ergonomics
 
-### VESA
-
-YES. this tablet is VESA mountable (75mm x 75mm)
-
 ### Legs
 
 YES. This tablet has a two folding legs on the back.
 
 ### Stand
-
-This tablet does NOT come with a stand.
 
 I used the stand that came with the Xencelabs Pen Display 16 to hold this tablet. It worked very well.
 
@@ -198,10 +250,6 @@ GOOD. Tablet keeps cool
 * Warmer near the USB-C ports
 
 ## Other features
-
-### Touch
-
-This tablet does NOT support touch.
 
 ### Audio
 

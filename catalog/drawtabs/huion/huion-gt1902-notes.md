@@ -29,9 +29,6 @@ This companion video covers many but not all of the topics described in these no
 
 ### Product information
 
-* Name: Huion Kamvas Pro 19
-* Model number: GT1902
-* Launch year: Released: Jan 2024
 * Product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)
 
 ### What's in the box
@@ -50,41 +47,89 @@ This companion video covers many but not all of the topics described in these no
 
 ## Specs
 
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Name | Kamvas Pro 19 |
+| Released | 2024-01-09 |
+| Status | — |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 8 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 15 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Active area | 409 × 230 mm (16.1 × 9.1 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 250 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Size | 448.9 × 272.4 × 21.3 mm (17.7 × 10.7 × 0.8 in) |
+| Weight | 2000 g |
+| VESA mount | Yes (75×75) |
+| Legs | Yes |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
+## Other specs
+
 ### Digitizer specs
 
 * Note: huion describes the tech version as PenTech 4.0
-* Active area dimensions: 409 x 230 mm
 * Active area Diagonal: 469.23 mm (18.473622")
 * Active area Aspect ratio: 16x9
-* Digitizer tech: EMR
-* resolution: 200 LPmm (5080 LPI)
-* Number of pressure levels: 16,384
-* Tilt support: YES
-* Tilt range: +/- 60 deg
-* Hover height: 10mm
-* Report rate: 260PPS
-* Accuracy: Accuracy:±0.5mm (Center), ±3mm (Corner)
+* Accuracy: Accuracy:±0.3mm (Center), ±1mm (Corner)
 
 ### Display specs
 
-* Resolution: 4K (3840x2160)
 * Diagonal size: Actually 18.47"
-* Surface: (New) AG glass
-* Laminated: YES
-* Brightness: 220nits
-* Response time: 15ms
-* Refresh rate: 60hz
 * Contrast ratio: 1000:1
 * Color gamuts supported
-  * sRGB – 99%
   * AdobeRGB – 96%
   * DCI-P3 – 98%
-
-### Other
-
-* Multi-touch
-  * Support for Windows
-  * Support for MacOS (after a firmware update)
 
 ## Pens
 
@@ -235,13 +280,9 @@ For this reason I recommend using the supplied Huion USB-C cable.
 
 lighter than I expected. I noticed it immediately when I picked up the box.
 
-### **VESA mounting**
-
-YES. There are 75 mm × 75 mm VESA holes for mounting on the back.
-
 ### **Legs**
 
-YES. Two legs. Seemed sturdy. No complaints.
+Two legs. Seemed sturdy. No complaints.
 
 ### **Noise**
 
@@ -253,7 +294,7 @@ EXCELLENT. After running at 100% brightness for one month days without turning o
 
 ### **Stand**
 
-It does not come with a stand. Instead, I used separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.
+I used a separately-purchased Huion ST100A stand which attaches to this pen display using the VESA mounting holes.
 
 ## Comparisons
 

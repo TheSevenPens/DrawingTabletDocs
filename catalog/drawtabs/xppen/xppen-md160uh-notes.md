@@ -4,26 +4,81 @@
 
 I do not have this tablet. This page collects information that we know so far.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistultra). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Name | Artist Ultra 16 |
+| Released | 2025-09-04 |
+| Status | Available |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | OLED |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 10 bits per channel |
+| Brightness | 350 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 1 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Active area | 344.2 × 193.6 mm (13.6 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Size | 405 × 273 × 13.5 mm (15.9 × 10.7 × 0.5 in) |
+| Weight | 1530 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [Parka Blogs - Review of XP-Pen Artist Ultra 16](https://www.parkablogs.com/content/xppen-artist-ultra-16-4k-oled-review) 2025-09-29
 * [XP-Pen - Meet the Artist 16 Ultra](https://www.youtube.com/watch?v=k1kmo6r8WqQ) 2025-09-25
 * [Brad Colbow Review of XP-Pen Artist Ultra 16](https://www.youtube.com/watch?v=1Wj-dbQmlG4) 2025-09-30
 * [Gartzia Artz - Review of XP-Pen Artist Ultra 16](https://www.xp-pen.com/product/artist-ultra-16.html) 2025-09-26
-
-## Display panel
-
-* Display tech: OLED
-* Display native resolution: 4K
-* Response time 1ms
-
-## Touch
-
-Supports touch
-
-## Included pens
-
-* 2 X3 Pro pens (exactly models unknown)
 
 ## Legs
 

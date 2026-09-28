@@ -10,6 +10,58 @@ This is a great entry-level tablet. It does all the basics extremely well.
 * The pen it came with had a very wide pressure range. This range is very good. Pen IAF was typical of Huion, meaning slightly higher than Wacom's pro pens.
 * <mark style="color:red;">**See the known issues section at the bottom.**</mark> Some users have reported a problem with air bubbles appearing under the surface.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroyfrego). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Name | Inspiroy Frego M |
+| Released | 2024-08-16 |
+| Status | — |
+| Included pen | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Active area | 254 × 159 mm (10 × 6.3 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 300 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | — |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Size | 304 × 220 × 8 mm (12 × 8.7 × 0.3 in) |
+| Weight | 546 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | None |
+| Bluetooth | Yes |
+{% endtab %}
+{% endtabs %}
+
 ## Companion video
 
 {% embed url="https://www.youtube.com/watch?v=3-Cl9_xKKKE" %}
@@ -25,7 +77,6 @@ This is a great entry-level tablet. It does all the basics extremely well.
 ## Basics
 
 * Product page: [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-M.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
-* Release year: 2024
 * User manual: [https://driverdl.huion.com/instruction/en/User\_Manual\_inspiroy\_frego\_EN.pdf](https://driverdl.huion.com/instruction/en/User_Manual_inspiroy_frego_EN.pdf)
 
 ## Size <a href="#size" id="size"></a>
@@ -36,7 +87,7 @@ This is a medium-sized tablet, with an active area slightly larger than Wacom In
   * Dimensions: 10 x 6.25”
   * Diagonal length: 11.79”
 * Wacom Intuos Pro Medium (PTH-660):
-  * Dimensions: 8.7 x 5.8”
+  * Dimensions: 8.82 x 5.83”
   * Diagonal length: 10.57”
 
 In terms of paper sizes this is about the size of an A5 sheet of paper which has a diagonal length of 10.13"
@@ -81,14 +132,6 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 VERY LOW - Typical for a pen tablet. Just a tiny tiny bit more lag than a Wacom in my opinion. This lag is fine and will not affect drawing.
 
-## Touch
-
-NONE. This tablet does NOT support touch.
-
-## Auxiliary inputs
-
-The tablet has no buttons, dials, or sliders.
-
 ## Replaceable surface
 
 No. The surface is not replaceable.
@@ -105,9 +148,9 @@ Has a nice amount of surface texture.
 
 ## Cables and connections
 
-**Wireless** - yes supports wireless via Bluetooth. I did not test this.
+**Wireless** - I did not test this.
 
-**Ports** - a single USB-C port in the upper-left edge.
+**Ports** - the USB-C port is in the upper-left edge.
 
 ## Ergonomics
 

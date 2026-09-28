@@ -6,6 +6,85 @@ A decent standalone tablet comparable to the Samsung Galaxy Tab S9FE.
 
 My unit exhibited strong "pulsing" in tilt.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Name | Magic Note Pad |
+| Released | 2025-03-19 |
+| Status | Available |
+| Included pen | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Resolution | 1920 × 1200 |
+| Panel | — |
+| Lamination | Yes |
+| Anti-glare | — |
+| sRGB | 95% |
+| Color depth | 8 bits per channel |
+| Brightness | 400 cd/m² |
+| Refresh rate | 90 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Active area | 236 × 148 mm (9.3 × 5.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | — |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Size | 259 × 182 × 7 mm (10.2 × 7.2 × 0.3 in) |
+| Weight | 495 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | — |
+| Bluetooth | — |
+| Wi-Fi | 802.11a/b/g/n/ac |
+{% endtab %}
+
+{% tab title="Computer" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| OS | Android 14 |
+| Processor | MediaTek MT8781 |
+| RAM | 6 GB |
+| Storage | 128 GB |
+{% endtab %}
+{% endtabs %}
+
 ## Software
 
 This tablet is sold as a note-taking device, so the note-taking app is part of what you are buying.

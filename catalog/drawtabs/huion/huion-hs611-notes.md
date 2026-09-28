@@ -10,6 +10,58 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 <figure><img src="../../../.gitbook/assets/huion-hs611-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Name | HS611 |
+| Released | 2019 |
+| Status | — |
+| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Active area | 258 × 162 mm (10.2 × 6.4 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 233 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Buttons | 10 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | 1 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Size | 333.4 × 218 × 7.3 mm (13.1 × 8.6 × 0.3 in) |
+| Weight | 500 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | None |
+| Bluetooth | No |
+{% endtab %}
+{% endtabs %}
+
 ## **Links**
 
 * User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)
@@ -21,7 +73,7 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 This is a MEDIUM-sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro Medium.
 
-<table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.7 x 5.8”</td><td>10.57”</td></tr></tbody></table>
+<table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.82 x 5.83”</td><td>10.57”</td></tr></tbody></table>
 
 ## Aspect ratio
 
@@ -71,16 +123,6 @@ Each group of five has some raised symbols on the buttons to help you identify t
 <figure><img src="../../../.gitbook/assets/huion-hs611-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Both the buttons and the touch-sensitive controls can be turned off in the driver.
-
-## **Touch**
-
-This tablet does NOT support touch
-
-## **Cables and connections**
-
-**Wireless -** This tablet does NOT support a wireless connection.
-
-**Wired connection** - there is a single USB-C port
 
 ## **Tilt compensation**
 

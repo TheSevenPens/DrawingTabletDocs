@@ -4,6 +4,58 @@
 
 I used this tablet from 2023-07-26 to 2023-11-01 and have been very happy with it.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_decoprogen2). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Name | Deco Pro XLW GEN2 |
+| Released | 2023-08-14 |
+| Status | — |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Active area | 381 × 229 mm (15 × 9 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 200 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Size | 435 × 313.1 × 10.7 mm (17.1 × 12.3 × 0.4 in) |
+| Weight | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [EyekooDrawsStuff review of XP-Pen Deco Pro GEN2](https://www.youtube.com/watch?v=itnwkJVlWiw) 2024-11-29
@@ -45,10 +97,6 @@ It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2.
 * The surface has a nice touch. At the bottom bevel is gently arcs down so that your hands avoid contact with a hard edge.
 * At surface is a slab that actually hangs over the table like a flat roof. I've never encountered a tablet with this before. It doesn't change how it works, but it is an interesting design choice. I like the look
 * Surface edge at the very edge of the surface, the transition from horizontal surface to vertical is not very rounded.
-
-## **Buttons**
-
-The tablet itself has none.
 
 ## Pen pressure
 

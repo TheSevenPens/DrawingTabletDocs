@@ -7,6 +7,75 @@
 * **For creative professionals** - who deeply care about color this may be a worthwhile and useful purchase that replaces the need to buy a pen display and a reference monitor
 * **For everyone else** - especially if you don't have professional color requirements, the value you get may not justify the cost.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Name | Cintiq Pro 27 |
+| Released | 2022-09-28 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 10 bits per channel |
+| Brightness | 400 cd/m² |
+| Refresh rate | 120 Hz |
+| Response time | 10 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Active area | 596 × 335 mm (23.5 × 13.2 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Buttons | 8 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Size | 638 × 379 × 31 mm (25.1 × 14.9 × 1.2 in) |
+| Weight | 7200 g |
+| VESA mount | Yes (100×100) |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Ports | Mini DisplayPort<br>HDMI<br>USB-C<br>USB-C<br>USB-A<br>DC power |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [Adam Duff - WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) 2026-01-28
@@ -64,7 +133,6 @@
 
 #### Specs
 
-* size = 596 x 335 mm (23.5 x 13.2 in)
 * diagonal size = 26.9 in (68.3cm)
 * aspect ratio: 16x9
 
@@ -91,7 +159,7 @@
 * Wacom does not publish pen tracking accuracy numbers
 * But we can compare it to other tablets that do have published numbers
 * Here are the accuracy numbers for the Huion Kamvas Pro 24 4K (GT2401) as
-  * +/- 0.5 mm at center
+  * +/- 0.3 mm at center
   * +/- 3mm at corner
   * I think these numbers are accurate for the Huion
 * The Cintiq pro 27 - just like every other pen display - has some non-uniformity.
@@ -133,35 +201,27 @@ Compare to some other diagonal samples linked from here: [Diagonal wobble](../..
 
 ### Specs
 
-* native resolution: 3840 x 2160
-* aspect ratio: 16x10
+* aspect ratio: 16x9
 * contrast ratio: 1000:1
-* refresh rate: Up to 120Hz
-* Response time: 10ms
-* panel tech: IPS
 
 ### **Bit depth**
 
-* Supports up to 10 bits per RGB channel (30 bits for each pixel) giving 10 Billion colors
 * Also works at standard 8 bits per RGB channel (24 bits for each pixel) giving 16.7 unique colors
 * I only used it at 8 bits per channel
 
 ### **Brightness**
 
-* 400 cd/m2
-  * NOTE: 1 cd/m2 = 1 nit
 * Overall relatively bright for a pen display, not as bright as many of the modern displays in the market.
 * In comparison:
   * Cintiq pro 27 -> 400 cd/m2
   * Apple iPad Pro (11 inch) (4th gen) -> 600 cd/m2
   * Surface Pro 8 -> 452.8 cd/m2
-  * Huion Kamvas Pro 24 4k -> 200 cd/m2
+  * Huion Kamvas Pro 24 4k -> 220 cd/m2
 * In practice seemed bright enough for drawing. I certainly did not find it dim
 * However, if you place it next to a device like an iPad Pro or Surface Pro 8, then it's clearly not as bright.
 
 ### **Refresh rate**
 
-* Supports up to 120Hz
 * Works at 60Hz
 * Works at 30Hz - you do NOT want to use it at this refresh rate
 * NOTE: Pay attention when you plug it in, depending on how it is connected to your PC, you could end up with a lower refresh rate. Always check the refresh rate being used when you plug it in. Don't assume you are getting 120Hz.
@@ -171,7 +231,6 @@ Compare to some other diagonal samples linked from here: [Diagonal wobble](../..
 
 * Background: [Anti-glare sparkle](../../../../guides/pen-displays/ag-sparkle.md)
   * Reflections on your pen display would make it difficult to draw. To reduce reflections, manufacturers give an anti-glare (AG) treatment to the display. The AG treatment is either etched glass or an AG film applied on top of the glass.
-* The Cintiq Pro 27 uses AG etched glass
 * The AG sparkle from the etched glass is GOOD (i.e. low) for a display of this size and resolution
   * AG Sparkle is only slightly visible with eyes 4" away from glass
   * AG Sparkle is not visible at my normal drawing distance with eyes 13" from glass
@@ -219,14 +278,6 @@ My usage: I left it at **Native**.
 
 ## **Connections**
 
-### **Ports**
-
-* 1x mini DisplayPort
-* 1x HDMI
-* 2x USB Type-C
-* 1x USB Standard-A
-* 1x power
-
 ### **How I connected it to my PC**
 
 * I used two cables
@@ -238,7 +289,7 @@ My usage: I left it at **Native**.
 
 ## **Auxiliary inputs**
 
-* Total of 8 buttons. 4 on left. 4 on right.
+* 4 buttons on left. 4 on right.
 * If you mount the pen holder on the left or right of the tablet, you will lose access to the buttons on that side.
 * The buttons cannot be used to enable/disable touch. You have to use the touch switch on the back of the device.
 
@@ -250,7 +301,6 @@ My usage: I left it at **Native**.
 ## **Mounting**
 
 * You cannot use the device without mounting it to something
-* On the back it has a standard 100mm VESA mount
 * You can either
   * Use the Cintiq Pro 27 Stand (sold separately at $500)
   * Any compatible VESA display arm, like an Ergotron HX, that holds up to 20 lbs
@@ -331,15 +381,12 @@ My usage: I left it at **Native**.
 
 ## Wacom Pro Pen 3
 
-The Wacom Cintiq Pro 27 comes with the Wacom Pro Pen 3.
-
 The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
 
 See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
 
 ## Touch
 
-* All Cintiq Pro 27 models support touch
 * You can enable/disable touch with a button on the rear of the display
 * **Quality of touch support: Past vs Present**
   * Historically I have never been happy with touch support in Intuos Pro models.

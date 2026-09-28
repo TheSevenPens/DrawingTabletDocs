@@ -4,6 +4,58 @@
 
 Introduced in 2022, the Giano G930L is a fantastic value. It's quite nice for drawing and I enjoy the extra size.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Name | Inspiroy Giano G930L |
+| Released | 2022-05-25 |
+| Status | — |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Active area | 345 × 216 mm (13.6 × 8.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 300 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Size | 429 × 260 × 9 mm (16.9 × 10.2 × 0.4 in) |
+| Weight | 1145 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | Yes (5.0) |
+{% endtab %}
+{% endtabs %}
+
 ## **Links**
 
 * User manual: [https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf](https://www.huion.com/manaul_pdf/en/Inspiroy%20Giano.pdf)

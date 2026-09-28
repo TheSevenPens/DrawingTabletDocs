@@ -22,8 +22,6 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 * Product page: [https://www.xp-pen.com/product/artist-12-3rd.html](https://www.xp-pen.com/product/artist-12-3rd.html)
 * Name: XP-Pen Artist 12 GEN3
   * Actually the name on the box is "XP-Pen Artist 12 3rd" but to be consistent with how I discuss other tablets I am using "GEN3" in the name.
-* Model number: CD121FH
-* Launch year: 2025
 * User manual: [https://www.xp-pen.com/user-manual/artist-12-3rd.html](https://www.xp-pen.com/user-manual/artist-12-3rd.html)
 
 ### What's in the box
@@ -41,46 +39,95 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
 
 ## Specs
 
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Name | Artist 12 3rd |
+| Released | 2025-10-17 |
+| Status | Available |
+| Included pen | [X4 Smart Chip Stylus (PD52)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd52) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 8 bits per channel |
+| Brightness | 260 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Active area | 264 × 149 mm (10.4 × 5.9 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Buttons | 8 |
+| Dials | 2 |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Size | 327.2 × 189.1 × 12 mm (12.9 × 7.4 × 0.5 in) |
+| Weight | 719 g |
+| VESA mount | No |
+| Legs | No |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Ports | USB-C (Full-featured)<br>USB-C (3-in-1) |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
+## Other specs
+
 ### Digitizer specs
 
-* digitizer type: EMR
-* digitizer resolution: 5080 LPI (200 LPmm)
-* Dimensions: 264.0 x 149.0 mm
 * Digonal: 11.9 in
-* Number of pressure levels: 16K
-* Tilt: YES
-* Tilt range: +/- 60 deg
-* Report rate: UNKNOWN
 * Accuracy:
   * Center ±0.2 mm
   * Corner: UNKNOWN
 
 ### Display specs
 
-* Display panel: IPS
-* Native resolution: 1920x1080
 * Aspect ratio: 16x9
 * Surface: etched glass
   * XP-Pen says "AG + AF"
-* Lamination: YES
-* Brightness: 260 nit
-* Response time: UNKNOWN
-* Refresh rate: 60Hz
 * Viewing angle: 170°
-* Color bit depth: 8bpp
 * Color gamut:
-  * 99% sRGB
   * 97% Adobe RGB
   * 97% Display P3
 
 ### Device specs
 
-* Size: 327.2 x 189.1 x 12.0 mm
-* Weight: 719 g
-* Ports:
-  * Full-featured USB-C x 1
-  * 3-in-1 USB-C x 1
-  * Both USB-C ports are recessed
+* Both USB-C ports are recessed
 
 ## Pen
 
@@ -181,22 +228,6 @@ TBD
 * The rollers were could easily be used even when the tablet is resting on a desk
 
 ## Ergonomics
-
-### VESA
-
-Does not support VESA mounting
-
-### Stand
-
-Does comes with a folding stand
-
-### Touch
-
-No touch support.
-
-### Legs
-
-No legs
 
 ### Fans
 

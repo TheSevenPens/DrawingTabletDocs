@@ -8,36 +8,63 @@ These are **VERY GOOD** pen tablets from Wacom and still highly competitive with
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-2.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
 
-## Basics
+## Specs
 
-Year introduced: 2018
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2018). Click a model ID to see its full record there.
 
-## Digitizer specs
+{% tabs %}
+{% tab title="Model" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Name | Intuos Small | Intuos Small Bluetooth | Intuos Medium | Intuos Medium Bluetooth |
+| Released | 2018-03-06 | 2018-03-06 | 2018-03-06 | 2018-03-06 |
+| Status | Discontinued | Discontinued | Discontinued | Discontinued |
+| Included pen | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) |
+{% endtab %}
 
-* Active area
-  * CTL-4100 & CTL-4100WL
-    * Dimensions: 152.0 x 95.0 mm (6.0 x 3.7 in)
-    * Diagonal
-  * CTL-6100 & CTL-6100WL
-    * Dimensions: 216.0 x 135.0 mm (8.5 x 5.3 in)
-    * Diagonal
-* Digitizer resolution: 100 LPmm (2540 LPi)
-* Report rate: 133Hz
-* Tilt - NONE. Does NOT support tilt
+{% tab title="Digitizer" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Active area | 152 × 95 mm (6 × 3.7 in) | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) | 216 × 135 mm (8.5 × 5.3 in) |
+| Pen technology | Passive EMR | — | Passive EMR | Passive EMR |
+| Pressure levels | 4096 | 4096 | 4096 | 4096 |
+| Tilt | None | None | None | None |
+| Report rate | 133 Hz | 133 Hz | 133 Hz | 133 Hz |
+| Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
+| Max hover | — | — | — | — |
+{% endtab %}
 
-## Included pen
+{% tab title="Other inputs" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Buttons | 4 | 4 | 4 | 4 |
+| Dials | — | — | — | — |
+| Touch rings | — | — | — | — |
+| Touch strips | — | — | — | — |
+| Touch | No | No | No | No |
+{% endtab %}
 
-These tablets come with LP-1100K pen
+{% tab title="Physical" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Size | 200 × 160 × 8.8 mm (7.9 × 6.3 × 0.3 in) | 200 × 160 × 8.8 mm (7.9 × 6.3 × 0.3 in) | 264 × 200 × 8.8 mm (10.4 × 7.9 × 0.3 in) | 264 × 200 × 8.8 mm (10.4 × 7.9 × 0.3 in) |
+| Weight | 230 g | 230 g | 410 g | 410 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Ports | Micro-USB | Micro-USB | Micro-USB | Micro-USB |
+| Attached cable | None | None | None | None |
+| Bluetooth | No | Yes | No | Yes |
+{% endtab %}
+{% endtabs %}
 
 ## Pen compatibility
 
 These tablets are ONLY compatible with the Wacom 4K Pen (LP-1100K). See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../../pens/wacom-pens/wacom-lp1100k-notes.md).
 
 ## -pen inputs
-
-### Touch
-
-The tablet does NOT support touch
 
 ### Auxiliary inputs
 
@@ -64,10 +91,6 @@ The tablet comes with a USB-A to Micro USB cable.
 ### Alternate cabling
 
 You can use a USB-C to Micro-USB adapter. Since I prefer to connect all my pen tablets with the same USB-C connector, I use a female USB-C to male Micro-USB adapter.
-
-### Wireless
-
-The CTL-6100WL and CTL-4100WL models support Bluetooth for wireless connectivity
 
 ## Photos
 

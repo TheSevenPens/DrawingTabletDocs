@@ -6,6 +6,58 @@ I tested this tablet for about a week and have periodically drawn with it since 
 
 I think it is a decent choice, but as of 2025 I hope Huion ships an upgrade that uses PenTech 4.0 with the PW600 pen which should give a very good drawing experience.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroy2). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Name | Inspiroy 2 L |
+| Released | 2023-01-05 |
+| Status | — |
+| Included pen | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Active area | 267 × 167 mm (10.5 × 6.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Buttons | 8 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Size | 352.5 × 208.7 × 9.5 mm (13.9 × 8.2 × 0.4 in) |
+| Weight | 600 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | — |
+| Bluetooth | No |
+{% endtab %}
+{% endtabs %}
+
 ## **Links**
 
 * Product site: [https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html)
@@ -40,10 +92,6 @@ Huion uses the L in the name to identify this tablet as the "large" version in t
 However, this tablet is close in size to medium tablets like the Wacom Intuos Pro Medium (PTH-660).
 
 It is nowhere close to the true large size of something like the Wacom Intuos Pro Large (PTH-860) or the Huion Inspiroy Giano G930L.
-
-## **Wireless**
-
-The tablet does NOT support wireless connectivity. It must be connected with a USB cable.
 
 ## **Auxiliary inputs**
 

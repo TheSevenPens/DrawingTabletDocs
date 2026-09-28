@@ -4,6 +4,75 @@
 
 The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing device, given its age and size. It is actually as good as anything else on the market in 2026. It has an excellent drawing experience driven by the included Pro Pen 2, model number KP504E, and an absolutely gigantic screen.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Name | Cintiq Pro 32 |
+| Released | 2018-02-27 |
+| Status | Discontinued |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 10 bits per channel |
+| Brightness | 310 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 8 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Active area | 697 × 392 mm (27.4 × 15.4 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Size | 854 × 506 × 53.2 mm (33.6 × 19.9 × 2.1 in) |
+| Weight | 13000 g |
+| VESA mount | — |
+| Legs | Yes |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [Aaron Rutten - Review of Wacom Cintiq Pro 24 & 32](https://www.youtube.com/watch?v=lvSeRhrUcCY) 2018-12-13
@@ -24,7 +93,7 @@ PROS:
 
 CONS
 
-* It is 10 years old and we do expect Wacom to drop driver support sometime in the next few years. When the driver support stops, you're going to have to deal with that somehow. You could use an older driver, or you could use open tablet driver. At some point, an older driver will eventually not work on a more modern version of Windows or Mac OS. We just don't know when that might occur.&#x20;
+* It was released in 2018 and we do expect Wacom to drop driver support sometime in the next few years. When the driver support stops, you're going to have to deal with that somehow. You could use an older driver, or you could use open tablet driver. At some point, an older driver will eventually not work on a more modern version of Windows or Mac OS. We just don't know when that might occur.&#x20;
 * It is large - It may be too large for you. I recommend creating a cardboard mockup that includes its bezel and drawing a rectangle where the screen is. This way, you can simulate what it would feel like for you.&#x20;
 
 ## Included Pen
@@ -43,10 +112,6 @@ This tablet is the largest Pen display ever made.&#x20;
 * It is very heavy - it is also incredibly difficult to move. So, you aren't going to be able to push it out of the way easily.&#x20;
 * Misc -I also found a tendency for my drawing tablet pens to roll under the tablet, which requires me to lift up the tablet from one side to see if anything's hidden underneath.
 * Reachability - Some people may have trouble reaching the top edge of the tablet screen or the top corners.&#x20;
-
-### Stands
-
-This tablet does not come with a stand.
 
 ### Legs
 

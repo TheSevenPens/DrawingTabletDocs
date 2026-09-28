@@ -34,6 +34,58 @@ See [PW600 series notes](../../pens/huion-pens/huion-pw600-notes.md) for details
 
 
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Name | Inspiroy Dial 2 V2 |
+| Released | 2026-09-09 |
+| Status | — |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Active area | 266.7 × 166.7 mm (10.5 × 6.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 300 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Buttons | 6 |
+| Dials | 2 |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Size | 356.6 × 207 × 8 mm (14 × 8.1 × 0.3 in) |
+| Weight | 710 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | Yes |
+{% endtab %}
+{% endtabs %}
+
 ## Digitizer
 
 * Active area aspect ratio is 16x10.
@@ -87,9 +139,7 @@ See [PW600 series notes](../../pens/huion-pens/huion-pw600-notes.md) for details
 
 ### Other inputs
 
-* **No touch support.**
-* **6 buttons**
-* **2 dials.** Dials spin in both directions and can be pressed.
+* Dials spin in both directions and can be pressed.
 * Usage notes:&#x20;
   * I'm right-handed: pen in right hand, left hand on the buttons and dials.
   * I kept **accidentally pressing the lower dial**, so I often **disable the lower dial and use only the upper dial.**&#x20;

@@ -4,6 +4,75 @@
 
 Overall decent tablet for an entry level 16" pen display. It does have a a very a noticable amount of diagonal wobble. Normally I don't recommend tablets with this much diagonal wobble. but since it can he worked around, it might work well as a budget choice.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Name | Artist 16 GEN2 |
+| Released | 2022-04-29 |
+| Status | — |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | — |
+| Lamination | — |
+| Anti-glare | — |
+| sRGB | 127% |
+| Color depth | — |
+| Brightness | — |
+| Refresh rate | — |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Active area | 341 × 192 mm (13.4 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 200 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Size | 434 × 255.8 × 12.9 mm (17.1 × 10.1 × 0.5 in) |
+| Weight | — |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)

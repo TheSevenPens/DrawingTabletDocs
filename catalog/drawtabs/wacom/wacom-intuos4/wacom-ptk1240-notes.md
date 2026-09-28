@@ -12,6 +12,58 @@ So, although I love this tablet, I would not typically recommend it for someone 
 
 If you want to learn about extra-large pen tablets in general, see: [Extra-Large pen tablets.](../../../../guides/general/extra-large-pen-tablets.md)
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Name | Intuos4 XL |
+| Released | 2009-03-24 |
+| Status | Discontinued |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Active area | 487.7 × 304.8 mm (19.2 × 12 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 2048 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Size | 623 × 462 × 28 mm (24.5 × 18.2 × 1.1 in) |
+| Weight | 3500 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Ports | — |
+| Attached cable | USB-A |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Video
 
 If you would prefer this information as a video, you can watch on youtube:
@@ -28,10 +80,6 @@ The last supported driver:
 
 * Windows: version 6.4.3-1, released in August 09 2023
 * MacOS: version 6.4.3-2, released for macOS on August 09 2023.
-
-## Included pen
-
-The PTK-1240 came with the Intuos 4 Grip Pen (KP-501E).
 
 ## Pen compatibility
 
@@ -50,7 +98,6 @@ Wacom has not produced the PTK 1240 for many years, and it is no longer listed o
 ## Active area size
 
 * Diagonal length is \~575mm (22.6 mm)
-* Dimensions: 487.7 x 304.8 mm (19.2 x 12 in)
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +123,7 @@ It is **extremely thick.** At its thickest, the Pen tablet measures 28 mm, which
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-5.jpg" alt=""><figcaption></figcaption></figure>
 
-The **tablet is relatively heavy.** The PTK 1240 weighs 7.7 pounds.
+The **tablet is relatively heavy.**
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-6.png" alt=""><figcaption></figcaption></figure>
 
@@ -95,10 +142,6 @@ In pro pen tablets of this era, Wacom had a **clear sheet of plastic** that you 
 
 
 The maximum number of pressure levels supported is 2048, which I think is more than enough for most people, despite the fact that modern tablets have 8,000 or even 16,000 levels of pressure.&#x20;
-
-The digitized resolution is 200 lines per millimeter, equivalent to 5,080 lines per inch.&#x20;
-
-Tilt sensitivity is supported in all compatible pens.&#x20;
 
 Barrel rotation is supported if you use the Intuos 4 pen, model number KP 701E, which you can purchase separately.&#x20;
 

@@ -13,28 +13,60 @@ I unboxed and tested this tablet live on stream: [https://youtube.com/live/YSzg\
 ## Basics
 
 * Product page: [https://www.turingdraw.com/page156](https://www.turingdraw.com/page156)
-* Year released: 2025
 
 ## Specs
 
-### Digitizer
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). Click a model ID to see its full record there.
 
-* Digitizer Type: PASSIVE\_EMR
-* Pressure Levels: 16384
-* Density: 5080.00 LPI (200 LPmm)
-* Tilt: 60 degrees
-* Max Hover: 0.39 in (10 mm)
-* Touch: NO
-* Dimensions: 10.00 x 6.25 in (254 x 158.8 mm)
-* Aspect Ratio: 1.599
-* Aspect Ratio (fraction): 16:10
-* Size Category: Medium
-* Diagonal: 11.80 in (299.6 mm)
-* Similar ISO Paper: 17% larger than A5
+{% tabs %}
+{% tab title="Model" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Name | Turing Basic M |
+| Released | 2025-09-05 |
+| Status | — |
+| Included pen | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
+{% endtab %}
 
-### Pens
+{% tab title="Digitizer" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Active area | 254 × 158.8 mm (10 × 6.3 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
 
-Included pens: DigiDraw M3 Pen
+{% tab title="Other inputs" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Size | 304.6 × 220.9 × 7.8 mm (12 × 8.7 × 0.3 in) |
+| Weight | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | None |
+| Bluetooth | No |
+{% endtab %}
+{% endtabs %}
+
+## Pens
 
 Compatible pens:
 
@@ -48,6 +80,10 @@ Compatible pens:
 ## Size
 
 This is a medium-sized tablet, and it is slightly larger than the Wacom Intuos Pro 2017 Medium (PTH-660).
+
+* Aspect ratio: 1.599 (16:10)
+* Active area diagonal: 11.80 in (299.6 mm)
+* Similar ISO paper: 17% larger than A5
 
 <figure><img src="../../../.gitbook/assets/digidraw-t610-notes-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -113,11 +149,6 @@ Like many non-Wacom pens, the buttons interrupt strokes slightly. Even if the bu
 ### Wireless
 
 NO. The tablet is not wireless and requires a USB cable to connect to a computer.
-
-## Non-pen inputs
-
-* Touch - the tablet DOES NOT support touch
-* Buttons/Dials/etc. - the tablet has no such features
 
 ## Other features
 

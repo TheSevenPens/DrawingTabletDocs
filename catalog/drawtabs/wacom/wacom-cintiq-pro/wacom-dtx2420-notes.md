@@ -19,48 +19,94 @@ There are two models of the Cintiq Pro 24 (DTx-2420):
 * Cintiq Pro 24 (DTK-2420) - which DOES NOT support touch
 * Cintiq Pro 24 touch (DTH-2420) - which DOES support touch
 
-Release date: 2017
-
 User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)
 
 ## Specs
 
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Name | Cintiq Pro 24 | Cintiq Pro 24 Touch |
+| Released | 2018-02-27 | 2018-02-27 |
+| Status | Discontinued | Discontinued |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Resolution | 3840 × 2160 | 3840 × 2160 |
+| Panel | IPS | IPS |
+| Lamination | — | — |
+| Anti-glare | Etched glass | Etched glass |
+| sRGB | — | — |
+| Color depth | 10 bits per channel | 10 bits per channel |
+| Brightness | 235 cd/m² | 235 cd/m² |
+| Refresh rate | 60 Hz | 60 Hz |
+| Response time | 14 ms | 14 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Active area | 522 × 294 mm (20.6 × 11.6 in) | 522 × 294 mm (20.6 × 11.6 in) |
+| Pen technology | Passive EMR | Passive EMR |
+| Pressure levels | 8192 | 8192 |
+| Tilt | ±60° | ±60° |
+| Report rate | — | — |
+| Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
+| Max hover | — | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Buttons | — | — |
+| Dials | — | — |
+| Touch rings | — | — |
+| Touch strips | — | — |
+| Touch | No | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Size | 677 × 394 × 47 mm (26.7 × 15.5 × 1.9 in) | 677 × 394 × 47 mm (26.7 × 15.5 × 1.9 in) |
+| Weight | 7200 g | 7200 g |
+| VESA mount | — | — |
+| Legs | — | — |
+| Included stand | — | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Ports | USB-C (DisplayPort Alt Mode)<br>DisplayPort<br>HDMI (HDMI 2.0)<br>USB-A<br>USB-A<br>USB-A<br>USB-A<br>USB-A<br>USB-A<br>3.5 mm audio<br>DC power | USB-C (DisplayPort Alt Mode)<br>DisplayPort<br>HDMI (HDMI 2.0)<br>USB-A<br>USB-A<br>USB-A<br>USB-A<br>USB-A<br>USB-A<br>3.5 mm audio<br>DC power |
+| Attached cable | — | — |
+| Bluetooth | — | — |
+{% endtab %}
+{% endtabs %}
+
+## Other specs
+
 ### Digitizer
 
-* Digitizer tech: EMR
-* Active Area: 20.55 x 11.57"
 * Active Area Diagonal: 23.6"
 * Aspect ratio: 16x9
-* Number of pressure levels: 8192
-* Tilt: 40°
-* Resolution: 40°
 
 ### Display
 
-* Display panel tech: IPS
-* Native resolution: 3840 x 2160
-* Brightness: 350 cd/m²
-* Viewing angles: 176°/176°
+* Viewing angles: 178°/178°
 * Contrast ratio: 1000:1
 * Color gamut: 99% Adobe RGB
-* Bits per channel: 10
-* Response time: 14 ms
 
-### Included pen
-
-* Pro Pen 2 (KP-504E)
-
-### Compatible pens
+## Compatible pens
 
 * Pro Pen 2 (KP-504E)
 * others (TBD)
-
-## Ports
-
-* 6x USB-A 3.0 / 3.1/3.2 Gen 1
-* 1x USB-C 3.1/3.2 Gen 2
-* 1x HDMI
-* 1x DisplayPort
 
 ## Links
 
@@ -78,10 +124,3 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.w
 ## Size
 
 This tablet was from an era when Wacom pen displays had very wide bezels. Even though the display is 24" the bezels are so large that the entire device is much larger than you would expect.
-
-Size: 677 x 394mm (26.6 x 15.5 in)
-
-## Display
-
-* Native resolution: 3840x2160 (4K)
-* Display panel tech: IPS

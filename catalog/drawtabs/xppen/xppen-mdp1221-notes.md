@@ -2,9 +2,86 @@
 
 ## Basics
 
-* Model number MDP1221
 * Note that this model (MDP1221) is the 2025 edition of the Magic Drawing Pad.
-* OS: Android 14
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Name | Magic Drawing Pad 2025 |
+| Released | 2025-08-14 |
+| Status | Available |
+| Included pen | [X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Resolution | 2160 × 1440 |
+| Panel | IPS |
+| Lamination | — |
+| Anti-glare | AG film |
+| sRGB | 97% |
+| Color depth | 8 bits per channel |
+| Brightness | 360 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Active area | 258 × 172 mm (10.2 × 6.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 100 LPmm (2540 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Size | 279 × 192 × 6.9 mm (11 × 7.6 × 0.3 in) |
+| Weight | 590 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | — |
+| Bluetooth | Yes (5.1) |
+| Wi-Fi | 802.11a/b/g/n/ac |
+{% endtab %}
+
+{% tab title="Computer" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| OS | Android 14 |
+| Processor | MediaTek MT8781 |
+| RAM | 8 GB |
+| Storage | 256 GB |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 

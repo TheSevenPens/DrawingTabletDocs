@@ -70,6 +70,58 @@ It's always helpful to be clear on the model numbers so that you don't buy the w
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2025). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Name | Intuos Pro 2025 Small | Intuos Pro 2025 Medium | Intuos Pro 2025 Large |
+| Released | 2025-02-12 | 2025-02-12 | 2025-02-12 |
+| Status | Available | Available | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Active area | 187 × 105 mm (7.4 × 4.1 in) | 263 × 148 mm (10.4 × 5.8 in) | 349 × 195 mm (13.7 × 7.7 in) |
+| Pen technology | Passive EMR | Passive EMR | Passive EMR |
+| Pressure levels | 8192 | 8192 | 8192 |
+| Tilt | ±60° | ±60° | ±60° |
+| Report rate | — | — | — |
+| Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
+| Max hover | — | — | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Buttons | 4 | 8 | 8 |
+| Dials | 1 | 2 | 2 |
+| Touch rings | — | — | — |
+| Touch strips | — | — | — |
+| Touch | No | No | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Size | 215 × 163 × 7 mm (8.5 × 6.4 × 0.3 in) | 291 × 206 × 7 mm (11.5 × 8.1 × 0.3 in) | 377 × 253 × 7 mm (14.8 × 10 × 0.3 in) |
+| Weight | 240 g | 411 g | 660 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Ports | USB-C | USB-C | USB-C |
+| Attached cable | None | None | None |
+| Bluetooth | Yes | Yes | Yes |
+{% endtab %}
+{% endtabs %}
+
 ## Design
 
 Although not everyone shares this opinion, I find it a very beautiful and professional-looking tablet.
@@ -109,11 +161,6 @@ For example, as of April 2025, here is a **partial** list of tablets that come w
 
 ## Digitizer specs
 
-* Pressure levels - 8192
-* Digitizer resolution - 5080 LPI (200 LPmm)
-* Tilt - Yes
-* Tilt range - ± 60°
-* Report rate - Unknown – will investigate
 * Barrel rotation - YES. Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.
 
 ## Drawing experience
@@ -398,17 +445,12 @@ Noise due to texture
 
 ## Connections and cabling
 
-### Overall
-
-The tablet supports both wired and wireless connection.
-
 ### Single USB-C port
 
 The port is located on the right side, close to the top.
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-35.jpg" alt=""><figcaption></figcaption></figure>
 
-* These tablets support both wired and wireless connection.
 * USB-C port location: top right
 * Multiple wireless connections: TBD
 

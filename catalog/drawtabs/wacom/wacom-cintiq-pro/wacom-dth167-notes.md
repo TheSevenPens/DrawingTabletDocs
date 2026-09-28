@@ -8,6 +8,75 @@ Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16
 
 User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Name | Cintiq Pro 16 2021 |
+| Released | 2021-10-20 |
+| Status | Discontinued |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | — |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 8 bits per channel |
+| Brightness | 300 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 30 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Active area | 344 × 194 mm (13.5 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Size | 410 × 266 × 22 mm (16.1 × 10.5 × 0.9 in) |
+| Weight | 1900 g |
+| VESA mount | Yes |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Ports | HDMI<br>USB-C (DisplayPort Alt Mode)<br>DC power |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
@@ -38,11 +107,7 @@ Rating: LOW. It has more than the Cintiq Pro 27 - but that is to be expected sin
 
 ## Ports
 
-It has 3 ports located on the top edge:
-
-* HDMI
-* USB-C (DP alt mode support)
-* Power.
+It has 3 ports located on the top edge.
 
 ## My connection configuration
 
@@ -76,17 +141,9 @@ Note that this is a bit of change from the Cintiq Pro 2016 (DTH-1620). The DTH-1
 
 Fans keep it cool. At the default brightness, the tablet is cool to the touch. At maximum brightness slightly warm.
 
-## VESA mounting
-
-It is VESA mountable.
-
 ## Stand
 
 It does not come with a stand. I use a VESA-compatible Huion stand to hold this tablet at an angle.
-
-## Legs
-
-No legs
 
 ## Diagonal Wobble
 

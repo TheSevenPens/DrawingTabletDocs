@@ -6,6 +6,75 @@
 * Drawing experience is pretty typical for this generation of Huion's products - works very well.
 * DO get the PW550 pen and use it instead of the PW517 pen that comes with this tablet.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
+| --- | --- |
+| Name | Kamvas 16 (2021) |
+| Released | 2021-06-15 |
+| Status | — |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | AG film |
+| sRGB | 120% |
+| Color depth | 8 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | — |
+| Response time | 25 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
+| --- | --- |
+| Active area | 344 × 194 mm (13.5 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
+| --- | --- |
+| Buttons | 10 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
+| --- | --- |
+| Size | 423.5 × 253 × 12 mm (16.7 × 10 × 0.5 in) |
+| Weight | 1260 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Included pen
 
 The tablet comes with the PW517 pen.
@@ -19,18 +88,8 @@ As with all Huion tablets that comes with the PW517 pen, I recommend you also bu
 
 ## Display specs
 
-* Resolution: 1920x1080
 * Pixel density: 142 PPI
 * Contrast ratio: 1000:1
-* Brightness: 220 nits (max)
-* Response time: 25ms
-* Color Gamut: 120% sRGB
-* Color: 8 bits per channel (RGB)
-* Display tech: IPS
-
-## Anti-glare treatment
-
-Type: Anti-glare Matte Film
 
 ## Anti-glare sparkle
 
@@ -38,7 +97,7 @@ Low amounts of AG sparkle. You'd have to put your eyes about 4 to 5 inches from 
 
 ## Buttons
 
-* Has 10 buttons on the left side.
+* The buttons are on the left side.
 
 ## Connections and cabling
 

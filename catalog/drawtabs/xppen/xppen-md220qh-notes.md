@@ -11,9 +11,77 @@
 
 ## Basics
 
-* Release year: 2025
 * Product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)
 * User manual [https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html)
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Name | Artist Pro 22 GEN2 |
+| Released | 2024-05-20 |
+| Status | — |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Resolution | 2560 × 1440 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 8 bits per channel |
+| Brightness | 250 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Active area | 475 × 267 mm (18.7 × 10.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Size | 547 × 362 × 33.4 mm (21.5 × 14.3 × 1.3 in) |
+| Weight | 5550 g |
+| VESA mount | Yes |
+| Legs | — |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Ports | USB-C<br>HDMI<br>DC power<br>3.5 mm audio |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 
@@ -28,36 +96,25 @@
 
 ## Core specs
 
-* Active Area:
-  * 18.716” x 10.528" -> 21.474" diagonal
-  * 475.392 mm x 267.408 mm -> 545.4mm diagonal
+* Active Area diagonal: 21.474" (545.4mm)
 * Aspect Ratio: 16x9
 * Accuracy: ±0.4 mm (center)
-* Report rate: 220Hz
 
 ## Display
 
-* **Resolution**: WQHD (2560x1440)
+* **Resolution**
   * This a significant upgrade from the Full HD (1920x1080) resolution of the XP-Pen Artist 22 Plus
-* Display panel tech: IPS
 * Aspect Ratio: 16:9
-* Lamination: YES
 * Viewing Angle: 178°
   * Minimal color shift at extreme left/right angles, with very slight dimming at steep up/down tilts.
-* Contrast: unspecified
-* Response time: unspecified
-* Refresh rate: 60hz
-* Brightness: 250 cd/m2
 
 ## **Display > Anti-glare**
 
-* Anti-glare treatment: Etched glass
 * Glare Reduction: The screen effectively reduced glare. Reflections are very well diffused.
 
 ## **Display > color**
 
-* Color depth: 8 bit
-* Color Gamut Coverage Ratio: 99% sRGB, 99% Adobe RGB, 94% Display P3
+* Color Gamut Coverage Ratio: 99% Adobe RGB, 94% Display P3
 * **Color Calibration Report**: Tablet package came with a factory calibration report with a Delta E value of 0.88. I'm not an expert on colors but I was told this is good.
 
 ## Included pen
@@ -156,9 +213,6 @@ EXCELLENT - I didn't see the pointer shift much at all as I tilted in different 
 
 ### Ports
 
-* USB-C
-* HDMI
-* power connection,
 * headphone jack - unexpected but appreciated
 
 ### Power
@@ -181,7 +235,6 @@ This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3
 
 ## Stand
 
-* The tablet comes with a stand.
 * The stand is pre-attached in the box. So you can start using it without any additional assembly.
 * Changing the angle of the stand is very easy thanks to the tall lever on the back. And there is a wide range of angles supported - from about 25 degrees to almost vertical.
 * The stand seems very sturdy and solidly built
@@ -196,7 +249,6 @@ This tablet does not use or come with a 3-in-1 cable. And you shouldn't need a 3
 
 ## VESA compatibility
 
-* Tablet supports VESA mounting.
 * The stand is attached via the VESA mounting holes on the back.
 
 ### Unboxing the XP-Pen Artist Pro 22 Gen 2

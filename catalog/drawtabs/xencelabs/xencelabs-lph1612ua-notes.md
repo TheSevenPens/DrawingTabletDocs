@@ -7,6 +7,75 @@ Overall good performance.
 * The pens don't have the super low IAF that you see in Wacom professional pens but most will be fine with the 3gf IAF they do offer.
 * Some moderate AG sparkle is visible - if you are sensitive to that then this tablert may not be the right choice
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Name | Pen Display 16 Lite |
+| Released | 2024-05-08 |
+| Status | — |
+| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | OLED |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 10 bits per channel |
+| Brightness | 300 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Active area | 344.2 × 193.6 mm (13.6 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Size | 410 × 259.4 × 12 mm (16.1 × 10.2 × 0.5 in) |
+| Weight | 1200 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)
@@ -21,26 +90,13 @@ Overall good performance.
 
 ## Core drawing tablet specs <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
 
-* Tech: Passive EMR
-* Pen pressure levels: 8192
-* Tilt: YES. 60 degrees
-* Active Area:
-  * 13.55 in x 7.6 in (344.2 x 193.6 mm)
-  * diagonal = 15.54" (394.9 mm)
-* Digitizer resolution: 5080 lpi (200 lpmm)
+* Active area diagonal: 15.54" (394.9 mm)
 
 ## Display specs <a href="#core-display-specs" id="core-display-specs"></a>
 
-* Display panel type: OLED
-* Panel bit depth: 10bit
-* Display resolution: 3840x2160 (4K)
 * Aspect Ratio: 16x9
 * Display size: 13.6 x 7.6" -> diagonal = 15.58"
-* Refresh rate max: Unknown
-* Surface: Etched glass
-* Response time: Unknown
 * Contrast ratio: 100000:1
-* Brightness: Up to 300 nits.
 * Parallax: Unknown
 
 ## Color Gamut
@@ -52,10 +108,6 @@ Overall good performance.
 * REC 2020 82%
 
 ## Pens
-
-* Comes with 2 pens.
-  * Button Pen + Eraser v2
-  * Thin Pen + Eraser v2
 
 For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 

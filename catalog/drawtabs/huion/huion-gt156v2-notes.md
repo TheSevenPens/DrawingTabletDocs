@@ -10,11 +10,79 @@ The key improvement here is that the tablet has a better pen: The PW600A whereas
 
 I think an even better choice would be the Kamvas 16 GEN3 (GS1563) which has a higher resolution.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Name | Kamvas Pro 16 V2 |
+| Released | 2025-10-21 |
+| Status | — |
+| Included pen | [PW600A (PW600A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600a) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 8 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | — |
+| Response time | 25 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Active area | 344.2 × 193.6 mm (13.5 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Size | 437.8 × 251.2 × 11.5 mm (17.2 × 9.9 × 0.5 in) |
+| Weight | 1360 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Basics
 
 * product page: [https://www.huion.com/products/pen\_display/KamvasPro/kamvas-pro-16-v2.html](https://www.huion.com/products/pen_display/KamvasPro/kamvas-pro-16-v2.html)
-* Included pen: PW600A
-  * This is a PenTech 4.0 pen which should offer a relatively wide (good) pressure range&#x20;
+* Included pen - This is a PenTech 4.0 pen which should offer a relatively wide (good) pressure range&#x20;
 
 ## Links
 

@@ -2,17 +2,78 @@
 
 ## Overview
 
-Release date: 2010
-
 NOTE: This is a second generation of the Cintiq 21 UX (DTZ-2100) that was released in 2005. [Wacom Cintiq 21UX 2005 (DTZ-2100) notes](wacom-dtz2100-notes.md).
+
+Aspect ratio: 4:3
 
 ## Specs
 
-### Display specs
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
 
-* Native resolution: 1600x1200
-* Aspect ratio: 4:3
-*
+{% tabs %}
+{% tab title="Model" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Name | Cintiq 21UX 2010 |
+| Released | 2010-03-26 |
+| Status | Discontinued |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Resolution | 1600 × 1200 |
+| Panel | IPS |
+| Lamination | — |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 8 bits per channel |
+| Brightness | 200 cd/m² |
+| Refresh rate | — |
+| Response time | 20 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Active area | 432 × 324 mm (17 × 12.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 2048 |
+| Tilt | ±40° |
+| Report rate | 133 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 5 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Size | — |
+| Weight | 8700 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Ports | — |
+| Attached cable | USB-A<br>DVI<br>DC power |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Connections and cabling
 

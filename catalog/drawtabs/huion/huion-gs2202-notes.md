@@ -6,10 +6,77 @@ The Huion Kamvas 22 Plus is one of the best price-to-performance pen displays in
 
 NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Name | Kamvas 22 Plus |
+| Released | 2020-06-11 |
+| Status | — |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 140% |
+| Color depth | 8 bits per channel |
+| Brightness | 250 cd/m² |
+| Refresh rate | — |
+| Response time | 14 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Active area | 477 × 268 mm (18.8 × 10.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Size | 546 × 323 × 19 mm (21.5 × 12.7 × 0.7 in) |
+| Weight | 2900 g |
+| VESA mount | Yes |
+| Legs | No |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Basics
 
-* Model number: GS2202
-* Release year: 2020
 * Active area: 22" diagonal
 * **Price** - It normally costs about $450 but I see it discounted often to $400
 
@@ -22,11 +89,6 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 
 * Size: 22" diagonal
 * Aspect ratio: 16x9
-* Display panel tech: IPS
-* Bit depth: 8 bits per pixel
-* Anti-glare treatment: Etched glass
-* Laminated: YES
-* Color gamut: 140% sRGB
 
 ## Pen
 
@@ -113,17 +175,11 @@ very good. has extremely low wobble.
 
 ### VESA
 
-Supports VESA mounting
-
 I have my Kamvas 22 plus mounted to an Ergotron LX. It works great. I especially like that it can lower the tablet enough that the bottom edge can rest on the desk. This adds for some extra stability.
 
 ### **Stand**
 
 Comes with a basic stand that attaches via VESA mounting. Nothing fancy. but works great.
-
-### **Legs**
-
-Tablet has no legs.
 
 ### **Heat**
 
@@ -132,10 +188,6 @@ display stays cool. I leave it on 24/7 and it has no hot spots.
 ### **Fan noise**
 
 NONE. It has no fans
-
-### **Touch**
-
-it does NOT have touch support
 
 ## **Usage notes**
 

@@ -1,4 +1,4 @@
-# Huion Kamvas Pro 16 Plus 4K (GT1562) notes
+# Huion Kamvas Pro 16 4K Plus (GT1562) notes
 
 {% hint style="info" %}
 This was a quick write up of this tablet that is missing a lot of details.
@@ -13,6 +13,75 @@ If you are going to get this tablet consider: [Upgrading from PW517 to PW550](..
 In all other ways besides the AG sparkle, I was satisfied with this tablet.
 
 I think a much better choice would be the Huion Kamvas 16 GEN3. [Huion Kamvas 16 GEN3 (GS1563) notes](huion-gs1563-notes.md).
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Name | Kamvas Pro 16 4K Plus |
+| Released | 2021-03 |
+| Status | — |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 145% |
+| Color depth | 8 bits per channel |
+| Brightness | 200 cd/m² |
+| Refresh rate | — |
+| Response time | 25 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Active area | 347 × 194 mm (13.7 × 7.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Size | 402.7 × 257.4 × 13 mm (15.9 × 10.1 × 0.5 in) |
+| Weight | 1270 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 

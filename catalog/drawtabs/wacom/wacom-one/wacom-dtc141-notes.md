@@ -26,14 +26,10 @@ This tablet makes sense for the following scenarios:
 
 ### Product information
 
-* Name: Wacom One 14
-* Model number DTC-141
-* Launch year: 2025
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 
 ### Active area
 
-* Dimensions: 309 x 174 mm
 * Diagonal length: 357.1 (14.06 in)
 * Aspect ratio: 16x9
 
@@ -51,26 +47,74 @@ This tablet makes sense for the following scenarios:
 
 ## Specs
 
-### Digitizer
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). Click a model ID to see its full record there.
 
-* Digitizer resolution: 2540 LPI (100 LPmm)
-* Number of pressure levels: 4096
-* Tilt: YES
-* Tilt range: ± 60°
-* Report rate: Unknown
+{% tabs %}
+{% tab title="Model" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Name | Wacom One 14 2025 |
+| Released | 2025-09-17 |
+| Status | Available |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+{% endtab %}
 
-### Display
+{% tab title="Display" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 98% |
+| Color depth | 8 bits per channel |
+| Brightness | 285 cd/m² |
+| Refresh rate | — |
+| Response time | 16 ms |
+{% endtab %}
 
-* Native resolution: 1920x1080 (Full HD)
-* Aspect ratio: 16x9
-* Surface Etched glass. Described as "AG + AF glass"
-* Laminated: YES. Described as "Direct Bonding"
-* Display panel: IPS
-* Contrast ratio: 1000:1
-* Brightness 285 nits
-* Response time: 16ms
-* Color bit depth: 8bpp
-* Color Gamut: sRGB (CIE 1931) 98％
+{% tab title="Digitizer" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Active area | 309 × 174 mm (12.2 × 6.9 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 4096 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 100 LPmm (2540 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Size | 336 × 201 × 10 mm (13.2 × 7.9 × 0.4 in) |
+| Weight | 750 g |
+| VESA mount | No |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
+## Pens
 
 ### Included pen
 
@@ -98,6 +142,12 @@ This tablet makes sense for the following scenarios:
   * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
 
 ## Display
+
+### Other display specs
+
+* Surface: Described as "AG + AF glass"
+* Lamination: Described as "Direct Bonding"
+* Contrast ratio: 1000:1
 
 ### Anti-glare sparkle
 
@@ -192,40 +242,21 @@ None. Completely silent. Has no fans to cause noise.
 
 Stayed cool to the touch even at 100% brightness brightness
 
-### Legs
-
-Does not have legs
-
 ### Stand
 
-* Does not come with a stand.
 * For this tablet, Wacom suggestes the Wacom Foldable Stand (ACK652Z). This costs $100
 * I used the tablet with a Parblo PR-100 stand
-
-### VESA mounting
-
-* NO. Has no VESA mounting holes on the back
 
 ## Other inputs
 
 ### Touch
-
-Does not support touch.
 
 If you need touch, consider these tablets:
 
 * Wacom Movink 13 (DTH-135)
 * Wacom One 13 touch (DTH-134)
 
-### Auxiliary inputs
-
-* None. No buttons, No dials, etc.
-
 ## Connections and cabling
-
-### Ports
-
-* 1 USB-C port
 
 ### USB-C connection
 

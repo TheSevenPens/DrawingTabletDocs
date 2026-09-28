@@ -16,8 +16,7 @@ An easy recommendation if you need what it offers.
 
 ### Active Area
 
-* 11.6in x 6.5in = 13.3in diagonal
-* 294mm x 165mm = 337mm diagonal
+* Diagonal: 13.3in (337mm)
 
 ### Weight
 
@@ -41,7 +40,7 @@ It weighs less than any of the these Intuos Pro pen tablets:
 * It is thinner than the Wacom One pen displays which are 14.6mm
 * It is even thinner than some pen tablets.
   * the Intuos Pro tablets (PTH-x60) are between 8mm and 8.45mm thick.
-  * The One by Wacom pen tablets (CTL-471, CTL-672) are 8.7mm think.
+  * The One by Wacom pen tablets (CTL-472, CTL-672) are 8.7mm think.
 
 ## Links
 
@@ -79,27 +78,86 @@ Also this variant pen does not come with any grips or any button strips.
 
 ## Specs
 
-### Digitizer
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movink_2024). Click a model ID to see its full record there.
 
-* Pen tech: EMR
-* Active Area diagonal: 13.3"
-* Pen pressure levels: 8192
-* Tilt: YES. 60 degrees
-* Resolution: 5080 LPI (200 LPMM)
-* Report rate: Wacom does not specify
-* Max hover height: Wacom does not specify
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Name | Movink 13 |
+| Released | 2024-04-24 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
 
-### Display
+{% tab title="Display" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | OLED |
+| Lamination | — |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 10 bits per channel |
+| Brightness | 350 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 0.2 ms |
+{% endtab %}
 
-* Display panel type: OLED
-* Panel bit depth: 10bit
-* Display resolution: 1920x1080 (HD)
+{% tab title="Digitizer" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Size | 319.5 × 205.2 × 6.6 mm (12.6 × 8.1 × 0.3 in) |
+| Weight | 420 g |
+| VESA mount | No |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | None |
+| Bluetooth | No |
+{% endtab %}
+{% endtabs %}
+
+## Accessories
+
+* Wacom Foldable stand
+* Wacom Movink Tablet Sleeve
+* Wacom Converter for HDMI
+
+## Display
+
+### Other display specs
+
 * Aspect Ratio: 16x9
 * Display size : 13.3"
-* Refresh rate max: 60Hz
-* Surface: Anti-glare glass (presumably means etched glass)
-  * They also say it has Anti-fingerprint coating
-* Response time: 0.2ms
+* Surface: Wacom also says it has Anti-fingerprint coating
 * Contrast ratio: 100000:1
 
 ### Display color modes
@@ -118,17 +176,7 @@ In the OSD you can alter the color modes.
 
 Out of the box, the color mode is set to Native. I use it with the sRGB color mode.
 
-## Accessories
-
-* Wacom Foldable stand
-* Wacom Movink Tablet Sleeve
-* Wacom Converter for HDMI
-
-## Display
-
 ### Brightness
-
-Wacom lists the max brightness at 350 nits.
 
 Out of the box the brightness is set to 50%.
 
@@ -279,8 +327,6 @@ The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
 
 ### Touch
 
-Yes
-
 * Windows - Works well on Windows
 * Mac OS - did not test
 
@@ -298,20 +344,6 @@ There are two side buttons. One on top left side and one on top right side. Ther
 ### Heat
 
 At 50% brightness and left running for a few hours the tablet felt cool to the touch.
-
-### **VESA mounting**
-
-This tablet does NOT have VESA mounting holes.
-
-### **Legs**
-
-This tablet does NOT have legs
-
-### Stand
-
-**Built in Stand** This tablet does not have a built in stand
-
-**Comes with stand** - No must be purchased separately
 
 ### Fans and Fan noise
 

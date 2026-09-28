@@ -25,23 +25,86 @@ Summary: The Cintiq 16 2025 is a significant upgrade in many ways
 
 ## Specs
 
-### Device weight
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Name | Cintiq 16 2025 |
+| Released | 2025-06-05 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Resolution | 2560 × 1600 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 100% |
+| Color depth | 8 bits per channel |
+| Brightness | 290 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 8 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Active area | 345 × 215 mm (13.6 × 8.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Size | 259 × 384 × 15 mm (10.2 × 15.1 × 0.6 in) |
+| Weight | 2000 g |
+| VESA mount | Yes (75×75) |
+| Legs | — |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Ports | USB-C (Power)<br>USB-C (Power, video and data)<br>Mini HDMI |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
+## Device weight
 
 Slightly heavier than other pen displays at this size
 
-* Wacom Cintiq 16 (2025): 1.5kg
+* Wacom Cintiq 16 (2025): 2.0kg
 * Xencelabs Pen Display 16: 1.3 kg
 * Huion Kamvas 16 gen 3: 1.2kg
 * Wacom Movink 13: 0.420kg
 
-### Display specs
+## Display specs
 
-* Display panel tech: IPS
-* Native resolution: 2560 x 1600
 * Aspect ratio: 16:10
-* Anti-glare treatment: AG glass
-* Laminated: YES - Wacom uses the term "bonded"
-* Response time: 12ms
+* Laminated: Wacom uses the term "bonded"
 
 ## Display experience
 
@@ -49,7 +112,6 @@ Slightly heavier than other pen displays at this size
 
 * Color gamut (Wacom specified)
   * DCI-P3 99% (CIE1931) (typ)
-  * sRGB 100% (CIE1931) (typ)
 * I was satisfied with color.
 * This is not a "wide-gamut" display
 * Its colors are pleasing and a big improvement over older Cintiq, non-Pro, models that had washed-out colors.
@@ -99,10 +161,7 @@ Slightly heavier than other pen displays at this size
 
 ### Ports
 
-* USB-C for power
-* USB-C for power, video, data
-* mini-HDMI
-  * it does NOT come with a mini-HDMI adapter.
+* It does NOT come with a mini-HDMI adapter.
 
 ### Connection options
 
@@ -128,16 +187,6 @@ Slightly heavier than other pen displays at this size
   * It can be a little tricky to plug the cable in because of that "thing" on the back
     * Some people consider using a USB-C L-type adapter
 
-## Other inputs
-
-### Buttons, dials, etc
-
-NONE
-
-### Touch
-
-NO. This tablet does not support touch.
-
 ## On-Screen Display Menu (OSD)
 
 * Button above the power button on the right side of the tablet
@@ -145,14 +194,6 @@ NO. This tablet does not support touch.
 * You will have to pick a language the first time you open the OSD before you can use it
 
 ## Ergonomics
-
-### VESA
-
-The tablet does support VESA Mounting
-
-### Stand
-
-No stand is included in the box
 
 ### Fans
 

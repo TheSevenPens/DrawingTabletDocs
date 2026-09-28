@@ -4,6 +4,75 @@
 
 A worthy successor to the Kamvas 22 (GS2201) and Kamvas 22 Plus (GS2202) models from 2020. Like the other Huion GEN3 pen displays, the primary improvement comes from the included PW600L. Another surprising addition is support for up to a 90Hz refresh rate. The cabling is also simpler than on the GS2201 and GS2202.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Name | Kamvas 22 GEN3 |
+| Released | 2026-03-03 |
+| Status | — |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Resolution | 2560 × 1440 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 130% |
+| Color depth | 8 bits per channel |
+| Brightness | 250 cd/m² |
+| Refresh rate | 90 Hz |
+| Response time | 14 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Active area | 475.4 × 267.4 mm (18.7 × 10.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Size | 527.7 × 324.7 × 36.7 mm (20.8 × 12.8 × 1.4 in) |
+| Weight | — |
+| VESA mount | Yes |
+| Legs | — |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Ports | DC power<br>USB-C (Full-featured)<br>HDMI |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * Product page: [https://www.huion.com/products/kamvas-22-gen-3](https://www.huion.com/products/kamvas-22-gen-3)
@@ -11,10 +80,6 @@ A worthy successor to the Kamvas 22 (GS2201) and Kamvas 22 Plus (GS2202) models 
 * [Teoh on Tech - Huion Kamvas 22 (Gen 3) review: Sleek upgrade](https://www.youtube.com/watch?v=Mbijan2Gm9U) - 2026-03-05
 * [Adam Duff LUCIDPIXUL - HUION Kamvas 22 (Gen 3) - A Turning Point For Huion!](https://www.youtube.com/watch?v=IDvACjevj2A) - 2026-03-05
 * [Gartzia Artz - HUION IS BACK | Kamvas 22 gen 3 The new Queen Great Quality/Price](https://www.youtube.com/watch?v=2mSJLNawCO4) - 2026-03-05
-
-## Basics
-
-Model: GS2203
 
 ## Device
 
@@ -87,12 +152,6 @@ Overall, it is good. While there is a little bit of wobble, it is comparable to 
 
 ## Connectivity and cabling
 
-### Ports
-
-* Power
-* USB-C (full-featured)
-* HDMI
-
 ### HDMI connection option
 
 This requires 3 cables:
@@ -118,25 +177,11 @@ This requires 2 cables:
 * I do like the port locations because they hide the cables from view
 * I do wish this tablet (and many others) also came with DisplayPort ports because so many GPUs have only one HDMI output, but multiple DisplayPort outputs.
 
-## Non-pen inputs
-
-### Touch
-
-This tablet does NOT support touch.
-
-### Tablet buttons
-
-NONE. The tablet has no buttons, dials, or similar controls.
-
 ## Ergonomics
 
 ### Stand
 
 This tablet comes with a VESA-attached stand that is pre-attached.
-
-### VESA compatibility
-
-YES - 4 VESA mounting holes on the back.
 
 ### Ambient RGB lighting
 

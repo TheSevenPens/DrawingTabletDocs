@@ -2,9 +2,76 @@
 
 ## Overview
 
-Release date: 2005
-
 NOTE: A second-generation 21UX model (DTK-2100) was released in 2010.
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Name | Cintiq 21UX 2005 |
+| Released | 2005-02-26 |
+| Status | Discontinued |
+| Included pen | [Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Resolution | 1600 × 1200 |
+| Panel | IPS |
+| Lamination | — |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 8 bits per channel |
+| Brightness | 200 cd/m² |
+| Refresh rate | — |
+| Response time | 20 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Active area | 432 × 324 mm (17 × 12.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 2048 |
+| Tilt | ±40° |
+| Report rate | 133 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 5 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Size | 561 × 421 × 47.8 mm (22.1 × 16.6 × 1.9 in) |
+| Weight | 8700 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## My experience in 2007
 

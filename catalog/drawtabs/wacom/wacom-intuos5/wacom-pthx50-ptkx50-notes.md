@@ -12,15 +12,57 @@ This is the last time "Intuos + Number" was how these professional pen tablets w
 
 ## Models
 
-## Core specs
+## Specs
 
-* Pressure levels: 2048
-* Digitizer resolution: 5080 LPI (200 LPMM)
-* Tilt range: ±60°
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos5_2012). Click a model ID to see its full record there.
 
-## Included pen
+{% tabs %}
+{% tab title="Model" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Name | Intuos5 touch Small | Intuos5 touch Medium | Intuos5 touch Large | Intuos5 Small | Intuos5 Medium |
+| Released | 2012-03-01 | 2012-03-01 | 2012-03-01 | 2012-03-01 | 2012-03-01 |
+| Status | Discontinued | Discontinued | Discontinued | Discontinued | Discontinued |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+{% endtab %}
 
-Grip pen (KP-501E)
+{% tab title="Digitizer" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Active area | 157.5 × 98.4 mm (6.2 × 3.9 in) | 223.5 × 139.7 mm (8.8 × 5.5 in) | 325.1 × 203.2 mm (12.8 × 8 in) | 157.5 × 98.4 mm (6.2 × 3.9 in) | 223.5 × 139.7 mm (8.8 × 5.5 in) |
+| Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
+| Pressure levels | 2048 | 2048 | 2048 | 2048 | 2048 |
+| Tilt | ±60° | ±60° | ±60° | ±60° | ±60° |
+| Report rate | 200 Hz | 200 Hz | 200 Hz | 200 Hz | 200 Hz |
+| Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
+| Max hover | — | — | — | — | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Buttons | — | — | — | — | — |
+| Dials | — | — | — | — | — |
+| Touch rings | — | — | — | — | — |
+| Touch strips | — | — | — | — | — |
+| Touch | Yes | Yes | Yes | No | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Size | 320 × 208.2 × 12.7 mm (12.6 × 8.2 × 0.5 in) | 381 × 251.5 × 12.7 mm (15 × 9.9 × 0.5 in) | 487.7 × 317.5 × 12.7 mm (19.2 × 12.5 × 0.5 in) | 320 × 208.2 × 12.7 mm (12.6 × 8.2 × 0.5 in) | 381 × 251.5 × 12.7 mm (15 × 9.9 × 0.5 in) |
+| Weight | 660 g | 990 g | 1800 g | 660 g | 990 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Ports | — | — | — | — | — |
+| Attached cable | — | — | — | — | — |
+| Bluetooth | — | — | — | — | — |
+{% endtab %}
+{% endtabs %}
 
 ## Pen compatibility
 

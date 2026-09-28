@@ -6,6 +6,75 @@ In summary this is a very nice tablet. Wacom Cintiq Pro models are still better 
 
 [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Name | Artist Pro 16 GEN2 |
+| Released | 2023-08-14 |
+| Status | — |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Resolution | 2560 × 1600 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 8 bits per channel |
+| Brightness | 250 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 20 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Active area | 345 × 215 mm (13.6 × 8.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 200 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Size | 405.1 × 291.4 × 20.2 mm (15.9 × 11.5 × 0.8 in) |
+| Weight | — |
+| VESA mount | No |
+| Legs | Yes |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## **Links**
 
 * User manual: [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
@@ -27,9 +96,9 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 ## **Display**
 
-**Native resolution** - 2560x1600. This is big improvement over an HD (1920x1080) screen at this size.
+**Native resolution** - This is big improvement over an HD (1920x1080) screen at this size.
 
-**Refresh rate** - 60Hz. TYPICAL. Normal for pen displays.
+**Refresh rate** - TYPICAL. Normal for pen displays.
 
 **Sharpness** - GOOD. The AG treatment does not add any blurriness.
 
@@ -86,15 +155,7 @@ Overall - totally acceptable and addding a little brush smoothing eliminates it.
 
 ## Legs
 
-YES - It has two foldable legs on the back allow it to be propped up at an angle. However, I just use a spare HUION stand for a better angle.
-
-## Express Keys
-
-NONE.
-
-## VESA mounting
-
-This tablet does NOT support the VESA mounting standard.
+It has two foldable legs on the back allow it to be propped up at an angle. However, I just use a spare HUION stand for a better angle.
 
 ## Shape
 
@@ -105,10 +166,6 @@ This tablet does NOT support the VESA mounting standard.
 ## Audio features
 
 None. No speakers. No headphone jack.
-
-## Touch
-
-This tablet does NOT support touch.
 
 ## Heat
 

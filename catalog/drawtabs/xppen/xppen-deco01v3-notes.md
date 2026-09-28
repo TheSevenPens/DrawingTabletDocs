@@ -10,7 +10,58 @@ There similar tablets and some have better pens with lower IAF: [Pen tablet reco
 
 * Product page: [https://www.xp-pen.com/product/deco-01-v3.html](https://www.xp-pen.com/product/deco-01-v3.html)
 * User manual: [https://www.xp-pen.com/user-manual/deco-01-v3.html](https://www.xp-pen.com/user-manual/deco-01-v3.html)
-* Release year: 2025
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Name | Deco 01 V3 |
+| Released | 2024 |
+| Status | — |
+| Included pen | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Active area | 254 × 159 mm (10 × 6.3 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 220 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Size | 350.5 × 215.9 × 8 mm (13.8 × 8.5 × 0.3 in) |
+| Weight | 570 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 

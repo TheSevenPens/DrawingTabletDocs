@@ -28,28 +28,88 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 ## Basics
 
 * product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)
-* released: 2024
 
 ## Active area
 
-* Dimensions: 11.57" x 6.5"
 * Diagonal length: 13.27"
 * Aspect ratio: 16:9
 
 ## Specs
 
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Name | Kamvas 13 GEN3 |
+| Released | 2024-09-01 |
+| Status | — |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | — |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 8 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 25 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Buttons | 5 |
+| Dials | 2 |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Size | 361.2 × 202.8 × 11.7 mm (14.2 × 8 × 0.5 in) |
+| Weight | 865 g |
+| VESA mount | No |
+| Legs | No |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
+## Other specs
+
 ### Display specs
 
-* Native resolution: 1920x1080
-* Refresh rate: 60Hz
 * Aspect ratio: 16:9
-* Lamination: YES
-* Viewing angle: 178°
-* Response time: 25ms
-* Brightness: 220 nits
+* Viewing angle: 165°
 * Contrast ratio: 1000:1
-* Anti-glare treatment: Etched glass
-* Color depth: 8-bit
 
 ## Included pen
 
@@ -134,15 +194,10 @@ Pixels are clear and well delineated. The image does not look "soft".
 
 GOOD. It provides good grip, even when the pen uses a plastic nib. The surface texture seems comparable to the Kamvas Pro 19. Actually, the Kamvas 13 GEN3 seems to have slightly more texture.
 
-## Touch
-
-N/A. This tablet does NOT support touch.
-
 ## Connections and cabling
 
 ### Ports
 
-* 2x USB-C ports
 * Upper USB-C port is recessed into the tablet. It is intended for use with the Huion 3-in-1 cable
 * Lower USB-C port is flush with the tablet surface and is intended for use with a USB-C cable
 
@@ -162,14 +217,6 @@ The tablet comes with a 3-in-1 cable if you need to use an HDMI port with your c
 
 ## Ergonomics
 
-### VESA
-
-This tablet does NOT support VESA mounting.
-
-### Legs
-
-This tablet does NOT have legs.
-
 ### Heat
 
 I set the brightness to 100% and continued to use the tablet for 1 hour.
@@ -183,11 +230,6 @@ The right one-third of the tablet got slightly warm - mostly near the USB-C port
 This tablet does not have any audio features and does not have a headphone jack.
 
 ## Auxiliary inputs
-
-The tablet has:
-
-* 2 dials
-* 5 buttons
 
 ### Protecting the dials
 

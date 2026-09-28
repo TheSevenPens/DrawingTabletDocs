@@ -4,6 +4,58 @@
 
 Had a good experience with this tablet after using for six months.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pentablet). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Name | Pen Tablet Medium V1 |
+| Released | 2021-02-23 |
+| Status | — |
+| Included pen | [3-Button Pen V1 (3BUTTONV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv1)<br>[Thin Pen V1 (THINV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv1) |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Active area | 262 × 147 mm (10.3 × 5.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Size | 320.5 × 232.5 × 8 mm (12.6 × 9.2 × 0.3 in) |
+| Weight | 715 g |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Notes
 
 * Product page: [https://www.xencelabs.com/us/products/explore-pen-tablet-medium](https://www.xencelabs.com/us/products/explore-pen-tablet-medium)

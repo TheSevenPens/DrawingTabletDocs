@@ -4,6 +4,75 @@
 
 <mark style="color:red;">**These notes are in progress**</mark>
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Name | Kamvas Pro 24 GEN3 |
+| Released | 2025-10-17 |
+| Status | Available |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 140% |
+| Color depth | 10 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 14 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Active area | 525.9 × 295.8 mm (20.7 × 11.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 9 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Size | 589.2 × 364 × 22.7 mm (23.2 × 14.3 × 0.9 in) |
+| Weight | 6365 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Ports | HDMI<br>DisplayPort<br>USB-C (Full-featured)<br>DC power |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [Trent Kaniuga - Huion Kamvas Pro 24 Gen 3 Review](https://www.youtube.com/watch?v=XgOq3xCci20) 2026-07-02
@@ -14,34 +83,17 @@
 ## Digitizer specs
 
 * Active area:
-  * Dimensions: 525.89 mm x 295.81 mm
   * Diagonal: TBD
-* Resolution: 200 LPmm (5080 LPI)
-* Max hover: 9mm
-* Tilt: ±60°
-* Pressure levels: 16384
 * Accuracy:
   * Center: ±0.3mm
   * Corner: ±1mm
 
 ## Display specs
 
-* Native resolution: 3840x2160
 * Pixel density: 185 PPI
-* Display tech: IPS
-* Laminated: YES
-* Anti-glare treatment: Etched glass
 * Contrast ratio: 1000:1
-* Brightness: 250 nits
-* Response time : 14ms
-* Refresh rate: 60Hz
 
 ## Pens
-
-### Included pens
-
-* PW600
-* PW600S
 
 ### Compatible pens
 
@@ -73,13 +125,6 @@
 
 ## Connections and cabling
 
-### Ports
-
-* HDMI
-* DIsplayPort
-* USB-C (full-featured)
-* Power
-
 ### HDMI connection
 
 For HDMI you connect with three separate cables for power, video, and data.
@@ -108,13 +153,8 @@ You can connect this tablet with a single USB-C cable for video and data. The ca
 
 ### Touch
 
-* Yes supports touch
 * Worked well in Windows
 * I did not test with MacOS.
-
-### Buttons, Dials, etc.
-
-* Tablet has no buttons
 
 ## Remotes
 

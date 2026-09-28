@@ -8,19 +8,79 @@ This is my favorite tablet of the 70+ that I own. I prefer drawing on this one m
 
 * My notes on the [Wacom Cintiq Pro 27 (DTH-271)](wacom-dth271-notes.md)
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Name | Cintiq Pro 22 |
+| Released | 2023-10-19 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | — |
+| Color depth | 10 bits per channel |
+| Brightness | 300 cd/m² |
+| Refresh rate | 120 Hz |
+| Response time | 12 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Active area | 476 × 268 mm (18.7 × 10.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Buttons | 8 |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Size | 517 × 312 × 30 mm (20.4 × 12.3 × 1.2 in) |
+| Weight | 5000 g |
+| VESA mount | Yes (100×100) |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Ports | — |
+| Attached cable | — |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Basics
 
-* Release year: 2023
 * Product page: [https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH227.html](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
-
-## General
-
-* Active Area / Display size: 476 x 268 mm (18.7 x 10.5 in)
-
-## Pens
-
-Comes with a Wacom Pro Pen 3.
 
 ## Compatible pens
 
@@ -30,17 +90,12 @@ I mostly use the Wacom Pro Pen 2 with this tablet.
 
 ## Display specs
 
-* Native resolution: 3840 x 2160
 * Aspect ratio: 16x9
 * Size: 26.9 in (68.3 cm)
-* Brightness: 300 nits.
+* Brightness
   * I run it at 50% brightness.
   * The larger Cintiq Pro 27 can get up to 400 nits of brightness.
-* Display panel tech: IPS
-* Color Depth: 10bit (per channel)
-* Laminated: yes
-* AG treatment: Etched glass
-* Refresh rate: 120Hz.
+* Refresh rate
   * I run it at 60Hz
 
 ### Color modes
@@ -126,14 +181,11 @@ Instead of using Wacom's USB-C cable, I use a Cable Matters Thunderbolt 3 cable 
 
 ### Touch
 
-Supports touch.
-
 * There is a physical button on the back of the pen display to enable/disable touch.
 * Most of the time I disable touch but occasionally use it when I need to.
 
 ### Express Keys
 
-* total of 8
 * 4 on back left
 * 4 on back right
 * I don't enjoy the ExpressKeys. I find them awkward to use. Instead, I use a TourBox.
@@ -166,18 +218,12 @@ There is no control over the speed of the fans.
 
 ### Stand
 
-It does NOT come with a stand.
-
 There is a specific Wacom Cintiq 22 Stand which is very expensive.
 
 I used this tablet with two different non-Wacom stands:
 
 * **Huion ST100 stand**. This stand is designed for 24"+ pen displays. With the Cintiq Pro 22 using the ST100 stand at the lowest angle means that the bottom of the tablet does not touch the desk and so doesn't provide any additional stability. As a result, at the lowest angle there is some wobble while drawing on the tablet. You need to increase the angle a little bit to ensure that the bottom of the tablet touches the desk. At that point drawing is stable.
 * **VIVO STAND-V100R stand**. More here: [VIVO Pneumatic Arm Monitor Desk Stand (STAND-V100R)](../../../accessories/stands/vivo-v100r.md)
-
-### Legs
-
-It does NOT have any legs.
 
 ### Laying flat
 
@@ -186,6 +232,3 @@ The back of the pen display has pieces that stick out due to the buttons. This m
 * It does not lay down flat on a desk
 * It will slide around easily
 
-### VESA mounting
-
-It has 100mmx100mm VESA mounting holes on the back.

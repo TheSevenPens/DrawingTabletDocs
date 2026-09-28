@@ -4,6 +4,75 @@
 
 I've been very satisfied with this tablet.
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Name | Kamvas Pro 24 4K |
+| Released | 2021-09-23 |
+| Status | — |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Resolution | 3840 × 2160 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 140% |
+| Color depth | 10 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 10 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Active area | 527 × 296 mm (20.7 × 11.7 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | 300 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Size | 589 × 364 × 22.7 mm (23.2 × 14.3 × 0.9 in) |
+| Weight | 6300 g |
+| VESA mount | Yes |
+| Legs | Yes |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Ports | DC power<br>USB-C<br>DisplayPort<br>HDMI<br>USB-A<br>USB-A<br>3.5 mm audio |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
 ## Basics
 
 * User manual [https://www.huion.com/manaul\_pdf/de/Kamvas%20Pro%2024(4K).pdf](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024\(4K\).pdf)
@@ -33,17 +102,9 @@ Good. Like all pen displays slightly inaccurate in the edges and corner by a cou
 
 Normal for a pen display. Slightly more than the Cintiq Pro 27.
 
-## **Stand**
-
-does not come with a stand.
-
 ## **Legs**
 
 Has bult-in legs that give it a nice drawing angle.
-
-## VESA support
-
-YES. The tablet is VESA mountable.
 
 ## Anti-glare sparkle
 
@@ -77,12 +138,7 @@ Wobble is minor and only noticeable in very slow strokes.
 
 ## Ports
 
-* Power
-* USB-C
-* DisplayPort
-* HDMI
-* 2x USB-A ports on right side
-* Headphone jack on right side
+* The USB-A ports and the headphone jack are on the right side
 
 <figure><img src="../../../.gitbook/assets/huion-gt2401-notes-2.png" alt=""><figcaption></figcaption></figure>
 

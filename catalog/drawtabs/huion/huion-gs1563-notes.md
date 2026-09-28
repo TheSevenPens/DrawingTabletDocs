@@ -40,77 +40,102 @@ My full notes are not available yet, but I did livestream my unboxing and basic 
 * [Brad Colbow review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=t2gEAky5ns8) 2025-01-07
 * [Teoh on Tech blog review of Huion Kamvas 16 GEN3 (GS1563)](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) 2025-01-09
 
-## Basics
-
-* Name: Huion Kamvas 16 GEN3
-* Model: GS1563
-* Year released: 2025
-
 ## Specs
 
-### Device specs
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
 
-* Dimensions: 421.2 x 236.81 x 12.62mm
-* Weight: 1.245kg
-* Ports: 2 USB-C ports
-  * 1x USB-C port for use with the 3-in-1 cable
-  * 1x full-featured USB-C port
+{% tabs %}
+{% tab title="Model" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Name | Kamvas 16 GEN3 |
+| Released | 2025-01-07 |
+| Status | — |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Resolution | 2560 × 1440 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 120% |
+| Color depth | 8 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 14 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Active area | 350 × 197 mm (13.8 × 7.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Buttons | 6 |
+| Dials | 2 |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Size | 421.2 × 236.8 × 12.6 mm (16.6 × 9.3 × 0.5 in) |
+| Weight | 1245 g |
+| VESA mount | — |
+| Legs | No |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Ports | USB-C<br>USB-C (Full-featured) |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
+
+## Other specs
 
 ### Digitizer specs
 
-* Size
-  * Dimensions:
-    * 350 x 197mm
-  * Diagonal: 15.8”
-* Tech: EMR
-* Resolution: 200LPMM (5080 LPI)
-* Number of pressure levels: 16384
-* Hover: 10mm
-* Report Rate: ＞260PPS
+* Diagonal: 15.8”
 * Accuracy:
   * Center: ±0.3mm
   * Corner: ±2mm
 
 ### Display specs
 
-* Native resolution: 2560 x 1440
 * Aspect ratio: 16:9
-* Display tech: IPS
-* Laminated: Yes
-* AG treatment: AG etched glass
 * Contrast ratio: 1000:1
-* Brightness: 220 nits
-* Response time: 14ms
 * Viewing angle: 89°/89°(H)/89°/89°(V) (Typ.)(CR＞10)
-* Color Gamut Volume:
-  * 120% sRGB
-  * Coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB
-* Color bit depth: 8 bits per channel (24 bits per pixel)
+* Color gamut coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB
 
 ## Pen
 
 ### Included pen
 
 * The tablet comes with the PW600L, which is a really good pen in terms of pressure handling.
-* Pen Technology: Battery-Free Electromagnetic Resonance
 * See: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
-
-## Non-pen inputs
-
-### Buttons & dials
-
-* 6 buttons
-* 2 dials
-
-### Touch
-
-This tablet does NOT support touch.
 
 ## Ergonomics
 
 ### Stand
 
-* This tablet comes with the ST300 stand in the box.
 * The recommended stand is the Huion ST300.
 
 ## Display experience
@@ -174,6 +199,9 @@ EXCELLENT. Tracks flawlessly across all 4 quadrants (North, South, East, West). 
 ## Cabling and connections
 
 ### Power & Ports
+
+* 1x USB-C port for use with the 3-in-1 cable
+* 1x full-featured USB-C port
 
 Features two right-side USB-C ports, one recessed and one flat. The tablet can comfortably run off a single full-featured USB-C cable connected to a laptop like a MacBook Pro that has a USB-C port that meets the requirements for data, power, and video.
 

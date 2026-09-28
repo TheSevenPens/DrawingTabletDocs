@@ -488,7 +488,7 @@
       * [Huion Kamvas 22 Plus (GS2202) notes](catalog/drawtabs/huion/huion-gs2202-notes.md "Kamvas 22 Plus (GS2202)")
       * [Huion Kamvas Pro 24 GEN3 (GT2402) notes](catalog/drawtabs/huion/huion-gt2402-notes.md "Kamvas Pro 24 GEN3 (GT2402)")
       * [Huion Kamvas Pro 24 4K (GT2401) notes](catalog/drawtabs/huion/huion-gt2401-notes.md "Kamvas Pro 24 4K (GT2401)")
-      * [Huion Kamvas Pro 16 Plus 4K (GT1562) notes](catalog/drawtabs/huion/huion-gt1562-notes.md "Kamvas Pro 16 Plus 4K (GT1562)")
+      * [Huion Kamvas Pro 16 4K Plus (GT1562) notes](catalog/drawtabs/huion/huion-gt1562-notes.md "Kamvas Pro 16 4K Plus (GT1562)")
       * [Huion Kamvas Pro 19 (GT1902) notes](catalog/drawtabs/huion/huion-gt1902-notes.md "Kamvas Pro 19 (GT1902)")
       * [Huion Kamvas 16 2021 (GS1562) notes](catalog/drawtabs/huion/huion-gs1562-notes.md "Kamvas 16 2021 (GS1562)")
       * [Huion Kamvas 13 GEN3 (GS1333) notes](catalog/drawtabs/huion/huion-gs1333-notes.md "Kamvas 13 GEN3 (GS1333)")

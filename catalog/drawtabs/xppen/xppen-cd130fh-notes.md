@@ -6,9 +6,77 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 
 ## Basics
 
-* Model year: 2022
 * Product page: [https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html](https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html)
 * [user manual](https://download01.xp-pen.com/file/2022/07/Artist%20Series%20Drawing%20Display%20\(2nd%20Gen\)\(English\).pdf)
+
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Name | Artist 13 GEN2 |
+| Released | 2022-04-29 |
+| Status | — |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | — |
+| Lamination | Yes |
+| Anti-glare | AG film |
+| sRGB | 130% |
+| Color depth | 8 bits per channel |
+| Brightness | 220 cd/m² |
+| Refresh rate | — |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Buttons | — |
+| Dials | — |
+| Touch rings | — |
+| Touch strips | — |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Size | 378 × 225 × 12 mm (14.9 × 8.9 × 0.5 in) |
+| Weight | — |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Ports | USB-C<br>USB-C |
+| Attached cable | None |
+| Bluetooth | — |
+{% endtab %}
+{% endtabs %}
 
 ## Pen
 

@@ -5,7 +5,8 @@ Usage (from the repo root):
 
 Without --write, prints the section. With --write, replaces the page's existing "## Specs"
 section (up to the next "## " heading) or inserts it after the "## Models" section (or the
-section named by --after, e.g. --after Overview for single-model pages).
+section named by --after, e.g. --after Overview for single-model pages; --after END appends it
+to a page that has no "## " headings).
 
 Data comes from a local DrawTabData checkout: $DRAWTABDATA_DIR if set, otherwise the
 data-repo submodule of a DrawTabDataExplorer clone next to this repo.
@@ -223,16 +224,19 @@ def section(entity_ids, family_id=None):
 
 
 def write(page, text, after='Models'):
+    crlf = b'\r\n' in open(page, 'rb').read()  # keep the file's existing line endings
     src = open(page, encoding='utf-8').read()
     m = re.search(r'^## Specs\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
     if m:
         new = src[:m.start()] + text + '\n' + src[m.end():]
+    elif after == 'END':
+        new = src.rstrip('\n') + '\n\n' + text
     else:
         m = re.search(rf'^## {re.escape(after)}\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
         if not m:
             sys.exit(f'No "## Specs" section to replace and no "## {after}" section to insert after (use --after)')
         new = src[:m.end()] + text + '\n' + src[m.end():]
-    open(page, 'w', encoding='utf-8', newline='\n').write(new)
+    open(page, 'w', encoding='utf-8', newline='\r\n' if crlf else '\n').write(new)
 
 
 if __name__ == '__main__':
