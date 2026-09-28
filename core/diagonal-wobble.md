@@ -6,7 +6,7 @@ Diagonal wobble is a regular displacement of the tablet's interpretation of the 
 
 You might also see this referred to as "jitter."
 
-Not to be confused with [Stroke quantization](stroke-quantization.md), which looks similar but is a Windows software problem that can usually be fixed.
+Not to be confused with [Stroke quantization](coordinate-quantization.md), which looks similar but is a Windows software problem that can usually be fixed.
 
 ## Companion video
 
@@ -109,9 +109,9 @@ All were created using my standard testing process: [Measuring diagonal wobble](
 
 ## Examples to learn from
 
-**Two different results from two units of the same model**&#x20;
+**Two different results from two units of the same model**
 
-* See at 8:06 in this Brad Colbow video: [https://youtu.be/0VaH-UTRL7A?t=486](https://youtu.be/0VaH-UTRL7A?t=486)&#x20;
+* See at 8:06 in this Brad Colbow video: [https://youtu.be/0VaH-UTRL7A?t=486](https://youtu.be/0VaH-UTRL7A?t=486)
   * There is some wobble in that segment of the video.
   * However, in my own testing of a unit, I did not find much wobble at all: [XP-Pen Deco LW (IT1060B) notes](../catalog/drawtabs/xppen/xppen-it1060b-notes.md)
   * Why do these results differ? A couple of theories

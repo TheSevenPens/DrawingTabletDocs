@@ -1,4 +1,4 @@
-# Stroke quantization
+# Coordinate quantization
 
 ## Overview
 
@@ -15,7 +15,11 @@ If you have this problem now, go here: [TSG: Strokes look stair-stepped (quantiz
 * It can happen at any angle - though it is more obvious when pens are moving diagonally
 * It tends to be more visible as you draw slower. Drawing faster tends to mask the effect visually even though it is still actually happening
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>brush with is constant (1 pixel)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>brush width varies by pressure</p></figcaption></figure>
+
+
 
 Notice that it looks different from diagonal wobble - which is smoother, more wave-like, and more spread out over the length of the stroke
 
