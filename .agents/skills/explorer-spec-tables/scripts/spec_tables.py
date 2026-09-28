@@ -1,10 +1,11 @@
 """Generate the standard "## Specs" section for a catalog notes page from DrawTabData.
 
 Usage (from the repo root):
-  python .agents/skills/explorer-spec-tables/scripts/spec_tables.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--write]
+  python .agents/skills/explorer-spec-tables/scripts/spec_tables.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--after <heading>] [--write]
 
 Without --write, prints the section. With --write, replaces the page's existing "## Specs"
-section (up to the next "## " heading) or inserts it after the "## Models" section.
+section (up to the next "## " heading) or inserts it after the "## Models" section (or the
+section named by --after, e.g. --after Overview for single-model pages).
 
 Data comes from a local DrawTabData checkout: $DRAWTABDATA_DIR if set, otherwise the
 data-repo submodule of a DrawTabDataExplorer clone next to this repo.
@@ -109,15 +110,17 @@ DISPLAY = [
     ('Panel', plain('Display.PanelTech')),
     ('Lamination', lambda t: yes_no(g(t, 'Display.Lamination'))),
     ('Anti-glare', plain('Display.AntiGlare', lambda v: ANTIGLARE.get(v, v))),
-    ('sRGB', unit('Display.ColorGamuts.SRGB', '%')),
+    ('sRGB', lambda t: DASH if g(t, 'Display.ColorGamuts.SRGB') is None else f"{num(g(t, 'Display.ColorGamuts.SRGB'))}%"),
+    ('Color depth', unit('Display.ColorBitDepth', 'bits per channel')),
     ('Brightness', unit('Display.Brightness', 'cd/m²')),
     ('Refresh rate', unit('Display.RefreshRate', 'Hz')),
+    ('Response time', unit('Display.ResponseTime', 'ms')),
 ]
 STANDALONE = [
     ('OS', plain('Standalone.OS')),
     ('Processor', plain('Standalone.Processor')),
-    ('RAM', plain('Standalone.RAM')),
-    ('Storage', plain('Standalone.Storage')),
+    ('RAM', unit('Standalone.RAM', 'GB')),
+    ('Storage', unit('Standalone.Storage', 'GB')),
 ]
 PHYSICAL = [
     ('Size', lambda t: mm_in(g(t, 'Physical.Dimensions.Width'), g(t, 'Physical.Dimensions.Height'), g(t, 'Physical.Dimensions.Depth'))),
@@ -219,15 +222,15 @@ def section(entity_ids, family_id=None):
     return '\n'.join(parts) + '\n'
 
 
-def write(page, text):
+def write(page, text, after='Models'):
     src = open(page, encoding='utf-8').read()
     m = re.search(r'^## Specs\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
     if m:
         new = src[:m.start()] + text + '\n' + src[m.end():]
     else:
-        m = re.search(r'^## Models\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
+        m = re.search(rf'^## {re.escape(after)}\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
         if not m:
-            sys.exit('No "## Models" section to insert after')
+            sys.exit(f'No "## Specs" section to replace and no "## {after}" section to insert after (use --after)')
         new = src[:m.end()] + text + '\n' + src[m.end():]
     open(page, 'w', encoding='utf-8', newline='\n').write(new)
 
@@ -236,13 +239,15 @@ if __name__ == '__main__':
     args = sys.argv[1:]
     do_write = '--write' in args
     args = [a for a in args if a != '--write']
-    fam = None
+    fam, after = None, 'Models'
     if '--family' in args:
         i = args.index('--family'); fam = args[i + 1]; del args[i:i + 2]
+    if '--after' in args:
+        i = args.index('--after'); after = args[i + 1]; del args[i:i + 2]
     page, ids = args[0], args[1:]
     text = section(ids, fam)
     if do_write:
-        write(page, text)
+        write(page, text, after)
         print('wrote', page)
     else:
         print(text)

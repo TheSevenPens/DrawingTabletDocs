@@ -20,17 +20,6 @@ These here are some of my initial thoughts on this device.
 
 Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
 
-* Dimensions 266 x 182 x 7 mm / 10.5 x 7.2 x 0.3 in
-* Weight: 588 g / 1.3 lb
-* Memory: 8GB
-* Storage: 128GB
-* Operating System: Android 14
-
-### Active area
-
-* Dimensions: 243 x 159 mm (9.6 x 6.3 in)
-* Diagonal length: 11"
-
 ### What's in the box
 
 * MovinkPad 11
@@ -40,27 +29,82 @@ Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https:/
 
 ## Specs
 
-### Digitizer
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). Click a model ID to see its full record there.
 
-* Technology: EMR
-* Dimensions: 243 x 159 mm (9.6 x 6.3 in)
-* Digitizer resolution: 5090LPI (200 LPmm)
-* Number of pressure levels: 8192
-* Tilt: YES
-* Tilt range: ± 60°
-* Report rate: Unknown
+{% tabs %}
+{% tab title="Model" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Name | Wacom MovinkPad 11 |
+| Released | 2025-07-17 |
+| Status | Available |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+{% endtab %}
 
-### Display
+{% tab title="Display" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Resolution | 2200 × 1440 |
+| Panel | IPS |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | 8 bits per channel |
+| Brightness | 400 cd/m² |
+| Refresh rate | 90 Hz |
+| Response time | — |
+{% endtab %}
 
-* Native resolution: 2200x1440
-* Color Gamut: sRGB 99% (CIE1931)
-* Color depth: 24bit color (8 bits per channel)
-* Aspect ratio: 3x2
-* Contrast ratio: 1200:1
-* Brightness: 400cd/m<sup>2</sup> (typ)
-* Refresh rate: 60hz & 90hz
-* Surface: AF + AG glass
-* Display panel: IPS
+{% tab title="Digitizer" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Active area | 243 × 159 mm (9.6 × 6.3 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Size | 266 × 182 × 7 mm (10.5 × 7.2 × 0.3 in) |
+| Weight | 588 g |
+| VESA mount | No |
+| Legs | No |
+| Included stand | No |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Ports | USB-C (USB 2.0) |
+| Attached cable | None |
+| Bluetooth | Yes (5.2) |
+| Wi-Fi | 802.11a/b/g/n/ac |
+{% endtab %}
+
+{% tab title="Computer" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| OS | Android 14 |
+| Processor | MediaTek Helio G99 |
+| RAM | 8 GB |
+| Storage | 128 GB |
+{% endtab %}
+{% endtabs %}
 
 ## Movink vs MovinkPad
 

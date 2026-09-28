@@ -6,7 +6,74 @@ As of July 2024, although released in 2019, the Wacom Cintiq 22 continues to del
 
 I bought mine used from eBay for $380 and was very satisfied.
 
-Model year: 2019
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Name | Cintiq 22 |
+| Released | 2019-07-16 |
+| Status | Discontinued |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Resolution | 1920 × 1080 |
+| Panel | IPS |
+| Lamination | No |
+| Anti-glare | AG film |
+| sRGB | 96% |
+| Color depth | 8 bits per channel |
+| Brightness | 210 cd/m² |
+| Refresh rate | 60 Hz |
+| Response time | 22 ms |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Active area | 476 × 268 mm (18.7 × 10.6 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 8192 |
+| Tilt | ±60° |
+| Report rate | — |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | No |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Size | 570 × 359 × 40 mm (22.4 × 14.1 × 1.6 in) |
+| Weight | 5600 g |
+| VESA mount | Yes (100×100) |
+| Legs | No |
+| Included stand | Yes |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Ports | DC power<br>USB-B<br>HDMI |
+| Attached cable | None |
+| Bluetooth | No |
+{% endtab %}
+{% endtabs %}
 
 ## Links
 
@@ -15,12 +82,6 @@ Model year: 2019
 * [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019-07-18
 * [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019-08-23
 * [MobileTechReview review of Wacom Cintiq 22](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019-07-19
-
-## Basics
-
-Release year: 2019
-
-User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
 
 ## Setup
 
@@ -32,33 +93,17 @@ User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](https://101.w
 
 **Pressure handling** - EXCELLENT. See my notes on the Pro Pen 2.
 
-## Display > basics
+## Display
 
-**Size:** 21.5 in (55 cm)
+**Lamination** - This is not a laminated display. Yes this introduces a very slight increase in parallax but not much. And it did not affect my drawing.
 
-**Lamination** - NO. This is not a laminated display. Yes this introduces a very slight increase in parallax but not much. And it did not affect my drawing.
-
-**Refresh Rate** - Standard. up to 60 Hz.
-
-**Resolution** - 1920x1080
-
-**Brightness**: 210 nits specified. Like many pen displays, this is not a super bright display - which is fine because most people tend to keep their eyes closer to the screen than a normal monitor and if the display was brighter, it might be overwhelming.
+**Brightness** - Like many pen displays, this is not a super bright display - which is fine because most people tend to keep their eyes closer to the screen than a normal monitor and if the display was brighter, it might be overwhelming.
 
 **Can you see pixels?** YES clearly. Which is to be expected with this resolution at this size.
 
-**Bit depth**: 8bits per channel
+**Response time** - This response time is fine for drawing and office work. Serious gamers will likely not want to use this for a gaming monitor.
 
-**AG film:** YES
-
-**Etched glass:** NO
-
-**Response time (G2G):** 22ms. This response time is fine for drawing and office work. Serious gamers will likely not want to use this for a gaming monitor.
-
-**Color gamut:**
-
-* 72% NTSC
-* 96% sRGB
-* The colors look fine. This is not a modern wide-gamut display so you might find it looks less saturated than other modern displays. But I think it looks fine and works well for my needs. I prefer to work in sRGB anyway.
+**Color gamut** - The colors look fine. This is not a modern wide-gamut display so you might find it looks less saturated than other modern displays. But I think it looks fine and works well for my needs. I prefer to work in sRGB anyway.
 
 ## **Pen tracking**
 
@@ -88,10 +133,6 @@ pixels are clearly visible and well delineated
 
 I think this did have a little more backlight bleed than other pen displays. I am not particularly sensitive to backlight bleed, and it did not affect me at all.
 
-## **Auxiliary inputs**
-
-Tablet has none.
-
 ## **VESA mounting**
 
 YES. This tablet supports VESA mounting (100mmx100mm)
@@ -100,11 +141,7 @@ I did not test with any VESA arm or stand.
 
 ## **Stand**
 
-I think the original packaging includes a stand but the used package I bought on eBay did not come with a stand.
-
-## **Legs**
-
-Does not have legs.
+New, the Cintiq 22 ships with its stand attached ([Wacom user manual](https://101.wacom.com/UserHelp/en/About_Cintiq22_2018.htm)). The used one I bought on eBay did not come with the stand.
 
 ## Surface Texture
 
@@ -119,10 +156,6 @@ It does not have any fans. You can clearly see that there are no fans in various
 ## Noise
 
 Silent.
-
-## Touch
-
-NO. This tablet does NOT support touch.
 
 ## Heat
 
@@ -142,12 +175,6 @@ The device works very well on the desk. It does not slip around due to the 4 rub
 * No headphone jack
 
 ## **Cables and Connectivity**
-
-**Ports**
-
-* Power
-* USB-B
-* HDMI
 
 **Port location**
 
