@@ -80,6 +80,15 @@ Here is a list of problem areas, roughly in order from the computer to your tabl
 
 The problem might exist in any of these components. Troubleshoot each component to find the root cause.
 
+## Is this a new problem?
+
+You might have bought a new pen display that has never worked — you have always seen this NO SIGNAL message. Or you may have used your pen display successfully before and suddenly started seeing a NO SIGNAL message.
+
+As a general thought, you might want to prioritize different investigations depending on your situation:
+
+* **If it NEVER worked**: prioritize wrong cabling, unsupported USB-C video, wrong port, incompatible adapter, missing power, bad cable, unsupported topology.
+* **If it WORKED BEFORE**: prioritize loose/failing cable, port/dock/adapter failure, OS/GPU update, display configuration change, sleep/wake state, resolution/refresh changes, or hardware failure.
+
 ## Restart your computer
 
 One of the simplest ways to diagnose or resolve a "no signal" problem is to restart your computer. This can force the computer to redetect displays, and your pen display might start showing a video signal. It may not always work, but it is worth trying. If it does not work after one or two restarts, do not repeat it.
@@ -88,11 +97,21 @@ One of the simplest ways to diagnose or resolve a "no signal" problem is to rest
 
 If you plug in a pen display, the computer should detect it as another monitor. In your operating system's **Display Settings**, you should see two displays. One should be your tablet's display.
 
+This is the MOST IMPORTANT early investigation step. If the computer cannot detect the pen display's screen, it will never send a video signal.
+
+If the computer does not see the display from the tablet, it will not send a video signal to it. Follow these troubleshooting steps: [TSG: Computer does not detect the display](tsg-display-detection.md)
+
+Solve this problem before you move on to the rest of the guide below.
+
 | Windows 11                                                                     | macOS (Ventura)                             |
 | ------------------------------------------------------------------------------ | ------------------------------------------- |
 | <img src="../.gitbook/assets/tsg-no-signal-3.png" alt="" data-size="original"> | ![](../.gitbook/assets/tsg-no-signal-1.png) |
 
-If your computer does not see the display from the tablet, it will not send a video signal to it. Follow these troubleshooting steps: [TSG: Computer does not detect the display](tsg-display-detection.md)
+## Simplify the connection options and environment
+
+* Temporarily:
+  * Remove everything "in the middle" of the video connection. Try a direct connection from your computer to the video cable to the pen display. Remove docks, hubs, KVMs, HDMI switches, HDMI adapters, and extension cables.
+  * Remove additional docks, dongles, adapters, and video capture devices. These devices can interfere with how your operating system sends a video signal.
 
 ## Verify cable connections
 
@@ -108,9 +127,15 @@ Even if your computer detects the display on your drawing tablet, your operating
 
 For example, in Windows, the display in your tablet might be configured to "show desktop only on Display \<X>". Change it to one of the other options that uses the tablet display.
 
-## Verify that your computer can send an HDMI signal
+## Verify that the cable for video can send a video signal to another display
 
-If your pen display uses HDMI, disconnect it and connect another monitor to the same HDMI port. Check whether the port sends a video signal.
+This rules out the video cable itself as the problem. Connect the HDMI or USB-C cable to a normal monitor or another device that can show a video signal.
+
+## Verify that your computer can send a video signal to a known-good display device
+
+If your pen display uses HDMI, disconnect it. Then connect another known-good display device, such as a monitor or TV, to the same HDMI port on your computer. If the known-good device works, the computer is sending a video signal over the cable you are using.
+
+If you are trying to send video over USB-C, you can try the same process. However, there are usually fewer display devices available that support getting a video signal via USB-C.
 
 ## Verify that the pen display can receive an HDMI signal from another device
 
@@ -125,7 +150,7 @@ Try connecting your pen display to another HDMI source. This can be another PC, 
   * Reattach all cables.
   * Turn on the tablet.
 * Variations to try
-  * Some people recommend disconnecting power, then holding the tablet power button down for a long time, such as 30 seconds, before reconnecting.
+  * Some people recommend disconnecting power, then holding the tablet's power button for a long time, such as 30 seconds, before reconnecting.
   * Some people recommend leaving the tablet disconnected for an extended period, such as 30 minutes, before reconnecting.
 
 ## Explore HDMI connection options
@@ -142,7 +167,9 @@ Your computer may have multiple HDMI ports. Try different ones.
 
 ### GPU HDMI vs motherboard HDMI
 
-In general, use GPU HDMI ports instead of motherboard HDMI ports.
+If you have a desktop computer, you may have HDMI ports on the GPU or motherboard. Always try the GPU's HDMI ports first. Use the motherboard's HDMI ports only as a last resort.
+
+Sometimes motherboard HDMI ports cannot send a video signal because of missing internal hardware. They may also be disabled in the computer's BIOS and difficult to enable. Do not spend time troubleshooting motherboard HDMI problems early in your investigation.
 
 More here: [Motherboard HDMI vs GPU HDMI ports](../guides/connecting/connecting-pen-display/motherboard-vs-gpu-hdmi.md).
 
@@ -196,7 +223,7 @@ You might see indicators next to a port that it can carry a display signal. Thes
 
 If your computer has multiple USB-C ports, not all may support a video signal. It could be all, some, or none of them. Read your computer's documentation to be sure. Many USB-C ports support only power and data.
 
-### USB-C ports on computer's motherboard
+### USB-C ports on your computer's motherboard
 
 If you have a desktop PC and use a USB-C port on the motherboard I/O panel, the port may support video. To enable it, you may need to:
 
@@ -238,17 +265,17 @@ Read the documentation for your graphics card to verify how many active outputs 
   * Extend the contents of your desktop across both screens. This means that the screens will show different things.
 * If you get no signal in extended mode, try mirrored mode, and vice versa.
 
-### Test video refresh rates
+### Test video resolution and refresh rates
 
-If your computer recognizes an attached display but you still get no signal, try changing the refresh rate for that display.
+If your computer recognizes an attached display but you still get no signal, try changing the refresh rate for that display. Sometimes a misconfigured refresh rate causes the computer to stop sending a signal. For example, a Windows update can reset the refresh rate to an unsupported value. Changing it back to 60 Hz can make the display work again.
 
-Sometimes a misconfigured refresh rate causes the computer to stop sending a signal. For example, a Windows update can reset the refresh rate to an unsupported value. Changing it back to 60 Hz can make the display work again.
+As a baseline, set your computer to use your pen display's native resolution and 60 Hz.
 
-Always verify the refresh rate.
+Then explore lowering the resolution and refresh rate separately.
 
-Start with a lower refresh rate, then work up to higher ones.
+If it works on a lower resolution/refresh rate setting, then try moving it back up to what the tablet supports.
 
-Typically, pen displays go only up to 60 Hz.
+If it works at lower settings, it might indicate a cabling problem. For example, you might be using an older HDMI cable that does not support modern resolutions and refresh rates. An older cable may support 1920 × 1080 at 60 Hz but show no signal at 2560 × 1440 at 60 Hz. This is another reason to use the cables provided by the manufacturer. They should support your pen display's resolution and refresh rate.
 
 ### Test video resolution
 

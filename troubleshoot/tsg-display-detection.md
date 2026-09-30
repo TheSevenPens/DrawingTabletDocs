@@ -37,11 +37,31 @@ This is a very common mistake.
 
 Check the ports to ensure that there isn't some lint or other material preventing a secure connection. Material like lint in the port can prevent the cable from working.
 
+## Windows > Windows + P
+
+Pressing Windows+P will bring up this menu below.
+
+If multiple displays are detected you should see options like **Duplicate** or **Extend**.
+
+Try both Duplicate and Extend to see it it makes a difference.
+
+
+
+<figure><img src="../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Windows > built-in display detection
 
 In Display Settings, there is an option to detect a display. Try it.
 
 <div align="left"><figure><img src="../.gitbook/assets/tsg-display-detection-5.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+## Windows > Windows + B to reset the graphics driver
+
+Press WINDOWS+B to reset the graphics driver.
+
+* [PugetSystems - How Ctrl+Win+Shift+B Changed My Life](https://www.pugetsystems.com/support/guides/how-ctrlwinshiftb-changed-my-life/)   &#x20;
+
+
 
 ## MacOS
 
