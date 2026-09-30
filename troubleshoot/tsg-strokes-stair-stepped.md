@@ -9,7 +9,7 @@ Your strokes come out looking tightly stair-stepped, as if the pen position were
 * It is more visible when you draw slowly
 * It happens on Windows. I've never seen it occur on MacOS.
 
-This effect is called **coordinate quantization**. For a full explanation of what it is and why it happens, see: [Coordinate quantization](../core/coordinate-quantization.md)
+This effect is called **coordinate quantization**. For a full explanation of what it is and why it happens, see: [Coordinate quantization](../core/digitizer-vs-screen-coordinates.md)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

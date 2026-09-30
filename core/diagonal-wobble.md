@@ -6,7 +6,7 @@ Diagonal wobble is a regular displacement of the tablet's interpretation of the 
 
 You might also see this referred to as "jitter."
 
-Not to be confused with [Stroke quantization](coordinate-quantization.md), which looks similar but is a Windows software problem that can usually be fixed.
+Not to be confused with [Stroke quantization](digitizer-vs-screen-coordinates.md), which looks similar but is a Windows software problem that can usually be fixed.
 
 ## Companion video
 

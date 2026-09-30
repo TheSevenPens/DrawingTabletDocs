@@ -112,7 +112,7 @@
   * [Pointer lag](core/pointer-lag.md)
   * [Brush lag](core/lag.md)
   * [Diagonal wobble](core/diagonal-wobble.md)
-  * [Coordinate quantization](core/coordinate-quantization.md)
+  * [Digitizer vs screen coordinates](core/digitizer-vs-screen-coordinates.md)
   * [Surface texture](core/surface-texture.md)
   * [Auxiliary inputs](core/expresskeys/README.md)
     * [Popular bindings for auxiliary inputs](core/expresskeys/popular-bindings.md "Popular bindings")
