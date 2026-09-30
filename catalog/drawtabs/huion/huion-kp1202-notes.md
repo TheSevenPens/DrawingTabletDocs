@@ -4,11 +4,91 @@
 
 * Product page: [https://www.huion.com/products/kamvas-pad-12](https://www.huion.com/products/kamvas-pad-12)
 
+## Specs
+
+These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
+
+{% tabs %}
+{% tab title="Model" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Name | Kamvas Pad 12 |
+| Released | 2026 |
+| Status | Available |
+| Included pen | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
+{% endtab %}
+
+{% tab title="Display" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Resolution | 2400 × 1600 |
+| Panel | — |
+| Lamination | Yes |
+| Anti-glare | Etched glass |
+| sRGB | 99% |
+| Color depth | — |
+| Brightness | 350 cd/m² |
+| Refresh rate | — |
+| Response time | — |
+{% endtab %}
+
+{% tab title="Digitizer" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Active area | 257.9 × 171.9 mm (10.2 × 6.8 in) |
+| Pen technology | Passive EMR |
+| Pressure levels | 16384 |
+| Tilt | ±60° |
+| Report rate | 260 Hz |
+| Density | 200 LPmm (5080 LPI) |
+| Max hover | — |
+{% endtab %}
+
+{% tab title="Other inputs" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Buttons | 0 |
+| Dials | 0 |
+| Touch rings | 0 |
+| Touch strips | 0 |
+| Touch | Yes |
+{% endtab %}
+
+{% tab title="Physical" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Size | 281.5 × 195.5 × 7.8 mm (11.1 × 7.7 × 0.3 in) |
+| Weight | 665 g |
+| VESA mount | — |
+| Legs | — |
+| Included stand | — |
+{% endtab %}
+
+{% tab title="Connectivity" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Ports | USB-C |
+| Attached cable | — |
+| Bluetooth | Yes (5.4) |
+| Wi-Fi | 2.4GHz, 5GHz |
+{% endtab %}
+
+{% tab title="Computer" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| OS | Android 16 |
+| Processor | MediaTek Genio 720 |
+| RAM | 8 GB |
+| Storage | 256 GB |
+{% endtab %}
+{% endtabs %}
+
 ## Links
 
 * [Teoh on Tech - Huion Kamvas Pad 12 (review)](https://www.youtube.com/watch?v=LIXwSRkvejg) 2026-09-07
 * [Brad Colbow - huion kamvas pad 12 review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) 2026-09-08
 * [Adam Duff - Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) 2026-09-08
+* [Gartzia Artz - The tablet Huion should have released 3 years ago | Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) 2026-09-30
 
 
 
@@ -95,7 +175,7 @@ There is another setting to control pressure softness or firmness. It appears as
 
 **Performance**
 
-The tablet comes with a MediaTek Geno 720 processor. In general, reviewers considered its performance acceptable for drawing, but it is definitely not a high-performance device.
+The tablet comes with a MediaTek Genio 720 processor. In general, reviewers considered its performance acceptable for drawing, but it is definitely not a high-performance device.
 
 Brad ran a PassMark benchmark and noticed that it seemed about 30% slower than a Wacom MovinkPad 11.
 
