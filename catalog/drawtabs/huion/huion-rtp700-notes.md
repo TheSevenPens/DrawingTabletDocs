@@ -22,9 +22,9 @@ At low pressures there is some instability that causes pressure pulsing. It is m
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/inspiroy-rtp-700)
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/inspiroy-rtp-700) |  |
 
 ## Specs
 

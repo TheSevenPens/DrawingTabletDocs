@@ -10,18 +10,15 @@ NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-22-plus)
-* [Store page](https://store.huion.com/products/kamvas-22-series)
-
-### Reviews
-
-* [Huion Kamvas 22 Plus - Display Tablet Review](https://youtu.be/mlYTRD2KmeY) - Nemanja Sekulic, 2022-03-04
-* [XP Pen Artist 22 vs Huion Kamvas 22 Plus](https://www.youtube.com/watch?v=OdWsAKd4EoI) - Teoh on Tech, 2021-02-09
-* [Huion Kamvas 22 Plus Review](https://youtu.be/GJxGzJgfYGA) - Brad Colbow, 2020-09-08
-* [Huion Kamvas 22 Plus laminated display is better than iPad Pro's](https://www.youtube.com/watch?v=s41Svr_7HWg) - Teoh on Tech, 2020-08-06
-* [Huion KAMVAS 22 Plus](https://www.parkablogs.com/content/review-huion-kamvas-22-plus-pen-display) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-22-plus) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-22-series) |  |
+| Nemanja Sekulic | [Huion Kamvas 22 Plus - Display Tablet Review](https://youtu.be/mlYTRD2KmeY) | 2022-03-04 |
+| Teoh on Tech | [XP Pen Artist 22 vs Huion Kamvas 22 Plus](https://www.youtube.com/watch?v=OdWsAKd4EoI) | 2021-02-09 |
+| Brad Colbow | [Huion Kamvas 22 Plus Review](https://youtu.be/GJxGzJgfYGA) | 2020-09-08 |
+| Teoh on Tech | [Huion Kamvas 22 Plus laminated display is better than iPad Pro's](https://www.youtube.com/watch?v=s41Svr_7HWg) | 2020-08-06 |
+| Parka Blogs | [Huion KAMVAS 22 Plus](https://www.parkablogs.com/content/review-huion-kamvas-22-plus-pen-display) |  |
 
 ## Specs
 

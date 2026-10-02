@@ -10,13 +10,10 @@ This brand is very new so this is a very good start for them. As always with new
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.digidraw.com/en/product/T610T410)
-
-### Reviews
-
-* [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) - Seven Pens
+| Source | Link | Date |
+| --- | --- | --- |
+| DigiDraw | [Product page](https://www.digidraw.com/en/product/T610T410) |  |
+| Seven Pens | [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) |  |
 
 ## Specs
 

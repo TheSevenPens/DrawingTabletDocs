@@ -10,15 +10,12 @@ The Cintiq Pro 32 is from the same generation: [Cintiq Pro 32 (DTH-3220) notes](
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-1620.html)
-
-### Reviews
-
-* [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) - Gartzia Artz, 2023-04-30
-* [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=g4RMx17npmU) - MobileTechReview, 2017-07-17
-* [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=JQxsD_EfGAE) - Unskilled Guy, 2017-03-29
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-1620.html) |  |
+| Gartzia Artz | [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) | 2023-04-30 |
+| MobileTechReview | [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=g4RMx17npmU) | 2017-07-17 |
+| Unskilled Guy | [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=JQxsD_EfGAE) | 2017-03-29 |
 
 ## Specs
 

@@ -8,18 +8,15 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/standalone-magic-drawing-pad.html)
-* [Store page](https://www.xp-pen.com/store/buy/magic-drawing-pad.html)
-
-### Reviews
-
-* [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) - Teoh on Tech, 2025-08-26
-* [XPPen Magic Drawing Pad 2025 review: New features, new pen](https://www.youtube.com/watch?v=VivJ6R7Cmwg) - Teoh on Tech, 2025-08-14
-* [Artist Review: XPPen Magic Drawing Pad (2025 update)](https://www.parkablogs.com/content/xppen-magic-drawing-pad-2025-update) - Parka Blogs, 2025-07-27
-* [XP-Pen Magic Drawing Pad GEN2 Unboxing and Testing](https://www.youtube.com/watch?v=ixB873qU9mU) - Seven Pens, 2025-07-18
-* [XPPen Magic drawing pad upgraded version 2025 review by a professional artist](https://www.youtube.com/watch?v=I0pPUT5WoLY) - Michael Clarida, 2025-07-09
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/standalone-magic-drawing-pad.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/magic-drawing-pad.html) |  |
+| Teoh on Tech | [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) | 2025-08-26 |
+| Teoh on Tech | [XPPen Magic Drawing Pad 2025 review: New features, new pen](https://www.youtube.com/watch?v=VivJ6R7Cmwg) | 2025-08-14 |
+| Parka Blogs | [Artist Review: XPPen Magic Drawing Pad (2025 update)](https://www.parkablogs.com/content/xppen-magic-drawing-pad-2025-update) | 2025-07-27 |
+| Seven Pens | [XP-Pen Magic Drawing Pad GEN2 Unboxing and Testing](https://www.youtube.com/watch?v=ixB873qU9mU) | 2025-07-18 |
+| Michael Clarida | [XPPen Magic drawing pad upgraded version 2025 review by a professional artist](https://www.youtube.com/watch?v=I0pPUT5WoLY) | 2025-07-09 |
 
 ## Specs
 

@@ -14,13 +14,10 @@ At this time, the name “Intuos” indicated that a tablet was part of Wacom's 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos1_1998). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](https://101.wacom.com/productsupport/manual/IntuosUserManual.pdf)
-
-### Reviews
-
-* [This 23 year old tablet is still going!](https://www.youtube.com/watch?v=eXgcuOzg1-M) - EyekooDrawsStuff, 2021-10-27 (GD-1212-U)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](https://101.wacom.com/productsupport/manual/IntuosUserManual.pdf) |  |
+| EyekooDrawsStuff | [This 23 year old tablet is still going!](https://www.youtube.com/watch?v=eXgcuOzg1-M) (GD-1212-U) | 2021-10-27 |
 
 ## Specs
 

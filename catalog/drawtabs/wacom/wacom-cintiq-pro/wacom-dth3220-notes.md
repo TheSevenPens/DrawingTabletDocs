@@ -8,16 +8,13 @@ The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html)
-
-### Reviews
-
-* [Cintiq Pro 32 (DTH-3220 ) Live testing and Q&A](https://www.youtube.com/watch?v=hUFB9kBYy4E) - Seven Pens, 2026-08-01
-* [Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) - The Art of Aaron Blaise, 2019-01-24
-* [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) - Aaron Rutten, 2018-12-13
-* [REVIEW/IN-USE VIDEO Wacom Cintiq Pro 32 - by digital artist/creative entrepreneur Wieger Poutsma.](https://www.youtube.com/watch?v=GgYu9zXD8Gk) - Wieger Poutsma, 2018-11-19
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html) |  |
+| Seven Pens | [Cintiq Pro 32 (DTH-3220 ) Live testing and Q&A](https://www.youtube.com/watch?v=hUFB9kBYy4E) | 2026-08-01 |
+| The Art of Aaron Blaise | [Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) | 2019-01-24 |
+| Aaron Rutten | [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) | 2018-12-13 |
+| Wieger Poutsma | [REVIEW/IN-USE VIDEO Wacom Cintiq Pro 32 - by digital artist/creative entrepreneur Wieger Poutsma.](https://www.youtube.com/watch?v=GgYu9zXD8Gk) | 2018-11-19 |
 
 ## Specs
 

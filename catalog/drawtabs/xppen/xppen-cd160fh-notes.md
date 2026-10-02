@@ -8,18 +8,15 @@ Overall decent tablet for an entry level 16" pen display. It does have a a very 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-16-2nd-gen.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-16-2nd-gen.html)
-* [User manual](https://www.xp-pen.com/user-manual/artist-16-2nd.html)
-
-### Reviews
-
-* [XP-Pen Artist 16 (2nd Gen) Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) - Teoh on Tech, 2022-06-06
-* [XP-Pen Artist 16 (2nd Gen) Review](https://youtu.be/4czV7jv9mPg) - Brad Colbow, 2022-06-01
-* [XP-Pen Artist 16 (2nd Gen) pen display review](https://youtu.be/0yKRSAE8_Ng) - Teoh on Tech, 2022-05-26
-* [XP-Pen Artist 16 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-16-2nd-gen) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-16-2nd-gen.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-16-2nd-gen.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-16-2nd.html) |  |
+| Teoh on Tech | [XP-Pen Artist 16 (2nd Gen) Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) | 2022-06-06 |
+| Brad Colbow | [XP-Pen Artist 16 (2nd Gen) Review](https://youtu.be/4czV7jv9mPg) | 2022-06-01 |
+| Teoh on Tech | [XP-Pen Artist 16 (2nd Gen) pen display review](https://youtu.be/0yKRSAE8_Ng) | 2022-05-26 |
+| Parka Blogs | [XP-Pen Artist 16 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-16-2nd-gen) |  |
 
 ## Specs
 

@@ -8,19 +8,16 @@ I used this tablet from 2023-07-26 to 2023-11-01 and have been very happy with i
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_decoprogen2). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)
-* [Store page](https://www.xp-pen.com/store/buy/deco-pro-gen2.html)
-
-### Reviews
-
-* [XPPEN's Deco Pro Gen 2 Review - their pro screenless tablet evolves](https://www.youtube.com/watch?v=itnwkJVlWiw) - EyekooDrawsStuff, 2024-11-29
-* [XP-Pen Deco Pro XLW Gen 2 first impressions on Ubuntu 22.04](https://krita-artists.org/t/xp-pen-deco-pro-xlw-gen-2-first-impressions-on-ubuntu-22-04/84085) - YRH, 2024-02-08
-* [El tamaño Importa LA TABLETA MÁS GRANDE | Review XP Pen Deco Pro XLW Gen 2](https://www.youtube.com/watch?v=6jN0uwM9FME) - Gartzia Artz, 2023-12-01
-* [Review: XPPen Deco Pro (gen 2) pen tablet](https://www.parkablogs.com/content/review-xppen-deco-pro-gen-2-pen-tablet) - Parka Blogs, 2023-07-26
-* [XPPen Deco Pro (gen 2) review - Get the right size](https://youtu.be/h8NG0zmYdtE) - Teoh on Tech, 2023-07-25
-* [XP-Pen Deco Pro Gen2 XL - Review](https://youtu.be/pRLBRTWPlQU) - Joseph Montanez, 2023-06-20
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/deco-pro-gen-2-series.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/deco-pro-gen2.html) |  |
+| EyekooDrawsStuff | [XPPEN's Deco Pro Gen 2 Review - their pro screenless tablet evolves](https://www.youtube.com/watch?v=itnwkJVlWiw) | 2024-11-29 |
+| YRH | [XP-Pen Deco Pro XLW Gen 2 first impressions on Ubuntu 22.04](https://krita-artists.org/t/xp-pen-deco-pro-xlw-gen-2-first-impressions-on-ubuntu-22-04/84085) | 2024-02-08 |
+| Gartzia Artz | [El tamaño Importa LA TABLETA MÁS GRANDE \| Review XP Pen Deco Pro XLW Gen 2](https://www.youtube.com/watch?v=6jN0uwM9FME) | 2023-12-01 |
+| Parka Blogs | [Review: XPPen Deco Pro (gen 2) pen tablet](https://www.parkablogs.com/content/review-xppen-deco-pro-gen-2-pen-tablet) | 2023-07-26 |
+| Teoh on Tech | [XPPen Deco Pro (gen 2) review - Get the right size](https://youtu.be/h8NG0zmYdtE) | 2023-07-25 |
+| Joseph Montanez | [XP-Pen Deco Pro Gen2 XL - Review](https://youtu.be/pRLBRTWPlQU) | 2023-06-20 |
 
 ## Specs
 

@@ -14,17 +14,14 @@ While not inexpensive it is a fantastic value for getting something with such a 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq)
-* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-24-touch-dth246k0a.html)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH246.html)
-
-### Reviews
-
-* [Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) - Brad Colbow, 2025-07-28
-* [2025 Wacom Cintiq 24 Touch (Review)](https://www.youtube.com/watch?v=Oo4m5EgCSWE) - Aaron Rutten, 2025-07-01
-* [New Wacom Cintiq 24 Touch (2025) unboxing and testing](https://www.youtube.com/watch?v=Lm-5X-gFtuw) - Seven Pens, 2025-06-25
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-cintiq) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-cintiq-24-touch-dth246k0a.html) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH246.html) |  |
+| Brad Colbow | [Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) | 2025-07-28 |
+| Aaron Rutten | [2025 Wacom Cintiq 24 Touch (Review)](https://www.youtube.com/watch?v=Oo4m5EgCSWE) | 2025-07-01 |
+| Seven Pens | [New Wacom Cintiq 24 Touch (2025) unboxing and testing](https://www.youtube.com/watch?v=Lm-5X-gFtuw) | 2025-06-25 |
 
 ## Specs
 

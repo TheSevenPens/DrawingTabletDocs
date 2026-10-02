@@ -54,7 +54,7 @@ Each notes page also has a generated `## Links` section, right before `## Specs`
 python .agents/skills/explorer-spec-tables/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] --write
 ```
 
-It lists, from the manufacturer, the product page, store page and user manual. Then it lists reviews, newest first, with the reviewer and date. On a page with several models, a link that applies to only some of them names those model IDs. DEAD links (per the link check) and links back to the page itself are left out. `--write` replaces the existing `## Links` section or inserts one before `## Specs`.
+It writes one table with the columns Source | Link | Date. The manufacturer's rows come first (product page, store page, user manual), then reviews, newest first. On a page with several models, a link that applies to only some of them names those model IDs in the Link cell. DEAD links (per the link check) and links back to the page itself are left out. `--write` replaces the existing `## Links` section or inserts one before `## Specs`.
 
 Reviews come from trusted reviewers: Brad Colbow, Teoh on Tech, Parka Blogs, Aaron Rutten, Seven Pens, Gartzia Artz (Spanish), EyekooDrawsStuff and David Revoy. Other reviews the author chose for a page also count. A Seven Pens video that discusses one model in depth counts as a review. Tutorials, setup videos, reddit threads and general-topic videos are not data; they stay in the notes under `## Other links`.
 

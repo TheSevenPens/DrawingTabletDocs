@@ -8,19 +8,16 @@ Had a good experience with this tablet after using for six months.
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pentablet). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xencelabs.com/us/products/pen-tablet-medium)
-
-### Reviews
-
-* [Xencelabs Pen Tablet Review - a solid medium-sized Wacom competitor?](https://www.youtube.com/watch?v=jLedeFToarg) - EyekooDrawsStuff, 2024-12-26
-* [Xencelabs tablet review by a long-term Wacom user](https://www.youtube.com/watch?v=uS63-2e32i8) - ManyLearn, 2022-04-13
-* [MEJOR QUE CUALQUIER WACOM / Review Español Tableta gráfica Xencelabs medium + Quick keys](https://www.youtube.com/watch?v=IAO0gs9E0e8) - Gartzia Artz, 2021-11-24
-* [XENCELABS Tablet Review - Just a Rebranded XP-Pen/Ugee?](https://www.youtube.com/watch?v=4m2yqJ3wFgI) - Aaron Rutten, 2021-05-14
-* [Xencelabs Pen Tablet Review](https://www.youtube.com/watch?v=d3vIa8cBzwI) - Brad Colbow, 2021-04-30
-* [Xencelabs Pen Tablet Medium: Premium Entry From a New Company](https://www.youtube.com/watch?v=Vrwifey6168) - Teoh on Tech, 2021-04-08
-* [Review: Xencelabs Pen Tablet Medium (Wireless)](https://www.parkablogs.com/content/review-xencelabs-pen-tablet-medium-wireless) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-tablet-medium) |  |
+| EyekooDrawsStuff | [Xencelabs Pen Tablet Review - a solid medium-sized Wacom competitor?](https://www.youtube.com/watch?v=jLedeFToarg) | 2024-12-26 |
+| ManyLearn | [Xencelabs tablet review by a long-term Wacom user](https://www.youtube.com/watch?v=uS63-2e32i8) | 2022-04-13 |
+| Gartzia Artz | [MEJOR QUE CUALQUIER WACOM / Review Español Tableta gráfica Xencelabs medium + Quick keys](https://www.youtube.com/watch?v=IAO0gs9E0e8) | 2021-11-24 |
+| Aaron Rutten | [XENCELABS Tablet Review - Just a Rebranded XP-Pen/Ugee?](https://www.youtube.com/watch?v=4m2yqJ3wFgI) | 2021-05-14 |
+| Brad Colbow | [Xencelabs Pen Tablet Review](https://www.youtube.com/watch?v=d3vIa8cBzwI) | 2021-04-30 |
+| Teoh on Tech | [Xencelabs Pen Tablet Medium: Premium Entry From a New Company](https://www.youtube.com/watch?v=Vrwifey6168) | 2021-04-08 |
+| Parka Blogs | [Review: Xencelabs Pen Tablet Medium (Wireless)](https://www.parkablogs.com/content/review-xencelabs-pen-tablet-medium-wireless) |  |
 
 ## Specs
 

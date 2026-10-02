@@ -8,23 +8,20 @@ In summary this is a very nice tablet. Wacom Cintiq Pro models are still better 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-pro-16-gen2.html)
-* [User manual](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
-
-### Reviews
-
-* [Notes on XP-Pen Artist Pro 16 GEN2 (MD160QH)](https://www.youtube.com/watch?v=kqX05ld4oDY) - Seven Pens, 2024-10-27
-* [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.youtube.com/watch?v=gmmIwkvZagU) - David Revoy, 2023-11-17
-* [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1004/xppen-artist-pro-16-gen-2-review-on-gnulinux) - David Revoy, 2023-11-17
-* [¡SE HAN PASADO EL JUEGO! La mejor tableta gráfica | Review tras 4 meses XP Pen Artist Pro 16 Gen 2](https://www.youtube.com/watch?v=3UpKDJgppcA) - Gartzia Artz, 2023-10-10
-* [XP-Pen Artist Pro 16 (Gen 2) Review](https://www.youtube.com/watch?v=NF-zDMfmgY8) - Brad Colbow, 2023-09-18
-* [XPPen Artist Pro 16 (gen 2) review: Huge upgrade over older model](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) - Teoh on Tech, 2023-09-09
-* [My favourite Display Tablet - XPPen Artist Pro 2nd Gen](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) - Grant Abbitt, 2023-08-20
-* [XPPen Artist Pro 16 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-16-gen-2-pen-display) - Parka Blogs
-* [Huion Kamvas pro16 2.5K vs. XP-pen Artist pro16 GEN2](https://www.youtube.com/watch?v=41pv6STOBhY) - MossCharmly
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-16-gen-2.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-16-gen2.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html) |  |
+| Seven Pens | [Notes on XP-Pen Artist Pro 16 GEN2 (MD160QH)](https://www.youtube.com/watch?v=kqX05ld4oDY) | 2024-10-27 |
+| David Revoy | [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.youtube.com/watch?v=gmmIwkvZagU) | 2023-11-17 |
+| David Revoy | [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1004/xppen-artist-pro-16-gen-2-review-on-gnulinux) | 2023-11-17 |
+| Gartzia Artz | [¡SE HAN PASADO EL JUEGO! La mejor tableta gráfica \| Review tras 4 meses XP Pen Artist Pro 16 Gen 2](https://www.youtube.com/watch?v=3UpKDJgppcA) | 2023-10-10 |
+| Brad Colbow | [XP-Pen Artist Pro 16 (Gen 2) Review](https://www.youtube.com/watch?v=NF-zDMfmgY8) | 2023-09-18 |
+| Teoh on Tech | [XPPen Artist Pro 16 (gen 2) review: Huge upgrade over older model](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) | 2023-09-09 |
+| Grant Abbitt | [My favourite Display Tablet - XPPen Artist Pro 2nd Gen](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) | 2023-08-20 |
+| Parka Blogs | [XPPen Artist Pro 16 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-16-gen-2-pen-display) |  |
+| MossCharmly | [Huion Kamvas pro16 2.5K vs. XP-pen Artist pro16 GEN2](https://www.youtube.com/watch?v=41pv6STOBhY) |  |
 
 ## Specs
 

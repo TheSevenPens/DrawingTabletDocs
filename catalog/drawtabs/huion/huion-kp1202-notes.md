@@ -4,18 +4,15 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-pad-12)
-* [Store page](https://store.huion.com/products/kamvas-pad-12)
-
-### Reviews
-
-* [La tableta que Huion debió sacar hace 3 años | Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) - Gartzia Artz, 2026-09-30
-* [Huion Kamvas Pad 12 Review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) - Brad Colbow, 2026-09-08
-* [Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) - Adam Duff, 2026-09-08
-* [Review: Huion Kamvas Pad 12 portable drawing tablet](https://www.parkablogs.com/content/huion-kamvas-pad-12-review) - Parka Blogs, 2026-09-08
-* [Huion Kamvas Pad 12 (review): PenTech 4 to the rescue](https://www.youtube.com/watch?v=LIXwSRkvejg) - Teoh on Tech, 2026-09-07
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-pad-12) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-pad-12) |  |
+| Gartzia Artz | [La tableta que Huion debió sacar hace 3 años \| Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) | 2026-09-30 |
+| Brad Colbow | [Huion Kamvas Pad 12 Review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) | 2026-09-08 |
+| Adam Duff | [Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) | 2026-09-08 |
+| Parka Blogs | [Review: Huion Kamvas Pad 12 portable drawing tablet](https://www.parkablogs.com/content/huion-kamvas-pad-12-review) | 2026-09-08 |
+| Teoh on Tech | [Huion Kamvas Pad 12 (review): PenTech 4 to the rescue](https://www.youtube.com/watch?v=LIXwSRkvejg) | 2026-09-07 |
 
 ## Specs
 

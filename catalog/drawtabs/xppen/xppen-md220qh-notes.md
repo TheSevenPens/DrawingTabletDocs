@@ -13,19 +13,16 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-pro-22-gen2.html)
-* [User manual](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html)
-
-### Reviews
-
-* [Testing the XP-Pen Artist Pro 22 GEN2 (MD220QH)](https://www.youtube.com/watch?v=k35ScPPUA60) - Seven Pens, 2025-11-09
-* [XPPen Artist Pro 22 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-22-gen-2-pen-display) - Parka Blogs, 2025-04-20
-* [XPPen Artist Pro 22 Gen 2 (pen display review): Good pen, colours, experience](https://www.youtube.com/watch?v=PMscqe2rO1M) - Teoh on Tech, 2025-04-20
-* [XP Pen Artist Pro 22 Gen 2 LA CINTIQ 22 KILLER DEFINITIVA (Si otra más)](https://www.youtube.com/watch?v=e5Bjjmfs0jw) - Gartzia Artz, 2025-02-14
-* [Unboxing XP-Pen Artist Pro 22 GEN2](https://www.youtube.com/watch?v=7Mk3aSPjQsM) - Seven Pens, 2025-02-04
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-22-gen-2.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-22-gen2.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html) |  |
+| Seven Pens | [Testing the XP-Pen Artist Pro 22 GEN2 (MD220QH)](https://www.youtube.com/watch?v=k35ScPPUA60) | 2025-11-09 |
+| Parka Blogs | [XPPen Artist Pro 22 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-22-gen-2-pen-display) | 2025-04-20 |
+| Teoh on Tech | [XPPen Artist Pro 22 Gen 2 (pen display review): Good pen, colours, experience](https://www.youtube.com/watch?v=PMscqe2rO1M) | 2025-04-20 |
+| Gartzia Artz | [XP Pen Artist Pro 22 Gen 2 LA CINTIQ 22 KILLER DEFINITIVA (Si otra más)](https://www.youtube.com/watch?v=e5Bjjmfs0jw) | 2025-02-14 |
+| Seven Pens | [Unboxing XP-Pen Artist Pro 22 GEN2](https://www.youtube.com/watch?v=7Mk3aSPjQsM) | 2025-02-04 |
 
 ## Specs
 

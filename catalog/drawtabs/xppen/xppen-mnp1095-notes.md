@@ -10,21 +10,18 @@ My unit exhibited strong "pulsing" in tilt.
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/magic-note-pad.html)
-* [Store page](https://www.xp-pen.com/store/buy/magic-note-pad.html)
-* [User manual](https://www.xp-pen.com/user-manual/magic-note-pad-1095.html)
-
-### Reviews
-
-* [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) - Teoh on Tech, 2025-08-26
-* [¿El mejor "EBook" que existe? Review a fondo XP Pen Magic Note Pad](https://www.youtube.com/watch?v=o9KLfVRGwLY) - Gartzia Artz, 2025-04-17
-* [Note taking and JNotes review with XPPEN MAGIC NOTE PAD](https://www.youtube.com/watch?v=NBQVDfx1WtA) - Teoh on Tech, 2025-03-26
-* [Live Unboxing & Review of XP-Pen Magic Note pad](https://www.youtube.com/watch?v=jS5Jman-4zg) - Seven Pens, 2025-03-23
-* [XP Pen Magic Note Pad Review](https://www.youtube.com/watch?v=EDYnCV500ls) - Brad Colbow, 2025-03-20
-* [Artist Review: XPPen Magic Note Pad](https://www.parkablogs.com/content/artist-review-xppen-magic-note-pad) - Parka Blogs, 2025-03-19
-* [XPPen Magic Note Pad (artist review): Read, write & draw](https://www.youtube.com/watch?v=yXoHq2offvU) - Teoh on Tech, 2025-03-18
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/magic-note-pad.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/magic-note-pad.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/magic-note-pad-1095.html) |  |
+| Teoh on Tech | [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) | 2025-08-26 |
+| Gartzia Artz | [¿El mejor "EBook" que existe? Review a fondo XP Pen Magic Note Pad](https://www.youtube.com/watch?v=o9KLfVRGwLY) | 2025-04-17 |
+| Teoh on Tech | [Note taking and JNotes review with XPPEN MAGIC NOTE PAD](https://www.youtube.com/watch?v=NBQVDfx1WtA) | 2025-03-26 |
+| Seven Pens | [Live Unboxing & Review of XP-Pen Magic Note pad](https://www.youtube.com/watch?v=jS5Jman-4zg) | 2025-03-23 |
+| Brad Colbow | [XP Pen Magic Note Pad Review](https://www.youtube.com/watch?v=EDYnCV500ls) | 2025-03-20 |
+| Parka Blogs | [Artist Review: XPPen Magic Note Pad](https://www.parkablogs.com/content/artist-review-xppen-magic-note-pad) | 2025-03-19 |
+| Teoh on Tech | [XPPen Magic Note Pad (artist review): Read, write & draw](https://www.youtube.com/watch?v=yXoHq2offvU) | 2025-03-18 |
 
 ## Specs
 

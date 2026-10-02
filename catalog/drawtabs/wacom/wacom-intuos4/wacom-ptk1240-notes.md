@@ -16,14 +16,11 @@ If you want to learn about extra-large pen tablets in general, see: [Extra-Large
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos4/User%27s%20Manual.pdf)
-
-### Reviews
-
-* [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://youtu.be/Tv_qX1Z9-wI) - Seven Pens, 2022-07-25
-* [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://www.youtube.com/watch?v=Tv_qX1Z9-wI) - Seven Pens, 2022-07-25
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos4/User%27s%20Manual.pdf) |  |
+| Seven Pens | [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://youtu.be/Tv_qX1Z9-wI) | 2022-07-25 |
+| Seven Pens | [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://www.youtube.com/watch?v=Tv_qX1Z9-wI) | 2022-07-25 |
 
 ## Specs
 

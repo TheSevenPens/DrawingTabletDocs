@@ -17,20 +17,17 @@ My full notes are not available yet, but I did livestream my unboxing and basic 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-16-gen-3)
-* [Store page](https://store.huion.com/products/kamvas-16-gen-3)
-* [User manual](https://driverdl.huion.com/instruction/Kamvas16-Gen3/User_Manual_Kamvas16_Gen3_en.pdf)
-
-### Reviews
-
-* [I Don't Know What Huion's Been Up To Lately, But I Like It! -  Huion Kamvas 16 (gen 3)](https://www.youtube.com/watch?v=EA4A5B4GcUY) - Adam Duff, 2025-01-13
-* [Live unboxing of Huion Kamvas 16 GEN3 (PART 1)](https://www.youtube.com/watch?v=-qmdAHY4f40) - Seven Pens, 2025-01-10
-* [Live unboxing of Huion Kamvas 16 GEN3 (PART 2)](https://www.youtube.com/watch?v=KSmhwa6MUjM) - Seven Pens, 2025-01-10
-* [Huion Kamvas 16 (Gen 3) Pen Display FULL REVIEW: Many upgrades](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) - Teoh on Tech, 2025-01-09
-* [Huion Kamvas 16 (Gen 3) Review](https://www.youtube.com/watch?v=t2gEAky5ns8) - Brad Colbow, 2025-01-07
-* [Huion Kamvas 16 Gen 3 Review](https://magma.com/blog/huion-kamvas-16-gen-3-review) - Ryan Allan, 2025-01-07
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-16-gen-3) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-16-gen-3) |  |
+| Huion | [User manual](https://driverdl.huion.com/instruction/Kamvas16-Gen3/User_Manual_Kamvas16_Gen3_en.pdf) |  |
+| Adam Duff | [I Don't Know What Huion's Been Up To Lately, But I Like It! -  Huion Kamvas 16 (gen 3)](https://www.youtube.com/watch?v=EA4A5B4GcUY) | 2025-01-13 |
+| Seven Pens | [Live unboxing of Huion Kamvas 16 GEN3 (PART 1)](https://www.youtube.com/watch?v=-qmdAHY4f40) | 2025-01-10 |
+| Seven Pens | [Live unboxing of Huion Kamvas 16 GEN3 (PART 2)](https://www.youtube.com/watch?v=KSmhwa6MUjM) | 2025-01-10 |
+| Teoh on Tech | [Huion Kamvas 16 (Gen 3) Pen Display FULL REVIEW: Many upgrades](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) | 2025-01-09 |
+| Brad Colbow | [Huion Kamvas 16 (Gen 3) Review](https://www.youtube.com/watch?v=t2gEAky5ns8) | 2025-01-07 |
+| Ryan Allan | [Huion Kamvas 16 Gen 3 Review](https://magma.com/blog/huion-kamvas-16-gen-3-review) | 2025-01-07 |
 
 ## Specs
 

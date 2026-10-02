@@ -10,19 +10,16 @@ Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-16#Specifications)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH167.html)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
-
-### Reviews
-
-* [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) - Gartzia Artz, 2023-04-30
-* [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=0B8cNzyO4bs) - Brad Colbow
-* [Wacom Cintiq Pro 16 Gen 2 (2021) Review](https://www.youtube.com/watch?v=IU-QOOB2AsU) - MobileTechReview
-* [The Wacom Cintiq Pro 16 Unboxing and Review](https://www.youtube.com/watch?v=oROcuvimy18) - Aaron Blaise
-* [Wacom CINTIQ PRO 16 Review (2021 Version)](https://www.youtube.com/watch?v=v9pWwWE_vRM) - Aaron Rutten
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-16#Specifications) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH167.html) |  |
+| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) |  |
+| Gartzia Artz | [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) | 2023-04-30 |
+| Brad Colbow | [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=0B8cNzyO4bs) |  |
+| MobileTechReview | [Wacom Cintiq Pro 16 Gen 2 (2021) Review](https://www.youtube.com/watch?v=IU-QOOB2AsU) |  |
+| Aaron Blaise | [The Wacom Cintiq Pro 16 Unboxing and Review](https://www.youtube.com/watch?v=oROcuvimy18) |  |
+| Aaron Rutten | [Wacom CINTIQ PRO 16 Review (2021 Version)](https://www.youtube.com/watch?v=v9pWwWE_vRM) |  |
 
 ## Specs
 

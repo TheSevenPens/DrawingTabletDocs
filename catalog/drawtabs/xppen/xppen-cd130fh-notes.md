@@ -12,19 +12,16 @@ Decent tablet. Not the ultimate drawing experience but I think it will server a 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-13-2nd-gen.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-13-2nd-gen.html)
-* [User manual](https://www.xp-pen.com/user-manual/artist-13-2nd.html)
-* [Product information](https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html)
-
-### Reviews
-
-* [XP PEN Artist 13 2ª Gen Review en Español | Una tableta gráfica perfecta para empezar a dibujar](https://www.youtube.com/watch?v=8_5yF-jx8D4) - Gartzia Artz, 2022-10-28
-* [XP-Pen Artist 13 (2nd gen) review](https://www.youtube.com/watch?v=-q_eFIuibnc) - Teoh on Tech, 2022-09-27
-* [XP-Pen Artist 10 & 13 (2nd gen) Unboxing and Impression](https://www.youtube.com/watch?v=Exj2PZu4MHM) - Teoh on Tech, 2022-08-18
-* [Review: XP-Pen Artist 13 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-13-2nd-gen) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-13-2nd-gen.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-13-2nd-gen.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-13-2nd.html) |  |
+| XP-Pen | [Product information](https://www.xp-pen.com/ie-store/buy/artist-13-2nd-generation.html) |  |
+| Gartzia Artz | [XP PEN Artist 13 2ª Gen Review en Español \| Una tableta gráfica perfecta para empezar a dibujar](https://www.youtube.com/watch?v=8_5yF-jx8D4) | 2022-10-28 |
+| Teoh on Tech | [XP-Pen Artist 13 (2nd gen) review](https://www.youtube.com/watch?v=-q_eFIuibnc) | 2022-09-27 |
+| Teoh on Tech | [XP-Pen Artist 10 & 13 (2nd gen) Unboxing and Impression](https://www.youtube.com/watch?v=Exj2PZu4MHM) | 2022-08-18 |
+| Parka Blogs | [Review: XP-Pen Artist 13 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-13-2nd-gen) |  |
 
 ## Specs
 

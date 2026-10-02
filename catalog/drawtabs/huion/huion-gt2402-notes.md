@@ -8,20 +8,17 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-pro-24-gen-3)
-* [Store page](https://store.huion.com/products/kamvas-pro-24-gen-3)
-* [User manual](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
-
-### Reviews
-
-* [Huion Kamvas Pro 24 Gen 3 Review  Is This Drawing Tablet Screen TOO Big?](https://www.youtube.com/watch?v=XgOq3xCci20) - Trent Kaniuga, 2026-07-02
-* [Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) - Teoh on Tech, 2026-02-01
-* [Unboxing & Testing: Huion Kamvas Pro 24 GEN3](https://www.youtube.com/watch?v=nqrwEZj3SgA) - Seven Pens, 2025-12-13
-* [Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) - Brad Colbow, 2025-10-24
-* [Enorme 4K y Táctil! Huion Kamvas 24 Pro Gen 3](https://www.youtube.com/watch?v=pGm87_lK7gM) - Gartzia Artz, 2025-10-22
-* [Huion Kamvas Pro 24 (gen 3)](https://www.parkablogs.com/content/huion-kamvas-pro-24-gen-3-2025-review) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-pro-24-gen-3) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-pro-24-gen-3) |  |
+| Huion | [User manual](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf) |  |
+| Trent Kaniuga | [Huion Kamvas Pro 24 Gen 3 Review  Is This Drawing Tablet Screen TOO Big?](https://www.youtube.com/watch?v=XgOq3xCci20) | 2026-07-02 |
+| Teoh on Tech | [Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) | 2026-02-01 |
+| Seven Pens | [Unboxing & Testing: Huion Kamvas Pro 24 GEN3](https://www.youtube.com/watch?v=nqrwEZj3SgA) | 2025-12-13 |
+| Brad Colbow | [Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) | 2025-10-24 |
+| Gartzia Artz | [Enorme 4K y Táctil! Huion Kamvas 24 Pro Gen 3](https://www.youtube.com/watch?v=pGm87_lK7gM) | 2025-10-22 |
+| Parka Blogs | [Huion Kamvas Pro 24 (gen 3)](https://www.parkablogs.com/content/huion-kamvas-pro-24-gen-3-2025-review) |  |
 
 ## Specs
 

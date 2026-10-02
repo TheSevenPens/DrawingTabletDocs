@@ -18,20 +18,17 @@ The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2017). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html) (PTH-460)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-660.html) (PTH-660)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html) (PTH-860)
-
-### Reviews
-
-* [Is a LARGE pen tablet right for you? (Wacom Intuos Pro Large PTH-860)](https://www.youtube.com/watch?v=YCmVugc3w_g) - Seven Pens, 2022-06-27 (PTH-860)
-* [Still my favourite drawing tablet - 2022 review of the Wacom Intuos Pro Medium](https://www.youtube.com/watch?v=XozM9fs9Jlc) - EyekooDrawsStuff, 2022-05-13 (PTH-660)
-* [Intuos Pro Small (2019) Review](https://www.youtube.com/watch?v=VhR4dcxd_DU) - Brad Colbow, 2019-05-09 (PTH-460)
-* [Wacom INTUOS PRO Small Review (2019 Model)](https://www.youtube.com/watch?v=ZHIsUKtVbio) - Aaron Rutten, 2019-05-09 (PTH-460)
-* [Wacom Intuos Pro Medium Review  #Wacom #ProPen2 #Intuospro](https://www.youtube.com/watch?v=lKJYuRQfLkc) - Cladio Juliano, 2018-03-24 (PTH-660)
-* [Review: Intuos Pro Medium Paper Edition](https://www.youtube.com/watch?v=bbOGvAW3o-M) - Brad Colbow, 2017-02-06 (PTH-660)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html) (PTH-460) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-660.html) (PTH-660) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html) (PTH-860) |  |
+| Seven Pens | [Is a LARGE pen tablet right for you? (Wacom Intuos Pro Large PTH-860)](https://www.youtube.com/watch?v=YCmVugc3w_g) (PTH-860) | 2022-06-27 |
+| EyekooDrawsStuff | [Still my favourite drawing tablet - 2022 review of the Wacom Intuos Pro Medium](https://www.youtube.com/watch?v=XozM9fs9Jlc) (PTH-660) | 2022-05-13 |
+| Brad Colbow | [Intuos Pro Small (2019) Review](https://www.youtube.com/watch?v=VhR4dcxd_DU) (PTH-460) | 2019-05-09 |
+| Aaron Rutten | [Wacom INTUOS PRO Small Review (2019 Model)](https://www.youtube.com/watch?v=ZHIsUKtVbio) (PTH-460) | 2019-05-09 |
+| Cladio Juliano | [Wacom Intuos Pro Medium Review  #Wacom #ProPen2 #Intuospro](https://www.youtube.com/watch?v=lKJYuRQfLkc) (PTH-660) | 2018-03-24 |
+| Brad Colbow | [Review: Intuos Pro Medium Paper Edition](https://www.youtube.com/watch?v=bbOGvAW3o-M) (PTH-660) | 2017-02-06 |
 
 ## Specs
 

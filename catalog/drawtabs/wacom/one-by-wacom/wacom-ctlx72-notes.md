@@ -36,11 +36,11 @@ There is NOT a modern Wacom tablet that is a direct successor to this tablet. Of
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_onebywacom_2019). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) (CTL-472)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) (CTL-672)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications) |  |
+| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) (CTL-472) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) (CTL-672) |  |
 
 ## Specs
 

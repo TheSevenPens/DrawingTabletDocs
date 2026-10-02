@@ -23,17 +23,14 @@ There are two models of the Cintiq Pro 24 (DTx-2420):
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) (DTK-2420)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) (DTH-2420)
-
-### Reviews
-
-* [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) - Aaron Rutten, 2018-12-13
-* [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Brad Colbow, 2018-11-05
-* [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=YVCFkutFwvE) - MobileTechReview, 2018-10-09
-* [Wacom Cintiq Pro 24" Review](https://www.youtube.com/watch?v=ERza2YeJTLw) - Brian Allen, 2018-05-01
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) (DTK-2420) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) (DTH-2420) |  |
+| Aaron Rutten | [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) | 2018-12-13 |
+| Brad Colbow | [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=BjzYm_o9qXw) | 2018-11-05 |
+| MobileTechReview | [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=YVCFkutFwvE) | 2018-10-09 |
+| Brian Allen | [Wacom Cintiq Pro 24" Review](https://www.youtube.com/watch?v=ERza2YeJTLw) | 2018-05-01 |
 
 ## Specs
 

@@ -17,9 +17,9 @@ description: UD series
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ultrapad_legacy). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](https://vt100.net/wacom/wacom-progman.pdf)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](https://vt100.net/wacom/wacom-progman.pdf) |  |
 
 ## Specs
 
