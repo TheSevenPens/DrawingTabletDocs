@@ -54,8 +54,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Pen" %}
 | | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
 | --- | --- |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
-| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
+| Included pen | [X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -105,16 +105,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Pens
 
-The tablet comes with two pens
-
-* X3 Pro Roller Stylus
-* X3 Pro Slim Stylus
-
 See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
 
-It is compatible with other pens in the X3 pro series.
-
-* X3 Pro Slim Stylus
 * X3 Pro - I tested this. It worked.
 
 ## Links
