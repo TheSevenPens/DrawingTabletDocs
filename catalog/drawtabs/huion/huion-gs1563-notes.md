@@ -51,7 +51,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| Color gamut | sRGB 120%<br>Adobe RGB 90%<br>Rec. 709 99% |
+| Coatings | — |
+| Color gamut | sRGB 99% coverage, 120% area<br>Adobe RGB 90% coverage<br>Rec. 709 99% coverage |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
@@ -133,7 +134,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Display specs
 
 * Contrast ratio: 1000:1
-* Color gamut coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB
 
 ### Pens
 

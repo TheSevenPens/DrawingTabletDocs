@@ -77,7 +77,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | OLED |
 | Lamination | — |
 | Anti-glare | Etched glass |
-| Color gamut | Adobe RGB 95%<br>DCI-P3 100% |
+| Coatings | Anti-fingerprint |
+| Color gamut | Adobe RGB 95% coverage<br>DCI-P3 100% coverage |
 | Color depth | 10 bits per channel |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
@@ -158,7 +159,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Display
 
-* Surface: Wacom also says it has Anti-fingerprint coating
 * Contrast ratio: 100000:1
 
 ### Pens

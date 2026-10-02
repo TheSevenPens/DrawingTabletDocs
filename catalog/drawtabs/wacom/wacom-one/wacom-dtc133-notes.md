@@ -43,7 +43,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | AHVA |
 | Lamination | — |
 | Anti-glare | AG film |
-| Color gamut | NTSC 72% |
+| Coatings | — |
+| Color gamut | NTSC 72% coverage |
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
 | Peak brightness | — |

@@ -142,9 +142,25 @@ GAMUTS = [('SRGB', 'sRGB'), ('ADOBERGB', 'Adobe RGB'), ('DCIP3', 'DCI-P3'), ('DI
 
 
 def gamuts(t):
-    have = g(t, 'Display.ColorGamuts') or {}
-    out = [f'{label} {num(have[k])}%' for k, label in GAMUTS if have.get(k) not in (None, '')]
+    """One line per standard: 'sRGB 99% coverage, 120% area'. Coverage (ColorGamuts) and area (ColorGamutAreas)
+    are different measures, so both are labelled."""
+    cov = g(t, 'Display.ColorGamuts') or {}
+    area = g(t, 'Display.ColorGamutAreas') or {}
+    out = []
+    for k, label in GAMUTS:
+        parts = [f'{num(d[k])}% {kind}' for d, kind in ((cov, 'coverage'), (area, 'area')) if d.get(k) not in (None, '')]
+        if parts:
+            out.append(f"{label} {', '.join(parts)}")
     return '<br>'.join(out) if out else DASH
+
+
+def coatings(t):
+    """Coatings listed on top of the anti-glare surface."""
+    flags = [(g(t, 'Display.AntiFingerprint'), 'Anti-fingerprint'), (g(t, 'Display.AntiReflection'), 'Anti-reflection')]
+    if all(v is None for v, _ in flags):
+        return DASH
+    listed = [label for v, label in flags if v == 'YES']
+    return ', '.join(listed) if listed else 'None'
 
 
 def viewing_angle(t):
@@ -197,6 +213,7 @@ DISPLAY = [
     ('Panel', plain('Display.PanelTech')),
     ('Lamination', lambda t: yes_no(g(t, 'Display.Lamination'))),
     ('Anti-glare', plain('Display.AntiGlare', lambda v: ANTIGLARE.get(v, v))),
+    ('Coatings', coatings),
     ('Color gamut', gamuts),
     ('Color depth', unit('Display.ColorBitDepth', 'bits per channel')),
     ('Brightness', unit('Display.Brightness', 'cd/m²')),
