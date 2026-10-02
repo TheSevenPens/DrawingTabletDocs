@@ -43,7 +43,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | AG film |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 109% area<br>Adobe RGB 82% area<br>NTSC 77% area |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 360 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |

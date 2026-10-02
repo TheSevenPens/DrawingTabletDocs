@@ -39,7 +39,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 149% area<br>Adobe RGB 99% coverage, 110% area<br>Display P3 97% coverage, 110% area |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |

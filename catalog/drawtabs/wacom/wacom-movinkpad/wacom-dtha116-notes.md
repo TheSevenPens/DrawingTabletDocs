@@ -49,7 +49,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 400 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 170° horizontal<br>170° vertical |

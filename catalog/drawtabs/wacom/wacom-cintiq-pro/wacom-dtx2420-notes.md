@@ -56,7 +56,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass | Etched glass |
 | Coatings | — | — |
 | Color gamut | Adobe RGB 99% coverage | Adobe RGB 99% coverage |
-| Color depth | 10 bits per channel | 10 bits per channel |
+| Color depth | 10-bit | 10-bit |
 | Brightness | 235 cd/m² | 235 cd/m² |
 | Peak brightness | — | — |
 | Viewing angle | 176° horizontal<br>176° vertical | 176° horizontal<br>176° vertical |

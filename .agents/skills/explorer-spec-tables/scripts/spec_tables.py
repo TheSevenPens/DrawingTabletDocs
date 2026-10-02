@@ -173,6 +173,14 @@ def gamuts(t):
     return '<br>'.join(out) if out else DASH
 
 
+def color_depth(t):
+    """'8-bit (10-bit with FRC)' when the manufacturer claims more with FRC, else '10-bit'."""
+    native, frc = g(t, 'Display.ColorBitDepth'), g(t, 'Display.ColorBitDepthFRC')
+    if native is None:
+        return f'{frc}-bit with FRC' if frc is not None else DASH
+    return f'{native}-bit' + (f' ({frc}-bit with FRC)' if frc is not None else '')
+
+
 def coatings(t):
     """Coatings listed on top of the anti-glare surface."""
     flags = [(g(t, 'Display.AntiFingerprint'), 'Anti-fingerprint'), (g(t, 'Display.AntiReflection'), 'Anti-reflection')]
@@ -236,7 +244,7 @@ DISPLAY = [
     ('Anti-glare', plain('Display.AntiGlare', lambda v: ANTIGLARE.get(v, v))),
     ('Coatings', coatings),
     ('Color gamut', gamuts),
-    ('Color depth', unit('Display.ColorBitDepth', 'bits per channel')),
+    ('Color depth', color_depth),
     ('Brightness', unit('Display.Brightness', 'cd/m²')),
     ('Peak brightness', unit('Display.BrightnessPeak', 'cd/m²')),
     ('Viewing angle', viewing_angle),
