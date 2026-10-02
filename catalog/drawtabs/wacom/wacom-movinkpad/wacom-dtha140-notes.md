@@ -77,6 +77,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color gamut | sRGB 100%<br>DCI-P3 100% |
 | Color depth | 10 bits per channel |
 | Brightness | 400 cd/m² |
+| Peak brightness | 900 cd/m² |
 | Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 120 Hz |
 | Response time | 1 ms |
@@ -172,7 +173,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Contrast: 100,000:1
 * Surface: Wacom states AR/AG/AF
-* Brightness: 900 nits
 
 ### Pens
 

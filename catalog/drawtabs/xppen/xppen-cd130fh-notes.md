@@ -34,6 +34,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color gamut | sRGB 130%<br>NTSC 92% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | — |
@@ -113,8 +114,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
 * Accuracy in edges and corners is good.
-* XP-pen lists accuracy as:
-  * corner ± 2mm
 * I agree with XP-Pens accuracy numbers
 
 ## Diagonal wobble
