@@ -40,7 +40,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| Color gamut | sRGB 99.8%<br>Adobe RGB 96%<br>Display P3 98% |
+| Coatings | Anti-fingerprint |
+| Color gamut | sRGB 99.8% coverage, 156% area<br>Adobe RGB 96% coverage, 116% area<br>Display P3 98% coverage, 115% area |
 | Color depth | 10 bits per channel |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |

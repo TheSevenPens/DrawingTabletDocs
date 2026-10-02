@@ -34,7 +34,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | AHVA |
 | Lamination | — |
 | Anti-glare | — |
-| Color gamut | Adobe RGB 97% |
+| Coatings | — |
+| Color gamut | Adobe RGB 97% coverage |
 | Color depth | 10 bits per channel |
 | Brightness | 330 cd/m² |
 | Peak brightness | — |

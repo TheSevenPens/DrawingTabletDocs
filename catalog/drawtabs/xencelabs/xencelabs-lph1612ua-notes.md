@@ -45,7 +45,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | OLED |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| Color gamut | Adobe RGB 98%<br>DCI-P3 98%<br>Rec. 709 99% |
+| Coatings | — |
+| Color gamut | sRGB 99% coverage<br>Adobe RGB 98% coverage<br>Display P3 98% coverage<br>Rec. 709 99% coverage |
 | Color depth | 10 bits per channel |
 | Brightness | 300 cd/m² |
 | Peak brightness | — |
@@ -130,8 +131,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Contrast ratio: 100000:1
 * Parallax: Unknown
 * Color gamut (beyond what the Specs tab lists)
-  * P3-D65 98%
-  * sRGB 99%
   * REC 2020 82%
 
 ### Pens

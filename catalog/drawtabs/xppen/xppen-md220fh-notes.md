@@ -38,8 +38,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pixel density | 102 PPI |
 | Panel | — |
 | Lamination | Yes |
-| Anti-glare | Film |
-| Color gamut | sRGB 99%<br>Adobe RGB 91% |
+| Anti-glare | AG film |
+| Coatings | — |
+| Color gamut | sRGB 99% coverage, 130% area<br>Adobe RGB 91% coverage, 103% area |
 | Color depth | — |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |

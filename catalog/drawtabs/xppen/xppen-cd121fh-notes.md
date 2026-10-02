@@ -54,7 +54,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| Color gamut | sRGB 99%<br>Adobe RGB 97%<br>Display P3 97% |
+| Coatings | Anti-fingerprint |
+| Color gamut | sRGB 99% coverage<br>Adobe RGB 97% coverage<br>Display P3 97% coverage |
 | Color depth | 8 bits per channel |
 | Brightness | 260 cd/m² |
 | Peak brightness | — |
@@ -132,10 +133,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtabs %}
 
 ## Notes on specs
-
-### Display specs
-
-* Surface: XP-Pen calls it "AG + AF"
 
 ### Device specs
 

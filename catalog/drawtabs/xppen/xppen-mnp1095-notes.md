@@ -44,8 +44,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pixel density | 207 PPI |
 | Panel | — |
 | Lamination | Yes |
-| Anti-glare | — |
-| Color gamut | sRGB 95% |
+| Anti-glare | Etched glass |
+| Coatings | — |
+| Color gamut | sRGB 95% coverage |
 | Color depth | 8 bits per channel |
 | Brightness | 400 cd/m² |
 | Peak brightness | — |

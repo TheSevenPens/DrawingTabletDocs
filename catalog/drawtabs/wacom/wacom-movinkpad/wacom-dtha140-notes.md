@@ -88,7 +88,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | OLED |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| Color gamut | sRGB 100%<br>DCI-P3 100% |
+| Coatings | Anti-fingerprint, Anti-reflection |
+| Color gamut | sRGB 100% coverage<br>DCI-P3 100% coverage |
 | Color depth | 10 bits per channel |
 | Brightness | 400 cd/m² |
 | Peak brightness | 900 cd/m² |
@@ -186,7 +187,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Display
 
 * Contrast: 100,000:1
-* Surface: Wacom states AR/AG/AF
 
 ### Pens
 

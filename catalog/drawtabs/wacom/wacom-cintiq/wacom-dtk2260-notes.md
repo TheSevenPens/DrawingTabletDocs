@@ -40,7 +40,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | IPS |
 | Lamination | No |
 | Anti-glare | AG film |
-| Color gamut | sRGB 96%<br>NTSC 72% |
+| Coatings | — |
+| Color gamut | sRGB 96% coverage<br>NTSC 72% coverage |
 | Color depth | 8 bits per channel |
 | Brightness | 210 cd/m² |
 | Peak brightness | — |

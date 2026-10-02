@@ -40,7 +40,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Panel | — |
 | Lamination | — |
 | Anti-glare | — |
-| Color gamut | sRGB 127%<br>NTSC 90% |
+| Coatings | — |
+| Color gamut | sRGB 127% area<br>Adobe RGB 94% coverage<br>NTSC 90% coverage |
 | Color depth | — |
 | Brightness | — |
 | Peak brightness | — |
