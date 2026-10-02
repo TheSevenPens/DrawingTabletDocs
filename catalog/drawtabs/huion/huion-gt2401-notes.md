@@ -44,7 +44,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | sRGB 140% area |
-| Color depth | 10 bits per channel |
+| Color depth | 8-bit (10-bit with FRC) |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -55,8 +55,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
 | --- | --- |
-| Active area | 527 × 296 mm (20.7 × 11.7 in) |
-| Diagonal | 604.4 mm (23.8 in) |
+| Active area | 527 × 296.5 mm (20.7 × 11.7 in) |
+| Diagonal | 604.7 mm (23.8 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
@@ -88,7 +88,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
 | --- | --- |
-| Size | 589 × 364 × 22.7 mm (23.2 × 14.3 × 0.9 in) |
+| Size | 589.2 × 364 × 22.7 mm (23.2 × 14.3 × 0.9 in) |
 | Weight | 6300 g |
 | VESA mount | Yes |
 | Legs | Yes |

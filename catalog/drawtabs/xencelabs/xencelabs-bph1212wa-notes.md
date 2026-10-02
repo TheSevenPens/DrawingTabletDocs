@@ -35,8 +35,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
 | --- | --- |
-| Active area | 262 × 147 mm (10.3 × 5.8 in) |
-| Diagonal | 300.4 mm (11.8 in) |
+| Active area | 262.4 × 147.4 mm (10.3 × 5.8 in) |
+| Diagonal | 301 mm (11.8 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
@@ -75,7 +75,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

@@ -52,7 +52,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [WH1409V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 12 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
@@ -62,14 +62,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [WH1409V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |
 | --- | --- |
-| Size | 456 × 266 × 15 mm (18 × 10.5 × 0.6 in) |
+| Size | 456 × 266 × 16 mm (18 × 10.5 × 0.6 in) |
 | Weight | 1100 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}
 | | [WH1409V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |
 | --- | --- |
-| Ports | — |
+| Ports | Micro-USB |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

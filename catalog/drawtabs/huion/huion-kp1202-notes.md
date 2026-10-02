@@ -38,11 +38,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 99% area |
-| Color depth | — |
+| Color depth | 8-bit |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
 | Viewing angle | — |
-| Refresh rate | — |
+| Refresh rate | 90 Hz |
 | Response time | — |
 {% endtab %}
 

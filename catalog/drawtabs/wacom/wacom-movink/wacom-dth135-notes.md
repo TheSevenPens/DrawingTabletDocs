@@ -79,7 +79,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | Adobe RGB 95% coverage<br>DCI-P3 100% coverage |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 170° horizontal<br>170° vertical |
@@ -113,7 +113,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 2 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |

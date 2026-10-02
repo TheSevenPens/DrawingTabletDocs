@@ -45,7 +45,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | Adobe RGB 98% coverage |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 300 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -79,7 +79,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
@@ -92,7 +92,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Size | 410 × 266 × 22 mm (16.1 × 10.5 × 0.9 in) |
 | Weight | 1900 g |
 | VESA mount | Yes |
-| Legs | No |
+| Legs | Yes |
 | Included stand | No |
 {% endtab %}
 

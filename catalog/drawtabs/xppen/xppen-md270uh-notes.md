@@ -39,7 +39,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 149% area<br>Adobe RGB 99% coverage, 110% area<br>Display P3 97% coverage, 110% area |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -77,7 +77,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
-| Touch | No |
+| Touch | Yes |
 {% endtab %}
 
 {% tab title="Physical" %}
@@ -93,7 +93,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MD270UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>HDMI<br>DisplayPort<br>3.5 mm audio<br>DC power |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

@@ -44,9 +44,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
 | Tilt | ±60° |
-| Accuracy (center) | — |
+| Accuracy (center) | ±0.25 mm |
 | Accuracy (corner) | — |
-| Report rate | 220 Hz |
+| Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
 {% endtab %}
@@ -61,9 +61,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
-| Touch rings | — |
+| Touch rings | 1 |
 | Touch strips | — |
 | Touch | No |
 {% endtab %}

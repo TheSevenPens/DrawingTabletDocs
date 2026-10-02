@@ -45,11 +45,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
 | Pressure levels | 2048 | 2048 | 2048 | 2048 | 2048 |
 | Tilt | ±60° | ±60° | ±60° | ±60° | ±60° |
-| Accuracy (center) | — | — | — | — | — |
+| Accuracy (center) | ±0.25 mm | ±0.25 mm | ±0.25 mm | — | — |
 | Accuracy (corner) | — | — | — | — | — |
 | Report rate | 200 Hz | 200 Hz | 200 Hz | 200 Hz | 200 Hz |
 | Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
-| Max hover | — | — | — | — | — |
+| Max hover | 10 mm | 10 mm | 10 mm | 10 mm | 10 mm |
 {% endtab %}
 
 {% tab title="Pen" %}
@@ -62,9 +62,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
 | --- | --- | --- | --- | --- | --- |
-| Buttons | — | — | — | — | — |
+| Buttons | 6 | 8 | 8 | 6 | 8 |
 | Dials | — | — | — | — | — |
-| Touch rings | — | — | — | — | — |
+| Touch rings | 1 | 1 | 1 | 1 | 1 |
 | Touch strips | — | — | — | — | — |
 | Touch | Yes | Yes | Yes | No | No |
 {% endtab %}

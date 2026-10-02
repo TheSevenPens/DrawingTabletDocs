@@ -43,7 +43,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | sRGB 99% coverage<br>Adobe RGB 99% coverage<br>DCI-P3 93% coverage<br>Rec. 709 99% coverage |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 330 cd/m² |
 | Peak brightness | — |
 | Viewing angle | — |
@@ -54,8 +54,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
 | --- | --- |
-| Active area | 527 × 296 mm (20.7 × 11.7 in) |
-| Diagonal | 604.4 mm (23.8 in) |
+| Active area | 527 × 296.5 mm (20.7 × 11.7 in) |
+| Diagonal | 604.7 mm (23.8 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |

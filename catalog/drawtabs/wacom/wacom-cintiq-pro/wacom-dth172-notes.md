@@ -46,7 +46,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | Adobe RGB 88% coverage<br>DCI-P3 99% coverage<br>Rec. 709 100% coverage |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 400 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 170° horizontal<br>170° vertical |
@@ -80,7 +80,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DTH-172](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth172) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
@@ -92,15 +92,15 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | --- | --- |
 | Size | 424 × 253 × 21 mm (16.7 × 10 × 0.8 in) |
 | Weight | 2200 g |
-| VESA mount | — |
+| VESA mount | Yes (75×75) |
 | Legs | — |
-| Included stand | — |
+| Included stand | Yes |
 {% endtab %}
 
 {% tab title="Connectivity" %}
 | | [DTH-172](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth172) |
 | --- | --- |
-| Ports | — |
+| Ports | Mini DisplayPort<br>HDMI<br>USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

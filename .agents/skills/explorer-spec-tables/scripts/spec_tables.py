@@ -47,6 +47,25 @@ def num(v, dp=1):
     return f'{v:.{dp}f}'.rstrip('0').rstrip('.')
 
 
+def body_size(t):
+    """'546 × 323 × 19–26.7 mm (...)' when the depth is a range (DepthMin..Depth), else plain W × H × D."""
+    w, h, d, dmin = (g(t, f'Physical.Dimensions.{k}') for k in ('Width', 'Height', 'Depth', 'DepthMin'))
+    if dmin is None or None in (w, h, d):
+        return mm_in(w, h, d)
+    mm = f'{num(w)} × {num(h)} × {num(dmin)}–{num(d)}'
+    inch = f'{num(float(w) / 25.4)} × {num(float(h) / 25.4)} × {num(float(dmin) / 25.4)}–{num(float(d) / 25.4)}'
+    return f'{mm} mm ({inch} in)'
+
+
+def report_rate(t):
+    """Wired (or only) rate, plus the Bluetooth rate when the spec lists it separately."""
+    wired, bt = g(t, 'Digitizer.ReportRate'), g(t, 'Digitizer.ReportRateBluetooth')
+    if wired is None and bt is None:
+        return DASH
+    text = f'{num(wired)} Hz' if wired is not None else DASH
+    return text + (f' ({num(bt)} Hz Bluetooth)' if bt is not None else '')
+
+
 def mm_in(*vals):
     if any(v is None for v in vals):
         return DASH
@@ -154,6 +173,14 @@ def gamuts(t):
     return '<br>'.join(out) if out else DASH
 
 
+def color_depth(t):
+    """'8-bit (10-bit with FRC)' when the manufacturer claims more with FRC, else '10-bit'."""
+    native, frc = g(t, 'Display.ColorBitDepth'), g(t, 'Display.ColorBitDepthFRC')
+    if native is None:
+        return f'{frc}-bit with FRC' if frc is not None else DASH
+    return f'{native}-bit' + (f' ({frc}-bit with FRC)' if frc is not None else '')
+
+
 def coatings(t):
     """Coatings listed on top of the anti-glare surface."""
     flags = [(g(t, 'Display.AntiFingerprint'), 'Anti-fingerprint'), (g(t, 'Display.AntiReflection'), 'Anti-reflection')]
@@ -195,13 +222,16 @@ DIGITIZER = [
     ('Tilt', tilt),
     ('Accuracy (center)', accuracy('Digitizer.AccuracyCenter')),
     ('Accuracy (corner)', accuracy('Digitizer.AccuracyCorner')),
-    ('Report rate', unit('Digitizer.ReportRate', 'Hz')),
+    ('Report rate', report_rate),
     ('Density', density),
     ('Max hover', unit('Digitizer.MaxHover', 'mm')),
 ]
 OTHER_INPUTS = [
     ('Buttons', plain('OtherInputs.Buttons')),
     ('Dials', plain('OtherInputs.Dials')),
+    ('Multimedia keys', plain('OtherInputs.MultimediaKeys')),
+    ('Scrollers', plain('OtherInputs.Scrollers')),
+    ('Switcher keys', plain('OtherInputs.SwitcherKeys')),
     ('Touch rings', plain('OtherInputs.TouchRings')),
     ('Touch strips', plain('OtherInputs.TouchStrips')),
     ('Touch', lambda t: yes_no(g(t, 'OtherInputs.Touch'))),
@@ -215,7 +245,7 @@ DISPLAY = [
     ('Anti-glare', plain('Display.AntiGlare', lambda v: ANTIGLARE.get(v, v))),
     ('Coatings', coatings),
     ('Color gamut', gamuts),
-    ('Color depth', unit('Display.ColorBitDepth', 'bits per channel')),
+    ('Color depth', color_depth),
     ('Brightness', unit('Display.Brightness', 'cd/m²')),
     ('Peak brightness', unit('Display.BrightnessPeak', 'cd/m²')),
     ('Viewing angle', viewing_angle),
@@ -229,7 +259,7 @@ STANDALONE = [
     ('Storage', unit('Standalone.Storage', 'GB')),
 ]
 PHYSICAL = [
-    ('Size', lambda t: mm_in(g(t, 'Physical.Dimensions.Width'), g(t, 'Physical.Dimensions.Height'), g(t, 'Physical.Dimensions.Depth'))),
+    ('Size', body_size),
     ('Weight', unit('Physical.Weight', 'g')),
 ]
 
@@ -351,7 +381,11 @@ def in_box(t):
 IN_THE_BOX = [('Contents', in_box)]
 
 
+SPARSE_ROWS = {'Multimedia keys', 'Scrollers', 'Switcher keys'}  # rare fields: only shown when some model on the page has them
+
+
 def table(tablets, rows):
+    rows = [(label, fn) for label, fn in rows if label not in SPARSE_ROWS or any(fn(t) != DASH for t in tablets)]
     head = '| | ' + ' | '.join(f"[{t['Model']['Id']}]({EXPLORER}{t['Meta']['EntityId']})" for t in tablets) + ' |'
     sep = '| --- | ' + ' | '.join('---' for _ in tablets) + ' |'
     body = [f'| {label} | ' + ' | '.join(str(fn(t)) for t in tablets) + ' |' for label, fn in rows]

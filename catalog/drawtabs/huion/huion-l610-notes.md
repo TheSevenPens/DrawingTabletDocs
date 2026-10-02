@@ -40,11 +40,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
 | --- | --- |
-| Active area | 254 × 159 mm (10 × 6.3 in) |
-| Diagonal | 299.7 mm (11.8 in) |
+| Active area | 254 × 158.8 mm (10 × 6.3 in) |
+| Diagonal | 299.6 mm (11.8 in) |
 | Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
-| Pressure levels | 16384 |
+| Pressure levels | 8192 |
 | Tilt | ±60° |
 | Accuracy (center) | — |
 | Accuracy (corner) | — |

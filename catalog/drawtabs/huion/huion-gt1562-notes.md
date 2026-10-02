@@ -47,13 +47,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | --- | --- |
 | Resolution | 3840 × 2160 |
 | Aspect ratio | 16:9 |
-| Pixel density | 281 PPI |
+| Pixel density | 282 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | sRGB 145% area |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 200 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -64,9 +64,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
 | --- | --- |
-| Active area | 347 × 194 mm (13.7 × 7.6 in) |
-| Diagonal | 397.5 mm (15.7 in) |
-| Aspect ratio | ≈16:9 (1.789:1) |
+| Active area | 345.6 × 194.4 mm (13.6 × 7.7 in) |
+| Diagonal | 396.5 mm (15.6 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
@@ -107,7 +107,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C (Full-featured) |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

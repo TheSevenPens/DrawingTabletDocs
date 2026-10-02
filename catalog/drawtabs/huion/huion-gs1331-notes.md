@@ -46,7 +46,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | AG film |
 | Coatings | — |
 | Color gamut | sRGB 120% area |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -57,8 +57,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [GS1331](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1331) |
 | --- | --- |
-| Active area | 294 × 165 mm (11.6 × 6.5 in) |
-| Diagonal | 337.1 mm (13.3 in) |
+| Active area | 293.8 × 165.2 mm (11.6 × 6.5 in) |
+| Diagonal | 337 mm (13.3 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
@@ -80,7 +80,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [GS1331](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1331) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
@@ -100,7 +100,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GS1331](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1331) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C (Full-featured) |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

@@ -48,7 +48,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage<br>Adobe RGB 99% coverage<br>Display P3 94% coverage |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -59,8 +59,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
 | --- | --- |
-| Active area | 475 × 267 mm (18.7 × 10.5 in) |
-| Diagonal | 544.9 mm (21.5 in) |
+| Active area | 475.4 × 267.4 mm (18.7 × 10.5 in) |
+| Diagonal | 545.4 mm (21.5 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
@@ -94,7 +94,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | --- | --- |
 | Size | 547 × 362 × 33.4 mm (21.5 × 14.3 × 1.3 in) |
 | Weight | 5550 g |
-| VESA mount | Yes |
+| VESA mount | Yes (100×100) |
 | Legs | — |
 | Included stand | Yes |
 {% endtab %}

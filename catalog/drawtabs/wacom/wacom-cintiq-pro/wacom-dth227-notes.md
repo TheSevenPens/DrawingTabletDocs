@@ -43,7 +43,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | Adobe RGB 95% coverage<br>DCI-P3 99% coverage<br>Rec. 709 100% coverage |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 300 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 170° horizontal<br>170° vertical |
@@ -97,7 +97,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
 | --- | --- |
-| Ports | — |
+| Ports | Mini DisplayPort<br>HDMI<br>USB-C<br>USB-C<br>USB-A |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

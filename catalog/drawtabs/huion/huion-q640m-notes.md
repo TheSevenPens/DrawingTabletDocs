@@ -48,7 +48,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Tilt | ±60° |
 | Accuracy (center) | ±0.3 mm |
 | Accuracy (corner) | — |
-| Report rate | 300 Hz |
+| Report rate | 300 Hz (133 Hz Bluetooth) |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
 {% endtab %}
@@ -80,9 +80,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
-| Bluetooth | Yes |
+| Bluetooth | Yes (5.0) |
 {% endtab %}
 
 {% tab title="In the box" %}

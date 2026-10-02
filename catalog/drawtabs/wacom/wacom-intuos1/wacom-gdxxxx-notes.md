@@ -38,14 +38,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Active area | 127 × 106 mm (5 × 4.2 in) | 203.2 × 162.4 mm (8 × 6.4 in) | 304.8 × 240.6 mm (12 × 9.5 in) | 304.8 × 316.8 mm (12 × 12.5 in) | 457.2 × 316.8 mm (18 × 12.5 in) |
 | Diagonal | 165.4 mm (6.5 in) | 260.1 mm (10.2 in) | 388.3 mm (15.3 in) | 439.6 mm (17.3 in) | 556.2 mm (21.9 in) |
 | Aspect ratio | 1.198:1 | 5:4 | ≈5:4 (1.267:1) | ≈1:1 (1.039:1) | 1.443:1 |
-| Pen technology | — | — | — | — | — |
-| Pressure levels | — | — | — | — | — |
-| Tilt | — | — | — | — | — |
-| Accuracy (center) | — | — | — | — | — |
+| Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
+| Pressure levels | 1024 | 1024 | 1024 | 1024 | 1024 |
+| Tilt | ±50° | ±60° | ±60° | ±60° | ±60° |
+| Accuracy (center) | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm |
 | Accuracy (corner) | — | — | — | — | — |
-| Report rate | — | — | — | — | — |
+| Report rate | 200 Hz | 200 Hz | 200 Hz | 200 Hz | 200 Hz |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
-| Max hover | — | — | — | — | — |
+| Max hover | 6 mm | 6 mm | 6 mm | 6 mm | 6 mm |
 {% endtab %}
 
 {% tab title="Pen" %}
@@ -76,7 +76,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GD-0405-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u) | [GD-0608-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u) | [GD-0912-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u) | [GD-1212-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u) | [GD-1218-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u) |
 | --- | --- | --- | --- | --- | --- |
 | Ports | — | — | — | — | — |
-| Attached cable | — | — | — | — | — |
+| Attached cable | — | — | USB-A | USB-A | USB-A |
 | Bluetooth | — | — | — | — | — |
 {% endtab %}
 

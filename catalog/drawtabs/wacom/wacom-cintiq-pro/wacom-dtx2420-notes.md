@@ -56,10 +56,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass | Etched glass |
 | Coatings | — | — |
 | Color gamut | Adobe RGB 99% coverage | Adobe RGB 99% coverage |
-| Color depth | 10 bits per channel | 10 bits per channel |
+| Color depth | 10-bit | 10-bit |
 | Brightness | 235 cd/m² | 235 cd/m² |
 | Peak brightness | — | — |
-| Viewing angle | 178° horizontal<br>178° vertical | 178° horizontal<br>178° vertical |
+| Viewing angle | 176° horizontal<br>176° vertical | 176° horizontal<br>176° vertical |
 | Refresh rate | 60 Hz | 60 Hz |
 | Response time | 14 ms | 14 ms |
 {% endtab %}
@@ -103,7 +103,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Size | 677 × 394 × 47 mm (26.7 × 15.5 × 1.9 in) | 677 × 394 × 47 mm (26.7 × 15.5 × 1.9 in) |
 | Weight | 7200 g | 7200 g |
 | VESA mount | — | — |
-| Legs | — | — |
+| Legs | Yes | Yes |
 | Included stand | — | — |
 {% endtab %}
 

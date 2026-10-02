@@ -45,10 +45,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 156% area<br>Adobe RGB 99% coverage, 116% area<br>Display P3 98% coverage, 115% area |
-| Color depth | 10 bits per channel |
+| Color depth | 10-bit |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
-| Viewing angle | — horizontal<br>170° vertical |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 1 ms |
 {% endtab %}
@@ -99,7 +99,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

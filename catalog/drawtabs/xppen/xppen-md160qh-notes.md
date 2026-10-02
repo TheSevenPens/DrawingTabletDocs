@@ -41,13 +41,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | --- | --- |
 | Resolution | 2560 × 1600 |
 | Aspect ratio | 16:10 |
-| Pixel density | 188 PPI |
+| Pixel density | 189 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 159% area<br>Adobe RGB 97% coverage, 118% area<br>DCI-P3 99% coverage, 117% area |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -58,14 +58,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
 | --- | --- |
-| Active area | 345 × 215 mm (13.6 × 8.5 in) |
+| Active area | 344.7 × 215.4 mm (13.6 × 8.5 in) |
 | Diagonal | 406.5 mm (16 in) |
 | Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | ±0.8 mm |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |

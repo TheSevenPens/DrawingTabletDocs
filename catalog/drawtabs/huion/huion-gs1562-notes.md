@@ -43,7 +43,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | AG film |
 | Coatings | — |
 | Color gamut | sRGB 120% area |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -54,7 +54,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
 | --- | --- |
-| Active area | 344 × 194 mm (13.5 × 7.6 in) |
+| Active area | 344.2 × 193.6 mm (13.5 × 7.6 in) |
 | Diagonal | 394.9 mm (15.5 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |

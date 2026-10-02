@@ -37,13 +37,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Resolution | 1920 × 1080 |
 | Aspect ratio | 16:9 |
 | Pixel density | 143 PPI |
-| Panel | — |
-| Lamination | — |
+| Panel | IPS |
+| Lamination | Yes |
 | Anti-glare | — |
 | Coatings | — |
 | Color gamut | sRGB 127% area<br>Adobe RGB 94% coverage<br>NTSC 90% coverage |
-| Color depth | — |
-| Brightness | — |
+| Color depth | 8-bit |
+| Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
@@ -53,8 +53,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
 | --- | --- |
-| Active area | 341 × 192 mm (13.4 × 7.6 in) |
-| Diagonal | 391.3 mm (15.4 in) |
+| Active area | 341 × 191.8 mm (13.4 × 7.6 in) |
+| Diagonal | 391.2 mm (15.4 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
@@ -76,7 +76,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 10 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |

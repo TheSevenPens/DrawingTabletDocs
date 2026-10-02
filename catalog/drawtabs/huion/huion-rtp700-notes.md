@@ -82,7 +82,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [RTP700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.rtp700) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

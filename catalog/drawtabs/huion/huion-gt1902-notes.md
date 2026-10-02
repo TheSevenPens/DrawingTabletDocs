@@ -59,7 +59,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | sRGB 99% coverage, 150% area<br>Adobe RGB 96% coverage<br>DCI-P3 98% coverage |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit (10-bit with FRC) |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 170° horizontal<br>170° vertical |
@@ -113,7 +113,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C<br>3.5 mm audio |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

@@ -43,7 +43,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | sRGB 99% coverage, 130% area<br>Adobe RGB 90% coverage<br>Display P3 94% coverage<br>Rec. 709 99% coverage |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -87,8 +87,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
 | --- | --- |
-| Size | 527.7 × 324.7 × 36.7 mm (20.8 × 12.8 × 1.4 in) |
-| Weight | — |
+| Size | 527.7 × 324.7 × 16–36.7 mm (20.8 × 12.8 × 0.6–1.4 in) |
+| Weight | 3600 g |
 | VESA mount | Yes |
 | Legs | — |
 | Included stand | Yes |

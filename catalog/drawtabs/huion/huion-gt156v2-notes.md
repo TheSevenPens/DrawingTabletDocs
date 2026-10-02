@@ -46,7 +46,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | — |
 | Color gamut | sRGB 99% coverage, 120% area<br>Rec. 709 99% coverage |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -80,10 +80,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 6 |
 | Dials | — |
 | Touch rings | — |
-| Touch strips | — |
+| Touch strips | 1 |
 | Touch | No |
 {% endtab %}
 
@@ -100,7 +100,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

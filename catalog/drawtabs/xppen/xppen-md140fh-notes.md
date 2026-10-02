@@ -50,7 +50,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | Etched glass |
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 123% area<br>Adobe RGB 85% coverage, 91% area |
-| Color depth | 8 bits per channel |
+| Color depth | 8-bit |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -61,8 +61,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
-| Active area | 299 × 187 mm (11.8 × 7.4 in) |
-| Diagonal | 352.7 mm (13.9 in) |
+| Active area | 298.9 × 186.8 mm (11.8 × 7.4 in) |
+| Diagonal | 352.5 mm (13.9 in) |
 | Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
@@ -104,7 +104,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
