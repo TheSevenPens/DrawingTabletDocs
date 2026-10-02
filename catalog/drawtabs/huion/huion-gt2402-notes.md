@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pro 24 GEN3 |
 | Released | 2025-10-17 |
 | Status | Available |
-| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 140% |
+| Color gamut | sRGB 140% |
 | Color depth | 10 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 14 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
 | --- | --- |
 | Active area | 525.9 × 295.8 mm (20.7 × 11.6 in) |
+| Diagonal | 603.4 mm (23.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±1 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 9 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
+| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,7 +84,26 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Display
+
+* Contrast ratio: 1000:1
+
+### Pens
+
+* Any PW600 series pen will work
+* Incompatible pens
+  * You can only use PW600 series pens with the tablet.
+  * Older pens like PW517, PW550, etc will not work with this tablet
 
 ## Links
 
@@ -79,30 +111,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Brad Colbow - Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) 2025-10-24
 * [Teoh on Tech - Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) 2026-02-01&#x20;
 * User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
-
-## Digitizer specs
-
-* Active area:
-  * Diagonal: TBD
-* Accuracy:
-  * Center: ±0.3mm
-  * Corner: ±1mm
-
-## Display specs
-
-* Pixel density: 185 PPI
-* Contrast ratio: 1000:1
-
-## Pens
-
-### Compatible pens
-
-* And PW600 series pen will work
-
-### Incompatible pens
-
-* You can only use PW600 series pens with the tablet.
-* Older pens like PW517, PW550, etc will not work with this tablet
 
 ## Display experience
 

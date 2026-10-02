@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pro 24 4K |
 | Released | 2021-09-23 |
 | Status | — |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 140% |
+| Color gamut | sRGB 140% |
 | Color depth | 10 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 10 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
 | --- | --- |
 | Active area | 527 × 296 mm (20.7 × 11.7 in) |
+| Diagonal | 604.4 mm (23.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±3 mm |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -70,6 +83,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | DC power<br>USB-C<br>DisplayPort<br>HDMI<br>USB-A<br>USB-A<br>3.5 mm audio |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

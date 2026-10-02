@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist 16 GEN2 |
 | Released | 2022-04-29 |
 | Status | — |
-| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 143 PPI |
 | Panel | — |
 | Lamination | — |
 | Anti-glare | — |
-| sRGB | 127% |
+| Color gamut | sRGB 127%<br>NTSC 90% |
 | Color depth | — |
 | Brightness | — |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | — |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
 | --- | --- |
 | Active area | 341 × 192 mm (13.4 × 7.6 in) |
+| Diagonal | 391.3 mm (15.4 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | ±1 mm |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+| Compatible pens | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,7 +84,19 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Device
+
+* The ports are on the right side. Both are recessed into the tablet.
 
 ## Links
 
@@ -99,7 +124,3 @@ Totally silent
 ## Heat
 
 Cool on the left side. Warm on the right especially near where the USB-C ports are.
-
-## Ports
-
-2 USB-C ports on the right side. Both are recessed into the tablet.

@@ -17,19 +17,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy 2 L |
 | Released | 2023-01-05 |
 | Status | — |
-| Included pen | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
 | --- | --- |
 | Active area | 267 × 167 mm (10.5 × 6.6 in) |
+| Diagonal | 314.9 mm (12.4 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Included pen | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110) |
+| Compatible pens | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110)<br>[PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -56,7 +66,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | No |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+The tablet is compatible with several pens in the PenTech 3.x series, not just the one it came with. I tested the PW517 and PW550.
+
+As with all PenTech 3.x devices, I recommend purchasing the PW550 pen to use with this tablet because it provides a superior drawing experience.
 
 ## **Links**
 
@@ -64,20 +88,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Teoh on tech review of Huion Inspiroy 2 L](https://youtu.be/mgDDBJf96U8) Feb 15, 2023
 * [Create Now Sleep Later review of Huion Inspiroy 2 L](https://youtu.be/L6mgOluUApE) Apr 24, 2023
 * [SweetMonia review Huion Inspiroy 2 L](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) 2023-02-14
-
-## **Pen**
-
-This tablet comes with the Huion PW110 pen.
-
-## **Pen compatibility**
-
-The tablet is compatible with several pens in the PenTech 3.x series, not just the one it came with.
-
-* PW110
-* PW517 (I tested)
-* PW550 (I tested)
-
-As with all PenTech 3.x devices, I recommend purchasing the PW550 pen to use with this tablet because it provides a superior drawing experience.
 
 ## **Photos**
 

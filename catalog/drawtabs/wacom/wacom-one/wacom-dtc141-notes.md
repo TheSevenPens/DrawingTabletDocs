@@ -28,23 +28,6 @@ This tablet makes sense for the following scenarios:
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 
-### Active area
-
-* Diagonal length: 357.1 (14.06 in)
-* Aspect ratio: 16x9
-
-### What's in the box
-
-* 1 x Display Device
-* 1 x Wacom One Standard Pen
-* 3 x Wacom One Pen Standard Nib
-* 1 x nib removal tool
-* 1 x USB Type-C Cable (1.8m)
-
-###
-
-*
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). Click a model ID to see its full record there.
@@ -56,19 +39,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One 14 2025 |
 | Released | 2025-09-17 |
 | Status | Available |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 158 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 98% |
+| Color gamut | sRGB 98% |
 | Color depth | 8 bits per channel |
 | Brightness | 285 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 16 ms |
 {% endtab %}
@@ -77,12 +62,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
 | --- | --- |
 | Active area | 309 × 174 mm (12.2 × 6.9 in) |
+| Diagonal | 354.6 mm (14 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 4096 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -112,42 +108,42 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Contents | 1 x Display Device<br>1 x Wacom One Standard Pen<br>3 x Wacom One Pen Standard Nib<br>1 x nib removal tool<br>1 x USB Type-C Cable (1.8m) |
+{% endtab %}
 {% endtabs %}
 
-## Pens
+## Notes on specs
 
-### Included pen
-
-* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
-  * High consumer-level IAF
-  * OK pressure range
-  * Replacement cost: $35
-
-### Compatible pens
-
-* Wacom One Standard Pen (CP-923)
-* Wacom One Pen (CP-913)
-* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
-* I tested these pens and they worked fine
-  * Wacom One Pen (CP-913)
-  * Wacom One Standard Pen (CP-923)
-  * Samsung S Pen
-  * Staedtler Noris Digitial
-  * Staedtler Noris Digitial Jumbo
-  * Staedtler Mars Lumograph digital
-
-### Incompatible pens
-
-* All Wacom pro pens are incompatible
-  * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
-
-## Display
-
-### Other display specs
+### Display
 
 * Surface: Described as "AG + AF glass"
 * Lamination: Described as "Direct Bonding"
 * Contrast ratio: 1000:1
+
+### Digitizer
+
+* Diagonal length: 357.1 (14.06 in)
+
+### Pens
+
+* Included pen: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+  * High consumer-level IAF
+  * OK pressure range
+  * Replacement cost: $35
+* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
+* I tested these pens and they worked fine
+  * Samsung S Pen
+  * Staedtler Noris Digital
+  * Staedtler Noris Digital Jumbo
+  * Staedtler Mars Lumograph digital
+* Incompatible pens: all Wacom pro pens are incompatible
+  * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
+
+## Display
 
 ### Anti-glare sparkle
 
@@ -158,8 +154,6 @@ LOW (GOOD)
 Very good. Almost no color shift at extreme angles.
 
 ### Surface protection
-
-The surface is etched glass
 
 the tablet does NOT come with a screen protector
 

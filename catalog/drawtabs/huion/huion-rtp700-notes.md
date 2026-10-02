@@ -29,19 +29,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy RTP-700 |
 | Released | 2022 |
 | Status | — |
-| Included pen | [PW400 (PW400)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw400) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [RTP700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.rtp700) |
 | --- | --- |
 | Active area | 279 × 175 mm (11 × 6.9 in) |
+| Diagonal | 329.3 mm (13 in) |
+| Aspect ratio | ≈16:10 (1.594:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [RTP700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.rtp700) |
+| --- | --- |
+| Included pen | [PW400 (PW400)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw400) |
+| Compatible pens | [PW400 (PW400)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw400) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -67,6 +77,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [RTP700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.rtp700) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

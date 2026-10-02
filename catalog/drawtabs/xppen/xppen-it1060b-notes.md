@@ -25,19 +25,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Deco LW | Deco L |
 | Released | 2021 | 2021 |
 | Status | — | — |
-| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
 | --- | --- | --- |
 | Active area | 254 × 152 mm (10 × 6 in) | 254 × 152 mm (10 × 6 in) |
+| Diagonal | 296 mm (11.7 in) | 296 mm (11.7 in) |
+| Aspect ratio | 1.671:1 | 1.671:1 |
 | Pen technology | Passive EMR | Passive EMR |
 | Pressure levels | 8192 | 8192 |
 | Tilt | ±60° | ±60° |
+| Accuracy (center) | — | — |
+| Accuracy (corner) | — | — |
 | Report rate | — | — |
 | Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
+| --- | --- | --- |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+| Compatible pens | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -64,30 +74,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — | — |
 | Bluetooth | Yes | No |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
+| --- | --- | --- |
+| Contents | — | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Size
 
-* Aspect Ratio: 1.671
 * Aspect Ratio: 16:9.57
 * Size Category: Medium
-* Diagonal: 296.0 mm
 * Similar ISO Paper: 15% larger than A5
 
 ### Comparison to other pen tablets
 
 <figure><img src="../../../.gitbook/assets/xppen-it1060b-notes-1.png" alt=""><figcaption></figcaption></figure>
-
-## Pens
-
-Included pen: X3 Elite
-
-Compatible pens:
-
-* X3 Elite
-* X3 Elite Plus
-
-See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Drawing experience
 

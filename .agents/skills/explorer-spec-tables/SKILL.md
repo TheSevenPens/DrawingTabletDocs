@@ -7,7 +7,7 @@ description: Generates the standard "## Specs" section (GitBook tabs, one column
 
 Catalog notes pages (`catalog/drawtabs/**/*-notes.md`) don't hand-copy manufacturer specs. Each page has a `## Specs` section generated from DrawTabData, the data behind the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To fix a spec, fix it in DrawTabData, then rerun this script. Don't edit the generated tables by hand.
 
-The author's own comments about specs (opinions, measurements, comparisons) stay in the page's prose sections, not in the Specs section.
+Specs are data, and data lives in DrawTabData and the generated Specs section. The notes page holds usage notes: the author's own comments about specs (opinions, measurements, comparisons, context that doesn't fit a table) stay in the page's prose sections, under "## Notes on specs" for spec-related context. Don't repeat in the notes a value the Specs section already shows.
 
 ## Running it
 
@@ -30,19 +30,21 @@ An intro line linking the Explorer family page, then GitBook tabs. Each tab is a
 
 | Tab | Rows | Shown for |
 |---|---|---|
-| Model | Name, Released, Status, Included pen | all |
-| Display | Resolution, Panel, Lamination, Anti-glare, sRGB, Color depth, Brightness, Refresh rate, Response time | pen displays, standalone |
-| Digitizer | Active area, Pen technology, Pressure levels, Tilt, Report rate, Density, Max hover | all |
+| Model | Name, Released, Status | all |
+| Display | Resolution, Aspect ratio, Pixel density, Panel, Lamination, Anti-glare, Color gamut, Color depth, Brightness, Viewing angle, Refresh rate, Response time | pen displays, standalone |
+| Digitizer | Active area, Diagonal, Aspect ratio, Pen technology, Pressure levels, Tilt, Accuracy (center), Accuracy (corner), Report rate, Density, Max hover | all |
+| Pen | Included pen (Model.IncludedPen), Compatible pens (data/pen-compat, matched on brand and model ID), one per line, each linked to its Explorer page | all |
 | Other inputs | Buttons, Dials, Touch rings, Touch strips, Touch | all |
 | Physical | Size, Weight; plus VESA mount, Legs, Included stand on pen displays and standalone | all |
 | Connectivity | Ports, Attached cable, Bluetooth; plus Wi-Fi on standalone | all |
+| In the box | Contents: one item per line, from Model.IncludedInBox | all |
 | Computer | OS, Processor, RAM, Storage | standalone |
 
 Rows are fixed, so every page looks the same:
 - "—" means DrawTabData has no value. Fill it in DrawTabData, not in the page.
 - "None" means DrawTabData records that the tablet explicitly has none, e.g. an empty port list.
 
-Sizes show mm with inches in parentheses. Density shows LPmm with LPI in parentheses.
+Sizes (including the active area diagonal, computed from its width and height) show mm with inches in parentheses. Accuracy shows ± mm. Aspect ratio shows the common ratio when it is exact (16:9), "≈16:9 (1.772:1)" when it is within 0.05 of one, and the plain ratio otherwise, using the same ratios and thresholds as DrawTabData. Pixel density is display pixels across the active area width, in PPI. Color gamut lists every gamut DrawTabData has, one per line. Density shows LPmm with LPI in parentheses.
 
 ## Also on each notes page
 

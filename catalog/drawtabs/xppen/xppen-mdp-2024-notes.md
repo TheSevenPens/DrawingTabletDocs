@@ -18,19 +18,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Magic Drawing Pad 2024 |
 | Released | 2024-01-22 |
 | Status | Available |
-| Included pen | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [9494G](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.9494g) |
 | --- | --- |
 | Resolution | 2160 × 1440 |
+| Aspect ratio | 3:2 |
+| Pixel density | 213 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | AG film |
-| sRGB | 109% |
+| Color gamut | sRGB 109%<br>Adobe RGB 82%<br>NTSC 77% |
 | Color depth | 8 bits per channel |
 | Brightness | 360 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -39,12 +41,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [9494G](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.9494g) |
 | --- | --- |
 | Active area | 258 × 172 mm (10.2 × 6.8 in) |
+| Diagonal | 310.1 mm (12.2 in) |
+| Aspect ratio | 3:2 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | — |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | ±1.5 mm |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [9494G](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.9494g) |
+| --- | --- |
+| Included pen | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
+| Compatible pens | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -74,6 +87,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | Yes (5.1) |
 | Wi-Fi | 802.11a/b/g/n/ac |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [9494G](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.9494g) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 
 {% tab title="Computer" %}

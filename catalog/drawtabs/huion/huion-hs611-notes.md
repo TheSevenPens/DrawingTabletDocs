@@ -21,19 +21,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | HS611 |
 | Released | 2019 |
 | Status | — |
-| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
 | --- | --- |
 | Active area | 258 × 162 mm (10.2 × 6.4 in) |
+| Diagonal | 304.6 mm (12 in) |
+| Aspect ratio | ≈16:10 (1.593:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 233 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
+| Compatible pens | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -60,7 +70,19 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | No |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+* The included pen is the slightly older PW500. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md).
 
 ## **Links**
 
@@ -74,14 +96,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 This is a MEDIUM-sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro Medium.
 
 <table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.82 x 5.83”</td><td>10.57”</td></tr></tbody></table>
-
-## Aspect ratio
-
-This tablet has a 16:10 aspect ratio.
-
-## **Pen**
-
-The tablet uses the slightly older PW500 pen. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md).
 
 ## **Build quality & design**
 

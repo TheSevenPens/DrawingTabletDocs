@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq Pro 16 2016 |
 | Released | 2016-11-16 |
 | Status | Discontinued |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 283 PPI |
 | Panel | IPS |
 | Lamination | — |
 | Anti-glare | — |
-| sRGB | — |
+| Color gamut | — |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 176° horizontal<br>176° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 25 ms |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
 | --- | --- |
 | Active area | 345 × 194 mm (13.6 × 7.6 in) |
+| Diagonal | 395.8 mm (15.6 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+| Compatible pens | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -72,6 +85,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

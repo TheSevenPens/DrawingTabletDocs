@@ -23,19 +23,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos4 XL |
 | Released | 2009-03-24 |
 | Status | Discontinued |
-| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
 | --- | --- |
 | Active area | 487.7 × 304.8 mm (19.2 × 12 in) |
+| Diagonal | 575.1 mm (22.6 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -62,6 +72,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | USB-A |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
 ## Video
@@ -81,23 +97,11 @@ The last supported driver:
 * Windows: version 6.4.3-1, released in August 09 2023
 * MacOS: version 6.4.3-2, released for macOS on August 09 2023.
 
-## Pen compatibility
-
-| Pen                                  |
-| ------------------------------------ |
-| Wacom Intuos4 Pro Pen (KP-503E)      |
-| Wacom Intuos4 Grip Pen (KP-501E)     |
-| Wacom Intuos4 Classic Pen (KP-300E)  |
-| Wacom Intuos4 Art Pen (KP-701E)      |
-| Wacom Intuos4 Airbrush Pen (KP-400E) |
-
 ## Availability
 
 Wacom has not produced the PTK 1240 for many years, and it is no longer listed on the Wacom store. You can still find this model used on sites like eBay, but the prices vary greatly. I've seen it from as low as $100 to as high as $500.
 
 ## Active area size
-
-* Diagonal length is \~575mm (22.6 mm)
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -119,7 +123,7 @@ The PTK 1240 reflects a lot of design decisions that were common for tablets of 
 
 
 
-It is **extremely thick.** At its thickest, the Pen tablet measures 28 mm, which is a little bit thicker than 1 inch. This is over three times the thickness of modern professional tablets, which tend to be around 8 mm.
+It is **extremely thick.** At its thickest, the Pen tablet is over three times the thickness of modern professional tablets, which tend to be around 8 mm.
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-5.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -141,11 +145,11 @@ In pro pen tablets of this era, Wacom had a **clear sheet of plastic** that you 
 
 
 
-The maximum number of pressure levels supported is 2048, which I think is more than enough for most people, despite the fact that modern tablets have 8,000 or even 16,000 levels of pressure.&#x20;
+I think the maximum number of pressure levels supported is more than enough for most people, despite the fact that modern tablets have 8,000 or even 16,000 levels of pressure.&#x20;
 
 Barrel rotation is supported if you use the Intuos 4 pen, model number KP 701E, which you can purchase separately.&#x20;
 
-The aspect ratio of the active area is 16 by 10. So if you are using this Pen tablet, as I would recommend with any other Pen tablet, turn on force proportions in the driver so that your strokes will be distortion-free.
+If you are using this Pen tablet, as I would recommend with any other Pen tablet, turn on force proportions in the driver so that your strokes will be distortion-free.
 
 ## Pairing the PTK 1240 with a monitor.
 

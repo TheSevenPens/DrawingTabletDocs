@@ -36,19 +36,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One S 2023 | Wacom One M 2023 |
 | Released | 2023-08-10 | 2023-08-10 |
 | Status | Available | Available |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
 | --- | --- | --- |
 | Active area | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) |
+| Diagonal | 179.2 mm (7.1 in) | 254.7 mm (10 in) |
+| Aspect ratio | 16:10 | 16:10 |
 | Pen technology | Passive EMR | Passive EMR |
 | Pressure levels | 4096 | 4096 |
 | Tilt | ±60° | ±60° |
+| Accuracy (center) | — | — |
+| Accuracy (corner) | — | — |
 | Report rate | — | — |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
+| --- | --- | --- |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -75,27 +85,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None | None |
 | Bluetooth | Yes (5.1) | Yes (5.1) |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
+| --- | --- | --- |
+| Contents | — | — |
+{% endtab %}
 {% endtabs %}
 
-## **Pens**
+## Notes on specs
 
-### **Included pen**
+### Pens
 
-* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
-
-### Compatible pens
-
-* Wacom One pen (CP-913) - [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
-* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Included pen: see [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Wacom One pen (CP-913): see [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
 * UD EMR pens (like Samsung S pen, etc.)
-
-## **Digitizer specs**
-
-* Active area
-  * Wacom One S (2023) - CTC4110WL
-    * Diagonal: 179.25 mm (7.06 in)
-  * Wacom One M (2023) - CTC6110WL
-    * Diagonal: 254.72 mm (10.03 in)
 
 ## **Drawing experience**
 

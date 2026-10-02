@@ -15,19 +15,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy WH1409 V2 |
 | Released | 2018 |
 | Status | Discontinued |
-| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [WH1409V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |
 | --- | --- |
 | Active area | 350 × 218 mm (13.8 × 8.6 in) |
+| Diagonal | 412.3 mm (16.2 in) |
+| Aspect ratio | ≈16:10 (1.606:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [WH1409V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |
+| --- | --- |
+| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
+| Compatible pens | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -53,6 +63,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [WH1409V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

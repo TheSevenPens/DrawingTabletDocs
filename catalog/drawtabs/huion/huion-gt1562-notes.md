@@ -25,19 +25,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pro 16 4K Plus |
 | Released | 2021-03 |
 | Status | — |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 281 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 145% |
+| Color gamut | sRGB 145% |
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 25 ms |
 {% endtab %}
@@ -46,12 +48,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
 | --- | --- |
 | Active area | 347 × 194 mm (13.7 × 7.6 in) |
+| Diagonal | 397.5 mm (15.7 in) |
+| Aspect ratio | ≈16:9 (1.789:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±2 mm |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -80,6 +93,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

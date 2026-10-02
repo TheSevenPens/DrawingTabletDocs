@@ -25,19 +25,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist Pro 22 GEN2 |
 | Released | 2024-05-20 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
 | --- | --- |
 | Resolution | 2560 × 1440 |
+| Aspect ratio | 16:9 |
+| Pixel density | 137 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 99%<br>Display P3 94% |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -46,12 +48,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
 | --- | --- |
 | Active area | 475 × 267 mm (18.7 × 10.5 in) |
+| Diagonal | 544.9 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -81,7 +94,30 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Digitizer
+
+* Active Area diagonal: 21.474" (545.4mm)
+
+### Pens
+
+* See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
+* I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
+
+It is compatible with other pens in the X3 pro series. I tested with all of the pens below.
+
+* X3 Pro Roller Stylus
+* X3 Pro Slim Stylus
+* X3 Pro
 
 ## Links
 
@@ -94,18 +130,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 <figure><img src="../../../.gitbook/assets/xppen-md220qh-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## Core specs
-
-* Active Area diagonal: 21.474" (545.4mm)
-* Aspect Ratio: 16x9
-* Accuracy: ±0.4 mm (center)
-
 ## Display
 
 * **Resolution**
   * This a significant upgrade from the Full HD (1920x1080) resolution of the XP-Pen Artist 22 Plus
-* Aspect Ratio: 16:9
-* Viewing Angle: 178°
+* Viewing Angle
   * Minimal color shift at extreme left/right angles, with very slight dimming at steep up/down tilts.
 
 ## **Display > Anti-glare**
@@ -114,22 +143,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## **Display > color**
 
-* Color Gamut Coverage Ratio: 99% Adobe RGB, 94% Display P3
 * **Color Calibration Report**: Tablet package came with a factory calibration report with a Delta E value of 0.88. I'm not an expert on colors but I was told this is good.
-
-## Included pen
-
-* The tablet comes with a single pen: X3 Pro Stylus.
-* See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
-* I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
-
-## Compatible pens
-
-It is compatible with other pens in the X3 pro series. I tested with all of the pens below.
-
-* X3 Pro Roller Stylus
-* X3 Pro Slim Stylus
-* X3 Pro
 
 ## Physical characteristics
 
@@ -171,11 +185,6 @@ Looks exactly like the XP-Pen Artist 22 Plus. So very attractive overall design.
 Moving between low and high pressure gave smooth pressure transitions.
 
 ## Accuracy
-
-XP-Pen states:
-
-* Center: ±0.4 mm
-* Corner: NOT STATED
 
 RATING: VERY GOOD.
 

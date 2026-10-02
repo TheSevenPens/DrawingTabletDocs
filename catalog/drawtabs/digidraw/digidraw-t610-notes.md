@@ -25,19 +25,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Turing Basic M |
 | Released | 2025-09-05 |
 | Status | — |
-| Included pen | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
 | --- | --- |
 | Active area | 254 × 158.8 mm (10 × 6.3 in) |
+| Diagonal | 299.6 mm (11.8 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Included pen | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
+| Compatible pens | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -64,11 +74,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | No |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
-## Pens
+## Notes on specs
 
-Compatible pens:
+### Pens
 
 * Officially only the DigiDraw M3 pen is compatible. In my testing I was able to fully use a Huion PW500 pen with this tablet.
 
@@ -81,8 +97,6 @@ Compatible pens:
 
 This is a medium-sized tablet, and it is slightly larger than the Wacom Intuos Pro 2017 Medium (PTH-660).
 
-* Aspect ratio: 1.599 (16:10)
-* Active area diagonal: 11.80 in (299.6 mm)
 * Similar ISO paper: 17% larger than A5
 
 <figure><img src="../../../.gitbook/assets/digidraw-t610-notes-1.png" alt=""><figcaption></figcaption></figure>

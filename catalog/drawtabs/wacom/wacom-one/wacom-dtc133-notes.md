@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One 13 2019 |
 | Released | 2020-01-07 |
 | Status | Discontinued |
-| Included pen | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 166 PPI |
 | Panel | AHVA |
 | Lamination | — |
 | Anti-glare | AG film |
-| sRGB | — |
+| Color gamut | NTSC 72% |
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | — |
 | Response time | 26 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
 | --- | --- |
 | Active area | 294 × 166 mm (11.6 × 6.5 in) |
+| Diagonal | 337.6 mm (13.3 in) |
+| Aspect ratio | ≈16:9 (1.771:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 4096 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
+| --- | --- |
+| Included pen | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
+| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,7 +84,25 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+* The supplied Wacom One pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
+* Besides the Wacom CP-913, the Wacom One 2019 (DTC-133) tablet is compatible with 2nd gen UD EMR pens.
+  * Official Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
+  * [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
+  * r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020-12-26
+  * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
+  * [**r/wacom - What pens are compatible with the Wacom One?**](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022-01-13
 
 ## Basics
 
@@ -93,22 +124,6 @@ In 2023, Wacom released two updated pen display versions in the Wacom One 2023 s
 ### Size
 
 I still find 13" tablets a little too small for me. I normally recommend 16" tablets. But as a starter tablet or intended for use by a child, this size works well.
-
-## **Included pen**
-
-The supplied Wacom One pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
-
-The supplied Wacom One pen (CP-913) is a decent consumer pen. It's not as good as what you would find with the Pro Pen 2. Much more here: [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
-
-## Compatible pens
-
-Besides the Wacom CP-913, the Wacom One 2019 (DTC-133) tablet is compatible with 2nd gen UD EMR pens.
-
-* Official Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
-* [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
-* r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020-12-26
-* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
-* [**r/wacom - What pens are compatible with the Wacom One?**](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022-01-13
 
 ## **Display experience**
 

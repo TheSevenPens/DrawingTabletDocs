@@ -22,19 +22,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Deco 01 V3 |
 | Released | 2024 |
 | Status | — |
-| Included pen | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
 | --- | --- |
 | Active area | 254 × 159 mm (10 × 6.3 in) |
+| Diagonal | 299.7 mm (11.8 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Included pen | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
+| Compatible pens | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -61,7 +71,20 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+* Included pen: [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
+* The included P05 pen has exactly the same as the old model and has the same high IAF that ranges from 6gf to 9gf depending on the pen unit I tested. This IAF is higher than is typical for modern pen tablets. But it might work for some people.
 
 ## Links
 
@@ -76,18 +99,6 @@ XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to
 XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case in my testing. It had the same issues as I encountered with the Deco 01 V2. Why it didn't work seamlessly is unclear. It could have been due to the specific Android devices I tested with (I did test multiple).
 
 Other users say they have used this tablet with an Android device and it worked correctly. That just was not my experience.
-
-## Pens
-
-### Included pen
-
-XP-Pen P05 - [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
-
-The included P05 pen has exactly the same as the old model and has the same high IAF that ranges from 6gf to 9gf depending on the pen unit I tested. This IAF is higher than is typical for modern pen tablets. But it might work for some people.
-
-### Compatible pens
-
-* XP-Pen P05
 
 ## Better alternatives
 

@@ -20,13 +20,6 @@ These here are some of my initial thoughts on this device.
 
 Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
 
-### What's in the box
-
-* MovinkPad 11
-* USB-C to C charging cable
-* Wacom Pro Pen 3 (slim barrel) with nib holder
-* 3 felt nibs
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). Click a model ID to see its full record there.
@@ -38,19 +31,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom MovinkPad 11 |
 | Released | 2025-07-17 |
 | Status | Available |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
 | --- | --- |
 | Resolution | 2200 × 1440 |
+| Aspect ratio | ≈3:2 (1.528:1) |
+| Pixel density | 230 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99% |
 | Color depth | 8 bits per channel |
 | Brightness | 400 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 90 Hz |
 | Response time | — |
 {% endtab %}
@@ -59,12 +54,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
 | --- | --- |
 | Active area | 243 × 159 mm (9.6 × 6.3 in) |
+| Diagonal | 290.4 mm (11.4 in) |
+| Aspect ratio | ≈3:2 (1.528:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -96,6 +102,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Wi-Fi | 802.11a/b/g/n/ac |
 {% endtab %}
 
+{% tab title="In the box" %}
+| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
+| --- | --- |
+| Contents | MovinkPad 11<br>USB-C to C charging cable<br>Wacom Pro Pen 3 (slim barrel) with nib holder<br>3 felt nibs |
+{% endtab %}
+
 {% tab title="Computer" %}
 | | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
 | --- | --- |
@@ -105,6 +117,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Storage | 128 GB |
 {% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+* Included pen: see [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* It is compatible with [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
+* <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
+  * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
+  * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
+  * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>
 
 ## Movink vs MovinkPad
 
@@ -119,25 +142,11 @@ Because the names are familiar, I'll highlight the key differences
 
 If you are ordering this device online, please make sure you are ordering the correct device.
 
-### Included pen
-
-* Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-
 ### Pen replacement cost
 
 * Losing or breaking your pen is always a bad experience.
 * In this case you REALLY want to take care of your pen because the replacement cost of the Pro Pen 3 (ACP-500) is $130.
 * Yes, you can buy the a cheaper UD EMR pen as a replacement - but these are AWFUL compared to the Pro Pen 3.
-
-## Pen compatibility
-
-* It is compatible with
-  * Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-  * [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
-* <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
-  * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
-  * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
-  * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>
 
 ## Standalone experience
 
@@ -250,8 +259,6 @@ The tablet does NOT come with a case.
 Wacom lists a compatible case which as of Aug 8 2025 has not been released: **Wacom MovinkPad 11 Case with Stand (ACK45533Z)**
 
 ## Stand
-
-The tablet does NOT come with a stand.
 
 Wacom lists this stand as an accessory: **Wacom Foldable Stand (ACK652Z)**
 

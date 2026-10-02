@@ -25,19 +25,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy Dial 2 |
 | Released | 2022-08-15 |
 | Status | — |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [Q630M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q630m) |
 | --- | --- |
 | Active area | 267 × 167 mm (10.5 × 6.6 in) |
+| Diagonal | 314.9 mm (12.4 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [Q630M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q630m) |
+| --- | --- |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -63,6 +73,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [Q630M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q630m) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

@@ -32,19 +32,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq Pro 24 | Cintiq Pro 24 Touch |
 | Released | 2018-02-27 | 2018-02-27 |
 | Status | Discontinued | Discontinued |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
 | --- | --- | --- |
 | Resolution | 3840 × 2160 | 3840 × 2160 |
+| Aspect ratio | 16:9 | 16:9 |
+| Pixel density | 187 PPI | 187 PPI |
 | Panel | IPS | IPS |
 | Lamination | — | — |
 | Anti-glare | Etched glass | Etched glass |
-| sRGB | — | — |
+| Color gamut | Adobe RGB 99% | Adobe RGB 99% |
 | Color depth | 10 bits per channel | 10 bits per channel |
 | Brightness | 235 cd/m² | 235 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz | 60 Hz |
 | Response time | 14 ms | 14 ms |
 {% endtab %}
@@ -53,12 +55,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
 | --- | --- | --- |
 | Active area | 522 × 294 mm (20.6 × 11.6 in) | 522 × 294 mm (20.6 × 11.6 in) |
+| Diagonal | 599.1 mm (23.6 in) | 599.1 mm (23.6 in) |
+| Aspect ratio | 16:9 | 16:9 |
 | Pen technology | Passive EMR | Passive EMR |
 | Pressure levels | 8192 | 8192 |
 | Tilt | ±60° | ±60° |
+| Accuracy (center) | — | — |
+| Accuracy (corner) | — | — |
 | Report rate | — | — |
 | Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
 | Max hover | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+| Compatible pens | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -88,25 +101,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — | — |
 | Bluetooth | — | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Contents | — | — |
+{% endtab %}
 {% endtabs %}
 
-## Other specs
-
-### Digitizer
-
-* Active Area Diagonal: 23.6"
-* Aspect ratio: 16x9
+## Notes on specs
 
 ### Display
 
-* Viewing angles: 178°/178°
 * Contrast ratio: 1000:1
-* Color gamut: 99% Adobe RGB
 
-## Compatible pens
+### Pens
 
-* Pro Pen 2 (KP-504E)
-* others (TBD)
+* Compatible pens other than the Pro Pen 2 (KP-504E): TBD
 
 ## Links
 

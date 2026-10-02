@@ -19,19 +19,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist 12 GEN2 |
 | Released | 2021-09-01 |
 | Status | — |
-| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | — |
-| sRGB | 127% |
+| Color gamut | sRGB 127%<br>Adobe RGB 94%<br>NTSC 90% |
 | Color depth | — |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | — |
 {% endtab %}
@@ -40,12 +42,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
 | --- | --- |
 | Active area | 263.2 × 148.1 mm (10.4 × 5.8 in) |
+| Diagonal | 302 mm (11.9 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | ±1 mm |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+| Compatible pens | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -75,17 +88,22 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
-## Pen
+## Notes on specs
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+### Pens
+
+* Included pen: OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
-* XP-pen lists accuracy as:
-  * center ±0.5mm
-  * corner ± 1mm
 * I agree with XP-Pens accuracy numbers
 
 ## Diagonal wobble

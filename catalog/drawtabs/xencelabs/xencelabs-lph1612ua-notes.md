@@ -18,19 +18,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Pen Display 16 Lite |
 | Released | 2024-05-08 |
 | Status | — |
-| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 283 PPI |
 | Panel | OLED |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 98%<br>DCI-P3 98%<br>Rec. 709 99% |
 | Color depth | 10 bits per channel |
 | Brightness | 300 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -39,12 +41,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
 | --- | --- |
 | Active area | 344.2 × 193.6 mm (13.6 × 7.6 in) |
+| Diagonal | 394.9 mm (15.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
+| Compatible pens | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -74,7 +87,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Display
+
+* Display size: 13.6 x 7.6" -> diagonal = 15.58"
+* Contrast ratio: 100000:1
+* Parallax: Unknown
+* Color gamut (beyond what the Specs tab lists)
+  * P3-D65 98%
+  * sRGB 99%
+  * REC 2020 82%
+
+### Pens
+
+* For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Links
 
@@ -87,29 +122,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Has a typical size, thickness and weight for a 16 pen display.
 * Note, if you have used a Wacom Movink 13 which also has an OLED display, be aware that the Movink is much thinner than this tablet. To be fair, Xencelabs does not market this tablet as an ultra-portable, lightweight tablet.
-
-## Core drawing tablet specs <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
-
-* Active area diagonal: 15.54" (394.9 mm)
-
-## Display specs <a href="#core-display-specs" id="core-display-specs"></a>
-
-* Aspect Ratio: 16x9
-* Display size: 13.6 x 7.6" -> diagonal = 15.58"
-* Contrast ratio: 100000:1
-* Parallax: Unknown
-
-## Color Gamut
-
-* Adobe RGB 98%
-* P3-D65 98%
-* sRGB 99%
-* REC 709 99%
-* REC 2020 82%
-
-## Pens
-
-For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Anti-glare sparkle
 

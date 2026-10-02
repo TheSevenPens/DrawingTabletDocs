@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Pen Display 24 |
 | Released | 2023-03-21 |
 | Status | — |
-| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 99%<br>DCI-P3 93% |
 | Color depth | 10 bits per channel |
 | Brightness | 330 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
 | --- | --- |
 | Active area | 527 × 296 mm (20.7 × 11.7 in) |
+| Diagonal | 604.4 mm (23.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
+| Compatible pens | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -73,7 +86,26 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Display
+
+* Screen size: 23.8in (60.5cm)
+
+### Pens
+
+* For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
+* Pens in the box: These pens are different than the one that comes with the Xencelabs pen tablet. And the pens are NOT swappable.
+* Pen buttons: This new 3 Button Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
+* Pen eraser: Both pens have an eraser. But I don't use erasers so I have no comment on them.
 
 ## **Links**
 
@@ -84,10 +116,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) 2023-03-28
 * [**r/drawingtablet - Xencelabs Pen Display 24 Review**](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/) 2023-07-12
 * [**r/drawingtablet - Xencelabs Pen Display 24 review**](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share&utm_medium=web2x&context=3) 2023-10-09
-
-## **Display > basics**
-
-* Screen size: 23.8in (60.5cm)
 
 ## **Edge & Corner accuracy**
 
@@ -158,10 +186,6 @@ With a plastic nib
 With a felt nib
 
 * Felt comparable to the Huion Kamvas Pro 19
-
-## **Pens**
-
-For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Pressure range
 
@@ -246,20 +270,6 @@ It's unclear if they are aware of the more general wobble I encountered.
 ## **Driver UX**
 
 Rating: EXCELLENT The best user experience and design of any tablet in the industry.
-
-## **Pen**
-
-### Pens in the box
-
-That these pens are different than the one that comes with the Xencelabs pen tablet. And the pens are NOT swappable.
-
-### Pen buttons
-
-This new 3 Button Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
-
-### Pen eraser
-
-Both pens have an eraser. But I don't user erasers so I have no comment on them.
 
 ## **Hover distance**
 

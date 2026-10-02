@@ -14,13 +14,9 @@ An easy recommendation if you need what it offers.
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-movink](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
 * User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html)
 
-### Active Area
-
-* Diagonal: 13.3in (337mm)
-
 ### Weight
 
-It weights 420g. This an exceptionally low weight.
+This is an exceptionally low weight.
 
 420g is less than these pen displays
 
@@ -36,7 +32,7 @@ It weighs less than any of the these Intuos Pro pen tablets:
 
 ### Thickness
 
-* Is very thin at 6.6mm.
+* Is very thin.
 * It is thinner than the Wacom One pen displays which are 14.6mm
 * It is even thinner than some pen tablets.
   * the Intuos Pro tablets (PTH-x60) are between 8mm and 8.45mm thick.
@@ -49,33 +45,6 @@ It weighs less than any of the these Intuos Pro pen tablets:
 * [Brad Colbow - Review of Wacom Movink 13](https://www.youtube.com/watch?v=Y3ASJNcFinI) 2024-05-16
 * [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024-04-24
 
-## Included pen
-
-Comes with a special version of the Wacom Pro Pen 3. More here [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
-
-This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in terms of pressure response, IAF, max pressure.
-
-But there are a few differences.
-
-First, the standard Wacom Pro Pen 3 comes with a metal rod you can use to change the weight and weight distribution of the pen. This variant does not have that rod.
-
-Instead inside the pen, there is storage for 3 nibs.
-
-<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-Also this variant pen does not come with any grips or any button strips.
-
-## Compatible pens
-
-* Pens listed as compatible by Wacom
-  * Wacom Pro Pen 3 - I tested this. It works.
-  * Wacom Pro Pen 2 - I tested this. It works.
-* Pens not specifically listed as compatible by Wacom
-  * Wacom One GEN1 pen (CP-913) - I tested. It works.
-  * Wacom One GEN2 pen (CP-923) - I tested. It works.
-  * Samsung S pen (that comes with Galaxy Tab series) - I tested. It works.
-  * Samsung S pen (that comes with Samsung S24 Ultra phone) - I tested. It works.
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movink_2024). Click a model ID to see its full record there.
@@ -87,19 +56,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Movink 13 |
 | Released | 2024-04-24 |
 | Status | Available |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 166 PPI |
 | Panel | OLED |
 | Lamination | — |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 95%<br>DCI-P3 100% |
 | Color depth | 10 bits per channel |
 | Brightness | 350 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 0.2 ms |
 {% endtab %}
@@ -108,12 +79,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
 | --- | --- |
 | Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Diagonal | 337.1 mm (13.3 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -143,7 +125,47 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | No |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Display
+
+* Surface: Wacom also says it has Anti-fingerprint coating
+* Contrast ratio: 100000:1
+
+### Pens
+
+Comes with a special version of the Wacom Pro Pen 3. More here [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
+
+This variant of the Wacom Pro Pen 3 is exactly the same as the normal pro pen in terms of pressure response, IAF, max pressure.
+
+But there are a few differences.
+
+First, the standard Wacom Pro Pen 3 comes with a metal rod you can use to change the weight and weight distribution of the pen. This variant does not have that rod.
+
+Instead inside the pen, there is storage for 3 nibs.
+
+<figure><img src="../../../../.gitbook/assets/wacom-dth135-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Also this variant pen does not come with any grips or any button strips.
+
+Compatible pens:
+
+* Pens listed as compatible by Wacom
+  * Wacom Pro Pen 3 - I tested this. It works.
+  * Wacom Pro Pen 2 - I tested this. It works.
+* Pens not specifically listed as compatible by Wacom
+  * Wacom One GEN1 pen (CP-913) - I tested. It works.
+  * Wacom One GEN2 pen (CP-923) - I tested. It works.
+  * Samsung S pen (that comes with Galaxy Tab series) - I tested. It works.
+  * Samsung S pen (that comes with Samsung S24 Ultra phone) - I tested. It works.
 
 ## Accessories
 
@@ -152,13 +174,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Wacom Converter for HDMI
 
 ## Display
-
-### Other display specs
-
-* Aspect Ratio: 16x9
-* Display size : 13.3"
-* Surface: Wacom also says it has Anti-fingerprint coating
-* Contrast ratio: 100000:1
 
 ### Display color modes
 
@@ -303,7 +318,7 @@ The same pulsing is evident with the Wacom One GEN1 pen (CP-913)
 
 ## Connectivity and Cabling
 
-* 2 USB-C ports
+* USB-C ports
   * One on left side
   * One on right side
   * Either port can be used to connect to the computer

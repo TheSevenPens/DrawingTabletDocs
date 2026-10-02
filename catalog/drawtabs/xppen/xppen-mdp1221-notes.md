@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Magic Drawing Pad 2025 |
 | Released | 2025-08-14 |
 | Status | Available |
-| Included pen | [X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
 | --- | --- |
 | Resolution | 2160 × 1440 |
+| Aspect ratio | 3:2 |
+| Pixel density | 213 PPI |
 | Panel | IPS |
 | Lamination | — |
 | Anti-glare | AG film |
-| sRGB | 97% |
+| Color gamut | sRGB 97% |
 | Color depth | 8 bits per channel |
 | Brightness | 360 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
 | --- | --- |
 | Active area | 258 × 172 mm (10.2 × 6.8 in) |
+| Diagonal | 310.1 mm (12.2 in) |
+| Aspect ratio | 3:2 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | ±1.5 mm |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Included pen | [X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
+| Compatible pens | [X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,6 +84,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | Yes (5.1) |
 | Wi-Fi | 802.11a/b/g/n/ac |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 
 {% tab title="Computer" %}

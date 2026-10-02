@@ -20,19 +20,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist 13 GEN2 |
 | Released | 2022-04-29 |
 | Status | — |
-| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 166 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | AG film |
-| sRGB | 130% |
+| Color gamut | sRGB 130%<br>NTSC 92% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | — |
 {% endtab %}
@@ -41,12 +43,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
 | --- | --- |
 | Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Diagonal | 337.1 mm (13.3 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | ±1 mm |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
+| Compatible pens | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -76,17 +89,31 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
-## Pen
+## Notes on specs
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+### Device
+
+* The ports are on the side
+* Note that the ports are deeply recessed into wells.
+
+### Pens
+
+* Included pen: OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+
+## Pen
 
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
 * Accuracy in edges and corners is good.
 * XP-pen lists accuracy as:
-  * center ±0.5mm
   * corner ± 2mm
 * I agree with XP-Pens accuracy numbers
 
@@ -127,12 +154,6 @@ TYPICAL for a pen display - very slightly more than typical. But not by much.
 ## Parallax
 
 VERY GOOD. The tip of the pointer aligns very closely with the tip of the pen.
-
-## Ports
-
-2 USB-C ports on the side
-
-Note that the ports are deeply recessed into wells.
 
 ## Cables and connections
 

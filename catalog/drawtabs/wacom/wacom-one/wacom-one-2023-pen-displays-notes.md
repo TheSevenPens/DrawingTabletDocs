@@ -22,19 +22,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One 12 2023 | Wacom One 13 touch 2023 |
 | Released | 2023-08-10 | 2023-08-10 |
 | Status | Available | Available |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
 | --- | --- | --- |
 | Resolution | 1920 × 1080 | 1920 × 1080 |
+| Aspect ratio | 16:9 | 16:9 |
+| Pixel density | 190 PPI | 166 PPI |
 | Panel | IPS | IPS |
 | Lamination | — | — |
 | Anti-glare | AG film | AG film |
-| sRGB | 99% | 99% |
+| Color gamut | sRGB 99% | sRGB 99% |
 | Color depth | 8 bits per channel | 8 bits per channel |
 | Brightness | 275 cd/m² | 320 cd/m² |
+| Viewing angle | — | — |
 | Refresh rate | 60 Hz | 60 Hz |
 | Response time | 18 ms | — |
 {% endtab %}
@@ -43,12 +45,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
 | --- | --- | --- |
 | Active area | 257 × 145 mm (10.1 × 5.7 in) | 294 × 165 mm (11.6 × 6.5 in) |
+| Diagonal | 295.1 mm (11.6 in) | 337.1 mm (13.3 in) |
+| Aspect ratio | ≈16:9 (1.772:1) | 16:9 |
 | Pen technology | Passive EMR | Passive EMR |
 | Pressure levels | 4096 | 4096 |
 | Tilt | ±60° | ±60° |
+| Accuracy (center) | — | — |
+| Accuracy (corner) | — | — |
 | Report rate | — | — |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+| Compatible pens | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -78,7 +91,27 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None | None |
 | Bluetooth | — | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Contents | — | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Display
+
+* The new display panels have a wider color gamut. They are clearly better than the old Wacom One (DTC-133) tablet.
+
+### Pens
+
+* Included pen: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Besides the CP-923, these tablets are compatible with the older CP-913, which you might prefer. They are also compatible with some other third-party pens.
+  * Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
+  * r/wacom - [Summary of pens, including double-button pens, available for Wacom One pen displays](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/) 2020-12-26
+  * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
 
 ## Links
 
@@ -92,22 +125,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Aaron Rutten review of Wacom One Small & Medium](https://www.youtube.com/watch?v=w7QLQFOK_eU) 2023-09-15
 * [Brad Colbow review of Wacom One 12](https://www.youtube.com/watch?v=SBlliNcRKNw) 2023-08-18
 * [Tom's Guide review of Wacom One 13 touch](https://www.tomsguide.com/reviews/wacom-one-13-touch) 2023-08-10
-
-## Included pen
-
-Comes with the Wacom One Standard Pen (CP-923). [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
-
-## Compatible pens
-
-Besides the CP-923, these tablets are compatible with the older CP-913, which you might prefer. They are also compatible with some other third-party pens.
-
-* Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
-* r/wacom - [Summary of pens, including double-button pens, available for Wacom One pen displays](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/) 2020-12-26
-* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
-
-## Display specs
-
-* The new display panels have a wider color gamut. They are clearly better than the old Wacom One (DTC-133) tablet.
 
 ## Drawing experience
 

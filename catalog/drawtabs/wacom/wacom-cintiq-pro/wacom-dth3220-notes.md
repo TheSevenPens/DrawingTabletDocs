@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq Pro 32 |
 | Released | 2018-02-27 |
 | Status | Discontinued |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 140 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 98% |
 | Color depth | 10 bits per channel |
 | Brightness | 310 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 8 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
 | --- | --- |
 | Active area | 697 × 392 mm (27.4 × 15.4 in) |
+| Diagonal | 799.7 mm (31.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+| Compatible pens | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,7 +84,20 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+* As of 2026, the included pen is still likely the best drawing pen that has ever existed, with a very low initial activation force, a very high maximum pressure, and good ergonomics.
+* See: [Wacom Pro Pen 2 KP-504E notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
 
 ## Links
 
@@ -95,12 +121,6 @@ CONS
 
 * It was released in 2018 and we do expect Wacom to drop driver support sometime in the next few years. When the driver support stops, you're going to have to deal with that somehow. You could use an older driver, or you could use open tablet driver. At some point, an older driver will eventually not work on a more modern version of Windows or Mac OS. We just don't know when that might occur.&#x20;
 * It is large - It may be too large for you. I recommend creating a cardboard mockup that includes its bezel and drawing a rectangle where the screen is. This way, you can simulate what it would feel like for you.&#x20;
-
-## Included Pen
-
-The tablet comes with the Wacom Pro Pen, model number KP504E. As of 2026, this pen is still likely the best drawing pen that has ever existed, with a very low initial activation force, a very high maximum pressure, and good ergonomics.
-
-See: [Wacom Pro Pen 2 KP-504E notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
 
 ## Ergonomics
 

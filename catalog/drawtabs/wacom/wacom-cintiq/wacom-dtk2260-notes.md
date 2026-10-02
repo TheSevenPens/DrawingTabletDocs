@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq 22 |
 | Released | 2019-07-16 |
 | Status | Discontinued |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 102 PPI |
 | Panel | IPS |
 | Lamination | No |
 | Anti-glare | AG film |
-| sRGB | 96% |
+| Color gamut | sRGB 96%<br>NTSC 72% |
 | Color depth | 8 bits per channel |
 | Brightness | 210 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 22 ms |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
 | --- | --- |
 | Active area | 476 × 268 mm (18.7 × 10.6 in) |
+| Diagonal | 546.3 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -73,6 +86,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | No |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
 ## Links
@@ -95,7 +114,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Display
 
-**Lamination** - This is not a laminated display. Yes this introduces a very slight increase in parallax but not much. And it did not affect my drawing.
+**Lamination** - The lack of lamination introduces a very slight increase in parallax but not much. And it did not affect my drawing.
 
 **Brightness** - Like many pen displays, this is not a super bright display - which is fine because most people tend to keep their eyes closer to the screen than a normal monitor and if the display was brighter, it might be overwhelming.
 
@@ -134,8 +153,6 @@ pixels are clearly visible and well delineated
 I think this did have a little more backlight bleed than other pen displays. I am not particularly sensitive to backlight bleed, and it did not affect me at all.
 
 ## **VESA mounting**
-
-YES. This tablet supports VESA mounting (100mmx100mm)
 
 I did not test with any VESA arm or stand.
 

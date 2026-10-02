@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas 22 Plus |
 | Released | 2020-06-11 |
 | Status | — |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 102 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 140% |
+| Color gamut | sRGB 140% |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 14 ms |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
 | --- | --- |
 | Active area | 477 × 268 mm (18.8 × 10.6 in) |
+| Diagonal | 547.1 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±2 mm |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -73,7 +86,24 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Display specs
+
+* Size: 22" diagonal
+
+### Pens
+
+* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
+* PW550 - [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
 ## Basics
 
@@ -84,23 +114,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * [Brad Colbow review of Huion Kamvas 22 Plus](https://youtu.be/GJxGzJgfYGA) 2020-09-08
 * [Nemanja Sekulic review of Huion Kamvas 22 Plus](https://youtu.be/mlYTRD2KmeY) 2022-03-04
-
-### Display specs
-
-* Size: 22" diagonal
-* Aspect ratio: 16x9
-
-## Pen
-
-### Included pen
-
-* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
-
-### Compatible pens
-
-* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
-* PW550 - [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
-* PW550S
 
 ## Display experience
 
@@ -126,7 +139,7 @@ Color accuracy: did not measure.
 
 ### Color gamut
 
-This is a wide color gamut display with a range of 140% sRGB.
+This is a wide color gamut display.
 
 Compared to many other displays, you may find that greens and reds are more intense than you might expect. Some people will love this - for example when watching a movie - but I found it some colors distractingly intense.
 

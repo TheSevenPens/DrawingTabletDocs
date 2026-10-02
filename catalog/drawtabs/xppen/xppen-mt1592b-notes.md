@@ -15,19 +15,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Deco Pro XLW GEN2 |
 | Released | 2023-08-14 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
 | --- | --- |
 | Active area | 381 × 229 mm (15 × 9 in) |
+| Diagonal | 444.5 mm (17.5 in) |
+| Aspect ratio | 1.664:1 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -54,7 +64,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+The X3 Pro pen's shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md) .
+
+* X3 Elite: NOT compatible with this tablet
 
 ## Links
 
@@ -76,15 +100,6 @@ Is great across the board. The thing looks and feels great. In this dimension, s
 **Indicator lights on surface**
 
 Four indicator lights are just past the corners of the active area. They will light up if the pen is within 10 mm of the active area. The lights are white. You can turn them off in the driver.
-
-## **Pen**
-
-It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md) .
-
-**Pen compatibility**
-
-* X3 Pro pen: Compatible with this tablet
-* X3 Elite: NOT compatible with this tablet
 
 ## **Surface**
 

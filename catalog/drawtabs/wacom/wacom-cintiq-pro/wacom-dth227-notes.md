@@ -19,19 +19,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq Pro 22 |
 | Released | 2023-10-19 |
 | Status | Available |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 205 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 95%<br>DCI-P3 99%<br>Rec. 709 100% |
 | Color depth | 10 bits per channel |
 | Brightness | 300 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 120 Hz |
 | Response time | 12 ms |
 {% endtab %}
@@ -40,12 +42,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
 | --- | --- |
 | Active area | 476 × 268 mm (18.7 × 10.6 in) |
+| Diagonal | 546.3 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -75,22 +88,18 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
-## Basics
+## Notes on specs
 
-* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH227.html](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
+### Display
 
-## Compatible pens
-
-The list of compatible pens is here: [https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22](https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22)
-
-I mostly use the Wacom Pro Pen 2 with this tablet.
-
-## Display specs
-
-* Aspect ratio: 16x9
 * Size: 26.9 in (68.3 cm)
 * Brightness
   * I run it at 50% brightness.
@@ -114,6 +123,16 @@ I mostly use the Wacom Pro Pen 2 with this tablet.
 * Custom
 
 I left it running in **Native** mode.
+
+### Pens
+
+* The list of compatible pens is here: [https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22](https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22)
+* I mostly use the Wacom Pro Pen 2 with this tablet.
+
+## Basics
+
+* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH227.html](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
 
 ## Display experience
 

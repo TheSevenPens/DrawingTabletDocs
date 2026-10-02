@@ -29,11 +29,6 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 
 * product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)
 
-## Active area
-
-* Diagonal length: 13.27"
-* Aspect ratio: 16:9
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
@@ -45,19 +40,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas 13 GEN3 |
 | Released | 2024-09-01 |
 | Status | — |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 166 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 90%<br>Rec. 709 99% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 165° horizontal<br>165° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 25 ms |
 {% endtab %}
@@ -66,12 +63,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
 | --- | --- |
 | Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Diagonal | 337.1 mm (13.3 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±2 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -101,29 +109,25 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
 
-## Other specs
+## Notes on specs
 
 ### Display specs
 
-* Aspect ratio: 16:9
-* Viewing angle: 165°
 * Contrast ratio: 1000:1
 
-## Included pen
+### Pens
 
-It comes with the PW600L pen. It has an excellent pressure range. The PW600L does not have an eraser like the other PW600 pen models.
+The included PW600L pen has an excellent pressure range. The PW600L does not have an eraser like the other PW600 pen models.
 
-More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
-
-## Compatible pens
-
-The PenTech 4.0 pens work with it. I tested these three:
-
-* PW600L
-* PW600
-* PW600S
+The PenTech 4.0 pens work with it. I tested all three of the listed compatible pens.
 
 More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
@@ -145,11 +149,6 @@ In summary:
 * Pointer lag - MODERATE (typical for a pen display)
 
 ### Pen tracking accuracy
-
-Huion states:
-
-* Center: ±0.3mm
-* Corner: ±2mm
 
 RATING: VERY GOOD
 

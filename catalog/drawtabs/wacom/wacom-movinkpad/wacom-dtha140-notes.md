@@ -63,19 +63,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom MovinkPad Pro 14 |
 | Released | 2025-10-01 |
 | Status | Available |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
 | --- | --- |
 | Resolution | 2880 × 1800 |
+| Aspect ratio | 16:10 |
+| Pixel density | 242 PPI |
 | Panel | OLED |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 100% |
+| Color gamut | sRGB 100%<br>DCI-P3 100% |
 | Color depth | 10 bits per channel |
 | Brightness | 400 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 120 Hz |
 | Response time | 1 ms |
 {% endtab %}
@@ -84,12 +86,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
 | --- | --- |
 | Active area | 302 × 189 mm (11.9 × 7.4 in) |
+| Diagonal | 356.3 mm (14 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -121,6 +134,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Wi-Fi | 802.11a/b/g/n/ac/ax |
 {% endtab %}
 
+{% tab title="In the box" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Contents | Tablet<br>Pro Pen 3 (no grip)<br>USB-C charging cable<br>3 nibs stored in the pen: Carbon Shaft POM x1, Felt x1, POM x1 |
+{% endtab %}
+
 {% tab title="Computer" %}
 | | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
 | --- | --- |
@@ -131,7 +150,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other specs
+## Notes on specs
 
 ### Device
 
@@ -151,42 +170,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Display
 
-* Diagonal size: 14"
-* Aspect ratio: 16x10
 * Pixel density: 243 ppi
 * Contrast: 100,000:1
 * Surface: Wacom states AR/AG/AF
 * Brightness: 900 nits
-* Viewing Angle: 170 degrees
-* Color gamut: 100% DCI-P3
 
-## What's in the box
+### Pens
 
-* Tablet
-* Pro Pen 3 (no grip)
-* USB-C charging cable
-* 3 nibs (stored in pen)
-  * Carbon Shaft POM x1
-  * Felt nib x1
-  * POM x1
-
-## Pens
-
-### Included Pen
-
-* Pro Pen 3 (no grip)
-* See: [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-
-### Compatible pens
-
-* Pro Pen 3 (ACP-500) [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-* UD EMR pens such as:
+* Included pen: see [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* Compatible UD EMR pens such as:
   * Wacom One (CP-913) [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
   * Wacom One (CP-923) [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
   * Samsung S Pen
   * Keep in mind that these UD EMR pens are nowhere close to the quality of the Wacom professional pens such as the Pro Pen 3. Their chief advantage is that they cost much less - usually around 30 to $40 whereas the Pro Pen 3 costs $130.00. So, these UD EMR pens can serve as a backup in case you lose or break your Pro Pen 3.
 
-### Incompatible Pens
+#### Incompatible Pens
 
 * Pro Pen 2 (KP-504E) [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
   * You will not be able to use any of your existing Pro Pen 2 models with this device.

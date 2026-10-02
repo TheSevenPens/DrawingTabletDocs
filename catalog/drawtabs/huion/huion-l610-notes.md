@@ -21,19 +21,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy Frego M |
 | Released | 2024-08-16 |
 | Status | — |
-| Included pen | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
 | --- | --- |
 | Active area | 254 × 159 mm (10 × 6.3 in) |
+| Diagonal | 299.7 mm (11.8 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Included pen | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
+| Compatible pens | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -60,7 +70,22 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | Yes |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+* Default nib: felt.
+  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
+* More here: [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
+* You can use the Huion PW517 pen with this tablet. But it is not as good as the PW550 and PW550S.
 
 ## Companion video
 
@@ -110,17 +135,6 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 * green LED on upper right indicating USB connection
 * blue LED on upper right indicating Bluetooth operation
-
-## Pens
-
-* Comes with the Huion PW550S pen.
-* Default nib: felt.
-  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
-* More here: [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
-
-## Other compatible pens
-
-* You can use the Huion PW517 pen with this tablet. But it is not as good as the PW550 and PW550S.
 
 ## Pen pressure
 

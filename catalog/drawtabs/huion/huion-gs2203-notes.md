@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas 22 GEN3 |
 | Released | 2026-03-03 |
 | Status | — |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
 | --- | --- |
 | Resolution | 2560 × 1440 |
+| Aspect ratio | 16:9 |
+| Pixel density | 137 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 130% |
+| Color gamut | sRGB 130% |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 90 Hz |
 | Response time | 14 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
 | --- | --- |
 | Active area | 475.4 × 267.4 mm (18.7 × 10.5 in) |
+| Diagonal | 545.4 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±2 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+| Compatible pens | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,7 +84,24 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Contents | — |
+{% endtab %}
 {% endtabs %}
+
+## Notes on specs
+
+### Pens
+
+The included PW600L is part of the PW600 series, and it is a very good pen. See: [PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
+
+The tablet works with the other PW600 series pens:
+
+* PW600
+* PW600S
 
 ## Links
 
@@ -84,18 +114,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ## Device
 
 Like many pen displays, it is a simple "black slab of glass," but it does look and feel very professional.
-
-## Included pen
-
-The tablet comes with the PW600L pen. As part of the PW600 series, it is a very good pen. See: [PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
-
-## Compatible pens
-
-The tablet works with the other PW600 series pens:
-
-* PW600
-* PW600S
-* PW600L
 
 ## Display experience
 

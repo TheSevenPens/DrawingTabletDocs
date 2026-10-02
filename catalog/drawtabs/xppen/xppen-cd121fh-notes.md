@@ -24,19 +24,6 @@ Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share
   * Actually the name on the box is "XP-Pen Artist 12 3rd" but to be consistent with how I discuss other tablets I am using "GEN3" in the name.
 * User manual: [https://www.xp-pen.com/user-manual/artist-12-3rd.html](https://www.xp-pen.com/user-manual/artist-12-3rd.html)
 
-### What's in the box
-
-* Drawing Display x 1
-* X4 Smart Chip Stylus x 1
-* Pen Nibs x 10
-* Nib Replacement Tool x 1
-* Full-featured USB-C to USB-C Cable x 1
-* 3-in-1 USB-C Cable x 1
-* Warranty and Driver Download Card x 1
-* Glove x 1
-* Cleaning Cloth x 1
-* Foldable Stand x 1
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). Click a model ID to see its full record there.
@@ -48,19 +35,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist 12 3rd |
 | Released | 2025-10-17 |
 | Status | Available |
-| Included pen | [X4 Smart Chip Stylus (PD52)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd52) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 97%<br>Display P3 97% |
 | Color depth | 8 bits per channel |
 | Brightness | 260 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -69,12 +58,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
 | --- | --- |
 | Active area | 264 × 149 mm (10.4 × 5.9 in) |
+| Diagonal | 303.1 mm (11.9 in) |
+| Aspect ratio | ≈16:9 (1.772:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.2 mm |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Included pen | [X4 Smart Chip Stylus (PD52)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd52) |
+| Compatible pens | [X4 Smart Chip Stylus (PD52)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd52) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -104,41 +104,28 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
+
+{% tab title="In the box" %}
+| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
+| --- | --- |
+| Contents | Drawing Display x 1<br>X4 Smart Chip Stylus x 1<br>Pen Nibs x 10<br>Nib Replacement Tool x 1<br>Full-featured USB-C to USB-C Cable x 1<br>3-in-1 USB-C Cable x 1<br>Warranty and Driver Download Card x 1<br>Glove x 1<br>Cleaning Cloth x 1<br>Foldable Stand x 1 |
+{% endtab %}
 {% endtabs %}
 
-## Other specs
-
-### Digitizer specs
-
-* Digonal: 11.9 in
-* Accuracy:
-  * Center ±0.2 mm
-  * Corner: UNKNOWN
+## Notes on specs
 
 ### Display specs
 
-* Aspect ratio: 16x9
-* Surface: etched glass
-  * XP-Pen says "AG + AF"
-* Viewing angle: 170°
-* Color gamut:
-  * 97% Adobe RGB
-  * 97% Display P3
+* Surface: XP-Pen calls it "AG + AF"
 
 ### Device specs
 
 * Both USB-C ports are recessed
 
-## Pen
+### Pens
 
-### Included pen
-
-X4 Smart Chip Stylus [XP-Pen X4 pen notes](../../pens/xppen-pens/xppen-x4pen-notes.md)
-
-### Compatible pens
-
-* X4 Smart Chip Stylus
-* P-Pen does not list other pens as compatible - however these pens work
+* Included pen: see [XP-Pen X4 pen notes](../../pens/xppen-pens/xppen-x4pen-notes.md)
+* XP-Pen does not list other pens as compatible - however these pens work
   * X3 Pro
   * X3 Pro Slim
   * X3 roller works (but roller cannot be configured)

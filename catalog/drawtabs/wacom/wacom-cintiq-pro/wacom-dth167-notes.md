@@ -19,19 +19,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq Pro 16 2021 |
 | Released | 2021-10-20 |
 | Status | Discontinued |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 284 PPI |
 | Panel | IPS |
 | Lamination | — |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 95% |
 | Color depth | 8 bits per channel |
 | Brightness | 300 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 30 ms |
 {% endtab %}
@@ -40,12 +42,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
 | --- | --- |
 | Active area | 344 × 194 mm (13.5 × 7.6 in) |
+| Diagonal | 394.9 mm (15.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -74,6 +87,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | HDMI<br>USB-C (DisplayPort Alt Mode)<br>DC power |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 
@@ -143,7 +162,7 @@ Fans keep it cool. At the default brightness, the tablet is cool to the touch. A
 
 ## Stand
 
-It does not come with a stand. I use a VESA-compatible Huion stand to hold this tablet at an angle.
+I use a VESA-compatible Huion stand to hold this tablet at an angle.
 
 ## Diagonal Wobble
 
