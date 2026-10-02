@@ -110,6 +110,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Power input | 5 V, 3 A via USB-C PD<br>9 V, 2.77 A via AC adapter | 5 V, 3 A via USB-C PD<br>9 V, 2.77 A via AC adapter |
+| Consumption | 14 W max | 15 W max |
+| Standby | 1.5 W | 1.5 W |
+| Power adapter | — | — |
+| Power output | — | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
 | --- | --- | --- |

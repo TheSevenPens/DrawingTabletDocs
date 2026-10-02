@@ -101,6 +101,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
+| --- | --- |
+| Power input | 12 V, 3 A |
+| Consumption | 32 W |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
 | --- | --- |

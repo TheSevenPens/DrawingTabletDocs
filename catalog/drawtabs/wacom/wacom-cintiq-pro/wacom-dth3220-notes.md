@@ -98,6 +98,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
+| --- | --- |
+| Power input | — |
+| Consumption | — |
+| Standby | — |
+| Power adapter | 180 W |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
 | --- | --- |

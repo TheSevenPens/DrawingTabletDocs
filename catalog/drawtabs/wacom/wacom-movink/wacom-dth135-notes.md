@@ -137,6 +137,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | No |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
+| --- | --- |
+| Power input | 5 V, 3 A via USB-C PD<br>9 V, 2.77 A via AC adapter |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
 | --- | --- |

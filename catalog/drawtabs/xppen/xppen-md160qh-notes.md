@@ -105,6 +105,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Power input | 5 V, 3 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
 | --- | --- |

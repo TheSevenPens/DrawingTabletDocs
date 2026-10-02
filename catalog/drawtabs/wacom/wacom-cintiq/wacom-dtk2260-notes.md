@@ -100,6 +100,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | No |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
+| --- | --- |
+| Power input | — |
+| Consumption | 48 W max |
+| Standby | 0.5 W |
+| Power adapter | 60 W |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
 | --- | --- |

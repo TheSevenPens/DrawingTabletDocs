@@ -105,6 +105,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
+| --- | --- |
+| Power input | 5 V, 2 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
 | --- | --- |

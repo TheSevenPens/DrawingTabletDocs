@@ -108,9 +108,20 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
+| --- | --- |
+| Power input | 5 V, 2.3 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
 | Contents | — |
 {% endtab %}
 {% endtabs %}
+

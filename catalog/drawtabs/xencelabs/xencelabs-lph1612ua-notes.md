@@ -105,6 +105,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Power input | 5 V, 3 A (15 W) |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
 | --- | --- |

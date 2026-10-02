@@ -103,6 +103,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
+| --- | --- |
+| Power input | 12 V, 2.5 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
 | --- | --- |

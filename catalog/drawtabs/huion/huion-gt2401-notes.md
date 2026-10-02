@@ -102,6 +102,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
+| --- | --- |
+| Power input | 19 V, 3 A |
+| Consumption | 35 W |
+| Standby | 0.4 W |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
 | --- | --- |

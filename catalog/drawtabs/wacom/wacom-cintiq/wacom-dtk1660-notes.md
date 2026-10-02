@@ -100,6 +100,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTK-1660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk1660) |
+| --- | --- |
+| Power input | 12 V, 3 A |
+| Consumption | 27 W max |
+| Standby | 0.5 W |
+| Power adapter | 36 W |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTK-1660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk1660) |
 | --- | --- |

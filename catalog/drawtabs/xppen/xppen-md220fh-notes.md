@@ -99,6 +99,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
+| --- | --- |
+| Power input | 12 V, 3 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
 | --- | --- |

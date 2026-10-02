@@ -108,6 +108,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
+| --- | --- |
+| Power input | 19 V, 8.4 A |
+| Consumption | 85 W max |
+| Standby | 1.5 W |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
 | --- | --- |

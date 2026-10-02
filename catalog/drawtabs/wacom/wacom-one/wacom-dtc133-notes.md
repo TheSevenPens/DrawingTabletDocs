@@ -103,6 +103,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
+| --- | --- |
+| Power input | 5 V, 2 A |
+| Consumption | 10 W max |
+| Standby | 0.5 W |
+| Power adapter | 10 W |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
 | --- | --- |

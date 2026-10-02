@@ -103,6 +103,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
+| --- | --- |
+| Power input | 12 V, 5 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTH-167](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |
 | --- | --- |
