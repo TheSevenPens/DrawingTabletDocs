@@ -104,10 +104,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Notes on specs
 
-### Digitizer
-
-* Aspect ratio of the Small (CTL-472): 1.78:1 (16:9)
-
 ### Pens
 
 * Included pen: a standard 2-button pen. And actually quite a good one. More here: [Wacom 2K Pen (LP-190K)](../../../pens/wacom-pens/wacom-lp190k-notes.md)

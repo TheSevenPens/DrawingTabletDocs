@@ -96,10 +96,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Notes on specs
 
-### Display specs
-
-* Size: 22" diagonal
-
 ### Pens
 
 * PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
@@ -107,7 +103,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Basics
 
-* Active area: 22" diagonal
 * **Price** - It normally costs about $450 but I see it discounted often to $400
 
 ### Links
