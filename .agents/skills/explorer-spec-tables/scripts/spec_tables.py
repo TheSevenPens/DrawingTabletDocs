@@ -56,8 +56,22 @@ def yes_no(v):
     return {'YES': 'Yes', 'NO': 'No'}.get(v, v or DASH)
 
 
-def pens(t):
-    ids = g(t, 'Model.IncludedPen') or []
+def pen_eid(p):
+    return p['Meta']['EntityId'] if 'Meta' in p else p['EntityId']
+
+
+# pen-compat files are grouped by pen: {Brand, PenId, TabletIds}. TabletIds are Model.Id values within that brand.
+PEN_BY_ID = {(p.get('Brand'), p.get('PenId')): p for p in PENS.values()}
+COMPAT = {}
+for _f in glob.glob(os.path.join(DATA, 'pen-compat', '*.json')):
+    with open(_f, encoding='utf-8') as _fh:
+        for _row in json.load(_fh)['PenCompat']:
+            _pen = PEN_BY_ID.get((_row['Brand'], _row['PenId']))
+            for _tid in _row['TabletIds']:
+                COMPAT.setdefault((_row['Brand'], _tid), []).append(pen_eid(_pen) if _pen else _row['PenId'])
+
+
+def pen_links(ids):
     if not ids:
         return DASH
     out = []
@@ -68,6 +82,14 @@ def pens(t):
     return '<br>'.join(out)
 
 
+def pens(t):
+    return pen_links(g(t, 'Model.IncludedPen') or [])
+
+
+def compatible_pens(t):
+    return pen_links(COMPAT.get((t['Model'].get('Brand'), t['Model'].get('Id')), []))
+
+
 def tilt(t):
     v = g(t, 'Digitizer.Tilt')
     return DASH if v is None else ('None' if str(v) == '0' else f'±{v}°')
@@ -76,6 +98,61 @@ def tilt(t):
 def density(t):
     v = g(t, 'Digitizer.Density')
     return DASH if v is None else f'{num(v)} LPmm ({round(float(v) * 25.4)} LPI)'
+
+
+def diagonal(t):
+    """Active area diagonal, computed the same way as the Explorer's DigitizerDiagonal field."""
+    w, h = g(t, 'Digitizer.Dimensions.Width'), g(t, 'Digitizer.Dimensions.Height')
+    if w is None or h is None:
+        return DASH
+    d = (float(w) ** 2 + float(h) ** 2) ** 0.5
+    return f'{num(d)} mm ({num(d / 25.4)} in)'
+
+
+# Same ratios and thresholds as DrawTabData's lib/aspect-ratio.ts, so the page agrees with the Explorer.
+POPULAR_RATIOS = [('16:9', 16 / 9), ('16:10', 16 / 10), ('3:2', 3 / 2), ('4:3', 4 / 3), ('5:4', 5 / 4), ('1:1', 1)]
+
+
+def aspect_ratio(w, h):
+    """'16:9' when exact, '≈16:9 (1.772:1)' when close, else '1.432:1'."""
+    if w is None or h is None or float(w) <= 0 or float(h) <= 0:
+        return DASH
+    ratio = max(float(w), float(h)) / min(float(w), float(h))
+    name, target = min(POPULAR_RATIOS, key=lambda r: abs(ratio - r[1]))
+    diff = abs(ratio - target)
+    if diff <= 0.005:
+        return name
+    if diff <= 0.05:
+        return f'≈{name} ({ratio:.3f}:1)'
+    return f'{ratio:.3f}:1'
+
+
+def ppi(t):
+    """Pixel density, computed like the Explorer's DisplayDensity (px/mm), shown as PPI."""
+    px, mm = g(t, 'Display.PixelDimensions.Width'), g(t, 'Digitizer.Dimensions.Width')
+    if px is None or mm is None or float(mm) <= 0:
+        return DASH
+    return f'{round(float(px) / float(mm) * 25.4)} PPI'
+
+
+GAMUTS = [('SRGB', 'sRGB'), ('ADOBERGB', 'Adobe RGB'), ('DCIP3', 'DCI-P3'), ('DISPLAYP3', 'Display P3'), ('NTSC', 'NTSC'), ('REC709', 'Rec. 709')]
+
+
+def gamuts(t):
+    have = g(t, 'Display.ColorGamuts') or {}
+    out = [f'{label} {num(have[k])}%' for k, label in GAMUTS if have.get(k) not in (None, '')]
+    return '<br>'.join(out) if out else DASH
+
+
+def viewing_angle(t):
+    h, v = g(t, 'Display.ViewingAngleHorizontal'), g(t, 'Display.ViewingAngleVertical')
+    if h is None and v is None:
+        return DASH
+    return f"{f'{num(h)}°' if h is not None else DASH} horizontal<br>{f'{num(v)}°' if v is not None else DASH} vertical"
+
+
+def accuracy(path):
+    return lambda t: DASH if g(t, path) is None else f'±{num(g(t, path), 2)} mm'
 
 
 def unit(path, suffix):
@@ -92,9 +169,13 @@ ANTIGLARE = {'AGFILM': 'AG film', 'ETCHEDGLASS': 'Etched glass', 'FILM': 'Film'}
 
 DIGITIZER = [
     ('Active area', lambda t: mm_in(g(t, 'Digitizer.Dimensions.Width'), g(t, 'Digitizer.Dimensions.Height'))),
+    ('Diagonal', diagonal),
+    ('Aspect ratio', lambda t: aspect_ratio(g(t, 'Digitizer.Dimensions.Width'), g(t, 'Digitizer.Dimensions.Height'))),
     ('Pen technology', plain('Digitizer.Type', lambda v: PEN_TECH.get(v, v))),
     ('Pressure levels', plain('Digitizer.PressureLevels')),
     ('Tilt', tilt),
+    ('Accuracy (center)', accuracy('Digitizer.AccuracyCenter')),
+    ('Accuracy (corner)', accuracy('Digitizer.AccuracyCorner')),
     ('Report rate', unit('Digitizer.ReportRate', 'Hz')),
     ('Density', density),
     ('Max hover', unit('Digitizer.MaxHover', 'mm')),
@@ -108,12 +189,15 @@ OTHER_INPUTS = [
 ]
 DISPLAY = [
     ('Resolution', lambda t: DASH if g(t, 'Display.PixelDimensions.Width') is None else f"{g(t, 'Display.PixelDimensions.Width')} × {g(t, 'Display.PixelDimensions.Height')}"),
+    ('Aspect ratio', lambda t: aspect_ratio(g(t, 'Display.PixelDimensions.Width'), g(t, 'Display.PixelDimensions.Height'))),
+    ('Pixel density', ppi),
     ('Panel', plain('Display.PanelTech')),
     ('Lamination', lambda t: yes_no(g(t, 'Display.Lamination'))),
     ('Anti-glare', plain('Display.AntiGlare', lambda v: ANTIGLARE.get(v, v))),
-    ('sRGB', lambda t: DASH if g(t, 'Display.ColorGamuts.SRGB') is None else f"{num(g(t, 'Display.ColorGamuts.SRGB'))}%"),
+    ('Color gamut', gamuts),
     ('Color depth', unit('Display.ColorBitDepth', 'bits per channel')),
     ('Brightness', unit('Display.Brightness', 'cd/m²')),
+    ('Viewing angle', viewing_angle),
     ('Refresh rate', unit('Display.RefreshRate', 'Hz')),
     ('Response time', unit('Display.ResponseTime', 'ms')),
 ]
@@ -147,7 +231,10 @@ MODEL = [
     ('Name', plain('Model.Name')),
     ('Released', lambda t: g(t, 'Model.ReleaseDate') or g(t, 'Model.ReleaseYear') or DASH),
     ('Status', plain('Model.Status', lambda v: STATUS.get(v, v.title()))),
+]
+PEN = [
     ('Included pen', pens),
+    ('Compatible pens', compatible_pens),
 ]
 
 PORT_LABELS = {
@@ -193,6 +280,14 @@ CONNECTIVITY = [
 CONNECTIVITY_STANDALONE = CONNECTIVITY + [('Wi-Fi', lambda t: conn(t, 'Wifi') or DASH)]
 
 
+def in_box(t):
+    items = g(t, 'Model.IncludedInBox')
+    return '<br>'.join(str(i).replace('|', r'\|') for i in items) if items else DASH
+
+
+IN_THE_BOX = [('Contents', in_box)]
+
+
 def table(tablets, rows):
     head = '| | ' + ' | '.join(f"[{t['Model']['Id']}]({EXPLORER}{t['Meta']['EntityId']})" for t in tablets) + ' |'
     sep = '| --- | ' + ' | '.join('---' for _ in tablets) + ' |'
@@ -207,9 +302,10 @@ def section(entity_ids, family_id=None):
     tabs = [('Model', MODEL)]
     if types & {'PENDISPLAY', 'STANDALONE'}:
         tabs.append(('Display', DISPLAY))
-    tabs += [('Digitizer', DIGITIZER), ('Other inputs', OTHER_INPUTS),
+    tabs += [('Digitizer', DIGITIZER), ('Pen', PEN), ('Other inputs', OTHER_INPUTS),
              ('Physical', PHYSICAL_DISPLAY if types & {'PENDISPLAY', 'STANDALONE'} else PHYSICAL),
-             ('Connectivity', CONNECTIVITY_STANDALONE if standalone else CONNECTIVITY)]
+             ('Connectivity', CONNECTIVITY_STANDALONE if standalone else CONNECTIVITY),
+             ('In the box', IN_THE_BOX)]
     if standalone:
         tabs.append(('Computer', STANDALONE))
     family_id = family_id or tablets[0]['Model'].get('Family')
