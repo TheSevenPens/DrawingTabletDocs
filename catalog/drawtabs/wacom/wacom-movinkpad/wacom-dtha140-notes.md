@@ -170,7 +170,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Display
 
-* Pixel density: 243 ppi
 * Contrast: 100,000:1
 * Surface: Wacom states AR/AG/AF
 * Brightness: 900 nits

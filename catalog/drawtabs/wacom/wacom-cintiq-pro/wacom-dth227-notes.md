@@ -100,7 +100,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Display
 
-* Size: 26.9 in (68.3 cm)
 * Brightness
   * I run it at 50% brightness.
   * The larger Cintiq Pro 27 can get up to 400 nits of brightness.
