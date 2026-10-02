@@ -6,13 +6,27 @@ A fine tablet for drawing! And it makes an excellent choice for beginners. And i
 
 ## Basics
 
-* Product page: [https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html](https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html)
-* User manual: [https://www.xp-pen.com/download/deco-lw.html](https://www.xp-pen.com/download/deco-lw.html)
-
 There are two versions of this tablet. They are exactly the same tablet but differ in connectivity
 
 * XP-Pen Deco LW (IT1060B) is the wireless + wired version. The B stands for Bluetooth.
 * XP-Pen Deco L (IT1060) is the wired-only version.
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_deco_2021). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html)
+* [User manual](https://www.xp-pen.com/user-manual/deco-lw.html) (IT1060B)
+* [User manual](https://www.xp-pen.com/user-manual/deco-l.html) (IT1060)
+* [Product information](https://www.xp-pen.com/download/deco-lw.html) (IT1060B)
+
+### Reviews
+
+* [Review: XP-Pen Deco LW pen tablet (Bluetooth)](https://www.youtube.com/watch?v=ohKeCxLL2a0) - Teoh on Tech, 2022-02-19 (IT1060B)
+* [Testing the XP-Pen Deco LW Drawing Tablet](https://www.youtube.com/watch?v=0VaH-UTRL7A) - Brad Colbow, 2022-02-16 (IT1060B)
+* [Review: XP-Pen Deco LW pen tablet (Bluetooth)](https://www.parkablogs.com/content/review-xp-pen-deco-lw-pen-tablet-bluetooth) - Parka Blogs
 
 ## Specs
 

@@ -10,6 +10,22 @@ Its only limitation is that it is not 4K and is instead 2.5K (2560x1440), which 
 
 While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq)
+* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-24-touch-dth246k0a.html)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH246.html)
+
+### Reviews
+
+* [Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) - Brad Colbow, 2025-07-28
+* [2025 Wacom Cintiq 24 Touch (Review)](https://www.youtube.com/watch?v=Oo4m5EgCSWE) - Aaron Rutten, 2025-07-01
+* [New Wacom Cintiq 24 Touch (2025) unboxing and testing](https://www.youtube.com/watch?v=Lm-5X-gFtuw) - Seven Pens, 2025-06-25
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
@@ -108,23 +124,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
   * Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
 * Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here: [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md).
 
-## Links
-
-* [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025-07-28
-* [Aaron Rutten - review of Cintiq 24 touch](https://www.youtube.com/watch?v=Oo4m5EgCSWE) 2025-07-01
-
 ## Videos
 
 I livestreamed the unboxing, testing, and drawing on this tablet:
 
-* [Unboxing and testing](https://youtube.com/live/Lm-5X-gFtuw?feature=share) 2025-06-24
 * [Drawing](https://youtube.com/live/1q3xNSkTW54?feature=share) 2025-06-25
 
 Sometime in 2026 I will make a full "review" video soon.
-
-## Basics
-
-* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq](https://www.wacom.com/en-us/products/wacom-cintiq)
 
 ## Non-pen input
 

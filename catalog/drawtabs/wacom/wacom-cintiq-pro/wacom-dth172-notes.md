@@ -10,6 +10,21 @@ As is typical for a Wacom Cintiq Pro, it should have an excellent drawing experi
 
 However, for many of you, especially if you don't need 4K or advanced color support, the Wacom Cintiq 16 2025 (DTK-168) is a much better overall choice since it has the same great drawing experience but costs much less. See the [Wacom Cintiq 16 2025 (DTK-168) notes](../wacom-cintiq/wacom-dtk168-notes.md).
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH172.html)
+* [Product information](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
+
+### Reviews
+
+* [Wacom Cintiq Pro 17 -VS- Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) - Brad Colbow, 2024-03-04
+* [Wacom Cintiq Pro 17 Review](https://www.youtube.com/watch?v=JBn727A9pAc) - Brad Colbow
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
@@ -98,8 +113,3 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Contents | — |
 {% endtab %}
 {% endtabs %}
-
-## Links
-
-* Product Page: [https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html](https://estore.wacom.com/en-us/wacom-cintiq-pro-17-dth172k0a.html)
-* [Brad Colbow review of Cintiq Pro 17](https://www.youtube.com/watch?v=JBn727A9pAc) Nov 6, 2023

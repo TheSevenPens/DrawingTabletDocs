@@ -6,6 +6,22 @@ This overall is a very good tablet. It design and demonstrates a lot of thoughtf
 
 The one place this tablet struggles compared to other pen displays is with line wobble that show up in strokes at all angles. This wobble can be addressed with some additional position smoothing settings in a painting application.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xencelabs.com/us/products/pen-display)
+* [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24)
+
+### Reviews
+
+* [Xencelabs Pen Display 24 Review](https://www.youtube.com/watch?v=o6R07naf2es) - MobileTechReview, 2024-03-19
+* [Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0_XSUtLE) - Grant Abbitt, 2023-09-14
+* [Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) - Brad Colbow, 2023-06-04
+* [Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) - Teoh on Tech, 2023-03-28
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). Click a model ID to see its full record there.
@@ -108,13 +124,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Pen buttons: This new 3 Button Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
 * Pen eraser: Both pens have an eraser. But I don't use erasers so I have no comment on them.
 
-## **Links**
+## Other links
 
-* Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)
-* [MobileTechReview review of Xencelabs Pen Display 24](https://www.youtube.com/watch?v=o6R07naf2es) 2024-03-19
-* [Brad Colbow - Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) 2023-06-04
-* [Grant Abbitt - Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0_XSUtLE) 2023-09-14
-* [Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) 2023-03-28
 * [**r/drawingtablet - Xencelabs Pen Display 24 Review**](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/) 2023-07-12
 * [**r/drawingtablet - Xencelabs Pen Display 24 review**](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share&utm_medium=web2x&context=3) 2023-10-09
 

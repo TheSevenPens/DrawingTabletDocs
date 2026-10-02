@@ -6,6 +6,24 @@ I tested this tablet for about a week and have periodically drawn with it since 
 
 I think it is a decent choice, but as of 2025 I hope Huion ships an upgrade that uses PenTech 4.0 with the PW600 pen which should give a very good drawing experience.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroy2). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/inspiroy-2-l)
+* [Store page](https://store.huion.com/products/inspiroy-2-l)
+* [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html)
+
+### Reviews
+
+* [Huion Inspiroy 2 Series Pen Tablet Review: Is it Worth it?](https://youtu.be/L6mgOluUApE) - Create Now Sleep Later, 2023-04-24
+* [¡HUION INSPIROY 2 L y M Las tabletas gráficas BARATAS más PREMIUM!! SE HAN SUPERADO](https://www.youtube.com/watch?v=55bgWDoC-Ks) - Gartzia Artz, 2023-02-24
+* [Review: Huion Inspiroy 2 pen tablet - Works great. Good price.](https://youtu.be/mgDDBJf96U8) - Teoh on Tech, 2023-02-15
+* [Huion Inspiroy 2 L Review, a great elegant tablet (with a comparison to Huion Inspiroy 2 Dial)](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) - SweetMonia, 2023-02-14
+* [Review: Huion Inspiroy 2 pen tablet](https://www.parkablogs.com/content/review-huion-inspiroy-2-pen-tablet) - Parka Blogs, 2023-02-11
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroy2). Click a model ID to see its full record there.
@@ -81,13 +99,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 The tablet is compatible with several pens in the PenTech 3.x series, not just the one it came with. I tested the PW517 and PW550.
 
 As with all PenTech 3.x devices, I recommend purchasing the PW550 pen to use with this tablet because it provides a superior drawing experience.
-
-## **Links**
-
-* Product site: [https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html)
-* [Teoh on tech review of Huion Inspiroy 2 L](https://youtu.be/mgDDBJf96U8) Feb 15, 2023
-* [Create Now Sleep Later review of Huion Inspiroy 2 L](https://youtu.be/L6mgOluUApE) Apr 24, 2023
-* [SweetMonia review Huion Inspiroy 2 L](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) 2023-02-14
 
 ## **Photos**
 

@@ -9,10 +9,23 @@
   * Unlike some other models in the Artist Pro GEN2 series, the unit I tested had very good tilt compensation and very low diagonal wobble
 * This is a nice step up in terms of size over the Artist Pro 16 GEN2 and the Artist Pro 19 GEN2 in terms without getting too large. In general 22" is my favorite size for pen tablets.
 
-## Basics
+## Links
 
-* Product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)
-* User manual [https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html)
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-pro-22-gen2.html)
+* [User manual](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html)
+
+### Reviews
+
+* [Testing the XP-Pen Artist Pro 22 GEN2 (MD220QH)](https://www.youtube.com/watch?v=k35ScPPUA60) - Seven Pens, 2025-11-09
+* [XPPen Artist Pro 22 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-22-gen-2-pen-display) - Parka Blogs, 2025-04-20
+* [XPPen Artist Pro 22 Gen 2 (pen display review): Good pen, colours, experience](https://www.youtube.com/watch?v=PMscqe2rO1M) - Teoh on Tech, 2025-04-20
+* [XP Pen Artist Pro 22 Gen 2 LA CINTIQ 22 KILLER DEFINITIVA (Si otra más)](https://www.youtube.com/watch?v=e5Bjjmfs0jw) - Gartzia Artz, 2025-02-14
+* [Unboxing XP-Pen Artist Pro 22 GEN2](https://www.youtube.com/watch?v=7Mk3aSPjQsM) - Seven Pens, 2025-02-04
 
 ## Specs
 
@@ -115,11 +128,6 @@ It is compatible with other pens in the X3 pro series. I tested with all of the 
 * X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 * X3 Pro
-
-## Links
-
-* product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)
-* [Teoh on Tech - review of XP-Pen Artist Pro 22](https://www.youtube.com/watch?v=PMscqe2rO1M) GEN2 2025-04-20
 
 ## Photos
 

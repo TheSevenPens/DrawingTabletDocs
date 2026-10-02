@@ -20,13 +20,22 @@ This tablet makes sense for the following scenarios:
 
 ## Links
 
-* [Brad Colbow - Review of the Wacom One 14](https://www.youtube.com/watch?v=GKxx9Vwz79U) 2024-11-10
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). To add or fix a link, change it in DrawTabData.
 
-## Basics
+### From the manufacturer
 
-### Product information
+* [Product page](https://www.wacom.com/en-us/products/wacom-one)
+* [Store page](https://estore.wacom.com/en-us/wacom-one-14-dtc141w0.html)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTC141.html)
+* [Product information](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 
-* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
+### Reviews
+
+* [Wacom One 14 Review (with Comparisons to 13 Touch & MovinkPad)](https://www.youtube.com/watch?v=XDZzzs6e7zU) - Aaron Rutten, 2026-02-05
+* [Wacom One 14 Review](https://www.youtube.com/watch?v=GKxx9Vwz79U) - Brad Colbow, 2025-11-10
+* [Notes on Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=eDu-6BBp8JI) - Seven Pens, 2025-10-15
+* [DRAFT Review of Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=v8kZk0eldHI) - Seven Pens, 2025-10-10
+* [Unboxing and Testing: Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=mz7-ufAIXcw) - Seven Pens, 2025-09-29
 
 ## Specs
 

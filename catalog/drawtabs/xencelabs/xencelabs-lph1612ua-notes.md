@@ -7,6 +7,25 @@ Overall good performance.
 * The pens don't have the super low IAF that you see in Wacom professional pens but most will be fine with the 3gf IAF they do offer.
 * Some moderate AG sparkle is visible - if you are sensitive to that then this tablert may not be the right choice
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xencelabs.com/us/products/pen-display-16-lite)
+* [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-16)
+* [Product information](https://www.xencelabs.com/us/products/pen-display-16)
+
+### Reviews
+
+* [Review Xencelabs 16 Lite VS Artist 16 Ultra ¿La Mejor Tableta Gráfica OLED?](https://www.youtube.com/watch?v=CbW03mQvygA) - Gartzia Artz, 2025-11-28
+* [Xencelabs Pen Display 16 (review): One of the Best](https://www.youtube.com/watch?v=0bNPRIWaFDM) - Teoh on Tech, 2024-12-04
+* [Xencelabs PD16 - Review & Comparison](https://www.youtube.com/watch?v=zGkTjf5HoB4) - Grant Abbitt, 2024-08-07
+* [Xencelabs Pen Display16 Review](https://www.youtube.com/watch?v=RbIF0JKsN0k) - Brad Colbow, 2024-07-15
+* [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece) - AppleInsider, 2024-05-28
+* [Review: Xencelabs Pen Display 16 (OLED)](https://www.parkablogs.com/content/xencelabs-pen-display-16-oled-review) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). Click a model ID to see its full record there.
@@ -112,11 +131,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
-## Links
+## Other links
 
-* Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)
-* [Grant Abbitt - Review of Xencelabs Pen DIsplay 16](https://www.youtube.com/watch?v=zGkTjf5HoB4) 2024-08-07
-* [AppleInsider review of Xencelabs Pen Display 16](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece) 2024-05-28
 * [The Honest Laborers Review - Xencelabs 16-inch 4K Pen Display Hands-On and Test](https://www.youtube.com/watch?v=FCuVrJMncKI) - 2024-05-23
 
 ## Form factor

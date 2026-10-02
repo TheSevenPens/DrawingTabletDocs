@@ -46,6 +46,18 @@ Rows are fixed, so every page looks the same:
 
 Sizes (including the active area diagonal, computed from its width and height) show mm with inches in parentheses. Accuracy shows ± mm. Aspect ratio shows the common ratio when it is exact (16:9), "≈16:9 (1.772:1)" when it is within 0.05 of one, and the plain ratio otherwise, using the same ratios and thresholds as DrawTabData. Pixel density is display pixels across the active area width, in PPI. Color gamut lists every gamut DrawTabData has, one per line. Density shows LPmm with LPI in parentheses.
 
+## Links section
+
+Each notes page also has a generated `## Links` section, right before `## Specs`. It comes from the tablets' `Model.Links` in DrawTabData. Don't hand-write product pages, store pages, manuals or reviews in the notes: add them to DrawTabData, then rerun:
+
+```bash
+python .agents/skills/explorer-spec-tables/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] --write
+```
+
+It lists, from the manufacturer, the product page, store page and user manual. Then it lists reviews, newest first, with the reviewer and date. On a page with several models, a link that applies to only some of them names those model IDs. DEAD links (per the link check) and links back to the page itself are left out. `--write` replaces the existing `## Links` section or inserts one before `## Specs`.
+
+Reviews come from trusted reviewers: Brad Colbow, Teoh on Tech, Parka Blogs, Aaron Rutten, Seven Pens, Gartzia Artz (Spanish), EyekooDrawsStuff and David Revoy. Other reviews the author chose for a page also count. A Seven Pens video that discusses one model in depth counts as a review. Tutorials, setup videos, reddit threads and general-topic videos are not data; they stay in the notes under `## Other links`.
+
 ## Also on each notes page
 
 Link each model ID in the page's Models table to its Explorer page: `https://thesevenpens.github.io/DrawTabDataExplorer/entity/<EntityId>`.

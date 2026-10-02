@@ -14,22 +14,29 @@ This companion video covers many but not all of the topics described in these no
 
 ## Links
 
-* [EyeKooDraws - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=Hf01mwaGtdI) 2025-09-13
-* [Trent Kaniuga - Review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=znKvWJON_k8) 2024-12-16
-* [David Revoy - Huion Kamvas Pro 19](https://www.youtube.com/watch?v=M9VbiVJX-J4) 2024-11-21
-* [Create Now Sleep Later - Review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=5AWpKgv8jdY) 2024-09-15
-* [Teoh on Tech - Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) 2024-06-21
-* [claybrush review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) 2024-01-09
-* [Brad Colbow - Wacom Cintiq Pro 17 vs Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) 2024-03-04
-* [Brad Colbow review of the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=WxdFXfuPvN4) 2024-02-14
-* [Yanick Paquette review of Huion Kamvas Pro 19](https://www.youtube.com/watch?v=t-Qo1jTVibY) 2024-02-21
-* [TheSevenPens Notes on the Huion Kamvas Pro 19](https://www.youtube.com/watch?v=CnTBrhUhciM) 2024-03-05
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-## Basics
+### From the manufacturer
 
-### Product information
+* [Product page](https://www.huion.com/products/kamvas-pro-19)
+* [Store page](https://store.huion.com/products/kamvas-pro-19)
+* [Product information](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)
 
-* Product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)
+### Reviews
+
+* [Huion goes for gold - Kamvas Pro 19 Drawing Tablet Review](https://www.youtube.com/watch?v=Hf01mwaGtdI) - EyekooDrawsStuff, 2025-09-13
+* [The HUION KAMVAS PRO 19 is...  VERY IMPRESSIVE!](https://www.youtube.com/watch?v=znKvWJON_k8) - Trent Kaniuga, 2024-12-16
+* [Huion Kamvas Pro 19 - review](https://www.youtube.com/watch?v=M9VbiVJX-J4) - David Revoy, 2024-11-21
+* [¡LA HUION KAMVAS PRO 19 ES INCREIBLE!](https://www.youtube.com/watch?v=5zoTQu0S0us) - Gartzia Artz, 2024-11-21
+* [Huion Kamvas Pro 19 vs XPPen Artist Pro 19 (gen 2) pen displays](https://www.youtube.com/watch?v=LfGWH_p7MB4) - Teoh on Tech, 2024-10-30
+* [Huion Kamvas Pro 19 Review: Can It beat the Wacom Cintiq? 🎨🖊️](https://www.youtube.com/watch?v=5AWpKgv8jdY) - Create Now Sleep Later, 2024-09-15
+* [Huion Kamvas Pro 19 review: 4K touchscreen pen display](https://www.youtube.com/watch?v=oSdZYmkOGKE) - Teoh on Tech, 2024-06-21
+* [Notes on Huion Kamvas Pro 19 (GT1902)](https://www.youtube.com/watch?v=CnTBrhUhciM) - Seven Pens, 2024-03-05
+* [Wacom Cintiq Pro 17 -VS- Huion Kamvas Pro 19](https://www.youtube.com/watch?v=6kh07G_L_qU) - Brad Colbow, 2024-03-04
+* [Yanick's Huion Kamvas Pro 19 Review.](https://www.youtube.com/watch?v=t-Qo1jTVibY) - Yanick Paquette, 2024-02-21
+* [Huion Kamvas Pro 19 Review](https://www.youtube.com/watch?v=WxdFXfuPvN4) - Brad Colbow, 2024-02-14
+* [4K Display Pen Tablet for Digital Art | @HuionTablet  Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) - claybrush, 2024-01-09
+* [Review: Huion Kamvas Pro 19 pen display (2024) with touch support](https://www.parkablogs.com/content/review-huion-kamvas-pro-19-pen-display-2024-touch-support) - Parka Blogs
 
 ## Specs
 

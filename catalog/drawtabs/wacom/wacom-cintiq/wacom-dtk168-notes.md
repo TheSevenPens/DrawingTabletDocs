@@ -19,9 +19,20 @@ Summary: The Cintiq 16 2025 is a significant upgrade in many ways
 
 [Wacom Cintiq 16 2019 (DTK-1660) notes](wacom-dtk1660-notes.md)
 
-## Basics
+## Links
 
-* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq](https://www.wacom.com/en-us/products/wacom-cintiq)
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq)
+* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-16-dtk168k0a.html)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK168.html)
+
+### Reviews
+
+* [Wacom Cintiq 16 (2025) Unboxing and Testing](https://www.youtube.com/watch?v=en2RYaJoms4) - Seven Pens, 2025-07-05
+* [2025 Wacom Cintiq 16 Review](https://www.youtube.com/watch?v=QQsKS17j0BQ) - Brad Colbow, 2025-07-02
 
 ## Specs
 

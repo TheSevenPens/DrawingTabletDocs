@@ -4,6 +4,12 @@
 
 TBD
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_sd_1988). To add or fix a link, change it in DrawTabData.
+
+DrawTabData has no links for this tablet yet.
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_sd_1988). Click a model ID to see its full record there.

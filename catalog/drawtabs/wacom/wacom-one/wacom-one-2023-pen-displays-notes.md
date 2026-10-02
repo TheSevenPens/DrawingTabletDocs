@@ -6,10 +6,30 @@ This is an OK pen display that provides a consumer-level drawing experience in t
 
 ## Basics
 
-* Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 * Models
   * Wacom One 12 (2023) [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121)
   * Wacom One 13 (2023) [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134)
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
+* [User manual](https://101.wacom.com/userhelp/en/toc/dtc121.html) (DTC-121)
+* [User manual](https://101.wacom.com/userhelp/en/toc/dth134.html) (DTH-134)
+* [Product information](https://www.wacom.com/en-us/comp)
+
+### Reviews
+
+* [Wacom One 13 Touch – a digital painter's review](https://drawyourweapon.com/tablet-review-wacom-one-13-touch/) - EyekooDrawsStuff, 2024-01-19 (DTH-134)
+* [Muy Buena PEEERO... La tableta gráfica TÁCTIL más BARATA | Review Wacom One 13 Touch](https://www.youtube.com/watch?v=8GdVv-XHxto) - Gartzia Artz, 2023-10-14 (DTH-134)
+* [Wacom One 13 Touch Review](https://www.youtube.com/watch?v=VXtQvhrV6WY) - Brad Colbow, 2023-09-25 (DTH-134)
+* [Wacom One 13 Touch - 1st Gen. VS 2nd Gen. (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) - Aaron Rutten, 2023-09-19 (DTH-134)
+* [Wacom One 12 & 13 Touch (2023) - Review](https://www.youtube.com/watch?v=X_FrZGl0lYM) - Aaron Rutten, 2023-09-18
+* [Wacom One 12" Pen Display Review](https://www.youtube.com/watch?v=SBlliNcRKNw) - Brad Colbow, 2023-08-18 (DTC-121)
+* [Wacom One 13 touch review](https://www.tomsguide.com/reviews/wacom-one-13-touch) - Tom's Guide, 2023-08-10 (DTH-134)
 
 ## Specs
 
@@ -110,22 +130,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Included pen: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
 * Besides the CP-923, these tablets are compatible with the older CP-913, which you might prefer. They are also compatible with some other third-party pens.
-  * Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
   * r/wacom - [Summary of pens, including double-button pens, available for Wacom One pen displays](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/) 2020-12-26
   * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
 
-## Links
+## Other links
 
-* Wacom One 13 touch user manual - [https://101.wacom.com/userhelp/en/toc/dth134.html](https://101.wacom.com/userhelp/en/toc/dth134.html)
-* Wacom One 12 user manual - [https://101.wacom.com/userhelp/en/toc/dtc121.html](https://101.wacom.com/userhelp/en/toc/dtc121.html)
-* [Draw your weapon - Wacom One 13 Touch – a digital painter’s review](https://drawyourweapon.com/tablet-review-wacom-one-13-touch/) 2024-01-19
 * [Android Police review of Wacom One](https://www.androidpolice.com/wacom-one-m-review/) 2024-04-26
-* [Brad Colbow review of Wacom One 13](https://www.youtube.com/watch?v=VXtQvhrV6WY) 2023-09-25
-* [Aaron Rutten: Wacom One 13 GEN1 VS GEN2 (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) 2023-09-19
-* [Aaron Rutten review of Wacom One 12 & Wacom One 13 Touch (2023)](https://www.youtube.com/watch?v=X_FrZGl0lYM) 2023-09-18
 * [Aaron Rutten review of Wacom One Small & Medium](https://www.youtube.com/watch?v=w7QLQFOK_eU) 2023-09-15
-* [Brad Colbow review of Wacom One 12](https://www.youtube.com/watch?v=SBlliNcRKNw) 2023-08-18
-* [Tom's Guide review of Wacom One 13 touch](https://www.tomsguide.com/reviews/wacom-one-13-touch) 2023-08-10
 
 ## Drawing experience
 

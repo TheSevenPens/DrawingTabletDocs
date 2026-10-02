@@ -43,14 +43,31 @@ I hope the next generation of this tablet incorporates these features:
 
 ### Links
 
-* Product page: [https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)
-* [Brad Colbow - Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) - 2026/05/08
 * [Adam Duff - Wacom MovinkPad Pro 14 - Secret Settings / Accessories / Setup Guide](https://www.youtube.com/watch?v=xAZpMpdyWes) 2026-03-05
-* [Gartzia Arts - Review of MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) 2025-12-16
-* [Brad Colbow - Review MovinkPad Pro 14](https://www.youtube.com/watch?v=lpBGmiO4f7I) 2025-10-17
-* [Teoh on Tech - Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) - 2025-12-08
-* [Teoh on Tech - Wacom MovinkPad Pro 14 review](https://www.youtube.com/watch?v=CRxC_tyyUCk) - 2025-11-22
 * [Seven Pens - Budget Android Drawing Tablet Recommendations for 2025](https://www.youtube.com/watch?v=NK2_dIGQKk8) - 2025-09-25. Although this video is about budget Android tablets, much of what it says is relevant for the MovinkPad Pro 14/<br>
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)
+* [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-pro-14-dtha140l0z.html)
+
+### Reviews
+
+* [Wacom MovinkPad Pro 14 vs iPad Pro 13: Which I prefer months later](https://www.youtube.com/watch?v=7eGfzl42bCM) - Teoh on Tech, 2026-06-06
+* [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) - Brad Colbow, 2026-05-08
+* [M4 iPad Air vs MovinkPad Pro 14: Which is better for artists?](https://www.youtube.com/watch?v=6thKViZAo2g) - Teoh on Tech, 2026-03-18
+* [MovinkPad Pro 14 months later and accessories to get](https://www.youtube.com/watch?v=oxxeD6y5CWA) - Teoh on Tech, 2026-03-05
+* [La MEJOR Tablet de DIBUJO! Review a fondo Wacom MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) - Gartzia Artz, 2025-12-18
+* [Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) - Teoh on Tech, 2025-12-08
+* [Wacom MovinkPad Pro 14 (review): BEST portable drawing tablet of 2025](https://www.youtube.com/watch?v=CRxC_tyyUCk) - Teoh on Tech, 2025-11-22
+* [Review: Wacom MovinkPad Pro 14](https://www.parkablogs.com/content/wacom-movinkpad-pro-14-review) - Parka Blogs, 2025-11-19
+* [Wacom MovinkPad Pro 14: The Best Mobile Art Tablet Ever!](https://www.youtube.com/watch?v=CI6j3x_ab0c) - Aaron Rutten, 2025-11-08
+* [Wacom MovinkPad Pro 14 (DTH-A140): Unboxing and testing](https://www.youtube.com/watch?v=f7MRMWMKGeg) - Seven Pens, 2025-10-25
+* [Wacom Movink Pad Pro 14 Review](https://www.youtube.com/watch?v=lpBGmiO4f7I) - Brad Colbow, 2025-10-17
 
 ## Specs
 

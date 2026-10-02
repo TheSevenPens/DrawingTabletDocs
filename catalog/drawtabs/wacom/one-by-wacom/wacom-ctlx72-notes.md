@@ -22,17 +22,25 @@ There is NOT a modern Wacom tablet that is a direct successor to this tablet. Of
 * One by Wacom Medium
   * Model number: CTL-672
   * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
-  * User manual: [https://101.wacom.com/UserHelp/en/TOC/CTL-672.htm](https://101.wacom.com/UserHelp/en/TOC/CTL-672.html)
 * One by Wacom Small
   * Model number: CTL-472
   * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
-  * User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)
 
 ## **Photos**
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-1.jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-2.jpg" alt=""><figcaption><p>CTL-672 back</p></figcaption></figure>
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_onebywacom_2019). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) (CTL-472)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) (CTL-672)
 
 ## Specs
 

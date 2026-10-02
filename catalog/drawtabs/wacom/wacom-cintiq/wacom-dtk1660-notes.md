@@ -4,6 +4,23 @@
 
 This is a little bit of a dated tablet. I do suggest you consider getting the Cintiq 16 2025 (DTK-168) instead. [Wacom Cintiq 16 2025 (DTK-168) notes](wacom-dtk168-notes.md) have a comparison between the two tablets.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-1660.html)
+* [Product information](https://cdn.wacom.com/u/support/wiki_migration/c/cd/dtk-1660_en.pdf)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)
+
+### Reviews
+
+* [Wacom Cintiq 16 Review + SKETCH!](https://youtu.be/6_tMU5z6s9s) - Ross Draws, 2019-02-22
+* [Wacom Cintiq 16 Review (A $650 Wacom Drawing Tablet!)](https://www.youtube.com/watch?v=ye8R0LAbkiE) - Brad Colbow, 2019-01-08
+* [Wacom Cintiq 16 Review - the Much More Affordable Cintiq](https://youtu.be/v4qDRupCLHY) - MobileTechReview, 2019-01-08
+* [Wacom CINTIQ 16 - Drawing Tablet Review](https://youtu.be/nXrFULq096A) - Aaron Rutten, 2019-01-07
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
@@ -92,15 +109,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Contents | — |
 {% endtab %}
 {% endtabs %}
-
-## Basics
-
-* User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)
-* User manual: [https://cdn.wacom.com/u/support/wiki\_migration/c/cd/dtk-1660\_en.pdf](https://cdn.wacom.com/u/support/wiki_migration/c/cd/dtk-1660_en.pdf)
-* [Brad Colbow review of Wacom Cintiq 16](https://www.youtube.com/watch?v=ye8R0LAbkiE) 2019-01-08
-* [Ross Draws review of Wacom Cintiq 16](https://youtu.be/6_tMU5z6s9s) 2019-02-22
-* [MobileTechReview review of Wacom Cintiq 16](https://youtu.be/v4qDRupCLHY) 2019-01-08
-* [Aaron Rutten review of Wacom Cintiq 16](https://youtu.be/nXrFULq096A) 2019-01-07
 
 ## Cables and connections
 

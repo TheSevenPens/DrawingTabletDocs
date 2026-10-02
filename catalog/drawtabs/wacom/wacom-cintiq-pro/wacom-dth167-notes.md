@@ -8,6 +8,24 @@ Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16
 
 User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-16#Specifications)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH167.html)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
+
+### Reviews
+
+* [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) - Gartzia Artz, 2023-04-30
+* [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=0B8cNzyO4bs) - Brad Colbow
+* [Wacom Cintiq Pro 16 Gen 2 (2021) Review](https://www.youtube.com/watch?v=IU-QOOB2AsU) - MobileTechReview
+* [The Wacom Cintiq Pro 16 Unboxing and Review](https://www.youtube.com/watch?v=oROcuvimy18) - Aaron Blaise
+* [Wacom CINTIQ PRO 16 Review (2021 Version)](https://www.youtube.com/watch?v=v9pWwWE_vRM) - Aaron Rutten
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
@@ -97,15 +115,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Links
+## Other links
 
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
 * Be aware there is an older model from 2016 also (DTH-1620)
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
-* [Brad Colbow review of Cintiq Pro 16](https://www.youtube.com/watch?v=0B8cNzyO4bs) Mar 7, 2022
-* [Aaron Rutten review of Cintiq Pro 16](https://www.youtube.com/watch?v=v9pWwWE_vRM) Oct 26, 2021
-* [MobileTechReview review of Cintiq Pro 16](https://www.youtube.com/watch?v=IU-QOOB2AsU) Jan 11, 2022
-* [Aaron Blaise review of Cintiq Pro 16](https://www.youtube.com/watch?v=oROcuvimy18) Dec 21, 2021
 
 ## Noise
 

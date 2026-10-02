@@ -10,9 +10,17 @@ This brand is very new so this is a very good start for them. As always with new
 
 I unboxed and tested this tablet live on stream: [https://youtube.com/live/YSzg\_U\_3Rn0?feature=share](https://youtube.com/live/YSzg_U_3Rn0?feature=share)&#x20;
 
-## Basics
+## Links
 
-* Product page: [https://www.turingdraw.com/page156](https://www.turingdraw.com/page156)
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.digidraw.com/en/product/T610T410)
+
+### Reviews
+
+* [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) - Seven Pens
 
 ## Specs
 
@@ -194,6 +202,4 @@ In all cases:
 
 * Only a vertical column on the tablet, about a third of the tablet, is usable.
 * Strokes were severely distorted on Android.
-
-
 

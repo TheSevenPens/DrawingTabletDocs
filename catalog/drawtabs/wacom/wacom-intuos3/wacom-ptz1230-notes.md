@@ -4,6 +4,14 @@
 
 Released in 2004, the PTZ-1230 is the last of Wacom's pen tablets with a square aspect ratio.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos3_2004). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos3/User%27s%20Manual.pdf)
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos3_2004). Click a model ID to see its full record there.
@@ -89,47 +97,17 @@ Because this Pen display has a 1:1 aspect ratio, it will work better if your mon
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-5.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-6.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-7.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-8.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/wacom-ptz1230-notes-9.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

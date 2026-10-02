@@ -6,6 +6,21 @@ As of July 2024, although released in 2019, the Wacom Cintiq 22 continues to del
 
 I bought mine used from eBay for $380 and was very satisfied.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
+
+### Reviews
+
+* [Wacom Cintiq 22 Review + Painting Test!](https://www.youtube.com/watch?v=02kg7Oxxd20) - Ross Draws, 2019-08-23
+* [Wacom Cintiq 22 Review](https://www.youtube.com/watch?v=03XtX5Gg76g) - MobileTechReview, 2019-07-19
+* [Wacom Cintiq 22 Review (2019)](https://www.youtube.com/watch?v=662QvZMik4U) - Brad Colbow, 2019-07-18
+* [Wacom CINTIQ 22 - Drawing Tablet Review](https://youtu.be/xBPNyYX6zi8) - Aaron Rutten, 2019-07-17
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
@@ -94,14 +109,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Contents | — |
 {% endtab %}
 {% endtabs %}
-
-## Links
-
-* User manual: [http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
-* [Aaron Rutten review of Wacom Cintiq 22](https://youtu.be/xBPNyYX6zi8) 2019-07-17
-* [Brad Colbow review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=662QvZMik4U) 2019-07-18
-* [Ross Draws review of Wacom Cintiq 22 (DTK-2260)](https://www.youtube.com/watch?v=02kg7Oxxd20) 2019-08-23
-* [MobileTechReview review of Wacom Cintiq 22](https://www.youtube.com/watch?v=03XtX5Gg76g) 2019-07-19
 
 ## Setup
 

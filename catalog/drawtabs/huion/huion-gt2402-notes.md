@@ -4,6 +4,25 @@
 
 <mark style="color:red;">**These notes are in progress**</mark>
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/kamvas-pro-24-gen-3)
+* [Store page](https://store.huion.com/products/kamvas-pro-24-gen-3)
+* [User manual](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
+
+### Reviews
+
+* [Huion Kamvas Pro 24 Gen 3 Review  Is This Drawing Tablet Screen TOO Big?](https://www.youtube.com/watch?v=XgOq3xCci20) - Trent Kaniuga, 2026-07-02
+* [Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) - Teoh on Tech, 2026-02-01
+* [Unboxing & Testing: Huion Kamvas Pro 24 GEN3](https://www.youtube.com/watch?v=nqrwEZj3SgA) - Seven Pens, 2025-12-13
+* [Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) - Brad Colbow, 2025-10-24
+* [Enorme 4K y Táctil! Huion Kamvas 24 Pro Gen 3](https://www.youtube.com/watch?v=pGm87_lK7gM) - Gartzia Artz, 2025-10-22
+* [Huion Kamvas Pro 24 (gen 3)](https://www.parkablogs.com/content/huion-kamvas-pro-24-gen-3-2025-review) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
@@ -105,13 +124,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Incompatible pens
   * You can only use PW600 series pens with the tablet.
   * Older pens like PW517, PW550, etc will not work with this tablet
-
-## Links
-
-* [Trent Kaniuga - Huion Kamvas Pro 24 Gen 3 Review](https://www.youtube.com/watch?v=XgOq3xCci20) 2026-07-02
-* [Brad Colbow - Huion Kamvas 24 Pro (Gen 3) Review](https://www.youtube.com/watch?v=QXNex8UZZi8) 2025-10-24
-* [Teoh on Tech - Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) 2026-02-01&#x20;
-* User manual: [https://driverdl.huion.com/instruction/Kamvas\_Pro\_24Gen3/User\_Manual\_Kamvas\_Pro\_24Gen3\_EN.pdf](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
 
 ## Display experience
 

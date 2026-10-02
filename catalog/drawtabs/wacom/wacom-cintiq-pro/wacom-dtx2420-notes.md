@@ -21,6 +21,22 @@ There are two models of the Cintiq Pro 24 (DTx-2420):
 
 User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) (DTK-2420)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) (DTH-2420)
+
+### Reviews
+
+* [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) - Aaron Rutten, 2018-12-13
+* [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=BjzYm_o9qXw) - Brad Colbow, 2018-11-05
+* [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=YVCFkutFwvE) - MobileTechReview, 2018-10-09
+* [Wacom Cintiq Pro 24" Review](https://www.youtube.com/watch?v=ERza2YeJTLw) - Brian Allen, 2018-05-01
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
@@ -120,18 +136,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Compatible pens other than the Pro Pen 2 (KP-504E): TBD
 
-## Links
+## Other links
 
-* [Brad Colbow review of Cintiq Pro 24](https://www.youtube.com/watch?v=BjzYm_o9qXw) - 2018-11-05
-* [MobileTechReview review of Cintiq Pro 24](https://www.youtube.com/watch?v=YVCFkutFwvE) - 2018-10-09
-* [Brian Allen review of the Cintiq Pro 24](https://www.youtube.com/watch?v=ERza2YeJTLw) - 2018-05-01
 * r/Wacom - [Just got my Cintiq 24 Pro! An in-depth review/first impression/recommendations.](https://www.reddit.com/r/wacom/comments/s2cum8/just_got_my_cintiq_24_pro_an_indepth_reviewfirst/) 2022-01-12
 * [Crowne Prince - Cintiq Pro 24 How to Remove Fans, Fix Noise](https://www.youtube.com/watch?v=89qTdTnTWMw) - 2024-10-24
 
 ## Documentation
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)
 
 ## Size
 
