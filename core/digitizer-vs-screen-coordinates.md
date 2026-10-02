@@ -40,7 +40,7 @@ Screen-coordinate artifacts can look similar to diagonal wobble. However, they h
 
 Strokes using screen coordinates look different from diagonal wobble. Wobble is smoother, more wave-like, and spread across the stroke.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 |            | Use of screen coordinates                           | Diagonal wobble                                           |
 | ---------- | --------------------------------------------------- | --------------------------------------------------------- |

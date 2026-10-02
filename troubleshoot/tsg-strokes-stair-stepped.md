@@ -11,7 +11,7 @@ Your strokes come out looking tightly stair-stepped, as if the pen position were
 
 This effect is called **coordinate quantization**. For a full explanation of what it is and why it happens, see: [Coordinate quantization](../core/digitizer-vs-screen-coordinates.md)
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>brush width varies by pressure</p></figcaption></figure>
 

@@ -39,13 +39,17 @@ Both support 8,192 pressure levels.
 
 WINNER: KP-504E
 
-The KP-504E tends to have a lower IAF than the ACP-500.
+In my measurements their median IAF is essentially equivalent but the ACP-500 has more consistency across units.
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### MAX Physical Pressure
 
 WINNER: KP-504E
 
 Both the ACP-500 and KP-504E have maximum pressures in the excellent range. However, the KP-504E has an even higher maximum pressure on average.
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Number of buttons
 
@@ -60,3 +64,12 @@ WINNER: KP-504E
 
 * The ACP-500 does not have an eraser.
 * The KP-504E has an eraser.
+
+### Nib travel
+
+The nib of the ACP-500 retracts about 0.4mm into the pen body. This is less than the Pro Pen 2 which has a nib that retracts 0.63mm. The reduced distance is claimed to improve the feeling of the pen on the tablet - and I definitely agree with that - though admittedly the difference is subtle.
+
+<figure><img src="../../../.gitbook/assets/vlcsnap-2026-09-24-17h29m59s181.png" alt=""><figcaption><p>Wacom CEO Nobu Ide atg BCON26 talking about the nib travel of the Pro Pen 2 and Pro Pen 3</p></figcaption></figure>
+
+
+
