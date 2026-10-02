@@ -14,7 +14,10 @@ data-repo submodule of a DrawTabDataExplorer clone next to this repo.
 import json, glob, os, re, sys
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', '..'))
-DATA = os.environ.get('DRAWTABDATA_DIR') or os.path.join(REPO_ROOT, '..', 'DrawTabDataExplorer', 'data-repo', 'data')
+DATA = os.environ.get('DRAWTABDATA_DIR') or next(
+    (d for d in (os.path.join(REPO_ROOT, '..', 'DrawTabData', 'data'),
+                 os.path.join(REPO_ROOT, '..', 'DrawTabDataExplorer', 'data-repo', 'data')) if os.path.isdir(d)),
+    os.path.join(REPO_ROOT, '..', 'DrawTabData', 'data'))
 EXPLORER = 'https://thesevenpens.github.io/DrawTabDataExplorer/entity/'
 
 
