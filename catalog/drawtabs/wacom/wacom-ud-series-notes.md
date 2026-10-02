@@ -37,16 +37,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [UD-0608-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608r) | [UD-0608-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608a) | [UD-1212-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212r) | [UD-1212-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212a) | [UD-1218-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218r) | [UD-1218-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218a) | [UD-1825-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1825r) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Active area | 204.8 × 153.6 mm (8.1 × 6 in) | 204.8 × 153.6 mm (8.1 × 6 in) | 304.8 × 304.8 mm (12 × 12 in) | 304.8 × 304.8 mm (12 × 12 in) | 457.2 × 304.8 mm (18 × 12 in) | 457.2 × 304.8 mm (18 × 12 in) | 635 × 462 mm (25 × 18.2 in) |
-| Diagonal | 256 mm (10.1 in) | 256 mm (10.1 in) | 431.1 mm (17 in) | 431.1 mm (17 in) | 549.5 mm (21.6 in) | 549.5 mm (21.6 in) | 785.3 mm (30.9 in) |
-| Aspect ratio | 4:3 | 4:3 | 1:1 | 1:1 | 3:2 | 3:2 | ≈4:3 (1.374:1) |
+| Active area | 204.8 × 153.6 mm (8.1 × 6 in) | 204.8 × 153.6 mm (8.1 × 6 in) | 304.8 × 304.8 mm (12 × 12 in) | 304.8 × 304.8 mm (12 × 12 in) | 457.2 × 304.8 mm (18 × 12 in) | 457.2 × 304.8 mm (18 × 12 in) | 635 × 457.2 mm (25 × 18 in) |
+| Diagonal | 256 mm (10.1 in) | 256 mm (10.1 in) | 431.1 mm (17 in) | 431.1 mm (17 in) | 549.5 mm (21.6 in) | 549.5 mm (21.6 in) | 782.5 mm (30.8 in) |
+| Aspect ratio | 4:3 | 4:3 | 1:1 | 1:1 | 3:2 | 3:2 | 1.389:1 |
 | Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
 | Pressure levels | 256 | 256 | 256 | 256 | 256 | 256 | 256 |
 | Tilt | ±60° | ±60° | — | — | — | — | — |
 | Accuracy (center) | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm |
 | Accuracy (corner) | — | — | — | — | — | — | — |
 | Report rate | 205 Hz | 205 Hz | 205 Hz | 205 Hz | 205 Hz | 205 Hz | 205 Hz |
-| Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 50 LPmm (1270 LPI) |
+| Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | 5 mm | 5 mm | 5 mm | 5 mm | 5 mm | 5 mm | 5 mm |
 {% endtab %}
 
@@ -70,8 +70,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [UD-0608-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608r) | [UD-0608-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608a) | [UD-1212-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212r) | [UD-1212-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212a) | [UD-1218-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218r) | [UD-1218-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218a) | [UD-1825-R](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1825r) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Size | 330 × 243 × 13.9 mm (13 × 9.6 × 0.5 in) | 330 × 243 × 13.9 mm (13 × 9.6 × 0.5 in) | 407 × 417 × 36 mm (16 × 16.4 × 1.4 in) | 407 × 417 × 36 mm (16 × 16.4 × 1.4 in) | 572 × 430 × 56 mm (22.5 × 16.9 × 2.2 in) | 572 × 430 × 56 mm (22.5 × 16.9 × 2.2 in) | 778 × 615 × 78 mm (30.6 × 24.2 × 3.1 in) |
-| Weight | 900 g | 900 g | 2200 g | 2200 g | 3300 g | 3300 g | 9700 g |
+| Size | 330 × 243 × 13.9 mm (13 × 9.6 × 0.5 in) | 330 × 243 × 13.9 mm (13 × 9.6 × 0.5 in) | 406 × 419 × 51 mm (16 × 16.5 × 2 in) | 406 × 419 × 51 mm (16 × 16.5 × 2 in) | 572 × 430 × 56 mm (22.5 × 16.9 × 2.2 in) | 572 × 430 × 56 mm (22.5 × 16.9 × 2.2 in) | 778 × 615 × 78 mm (30.6 × 24.2 × 3.1 in) |
+| Weight | 862 g | 862 g | 2200 g | 2200 g | 3402 g | 3402 g | 9700 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}

@@ -231,6 +231,7 @@ OTHER_INPUTS = [
     ('Dials', plain('OtherInputs.Dials')),
     ('Multimedia keys', plain('OtherInputs.MultimediaKeys')),
     ('Scrollers', plain('OtherInputs.Scrollers')),
+    ('Switcher keys', plain('OtherInputs.SwitcherKeys')),
     ('Touch rings', plain('OtherInputs.TouchRings')),
     ('Touch strips', plain('OtherInputs.TouchStrips')),
     ('Touch', lambda t: yes_no(g(t, 'OtherInputs.Touch'))),
@@ -380,7 +381,7 @@ def in_box(t):
 IN_THE_BOX = [('Contents', in_box)]
 
 
-SPARSE_ROWS = {'Multimedia keys', 'Scrollers'}  # rare fields: only shown when some model on the page has them
+SPARSE_ROWS = {'Multimedia keys', 'Scrollers', 'Switcher keys'}  # rare fields: only shown when some model on the page has them
 
 
 def table(tablets, rows):
