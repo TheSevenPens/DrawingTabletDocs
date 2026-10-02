@@ -47,7 +47,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
 | Pressure levels | 4096 | 4096 | 4096 | 4096 |
 | Tilt | None | None | None | None |
-| Accuracy (center) | — | — | — | — |
+| Accuracy (center) | ±0.25 mm | ±0.25 mm | ±0.25 mm | ±0.25 mm |
 | Accuracy (corner) | — | — | — | — |
 | Report rate | 133 Hz | 133 Hz | 133 Hz | 133 Hz |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |

@@ -62,6 +62,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | --- | --- |
 | Buttons | 8 |
 | Dials | — |
+| Scrollers | 1 |
 | Touch rings | — |
 | Touch strips | — |
 | Touch | No |
