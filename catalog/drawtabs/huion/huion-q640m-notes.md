@@ -57,7 +57,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
 | --- | --- |
 | Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
-| Compatible pens | — |
+| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
 {% endtab %}
 
 {% tab title="Other inputs" %}

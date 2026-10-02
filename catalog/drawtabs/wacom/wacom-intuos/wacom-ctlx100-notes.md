@@ -44,7 +44,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Active area | 152 × 95 mm (6 × 3.7 in) | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) | 216 × 135 mm (8.5 × 5.3 in) |
 | Diagonal | 179.2 mm (7.1 in) | 179.2 mm (7.1 in) | 254.7 mm (10 in) | 254.7 mm (10 in) |
 | Aspect ratio | 16:10 | 16:10 | 16:10 | 16:10 |
-| Pen technology | Passive EMR | — | Passive EMR | Passive EMR |
+| Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
 | Pressure levels | 4096 | 4096 | 4096 | 4096 |
 | Tilt | None | None | None | None |
 | Accuracy (center) | — | — | — | — |

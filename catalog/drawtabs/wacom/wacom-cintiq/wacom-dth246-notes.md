@@ -90,7 +90,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [DTH-246](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |
 | --- | --- |
-| Size | 340 × 568 × 21 mm (13.4 × 22.4 × 0.8 in) |
+| Size | 568 × 340 × 21 mm (22.4 × 13.4 × 0.8 in) |
 | Weight | 5000 g |
 | VESA mount | Yes (75×75) |
 | Legs | — |
