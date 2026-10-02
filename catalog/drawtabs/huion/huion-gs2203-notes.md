@@ -88,7 +88,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
 | --- | --- |
 | Size | 527.7 × 324.7 × 36.7 mm (20.8 × 12.8 × 1.4 in) |
-| Weight | — |
+| Weight | 3600 g |
 | VESA mount | Yes |
 | Legs | — |
 | Included stand | Yes |

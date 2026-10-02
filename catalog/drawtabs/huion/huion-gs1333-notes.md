@@ -57,7 +57,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Resolution | 1920 × 1080 |
 | Aspect ratio | 16:9 |
 | Pixel density | 166 PPI |
-| Panel | — |
+| Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
 | Coatings | — |
@@ -65,7 +65,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
-| Viewing angle | 165° horizontal<br>165° vertical |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 25 ms |
 {% endtab %}
@@ -73,7 +73,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
 | --- | --- |
-| Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Active area | 293.8 × 165.2 mm (11.6 × 6.5 in) |
 | Diagonal | 337.1 mm (13.3 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
@@ -83,7 +83,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Accuracy (corner) | ±2 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
+| Max hover | 10 mm |
 {% endtab %}
 
 {% tab title="Pen" %}

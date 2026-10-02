@@ -34,11 +34,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pen technology | Passive EMR |
 | Pressure levels | 1024 |
 | Tilt | ±60° |
-| Accuracy (center) | — |
+| Accuracy (center) | ±0.25 mm |
 | Accuracy (corner) | — |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
+| Max hover | 6 mm |
 {% endtab %}
 
 {% tab title="Pen" %}

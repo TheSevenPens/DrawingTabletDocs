@@ -41,12 +41,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Resolution | 1920 × 1080 |
 | Aspect ratio | 16:9 |
 | Pixel density | 185 PPI |
-| Panel | — |
+| Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | — |
 | Coatings | — |
 | Color gamut | sRGB 127% area<br>Adobe RGB 94% coverage<br>NTSC 90% coverage |
-| Color depth | — |
+| Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
@@ -80,7 +80,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
@@ -100,7 +100,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

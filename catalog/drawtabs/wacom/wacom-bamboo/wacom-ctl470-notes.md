@@ -36,7 +36,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pen technology | Passive EMR |
 | Pressure levels | 1024 |
 | Tilt | — |
-| Accuracy (center) | — |
+| Accuracy (center) | ±0.5 mm |
 | Accuracy (corner) | — |
 | Report rate | 133 Hz |
 | Density | 100 LPmm (2540 LPI) |
@@ -70,7 +70,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [CTL-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl470) |
 | --- | --- |
-| Ports | — |
+| Ports | Micro-USB |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

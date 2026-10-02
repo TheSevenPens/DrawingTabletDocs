@@ -64,7 +64,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
 | --- | --- | --- |
-| Buttons | — | — |
+| Buttons | 8 | 8 |
 | Dials | — | — |
 | Touch rings | — | — |
 | Touch strips | — | — |
@@ -74,16 +74,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
 | --- | --- | --- |
-| Size | 315 × 187 × 8.8 mm (12.4 × 7.4 × 0.3 in) | — |
+| Size | 315 × 187 × 8.8 mm (12.4 × 7.4 × 0.3 in) | 315 × 187 × 8.8 mm (12.4 × 7.4 × 0.3 in) |
 | Weight | — | — |
 {% endtab %}
 
 {% tab title="Connectivity" %}
 | | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
 | --- | --- | --- |
-| Ports | — | — |
+| Ports | USB-C | USB-C |
 | Attached cable | — | — |
-| Bluetooth | Yes | No |
+| Bluetooth | Yes (5.0) | No |
 {% endtab %}
 
 {% tab title="Power" %}

@@ -49,15 +49,15 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Pixel density | 190 PPI | 166 PPI |
 | Panel | IPS | IPS |
 | Lamination | — | — |
-| Anti-glare | AG film | AG film |
+| Anti-glare | Etched glass | Etched glass |
 | Coatings | Anti-fingerprint | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage | sRGB 99% coverage |
 | Color depth | 8 bits per channel | 8 bits per channel |
 | Brightness | 275 cd/m² | 320 cd/m² |
 | Peak brightness | — | — |
-| Viewing angle | — | — |
+| Viewing angle | 170° horizontal<br>170° vertical | 170° horizontal<br>170° vertical |
 | Refresh rate | 60 Hz | 60 Hz |
-| Response time | 18 ms | — |
+| Response time | 18 ms | 19 ms |
 {% endtab %}
 
 {% tab title="Digitizer" %}

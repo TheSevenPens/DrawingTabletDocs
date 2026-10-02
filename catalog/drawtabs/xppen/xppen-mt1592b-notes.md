@@ -75,9 +75,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
-| Bluetooth | — |
+| Bluetooth | Yes (5.0) |
 {% endtab %}
 
 {% tab title="In the box" %}

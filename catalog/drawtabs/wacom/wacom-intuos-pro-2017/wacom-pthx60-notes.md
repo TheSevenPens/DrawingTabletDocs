@@ -79,7 +79,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
 | --- | --- | --- | --- |
-| Size | 269.2 × 170.1 × 8 mm (10.6 × 6.7 × 0.3 in) | 338 × 219 × 8 mm (13.3 × 8.6 × 0.3 in) | 430.4 × 287 × 8 mm (16.9 × 11.3 × 0.3 in) |
+| Size | 269.2 × 170.1 × 8.4 mm (10.6 × 6.7 × 0.3 in) | 338 × 219 × 8 mm (13.3 × 8.6 × 0.3 in) | 430.4 × 287 × 8 mm (16.9 × 11.3 × 0.3 in) |
 | Weight | 450 g | 700 g | 1300 g |
 {% endtab %}
 

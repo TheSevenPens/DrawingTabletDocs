@@ -113,7 +113,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C<br>3.5 mm audio |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

@@ -60,7 +60,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
-| Response time | 8 ms |
+| Response time | 12 ms |
 {% endtab %}
 
 {% tab title="Digitizer" %}
@@ -102,7 +102,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Size | 384 × 259 × 15 mm (15.1 × 10.2 × 0.6 in) |
 | Weight | 2000 g |
 | VESA mount | Yes (75×75) |
-| Legs | — |
+| Legs | Yes |
 | Included stand | No |
 {% endtab %}
 

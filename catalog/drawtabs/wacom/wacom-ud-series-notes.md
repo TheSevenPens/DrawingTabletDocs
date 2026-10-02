@@ -40,14 +40,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Active area | 204.8 × 153.6 mm (8.1 × 6 in) | 204.8 × 153.6 mm (8.1 × 6 in) | 304.8 × 304.8 mm (12 × 12 in) | 304.8 × 304.8 mm (12 × 12 in) | 457.2 × 304.8 mm (18 × 12 in) | 457.2 × 304.8 mm (18 × 12 in) | 635 × 462 mm (25 × 18.2 in) |
 | Diagonal | 256 mm (10.1 in) | 256 mm (10.1 in) | 431.1 mm (17 in) | 431.1 mm (17 in) | 549.5 mm (21.6 in) | 549.5 mm (21.6 in) | 785.3 mm (30.9 in) |
 | Aspect ratio | 4:3 | 4:3 | 1:1 | 1:1 | 3:2 | 3:2 | ≈4:3 (1.374:1) |
-| Pen technology | — | — | — | — | — | — | — |
-| Pressure levels | — | — | — | — | — | — | — |
-| Tilt | — | — | — | — | — | — | — |
+| Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
+| Pressure levels | 256 | 256 | 256 | 256 | 256 | 256 | 256 |
+| Tilt | ±60° | ±60° | — | — | — | — | — |
 | Accuracy (center) | — | — | — | — | — | — | — |
 | Accuracy (corner) | — | — | — | — | — | — | — |
-| Report rate | — | — | — | — | — | — | — |
+| Report rate | 205 Hz | 205 Hz | 205 Hz | 205 Hz | 205 Hz | 205 Hz | 205 Hz |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 50 LPmm (1270 LPI) |
-| Max hover | — | — | — | — | — | — | — |
+| Max hover | 5 mm | 5 mm | 5 mm | 5 mm | 5 mm | 5 mm | 5 mm |
 {% endtab %}
 
 {% tab title="Pen" %}

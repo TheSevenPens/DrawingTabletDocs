@@ -63,7 +63,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [Q630M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q630m) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 6 |
 | Dials | 2 |
 | Touch rings | — |
 | Touch strips | — |
@@ -80,9 +80,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [Q630M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q630m) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
-| Bluetooth | — |
+| Bluetooth | Yes (5.0) |
 {% endtab %}
 
 {% tab title="In the box" %}

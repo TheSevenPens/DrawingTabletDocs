@@ -126,7 +126,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
 | --- | --- | --- | --- |
-| Buttons | 4 | 8 | 8 |
+| Buttons | 5 | 10 | 10 |
 | Dials | 1 | 2 | 2 |
 | Touch rings | — | — | — |
 | Touch strips | — | — | — |

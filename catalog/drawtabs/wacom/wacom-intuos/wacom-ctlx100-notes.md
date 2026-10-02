@@ -51,7 +51,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Accuracy (corner) | — | — | — | — |
 | Report rate | 133 Hz | 133 Hz | 133 Hz | 133 Hz |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
-| Max hover | — | — | — | — |
+| Max hover | 7 mm | 7 mm | 7 mm | 7 mm |
 {% endtab %}
 
 {% tab title="Pen" %}
@@ -75,7 +75,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
 | --- | --- | --- | --- | --- |
 | Size | 200 × 160 × 8.8 mm (7.9 × 6.3 × 0.3 in) | 200 × 160 × 8.8 mm (7.9 × 6.3 × 0.3 in) | 264 × 200 × 8.8 mm (10.4 × 7.9 × 0.3 in) | 264 × 200 × 8.8 mm (10.4 × 7.9 × 0.3 in) |
-| Weight | 230 g | 230 g | 410 g | 410 g |
+| Weight | 230 g | 250 g | 410 g | 410 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}

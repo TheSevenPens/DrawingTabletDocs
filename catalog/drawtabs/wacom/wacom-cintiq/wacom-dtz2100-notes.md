@@ -37,9 +37,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Coatings | — |
 | Color gamut | — |
 | Color depth | 8 bits per channel |
-| Brightness | 200 cd/m² |
+| Brightness | 220 cd/m² |
 | Peak brightness | — |
-| Viewing angle | — |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | — |
 | Response time | 20 ms |
 {% endtab %}
@@ -51,8 +51,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Diagonal | 540 mm (21.3 in) |
 | Aspect ratio | 4:3 |
 | Pen technology | Passive EMR |
-| Pressure levels | 2048 |
-| Tilt | ±40° |
+| Pressure levels | 1024 |
+| Tilt | ±60° |
 | Accuracy (center) | ±0.5 mm |
 | Accuracy (corner) | — |
 | Report rate | 133 Hz |
@@ -70,10 +70,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
 | Touch rings | — |
-| Touch strips | — |
+| Touch strips | 2 |
 | Touch | No |
 {% endtab %}
 
@@ -81,8 +81,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
 | --- | --- |
 | Size | 561 × 421 × 47.8 mm (22.1 × 16.6 × 1.9 in) |
-| Weight | 8700 g |
-| VESA mount | — |
+| Weight | 8480 g |
+| VESA mount | Yes (100×100) |
 | Legs | — |
 | Included stand | — |
 {% endtab %}

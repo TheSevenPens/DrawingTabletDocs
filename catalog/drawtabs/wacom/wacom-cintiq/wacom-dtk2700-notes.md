@@ -47,8 +47,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [DTK-2700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2700) |
 | --- | --- |
-| Active area | 597 × 336 mm (23.5 × 13.2 in) |
-| Diagonal | 685.1 mm (27 in) |
+| Active area | 596.7 × 335.6 mm (23.5 × 13.2 in) |
+| Diagonal | 684.6 mm (27 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
@@ -56,7 +56,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Accuracy (center) | — |
 | Accuracy (corner) | — |
 | Report rate | — |
-| Density | — |
+| Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
 {% endtab %}
 
@@ -83,7 +83,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Size | 770 × 465 × 54.4 mm (30.3 × 18.3 × 2.1 in) |
 | Weight | 9000 g |
 | VESA mount | — |
-| Legs | — |
+| Legs | Yes |
 | Included stand | — |
 {% endtab %}
 

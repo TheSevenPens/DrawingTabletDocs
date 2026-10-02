@@ -92,7 +92,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
 | --- | --- | --- |
 | Size | 210 × 146 × 8.7 mm (8.3 × 5.7 × 0.3 in) | 277 × 189 × 8.7 mm (10.9 × 7.4 × 0.3 in) |
-| Weight | 260 g | 447 g |
+| Weight | 250 g | 432 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}

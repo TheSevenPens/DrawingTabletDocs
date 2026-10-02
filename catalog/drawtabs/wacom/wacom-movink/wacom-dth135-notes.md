@@ -113,7 +113,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 2 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |

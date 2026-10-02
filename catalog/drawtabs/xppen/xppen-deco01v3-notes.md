@@ -58,7 +58,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 8 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |

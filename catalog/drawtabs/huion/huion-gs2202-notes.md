@@ -55,8 +55,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
 | --- | --- |
-| Active area | 477 × 268 mm (18.8 × 10.6 in) |
-| Diagonal | 547.1 mm (21.5 in) |
+| Active area | 476.6 × 268.1 mm (18.8 × 10.6 in) |
+| Diagonal | 546.9 mm (21.5 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
@@ -89,7 +89,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
 | --- | --- |
 | Size | 546 × 323 × 19 mm (21.5 × 12.7 × 0.7 in) |
-| Weight | 2900 g |
+| Weight | 3900 g |
 | VESA mount | Yes |
 | Legs | No |
 | Included stand | Yes |
@@ -98,7 +98,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GS2202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C (Full-featured) |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

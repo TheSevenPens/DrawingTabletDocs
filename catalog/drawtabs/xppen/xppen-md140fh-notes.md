@@ -61,8 +61,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
-| Active area | 299 × 187 mm (11.8 × 7.4 in) |
-| Diagonal | 352.7 mm (13.9 in) |
+| Active area | 298.9 × 186.8 mm (11.8 × 7.4 in) |
+| Diagonal | 352.5 mm (13.9 in) |
 | Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
@@ -104,7 +104,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

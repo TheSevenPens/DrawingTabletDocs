@@ -42,7 +42,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Resolution | 1920 × 1080 |
 | Aspect ratio | 16:9 |
 | Pixel density | 166 PPI |
-| Panel | — |
+| Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | AG film |
 | Coatings | — |
@@ -58,15 +58,15 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
 | --- | --- |
-| Active area | 294 × 165 mm (11.6 × 6.5 in) |
-| Diagonal | 337.1 mm (13.3 in) |
+| Active area | 293.8 × 165.2 mm (11.6 × 6.5 in) |
+| Diagonal | 337 mm (13.3 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
 | Accuracy (center) | ±0.5 mm |
 | Accuracy (corner) | ±1 mm |
-| Report rate | — |
+| Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
 {% endtab %}
@@ -81,7 +81,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 9 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |

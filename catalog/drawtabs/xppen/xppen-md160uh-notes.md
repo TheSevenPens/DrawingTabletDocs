@@ -48,7 +48,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color depth | 10 bits per channel |
 | Brightness | 350 cd/m² |
 | Peak brightness | — |
-| Viewing angle | — horizontal<br>170° vertical |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 1 ms |
 {% endtab %}
@@ -99,7 +99,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MD160UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160uh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

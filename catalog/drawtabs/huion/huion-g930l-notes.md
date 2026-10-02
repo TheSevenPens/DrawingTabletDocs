@@ -38,8 +38,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
 | --- | --- |
-| Active area | 345 × 216 mm (13.6 × 8.5 in) |
-| Diagonal | 407 mm (16 in) |
+| Active area | 345.4 × 215.9 mm (13.6 × 8.5 in) |
+| Diagonal | 407.3 mm (16 in) |
 | Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
@@ -61,7 +61,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 6 |
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
@@ -71,14 +71,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
 | --- | --- |
-| Size | 429 × 260 × 9 mm (16.9 × 10.2 × 0.4 in) |
+| Size | 429 × 260.9 × 9 mm (16.9 × 10.3 × 0.4 in) |
 | Weight | 1145 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}
 | | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
 | Bluetooth | Yes (5.0) |
 {% endtab %}

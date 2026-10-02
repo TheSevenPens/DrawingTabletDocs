@@ -41,19 +41,19 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Anti-glare | AG film |
 | Coatings | — |
 | Color gamut | sRGB 99% coverage, 130% area<br>Adobe RGB 91% coverage, 103% area |
-| Color depth | — |
+| Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
 | Peak brightness | — |
-| Viewing angle | — |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
-| Response time | — |
+| Response time | 14 ms |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
 | --- | --- |
-| Active area | 476 × 268 mm (18.7 × 10.6 in) |
-| Diagonal | 546.3 mm (21.5 in) |
+| Active area | 476.1 × 267.8 mm (18.7 × 10.5 in) |
+| Diagonal | 546.2 mm (21.5 in) |
 | Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |

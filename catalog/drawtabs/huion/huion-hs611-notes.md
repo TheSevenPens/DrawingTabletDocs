@@ -40,9 +40,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
 | --- | --- |
-| Active area | 258 × 162 mm (10.2 × 6.4 in) |
-| Diagonal | 304.6 mm (12 in) |
-| Aspect ratio | ≈16:10 (1.593:1) |
+| Active area | 258.4 × 161.5 mm (10.2 × 6.4 in) |
+| Diagonal | 304.7 mm (12 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
@@ -73,8 +73,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
 | --- | --- |
-| Size | 333.4 × 218 × 7.3 mm (13.1 × 8.6 × 0.3 in) |
-| Weight | 500 g |
+| Size | 333.4 × 218.4 × 7.3 mm (13.1 × 8.6 × 0.3 in) |
+| Weight | 550 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}

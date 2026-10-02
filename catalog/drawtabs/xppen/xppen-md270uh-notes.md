@@ -77,7 +77,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Dials | — |
 | Touch rings | — |
 | Touch strips | — |
-| Touch | No |
+| Touch | Yes |
 {% endtab %}
 
 {% tab title="Physical" %}
@@ -93,7 +93,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [MD270UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>HDMI<br>DisplayPort<br>3.5 mm audio<br>DC power |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

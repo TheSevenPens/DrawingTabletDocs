@@ -45,7 +45,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Coatings | Anti-fingerprint |
 | Color gamut | sRGB 99% coverage, 140% area<br>Adobe RGB 99% coverage<br>DCI-P3 98% coverage<br>Display P3 98% coverage |
 | Color depth | 10 bits per channel |
-| Brightness | 220 cd/m² |
+| Brightness | 250 cd/m² |
 | Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
@@ -98,7 +98,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
 | --- | --- |
-| Ports | HDMI<br>DisplayPort<br>USB-C (Full-featured)<br>DC power |
+| Ports | HDMI<br>DisplayPort<br>USB-C (Full-featured)<br>DC power<br>USB-A<br>USB-A<br>3.5 mm audio |
 | Attached cable | None |
 | Bluetooth | — |
 {% endtab %}

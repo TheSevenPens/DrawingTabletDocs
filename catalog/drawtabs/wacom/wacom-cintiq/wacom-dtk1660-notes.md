@@ -45,7 +45,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color depth | 8 bits per channel |
 | Brightness | 210 cd/m² |
 | Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
+| Viewing angle | 176° horizontal<br>176° vertical |
 | Refresh rate | — |
 | Response time | 25 ms |
 {% endtab %}
@@ -86,10 +86,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [DTK-1660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk1660) |
 | --- | --- |
-| Size | 422 × 285 × 16.6 mm (16.6 × 11.2 × 0.7 in) |
+| Size | 422 × 285 × 25 mm (16.6 × 11.2 × 1 in) |
 | Weight | 1900 g |
 | VESA mount | — |
-| Legs | — |
+| Legs | Yes |
 | Included stand | — |
 {% endtab %}
 

@@ -80,9 +80,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C |
 | Attached cable | — |
-| Bluetooth | Yes |
+| Bluetooth | Yes (5.0) |
 {% endtab %}
 
 {% tab title="In the box" %}

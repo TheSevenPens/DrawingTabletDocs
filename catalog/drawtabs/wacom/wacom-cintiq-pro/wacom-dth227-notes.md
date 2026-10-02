@@ -97,7 +97,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [DTH-227](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth227) |
 | --- | --- |
-| Ports | — |
+| Ports | Mini DisplayPort<br>HDMI<br>USB-C<br>USB-C<br>USB-A |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}

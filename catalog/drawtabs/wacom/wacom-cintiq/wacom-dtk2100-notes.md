@@ -37,7 +37,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
 | Peak brightness | — |
-| Viewing angle | — |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | — |
 | Response time | 20 ms |
 {% endtab %}
@@ -45,8 +45,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
 | --- | --- |
-| Active area | 432 × 324 mm (17 × 12.8 in) |
-| Diagonal | 540 mm (21.3 in) |
+| Active area | 431.8 × 323.9 mm (17 × 12.8 in) |
+| Diagonal | 539.8 mm (21.3 in) |
 | Aspect ratio | 4:3 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
@@ -68,17 +68,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Other inputs" %}
 | | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
 | --- | --- |
-| Buttons | — |
+| Buttons | 16 |
 | Dials | — |
 | Touch rings | — |
-| Touch strips | — |
+| Touch strips | 2 |
 | Touch | No |
 {% endtab %}
 
 {% tab title="Physical" %}
 | | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
 | --- | --- |
-| Size | — |
+| Size | 561 × 421 × 47.8 mm (22.1 × 16.6 × 1.9 in) |
 | Weight | 8700 g |
 | VESA mount | — |
 | Legs | — |

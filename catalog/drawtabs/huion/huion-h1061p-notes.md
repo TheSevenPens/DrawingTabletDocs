@@ -37,8 +37,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Digitizer" %}
 | | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
 | --- | --- |
-| Active area | 267 × 167 mm (10.5 × 6.6 in) |
-| Diagonal | 314.9 mm (12.4 in) |
+| Active area | 266.7 × 166.7 mm (10.5 × 6.6 in) |
+| Diagonal | 314.5 mm (12.4 in) |
 | Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |

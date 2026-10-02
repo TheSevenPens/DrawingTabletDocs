@@ -88,14 +88,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Size | 410 × 265 × 17.5 mm (16.1 × 10.4 × 0.7 in) |
 | Weight | 1500 g |
 | VESA mount | — |
-| Legs | — |
+| Legs | Yes |
 | Included stand | — |
 {% endtab %}
 
 {% tab title="Connectivity" %}
 | | [DTH-1620](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth1620) |
 | --- | --- |
-| Ports | — |
+| Ports | USB-C<br>USB-C<br>USB-C<br>3.5 mm audio |
 | Attached cable | — |
 | Bluetooth | — |
 {% endtab %}
