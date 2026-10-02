@@ -31,7 +31,7 @@ An intro line linking the Explorer family page, then GitBook tabs. Each tab is a
 | Tab | Rows | Shown for |
 |---|---|---|
 | Model | Name, Released, Status | all |
-| Display | Resolution, Aspect ratio, Pixel density, Panel, Lamination, Anti-glare, Color gamut, Color depth, Brightness, Viewing angle, Refresh rate, Response time | pen displays, standalone |
+| Display | Resolution, Aspect ratio, Pixel density, Panel, Lamination, Anti-glare, Color gamut, Color depth, Brightness, Peak brightness, Viewing angle, Refresh rate, Response time | pen displays, standalone |
 | Digitizer | Active area, Diagonal, Aspect ratio, Pen technology, Pressure levels, Tilt, Accuracy (center), Accuracy (corner), Report rate, Density, Max hover | all |
 | Pen | Included pen (Model.IncludedPen), Compatible pens (data/pen-compat, matched on brand and model ID), one per line, each linked to its Explorer page | all |
 | Other inputs | Buttons, Dials, Touch rings, Touch strips, Touch | all |

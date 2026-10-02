@@ -197,6 +197,7 @@ DISPLAY = [
     ('Color gamut', gamuts),
     ('Color depth', unit('Display.ColorBitDepth', 'bits per channel')),
     ('Brightness', unit('Display.Brightness', 'cd/m²')),
+    ('Peak brightness', unit('Display.BrightnessPeak', 'cd/m²')),
     ('Viewing angle', viewing_angle),
     ('Refresh rate', unit('Display.RefreshRate', 'Hz')),
     ('Response time', unit('Display.ResponseTime', 'ms')),
