@@ -98,7 +98,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Physical" %}
 | | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
 | --- | --- |
-| Size | 259 × 384 × 15 mm (10.2 × 15.1 × 0.6 in) |
+| Size | 384 × 259 × 15 mm (15.1 × 10.2 × 0.6 in) |
 | Weight | 2000 g |
 | VESA mount | Yes (75×75) |
 | Legs | — |

@@ -65,7 +65,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
 | --- | --- |
 | Included pen | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
-| Compatible pens | — |
+| Compatible pens | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
