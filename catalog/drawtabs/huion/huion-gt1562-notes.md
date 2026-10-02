@@ -18,19 +18,16 @@ I think a much better choice would be the Huion Kamvas 16 GEN3. [Huion Kamvas 16
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-pro-16-plus-4k)
-* [Store page](https://store.huion.com/products/kamvas-pro-16-4k-series)
-* [User manual](https://www.huion.com/manual/kamvas-pro-16-plus-4k)
-
-### Reviews
-
-* [Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) - Teoh on Tech, 2021-08-09
-* [Review: Huion Kamvas Pro 16 Plus (4K) pen display](https://www.youtube.com/watch?v=0sfbhhXoR8E) - Teoh on Tech, 2021-06-10
-* [Huion Kamvas Pro 16 Plus (4K): Unboxing and First Impression](https://www.youtube.com/watch?v=9l2UljGrWdQ) - Teoh on Tech, 2021-05-05
-* [Review: Huion Kamvas Pro 16 Plus (4K)](https://www.parkablogs.com/content/review-huion-kamvas-pro-16-plus-4k) - Parka Blogs
-* [Huion Kamvas Pro 16 Plus (4K) vs XP-Pen Artist Pro 16TP](https://www.parkablogs.com/content/huion-kamvas-pro-16-plus-4k-vs-xp-pen-artist-pro-16tp) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-pro-16-plus-4k) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-pro-16-4k-series) |  |
+| Huion | [User manual](https://www.huion.com/manual/kamvas-pro-16-plus-4k) |  |
+| Teoh on Tech | [Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) | 2021-08-09 |
+| Teoh on Tech | [Review: Huion Kamvas Pro 16 Plus (4K) pen display](https://www.youtube.com/watch?v=0sfbhhXoR8E) | 2021-06-10 |
+| Teoh on Tech | [Huion Kamvas Pro 16 Plus (4K): Unboxing and First Impression](https://www.youtube.com/watch?v=9l2UljGrWdQ) | 2021-05-05 |
+| Parka Blogs | [Review: Huion Kamvas Pro 16 Plus (4K)](https://www.parkablogs.com/content/review-huion-kamvas-pro-16-plus-4k) |  |
+| Parka Blogs | [Huion Kamvas Pro 16 Plus (4K) vs XP-Pen Artist Pro 16TP](https://www.parkablogs.com/content/huion-kamvas-pro-16-plus-4k-vs-xp-pen-artist-pro-16tp) |  |
 
 ## Specs
 

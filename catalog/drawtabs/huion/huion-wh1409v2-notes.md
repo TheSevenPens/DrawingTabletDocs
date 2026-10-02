@@ -8,10 +8,10 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/inspiroy-wh1409-v2)
-* [Store page](https://store.huion.com/products/inspiroy-wh1409-v2)
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/inspiroy-wh1409-v2) |  |
+| Huion | [Store page](https://store.huion.com/products/inspiroy-wh1409-v2) |  |
 
 ## Specs
 

@@ -12,12 +12,12 @@ This is my favorite tablet of the 70+ that I own. I prefer drawing on this one m
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
-* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-22-dth227k0a.html)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
-* [Product information](https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-22-dth227k0a.html) |  |
+| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH227.html) |  |
+| Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22) |  |
 
 ## Specs
 

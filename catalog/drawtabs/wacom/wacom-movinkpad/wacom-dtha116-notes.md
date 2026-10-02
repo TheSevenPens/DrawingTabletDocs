@@ -8,25 +8,22 @@ These here are some of my initial thoughts on this device.
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
-* [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-11-dtha116cl0z.html)
-* [Product information](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11)
-* [Product information](https://support.wacom.com/hc/en-us/articles/33515643760151-What-is-the-supported-optional-accessories-can-be-use-on-Wacom-MovinkPad-11)
-* [Product information](https://www.wacom.com/en-us/getting-started/wacom-movinkpad-11)
-
-### Reviews
-
-* [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) - Brad Colbow, 2026-05-08
-* [Note taking on the Wacom MovinkPad 11](https://www.youtube.com/watch?v=SY2cBbGFpCE) - Teoh on Tech, 2025-09-09
-* [Wacom MovinkPad 11 with other EMR pens](https://www.youtube.com/watch?v=CmspIjH5XgE) - Teoh on Tech, 2025-09-03
-* [Wacom MovinkPad 11 review: Into the top 3 with Apple & Samsung](https://www.youtube.com/watch?v=rgoyTfEkLrQ) - Teoh on Tech, 2025-08-24
-* [Review: Wacom MovinkPad 11 with Pro Pen 3](https://www.parkablogs.com/content/wacom-movink-pad-11-review) - Parka Blogs, 2025-08-18
-* [Wacom Movink Pad 11 Review](https://www.youtube.com/watch?v=TnGji_u53UQ) - Brad Colbow, 2025-08-07
-* [Wacom MovinkPad 11 Review - Better Than iPad for Beginners, Kids & Teens?](https://www.youtube.com/watch?v=9Pr9Et7_ezY) - Aaron Rutten, 2025-07-31
-* [¿El iPad de Wacom? Review y comparativa MovinkPad 11](https://www.youtube.com/watch?v=xQR-sIQNExg) - Gartzia Artz, 2025-07-31
-* [Wacom MovinkPad 11: Unboxing and Testing](https://www.youtube.com/watch?v=a8-YZ-QSmOs) - Seven Pens, 2025-07-23
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-11) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-11-dtha116cl0z.html) |  |
+| Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11) |  |
+| Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/33515643760151-What-is-the-supported-optional-accessories-can-be-use-on-Wacom-MovinkPad-11) |  |
+| Wacom | [Product information](https://www.wacom.com/en-us/getting-started/wacom-movinkpad-11) |  |
+| Brad Colbow | [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) | 2026-05-08 |
+| Teoh on Tech | [Note taking on the Wacom MovinkPad 11](https://www.youtube.com/watch?v=SY2cBbGFpCE) | 2025-09-09 |
+| Teoh on Tech | [Wacom MovinkPad 11 with other EMR pens](https://www.youtube.com/watch?v=CmspIjH5XgE) | 2025-09-03 |
+| Teoh on Tech | [Wacom MovinkPad 11 review: Into the top 3 with Apple & Samsung](https://www.youtube.com/watch?v=rgoyTfEkLrQ) | 2025-08-24 |
+| Parka Blogs | [Review: Wacom MovinkPad 11 with Pro Pen 3](https://www.parkablogs.com/content/wacom-movink-pad-11-review) | 2025-08-18 |
+| Brad Colbow | [Wacom Movink Pad 11 Review](https://www.youtube.com/watch?v=TnGji_u53UQ) | 2025-08-07 |
+| Aaron Rutten | [Wacom MovinkPad 11 Review - Better Than iPad for Beginners, Kids & Teens?](https://www.youtube.com/watch?v=9Pr9Et7_ezY) | 2025-07-31 |
+| Gartzia Artz | [¿El iPad de Wacom? Review y comparativa MovinkPad 11](https://www.youtube.com/watch?v=xQR-sIQNExg) | 2025-07-31 |
+| Seven Pens | [Wacom MovinkPad 11: Unboxing and Testing](https://www.youtube.com/watch?v=a8-YZ-QSmOs) | 2025-07-23 |
 
 ## Specs
 

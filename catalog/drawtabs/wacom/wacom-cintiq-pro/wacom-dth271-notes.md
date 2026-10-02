@@ -11,23 +11,20 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq-pro-27)
-* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH271.html)
-* [Product information](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A_Oct%202022.pdf?sid=TV2:AJoJnUTl8)
-* [Product information](https://support.wacom.com/hc/en-us/articles/9170502251927-What-are-the-accessory-pens-I-can-use-with-the-Wacom-Cintiq-Pro-27-2022-)
-
-### Reviews
-
-* [WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) - Adam Duff, 2026-01-28
-* [REVIEW CINTIQ PRO 27 | La mejor (y más cara) tableta gráfica que ha existido | Review en Español](https://www.youtube.com/watch?v=IzBZx3LBclk) - Gartzia Artz, 2022-12-09
-* [Is the Wacom Cintiq Pro 27 Worth The Upgrade?](https://www.youtube.com/watch?v=biol42fF0a0) - Create Now Sleep Later, 2022-11-05
-* [Wacom Cintiq Pro 27 Review - Buyers Remorse and Frustration. Potentially the Greatest Pen Display.](https://youtu.be/gKRxy3Yjjoo) - Bara AlMakadma, 2022-10-28
-* [Ultimate Wacom CINTIQ PRO 27 Review + Ergo Stand & Pro Pen 3](https://youtu.be/LybW8WZBrrg) - Aaron Rutten, 2022-10-14
-* [Wacom Cintiq Pro 27 Review](https://youtu.be/x59b4nR3Y3E) - Brad Colbow, 2022-10-14
-* [My First Impression of the Wacom CINTIQ PRO 27](https://www.youtube.com/watch?v=6S5pXLsThj0) - Aaron Rutten, 2022-09-27
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-cintiq-pro-27) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH271.html) |  |
+| Wacom | [Product information](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A_Oct%202022.pdf?sid=TV2:AJoJnUTl8) |  |
+| Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/9170502251927-What-are-the-accessory-pens-I-can-use-with-the-Wacom-Cintiq-Pro-27-2022-) |  |
+| Adam Duff | [WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) | 2026-01-28 |
+| Gartzia Artz | [REVIEW CINTIQ PRO 27 \| La mejor (y más cara) tableta gráfica que ha existido \| Review en Español](https://www.youtube.com/watch?v=IzBZx3LBclk) | 2022-12-09 |
+| Create Now Sleep Later | [Is the Wacom Cintiq Pro 27 Worth The Upgrade?](https://www.youtube.com/watch?v=biol42fF0a0) | 2022-11-05 |
+| Bara AlMakadma | [Wacom Cintiq Pro 27 Review - Buyers Remorse and Frustration. Potentially the Greatest Pen Display.](https://youtu.be/gKRxy3Yjjoo) | 2022-10-28 |
+| Aaron Rutten | [Ultimate Wacom CINTIQ PRO 27 Review + Ergo Stand & Pro Pen 3](https://youtu.be/LybW8WZBrrg) | 2022-10-14 |
+| Brad Colbow | [Wacom Cintiq Pro 27 Review](https://youtu.be/x59b4nR3Y3E) | 2022-10-14 |
+| Aaron Rutten | [My First Impression of the Wacom CINTIQ PRO 27](https://www.youtube.com/watch?v=6S5pXLsThj0) | 2022-09-27 |
 
 ## Specs
 

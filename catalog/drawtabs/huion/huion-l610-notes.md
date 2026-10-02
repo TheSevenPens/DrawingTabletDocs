@@ -14,18 +14,15 @@ This is a great entry-level tablet. It does all the basics extremely well.
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroyfrego). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/inspiroy-frego-m)
-* [Store page](https://store.huion.com/products/inspiroy-frego-m)
-* [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
-
-### Reviews
-
-* [Notes on Huion Frego M (L610)](https://www.youtube.com/watch?v=3-Cl9_xKKKE) - Seven Pens, 2024-10-11
-* [Review: Huion Inspiroy Frego pen tablet - Works great with Android, iPad, iOS](https://www.youtube.com/watch?v=W5vTPouuQtM) - Teoh on Tech, 2024-09-13
-* [Best Graphics Tablet for Artists in 2024? Huion Inspiroy Frego Review](https://www.youtube.com/watch?v=OpVhKZVFusQ) - Create Now Sleep Later, 2024-09-01
-* [Review: Huion Inspiroy Frego pen tablet](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) - Parka Blogs, 2024-08-23
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/inspiroy-frego-m) |  |
+| Huion | [Store page](https://store.huion.com/products/inspiroy-frego-m) |  |
+| Huion | [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html) |  |
+| Seven Pens | [Notes on Huion Frego M (L610)](https://www.youtube.com/watch?v=3-Cl9_xKKKE) | 2024-10-11 |
+| Teoh on Tech | [Review: Huion Inspiroy Frego pen tablet - Works great with Android, iPad, iOS](https://www.youtube.com/watch?v=W5vTPouuQtM) | 2024-09-13 |
+| Create Now Sleep Later | [Best Graphics Tablet for Artists in 2024? Huion Inspiroy Frego Review](https://www.youtube.com/watch?v=OpVhKZVFusQ) | 2024-09-01 |
+| Parka Blogs | [Review: Huion Inspiroy Frego pen tablet](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) | 2024-08-23 |
 
 ## Specs
 

@@ -14,18 +14,15 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/hs611)
-* [Store page](https://store.huion.com/products/huion-hs611)
-* [User manual](https://www.huion.com/manual/hs611)
-
-### Reviews
-
-* [Review: Huion HS611 drawing tablet (10 x 6", tilt, Android)](https://www.youtube.com/watch?v=1RcUCSL5azU) - Teoh on Tech, 2021-02-14
-* [Huion HS611 Drawing Tablet review | All you need?](https://www.youtube.com/watch?v=WEXXbXDrd-Y) - Nemanja Sekulic, 2020-04-28
-* [Huion HS611 Review](https://www.youtube.com/watch?v=IHV7LsbxqsU) - Brad Colbow, 2020-03-23
-* [Huion HS611](https://www.parkablogs.com/content/review-huion-hs611-drawing-tablet-has-tilt-sensitivity-and-supports-android) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/hs611) |  |
+| Huion | [Store page](https://store.huion.com/products/huion-hs611) |  |
+| Huion | [User manual](https://www.huion.com/manual/hs611) |  |
+| Teoh on Tech | [Review: Huion HS611 drawing tablet (10 x 6", tilt, Android)](https://www.youtube.com/watch?v=1RcUCSL5azU) | 2021-02-14 |
+| Nemanja Sekulic | [Huion HS611 Drawing Tablet review \| All you need?](https://www.youtube.com/watch?v=WEXXbXDrd-Y) | 2020-04-28 |
+| Brad Colbow | [Huion HS611 Review](https://www.youtube.com/watch?v=IHV7LsbxqsU) | 2020-03-23 |
+| Parka Blogs | [Huion HS611](https://www.parkablogs.com/content/review-huion-hs611-drawing-tablet-has-tilt-sensitivity-and-supports-android) |  |
 
 ## Specs
 

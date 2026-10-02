@@ -8,20 +8,17 @@ I've been very satisfied with this tablet.
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-pro-24-4k)
-* [Store page](https://store.huion.com/products/kamvas-pro-24-4k)
-* [User manual](https://www.huion.com/manual/kamvas-pro-24-4k)
-* [User manual](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024(4K).pdf)
-
-### Reviews
-
-* [2 Year Review of Huion Kamvas Pro 24 (4K)!](https://www.youtube.com/watch?v=XwD_7x2S-7g) - MossCharmly presents, 2023-12-09
-* [Huion Kamvas 24 Pro 4k Review (2021)](https://www.youtube.com/watch?v=HvQxDrzgbOo) - Brad Colbow, 2021-09-02
-* [Review: Huion Kamvas Pro 24 (4K)](https://www.youtube.com/watch?v=r8k5qsgJXlM) - Teoh on Tech, 2021-08-17
-* [Huion Kamvas Pro 24 (4K) Unboxing + First Impression](https://www.youtube.com/watch?v=f200vERwcms) - Teoh on Tech, 2021-07-30
-* [Artist Review: Huion Kamvas Pro 24 (4K) pen display](https://www.parkablogs.com/content/artist-review-huion-kamvas-pro-24-4k-pen-display) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-pro-24-4k) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-pro-24-4k) |  |
+| Huion | [User manual](https://www.huion.com/manual/kamvas-pro-24-4k) |  |
+| Huion | [User manual](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024(4K).pdf) |  |
+| MossCharmly presents | [2 Year Review of Huion Kamvas Pro 24 (4K)!](https://www.youtube.com/watch?v=XwD_7x2S-7g) | 2023-12-09 |
+| Brad Colbow | [Huion Kamvas 24 Pro 4k Review (2021)](https://www.youtube.com/watch?v=HvQxDrzgbOo) | 2021-09-02 |
+| Teoh on Tech | [Review: Huion Kamvas Pro 24 (4K)](https://www.youtube.com/watch?v=r8k5qsgJXlM) | 2021-08-17 |
+| Teoh on Tech | [Huion Kamvas Pro 24 (4K) Unboxing + First Impression](https://www.youtube.com/watch?v=f200vERwcms) | 2021-07-30 |
+| Parka Blogs | [Artist Review: Huion Kamvas Pro 24 (4K) pen display](https://www.parkablogs.com/content/artist-review-huion-kamvas-pro-24-4k-pen-display) |  |
 
 ## Specs
 

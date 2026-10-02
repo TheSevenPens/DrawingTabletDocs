@@ -10,20 +10,17 @@ Another budget alternative is the XP-Pen Artist 13 GEN2.
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-13)
-* [Store page](https://store.huion.com/products/kamvas-13)
-* [User manual](https://www.huion.com/manual/kamvas-13)
-
-### Reviews
-
-* [Huion Kamvas 13 Drawing Performance](https://www.youtube.com/watch?v=LZqJ6snjWTc) - Teoh on Tech, 2020-07-07
-* [Review: Huion Kamvas 13 Pen Display (Just $239)](https://www.youtube.com/watch?v=yn1eJFsrFnY) - Teoh on Tech, 2020-05-01
-* [Huion Kamvas 13 Review: Huion beats Wacom?](https://youtu.be/rgaqRLhct0A) - Create Now Sleep Later, 2020-04-17
-* [Wacom One - VS -  Huion Kamvas 13 - Smackdown!](https://www.youtube.com/watch?v=vP_-kE0b8WE) - Brad Colbow, 2020-04-06
-* [Huion Kamvas 13 Review (2020 version)](https://www.youtube.com/watch?v=ku8x1q_nhFQ) - Brad Colbow, 2020-03-26
-* [Huion KAMVAS 13](https://www.parkablogs.com/content/review-huion-kamvas-13-pen-display-just-us-239) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-13) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-13) |  |
+| Huion | [User manual](https://www.huion.com/manual/kamvas-13) |  |
+| Teoh on Tech | [Huion Kamvas 13 Drawing Performance](https://www.youtube.com/watch?v=LZqJ6snjWTc) | 2020-07-07 |
+| Teoh on Tech | [Review: Huion Kamvas 13 Pen Display (Just $239)](https://www.youtube.com/watch?v=yn1eJFsrFnY) | 2020-05-01 |
+| Create Now Sleep Later | [Huion Kamvas 13 Review: Huion beats Wacom?](https://youtu.be/rgaqRLhct0A) | 2020-04-17 |
+| Brad Colbow | [Wacom One - VS -  Huion Kamvas 13 - Smackdown!](https://www.youtube.com/watch?v=vP_-kE0b8WE) | 2020-04-06 |
+| Brad Colbow | [Huion Kamvas 13 Review (2020 version)](https://www.youtube.com/watch?v=ku8x1q_nhFQ) | 2020-03-26 |
+| Parka Blogs | [Huion KAMVAS 13](https://www.parkablogs.com/content/review-huion-kamvas-13-pen-display-just-us-239) |  |
 
 ## Specs
 

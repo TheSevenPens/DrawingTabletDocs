@@ -68,27 +68,24 @@ It's always helpful to be clear on the model numbers so that you don't buy the w
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2025). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) (PTK-470)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) (PTK-670)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) (PTK-870)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) (PTK-470)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) (PTK-670)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) (PTK-870)
-
-### Reviews
-
-* [Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) - JEEJON 技冏, 2025-11-03
-* [Unboxing the Wacom Intuos Pro 2025 - First Impressions](https://www.youtube.com/watch?v=Abegz9US7Lg) - Aaron Rutten, 2025-07-13
-* [Wacom Intuos Pro Large and Small: Unboxing and Q&A](https://www.youtube.com/watch?v=A9Rk_BdMR50) - Seven Pens, 2025-05-24 (PTK-470, PTK-870)
-* [I Don't Recommend The New Intuos Pro 2025 Series](https://www.youtube.com/watch?v=KawJkmmDuPE) - JEEJON 技冏, 2025-05-07
-* [2025 Intuos Pro - Everything You Need to Know (Review)](https://www.youtube.com/watch?v=Rf66Lqx9NFc) - Aaron Rutten, 2025-04-26
-* [Notes on Wacom Intuos Pro 2025](https://www.youtube.com/watch?v=Q2rH32pBpq0) - Seven Pens, 2025-04-23
-* [2025 Wacom Intuos Pro Review](https://www.youtube.com/watch?v=Ko0sovi0rX4) - Brad Colbow, 2025-04-14
-* [Wacom Intuos Pro 2025 Medium (PTK-670) Live Unboxing and Testing](https://www.youtube.com/watch?v=Vs9IZ0cejKY) - Seven Pens, 2025-03-31 (PTK-670)
-* [Live Wacom Intuos Pro 2025 PTK-670 medium testing and Q&A](https://www.youtube.com/watch?v=fMjU-0ciml0) - Seven Pens, 2025-03-31 (PTK-670)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) (PTK-470) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) (PTK-670) |  |
+| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) (PTK-870) |  |
+| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) (PTK-470) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) (PTK-670) |  |
+| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) (PTK-870) |  |
+| JEEJON 技冏 | [Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) | 2025-11-03 |
+| Aaron Rutten | [Unboxing the Wacom Intuos Pro 2025 - First Impressions](https://www.youtube.com/watch?v=Abegz9US7Lg) | 2025-07-13 |
+| Seven Pens | [Wacom Intuos Pro Large and Small: Unboxing and Q&A](https://www.youtube.com/watch?v=A9Rk_BdMR50) (PTK-470, PTK-870) | 2025-05-24 |
+| JEEJON 技冏 | [I Don't Recommend The New Intuos Pro 2025 Series](https://www.youtube.com/watch?v=KawJkmmDuPE) | 2025-05-07 |
+| Aaron Rutten | [2025 Intuos Pro - Everything You Need to Know (Review)](https://www.youtube.com/watch?v=Rf66Lqx9NFc) | 2025-04-26 |
+| Seven Pens | [Notes on Wacom Intuos Pro 2025](https://www.youtube.com/watch?v=Q2rH32pBpq0) | 2025-04-23 |
+| Brad Colbow | [2025 Wacom Intuos Pro Review](https://www.youtube.com/watch?v=Ko0sovi0rX4) | 2025-04-14 |
+| Seven Pens | [Wacom Intuos Pro 2025 Medium (PTK-670) Live Unboxing and Testing](https://www.youtube.com/watch?v=Vs9IZ0cejKY) (PTK-670) | 2025-03-31 |
+| Seven Pens | [Live Wacom Intuos Pro 2025 PTK-670 medium testing and Q&A](https://www.youtube.com/watch?v=fMjU-0ciml0) (PTK-670) | 2025-03-31 |
 
 ## Specs
 

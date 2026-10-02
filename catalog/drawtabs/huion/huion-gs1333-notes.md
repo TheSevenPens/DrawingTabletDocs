@@ -27,19 +27,16 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-13-gen-3)
-* [Store page](https://store.huion.com/products/kamvas-13-gen-3)
-
-### Reviews
-
-* [Kamvas 13 Gen 3 review - HUION's best beginner display tablet](https://www.youtube.com/watch?v=Ie39Mbsvc8s) - EyekooDrawsStuff, 2025-01-21
-* [¡LA MEJOR TABLETA GRÁFICA BARATA de 2024! Review Kamvas 13 Gen3](https://www.youtube.com/watch?v=F0E7Ttq79n4) - Gartzia Artz, 2024-11-28
-* [Notes on Huion Kamvas 13 GEN3 (GS1333)](https://www.youtube.com/watch?v=5QG6NfIFSjU) - Seven Pens, 2024-11-08
-* [Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) - Brad Colbow, 2024-09-23
-* [Huion Kamvas 13 (gen 3) pen display REVIEW: This is a good one](https://www.youtube.com/watch?v=8btDW6eV_HY) - Teoh on Tech, 2024-09-02
-* [Huion Kamvas 13 gen 3](https://www.parkablogs.com/content/huion-kamvas-13-gen-3-pen-display-2024) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-13-gen-3) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-13-gen-3) |  |
+| EyekooDrawsStuff | [Kamvas 13 Gen 3 review - HUION's best beginner display tablet](https://www.youtube.com/watch?v=Ie39Mbsvc8s) | 2025-01-21 |
+| Gartzia Artz | [¡LA MEJOR TABLETA GRÁFICA BARATA de 2024! Review Kamvas 13 Gen3](https://www.youtube.com/watch?v=F0E7Ttq79n4) | 2024-11-28 |
+| Seven Pens | [Notes on Huion Kamvas 13 GEN3 (GS1333)](https://www.youtube.com/watch?v=5QG6NfIFSjU) | 2024-11-08 |
+| Brad Colbow | [Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) | 2024-09-23 |
+| Teoh on Tech | [Huion Kamvas 13 (gen 3) pen display REVIEW: This is a good one](https://www.youtube.com/watch?v=8btDW6eV_HY) | 2024-09-02 |
+| Parka Blogs | [Huion Kamvas 13 gen 3](https://www.parkablogs.com/content/huion-kamvas-13-gen-3-pen-display-2024) |  |
 
 ## Specs
 

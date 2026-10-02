@@ -10,19 +10,16 @@ I think it is a decent choice, but as of 2025 I hope Huion ships an upgrade that
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroy2). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/inspiroy-2-l)
-* [Store page](https://store.huion.com/products/inspiroy-2-l)
-* [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html)
-
-### Reviews
-
-* [Huion Inspiroy 2 Series Pen Tablet Review: Is it Worth it?](https://youtu.be/L6mgOluUApE) - Create Now Sleep Later, 2023-04-24
-* [¡HUION INSPIROY 2 L y M Las tabletas gráficas BARATAS más PREMIUM!! SE HAN SUPERADO](https://www.youtube.com/watch?v=55bgWDoC-Ks) - Gartzia Artz, 2023-02-24
-* [Review: Huion Inspiroy 2 pen tablet - Works great. Good price.](https://youtu.be/mgDDBJf96U8) - Teoh on Tech, 2023-02-15
-* [Huion Inspiroy 2 L Review, a great elegant tablet (with a comparison to Huion Inspiroy 2 Dial)](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) - SweetMonia, 2023-02-14
-* [Review: Huion Inspiroy 2 pen tablet](https://www.parkablogs.com/content/review-huion-inspiroy-2-pen-tablet) - Parka Blogs, 2023-02-11
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/inspiroy-2-l) |  |
+| Huion | [Store page](https://store.huion.com/products/inspiroy-2-l) |  |
+| Huion | [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html) |  |
+| Create Now Sleep Later | [Huion Inspiroy 2 Series Pen Tablet Review: Is it Worth it?](https://youtu.be/L6mgOluUApE) | 2023-04-24 |
+| Gartzia Artz | [¡HUION INSPIROY 2 L y M Las tabletas gráficas BARATAS más PREMIUM!! SE HAN SUPERADO](https://www.youtube.com/watch?v=55bgWDoC-Ks) | 2023-02-24 |
+| Teoh on Tech | [Review: Huion Inspiroy 2 pen tablet - Works great. Good price.](https://youtu.be/mgDDBJf96U8) | 2023-02-15 |
+| SweetMonia | [Huion Inspiroy 2 L Review, a great elegant tablet (with a comparison to Huion Inspiroy 2 Dial)](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) | 2023-02-14 |
+| Parka Blogs | [Review: Huion Inspiroy 2 pen tablet](https://www.parkablogs.com/content/review-huion-inspiroy-2-pen-tablet) | 2023-02-11 |
 
 ## Specs
 

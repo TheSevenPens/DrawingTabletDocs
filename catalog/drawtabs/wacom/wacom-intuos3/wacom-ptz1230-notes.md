@@ -8,9 +8,9 @@ Released in 2004, the PTZ-1230 is the last of Wacom's pen tablets with a square 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos3_2004). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos3/User%27s%20Manual.pdf)
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos3/User%27s%20Manual.pdf) |  |
 
 ## Specs
 

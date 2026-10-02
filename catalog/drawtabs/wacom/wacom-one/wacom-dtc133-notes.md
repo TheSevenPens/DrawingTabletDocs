@@ -8,21 +8,18 @@ This solid but dated beginner tablet - and it is somewhat overpriced for what it
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
-* [Product information](https://www.wacom.com/en-us/comp)
-
-### Reviews
-
-* [Wacom One 13 Touch - 1st Gen. VS 2nd Gen. (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) - Aaron Rutten, 2023-09-19
-* [Wacom One vs iPad](https://www.youtube.com/watch?v=FLHf2G8CxEQ) - Teoh on Tech, 2020-02-14
-* [Review: Wacom One 13.3" Pen Display](https://www.youtube.com/watch?v=Hv2dpHkLAOE) - Teoh on Tech, 2020-02-13
-* [Review: Wacom One 13.3-inch pen display](https://www.parkablogs.com/content/review-wacom-one-133-inch-pen-display) - Parka Blogs, 2020-02-11
-* [REVIEW: The Wacom One](https://www.youtube.com/watch?v=EFvpOWZDGUU) - Brad Colbow, 2020-01-27
-* [Wacom One Pen Display | Good as Cintiq?](https://youtu.be/VPbAUF7AZhA) - Create Now Sleep Later, 2020-01-20
-* [WACOM ONE 1st Gen. - Review](https://www.youtube.com/watch?v=D4DFFH-hPr8) - Aaron Rutten, 2020-01-16
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html) |  |
+| Wacom | [Product information](https://www.wacom.com/en-us/comp) |  |
+| Aaron Rutten | [Wacom One 13 Touch - 1st Gen. VS 2nd Gen. (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) | 2023-09-19 |
+| Teoh on Tech | [Wacom One vs iPad](https://www.youtube.com/watch?v=FLHf2G8CxEQ) | 2020-02-14 |
+| Teoh on Tech | [Review: Wacom One 13.3" Pen Display](https://www.youtube.com/watch?v=Hv2dpHkLAOE) | 2020-02-13 |
+| Parka Blogs | [Review: Wacom One 13.3-inch pen display](https://www.parkablogs.com/content/review-wacom-one-133-inch-pen-display) | 2020-02-11 |
+| Brad Colbow | [REVIEW: The Wacom One](https://www.youtube.com/watch?v=EFvpOWZDGUU) | 2020-01-27 |
+| Create Now Sleep Later | [Wacom One Pen Display \| Good as Cintiq?](https://youtu.be/VPbAUF7AZhA) | 2020-01-20 |
+| Aaron Rutten | [WACOM ONE 1st Gen. - Review](https://www.youtube.com/watch?v=D4DFFH-hPr8) | 2020-01-16 |
 
 ## Specs
 

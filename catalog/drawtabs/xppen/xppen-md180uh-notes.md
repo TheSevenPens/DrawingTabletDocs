@@ -4,22 +4,19 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-pro-19-gen2.html)
-* [User manual](https://www.xp-pen.com/user-manual/artist-pro-19-gen-2.html)
-
-### Reviews
-
-* [XPpen Artist Pro 19 (Gen 2) - review](https://www.youtube.com/watch?v=d8Ft3b002LM) - David Revoy, 2024-11-20
-* [XPPen Artist Pro 19 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1053/xppen-artist-pro-19-gen-2-review-on-gnulinux) - David Revoy, 2024-11-14
-* [Notes on XP-Pen Artist Pro 19 GEN2 (MD180UH)](https://www.youtube.com/watch?v=y2nDFHThC3A) - Seven Pens, 2024-11-03
-* [XPPen Artist Pro 19 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-19-gen-2) - Parka Blogs, 2024-10-24
-* [Xppen Artist Pro 19 (gen 2) review: The era of 4K pen displays approaches](https://www.youtube.com/watch?v=d51hmYgfz5E) - Teoh on Tech, 2024-10-22
-* [¡MI NUEVO TAMAÑO FAVORITO! XP Pen Artist Pro 19 Gen 2](https://www.youtube.com/watch?v=pAUAEPB_P5k) - Gartzia Artz, 2024-08-28
-* [XP Pen Artist Pro 19 (Gen 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) - Brad Colbow, 2024-08-27
-* [Unboxing y Primeras impresiones de la XP Pen Artist Pro 19 Gen 2 ¡DIBUJANDO!](https://www.youtube.com/watch?v=Cm-ukaV3opM) - Gartzia Artz, 2024-08-26
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-19-gen-2.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-19-gen2.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-19-gen-2.html) |  |
+| David Revoy | [XPpen Artist Pro 19 (Gen 2) - review](https://www.youtube.com/watch?v=d8Ft3b002LM) | 2024-11-20 |
+| David Revoy | [XPPen Artist Pro 19 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1053/xppen-artist-pro-19-gen-2-review-on-gnulinux) | 2024-11-14 |
+| Seven Pens | [Notes on XP-Pen Artist Pro 19 GEN2 (MD180UH)](https://www.youtube.com/watch?v=y2nDFHThC3A) | 2024-11-03 |
+| Parka Blogs | [XPPen Artist Pro 19 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-19-gen-2) | 2024-10-24 |
+| Teoh on Tech | [Xppen Artist Pro 19 (gen 2) review: The era of 4K pen displays approaches](https://www.youtube.com/watch?v=d51hmYgfz5E) | 2024-10-22 |
+| Gartzia Artz | [¡MI NUEVO TAMAÑO FAVORITO! XP Pen Artist Pro 19 Gen 2](https://www.youtube.com/watch?v=pAUAEPB_P5k) | 2024-08-28 |
+| Brad Colbow | [XP Pen Artist Pro 19 (Gen 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) | 2024-08-27 |
+| Gartzia Artz | [Unboxing y Primeras impresiones de la XP Pen Artist Pro 19 Gen 2 ¡DIBUJANDO!](https://www.youtube.com/watch?v=Cm-ukaV3opM) | 2024-08-26 |
 
 ## Specs
 

@@ -14,18 +14,15 @@ The dials make it easy to adjust things like brush size while painting. I tended
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/inspiroy-dial-2)
-* [Store page](https://store.huion.com/products/inspiroy-dial-2)
-* [User manual](https://www.huion.com/manual/inspiroy-dial-2)
-
-### Reviews
-
-* [Huion Inspiroy 2 Dial Review:- The elegant power of dials combined with wireless & low IAF](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-dial-review-the-elegant-power-of-dials-combined-with-wireless-low-iaf/) - SweetMonia, 2022-09-19
-* [Huion Inspiroy Dial 2 Graphic Tablet - Review](https://youtu.be/mXKoWtvKDi0) - Create Now Sleep Later, 2022-08-26
-* [Huion Inspiroy Dial 2 (Q630M) review](https://youtu.be/OCNsJ1gqnZ0) - Teoh on Tech, 2022-08-16
-* [Huion Inspiroy Dial 2 Q630M](https://www.parkablogs.com/content/review-huion-inspiroy-dial-2-q630m-pen-tablet) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/inspiroy-dial-2) |  |
+| Huion | [Store page](https://store.huion.com/products/inspiroy-dial-2) |  |
+| Huion | [User manual](https://www.huion.com/manual/inspiroy-dial-2) |  |
+| SweetMonia | [Huion Inspiroy 2 Dial Review:- The elegant power of dials combined with wireless & low IAF](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-dial-review-the-elegant-power-of-dials-combined-with-wireless-low-iaf/) | 2022-09-19 |
+| Create Now Sleep Later | [Huion Inspiroy Dial 2 Graphic Tablet - Review](https://youtu.be/mXKoWtvKDi0) | 2022-08-26 |
+| Teoh on Tech | [Huion Inspiroy Dial 2 (Q630M) review](https://youtu.be/OCNsJ1gqnZ0) | 2022-08-16 |
+| Parka Blogs | [Huion Inspiroy Dial 2 Q630M](https://www.parkablogs.com/content/review-huion-inspiroy-dial-2-q630m-pen-tablet) |  |
 
 ## Specs
 

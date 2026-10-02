@@ -4,19 +4,16 @@
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-pro-27-gen-2.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-pro-27-gen2.html)
-
-### Reviews
-
-* [XpPen Artist Pro 27 Gen2 - review on GNU/Linux](https://www.youtube.com/watch?v=Vq0hs7LeZtg) - David Revoy, 2026-07-24
-* [XpPen Artist Pro 27 Gen2 - review on GNU/Linux](https://www.davidrevoy.com/article1161/xppen-artist-pro-27-gen2-review-on-gnulinux) - David Revoy, 2026-07-24
-* [XPPen Artist Pro 27 (gen 2)](https://www.parkablogs.com/content/xppen-artist-pro-27-gen-2-4k-touchscreen-pen-display) - Parka Blogs, 2026-03-20
-* [XP Pen Artist Pro 27 Review](https://www.youtube.com/watch?v=6ilVAoFGIrc) - Brad Colbow, 2026-03-20
-* [Mejor que la Cintiq Pro 27 costando la mitad | Review Artist Pro 27 Gen 2](https://www.youtube.com/watch?v=kUzmf6ETsmM) - Gartzia Artz, 2026-03-20
-* [XPPen Artist Pro 27 (gen 2) pen display has everything](https://www.youtube.com/watch?v=yDuRYEd732U) - Teoh on Tech, 2026-03-19
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-27-gen-2.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-27-gen2.html) |  |
+| David Revoy | [XpPen Artist Pro 27 Gen2 - review on GNU/Linux](https://www.youtube.com/watch?v=Vq0hs7LeZtg) | 2026-07-24 |
+| David Revoy | [XpPen Artist Pro 27 Gen2 - review on GNU/Linux](https://www.davidrevoy.com/article1161/xppen-artist-pro-27-gen2-review-on-gnulinux) | 2026-07-24 |
+| Parka Blogs | [XPPen Artist Pro 27 (gen 2)](https://www.parkablogs.com/content/xppen-artist-pro-27-gen-2-4k-touchscreen-pen-display) | 2026-03-20 |
+| Brad Colbow | [XP Pen Artist Pro 27 Review](https://www.youtube.com/watch?v=6ilVAoFGIrc) | 2026-03-20 |
+| Gartzia Artz | [Mejor que la Cintiq Pro 27 costando la mitad \| Review Artist Pro 27 Gen 2](https://www.youtube.com/watch?v=kUzmf6ETsmM) | 2026-03-20 |
+| Teoh on Tech | [XPPen Artist Pro 27 (gen 2) pen display has everything](https://www.youtube.com/watch?v=yDuRYEd732U) | 2026-03-19 |
 
 ## Specs
 

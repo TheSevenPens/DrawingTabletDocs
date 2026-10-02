@@ -23,8 +23,9 @@ MANUFACTURER = [
 DOCS_SITE = 'docs.sevenpens.com/drawtab/'
 
 
-def esc(text):
-    return text.replace('[', '\\[').replace(']', '\\]')
+def cell(text):
+    """Text that is safe inside a markdown table cell and link text."""
+    return text.replace('|', '\\|').replace('[', '\\[').replace(']', '\\]').replace('\n', ' ')
 
 
 def live(link):
@@ -60,25 +61,24 @@ def section(entity_ids, family_id=None, page=''):
     where = f'[DrawTabData Explorer]({EXPLORER}{family_id})' if family_id else '[DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/)'
     parts = ['## Links', '', f'These links come from the {where}. To add or fix a link, change it in DrawTabData.', '']
 
+    def row(source, text, url, date, models):
+        return f'| {cell(source)} | [{cell(text)}]({url}){which(models, tablets)} | {date or ""} |'
+
     maker = []
     for type_, label in MANUFACTURER:
         for url, (link, models) in collect(tablets, {type_}, page).items():
-            maker.append(f'* [{label}]({url}){which(models, tablets)}')
-    if maker:
-        parts += ['### From the manufacturer', ''] + maker + ['']
-
+            maker.append(row(link.get('Author') or '', label, url, link.get('PublishDate'), models))
     reviews = list(collect(tablets, {'REVIEW'}, page).items())
     reviews.sort(key=lambda kv: kv[1][0].get('PublishDate') or '', reverse=True)
     lines = []
     for url, (link, models) in reviews:
         author = link.get('Author') or ''
-        title = esc(link.get('Title') or (f'Review by {author}' if author else 'Review'))
-        meta = ', '.join(x for x in (author, link.get('PublishDate') or '') if x)
-        lines.append(f'* [{title}]({url})' + (f' - {meta}' if meta else '') + which(models, tablets))
-    if lines:
-        parts += ['### Reviews', ''] + lines + ['']
-
-    if not maker and not lines:
+        title = link.get('Title') or (f'Review by {author}' if author else 'Review')
+        lines.append(row(author, title, url, link.get('PublishDate'), models))
+    # one table: the manufacturer's links first, then reviews newest first
+    if maker or lines:
+        parts += ['| Source | Link | Date |', '| --- | --- | --- |'] + maker + lines + ['']
+    else:
         parts += ['DrawTabData has no links for this tablet yet.', '']
     return '\n'.join(parts).rstrip('\n') + '\n'
 

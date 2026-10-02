@@ -16,18 +16,15 @@ The main differences are size and resolution. This tablet has a 1920x1200 displa
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.xp-pen.com/product/artist-pro-14-gen-2.html)
-* [Store page](https://www.xp-pen.com/store/buy/artist-pro-14-gen2.html)
-* [User manual](https://www.xp-pen.com/user-manual/artist-pro-14-2nd.html)
-
-### Reviews
-
-* [XPPen Artist Pro 14 (gen 2) review: Incredible 16K Pressure Sensitivity](https://www.youtube.com/watch?v=47oEeFl4SiA) - Teoh on Tech, 2023-07-18
-* [LA VERDADERA CINTIQ PRO KILLER | Review XP Pen Artist 14 Gen 2 | Calidad de 1600€ por 400€](https://www.youtube.com/watch?v=xXaO9-HAC-Q) - Gartzia Artz, 2023-07-07
-* [XP-Pen Artist 14 Gen 2 Review](https://www.youtube.com/watch?v=Pf-UyPBf_9o) - Brad Colbow, 2023-06-26
-* [XPPen Artist Pro 14 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-14-2nd-gen) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-14-gen-2.html) |  |
+| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-14-gen2.html) |  |
+| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-14-2nd.html) |  |
+| Teoh on Tech | [XPPen Artist Pro 14 (gen 2) review: Incredible 16K Pressure Sensitivity](https://www.youtube.com/watch?v=47oEeFl4SiA) | 2023-07-18 |
+| Gartzia Artz | [LA VERDADERA CINTIQ PRO KILLER \| Review XP Pen Artist 14 Gen 2 \| Calidad de 1600€ por 400€](https://www.youtube.com/watch?v=xXaO9-HAC-Q) | 2023-07-07 |
+| Brad Colbow | [XP-Pen Artist 14 Gen 2 Review](https://www.youtube.com/watch?v=Pf-UyPBf_9o) | 2023-06-26 |
+| Parka Blogs | [XPPen Artist Pro 14 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-14-2nd-gen) |  |
 
 ## Specs
 

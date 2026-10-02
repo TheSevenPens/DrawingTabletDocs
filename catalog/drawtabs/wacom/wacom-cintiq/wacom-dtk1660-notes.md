@@ -8,18 +8,15 @@ This is a little bit of a dated tablet. I do suggest you consider getting the Ci
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-1660.html)
-* [Product information](https://cdn.wacom.com/u/support/wiki_migration/c/cd/dtk-1660_en.pdf)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html)
-
-### Reviews
-
-* [Wacom Cintiq 16 Review + SKETCH!](https://youtu.be/6_tMU5z6s9s) - Ross Draws, 2019-02-22
-* [Wacom Cintiq 16 Review (A $650 Wacom Drawing Tablet!)](https://www.youtube.com/watch?v=ye8R0LAbkiE) - Brad Colbow, 2019-01-08
-* [Wacom Cintiq 16 Review - the Much More Affordable Cintiq](https://youtu.be/v4qDRupCLHY) - MobileTechReview, 2019-01-08
-* [Wacom CINTIQ 16 - Drawing Tablet Review](https://youtu.be/nXrFULq096A) - Aaron Rutten, 2019-01-07
+| Source | Link | Date |
+| --- | --- | --- |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-1660.html) |  |
+| Wacom | [Product information](https://cdn.wacom.com/u/support/wiki_migration/c/cd/dtk-1660_en.pdf) |  |
+| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-1660E.html) |  |
+| Ross Draws | [Wacom Cintiq 16 Review + SKETCH!](https://youtu.be/6_tMU5z6s9s) | 2019-02-22 |
+| Brad Colbow | [Wacom Cintiq 16 Review (A $650 Wacom Drawing Tablet!)](https://www.youtube.com/watch?v=ye8R0LAbkiE) | 2019-01-08 |
+| MobileTechReview | [Wacom Cintiq 16 Review - the Much More Affordable Cintiq](https://youtu.be/v4qDRupCLHY) | 2019-01-08 |
+| Aaron Rutten | [Wacom CINTIQ 16 - Drawing Tablet Review](https://youtu.be/nXrFULq096A) | 2019-01-07 |
 
 ## Specs
 

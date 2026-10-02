@@ -8,19 +8,16 @@ A worthy successor to the Kamvas 22 (GS2201) and Kamvas 22 Plus (GS2202) models 
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
-### From the manufacturer
-
-* [Product page](https://www.huion.com/products/kamvas-22-gen-3)
-* [Store page](https://store.huion.com/products/kamvas-22-gen-3)
-
-### Reviews
-
-* [Unboxing & Testing: Huion Kamvas 22 GEN3 (GS2203)](https://www.youtube.com/watch?v=r70dDzgDd8U) - Seven Pens, 2026-03-08
-* [Huion Kamvas 22 (Gen 3) Review](https://www.youtube.com/watch?v=OkoLPFYgiRU) - Brad Colbow, 2026-03-05
-* [HUION HA VUELTO | Kamvas 22 gen 3 La nueva Reina Calidad / Precio grande](https://www.youtube.com/watch?v=2mSJLNawCO4) - Gartzia Artz, 2026-03-03
-* [HUION Kamvas 22 (Gen 3) - A Turning Point For Huion!](https://www.youtube.com/watch?v=IDvACjevj2A) - Adam Duff LUCIDPIXUL, 2026-03-03
-* [Huion Kamvas 22 (Gen 3) review: It's been 6 years](https://www.youtube.com/watch?v=Mbijan2Gm9U) - Teoh on Tech, 2026-03-03
-* [Huion Kamvas 22 (Gen 3)](https://www.parkablogs.com/content/huion-kamvas-22-gen-3-pen-display-review) - Parka Blogs
+| Source | Link | Date |
+| --- | --- | --- |
+| Huion | [Product page](https://www.huion.com/products/kamvas-22-gen-3) |  |
+| Huion | [Store page](https://store.huion.com/products/kamvas-22-gen-3) |  |
+| Seven Pens | [Unboxing & Testing: Huion Kamvas 22 GEN3 (GS2203)](https://www.youtube.com/watch?v=r70dDzgDd8U) | 2026-03-08 |
+| Brad Colbow | [Huion Kamvas 22 (Gen 3) Review](https://www.youtube.com/watch?v=OkoLPFYgiRU) | 2026-03-05 |
+| Gartzia Artz | [HUION HA VUELTO \| Kamvas 22 gen 3 La nueva Reina Calidad / Precio grande](https://www.youtube.com/watch?v=2mSJLNawCO4) | 2026-03-03 |
+| Adam Duff LUCIDPIXUL | [HUION Kamvas 22 (Gen 3) - A Turning Point For Huion!](https://www.youtube.com/watch?v=IDvACjevj2A) | 2026-03-03 |
+| Teoh on Tech | [Huion Kamvas 22 (Gen 3) review: It's been 6 years](https://www.youtube.com/watch?v=Mbijan2Gm9U) | 2026-03-03 |
+| Parka Blogs | [Huion Kamvas 22 (Gen 3)](https://www.parkablogs.com/content/huion-kamvas-22-gen-3-pen-display-review) |  |
 
 ## Specs
 
