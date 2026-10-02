@@ -46,6 +46,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color gamut | Adobe RGB 99% | Adobe RGB 99% |
 | Color depth | 10 bits per channel | 10 bits per channel |
 | Brightness | 235 cd/m² | 235 cd/m² |
+| Peak brightness | — | — |
 | Viewing angle | 178° horizontal<br>178° vertical | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz | 60 Hz |
 | Response time | 14 ms | 14 ms |

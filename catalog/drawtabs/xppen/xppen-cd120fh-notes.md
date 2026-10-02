@@ -33,6 +33,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color gamut | sRGB 127%<br>Adobe RGB 94%<br>NTSC 90% |
 | Color depth | — |
 | Brightness | 220 cd/m² |
+| Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | — |

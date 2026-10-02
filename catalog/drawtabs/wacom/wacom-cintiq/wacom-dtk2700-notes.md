@@ -2,7 +2,7 @@
 
 ## Basics
 
-* [product page](https://estore.wacom.com/en-us/wacom-cintiq-22-dtk2260k0a.html) ([archive](https://archive.is/nlTKO))
+* [user manual](https://101.wacom.com/UserHelpPDF_Legacy/DTK-2700_en.pdf). Wacom has removed the product page.
 * [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2_iiJQA) 2016-11-07
 * [Jazza review of Wacom Cintiq 27 QHD](https://youtu.be/G8SYYpnXmHk) 2016-02-07
 ## Specs
@@ -30,6 +30,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Color gamut | Adobe RGB 97% |
 | Color depth | 10 bits per channel |
 | Brightness | 330 cd/m² |
+| Peak brightness | — |
 | Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 12 ms |

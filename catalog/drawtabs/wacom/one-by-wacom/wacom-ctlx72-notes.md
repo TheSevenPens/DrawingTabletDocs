@@ -107,7 +107,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Pens
 
 * Included pen: a standard 2-button pen. And actually quite a good one. More here: [Wacom 2K Pen (LP-190K)](../../../pens/wacom-pens/wacom-lp190k-notes.md)
-* This tablet ONLY works with the Wacom 2K Pen (LP-190K).
 
 ## Pressure and tilt
 
