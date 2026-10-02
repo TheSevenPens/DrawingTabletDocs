@@ -205,6 +205,14 @@ def unit(path, suffix):
     return lambda t: DASH if g(t, path) is None else f'{num(g(t, path))} {suffix}'
 
 
+def hover(t):
+    """'10–20 mm' when the spec gives a range (MaxHoverMin..MaxHover), else the single max."""
+    mx, mn = g(t, 'Digitizer.MaxHover'), g(t, 'Digitizer.MaxHoverMin')
+    if mx is None:
+        return DASH
+    return f'{num(mn)}–{num(mx)} mm' if mn is not None else f'{num(mx)} mm'
+
+
 def plain(path, fmt=str):
     return lambda t: DASH if g(t, path) is None else fmt(g(t, path))
 
@@ -224,7 +232,7 @@ DIGITIZER = [
     ('Accuracy (corner)', accuracy('Digitizer.AccuracyCorner')),
     ('Report rate', report_rate),
     ('Density', density),
-    ('Max hover', unit('Digitizer.MaxHover', 'mm')),
+    ('Max hover', hover),
 ]
 OTHER_INPUTS = [
     ('Buttons', plain('OtherInputs.Buttons')),

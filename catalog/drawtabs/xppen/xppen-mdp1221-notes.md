@@ -63,7 +63,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Accuracy (corner) | ±1.5 mm |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
-| Max hover | — |
+| Max hover | 10–20 mm |
 {% endtab %}
 
 {% tab title="Pen" %}
