@@ -78,6 +78,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* The included pen is the slightly older PW500. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md).
+
 ## **Links**
 
 * User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)
@@ -90,14 +96,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 This is a MEDIUM-sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro Medium.
 
 <table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.82 x 5.83”</td><td>10.57”</td></tr></tbody></table>
-
-## Aspect ratio
-
-This tablet has a 16:10 aspect ratio.
-
-## **Pen**
-
-The tablet uses the slightly older PW500 pen. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md).
 
 ## **Build quality & design**
 

@@ -29,11 +29,6 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 
 * product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-13-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)
 
-## Active area
-
-* Diagonal length: 13.27"
-* Aspect ratio: 16:9
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
@@ -122,27 +117,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other specs
+## Notes on specs
 
 ### Display specs
 
-* Aspect ratio: 16:9
-* Viewing angle: 165°
 * Contrast ratio: 1000:1
 
-## Included pen
+### Pens
 
-It comes with the PW600L pen. It has an excellent pressure range. The PW600L does not have an eraser like the other PW600 pen models.
+The included PW600L pen has an excellent pressure range. The PW600L does not have an eraser like the other PW600 pen models.
 
-More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
-
-## Compatible pens
-
-The PenTech 4.0 pens work with it. I tested these three:
-
-* PW600L
-* PW600
-* PW600S
+The PenTech 4.0 pens work with it. I tested all three of the listed compatible pens.
 
 More here: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
@@ -164,11 +149,6 @@ In summary:
 * Pointer lag - MODERATE (typical for a pen display)
 
 ### Pen tracking accuracy
-
-Huion states:
-
-* Center: ±0.3mm
-* Corner: ±2mm
 
 RATING: VERY GOOD
 

@@ -94,6 +94,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* I recommend buying and using a PW550 instead of the included PW517. [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
+
 ## Links
 
 * User manual: [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)
@@ -101,10 +107,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q_nhFQ) 2020-03-26
 * [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A) 2020-04-17
 * [2023 13" pen displays compared](../../../recs/comparisons/2023-13inch-pen-displays-compared.md)
-
-## Included pen
-
-It comes with the PW517 pen. I recommend buying and using a PW550 instead. [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
 ## **Removing anti-glare film**
 

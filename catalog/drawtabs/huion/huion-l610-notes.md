@@ -78,6 +78,15 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* Default nib: felt.
+  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
+* More here: [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
+* You can use the Huion PW517 pen with this tablet. But it is not as good as the PW550 and PW550S.
+
 ## Companion video
 
 {% embed url="https://www.youtube.com/watch?v=3-Cl9_xKKKE" %}
@@ -126,17 +135,6 @@ Looks very simple and nice. Is very good. I wouldn't say it has a premium look.
 
 * green LED on upper right indicating USB connection
 * blue LED on upper right indicating Bluetooth operation
-
-## Pens
-
-* Comes with the Huion PW550S pen.
-* Default nib: felt.
-  * I found this a little unusual because the tablet came with 10 replacement plastic nibs.
-* More here: [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
-
-## Other compatible pens
-
-* You can use the Huion PW517 pen with this tablet. But it is not as good as the PW550 and PW550S.
 
 ## Pen pressure
 

@@ -92,6 +92,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+The included PW600L is part of the PW600 series, and it is a very good pen. See: [PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
+
+The tablet works with the other PW600 series pens:
+
+* PW600
+* PW600S
+
 ## Links
 
 * Product page: [https://www.huion.com/products/kamvas-22-gen-3](https://www.huion.com/products/kamvas-22-gen-3)
@@ -103,18 +114,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ## Device
 
 Like many pen displays, it is a simple "black slab of glass," but it does look and feel very professional.
-
-## Included pen
-
-The tablet comes with the PW600L pen. As part of the PW600 series, it is a very good pen. See: [PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
-
-## Compatible pens
-
-The tablet works with the other PW600 series pens:
-
-* PW600
-* PW600S
-* PW600L
 
 ## Display experience
 

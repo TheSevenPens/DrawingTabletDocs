@@ -8,24 +8,6 @@
   * As of September 2026, the Dial 2 V2 the **best non-Wacom pen tablet on the market as of September 2026** and close to what you'd expect from an Intuos Pro.  To be clear: **Wacom's tech is still ahead**. But for the vast majority of people the difference would be undetectable, and based on my testing I couldn't tell the difference either.
   * I'm looking forward to Huion releasing additional upgrades to their other tablets that let them use the PW600 pen.
 
-## Pens
-
-### Included Pen: PW600
-
-See [PW600 series notes](../../pens/huion-pens/huion-pw600-notes.md) for details on the pen
-
-### Pen cross-compatibility
-
-* Tried the tablet with other PW600 pens that shipped with other tablets — **all worked totally fine**, including "P2" PW600s.
-* **PW600S** also tested — works totally fine.
-* **Eraser end tried on all the pens** — worked as expected, with pressure sensitivity.
-
-### Per-pen recognition
-
-* Tried three pens: **PW600, PW600S, PW600L.**
-* **The tablet knows the difference between all three.** In the Huion driver, using one of these brings up a **distinct settings entry for that pen**, with its own **pressure curve** and other settings.
-* Why it matters: per-pen pressure curves mean you can keep a harder curve on one pen and a softer one on another without reconfiguring.&#x20;
-
 ## Device
 
 * Physically identical to the previous Inspiroy Dial 2.&#x20;
@@ -102,9 +84,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Digitizer
+## Notes on specs
 
-* Active area aspect ratio is 16x10.
+### Digitizer
+
 * Active area is comparable in total size to Wacom Intuos Pro 2025 medium (16x9). The Huion is slightly larger
 * &#x20;![](<../../../.gitbook/assets/image (10).png>)
 * Active area size is on the slightly larger end for a medium-sized pen tablet
@@ -114,6 +97,22 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Active area  little bigger than A5 size paper
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+### Pens
+
+* Included pen: see [PW600 series notes](../../pens/huion-pens/huion-pw600-notes.md) for details on the pen
+
+#### Pen cross-compatibility
+
+* Tried the tablet with other PW600 pens that shipped with other tablets — **all worked totally fine**, including "P2" PW600s.
+* **PW600S** also tested — works totally fine.
+* **Eraser end tried on all the pens** — worked as expected, with pressure sensitivity.
+
+#### Per-pen recognition
+
+* Tried three pens: **PW600, PW600S, PW600L.**
+* **The tablet knows the difference between all three.** In the Huion driver, using one of these brings up a **distinct settings entry for that pen**, with its own **pressure curve** and other settings.
+* Why it matters: per-pen pressure curves mean you can keep a harder curve on one pen and a softer one on another without reconfiguring.&#x20;
 
 ## Drawing experience
 

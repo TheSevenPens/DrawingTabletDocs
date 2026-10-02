@@ -140,7 +140,7 @@ The display appears to have a typical anti-glare treatment, visible in the video
 
 **Pixel density**
 
-The resolution of this tablet is 2400 by 1600. Teoh points out that pixelation is not noticeable.
+Teoh points out that pixelation is not noticeable.
 
 
 
@@ -148,7 +148,7 @@ Overall, both Brad and Teoh liked the display colors. Adam had a very different 
 
 **The Pen: PW600C**
 
-The tablet comes with a PW600C pen. Huion says it is part of the PenTech 4.0 series. I have used this series extensively and think it is the best non-Wacom pen series currently on the market.
+Huion says it is part of the PenTech 4.0 series. I have used this series extensively and think it is the best non-Wacom pen series currently on the market.
 
 Huion says that the PW600C is part of the Pentech 4.0 series. I have used the PW600 series pens extensively and as of 2026 the PW600 series is the best non Wacom pen series we have on the market.&#x20;
 
@@ -194,7 +194,7 @@ There is another setting to control pressure softness or firmness. It appears as
 
 **Performance**
 
-The tablet comes with a MediaTek Genio 720 processor. In general, reviewers considered its performance acceptable for drawing, but it is definitely not a high-performance device.
+In general, reviewers considered its performance acceptable for drawing, but it is definitely not a high-performance device.
 
 Brad ran a PassMark benchmark and noticed that it seemed about 30% slower than a Wacom MovinkPad 11.
 

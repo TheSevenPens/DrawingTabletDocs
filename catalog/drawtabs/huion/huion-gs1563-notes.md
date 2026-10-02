@@ -16,21 +16,6 @@ My full notes are not available yet, but I did livestream my unboxing and basic 
 * [https://www.youtube.com/watch?v=-qmdAHY4f40](https://www.youtube.com/watch?v=-qmdAHY4f40)
 * [https://www.youtube.com/watch?v=KSmhwa6MUjM](https://www.youtube.com/watch?v=KSmhwa6MUjM)
 
-### What's in the box
-
-* Kamvas 16 (Gen 3) ×1
-* Foldable Stand ST300 ×1
-* Battery-free Pen PW600L ×1
-* Standard Pen Nibs (inside the Pen Holder) ×10
-* Pen Holder ×1
-* 3-in-1 Cable (1.8m) ×1
-* USB Extension Cable (1.2m) ×1
-* USB-C to USB-C Cable (1m) ×1
-* USB-C to USB-A Cable (1m) ×1
-* Power Adapter ×1
-* Artist Glove ×1
-* Cleaning Cloth ×1
-
 ## Links
 
 * Product page: [https://huion.com/products/pen\_display/Kamvas/kamvas-16-gen-3.html](https://huion.com/products/pen_display/Kamvas/kamvas-16-gen-3.html)
@@ -128,27 +113,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other specs
-
-### Digitizer specs
-
-* Diagonal: 15.8”
-* Accuracy:
-  * Center: ±0.3mm
-  * Corner: ±2mm
+## Notes on specs
 
 ### Display specs
 
-* Aspect ratio: 16:9
 * Contrast ratio: 1000:1
-* Viewing angle: 89°/89°(H)/89°/89°(V) (Typ.)(CR＞10)
 * Color gamut coverage: 99% sRGB, 99% Rec.709, 90% Adobe RGB
 
-## Pen
+### Pens
 
-### Included pen
-
-* The tablet comes with the PW600L, which is a really good pen in terms of pressure handling.
+* The included PW600L is a really good pen in terms of pressure handling.
 * See: [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 ## Ergonomics

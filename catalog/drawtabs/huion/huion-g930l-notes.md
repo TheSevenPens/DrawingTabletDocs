@@ -72,6 +72,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+Consider upgrading the pen
+
+For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [Upgrading from PW517 to PW550](../../pens/huion-pens/upgrading-pw517-to-pw550.md).
+
 ## **Links**
 
 * User manual: [https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf](https://www.huion.com/manaul_pdf/en/Inspiroy%20Giano.pdf)
@@ -87,14 +95,6 @@ Its competitor is the Wacom Intuos Pro Large (PTH-860), and the Giano has some i
 
 * The Giano G930L costs about $200 where the Wacom Intuos Pro Large (PTH-860) costs about $500
 * The Giano's active area is slightly larger than the Wacom Intuos Pro
-
-## **Included pen**
-
-This tablet comes with the Huion PW517 pen.
-
-Consider upgrading the pen
-
-For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [Upgrading from PW517 to PW550](../../pens/huion-pens/upgrading-pw517-to-pw550.md).
 
 ## **Surface texture**
 

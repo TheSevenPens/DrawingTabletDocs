@@ -31,20 +31,6 @@ This companion video covers many but not all of the topics described in these no
 
 * Product page: [https://www.huion.com/products/pen\_display/KamvasPro/Kamvas-Pro-19.html](https://www.huion.com/products/pen_display/KamvasPro/Kamvas-Pro-19.html)
 
-### What's in the box
-
-* Kamvas Pro 19 Pen Display
-* PD Power Adapter
-* 3-in-2 Cable (1.8m)
-* Full-featured USB-C Cable (1.8m)
-* USB-C to USB-C Cable (1.8m)
-* PW600 Digital Pen
-* PW600S Digital Pen
-* PN06 Standard Pen Nib x 5 (inside the pen case)
-* PN06F Felt Pen Nib x 5 (inside the pen case)
-* Pen Case
-* (Built-in nib clip, pen nibs)
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
@@ -133,28 +119,20 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other specs
+## Notes on specs
 
 ### Digitizer specs
 
 * Note: huion describes the tech version as PenTech 4.0
-* Active area Diagonal: 469.23 mm (18.473622")
-* Active area Aspect ratio: 16x9
-* Accuracy: Accuracy:±0.3mm (Center), ±1mm (Corner)
 
 ### Display specs
 
 * Diagonal size: Actually 18.47"
 * Contrast ratio: 1000:1
-* Color gamuts supported
-  * AdobeRGB – 96%
-  * DCI-P3 – 98%
 
-## Pens
+### Pens
 
-### Included pens
-
-Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
+Comes with 2 pens. More manufacturers should do this!
 
 * Pens behave exactly the same in terms of drawing, pressure, etc.
 * Both pens are PenTech 4.0 pens
@@ -162,14 +140,14 @@ Comes with 2 pens: PW600 and PW600S. More manufacturers should do this!
 
 See [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
-### Pen compatibility
-
 **Compatibility across different PenTech versions**
 
 * Older Huion PenTech 3.0 pens DO NOT work with this tablet
 * The newer PenTech 4.0 pens DO NOT work with older tablets
 
 **Notes on backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
+
+## Pens
 
 ### Nibs
 
@@ -213,8 +191,6 @@ VERY GOOD. It has very little parallax. As good as - maybe even a little better 
 ## Drawing experience
 
 ### Pens and Pressure
-
-**Pens** - comes with the PW600 and PW600S pens.
 
 **Driver & Pens** - the driver knows that there are two different pen models and has separate button settings for each. However settings like the driver pressure curve are the shared across both pens.
 

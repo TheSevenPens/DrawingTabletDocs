@@ -74,26 +74,20 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+The tablet is compatible with several pens in the PenTech 3.x series, not just the one it came with. I tested the PW517 and PW550.
+
+As with all PenTech 3.x devices, I recommend purchasing the PW550 pen to use with this tablet because it provides a superior drawing experience.
+
 ## **Links**
 
 * Product site: [https://www.huion.com/products/pen\_tablet/Inspiroy/H1061P.html](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html)
 * [Teoh on tech review of Huion Inspiroy 2 L](https://youtu.be/mgDDBJf96U8) Feb 15, 2023
 * [Create Now Sleep Later review of Huion Inspiroy 2 L](https://youtu.be/L6mgOluUApE) Apr 24, 2023
 * [SweetMonia review Huion Inspiroy 2 L](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) 2023-02-14
-
-## **Pen**
-
-This tablet comes with the Huion PW110 pen.
-
-## **Pen compatibility**
-
-The tablet is compatible with several pens in the PenTech 3.x series, not just the one it came with.
-
-* PW110
-* PW517 (I tested)
-* PW550 (I tested)
-
-As with all PenTech 3.x devices, I recommend purchasing the PW550 pen to use with this tablet because it provides a superior drawing experience.
 
 ## **Photos**
 

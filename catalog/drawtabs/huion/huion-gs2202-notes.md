@@ -94,6 +94,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Display specs
+
+* Size: 22" diagonal
+
+### Pens
+
+* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
+* PW550 - [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
+
 ## Basics
 
 * Active area: 22" diagonal
@@ -103,23 +114,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * [Brad Colbow review of Huion Kamvas 22 Plus](https://youtu.be/GJxGzJgfYGA) 2020-09-08
 * [Nemanja Sekulic review of Huion Kamvas 22 Plus](https://youtu.be/mlYTRD2KmeY) 2022-03-04
-
-### Display specs
-
-* Size: 22" diagonal
-* Aspect ratio: 16x9
-
-## Pen
-
-### Included pen
-
-* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
-
-### Compatible pens
-
-* PW517 - [Huion PW517 pen notes](../../pens/huion-pens/huion-pw517-notes.md)
-* PW550 - [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
-* PW550S
 
 ## Display experience
 
@@ -145,7 +139,7 @@ Color accuracy: did not measure.
 
 ### Color gamut
 
-This is a wide color gamut display with a range of 140% sRGB.
+This is a wide color gamut display.
 
 Compared to many other displays, you may find that greens and reds are more intense than you might expect. Some people will love this - for example when watching a movie - but I found it some colors distractingly intense.
 

@@ -94,9 +94,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Included pen
+## Notes on specs
 
-The tablet comes with the PW517 pen.
+### Display specs
+
+* Contrast ratio: 1000:1
+
+### Pens
 
 As with all Huion tablets that comes with the PW517 pen, I recommend you also buy the PW550 pen which is much better and can really upgrade the drawing experience. More here [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
@@ -104,11 +108,6 @@ As with all Huion tablets that comes with the PW517 pen, I recommend you also bu
 
 * A bit of diagonal wobble at slow speeds. Not too much and can be compensated for by turning on smoothing/stabilization in your drawing app. The wobble is not visible at faster speeds and depending on how you draw you may not even notice it.
   * In Krita I used weighted smoothing with a distance value of 200.
-
-## Display specs
-
-* Pixel density: 142 PPI
-* Contrast ratio: 1000:1
 
 ## Anti-glare sparkle
 
