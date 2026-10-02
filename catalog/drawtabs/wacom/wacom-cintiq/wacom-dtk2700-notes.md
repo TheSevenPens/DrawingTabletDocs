@@ -1,8 +1,5 @@
 # Wacom Cintiq 27 HD 2015 (DTK-2700) notes
 
-## Basics
-
-* [user manual](https://101.wacom.com/UserHelpPDF_Legacy/DTK-2700_en.pdf). Wacom has removed the product page.
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.

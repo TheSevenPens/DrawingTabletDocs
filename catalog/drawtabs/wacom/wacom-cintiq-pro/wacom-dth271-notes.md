@@ -148,10 +148,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * This wasn't an exclusive event. I registered for it like everyone else when Wacom publicly revealed the event.
 * Wacom published the Q\&A from the demo event here: [https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A\_Oct%202022.pdf?sid=TV2:AJoJnUTl8](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A_Oct%202022.pdf?sid=TV2:AJoJnUTl8)
 
-## User manual
-
-[http://101.wacom.com/UserHelp/en/TOC/DTH271.html](http://101.wacom.com/UserHelp/en/TOC/DTH271.html)
-
 ## Other reviews
 
 * Many others have created very thoughtful reviews

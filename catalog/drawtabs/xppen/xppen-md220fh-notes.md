@@ -109,10 +109,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other links
-
-[Brad Colbow review of XP-Pen Artist 22 Plus](https://www.youtube.com/watch?v=YfEfGOJOQJs) 2023-11-20
-
 ## Anti-glare sparkle
 
 Rating: VERY GOOD. very low amount of AG sparkle visible. Your eyes would have to be within a few inches to see it.

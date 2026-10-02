@@ -6,10 +6,6 @@ Overall, it makes for a very good basic tablet. That's not surprising. The table
 
 This brand is very new so this is a very good start for them. As always with new brands, we have to see how the devices and customer support and community adoption works in the long term.&#x20;
 
-## Notes
-
-I unboxed and tested this tablet live on stream: [https://youtube.com/live/YSzg\_U\_3Rn0?feature=share](https://youtube.com/live/YSzg_U_3Rn0?feature=share)&#x20;
-
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). To add or fix a link, change it in DrawTabData.

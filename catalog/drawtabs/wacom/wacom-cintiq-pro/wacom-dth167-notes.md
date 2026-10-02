@@ -6,8 +6,6 @@ An EXCELLENT pen display.
 
 Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16 from 2021 competes with them strongly. Wacom may have improved the new models' support for color or added support for higher refresh rates, but they did not improve on the already great drawing experience of this tablet.
 
-User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH167.html](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
-
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.

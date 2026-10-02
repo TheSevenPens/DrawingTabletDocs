@@ -4,10 +4,6 @@
 
 These here are some of my initial thoughts on this device.
 
-### Product information
-
-Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
-
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.

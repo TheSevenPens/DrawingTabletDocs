@@ -24,6 +24,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * [Notes on Huion Frego M (L610)](https://www.youtube.com/watch?v=3-Cl9_xKKKE) - Seven Pens, 2024-10-11
 * [Review: Huion Inspiroy Frego pen tablet - Works great with Android, iPad, iOS](https://www.youtube.com/watch?v=W5vTPouuQtM) - Teoh on Tech, 2024-09-13
+* [Best Graphics Tablet for Artists in 2024? Huion Inspiroy Frego Review](https://www.youtube.com/watch?v=OpVhKZVFusQ) - Create Now Sleep Later, 2024-09-01
 * [Review: Huion Inspiroy Frego pen tablet](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) - Parka Blogs, 2024-08-23
 
 ## Specs
@@ -111,7 +112,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Product pages
   * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-S.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)
-* Create Now Sleep Later - [Review of Huion Inspiroy Frego (L610)](https://www.youtube.com/watch?v=OpVhKZVFusQ) 2024-09-01
 
 ## Basics
 

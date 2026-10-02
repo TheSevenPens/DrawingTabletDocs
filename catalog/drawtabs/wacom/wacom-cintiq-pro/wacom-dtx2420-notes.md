@@ -19,8 +19,6 @@ There are two models of the Cintiq Pro 24 (DTx-2420):
 * Cintiq Pro 24 (DTK-2420) - which DOES NOT support touch
 * Cintiq Pro 24 touch (DTH-2420) - which DOES support touch
 
-User manual: [https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html](https://101.wacom.com/UserHelp/en/TOC/DTK-2420.html)
-
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
