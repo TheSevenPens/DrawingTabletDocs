@@ -10,6 +10,23 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 <figure><img src="../../../.gitbook/assets/huion-hs611-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/hs611)
+* [Store page](https://store.huion.com/products/huion-hs611)
+* [User manual](https://www.huion.com/manual/hs611)
+
+### Reviews
+
+* [Review: Huion HS611 drawing tablet (10 x 6", tilt, Android)](https://www.youtube.com/watch?v=1RcUCSL5azU) - Teoh on Tech, 2021-02-14
+* [Huion HS611 Drawing Tablet review | All you need?](https://www.youtube.com/watch?v=WEXXbXDrd-Y) - Nemanja Sekulic, 2020-04-28
+* [Huion HS611 Review](https://www.youtube.com/watch?v=IHV7LsbxqsU) - Brad Colbow, 2020-03-23
+* [Huion HS611](https://www.parkablogs.com/content/review-huion-hs611-drawing-tablet-has-tilt-sensitivity-and-supports-android) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
@@ -83,13 +100,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Pens
 
 * The included pen is the slightly older PW500. For more details about the pen, see [Huion PW500 pen notes](../../pens/huion-pens/huion-pw500-notes.md).
-
-## **Links**
-
-* User manual: [https://www.huion.com/user-manual-69](https://www.huion.com/user-manual-69)
-* [Teoh on Tech review of Huion HS611](https://www.youtube.com/watch?v=1RcUCSL5azU) 2021-02-14
-* [Brad Colbow review of Huion HS611](https://www.youtube.com/watch?v=IHV7LsbxqsU) 2020-03-23
-* [Nemanja Sekulic review of Huion HS611](https://www.youtube.com/watch?v=WEXXbXDrd-Y) 2020-04-28
 
 ## **Active area size**
 

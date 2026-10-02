@@ -8,21 +8,32 @@ Very convenient that the tablet comes with all the cables you need to connect vi
 
 12" is the smallest I would recommend for a pen tablet. I personally prefer larger sizes (19" to 22") but for many this size should work.&#x20;
 
-Unboxing and testing stream: [https://youtube.com/live/teEGX7G-gYs?feature=share](https://youtube.com/live/teEGX7G-gYs?feature=share)
-
-## Links
-
-* [Teoh on Tech - Review of Artist 12 3rd](https://www.youtube.com/watch?v=jkpUTfQGLwc) 2025-12-17
-* [Brad Colbow - Review of Artist 12 3rd](https://www.youtube.com/watch?v=LlqGM0rjG3g) 2025-11-17
-
 ## Basics
 
 ### Product information
 
-* Product page: [https://www.xp-pen.com/product/artist-12-3rd.html](https://www.xp-pen.com/product/artist-12-3rd.html)
 * Name: XP-Pen Artist 12 GEN3
   * Actually the name on the box is "XP-Pen Artist 12 3rd" but to be consistent with how I discuss other tablets I am using "GEN3" in the name.
-* User manual: [https://www.xp-pen.com/user-manual/artist-12-3rd.html](https://www.xp-pen.com/user-manual/artist-12-3rd.html)
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/artist-12-3rd.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-12-3rd.html)
+* [User manual](https://www.xp-pen.com/user-manual/artist-12-3rd.html)
+
+### Reviews
+
+* [XPpen Artist 12 3rd review](https://www.youtube.com/watch?v=7deVfSmdSdc) - David Revoy, 2026-08-27
+* [XPpen Artist 12 3rd - review on GNU/Linux](https://www.davidrevoy.com/article1169/xppen-artist-12-3rd-review-on-gnulinux) - David Revoy, 2026-08-27
+* [XPPen Artist 12 3rd (review): Pen is even better now](https://www.youtube.com/watch?v=jkpUTfQGLwc) - Teoh on Tech, 2025-12-17
+* [XP Pen Artist 12 3rd Review](https://www.youtube.com/watch?v=LlqGM0rjG3g) - Brad Colbow, 2025-11-17
+* [Unboxing & Testing: XP-Pen Artist 12 GEN3 (CD121FH)](https://youtube.com/live/teEGX7G-gYs?feature=share) - Seven Pens, 2025-10-25
+* [Review Artist 12 Gen 3 | TOP mejores Tabletas Gráficas principiantes 2026](https://www.youtube.com/watch?v=2dM1gbjzGgQ) - Gartzia Artz, 2025-10-20
+* [XPPen Artist 12 3rd](https://www.parkablogs.com/content/xppen-artist-12-gen-3-review) - Parka Blogs
 
 ## Specs
 

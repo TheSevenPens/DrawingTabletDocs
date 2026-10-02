@@ -4,6 +4,23 @@
 
 Overall decent tablet for an entry level 16" pen display. It does have a a very a noticable amount of diagonal wobble. Normally I don't recommend tablets with this much diagonal wobble. but since it can he worked around, it might work well as a budget choice.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/artist-16-2nd-gen.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-16-2nd-gen.html)
+* [User manual](https://www.xp-pen.com/user-manual/artist-16-2nd.html)
+
+### Reviews
+
+* [XP-Pen Artist 16 (2nd Gen) Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) - Teoh on Tech, 2022-06-06
+* [XP-Pen Artist 16 (2nd Gen) Review](https://youtu.be/4czV7jv9mPg) - Brad Colbow, 2022-06-01
+* [XP-Pen Artist 16 (2nd Gen) pen display review](https://youtu.be/0yKRSAE8_Ng) - Teoh on Tech, 2022-05-26
+* [XP-Pen Artist 16 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-16-2nd-gen) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.
@@ -98,13 +115,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Device
 
 * The ports are on the right side. Both are recessed into the tablet.
-
-## Links
-
-* Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)
-* [Brad Colbow review of XP-Pen Artist 16 GEN2](https://youtu.be/4czV7jv9mPg) 2022-06-01
-* [Teoh on Tech review of XP-Pen Artist 16 GEN2](https://youtu.be/0yKRSAE8_Ng) 2022-05-26
-* [Teoh on Tech: XP-Pen Artist 16 GEN2 Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) 2022-06-06
 
 ## Diagonal wobble
 

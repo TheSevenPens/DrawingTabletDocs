@@ -4,6 +4,25 @@
 
 I've been very satisfied with this tablet.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/kamvas-pro-24-4k)
+* [Store page](https://store.huion.com/products/kamvas-pro-24-4k)
+* [User manual](https://www.huion.com/manual/kamvas-pro-24-4k)
+* [User manual](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024(4K).pdf)
+
+### Reviews
+
+* [2 Year Review of Huion Kamvas Pro 24 (4K)!](https://www.youtube.com/watch?v=XwD_7x2S-7g) - MossCharmly presents, 2023-12-09
+* [Huion Kamvas 24 Pro 4k Review (2021)](https://www.youtube.com/watch?v=HvQxDrzgbOo) - Brad Colbow, 2021-09-02
+* [Review: Huion Kamvas Pro 24 (4K)](https://www.youtube.com/watch?v=r8k5qsgJXlM) - Teoh on Tech, 2021-08-17
+* [Huion Kamvas Pro 24 (4K) Unboxing + First Impression](https://www.youtube.com/watch?v=f200vERwcms) - Teoh on Tech, 2021-07-30
+* [Artist Review: Huion Kamvas Pro 24 (4K) pen display](https://www.parkablogs.com/content/artist-review-huion-kamvas-pro-24-4k-pen-display) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). Click a model ID to see its full record there.
@@ -96,13 +115,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ## Basics
 
 * User manual [https://www.huion.com/manaul\_pdf/de/Kamvas%20Pro%2024(4K).pdf](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024\(4K\).pdf)
-
-## **Links**
-
-* User manual: [https://www.huion.com/user-manual-90](https://www.huion.com/user-manual-90)
-* [MossCharmly 2 year review Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=XwD_7x2S-7g) 2023-12-09
-* [Brad Colbow review of Review of Huion Kamvas Pro 24 4K](https://www.youtube.com/watch?v=HvQxDrzgbOo) 2021-09-02
-* [Teoh Yi Chie review of Huion Kamvas Pro 24 4K ](https://www.youtube.com/watch?v=r8k5qsgJXlM)2021-09-17
 
 ## **Cost**
 

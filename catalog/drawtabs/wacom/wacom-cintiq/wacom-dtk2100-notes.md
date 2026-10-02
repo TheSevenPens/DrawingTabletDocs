@@ -4,6 +4,12 @@
 
 NOTE: This is a second generation of the Cintiq 21 UX (DTZ-2100) that was released in 2005. [Wacom Cintiq 21UX 2005 (DTZ-2100) notes](wacom-dtz2100-notes.md).
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+
+DrawTabData has no links for this tablet yet.
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
@@ -109,8 +115,6 @@ A fixed 3-in-1 cable coming out the back splits into three ends
 
 <figure><img src="../../../../.gitbook/assets/wacom-dtk2100-notes-2.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../../.gitbook/assets/wacom-dtk2100-notes-3.jpg" alt=""><figcaption></figcaption></figure>
 
 ## DVI-I (Dual Link) connector
@@ -118,6 +122,4 @@ A fixed 3-in-1 cable coming out the back splits into three ends
 <figure><img src="../../../../.gitbook/assets/wacom-dtk2100-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 To connect this to a modern computer you via HDMI or DisplayPort will need an adapter. Make sure you get one that supports 1600x1200 resolution at 60hz. Not all adapters are capable of that.
-
-
 

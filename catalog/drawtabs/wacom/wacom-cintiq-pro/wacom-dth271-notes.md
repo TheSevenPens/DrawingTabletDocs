@@ -7,6 +7,28 @@
 * **For creative professionals** - who deeply care about color this may be a worthwhile and useful purchase that replaces the need to buy a pen display and a reference monitor
 * **For everyone else** - especially if you don't have professional color requirements, the value you get may not justify the cost.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq-pro-27)
+* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH271.html)
+* [Product information](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A_Oct%202022.pdf?sid=TV2:AJoJnUTl8)
+* [Product information](https://support.wacom.com/hc/en-us/articles/9170502251927-What-are-the-accessory-pens-I-can-use-with-the-Wacom-Cintiq-Pro-27-2022-)
+
+### Reviews
+
+* [WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) - Adam Duff, 2026-01-28
+* [REVIEW CINTIQ PRO 27 | La mejor (y más cara) tableta gráfica que ha existido | Review en Español](https://www.youtube.com/watch?v=IzBZx3LBclk) - Gartzia Artz, 2022-12-09
+* [Is the Wacom Cintiq Pro 27 Worth The Upgrade?](https://www.youtube.com/watch?v=biol42fF0a0) - Create Now Sleep Later, 2022-11-05
+* [Wacom Cintiq Pro 27 Review - Buyers Remorse and Frustration. Potentially the Greatest Pen Display.](https://youtu.be/gKRxy3Yjjoo) - Bara AlMakadma, 2022-10-28
+* [Ultimate Wacom CINTIQ PRO 27 Review + Ergo Stand & Pro Pen 3](https://youtu.be/LybW8WZBrrg) - Aaron Rutten, 2022-10-14
+* [Wacom Cintiq Pro 27 Review](https://youtu.be/x59b4nR3Y3E) - Brad Colbow, 2022-10-14
+* [My First Impression of the Wacom CINTIQ PRO 27](https://www.youtube.com/watch?v=6S5pXLsThj0) - Aaron Rutten, 2022-09-27
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
@@ -108,17 +130,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
   * Wacom Pro Pen 2 (KP-504E)
   * Wacom Grip Pen (KP-501E)
   * Wacom Art Pen (KP-701E)
-* [Wacom's list of supported pens for the Cintiq Pro 27](https://support.wacom.com/hc/en-us/articles/9170502251927-What-are-the-accessory-pens-I-can-use-with-the-Wacom-Cintiq-Pro-27-2022-)
 * The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2. See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
 
-## Links
+## Other links
 
-* [Adam Duff - WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) 2026-01-28
 * [Reddit /u/DreamStitcher review of Cintiq Pro 27](https://www.reddit.com/r/wacom/comments/ytzpgr/cintiq_pro_27_honest_review/) 2022-11
-* [Aaron Rutten review of Cintiq Pro 27](https://youtu.be/LybW8WZBrrg) 2022-10-14
-* [Brad Colbow review of Cintiq Pro 27](https://youtu.be/x59b4nR3Y3E) 2022-10-14
-* [Bara AlMakadma review of Cintiq Pro 27](https://youtu.be/gKRxy3Yjjoo) 2022-10-28
-* [Create Now Sleep Later review of Cintiq Pro 27](https://www.youtube.com/watch?v=biol42fF0a0) 2022-11
 
 ## Notes
 
@@ -131,10 +147,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * I attended Wacom's demo event on Oct 5 2022 before the product was launched.
 * This wasn't an exclusive event. I registered for it like everyone else when Wacom publicly revealed the event.
 * Wacom published the Q\&A from the demo event here: [https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A\_Oct%202022.pdf?sid=TV2:AJoJnUTl8](https://content.wacom.com/acton/attachment/43270/f-82fbd755-3ca6-41b0-8603-0d7b59d041c2/1/-/-/-/-/Wacom%20Cintiq%20Pro%2027%20Product%20Event%20Q%26A_Oct%202022.pdf?sid=TV2:AJoJnUTl8)
-
-## User manual
-
-[http://101.wacom.com/UserHelp/en/TOC/DTH271.html](http://101.wacom.com/UserHelp/en/TOC/DTH271.html)
 
 ## Other reviews
 

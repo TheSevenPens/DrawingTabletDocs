@@ -4,6 +4,26 @@
 
 This solid but dated beginner tablet - and it is somewhat overpriced for what it is. If you can get it used for $150 it, then that is a good deal.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
+* [Product information](https://www.wacom.com/en-us/comp)
+
+### Reviews
+
+* [Wacom One 13 Touch - 1st Gen. VS 2nd Gen. (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) - Aaron Rutten, 2023-09-19
+* [Wacom One vs iPad](https://www.youtube.com/watch?v=FLHf2G8CxEQ) - Teoh on Tech, 2020-02-14
+* [Review: Wacom One 13.3" Pen Display](https://www.youtube.com/watch?v=Hv2dpHkLAOE) - Teoh on Tech, 2020-02-13
+* [Review: Wacom One 13.3-inch pen display](https://www.parkablogs.com/content/review-wacom-one-133-inch-pen-display) - Parka Blogs, 2020-02-11
+* [REVIEW: The Wacom One](https://www.youtube.com/watch?v=EFvpOWZDGUU) - Brad Colbow, 2020-01-27
+* [Wacom One Pen Display | Good as Cintiq?](https://youtu.be/VPbAUF7AZhA) - Create Now Sleep Later, 2020-01-20
+* [WACOM ONE 1st Gen. - Review](https://www.youtube.com/watch?v=D4DFFH-hPr8) - Aaron Rutten, 2020-01-16
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). Click a model ID to see its full record there.
@@ -105,16 +125,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
   * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
   * [**r/wacom - What pens are compatible with the Wacom One?**](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022-01-13
 
-## Basics
-
-* User manual: [http://101.wacom.com/UserHelp/en/TOC/DTC133.html](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
-
-## Links
-
-* [Teoh On Tech review of Wacom One 2019 DTC-133](https://www.youtube.com/watch?v=Hv2dpHkLAOE)
-* [Brad Colbow review of Wacom One 2018 DTC-133](https://www.youtube.com/watch?v=EFvpOWZDGUU)
-* [Create Now Sleep Later review of Wacom One 2019 DTC-133](https://youtu.be/VPbAUF7AZhA)
-* [Aaron Rutten review of Wacom One 2019 DTC-133](https://www.youtube.com/watch?v=D4DFFH-hPr8)
+## Other links
 
 ### Newer versions
 

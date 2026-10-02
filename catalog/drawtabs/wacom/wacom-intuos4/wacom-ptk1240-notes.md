@@ -12,6 +12,19 @@ So, although I love this tablet, I would not typically recommend it for someone 
 
 If you want to learn about extra-large pen tablets in general, see: [Extra-Large pen tablets.](../../../../guides/general/extra-large-pen-tablets.md)
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos4/User%27s%20Manual.pdf)
+
+### Reviews
+
+* [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://youtu.be/Tv_qX1Z9-wI) - Seven Pens, 2022-07-25
+* [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://www.youtube.com/watch?v=Tv_qX1Z9-wI) - Seven Pens, 2022-07-25
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). Click a model ID to see its full record there.
@@ -105,8 +118,6 @@ Wacom has not produced the PTK 1240 for many years, and it is no longer listed o
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-1.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 Looking at the sizes of other tablets that Wacom has made, which go from small, medium, large, to extra-large, you can see that, in general, the size of the active area roughly doubles as the size category increases.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-2.png" alt=""><figcaption></figcaption></figure>
@@ -115,13 +126,9 @@ Looking at the sizes of other tablets that Wacom has made, which go from small, 
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-4.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Device
 
 The PTK 1240 reflects a lot of design decisions that were common for tablets of its era and size.
-
-
 
 It is **extremely thick.** At its thickest, the Pen tablet is over three times the thickness of modern professional tablets, which tend to be around 8 mm.
 
@@ -139,11 +146,7 @@ In pro pen tablets of this era, Wacom had a **clear sheet of plastic** that you 
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptk1240-notes-8.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Digitizer
-
-
 
 I think the maximum number of pressure levels supported is more than enough for most people, despite the fact that modern tablets have 8,000 or even 16,000 levels of pressure.&#x20;
 
@@ -178,6 +181,4 @@ This tablet is huge and heavy. Using it with a stand puts even more equipment on
 My solution to this problem was to minimize the use of the keyboard by using a TourBox controller. The controller allows me to put my left hand on it, which maps all my shortcut keys, and keep my right hand holding the pen on the tablet. This means that 99% of the time, I never need to touch a keyboard.
 
 Personally, if I did not use a TourBox with this device, I think it would be somewhat frustrating because hitting keyboard shortcuts would be rather awkward.
-
-
 

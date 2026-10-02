@@ -6,6 +6,25 @@ A decent, slightly older pen display. I highly recommend getting the Kamvas 13 G
 
 Another budget alternative is the XP-Pen Artist 13 GEN2.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/kamvas-13)
+* [Store page](https://store.huion.com/products/kamvas-13)
+* [User manual](https://www.huion.com/manual/kamvas-13)
+
+### Reviews
+
+* [Huion Kamvas 13 Drawing Performance](https://www.youtube.com/watch?v=LZqJ6snjWTc) - Teoh on Tech, 2020-07-07
+* [Review: Huion Kamvas 13 Pen Display (Just $239)](https://www.youtube.com/watch?v=yn1eJFsrFnY) - Teoh on Tech, 2020-05-01
+* [Huion Kamvas 13 Review: Huion beats Wacom?](https://youtu.be/rgaqRLhct0A) - Create Now Sleep Later, 2020-04-17
+* [Wacom One - VS -  Huion Kamvas 13 - Smackdown!](https://www.youtube.com/watch?v=vP_-kE0b8WE) - Brad Colbow, 2020-04-06
+* [Huion Kamvas 13 Review (2020 version)](https://www.youtube.com/watch?v=ku8x1q_nhFQ) - Brad Colbow, 2020-03-26
+* [Huion KAMVAS 13](https://www.parkablogs.com/content/review-huion-kamvas-13-pen-display-just-us-239) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). Click a model ID to see its full record there.
@@ -101,12 +120,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * I recommend buying and using a PW550 instead of the included PW517. [Huion PW550 series pens notes](../../pens/huion-pens/huion-pw550-notes.md)
 
-## Links
+## Other links
 
-* User manual: [https://www.huion.com/user-manual-70](https://www.huion.com/user-manual-70)
-* [Teoh on Tech review of Huion Kamvas 13](https://www.youtube.com/watch?v=yn1eJFsrFnY) 2020-05-01
-* [Brad Colbow review of Huion Kamvas 13](https://www.youtube.com/watch?v=ku8x1q_nhFQ) 2020-03-26
-* [Create Now Sleep Later review of Huion Kamvas 13](https://youtu.be/rgaqRLhct0A) 2020-04-17
 * [2023 13" pen displays compared](../../../recs/comparisons/2023-13inch-pen-displays-compared.md)
 
 ## **Removing anti-glare film**

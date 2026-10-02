@@ -14,7 +14,18 @@
 * The ony way you can tell which version is that the V2 is the model name on the back of the tablet.
 * Design is very nice - good looking tablet
 
+## Links
 
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/inspiroy-dial-2-v2)
+* [Store page](https://store.huion.com/products/inspiroy-dial-2-v2)
+
+### Reviews
+
+* [Huion Dial 2 V2 unboxing and testing](https://www.youtube.com/watch?v=flGAjQkXULw) - Seven Pens, 2026-09-15
 
 ## Specs
 
@@ -176,29 +187,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 <figure><img src="../../../.gitbook/assets/20260914_121831 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/20260914_122557 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../.gitbook/assets/20260914_122601 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/20260914_122727 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../../.gitbook/assets/20260914_122741 (Large).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-
-
-
 

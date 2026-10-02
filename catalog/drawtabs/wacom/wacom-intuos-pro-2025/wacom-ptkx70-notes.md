@@ -16,12 +16,6 @@ But do check this document for any updates since the original video was publishe
 
 {% embed url="https://www.youtube.com/watch?v=Q2rH32pBpq0" %}
 
-## Links
-
-* [Jaugy - Wacom Intuos Pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) 2025-11-03
-* [Aaron Rutten - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Rf66Lqx9NFc) 2025-04-26
-* [Brad Colbow - Review of the Intuos Pro 2025](https://www.youtube.com/watch?v=Ko0sovi0rX4) 2025-04-14
-
 ## Changes to key features from 2017 edition
 
 * No improvement to drawing performance
@@ -69,6 +63,32 @@ From 2009 to 2025, there have been 4 editions of professional pen tablets from W
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2025). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) (PTK-470)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) (PTK-670)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) (PTK-870)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) (PTK-470)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) (PTK-670)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) (PTK-870)
+
+### Reviews
+
+* [Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc) - JEEJON 技冏, 2025-11-03
+* [Unboxing the Wacom Intuos Pro 2025 - First Impressions](https://www.youtube.com/watch?v=Abegz9US7Lg) - Aaron Rutten, 2025-07-13
+* [Wacom Intuos Pro Large and Small: Unboxing and Q&A](https://www.youtube.com/watch?v=A9Rk_BdMR50) - Seven Pens, 2025-05-24 (PTK-470, PTK-870)
+* [I Don't Recommend The New Intuos Pro 2025 Series](https://www.youtube.com/watch?v=KawJkmmDuPE) - JEEJON 技冏, 2025-05-07
+* [2025 Intuos Pro - Everything You Need to Know (Review)](https://www.youtube.com/watch?v=Rf66Lqx9NFc) - Aaron Rutten, 2025-04-26
+* [Notes on Wacom Intuos Pro 2025](https://www.youtube.com/watch?v=Q2rH32pBpq0) - Seven Pens, 2025-04-23
+* [2025 Wacom Intuos Pro Review](https://www.youtube.com/watch?v=Ko0sovi0rX4) - Brad Colbow, 2025-04-14
+* [Wacom Intuos Pro 2025 Medium (PTK-670) Live Unboxing and Testing](https://www.youtube.com/watch?v=Vs9IZ0cejKY) - Seven Pens, 2025-03-31 (PTK-670)
+* [Live Wacom Intuos Pro 2025 PTK-670 medium testing and Q&A](https://www.youtube.com/watch?v=fMjU-0ciml0) - Seven Pens, 2025-03-31 (PTK-670)
 
 ## Specs
 
@@ -291,12 +311,6 @@ Because the Intuos Pro 2026 series is thinner than the Intuos Pro 2017 series, a
 
 <figure><img src="../../../../.gitbook/assets/vlcsnap-2026-09-24-17h30m25s194.png" alt=""><figcaption><p>Wacom CEO Nobu Ide speaking about the Intuos Pro 2025 tablets.</p></figcaption></figure>
 
-
-
-
-
-
-
 ### Usage notes on dials
 
 * Be aware that the dials only support rotation. They do not support pressing the dial as a third action. This is not a problem, but I am used to doing that with the TourBox dials, so I wanted to mention it.
@@ -414,8 +428,6 @@ In the future: ...
 The bezel is highly polarizing for a lot of people. To be clear, there are two aspects of the bezel to take into consideration. First is the reduction in bezel size. Second is that the lip at the edge of the tablet is very slightly more raised than on the previous generation of Intuos Pro. The smaller bezel seems to irritate some people, and for other people it just seems to take some time to adjust. Personally, after using the Intuos Pro for so long with large bezels, I have to admit it feels weird to use the new tablet with much smaller bezels. Even after a month or so, it still feels a little bit weird. It's not bad, just different. Again, some people have a much stronger reaction to this. And then the raised edge of the tablet causes some people more discomfort than the old model. Because your hand will statistically feel that raised edge much more often with the new design, and because it is more noticeable, some people find it irritating, and in fact some people find it painful.
 
 Videos about it:
-
-* [Jaugy - I don't recommend the new Intuos Pro 2025 series](https://www.youtube.com/watch?v=KawJkmmDuPE) 2025-05-07
 
 ## Thickness
 

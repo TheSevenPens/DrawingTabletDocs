@@ -19,11 +19,25 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 * Wacom One S (2023) - [CTC4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl)
 * Wacom One M (2023) - [CTC6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl)
 
-### Links
+## Links
 
-* Wacom One S user manual - [https://101.wacom.com/userhelp/en/toc/ctc4110wl.html](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html)
-* Wacom One M user manual - [https://101.wacom.com/userhelp/en/toc/ctc6110wl.html](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html)
-* [Brad Colbow review of Wacom One M and Wacom One S](https://www.youtube.com/watch?v=5CPEqVOTRN0) 2023-09-05
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_one_2023). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
+* [Store page](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) (CTC-4110WL)
+* [Store page](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) (CTC-6110WL)
+* [User manual](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html) (CTC-4110WL)
+* [User manual](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html) (CTC-6110WL)
+
+### Reviews
+
+* [Pressure Improvements for Wacom One 2023 pen tablets (firmware update 1.7.0.0)](https://www.youtube.com/watch?v=_A6hmEay-xs) - Seven Pens, 2025-02-23
+* [Wacom One M review](https://www.androidpolice.com/wacom-one-m-review/) - Android Police, 2024-04-26 (CTC-6110WL)
+* [Wacom One Small & Medium 2023 - Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=w7QLQFOK_eU) - Aaron Rutten, 2023-09-15
+* [Pressure problems with new Wacom One (2023/GEN2) drawing tablets](https://www.youtube.com/watch?v=415ngQOHiME) - Seven Pens, 2023-09-11
+* [Review: Wacom One Pen Tablets](https://www.youtube.com/watch?v=5CPEqVOTRN0) - Brad Colbow, 2023-09-05
 
 ## Specs
 

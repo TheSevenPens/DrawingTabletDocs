@@ -1,10 +1,20 @@
 # Wacom Cintiq 27 HD 2015 (DTK-2700) notes
 
-## Basics
+## Links
 
-* [user manual](https://101.wacom.com/UserHelpPDF_Legacy/DTK-2700_en.pdf). Wacom has removed the product page.
-* [Aaron Rutten review of Wacom Cintiq 27 QHD](https://youtu.be/rzzB2_iiJQA) 2016-11-07
-* [Jazza review of Wacom Cintiq 27 QHD](https://youtu.be/G8SYYpnXmHk) 2016-02-07
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2700.html)
+* [User manual](https://101.wacom.com/UserHelpPDF_Legacy/DTK-2700_en.pdf)
+
+### Reviews
+
+* [Wacom CINTIQ 27 QHD TOUCH Review](https://youtu.be/rzzB2_iiJQA) - Aaron Rutten, 2016-11-07
+* [Wacom Cintiq 27QHD Touch - Review](https://youtu.be/G8SYYpnXmHk) - Jazza, 2016-02-07
+* [Wacom Previews Cintiq 27QHD Pen Display Tablet](https://www.parkablogs.com/picture/wacom-previews-cintiq-27qhd-pen-display-tablet) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.

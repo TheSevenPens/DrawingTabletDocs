@@ -6,10 +6,21 @@ This is decent tablet. It was released in 2025 and uses an older generation of p
 
 There similar tablets and some have better pens with lower IAF: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
 
-## Basics
+## Links
 
-* Product page: [https://www.xp-pen.com/product/deco-01-v3.html](https://www.xp-pen.com/product/deco-01-v3.html)
-* User manual: [https://www.xp-pen.com/user-manual/deco-01-v3.html](https://www.xp-pen.com/user-manual/deco-01-v3.html)
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/deco-01-v3.html)
+* [Store page](https://www.xp-pen.com/store/buy/deco-01-v3.html)
+* [User manual](https://www.xp-pen.com/user-manual/deco-01-v3.html)
+
+### Reviews
+
+* [The Cheapest Drawing Tablet That I Recommend - XP Pen Deco 1 v3](https://www.youtube.com/watch?v=2-TKwccrvuE) - Brad Colbow, 2026-04-30
+* [XpPen Deco 01V3 - review on GNU/Linux](https://www.youtube.com/watch?v=trXxX3ZY5FM) - David Revoy, 2025-03-05
+* [XpPen Deco 01V3 - review on GNU/Linux](https://www.davidrevoy.com/article1066/xppen-deco-01v3-review-on-gnulinux) - David Revoy, 2025-03-04
 
 ## Specs
 
@@ -85,10 +96,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Included pen: [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
 * The included P05 pen has exactly the same as the old model and has the same high IAF that ranges from 6gf to 9gf depending on the pen unit I tested. This IAF is higher than is typical for modern pen tablets. But it might work for some people.
-
-## Links
-
-* [Brad Colbow - Review of Deco 01 V3](https://www.youtube.com/watch?v=2-TKwccrvuE) 2026-04-30
 
 ## Compared Deco 01 V2
 

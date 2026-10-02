@@ -1,8 +1,21 @@
 # Huion Kamvas Pad 12 (KP1202)
 
-## Basics
+## Links
 
-* Product page: [https://www.huion.com/products/kamvas-pad-12](https://www.huion.com/products/kamvas-pad-12)
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/kamvas-pad-12)
+* [Store page](https://store.huion.com/products/kamvas-pad-12)
+
+### Reviews
+
+* [La tableta que Huion debió sacar hace 3 años | Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) - Gartzia Artz, 2026-09-30
+* [Huion Kamvas Pad 12 Review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) - Brad Colbow, 2026-09-08
+* [Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) - Adam Duff, 2026-09-08
+* [Review: Huion Kamvas Pad 12 portable drawing tablet](https://www.parkablogs.com/content/huion-kamvas-pad-12-review) - Parka Blogs, 2026-09-08
+* [Huion Kamvas Pad 12 (review): PenTech 4 to the rescue](https://www.youtube.com/watch?v=LIXwSRkvejg) - Teoh on Tech, 2026-09-07
 
 ## Specs
 
@@ -103,14 +116,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Links
-
-* [Teoh on Tech - Huion Kamvas Pad 12 (review)](https://www.youtube.com/watch?v=LIXwSRkvejg) 2026-09-07
-* [Brad Colbow - huion kamvas pad 12 review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) 2026-09-08
-* [Adam Duff - Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) 2026-09-08
-* [Gartzia Artz - The tablet Huion should have released 3 years ago | Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) 2026-09-30
-
-
+## Other links
 
 I do not own this tablet and do not plan to purchase it. However, I looked through several reviews linked above to learn what others were saying. I have distilled key takeaways and added a few thoughts of my own.
 
@@ -142,8 +148,6 @@ The display appears to have a typical anti-glare treatment, visible in the video
 **Pixel density**
 
 Teoh points out that pixelation is not noticeable.
-
-
 
 Overall, both Brad and Teoh liked the display colors. Adam had a very different opinion. He disliked the color calibration and contrast, and commented on a noticeable red shift.
 

@@ -4,6 +4,27 @@
 
 Introduced in 2022, the Giano G930L is a fantastic value. It's quite nice for drawing and I enjoy the extra size.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.huion.com/products/inspiroy-giano)
+* [Store page](https://store.huion.com/products/inspiroy-giano)
+* [User manual](https://www.huion.com/manual/inspiroy-giano)
+
+### Reviews
+
+* [Huion Inspiroy Giano graphics tablet Review:- a large drawing area for your heart content](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-giano-graphics-tablet-review-a-large-drawing-area-for-your-heart-content/) - SweetMonia, 2024-03-14
+* [Reviewing Huion's HUGE Inspiroy Giano for digital drawing and painting](https://www.youtube.com/watch?v=43dZC0j0T1k) - EyekooDrawsStuff, 2023-05-26
+* [IT'S HUGE! Huion Inspiroy Giano Review and Painting on Mac, PC, Android //graphic tablet for PROS](https://www.youtube.com/watch?v=03auOS8lgAE) - Anna Sok, 2022-10-04
+* [Huion Inspiroy Giano Review | LARGE Graphics Pen Tablet](https://www.youtube.com/watch?v=CcrTe2J5Ho8) - Create Now Sleep Later, 2022-08-08
+* [¿WACOM INTUOS PRO L KILLER? HUION INSPIROY GIANO REVIEW En Español | Tableta gráfica inalámbrica XL](https://www.youtube.com/watch?v=RAHxGExeAgU) - Gartzia Artz, 2022-07-15
+* [Huion Inspiroy Giano Review](https://www.youtube.com/watch?v=DiRwtSonevY) - Brad Colbow, 2022-07-06
+* [Huion Inspiroy Giano G930L (review): Largest Bluetooth Drawing Tablet](https://www.youtube.com/watch?v=2XcP_Db9e_w) - Teoh on Tech, 2022-05-25
+* [Huion Inspiroy Giano G930L](https://www.parkablogs.com/content/review-huion-inspiroy-giano-g930l-biggest-wireless-pen-tablet) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
@@ -79,15 +100,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 Consider upgrading the pen
 
 For an improved drawing experience, consider buying the PW550 pen which is compatible with it. See: [Upgrading from PW517 to PW550](../../pens/huion-pens/upgrading-pw517-to-pw550.md).
-
-## **Links**
-
-* User manual: [https://www.huion.com/manaul\_pdf/en/Inspiroy%20Giano.pdf](https://www.huion.com/manaul_pdf/en/Inspiroy%20Giano.pdf)
-* [Teoh on Tech review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=2XcP_Db9e_w) 2022-05-25
-* [Brad Colbow review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=DiRwtSonevY) 2022-07-06
-* [Create Now Sleep Later review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=CcrTe2J5Ho8) 2022-08-08
-* [Anna Sok review of Huion Inspiroy Giano G930L](https://www.youtube.com/watch?v=03auOS8lgAE) 2022-10-04
-* [SweetMonia review of Huion Giano](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-giano-graphics-tablet-review-a-large-drawing-area-for-your-heart-content/) G930L 2024-03-14
 
 ## **Compared to Wacom**
 

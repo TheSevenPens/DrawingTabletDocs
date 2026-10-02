@@ -1,15 +1,26 @@
 # Wacom Intuos1 (GD-xxxx) notes
 
-## Links
+## Other links
 
 * [S-Config - Original Wacom GD-0912-R on Windows 7 x64 ](https://www.s-config.com/original-wacom-gd-0912-r-on-windows-7-x64/)([archive](https://archive.is/oeUFc))
-* [EyekooDrawsStuff - review of Intuos 12x12 (GD-1212-U)](https://www.youtube.com/watch?v=eXgcuOzg1-M) 2021-10-27
 
 ## Name
 
 This was the first introduction of the “Intuos” name into their products.
 
 At this time, the name “Intuos” indicated that a tablet was part of Wacom's professional pen tablet series. It was only some years later that Wacom decided to use "Intuos" for its consumer tablets and Intuos Pro for the professional tablets.
+
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos1_1998). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](https://101.wacom.com/productsupport/manual/IntuosUserManual.pdf)
+
+### Reviews
+
+* [This 23 year old tablet is still going!](https://www.youtube.com/watch?v=eXgcuOzg1-M) - EyekooDrawsStuff, 2021-10-27 (GD-1212-U)
 
 ## Specs
 

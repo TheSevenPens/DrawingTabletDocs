@@ -4,7 +4,27 @@
 
 In summary this is a very nice tablet. Wacom Cintiq Pro models are still better (and cost MUCH more) but this tablet is good overall and I have enjoyed using it. As of July 2024, this is my top pick for a mid-range-cost 16" pen display.
 
-[https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-pro-16-gen2.html)
+* [User manual](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
+
+### Reviews
+
+* [Notes on XP-Pen Artist Pro 16 GEN2 (MD160QH)](https://www.youtube.com/watch?v=kqX05ld4oDY) - Seven Pens, 2024-10-27
+* [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.youtube.com/watch?v=gmmIwkvZagU) - David Revoy, 2023-11-17
+* [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1004/xppen-artist-pro-16-gen-2-review-on-gnulinux) - David Revoy, 2023-11-17
+* [¡SE HAN PASADO EL JUEGO! La mejor tableta gráfica | Review tras 4 meses XP Pen Artist Pro 16 Gen 2](https://www.youtube.com/watch?v=3UpKDJgppcA) - Gartzia Artz, 2023-10-10
+* [XP-Pen Artist Pro 16 (Gen 2) Review](https://www.youtube.com/watch?v=NF-zDMfmgY8) - Brad Colbow, 2023-09-18
+* [XPPen Artist Pro 16 (gen 2) review: Huge upgrade over older model](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) - Teoh on Tech, 2023-09-09
+* [My favourite Display Tablet - XPPen Artist Pro 2nd Gen](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) - Grant Abbitt, 2023-08-20
+* [XPPen Artist Pro 16 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-16-gen-2-pen-display) - Parka Blogs
+* [Huion Kamvas pro16 2.5K vs. XP-pen Artist pro16 GEN2](https://www.youtube.com/watch?v=41pv6STOBhY) - MossCharmly
 
 ## Specs
 
@@ -100,14 +120,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ### Pens
 
 The X3 Pro pen is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md)
-
-## **Links**
-
-* User manual: [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
-* Product link: [https://www.xp-pen.com/product/artist-pro-16-gen-2.html](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)
-* [Teoh on Tech review of XPPen Artist Pro 16 (GEN 2) review](https://youtu.be/sc4tebm4TTw?si=Y18_c25g6BUvzwk3) 2023-09-09
-* [Grant Abbitt review of XPPen Artist Pro (GEN 2)](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) 2023-08-20
-* [MossCharmly - Huion Kamvas Pro 16 vs. XPpen Artist Pro 16](https://www.youtube.com/watch?v=41pv6STOBhY) GEN2 2024-08-03
 
 ## **Design**
 

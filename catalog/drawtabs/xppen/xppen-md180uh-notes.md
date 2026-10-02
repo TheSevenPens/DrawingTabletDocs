@@ -1,8 +1,25 @@
 # XP-Pen Artist Pro 19 GEN2 (MD180UH) notes
 
-## Basics
+## Links
 
-* Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-pro-19-gen2.html)
+* [User manual](https://www.xp-pen.com/user-manual/artist-pro-19-gen-2.html)
+
+### Reviews
+
+* [XPpen Artist Pro 19 (Gen 2) - review](https://www.youtube.com/watch?v=d8Ft3b002LM) - David Revoy, 2024-11-20
+* [XPPen Artist Pro 19 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1053/xppen-artist-pro-19-gen-2-review-on-gnulinux) - David Revoy, 2024-11-14
+* [Notes on XP-Pen Artist Pro 19 GEN2 (MD180UH)](https://www.youtube.com/watch?v=y2nDFHThC3A) - Seven Pens, 2024-11-03
+* [XPPen Artist Pro 19 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-19-gen-2) - Parka Blogs, 2024-10-24
+* [Xppen Artist Pro 19 (gen 2) review: The era of 4K pen displays approaches](https://www.youtube.com/watch?v=d51hmYgfz5E) - Teoh on Tech, 2024-10-22
+* [¡MI NUEVO TAMAÑO FAVORITO! XP Pen Artist Pro 19 Gen 2](https://www.youtube.com/watch?v=pAUAEPB_P5k) - Gartzia Artz, 2024-08-28
+* [XP Pen Artist Pro 19 (Gen 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) - Brad Colbow, 2024-08-27
+* [Unboxing y Primeras impresiones de la XP Pen Artist Pro 19 Gen 2 ¡DIBUJANDO!](https://www.youtube.com/watch?v=Cm-ukaV3opM) - Gartzia Artz, 2024-08-26
 
 ## Specs
 
@@ -108,13 +125,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
 
 * X3 Pro - I tested this. It worked.
-
-## Links
-
-* Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
-* [David Review - Review of XP-Pen Artist Pro 19 GEN2](https://www.youtube.com/watch?v=d8Ft3b002LM) 2024-11-20
-* [Brad Colbow - XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024-08-27
-* [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024-10-22
 
 ## Display experience
 

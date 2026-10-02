@@ -8,6 +8,23 @@ I have this tablet but haven't used it extensively. Overall seemed like a decent
 * The display has low amounts of anti-glare sparkle.
 * The tablet exhibited a little more diagonal wobble than I normally like but smoothing/stabilization should help. The Artist 13 GEN2 unit has less diagonal wobble.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [Product page](https://www.xp-pen.com/product/artist-12-2nd-gen.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-12-2nd-gen.html)
+* [User manual](https://www.xp-pen.com/user-manual/artist-12-2nd.html)
+
+### Reviews
+
+* [A cheap drawing tablet with a screen - XPPEN's Artist 12 2nd Gen Review](https://www.youtube.com/watch?v=CJuDEe3qyl8) - EyekooDrawsStuff, 2022-11-18
+* [XP-Pen Artist 12 (2nd Gen) review](https://www.youtube.com/watch?v=O6OzBT7BLsA) - Brad Colbow, 2021-12-13
+* [XP-Pen Artist 12 (2nd gen) review: HUGE improvement over 1st gen](https://www.youtube.com/watch?v=M0ULxV-oOf0) - Teoh on Tech, 2021-11-19
+* [XP-Pen Artist 12 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-12-2nd-gen-gift-edition) - Parka Blogs
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.

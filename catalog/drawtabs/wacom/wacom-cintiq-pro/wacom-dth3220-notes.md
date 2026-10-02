@@ -4,6 +4,21 @@
 
 The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing device, given its age and size. It is actually as good as anything else on the market in 2026. It has an excellent drawing experience driven by the included Pro Pen 2, model number KP504E, and an absolutely gigantic screen.
 
+## Links
+
+These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
+
+### From the manufacturer
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html)
+
+### Reviews
+
+* [Cintiq Pro 32 (DTH-3220 ) Live testing and Q&A](https://www.youtube.com/watch?v=hUFB9kBYy4E) - Seven Pens, 2026-08-01
+* [Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) - The Art of Aaron Blaise, 2019-01-24
+* [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) - Aaron Rutten, 2018-12-13
+* [REVIEW/IN-USE VIDEO Wacom Cintiq Pro 32 - by digital artist/creative entrepreneur Wieger Poutsma.](https://www.youtube.com/watch?v=GgYu9zXD8Gk) - Wieger Poutsma, 2018-11-19
+
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
@@ -100,11 +115,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * As of 2026, the included pen is still likely the best drawing pen that has ever existed, with a very low initial activation force, a very high maximum pressure, and good ergonomics.
 * See: [Wacom Pro Pen 2 KP-504E notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
 
-## Links
+## Other links
 
-* [Aaron Rutten - Review of Wacom Cintiq Pro 24 & 32](https://www.youtube.com/watch?v=lvSeRhrUcCY) 2018-12-13
-* [Wieger Poutsma - Review of Wacom Cintiq Pro 32](https://www.youtube.com/watch?v=GgYu9zXD8Gk) 2018-11-19
-* [Aaron Blaise - Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) 2019-01-24
 * [Aaron Rutten - How to Setup Wacom CINTIQ PRO 24 & 32](https://www.youtube.com/watch?v=hjOAm8AQxck) 2018-11-14
 
 ## Should you get the tablet in 2026?
@@ -141,8 +153,6 @@ This tablet does come with two folding legs. I found that the legs put the table
 ### Heat
 
 <figure><img src="../../../../.gitbook/assets/DTH-3220-IR-FLUKE-20260802170722681.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Connections and Cabling
 
