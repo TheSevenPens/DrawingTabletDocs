@@ -83,6 +83,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | Yes (5.0) |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Power input | — |
+| Consumption | 0.3 W |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
 | --- | --- |

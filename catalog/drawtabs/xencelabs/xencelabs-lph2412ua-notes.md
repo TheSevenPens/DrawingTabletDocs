@@ -101,6 +101,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Power input | 12 V, 5 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
 | --- | --- |

@@ -114,6 +114,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
+| --- | --- | --- |
+| Power input | — | — |
+| Consumption | — | — |
+| Standby | — | — |
+| Power adapter | 180 W | 180 W |
+| Power output | — | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTK-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420) | [DTH-2420](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |
 | --- | --- | --- |

@@ -86,6 +86,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | Yes | No |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
+| --- | --- | --- |
+| Power input | 5 V, 1 A | 5 V, 1 A |
+| Consumption | — | — |
+| Standby | — | — |
+| Power adapter | — | — |
+| Power output | — | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [IT1060B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b) | [IT1060](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |
 | --- | --- | --- |

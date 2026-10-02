@@ -104,6 +104,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Power input | 12 V, 1 A |
+| Consumption | 9 W |
+| Standby | 0.2 W |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
 | --- | --- |

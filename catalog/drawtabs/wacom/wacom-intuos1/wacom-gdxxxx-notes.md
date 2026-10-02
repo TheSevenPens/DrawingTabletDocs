@@ -80,6 +80,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — | — | — | — | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [GD-0405-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u) | [GD-0608-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u) | [GD-0912-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u) | [GD-1212-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u) | [GD-1218-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u) |
+| --- | --- | --- | --- | --- | --- |
+| Power input | 5 V, 0.5 A | 5 V, 0.5 A | 5 V, 0.5 A | 5 V, 0.5 A | 5 V, 0.5 A |
+| Consumption | 2 W | 2 W | 2 W | 2 W | 2 W |
+| Standby | — | — | — | — | — |
+| Power adapter | — | — | — | — | — |
+| Power output | — | — | — | — | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [GD-0405-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u) | [GD-0608-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u) | [GD-0912-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u) | [GD-1212-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u) | [GD-1218-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u) |
 | --- | --- | --- | --- | --- | --- |

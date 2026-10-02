@@ -104,6 +104,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
+| --- | --- |
+| Power input | 5 V, 2 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [CD120FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd120fh) |
 | --- | --- |

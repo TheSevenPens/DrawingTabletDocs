@@ -73,6 +73,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | No |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [PTZ-1230](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptz1230) |
+| --- | --- |
+| Power input | 5 V, 0.3 A |
+| Consumption | 1.5 W |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [PTZ-1230](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptz1230) |
 | --- | --- |

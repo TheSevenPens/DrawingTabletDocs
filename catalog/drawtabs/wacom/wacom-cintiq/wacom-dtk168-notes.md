@@ -113,6 +113,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
+| --- | --- |
+| Power input | 9 V, 2.77 A via AC adapter<br>5 V, 3 A via USB-C PD |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
 | --- | --- |

@@ -37,6 +37,7 @@ An intro line linking the Explorer family page, then GitBook tabs. Each tab is a
 | Other inputs | Buttons, Dials, Touch rings, Touch strips, Touch | all |
 | Physical | Size, Weight; plus VESA mount, Legs, Included stand on pen displays and standalone | all |
 | Connectivity | Ports, Attached cable, Bluetooth; plus Wi-Fi on standalone | all |
+| Power | Power input (V, A and W as stated, with the source; a second line for displays that can also be powered another way, e.g. USB-C PD or AC adapter), Consumption (with max), Standby, Power adapter, Power output; from DrawTabData's Power group | pages where any model has power data |
 | In the box | Contents: one item per line, from Model.IncludedInBox | all |
 | Computer | OS, Processor, RAM, Storage | standalone |
 

@@ -284,6 +284,48 @@ CONNECTIVITY = [
 CONNECTIVITY_STANDALONE = CONNECTIVITY + [('Wi-Fi', lambda t: conn(t, 'Wifi') or DASH)]
 
 
+def watts(path):
+    return lambda t: DASH if g(t, path) is None else f'{num(g(t, path), 2)} W'
+
+
+POWER_SOURCE = {'ADAPTER': 'AC adapter', 'USB_PD': 'USB-C PD', 'USB': 'USB'}
+
+
+def one_input(t, prefix, watts_path=None):
+    """'12 V, 1.5 A (18 W)' from whichever of <prefix>Voltage / <prefix>Current / InputWatts are stated."""
+    va = ', '.join(x for x in (
+        f"{num(g(t, f'Power.{prefix}Voltage'), 2)} V" if g(t, f'Power.{prefix}Voltage') is not None else '',
+        f"{num(g(t, f'Power.{prefix}Current'), 2)} A" if g(t, f'Power.{prefix}Current') is not None else '') if x)
+    w = f"{num(g(t, watts_path), 2)} W" if watts_path and g(t, watts_path) is not None else ''
+    text = f'{va} ({w})' if va and w else va or w
+    src = POWER_SOURCE.get(g(t, f'Power.{prefix}Source'))
+    return f'{text} via {src}' if text and src else text
+
+
+def power_input(t):
+    """The main input, and the alternate one (e.g. USB-C PD vs AC adapter) on its own line when there is one."""
+    lines = [x for x in (one_input(t, 'Input', 'Power.InputWatts'), one_input(t, 'AltInput')) if x]
+    return '<br>'.join(lines) if lines else DASH
+
+
+def consumption(t):
+    typ, mx = g(t, 'Power.ConsumptionWatts'), g(t, 'Power.ConsumptionMaxWatts')
+    if typ is None and mx is None:
+        return DASH
+    if typ is None:
+        return f'{num(mx, 2)} W max'
+    return f'{num(typ, 2)} W' + (f' (max {num(mx, 2)} W)' if mx is not None else '')
+
+
+POWER = [
+    ('Power input', power_input),
+    ('Consumption', consumption),
+    ('Standby', watts('Power.StandbyWatts')),
+    ('Power adapter', watts('Power.AdapterWatts')),
+    ('Power output', watts('Power.OutputWatts')),
+]
+
+
 def in_box(t):
     items = g(t, 'Model.IncludedInBox')
     return '<br>'.join(str(i).replace('|', r'\|') for i in items) if items else DASH
@@ -308,8 +350,10 @@ def section(entity_ids, family_id=None):
         tabs.append(('Display', DISPLAY))
     tabs += [('Digitizer', DIGITIZER), ('Pen', PEN), ('Other inputs', OTHER_INPUTS),
              ('Physical', PHYSICAL_DISPLAY if types & {'PENDISPLAY', 'STANDALONE'} else PHYSICAL),
-             ('Connectivity', CONNECTIVITY_STANDALONE if standalone else CONNECTIVITY),
-             ('In the box', IN_THE_BOX)]
+             ('Connectivity', CONNECTIVITY_STANDALONE if standalone else CONNECTIVITY)]
+    if any(t.get('Power') for t in tablets):  # most pen tablets list no power specs; skip an all-"—" tab
+        tabs.append(('Power', POWER))
+    tabs.append(('In the box', IN_THE_BOX))
     if standalone:
         tabs.append(('Computer', STANDALONE))
     family_id = family_id or tablets[0]['Model'].get('Family')

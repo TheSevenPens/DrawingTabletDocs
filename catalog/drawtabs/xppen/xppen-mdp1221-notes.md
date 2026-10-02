@@ -101,6 +101,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Wi-Fi | 802.11a/b/g/n/ac |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
+| --- | --- |
+| Power input | 9 V, 2 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [MDP1221](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |
 | --- | --- |

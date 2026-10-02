@@ -102,6 +102,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Wi-Fi | 802.11a/b/g/n/ac |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [9494G](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.9494g) |
+| --- | --- |
+| Power input | — |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | 2 W |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [9494G](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.9494g) |
 | --- | --- |

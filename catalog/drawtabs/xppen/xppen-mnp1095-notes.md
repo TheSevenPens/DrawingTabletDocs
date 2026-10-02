@@ -106,6 +106,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Wi-Fi | 802.11a/b/g/n/ac |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Power input | 9 V, 2.22 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | 20 W |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
 | --- | --- |

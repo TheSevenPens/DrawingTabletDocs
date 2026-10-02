@@ -111,6 +111,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Power input | 5 V, 3 A |
+| Consumption | 7 W |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
 | --- | --- |

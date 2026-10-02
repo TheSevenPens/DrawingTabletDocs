@@ -83,6 +83,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Power input | 5 V, 0.3 A |
+| Consumption | — |
+| Standby | — |
+| Power adapter | — |
+| Power output | — |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
 | --- | --- |

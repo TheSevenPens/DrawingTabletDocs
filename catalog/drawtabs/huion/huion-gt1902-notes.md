@@ -117,6 +117,16 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Bluetooth | — |
 {% endtab %}
 
+{% tab title="Power" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Power input | 20 V, 3.25 A |
+| Consumption | 18 W |
+| Standby | — |
+| Power adapter | 65 W |
+| Power output | 40 W |
+{% endtab %}
+
 {% tab title="In the box" %}
 | | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
 | --- | --- |
