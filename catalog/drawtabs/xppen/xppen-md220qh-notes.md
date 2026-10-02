@@ -104,10 +104,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Notes on specs
 
-### Digitizer
-
-* Active Area diagonal: 21.474" (545.4mm)
-
 ### Pens
 
 * See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
