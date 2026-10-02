@@ -51,19 +51,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas 16 GEN3 |
 | Released | 2025-01-07 |
 | Status | — |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
 | --- | --- |
 | Resolution | 2560 × 1440 |
+| Aspect ratio | 16:9 |
+| Pixel density | 186 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 120% |
+| Color gamut | sRGB 120%<br>Adobe RGB 90%<br>Rec. 709 99% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 14 ms |
 {% endtab %}
@@ -72,12 +74,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
 | --- | --- |
 | Active area | 350 × 197 mm (13.8 × 7.8 in) |
+| Diagonal | 401.6 mm (15.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±2 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+| Compatible pens | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -106,6 +119,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C<br>USB-C (Full-featured) |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
+| --- | --- |
+| Contents | Kamvas 16 (Gen 3) ×1<br>Foldable Stand ST300 ×1<br>Battery-free Pen PW600L ×1<br>Standard Pen Nibs (inside the Pen Holder) ×10<br>Pen Holder ×1<br>3-in-1 Cable (1.8m) ×1<br>USB Extension Cable (1.2m) ×1<br>USB-C to USB-C Cable (1m) ×1<br>USB-C to USB-A Cable (1m) ×1<br>Power Adapter ×1<br>Artist Glove ×1<br>Cleaning Cloth ×1 |
 {% endtab %}
 {% endtabs %}
 

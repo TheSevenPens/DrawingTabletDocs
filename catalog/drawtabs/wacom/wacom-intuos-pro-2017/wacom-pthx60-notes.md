@@ -25,19 +25,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos Pro 2017 Small | Intuos Pro 2017 Medium | Intuos Pro 2017 Large |
 | Released | 2019-05-16 | 2017-01-04 | 2017-01-04 |
 | Status | Discontinued | Discontinued | Discontinued |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
 | --- | --- | --- | --- |
 | Active area | 159.6 × 99.8 mm (6.3 × 3.9 in) | 224 × 148 mm (8.8 × 5.8 in) | 311 × 216 mm (12.2 × 8.5 in) |
+| Diagonal | 188.2 mm (7.4 in) | 268.5 mm (10.6 in) | 378.7 mm (14.9 in) |
+| Aspect ratio | 16:10 | ≈3:2 (1.514:1) | 1.440:1 |
 | Pen technology | Passive EMR | Passive EMR | Passive EMR |
 | Pressure levels | 8192 | 8192 | 8192 |
 | Tilt | ±60° | ±60° | ±60° |
+| Accuracy (center) | — | — | — |
+| Accuracy (corner) | — | — | — |
 | Report rate | 200 Hz | 200 Hz | 200 Hz |
 | Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
 | Max hover | — | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
+| --- | --- | --- | --- |
+| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
+| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e)<br>[Finetip Pen for Intuos Pro (KP-132)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp132)<br>[Ballpoint Pen for Intuos Pro (KP-133)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp133) | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e)<br>[Finetip Pen for Intuos Pro (KP-132)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp132)<br>[Ballpoint Pen for Intuos Pro (KP-133)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp133) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -63,6 +73,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C | USB-C | USB-C |
 | Attached cable | None | None | None |
 | Bluetooth | Yes | Yes | Yes |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |
+| --- | --- | --- | --- |
+| Contents | — | — | — |
 {% endtab %}
 {% endtabs %}
 

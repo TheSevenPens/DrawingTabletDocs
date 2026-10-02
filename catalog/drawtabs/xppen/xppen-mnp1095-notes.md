@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Magic Note Pad |
 | Released | 2025-03-19 |
 | Status | Available |
-| Included pen | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
 | --- | --- |
 | Resolution | 1920 × 1200 |
+| Aspect ratio | 16:10 |
+| Pixel density | 207 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | — |
-| sRGB | 95% |
+| Color gamut | sRGB 95% |
 | Color depth | 8 bits per channel |
 | Brightness | 400 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 90 Hz |
 | Response time | — |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
 | --- | --- |
 | Active area | 236 × 148 mm (9.3 × 5.8 in) |
+| Diagonal | 278.6 mm (11 in) |
+| Aspect ratio | ≈16:10 (1.595:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | — |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | ±1.5 mm |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Included pen | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
+| Compatible pens | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -73,6 +86,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | — |
 | Wi-Fi | 802.11a/b/g/n/ac |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 
 {% tab title="Computer" %}

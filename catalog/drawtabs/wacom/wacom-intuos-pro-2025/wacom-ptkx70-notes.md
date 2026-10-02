@@ -76,49 +76,65 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 {% tabs %}
 {% tab title="Model" %}
-|              | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470)          | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670)          | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870)          |
-| ------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Name         | Intuos Pro 2025 Small                                                                             | Intuos Pro 2025 Medium                                                                            | Intuos Pro 2025 Large                                                                             |
-| Released     | 2025-02-12                                                                                        | 2025-02-12                                                                                        | 2025-02-12                                                                                        |
-| Status       | Available                                                                                         | Available                                                                                         | Available                                                                                         |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Name | Intuos Pro 2025 Small | Intuos Pro 2025 Medium | Intuos Pro 2025 Large |
+| Released | 2025-02-12 | 2025-02-12 | 2025-02-12 |
+| Status | Available | Available | Available |
 {% endtab %}
 
 {% tab title="Digitizer" %}
-|                 | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
-| --------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Active area     | 187 × 105 mm (7.4 × 4.1 in)                                                              | 263 × 148 mm (10.4 × 5.8 in)                                                             | 349 × 195 mm (13.7 × 7.7 in)                                                             |
-| Pen technology  | Passive EMR                                                                              | Passive EMR                                                                              | Passive EMR                                                                              |
-| Pressure levels | 8192                                                                                     | 8192                                                                                     | 8192                                                                                     |
-| Tilt            | ±60°                                                                                     | ±60°                                                                                     | ±60°                                                                                     |
-| Report rate     | —                                                                                        | —                                                                                        | —                                                                                        |
-| Density         | 200 LPmm (5080 LPI)                                                                      | 200 LPmm (5080 LPI)                                                                      | 200 LPmm (5080 LPI)                                                                      |
-| Max hover       | —                                                                                        | —                                                                                        | —                                                                                        |
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Active area | 187 × 105 mm (7.4 × 4.1 in) | 263 × 148 mm (10.4 × 5.8 in) | 349 × 195 mm (13.7 × 7.7 in) |
+| Diagonal | 214.5 mm (8.4 in) | 301.8 mm (11.9 in) | 399.8 mm (15.7 in) |
+| Aspect ratio | 16:9 | 16:9 | ≈16:9 (1.790:1) |
+| Pen technology | Passive EMR | Passive EMR | Passive EMR |
+| Pressure levels | 8192 | 8192 | 8192 |
+| Tilt | ±60° | ±60° | ±60° |
+| Accuracy (center) | — | — | — |
+| Accuracy (corner) | — | — | — |
+| Report rate | — | — | — |
+| Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
+| Max hover | — | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
-|              | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
-| ------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Buttons      | 4                                                                                        | 8                                                                                        | 8                                                                                        |
-| Dials        | 1                                                                                        | 2                                                                                        | 2                                                                                        |
-| Touch rings  | —                                                                                        | —                                                                                        | —                                                                                        |
-| Touch strips | —                                                                                        | —                                                                                        | —                                                                                        |
-| Touch        | No                                                                                       | No                                                                                       | No                                                                                       |
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Buttons | 4 | 8 | 8 |
+| Dials | 1 | 2 | 2 |
+| Touch rings | — | — | — |
+| Touch strips | — | — | — |
+| Touch | No | No | No |
 {% endtab %}
 
 {% tab title="Physical" %}
-|        | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
-| ------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Size   | 215 × 163 × 7 mm (8.5 × 6.4 × 0.3 in)                                                    | 291 × 206 × 7 mm (11.5 × 8.1 × 0.3 in)                                                   | 377 × 253 × 7 mm (14.8 × 10 × 0.3 in)                                                    |
-| Weight | 240 g                                                                                    | 411 g                                                                                    | 660 g                                                                                    |
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Size | 215 × 163 × 7 mm (8.5 × 6.4 × 0.3 in) | 291 × 206 × 7 mm (11.5 × 8.1 × 0.3 in) | 377 × 253 × 7 mm (14.8 × 10 × 0.3 in) |
+| Weight | 240 g | 411 g | 660 g |
 {% endtab %}
 
 {% tab title="Connectivity" %}
-|                | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
-| -------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Ports          | USB-C                                                                                    | USB-C                                                                                    | USB-C                                                                                    |
-| Attached cable | None                                                                                     | None                                                                                     | None                                                                                     |
-| Bluetooth      | Yes                                                                                      | Yes                                                                                      | Yes                                                                                      |
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Ports | USB-C | USB-C | USB-C |
+| Attached cable | None | None | None |
+| Bluetooth | Yes | Yes | Yes |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| --- | --- | --- | --- |
+| Contents | — | — | — |
 {% endtab %}
 {% endtabs %}
 

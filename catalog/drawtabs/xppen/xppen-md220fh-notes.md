@@ -16,19 +16,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist 22 Plus |
 | Released | 2023-06-19 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 102 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | Film |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 91% |
 | Color depth | — |
 | Brightness | 250 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -37,12 +39,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
 | --- | --- |
 | Active area | 476 × 268 mm (18.7 × 10.6 in) |
+| Diagonal | 546.3 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | — |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,6 +84,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | DC power<br>USB-C<br>HDMI<br>3.5 mm audio |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MD220FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220fh) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

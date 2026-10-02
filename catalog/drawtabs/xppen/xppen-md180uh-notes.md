@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist Pro 19 GEN2 |
 | Released | 2024-08-19 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 238 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99.8% |
+| Color gamut | sRGB 99.8%<br>Adobe RGB 96%<br>Display P3 98% |
 | Color depth | 10 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
 | --- | --- |
 | Active area | 409 × 230 mm (16.1 × 9.1 in) |
+| Diagonal | 469.2 mm (18.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | ±0.8 mm |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -70,6 +83,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C<br>USB-C |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

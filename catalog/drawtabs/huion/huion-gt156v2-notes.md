@@ -21,19 +21,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pro 16 V2 |
 | Released | 2025-10-21 |
 | Status | — |
-| Included pen | [PW600A (PW600A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600a) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 142 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Rec. 709 99% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 25 ms |
 {% endtab %}
@@ -42,12 +44,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
 | --- | --- |
 | Active area | 344.2 × 193.6 mm (13.5 × 7.6 in) |
+| Diagonal | 394.9 mm (15.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | ±3 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Included pen | [PW600A (PW600A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600a) |
+| Compatible pens | [PW600A (PW600A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600a) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -76,6 +89,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

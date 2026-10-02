@@ -25,19 +25,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist Pro 14 GEN2 |
 | Released | 2023-08-14 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
 | Resolution | 1920 × 1200 |
+| Aspect ratio | 16:10 |
+| Pixel density | 163 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | — |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 25 ms |
 {% endtab %}
@@ -46,12 +48,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
 | --- | --- |
 | Active area | 299 × 187 mm (11.8 × 7.4 in) |
+| Diagonal | 352.7 mm (13.9 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | ±0.8 mm |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -80,6 +93,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MD140FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140fh) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

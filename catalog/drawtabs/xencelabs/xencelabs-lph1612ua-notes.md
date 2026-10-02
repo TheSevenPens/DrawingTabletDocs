@@ -18,19 +18,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Pen Display 16 Lite |
 | Released | 2024-05-08 |
 | Status | — |
-| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 283 PPI |
 | Panel | OLED |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 98%<br>DCI-P3 98%<br>Rec. 709 99% |
 | Color depth | 10 bits per channel |
 | Brightness | 300 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -39,12 +41,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
 | --- | --- |
 | Active area | 344.2 × 193.6 mm (13.6 × 7.6 in) |
+| Diagonal | 394.9 mm (15.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
+| Compatible pens | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -73,6 +86,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

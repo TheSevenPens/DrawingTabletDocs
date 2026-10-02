@@ -15,19 +15,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | SD-510C |
 | Released | 1988-07 |
 | Status | Discontinued |
-| Included pen | — |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [SD-510C](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.sd510c) |
 | --- | --- |
 | Active area | 232 × 151 mm (9.1 × 5.9 in) |
+| Diagonal | 276.8 mm (10.9 in) |
+| Aspect ratio | ≈3:2 (1.536:1) |
 | Pen technology | — |
 | Pressure levels | — |
 | Tilt | — |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 20 LPmm (508 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [SD-510C](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.sd510c) |
+| --- | --- |
+| Included pen | — |
+| Compatible pens | [SP-200 (SP-200)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.sp200)<br>[SP-200A (SP-200A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.sp200a)<br>[SP-210 (SP-210)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.sp210)<br>[SP-210A (SP-210A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.sp210a)<br>[SP-300 (SP-300)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.sp300)<br>[SP-310 (SP-310)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.sp310) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -53,6 +63,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [SD-510C](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.sd510c) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

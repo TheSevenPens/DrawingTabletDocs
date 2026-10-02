@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq 21UX 2005 |
 | Released | 2005-02-26 |
 | Status | Discontinued |
-| Included pen | [Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
 | --- | --- |
 | Resolution | 1600 × 1200 |
+| Aspect ratio | 4:3 |
+| Pixel density | 94 PPI |
 | Panel | IPS |
 | Lamination | — |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | — |
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
+| Viewing angle | — |
 | Refresh rate | — |
 | Response time | 20 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
 | --- | --- |
 | Active area | 432 × 324 mm (17 × 12.8 in) |
+| Diagonal | 540 mm (21.3 in) |
+| Aspect ratio | 4:3 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
 | Tilt | ±40° |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | — |
 | Report rate | 133 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 5 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Included pen | [Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e) |
+| Compatible pens | [Intuos3 Classic Pen (ZP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp300e)<br>[Intuos3 Airbrush Pen (ZP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp400e)<br>[Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e)<br>[Intuos3 Art Marker Pen (ZP-600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp600) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -70,6 +83,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTZ-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

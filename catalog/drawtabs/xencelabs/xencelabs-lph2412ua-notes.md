@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Pen Display 24 |
 | Released | 2023-03-21 |
 | Status | — |
-| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | Adobe RGB 99%<br>DCI-P3 93% |
 | Color depth | 10 bits per channel |
 | Brightness | 330 cd/m² |
+| Viewing angle | — |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
 | --- | --- |
 | Active area | 527 × 296 mm (20.7 × 11.7 in) |
+| Diagonal | 604.4 mm (23.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
+| Compatible pens | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -72,6 +85,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

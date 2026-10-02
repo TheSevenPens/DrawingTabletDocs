@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pro 24 GEN3 |
 | Released | 2025-10-17 |
 | Status | Available |
-| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 185 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 140% |
+| Color gamut | sRGB 140% |
 | Color depth | 10 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 14 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
 | --- | --- |
 | Active area | 525.9 × 295.8 mm (20.7 × 11.6 in) |
+| Diagonal | 603.4 mm (23.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±1 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 9 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
+| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -70,6 +83,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | HDMI<br>DisplayPort<br>USB-C (Full-featured)<br>DC power |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GT2402](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

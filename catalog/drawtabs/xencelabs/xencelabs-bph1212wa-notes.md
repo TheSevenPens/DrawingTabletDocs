@@ -15,19 +15,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Pen Tablet Medium V1 |
 | Released | 2021-02-23 |
 | Status | — |
-| Included pen | [3-Button Pen V1 (3BUTTONV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv1)<br>[Thin Pen V1 (THINV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv1) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
 | --- | --- |
 | Active area | 262 × 147 mm (10.3 × 5.8 in) |
+| Diagonal | 300.4 mm (11.8 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Included pen | [3-Button Pen V1 (3BUTTONV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv1)<br>[Thin Pen V1 (THINV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv1) |
+| Compatible pens | [Thin Pen V1 (THINV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv1)<br>[3-Button Pen V1 (3BUTTONV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv1) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -53,6 +63,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

@@ -21,19 +21,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | HS611 |
 | Released | 2019 |
 | Status | — |
-| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
 | --- | --- |
 | Active area | 258 × 162 mm (10.2 × 6.4 in) |
+| Diagonal | 304.6 mm (12 in) |
+| Aspect ratio | ≈16:10 (1.593:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 233 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
+| Compatible pens | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -59,6 +69,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C |
 | Attached cable | None |
 | Bluetooth | No |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

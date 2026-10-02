@@ -45,19 +45,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy Dial 2 V2 |
 | Released | 2026-09-09 |
 | Status | — |
-| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
 | --- | --- |
 | Active area | 266.7 × 166.7 mm (10.5 × 6.6 in) |
+| Diagonal | 314.5 mm (12.4 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
+| Compatible pens | — |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -83,6 +93,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | Yes |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

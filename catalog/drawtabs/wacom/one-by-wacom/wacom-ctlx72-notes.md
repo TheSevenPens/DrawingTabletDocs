@@ -57,19 +57,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | One by Wacom Small | One by Wacom Medium |
 | Released | 2019-05-10 | 2019-05-10 |
 | Status | Available | Available |
-| Included pen | [2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) | [2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
 | --- | --- | --- |
 | Active area | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) |
+| Diagonal | 179.2 mm (7.1 in) | 254.7 mm (10 in) |
+| Aspect ratio | 16:10 | 16:10 |
 | Pen technology | Passive EMR | Passive EMR |
 | Pressure levels | 2048 | 2048 |
 | Tilt | None | None |
+| Accuracy (center) | — | — |
+| Accuracy (corner) | — | — |
 | Report rate | 133 Hz | 133 Hz |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
+| --- | --- | --- |
+| Included pen | [2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) | [2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) |
+| Compatible pens | [2K Pen (LP-190)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190)<br>[2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) | [2K Pen (LP-190)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190)<br>[2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -95,6 +105,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | Micro-USB | Micro-USB |
 | Attached cable | None | None |
 | Bluetooth | No | No |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
+| --- | --- | --- |
+| Contents | — | — |
 {% endtab %}
 {% endtabs %}
 

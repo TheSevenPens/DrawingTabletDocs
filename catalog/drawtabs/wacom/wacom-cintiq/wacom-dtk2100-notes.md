@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq 21UX 2010 |
 | Released | 2010-03-26 |
 | Status | Discontinued |
-| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
 | --- | --- |
 | Resolution | 1600 × 1200 |
+| Aspect ratio | 4:3 |
+| Pixel density | 94 PPI |
 | Panel | IPS |
 | Lamination | — |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | — |
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
+| Viewing angle | — |
 | Refresh rate | — |
 | Response time | 20 ms |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
 | --- | --- |
 | Active area | 432 × 324 mm (17 × 12.8 in) |
+| Diagonal | 540 mm (21.3 in) |
+| Aspect ratio | 4:3 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
 | Tilt | ±40° |
+| Accuracy (center) | ±0.5 mm |
+| Accuracy (corner) | ±4 mm |
 | Report rate | 133 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 5 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+| Compatible pens | [Intuos4 Inking Pen (KP-130)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp130)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -72,6 +85,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | USB-A<br>DVI<br>DC power |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTK-2100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

@@ -63,19 +63,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom MovinkPad Pro 14 |
 | Released | 2025-10-01 |
 | Status | Available |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
 | --- | --- |
 | Resolution | 2880 × 1800 |
+| Aspect ratio | 16:10 |
+| Pixel density | 242 PPI |
 | Panel | OLED |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 100% |
+| Color gamut | sRGB 100%<br>DCI-P3 100% |
 | Color depth | 10 bits per channel |
 | Brightness | 400 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 120 Hz |
 | Response time | 1 ms |
 {% endtab %}
@@ -84,12 +86,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
 | --- | --- |
 | Active area | 302 × 189 mm (11.9 × 7.4 in) |
+| Diagonal | 356.3 mm (14 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
+| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -119,6 +132,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | None |
 | Bluetooth | Yes (5.4) |
 | Wi-Fi | 802.11a/b/g/n/ac/ax |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
+| --- | --- |
+| Contents | Tablet<br>Pro Pen 3 (no grip)<br>USB-C charging cable<br>3 nibs stored in the pen: Carbon Shaft POM x1, Felt x1, POM x1 |
 {% endtab %}
 
 {% tab title="Computer" %}

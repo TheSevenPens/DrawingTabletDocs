@@ -15,19 +15,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy Giano G930L |
 | Released | 2022-05-25 |
 | Status | — |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
 | --- | --- |
 | Active area | 345 × 216 mm (13.6 × 8.5 in) |
+| Diagonal | 407 mm (16 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
+| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -53,6 +63,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | Yes (5.0) |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

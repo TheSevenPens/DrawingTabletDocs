@@ -16,19 +16,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Cintiq 27 QHD |
 | Released | 2015-01-06 |
 | Status | Discontinued |
-| Included pen | [Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTK-2700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2700) |
 | --- | --- |
 | Resolution | 2560 × 1440 |
+| Aspect ratio | 16:9 |
+| Pixel density | 109 PPI |
 | Panel | AHVA |
 | Lamination | — |
 | Anti-glare | — |
-| sRGB | — |
+| Color gamut | Adobe RGB 97% |
 | Color depth | 10 bits per channel |
 | Brightness | 330 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 12 ms |
 {% endtab %}
@@ -37,12 +39,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTK-2700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2700) |
 | --- | --- |
 | Active area | 597 × 336 mm (23.5 × 13.2 in) |
+| Diagonal | 685.1 mm (27 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | — |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTK-2700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2700) |
+| --- | --- |
+| Included pen | [Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e) |
+| Compatible pens | [Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,6 +84,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTK-2700](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2700) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

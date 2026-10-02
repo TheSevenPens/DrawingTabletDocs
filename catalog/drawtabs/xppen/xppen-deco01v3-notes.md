@@ -22,19 +22,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Deco 01 V3 |
 | Released | 2024 |
 | Status | — |
-| Included pen | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
 | --- | --- |
 | Active area | 254 × 159 mm (10 × 6.3 in) |
+| Diagonal | 299.7 mm (11.8 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Included pen | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
+| Compatible pens | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -60,6 +70,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

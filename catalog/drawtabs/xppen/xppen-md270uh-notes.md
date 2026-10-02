@@ -23,19 +23,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist Pro 27 (Gen 2) |
 | Released | 2026-03-20 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD270UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 163 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | — |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 99%<br>Display P3 97% |
 | Color depth | 10 bits per channel |
 | Brightness | 350 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 120 Hz |
 | Response time | 5 ms |
 {% endtab %}
@@ -44,12 +46,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD270UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |
 | --- | --- |
 | Active area | 596.7 × 335.7 mm (23.5 × 13.2 in) |
+| Diagonal | 684.6 mm (27 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD270UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -78,6 +91,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MD270UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

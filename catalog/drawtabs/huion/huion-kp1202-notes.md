@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pad 12 |
 | Released | 2026 |
 | Status | Available |
-| Included pen | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
 | --- | --- |
 | Resolution | 2400 × 1600 |
+| Aspect ratio | 3:2 |
+| Pixel density | 236 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99% |
 | Color depth | — |
 | Brightness | 350 cd/m² |
+| Viewing angle | — |
 | Refresh rate | — |
 | Response time | — |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
 | --- | --- |
 | Active area | 257.9 × 171.9 mm (10.2 × 6.8 in) |
+| Diagonal | 309.9 mm (12.2 in) |
+| Aspect ratio | 3:2 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±0.6 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Included pen | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
+| Compatible pens | — |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -71,6 +84,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Attached cable | — |
 | Bluetooth | Yes (5.4) |
 | Wi-Fi | 2.4GHz, 5GHz |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 
 {% tab title="Computer" %}

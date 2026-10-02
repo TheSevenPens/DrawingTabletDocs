@@ -21,19 +21,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy Frego M |
 | Released | 2024-08-16 |
 | Status | — |
-| Included pen | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
 | --- | --- |
 | Active area | 254 × 159 mm (10 × 6.3 in) |
+| Diagonal | 299.7 mm (11.8 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 300 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Included pen | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
+| Compatible pens | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -59,6 +69,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C |
 | Attached cable | None |
 | Bluetooth | Yes |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

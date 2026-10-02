@@ -23,19 +23,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos5 touch Small | Intuos5 touch Medium | Intuos5 touch Large | Intuos5 Small | Intuos5 Medium |
 | Released | 2012-03-01 | 2012-03-01 | 2012-03-01 | 2012-03-01 | 2012-03-01 |
 | Status | Discontinued | Discontinued | Discontinued | Discontinued | Discontinued |
-| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
 | --- | --- | --- | --- | --- | --- |
 | Active area | 157.5 × 98.4 mm (6.2 × 3.9 in) | 223.5 × 139.7 mm (8.8 × 5.5 in) | 325.1 × 203.2 mm (12.8 × 8 in) | 157.5 × 98.4 mm (6.2 × 3.9 in) | 223.5 × 139.7 mm (8.8 × 5.5 in) |
+| Diagonal | 185.7 mm (7.3 in) | 263.6 mm (10.4 in) | 383.4 mm (15.1 in) | 185.7 mm (7.3 in) | 263.6 mm (10.4 in) |
+| Aspect ratio | 16:10 | 16:10 | 16:10 | 16:10 | 16:10 |
 | Pen technology | Passive EMR | Passive EMR | Passive EMR | Passive EMR | Passive EMR |
 | Pressure levels | 2048 | 2048 | 2048 | 2048 | 2048 |
 | Tilt | ±60° | ±60° | ±60° | ±60° | ±60° |
+| Accuracy (center) | — | — | — | — | — |
+| Accuracy (corner) | — | — | — | — | — |
 | Report rate | 200 Hz | 200 Hz | 200 Hz | 200 Hz | 200 Hz |
 | Density | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) | 200 LPmm (5080 LPI) |
 | Max hover | — | — | — | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -61,6 +71,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — | — | — | — | — |
 | Attached cable | — | — | — | — | — |
 | Bluetooth | — | — | — | — | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [PTH-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450) | [PTH-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650) | [PTH-850](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850) | [PTK-450](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450) | [PTK-650](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650) |
+| --- | --- | --- | --- | --- | --- |
+| Contents | — | — | — | — | — |
 {% endtab %}
 {% endtabs %}
 

@@ -22,19 +22,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos 4x5 USB | Intuos 6x8 USB | Intuos 9x12 USB | Intuos 12x12 USB | Intuos 12x18 USB |
 | Released | 1998-09-01 | 1998-09-01 | 1998-09-01 | 1998-09-01 | 1998-09-01 |
 | Status | Discontinued | Discontinued | Discontinued | Discontinued | Discontinued |
-| Included pen | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [GD-0405-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u) | [GD-0608-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u) | [GD-0912-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u) | [GD-1212-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u) | [GD-1218-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u) |
 | --- | --- | --- | --- | --- | --- |
 | Active area | 127 × 106 mm (5 × 4.2 in) | 203.2 × 162.4 mm (8 × 6.4 in) | 304.8 × 240.6 mm (12 × 9.5 in) | 304.8 × 316.8 mm (12 × 12.5 in) | 457.2 × 316.8 mm (18 × 12.5 in) |
+| Diagonal | 165.4 mm (6.5 in) | 260.1 mm (10.2 in) | 388.3 mm (15.3 in) | 439.6 mm (17.3 in) | 556.2 mm (21.9 in) |
+| Aspect ratio | 1.198:1 | 5:4 | ≈5:4 (1.267:1) | ≈1:1 (1.039:1) | 1.443:1 |
 | Pen technology | — | — | — | — | — |
 | Pressure levels | — | — | — | — | — |
 | Tilt | — | — | — | — | — |
+| Accuracy (center) | — | — | — | — | — |
+| Accuracy (corner) | — | — | — | — | — |
 | Report rate | — | — | — | — | — |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | — | — | — | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GD-0405-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u) | [GD-0608-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u) | [GD-0912-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u) | [GD-1212-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u) | [GD-1218-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u) |
+| --- | --- | --- | --- | --- | --- |
+| Included pen | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) | [Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e) |
+| Compatible pens | [Intuos1 Inking Pen (GP-110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp110)<br>[Intuos1 Stroke Pen (GP-120)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp120)<br>[Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e)<br>[Intuos1 Airbrush Pen (GP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp400e) | [Intuos1 Inking Pen (GP-110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp110)<br>[Intuos1 Stroke Pen (GP-120)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp120)<br>[Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e)<br>[Intuos1 Airbrush Pen (GP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp400e) | [Intuos1 Inking Pen (GP-110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp110)<br>[Intuos1 Stroke Pen (GP-120)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp120)<br>[Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e)<br>[Intuos1 Airbrush Pen (GP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp400e) | [Intuos1 Inking Pen (GP-110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp110)<br>[Intuos1 Stroke Pen (GP-120)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp120)<br>[Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e)<br>[Intuos1 Airbrush Pen (GP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp400e) | [Intuos1 Inking Pen (GP-110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp110)<br>[Intuos1 Stroke Pen (GP-120)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp120)<br>[Intuos1 Classic Pen (GP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp300e)<br>[Intuos1 Airbrush Pen (GP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.gp400e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -60,6 +70,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — | — | — | — | — |
 | Attached cable | — | — | — | — | — |
 | Bluetooth | — | — | — | — | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GD-0405-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u) | [GD-0608-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u) | [GD-0912-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u) | [GD-1212-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u) | [GD-1218-U](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u) |
+| --- | --- | --- | --- | --- | --- |
+| Contents | — | — | — | — | — |
 {% endtab %}
 {% endtabs %}
 

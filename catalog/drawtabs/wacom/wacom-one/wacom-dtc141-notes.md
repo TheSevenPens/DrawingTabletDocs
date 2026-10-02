@@ -56,19 +56,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One 14 2025 |
 | Released | 2025-09-17 |
 | Status | Available |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 158 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 98% |
+| Color gamut | sRGB 98% |
 | Color depth | 8 bits per channel |
 | Brightness | 285 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | — |
 | Response time | 16 ms |
 {% endtab %}
@@ -77,12 +79,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
 | --- | --- |
 | Active area | 309 × 174 mm (12.2 × 6.9 in) |
+| Diagonal | 354.6 mm (14 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 4096 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -111,6 +124,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
+| --- | --- |
+| Contents | 1 x Display Device<br>1 x Wacom One Standard Pen<br>3 x Wacom One Pen Standard Nib<br>1 x nib removal tool<br>1 x USB Type-C Cable (1.8m) |
 {% endtab %}
 {% endtabs %}
 

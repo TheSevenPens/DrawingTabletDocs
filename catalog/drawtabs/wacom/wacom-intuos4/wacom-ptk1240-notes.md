@@ -23,19 +23,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos4 XL |
 | Released | 2009-03-24 |
 | Status | Discontinued |
-| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
 | --- | --- |
 | Active area | 487.7 × 304.8 mm (19.2 × 12 in) |
+| Diagonal | 575.1 mm (22.6 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 2048 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
+| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -61,6 +71,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | USB-A |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

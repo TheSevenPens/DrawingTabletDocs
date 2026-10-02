@@ -17,19 +17,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist Pro 16 GEN2 |
 | Released | 2023-08-14 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
 | --- | --- |
 | Resolution | 2560 × 1600 |
+| Aspect ratio | 16:10 |
+| Pixel density | 188 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | — |
+| Color gamut | — |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 20 ms |
 {% endtab %}
@@ -38,12 +40,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
 | --- | --- |
 | Active area | 345 × 215 mm (13.6 × 8.5 in) |
+| Diagonal | 406.5 mm (16 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -72,6 +85,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C<br>USB-C |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

@@ -19,19 +19,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos Small | Intuos Small Bluetooth | Intuos Medium | Intuos Medium Bluetooth |
 | Released | 2018-03-06 | 2018-03-06 | 2018-03-06 | 2018-03-06 |
 | Status | Discontinued | Discontinued | Discontinued | Discontinued |
-| Included pen | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
 | --- | --- | --- | --- | --- |
 | Active area | 152 × 95 mm (6 × 3.7 in) | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) | 216 × 135 mm (8.5 × 5.3 in) |
+| Diagonal | 179.2 mm (7.1 in) | 179.2 mm (7.1 in) | 254.7 mm (10 in) | 254.7 mm (10 in) |
+| Aspect ratio | 16:10 | 16:10 | 16:10 | 16:10 |
 | Pen technology | Passive EMR | — | Passive EMR | Passive EMR |
 | Pressure levels | 4096 | 4096 | 4096 | 4096 |
 | Tilt | None | None | None | None |
+| Accuracy (center) | — | — | — | — |
+| Accuracy (corner) | — | — | — | — |
 | Report rate | 133 Hz | 133 Hz | 133 Hz | 133 Hz |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | — | — | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Included pen | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) |
+| Compatible pens | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) | [4K Pen (LP-1100K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp1100k) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -57,6 +67,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | Micro-USB | Micro-USB | Micro-USB | Micro-USB |
 | Attached cable | None | None | None | None |
 | Bluetooth | No | Yes | No | Yes |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [CTL-4100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100) | [CTL-4100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl) | [CTL-6100](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100) | [CTL-6100WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |
+| --- | --- | --- | --- | --- |
+| Contents | — | — | — | — |
 {% endtab %}
 {% endtabs %}
 

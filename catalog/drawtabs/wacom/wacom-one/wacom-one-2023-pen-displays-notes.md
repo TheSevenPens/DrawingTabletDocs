@@ -22,19 +22,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One 12 2023 | Wacom One 13 touch 2023 |
 | Released | 2023-08-10 | 2023-08-10 |
 | Status | Available | Available |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
 | --- | --- | --- |
 | Resolution | 1920 × 1080 | 1920 × 1080 |
+| Aspect ratio | 16:9 | 16:9 |
+| Pixel density | 190 PPI | 166 PPI |
 | Panel | IPS | IPS |
 | Lamination | — | — |
 | Anti-glare | AG film | AG film |
-| sRGB | 99% | 99% |
+| Color gamut | sRGB 99% | sRGB 99% |
 | Color depth | 8 bits per channel | 8 bits per channel |
 | Brightness | 275 cd/m² | 320 cd/m² |
+| Viewing angle | — | — |
 | Refresh rate | 60 Hz | 60 Hz |
 | Response time | 18 ms | — |
 {% endtab %}
@@ -43,12 +45,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
 | --- | --- | --- |
 | Active area | 257 × 145 mm (10.1 × 5.7 in) | 294 × 165 mm (11.6 × 6.5 in) |
+| Diagonal | 295.1 mm (11.6 in) | 337.1 mm (13.3 in) |
+| Aspect ratio | ≈16:9 (1.772:1) | 16:9 |
 | Pen technology | Passive EMR | Passive EMR |
 | Pressure levels | 4096 | 4096 |
 | Tilt | ±60° | ±60° |
+| Accuracy (center) | — | — |
+| Accuracy (corner) | — | — |
 | Report rate | — | — |
 | Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
 | Max hover | — | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
+| Compatible pens | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -77,6 +90,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C<br>USB-C | USB-C<br>USB-C |
 | Attached cable | None | None |
 | Bluetooth | — | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121) | [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |
+| --- | --- | --- |
+| Contents | — | — |
 {% endtab %}
 {% endtabs %}
 

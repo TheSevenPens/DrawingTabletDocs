@@ -15,19 +15,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Wacom One 13 2019 |
 | Released | 2020-01-07 |
 | Status | Discontinued |
-| Included pen | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 166 PPI |
 | Panel | AHVA |
 | Lamination | — |
 | Anti-glare | AG film |
-| sRGB | — |
+| Color gamut | NTSC 72% |
 | Color depth | 8 bits per channel |
 | Brightness | 200 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | — |
 | Response time | 26 ms |
 {% endtab %}
@@ -36,12 +38,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
 | --- | --- |
 | Active area | 294 × 166 mm (11.6 × 6.5 in) |
+| Diagonal | 337.6 mm (13.3 in) |
+| Aspect ratio | ≈16:9 (1.771:1) |
 | Pen technology | Passive EMR |
 | Pressure levels | 4096 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | — |
 | Density | 100 LPmm (2540 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
+| --- | --- |
+| Included pen | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
+| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -70,6 +83,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

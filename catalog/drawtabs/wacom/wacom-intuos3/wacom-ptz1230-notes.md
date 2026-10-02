@@ -15,19 +15,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Intuos3 12x12 |
 | Released | 2004-09-14 |
 | Status | Discontinued |
-| Included pen | [Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [PTZ-1230](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptz1230) |
 | --- | --- |
 | Active area | 304.8 × 304.8 mm (12 × 12 in) |
+| Diagonal | 431.1 mm (17 in) |
+| Aspect ratio | 1:1 |
 | Pen technology | Passive EMR |
 | Pressure levels | 1024 |
 | Tilt | ±60° |
+| Accuracy (center) | — |
+| Accuracy (corner) | — |
 | Report rate | 200 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [PTZ-1230](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptz1230) |
+| --- | --- |
+| Included pen | [Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e) |
+| Compatible pens | [Intuos3 Ink Pen (ZP-130)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp130)<br>[Intuos3 Classic Pen (ZP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp300e)<br>[Intuos3 Airbrush Pen (ZP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp400e)<br>[Intuos3 Grip Pen (ZP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp501e)<br>[Intuos3 Art Marker Pen (ZP-600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.zp600) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -53,6 +63,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | USB-A |
 | Bluetooth | No |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [PTZ-1230](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptz1230) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

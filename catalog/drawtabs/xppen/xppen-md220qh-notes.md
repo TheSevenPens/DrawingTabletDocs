@@ -25,19 +25,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Artist Pro 22 GEN2 |
 | Released | 2024-05-20 |
 | Status | — |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
 | --- | --- |
 | Resolution | 2560 × 1440 |
+| Aspect ratio | 16:9 |
+| Pixel density | 137 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 99%<br>Display P3 94% |
 | Color depth | 8 bits per channel |
 | Brightness | 250 cd/m² |
+| Viewing angle | 178° horizontal<br>178° vertical |
 | Refresh rate | 60 Hz |
 | Response time | — |
 {% endtab %}
@@ -46,12 +48,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
 | --- | --- |
 | Active area | 475 × 267 mm (18.7 × 10.5 in) |
+| Diagonal | 544.9 mm (21.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.4 mm |
+| Accuracy (corner) | — |
 | Report rate | 220 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
+| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -80,6 +93,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C<br>HDMI<br>DC power<br>3.5 mm audio |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

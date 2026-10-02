@@ -17,19 +17,29 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Inspiroy 2 L |
 | Released | 2023-01-05 |
 | Status | — |
-| Included pen | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110) |
 {% endtab %}
 
 {% tab title="Digitizer" %}
 | | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
 | --- | --- |
 | Active area | 267 × 167 mm (10.5 × 6.6 in) |
+| Diagonal | 314.9 mm (12.4 in) |
+| Aspect ratio | 16:10 |
 | Pen technology | Passive EMR |
 | Pressure levels | 8192 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | — |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Included pen | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110) |
+| Compatible pens | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110)<br>[PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -55,6 +65,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C |
 | Attached cable | — |
 | Bluetooth | No |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

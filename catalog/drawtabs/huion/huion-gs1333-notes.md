@@ -45,19 +45,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas 13 GEN3 |
 | Released | 2024-09-01 |
 | Status | — |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
 | --- | --- |
 | Resolution | 1920 × 1080 |
+| Aspect ratio | 16:9 |
+| Pixel density | 166 PPI |
 | Panel | — |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 90%<br>Rec. 709 99% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 165° horizontal<br>165° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 25 ms |
 {% endtab %}
@@ -66,12 +68,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
 | --- | --- |
 | Active area | 294 × 165 mm (11.6 × 6.5 in) |
+| Diagonal | 337.1 mm (13.3 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±2 mm |
 | Report rate | 260 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | — |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
+| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -100,6 +113,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | USB-C<br>USB-C |
 | Attached cable | None |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
+| --- | --- |
+| Contents | — |
 {% endtab %}
 {% endtabs %}
 

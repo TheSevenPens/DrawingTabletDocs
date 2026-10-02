@@ -56,19 +56,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Name | Kamvas Pro 19 |
 | Released | 2024-01-09 |
 | Status | — |
-| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Display" %}
 | | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
 | --- | --- |
 | Resolution | 3840 × 2160 |
+| Aspect ratio | 16:9 |
+| Pixel density | 238 PPI |
 | Panel | IPS |
 | Lamination | Yes |
 | Anti-glare | Etched glass |
-| sRGB | 99% |
+| Color gamut | sRGB 99%<br>Adobe RGB 96%<br>DCI-P3 98% |
 | Color depth | 8 bits per channel |
 | Brightness | 220 cd/m² |
+| Viewing angle | 170° horizontal<br>170° vertical |
 | Refresh rate | 60 Hz |
 | Response time | 15 ms |
 {% endtab %}
@@ -77,12 +79,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
 | --- | --- |
 | Active area | 409 × 230 mm (16.1 × 9.1 in) |
+| Diagonal | 469.2 mm (18.5 in) |
+| Aspect ratio | 16:9 |
 | Pen technology | Passive EMR |
 | Pressure levels | 16384 |
 | Tilt | ±60° |
+| Accuracy (center) | ±0.3 mm |
+| Accuracy (corner) | ±1 mm |
 | Report rate | 250 Hz |
 | Density | 200 LPmm (5080 LPI) |
 | Max hover | 10 mm |
+{% endtab %}
+
+{% tab title="Pen" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
+| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
@@ -111,6 +124,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Ports | — |
 | Attached cable | — |
 | Bluetooth | — |
+{% endtab %}
+
+{% tab title="In the box" %}
+| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
+| --- | --- |
+| Contents | Kamvas Pro 19 Pen Display<br>PD Power Adapter<br>3-in-2 Cable (1.8m)<br>Full-featured USB-C Cable (1.8m)<br>USB-C to USB-C Cable (1.8m)<br>PW600 Digital Pen<br>PW600S Digital Pen<br>PN06 Standard Pen Nib x 5 (inside the pen case)<br>PN06F Felt Pen Nib x 5 (inside the pen case)<br>Pen Case<br>Built-in nib clip (pen nibs) |
 {% endtab %}
 {% endtabs %}
 
