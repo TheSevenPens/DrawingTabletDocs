@@ -102,6 +102,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Digitizer
+
+* Active Area diagonal: 21.474" (545.4mm)
+
+### Pens
+
+* See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
+* I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
+
+It is compatible with other pens in the X3 pro series. I tested with all of the pens below.
+
+* X3 Pro Roller Stylus
+* X3 Pro Slim Stylus
+* X3 Pro
+
 ## Links
 
 * product page: [https://www.xp-pen.com/product/artist-pro-22-gen-2.html](https://www.xp-pen.com/product/artist-pro-22-gen-2.html)
@@ -113,18 +130,11 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 <figure><img src="../../../.gitbook/assets/xppen-md220qh-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## Core specs
-
-* Active Area diagonal: 21.474" (545.4mm)
-* Aspect Ratio: 16x9
-* Accuracy: ±0.4 mm (center)
-
 ## Display
 
 * **Resolution**
   * This a significant upgrade from the Full HD (1920x1080) resolution of the XP-Pen Artist 22 Plus
-* Aspect Ratio: 16:9
-* Viewing Angle: 178°
+* Viewing Angle
   * Minimal color shift at extreme left/right angles, with very slight dimming at steep up/down tilts.
 
 ## **Display > Anti-glare**
@@ -133,22 +143,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## **Display > color**
 
-* Color Gamut Coverage Ratio: 99% Adobe RGB, 94% Display P3
 * **Color Calibration Report**: Tablet package came with a factory calibration report with a Delta E value of 0.88. I'm not an expert on colors but I was told this is good.
-
-## Included pen
-
-* The tablet comes with a single pen: X3 Pro Stylus.
-* See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
-* I was disappointed it only came with 1 pen. With some of the other Artist Pro GEN2 products we are getting two pens.
-
-## Compatible pens
-
-It is compatible with other pens in the X3 pro series. I tested with all of the pens below.
-
-* X3 Pro Roller Stylus
-* X3 Pro Slim Stylus
-* X3 Pro
 
 ## Physical characteristics
 
@@ -190,11 +185,6 @@ Looks exactly like the XP-Pen Artist 22 Plus. So very attractive overall design.
 Moving between low and high pressure gave smooth pressure transitions.
 
 ## Accuracy
-
-XP-Pen states:
-
-* Center: ±0.4 mm
-* Corner: NOT STATED
 
 RATING: VERY GOOD.
 

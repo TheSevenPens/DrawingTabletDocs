@@ -94,6 +94,19 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Display
+
+* Screen size: 23.8in (60.5cm)
+
+### Pens
+
+* For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
+* Pens in the box: These pens are different than the one that comes with the Xencelabs pen tablet. And the pens are NOT swappable.
+* Pen buttons: This new 3 Button Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
+* Pen eraser: Both pens have an eraser. But I don't use erasers so I have no comment on them.
+
 ## **Links**
 
 * Product page: [https://www.xencelabs.com/us/products/pen-display](https://www.xencelabs.com/us/products/pen-display)
@@ -103,10 +116,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Teoh on Tech - Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) 2023-03-28
 * [**r/drawingtablet - Xencelabs Pen Display 24 Review**](https://www.reddit.com/r/drawingtablet/comments/14y8xl7/xencelabs_pen_display_24_review/) 2023-07-12
 * [**r/drawingtablet - Xencelabs Pen Display 24 review**](https://www.reddit.com/r/drawingtablet/comments/173v9je/comment/k5geg5x/?utm_source=share&utm_medium=web2x&context=3) 2023-10-09
-
-## **Display > basics**
-
-* Screen size: 23.8in (60.5cm)
 
 ## **Edge & Corner accuracy**
 
@@ -177,10 +186,6 @@ With a plastic nib
 With a felt nib
 
 * Felt comparable to the Huion Kamvas Pro 19
-
-## **Pens**
-
-For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Pressure range
 
@@ -265,20 +270,6 @@ It's unclear if they are aware of the more general wobble I encountered.
 ## **Driver UX**
 
 Rating: EXCELLENT The best user experience and design of any tablet in the industry.
-
-## **Pen**
-
-### Pens in the box
-
-That these pens are different than the one that comes with the Xencelabs pen tablet. And the pens are NOT swappable.
-
-### Pen buttons
-
-This new 3 Button Pen V2 is an improvement from the old V1 pen. The buttons are more prominent and easier to tell apart by touch.
-
-### Pen eraser
-
-Both pens have an eraser. But I don't user erasers so I have no comment on them.
 
 ## **Hover distance**
 

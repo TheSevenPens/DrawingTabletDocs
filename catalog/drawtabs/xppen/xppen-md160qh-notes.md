@@ -94,6 +94,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+The X3 Pro pen is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md)
+
 ## **Links**
 
 * User manual: [https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
@@ -109,10 +115,6 @@ RATING: EXCELLENT
 * I like the overall design. Looks and feels very premium.
 * XP-Pen logo on bottom of tablet. It's present and visible without being obtrusive.
 
-## **Pen**
-
-The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly similar in shape to the Wacom Pro Pen 2. The pen handles pressure very well and has an eraser. More here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md)
-
 ## **Display**
 
 **Native resolution** - This is big improvement over an HD (1920x1080) screen at this size.
@@ -123,7 +125,7 @@ The tablet comes with the the new **XP-Pen X3 Pro Pen**. It is incredibly simila
 
 **Parallax** - GOOD. Little visible parallax.
 
-**Aspect Ratio** - 16:10. It is a little more squarish than the much more common 16:9 aspect ratio. After using it for a few days, I actually like the 16:10 aspect ratio. To me it makes the tablet feel a little larger than it is.
+**Aspect Ratio** - It is a little more squarish than the much more common 16:9 aspect ratio. After using it for a few days, I actually like the 16:10 aspect ratio. To me it makes the tablet feel a little larger than it is.
 
 <figure><img src="../../../.gitbook/assets/xppen-md160qh-notes-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -215,8 +217,6 @@ In one of the photos you may notice a slight separation between pointer and tip,
 I have heard a few comments on my YouTube channel indicating that some people found very bad tilt compensation. So far I believe if there is an issue it is only with a small number of defective units.
 
 ## Anti-glare treatment
-
-This tablet uses an etched glass surface instead of an AG film.
 
 It does a very good job of glare reduction. It is on par with the Huion Kamvas Pro 19 and a bit more glare reduction than the Cintiq Pro 22.
 

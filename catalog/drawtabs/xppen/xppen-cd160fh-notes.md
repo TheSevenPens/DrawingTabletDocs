@@ -92,6 +92,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Device
+
+* The ports are on the right side. Both are recessed into the tablet.
+
 ## Links
 
 * Product page: [https://www.xp-pen.com/product/artist-16-2nd-gen.html](https://www.xp-pen.com/product/artist-16-2nd-gen.html)
@@ -118,7 +124,3 @@ Totally silent
 ## Heat
 
 Cool on the left side. Warm on the right especially near where the USB-C ports are.
-
-## Ports
-
-2 USB-C ports on the right side. Both are recessed into the tablet.

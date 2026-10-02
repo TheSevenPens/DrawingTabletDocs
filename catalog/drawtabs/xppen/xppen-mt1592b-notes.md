@@ -72,6 +72,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+The X3 Pro pen's shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md) .
+
+* X3 Elite: NOT compatible with this tablet
+
 ## Links
 
 * [EyekooDrawsStuff review of XP-Pen Deco Pro GEN2](https://www.youtube.com/watch?v=itnwkJVlWiw) 2024-11-29
@@ -92,15 +100,6 @@ Is great across the board. The thing looks and feels great. In this dimension, s
 **Indicator lights on surface**
 
 Four indicator lights are just past the corners of the active area. They will light up if the pen is within 10 mm of the active area. The lights are white. You can turn them off in the driver.
-
-## **Pen**
-
-It comes with XP-Pen X3 Pro pen. The shape is very close to the Wacom Pro Pen 2. It has two buttons, an eraser. It has a good pressure range. Much more here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md) .
-
-**Pen compatibility**
-
-* X3 Pro pen: Compatible with this tablet
-* X3 Elite: NOT compatible with this tablet
 
 ## **Surface**
 

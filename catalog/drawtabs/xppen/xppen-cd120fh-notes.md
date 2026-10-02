@@ -96,15 +96,14 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Pen
+## Notes on specs
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+### Pens
+
+* Included pen: OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
-* XP-pen lists accuracy as:
-  * center ±0.5mm
-  * corner ± 1mm
 * I agree with XP-Pens accuracy numbers
 
 ## Diagonal wobble

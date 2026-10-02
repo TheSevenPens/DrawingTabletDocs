@@ -79,6 +79,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* Included pen: [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
+* The included P05 pen has exactly the same as the old model and has the same high IAF that ranges from 6gf to 9gf depending on the pen unit I tested. This IAF is higher than is typical for modern pen tablets. But it might work for some people.
+
 ## Links
 
 * [Brad Colbow - Review of Deco 01 V3](https://www.youtube.com/watch?v=2-TKwccrvuE) 2026-04-30
@@ -92,18 +99,6 @@ XP-Pen sells this tablet as an upgrade to the Deco 01 V2 - HOWEVER this looks to
 XP-Pen says that one clear improvement is that this tablet has better Android support. I did not find that to be the case in my testing. It had the same issues as I encountered with the Deco 01 V2. Why it didn't work seamlessly is unclear. It could have been due to the specific Android devices I tested with (I did test multiple).
 
 Other users say they have used this tablet with an Android device and it worked correctly. That just was not my experience.
-
-## Pens
-
-### Included pen
-
-XP-Pen P05 - [XP-Pen P05 pen notes](../../pens/xppen-pens/xppen-p05-notes.md)
-
-The included P05 pen has exactly the same as the old model and has the same high IAF that ranges from 6gf to 9gf depending on the pen unit I tested. This IAF is higher than is typical for modern pen tablets. But it might work for some people.
-
-### Compatible pens
-
-* XP-Pen P05
 
 ## Better alternatives
 

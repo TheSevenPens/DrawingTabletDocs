@@ -116,7 +116,3 @@ Option 1: USB-C + power
 Option 2: HDMI + USB + power
 
 <figure><img src="../../../.gitbook/assets/xppen-md220fh-notes-3.png" alt=""><figcaption></figcaption></figure>
-
-## Audio
-
-Comes with a headphone jack.

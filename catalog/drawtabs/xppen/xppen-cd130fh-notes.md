@@ -97,15 +97,23 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Pen
+## Notes on specs
 
-Comes with the XP-Pen X3 Elite pen - with an OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+### Device
+
+* The ports are on the side
+* Note that the ports are deeply recessed into wells.
+
+### Pens
+
+* Included pen: OK IAF and a GOOD pressure range. More here: [XP-Pen X3 Elite pen notes](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+
+## Pen
 
 ### Pen tracking <a href="#center-versus-corner-accuracy" id="center-versus-corner-accuracy"></a>
 
 * Accuracy in edges and corners is good.
 * XP-pen lists accuracy as:
-  * center ±0.5mm
   * corner ± 2mm
 * I agree with XP-Pens accuracy numbers
 
@@ -146,12 +154,6 @@ TYPICAL for a pen display - very slightly more than typical. But not by much.
 ## Parallax
 
 VERY GOOD. The tip of the pointer aligns very closely with the tip of the pen.
-
-## Ports
-
-2 USB-C ports on the side
-
-Note that the ports are deeply recessed into wells.
 
 ## Cables and connections
 

@@ -95,6 +95,22 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Display
+
+* Display size: 13.6 x 7.6" -> diagonal = 15.58"
+* Contrast ratio: 100000:1
+* Parallax: Unknown
+* Color gamut (beyond what the Specs tab lists)
+  * P3-D65 98%
+  * sRGB 99%
+  * REC 2020 82%
+
+### Pens
+
+* For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
+
 ## Links
 
 * Product page: [https://www.xencelabs.com/us/products/pen-display-16](https://www.xencelabs.com/us/products/pen-display-16)
@@ -106,29 +122,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Has a typical size, thickness and weight for a 16 pen display.
 * Note, if you have used a Wacom Movink 13 which also has an OLED display, be aware that the Movink is much thinner than this tablet. To be fair, Xencelabs does not market this tablet as an ultra-portable, lightweight tablet.
-
-## Core drawing tablet specs <a href="#core-drawing-tablet-specs" id="core-drawing-tablet-specs"></a>
-
-* Active area diagonal: 15.54" (394.9 mm)
-
-## Display specs <a href="#core-display-specs" id="core-display-specs"></a>
-
-* Aspect Ratio: 16x9
-* Display size: 13.6 x 7.6" -> diagonal = 15.58"
-* Contrast ratio: 100000:1
-* Parallax: Unknown
-
-## Color Gamut
-
-* Adobe RGB 98%
-* P3-D65 98%
-* sRGB 99%
-* REC 709 99%
-* REC 2020 82%
-
-## Pens
-
-For more information about these pens: [Xencelabs V2 pens notes](../../pens/xencelabs-pens/xencelabs-v2-pens-notes.md)
 
 ## Anti-glare sparkle
 

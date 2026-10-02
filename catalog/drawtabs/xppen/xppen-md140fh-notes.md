@@ -11,8 +11,7 @@ The main differences are size and resolution. This tablet has a 1920x1200 displa
 ## Basics
 
 * Product page: [https://www.xp-pen.com/product/artist-pro-14-gen-2.html](https://www.xp-pen.com/product/artist-pro-14-gen-2.html)
-* Included pen: X3 Pro. More here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md)
-* Active area diagonal: 13.9"
+* Included pen: more here: [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md)
 
 ## Specs
 

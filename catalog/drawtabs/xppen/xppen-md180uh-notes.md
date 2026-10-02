@@ -92,27 +92,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Links
+## Notes on specs
 
-* Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
-* [David Review - Review of XP-Pen Artist Pro 19 GEN2](https://www.youtube.com/watch?v=d8Ft3b002LM) 2024-11-20
-* [Brad Colbow - XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024-08-27
-* [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024-10-22
+### Digitizer
 
-## Digitizer specs
-
-* Active Area diagonal: 18.47" (469.2mm)
-* Aspect Ratio: 16x9
 * NOTE: it has the exact same size Active Area as the Huion Kamvas Pro 19.
 
-## Display specs
+### Display
 
-* Aspect Ratio: 16:9
-* Viewing Angle: 178°
-* Color: 10 bit (8bit+FRC)
-* Color Gamut Coverage Ratio: 96% Adobe RGB, 98% Display P3
+* Color: the 10 bit is 8bit+FRC
 
-## Included Pens
+### Pens
 
 The tablet comes with two pens
 
@@ -121,13 +111,17 @@ The tablet comes with two pens
 
 See [XP-Pen X3 Pro pens](../../pens/xppen-pens/xppen-x3propen-notes.md).
 
-## Compatible pens
-
 It is compatible with other pens in the X3 pro series.
 
-* X3 Pro Roller Stylus
 * X3 Pro Slim Stylus
 * X3 Pro - I tested this. It worked.
+
+## Links
+
+* Product page: [https://www.xp-pen.com/product/artist-pro-19-gen-2.html](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
+* [David Review - Review of XP-Pen Artist Pro 19 GEN2](https://www.youtube.com/watch?v=d8Ft3b002LM) 2024-11-20
+* [Brad Colbow - XP Pen Artist Pro 19 (GEN 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) 2024-08-27
+* [Teoh on Tech - Review of XP-Pen Artist Pro 19 (GEN2)](https://www.youtube.com/watch?v=d51hmYgfz5E) 2024-10-22
 
 ## Display experience
 
@@ -168,11 +162,6 @@ In my testing with the pens that came with the tablet
 Moving between low and high pressure cave smooth pressure transitions.
 
 ### Accuracy
-
-XP-Pen states:
-
-* Center: ±0.4 mm
-* Corner: ±0.8 mm
 
 RATING: VERY GOOD.
 
@@ -250,7 +239,7 @@ I tested both the configurations below with my M3 MacBook Pro and a Surface Pro 
 
 ### Legs
 
-YES. This tablet has a two folding legs on the back.
+This tablet has a two folding legs on the back.
 
 ### Stand
 

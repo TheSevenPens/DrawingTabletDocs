@@ -82,28 +82,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
+
 ## Size
 
-* Aspect Ratio: 1.671
 * Aspect Ratio: 16:9.57
 * Size Category: Medium
-* Diagonal: 296.0 mm
 * Similar ISO Paper: 15% larger than A5
 
 ### Comparison to other pen tablets
 
 <figure><img src="../../../.gitbook/assets/xppen-it1060b-notes-1.png" alt=""><figcaption></figcaption></figure>
-
-## Pens
-
-Included pen: X3 Elite
-
-Compatible pens:
-
-* X3 Elite
-* X3 Elite Plus
-
-See this for more details about the pen: [XP-Pen X3 Elite](../../pens/xppen-pens/xppen-x3elitepen-notes.md)
 
 ## Drawing experience
 
