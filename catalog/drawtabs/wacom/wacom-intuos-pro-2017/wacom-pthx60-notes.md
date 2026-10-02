@@ -82,6 +82,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* The included **Wacom Pro Pen 2 (KP-504E)** is a HUGE part of why the drawing experience is so good. [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md).
+
 ## My experience with the models
 
 All models are excellent and highly recommended. I have spent MANY hours with all the models since their release.
@@ -103,23 +109,6 @@ Again, I recommend all three. But specifically, I suggest looking at these model
 ## Active area sizes
 
 <figure><img src="../../../../.gitbook/assets/wacom-intuos-pro-active-area-1.png" alt=""><figcaption></figcaption></figure>
-
-## Pens
-
-### Included Pen
-
-These tablets come with the **Wacom Pro Pen 2 (KP-504E)** which is a HUGE part of why the drawing experience is so good. [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md).
-
-### Compatible pens
-
-* Pro Pen 2 (KP-504E)
-* Pro Pen 3D (KP-505)
-* Pro Pen Slim (KP-301E)
-* Airbrush Pen (KP-400E)
-* Art Pen (KP-701E)
-* Classic Pen (KP-300E)
-* Grip Pen (KP-501E)
-* Pro Pen (KP-503E)<br>
 
 ## **Drawing experience**
 
@@ -144,8 +133,6 @@ Rating: VERY GOOD. Low amounts of wobble.
 **Included cables** - These tablets come with a USB C cable.
 
 **Using 3rd party USB-C cables** - You can use this cable or any USB C cable that supports data. In fact, I never use the USB C cables that Wacom provides for these tablets.
-
-**Wireless** - All three tablets support Bluetooth connectivity for wireless operation.
 
 ## Touch
 

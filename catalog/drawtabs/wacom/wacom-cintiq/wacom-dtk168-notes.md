@@ -111,6 +111,12 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Display
+
+* Laminated: Wacom uses the term "bonded"
+
 ## Device weight
 
 Slightly heavier than other pen displays at this size
@@ -119,11 +125,6 @@ Slightly heavier than other pen displays at this size
 * Xencelabs Pen Display 16: 1.3 kg
 * Huion Kamvas 16 gen 3: 1.2kg
 * Wacom Movink 13: 0.420kg
-
-## Display specs
-
-* Aspect ratio: 16:10
-* Laminated: Wacom uses the term "bonded"
 
 ## Display experience
 

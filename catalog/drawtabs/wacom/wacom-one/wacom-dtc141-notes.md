@@ -28,23 +28,6 @@ This tablet makes sense for the following scenarios:
 
 * Product page: [https://www.wacom.com/en-us/products/pen-displays/wacom-one](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 
-### Active area
-
-* Diagonal length: 357.1 (14.06 in)
-* Aspect ratio: 16x9
-
-### What's in the box
-
-* 1 x Display Device
-* 1 x Wacom One Standard Pen
-* 3 x Wacom One Pen Standard Nib
-* 1 x nib removal tool
-* 1 x USB Type-C Cable (1.8m)
-
-###
-
-*
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). Click a model ID to see its full record there.
@@ -133,40 +116,34 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Pens
+## Notes on specs
 
-### Included pen
-
-* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
-  * High consumer-level IAF
-  * OK pressure range
-  * Replacement cost: $35
-
-### Compatible pens
-
-* Wacom One Standard Pen (CP-923)
-* Wacom One Pen (CP-913)
-* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
-* I tested these pens and they worked fine
-  * Wacom One Pen (CP-913)
-  * Wacom One Standard Pen (CP-923)
-  * Samsung S Pen
-  * Staedtler Noris Digitial
-  * Staedtler Noris Digitial Jumbo
-  * Staedtler Mars Lumograph digital
-
-### Incompatible pens
-
-* All Wacom pro pens are incompatible
-  * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
-
-## Display
-
-### Other display specs
+### Display
 
 * Surface: Described as "AG + AF glass"
 * Lamination: Described as "Direct Bonding"
 * Contrast ratio: 1000:1
+
+### Digitizer
+
+* Diagonal length: 357.1 (14.06 in)
+
+### Pens
+
+* Included pen: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+  * High consumer-level IAF
+  * OK pressure range
+  * Replacement cost: $35
+* UD EMR pens. See [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
+* I tested these pens and they worked fine
+  * Samsung S Pen
+  * Staedtler Noris Digital
+  * Staedtler Noris Digital Jumbo
+  * Staedtler Mars Lumograph digital
+* Incompatible pens: all Wacom pro pens are incompatible
+  * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
+
+## Display
 
 ### Anti-glare sparkle
 
@@ -177,8 +154,6 @@ LOW (GOOD)
 Very good. Almost no color shift at extreme angles.
 
 ### Surface protection
-
-The surface is etched glass
 
 the tablet does NOT come with a screen protector
 

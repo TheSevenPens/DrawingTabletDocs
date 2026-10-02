@@ -95,6 +95,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Display
+
+* Contrast ratio: 1000:1
+
+### Pens
+
+* Tested and confirmed that these older pens work fine with the Cintiq Pro 27
+  * Wacom Pro Pen 2 (KP-504E)
+  * Wacom Grip Pen (KP-501E)
+  * Wacom Art Pen (KP-701E)
+* [Wacom's list of supported pens for the Cintiq Pro 27](https://support.wacom.com/hc/en-us/articles/9170502251927-What-are-the-accessory-pens-I-can-use-with-the-Wacom-Cintiq-Pro-27-2022-)
+* The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2. See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
+
 ## Links
 
 * [Adam Duff - WACOM CINTIQ PRO 27 (vs Cintiq Pro 22, Cintiq 24, Xencelabs 24 & Huion Kamvas Pro 24 (gen 3)](https://www.youtube.com/watch?v=gmISfMqr8Rg) 2026-01-28
@@ -149,11 +164,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
   * The Wacom Cintiq Pro 32 (DTH-3220) first released in 2018.
   * The discontinued Cintiq 27HD (DTK-2700) first released in 2015.
 * The available largest size from competitors is 24"
-
-#### Specs
-
-* diagonal size = 26.9 in (68.3cm)
-* aspect ratio: 16x9
 
 ### Pointer lag
 
@@ -218,11 +228,6 @@ Compare to some other diagonal samples linked from here: [Diagonal wobble](../..
 
 ## **Display**
 
-### Specs
-
-* aspect ratio: 16x9
-* contrast ratio: 1000:1
-
 ### **Bit depth**
 
 * Also works at standard 8 bits per RGB channel (24 bits for each pixel) giving 16.7 unique colors
@@ -270,11 +275,6 @@ Deep black to my eyes - not dark grey.
 ## Color Support
 
 I don't have a much background in color - especially in a professional sense. Here I am just listing the specs.
-
-### Gamut
-
-* 98% DCI-P3
-* 99% Adobe RGB
 
 ### Color modes
 
@@ -389,20 +389,6 @@ My usage: I left it at **Native**.
 #### Objective measure of fan noise
 
 * I had originally hoped to use a device to measure the noise, but when I went to research these devices I learned that consumer-level devices and apps are unreliable.
-
-## Pen Compatibility
-
-* Tested and confirmed that these older pens work fine with the Cintiq Pro 27
-  * Wacom Pro Pen 2 (KP504E)
-  * Wacom Grip Pen (KP-501E)
-  * Wacom Art Pen (KP-701E)
-* [Wacom's list of supported pens for the Cintiq Pro 27](https://support.wacom.com/hc/en-us/articles/9170502251927-What-are-the-accessory-pens-I-can-use-with-the-Wacom-Cintiq-Pro-27-2022-)
-
-## Wacom Pro Pen 3
-
-The Wacom Pro Pen 3 is a very normal EMR pen that lives up to previous models in terms of quality. And may be slightly better than the Wacom Pro Pen 2.
-
-See my [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md).
 
 ## Touch
 

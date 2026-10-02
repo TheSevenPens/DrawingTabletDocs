@@ -99,6 +99,20 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Display
+
+* The new display panels have a wider color gamut. They are clearly better than the old Wacom One (DTC-133) tablet.
+
+### Pens
+
+* Included pen: [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Besides the CP-923, these tablets are compatible with the older CP-913, which you might prefer. They are also compatible with some other third-party pens.
+  * Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
+  * r/wacom - [Summary of pens, including double-button pens, available for Wacom One pen displays](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/) 2020-12-26
+  * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
+
 ## Links
 
 * Wacom One 13 touch user manual - [https://101.wacom.com/userhelp/en/toc/dth134.html](https://101.wacom.com/userhelp/en/toc/dth134.html)
@@ -111,22 +125,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * [Aaron Rutten review of Wacom One Small & Medium](https://www.youtube.com/watch?v=w7QLQFOK_eU) 2023-09-15
 * [Brad Colbow review of Wacom One 12](https://www.youtube.com/watch?v=SBlliNcRKNw) 2023-08-18
 * [Tom's Guide review of Wacom One 13 touch](https://www.tomsguide.com/reviews/wacom-one-13-touch) 2023-08-10
-
-## Included pen
-
-Comes with the Wacom One Standard Pen (CP-923). [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
-
-## Compatible pens
-
-Besides the CP-923, these tablets are compatible with the older CP-913, which you might prefer. They are also compatible with some other third-party pens.
-
-* Pen compatibility list from Wacom: [https://www.wacom.com/en-us/comp](https://www.wacom.com/en-us/comp)
-* r/wacom - [Summary of pens, including double-button pens, available for Wacom One pen displays](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/) 2020-12-26
-* [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
-
-## Display specs
-
-* The new display panels have a wider color gamut. They are clearly better than the old Wacom One (DTC-133) tablet.
 
 ## Drawing experience
 

@@ -92,6 +92,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* As of 2026, the included pen is still likely the best drawing pen that has ever existed, with a very low initial activation force, a very high maximum pressure, and good ergonomics.
+* See: [Wacom Pro Pen 2 KP-504E notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
+
 ## Links
 
 * [Aaron Rutten - Review of Wacom Cintiq Pro 24 & 32](https://www.youtube.com/watch?v=lvSeRhrUcCY) 2018-12-13
@@ -114,12 +121,6 @@ CONS
 
 * It was released in 2018 and we do expect Wacom to drop driver support sometime in the next few years. When the driver support stops, you're going to have to deal with that somehow. You could use an older driver, or you could use open tablet driver. At some point, an older driver will eventually not work on a more modern version of Windows or Mac OS. We just don't know when that might occur.&#x20;
 * It is large - It may be too large for you. I recommend creating a cardboard mockup that includes its bezel and drawing a rectangle where the screen is. This way, you can simulate what it would feel like for you.&#x20;
-
-## Included Pen
-
-The tablet comes with the Wacom Pro Pen, model number KP504E. As of 2026, this pen is still likely the best drawing pen that has ever existed, with a very low initial activation force, a very high maximum pressure, and good ergonomics.
-
-See: [Wacom Pro Pen 2 KP-504E notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
 
 ## Ergonomics
 

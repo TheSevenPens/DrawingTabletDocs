@@ -80,14 +80,6 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Pen compatibility
-
-* Wacom Grip pen (KP-501E)
-* Wacom Pro Pen (KP-503E)
-* Wacom Art Pen (KP-701E)
-* Wacom Classic Pen (KP-300E)
-* Wacom Airbrush Pen (KP-400E)
-
 ## Resources
 
 * [Terry Lee White - Intuos 5 Review](https://www.youtube.com/watch?v=4bNXtZCVg54) 2012-03-15

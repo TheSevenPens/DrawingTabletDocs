@@ -98,6 +98,15 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* Other compatible pens
+  * Classic Pen (KP-300E)
+  * Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
+* Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here: [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md).
+
 ## Links
 
 * [Brad Colbow - Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) 2025-07-28
@@ -115,22 +124,6 @@ Sometime in 2026 I will make a full "review" video soon.
 ## Basics
 
 * Product page: [https://www.wacom.com/en-us/products/wacom-cintiq](https://www.wacom.com/en-us/products/wacom-cintiq)
-
-## Display specs
-
-* Aspect ratio: 16:9
-
-## Compatible pens
-
-* Wacom Pro Pen 2 (KP-504E)
-* Wacom Pro Pen slim (KP-301E)
-* Wacom Pro Pen 3D (KP505)
-* Pro Pen (KP-503E)
-* Grip Pen (KP-501E)
-* Classic Pen (KP-300E)
-* Art Pen (KP-701E)
-* Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
-* Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here: [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md).
 
 ## Non-pen input
 

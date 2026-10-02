@@ -93,25 +93,13 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## **Pens**
+## Notes on specs
 
-### **Included pen**
+### Pens
 
-* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
-
-### Compatible pens
-
-* Wacom One pen (CP-913) - [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
-* Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Included pen: see [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
+* Wacom One pen (CP-913): see [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
 * UD EMR pens (like Samsung S pen, etc.)
-
-## **Digitizer specs**
-
-* Active area
-  * Wacom One S (2023) - CTC4110WL
-    * Diagonal: 179.25 mm (7.06 in)
-  * Wacom One M (2023) - CTC6110WL
-    * Diagonal: 254.72 mm (10.03 in)
 
 ## **Drawing experience**
 

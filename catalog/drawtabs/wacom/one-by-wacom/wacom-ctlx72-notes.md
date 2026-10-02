@@ -28,18 +28,6 @@ There is NOT a modern Wacom tablet that is a direct successor to this tablet. Of
   * Product page: [https://www.wacom.com/en-us/products/one-by-wacom](https://www.wacom.com/en-us/products/one-by-wacom) ([archive](https://archive.is/wip/PFbRz))
   * User manual: [http://101.wacom.com/UserHelp/en/TOC/CTL-472.html](http://101.wacom.com/UserHelp/en/TOC/CTL-472.html)
 
-### Active area
-
-Diagonal
-
-* Small CTL-472: 179.25 mm (7.06 in)
-* Medium CTL-672: 254.72 mm (10.03 in)
-
-Aspect ratio:
-
-* Small: 1.78:1 (16:9)
-* Medium: 1.60:1 (16:10)
-
 ## **Photos**
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-1.jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
@@ -114,21 +102,22 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Digitizer
+
+* Aspect ratio of the Small (CTL-472): 1.78:1 (16:9)
+
+### Pens
+
+* Included pen: a standard 2-button pen. And actually quite a good one. More here: [Wacom 2K Pen (LP-190K)](../../../pens/wacom-pens/wacom-lp190k-notes.md)
+* This tablet ONLY works with the Wacom 2K Pen (LP-190K).
+
 ## Pressure and tilt
 
 * **Pressure Levels** - This may seem low when you see other tablets rated at 8K or 16K pressure levels. Do not worry. 2048 is enough pressure levels for creative tasks. This is absolutely not going to affect the quality of the art you can make with this tablet. I maintain all you need are about 2000 levels of pressure.
 * **Tilt** - this tablet does NOT support tilt
   * For a beginner this may not be an issue. Many people do not need tilt.
-
-## **Pens**
-
-### **Included pen**
-
-The tablet comes with a Wacom 2K Pen (LP-190K). This is a standard 2-button pen. And actually quite a good one. More here: [Wacom 2K Pen (LP-190K)](../../../pens/wacom-pens/wacom-lp190k-notes.md)
-
-### Pen compatibility
-
-* This tablet ONLY works with the Wacom 2K Pen (LP-190K).
 
 ## **Cabling and connectivity**
 

@@ -20,13 +20,6 @@ These here are some of my initial thoughts on this device.
 
 Product page - [https://www.wacom.com/en-us/products/wacom-movinkpad-11](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
 
-### What's in the box
-
-* MovinkPad 11
-* USB-C to C charging cable
-* Wacom Pro Pen 3 (slim barrel) with nib holder
-* 3 felt nibs
-
 ## Specs
 
 These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). Click a model ID to see its full record there.
@@ -125,6 +118,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Pens
+
+* Included pen: see [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* It is compatible with [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
+* <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
+  * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
+  * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
+  * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>
+
 ## Movink vs MovinkPad
 
 Because the names are familiar, I'll highlight the key differences
@@ -138,25 +142,11 @@ Because the names are familiar, I'll highlight the key differences
 
 If you are ordering this device online, please make sure you are ordering the correct device.
 
-### Included pen
-
-* Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-
 ### Pen replacement cost
 
 * Losing or breaking your pen is always a bad experience.
 * In this case you REALLY want to take care of your pen because the replacement cost of the Pro Pen 3 (ACP-500) is $130.
 * Yes, you can buy the a cheaper UD EMR pen as a replacement - but these are AWFUL compared to the Pro Pen 3.
-
-## Pen compatibility
-
-* It is compatible with
-  * Pro Pen 3 (ACP-500) - [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-  * [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md)
-* <mark style="color:red;">**It is NOT compatible with Wacom professional pens such as**</mark>
-  * <mark style="color:red;">**Wacom Pro Pen 2 (KP-504E)**</mark>
-  * <mark style="color:red;">**Wacom Grip Pen (KP-501E)**</mark>
-  * <mark style="color:red;">**Wacom Art Pen (KP-701E)**</mark>
 
 ## Standalone experience
 
@@ -269,8 +259,6 @@ The tablet does NOT come with a case.
 Wacom lists a compatible case which as of Aug 8 2025 has not been released: **Wacom MovinkPad 11 Case with Stand (ACK45533Z)**
 
 ## Stand
-
-The tablet does NOT come with a stand.
 
 Wacom lists this stand as an accessory: **Wacom Foldable Stand (ACK652Z)**
 

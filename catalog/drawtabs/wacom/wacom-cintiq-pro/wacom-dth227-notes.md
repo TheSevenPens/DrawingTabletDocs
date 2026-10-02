@@ -96,20 +96,10 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Basics
+## Notes on specs
 
-* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
-* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH227.html](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
+### Display
 
-## Compatible pens
-
-The list of compatible pens is here: [https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22](https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22)
-
-I mostly use the Wacom Pro Pen 2 with this tablet.
-
-## Display specs
-
-* Aspect ratio: 16x9
 * Size: 26.9 in (68.3 cm)
 * Brightness
   * I run it at 50% brightness.
@@ -133,6 +123,16 @@ I mostly use the Wacom Pro Pen 2 with this tablet.
 * Custom
 
 I left it running in **Native** mode.
+
+### Pens
+
+* The list of compatible pens is here: [https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22](https://support.wacom.com/hc/en-us/articles/1500006268761-What-accessories-are-available-for-my-Wacom-Cintiq-22)
+* I mostly use the Wacom Pro Pen 2 with this tablet.
+
+## Basics
+
+* Product page: [https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview](https://www.wacom.com/en-us/products/wacom-cintiq-pro-overview)
+* User manual: [https://101.wacom.com/UserHelp/en/TOC/DTH227.html](https://101.wacom.com/UserHelp/en/TOC/DTH227.html)
 
 ## Display experience
 

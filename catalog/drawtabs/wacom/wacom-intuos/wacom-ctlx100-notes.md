@@ -76,15 +76,17 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Pen compatibility
+## Notes on specs
 
-These tablets are ONLY compatible with the Wacom 4K Pen (LP-1100K). See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../../pens/wacom-pens/wacom-lp1100k-notes.md).
+### Pens
+
+* See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../../pens/wacom-pens/wacom-lp1100k-notes.md).
 
 ## -pen inputs
 
 ### Auxiliary inputs
 
-The tablet has 4 buttons at the top
+The tablet has its buttons at the top
 
 NOTE: technically there is a fifth button - but that is for turning the bluetooth on and off
 

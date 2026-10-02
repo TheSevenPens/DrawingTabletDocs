@@ -114,7 +114,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Display
 
-**Lamination** - This is not a laminated display. Yes this introduces a very slight increase in parallax but not much. And it did not affect my drawing.
+**Lamination** - The lack of lamination introduces a very slight increase in parallax but not much. And it did not affect my drawing.
 
 **Brightness** - Like many pen displays, this is not a super bright display - which is fine because most people tend to keep their eyes closer to the screen than a normal monitor and if the display was brighter, it might be overwhelming.
 
@@ -153,8 +153,6 @@ pixels are clearly visible and well delineated
 I think this did have a little more backlight bleed than other pen displays. I am not particularly sensitive to backlight bleed, and it did not affect me at all.
 
 ## **VESA mounting**
-
-YES. This tablet supports VESA mounting (100mmx100mm)
 
 I did not test with any VESA arm or stand.
 

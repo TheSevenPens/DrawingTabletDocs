@@ -138,6 +138,27 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
+## Notes on specs
+
+### Digitizer
+
+* Barrel rotation - YES. Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.
+
+### Pens
+
+* Included pen: see [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
+
+#### The tablet only comes with 1 pen
+
+This is a little bit of a disappointment. Some other brands are starting to include 2 pens with some of their professional models.
+
+For example, as of April 2025, here is a **partial** list of tablets that come with two pens:
+
+* Xencelabs Pen Tablet Medium
+* Huion Kamvas Pro 19
+* Huion Kamvas Pro 27
+* XP-Pen Artist Pro 19 GEN2
+
 ## Design
 
 Although not everyone shares this opinion, I find it a very beautiful and professional-looking tablet.
@@ -157,27 +178,6 @@ One of the interesting design touches is a slight texture on the non-drawing sur
 Nothing too surprising, you get the tablet, pen, pen stands, and nibs.
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-7.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-## Pen
-
-### Included pen
-
-The tablet comes with the Pro Pen 3 (ACP-500). [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-
-### The tablet only comes with 1 pen
-
-This is a little bit of a disappointment. Some other brands are starting to include 2 pens with some of their professional models.
-
-For example, as of April 2025, here is a **partial** list of tablets that come with two pens:
-
-* Xencelabs Pen Tablet Medium
-* Huion Kamvas Pro 19
-* Huion Kamvas Pro 27
-* XP-Pen Artist Pro 19 GEN2
-
-## Digitizer specs
-
-* Barrel rotation - YES. Although the included Pro Pen 3 does not support barrel rotation. You can use the Wacom Art Pen (KP-701E) that does support rotation with the tablet.
 
 ## Drawing experience
 

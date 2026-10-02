@@ -109,23 +109,15 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other specs
-
-### Digitizer
-
-* Active Area Diagonal: 23.6"
-* Aspect ratio: 16x9
+## Notes on specs
 
 ### Display
 
-* Viewing angles: 178°/178°
 * Contrast ratio: 1000:1
-* Color gamut: 99% Adobe RGB
 
-## Compatible pens
+### Pens
 
-* Pro Pen 2 (KP-504E)
-* others (TBD)
+* Compatible pens other than the Pro Pen 2 (KP-504E): TBD
 
 ## Links
 

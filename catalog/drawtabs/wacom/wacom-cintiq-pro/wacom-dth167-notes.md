@@ -162,7 +162,7 @@ Fans keep it cool. At the default brightness, the tablet is cool to the touch. A
 
 ## Stand
 
-It does not come with a stand. I use a VESA-compatible Huion stand to hold this tablet at an angle.
+I use a VESA-compatible Huion stand to hold this tablet at an angle.
 
 ## Diagonal Wobble
 

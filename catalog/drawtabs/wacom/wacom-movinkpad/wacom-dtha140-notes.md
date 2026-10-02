@@ -150,7 +150,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% endtab %}
 {% endtabs %}
 
-## Other specs
+## Notes on specs
 
 ### Device
 
@@ -170,42 +170,21 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Display
 
-* Diagonal size: 14"
-* Aspect ratio: 16x10
 * Pixel density: 243 ppi
 * Contrast: 100,000:1
 * Surface: Wacom states AR/AG/AF
 * Brightness: 900 nits
-* Viewing Angle: 170 degrees
-* Color gamut: 100% DCI-P3
 
-## What's in the box
+### Pens
 
-* Tablet
-* Pro Pen 3 (no grip)
-* USB-C charging cable
-* 3 nibs (stored in pen)
-  * Carbon Shaft POM x1
-  * Felt nib x1
-  * POM x1
-
-## Pens
-
-### Included Pen
-
-* Pro Pen 3 (no grip)
-* See: [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-
-### Compatible pens
-
-* Pro Pen 3 (ACP-500) [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
-* UD EMR pens such as:
+* Included pen: see [Wacom Pro Pen 3 (ACP-500) notes](../../../pens/wacom-pens/wacom-acp500-notes.md)
+* Compatible UD EMR pens such as:
   * Wacom One (CP-913) [Wacom One Pen (CP-913) notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
   * Wacom One (CP-923) [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
   * Samsung S Pen
   * Keep in mind that these UD EMR pens are nowhere close to the quality of the Wacom professional pens such as the Pro Pen 3. Their chief advantage is that they cost much less - usually around 30 to $40 whereas the Pro Pen 3 costs $130.00. So, these UD EMR pens can serve as a backup in case you lose or break your Pro Pen 3.
 
-### Incompatible Pens
+#### Incompatible Pens
 
 * Pro Pen 2 (KP-504E) [Wacom Pro Pen 2 (KP-504E) notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
   * You will not be able to use any of your existing Pro Pen 2 models with this device.
