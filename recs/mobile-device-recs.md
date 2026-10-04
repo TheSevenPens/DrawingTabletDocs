@@ -117,7 +117,9 @@ More here: [XP-Pen Magic Note Pad (MNP1095) notes](../catalog/drawtabs/xppen/xpp
 
 ### Avoid: Huion Kamvas Slate 11 and 13
 
-These use a USI pen instead of EMR. Diagonal wobble is severe, the initial activation force is high, pressure is erratic, and the screen is mediocre. More here: [Huion standalone tablets](../catalog/drawtabs/huion/huion-standalone.md)
+These use a USI pen instead of EMR. I haven't tried them myself, but reviewers have found problems with the pen, including severe diagonal wobble. See: [Brad Colbow - 2025 Huion Kamvas Slate 13 Review](https://www.youtube.com/watch?v=g_MoSgd8gto) 2025-04-24
+
+More here: [Huion standalone tablets](../catalog/drawtabs/huion/huion-standalone.md)
 
 ## Resources
 
