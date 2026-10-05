@@ -2,24 +2,23 @@
 
 ## Overview
 
-For report rate testing, several tools can be used.
+Several tools can measure report rate.
 
-## Local client tools
+## Web tools
 
-### OpenTabletDriver
-
-In OTD's tablet debugger, the report rate is shown.
-
-### Osu!
-
-In osu!, go to **Settings**, then turn on raw input. A report rate counter appears next to it. This tip came from Kuuube.
-
-## Web-based tools
+These tools were intended for testing mice, but they also work for drawing tablets. Keep the pen hovering and moving to get the maximum report rate. These tools only report changes when the pointer moves.
 
 * [https://skill-test.net/polling-rate-test](https://skill-test.net/polling-rate-test)
 * [https://testufo.com/mouserate](https://testufo.com/mouserate)
 
-Keep the pen hovering and moving to get the maximum report rate. These tools only report changes when the pointer moves.
+These tools were specifically intended for tablets:
+
+* [https://tablets.tokken.pl/inputtest](https://tablets.tokken.pl/inputtest)
+
+## Local tools
+
+* **OpenTabletDriver** — The report rate appears in OTD's tablet debugger.
+* **osu!** — Go to **Settings**, then turn on raw input. A report rate counter appears next to it. This tip came from Kuuube.
 
 ## Notes
 
