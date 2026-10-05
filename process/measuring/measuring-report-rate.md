@@ -13,7 +13,7 @@ These tools were intended for testing mice, but they also work for drawing table
 
 These tools were specifically intended for tablets:
 
-* [https://tablets.tokken.pl/inputtest](https://tablets.tokken.pl/inputtest)
+* [https://tablets.tokken.pl/inputtest](https://tablets.tokken.pl/inputtest)  - Wacom driver must be uninstalled to use this
 
 ## Local tools
 
