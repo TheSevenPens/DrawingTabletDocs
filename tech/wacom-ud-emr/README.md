@@ -15,6 +15,17 @@ Based on this reddit post (r\TabletPCReview - ["Wacom UD EMR Stylus Compendium" 
 
 For drawing tablets, it is the 2nd generation that is of primary interest. There is broad compatibility between tablets and pens that use this generation
 
+## About UD EMR 1st gen tablets
+
+I don't have much/any experience with these.&#x20;
+
+Based on conversations with my audience, this is what I've collected:
+
+* many old Windows XP / Vista / 7 / early-8 laptops use UD EMR 1st gen tech, specifically:
+  * The first two Microsoft Surface Pros
+  * HP EliteBook 2760p
+* NOTE: I have NOT confirmed any of this
+
 ## Identifying a UD EMR 2nd gen pen or tablet
 
 Ideally it would be easy to determine if a pen or tablet support UD EMR. Unfortunately ...
@@ -52,7 +63,7 @@ Pens that use UD EMR seem deliberately limited in how well they handle pressure.
 
 ### Buttons
 
-Most UD EMR pens have only one button or in some cases no buttons. Some, like the the Wacom CP-923 pen, have two buttons - but this is rare.&#x20;
+Most UD EMR pens have only one button or in some cases no buttons. Some, like the the Wacom CP-923 pen, have two buttons - but this is rare.
 
 ## Resources
 
