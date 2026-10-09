@@ -4,16 +4,16 @@
 
 Overall, it makes for a very good basic tablet. That's not surprising. The tablet's technical lineage (digitizer) seems to be the Huion Frego M, which is one of my common recommendations for a pen tablet. See: [Huion Frego M L610 notes](../huion/huion-l610-notes.md).
 
-This brand is very new so this is a very good start for them. As always with new brands, we have to see how the devices and customer support and community adoption works in the long term.&#x20;
+This brand is very new so this is a very good start for them. As always with new brands, we have to see how the devices and customer support and community adoption works in the long term.
 
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). To add or fix a link, change it in DrawTabData.
 
-| Source | Link | Date |
-| --- | --- | --- |
-| DigiDraw | [Product page](https://www.digidraw.com/en/product/T610T410) |  |
-| Seven Pens | [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) |  |
+| Source     | Link                                                                                                                             | Date |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| DigiDraw   | [Product page](https://www.digidraw.com/en/product/T610T410)                                                                     |      |
+| Seven Pens | [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q\&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) |      |
 
 ## Specs
 
@@ -21,65 +21,65 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 {% tabs %}
 {% tab title="Model" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Name | Turing Basic M |
-| Released | 2025-09-05 |
-| Status | — |
+|          | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| -------- | -------------------------------------------------------------------------------------- |
+| Name     | Turing Basic M                                                                         |
+| Released | 2025-09-05                                                                             |
+| Status   | —                                                                                      |
 {% endtab %}
 
 {% tab title="Digitizer" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Active area | 254 × 158.8 mm (10 × 6.3 in) |
-| Diagonal | 299.6 mm (11.8 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
+|                   | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| ----------------- | -------------------------------------------------------------------------------------- |
+| Active area       | 254 × 158.8 mm (10 × 6.3 in)                                                           |
+| Diagonal          | 299.6 mm (11.8 in)                                                                     |
+| Aspect ratio      | 16:10                                                                                  |
+| Pen technology    | Passive EMR                                                                            |
+| Pressure levels   | 16384                                                                                  |
+| Tilt              | ±60°                                                                                   |
+| Accuracy (center) | —                                                                                      |
+| Accuracy (corner) | —                                                                                      |
+| Report rate       | —                                                                                      |
+| Density           | 200 LPmm (5080 LPI)                                                                    |
+| Max hover         | 10 mm                                                                                  |
 {% endtab %}
 
 {% tab title="Pen" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Included pen | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
+|                 | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610)   |
+| --------------- | ---------------------------------------------------------------------------------------- |
+| Included pen    | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
 | Compatible pens | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
 {% endtab %}
 
 {% tab title="Other inputs" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | No |
+|              | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| ------------ | -------------------------------------------------------------------------------------- |
+| Buttons      | 0                                                                                      |
+| Dials        | 0                                                                                      |
+| Touch rings  | 0                                                                                      |
+| Touch strips | 0                                                                                      |
+| Touch        | No                                                                                     |
 {% endtab %}
 
 {% tab title="Physical" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Size | 304.6 × 220.9 × 7.8 mm (12 × 8.7 × 0.3 in) |
-| Weight | — |
+|        | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| ------ | -------------------------------------------------------------------------------------- |
+| Size   | 304.6 × 220.9 × 7.8 mm (12 × 8.7 × 0.3 in)                                             |
+| Weight | —                                                                                      |
 {% endtab %}
 
 {% tab title="Connectivity" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | None |
-| Bluetooth | No |
+|                | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| -------------- | -------------------------------------------------------------------------------------- |
+| Ports          | USB-C                                                                                  |
+| Attached cable | None                                                                                   |
+| Bluetooth      | No                                                                                     |
 {% endtab %}
 
 {% tab title="In the box" %}
-| | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| --- | --- |
-| Contents | — |
+|          | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
+| -------- | -------------------------------------------------------------------------------------- |
+| Contents | —                                                                                      |
 {% endtab %}
 {% endtabs %}
 
@@ -87,7 +87,9 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ### Pens
 
-* Officially only the DigiDraw M3 pen is compatible. In my testing I was able to fully use a Huion PW500 pen with this tablet.
+* Officially only the DigiDraw M3 pen is compatible.&#x20;
+* In my testing I was able to fully use a Huion PW517 and PW550 pen with this tablet.
+* Likewise I was able to use the DigiDraw M3 pen with Huion tablets that support the PW515/PW550 pens.
 
 ## Design
 
@@ -117,9 +119,9 @@ This is a medium-sized tablet, and it is slightly larger than the Wacom Intuos P
 
 ## Pen pressure
 
-IAF: The M3 pen seems to have a typical IAF. I would estimate it at around 3 gf.&#x20;
+IAF: The M3 pen seems to have a typical IAF. I would estimate it at around 3 gf.
 
-MAX Pressure: I was also pleased with its maximum pressure - which \~350gf when I measured with a scale.&#x20;
+MAX Pressure: I was also pleased with its maximum pressure - which \~350gf when I measured with a scale.
 
 Notes
 
@@ -127,7 +129,7 @@ Notes
 
 ### Drawing at low pressure
 
-VERY GOOD>&#x20;
+VERY GOOD>
 
 All EMR pens have their reported pressure change a bit abruptly when drawing at low pressure near the IAF. So does this pen, but not as strongly as some pens like the Wacom Pro Pen 2. As a result, you probably won't need as much of a pressure curve or pressure smoothing to deal with it. Overall, the pressure is well controlled in that domain and relatively stable.
 
@@ -137,7 +139,7 @@ All EMR pens have their reported pressure change a bit abruptly when drawing at 
 * Feels fine to draw with. The texture has enough grip to keep the pen from feeling slippery.
 * Comparisons to Wacom Pro Pen 2 on PTH-660
   * The PTH-660 has a little more texture, but about the same amount of nib noise. The pitch is slightly lower.
-* The design on the surface is not "paint" and it does not affect the surface texture at all. The surface texture feels completely the same across the full area.  &#x20;
+* The design on the surface is not "paint" and it does not affect the surface texture at all. The surface texture feels completely the same across the full area.
 
 ### Button stroke interruption
 
@@ -182,8 +184,8 @@ Driver experience
 Driver issues I discovered:
 
 * MINOR ANNOYANCE
-  * The driver UI got confused on the identities of the monitors. I have two monitors - let's call them A and B. If I wanted to map the tablet to monitor A, I had to pick monitor B. You can see this occur in my livestream video.&#x20;
-  * I tested on my standard testing machine and have never experienced this before. It is unclear what is causing it, but since I have never seen this with any other driver I lean towards this being a driver issue.&#x20;
+  * The driver UI got confused on the identities of the monitors. I have two monitors - let's call them A and B. If I wanted to map the tablet to monitor A, I had to pick monitor B. You can see this occur in my livestream video.
+  * I tested on my standard testing machine and have never experienced this before. It is unclear what is causing it, but since I have never seen this with any other driver I lean towards this being a driver issue.
 
 ## Usage with Android
 
@@ -195,4 +197,3 @@ In all cases:
 
 * Only a vertical column on the tablet, about a third of the tablet, is usable.
 * Strokes were severely distorted on Android.
-
