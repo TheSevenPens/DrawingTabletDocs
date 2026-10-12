@@ -68,23 +68,17 @@ FP restricts the region of the active area that matches to that of your monitor 
 {% endtab %}
 
 {% tab title="Linux" %}
-#### Linux (Fedora)
+#### GNOME (Ubuntu, Fedora, Debian)
 
-* Open **Settings** > **Graphics Tablets**
-* Enable **Keep Aspect Ratio**
-{% endtab %}
+* Open **Settings** > **Graphics Tablets** (or it might be called **Wacom Tablets**)
+* Under mapping/tablet options, enable **Keep Aspect Ratio**
 
-{% tab title="Huion" %}
-* Launch the **HuionTablet** app
-* Go to **Working Area**
-* On the bottom left there is a drop down.
-* Switch the dropdown to **Screen Ratio**./
-{% endtab %}
+#### **KDE Plasma**
 
-{% tab title="OTD" %}
-1. Open the OpenTabletDriver app
-2. In the **Output** tab, right-click the **Tablet** area rectangle.
-3. Enable **Lock aspect ratio**
+* Open System Settings > Input Devices > Drawing Tablet
+* Select your tablet and pen
+* Go to the **Mapping** or **Tablet** tab
+* Look **Keep aspect ratio** (or it might be called **Lock aspect ratio**)
 {% endtab %}
 {% endtabs %}
 
