@@ -6,6 +6,8 @@ The Wacom Intuos Pro 2017 (PTH-x60) series of tablets are still the best pen tab
 
 With the release of the 2025 edition, you might be tempted to buy the 2017 edition to save some money. This is a valid choice but you should take some things into consideration: [Buying an Intuos Pro 2017 in 2026](buying-pthx60-in-2026.md)
 
+For how the two editions differ, see [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md).
+
 ## Models
 
 There are three models in this edition.
