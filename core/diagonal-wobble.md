@@ -4,7 +4,9 @@
 
 Diagonal wobble is a regular displacement of the tablet's interpretation of the pen's position.
 
-You might also see this referred to as "jitter."
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+You might also see this referred to as "jitter" - but "jitter" can mean other effects on the pen's interpeted position that look different from diagonal wobble.
 
 Not to be confused with [Stroke quantization](digitizer-vs-screen-coordinates.md), which looks similar but is a Windows software problem that can usually be fixed.
 
@@ -16,15 +18,15 @@ I covered wobble extensively in this video about pen display accuracy: [https://
 
 If you slowly draw a line on a tablet with a ruler, the wobble will be apparent on diagonal lines. The diagram below exaggerates the wobble.
 
-<figure><img src="../.gitbook/assets/diagonal-wobble-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Characteristics
 
 * The wobble can happen with any kind of pen movement, whether straight lines or curves.
 * As the name suggests, the wobble is most apparent when the pen moves at an angle.
   * A 45-degree angle exhibits the most wobble.
-  * A 0-degree or 90-degree angle exhibits no wobble.
-  * Angles between 0 and 90 exhibit more wobble as they approach 45 degrees.
+  * A 0° or 90° angle exhibits no wobble.
+  * Angles between 0° and 90° exhibit more wobble as they approach 45°.
 * Wobble is more obvious with straight lines, even though the same amount occurs with curves.
 * Generally, wobble becomes more visible the slower the pen is traveling.
 * Some tablets exhibit the wobble even when moving the pen fast. This is less common.
@@ -49,7 +51,6 @@ If you slowly draw a line on a tablet with a ruler, the wobble will be apparent 
 * The wobble is not caused by the nib moving in the pen.
   * The nib can be perfectly fixed, and you would still observe wobble.
   * The tablet senses the inductor coil deeper inside the pen, not the nib.
-* The wobble comes from the tablet and how it senses the pen position.
 * The wobble is due to how the tablet senses and interpolates the pen's position.
 * Wobble is present in multiple digital pen technologies.
   * It is present with EMR pens.
@@ -77,7 +78,7 @@ For most tablets, you would only notice wobble when trying to find it. In other 
 
 The real problem starts when wobble creates stroke changes you did not intend.
 
-It also depends on what you are doing. You might notice wobble more in line art, but not notice it at all with an airbrush.
+It also depends on what you are doing. You might notice wobble more in line art, but not at all when using an airbrush.
 
 ## Mitigating diagonal wobble
 
@@ -101,7 +102,7 @@ Instead of drawing your stroke manually, if your application supports it, use ve
 
 ## Diagonal wobble samples
 
-These are my wobble samples across a number of tablets.
+These are my wobble samples from several tablets.
 
 [https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC](https://1drv.ms/f/s!Aml8i4Jd6crChTjTXo89k5jO8mb8?e=t3ijPC)
 
@@ -114,9 +115,9 @@ All were created using my standard testing process: [Measuring diagonal wobble](
 * See at 8:06 in this Brad Colbow video: [https://youtu.be/0VaH-UTRL7A?t=486](https://youtu.be/0VaH-UTRL7A?t=486)
   * There is some wobble in that segment of the video.
   * However, in my own testing of a unit, I did not find much wobble at all: [XP-Pen Deco LW (IT1060B) notes](../catalog/drawtabs/xppen/xppen-it1060b-notes.md)
-  * Why do these results differ? A couple of theories
+  * Why do these results differ? A couple of theories:
     * Normal variance between units
-    * Brad is drawing freehand, I use a ruler
+    * Brad draws freehand, while I use a ruler
     * Brad places the tablet on top of a laptop. I have seen many cases where a laptop can create electromagnetic interference and cause weird effects in a tablet. Though I have not specifically tested diagonal wobble.
 
 **Some obvious wobble examples**

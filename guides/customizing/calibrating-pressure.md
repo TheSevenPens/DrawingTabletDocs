@@ -33,7 +33,7 @@ Understand these concepts:
 
 In the pressure curve editor, press down until the pressure reaches nearly 100%. Aim for at least 95%.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Ideally, close your eyes and press down. When you open them, the driver should show the maximum reported pressure.
 
@@ -51,7 +51,7 @@ At this stage perceptual 50% clearly does not match the reported pressure. We wi
 
 Keep pressing at your perceptual 50%. Then adjust the pressure curve incrementally. The driver should eventually report 50% for perceptual 50%.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Here is the curve for one of my pens.
 

@@ -9,7 +9,7 @@ Tilt is described by two angles: tilt elevation and tilt azimuth.
 * elevation = "how much the pen leans over"
 * azimuth = "the direction of the lean — like north, west, or northwest"
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/tilt-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,7 +23,7 @@ Using tilt in an application involves letting tilt azimuth or tilt altitude affe
 
 ### Tilt altitude to size
 
-A common use it to let tilt altitude control the width of the stroke. So leaning the pen over increaese the width of the stroke.&#x20;
+A common use it to let tilt altitude control the width of the stroke. So leaning the pen over increaese the width of the stroke.
 
 For example, below is a stroke I drew with Krita. I configured the brush to ignore pressure entirely, but to let the tilt altitude control the width of the brush. As I drew from left to right, I started with the pen very perpendicular and gradually started tilting the pen.
 
