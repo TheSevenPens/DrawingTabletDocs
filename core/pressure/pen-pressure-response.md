@@ -4,17 +4,21 @@ The pressure response of a pen describes how the pen behaves with respect to pre
 
 The pen measures physical force at its tip. Information about that force is sent to the tablet and then translated into a logical pressure value. The pressure response is the relationship between physical pressure and logical pressure.
 
-<figure><img src="../../.gitbook/assets/pen-pressure-response-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 In numerical terms, it can be expressed as a simple set of data points. If we graph those data points with physical pressure on the X axis and logical pressure on the Y axis, we get a chart that visualizes the pressure response.
 
-<figure><img src="../../.gitbook/assets/pen-pressure-response-2.jpg" alt=""><figcaption></figcaption></figure>
+This is a chart for a **specific unit** of a Wacom Pro Pen 2.
 
-All pens come out of the box with a specific pressure response. Keep in mind that the response is unique to each pen. Even pens of the same model will differ at least a little.
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 One thing that is generally true for EMR pens is that the shape of the pressure response is often bowed upward quite a bit.
 
-<figure><img src="../../.gitbook/assets/pen-pressure-response-3.jpg" alt=""><figcaption></figcaption></figure>
+All pens come out of the box with a specific pressure response. Keep in mind that the response is unique to each pen. Even pens of the same model will differ at least a little.
+
+Where are my measurements for multiple units of the Wacom Pro Pen 2.
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 If we need to change the pressure response of a pen, we have to apply a pressure curve.
 
@@ -58,7 +62,7 @@ In general, I think we want a more even allocation of the physical pressure rang
 
 To be clear, I am not saying that linear is the best shape for a pressure response. I'm saying it is a good starting point. Ultimately, you will have to use pressure curves to shape the response into something that works for you.
 
-<figure><img src="../../.gitbook/assets/pen-pressure-response-8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Here you can see how a specific pressure curve takes the original pressure response and shifts it to a more linear shape. This example helps show how much you may need to bend the pressure curve to get a linear response.
 

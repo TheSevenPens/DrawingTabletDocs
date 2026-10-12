@@ -8,7 +8,7 @@ The pressure dead zone is an area of a pressure curve that is deliberately desig
 
 Visually, the pressure dead zone can be seen whenever the lower-left corner of the pressure curve is displaced to the right.
 
-<figure><img src="../../../.gitbook/assets/pressure-curve-deadzone-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ## Uses
 
