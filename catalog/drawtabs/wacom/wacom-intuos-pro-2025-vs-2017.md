@@ -1,4 +1,4 @@
-# Wacom Intuos Pro 2025 (PTK-x70) vs Intuos Pro 2017 (PTH-x60)
+# Wacom Intuos Pro 2025 vs Intuos Pro 2017
 
 ## Overview
 
@@ -11,16 +11,26 @@ For more details:
 
 ## Summary
 
-Both are the best pen tablets ever made, and the drawing experience is the same. The differences are in the physical design: the 2025 edition is smaller, lighter and thinner, with a larger 16:9 active area and much smaller bezels, but it moves the ExpressKeys to the top and drops multitouch.
+Both are the best pen tablets ever made, and the drawing experience is the same. The main changes from the Intuos Pro 2017 (PTH-x60):
+
+* No improvement to drawing performance
+* ExpressKeys and dials moved to the top
+* Multitouch support dropped
+* Bezels are significantly smaller
+* Smaller and about 40% lighter, with a larger 16:9 active area
+* Comes with Pro Pen 3 instead of Pro Pen 2
+* Improved report rate (wired report rate is 300Hz versus the older models' 200Hz)
 
 Depending on your background you might prefer one over the other.
 
-## Which one should you buy
+
+
+## Which one should you buy: 2025 or 2017?
 
 * **Buying your first pro tablet?** → Intuos Pro 2025.
 * **Already own an Intuos Pro 2017?** → PROBABLY NO need to upgrade. Unless there is a specific benefit you will get from the Intuos Pro 2025, there is no point in upgrading.
 * **Need multitouch?** → Intuos Pro 2017. The 2025 edition does not support it.
-* **Rest your hand on the bezels, or keep your non-drawing hand on the ExpressKeys?** → Try the 2025 edition before you buy if you can. See [Bezels](#bezels) and [ExpressKeys layout](#expresskeys-layout).
+* **Rest your hand on the bezels, or keep your non-drawing hand on the ExpressKeys?** → Try the 2025 edition before you buy if you can. See [Bezels](wacom-intuos-pro-2025-vs-2017.md#bezels) and [ExpressKeys layout](wacom-intuos-pro-2025-vs-2017.md#expresskeys-layout).
 
 Overall I recommend the Intuos Pro 2025 because in a few years (by 2030 at the latest I expect) the support lifetime for the Intuos Pro 2017 will end. After that point:
 
@@ -33,27 +43,27 @@ You can certainly still use the Intuos Pro 2017 but you should be aware of those
 
 Each 2025 model replaces the 2017 model of the same size category.
 
-| Size category | Intuos Pro 2017 | Intuos Pro 2025 |
-| --- | --- | --- |
-| LARGE | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
-| MEDIUM | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) |
-| SMALL | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) |
+| Size category | Intuos Pro 2017                                                                          | Intuos Pro 2025                                                                          |
+| ------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| LARGE         | [PTH-860](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) | [PTK-870](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |
+| MEDIUM        | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) |
+| SMALL         | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) |
 
 The full specs for each model are in each notes page's Specs section.
 
 ## Key differences at a glance
 
-| | Intuos Pro 2017 | Intuos Pro 2025 |
-| --- | --- | --- |
-| Drawing performance | EXCELLENT | EXCELLENT (same) |
-| Included pen | Pro Pen 2 (KP-504E) | Pro Pen 3 (ACP-500) |
-| Wired report rate | 200 Hz | 300 Hz (with Pro Pen 3) |
-| Active area aspect ratio | Varies by model, not 16:9 | 16:9 |
-| ExpressKeys | Left side | Top, with dials |
-| Multitouch | Yes | No |
-| Bezels | Wide | Very narrow on 3 sides |
-| Weight | Heavier | About 40% lighter |
-| Driver support | Expected to end by 2030 | Current |
+|                          | Intuos Pro 2017           | Intuos Pro 2025         |
+| ------------------------ | ------------------------- | ----------------------- |
+| Drawing performance      | EXCELLENT                 | EXCELLENT (same)        |
+| Included pen             | Pro Pen 2 (KP-504E)       | Pro Pen 3 (ACP-500)     |
+| Wired report rate        | 200 Hz                    | 300 Hz (with Pro Pen 3) |
+| Active area aspect ratio | Varies by model, not 16:9 | 16:9                    |
+| ExpressKeys              | Left side                 | Top, with dials         |
+| Multitouch               | Yes                       | No                      |
+| Bezels                   | Wide                      | Very narrow on 3 sides  |
+| Weight                   | Heavier                   | About 40% lighter       |
+| Driver support           | Expected to end by 2030   | Current                 |
 
 ## Key differences
 
@@ -75,7 +85,7 @@ WINNER: INTUOS PRO 2025
 
 The Intuos Pro 2025 works with the Pro Pen 3 and with specific pens that use "Wacom UD EMR", and it still works with the Pro Pen 2 and most of the older Wacom pro pens.
 
-<table data-header-hidden><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTK-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>SPECIFIC pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTK-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>SPECIFIC pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
 
 For which UD EMR pens work, see [Compatibility with specific Wacom UD EMR pens](wacom-intuos-pro-2025/wacom-ptkx70-notes.md#compatibility-with-specific-wacom-ud-emr-pens).
 

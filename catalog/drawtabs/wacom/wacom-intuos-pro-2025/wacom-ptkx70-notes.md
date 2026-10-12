@@ -18,16 +18,6 @@ But do check this document for any updates since the original video was publishe
 
 ## Compared to the Intuos Pro 2017
 
-The main changes from the Intuos Pro 2017 (PTH-x60):
-
-* No improvement to drawing performance
-* ExpressKeys and dials moved to the top
-* Multitouch support dropped
-* Bezels are significantly smaller
-* Smaller and about 40% lighter, with a larger 16:9 active area
-* Comes with Pro Pen 3 instead of Pro Pen 2
-* Improved report rate (wired report rate is 300Hz versus the older models' 200Hz)
-
 For the full comparison, and help choosing between them, see [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md).
 
 ## Should you buy the Intuos Pro 2025
@@ -417,7 +407,7 @@ Overall with Samsung S Pen
 * Wired: 245Hz
 * Wireless: Did not test
 
-<table><thead><tr><th width="127">Scenario</th><th width="179.9166259765625">Driver</th><th width="113.75">Report Rate</th><th>Tested with</th></tr></thead><tbody><tr><td>PTK-670<br>Pro Pen 3<br>Wired</td><td>OpenTabletDriver</td><td>300Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wired</td><td>Wacom driver</td><td>300Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired</td><td>OpenTabletDriver</td><td>200Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired</td><td>Wacom driver</td><td>200Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wireless</td><td>Wacom driver</td><td>230Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Samsung S Pen<br>Wired</td><td>OpenTabletDriver</td><td>245Hz</td><td>OTD tablet debugger</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="127">Scenario</th><th width="179.9166259765625">Driver</th><th width="113.75">Report Rate</th><th>Tested with</th></tr></thead><tbody><tr><td>PTK-670<br>Pro Pen 3<br>Wired</td><td>OpenTabletDriver</td><td>300Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wired</td><td>Wacom driver</td><td>300Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired</td><td>OpenTabletDriver</td><td>200Hz</td><td>OTD tablet debugger, skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wired</td><td>Wacom driver</td><td>200Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 3<br>Wireless</td><td>Wacom driver</td><td>260Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Pro Pen 2<br>Wireless</td><td>Wacom driver</td><td>230Hz</td><td>skill-test.net</td></tr><tr><td>PTK-670<br>Samsung S Pen<br>Wired</td><td>OpenTabletDriver</td><td>245Hz</td><td>OTD tablet debugger</td></tr></tbody></table>
 
 Reference:
 
@@ -425,7 +415,7 @@ Reference:
 
 ## Pen hover height testing
 
-<table><thead><tr><th width="125.5">Tablet</th><th width="122">Pen</th><th width="105.5">Driver</th><th width="115">Initial detect height</th><th width="125">Max height</th></tr></thead><tbody><tr><td>PTK-670</td><td>ACP-500</td><td>Wacom</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-670</td><td>KP-504E</td><td>Wacom</td><td>11 mm</td><td>15 mm</td></tr><tr><td>PTK-870</td><td>ACP-500</td><td>Wacom</td><td>16 mm</td><td>16 mm</td></tr><tr><td>PTK-870</td><td>KP-504E</td><td>Wacom</td><td>13 mm</td><td>16 mm</td></tr><tr><td>PTK-470</td><td>ACP-500</td><td>Wacom</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>KP-504E</td><td>Wacom</td><td>12 mm</td><td>15 mm</td></tr><tr><td>PTK-670</td><td>ACP-500</td><td>OTD</td><td>15 mm</td><td>16 mm</td></tr><tr><td>PTK-670</td><td>KP-504E</td><td>OTD</td><td>12 mm</td><td>16 mm</td></tr><tr><td>PTK-870</td><td>ACP-500</td><td>OTD</td><td>16mm</td><td>16mm</td></tr><tr><td>PTK-870</td><td>KP-504E</td><td>OTD</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>ACP-500</td><td>OTD</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>KP-504E</td><td>OTD</td><td>12 mm</td><td>16 mm</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="125.5">Tablet</th><th width="122">Pen</th><th width="105.5">Driver</th><th width="115">Initial detect height</th><th width="125">Max height</th></tr></thead><tbody><tr><td>PTK-670</td><td>ACP-500</td><td>Wacom</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-670</td><td>KP-504E</td><td>Wacom</td><td>11 mm</td><td>15 mm</td></tr><tr><td>PTK-870</td><td>ACP-500</td><td>Wacom</td><td>16 mm</td><td>16 mm</td></tr><tr><td>PTK-870</td><td>KP-504E</td><td>Wacom</td><td>13 mm</td><td>16 mm</td></tr><tr><td>PTK-470</td><td>ACP-500</td><td>Wacom</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>KP-504E</td><td>Wacom</td><td>12 mm</td><td>15 mm</td></tr><tr><td>PTK-670</td><td>ACP-500</td><td>OTD</td><td>15 mm</td><td>16 mm</td></tr><tr><td>PTK-670</td><td>KP-504E</td><td>OTD</td><td>12 mm</td><td>16 mm</td></tr><tr><td>PTK-870</td><td>ACP-500</td><td>OTD</td><td>16mm</td><td>16mm</td></tr><tr><td>PTK-870</td><td>KP-504E</td><td>OTD</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>ACP-500</td><td>OTD</td><td>15 mm</td><td>15 mm</td></tr><tr><td>PTK-470</td><td>KP-504E</td><td>OTD</td><td>12 mm</td><td>16 mm</td></tr></tbody></table>
 
 ## Pen compatibility testing
 
