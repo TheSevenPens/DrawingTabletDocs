@@ -16,48 +16,26 @@ But do check this document for any updates since the original video was publishe
 
 {% embed url="https://www.youtube.com/watch?v=Q2rH32pBpq0" %}
 
-## Changes to key features from 2017 edition
+## Compared to the Intuos Pro 2017
+
+The main changes from the Intuos Pro 2017 (PTH-x60):
 
 * No improvement to drawing performance
 * ExpressKeys and dials moved to the top
 * Multitouch support dropped
 * Bezels are significantly smaller
+* Smaller and about 40% lighter, with a larger 16:9 active area
 * Comes with Pro Pen 3 instead of Pro Pen 2
 * Improved report rate (wired report rate is 300Hz versus the older models' 200Hz)
 
-## Important Quality-of-life improvements
-
-* Size & weight
-* 16x9 aspect ratio
-* Larger native active area
-* Big increase in active area when using Force Proportions on 16:9 monitors
-* Pen compatibility
-* Pro Pen 3 is very customizable
-* Wireless connectivity
+For the full comparison, and help choosing between them, see [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md).
 
 ## Should you buy the Intuos Pro 2025
 
 * Your first pro tablet? → YES
 * Want the best? → YES
-* Upgrade from 2017 edition? → PROBABLY NOT. Unless there is a specific benefit you will get from the Intuos Pro 2025, there is no point in upgrading.
+* Upgrade from 2017 edition? → PROBABLY NOT. Unless there is a specific benefit you will get from the Intuos Pro 2025, there is no point in upgrading. See [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md).
 * Need multitouch support? → NO
-
-## Should you buy the Intuos Pro 2017 or the Intuos Pro 2025
-
-Overall I do recommend the Intuos Pro 2025 because in a few years (by 2030 at the latest I expect) the support lifetime for the Intuos Pro 2017 will end.
-
-After that point:
-
-* Wacom will no longer issue driver updates for the tablet.
-* Wacom support will likely not help you if you ask them for help.
-
-You can certainly still use the Intuos Pro 2017 but you should be aware of those consequences.
-
-## Historical context
-
-From 2009 to 2025, there have been 4 editions of professional pen tablets from Wacom, and all maintained a consistent layout with ExpressKeys on the left. Therefore, the new layout of this tablet was quite surprising for many of us.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Model numbers
 
@@ -291,141 +269,19 @@ It is possible to accidentally hit the ExpressKeys and dials depending on how th
 
 * It is not obvious in pictures, but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
 
-## Ergonomics
-
-### Hand placement
-
-Another topic that comes up with the ExpressKeys is how the non-drawing hand is placed on the tablet.
-
-With the Intuos Pro 2017, the non-drawing hand can stay near or on the ExpressKeys without covering the active area.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-21.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-However, with the Intuos Pro 2025, the non-drawing hand will cover some part of the active area. Some people find that this interferes with their experience since they have to move the non-drawing hand out of the way much more often.
-
-### Wrist angle
-
-Because the Intuos Pro 2026 series is thinner than the Intuos Pro 2017 series, a wrist should need flex a little less when drawing. Wacom says this should make it a little more comfortable to write on the tablet and enable you to work on the the tablet longer. I don't doubt them but I didn't feel the ffect was especially noticable.
-
-<figure><img src="../../../../.gitbook/assets/vlcsnap-2026-09-24-17h30m25s194.png" alt=""><figcaption><p>Wacom CEO Nobu Ide speaking about the Intuos Pro 2025 tablets.</p></figcaption></figure>
-
-### Usage notes on dials
-
-* Be aware that the dials only support rotation. They do not support pressing the dial as a third action. This is not a problem, but I am used to doing that with the TourBox dials, so I wanted to mention it.
-* The dials feel nice to rotate. Rotating produces a soft click feel and a small sound.
-* The dials do not rotate too easily nor do they require too much force to rotate.
-
-### Usage notes on ExpressKeys
-
-* It is not obvious in pictures, but the ExpressKey rings have 5 buttons. The fifth button in the middle is used to switch what the other 4 buttons do.
-
 <figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-22.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## Size (physical and active area)
+## Ergonomics
 
-Physically, the new devices are smaller than their 2017 counterparts, but their active areas have grown in size. So, you have more room than ever for drawing despite the devices shrinking.
+Compared to the Intuos Pro 2017, the top ExpressKeys change where the non-drawing hand rests, and the much smaller bezels change where the drawing hand rests. See [ExpressKeys layout](../wacom-intuos-pro-2025-vs-2017.md#expresskeys-layout) and [Bezels](../wacom-intuos-pro-2025-vs-2017.md#bezels) in the comparison.
 
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-23.png" alt=""><figcaption></figcaption></figure>
+## Size and bezels
 
-The 2017 models had unusual aspect ratios, while the new devices all have 16x9 aspect ratios, or something incredibly close to that. This has a nice consequence. If you use a 16x9 monitor, you have to turn on Force Proportions to draw normally with the 2017 models. But FP is not needed and has no effect on the new models with a 16x9 monitor. Because a mismatch in aspect ratios between the pen tablet's active area and the monitor causes Force Proportions to stop using some amount of active area, the new tablets give you much more active area in practice than the 2017 models.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-24.jpg" alt=""><figcaption></figcaption></figure>
-
-### Device size
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
-
-### Active area
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>263 x 148 mm<br>389.24 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
-
-## Size
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-25.png" alt=""><figcaption></figcaption></figure>
-
-As you can see, the 2025 models are clearly a little larger than their 2017 counterparts.
-
-<figure><img src="../../../../.gitbook/assets/wacom-intuos-pro-active-area-1.png" alt=""><figcaption></figcaption></figure>
-
-### Active area with Force Proportions enabled
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br><strong>544.06 cm2</strong></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>263 x 148 mm<br>389.24 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
-
-## Aspect ratio
-
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>TBD</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>TBD</p></td><td><p>PTK-670</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>TBD</td><td><p>PTK-470</p><p>16:9 (1.781)</p></td></tr></tbody></table>
-
-## Size of Intuos Pro 2025 Large vs Intuos Pro 2017 medium
-
-Also note that the new Intuos Pro 2025 large is physically very close in size to the Intuos Pro 2017 medium. This may make the 2025 large model a bit easier to place on the desktop for those of you interested in a large pen tablet.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-26.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-27.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-## Bezels
-
-With the device sizes shrinking but the active area increasing, the bezels have really changed size.
-
-* 3 Bezels have significantly shrunk
-* The TOP bezel has grown a bit to hold the ExpressKeys and dials
-* All numbers here are approximate
-
-<table><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.2%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
-
-### Bezel size visualized: Intuos Pro 2017 Medium vs Intuos Pro 2025 medium
-
-Numbers don't capture the difference. Here's a photo with purple tape over the right bezel of both tablets.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-28.jpg" alt=""><figcaption></figcaption></figure>
+Physically, the 2025 models are smaller than their 2017 counterparts, but their active areas are larger and all 16:9, and three of the four bezels are much narrower. The size, active area, aspect ratio and bezel measurements are in [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md#device-size-and-active-area).
 
 ### Bezel size visualized: Movink 13 vs Intuos Pro 2025 medium
 
 <figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-29.jpg" alt=""><figcaption></figcaption></figure>
-
-## Bezels vs Hand resting on the tablet
-
-Bezels provide a place for your hand to rest as you draw. This is a fact I don't think I appreciated until I drew more with the Intuos Pro 2025 medium.
-
-**When drawing with the Intuos Pro 2017 medium**, as the pen reaches the edge of the active area the hand can stay on the bezel almost the entire time. Only sometimes does the hand need to touch the desk - and even then the hand is still mostly resting on the tablet.
-
-**When drawing with the Intuos Pro 2025 medium**, even when the pen is some distance from the edge of the active area the hand will make contact and partially rest on the desk. By the time the pen reaches the edge of the active area, the entire hand will be resting on the desk.
-
-## Bezel edge
-
-There is a slight bump at the edge of the tablet. In photos, it is hard to tell the difference between the Intuos Pro 2025 medium and the Intuos Pro 2017 medium.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-30.jpg" alt=""><figcaption></figcaption></figure>
-
-But you can feel the difference. The diagram below exaggerates the feeling, but with the 2025 medium you can definitely feel the edge of the tablet more. While it is not painful and does not "dig into" the hand, I do notice it, and other users might be disturbed by it.
-
-<figure><img src="../../../../.gitbook/assets/wacom-ptkx70-notes-31.png" alt=""><figcaption></figcaption></figure>
-
-## Are the bezels a problem?
-
-Answer: IT DEPENDS
-
-It was **OK** for ME.
-
-* Tablet is very thin - hand did not “fall off a cliff”
-* Hand will transition from tablet to the desk
-* Edge did not “dig into” hand – but definitely more noticeable
-* I can now understand why people like wider bezels
-
-However, ...
-
-* As of May 2025, I’m still adapting to it
-* For some people this could be an issue
-
-In the future: ...
-
-* I will try to test out smaller bezels with any other tablet
-
-## How the bezels have been received by users
-
-The bezel is highly polarizing for a lot of people. To be clear, there are two aspects of the bezel to take into consideration. First is the reduction in bezel size. Second is that the lip at the edge of the tablet is very slightly more raised than on the previous generation of Intuos Pro. The smaller bezel seems to irritate some people, and for other people it just seems to take some time to adjust. Personally, after using the Intuos Pro for so long with large bezels, I have to admit it feels weird to use the new tablet with much smaller bezels. Even after a month or so, it still feels a little bit weird. It's not bad, just different. Again, some people have a much stronger reaction to this. And then the raised edge of the tablet causes some people more discomfort than the old model. Because your hand will statistically feel that raised edge much more often with the new design, and because it is more noticeable, some people find it irritating, and in fact some people find it painful.
-
-Videos about it:
 
 ## Thickness
 
@@ -439,11 +295,7 @@ The thickness and wedge shape are very similar to the Wacom Movink 13.
 
 ## Weight
 
-* 40% weight reduction across all models
-* The 2025 LARGE model weighs less than the 2017 MEDIUM model
-* The 2025 MEDIUM model weighs less than the 2017 SMALL model
-
-<table><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017</th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
+About 40% lighter than the Intuos Pro 2017 across all models. See [Weight](../wacom-intuos-pro-2025-vs-2017.md#weight) in the comparison.
 
 **Does it slide around on the desk as you draw?** NO. While drawing, it will NOT slide. It moves only if you deliberately force it to move. It requires less force to move than the PTH-660.
 
@@ -463,23 +315,7 @@ We are unclear about the exact cause, but suspect it is due to the extreme thinn
 
 ## Surface Texture
 
-Summary: Great texture feeling across all nib types.
-
-Compared to Intuos Pro 2017 (PTH-660)
-
-* Has slightly less texture
-* Feels “softer” through the pen
-* Exhibits less texture erosion, based on my initial two-week testing
-
-Nib wear due to texture:
-
-* Over time, I would EXPECT nibs to wear down less
-* Only time will tell
-
-Noise due to texture
-
-* Significantly muted / Much harder to hear
-* Not “scratchy”
+Summary: Great texture feeling across all nib types. Compared to the Intuos Pro 2017 it has slightly less texture, feels softer through the pen and is much quieter. See [Surface texture](../wacom-intuos-pro-2025-vs-2017.md#surface-texture) in the comparison.
 
 ## Connections and cabling
 
@@ -593,7 +429,7 @@ Reference:
 
 ## Pen compatibility testing
 
-<table data-header-hidden><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTK-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>SPECIFIC pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
+My pen compatibility testing, side by side with the Intuos Pro 2017, is in [Pen compatibility](../wacom-intuos-pro-2025-vs-2017.md#pen-compatibility) in the comparison.
 
 ## Compatibility with specific Wacom UD EMR pens
 

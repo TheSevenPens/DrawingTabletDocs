@@ -7,6 +7,7 @@ description: PTH-x60 series
 ## Overview
 
 * [**Notes on the PTH-x60 series of tablets**](wacom-pthx60-notes.md)
+* [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md)
 * Release year: 2017
 * Intuos pro generation: 7th gen
 * Preceded by: [Wacom Intuos Pro 2013](../wacom-intuos-pro-2013.md)
