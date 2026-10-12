@@ -112,7 +112,3 @@ When enabling Force Proportions with multiple displays, you will notice a BIG re
 
 * For users of pen tablets (screenless tablets) : YES. I highly recommend it for for everyone using a pen tablet.
 * For users of pen displays (screen tablets): NO. It is not needed.
-
-## Simulation
-
-This tool simulates the effect of Force Proportions: [SevenPens Force proportions simulator](../../resources/sevenpens-force-proportions-simulator.md)

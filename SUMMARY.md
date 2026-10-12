@@ -661,7 +661,6 @@
     * [Samsung](catalog/computers/samsung/README.md)
       * [Samsung Galaxy Book 360](catalog/computers/samsung/samsung-galaxy-book-360.md "Galaxy Book 360")
 * [Resources](resources/README.md)
-  * [SevenPens Force proportions simulator](resources/sevenpens-force-proportions-simulator.md)
   * [SevenPens Wacom Driver List](resources/sevenpens-wacom-driver-list.md)
   * [SevenPens Tablet Tester](resources/sevenpens-tablet-tester.md)
   * [Community](resources/community/README.md)
