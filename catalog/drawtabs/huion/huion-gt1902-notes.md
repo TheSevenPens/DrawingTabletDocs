@@ -163,9 +163,7 @@ See [Huion PW600 series pens](../../pens/huion-pens/huion-pw600-notes.md)
 
 **Notes on backwards compatibility with the older PW517 pen** - not compatible. Or at least not completely compatible. The PW517 pen will move the pointer, but not there is no pressure detected so drawing is useless.
 
-## Pens
-
-### Nibs
+## Nibs
 
 The pre-installed nibs are both felt. The felt nibs feel good draw with and add an additional amount of texture. In the month I used the felt nibs I saw no appreciable wear - but I don't draw very heavily so your experience may differ. The tablet comes with replacement felt and plastic nibs.
 

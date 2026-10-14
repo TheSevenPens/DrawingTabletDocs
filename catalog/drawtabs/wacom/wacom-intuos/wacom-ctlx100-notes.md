@@ -99,7 +99,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * See [Wacom 4K Pen for Intuos (LP-1100K) notes](../../../pens/wacom-pens/wacom-lp1100k-notes.md).
 
-## -pen inputs
+## Non-pen inputs
 
 ### Auxiliary inputs
 
