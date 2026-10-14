@@ -52,5 +52,7 @@ Two cautions when you use it:
 
 ## Resources
 
+* Huion's table of which pens work with which tablets: [Huion - Which pen is compatible with my Huion tablet](https://store.huion.com/posts/which-pen-is-compatible-with-my-huion-tablet)
+* Huion's pen compatibility form - it asks a few questions about your tablet and tells you the compatible pen: [Huion pen compatibility form](https://docs.google.com/forms/d/e/1FAIpQLSfRxcbu1rEjqc9O-dbuW3YS5Y9i0BcGAzgj0368IEk2EEaLbA/viewform)
 * Huion's guide to finding compatible pens: ([https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-](https://support.huion.com/en/support/solutions/articles/44002337828-how-do-i-choose-correct-pen-for-my-huion-tablet-))
 * [Wacom pen compatibility](../../catalog/pens/wacom-pens/wacom-pen-compatibility.md)

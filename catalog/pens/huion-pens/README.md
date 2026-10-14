@@ -15,4 +15,8 @@ Huion uses the name "PenTech" for its EMR pen technology and even has version nu
 
 ## Huion pen compatibility
 
-See this resource from koneko\_w [https://onedrive.live.com/view.aspx?resid=FE877F3F79694F2A!128\&ithint=file%2cxlsx\&wdo=2\&authkey=!AIk1r64\_60lJHxE](https://onedrive.live.com/view.aspx?resid=FE877F3F79694F2A!128\&ithint=file%2cxlsx\&wdo=2\&authkey=!AIk1r64_60lJHxE)
+Huion publishes a table of which pens work with which tablets: [Huion - Which pen is compatible with my Huion tablet](https://store.huion.com/posts/which-pen-is-compatible-with-my-huion-tablet)
+
+Huion also has a form that asks a few questions about your tablet and tells you which pen is compatible: [Huion pen compatibility form](https://docs.google.com/forms/d/e/1FAIpQLSfRxcbu1rEjqc9O-dbuW3YS5Y9i0BcGAzgj0368IEk2EEaLbA/viewform)
+
+See also this resource from koneko\_w [https://onedrive.live.com/view.aspx?resid=FE877F3F79694F2A!128\&ithint=file%2cxlsx\&wdo=2\&authkey=!AIk1r64\_60lJHxE](https://onedrive.live.com/view.aspx?resid=FE877F3F79694F2A!128\&ithint=file%2cxlsx\&wdo=2\&authkey=!AIk1r64_60lJHxE)
