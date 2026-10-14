@@ -64,3 +64,4 @@ Learn more: [Diagonal wobble](diagonal-wobble.md)
 * Here, _quantization_ means converting high-resolution coordinates to lower-resolution coordinates. A stroke may therefore have a “quantized look.”
 * In theory, rough, stair-stepped strokes can occur while using digitizer coordinates. For example, flawed brush-engine math can quantize high-resolution coordinates to lower-resolution values.
 * Canvas-scaling errors can also create a stair-stepped, quantized look. This can be difficult to distinguish from coordinate quantization without experience assessing rendered strokes.
+* Mouse mode is another way to end up with stepped strokes. With the Wacom driver, mouse mode produces jerky position data even in a drawing app. More here: [Mouse mode](active-area/mouse-mode.md)
