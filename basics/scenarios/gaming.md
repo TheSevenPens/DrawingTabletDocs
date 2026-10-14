@@ -2,21 +2,17 @@
 
 My hobby around drawing tablets centers largely on creatives - people who draw, sketch, and paint. Despite using tablets for well over a decade, I only discovered in 2022 that people also use drawing tablets for games. Some of these games are very popular.
 
-## osu!
+{% hint style="info" %}
+This page is about PLAYING games with drawing tablets as input devices and NOT about designing games or game assets using drawing tablets.
+{% endhint %}
 
-<img src="../../.gitbook/assets/gaming-1.png" alt="" width="188">
+## osu!
 
 **osu!** is a popular rhythm game and many of its players use drawing tablets instead of a mouse. [https://en.wikipedia.org/wiki/Osu!](https://en.wikipedia.org/wiki/Osu!)
 
 [**Example of someone playing osu! with a tablet**](https://youtu.be/j3wIf_kWmPM) - this video is relatively well known in the osu! community.
 
-### osu! is very popular
-
-osu! has about 1.7 million monthly active users.
-
-You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)
-
-<figure><img src="../../.gitbook/assets/gaming-2.png" alt=""><figcaption></figcaption></figure>
+Osu is very popular. It has about 1.7 million monthly active users. You can get the live stats from here: [https://stats.circleclickers.com/](https://stats.circleclickers.com/)
 
 ## How osu! players use drawing tablets
 
