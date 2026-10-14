@@ -10,7 +10,7 @@ Pointer lag is most apparent when moving the pen across the desktop. The faster 
 For lag specifically related to stroke rendering, see [Brush lag](lag.md).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/lag-comparison-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ## Affected tablets
 
@@ -39,12 +39,12 @@ This video from Microsoft Research demonstrates how different amounts of lag loo
 What we observe in the video:
 
 * 100ms of lag is not useable
-* 10ms of lag is visible and irritating&#x20;
+* 10ms of lag is visible and irritating
 * 1ms of lag is ideal
 
 What this means for pen displays
 
-* 1ms would be IDEAL for a pen displays.&#x20;
+* 1ms would be IDEAL for a pen displays.
 * I don't know of any pen displays that get close to 1ms of lag
 * Based on the video, I think pen displays have less than 10ms of lag - I would put it at maybe 5ms of lag based on what my eyes see.
 

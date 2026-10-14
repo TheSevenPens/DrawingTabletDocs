@@ -10,7 +10,7 @@ When you press down on the nib they travels (or retracts) a little bit into the 
 
 Some people may refer this as the "nib retraction distance"
 
-<figure><img src="../.gitbook/assets/nib-travel-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 How much the nib travels depends on the specific pen involved.
 
@@ -28,4 +28,4 @@ As you are drawing with a normal tilt, you will push the nib a little to one sid
 
 This is a normal aspect of EMR pens and all pens with nibs have a little lateral movement.
 
-<figure><img src="../.gitbook/assets/nib-travel-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
