@@ -13,7 +13,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-16#Specifications) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH167.html) |  |
 | Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) |  |
 | Gartzia Artz | [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) | 2023-04-30 |
 | Brad Colbow | [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=0B8cNzyO4bs) |  |

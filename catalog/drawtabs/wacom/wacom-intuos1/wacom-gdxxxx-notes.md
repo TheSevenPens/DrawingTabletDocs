@@ -105,4 +105,4 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 ## Connections and cabling
 
-Unlike the previous generation, the Intuos2 series featured tablets that connected via USB and serial and no longer supported Apple Desktop Bus (ADB) connections.
+The Intuos2 series that followed connected via USB and serial and no longer supported Apple Desktop Bus (ADB) connections.

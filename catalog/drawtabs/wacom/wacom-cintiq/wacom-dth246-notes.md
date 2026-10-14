@@ -130,7 +130,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Other compatible pens
   * Classic Pen (KP-300E)
   * Accessory Pen Black DTK-2451/DTH-2452 (KP302E)
-* Unlike the Intuos Pro 2025 tablets, the Cintiq Pro 2025 tablets are NOT compatible with UD EMR pens. More here: [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md).
+* Unlike the Intuos Pro 2025 tablets, the Cintiq 24 touch 2025 is NOT compatible with UD EMR pens. More here: [Pens that support UD EMR 2nd gen](../../../../tech/wacom-ud-emr/ud-emr-pens.md).
 
 ## Videos
 
