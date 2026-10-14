@@ -6,11 +6,12 @@ Sometimes you may see something that looks like a scratch on a tablet. But it is
 
 ## Cause
 
-These marks are caused by the pen displacing material on the surface. This material can include:
+These marks are material left on the surface, usually displaced by the pen. This material can include:
 
 * Oil from your skin
 * Dust and other grime
 * Tiny bits of the nib that have worn away.
+* Traces of metal. When something metallic rubs against etched glass - a ring, a watch, or the pen hitting something metal - it can leave a trace of metal that looks like a scratch. It cleans off like the others. More here: [Surface wear on pen displays](surface-wear-pen-displays.md)
 
 ## Cleaning tips
 

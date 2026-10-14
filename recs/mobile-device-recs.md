@@ -53,7 +53,7 @@ When you get an Android device, it comes with a version of Android OS. Over time
 So ideally, an android device you buy will keep getting Android updates after you purchase it. However, as you will see this depends on the specific brand and device
 
 * **Samsung** - does a GREAT job. They provide Android OS updates to their Samsung Galaxy Tab S series for 7 years.
-* **Wacom** - has said they will provide an Android OS update to their MovinkPad series. But as of April 2026 - there is no date for an update. Nor have they specifically committed to future updates.
+* **Wacom** - in October 2026 the MovinkPad 11 got its first Android OS update, from Android 14 to Android 16. Wacom has not published a roadmap for any further updates.
 * **XP-Pen** - is explicitly not providing Android OS updates
 * **Huion** - I don't know what their story is.
 
@@ -88,6 +88,7 @@ These are my picks from my 2025 video on budget standalone Android drawing table
 * The Pro Pen 3 is expensive to replace. As cheaper backups, it also works with UD EMR pens such as the Wacom One pen and the Samsung S Pen. It does not work with older Wacom professional pens such as the Pro Pen 2. More here: [Pen compatibility](../guides/pens/pen-compatibility.md)
 * It includes a 2-year license for Clip Studio Paint Debut, which is missing some features of the PRO and EX versions.
 * Don't confuse the **MovinkPad 11** (a standalone Android tablet) with the **Movink 13** (a pen display that connects to a computer).
+* Treat it as a drawing tablet first. It runs a customized version of Android, which occasionally causes compatibility problems with some apps - for example, Teoh on Tech found that apps that need a Meta login don't quite work on it. In many cases it works fine as a general Android tablet, but if that is your main use, a Samsung Galaxy Tab S is the safer choice.
 
 More here: [Wacom MovinkPad 11 (DTH-A116) notes](../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
 

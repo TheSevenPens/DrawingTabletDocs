@@ -16,7 +16,7 @@ What I notice:
 
 ## How I learned about this stand
 
-I found out about this stand from Teoh on Tech's channel: [https://www.youtube.com/@teohontech7141/](https://www.youtube.com/@teohontech7141/)
+I found out about this stand from Teoh on Tech's channel: [https://www.youtube.com/@teohontech/](https://www.youtube.com/@teohontech/)
 
 {% embed url="https://www.youtube.com/watch?v=8QU1gVOl0l0" %}
 
