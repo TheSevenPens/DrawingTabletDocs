@@ -29,8 +29,9 @@ More here: [Diagonal wobble](../core/diagonal-wobble.md)
 ## Options for fixing stroke quantization
 
 1. Restart the computer.
-2. Switch the pen API the app is using then restart the app, and try drawing. See: [Configure Windows Ink for apps](../guides/platforms/windows/winink/winink-config-apps.md)
-3. Reinstall or update the tablet driver.
+2. Check whether mouse mode is on - in the tablet driver, or in the app (for example, Clip Studio Paint's "Use mouse mode in tablet driver settings"). Mouse mode can produce jerky, stepped lines. See: [Mouse mode](../core/active-area/mouse-mode.md)
+3. Switch the pen API the app is using then restart the app, and try drawing. See: [Configure Windows Ink for apps](../guides/platforms/windows/winink/winink-config-apps.md)
+4. Reinstall or update the tablet driver.
 
 Note that it is POSSIBLE for quantization to be visible with BOTH APIs.
 

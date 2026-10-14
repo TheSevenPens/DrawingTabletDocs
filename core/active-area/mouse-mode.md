@@ -36,6 +36,8 @@ As you can see, the Wacom driver creates very jerky position data when mouse mod
 
 Also, this difference is not due to hardware. I tested the same Wacom tablet with OpenTabletDriver set to mouse mode too. OTD calls this "Relative mode," and the lines were smooth.
 
+For why stepped strokes happen, see [Digitizer vs screen coordinates](../digitizer-vs-screen-coordinates.md).
+
 ## How mouse mode affects pen features
 
 This section is incomplete
