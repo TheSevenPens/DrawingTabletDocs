@@ -4,6 +4,12 @@
 
 These here are some of my initial thoughts on this device.
 
+## As a general Android tablet
+
+I think of the MovinkPad 11 as a drawing tablet first. It runs a customized version of Android, which occasionally causes compatibility problems with some apps - for example, Teoh on Tech found that apps that need a Meta login don't quite work on it. In many cases it works fine for general use, but it is not the best choice if that is what you mostly want it for.
+
+Android updates: in October 2026 it got its first Android OS update, from Android 14 to Android 16. Wacom has not published a roadmap for any further updates.
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
