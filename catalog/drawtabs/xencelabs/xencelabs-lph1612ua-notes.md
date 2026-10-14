@@ -95,7 +95,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Weight | 1200 g |
 | VESA mount | — |
 | Legs | — |
-| Included stand | — |
+| Included stand | Yes |
 {% endtab %}
 
 {% tab title="Connectivity" %}

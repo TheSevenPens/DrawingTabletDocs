@@ -96,8 +96,8 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 {% tab title="Connectivity" %}
 | | [DTK-1660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk1660) |
 | --- | --- |
-| Ports | — |
-| Attached cable | — |
+| Ports | Proprietary (3-in-1 cable port: HDMI, USB-A and power at the computer end) |
+| Attached cable | None |
 | Bluetooth | — |
 {% endtab %}
 
