@@ -7,7 +7,7 @@ You can find pen compatibility information at the Drawing Tablet Data Explorer: 
 You can look up tablet models and find compatible pens. For example:&#x20;
 
 * See **the compatible pens** tab for the Wacom Intuos Pro 2017 Medium PTH-660: [https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660)
-* See the compatible tablets tab for the Wacom Pro Pen 2 KP-504E: [https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)
+* See the **compatible tablets** tab for the Wacom Pro Pen 2 KP-504E: [https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)
 
 
 
