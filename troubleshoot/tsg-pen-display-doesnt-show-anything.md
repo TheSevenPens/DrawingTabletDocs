@@ -1,4 +1,9 @@
-# TSG: Pen display doesn't show anything
+# TSG: Pen display screen is black
+
+A black screen is not always a NO SIGNAL problem. Work through these checks in order.
+
+* If the screen comes on, goes black, and comes back over and over, see [TSG: Pen display turns on and off constantly](tsg-pen-display-turns-on-and-off.md) instead.
+* For an overview of the common reasons a pen display shows nothing, see [TSG: Pen display shows nothing - common cases](tsg-pen-display-shows-nothing.md).
 
 ## **NO SIGNAL**
 

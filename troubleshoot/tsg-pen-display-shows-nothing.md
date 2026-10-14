@@ -1,4 +1,6 @@
-# TSG: Nothing shows on pen display
+# TSG: Pen display shows nothing - common cases
+
+If the screen simply stays black, go straight to [TSG: Pen display screen is black](tsg-pen-display-doesnt-show-anything.md).
 
 ## Overview
 
@@ -11,6 +13,12 @@ In this document, we'll cover the most common cases, provide some things you can
 There's lots that can go wrong but it's usually something very basic.
 
 Watch these two videos because they will help you understand the overall set of things that are happening, and many of you will find your solution in the videos.
+
+## PROBLEM: Screen stays black
+
+The pen display seems to be on, but the screen stays black and shows no message.
+
+Read through this troubleshooting guide: [TSG: Pen display screen is black](tsg-pen-display-doesnt-show-anything.md)
 
 ## PROBLEM: Screen turns on and off over and over
 
