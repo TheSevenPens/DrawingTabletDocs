@@ -35,7 +35,7 @@ There are **many** tablet brands, and choosing one is one of the most important 
 
 ## Tier 3: Smaller brands
 
-After Wacom, Huion, and XP-Pen, there are many other brands that focus on budget or consumer tablets. All of these brands use the same technology as the Tier 2 brands. In fact, some are even owned by the same companies. These brands have smaller product portfolios, less responsive customer support, and smaller online communities.
+After Wacom, Huion, and XP-Pen, there are many other brands that focus on budget or consumer tablets. All of these brands use the technology on par with \the Tier 2 brands - in fact sometimes it is the same exact technology. In fact, some are even owned by the same companies. These brands have smaller product portfolios, they may tend to have less responsive customer support, and smaller online communities.
 
 * **Artisul** - [https://artisul.com/](https://artisul.com/)
 * **Gaomon** - [https://www.gaomon.net/](https://www.gaomon.net/)
