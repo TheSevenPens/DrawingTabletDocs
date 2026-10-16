@@ -8,13 +8,13 @@ I STRONGLY RECOMMEND that you ENABLE FORCE PROPORTIONS if you are using a pen ta
 
 **"Force Proportions"** is Wacom term. Other tablet brands use different names such as "Screen ratio" or "Proportion". I'll use Wacom's name for it in this document. This document will show you how to enable the setting for non-Wacom tablet brands.
 
-## Force proportions removes distortion
+## Without Force Proportions, your strokes will often be distorted
 
 If the aspect ratio of your pen tablet's active area does not match your monitor's aspect ratio. You will see distortion when drawing. For example, if you trace out a circle on the pen tablet, you will have traced out an oval on the screen.
 
-This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD. You can **EASILY** correct this by enabling FORCE PROPORTIONS.
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+This distortion affects every movement of your pen on the tablet. Drawing with this distortion feels VERY WEIRD. You can **EASILY** correct this by enabling FORCE PROPORTIONS.
 
 ## Pen tablets are prone to distortion
 
@@ -27,6 +27,8 @@ So statistically most people run into a mismatch in aspect ratios when using pen
 ## How Force Proportions work
 
 FP restricts the region of the active area that matches to that of your monitor - so the aspect ratios will match. This removes the distortion.
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Enabling force proportions
 
@@ -91,8 +93,6 @@ This video goes into great detail about this topic.
 If you enable FP, you will not be able to take advantage of some of your tablet's full native active area, but BY FAR this is the better alternative than distorted drawing.
 
 The amount of active area you lose by turning on force proportions varies depending on the specific aspect ratio of tablet and monitor. The more mismatched they are the bigger the loss. For the Wacom Intuos Pro 2017 series with FP on 16:9 monitors the loss can be between 10% to 20%.
-
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Note that if the active areas of the tablet and monitor are the same, then enabling FP does not incur any loss.
 
