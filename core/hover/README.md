@@ -2,7 +2,11 @@
 
 ## Overview
 
-All drawing tablets detect the position of the pen, **even when the pen is not touching the tablet**.
+All drawing tablets detect the position of the pen, **even when the pen is not touching the tablet - as long as they are within about 10mm.**
+
+<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (57).png" alt="" width="375"><figcaption></figcaption></figure>
 
 This is how the tablet must work, because the EMR sensor, also called the digitizer, sits below the surface that the pen touches. So the pen is **always** detected at a distance.
 
