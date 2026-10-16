@@ -10,9 +10,7 @@ When precision mode is activated, the active area is left alone but it is mapped
 
 While active, precision mode allows you to make LARGE strokes on the tablet that create SMALLER strokes on the monitor. This has the effect that your strokes get smoother.
 
-<figure><img src="../../.gitbook/assets/precision-mode-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/precision-mode-2.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ## Activating precision mode
 
