@@ -12,44 +12,23 @@ In general, people want lower IAF.
 
 * IAF is measured in gram-force units (`gf`). You will often see it described as grams.
 * IAF is determined by the pen hardware, not the tablet.
-* More info: [Pen pressure](./)&#x20;
+* More info: [Pen pressure](./)
 
 ## Video
 
 {% embed url="https://www.youtube.com/watch?v=ADirKEMoczU" %}
 
-## Initial activation force (IAF)
+## Initial activation force (IAF) Ranking
 
-A lower IAF is good because it makes fine details easier to draw. To give you a better sense of these values, I have ranked IAF below based on feedback I have received and what works for me.
+A lower IAF is good because it makes fine details easier to draw. To give you a better sense of these values, I have ranked IAF below based on feedback I have received and pens I have measured. You can see that the IAF for a specific model of pen will vary per unit.&#x20;
 
-<table><thead><tr><th width="154.5999755859375">IAF Rating</th><th width="134.79998779296875">IAF Range</th><th>Comments</th></tr></thead><tbody><tr><td>EXCELLENT</td><td>&#x3C;=1gf</td><td>Many modern Wacom pens have an IAF of &#x3C;= 1gf.</td></tr><tr><td>GREAT</td><td>1gf to 2gf</td><td>Only a couple of pens are in this range.</td></tr><tr><td>GOOD</td><td>2gf to 3.5gf</td><td>Most modern EMR pens have an IAF of around 3gf.</td></tr><tr><td>OK</td><td>3.5gf to 5gf</td><td>This range is tolerable and typical of a consumer-level pen.</td></tr><tr><td>BAD</td><td>≥ 5gf</td><td>Most people would not enjoy using such a pen.</td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Note that some people have much stronger opinions about IAF. For example, some people think any IAF greater than 2gf is bad.
 
-## IAF through the years
-
-Very low IAF is not new. Wacom has been making pens for decades that have excellent low IAF. Their professional pens have had low IAF for a long time.
-
-Here are some examples from Kuuube's measurements (using Open Tablet Driver) from his [Wacom Tablet Mastersheet](https://docs.google.com/spreadsheets/d/125LNzGmidy1gagwYUt12tRhrNdrWFHhWon7kxWY7iWU/edit?gid=1134075895#gid=1134075895).
-
-<table><thead><tr><th width="315.79998779296875">Pen</th><th width="92.2000732421875">IAF</th><th>Tablet launch year</th></tr></thead><tbody><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>&#x3C;1gf</td><td>2017</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>&#x3C;1gf</td><td>?</td></tr><tr><td>Wacom Intuos4/5 Grip Pen (KP-501E)</td><td>&#x3C;1gf</td><td>2009 and 2012</td></tr><tr><td>Wacom Intuos3 Grip Pen (ZP-501E)</td><td>&#x3C;1gf</td><td>2004</td></tr><tr><td>Wacom Intuos2 Grip Pen (XP-501E)</td><td>&#x3C;1gf</td><td>2001</td></tr><tr><td>Wacom Intuos1 Grip Pen (GP-300E)</td><td>&#x3C;1gf</td><td>1998</td></tr></tbody></table>
-
-## Measurements differ: Pro Pen 2 and Pro Pen 3
-
-Not everyone gets the same IAF numbers for these two pens.
-
-* Kuuube has measured the Pro Pen 2 at less than 1gf, and the Pro Pen 3 at around 3gf.
-* In my measurements, both the Pro Pen 2 and the Pro Pen 3 are around 3gf. My numbers are pretty consistent.
-
-I don't know why my measurements differ from Kuuube's.
-
-I do believe the Pro Pen 2 has very low IAF. The Pro Pen 3 is very close, though lots of people say that in practice its IAF feels just a little higher than the Pro Pen 2's.
-
-So treat the exact IAF numbers for these two pens as approximate.
-
 ## The importance of low IAF
 
-Some people really need an excellent IAF of <1gf.
+Some people really need an low IAF of <1gf.
 
 Others, myself included, work fine with a 3gf IAF. I definitely notice the difference, but it does not affect the kind of art I create.
 

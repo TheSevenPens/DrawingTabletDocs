@@ -10,6 +10,10 @@ If you would prefer to watch, see this video:
 
 {% embed url="https://www.youtube.com/watch?v=H87GUsU6Hh0" %}
 
+## Ranking
+
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
 ## Relationship to pressure range
 
 Maximum physical pressure is the upper bound of the pen's pressure range. It is the logical opposite of the [IAF](iaf.md).
