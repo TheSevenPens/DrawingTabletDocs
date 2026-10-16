@@ -9,6 +9,8 @@ You have two options:
 * **Extend the desktop** - this means you can see different things on the pen display from your monitor. This is what I recommend you use.
 * **Duplicate the desktop (aka "Mirror the desktop")** - This means your pen display and monitor will try to show the same exact thing.
 
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
 ## Considerations
 
 Duplicating is very useful and intuitive, but generally I think Extend is a better choice for most people and situations.
