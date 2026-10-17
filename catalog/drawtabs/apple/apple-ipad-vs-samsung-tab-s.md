@@ -14,12 +14,12 @@ For more information:
 
 Both of these kinds of devices can be successfully used for digital art, note-taking, and similar work. Each has its strengths and weaknesses, but overall they are quite comparable.
 
-## Detailed notes
+For detailed notes see:
 
 * [Samsung Galaxy Tab S series notes](../samsung/samsung-galaxy-tab-s-series/samsung-tab-s-notes.md) (includes links to notes for specific models)
 * [Apple iPad notes](apple-ipad-notes.md)
 
-## Comparison videos
+For comparison videos
 
 * [Teoh on Tech - iPad price hike (Jun 2026): Android drawing tablets to get](https://www.youtube.com/watch?v=9lCsR0TeQWk) 2026-06-27
 * [Teoh on Tech - iPad 11 (2025) vs Samsung Tab S10 FE](https://www.youtube.com/watch?v=hssqzof5-c0) 2025-07-06
@@ -32,10 +32,7 @@ It's hard to pick a winner - their drawing experience is similar but has some ke
 
 ## Hover
 
-* Support for hover has always been available with the Samsung Galaxy Tab series.
-* Only with certain Apple Pencil models and with certain iPads.
-
-More here: [Pen hover](../../../core/hover/)
+Support for hover has always been available with the Samsung Galaxy Tab series. However, Only with certain Apple Pencil models and with certain iPads. More here: [Pen hover](../../../core/hover/)
 
 ## Buttons
 
@@ -44,15 +41,24 @@ More here: [Pen hover](../../../core/hover/)
 
 ## Pointer lag
 
-* Apple iPad - very low (which is good)
-* Samsung Galaxy Tab S - very low, but not quite as good as an iPad
+* Apple iPad + Apple Pencil - very low&#x20;
+* Samsung Galaxy Tab S + S Pen - very low
 
-In practice both are excellent in terms of pointer lag.
+In practice both are excellent in terms of pointer lag. Some apps (for example Procreate) also peform position prediction with the Apple Pencil which makes the Apple Pencil seem a little more responsive and have less lag than the hardware actually has
 
 ## Reliability
 
 * I've owned an Apple iPad since they first came out in about 2011. And they've always been highly reliable devices.
 * I have owned Samsung Galaxy Tab S devices since about 2021. They also seem highly reliable.
+
+## Operating System Updates
+
+Both kinds of devices offer OS updates for you buy the device.
+
+How many years of udpates are offered:
+
+* Samsung Galacy Tab S: 7, 5, or 4 years of Android updates depending on the specific device
+* Apple iPad: 5 to 8 years depending on the specific iPd
 
 ## Applications
 
@@ -79,45 +85,72 @@ I think the 4x3 aspect ratio of the Apple iPad is in general a better choice. Th
   * Do NOT buy the Apple Pencil USB-C version - it does not support pressure sensitivity
 * Samsung: There are several versions of the S Pen, and they are not clearly labeled. The one I am discussing is the one compatible with the Galaxy Tab S series of tablets.
 
-## Pen pressure handling
+### Pen included with tablet?
+
+* Apple iPad - you have to buy the Apple Pencil separately. It does NOT come with an iPad.
+* Samsung Galaxy S series - the Samsung S pen comes with the tablet.
+
+## Apple Pencil vs S Pen
+
+### Overview
+
+People are very polarized on how the **Apple Pencil** works. Some people love it, some people hate it, some people tolerate it. I am in the tolerate camp. The Apple Pencil. Some people love the Apple Pencil, some people hate the Apple Pencil, and some tolerate it, but can't effectively use it. I myself am in the tolerate camp. The Apple Pencil behaves somewhat differently than an EMR pens like the Samsung S pen (and other UD EMR pen).&#x20;
+
+### Pen pressure handling
 
 There are significant differences in pressure handling.
 
 * Samsung S pens - are OK in terms of pressure handling. They have a slightly higher IAF (3gf to 6gf) and don't have a high maximum pressure (200gf). More here: [Samsung S Pen notes](../../pens/samsung-s-pen/samsung-s-pen-notes.md)
 * Apple Pencil 2nd GEN and Apple Pencil Pro - These have a very low IAF based on users' comments (some people say <1gf) and a high maximum pressure of 500gf.
+* Note that The Apple Pencil has a "predictive" component to its pressure. In some apps you cn see that it actually starts drawing before the Apple Pencil actuall makes contact with the iPad. Presumably the iPad is sensing the motion of the Apple Pencil and knows that the Pencil will inevitably touch it in the next few millisecond and then uses that inference to start drawing. Thid is quite clever, but can also make it harder to measure the true IAF of an Apple Pencil.
 
-## Pen nib retraction
+### Pen nib retraction
 
 * The Apple Pencil has a tip that does not move.
 * Like any EMR drawing tablet pen, the Samsung S Pen features a nib that retracts a very slight amount.
 
-## Pen included with tablet?
-
-* Apple iPad - you have to buy the Apple Pencil separately. It does NOT come with an iPad.
-* Samsung Galaxy S series - the Samsung S pen comes with the tablet.
-
-## Pen replacement cost
+### Pen replacement cost
 
 Don't lose your pen! They aren't cheap to replace. The Apple Pencil is very expensive compared to the Samsung S Pen.
 
 * Apple Pencil 2: $130 USD
 * Samsung S Pen for Galaxy Tab: $40 to $50
 
-## Pen wear
+### Pen wear
 
 Both pens can experience wear at their drawing end, and you may need to buy replacement tips/nibs.
 
 * For the Apple Pencil, the tip can be replaced. Apple sells a pack of 4 for $19 - or $4.75 per tip.
 * For the Samsung S Pen, the nib can be replaced. You can find various nibs on Amazon at a price of around $1 per nib.
 
-## Pen tech
+### Pen tech
 
 * Apple iPad and Apple Pencil use a proprietary protocol that is similar to AES
 * Samsung S tablets and S Pens use EMR (Electromagnetic Resonance) which is what drawing tablets from brands such as Wacom, Huion, XP-Pen use.
 
 If you are coming from a background of using Wacom drawing tablets, then the Samsung Tab S series will feel more natural to you than using an Apple Pencil.
 
-## Pen buttons
+### Pen buttons
 
 * Apple Pencil has no buttons
 * Samsung S Pen has a single button
+
+### Pen weight
+
+Apple pencils tend to weigh more than EMR pens. Also the weight distribution is more toward the read end of the apple pencil.
+
+If you are used to an EMR pen this is unusual as they are lighter and weighted more toward the nib.
+
+### Pen physical feel
+
+The apple pencil has a smooth hard surface - it feels almost cerramic. EMR pens general feel a bit "softer"
+
+### Pen power
+
+The Apple Pencil has an internal batter that cannot be replaced and requires period recharging. Recharging is very quick.
+
+The S pen gets its power by being near the table t(about 10mm). It does not have an internal battery.&#x20;
+
+### Pen eraser
+
+Neither the Apple Pencil for the S Pen have an eraser.
