@@ -8,15 +8,15 @@ Instead, an EMR digitizer can detect the tilt of the pen just by examining the s
 
 ## Details
 
-When the pen is perpendicular, the digitizer detects a single perpendicular shape.
+When the pen is perpendicular, the digitizer detects a signal from the pen that has one peak.
 
-<figure><img src="../../.gitbook/assets/emr-tilt-detection-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-As the pen tilts, it produces two shapes. And the relationship between the two shapes indicates the tilt.
+As the pen tilts, it produces a signal with two peaks.
 
-For example, in the diagram below, the pen is pointing to the lower left - meaning the top part of the pen is "falling" toward the lower left of the tablet.
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/emr-tilt-detection-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 The work for the EMR sensor and tablet firmware is to detect that there are two signal peaks and then disambiguate them.
 
@@ -26,12 +26,20 @@ The specific algorithm to do this has, to my knowledge, never been exactly revea
 
 ## **How tilt is reported to the computer**
 
-The tablet measures the tilt in both the x and y directions
+The two ways - two sets of angles. Azimuth/Altitude or X/Y.
 
-<div align="left"><figure><img src="../../.gitbook/assets/emr-tilt-detection-3.png" alt="" width="375"><figcaption><p>pen not perfectly perpendicular to tablet as indicated by shadow. Diagram shows x &#x26; y components of tilt.</p></figcaption></figure></div>
+We'll begin with Azimuth and Altitude because despite the names they are easy to understand. If we think of a tilted pen as "leaning" then:
 
-Measuring as x tilt and y tilt is also equivalent to measuring as azimuth and altitude. Think of azimuth as an angle from the tablet measured from "north" and the altitude as how high the far end of the pen is from the tablet surface.
+* Azimuth = Lean direction
+* Altitude = Lean amount
 
-In the example below, the orange lines indicate the azimuth. The purple line indicates the altitude, also known as elevation.
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/emr-tilt-detection-4.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+
+Now that you understand Azimuth and Altitude, X/Y tilt is just another equivalent way of describing it where tilt is describes as how much lean it has on the A and Y axes of the tablet.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+
+
+
