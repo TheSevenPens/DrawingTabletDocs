@@ -84,13 +84,13 @@ Overall, drawing tablet digitizers are 10 times denser than the best available d
 
 You don't need to worry about this LPI specification when selecting a drawing tablet. You will not be able to tell the difference between 2540 LPI and 5080 LPI.
 
-My advice: Do not consider LPI or LPmm when making a purchase decision.
+My advice: Do not consider digitizer density when making a purchase decision. Your screens have much lower density than the tablet - you won't notice the difference at all.
 
-## Position data sent to the computer
+The diagrams below show how 5080LPI and 2540 LPI compare to a high resolution screen (300 PPI). As you can see there really is no effective difference.
 
-Even if a digitizer has an incredibly high resolution, you may wonder what data it sends to the computer.
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-The answer is simple: the digitizer sends its coordinates using the highest resolution available.
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 ## Somewhat related but very important: Force proportions
 
