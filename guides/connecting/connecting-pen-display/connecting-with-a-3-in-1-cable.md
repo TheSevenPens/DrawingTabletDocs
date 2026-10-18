@@ -6,19 +6,25 @@ A 3-in-1 cable is a special connection cable that pen displays use to connect to
 
 More here on the different ways a pen display can connect to a computer: [Connecting a pen display](./)
 
-A 3-in-1 cable typically looks like this:
+A 3-in-1 cable typically looks and connects like this:
 
-<figure><img src="../../../.gitbook/assets/connecting-with-a-3-in-1-cable-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-Here's a typical picture of the three cables on the right.
+Here's a typical picture of the three ends non-USB-C ends of a 3-in-1 cable.
 
 <figure><img src="../../../.gitbook/assets/3-in-1-cable-power-lead-1.jpg" alt=""><figcaption></figcaption></figure>
 
-The power end can work in different ways, depending on which 3-in-1 cable you have.
+The power end can work in different ways - may have an separate extension to connect to a power adapter.
 
-<figure><img src="../../../.gitbook/assets/connecting-with-a-3-in-1-cable-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-Older 3-in-1 cables may have a proprietary connection to the tablet instead of a regular USB-C connection.
+The power connection may vary in terms of the port it uses to connect to a power adapter. It may be:
+
+* a USB-A connection
+* a USB-C connection
+* a proprietary connection
+
+As or connection to the tablet, the vast majority use USB-C but a few older 3-in-1 cables may have a proprietary connection to the tablet.
 
 <figure><img src="../../../.gitbook/assets/connecting-with-a-3-in-1-cable-4.png" alt=""><figcaption></figcaption></figure>
 
