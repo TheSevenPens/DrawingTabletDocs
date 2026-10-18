@@ -7,7 +7,9 @@ Drawing tablets use two coordinate systems.
 * **Digitizer coordinates** are high-resolution coordinates sensed by the tablet’s digitizer. A typical 2026 drawing tablet senses 5,080 points per inch, or 200 points per millimeter.
 * **Screen coordinates** map to pixels on your monitor. They have much lower resolution, typically 150 to 300 points per inch.
 
-In simple terms, the tablet’s digitizer senses many points for every display pixel.
+In simple terms, the tablet’s digitizer senses many points for every screen pixel.
+
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ## Quality strokes need digitizer coordinates
 
