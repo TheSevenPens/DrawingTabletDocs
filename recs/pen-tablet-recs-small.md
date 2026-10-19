@@ -21,14 +21,15 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* Huion Frego S (L320) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md) NO TILT
+* Nothing in his category
 
 ## GOOD
 
-* One by Wacom Small (CTL-472) [One by Wacom (CTL-x72) notes](../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md) NO TILT
+* One by Wacom Small (CTL-472) [One by Wacom (CTL-x72) notes](../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md) NO TILT, DISCONTINUED&#x20;
 * Wacom Intuos Small (CTL-4100) [Wacom Intuos (CTL-x100) notes](../catalog/drawtabs/wacom/wacom-intuos/) NO TILT
 * XP-Pen Deco M (IT850) \[no wireless]
-* XP-Pen Deco MW (IT850B)&#x20;
+* XP-Pen Deco MW (IT850B)
+* Huion Frego S (L320) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md) NO TILT
 
 ## AVOID
 

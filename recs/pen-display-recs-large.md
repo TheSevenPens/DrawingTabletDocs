@@ -37,4 +37,4 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## Videos
 
-{% embed url="https://youtu.be/sXxU7I995XM" %}
+{% embed url="https://youtu.be/epFXFGaCwIg?si=mrQSfpXNoVHE2uAw" %}

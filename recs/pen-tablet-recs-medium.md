@@ -22,7 +22,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 ## VERY GOOD
 
 * Huion Dial 2 V2 (Q640M)
-  * Note this is different from the Huion Dial 2 (Q630M). They use different pens.
+  * Note this is different from the Huion Dial 2 (Q630M). Q640M and Q630M use different pens.
 * XP-Pen Deco Pro
   * XP-Pen Deco Pro MW GEN2 (MT0962B)
   * XP-Pen Deco Pro LW GEN2 (MT1172B)
