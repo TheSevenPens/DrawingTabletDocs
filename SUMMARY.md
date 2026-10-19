@@ -696,8 +696,6 @@
     * [Measuring pressure banding](process/measuring/measuring-pressure-banding.md "Pressure banding")
   * [Magnet field detection](process/magnet-field-detection.md)
   * [Testing drawing experience](process/testing-drawing-experience.md)
-* [Reference](ref/README.md)
-  * [Standard drawing tablet sizes](ref/standard-drawtab-sizes.md)
 * [Technology](tech/README.md)
   * [Display panel technology](tech/display-panel-tech.md)
   * [VESA](tech/vesa.md)

@@ -12,9 +12,9 @@
 
 I've given convenient labels ("small", "medium", "large") to drawing tablets to make it easier to talk about their sizes. These categories are based on the standard sizes Wacom uses. The sizes are approximate - for each category, a typical value and a range are provided.
 
-See: [Standard drawing tablet sizes](../ref/standard-drawtab-sizes.md)
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/choosing-size-1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ## Manufacturer size categories
 
