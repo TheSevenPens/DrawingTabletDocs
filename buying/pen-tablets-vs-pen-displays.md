@@ -7,7 +7,7 @@ This guide helps you choose between a pen tablet and a pen display.
 * **Pen tablets** lack a screen and require a computer
 * **Pen displays** include a screen and require a computer
 
-<figure><img src="../.gitbook/assets/pen-tablets-vs-pen-displays-1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 ## Approach
 
@@ -44,7 +44,7 @@ Some people worry that their desired art quality requires a pen display. Do not 
 
 ## Advice for first-time tablet users
 
-If you have never had any kind of drawing tablet before -  explore a pen tablet first. Learn its workflow. If you cannot adjust after a few weeks, return it and choose a pen display.
+If you have never had any kind of drawing tablet before - explore a pen tablet first. Learn its workflow. If you cannot adjust after a few weeks, return it and choose a pen display.
 
 If you have drawing using a pen on device like an iPad or Samsung Galaxy Tab S device, you alrady have some experience similar to using a drawing tablet. I still think you should explore pen tablets, but if you want a similar experience to what you are already used to then it makes sense to think about a pen display/
 
