@@ -16,7 +16,8 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 * Wacom Intuos Pro Medium (PTK-670) [Wacom Intuos Pro 2025 (PTK-x70) notes](../catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
 * Wacom Intuos Pro Medium (PTH-660) [Wacom Intuos Pro 2017 (PTH-x60) notes](../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
-* Wacom Intuos 2026 Medium (CTK-6120) [Wacom Intuos 2026 (CTK-x120) notes](../catalog/drawtabs/wacom/wacom-intuos/wacom-ctkx120-notes.md) UNRELEASED - pre-order only, not yet shipped
+* Wacom Intuos 2026 Medium (CTK-6120) [Wacom Intuos 2026 (CTK-x120) notes](../catalog/drawtabs/wacom/wacom-intuos/wacom-ctkx120-notes.md)
+  * NOT RELEASED YET (pre-order only). Its EXCELLENT rating is based only on the specs Wacom has published so far, not on hands-on testing.
 
 ## VERY GOOD
 
