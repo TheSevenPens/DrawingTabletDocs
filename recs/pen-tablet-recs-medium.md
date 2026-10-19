@@ -29,7 +29,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## GOOD
 
-* One by Wacom Medium (CTL-672) [One by Wacom (CTL-x72) notes](../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md) \[no tilt, no wireless]
+* One by Wacom Medium (CTL-672) [One by Wacom (CTL-x72) notes](../catalog/drawtabs/wacom/one-by-wacom/wacom-ctlx72-notes.md) \[no tilt, no wireless] DISCONTINUED
 * XP-Pen Deco M (IT850) \[no wireless]
 * XP-Pen Deco MW (IT850B)
 * XP-Pen Deco L (IT1060) \[no wireless]
