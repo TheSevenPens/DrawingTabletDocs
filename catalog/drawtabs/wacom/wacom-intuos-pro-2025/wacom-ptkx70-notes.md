@@ -27,6 +27,16 @@ For the full comparison, and help choosing between them, see [Wacom Intuos Pro 2
 * Upgrade from 2017 edition? → PROBABLY NOT. Unless there is a specific benefit you will get from the Intuos Pro 2025, there is no point in upgrading. See [Wacom Intuos Pro 2025 vs Intuos Pro 2017](../wacom-intuos-pro-2025-vs-2017.md).
 * Need multitouch support? → NO
 
+## Reception
+
+The introduction of the Intuos Pro 2025 has been met with polarized opinions. The tablet's technical quality is widely recognized. It maintains clear leadership in this device category. Many users love this tablet and prefer it to the previous 2017 edition.
+
+However, users pointed out these negatives and prefer the 2017 edition:
+
+* The decreased bezel width was less comfortable.
+* The edges of the tablet are slightly more pronounced than on the older model. For some people, that made it uncomfortable to rest their hand on the edge. With the decreased bezel size, there is also a much higher chance that your hand will rest on the edge.
+* Although many people did not use the multi-touch feature of the Intuos Pro 2017, a few did and were big fans of it. For them, multi-touch not being available on the Intuos Pro 2025 was a major negative.
+
 ## Model numbers
 
 It's always helpful to be clear on the model numbers so that you don't buy the wrong version of the tablet.
@@ -465,15 +475,3 @@ Cost benefits
 Recommendation
 
 * Consider UD EMR pens as backup pens
-
-## Reception
-
-The introduction of the Intuos Pro 2025 has been met with polarized opinions.
-
-The tablet's technical quality is widely recognized. It maintains clear leadership in this device category. Many users love this tablet.
-
-However, users pointed out these negatives:
-
-* The decreased bezel width was less comfortable.
-* The edges of the tablet are slightly more pronounced than on the older model. For some people, that made it uncomfortable to rest their hand on the edge. With the decreased bezel size, there is also a much higher chance that your hand will rest on the edge.
-* Although many people did not use the multi-touch feature of the Intuos Pro 2017, a few did and were big fans of it. For them, multi-touch not being available on the Intuos Pro 2025 was a major negative.
