@@ -16,6 +16,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 * Wacom Intuos Pro Small (PTK-470) [Wacom Intuos Pro 2025 (PTK-x70) notes](../catalog/drawtabs/wacom/wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
 * Wacom Intuos Pro Small (PTH-460) [Wacom Intuos Pro 2017 (PTH-x60) notes](../catalog/drawtabs/wacom/wacom-intuos-pro-2017/wacom-pthx60-notes.md)
+* Wacom Intuos 2026 Small (CTK-4120) [Wacom Intuos 2026 (CTK-x120) notes](../catalog/drawtabs/wacom/wacom-intuos/wacom-ctkx120-notes.md) UNRELEASED - pre-order only, not yet shipped
 
 ## VERY GOOD
 

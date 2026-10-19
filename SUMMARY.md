@@ -529,6 +529,7 @@
         * [Wacom Intuos1 (GD-xxxx) notes](catalog/drawtabs/wacom/wacom-intuos1/wacom-gdxxxx-notes.md)
       * [Wacom Intuos](catalog/drawtabs/wacom/wacom-intuos/README.md "Intuos")
         * [Wacom Intuos (CTL-x100) notes](catalog/drawtabs/wacom/wacom-intuos/wacom-ctlx100-notes.md)
+        * [Wacom Intuos 2026 (CTK-x120) notes](catalog/drawtabs/wacom/wacom-intuos/wacom-ctkx120-notes.md "Intuos 2026 (CTK-x120)")
       * [Wacom UD series notes](catalog/drawtabs/wacom/wacom-ud-series-notes.md "UD series")
       * [Wacom SD series](catalog/drawtabs/wacom/wacom-sd-tablets/README.md "SD series")
         * [Wacom SD-510C notes](catalog/drawtabs/wacom/wacom-sd-tablets/wacom-sd510c-notes.md "SD-510C")
