@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Buying tips
@@ -60,7 +62,7 @@ That's why I tend to recommend the brands I do - they have a large number of use
 
 Since Reddit is a popular place for drawing tablet discussions, here are some numbers that show how big these communities are.
 
-<figure><img src="../.gitbook/assets/buying-tips-1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ## Understand how the tablet will connect to your computer
 
@@ -68,15 +70,17 @@ For pen tablets, this is straightforward. All pen tablets connect with a USB cab
 
 In the user manual, you'll find diagrams like this for a pen tablet.
 
-<figure><img src="../.gitbook/assets/buying-tips-2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 For pen displays, wiring is much more complicated. There are more cables and ports involved, with more requirements on those cables and ports.
 
 The user manual will show diagrams like these indicating how pen displays may connect to a computer.
 
-<figure><img src="../.gitbook/assets/buying-tips-3.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/buying-tips-4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (68).png" alt="" width="375"><figcaption></figcaption></figure>
 
 With pen displays you should also be clear about which cables come in the box. Sometimes the user manual shows how to wire up the connections but some of those cables are not actually included. It's best to confirm this before you make a purchase.
 

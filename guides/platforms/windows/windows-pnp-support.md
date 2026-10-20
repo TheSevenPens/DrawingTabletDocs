@@ -32,7 +32,7 @@ Windows PnP drivers are useful in some cases:
 
 ### Mapping buttons to actions
 
-* **pen button actions** - basic pen-button input can be supported. Windows recognizes standard HID pen functions, such as barrel buttons and erasers. However, Windows does not provide the extensive button remapping available in most manufacturer tablet drivers. You cannot map buttons to arbitrary keystrokes without third-party software. Windows provides basic native toggles, such as right-click or eraser, in the [Windows Pen & Windows Ink settings](windows-pen-and-windows-ink-settings.md).&#x20;
+* **pen button actions** - basic pen-button input can be supported. Windows recognizes standard HID pen functions, such as barrel buttons and erasers. However, Windows does not provide the extensive button remapping available in most manufacturer tablet drivers. You cannot map buttons to arbitrary keystrokes without third-party software. Windows provides basic native toggles, such as right-click or eraser, in the [Windows Pen & Windows Ink settings](windows-pen-and-windows-ink-settings.md).
 * **tablet button and dial actions** - not supported
 
 ### Active area mapping
@@ -70,6 +70,8 @@ On the desktop, your pointer normally looks like this when you use a mouse. It a
 <figure><img src="../../../.gitbook/assets/windows-pnp-support-1.jpg" alt=""><figcaption></figcaption></figure>
 
 > **Note:** It is hard to capture this pointer onscreen. This image uses a phone camera.
+
+<img src="../../../.gitbook/assets/diag-windows-pnp-tablet-drivers-1.png" alt="" data-size="original">
 
 ### The Windows Ink hover cursor may not appear, even with PnP drivers
 

@@ -12,13 +12,13 @@ EMI can make the pen have jerky movements - making the pen unresponsive for a fe
 
 ### **Warped and interrupted regions due to Magnets**
 
-Sometimes the EMI takes the form of a region that warps straight lines. The warping  can also fully interrupt the stroke. The effect looks like this:
+Sometimes the EMI takes the form of a region that warps straight lines. The warping can also fully interrupt the stroke. The effect looks like this:
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The warping effect can also be more subtle:
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Here are real world-examples:
 

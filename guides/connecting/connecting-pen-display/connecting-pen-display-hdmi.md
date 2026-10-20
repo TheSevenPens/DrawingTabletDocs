@@ -34,11 +34,11 @@ The power cable will typically be marked with a red connector or tag that is red
 
 A power adapter will come with the tablet. Use it.
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 Some tablets also have a power extension cable to be used with the 3-in-1 cable.
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ## Important reminder
 
