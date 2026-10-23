@@ -12,6 +12,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [MNP1095 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/magic-note-pad.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/magic-note-pad.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/magic-note-pad-1095.html) |  |
@@ -22,116 +23,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [XP Pen Magic Note Pad Review](https://www.youtube.com/watch?v=EDYnCV500ls) | 2025-03-20 |
 | Parka Blogs | [Artist Review: XPPen Magic Note Pad](https://www.parkablogs.com/content/artist-review-xppen-magic-note-pad) | 2025-03-19 |
 | Teoh on Tech | [XPPen Magic Note Pad (artist review): Read, write & draw](https://www.youtube.com/watch?v=yXoHq2offvU) | 2025-03-18 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Name | Magic Note Pad |
-| Released | 2025-03-19 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Resolution | 1920 × 1200 |
-| Aspect ratio | 16:10 |
-| Pixel density | 207 PPI |
-| Panel | — |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 95% coverage |
-| Color depth | 8-bit |
-| Brightness | 400 cd/m² |
-| Peak brightness | — |
-| Viewing angle | — |
-| Refresh rate | 90 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Active area | 236 × 148 mm (9.3 × 5.8 in) |
-| Diagonal | 278.6 mm (11 in) |
-| Aspect ratio | ≈16:10 (1.595:1) |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | — |
-| Accuracy (center) | ±0.4 mm |
-| Accuracy (corner) | ±1.5 mm |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Included pen | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
-| Compatible pens | [X3 Note Pad Pen (PD04B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd04b) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Size | 259 × 182 × 7 mm (10.2 × 7.2 × 0.3 in) |
-| Weight | 495 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | — |
-| Wi-Fi | 802.11a/b/g/n/ac |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Power input | 9 V, 2.22 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | 20 W |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-
-{% tab title="Computer" %}
-| | [MNP1095](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |
-| --- | --- |
-| OS | Android 14 |
-| Processor | MediaTek MT8781 |
-| RAM | 6 GB |
-| Storage | 128 GB |
-{% endtab %}
-{% endtabs %}
 
 ## Software
 

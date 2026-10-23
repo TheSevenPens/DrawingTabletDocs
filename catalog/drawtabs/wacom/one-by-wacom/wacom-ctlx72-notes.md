@@ -38,77 +38,10 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [CTL-472 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472), [CTL-672 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |  |
 | Wacom | [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications) |  |
 | Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) (CTL-472) |  |
 | Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) (CTL-672) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_onebywacom_2019). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Name | One by Wacom Small | One by Wacom Medium |
-| Released | 2019-05-10 | 2019-05-10 |
-| Status | Available | Available |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Active area | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) |
-| Diagonal | 179.2 mm (7.1 in) | 254.7 mm (10 in) |
-| Aspect ratio | 16:10 | 16:10 |
-| Pen technology | Passive EMR | Passive EMR |
-| Pressure levels | 2048 | 2048 |
-| Tilt | None | None |
-| Accuracy (center) | — | — |
-| Accuracy (corner) | — | — |
-| Report rate | 133 Hz | 133 Hz |
-| Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
-| Max hover | — | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Included pen | [2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) | [2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) |
-| Compatible pens | [2K Pen (LP-190)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190)<br>[2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) | [2K Pen (LP-190)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190)<br>[2K Pen (LP-190K)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.lp190k) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Buttons | 0 | 0 |
-| Dials | 0 | 0 |
-| Touch rings | — | — |
-| Touch strips | — | — |
-| Touch | No | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Size | 210 × 146 × 8.7 mm (8.3 × 5.7 × 0.3 in) | 277 × 189 × 8.7 mm (10.9 × 7.4 × 0.3 in) |
-| Weight | 250 g | 432 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Ports | Micro-USB | Micro-USB |
-| Attached cable | None | None |
-| Bluetooth | No | No |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [CTL-472](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472) | [CTL-672](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |
-| --- | --- | --- |
-| Contents | — | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

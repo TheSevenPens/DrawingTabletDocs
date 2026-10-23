@@ -52,6 +52,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTH-A140 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-pro-14-dtha140l0z.html) |  |
 | Teoh on Tech | [Wacom MovinkPad Pro 14 vs iPad Pro 13: Which I prefer months later](https://www.youtube.com/watch?v=7eGfzl42bCM) | 2026-06-06 |
@@ -65,106 +66,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Aaron Rutten | [Wacom MovinkPad Pro 14: The Best Mobile Art Tablet Ever!](https://www.youtube.com/watch?v=CI6j3x_ab0c) | 2025-11-08 |
 | Seven Pens | [Wacom MovinkPad Pro 14 (DTH-A140): Unboxing and testing](https://www.youtube.com/watch?v=f7MRMWMKGeg) | 2025-10-25 |
 | Brad Colbow | [Wacom Movink Pad Pro 14 Review](https://www.youtube.com/watch?v=lpBGmiO4f7I) | 2025-10-17 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Name | Wacom MovinkPad Pro 14 |
-| Released | 2025-10-01 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Resolution | 2880 × 1800 |
-| Aspect ratio | 16:10 |
-| Pixel density | 242 PPI |
-| Panel | OLED |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint, Anti-reflection |
-| Color gamut | sRGB 100% coverage<br>DCI-P3 100% coverage |
-| Color depth | 10-bit |
-| Brightness | 400 cd/m² |
-| Peak brightness | 900 cd/m² |
-| Viewing angle | 170° horizontal<br>170° vertical |
-| Refresh rate | 120 Hz |
-| Response time | 1 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Active area | 302 × 189 mm (11.9 × 7.4 in) |
-| Diagonal | 356.3 mm (14 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
-| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Size | 323.3 × 210 × 5.9 mm (12.7 × 8.3 × 0.2 in) |
-| Weight | 699 g |
-| VESA mount | No |
-| Legs | No |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Ports | USB-C (USB 2.0) |
-| Attached cable | None |
-| Bluetooth | Yes (5.4) |
-| Wi-Fi | 802.11a/b/g/n/ac/ax |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| Contents | Tablet<br>Pro Pen 3 (no grip)<br>USB-C charging cable<br>3 nibs stored in the pen: Carbon Shaft POM x1, Felt x1, POM x1 |
-{% endtab %}
-
-{% tab title="Computer" %}
-| | [DTH-A140](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |
-| --- | --- |
-| OS | Android 15 |
-| Processor | Snapdragon 8s Gen 3 |
-| RAM | 12 GB |
-| Storage | 256 GB |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

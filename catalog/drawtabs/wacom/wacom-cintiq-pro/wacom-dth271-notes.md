@@ -13,6 +13,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTH-271 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-cintiq-pro-27) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-cintiq-pro-27-interactive-pen-display-dth271k0a.html) |  |
 | Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH271.html) |  |
@@ -25,106 +26,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Aaron Rutten | [Ultimate Wacom CINTIQ PRO 27 Review + Ergo Stand & Pro Pen 3](https://youtu.be/LybW8WZBrrg) | 2022-10-14 |
 | Brad Colbow | [Wacom Cintiq Pro 27 Review](https://youtu.be/x59b4nR3Y3E) | 2022-10-14 |
 | Aaron Rutten | [My First Impression of the Wacom CINTIQ PRO 27](https://www.youtube.com/watch?v=6S5pXLsThj0) | 2022-09-27 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Name | Cintiq Pro 27 |
-| Released | 2022-09-28 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 164 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | Adobe RGB 99% coverage<br>DCI-P3 98% coverage<br>Rec. 709 100% coverage |
-| Color depth | 10-bit |
-| Brightness | 400 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 120 Hz |
-| Response time | 10 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Active area | 596 × 335 mm (23.5 × 13.2 in) |
-| Diagonal | 683.7 mm (26.9 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
-| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Buttons | 8 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Size | 638 × 379 × 31 mm (25.1 × 14.9 × 1.2 in) |
-| Weight | 7200 g |
-| VESA mount | Yes (100×100) |
-| Legs | No |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Ports | Mini DisplayPort<br>HDMI<br>USB-C<br>USB-C<br>USB-A<br>DC power |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Power input | 19 V, 8.4 A |
-| Consumption | 85 W max |
-| Standby | 1.5 W |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTH-271](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth271) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

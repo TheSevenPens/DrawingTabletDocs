@@ -12,112 +12,13 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GS1562 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-16-2021) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-16-2021) |  |
 | Teoh on Tech | [Huion Kamvas 16 (2021): Laminated Display, Pen Performance, Cursor Tracking](https://www.youtube.com/watch?v=h0puxdOcvQU) | 2021-03-31 |
 | Teoh on Tech | [Review: Huion Kamvas 16 (2021) pen display](https://www.youtube.com/watch?v=xymOF8FXgO0) | 2020-12-22 |
 | Brad Colbow | [Huion Kamvas 16 (2021) Review](https://www.youtube.com/watch?v=k4SDAIAnSjg) | 2020-12-01 |
 | Parka Blogs | [Huion KAMVAS 16 (2021)](https://www.parkablogs.com/content/review-huion-kamvas-16-2021-120-srgb-pen-display) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Name | Kamvas 16 (2021) |
-| Released | 2021-06-15 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 142 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | AG film |
-| Coatings | — |
-| Color gamut | sRGB 120% area |
-| Color depth | 8-bit |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | — |
-| Response time | 25 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Active area | 344.2 × 193.6 mm (13.5 × 7.6 in) |
-| Diagonal | 394.9 mm (15.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±2 mm |
-| Report rate | 220 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
-| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Buttons | 10 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Size | 423.5 × 253 × 12 mm (16.7 × 10 × 0.5 in) |
-| Weight | 1260 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Power input | 5 V, 2 A |
-| Consumption | 10 W |
-| Standby | 0.3 W |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GS1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

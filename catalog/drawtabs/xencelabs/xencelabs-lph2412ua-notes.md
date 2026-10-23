@@ -12,112 +12,13 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [LPH2412U-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |  |
 | Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-display) |  |
 | Xencelabs | [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24) |  |
 | MobileTechReview | [Xencelabs Pen Display 24 Review](https://www.youtube.com/watch?v=o6R07naf2es) | 2024-03-19 |
 | Grant Abbitt | [Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0_XSUtLE) | 2023-09-14 |
 | Brad Colbow | [Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) | 2023-06-04 |
 | Teoh on Tech | [Xencelabs Pen Display 24 Announcement + My Thoughts](https://www.youtube.com/watch?v=jLEj12-um3A) | 2023-03-28 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Name | Pen Display 24 |
-| Released | 2023-03-21 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 185 PPI |
-| Panel | — |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage<br>Adobe RGB 99% coverage<br>DCI-P3 93% coverage<br>Rec. 709 99% coverage |
-| Color depth | 10-bit |
-| Brightness | 330 cd/m² |
-| Peak brightness | — |
-| Viewing angle | — |
-| Refresh rate | 60 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Active area | 527 × 296.5 mm (20.7 × 11.7 in) |
-| Diagonal | 604.7 mm (23.8 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
-| Compatible pens | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Size | 618.5 × 388 × 34.7 mm (24.4 × 15.3 × 1.4 in) |
-| Weight | 6000 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Ports | — |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Power input | 12 V, 5 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [LPH2412U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

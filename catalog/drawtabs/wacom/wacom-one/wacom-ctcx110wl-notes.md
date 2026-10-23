@@ -25,6 +25,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [CTC-4110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl), [CTC-6110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) (CTC-4110WL) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) (CTC-6110WL) |  |
@@ -35,74 +36,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Aaron Rutten | [Wacom One Small & Medium 2023 - Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=w7QLQFOK_eU) | 2023-09-15 |
 | Seven Pens | [Pressure problems with new Wacom One (2023/GEN2) drawing tablets](https://www.youtube.com/watch?v=415ngQOHiME) | 2023-09-11 |
 | Brad Colbow | [Review: Wacom One Pen Tablets](https://www.youtube.com/watch?v=5CPEqVOTRN0) | 2023-09-05 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_one_2023). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Name | Wacom One S 2023 | Wacom One M 2023 |
-| Released | 2023-08-10 | 2023-08-10 |
-| Status | Available | Available |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Active area | 152 × 95 mm (6 × 3.7 in) | 216 × 135 mm (8.5 × 5.3 in) |
-| Diagonal | 179.2 mm (7.1 in) | 254.7 mm (10 in) |
-| Aspect ratio | 16:10 | 16:10 |
-| Pen technology | Passive EMR | Passive EMR |
-| Pressure levels | 4096 | 4096 |
-| Tilt | ±60° | ±60° |
-| Accuracy (center) | — | — |
-| Accuracy (corner) | — | — |
-| Report rate | — | — |
-| Density | 100 LPmm (2540 LPI) | 100 LPmm (2540 LPI) |
-| Max hover | — | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
-| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Buttons | 0 | 0 |
-| Dials | — | — |
-| Touch rings | — | — |
-| Touch strips | — | — |
-| Touch | No | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Size | 188 × 141 × 8 mm (7.4 × 5.6 × 0.3 in) | 252 × 181 × 8 mm (9.9 × 7.1 × 0.3 in) |
-| Weight | 200 g | 350 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Ports | USB-C | USB-C |
-| Attached cable | None | None |
-| Bluetooth | Yes (5.1) | Yes (5.1) |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [CTC-4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl) | [CTC-6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |
-| --- | --- | --- |
-| Contents | — | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

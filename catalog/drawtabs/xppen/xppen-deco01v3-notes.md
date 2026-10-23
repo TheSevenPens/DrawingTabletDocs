@@ -12,80 +12,13 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DECO01V3 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/deco-01-v3.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/deco-01-v3.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/deco-01-v3.html) |  |
 | Brad Colbow | [The Cheapest Drawing Tablet That I Recommend - XP Pen Deco 1 v3](https://www.youtube.com/watch?v=2-TKwccrvuE) | 2026-04-30 |
 | David Revoy | [XpPen Deco 01V3 - review on GNU/Linux](https://www.youtube.com/watch?v=trXxX3ZY5FM) | 2025-03-05 |
 | David Revoy | [XpPen Deco 01V3 - review on GNU/Linux](https://www.davidrevoy.com/article1066/xppen-deco-01v3-review-on-gnulinux) | 2025-03-04 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Name | Deco 01 V3 |
-| Released | 2024 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Active area | 254 × 159 mm (10 × 6.3 in) |
-| Diagonal | 299.7 mm (11.8 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | 220 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Included pen | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
-| Compatible pens | [P05 (P05)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.p05) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Buttons | 8 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Size | 350.5 × 215.9 × 8 mm (13.8 × 8.5 × 0.3 in) |
-| Weight | 570 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Ports | — |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DECO01V3](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

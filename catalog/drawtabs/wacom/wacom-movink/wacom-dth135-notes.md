@@ -45,6 +45,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTH-135 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-movink) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-movink-dth135k0a.html) |  |
 | Wacom | [User manual](https://101.wacom.com/userhelp/en/toc/dth135.html) |  |
@@ -54,106 +55,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [Wacom Movink 13.3-inch OLED pen display FULL REVIEW](https://www.youtube.com/watch?v=ifWwffBQ8VQ) | 2024-11-15 |
 | Parka Blogs | [Review: Wacom Movink 13.3-inch OLED touchscreen pen display](https://www.parkablogs.com/content/wacom-movink-oled-touchscreen-pen-display) | 2024-11-12 |
 | Brad Colbow | [Wacom Movink 13 Review](https://www.youtube.com/watch?v=Y3ASJNcFinI) | 2024-05-16 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movink_2024). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Name | Movink 13 |
-| Released | 2024-04-24 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 166 PPI |
-| Panel | OLED |
-| Lamination | — |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | Adobe RGB 95% coverage<br>DCI-P3 100% coverage |
-| Color depth | 10-bit |
-| Brightness | 350 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 170° horizontal<br>170° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 0.2 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Active area | 294 × 165 mm (11.6 × 6.5 in) |
-| Diagonal | 337.1 mm (13.3 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
-| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Buttons | 2 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Size | 319.5 × 205.2 × 6.6 mm (12.6 × 8.1 × 0.3 in) |
-| Weight | 420 g |
-| VESA mount | No |
-| Legs | No |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | None |
-| Bluetooth | No |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Power input | 5 V, 3 A via USB-C PD<br>9 V, 2.77 A via AC adapter |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTH-135](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

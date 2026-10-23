@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [CD160FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/artist-16-2nd-gen.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-16-2nd-gen.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-16-2nd.html) |  |
@@ -17,106 +18,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [XP-Pen Artist 16 (2nd Gen) Review](https://youtu.be/4czV7jv9mPg) | 2022-06-01 |
 | Teoh on Tech | [XP-Pen Artist 16 (2nd Gen) pen display review](https://youtu.be/0yKRSAE8_Ng) | 2022-05-26 |
 | Parka Blogs | [XP-Pen Artist 16 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-16-2nd-gen) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Name | Artist 16 GEN2 |
-| Released | 2022-04-29 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 143 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | — |
-| Coatings | — |
-| Color gamut | sRGB 127% area<br>Adobe RGB 94% coverage<br>NTSC 90% coverage |
-| Color depth | 8-bit |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | — |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Active area | 341 × 191.8 mm (13.4 × 7.6 in) |
-| Diagonal | 391.2 mm (15.4 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.5 mm |
-| Accuracy (corner) | ±1 mm |
-| Report rate | 200 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
-| Compatible pens | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Buttons | 10 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Size | 434 × 255.8 × 12.9 mm (17.1 × 10.1 × 0.5 in) |
-| Weight | — |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Power input | 5 V, 2 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [CD160FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

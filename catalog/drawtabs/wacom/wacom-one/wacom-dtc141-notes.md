@@ -24,6 +24,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTC-141 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-one) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-one-14-dtc141w0.html) |  |
 | Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTC141.html) |  |
@@ -33,96 +34,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Seven Pens | [Notes on Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=eDu-6BBp8JI) | 2025-10-15 |
 | Seven Pens | [DRAFT Review of Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=v8kZk0eldHI) | 2025-10-10 |
 | Seven Pens | [Unboxing and Testing: Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=mz7-ufAIXcw) | 2025-09-29 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Name | Wacom One 14 2025 |
-| Released | 2025-09-17 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 158 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 98% coverage |
-| Color depth | 8-bit |
-| Brightness | 285 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | — |
-| Response time | 16 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Active area | 309 × 174 mm (12.2 × 6.9 in) |
-| Diagonal | 354.6 mm (14 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 4096 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 100 LPmm (2540 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Included pen | [Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
-| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Size | 336 × 201 × 10 mm (13.2 × 7.9 × 0.4 in) |
-| Weight | 750 g |
-| VESA mount | No |
-| Legs | No |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTC-141](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |
-| --- | --- |
-| Contents | 1 x Display Device<br>1 x Wacom One Standard Pen<br>3 x Wacom One Pen Standard Nib<br>1 x nib removal tool<br>1 x USB Type-C Cable (1.8m) |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

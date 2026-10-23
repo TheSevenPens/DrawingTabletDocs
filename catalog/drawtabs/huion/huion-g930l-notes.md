@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [G930L specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |  |
 | Huion | [Product page](https://www.huion.com/products/inspiroy-giano) |  |
 | Huion | [Store page](https://store.huion.com/products/inspiroy-giano) |  |
 | Huion | [User manual](https://www.huion.com/manual/inspiroy-giano) |  |
@@ -21,84 +22,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [Huion Inspiroy Giano Review](https://www.youtube.com/watch?v=DiRwtSonevY) | 2022-07-06 |
 | Teoh on Tech | [Huion Inspiroy Giano G930L (review): Largest Bluetooth Drawing Tablet](https://www.youtube.com/watch?v=2XcP_Db9e_w) | 2022-05-25 |
 | Parka Blogs | [Huion Inspiroy Giano G930L](https://www.parkablogs.com/content/review-huion-inspiroy-giano-g930l-biggest-wireless-pen-tablet) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Name | Inspiroy Giano G930L |
-| Released | 2022-05-25 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Active area | 345.4 × 215.9 mm (13.6 × 8.5 in) |
-| Diagonal | 407.3 mm (16 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | — |
-| Report rate | 300 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
-| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Buttons | 6 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Size | 429 × 260.9 × 9 mm (16.9 × 10.3 × 0.4 in) |
-| Weight | 1145 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | Yes (5.0) |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Power input | — |
-| Consumption | 0.3 W |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [G930L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

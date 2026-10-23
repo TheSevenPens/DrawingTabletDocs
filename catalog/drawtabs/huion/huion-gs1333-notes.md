@@ -29,6 +29,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GS1333 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-13-gen-3) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-13-gen-3) |  |
 | EyekooDrawsStuff | [Kamvas 13 Gen 3 review - HUION's best beginner display tablet](https://www.youtube.com/watch?v=Ie39Mbsvc8s) | 2025-01-21 |
@@ -37,106 +38,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) | 2024-09-23 |
 | Teoh on Tech | [Huion Kamvas 13 (gen 3) pen display REVIEW: This is a good one](https://www.youtube.com/watch?v=8btDW6eV_HY) | 2024-09-02 |
 | Parka Blogs | [Huion Kamvas 13 gen 3](https://www.parkablogs.com/content/huion-kamvas-13-gen-3-pen-display-2024) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Name | Kamvas 13 GEN3 |
-| Released | 2024-09-01 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 166 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage, 120% area<br>Adobe RGB 90% coverage<br>Rec. 709 99% coverage |
-| Color depth | 8-bit |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 25 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Active area | 293.8 × 165.2 mm (11.6 × 6.5 in) |
-| Diagonal | 337.1 mm (13.3 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±2 mm |
-| Report rate | 260 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
-| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Buttons | 5 |
-| Dials | 2 |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Size | 361.2 × 202.8 × 11.7 mm (14.2 × 8 × 0.5 in) |
-| Weight | 865 g |
-| VESA mount | No |
-| Legs | No |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Power input | 5 V, 2 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GS1333](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

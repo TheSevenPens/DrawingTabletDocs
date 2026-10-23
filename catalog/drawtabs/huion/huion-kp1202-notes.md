@@ -6,6 +6,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [KP1202 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-pad-12) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-pad-12) |  |
 | Gartzia Artz | [La tableta que Huion debió sacar hace 3 años \| Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) | 2026-09-30 |
@@ -13,106 +14,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Adam Duff | [Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) | 2026-09-08 |
 | Parka Blogs | [Review: Huion Kamvas Pad 12 portable drawing tablet](https://www.parkablogs.com/content/huion-kamvas-pad-12-review) | 2026-09-08 |
 | Teoh on Tech | [Huion Kamvas Pad 12 (review): PenTech 4 to the rescue](https://www.youtube.com/watch?v=LIXwSRkvejg) | 2026-09-07 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Name | Kamvas Pad 12 |
-| Released | 2026 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Resolution | 2400 × 1600 |
-| Aspect ratio | 3:2 |
-| Pixel density | 236 PPI |
-| Panel | — |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 99% coverage, 99% area |
-| Color depth | 8-bit |
-| Brightness | 350 cd/m² |
-| Peak brightness | — |
-| Viewing angle | — |
-| Refresh rate | 90 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Active area | 257.9 × 171.9 mm (10.2 × 6.8 in) |
-| Diagonal | 309.9 mm (12.2 in) |
-| Aspect ratio | 3:2 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±0.6 mm |
-| Report rate | 260 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Included pen | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
-| Compatible pens | [PW600C (PW600C)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600c) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Size | 281.5 × 195.5 × 7.8 mm (11.1 × 7.7 × 0.3 in) |
-| Weight | 665 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | Yes (5.4) |
-| Wi-Fi | 2.4GHz, 5GHz |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-
-{% tab title="Computer" %}
-| | [KP1202](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |
-| --- | --- |
-| OS | Android 16 |
-| Processor | MediaTek Genio 720 |
-| RAM | 8 GB |
-| Storage | 256 GB |
-{% endtab %}
-{% endtabs %}
 
 ## Other links
 

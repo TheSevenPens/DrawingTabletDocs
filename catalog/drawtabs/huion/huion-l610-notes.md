@@ -16,6 +16,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [L610 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |  |
 | Huion | [Product page](https://www.huion.com/products/inspiroy-frego-m) |  |
 | Huion | [Store page](https://store.huion.com/products/inspiroy-frego-m) |  |
 | Huion | [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html) |  |
@@ -23,74 +24,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [Review: Huion Inspiroy Frego pen tablet - Works great with Android, iPad, iOS](https://www.youtube.com/watch?v=W5vTPouuQtM) | 2024-09-13 |
 | Create Now Sleep Later | [Best Graphics Tablet for Artists in 2024? Huion Inspiroy Frego Review](https://www.youtube.com/watch?v=OpVhKZVFusQ) | 2024-09-01 |
 | Parka Blogs | [Review: Huion Inspiroy Frego pen tablet](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) | 2024-08-23 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroyfrego). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Name | Inspiroy Frego M |
-| Released | 2024-08-16 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Active area | 254 × 158.8 mm (10 × 6.3 in) |
-| Diagonal | 299.6 mm (11.8 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | 300 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Included pen | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
-| Compatible pens | [PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | — |
-| Touch strips | 0 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Size | 304 × 220 × 8 mm (12 × 8.7 × 0.3 in) |
-| Weight | 546 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | None |
-| Bluetooth | Yes |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [L610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

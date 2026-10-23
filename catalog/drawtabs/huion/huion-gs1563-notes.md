@@ -19,6 +19,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GS1563 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-16-gen-3) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-16-gen-3) |  |
 | Huion | [User manual](https://driverdl.huion.com/instruction/Kamvas16-Gen3/User_Manual_Kamvas16_Gen3_en.pdf) |  |
@@ -28,106 +29,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [Huion Kamvas 16 (Gen 3) Pen Display FULL REVIEW: Many upgrades](https://www.youtube.com/watch?v=-Xq7oHPpUHQ) | 2025-01-09 |
 | Brad Colbow | [Huion Kamvas 16 (Gen 3) Review](https://www.youtube.com/watch?v=t2gEAky5ns8) | 2025-01-07 |
 | Ryan Allan | [Huion Kamvas 16 Gen 3 Review](https://magma.com/blog/huion-kamvas-16-gen-3-review) | 2025-01-07 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Name | Kamvas 16 GEN3 |
-| Released | 2025-01-07 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Resolution | 2560 × 1440 |
-| Aspect ratio | 16:9 |
-| Pixel density | 186 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage, 120% area<br>Adobe RGB 90% coverage<br>Rec. 709 99% coverage |
-| Color depth | 8-bit |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 14 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Active area | 350 × 197 mm (13.8 × 7.8 in) |
-| Diagonal | 401.6 mm (15.8 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±2 mm |
-| Report rate | 260 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
-| Compatible pens | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Buttons | 6 |
-| Dials | 2 |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Size | 421.2 × 236.8 × 12.6 mm (16.6 × 9.3 × 0.5 in) |
-| Weight | 1245 g |
-| VESA mount | — |
-| Legs | No |
-| Included stand | Yes |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Ports | USB-C<br>USB-C (Full-featured) |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Power input | 5 V, 3 A |
-| Consumption | 7 W |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GS1563](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |
-| --- | --- |
-| Contents | Kamvas 16 (Gen 3) ×1<br>Foldable Stand ST300 ×1<br>Battery-free Pen PW600L ×1<br>Standard Pen Nibs (inside the Pen Holder) ×10<br>Pen Holder ×1<br>3-in-1 Cable (1.8m) ×1<br>USB Extension Cable (1.2m) ×1<br>USB-C to USB-C Cable (1m) ×1<br>USB-C to USB-A Cable (1m) ×1<br>Power Adapter ×1<br>Artist Glove ×1<br>Cleaning Cloth ×1 |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 
@@ -254,4 +155,3 @@ These are both very good tablets. Between the two, the Kamvas 16 GEN3 is the win
 <figure><img src="../../../.gitbook/assets/huion-gs1563-notes-4.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/huion-gs1563-notes-5.jpg" alt=""><figcaption></figcaption></figure>
-

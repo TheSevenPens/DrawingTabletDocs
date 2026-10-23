@@ -13,6 +13,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [LPH1612U-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |  |
 | Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-display-16-lite) |  |
 | Xencelabs | [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-16) |  |
 | Xencelabs | [Product information](https://www.xencelabs.com/us/products/pen-display-16) |  |
@@ -23,106 +24,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | AppleInsider | [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece) | 2024-05-28 |
 | Parka Blogs | [Review: Xencelabs Pen Display 16 (OLED)](https://www.parkablogs.com/content/xencelabs-pen-display-16-oled-review) |  |
 
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Name | Pen Display 16 Lite |
-| Released | 2024-05-08 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 283 PPI |
-| Panel | OLED |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage<br>Adobe RGB 98% coverage<br>Display P3 98% coverage<br>Rec. 709 99% coverage |
-| Color depth | 10-bit |
-| Brightness | 300 cd/m² |
-| Peak brightness | — |
-| Viewing angle | — |
-| Refresh rate | 60 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Active area | 344.2 × 193.6 mm (13.6 × 7.6 in) |
-| Diagonal | 394.9 mm (15.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Included pen | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
-| Compatible pens | [3-Button Pen V2 (3BUTTONV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv2)<br>[Thin Pen V2 (THINV2)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv2) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Size | 410 × 259.4 × 12 mm (16.1 × 10.2 × 0.5 in) |
-| Weight | 1200 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | Yes |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Ports | — |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Power input | 5 V, 3 A (15 W) |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [LPH1612U-A](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
-
 ## Notes on specs
 
 ### Display
@@ -130,7 +31,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Display size: 13.6 x 7.6" -> diagonal = 15.58"
 * Contrast ratio: 100000:1
 * Parallax: Unknown
-* Color gamut (beyond what the Specs tab lists)
+* Color gamut (beyond what the DrawTabData Explorer lists)
   * REC 2020 82%
 
 ### Pens

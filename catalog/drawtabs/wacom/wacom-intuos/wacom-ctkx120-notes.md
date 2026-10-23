@@ -22,73 +22,11 @@ There are two models:
 * a 16:9 active area
 * USB-C port (older models suppored micro-USB)&#x20;
 
-## Specs
+## Links
 
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2026). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-|          | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120) | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |
-| -------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Name     | Intuos 2026 Small                                                                          | Intuos 2026 Medium                                                                         |
-| Released | 2026-09-29                                                                                 | 2026-09-29                                                                                 |
-| Status   | Available                                                                                  | Available                                                                                  |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-|                   | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120) | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |
-| ----------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Active area       | 170 × 96 mm (6.7 × 3.8 in)                                                                 | 240 × 135 mm (9.4 × 5.3 in)                                                                |
-| Diagonal          | 195.2 mm (7.7 in)                                                                          | 275.4 mm (10.8 in)                                                                         |
-| Aspect ratio      | 16:9                                                                                       | 16:9                                                                                       |
-| Pen technology    | Passive EMR                                                                                | Passive EMR                                                                                |
-| Pressure levels   | 8192                                                                                       | 8192                                                                                       |
-| Tilt              | ±60°                                                                                       | ±60°                                                                                       |
-| Accuracy (center) | —                                                                                          | —                                                                                          |
-| Accuracy (corner) | —                                                                                          | —                                                                                          |
-| Report rate       | 300 Hz                                                                                     | 300 Hz                                                                                     |
-| Density           | 200 LPmm (5080 LPI)                                                                        | 200 LPmm (5080 LPI)                                                                        |
-| Max hover         | —                                                                                          | —                                                                                          |
-{% endtab %}
-
-{% tab title="Pen" %}
-|                 | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120)       | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120)       |
-| --------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| Included pen    | [Lite Pen (ACP-502)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp502) | [Lite Pen (ACP-502)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp502) |
-| Compatible pens | [Lite Pen (ACP-502)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp502) | [Lite Pen (ACP-502)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp502) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-|              | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120) | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |
-| ------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Buttons      | 0                                                                                          | 0                                                                                          |
-| Dials        | —                                                                                          | —                                                                                          |
-| Touch rings  | —                                                                                          | —                                                                                          |
-| Touch strips | —                                                                                          | —                                                                                          |
-| Touch        | No                                                                                         | No                                                                                         |
-{% endtab %}
-
-{% tab title="Physical" %}
-|        | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120) | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |
-| ------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Size   | 202 × 140 × 8.3 mm (8 × 5.5 × 0.3 in)                                                      | 272 × 179 × 8.3 mm (10.7 × 7 × 0.3 in)                                                     |
-| Weight | 210 g                                                                                      | 370 g                                                                                      |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-|                | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120) | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |
-| -------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Ports          | USB-C                                                                                      | USB-C                                                                                      |
-| Attached cable | None                                                                                       | None                                                                                       |
-| Bluetooth      | No                                                                                         | No                                                                                         |
-{% endtab %}
-
-{% tab title="In the box" %}
-|          | [CTK-4120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120) | [CTK-6120](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |
-| -------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Contents | —                                                                                          | —                                                                                          |
-{% endtab %}
-{% endtabs %}
+| Source | Link | Date |
+| --- | --- | --- |
+| DrawTabData Explorer | [CTK-4120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120), [CTK-6120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |  |
 
 ## Notes on specs
 
@@ -96,4 +34,3 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * Ships with the Wacom Lite Pen (ACP-502).
 * According to Wacom it also works with Pro Pen 3 pens and nibs, the Wacom One pen, and Wacom EMR stationery pens.
-

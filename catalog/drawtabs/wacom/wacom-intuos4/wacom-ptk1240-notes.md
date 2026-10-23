@@ -18,87 +18,10 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [PTK-1240 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |  |
 | Wacom | [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos4/User%27s%20Manual.pdf) |  |
 | Seven Pens | [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://youtu.be/Tv_qX1Z9-wI) | 2022-07-25 |
 | Seven Pens | [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://www.youtube.com/watch?v=Tv_qX1Z9-wI) | 2022-07-25 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Name | Intuos4 XL |
-| Released | 2009-03-24 |
-| Status | Discontinued |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Active area | 487.7 × 304.8 mm (19.2 × 12 in) |
-| Diagonal | 575.1 mm (22.6 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 2048 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.25 mm |
-| Accuracy (corner) | — |
-| Report rate | 200 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Included pen | [Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e) |
-| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Buttons | 8 |
-| Dials | — |
-| Touch rings | 1 |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Size | 623 × 462 × 28 mm (24.5 × 18.2 × 1.1 in) |
-| Weight | 3500 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Ports | — |
-| Attached cable | USB-A |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Power input | 5 V, 0.3 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [PTK-1240](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Video
 
@@ -188,4 +111,3 @@ This tablet is huge and heavy. Using it with a stand puts even more equipment on
 My solution to this problem was to minimize the use of the keyboard by using a TourBox controller. The controller allows me to put my left hand on it, which maps all my shortcut keys, and keep my right hand holding the pen on the tablet. This means that 99% of the time, I never need to touch a keyboard.
 
 Personally, if I did not use a TourBox with this device, I think it would be somewhat frustrating because hitting keyboard shortcuts would be rather awkward.
-

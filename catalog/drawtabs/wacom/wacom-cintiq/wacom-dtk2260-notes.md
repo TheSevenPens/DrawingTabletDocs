@@ -12,111 +12,12 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTK-2260 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |  |
 | Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html) |  |
 | Ross Draws | [Wacom Cintiq 22 Review + Painting Test!](https://www.youtube.com/watch?v=02kg7Oxxd20) | 2019-08-23 |
 | MobileTechReview | [Wacom Cintiq 22 Review](https://www.youtube.com/watch?v=03XtX5Gg76g) | 2019-07-19 |
 | Brad Colbow | [Wacom Cintiq 22 Review (2019)](https://www.youtube.com/watch?v=662QvZMik4U) | 2019-07-18 |
 | Aaron Rutten | [Wacom CINTIQ 22 - Drawing Tablet Review](https://youtu.be/xBPNyYX6zi8) | 2019-07-17 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Name | Cintiq 22 |
-| Released | 2019-07-16 |
-| Status | Discontinued |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 102 PPI |
-| Panel | IPS |
-| Lamination | No |
-| Anti-glare | AG film |
-| Coatings | — |
-| Color gamut | sRGB 96% coverage<br>NTSC 72% coverage |
-| Color depth | 8-bit |
-| Brightness | 210 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 22 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Active area | 476 × 268 mm (18.7 × 10.6 in) |
-| Diagonal | 546.3 mm (21.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
-| Compatible pens | [Intuos4 Classic Pen (KP-300E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp300e)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Airbrush Pen (KP-400E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp400e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Size | 570 × 359 × 40 mm (22.4 × 14.1 × 1.6 in) |
-| Weight | 5600 g |
-| VESA mount | Yes (100×100) |
-| Legs | No |
-| Included stand | Yes |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Ports | DC power<br>USB-B<br>HDMI |
-| Attached cable | None |
-| Bluetooth | No |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Power input | — |
-| Consumption | 48 W max |
-| Standby | 0.5 W |
-| Power adapter | 60 W |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTK-2260](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Setup
 

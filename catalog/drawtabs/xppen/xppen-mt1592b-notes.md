@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [MT1592B specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/deco-pro-gen-2-series.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/deco-pro-gen2.html) |  |
 | EyekooDrawsStuff | [XPPEN's Deco Pro Gen 2 Review - their pro screenless tablet evolves](https://www.youtube.com/watch?v=itnwkJVlWiw) | 2024-11-29 |
@@ -18,74 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Parka Blogs | [Review: XPPen Deco Pro (gen 2) pen tablet](https://www.parkablogs.com/content/review-xppen-deco-pro-gen-2-pen-tablet) | 2023-07-26 |
 | Teoh on Tech | [XPPen Deco Pro (gen 2) review - Get the right size](https://youtu.be/h8NG0zmYdtE) | 2023-07-25 |
 | Joseph Montanez | [XP-Pen Deco Pro Gen2 XL - Review](https://youtu.be/pRLBRTWPlQU) | 2023-06-20 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_decoprogen2). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Name | Deco Pro XLW GEN2 |
-| Released | 2023-08-14 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Active area | 381 × 229 mm (15 × 9 in) |
-| Diagonal | 444.5 mm (17.5 in) |
-| Aspect ratio | 1.664:1 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | 200 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
-| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Size | 435 × 313.1 × 10.7 mm (17.1 × 12.3 × 0.4 in) |
-| Weight | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | Yes (5.0) |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [MT1592B](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

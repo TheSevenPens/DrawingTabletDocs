@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GT2401 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-pro-24-4k) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-pro-24-4k) |  |
 | Huion | [User manual](https://www.huion.com/manual/kamvas-pro-24-4k) |  |
@@ -19,106 +20,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [Review: Huion Kamvas Pro 24 (4K)](https://www.youtube.com/watch?v=r8k5qsgJXlM) | 2021-08-17 |
 | Teoh on Tech | [Huion Kamvas Pro 24 (4K) Unboxing + First Impression](https://www.youtube.com/watch?v=f200vERwcms) | 2021-07-30 |
 | Parka Blogs | [Artist Review: Huion Kamvas Pro 24 (4K) pen display](https://www.parkablogs.com/content/artist-review-huion-kamvas-pro-24-4k-pen-display) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Name | Kamvas Pro 24 4K |
-| Released | 2021-09-23 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 185 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 140% area |
-| Color depth | 8-bit (10-bit with FRC) |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 10 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Active area | 527 × 296.5 mm (20.7 × 11.7 in) |
-| Diagonal | 604.7 mm (23.8 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±3 mm |
-| Report rate | 300 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
-| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Size | 589.2 × 364 × 22.7 mm (23.2 × 14.3 × 0.9 in) |
-| Weight | 6300 g |
-| VESA mount | Yes |
-| Legs | Yes |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Ports | DC power<br>USB-C<br>DisplayPort<br>HDMI<br>USB-A<br>USB-A<br>3.5 mm audio |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Power input | 19 V, 3 A |
-| Consumption | 35 W |
-| Standby | 0.4 W |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GT2401](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Basics
 

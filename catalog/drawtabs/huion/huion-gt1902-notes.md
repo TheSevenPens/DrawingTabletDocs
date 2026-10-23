@@ -18,6 +18,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GT1902 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-pro-19) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-pro-19) |  |
 | Huion | [Product information](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays) |  |
@@ -34,106 +35,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [Huion Kamvas Pro 19 Review](https://www.youtube.com/watch?v=WxdFXfuPvN4) | 2024-02-14 |
 | claybrush | [4K Display Pen Tablet for Digital Art \| @HuionTablet  Kamvas Pro 19](https://www.youtube.com/watch?v=hvrPw6mlrlQ) | 2024-01-09 |
 | Parka Blogs | [Review: Huion Kamvas Pro 19 pen display (2024) with touch support](https://www.parkablogs.com/content/review-huion-kamvas-pro-19-pen-display-2024-touch-support) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Name | Kamvas Pro 19 |
-| Released | 2024-01-09 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 238 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage, 150% area<br>Adobe RGB 96% coverage<br>DCI-P3 98% coverage |
-| Color depth | 8-bit (10-bit with FRC) |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 170° horizontal<br>170° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 15 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Active area | 409 × 230 mm (16.1 × 9.1 in) |
-| Diagonal | 469.2 mm (18.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±1 mm |
-| Report rate | 250 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
-| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600)<br>[PW600S (PW600S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600s) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Size | 448.9 × 272.4 × 21.3 mm (17.7 × 10.7 × 0.8 in) |
-| Weight | 2000 g |
-| VESA mount | Yes (75×75) |
-| Legs | Yes |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Ports | USB-C<br>USB-C<br>3.5 mm audio |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Power input | 20 V, 3.25 A |
-| Consumption | 18 W |
-| Standby | — |
-| Power adapter | 65 W |
-| Power output | 40 W |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GT1902](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |
-| --- | --- |
-| Contents | Kamvas Pro 19 Pen Display<br>PD Power Adapter<br>3-in-2 Cable (1.8m)<br>Full-featured USB-C Cable (1.8m)<br>USB-C to USB-C Cable (1.8m)<br>PW600 Digital Pen<br>PW600S Digital Pen<br>PN06 Standard Pen Nib x 5 (inside the pen case)<br>PN06F Felt Pen Nib x 5 (inside the pen case)<br>Pen Case<br>Built-in nib clip (pen nibs) |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

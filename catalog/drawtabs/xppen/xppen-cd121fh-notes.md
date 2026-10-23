@@ -21,6 +21,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [CD121FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/artist-12-3rd.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-12-3rd.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-12-3rd.html) |  |
@@ -31,106 +32,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Seven Pens | [Unboxing & Testing: XP-Pen Artist 12 GEN3 (CD121FH)](https://youtube.com/live/teEGX7G-gYs?feature=share) | 2025-10-25 |
 | Gartzia Artz | [Review Artist 12 Gen 3 \| TOP mejores Tabletas Gráficas principiantes 2026](https://www.youtube.com/watch?v=2dM1gbjzGgQ) | 2025-10-20 |
 | Parka Blogs | [XPPen Artist 12 3rd](https://www.parkablogs.com/content/xppen-artist-12-gen-3-review) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Name | Artist 12 3rd |
-| Released | 2025-10-17 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 185 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 99% coverage<br>Adobe RGB 97% coverage<br>Display P3 97% coverage |
-| Color depth | 8-bit |
-| Brightness | 260 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 170° horizontal<br>170° vertical |
-| Refresh rate | 60 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Active area | 264 × 149 mm (10.4 × 5.9 in) |
-| Diagonal | 303.1 mm (11.9 in) |
-| Aspect ratio | ≈16:9 (1.772:1) |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.2 mm |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Included pen | [X4 Smart Chip Stylus (PD52)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd52) |
-| Compatible pens | [X4 Smart Chip Stylus (PD52)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd52) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Buttons | 8 |
-| Dials | 2 |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Size | 327.2 × 189.1 × 12 mm (12.9 × 7.4 × 0.5 in) |
-| Weight | 719 g |
-| VESA mount | No |
-| Legs | No |
-| Included stand | Yes |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Ports | USB-C (Full-featured)<br>USB-C (3-in-1) |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Power input | 5 V, 2 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [CD121FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |
-| --- | --- |
-| Contents | Drawing Display x 1<br>X4 Smart Chip Stylus x 1<br>Pen Nibs x 10<br>Nib Replacement Tool x 1<br>Full-featured USB-C to USB-C Cable x 1<br>3-in-1 USB-C Cable x 1<br>Warranty and Driver Download Card x 1<br>Glove x 1<br>Cleaning Cloth x 1<br>Foldable Stand x 1 |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

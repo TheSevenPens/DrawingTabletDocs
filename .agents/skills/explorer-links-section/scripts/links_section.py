@@ -1,17 +1,35 @@
 """Generate the standard "## Links" section for a catalog notes page from DrawTabData's Model.Links.
 
+The first row always links each model's DrawTabData Explorer page, which is where the page's specs live.
+
 Usage (from the repo root):
-  python .agents/skills/explorer-spec-tables/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--write]
+  python .agents/skills/explorer-links-section/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--after <heading>] [--write]
 
 Without --write, prints the section. With --write, replaces the page's existing "## Links" section (up to the next
-"## " heading) or inserts it right before "## Specs".
+"## " heading), or inserts it after the section named by --after (default: Overview).
 
-Data comes from the same DrawTabData checkout as spec_tables.py ($DRAWTABDATA_DIR, or a sibling DrawTabData clone).
+Data comes from a local DrawTabData checkout: $DRAWTABDATA_DIR if set, otherwise a DrawTabData clone or the
+data-repo submodule of a DrawTabDataExplorer clone next to this repo.
 """
-import os, re, sys
+import glob, json, os, re, sys
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from spec_tables import TABLETS, EXPLORER  # noqa: E402
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', '..'))
+DATA = os.environ.get('DRAWTABDATA_DIR') or next(
+    (d for d in (os.path.join(REPO_ROOT, '..', 'DrawTabData', 'data'),
+                 os.path.join(REPO_ROOT, '..', 'DrawTabDataExplorer', 'data-repo', 'data')) if os.path.isdir(d)),
+    os.path.join(REPO_ROOT, '..', 'DrawTabData', 'data'))
+EXPLORER = 'https://thesevenpens.github.io/DrawTabDataExplorer/entity/'
+
+
+def load(kind, key):
+    out = {}
+    for f in glob.glob(os.path.join(DATA, kind, '*.json')):
+        for r in json.load(open(f, encoding='utf-8'))[key]:
+            out[r['Meta']['EntityId'] if 'Meta' in r else r['EntityId']] = r
+    return out
+
+
+TABLETS = load('tablets', 'DrawingTablets')
 
 MANUFACTURER = [
     ('MANUFACTURERPRODUCTINFO', 'Product page'),
@@ -64,7 +82,8 @@ def section(entity_ids, family_id=None, page=''):
     def row(source, text, url, date, models):
         return f'| {cell(source)} | [{cell(text)}]({url}){which(models, tablets)} | {date or ""} |'
 
-    maker = []
+    explorer = ', '.join(f'[{cell(t["Model"]["Id"])} specs]({EXPLORER}{e})' for e, t in zip(entity_ids, tablets))
+    maker = [f'| DrawTabData Explorer | {explorer} |  |']
     for type_, label in MANUFACTURER:
         for url, (link, models) in collect(tablets, {type_}, page).items():
             maker.append(row(link.get('Author') or '', label, url, link.get('PublishDate'), models))
@@ -75,25 +94,22 @@ def section(entity_ids, family_id=None, page=''):
         author = link.get('Author') or ''
         title = link.get('Title') or (f'Review by {author}' if author else 'Review')
         lines.append(row(author, title, url, link.get('PublishDate'), models))
-    # one table: the manufacturer's links first, then reviews newest first
-    if maker or lines:
-        parts += ['| Source | Link | Date |', '| --- | --- | --- |'] + maker + lines + ['']
-    else:
-        parts += ['DrawTabData has no links for this tablet yet.', '']
+    # one table: the Explorer, then the manufacturer's links, then reviews newest first
+    parts += ['| Source | Link | Date |', '| --- | --- | --- |'] + maker + lines + ['']
     return '\n'.join(parts).rstrip('\n') + '\n'
 
 
-def write(page, text):
+def write(page, text, after='Overview'):
     crlf = b'\r\n' in open(page, 'rb').read()  # keep the file's existing line endings
     src = open(page, encoding='utf-8').read()
     m = re.search(r'^## Links\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
     if m:
         new = src[:m.start()] + text + '\n' + src[m.end():]
     else:
-        m = re.search(r'^## Specs\s*$', src, flags=re.M)
+        m = re.search(r'^## ' + re.escape(after) + r'\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
         if not m:
-            sys.exit('No "## Links" section to replace and no "## Specs" section to insert before')
-        new = src[:m.start()] + text + '\n' + src[m.start():]
+            sys.exit(f'No "## Links" section to replace and no "## {after}" section to insert after')
+        new = src[:m.end()].rstrip('\n') + '\n\n' + text + '\n' + src[m.end():]
     open(page, 'w', encoding='utf-8', newline='\r\n' if crlf else '\n').write(new)
 
 
@@ -104,10 +120,13 @@ if __name__ == '__main__':
     fam = None
     if '--family' in args:
         i = args.index('--family'); fam = args[i + 1]; del args[i:i + 2]
+    after = 'Overview'
+    if '--after' in args:
+        i = args.index('--after'); after = args[i + 1]; del args[i:i + 2]
     page, ids = args[0], args[1:]
     text = section(ids, fam, page)
     if do_write:
-        write(page, text)
+        write(page, text, after)
         print('wrote', page)
     else:
         print(text)

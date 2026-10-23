@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [MD160QH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-16-gen-2.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-16-gen2.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html) |  |
@@ -22,106 +23,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Grant Abbitt | [My favourite Display Tablet - XPPen Artist Pro 2nd Gen](https://youtu.be/d3Th_HD0tbE?si=5tIvFmxSM2nvS1jh) | 2023-08-20 |
 | Parka Blogs | [XPPen Artist Pro 16 (gen 2)](https://www.parkablogs.com/content/review-xppen-artist-pro-16-gen-2-pen-display) |  |
 | MossCharmly | [Huion Kamvas pro16 2.5K vs. XP-pen Artist pro16 GEN2](https://www.youtube.com/watch?v=41pv6STOBhY) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Name | Artist Pro 16 GEN2 |
-| Released | 2023-08-14 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Resolution | 2560 × 1600 |
-| Aspect ratio | 16:10 |
-| Pixel density | 189 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 99% coverage, 159% area<br>Adobe RGB 97% coverage, 118% area<br>DCI-P3 99% coverage, 117% area |
-| Color depth | 8-bit |
-| Brightness | 250 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 20 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Active area | 344.7 × 215.4 mm (13.6 × 8.5 in) |
-| Diagonal | 406.5 mm (16 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.4 mm |
-| Accuracy (corner) | ±0.8 mm |
-| Report rate | 200 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
-| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Size | 405.1 × 291.4 × 20.2 mm (15.9 × 11.5 × 0.8 in) |
-| Weight | — |
-| VESA mount | No |
-| Legs | Yes |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Power input | 5 V, 3 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [MD160QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

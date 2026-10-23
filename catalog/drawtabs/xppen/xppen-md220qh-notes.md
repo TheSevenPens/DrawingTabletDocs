@@ -15,6 +15,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [MD220QH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-22-gen-2.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-22-gen2.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-22-gen-2.html) |  |
@@ -23,106 +24,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [XPPen Artist Pro 22 Gen 2 (pen display review): Good pen, colours, experience](https://www.youtube.com/watch?v=PMscqe2rO1M) | 2025-04-20 |
 | Gartzia Artz | [XP Pen Artist Pro 22 Gen 2 LA CINTIQ 22 KILLER DEFINITIVA (Si otra más)](https://www.youtube.com/watch?v=e5Bjjmfs0jw) | 2025-02-14 |
 | Seven Pens | [Unboxing XP-Pen Artist Pro 22 GEN2](https://www.youtube.com/watch?v=7Mk3aSPjQsM) | 2025-02-04 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Name | Artist Pro 22 GEN2 |
-| Released | 2024-05-20 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Resolution | 2560 × 1440 |
-| Aspect ratio | 16:9 |
-| Pixel density | 137 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 99% coverage<br>Adobe RGB 99% coverage<br>Display P3 94% coverage |
-| Color depth | 8-bit |
-| Brightness | 250 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Active area | 475.4 × 267.4 mm (18.7 × 10.5 in) |
-| Diagonal | 545.4 mm (21.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.4 mm |
-| Accuracy (corner) | — |
-| Report rate | 220 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Included pen | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21) |
-| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Size | 547 × 362 × 33.4 mm (21.5 × 14.3 × 1.3 in) |
-| Weight | 5550 g |
-| VESA mount | Yes (100×100) |
-| Legs | — |
-| Included stand | Yes |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Ports | USB-C<br>HDMI<br>DC power<br>3.5 mm audio |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Power input | 12 V, 3 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [MD220QH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md220qh) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

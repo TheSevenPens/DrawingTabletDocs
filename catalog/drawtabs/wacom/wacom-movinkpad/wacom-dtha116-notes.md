@@ -16,6 +16,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTH-A116 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-11) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-11-dtha116cl0z.html) |  |
 | Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11) |  |
@@ -30,106 +31,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Aaron Rutten | [Wacom MovinkPad 11 Review - Better Than iPad for Beginners, Kids & Teens?](https://www.youtube.com/watch?v=9Pr9Et7_ezY) | 2025-07-31 |
 | Gartzia Artz | [¿El iPad de Wacom? Review y comparativa MovinkPad 11](https://www.youtube.com/watch?v=xQR-sIQNExg) | 2025-07-31 |
 | Seven Pens | [Wacom MovinkPad 11: Unboxing and Testing](https://www.youtube.com/watch?v=a8-YZ-QSmOs) | 2025-07-23 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Name | Wacom MovinkPad 11 |
-| Released | 2025-07-17 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Resolution | 2200 × 1440 |
-| Aspect ratio | ≈3:2 (1.528:1) |
-| Pixel density | 230 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 99% coverage |
-| Color depth | 8-bit |
-| Brightness | 400 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 170° horizontal<br>170° vertical |
-| Refresh rate | 90 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Active area | 243 × 159 mm (9.6 × 6.3 in) |
-| Diagonal | 290.4 mm (11.4 in) |
-| Aspect ratio | ≈3:2 (1.528:1) |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
-| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913)<br>[Wacom One Standard Pen (CP-923)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp923) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Size | 266 × 182 × 7 mm (10.5 × 7.2 × 0.3 in) |
-| Weight | 588 g |
-| VESA mount | No |
-| Legs | No |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Ports | USB-C (USB 2.0) |
-| Attached cable | None |
-| Bluetooth | Yes (5.2) |
-| Wi-Fi | 802.11a/b/g/n/ac |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| Contents | MovinkPad 11<br>USB-C to C charging cable<br>Wacom Pro Pen 3 (slim barrel) with nib holder<br>3 felt nibs |
-{% endtab %}
-
-{% tab title="Computer" %}
-| | [DTH-A116](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |
-| --- | --- |
-| OS | Android 14 |
-| Processor | MediaTek Helio G99 |
-| RAM | 8 GB |
-| Storage | 128 GB |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 
