@@ -34,7 +34,7 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 |          | [G940L](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g940l) |
 | -------- | ------------------------------------------------------------------------------------- |
 | Name     | Inspiroy Giano V2                                                                     |
-| Released | 2026                                                                                  |
+| Released | October 2026                                                                          |
 | Status   | —                                                                                     |
 
 
