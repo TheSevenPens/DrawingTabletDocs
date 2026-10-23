@@ -480,6 +480,7 @@
       * [Huion Inspiroy RTP-700 notes](catalog/drawtabs/huion/huion-rtp700-notes.md "Inspiroy RTP-700")
       * [Inspiroy Dial 2 V2 (Q640M) notes](catalog/drawtabs/huion/huion-q640m-notes.md)
       * [Huion Inspiroy Dial 2 (Q630M) notes](catalog/drawtabs/huion/huion-q630m-notes.md "Inspiroy Dial 2 (Q630M)")
+      * [Huion Inspiroy Giano V2 (G940L) notes](catalog/drawtabs/huion/huion-g940l-notes.md "Inspiroy Giano V2 (G940L)")
       * [Huion Inspiroy Giano (G930L) notes](catalog/drawtabs/huion/huion-g930l-notes.md "Inspiroy Giano (G930L)")
       * [Huion Inspiroy WH1409V2 notes](catalog/drawtabs/huion/huion-wh1409v2-notes.md "Inspiroy WH1409V2")
       * [Huion Inspiroy HS611 notes](catalog/drawtabs/huion/huion-hs611-notes.md "Inspiroy HS611")

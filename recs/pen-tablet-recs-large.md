@@ -19,7 +19,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 
 ## VERY GOOD
 
-* Huion Inspiroy Giano V2 (G940L)&#x20;
+* Huion Inspiroy Giano V2 (G940L) [Huion Inspiroy Giano V2 (G940L) notes](../catalog/drawtabs/huion/huion-g940l-notes.md)
 * XP-Pen Deco Pro XLW GEN2 (MT1592B) [XP-Pen Deco Pro XLW GEN2 (MT1592B) notes](../catalog/drawtabs/xppen/xppen-mt1592b-notes.md)&#x20;
 
 ## GOOD

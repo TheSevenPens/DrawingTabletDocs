@@ -2,6 +2,7 @@
 
 | Name             | Model   | Year      | Notes                                                       |
 | ---------------- | ------- | --------- | ----------------------------------------------------------- |
+| Inspiroy Giano V2 | G940L  | 2026      | [Huion Inspiroy Giano V2 (G940L) notes](huion-g940l-notes.md) |
 | Inspiroy Frego M | L610    | Aug 2024  | [Huion Inspiroy Frego M (L610) notes](huion-l610-notes.md)  |
 | Inspiroy Dial 2  | Q630M   | Jan 2023  | [Huion Inspiroy Dial 2 (Q630M) notes](huion-q630m-notes.md) |
 | Inspiroy 2 L     | H1061P  | Jan 2023  | [Huion Inspiroy 2 L (H1061P) notes](huion-h1061p-notes.md)  |
