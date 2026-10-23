@@ -20,6 +20,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GT1562 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-pro-16-plus-4k) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-pro-16-4k-series) |  |
 | Huion | [User manual](https://www.huion.com/manual/kamvas-pro-16-plus-4k) |  |
@@ -28,106 +29,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [Huion Kamvas Pro 16 Plus (4K): Unboxing and First Impression](https://www.youtube.com/watch?v=9l2UljGrWdQ) | 2021-05-05 |
 | Parka Blogs | [Review: Huion Kamvas Pro 16 Plus (4K)](https://www.parkablogs.com/content/review-huion-kamvas-pro-16-plus-4k) |  |
 | Parka Blogs | [Huion Kamvas Pro 16 Plus (4K) vs XP-Pen Artist Pro 16TP](https://www.parkablogs.com/content/huion-kamvas-pro-16-plus-4k-vs-xp-pen-artist-pro-16tp) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Name | Kamvas Pro 16 4K Plus |
-| Released | 2021-03 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 282 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 145% area |
-| Color depth | 8-bit |
-| Brightness | 200 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | — |
-| Response time | 25 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Active area | 345.6 × 194.4 mm (13.6 × 7.7 in) |
-| Diagonal | 396.5 mm (15.6 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±2 mm |
-| Report rate | 220 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Included pen | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517) |
-| Compatible pens | [PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Size | 402.7 × 257.4 × 13 mm (15.9 × 10.1 × 0.5 in) |
-| Weight | 1270 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Ports | USB-C<br>USB-C (Full-featured) |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Power input | 5 V, 3 A |
-| Consumption | 15 W |
-| Standby | 0.3 W |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GT1562](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Other links
 

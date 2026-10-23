@@ -16,6 +16,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [HS611 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |  |
 | Huion | [Product page](https://www.huion.com/products/hs611) |  |
 | Huion | [Store page](https://store.huion.com/products/huion-hs611) |  |
 | Huion | [User manual](https://www.huion.com/manual/hs611) |  |
@@ -23,75 +24,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Nemanja Sekulic | [Huion HS611 Drawing Tablet review \| All you need?](https://www.youtube.com/watch?v=WEXXbXDrd-Y) | 2020-04-28 |
 | Brad Colbow | [Huion HS611 Review](https://www.youtube.com/watch?v=IHV7LsbxqsU) | 2020-03-23 |
 | Parka Blogs | [Huion HS611](https://www.parkablogs.com/content/review-huion-hs611-drawing-tablet-has-tilt-sensitivity-and-supports-android) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Name | HS611 |
-| Released | 2019 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Active area | 258.4 × 161.5 mm (10.2 × 6.4 in) |
-| Diagonal | 304.7 mm (12 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | — |
-| Report rate | 233 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Included pen | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
-| Compatible pens | [PW500 (PW500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw500) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Buttons | 10 |
-| Dials | — |
-| Multimedia keys | 8 |
-| Touch rings | — |
-| Touch strips | 1 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Size | 333.4 × 218.4 × 7.3 mm (13.1 × 8.6 × 0.3 in) |
-| Weight | 550 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | None |
-| Bluetooth | No |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [HS611](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

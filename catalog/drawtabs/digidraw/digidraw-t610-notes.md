@@ -12,76 +12,9 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source     | Link                                                                                                                             | Date |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| DrawTabData Explorer | [T610 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |  |
 | DigiDraw   | [Product page](https://www.digidraw.com/en/product/T610T410)                                                                     |      |
 | Seven Pens | [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q\&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) |      |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-|          | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| -------- | -------------------------------------------------------------------------------------- |
-| Name     | Turing Basic M                                                                         |
-| Released | 2025-09-05                                                                             |
-| Status   | —                                                                                      |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-|                   | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| ----------------- | -------------------------------------------------------------------------------------- |
-| Active area       | 254 × 158.8 mm (10 × 6.3 in)                                                           |
-| Diagonal          | 299.6 mm (11.8 in)                                                                     |
-| Aspect ratio      | 16:10                                                                                  |
-| Pen technology    | Passive EMR                                                                            |
-| Pressure levels   | 16384                                                                                  |
-| Tilt              | ±60°                                                                                   |
-| Accuracy (center) | —                                                                                      |
-| Accuracy (corner) | —                                                                                      |
-| Report rate       | —                                                                                      |
-| Density           | 200 LPmm (5080 LPI)                                                                    |
-| Max hover         | 10 mm                                                                                  |
-{% endtab %}
-
-{% tab title="Pen" %}
-|                 | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610)   |
-| --------------- | ---------------------------------------------------------------------------------------- |
-| Included pen    | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
-| Compatible pens | [M3 Pen (M3)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.pen.m3) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-|              | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| ------------ | -------------------------------------------------------------------------------------- |
-| Buttons      | 0                                                                                      |
-| Dials        | 0                                                                                      |
-| Touch rings  | 0                                                                                      |
-| Touch strips | 0                                                                                      |
-| Touch        | No                                                                                     |
-{% endtab %}
-
-{% tab title="Physical" %}
-|        | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| ------ | -------------------------------------------------------------------------------------- |
-| Size   | 304.6 × 220.9 × 7.8 mm (12 × 8.7 × 0.3 in)                                             |
-| Weight | —                                                                                      |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-|                | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| -------------- | -------------------------------------------------------------------------------------- |
-| Ports          | USB-C                                                                                  |
-| Attached cable | None                                                                                   |
-| Bluetooth      | No                                                                                     |
-{% endtab %}
-
-{% tab title="In the box" %}
-|          | [T610](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |
-| -------- | -------------------------------------------------------------------------------------- |
-| Contents | —                                                                                      |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

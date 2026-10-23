@@ -6,6 +6,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [MD180UH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-19-gen-2.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-19-gen2.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-pro-19-gen-2.html) |  |
@@ -17,106 +18,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Gartzia Artz | [¡MI NUEVO TAMAÑO FAVORITO! XP Pen Artist Pro 19 Gen 2](https://www.youtube.com/watch?v=pAUAEPB_P5k) | 2024-08-28 |
 | Brad Colbow | [XP Pen Artist Pro 19 (Gen 2) Review](https://www.youtube.com/watch?v=eByrnaa0vf8) | 2024-08-27 |
 | Gartzia Artz | [Unboxing y Primeras impresiones de la XP Pen Artist Pro 19 Gen 2 ¡DIBUJANDO!](https://www.youtube.com/watch?v=Cm-ukaV3opM) | 2024-08-26 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Name | Artist Pro 19 GEN2 |
-| Released | 2024-08-19 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 238 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | Anti-fingerprint |
-| Color gamut | sRGB 99.8% coverage, 156% area<br>Adobe RGB 96% coverage, 116% area<br>Display P3 98% coverage, 115% area |
-| Color depth | 8-bit (10-bit with FRC) |
-| Brightness | 250 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Active area | 409 × 230 mm (16.1 × 9.1 in) |
-| Diagonal | 469.2 mm (18.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.4 mm |
-| Accuracy (corner) | ±0.8 mm |
-| Report rate | 220 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Included pen | [X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51) |
-| Compatible pens | [X3 Pro (PD21)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd21)<br>[X3 Pro Slim (PD51)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd51)<br>[X3 Pro Roller (PD22)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.pd22) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Size | 460 × 306.6 × 21.5 mm (18.1 × 12.1 × 0.8 in) |
-| Weight | 2230 g |
-| VESA mount | Yes (75×75) |
-| Legs | Yes |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Power input | 12 V, 2 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [MD180UH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

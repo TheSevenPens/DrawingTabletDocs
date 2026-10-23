@@ -25,111 +25,12 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTK-168 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-cintiq) |  |
 | Wacom | [Store page](https://estore.wacom.com/en-us/wacom-cintiq-16-dtk168k0a.html) |  |
 | Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK168.html) |  |
 | Seven Pens | [Wacom Cintiq 16 (2025) Unboxing and Testing](https://www.youtube.com/watch?v=en2RYaJoms4) | 2025-07-05 |
 | Brad Colbow | [2025 Wacom Cintiq 16 Review](https://www.youtube.com/watch?v=QQsKS17j0BQ) | 2025-07-02 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Name | Cintiq 16 2025 |
-| Released | 2025-06-05 |
-| Status | Available |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Resolution | 2560 × 1600 |
-| Aspect ratio | 16:10 |
-| Pixel density | 188 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 100% coverage<br>DCI-P3 99% coverage |
-| Color depth | 8-bit |
-| Brightness | 290 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 12 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Active area | 345 × 215 mm (13.6 × 8.5 in) |
-| Diagonal | 406.5 mm (16 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Included pen | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500) |
-| Compatible pens | [Pro Pen 3 (ACP-500)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp500)<br>[Pro Pen 3E (ACP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp501e)<br>[Art Pen 2 (ACP-700)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.acp700)<br>[Pro Pen Slim (KP-301E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp301e)<br>[Intuos4 Grip Pen (KP-501E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp501e)<br>[Intuos4 Pro Pen (KP-503E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp503e)<br>[Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e)<br>[Pro Pen 3D (KP-505)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp505)<br>[Intuos4 Art Pen (KP-701E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp701e) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Size | 384 × 259 × 15 mm (15.1 × 10.2 × 0.6 in) |
-| Weight | 2000 g |
-| VESA mount | Yes (75×75) |
-| Legs | Yes |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Ports | USB-C (Power)<br>USB-C (Power, video and data)<br>Mini HDMI |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Power input | 9 V, 2.77 A via AC adapter<br>5 V, 3 A via USB-C PD |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTK-168](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

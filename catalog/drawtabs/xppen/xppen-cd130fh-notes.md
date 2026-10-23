@@ -14,6 +14,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [CD130FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |  |
 | XP-Pen | [Product page](https://www.xp-pen.com/product/artist-13-2nd-gen.html) |  |
 | XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-13-2nd-gen.html) |  |
 | XP-Pen | [User manual](https://www.xp-pen.com/user-manual/artist-13-2nd.html) |  |
@@ -22,106 +23,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [XP-Pen Artist 13 (2nd gen) review](https://www.youtube.com/watch?v=-q_eFIuibnc) | 2022-09-27 |
 | Teoh on Tech | [XP-Pen Artist 10 & 13 (2nd gen) Unboxing and Impression](https://www.youtube.com/watch?v=Exj2PZu4MHM) | 2022-08-18 |
 | Parka Blogs | [Review: XP-Pen Artist 13 (2nd gen)](https://www.parkablogs.com/content/review-xp-pen-artist-13-2nd-gen) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Name | Artist 13 GEN2 |
-| Released | 2022-04-29 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 166 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | AG film |
-| Coatings | — |
-| Color gamut | sRGB 130% area<br>Adobe RGB 96% coverage<br>NTSC 92% coverage |
-| Color depth | 8-bit |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | — |
-| Response time | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Active area | 293.8 × 165.2 mm (11.6 × 6.5 in) |
-| Diagonal | 337 mm (13.3 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.5 mm |
-| Accuracy (corner) | ±1 mm |
-| Report rate | 200 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Included pen | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b) |
-| Compatible pens | [X3 Elite (PH10B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph10b)<br>[X3 Elite Plus (PH20B)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.pen.ph20b) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Buttons | 9 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Size | 378 × 225 × 12 mm (14.9 × 8.9 × 0.5 in) |
-| Weight | — |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Ports | USB-C<br>USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Power input | 5 V, 2 A |
-| Consumption | — |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [CD130FH](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd130fh) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

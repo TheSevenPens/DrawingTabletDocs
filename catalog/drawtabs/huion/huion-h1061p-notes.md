@@ -12,6 +12,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [H1061P specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |  |
 | Huion | [Product page](https://www.huion.com/products/inspiroy-2-l) |  |
 | Huion | [Store page](https://store.huion.com/products/inspiroy-2-l) |  |
 | Huion | [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html) |  |
@@ -20,76 +21,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Teoh on Tech | [Review: Huion Inspiroy 2 pen tablet - Works great. Good price.](https://youtu.be/mgDDBJf96U8) | 2023-02-15 |
 | SweetMonia | [Huion Inspiroy 2 L Review, a great elegant tablet (with a comparison to Huion Inspiroy 2 Dial)](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-2-l-review-a-great-elegant-tablet-with-a-comparison-to-huion-inspiroy-2-dial/) | 2023-02-14 |
 | Parka Blogs | [Review: Huion Inspiroy 2 pen tablet](https://www.parkablogs.com/content/review-huion-inspiroy-2-pen-tablet) | 2023-02-11 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroy2). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Name | Inspiroy 2 L |
-| Released | 2023-01-05 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Active area | 266.7 × 166.7 mm (10.5 × 6.6 in) |
-| Diagonal | 314.5 mm (12.4 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | — |
-| Report rate | 260 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Included pen | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110) |
-| Compatible pens | [PW110 (PW110)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw110)<br>[PW517 (PW517)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw517)<br>[PW550S (PW550S)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550s)<br>[PW550 (PW550)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw550) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Buttons | 8 |
-| Dials | — |
-| Scrollers | 1 |
-| Switcher keys | 3 |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Size | 352.5 × 208.7 × 9.5 mm (13.9 × 8.2 × 0.4 in) |
-| Weight | 600 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | No |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [H1061P](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

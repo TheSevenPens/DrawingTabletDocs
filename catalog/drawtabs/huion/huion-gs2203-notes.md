@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GS2203 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-22-gen-3) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-22-gen-3) |  |
 | Seven Pens | [Unboxing & Testing: Huion Kamvas 22 GEN3 (GS2203)](https://www.youtube.com/watch?v=r70dDzgDd8U) | 2026-03-08 |
@@ -18,106 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Adam Duff LUCIDPIXUL | [HUION Kamvas 22 (Gen 3) - A Turning Point For Huion!](https://www.youtube.com/watch?v=IDvACjevj2A) | 2026-03-03 |
 | Teoh on Tech | [Huion Kamvas 22 (Gen 3) review: It's been 6 years](https://www.youtube.com/watch?v=Mbijan2Gm9U) | 2026-03-03 |
 | Parka Blogs | [Huion Kamvas 22 (Gen 3)](https://www.parkablogs.com/content/huion-kamvas-22-gen-3-pen-display-review) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Name | Kamvas 22 GEN3 |
-| Released | 2026-03-03 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Resolution | 2560 × 1440 |
-| Aspect ratio | 16:9 |
-| Pixel density | 137 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage, 130% area<br>Adobe RGB 90% coverage<br>Display P3 94% coverage<br>Rec. 709 99% coverage |
-| Color depth | 8-bit |
-| Brightness | 250 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 90 Hz |
-| Response time | 14 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Active area | 475.4 × 267.4 mm (18.7 × 10.5 in) |
-| Diagonal | 545.4 mm (21.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | ±2 mm |
-| Report rate | 260 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Included pen | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
-| Compatible pens | [PW600L (PW600L)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600l) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Buttons | 0 |
-| Dials | 0 |
-| Touch rings | 0 |
-| Touch strips | 0 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Size | 527.7 × 324.7 × 16–36.7 mm (20.8 × 12.8 × 0.6–1.4 in) |
-| Weight | 3600 g |
-| VESA mount | Yes |
-| Legs | — |
-| Included stand | Yes |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Ports | DC power<br>USB-C (Full-featured)<br>HDMI |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Power input | 12 V, 3 A |
-| Consumption | 32 W |
-| Standby | — |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GS2203](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

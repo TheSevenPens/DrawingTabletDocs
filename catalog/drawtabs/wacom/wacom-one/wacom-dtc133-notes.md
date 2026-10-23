@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTC-133 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |  |
 | Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1) |  |
 | Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html) |  |
 | Wacom | [Product information](https://www.wacom.com/en-us/comp) |  |
@@ -20,106 +21,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [REVIEW: The Wacom One](https://www.youtube.com/watch?v=EFvpOWZDGUU) | 2020-01-27 |
 | Create Now Sleep Later | [Wacom One Pen Display \| Good as Cintiq?](https://youtu.be/VPbAUF7AZhA) | 2020-01-20 |
 | Aaron Rutten | [WACOM ONE 1st Gen. - Review](https://www.youtube.com/watch?v=D4DFFH-hPr8) | 2020-01-16 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Name | Wacom One 13 2019 |
-| Released | 2020-01-07 |
-| Status | Discontinued |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 166 PPI |
-| Panel | AHVA |
-| Lamination | — |
-| Anti-glare | AG film |
-| Coatings | — |
-| Color gamut | NTSC 72% coverage |
-| Color depth | 8-bit |
-| Brightness | 200 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 170° horizontal<br>170° vertical |
-| Refresh rate | — |
-| Response time | 26 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Active area | 294 × 166 mm (11.6 × 6.5 in) |
-| Diagonal | 337.6 mm (13.3 in) |
-| Aspect ratio | ≈16:9 (1.771:1) |
-| Pen technology | Passive EMR |
-| Pressure levels | 4096 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 100 LPmm (2540 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Included pen | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
-| Compatible pens | [Wacom One Pen (CP-913)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.cp913) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Size | 357 × 225 × 14.6 mm (14.1 × 8.9 × 0.6 in) |
-| Weight | 1000 g |
-| VESA mount | No |
-| Legs | Yes |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | None |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Power input | 5 V, 2 A |
-| Consumption | 10 W max |
-| Standby | 0.5 W |
-| Power adapter | 10 W |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTC-133](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 

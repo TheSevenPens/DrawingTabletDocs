@@ -10,111 +10,12 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [DTH-3220 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |  |
 | Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html) |  |
 | Seven Pens | [Cintiq Pro 32 (DTH-3220 ) Live testing and Q&A](https://www.youtube.com/watch?v=hUFB9kBYy4E) | 2026-08-01 |
 | The Art of Aaron Blaise | [Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) | 2019-01-24 |
 | Aaron Rutten | [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) | 2018-12-13 |
 | Wieger Poutsma | [REVIEW/IN-USE VIDEO Wacom Cintiq Pro 32 - by digital artist/creative entrepreneur Wieger Poutsma.](https://www.youtube.com/watch?v=GgYu9zXD8Gk) | 2018-11-19 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Name | Cintiq Pro 32 |
-| Released | 2018-02-27 |
-| Status | Discontinued |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Resolution | 3840 × 2160 |
-| Aspect ratio | 16:9 |
-| Pixel density | 140 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | Adobe RGB 98% coverage |
-| Color depth | 10-bit |
-| Brightness | 310 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | 60 Hz |
-| Response time | 8 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Active area | 697 × 392 mm (27.4 × 15.4 in) |
-| Diagonal | 799.7 mm (31.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Included pen | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
-| Compatible pens | [Pro Pen 2 (KP-504E)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.pen.kp504e) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | Yes |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Size | 854 × 506 × 53.2 mm (33.6 × 19.9 × 2.1 in) |
-| Weight | 13000 g |
-| VESA mount | — |
-| Legs | Yes |
-| Included stand | No |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Ports | — |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Power input | — |
-| Consumption | — |
-| Standby | — |
-| Power adapter | 180 W |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [DTH-3220](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 
@@ -186,4 +87,3 @@ Diagonal wobble was very good. There were only very tiny amounts of wobble prese
 ### Lag
 
 The lag is typical for a Pen display of this size. As you draw, you can see the pointer trailing the physical tip of the pen a little bit. There was nothing especially unusual about the amount of lag; it was very typical for what we see inn pen displays.
-

@@ -49,7 +49,7 @@ Each 2025 model replaces the 2017 model of the same size category.
 | MEDIUM        | [PTH-660](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660) | [PTK-670](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670) |
 | SMALL         | [PTH-460](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460) | [PTK-470](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470) |
 
-The full specs for each model are in each notes page's Specs section.
+The full specs for each model are in the DrawTabData Explorer. Click a model ID above to see them.
 
 ## Key differences at a glance
 

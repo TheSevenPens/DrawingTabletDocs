@@ -10,6 +10,7 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [BPH1212W-V1 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |  |
 | Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-tablet-medium) |  |
 | EyekooDrawsStuff | [Xencelabs Pen Tablet Review - a solid medium-sized Wacom competitor?](https://www.youtube.com/watch?v=jLedeFToarg) | 2024-12-26 |
 | ManyLearn | [Xencelabs tablet review by a long-term Wacom user](https://www.youtube.com/watch?v=uS63-2e32i8) | 2022-04-13 |
@@ -18,74 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [Xencelabs Pen Tablet Review](https://www.youtube.com/watch?v=d3vIa8cBzwI) | 2021-04-30 |
 | Teoh on Tech | [Xencelabs Pen Tablet Medium: Premium Entry From a New Company](https://www.youtube.com/watch?v=Vrwifey6168) | 2021-04-08 |
 | Parka Blogs | [Review: Xencelabs Pen Tablet Medium (Wireless)](https://www.parkablogs.com/content/review-xencelabs-pen-tablet-medium-wireless) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pentablet). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Name | Pen Tablet Medium V1 |
-| Released | 2021-02-23 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Active area | 262.4 × 147.4 mm (10.3 × 5.8 in) |
-| Diagonal | 301 mm (11.8 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 8192 |
-| Tilt | ±60° |
-| Accuracy (center) | — |
-| Accuracy (corner) | — |
-| Report rate | — |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | — |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Included pen | [3-Button Pen V1 (3BUTTONV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv1)<br>[Thin Pen V1 (THINV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv1) |
-| Compatible pens | [Thin Pen V1 (THINV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.thinv1)<br>[3-Button Pen V1 (3BUTTONV1)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.pen.3buttonv1) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Buttons | — |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Size | 320.5 × 232.5 × 8 mm (12.6 × 9.2 × 0.3 in) |
-| Weight | 715 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [BPH1212W-V1](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes
 

@@ -20,77 +20,10 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [Q640M specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |  |
 | Huion | [Product page](https://www.huion.com/products/inspiroy-dial-2-v2) |  |
 | Huion | [Store page](https://store.huion.com/products/inspiroy-dial-2-v2) |  |
 | Seven Pens | [Huion Dial 2 V2 unboxing and testing](https://www.youtube.com/watch?v=flGAjQkXULw) | 2026-09-15 |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Name | Inspiroy Dial 2 V2 |
-| Released | 2026-09-09 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Active area | 266.7 × 166.7 mm (10.5 × 6.6 in) |
-| Diagonal | 314.5 mm (12.4 in) |
-| Aspect ratio | 16:10 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.3 mm |
-| Accuracy (corner) | — |
-| Report rate | 300 Hz (133 Hz Bluetooth) |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Included pen | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
-| Compatible pens | [PW600 (PW600)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Buttons | 6 |
-| Dials | 2 |
-| Touch rings | — |
-| Touch strips | — |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Size | 356.6 × 207 × 8 mm (14 × 8.1 × 0.3 in) |
-| Weight | 710 g |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | Yes (5.0) |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [Q640M](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Notes on specs
 
@@ -191,4 +124,3 @@ These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 <figure><img src="../../../.gitbook/assets/20260914_122727 (Large).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/20260914_122741 (Large).jpg" alt=""><figcaption></figcaption></figure>
-

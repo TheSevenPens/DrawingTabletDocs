@@ -16,111 +16,12 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 | Source | Link | Date |
 | --- | --- | --- |
+| DrawTabData Explorer | [GT156V2 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |  |
 | Huion | [Product page](https://www.huion.com/products/kamvas-pro-16-v2) |  |
 | Huion | [Store page](https://store.huion.com/products/kamvas-pro-16-v2) |  |
 | EyekooDrawsStuff | [Huion Kamvas Pro 16 V2 Review](https://www.youtube.com/watch?v=CNDwMwp83JU) | 2026-06-26 |
 | Teoh on Tech | [Huion Kamvas Pro 16 v2 (review): Better pen performance](https://www.youtube.com/watch?v=7lR83wtaBk4) | 2025-10-18 |
 | Parka Blogs | [Huion Kamvas Pro 16 v2](https://www.parkablogs.com/content/huion-kamvas-pro-16-v2-pen-display-review) |  |
-
-## Specs
-
-These specs come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). Click a model ID to see its full record there.
-
-{% tabs %}
-{% tab title="Model" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Name | Kamvas Pro 16 V2 |
-| Released | 2025-10-21 |
-| Status | — |
-{% endtab %}
-
-{% tab title="Display" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Resolution | 1920 × 1080 |
-| Aspect ratio | 16:9 |
-| Pixel density | 142 PPI |
-| Panel | IPS |
-| Lamination | Yes |
-| Anti-glare | Etched glass |
-| Coatings | — |
-| Color gamut | sRGB 99% coverage, 120% area<br>Rec. 709 99% coverage |
-| Color depth | 8-bit |
-| Brightness | 220 cd/m² |
-| Peak brightness | — |
-| Viewing angle | 178° horizontal<br>178° vertical |
-| Refresh rate | — |
-| Response time | 25 ms |
-{% endtab %}
-
-{% tab title="Digitizer" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Active area | 344.2 × 193.6 mm (13.5 × 7.6 in) |
-| Diagonal | 394.9 mm (15.5 in) |
-| Aspect ratio | 16:9 |
-| Pen technology | Passive EMR |
-| Pressure levels | 16384 |
-| Tilt | ±60° |
-| Accuracy (center) | ±0.5 mm |
-| Accuracy (corner) | ±3 mm |
-| Report rate | 260 Hz |
-| Density | 200 LPmm (5080 LPI) |
-| Max hover | 10 mm |
-{% endtab %}
-
-{% tab title="Pen" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Included pen | [PW600A (PW600A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600a) |
-| Compatible pens | [PW600A (PW600A)](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.pen.pw600a) |
-{% endtab %}
-
-{% tab title="Other inputs" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Buttons | 6 |
-| Dials | — |
-| Touch rings | — |
-| Touch strips | 1 |
-| Touch | No |
-{% endtab %}
-
-{% tab title="Physical" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Size | 437.8 × 251.2 × 11.5 mm (17.2 × 9.9 × 0.5 in) |
-| Weight | 1360 g |
-| VESA mount | — |
-| Legs | — |
-| Included stand | — |
-{% endtab %}
-
-{% tab title="Connectivity" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Ports | USB-C |
-| Attached cable | — |
-| Bluetooth | — |
-{% endtab %}
-
-{% tab title="Power" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Power input | 12 V, 1 A |
-| Consumption | 9 W |
-| Standby | 0.2 W |
-| Power adapter | — |
-| Power output | — |
-{% endtab %}
-
-{% tab title="In the box" %}
-| | [GT156V2](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |
-| --- | --- |
-| Contents | — |
-{% endtab %}
-{% endtabs %}
 
 ## Basics
 
