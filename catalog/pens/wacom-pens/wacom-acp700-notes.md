@@ -31,7 +31,7 @@ The exact firmware installed at the time of testing is shown below:
 
 ## Links
 
-* [Teoh on Tech - Wacom Art Pen 2 (review): Barrel rotation is FUN](https://www.youtube.com/watch?v=-3NqKEM_B6g)
+* [Teoh on Tech - Wacom Art Pen 2 (review): Barrel rotation is FUN](https://www.youtube.com/watch?v=-3NqKEM_B6g) 2026-10-24
 * [Aaron Rutten - Wacom Art Pen 2 Review](https://www.youtube.com/watch?v=flw33WHaqJ8) 2026-07-18
 * [Brad Colbow - Wacom Art Pen 2 Review](https://www.youtube.com/watch?v=gVBSL0GotZM) 2026-06-15
 * [Teoh on Tech - Wacom Art Pen 2 (first impression)](https://www.youtube.com/watch?v=atE9QHINugE) 2026-06-14
