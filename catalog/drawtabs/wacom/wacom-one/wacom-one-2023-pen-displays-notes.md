@@ -6,11 +6,9 @@ This is an OK pen display that provides a consumer-level drawing experience in t
 
 ## Core links
 
-* DrawTabData Explorer: [DTC-121 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121), [DTH-134 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134)
-* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
-* [User manual](https://101.wacom.com/userhelp/en/toc/dtc121.html) (DTC-121)
-* [User manual](https://101.wacom.com/userhelp/en/toc/dth134.html) (DTH-134)
-* [Product information](https://www.wacom.com/en-us/comp)
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet) · [Product information](https://www.wacom.com/en-us/comp) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2)
+* **Wacom One 12 2023** (DTC-121): [Manual](https://101.wacom.com/userhelp/en/toc/dtc121.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121)
+* **Wacom One 13 touch 2023** (DTH-134): [Manual](https://101.wacom.com/userhelp/en/toc/dth134.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134)
 
 ## Basics
 

@@ -6,10 +6,10 @@ The Wacom Intuos Pro 2017 (PTH-x60) series of tablets are still the best pen tab
 
 ## Core links
 
-* DrawTabData Explorer: [PTH-460 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460), [PTH-660 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660), [PTH-860 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html) (PTH-460)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-660.html) (PTH-660)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html) (PTH-860)
+* [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2017)
+* **Intuos Pro 2017 Small** (PTH-460): [Manual](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460)
+* **Intuos Pro 2017 Medium** (PTH-660): [Manual](http://101.wacom.com/UserHelp/en/TOC/PTH-660.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660)
+* **Intuos Pro 2017 Large** (PTH-860): [Manual](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860)
 
 ## Compared to the newer 2025 edition
 

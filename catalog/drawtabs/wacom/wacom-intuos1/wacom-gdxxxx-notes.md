@@ -2,8 +2,12 @@
 
 ## Core links
 
-* DrawTabData Explorer: [GD-0405-U specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u), [GD-0608-U specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u), [GD-0912-U specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u), [GD-1212-U specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u), [GD-1218-U specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u)
-* [User manual](https://101.wacom.com/productsupport/manual/IntuosUserManual.pdf)
+* [User manual](https://101.wacom.com/productsupport/manual/IntuosUserManual.pdf) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos1_1998)
+* **Intuos 4x5 USB** (GD-0405-U): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0405u)
+* **Intuos 6x8 USB** (GD-0608-U): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0608u)
+* **Intuos 9x12 USB** (GD-0912-U): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd0912u)
+* **Intuos 12x12 USB** (GD-1212-U): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1212u)
+* **Intuos 12x18 USB** (GD-1218-U): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.gd1218u)
 
 ## Name
 

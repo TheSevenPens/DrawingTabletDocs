@@ -10,14 +10,10 @@ This is an EXCELLENT tablet, but may not be the right one for you if:
 
 ## Core links
 
-* DrawTabData Explorer: [PTK-470 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470), [PTK-670 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670), [PTK-870 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870)
-* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) (PTK-470)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) (PTK-670)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) (PTK-870)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) (PTK-470)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) (PTK-670)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) (PTK-870)
+* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2025)
+* **Intuos Pro 2025 Small** (PTK-470): [Store](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) · [Manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470)
+* **Intuos Pro 2025 Medium** (PTK-670): [Store](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) · [Manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670)
+* **Intuos Pro 2025 Large** (PTK-870): [Store](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) · [Manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870)
 
 ## Companion video
 
