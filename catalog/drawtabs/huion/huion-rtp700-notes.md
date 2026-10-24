@@ -18,14 +18,7 @@ Clean and functional. Nothing fancy. Very utilitarian.
 
 At low pressures there is some instability that causes pressure pulsing. It is mostly evident with really large brushes like 200px, 400px, and so on. It can be mitigated to some degree with pressure smoothing in an app.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [RTP700 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.rtp700)
 * [Product page](https://www.huion.com/products/inspiroy-rtp-700)
-
-## Links
-
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
-
-| Source | Link | Date |
-| --- | --- | --- |
-| DrawTabData Explorer | [RTP700 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.rtp700) |  |

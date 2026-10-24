@@ -12,17 +12,17 @@ So, although I love this tablet, I would not typically recommend it for someone 
 
 If you want to learn about extra-large pen tablets in general, see: [Extra-Large pen tablets.](../../../../guides/general/extra-large-pen-tablets.md)
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [PTK-1240 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240)
 * [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos4/User%27s%20Manual.pdf)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos4_2009). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [PTK-1240 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk1240) |  |
 | Seven Pens | [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://youtu.be/Tv_qX1Z9-wI) | 2022-07-25 |
 | Seven Pens | [Is an EXTRA LARGE Pen tablet right for you? (Wacom Intuos 4 XL PTK-1240)](https://www.youtube.com/watch?v=Tv_qX1Z9-wI) | 2022-07-25 |
 

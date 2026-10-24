@@ -15,8 +15,9 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 * If you want to connect via USB-C, you need to buy that cable separately
 * Some units have a known issue with the dials. See [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GS1333 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333)
 * [Product page](https://www.huion.com/products/kamvas-13-gen-3)
 * [Store page](https://store.huion.com/products/kamvas-13-gen-3)
 
@@ -26,21 +27,18 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 
 ## Other links
 
-* [Huion - Tutorial | How to connect Kamvas 13 GEN3 (GS1333) to your Android Phone](https://www.youtube.com/watch?v=Oq6KeACQo68) 2024-10-29
-
-## Links
-
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GS1333 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |  |
 | EyekooDrawsStuff | [Kamvas 13 Gen 3 review - HUION's best beginner display tablet](https://www.youtube.com/watch?v=Ie39Mbsvc8s) | 2025-01-21 |
 | Gartzia Artz | [¡LA MEJOR TABLETA GRÁFICA BARATA de 2024! Review Kamvas 13 Gen3](https://www.youtube.com/watch?v=F0E7Ttq79n4) | 2024-11-28 |
 | Seven Pens | [Notes on Huion Kamvas 13 GEN3 (GS1333)](https://www.youtube.com/watch?v=5QG6NfIFSjU) | 2024-11-08 |
 | Brad Colbow | [Huion Kamvas 13 (Gen 3) Review](https://www.youtube.com/watch?v=2cJB3h8qbhY) | 2024-09-23 |
 | Teoh on Tech | [Huion Kamvas 13 (gen 3) pen display REVIEW: This is a good one](https://www.youtube.com/watch?v=8btDW6eV_HY) | 2024-09-02 |
 | Parka Blogs | [Huion Kamvas 13 gen 3](https://www.parkablogs.com/content/huion-kamvas-13-gen-3-pen-display-2024) |  |
+
+* [Huion - Tutorial | How to connect Kamvas 13 GEN3 (GS1333) to your Android Phone](https://www.youtube.com/watch?v=Oq6KeACQo68) 2024-10-29
 
 ## Notes on specs
 

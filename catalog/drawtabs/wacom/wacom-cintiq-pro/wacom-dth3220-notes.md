@@ -4,21 +4,23 @@
 
 The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing device, given its age and size. It is actually as good as anything else on the market in 2026. It has an excellent drawing experience driven by the included Pro Pen 2, model number KP504E, and an absolutely gigantic screen.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTH-3220 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTH-3220 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |  |
 | Seven Pens | [Cintiq Pro 32 (DTH-3220 ) Live testing and Q&A](https://www.youtube.com/watch?v=hUFB9kBYy4E) | 2026-08-01 |
 | The Art of Aaron Blaise | [Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) | 2019-01-24 |
 | Aaron Rutten | [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) | 2018-12-13 |
 | Wieger Poutsma | [REVIEW/IN-USE VIDEO Wacom Cintiq Pro 32 - by digital artist/creative entrepreneur Wieger Poutsma.](https://www.youtube.com/watch?v=GgYu9zXD8Gk) | 2018-11-19 |
+
+* [Aaron Rutten - How to Setup Wacom CINTIQ PRO 24 & 32](https://www.youtube.com/watch?v=hjOAm8AQxck) 2018-11-14
 
 ## Notes on specs
 
@@ -26,10 +28,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 
 * As of 2026, the included pen is still likely the best drawing pen that has ever existed, with a very low initial activation force, a very high maximum pressure, and good ergonomics.
 * See: [Wacom Pro Pen 2 KP-504E notes](../../../pens/wacom-pens/wacom-kp504e-notes.md)
-
-## Other links
-
-* [Aaron Rutten - How to Setup Wacom CINTIQ PRO 24 & 32](https://www.youtube.com/watch?v=hjOAm8AQxck) 2018-11-14
 
 ## Should you get the tablet in 2026?
 

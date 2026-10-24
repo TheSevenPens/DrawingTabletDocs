@@ -14,26 +14,24 @@ In all other ways besides the AG sparkle, I was satisfied with this tablet.
 
 I think a much better choice would be the Huion Kamvas 16 GEN3. [Huion Kamvas 16 GEN3 (GS1563) notes](huion-gs1563-notes.md).
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GT1562 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562)
 * [Product page](https://www.huion.com/products/kamvas-pro-16-plus-4k)
 * [Store page](https://store.huion.com/products/kamvas-pro-16-4k-series)
 * [User manual](https://www.huion.com/manual/kamvas-pro-16-plus-4k)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GT1562 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1562) |  |
 | Teoh on Tech | [Huion Kamvas Pro 16 Plus vs XP-Pen Artist Pro 16TP](https://youtu.be/aXXdPzw1FFk) | 2021-08-09 |
 | Teoh on Tech | [Review: Huion Kamvas Pro 16 Plus (4K) pen display](https://www.youtube.com/watch?v=0sfbhhXoR8E) | 2021-06-10 |
 | Teoh on Tech | [Huion Kamvas Pro 16 Plus (4K): Unboxing and First Impression](https://www.youtube.com/watch?v=9l2UljGrWdQ) | 2021-05-05 |
 | Parka Blogs | [Review: Huion Kamvas Pro 16 Plus (4K)](https://www.parkablogs.com/content/review-huion-kamvas-pro-16-plus-4k) |  |
 | Parka Blogs | [Huion Kamvas Pro 16 Plus (4K) vs XP-Pen Artist Pro 16TP](https://www.parkablogs.com/content/huion-kamvas-pro-16-plus-4k-vs-xp-pen-artist-pro-16tp) |  |
-
-## Other links
 
 * User manual: [https://www.huion.com/manaul\_pdf/en/Kamvas%20Pro%2016%20Plus%20(4K).pdf](https://www.huion.com/manaul_pdf/en/Kamvas%20Pro%2016%20Plus%20\(4K\).pdf)
 

@@ -1,17 +1,18 @@
-"""Generate the standard "## Official resources" and "## Links" sections for a catalog notes page from DrawTabData's
+"""Generate the standard "## Core links" and "## Other links" sections for a catalog notes page from DrawTabData's
 Model.Links.
 
-"## Official resources" is a bulleted list of the manufacturer's own links (product page, store page, user manual), so
-they are easy to find. "## Links" is a table whose first row always links each model's DrawTabData Explorer page, which
-is where the page's specs live, followed by reviews.
+"## Core links" is a bulleted list near the top: each model's DrawTabData Explorer page, which is where the page's specs
+live, then the manufacturer's own links (product page, store page, user manual). "## Other links" starts with a table of
+reviews, newest first, followed by any hand-written links (tutorials, reddit threads) the section already holds.
 
 Usage (from the repo root):
   python .agents/skills/explorer-links-section/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--after <heading>] [--write]
 
-Without --write, prints the sections. With --write, replaces the page's existing "## Links" section (up to the next
-"## " heading), or inserts it after the section named by --after (default: Overview). "## Official resources" goes near
-the top: after the page's first section, or before it when that is "## Links" or "## Other links". An existing
-"## Official resources" section is replaced. A page with no manufacturer links gets no Official resources section.
+Without --write, prints the sections. With --write, replaces the page's "## Core links" section and puts it after the
+page's first section (or before it when that is "## Other links"), and replaces the generated part of "## Other links",
+keeping its hand-written links. A legacy "## Links" or "## Official resources" section is folded in. With no links
+section yet, "## Other links" goes after the section named by --after (default: Overview); with no reviews and no
+hand-written links, there is no "## Other links".
 
 Data comes from a local DrawTabData checkout: $DRAWTABDATA_DIR if set, otherwise a DrawTabData clone or the
 data-repo submodule of a DrawTabDataExplorer clone next to this repo.
@@ -78,65 +79,84 @@ def which(models, tablets):
     return '' if len(tablets) == 1 or len(models) == len(tablets) else f" ({', '.join(models)})"
 
 
-def official(entity_ids, page=''):
-    """The "## Official resources" section: the manufacturer's links as bullets, or '' when there are none."""
+def core(entity_ids, page=''):
+    """The "## Core links" section: the Explorer specs link(s), then the manufacturer's links, as bullets."""
     tablets = [TABLETS[e] for e in entity_ids]
-    bullets = []
+    explorer = ', '.join(f'[{cell(t["Model"]["Id"])} specs]({EXPLORER}{e})' for e, t in zip(entity_ids, tablets))
+    bullets = [f'* DrawTabData Explorer: {explorer}']
     for type_, label in MANUFACTURER:
         for url, (link, models) in collect(tablets, {type_}, page).items():
             bullets.append(f'* [{cell(label)}]({url}){which(models, tablets)}')
-    return '\n'.join(['## Official resources', ''] + bullets) + '\n' if bullets else ''
+    return '\n'.join(['## Core links', ''] + bullets) + '\n'
 
 
-def section(entity_ids, family_id=None, page=''):
+def reviews_table(entity_ids, family_id=None, page=''):
+    """The generated part of "## Other links": an intro line and a table of reviews, newest first, or ''."""
     tablets = [TABLETS[e] for e in entity_ids]
     family_id = family_id or tablets[0]['Model'].get('Family')
     where = f'[DrawTabData Explorer]({EXPLORER}{family_id})' if family_id else '[DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/)'
-    parts = ['## Links', '', f'These links come from the {where}. To add or fix a link, change it in DrawTabData.', '']
-
-    def row(source, text, url, date, models):
-        return f'| {cell(source)} | [{cell(text)}]({url}){which(models, tablets)} | {date or ""} |'
-
-    explorer = ', '.join(f'[{cell(t["Model"]["Id"])} specs]({EXPLORER}{e})' for e, t in zip(entity_ids, tablets))
-    maker = [f'| DrawTabData Explorer | {explorer} |  |']
     reviews = list(collect(tablets, {'REVIEW'}, page).items())
     reviews.sort(key=lambda kv: kv[1][0].get('PublishDate') or '', reverse=True)
+    if not reviews:
+        return ''
     lines = []
     for url, (link, models) in reviews:
         author = link.get('Author') or ''
         title = link.get('Title') or (f'Review by {author}' if author else 'Review')
-        lines.append(row(author, title, url, link.get('PublishDate'), models))
-    # one table: the Explorer, then reviews newest first (the manufacturer's links are in Official resources)
-    parts += ['| Source | Link | Date |', '| --- | --- | --- |'] + maker + lines + ['']
-    return '\n'.join(parts).rstrip('\n') + '\n'
+        lines.append(f'| {cell(author)} | [{cell(title)}]({url}){which(models, tablets)} | {link.get("PublishDate") or ""} |')
+    parts = [f'The reviews in this table come from the {where}. To add or fix a link, change it in DrawTabData.', '',
+             '| Source | Link | Date |', '| --- | --- | --- |'] + lines
+    return '\n'.join(parts) + '\n'
 
 
 def section_re(heading):
     return r'^## ' + re.escape(heading) + r'\s*$.*?(?=^## |\Z)'
 
 
-def write(page, text, resources='', after='Overview'):
+# the generated part at the top of a links section: the intro line, then the table
+GENERATED = re.compile(r'\A\s*(?:(?:These links|The reviews in this table) come from the \[DrawTabData Explorer\][^\n]*\n+)?(?:\|[^\n]*(?:\n|\Z))*')
+
+
+def hand_written(src, heading):
+    """(span, content) of a section: its hand-written links below the generated part, or (None, '')."""
+    m = re.search(section_re(heading), src, flags=re.M | re.S)
+    if not m:
+        return None, ''
+    body = m.group(0).split('\n', 1)[1] if '\n' in m.group(0) else ''
+    return m.span(), GENERATED.sub('', body, count=1).strip('\n')
+
+
+def write(page, core_text, reviews, after='Overview'):
     crlf = b'\r\n' in open(page, 'rb').read()  # keep the file's existing line endings
     src = open(page, encoding='utf-8').read()
-    src = re.sub(section_re('Official resources'), '', src, flags=re.M | re.S)
-    m = re.search(section_re('Links'), src, flags=re.M | re.S)
-    if m:
-        new = src[:m.start()] + text + '\n' + src[m.end():]
+    for old in ('Core links', 'Official resources'):
+        src = re.sub(section_re(old), '', src, flags=re.M | re.S)
+    # "## Other links": the reviews table, then any hand-written links from "## Other links" or a legacy "## Links",
+    # merged into one section where the first of them was
+    found = [hand_written(src, h) for h in ('Links', 'Other links')]
+    spans = sorted(span for span, _ in found if span)
+    for start, end in reversed(spans):
+        src = src[:start] + src[end:]
+    if spans:
+        at = spans[0][0]
     else:
         m = re.search(section_re(after), src, flags=re.M | re.S)
         if not m:
-            sys.exit(f'No "## Links" section to replace and no "## {after}" section to insert after')
-        new = src[:m.end()].rstrip('\n') + '\n\n' + text + '\n' + src[m.end():]
-    if resources:
-        # near the top: after the first section, or before it when it is a links section
-        heads = list(re.finditer(r'^## .*$', new, flags=re.M))
-        if not heads:
-            at = len(new)
-        elif re.match(r'^## (Links|Other links)\s*$', heads[0].group(0)):
-            at = heads[0].start()
-        else:
-            at = heads[1].start() if len(heads) > 1 else len(new)
-        new = new[:at] + resources + '\n' + new[at:]
+            sys.exit(f'No links section to replace and no "## {after}" section to insert after')
+        head = src[:m.end()].rstrip('\n') + '\n\n'
+        src, at = head + src[m.end():], len(head)
+    body = '\n\n'.join(x.strip('\n') for x in [reviews] + [text for _, text in found] if x.strip())
+    new = src[:at] + (f'## Other links\n\n{body}\n\n' if body else '') + src[at:]
+    # "## Core links" near the top: after the first section, or before it when it is a links section
+    heads = list(re.finditer(r'^## .*$', new, flags=re.M))
+    if not heads:
+        at = len(new)
+    elif re.match(r'^## Other links\s*$', heads[0].group(0)):
+        at = heads[0].start()
+    else:
+        at = heads[1].start() if len(heads) > 1 else len(new)
+    new = new[:at] + core_text + '\n' + new[at:]
+    new = re.sub(r'\n{3,}', '\n\n', new).rstrip('\n') + '\n'
     open(page, 'w', encoding='utf-8', newline='\r\n' if crlf else '\n').write(new)
 
 
@@ -151,10 +171,10 @@ if __name__ == '__main__':
     if '--after' in args:
         i = args.index('--after'); after = args[i + 1]; del args[i:i + 2]
     page, ids = args[0], args[1:]
-    text = section(ids, fam, page)
-    resources = official(ids, page)
+    core_text = core(ids, page)
+    reviews = reviews_table(ids, fam, page)
     if do_write:
-        write(page, text, resources, after)
+        write(page, core_text, reviews, after)
         print('wrote', page)
     else:
-        print(resources + '\n' + text if resources else text)
+        print(core_text + ('\n## Other links\n\n' + reviews if reviews else ''))

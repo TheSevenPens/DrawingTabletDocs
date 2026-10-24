@@ -8,8 +8,9 @@ Very convenient that the tablet comes with all the cables you need to connect vi
 
 12" is the smallest I would recommend for a pen tablet. I personally prefer larger sizes (19" to 22") but for many this size should work.&#x20;
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [CD121FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh)
 * [Product page](https://www.xp-pen.com/product/artist-12-3rd.html)
 * [Store page](https://www.xp-pen.com/store/buy/artist-12-3rd.html)
 * [User manual](https://www.xp-pen.com/user-manual/artist-12-3rd.html)
@@ -21,13 +22,12 @@ Very convenient that the tablet comes with all the cables you need to connect vi
 * Name: XP-Pen Artist 12 GEN3
   * Actually the name on the box is "XP-Pen Artist 12 3rd" but to be consistent with how I discuss other tablets I am using "GEN3" in the name.
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [CD121FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd121fh) |  |
 | David Revoy | [XPpen Artist 12 3rd review](https://www.youtube.com/watch?v=7deVfSmdSdc) | 2026-08-27 |
 | David Revoy | [XPpen Artist 12 3rd - review on GNU/Linux](https://www.davidrevoy.com/article1169/xppen-artist-12-3rd-review-on-gnulinux) | 2026-08-27 |
 | Teoh on Tech | [XPPen Artist 12 3rd (review): Pen is even better now](https://www.youtube.com/watch?v=jkpUTfQGLwc) | 2025-12-17 |

@@ -13,19 +13,19 @@ This is a good tablet with a great drawing experience, thanks to the included PW
 
 My full notes are not available yet, but I did livestream my unboxing and basic testing:
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GS1563 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563)
 * [Product page](https://www.huion.com/products/kamvas-16-gen-3)
 * [Store page](https://store.huion.com/products/kamvas-16-gen-3)
 * [User manual](https://driverdl.huion.com/instruction/Kamvas16-Gen3/User_Manual_Kamvas16_Gen3_en.pdf)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GS1563 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1563) |  |
 | Adam Duff | [I Don't Know What Huion's Been Up To Lately, But I Like It! -  Huion Kamvas 16 (gen 3)](https://www.youtube.com/watch?v=EA4A5B4GcUY) | 2025-01-13 |
 | Seven Pens | [Live unboxing of Huion Kamvas 16 GEN3 (PART 1)](https://www.youtube.com/watch?v=-qmdAHY4f40) | 2025-01-10 |
 | Seven Pens | [Live unboxing of Huion Kamvas 16 GEN3 (PART 2)](https://www.youtube.com/watch?v=KSmhwa6MUjM) | 2025-01-10 |

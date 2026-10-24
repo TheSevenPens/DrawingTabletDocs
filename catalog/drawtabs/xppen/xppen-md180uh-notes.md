@@ -1,18 +1,18 @@
 # XP-Pen Artist Pro 19 GEN2 (MD180UH) notes
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [MD180UH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh)
 * [Product page](https://www.xp-pen.com/product/artist-pro-19-gen-2.html)
 * [Store page](https://www.xp-pen.com/store/buy/artist-pro-19-gen2.html)
 * [User manual](https://www.xp-pen.com/user-manual/artist-pro-19-gen-2.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [MD180UH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md180uh) |  |
 | David Revoy | [XPpen Artist Pro 19 (Gen 2) - review](https://www.youtube.com/watch?v=d8Ft3b002LM) | 2024-11-20 |
 | David Revoy | [XPPen Artist Pro 19 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1053/xppen-artist-pro-19-gen-2-review-on-gnulinux) | 2024-11-14 |
 | Seven Pens | [Notes on XP-Pen Artist Pro 19 GEN2 (MD180UH)](https://www.youtube.com/watch?v=y2nDFHThC3A) | 2024-11-03 |

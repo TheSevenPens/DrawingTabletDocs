@@ -4,19 +4,19 @@
 
 In summary this is a very nice tablet. Wacom Cintiq Pro models are still better (and cost MUCH more) but this tablet is good overall and I have enjoyed using it. As of July 2024, this is my top pick for a mid-range-cost 16" pen display.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [MD160QH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh)
 * [Product page](https://www.xp-pen.com/product/artist-pro-16-gen-2.html)
 * [Store page](https://www.xp-pen.com/store/buy/artist-pro-16-gen2.html)
 * [User manual](https://www.xp-pen.com/user-manual/artist-pro-16-2nd.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistprogen2_2023). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [MD160QH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md160qh) |  |
 | Seven Pens | [Notes on XP-Pen Artist Pro 16 GEN2 (MD160QH)](https://www.youtube.com/watch?v=kqX05ld4oDY) | 2024-10-27 |
 | David Revoy | [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.youtube.com/watch?v=gmmIwkvZagU) | 2023-11-17 |
 | David Revoy | [XPPen Artist Pro 16 (Gen 2) - review on GNU/Linux](https://www.davidrevoy.com/article1004/xppen-artist-pro-16-gen-2-review-on-gnulinux) | 2023-11-17 |

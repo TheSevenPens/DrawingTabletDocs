@@ -12,8 +12,9 @@ In 2025, a firmware update improved the pressure handling, but not enough. More 
 The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 tablets.
 {% endhint %}
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [CTC-4110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl), [CTC-6110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl)
 * [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
 * [Store page](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) (CTC-4110WL)
 * [Store page](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) (CTC-6110WL)
@@ -27,13 +28,12 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 * Wacom One S (2023) - [CTC4110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl)
 * Wacom One M (2023) - [CTC6110WL](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_one_2023). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_one_2023). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [CTC-4110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl), [CTC-6110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |  |
 | Seven Pens | [Pressure Improvements for Wacom One 2023 pen tablets (firmware update 1.7.0.0)](https://www.youtube.com/watch?v=_A6hmEay-xs) | 2025-02-23 |
 | Android Police | [Wacom One M review](https://www.androidpolice.com/wacom-one-m-review/) (CTC-6110WL) | 2024-04-26 |
 | Aaron Rutten | [Wacom One Small & Medium 2023 - Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=w7QLQFOK_eU) | 2023-09-15 |

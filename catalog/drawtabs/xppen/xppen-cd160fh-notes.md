@@ -4,19 +4,19 @@
 
 Overall decent tablet for an entry level 16" pen display. It does have a a very a noticable amount of diagonal wobble. Normally I don't recommend tablets with this much diagonal wobble. but since it can he worked around, it might work well as a budget choice.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [CD160FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh)
 * [Product page](https://www.xp-pen.com/product/artist-16-2nd-gen.html)
 * [Store page](https://www.xp-pen.com/store/buy/artist-16-2nd-gen.html)
 * [User manual](https://www.xp-pen.com/user-manual/artist-16-2nd.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen2). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [CD160FH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.cd160fh) |  |
 | Teoh on Tech | [XP-Pen Artist 16 (2nd Gen) Cursor Tracking & Offset test](https://youtu.be/__NHuTlg-lE) | 2022-06-06 |
 | Brad Colbow | [XP-Pen Artist 16 (2nd Gen) Review](https://youtu.be/4czV7jv9mPg) | 2022-06-01 |
 | Teoh on Tech | [XP-Pen Artist 16 (2nd Gen) pen display review](https://youtu.be/0yKRSAE8_Ng) | 2022-05-26 |

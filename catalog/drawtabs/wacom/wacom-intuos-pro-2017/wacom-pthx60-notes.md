@@ -4,8 +4,9 @@
 
 The Wacom Intuos Pro 2017 (PTH-x60) series of tablets are still the best pen tablets ever made even in 2025. They are tied with the Intuos Pro 2025 series (PTK-x70) series. Both are at the top of their game but depending on your background you might prefer one over the other.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [PTH-460 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460), [PTH-660 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660), [PTH-860 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-460.html) (PTH-460)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-660.html) (PTH-660)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/PTH-860.html) (PTH-860)
@@ -24,13 +25,12 @@ There are three models in this edition.
 
 The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It is still considered part of the Intuos Pro (2017) series.
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2017). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2017). To add or fix a link, change it in DrawTabData.
 
 | Source           | Link                                                                                                                                    | Date       |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| DrawTabData Explorer | [PTH-460 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460), [PTH-660 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660), [PTH-860 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860) |  |
 | Seven Pens       | [Is a LARGE pen tablet right for you? (Wacom Intuos Pro Large PTH-860)](https://www.youtube.com/watch?v=YCmVugc3w_g) (PTH-860)          | 2022-06-27 |
 | EyekooDrawsStuff | [Still my favourite drawing tablet - 2022 review of the Wacom Intuos Pro Medium](https://www.youtube.com/watch?v=XozM9fs9Jlc) (PTH-660) | 2022-05-13 |
 | Brad Colbow      | [Intuos Pro Small (2019) Review](https://www.youtube.com/watch?v=VhR4dcxd_DU) (PTH-460)                                                 | 2019-05-09 |

@@ -10,18 +10,18 @@ The key improvement here is that the tablet has a better pen: The PW600A whereas
 
 I think an even better choice would be the Kamvas 16 GEN3 (GS1563) which has a higher resolution.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GT156V2 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2)
 * [Product page](https://www.huion.com/products/kamvas-pro-16-v2)
 * [Store page](https://store.huion.com/products/kamvas-pro-16-v2)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GT156V2 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt156v2) |  |
 | EyekooDrawsStuff | [Huion Kamvas Pro 16 V2 Review](https://www.youtube.com/watch?v=CNDwMwp83JU) | 2026-06-26 |
 | Teoh on Tech | [Huion Kamvas Pro 16 v2 (review): Better pen performance](https://www.youtube.com/watch?v=7lR83wtaBk4) | 2025-10-18 |
 | Parka Blogs | [Huion Kamvas Pro 16 v2](https://www.parkablogs.com/content/huion-kamvas-pro-16-v2-pen-display-review) |  |

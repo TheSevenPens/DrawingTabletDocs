@@ -6,18 +6,18 @@ The Huion Kamvas 22 Plus is one of the best price-to-performance pen displays in
 
 NOTE: In 2023, with the arrival of the XP-Pen Artist 22 Plus (MD220FH), I think the XP-Pen is an even better choice because of the improved pressure handling of the XP-Pen X3 Pro pen.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GS2202 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202)
 * [Product page](https://www.huion.com/products/kamvas-22-plus)
 * [Store page](https://store.huion.com/products/kamvas-22-series)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GS2202 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2202) |  |
 | Nemanja Sekulic | [Huion Kamvas 22 Plus - Display Tablet Review](https://youtu.be/mlYTRD2KmeY) | 2022-03-04 |
 | Teoh on Tech | [XP Pen Artist 22 vs Huion Kamvas 22 Plus](https://www.youtube.com/watch?v=OdWsAKd4EoI) | 2021-02-09 |
 | Brad Colbow | [Huion Kamvas 22 Plus Review](https://youtu.be/GJxGzJgfYGA) | 2020-09-08 |

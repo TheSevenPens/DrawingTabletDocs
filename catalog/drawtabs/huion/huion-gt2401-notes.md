@@ -4,20 +4,20 @@
 
 I've been very satisfied with this tablet.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GT2401 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401)
 * [Product page](https://www.huion.com/products/kamvas-pro-24-4k)
 * [Store page](https://store.huion.com/products/kamvas-pro-24-4k)
 * [User manual](https://www.huion.com/manual/kamvas-pro-24-4k)
 * [User manual](https://www.huion.com/manaul_pdf/de/Kamvas%20Pro%2024(4K).pdf)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvaspro_2021). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GT2401 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2401) |  |
 | MossCharmly presents | [2 Year Review of Huion Kamvas Pro 24 (4K)!](https://www.youtube.com/watch?v=XwD_7x2S-7g) | 2023-12-09 |
 | Brad Colbow | [Huion Kamvas 24 Pro 4k Review (2021)](https://www.youtube.com/watch?v=HvQxDrzgbOo) | 2021-09-02 |
 | Teoh on Tech | [Review: Huion Kamvas Pro 24 (4K)](https://www.youtube.com/watch?v=r8k5qsgJXlM) | 2021-08-17 |
