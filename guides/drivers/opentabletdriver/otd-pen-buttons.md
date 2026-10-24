@@ -4,10 +4,12 @@
 
 This document explains how to change what the pen's buttons do when you use OpenTabletDriver (OTD) on **Windows** or **macOS**.
 
-What you can assign depends on the platform:
+## Which OS you use is important
 
-* On **Windows**, you use OTD with the Windows Ink plugin, as described in [Install OpenTabletDriver on Windows](otd-windows-install.md). Only some kinds of button settings work well with Windows Ink. Others can interrupt your strokes or do nothing.
-* On **macOS**, OTD does not use Windows Ink, so most settings are available. See [Install OpenTabletDriver on macOS](otd-macos-install.md).
+Rememeber that my OTD instructions are for an artistic setup.
+
+* On **Windows**, this artistic setup requires the Windows Ink plugin. And the WIndows Ink plugin restricts how the pen buttons can be configured.
+* On **MacOS**, there the Windows Ink plugin is not needed, and there are more options for configuration.
 
 {% hint style="info" %}
 For general information about pen buttons, such as how many a pen has and what people usually assign to them, see [Pen buttons](../../pens/pen-buttons.md).
@@ -19,24 +21,21 @@ For the buttons on the tablet itself, see [Configure tablet buttons with OpenTab
 
 * This document is based on OTD `v0.6.7` and, on Windows, the Windows Ink plugin `v0.5.2`.
 * The Windows parts apply to **Windows Ink Absolute Mode** from the Windows install instructions.
-* The macOS parts describe how OTD's macOS output works. They have not been checked on a Mac.
-* Linux is not covered.
+* The macOS parts describe how OTD's macOS output works - but I have not carefully checked them on a Mac.
 
 ## What is supported on each platform
 
-| Setting | Windows (Windows Ink) | macOS |
-| --- | --- | --- |
-| **Adaptive Binding** (the default) | Works. Passes the pen's own button to Windows. Every button sends the same signal. | Works. Sends a mouse click: Button 1 is a right-click, Button 2 is a middle-click, Button 3 does nothing. |
-| **Keyboard shortcut** (Key Binding, Multi-Key Binding) | Works. | Works. Needs the Accessibility permission from the install steps. |
-| **Mouse Button Binding** | Avoid. Can interrupt your stroke. | Works. |
-| **Mouse Scroll Binding** | Does not work. | Works. |
-| **Windows Ink binding** (eraser on a button) | Available. | Not available. It is part of the Windows Ink plugin. |
-| **Clear** (button does nothing) | Works. | Works. |
-| **Tip and eraser** | Leave on Adaptive Binding. | Leave on Adaptive Binding. |
+| Setting                                                | Windows (Windows Ink)                                                                                                                                                                  | macOS                                                                                                |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Adaptive Binding** (the default)                     | <p>Works. <br><br>Big Limitation on Windows: Performs some "default" button action and every button on the button on the pen that is set to Adaptive binding does the same action.</p> | <p>Works. </p><p>Button 1 is a right-click, Button 2 is a middle-click<br>Button 3 does nothing.</p> |
+| **Keyboard shortcut** (Key Binding, Multi-Key Binding) | Works.                                                                                                                                                                                 | <p>Works. <br><br>Needs the Accessibility permission from the install steps.</p>                     |
+| **Mouse Button Binding**                               | Does not work.                                                                                                                                                                         | Works.                                                                                               |
+| **Mouse Scroll Binding**                               | Does not work.                                                                                                                                                                         | Works.                                                                                               |
+| **Windows Ink binding** (eraser on a button)           | Available.                                                                                                                                                                             | N/A                                                                                                  |
+| **Clear** (button does nothing)                        | Works.                                                                                                                                                                                 | Works.                                                                                               |
+| **Tip and eraser**                                     | Leave on Adaptive Binding.                                                                                                                                                             | Leave on Adaptive Binding.                                                                           |
 
-## Where the settings are
-
-These steps are the same on both platforms.
+## Settings location
 
 1. In the OTD app, open the **Pen Settings** tab.
 2. Under **Pen Buttons**, find the list of buttons: **Pen Binding 1**, **Pen Binding 2**, and so on. Your pen determines how many appear.
@@ -48,10 +47,8 @@ After any change, click **Apply**, then click **Save**. The install guides expla
 
 ## Assign a keyboard shortcut to a button
 
-This works on both platforms.
-
 1. On the **Pen Settings** tab, under **Pen Buttons**, click the button you want to change.
-2. The **Binding Editor** opens with the message *Press a key, combination of keys, or a mouse button.*
+2. The **Binding Editor** opens with the message _Press a key, combination of keys, or a mouse button._
 3. **Press the shortcut on your keyboard.** For example, press the modifier key and `Z` together.
 4. The box shows what OTD recorded. A single key shows as `Key Binding: (Key: Space)`, for example. A combination shows as `Multi-Key Binding: (Keys: Control+Z)`. Check that it shows the keys you meant.
 5. Click **Apply** in the **Binding Editor**.
@@ -61,26 +58,16 @@ This works on both platforms.
 Do **not** click inside the box while the **Binding Editor** is open. A mouse click there sets the button to a **mouse button** setting. On Windows that is the kind to avoid. On macOS it works, but it is probably not what you wanted.
 {% endhint %}
 
-### How a shortcut behaves
+### How pressing a pen button works with hotkeys
 
 * The keys are pressed when you press the pen button, and released when you release it.
 * That makes a key that an app uses while it is held work the way you would expect. For example, a button set to `Space` pans the canvas in many apps while you hold the button and drag.
 
-See [Pen buttons](../../pens/pen-buttons.md) for common choices.
-
-## Make a button do nothing
-
-This works on both platforms.
-
-1. Click the button's setting to open the **Binding Editor**.
-2. Click **Clear**.
-3. Click **Apply**, then **Save**, in the main OTD window.
-
-This is useful if you keep pressing a button by accident.
+See [Pen buttons](../../pens/pen-buttons.md) for common choices for assigning hotkeys.
 
 ## Leave the tip and the eraser alone
 
-On both platforms, the **Tip Binding** and **Eraser Binding** are what make the pen draw and erase. They are set to `Adaptive Binding` by default. Replacing them can stop the pen from drawing, so leave them as they are.
+On both platforms, the **Tip Binding** and **Eraser Binding** are what make the pen draw and erase. They are set to `Adaptive Binding` by default. Replacing them can stop the pen from drawing, so I recommend that leave them as they are.
 
 If you want to turn pressure or tilt off, use the **Disable Pressure** and **Disable Tilt** settings on the same tab, not the tip binding.
 
@@ -98,45 +85,7 @@ With Windows Ink, all of the pen's buttons send the **same** signal. Two buttons
 If you want two different actions, set one button to `Adaptive Binding` and give the other a keyboard shortcut.
 {% endhint %}
 
-### Do not use mouse settings with Windows Ink
-
-These settings appear in the **Type** dropdown of the **Advanced Binding Editor**, and a click in the **Binding Editor** creates one:
-
-* `Mouse Button Binding`, with Left, Right, Middle, Back, or Forward
-* `Mouse Scroll Binding`
-
-Windows Ink sends the pen to Windows as a pen. A mouse click is a different kind of input. To send one, the Windows Ink plugin has to take the pen out of range, move the Windows mouse pointer to the pen's position, and send a mouse click. This is the same limitation noted in [Install OpenTabletDriver on Windows](otd-windows-install.md).
-
-What that means in practice:
-
-* **Left, Right, Middle:** the click can interrupt a stroke in progress. If it works at all, the pen briefly stops acting as a pen.
-* **Back and Forward:** no click is sent, but the pen still leaves range.
-* **Scroll:** does nothing in Windows Ink mode.
-
-If you want a right-click, leave the button on `Adaptive Binding`. If you need another action, use a keyboard shortcut.
-
-{% hint style="info" %}
-If you find a button already set to a mouse setting, for example from an earlier configuration, change it to `Adaptive Binding` or a keyboard shortcut.
-
-To set a button back to the default, open the **Advanced Binding Editor** with the **...** button, set **Type** to `Adaptive Binding`, and choose the button number that matches it.
-{% endhint %}
-
-### Optional: an eraser on a button
-
-The Windows Ink plugin adds its own kind of setting called `Windows Ink`. Its **Button** option includes:
-
-* **Eraser (Hold)** - the pen acts as an eraser while you hold the button.
-* **Eraser (Toggle)** - each press switches the pen between pen and eraser.
-
-Switching between pen and eraser briefly takes the pen out of range, so use it between strokes, not during one. The names of these options can differ between versions of the plugin.
-
-### Windows cautions
-
-* **A shortcut that works everywhere except one app.** Windows does not let a normal program send key presses to an app that is running as administrator. If a shortcut fails in only one app, check whether that app is running as administrator, and start it normally.
-
 ## On macOS
-
-OTD on macOS does not use Windows Ink. It sends the pen to macOS directly, with pressure, tilt, and the eraser end handled by OTD. Mouse actions are sent as ordinary mouse events, so the Windows Ink limitations do not apply.
 
 ### What the default does
 
@@ -161,11 +110,6 @@ The pen tip and the eraser end each send a left-click.
 
 * There is no `Windows Ink` setting, so there is no eraser-on-a-button option.
 * The administrator caution for Windows does not apply.
-
-## Things to know
-
-* **A shortcut can get stuck.** A keyboard shortcut is held down while you hold the pen button. If you switch presets, or the tablet disconnects, at that moment, the key can stay down. Press that key once on your keyboard to release it.
-* **Changes do nothing until you click Apply.** Click **Save** as well, or the change is lost when you close OTD.
 
 ## Related topics
 
