@@ -39,7 +39,7 @@ Here are some known pixel densities for iPads
 
 What we see with these devices is that generally, if you've been using them, you're used to a pixel density of around 250 PPI, and in some cases, 300 plus. Now, let's take a look at how PPI works for different Pen display sizes.
 
-<table><thead><tr><th width="126.20001220703125">Diagonal Size</th><th>Full HD (1920x1080)</th><th width="207">2.5K (2560x1440)</th><th>4K (3840x2160)</th></tr></thead><tbody><tr><td>13"</td><td>~169ppi</td><td>~226ppi</td><td>~339ppi</td></tr><tr><td>16"</td><td>~138ppi</td><td>~184ppi</td><td>~275ppi</td></tr><tr><td>19"</td><td>~115ppi</td><td>~155ppi</td><td>~231ppi</td></tr><tr><td>22"</td><td>~100ppi</td><td>~133ppi</td><td>~220ppi</td></tr><tr><td>24"</td><td>~92ppi</td><td>~122ppi</td><td>~184ppi</td></tr><tr><td>27"</td><td>~82ppi</td><td>~109ppi</td><td>~163ppi</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="126.20001220703125">Diagonal Size</th><th>Full HD (1920x1080)</th><th width="207">2.5K (2560x1440)</th><th>4K (3840x2160)</th></tr></thead><tbody><tr><td>13"</td><td>~169ppi</td><td>~226ppi</td><td>~339ppi</td></tr><tr><td>16"</td><td>~138ppi</td><td>~184ppi</td><td>~275ppi</td></tr><tr><td>19"</td><td>~115ppi</td><td>~155ppi</td><td>~231ppi</td></tr><tr><td>22"</td><td>~100ppi</td><td>~133ppi</td><td>~220ppi</td></tr><tr><td>24"</td><td>~92ppi</td><td>~122ppi</td><td>~184ppi</td></tr><tr><td>27"</td><td>~82ppi</td><td>~109ppi</td><td>~163ppi</td></tr></tbody></table>
 
 What you will see pretty clearly with Pen displays is that very high PPIs really require 4K. For 2K, if you're dealing with a 13-inch Pen display,
 

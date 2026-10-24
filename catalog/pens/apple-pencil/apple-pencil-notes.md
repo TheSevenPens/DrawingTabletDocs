@@ -36,7 +36,7 @@ iPad vs Apple Pencil compatibility list - [https://www.lifewire.com/apple-pencil
 
 ## Feature comparison by model
 
-<table><thead><tr><th width="194">Device</th><th width="101">Hover</th><th width="113">Pressure</th><th width="94">Tilt</th><th width="152">Barrel rotation</th></tr></thead><tbody><tr><td>Apple Pencil GEN1</td><td>NO</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil GEN2</td><td>YES</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil USB-C</td><td>YES</td><td>NO</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil Pro</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="194">Device</th><th width="101">Hover</th><th width="113">Pressure</th><th width="94">Tilt</th><th width="152">Barrel rotation</th></tr></thead><tbody><tr><td>Apple Pencil GEN1</td><td>NO</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil GEN2</td><td>YES</td><td>YES</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil USB-C</td><td>YES</td><td>NO</td><td>YES</td><td>NO</td></tr><tr><td>Apple Pencil Pro</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr></tbody></table>
 
 ## Apple Pencil versus drawing tablet pens
 

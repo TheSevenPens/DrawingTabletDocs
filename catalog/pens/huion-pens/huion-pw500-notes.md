@@ -35,7 +35,7 @@ The nib retracts a little more than more modern EMR pens. It doesn't impact draw
 
 Max pressure is OK at around \~250gf with the unit I tested.
 
-<table><thead><tr><th width="107">BRAND</th><th width="103">PEN</th><th width="110">INVENTORY</th><th width="106">PHYSICAL</th><th width="103">LOGICAL</th></tr></thead><tbody><tr><td>HUION</td><td>PW500</td><td>HU1013</td><td>241.6gf</td><td>99.80%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="107">BRAND</th><th width="103">PEN</th><th width="110">INVENTORY</th><th width="106">PHYSICAL</th><th width="103">LOGICAL</th></tr></thead><tbody><tr><td>HUION</td><td>PW500</td><td>HU1013</td><td>241.6gf</td><td>99.80%</td></tr></tbody></table>
 
 ## Pressure response
 

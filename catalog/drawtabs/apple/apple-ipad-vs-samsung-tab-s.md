@@ -68,7 +68,7 @@ My favorite apps to use are Clip Studio Paint and Infinite Painter, which work o
 
 Here is a list of some of the more popular apps.
 
-<table><thead><tr><th width="221">Application</th><th width="224">iPad</th><th>Samsung Galaxy Tab S</th></tr></thead><tbody><tr><td>Procreate</td><td>YES</td><td>NO</td></tr><tr><td>Procreate Dreams</td><td>YES</td><td>NO</td></tr><tr><td>Clip Studio Paint</td><td>YES</td><td>YES</td></tr><tr><td>Krita</td><td>NO</td><td>YES</td></tr><tr><td>Infinite Painter</td><td>YES</td><td>YES</td></tr><tr><td>Concepts</td><td>YES</td><td>YES</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="221">Application</th><th width="224">iPad</th><th>Samsung Galaxy Tab S</th></tr></thead><tbody><tr><td>Procreate</td><td>YES</td><td>NO</td></tr><tr><td>Procreate Dreams</td><td>YES</td><td>NO</td></tr><tr><td>Clip Studio Paint</td><td>YES</td><td>YES</td></tr><tr><td>Krita</td><td>NO</td><td>YES</td></tr><tr><td>Infinite Painter</td><td>YES</td><td>YES</td></tr><tr><td>Concepts</td><td>YES</td><td>YES</td></tr></tbody></table>
 
 More here: [Apps](../../../apps/)
 

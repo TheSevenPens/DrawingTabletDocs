@@ -129,11 +129,11 @@ Physically, the new devices are smaller than their 2017 counterparts, but their 
 
 #### Device size
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>430 x 287 mm</p><p>1234.1 cm2</p></td><td><p>PTK-870</p><p>377 x 253 mm<br>953.81 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>338 x 219 mm<br>740.22 cm2</p></td><td><p>PTK-670</p><p>291 x 206 mm<br>599.46 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>269 x 170 mm<br>457.3 cm2</p></td><td><p>PTK-470</p><p>215 x 163 mm<br>350.45 cm2</p></td></tr></tbody></table>
 
 #### Active area
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>263 x 148 mm<br>389.24 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 216 mm<br>671.76 cm2</p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 148 mm<br>331.52 cm2</p></td><td><p>PTK-670</p><p>263 x 148 mm<br>389.24 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 100 mm<br>160.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
 
 <figure><img src="../../../.gitbook/assets/wacom-ptkx70-notes-25.png" alt=""><figcaption></figcaption></figure>
 
@@ -159,11 +159,11 @@ The 2017 models had unusual aspect ratios, while the new devices all have 16:9 a
 
 #### Aspect ratio
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>1.440:1</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>≈3:2 (1.514:1)</p></td><td><p>PTK-670</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>16:10</td><td><p>PTK-470</p><p>16:9 (1.781)</p></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>1.440:1</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>≈3:2 (1.514:1)</p></td><td><p>PTK-670</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>16:10</td><td><p>PTK-470</p><p>16:9 (1.781)</p></td></tr></tbody></table>
 
 #### Active area with Force Proportions enabled on a 16:9 monitor
 
-<table><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br><strong>544.06 cm2</strong></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>263 x 148 mm<br>389.24 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>311 x 174.94 mm<br><strong>544.06 cm2</strong></p></td><td><p>PTK-870</p><p>349 x 195 mm<br>680.55 cm2</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>224 x 126.0 mm<br>282.24 cm2</p></td><td><p>PTK-670</p><p>263 x 148 mm<br>389.24 cm2</p></td></tr><tr><td>SMALL</td><td><p>PTH-460</p><p>160 x 90.0 mm<br>144.0 cm2</p></td><td><p>PTK-470</p><p>187 x 105 mm<br>196.35 cm2</p></td></tr></tbody></table>
 
 ### Weight
 
@@ -173,7 +173,7 @@ WINNER: INTUOS PRO 2025
 * The 2025 LARGE model weighs less than the 2017 MEDIUM model
 * The 2025 MEDIUM model weighs less than the 2017 SMALL model
 
-<table><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017</th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017</th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
 
 Despite the weight loss, the 2025 edition does not slide around on the desk while drawing. It does require less force to move deliberately than the PTH-660.
 
@@ -199,7 +199,7 @@ With the device sizes shrinking but the active area increasing, the bezels have 
 * The TOP bezel has grown a bit to hold the ExpressKeys and dials
 * All numbers here are approximate
 
-<table><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.2%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.2%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
 
 Numbers don't capture the difference. Here's a photo with purple tape over the right bezel of the Intuos Pro 2017 Medium and the Intuos Pro 2025 Medium.
 

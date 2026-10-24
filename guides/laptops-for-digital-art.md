@@ -59,7 +59,7 @@ Your choice depends on the apps and kinds of work you are going to be doing.
 
 8 GB works for light projects and basic 2D art. It is a reasonable starting point for beginners. For a new laptop, I recommend at least 16 GB. It provides more headroom for layered files and lasts longer. 16 GB works well for 2D illustration in Krita and Clip Studio Paint.
 
-<table><thead><tr><th width="115">RAM</th><th>RATING</th></tr></thead><tbody><tr><td>4GB</td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB</td><td>OK-ish. Should be fine for basic 2D art. I worked with this amount for several years and for my minimal style and simple needs with Clip Studio Paint this worked. As of 2026, I think 8GB is too low.  </td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="115">RAM</th><th>RATING</th></tr></thead><tbody><tr><td>4GB</td><td>NOT ENOUGH. AVOID.</td></tr><tr><td>8GB</td><td>OK-ish. Should be fine for basic 2D art. I worked with this amount for several years and for my minimal style and simple needs with Clip Studio Paint this worked. As of 2026, I think 8GB is too low.  </td></tr><tr><td>16GB</td><td>GOOD. The average person will be fine here and will be able to handle a decent workload.</td></tr><tr><td>32GB</td><td>EXCELLENT</td></tr></tbody></table>
 
 ## Pen display connection
 

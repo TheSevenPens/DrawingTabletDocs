@@ -9,7 +9,7 @@ See my notes:
 
 ## Models
 
-<table><thead><tr><th>Name</th><th>Model</th><th width="100.199951171875">Year</th><th>Manual</th></tr></thead><tbody><tr><td>Intuos S</td><td>CTL-4100</td><td>2018</td><td>User manual: <a href="http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html">http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html</a></td></tr><tr><td>Intuos S BT</td><td>CTL-4100WL</td><td>2018</td><td></td></tr><tr><td>Intuos M</td><td>CTL-6100</td><td>2018</td><td>User manual: <a href="http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html">http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html</a></td></tr><tr><td>Intuos M BT</td><td>CTL-6100WL</td><td>2018</td><td></td></tr><tr><td>Intuos 2026 Small</td><td>CTK-4120</td><td>2026</td><td>Unreleased</td></tr><tr><td>Intuos 2026 Medium</td><td>CTK-6120</td><td>2026</td><td>Unreleased</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>Name</th><th>Model</th><th width="100.199951171875">Year</th><th>Manual</th></tr></thead><tbody><tr><td>Intuos S</td><td>CTL-4100</td><td>2018</td><td>User manual: <a href="http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html">http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html</a></td></tr><tr><td>Intuos S BT</td><td>CTL-4100WL</td><td>2018</td><td></td></tr><tr><td>Intuos M</td><td>CTL-6100</td><td>2018</td><td>User manual: <a href="http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html">http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html</a></td></tr><tr><td>Intuos M BT</td><td>CTL-6100WL</td><td>2018</td><td></td></tr><tr><td>Intuos 2026 Small</td><td>CTK-4120</td><td>2026</td><td>Unreleased</td></tr><tr><td>Intuos 2026 Medium</td><td>CTK-6120</td><td>2026</td><td>Unreleased</td></tr></tbody></table>
 
 ## Older Intuos professional tablets
 

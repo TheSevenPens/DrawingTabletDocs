@@ -21,7 +21,7 @@ This is a professional pen tablet series from 2001.
 
 ## Models
 
-<table><thead><tr><th width="145.1316218678544">Model ID</th><th width="441.79998779296875">Name</th></tr></thead><tbody><tr><td>XD-0405-U</td><td>Intuos2 4x5 (USB)</td></tr><tr><td>XD-0405-R</td><td>Intuos2 4x5 (Serial)</td></tr><tr><td>XD-0608-U</td><td>Intuos2 6x8 (USB)</td></tr><tr><td>XD-0608-R</td><td>Intuos2 6x8 (Serial)</td></tr><tr><td>XD-0912-U</td><td>Intuos2 9x12 (USB)</td></tr><tr><td>XD-0912-R</td><td>Intuos2 9x12 (Serial)</td></tr><tr><td>XD-1212-U</td><td>Intuos2 12x12 (USB)</td></tr><tr><td>XD-1212-R</td><td>Intuos2 12x12 (Serial)</td></tr><tr><td>XD-1218-U</td><td>Intuos2 12x18 (USB)</td></tr><tr><td>XD-1218-R</td><td>Intuos2 12x18 (Serial)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="145.1316218678544">Model ID</th><th width="441.79998779296875">Name</th></tr></thead><tbody><tr><td>XD-0405-U</td><td>Intuos2 4x5 (USB)</td></tr><tr><td>XD-0405-R</td><td>Intuos2 4x5 (Serial)</td></tr><tr><td>XD-0608-U</td><td>Intuos2 6x8 (USB)</td></tr><tr><td>XD-0608-R</td><td>Intuos2 6x8 (Serial)</td></tr><tr><td>XD-0912-U</td><td>Intuos2 9x12 (USB)</td></tr><tr><td>XD-0912-R</td><td>Intuos2 9x12 (Serial)</td></tr><tr><td>XD-1212-U</td><td>Intuos2 12x12 (USB)</td></tr><tr><td>XD-1212-R</td><td>Intuos2 12x12 (Serial)</td></tr><tr><td>XD-1218-U</td><td>Intuos2 12x18 (USB)</td></tr><tr><td>XD-1218-R</td><td>Intuos2 12x18 (Serial)</td></tr></tbody></table>
 
 ## Photos
 
