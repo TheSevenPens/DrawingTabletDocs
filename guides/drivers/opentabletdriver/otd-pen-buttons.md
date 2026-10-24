@@ -2,14 +2,11 @@
 
 ## Overview
 
-This document explains how to change what the pen's buttons do when you use OpenTabletDriver (OTD) on **Windows** or **macOS**.
+This document explains how to change what the pen's buttons do when you use OTD on **Windows** or **macOS**.
 
-## Which OS you use is important
+## MacOS and Windows behave differently
 
-Rememeber that my OTD instructions are for an artistic setup.
-
-* On **Windows**, this artistic setup requires the Windows Ink plugin. And the WIndows Ink plugin restricts how the pen buttons can be configured.
-* On **MacOS**, there the Windows Ink plugin is not needed, and there are more options for configuration.
+Remember that the OTD instructions are for an artistic setup to enable Pressure and Tilt. This means on Windows, the setup requires the Windows Ink plugin. he Windows Ink plugin limits what you can do with the pen buttons.s Ink plugin is not needed, and there are more options for configuration.
 
 {% hint style="info" %}
 For general information about pen buttons, such as how many a pen has and what people usually assign to them, see [Pen buttons](../../pens/pen-buttons.md).
@@ -17,13 +14,13 @@ For general information about pen buttons, such as how many a pen has and what p
 For the buttons on the tablet itself, see [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md).
 {% endhint %}
 
-### Version information
+## Notes
 
 * This document is based on OTD `v0.6.7` and, on Windows, the Windows Ink plugin `v0.5.2`.
 * The Windows parts apply to **Windows Ink Absolute Mode** from the Windows install instructions.
 * The macOS parts describe how OTD's macOS output works - but I have not carefully checked them on a Mac.
 
-## What is supported on each platform
+## Settings
 
 ### Adaptive Binding (the default)
 
@@ -80,31 +77,12 @@ The pen tip and the eraser end each send a left-click.
 
 After any change, click **Apply**, then click **Save**. The install guides explain what those two buttons do.
 
-## Assign a keyboard shortcut to a button
-
-1. On the **Pen Settings** tab, under **Pen Buttons**, click the button you want to change.
-2. The **Binding Editor** opens with the message _Press a key, combination of keys, or a mouse button._
-3. **Press the shortcut on your keyboard.** For example, press the modifier key and `Z` together.
-4. The box shows what OTD recorded. A single key shows as `Key Binding: (Key: Space)`, for example. A combination shows as `Multi-Key Binding: (Keys: Control+Z)`. Check that it shows the keys you meant.
-5. Click **Apply** in the **Binding Editor**.
-6. Click **Apply**, then **Save**, in the main OTD window.
-
-{% hint style="danger" %}
-Do **not** click inside the box while the **Binding Editor** is open. A mouse click there sets the button to a **mouse button** setting. On Windows that is the kind to avoid. On macOS it works, but it is probably not what you wanted.
-{% endhint %}
-
-### How pressing a pen button works with hotkeys
+## Notes assigning buttons to hotkeys
 
 * The keys are pressed when you press the pen button, and released when you release it.
 * That makes a key that an app uses while it is held work the way you would expect. For example, a button set to `Space` pans the canvas in many apps while you hold the button and drag.
 
 See [Pen buttons](../../pens/pen-buttons.md) for common choices for assigning hotkeys.
-
-## Leave the tip and the eraser alone
-
-On both platforms, the **Tip Binding** and **Eraser Binding** are what make the pen draw and erase. They are set to `Adaptive Binding` by default. Replacing them can stop the pen from drawing, so I recommend that leave them as they are.
-
-If you want to turn pressure or tilt off, use the **Disable Pressure** and **Disable Tilt** settings on the same tab, not the tip binding.
 
 ## Related topics
 
