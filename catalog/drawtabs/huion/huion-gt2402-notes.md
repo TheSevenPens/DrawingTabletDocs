@@ -4,6 +4,12 @@
 
 <mark style="color:red;">**These notes are in progress**</mark>
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/kamvas-pro-24-gen-3)
+* [Store page](https://store.huion.com/products/kamvas-pro-24-gen-3)
+* [User manual](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
@@ -11,9 +17,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [GT2402 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt2402) |  |
-| Huion | [Product page](https://www.huion.com/products/kamvas-pro-24-gen-3) |  |
-| Huion | [Store page](https://store.huion.com/products/kamvas-pro-24-gen-3) |  |
-| Huion | [User manual](https://driverdl.huion.com/instruction/Kamvas_Pro_24Gen3/User_Manual_Kamvas_Pro_24Gen3_EN.pdf) |  |
 | Trent Kaniuga | [Huion Kamvas Pro 24 Gen 3 Review  Is This Drawing Tablet Screen TOO Big?](https://www.youtube.com/watch?v=XgOq3xCci20) | 2026-07-02 |
 | Teoh on Tech | [Huion Kamvas Pro 24 (gen 3) now with TOUCH (full review)](https://www.youtube.com/watch?v=6E7fCBuXQlA) | 2026-02-01 |
 | Seven Pens | [Unboxing & Testing: Huion Kamvas Pro 24 GEN3](https://www.youtube.com/watch?v=nqrwEZj3SgA) | 2025-12-13 |

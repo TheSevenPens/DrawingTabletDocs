@@ -12,6 +12,11 @@ The pen is a significant upgrade based on my existing testing.
 
 The tablet is arriving for me by the end of October 2026. When it shows up I will do a more thorough evaluation.
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/inspiroy-giano-v2)
+* [Store page](https://store.huion.com/products/inspiroy-giano-v2)
+
 ## Key changes from the G930L
 
 It comes with the PW600 pen instead of the PW517 that came with the G930L.
@@ -23,8 +28,6 @@ Everything else - the active area, physical size, weight, 6 buttons, Bluetooth 5
 | Source | Link                                                             | Date |
 | ------ | ---------------------------------------------------------------- | ---- |
 | DrawTabData Explorer | [G940L specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g940l) |  |
-| Huion  | [Product page](https://www.huion.com/products/inspiroy-giano-v2) |      |
-| Huion  | [Store page](https://store.huion.com/products/inspiroy-giano-v2) |      |
 
 ## Notes on specs
 

@@ -16,6 +16,13 @@ This tablet makes sense for the following scenarios:
 
 **Ensure you understand how it will connect to your computer.** This tablet is intended to connect to your computer via the provided USB-C cable. You MUST make sure your USB-C port on your computer meets all the requirements. It is possible to connect to your computer via HDMI. However, this requires the purchase of the Wacom Converter ($80) and additional cables.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-one)
+* [Store page](https://estore.wacom.com/en-us/wacom-one-14-dtc141w0.html)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTC141.html)
+* [Product information](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
+
 ## Video
 
 ## Links
@@ -25,10 +32,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTC-141 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc141) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-one) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-one-14-dtc141w0.html) |  |
-| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTC141.html) |  |
-| Wacom | [Product information](https://www.wacom.com/en-us/products/pen-displays/wacom-one) |  |
 | Aaron Rutten | [Wacom One 14 Review (with Comparisons to 13 Touch & MovinkPad)](https://www.youtube.com/watch?v=XDZzzs6e7zU) | 2026-02-05 |
 | Brad Colbow | [Wacom One 14 Review](https://www.youtube.com/watch?v=GKxx9Vwz79U) | 2025-11-10 |
 | Seven Pens | [Notes on Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=eDu-6BBp8JI) | 2025-10-15 |

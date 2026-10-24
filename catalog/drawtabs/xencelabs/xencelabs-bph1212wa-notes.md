@@ -4,6 +4,10 @@
 
 Had a good experience with this tablet after using for six months.
 
+## Official resources
+
+* [Product page](https://www.xencelabs.com/us/products/pen-tablet-medium)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pentablet). To add or fix a link, change it in DrawTabData.
@@ -11,7 +15,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [BPH1212W-V1 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.bph1212wv1) |  |
-| Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-tablet-medium) |  |
 | EyekooDrawsStuff | [Xencelabs Pen Tablet Review - a solid medium-sized Wacom competitor?](https://www.youtube.com/watch?v=jLedeFToarg) | 2024-12-26 |
 | ManyLearn | [Xencelabs tablet review by a long-term Wacom user](https://www.youtube.com/watch?v=uS63-2e32i8) | 2022-04-13 |
 | Gartzia Artz | [MEJOR QUE CUALQUIER WACOM / Review Español Tableta gráfica Xencelabs medium + Quick keys](https://www.youtube.com/watch?v=IAO0gs9E0e8) | 2021-11-24 |

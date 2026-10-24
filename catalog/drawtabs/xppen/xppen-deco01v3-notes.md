@@ -6,6 +6,12 @@ This is decent tablet. It was released in 2025 and uses an older generation of p
 
 There similar tablets and some have better pens with lower IAF: [Pen tablet recommendations (MEDIUM)](../../../recs/pen-tablet-recs-medium.md)
 
+## Official resources
+
+* [Product page](https://www.xp-pen.com/product/deco-01-v3.html)
+* [Store page](https://www.xp-pen.com/store/buy/deco-01-v3.html)
+* [User manual](https://www.xp-pen.com/user-manual/deco-01-v3.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -13,9 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DECO01V3 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.deco01v3) |  |
-| XP-Pen | [Product page](https://www.xp-pen.com/product/deco-01-v3.html) |  |
-| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/deco-01-v3.html) |  |
-| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/deco-01-v3.html) |  |
 | Brad Colbow | [The Cheapest Drawing Tablet That I Recommend - XP Pen Deco 1 v3](https://www.youtube.com/watch?v=2-TKwccrvuE) | 2026-04-30 |
 | David Revoy | [XpPen Deco 01V3 - review on GNU/Linux](https://www.youtube.com/watch?v=trXxX3ZY5FM) | 2025-03-05 |
 | David Revoy | [XpPen Deco 01V3 - review on GNU/Linux](https://www.davidrevoy.com/article1066/xppen-deco-01v3-review-on-gnulinux) | 2025-03-04 |

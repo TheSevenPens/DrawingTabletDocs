@@ -1,12 +1,17 @@
-"""Generate the standard "## Links" section for a catalog notes page from DrawTabData's Model.Links.
+"""Generate the standard "## Official resources" and "## Links" sections for a catalog notes page from DrawTabData's
+Model.Links.
 
-The first row always links each model's DrawTabData Explorer page, which is where the page's specs live.
+"## Official resources" is a bulleted list of the manufacturer's own links (product page, store page, user manual), so
+they are easy to find. "## Links" is a table whose first row always links each model's DrawTabData Explorer page, which
+is where the page's specs live, followed by reviews.
 
 Usage (from the repo root):
   python .agents/skills/explorer-links-section/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--after <heading>] [--write]
 
-Without --write, prints the section. With --write, replaces the page's existing "## Links" section (up to the next
-"## " heading), or inserts it after the section named by --after (default: Overview).
+Without --write, prints the sections. With --write, replaces the page's existing "## Links" section (up to the next
+"## " heading), or inserts it after the section named by --after (default: Overview). "## Official resources" goes near
+the top: after the page's first section, or before it when that is "## Links" or "## Other links". An existing
+"## Official resources" section is replaced. A page with no manufacturer links gets no Official resources section.
 
 Data comes from a local DrawTabData checkout: $DRAWTABDATA_DIR if set, otherwise a DrawTabData clone or the
 data-repo submodule of a DrawTabDataExplorer clone next to this repo.
@@ -73,6 +78,16 @@ def which(models, tablets):
     return '' if len(tablets) == 1 or len(models) == len(tablets) else f" ({', '.join(models)})"
 
 
+def official(entity_ids, page=''):
+    """The "## Official resources" section: the manufacturer's links as bullets, or '' when there are none."""
+    tablets = [TABLETS[e] for e in entity_ids]
+    bullets = []
+    for type_, label in MANUFACTURER:
+        for url, (link, models) in collect(tablets, {type_}, page).items():
+            bullets.append(f'* [{cell(label)}]({url}){which(models, tablets)}')
+    return '\n'.join(['## Official resources', ''] + bullets) + '\n' if bullets else ''
+
+
 def section(entity_ids, family_id=None, page=''):
     tablets = [TABLETS[e] for e in entity_ids]
     family_id = family_id or tablets[0]['Model'].get('Family')
@@ -84,9 +99,6 @@ def section(entity_ids, family_id=None, page=''):
 
     explorer = ', '.join(f'[{cell(t["Model"]["Id"])} specs]({EXPLORER}{e})' for e, t in zip(entity_ids, tablets))
     maker = [f'| DrawTabData Explorer | {explorer} |  |']
-    for type_, label in MANUFACTURER:
-        for url, (link, models) in collect(tablets, {type_}, page).items():
-            maker.append(row(link.get('Author') or '', label, url, link.get('PublishDate'), models))
     reviews = list(collect(tablets, {'REVIEW'}, page).items())
     reviews.sort(key=lambda kv: kv[1][0].get('PublishDate') or '', reverse=True)
     lines = []
@@ -94,22 +106,37 @@ def section(entity_ids, family_id=None, page=''):
         author = link.get('Author') or ''
         title = link.get('Title') or (f'Review by {author}' if author else 'Review')
         lines.append(row(author, title, url, link.get('PublishDate'), models))
-    # one table: the Explorer, then the manufacturer's links, then reviews newest first
+    # one table: the Explorer, then reviews newest first (the manufacturer's links are in Official resources)
     parts += ['| Source | Link | Date |', '| --- | --- | --- |'] + maker + lines + ['']
     return '\n'.join(parts).rstrip('\n') + '\n'
 
 
-def write(page, text, after='Overview'):
+def section_re(heading):
+    return r'^## ' + re.escape(heading) + r'\s*$.*?(?=^## |\Z)'
+
+
+def write(page, text, resources='', after='Overview'):
     crlf = b'\r\n' in open(page, 'rb').read()  # keep the file's existing line endings
     src = open(page, encoding='utf-8').read()
-    m = re.search(r'^## Links\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
+    src = re.sub(section_re('Official resources'), '', src, flags=re.M | re.S)
+    m = re.search(section_re('Links'), src, flags=re.M | re.S)
     if m:
         new = src[:m.start()] + text + '\n' + src[m.end():]
     else:
-        m = re.search(r'^## ' + re.escape(after) + r'\s*$.*?(?=^## |\Z)', src, flags=re.M | re.S)
+        m = re.search(section_re(after), src, flags=re.M | re.S)
         if not m:
             sys.exit(f'No "## Links" section to replace and no "## {after}" section to insert after')
         new = src[:m.end()].rstrip('\n') + '\n\n' + text + '\n' + src[m.end():]
+    if resources:
+        # near the top: after the first section, or before it when it is a links section
+        heads = list(re.finditer(r'^## .*$', new, flags=re.M))
+        if not heads:
+            at = len(new)
+        elif re.match(r'^## (Links|Other links)\s*$', heads[0].group(0)):
+            at = heads[0].start()
+        else:
+            at = heads[1].start() if len(heads) > 1 else len(new)
+        new = new[:at] + resources + '\n' + new[at:]
     open(page, 'w', encoding='utf-8', newline='\r\n' if crlf else '\n').write(new)
 
 
@@ -125,8 +152,9 @@ if __name__ == '__main__':
         i = args.index('--after'); after = args[i + 1]; del args[i:i + 2]
     page, ids = args[0], args[1:]
     text = section(ids, fam, page)
+    resources = official(ids, page)
     if do_write:
-        write(page, text, after)
+        write(page, text, resources, after)
         print('wrote', page)
     else:
-        print(text)
+        print(resources + '\n' + text if resources else text)

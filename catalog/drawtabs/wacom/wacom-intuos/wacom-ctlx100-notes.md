@@ -8,6 +8,17 @@ These are **VERY GOOD** pen tablets from Wacom and still highly competitive with
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-2.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos#Specifications)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-s-black-us-ctl4100.html) (CTL-4100)
+* [Store page](https://estore.wacom.com/en-US/tablets/wacom-intuos-s-bluetooth-black-us-ctl4100wlk0.html) (CTL-4100WL)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-m-bluetooth-black-us-ctl6100wlk0.html) (CTL-6100WL)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html) (CTL-4100)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100wl.html) (CTL-4100WL)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100.html) (CTL-6100)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html) (CTL-6100WL)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2018). To add or fix a link, change it in DrawTabData.
@@ -15,14 +26,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [CTL-4100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100), [CTL-4100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl), [CTL-6100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100), [CTL-6100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos#Specifications) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-intuos-s-black-us-ctl4100.html) (CTL-4100) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-US/tablets/wacom-intuos-s-bluetooth-black-us-ctl4100wlk0.html) (CTL-4100WL) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-intuos-m-bluetooth-black-us-ctl6100wlk0.html) (CTL-6100WL) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html) (CTL-4100) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100wl.html) (CTL-4100WL) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100.html) (CTL-6100) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html) (CTL-6100WL) |  |
 | Brad Colbow | [Wacom Intuos Small / Medium (2018) Review](https://www.youtube.com/watch?v=H-ZYte_UOVM) | 2018-03-26 |
 | Aaron Rutten | [INTUOS Small & Medium - Wacom Drawing Tablet for Beginners (Review) ✏️](https://www.youtube.com/watch?v=WLclWCHmrjg) | 2018-03-21 |
 

@@ -4,6 +4,10 @@
 
 The Cintiq Pro 32 Touch was released around 2018. It still is an amazing drawing device, given its age and size. It is actually as good as anything else on the market in 2026. It has an excellent drawing experience driven by the included Pro Pen 2, model number KP504E, and an absolutely gigantic screen.
 
+## Official resources
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
@@ -11,7 +15,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTH-3220 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth3220) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-3220.html) |  |
 | Seven Pens | [Cintiq Pro 32 (DTH-3220 ) Live testing and Q&A](https://www.youtube.com/watch?v=hUFB9kBYy4E) | 2026-08-01 |
 | The Art of Aaron Blaise | [Wacom Cintiq Pro 32 Unboxing](https://www.youtube.com/watch?v=HLHda7w_ttY) | 2019-01-24 |
 | Aaron Rutten | [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) | 2018-12-13 |

@@ -15,6 +15,11 @@ The Kamvas 13 GEN3 (GS1333) is a very good 13-inch tablet. I recommend it. It is
 * If you want to connect via USB-C, you need to buy that cable separately
 * Some units have a known issue with the dials. See [Dial problems with the Huion GS1333 and GS1563](dial-problems-gs1333-gs1563.md)
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/kamvas-13-gen-3)
+* [Store page](https://store.huion.com/products/kamvas-13-gen-3)
+
 ## Video
 
 {% embed url="https://www.youtube.com/watch?v=5QG6NfIFSjU" %}
@@ -30,8 +35,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [GS1333 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1333) |  |
-| Huion | [Product page](https://www.huion.com/products/kamvas-13-gen-3) |  |
-| Huion | [Store page](https://store.huion.com/products/kamvas-13-gen-3) |  |
 | EyekooDrawsStuff | [Kamvas 13 Gen 3 review - HUION's best beginner display tablet](https://www.youtube.com/watch?v=Ie39Mbsvc8s) | 2025-01-21 |
 | Gartzia Artz | [¡LA MEJOR TABLETA GRÁFICA BARATA de 2024! Review Kamvas 13 Gen3](https://www.youtube.com/watch?v=F0E7Ttq79n4) | 2024-11-28 |
 | Seven Pens | [Notes on Huion Kamvas 13 GEN3 (GS1333)](https://www.youtube.com/watch?v=5QG6NfIFSjU) | 2024-11-08 |

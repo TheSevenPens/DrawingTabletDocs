@@ -4,6 +4,11 @@
 
 * Note that this model (MDP1221) is the 2025 edition of the Magic Drawing Pad.
 
+## Official resources
+
+* [Product page](https://www.xp-pen.com/product/standalone-magic-drawing-pad.html)
+* [Store page](https://www.xp-pen.com/store/buy/magic-drawing-pad.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -11,8 +16,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [MDP1221 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |  |
-| XP-Pen | [Product page](https://www.xp-pen.com/product/standalone-magic-drawing-pad.html) |  |
-| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/magic-drawing-pad.html) |  |
 | Teoh on Tech | [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) | 2025-08-26 |
 | Teoh on Tech | [XPPen Magic Drawing Pad 2025 review: New features, new pen](https://www.youtube.com/watch?v=VivJ6R7Cmwg) | 2025-08-14 |
 | Parka Blogs | [Artist Review: XPPen Magic Drawing Pad (2025 update)](https://www.parkablogs.com/content/xppen-magic-drawing-pad-2025-update) | 2025-07-27 |

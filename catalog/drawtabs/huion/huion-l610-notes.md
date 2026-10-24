@@ -10,6 +10,12 @@ This is a great entry-level tablet. It does all the basics extremely well.
 * The pen it came with had a very wide pressure range. This range is very good. Pen IAF was typical of Huion, meaning slightly higher than Wacom's pro pens.
 * <mark style="color:red;">**See the known issues section at the bottom.**</mark> Some users have reported a problem with air bubbles appearing under the surface.
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/inspiroy-frego-m)
+* [Store page](https://store.huion.com/products/inspiroy-frego-m)
+* [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroyfrego). To add or fix a link, change it in DrawTabData.
@@ -17,9 +23,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [L610 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |  |
-| Huion | [Product page](https://www.huion.com/products/inspiroy-frego-m) |  |
-| Huion | [Store page](https://store.huion.com/products/inspiroy-frego-m) |  |
-| Huion | [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html) |  |
 | Seven Pens | [Notes on Huion Frego M (L610)](https://www.youtube.com/watch?v=3-Cl9_xKKKE) | 2024-10-11 |
 | Teoh on Tech | [Review: Huion Inspiroy Frego pen tablet - Works great with Android, iPad, iOS](https://www.youtube.com/watch?v=W5vTPouuQtM) | 2024-09-13 |
 | Create Now Sleep Later | [Best Graphics Tablet for Artists in 2024? Huion Inspiroy Frego Review](https://www.youtube.com/watch?v=OpVhKZVFusQ) | 2024-09-01 |

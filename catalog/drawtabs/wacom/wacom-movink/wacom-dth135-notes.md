@@ -9,6 +9,14 @@
 
 An easy recommendation if you need what it offers.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
+* [Store page](https://estore.wacom.com/en-us/wacom-movink-dth135k0a.html)
+* [User manual](https://101.wacom.com/userhelp/en/toc/dth135.html)
+* [Product information](https://www.youtube.com/watch?v=VANNNQkPvfg)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html)
+
 ## Basics
 
 ### Weight
@@ -46,11 +54,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTH-135 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-movink) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-movink-dth135k0a.html) |  |
-| Wacom | [User manual](https://101.wacom.com/userhelp/en/toc/dth135.html) |  |
-| Wacom | [Product information](https://www.youtube.com/watch?v=VANNNQkPvfg) |  |
-| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH135TOC.html) |  |
 | Seven Pens | [Wacom Movink (DTH-135) testing and Q&A stream](https://www.youtube.com/watch?v=tB3LvEDvqaE) | 2025-03-17 |
 | Teoh on Tech | [Wacom Movink 13.3-inch OLED pen display FULL REVIEW](https://www.youtube.com/watch?v=ifWwffBQ8VQ) | 2024-11-15 |
 | Parka Blogs | [Review: Wacom Movink 13.3-inch OLED touchscreen pen display](https://www.parkablogs.com/content/wacom-movink-oled-touchscreen-pen-display) | 2024-11-12 |

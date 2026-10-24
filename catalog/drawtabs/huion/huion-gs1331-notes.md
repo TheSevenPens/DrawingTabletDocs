@@ -6,6 +6,12 @@ A decent, slightly older pen display. I highly recommend getting the Kamvas 13 G
 
 Another budget alternative is the XP-Pen Artist 13 GEN2.
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/kamvas-13)
+* [Store page](https://store.huion.com/products/kamvas-13)
+* [User manual](https://www.huion.com/manual/kamvas-13)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
@@ -13,9 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [GS1331 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1331) |  |
-| Huion | [Product page](https://www.huion.com/products/kamvas-13) |  |
-| Huion | [Store page](https://store.huion.com/products/kamvas-13) |  |
-| Huion | [User manual](https://www.huion.com/manual/kamvas-13) |  |
 | Teoh on Tech | [Huion Kamvas 13 Drawing Performance](https://www.youtube.com/watch?v=LZqJ6snjWTc) | 2020-07-07 |
 | Teoh on Tech | [Review: Huion Kamvas 13 Pen Display (Just $239)](https://www.youtube.com/watch?v=yn1eJFsrFnY) | 2020-05-01 |
 | Create Now Sleep Later | [Huion Kamvas 13 Review: Huion beats Wacom?](https://youtu.be/rgaqRLhct0A) | 2020-04-17 |

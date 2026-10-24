@@ -4,6 +4,11 @@
 
 I do not have this tablet, but people still ask about it. So, I created this page to collect answers to common questions about the tablet.
 
+## Official resources
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) (DTK-2420)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) (DTH-2420)
+
 ## Is this tablet worth getting?
 
 This is one of the most beloved Wacom pen displays. The fundamental handling of pressure, tilt, and responsiveness is just as good on this pen display as it is on Wacom pen display models from 2025.
@@ -26,8 +31,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTK-2420 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420), [DTH-2420 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) (DTK-2420) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) (DTH-2420) |  |
 | Aaron Rutten | [Wacom CINTIQ PRO 24 & 32 Review (In-Depth)](https://www.youtube.com/watch?v=lvSeRhrUcCY) | 2018-12-13 |
 | Brad Colbow | [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=BjzYm_o9qXw) | 2018-11-05 |
 | MobileTechReview | [Wacom Cintiq Pro 24 Review](https://www.youtube.com/watch?v=YVCFkutFwvE) | 2018-10-09 |

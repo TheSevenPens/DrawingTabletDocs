@@ -8,6 +8,16 @@ This is an EXCELLENT tablet, but may not be the right one for you if:
 * You need multi-touch support
 * You are already happy with an Intuos Pro 2017 model
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) (PTK-470)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) (PTK-670)
+* [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) (PTK-870)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) (PTK-470)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) (PTK-670)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) (PTK-870)
+
 ## Companion video
 
 If you would rather watch, use this video: [https://www.youtube.com/watch?v=Q2rH32pBpq0](https://www.youtube.com/watch?v=Q2rH32pBpq0)
@@ -50,13 +60,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source       | Link                                                                                                                      | Date       |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | DrawTabData Explorer | [PTK-470 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470), [PTK-670 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670), [PTK-870 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870) |  |
-| Wacom        | [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)                                         |            |
-| Wacom        | [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) (PTK-470)                            |            |
-| Wacom        | [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) (PTK-670)                           |            |
-| Wacom        | [Store page](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) (PTK-870)                            |            |
-| Wacom        | [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) (PTK-470)                                                |            |
-| Wacom        | [User manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) (PTK-670)                                                 |            |
-| Wacom        | [User manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) (PTK-870)                                                |            |
 | JEEJON 技冏    | [Wacom Intuos pro 2025 review & comparison](https://www.youtube.com/watch?v=ZfB2MXQgAZc)                                  | 2025-11-03 |
 | Aaron Rutten | [Unboxing the Wacom Intuos Pro 2025 - First Impressions](https://www.youtube.com/watch?v=Abegz9US7Lg)                     | 2025-07-13 |
 | Seven Pens   | [Wacom Intuos Pro Large and Small: Unboxing and Q\&A](https://www.youtube.com/watch?v=A9Rk_BdMR50) (PTK-470, PTK-870)     | 2025-05-24 |

@@ -1,5 +1,10 @@
 # XP-Pen Artist Pro 27 GEN2 (MD270UH)
 
+## Official resources
+
+* [Product page](https://www.xp-pen.com/product/artist-pro-27-gen-2.html)
+* [Store page](https://www.xp-pen.com/store/buy/artist-pro-27-gen2.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -7,8 +12,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [MD270UH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md270uh) |  |
-| XP-Pen | [Product page](https://www.xp-pen.com/product/artist-pro-27-gen-2.html) |  |
-| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/artist-pro-27-gen2.html) |  |
 | David Revoy | [XpPen Artist Pro 27 Gen2 - review on GNU/Linux](https://www.youtube.com/watch?v=Vq0hs7LeZtg) | 2026-07-24 |
 | David Revoy | [XpPen Artist Pro 27 Gen2 - review on GNU/Linux](https://www.davidrevoy.com/article1161/xppen-artist-pro-27-gen2-review-on-gnulinux) | 2026-07-24 |
 | Parka Blogs | [XPPen Artist Pro 27 (gen 2)](https://www.parkablogs.com/content/xppen-artist-pro-27-gen-2-4k-touchscreen-pen-display) | 2026-03-20 |

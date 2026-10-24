@@ -6,6 +6,11 @@ An EXCELLENT pen display.
 
 Although there are newer Cintiq Pro models from 2022 and 2023, the Cintiq Pro 16 from 2021 competes with them strongly. Wacom may have improved the new models' support for color or added support for higher refresh rates, but they did not improve on the already great drawing experience of this tablet.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-16#Specifications)
+* [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH167.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro). To add or fix a link, change it in DrawTabData.
@@ -13,8 +18,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTH-167 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth167) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-16#Specifications) |  |
-| Wacom | [User manual](https://101.wacom.com/UserHelp/en/TOC/DTH167.html) |  |
 | Gartzia Artz | [¡¡LA TABLETA MÁS PREMIUM!! CINTIQ 16 PRO ¡Sigue mejorando! / Comparativa modelo de 2021 vs 2017](https://www.youtube.com/watch?v=jdjgIdu7Gik) | 2023-04-30 |
 | Brad Colbow | [Wacom Cintiq Pro 16 Review](https://www.youtube.com/watch?v=0B8cNzyO4bs) |  |
 | MobileTechReview | [Wacom Cintiq Pro 16 Gen 2 (2021) Review](https://www.youtube.com/watch?v=IU-QOOB2AsU) |  |

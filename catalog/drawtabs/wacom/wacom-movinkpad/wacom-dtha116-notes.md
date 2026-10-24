@@ -4,6 +4,14 @@
 
 These here are some of my initial thoughts on this device.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
+* [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-11-dtha116cl0z.html)
+* [Product information](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11)
+* [Product information](https://support.wacom.com/hc/en-us/articles/33515643760151-What-is-the-supported-optional-accessories-can-be-use-on-Wacom-MovinkPad-11)
+* [Product information](https://www.wacom.com/en-us/getting-started/wacom-movinkpad-11)
+
 ## As a general Android tablet
 
 I think of the MovinkPad 11 as a drawing tablet first. It runs a customized version of Android, which occasionally causes compatibility problems with some apps - for example, Teoh on Tech found that apps that need a Meta login don't quite work on it. In many cases it works fine for general use, but it is not the best choice if that is what you mostly want it for.
@@ -17,11 +25,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTH-A116 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-11) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-11-dtha116cl0z.html) |  |
-| Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11) |  |
-| Wacom | [Product information](https://support.wacom.com/hc/en-us/articles/33515643760151-What-is-the-supported-optional-accessories-can-be-use-on-Wacom-MovinkPad-11) |  |
-| Wacom | [Product information](https://www.wacom.com/en-us/getting-started/wacom-movinkpad-11) |  |
 | Brad Colbow | [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) | 2026-05-08 |
 | Teoh on Tech | [Note taking on the Wacom MovinkPad 11](https://www.youtube.com/watch?v=SY2cBbGFpCE) | 2025-09-09 |
 | Teoh on Tech | [Wacom MovinkPad 11 with other EMR pens](https://www.youtube.com/watch?v=CmspIjH5XgE) | 2025-09-03 |

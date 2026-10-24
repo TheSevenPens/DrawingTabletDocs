@@ -6,6 +6,12 @@ A decent standalone tablet comparable to the Samsung Galaxy Tab S9FE.
 
 My unit exhibited strong "pulsing" in tilt.
 
+## Official resources
+
+* [Product page](https://www.xp-pen.com/product/magic-note-pad.html)
+* [Store page](https://www.xp-pen.com/store/buy/magic-note-pad.html)
+* [User manual](https://www.xp-pen.com/user-manual/magic-note-pad-1095.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -13,9 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [MNP1095 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mnp1095) |  |
-| XP-Pen | [Product page](https://www.xp-pen.com/product/magic-note-pad.html) |  |
-| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/magic-note-pad.html) |  |
-| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/magic-note-pad-1095.html) |  |
 | Teoh on Tech | [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) | 2025-08-26 |
 | Gartzia Artz | [¿El mejor "EBook" que existe? Review a fondo XP Pen Magic Note Pad](https://www.youtube.com/watch?v=o9KLfVRGwLY) | 2025-04-17 |
 | Teoh on Tech | [Note taking and JNotes review with XPPEN MAGIC NOTE PAD](https://www.youtube.com/watch?v=NBQVDfx1WtA) | 2025-03-26 |
