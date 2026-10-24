@@ -4,18 +4,18 @@
 
 A worthy successor to the Kamvas 22 (GS2201) and Kamvas 22 Plus (GS2202) models from 2020. Like the other Huion GEN3 pen displays, the primary improvement comes from the included PW600L. Another surprising addition is support for up to a 90Hz refresh rate. The cabling is also simpler than on the GS2201 and GS2202.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GS2203 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203)
 * [Product page](https://www.huion.com/products/kamvas-22-gen-3)
 * [Store page](https://store.huion.com/products/kamvas-22-gen-3)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvasgen3). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GS2203 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs2203) |  |
 | Seven Pens | [Unboxing & Testing: Huion Kamvas 22 GEN3 (GS2203)](https://www.youtube.com/watch?v=r70dDzgDd8U) | 2026-03-08 |
 | Brad Colbow | [Huion Kamvas 22 (Gen 3) Review](https://www.youtube.com/watch?v=OkoLPFYgiRU) | 2026-03-05 |
 | Gartzia Artz | [HUION HA VUELTO \| Kamvas 22 gen 3 La nueva Reina Calidad / Precio grande](https://www.youtube.com/watch?v=2mSJLNawCO4) | 2026-03-03 |

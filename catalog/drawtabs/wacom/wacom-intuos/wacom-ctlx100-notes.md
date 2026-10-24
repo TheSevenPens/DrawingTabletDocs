@@ -8,8 +8,9 @@ These are **VERY GOOD** pen tablets from Wacom and still highly competitive with
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx100-notes-2.jpg" alt="" width="563"><figcaption><p>CTL-6100WL</p></figcaption></figure>
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [CTL-4100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100), [CTL-4100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl), [CTL-6100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100), [CTL-6100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl)
 * [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos#Specifications)
 * [Store page](https://estore.wacom.com/en-us/wacom-intuos-s-black-us-ctl4100.html) (CTL-4100)
 * [Store page](https://estore.wacom.com/en-US/tablets/wacom-intuos-s-bluetooth-black-us-ctl4100wlk0.html) (CTL-4100WL)
@@ -19,13 +20,12 @@ These are **VERY GOOD** pen tablets from Wacom and still highly competitive with
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100.html) (CTL-6100)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html) (CTL-6100WL)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2018). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2018). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [CTL-4100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100), [CTL-4100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl), [CTL-6100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100), [CTL-6100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl) |  |
 | Brad Colbow | [Wacom Intuos Small / Medium (2018) Review](https://www.youtube.com/watch?v=H-ZYte_UOVM) | 2018-03-26 |
 | Aaron Rutten | [INTUOS Small & Medium - Wacom Drawing Tablet for Beginners (Review) ✏️](https://www.youtube.com/watch?v=WLclWCHmrjg) | 2018-03-21 |
 

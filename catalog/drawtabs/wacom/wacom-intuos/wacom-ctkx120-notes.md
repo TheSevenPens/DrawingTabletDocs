@@ -13,6 +13,10 @@ There are two models:
 * Intuos 2026 Small (CTK-4120)
 * Intuos 2026 Medium (CTK-6120)
 
+## Core links
+
+* DrawTabData Explorer: [CTK-4120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120), [CTK-6120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120)
+
 ## Key changes from the CTL-x100 series
 
 * Supports the new Lite Pen (ACP-502)
@@ -21,12 +25,6 @@ There are two models:
 * 300 Hz report rate
 * a 16:9 active area
 * USB-C port (older models suppored micro-USB)&#x20;
-
-## Links
-
-| Source | Link | Date |
-| --- | --- | --- |
-| DrawTabData Explorer | [CTK-4120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120), [CTK-6120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120) |  |
 
 ## Notes on specs
 

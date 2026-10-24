@@ -6,18 +6,18 @@
 * Drawing experience is pretty typical for this generation of Huion's products - works very well.
 * DO get the PW550 pen and use it instead of the PW517 pen that comes with this tablet.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GS1562 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562)
 * [Product page](https://www.huion.com/products/kamvas-16-2021)
 * [Store page](https://store.huion.com/products/kamvas-16-2021)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_kamvas_2020). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GS1562 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gs1562) |  |
 | Teoh on Tech | [Huion Kamvas 16 (2021): Laminated Display, Pen Performance, Cursor Tracking](https://www.youtube.com/watch?v=h0puxdOcvQU) | 2021-03-31 |
 | Teoh on Tech | [Review: Huion Kamvas 16 (2021) pen display](https://www.youtube.com/watch?v=xymOF8FXgO0) | 2020-12-22 |
 | Brad Colbow | [Huion Kamvas 16 (2021) Review](https://www.youtube.com/watch?v=k4SDAIAnSjg) | 2020-12-01 |

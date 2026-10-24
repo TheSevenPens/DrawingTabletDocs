@@ -8,13 +8,9 @@ This tablet was sold under different names and with different packaging and artw
 * Bamboo Splash
 * Bamboo Connect
 
-## Links
+## Core links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_bamboo_2011). To add or fix a link, change it in DrawTabData.
-
-| Source | Link | Date |
-| --- | --- | --- |
-| DrawTabData Explorer | [CTL-470 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl470) |  |
+* DrawTabData Explorer: [CTL-470 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl470)
 
 ## Photos
 

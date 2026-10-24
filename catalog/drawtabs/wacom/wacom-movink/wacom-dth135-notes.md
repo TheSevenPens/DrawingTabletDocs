@@ -9,8 +9,9 @@
 
 An easy recommendation if you need what it offers.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTH-135 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135)
 * [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-movink)
 * [Store page](https://estore.wacom.com/en-us/wacom-movink-dth135k0a.html)
 * [User manual](https://101.wacom.com/userhelp/en/toc/dth135.html)
@@ -45,19 +46,16 @@ It weighs less than any of the these Intuos Pro pen tablets:
 
 ## Other links
 
-* [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024-04-24
-
-## Links
-
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movink_2024). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movink_2024). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTH-135 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth135) |  |
 | Seven Pens | [Wacom Movink (DTH-135) testing and Q&A stream](https://www.youtube.com/watch?v=tB3LvEDvqaE) | 2025-03-17 |
 | Teoh on Tech | [Wacom Movink 13.3-inch OLED pen display FULL REVIEW](https://www.youtube.com/watch?v=ifWwffBQ8VQ) | 2024-11-15 |
 | Parka Blogs | [Review: Wacom Movink 13.3-inch OLED touchscreen pen display](https://www.parkablogs.com/content/wacom-movink-oled-touchscreen-pen-display) | 2024-11-12 |
 | Brad Colbow | [Wacom Movink 13 Review](https://www.youtube.com/watch?v=Y3ASJNcFinI) | 2024-05-16 |
+
+* [Wacom - Wacom Movink OLED pen display unboxing and setup Android ](https://www.youtube.com/watch?v=c_NEKl4MXX0)2024-04-24
 
 ## Notes on specs
 

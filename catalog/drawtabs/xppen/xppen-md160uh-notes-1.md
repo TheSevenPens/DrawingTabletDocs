@@ -4,8 +4,11 @@
 
 I do not have this tablet. This page collects information that we know so far.
 
-## Links
+## Core links
 
 * DrawTabData Explorer: [MD140QH specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.md140qh)
+
+## Other links
+
 * [Brad Colbow - XP Pen Artist Ultra 14 Review](https://www.youtube.com/watch?v=NAY6vOO-EEE) 2026/09/01
 * [Teoh on Tech - XPPEN Artist Ultra 14 OLED touchscreen pen display (review)](https://www.youtube.com/watch?v=GqmO-CekbWI) 2026/08/18

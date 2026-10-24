@@ -10,19 +10,19 @@ If you get it, then it will work fine. But you should consider the newer Huion p
 
 <figure><img src="../../../.gitbook/assets/huion-hs611-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [HS611 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611)
 * [Product page](https://www.huion.com/products/hs611)
 * [Store page](https://store.huion.com/products/huion-hs611)
 * [User manual](https://www.huion.com/manual/hs611)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [HS611 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.hs611) |  |
 | Teoh on Tech | [Review: Huion HS611 drawing tablet (10 x 6", tilt, Android)](https://www.youtube.com/watch?v=1RcUCSL5azU) | 2021-02-14 |
 | Nemanja Sekulic | [Huion HS611 Drawing Tablet review \| All you need?](https://www.youtube.com/watch?v=WEXXbXDrd-Y) | 2020-04-28 |
 | Brad Colbow | [Huion HS611 Review](https://www.youtube.com/watch?v=IHV7LsbxqsU) | 2020-03-23 |

@@ -4,8 +4,9 @@
 
 This is an OK pen display that provides a consumer-level drawing experience in terms of pressure handling. The key limitation is that the pens that work with this tablet require more force to draw with than pens from Wacom's professional tablet series. That is typical of the Wacom One pen display series. Some people will be totally fine with these tablets, but I think there are better choices for the money.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTC-121 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121), [DTH-134 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134)
 * [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
 * [User manual](https://101.wacom.com/userhelp/en/toc/dtc121.html) (DTC-121)
 * [User manual](https://101.wacom.com/userhelp/en/toc/dth134.html) (DTH-134)
@@ -17,13 +18,12 @@ This is an OK pen display that provides a consumer-level drawing experience in t
   * Wacom One 12 (2023) [DTC-121](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121)
   * Wacom One 13 (2023) [DTH-134](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTC-121 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121), [DTH-134 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |  |
 | EyekooDrawsStuff | [Wacom One 13 Touch – a digital painter's review](https://drawyourweapon.com/tablet-review-wacom-one-13-touch/) (DTH-134) | 2024-01-19 |
 | Gartzia Artz | [Muy Buena PEEERO... La tableta gráfica TÁCTIL más BARATA \| Review Wacom One 13 Touch](https://www.youtube.com/watch?v=8GdVv-XHxto) (DTH-134) | 2023-10-14 |
 | Brad Colbow | [Wacom One 13 Touch Review](https://www.youtube.com/watch?v=VXtQvhrV6WY) (DTH-134) | 2023-09-25 |
@@ -31,6 +31,9 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Aaron Rutten | [Wacom One 12 & 13 Touch (2023) - Review](https://www.youtube.com/watch?v=X_FrZGl0lYM) | 2023-09-18 |
 | Brad Colbow | [Wacom One 12" Pen Display Review](https://www.youtube.com/watch?v=SBlliNcRKNw) (DTC-121) | 2023-08-18 |
 | Tom's Guide | [Wacom One 13 touch review](https://www.tomsguide.com/reviews/wacom-one-13-touch) (DTH-134) | 2023-08-10 |
+
+* [Android Police review of Wacom One](https://www.androidpolice.com/wacom-one-m-review/) 2024-04-26
+* [Aaron Rutten review of Wacom One Small & Medium](https://www.youtube.com/watch?v=w7QLQFOK_eU) 2023-09-15
 
 ## Notes on specs
 
@@ -44,11 +47,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 * Besides the CP-923, these tablets are compatible with the older CP-913, which you might prefer. They are also compatible with some other third-party pens.
   * r/wacom - [Summary of pens, including double-button pens, available for Wacom One pen displays](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/) 2020-12-26
   * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
-
-## Other links
-
-* [Android Police review of Wacom One](https://www.androidpolice.com/wacom-one-m-review/) 2024-04-26
-* [Aaron Rutten review of Wacom One Small & Medium](https://www.youtube.com/watch?v=w7QLQFOK_eU) 2023-09-15
 
 ## Drawing experience
 

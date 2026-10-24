@@ -4,8 +4,9 @@
 
 The One by Wacom series of pen tablets (CTL-672 and CTL-472) are very good tablets. I highly recommend them for beginners. They are very reliable, have a good drawing experience, and let you explore drawing tablets without spending too much.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [CTL-472 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472), [CTL-672 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672)
 * [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications)
 * [User manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) (CTL-472)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) (CTL-672)
@@ -37,14 +38,6 @@ There is NOT a modern Wacom tablet that is a direct successor to this tablet. Of
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-1.jpg" alt=""><figcaption><p>CTL-672 front</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/wacom-ctlx72-notes-2.jpg" alt=""><figcaption><p>CTL-672 back</p></figcaption></figure>
-
-## Links
-
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_onebywacom_2019). To add or fix a link, change it in DrawTabData.
-
-| Source | Link | Date |
-| --- | --- | --- |
-| DrawTabData Explorer | [CTL-472 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472), [CTL-672 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672) |  |
 
 ## Notes on specs
 

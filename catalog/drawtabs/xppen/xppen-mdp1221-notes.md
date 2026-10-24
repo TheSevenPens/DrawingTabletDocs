@@ -4,25 +4,23 @@
 
 * Note that this model (MDP1221) is the 2025 edition of the Magic Drawing Pad.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [MDP1221 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221)
 * [Product page](https://www.xp-pen.com/product/standalone-magic-drawing-pad.html)
 * [Store page](https://www.xp-pen.com/store/buy/magic-drawing-pad.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [MDP1221 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1221) |  |
 | Teoh on Tech | [XPPen Magic Drawing Pad vs Magic Note Pad](https://www.youtube.com/watch?v=bGotT7ciMhA) | 2025-08-26 |
 | Teoh on Tech | [XPPen Magic Drawing Pad 2025 review: New features, new pen](https://www.youtube.com/watch?v=VivJ6R7Cmwg) | 2025-08-14 |
 | Parka Blogs | [Artist Review: XPPen Magic Drawing Pad (2025 update)](https://www.parkablogs.com/content/xppen-magic-drawing-pad-2025-update) | 2025-07-27 |
 | Seven Pens | [XP-Pen Magic Drawing Pad GEN2 Unboxing and Testing](https://www.youtube.com/watch?v=ixB873qU9mU) | 2025-07-18 |
 | Michael Clarida | [XPPen Magic drawing pad upgraded version 2025 review by a professional artist](https://www.youtube.com/watch?v=I0pPUT5WoLY) | 2025-07-09 |
-
-## Other links
 
 * [XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](xppen-mdp1221-notes.md) 2025-12-05
 

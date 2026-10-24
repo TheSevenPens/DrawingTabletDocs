@@ -4,8 +4,9 @@
 
 These here are some of my initial thoughts on this device.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTH-A116 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116)
 * [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-11)
 * [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-11-dtha116cl0z.html)
 * [Product information](https://support.wacom.com/hc/en-us/articles/33513200455703-What-Pens-are-compatible-with-the-Wacom-MovinkPad-11)
@@ -18,13 +19,12 @@ I think of the MovinkPad 11 as a drawing tablet first. It runs a customized vers
 
 Android updates: in October 2026 it got its first Android OS update, from Android 14 to Android 16. Wacom has not published a roadmap for any further updates.
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTH-A116 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha116) |  |
 | Brad Colbow | [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) | 2026-05-08 |
 | Teoh on Tech | [Note taking on the Wacom MovinkPad 11](https://www.youtube.com/watch?v=SY2cBbGFpCE) | 2025-09-09 |
 | Teoh on Tech | [Wacom MovinkPad 11 with other EMR pens](https://www.youtube.com/watch?v=CmspIjH5XgE) | 2025-09-03 |

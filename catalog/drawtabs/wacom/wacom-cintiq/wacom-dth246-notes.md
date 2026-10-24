@@ -10,19 +10,19 @@ Its only limitation is that it is not 4K and is instead 2.5K (2560x1440), which 
 
 While not inexpensive it is a fantastic value for getting something with such a great drawing experience at this price.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTH-246 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246)
 * [Product page](https://www.wacom.com/en-us/products/wacom-cintiq)
 * [Store page](https://estore.wacom.com/en-us/wacom-cintiq-24-touch-dth246k0a.html)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH246.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTH-246 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth246) |  |
 | Brad Colbow | [Wacom Cintiq 24 Touch Review](https://www.youtube.com/watch?v=0mXPOLiSNv0) | 2025-07-28 |
 | Aaron Rutten | [2025 Wacom Cintiq 24 Touch (Review)](https://www.youtube.com/watch?v=Oo4m5EgCSWE) | 2025-07-01 |
 | Seven Pens | [New Wacom Cintiq 24 Touch (2025) unboxing and testing](https://www.youtube.com/watch?v=Lm-5X-gFtuw) | 2025-06-25 |

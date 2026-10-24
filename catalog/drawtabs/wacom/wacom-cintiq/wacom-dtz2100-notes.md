@@ -4,13 +4,16 @@
 
 NOTE: A second-generation 21UX model (DTK-2100) was released in 2010.
 
-## Links
+## Core links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
+* DrawTabData Explorer: [DTZ-2100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100)
+
+## Other links
+
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTZ-2100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtz2100) |  |
 | Seven Pens | [My first pen display: Cintiq 21UX 2005 (DTZ-2100)](https://www.youtube.com/watch?v=i-FUIJMcxn4) | 2026-03-07 |
 
 ## My experience in 2007

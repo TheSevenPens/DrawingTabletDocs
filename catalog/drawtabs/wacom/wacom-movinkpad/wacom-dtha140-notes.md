@@ -46,18 +46,18 @@ I hope the next generation of this tablet incorporates these features:
 * [Adam Duff - Wacom MovinkPad Pro 14 - Secret Settings / Accessories / Setup Guide](https://www.youtube.com/watch?v=xAZpMpdyWes) 2026-03-05
 * [Seven Pens - Budget Android Drawing Tablet Recommendations for 2025](https://www.youtube.com/watch?v=NK2_dIGQKk8) - 2025-09-25. Although this video is about budget Android tablets, much of what it says is relevant for the MovinkPad Pro 14/<br>
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTH-A140 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140)
 * [Product page](https://www.wacom.com/en-us/products/wacom-movinkpad-pro-14)
 * [Store page](https://estore.wacom.com/en-us/wacom-movinkpad-pro-14-dtha140l0z.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTH-A140 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtha140) |  |
 | Teoh on Tech | [Wacom MovinkPad Pro 14 vs iPad Pro 13: Which I prefer months later](https://www.youtube.com/watch?v=7eGfzl42bCM) | 2026-06-06 |
 | Brad Colbow | [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) | 2026-05-08 |
 | Teoh on Tech | [M4 iPad Air vs MovinkPad Pro 14: Which is better for artists?](https://www.youtube.com/watch?v=6thKViZAo2g) | 2026-03-18 |

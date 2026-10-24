@@ -10,23 +10,26 @@ This is a great entry-level tablet. It does all the basics extremely well.
 * The pen it came with had a very wide pressure range. This range is very good. Pen IAF was typical of Huion, meaning slightly higher than Wacom's pro pens.
 * <mark style="color:red;">**See the known issues section at the bottom.**</mark> Some users have reported a problem with air bubbles appearing under the surface.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [L610 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610)
 * [Product page](https://www.huion.com/products/inspiroy-frego-m)
 * [Store page](https://store.huion.com/products/inspiroy-frego-m)
 * [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroyfrego). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroyfrego). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [L610 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.l610) |  |
 | Seven Pens | [Notes on Huion Frego M (L610)](https://www.youtube.com/watch?v=3-Cl9_xKKKE) | 2024-10-11 |
 | Teoh on Tech | [Review: Huion Inspiroy Frego pen tablet - Works great with Android, iPad, iOS](https://www.youtube.com/watch?v=W5vTPouuQtM) | 2024-09-13 |
 | Create Now Sleep Later | [Best Graphics Tablet for Artists in 2024? Huion Inspiroy Frego Review](https://www.youtube.com/watch?v=OpVhKZVFusQ) | 2024-09-01 |
 | Parka Blogs | [Review: Huion Inspiroy Frego pen tablet](https://www.parkablogs.com/content/huion-inspiroy-frego-drawing-pen-tablet) | 2024-08-23 |
+
+* Product pages
+  * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-S.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)
 
 ## Notes on specs
 
@@ -40,11 +43,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 ## Companion video
 
 {% embed url="https://www.youtube.com/watch?v=3-Cl9_xKKKE" %}
-
-## Other links
-
-* Product pages
-  * [https://www.huion.com/products/pen\_tablet/Inspiroy/Inspiroy-Frego-S.html](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)
 
 ## Basics
 

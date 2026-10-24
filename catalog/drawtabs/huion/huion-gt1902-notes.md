@@ -6,8 +6,9 @@ I do recommend this tablet. The drawing experience is the best Huion's ever had.
 
 Is it as good as a Wacom Cintiq Pro? No. But it is VERY GOOD overall with only a few limitations and minor issues you should be aware of.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [GT1902 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902)
 * [Product page](https://www.huion.com/products/kamvas-pro-19)
 * [Store page](https://store.huion.com/products/kamvas-pro-19)
 * [Product information](https://support.huion.com/en/support/solutions/articles/44002011098-list-of-compatible-devices-support-usb-c-to-usb-c-connection-with-huion-displays)
@@ -18,13 +19,12 @@ This companion video covers many but not all of the topics described in these no
 
 {% embed url="https://youtu.be/CnTBrhUhciM" %}
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [GT1902 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.gt1902) |  |
 | EyekooDrawsStuff | [Huion goes for gold - Kamvas Pro 19 Drawing Tablet Review](https://www.youtube.com/watch?v=Hf01mwaGtdI) | 2025-09-13 |
 | Trent Kaniuga | [The HUION KAMVAS PRO 19 is...  VERY IMPRESSIVE!](https://www.youtube.com/watch?v=znKvWJON_k8) | 2024-12-16 |
 | David Revoy | [Huion Kamvas Pro 19 - review](https://www.youtube.com/watch?v=M9VbiVJX-J4) | 2024-11-21 |

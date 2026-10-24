@@ -4,19 +4,19 @@
 
 This solid but dated beginner tablet - and it is somewhat overpriced for what it is. If you can get it used for $150 it, then that is a good deal.
 
-## Official resources
+## Core links
 
+* DrawTabData Explorer: [DTC-133 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133)
 * [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1)
 * [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
 * [Product information](https://www.wacom.com/en-us/comp)
 
-## Links
+## Other links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). To add or fix a link, change it in DrawTabData.
+The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). To add or fix a link, change it in DrawTabData.
 
 | Source | Link | Date |
 | --- | --- | --- |
-| DrawTabData Explorer | [DTC-133 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |  |
 | Aaron Rutten | [Wacom One 13 Touch - 1st Gen. VS 2nd Gen. (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) | 2023-09-19 |
 | Teoh on Tech | [Wacom One vs iPad](https://www.youtube.com/watch?v=FLHf2G8CxEQ) | 2020-02-14 |
 | Teoh on Tech | [Review: Wacom One 13.3" Pen Display](https://www.youtube.com/watch?v=Hv2dpHkLAOE) | 2020-02-13 |
@@ -24,6 +24,10 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Brad Colbow | [REVIEW: The Wacom One](https://www.youtube.com/watch?v=EFvpOWZDGUU) | 2020-01-27 |
 | Create Now Sleep Later | [Wacom One Pen Display \| Good as Cintiq?](https://youtu.be/VPbAUF7AZhA) | 2020-01-20 |
 | Aaron Rutten | [WACOM ONE 1st Gen. - Review](https://www.youtube.com/watch?v=D4DFFH-hPr8) | 2020-01-16 |
+
+### Newer versions
+
+In 2023, Wacom released two updated pen display versions in the Wacom One 2023 series. See: [Wacom One 2023 pen displays notes](wacom-one-2023-pen-displays-notes.md).
 
 ## Notes on specs
 
@@ -36,12 +40,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
   * r/wacom - [Summary of pens (including double button pens) available for wacom one pen displa](https://www.reddit.com/r/wacom/comments/kkfip3/summary_of_pens_including_double_button_pens/)y 2020-12-26
   * [Teoh on Tech - Wacom One pen vs other EMR pens](https://www.youtube.com/watch?v=rCXvaMhW3xI) 2023-09-07
   * [**r/wacom - What pens are compatible with the Wacom One?**](https://www.reddit.com/r/wacom/comments/s3go3g/what_pens_are_compatible_with_the_wacom_one/) 2022-01-13
-
-## Other links
-
-### Newer versions
-
-In 2023, Wacom released two updated pen display versions in the Wacom One 2023 series. See: [Wacom One 2023 pen displays notes](wacom-one-2023-pen-displays-notes.md).
 
 ## Device
 

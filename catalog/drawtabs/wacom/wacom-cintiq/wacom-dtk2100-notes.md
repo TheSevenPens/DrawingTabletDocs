@@ -4,13 +4,9 @@
 
 NOTE: This is a second generation of the Cintiq 21 UX (DTZ-2100) that was released in 2005. [Wacom Cintiq 21UX 2005 (DTZ-2100) notes](wacom-dtz2100-notes.md).
 
-## Links
+## Core links
 
-These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
-
-| Source | Link | Date |
-| --- | --- | --- |
-| DrawTabData Explorer | [DTK-2100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100) |  |
+* DrawTabData Explorer: [DTK-2100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2100)
 
 ## Connections and cabling
 
