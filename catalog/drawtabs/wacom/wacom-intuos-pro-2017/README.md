@@ -15,7 +15,7 @@ description: PTH-x60 series
 
 ## Models
 
-<table><thead><tr><th width="191.45458984375">Model number</th><th>Name</th></tr></thead><tbody><tr><td>PTH-460</td><td>Intuos Pro 2017 SMALL</td></tr><tr><td>PTH-660</td><td>Intuos Pro 2017 MEDIUM</td></tr><tr><td>PTH-860</td><td>Intuos Pro 2017 LARGE</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="191.45458984375">Model number</th><th>Name</th></tr></thead><tbody><tr><td>PTH-460</td><td>Intuos Pro 2017 SMALL</td></tr><tr><td>PTH-660</td><td>Intuos Pro 2017 MEDIUM</td></tr><tr><td>PTH-860</td><td>Intuos Pro 2017 LARGE</td></tr></tbody></table>
 
 ## Photos
 

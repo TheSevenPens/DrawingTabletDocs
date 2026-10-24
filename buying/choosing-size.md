@@ -25,7 +25,7 @@ Here are some good examples of why:
 * The XP-Pen Deco L is much closer in size to a Wacom Intuos Pro Medium than to the Intuos Pro Large.
 * The Inspiroy 2 L falls somewhere between medium and large.
 
-<table><thead><tr><th>Tablet and manufacturer</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong><br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td>11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong></p><p>(PTH-860)</p></td><td>LARGE</td><td>12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th>Tablet and manufacturer</th><th>My size category</th><th width="141">Active area</th><th>Diagonal</th></tr></thead><tbody><tr><td>Wacom Intuos Pro <strong>Medium</strong><br>(PTH-660)</td><td>MEDIUM</td><td>8.7"x5.8"</td><td>10.5"</td></tr><tr><td>XP-Pen Deco <strong>L</strong></td><td>MEDIUM</td><td>10"x6"</td><td>11.5"</td></tr><tr><td>Inspiroy 2 <strong>L</strong></td><td>MEDIUM<br>(high end of medium)</td><td>10.5"x6.56"</td><td>12.38"</td></tr><tr><td><p>Wacom Intuos Pro <strong>Large</strong></p><p>(PTH-860)</p></td><td>LARGE</td><td>12.1"x8.4"</td><td>14.7"</td></tr></tbody></table>
 
 ## Considerations
 

@@ -21,7 +21,7 @@ For how the two editions differ, see [Wacom Intuos Pro 2025 vs Intuos Pro 2017](
 
 There are three models in this edition.
 
-<table><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td><a href="https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860">PTH-860</a></td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td><a href="https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660">PTH-660</a></td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td><a href="https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460">PTH-460</a></td><td>2019</td><td>Intuos Pro Small (2019)</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="131">Model ID</th><th width="90.39344262295083">Year</th><th width="279">Name</th></tr></thead><tbody><tr><td><a href="https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth860">PTH-860</a></td><td>2017</td><td>Intuos Pro Large (2017)</td></tr><tr><td><a href="https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth660">PTH-660</a></td><td>2017</td><td>Intuos Pro Medium (2017)</td></tr><tr><td><a href="https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth460">PTH-460</a></td><td>2019</td><td>Intuos Pro Small (2019)</td></tr></tbody></table>
 
 The Intuos Pro Small (PTH-460) was actually released in 2019 instead of 2017. It is still considered part of the Intuos Pro (2017) series.
 

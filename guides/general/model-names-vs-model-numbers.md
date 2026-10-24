@@ -49,7 +49,7 @@ Between the PTH-x60 and PTH-x51, there are differences in:
 * which pen they come with
 * which pens they are compatible with
 
-<table><thead><tr><th width="196">Name</th><th width="153">Model ID</th><th width="120">Year</th></tr></thead><tbody><tr><td>Intuos Pro Large</td><td>PTH-860</td><td>2017</td></tr><tr><td>Intuos Pro Large</td><td>PTH-851</td><td>2013</td></tr><tr><td>Intuos Pro Medium</td><td>PTH-660</td><td>2017</td></tr><tr><td>Intuos Pro Medium</td><td>PTH-651</td><td>2013</td></tr><tr><td>Intuos Pro Small</td><td>PTH-460</td><td>2019</td></tr><tr><td>Intuos Pro Small</td><td>PTH-451</td><td>2013</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="196">Name</th><th width="153">Model ID</th><th width="120">Year</th></tr></thead><tbody><tr><td>Intuos Pro Large</td><td>PTH-860</td><td>2017</td></tr><tr><td>Intuos Pro Large</td><td>PTH-851</td><td>2013</td></tr><tr><td>Intuos Pro Medium</td><td>PTH-660</td><td>2017</td></tr><tr><td>Intuos Pro Medium</td><td>PTH-651</td><td>2013</td></tr><tr><td>Intuos Pro Small</td><td>PTH-460</td><td>2019</td></tr><tr><td>Intuos Pro Small</td><td>PTH-451</td><td>2013</td></tr></tbody></table>
 
 ## Similar names used across different brands
 

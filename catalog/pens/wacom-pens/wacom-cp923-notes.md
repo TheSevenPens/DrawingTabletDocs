@@ -91,4 +91,4 @@ I tested three units of the CP-923, and it works with the DTC-133.
 
 ## Max Pressure
 
-<table><thead><tr><th width="124">BRAND</th><th width="121">PEN</th><th width="110">INVENTORY</th><th width="123">PHYSICAL</th><th width="120">LOGICAL</th></tr></thead><tbody><tr><td>WACOM</td><td>CP-923</td><td>WA0009</td><td>285.1gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0010</td><td>219.4gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0011</td><td>267.4gf</td><td>99.90%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="124">BRAND</th><th width="121">PEN</th><th width="110">INVENTORY</th><th width="123">PHYSICAL</th><th width="120">LOGICAL</th></tr></thead><tbody><tr><td>WACOM</td><td>CP-923</td><td>WA0009</td><td>285.1gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0010</td><td>219.4gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0011</td><td>267.4gf</td><td>99.90%</td></tr></tbody></table>

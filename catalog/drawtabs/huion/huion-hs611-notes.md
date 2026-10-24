@@ -38,7 +38,7 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 
 This is a MEDIUM-sized tablet, with a diagonal length about 1.5" larger than a Wacom Intuos Pro Medium.
 
-<table><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.82 x 5.83”</td><td>10.57”</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="268">Tablet</th><th width="134">Dimensions</th><th>Diagonal Length</th></tr></thead><tbody><tr><td><strong>Huion Inspiroy HS611</strong></td><td>10.17 x 6.36"</td><td>12"</td></tr><tr><td><p>Wacom Intuos Pro Medium</p><p>(PTH-660):</p></td><td>8.82 x 5.83”</td><td>10.57”</td></tr></tbody></table>
 
 ## **Build quality & design**
 

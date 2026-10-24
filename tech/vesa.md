@@ -20,7 +20,7 @@ VESA support usually means there are 4 holes in a rectangular pattern on the bac
 
 The hole patterns are usually specified by the distance between the screws. For example, `100 x 100 mm`. These patterns also have names such as `FDMI MIS-D`, but almost nobody uses them.
 
-<table><thead><tr><th width="187">VESA Standard</th><th>Hole Pattern</th><th>Screw Size</th></tr></thead><tbody><tr><td>FDMI MIS-B</td><td>50 x 20 mm</td><td>M4 x 6 mm</td></tr><tr><td>FDMI MIS-C</td><td>75 x 35 mm</td><td>M4 x 8 mm</td></tr><tr><td>FDMI MIS-D</td><td>75 x 75 or 100 x 100 mm</td><td>M4 x 10 mm</td></tr><tr><td>FDMI MIS-E</td><td>200 x 100 mm</td><td>M4 x 10 mm</td></tr><tr><td>FDMI MIS-F</td><td>200 mm increments</td><td><p>M6 x 8 mm or 10 mm</p><p>M8 x 15 mm</p></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="187">VESA Standard</th><th>Hole Pattern</th><th>Screw Size</th></tr></thead><tbody><tr><td>FDMI MIS-B</td><td>50 x 20 mm</td><td>M4 x 6 mm</td></tr><tr><td>FDMI MIS-C</td><td>75 x 35 mm</td><td>M4 x 8 mm</td></tr><tr><td>FDMI MIS-D</td><td>75 x 75 or 100 x 100 mm</td><td>M4 x 10 mm</td></tr><tr><td>FDMI MIS-E</td><td>200 x 100 mm</td><td>M4 x 10 mm</td></tr><tr><td>FDMI MIS-F</td><td>200 mm increments</td><td><p>M6 x 8 mm or 10 mm</p><p>M8 x 15 mm</p></td></tr></tbody></table>
 
 For pen displays, the most common pattern is `100 x 100 mm`.
 
