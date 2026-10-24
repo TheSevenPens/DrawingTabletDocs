@@ -25,15 +25,40 @@ For the buttons on the tablet itself, see [Configure tablet buttons with OpenTab
 
 ## What is supported on each platform
 
-| Setting                                                | Windows (Windows Ink)                                                                                                                                                                  | macOS                                                                                                |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Adaptive Binding** (the default)                     | <p>Works. <br><br>Big Limitation on Windows: Performs some "default" button action and every button on the button on the pen that is set to Adaptive binding does the same action.</p> | <p>Works. </p><p>Button 1 is a right-click, Button 2 is a middle-click<br>Button 3 does nothing.</p> |
-| **Keyboard shortcut** (Key Binding, Multi-Key Binding) | Works.                                                                                                                                                                                 | <p>Works. <br><br>Needs the Accessibility permission from the install steps.</p>                     |
-| **Mouse Button Binding**                               | Does not work.                                                                                                                                                                         | Works.                                                                                               |
-| **Mouse Scroll Binding**                               | Does not work.                                                                                                                                                                         | Works.                                                                                               |
-| **Windows Ink binding** (eraser on a button)           | Available.                                                                                                                                                                             | N/A                                                                                                  |
-| **Clear** (button does nothing)                        | Works.                                                                                                                                                                                 | Works.                                                                                               |
-| **Tip and eraser**                                     | Leave on Adaptive Binding.                                                                                                                                                             | Leave on Adaptive Binding.                                                                           |
+### Adaptive Binding (the default)
+
+* **Windows (Windows Ink):** Works. But there is a big limitation on Windows: it performs a "default" button action, and every button on the pen that is set to Adaptive Binding does that same action.
+* **macOS:** Works. Button 1 is a right-click, Button 2 is a middle-click, and Button 3 does nothing.
+
+### Keyboard shortcut (Key Binding, Multi-Key Binding)
+
+* **Windows (Windows Ink):** Works.
+* **macOS:** Works. Needs the Accessibility permission from the install steps.
+
+### Mouse Button Binding
+
+* **Windows (Windows Ink):** Does not work.
+* **macOS:** Works.
+
+### Mouse Scroll Binding
+
+* **Windows (Windows Ink):** Does not work.
+* **macOS:** Works.
+
+### Windows Ink binding (eraser on a button)
+
+* **Windows (Windows Ink):** Available.
+* **macOS:** Not applicable.
+
+### Clear (button does nothing)
+
+* **Windows (Windows Ink):** Works.
+* **macOS:** Works.
+
+### Tip and eraser
+
+* **Windows (Windows Ink):** Leave on Adaptive Binding.
+* **macOS:** Leave on Adaptive Binding.
 
 ## Settings location
 
