@@ -4,6 +4,10 @@
 
 Released in 2004, the PTZ-1230 is the last of Wacom's pen tablets with a square aspect ratio.
 
+## Official resources
+
+* [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos3/User%27s%20Manual.pdf)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos3_2004). To add or fix a link, change it in DrawTabData.
@@ -11,7 +15,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [PTZ-1230 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptz1230) |  |
-| Wacom | [User manual](https://cdn.wacom.com/u/productsupport/manuals/Intuos3/User%27s%20Manual.pdf) |  |
 
 ## Pairing it with a Monitor
 

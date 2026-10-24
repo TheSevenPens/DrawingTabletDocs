@@ -6,6 +6,12 @@ Wacom released three new Cintiq 2025 models in mid 2025. One of them is the Waco
 
 This is an EXCELLENT tablet with an excellent drawing experience and a very good display. It does miss some "Cintiq Pro" features, but it has the same great drawing experience when it comes to pressure, tilt, and related behavior.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/wacom-cintiq)
+* [Store page](https://estore.wacom.com/en-us/wacom-cintiq-16-dtk168k0a.html)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK168.html)
+
 ## Compared to the Cintiq 16 2019 (DTK-1660)
 
 Summary: The Cintiq 16 2025 is a significant upgrade in many ways
@@ -26,9 +32,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTK-168 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk168) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/wacom-cintiq) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-cintiq-16-dtk168k0a.html) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK168.html) |  |
 | Seven Pens | [Wacom Cintiq 16 (2025) Unboxing and Testing](https://www.youtube.com/watch?v=en2RYaJoms4) | 2025-07-05 |
 | Brad Colbow | [2025 Wacom Cintiq 16 Review](https://www.youtube.com/watch?v=QQsKS17j0BQ) | 2025-07-02 |
 

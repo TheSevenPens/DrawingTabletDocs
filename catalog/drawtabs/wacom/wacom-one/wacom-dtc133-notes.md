@@ -4,6 +4,12 @@
 
 This solid but dated beginner tablet - and it is somewhat overpriced for what it is. If you can get it used for $150 it, then that is a good deal.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1)
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html)
+* [Product information](https://www.wacom.com/en-us/comp)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen1). To add or fix a link, change it in DrawTabData.
@@ -11,9 +17,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTC-133 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc133) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-gen1) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTC133.html) |  |
-| Wacom | [Product information](https://www.wacom.com/en-us/comp) |  |
 | Aaron Rutten | [Wacom One 13 Touch - 1st Gen. VS 2nd Gen. (2023) - Comparison](https://www.youtube.com/watch?v=lQGeqT6YA7Y) | 2023-09-19 |
 | Teoh on Tech | [Wacom One vs iPad](https://www.youtube.com/watch?v=FLHf2G8CxEQ) | 2020-02-14 |
 | Teoh on Tech | [Review: Wacom One 13.3" Pen Display](https://www.youtube.com/watch?v=Hv2dpHkLAOE) | 2020-02-13 |

@@ -4,6 +4,13 @@
 
 A fine tablet for drawing! And it makes an excellent choice for beginners. And is a great non-Wacom choice. It has a reasonable cost, has available wireless support, has a good pen, and has buttons. It's one of my top recommendations for a beginner pen tablet.
 
+## Official resources
+
+* [Product page](https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html)
+* [User manual](https://www.xp-pen.com/user-manual/deco-lw.html) (IT1060B)
+* [User manual](https://www.xp-pen.com/user-manual/deco-l.html) (IT1060)
+* [Product information](https://www.xp-pen.com/download/deco-lw.html) (IT1060B)
+
 ## Basics
 
 There are two versions of this tablet. They are exactly the same tablet but differ in connectivity
@@ -18,10 +25,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [IT1060B specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b), [IT1060 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060) |  |
-| XP-Pen | [Product page](https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html) |  |
-| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/deco-lw.html) (IT1060B) |  |
-| XP-Pen | [User manual](https://www.xp-pen.com/user-manual/deco-l.html) (IT1060) |  |
-| XP-Pen | [Product information](https://www.xp-pen.com/download/deco-lw.html) (IT1060B) |  |
 | Teoh on Tech | [Review: XP-Pen Deco LW pen tablet (Bluetooth)](https://www.youtube.com/watch?v=ohKeCxLL2a0) (IT1060B) | 2022-02-19 |
 | Brad Colbow | [Testing the XP-Pen Deco LW Drawing Tablet](https://www.youtube.com/watch?v=0VaH-UTRL7A) (IT1060B) | 2022-02-16 |
 | Parka Blogs | [Review: XP-Pen Deco LW pen tablet (Bluetooth)](https://www.parkablogs.com/content/review-xp-pen-deco-lw-pen-tablet-bluetooth) |  |

@@ -7,6 +7,12 @@ Overall good performance.
 * The pens don't have the super low IAF that you see in Wacom professional pens but most will be fine with the 3gf IAF they do offer.
 * Some moderate AG sparkle is visible - if you are sensitive to that then this tablert may not be the right choice
 
+## Official resources
+
+* [Product page](https://www.xencelabs.com/us/products/pen-display-16-lite)
+* [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-16)
+* [Product information](https://www.xencelabs.com/us/products/pen-display-16)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). To add or fix a link, change it in DrawTabData.
@@ -14,9 +20,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [LPH1612U-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph1612ua) |  |
-| Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-display-16-lite) |  |
-| Xencelabs | [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-16) |  |
-| Xencelabs | [Product information](https://www.xencelabs.com/us/products/pen-display-16) |  |
 | Gartzia Artz | [Review Xencelabs 16 Lite VS Artist 16 Ultra ¿La Mejor Tableta Gráfica OLED?](https://www.youtube.com/watch?v=CbW03mQvygA) | 2025-11-28 |
 | Teoh on Tech | [Xencelabs Pen Display 16 (review): One of the Best](https://www.youtube.com/watch?v=0bNPRIWaFDM) | 2024-12-04 |
 | Grant Abbitt | [Xencelabs PD16 - Review & Comparison](https://www.youtube.com/watch?v=zGkTjf5HoB4) | 2024-08-07 |

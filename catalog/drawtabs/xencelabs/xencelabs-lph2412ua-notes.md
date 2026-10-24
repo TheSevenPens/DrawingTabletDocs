@@ -6,6 +6,11 @@ This overall is a very good tablet. It design and demonstrates a lot of thoughtf
 
 The one place this tablet struggles compared to other pen displays is with line wobble that show up in strokes at all angles. This wobble can be addressed with some additional position smoothing settings in a painting application.
 
+## Official resources
+
+* [Product page](https://www.xencelabs.com/us/products/pen-display)
+* [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tabletfamily.xencelabs_pendisplay). To add or fix a link, change it in DrawTabData.
@@ -13,8 +18,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [LPH2412U-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xencelabs.tablet.lph2412ua) |  |
-| Xencelabs | [Product page](https://www.xencelabs.com/us/products/pen-display) |  |
-| Xencelabs | [Store page](https://www.xencelabs.com/us/store/pen-display/xencelabs-pen-display-24) |  |
 | MobileTechReview | [Xencelabs Pen Display 24 Review](https://www.youtube.com/watch?v=o6R07naf2es) | 2024-03-19 |
 | Grant Abbitt | [Is the Xencelabs Pen Display 24" a Serious Challenger to the Wacom Cintiq Pro](https://www.youtube.com/watch?v=Woe0_XSUtLE) | 2023-09-14 |
 | Brad Colbow | [Xencelabs Pen Display 24 Review](https://youtu.be/sr76rKKO4iQ) | 2023-06-04 |

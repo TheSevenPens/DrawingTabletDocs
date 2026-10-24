@@ -12,6 +12,14 @@ In 2025, a firmware update improved the pressure handling, but not enough. More 
 The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 tablets.
 {% endhint %}
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
+* [Store page](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) (CTC-4110WL)
+* [Store page](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) (CTC-6110WL)
+* [User manual](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html) (CTC-4110WL)
+* [User manual](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html) (CTC-6110WL)
+
 ## **Basics**
 
 ### Models
@@ -26,11 +34,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [CTC-4110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl), [CTC-6110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) (CTC-4110WL) |  |
-| Wacom | [Store page](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) (CTC-6110WL) |  |
-| Wacom | [User manual](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html) (CTC-4110WL) |  |
-| Wacom | [User manual](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html) (CTC-6110WL) |  |
 | Seven Pens | [Pressure Improvements for Wacom One 2023 pen tablets (firmware update 1.7.0.0)](https://www.youtube.com/watch?v=_A6hmEay-xs) | 2025-02-23 |
 | Android Police | [Wacom One M review](https://www.androidpolice.com/wacom-one-m-review/) (CTC-6110WL) | 2024-04-26 |
 | Aaron Rutten | [Wacom One Small & Medium 2023 - Drawing Tablet for Beginners (Review)](https://www.youtube.com/watch?v=w7QLQFOK_eU) | 2023-09-15 |

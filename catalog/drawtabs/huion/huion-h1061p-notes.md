@@ -6,6 +6,12 @@ I tested this tablet for about a week and have periodically drawn with it since 
 
 I think it is a decent choice, but as of 2025 I hope Huion ships an upgrade that uses PenTech 4.0 with the PW600 pen which should give a very good drawing experience.
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/inspiroy-2-l)
+* [Store page](https://store.huion.com/products/inspiroy-2-l)
+* [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tabletfamily.huion_inspiroy2). To add or fix a link, change it in DrawTabData.
@@ -13,9 +19,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [H1061P specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.h1061p) |  |
-| Huion | [Product page](https://www.huion.com/products/inspiroy-2-l) |  |
-| Huion | [Store page](https://store.huion.com/products/inspiroy-2-l) |  |
-| Huion | [Product information](https://www.huion.com/products/pen_tablet/Inspiroy/H1061P.html) |  |
 | Create Now Sleep Later | [Huion Inspiroy 2 Series Pen Tablet Review: Is it Worth it?](https://youtu.be/L6mgOluUApE) | 2023-04-24 |
 | Gartzia Artz | [¡HUION INSPIROY 2 L y M Las tabletas gráficas BARATAS más PREMIUM!! SE HAN SUPERADO](https://www.youtube.com/watch?v=55bgWDoC-Ks) | 2023-02-24 |
 | Teoh on Tech | [Review: Huion Inspiroy 2 pen tablet - Works great. Good price.](https://youtu.be/mgDDBJf96U8) | 2023-02-15 |

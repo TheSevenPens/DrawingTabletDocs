@@ -4,6 +4,11 @@
 
 <figure><img src="../../../.gitbook/assets/huion-wh1409v2-notes-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/inspiroy-wh1409-v2)
+* [Store page](https://store.huion.com/products/inspiroy-wh1409-v2)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -11,5 +16,3 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [WH1409V2 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.wh1409v2) |  |
-| Huion | [Product page](https://www.huion.com/products/inspiroy-wh1409-v2) |  |
-| Huion | [Store page](https://store.huion.com/products/inspiroy-wh1409-v2) |  |

@@ -4,6 +4,12 @@
 
 Introduced in 2022, the Giano G930L is a fantastic value. It's quite nice for drawing and I enjoy the extra size.
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/inspiroy-giano)
+* [Store page](https://store.huion.com/products/inspiroy-giano)
+* [User manual](https://www.huion.com/manual/inspiroy-giano)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -11,9 +17,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [G930L specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.g930l) |  |
-| Huion | [Product page](https://www.huion.com/products/inspiroy-giano) |  |
-| Huion | [Store page](https://store.huion.com/products/inspiroy-giano) |  |
-| Huion | [User manual](https://www.huion.com/manual/inspiroy-giano) |  |
 | SweetMonia | [Huion Inspiroy Giano graphics tablet Review:- a large drawing area for your heart content](https://sweetmonia.com/Sweet-Drawing-Blog/huion-inspiroy-giano-graphics-tablet-review-a-large-drawing-area-for-your-heart-content/) | 2024-03-14 |
 | EyekooDrawsStuff | [Reviewing Huion's HUGE Inspiroy Giano for digital drawing and painting](https://www.youtube.com/watch?v=43dZC0j0T1k) | 2023-05-26 |
 | Anna Sok | [IT'S HUGE! Huion Inspiroy Giano Review and Painting on Mac, PC, Android //graphic tablet for PROS](https://www.youtube.com/watch?v=03auOS8lgAE) | 2022-10-04 |

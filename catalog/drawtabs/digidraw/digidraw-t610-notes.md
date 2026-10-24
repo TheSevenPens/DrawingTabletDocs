@@ -6,6 +6,10 @@ Overall, it makes for a very good basic tablet. That's not surprising. The table
 
 This brand is very new so this is a very good start for them. As always with new brands, we have to see how the devices and customer support and community adoption works in the long term.
 
+## Official resources
+
+* [Product page](https://www.digidraw.com/en/product/T610T410)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tabletfamily.digidraw_turingbasic). To add or fix a link, change it in DrawTabData.
@@ -13,7 +17,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source     | Link                                                                                                                             | Date |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | DrawTabData Explorer | [T610 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/digidraw.tablet.t610) |  |
-| DigiDraw   | [Product page](https://www.digidraw.com/en/product/T610T410)                                                                     |      |
 | Seven Pens | [Tablets & Chill: 2026-04-22 - DigiDraw Turing Basic M unboxing and testing + Q\&A](https://www.youtube.com/watch?v=YSzg_U_3Rn0) |      |
 
 ## Notes on specs

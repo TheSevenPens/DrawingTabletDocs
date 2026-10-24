@@ -1,5 +1,10 @@
 # Huion Kamvas Pad 12 (KP1202)
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/kamvas-pad-12)
+* [Store page](https://store.huion.com/products/kamvas-pad-12)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -7,8 +12,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [KP1202 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.kp1202) |  |
-| Huion | [Product page](https://www.huion.com/products/kamvas-pad-12) |  |
-| Huion | [Store page](https://store.huion.com/products/kamvas-pad-12) |  |
 | Gartzia Artz | [La tableta que Huion debió sacar hace 3 años \| Kamvas Pad 12](https://www.youtube.com/watch?v=OnEQSgQ2PCM) | 2026-09-30 |
 | Brad Colbow | [Huion Kamvas Pad 12 Review](https://www.youtube.com/watch?v=3URKxRcZ-Gk) | 2026-09-08 |
 | Adam Duff | [Huion Kamvas Pad 12 (Budget Standalone Android Drawing Tablet)](https://www.youtube.com/watch?v=I6MxWzDY_LY) | 2026-09-08 |

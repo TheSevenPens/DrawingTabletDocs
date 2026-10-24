@@ -4,6 +4,13 @@
 
 This is an OK pen display that provides a consumer-level drawing experience in terms of pressure handling. The key limitation is that the pens that work with this tablet require more force to draw with than pens from Wacom's professional tablet series. That is typical of the Wacom One pen display series. Some people will be totally fine with these tablets, but I think there are better choices for the money.
 
+## Official resources
+
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
+* [User manual](https://101.wacom.com/userhelp/en/toc/dtc121.html) (DTC-121)
+* [User manual](https://101.wacom.com/userhelp/en/toc/dth134.html) (DTH-134)
+* [Product information](https://www.wacom.com/en-us/comp)
+
 ## Basics
 
 * Models
@@ -17,10 +24,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTC-121 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtc121), [DTH-134 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth134) |  |
-| Wacom | [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet) |  |
-| Wacom | [User manual](https://101.wacom.com/userhelp/en/toc/dtc121.html) (DTC-121) |  |
-| Wacom | [User manual](https://101.wacom.com/userhelp/en/toc/dth134.html) (DTH-134) |  |
-| Wacom | [Product information](https://www.wacom.com/en-us/comp) |  |
 | EyekooDrawsStuff | [Wacom One 13 Touch – a digital painter's review](https://drawyourweapon.com/tablet-review-wacom-one-13-touch/) (DTH-134) | 2024-01-19 |
 | Gartzia Artz | [Muy Buena PEEERO... La tableta gráfica TÁCTIL más BARATA \| Review Wacom One 13 Touch](https://www.youtube.com/watch?v=8GdVv-XHxto) (DTH-134) | 2023-10-14 |
 | Brad Colbow | [Wacom One 13 Touch Review](https://www.youtube.com/watch?v=VXtQvhrV6WY) (DTH-134) | 2023-09-25 |

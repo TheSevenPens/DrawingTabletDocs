@@ -4,6 +4,11 @@
 
 I used this tablet from 2023-07-26 to 2023-11-01 and have been very happy with it.
 
+## Official resources
+
+* [Product page](https://www.xp-pen.com/product/deco-pro-gen-2-series.html)
+* [Store page](https://www.xp-pen.com/store/buy/deco-pro-gen2.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_decoprogen2). To add or fix a link, change it in DrawTabData.
@@ -11,8 +16,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [MT1592B specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mt1592b) |  |
-| XP-Pen | [Product page](https://www.xp-pen.com/product/deco-pro-gen-2-series.html) |  |
-| XP-Pen | [Store page](https://www.xp-pen.com/store/buy/deco-pro-gen2.html) |  |
 | EyekooDrawsStuff | [XPPEN's Deco Pro Gen 2 Review - their pro screenless tablet evolves](https://www.youtube.com/watch?v=itnwkJVlWiw) | 2024-11-29 |
 | YRH | [XP-Pen Deco Pro XLW Gen 2 first impressions on Ubuntu 22.04](https://krita-artists.org/t/xp-pen-deco-pro-xlw-gen-2-first-impressions-on-ubuntu-22-04/84085) | 2024-02-08 |
 | Gartzia Artz | [El tamaño Importa LA TABLETA MÁS GRANDE \| Review XP Pen Deco Pro XLW Gen 2](https://www.youtube.com/watch?v=6jN0uwM9FME) | 2023-12-01 |

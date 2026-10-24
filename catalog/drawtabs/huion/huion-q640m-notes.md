@@ -14,6 +14,11 @@
 * The ony way you can tell which version is that the V2 is the model name on the back of the tablet.
 * Design is very nice - good looking tablet
 
+## Official resources
+
+* [Product page](https://www.huion.com/products/inspiroy-dial-2-v2)
+* [Store page](https://store.huion.com/products/inspiroy-dial-2-v2)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/). To add or fix a link, change it in DrawTabData.
@@ -21,8 +26,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [Q640M specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/huion.tablet.q640m) |  |
-| Huion | [Product page](https://www.huion.com/products/inspiroy-dial-2-v2) |  |
-| Huion | [Store page](https://store.huion.com/products/inspiroy-dial-2-v2) |  |
 | Seven Pens | [Huion Dial 2 V2 unboxing and testing](https://www.youtube.com/watch?v=flGAjQkXULw) | 2026-09-15 |
 
 ## Notes on specs

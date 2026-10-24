@@ -6,6 +6,10 @@ As of July 2024, although released in 2019, the Wacom Cintiq 22 continues to del
 
 I bought mine used from eBay for $380 and was very satisfied.
 
+## Official resources
+
+* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html)
+
 ## Links
 
 These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiq). To add or fix a link, change it in DrawTabData.
@@ -13,7 +17,6 @@ These links come from the [DrawTabData Explorer](https://thesevenpens.github.io/
 | Source | Link | Date |
 | --- | --- | --- |
 | DrawTabData Explorer | [DTK-2260 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2260) |  |
-| Wacom | [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2260.html) |  |
 | Ross Draws | [Wacom Cintiq 22 Review + Painting Test!](https://www.youtube.com/watch?v=02kg7Oxxd20) | 2019-08-23 |
 | MobileTechReview | [Wacom Cintiq 22 Review](https://www.youtube.com/watch?v=03XtX5Gg76g) | 2019-07-19 |
 | Brad Colbow | [Wacom Cintiq 22 Review (2019)](https://www.youtube.com/watch?v=662QvZMik4U) | 2019-07-18 |
