@@ -44,7 +44,8 @@ In comparison to manufacturer drivers:
 ## Pen buttons
 
 * OTD supports buttons for many tablets, but not all.
-* OTD on Windows does not yet let you configure the 2nd button to do something
+* On Windows, OTD can set a pen button to a keyboard shortcut or to the pen's own button action. The pen's own button action is the same for every button, so if you want a second, different action, make it a keyboard shortcut.
+* Mouse actions on a pen button, such as left-click, middle-click, or scroll, are not reliable with Windows Ink. See [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md).
 
 ## Configuration
 

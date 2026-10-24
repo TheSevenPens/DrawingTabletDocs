@@ -225,6 +225,8 @@ Click **Apply**, then click **Save**.
 
 **Note:** Assigning pen buttons to mouse actions, such as left-click, right-click, or middle-click, may cause unstable input. Doing so requires switching from the Windows Ink cursor to the mouse cursor, synchronizing the position, and sending the mouse button.
 
+To change what the pen buttons do, for example to assign a keyboard shortcut, see [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md).
+
 ### STEP 3.6: Configure your drawing application to use Windows Ink
 
 * The specific instructions vary by app.
@@ -247,6 +249,8 @@ Try some basic drawing and see if everything is working.
 **Smoothing** - [Smoothing with OpenTabletDriver](otd-smoothing.md)
 
 **Tablet buttons** - [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
+
+**Pen buttons** - [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md)
 
 **Start OpenTabletDriver when Windows starts** - See [Start OpenTabletDriver automatically](otd-start-automatically.md).
 

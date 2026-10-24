@@ -256,6 +256,8 @@ Click **Apply**, then click **Save**.
 **Note:** Assigning pen buttons to mouse actions, such as left-click, right-click, or middle-click, may cause unstable input.
 {% endhint %}
 
+To change what the pen buttons do, for example to assign a keyboard shortcut, see [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md).
+
 ### STEP 3.4: Configure your drawing application
 
 Once OTD is running and your tablet is detected, pressure and tilt are available to any app that supports a pressure-sensitive tablet. Your macOS apps do not require any additional configuration.
@@ -280,6 +282,8 @@ Try some basic drawing in your app of choice and confirm that:
 
 **Tablet buttons** - [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
 
+**Pen buttons** - [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md)
+
 **Start OpenTabletDriver when you log in** - See [Start OpenTabletDriver automatically](otd-start-automatically.md)
 
 ## Related topics
@@ -293,3 +297,4 @@ Try some basic drawing in your app of choice and confirm that:
 * [Pressure curves in OpenTabletDriver](pressure-curves-in-otd.md)
 * [Smoothing with OpenTabletDriver](otd-smoothing.md)
 * [Configure tablet buttons with OpenTabletDriver](otd-tablet-buttons.md)
+* [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md)
