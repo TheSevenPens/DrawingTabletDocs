@@ -27,23 +27,33 @@ For the buttons on the tablet itself, see [Configure tablet buttons with OpenTab
 
 ### Adaptive Binding (the default)
 
-* **Windows (Windows Ink):** Works. But there is a big limitation on Windows: it performs a "default" button action, and every button on the pen that is set to Adaptive Binding does that same action.
-* **macOS:** Works. Button 1 is a right-click, Button 2 is a middle-click, and Button 3 does nothing.
+#### Adaptive binding on Windows
+
+What the button does is up to the app and Windows. Many apps treat it as a right-click or a context menu. Some let you change it in their own settings. For Windows' own pen settings, see [Windows Pen & Windows Ink settings](../../platforms/windows/windows-pen-and-windows-ink-settings.md).
+
+Every button set to Adaptive Binding will perform the same action set to adaptive binding will perform the same action on Windows.
+
+#### Adaptive binding on MacOS
+
+By default, every pen button is set to `Adaptive Binding`. On macOS, that sends a mouse click:
+
+* **Button 1** is a right-click.
+* **Button 2** is a middle-click.
+* **Button 3** does nothing.
+
+The pen tip and the eraser end each send a left-click.
 
 ### Keyboard shortcut (Key Binding, Multi-Key Binding)
 
 * **Windows (Windows Ink):** Works.
-* **macOS:** Works. Needs the Accessibility permission from the install steps.
+* **macOS:** Works. Needs the Accessibility permission from the install steps. When you type key names in the **Advanced Binding Editor**, OTD calls the Command key `Application`, the Option key `Alt`, and the Control key `Control`. Shift is `Shift`.
 
-### Mouse Button Binding
-
-* **Windows (Windows Ink):** Does not work.
-* **macOS:** Works.
-
-### Mouse Scroll Binding
+### Mouse Button Binding & Mouse Scroll Binding
 
 * **Windows (Windows Ink):** Does not work.
 * **macOS:** Works.
+
+`Mouse Button Binding` and `Mouse Scroll Binding` are available on macOS. Use the **Advanced Binding Editor** to choose one. If you assign a mouse action and notice unstable input, as the [macOS install guide](otd-macos-install.md) warns can happen, set the button back to `Adaptive Binding` or to a keyboard shortcut.
 
 ### Windows Ink binding (eraser on a button)
 
@@ -95,46 +105,6 @@ See [Pen buttons](../../pens/pen-buttons.md) for common choices for assigning ho
 On both platforms, the **Tip Binding** and **Eraser Binding** are what make the pen draw and erase. They are set to `Adaptive Binding` by default. Replacing them can stop the pen from drawing, so I recommend that leave them as they are.
 
 If you want to turn pressure or tilt off, use the **Disable Pressure** and **Disable Tilt** settings on the same tab, not the tip binding.
-
-## On Windows
-
-### What the default does
-
-By default, every pen button is set to `Adaptive Binding`. In Windows Ink mode, this passes the button to Windows as a real pen button. Apps see it the way they would see the barrel button on a pen that Windows Ink supports natively.
-
-What it does is up to the app and Windows. Many apps treat it as a right-click or a context menu. Some let you change it in their own settings. For Windows' own pen settings, see [Windows Pen & Windows Ink settings](../../platforms/windows/windows-pen-and-windows-ink-settings.md).
-
-{% hint style="warning" %}
-With Windows Ink, all of the pen's buttons send the **same** signal. Two buttons that are both set to `Adaptive Binding` do the same thing, even though OTD labels them Button 1 and Button 2.
-
-If you want two different actions, set one button to `Adaptive Binding` and give the other a keyboard shortcut.
-{% endhint %}
-
-## On macOS
-
-### What the default does
-
-By default, every pen button is set to `Adaptive Binding`. On macOS, that sends a mouse click:
-
-* **Button 1** is a right-click.
-* **Button 2** is a middle-click.
-* **Button 3** does nothing.
-
-The pen tip and the eraser end each send a left-click.
-
-### Mouse and scroll settings
-
-`Mouse Button Binding` and `Mouse Scroll Binding` are available on macOS. Use the **Advanced Binding Editor** to choose one. If you assign a mouse action and notice unstable input, as the [macOS install guide](otd-macos-install.md) warns can happen, set the button back to `Adaptive Binding` or to a keyboard shortcut.
-
-### Keyboard shortcuts
-
-* Keyboard shortcuts need the **Accessibility** permission that the macOS install guide has you grant. If a shortcut does nothing while the pen still moves the pointer, check that permission first.
-* When you type key names in the **Advanced Binding Editor**, OTD calls the Command key `Application`, the Option key `Alt`, and the Control key `Control`. Shift is `Shift`.
-
-### What is not available
-
-* There is no `Windows Ink` setting, so there is no eraser-on-a-button option.
-* The administrator caution for Windows does not apply.
 
 ## Related topics
 
