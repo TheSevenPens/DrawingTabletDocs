@@ -11,8 +11,14 @@ description: UD series
 
 ## Core links
 
-* DrawTabData Explorer: [UD-0608-R specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608r), [UD-0608-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608a), [UD-1212-R specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212r), [UD-1212-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212a), [UD-1218-R specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218r), [UD-1218-A specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218a), [UD-1825-R specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1825r)
-* [User manual](https://vt100.net/wacom/wacom-progman.pdf)
+* [User manual](https://vt100.net/wacom/wacom-progman.pdf) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ultrapad_legacy)
+* **Ultrapad Digitizer II 6x8 SERIAL** (UD-0608-R): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608r)
+* **Ultrapad Digitizer II 6x8 ADB** (UD-0608-A): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud0608a)
+* **Ultrapad Digitizer II 12x12 SERIAL** (UD-1212-R): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212r)
+* **Ultrapad Digitizer II 12x12 ADB** (UD-1212-A): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1212a)
+* **Ultrapad Digitizer II 12x18 SERIAL** (UD-1218-R): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218r)
+* **Ultrapad Digitizer II 12x18 ADB** (UD-1218-A): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1218a)
+* **Ultrapad Digitizer II 18x25 SERIAL** (UD-1825-R): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ud1825r)
 
 ## Models
 

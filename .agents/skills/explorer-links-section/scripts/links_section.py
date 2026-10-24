@@ -2,14 +2,16 @@
 Model.Links.
 
 "## Core links" is a bulleted list near the top: each model's DrawTabData Explorer page, which is where the page's specs
-live, then the manufacturer's own links (product page, store page, user manual). "## Other links" starts with a table of
+live, and the manufacturer's own links (product page, store page, user manual). A page with several models gets one
+bullet per model, after a bullet with the links shared by all of them and the series' Explorer page. "## Other links" starts with a table of
 reviews, newest first, followed by any hand-written links (tutorials, reddit threads) the section already holds.
 
 Usage (from the repo root):
   python .agents/skills/explorer-links-section/scripts/links_section.py <notes-page.md> <entityId> [<entityId> ...] [--family <familyEntityId>] [--after <heading>] [--write]
 
-Without --write, prints the sections. With --write, replaces the page's "## Core links" section and puts it after the
-page's first section (or before it when that is "## Other links"), and replaces the generated part of "## Other links",
+Without --write, prints the sections. With --write, replaces the page's "## Core links" section in place, keeping
+bullets that link to nothing from DrawTabData (or, with none yet, puts it after the page's first section, or before it
+when that is "## Other links"), and replaces the generated part of "## Other links",
 keeping its hand-written links. A legacy "## Links" or "## Official resources" section is folded in. With no links
 section yet, "## Other links" goes after the section named by --after (default: Overview); with no reviews and no
 hand-written links, there is no "## Other links".
@@ -36,6 +38,7 @@ def load(kind, key):
 
 
 TABLETS = load('tablets', 'DrawingTablets')
+FAMILIES = load('tablet-families', 'TabletFamilies')
 
 MANUFACTURER = [
     ('MANUFACTURERPRODUCTINFO', 'Product page'),
@@ -44,6 +47,14 @@ MANUFACTURER = [
     ('PRODUCTINFO', 'Product information'),
     ('USERMANUAL', 'User manual'),
 ]
+# the short labels on a model's own bullet in "## Core links", where the model name already says which tablet
+SHORT = {
+    'MANUFACTURERPRODUCTINFO': 'Product page',
+    'STORE': 'Store',
+    'MANUFACTURERUSERMANUAL': 'Manual',
+    'PRODUCTINFO': 'Product info',
+    'USERMANUAL': 'Manual',
+}
 DOCS_SITE = 'docs.sevenpens.com/drawtab/'
 
 
@@ -79,15 +90,61 @@ def which(models, tablets):
     return '' if len(tablets) == 1 or len(models) == len(tablets) else f" ({', '.join(models)})"
 
 
-def core(entity_ids, page=''):
-    """The "## Core links" section: the Explorer specs link(s), then the manufacturer's links, as bullets."""
+def core(entity_ids, page='', family_id=None):
+    """The "## Core links" section, as bullets.
+
+    One model: the Explorer specs link, then the manufacturer's links. Several models: a first bullet with the links
+    that cover every model and the series' Explorer page, then one bullet per model with its own links and specs.
+    """
     tablets = [TABLETS[e] for e in entity_ids]
-    explorer = ', '.join(f'[{cell(t["Model"]["Id"])} specs]({EXPLORER}{e})' for e, t in zip(entity_ids, tablets))
-    bullets = [f'* DrawTabData Explorer: {explorer}']
+    if len(tablets) == 1:
+        bullets = [f'* DrawTabData Explorer: [{cell(tablets[0]["Model"]["Id"])} specs]({EXPLORER}{entity_ids[0]})']
+        for type_, label in MANUFACTURER:
+            for url, (link, models) in collect(tablets, {type_}, page).items():
+                bullets.append(f'* [{cell(label)}]({url})')
+        return '\n'.join(['## Core links', ''] + bullets) + '\n'
+    family_id = family_id or tablets[0]['Model'].get('Family')
+    shared, own = [], {t['Model']['Id']: [] for t in tablets}
     for type_, label in MANUFACTURER:
         for url, (link, models) in collect(tablets, {type_}, page).items():
-            bullets.append(f'* [{cell(label)}]({url}){which(models, tablets)}')
+            if len(models) == len(tablets):
+                shared.append(f'[{cell(label)}]({url})')
+            else:
+                for m in models:
+                    own[m].append((SHORT[type_], url))
+    if family_id in FAMILIES:
+        shared.append(f'[Series specs in DrawTabData Explorer]({EXPLORER}{family_id})')
+    bullets = [f'* {" · ".join(shared)}'] if shared else []
+    for e, t in zip(entity_ids, tablets):
+        model_id, name = t['Model']['Id'], t['Model'].get('Name') or ''
+        title = f'**{cell(model_id)}**' if not name or model_id in name else f'**{cell(name)}** ({cell(model_id)})'
+        links, seen = [], {}
+        for label, url in own[model_id] + [('Specs', f'{EXPLORER}{e}')]:
+            seen[label] = seen.get(label, 0) + 1
+            links.append(f'[{label}{f" {seen[label]}" if seen[label] > 1 else ""}]({url})')
+        bullets.append(f'* {title}: {" · ".join(links)}')
     return '\n'.join(['## Core links', ''] + bullets) + '\n'
+
+
+def known_urls(entity_ids):
+    """URLs the generator owns for these models: every Model.Links URL (dead or not) and Explorer pages."""
+    return {link['URL'] for e in entity_ids for link in TABLETS[e]['Model'].get('Links', [])}
+
+
+def hand_added_core(src, entity_ids):
+    """Bullets of an existing "## Core links" section that link to none of the generated URLs."""
+    m = re.search(section_re('Core links'), src, flags=re.M | re.S)
+    if not m:
+        return []
+    known = known_urls(entity_ids)
+    kept = []
+    for line in m.group(0).splitlines()[1:]:
+        if not re.match(r'^\s*[*-] ', line):
+            continue
+        urls = re.findall(r'\]\(((?:[^()\s]|\([^()\s]*\))+)\)', line)  # a URL may hold one level of ()
+        if urls and not any(u in known or u.startswith(EXPLORER) for u in urls):
+            kept.append(line)
+    return kept
 
 
 def reviews_table(entity_ids, family_id=None, page=''):
@@ -126,36 +183,48 @@ def hand_written(src, heading):
     return m.span(), GENERATED.sub('', body, count=1).strip('\n')
 
 
-def write(page, core_text, reviews, after='Overview'):
+def write(page, entity_ids, core_text, reviews, after='Overview'):
     crlf = b'\r\n' in open(page, 'rb').read()  # keep the file's existing line endings
     src = open(page, encoding='utf-8').read()
-    for old in ('Core links', 'Official resources'):
-        src = re.sub(section_re(old), '', src, flags=re.M | re.S)
+    extra = hand_added_core(src, entity_ids)
+    if extra:
+        core_text = core_text.rstrip('\n') + '\n' + '\n'.join(extra) + '\n'
+    # an existing "## Core links" stays where it is: mark its place, then fill it in last
+    MARK = '\0CORE\0\n'
+    m = re.search(section_re('Core links'), src, flags=re.M | re.S)
+    if m:
+        src = src[:m.start()] + MARK + src[m.end():]
+    src = re.sub(section_re('Official resources'), '', src, flags=re.M | re.S)
     # "## Other links": the reviews table, then any hand-written links from "## Other links" or a legacy "## Links",
     # merged into one section where the first of them was
     found = [hand_written(src, h) for h in ('Links', 'Other links')]
     spans = sorted(span for span, _ in found if span)
     for start, end in reversed(spans):
         src = src[:start] + src[end:]
+    body = '\n\n'.join(x.strip('\n') for x in [reviews] + [text for _, text in found] if x.strip())
     if spans:
         at = spans[0][0]
-    else:
+    elif body:
         m = re.search(section_re(after), src, flags=re.M | re.S)
         if not m:
             sys.exit(f'No links section to replace and no "## {after}" section to insert after')
         head = src[:m.end()].rstrip('\n') + '\n\n'
         src, at = head + src[m.end():], len(head)
-    body = '\n\n'.join(x.strip('\n') for x in [reviews] + [text for _, text in found] if x.strip())
-    new = src[:at] + (f'## Other links\n\n{body}\n\n' if body else '') + src[at:]
-    # "## Core links" near the top: after the first section, or before it when it is a links section
-    heads = list(re.finditer(r'^## .*$', new, flags=re.M))
-    if not heads:
-        at = len(new)
-    elif re.match(r'^## Other links\s*$', heads[0].group(0)):
-        at = heads[0].start()
     else:
-        at = heads[1].start() if len(heads) > 1 else len(new)
-    new = new[:at] + core_text + '\n' + new[at:]
+        at = len(src)
+    new = src[:at] + (f'## Other links\n\n{body}\n\n' if body else '') + src[at:]
+    if MARK in new:
+        new = new.replace(MARK, core_text + '\n')
+    else:
+        # a new "## Core links" goes near the top: after the first section, or before it when it is a links section
+        heads = list(re.finditer(r'^## .*$', new, flags=re.M))
+        if not heads:
+            at = len(new)
+        elif re.match(r'^## Other links\s*$', heads[0].group(0)):
+            at = heads[0].start()
+        else:
+            at = heads[1].start() if len(heads) > 1 else len(new)
+        new = new[:at] + core_text + '\n' + new[at:]
     new = re.sub(r'\n{3,}', '\n\n', new).rstrip('\n') + '\n'
     open(page, 'w', encoding='utf-8', newline='\r\n' if crlf else '\n').write(new)
 
@@ -171,10 +240,10 @@ if __name__ == '__main__':
     if '--after' in args:
         i = args.index('--after'); after = args[i + 1]; del args[i:i + 2]
     page, ids = args[0], args[1:]
-    core_text = core(ids, page)
+    core_text = core(ids, page, fam)
     reviews = reviews_table(ids, fam, page)
     if do_write:
-        write(page, core_text, reviews, after)
+        write(page, ids, core_text, reviews, after)
         print('wrote', page)
     else:
         print(core_text + ('\n## Other links\n\n' + reviews if reviews else ''))

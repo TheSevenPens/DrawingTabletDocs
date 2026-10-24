@@ -6,11 +6,9 @@ A fine tablet for drawing! And it makes an excellent choice for beginners. And i
 
 ## Core links
 
-* DrawTabData Explorer: [IT1060B specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b), [IT1060 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060)
-* [Product page](https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html)
-* [User manual](https://www.xp-pen.com/user-manual/deco-lw.html) (IT1060B)
-* [User manual](https://www.xp-pen.com/user-manual/deco-l.html) (IT1060)
-* [Product information](https://www.xp-pen.com/download/deco-lw.html) (IT1060B)
+* [Product page](https://www.xp-pen.com/product/deco-l-deco-lw-bluetooth.html) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_deco_2021)
+* **Deco LW** (IT1060B): [Manual](https://www.xp-pen.com/user-manual/deco-lw.html) · [Product info](https://www.xp-pen.com/download/deco-lw.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060b)
+* **Deco L** (IT1060): [Manual](https://www.xp-pen.com/user-manual/deco-l.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.it1060)
 
 ## Basics
 

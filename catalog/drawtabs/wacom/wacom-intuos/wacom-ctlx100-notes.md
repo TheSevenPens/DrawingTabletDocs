@@ -10,15 +10,11 @@ These are **VERY GOOD** pen tablets from Wacom and still highly competitive with
 
 ## Core links
 
-* DrawTabData Explorer: [CTL-4100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100), [CTL-4100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl), [CTL-6100 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100), [CTL-6100WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl)
-* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos#Specifications)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-s-black-us-ctl4100.html) (CTL-4100)
-* [Store page](https://estore.wacom.com/en-US/tablets/wacom-intuos-s-bluetooth-black-us-ctl4100wlk0.html) (CTL-4100WL)
-* [Store page](https://estore.wacom.com/en-us/wacom-intuos-m-bluetooth-black-us-ctl6100wlk0.html) (CTL-6100WL)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html) (CTL-4100)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100wl.html) (CTL-4100WL)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100.html) (CTL-6100)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html) (CTL-6100WL)
+* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos#Specifications) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2018)
+* **Intuos Small** (CTL-4100): [Store](https://estore.wacom.com/en-us/wacom-intuos-s-black-us-ctl4100.html) · [Manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100)
+* **Intuos Small Bluetooth** (CTL-4100WL): [Store](https://estore.wacom.com/en-US/tablets/wacom-intuos-s-bluetooth-black-us-ctl4100wlk0.html) · [Manual](http://101.wacom.com/UserHelp/en/TOC/CTL-4100wl.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl4100wl)
+* **Intuos Medium** (CTL-6100): [Manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100)
+* **Intuos Medium Bluetooth** (CTL-6100WL): [Store](https://estore.wacom.com/en-us/wacom-intuos-m-bluetooth-black-us-ctl6100wlk0.html) · [Manual](http://101.wacom.com/UserHelp/en/TOC/CTL-6100wl.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl6100wl)
 
 ## Other links
 

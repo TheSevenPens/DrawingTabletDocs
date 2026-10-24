@@ -6,9 +6,9 @@ I do not have this tablet, but people still ask about it. So, I created this pag
 
 ## Core links
 
-* DrawTabData Explorer: [DTK-2420 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420), [DTH-2420 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) (DTK-2420)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) (DTH-2420)
+* [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_cintiqpro)
+* **Cintiq Pro 24** (DTK-2420): [Manual](http://101.wacom.com/UserHelp/en/TOC/DTK-2420.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dtk2420)
+* **Cintiq Pro 24 Touch** (DTH-2420): [Manual](http://101.wacom.com/UserHelp/en/TOC/DTH-2420.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.dth2420)
 
 ## Is this tablet worth getting?
 

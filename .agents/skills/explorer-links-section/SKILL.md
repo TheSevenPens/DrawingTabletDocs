@@ -1,6 +1,6 @@
 ---
 name: explorer-links-section
-description: Generates the standard "## Core links" and "## Other links" sections for a catalog notes page from DrawTabData. Core links lists each model's DrawTabData Explorer page, which is where the page's specs live, then the manufacturer's product page, store page and user manual; Other links starts with a table of reviews.
+description: Generates the standard "## Core links" and "## Other links" sections for a catalog notes page from DrawTabData. Core links lists each model's DrawTabData Explorer page, which is where the page's specs live, and the manufacturer's product page, store page and user manual, with one bullet per model on pages that cover several; Other links starts with a table of reviews.
 ---
 
 # Explorer links section
@@ -20,7 +20,8 @@ python .agents/skills/explorer-links-section/scripts/links_section.py catalog/dr
 - Pass the page, then the Explorer entity IDs of the models the page covers, in order.
 - Without `--write`, it prints the sections instead of writing them.
 - `--family <familyEntityId>` overrides the family link in the Other links intro line. By default it uses the first model's family.
-- With `--write`, it replaces the page's `## Core links` section and puts it near the top: after the page's first section, or before it when the page starts with `## Other links`.
+- `--family` also sets the series link in Core links on a page with several models.
+- With `--write`, it replaces the page's `## Core links` section where it is. A page without one gets it near the top: after the page's first section, or before it when the page starts with `## Other links`. Bullets in Core links that link to nothing from DrawTabData (hand-added links) are kept, below the generated ones.
 - With `--write`, it also replaces the generated part of `## Other links` (the intro line and the reviews table) and keeps the hand-written links below it. With no links section yet, it inserts one after `## Overview`; `--after <heading>` picks a different section to insert after.
 - A page still in an older layout (`## Official resources`, `## Links`) is converted: the sections are renamed and merged.
 
@@ -32,9 +33,11 @@ Two sections, from the tablets' `Model.Links` in DrawTabData. Don't hand-write E
 
 ### Core links
 
-A bulleted list near the top of the page, so the key links are easy to find:
+A bulleted list near the top of the page, so the key links are easy to find. Its layout depends on how many models the page covers.
 
-1. **DrawTabData Explorer** — always first: one "<Model ID> specs" link per model, to `https://thesevenpens.github.io/DrawTabDataExplorer/entity/<EntityId>`.
+**One model:**
+
+1. **DrawTabData Explorer** — always first: a "<Model ID> specs" link to `https://thesevenpens.github.io/DrawTabDataExplorer/entity/<EntityId>`.
 2. The manufacturer's own links: product page, store page, user manual (and product information).
 
 ```markdown
@@ -46,11 +49,27 @@ A bulleted list near the top of the page, so the key links are easy to find:
 * [User manual](https://www.huion.com/manual/inspiroy-giano)
 ```
 
+**Several models:** one bullet per model, so a reader finds their model first.
+
+1. A first bullet with the links that cover every model (usually the product page), then "Series specs in DrawTabData Explorer", linking the family.
+2. One bullet per model, in the order given: the model's name in bold and its ID, then its own links with short labels (Store, Manual, Product info) and, last, its Explorer page as "Specs". Links are separated by " · ".
+
+```markdown
+## Core links
+
+* [Product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuospro_2025)
+* **Intuos Pro 2025 Small** (PTK-470): [Store](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) · [Manual](https://101.wacom.com/UserHelp/en/TOC/PTK470.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk470)
+* **Intuos Pro 2025 Medium** (PTK-670): [Store](https://estore.wacom.com/en-us/wacom-intuos-pro-medium-m-ptk670k0a.html) · [Manual](http://101.wacom.com/UserHelp/en/TOC/PTK670.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk670)
+* **Intuos Pro 2025 Large** (PTK-870): [Store](https://estore.wacom.com/en-us/wacom-intuos-pro-large-l-ptk870k0a.html) · [Manual](https://101.wacom.com/UserHelp/en/TOC/PTK870.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk870)
+```
+
+The model names come from `Model.Name` in DrawTabData; to change one, fix it there. A link that covers some but not all of the models goes on each of those models' bullets.
+
 ### Other links
 
 An intro line linking the model's family in the Explorer, then one table of reviews, newest first, with the columns Source | Link | Date. Hand-written links that aren't data (tutorials, setup videos, reddit threads, general-topic videos) go below the table, in the same section; the script keeps them. A page with no reviews has no table.
 
-On a page with several models, a link that applies to only some of them names those model IDs after the link, in either section. DEAD links (per the link check) and links back to the page itself are left out.
+On a page with several models, a review that applies to only some of them names those model IDs after the link. DEAD links (per the link check) and links back to the page itself are left out.
 
 Reviews come from trusted reviewers: Brad Colbow, Teoh on Tech, Parka Blogs, Aaron Rutten, Seven Pens, Gartzia Artz (Spanish), EyekooDrawsStuff and David Revoy. Other reviews the author chose for a page also count. A Seven Pens video that discusses one model in depth counts as a review. Tutorials, setup videos, reddit threads and general-topic videos are not data; they stay in the notes under `## Other links`, below the reviews table.
 

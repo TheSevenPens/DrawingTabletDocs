@@ -6,8 +6,12 @@ This is the last time "Intuos + Number" was how these professional pen tablets w
 
 ## Core links
 
-* DrawTabData Explorer: [PTH-450 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450), [PTH-650 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650), [PTH-850 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850), [PTK-450 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450), [PTK-650 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650)
-* [User manual](https://cdn.wacom.com/f/manuals/en/Intuos5-Users-Manual.pdf)
+* [User manual](https://cdn.wacom.com/f/manuals/en/Intuos5-Users-Manual.pdf) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos5_2012)
+* **Intuos5 touch Small** (PTH-450): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth450)
+* **Intuos5 touch Medium** (PTH-650): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth650)
+* **Intuos5 touch Large** (PTH-850): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.pth850)
+* **Intuos5 Small** (PTK-450): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk450)
+* **Intuos5 Medium** (PTK-650): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ptk650)
 
 ## Photos
 

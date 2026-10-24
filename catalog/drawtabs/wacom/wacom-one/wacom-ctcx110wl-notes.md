@@ -14,12 +14,9 @@ The Wacom One 2023 tablets are sometimes referred to as the Wacom One GEN2 table
 
 ## Core links
 
-* DrawTabData Explorer: [CTC-4110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl), [CTC-6110WL specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl)
-* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet)
-* [Store page](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) (CTC-4110WL)
-* [Store page](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) (CTC-6110WL)
-* [User manual](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html) (CTC-4110WL)
-* [User manual](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html) (CTC-6110WL)
+* [Product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one-pen-tablet) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_one_2023)
+* **Wacom One S 2023** (CTC-4110WL): [Store](https://estore.wacom.com/en-us/wacom-one-s-ctc4110wlw0a.html) · [Manual](https://101.wacom.com/userhelp/en/toc/ctc4110wl.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc4110wl)
+* **Wacom One M 2023** (CTC-6110WL): [Store](https://estore.wacom.com/en-us/wacom-one-m-ctc6110wlw0a.html) · [Manual](https://101.wacom.com/userhelp/en/toc/ctc6110wl.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctc6110wl)
 
 ## **Basics**
 

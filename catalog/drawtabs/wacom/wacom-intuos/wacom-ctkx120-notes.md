@@ -15,7 +15,9 @@ There are two models:
 
 ## Core links
 
-* DrawTabData Explorer: [CTK-4120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120), [CTK-6120 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120)
+* [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_intuos_2026)
+* **Intuos 2026 Small** (CTK-4120): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk4120)
+* **Intuos 2026 Medium** (CTK-6120): [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctk6120)
 
 ## Key changes from the CTL-x100 series
 

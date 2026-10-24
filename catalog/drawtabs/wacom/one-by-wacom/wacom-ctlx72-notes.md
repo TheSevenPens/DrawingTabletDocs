@@ -6,10 +6,9 @@ The One by Wacom series of pen tablets (CTL-672 and CTL-472) are very good table
 
 ## Core links
 
-* DrawTabData Explorer: [CTL-472 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472), [CTL-672 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672)
-* [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications)
-* [User manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) (CTL-472)
-* [User manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) (CTL-672)
+* [Product page](https://www.wacom.com/en-ch/products/pen-tablets/one-by-wacom#Specifications) · [Series specs in DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_onebywacom_2019)
+* **One by Wacom Small** (CTL-472): [Manual](https://101.wacom.com/UserHelp/en/TOC/CTL-472.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl472)
+* **One by Wacom Medium** (CTL-672): [Manual](http://101.wacom.com/UserHelp/en/TOC/CTL-672.html) · [Specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tablet.ctl672)
 
 ## Availability
 
