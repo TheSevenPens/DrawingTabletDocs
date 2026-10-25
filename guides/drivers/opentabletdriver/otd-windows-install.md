@@ -223,9 +223,9 @@ Notice that the tip settings, eraser settings, and buttons use `Adaptive Binding
 
 Click **Apply**, then click **Save**.
 
-**Note:** Assigning pen buttons to mouse actions, such as left-click, right-click, or middle-click, may cause unstable input. Doing so requires switching from the Windows Ink cursor to the mouse cursor, synchronizing the position, and sending the mouse button.
+**Note:** Assigning pen buttons to mouse actions, such as left-click, right-click, or middle-click, may cause problems. So I do not recommend it.
 
-To change what the pen buttons do, for example to assign a keyboard shortcut, see [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md).
+To change what the pen buttons do, see [Customize pen buttons with OpenTabletDriver](otd-pen-buttons.md).
 
 ### STEP 3.6: Configure your drawing application to use Windows Ink
 
@@ -258,10 +258,10 @@ Try some basic drawing and see if everything is working.
 
 To switch between monitors, you have two options:
 
-* **Switching presets** — Different presets can map the activate area differently.&#x20;
+* **Switching presets** — Different presets can map the activate area differently.
   * You can switch presents manually in the OTD app.
   * OTD does not have a hotkey feature for switching presets. You could use the a tool like AutoHotKey (Windows-only) for switching presets.
-* The **Monitor toggle** plug-in -  I have never used this plug-in, so I do not have instructions for it.&#x20;
+* The **Monitor toggle** plug-in - I have never used this plug-in, so I do not have instructions for it.
 
 ## Related topics
 
