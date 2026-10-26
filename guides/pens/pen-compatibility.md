@@ -48,7 +48,7 @@ Two cautions when you use it:
 
 ### Non-tech causes
 
-**Driver selectively excludes pens** - I know of at least one case with Wacom where the pen and tablet would actually work, but the Wacom driver prevents it. The way around this is to use [OpenTabletDriver](../drivers/opentabletdriver/), which does not have that restriction.
+**Driver selectively excludes pens** - I know of at least one case with Wacom where the pen and tablet would actually work, but the Wacom driver prevents it. The way around this is to use [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver), which does not have that restriction.
 
 ## Resources
 

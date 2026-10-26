@@ -58,8 +58,8 @@ It may be worth asking the seller how clean the tablet is.
 
 ## Alternative to Wacom drivers for older tablets
 
-* If you have an older tablet and need a driver, check out [OpenTabletDriver](../guides/drivers/opentabletdriver/)
-* For creative work in Windows, see [Install OpenTabletDriver on Windows](../guides/drivers/opentabletdriver/otd-windows-install.md)
+* If you have an older tablet and need a driver, check out [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver)
+* For creative work in Windows, see [Install OpenTabletDriver on Windows](https://docs.sevenpens.com/opentabletdriver/otd-windows-install)
 
 ## Testing a tablet before you buy
 

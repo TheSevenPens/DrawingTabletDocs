@@ -25,7 +25,7 @@ While creatives tend to use their drawing tablets in standard ways, osu! players
 
 ### Drivers
 
-* Players often do not use manufacturer **drivers**. Instead, they use [OpenTabletDriver](../../guides/drivers/opentabletdriver/) because:
+* Players often do not use manufacturer **drivers**. Instead, they use [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver) because:
   * OTD has less lag than manufacturer drivers
   * OTD is highly customizable through its plug-in system
   * OTD works across many tablet models

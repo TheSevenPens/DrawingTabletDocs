@@ -20,7 +20,7 @@ Setting up and configuring OpenTabletDriver can be challenging. On the other han
 
 OpenTabletDriver has full support for tilt and pressure on Windows and on macOS.
 
-More here: [OpenTabletDriver](../guides/drivers/opentabletdriver/)
+More here: [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver)
 
 ## OPTION 3: Use Windows PNP drivers
 

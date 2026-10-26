@@ -82,4 +82,4 @@ There is no technical limitation. In theory, pen displays could support mouse mo
 
 Nonetheless, some people do want mouse mode for their pen displays. If you really want it, consider using OpenTabletDriver instead of your manufacturer's driver.
 
-More here: [OpenTabletDriver](../../guides/drivers/opentabletdriver/)
+More here: [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver)
