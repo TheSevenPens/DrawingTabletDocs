@@ -8,7 +8,7 @@ More here on the different ways a pen display can connect to a computer: [Connec
 
 A 3-in-1 cable typically looks and connects like this:
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Here's a typical picture of the three ends non-USB-C ends of a 3-in-1 cable.
 

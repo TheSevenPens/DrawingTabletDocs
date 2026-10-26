@@ -80,15 +80,19 @@ I tested three units of the CP-923, and it works with the DTC-133.
 * I confirmed both pens (CP-913, CP-923) work with the Samsung Galaxy S8 Ultra.
 * I confirmed that the Samsung S Pen works with both the Wacom One 2019 GEN1 tablet and the Wacom One 2023 GEN2 tablets
 
-### Low pressure
+### Weirdness at low pressure
 
 * In my early testing, the CP-923 pen had issues with low pressure. See this video: [https://youtu.be/415ngQOHiME](https://youtu.be/415ngQOHiME)
 * My later IAF measurements across more units are more mixed - see the comparison at the top of this page.
 
-## Pressure response
+## IAF
 
-<figure><img src="../../../.gitbook/assets/wacom-cp923-notes-2.png" alt=""><figcaption></figcaption></figure>
+In my testing across 4 pens I found the IAF to vary between about 7.5gf to 10.5gf.&#x20;
 
-## Max Pressure
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-<table data-search="false"><thead><tr><th width="124">BRAND</th><th width="121">PEN</th><th width="110">INVENTORY</th><th width="123">PHYSICAL</th><th width="120">LOGICAL</th></tr></thead><tbody><tr><td>WACOM</td><td>CP-923</td><td>WA0009</td><td>285.1gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0010</td><td>219.4gf</td><td>99.90%</td></tr><tr><td>WACOM</td><td>CP-923</td><td>WA0011</td><td>267.4gf</td><td>99.90%</td></tr></tbody></table>
+## Max pressure
+
+Max pressure also varied quite a bit - between 200gf to about 500gf depending on the unit and when it was measured.
+
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
