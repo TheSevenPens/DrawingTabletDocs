@@ -36,17 +36,17 @@ Windows applications can sometimes switch coordinate systems. You might see smoo
 
 [TSG: Strokes look stair-stepped](../troubleshoot/tsg-strokes-stair-stepped.md)
 
-To check whether your own strokes are stair-stepped, see [How to check whether your strokes are quantized](#how-to-check-whether-your-strokes-are-quantized).
+To check whether your own strokes are stair-stepped, see [How to check whether your strokes are quantized](digitizer-vs-screen-coordinates.md#how-to-check-whether-your-strokes-are-quantized).
 
-### Multiple monitors
+### Coordinate problems with multiple monitors
 
-In some setups, having more than one display active appears to make an app use screen coordinates. It is not known why.
+In some setups, using multiple displays somehow causes some apps to use screen coordinates. I don't know why. Sometime multiple monitors does not trigger this behavior. Sometimes it does.
 
-What was seen: in Clip Studio Paint on Windows, set to use Windows Ink, strokes were smooth with one display active and stair-stepped with two or three. Clip Studio Paint's tablet settings say that its "Use more accurate coordinate detection" option cannot be used with multi-monitor set-ups. Krita on the same computer, with the same pen and displays, was not affected. In that setup, the pen positions Windows delivered to a separate test application were still high-resolution, which suggests that the app, not the driver or Windows, was using the lower-resolution coordinates.
+I have experienced this problem with multiple monitors with CSP on Windows, with CSP set to use Windows Ink.  Strokes were smooth with one display active and stair-stepped with two or three displays. The **Use more accurate coordinate detection** option made no difference.
 
-What is not known: the cause, and whether other apps, tablets or drivers behave the same way. Treat the number of active displays as one thing to rule out, not as a diagnosis.
+If you are experiencing coordinate problems it is worth testing with a single monitor to see if the coordinate behavior changes.
 
-## How to check whether your strokes are quantized
+## Checking whether your strokes are quantized
 
 Quantization is small, and it is easy to miss when you draw normally. This test makes it obvious.
 
@@ -59,6 +59,14 @@ Do it in the app where you see the problem. It also helps to repeat it in a seco
 5. Zoom in to 100% and look at the line.
 
 Draw a spiral, not just a straight diagonal. A spiral passes through every direction, so steps are easy to see at any angle. It also makes clear that quantization is not a diagonal-only problem like [diagonal wobble](diagonal-wobble.md).
+
+Here are some examples of strokes draw at 25% zoom in CSP. Once example illustrates the quantization, the other does not.
+
+
+
+<figure><img src="../.gitbook/assets/zoom25_aaon_1monitor.png" alt="" width="352"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/zoom25_aaon_2monitors.png" alt="" width="328"><figcaption></figcaption></figure>
 
 Drawing zoomed out makes the effect larger. At 25% zoom, one screen pixel covers four document pixels, so any steps the size of a screen pixel become several pixels wide when you zoom back in.
 
@@ -83,14 +91,14 @@ Strokes using screen coordinates look different from diagonal wobble. Wobble is 
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-|            | Use of screen coordinates                           | Diagonal wobble                                           |
-| ---------- | --------------------------------------------------- | --------------------------------------------------------- |
-| Shape      | Angular, tight stair-steps, like snapping to a grid | Smooth, regular oscillation                               |
-| Worst at   | Any angle, most visible on diagonals                | 45 degrees; none at 0 or 90 degrees                       |
-| Platform   | Windows                                             | Any                                                       |
-| Cause      | The pen API path in software                        | How the tablet senses and interpolates the pen's position |
+|            | Use of screen coordinates                                      | Diagonal wobble                                           |
+| ---------- | -------------------------------------------------------------- | --------------------------------------------------------- |
+| Shape      | Angular, tight stair-steps, like snapping to a grid            | Smooth, regular oscillation                               |
+| Worst at   | Any angle, most visible on diagonals                           | 45 degrees; none at 0 or 90 degrees                       |
+| Platform   | Windows                                                        | Any                                                       |
+| Cause      | The pen API path in software                                   | How the tablet senses and interpolates the pen's position |
 | Fix        | Restart, try one display, switch pen API, reinstall the driver | Cannot be fixed, only mitigated                           |
-| Present on | Some setups, including some with more than one display | Every tablet, in varying amounts                          |
+| Present on | Some setups, including some with more than one display         | Every tablet, in varying amounts                          |
 
 Both are more visible when you draw slowly or diagonally. Those traits do not distinguish them. Instead, check:
 
