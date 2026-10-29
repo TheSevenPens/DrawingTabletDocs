@@ -36,6 +36,45 @@ Windows applications can sometimes switch coordinate systems. You might see smoo
 
 [TSG: Strokes look stair-stepped](../troubleshoot/tsg-strokes-stair-stepped.md)
 
+To check whether your own strokes are stair-stepped, see [How to check whether your strokes are quantized](#how-to-check-whether-your-strokes-are-quantized).
+
+### Multiple monitors
+
+In some setups, having more than one display active appears to make an app use screen coordinates. It is not known why.
+
+What was seen: in Clip Studio Paint on Windows, set to use Windows Ink, strokes were smooth with one display active and stair-stepped with two or three. Clip Studio Paint's tablet settings say that its "Use more accurate coordinate detection" option cannot be used with multi-monitor set-ups. Krita on the same computer, with the same pen and displays, was not affected. In that setup, the pen positions Windows delivered to a separate test application were still high-resolution, which suggests that the app, not the driver or Windows, was using the lower-resolution coordinates.
+
+What is not known: the cause, and whether other apps, tablets or drivers behave the same way. Treat the number of active displays as one thing to rule out, not as a diagnosis.
+
+## How to check whether your strokes are quantized
+
+Quantization is small, and it is easy to miss when you draw normally. This test makes it obvious.
+
+Do it in the app where you see the problem. It also helps to repeat it in a second app, such as Krita. If the second app is smooth and the first is not, the stepping is coming from how the first app handles the pen, not from the tablet or the driver.
+
+1. Create a new document.
+2. Choose a plain brush: one pixel wide, with smoothing or stabilization off and anti-aliasing on.
+3. Zoom out to 25%.
+4. Draw a slow spiral with several turns.
+5. Zoom in to 100% and look at the line.
+
+Draw a spiral, not just a straight diagonal. A spiral passes through every direction, so steps are easy to see at any angle. It also makes clear that quantization is not a diagonal-only problem like [diagonal wobble](diagonal-wobble.md).
+
+Drawing zoomed out makes the effect larger. At 25% zoom, one screen pixel covers four document pixels, so any steps the size of a screen pixel become several pixels wide when you zoom back in.
+
+**What you should see**
+
+* A smooth curve: the pen is using digitizer coordinates.
+* Visible steps along the curve, at all angles: the app is using screen coordinates.
+
+**Compare with a mouse**
+
+Draw the same spiral with a mouse. A mouse reports its position in whole screen pixels, so its line shows what screen coordinates look like in your app. If the pen's spiral looks like the mouse's, the pen is being treated like a mouse.
+
+{% hint style="info" %}
+Zooming out much further, to 1% for example, can produce stair-steps even when everything is working correctly. Use 25% for this test.
+{% endhint %}
+
 ## Screen coordinates versus diagonal wobble
 
 Screen-coordinate artifacts can look similar to diagonal wobble. However, they have different causes, fixes, and diagnostic procedures.
@@ -50,8 +89,8 @@ Strokes using screen coordinates look different from diagonal wobble. Wobble is 
 | Worst at   | Any angle, most visible on diagonals                | 45 degrees; none at 0 or 90 degrees                       |
 | Platform   | Windows                                             | Any                                                       |
 | Cause      | The pen API path in software                        | How the tablet senses and interpolates the pen's position |
-| Fix        | Restart, switch pen API, reinstall the driver       | Cannot be fixed, only mitigated                           |
-| Present on | Some setups                                         | Every tablet, in varying amounts                          |
+| Fix        | Restart, try one display, switch pen API, reinstall the driver | Cannot be fixed, only mitigated                           |
+| Present on | Some setups, including some with more than one display | Every tablet, in varying amounts                          |
 
 Both are more visible when you draw slowly or diagonally. Those traits do not distinguish them. Instead, check:
 
