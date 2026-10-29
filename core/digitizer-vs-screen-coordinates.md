@@ -60,7 +60,7 @@ Do it in the app where you see the problem. It also helps to repeat it in a seco
 
 Draw a spiral, not just a straight diagonal. A spiral passes through every direction, so steps are easy to see at any angle. It also makes clear that quantization is not a diagonal-only problem like [diagonal wobble](diagonal-wobble.md).
 
-Here are some examples of strokes draw at 25% zoom in CSP. Once example illustrates the quantization, the other does not.
+When drawing at 25% zoom you will not see the quantization with your eyes. But after you draw and zoom to 100% then any quantization should be obvious. Here are some examples of strokes draw at 25% zoom in CSP. One example illustrates the quantization, the other does not.
 
 
 
