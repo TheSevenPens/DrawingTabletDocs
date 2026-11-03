@@ -2,22 +2,36 @@
 
 ## Overview
 
-Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice.
+Wacom has several separate lines of pen tablets. This document will help you understand the difference and help you make your choice. Currently there are two tiers for Wacom's pen tablets: Pro and Consumer.
 
-* **One by Wacom** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/one-by-wacom)
-* **Intuos** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos)
-* **Wacom One 2023** -> [product page](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
-* **Intuos Pro 2017** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro-2017)
-* **Intuos Pro** **2025** -> [product page](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro)
+## Choosing a Wacom professional pen tablet
 
-<figure><img src="../../../.gitbook/assets/wacom-pen-tablet-comparison-1.png" alt=""><figcaption></figcaption></figure>
+There are two choices:
 
-If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro models identified here are THE BEST PEN TABLETS EVER MADE.
+* **Intuos Pro 2017** -> [Wacom Intuos Pro 2017 (PTH-x60) notes](wacom-intuos-pro-2017/wacom-pthx60-notes.md)&#x20;
+* **Intuos Pro** **2025** -> [Wacom Intuos Pro 2025 (PTK-x70) notes](wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
 
-* [Wacom Intuos Pro 2025 (PTK-x70) notes](wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
-* [Wacom Intuos Pro 2017 (PTH-x60) notes](wacom-intuos-pro-2017/wacom-pthx60-notes.md)
+If you are interested in a pen tablet (a drawing tablet without a screen) for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro 2025 and 2017 models identified here are THE BEST PEN TABLETS EVER MADE.
 
-## Wacom One 2023 tablets (CTC-x110WL)
+## Choosing a Wacom consumer pen tablet
+
+There are three choices
+
+* **One by Wacom** -> [One by Wacom (CTL-x72) notes](one-by-wacom/wacom-ctlx72-notes.md)
+* **Intuos** -> [Wacom Intuos (CTL-x100) notes](wacom-intuos/wacom-ctlx100-notes.md)
+* **Wacom One 2023** -> [Wacom One 2023 pen tablets (CTC-x110WL) notes](wacom-one/wacom-ctcx110wl-notes.md)
+
+### **One by Wacom series (CTL-x72)**&#x20;
+
+**SUMMARY:** VERY GOOD BASIC TABLETS BUT DISCONTINUED.
+
+### Wacom Intuos series (CTL-x100)
+
+**SUMMARY:** VERY GOOD BASIC TABLETS BUT expensive for what you get.
+
+### Wacom One 2023 tablets (CTC-x110WL)
+
+SUMMARY: NOT RECOMMENDED
 
 The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. I do not recommend them because their pressure handling is (in my opinion) not acceptable for the Wacom brand. More here: [Wacom One 2023 pen displays notes](wacom-one/wacom-one-2023-pen-displays-notes.md)
 
@@ -65,8 +79,6 @@ Each product line uses different pens. And the pens can only be used within that
 
 Of the pens identified, the Wacom Pro Pen 2 and Pro Pen 3 is the best in terms of design, materials, shape, weight distribution.
 
-<figure><img src="../../../.gitbook/assets/wacom-pen-tablet-comparison-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
 ## Overall drawing experience
 
 All of the tablets except the Wacom One 2023 tablets have a very very good drawing experience. The Intuos Pro series definitely the best of all of them though - largely driven by the amazing pressure handling of the Wacom Pro Pen 2 and Wacom Pro Pen 3.
@@ -74,6 +86,8 @@ All of the tablets except the Wacom One 2023 tablets have a very very good drawi
 ## Pen pressure
 
 Learn more here: [Pen pressure](../../../core/pressure/)
+
+Pressure levels
 
 2048 **pressure levels** is all you need for creative work. All of these pens are enough in that regard. Wacom has strong marketing towards their higher pressure level tablets, but the vast majority of users will not be able to make use of these higher levels in their work.
 
@@ -130,18 +144,6 @@ Learn more here: [Pointer lag](../../../core/pointer-lag.md)
 
 The Intuos Pro models exhibit less wobble than the Intuos of One by Wacom. But all of the tablets are good for diagonal wobble
 
-## Position smoothing
-
-Position smoothing makes for better looking strokes but introduces pointer lag. All of these Wacom tablets are great for artists in terms of position smoothing.
-
-**Driver position smoothing**
-
-Wacom drivers by default add a little bit of position smoothing - which is needed - to make their strokes look better. The smoothing is not much and Wacom pen tablets still feel more responsive than other tablet brands.
-
-**Hardware position smoothing**
-
-<table data-search="false"><thead><tr><th width="194">Tablet series</th><th>Hardware smoothing</th></tr></thead><tbody><tr><td>One by Wacom</td><td>no hardware smoothing</td></tr><tr><td>Wacom One 2023</td><td>unknown</td></tr><tr><td>Intuos</td><td><p>No hardware smoothing when drawing/dragging.</p><p>Some Hardware smoothing on hover.</p><ul><li>For artists, drawing is fine and unaffected. The smoothing is only happening when you are not drawing. Artists do not notice this at all in practice.</li><li>For osu! players the hardware on hover is a strong reason to avoid this tablet.</li></ul></td></tr><tr><td>Intuos Pro 2017</td><td>no hardware smoothing</td></tr><tr><td>Intuos Pro 2025</td><td>no hardware smoothing</td></tr></tbody></table>
-
 ## Wireless/Bluetooth
 
 <table data-search="false"><thead><tr><th width="194">Tablet series</th><th>ExpressKeys available</th></tr></thead><tbody><tr><td>One by Wacom</td><td>none of these models support wireless</td></tr><tr><td>Wacom One 2023</td><td>all models support wireless via Bluetooth</td></tr><tr><td>Intuos</td><td>Only models with WL in their model number support wireless via Bluetooth</td></tr><tr><td>Intuos Pro 2017</td><td>all models support wireless via Bluetooth</td></tr><tr><td>Intuos Pro 2025</td><td>all models support wireless via Bluetooth</td></tr></tbody></table>
@@ -189,7 +191,7 @@ All of these are very reliable tablets. Their pens are also very reliable. **But
 
 ## Drivers
 
-As of October 2025, the same Wacom driver works with all three product lines.
+As of November 2026, the latest Wacom driver works with all three product lines.
 
 ## Surface texture
 
@@ -204,31 +206,3 @@ Wacom sells texture sheets for the the Intuos Pro 2017. Three texture options ar
 Wacom sells texture sheets for the the Intuos Pro 2025. One texture options are provided for both the Small, Medium and Large sizes.
 
 More here: [Wacom Intuos Pro 2017 (PTH-x60) notes](wacom-intuos-pro-2017/wacom-pthx60-notes.md).
-
-## Potential future versions
-
-* **Intuos -** In August of 2023, The Intuos models seem to be replaced by the Wacom One GEN2 pen tablets.
-* **One by Wacom -** No sign of any updates coming
-* **Intuos Pro -** Wacom released new versions in 2025, so we expect it will learn about new Intuos Pros around 2032. We certainly hope they will arrive sooner.
-
-## Intuos Pro generations
-
-There are three Intuos Pro generations and unfortunately the have the same name "Intuos Pro". So if you are purchasing an Intuos Pro you really need to pay attention to the model numbers.
-
-* Intuos Pro 2025 (PTK-870, PTK-670, PTK-470): [Wacom Intuos Pro 2025](wacom-intuos-pro-2025/)
-* Intuos Pro 2017 (PTH-860, PTH-660, PTH-460): [Wacom Intuos Pro 2017](wacom-intuos-pro-2017/)
-* Intuos Pro 2013 (PTH-851, PTH-651, PTH-451): [Wacom Intuos Pro 2013](wacom-intuos-pro-2013.md)
-
-## Distinguishing physical features
-
-* The One by Wacom has a bright red back
-* The One by Wacom has a fabric pen holder on the side of the tablet
-* The Intuos in available in several colors for the back plastic
-* The Intuos has a fabric pen holder on the top of the tablet
-* The Intuos Pro is always black both front and back
-* The Intuos Pro has no fabric pen holder
-* The Intuos Pro has a circular dial on the left of the tablet.
-
-## Notes on older Wacom tablets series
-
-* The **Wacom Bamboo** series has now been renamed to the **One by Wacom** series
