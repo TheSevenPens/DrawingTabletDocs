@@ -19,14 +19,9 @@ Both are the best pen tablets ever made, and the drawing experience is the same.
 * Bezels are significantly smaller
 * Smaller and about 40% lighter, with a larger 16:9 active area
 * Comes with Pro Pen 3 instead of Pro Pen 2
-* Improved report rate (wired report rate is 300Hz versus the older models' 200Hz)
+* Improved report rate (wired report rate is 300Hz with the Pro Pen 3, versus the older models' 200Hz)
 
 Depending on your background you might prefer one over the other.
-
-## Key differences
-
-<table data-search="false"><thead><tr><th width="190">Topic</th><th>Intuos Pro 2017 (PTH-x60)</th><th>Intuos Pro 2025 (PTK-x70)</th></tr></thead><tbody><tr><td>Included pen</td><td>Pro Pen 2 (KP-504E). In my opinion slightly better drawing feel.</td><td>Pro Pen 3 (ACP-500). Very customizable. Pro Pen 2 also works.</td></tr><tr><td>Touch</td><td>YES (multitouch, with a hardware switch)</td><td>NO</td></tr><tr><td>Driver support</td><td>Expected to wind down around 2027</td><td>About 9 more years</td></tr><tr><td>Footprint</td><td>Larger and heavier</td><td>Smaller and lighter</td></tr><tr><td>Active area</td><td>Smaller</td><td>Slightly larger (16:9)</td></tr><tr><td>Barrel rotation</td><td>Art Pen (KP-701E) only. Rare and expensive now.</td><td>Art Pen 2 (ACP-700, ~$100) or Art Pen (KP-701E)</td></tr><tr><td>UD EMR pens</td><td>NO</td><td>YES (specific pens)</td></tr><tr><td>ExpressKeys</td><td>On the left side</td><td>Along the top edge</td></tr><tr><td>Bezels</td><td>Wide and sloped</td><td>Narrow. Can dig into your wrist at first.</td></tr><tr><td>Surface</td><td>More texture. Eats nibs quickly.</td><td>Smoother and softer. Much less nib wear.</td></tr></tbody></table>
-
 
 
 ## Which one should you buy: 2025 or 2017?
@@ -36,12 +31,13 @@ Depending on your background you might prefer one over the other.
 * **Need multitouch?** → Intuos Pro 2017. The 2025 edition does not support it.
 * **Rest your hand on the bezels, or keep your non-drawing hand on the ExpressKeys?** → Try the 2025 edition before you buy if you can. See [Bezels](wacom-intuos-pro-2025-vs-2017.md#bezels) and [ExpressKeys layout](wacom-intuos-pro-2025-vs-2017.md#expresskeys-layout).
 
-Overall I recommend the Intuos Pro 2025 because in a few years (by 2030 at the latest I expect) the support lifetime for the Intuos Pro 2017 will end. After that point:
+Overall I recommend the Intuos Pro 2025 because in a few years (between 2027 and 2029, and by 2030 at the latest, I expect) the support lifetime for the Intuos Pro 2017 will end. After that point:
 
 * Wacom will no longer issue driver updates for the tablet.
 * Wacom support will likely not help you if you ask them for help.
 
 You can certainly still use the Intuos Pro 2017 but you should be aware of those consequences. See [Buying an Intuos Pro 2017 in 2026](wacom-intuos-pro-2017/buying-pthx60-in-2026.md).
+
 
 ## Models
 
@@ -55,19 +51,24 @@ Each 2025 model replaces the 2017 model of the same size category.
 
 The full specs for each model are in the DrawTabData Explorer. Click a model ID above to see them.
 
+
 ## Key differences at a glance
 
-|                          | Intuos Pro 2017           | Intuos Pro 2025         |
-| ------------------------ | ------------------------- | ----------------------- |
-| Drawing performance      | EXCELLENT                 | EXCELLENT (same)        |
-| Included pen             | Pro Pen 2 (KP-504E)       | Pro Pen 3 (ACP-500)     |
-| Wired report rate        | 200 Hz                    | 300 Hz (with Pro Pen 3) |
-| Active area aspect ratio | Varies by model, not 16:9 | 16:9                    |
-| ExpressKeys              | Left side                 | Top, with dials         |
-| Multitouch               | Yes                       | No                      |
-| Bezels                   | Wide                      | Very narrow on 3 sides  |
-| Weight                   | Heavier                   | About 40% lighter       |
-| Driver support           | Expected to end by 2030   | Current                 |
+|                          | Intuos Pro 2017 (PTH-x60)                                  | Intuos Pro 2025 (PTK-x70)                                              |
+| ------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Drawing performance      | EXCELLENT                                                  | EXCELLENT (same)                                                       |
+| Included pen             | Pro Pen 2 (KP-504E). In my opinion slightly better feel.   | Pro Pen 3 (ACP-500). Very customizable. Pro Pen 2 also works.          |
+| UD EMR pens              | No                                                         | Yes (specific pens)                                                    |
+| Barrel rotation          | Art Pen (KP-701E) only. Rare and expensive now.            | Art Pen 2 (ACP-700, ~$100) or Art Pen (KP-701E)                        |
+| Wired report rate        | 200 Hz                                                     | 300 Hz (with Pro Pen 3)                                                |
+| ExpressKeys              | Left side, with a Touch Ring                               | Along the top edge, with dials                                         |
+| Multitouch               | Yes (with a hardware switch)                               | No                                                                     |
+| Footprint and weight     | Larger and heavier                                         | Smaller and about 40% lighter                                          |
+| Active area              | Smaller                                                    | Slightly larger                                                        |
+| Active area aspect ratio | Varies by model, not 16:9                                  | 16:9                                                                   |
+| Bezels                   | Wide and sloped                                            | Very narrow on 3 sides. The edge is more noticeable.                   |
+| Surface                  | More texture. Eats nibs quickly.                           | Smoother and softer. Much less nib wear.                               |
+| Driver support           | Expected to end between 2027 and 2029 (2030 at the latest) | Current model                                                          |
 
 ## Key differences
 
@@ -77,11 +78,14 @@ WINNER: TIED
 
 There is no improvement to drawing performance. Pressure handling, diagonal wobble and pointer lag are all about the same. Most of the drawing experience comes from the pen; see [Wacom Pro Pen 3 (ACP-500) vs Wacom Pro Pen 2 (KP-504E)](../../pens/wacom-pens/wacom-acp500-vs-kp504e.md).
 
+
 ### Included pen
 
 WINNER: UNCLEAR
 
 The 2017 edition comes with the Pro Pen 2 (KP-504E). The 2025 edition comes with the Pro Pen 3 (ACP-500), which is very customizable. Opinions about the two pens are very polarized. See [Wacom Pro Pen 3 (ACP-500) vs Wacom Pro Pen 2 (KP-504E)](../../pens/wacom-pens/wacom-acp500-vs-kp504e.md).
+
+In my opinion, the Pro Pen 2 (KP-504E) has a slightly better drawing feel than the Pro Pen 3 (ACP-500). The difference is small, and the Pro Pen 2 also works on the 2025 edition, so you can use it there if you prefer it.
 
 ### Pen compatibility
 
@@ -91,7 +95,16 @@ The Intuos Pro 2025 works with the Pro Pen 3 and with specific pens that use "Wa
 
 <table data-search="false"><thead><tr><th width="262.20001220703125">Pen</th><th width="150.60003662109375">Tested?</th><th>Intuos Pro 2017 PTH-x60</th><th>Intuos Pro 2025 PTK-x70</th></tr></thead><tbody><tr><td>Wacom Pro Pen 3 (ACP-500)</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>SPECIFIC pens using “Wacom UD EMR”</td><td>TESTED</td><td>NO</td><td>YES</td></tr><tr><td>Wacom Pro Pen 2 (KP-504E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen Slim (KP-301E)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen 3D (KP-505)</td><td>UNTESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Grip Pen (KP-501E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Pro Pen (KP-503E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Art Pen (KP-701E)</td><td>TESTED</td><td>YES</td><td>YES</td></tr><tr><td>Wacom Airbrush Pen (KP-400E)</td><td>UNTESTED</td><td>?</td><td>?</td></tr><tr><td>Wacom 4K pen (LP-1100K)</td><td>TESTED</td><td>NO</td><td>NO</td></tr><tr><td>Wacom 2K pen (LP-190)</td><td>TESTED</td><td>NO</td><td>NO</td></tr></tbody></table>
 
-For which UD EMR pens work, see [Compatibility with specific Wacom UD EMR pens](wacom-intuos-pro-2025/wacom-ptkx70-notes.md#compatibility-with-specific-wacom-ud-emr-pens).
+The specific UD EMR pens that work, such as the Samsung S Pen and the Wacom One pen (CP-923), do not have stroke quality good enough for finished artwork, but they are cheap and make good emergency backup pens. For which UD EMR pens work, see [Compatibility with specific Wacom UD EMR pens](wacom-intuos-pro-2025/wacom-ptkx70-notes.md#compatibility-with-specific-wacom-ud-emr-pens).
+
+#### Barrel rotation and the Art Pens
+
+Both editions support barrel rotation, but neither included pen does. You need an Art Pen.
+
+* **Intuos Pro 2017** - Needs the original Wacom Art Pen (KP-701E). It is rare now and often sells for around $500 on eBay.
+* **Intuos Pro 2025** - Works with the Wacom Art Pen 2 (ACP-700), which costs about $100, and with the original Art Pen (KP-701E). This makes the 2025 edition the sensible choice if you want barrel rotation.
+
+More here: [Wacom Art Pen 2 (ACP-700) notes](../../pens/wacom-pens/wacom-acp700-notes.md) and [Wacom Art Pen 2 (ACP-700) vs Art Pen (KP-701E)](../../pens/wacom-pens/wacom-acp700-vs-kp701e.md).
 
 ### Report rate
 
@@ -121,7 +134,8 @@ WINNER: INTUOS PRO 2017
 
 The Intuos Pro 2025 does **NOT** support multitouch. Many people did not use the multi-touch feature of the Intuos Pro 2017, but a few did and were big fans of it. For them, losing it is a major negative.
 
-In my opinion the touch support on the 2017 edition is not great. See [Touch](wacom-intuos-pro-2017/wacom-pthx60-notes.md#touch).
+If you rely on touch gestures, that alone may decide it for you. In my opinion the touch support on the 2017 edition is not great. See [Touch](wacom-intuos-pro-2017/wacom-pthx60-notes.md#touch).
+
 
 ### Device size and active area
 
@@ -163,7 +177,7 @@ The 2017 models had unusual aspect ratios, while the new devices all have 16:9 a
 
 #### Aspect ratio
 
-<table data-search="false"><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>1.440:1</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>≈3:2 (1.514:1)</p></td><td><p>PTK-670</p><p>16:9 (1.784)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>16:10</td><td><p>PTK-470</p><p>16:9 (1.781)</p></td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="140.20001220703125">Size category</th><th width="183.39996337890625">Intuos Pro 2017</th><th width="186.800048828125">Intuos Pro 2025</th></tr></thead><tbody><tr><td>LARGE</td><td><p>PTH-860</p><p>1.440:1</p></td><td><p>PTK-870</p><p>16:9 (1.79)</p></td></tr><tr><td>MEDIUM</td><td><p>PTH-660</p><p>≈3:2 (1.514:1)</p></td><td><p>PTK-670</p><p>16:9 (1.777)</p></td></tr><tr><td>SMALL</td><td>PTH-460<br>16:10</td><td><p>PTK-470</p><p>16:9 (1.781)</p></td></tr></tbody></table>
 
 #### Active area with Force Proportions enabled on a 16:9 monitor
 
@@ -173,11 +187,11 @@ The 2017 models had unusual aspect ratios, while the new devices all have 16:9 a
 
 WINNER: INTUOS PRO 2025
 
-* 40% weight reduction across all models
+* At least 40% weight reduction across all models
 * The 2025 LARGE model weighs less than the 2017 MEDIUM model
 * The 2025 MEDIUM model weighs less than the 2017 SMALL model
 
-<table data-search="false"><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017</th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.286%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-40.67%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="157">Tablet</th><th>Intuos Pro 2017</th><th>Intuos Pro 2025</th><th>% decrease</th></tr></thead><tbody><tr><td>Large</td><td>1300g</td><td>660g</td><td>-49.23%</td></tr><tr><td>Medium</td><td>700g</td><td>411g</td><td>-41.29%</td></tr><tr><td>Small</td><td>450g</td><td>240g</td><td>-46.67%</td></tr></tbody></table>
 
 Despite the weight loss, the 2025 edition does not slide around on the desk while drawing. It does require less force to move deliberately than the PTH-660.
 
@@ -203,7 +217,7 @@ With the device sizes shrinking but the active area increasing, the bezels have 
 * The TOP bezel has grown a bit to hold the ExpressKeys and dials
 * All numbers here are approximate
 
-<table data-search="false"><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.2%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="149">Bezel size</th><th>Bezel PTH-660</th><th>Bezel PTK-670</th><th>Delta</th><th>%change</th></tr></thead><tbody><tr><td>TOP</td><td>30</td><td>40</td><td>+10mm</td><td>+33.3%</td></tr><tr><td>RIGHT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr><tr><td>BOTTOM</td><td>35</td><td>10</td><td>-25mm</td><td>-71.4%</td></tr><tr><td>LEFT</td><td>60</td><td>10</td><td>-50mm</td><td>-83.3%</td></tr></tbody></table>
 
 Numbers don't capture the difference. Here's a photo with purple tape over the right bezel of the Intuos Pro 2017 Medium and the Intuos Pro 2025 Medium.
 
@@ -266,25 +280,12 @@ Over time, I would EXPECT nibs to wear down less on the 2025 edition. Only time 
 
 For texture sheets, the 2017 edition had Standard, Smooth and Rough sheets for the MEDIUM and LARGE models (often sold out). The 2025 edition has sheets for all three sizes, but only in Standard texture.
 
+
 ### Driver support lifetime
 
 WINNER: INTUOS PRO 2025
 
-Wacom professional pen tablets have a support lifetime of something like 10 to 12 years. I expect support for the Intuos Pro 2017 to end between 2027 and 2029, and by 2030 at the latest. The Intuos Pro 2025 is the current model. See [Buying an Intuos Pro 2017 in 2026](wacom-intuos-pro-2017/buying-pthx60-in-2026.md).
-
-
-
-### Pro Pen 2 (ACP-500) vs Pro Pen 3 (KP-504E)
-
-The Pro Pen 2 (KP-504E) that comes with the 2017 edition has, in my opinion, a slightly better drawing feel than the Pro Pen 3 (ACP-500) that comes with the 2025 edition. The difference is small. The Pro Pen 2 also works on the 2025 edition, so you can use it there if you prefer it. More here: [Wacom Pro Pen 3 (ACP-500) vs Wacom Pro Pen 2 (KP-504E)](../../pens/wacom-pens/wacom-acp500-vs-kp504e.md).
-
-### Touch
-
-The 2017 edition supports multitouch. The 2025 edition does not. If you rely on touch gestures, that alone may decide it for you.
-
-### Driver support lifetime
-
-Wacom typically supports a tablet with drivers for about 10 years. Official driver support for the Intuos Pro 2017 is expected to start winding down around 2027. The Intuos Pro 2025 has roughly 9 years of driver support left.
+Wacom professional pen tablets have a support lifetime of something like 10 to 12 years. I expect support for the Intuos Pro 2017 to end between 2027 and 2029, and by 2030 at the latest. The Intuos Pro 2025 is the current model.
 
 When Wacom drivers stop supporting a tablet, the hardware still works. [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver/otd-windows-install) is an alternative that can keep older hardware running, although it takes some technical expertise to set up for artistic use.
 
@@ -293,29 +294,3 @@ More here:
 * [Buying an Intuos Pro 2017 in 2026](wacom-intuos-pro-2017/buying-pthx60-in-2026.md)
 * [Using older drawing tablets](../../../guides/general/older-drawtabs.md)
 * [Older Wacom drivers](../../../guides/drivers/older-wacom-drivers.md)
-
-### Footprint and active area
-
-The 2025 edition is physically smaller and lighter, which saves desk space, while its active area is slightly larger than the 2017 edition. For the Medium size:
-
-* Intuos Pro 2017 Medium (PTH-660): 338 x 219 mm, 700 g, active area 224 x 148 mm
-* Intuos Pro 2025 Medium (PTK-670): 291 x 206 mm, 411 g, active area 263 x 148 mm
-
-### Barrel rotation and the Art Pens
-
-Both editions support barrel rotation, but neither included pen does. You need an Art Pen.
-
-* **Intuos Pro 2017** - Needs the original Wacom Art Pen (KP-701E). It is rare now and often sells for around $500 on eBay.
-* **Intuos Pro 2025** - Works with the Wacom Art Pen 2 (ACP-700), which costs about $100. This makes the 2025 edition the sensible choice if you want barrel rotation.
-
-More here: [Wacom Art Pen 2 (ACP-700) notes](../../pens/wacom-pens/wacom-acp700-notes.md) and [Wacom Art Pen 2 (ACP-700) vs Art Pen (KP-701E)](../../pens/wacom-pens/wacom-acp700-vs-kp701e.md).
-
-### UD EMR pens
-
-The 2025 edition works with specific pens that use Wacom UD EMR, such as the Samsung S Pen and the Wacom One pen (CP-923). Their stroke quality is not good enough for finished artwork, but they are cheap and make good emergency backup pens. The 2017 edition does not support them. More here: [Compatibility with specific Wacom UD EMR pens](wacom-intuos-pro-2025/wacom-ptkx70-notes.md#compatibility-with-specific-wacom-ud-emr-pens).
-
-### ExpressKeys, bezels and surface texture
-
-* **ExpressKeys** - On the 2017 edition they are on the left side. On the 2025 edition they moved to the top edge.
-* **Bezels** - The 2025 edition has narrow bezels that may dig into your wrist at first. The 2017 edition has wide, sloped bezels that are comfortable to rest on.
-* **Surface texture** - The 2017 surface is known for eating nibs quickly. The 2025 surface is smoother and softer, feels pleasant, and wears nibs much less.

@@ -251,7 +251,7 @@ All of these are very reliable tablets. Their pens are also very reliable. **But
 
 ## Drivers
 
-As of November 2026, the latest Wacom driver works with all of these product lines. Official support for the Intuos Pro 2017 is expected to start winding down around 2027. See [Driver support lifetime](wacom-pen-tablet-landscape.md#driver-support-lifetime) above.
+As of November 2026, the latest Wacom driver works with all of these product lines. Official support for the Intuos Pro 2017 is expected to start winding down around 2027. See [Driver support lifetime](wacom-intuos-pro-2025-vs-2017.md#driver-support-lifetime).
 
 ## Surface texture
 
