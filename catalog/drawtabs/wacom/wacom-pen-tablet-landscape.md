@@ -118,7 +118,7 @@ A reliable drawing experience. They are somewhat pricey for what they offer.
 
 **SUMMARY:** NOT RECOMMENDED FOR DRAWING.
 
-The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. They are fine for note-taking or as a mouse replacement, but I do not recommend them for drawing because their stroke dynamics are unpleasant for digital art. Their pens have a high initial activation force and a low maximum pressure (see [Pen pressure](wacom-pen-tablet-comparison.md#pen-pressure) below). More here: [Wacom One 2023 pen displays notes](wacom-one/wacom-one-2023-pen-displays-notes.md)
+The Wacom One 2023 pen tablets are intended to be upgrades to the consumer Wacom Intuos tablets. They are fine for note-taking or as a mouse replacement, but I do not recommend them for drawing because their stroke dynamics are unpleasant for digital art. Their pens have a high initial activation force and a low maximum pressure (see [Pen pressure](wacom-pen-tablet-landscape.md#pen-pressure) below). More here: [Wacom One 2023 pen displays notes](wacom-one/wacom-one-2023-pen-displays-notes.md)
 
 ## Upcoming tablets
 
@@ -159,13 +159,13 @@ Consumer and professional pens are separate. A consumer pen does not work on a p
 
 Within the professional line, the Intuos Pro 2025 is the more flexible one: it works with the Pro Pen 3, the Pro Pen 2 and most older Wacom pro pens, the Art Pen 2, and specific UD EMR pens. The Intuos Pro 2017 does not work with the Pro Pen 3, the Art Pen 2, or UD EMR pens. See [Wacom Intuos Pro 2025 vs Intuos Pro 2017](wacom-intuos-pro-2025-vs-2017.md).
 
-| Tablet                                                                            | Included pen                       |
-| --------------------------------------------------------------------------------- | ---------------------------------- |
-| <p><strong>One by Wacom</strong><br>(CTL-472, CTL-672)</p>                        | Wacom 2K Pen (LP-190K)             |
-| <p><strong>Wacom One 2023 pen tablets</strong></p><p>(CTC-4110WL, CTC-6110WL)</p> | Wacom One Standard Pen (CP-923)    |
-| <p><strong>Intuos</strong></p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL)</p> | Wacom 4K Pen (LP-1100K)            |
-| <p><strong>Intuos Pro 2017</strong><br>(PTH-460, PTH-660, PTH-860)</p>            | Pro Pen 2 (KP-504E)                |
-| <p><strong>Intuos Pro 2025</strong><br>(PTK-470, PTK-670, PTK-870)</p>            | Pro Pen 3 (ACP-500)                |
+| Tablet                                                                            | Included pen                    |
+| --------------------------------------------------------------------------------- | ------------------------------- |
+| <p><strong>One by Wacom</strong><br>(CTL-472, CTL-672)</p>                        | Wacom 2K Pen (LP-190K)          |
+| <p><strong>Wacom One 2023 pen tablets</strong></p><p>(CTC-4110WL, CTC-6110WL)</p> | Wacom One Standard Pen (CP-923) |
+| <p><strong>Intuos</strong></p><p>(CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL)</p> | Wacom 4K Pen (LP-1100K)         |
+| <p><strong>Intuos Pro 2017</strong><br>(PTH-460, PTH-660, PTH-860)</p>            | Pro Pen 2 (KP-504E)             |
+| <p><strong>Intuos Pro 2025</strong><br>(PTK-470, PTK-670, PTK-870)</p>            | Pro Pen 3 (ACP-500)             |
 
 Of the pens identified, the Wacom Pro Pen 2 and Pro Pen 3 are the best in terms of design, materials, shape, and weight distribution.
 
@@ -299,7 +299,7 @@ All of these are very reliable tablets. Their pens are also very reliable. **But
 
 ## Drivers
 
-As of November 2026, the latest Wacom driver works with all of these product lines. Official support for the Intuos Pro 2017 is expected to start winding down around 2027. See [Driver support lifetime](wacom-pen-tablet-comparison.md#driver-support-lifetime) above.
+As of November 2026, the latest Wacom driver works with all of these product lines. Official support for the Intuos Pro 2017 is expected to start winding down around 2027. See [Driver support lifetime](wacom-pen-tablet-landscape.md#driver-support-lifetime) above.
 
 ## Surface texture
 

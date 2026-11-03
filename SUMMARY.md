@@ -553,7 +553,7 @@
         * [Wacom MovinkPad Pro 14 (DTH-A140) notes](catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha140-notes.md "MovinkPad Pro 14 (DTH-A140)")
         * [Wacom MovinkPad Pro 14 cover (ACK45633Z) notes](catalog/drawtabs/wacom/wacom-movinkpad/wacom-ack45633z-notes.md "MovinkPad Pro 14 cover (ACK45633Z)")
       * [Wacom standalone tablet landscape](catalog/drawtabs/wacom/wacom-standalone-tablet-landscape.md "Standalone tablet landscape")
-      * [Wacom pen tablet landscape](catalog/drawtabs/wacom/wacom-pen-tablet-comparison.md "Pen tablet landscape")
+      * [Wacom pen tablet landscape](catalog/drawtabs/wacom/wacom-pen-tablet-landscape.md "Pen tablet landscape")
       * [Wacom tablet lists](catalog/drawtabs/wacom/wacom-tablet-models.md "Tablet lists")
       * [Wacom One vs One by Wacom](catalog/drawtabs/wacom/wacom-one-vs-one-by-wacom.md)
       * [Wacom model number format](catalog/drawtabs/wacom/wacom-model-number-format.md "Model number format")
