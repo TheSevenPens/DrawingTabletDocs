@@ -18,7 +18,7 @@ Wacom has several separate lines of pen tablets (drawing tablets without a scree
 * **Already own an Intuos Pro 2017** → Do NOT upgrade. Keep using it.
 * **Want to spend less** → Intuos Medium (CTL-6100 or CTL-6100WL)
 * **Do not buy for drawing** → Wacom One 2023 pen tablets (CTC-4110WL, CTC-6110WL).
-* **Size** → Medium size (10" to 12" diagonal active area) is the a good choice for most people.&#x20;
+* **Size** → Medium size (10" to 12" diagonal active area) is the a good choice for most people.
 
 ## Choosing a size
 
@@ -32,8 +32,14 @@ More information: [Choosing the right size for a drawing tablet](../../../buying
 
 There are two choices:
 
-* **Intuos Pro 2025** (PTK-470, PTK-670, PTK-870) -> [Wacom Intuos Pro 2025 (PTK-x70) notes](wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
-* **Intuos Pro 2017** (PTH-460, PTH-660, PTH-860) -> [Wacom Intuos Pro 2017 (PTH-x60) notes](wacom-intuos-pro-2017/wacom-pthx60-notes.md)
+* **Intuos Pro 2025** (PTK-x70) -> [Wacom Intuos Pro 2025 (PTK-x70) notes](wacom-intuos-pro-2025/wacom-ptkx70-notes.md)
+  * Intuos Pro 2025 Small (PTK-470)
+  * Intuos Pro 2025 Medium (PTK-670)
+  * Intuos Pro 2025 Large (PTK-870)&#x20;
+* **Intuos Pro 2017** (PTH-x60) -> [Wacom Intuos Pro 2017 (PTH-x60) notes](wacom-intuos-pro-2017/wacom-pthx60-notes.md)
+  * Intuos Pro 2017 Small (PTH-460)
+  * Intuos Pro 2017 Medium (PTH-660)
+  * Intuos Pro 2017 Large (PTH-860)&#x20;
 
 If you want a pen tablet for drawing/sketching/painting and want to go with the "safe choice" then you should pick a Wacom tablet. In particular the Wacom Intuos Pro 2025 and 2017 models are THE BEST PEN TABLETS EVER MADE. The drawing experience of the two is essentially the same.
 
@@ -42,21 +48,29 @@ If you want a pen tablet for drawing/sketching/painting and want to go with the 
 **Summary**
 
 * **First-time buyers** → Intuos Pro 2025.
-* **Existing Intuos Pro 2017 owners** → Do not upgrade. The 2025 edition does not give you a better drawing experience. &#x20;
+* **Existing Intuos Pro 2017 owners** → Do not upgrade. The 2025 edition does not give you a better drawing experience.
 
 For a details side-by-side, see [Wacom Intuos Pro 2025 vs Intuos Pro 2017](wacom-intuos-pro-2025-vs-2017.md).
 
 ## Choosing a Wacom consumer pen tablet
 
-There are three choices:
+There are three choices each available as a SMALL or MEDIUM tablet:
 
-* **One by Wacom** (CTL-472, CTL-672) -> [One by Wacom (CTL-x72) notes](one-by-wacom/wacom-ctlx72-notes.md)
-* **Intuos** (CTL-4100, CTL-4100WL, CTL-6100, CTL-6100WL) -> [Wacom Intuos (CTL-x100) notes](wacom-intuos/wacom-ctlx100-notes.md)
-* **Wacom One 2023** (CTC-4110WL, CTC-6110WL) -> [Wacom One 2023 pen tablets (CTC-x110WL) notes](wacom-one/wacom-ctcx110wl-notes.md)
+* **One by Wacom** (CTL-x72) -> [One by Wacom (CTL-x72) notes](one-by-wacom/wacom-ctlx72-notes.md)
+  * One by Wacom SMALL (CTL-472)
+  * One by Wacom MEDIUM (CTL-672)&#x20;
+* **Intuos** (CTL-x100) -> [Wacom Intuos (CTL-x100) notes](wacom-intuos/wacom-ctlx100-notes.md)
+  * Intuos Small (CTL-4100)
+  * Intuos Small BT (CTL-4100WL)
+  * Intuos Medium BT (CTL-6100)
+  * Intuos Medium BT (CTL-6100WL)
+* **Wacom One 2023** (CTC-x110WL) -> [Wacom One 2023 pen tablets (CTC-x110WL) notes](wacom-one/wacom-ctcx110wl-notes.md)
+  * Wacom One 2023 Small (CTC-4110WL)
+  * Wacom One 2023 Medium (CTC-6110WL)&#x20;
 
 ### One by Wacom series (CTL-x72)
 
-**SUMMARY:** VERY GOOD BASIC TABLETS BUT DISCONTINUED.
+**SUMMARY:** VERY GOOD BASIC TABLETS BUT DISCONTINUED
 
 I really like how these draw. But they are discontinued and are getting harder to find at a reasonable price.
 
