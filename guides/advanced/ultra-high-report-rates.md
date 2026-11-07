@@ -35,7 +35,7 @@ It depends on what you want to do.
 
 ## Benefits for osu players
 
-The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets. An ulta-high report rate can benefit serious players.
+The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets. An ultra-high report rate can benefit serious players.
 
 However, you must keep in mind that playing this game has different priorities than drawing. For example, an osu! player does not need pressure or tilt sensitivity. The game does not use those pen capabilities.&#x20;
 
@@ -55,9 +55,19 @@ Based on current testing, these higher report rates are not yet helpful for arti
 
 ## Upper limit to artistic improvement
 
-Even if the pen supplies all desired data at very high report rates, strokes may not improve absed on what an artist sees.&#x20;
+Even if the pen supplies all desired data at very high report rates, strokes may not improve based on what an artist sees.&#x20;
+
+**Any improvements may not be obvious**&#x20;
 
 Modern creative applications perform substantial work to render good-looking smooth strokes. Increasing the report rate might not make strokes look better in practice. This area needs further investigation.
+
+**Inherent limitations to pen data**
+
+Drawing tablets are incredibley precise. They are capable of sensing very very tiny changes in pen position. See: [Digitizer vs screen coordinates](../../core/digitizer-vs-screen-coordinates.md)
+
+Drawing tablet EMR pens are capable many distinguishing between many pressure levels. Modern EMR pens support at least 8000 levels of pressure - which is well above what I think artists need or are capable of noticing.
+
+However, tilt is NOT as sensitive as pressure. Drawing tablets can (as far as I have seen) only sense tilt is whole degrees. So instead of thousands of levels of tilt - we have about 60. Ultra-high report rates will not make tilt work better.&#x20;
 
 ## Dangers
 
