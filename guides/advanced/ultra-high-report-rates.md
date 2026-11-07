@@ -14,7 +14,7 @@ For example here's an artifact called shoelacing that appears as a stroke ends -
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt="" width="188"><figcaption></figcaption></figure>
 
-Gamers who use mice have been used to mice that have a report rate on the order of 500, 1000 4008 thousand Hertz. So for those players that like to use a drawing tablet to play a game like OSU, you can understand there's a natural motivation to have their drawing tablets perform as well as a mouse.
+Gamers who use mice have been used to mice that have a report rate on the order of 500, 1000, or 4000 thousand Hertz. So for those players that like to use a drawing tablet to play a game like **osu!**, you can understand there's a natural motivation to have their drawing tablets perform as well as a mouse.
 
 ### Are higher report rates possible?
 
@@ -33,14 +33,14 @@ It depends on what you want to do.
 * For gamers - especially osu players: YES.
 * For artists - not yet.
 
-## Benefits for osu players
+## Benefits for osu! players
 
-The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets. An ultra-high report rate can benefit serious players.
+The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets for osu and an ultra-high report rate can benefit serious players.
 
 However, you must keep in mind that playing this game has different priorities than drawing. For example, an osu! player does not need pressure or tilt sensitivity. The game does not use those pen capabilities.&#x20;
 
 {% hint style="info" %}
-Some osu players due use the pen tip - but they are not interested in pressure sensitivity - just detection that ANY pressure is used - i.e. that they "clicked"
+Some osu players do use the pen tip - but they are not interested in pressure sensitivity - just detection that ANY pressure is used - i.e. that they "clicked"
 {% endhint %}
 
 ## Limiting factors for artists
