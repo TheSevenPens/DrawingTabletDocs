@@ -1,24 +1,63 @@
 # Ultra-high report rates
 
-## Higher report rates
+## Current state-of-the-art
 
-As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz.
+As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz. This specific report rate is achieved with a Wacom Intuos Pro 2025 pen tablet (PTK-x70 series). A more much typical value is 200Hz to 250Hz.
+
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
+### The motivation for higher report rates
+
+For artists the motivation is simple: strokes should look less segmented especially as you draw a very fast stroke and in theory this extra data should be useful in making the strokes look better especially as a stroke makes fast transitions in pressure for example at the beginning or end of a stroke.
+
+For example here's an artifact called shoelacing that appears as a stroke ends - and the pen is moving very fast and moves through a wide pressure range. It is thought that a much higher report rate would help make such strokes look better.
+
+<figure><img src="../../.gitbook/assets/image (74).png" alt="" width="188"><figcaption></figcaption></figure>
+
+Gamers who use mice have been used to mice that have a report rate on the order of 500, 1000 4008 thousand Hertz. So for those players that like to use a drawing tablet to play a game like OSU, you can understand there's a natural motivation to have their drawing tablets perform as well as a mouse.
 
 ### Are higher report rates possible?
 
-Yes. In late 2026, tablet experts and enthusiasts began modifying drawing-tablet firmware. They produced patches with report rates of 500 Hz, 700 Hz, and slightly above 1,000 Hz.
+Yes.&#x20;
+
+People have wanted higher report rates for a very long time but no one's ever been able to achieve these higher report rates beyond what a manufacturer provides.
+
+In late 2026, tablet experts and enthusiasts began modifying drawing-tablet firmware. They produced patches with report rates of 500 Hz, 700 Hz, and slightly above 1,000 Hz.
+
+I've tested this firmware out and can confirm that they have indeed achieved these ultra high report rates.
 
 ### Are higher report rates useful?
 
 It depends on what you want to do.
 
-The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets. A more responsive drawing tablet can benefit serious players.
+* For gamers - especially osu players: YES.
+* For artists - not yet.
 
-Playing this game has different priorities than drawing. For example, an osu! player does not need pressure or tilt sensitivity. The game does not use those pen capabilities. They are important for creative users.
+## Benefits for osu players
 
-There is a practical limit to the data a pen can send to the tablet. This limit depends on the energy the tablet can deliver to the pen and the data it can reliably transmit. Very high report rates can transmit pen-position data more frequently, but pressure reporting may not work as well. Based on current testing, these higher report rates are not yet helpful for artists. This needs further investigation.
+The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets. An ulta-high report rate can benefit serious players.
 
-Even when the pen supplies all desired data at very high report rates, strokes may not visibly improve. Modern creative applications perform substantial work to render smooth strokes. Increasing the report rate might not make strokes look better. This area needs further investigation.
+However, you must keep in mind that playing this game has different priorities than drawing. For example, an osu! player does not need pressure or tilt sensitivity. The game does not use those pen capabilities.&#x20;
+
+{% hint style="info" %}
+Some osu players due use the pen tip - but they are not interested in pressure sensitivity - just detection that ANY pressure is used - i.e. that they "clicked"
+{% endhint %}
+
+## Limiting factors for artists
+
+There is a practical limit to the data a pen can send to the tablet. I think of this limit as a "budget" that depends on the energy the tablet can deliver to the pen and the data the pen can reliably transmit.&#x20;
+
+So far, it seems that getting pressure to reported at these higher refresh rates is still difficult. While the report rate can be 1000Hz, the pressure is not being updated with every report.
+
+In fact in my initial testing, LESS pressure data was being reported at 1000Hz and the strokes actually looked WORSE than before. Strokes looked "blobby" and not smooth.
+
+Based on current testing, these higher report rates are not yet helpful for artists. This needs further investigation.
+
+## Upper limit to artistic improvement
+
+Even if the pen supplies all desired data at very high report rates, strokes may not improve absed on what an artist sees.&#x20;
+
+Modern creative applications perform substantial work to render good-looking smooth strokes. Increasing the report rate might not make strokes look better in practice. This area needs further investigation.
 
 ## Dangers
 
