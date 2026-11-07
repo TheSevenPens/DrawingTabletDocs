@@ -34,17 +34,17 @@ I've tested this firmware out and can confirm that they have indeed achieved the
 
 It depends on what you want to do.
 
-* For gamers - especially osu players: YES.
+* For gamers - especially osu! players: YES.
 * For artists - not yet.
 
 ## Benefits for osu! players
 
-The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets for osu and an ultra-high report rate can benefit serious players.
+The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets for osu! and an ultra-high report rate can benefit serious players.
 
 However, you must keep in mind that playing this game has different priorities than drawing. For example, an osu! player does not need pressure or tilt sensitivity. The game does not use those pen capabilities.&#x20;
 
 {% hint style="info" %}
-Some osu players do use the pen tip - but they are not interested in pressure sensitivity - just detection that ANY pressure is used - i.e. that they "clicked"
+Some osu! players do use the pen tip - but they are not interested in pressure sensitivity - just detection that ANY pressure is used - i.e. that they "clicked"
 {% endhint %}
 
 ## Limiting factors for artists
@@ -67,17 +67,19 @@ Modern creative applications perform substantial work to render good-looking smo
 
 **Inherent limitations to pen data**
 
-Drawing tablets are incredibley precise. They are capable of sensing very very tiny changes in pen position. See: [Digitizer vs screen coordinates](../../core/digitizer-vs-screen-coordinates.md)
+Drawing tablets are incredibly precise. They are capable of sensing very very tiny changes in pen position. See: [Digitizer vs screen coordinates](../../core/digitizer-vs-screen-coordinates.md)
 
-Drawing tablet EMR pens are capable many distinguishing between many pressure levels. Modern EMR pens support at least 8000 levels of pressure - which is well above what I think artists need or are capable of noticing.
+Drawing tablet EMR pens are capable of distinguishing between many pressure levels. Modern EMR pens support at least 8000 levels of pressure - which is well above what I think artists need or are capable of noticing.
 
-However, tilt is NOT as sensitive as pressure. Drawing tablets can (as far as I have seen) only sense tilt is whole degrees. So instead of thousands of levels of tilt - we have about 60. Ultra-high report rates will not make tilt work better.&#x20;
+However, tilt is NOT as sensitive as pressure. Drawing tablets can (as far as I have seen) only sense tilt in whole degrees. So instead of thousands of levels of tilt altitude - we have about 128 (roughly +/- 60 whole degrees). And for tilt azimuth only 360 whole degrees.&#x20;
+
+Ultra-high report rates will not make tilt work better.&#x20;
 
 ## Dangers
 
 Achieving these high report rates involves patching a drawing tablet's firmware.
 
-No drawing-tablet brand explicitly supports firmware patching.
+No drawing-tablet brand explicitly supports third party patches to their firmware. The only firmware changes they support are ones they themselves provide with their official firmware update software.
 
 Doing so has several potential problems and risks:
 
@@ -86,6 +88,6 @@ Doing so has several potential problems and risks:
 * Creating or using modified firmware may infringe the manufacturer's intellectual property rights.
 * Installing modified firmware may temporarily or permanently brick your drawing tablet.
 
-For these reasons, I do not recommend that the average person modify their drawing tablet's firmware.
+For these reasons, I do not recommend that a non-technical user modify their drawing tablet's firmware.&#x20;
 
 Perhaps, in the future, enough experience will make modified firmware safer to try. For now, I do not recommend using modified firmware on your drawing tablet.
