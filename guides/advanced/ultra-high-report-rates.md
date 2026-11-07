@@ -2,7 +2,9 @@
 
 ## Current state-of-the-art
 
-As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz. This specific report rate is achieved with a Wacom Intuos Pro 2025 pen tablet (PTK-x70 series). A more much typical value is 200Hz to 250Hz.
+A typical modern tablet has a report rate of 200Hz to 250Hz for pen reports. More here: [Tablet reports](tablet-reports.md)
+
+As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz. This specific report rate is achieved with a Wacom Intuos Pro 2025 pen tablet (PTK-x70 series).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,9 +14,12 @@ The diagram below will help you visualize and compare these rates.
 
 ### The motivation for higher report rates
 
-For artists the motivation is simple: strokes should look less segmented especially as you draw a very fast stroke and in theory this extra data should be useful in making the strokes look better especially as a stroke makes fast transitions in pressure for example at the beginning or end of a stroke.
+For artists the motivation is simple: much higher report rates are expected to:
 
-For example here's an artifact called shoelacing that appears as a stroke ends - and the pen is moving very fast and moves through a wide pressure range. It is thought that a much higher report rate would help make such strokes look better.
+* make strokes look less segmented especially as you draw a very fast stroke
+* smooth out quick pressure transitions - especially at the beginning and ending of a stroke
+
+For example "shoelacing" appears as a stroke ends and the pen is moving fast and moves through a wide pressure range. This should be improved with a much higher refresh rate.
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt="" width="188"><figcaption></figcaption></figure>
 
