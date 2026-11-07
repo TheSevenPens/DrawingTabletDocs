@@ -14,43 +14,19 @@ The tablet sends these reports to the computer at different rates:
 * Touch reports, if your tablet supports them, are typically sent 60 to 100 times per second.
 * Auxiliary input reports are not sent at a fixed rate. They are only sent when you use an auxiliary input, such as a button or dial.
 
-{% hint style="info" %}
-Most tablets connect over USB and describe their reports using the USB HID ("Human Interface Device") standard, the same standard used by mice and keyboards. Bluetooth tablets usually use the same HID report model. This page uses USB HID terms throughout.
-{% endhint %}
-
 ## Report rate
 
 You can see this often in the specifications for a tablet as "report rate". Here is an example.
 
 <figure><img src="https://1457921496-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNde0PQIvNcFZNVxuTO0G%2Fuploads%2F3PWZrFGq2AmRKehQbamy%2Fimage.png?alt=media&#x26;token=6d001f13-e23e-4898-b283-f03dd25d028d" alt="" width="375"><figcaption></figcaption></figure>
 
-“RPS” means “reports per second.”
+* “RPS” means “reports per second.”&#x20;
+* Because this is a value per second, some literature uses the unit Hz. For example, instead of “200 RPS,” you might see “200 Hz.”
+* When you see it listed it is referring to pen reports. I'v never seen the touch report rate listed.
 
-Because this is a value per second, some literature uses the unit Hz. For example, instead of “200 RPS,” you might see “200 Hz.”
-
-The report rate in a tablet's specifications is the rate of **pen** reports. Touch, buttons, and dials are sent at their own rates, described in [When reports are sent](tablet-reports.md#when-reports-are-sent) below.
-
-## One device, several kinds of reports
-
-A single tablet can contain several logical input devices. When you plug it in, the operating system may see a pen digitizer, a touch device, and a keyboard or "consumer control" device, all belonging to the same physical tablet.
-
-This happens at two levels.
-
-### Report IDs
-
-Every HID device sends a **report descriptor** when it connects. The descriptor is a small program that tells the computer exactly what each report looks like: which bits are buttons, which bytes are X and Y, how many bits encode pressure, and so on.
-
-A descriptor can declare several kinds of reports. Each one is given a **Report ID**, which is sent as the **first byte** of every report. The computer reads that first byte to know which layout the remaining bytes follow. Each Report ID has its own fixed length.
-
-So a pen report and an ExpressKey report are not parts of one big packet. They are separate, smaller reports that take turns on the same connection, each starting with its own Report ID.
-
-The values are chosen by the manufacturer. The numbers used in the examples on this page (`0x02` for pen, `0x03` for pad, `0x04` for touch) are only illustrations. Real tablets use many different numbers, and the same brand often changes them between generations.
-
-## Report contents
+## Pen report contents
 
 The exact data format inside a report depends on the tablet and report type. However, reports generally follow some basic patterns. Below are typical examples.
-
-### Pen reports
 
 * **Report ID** — a number that identifies the report type. In this case, it identifies a pen report.
 * **X, Y position** — the pen's position.
@@ -69,7 +45,7 @@ When reading technical drawing-tablet documentation, you may see the term “swi
 
 ## Higher report rates
 
-As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz. However, this year, there has been some progress in achieving higher report rates: Ultra-high report rates
+As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz. However, this year, there has been some progress in achieving higher report rates: [Ultra-high report rates](ultra-high-report-rates.md)
 
 ## Finding report rates
 
