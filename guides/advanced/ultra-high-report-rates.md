@@ -6,6 +6,10 @@ As of November 2026, the highest pen report rate seen in drawing tablets is 300 
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
+The diagram below will help you visualize and compare these rates.
+
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+
 ### The motivation for higher report rates
 
 For artists the motivation is simple: strokes should look less segmented especially as you draw a very fast stroke and in theory this extra data should be useful in making the strokes look better especially as a stroke makes fast transitions in pressure for example at the beginning or end of a stroke.
@@ -14,7 +18,7 @@ For example here's an artifact called shoelacing that appears as a stroke ends -
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt="" width="188"><figcaption></figcaption></figure>
 
-Gamers who use mice have been used to mice that have a report rate on the order of 500, 1000, or 4000 thousand Hertz. So for those players that like to use a drawing tablet to play a game like **osu!**, you can understand there's a natural motivation to have their drawing tablets perform as well as a mouse.
+Gamers who use mice have been used to mice that have a report rate on the order of 500, 1000, 4000, or 8000 Hertz. So for those players that like to use a drawing tablet to play a game like **osu!**, you can understand there's a natural motivation to have their drawing tablets perform as well as a mouse.
 
 ### Are higher report rates possible?
 
