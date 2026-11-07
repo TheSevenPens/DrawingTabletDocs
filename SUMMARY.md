@@ -231,6 +231,7 @@
   * [Advanced](guides/advanced/README.md)
     * [Firmware](guides/advanced/firmware.md)
     * [Tablet reports](guides/advanced/tablet-reports.md)
+    * [Ultra-high report rates](guides/advanced/ultra-high-report-rates.md)
   * [Ergonomics](guides/ergonomics/README.md)
     * [Body posture when using drawing tablets](guides/ergonomics/posture.md "Posture")
     * [Handedness of drawing tablets](guides/ergonomics/handedness.md "Handedness")

@@ -22,7 +22,7 @@ Most tablets connect over USB and describe their reports using the USB HID ("Hum
 
 You can see this often in the specifications for a tablet as "report rate". Here is an example.
 
-<figure><img src="../../.gitbook/assets/tablet-reports-1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://1457921496-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNde0PQIvNcFZNVxuTO0G%2Fuploads%2F3PWZrFGq2AmRKehQbamy%2Fimage.png?alt=media&#x26;token=6d001f13-e23e-4898-b283-f03dd25d028d" alt="" width="375"><figcaption></figcaption></figure>
 
 “RPS” means “reports per second.”
 
@@ -38,9 +38,9 @@ This happens at two levels.
 
 ### Report IDs
 
-Every HID device sends a **report descriptor** when it connects. The descriptor is a small program that tells the computer exactly what each report looks like: which bits are buttons, which bytes are X and Y, how many bits the pressure uses, and so on.
+Every HID device sends a **report descriptor** when it connects. The descriptor is a small program that tells the computer exactly what each report looks like: which bits are buttons, which bytes are X and Y, how many bits encode pressure, and so on.
 
-A descriptor can declare several kinds of report. Each one is given a **Report ID**, which is sent as the **first byte** of every report. The computer reads that first byte to know which layout the rest of the bytes follow. Each Report ID has its own fixed length.
+A descriptor can declare several kinds of reports. Each one is given a **Report ID**, which is sent as the **first byte** of every report. The computer reads that first byte to know which layout the remaining bytes follow. Each Report ID has its own fixed length.
 
 So a pen report and an ExpressKey report are not parts of one big packet. They are separate, smaller reports that take turns on the same connection, each starting with its own Report ID.
 
@@ -69,27 +69,11 @@ When reading technical drawing-tablet documentation, you may see the term “swi
 
 ## Higher report rates
 
-As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz.
-
-### Are higher report rates possible?
-
-Yes. In late 2026, tablet experts and enthusiasts began modifying drawing-tablet firmware. They produced patches with report rates of 500 Hz, 700 Hz, and slightly above 1,000 Hz.
-
-### Are higher report rates useful?
-
-It depends on what you want to do.
-
-The firmware-hacking community initially explored high report rates to play a game called osu!. Players often use drawing tablets. A more responsive drawing tablet can benefit serious players.
-
-Playing this game has different priorities than drawing. For example, an osu! player does not need pressure or tilt sensitivity. The game does not use those pen capabilities. They are important for creative users.
-
-There is a practical limit to the data that a pen can send to the tablet. This limit depends on the energy the tablet can deliver to the pen and the data it can reliably transmit. Very high report rates can report pen position more frequently, but pressure reporting may not work as well. Based on current testing, these higher report rates are not yet helpful for artists. This needs further investigation.
-
-Even when the pen supplies all desired data at very high report rates, strokes may not visibly improve. Modern creative applications perform substantial work to render smooth strokes. Increasing the report rate might not make strokes look better. This area needs further investigation.
+As of November 2026, the highest pen report rate seen in drawing tablets is 300 Hz. However, this year, there has been some progress in achieving higher report rates: Ultra-high report rates
 
 ## Finding report rates
 
-Different tools can be used: [Measuring report rate](../../process/measuring/measuring-report-rate.md)
+You can use different tools: Measuring report rate
 
 ## Seeing real reports
 
