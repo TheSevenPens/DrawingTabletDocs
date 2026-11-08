@@ -25,6 +25,8 @@ For example "shoelacing" appears as a stroke ends and the pen is moving fast and
 
 Gamers who use mice have been used to mice that have a report rate on the order of 500, 1000, 4000, or 8000 Hertz. So for those players that like to use a drawing tablet to play a game like **osu!**, you can understand there's a natural motivation to have their drawing tablets perform as well as a mouse.
 
+A higher report rate should also provide an improvement to pointer lag and make drawing feel a little more responsive. For example moving from a 200Hz report which delivers a report every 5 ms to a 1000Hz report rate means the tablet delivers a report every 1 ms.&#x20;
+
 ### Are higher report rates possible?
 
 Yes.&#x20;

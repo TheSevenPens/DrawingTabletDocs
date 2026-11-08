@@ -14,6 +14,13 @@ The tablet sends these reports to the computer at different rates:
 * Touch reports, if your tablet supports them, are typically sent 60 to 100 times per second.
 * Auxiliary input reports are not sent at a fixed rate. They are only sent when you use an auxiliary input, such as a button or dial.
 
+Another way of thinking about report rates is how much time elapses between each report
+
+* 1000Hz report rate = 1 report every 1 ms
+* 500Hz report rate = 1 report evert 2ms
+* 300Hz report rate = 1 report every 3.3 ms
+* 200Hz report rate = 1 report every 5 ms&#x20;
+
 ## Report rate
 
 You can see this often in the specifications for a tablet as "report rate". Here is an example.
@@ -23,6 +30,8 @@ You can see this often in the specifications for a tablet as "report rate". Here
 * “RPS” means “reports per second.”&#x20;
 * Because this is a value per second, some literature uses the unit Hz. For example, instead of “200 RPS,” you might see “200 Hz.”
 * When you see it listed it is referring to pen reports. I'v never seen the touch report rate listed.
+
+
 
 ## Pen report contents
 
