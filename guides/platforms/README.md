@@ -1,3 +1,83 @@
 # Platforms
 
-<table data-search="false"><thead><tr><th width="117.4000244140625" valign="top">OS</th><th valign="top">NOTES</th></tr></thead><tbody><tr><td valign="top">Windows<br>macOS</td><td valign="top"><p><strong>RECOMMENDED: YES</strong></p><p><br><strong>STATUS: WORKS BEST</strong></p><ul><li>All features enabled</li><li>Drivers available</li><li>Windows: users need to know about Windows Ink vs. WinTab configuration</li><li>macOS: macOS updates tend to cause problems</li><li>macOS: Touch support does not work well, or sometimes at all, with macOS<br></li></ul><p>More here:</p><ul><li><a href="macos/using-drawtabs-with-macos.md"><strong>Using a drawing tablet on macOS</strong></a></li><li><a href="windows/using-drawtabs-with-windows.md"><strong>Using a drawing tablet on Windows</strong></a></li></ul></td></tr><tr><td valign="top">Linux</td><td valign="top"><p><strong>RECOMMENDED:  YES for advanced users</strong></p><p><strong>STATUS: WORKS WELL or OK</strong></p><ul><li>Core features supported</li><li>More advanced features not supported</li><li>Wacom drivers are built into Linux</li><li>Drivers are available for other brands</li><li>Configuration differs by distro</li><li>You can customize how the OS works with tablets</li></ul><p>More here: <a href="linux.md"><strong>Using a drawing tablet with Linux</strong></a></p></td></tr><tr><td valign="top"><p>Android</p><p>ChromeOS</p></td><td valign="top"><p><strong>RECOMMENDED:</strong> </p><ul><li><strong>NO</strong> for most people</li><li><strong>YES</strong> - only if you can verify that the exact combination of tablet, device, and apps works well.</li></ul><p><br><strong>STATUS: OK or NOT WELL or NOT AT ALL</strong></p><ul><li>MOST features are not supported</li><li>No drivers available</li><li>Pen tablets are prone to distorted strokes</li><li>Some apps work better with tablets than others</li></ul><p>More here:</p><ul><li><a href="android/using-drawtabs-with-android.md"><strong>Using a drawing tablet with an Android device</strong></a></li><li><a href="chromeos/drawtabs-with-chromeos.md"><strong>Using drawing tablets with Chromebooks</strong></a></li></ul></td></tr><tr><td valign="top">iPadOS<br>iOS</td><td valign="top"><p><strong>RECOMMENDED: NO</strong><br><br><strong>STATUS: Works OK or NOT WELL or NOT AT ALL</strong></p><ul><li>MOST features are not supported</li><li>No drivers available</li><li>Only a HANDFUL of apps work with drawing tablets</li><li>Pen tablets only work via Bluetooth</li><li>Pen displays only work as monitors</li></ul><p><br>More here:</p><ul><li><a href="ios-and-ipados/drawtabs-with-ios.md"><strong>Using a drawing tablet with an iOS or iPadOS device</strong></a></li></ul></td></tr></tbody></table>
+<details>
+
+<summary>Windows &#x26; macOS compatibility details</summary>
+
+**Recommended:** Yes
+
+**Status:** Works best
+
+* All features are enabled.
+* Drivers are available.
+* Windows users must configure Windows Ink or WinTab.
+* macOS updates can cause problems.
+* Touch support may not work on macOS.
+
+More:
+
+* [Using a drawing tablet on macOS](macos/using-drawtabs-with-macos.md)
+* [Using a drawing tablet on Windows](windows/using-drawtabs-with-windows.md)
+
+</details>
+
+<details>
+
+<summary>Linux compatibility details</summary>
+
+**Recommended:** Yes, for advanced users
+
+**Status:** Works well or OK
+
+* Core features are supported.
+* Advanced features are not supported.
+* Wacom drivers are built into Linux.
+* Other brands have available drivers.
+* Configuration differs by distribution.
+* You can customize tablet behavior through the OS.
+
+More: [Using a drawing tablet with Linux](linux.md)
+
+</details>
+
+<details>
+
+<summary>Android &#x26; ChromeOS compatibility details</summary>
+
+**Recommended:**
+
+* **No** for most people.
+* **Yes** only when the exact tablet, device, and app combination works well.
+
+**Status:** OK, not well, or not at all
+
+* Most features are unsupported.
+* No drivers are available.
+* Pen tablets can produce distorted strokes.
+* App compatibility varies.
+
+More:
+
+* [Using a drawing tablet with an Android device](android/using-drawtabs-with-android.md)
+* [Using drawing tablets with Chromebooks](chromeos/drawtabs-with-chromeos.md)
+
+</details>
+
+<details>
+
+<summary>iPadOS &#x26; iOS compatibility details</summary>
+
+**Recommended:** No
+
+**Status:** Works OK, not well, or not at all
+
+* Most features are unsupported.
+* No drivers are available.
+* Only a few apps support drawing tablets.
+* Pen tablets work only through Bluetooth.
+* Pen displays work only as monitors.
+
+More: [Using a drawing tablet with an iOS or iPadOS device](ios-and-ipados/drawtabs-with-ios.md)
+
+</details>
+
