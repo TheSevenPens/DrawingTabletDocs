@@ -22,7 +22,9 @@ In general you can configure Windows Ink in two places: In the tablet driver and
 
 Conceptually the user experience looks like this:
 
-<figure><img src="../../../../.gitbook/assets/winink-1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 For a tablet driver, the Windows Ink configuration is always a single checkbox. For details on each user interface in the drivers, look here: [Configure Windows Ink in the tablet driver](winink-config-driver.md).
 
@@ -54,7 +56,7 @@ This approach is summarized as:
 * In Tablet Driver - Enable Windows Ink - this means Windows Ink will be available for all apps
 * In Each App - Configure the app to use Windows Ink. If you change the setting, restart the app.
 
-<figure><img src="../../../../.gitbook/assets/winink-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 This configuration will work with most apps.
 
@@ -67,7 +69,7 @@ This covers:
 
 If your app gives you the choice between Windows Ink and WinTab, switch to WinTab and restart the app.
 
-<figure><img src="../../../../.gitbook/assets/winink-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 If the app only supports Windows Ink in the first place, you don't need to configure the app at all.
 
@@ -83,13 +85,17 @@ In Windows, pen-aware apps have different behaviors controlling which tablet lan
 
 How can we deal with this situation? It may seem complex, but the answer is simple: enable the Windows Ink checkbox in the driver. This allows the driver to talk to an app in whatever language the app wants. The diagram below shows that the driver will work with any application in all cases.
 
-<figure><img src="../../../../.gitbook/assets/winink-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## This configuration will not work correctly
 
 In this configuration, the tablet driver is being told to ONLY talk in WinTab and the application to only use Windows Ink. These settings DO NOT agree.
 
-<figure><img src="../../../../.gitbook/assets/winink-4.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 ## App-specific overrides in the tablet driver
 
@@ -101,11 +107,11 @@ However, for advanced cases, you can configure your tablet driver to set the Win
 
 For lots of reasons, some people simply prefer using WinTab. So they will configure their setup like this.
 
-<figure><img src="../../../../.gitbook/assets/winink-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 Of course, this means the tablet driver is never talking to Windows Ink — only WinTab. While this works for an app like CSP, which can speak either language, it may interfere with an app like Microsoft OneNote, which only talks in Windows Ink. To solve this situation, you need to add a driver override for OneNote as illustrated below.
 
-<figure><img src="../../../../.gitbook/assets/winink-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 ## Tips for troubleshooting
 
