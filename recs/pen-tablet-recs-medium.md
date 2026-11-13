@@ -36,11 +36,11 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 * XP-Pen Deco LW (IT1060B) [XP-Pen Deco LW (IT1060B) notes](../catalog/drawtabs/xppen/xppen-it1060b-notes.md)
 * Huion Inspiroy Frego M (L610) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md)
 * Huion Inspiroy 2 M (H951P) \[see notes for Inspiroy 2 L]
-* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-h1061p-notes.md)
 * Wacom Intuos Medium (CTL-6100) [Wacom Intuos (CTL-x100) notes](../catalog/drawtabs/wacom/wacom-intuos/) \[no tilt, no wireless]
 
 ## OK
 
+* Huion Inspiroy 2 L (H1061P) [Huion Inspiroy 2 L (H1061P) notes](../catalog/drawtabs/huion/huion-h1061p-notes.md)
 * Huion Inspiroy HS611 [Huion Inspiroy HS611 notes](../catalog/drawtabs/huion/huion-hs611-notes.md) - Little bit of an older Huion tablet with older tech. But it does work fine.
 * Huion Inspiroy RTP-700 [Huion Inspiroy RTP-700 notes](../catalog/drawtabs/huion/huion-rtp700-notes.md) - Seems OK but haven't spent much time with it
 * XP-Pen Deco 01 V3 [XP-Pen Deco 01 V3 notes](../catalog/drawtabs/xppen/xppen-deco01v3-notes.md)
