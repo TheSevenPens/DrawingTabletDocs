@@ -16,6 +16,10 @@ There are three main considerations for 3D workflows:
 * What display resolution to get for the pen display
 * What size for the pen display
 
+Notes:
+
+* Thanks to tablet enthusiast KoyoD for providing the guidance that this document is based on.
+
 ## Pen display vs pen tablet
 
 Based on my observation, most people doing 3D work use a pen display instead of a pen tablet.
@@ -49,6 +53,3 @@ For example, this is the kind of UI that may need to be visible at once.
 
 For this reason, some suggest prioritizing resolution first before size.
 
-## Notes
-
-Thanks to tablet enthusiast KoyoD for providing the guidance that this document is based on.

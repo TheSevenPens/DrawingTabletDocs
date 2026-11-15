@@ -1,25 +1,3 @@
 # Contacting support
 
-## Wacom
-
-[https://support.wacom.com/](https://support.wacom.com/) -
-
-Wacom community forums: [https://support.wacom.com/hc/en-us/community/topics/360003085353-Welcome-General-Discussion](https://support.wacom.com/hc/en-us/community/topics/360003085353-Welcome-General-Discussion)
-
-To file a support ticket, use this link: [https://support.wacom.com/hc/en-us/requests/new?ticket\_form\_id=1500000134982](https://support.wacom.com/hc/en-us/requests/new?ticket_form_id=1500000134982)
-
-## Huion
-
-[https://www.huion.com/support.html](https://www.huion.com/support.html) -
-
-Go to the bottom of the page to find contact links for Huion support.
-
-![](../.gitbook/assets/support-1.png)
-
-## XP-Pen
-
-Support page: [https://www.xp-pen.com/support](https://www.xp-pen.com/support)
-
-## Gaomon
-
-service@gaomon.net
+<table><thead><tr><th width="173.5556640625">Manufacturer</th><th>Support</th></tr></thead><tbody><tr><td>Wacom</td><td><a href="https://support.wacom.com/">Support site</a></td></tr><tr><td>Huion</td><td><a href="https://www.huion.com/support.html">Support site</a></td></tr><tr><td>XP-Pen</td><td><a href="https://www.xp-pen.com/support">Support page</a></td></tr><tr><td>Gaomon</td><td><a href="mailto:service@gaomon.net">service@gaomon.net</a></td></tr></tbody></table>
