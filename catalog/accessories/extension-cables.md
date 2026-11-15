@@ -21,6 +21,24 @@ To better understand the requirements for connecting a pen display, see [Connect
   * It must support sending enough power to your pen display
   * <mark style="color:red;">**SAFETY CRITICAL**</mark> It must support **at least** as much power as the tablet's original cable. If it is not rated to handle that much power, it can become a safety or fire risk.
 
+## Extending a 3-in-1 cable
+
+You have two choices:
+
+* Extend the USB-C end that connects to the pen display
+* Extended the cables that connect to the computer
+
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+Notes
+
+* Extending USB-C - Keep in mind you need to be careful of using USB-C extension cables due to power concerns. See the earlier part this doc that talks about it.
+* Extending HDMI - Plenty of HDMI extension cables exit and at many sizes.
+* Extending USB data - You should be able to find a USB exetnsion of the sible that works.
+* Extending power - should not be needed. The power does no need to come from the computer. You can use a power adapter that is plugged in closer to the pen display.
+
 ### What I use for USB-C extension cables
 
 I have used a 2-foot UseBean USB-C extension cable. It has worked well for me. I have run up to 4K@6Hz through this extension cable.
@@ -39,6 +57,8 @@ I used it in these scenarios:
 Be aware of how deeply the port is housed in the pen display. The specific USB-C extender above has a plug that fits into some pen displays, but other pen displays have more deeply recessed USB-C ports. This cable will not fit those ports.
 
 For example, The USBean extender I use does NOT go deep enough to fit into a Huion Kamvas 13.
+
+##
 
 ### Links
 

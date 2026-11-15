@@ -22,8 +22,6 @@ In general you can configure Windows Ink in two places: In the tablet driver and
 
 Conceptually the user experience looks like this:
 
-
-
 <figure><img src="../../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 For a tablet driver, the Windows Ink configuration is always a single checkbox. For details on each user interface in the drivers, look here: [Configure Windows Ink in the tablet driver](winink-config-driver.md).
@@ -56,7 +54,7 @@ This approach is summarized as:
 * In Tablet Driver - Enable Windows Ink - this means Windows Ink will be available for all apps
 * In Each App - Configure the app to use Windows Ink. If you change the setting, restart the app.
 
-<figure><img src="../../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 This configuration will work with most apps.
 
@@ -87,13 +85,9 @@ How can we deal with this situation? It may seem complex, but the answer is simp
 
 <figure><img src="../../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## This configuration will not work correctly
 
 In this configuration, the tablet driver is being told to ONLY talk in WinTab and the application to only use Windows Ink. These settings DO NOT agree.
-
-
 
 <figure><img src="../../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
