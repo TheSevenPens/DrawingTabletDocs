@@ -15,7 +15,7 @@ To better understand the requirements for connecting a pen display, see [Connect
 * For pen tablets
   * It needs to support data and a small amount of power. Any USB 2.0 extension cable should work.
 * For pen displays
-  * For more information, see: Connecting a pen display with USB-C
+  * For more information, see: [Connecting a pen display with USB-C](../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
   * It must support data
   * It must support DP alt mode
   * It must support the resolution and refresh rate you need
