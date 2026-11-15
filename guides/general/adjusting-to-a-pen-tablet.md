@@ -30,19 +30,11 @@ Before exploring other ways to make your pen tablet feel natural, check the forc
 
 ## Multiple monitors? Map your tablet's active area to a single monitor
 
-This is a follow-up setting for when you use force proportions.
-
-You will generally find drawing more comfortable when you map your tablet's active area to one display, rather than all displays.
-
-The force proportions guide also covers this setup: [Force proportions](../customizing/force-proportions.md).
+This is a follow-up setting for when you use force proportions. You will generally find drawing more comfortable when you map your tablet's active area to one display, rather than all displays. The force proportions guide also covers this setup: [Force proportions](../customizing/force-proportions.md).
 
 ## Disable mouse mode
 
-The driver has a special setting called mouse mode. It is designed for using a tablet with certain games.
-
-This setting may have been accidentally enabled. Check your driver and verify that mouse mode is disabled. If it is enabled, disable it.
-
-See [Mouse mode](../../core/active-area/mouse-mode.md).
+The driver has a special setting called mouse mode. It is designed for using a tablet with certain games. This setting may have been accidentally enabled. Check your driver and verify that mouse mode is disabled. If it is enabled, disable it. See [Mouse mode](../../core/active-area/mouse-mode.md).
 
 ## Size
 
@@ -50,55 +42,21 @@ You may have already purchased a pen tablet. Its size can affect how it feels to
 
 <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
-### Tablets that are too small
+### Tablets that are too small (about 7" or less)
 
 Your pen tablet might be too small for you. It might not suit your arm length or drawing style. Some people also experience wrist pain when drawing in small areas.
 
 If this affects you, the only solution is to get a different-sized pen tablet.
 
-### Medium-sized pen tablets
+### Medium-sized pen tablets (about 11")
 
-For most people, I recommend a medium-sized pen tablet, which is around 11 inches.
+For most people, I recommend a medium-sized pen tablet.
 
-### Tablets that are too large
+### Tablets that are too large (about  15")
 
 Your tablet might be too large. This can cause fatigue because you move your pen across a greater distance.
 
 In this case, you can configure a smaller active area in the tablet driver. The tablet cannot shrink, but the area where you draw can. Try a smaller active area and see whether it works better for you.
-
-## Relative position on desk
-
-How you arrange the tablet on your desk can affect how comfortable it is to use.
-
-Here are some common dimensions to consider:
-
-* Keyboard position relative to tablet
-  * keyboard above the tablet
-  * keyboard to the side of the tablet
-* Tablet position relative to body
-  * tablet directly in front of your body
-  * tablet somewhat to the side of your body
-* Tablet position relative to monitor
-  * tablet directly in front of monitor
-  * tablet somewhat to the side of the monitor
-* Tablet rotation
-  * tablet aligned with desk
-  * tablet rotated slightly
-
-There is no single right answer. I have seen people use many desk arrangements. Try these options and see what works for you.
-
-From my experience:<br>
-
-* For a medium-sized tablet, I prefer:
-  * the tablet directly in front of me
-  * the keyboard above the tablet
-  * the tablet directly in front of my monitor
-  * no rotation on the tablet
-* For a large-sized tablet, I prefer:
-  * the tablet slightly moved to the right of me
-  * the keyboard to the left of the tablet
-  * the tablet slightly to the right of my monitor
-  * no rotation on the tablet
 
 ## Surface texture
 

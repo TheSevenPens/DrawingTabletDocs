@@ -256,6 +256,7 @@
     * [Using large pen tablets](guides/general/large-pen-tablets.md)
     * [Transferring files between devices](guides/general/transferring-files.md "Transferring files")
     * [Adjusting to a pen tablet](guides/general/adjusting-to-a-pen-tablet.md)
+    * [Tablet position on desk](guides/general/tablet-position-on-desk.md)
   * [Platforms](guides/platforms/README.md)
     * [iOS and iPadOS](guides/platforms/ios-and-ipados/README.md)
       * [Using drawing tablets with an iPad or iPhone](guides/platforms/ios-and-ipados/drawtabs-with-ios.md "Using with iPad or iPhone")
