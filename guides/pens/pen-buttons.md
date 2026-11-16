@@ -21,10 +21,13 @@ The actions taken by the buttons can be customized, usually to perform a mouse a
 
 Other things people configure their buttons to do:
 
+*
 * **MOUSE DOUBLE CLICK** - because some apps use a double-click
-* **CTRL-Z** keypress - to perform undo
-* **SPACE** keypress - in many apps, `Space` + dragging the pen will pan the drawing canvas
-* **CTRL+SPACE** keypress - in many apps, this will zoom in and out of the canvas (Krita, Photoshop, Illustrator)
+* **UNDO -** keypress to perform undo (often **CTRL-Z)**
+* **REDO** - keypress to perform redo (often SHIFT-CTRL-Z or something similar)
+* **DRAG CANVAS -** in many apps, `Space` + DRAG while using the pen will pan the drawing canvas
+* **ZOOM IN/OUT** - in many apps, this will zoom in and out of the canvas (Krita, Photoshop, Illustrator)
+* **ERASER TOGGLE** - toggles between a current drawing tool and an eraser tool. Many apps use the R shortcut key for this.
 * **NO ACTION** - sometimes people accidentally press the buttons too often, so they set the button to do nothing
 
 ## Panning when Space + drag doesn't work
