@@ -14,7 +14,9 @@ The "No Signal" message takes several forms on a pen display. Most often, you se
 
 One confusing aspect of the "no signal" message is that it does not specify the signal type. The message refers to a video signal.
 
-<figure><img src="../.gitbook/assets/tsg-no-signal-2.jpg" alt="" width="375"><figcaption><p>A typical no signal message. In this case, the message indicates that the USB-C port is where the pen display is looking for the signal.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p>In this case, the message indicates that the USB-C port on the tablet is where the pen display is looking for the signal.</p></figcaption></figure>
 
 ## Flashing colors as a NO SIGNAL message
 
@@ -23,6 +25,8 @@ Most of the time, when a pen display does not receive a video signal, it shows a
 ## The POWER SAVING message
 
 Sometimes you will see a single message. Other times, you will also see "power saving" in the same box or in a separate message. The pen display usually shuts down a few seconds later.
+
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 The power-saving message can be confusing. It has nothing to do with power reaching the tablet. It indicates that the pen display is not receiving a video signal. The display shuts down to avoid wasting power.
 

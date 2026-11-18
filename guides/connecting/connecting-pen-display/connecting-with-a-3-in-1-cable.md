@@ -8,7 +8,7 @@ More here on the different ways a pen display can connect to a computer: [Connec
 
 A 3-in-1 cable typically looks and connects like this:
 
-<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 Here's a typical picture of the three ends non-USB-C ends of a 3-in-1 cable.
 
@@ -16,9 +16,7 @@ Here's a typical picture of the three ends non-USB-C ends of a 3-in-1 cable.
 
 The power end can work in different ways - may have an separate extension to connect to a power adapter.
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 The power connection may vary in terms of the port it uses to connect to a power adapter. It may be:
 
@@ -102,5 +100,4 @@ If you forget the **data** cable, your tablet driver will report that the tablet
 
 ## What if the 3-in-1 cable is not long enough?
 
-See: [Extension cables](../../../catalog/accessories/extension-cables.md)&#x20;
-
+See: [Extension cables](../../../catalog/accessories/extension-cables.md)
