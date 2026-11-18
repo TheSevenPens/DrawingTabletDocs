@@ -16,6 +16,7 @@
 * **Ibis Paint** (Windows, iOS, Android) [Ibis Paint](../catalog/apps/ibis-paint.md)
 * **Infinite Design** (Android) [https://www.infinitestudio.art/](https://www.infinitestudio.art/)
 * **Infinite Painter** (Android, iOS) [Infinite Painter](../catalog/apps/infinite-painter.md)
+* **Kala Paint** (Windows, Linux) [Kala Paint](../catalog/apps/kala-paint.md) - alpha
 * **Kleki** (web) [Kleki](../catalog/apps/kleki.md) <mark style="background-color:purple;">**FREE**</mark>
 * **Kreska.art** (web) [**links**](https://kreska.art/) **FREE**
 * **Krita** (Windows, Linux, MacOS) [Krita](../catalog/apps/krita.md) <mark style="background-color:purple;">**FREE**</mark>
