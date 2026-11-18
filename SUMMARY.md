@@ -425,6 +425,7 @@
     * [Ibis Paint](catalog/apps/ibis-paint.md)
     * [Infinite Painter](catalog/apps/infinite-painter.md)
     * [Inkscape](catalog/apps/inkscape.md)
+    * [Kala Paint](catalog/apps/kala-paint.md)
     * [Kleki](catalog/apps/kleki.md)
     * [Krita](catalog/apps/krita.md)
     * [Leonardo](catalog/apps/leonardo.md)
