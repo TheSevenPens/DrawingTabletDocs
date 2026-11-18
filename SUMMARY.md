@@ -434,6 +434,7 @@
     * [Microsoft PowerPoint](catalog/apps/microsoft-powerpoint.md)
     * [Microsoft OneNote](catalog/apps/microsoft-onenote.md)
     * [Microsoft Paint](catalog/apps/microsoft-paint.md)
+    * [Moko](catalog/apps/moko.md)
     * [Painter](catalog/apps/painter.md)
     * [Paintstorm Studio](catalog/apps/paintstorm-studio.md)
     * [PaintTool Sai](catalog/apps/painttool-sai.md)

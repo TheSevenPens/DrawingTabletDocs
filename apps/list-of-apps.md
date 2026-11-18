@@ -24,6 +24,7 @@
 * **Medibang Paint** (Windows, MacOS) [Medibang Paint](../catalog/apps/medibang.md)
 * **Medibang Pro** (iOS) [Medibang Pro](../catalog/apps/medibang-pro.md)
 * **Microsoft Paint** (aka MSPAINT) (Windows) [Microsoft Paint](../catalog/apps/microsoft-paint.md)
+* **Moko** (Windows, MacOS) [Moko](../catalog/apps/moko.md) - closed beta
 * **MyPaint** (Windows, Linux) [MyPaint](../catalog/apps/mypaint.md)
 * **Paint Tool Sai** (Windows) [PaintTool Sai](../catalog/apps/painttool-sai.md)
 * **Painter** (Windows, MacOS) [Painter](../catalog/apps/painter.md)
