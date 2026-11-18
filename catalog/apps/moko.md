@@ -27,6 +27,6 @@ As of November 2026:
 * The product site says it will be a one-time purchase with a perpetual license and no subscriptions planned.&#x20;
 * No specific price has been announced.
 
-## Resources
+## Links
 
 * [Adam Duff LUCIDPIXUL - Professional Artist Review of MOKO \[BETA\]](https://www.youtube.com/watch?v=LUqf8XX_hyY) 2026-11-18
