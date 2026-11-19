@@ -6,30 +6,36 @@ Drawing tablets generally work well with macOS. All the major tablet brands prov
 
 ## Drivers
 
-### Manufacturer tablet drivers versus macOS built-in support
+### You MUST install tablet drivers&#x20;
 
-Unlike Windows, macOS does not have a built-in Plug-and-Play driver for drawing tablets. Without the manufacturer's driver, a tablet may at best move the pointer like a basic mouse, with no pressure sensitivity and none of the tablet's buttons or settings. You should always install the manufacturer-provided tablet driver.
+MacOS does not have any built-in tablet drivers. So, you MUST install your tablet manufacturer's tablet drivers to use your tablet.&#x20;
 
-If the manufacturer no longer supports your tablet, an alternative is [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver), which supports pressure and tilt on macOS.
+This is different from Windows which does have some limited form of built-in tablet drivers.
+
+### macOS upgrades
+
+As newer versions of macOS appear, the tablet driver you are using with your macOS machine may have problems.
+
+* The driver may still support your tablet but now your tablet doesn't work correctly. In this case, check for newer drivers.
+* If you download and install a newer driver - it may no longer support the tablet you have - in this case  consider [OpenTabletDriver](https://docs.sevenpens.com/opentabletdriver)&#x20;
+
+Before upgrading to a new major version of macOS, check that your tablet manufacturer has released a driver that supports it.
+
+The safest thing to do if you see a new macOS version - is to wait. Let other tablet users try it out for a while before you upgrade.
 
 ### Only install one tablet driver
 
 I don't recommend installing two different tablet drivers. For example, do not install a Huion driver AND a Wacom driver.
 
-To be fair, my own experience on macOS has been good: I have several Macs with multiple tablet drivers installed at the same time without problems. However, other people have reported issues, so I still don't recommend it. For more details, see [Using multiple tablet drivers on the same computer](../../drivers/multiple-tablet-drivers.md).
+HOWEVER, to be fair, my own experience on macOS has been good: I have several Macs with multiple tablet drivers installed at the same time without problems (Wacom, Huion, XP-Pen) . However, other people have reported issues, so I still don't recommend it. For more details, see [Using multiple tablet drivers on the same computer](../../drivers/multiple-tablet-drivers.md).
 
 ### Apple Silicon vs Intel
 
-Macs come in two kinds: older Macs with Intel processors and newer Macs with Apple Silicon (M-series) processors.
+Current drivers from the major tablet brands run natively on Apple Silicon. Some older drivers were built only for Intel Macs. These may run on Apple Silicon through Apple's Rosetta translation layer, but they may also not work at all. If you have an Apple Silicon Mac, use a driver version that the manufacturer lists as supporting Apple Silicon.
 
-Current drivers from the major tablet brands run natively on Apple Silicon. Some older drivers were built only for Intel Macs. These may run on Apple Silicon through Apple's Rosetta translation layer, but they may also not work at all, because a tablet driver is more deeply tied to the operating system than a normal app. If you have an Apple Silicon Mac, use a driver version that the manufacturer lists as supporting Apple Silicon.
+### Older macOS versions
 
-### macOS version support
-
-Every year Apple releases a new version of macOS, and tablet manufacturers periodically drop support for older macOS versions in their newest drivers. In the other direction, older drivers may not work on the newest macOS versions.
-
-* If you have an older Mac that cannot run a recent version of macOS, you may need to use an older driver. See [Using older tablet drivers](../../drivers/older-tablet-drivers.md).
-* Before upgrading to a new major version of macOS, check that your tablet manufacturer has released a driver that supports it.
+If you have an older Mac that cannot run a recent version of macOS, you may need to use an older driver. See [Using older tablet drivers](../../drivers/older-tablet-drivers.md).
 
 ## Permissions
 
@@ -50,20 +56,3 @@ When switching brands or troubleshooting, uninstall the old driver first. Most b
 After uninstalling, also check **System Settings** > **Privacy & Security** and remove any leftover entries for the old driver from Accessibility and Input Monitoring.
 
 For brand-specific steps, see [Uninstalling tablet drivers](../../drivers/uninstalling-tablet-drivers.md).
-
-## Common problems
-
-### Pen stops working after a macOS update
-
-After a major macOS update, the pen may stop responding or lose pressure, even though nothing else changed. Try these steps:
-
-* Check that the permissions above are still granted. If they look correct, try switching them off and on again, or removing and re-adding the driver's entries.
-* Install the latest driver from your tablet manufacturer, in case the old driver does not support the new macOS version.
-* Restart your computer.
-
-### Pointer offset or wrong display with multiple displays
-
-If you use a pen display alongside other monitors, the pen may move the pointer on the wrong display, or the pointer may be offset from the pen tip. Usually the tablet's active area is mapped to the wrong display, or to all displays combined. Fix this in your tablet driver's display mapping settings.
-
-* [TSG: Pointer on wrong display](../../../troubleshoot/tsg-pointer-on-wrong-display.md)
-* [Mapping active area to a display](../../customizing/map-active-area-to-display.md)
