@@ -31,12 +31,12 @@ More:
 
 * Core features are supported.
 * Advanced features are not supported.
-* Wacom drivers are built into Linux.
+* Wacom drivers, and support for many Huion and XP-Pen models, are built into Linux.
 * Other brands have available drivers.
-* Configuration differs by distribution.
+* Configuration differs by desktop environment (GNOME, KDE Plasma, and others).
 * You can customize tablet behavior through the OS.
 
-More: [Using a drawing tablet with Linux](linux.md)
+More: [Using a drawing tablet on Linux](linux/using-drawtabs-with-linux.md)
 
 </details>
 
