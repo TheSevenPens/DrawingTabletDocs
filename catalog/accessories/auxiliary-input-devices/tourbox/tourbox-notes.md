@@ -63,6 +63,5 @@ There is also an interesting limitation on Windows. It affects apps like Concept
 
 ## How I configure my TourBox
 
-Partial setup for Clip Studio Paint
+<figure><img src="../../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/tourbox-notes-1.png" alt=""><figcaption></figcaption></figure>
