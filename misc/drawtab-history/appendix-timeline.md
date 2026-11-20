@@ -37,18 +37,19 @@
 * 1987 - Wacom releases first drawing tablet with EMR technology
 * 1987 - Wacom creates a Mac app called Pressure Paint - may be the first application to support pressure sensitivity on a consumer computer
 * 1989 - GRiDPad by GRiD Systems Corporation - first tablet computer
+* 1989 - Quantel announces the second-generation Paintbox V-Series, with a cordless artist's pen (\[[Broadcasting, April 24 1989, NAB preview](https://www.worldradiohistory.com/Archive-BC/BC-1989/BC-1989-04-24.pdf)], \[[Quantel Digital Fact Book, printed p. 4](https://www.theodoropoulos.info/attachments/076_DigitalFactBook_20th.pdf#page=5)]). See the source note on the Quantel patent under Links below.
 
 ### 1990s
 
 * 1990 - Adobe Photoshop released (Feb 19, 1990)
 * 1991 - Painter (later Fractal Design Painter) published - one of the very earliest apps to support drawing tablets
-* 1993 - Quantel Paintbox discontinued
 * 1993 - Apple Newton released
 * 1999 - Microsoft starts working on Tablet PC
 
 ### 2000s
 
 * 2002 - First Tablet PCs released by OEMs running Windows XP Tablet PC Edition
+* 2002 - Quantel's generationQ line includes a new SD Paintbox and QPaintbox software for PCs (\[[Quantel Digital Fact Book, printed p. 5](https://www.theodoropoulos.info/attachments/076_DigitalFactBook_20th.pdf#page=6)])
 * 2005 - XP-Pen founded (April 8, 2005)
 * 2006 - Microsoft Windows Vista released (Nov 30, 2006)
 * 2009 - Microsoft Windows 7 released (July 22, 2009)
@@ -93,6 +94,13 @@
   * [ACM - Computer Graphics in Court - The Adobe/Quantel Case](https://dl.acm.org/doi/pdf/10.1145/281278.281322)
   * [https://www.redsharknews.com/the-quantel-name-is-legendary.-this-is-its-story-and-ultimately-what-happened-to-it](https://www.redsharknews.com/the-quantel-name-is-legendary.-this-is-its-story-and-ultimately-what-happened-to-it)
   * [1990 Quantel Paintbox Demo](https://www.youtube.com/watch?v=BwO4LP0wLbY)
+  * [Broadcasting, April 24 1989 - NAB preview announcing the Paintbox V-Series](https://www.worldradiohistory.com/Archive-BC/BC-1989/BC-1989-04-24.pdf)
+  * [Quantel - Digital Fact Book (20th anniversary edition)](https://www.theodoropoulos.info/attachments/076_DigitalFactBook_20th.pdf) - printed p. 4 (1989 V-Series with cordless pen), printed p. 5 (2002 generationQ, SD Paintbox, QPaintbox)
+  * [Quantel patent application EP0403054A2](https://patents.google.com/patent/EP0403054A2/en#description) - UK priority April 17, 1989; published December 19, 1990
+    * Source note: the application names Wacom KK as the maker of a pen-and-tablet pair capable of the described wireless operation. The pen has no onboard power source and returns a signal to the tablet, which reports proximity, X/Y position, and pressure.
+    * Neither the patent nor the 1989 NAB coverage identifies the exact Wacom hardware model or the first customer shipment.
+  * [Quantel Paintbox Express installation manual, revision B (1995)](https://www.manualslib.com/manual/4078834/Quantel-Paintbox-Express.html) - evidence the Paintbox name was still in use in 1995. It is not a release or discontinuation date.
+  * No retirement date is given above for the original Paintbox or the V-Series, because no model-specific evidence for one has been found.
 * **Sketchpad**
   * [https://en.wikipedia.org/wiki/Sketchpad](https://en.wikipedia.org/wiki/Sketchpad)
 * **RAND Tablet**
