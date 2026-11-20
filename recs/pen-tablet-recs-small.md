@@ -29,7 +29,7 @@ If you want to see the full set recommendations go here: [Recommendations](./)
 * Wacom Intuos Small (CTL-4100) [Wacom Intuos (CTL-x100) notes](../catalog/drawtabs/wacom/wacom-intuos/) NO TILT
 * XP-Pen Deco M (IT850) \[no wireless]
 * XP-Pen Deco MW (IT850B)
-* Huion Frego S (L320) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md) NO TILT
+* Huion Inspiroy Frego S (L310) [Huion Inspiroy Frego M (L610) notes](../catalog/drawtabs/huion/huion-l610-notes.md) NO TILT
 
 ## AVOID
 
