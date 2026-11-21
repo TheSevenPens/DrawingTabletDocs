@@ -55,6 +55,21 @@ Closing the extra window doesn't close the document. Photoshop only asks you to 
 
 Note: the other window may not update until you finish a stroke or operation.
 
+### Affinity (V3)
+
+Affinity V3 can open a second view of the current document.
+
+1. In the main menu, select **View > New View**.
+2. Move the new view onto your secondary display.
+
+### MediBang Paint
+
+Unknown. We haven't confirmed whether MediBang Paint can show a second live view of the same canvas.
+
+### FireAlpaca
+
+Unknown. We haven't confirmed whether FireAlpaca can show a second live view of the same canvas.
+
 #### Resources
 
 * CSP:   [How to Create a Split Screen or Mirrored Window in Clip Studio Paint](https://www.youtube.com/watch?v=aXNbPsyFEhs)&#x20;
