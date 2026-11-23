@@ -28,7 +28,7 @@
 * [Drawing tablet buying guide](buying/README.md "Buying")
   * [Buying used drawing tablets](buying/used-drawtabs.md "Used tablets")
   * [Buying tips](buying/buying-tips.md)
-  * [When drawing tablets go on sale](buying/drawing-tablet-sales.md)
+  * [Drawing tablets sales](buying/sales.md)
   * [Inspecting a drawing tablet](buying/inspecting-drawtab.md "Inspecting")
   * [Pen tablets vs pen displays](buying/pen-tablets-vs-pen-displays.md)
   * [The case against pen computers](buying/pen-computers-bad.md "Avoid pen computers")

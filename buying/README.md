@@ -181,7 +181,7 @@ More here:
 
 ## When to buy
 
-If you can wait for a sale, see [When drawing tablets go on sale](drawing-tablet-sales.md) for the months to watch and examples of what a good discount looks like.
+If you can wait for a sale, see [When drawing tablets go on sale](sales.md) for the months to watch and examples of what a good discount looks like.
 
 ## Buying used drawing tablets
 
