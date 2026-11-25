@@ -9,7 +9,7 @@
 If you need to find which pen is compatible with your tablet, there are several sources of information.
 
 * Wacom maintains a PARTIAL list of pen and tablet compatibility: [Wacom Accessory Compatibility Matrix](https://wcm-cdn.wacom.com/-/media/files/downloads/accomp/2022/wacomtablet_accessorycompatibilitymatrix_wtc_en_sept2022.pdf)
-* I have my own list: [https://thesevenpens.github.io/DrawTabPenCompat/](https://thesevenpens.github.io/DrawTabPenCompat/). This is a very large list that you can search by typing the name or model number of a pen or tablet to find what is compatible.
+* You can find pen compatibility in this explorer: [https://thesevenpens.github.io/DrawTabDataExplorer/](https://thesevenpens.github.io/DrawTabDataExplorer/)
 * Tablet expert Kuuube maintains this list: [Kuuube's Wacom pen compatibility mastersheet](https://docs.google.com/spreadsheets/d/1UAFPjGj0ThthPBvOSVVwOm08HW3qWtVoP1iFBwLMyPI/edit?pli=1#gid=1665628484). This is the most complete list that exists anywhere.
 
 ## 3rd-party pens compatible with Wacom tablets
