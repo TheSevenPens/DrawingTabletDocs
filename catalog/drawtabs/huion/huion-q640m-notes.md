@@ -7,12 +7,26 @@
   * The first Huion pen tablet featuring PenTech 4.0 and a PW600 series pen&#x20;
   * As of September 2026, the Dial 2 V2 the **best non-Wacom pen tablet on the market as of September 2026** and close to what you'd expect from an Intuos Pro.  To be clear: **Wacom's tech is still ahead**. But for the vast majority of people the difference would be undetectable, and based on my testing I couldn't tell the difference either.
   * I'm looking forward to Huion releasing additional upgrades to their other tablets that let them use the PW600 pen.
+* Theoretically, just swapping the PW517 pen for a PW600 series pen is what makes this jump to the top of the non-Wacom pen tablets. The previous Dial 2 worked fine, but I didn't have much of an opinion on it.
+
+### Who should buy it
+
+* Very good tablet. I recommend it, had no problems with it, and I'm happy with it.
+* **Is it a must buy if you already have a tablet? No.** If you're already happy with your tablet, don't buy this one.
+* It's a good choice if you're already in the Huion ecosystem, or if you have an older tablet that uses the PW517 pen.
+* But if you're totally happy with your PW517 tablet, don't bother - sometimes you get good PW517 pens. Remember every tablet purchase or upgrade is also a risk.
+
+### Price
+
+* Not a cheap tablet. On the stream I said I believed it was around $150 - TBD: confirm the launch price.
 
 ## Device
 
 * Physically identical to the previous Inspiroy Dial 2.&#x20;
 * The ony way you can tell which version is that the V2 is the model name on the back of the tablet.
 * Design is very nice - good looking tablet
+* The silver finish is painted plastic, not metal. I'm 100% sure it's painted - it just does not feel like metal.
+* Only available in one size (unlike the Intuos Pro, which comes in three).
 
 ## Core links
 
@@ -39,6 +53,9 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 
     <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 * Active area  little bigger than A5 size paper
+* Same active area size as the [Huion Inspiroy 2 L (H1061P)](huion-h1061p-notes.md) (266.7 x 166.7 mm), so it's an alternative to the Inspiroy 2 L.
+* About 6% larger (diagonal) than the XPPen Deco LW and Deco L.
+* Relatively large compared to a whole bunch of other medium tablets; the Frego M is a little smaller.
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -89,6 +106,8 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 * RATING: EXCELLENT (VERY LOW)
 * I couldn't really see any diagonal wobble. Any wobuble present is **microscopic, on par with the Wacom Intuos Pro models.**
 * Same very low, almost imperceptible wobble at **slow, medium and fast** speeds.
+* **Method:** in Krita at 100% zoom, drew \~10 cm (100 mm) strokes at about 45° along a ruler, pen tilted 45°. Three slow strokes (\~4 seconds each), then medium (\~2 seconds each), then fast.
+* Any stair-stepping visible when zoomed way in was from the document resolution, not diagonal wobble.
 
 ### Tilt compensation
 
@@ -102,6 +121,7 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 * Usage notes:&#x20;
   * I'm right-handed: pen in right hand, left hand on the buttons and dials.
   * I kept **accidentally pressing the lower dial**, so I often **disable the lower dial and use only the upper dial.**&#x20;
+  * Honestly I don't typically use the dials often enough to have a good opinion on them. What I can tell you is they get in my way when I'm not trying to use them.
 
 ## Ergonomics
 
@@ -115,6 +135,11 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 * **Slight pointer lag over Bluetooth** — definitely noticeable to me, though not everyone would necessarily detect it.
 * **I don't generally recommend Bluetooth**: computers sometimes have flaky connections to Bluetooth devices, and it adds an extra point of lag.
 * Possible corroboration: Huion's spec sheet lists the report rate as >300 PPS wired but **>133 PPS over Bluetooth**
+* **No multi-device Bluetooth.** Looking through the documents, I don't see any multi-device switching - you just have to pair and unpair as far as I can tell.
+
+## Not yet covered
+
+* TBD: ports and cabling, Android usage, known issues, hover height, flatness, and artifacts at low pressure.
 
 ## Photos
 
