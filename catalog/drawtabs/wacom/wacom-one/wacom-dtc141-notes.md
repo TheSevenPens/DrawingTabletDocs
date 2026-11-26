@@ -56,10 +56,9 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 
 ### Display
 
-* Lamination: Described as "Direct Bonding"
-* Contrast ratio: 1000:1
-* Full HD (1920x1080). I was a little concerned about the resolution at first, but it's fine and it looks nice. Some people will want the next resolution up.
-* At 50% brightness it was fine for me to use
+* Lamination: YES. Described as "Direct Bonding"
+* Resolution: I was a little concerned about the Full HD (1920x1080) resolution at first, but it's fine and it looks nice. Some people will want a higher resolution like 2560x1440.
+* Brightness: At 50% brightness it was fine for me to use.
 
 ### Pens
 
@@ -110,18 +109,25 @@ Very good. Pixels are clear and well-delineated.
 * Other settings include language, menu transparency, LED luminance, the power button behavior, and the pen side switch.
 * Navigating the OSD with the buttons is a little confusing - this is a case where I miss touch.
 
-## Pixelation
+### Pixelation
 
 As expected slightly more pixelation (slightly lower PPI) than previous Wacom One tablet that have same native resolution but are 13" instead of 14".
 
-I did not notice the difference in practive.
+I did not notice the difference in practice.
 
 ## Drawing performance
 
-The drawing performance OK. It's not bad. However, it does not match the excellent experience you would see with a Wacom Cintiq or Wacom Cintiq Pro and their professional pens.
+### Overall
 
-* The Cintiq and the Movink 13 are better to draw on - largely because of the pen. The difference with the Pro Pen 2 or Pro Pen 3 is astounding.
-* If you are used to a Pro Pen, you will definitely notice the high IAF, and you'll hit the max pressure easily. Pressure is harder to control. It's not bad - it's just OK.
+OK.&#x20;
+
+It's not bad. However, it does not match the excellent experience you would see with a Wacom Cintiq or Wacom Cintiq Pro with their professional pens such as the Pro Pen 2 (KP-504E) or Pro Pen 3 (ACP-500).
+
+* The Cintiq 2025 models and the Movink 13 are better to draw on - largely because of the pen. The difference with the Pro Pen 2 or Pro Pen 3 from the incldued CP-923 pen is astounding.
+* If you are used to a Pro Pen, when you use the CP-923 pen with this tablet:
+  * you will definitely notice the high IAF of the CP-923
+  * you'll hit the max pressure easily.&#x20;
+  * because fo the low amx pressure, pressure is harder to control. It's not bad - it's just OK.
 
 ### **Static tracking accuracy**
 
@@ -216,6 +222,8 @@ If you need touch, consider these tablets:
 None. No express keys, no dials, no audio, and no auxiliary inputs.
 
 ### Using it as a pen tablet
+
+This does not work correctly.
 
 * I set the power button to "display off" hoping to draw with the screen off. Turning off the display also turns off the pen.
 * On Windows you can tell the OS to disconnect a display. I couldn't find that option on macOS.
