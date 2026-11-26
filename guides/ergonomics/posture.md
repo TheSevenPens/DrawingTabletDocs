@@ -55,3 +55,7 @@ For some people, the posture of a pen display is very uncomfortable and can caus
 Here is an example:
 
 * [**r/wacom - Shoulder and back pain with Cintiq 22HD Touch -- Ergonomic advice?**](https://www.reddit.com/r/wacom/comments/rzihu7/shoulder_and_back_pain_with_cintiq_22hd_touch/) 2022-01-08
+
+## Further reading
+
+* Koyo: [Pen Displays: don't use it wrong!](https://koyodraw.gitbook.io/drawtab/ergonomics/pen-displays-dont-use-it-wrong). See how artists position their pen displays and organize their desks.

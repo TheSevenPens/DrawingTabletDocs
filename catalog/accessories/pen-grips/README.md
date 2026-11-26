@@ -4,6 +4,8 @@
 
 Some pens let you swap out the grip area of the pen to customize the feeling of the pen.
 
+Koyo's [Pen Displays: how to hold the pen](https://koyodraw.gitbook.io/drawtab/ergonomics/pen-displays-how-to-hold-the-pen) shows one artist's brush-like grip and arm movement on a large pen display.
+
 ## Wacom Pro Pen 3
 
 This pen comes with several different grips or can be used without a grip.
