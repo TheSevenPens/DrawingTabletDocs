@@ -6,13 +6,13 @@ Good pen display at an excellent price. Will be good for beginners or for a firs
 
 Very convenient that the tablet comes with all the cables you need to connect via HDMI and USB-C (assuming your computer supports USB-C)
 
-12" is the smallest I would recommend for a pen tablet. I personally prefer larger sizes (19" to 22") but for many this size should work.&#x20;
+12" is the smallest I would recommend for a pen tablet. I personally prefer larger sizes (19" to 22") but for many this size should work.
 
 ### Verdict
 
 * I have no hesitation recommending this tablet. For the price, and given what it provides - especially the included full-featured USB-C cable - it's a lot of value. I think it's going to be a popular tablet.
 * It's one of the least expensive pen displays you can get. At the time of my stream the normal price on the XP-Pen site was $240 and it was on sale for $216.
-* The only negative I found is a tiny bit of diagonal wobble. Most people won't notice it, and if you do, a little smoothing makes it go away. See [Diagonal wobble](#diagonal-wobble).
+* The only negative I found is a tiny bit of diagonal wobble. Most people won't notice it, and if you do, a little smoothing makes it go away. See [Diagonal wobble](xppen-cd121fh-notes.md#diagonal-wobble).
 * If it's your first pen display and you're comfortable working at this size, I think it's a great beginner tablet.
 * Compared to the older [XP-Pen Artist 12 GEN2 (CD120FH)](xppen-cd120fh-notes.md), this one is easily better. You should get this one over the GEN2.
 * The [Huion Kamvas 13 GEN3 (GS1333)](../huion/huion-gs1333-notes.md) might be a better tablet, but this one costs about $50 to $70 less, so I think a lot of people will get it for that reason. Some people may also prefer the way these buttons work. And the Kamvas 13 GEN3 only includes the 3-in-1 cable, not a full-featured USB-C cable.
@@ -58,27 +58,24 @@ These are the items I showed on my stream. See the DrawTabData Explorer page for
 
 The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tabletfamily.xppen_artistgen3). To add or fix a link, change it in DrawTabData.
 
-| Source | Link | Date |
-| --- | --- | --- |
-| David Revoy | [XPpen Artist 12 3rd review](https://www.youtube.com/watch?v=7deVfSmdSdc) | 2026-08-27 |
-| David Revoy | [XPpen Artist 12 3rd - review on GNU/Linux](https://www.davidrevoy.com/article1169/xppen-artist-12-3rd-review-on-gnulinux) | 2026-08-27 |
-| Teoh on Tech | [XPPen Artist 12 3rd (review): Pen is even better now](https://www.youtube.com/watch?v=jkpUTfQGLwc) | 2025-12-17 |
-| Brad Colbow | [XP Pen Artist 12 3rd Review](https://www.youtube.com/watch?v=LlqGM0rjG3g) | 2025-11-17 |
-| Seven Pens | [Unboxing & Testing: XP-Pen Artist 12 GEN3 (CD121FH)](https://youtube.com/live/teEGX7G-gYs?feature=share) | 2025-10-25 |
-| Gartzia Artz | [Review Artist 12 Gen 3 \| TOP mejores Tabletas Gráficas principiantes 2026](https://www.youtube.com/watch?v=2dM1gbjzGgQ) | 2025-10-20 |
-| Parka Blogs | [XPPen Artist 12 3rd](https://www.parkablogs.com/content/xppen-artist-12-gen-3-review) |  |
+| Source       | Link                                                                                                                       | Date       |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| David Revoy  | [XPpen Artist 12 3rd review](https://www.youtube.com/watch?v=7deVfSmdSdc)                                                  | 2026-08-27 |
+| David Revoy  | [XPpen Artist 12 3rd - review on GNU/Linux](https://www.davidrevoy.com/article1169/xppen-artist-12-3rd-review-on-gnulinux) | 2026-08-27 |
+| Teoh on Tech | [XPPen Artist 12 3rd (review): Pen is even better now](https://www.youtube.com/watch?v=jkpUTfQGLwc)                        | 2025-12-17 |
+| Brad Colbow  | [XP Pen Artist 12 3rd Review](https://www.youtube.com/watch?v=LlqGM0rjG3g)                                                 | 2025-11-17 |
+| Seven Pens   | [Unboxing & Testing: XP-Pen Artist 12 GEN3 (CD121FH)](https://youtube.com/live/teEGX7G-gYs?feature=share)                  | 2025-10-25 |
+| Gartzia Artz | [Review Artist 12 Gen 3 \| TOP mejores Tabletas Gráficas principiantes 2026](https://www.youtube.com/watch?v=2dM1gbjzGgQ)  | 2025-10-20 |
+| Parka Blogs  | [XPPen Artist 12 3rd](https://www.parkablogs.com/content/xppen-artist-12-gen-3-review)                                     |            |
 
 ## Notes on specs
 
-### Device specs
+### Ports
 
 * Both USB-C ports are recessed
 * Next to the ports there are three buttons: a power button and plus/minus buttons for brightness.
-* No legs and no VESA mount. The back is flat. If you want to put it on an arm, you'll need one designed for a small laptop or an iPad that holds it with brackets.
-* No touch.
-* Not wireless.
 
-### Pens
+## Pens
 
 * Included pen: see [XP-Pen X4 pen notes](../../pens/xppen-pens/xppen-x4pen-notes.md)
 * XP-Pen does not list other pens as compatible - however these pens work
@@ -100,7 +97,7 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 
 ### Brightness
 
-TBD
+Nothing noted.
 
 ### Dead Pixels
 
@@ -239,9 +236,15 @@ None
 * No fan noise
 * The rollers have "click" when rolling. It is not loud, but louder than I expected.
 
-## Heat
+### Heat
 
 At 100% brightness for an hour - seems overall room temperature with some light heat increasing toward the ports on the right
+
+### Legs and VESA mount
+
+* No legs
+* No VESA mount
+* The back is flat. If you want to put it on an arm, you'll need one designed for a small laptop or an iPad that holds it with brackets.
 
 ## Driver
 
