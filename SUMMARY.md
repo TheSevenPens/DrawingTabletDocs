@@ -573,6 +573,7 @@
       * [Xencelabs Pen Display 16 (LPH1612U-A) notes](catalog/drawtabs/xencelabs/xencelabs-lph1612ua-notes.md "Pen Display 16 (LPH1612U-A)")
       * [Xencelabs Pen Display 24 (LPH2412U-A) notes](catalog/drawtabs/xencelabs/xencelabs-lph2412ua-notes.md "Pen Display 24 (LPH2412U-A)")
     * [XP-Pen](catalog/drawtabs/xppen/README.md)
+      * [XP-Pen Magic Pro 13 (MDP1311) notes](catalog/drawtabs/xppen/xppen-mdp1311-notes.md "Magic Pro 13 (MDP1311)")
       * [XP-Pen Magic Note Pad (MNP1095) notes](catalog/drawtabs/xppen/xppen-mnp1095-notes.md "Magic Note Pad")
       * [XP-Pen Magic Drawing Pad 2025 (MDP1221) notes](catalog/drawtabs/xppen/xppen-mdp1221-notes.md "Magic Drawing Pad 2025 (MDP1221)")
       * [XP-Pen Magic Drawing Pad 2024 notes](catalog/drawtabs/xppen/xppen-mdp-2024-notes.md "Magic Drawing Pad 2024")
