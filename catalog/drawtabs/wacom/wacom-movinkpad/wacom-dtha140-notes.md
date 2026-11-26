@@ -8,7 +8,7 @@ As of March 2026, This is the standalone tablet that offers the BEST drawing exp
 
 ### Why this tablet is important
 
-Until the release of this tablet we have not had an answer that felt good about what stand alone tablet provides the best drawing experience.
+Until the release of this tablet in 2025 we have not had an answer that felt good about what stand alone tablet provides the best drawing experience.
 
 The Apple iPads with their Apple Pencils are too polarizing and works very differently from a typical drawing tablet
 
@@ -56,19 +56,19 @@ I hope the next generation of this tablet incorporates these features:
 
 The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_movinkpad_2025). To add or fix a link, change it in DrawTabData.
 
-| Source | Link | Date |
-| --- | --- | --- |
-| Teoh on Tech | [Wacom MovinkPad Pro 14 vs iPad Pro 13: Which I prefer months later](https://www.youtube.com/watch?v=7eGfzl42bCM) | 2026-06-06 |
-| Brad Colbow | [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ) | 2026-05-08 |
-| Teoh on Tech | [M4 iPad Air vs MovinkPad Pro 14: Which is better for artists?](https://www.youtube.com/watch?v=6thKViZAo2g) | 2026-03-18 |
-| Teoh on Tech | [MovinkPad Pro 14 months later and accessories to get](https://www.youtube.com/watch?v=oxxeD6y5CWA) | 2026-03-05 |
-| Gartzia Artz | [La MEJOR Tablet de DIBUJO! Review a fondo Wacom MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng) | 2025-12-18 |
-| Teoh on Tech | [Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM) | 2025-12-08 |
+| Source       | Link                                                                                                                 | Date       |
+| ------------ | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Teoh on Tech | [Wacom MovinkPad Pro 14 vs iPad Pro 13: Which I prefer months later](https://www.youtube.com/watch?v=7eGfzl42bCM)    | 2026-06-06 |
+| Brad Colbow  | [Wacom Movink Pad 11 and 14 - 8 Months Later](https://www.youtube.com/watch?v=NEEm1xAVJrQ)                           | 2026-05-08 |
+| Teoh on Tech | [M4 iPad Air vs MovinkPad Pro 14: Which is better for artists?](https://www.youtube.com/watch?v=6thKViZAo2g)         | 2026-03-18 |
+| Teoh on Tech | [MovinkPad Pro 14 months later and accessories to get](https://www.youtube.com/watch?v=oxxeD6y5CWA)                  | 2026-03-05 |
+| Gartzia Artz | [La MEJOR Tablet de DIBUJO! Review a fondo Wacom MovinkPad Pro 14](https://www.youtube.com/watch?v=L2A1lis4_Ng)      | 2025-12-18 |
+| Teoh on Tech | [Apple nano-texture glass vs MovinkPad Pro 14 matte glass](https://www.youtube.com/watch?v=Hizl2R9qTGM)              | 2025-12-08 |
 | Teoh on Tech | [Wacom MovinkPad Pro 14 (review): BEST portable drawing tablet of 2025](https://www.youtube.com/watch?v=CRxC_tyyUCk) | 2025-11-22 |
-| Parka Blogs | [Review: Wacom MovinkPad Pro 14](https://www.parkablogs.com/content/wacom-movinkpad-pro-14-review) | 2025-11-19 |
-| Aaron Rutten | [Wacom MovinkPad Pro 14: The Best Mobile Art Tablet Ever!](https://www.youtube.com/watch?v=CI6j3x_ab0c) | 2025-11-08 |
-| Seven Pens | [Wacom MovinkPad Pro 14 (DTH-A140): Unboxing and testing](https://www.youtube.com/watch?v=f7MRMWMKGeg) | 2025-10-25 |
-| Brad Colbow | [Wacom Movink Pad Pro 14 Review](https://www.youtube.com/watch?v=lpBGmiO4f7I) | 2025-10-17 |
+| Parka Blogs  | [Review: Wacom MovinkPad Pro 14](https://www.parkablogs.com/content/wacom-movinkpad-pro-14-review)                   | 2025-11-19 |
+| Aaron Rutten | [Wacom MovinkPad Pro 14: The Best Mobile Art Tablet Ever!](https://www.youtube.com/watch?v=CI6j3x_ab0c)              | 2025-11-08 |
+| Seven Pens   | [Wacom MovinkPad Pro 14 (DTH-A140): Unboxing and testing](https://www.youtube.com/watch?v=f7MRMWMKGeg)               | 2025-10-25 |
+| Brad Colbow  | [Wacom Movink Pad Pro 14 Review](https://www.youtube.com/watch?v=lpBGmiO4f7I)                                        | 2025-10-17 |
 
 ## Notes on specs
 
