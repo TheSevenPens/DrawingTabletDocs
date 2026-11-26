@@ -40,10 +40,28 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 
 ## Notes on specs
 
+### Device
+
+* I bought mine in September 2025. It cost about $300, which is a competitive price for a Wacom pen display.
+* In the box
+  * Wacom One Standard Pen (CP-923)
+  * Nib remover and 3 replacement nibs
+  * USB-C to USB-C cable
+  * A 3-in-1 cable is NOT included
+* Only a single USB-C port and two buttons (power and OSD menu)
+* No legs, no included stand, and no VESA mounting holes
+* Size comparisons
+  * Much smaller bezels than older Wacom One models - about a third of the width of the [Wacom One 13 2019 (DTC-133)](wacom-dtc133-notes.md) bezels
+  * Compared to the [Wacom One 13 touch (DTH-134)](wacom-one-2023-pen-displays-notes.md): the same width but not as tall. Its bezels are about half the width on the sides and about a quarter at the bottom. The DTH-134 has two USB-C ports.
+  * Thinner than the DTC-133, but nowhere near as thin as the [Movink 13 (DTH-135)](../wacom-movink/wacom-dth135-notes.md). The Movink 13 is almost the same height (a couple of millimeters taller) and not quite as wide.
+  * Compared to the [Huion Kamvas 13 Gen 3 (GS1333)](../../huion/huion-gs1333-notes.md): the same height. The Kamvas is wider because of its buttons, and its bezels are about twice as big.
+
 ### Display
 
 * Lamination: Described as "Direct Bonding"
 * Contrast ratio: 1000:1
+* Full HD (1920x1080). I was a little concerned about the resolution at first, but it's fine and it looks nice. Some people will want the next resolution up.
+* At 50% brightness it was fine for me to use
 
 ### Pens
 
@@ -57,14 +75,20 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
   * Staedtler Noris Digital
   * Staedtler Noris Digital Jumbo
   * Staedtler Mars Lumograph digital
+  * Wacom One pen (CP-913) - I tested four units. If I had to guess, they have a slightly lower IAF than the CP-923, but I wouldn't bet on it. See [Wacom CP-913 notes](../../../pens/wacom-pens/wacom-cp913-notes.md)
+* The CP-923 has two buttons (a rocker switch). The CP-913 has only one button.
+* 4,096 pressure levels. You don't really need more than 2,000, so this is plenty.
 * Incompatible pens: all Wacom pro pens are incompatible
   * Example: Pro Pen 2, Pro Pen 3, Art Pen, etc.
+  * With an incompatible pen you might see the pen move the pointer, but the pressure or the buttons (usually both) won't work
 
 ## Display
 
 ### Anti-glare sparkle
 
 LOW (GOOD)
+
+On the low end. You see a slight brightness variation more than rainbow sparkle. Not as good as a Cintiq Pro, but normal for Wacom.
 
 ### Viewing angles
 
@@ -74,9 +98,19 @@ Very good. Almost no color shift at extreme angles.
 
 the tablet does NOT come with a screen protector
 
+* The surface is etched anti-glare and anti-fingerprint glass. It is not a matte film.
+* Wacom doesn't sell a screen protector for it as an optional accessory. If you are worried about scratching the glass, consider a third-party screen protector - for example from Photodon.
+
 ### Display sharpness
 
 Very good. Pixels are clear and well-delineated.
+
+### OSD menu
+
+* The button toward the top is power. The one toward the bottom opens the OSD menu.
+* Color modes: Native, sRGB, and Custom. In sRGB you control brightness but not contrast. Custom adds color temperature and RGB controls.
+* Other settings include language, menu transparency, LED luminance, the power button behavior, and the pen side switch.
+* Navigating the OSD with the buttons is a little confusing - this is a case where I miss touch.
 
 ## Pixelation
 
@@ -88,13 +122,18 @@ I did not notice the difference in practive.
 
 The drawing performance OK. It's not bad. However, it does not match the excellent experience you would see with a Wacom Cintiq or Wacom Cintiq Pro and their professional pens.
 
+* The Cintiq and the Movink 13 are better to draw on - largely because of the pen. The difference with the Pro Pen 2 or Pro Pen 3 is astounding.
+* If you are used to a Pro Pen, you will definitely notice the high IAF, and you'll hit the max pressure easily. Pressure is harder to control. It's not bad - it's just OK.
+
 ### **Static tracking accuracy**
 
 * EXCELLENT. The pointer is directly under the tip of the pen across the entire surface when the pen is held perpendicular to the tablet
+* Like all pen displays, there is a little deviation in the last 2mm at the edges
 
 ### Tilt compensation
 
 * EXCELLENT. At all angles the pointer is very close to the tip of the pen.
+* In my browser pen tester, tilt altitude and tilt azimuth changed smoothly with no unexpected jumps
 
 ### Diagonal wobble
 
@@ -116,6 +155,10 @@ TYPICAL. Drawing near IAF with large brushes (ex: 300px) you might see some blob
 
 EXCELLENT. No pressure banding observed.
 
+* I did a constant-pressure test in Clip Studio Paint: the Milli pen at 99px with pressure mapped linearly to opacity, drawing slowly up and down. I saw no regular bands. A few people watching my stream thought they saw slight banding, but I think that was my hand.
+* I also looked for the regular pressure pulsation (pressure wobble) at low pressure that I saw with the Wacom One M and S pen tablets. I did not see it.
+* In my browser pen tester, mapping pressure to color showed smooth transitions with no weird jumps
+
 ### Pressure range (IAF and MAX)
 
 See my notes on the Wacom One Standard Pen (CP-923) - [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
@@ -132,6 +175,8 @@ GOOD. DIsplayed NO pressure banding.
 
 VERY GOOD (LOW)
 
+I was surprised by how low it is. Probably not as good as the Movink 13, but pretty good.
+
 ## Pressure curves
 
 The "Tip feel" slider in the Wacom One application controls the pressure curve. However the curve itself is not shown in the Wacom Center, just the slider.
@@ -142,6 +187,7 @@ The "Tip feel" slider in the Wacom One application controls the pressure curve. 
 * Feels similar to MovinkPad 11 or Movink 13
 * Pen does NOT feel slippery on the glass
 * Enough texture to draw well
+* Side by side, the Movink 13 has a bit more texture
 
 ## Ergonomics
 
@@ -167,6 +213,16 @@ If you need touch, consider these tablets:
 * Wacom Movink 13 (DTH-135)
 * Wacom One 13 touch (DTH-134)
 
+### Buttons, dials, and audio
+
+None. No express keys, no dials, no audio, and no auxiliary inputs.
+
+### Using it as a pen tablet
+
+* I set the power button to "display off" hoping to draw with the screen off. Turning off the display also turns off the pen.
+* On Windows you can tell the OS to disconnect a display. I couldn't find that option on macOS.
+* You can map the pen to another monitor with Display Toggle on a pen button. However, there's no Force Proportions setting and no Mapping tab in Wacom Center, so circles come out distorted. If you want a pen tablet, get a pen tablet.
+
 ## Connections and cabling
 
 ### USB-C connection
@@ -176,6 +232,10 @@ If you need touch, consider these tablets:
 The tabet comes with a USB-C cable to achieve a single cable connection to your computer.
 
 You computer's USB-C port needs to meet the requirements for this to work. See: [Connecting a pen display with USB-C](../../../../guides/connecting/connecting-pen-display/connecting-pen-display-usbc.md)
+
+* Both the cable and the port on your computer need to support DisplayPort, power, and data. That's a pretty high requirement, and many people don't have a port like that.
+* Using it with a phone may not work well. A phone likely won't provide enough power for it.
+* Because there's only one USB-C port, if you ever need extra power you will have to use the Wacom Converter.
 
 ### HDMI connection
 
@@ -193,9 +253,21 @@ You need to purchase:
 
 The Wacom Converter costs $80. If you need to connect via HDMI then you are going to end up spending more than $100.
 
+* I tested the Wacom Converter with separate cables for power, data, and HDMI connected to my MacBook. The display and the pen worked.
+* With the converter plus cables, the total for someone who needs HDMI comes to around $450. When you add it up, it's not a great deal for that person.
+* I'm afraid people will buy it because it's $300 and then discover after they buy it that they can't use it. Wacom should have included a 3-in-1 cable.
+
 ### Notes on alternative cabling
 
 Older Wacom one tablets use their own cables for HDMI connection. I've tested and they WILL NOT WORK with this device. Here are the cables that DO NOT work:
 
 * Wacom One X-Shape Cable (ACK44506Z) - will not work with DTC-141
 * Wacom One 3 In 1 Cable (ACK4490602Z) - does not work with DTC-141
+
+I tried the Wacom One 3-in-1 cable with power from several dock ports and directly from my MacBook. In every case the tablet would not power on.
+
+## Compared to Huion Kamvas 13 Gen 3
+
+The [Huion Kamvas 13 Gen 3 (GS1333)](../../huion/huion-gs1333-notes.md) cost about $225 when I checked (September 2025). It includes a 3-in-1 cable and has a better pen. Even if you add about $30 for a USB-C cable, it's a much better deal. I think it's still the better choice.
+
+However, if you want a more established brand and your computer has a full-featured USB-C port, I have no hesitation recommending the Wacom One 14. Wacom is still the most reliable brand on the market.
