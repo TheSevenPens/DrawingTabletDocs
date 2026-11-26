@@ -75,6 +75,7 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 ### Device
 
 * Weight: 680g (according to my scale)
+* I bought mine with my own money. It arrived in October 2025.
 * Size
   * Very close the size of a A4 piece of paper
 
@@ -100,6 +101,9 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
   * Wacom One (CP-923) [Wacom One 2023 Standard Pen (CP-923) notes](../../../pens/wacom-pens/wacom-cp923-notes.md)
   * Samsung S Pen
   * Keep in mind that these UD EMR pens are nowhere close to the quality of the Wacom professional pens such as the Pro Pen 3. Their chief advantage is that they cost much less - usually around 30 to $40 whereas the Pro Pen 3 costs $130.00. So, these UD EMR pens can serve as a backup in case you lose or break your Pro Pen 3.
+  * The Wacom Tips app lists pens other than the Pro Pen 3 that work (as of July 2025). That list isn't complete - I tried other UD EMR pens that aren't on it and they worked.
+* Pen buttons are only detected when the pen is close to the screen - about 10mm. You can't hold the pen up away from the tablet and click a button.
+* The Wacom Tips app points out that the tail of the Pro Pen 3 is a built-in nib remover. I didn't expect that.
 
 #### Incompatible Pens
 
@@ -114,6 +118,8 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 I was surprisingly pleased. I found using Clip Studio Paint very responsive - even with relatively large brushes - much more than I was expecting. Definitely a big improvement over the MovinkPad 11.
 
 Maybe not quite as performant as the Samsung S11 Ultra - but still very very good.
+
+In Krita I tried a 1000 pixel brush on both tablets. On the MovinkPad Pro 14 it was a little sluggish, but it kept tracking my pen. The same brush on the MovinkPad 11 was unusable. The performance is clearly better on the Pro 14. Krita on Android is also slow to open a document.
 
 ### **Android updates**
 
@@ -212,6 +218,7 @@ These Wacom-specific apps are pre-installed
 ### Viewing angles
 
 * Even at extreme angles only a minor lost in contrast and no color shifts
+* If you watch my stream, the screen may look pinkish at an angle on camera. That comes from the camera angle and the OLED panel - it's not what my eyes see.
 
 ### OLED Color fringing
 
@@ -259,6 +266,13 @@ Because there is no "driver app" - means there is no way to control the global c
 
 To configure those settings, you will need an app that implements those features. For example Krita and Clip Studio Paint support app-specific and even brush-specific pressure curves.
 
+The Wacom Tips app says you can change the pen's side switches in settings. But when I looked (October 2025) there was no place in settings to change them.
+
+### Pressure response
+
+* Very similar to the MovinkPad 11, including the IAF. I don't think Wacom changed the IAF in software or firmware for this model.
+* Huge pressure range - going from thin to thick lines is very easy to control. If you have trouble, use pressure curves, pressure smoothing, or stabilization in your drawing app.
+
 ### Static tracking accuracy
 
 EXCELLENT. Very accurate across the screen
@@ -292,6 +306,7 @@ EXCELLENT
 * All nibs had terrific grip. Not slippery at all. The felt nib provided a big increased in the textured feeling.
 * MovinkPad Pro 14 surface texture comparisons
   * somewhat more than MovinkPad 11
+  * more than [Movink 13 (DTH-135)](../wacom-movink/wacom-dth135-notes.md)
   * about the same as Cintiq 16 2025
   * about the same as Cintiq 24 touch 2025
   * noticeably less than Cintiq Pro 22
@@ -299,6 +314,8 @@ EXCELLENT
 ### Parallax
 
 EXCELLENT - Low parallax
+
+At first during my stream I thought the parallax was only OK or good. That was an optical illusion: the Pro Pen 3 has a bright grey nib, and light from the display lit up the front of the tip so it seemed to disappear. That made it look like there was a gap between the nib and the pixels. When I switched to the darker S Pen, I could see the parallax is excellent.
 
 ### Pointer lag
 
@@ -311,6 +328,17 @@ TBD
 ### Using the tablet as a pen display
 
 Although the tablet does not support DP-IN, you can use a special feature called "Instant Pen Display" to provide the same experience. See [Wacom Instant Pen Display](../../../apps/wacom-instant-pen-display.md)
+
+What I found when I first tried the beta (October 2025, wired to a Surface Pro 8 with a full-featured USB-C cable):
+
+* Setup took a lot of steps: register the tablet on wacom.com, redeem Instant Pen Display under Software Offers, install the Windows runtime, turn on Developer options and USB debugging on the tablet, then turn on Instant Pen Display mode in Wacom Lab. The instructions mixed the macOS and Windows steps, which confused me.
+* Windows 11 on ARM is not supported.
+* Drawing was way more responsive than I expected. With a 1000 pixel airbrush in Clip Studio Paint I didn't notice a difference.
+* Clip Studio Paint got no pressure until I changed its tablet setting from WinTab to Tablet PC (Windows Ink).
+* Pressing any of the pen buttons brought up a small Alt / Shift / Ctrl menu.
+* The tablet's speakers don't play your computer's audio.
+* Because the Wacom driver doesn't know about this tablet, you don't get the driver's on-screen controls that you could tap with your hand. Those would be really useful, for example when navigating in 3D apps.
+* There were still issues with line quality, drivers, and configuring the buttons. If Instant Pen Display is critical for you, wait until Wacom improves it.
 
 ## Connections and cabling
 
@@ -386,6 +414,7 @@ If you were trying to pick between the two tablets here is my guidance:
 * you've become accustomed to Wacom professional tablets
 * you you need the best drawing performance - especially if you're doing creative work like sketching drawing or painting
 * you want a device that is focused on drawing
+* you want to use the Pro Pen 3 - it works on the MovinkPad Pro 14 but not on the S11 Ultra. (The S Pen works on both.)
 * You want pretty good colors, and want an etched-glass surface that diffuses reflections and glare
 
 **pick the Samsung Galaxy Tab S11 ultra if:**
