@@ -23,6 +23,8 @@ These are for when you want a GREAT drawing experience. Especially if you are al
 * Wacom MovinkPad Pro 14 - [Wacom MovinkPad Pro 14 (DTH-A140) notes](../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha140-notes.md)
   * This tablet has the best drawing experience on the market out of any current standalone tablet of any kind and from any brand.
 * Wacom MovinkPad 11 - [Wacom MovinkPad 11 (DTH-A116) notes](../catalog/drawtabs/wacom/wacom-movinkpad/wacom-dtha116-notes.md)
+* XP-Pen Magic Pro 13 - [XP-Pen Magic Pro 13 (MDP1311) notes](../catalog/drawtabs/xppen/xppen-mdp1311-notes.md)
+  * A standalone Android drawing tablet that also works as a native 120Hz pen display (DP-IN) and can mirror to an external monitor (DP-OUT).
 
 ### GOOD
 
