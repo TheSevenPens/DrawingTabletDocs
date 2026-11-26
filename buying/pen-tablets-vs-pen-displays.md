@@ -29,6 +29,8 @@ Pen displays look impressive and cost much more than pen tablets. That differenc
 
 Another common myth claims that professionals only use pen displays. This is false. Many professional artists choose pen tablets and create high-quality work.
 
+For examples, see Koyo's [Artists & their tablets](https://koyodraw.gitbook.io/drawtab/fun-topic/artists-and-their-tablets), which includes an artist who uses a screenless One by Wacom (CTL-672).
+
 ### MYTH: Pen displays let you create better art
 
 <mark style="color:red;">**REALITY: Pen displays and pen tablets can produce equally good art**</mark>

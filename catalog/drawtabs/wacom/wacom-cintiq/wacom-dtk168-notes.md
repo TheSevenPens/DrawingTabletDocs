@@ -35,6 +35,11 @@ The reviews in this table come from the [DrawTabData Explorer](https://thesevenp
 | Seven Pens | [Wacom Cintiq 16 (2025) Unboxing and Testing](https://www.youtube.com/watch?v=en2RYaJoms4) | 2025-07-05 |
 | Brad Colbow | [2025 Wacom Cintiq 16 Review](https://www.youtube.com/watch?v=QQsKS17j0BQ) | 2025-07-02 |
 
+Koyo's notes on the DTK-168:
+
+* [Wacom Cintiq 16 (2025) review](https://koyodraw.gitbook.io/drawtab/tablet-reviews/wacom-cintiq-16-2025-dtk168): Hands-on impressions of the kickstand, surface texture, and included accessories.
+* [Color of Cintiq 16 (2025)](https://koyodraw.gitbook.io/drawtab/tablet-reviews/color-of-cintiq-16-2025-dtk168): Measurements of the factory color modes on one unit.
+
 ## Notes on specs
 
 ### Display
