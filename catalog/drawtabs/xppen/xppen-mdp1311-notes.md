@@ -45,7 +45,7 @@ I hope future updates or generations address a few things:
 
 ## Core links
 
-* DrawTabData Explorer: [Magic Pro 13 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.magicpro13)
+* DrawTabData Explorer: [Magic Pro 13 specs](https://thesevenpens.github.io/DrawTabDataExplorer/entity/xppen.tablet.mdp1311)
 * [Product page](https://www.xp-pen.com/product/magic-pro-13.html)
 * Store page: TBD
 
