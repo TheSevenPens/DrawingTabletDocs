@@ -1,4 +1,4 @@
-# Wacom One 14 (DTC-141) notes
+# Wacom One 14 2025 (DTC-141) notes
 
 ## Summary
 
@@ -24,19 +24,17 @@ This tablet makes sense for the following scenarios:
 * [User manual](https://101.wacom.com/UserHelp/en/TOC/DTC141.html)
 * [Product information](https://www.wacom.com/en-us/products/pen-displays/wacom-one)
 
-## Video
-
 ## Other links
 
 The reviews in this table come from the [DrawTabData Explorer](https://thesevenpens.github.io/DrawTabDataExplorer/entity/wacom.tabletfamily.wacom_ondpendisplaygen2). To add or fix a link, change it in DrawTabData.
 
-| Source | Link | Date |
-| --- | --- | --- |
+| Source       | Link                                                                                                          | Date       |
+| ------------ | ------------------------------------------------------------------------------------------------------------- | ---------- |
 | Aaron Rutten | [Wacom One 14 Review (with Comparisons to 13 Touch & MovinkPad)](https://www.youtube.com/watch?v=XDZzzs6e7zU) | 2026-02-05 |
-| Brad Colbow | [Wacom One 14 Review](https://www.youtube.com/watch?v=GKxx9Vwz79U) | 2025-11-10 |
-| Seven Pens | [Notes on Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=eDu-6BBp8JI) | 2025-10-15 |
-| Seven Pens | [DRAFT Review of Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=v8kZk0eldHI) | 2025-10-10 |
-| Seven Pens | [Unboxing and Testing: Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=mz7-ufAIXcw) | 2025-09-29 |
+| Brad Colbow  | [Wacom One 14 Review](https://www.youtube.com/watch?v=GKxx9Vwz79U)                                            | 2025-11-10 |
+| Seven Pens   | [Notes on Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=eDu-6BBp8JI)                                | 2025-10-15 |
+| Seven Pens   | [DRAFT Review of Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=v8kZk0eldHI)                         | 2025-10-10 |
+| Seven Pens   | [Unboxing and Testing: Wacom One 14 (DTC-141)](https://www.youtube.com/watch?v=mz7-ufAIXcw)                   | 2025-09-29 |
 
 ## Notes on specs
 
