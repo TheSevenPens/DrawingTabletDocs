@@ -708,6 +708,7 @@
     * [EMR tilt detection](tech/emr/emr-tilt-detection.md)
     * [The realities of building your own EMR pen](tech/emr/diy-emr-pen.md)
   * [Universal Stylus Initiative USI](tech/usi.md "USI")
+  * [Universal Sensor Module (USM)](tech/usm.md "USM")
   * [Wacom UD EMR](tech/wacom-ud-emr/README.md)
     * [Pens that support UD EMR 2nd gen](tech/wacom-ud-emr/ud-emr-pens.md)
     * [Tablets that support UD EMR 2nd gen](tech/wacom-ud-emr/ud-emr-tablets.md)
