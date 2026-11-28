@@ -30,7 +30,11 @@ From my XP-Pen Artist 12 GEN3 (CD121FH) livestream:
 * It was easy to keep the pressure in the low range.
 * I had to press harder than I expected to reach max pressure. My guess was that it's over 350 gf, probably 350 to 400 gf. I haven't measured it.
 
-## Photos: X4 smart chip stylus
+## Misc
+
+* Magnet - the X4 pens contain a magnet. For example this helps secure them to the XP-Pen Magic Pro 13 (MDP1311).
+
+## Photos&#x20;
 
 <figure><img src="../../../.gitbook/assets/xppen-x4pen-notes-1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
