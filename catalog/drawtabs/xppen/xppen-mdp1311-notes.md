@@ -37,6 +37,12 @@ If you _only_ need a desk pen display, a dedicated pen display is normally less 
 
 While not cheap, you get substantially more for your money here than with the Wacom MovinkPad Pro 14 (\~$1,100 USD / \~$1,500 CAD). I bought mine on discount for $900 USD, and creator discount codes (such as one shared by Teoh on Tech) brought the price down to $750 USD. Given everything it does, this is a great value.
 
+### Android OS version
+
+* The tablet comes with Android 16
+* XP-Pen announced on Nov 16, that Android 17 is planned as an upgrade to the Magic Pro 13 sometime in 2027.
+  * See announcement on X here: [https://x.com/XPPEN/status/2125922781833351182](https://x.com/XPPEN/status/2125922781833351182?a=dqAb4USEgEriy0xIA_U\&s=20)
+
 ### What would make this tablet even better
 
 I hope future updates or generations address a few things:
