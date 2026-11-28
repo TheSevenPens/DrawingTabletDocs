@@ -54,9 +54,13 @@ These are questions we have
 
 This is from the patent
 
-<figure><img src="../.gitbook/assets/usm-diagram-1.png" alt=""><figcaption></figcaption></figure>
 
 
+<figure><img src="../.gitbook/assets/image (115).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/usm-diagram-1.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Comments by tablet expert Kuuube: "T0-T4 (the outer diamond shapes) are shared with both touch and EMR. It both generates the magnetic field for the EMR pen and the electrostatic field for the capacitive touch sensor. ER0-ER5 jumpers are for the pen detection. TR0-TR5 jumpers are for the touch detection. The inside of the diamond is isolated from the outside of the diamond. The inside is what handles the touch and the outside is what handles the EMR."
 
 ## Links
 
