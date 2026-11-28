@@ -4,7 +4,7 @@
 
 ## Overview
 
-USM is a technology created and patented welcome which combines a touch capacitive layer with an EMR digitizer layer into one single layer.
+USM is a technology created and patented by Wacom which combines a touch capacitive layer with an EMR digitizer layer into one single layer.
 
 Combining into one layer has the potential to deliver these improvements for drawing tablets that have screens: because the EMR digitizer layer is no longer needed - the device can become thinner,  lighter, less complex to build.
 
