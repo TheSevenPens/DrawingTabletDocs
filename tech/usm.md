@@ -50,6 +50,14 @@ These are questions we have
 * Will USM pens support erasers?
 * Will USM replace AES eventually?
 
+## Layout of the USM layer
+
+This is from the patent
+
+<figure><img src="../.gitbook/assets/usm-diagram-1.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Links
 
 Patents:&#x20;
