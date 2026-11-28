@@ -52,5 +52,8 @@ These are questions we have
 
 ## Links
 
-Patent: [https://patents.google.com/patent/US20260111079A1/en](https://patents.google.com/patent/US20260111079A1/en)&#x20;
+Patents:&#x20;
+
+* [https://patents.google.com/patent/US20260111079A1/en](https://patents.google.com/patent/US20260111079A1/en)&#x20;
+* [https://patents.google.com/patent/WO2025005161A1/en](https://patents.google.com/patent/WO2025005161A1/en)
 
