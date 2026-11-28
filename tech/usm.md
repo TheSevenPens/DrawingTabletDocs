@@ -35,7 +35,7 @@ This is based on the video above:
 
 * USM will likely only appear in devices that have displays. It will not appear in pen tablets
 * USM will likely not support Wacom professional pens
-* USD will most likely support pressure
+* USM will most likely support pressure
 * USM will most likely support tilt
 
 ## What we don't know
@@ -46,7 +46,7 @@ These are questions we have
 * Will USM appear Samsung Galaxy Tab S device.
 * will USM be compatible with existing Wacom consumer pens such as their CP-913 and CP-923
 * Will USM deliver any material improvements to the drawing experience in terms of accuracy lag tilt support barrel rotation support etc. compared to the EMR technology Wacom uses currently
-* Will USM pens upport buttons or more than one button?
+* Will USM pens support buttons or more than one button?
 * Will USM pens support erasers?
 * Will USM replace AES eventually?
 
